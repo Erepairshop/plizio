@@ -34,6 +34,12 @@ import { K7_SATZSTRUKTUREN } from "./deutsch/k7_satzstrukturen";
 import { K7_TEXTARBEIT } from "./deutsch/k7_textarbeit";
 import { K7_STILMITTEL } from "./deutsch/k7_stilmittel";
 import { K8, K8_KONJUNKTIV } from "./deutsch/k8";
+import { K8_WORTSCHATZ } from "./deutsch/k8_wortschatz";
+import { K8_VERBEN } from "./deutsch/k8_verben";
+import { K8_RECHTSCHREIBUNG } from "./deutsch/k8_rechtschreibung";
+import { K8_SATZSTRUKTUREN } from "./deutsch/k8_satzstrukturen";
+import { K8_TEXTARBEIT } from "./deutsch/k8_textarbeit";
+import { K8_STILMITTEL_ERWEITERT } from "./deutsch/k8_stilmittel";
 import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
 
 // ─── HAUPTEXPORT ──────────────────────────────────────────────────────────────
@@ -43,7 +49,7 @@ export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   5: [...K5, ...K5_EXTRA, ...K5_EXPANSION, ...K5_EXPANSION2],
   6: [...K6, ...K6_RECHTSCHREIBUNG, ...K6_SATZGLIEDER, ...K6_WORTSCHATZ_NEU, ...K6_STILMITTEL, ...K6_SATZSTRUKTUREN, ...K6_TEXTARBEIT, ...K6_KONJUNKTIV, ...K6_VERBEN],
   7: [...K7, ...K7_WORTSCHATZ, ...K7_VERBEN, ...K7_RECHTSCHREIBUNG, ...K7_SATZSTRUKTUREN, ...K7_TEXTARBEIT, ...K7_STILMITTEL],
-  8: [...K8, ...K8_KONJUNKTIV],
+  8: [...K8, ...K8_KONJUNKTIV, ...K8_WORTSCHATZ, ...K8_VERBEN, ...K8_RECHTSCHREIBUNG, ...K8_SATZSTRUKTUREN, ...K8_TEXTARBEIT, ...K8_STILMITTEL_ERWEITERT],
 };
 
 /** Liefert alle Fragen der gewählten Subtopics (zufällig, max. count). */
