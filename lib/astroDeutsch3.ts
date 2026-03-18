@@ -42,7 +42,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "plural-family-explorer", icon: "🌳", label: { de: "Plural entdecken",  en: "Discover Plurals",  hu: "Többes szám felfedezés", ro: "Descoperă pluralul" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -54,7 +54,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "separable-verb-explorer", icon: "✂️", label: { de: "Verben entdecken",  en: "Discover Verbs",    hu: "Igék felfedezése",      ro: "Descoperă verbele"  } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -78,7 +78,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-parts-explorer", icon: "🔎", label: { de: "Satzglieder entdecken", en: "Discover Sentence Parts", hu: "Mondatrészek felfedezése", ro: "Descoperă propoziția" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",          hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -102,7 +102,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "past-speech-explorer",    icon: "📜", label: { de: "Vergangenheit entdecken", en: "Discover Past Tense", hu: "Múlt idő felfedezése", ro: "Descoperă trecutul" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -126,7 +126,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "punctuation-explorer",    icon: "🔡", label: { de: "Zeichensetzung entdecken", en: "Discover Punctuation", hu: "Írásjelek felfedezése", ro: "Descoperă punctuația" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 80, svgY: -20,
   },

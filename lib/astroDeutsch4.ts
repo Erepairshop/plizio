@@ -43,7 +43,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "kasus-explorer",  icon: "🔍", label: { de: "Kasus entdecken",   en: "Case Explorer",    hu: "Eset felfedező",    ro: "Explorer cazuri"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -55,7 +55,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "kasus2-explorer", icon: "🔍", label: { de: "Dativ entdecken",   en: "Dative Explorer",  hu: "Dativ felfedező",   ro: "Explorer Dativ"    } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -67,7 +67,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "tense-explorer-k4", icon: "🔍", label: { de: "Zeitformen entdecken", en: "Tense Explorer", hu: "Igeidő felfedező", ro: "Explorer timpuri" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -91,7 +91,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-part-explorer-k4", icon: "🔍", label: { de: "Satzglieder entdecken", en: "Sentence Part Explorer", hu: "Mondatrész felfedező", ro: "Explorer propoziție" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",         hu: "Gyors kör",         ro: "Rundă rapidă"    } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -107,7 +107,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "clause-explorer", icon: "🔍", label: { de: "Satzarten entdecken", en: "Clause Explorer", hu: "Mondattípus felfedező", ro: "Explorer tipuri" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",        hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -135,7 +135,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "spelling-explorer-k4", icon: "🔍", label: { de: "Rechtschreib-Entdecker", en: "Spelling Explorer", hu: "Helyesírás felfedező", ro: "Explorer ortografie" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -153,7 +153,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer-k4", icon: "🔍", label: { de: "Alles Entdecken",   en: "Review Explorer",  hu: "Összefoglaló felfedező", ro: "Explorer recapitulare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 190, svgY: -90,
   },

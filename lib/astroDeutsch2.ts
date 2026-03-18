@@ -53,7 +53,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "verb-explorer", icon: "🏃", label: { de: "Verben entdecken",  en: "Verb Explorer",    hu: "Ige felfedező",     ro: "Explorare verbe"   } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -89,7 +89,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "capitalization-explorer", icon: "🅰️", label: { de: "Großschreibung entdecken", en: "Capital Explorer", hu: "Nagybetű felfedező", ro: "Explorare majuscule" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",          hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -113,7 +113,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "spelling-explorer-2", icon: "🔡", label: { de: "Dehnungs-h entdecken", en: "Spelling Explorer II", hu: "Helyesírás II felfedező", ro: "Ortografie II" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -148,7 +148,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer", icon: "🌟", label: { de: "Große Entdeckung",  en: "Big Review",       hu: "Nagy áttekintés",   ro: "Recapitulare mare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 190, svgY: -90,
   },
