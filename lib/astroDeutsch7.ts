@@ -37,7 +37,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "💭", color: "#B44DFF", sortRange: [1, 10],
     topicKeys: ["indirekte_rede/konjunktiv_1", "indirekte_rede/aussagen_umf"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Konjunktiv I Quiz", en: "Subjunctive I Quiz", hu: "Konjunktív I kvíz", ro: "Quiz conjunctiv I" } },
+      { id: "m1", category: "explore",   gameType: "speech-transform-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"  } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",        hu: "Gyors kör",         ro: "Rundă rapidă"     } },
     ],
@@ -49,7 +49,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🔧", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["passivformen_k7/werden_passiv", "passivformen_k7/sein_passiv"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
+      { id: "m1", category: "explore",   gameType: "voice-transform-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -61,7 +61,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "⚙️", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["passivformen_k7/passiv_modal"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Passiv-Modal-Quiz", en: "Modal Passive Quiz", hu: "Modális szenvedő",  ro: "Quiz pasiv modal"  } },
+      { id: "m1", category: "explore",   gameType: "passive-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",        hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -73,7 +73,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["stilmittel/metapher_vergleich", "stilmittel/alliteration_personifikation"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Stilmittel-Quiz",   en: "Figures Quiz",     hu: "Stílus kvíz",       ro: "Quiz figuri"       } },
+      { id: "m1", category: "explore",   gameType: "style-device-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -85,7 +85,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🔀", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["nebensatztypen_k7/kausalsatz_k7", "nebensatztypen_k7/konditionalsatz_k7"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
+      { id: "m1", category: "explore",   gameType: "clause-connector-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -97,7 +97,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🎯", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["nebensatztypen_k7/konzessivsatz_k7", "nebensatztypen_k7/finalsatz_k7"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
+      { id: "m1", category: "explore",   gameType: "clause-connector-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -109,7 +109,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "⏱️", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["nebensatztypen_k7/temporalsatz_k7"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Temporal-Quiz",     en: "Temporal Quiz",    hu: "Időhatározói kvíz", ro: "Quiz temporale"    } },
+      { id: "m1", category: "explore",   gameType: "clause-connector-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -121,7 +121,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🌿", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["infinitivkonstruktionen_k7/um_zu_k7", "infinitivkonstruktionen_k7/statt_ohne_zu_k7"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Infinitiv-Quiz",    en: "Infinitive Quiz",  hu: "Infinitív kvíz",    ro: "Quiz infinitiv"    } },
+      { id: "m1", category: "explore",   gameType: "infinitiv-builder-explorer",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -137,7 +137,7 @@ export const K7_ISLANDS: IslandDef[] = [
       "nebensatztypen_k7/temporalsatz_k7", "infinitivkonstruktionen_k7/um_zu_k7",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
+      { id: "m1", category: "explore",   gameType: "review-explorer-k7",  icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],

@@ -24,6 +24,13 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import SpeechTransformExplorer from "@/app/astrodeutsch/games/SpeechTransformExplorer";
+import StyleDeviceExplorer from "@/app/astrodeutsch/games/StyleDeviceExplorer";
+import ReviewExplorerK7 from "@/app/astrodeutsch/games/ReviewExplorerK7";
+import VoiceTransformExplorer from "@/app/astrodeutsch/games/VoiceTransformExplorer";
+import PassiveExplorer from "@/app/astrodeutsch/games/PassiveExplorer";
+import InfinitivBuilderExplorer from "@/app/astrodeutsch/games/InfinitivBuilderExplorer";
+import ClauseConnectorExplorer from "@/app/astrodeutsch/games/ClauseConnectorExplorer";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -88,7 +95,10 @@ type Screen =
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
-  | "rocket-launch";
+  | "rocket-launch"
+  | "speech-transform-explorer" | "style-device-explorer" | "review-explorer-k7"
+  | "voice-transform-explorer" | "passive-explorer"
+  | "infinitiv-builder-explorer" | "clause-connector-explorer";
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -421,9 +431,16 @@ export default function AstroDeutschK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK7(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    const noQuestionsTypes = new Set([
+      "speech-transform-explorer", "style-device-explorer", "review-explorer-k7",
+      "voice-transform-explorer", "passive-explorer",
+      "infinitiv-builder-explorer", "clause-connector-explorer",
+    ]);
+    if (!noQuestionsTypes.has(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK7(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -703,11 +720,38 @@ export default function AstroDeutschK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "speech-transform-explorer" && (
+          <SpeechTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "style-device-explorer" && (
+          <StyleDeviceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer-k7" && (
+          <ReviewExplorerK7 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "voice-transform-explorer" && (
+          <VoiceTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "passive-explorer" && (
+          <PassiveExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "infinitiv-builder-explorer" && (
+          <InfinitivBuilderExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "clause-connector-explorer" && (
+          <ClauseConnectorExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreensK7 = [
+    "speech-transform-explorer", "style-device-explorer", "review-explorer-k7",
+    "voice-transform-explorer", "passive-explorer",
+    "infinitiv-builder-explorer", "clause-connector-explorer",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", ...explorerScreensK7].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
