@@ -1463,6 +1463,40 @@ const G2: EnglishTheme[] = [
       },
     ],
   },
+  {
+    id: "everyday_g2",
+    name: "Everyday Vocabulary",
+    icon: "🌍",
+    color: "#10B981",
+    subtopics: [
+      { id: "clothing_g2",      name: "Clothing",           questions: [], hasGenerator: true },
+      { id: "weather_g2",       name: "Weather",            questions: [], hasGenerator: true },
+      { id: "seasons_g2",       name: "Seasons",            questions: [], hasGenerator: true },
+      { id: "time_of_day_g2",   name: "Time of Day",        questions: [], hasGenerator: true },
+      { id: "jobs_g2",          name: "Jobs & Professions", questions: [], hasGenerator: true },
+      { id: "opposites_g2",     name: "Opposites",          questions: [], hasGenerator: true },
+      { id: "synonyms_g2",      name: "Synonyms",           questions: [], hasGenerator: true },
+      { id: "locations_g2",     name: "Locations",          questions: [], hasGenerator: true },
+      { id: "daily_routine_g2", name: "Daily Routine",      questions: [], hasGenerator: true },
+      { id: "house_rooms_g2",   name: "House & Rooms",      questions: [], hasGenerator: true },
+      { id: "hobbies_sports_g2",name: "Hobbies & Sports",   questions: [], hasGenerator: true },
+      { id: "community_g2",     name: "Community",          questions: [], hasGenerator: true },
+    ],
+  },
+  {
+    id: "grammar_ext_g2",
+    name: "Grammar & Sentences",
+    icon: "✏️",
+    color: "#F59E0B",
+    subtopics: [
+      { id: "question_words_g2",    name: "Question Words (who/what/where/when/why/how)", questions: [], hasGenerator: true },
+      { id: "conjunctions_g2",      name: "Conjunctions (and/but/or/because/so)",         questions: [], hasGenerator: true },
+      { id: "word_families_g2",     name: "Word Families",                                 questions: [], hasGenerator: true },
+      { id: "sentence_order_g2",    name: "Sentence Order",                                questions: [], hasGenerator: true },
+      { id: "sentence_completion_g2", name: "Sentence Completion",                         questions: [], hasGenerator: true },
+      { id: "rhyming_words_g2",     name: "Rhyming Words",                                 questions: [], hasGenerator: true },
+    ],
+  },
 ];
 
 // ─── GRADE 3 ──────────────────────────────────────────────────────────────────
