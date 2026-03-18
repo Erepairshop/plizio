@@ -8656,6 +8656,306 @@ export const G7_Generators = {
       }
       return q;
     },
+    phrases_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phraseTypes = [
+        { phrase: "The tall boy", type: "noun phrase" },
+        { phrase: "runs quickly", type: "verb phrase" },
+        { phrase: "very intelligent", type: "adjectival phrase" },
+        { phrase: "under the table", type: "prepositional phrase" },
+        { phrase: "The girl with red hair", type: "noun phrase" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(phraseTypes, rng);
+        const wrong = ["noun phrase", "verb phrase", "adjectival phrase", "prepositional phrase"].filter(t => t !== data.type).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "phrases_g7", `Type of "${data.phrase}":`, data.type, wrong));
+      }
+      return q;
+    },
+    clauses_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauseData = [
+        { clause: "She studied hard", type: "independent" },
+        { clause: "Although it rained", type: "dependent" },
+        { clause: "because he was tired", type: "subordinate" },
+        { clause: "The dog barked loudly", type: "independent" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(clauseData, rng);
+        const wrong = ["independent", "dependent", "subordinate"].filter(t => t !== data.type).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "clauses_g7", `"${data.clause}" is:`, data.type, wrong));
+      }
+      return q;
+    },
+    sentence_types_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "She ate an apple.", type: "simple" },
+        { sentence: "She ate an apple and he drank milk.", type: "compound" },
+        { sentence: "Although it rained, we went out.", type: "complex" },
+        { sentence: "She studied hard, and although she was tired, she finished the work.", type: "compound-complex" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceData, rng);
+        const wrong = ["simple", "compound", "complex", "compound-complex"].filter(t => t !== data.type).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "sentence_types_g7", `Type: "${data.sentence}"?`, data.type, wrong));
+      }
+      return q;
+    },
+    modifiers_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const modData = [
+        { sentence: "Running down the street, the dog barked loudly.", problem: "dangling modifier", fix: "As the dog ran down the street, it barked loudly." },
+        { sentence: "The car hit the tree driving too fast.", problem: "misplaced modifier", fix: "The car, driving too fast, hit the tree." },
+        { sentence: "Excited about the party, she danced all night.", problem: "correct", fix: "correct" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(modData, rng);
+        q.push(createMCQ("grammar_g7", "modifiers_g7", `"${data.sentence}" has:`, data.problem, ["parallel structure error", "pronoun error", "tense error"]));
+      }
+      return q;
+    },
+    tense_voice_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const voiceData = [
+        { active: "She wrote the letter.", passive: "The letter was written by her.", voice: "active" },
+        { active: "He ate the pizza.", passive: "The pizza was eaten by him.", voice: "passive" },
+        { active: "They built the house.", passive: "The house was built by them.", voice: "active" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(voiceData, rng);
+        const wrongVoice = data.voice === "active" ? "passive" : "active";
+        q.push(createMCQ("grammar_g7", "tense_voice_g7", `"${data.active}" is:`, data.voice, [wrongVoice, "conditional", "subjunctive"]));
+      }
+      return q;
+    },
+    commas_phrases_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { sentence: "After the storm the sun came out.", correction: "After the storm, the sun came out.", use: "introductory phrase" },
+        { sentence: "My brother John is a doctor.", correction: "My brother, John, is a doctor.", use: "parenthetical" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaData, rng);
+        q.push(createMCQ("punctuation_g7", "commas_phrases_g7", `Commas needed for ${data.use}:`, "yes", ["no", "maybe", "only one"]));
+      }
+      return q;
+    },
+    semicolons_colons_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const punctData = [
+        { sentence: "She studied hard; she passed the exam.", use: "semicolon" },
+        { sentence: "I need three things: pencils, paper, and notebooks.", use: "colon" },
+        { sentence: "He was confident; however, he still studied.", use: "semicolon" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(punctData, rng);
+        const wrong = ["semicolon", "colon", "comma"].filter(u => u !== data.use).slice(0, 3);
+        q.push(createMCQ("punctuation_g7", "semicolons_colons_g7", `"${data.sentence}" uses:`, data.use, wrong));
+      }
+      return q;
+    },
+    dashes_hyphens_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { sentence: "She was — surprisingly — honest.", mark: "dash", use: "parenthetical insert" },
+        { sentence: "well-known author", mark: "hyphen", use: "compound word" },
+        { sentence: "He ran — or so he claimed.", mark: "dash", use: "emphasis" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(dashData, rng);
+        q.push(createMCQ("punctuation_g7", "dashes_hyphens_g7", `"${data.sentence}" uses ${data.mark} for:`, data.use, ["list intro", "time shift", "quotation"]));
+      }
+      return q;
+    },
+    figurative_language_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { device: "extended metaphor", example: "Life is a journey with many roads." },
+        { device: "symbolism", example: "The dove represents peace." },
+        { device: "allegory", example: "Animal Farm represents Russian Revolution" },
+        { device: "irony", example: "The firefighter was afraid of fire." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(figData, rng);
+        const wrong = ["extended metaphor", "symbolism", "allegory", "irony"].filter(d => d !== data.device).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "figurative_language_g7", `"${data.example}" is:`, data.device, wrong));
+      }
+      return q;
+    },
+    connotation_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const connData = [
+        { denotation: "not spending money", positive: "frugal", negative: "miserly" },
+        { denotation: "curious", positive: "inquisitive", negative: "nosy" },
+        { denotation: "calm", positive: "serene", negative: "apathetic" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(connData, rng);
+        q.push(createMCQ("vocab_g7", "connotation_g7", `"${data.positive}" and "${data.negative}" both mean "${data.denotation}". Which has positive connotation?`, data.positive, [data.negative, "both equal", "neither"]));
+      }
+      return q;
+    },
+    academic_vocab_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const acadData = [
+        { term: "analyze", definition: "examine something in detail" },
+        { term: "evaluate", definition: "judge the value or worth" },
+        { term: "synthesize", definition: "combine parts into a whole" },
+        { term: "infer", definition: "conclude from evidence" },
+        { term: "justify", definition: "provide reasons for" },
+        { term: "contrast", definition: "show differences" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(acadData, rng);
+        const wrong = acadData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "academic_vocab_g7", `What does "${data.term}" mean?`, data.definition, wrong));
+      }
+      return q;
+    },
+    analogies_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const analogyData = [
+        { rel: "part:whole", ex: "chapter:book" },
+        { rel: "cause:effect", ex: "fire:heat" },
+        { rel: "tool:purpose", ex: "hammer:nail" },
+        { rel: "synonym", ex: "happy:joyful" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(analogyData, rng);
+        q.push(createMCQ("vocab_g7", "analogies_g7", `"${data.ex}" is a:`, data.rel, ["antonym", "homonym", "homograph"]));
+      }
+      return q;
+    },
+    cause_effect_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ceData = [
+        { sentence: "Because it rained, the game was cancelled.", connector: "because", type: "cause-effect" },
+        { sentence: "Since she studied, she passed.", connector: "since", type: "cause-effect" },
+        { sentence: "Therefore, he went home.", connector: "therefore", type: "effect-cause" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(ceData, rng);
+        q.push(createMCQ("grammar_g7", "cause_effect_g7", `Identify connector in: "${data.sentence}"`, data.connector, ["but", "however", "although"]));
+      }
+      return q;
+    },
+    conditional_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const condData = [
+        { sentence: "If you study, you will pass.", condition: "if" },
+        { sentence: "Unless you hurry, you will be late.", condition: "unless" },
+        { sentence: "Provided that you work hard, you will succeed.", condition: "provided that" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(condData, rng);
+        const wrong = ["if", "unless", "provided that"].filter(c => c !== data.condition).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "conditional_g7", `Conditional word in: "${data.sentence}"`, data.condition, wrong));
+      }
+      return q;
+    },
+    concessive_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const concData = [
+        { sentence: "Although he was tired, he continued.", connector: "although" },
+        { sentence: "Even though it rained, we went out.", connector: "even though" },
+        { sentence: "Despite the pain, she finished the race.", connector: "despite" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(concData, rng);
+        const wrong = ["although", "even though", "despite"].filter(c => c !== data.connector).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "concessive_g7", `Concessive word in: "${data.sentence}"`, data.connector, wrong));
+      }
+      return q;
+    },
+    purpose_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const purposeData = [
+        { sentence: "She studied in order to pass the test.", purpose: "in order to" },
+        { sentence: "We left early so that we could arrive on time.", purpose: "so that" },
+        { sentence: "Lock the door lest someone enter.", purpose: "lest" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(purposeData, rng);
+        const wrong = ["in order to", "so that", "lest"].filter(p => p !== data.purpose).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "purpose_g7", `Purpose connector in: "${data.sentence}"`, data.purpose, wrong));
+      }
+      return q;
+    },
+    time_clauses_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const timeData = [
+        { sentence: "When she arrived, everyone greeted her.", connector: "when" },
+        { sentence: "While I was sleeping, he left.", connector: "while" },
+        { sentence: "After the movie ended, we went home.", connector: "after" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(timeData, rng);
+        const wrong = ["when", "while", "after", "before", "until"].filter(t => t !== data.connector).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "time_clauses_g7", `Time connector in: "${data.sentence}"`, data.connector, wrong));
+      }
+      return q;
+    },
+    infinitive_phrases_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const infData = [
+        { sentence: "To win is her goal.", function: "subject" },
+        { sentence: "She wants to leave.", function: "direct object" },
+        { sentence: "To understand this concept, you must study.", function: "modifier" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(infData, rng);
+        const wrong = ["subject", "direct object", "modifier"].filter(f => f !== data.function).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "infinitive_phrases_g7", `Function in: "${data.sentence}"?`, data.function, wrong));
+      }
+      return q;
+    },
+    gerund_phrases_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const gerundData = [
+        { sentence: "Swimming is great exercise.", function: "subject" },
+        { sentence: "She enjoys reading novels.", function: "direct object" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(gerundData, rng);
+        q.push(createMCQ("grammar_g7", "gerund_phrases_g7", `Gerund function in: "${data.sentence}"?`, data.function, ["modifier", "complement", "predicate"]));
+      }
+      return q;
+    },
+    participial_phrases_g7_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const partData = [
+        { sentence: "The broken vase lay on the floor.", phrase: "broken", form: "-ed participle" },
+        { sentence: "Running quickly, he caught the bus.", phrase: "running", form: "-ing participle" },
+        { sentence: "Excited about the game, she danced.", phrase: "excited", form: "-ed participle" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(partData, rng);
+        const wrong = ["-ing participle", "-ed participle", "gerund"].filter(f => f !== data.form).slice(0, 3);
+        q.push(createMCQ("grammar_g7", "participial_phrases_g7", `"${data.phrase}" is an:`, data.form, wrong));
+      }
+      return q;
+    }
   },
 };
 
