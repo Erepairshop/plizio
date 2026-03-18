@@ -26,7 +26,7 @@ import {
   type DeutschCountry,
 } from "@/lib/deutschCurriculum";
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
-import { generateForSubtopics } from "@/lib/deutschGenerators";
+import { generateForSubtopics, GENERATORS } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
 import { getUsername } from "@/lib/username";
 import { InlineTeacherNote } from "@/components/TeacherNote";
@@ -1566,7 +1566,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                     <div className="px-3 pb-3 pt-1 flex flex-col gap-1.5">
                       {theme.subtopics.map((sub) => {
                         const sel = selectedIds.includes(sub.id);
-                        const empty = sub.questions.length === 0;
+                        const empty = sub.questions.length === 0 && !GENERATORS[sub.id];
                         return (
                           <button
                             key={sub.id}
