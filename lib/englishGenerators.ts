@@ -263,6 +263,66 @@ export const G1_Generators = {
       }
       return q;
     },
+    digraphs_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const digraphData = [
+        { word: "ship", dg: "sh" }, { word: "chat", dg: "ch" }, { word: "them", dg: "th" }, { word: "when", dg: "wh" },
+        { word: "shop", dg: "sh" }, { word: "chin", dg: "ch" }, { word: "that", dg: "th" }, { word: "white", dg: "wh" },
+        { word: "show", dg: "sh" }, { word: "chop", dg: "ch" }, { word: "thin", dg: "th" }, { word: "what", dg: "wh" },
+        { word: "sheet", dg: "sh" }, { word: "cheese", dg: "ch" }, { word: "thick", dg: "th" }, { word: "where", dg: "wh" },
+        { word: "shell", dg: "sh" }, { word: "church", dg: "ch" }, { word: "think", dg: "th" }, { word: "wheat", dg: "wh" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(digraphData, rng);
+        q.push(createTyping("phonics_g1", "digraphs_g1",
+          `Type the two letters that make ONE sound in '${data.word}':`, data.dg));
+      }
+      return q;
+    },
+    blends_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const blendData = [
+        { blend: "st", words: ["stop", "stand", "step", "star", "study", "stone", "stick", "strong"] },
+        { blend: "gr", words: ["green", "ground", "grade", "great", "grab", "graph", "grass", "grow"] },
+        { blend: "bl", words: ["black", "blue", "block", "blink", "blend", "blanket", "blurry"] },
+        { blend: "pl", words: ["place", "play", "plant", "plane", "please", "plan", "plot", "plum"] },
+        { blend: "tr", words: ["tree", "trade", "train", "track", "try", "truck", "trash", "treat"] },
+        { blend: "dr", words: ["drive", "drop", "draw", "dragon", "dress", "drink", "dream", "drip"] },
+        { blend: "br", words: ["bring", "bread", "break", "bridge", "bright", "branch", "brick", "brown"] },
+        { blend: "fl", words: ["flags", "flag", "flash", "float", "floor", "fly", "flip", "flow"] },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const blendSet = pick(blendData, rng);
+        const word = pick(blendSet.words, rng);
+        q.push(createTyping("phonics_g1", "blends_g1",
+          `Type the two letters that start '${word}':`, blendSet.blend));
+      }
+      return q;
+    },
+    rhyming_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhymeMap: Record<string, string[]> = {
+        cat: ["bat", "hat", "mat", "sat", "rat", "fat", "pat"],
+        dog: ["log", "hog", "fog", "jog", "bog"],
+        sun: ["fun", "run", "bun", "gun", "done"],
+        bed: ["red", "led", "shed", "bread", "head", "thread"],
+        pig: ["dig", "big", "rig", "fig", "wig"],
+        top: ["hop", "stop", "pop", "drop", "shop"],
+        book: ["look", "cook", "hook", "took", "shook"],
+        ball: ["call", "fall", "tall", "wall", "small"],
+      };
+      const words = Object.keys(rhymeMap);
+      for (let i = 0; i < 25; i++) {
+        const word = pick(words, rng);
+        const rhymes = rhymeMap[word];
+        q.push(createTyping("phonics_g1", "rhyming_g1",
+          `Type a word that rhymes with '${word}':`, rhymes));
+      }
+      return q;
+    },
   },
   words_g1: {
     sight_words_g1: (seed?: number) => {
@@ -277,6 +337,38 @@ export const G1_Generators = {
         const wrong = shuffle(nonsense, rng).slice(0, 3);
         q.push(createMCQ("words_g1", "sight_words_g1",
           `Which is a real word you should know by sight?`, word, wrong));
+      }
+      return q;
+    },
+    sight_words_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "___ cat is black.", answers: ["The", "the"] },
+        { sentence: "I ___ happy.", answers: ["am", "Am"] },
+        { sentence: "___ you my friend?", answers: ["Are", "are"] },
+        { sentence: "___ plays outside.", answers: ["He", "he"] },
+        { sentence: "___ have a dog.", answers: ["I", "i"] },
+        { sentence: "___ like ice cream.", answers: ["We", "we"] },
+        { sentence: "___ is my book.", answers: ["This", "this"] },
+        { sentence: "___ go to school.", answers: ["They", "they"] },
+        { sentence: "I can ___ fast.", answers: ["run", "Run"] },
+        { sentence: "___ is your name?", answers: ["What", "what"] },
+        { sentence: "I ___ not go.", answers: ["will", "Will"] },
+        { sentence: "___ is a cat.", answers: ["It", "it"] },
+        { sentence: "She ___ a book.", answers: ["has", "Has"] },
+        { sentence: "___ and blue.", answers: ["Red", "red"] },
+        { sentence: "I ___ at home.", answers: ["am", "Am"] },
+        { sentence: "___ day is sunny.", answers: ["One", "one"] },
+        { sentence: "They ___ happy.", answers: ["are", "Are"] },
+        { sentence: "___ you help me?", answers: ["Can", "can"] },
+        { sentence: "I ___ good.", answers: ["am", "Am"] },
+        { sentence: "___ is it?", answers: ["What", "what"] },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("words_g1", "sight_words_g1",
+          `Fill in the blank: "${data.sentence}"`, data.answers));
       }
       return q;
     },
@@ -332,6 +424,36 @@ export const G1_Generators = {
       }
       return q;
     },
+    articles_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "I see ___ cat.", answers: ["a", "A"] },
+        { sentence: "She ate ___ apple.", answers: ["an", "An"] },
+        { sentence: "___ elephant is big.", answers: ["An", "an"] },
+        { sentence: "I read ___ book.", answers: ["a", "A"] },
+        { sentence: "He found ___ egg.", answers: ["an", "An"] },
+        { sentence: "___ sun is bright.", answers: ["The", "the"] },
+        { sentence: "She has ___ umbrella.", answers: ["an", "An"] },
+        { sentence: "I want ___ cookie.", answers: ["a", "A"] },
+        { sentence: "___ ice cream is cold.", answers: ["The", "the"] },
+        { sentence: "He is ___ honest boy.", answers: ["an", "An"] },
+        { sentence: "We saw ___ orange bird.", answers: ["an", "An"] },
+        { sentence: "I need ___ pencil.", answers: ["a", "A"] },
+        { sentence: "___ cat is black.", answers: ["The", "the"] },
+        { sentence: "___ dog is mine.", answers: ["The", "the"] },
+        { sentence: "I have ___ toy.", answers: ["a", "A"] },
+        { sentence: "___ ant is small.", answers: ["An", "an"] },
+        { sentence: "She is ___ girl.", answers: ["a", "A"] },
+        { sentence: "___ owl can fly.", answers: ["An", "an"] },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("words_g1", "articles_g1",
+          `Fill in the blank: "${data.sentence}"`, data.answers));
+      }
+      return q;
+    },
     compound_words_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
@@ -347,6 +469,25 @@ export const G1_Generators = {
         const wrong = pairs.filter(p => p[2] !== compound).map(p => p[2]).slice(0, 3);
         q.push(createMCQ("words_g1", "compound_words_g1",
           `What compound word is made from '${w1}' + '${w2}'?`, compound, wrong));
+      }
+      return q;
+    },
+    compound_words_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs: [string, string, string][] = [
+        ["sun", "flower", "sunflower"], ["rain", "bow", "rainbow"], ["foot", "ball", "football"],
+        ["some", "one", "someone"], ["any", "thing", "anything"], ["back", "ground", "background"],
+        ["cup", "cake", "cupcake"], ["bed", "room", "bedroom"], ["pop", "corn", "popcorn"],
+        ["snow", "man", "snowman"], ["tooth", "brush", "toothbrush"], ["gold", "fish", "goldfish"],
+        ["base", "ball", "baseball"], ["play", "ground", "playground"], ["butter", "fly", "butterfly"],
+        ["hair", "cut", "haircut"], ["cat", "fish", "catfish"], ["star", "fish", "starfish"],
+        ["rain", "drop", "raindrop"], ["water", "melon", "watermelon"], ["straw", "berry", "strawberry"],
+      ];
+      for (let i = 0; i < 25; i++) {
+        const [w1, w2, compound] = pick(pairs, rng);
+        q.push(createTyping("words_g1", "compound_words_g1",
+          `Type the compound word: '${w1}' + '${w2}' =`, compound));
       }
       return q;
     },
@@ -396,6 +537,36 @@ export const G1_Generators = {
       }
       return q;
     },
+    end_punctuation_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "Where do you live", mark: "?" },
+        { sentence: "I like cats", mark: "." },
+        { sentence: "Run fast", mark: "!" },
+        { sentence: "What is your name", mark: "?" },
+        { sentence: "The sky is blue", mark: "." },
+        { sentence: "Watch out", mark: "!" },
+        { sentence: "How old are you", mark: "?" },
+        { sentence: "I have a dog", mark: "." },
+        { sentence: "What a great day", mark: "!" },
+        { sentence: "Do you like ice cream", mark: "?" },
+        { sentence: "She is my friend", mark: "." },
+        { sentence: "Help me", mark: "!" },
+        { sentence: "Can you help", mark: "?" },
+        { sentence: "It is sunny", mark: "." },
+        { sentence: "Look out", mark: "!" },
+        { sentence: "When will you come", mark: "?" },
+        { sentence: "I am happy", mark: "." },
+        { sentence: "What amazing", mark: "!" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g1", "end_punctuation_g1",
+          `Type the punctuation mark that goes at the end: "${data.sentence}___"`, data.mark));
+      }
+      return q;
+    },
     capitalization_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
@@ -417,6 +588,36 @@ export const G1_Generators = {
         const wrong = [sent.wrong, otherCorrect[0]?.correct || "the cat.", otherCorrect[1]?.correct || "a Dog."].slice(0, 3);
         q.push(createMCQ("sentences_g1", "capitalization_g1",
           `Which sentence is capitalized correctly?`, sent.correct, wrong));
+      }
+      return q;
+    },
+    capitalization_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { wrong: "the cat sat on the mat.", correct: "The cat sat on the mat." },
+        { wrong: "my name is john.", correct: "My name is John." },
+        { wrong: "she lives in new york.", correct: "She lives in New York." },
+        { wrong: "monday is the first day.", correct: "Monday is the first day." },
+        { wrong: "i like to play.", correct: "I like to play." },
+        { wrong: "the dog is big.", correct: "The dog is big." },
+        { wrong: "we go to school.", correct: "We go to school." },
+        { wrong: "my friend sam is nice.", correct: "My friend Sam is nice." },
+        { wrong: "today is friday.", correct: "Today is Friday." },
+        { wrong: "he lives in texas.", correct: "He lives in Texas." },
+        { wrong: "we play in the park.", correct: "We play in the park." },
+        { wrong: "tom likes apples.", correct: "Tom likes apples." },
+        { wrong: "she is from london.", correct: "She is from London." },
+        { wrong: "i go to school on monday.", correct: "I go to school on Monday." },
+        { wrong: "january is cold.", correct: "January is cold." },
+        { wrong: "he is my friend.", correct: "He is my friend." },
+        { wrong: "sarah likes to read.", correct: "Sarah likes to read." },
+        { wrong: "they play in france.", correct: "They play in France." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g1", "capitalization_g1",
+          `Fix the capitalization: "${data.wrong}"`, data.correct));
       }
       return q;
     },
