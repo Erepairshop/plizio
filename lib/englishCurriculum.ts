@@ -4077,6 +4077,78 @@ const G7: EnglishTheme[] = [
           { type:"mcq", topic:"vocab_g7", subtopic:"analogies_g7", question:"Pen is to writer as brush is to ___.", options:["painter","canvas","color","art"], correct:0 },
         ],
       },
+      {
+        id: "literary_devices_g7",
+        name: "Literary Devices",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"literary_devices_g7", question:"A story within a story is called:", options:["a frame narrative","an allegory","a flashback","a subplot"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"literary_devices_g7", question:"'The pen is mightier than the sword' is an example of:", options:["metaphor","simile","hyperbole","alliteration"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"literary_devices_g7", question:"When the outcome is the opposite of what is expected, this is called:", options:["irony","foreshadowing","symbolism","allusion"], correct:0 },
+        ],
+      },
+      {
+        id: "argument_structure_g7",
+        name: "Argument Structure",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"argument_structure_g7", question:"A 'claim' in an argument is:", options:["the main position you are arguing","supporting evidence","a counterargument","a conclusion"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"argument_structure_g7", question:"What is a 'rebuttal' in an argument?", options:["A response that disproves a counterargument","The main claim","Background information","A list of evidence"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"argument_structure_g7", question:"Which transition word signals a counterargument?", options:["However","Therefore","Furthermore","In conclusion"], correct:0 },
+        ],
+      },
+      {
+        id: "media_literacy_g7",
+        name: "Media Literacy",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"media_literacy_g7", question:"'Bias' in media refers to:", options:["a one-sided perspective","balanced reporting","factual accuracy","multiple sources"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"media_literacy_g7", question:"A 'credible source' is one that is:", options:["reliable and trustworthy","popular online","easy to find","written recently"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"media_literacy_g7", question:"What does 'fact-checking' mean?", options:["Verifying information is accurate","Writing news articles","Finding sources online","Creating media content"], correct:0 },
+        ],
+      },
+      {
+        id: "research_vocab_g7",
+        name: "Research & Academic Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"research_vocab_g7", question:"A 'thesis statement' is:", options:["the main argument of an essay","the first sentence","a list of facts","a summary"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"research_vocab_g7", question:"What is a 'bibliography'?", options:["A list of sources used","An introduction","A conclusion","A set of notes"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"research_vocab_g7", question:"To 'paraphrase' means to:", options:["restate in your own words","copy directly","summarize briefly","quote exactly"], correct:0 },
+        ],
+      },
+      {
+        id: "social_issues_g7",
+        name: "Social Issues Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"social_issues_g7", question:"'Equity' means:", options:["fairness tailored to individual needs","treating everyone identically","financial equality","voting rights"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"social_issues_g7", question:"What does 'stereotype' mean?", options:["A fixed oversimplified image of a group","A form of art","A legal term","A statistical fact"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"social_issues_g7", question:"'Empathy' is the ability to:", options:["understand others' feelings","argue persuasively","solve math problems","lead a group"], correct:0 },
+        ],
+      },
+      {
+        id: "science_adv_g7",
+        name: "Advanced Science Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"science_adv_g7", question:"'Hypothesis' means:", options:["a testable prediction","a proven fact","a lab result","a scientific law"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"science_adv_g7", question:"'Photosynthesis' is the process by which plants:", options:["convert sunlight to food","absorb water from soil","release oxygen at night","grow roots"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"science_adv_g7", question:"What does 'ecosystem' mean?", options:["A community of organisms and their environment","A type of animal","A weather system","A scientific experiment"], correct:0 },
+        ],
+      },
+      {
+        id: "history_adv_g7",
+        name: "Advanced History Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"history_adv_g7", question:"'Colonization' refers to:", options:["a country establishing control over another territory","a form of government","a trade agreement","a type of conflict"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"history_adv_g7", question:"What is a 'revolution'?", options:["A dramatic overthrow of an existing system","A type of election","A military parade","A diplomatic meeting"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"history_adv_g7", question:"'Democracy' means:", options:["government by the people","rule by a single leader","military control","religious governance"], correct:0 },
+        ],
+      },
+      {
+        id: "digital_literacy_g7",
+        name: "Digital Literacy",
+        questions: [
+          { type:"mcq", topic:"vocab_g7", subtopic:"digital_literacy_g7", question:"'Phishing' is:", options:["an attempt to steal personal data online","a type of software","a coding language","a search engine"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"digital_literacy_g7", question:"What is 'digital footprint'?", options:["The trail of data you leave online","A type of computer error","A social media profile","An internet connection"], correct:0 },
+          { type:"mcq", topic:"vocab_g7", subtopic:"digital_literacy_g7", question:"'Copyright' protects:", options:["an author's original work","computer hardware","website domains","user passwords"], correct:0 },
+        ],
+      },
     ],
   },
   {
