@@ -18,8 +18,14 @@ import { K1 } from "./deutsch/k1";
 import { K2 } from "./deutsch/k2";
 import { K3 } from "./deutsch/k3";
 import { K4 } from "./deutsch/k4";
-import { K5, K5_EXTRA, K5_EXPANSION } from "./deutsch/k5";
+import { K5, K5_EXTRA, K5_EXPANSION, K5_EXPANSION2 } from "./deutsch/k5";
 import { K6 } from "./deutsch/k6";
+import { K6_RECHTSCHREIBUNG, K6_SATZGLIEDER } from "./deutsch/k6_rechtschreibung";
+import { K6_WORTSCHATZ_NEU, K6_STILMITTEL } from "./deutsch/k6_wortschatz_stil";
+import { K6_SATZSTRUKTUREN } from "./deutsch/k6_satzstrukturen";
+import { K6_TEXTARBEIT } from "./deutsch/k6_textarbeit";
+import { K6_KONJUNKTIV } from "./deutsch/k6_konjunktiv";
+import { K6_VERBEN } from "./deutsch/k6_verben";
 import { K7 } from "./deutsch/k7";
 import { K8, K8_KONJUNKTIV } from "./deutsch/k8";
 import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
@@ -28,7 +34,9 @@ import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
 
 export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   1: K1, 2: K2, 3: K3, 4: K4,
-  5: [...K5, ...K5_EXTRA, ...K5_EXPANSION], 6: K6, 7: K7,
+  5: [...K5, ...K5_EXTRA, ...K5_EXPANSION, ...K5_EXPANSION2],
+  6: [...K6, ...K6_RECHTSCHREIBUNG, ...K6_SATZGLIEDER, ...K6_WORTSCHATZ_NEU, ...K6_STILMITTEL, ...K6_SATZSTRUKTUREN, ...K6_TEXTARBEIT, ...K6_KONJUNKTIV, ...K6_VERBEN],
+  7: K7,
   8: [...K8, ...K8_KONJUNKTIV],
 };
 
