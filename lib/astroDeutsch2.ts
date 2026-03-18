@@ -148,7 +148,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer", icon: "🌟", label: { de: "Große Entdeckung",  en: "Big Review",       hu: "Nagy áttekintés",   ro: "Recapitulare mare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "🗂️", label: { de: "Kategorie-Rush", en: "Category Rush", hu: "Kategória roham", ro: "Categorie rapidă" } },
     ],
     svgX: 190, svgY: -90,
   },

@@ -33,6 +33,7 @@ import ClauseExplorer from "@/app/astrodeutsch/games/ClauseExplorer";
 import VerbExplorerK4 from "@/app/astrodeutsch/games/VerbExplorerK4";
 import SpellingExplorerK4 from "@/app/astrodeutsch/games/SpellingExplorerK4";
 import ReviewExplorerK4 from "@/app/astrodeutsch/games/ReviewExplorerK4";
+import GapFill from "@/app/astrodeutsch/games/GapFill";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -99,6 +100,7 @@ type Screen =
   | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
   | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
   | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4"
+  | "gap-fill"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -436,6 +438,7 @@ export default function AstroDeutschK4Page() {
     "kasus-explorer", "kasus2-explorer", "tense-explorer-k4",
     "word-class-explorer-k4", "sentence-part-explorer-k4", "clause-explorer",
     "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
+    "gap-fill",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -756,6 +759,9 @@ export default function AstroDeutschK4Page() {
         {screen === "review-explorer-k4" && (
           <ReviewExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "gap-fill" && (
+          <GapFill color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
@@ -766,7 +772,7 @@ export default function AstroDeutschK4Page() {
     "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
   ];
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", ...explorerScreensK4].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "gap-fill", ...explorerScreensK4].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -153,7 +153,7 @@ export const K4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer-k4", icon: "🔍", label: { de: "Alles Entdecken",   en: "Review Explorer",  hu: "Összefoglaló felfedező", ro: "Explorer recapitulare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
+      { id: "m3", category: "challenge", gameType: "gap-fill", icon: "✏️", label: { de: "Lückentext", en: "Gap Fill", hu: "Hiánypótlás", ro: "Completare goluri" } },
     ],
     svgX: 190, svgY: -90,
   },

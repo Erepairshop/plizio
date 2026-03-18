@@ -142,7 +142,7 @@ export const K8_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer-k8",  icon: "🌟", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",   en: "Star Match",          hu: "Csillag párosítás",  ro: "Potrivire stele"    } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",    en: "Black Hole",          hu: "Fekete lyuk",        ro: "Gaură neagră"       } },
+      { id: "m3", category: "challenge", gameType: "star-match",  icon: "💫", label: { de: "Stern-Paare",       en: "Star Match",          hu: "Csillag párosítás",  ro: "Potrivire stele"    } },
     ],
     svgX: 190, svgY: -90,
   },

@@ -35,6 +35,7 @@ import SpellingRuleExplorer from "@/app/astrodeutsch/games/SpellingRuleExplorer"
 import SpellingExplorer2 from "@/app/astrodeutsch/games/SpellingExplorer2";
 import WordFieldExplorer from "@/app/astrodeutsch/games/WordFieldExplorer";
 import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
+import CategoryRush from "@/app/astrodeutsch/games/CategoryRush";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -99,6 +100,7 @@ type Screen =
   | "noun-explorer" | "verb-explorer" | "adjective-explorer" | "sentence-type-explorer"
   | "capitalization-explorer" | "spelling-rule-explorer" | "spelling-explorer-2"
   | "word-field-explorer" | "review-explorer"
+  | "category-rush"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -436,6 +438,7 @@ export default function AstroDeutschK2Page() {
     "noun-explorer", "verb-explorer", "adjective-explorer", "sentence-type-explorer",
     "capitalization-explorer", "spelling-rule-explorer", "spelling-explorer-2",
     "word-field-explorer", "review-explorer",
+    "category-rush",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -756,6 +759,9 @@ export default function AstroDeutschK2Page() {
         {screen === "review-explorer" && (
           <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "category-rush" && (
+          <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
@@ -766,7 +772,7 @@ export default function AstroDeutschK2Page() {
     "word-field-explorer", "review-explorer",
   ];
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "category-rush", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -19,7 +19,7 @@ import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/acce
 import { T } from "@/app/astromath/games/translations";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
-import StarMatch from "@/app/astromath/games/StarMatch";
+import StarMatch from "@/app/astrodeutsch/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
@@ -713,7 +713,7 @@ export default function AstroDeutschK8Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "star-match" && questions.length > 0 && (
-          <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />
+          <StarMatch questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "speed-round" && questions.length > 0 && (
           <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}

@@ -144,7 +144,7 @@ export const K3_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",         icon: "🌟", label: { de: "Große Entdeckung",      en: "Big Discovery",    hu: "Nagy felfedezés",       ro: "Marea descoperire"  } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "sentence-scramble", icon: "🔀", label: { de: "Satz-Puzzle", en: "Sentence Scramble", hu: "Mondat keverő", ro: "Amestec propoziții" } },
     ],
     svgX: 190, svgY: -90,
   },

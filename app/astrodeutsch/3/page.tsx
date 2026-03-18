@@ -33,6 +33,7 @@ import PastSpeechExplorer from "@/app/astrodeutsch/games/PastSpeechExplorer";
 import SpellingK3Explorer from "@/app/astrodeutsch/games/SpellingK3Explorer";
 import PunctuationExplorer from "@/app/astrodeutsch/games/PunctuationExplorer";
 import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
+import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -99,6 +100,7 @@ type Screen =
   | "plural-family-explorer" | "separable-verb-explorer" | "comparison-explorer"
   | "sentence-parts-explorer" | "tense-timeline-explorer" | "past-speech-explorer"
   | "spelling-k3-explorer" | "punctuation-explorer" | "review-explorer"
+  | "sentence-scramble"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -436,6 +438,7 @@ export default function AstroDeutschK3Page() {
     "plural-family-explorer", "separable-verb-explorer", "comparison-explorer",
     "sentence-parts-explorer", "tense-timeline-explorer", "past-speech-explorer",
     "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
+    "sentence-scramble",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -756,6 +759,9 @@ export default function AstroDeutschK3Page() {
         {screen === "review-explorer" && (
           <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "sentence-scramble" && (
+          <SentenceScramble color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
@@ -766,7 +772,7 @@ export default function AstroDeutschK3Page() {
     "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
   ];
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "sentence-scramble", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
