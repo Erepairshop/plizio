@@ -427,15 +427,23 @@ export default function AstroDeutschK6Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes = new Set([
+    "voice-transform-explorer", "wish-machine-explorer", "infinitiv-builder-explorer",
+    "word-net-explorer", "clause-connector-explorer", "word-build-explorer",
+    "review-explorer-k6",
+  ]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK6(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    if (!noQuestionsTypes.has(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK6(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -713,11 +721,38 @@ export default function AstroDeutschK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "voice-transform-explorer" && (
+          <VoiceTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "wish-machine-explorer" && (
+          <WishMachineExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "infinitiv-builder-explorer" && (
+          <InfinitivBuilderExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-net-explorer" && (
+          <WordNetExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "clause-connector-explorer" && (
+          <ClauseConnectorExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-build-explorer" && (
+          <WordBuildExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer-k6" && (
+          <ReviewExplorerK6 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreensK6 = [
+    "voice-transform-explorer", "wish-machine-explorer", "infinitiv-builder-explorer",
+    "word-net-explorer", "clause-connector-explorer", "word-build-explorer",
+    "review-explorer-k6",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", ...explorerScreensK6].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
