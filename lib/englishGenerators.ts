@@ -3463,6 +3463,342 @@ export const G3_Generators = {
       }
       return q;
     },
+    nature_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const natureVocab = [
+        { word: "forest", definition: "a large area covered with many trees" },
+        { word: "mountain", definition: "a very high hill with steep sides" },
+        { word: "river", definition: "a large flow of water that moves toward the sea" },
+        { word: "ocean", definition: "a very large body of salt water" },
+        { word: "desert", definition: "a dry, sandy area with little rain" },
+        { word: "valley", definition: "a low area between hills or mountains" },
+        { word: "meadow", definition: "an open area of grass" },
+        { word: "cliff", definition: "a high, steep rock face" },
+        { word: "waterfall", definition: "water falling down from a high place" },
+        { word: "prairie", definition: "a large flat area of grass with few trees" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(natureVocab, rng);
+        const wrong = shuffle(natureVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "nature_g3",
+          `What is a '${vocab.word}'?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    nature_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const natureVocab = [
+        { word: "forest", hint: "A large area covered with many trees" },
+        { word: "mountain", hint: "A very high hill with steep sides" },
+        { word: "river", hint: "A large flow of water toward the sea" },
+        { word: "ocean", hint: "A very large body of salt water" },
+        { word: "desert", hint: "A dry, sandy area with little rain" },
+        { word: "valley", hint: "A low area between hills or mountains" },
+        { word: "meadow", hint: "An open area of grass" },
+        { word: "cliff", hint: "A high, steep rock face" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(natureVocab, rng);
+        q.push(createTyping("vocab_g3", "nature_g3", `What is this? "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    travel_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const travelVocab = [
+        { word: "train", definition: "a long vehicle on tracks that carries people or goods" },
+        { word: "airport", definition: "a place where planes take off and land" },
+        { word: "map", definition: "a drawing that shows locations and distances" },
+        { word: "direction", definition: "the way to go (north, south, east, west)" },
+        { word: "passport", definition: "an official document needed for international travel" },
+        { word: "hotel", definition: "a building where travelers stay overnight" },
+        { word: "luggage", definition: "bags and suitcases you carry when traveling" },
+        { word: "itinerary", definition: "a plan of the places you will visit" },
+        { word: "tourist", definition: "a person traveling for pleasure" },
+        { word: "compass", definition: "a tool that shows direction using a needle" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(travelVocab, rng);
+        const wrong = shuffle(travelVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "travel_g3",
+          `What is '${vocab.word}' in travel?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    travel_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const travelVocab = [
+        { word: "train", hint: "A long vehicle on tracks" },
+        { word: "airport", hint: "A place where planes take off and land" },
+        { word: "map", hint: "A drawing showing locations" },
+        { word: "hotel", hint: "A building where travelers stay" },
+        { word: "luggage", hint: "Bags and suitcases for travel" },
+        { word: "tourist", hint: "A person traveling for pleasure" },
+        { word: "passport", hint: "A document for international travel" },
+        { word: "compass", hint: "A tool showing direction" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(travelVocab, rng);
+        q.push(createTyping("vocab_g3", "travel_g3", `Travel word: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    health_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const healthVocab = [
+        { word: "doctor", definition: "a person who treats sick people" },
+        { word: "medicine", definition: "a substance used to cure illness" },
+        { word: "exercise", definition: "physical activity to stay healthy" },
+        { word: "healthy", definition: "in good physical condition" },
+        { word: "hospital", definition: "a building where sick people are treated" },
+        { word: "symptom", definition: "a sign that you have an illness" },
+        { word: "vaccine", definition: "a medicine that prevents disease" },
+        { word: "nutrition", definition: "food and what your body needs to be healthy" },
+        { word: "virus", definition: "a tiny living thing that causes illness" },
+        { word: "recovery", definition: "becoming healthy again after being sick" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(healthVocab, rng);
+        const wrong = shuffle(healthVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "health_g3",
+          `What is '${vocab.word}'?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    health_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const healthVocab = [
+        { word: "doctor", hint: "A person who treats sick people" },
+        { word: "medicine", hint: "A substance used to cure illness" },
+        { word: "exercise", hint: "Physical activity to stay healthy" },
+        { word: "hospital", hint: "A building for treating sick people" },
+        { word: "vaccine", hint: "A medicine that prevents disease" },
+        { word: "symptom", hint: "A sign that you are ill" },
+        { word: "healthy", hint: "In good physical condition" },
+        { word: "virus", hint: "A tiny thing that causes illness" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(healthVocab, rng);
+        q.push(createTyping("vocab_g3", "health_g3", `Health word: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    emotions_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const emotionVocab = [
+        { word: "nervous", definition: "worried or anxious about something" },
+        { word: "proud", definition: "feeling pleased about an accomplishment" },
+        { word: "embarrassed", definition: "feeling ashamed or self-conscious" },
+        { word: "jealous", definition: "upset because someone has something you want" },
+        { word: "grateful", definition: "feeling thankful" },
+        { word: "frustrated", definition: "feeling annoyed when you can't do something" },
+        { word: "relieved", definition: "feeling better after worry ends" },
+        { word: "amazed", definition: "very surprised and impressed" },
+        { word: "confused", definition: "not understanding something" },
+        { word: "excited", definition: "very happy and eager about something" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(emotionVocab, rng);
+        const wrong = shuffle(emotionVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "emotions_g3",
+          `What does '${vocab.word}' mean?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    emotions_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const emotionVocab = [
+        { word: "nervous", hint: "Worried or anxious" },
+        { word: "proud", hint: "Pleased about an accomplishment" },
+        { word: "embarrassed", hint: "Feeling ashamed" },
+        { word: "jealous", hint: "Upset because someone has something you want" },
+        { word: "grateful", hint: "Feeling thankful" },
+        { word: "frustrated", hint: "Annoyed when you can't do something" },
+        { word: "amazed", hint: "Very surprised and impressed" },
+        { word: "confused", hint: "Not understanding something" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(emotionVocab, rng);
+        q.push(createTyping("vocab_g3", "emotions_g3", `Emotion: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    environment_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const envVocab = [
+        { word: "recycle", definition: "to process used materials to make new products" },
+        { word: "pollution", definition: "harmful substances that damage the air, water, or land" },
+        { word: "energy", definition: "power to make things work or move" },
+        { word: "plants", definition: "living things that grow in soil and need sunlight" },
+        { word: "climate", definition: "the typical weather pattern of a place" },
+        { word: "extinct", definition: "no longer existing (a species that has died out)" },
+        { word: "ecosystem", definition: "a community of living things in an environment" },
+        { word: "fossil", definition: "the preserved remains of ancient plants or animals" },
+        { word: "renewable", definition: "able to be replaced or replenished" },
+        { word: "carbon", definition: "a natural element found in all living things" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(envVocab, rng);
+        const wrong = shuffle(envVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "environment_g3",
+          `What is '${vocab.word}'?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    environment_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const envVocab = [
+        { word: "recycle", hint: "Process used materials to make new products" },
+        { word: "pollution", hint: "Harmful substances damaging air, water, or land" },
+        { word: "energy", hint: "Power to make things work" },
+        { word: "plants", hint: "Living things that grow in soil" },
+        { word: "climate", hint: "The typical weather pattern of a place" },
+        { word: "ecosystem", hint: "A community of living things" },
+        { word: "fossil", hint: "The remains of ancient life forms" },
+        { word: "extinct", hint: "No longer existing" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(envVocab, rng);
+        q.push(createTyping("vocab_g3", "environment_g3", `Environment word: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    technology_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const techVocab = [
+        { word: "computer", definition: "an electronic machine that processes information" },
+        { word: "internet", definition: "a global network connecting computers worldwide" },
+        { word: "device", definition: "a machine or tool designed for a specific purpose" },
+        { word: "screen", definition: "a display that shows images or text" },
+        { word: "keyboard", definition: "an input device with keys for typing" },
+        { word: "software", definition: "programs that run on a computer" },
+        { word: "password", definition: "a secret code to access an account" },
+        { word: "download", definition: "to transfer files from internet to your device" },
+        { word: "upload", definition: "to transfer files from your device to the internet" },
+        { word: "robot", definition: "a machine that can perform tasks automatically" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(techVocab, rng);
+        const wrong = shuffle(techVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "technology_g3",
+          `What is a '${vocab.word}'?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    technology_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const techVocab = [
+        { word: "computer", hint: "An electronic machine that processes information" },
+        { word: "internet", hint: "A global network connecting computers" },
+        { word: "device", hint: "A machine designed for a purpose" },
+        { word: "screen", hint: "A display showing images or text" },
+        { word: "keyboard", hint: "An input device with keys for typing" },
+        { word: "software", hint: "Programs that run on a computer" },
+        { word: "download", hint: "Transfer files to your device from the internet" },
+        { word: "upload", hint: "Transfer files from your device to the internet" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(techVocab, rng);
+        q.push(createTyping("vocab_g3", "technology_g3", `Tech word: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    food_cooking_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const foodVocab = [
+        { word: "ingredients", definition: "the items used to make a recipe" },
+        { word: "recipe", definition: "instructions for preparing a dish" },
+        { word: "bake", definition: "to cook in an oven with dry heat" },
+        { word: "fry", definition: "to cook in hot oil or fat" },
+        { word: "boil", definition: "to heat liquid until it bubbles" },
+        { word: "roast", definition: "to cook with dry heat in an oven" },
+        { word: "seasoning", definition: "spices or herbs that add flavor" },
+        { word: "portion", definition: "an amount of food served" },
+        { word: "nutrition", definition: "the food needed for health" },
+        { word: "cuisine", definition: "a style of cooking from a particular region" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(foodVocab, rng);
+        const wrong = shuffle(foodVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "food_cooking_g3",
+          `What is '${vocab.word}' in cooking?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    food_cooking_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const foodVocab = [
+        { word: "ingredients", hint: "Items used to make a recipe" },
+        { word: "recipe", hint: "Instructions for preparing a dish" },
+        { word: "bake", hint: "Cook in an oven with dry heat" },
+        { word: "fry", hint: "Cook in hot oil or fat" },
+        { word: "boil", hint: "Heat liquid until it bubbles" },
+        { word: "seasoning", hint: "Spices that add flavor" },
+        { word: "roast", hint: "Cook with dry heat in an oven" },
+        { word: "portion", hint: "An amount of food served" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(foodVocab, rng);
+        q.push(createTyping("vocab_g3", "food_cooking_g3", `Cooking: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
+    time_dates_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const timeVocab = [
+        { word: "calendar", definition: "a chart showing days, weeks, and months" },
+        { word: "decade", definition: "a period of ten years" },
+        { word: "century", definition: "a period of one hundred years" },
+        { word: "schedule", definition: "a plan showing times for events" },
+        { word: "chronological", definition: "arranged in order of time from first to last" },
+        { word: "era", definition: "a long period of history" },
+        { word: "milestone", definition: "an important event in time" },
+        { word: "punctual", definition: "arriving on time" },
+        { word: "temporary", definition: "lasting for a short time only" },
+        { word: "permanent", definition: "lasting forever or for a long time" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const vocab = pick(timeVocab, rng);
+        const wrong = shuffle(timeVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g3", "time_dates_g3",
+          `What is '${vocab.word}'?`, vocab.definition, wrong));
+      }
+      return q;
+    },
+    time_dates_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const timeVocab = [
+        { word: "calendar", hint: "A chart showing days and months" },
+        { word: "decade", hint: "A period of ten years" },
+        { word: "century", hint: "A period of one hundred years" },
+        { word: "schedule", hint: "A plan showing times for events" },
+        { word: "era", hint: "A long period of history" },
+        { word: "milestone", hint: "An important event in time" },
+        { word: "chronological", hint: "Arranged in order of time" },
+        { word: "permanent", hint: "Lasting forever or for a long time" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const vocab = pick(timeVocab, rng);
+        q.push(createTyping("vocab_g3", "time_dates_g3", `Time/dates: "${vocab.hint}"`, vocab.word));
+      }
+      return q;
+    },
   },
 };
 
