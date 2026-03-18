@@ -38,7 +38,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k5/steigerung", "wortarten_k5/adverbien_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Steigerung-Quiz",   en: "Comparison Quiz",  hu: "Fokozás kvíz",      ro: "Quiz comparație"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 160, svgY: 530,
@@ -50,7 +50,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k5/pronomen", "wortarten_k5/relativpronomen"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Pronomen-Quiz",     en: "Pronoun Quiz",     hu: "Névmás kvíz",       ro: "Quiz pronume"      } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 80, svgY: 440,
@@ -62,7 +62,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k5/praepositionen_k5", "wortarten_k5/konjunktionen_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Präpositions-Quiz", en: "Preposition Quiz", hu: "Elöljáró kvíz",     ro: "Quiz prepoziții"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 240, svgY: 360,
@@ -74,7 +74,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k5/adverbiale", "satzglieder_k5/wortstellung", "satzglieder_k5/adjektivdeklination_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Satzglieder-Quiz",  en: "Sentence Parts Quiz", hu: "Mondatrész kvíz",  ro: "Quiz propoziție"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",          hu: "Bolygó kvíz",       ro: "Quiz planetar"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde",        en: "Speed Round",      hu: "Villámkör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 90, svgY: 270,
@@ -86,7 +86,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["zeichensetzung_k5/komma_nebensatz", "zeichensetzung_k5/direkte_rede"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 220, svgY: 195,
@@ -98,7 +98,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["zeitformen_k5/partizip_1_k5", "zeitformen_k5/partizip_2_k5", "zeitformen_k5/plusquamperfekt_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Partizip-Quiz",     en: "Participle Quiz",  hu: "Igenév kvíz",       ro: "Quiz participiu"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 100, svgY: 125,
@@ -110,7 +110,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["passiv_k5/vorgangspassiv_k5", "passiv_k5/passiv_praeteritum_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 230, svgY: 55,
@@ -122,7 +122,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k5/ss_beta_k5", "rechtschreibung_k5/grossklein_k5", "wortschatz_k5/synonyme_k5", "wortschatz_k5/fremdwoerter_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Rechtschreib-Quiz", en: "Spelling Quiz",    hu: "Helyesírás kvíz",   ro: "Quiz ortografie"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: -20,
@@ -137,7 +137,7 @@ export const K5_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "spell-race",  icon: "🏃", label: { de: "Buchstabier-Rennen", en: "Spell Race", hu: "Betűzés verseny", ro: "Cursă de litere" } },
     ],
     svgX: 190, svgY: -90,
