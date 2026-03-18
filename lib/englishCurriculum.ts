@@ -788,6 +788,22 @@ const G1: EnglishTheme[] = [
       },
     ],
   },
+  {
+    id: "vocab_g1",
+    name: "Vocabulary",
+    icon: "📚",
+    color: "#10B981",
+    subtopics: [
+      { id: "colors_g1",       name: "Colors",            questions: [] },
+      { id: "numbers_words_g1",name: "Number Words",       questions: [] },
+      { id: "days_months_g1",  name: "Days & Months",      questions: [] },
+      { id: "animals_g1",      name: "Animals",            questions: [] },
+      { id: "body_parts_g1",   name: "Body Parts",         questions: [] },
+      { id: "family_g1",       name: "Family",             questions: [] },
+      { id: "food_g1",         name: "Food & Drinks",      questions: [] },
+      { id: "classroom_g1",    name: "Classroom Objects",  questions: [] },
+    ],
+  },
 ];
 
 // ─── GRADE 2 ──────────────────────────────────────────────────────────────────
@@ -3675,6 +3691,12 @@ export function getEnglishQuestions(
           } else {
             // Fallback to hardcoded questions if generator doesn't exist
             pool.push(...sub.questions);
+          }
+          // Also call the _typing variant if it exists (mixed MCQ + typing questions)
+          const typingFn = topicGenerators[sub.id + "_typing"];
+          if (typingFn && typeof typingFn === "function") {
+            const seed2 = Math.floor(Math.random() * 1000000);
+            pool.push(...typingFn(seed2));
           }
         } else {
           // Fallback to hardcoded questions if topic generators don't exist
