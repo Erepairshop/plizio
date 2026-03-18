@@ -26,6 +26,15 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
+import NounExplorer from "@/app/astrodeutsch/games/NounExplorer";
+import VerbExplorer from "@/app/astrodeutsch/games/VerbExplorer";
+import AdjectiveExplorer from "@/app/astrodeutsch/games/AdjectiveExplorer";
+import SentenceTypeExplorer from "@/app/astrodeutsch/games/SentenceTypeExplorer";
+import CapitalizationExplorer from "@/app/astrodeutsch/games/CapitalizationExplorer";
+import SpellingRuleExplorer from "@/app/astrodeutsch/games/SpellingRuleExplorer";
+import SpellingExplorer2 from "@/app/astrodeutsch/games/SpellingExplorer2";
+import WordFieldExplorer from "@/app/astrodeutsch/games/WordFieldExplorer";
+import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -87,6 +96,9 @@ const K2_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
+  | "noun-explorer" | "verb-explorer" | "adjective-explorer" | "sentence-type-explorer"
+  | "capitalization-explorer" | "spelling-rule-explorer" | "spelling-explorer-2"
+  | "word-field-explorer" | "review-explorer"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -419,17 +431,24 @@ export default function AstroDeutschK2Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes = new Set([
+    "deutsch-visual",
+    "noun-explorer", "verb-explorer", "adjective-explorer", "sentence-type-explorer",
+    "capitalization-explorer", "spelling-rule-explorer", "spelling-explorer-2",
+    "word-field-explorer", "review-explorer",
+  ]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType !== "deutsch-visual") {
+    if (!noQuestionsTypes.has(mission.gameType)) {
       const qCount = mission.gameType === "star-match" ? 15 : 10;
       const qs = generateIslandQuestionsK2(activeIsland, lang as Lang, qCount);
       setQuestions(qs);
     }
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -710,11 +729,44 @@ export default function AstroDeutschK2Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "noun-explorer" && (
+          <NounExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "verb-explorer" && (
+          <VerbExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "adjective-explorer" && (
+          <AdjectiveExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-type-explorer" && (
+          <SentenceTypeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "capitalization-explorer" && (
+          <CapitalizationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "spelling-rule-explorer" && (
+          <SpellingRuleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "spelling-explorer-2" && (
+          <SpellingExplorer2 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-field-explorer" && (
+          <WordFieldExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer" && (
+          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual"].includes(screen)) return (
+  const explorerScreens = [
+    "noun-explorer", "verb-explorer", "adjective-explorer", "sentence-type-explorer",
+    "capitalization-explorer", "spelling-rule-explorer", "spelling-explorer-2",
+    "word-field-explorer", "review-explorer",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
