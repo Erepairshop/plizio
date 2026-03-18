@@ -5682,6 +5682,216 @@ export const G5_Generators = {
         }
       }
       return q;
+    },
+    conjunctions_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const subConj = ["although", "because", "while", "unless", "since", "if", "until", "after", "before", "when"];
+      const coordConj = ["and", "but", "or", "so", "yet", "for", "nor"];
+      for (let i = 0; i < 30; i++) {
+        const variant = Math.floor(rng() * 3);
+        if (variant === 0) {
+          const correct = pick(subConj, rng);
+          const wrong = subConj.filter(c => c !== correct).slice(0, 3);
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Which subordinating conjunction: "___it was cold, she went."`, correct, wrong));
+        } else if (variant === 1) {
+          const correct = pick(subConj, rng);
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "subordinating", ["coordinating", "correlative", "adverbial"]));
+        } else {
+          const correct = pick(coordConj, rng);
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "coordinating", ["subordinating", "correlative", "preposition"]));
+        }
+      }
+      return q;
+    },
+    interjections_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const interjections = [
+        { word: "Wow", use: "amazement" }, { word: "Ouch", use: "pain" }, { word: "Hey", use: "attention" },
+        { word: "Oh", use: "surprise" }, { word: "Alas", use: "sorrow" }, { word: "Hooray", use: "joy" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const intj = pick(interjections, rng);
+        const wrong = interjections.filter(j => j.word !== intj.word).map(j => j.word).slice(0, 3);
+        q.push(createMCQ("pos_g5", "interjections_g5",`Which interjection expresses '${intj.use}'?`, intj.word, wrong));
+      }
+      return q;
+    },
+    perfect_tenses_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const perfectData = [
+        { tense: "present perfect", example: "has walked" },
+        { tense: "past perfect", example: "had walked" },
+        { tense: "future perfect", example: "will have walked" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(perfectData, rng);
+        const wrong = perfectData.filter(p => p.tense !== data.tense).map(p => p.example);
+        q.push(createMCQ("pos_g5", "perfect_tenses_g5", `Which perfect tense: "She ___"?`, data.example, wrong));
+      }
+      return q;
+    },
+    tense_shifts_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const data = [
+        { correct: "She walks to school and eats lunch.", wrong: "She walks to school and ate lunch." },
+        { correct: "He ran fast and jumped over the fence.", wrong: "He ran fast and jumps over the fence." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const d = pick(data, rng);
+        q.push(createMCQ("sentences_g5", "tense_shifts_g5", `Which has consistent tense?`, d.correct, [d.wrong, "They were happy and will celebrate.", "He goes and went home."]));
+      }
+      return q;
+    },
+    correlative_conj_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const correlData = ["either...or", "neither...nor", "both...and", "not only...but also"];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(correlData, rng);
+        const wrong = correlData.filter(c => c !== correct).slice(0, 3);
+        q.push(createMCQ("pos_g5", "correlative_conj_g5", `Complete: "You can have ___ chocolate ___ vanilla."`, correct, wrong));
+      }
+      return q;
+    },
+    complex_sentences_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "I like pizza.", type: "simple" },
+        { sentence: "I like pizza, and she likes tacos.", type: "compound" },
+        { sentence: "I like pizza because it tastes good.", type: "complex" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceData, rng);
+        const types = ["simple", "compound", "complex"];
+        const wrong = types.filter(t => t !== data.type);
+        q.push(createMCQ("sentences_g5", "complex_sentences_g5", `Type: "${data.sentence}"`, data.type, wrong));
+      }
+      return q;
+    },
+    intro_clauses_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const correct = "After the movie ended, we went home.";
+      const wrong = "After the movie ended we went home.";
+      for (let i = 0; i < 30; i++) {
+        q.push(createMCQ("spelling_g5", "intro_clauses_g5", `Correct comma use after intro clause?`, correct, [wrong, "Although it was late she continued working.", "When I arrived everyone cheered."]));
+      }
+      return q;
+    },
+    combining_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const combineData = ["The happy dog ran.", "Because she studied hard, she passed.", "He likes both pizza and tacos."];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(combineData, rng);
+        q.push(createMCQ("sentences_g5", "combining_g5", `Best way to combine sentences?`, correct, ["The dog ran and was happy.", "She studied and passed.", "Pizza and tacos he likes."]));
+      }
+      return q;
+    },
+    commas_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = ["I like apples, oranges, and bananas.", "However, I also like grapes.", "Since you arrived, we can start."];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(commaData, rng);
+        q.push(createMCQ("spelling_g5", "commas_g5", `Which comma usage is correct?`, correct, ["I like apples oranges and bananas.", "However I also like grapes.", "Since you arrived we can start."]));
+      }
+      return q;
+    },
+    titles_italics_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const titleData = ["I read *Harry Potter* last summer.", 'She said, "Hello world."', "The movie *Avatar* was amazing."];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(titleData, rng);
+        q.push(createMCQ("spelling_g5", "titles_italics_g5", `Correct title formatting?`, correct, ['I read "Harry Potter" last summer.', "The movie Avatar was amazing.", 'She said, Hello world.']));
+      }
+      return q;
+    },
+    apostrophes_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const apostropheData = ["The dog's tail wagged.", "She can't swim.", "The boys' books are here.", "It's a sunny day."];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(apostropheData, rng);
+        const wrong = apostropheData.filter(a => a !== correct);
+        q.push(createMCQ("spelling_g5", "apostrophes_g5", `Correct apostrophe use?`, correct, wrong.slice(0, 3)));
+      }
+      return q;
+    },
+    spelling_strategies_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const spellingData = ["accommodate", "separate", "definitely", "necessary"];
+      for (let i = 0; i < 30; i++) {
+        const correct = pick(spellingData, rng);
+        q.push(createMCQ("spelling_g5", "spelling_strategies_g5", `Spell correctly:`, correct, ["acomodate", "seperate", "definitly", "neccessary"]));
+      }
+      return q;
+    },
+    greek_latin_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "aud", meaning: "hear" }, { root: "vis", meaning: "see" },
+        { root: "port", meaning: "carry" }, { root: "rupt", meaning: "break" },
+        { root: "scrib", meaning: "write" }, { root: "ject", meaning: "throw" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        q.push(createMCQ("vocab_g5", "greek_latin_g5", `Root '${data.root}' means:`, data.meaning, ["move", "feel", "think", "know"]));
+      }
+      return q;
+    },
+    prefixes_suffixes_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { word: "unhappy", affix: "un", meaning: "not" },
+        { word: "beautiful", affix: "ful", meaning: "full of" },
+        { word: "rewrite", affix: "re", meaning: "again" },
+        { word: "careless", affix: "less", meaning: "without" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(affixData, rng);
+        q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5", `Affix '${data.affix}' in '${data.word}' means:`, data.meaning, ["over", "under", "before", "after"]));
+      }
+      return q;
+    },
+    figurative_language_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { phrase: "A penny for your thoughts", type: "idiom" },
+        { phrase: "The early bird catches the worm", type: "adage" },
+        { phrase: "Actions speak louder than words", type: "proverb" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(figData, rng);
+        const types = ["idiom", "adage", "proverb", "simile"];
+        const wrong = types.filter(t => t !== data.type);
+        q.push(createMCQ("vocab_g5", "figurative_language_g5", `Type: "${data.phrase}"`, data.type, wrong));
+      }
+      return q;
+    },
+    connotation_denotation_g5_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const connData = [
+        { negative: "scrawny", positive: "slender", neutral: "thin" },
+        { negative: "nosy", positive: "inquiring", neutral: "curious" },
+        { negative: "stubborn", positive: "determined", neutral: "persistent" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(connData, rng);
+        q.push(createMCQ("vocab_g5", "connotation_denotation_g5", `Which has positive connotation?`, data.positive, [data.negative, data.neutral, "offensive"]));
+      }
+      return q;
     }
   }
 };
