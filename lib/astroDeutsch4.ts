@@ -22,11 +22,15 @@ export const K4_CHECKPOINT_TOPICS: Record<string, string[]> = {
   ],
   test2: [
     "zeitformen_k4/perfekt", "wortarten_k4/pronomen_k4", "wortarten_k4/adjektivendungen_k4",
+    "wortarten_k4/steigerung_k4", "wortarten_k4/konjunktionen_k4",
     "satzglieder_k4/subjekt_praedikat_k4", "satzglieder_k4/objekte_k4",
+    "nebensatz_k4/wenn_als_k4",
   ],
   test3: [
     "satzarten_k4/aussage_frage_k4", "nebensatz_k4/weil_dass_k4",
     "verben_k4/trennbare_verben_k4", "rechtschreibung_k4/das_dass",
+    "rechtschreibung_k4/dehnungs_h", "rechtschreibung_k4/ss_sz_k4",
+    "passiv_k4/passiv_k4", "wortschatz_essen_k4/essen_k4",
   ],
 };
 
@@ -47,7 +51,7 @@ export const K4_ISLANDS: IslandDef[] = [
     id: "i2",
     name: { en: "Dative & Genitive", hu: "Részeseset & Birtokos eset", de: "Dativ & Genitiv", ro: "Dativ & Genitiv" },
     icon: "📋", color: "#EF4444", sortRange: [1, 10],
-    topicKeys: ["kasus/dativ", "kasus/genitiv"],
+    topicKeys: ["kasus/dativ", "kasus/genitiv", "wortarten_k4/praepositionen_k4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kasus-Quiz",        en: "Case Quiz",        hu: "Eset kvíz",         ro: "Quiz caz"          } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -71,7 +75,7 @@ export const K4_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Word Classes", hu: "Szófajok", de: "Wortarten", ro: "Clase gramaticale" },
     icon: "🏷️", color: "#F59E0B", sortRange: [1, 10],
-    topicKeys: ["wortarten_k4/pronomen_k4", "wortarten_k4/adjektivendungen_k4"],
+    topicKeys: ["wortarten_k4/pronomen_k4", "wortarten_k4/adjektivendungen_k4", "wortarten_k4/steigerung_k4", "wortarten_k4/zusammengesetzte_nomen_k4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Wortarten-Quiz",    en: "Word Class Quiz",  hu: "Szófaj kvíz",       ro: "Quiz clase"        } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -95,7 +99,11 @@ export const K4_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Sentence Types & Clauses", hu: "Mondattípusok & Mellékmondatok", de: "Satzarten & Nebensätze", ro: "Tipuri & Subordonate" },
     icon: "📖", color: "#EC4899", sortRange: [1, 10],
-    topicKeys: ["satzarten_k4/aussage_frage_k4", "satzarten_k4/aufforderung_ausruf_k4", "nebensatz_k4/weil_dass_k4"],
+    topicKeys: [
+      "satzarten_k4/aussage_frage_k4", "satzarten_k4/aufforderung_ausruf_k4",
+      "nebensatz_k4/weil_dass_k4", "nebensatz_k4/wenn_als_k4", "nebensatz_k4/obwohl_k4", "nebensatz_k4/damit_um_zu_k4",
+      "wortarten_k4/konjunktionen_k4",
+    ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Satzarten-Quiz",    en: "Sentence Type Quiz", hu: "Mondattípus kvíz",  ro: "Quiz tipuri"       } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -107,7 +115,7 @@ export const K4_ISLANDS: IslandDef[] = [
     id: "i7",
     name: { en: "Verbs & Future", hu: "Igék & Jövő idő", de: "Verben & Futur", ro: "Verbe & Viitor" },
     icon: "🚀", color: "#14B8A6", sortRange: [1, 10],
-    topicKeys: ["verben_k4/trennbare_verben_k4", "verben_k4/futur_k4"],
+    topicKeys: ["verben_k4/trennbare_verben_k4", "verben_k4/futur_k4", "passiv_k4/passiv_k4", "woertliche_rede_k4/redezeichen_k4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Verben-Quiz",       en: "Verb Quiz",        hu: "Ige kvíz",          ro: "Quiz verbe"        } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -119,7 +127,11 @@ export const K4_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Spelling", hu: "Helyesírás", de: "Rechtschreibung", ro: "Ortografie" },
     icon: "✍️", color: "#A855F7", sortRange: [1, 10],
-    topicKeys: ["rechtschreibung_k4/das_dass", "rechtschreibung_k4/aeu_eu", "rechtschreibung_k4/komma_aufzaehlung"],
+    topicKeys: [
+      "rechtschreibung_k4/das_dass", "rechtschreibung_k4/aeu_eu", "rechtschreibung_k4/komma_aufzaehlung",
+      "rechtschreibung_k4/dehnungs_h", "rechtschreibung_k4/doppelkonsonanten_k4",
+      "rechtschreibung_k4/ss_sz_k4", "rechtschreibung_k4/gross_klein_k4", "rechtschreibung_k4/silbentrennung_k4",
+    ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Rechtschreib-Quiz", en: "Spelling Quiz",    hu: "Helyesírás kvíz",   ro: "Quiz ortografie"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -134,6 +146,9 @@ export const K4_ISLANDS: IslandDef[] = [
     topicKeys: [
       "kasus/nominativ", "kasus/akkusativ", "kasus/dativ",
       "zeitformen_k4/praeteritum", "zeitformen_k4/perfekt", "rechtschreibung_k4/das_dass",
+      "textarbeit_k4/brief_k4", "textarbeit_k4/nacherzaehlung_k4", "textarbeit_k4/bericht_k4",
+      "wortschatz_verkehr_k4/verkehrsmittel_k4", "wortschatz_kleidung_k4/kleidung_k4",
+      "wortschatz_essen_k4/essen_k4", "wortschatz_reisen_k4/reisen_k4",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },

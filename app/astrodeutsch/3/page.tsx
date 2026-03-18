@@ -24,6 +24,15 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
+import PluralFamilyExplorer from "@/app/astrodeutsch/games/PluralFamilyExplorer";
+import SeparableVerbExplorer from "@/app/astrodeutsch/games/SeparableVerbExplorer";
+import ComparisonExplorer from "@/app/astrodeutsch/games/ComparisonExplorer";
+import SentencePartsExplorer from "@/app/astrodeutsch/games/SentencePartsExplorer";
+import TenseTimelineExplorer from "@/app/astrodeutsch/games/TenseTimelineExplorer";
+import PastSpeechExplorer from "@/app/astrodeutsch/games/PastSpeechExplorer";
+import SpellingK3Explorer from "@/app/astrodeutsch/games/SpellingK3Explorer";
+import PunctuationExplorer from "@/app/astrodeutsch/games/PunctuationExplorer";
+import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -87,6 +96,9 @@ const K3_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
+  | "plural-family-explorer" | "separable-verb-explorer" | "comparison-explorer"
+  | "sentence-parts-explorer" | "tense-timeline-explorer" | "past-speech-explorer"
+  | "spelling-k3-explorer" | "punctuation-explorer" | "review-explorer"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -419,17 +431,24 @@ export default function AstroDeutschK3Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes = new Set([
+    "deutsch-visual",
+    "plural-family-explorer", "separable-verb-explorer", "comparison-explorer",
+    "sentence-parts-explorer", "tense-timeline-explorer", "past-speech-explorer",
+    "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
+  ]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType !== "deutsch-visual") {
+    if (!noQuestionsTypes.has(mission.gameType)) {
       const qCount = mission.gameType === "star-match" ? 15 : 10;
       const qs = generateIslandQuestionsK3(activeIsland, lang as Lang, qCount);
       setQuestions(qs);
     }
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -710,11 +729,44 @@ export default function AstroDeutschK3Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={3} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "plural-family-explorer" && (
+          <PluralFamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "separable-verb-explorer" && (
+          <SeparableVerbExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "comparison-explorer" && (
+          <ComparisonExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-parts-explorer" && (
+          <SentencePartsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "tense-timeline-explorer" && (
+          <TenseTimelineExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "past-speech-explorer" && (
+          <PastSpeechExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "spelling-k3-explorer" && (
+          <SpellingK3Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "punctuation-explorer" && (
+          <PunctuationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer" && (
+          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual"].includes(screen)) return (
+  const explorerScreens = [
+    "plural-family-explorer", "separable-verb-explorer", "comparison-explorer",
+    "sentence-parts-explorer", "tense-timeline-explorer", "past-speech-explorer",
+    "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
