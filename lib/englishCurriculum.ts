@@ -3,7 +3,8 @@
 // ONE example question per subtopic — expand manually.
 // Procedural questions generated via englishGenerators.ts
 
-import type { CurriculumTheme, CurriculumQuestion, GradeMark } from "./curriculumTypes";
+import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import type { TestGradeMark } from "./languageTestTypes";
 import {
   G1_Generators,
   G2_Generators,
@@ -4541,12 +4542,12 @@ export function getEnglishQuestions(
 
 // ─── US GRADING (A / B / C / D / F) ──────────────────────────────────────────
 
-export function calculateUSGrade(pct: number, _countryCode = "US"): GradeMark {
-  if (pct >= 90) return { label: "A", description: "Excellent",      color: "#FFD700", emoji: "🌟" };
-  if (pct >= 80) return { label: "B", description: "Good",           color: "#00FF88", emoji: "😊" };
-  if (pct >= 70) return { label: "C", description: "Average",        color: "#00D4FF", emoji: "🙂" };
-  if (pct >= 60) return { label: "D", description: "Below Average",  color: "#FF6B00", emoji: "😅" };
-  return              { label: "F", description: "Needs Improvement", color: "#FF4444", emoji: "😟" };
+export function calculateUSGrade(pct: number, _countryCode = "US"): TestGradeMark {
+  if (pct >= 90) return { note: "A", label: "Excellent",          color: "#FFD700", emoji: "🌟" };
+  if (pct >= 80) return { note: "B", label: "Good",               color: "#00FF88", emoji: "😊" };
+  if (pct >= 70) return { note: "C", label: "Average",            color: "#00D4FF", emoji: "🙂" };
+  if (pct >= 60) return { note: "D", label: "Below Average",      color: "#FF6B00", emoji: "😅" };
+  return              { note: "F", label: "Needs Improvement",    color: "#FF4444", emoji: "😟" };
 }
 
 // ─── SUBTOPIC HINTS (shown after wrong answer) ────────────────────────────────

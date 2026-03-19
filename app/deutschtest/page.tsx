@@ -586,6 +586,17 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     // Always at least 10 groups (30 questions); more if >10 topics selected
     const groupCount = ids.length > 0 ? Math.max(ids.length, 10) : 0;
 
+    // Dedup key: includes content-specific data so questions with the same header
+    // but different answers (MCQ options, visual data) are kept as distinct
+    function dedupKey(q: TestQuestion): string {
+      const a = q as any;
+      // MCQ: use the correct answer text from options[correct]
+      const mcqAnswer = (a.options && a.correct !== undefined) ? String(a.options[a.correct] ?? "") : "";
+      const extra = a.answer ?? mcqAnswer ?? "";
+      const visual = a.words?.join(",") ?? a.stamm ?? a.imageKey ?? a.shuffled?.join(",") ?? "";
+      return q.question.slice(0, 60) + "|" + String(extra).slice(0, 80) + "|" + String(visual).slice(0, 60);
+    }
+
     // Build pools per unique topic (shuffled, deduplicated)
     const pools: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
@@ -600,7 +611,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       }
       const seen = new Set<string>();
       pools[sid] = combined.filter((q) => {
-        const k = q.question.slice(0, 60);
+        const k = dedupKey(q);
         if (seen.has(k)) return false;
         seen.add(k);
         return true;
@@ -640,7 +651,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
 
     // Append visual groups at end: group ALL visual questions by type, then batch 3-by-3
     // This ensures each block of 3 sub-questions is homogeneous (same exercise type)
-    // Max 2 visual groups (6 questions) to keep test length reasonable
+    // Max 5 visual groups (15 questions) for more interactive variety
     const visualByType: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       for (const q of (visualPools[sid] ?? [])) {
@@ -650,12 +661,12 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     }
     let visualGroupsAdded = 0;
     for (const typeQs of Object.values(visualByType)) {
-      if (visualGroupsAdded >= 2) break;
-      // Shuffle, deduplicate by question text, pick 3
+      if (visualGroupsAdded >= 5) break;
+      // Shuffle, deduplicate by content (not just question text — visual qs share the same header)
       const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
       const seen2 = new Set<string>();
       const unique = shuffled.filter(q => {
-        const k = q.question.slice(0, 60);
+        const k = dedupKey(q);
         if (seen2.has(k)) return false;
         seen2.add(k);
         return true;
@@ -1566,7 +1577,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                     <div className="px-3 pb-3 pt-1 flex flex-col gap-1.5">
                       {theme.subtopics.map((sub) => {
                         const sel = selectedIds.includes(sub.id);
-                        const empty = sub.questions.length === 0;
+                        const empty = sub.questions.length === 0 && !(sub as any).hasGenerator;
                         return (
                           <button
                             key={sub.id}
@@ -1592,7 +1603,16 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                             >
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
-                            <span className="flex-1">{sub.name}</span>
+                            <span className="flex-1 flex items-center gap-1 flex-wrap">
+                              <span>{sub.name}</span>
+                              {(configVisualSubtopicMap.get(sub.id) ?? []).map(vt => {
+                                // Extract trailing emoji from label (e.g. "Sentence Builder ✏️" → "✏️")
+                                const emoji = vt.label.match(/[\p{Emoji}\p{Emoji_Presentation}\p{Extended_Pictographic}]\uFE0F?$/u)?.[0];
+                                return emoji ? (
+                                  <span key={vt.type} className="text-xs opacity-70" title={vt.label}>{emoji}</span>
+                                ) : null;
+                              })}
+                            </span>
                             {empty
                               ? <span className="text-[10px] text-white/20">{labels.soon}</span>
                               : <span className="text-[10px]" style={{ color: `${theme.color}80` }}>15 {labels.questionsShort}</span>
