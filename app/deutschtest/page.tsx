@@ -651,7 +651,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
 
     // Append visual groups at end: group ALL visual questions by type, then batch 3-by-3
     // This ensures each block of 3 sub-questions is homogeneous (same exercise type)
-    // Max 2 visual groups (6 questions) to keep test length reasonable
+    // Max 5 visual groups (15 questions) for more interactive variety
     const visualByType: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       for (const q of (visualPools[sid] ?? [])) {
@@ -661,7 +661,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     }
     let visualGroupsAdded = 0;
     for (const typeQs of Object.values(visualByType)) {
-      if (visualGroupsAdded >= 2) break;
+      if (visualGroupsAdded >= 5) break;
       // Shuffle, deduplicate by content (not just question text — visual qs share the same header)
       const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
       const seen2 = new Set<string>();
@@ -1603,7 +1603,16 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                             >
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
-                            <span className="flex-1">{sub.name}</span>
+                            <span className="flex-1 flex items-center gap-1 flex-wrap">
+                              <span>{sub.name}</span>
+                              {(configVisualSubtopicMap.get(sub.id) ?? []).map(vt => {
+                                // Extract trailing emoji from label (e.g. "Sentence Builder ✏️" → "✏️")
+                                const emoji = vt.label.match(/[\p{Emoji}\p{Emoji_Presentation}\p{Extended_Pictographic}]\uFE0F?$/u)?.[0];
+                                return emoji ? (
+                                  <span key={vt.type} className="text-xs opacity-70" title={vt.label}>{emoji}</span>
+                                ) : null;
+                              })}
+                            </span>
                             {empty
                               ? <span className="text-[10px] text-white/20">{labels.soon}</span>
                               : <span className="text-[10px]" style={{ color: `${theme.color}80` }}>15 {labels.questionsShort}</span>
