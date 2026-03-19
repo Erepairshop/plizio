@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plizio — Portfolio</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary: #FF2D78;
+      --accent: #00D4FF;
+      --green: #00FF88;
+      --purple: #B44DFF;
+      --gold: #FFD700;
+      --bg-dark: #0A0A1A;
+      --bg-card: #12122A;
+      --bg-card2: #0F0F24;
+      --text: #E8E8F0;
+      --text-muted: #9090B0;
+      --border: rgba(255,255,255,0.08);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg-dark);
+      color: var(--text);
+      line-height: 1.6;
+      font-size: 15px;
+    }
+
+    /* ── LAYOUT ── */
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    section {
+      padding: 56px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── TYPOGRAPHY ── */
+    h2 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-muted);
+      margin-bottom: 28px;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    p { color: var(--text-muted); }
+
+    /* ── BADGE ── */
+    .badge {
+      display: inline-block;
+      background: rgba(255, 45, 120, 0.15);
+      border: 1px solid rgba(255, 45, 120, 0.4);
+      color: var(--primary);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 100px;
+      margin-bottom: 22px;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      padding: 80px 0 60px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .hero-title {
+      font-size: clamp(3.5rem, 10vw, 6.5rem);
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      line-height: 1.0;
+      background: linear-gradient(135deg, #FF2D78 0%, #FF6B6B 35%, #00D4FF 70%, #B44DFF 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 20px;
+    }
+
+    .hero-subtitle {
+      font-size: 1.05rem;
+      color: var(--text-muted);
+      max-width: 640px;
+      line-height: 1.7;
+    }
+
+    .hero-subtitle strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      margin-top: 40px;
+    }
+
+    .stat-item {
+      flex: 1;
+      min-width: 110px;
+      padding: 20px 16px;
+      text-align: center;
+      border-right: 1px solid var(--border);
+      position: relative;
+    }
+
+    .stat-item:last-child { border-right: none; }
+
+    .stat-value {
+      display: block;
+      font-size: 1.6rem;
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      margin-bottom: 5px;
+    }
+
+    .stat-label {
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+    }
+
+    .stat-item:nth-child(1) .stat-value { color: var(--primary); }
+    .stat-item:nth-child(2) .stat-value { color: var(--accent); }
+    .stat-item:nth-child(3) .stat-value { color: var(--green); }
+    .stat-item:nth-child(4) .stat-value { color: var(--purple); }
+    .stat-item:nth-child(5) .stat-value { color: var(--gold); }
+    .stat-item:nth-child(6) .stat-value { color: #FF6B6B; }
+
+    /* ── CODEBASE BAR ── */
+    .code-breakdown {
+      margin-bottom: 28px;
+    }
+
+    .code-bar {
+      height: 10px;
+      border-radius: 100px;
+      overflow: hidden;
+      display: flex;
+      gap: 2px;
+      margin-bottom: 14px;
+    }
+
+    .code-bar-seg {
+      height: 100%;
+      border-radius: 100px;
+      transition: all 0.3s;
+    }
+
+    .code-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .code-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .code-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── ARCH GRID ── */
+    .arch-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+    }
+
+    .arch-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+    }
+
+    .arch-label {
+      font-size: 0.6rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      margin-bottom: 8px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      display: inline-block;
+    }
+
+    .arch-label.client { background: rgba(255,45,120,0.15); color: var(--primary); }
+    .arch-label.ui { background: rgba(0,212,255,0.12); color: var(--accent); }
+    .arch-label.engine { background: rgba(0,255,136,0.12); color: var(--green); }
+    .arch-label.backend { background: rgba(180,77,255,0.12); color: var(--purple); }
+    .arch-label.data { background: rgba(255,215,0,0.12); color: var(--gold); }
+
+    .arch-items {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-top: 10px;
+    }
+
+    .arch-items li {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
+
+    .arch-items li::before {
+      content: '·';
+      color: var(--text-muted);
+      flex-shrink: 0;
+      margin-top: 0px;
+    }
+
+    /* ── TECH CARDS ── */
+    .tech-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+
+    .tech-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 22px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .tech-card:hover {
+      transform: translateY(-2px);
+    }
+
+    .tech-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+    }
+
+    .tech-card:nth-child(1)::before { background: linear-gradient(90deg, var(--primary), var(--accent)); }
+    .tech-card:nth-child(2)::before { background: linear-gradient(90deg, var(--accent), var(--purple)); }
+    .tech-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green), var(--accent)); }
+    .tech-card:nth-child(4)::before { background: linear-gradient(90deg, var(--purple), var(--primary)); }
+    .tech-card:nth-child(5)::before { background: linear-gradient(90deg, var(--gold), var(--green)); }
+    .tech-card:nth-child(6)::before { background: linear-gradient(90deg, var(--primary), var(--purple)); }
+
+    .tech-icon {
+      font-size: 1.8rem;
+      margin-bottom: 12px;
+      display: block;
+    }
+
+    .tech-card h3 {
+      font-size: 0.9rem;
+      margin-bottom: 8px;
+    }
+
+    .tech-card p {
+      font-size: 0.8rem;
+      line-height: 1.6;
+    }
+
+    /* ── FEATURES GRID ── */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 10px;
+    }
+
+    .feature-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: border-color 0.2s, background 0.2s;
+    }
+
+    .feature-item:hover {
+      background: rgba(255,45,120,0.05);
+      border-color: rgba(255,45,120,0.2);
+      color: var(--text);
+    }
+
+    .feature-icon {
+      font-size: 1.1rem;
+      flex-shrink: 0;
+    }
+
+    /* ── CHALLENGES ── */
+    .challenges-list {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .challenge-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-left: 3px solid transparent;
+      border-radius: 12px;
+      padding: 20px 22px;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 16px;
+      align-items: start;
+      transition: border-left-color 0.2s;
+    }
+
+    .challenge-item:hover { border-left-color: var(--primary); }
+    .challenge-item:nth-child(2):hover { border-left-color: var(--accent); }
+    .challenge-item:nth-child(3):hover { border-left-color: var(--green); }
+    .challenge-item:nth-child(4):hover { border-left-color: var(--purple); }
+    .challenge-item:nth-child(5):hover { border-left-color: var(--gold); }
+    .challenge-item:nth-child(6):hover { border-left-color: #FF6B6B; }
+
+    .challenge-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.4;
+    }
+
+    .challenge-num {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    .challenge-desc {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* ── ROLE SECTION ── */
+    .role-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px;
+      text-align: center;
+    }
+
+    .role-title {
+      font-size: 1.4rem;
+      font-weight: 900;
+      margin-bottom: 6px;
+      background: linear-gradient(135deg, var(--primary), var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .role-sub {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 24px;
+    }
+
+    .pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .pill {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 100px;
+      transition: all 0.2s;
+    }
+
+    .pill:hover {
+      background: rgba(255,45,120,0.1);
+      border-color: rgba(255,45,120,0.3);
+      color: var(--text);
+    }
+
+    /* ── FOOTER ── */
+    .footer {
+      padding: 48px 0;
+      text-align: center;
+      border-top: 1px solid var(--border);
+    }
+
+    .footer-quote {
+      font-size: 1rem;
+      font-style: italic;
+      color: var(--text-muted);
+      max-width: 560px;
+      margin: 0 auto 20px;
+      line-height: 1.7;
+    }
+
+    .footer-link {
+      display: inline-block;
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: 0.02em;
+      margin-bottom: 14px;
+      transition: opacity 0.2s;
+    }
+
+    .footer-link:hover { opacity: 0.75; }
+
+    .footer-avail {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 600px) {
+      .stat-item { min-width: 80px; padding: 14px 10px; }
+      .stat-value { font-size: 1.2rem; }
+      .challenge-item { grid-template-columns: 1fr; }
+      .hero { padding: 52px 0 40px; }
+      section { padding: 40px 0; }
+    }
+
+    @media print {
+      body { background: white; color: #111; }
+      .hero-title { -webkit-text-fill-color: #FF2D78; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── HERO ── -->
+  <section class="hero">
+    <div class="container">
+      <span class="badge">Portfolio — Full-Stack Projekt</span>
+      <div class="hero-title">Plizio</div>
+      <p class="hero-subtitle">
+        Eine <strong>gamifizierte Lernplattform</strong> mit 20+ interaktiven Spielen,
+        einem <strong>3D-Avatar-System</strong>, Echtzeit-Multiplayer,
+        prozedural generiertem Mathe-Curriculum für Klasse 1–8
+        und mehrsprachigen Sprachtests —
+        als <strong>Solo-Entwickler von Grund auf gebaut.</strong>
+      </p>
+
+      <div class="stats-bar">
+        <div class="stat-item">
+          <span class="stat-value">253k</span>
+          <span class="stat-label">Codezeilen</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">20+</span>
+          <span class="stat-label">Spiele</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">60</span>
+          <span class="stat-label">Komponenten</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">4</span>
+          <span class="stat-label">Sprachen</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">78</span>
+          <span class="stat-label">Lib-Module</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-value">3D</span>
+          <span class="stat-label">Avatar-System</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CODEBASE ── -->
+  <section>
+    <div class="container">
+      <h2>Codebase-Aufschlüsselung</h2>
+      <div class="code-breakdown">
+        <div class="code-bar">
+          <div class="code-bar-seg" style="width: 82%; background: linear-gradient(90deg, var(--primary), var(--accent));"></div>
+          <div class="code-bar-seg" style="width: 8%; background: var(--purple);"></div>
+          <div class="code-bar-seg" style="width: 10%; background: var(--green);"></div>
+        </div>
+        <div class="code-legend">
+          <div class="code-legend-item">
+            <div class="code-dot" style="background: var(--primary);"></div>
+            TypeScript / TSX — 82% &nbsp;<span style="opacity:0.5; font-size:0.72rem;">(692 Dateien)</span>
+          </div>
+          <div class="code-legend-item">
+            <div class="code-dot" style="background: var(--purple);"></div>
+            CSS / Tailwind — 8%
+          </div>
+          <div class="code-legend-item">
+            <div class="code-dot" style="background: var(--green);"></div>
+            Three.js / R3F / Config — 10%
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── ARCHITECTURE ── -->
+  <section>
+    <div class="container">
+      <h2>System-Architektur</h2>
+      <div class="arch-grid">
+
+        <div class="arch-card">
+          <span class="arch-label client">Client</span>
+          <ul class="arch-items">
+            <li>Next.js 16 PWA</li>
+            <li>Static Export (output: "export")</li>
+            <li>Service Worker (Offline)</li>
+            <li>55+ App Routes</li>
+          </ul>
+        </div>
+
+        <div class="arch-card">
+          <span class="arch-label ui">UI-Layer</span>
+          <ul class="arch-items">
+            <li>React 19</li>
+            <li>Tailwind CSS</li>
+            <li>Framer Motion</li>
+            <li>Three.js via React Three Fiber</li>
+          </ul>
+        </div>
+
+        <div class="arch-card">
+          <span class="arch-label engine">Game Engines</span>
+          <ul class="arch-items">
+            <li>Astromath (Klasse 1–8)</li>
+            <li>Astrodeutsch / Language Tests</li>
+            <li>Expedition-Spiele</li>
+            <li>Reflex- &amp; Puzzle-Spiele</li>
+          </ul>
+        </div>
+
+        <div class="arch-card">
+          <span class="arch-label backend">Backend</span>
+          <ul class="arch-items">
+            <li>Supabase Auth</li>
+            <li>Supabase Realtime</li>
+            <li>PostgreSQL</li>
+            <li>Google Analytics</li>
+          </ul>
+        </div>
+
+        <div class="arch-card">
+          <span class="arch-label data">Datenschicht</span>
+          <ul class="arch-items">
+            <li>localStorage (Offline-First)</li>
+            <li>Supabase PostgreSQL</li>
+            <li>Realtime Channels</li>
+            <li>Bidirektionale Sync</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── TECH STACK ── -->
+  <section>
+    <div class="container">
+      <h2>Technologie-Stack</h2>
+      <div class="tech-grid">
+
+        <div class="tech-card">
+          <span class="tech-icon">⚡</span>
+          <h3>Frontend Framework</h3>
+          <p>Next.js 16 mit React 19 und TypeScript. Static Export für maximale Performance und einfaches Hosting. Trailingslash-Routing, Service Worker für Offline-Unterstützung.</p>
+        </div>
+
+        <div class="tech-card">
+          <span class="tech-icon">🎭</span>
+          <h3>3D &amp; Animation</h3>
+          <p>Three.js über React Three Fiber. Eigenes Avatar-System mit 16 Skins, 18 Gesichtern, komplettes Kleidungssystem (Tops, Hosen, Schuhe, Umhänge, Brillen, Handschuhe, Hüte, Trails). Stimmungsanimationen und Berührungsinteraktionen.</p>
+        </div>
+
+        <div class="tech-card">
+          <span class="tech-icon">🎮</span>
+          <h3>Game Engines</h3>
+          <p>20+ Spiele über Quiz-, Reflex-, Expedition- und Puzzle-Kategorien. Seeded PRNG für deterministischen Multiplayer. Expedition-basierte Level-Progression mit Speichersystem.</p>
+        </div>
+
+        <div class="tech-card">
+          <span class="tech-icon">📚</span>
+          <h3>Bildungssystem</h3>
+          <p>Mathe-Curriculum Klasse 1–8 mit über 100 prozeduralen Generatorfunktionen. Landes-spezifische Inhalte (US imperial, AM/PM). Deutsch-, Englisch- und Rumänisch-Sprachtests. 13 interaktive SVG-Aufgabentypen für Klassenarbeiten.</p>
+        </div>
+
+        <div class="tech-card">
+          <span class="tech-icon">🌐</span>
+          <h3>Multiplayer</h3>
+          <p>Supabase Realtime für das Herausforderungssystem. Ghost-Spieler-Synchronisation in Sky Climb mit Positions-Interpolation. Mix-Round-Turniere mit Race-Condition-Verhinderung durch Player-1-Only-Promotion.</p>
+        </div>
+
+        <div class="tech-card">
+          <span class="tech-icon">🌍</span>
+          <h3>Internationalisierung</h3>
+          <p>4 Sprachen (DE / HU / EN / RO) mit dynamischen Inhalten. Landes-spezifische Curricula. Gemeinsame LanguageTestEngine für alle Sprachtests. Hreflang-SEO-Optimierung.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FEATURES ── -->
+  <section>
+    <div class="container">
+      <h2>Implementierte Features</h2>
+      <div class="features-grid">
+
+        <div class="feature-item">
+          <span class="feature-icon">🎯</span>
+          20+ interaktive Lernspiele
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🧍</span>
+          3D-Avatar mit Skins, Kleidung &amp; Accessoires
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">⚔️</span>
+          Echtzeit-Multiplayer-Herausforderungssystem
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">📐</span>
+          Mathe-Curriculum Klasse 1–8 (prozedural)
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🗣️</span>
+          Deutsch / Englisch / Rumänisch Sprachtests
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🖊️</span>
+          Interaktive visuelle SVG-Aufgaben
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🃏</span>
+          Karten-Sammel- &amp; Belohnungssystem
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🛋️</span>
+          Isometrisches Zimmer-Dekorationssystem
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">👻</span>
+          Sky Climb mit Ghost-Multiplayer
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🚀</span>
+          Astromath: Animiertes Mathe-Lernabenteuer
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">📄</span>
+          PDF-Export für Klassenarbeiten
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">📴</span>
+          Offline-First mit localStorage
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🔍</span>
+          SEO-optimiert mit statischem Export
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🏆</span>
+          Meilenstein- &amp; Streak-System
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">🗺️</span>
+          Expedition-basierte Level-Progression
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon">📱</span>
+          Responsive Design (Mobile-First)
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CHALLENGES ── -->
+  <section>
+    <div class="container">
+      <h2>Gelöste Engineering-Herausforderungen</h2>
+      <div class="challenges-list">
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">3D-Avatar-System</div>
+            <div class="challenge-num">Challenge 01</div>
+          </div>
+          <p class="challenge-desc">
+            Eigener Three.js-Charakter mit 16 Skins, 18 Gesichtstypen und vollständigem Kleidungssystem (Tops, Hosen, Schuhe, Umhänge, Brillen, Handschuhe, Hüte, Trails). Stimmungsanimationen mit Blink-System, Touch-Interaktionen, Mood-basierte Körpersprache. Kritische Lösung: <code>initial={{ opacity: 0 }}</code> statt <code>scale: 0</code>, da Three.js-Canvas mit 0px-Größe leer bleibt.
+          </p>
+        </div>
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">Prozedural generiertes Curriculum</div>
+            <div class="challenge-num">Challenge 02</div>
+          </div>
+          <p class="challenge-desc">
+            Mathe Klasse 1–8 mit 100+ Generatorfunktionen, landes-spezifischen Inhalten (US imperial/AM-PM, metrisch für DE/AT/CH/HU/RO), Topic-Constraint-System für adaptives Schwierigkeitsniveau, 13 interaktive SVG-Aufgabentypen (Analoguhr, Bruchpizza, Symmetrie, Winkelzeichner...) mit Embedded-Modus für Klassenarbeiten.
+          </p>
+        </div>
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">Echtzeit-Multiplayer</div>
+            <div class="challenge-num">Challenge 03</div>
+          </div>
+          <p class="challenge-desc">
+            Supabase Realtime Channels für das Herausforderungssystem. Deterministischer Fragengenerator via Seeded PRNG — beide Spieler erhalten exakt dieselben Fragen. Ghost-Spieler-Synchronisation in Sky Climb mit Positions-Interpolation (<code>lerp 0.2</code>). Mix-Round-Turniere: Race-Condition-Verhinderung durch exklusive Player-1-Promotion-Logik.
+          </p>
+        </div>
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">Gamification-Architektur</div>
+            <div class="challenge-num">Challenge 04</div>
+          </div>
+          <p class="challenge-desc">
+            Karten-Seltenheits-System (Bronze / Silber / Gold / Legendär) mit Zeitbonus-Mechanik (unsichtbar für Spieler). Stern-Ökonomie mit bidirektionaler Supabase-Synchronisation. Dirty-Flag-System zur Verhinderung von Math.max-Fehlern bei Werten, die sinken können. Meilenstein-Belohnungen, Streak-Tracking, Karten-Austauschmarktplatz.
+          </p>
+        </div>
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">Mehrsprachige Bildungsplattform</div>
+            <div class="challenge-num">Challenge 05</div>
+          </div>
+          <p class="challenge-desc">
+            4 Sprachen (DE/HU/EN/RO) mit dynamischen Inhalten und gemeinsamem LanguageTestEngine-Kern für alle Sprachtests. Interaktive Aufgabentypen: SatzOrdnen (Satzbau), FehlerFinden (Grammatikfehler markieren), WortfamilienBaum (Wortbildung), LückenText. Language-Independent-Answer-Protokoll für sprachunabhängige Bewertung.
+          </p>
+        </div>
+
+        <div class="challenge-item">
+          <div>
+            <div class="challenge-title">Isometrisches Zimmer-System</div>
+            <div class="challenge-num">Challenge 06</div>
+          </div>
+          <p class="challenge-desc">
+            SVG-Pixel-Art-Zimmer mit 25+ Möbelstücken, Drag-Drop-Platzierung auf Isometrie-Raster, Painter's-Algorithm-Rendering. Kniffliges Problem: Three.js-Canvas-Avatar als DOM-Overlay über SVG mit korrekter Koordinatenprojektion. Day/Night-Zyklus basierend auf Systemuhr. <code>passThrough</code>-Prop verhindert unsichtbare Canvas-Klickblockierung.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── ROLE ── -->
+  <section>
+    <div class="container">
+      <div class="role-box">
+        <div class="role-title">Meine Rolle</div>
+        <p class="role-sub">Solo Full-Stack-Entwickler — von der ersten Codezeile bis zur Produktionsumgebung</p>
+        <div class="pills">
+          <span class="pill">Frontend-Architektur</span>
+          <span class="pill">Game Development</span>
+          <span class="pill">3D-Grafik (Three.js)</span>
+          <span class="pill">Bildungsinhalte</span>
+          <span class="pill">Multiplayer-Systeme</span>
+          <span class="pill">UX/UI-Design</span>
+          <span class="pill">SEO-Optimierung</span>
+          <span class="pill">Datenbank-Design</span>
+          <span class="pill">Internationalisierung</span>
+          <span class="pill">Prozedurales Curriculum</span>
+          <span class="pill">Gamification</span>
+          <span class="pill">Performance-Optimierung</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="footer">
+    <div class="container">
+      <p class="footer-quote">
+        „Mit Leidenschaft, Neugier und tausenden Stunden selbstgelernter Programmierung gebaut."
+      </p>
+      <a href="https://plizio.com" class="footer-link" target="_blank" rel="noopener">plizio.com</a>
+      <p class="footer-avail">Verfügbar für Frontend-, Full-Stack- oder EdTech-Positionen</p>
+    </div>
+  </footer>
+
+</body>
+</html>
