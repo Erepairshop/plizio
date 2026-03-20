@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback, useRef, useMemo } from "react";
+import React, { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 

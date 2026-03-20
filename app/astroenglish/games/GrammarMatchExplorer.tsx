@@ -271,8 +271,7 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
           {shuffledExamples.map(({ example, originalIdx }) => {
             const isMatched = matched.some((m) => m.exampleIdx === originalIdx);
             const isSelected = selectedExample === originalIdx;
-            const isCategoryColor =
-              pairs[originalIdx]?.color || color;
+            const isCategoryColor = color;
             return (
               <motion.button
                 key={originalIdx}
