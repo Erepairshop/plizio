@@ -17,26 +17,26 @@ export const K7_CHECKPOINT_MAP: Record<string, string[]> = {
 
 export const K7_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
-    "grammar_g7/phrases_g7", "grammar_g7/clauses_g7",
-    "grammar_g7/sentence_types_g7", "grammar_g7/modifiers_g7",
+    "phrases_g7", "clauses_g7",
+    "sentence_types_g7", "modifiers_g7",
   ],
   test2: [
-    "grammar_g7/tense_voice_g7", "punctuation_g7/commas_phrases_g7",
-    "punctuation_g7/semicolons_colons_g7", "punctuation_g7/dashes_hyphens_g7",
+    "tense_voice_g7", "commas_phrases_g7",
+    "semicolons_colons_g7", "dashes_hyphens_g7",
   ],
   test3: [
-    "vocab_g7/figurative_language_g7", "vocab_g7/connotation_g7",
-    "vocab_g7/academic_vocab_g7", "vocab_g7/analogies_g7",
-    "vocab_g7/literary_devices_g7",
+    "figurative_language_g7", "connotation_g7",
+    "academic_vocab_g7", "analogies_g7",
+    "literary_devices_g7", "cause_effect_g7", "conditional_g7", "concessive_g7",
   ],
 };
 
 export const K7_ISLANDS: IslandDef[] = [
   {
     id: "i1",
-    name: { en: "Phrase Frontier", hu: "Szintagma határ", de: "Phrasen-Grenze", ro: "Frontiera frazelor" },
-    icon: "🌐", color: "#B44DFF", sortRange: [1, 20],
-    topicKeys: ["grammar_g7/phrases_g7", "grammar_g7/clauses_g7"],
+    name: { en: "Grammar Galaxy", hu: "Grammatika-galaxis", de: "Grammatik-Galaxie", ro: "Galaxia gramaticii" },
+    icon: "📐", color: "#B44DFF", sortRange: [1, 20],
+    topicKeys: ["phrases_g7", "clauses_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Phrase Quiz",    hu: "Szintagma kvíz",   de: "Phrasen-Quiz",    ro: "Quiz fraze"        } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -46,9 +46,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i2",
-    name: { en: "Sentence Type Summit", hu: "Mondattípus csúcs", de: "Satztyp-Gipfel", ro: "Vârful tipurilor de propoziție" },
-    icon: "📊", color: "#3B82F6", sortRange: [1, 20],
-    topicKeys: ["grammar_g7/sentence_types_g7", "grammar_g7/modifiers_g7"],
+    name: { en: "Sentence Station", hu: "Mondat-állomás", de: "Satz-Station", ro: "Stația propozițiilor" },
+    icon: "🚉", color: "#3B82F6", sortRange: [1, 20],
+    topicKeys: ["sentence_types_g7", "modifiers_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Sentence Quiz",  hu: "Mondat kvíz",      de: "Satz-Quiz",       ro: "Quiz propoziții"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -58,9 +58,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i3",
-    name: { en: "Tense & Voice Terrain", hu: "Igeidő és hang terep", de: "Tempus-und-Stimme-Terrain", ro: "Terenul timpurilor și diatezei" },
-    icon: "⚙️", color: "#10B981", sortRange: [1, 20],
-    topicKeys: ["grammar_g7/tense_voice_g7"],
+    name: { en: "Tense & Voice", hu: "Igeidő és hang", de: "Tempus und Stimme", ro: "Timp și diateza" },
+    icon: "🔄", color: "#10B981", sortRange: [1, 20],
+    topicKeys: ["tense_voice_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Voice Quiz",     hu: "Hang kvíz",        de: "Stimme-Quiz",     ro: "Quiz diateze"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -70,9 +70,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i4",
-    name: { en: "Comma Continent", hu: "Vesszős kontinens", de: "Komma-Kontinent", ro: "Continentul virgulelor" },
-    icon: "📝", color: "#F59E0B", sortRange: [1, 20],
-    topicKeys: ["punctuation_g7/commas_phrases_g7", "punctuation_g7/semicolons_colons_g7"],
+    name: { en: "Punctuation Planet", hu: "Írásjel-bolygó", de: "Satzzeichen-Planet", ro: "Planeta punctuației" },
+    icon: "✏️", color: "#F59E0B", sortRange: [1, 20],
+    topicKeys: ["commas_phrases_g7", "semicolons_colons_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Punctuation Quiz", hu: "Írásjel kvíz",   de: "Interpunktions-Quiz", ro: "Quiz punctuație" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -82,9 +82,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i5",
-    name: { en: "Dash & Hyphen Harbor", hu: "Gondolatjel és kötőjel kikötő", de: "Gedankenstrich-Hafen", ro: "Portul liniilor de pauză" },
-    icon: "➖", color: "#6366F1", sortRange: [1, 20],
-    topicKeys: ["punctuation_g7/dashes_hyphens_g7"],
+    name: { en: "Figurative Frontier", hu: "Képletes határ", de: "Bildliche-Grenze", ro: "Frontiera figurativă" },
+    icon: "🎭", color: "#FF2D78", sortRange: [1, 20],
+    topicKeys: ["figurative_language_g7", "connotation_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Dash Quiz",      hu: "Gondolatjel kvíz", de: "Gedankenstrich-Quiz", ro: "Quiz linii"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -94,9 +94,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i6",
-    name: { en: "Figurative Language Falls", hu: "Képletes nyelvi vízesés", de: "Bildsprach-Wasserfall", ro: "Cascada limbajului figurat" },
-    icon: "🎭", color: "#EC4899", sortRange: [1, 20],
-    topicKeys: ["vocab_g7/figurative_language_g7", "vocab_g7/connotation_g7"],
+    name: { en: "Academic Arena", hu: "Akadémiai aréna", de: "Akademische-Arena", ro: "Arena academică" },
+    icon: "🎓", color: "#6366F1", sortRange: [1, 20],
+    topicKeys: ["academic_vocab_g7", "analogies_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Figurative Quiz", hu: "Képletes kvíz",   de: "Bildsprach-Quiz", ro: "Quiz figurat"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -106,9 +106,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i7",
-    name: { en: "Analogy Archipelago", hu: "Analógia szigetcsoport", de: "Analogie-Archipel", ro: "Arhipelagul analogiilor" },
-    icon: "🔗", color: "#14B8A6", sortRange: [1, 20],
-    topicKeys: ["vocab_g7/analogies_g7", "vocab_g7/academic_vocab_g7"],
+    name: { en: "Argument Archipelago", hu: "Érv-szigetcsoport", de: "Argument-Archipel", ro: "Arhipelagul argumentelor" },
+    icon: "⚖️", color: "#00D4FF", sortRange: [1, 20],
+    topicKeys: ["argument_structure_g7", "media_literacy_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Analogy Quiz",   hu: "Analógia kvíz",    de: "Analogie-Quiz",   ro: "Quiz analogii"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
