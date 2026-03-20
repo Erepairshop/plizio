@@ -161,9 +161,9 @@ export const C6P4_Generators = {
     const subtopic = "polisemie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_POLISEMIE, rng);
+      const item = VOCABULAR_POLISEMIE[i % VOCABULAR_POLISEMIE.length];
       const sensIdx = Math.floor(rng() * 2);
       const correct = sensIdx === 0 ? item.sens1 : item.sens2;
       const wrong = sensIdx === 0 ? item.sens2 : item.sens1;
@@ -205,9 +205,9 @@ export const C6P4_Generators = {
     const subtopic = "omonimie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_OMONIMIE, rng);
+      const item = VOCABULAR_OMONIMIE[i % VOCABULAR_OMONIMIE.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -248,9 +248,9 @@ export const C6P4_Generators = {
     const subtopic = "derivare_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_DERIVARE, rng);
+      const item = VOCABULAR_DERIVARE[i % VOCABULAR_DERIVARE.length];
       const derivate = item.cuvante_derivate.split(", ");
       const correct = derivate[Math.floor(rng() * derivate.length)];
       const q = createMCQ(
@@ -291,9 +291,9 @@ export const C6P4_Generators = {
     const subtopic = "locutiuni_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_LOCUTIUNI, rng);
+      const item = VOCABULAR_LOCUTIUNI[i % VOCABULAR_LOCUTIUNI.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -332,9 +332,9 @@ export const C6P4_Generators = {
     const subtopic = "neologisme_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_NEOLOGISME, rng);
+      const item = VOCABULAR_NEOLOGISME[i % VOCABULAR_NEOLOGISME.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -373,9 +373,9 @@ export const C6P4_Generators = {
     const subtopic = "campuri_semantice_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VOCABULAR_CAMPURI_SEMANTICE, rng);
+      const item = VOCABULAR_CAMPURI_SEMANTICE[i % VOCABULAR_CAMPURI_SEMANTICE.length];
       const cuvinte = item.cuvinte.split(", ");
       const correct = cuvinte[Math.floor(rng() * cuvinte.length)];
       const q = createMCQ(
@@ -416,9 +416,9 @@ export const C6P4_Generators = {
     const subtopic = "genuri_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(TEXT_LECTURA_GENURI, rng);
+      const item = TEXT_LECTURA_GENURI[i % TEXT_LECTURA_GENURI.length];
       const caracteristici = item.caracteristici.split(", ");
       const correct = caracteristici[Math.floor(rng() * caracteristici.length)];
       const q = createMCQ(
@@ -459,9 +459,9 @@ export const C6P4_Generators = {
     const subtopic = "moduri_expunere_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(TEXT_LECTURA_MODURI, rng);
+      const item = TEXT_LECTURA_MODURI[i % TEXT_LECTURA_MODURI.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -500,9 +500,9 @@ export const C6P4_Generators = {
     const subtopic = "personaje_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(TEXT_LECTURA_PERSONAJE, rng);
+      const item = TEXT_LECTURA_PERSONAJE[i % TEXT_LECTURA_PERSONAJE.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -541,9 +541,9 @@ export const C6P4_Generators = {
     const subtopic = "texte_nonliterare_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(TEXT_LECTURA_NONLITERARE, rng);
+      const item = TEXT_LECTURA_NONLITERARE[i % TEXT_LECTURA_NONLITERARE.length];
       const caracteristici = item.caracteristici.split(", ");
       const correct = caracteristici[Math.floor(rng() * caracteristici.length)];
       const q = createMCQ(

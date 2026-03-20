@@ -33,7 +33,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const questions = [];
     for (let i = 0; i < 30; i++) {
-      const f = pick(FIGURI_STIL, rng);
+      const f = FIGURI_STIL[i % FIGURI_STIL.length];
       questions.push(createMCQ("Romanian-C8-P3", "figuri_stil", `"${f.desc}" - aceasta este:`, f.figura, [pick(FIGURI_STIL, rng).figura, "versificație", "prozodia"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -43,7 +43,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const questions = [];
     for (let i = 0; i < 30; i++) {
-      const g = pick(TEXT_LITERAR_GENURI, rng);
+      const g = TEXT_LITERAR_GENURI[i % TEXT_LITERAR_GENURI.length];
       questions.push(createMCQ("Romanian-C8-P3", "text_literar_genuri", `"${g.trait}" - genul este:`, g.gen, [pick(TEXT_LITERAR_GENURI, rng).gen, "eseu", "memorii"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -53,7 +53,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const questions = [];
     for (let i = 0; i < 30; i++) {
-      const e = pick(COMENTARIU_LITERAR_ELEM, rng);
+      const e = COMENTARIU_LITERAR_ELEM[i % COMENTARIU_LITERAR_ELEM.length];
       questions.push(createMCQ("Romanian-C8-P3", "comentariu_literar", `"${e.desc}" - aceasta este:`, e.element, [pick(COMENTARIU_LITERAR_ELEM, rng).element, "verifica", "propoziție"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -85,7 +85,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const q = [];
     for (let i = 0; i < 15; i++) {
-      const f = pick(FIGURI_STIL, rng);
+      const f = FIGURI_STIL[i % FIGURI_STIL.length];
       q.push(createTyping("Romanian-C8-P3", "figuri_stil", `Figura de stil: "${f.desc}"`, f.figura));
     }
     return q;
@@ -95,7 +95,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const q = [];
     for (let i = 0; i < 15; i++) {
-      const g = pick(TEXT_LITERAR_GENURI, rng);
+      const g = TEXT_LITERAR_GENURI[i % TEXT_LITERAR_GENURI.length];
       q.push(createTyping("Romanian-C8-P3", "text_literar_genuri", `Genul: "${g.trait}"`, g.gen));
     }
     return q;
@@ -105,7 +105,7 @@ export const C8P3_Generators = {
     const rng = mulberry32(seed);
     const q = [];
     for (let i = 0; i < 15; i++) {
-      const e = pick(COMENTARIU_LITERAR_ELEM, rng);
+      const e = COMENTARIU_LITERAR_ELEM[i % COMENTARIU_LITERAR_ELEM.length];
       q.push(createTyping("Romanian-C8-P3", "comentariu_literar", `Element: "${e.desc}"`, e.element));
     }
     return q;

@@ -30,7 +30,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const v = pick(VERB_FORMS, rng);
+      const v = VERB_FORMS[i % VERB_FORMS.length];
       questions.push(createMCQ("Romanian-C8-P2", "verb_forme_avansate", `Prezentul verbului "${v.infinitive}":`, v.present, [pick(VERB_FORMS, rng).present, "participiu", "gerunziu"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -40,7 +40,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const p = pick(PRONUME_TYPES, rng);
+      const p = PRONUME_TYPES[i % PRONUME_TYPES.length];
       questions.push(createMCQ("Romanian-C8-P2", "pronume_cazuri", `Cazul pronumelui "${p.pronume}":`, p.case, [pick(PRONUME_TYPES, rng).case, "acuzativ", "dativ"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -50,7 +50,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const a = pick(ARTICOL_TYPES, rng);
+      const a = ARTICOL_TYPES[i % ARTICOL_TYPES.length];
       questions.push(createMCQ("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul din "${a.word}":`, a.article, [pick(ARTICOL_TYPES, rng).article, "pronume", "prepoziție"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -87,7 +87,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const v = pick(VERB_FORMS, rng);
+      const v = VERB_FORMS[i % VERB_FORMS.length];
       q.push(createTyping("Romanian-C8-P2", "verb_forme_avansate", `Prezentul "${v.infinitive}":`, v.present));
     }
     return q;
@@ -97,7 +97,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const p = pick(PRONUME_TYPES, rng);
+      const p = PRONUME_TYPES[i % PRONUME_TYPES.length];
       q.push(createTyping("Romanian-C8-P2", "pronume_cazuri", `Cazul "${p.pronume}":`, p.case));
     }
     return q;
@@ -107,7 +107,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const a = pick(ARTICOL_TYPES, rng);
+      const a = ARTICOL_TYPES[i % ARTICOL_TYPES.length];
       q.push(createTyping("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul "${a.word}":`, a.article));
     }
     return q;

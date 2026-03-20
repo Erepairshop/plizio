@@ -128,7 +128,7 @@ function verb_indicativ(seed = 42): CurriculumQuestion[] {
   const tenses: (keyof typeof VERB_INDICATIV[0])[] = ["present", "past_simple", "imperfect", "pluperfect", "future"];
 
   for (let i = 0; i < 10; i++) {
-    const verb = pick(VERB_INDICATIV, rng);
+    const verb = VERB_INDICATIV[i % VERB_INDICATIV.length];
     const tense = pick(tenses, rng);
     const form = verb[tense] as string;
 
@@ -156,7 +156,7 @@ function verb_conjunctiv(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const verb = pick(VERB_CONJUNCTIV, rng);
+    const verb = VERB_CONJUNCTIV[i % VERB_CONJUNCTIV.length];
     const tense = pick(["present", "perfect"], rng);
     const form = verb[tense as keyof typeof verb] as string;
 
@@ -184,7 +184,7 @@ function verb_conditional_imperativ(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const verb = pick(VERB_CONDITIONAL, rng);
+    const verb = VERB_CONDITIONAL[i % VERB_CONDITIONAL.length];
     const tense = pick(["conditional_present", "conditional_perfect"], rng);
     const form = verb[tense as keyof typeof verb] as string;
 
@@ -212,7 +212,7 @@ function verb_moduri_nepers_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const verb = pick(VERB_MODURI_NEPERS, rng);
+    const verb = VERB_MODURI_NEPERS[i % VERB_MODURI_NEPERS.length];
     const form = pick(["infinitiv", "gerunziu", "participiu", "supin"], rng);
     const value = verb[form as keyof typeof verb] as string;
 
@@ -240,7 +240,7 @@ function verb_diateze_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const diateza = pick(VERB_DIATEZE, rng);
+    const diateza = VERB_DIATEZE[i % VERB_DIATEZE.length];
     const type = pick(["active", "passive", "reflexive"], rng);
     const typeLabel = type === "active" ? "activă" : type === "passive" ? "pasivă" : "reflexivă";
 
