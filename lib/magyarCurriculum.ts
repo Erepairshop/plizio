@@ -5,6 +5,7 @@
 import type { CurriculumQuestion } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
 import { G2_Generators_Hungarian } from "./hungarianGenerators2";
+import { G6_Generators_Hungarian } from "./hungarianGenerators6";
 
 // ─── Type definitions ──────────────────────────────────────────────────────────
 export interface MagyarMCQ {
@@ -56,7 +57,15 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
   const [, subtopicId] = topicKey.split("/");
 
   // Select generator pool by grade
-  const generatorPool = osztaly === 2 ? G2_Generators_Hungarian : G1_Generators_Hungarian;
+  let generatorPool: Record<string, () => MagyarMCQ[]>;
+  if (osztaly === 2) {
+    generatorPool = G2_Generators_Hungarian;
+  } else if (osztaly === 6) {
+    generatorPool = G6_Generators_Hungarian;
+  } else {
+    generatorPool = G1_Generators_Hungarian;
+  }
+
   const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[]>)[subtopicId];
 
   if (!generatorFn) {
@@ -520,6 +529,160 @@ const O2_THEME_OLVASAS = makeMagyarTheme(
   [O2_OLVASAS_SZOKINCS, O2_OLVASAS_SZOVEGERTES],
 );
 
+// ─── O6 (6. osztály) Curriculum ───────────────────────────────────────────────
+
+// Mondat / Sentences theme
+const O6_MONDAT_OSSZETETT_MELLER = makeMagyarSubtopic(
+  "osszetett_mellér",
+  { hu: "Mellérendelő összetett mondatok", en: "Coordinate Complex Sentences", de: "Beigeordnete Sätze", ro: "Propoziții coordinate" },
+  generateMagyarQuestions("mondat/osszetett_mellér", "hu", 6),
+);
+
+const O6_MONDAT_OSSZETETT_ALAR = makeMagyarSubtopic(
+  "osszetett_alár",
+  { hu: "Alárendelő összetett mondatok", en: "Subordinate Complex Sentences", de: "Untergeordnete Sätze", ro: "Propoziții subordonate" },
+  generateMagyarQuestions("mondat/osszetett_alár", "hu", 6),
+);
+
+const O6_THEME_MONDAT = makeMagyarTheme(
+  "mondat",
+  { hu: "Mondattan", en: "Syntax", de: "Satzlehre", ro: "Sintaxă" },
+  [O6_MONDAT_OSSZETETT_MELLER, O6_MONDAT_OSSZETETT_ALAR],
+);
+
+// Stilisztika / Style theme
+const O6_STILISZTIKA_HASONLAT = makeMagyarSubtopic(
+  "hasonlat_metafora",
+  { hu: "Hasonlat és metafora", en: "Simile and Metaphor", de: "Vergleich und Metapher", ro: "Comparație și metaforă" },
+  generateMagyarQuestions("stilisztika/hasonlat_metafora", "hu", 6),
+);
+
+const O6_STILISZTIKA_MEGSZEMELYESITES = makeMagyarSubtopic(
+  "megszemelyes",
+  { hu: "Megszemélyesítés", en: "Personification", de: "Personifikation", ro: "Personificare" },
+  generateMagyarQuestions("stilisztika/megszemelyes", "hu", 6),
+);
+
+const O6_THEME_STILISZTIKA = makeMagyarTheme(
+  "stilisztika",
+  { hu: "Stilisztika", en: "Stylistics", de: "Stilistik", ro: "Stilistică" },
+  [O6_STILISZTIKA_HASONLAT, O6_STILISZTIKA_MEGSZEMELYESITES],
+);
+
+// Szókincs / Vocabulary theme
+const O6_SZOKINCS_IDEGEN = makeMagyarSubtopic(
+  "idegen_szavak",
+  { hu: "Idegen szavak", en: "Foreign Words", de: "Fremdwörter", ro: "Cuvinte străine" },
+  generateMagyarQuestions("szokincs/idegen_szavak", "hu", 6),
+);
+
+const O6_SZOKINCS_SZAKSZAVAK = makeMagyarSubtopic(
+  "szakkifejezesek",
+  { hu: "Szakkifejezések", en: "Technical Terms", de: "Fachbegriffe", ro: "Termeni tehnici" },
+  generateMagyarQuestions("szokincs/szakkifejezesek", "hu", 6),
+);
+
+const O6_THEME_SZOKINCS = makeMagyarTheme(
+  "szokincs",
+  { hu: "Szókincs", en: "Vocabulary", de: "Wortschatz", ro: "Vocabular" },
+  [O6_SZOKINCS_IDEGEN, O6_SZOKINCS_SZAKSZAVAK],
+);
+
+// Nyelvtörténet / Language History theme
+const O6_NYELVTORT_CSALAD = makeMagyarSubtopic(
+  "nyelvcsal",
+  { hu: "Nyelvcsaládok", en: "Language Families", de: "Sprachfamilien", ro: "Familii de limbi" },
+  generateMagyarQuestions("nyelvtort/nyelvcsal", "hu", 6),
+);
+
+const O6_NYELVTORT_JOVENENY = makeMagyarSubtopic(
+  "jovenényszavak",
+  { hu: "Jövevényszavak", en: "Borrowed Words", de: "Lehnwörter", ro: "Cuvinte împrumutate" },
+  generateMagyarQuestions("nyelvtort/jovenényszavak", "hu", 6),
+);
+
+const O6_THEME_NYELVTORT = makeMagyarTheme(
+  "nyelvtort",
+  { hu: "Nyelvtörténet", en: "Language History", de: "Sprachgeschichte", ro: "Istorie limbă" },
+  [O6_NYELVTORT_CSALAD, O6_NYELVTORT_JOVENENY],
+);
+
+// Retorika / Rhetoric theme
+const O6_RETORIKA_ERVELES = makeMagyarSubtopic(
+  "erveles_alap",
+  { hu: "Érvelés alapok", en: "Argumentation Basics", de: "Argumentationsgrundlagen", ro: "Bazele argumentării" },
+  generateMagyarQuestions("retorika/erveles_alap", "hu", 6),
+);
+
+const O6_RETORIKA_MEGGYOZes = makeMagyarSubtopic(
+  "meggyozes",
+  { hu: "Meggyőzés", en: "Persuasion", de: "Überzeugung", ro: "Persuasiune" },
+  generateMagyarQuestions("retorika/meggyozes", "hu", 6),
+);
+
+const O6_THEME_RETORIKA = makeMagyarTheme(
+  "retorika",
+  { hu: "Retorika", en: "Rhetoric", de: "Rhetorik", ro: "Ritorică" },
+  [O6_RETORIKA_ERVELES, O6_RETORIKA_MEGGYOZES],
+);
+
+// Szöveg / Text theme
+const O6_SZOVEG_ERTELMEZ = makeMagyarSubtopic(
+  "ertelmez_halado",
+  { hu: "Szövegértelmezés haladó", en: "Advanced Text Comprehension", de: "Fortgeschrittenes Textverständnis", ro: "Înțelegere avansată" },
+  generateMagyarQuestions("szoveg/ertelmez_halado", "hu", 6),
+);
+
+const O6_SZOVEG_ELEMZES = makeMagyarSubtopic(
+  "elemzes",
+  { hu: "Szöveg elemzés", en: "Text Analysis", de: "Textanalyse", ro: "Analiză text" },
+  generateMagyarQuestions("szoveg/elemzes", "hu", 6),
+);
+
+const O6_THEME_SZOVEG = makeMagyarTheme(
+  "szoveg",
+  { hu: "Szöveg", en: "Text", de: "Text", ro: "Text" },
+  [O6_SZOVEG_ERTELMEZ, O6_SZOVEG_ELEMZES],
+);
+
+// Helyesírás / Spelling theme
+const O6_HELYESIRAS_TULAJ = makeMagyarSubtopic(
+  "tulajdonnev",
+  { hu: "Tulajdonnevek helyesírása", en: "Proper Noun Spelling", de: "Eigennamen Rechtschreibung", ro: "Ortografia numelor proprii" },
+  generateMagyarQuestions("helyesiras/tulajdonnev", "hu", 6),
+);
+
+const O6_HELYESIRAS_MOZAIK = makeMagyarSubtopic(
+  "mozaikszó",
+  { hu: "Mozaikszók", en: "Acronyms", de: "Akronyme", ro: "Acronime" },
+  generateMagyarQuestions("helyesiras/mozaikszó", "hu", 6),
+);
+
+const O6_THEME_HELYESIRAS = makeMagyarTheme(
+  "helyesiras",
+  { hu: "Helyesírás", en: "Spelling", de: "Rechtschreibung", ro: "Ortografie" },
+  [O6_HELYESIRAS_TULAJ, O6_HELYESIRAS_MOZAIK],
+);
+
+// Fogalmazás / Composition theme
+const O6_FOGALMAZAS_ESSZE = makeMagyarSubtopic(
+  "essze",
+  { hu: "Esszé írás", en: "Essay Writing", de: "Essay-Schreiben", ro: "Scriere eseuri" },
+  generateMagyarQuestions("fogalmazas/essze", "hu", 6),
+);
+
+const O6_FOGALMAZAS_JELLEMZES = makeMagyarSubtopic(
+  "jellemzes",
+  { hu: "Jellemzés", en: "Characterization", de: "Charakterisierung", ro: "Caracterizare" },
+  generateMagyarQuestions("fogalmazas/jellemzes", "hu", 6),
+);
+
+const O6_THEME_FOGALMAZAS = makeMagyarTheme(
+  "fogalmazas",
+  { hu: "Fogalmazás", en: "Composition", de: "Aufsatz", ro: "Redactare" },
+  [O6_FOGALMAZAS_ESSZE, O6_FOGALMAZAS_JELLEMZES],
+);
+
 // ─── O1 Curriculum assembly ───────────────────────────────────────────────────
 export const MAGYAR_CURRICULUM: MagyarCurriculumGrade = {
   1: [
@@ -536,6 +699,16 @@ export const MAGYAR_CURRICULUM: MagyarCurriculumGrade = {
     O2_THEME_RAGOZAS,
     O2_THEME_SZOKINCS,
     O2_THEME_OLVASAS,
+  ],
+  6: [
+    O6_THEME_MONDAT,
+    O6_THEME_STILISZTIKA,
+    O6_THEME_SZOKINCS,
+    O6_THEME_NYELVTORT,
+    O6_THEME_RETORIKA,
+    O6_THEME_SZOVEG,
+    O6_THEME_HELYESIRAS,
+    O6_THEME_FOGALMAZAS,
   ],
 };
 
@@ -573,6 +746,142 @@ export function getMagyarCurriculumQuestions(
       seen.add(question.question);
       pool.push(question);
     }
+  }
+
+  return pool;
+}
+
+// ─── HUNGARIAN GRADING SYSTEM (1–5 scale, 5=best) ──────────────────────────
+
+export interface HungarianGradeMark {
+  note: number;
+  label: string;
+  color: string;
+  emoji: string;
+}
+
+export function calculateHungarianGrade(pct: number): HungarianGradeMark {
+  // Hungarian 1–5 scale (5 = jeles/excellent, 1 = elégtelen/fail)
+  if (pct >= 92) return { note: 5, label: "Jeles",       color: "#FFD700", emoji: "🌟" };
+  if (pct >= 81) return { note: 4, label: "Jó",          color: "#00FF88", emoji: "😊" };
+  if (pct >= 67) return { note: 3, label: "Elfogadható", color: "#00D4FF", emoji: "🙂" };
+  if (pct >= 50) return { note: 2, label: "Elégséges",   color: "#FF6B00", emoji: "😅" };
+  return               { note: 1, label: "Elégtelen",    color: "#FF4444", emoji: "😟" };
+}
+
+// ─── HUNGARIAN SUBTOPIC HINTS ────────────────────────────────────────────────
+// Shown in the feedback card when the user gives a wrong answer.
+
+export const HUNGARIAN_SUBTOPIC_HINTS: Record<string, string> = {
+  // ── O1 Betűk (Letters) ────────────────────────────────────────────────────
+  "maganhangzok":      "Magánhangzók: a, á, e, é, i, í, o, ó, ö, ő, u, ú, ü, ű",
+  "massalhangzok":     "Mássalhangzók: b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z, etc.",
+  "abc_sorrend":       "ABC-sorrend: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z",
+  "szotagszam":        "Szótagszám: szavakat szótagokra bontjuk (pl. ka-ro: 2 szótag)",
+  "elvalasztas":       "Szótagelválasztás: szavakat szótaghatáron választjuk el (pl. ka-ro)",
+  "betuparak":         "Betűpárok: bizonyos betűk egymás mellett állnak (pl. ny, gy, ty, cs)",
+  "rovid_hosszu":      "Rövid-hosszú magánhangzók: a/á, e/é, i/í, o/ó, ö/ő, u/ú, ü/ű",
+  "j_ly":              "j/ly megkülönböztetés: j-vel vagy ly-val kezdődik a szó",
+
+  // ── O1 Szavak (Words) ─────────────────────────────────────────────────────
+  "fonevek":           "Főnevek: személyek, tárgyak, helyek nevei (pl. Péter, asztal, iskola)",
+  "melleknevek":       "Melléknév: a főnevet jellemzi (pl. nagy, kicsi, szép)",
+  "igek":              "Ige: cselekedet, cselekvés (pl. fut, esik, nevethetek)",
+  "ellentetek":        "Ellentétes szavak: nagy-kicsi, szép-csúnya, meleg-hideg",
+  "szokincs_o1":       "Szókincs: napi szóhasználatú szavak, kifejezések",
+
+  // ── O1 Mondatok (Sentences) ───────────────────────────────────────────────
+  "mondat_alapok":     "Mondat: alany + állítmány (legalább). Nagybetűvel kezdődik, ponttal végződik.",
+  "nagybetus":         "Nagybetűs szavak: mondat kezdete, tulajdonnevek (nevek, helyek)",
+  "vesszo":            "Vessző: többes felsorolás, tagmondatok elválasztása",
+  "kialtojel":         "Felkiáltójel: erős érzelem kifejezésére (!).",
+
+  // ── O2 Szófajok (Parts of Speech) ─────────────────────────────────────────
+  "nev_jelz":          "Név & jelzős szerkezet: jelző + főnév (pl. szép ház)",
+  "ragozas_alap":      "Ragozás: szóvégződések változása (pl. ház, házak, házban)",
+  "szófaj_o2":         "Szófajok: főnév, melléknév, ige, névelő, névmás, stb.",
+
+  // ── O2 Helyesírás (Spelling) ──────────────────────────────────────────────
+  "cscs_zs":           "cs, zs betűpárok: megkülönböztetés (pl. csoki-zsinór)",
+  "kettoszam":         "Kettőszámítás: szavak és kifejezések helyes írása",
+
+  // ── O6 Mondat (Sentence, advanced) ────────────────────────────────────────
+  "tagmondat":         "Tagmondat: összetett mondat részei (fő-, mellékmondat)",
+  "vonatkozo_mondat":  "Vonatkozó mondat: amely, aki, amelyet, stb.",
+
+  // ── O6 Stilisztika (Style) ────────────────────────────────────────────────
+  "stilusza":          "Stílus: szöveg jellege (pl. szépirodalmi, tudományos, közéleti)",
+
+  // ── O6 Szókincs (Vocabulary, advanced) ─────────────────────────────────────
+  "szokincs_halado":   "Haladó szókincs: irodalmi, szakmai kifejezések",
+
+  // ── O6 Nyelvtörténet (Language History) ──────────────────────────────────
+  "csalad":            "Magyar nyelvcsalád: finnugor rokonság, uralikus",
+  "jovenényszavak":    "Jövevényszavak: idegen nyelvekből átvett szavak",
+
+  // ── O6 Retorika (Rhetoric) ───────────────────────────────────────────────
+  "erveles_alap":      "Érvelés: tények + logika (pl. premissza → konklúzió)",
+  "meggyozes":         "Meggyőzés: érzelmek + logika alkalmazása",
+
+  // ── O6 Szöveg (Text, advanced) ────────────────────────────────────────────
+  "ertelmez_halado":   "Szövegértelmezés: tartalom, szerkezet, eszközök elemzése",
+  "elemzes":           "Szöveg elemzés: stílus, jelentés, stilisztika",
+
+  // ── O6 Helyesírás (Spelling, advanced) ────────────────────────────────────
+  "tulajdonnev":       "Tulajdonnevek: személynevek, helységnevek, intézmények",
+  "mozaikszó":         "Mozaikszó: szavak kezdőbetűiből összetett szó (pl. TV, KRESZ)",
+};
+
+// ─── EXPORTED WRAPPER FUNCTION FOR LANGUAGETEST ENGINE ───────────────────────
+
+/**
+ * Wrapper function to retrieve Hungarian curriculum questions.
+ * Used by LanguageTestEngine.
+ *
+ * @param grade School grade (1, 2, 6)
+ * @param selectedSubtopicIds Array of subtopic IDs (e.g., ["maganhangzok", "fonevek"])
+ * @param count Number of questions to return (default 10)
+ * @returns Array of MagyarMCQ questions
+ */
+export function getHungarianQuestions(
+  grade: number,
+  selectedSubtopicIds: string[],
+  count = 10
+): MagyarMCQ[] {
+  const themes = MAGYAR_CURRICULUM[grade] ?? [];
+  const pool: MagyarMCQ[] = [];
+
+  for (const theme of themes) {
+    for (const sub of theme.subtopics) {
+      if (selectedSubtopicIds.includes(sub.id)) {
+        pool.push(...sub.questions);
+      }
+    }
+  }
+
+  // If pool is too small, cycle through existing questions with shuffled options
+  if (pool.length > 0 && pool.length < count) {
+    const base = [...pool];
+    while (pool.length < count) {
+      const q = { ...base[pool.length % base.length] };
+      if (q.type === "mcq" && q.options) {
+        const opts = [...q.options];
+        const correctAnswer = opts[q.correct ?? 0];
+        for (let i = opts.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [opts[i], opts[j]] = [opts[j], opts[i]];
+        }
+        q.options = opts;
+        q.correct = opts.indexOf(correctAnswer);
+      }
+      pool.push(q);
+    }
+  }
+
+  // Fisher-Yates shuffle
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
   }
 
   return pool;
