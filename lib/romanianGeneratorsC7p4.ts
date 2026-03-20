@@ -125,7 +125,7 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const voc = pick(VOCABULAR_FAMILIE, rng);
+    const voc = VOCABULAR_FAMILIE[i % VOCABULAR_FAMILIE.length];
 
     questions.push(
       createMCQ(
@@ -152,7 +152,7 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const voc = pick(VOCABULAR_MIJLOACE, rng);
+    const voc = VOCABULAR_MIJLOACE[i % VOCABULAR_MIJLOACE.length];
 
     questions.push(
       createMCQ(
@@ -178,7 +178,7 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const text = pick(TEXT_ROMAN_NUVELA, rng);
+    const text = TEXT_ROMAN_NUVELA[i % TEXT_ROMAN_NUVELA.length];
 
     questions.push(
       createMCQ(
@@ -204,7 +204,7 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const liric = pick(TEXT_LIRIC, rng);
+    const liric = TEXT_LIRIC[i % TEXT_LIRIC.length];
 
     questions.push(
       createMCQ(
@@ -230,7 +230,7 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const drama = pick(TEXT_DRAMATIC, rng);
+    const drama = TEXT_DRAMATIC[i % TEXT_DRAMATIC.length];
 
     questions.push(
       createMCQ(
