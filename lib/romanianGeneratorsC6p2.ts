@@ -383,12 +383,16 @@ export const C6P2_Generators = {
   // ADVERB — TIPURI
   adverb_tipuri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "adverb_prepozitie_c6";
+    const subtopic = "adverb_tipuri_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(ADVERB_TIPURI, rng);
       const q = createMCQ(
-        "adverb_prepozitie_c6",
-        "adverb_tipuri_c6",
+        topic,
+        subtopic,
         `Adverbul "${item.adverb}" din "${item.exemplu}" este de:`,
         item.tip,
         ["grad", "frecvență", "certitudine"].filter(x => x !== item.tip),
@@ -396,18 +400,40 @@ export const C6P2_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este adverbul?", "cuvânt care modifică verbul, adjectivul sau alt adverb"));
+    questions.push(createTyping(topic, subtopic, "Câte tipuri de adverbe sunt?", "mai mult de 5 tipuri principale"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt adverbele de mod?", "exprimă cum se face acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt adverbele de loc?", "exprimă unde se face acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt adverbele de timp?", "exprimă când se face acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt adverbele de frecvență?", "exprimă cât de des se face acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Exemplu adverb de mod:", "rapid, ușor, frumos"));
+    questions.push(createTyping(topic, subtopic, "Exemplu adverb de loc:", "aici, acolo, sus, jos"));
+    questions.push(createTyping(topic, subtopic, "Exemplu adverb de timp:", "azi, mâine, ieri, acum"));
+    questions.push(createTyping(topic, subtopic, "Exemplu adverb de frecvență:", "adesea, rar, niciodată, întotdeauna"));
+    questions.push(createTyping(topic, subtopic, "Cum se formează adverbele de mod?", "de la adjectiv + -amente/-itate"));
+    questions.push(createTyping(topic, subtopic, "Adverbele se acordă?", "nu, sunt invariabile"));
+    questions.push(createTyping(topic, subtopic, "Unde se plasează adverbul în propoziție?", "lângă verbul pe care îl modifică"));
+    questions.push(createTyping(topic, subtopic, "Adverbul modifică ce?", "verb, adjectiv, alt adverb, propoziție"));
+    questions.push(createTyping(topic, subtopic, "Care sunt adverbele de grad?", "foarte, prea, puțin, destul"));
+
+    return shuffle(questions, rng);
   },
 
   // PREPOZIȚIE — CAZURI
   prepozitie_cazuri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "adverb_prepozitie_c6";
+    const subtopic = "prepozitie_cazuri_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PREPOSITION_CAZURI, rng);
       const q = createMCQ(
-        "adverb_prepozitie_c6",
-        "prepozitie_cazuri_c6",
+        topic,
+        subtopic,
         `Prepoziția "${item.prep}" se folosește cu:`,
         item.caz,
         ["Nominativ", "Vocativ", "Ablativ"].filter(x => !item.caz.includes(x)),
@@ -415,18 +441,40 @@ export const C6P2_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este prepoziția?", "cuvânt invariabil care leagă cuvinte"));
+    questions.push(createTyping(topic, subtopic, "Cu ce caz se folosesc prepoziții?", "cu Genitiv, Dativ, Acuzativ, Instrumental"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția 'la' se folosește cu:", "Acuzativ/Dativ"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția 'din' se folosește cu:", "Genitiv"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția 'cu' se folosește cu:", "Instrumental"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția 'în' se folosește cu:", "Acuzativ"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția 'pe' se folosește cu:", "Acuzativ"));
+    questions.push(createTyping(topic, subtopic, "Exemplu: de + caz:", "Genitivul - de masă"));
+    questions.push(createTyping(topic, subtopic, "Exemplu: pentru + caz:", "Acuzativul - pentru copil"));
+    questions.push(createTyping(topic, subtopic, "Se acordă prepoziția?", "nu, este invariabilă"));
+    questions.push(createTyping(topic, subtopic, "Prepoziția introduce:", "complement"));
+    questions.push(createTyping(topic, subtopic, "Poate prepoziția fi urmată de Nominativ?", "NU, niciodată"));
+    questions.push(createTyping(topic, subtopic, "Prepoziții temporal:", "după, înainte, în timp"));
+    questions.push(createTyping(topic, subtopic, "Prepoziții spațiale:", "în, pe, la, din, lângă, sub"));
+    questions.push(createTyping(topic, subtopic, "Sunt obligatorii prepoziții?", "da, pentru exprimarea clarității"));
+
+    return shuffle(questions, rng);
   },
 
   // CONJUNCȚIE
   conjunctie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "adverb_prepozitie_c6";
+    const subtopic = "conjunctie_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(CONJUNCTII, rng);
       const q = createMCQ(
-        "adverb_prepozitie_c6",
-        "conjunctie_c6",
+        topic,
+        subtopic,
         `Conjuncția "${item.conj}" este:`,
         item.tip,
         ["interjector", "pronume relativ", "articol"].filter(x => x !== item.tip),
@@ -434,18 +482,40 @@ export const C6P2_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este conjuncția?", "cuvânt invariabil care leagă propoziții"));
+    questions.push(createTyping(topic, subtopic, "Câte tipuri de conjuncții sunt?", "două: coordonatoare și subordonatoare"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt conjuncțiile coordonatoare?", "legă propoziții de rang egal"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt conjuncțiile subordonatoare?", "legă propoziție subordonată de principală"));
+    questions.push(createTyping(topic, subtopic, "Exemplu conjuncție coordonatoare:", "și, sau, dar, deci"));
+    questions.push(createTyping(topic, subtopic, "Exemplu conjuncție subordonatoare:", "că, dacă, deoarece, pentru că"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'și' este:", "coordonatoare aditivă"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'dar' este:", "coordonatoare adversativă"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'deci' este:", "coordonatoare explicativă"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'dacă' este:", "subordonatoare condițională"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'deoarece' este:", "subordonatoare cauzală"));
+    questions.push(createTyping(topic, subtopic, "Se acordă conjuncția?", "nu, este invariabilă"));
+    questions.push(createTyping(topic, subtopic, "Poziție conjuncție:", "între propoziții/cuvinte"));
+    questions.push(createTyping(topic, subtopic, "Fără conjuncții, propozițiile ar fi:", "neînlănțuite, greu de înțeles"));
+    questions.push(createTyping(topic, subtopic, "Conjuncția 'sau' exprimă:", "alternativă"));
+
+    return shuffle(questions, rng);
   },
 
   // INTERJECȚIE
   interjectie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "adverb_prepozitie_c6";
+    const subtopic = "interjectie_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(INTERJECTII, rng);
       const q = createMCQ(
-        "adverb_prepozitie_c6",
-        "interjectie_c6",
+        topic,
+        subtopic,
         `Interjecția "${item.interj}" exprimă:`,
         item.tip,
         ["negație", "condiție", "comparație"].filter(x => x !== item.tip),
@@ -453,6 +523,24 @@ export const C6P2_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este interjecția?", "exclamație care exprimă emoție"));
+    questions.push(createTyping(topic, subtopic, "Interjecția exprimă ce?", "sentimente, emoții, reacții"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de bucurie:", "bravo! ура! vai!"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de durere:", "vai! ouch! ai!"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de surpriză:", "oh! aha! vai!"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de aprobație:", "bravo! excelent! super!"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de dezaprobație:", "bah! pfui! ugh!"));
+    questions.push(createTyping(topic, subtopic, "Exemplu interjecție de atenție:", "atenție! psst! ey!"));
+    questions.push(createTyping(topic, subtopic, "Interjecția are rol sintactic?", "nu, e emfatică"));
+    questions.push(createTyping(topic, subtopic, "Se acordă interjecția?", "nu, e invariabilă"));
+    questions.push(createTyping(topic, subtopic, "Interjecția în text se pune cu:", "punct de exclamare"));
+    questions.push(createTyping(topic, subtopic, "Interjecțiile sunt:", "expresii exclamative"));
+    questions.push(createTyping(topic, subtopic, "Unde apare interjecția?", "la începutul propoziției, izolată"));
+    questions.push(createTyping(topic, subtopic, "Valoare interjecției:", "emfatică, nu structurală"));
+    questions.push(createTyping(topic, subtopic, "Exemple comune:", "bravo, oh, ah, vai, fuș, bah"));
+
+    return shuffle(questions, rng);
   },
 };
