@@ -1297,13 +1297,19 @@ export function getRomanianQuestions(
   return pool.slice(0, count);
 }
 
-// ─── ROMANIAN GRADING — Calificative (FB / B / S / I) ───────────────────────
+// ─── ROMANIAN GRADING — Note 1-10 ───────────────────────────────────────────
 
 export function calculateRomanianGrade(pct: number, _countryCode = "RO"): TestGradeMark {
-  if (pct >= 90) return { note: "FB", label: "Foarte Bine",    color: "#FFD700", emoji: "🌟" };
-  if (pct >= 70) return { note: "B",  label: "Bine",           color: "#00FF88", emoji: "😊" };
-  if (pct >= 50) return { note: "S",  label: "Suficient",      color: "#FF6B00", emoji: "🙂" };
-  return              { note: "I",  label: "Insuficient",     color: "#FF4444", emoji: "😟" };
+  if (pct >= 95) return { note: "10", label: "Excelent",       color: "#FFD700", emoji: "🌟" };
+  if (pct >= 85) return { note: "9",  label: "Foarte Bine",   color: "#00FF88", emoji: "🏆" };
+  if (pct >= 75) return { note: "8",  label: "Bine",           color: "#00D4FF", emoji: "😊" };
+  if (pct >= 65) return { note: "7",  label: "Satisfăcător",   color: "#4ECDC4", emoji: "🙂" };
+  if (pct >= 55) return { note: "6",  label: "Suficient",      color: "#FF9500", emoji: "😐" };
+  if (pct >= 45) return { note: "5",  label: "Mediocru",       color: "#FF6B00", emoji: "😕" };
+  if (pct >= 35) return { note: "4",  label: "Insuficient",    color: "#FF4444", emoji: "😟" };
+  if (pct >= 25) return { note: "3",  label: "Slab",           color: "#FF2D2D", emoji: "😢" };
+  if (pct >= 15) return { note: "2",  label: "Foarte Slab",    color: "#CC0000", emoji: "😰" };
+  return              { note: "1",  label: "Nesatisfăcător",  color: "#990000", emoji: "😞" };
 }
 
 // ─── SUBTOPIC HINTS (shown after wrong answer) ──────────────────────────────
