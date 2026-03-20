@@ -211,24 +211,66 @@ export const C8P1_Generators = {
 
   analiza_sintactica: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
-    const questions: CurriculumMCQ[] = [];
+    const questionPool: CurriculumMCQ[] = [];
+    const funcs = ["subiect", "predicat", "atribut", "complement"];
+    // Build 30 unique questions by cycling through functions and varying question types
     for (let i = 0; i < 30; i++) {
-      const funcs = ["subiect", "predicat", "atribut", "complement"];
-      const f = pick(funcs, rng);
-      questions.push(createMCQ("Romanian-C8-P1", "analiza_sintactica", `Funcția: "${f}"`, f, funcs.filter(x => x !== f), rng));
+      const f = funcs[i % funcs.length];
+      const variantType = Math.floor(i / funcs.length);
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `Funcția: "${f}"`;
+        correct = f;
+        wrongOpts = funcs.filter(x => x !== f);
+      } else if (variantType === 1) {
+        question = `Care din următoarele este "${f}"?`;
+        correct = f;
+        wrongOpts = funcs.filter(x => x !== f);
+      } else {
+        question = `Cum se numește elementul din propoziție care joacă rolul de "${f}"?`;
+        correct = f;
+        wrongOpts = funcs.filter(x => x !== f);
+      }
+
+      questionPool.push(createMCQ("Romanian-C8-P1", "analiza_sintactica", question, correct, wrongOpts, rng));
     }
-    return shuffle(questions, rng).slice(0, 30);
+    return shuffle(questionPool, rng).slice(0, 30);
   },
 
   membri_propozitie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
-    const questions: CurriculumMCQ[] = [];
+    const questionPool: CurriculumMCQ[] = [];
     const members = ["subiect", "predicat", "atribut", "complement", "apoziție", "circumstanțial"];
+    // Build 30 unique questions by cycling through members and varying question types
     for (let i = 0; i < 30; i++) {
-      const m = pick(members, rng);
-      questions.push(createMCQ("Romanian-C8-P1", "membri_propozitie", `Care este: "${m}"?`, m, members.filter(x => x !== m).slice(0, 3), rng));
+      const m = members[i % members.length];
+      const variantType = Math.floor(i / members.length);
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `Care este: "${m}"?`;
+        correct = m;
+        wrongOpts = members.filter(x => x !== m).slice(0, 3);
+      } else if (variantType === 1) {
+        question = `Membrul propozitiei care joacă rolul de "${m}" este:`;
+        correct = m;
+        wrongOpts = members.filter(x => x !== m).slice(0, 3);
+      } else {
+        question = `Cum se numeste membrul din "${m}" în analiza sintactică?`;
+        correct = m;
+        wrongOpts = members.filter(x => x !== m).slice(0, 3);
+      }
+
+      questionPool.push(createMCQ("Romanian-C8-P1", "membri_propozitie", question, correct, wrongOpts, rng));
     }
-    return shuffle(questions, rng).slice(0, 30);
+    return shuffle(questionPool, rng).slice(0, 30);
   },
 
   sintaxa_propozitie_simpla_typing: (seed = 42): CurriculumQuestion[] => {

@@ -162,10 +162,10 @@ export const C6P2_Generators = {
     const subtopic = "moduri_nepersonale_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VERB_NEPERSONALE, rng);
-      const mode = Math.floor(rng() * 3);
+      const item = VERB_NEPERSONALE[i % VERB_NEPERSONALE.length];
+      const mode = i % 3;
       let correct = "";
       let intreb = "";
       if (mode === 0) {
@@ -216,11 +216,11 @@ export const C6P2_Generators = {
     const subtopic = "timpuri_literare_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
+    const timp_options = ["trecut_simplu", "trecut_compus", "perfectul_simplu", "plus_perf"] as const;
     for (let i = 0; i < 30; i++) {
-      const item = pick(VERB_TIMPURI_LITERARE, rng);
-      const timp_options = ["trecut_simplu", "trecut_compus", "perfectul_simplu", "plus_perf"];
-      const timp = timp_options[Math.floor(rng() * timp_options.length)] as keyof typeof item;
+      const item = VERB_TIMPURI_LITERARE[i % VERB_TIMPURI_LITERARE.length];
+      const timp = timp_options[i % timp_options.length];
       const correct = item[timp] as string;
       const timpName = timp === "trecut_simplu" ? "Trecut simplu" : timp === "trecut_compus" ? "Trecut compus" : timp === "perfectul_simplu" ? "Perfectul simplu" : "Plusquamperfectul";
       const q = createMCQ(
@@ -261,9 +261,9 @@ export const C6P2_Generators = {
     const subtopic = "diateze_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VERB_DIATEZE, rng);
+      const item = VERB_DIATEZE[i % VERB_DIATEZE.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -302,11 +302,11 @@ export const C6P2_Generators = {
     const subtopic = "neregulata_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
+    const persoane = ["eu", "tu", "el"] as const;
     for (let i = 0; i < 30; i++) {
-      const item = pick(VERB_NEREGULATE, rng);
-      const persoane = ["eu", "tu", "el"] as const;
-      const persoana = persoane[Math.floor(rng() * persoane.length)];
+      const item = VERB_NEREGULATE[i % VERB_NEREGULATE.length];
+      const persoana = persoane[i % persoane.length];
       const correct = item[persoana];
       const q = createMCQ(
         topic,
@@ -346,9 +346,9 @@ export const C6P2_Generators = {
     const subtopic = "acord_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(VERB_ACORD, rng);
+      const item = VERB_ACORD[i % VERB_ACORD.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -387,9 +387,9 @@ export const C6P2_Generators = {
     const subtopic = "adverb_tipuri_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(ADVERB_TIPURI, rng);
+      const item = ADVERB_TIPURI[i % ADVERB_TIPURI.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -428,9 +428,9 @@ export const C6P2_Generators = {
     const subtopic = "prepozitie_cazuri_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(PREPOSITION_CAZURI, rng);
+      const item = PREPOSITION_CAZURI[i % PREPOSITION_CAZURI.length];
       const q = createMCQ(
         topic,
         subtopic,
