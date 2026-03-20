@@ -39,7 +39,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["verbals_g8", "participial_modifiers_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Verbal Quiz",    hu: "Igenév kvíz",      de: "Verbal-Quiz",     ro: "Quiz verbale"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
     svgX: 160, svgY: 530,
@@ -51,7 +51,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["absolute_phrases_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Phrase Quiz",    hu: "Tagmondat kvíz",   de: "Phrase-Quiz",     ro: "Quiz fraze"        } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: 440,
@@ -63,7 +63,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["active_passive_g8", "subjunctive_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Mood Quiz",      hu: "Módja kvíz",       de: "Modus-Quiz",      ro: "Quiz mod"          } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
     svgX: 240, svgY: 360,
@@ -75,10 +75,10 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["argumentative_g8", "informational_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Writing Quiz",   hu: "Írás kvíz",        de: "Schreib-Quiz",    ro: "Quiz scriere"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
-    svgX: 90, svgY: 270,
+    svgX: 90, svgY: 280,
   },
   {
     id: "i5",
@@ -86,11 +86,11 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#6366F1", sortRange: [1, 20],
     topicKeys: ["point_of_view_g8", "genres_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Narrative Quiz", hu: "Elbeszélő kvíz",  de: "Narrativ-Quiz",   ro: "Quiz narativ"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Literature Quiz", hu: "Irodalom kvíz",    de: "Literatur-Quiz",  ro: "Quiz literar"      } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
-    svgX: 220, svgY: 195,
+    svgX: 220, svgY: 200,
   },
   {
     id: "i6",
@@ -98,11 +98,11 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🎨", color: "#FF2D78", sortRange: [1, 20],
     topicKeys: ["allusion_irony_g8", "theme_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "POV Quiz",       hu: "Nézőpont kvíz",    de: "Perspektive-Quiz", ro: "Quiz perspectivă" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Allusion Quiz",  hu: "Allúzió kvíz",     de: "Anspielungs-Quiz", ro: "Quiz aluzie"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
-    svgX: 100, svgY: 125,
+    svgX: 90, svgY: 125,
   },
   {
     id: "i7",
@@ -110,11 +110,11 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "📋", color: "#00D4FF", sortRange: [1, 20],
     topicKeys: ["formal_register_g8", "academic_vs_conv_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Allusion Quiz",  hu: "Allúzió kvíz",     de: "Anspielungs-Quiz", ro: "Quiz aluzie"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Register Quiz",  hu: "Regiszter kvíz",   de: "Register-Quiz",   ro: "Quiz registru"     } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
-    svgX: 230, svgY: 55,
+    svgX: 230, svgY: 40,
   },
   {
     id: "i8",
@@ -122,11 +122,11 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "✒️", color: "#FF6B6B", sortRange: [1, 20],
     topicKeys: ["ellipsis_g8", "dashes_g8", "commas_complex_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Register Quiz",  hu: "Regiszter kvíz",   de: "Register-Quiz",   ro: "Quiz registru"     } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Punctuation Quiz", hu: "Írásjel kvíz",   de: "Interpunktions-Quiz", ro: "Quiz punctuație" } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
-    svgX: 80, svgY: -20,
+    svgX: 100, svgY: -40,
   },
   {
     id: "i9",
@@ -137,10 +137,10 @@ export const K8_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Final Quiz",     hu: "Záró kvíz",        de: "Final-Quiz",      ro: "Quiz final"        } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "star-match",  icon: "💫", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
-    svgX: 190, svgY: -90,
+    svgX: 200, svgY: -120,
   },
 ];
 
