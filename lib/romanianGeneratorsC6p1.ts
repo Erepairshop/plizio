@@ -89,28 +89,59 @@ const SUBSTANTIVE_DECLIN = [
     nom_pl: "prietenease", gen_pl: "prieteneaseor", dat_pl: "prieteneaseor", acc_pl: "prieteneasele", voc_pl: "prietenease!" },
 ];
 
+const SINTACTIC_FUNCTIONS_POOL = [
+  "Subiect",
+  "Complement direct",
+  "Complement genitival",
+  "Complement indirect",
+  "Complement prepozițional",
+  "Complement locativ",
+  "Complement circumstanțial",
+  "Atribut",
+  "Predicat nominal",
+  "Complement de timp",
+];
+
 const SUBSTANTIVE_FUNCTII = [
   { prop: "Maria citește cărți interesante.", subst: "Maria", functie: "Subiect" },
   { prop: "Ana a văzut pe Alex în parc.", subst: "Alex", functie: "Complement direct" },
   { prop: "Cartea lui Ion este veche.", subst: "Ion", functie: "Complement genitival" },
   { prop: "Dau cartea Mariei.", subst: "Mariei", functie: "Complement indirect" },
   { prop: "Copilul citește cu atenție.", subst: "copilul", functie: "Subiect" },
-  { prop: "Am vorbit cu profesorul ieri.", subst: "profesorul", functie: "Complement prepoziția" },
+  { prop: "Am vorbit cu profesorul ieri.", subst: "profesorul", functie: "Complement prepozițional" },
   { prop: "Soarele strălucește deasupra muntelui.", subst: "muntelui", functie: "Complement locativ" },
-  { prop: "Plec mâine la école.", subst: "école", functie: "Complement locativ" },
   { prop: "Citesc o carte de povești.", subst: "povești", functie: "Complement genitival" },
-  { prop: "Am întâlnit-o pe strada principale.", subst: "strada", functie: "Complement locativ" },
+  { prop: "Am întâlnit-o pe strada principală.", subst: "strada", functie: "Complement locativ" },
+  { prop: "Câinele vecinului a lătrat toată noaptea.", subst: "vecinului", functie: "Complement genitival" },
+  { prop: "Profesoara explică lecția cu răbdare.", subst: "Profesoara", functie: "Subiect" },
+  { prop: "Băiatul a dăruit flori mamei.", subst: "mamei", functie: "Complement indirect" },
+  { prop: "Mergem la școală în fiecare zi.", subst: "școală", functie: "Complement locativ" },
+  { prop: "Andrei l-a ajutat pe coleg.", subst: "coleg", functie: "Complement direct" },
+  { prop: "Bunica tricotează un pulover pentru Ion.", subst: "Ion", functie: "Complement indirect" },
 ];
 
+// defect_type: "plural" = singularia tantum (no plural), "singular" = pluralia tantum (no singular)
 const SUBSTANTIVE_DEFECTIVE = [
-  { subst: "datorie", forma_lipsa: "plural (datoria nu are plural)" },
-  { subst: "gândire", forma_lipsa: "plural (gândirea nu are plural)" },
-  { subst: "speranță", forma_lipsa: "plural (speranța nu are plural)" },
-  { subst: "milă", forma_lipsa: "plural (mila nu are plural)" },
-  { subst: "sarcini", forma_lipsa: "singular (sarcinile nu au singular)" },
-  { subst: "obiceiuri", forma_lipsa: "singular (obiceiurile nu au singular)" },
-  { subst: "cunoștințe", forma_lipsa: "singular (cunoștințele nu au singular)" },
-  { subst: "moșii", forma_lipsa: "singular (moșiile nu au singular)" },
+  { subst: "datorie", forma_lipsa: "plural (datoria nu are plural)", defect_type: "plural" },
+  { subst: "gândire", forma_lipsa: "plural (gândirea nu are plural)", defect_type: "plural" },
+  { subst: "speranță", forma_lipsa: "plural (speranța nu are plural)", defect_type: "plural" },
+  { subst: "milă", forma_lipsa: "plural (mila nu are plural)", defect_type: "plural" },
+  { subst: "sarcini", forma_lipsa: "singular (sarcinile nu au singular)", defect_type: "singular" },
+  { subst: "obiceiuri", forma_lipsa: "singular (obiceiurile nu au singular)", defect_type: "singular" },
+  { subst: "cunoștințe", forma_lipsa: "singular (cunoștințele nu au singular)", defect_type: "singular" },
+  { subst: "moșii", forma_lipsa: "singular (moșiile nu au singular)", defect_type: "singular" },
+  // Pluralia tantum (only plural, no singular)
+  { subst: "ochelari", forma_lipsa: "singular (ochelarii nu au singular)", defect_type: "singular" },
+  { subst: "pantaloni", forma_lipsa: "singular (pantalonii nu au singular)", defect_type: "singular" },
+  { subst: "foarfece", forma_lipsa: "singular (foarfecele nu au singular)", defect_type: "singular" },
+  { subst: "zori", forma_lipsa: "singular (zorii nu au singular)", defect_type: "singular" },
+  { subst: "tărâțe", forma_lipsa: "singular (tărâțele nu au singular)", defect_type: "singular" },
+  // Singularia tantum (only singular, no plural)
+  { subst: "sânge", forma_lipsa: "plural (sângele nu are plural)", defect_type: "plural" },
+  { subst: "aur", forma_lipsa: "plural (aurul nu are plural)", defect_type: "plural" },
+  { subst: "zahăr", forma_lipsa: "plural (zahărul nu are plural)", defect_type: "plural" },
+  { subst: "oțet", forma_lipsa: "plural (oțetul nu are plural)", defect_type: "plural" },
+  { subst: "miere", forma_lipsa: "plural (mierea nu are plural)", defect_type: "plural" },
 ];
 
 const PRONUME_PERSONALE = [
@@ -130,9 +161,20 @@ const PRONUME_DEMONSTRATIVE = [
   { pronume: "acesta/aceasta", referinta: "apropiat singular" },
   { pronume: "aceștia/acestea", referinta: "apropiat plural" },
   { pronume: "acela/aceea", referinta: "depărtat singular" },
-  { pronume: "aceia/alea", referinta: "depărtat plural" },
-  { pronume: "asta", referinta: "apropiat (form neutră)" },
+  { pronume: "aceia/acelea", referinta: "depărtat plural" },
+  { pronume: "asta", referinta: "apropiat (formă neutră)" },
   { pronume: "aia", referinta: "depărtat (formă neutră)" },
+  // Additional forms — gender/number detail
+  { pronume: "acesta", referinta: "apropiat singular masculin" },
+  { pronume: "aceasta", referinta: "apropiat singular feminin" },
+  { pronume: "această", referinta: "apropiat singular feminin (adjectival)" },
+  { pronume: "acest", referinta: "apropiat singular masculin (adjectival)" },
+  { pronume: "acela", referinta: "depărtat singular masculin" },
+  { pronume: "aceea", referinta: "depărtat singular feminin" },
+  { pronume: "aceștia", referinta: "apropiat plural masculin" },
+  { pronume: "acestea", referinta: "apropiat plural feminin/neutru" },
+  { pronume: "aceia", referinta: "depărtat plural masculin" },
+  { pronume: "acelea", referinta: "depărtat plural feminin/neutru" },
 ];
 
 const PRONUME_POSESIVE = [
@@ -142,6 +184,19 @@ const PRONUME_POSESIVE = [
   { pron_poss: "al nostru/a noastră/ai noștri/ale noastre", persoana: "1 pl" },
   { pron_poss: "al vostru/a voastră/ai voștri/ale voastre", persoana: "2 pl" },
   { pron_poss: "al lor/a lor/ai lor/ale lor", persoana: "3 pl" },
+  // Individual forms for more granular questions
+  { pron_poss: "al meu", persoana: "1 sg masc sg" },
+  { pron_poss: "a mea", persoana: "1 sg fem sg" },
+  { pron_poss: "ai mei", persoana: "1 sg masc pl" },
+  { pron_poss: "ale mele", persoana: "1 sg fem pl" },
+  { pron_poss: "al tău", persoana: "2 sg masc sg" },
+  { pron_poss: "a ta", persoana: "2 sg fem sg" },
+  { pron_poss: "ai tăi", persoana: "2 sg masc pl" },
+  { pron_poss: "ale tale", persoana: "2 sg fem pl" },
+  { pron_poss: "al său", persoana: "3 sg masc sg" },
+  { pron_poss: "a sa", persoana: "3 sg fem sg" },
+  { pron_poss: "ai săi", persoana: "3 sg masc pl" },
+  { pron_poss: "ale sale", persoana: "3 sg fem pl" },
 ];
 
 const PRONUME_REFLEXIVE = [
