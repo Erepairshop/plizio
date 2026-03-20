@@ -812,8 +812,11 @@ const C6: RomanianTheme[] = [
     icon: "📚",
     color: "#10B981",
     subtopics: [
-      { id: "polisemie_c6", name: "Polisemie și omonimie", questions: [
+      { id: "polisemie_c6", name: "Polisemie", questions: [
         { type: "mcq", topic: "vocabular_c6", subtopic: "polisemie_c6", question: "Cuvântul 'masă' poate însemna:", options: ["mobilă și planetă (mit.)", "culoare", "joc", "floare"], correct: 0 },
+      ]},
+      { id: "omonimie_c6", name: "Omonimie", questions: [
+        { type: "mcq", topic: "vocabular_c6", subtopic: "omonimie_c6", question: "Cuvintele omonime sunt:", options: ["identice în scriere și pronunție, dar cu sensuri diferite", "asemănătoare ca pronunție", "antonime", "sinonime"], correct: 0 },
       ]},
       { id: "derivare_c6", name: "Derivare avansată (prefixe, sufixe)", questions: [
         { type: "mcq", topic: "vocabular_c6", subtopic: "derivare_c6", question: "Din radicalul 'scri' se pot forma cuvinte cum ar fi:", options: ["scrisoare, scriitor, manuscris", "skriu, skream", "scriu, creiu", "scriem, scrieti"], correct: 0 },
@@ -897,6 +900,7 @@ const C6_Generators = {
   subord_atributive_c6: C6P3_Generators.fraza_subord_atributive,
 
   polisemie_c6: C6P4_Generators.vocabular_polisemie,
+  omonimie_c6: C6P4_Generators.vocabular_omonimie,
   derivare_c6: C6P4_Generators.vocabular_derivare,
   locutiuni_c6: C6P4_Generators.vocabular_locutiuni,
   neologisme_c6: C6P4_Generators.vocabular_neologisme,
