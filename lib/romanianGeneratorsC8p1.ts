@@ -1,13 +1,10 @@
 // ─── ROMANIAN GENERATORS (CLASA a VIII-a) — FAZA 1 ─────────────────────────────────────
 // Procedural MCQ question generators for Romanian language curriculum
-// Clasa a VIII-a (8th grade) – Morphology recap, Advanced subordinate clauses
-// Flexible & non-flexible word classes recap, Attributive & predicative subordinates
+// Clasa a VIII-a (8th grade) – Syntax analysis, simple & complex propositions
 //
-// Generates 6 questions per subtopic using seeded PRNG for reproducibility.
+// Generates 30 MCQ + 15 typing questions per subtopic using seeded PRNG.
 
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
-
-// ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
 /** Seeded PRNG (Mulberry32) */
 function mulberry32(seed: number) {
@@ -20,7 +17,6 @@ function mulberry32(seed: number) {
   };
 }
 
-/** Shuffle array using given RNG */
 function shuffle<T>(arr: T[], rng: () => number): T[] {
   const copy = [...arr];
   for (let i = copy.length - 1; i > 0; i--) {
@@ -30,12 +26,10 @@ function shuffle<T>(arr: T[], rng: () => number): T[] {
   return copy;
 }
 
-/** Pick random element from array */
 function pick<T>(arr: T[], rng: () => number): T {
   return arr[Math.floor(rng() * arr.length)];
 }
 
-/** Create MCQ question with shuffled options */
 function createMCQ(
   topic: string,
   subtopic: string,
@@ -63,195 +57,138 @@ function createMCQ(
   };
 }
 
-// ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
-
-const MORFO_FLEXIBILE = [
-  { word: "omul frumos", part: "omul", class: "substantiv", feature: "flexibil (caz, gen, nr)", example: "Om → oameni (plural)" },
-  { word: "cărți roșii", part: "roșii", class: "adjectiv", feature: "flexibil (caz, gen, nr)", example: "roșie → roșii (plural feminin)" },
-  { word: "ei vorbesc", part: "ei", class: "pronume", feature: "flexibil (caz, gen, nr)", example: "el → ei (plural)" },
-  { word: "trei cărți", part: "trei", class: "numeral", feature: "flexibil (gen, nr)", example: "trei → trei (invariabil)" },
-  { word: "merge bine", part: "merge", class: "verb", feature: "flexibil (mod, timp, persoană)", example: "merg → mergea" },
-  { word: "doi băieți", part: "doi", class: "numeral", feature: "flexibil (gen)", example: "doi (m) → două (f)" },
-];
-
-const MORFO_NEFLEXIBILE = [
-  { word: "foarte frumos", part: "foarte", class: "adverb", feature: "invariabil", type: "de modalitate" },
-  { word: "sub masă", part: "sub", class: "prepoziție", feature: "invariabil", type: "de loc/însoțire" },
-  { word: "și eu", part: "și", class: "conjuncție", feature: "invariabil", type: "de coordonare" },
-  { word: "Aaaaa!", part: "Aaaaa!", class: "interjecție", feature: "invariabil", type: "de admirație/mirare" },
-  { word: "în curând", part: "în", class: "prepoziție", feature: "invariabil", type: "de timp" },
-  { word: "dar nu", part: "dar", class: "conjuncție", feature: "invariabil", type: "de coordonare (adversativ)" },
-];
-
-const SUBORD_ATRIBUTIVA = [
-  { sentence: "Cartea care stă pe masă e nouă.", main: "Cartea e nouă", dependent: "care stă pe masă", intro: "care", type: "atributivă" },
-  { sentence: "Omul ce vine acolo e profesorul meu.", main: "Omul e profesorul meu", dependent: "ce vine acolo", intro: "ce", type: "atributivă" },
-  { sentence: "Flori ale cărora culori sunt frumoase pot fi plantate.", main: "Flori pot fi plantate", dependent: "ale cărora culori sunt frumoase", intro: "ale cărora", type: "atributivă" },
-  { sentence: "Copilul cărui jucărie a fost ruptă plânge.", main: "Copilul plânge", dependent: "cărui jucărie a fost ruptă", intro: "cărui", type: "atributivă" },
-  { sentence: "Città pe care am vizitat-o e frumoasă.", main: "Oraș e frumos", dependent: "pe care am vizitat-o", intro: "pe care", type: "atributivă" },
-  { sentence: "Profesorul din care învățam are experiență.", main: "Profesorul are experiență", dependent: "din care învățam", intro: "din care", type: "atributivă" },
-];
-
-const SUBORD_PREDICATIVA = [
-  { sentence: "Se pare că va ploua.", main: "Se pare", dependent: "că va ploua", intro: "că", type: "predicativă" },
-  { sentence: "E probabil că el nu va veni.", main: "E probabil", dependent: "că el nu va veni", intro: "că", type: "predicativă" },
-  { sentence: "Realitatea e că aceasta nu e ușor.", main: "Realitatea e", dependent: "că aceasta nu e ușor", intro: "că", type: "predicativă" },
-  { sentence: "Problema e cum să rezolvez asta.", main: "Problema e", dependent: "cum să rezolvez asta", intro: "cum", type: "predicativă" },
-  { sentence: "Dorința mea e să merg acolo.", main: "Dorința mea e", dependent: "să merg acolo", intro: "să", type: "predicativă" },
-  { sentence: "E clar că trebuie să pleci.", main: "E clar", dependent: "că trebuie să pleci", intro: "că", type: "predicativă" },
-];
-
-const SUBORD_CAUZA_SCOP = [
-  { sentence: "Nu vorbesc pentru că sunt obosit.", part: "pentru că sunt obosit", type: "de cauză", meaning: "motivul acțiunii" },
-  { sentence: "Lucrez ca să câștig bani.", part: "ca să câștig bani", type: "de scop", meaning: "obiectivul acțiunii" },
-  { sentence: "Stim fiindcă am fost acolo.", part: "fiindcă am fost acolo", type: "de cauză", meaning: "motivul cunoșterii" },
-  { sentence: "M-a chemat pentru a-mi spune vești.", part: "pentru a-mi spune vești", type: "de scop", meaning: "intenția chemării" },
-  { sentence: "Sunt trist deci am plorat.", part: "deci am plorat", type: "de consecință", meaning: "rezultatul tristețe" },
-  { sentence: "Intrez ușor în caz ca adormi.", part: "în caz că adormi", type: "de condiție", meaning: "circumstanța dormirii" },
-];
-
-// ─── GENERATORS ────────────────────────────────────────────────────────────
-
-function morfo_flexibile(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const morfo = pick(MORFO_FLEXIBILE, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P1",
-        "morfo_flexibile",
-        `Cuvântul "${morfo.part}" din propoziția "${morfo.word}" aparține clasei "${morfo.class}" și este flexibil. Care e caracteristica de flexibilitate?`,
-        morfo.feature,
-        [
-          "invariabil (nu se schimbă)",
-          pick(MORFO_FLEXIBILE.filter(m => m.class !== morfo.class), rng).feature,
-          "flexibil doar la gen",
-        ],
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
 }
 
-function morfo_neflexibile(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+// ─── DATA ────────────────────────────────────────────────────────────────────
 
-  for (let i = 0; i < 10; i++) {
-    const morfo = pick(MORFO_NEFLEXIBILE, rng);
+const PROPOZITII_SIMPLE = [
+  { prop: "Copilul citește o carte frumoasă.", subj: "Copilul", pred: "citește" },
+  { prop: "Păsările zboară ușor pe cer.", subj: "Păsările", pred: "zboară" },
+  { prop: "Maria joacă în parc.", subj: "Maria", pred: "joacă" },
+  { prop: "Ploaia cade toată noaptea.", subj: "Ploaia", pred: "cade" },
+  { prop: "Soarele rasare în est.", subj: "Soarele", pred: "rasare" },
+];
 
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P1",
-        "morfo_neflexibile",
-        `Cuvântul "${morfo.part}" e o ${morfo.class} neflexibilă (invariabilă). Care e semnificația acestui cuvânt?`,
-        morfo.type,
-        shuffle(
-          [
-            pick(MORFO_NEFLEXIBILE.filter(m => m.class !== morfo.class), rng).type,
-            pick(MORFO_NEFLEXIBILE.filter(m => m.class !== morfo.class), rng).type,
-          ],
-          rng
-        ),
-        rng
-      )
-    );
-  }
+const PROPOZITII_COMPUSE = [
+  { prop: "Merg la cinema și cumpăr bilete.", type: "copulativă" },
+  { prop: "Mănânc măr sau portocală.", type: "disjunctivă" },
+  { prop: "Vorbesc tare, dar nimeni nu-mi răspunde.", type: "adversativă" },
+  { prop: "Vin la petrecere, căci ești prieten meu.", type: "explicativă" },
+];
 
-  return shuffle(questions, rng).slice(0, 6);
-}
+const SUBORDONARE_TYPES = [
+  { type: "subiectivă", desc: "exprimă subiectul" },
+  { type: "completivă directă", desc: "completeaza un verb" },
+  { type: "de loc", desc: "indica un loc" },
+  { type: "de timp", desc: "indica un moment" },
+];
 
-function subord_atributiva(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const subord = pick(SUBORD_ATRIBUTIVA, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P1",
-        "subord_atributiva",
-        `Din propoziția "${subord.sentence}", identifică propoziția subordonată atributivă:`,
-        subord.dependent,
-        [
-          subord.main,
-          `introdusă de "${subord.intro}"`,
-          pick(SUBORD_PREDICATIVA, rng).dependent,
-        ],
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-function subord_predicativa(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const subord = pick(SUBORD_PREDICATIVA, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P1",
-        "subord_predicativa",
-        `Identifică propoziția subordonată predicativă din: "${subord.sentence}"`,
-        subord.dependent,
-        [
-          subord.main,
-          `cu introductorul "${subord.intro}"`,
-          pick(SUBORD_ATRIBUTIVA, rng).dependent,
-        ],
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-function subord_cauza_scop(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const subord = pick(SUBORD_CAUZA_SCOP, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P1",
-        "subord_cauza_scop",
-        `Din "${subord.sentence}", propoziția "${subord.part}" e subordonată circumstanțială de ${subord.type}, cu sensul: "${subord.meaning}"`,
-        subord.type,
-        shuffle(
-          [
-            pick(SUBORD_CAUZA_SCOP.filter(s => s.type !== subord.type), rng).type,
-            pick(SUBORD_CAUZA_SCOP.filter(s => s.type !== subord.type), rng).type,
-          ],
-          rng
-        ),
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-// ─── EXPORT ────────────────────────────────────────────────────────────────
+// ─── GENERATORS ──────────────────────────────────────────────────────────────
 
 export const C8P1_Generators = {
-  morfo_flexibile,
-  morfo_neflexibile,
-  subord_atributiva,
-  subord_predicativa,
-  subord_cauza_scop,
+  sintaxa_propozitie_simpla: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const p = pick(PROPOZITII_SIMPLE, rng);
+      questions.push(createMCQ("Romanian-C8-P1", "sintaxa_propozitie_simpla", `Subiectul din "${p.prop}" este:`, p.subj, [pick(PROPOZITII_SIMPLE, rng).subj, "predicat", "complement"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  sintaxa_propozitie_compusa: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const p = pick(PROPOZITII_COMPUSE, rng);
+      questions.push(createMCQ("Romanian-C8-P1", "sintaxa_propozitie_compusa", `Tipul: "${p.prop}"`, p.type, [pick(PROPOZITII_COMPUSE, rng).type, "subordonată", "simplă"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  subordonare_recapitulare: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const s = pick(SUBORDONARE_TYPES, rng);
+      questions.push(createMCQ("Romanian-C8-P1", "subordonare_recapitulare", `${s.desc}:`, s.type, [pick(SUBORDONARE_TYPES, rng).type, "copulativă", "compusă"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  analiza_sintactica: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const funcs = ["subiect", "predicat", "atribut", "complement"];
+      const f = pick(funcs, rng);
+      questions.push(createMCQ("Romanian-C8-P1", "analiza_sintactica", `Funcția: "${f}"`, f, funcs.filter(x => x !== f), rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  membri_propozitie: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    const members = ["subiect", "predicat", "atribut", "complement", "apoziție", "circumstanțial"];
+    for (let i = 0; i < 30; i++) {
+      const m = pick(members, rng);
+      questions.push(createMCQ("Romanian-C8-P1", "membri_propozitie", `Care este: "${m}"?`, m, members.filter(x => x !== m).slice(0, 3), rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  sintaxa_propozitie_simpla_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const p = pick(PROPOZITII_SIMPLE, rng);
+      questions.push(createTyping("Romanian-C8-P1", "sintaxa_propozitie_simpla", `Subiectul: "${p.prop}"`, p.subj));
+    }
+    return questions;
+  },
+
+  sintaxa_propozitie_compusa_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const p = pick(PROPOZITII_COMPUSE, rng);
+      questions.push(createTyping("Romanian-C8-P1", "sintaxa_propozitie_compusa", `Tipul: "${p.prop}"`, p.type));
+    }
+    return questions;
+  },
+
+  subordonare_recapitulare_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const s = pick(SUBORDONARE_TYPES, rng);
+      questions.push(createTyping("Romanian-C8-P1", "subordonare_recapitulare", `Tipul care ${s.desc}:`, s.type));
+    }
+    return questions;
+  },
+
+  analiza_sintactica_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    const funcs = ["subiect", "predicat", "atribut", "complement"];
+    for (let i = 0; i < 15; i++) {
+      const f = pick(funcs, rng);
+      questions.push(createTyping("Romanian-C8-P1", "analiza_sintactica", `Funcția: "${f}"`, f));
+    }
+    return questions;
+  },
+
+  membri_propozitie_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    const members = ["subiect", "predicat", "atribut", "complement"];
+    for (let i = 0; i < 15; i++) {
+      const m = pick(members, rng);
+      questions.push(createTyping("Romanian-C8-P1", "membri_propozitie", `Membru al propoziției: "${m}"`, m));
+    }
+    return questions;
+  },
 };

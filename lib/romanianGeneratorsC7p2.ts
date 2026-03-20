@@ -63,6 +63,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const VERB_INDICATIV = [
@@ -120,11 +125,12 @@ const VERB_DIATEZE = [
 function verb_indicativ(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const questions: CurriculumMCQ[] = [];
+  const tenses: (keyof typeof VERB_INDICATIV[0])[] = ["present", "past_simple", "imperfect", "pluperfect", "future"];
 
   for (let i = 0; i < 10; i++) {
     const verb = pick(VERB_INDICATIV, rng);
-    const tense = pick(["present", "past_simple", "imperfect", "future"], rng);
-    const form = verb[tense as keyof typeof verb] as string;
+    const tense = pick(tenses, rng);
+    const form = verb[tense] as string;
 
     questions.push(
       createMCQ(
@@ -133,9 +139,9 @@ function verb_indicativ(seed = 42): CurriculumQuestion[] {
         `Care este forma indicativului în timp ${tense} pentru verbul "${verb.verb}"?`,
         form,
         [
-          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense as keyof typeof verb] as string,
-          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense as keyof typeof verb] as string,
-          `s-ar ${verb.verb.slice(2)}`,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
         ],
         rng
       )
@@ -236,20 +242,116 @@ function verb_diateze_c7(seed = 42): CurriculumQuestion[] {
   for (let i = 0; i < 10; i++) {
     const diateza = pick(VERB_DIATEZE, rng);
     const type = pick(["active", "passive", "reflexive"], rng);
+    const typeLabel = type === "active" ? "activă" : type === "passive" ? "pasivă" : "reflexivă";
 
     questions.push(
       createMCQ(
         "Romanian-C7-P2",
         "verb_diateze_c7",
-        `Identifică diateза din propoziția: "${diateza[type as keyof typeof diateza]}"`,
-        type,
-        ["diateza " + pick(["activă", "pasivă", "reflexivă"].filter(d => d !== type), rng), "diateza " + pick(["activă", "pasivă", "reflexivă"].filter(d => d !== type), rng), "mod ipotetic"],
+        `Identifică diateza din propoziția: "${diateza[type as keyof typeof diateza]}"`,
+        typeLabel,
+        [
+          type === "active" ? pick(["pasivă", "reflexivă"], rng) : type === "passive" ? pick(["activă", "reflexivă"], rng) : pick(["activă", "pasivă"], rng),
+          type === "active" ? pick(["pasivă", "reflexivă"], rng) : type === "passive" ? pick(["activă", "reflexivă"], rng) : pick(["activă", "pasivă"], rng),
+          "mod ipotetic"
+        ],
         rng
       )
     );
   }
 
   return shuffle(questions, rng).slice(0, 6);
+}
+
+// ─── TYPING QUESTION GENERATORS ────────────────────────────────────────────
+
+function verb_indicativ_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { infinitive: "a merge", tense: "prezent", form: "merg" },
+    { infinitive: "a vorbi", tense: "prezent", form: "vorbesc" },
+    { infinitive: "a citi", tense: "perfect compus", form: "am citit" },
+    { infinitive: "a dormi", tense: "prezent", form: "dorm" },
+    { infinitive: "a lucra", tense: "perfect compus", form: "am lucrat" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P2", "verb_indicativ", `Conjugarea la ${item.tense} al verbului "${item.infinitive}" pentru persoana I este: ________`, item.form)
+    );
+  }
+  return questions;
+}
+
+function verb_conjunctiv_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { infinitive: "a merge", conjunction: "să merg" },
+    { infinitive: "a vorbi", conjunction: "să vorbesc" },
+    { infinitive: "a citi", conjunction: "să citesc" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P2", "verb_conjunctiv", `Modul conjunctiv al verbului "${item.infinitive}" este: ________`, item.conjunction)
+    );
+  }
+  return questions;
+}
+
+function verb_conditional_imperativ_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { mood: "Conditional", form: "aș merge", infinitive: "a merge" },
+    { mood: "Conditional", form: "ai vorbi", infinitive: "a vorbi" },
+    { mood: "Imperativ", form: "du-te!", infinitive: "a duce" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P2", "verb_conditional_imperativ", `${item.mood} al verbului "${item.infinitive}" este: ________`, item.form)
+    );
+  }
+  return questions;
+}
+
+function verb_moduri_nepers_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { infinitive: "a merge", gerund: "mergând" },
+    { infinitive: "a vorbi", participle: "vorbind (participiu)" },
+    { infinitive: "a citi", supine: "de citit (supin)" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    const form = item.gerund || item.participle || item.supine;
+    questions.push(
+      createTyping("Romanian-C7-P2", "verb_moduri_nepers_c7", `Forma nepersonală a verbului "${item.infinitive}" este: ________`, form ?? "")
+    );
+  }
+  return questions;
+}
+
+function verb_diateze_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { active: "Eu scriu o carte", diatesis: "active voice" },
+    { passive: "Cartea este scrisă de mine", diatesis: "passive voice" },
+    { reflexive: "Eu mă spăl", diatesis: "reflexive voice" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    const sentence = item.active || item.passive || item.reflexive;
+    questions.push(
+      createTyping("Romanian-C7-P2", "verb_diateze_c7", `Diateза a propoziției "${sentence}" este: ________`, item.diatesis)
+    );
+  }
+  return questions;
 }
 
 // ─── EXPORT ────────────────────────────────────────────────────────────────
@@ -260,4 +362,9 @@ export const C7P2_Generators = {
   verb_conditional_imperativ,
   verb_moduri_nepers_c7,
   verb_diateze_c7,
+  verb_indicativ_typing,
+  verb_conjunctiv_typing,
+  verb_conditional_imperativ_typing,
+  verb_moduri_nepers_typing,
+  verb_diateze_typing,
 };

@@ -23,6 +23,13 @@ import { C6P1_Generators } from "./romanianGeneratorsC6p1";
 import { C6P2_Generators } from "./romanianGeneratorsC6p2";
 import { C6P3_Generators } from "./romanianGeneratorsC6p3";
 import { C6P4_Generators } from "./romanianGeneratorsC6p4";
+import { C7P1_Generators } from "./romanianGeneratorsC7p1";
+import { C7P2_Generators } from "./romanianGeneratorsC7p2";
+import { C7P3_Generators } from "./romanianGeneratorsC7p3";
+import { C7P4_Generators } from "./romanianGeneratorsC7p4";
+import { C8P1_Generators } from "./romanianGeneratorsC8p1";
+import { C8P2_Generators } from "./romanianGeneratorsC8p2";
+import { C8P3_Generators } from "./romanianGeneratorsC8p3";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
 
@@ -944,6 +951,124 @@ const C6: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a VII-a (Grade 7) ─────────────────────────────────────────────────
+
+const C7: RomanianTheme[] = [
+  {
+    id: "adjectiv_c7",
+    name: "Adjectivul — Clasificare, grade, funcții",
+    icon: "🎨",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "adjectiv_clasificare", name: "Clasificarea adjectivelor", questions: [] },
+      { id: "adjectiv_grade", name: "Gradele de comparație", questions: [] },
+      { id: "adjectiv_functii", name: "Funcții sintactice", questions: [] },
+    ],
+  },
+  {
+    id: "numeral_c7",
+    name: "Numeralul — Cardinal, ordinal, multiplicativ",
+    icon: "🔢",
+    color: "#FFD700",
+    subtopics: [
+      { id: "numeral_cardinal", name: "Numeralul cardinal", questions: [] },
+      { id: "numeral_ordinal", name: "Numeralul ordinal și multiplicativ", questions: [] },
+    ],
+  },
+  {
+    id: "verb_c7",
+    name: "Verbul — Moduri și diateze",
+    icon: "⚡",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "verb_indicativ", name: "Modul indicativ — timpuri", questions: [] },
+      { id: "verb_conjunctiv", name: "Modul conjunctiv", questions: [] },
+      { id: "verb_conditional_imperativ", name: "Condițional și imperativ", questions: [] },
+      { id: "verb_moduri_nepers_c7", name: "Moduri nepersonale", questions: [] },
+      { id: "verb_diateze_c7", name: "Diatezele verbului", questions: [] },
+    ],
+  },
+  {
+    id: "fraza_subord_c7",
+    name: "Fraza — Propoziții subordonate",
+    icon: "🔗",
+    color: "#10B981",
+    subtopics: [
+      { id: "subord_subiectiva", name: "Propoziția subiectivă", questions: [] },
+      { id: "subord_completiva_directa", name: "Completiva directă", questions: [] },
+      { id: "subord_completiva_indirecta", name: "Completiva indirectă", questions: [] },
+      { id: "subord_loc", name: "Circumstanțiala de loc", questions: [] },
+      { id: "subord_timp", name: "Circumstanțiala de timp", questions: [] },
+      { id: "subord_mod", name: "Circumstanțiala de mod", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c7",
+    name: "Vocabular — Familie lexicală și mijloace",
+    icon: "🔤",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "vocabular_familie_lexicala", name: "Familia lexicală", questions: [] },
+      { id: "vocabular_mijloace", name: "Mijloace de îmbogățire a vocabularului", questions: [] },
+    ],
+  },
+  {
+    id: "text_c7",
+    name: "Textul literar — Roman, lirică, dramă",
+    icon: "📖",
+    color: "#FF9500",
+    subtopics: [
+      { id: "text_roman_nuvela", name: "Romanul și nuvela", questions: [] },
+      { id: "text_liric_c7", name: "Textul liric", questions: [] },
+      { id: "text_dramatic_c7", name: "Textul dramatic", questions: [] },
+    ],
+  },
+];
+
+// ─── CLASA a VIII-a (Grade 8) ────────────────────────────────────────────────
+
+const C8: RomanianTheme[] = [
+  {
+    id: "sintaxa_c8",
+    name: "Sintaxă — Propoziție simplă și compusă",
+    icon: "🏗️",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "sintaxa_propozitie_simpla", name: "Propoziția simplă — analiză", questions: [] },
+      { id: "sintaxa_propozitie_compusa", name: "Propoziția compusă", questions: [] },
+      { id: "subordonare_recapitulare", name: "Subordonare — recapitulare", questions: [] },
+      { id: "analiza_sintactica", name: "Analiză sintactică completă", questions: [] },
+      { id: "membri_propozitie", name: "Membrii propoziției", questions: [] },
+    ],
+  },
+  {
+    id: "morfologie_c8",
+    name: "Morfologie — Recapitulare avansată",
+    icon: "🧬",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "verb_forme_avansate", name: "Verbul — forme avansate", questions: [] },
+      { id: "pronume_cazuri", name: "Pronumele și cazurile", questions: [] },
+      { id: "articol_definit_nedefinit", name: "Articolul definit și nedefinit", questions: [] },
+      { id: "morfologie_recapitulare", name: "Morfologie — recapitulare", questions: [] },
+      { id: "substantiv_gen_numar", name: "Substantivul — gen și număr", questions: [] },
+    ],
+  },
+  {
+    id: "text_literatura_c8",
+    name: "Literatură și stilistică",
+    icon: "📚",
+    color: "#10B981",
+    subtopics: [
+      { id: "figuri_stil", name: "Figuri de stil", questions: [] },
+      { id: "text_literar_genuri", name: "Genuri literare", questions: [] },
+      { id: "comentariu_literar", name: "Comentariul literar", questions: [] },
+      { id: "texturi_nonliterare", name: "Texte nonliterare", questions: [] },
+      { id: "stil_vocabular", name: "Stil și vocabular", questions: [] },
+    ],
+  },
+];
+
 // ─── MAIN EXPORT ──────────────────────────────────────────────────────────────
 
 export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
@@ -953,6 +1078,8 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   4: C4,
   5: C5,
   6: C6,
+  7: C7,
+  8: C8,
 };
 
 // ─── MERGE C6 GENERATORS FROM 4 PHASES ─────────────────────────────────────
@@ -1036,6 +1163,70 @@ const C5_Generators: Record<string, Record<string, (seed?: number) => Curriculum
   ...C5_Verb_Generators,
 };
 
+// ─── MERGE C7 GENERATORS FROM 4 PHASES ──────────────────────────────────────
+const C7_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = {
+  adjectiv_c7: {
+    adjectiv_clasificare: C7P1_Generators.adjectiv_clasificare,
+    adjectiv_grade: C7P1_Generators.adjectiv_grade,
+    adjectiv_functii: C7P1_Generators.adjectiv_functii,
+  },
+  numeral_c7: {
+    numeral_cardinal: C7P1_Generators.numeral_cardinal,
+    numeral_ordinal: C7P1_Generators.numeral_ordinal,
+  },
+  verb_c7: {
+    verb_indicativ: C7P2_Generators.verb_indicativ,
+    verb_conjunctiv: C7P2_Generators.verb_conjunctiv,
+    verb_conditional_imperativ: C7P2_Generators.verb_conditional_imperativ,
+    verb_moduri_nepers_c7: C7P2_Generators.verb_moduri_nepers_c7,
+    verb_diateze_c7: C7P2_Generators.verb_diateze_c7,
+  },
+  fraza_subord_c7: {
+    subord_subiectiva: C7P3_Generators.subord_subiectiva,
+    subord_completiva_directa: C7P3_Generators.subord_completiva_directa,
+    subord_completiva_indirecta: C7P3_Generators.subord_completiva_indirecta,
+    subord_loc: C7P3_Generators.subord_loc,
+    subord_timp: C7P3_Generators.subord_timp,
+    subord_mod: C7P3_Generators.subord_mod,
+  },
+  vocabular_c7: {
+    vocabular_familie_lexicala: C7P4_Generators.vocabular_familie_lexicala,
+    vocabular_mijloace: C7P4_Generators.vocabular_mijloace,
+  },
+  text_c7: {
+    text_roman_nuvela: C7P4_Generators.text_roman_nuvela,
+    text_liric_c7: C7P4_Generators.text_liric_c7,
+    text_dramatic_c7: C7P4_Generators.text_dramatic_c7,
+  },
+};
+
+// ─── MERGE C8 GENERATORS FROM 3 PHASES ──────────────────────────────────────
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const C8_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = ({
+  sintaxa_c8: {
+    sintaxa_propozitie_simpla: C8P1_Generators.sintaxa_propozitie_simpla,
+    sintaxa_propozitie_compusa: C8P1_Generators.sintaxa_propozitie_compusa,
+    subordonare_recapitulare: C8P1_Generators.subordonare_recapitulare,
+    analiza_sintactica: C8P1_Generators.analiza_sintactica,
+    membri_propozitie: C8P1_Generators.membri_propozitie,
+  },
+  morfologie_c8: {
+    verb_forme_avansate: C8P2_Generators.verb_forme_avansate,
+    pronume_cazuri: C8P2_Generators.pronume_cazuri,
+    articol_definit_nedefinit: C8P2_Generators.articol_definit_nedefinit,
+    morfologie_recapitulare: C8P2_Generators.morfologie_recapitulare,
+    substantiv_gen_numar: C8P2_Generators.substantiv_gen_numar,
+  },
+  text_literatura_c8: {
+    figuri_stil: C8P3_Generators.figuri_stil,
+    text_literar_genuri: C8P3_Generators.text_literar_genuri,
+    comentariu_literar: C8P3_Generators.comentariu_literar,
+    texturi_nonliterare: C8P3_Generators.texturi_nonliterare,
+    stil_vocabular: C8P3_Generators.stil_vocabular,
+  },
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+} as any);
+
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
@@ -1043,6 +1234,8 @@ const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number
   4: C4_Generators,
   5: C5_Generators,
   6: C6_Generators,
+  7: C7_Generators,
+  8: C8_Generators,
 };
 
 /** Returns shuffled questions from selected subtopics (max count). */

@@ -63,6 +63,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const ADJECTIVE_TYPES = [
@@ -263,6 +268,106 @@ function numeral_ordinal(seed = 42): CurriculumQuestion[] {
   return shuffle(questions, rng).slice(0, 6);
 }
 
+// ─── TYPING QUESTION GENERATORS ────────────────────────────────────────────
+
+function adjectiv_clasificare_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { sentence: "o casă _________", answer: "frumoasă", hint: "adjectiv propriu-zis (feminin)" },
+    { sentence: "un cer _________", answer: "albastru", hint: "adjectiv propriu-zis (masculin)" },
+    { sentence: "cartea _________ (care aparține mie)", answer: "mea", hint: "adjectiv posesiv" },
+    { sentence: "acel _________ (care este acolo)", answer: "moment", hint: "adjectiv demonstrativ" },
+    { sentence: "_________ copii joacă în parc", answer: "mulți", hint: "adjectiv nehotărât (plural)" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P1", "adjectiv_clasificare", `Completează: ${item.sentence}`, item.answer));
+  }
+  return questions;
+}
+
+function adjectiv_grade_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { positive: "frumos", comparative: "mai frumos", hint: "gradul comparativ" },
+    { positive: "mic", comparative: "mai mic", hint: "gradul comparativ" },
+    { positive: "mare", superlative: "cel mai mare", hint: "gradul superlativ" },
+    { positive: "bun", comparative: "mai bun", hint: "gradul comparativ (bun→mai bun)" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    const isComp = rng() > 0.5;
+    const question = isComp
+      ? `Gradul comparativ al adjectivului "${item.positive}" este: ________`
+      : `Gradul superlativ al adjectivului "${(items.find(x => x.superlative) || items[0]).positive}" este: ________`;
+    const answer = isComp ? item.comparative : (items.find(x => x.superlative) || items[2]).superlative;
+    questions.push(createTyping("Romanian-C7-P1", "adjectiv_grade", question, answer ?? ""));
+  }
+  return questions;
+}
+
+function adjectiv_functii_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { sentence: "un băiat frumos", function: "atribut adjectival" },
+    { sentence: "Ziua este frumoasă", function: "nume predicativ" },
+    { sentence: "Omul bogat și puternic", function: "atribut adjectival" },
+    { sentence: "Rămâi mulțumit", function: "nume predicativ" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P1", "adjectiv_functii", `Funcția adjectivului din "${item.sentence}" este: ________`, item.function)
+    );
+  }
+  return questions;
+}
+
+function numeral_cardinal_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { cardinal: "unu", en_form: "one", Romanian_word: "unu" },
+    { cardinal: "doi", en_form: "two", Romanian_word: "doi" },
+    { cardinal: "trei", en_form: "three", Romanian_word: "trei" },
+    { cardinal: "patru", en_form: "four", Romanian_word: "patru" },
+    { cardinal: "cinci", en_form: "five", Romanian_word: "cinci" },
+    { cardinal: "zece", en_form: "ten", Romanian_word: "zece" },
+    { cardinal: "douăzeci", en_form: "twenty", Romanian_word: "douăzeci" },
+    { cardinal: "o sută", en_form: "one hundred", Romanian_word: "o sută" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P1", "numeral_cardinal", `Numeralul cardinal pentru ${item.en_form} este: ________`, item.cardinal)
+    );
+  }
+  return questions;
+}
+
+function numeral_ordinal_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { cardinal: "unu", ordinal: "primul" },
+    { cardinal: "doi", ordinal: "al doilea" },
+    { cardinal: "trei", ordinal: "al treilea" },
+    { cardinal: "patru", ordinal: "al patrulea" },
+    { cardinal: "cinci", ordinal: "al cincilea" },
+    { cardinal: "zece", ordinal: "al zecelea" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P1", "numeral_ordinal", `Numeralul ordinal pentru ${item.cardinal} este: ________`, item.ordinal)
+    );
+  }
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const C7P1_Generators = {
@@ -271,4 +376,9 @@ export const C7P1_Generators = {
   adjectiv_functii,
   numeral_cardinal,
   numeral_ordinal,
+  adjectiv_clasificare_typing,
+  adjectiv_grade_typing,
+  adjectiv_functii_typing,
+  numeral_cardinal_typing,
+  numeral_ordinal_typing,
 };

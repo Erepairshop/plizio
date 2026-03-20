@@ -63,6 +63,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const SUBORD_SUBIECTIVA = [
@@ -274,6 +279,91 @@ function subord_mod(seed = 42): CurriculumQuestion[] {
   return shuffle(questions, rng).slice(0, 6);
 }
 
+// ─── TYPING QUESTION GENERATORS ────────────────────────────────────────────
+
+function subord_subiectiva_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { intro: "că", example: "Că elevii sunt atenți e important", type: "subject clause" },
+    { intro: "dacă", example: "Rămâne de văzut dacă va reuși", type: "subject clause" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P3", "subord_subiectiva", `Completează introducătorul: "... ${item.intro} ..."`, item.intro));
+  }
+  return questions;
+}
+
+function subord_completiva_directa_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { intro: "că", example: "Spun că trebuie să pleci" },
+    { intro: "cum", example: "Am observat cum lucra el" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P3", "subord_completiva_directa", `Completează: "..., ${item.intro} ..."`, item.intro));
+  }
+  return questions;
+}
+
+function subord_completiva_indirecta_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { intro: "ce", prep: "la", example: "Mă gândesc la ce vei face" },
+    { intro: "cum", prep: "despre", example: "Vorbesc despre cum s-a întâmplat" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P3", "subord_completiva_indirecta", `Completează: "..., ${item.prep} ${item.intro} ..."`, item.intro)
+    );
+  }
+  return questions;
+}
+
+function subord_loc_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [{ intro: "unde", example: "Merg unde doresc" }];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P3", "subord_loc", `Introducătorul pentru propoziția locală: "Merg ... doresc"`, item.intro));
+  }
+  return questions;
+}
+
+function subord_timp_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { intro: "când", example: "Vin când ai nevoie" },
+    { intro: "după ce", example: "După ce am mâncat, am plecat" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P3", "subord_timp", `Introducătorul pentru timp: "Vin ... ai nevoie"`, item.intro));
+  }
+  return questions;
+}
+
+function subord_mod_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { intro: "cum", example: "Fă cum ți se spune" },
+    { intro: "așa cum", example: "Fă așa cum ți se spune" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(createTyping("Romanian-C7-P3", "subord_mod", `Introducătorul pentru mod: "Fă ... ți se spune"`, item.intro));
+  }
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const C7P3_Generators = {
@@ -283,4 +373,10 @@ export const C7P3_Generators = {
   subord_loc,
   subord_timp,
   subord_mod,
+  subord_subiectiva_typing,
+  subord_completiva_directa_typing,
+  subord_completiva_indirecta_typing,
+  subord_loc_typing,
+  subord_timp_typing,
+  subord_mod_typing,
 };
