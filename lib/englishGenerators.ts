@@ -2616,8 +2616,8 @@ export const G3_Generators = {
     abstract_nouns_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const abstractNouns = ["love", "happiness", "courage", "friendship", "freedom", "beauty", "kindness", "honesty", "wisdom", "anger", "fear", "hope", "joy", "patience", "trust"];
-      const concreteNouns = ["table", "dog", "book", "pencil", "flower", "car", "house", "ball", "chair", "tree", "rock", "apple"];
+      const abstractNouns = ["love", "happiness", "courage", "friendship", "freedom", "beauty", "kindness", "honesty", "wisdom", "anger", "fear", "hope", "joy", "patience", "trust", "loyalty", "justice", "peace", "success", "growth", "pride", "sorrow", "excitement", "curiosity", "creativity", "bravery", "gratitude", "determination"];
+      const concreteNouns = ["table", "dog", "book", "pencil", "flower", "car", "house", "ball", "chair", "tree", "rock", "apple", "desk", "phone", "door", "window", "lamp", "cup", "shoe", "hat", "shirt", "key", "bottle", "spoon", "clock", "blanket", "skateboard"];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(3, rng)) {
           const abstract = pick(abstractNouns, rng);
