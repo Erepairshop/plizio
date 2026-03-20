@@ -6,6 +6,12 @@ import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
 import { C3_Generators } from "./romanianGeneratorsC3";
+import { C4_Lec_Generators } from "./romanianGeneratorsC4lec";
+import { C4_Morfo_Generators } from "./romanianGeneratorsC4morfo";
+import { C4_Ort_Generators } from "./romanianGeneratorsC4ort";
+import { C4_Sint_Generators } from "./romanianGeneratorsC4sint";
+import { C4_Text_Generators } from "./romanianGeneratorsC4text";
+import { C4_Voc_Generators } from "./romanianGeneratorsC4voc";
 import { C5_Lec_Generators } from "./romanianGeneratorsC5lec";
 import { C5_Ort_Generators } from "./romanianGeneratorsC5ort";
 import { C5_Sint_Generators } from "./romanianGeneratorsC5sint";
@@ -514,6 +520,87 @@ const C3: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a IV-a (Grade 4) ──────────────────────────────────────────────────
+
+const C4: RomanianTheme[] = [
+  {
+    id: "lectura_c4",
+    name: "Lectură și înțelegere avansată",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "intelegere_text_c4", name: "Înțelegerea textului (explicit vs implicit)", questions: [] },
+      { id: "personaje_c4", name: "Personaje și caracterizare", questions: [] },
+      { id: "tema_mesaj_c4", name: "Tema și mesajul textului", questions: [] },
+      { id: "figuri_stil_c4", name: "Figuri de stil", questions: [] },
+    ],
+  },
+  {
+    id: "morfologie_c4",
+    name: "Morfologie avansată",
+    icon: "🏷️",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "substantiv_c4", name: "Substantivul — gen, caz, număr", questions: [] },
+      { id: "adjectiv_c4", name: "Adjectivul — grade de comparație", questions: [] },
+      { id: "pronume_personal_c4", name: "Pronume personal", questions: [] },
+      { id: "pronume_posesiv_c4", name: "Pronume posesiv", questions: [] },
+      { id: "verb_timpuri_c4", name: "Verbul — timpuri", questions: [] },
+    ],
+  },
+  {
+    id: "ortografie_c4",
+    name: "Ortografie avansată",
+    icon: "📐",
+    color: "#00FF88",
+    subtopics: [
+      { id: "majuscule_c4", name: "Majuscule — substantive proprii și titluri", questions: [] },
+      { id: "cratima_avansata_c4", name: "Cratimă avansată", questions: [] },
+      { id: "punctuatie_c4", name: "Punctuație", questions: [] },
+      { id: "despartire_avansata_c4", name: "Despărțire avansată", questions: [] },
+      { id: "scrierea_corecta_c4", name: "Scrierea corectă a cuvintelor", questions: [] },
+    ],
+  },
+  {
+    id: "sintaxa_c4",
+    name: "Sintaxă — Relații în propoziție",
+    icon: "🔗",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "alte_parti_c4", name: "Alte părți de vorbire (adverb, prepoziție, conjuncție)", questions: [] },
+      { id: "subiect_predicat_c4", name: "Subiectul și predicatul", questions: [] },
+      { id: "atribut_c4", name: "Atributul", questions: [] },
+      { id: "complement_c4", name: "Complementul (direct, indirect, circumstanțial)", questions: [] },
+      { id: "fraza_propozitii_c4", name: "Fraza și propoziția", questions: [] },
+    ],
+  },
+  {
+    id: "text_c4",
+    name: "Textul — Genuri și moduri de expunere",
+    icon: "✍️",
+    color: "#FFD700",
+    subtopics: [
+      { id: "rezumat_c4", name: "Rezumatul", questions: [] },
+      { id: "text_narativ_c4", name: "Textul narativ", questions: [] },
+      { id: "text_argumentativ_c4", name: "Textul argumentativ", questions: [] },
+      { id: "scrisoarea_c4", name: "Scrisoarea", questions: [] },
+      { id: "textul_informativ_c4", name: "Textul informativ", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c4",
+    name: "Vocabular — Relații între cuvinte",
+    icon: "🔤",
+    color: "#FF6B00",
+    subtopics: [
+      { id: "sinonime_antonime_c4", name: "Sinonime și antonime", questions: [] },
+      { id: "campuri_semantice_c4", name: "Câmpuri semantice", questions: [] },
+      { id: "expresii_frazeologice_c4", name: "Expresii frazeologice", questions: [] },
+      { id: "derivare_compunere_c4", name: "Derivare și compunere", questions: [] },
+    ],
+  },
+];
+
 // ─── CLASA a V-a (Grade 5) ──────────────────────────────────────────────────
 
 const C5: RomanianTheme[] = [
@@ -770,6 +857,7 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
   3: C3,
+  4: C4,
   5: C5,
   6: C6,
 };
@@ -819,6 +907,34 @@ const C6_Generators = {
   texte_nonliterare_c6: C6P4_Generators.text_lectura_nonliterare,
 };
 
+// ─── MERGE C4 GENERATORS FROM 6 MODULES ────────────────────────────────────
+const C4_Generators = {
+  ...Object.keys(C4_Lec_Generators.lectura_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Lec_Generators as any).lectura_c4[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C4_Morfo_Generators.morfologie_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Morfo_Generators as any).morfologie_c4[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C4_Ort_Generators.ortografie_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Ort_Generators as any).ortografie_c4[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C4_Sint_Generators.sintaxa_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Sint_Generators as any).sintaxa_c4[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C4_Text_Generators.text_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Text_Generators as any).text_c4[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C4_Voc_Generators.vocabular_c4 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C4_Voc_Generators as any).vocabular_c4[key];
+    return acc;
+  }, {}),
+};
+
 // ─── MERGE C5 GENERATORS FROM 5 MODULES ────────────────────────────────────
 const C5_Generators = {
   ...Object.keys(C5_Lec_Generators.lectura_c5 ?? {}).reduce((acc: any, key: string) => {
@@ -848,6 +964,7 @@ const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
+  4: C4_Generators,
   5: C5_Generators,
   6: C6_Generators,
 };
