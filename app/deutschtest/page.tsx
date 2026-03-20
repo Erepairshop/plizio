@@ -1529,7 +1529,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
             {/* Themes + Subtopics */}
             <div className="relative z-10 flex flex-col gap-2.5">
               {themes.map((theme) => {
-                const availSubs = theme.subtopics.filter((s) => s.questions.length > 0);
+                const availSubs = theme.subtopics.filter((s) => s.questions.length > 0 || (s as any).hasGenerator);
                 const allSel = availSubs.length > 0 && availSubs.every((s) => selectedIds.includes(s.id));
                 const toggleAll = () => {
                   if (allSel) {
