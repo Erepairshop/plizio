@@ -376,8 +376,10 @@ export const G1_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const nouns = ["dog", "cat", "ball", "tree", "house", "book", "girl", "boy", "car", "bird",
-        "school", "park", "mom", "dad", "baby", "fish", "milk", "chair", "table", "bed"];
-      const notNouns = ["run", "big", "fast", "happy", "jump", "slowly", "under", "and", "very", "the"];
+        "school", "park", "mom", "dad", "baby", "fish", "milk", "chair", "table", "bed",
+        "pen", "apple", "shoe", "desk", "window", "flower", "sun", "star", "water", "hand"];
+      const notNouns = ["run", "big", "fast", "happy", "jump", "slowly", "under", "and", "very", "the",
+        "walk", "quickly", "above", "or", "also", "slow", "hot", "cold", "new", "good"];
       for (let i = 0; i < 30; i++) {
         const noun = pick(nouns, rng);
         const wrong = shuffle(notNouns, rng).slice(0, 3);
@@ -499,9 +501,11 @@ export const G1_Generators = {
       const adjectives = ["big", "happy", "fast", "soft", "cold", "hot", "small", "loud", "quiet", "sweet",
         "sour", "sharp", "dull", "long", "short", "tall", "wide", "narrow", "heavy", "light",
         "bright", "dark", "clean", "dirty", "new", "old", "beautiful", "ugly", "delicious", "yummy",
-        "tasty", "bitter", "funny", "sad", "blue", "red", "green", "yellow", "pink", "orange"];
+        "tasty", "bitter", "funny", "sad", "blue", "red", "green", "yellow", "pink", "orange",
+        "gentle", "rough", "smooth", "rough", "small", "strong", "weak", "brave", "lazy", "busy"];
       const notAdjectives = ["dog", "run", "jump", "ball", "cat", "eat", "walk", "play", "book", "swim",
-        "sit", "stand", "rock", "fire", "mouse", "sound", "room", "talk", "snowman", "house"];
+        "sit", "stand", "rock", "fire", "mouse", "sound", "room", "talk", "snowman", "house",
+        "sleep", "dance", "read", "sing", "skip", "hop", "paint", "climb", "ride", "build"];
       for (let i = 0; i < 35; i++) {
         const adj = pick(adjectives, rng);
         const wrong = shuffle(notAdjectives, rng).slice(0, 3);
@@ -520,6 +524,8 @@ export const G1_Generators = {
         { color: "yellow", thing: "sun" }, { color: "orange", thing: "orange" }, { color: "purple", thing: "grape" },
         { color: "pink", thing: "pig" }, { color: "brown", thing: "tree trunk" }, { color: "white", thing: "snow" },
         { color: "black", thing: "night" }, { color: "gray", thing: "cloud" }, { color: "gold", thing: "coin" },
+        { color: "red", thing: "tomato" }, { color: "blue", thing: "ocean" }, { color: "green", thing: "leaf" },
+        { color: "yellow", thing: "banana" }, { color: "purple", thing: "plum" }, { color: "pink", thing: "flamingo" },
       ];
       const allColors = colorItems.map(c => c.color);
       for (let i = 0; i < 20; i++) {
@@ -631,8 +637,10 @@ export const G1_Generators = {
     animals_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const animals = ["dog", "cat", "bird", "fish", "elephant", "lion", "monkey", "bear", "tiger", "zebra", "giraffe", "horse"];
-      const otherWords = ["house", "tree", "car", "book", "ball", "cup", "pen", "desk", "chair", "wall", "door", "window"];
+      const animals = ["dog", "cat", "bird", "fish", "elephant", "lion", "monkey", "bear", "tiger", "zebra", "giraffe", "horse",
+        "rabbit", "whale", "penguin", "panda", "deer", "fox", "owl", "frog"];
+      const otherWords = ["house", "tree", "car", "book", "ball", "cup", "pen", "desk", "chair", "wall", "door", "window",
+        "table", "flower", "cloud", "star", "water", "fire", "rock", "sand"];
       for (let i = 0; i < 20; i++) {
         const animal = pick(animals, rng);
         const wrong = shuffle(otherWords, rng).slice(0, 3);
@@ -772,6 +780,12 @@ export const G1_Generators = {
         { clue: "Sweet food bees make", answer: "honey" },
         { clue: "Crunchy food made from wheat", answer: "bread" },
         { clue: "Orange vegetable rabbits eat", answer: "carrot" },
+        { clue: "A green fruit with a pit", answer: "avocado" },
+        { clue: "Yellow curved tropical fruit", answer: "plantain" },
+        { clue: "Small red berries", answer: "strawberry" },
+        { clue: "Purple grape-like berry", answer: "blueberry" },
+        { clue: "Crunchy orange root vegetable", answer: "carrot" },
+        { clue: "Green leafy salad vegetable", answer: "spinach" },
       ];
       const wrongWords = ["chair", "house", "book", "car", "desk", "window", "door", "wall", "floor", "tree"];
       for (let i = 0; i < 20; i++) {
@@ -1345,6 +1359,9 @@ export const G2_Generators = {
         { noun: "litter", context: "A ___ of kittens played on the rug.", singular: "kittens" },
         { noun: "bunch", context: "A ___ of grapes hung from the vine.", singular: "grapes" },
         { noun: "pride", context: "A ___ of lions rested in the shade.", singular: "lions" },
+        { noun: "gaggle", context: "A ___ of geese flew south for winter.", singular: "geese" },
+        { noun: "pod", context: "A ___ of dolphins swam in the ocean.", singular: "dolphins" },
+        { noun: "army", context: "A ___ of ants marched across the ground.", singular: "ants" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(2, rng)) {
@@ -1756,18 +1773,18 @@ export const G2_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const longVowels: [string, string][] = [
-        ["a", "cake"], ["a", "lake"], ["a", "make"], ["a", "take"],
-        ["e", "feet"], ["e", "meet"], ["e", "need"], ["e", "keep"],
-        ["i", "bike"], ["i", "kite"], ["i", "five"], ["i", "mine"],
-        ["o", "home"], ["o", "bone"], ["o", "rope"], ["o", "nose"],
-        ["u", "cute"], ["u", "blue"], ["u", "tube"], ["u", "mule"],
+        ["a", "cake"], ["a", "lake"], ["a", "make"], ["a", "take"], ["a", "gate"], ["a", "name"],
+        ["e", "feet"], ["e", "meet"], ["e", "need"], ["e", "keep"], ["e", "see"], ["e", "tree"],
+        ["i", "bike"], ["i", "kite"], ["i", "five"], ["i", "mine"], ["i", "time"], ["i", "nice"],
+        ["o", "home"], ["o", "bone"], ["o", "rope"], ["o", "nose"], ["o", "code"], ["o", "rose"],
+        ["u", "cute"], ["u", "blue"], ["u", "tube"], ["u", "mule"], ["u", "huge"], ["u", "rule"],
       ];
       const shortVowels: [string, string][] = [
-        ["a", "cat"], ["a", "hat"], ["a", "bat"], ["a", "man"],
-        ["e", "pet"], ["e", "bed"], ["e", "red"], ["e", "wet"],
-        ["i", "sit"], ["i", "pig"], ["i", "bin"], ["i", "big"],
-        ["o", "dog"], ["o", "log"], ["o", "top"], ["o", "hot"],
-        ["u", "cup"], ["u", "sun"], ["u", "fun"], ["u", "bus"],
+        ["a", "cat"], ["a", "hat"], ["a", "bat"], ["a", "man"], ["a", "bag"], ["a", "map"],
+        ["e", "pet"], ["e", "bed"], ["e", "red"], ["e", "wet"], ["e", "egg"], ["e", "leg"],
+        ["i", "sit"], ["i", "pig"], ["i", "bin"], ["i", "big"], ["i", "fit"], ["i", "win"],
+        ["o", "dog"], ["o", "log"], ["o", "top"], ["o", "hot"], ["o", "pot"], ["o", "box"],
+        ["u", "cup"], ["u", "sun"], ["u", "fun"], ["u", "bus"], ["u", "hut"], ["u", "run"],
       ];
       for (let i = 0; i < 30; i++) {
         const isLong = rng() > 0.5;
@@ -1791,12 +1808,12 @@ export const G2_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const teamData = [
-        { team: "ai", words: ["rain", "main", "pain", "wait", "tail", "mail", "sail", "train"] },
-        { team: "ea", words: ["beat", "meat", "seat", "read", "team", "clean", "dream", "stream"] },
-        { team: "oa", words: ["boat", "coat", "goat", "road", "load", "soap", "toast", "float"] },
-        { team: "oo", words: ["moon", "food", "cool", "pool", "room", "tool", "school", "spoon"] },
-        { team: "ee", words: ["tree", "free", "deep", "keep", "sleep", "feet", "need", "seed"] },
-        { team: "ou", words: ["out", "loud", "cloud", "house", "mouse", "found", "round", "sound"] },
+        { team: "ai", words: ["rain", "main", "pain", "wait", "tail", "mail", "sail", "train", "brain", "gain"] },
+        { team: "ea", words: ["beat", "meat", "seat", "read", "team", "clean", "dream", "stream", "bean", "mean"] },
+        { team: "oa", words: ["boat", "coat", "goat", "road", "load", "soap", "toast", "float", "cloak", "groan"] },
+        { team: "oo", words: ["moon", "food", "cool", "pool", "room", "tool", "school", "spoon", "book", "look"] },
+        { team: "ee", words: ["tree", "free", "deep", "keep", "sleep", "feet", "need", "seed", "week", "seek"] },
+        { team: "ou", words: ["out", "loud", "cloud", "house", "mouse", "found", "round", "sound", "about", "count"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(teamData, rng);
@@ -1957,6 +1974,11 @@ export const G2_Generators = {
         { sentence: "The enormous elephant towered over all the other animals.", word: "enormous", answer: "very large", wrong: ["very small", "very fast", "very light"] },
         { sentence: "She was famished after not eating all day.", word: "famished", answer: "very hungry", wrong: ["very tired", "very happy", "very cold"] },
         { sentence: "The gloomy sky was dark and gray before the storm.", word: "gloomy", answer: "dark and sad", wrong: ["bright and sunny", "warm", "colorful"] },
+        { sentence: "The fragile glass broke when it fell on the floor.", word: "fragile", answer: "breaks easily", wrong: ["unbreakable", "heavy", "clear"] },
+        { sentence: "His modest house was small but cozy.", word: "modest", answer: "not large or fancy", wrong: ["huge", "expensive", "empty"] },
+        { sentence: "The vivid colors in the painting were very bright and striking.", word: "vivid", answer: "bright and clear", wrong: ["dull", "dark", "plain"] },
+        { sentence: "She had a grave expression on her face during the serious meeting.", word: "grave", answer: "serious and solemn", wrong: ["happy", "excited", "confused"] },
+        { sentence: "The stale bread had been sitting on the counter for days.", word: "stale", answer: "old and not fresh", wrong: ["new", "fresh", "soft"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceData, rng);
@@ -1982,6 +2004,10 @@ export const G2_Generators = {
         { word: "light", def1: "not heavy", def2: "brightness from the sun or a lamp" },
         { word: "bark", def1: "the outer cover of a tree", def2: "the sound a dog makes" },
         { word: "play", def1: "to have fun doing an activity", def2: "a show performed on a stage" },
+        { word: "spring", def1: "the season after winter", def2: "a coil of metal that bounces" },
+        { word: "letter", def1: "a written message", def2: "a symbol in the alphabet" },
+        { word: "date", def1: "a day on the calendar", def2: "time spent together" },
+        { word: "file", def1: "a tool for smoothing", def2: "documents or records" },
       ];
       const abcOrderData = [
         { words: ["apple", "banana", "cherry"], first: "apple", question: "Which word comes FIRST in the dictionary?" },
@@ -1989,6 +2015,10 @@ export const G2_Generators = {
         { words: ["zoo", "yard", "xray"], first: "xray", question: "Which word comes FIRST in the dictionary?" },
         { words: ["milk", "money", "map"], first: "map", question: "Which word comes FIRST in the dictionary?" },
         { words: ["sun", "star", "sky"], first: "sky", question: "Which word comes FIRST in the dictionary?" },
+        { words: ["lion", "lamp", "leaf"], first: "lamp", question: "Which word comes FIRST in the dictionary?" },
+        { words: ["jump", "jelly", "jet"], first: "jelly", question: "Which word comes FIRST in the dictionary?" },
+        { words: ["turtle", "time", "tiger"], first: "tiger", question: "Which word comes FIRST in the dictionary?" },
+        { words: ["pen", "pig", "park"], first: "park", question: "Which word comes FIRST in the dictionary?" },
       ];
       for (let i = 0; i < 30; i++) {
         const qType = rng();
@@ -2038,8 +2068,10 @@ export const G2_Generators = {
         { word: "play", rhymes: ["day", "way", "say", "ray", "pay", "lay", "bay", "may", "stay"] },
         { word: "blue", rhymes: ["true", "glue", "new", "flew", "grew", "knew", "shoe", "two"] },
         { word: "light", rhymes: ["night", "might", "fight", "right", "sight", "bright", "flight", "tight"] },
-        { word: "moon", rhymes: ["soon", "spoon", "noon", "June", "balloon", "cartoon", "tune", "June"] },
+        { word: "moon", rhymes: ["soon", "spoon", "noon", "June", "balloon", "cartoon", "tune"] },
         { word: "hand", rhymes: ["sand", "land", "band", "stand", "grand", "brand", "strand"] },
+        { word: "rain", rhymes: ["brain", "train", "main", "pain", "gain", "chain"] },
+        { word: "bear", rhymes: ["care", "share", "fair", "hair", "pair", "square"] },
       ];
       for (let i = 0; i < 20; i++) {
         const data = pick(rhymeData, rng);
@@ -3303,6 +3335,7 @@ export const G3_Generators = {
         { category: "colors", words: ["red", "blue", "green", "yellow", "purple"], oddOne: "happy" },
         { category: "weather", words: ["rain", "snow", "wind", "sunshine", "hail"], oddOne: "pencil" },
         { category: "school supplies", words: ["pencil", "eraser", "ruler", "notebook", "crayon"], oddOne: "banana" },
+        { category: "sports", words: ["soccer", "basketball", "baseball", "tennis", "swimming"], oddOne: "cake" },
       ];
       const synonymData = [
         { word: "big", synonym: "large", antonym: "small" },
@@ -3311,6 +3344,8 @@ export const G3_Generators = {
         { word: "brave", synonym: "courageous", antonym: "cowardly" },
         { word: "old", synonym: "ancient", antonym: "new" },
         { word: "start", synonym: "begin", antonym: "finish" },
+        { word: "hot", synonym: "warm", antonym: "cold" },
+        { word: "beautiful", synonym: "pretty", antonym: "ugly" },
       ];
       for (let i = 0; i < 30; i++) {
         if (rng() > 0.5) {
@@ -4117,6 +4152,10 @@ export const G4_Generators = {
         { correct: "We celebrate Thanksgiving in November.", wrong: "we celebrate thanksgiving in november.", rule: "holidays" },
         { correct: "She speaks English and Spanish fluently.", wrong: "she speaks english and spanish fluently.", rule: "languages" },
         { correct: "President Lincoln was a great leader.", wrong: "president lincoln was a great leader.", rule: "titles before names" },
+        { correct: "Paris is the capital of France.", wrong: "paris is the capital of france.", rule: "city and country names" },
+        { correct: "I live on Maple Street in Boston.", wrong: "i live on maple street in boston.", rule: "streets and cities" },
+        { correct: "My birthday is in December.", wrong: "my birthday is in december.", rule: "months" },
+        { correct: "We went to the Statue of Liberty.", wrong: "we went to the statue of liberty.", rule: "famous landmarks" },
       ];
       for (let i = 0; i < 30; i++) {
         const sent = pick(sentenceData, rng);
@@ -4142,6 +4181,10 @@ export const G4_Generators = {
         { correct: "We can play inside, or we can go outside.", wrong: ["We can play inside or we can go outside.", "We can play inside or, we can go outside.", "We, can play inside or we can go outside."] },
         { correct: "It rained all day, and the river flooded.", wrong: ["It rained all day and the river flooded.", "It rained all day and, the river flooded.", "It rained, all day and the river flooded."] },
         { correct: "I was tired, for I had worked all day.", wrong: ["I was tired for I had worked all day.", "I was tired for, I had worked all day.", "I was, tired for I had worked all day."] },
+        { correct: "The weather was nice, so we went for a walk.", wrong: ["The weather was nice so we went for a walk.", "The weather was nice so, we went for a walk.", "The weather, was nice so we went for a walk."] },
+        { correct: "She loves cookies, and she loves cake.", wrong: ["She loves cookies and she loves cake.", "She loves cookies and, she loves cake.", "She, loves cookies and she loves cake."] },
+        { correct: "He wanted to come, but he was busy.", wrong: ["He wanted to come but he was busy.", "He wanted to come but, he was busy.", "He, wanted to come but he was busy."] },
+        { correct: "I could stay, yet I must go home.", wrong: ["I could stay yet I must go home.", "I could stay yet, I must go home.", "I, could stay yet I must go home."] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
@@ -4175,6 +4218,12 @@ export const G4_Generators = {
         { correct: "beautiful", wrong: ["beautful", "beutiful", "beautyful"] },
         { correct: "important", wrong: ["importent", "importint", "importnt"] },
         { correct: "government", wrong: ["goverment", "govermnent", "governmant"] },
+        { correct: "friend", wrong: ["frend", "freind", "frand"] },
+        { correct: "height", wrong: ["hieght", "heigt", "hight"] },
+        { correct: "interest", wrong: ["intrest", "intreset", "interes"] },
+        { correct: "patience", wrong: ["patiance", "patience", "patiense"] },
+        { correct: "rhythm", wrong: ["rythm", "rhythem", "rithem"] },
+        { correct: "achieve", wrong: ["acheive", "achive", "aceve"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(spellingData, rng);
@@ -5024,6 +5073,12 @@ export const G5_Generators = {
         { conj: "after", sentence: "___ the movie ended, we went home.", type: "subordinating" },
         { conj: "before", sentence: "Wash your hands ___ you eat.", type: "subordinating" },
         { conj: "when", sentence: "Call me ___ you arrive.", type: "subordinating" },
+        { conj: "once", sentence: "___ you finish eating, we can leave.", type: "subordinating" },
+        { conj: "whereas", sentence: "___ cats are independent, dogs are loyal.", type: "subordinating" },
+        { conj: "provided", sentence: "You can borrow my bike ___ you return it by noon.", type: "subordinating" },
+        { conj: "supposing", sentence: "___ it rains tomorrow, will you still come?", type: "subordinating" },
+        { conj: "as", sentence: "___ you know, I'm interested in science.", type: "subordinating" },
+        { conj: "wherever", sentence: "___ you go, I will follow.", type: "subordinating" },
       ];
       const coordConj = ["and", "but", "or", "so", "yet", "for", "nor"];
       for (let i = 0; i < 30; i++) {
@@ -5072,6 +5127,12 @@ export const G5_Generators = {
         { word: "Hurrah", emotion: "excitement", sentence: "___! School is out for summer!", wrong: ["Run", "Blue", "Under"] },
         { word: "Phew", emotion: "relief", sentence: "___! That was a close call.", wrong: ["Fast", "Because", "Green"] },
         { word: "Shh", emotion: "quieting", sentence: "___! The baby is sleeping.", wrong: ["Loud", "Run", "Big"] },
+        { word: "Ouch", emotion: "shock", sentence: "___! I can't believe it!", wrong: ["Go", "Really", "Maybe"] },
+        { word: "Hey", emotion: "attention", sentence: "___! Over here!", wrong: ["Stop", "Look", "Good"] },
+        { word: "Gosh", emotion: "wonder", sentence: "___! That's amazing!", wrong: ["No", "But", "Yet"] },
+        { word: "Hmm", emotion: "thinking", sentence: "___! Let me consider that.", wrong: ["Yes", "See", "Go"] },
+        { word: "Ouch", emotion: "regret", sentence: "___! I shouldn't have done that.", wrong: ["Oh", "Yes", "Sure"] },
+        { word: "Wow", emotion: "admiration", sentence: "___! What a beautiful view!", wrong: ["Run", "No", "Stop"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(interjData, rng);
@@ -8212,6 +8273,14 @@ export const G7_Generators = {
         { misplaced: "The boy only ate three cookies.", corrected: "The boy ate only three cookies.", issue: "misplaced modifier" },
         { misplaced: "Barking loudly, the mailman was scared by the dog.", corrected: "Barking loudly, the dog scared the mailman.", issue: "dangling modifier" },
         { misplaced: "She just wanted to finish one chapter.", corrected: "She wanted to finish just one chapter.", issue: "misplaced modifier" },
+        { misplaced: "I only have time for one task.", corrected: "I have time for only one task.", issue: "misplaced modifier" },
+        { misplaced: "Tired after the game, the trophy was heavy to carry.", corrected: "Tired after the game, the players found the trophy heavy to carry.", issue: "dangling modifier" },
+        { misplaced: "She completely finished all her work.", corrected: "She finished all her work completely.", issue: "misplaced modifier" },
+        { misplaced: "Dancing in the rain, the street became slippery.", corrected: "Dancing in the rain, they found the street slippery.", issue: "dangling modifier" },
+        { misplaced: "He barely could see the board.", corrected: "He could barely see the board.", issue: "misplaced modifier" },
+        { misplaced: "Having studied all night, the exam seemed easy.", corrected: "Having studied all night, she found the exam easy.", issue: "dangling modifier" },
+        { misplaced: "The team only won by one point.", corrected: "The team won by only one point.", issue: "misplaced modifier" },
+        { misplaced: "Waiting for the bus, the rain started.", corrected: "While waiting for the bus, she noticed the rain starting.", issue: "dangling modifier" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8246,6 +8315,12 @@ export const G7_Generators = {
         { incorrect: "She wrote the letter, and then it was mailed by her.", correct: "She wrote the letter and then mailed it.", error: "voice shift (active to passive)" },
         { incorrect: "The team practiced daily and wins the championship.", correct: "The team practiced daily and won the championship.", error: "tense shift (past to present)" },
         { incorrect: "First, mix the ingredients, and then you should bake it.", correct: "First, mix the ingredients, and then bake it.", error: "mood shift (imperative to indicative)" },
+        { incorrect: "He walks to school and takes the bus home.", correct: "He walks to school and takes the bus home.", error: "tense consistency (correct)" },
+        { incorrect: "The author wrote the story, and the publisher prints it.", correct: "The author wrote the story, and the publisher printed it.", error: "tense shift (past to present)" },
+        { incorrect: "The house was painted by the workers and they added shutters.", correct: "The workers painted the house and added shutters.", error: "voice shift (passive to active)" },
+        { incorrect: "Please clean your room, and you must make your bed.", correct: "Please clean your room and make your bed.", error: "mood shift (imperative to indicative)" },
+        { incorrect: "She had finished her homework and watches TV.", correct: "She had finished her homework and watched TV.", error: "tense shift (past perfect to present)" },
+        { incorrect: "They will arrive tomorrow, and they are excited.", correct: "They will arrive tomorrow, and they will be excited.", error: "tense shift (future to present)" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8280,6 +8355,10 @@ export const G7_Generators = {
         { correct: "The student, having finished her work, left early.", wrong: ["The student having finished her work left early.", "The student, having finished her work left early.", "The student having finished, her work, left early."] },
         { correct: "Mr. Johnson, our neighbor, is very friendly.", wrong: ["Mr. Johnson our neighbor is very friendly.", "Mr. Johnson, our neighbor is very friendly.", "Mr. Johnson our neighbor, is very friendly."] },
         { correct: "After the long hike, we were exhausted.", wrong: ["After the long hike we were exhausted.", "After, the long hike we were exhausted.", "After the long hike, we were, exhausted."] },
+        { correct: "The teacher, Ms. Chen, praised our work.", wrong: ["The teacher Ms. Chen praised our work.", "The teacher, Ms. Chen praised our work.", "The teacher Ms. Chen, praised our work."] },
+        { correct: "Walking slowly, he enjoyed the scenery.", wrong: ["Walking slowly he enjoyed the scenery.", "Walking, slowly he enjoyed the scenery.", "Walking slowly, he enjoyed, the scenery."] },
+        { correct: "Sarah, my best friend, is visiting next week.", wrong: ["Sarah my best friend is visiting next week.", "Sarah, my best friend is visiting next week.", "Sarah my best friend, is visiting next week."] },
+        { correct: "Before the meeting, everyone arrived early.", wrong: ["Before the meeting everyone arrived early.", "Before, the meeting everyone arrived early.", "Before the meeting, everyone arrived, early."] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
@@ -8297,6 +8376,11 @@ export const G7_Generators = {
         { correct: "I love two sports: soccer and basketball.", rule: "colon introducing items", wrong: ["I love two sports; soccer and basketball.", "I love: two sports soccer and basketball.", "I love two sports, soccer and basketball."] },
         { correct: "The weather was terrible; however, we still went outside.", rule: "semicolon before conjunctive adverb", wrong: ["The weather was terrible, however, we still went outside.", "The weather was terrible: however, we still went outside.", "The weather was terrible; however we still went outside."] },
         { correct: "He had one goal: to graduate with honors.", rule: "colon before explanation", wrong: ["He had one goal; to graduate with honors.", "He had one goal, to graduate with honors.", "He had one goal to: graduate with honors."] },
+        { correct: "She wanted to travel; he preferred to stay home.", rule: "semicolon between independent clauses", wrong: ["She wanted to travel: he preferred to stay home.", "She wanted to travel, he preferred to stay home.", "She wanted to travel. He; preferred to stay home."] },
+        { correct: "Three qualities matter most: honesty, kindness, and courage.", rule: "colon introducing list", wrong: ["Three qualities matter most; honesty, kindness, and courage.", "Three qualities matter most honesty, kindness, and courage.", "Three qualities: matter most honesty, kindness, and courage."] },
+        { correct: "The plants need care; therefore, water them daily.", rule: "semicolon before conjunctive adverb", wrong: ["The plants need care, therefore, water them daily.", "The plants need care: therefore, water them daily.", "The plants need care; therefore water them daily."] },
+        { correct: "There is one reason: she forgot her keys.", rule: "colon before explanation", wrong: ["There is one reason; she forgot her keys.", "There is one reason, she forgot her keys.", "There is one reason she: forgot her keys."] },
+        { correct: "We worked hard; we achieved our goal.", rule: "semicolon between independent clauses", wrong: ["We worked hard: we achieved our goal.", "We worked hard, we achieved our goal.", "We worked hard. We; achieved our goal."] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8322,6 +8406,13 @@ export const G7_Generators = {
         { correct: "a state-of-the-art facility", wrong: "a state of the art facility", rule: "hyphens in compound modifier" },
         { correct: "He is a self-taught musician.", wrong: "He is a self taught musician.", rule: "hyphen with self- prefix" },
         { correct: "The president—once a teacher—gave a speech.", wrong: "The president, once a teacher, gave a speech.", rule: "em dashes for stronger parenthetical" },
+        { correct: "a high-quality product", wrong: "a high quality product", rule: "hyphen in compound adjective before noun" },
+        { correct: "This is an up-to-date report—the latest version.", wrong: "This is an up to date report - the latest version.", rule: "hyphens in compound and em dashes" },
+        { correct: "My thirty-year-old brother lives here.", wrong: "My thirty year old brother lives here.", rule: "hyphens in compound ages" },
+        { correct: "The goal—success—was within reach.", wrong: "The goal - success - was within reach.", rule: "em dashes for emphasis or apposition" },
+        { correct: "a brand-new idea", wrong: "a brand new idea", rule: "hyphen in compound adjective before noun" },
+        { correct: "The ex-president—now retired—wrote a book.", wrong: "The ex-president, now retired, wrote a book.", rule: "em dashes for parenthetical info" },
+        { correct: "a two-word phrase", wrong: "a two word phrase", rule: "hyphen in compound number-word" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
