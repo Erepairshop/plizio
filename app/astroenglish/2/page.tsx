@@ -26,12 +26,13 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
-  K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
-  loadK2Progress, saveK2Progress, type EnglishProgress,
-  isMissionDone, isIslandDone, isIslandUnlocked,
-  isCheckpointUnlocked, isCheckpointDone,
-  completeMission, completeTest, islandTotalStars,
-  generateEnglishIslandQuestions, generateEnglishCheckpointQuestions,
+  K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS,
+  type IslandDef, type MissionDef, type Lang, type MissionCategory, type EnglishProgress,
+  loadK2Progress, saveK2Progress,
+  isMissionDoneK2, isIslandDoneK2, isIslandUnlockedK2,
+  isCheckpointUnlockedK2, isCheckpointDoneK2,
+  completeMissionK2, completeTestK2, islandTotalStarsK2,
+  generateIslandQuestionsK2, generateCheckpointQuestionsK2,
 } from "@/lib/astroEnglish2";
 import { K2_ISLAND_SVGS } from "@/app/astroenglish/islands-k2";
 
@@ -167,8 +168,8 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {Object.entries(CP_POS).map(([testId, pos]) => {
-        const unlocked = isCheckpointUnlocked(progress, testId, K2_CHECKPOINT_MAP);
-        const done = isCheckpointDone(progress, testId);
+        const unlocked = isCheckpointUnlockedK2(progress, testId);
+        const done = isCheckpointDoneK2(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
@@ -191,9 +192,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {K2_ISLANDS.map((island, idx) => {
-        const unlocked = isIslandUnlocked(progress, island.id, K2_ISLANDS);
-        const done = isIslandDone(progress, island.id);
-        const total = islandTotalStars(progress, island.id);
+        const unlocked = isIslandUnlockedK2(progress, island.id);
+        const done = isIslandDoneK2(progress, island.id);
+        const total = islandTotalStarsK2(progress, island.id);
 
         return (
           <g key={island.id} onClick={() => unlocked && onIsland(island)}
@@ -240,7 +241,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && !done && (
               <g>
                 {island.missions.map((m, mi) => {
-                  const mdone = isMissionDone(progress, island.id, m.id);
+                  const mdone = isMissionDoneK2(progress, island.id, m.id);
                   return (
                     <g key={mi}>
                       <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
@@ -435,7 +436,7 @@ export default function AstroEnglishK2Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
     const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateEnglishIslandQuestions(activeIsland, 2, qCount);
+    const qs = generateIslandQuestionsK2(activeIsland, lang, qCount);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
   }, [activeIsland]);
@@ -449,7 +450,7 @@ export default function AstroEnglishK2Page() {
     const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
 
     const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
-    const newProgress = completeMission(progress, activeIsland.id, activeMission.id, stars);
+    const newProgress = completeMissionK2(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
     saveK2Progress(newProgress);
@@ -485,23 +486,23 @@ export default function AstroEnglishK2Page() {
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
     setAvatarMood("focused");
-    const qs = generateEnglishCheckpointQuestions(testId, K2_CHECKPOINT_TOPICS, 2, 7);
+    const qs = generateCheckpointQuestionsK2(testId, lang, 7);
     setQuestions(qs);
     setScreen("rocket-launch");
   }, []);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateEnglishCheckpointQuestions(activeTestId, K2_CHECKPOINT_TOPICS, 2, 10);
+    const qs = generateCheckpointQuestionsK2(activeTestId, lang, 10);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
-  }, [activeTestId]);
+  }, [activeTestId, lang]);
 
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
     setCheckpointScore({ score, total });
 
-    const newProgress = completeTest(progress, activeTestId);
+    const newProgress = completeTestK2(progress, activeTestId);
     saveK2Progress(newProgress);
     setProgress(newProgress);
 
@@ -613,7 +614,7 @@ export default function AstroEnglishK2Page() {
 
   // ─── MISSION SELECT ──────────────────────────────────────────────────────────
   if (screen === "mission-select" && activeIsland) {
-    const totalStars = islandTotalStars(progress, activeIsland.id);
+    const totalStars = islandTotalStarsK2(progress, activeIsland.id);
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden"
         style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>

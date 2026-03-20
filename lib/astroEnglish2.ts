@@ -1,11 +1,15 @@
 // lib/astroEnglish2.ts — AstroEnglish K2 island definitions & progress
 import type { IslandDef, Lang, MathQuestion, EnglishProgress } from "./astroEnglish";
+import type { MissionDef, MissionCategory } from "./astromath";
 import {
   loadEnglishProgress, saveEnglishProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
   generateEnglishIslandQuestions, generateEnglishCheckpointQuestions,
 } from "./astroEnglish";
+
+// Re-export types for page imports
+export type { IslandDef, Lang, MathQuestion, EnglishProgress, MissionDef, MissionCategory };
 
 export const K2_SAVE_KEY = "astroenglish_k2_v1";
 

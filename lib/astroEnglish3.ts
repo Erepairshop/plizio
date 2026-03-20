@@ -1,11 +1,15 @@
 // lib/astroEnglish3.ts — AstroEnglish K3 island definitions & progress
 import type { IslandDef, Lang, MathQuestion, EnglishProgress } from "./astroEnglish";
+import type { MissionDef, MissionCategory } from "./astromath";
 import {
   loadEnglishProgress, saveEnglishProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
   completeMission, islandTotalStars, completeTest,
   generateEnglishIslandQuestions, generateEnglishCheckpointQuestions,
 } from "./astroEnglish";
+
+// Re-export types for page imports
+export type { IslandDef, Lang, MathQuestion, EnglishProgress, MissionDef, MissionCategory };
 
 export const K3_SAVE_KEY = "astroenglish_k3_v1";
 
