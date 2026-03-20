@@ -390,8 +390,10 @@ export const G1_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const verbs = ["run", "jump", "eat", "play", "read", "sing", "walk", "swim", "draw", "sleep",
-        "write", "dance", "kick", "throw", "catch", "sit", "stand", "talk", "laugh", "cry"];
-      const notVerbs = ["dog", "big", "red", "happy", "ball", "slowly", "under", "the", "very", "chair"];
+        "write", "dance", "kick", "throw", "catch", "sit", "stand", "talk", "laugh", "cry",
+        "skip", "hop", "paint", "build", "climb", "ride", "fly", "help", "listen", "watch"];
+      const notVerbs = ["dog", "big", "red", "happy", "ball", "slowly", "under", "the", "very", "chair",
+        "table", "blue", "hot", "small", "fast", "above", "because", "and", "very", "yellow"];
       for (let i = 0; i < 30; i++) {
         const verb = pick(verbs, rng);
         const wrong = shuffle(notVerbs, rng).slice(0, 3);
@@ -1264,8 +1266,8 @@ export const G2_Generators = {
     nouns_common_proper_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const properNouns = ["London", "Sarah", "Monday", "January", "Texas", "Amazon", "Christmas", "Mr. Smith", "France", "Disney"];
-      const commonNouns = ["city", "girl", "day", "month", "state", "river", "holiday", "teacher", "country", "park"];
+      const properNouns = ["London", "Sarah", "Monday", "January", "Texas", "Amazon", "Christmas", "Mr. Smith", "France", "Disney", "Tokyo", "John", "Friday", "March", "California", "Nile", "Thanksgiving", "Ms. Johnson", "Germany", "Universal", "Paris", "Emma", "Wednesday", "July", "Florida", "River", "Halloween", "Dr. Brown", "Italy", "Warner Bros"];
+      const commonNouns = ["city", "girl", "day", "month", "state", "river", "holiday", "teacher", "country", "park", "animal", "boy", "time", "season", "town", "lake", "celebration", "student", "nation", "playground"];
       for (let i = 0; i < 30; i++) {
         const isProper = rng() > 0.5;
         if (isMCQ(2, rng)) {
@@ -1298,14 +1300,18 @@ export const G2_Generators = {
       const regularPlurals: [string, string][] = [
         ["cat", "cats"], ["dog", "dogs"], ["book", "books"], ["tree", "trees"],
         ["car", "cars"], ["ball", "balls"], ["bird", "birds"], ["cup", "cups"],
+        ["hat", "hats"], ["desk", "desks"], ["pen", "pens"], ["flower", "flowers"],
+        ["apple", "apples"], ["house", "houses"], ["girl", "girls"], ["boy", "boys"],
       ];
       const esPlurals: [string, string][] = [
         ["box", "boxes"], ["bus", "buses"], ["dish", "dishes"], ["glass", "glasses"],
         ["watch", "watches"], ["fox", "foxes"], ["brush", "brushes"], ["bench", "benches"],
+        ["church", "churches"], ["class", "classes"], ["dress", "dresses"], ["kiss", "kisses"],
       ];
       const irregularPlurals: [string, string][] = [
         ["child", "children"], ["man", "men"], ["woman", "women"], ["mouse", "mice"],
         ["tooth", "teeth"], ["foot", "feet"], ["goose", "geese"], ["person", "people"],
+        ["ox", "oxen"], ["leaf", "leaves"], ["knife", "knives"], ["half", "halves"],
       ];
       const allPlurals = [...regularPlurals, ...esPlurals, ...irregularPlurals];
       for (let i = 0; i < 30; i++) {
@@ -1357,9 +1363,9 @@ export const G2_Generators = {
     verbs_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const actionVerbs = ["run", "jump", "play", "eat", "sleep", "read", "write", "sing", "dance", "swim"];
-      const linkingVerbs = ["is", "am", "are", "was", "were", "seem", "become", "feel", "look", "appear"];
-      const notVerbs = ["happy", "blue", "quickly", "small", "cat", "the", "under", "very"];
+      const actionVerbs = ["run", "jump", "play", "eat", "sleep", "read", "write", "sing", "dance", "swim", "walk", "talk", "listen", "watch", "laugh", "cry", "draw", "paint"];
+      const linkingVerbs = ["is", "am", "are", "was", "were", "seem", "become", "feel", "look", "appear", "taste", "sound"];
+      const notVerbs = ["happy", "blue", "quickly", "small", "cat", "the", "under", "very", "green", "slowly", "book", "tree"];
       for (let i = 0; i < 30; i++) {
         const qType = rng();
         if (isMCQ(2, rng)) {
@@ -3866,14 +3872,14 @@ export const G4_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const modalData = [
-        { modal: "can", sentences: ["I ___ swim.", "You ___ help.", "She ___ run fast.", "Dogs ___ bark."], meaning: "ability" },
-        { modal: "could", sentences: ["She ___ help us.", "I ___ swim when I was younger.", "He ___ run faster then."], meaning: "past ability / possibility" },
-        { modal: "may", sentences: ["You ___ leave now.", "___ I go to the party?", "She ___ have a second piece."], meaning: "permission / possibility" },
-        { modal: "might", sentences: ["It ___ rain tomorrow.", "They ___ come later.", "I ___ be late."], meaning: "possibility" },
-        { modal: "must", sentences: ["You ___ study hard.", "We ___ arrive on time.", "She ___ finish her homework."], meaning: "necessity / obligation" },
-        { modal: "should", sentences: ["You ___ rest.", "He ___ practice more.", "We ___ call our parents."], meaning: "advice" },
-        { modal: "would", sentences: ["I ___ like tea.", "She ___ prefer coffee.", "They ___ enjoy the movie."], meaning: "polite request / conditional" },
-        { modal: "shall", sentences: ["___ we dance?", "___ I open the door?", "We ___ overcome this."], meaning: "suggestion / future" },
+        { modal: "can", sentences: ["I ___ swim.", "You ___ help.", "She ___ run fast.", "Dogs ___ bark.", "He ___ play the guitar.", "We ___ speak French."], meaning: "ability" },
+        { modal: "could", sentences: ["She ___ help us.", "I ___ swim when I was younger.", "He ___ run faster then.", "They ___ fix the car.", "You ___ understand that."], meaning: "past ability / possibility" },
+        { modal: "may", sentences: ["You ___ leave now.", "___ I go to the party?", "She ___ have a second piece.", "I ___ borrow your pen?", "We ___ use the computer."], meaning: "permission / possibility" },
+        { modal: "might", sentences: ["It ___ rain tomorrow.", "They ___ come later.", "I ___ be late.", "She ___ call you.", "We ___ win the game."], meaning: "possibility" },
+        { modal: "must", sentences: ["You ___ study hard.", "We ___ arrive on time.", "She ___ finish her homework.", "Children ___ obey their parents.", "Everyone ___ follow the rules."], meaning: "necessity / obligation" },
+        { modal: "should", sentences: ["You ___ rest.", "He ___ practice more.", "We ___ call our parents.", "She ___ see a doctor.", "They ___ leave earlier."], meaning: "advice" },
+        { modal: "would", sentences: ["I ___ like tea.", "She ___ prefer coffee.", "They ___ enjoy the movie.", "I ___ help if I could.", "You ___ like this book."], meaning: "polite request / conditional" },
+        { modal: "shall", sentences: ["___ we dance?", "___ I open the door?", "We ___ overcome this.", "I ___ call you tomorrow.", "___ I help you?"], meaning: "suggestion / future" },
       ];
       const allModals = modalData.map(m => m.modal);
       for (let i = 0; i < 30; i++) {
@@ -3902,6 +3908,14 @@ export const G4_Generators = {
         { verb: "write", pastProg: "was writing", presProg: "is writing", futProg: "will be writing" },
         { verb: "sing", pastProg: "was singing", presProg: "is singing", futProg: "will be singing" },
         { verb: "swim", pastProg: "was swimming", presProg: "is swimming", futProg: "will be swimming" },
+        { verb: "dance", pastProg: "was dancing", presProg: "is dancing", futProg: "will be dancing" },
+        { verb: "walk", pastProg: "was walking", presProg: "is walking", futProg: "will be walking" },
+        { verb: "talk", pastProg: "was talking", presProg: "is talking", futProg: "will be talking" },
+        { verb: "laugh", pastProg: "was laughing", presProg: "is laughing", futProg: "will be laughing" },
+        { verb: "work", pastProg: "was working", presProg: "is working", futProg: "will be working" },
+        { verb: "watch", pastProg: "was watching", presProg: "is watching", futProg: "will be watching" },
+        { verb: "cook", pastProg: "was cooking", presProg: "is cooking", futProg: "will be cooking" },
+        { verb: "study", pastProg: "was studying", presProg: "is studying", futProg: "will be studying" },
       ];
       const tenseContexts = [
         { tense: "past progressive", key: "pastProg" as const, context: "She ___ when I called." },
@@ -4193,6 +4207,16 @@ export const G4_Generators = {
         { word: "generous", synonym: "giving", antonym: "selfish" },
         { word: "calm", synonym: "peaceful", antonym: "anxious" },
         { word: "difficult", synonym: "hard", antonym: "easy" },
+        { word: "bright", synonym: "shiny", antonym: "dark" },
+        { word: "loud", synonym: "noisy", antonym: "quiet" },
+        { word: "strong", synonym: "powerful", antonym: "weak" },
+        { word: "kind", synonym: "gentle", antonym: "mean" },
+        { word: "rich", synonym: "wealthy", antonym: "poor" },
+        { word: "clever", synonym: "smart", antonym: "foolish" },
+        { word: "quiet", synonym: "silent", antonym: "loud" },
+        { word: "heavy", synonym: "weighty", antonym: "light" },
+        { word: "soft", synonym: "gentle", antonym: "hard" },
+        { word: "tall", synonym: "high", antonym: "short" },
       ];
       for (let i = 0; i < 30; i++) {
         const wordSet = pick(wordData, rng);
@@ -4232,6 +4256,14 @@ export const G4_Generators = {
         { text: "The world is a stage.", type: "metaphor", clue: "says something IS something else" },
         { text: "He has a heart of stone.", type: "metaphor", clue: "says something IS something else" },
         { text: "She swims like a fish.", type: "simile", clue: "uses 'like'" },
+        { text: "His hand is as cold as ice.", type: "simile", clue: "uses 'as...as'" },
+        { text: "The snow is like a blanket.", type: "simile", clue: "uses 'like'" },
+        { text: "She works like a bee.", type: "simile", clue: "uses 'like'" },
+        { text: "The teacher is a guide.", type: "metaphor", clue: "says something IS something else" },
+        { text: "Memories are treasures.", type: "metaphor", clue: "says something IS something else" },
+        { text: "He has a wall around his heart.", type: "metaphor", clue: "says something IS something else" },
+        { text: "Her eyes are like stars.", type: "simile", clue: "uses 'like'" },
+        { text: "The night is as dark as coal.", type: "simile", clue: "uses 'as...as'" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(figData, rng);
@@ -4260,6 +4292,11 @@ export const G4_Generators = {
         { sentence: "Her gregarious personality made her many friends.", word: "gregarious", answer: "friendly and outgoing", wrong: ["shy", "angry", "lazy"] },
         { sentence: "The frigid wind made everyone shiver.", word: "frigid", answer: "extremely cold", wrong: ["very hot", "very wet", "very dry"] },
         { sentence: "The laborious task took all day to complete.", word: "laborious", answer: "requiring hard work", wrong: ["easy", "fun", "quick"] },
+        { sentence: "The benevolent old man helped many people.", word: "benevolent", answer: "kind and generous", wrong: ["mean", "selfish", "angry"] },
+        { sentence: "His meticulous work showed great attention to detail.", word: "meticulous", answer: "very careful and precise", wrong: ["careless", "sloppy", "rushed"] },
+        { sentence: "The ephemeral flowers bloomed for only a few days.", word: "ephemeral", answer: "lasting for a short time", wrong: ["permanent", "eternal", "strong"] },
+        { sentence: "The ambiguous instructions confused everyone.", word: "ambiguous", answer: "unclear or unclear meaning", wrong: ["clear", "obvious", "simple"] },
+        { sentence: "Her obstinate refusal to listen frustrated us.", word: "obstinate", answer: "stubbornly refusing to change", wrong: ["flexible", "easy", "cooperative"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(clueData, rng);
