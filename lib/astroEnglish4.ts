@@ -111,7 +111,7 @@ export const K4_ISLANDS: IslandDef[] = [
     topicKeys: ["vocab_g4/synonyms_antonyms_g4", "vocab_g4/similes_metaphors_g4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Vocab Quiz",     hu: "Szókincs kvíz",    de: "Wortschatz-Quiz", ro: "Quiz vocabular"    } },
-      { id: "m2", category: "star-match", gameType: "star-match", icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
     svgX: 230, svgY: 55,
