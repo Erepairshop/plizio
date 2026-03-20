@@ -190,8 +190,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through substantives and varying cases
     for (let i = 0; i < 30; i++) {
-      const item = SUBSTANTIVE_DECLIN[i % SUBSTANTIVE_DECLIN.length];
-      const currentCase = cases[i % cases.length];
+      const item = pick(SUBSTANTIVE_DECLIN, rng);
+      const currentCase = pick(cases, rng);
       let correct = "";
       if (currentCase === "Nominativ") correct = item.nom_sg;
       else if (currentCase === "Genitiv") correct = item.gen_sg;
@@ -203,7 +203,7 @@ export const C6P1_Generators = {
       const q = createMCQ(
         topic,
         subtopic,
-        `Forma de ${currentCase} a substantivului este:`,
+        `Forma de ${currentCase} a substantivului '${item.nom_sg}' este:`,
         correct,
         otherForms,
         rng
@@ -242,7 +242,7 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through substantive functions
     for (let i = 0; i < 30; i++) {
-      const item = SUBSTANTIVE_FUNCTII[i % SUBSTANTIVE_FUNCTII.length];
+      const item = pick(SUBSTANTIVE_FUNCTII, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -285,9 +285,9 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through defective substantives and generating varied questions
     for (let i = 0; i < 30; i++) {
-      const item = SUBSTANTIVE_DEFECTIVE[i % SUBSTANTIVE_DEFECTIVE.length];
+      const item = pick(SUBSTANTIVE_DEFECTIVE, rng);
       // Vary the question type by rotating through different phrasings
-      const questionType = i % 3;
+      const questionType = Math.floor(rng() * 3);
       let question = "";
       let correct = item.forma_lipsa;
       let wrongOpts = ["gen indicat", "accent tonic", "varianta sinonimă"];
@@ -336,8 +336,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through personal pronouns and varying case/person pairs
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_PERSONALE[i % PRONUME_PERSONALE.length];
-      const variantType = Math.floor(i / PRONUME_PERSONALE.length);
+      const item = pick(PRONUME_PERSONALE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -396,8 +396,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through demonstrative pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_DEMONSTRATIVE[i % PRONUME_DEMONSTRATIVE.length];
-      const variantType = i % 3;
+      const item = pick(PRONUME_DEMONSTRATIVE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -452,8 +452,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through possessive pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_POSESIVE[i % PRONUME_POSESIVE.length];
-      const variantType = i % 3;
+      const item = pick(PRONUME_POSESIVE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -501,8 +501,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through reflexive pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_REFLEXIVE[i % PRONUME_REFLEXIVE.length];
-      const variantType = i % 3;
+      const item = pick(PRONUME_REFLEXIVE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -557,8 +557,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through interrogative pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_INTEROGATIVE[i % PRONUME_INTEROGATIVE.length];
-      const variantType = i % 3;
+      const item = pick(PRONUME_INTEROGATIVE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -613,8 +613,8 @@ export const C6P1_Generators = {
 
     // Build 30 unique MCQ questions by cycling through indefinite pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = PRONUME_NEHOTARATE[i % PRONUME_NEHOTARATE.length];
-      const variantType = i % 3;
+      const item = pick(PRONUME_NEHOTARATE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";

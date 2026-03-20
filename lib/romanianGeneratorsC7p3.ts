@@ -128,8 +128,8 @@ function subord_subiectiva(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_SUBIECTIVA[i % SUBORD_SUBIECTIVA.length];
-    const wrongDep = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
+    const subord = pick(SUBORD_SUBIECTIVA, rng);
+    const wrongDep = pick(SUBORD_COMPLETIVA_DIRECTA, rng);
 
     questions.push(
       createMCQ(
@@ -155,8 +155,8 @@ function subord_completiva_directa(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
-    const wrongDep = SUBORD_COMPLETIVA_INDIRECTA[i % SUBORD_COMPLETIVA_INDIRECTA.length];
+    const subord = pick(SUBORD_COMPLETIVA_DIRECTA, rng);
+    const wrongDep = pick(SUBORD_COMPLETIVA_INDIRECTA, rng);
 
     questions.push(
       createMCQ(
@@ -182,8 +182,8 @@ function subord_completiva_indirecta(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_COMPLETIVA_INDIRECTA[i % SUBORD_COMPLETIVA_INDIRECTA.length];
-    const wrongDep = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
+    const subord = pick(SUBORD_COMPLETIVA_INDIRECTA, rng);
+    const wrongDep = pick(SUBORD_COMPLETIVA_DIRECTA, rng);
 
     questions.push(
       createMCQ(
@@ -209,8 +209,8 @@ function subord_loc(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_LOC[i % SUBORD_LOC.length];
-    const wrongDep = SUBORD_TIMP[i % SUBORD_TIMP.length];
+    const subord = pick(SUBORD_LOC, rng);
+    const wrongDep = pick(SUBORD_TIMP, rng);
 
     questions.push(
       createMCQ(
@@ -236,8 +236,8 @@ function subord_timp(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_TIMP[i % SUBORD_TIMP.length];
-    const wrongDep = SUBORD_MOD[i % SUBORD_MOD.length];
+    const subord = pick(SUBORD_TIMP, rng);
+    const wrongDep = pick(SUBORD_MOD, rng);
 
     questions.push(
       createMCQ(
@@ -263,8 +263,8 @@ function subord_mod(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const subord = SUBORD_MOD[i % SUBORD_MOD.length];
-    const wrongDep = SUBORD_LOC[i % SUBORD_LOC.length];
+    const subord = pick(SUBORD_MOD, rng);
+    const wrongDep = pick(SUBORD_LOC, rng);
 
     questions.push(
       createMCQ(

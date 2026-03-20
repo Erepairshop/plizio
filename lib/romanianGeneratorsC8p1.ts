@@ -93,7 +93,7 @@ export const C8P1_Generators = {
     const questionPool: CurriculumMCQ[] = [];
     // Build 30 unique questions by cycling through propositions and varying question types
     for (let i = 0; i < 30; i++) {
-      const p = PROPOZITII_SIMPLE[i % PROPOZITII_SIMPLE.length];
+      const p = pick(PROPOZITII_SIMPLE, rng);
       const variantType = Math.floor(i / PROPOZITII_SIMPLE.length);
 
       let question = "";
@@ -104,7 +104,7 @@ export const C8P1_Generators = {
         question = `Subiectul din "${p.prop}" este:`;
         correct = p.subj;
         wrongOpts = [
-          PROPOZITII_SIMPLE[(i + 1) % PROPOZITII_SIMPLE.length].subj,
+          pick(PROPOZITII_SIMPLE.filter(x => x.subj !== p.subj), rng).subj,
           "predicat",
           "complement",
         ];
@@ -112,7 +112,7 @@ export const C8P1_Generators = {
         question = `Predicatul din "${p.prop}" este:`;
         correct = p.pred;
         wrongOpts = [
-          PROPOZITII_SIMPLE[(i + 1) % PROPOZITII_SIMPLE.length].pred,
+          pick(PROPOZITII_SIMPLE.filter(x => x.pred !== p.pred), rng).pred,
           p.subj,
           "atribut",
         ];
@@ -120,7 +120,7 @@ export const C8P1_Generators = {
         question = `Ce facă "${p.subj}" în: "${p.prop}"?`;
         correct = p.pred;
         wrongOpts = [
-          PROPOZITII_SIMPLE[(i + 2) % PROPOZITII_SIMPLE.length].pred,
+          pick(PROPOZITII_SIMPLE.filter(x => x.pred !== p.pred), rng).pred,
           "este",
           "are rol de complement",
         ];
@@ -136,8 +136,8 @@ export const C8P1_Generators = {
     const questionPool: CurriculumMCQ[] = [];
     // Build 30 unique questions by cycling through compound propositions and varying question types
     for (let i = 0; i < 30; i++) {
-      const p = PROPOZITII_COMPUSE[i % PROPOZITII_COMPUSE.length];
-      const variantType = i % 3;
+      const p = pick(PROPOZITII_COMPUSE, rng);
+      const variantType = Math.floor(rng() * 3);
 
       let question = "";
       let correct = "";
@@ -147,7 +147,7 @@ export const C8P1_Generators = {
         question = `Tipul: "${p.prop}"`;
         correct = p.type;
         wrongOpts = [
-          PROPOZITII_COMPUSE[(i + 1) % PROPOZITII_COMPUSE.length].type,
+          pick(PROPOZITII_COMPUSE.filter(x => x.type !== p.type), rng).type,
           "subordonată",
           "simplă",
         ];
@@ -160,7 +160,7 @@ export const C8P1_Generators = {
         correct = p.type;
         wrongOpts = [
           "propoziție simplă",
-          PROPOZITII_COMPUSE[(i + 2) % PROPOZITII_COMPUSE.length].type,
+          pick(PROPOZITII_COMPUSE.filter(x => x.type !== p.type), rng).type,
           "neclasificabilă",
         ];
       }
@@ -175,7 +175,7 @@ export const C8P1_Generators = {
     const questionPool: CurriculumMCQ[] = [];
     // Build 30 unique questions by cycling through subordination types and varying question types
     for (let i = 0; i < 30; i++) {
-      const s = SUBORDONARE_TYPES[i % SUBORDONARE_TYPES.length];
+      const s = pick(SUBORDONARE_TYPES, rng);
       const variantType = Math.floor(i / SUBORDONARE_TYPES.length);
 
       let question = "";
@@ -186,7 +186,7 @@ export const C8P1_Generators = {
         question = `${s.desc}:`;
         correct = s.type;
         wrongOpts = [
-          SUBORDONARE_TYPES[(i + 1) % SUBORDONARE_TYPES.length].type,
+          pick(SUBORDONARE_TYPES.filter(x => x.type !== s.type), rng).type,
           "copulativă",
           "compusă",
         ];
@@ -194,14 +194,15 @@ export const C8P1_Generators = {
         question = `Propoziția subordonată care "${s.desc}" se numește:`;
         correct = s.type;
         wrongOpts = [
-          SUBORDONARE_TYPES[(i + 2) % SUBORDONARE_TYPES.length].type,
+          pick(SUBORDONARE_TYPES.filter(x => x.type !== s.type), rng).type,
           "atributivă",
           "participială",
         ];
       } else {
+        const others = shuffle(SUBORDONARE_TYPES.filter(x => x.type !== s.type), rng);
         question = `Care din următoarele nu este o propoziție subordonată "${s.type}"?`;
-        correct = SUBORDONARE_TYPES[(i + 3) % SUBORDONARE_TYPES.length].type;
-        wrongOpts = [s.type, SUBORDONARE_TYPES[(i + 1) % SUBORDONARE_TYPES.length].type, SUBORDONARE_TYPES[(i + 2) % SUBORDONARE_TYPES.length].type];
+        correct = others[0].type;
+        wrongOpts = [s.type, others[1]?.type ?? "atributivă", others[2]?.type ?? "participială"];
       }
 
       questionPool.push(createMCQ("Romanian-C8-P1", "subordonare_recapitulare", question, correct, wrongOpts, rng));
@@ -215,7 +216,7 @@ export const C8P1_Generators = {
     const funcs = ["subiect", "predicat", "atribut", "complement"];
     // Build 30 unique questions by cycling through functions and varying question types
     for (let i = 0; i < 30; i++) {
-      const f = funcs[i % funcs.length];
+      const f = pick(funcs, rng);
       const variantType = Math.floor(i / funcs.length);
 
       let question = "";
@@ -247,7 +248,7 @@ export const C8P1_Generators = {
     const members = ["subiect", "predicat", "atribut", "complement", "apoziție", "circumstanțial"];
     // Build 30 unique questions by cycling through members and varying question types
     for (let i = 0; i < 30; i++) {
-      const m = members[i % members.length];
+      const m = pick(members, rng);
       const variantType = Math.floor(i / members.length);
 
       let question = "";

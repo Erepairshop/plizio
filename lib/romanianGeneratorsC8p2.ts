@@ -30,8 +30,8 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const v = VERB_FORMS[i % VERB_FORMS.length];
-      const otherV = VERB_FORMS[(i + 1) % VERB_FORMS.length];
+      const v = pick(VERB_FORMS, rng);
+      const otherV = pick(VERB_FORMS.filter(x => x.infinitive !== v.infinitive), rng);
       questions.push(createMCQ("Romanian-C8-P2", "verb_forme_avansate", `Prezentul verbului "${v.infinitive}":`, v.present, [otherV.present, "participiu", "gerunziu"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -41,8 +41,8 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const p = PRONUME_TYPES[i % PRONUME_TYPES.length];
-      const otherP = PRONUME_TYPES[(i + 1) % PRONUME_TYPES.length];
+      const p = pick(PRONUME_TYPES, rng);
+      const otherP = pick(PRONUME_TYPES.filter(x => x.pronume !== p.pronume), rng);
       questions.push(createMCQ("Romanian-C8-P2", "pronume_cazuri", `Cazul pronumelui "${p.pronume}":`, p.case, [otherP.case, "acuzativ", "dativ"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -52,8 +52,8 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
-      const a = ARTICOL_TYPES[i % ARTICOL_TYPES.length];
-      const otherA = ARTICOL_TYPES[(i + 1) % ARTICOL_TYPES.length];
+      const a = pick(ARTICOL_TYPES, rng);
+      const otherA = pick(ARTICOL_TYPES.filter(x => x.word !== a.word), rng);
       questions.push(createMCQ("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul din "${a.word}":`, a.article, [otherA.article, "pronume", "prepoziție"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -64,7 +64,7 @@ export const C8P2_Generators = {
     const questions: CurriculumMCQ[] = [];
     const parts = ["substantiv", "verb", "adjectiv", "pronume", "articol"];
     for (let i = 0; i < 30; i++) {
-      const p = parts[i % parts.length];
+      const p = pick(parts, rng);
       questions.push(createMCQ("Romanian-C8-P2", "morfologie_recapitulare", `Care este: "${p}"?`, p, parts.filter(x => x !== p).slice(0, 3), rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -80,8 +80,8 @@ export const C8P2_Generators = {
       { noun: "fete", gender: "feminin", number: "plural" },
     ];
     for (let i = 0; i < 30; i++) {
-      const n = nouns[i % nouns.length];
-      const otherN = nouns[(i + 1) % nouns.length];
+      const n = pick(nouns, rng);
+      const otherN = pick(nouns.filter(x => x.noun !== n.noun), rng);
       questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [otherN.gender, "neutru", "ambiguu"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
@@ -91,7 +91,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const v = VERB_FORMS[i % VERB_FORMS.length];
+      const v = pick(VERB_FORMS, rng);
       q.push(createTyping("Romanian-C8-P2", "verb_forme_avansate", `Prezentul "${v.infinitive}":`, v.present));
     }
     return q;
@@ -101,7 +101,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const p = PRONUME_TYPES[i % PRONUME_TYPES.length];
+      const p = pick(PRONUME_TYPES, rng);
       q.push(createTyping("Romanian-C8-P2", "pronume_cazuri", `Cazul "${p.pronume}":`, p.case));
     }
     return q;
@@ -111,7 +111,7 @@ export const C8P2_Generators = {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
     for (let i = 0; i < 15; i++) {
-      const a = ARTICOL_TYPES[i % ARTICOL_TYPES.length];
+      const a = pick(ARTICOL_TYPES, rng);
       q.push(createTyping("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul "${a.word}":`, a.article));
     }
     return q;

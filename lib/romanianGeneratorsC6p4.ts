@@ -163,7 +163,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_POLISEMIE[i % VOCABULAR_POLISEMIE.length];
+      const item = pick(VOCABULAR_POLISEMIE, rng);
       const sensIdx = Math.floor(rng() * 2);
       const correct = sensIdx === 0 ? item.sens1 : item.sens2;
       const wrong = sensIdx === 0 ? item.sens2 : item.sens1;
@@ -207,7 +207,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_OMONIMIE[i % VOCABULAR_OMONIMIE.length];
+      const item = pick(VOCABULAR_OMONIMIE, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -250,7 +250,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_DERIVARE[i % VOCABULAR_DERIVARE.length];
+      const item = pick(VOCABULAR_DERIVARE, rng);
       const derivate = item.cuvante_derivate.split(", ");
       const correct = derivate[Math.floor(rng() * derivate.length)];
       const q = createMCQ(
@@ -293,7 +293,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_LOCUTIUNI[i % VOCABULAR_LOCUTIUNI.length];
+      const item = pick(VOCABULAR_LOCUTIUNI, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -334,7 +334,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_NEOLOGISME[i % VOCABULAR_NEOLOGISME.length];
+      const item = pick(VOCABULAR_NEOLOGISME, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -375,7 +375,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = VOCABULAR_CAMPURI_SEMANTICE[i % VOCABULAR_CAMPURI_SEMANTICE.length];
+      const item = pick(VOCABULAR_CAMPURI_SEMANTICE, rng);
       const cuvinte = item.cuvinte.split(", ");
       const correct = cuvinte[Math.floor(rng() * cuvinte.length)];
       const q = createMCQ(
@@ -418,7 +418,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = TEXT_LECTURA_GENURI[i % TEXT_LECTURA_GENURI.length];
+      const item = pick(TEXT_LECTURA_GENURI, rng);
       const caracteristici = item.caracteristici.split(", ");
       const correct = caracteristici[Math.floor(rng() * caracteristici.length)];
       const q = createMCQ(
@@ -461,7 +461,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = TEXT_LECTURA_MODURI[i % TEXT_LECTURA_MODURI.length];
+      const item = pick(TEXT_LECTURA_MODURI, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -502,7 +502,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = TEXT_LECTURA_PERSONAJE[i % TEXT_LECTURA_PERSONAJE.length];
+      const item = pick(TEXT_LECTURA_PERSONAJE, rng);
       const q = createMCQ(
         topic,
         subtopic,
@@ -543,7 +543,7 @@ export const C6P4_Generators = {
 
     // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = TEXT_LECTURA_NONLITERARE[i % TEXT_LECTURA_NONLITERARE.length];
+      const item = pick(TEXT_LECTURA_NONLITERARE, rng);
       const caracteristici = item.caracteristici.split(", ");
       const correct = caracteristici[Math.floor(rng() * caracteristici.length)];
       const q = createMCQ(

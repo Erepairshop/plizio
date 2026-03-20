@@ -125,8 +125,8 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const voc = VOCABULAR_FAMILIE[i % VOCABULAR_FAMILIE.length];
-    const wrongVoc = VOCABULAR_FAMILIE[(i + 1) % VOCABULAR_FAMILIE.length];
+    const voc = pick(VOCABULAR_FAMILIE, rng);
+    const wrongVoc = pick(VOCABULAR_FAMILIE.filter(v => v.root !== voc.root), rng);
 
     questions.push(
       createMCQ(
@@ -153,8 +153,8 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const voc = VOCABULAR_MIJLOACE[i % VOCABULAR_MIJLOACE.length];
-    const wrongVoc = VOCABULAR_MIJLOACE[(i + 1) % VOCABULAR_MIJLOACE.length];
+    const voc = pick(VOCABULAR_MIJLOACE, rng);
+    const wrongVoc = pick(VOCABULAR_MIJLOACE.filter(v => v.word !== voc.word), rng);
 
     questions.push(
       createMCQ(
@@ -180,8 +180,8 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const text = TEXT_ROMAN_NUVELA[i % TEXT_ROMAN_NUVELA.length];
-    const wrongText = TEXT_ROMAN_NUVELA[(i + 1) % TEXT_ROMAN_NUVELA.length];
+    const text = pick(TEXT_ROMAN_NUVELA, rng);
+    const wrongText = pick(TEXT_ROMAN_NUVELA.filter(t => t.genre !== text.genre), rng);
 
     questions.push(
       createMCQ(
@@ -207,10 +207,11 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const liric = TEXT_LIRIC[i % TEXT_LIRIC.length];
-    const wrong1 = TEXT_LIRIC[(i + 1) % TEXT_LIRIC.length];
-    const wrong2 = TEXT_LIRIC[(i + 2) % TEXT_LIRIC.length];
-    const wrong3 = TEXT_LIRIC[(i + 3) % TEXT_LIRIC.length];
+    const liric = pick(TEXT_LIRIC, rng);
+    const liricWrongs = shuffle(TEXT_LIRIC.filter(l => l.form !== liric.form), rng);
+    const wrong1 = liricWrongs[0];
+    const wrong2 = liricWrongs[1];
+    const wrong3 = liricWrongs[2];
 
     questions.push(
       createMCQ(
@@ -236,10 +237,11 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 10; i++) {
-    const drama = TEXT_DRAMATIC[i % TEXT_DRAMATIC.length];
-    const wrong1 = TEXT_DRAMATIC[(i + 1) % TEXT_DRAMATIC.length];
-    const wrong2 = TEXT_DRAMATIC[(i + 2) % TEXT_DRAMATIC.length];
-    const wrong3 = TEXT_DRAMATIC[(i + 3) % TEXT_DRAMATIC.length];
+    const drama = pick(TEXT_DRAMATIC, rng);
+    const dramaWrongs = shuffle(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng);
+    const wrong1 = dramaWrongs[0];
+    const wrong2 = dramaWrongs[1];
+    const wrong3 = dramaWrongs[2];
 
     questions.push(
       createMCQ(

@@ -213,7 +213,7 @@ function generateColective(seed: number): CurriculumQuestion[] {
   // Question type B: "Ce desemnează cuvântul 'X'?" → desc
   let i = 0;
   while (questions.length < 15) {
-    const item = pool[i % pool.length];
+    const item = pick(pool, rng);
     i++;
     const useTypeA = rng() < 0.55;
     if (useTypeA) {
@@ -282,7 +282,7 @@ function generateGenul(seed: number): CurriculumQuestion[] {
 
   let i = 0;
   while (questions.length < 15) {
-    const item = pool[i % pool.length];
+    const item = pick(pool, rng);
     i++;
     const q = `Ce gen are substantivul '${item.word}'?`;
     const wrongs = ALL_GENDERS.filter(g => g !== item.gender);
@@ -334,7 +334,7 @@ function generateInterogativ(seed: number): CurriculumQuestion[] {
   const pool = shuffle([...INTEROGATIV_DATA], rng);
 
   for (let i = 0; i < 15; i++) {
-    const item = pool[i % pool.length];
+    const item = pick(pool, rng);
     const useTypeA = rng() < 0.6;
     if (useTypeA) {
       const q = `Care este pronumele interogativ din: "${item.sentence}"?`;
@@ -451,7 +451,7 @@ function generateNehotarat(seed: number): CurriculumQuestion[] {
   const pool = shuffle([...NEHOTARAT_POOL], rng);
 
   for (let i = 0; i < 15; i++) {
-    const item = pool[i % pool.length];
+    const item = pick(pool, rng);
     questions.push(createMCQ(T_PRON, S_NEHO, item.question, item.correct, item.wrongs, rng));
   }
 
@@ -590,7 +590,7 @@ function generateRelativ(seed: number): CurriculumQuestion[] {
   const pool = shuffle([...RELATIV_POOL], rng);
 
   for (let i = 0; i < 15; i++) {
-    const item = pool[i % pool.length];
+    const item = pick(pool, rng);
     questions.push(createMCQ(T_PRON, S_REL, item.question, item.correct, item.wrongs, rng));
   }
 
