@@ -3,12 +3,13 @@
 // 1. osztály (Grade 1): Betűk, szótagok, hangok, szavak, ellentétek, mondatok, szókincs
 
 import type { CurriculumQuestion } from "./curriculumTypes";
+import { G1_Generators_Hungarian } from "./hungarianGenerators";
 
 // ─── Type definitions ──────────────────────────────────────────────────────────
 export interface MagyarMCQ extends CurriculumQuestion {
-  topic: string;
-  subtopic?: string;
   type: "mcq";
+  topic: string;
+  subtopic: string;
   question: string;
   options: string[];
   correct: number; // index of correct answer in options array
@@ -47,13 +48,20 @@ function makeMagyarSubtopic(
   return { id, name: names, questions };
 }
 
-// ─── Placeholder function — to be replaced by actual question generators ──────
-// This will be imported from ./magyarGenerators once that file is created
+// ─── Question generator function ──────────────────────────────────────────────
+// Maps topic keys to generator functions and returns generated questions
 function generateMagyarQuestions(topicKey: string, _lang: string): MagyarMCQ[] {
-  // Placeholder: return empty array
-  // In implementation: call specific generator functions (G1.maganhangzok, etc.)
-  console.warn(`[MagyarCurriculum] No generator found for topic: ${topicKey}`);
-  return [];
+  // Extract subtopic ID from key (format: "theme/subtopic")
+  const [, subtopicId] = topicKey.split("/");
+  const generatorFn = (G1_Generators_Hungarian as Record<string, (seed?: number) => MagyarMCQ[]>)[subtopicId];
+
+  if (!generatorFn) {
+    console.warn(`[MagyarCurriculum] No generator found for subtopic: ${subtopicId}`);
+    return [];
+  }
+
+  // Call the generator to get 45 questions
+  return generatorFn();
 }
 
 // ─── O1 (1. osztály) Curriculum ───────────────────────────────────────────────

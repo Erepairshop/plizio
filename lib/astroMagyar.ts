@@ -42,9 +42,10 @@ export function shuffleArr<T>(arr: T[]): T[] {
 // ─── Common question generator ────────────────────────────────────────────────
 export function generateMagyarIslandQuestions(
   island: IslandDef,
-  osztaly: number,
+  _lang: Lang | number = 1,
   count = 10,
 ): MathQuestion[] {
+  const osztaly = typeof _lang === "number" ? _lang : 1;
   const themes = MAGYAR_CURRICULUM[osztaly] ?? [];
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
@@ -85,9 +86,10 @@ export function generateMagyarMatchPairs(questions: MathQuestion[]): MatchPair[]
 export function generateMagyarCheckpointQuestions(
   testId: string,
   checkpointTopics: Record<string, string[]>,
-  osztaly: number,
+  _lang: Lang | number = 1,
   count = 10,
 ): MathQuestion[] {
+  const osztaly = typeof _lang === "number" ? _lang : 1;
   const themes = MAGYAR_CURRICULUM[osztaly] ?? [];
   const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
   const pool: MathQuestion[] = [];

@@ -26,7 +26,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
-  O1_ISLANDS, O1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
+  O1_ISLANDS, O1_CHECKPOINT_MAP, O1_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO1Progress, saveO1Progress, type MagyarProgress,
   isMissionDone, isIslandDone, isIslandUnlockedO1,
   isCheckpointUnlocked, isCheckpointDone,
@@ -277,7 +277,7 @@ export default function AstroMagyarO1Page() {
   const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
-  const [newMilestones, setNewMilestones] = useState<string[]>([]);
+  const [newMilestones, setNewMilestones] = useState<Array<{ id: string; reward: number; icon: string }>>([]);
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<string>("idle");
   const [avatarJumpTrigger, setAvatarJumpTrigger] = useState(0);
@@ -335,7 +335,7 @@ export default function AstroMagyarO1Page() {
   // Checkpoint
   const handleCheckpointSelect = useCallback((testId: string) => {
     setCheckpointId(testId);
-    const qs = generateMagyarCheckpointQuestions(testId, {}, 1, 10);
+    const qs = generateMagyarCheckpointQuestions(testId, O1_CHECKPOINT_TOPICS, 1, 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen("checkpoint-quiz");

@@ -250,14 +250,14 @@ export function IslandOlvasas({ size = 80 }: IP) {
 }
 
 // ── Exports ───────────────────────────────────────────────────────────────────
-export const O1_ISLAND_SVGS = [
-  IslandBetuk,      // i1
-  IslandHangok,     // i2
-  IslandSzotagok,   // i3
-  IslandSzavak,     // i4
-  IslandEllentenek, // i5
-  IslandMondatok,   // i6
-  IslandSzokincs,   // i7
-  IslandNyelvtan,   // i8
-  IslandOlvasas,    // i9
-];
+export const O1_ISLAND_SVGS: Record<string, React.ComponentType<{ size?: number }>> = {
+  i1: IslandBetuk,
+  i2: IslandHangok,
+  i3: IslandSzotagok,
+  i4: IslandSzavak,
+  i5: IslandEllentenek,
+  i6: IslandMondatok,
+  i7: IslandSzokincs,
+  i8: IslandNyelvtan,
+  i9: IslandOlvasas,
+};
