@@ -126,6 +126,7 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const voc = VOCABULAR_FAMILIE[i % VOCABULAR_FAMILIE.length];
+    const wrongVoc = VOCABULAR_FAMILIE[(i + 1) % VOCABULAR_FAMILIE.length];
 
     questions.push(
       createMCQ(
@@ -135,7 +136,7 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
         voc.derivative.split(",")[0],
         shuffle(
           voc.derivative.split(",").slice(0, 2).map(w => w.trim()).concat([
-            pick(VOCABULAR_FAMILIE.filter(v => v.root !== voc.root), rng).derivative.split(",")[0],
+            wrongVoc.derivative.split(",")[0],
           ]),
           rng
         ).slice(0, 3),
@@ -153,6 +154,7 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const voc = VOCABULAR_MIJLOACE[i % VOCABULAR_MIJLOACE.length];
+    const wrongVoc = VOCABULAR_MIJLOACE[(i + 1) % VOCABULAR_MIJLOACE.length];
 
     questions.push(
       createMCQ(
@@ -162,7 +164,7 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
         voc.examples.split("→")[0],
         [
           voc.examples.split("→")[1],
-          pick(VOCABULAR_MIJLOACE.filter(v => v.word !== voc.word), rng).examples.split("→")[0],
+          wrongVoc.examples.split("→")[0],
           `derivare negramaticală`,
         ],
         rng
@@ -179,6 +181,7 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const text = TEXT_ROMAN_NUVELA[i % TEXT_ROMAN_NUVELA.length];
+    const wrongText = TEXT_ROMAN_NUVELA[(i + 1) % TEXT_ROMAN_NUVELA.length];
 
     questions.push(
       createMCQ(
@@ -187,7 +190,7 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
         `Care e caracteristica genului ${text.genre}? "${text.traits}"`,
         text.traits,
         [
-          pick(TEXT_ROMAN_NUVELA.filter(t => t.genre !== text.genre), rng).traits,
+          wrongText.traits,
           `volum variabil`,
           `epocă nedeterminată`,
         ],
@@ -205,6 +208,9 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const liric = TEXT_LIRIC[i % TEXT_LIRIC.length];
+    const wrong1 = TEXT_LIRIC[(i + 1) % TEXT_LIRIC.length];
+    const wrong2 = TEXT_LIRIC[(i + 2) % TEXT_LIRIC.length];
+    const wrong3 = TEXT_LIRIC[(i + 3) % TEXT_LIRIC.length];
 
     questions.push(
       createMCQ(
@@ -213,9 +219,9 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
         `Forma lirica "${liric.form}" se caracterizează prin: "${liric.structure}". Exemplu: "${liric.example}". Trasat principal: "${liric.traits}". Care e forma corectă?`,
         liric.form,
         [
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
+          wrong1.form,
+          wrong2.form,
+          wrong3.form,
         ],
         rng
       )
@@ -231,6 +237,9 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const drama = TEXT_DRAMATIC[i % TEXT_DRAMATIC.length];
+    const wrong1 = TEXT_DRAMATIC[(i + 1) % TEXT_DRAMATIC.length];
+    const wrong2 = TEXT_DRAMATIC[(i + 2) % TEXT_DRAMATIC.length];
+    const wrong3 = TEXT_DRAMATIC[(i + 3) % TEXT_DRAMATIC.length];
 
     questions.push(
       createMCQ(
@@ -239,9 +248,9 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
         `Genul dramatic "${drama.genre}" se caracterizează prin: "${drama.traits}". Care e definiția corectă?`,
         drama.genre,
         [
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
+          wrong1.genre,
+          wrong2.genre,
+          wrong3.genre,
         ],
         rng
       )

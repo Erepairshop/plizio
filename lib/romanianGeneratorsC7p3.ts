@@ -129,6 +129,7 @@ function subord_subiectiva(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_SUBIECTIVA[i % SUBORD_SUBIECTIVA.length];
+    const wrongDep = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
 
     questions.push(
       createMCQ(
@@ -139,7 +140,7 @@ function subord_subiectiva(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `cu introductorul "${subord.intro}"`,
-          pick(SUBORD_COMPLETIVA_DIRECTA, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
@@ -155,6 +156,7 @@ function subord_completiva_directa(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
+    const wrongDep = SUBORD_COMPLETIVA_INDIRECTA[i % SUBORD_COMPLETIVA_INDIRECTA.length];
 
     questions.push(
       createMCQ(
@@ -165,7 +167,7 @@ function subord_completiva_directa(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `introdusă de "${subord.intro}"`,
-          pick(SUBORD_COMPLETIVA_INDIRECTA, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
@@ -181,6 +183,7 @@ function subord_completiva_indirecta(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_COMPLETIVA_INDIRECTA[i % SUBORD_COMPLETIVA_INDIRECTA.length];
+    const wrongDep = SUBORD_COMPLETIVA_DIRECTA[i % SUBORD_COMPLETIVA_DIRECTA.length];
 
     questions.push(
       createMCQ(
@@ -191,7 +194,7 @@ function subord_completiva_indirecta(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `cu introductorul "${subord.intro}"`,
-          pick(SUBORD_COMPLETIVA_DIRECTA, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
@@ -207,6 +210,7 @@ function subord_loc(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_LOC[i % SUBORD_LOC.length];
+    const wrongDep = SUBORD_TIMP[i % SUBORD_TIMP.length];
 
     questions.push(
       createMCQ(
@@ -217,7 +221,7 @@ function subord_loc(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `introdusă de "${subord.intro}"`,
-          pick(SUBORD_TIMP, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
@@ -233,6 +237,7 @@ function subord_timp(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_TIMP[i % SUBORD_TIMP.length];
+    const wrongDep = SUBORD_MOD[i % SUBORD_MOD.length];
 
     questions.push(
       createMCQ(
@@ -243,7 +248,7 @@ function subord_timp(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `cu sensul de "${subord.meaning}"`,
-          pick(SUBORD_MOD, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
@@ -259,6 +264,7 @@ function subord_mod(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const subord = SUBORD_MOD[i % SUBORD_MOD.length];
+    const wrongDep = SUBORD_LOC[i % SUBORD_LOC.length];
 
     questions.push(
       createMCQ(
@@ -269,7 +275,7 @@ function subord_mod(seed = 42): CurriculumQuestion[] {
         [
           subord.main,
           `cu introductorul "${subord.intro}"`,
-          pick(SUBORD_LOC, rng).dependent,
+          wrongDep.dependent,
         ],
         rng
       )
