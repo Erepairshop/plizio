@@ -1,231 +1,137 @@
-// ─── ROMANIAN GENERATORS (CLASA a VIII-a) — FAZA 2 ─────────────────────────────────────
-// Procedural MCQ question generators for Romanian language curriculum
-// Clasa a VIII-a (8th grade) – Advanced subordinate clauses II, Stylistics
-// Conditional & concessive subordinates, Stylistic figures & language register
-//
-// Generates 6 questions per subtopic using seeded PRNG for reproducibility.
-
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
 
-// ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
+function mulberry32(seed: number) { return function () { seed |= 0; seed = (seed + 0x6d2b79f5) | 0; let t = Math.imul(seed ^ (seed >>> 15), 1 | seed); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+function shuffle<T>(arr: T[], rng: () => number): T[] { const copy = [...arr]; for (let i = copy.length - 1; i > 0; i--) { const j = Math.floor(rng() * (i + 1)); [copy[i], copy[j]] = [copy[j], copy[i]]; } return copy; }
+function pick<T>(arr: T[], rng: () => number): T { return arr[Math.floor(rng() * arr.length)]; }
+function createMCQ(topic: string, subtopic: string, question: string, correct: string, wrongOptions: string[], rng: () => number): CurriculumMCQ { const seen = new Set<string>(); const unique: string[] = []; for (const w of wrongOptions) { if (w !== correct && !seen.has(w)) { seen.add(w); unique.push(w); } } const opts = shuffle([correct, ...unique.slice(0, 3)], rng); return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) }; }
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion { return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() }; }
 
-/** Seeded PRNG (Mulberry32) */
-function mulberry32(seed: number) {
-  return function () {
-    seed |= 0;
-    seed = (seed + 0x6d2b79f5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-/** Shuffle array using given RNG */
-function shuffle<T>(arr: T[], rng: () => number): T[] {
-  const copy = [...arr];
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(rng() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-
-/** Pick random element from array */
-function pick<T>(arr: T[], rng: () => number): T {
-  return arr[Math.floor(rng() * arr.length)];
-}
-
-/** Create MCQ question with shuffled options */
-function createMCQ(
-  topic: string,
-  subtopic: string,
-  question: string,
-  correct: string,
-  wrongOptions: string[],
-  rng: () => number
-): CurriculumMCQ {
-  const seen = new Set<string>();
-  const unique: string[] = [];
-  for (const w of wrongOptions) {
-    if (w !== correct && !seen.has(w)) {
-      seen.add(w);
-      unique.push(w);
-    }
-  }
-  const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
-  return {
-    type: "mcq",
-    topic,
-    subtopic,
-    question,
-    options: opts,
-    correct: opts.indexOf(correct),
-  };
-}
-
-// ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
-
-const SUBORD_CONDITIE = [
-  { sentence: "Dacă pleci acum, vei ajunge la timp.", main: "vei ajunge la timp", dependent: "Dacă pleci acum", intro: "Dacă", type: "de condiție" },
-  { sentence: "În caz că nu vin, să mă caulezi.", main: "să mă caulezi", dependent: "În caz că nu vin", intro: "În caz că", type: "de condiție" },
-  { sentence: "Pe măsură ce crești, vei înțelege mai mult.", main: "vei înțelege mai mult", dependent: "Pe măsură ce crești", intro: "Pe măsură ce", type: "de condiție-timp" },
-  { sentence: "Ori dacă vin, ori dacă nu, nu conteaza.", main: "nu conteaza", dependent: "Ori dacă vin, ori dacă nu", intro: "Ori dacă", type: "de condiție-disjuncție" },
-  { sentence: "Cu condiția ca tu să fii aici, mă-ntorc.", main: "mă-ntorc", dependent: "Cu condiția ca tu să fii aici", intro: "Cu condiția ca", type: "de condiție" },
+const VERB_FORMS = [
+  { infinitive: "a merge", present: "merg", past: "am mers", future: "voi merge" },
+  { infinitive: "a vorbi", present: "vorbesc", past: "am vorbit", future: "voi vorbi" },
+  { infinitive: "a citi", present: "citesc", past: "am citit", future: "voi citi" },
 ];
 
-const SUBORD_CONCESIE = [
-  { sentence: "Deși e ploios, merg afară.", main: "merg afară", dependent: "Deși e ploios", intro: "Deși", type: "de concesie" },
-  { sentence: "Oricât de mult ar încerca, nu reușește.", main: "nu reușește", dependent: "Oricât de mult ar încerca", intro: "Oricât", type: "de concesie" },
-  { sentence: "Măcar că e bolnav, vine la muncă.", main: "vine la muncă", dependent: "Măcar că e bolnav", intro: "Măcar că", type: "de concesie" },
-  { sentence: "Chiar dacă nu suntem de acord, trebuie să lucrez.", main: "trebuie să lucrez", dependent: "Chiar dacă nu suntem de acord", intro: "Chiar dacă", type: "de concesie" },
-  { sentence: "Oricum ar fi, o s-ajung acolo.", main: "o s-ajung acolo", dependent: "Oricum ar fi", intro: "Oricum", type: "de concesie" },
+const PRONUME_TYPES = [
+  { pronume: "eu", type: "pronume personal", case: "nominativ" },
+  { pronume: "mă", type: "pronume personal", case: "acuzativ" },
+  { pronume: "mi", type: "pronume personal", case: "dativ" },
+  { pronume: "mine", type: "pronume personal", case: "genitiv" },
 ];
 
-const SUBORD_RECAPITULARE = [
-  { sentence: "Cartea pe care o citesc acum e interesantă.", type: "atributivă", intro: "pe care" },
-  { sentence: "Se pare că va fi o vreme frumoasă.", type: "predicativă", intro: "că" },
-  { sentence: "Am corectat eseul fiindcă aveam greșeli.", type: "de cauză", intro: "fiindcă" },
-  { sentence: "Devo sa ajung acolo înainte de ora 5.", type: "de timp", intro: "înainte de" },
-  { sentence: "Vorbesc ușor ca să nu-l trezesc.", type: "de scop", intro: "ca să" },
-  { sentence: "Dacă studiezi bine, vei trece examenul.", type: "de condiție", intro: "Dacă" },
+const ARTICOL_TYPES = [
+  { word: "un băiat", article: "un", type: "articol hotărât" },
+  { word: "o fată", article: "o", type: "articol hotărât" },
+  { word: "băiatul", article: "-ul", type: "articol hotărât enclitic" },
 ];
-
-const STILISTICA_FIGURI = [
-  { figure: "simbol", definition: "reprezentare concretă a unei idei abstracte", example: "Pasul alb = puritate, speranță", figure_type: "figură de sens" },
-  { figure: "alegorie", definition: "povestea cu sens ascuns, personajele sunt idei abstracte", example: "Moara cu noroc = destinul", figure_type: "figură de sens" },
-  { figure: "ironie", definition: "spunerea unui lucru cu sens opus, în scop satiric", example: "\"Ce om frumos!\" (în cazul omului rău)", figure_type: "figură de stil" },
-  { figure: "antiteză", definition: "opunere de idei/cuvinte cu sens opus", example: "Cer plin de stele, pământ gol de oameni", figure_type: "figură de stil" },
-  { figure: "oximoron", definition: "combinație paradoxală de cuvinte cu sens opus", example: "Tăcere gălăgie, frumusețe urâtă", figure_type: "figură de stil" },
-  { figure: "metaforă", definition: "comparație ascunsă, folosire a unui cuvânt în sens figurat", example: "Inima din foc", figure_type: "figură de sens" },
-];
-
-const STILISTICA_LIMBAJ = [
-  { aspect: "limbaj poetic", feature: "ritm, rima, imagini lirice, vocabular ales", example: "Și cântul păsarelor-și curge lin... (E. Lovinescu)", register: "estetic" },
-  { aspect: "limbaj prozaic", feature: "flux natural, fără ritmul specific, mai apropiat de vorbire", example: "Am mers la piață și am cumpărat legume.", register: "neutru/informativ" },
-  { aspect: "limbaj formal", feature: "cuvinte alegorice, construcții complexe, vocabular solemn", example: "Prezentez respectuos această cercetare.", register: "oficial" },
-  { aspect: "limbaj informal", feature: "vorbire desfrâu, cuvinte ușoare, expresii populare", example: "Mă doare capul rău de la curs.", register: "familiar" },
-  { aspect: "limbaj uman", feature: "expresii cu afectivitate, emoții, tone personale", example: "Oh, cât mi-e dor de tine!", register: "emoțional" },
-  { aspect: "limbaj científic", feature: "termeni tehnici, claritate, obiectivitate", example: "Reacția chimică produce energie termică.", register: "scholarly" },
-];
-
-// ─── GENERATORS ────────────────────────────────────────────────────────────
-
-function subord_conditie_concesie(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const conditie = pick(SUBORD_CONDITIE, rng);
-    const concesie = pick(SUBORD_CONCESIE, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P2",
-        "subord_conditie_concesie",
-        `Din "${conditie.sentence}", propoziția subordonată circumstanțială de ${conditie.type} este:`,
-        conditie.dependent,
-        [
-          conditie.main,
-          concesie.dependent,
-          `cu introductorul "${conditie.intro}"`,
-        ],
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-function subord_recapitulare(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const subord = pick(SUBORD_RECAPITULARE, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P2",
-        "subord_recapitulare",
-        `Identifică tipul propozițieii subordonate din: "${subord.sentence}"`,
-        subord.type,
-        shuffle(
-          [
-            pick(SUBORD_RECAPITULARE.filter(s => s.type !== subord.type), rng).type,
-            pick(SUBORD_RECAPITULARE.filter(s => s.type !== subord.type), rng).type,
-          ],
-          rng
-        ),
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-function stilistica_figuri_avansate(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const figura = pick(STILISTICA_FIGURI, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P2",
-        "stilistica_figuri_avansate",
-        `Figura de stil "${figura.figure}" are definiția: "${figura.definition}". Exemplu: "${figura.example}". Ce fel de figură e aceasta?`,
-        figura.figure,
-        shuffle(
-          [
-            pick(STILISTICA_FIGURI.filter(f => f.figure !== figura.figure), rng).figure,
-            pick(STILISTICA_FIGURI.filter(f => f.figure !== figura.figure), rng).figure,
-          ],
-          rng
-        ),
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-function stilistica_limbaj(seed = 42): CurriculumQuestion[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  for (let i = 0; i < 10; i++) {
-    const limbaj = pick(STILISTICA_LIMBAJ, rng);
-
-    questions.push(
-      createMCQ(
-        "Romanian-C8-P2",
-        "stilistica_limbaj",
-        `Limbajul "${limbaj.aspect}" se caracterizează prin: "${limbaj.feature}". Exemplu: "${limbaj.example}". Registrul stilistic e:`,
-        limbaj.register,
-        shuffle(
-          [
-            pick(STILISTICA_LIMBAJ.filter(l => l.register !== limbaj.register), rng).register,
-            pick(STILISTICA_LIMBAJ.filter(l => l.register !== limbaj.register), rng).register,
-          ],
-          rng
-        ),
-        rng
-      )
-    );
-  }
-
-  return shuffle(questions, rng).slice(0, 6);
-}
-
-// ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const C8P2_Generators = {
-  subord_conditie_concesie,
-  subord_recapitulare,
-  stilistica_figuri_avansate,
-  stilistica_limbaj,
+  verb_forme_avansate: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const v = pick(VERB_FORMS, rng);
+      questions.push(createMCQ("Romanian-C8-P2", "verb_forme_avansate", `Prezentul verbului "${v.infinitive}":`, v.present, [pick(VERB_FORMS, rng).present, "participiu", "gerunziu"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  pronume_cazuri: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const p = pick(PRONUME_TYPES, rng);
+      questions.push(createMCQ("Romanian-C8-P2", "pronume_cazuri", `Cazul pronumelui "${p.pronume}":`, p.case, [pick(PRONUME_TYPES, rng).case, "acuzativ", "dativ"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  articol_definit_nedefinit: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    for (let i = 0; i < 30; i++) {
+      const a = pick(ARTICOL_TYPES, rng);
+      questions.push(createMCQ("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul din "${a.word}":`, a.article, [pick(ARTICOL_TYPES, rng).article, "pronume", "prepoziție"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  morfologie_recapitulare: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    const parts = ["substantiv", "verb", "adjectiv", "pronume", "articol"];
+    for (let i = 0; i < 30; i++) {
+      const p = pick(parts, rng);
+      questions.push(createMCQ("Romanian-C8-P2", "morfologie_recapitulare", `Care este: "${p}"?`, p, parts.filter(x => x !== p).slice(0, 3), rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  substantiv_gen_numar: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const questions: CurriculumMCQ[] = [];
+    const nouns = [
+      { noun: "copil", gender: "masculin", number: "singular" },
+      { noun: "copii", gender: "masculin", number: "plural" },
+      { noun: "fată", gender: "feminin", number: "singular" },
+      { noun: "fete", gender: "feminin", number: "plural" },
+    ];
+    for (let i = 0; i < 30; i++) {
+      const n = pick(nouns, rng);
+      questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [pick(nouns, rng).gender, "neutru", "ambiguu"], rng));
+    }
+    return shuffle(questions, rng).slice(0, 30);
+  },
+
+  verb_forme_avansate_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const q: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const v = pick(VERB_FORMS, rng);
+      q.push(createTyping("Romanian-C8-P2", "verb_forme_avansate", `Prezentul "${v.infinitive}":`, v.present));
+    }
+    return q;
+  },
+
+  pronume_cazuri_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const q: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const p = pick(PRONUME_TYPES, rng);
+      q.push(createTyping("Romanian-C8-P2", "pronume_cazuri", `Cazul "${p.pronume}":`, p.case));
+    }
+    return q;
+  },
+
+  articol_definit_nedefinit_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const q: CurriculumQuestion[] = [];
+    for (let i = 0; i < 15; i++) {
+      const a = pick(ARTICOL_TYPES, rng);
+      q.push(createTyping("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul "${a.word}":`, a.article));
+    }
+    return q;
+  },
+
+  morfologie_recapitulare_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const q: CurriculumQuestion[] = [];
+    const parts = ["substantiv", "verb", "adjectiv", "pronume", "articol"];
+    for (let i = 0; i < 15; i++) {
+      const p = pick(parts, rng);
+      q.push(createTyping("Romanian-C8-P2", "morfologie_recapitulare", `Partea de vorbire: "${p}"`, p));
+    }
+    return q;
+  },
+
+  substantiv_gen_numar_typing: (seed = 42): CurriculumQuestion[] => {
+    const rng = mulberry32(seed);
+    const q: CurriculumQuestion[] = [];
+    const nouns = ["copil (masculin)", "fată (feminin)", "pom (masculin)", "casă (feminin)"];
+    for (let i = 0; i < 15; i++) {
+      const n = pick(nouns, rng);
+      q.push(createTyping("Romanian-C8-P2", "substantiv_gen_numar", `Genul: "${n}"`, n.split(" ")[1]?.slice(0, -1) || ""));
+    }
+    return q;
+  },
 };
