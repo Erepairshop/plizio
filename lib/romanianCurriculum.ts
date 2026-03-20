@@ -6,6 +6,19 @@ import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
 import { C3_Generators } from "./romanianGeneratorsC3";
+import { C4_Morfo_Generators } from "./romanianGeneratorsC4morfo";
+import { C4_Sint_Generators } from "./romanianGeneratorsC4sint";
+import { C4_Ort_Generators } from "./romanianGeneratorsC4ort";
+import { C4_Voc_Generators } from "./romanianGeneratorsC4voc";
+import { C4_Text_Generators } from "./romanianGeneratorsC4text";
+import { C4_Lec_Generators } from "./romanianGeneratorsC4lec";
+import { C5_Subst_Generators } from "./romanianGeneratorsC5subst";
+import { C5_Verb_Generators } from "./romanianGeneratorsC5verb";
+import { C5_Sint_Generators } from "./romanianGeneratorsC5sint";
+import { C5_Voc_Generators } from "./romanianGeneratorsC5voc";
+import { C5_Ort_Generators } from "./romanianGeneratorsC5ort";
+import { C5_Text_Generators } from "./romanianGeneratorsC5text";
+import { C5_Lec_Generators } from "./romanianGeneratorsC5lec";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
 
@@ -554,12 +567,197 @@ const C3: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a IV-a (Grade 4) ──────────────────────────────────────────────────
+
+const C4: RomanianTheme[] = [
+  {
+    id: "morfologie_c4",
+    name: "Morfologie",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "substantiv_c4", name: "Substantivul (gen, număr, caz, articol)", questions: [] },
+      { id: "adjectiv_c4", name: "Adjectivul (acord, grade de comparație)", questions: [] },
+      { id: "pronume_personal_c4", name: "Pronumele personal", questions: [] },
+      { id: "pronume_posesiv_c4", name: "Pronumele posesiv", questions: [] },
+      { id: "verb_timpuri_c4", name: "Verbul — timpurile modului indicativ", questions: [] },
+    ],
+  },
+  {
+    id: "sintaxa_c4",
+    name: "Sintaxă",
+    icon: "🔗",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "alte_parti_c4", name: "Adverbul, prepoziția, conjuncția, numeralul", questions: [] },
+      { id: "subiect_predicat_c4", name: "Subiectul și predicatul", questions: [] },
+      { id: "atribut_c4", name: "Atributul", questions: [] },
+      { id: "complement_c4", name: "Complementele (direct, indirect, circumstanțial)", questions: [] },
+      { id: "fraza_propozitii_c4", name: "Fraza — propoziții principale și subordonate", questions: [] },
+    ],
+  },
+  {
+    id: "ortografie_c4",
+    name: "Ortografie",
+    icon: "✍️",
+    color: "#00FF88",
+    subtopics: [
+      { id: "majuscule_c4", name: "Majuscule — substantive proprii, titluri", questions: [] },
+      { id: "cratima_avansata_c4", name: "Cratima avansată (s-a, l-a, ne-a)", questions: [] },
+      { id: "punctuatie_c4", name: "Semnele de punctuație (virgulă, punct și virgulă, ghilimele)", questions: [] },
+      { id: "despartire_avansata_c4", name: "Despărțirea avansată în silabe", questions: [] },
+      { id: "scrierea_corecta_c4", name: "Scrierea corectă — forme frecvente", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c4",
+    name: "Vocabular",
+    icon: "💬",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "sinonime_antonime_c4", name: "Sinonime și antonime avansate", questions: [] },
+      { id: "campuri_semantice_c4", name: "Câmpuri semantice", questions: [] },
+      { id: "expresii_frazeologice_c4", name: "Expresii și locuțiuni frazeologice", questions: [] },
+      { id: "derivare_compunere_c4", name: "Derivare și compunere", questions: [] },
+    ],
+  },
+  {
+    id: "text_c4",
+    name: "Producere de text",
+    icon: "📝",
+    color: "#FFD700",
+    subtopics: [
+      { id: "rezumat_c4", name: "Rezumatul", questions: [] },
+      { id: "text_narativ_c4", name: "Textul narativ literar", questions: [] },
+      { id: "text_argumentativ_c4", name: "Textul argumentativ", questions: [] },
+      { id: "scrisoarea_c4", name: "Scrisoarea", questions: [] },
+      { id: "textul_informativ_c4", name: "Textul informativ", questions: [] },
+    ],
+  },
+  {
+    id: "lectura_c4",
+    name: "Lectură",
+    icon: "📖",
+    color: "#FF6B00",
+    subtopics: [
+      { id: "intelegere_text_c4", name: "Înțelegerea textului citit", questions: [] },
+      { id: "personaje_c4", name: "Personajele literare", questions: [] },
+      { id: "tema_mesaj_c4", name: "Tema și mesajul textului", questions: [] },
+      { id: "figuri_stil_c4", name: "Figuri de stil (comparație, metaforă, personificare)", questions: [] },
+    ],
+  },
+];
+
+// ─── CLASA a V-a (Grade 5) ──────────────────────────────────────────────────
+
+const C5: RomanianTheme[] = [
+  {
+    id: "substantiv_c5",
+    name: "Substantivul",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "declinarea_c5", name: "Declinarea substantivelor (cu articol hotărât)", questions: [] },
+      { id: "substantive_colective_c5", name: "Substantive colective", questions: [] },
+      { id: "genul_substantivelor_c5", name: "Genul substantivelor (epicene, ambigene)", questions: [] },
+    ],
+  },
+  {
+    id: "pronume_c5",
+    name: "Pronumele",
+    icon: "🔤",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "pronume_interogativ_c5", name: "Pronumele interogativ", questions: [] },
+      { id: "pronume_nehotarat_c5", name: "Pronumele nehotărât", questions: [] },
+      { id: "pronume_relativ_c5", name: "Pronumele relativ", questions: [] },
+    ],
+  },
+  {
+    id: "verb_c5",
+    name: "Verbul",
+    icon: "⚡",
+    color: "#00FF88",
+    subtopics: [
+      { id: "moduri_nepersonale_c5", name: "Moduri nepersonale (infinitiv, gerunziu, participiu, supin)", questions: [] },
+      { id: "perfectul_simplu_c5", name: "Perfectul simplu", questions: [] },
+      { id: "mai_mult_ca_perfect_c5", name: "Mai-mult-ca-perfectul", questions: [] },
+      { id: "acordul_predicat_c5", name: "Acordul predicatului cu subiectul", questions: [] },
+      { id: "complement_circumstantial_c5", name: "Complementul circumstanțial (loc, timp, mod, cauză, scop)", questions: [] },
+    ],
+  },
+  {
+    id: "sintaxa_c5",
+    name: "Sintaxă",
+    icon: "🔗",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "apostrof_atribut_c5", name: "Atributul (substantival, pronominal, apoziție)", questions: [] },
+      { id: "prop_subiectiva_c5", name: "Propoziția subordonată subiectivă", questions: [] },
+      { id: "coordonare_c5", name: "Coordonarea (copulativă, adversativă, disjunctivă, conclusivă)", questions: [] },
+      { id: "prop_circumstantiala_c5", name: "Propoziția circumstanțială (timp, loc, mod)", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c5",
+    name: "Vocabular",
+    icon: "💬",
+    color: "#FFD700",
+    subtopics: [
+      { id: "polisemia_c5", name: "Polisemia (cuvânt — mai multe sensuri)", questions: [] },
+      { id: "omonimia_c5", name: "Omonimia", questions: [] },
+      { id: "paronimia_c5", name: "Paronimia", questions: [] },
+      { id: "locutiuni_c5", name: "Locuțiuni (verbale, adverbiale, substantivale)", questions: [] },
+      { id: "argou_regional_c5", name: "Argou, regionalisme, neologisme", questions: [] },
+    ],
+  },
+  {
+    id: "ortografie_c5",
+    name: "Ortografie",
+    icon: "✍️",
+    color: "#FF6B00",
+    subtopics: [
+      { id: "a_i_c5", name: "Scrierea lui â și î", questions: [] },
+      { id: "semne_diacritice_c5", name: "Semnele diacritice (ă, â, î, ș, ț)", questions: [] },
+      { id: "scrierea_compuselor_c5", name: "Scrierea cuvintelor compuse", questions: [] },
+      { id: "cratima_forme_c5", name: "Cratima între forme verbale (s-a, l-a, ne-a)", questions: [] },
+    ],
+  },
+  {
+    id: "text_c5",
+    name: "Producere de text",
+    icon: "📝",
+    color: "#10B981",
+    subtopics: [
+      { id: "genuri_literare_c5", name: "Genurile literare (epic, liric, dramatic)", questions: [] },
+      { id: "specii_literare_c5", name: "Speciile literare (basm, nuvelă, fabulă, odă, comedie)", questions: [] },
+      { id: "moduri_expunere_c5", name: "Modurile de expunere (narațiune, descriere, dialog)", questions: [] },
+      { id: "personaje_caracterizare_c5", name: "Caracterizarea personajelor (directă și indirectă)", questions: [] },
+      { id: "texte_nonliterare_c5", name: "Textele nonliterare (articol, știre, reclamă, instrucțiuni)", questions: [] },
+    ],
+  },
+  {
+    id: "lectura_c5",
+    name: "Lectură",
+    icon: "📖",
+    color: "#E879F9",
+    subtopics: [
+      { id: "intentie_autor_c5", name: "Intenția autorului și perspectiva narativă", questions: [] },
+      { id: "argumente_c5", name: "Argumentul și contraargumentul", questions: [] },
+      { id: "inferente_c5", name: "Inferențe — informații implicite", questions: [] },
+      { id: "timp_spatiu_c5", name: "Coordonatele spațiale și temporale ale textului", questions: [] },
+    ],
+  },
+];
+
 // ─── MAIN EXPORT ──────────────────────────────────────────────────────────────
 
 export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
   3: C3,
+  4: C4,
+  5: C5,
 };
 
 /** Generator mapping by grade */
@@ -567,6 +765,8 @@ const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
+  4: { ...C4_Morfo_Generators, ...C4_Sint_Generators, ...C4_Ort_Generators, ...C4_Voc_Generators, ...C4_Text_Generators, ...C4_Lec_Generators },
+  5: { ...C5_Subst_Generators, ...C5_Verb_Generators, ...C5_Sint_Generators, ...C5_Voc_Generators, ...C5_Ort_Generators, ...C5_Text_Generators, ...C5_Lec_Generators },
 };
 
 /** Returns shuffled questions from selected subtopics (max count). */
