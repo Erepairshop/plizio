@@ -34,13 +34,13 @@ function gen_a_i_c5(seed: number): CurriculumMCQ[] {
       rng),
 
     createMCQ(T, S,
-      "Cuvântul „în" (prepoziție) se scrie cu:",
+      "Cuvântul „în” (prepoziție) se scrie cu:",
       "î (î la început de cuvânt)",
       ["â (â se folosește oriunde)", "a (fără diacritic)", "i (fără diacritic)"],
       rng),
 
     createMCQ(T, S,
-      "Completați: „Ea a _nceput să cânte." — ce literă lipsește?",
+      "Completați: „Ea a _nceput să cânte.” — ce literă lipsește?",
       "î (î la început de cuvânt: început)",
       ["â (â în interior)", "i (fără diacritic)", "a (fără diacritic)"],
       rng),
@@ -52,19 +52,19 @@ function gen_a_i_c5(seed: number): CurriculumMCQ[] {
       rng),
 
     createMCQ(T, S,
-      "Regula generală spune că „â" se scrie:",
+      "Regula generală spune că „â” se scrie:",
       "în interiorul cuvintelor românești",
       ["la începutul cuvintelor", "la sfârșitul cuvintelor", "numai în cuvinte de origine străină"],
       rng),
 
     createMCQ(T, S,
-      "Care dintre aceste cuvinte se scrie cu „î", nu cu „â"?",
+      "Care dintre aceste cuvinte se scrie cu „î”, nu cu „â”?",
       "înainte",
       ["mână", "câmp", "râu"],
       rng),
 
     createMCQ(T, S,
-      "Cuvântul „coborâm" este derivat al verbului „a coborî". Cum se scrie forma de gerunziu?",
+      "Cuvântul „coborâm” este derivat al verbului „a coborî”. Cum se scrie forma de gerunziu?",
       "coborând",
       ["coborînd", "coboriind", "coborîînd"],
       rng),
@@ -81,9 +81,9 @@ function gen_semne_diacritice_c5(seed: number): CurriculumMCQ[] {
 
   const questions: CurriculumMCQ[] = [
     createMCQ(T, S,
-      "Care este diferența de sens între „masa" și „mașa"?",
-      "„masa" = piesă de mobilier; „mașa" = diminutivul numelui Maria",
-      ["sunt sinonime", "„masa" este plural, „mașa" este singular", "nu există nicio diferență de sens"],
+      "Care este diferența de sens între „masa” și „mașa”?",
+      "„masa” = piesă de mobilier; „mașa” = diminutivul numelui Maria",
+      ["sunt sinonime", "„masa” este plural, „mașa” este singular", "nu există nicio diferență de sens"],
       rng),
 
     createMCQ(T, S,
@@ -105,15 +105,15 @@ function gen_semne_diacritice_c5(seed: number): CurriculumMCQ[] {
       rng),
 
     createMCQ(T, S,
-      "Ce diferență de sens există între „tata" și „tata" scris cu diacritice „tată"?",
-      "„tată" = părintele (cu ă la sfârșit), „tata" = forma de adresare afectuoasă",
-      ["nu există nicio diferență", "„tata" este corect, „tată" nu există", "„tata" înseamnă mama"],
+      "Ce diferență de sens există între „tata” și „tata” scris cu diacritice „tată”?",
+      "„tată” = părintele (cu ă la sfârșit), „tata” = forma de adresare afectuoasă",
+      ["nu există nicio diferență", "„tata” este corect, „tată” nu există", "„tata” înseamnă mama"],
       rng),
 
     createMCQ(T, S,
-      "Litera „ș" (s cu virgulă dedesubt) se pronunță ca:",
-      "sh (ca în engleză „shoe")",
-      ["s simplu (ca în „soare")", "z (ca în „zero")", "j (ca în „joc\")"],
+      "Litera „ș” (s cu virgulă dedesubt) se pronunță ca:",
+      "sh (ca în engleză „shoe”)",
+      ["s simplu (ca în „soare”)", "z (ca în „zero”)", "j (ca în „joc\”)"],
       rng),
 
     createMCQ(T, S,
@@ -164,7 +164,7 @@ function gen_scrierea_compuselor_c5(seed: number): CurriculumMCQ[] {
       rng),
 
     createMCQ(T, S,
-      "Un „bloc-turn" este un tip de clădire. Cum se scrie corect?",
+      "Un „bloc-turn” este un tip de clădire. Cum se scrie corect?",
       "bloc-turn",
       ["blocturn", "bloc turn", "Block-turn"],
       rng),
@@ -187,21 +187,21 @@ function gen_cratima_forme_c5(seed: number): CurriculumMCQ[] {
 
   const questions: CurriculumMCQ[] = [
     createMCQ(T, S,
-      "Care este scrierea corectă a propoziției cu verbul „a se duce" la perfect compus?",
+      "Care este scrierea corectă a propoziției cu verbul „a se duce” la perfect compus?",
       "S-a dus la piață.",
       ["Sa dus la piață.", "s-a Dus la piață.", "Sa-dus la piață."],
       rng),
 
     createMCQ(T, S,
-      "„La" (prepoziție) vs. „l-a" (pronume + verb auxiliar): Care propoziție este corectă?",
+      "„La” (prepoziție) vs. „l-a” (pronume + verb auxiliar): Care propoziție este corectă?",
       "L-a chemat la el.",
       ["La chemat la el.", "l-a chemat La el.", "La chemat La el."],
       rng),
 
     createMCQ(T, S,
-      "Cum deosebim „s-a" (pronume reflexiv + verb auxiliar) de „sa" (adjectiv pronominal posesiv)?",
-      "„s-a" = el/ea a făcut ceva (ex: s-a dus); „sa" = al/a lui/ei (ex: mama sa)",
-      ["Nu există nicio diferență", "„sa" este întotdeauna greșit", "„s-a" se folosește numai la plural"],
+      "Cum deosebim „s-a” (pronume reflexiv + verb auxiliar) de „sa” (adjectiv pronominal posesiv)?",
+      "„s-a” = el/ea a făcut ceva (ex: s-a dus); „sa” = al/a lui/ei (ex: mama sa)",
+      ["Nu există nicio diferență", "„sa” este întotdeauna greșit", "„s-a” se folosește numai la plural"],
       rng),
 
     createMCQ(T, S,
@@ -211,21 +211,21 @@ function gen_cratima_forme_c5(seed: number): CurriculumMCQ[] {
       rng),
 
     createMCQ(T, S,
-      "„Nea" (omul de zăpadă sau apelativ familiar) vs. „ne-a" (pronume + verb). Care este corect?",
+      "„Nea” (omul de zăpadă sau apelativ familiar) vs. „ne-a” (pronume + verb). Care este corect?",
       "Ne-a surprins cu un cadou. / Nea Ion ne-a salutat.",
       ["Nea surprins cu un cadou.", "Ne-a Ion ne-a salutat.", "Neea surprins cu un cadou."],
       rng),
 
     createMCQ(T, S,
-      "Alegeți varianta corectă: „Ei ___ chemat să mergem cu ei."",
+      "Alegeți varianta corectă: „Ei ___ chemat să mergem cu ei.”",
       "ne-au chemat",
       ["neau chemat", "ne-au-chemat", "neauchemat"],
       rng),
 
     createMCQ(T, S,
-      "De ce se folosește cratima în „i-a dat" (pronume + verb auxiliar)?",
-      "Cratima leagă pronumele neaccentuat „i" de verbul auxiliar „a", marcând pronunția lor împreună",
-      ["Nu se folosește cratimă; se scrie „ia dat\"", "Cratima se pune după orice pronume", "Este o greșeală; se scrie „ia-dat\""],
+      "De ce se folosește cratima în „i-a dat” (pronume + verb auxiliar)?",
+      "Cratima leagă pronumele neaccentuat „i” de verbul auxiliar „a”, marcând pronunția lor împreună",
+      ["Nu se folosește cratimă; se scrie „ia dat\”", "Cratima se pune după orice pronume", "Este o greșeală; se scrie „ia-dat\”"],
       rng),
   ];
 

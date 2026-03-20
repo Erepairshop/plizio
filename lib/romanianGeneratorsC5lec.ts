@@ -54,14 +54,14 @@ export function gen_intentie_autor_c5(seed: number = 42): CurriculumQuestion[] {
 
     createMCQ(T, S,
       "Naratorul la persoana I este caracterizat prin:",
-      "folosirea pronumelor „eu", „mie", „mă" — povestitorul participă la acțiune",
-      ["absența oricărui narator în text", "folosirea pronumelor „el", „ea" — povestitorul este în afara acțiunii", "prezentarea opiniei mai multor personaje simultan"],
+      "folosirea pronumelor „eu”, „mie”, „mă” — povestitorul participă la acțiune",
+      ["absența oricărui narator în text", "folosirea pronumelor „el”, „ea” — povestitorul este în afara acțiunii", "prezentarea opiniei mai multor personaje simultan"],
       rng),
 
     createMCQ(T, S,
       "Naratorul la persoana a III-a se recunoaște prin:",
-      "folosirea pronumelor „el", „ea", „ei" — povestitorul prezintă acțiunea din exterior",
-      ["prezența cuvântului „eu" în fiecare propoziție", "faptul că naratorul este și personaj principal", "lipsa oricăror personaje în text"],
+      "folosirea pronumelor „el”, „ea”, „ei” — povestitorul prezintă acțiunea din exterior",
+      ["prezența cuvântului „eu” în fiecare propoziție", "faptul că naratorul este și personaj principal", "lipsa oricăror personaje în text"],
       rng),
 
     createMCQ(T, S,
@@ -83,7 +83,7 @@ export function gen_argumente_c5(seed: number = 42): CurriculumQuestion[] {
 
   const pool: CurriculumMCQ[] = [
     createMCQ(T, S,
-      "Ce rol are cuvântul „deoarece" într-un text argumentativ?",
+      "Ce rol are cuvântul „deoarece” într-un text argumentativ?",
       "introduce un argument (o cauză)",
       ["introduce o concluzie", "introduce un contraargument", "introduce o enumerație"],
       rng),
@@ -95,7 +95,7 @@ export function gen_argumente_c5(seed: number = 42): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Cuvântul „totuși" într-un text argumentativ introduce, de obicei:",
+      "Cuvântul „totuși” într-un text argumentativ introduce, de obicei:",
       "un contraargument sau o idee opusă celei anterioare",
       ["o cauză a situației descrise", "o concluzie finală", "o enumerare de fapte"],
       rng),
@@ -107,7 +107,7 @@ export function gen_argumente_c5(seed: number = 42): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Expresia „în concluzie" semnalează:",
+      "Expresia „în concluzie” semnalează:",
       "sfârșitul raționamentului și rezumarea ideii principale",
       ["începutul unui contraargument", "introducerea unui exemplu nou", "o întrebare retorică"],
       rng),
@@ -149,7 +149,7 @@ export function gen_inferente_c5(seed: number = 42): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Citești: „Maria a intrat în casă udă până la piele și tremurând." Ce poți deduce?",
+      "Citești: „Maria a intrat în casă udă până la piele și tremurând.” Ce poți deduce?",
       "Afară ploua și Maria a stat în ploaie",
       ["Maria s-a scăldat în mare", "Maria a plâns mult timp", "Maria a vărsat apă peste ea din greșeală"],
       rng),
@@ -191,13 +191,13 @@ export function gen_timp_spatiu_c5(seed: number = 42): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Cuvintele „în acea dimineață de toamnă" sunt indici:",
+      "Cuvintele „în acea dimineață de toamnă” sunt indici:",
       "temporali — arată când se petrece acțiunea",
       ["spațiali — arată unde se petrece acțiunea", "cauzali — explică de ce se petrece acțiunea", "finali — arată scopul acțiunii"],
       rng),
 
     createMCQ(T, S,
-      "Expresia „pe malul râului, la marginea satului" reprezintă un indiciu:",
+      "Expresia „pe malul râului, la marginea satului” reprezintă un indiciu:",
       "spațial — localizează acțiunea",
       ["temporal — precizează momentul acțiunii", "cauzal — explică motivul acțiunii", "modal — arată cum se desfășoară acțiunea"],
       rng),
@@ -209,9 +209,9 @@ export function gen_timp_spatiu_c5(seed: number = 42): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Citești: „A doua zi, în zori, eroii au pornit spre cetate." Identifică indicii temporali:",
-      "„A doua zi" și „în zori"",
-      ["„eroii" și „cetate"", "„au pornit" și „spre"", "„cetate" și „A doua zi""],
+      "Citești: „A doua zi, în zori, eroii au pornit spre cetate.” Identifică indicii temporali:",
+      "„A doua zi” și „în zori”",
+      ["„eroii” și „cetate”", "„au pornit” și „spre”", "„cetate” și „A doua zi”"],
       rng),
   ];
 

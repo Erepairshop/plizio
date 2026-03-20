@@ -215,7 +215,7 @@ export function gen_personaje_caracterizare_c5(seed: number): CurriculumQuestion
       rng),
 
     createMCQ(T, S,
-      "Propoziția „Era un om înalt, cu privire blândă și zâmbet cald." reprezintă o caracterizare:",
+      "Propoziția „Era un om înalt, cu privire blândă și zâmbet cald.” reprezintă o caracterizare:",
       "directă, fizică și morală, realizată de narator",
       ["indirectă, prin faptele personajului", "directă, realizată de alt personaj", "indirectă, prin vorbele personajului"],
       rng),

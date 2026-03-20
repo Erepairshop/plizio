@@ -176,7 +176,7 @@ const PRONUME_RELATIVE = [
 
 export const C6P1_Generators = {
   // SUBSTANTIVE — DECLINARE COMPLETĂ
-  subst_declinare: (seed: number): CurriculumQuestion[] => {
+  subst_declinare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -206,7 +206,7 @@ export const C6P1_Generators = {
   },
 
   // SUBSTANTIVE — FUNCȚII SINTACTICE
-  subst_functii_sintactice: (seed: number): CurriculumQuestion[] => {
+  subst_functii_sintactice: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -225,7 +225,7 @@ export const C6P1_Generators = {
   },
 
   // SUBSTANTIVE — SUBSTANTIVE DEFECTIVE
-  subst_defective: (seed: number): CurriculumQuestion[] => {
+  subst_defective: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -244,7 +244,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME PERSONALE
-  pronume_personale: (seed: number): CurriculumQuestion[] => {
+  pronume_personale: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -263,7 +263,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME DEMONSTRATIVE
-  pronume_demonstrative: (seed: number): CurriculumQuestion[] => {
+  pronume_demonstrative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -284,7 +284,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME POSESIVE
-  pronume_posesive: (seed: number): CurriculumQuestion[] => {
+  pronume_posesive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -303,7 +303,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME REFLEXIVE
-  pronume_reflexive: (seed: number): CurriculumQuestion[] => {
+  pronume_reflexive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -322,7 +322,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME INTEROGATIVE
-  pronume_interogative: (seed: number): CurriculumQuestion[] => {
+  pronume_interogative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -341,7 +341,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME NEHOTĂRÂTE
-  pronume_nehotarate: (seed: number): CurriculumQuestion[] => {
+  pronume_nehotarate: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -360,7 +360,7 @@ export const C6P1_Generators = {
   },
 
   // PRONUME — PRONUME RELATIVE
-  pronume_relative: (seed: number): CurriculumQuestion[] => {
+  pronume_relative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {

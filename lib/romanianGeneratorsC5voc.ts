@@ -38,7 +38,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q2 — bancă (instituție)
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „bancă" din propoziția „Am depus bani la bancă." are sensul:",
+    "Cuvântul „bancă” din propoziția „Am depus bani la bancă.” are sensul:",
     "instituție financiară",
     ["mobilă pentru șezut", "școală", "loc de odihnă în parc"],
     rng
@@ -46,7 +46,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q3 — bancă (mobilă)
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „bancă" din „Copiii stau pe bancă în clasă." are sensul:",
+    "Cuvântul „bancă” din „Copiii stau pe bancă în clasă.” are sensul:",
     "mobilă pentru șezut",
     ["instituție financiară", "ghișeu", "depozit"],
     rng
@@ -54,7 +54,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q4 — cap (parte a corpului vs. șef)
   questions.push(createMCQ(topic, subtopic,
-    "În propoziția „El este capul familiei.", cuvântul „cap" are sensul:",
+    "În propoziția „El este capul familiei.”, cuvântul „cap” are sensul:",
     "conducător, șef",
     ["parte a corpului", "obiect rotund", "vârf de munte"],
     rng
@@ -62,7 +62,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q5 — ochi (sens figurat)
   questions.push(createMCQ(topic, subtopic,
-    "Care este sensul cuvântului „ochi" în expresia „ochii acului"?",
+    "Care este sensul cuvântului „ochi” în expresia „ochii acului”?",
     "orificiul prin care trece ața",
     ["organ al văzului", "fereastră", "bob de rouă"],
     rng
@@ -70,7 +70,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q6 — sens propriu de bază
   questions.push(createMCQ(topic, subtopic,
-    "Care dintre următoarele reprezintă sensul propriu de bază al cuvântului „lumină"?",
+    "Care dintre următoarele reprezintă sensul propriu de bază al cuvântului „lumină”?",
     "energia radiantă care face lucrurile vizibile",
     ["persoană inteligentă", "speranță", "fericire"],
     rng
@@ -78,7 +78,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
 
   // Q7 — identificare context polisemic
   questions.push(createMCQ(topic, subtopic,
-    "În care dintre propoziții cuvântul „masă" are sensul de „cantitate mare"?",
+    "În care dintre propoziții cuvântul „masă” are sensul de „cantitate mare”?",
     "O masă de nori acoperea cerul.",
     ["Masa este pusă pentru cină.", "Ne-am așezat la masă.", "Am cumpărat o masă nouă."],
     rng
@@ -105,7 +105,7 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q2 — leu
   questions.push(createMCQ(topic, subtopic,
-    "Care pereche reprezintă omonime ale cuvântului „leu"?",
+    "Care pereche reprezintă omonime ale cuvântului „leu”?",
     "animal sălbatic / monedă românească",
     ["animal sălbatic / animal mic", "monedă / metal prețios", "leu din Africa / leu din Asia"],
     rng
@@ -113,7 +113,7 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q3 — lac
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „lac" are două sensuri omonime. Care sunt acestea?",
+    "Cuvântul „lac” are două sensuri omonime. Care sunt acestea?",
     "întindere de apă / substanță pentru suprafețe",
     ["baltă mică / baltă mare", "apă dulce / apă sărată", "râu lent / râu rapid"],
     rng
@@ -121,7 +121,7 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q4 — corn
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „corn" din „Copilul mănâncă un corn." se referă la:",
+    "Cuvântul „corn” din „Copilul mănâncă un corn.” se referă la:",
     "produs de panificație",
     ["instrument muzical", "parte a corpului unui animal", "vârf de munte"],
     rng
@@ -137,7 +137,7 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q6 — identificare omonim în propoziție
   questions.push(createMCQ(topic, subtopic,
-    "În care propoziție „broască" are sensul de „dispozitiv de închidere"?",
+    "În care propoziție „broască” are sensul de „dispozitiv de închidere”?",
     "Cheia nu mai intră în broasca ușii.",
     ["Broasca sare din iarbă în apă.", "Am văzut o broască pe malul lacului.", "Broasca coaxă toată noaptea."],
     rng
@@ -164,7 +164,7 @@ function gen_paronimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q2 — original vs. originar
   questions.push(createMCQ(topic, subtopic,
-    "Care este sensul corect al cuvântului „original" (nu „originar")?",
+    "Care este sensul corect al cuvântului „original” (nu „originar”)?",
     "nou, inedit, care se deosebește de altele",
     ["care provine dintr-un loc anume", "care este vechi și respectat", "care aparține unui grup etnic"],
     rng
@@ -172,15 +172,15 @@ function gen_paronimia_c5(seed: number): CurriculumQuestion[] {
 
   // Q3 — compliment vs. complement
   questions.push(createMCQ(topic, subtopic,
-    "Care dintre propoziții folosește corect cuvântul „compliment"?",
+    "Care dintre propoziții folosește corect cuvântul „compliment”?",
     "I-a făcut un compliment pentru rochia frumoasă.",
-    ["Complementul direct răspunde la întrebarea „pe cine?".", "Complementul este o parte de propoziție.", "Complimentul verbului este obligatoriu."],
+    ["Complementul direct răspunde la întrebarea „pe cine?”.", "Complementul este o parte de propoziție.", "Complimentul verbului este obligatoriu."],
     rng
   ));
 
   // Q4 — oral vs. orar
   questions.push(createMCQ(topic, subtopic,
-    "Ce înseamnă cuvântul „oral"?",
+    "Ce înseamnă cuvântul „oral”?",
     "exprimat prin vorbire, cu gura",
     ["legat de ore și program", "legat de aur", "legat de ureche"],
     rng
@@ -189,7 +189,7 @@ function gen_paronimia_c5(seed: number): CurriculumQuestion[] {
   // Q5 — a ști vs. a sta
   questions.push(createMCQ(topic, subtopic,
     "Care propoziție conține un paronim folosit greșit?",
-    "„Stiu că mâine este vacanță." (corect: știu)",
+    "„Stiu că mâine este vacanță.” (corect: știu)",
     ["Știu că mâine este vacanță.", "Stau pe scaun.", "Știu să citesc bine."],
     rng
   ));
@@ -223,7 +223,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q2 — a-și da seama (locuțiune verbală)
   questions.push(createMCQ(topic, subtopic,
-    "Ce înseamnă locuțiunea verbală „a-și da seama"?",
+    "Ce înseamnă locuțiunea verbală „a-și da seama”?",
     "a înțelege, a conștientiza",
     ["a număra ceva", "a da ceva cuiva", "a se odihni"],
     rng
@@ -231,7 +231,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q3 — a lua în seamă
   questions.push(createMCQ(topic, subtopic,
-    "Ce înseamnă locuțiunea verbală „a lua în seamă"?",
+    "Ce înseamnă locuțiunea verbală „a lua în seamă”?",
     "a considera important, a ține cont de ceva",
     ["a ridica un obiect", "a citi cu atenție", "a număra lucruri"],
     rng
@@ -239,7 +239,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q4 — bun simț (locuțiune substantivală)
   questions.push(createMCQ(topic, subtopic,
-    "„Bun simț" este o locuțiune de tip:",
+    "„Bun simț” este o locuțiune de tip:",
     "substantivală (funcționează ca un substantiv)",
     ["verbală", "adjectivală", "adverbială"],
     rng
@@ -247,7 +247,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q5 — de îndată (locuțiune adverbială)
   questions.push(createMCQ(topic, subtopic,
-    "Ce înseamnă locuțiunea adverbială „de îndată"?",
+    "Ce înseamnă locuțiunea adverbială „de îndată”?",
     "imediat, fără întârziere",
     ["după mult timp", "uneori, din când în când", "cu grijă, cu atenție"],
     rng
@@ -255,7 +255,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q6 — în toată firea (locuțiune adjectivală)
   questions.push(createMCQ(topic, subtopic,
-    "Locuțiunea „în toată firea" descrie o persoană:",
+    "Locuțiunea „în toată firea” descrie o persoană:",
     "matură, echilibrată, serioasă",
     ["înaltă și puternică", "veselă și jucăușă", "supărată și tristă"],
     rng
@@ -263,8 +263,8 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
 
   // Q7 — identificare locuțiune în propoziție
   questions.push(createMCQ(topic, subtopic,
-    "În propoziția „A luat-o razna după accident.", „a luat-o razna" este:",
-    "locuțiune verbală cu sensul de „a înnebuni, a-și pierde mințile"",
+    "În propoziția „A luat-o razna după accident.”, „a luat-o razna” este:",
+    "locuțiune verbală cu sensul de „a înnebuni, a-și pierde mințile”",
     ["verb la trecut compus", "expresie poetică fără sens precis", "locuțiune adverbială"],
     rng
   ));
@@ -282,7 +282,7 @@ function gen_argou_regional_c5(seed: number): CurriculumQuestion[] {
 
   // Q1 — argou definiție
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „mișto" este un exemplu de:",
+    "Cuvântul „mișto” este un exemplu de:",
     "cuvânt argotic (din argou)",
     ["neologism", "arhaism", "regionalism"],
     rng
@@ -315,14 +315,14 @@ function gen_argou_regional_c5(seed: number): CurriculumQuestion[] {
   // Q5 — registru formal vs. informal
   questions.push(createMCQ(topic, subtopic,
     "Care propoziție folosește un registru formal, potrivit pentru o scrisoare oficială?",
-    "„Vă rog să binevoiți a-mi aproba cererea."",
-    ["„Bă, ajutor-mă și pe mine!"", "„Ok, merge și-așa."", "„Super, mulțumesc fain!""],
+    "„Vă rog să binevoiți a-mi aproba cererea.”",
+    ["„Bă, ajutor-mă și pe mine!”", "„Ok, merge și-așa.”", "„Super, mulțumesc fain!”"],
     rng
   ));
 
   // Q6 — identificare tip de cuvânt
   questions.push(createMCQ(topic, subtopic,
-    "Cuvântul „păpușoi" (folosit în Moldova pentru „porumb") este:",
+    "Cuvântul „păpușoi” (folosit în Moldova pentru „porumb”) este:",
     "regionalism",
     ["arhaism", "neologism", "cuvânt argotic"],
     rng

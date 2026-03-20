@@ -29,49 +29,49 @@ export function gen_alte_parti_c4(seed: number = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „ieri" din propoziția „Ieri a plouat."?",
+    "Ce parte de vorbire este cuvântul „ieri” din propoziția „Ieri a plouat.”?",
     "adverb de timp",
     ["adverb de loc", "substantiv", "conjuncție"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „acolo" din propoziția „Mergem acolo mâine."?",
+    "Ce parte de vorbire este cuvântul „acolo” din propoziția „Mergem acolo mâine.”?",
     "adverb de loc",
     ["adverb de timp", "prepoziție", "pronume"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „frumos" din propoziția „Cântă frumos."?",
+    "Ce parte de vorbire este cuvântul „frumos” din propoziția „Cântă frumos.”?",
     "adverb de mod",
     ["adjectiv", "adverb de timp", "substantiv"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „și" din propoziția „Maria și Ion vin la școală."?",
+    "Ce parte de vorbire este cuvântul „și” din propoziția „Maria și Ion vin la școală.”?",
     "conjuncție",
     ["prepoziție", "adverb", "pronume"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „pe" din propoziția „Cartea este pe masă."?",
+    "Ce parte de vorbire este cuvântul „pe” din propoziția „Cartea este pe masă.”?",
     "prepoziție",
     ["conjuncție", "adverb de loc", "adjectiv"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce tip de numeral este „al treilea" din propoziția „El este al treilea în rând."?",
+    "Ce tip de numeral este „al treilea” din propoziția „El este al treilea în rând.”?",
     "numeral ordinal",
     ["numeral cardinal", "adjectiv", "adverb"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de vorbire este cuvântul „deoarece" din propoziția „Nu a venit deoarece era bolnav."?",
+    "Ce parte de vorbire este cuvântul „deoarece” din propoziția „Nu a venit deoarece era bolnav.”?",
     "conjuncție",
     ["prepoziție", "adverb de mod", "pronume"],
     rng
@@ -89,28 +89,28 @@ export function gen_subiect_predicat_c4(seed: number = 42): CurriculumQuestion[]
   const questions: CurriculumMCQ[] = [];
 
   questions.push(createMCQ(T, S,
-    "Care este subiectul din propoziția „Copiii se joacă în curte."?",
+    "Care este subiectul din propoziția „Copiii se joacă în curte.”?",
     "Copiii",
     ["se joacă", "în curte", "curte"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Care este predicatul din propoziția „Mama gătește mâncare bună."?",
+    "Care este predicatul din propoziția „Mama gătește mâncare bună.”?",
     "gătește",
     ["Mama", "mâncare", "bună"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce fel de predicat este în propoziția „Florea este frumoasă."?",
+    "Ce fel de predicat este în propoziția „Florea este frumoasă.”?",
     "predicat nominal",
     ["predicat verbal", "subiect", "atribut"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce fel de predicat este în propoziția „Câinele latră tare."?",
+    "Ce fel de predicat este în propoziția „Câinele latră tare.”?",
     "predicat verbal",
     ["predicat nominal", "complement", "atribut"],
     rng
@@ -124,14 +124,14 @@ export function gen_subiect_predicat_c4(seed: number = 42): CurriculumQuestion[]
   ));
 
   questions.push(createMCQ(T, S,
-    "Care este subiectul din propoziția „Păsările cântă dimineața."?",
+    "Care este subiectul din propoziția „Păsările cântă dimineața.”?",
     "Păsările",
     ["cântă", "dimineața", "frumos"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „elev" în „Ion este un elev silitor."?",
+    "Ce parte de propoziție este „elev” în „Ion este un elev silitor.”?",
     "nume predicativ",
     ["subiect", "complement direct", "atribut"],
     rng
@@ -149,7 +149,7 @@ export function gen_atribut_c4(seed: number = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este cuvântul „frumos" din „Am văzut un film frumos."?",
+    "Ce parte de propoziție este cuvântul „frumos” din „Am văzut un film frumos.”?",
     "atribut adjectival",
     ["complement direct", "subiect", "predicat"],
     rng
@@ -163,14 +163,14 @@ export function gen_atribut_c4(seed: number = 42): CurriculumQuestion[] {
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „fetei" din „Cartea fetei este nouă."?",
+    "Ce parte de propoziție este „fetei” din „Cartea fetei este nouă.”?",
     "atribut substantival",
     ["subiect", "complement indirect", "predicat"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „roșii" din „Am cumpărat mere roșii."?",
+    "Ce parte de propoziție este „roșii” din „Am cumpărat mere roșii.”?",
     "atribut adjectival",
     ["complement direct", "atribut substantival", "predicat nominal"],
     rng
@@ -184,7 +184,7 @@ export function gen_atribut_c4(seed: number = 42): CurriculumQuestion[] {
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „de lemn" din „Am o casă de lemn."?",
+    "Ce parte de propoziție este „de lemn” din „Am o casă de lemn.”?",
     "atribut substantival",
     ["complement direct", "atribut adjectival", "complement circumstanțial de loc"],
     rng
@@ -202,7 +202,7 @@ export function gen_complement_c4(seed: number = 42): CurriculumQuestion[] {
   const questions: CurriculumMCQ[] = [];
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „pe Maria" din „Am văzut-o pe Maria."?",
+    "Ce parte de propoziție este „pe Maria” din „Am văzut-o pe Maria.”?",
     "complement direct",
     ["complement indirect", "atribut", "subiect"],
     rng
@@ -216,28 +216,28 @@ export function gen_complement_c4(seed: number = 42): CurriculumQuestion[] {
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce parte de propoziție este „Mariei" din „I-am dat Mariei o carte."?",
+    "Ce parte de propoziție este „Mariei” din „I-am dat Mariei o carte.”?",
     "complement indirect",
     ["complement direct", "subiect", "atribut substantival"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce tip de complement este „acasă" din „Mergem acasă după școală."?",
+    "Ce tip de complement este „acasă” din „Mergem acasă după școală.”?",
     "complement circumstanțial de loc",
     ["complement circumstanțial de timp", "complement direct", "complement indirect"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce tip de complement este „mâine" din „Plecăm mâine în excursie."?",
+    "Ce tip de complement este „mâine” din „Plecăm mâine în excursie.”?",
     "complement circumstanțial de timp",
     ["complement circumstanțial de loc", "complement direct", "atribut"],
     rng
   ));
 
   questions.push(createMCQ(T, S,
-    "Ce tip de complement este „repede" din „Aleargă repede spre casă."?",
+    "Ce tip de complement este „repede” din „Aleargă repede spre casă.”?",
     "complement circumstanțial de mod",
     ["complement circumstanțial de timp", "complement direct", "complement indirect"],
     rng

@@ -28,23 +28,23 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
   // 8 mini-passages, 2 questions each (one explicit, one implicit) → 16 total, pick 15
   const passages = [
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Maria s-a uitat pe fereastră și a oftat adânc. Afară ploua torențial."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Maria s-a uitat pe fereastră și a oftat adânc. Afară ploua torențial.”?",
       explicitA: "Afară ploua torențial.",
       explicitW: ["Maria era tristă.", "Maria voia să iasă afară.", "Era o zi însorită."],
-      implicitQ: "Ce putem DEDUCE din textul: „Maria s-a uitat pe fereastră și a oftat adânc. Afară ploua torențial."?",
+      implicitQ: "Ce putem DEDUCE din textul: „Maria s-a uitat pe fereastră și a oftat adânc. Afară ploua torențial.”?",
       implicitA: "Maria era tristă sau dezamăgită.",
       implicitW: ["Maria voia să citească.", "Afară era zăpadă.", "Maria era bucuroasă."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Ion a intrat în clasă cu capul plecat și s-a așezat în bancă fără să scoată niciun cuvânt."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Ion a intrat în clasă cu capul plecat și s-a așezat în bancă fără să scoată niciun cuvânt.”?",
       explicitA: "Ion s-a așezat în bancă fără să scoată niciun cuvânt.",
       explicitW: ["Ion era supărat.", "Ion primise o notă mică.", "Ion era obosit."],
-      implicitQ: "Ce putem DEDUCE despre Ion din textul: „Ion a intrat în clasă cu capul plecat și s-a așezat în bancă fără să scoată niciun cuvânt."?",
+      implicitQ: "Ce putem DEDUCE despre Ion din textul: „Ion a intrat în clasă cu capul plecat și s-a așezat în bancă fără să scoată niciun cuvânt.”?",
       implicitA: "Ion era trist sau îngrijorat de ceva.",
       implicitW: ["Ion era fericit că a venit la școală.", "Ion dorea să doarmă.", "Ion era bolnav."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Ana a alergat spre casă cât o țineau picioarele. Inima îi bătea cu putere."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Ana a alergat spre casă cât o țineau picioarele. Inima îi bătea cu putere.”?",
       explicitA: "Ana a alergat spre casă cât o țineau picioarele.",
       explicitW: ["Ana era speriată.", "Ana se grăbea la școală.", "Ana era veselă."],
       implicitQ: "Ce putem DEDUCE din comportamentul Anei în textul dat?",
@@ -52,7 +52,7 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
       implicitW: ["Ana făcea sport.", "Ana era fericită.", "Ana se plimba liniștită."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Bunica a pus farfuria pe masă și a zâmbit larg când a văzut că nepoții au mâncat tot."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Bunica a pus farfuria pe masă și a zâmbit larg când a văzut că nepoții au mâncat tot.”?",
       explicitA: "Bunica a pus farfuria pe masă.",
       explicitW: ["Bunica era mândră de nepoți.", "Bunica gătise ciorba preferată.", "Bunica era obosită."],
       implicitQ: "Ce putem DEDUCE despre starea bunicii din textul dat?",
@@ -60,15 +60,15 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
       implicitW: ["Bunica era supărată că nu a mai rămas mâncare.", "Bunica era tristă.", "Bunica voia să plece."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Câinele s-a ascuns sub pat și tremura. Afară se auzeau tunete puternice."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Câinele s-a ascuns sub pat și tremura. Afară se auzeau tunete puternice.”?",
       explicitA: "Câinele s-a ascuns sub pat și tremura.",
       explicitW: ["Câinele era speriat de tunete.", "Câinele era bolnav.", "Câinele se odihnea."],
-      implicitQ: "Ce putem DEDUCE despre câine din textul: „Câinele s-a ascuns sub pat și tremura. Afară se auzeau tunete puternice."?",
+      implicitQ: "Ce putem DEDUCE despre câine din textul: „Câinele s-a ascuns sub pat și tremura. Afară se auzeau tunete puternice.”?",
       implicitA: "Câinele era speriat de tunetele de afară.",
       implicitW: ["Câinele se juca.", "Câinele era fericit.", "Câinele voia să mănânce."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Elevii au aplaudat îndelung. Profesoara a roșit și a mulțumit cu voce tremurândă."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Elevii au aplaudat îndelung. Profesoara a roșit și a mulțumit cu voce tremurândă.”?",
       explicitA: "Elevii au aplaudat îndelung.",
       explicitW: ["Profesoara era emoționată.", "Profesoara primise un premiu.", "Elevii erau bucuroși de vacanță."],
       implicitQ: "Ce putem DEDUCE despre profesoară din textul dat?",
@@ -76,7 +76,7 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
       implicitW: ["Profesoara era supărată.", "Profesoara voia să plece.", "Profesoara era obosită."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Mihai a citit scrisoarea de două ori, apoi a pliat-o cu grijă și a pus-o în buzunar."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Mihai a citit scrisoarea de două ori, apoi a pliat-o cu grijă și a pus-o în buzunar.”?",
       explicitA: "Mihai a citit scrisoarea de două ori.",
       explicitW: ["Scrisoarea era importantă pentru Mihai.", "Mihai era fericit.", "Mihai a aruncat scrisoarea."],
       implicitQ: "Ce putem DEDUCE despre Mihai din gesturile lui față de scrisoare?",
@@ -84,7 +84,7 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
       implicitW: ["Mihai nu a citit scrisoarea.", "Mihai era nepăsător.", "Mihai voia să trimită scrisoarea."],
     },
     {
-      explicitQ: "Ce informație este EXPLICITĂ în textul: „Copiii au tăcut brusc când directoarea a intrat în sală. Toți s-au ridicat în picioare."?",
+      explicitQ: "Ce informație este EXPLICITĂ în textul: „Copiii au tăcut brusc când directoarea a intrat în sală. Toți s-au ridicat în picioare.”?",
       explicitA: "Toți copiii s-au ridicat în picioare.",
       explicitW: ["Copiii îi respectau pe directoare.", "Copiii se temeau de directoare.", "Directoarea era severă."],
       implicitQ: "Ce putem DEDUCE despre relația copiilor cu directoarea din textul dat?",
@@ -106,8 +106,8 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
   const conceptQ: CurriculumMCQ[] = [
     createMCQ(T, S, "Informația EXPLICITĂ dintr-un text este:", "scrisă direct în text, fără a trebui dedusă", ["dedusă din context", "o părere a cititorului", "ascunsă între rânduri"], rng),
     createMCQ(T, S, "Informația IMPLICITĂ dintr-un text este:", "dedusă din context, nu scrisă direct", ["scrisă cuvânt cu cuvânt", "titlul textului", "prima propoziție"], rng),
-    createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație EXPLICITĂ?", "„Ce a făcut personajul în prima scenă?"", ["„Cum se simțea personajul?"", "„De ce a reacționat astfel?"", "„Ce mesaj transmite textul?""], rng),
-    createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație IMPLICITĂ?", "„Cum se simțea personajul fără ca autorul să spună direct?"", ["„Cum se numește personajul?"", "„Unde s-a petrecut acțiunea?"", "„Câte personaje sunt în text?""], rng),
+    createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație EXPLICITĂ?", "„Ce a făcut personajul în prima scenă?”", ["„Cum se simțea personajul?”", "„De ce a reacționat astfel?”", "„Ce mesaj transmite textul?”"], rng),
+    createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație IMPLICITĂ?", "„Cum se simțea personajul fără ca autorul să spună direct?”", ["„Cum se numește personajul?”", "„Unde s-a petrecut acțiunea?”", "„Câte personaje sunt în text?”"], rng),
   ];
 
   let ci = 0;
@@ -128,9 +128,9 @@ function genPersonaje(seed: number): CurriculumQuestion[] {
 
   const allQ: CurriculumMCQ[] = [
     // Direct vs indirect characterization
-    createMCQ(T, S, "Dacă autorul scrie „Ion era harnic și cinstit", aceasta este caracterizare:", "directă", ["indirectă", "prin fapte", "prin reacțiile altora"], rng),
+    createMCQ(T, S, "Dacă autorul scrie „Ion era harnic și cinstit”, aceasta este caracterizare:", "directă", ["indirectă", "prin fapte", "prin reacțiile altora"], rng),
     createMCQ(T, S, "Caracterizarea INDIRECTĂ a unui personaj se face prin:", "faptele, vorbele și gândurile personajului", ["ce spune autorul direct despre personaj", "descrierea înfățișării fizice de către narator", "titlul operei"], rng),
-    createMCQ(T, S, "„Maria era blândă și harnică" – aceasta este caracterizare:", "directă, pentru că autorul spune direct calitățile", ["indirectă, prin fapte", "prin reacțiile altor personaje", "portret fizic"], rng),
+    createMCQ(T, S, "„Maria era blândă și harnică” – aceasta este caracterizare:", "directă, pentru că autorul spune direct calitățile", ["indirectă, prin fapte", "prin reacțiile altor personaje", "portret fizic"], rng),
     createMCQ(T, S, "Când aflăm că un personaj e bun deoarece îi ajută pe cei săraci, aceasta este caracterizare:", "indirectă (prin fapte)", ["directă", "prin portret moral explicit", "prin titlu"], rng),
     createMCQ(T, S, "Caracterizarea prin reacțiile altor personaje face parte din caracterizarea:", "indirectă", ["directă", "fizică", "titulară"], rng),
     // Protagonist vs antagonist
@@ -140,8 +140,8 @@ function genPersonaje(seed: number): CurriculumQuestion[] {
     // Physical vs moral portrait
     createMCQ(T, S, "Portretul FIZIC al unui personaj descrie:", "înfățișarea (față, ochi, păr, statură)", ["caracterul și valorile morale", "faptele personajului", "relațiile cu alte personaje"], rng),
     createMCQ(T, S, "Portretul MORAL al unui personaj descrie:", "calitățile și defectele de caracter", ["culoarea ochilor și a părului", "vârsta și înălțimea", "hainele personajului"], rng),
-    createMCQ(T, S, "„Avea ochi albaștri și păr creț, iar zâmbetul îi lumina fața" – acesta este portret:", "fizic", ["moral", "indirect prin fapte", "al antagonistului"], rng),
-    createMCQ(T, S, "„Era cinstit, milostiv și întotdeauna îi ajuta pe cei în nevoie" – acesta este portret:", "moral", ["fizic", "direct al înfățișării", "al antagonistului"], rng),
+    createMCQ(T, S, "„Avea ochi albaștri și păr creț, iar zâmbetul îi lumina fața” – acesta este portret:", "fizic", ["moral", "indirect prin fapte", "al antagonistului"], rng),
+    createMCQ(T, S, "„Era cinstit, milostiv și întotdeauna îi ajuta pe cei în nevoie” – acesta este portret:", "moral", ["fizic", "direct al înfățișării", "al antagonistului"], rng),
     // Additional characterization concepts
     createMCQ(T, S, "Cum se numește caracterizarea făcută prin vorbele personajului?", "caracterizare indirectă", ["caracterizare directă", "portret fizic", "monolog narativ"], rng),
     createMCQ(T, S, "Care metodă de caracterizare este DIRECTĂ?", "Autorul afirmă direct că personajul este laș.", ["Personajul fuge când apare pericolul.", "Ceilalți îl evită pe personaj.", "Personajul tace tot timpul."], rng),
@@ -175,9 +175,9 @@ function genTemaMesaj(seed: number): CurriculumQuestion[] {
     createMCQ(T, S, "Care este MESAJUL unui text în care sinceritatea unui copil îi câștigă încrederea celorlalți?", "Sinceritatea este cea mai bună politică.", ["Minciunile ajută uneori.", "Sinceritatea nu contează.", "Copiii nu trebuie să vorbească."], rng),
     // How to identify tema/mesaj
     createMCQ(T, S, "Unde se poate afla de obicei MESAJUL unui text?", "La finalul textului, uneori formulat explicit sau dedus din întâmplări", ["Întotdeauna în titlu", "Numai în primul paragraf", "Numai în descrierile naturii"], rng),
-    createMCQ(T, S, "TEMA unui text poate fi identificată prin întrebarea:", "„Despre ce vorbește textul?"", ["„Ce lecție transmite textul?"", "„Câte personaje sunt?"", "„Cât de lung este textul?""], rng),
-    createMCQ(T, S, "MESAJUL unui text poate fi identificat prin întrebarea:", "„Ce vrea autorul să ne învețe din acest text?"", ["„Despre ce este textul?"", "„Câte paragrafe are textul?"", "„Cum arată personajele?""], rng),
-    createMCQ(T, S, "Un text cu tema „natura" transmite cel mai probabil mesajul:", "Trebuie să ocrotim și să respectăm natura.", ["Natura este periculoasă.", "Nu trebuie să ieșim afară.", "Animalele nu sunt importante."], rng),
+    createMCQ(T, S, "TEMA unui text poate fi identificată prin întrebarea:", "„Despre ce vorbește textul?”", ["„Ce lecție transmite textul?”", "„Câte personaje sunt?”", "„Cât de lung este textul?”"], rng),
+    createMCQ(T, S, "MESAJUL unui text poate fi identificat prin întrebarea:", "„Ce vrea autorul să ne învețe din acest text?”", ["„Despre ce este textul?”", "„Câte paragrafe are textul?”", "„Cum arată personajele?”"], rng),
+    createMCQ(T, S, "Un text cu tema „natura” transmite cel mai probabil mesajul:", "Trebuie să ocrotim și să respectăm natura.", ["Natura este periculoasă.", "Nu trebuie să ieșim afară.", "Animalele nu sunt importante."], rng),
     createMCQ(T, S, "Care dintre următoarele este o TEMĂ (nu un mesaj)?", "Curajul", ["Fii curajos și vei reuși!", "Curajul aduce victoria.", "Orice obstacol poate fi depășit cu curaj."], rng),
   ];
 
@@ -194,26 +194,26 @@ function genFiguriStil(seed: number): CurriculumQuestion[] {
 
   const allQ: CurriculumMCQ[] = [
     // Comparație
-    createMCQ(T, S, "Care figură de stil conține cuvântul „ca" sau „precum"?", "Comparația", ["Metafora", "Personificarea", "Hiperbola"], rng),
-    createMCQ(T, S, "„Ochii ei străluceau ca stelele" este un exemplu de:", "Comparație", ["Metaforă", "Personificare", "Repetiție"], rng),
-    createMCQ(T, S, "„Copilul alerga precum vântul" este:", "Comparație (folosește „precum")", ["Metaforă", "Hiperbolă", "Enumerație"], rng),
-    createMCQ(T, S, "„Vocea ei era dulce ca mierea" conține figura de stil:", "Comparație", ["Metaforă", "Personificare", "Hiperbolă"], rng),
+    createMCQ(T, S, "Care figură de stil conține cuvântul „ca” sau „precum”?", "Comparația", ["Metafora", "Personificarea", "Hiperbola"], rng),
+    createMCQ(T, S, "„Ochii ei străluceau ca stelele” este un exemplu de:", "Comparație", ["Metaforă", "Personificare", "Repetiție"], rng),
+    createMCQ(T, S, "„Copilul alerga precum vântul” este:", "Comparație (folosește „precum”)", ["Metaforă", "Hiperbolă", "Enumerație"], rng),
+    createMCQ(T, S, "„Vocea ei era dulce ca mierea” conține figura de stil:", "Comparație", ["Metaforă", "Personificare", "Hiperbolă"], rng),
     // Metaforă
-    createMCQ(T, S, "„Lacrimile sale erau izvoare de durere" este:", "Metaforă", ["Comparație", "Personificare", "Hiperbolă"], rng),
-    createMCQ(T, S, "Metafora se deosebește de comparație prin:", "absența cuvintelor „ca", „precum", „asemeni"", ["prezența cuvântului „ca"", "descrierea fizică a personajului", "enumerarea obiectelor"], rng),
-    createMCQ(T, S, "„Viața este un drum lung și anevoios" este:", "Metaforă", ["Comparație", "Hiperbolă", "Enumerație"], rng),
+    createMCQ(T, S, "„Lacrimile sale erau izvoare de durere” este:", "Metaforă", ["Comparație", "Personificare", "Hiperbolă"], rng),
+    createMCQ(T, S, "Metafora se deosebește de comparație prin:", "absența cuvintelor „ca”, „precum”, „asemeni”", ["prezența cuvântului „ca”", "descrierea fizică a personajului", "enumerarea obiectelor"], rng),
+    createMCQ(T, S, "„Viața este un drum lung și anevoios” este:", "Metaforă", ["Comparație", "Hiperbolă", "Enumerație"], rng),
     // Personificare
-    createMCQ(T, S, "„Cerul plânge" este o figură de stil numită:", "Personificare", ["Metaforă", "Comparație", "Hiperbolă"], rng),
-    createMCQ(T, S, "„Vântul suspina printre copaci" este:", "Personificare", ["Comparație", "Metaforă", "Enumerație"], rng),
-    createMCQ(T, S, "Personificarea constă în:", "atribuirea unor însușiri omenești unui obiect sau fenomen", ["compararea a două ființe cu „ca"", "exagerarea unei calități", "repetarea unui cuvânt"], rng),
-    createMCQ(T, S, "„Frunzele dansau vesele în vânt" este:", "Personificare", ["Comparație", "Hiperbolă", "Repetiție"], rng),
+    createMCQ(T, S, "„Cerul plânge” este o figură de stil numită:", "Personificare", ["Metaforă", "Comparație", "Hiperbolă"], rng),
+    createMCQ(T, S, "„Vântul suspina printre copaci” este:", "Personificare", ["Comparație", "Metaforă", "Enumerație"], rng),
+    createMCQ(T, S, "Personificarea constă în:", "atribuirea unor însușiri omenești unui obiect sau fenomen", ["compararea a două ființe cu „ca”", "exagerarea unei calități", "repetarea unui cuvânt"], rng),
+    createMCQ(T, S, "„Frunzele dansau vesele în vânt” este:", "Personificare", ["Comparație", "Hiperbolă", "Repetiție"], rng),
     // Hiperbolă
-    createMCQ(T, S, "„Am așteptat o veșnicie" este un exemplu de:", "Hiperbolă", ["Comparație", "Metaforă", "Personificare"], rng),
-    createMCQ(T, S, "Hiperbola este o figură de stil bazată pe:", "exagerare", ["comparație cu „ca"", "repetarea unui cuvânt", "atribuirea de însușiri umane"], rng),
+    createMCQ(T, S, "„Am așteptat o veșnicie” este un exemplu de:", "Hiperbolă", ["Comparație", "Metaforă", "Personificare"], rng),
+    createMCQ(T, S, "Hiperbola este o figură de stil bazată pe:", "exagerare", ["comparație cu „ca”", "repetarea unui cuvânt", "atribuirea de însușiri umane"], rng),
     // Enumerație
-    createMCQ(T, S, "„Câmpuri, dealuri, munți și văi se desfășurau în fața noastră" este:", "Enumerație", ["Metaforă", "Comparație", "Hiperbolă"], rng),
+    createMCQ(T, S, "„Câmpuri, dealuri, munți și văi se desfășurau în fața noastră” este:", "Enumerație", ["Metaforă", "Comparație", "Hiperbolă"], rng),
     // Repetiție
-    createMCQ(T, S, "„Departe, departe, departe era satul lui" conține figura de stil numită:", "Repetiție", ["Enumerație", "Hiperbolă", "Metaforă"], rng),
+    createMCQ(T, S, "„Departe, departe, departe era satul lui” conține figura de stil numită:", "Repetiție", ["Enumerație", "Hiperbolă", "Metaforă"], rng),
   ];
 
   const shuffled = shuffle(allQ, rng);

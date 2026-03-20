@@ -33,7 +33,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q1 — gen substantiv feminin
   qs.push(createMCQ(T, S,
-    "Substantivul „carte" este de gen:",
+    "Substantivul „carte” este de gen:",
     "feminin",
     ["masculin", "neutru", "comun"],
     rng
@@ -41,7 +41,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q2 — gen substantiv neutru
   qs.push(createMCQ(T, S,
-    "Substantivul „scaun" este de gen:",
+    "Substantivul „scaun” este de gen:",
     "neutru",
     ["masculin", "feminin", "comun"],
     rng
@@ -49,7 +49,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q3 — gen substantiv masculin
   qs.push(createMCQ(T, S,
-    "Substantivul „copac" este de gen:",
+    "Substantivul „copac” este de gen:",
     "masculin",
     ["feminin", "neutru", "comun"],
     rng
@@ -57,7 +57,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q4 — număr plural
   qs.push(createMCQ(T, S,
-    "Care este forma de plural a substantivului „floare"?",
+    "Care este forma de plural a substantivului „floare”?",
     "flori",
     ["floari", "floarea", "florile"],
     rng
@@ -65,7 +65,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q5 — cazul nominativ
   qs.push(createMCQ(T, S,
-    "În propoziția „Mama pregătește masa.", substantivul „mama" este în cazul:",
+    "În propoziția „Mama pregătește masa.”, substantivul „mama” este în cazul:",
     "nominativ",
     ["acuzativ", "dativ", "genitiv"],
     rng
@@ -73,7 +73,7 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q6 — cazul acuzativ
   qs.push(createMCQ(T, S,
-    "În propoziția „El citește cartea.", substantivul „cartea" este în cazul:",
+    "În propoziția „El citește cartea.”, substantivul „cartea” este în cazul:",
     "acuzativ",
     ["nominativ", "dativ", "genitiv"],
     rng
@@ -100,7 +100,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q1 — gradul comparativ de superioritate
   qs.push(createMCQ(T, S,
-    "Care este gradul de comparație al adjectivului din: „Maria este mai înaltă decât Ana"?",
+    "Care este gradul de comparație al adjectivului din: „Maria este mai înaltă decât Ana”?",
     "comparativ de superioritate",
     ["superlativ relativ", "comparativ de egalitate", "pozitiv"],
     rng
@@ -108,7 +108,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q2 — gradul pozitiv
   qs.push(createMCQ(T, S,
-    "Adjectivul „frumos" din propoziția „Are un câine frumos." este la gradul:",
+    "Adjectivul „frumos” din propoziția „Are un câine frumos.” este la gradul:",
     "pozitiv",
     ["comparativ de superioritate", "superlativ absolut", "comparativ de inferioritate"],
     rng
@@ -116,7 +116,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q3 — gradul superlativ absolut
   qs.push(createMCQ(T, S,
-    "Care este gradul de comparație al adjectivului din: „Ionel este foarte cuminte"?",
+    "Care este gradul de comparație al adjectivului din: „Ionel este foarte cuminte”?",
     "superlativ absolut",
     ["superlativ relativ", "comparativ de superioritate", "pozitiv"],
     rng
@@ -124,7 +124,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q4 — acordul adjectivului cu substantivul (gen feminin)
   qs.push(createMCQ(T, S,
-    "Alege forma corectă a adjectivului: „O fată ___." (frumos)",
+    "Alege forma corectă a adjectivului: „O fată ___.” (frumos)",
     "frumoasă",
     ["frumos", "frumoși", "frumoase"],
     rng
@@ -132,7 +132,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q5 — acordul adjectivului cu substantivul (plural)
   qs.push(createMCQ(T, S,
-    "Alege forma corectă a adjectivului: „Copii ___." (bun)",
+    "Alege forma corectă a adjectivului: „Copii ___.” (bun)",
     "buni",
     ["bună", "bun", "bune"],
     rng
@@ -140,7 +140,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q6 — comparativ de egalitate
   qs.push(createMCQ(T, S,
-    "Care este gradul de comparație al adjectivului din: „Ionuț este la fel de înalt ca Radu"?",
+    "Care este gradul de comparație al adjectivului din: „Ionuț este la fel de înalt ca Radu”?",
     "comparativ de egalitate",
     ["comparativ de superioritate", "superlativ relativ", "pozitiv"],
     rng
@@ -148,7 +148,7 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q7 — superlativ relativ
   qs.push(createMCQ(T, S,
-    "Care este gradul de comparație al adjectivului din: „Ana este cea mai harnică din clasă"?",
+    "Care este gradul de comparație al adjectivului din: „Ana este cea mai harnică din clasă”?",
     "superlativ relativ de superioritate",
     ["superlativ absolut", "comparativ de superioritate", "comparativ de egalitate"],
     rng
@@ -167,7 +167,7 @@ function gen_pronume_personal_c4(seed: number): CurriculumQuestion[] {
 
   // Q1 — persoana I singular
   qs.push(createMCQ(T, S,
-    "Pronumele personal „eu" este de persoana:",
+    "Pronumele personal „eu” este de persoana:",
     "I singular",
     ["I plural", "a II-a singular", "a III-a singular"],
     rng
@@ -175,7 +175,7 @@ function gen_pronume_personal_c4(seed: number): CurriculumQuestion[] {
 
   // Q2 — persoana a III-a plural
   qs.push(createMCQ(T, S,
-    "Pronumele personal „ei" este de persoana:",
+    "Pronumele personal „ei” este de persoana:",
     "a III-a plural masculin",
     ["a II-a plural", "I plural", "a III-a plural feminin"],
     rng
@@ -207,7 +207,7 @@ function gen_pronume_personal_c4(seed: number): CurriculumQuestion[] {
 
   // Q6 — identificare pronume personal în propoziție
   qs.push(createMCQ(T, S,
-    "Identifică pronumele personal din propoziția: „Noi mergem la școală."",
+    "Identifică pronumele personal din propoziția: „Noi mergem la școală.”",
     "noi",
     ["mergem", "la", "școală"],
     rng
@@ -226,7 +226,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q1 — pronume posesiv persoana a III-a singular feminin
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Cartea ___ este pe masă." (ea)",
+    "Ce pronume posesiv completează corect: „Cartea ___ este pe masă.” (ea)",
     "ei",
     ["lui", "lor", "sa"],
     rng
@@ -234,7 +234,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q2 — pronume posesiv persoana I singular masculin
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Câinele ___ este blând." (eu)",
+    "Ce pronume posesiv completează corect: „Câinele ___ este blând.” (eu)",
     "meu",
     ["mea", "nostru", "tău"],
     rng
@@ -242,7 +242,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q3 — pronume posesiv persoana a II-a singular feminin
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Rochia ___ este albastră." (tu)",
+    "Ce pronume posesiv completează corect: „Rochia ___ este albastră.” (tu)",
     "ta",
     ["tău", "voastră", "sa"],
     rng
@@ -250,7 +250,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q4 — pronume posesiv persoana I plural
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Casa ___ este mare." (noi)",
+    "Ce pronume posesiv completează corect: „Casa ___ este mare.” (noi)",
     "noastră",
     ["nostru", "voastră", "lor"],
     rng
@@ -258,7 +258,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q5 — pronume posesiv persoana a II-a plural
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Caietele ___ sunt curate." (voi)",
+    "Ce pronume posesiv completează corect: „Caietele ___ sunt curate.” (voi)",
     "voastre",
     ["voastră", "vostru", "lor"],
     rng
@@ -266,7 +266,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
 
   // Q6 — pronume posesiv persoana a III-a plural
   qs.push(createMCQ(T, S,
-    "Ce pronume posesiv completează corect: „Părinții ___ sunt profesori." (ei/ele)",
+    "Ce pronume posesiv completează corect: „Părinții ___ sunt profesori.” (ei/ele)",
     "lor",
     ["lui", "sa", "ei"],
     rng
@@ -285,7 +285,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q1 — perfect compus
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului subliniat din propoziția „Ieri am citit o carte frumoasă."?",
+    "Care este timpul verbului subliniat din propoziția „Ieri am citit o carte frumoasă.”?",
     "perfect compus",
     ["prezent", "imperfect", "viitor"],
     rng
@@ -293,7 +293,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q2 — prezent
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului din propoziția „Copiii se joacă în parc."?",
+    "Care este timpul verbului din propoziția „Copiii se joacă în parc.”?",
     "prezent",
     ["imperfect", "perfect compus", "perfect simplu"],
     rng
@@ -301,7 +301,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q3 — imperfect
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului din propoziția „Când eram mic, mergeam în fiecare zi la bunici."?",
+    "Care este timpul verbului din propoziția „Când eram mic, mergeam în fiecare zi la bunici.”?",
     "imperfect",
     ["prezent", "perfect compus", "mai-mult-ca-perfect"],
     rng
@@ -309,7 +309,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q4 — viitor
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului din propoziția „Mâine vom merge la munte."?",
+    "Care este timpul verbului din propoziția „Mâine vom merge la munte.”?",
     "viitor",
     ["prezent", "perfect compus", "imperfect"],
     rng
@@ -317,7 +317,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q5 — perfect simplu
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului din propoziția „El fugi repede spre casă."?",
+    "Care este timpul verbului din propoziția „El fugi repede spre casă.”?",
     "perfect simplu",
     ["perfect compus", "imperfect", "prezent"],
     rng
@@ -325,7 +325,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q6 — mai-mult-ca-perfect
   qs.push(createMCQ(T, S,
-    "Care este timpul verbului din propoziția „Când am ajuns, ei plecaseră deja."?",
+    "Care este timpul verbului din propoziția „Când am ajuns, ei plecaseră deja.”?",
     "mai-mult-ca-perfect",
     ["perfect compus", "imperfect", "perfect simplu"],
     rng
@@ -333,7 +333,7 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Q7 — conjugare prezent persoana I plural
   qs.push(createMCQ(T, S,
-    "Care este forma corectă a verbului „a citi" la prezent, persoana I plural?",
+    "Care este forma corectă a verbului „a citi” la prezent, persoana I plural?",
     "citim",
     ["citesc", "citiți", "citea"],
     rng
