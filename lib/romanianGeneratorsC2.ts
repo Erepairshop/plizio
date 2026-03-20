@@ -2,7 +2,7 @@
 // Procedural MCQ question generators for Romanian language curriculum
 // Clasa a II-a (2nd grade) – parts of speech, spelling, sentence, text, vocabulary, communication, reading
 
-import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
@@ -364,52 +364,64 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
   parti_vorbire_c2: {
     substantiv_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const tip = Math.floor(rng() * 5);
         if (tip === 0) {
           const correct = pick(SUBSTANTIVE.comune, rng);
           const wrong = shuffle(VERBE.actiuni, rng).slice(0, 2).map(v => v.verb);
           wrong.push(pick(ADJECTIVE.lista, rng));
-          q.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care cuvânt este un SUBSTANTIV?", correct, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care cuvânt este un SUBSTANTIV?", correct, wrong, rng));
         } else if (tip === 1) {
           const correct = pick(SUBSTANTIVE.proprii, rng);
           const wrong = shuffle(SUBSTANTIVE.comune, rng).slice(0, 3);
-          q.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care este un SUBSTANTIV PROPRIU (nume)?", correct, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care este un SUBSTANTIV PROPRIU (nume)?", correct, wrong, rng));
         } else if (tip === 2) {
           const data = pick(SUBSTANTIVE.plurale, rng);
           const allPl = SUBSTANTIVE.plurale.filter(p => p.pl !== data.pl).map(p => p.pl);
-          q.push(createMCQ("parti_vorbire_c2", "substantiv_c2", `Care este PLURALUL cuvântului '${data.sg}'?`, data.pl, shuffle(allPl, rng).slice(0, 3), rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "substantiv_c2", `Care este PLURALUL cuvântului '${data.sg}'?`, data.pl, shuffle(allPl, rng).slice(0, 3), rng));
         } else if (tip === 3) {
           const data = pick(SUBSTANTIVE.plurale, rng);
           const allSg = SUBSTANTIVE.plurale.filter(p => p.sg !== data.sg).map(p => p.sg);
-          q.push(createMCQ("parti_vorbire_c2", "substantiv_c2", `Care este SINGULARUL cuvântului '${data.pl}'?`, data.sg, shuffle(allSg, rng).slice(0, 3), rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "substantiv_c2", `Care este SINGULARUL cuvântului '${data.pl}'?`, data.sg, shuffle(allSg, rng).slice(0, 3), rng));
         } else {
           const comun = pick(SUBSTANTIVE.comune, rng);
           const wrong = shuffle(SUBSTANTIVE.proprii, rng).slice(0, 3);
-          q.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care este un SUBSTANTIV COMUN?", comun, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "substantiv_c2", "Care este un SUBSTANTIV COMUN?", comun, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie cuvântul care arată o locuință?", answer: ["casă", "casa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Pluralul cuvântului „carte" este...", answer: ["cărți", "carti"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie un substantiv masculin cu 4-5 litere", answer: ["câine", "copac", "perete", "caîne"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie animal cu 4 picioare care latră?", answer: ["câine", "caîne"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie un substantiv feminin care crește în grădină", answer: ["floare", "pasăre", "rosa", "bujor"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului „mese" este...", answer: ["masă", "masa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie o capitală românească (Valea în limba latină)", answer: ["București", "Bucuresti"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului „copii" este...", answer: ["copil"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie cuvântul pentru apă care cade din cer?", answer: ["ploaie", "ploaia"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie o emoție sau sentiment (substantiv)", answer: ["bucurie", "tristețe", "teamă", "tristepe"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     verb_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const tip = Math.floor(rng() * 5);
         if (tip === 0) {
           const v = pick(VERBE.actiuni, rng);
           const wrong = [pick(SUBSTANTIVE.comune, rng), pick(ADJECTIVE.lista, rng), pick(SUBSTANTIVE.proprii, rng)];
-          q.push(createMCQ("parti_vorbire_c2", "verb_c2", "Care cuvânt este un VERB (arată o acțiune)?", v.verb, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "verb_c2", "Care cuvânt este un VERB (arată o acțiune)?", v.verb, wrong, rng));
         } else if (tip === 1) {
           const data = pick(VERBE.timpuri, rng);
           const wrong = shuffle(VERBE.timpuri, rng).filter(t => t.trecut !== data.trecut).slice(0, 3).map(t => t.trecut);
-          q.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este TRECUTUL verbului '${data.prezent}'?`, data.trecut, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este TRECUTUL verbului '${data.prezent}'?`, data.trecut, wrong, rng));
         } else if (tip === 2) {
           const data = pick(VERBE.timpuri, rng);
           const wrong = shuffle(VERBE.timpuri, rng).filter(t => t.viitor !== data.viitor).slice(0, 3).map(t => t.viitor);
-          q.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este VIITORUL verbului '${data.prezent}'?`, data.viitor, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este VIITORUL verbului '${data.prezent}'?`, data.viitor, wrong, rng));
         } else if (tip === 3) {
           const data = pick(VERBE.timpuri, rng);
           const choices = [
@@ -422,41 +434,65 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
           if (rng() > 0.5) { form = data.trecut; correctTime.label = "Trecut"; }
           else if (rng() > 0.7) { form = data.viitor; correctTime.label = "Viitor"; }
           const wrong = ["Prezent", "Trecut", "Viitor", "Infinitiv"].filter(t => t !== correctTime.label);
-          q.push(createMCQ("parti_vorbire_c2", "verb_c2", `La ce TIMP este verbul din propoziția: '${form}'?`, correctTime.label, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "verb_c2", `La ce TIMP este verbul din propoziția: '${form}'?`, correctTime.label, wrong, rng));
         } else {
           const v = pick(VERBE.actiuni, rng);
           const otherInf = shuffle(VERBE.actiuni, rng).filter(x => x.inf !== v.inf).slice(0, 3).map(x => x.inf);
-          q.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este INFINITIVUL verbului '${v.verb}'?`, v.inf, otherInf, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "verb_c2", `Care este INFINITIVUL verbului '${v.verb}'?`, v.inf, otherInf, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului „citește" este...", answer: ["a citi", "aciti"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului „merge" este...", answer: ["a mers", "amers"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Scrie verbul care arată mișcarea rapidă a picioarelor", answer: ["aleargă", "alerga"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului „scrie" este...", answer: ["va scrie", "vascrie"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: „El ... o poveste frumoasă"", answer: ["scrie", "scrî"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului „dansează" este...", answer: ["a dansa", "adansa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului „cântă" este...", answer: ["a cântat", "acantat"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Scrie un verb care arată o acțiune plăcută", answer: ["cânta", "dansa", "citi", "canta"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului „doarme" este...", answer: ["va dormi", "vadormi"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: „Copiii ... în parc"", answer: ["aleargă", "alergă"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     adjectiv_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const tip = Math.floor(rng() * 4);
         if (tip === 0) {
           const adj = pick(ADJECTIVE.lista, rng);
           const wrong = [pick(SUBSTANTIVE.comune, rng), pick(VERBE.actiuni, rng).verb, pick(SUBSTANTIVE.proprii, rng)];
-          q.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", "Care cuvânt este un ADJECTIV (arată cum este)?", adj, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", "Care cuvânt este un ADJECTIV (arată cum este)?", adj, wrong, rng));
         } else if (tip === 1) {
           const pair = pick(ADJECTIVE.perechi, rng);
           const wrongAdj = shuffle(ADJECTIVE.lista, rng).filter(a => a !== pair.adj).slice(0, 3);
-          q.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", `Care adjectiv descrie cel mai bine cuvântul '${pair.subst}'?`, pair.adj, wrongAdj, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", `Care adjectiv descrie cel mai bine cuvântul '${pair.subst}'?`, pair.adj, wrongAdj, rng));
         } else if (tip === 2) {
           const subst = pick(SUBSTANTIVE.comune, rng);
           const verb = pick(VERBE.actiuni, rng).verb;
           const adj = pick(ADJECTIVE.lista, rng);
-          q.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", `În propoziția 'Copilul ${adj} ${verb}', care cuvânt este adjectiv?`, adj, [subst, verb, "copilul"], rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", `În propoziția 'Copilul ${adj} ${verb}', care cuvânt este adjectiv?`, adj, [subst, verb, "copilul"], rng));
         } else {
           const correct = pick(ADJECTIVE.lista, rng);
           const wrong = shuffle(SUBSTANTIVE.comune, rng).slice(0, 3);
-          q.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", "Care cuvânt răspunde la întrebarea 'CUM ESTE?'", correct, wrong, rng));
+          mcqs.push(createMCQ("parti_vorbire_c2", "adjectiv_c2", "Care cuvânt răspunde la întrebarea 'CUM ESTE?'", correct, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv care descrie ceva frumos", answer: ["frumos", "frumoasă", "frumoase"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Completa: un cărțuț ... pentru copii", answer: ["mic", "mic"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru culoare", answer: ["roșu", "verde", "albastru", "galben"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Cum ar trebui să fie apă bună?", answer: ["rece", "clin"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru taste: dulce sau ...", answer: ["amar", "acru", "sarat"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Opusul cuvântului „mare" este...", answer: ["mic"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru timp (stare atmosferică)", answer: ["frumos", "ploios", "frumoasa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru o persoană deșteaptă", answer: ["deștept", "inteligent"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Cum ar trebui să fie muncitor bun?", answer: ["harnic", "activ"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru ceva vechi", answer: ["vechi", "antic"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
@@ -465,39 +501,87 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
   ortografie_c2: {
     a_i_reguli_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ORTOGRAFIE.aiReguli, rng);
-        q.push(createMCQ("ortografie_c2", "a_i_reguli_c2", "Care formă este scrisă CORECT?", data.correct, data.wrong, rng));
+        mcqs.push(createMCQ("ortografie_c2", "a_i_reguli_c2", "Care formă este scrisă CORECT?", data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie corect: animal care latră?", answer: ["câine", "caîne"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect cuvântul pentru mâncare de pâine", answer: ["pâine", "paîne"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „România este o țară în ... Europa"", answer: ["în"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie: sânge curgând din corp?", answer: ["sânge", "sînge"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect: cuvântul pentru a merge în jos", answer: ["coborî", "cobori"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie corect: apa care se găsește în pământ?", answer: ["fântână", "fantana"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „... bună!"", answer: ["Bună"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect cuvântul pentru mâncare grea la stozar", answer: ["mâncare", "mancare"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie: copilul românesc?", answer: ["român", "roman"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „... în gură"", answer: ["în"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     sa_s_a_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ORTOGRAFIE.saSa, rng);
-        q.push(createMCQ("ortografie_c2", "sa_s_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
+        mcqs.push(createMCQ("ortografie_c2", "sa_s_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Maria ... dus la școală"", answer: ["s-a", "sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Este ... carte"", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Copilul ... trezit devreme"", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A luat ... minge"", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Pisica ... ascuns sub pat"", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A pierdut ... cheie"", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Ion ... jucat în parc"", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Mama ... a venit acasă"", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Elevul ... pregătit de test"", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A văzut ... prietenă"", answer: ["sa"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     ia_i_a_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ORTOGRAFIE.iaIa, rng);
-        q.push(createMCQ("ortografie_c2", "ia_i_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
+        mcqs.push(createMCQ("ortografie_c2", "ia_i_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Mama ... dat o carte"", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „El ... cartea de pe masă"", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Bunica ... spus o poveste"", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Ana ... creioanele de pe bancă"", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Profesoara ... explicat tema"", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Maria ... caietul și pleacă"", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Tata ... cumpărat o jucărie"", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „El ... mingea din dulap"", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Colegul ... invitat la petrecere"", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Sofia ... găsit cheia"", answer: ["ia"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     sau_s_au_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ORTOGRAFIE.sauSau, rng);
-        q.push(createMCQ("ortografie_c2", "sau_s_au_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
+        mcqs.push(createMCQ("ortografie_c2", "sau_s_au_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Copiii ... jucat în parc"", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Vrei ceai ... cafea?"", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Elevii ... pregătit de lecție"", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Mergi pe jos ... cu autobuzul?"", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Păsările ... ascuns de ploaie"", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Doi ... trei copii au venit"", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Fetele ... întors de la școală"", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Citești ... te joci?"", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Băieții ... chinuit după cărți"", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Pleci cu noi ... rămâi acasă?"", answer: ["sau"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
@@ -506,35 +590,59 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
   propozitia_c2: {
     subiect_predicat_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(PROPOZITII.subiectPredicat, rng);
         if (rng() > 0.5) {
           const wrong = shuffle(PROPOZITII.subiectPredicat, rng).filter(p => p.subiect !== data.subiect).slice(0, 2).map(p => p.subiect);
           wrong.push(data.predicat);
-          q.push(createMCQ("propozitia_c2", "subiect_predicat_c2", `Care este SUBIECTUL în: '${data.prop}'?`, data.subiect, wrong, rng));
+          mcqs.push(createMCQ("propozitia_c2", "subiect_predicat_c2", `Care este SUBIECTUL în: '${data.prop}'?`, data.subiect, wrong, rng));
         } else {
           const wrong = shuffle(PROPOZITII.subiectPredicat, rng).filter(p => p.predicat !== data.predicat).slice(0, 2).map(p => p.predicat);
           wrong.push(data.subiect);
-          q.push(createMCQ("propozitia_c2", "subiect_predicat_c2", `Care este PREDICATUL în: '${data.prop}'?`, data.predicat, wrong, rng));
+          mcqs.push(createMCQ("propozitia_c2", "subiect_predicat_c2", `Care este PREDICATUL în: '${data.prop}'?`, data.predicat, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul propoziției „Maria citește" este...", answer: ["Maria"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul propoziției „Câinele aleargă" este...", answer: ["aleargă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: „Pisica doarme"", answer: ["Pisica"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: „Copilul mănâncă"", answer: ["mănâncă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din „Elena pictează o tablă" este...", answer: ["Elena"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din „Păsările cântă frumos" este...", answer: ["cântă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: „Bunica gătește supa"", answer: ["Bunica"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: „Elevii ascultă lecția"", answer: ["ascultă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din „Ana dansează frumos" este...", answer: ["Ana"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din „Tata conduce mașina" este...", answer: ["conduce"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     tipuri_prop_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const tipuri = ["Enunțiativă", "Interogativă", "Exclamativă", "Imperativă"];
       for (let i = 0; i < 30; i++) {
         const data = pick(PROPOZITII.tipuri, rng);
         const wrong = tipuri.filter(t => t !== data.tip);
-        q.push(createMCQ("propozitia_c2", "tipuri_prop_c2", `Ce tip de propoziție este: '${data.prop}'?`, data.tip, wrong, rng));
+        mcqs.push(createMCQ("propozitia_c2", "tipuri_prop_c2", `Ce tip de propoziție este: '${data.prop}'?`, data.tip, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ana merge la școală"?", answer: ["Enunțiativă", "enuntiativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Unde mergi?"?", answer: ["Interogativă", "interogativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ce frumos este!"?", answer: ["Exclamativă", "exclamativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Vino aici!"?", answer: ["Imperativă", "imperativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ieri a plouat"?", answer: ["Enunțiativă", "enuntiativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Cine a venit?"?", answer: ["Interogativă", "interogativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ce bine e afară!"?", answer: ["Exclamativă", "exclamativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Deschide ușa!"?", answer: ["Imperativă", "imperativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Scrie un exemplu de propoziție enunțiativă", answer: ["este", "merge", "citeste"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce cuvânt folosești pentru o propoziție interogativă?", answer: ["unde", "cine", "cum"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     punctuatie_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const semne = [".", "?", "!", ",", ";"];
       const reguli = [
         { q: "Ce semn punem la sfârșitul unei propoziții obișnuite?", correct: ".", wrong: ["?", "!", ","] },
@@ -547,13 +655,25 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         if (rng() > 0.4) {
           const data = pick(PROPOZITII.tipuri, rng);
           const wrong = semne.filter(s => s !== data.semn);
-          q.push(createMCQ("propozitia_c2", "punctuatie_c2", `Ce semn de punctuație punem la sfârșitul propoziției: '${data.prop.slice(0, -1)}'?`, data.semn, wrong, rng));
+          mcqs.push(createMCQ("propozitia_c2", "punctuatie_c2", `Ce semn de punctuație punem la sfârșitul propoziției: '${data.prop.slice(0, -1)}'?`, data.semn, wrong, rng));
         } else {
           const r = pick(reguli, rng);
-          q.push(createMCQ("propozitia_c2", "punctuatie_c2", r.q, r.correct, r.wrong, rng));
+          mcqs.push(createMCQ("propozitia_c2", "punctuatie_c2", r.q, r.correct, r.wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn punem la sfârșitul unei propoziții enunțiative?", answer: ["."] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn de punctuație se pune la sfârșitul unei întrebări?", answer: ["?"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn folosim pentru o exclamație?", answer: ["!"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Cum separăm cuvintele într-o enumerare?", answer: [","] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn punem la sfârșitul unei comenzi?", answer: ["!"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Unde mergi...?" — ce semn?", answer: ["?"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Ce frumos!..." — ce semn?", answer: ["!"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Ana merge la școală..." — ce semn?", answer: ["."] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Scrie semnele de punctuație cunoscute", answer: [".", "?", "!", ","] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Cum marcheaza sfarsitul unui enunt?", answer: ["."] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
@@ -562,7 +682,7 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
   textul_c2: {
     narativ_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const parti = [
         { q: "Care este PRIMA parte a unui text narativ?", correct: "Introducerea", wrong: ["Cuprinsul", "Încheierea", "Dialogul"] },
         { q: "În ce parte a textului narativ se dezvoltă acțiunea?", correct: "Cuprinsul", wrong: ["Introducerea", "Încheierea", "Titlul"] },
@@ -572,9 +692,21 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(parti, rng);
-        q.push(createMCQ("textul_c2", "narativ_c2", data.q, data.correct, data.wrong, rng));
+        mcqs.push(createMCQ("textul_c2", "narativ_c2", data.q, data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Care sunt cele 3 părți ale unui text narativ?", answer: ["introducere", "cuprins", "incheiere"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Ce informații aflăm în introducere?", answer: ["cine", "unde", "cand"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "În ce parte se dezvoltă acțiunea unui text?", answer: ["cuprins"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Ce se întâmplă în încheierea textului?", answer: ["se rezolva", "se încheie"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Scrie prima parte a unui text narativ", answer: ["introducere"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Scrie cea de-a doua parte a unui text narativ", answer: ["cuprins"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Scrie cea de-a treia parte a unui text narativ", answer: ["incheiere"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Completează: „În introducere aflăm ... și ...", answer: ["cine", "unde", "cand"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Care parte a textului prezintă rezolvarea problemei?", answer: ["incheiere"] },
+        { type: "typing", topic: "textul_c2", subtopic: "narativ_c2", question: "Un text narativ are ... părți principale", answer: ["3", "trei"] },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
     personaje_actiuni_c2: (seed = Date.now()) => {
       const rng = mulberry32(seed);
