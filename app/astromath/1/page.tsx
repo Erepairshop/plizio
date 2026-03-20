@@ -303,12 +303,10 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             )}
             {/* Unlocked: SVG island illustration */}
             {unlocked && G1_ISLAND_SVGS[island.id] && (
-              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
-                style={{ overflow: "visible" }}>
-                <div style={{ width: 60, height: 60, opacity: done ? 0.85 : 1 }}>
-                  {React.createElement(G1_ISLAND_SVGS[island.id], { size: 60 })}
-                </div>
-              </foreignObject>
+              <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                overflow="visible" opacity={done ? 0.85 : 1}>
+                {React.createElement(G1_ISLAND_SVGS[island.id], { size: 60 })}
+              </svg>
             )}
             {/* Lock icon for locked islands */}
             {!unlocked && (
