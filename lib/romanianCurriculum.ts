@@ -6,6 +6,11 @@ import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
 import { C3_Generators } from "./romanianGeneratorsC3";
+import { C5_Lec_Generators } from "./romanianGeneratorsC5lec";
+import { C5_Ort_Generators } from "./romanianGeneratorsC5ort";
+import { C5_Sint_Generators } from "./romanianGeneratorsC5sint";
+import { C5_Text_Generators } from "./romanianGeneratorsC5text";
+import { C5_Voc_Generators } from "./romanianGeneratorsC5voc";
 import { C6P1_Generators } from "./romanianGeneratorsC6p1";
 import { C6P2_Generators } from "./romanianGeneratorsC6p2";
 import { C6P3_Generators } from "./romanianGeneratorsC6p3";
@@ -509,6 +514,73 @@ const C3: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a V-a (Grade 5) ──────────────────────────────────────────────────
+
+const C5: RomanianTheme[] = [
+  {
+    id: "lectura_c5",
+    name: "Lectură și comprehensiune avansată",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "intentie_autor_c5", name: "Intenția autorului", questions: [] },
+      { id: "argumente_c5", name: "Argumente și dovezi", questions: [] },
+      { id: "inferente_c5", name: "Inferențe și concluzii", questions: [] },
+      { id: "timp_spatiu_c5", name: "Timp și spațiu în narațiune", questions: [] },
+    ],
+  },
+  {
+    id: "ortografie_c5",
+    name: "Ortografie avansată",
+    icon: "📐",
+    color: "#FFD700",
+    subtopics: [
+      { id: "a_i_c5", name: "A/I — distinția clară", questions: [] },
+      { id: "semne_diacritice_c5", name: "Semne diacritice corecte", questions: [] },
+      { id: "scrierea_compuselor_c5", name: "Scrierea cuvintelor compuse", questions: [] },
+      { id: "cratima_forme_c5", name: "Cratima și forme curte", questions: [] },
+    ],
+  },
+  {
+    id: "sintaxa_c5",
+    name: "Sintaxă — Relații în propoziție",
+    icon: "🔗",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "apostrof_atribut_c5", name: "Apostrofă și atribut", questions: [] },
+      { id: "prop_subiectiva_c5", name: "Propoziții subiective", questions: [] },
+      { id: "coordonare_c5", name: "Coordonare între propoziții", questions: [] },
+      { id: "prop_circumstantiala_c5", name: "Propoziții circumstanțiale", questions: [] },
+    ],
+  },
+  {
+    id: "text_c5",
+    name: "Textul literar — Structură și formă",
+    icon: "✍️",
+    color: "#10B981",
+    subtopics: [
+      { id: "genuri_literare_c5", name: "Genuri literare principale", questions: [] },
+      { id: "specii_literare_c5", name: "Specii în fiecare gen", questions: [] },
+      { id: "moduri_expunere_c5", name: "Moduri de expunere", questions: [] },
+      { id: "personaje_caracterizare_c5", name: "Personaje și caracterizare", questions: [] },
+      { id: "texte_nonliterare_c5", name: "Texte nonliterare", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c5",
+    name: "Vocabular — Relații între cuvinte",
+    icon: "🔤",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "polisemia_c5", name: "Polisemia", questions: [] },
+      { id: "omonimia_c5", name: "Omonimia", questions: [] },
+      { id: "paronimia_c5", name: "Paronimia", questions: [] },
+      { id: "locutiuni_c5", name: "Locuții și expresii", questions: [] },
+      { id: "argou_regional_c5", name: "Argou și cuvinte regionale", questions: [] },
+    ],
+  },
+];
+
 // ─── CLASA a VI-a (Grade 6) ──────────────────────────────────────────────────
 
 const C6: RomanianTheme[] = [
@@ -698,6 +770,7 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
   3: C3,
+  5: C5,
   6: C6,
 };
 
@@ -746,11 +819,36 @@ const C6_Generators = {
   texte_nonliterare_c6: C6P4_Generators.text_lectura_nonliterare,
 };
 
+// ─── MERGE C5 GENERATORS FROM 5 MODULES ────────────────────────────────────
+const C5_Generators = {
+  ...Object.keys(C5_Lec_Generators.lectura_c5 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C5_Lec_Generators as any).lectura_c5[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C5_Ort_Generators.ortografie_c5 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C5_Ort_Generators as any).ortografie_c5[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C5_Sint_Generators.sintaxa_c5 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C5_Sint_Generators as any).sintaxa_c5[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C5_Text_Generators.text_c5 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C5_Text_Generators as any).text_c5[key];
+    return acc;
+  }, {}),
+  ...Object.keys(C5_Voc_Generators.vocabular_c5 ?? {}).reduce((acc: any, key: string) => {
+    acc[key] = (C5_Voc_Generators as any).vocabular_c5[key];
+    return acc;
+  }, {}),
+};
+
 /** Generator mapping by grade */
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
+  5: C5_Generators,
   6: C6_Generators,
 };
 
