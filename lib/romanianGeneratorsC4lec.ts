@@ -21,21 +21,27 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
 
 function genIntelegereText(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const mcqs: CurriculumMCQ[] = [];
   const T = "lectura_c4";
   const S = "intelegere_text_c4";
 
-  for (let i = 0; i < 30; i++) {
-    const tip = i % 4;
-    if (tip === 0) {
-      mcqs.push(createMCQ(T, S, "Informația EXPLICITĂ dintr-un text este:", "scrisă direct în text, fără a trebui dedusă", ["dedusă din context", "o părere a cititorului", "ascunsă între rânduri"], rng));
-    } else if (tip === 1) {
-      mcqs.push(createMCQ(T, S, "Informația IMPLICITĂ dintr-un text este:", "dedusă din context, nu scrisă direct", ["scrisă cuvânt cu cuvânt", "titlul textului", "prima propoziție"], rng));
-    } else if (tip === 2) {
-      mcqs.push(createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație EXPLICITĂ?", "\"Ce a făcut personajul în prima scenă?\"", ["\"Cum se simțea personajul?\"", "\"De ce a reacționat astfel?\"", "\"Ce mesaj transmite textul?\""], rng));
-    } else {
-      mcqs.push(createMCQ(T, S, "Care dintre următoarele este o întrebare despre informație IMPLICITĂ?", "\"Cum se simțea personajul fără ca autorul să spună direct?\"", ["\"Cum se numește personajul?\"", "\"Unde s-a petrecut acțiunea?\"", "\"Câte personaje sunt în text?\""], rng));
-    }
+  const explicitImplicitQuestions = [
+    { q: "Informația EXPLICITĂ dintr-un text este:", c: "scrisă direct în text, fără a trebui dedusă", w: ["dedusă din context", "o părere a cititorului", "ascunsă între rânduri"] },
+    { q: "Informația IMPLICITĂ dintr-un text este:", c: "dedusă din context, nu scrisă direct", w: ["scrisă cuvânt cu cuvânt", "titlul textului", "prima propoziție"] },
+    { q: "Care dintre următoarele este o întrebare despre informație EXPLICITĂ?", c: "\"Ce a făcut personajul în prima scenă?\"", w: ["\"Cum se simțea personajul?\"", "\"De ce a reacționat astfel?\"", "\"Ce mesaj transmite textul?\""] },
+    { q: "Care dintre următoarele este o întrebare despre informație IMPLICITĂ?", c: "\"Cum se simțea personajul fără ca autorul să spună direct?\"", w: ["\"Cum se numește personajul?\"", "\"Unde s-a petrecut acțiunea?\"", "\"Câte personaje sunt în text?\""] },
+    { q: "Dacă textul spune \"Ploua torenţial\", aceasta este informație:", c: "explicită", w: ["implicită", "relativă", "secundară"] },
+    { q: "Dacă din text deducem că un personaj este trist din gesturile lui, informația e:", c: "implicită", w: ["explicită", "relativă", "titlul"] },
+    { q: "Ce metodă te ajută să găsești informații implicite?", c: "analiza atentă și inferența", w: ["ocolirea capitolelor grele", "citirea doar a primului paragraf", "memorarea cuvintelor dificile"] },
+    { q: "Inferența este procesul prin care:", c: "cititorul deduce ceva din textul citit", w: ["autorul plănuiește poveștea", "se schimbă genul textului", "se adaugă ilustrații"] },
+    { q: "Care expresie nu corespunde ideii de informație EXPLICITĂ?", c: "\"trebuie să ghicesc\"", w: ["\"textul spune clar\"", "\"se vede în text\"", "\"scrie direct\""] },
+    { q: "Completează: O informație implicită necesită o ___ pentru a fi înțeleasă.", c: "inferență", w: ["descriere", "titlu", "imagine"] },
+  ];
+
+  const mcqs: CurriculumMCQ[] = [];
+  const combined = shuffle(explicitImplicitQuestions, rng).slice(0, 10);
+
+  for (const item of combined) {
+    mcqs.push(createMCQ(T, S, item.q, item.c, item.w, rng));
   }
 
   const typings: CurriculumTyping[] = [
@@ -58,23 +64,27 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
 
 function genPersonaje(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const mcqs: CurriculumMCQ[] = [];
   const T = "lectura_c4";
   const S = "personaje_c4";
 
-  for (let i = 0; i < 30; i++) {
-    const tip = i % 5;
-    if (tip === 0) {
-      mcqs.push(createMCQ(T, S, "Dacă autorul scrie \"Ion era harnic și cinstit\", aceasta este caracterizare:", "directă", ["indirectă", "prin fapte", "prin reacțiile altora"], rng));
-    } else if (tip === 1) {
-      mcqs.push(createMCQ(T, S, "Caracterizarea INDIRECTĂ a unui personaj se face prin:", "faptele, vorbele și gândurile personajului", ["ce spune autorul direct despre personaj", "descrierea înfățișării fizice de către narator", "titlul operei"], rng));
-    } else if (tip === 2) {
-      mcqs.push(createMCQ(T, S, "Personajul PRINCIPAL al unui text literar se mai numește:", "protagonist", ["antagonist", "narator", "autor"], rng));
-    } else if (tip === 3) {
-      mcqs.push(createMCQ(T, S, "Portretul FIZIC al unui personaj descrie:", "înfățișarea (față, ochi, păr, statură)", ["caracterul și valorile morale", "faptele personajului", "relațiile cu alte personaje"], rng));
-    } else {
-      mcqs.push(createMCQ(T, S, "Portretul MORAL al unui personaj descrie:", "calitățile și defectele de caracter", ["culoarea ochilor și a părului", "vârsta și înălțimea", "hainele personajului"], rng));
-    }
+  const characterizationQuestions = [
+    { q: "Dacă autorul scrie \"Ion era harnic și cinstit\", aceasta este caracterizare:", c: "directă", w: ["indirectă", "prin fapte", "prin reacțiile altora"] },
+    { q: "Caracterizarea INDIRECTĂ a unui personaj se face prin:", c: "faptele, vorbele și gândurile personajului", w: ["ce spune autorul direct despre personaj", "descrierea înfățișării fizice de către narator", "titlul operei"] },
+    { q: "Personajul PRINCIPAL al unui text literar se mai numește:", c: "protagonist", w: ["antagonist", "narator", "autor"] },
+    { q: "Portretul FIZIC al unui personaj descrie:", c: "înfățișarea (față, ochi, păr, statură)", w: ["caracterul și valorile morale", "faptele personajului", "relațiile cu alte personaje"] },
+    { q: "Portretul MORAL al unui personaj descrie:", c: "calitățile și defectele de caracter", w: ["culoarea ochilor și a părului", "vârsta și înălțimea", "hainele personajului"] },
+    { q: "Cum se numește personajul care se opune protagonistului?", c: "antagonist", w: ["deuteragonist", "tritagonist", "coagent"] },
+    { q: "Personajele care nu sunt principale dar participă la acțiune se numesc:", c: "secundare", w: ["principali", "figuranți", "actori"] },
+    { q: "Cum se numește textul în care un personaj vorbește singur pentru a se caractariza?", c: "monolog", w: ["dialog", "glas interior", "soliloc"] },
+    { q: "Atunci când personajul vorbește, aceea este caracterizare:", c: "indirectă", w: ["directă", "prin aspectă", "prin gânduri"] },
+    { q: "Care din următoarele este o metodă de caracterizare: prin reacțiile altor personaje?", c: "indirectă", w: ["directă", "prin aspectă", "prin descriere"] },
+  ];
+
+  const mcqs: CurriculumMCQ[] = [];
+  const combined = shuffle(characterizationQuestions, rng).slice(0, 10);
+
+  for (const item of combined) {
+    mcqs.push(createMCQ(T, S, item.q, item.c, item.w, rng));
   }
 
   const typings: CurriculumTyping[] = [
@@ -97,25 +107,27 @@ function genPersonaje(seed: number): CurriculumQuestion[] {
 
 function genTemaMesaj(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const mcqs: CurriculumMCQ[] = [];
   const T = "lectura_c4";
   const S = "tema_mesaj_c4";
 
-  for (let i = 0; i < 30; i++) {
-    const tip = i % 6;
-    if (tip === 0) {
-      mcqs.push(createMCQ(T, S, "TEMA unui text literar reprezintă:", "subiectul despre care vorbește textul", ["lecția morală pe care autorul vrea s-o transmită", "titlul textului", "personajul principal"], rng));
-    } else if (tip === 1) {
-      mcqs.push(createMCQ(T, S, "MESAJUL unui text literar reprezintă:", "lecția morală sau ideea pe care autorul vrea s-o transmită", ["subiectul despre care vorbește textul", "primul paragraf", "dialogul dintre personaje"], rng));
-    } else if (tip === 2) {
-      mcqs.push(createMCQ(T, S, "TEMA unui text poate fi identificată prin întrebarea:", "\"Despre ce vorbește textul?\"", ["\"Ce lecție transmite textul?\"", "\"Câte personaje sunt?\"", "\"Cât de lung este textul?\""], rng));
-    } else if (tip === 3) {
-      mcqs.push(createMCQ(T, S, "MESAJUL unui text poate fi identificat prin întrebarea:", "\"Ce vrea autorul să ne învețe din acest text?\"", ["\"Despre ce este textul?\"", "\"Câte paragrafe are textul?\"", "\"Cum arată personajele?\""], rng));
-    } else if (tip === 4) {
-      mcqs.push(createMCQ(T, S, "Unde se poate afla de obicei MESAJUL unui text?", "La finalul textului, uneori formulat explicit sau dedus din întâmplări", ["Întotdeauna în titlu", "Numai în primul paragraf", "Numai în descrierile naturii"], rng));
-    } else {
-      mcqs.push(createMCQ(T, S, "Care dintre următoarele este o TEMĂ (nu un mesaj)?", "Curajul", ["Fii curajos și vei reuși!", "Curajul aduce victoria.", "Orice obstacol poate fi depășit cu curaj."], rng));
-    }
+  const themeMessageQuestions = [
+    { q: "TEMA unui text literar reprezintă:", c: "subiectul despre care vorbește textul", w: ["lecția morală pe care autorul vrea s-o transmită", "titlul textului", "personajul principal"] },
+    { q: "MESAJUL unui text literar reprezintă:", c: "lecția morală sau ideea pe care autorul vrea s-o transmită", w: ["subiectul despre care vorbește textul", "primul paragraf", "dialogul dintre personaje"] },
+    { q: "TEMA unui text poate fi identificată prin întrebarea:", c: "\"Despre ce vorbește textul?\"", w: ["\"Ce lecție transmite textul?\"", "\"Câte personaje sunt?\"", "\"Cât de lung este textul?\""] },
+    { q: "MESAJUL unui text poate fi identificat prin întrebarea:", c: "\"Ce vrea autorul să ne învețe din acest text?\"", w: ["\"Despre ce este textul?\"", "\"Câte paragrafe are textul?\"", "\"Cum arată personajele?\""] },
+    { q: "Unde se poate afla de obicei MESAJUL unui text?", c: "La finalul textului, uneori formulat explicit sau dedus din întâmplări", w: ["Întotdeauna în titlu", "Numai în primul paragraf", "Numai în descrierile naturii"] },
+    { q: "Care dintre următoarele este o TEMĂ (nu un mesaj)?", c: "Curajul", w: ["Fii curajos și vei reuși!", "Curajul aduce victoria.", "Orice obstacol poate fi depășit cu curaj."] },
+    { q: "Care este TEMA unui text despre doi prieteni care se ajută?", c: "prietenia", w: ["loialitatea", "sacrificiul", "devotamentul"] },
+    { q: "Care este MESAJUL unui text în care cineva muncitor reușește?", c: "munca aduce succes", w: ["munca e importantă", "perseverența e necesară", "succesul e ușor"] },
+    { q: "Scrie un cuvânt care poate fi TEMĂ:", c: "cinstea", w: ["fii cinstit", "cinstea trece primă", "cinstea e o virtute"] },
+    { q: "Tema și mesajul sunt diferite; tema arată 'ce', mesajul arată:", c: "'ce lecție'", w: ["'cine'", "'unde'", "'când'"] },
+  ];
+
+  const mcqs: CurriculumMCQ[] = [];
+  const combined = shuffle(themeMessageQuestions, rng).slice(0, 10);
+
+  for (const item of combined) {
+    mcqs.push(createMCQ(T, S, item.q, item.c, item.w, rng));
   }
 
   const typings: CurriculumTyping[] = [
@@ -138,23 +150,27 @@ function genTemaMesaj(seed: number): CurriculumQuestion[] {
 
 function genFiguriStil(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const mcqs: CurriculumMCQ[] = [];
   const T = "lectura_c4";
   const S = "figuri_stil_c4";
 
-  for (let i = 0; i < 30; i++) {
-    const tip = i % 5;
-    if (tip === 0) {
-      mcqs.push(createMCQ(T, S, "Care figură de stil conține cuvântul \"ca\" sau \"precum\"?", "Comparația", ["Metafora", "Personificarea", "Hiperbola"], rng));
-    } else if (tip === 1) {
-      mcqs.push(createMCQ(T, S, "\"Ochii ei străluceau ca stelele\" este un exemplu de:", "Comparație", ["Metaforă", "Personificare", "Repetiție"], rng));
-    } else if (tip === 2) {
-      mcqs.push(createMCQ(T, S, "\"Cerul plânge\" este o figură de stil numită:", "Personificare", ["Metaforă", "Comparație", "Hiperbolă"], rng));
-    } else if (tip === 3) {
-      mcqs.push(createMCQ(T, S, "\"Am așteptat o veșnicie\" este un exemplu de:", "Hiperbolă", ["Comparație", "Metaforă", "Personificare"], rng));
-    } else {
-      mcqs.push(createMCQ(T, S, "\"Lacrimile sale erau izvoare de durere\" este:", "Metaforă", ["Comparație", "Personificare", "Hiperbolă"], rng));
-    }
+  const figuresQuestions = [
+    { q: "Care figură de stil conține cuvântul \"ca\" sau \"precum\"?", c: "Comparația", w: ["Metafora", "Personificarea", "Hiperbola"] },
+    { q: "\"Ochii ei străluceau ca stelele\" este un exemplu de:", c: "Comparație", w: ["Metaforă", "Personificare", "Repetiție"] },
+    { q: "\"Cerul plânge\" este o figură de stil numită:", c: "Personificare", w: ["Metaforă", "Comparație", "Hiperbolă"] },
+    { q: "\"Am așteptat o veșnicie\" este un exemplu de:", c: "Hiperbolă", w: ["Comparație", "Metaforă", "Personificare"] },
+    { q: "\"Lacrimile sale erau izvoare de durere\" este:", c: "Metaforă", w: ["Comparație", "Personificare", "Hiperbolă"] },
+    { q: "Cum se numește figura care atribuie însuşiri omenești obiectelor?", c: "Personificare", w: ["Metaforă", "Comparație", "Analogie"] },
+    { q: "Cum se numește figura de stil care exagerează?", c: "Hiperbolă", w: ["Comparație", "Metaforă", "Personificare"] },
+    { q: "Metafora se deosebește de comparație prin absența cuvintelor:", c: "ca, precum", w: ["și", "dar", "deci"] },
+    { q: "Cum se numește repetarea unui cuvânt?", c: "Repetiție", w: ["Personificare", "Analogie", "Enumerație"] },
+    { q: "Completează: 'Viața este un ...' (metaforă)", c: "drum", w: ["apă", "piatră", "apărare"] },
+  ];
+
+  const mcqs: CurriculumMCQ[] = [];
+  const combined = shuffle(figuresQuestions, rng).slice(0, 10);
+
+  for (const item of combined) {
+    mcqs.push(createMCQ(T, S, item.q, item.c, item.w, rng));
   }
 
   const typings: CurriculumTyping[] = [
