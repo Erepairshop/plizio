@@ -102,7 +102,7 @@ export function gen_perfectul_simplu_c5(seed: number): CurriculumQuestion[] {
 
     createMCQ(topic, subtopic,
       "Care este forma corectă de perfect simplu a verbului „a veni" la persoana a II-a singular?",
-      "venișl",
+      "veniși",
       ["ai venit", "veniseși", "veneai"],
       rng),
 
