@@ -268,7 +268,7 @@ export const K1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "spell-race" as any, icon: "🪐", label: { en: "Blend Spell",    hu: "Blend helyesírás", de: "Blend-Schreib",    ro: "Literare combinații" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🪐", label: { en: "Orbit Quiz",    hu: "Pálya kvíz",        de: "Umlaufbahn-Quiz",      ro: "Quiz orbital"      } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -280,7 +280,7 @@ export const K1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",    icon: "🪐", label: { en: "Word Sort",     hu: "Szó rendezés",     de: "Wort-Sortierung", ro: "Sortare cuvinte" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round",  icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",       de: "Blitzrunde",  ro: "Rundă rapidă"      } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -292,7 +292,7 @@ export const K1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush" as any, icon: "🪐", label: { en: "Verb Rush",     hu: "Ige roham",        de: "Verb-Ansturm",    ro: "Asalt verbe" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",        de: "Schwarzes Loch",      ro: "Gaură neagră"      } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -304,7 +304,7 @@ export const K1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-builder" as any, icon: "🪐", label: { en: "Build Words",   hu: "Szó építés",       de: "Wort-Bau",        ro: "Construire cuvinte" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",    hu: "Pálya kvíz",       de: "Umlaufbahn-Quiz",  ro: "Quiz orbital"      } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -343,7 +343,7 @@ export const K1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush" as any, icon: "🪐", label: { en: "Story Rush",    hu: "Mese roham",       de: "Geschichten-Ansturm", ro: "Asalt povești" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés",        de: "Schwerkraft-Sortierung",      ro: "Sortare gravitațională"      } },
     ],
     svgX: 190, svgY: -90,
   },

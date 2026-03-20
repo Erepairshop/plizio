@@ -42,7 +42,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",  icon: "🪐", label: { en: "Sort Phrases/Clauses",    hu: "Rendezd: szintagma/záradék",   de: "Phrasen/Klauseln sortieren",    ro: "Sortează: fraze/clauze"        } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -54,7 +54,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Sentence Types",  hu: "Párosítsd a mondattípusokat",      de: "Satztypen zuordnen",       ro: "Potrivește tipuri propoziții"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "⭐", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -66,7 +66,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "fill-gap",  icon: "🪐", label: { en: "Fill Tense/Voice",     hu: "Töltsd ki az igeidőt/hangot",        de: "Tempus/Stimme ausfüllen",     ro: "Completează timp/diateza"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -78,7 +78,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "fill-gap", icon: "🪐", label: { en: "Fill Punctuation", hu: "Töltsd ki a jeleket",   de: "Satzzeichen einfügen", ro: "Completează punctuația" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "⭐", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -90,7 +90,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Figurative",      hu: "Párosítsd a képleteseket", de: "Figürliches zuordnen", ro: "Potrivește figurat"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -102,7 +102,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush",  icon: "🪐", label: { en: "Sort Academic/Casual", hu: "Rendezd: tudományos/beszéd",   de: "Akademisch/Umgangssprache sortieren", ro: "Sortează: academic/casual"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "⭐", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -114,7 +114,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-builder",  icon: "🪐", label: { en: "Build Arguments",   hu: "Építs érveléseket",    de: "Argumente bauen",   ro: "Construiți argumente"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -126,7 +126,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Clause Types",  hu: "Párosítsd a záradéktípusokat",    de: "Klauseltypen zuordnen",  ro: "Potrivește tipuri clauze"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
     svgX: 80, svgY: -20,
   },
