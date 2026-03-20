@@ -187,8 +187,8 @@ export const C6P1_Generators = {
     const subtopic = "declinare_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SUBSTANTIVE_DECLIN, rng);
       const cases = ["Nominativ", "Genitiv", "Dativ", "Acuzativ", "Vocativ"];
       const caseIdx = Math.floor(rng() * cases.length);
@@ -212,7 +212,7 @@ export const C6P1_Generators = {
       questions.push(q);
     }
 
-    // Typing questions (8)
+    // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte cazuri sunt în limba română?", "cinci"));
     questions.push(createTyping(topic, subtopic, "Care este cazul subiectului?", "Nominativ"));
     questions.push(createTyping(topic, subtopic, "Care este cazul complementului direct?", "Acuzativ"));
@@ -221,6 +221,13 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Care este cazul de apelare?", "Vocativ"));
     questions.push(createTyping(topic, subtopic, "Ce arată cazul Genitiv?", "posesie"));
     questions.push(createTyping(topic, subtopic, "Ce arată cazul Dativ?", "beneficiar"));
+    questions.push(createTyping(topic, subtopic, "Care caz răspunde la 'cui'?", "Dativ"));
+    questions.push(createTyping(topic, subtopic, "Care caz răspunde la 'al cui'?", "Genitiv"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă Acuzativul?", "obiect direct"));
+    questions.push(createTyping(topic, subtopic, "Cum se numește schimbarea formei?", "declinare"));
+    questions.push(createTyping(topic, subtopic, "Ce caz se folosește la salutări?", "Vocativ"));
+    questions.push(createTyping(topic, subtopic, "Genul substantivului poate schimba cazul?", "nu, genul și cazul sunt independente"));
+    questions.push(createTyping(topic, subtopic, "Ce abilitate trebuie pentru declinare?", "memorare și practice"));
 
     return shuffle(questions, rng);
   },
@@ -232,8 +239,8 @@ export const C6P1_Generators = {
     const subtopic = "functii_sintactice_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SUBSTANTIVE_FUNCTII, rng);
       const q = createMCQ(
         topic,
@@ -246,7 +253,7 @@ export const C6P1_Generators = {
       questions.push(q);
     }
 
-    // Typing questions (8)
+    // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce funcție sintactică are subiectul?", "Subiect"));
     questions.push(createTyping(topic, subtopic, "Ce este complementul direct?", "obiectul direct al acțiunii"));
     questions.push(createTyping(topic, subtopic, "Ce este complementul genitival?", "complement cu prepoziția 'de'"));
@@ -255,6 +262,13 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Ce este atributul?", "determină substantivul"));
     questions.push(createTyping(topic, subtopic, "Care sunt funcțiile sintactice principale?", "Subiect, Predicat, Complement"));
     questions.push(createTyping(topic, subtopic, "Ce exprimă complementul prepoziție?", "relație cu alt element"));
+    questions.push(createTyping(topic, subtopic, "Ce este funcția sintactică?", "rol al cuvântului în propoziție"));
+    questions.push(createTyping(topic, subtopic, "Câte funcții sintactice principale sunt?", "trei: subiect, predicat, complement"));
+    questions.push(createTyping(topic, subtopic, "Ce răspunde la 'pe cine/ce'?", "Complement direct"));
+    questions.push(createTyping(topic, subtopic, "Ce răspunde la 'de cine/ce'?", "Complement indirect"));
+    questions.push(createTyping(topic, subtopic, "Ce răspunde la 'unde/când/cum'?", "Complement circumstanțial"));
+    questions.push(createTyping(topic, subtopic, "Cine face acțiunea?", "Subiectul"));
+    questions.push(createTyping(topic, subtopic, "Ce se spune despre subiect?", "Predicatul"));
 
     return shuffle(questions, rng);
   },
@@ -266,8 +280,8 @@ export const C6P1_Generators = {
     const subtopic = "defective_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SUBSTANTIVE_DEFECTIVE, rng);
       const q = createMCQ(
         topic,
@@ -280,7 +294,7 @@ export const C6P1_Generators = {
       questions.push(q);
     }
 
-    // Typing questions (8)
+    // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt substantivele defective?", "substantive cu forme lipsă"));
     questions.push(createTyping(topic, subtopic, "Ce exemple de substantive fără plural?", "datorie, speranță"));
     questions.push(createTyping(topic, subtopic, "Ce exemple de substantive fără singular?", "sarcini, obiceiuri"));
@@ -289,6 +303,13 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Cum se comportă substantivele defective?", "nu au toți formele"));
     questions.push(createTyping(topic, subtopic, "Ce inseamnă 'defectiv'?", "incomplet, cu forme lipsă"));
     questions.push(createTyping(topic, subtopic, "Exemplu de substantiv singular defectiv:", "datorie"));
+    questions.push(createTyping(topic, subtopic, "Ce este pluralia tantum?", "substantiv fără singular"));
+    questions.push(createTyping(topic, subtopic, "Ce este singularia tantum?", "substantiv fără plural"));
+    questions.push(createTyping(topic, subtopic, "Sunt defective toate substantivele?", "nu, doar anumite cuvinte"));
+    questions.push(createTyping(topic, subtopic, "Cum se identifică un defectiv?", "prin lipsă de forme gramaticale"));
+    questions.push(createTyping(topic, subtopic, "De ce sunt unele substantive defective?", "din motive etimologice sau semantice"));
+    questions.push(createTyping(topic, subtopic, "Exemplu de pluralia tantum:", "alergători, grăbire"));
+    questions.push(createTyping(topic, subtopic, "Exemplu de singularia tantum:", "etic, brânză"));
 
     return shuffle(questions, rng);
   },
@@ -300,8 +321,8 @@ export const C6P1_Generators = {
     const subtopic = "personale_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_PERSONALE, rng);
       const q = createMCQ(
         topic,
@@ -314,7 +335,7 @@ export const C6P1_Generators = {
       questions.push(q);
     }
 
-    // Typing questions (8)
+    // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte persoane gramaticale sunt?", "trei"));
     questions.push(createTyping(topic, subtopic, "Pronumele personal pentru persoana 1 singular:", "eu"));
     questions.push(createTyping(topic, subtopic, "Pronumele personal pentru persoana 3 plural:", "ei/ele"));
@@ -323,6 +344,13 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Pronumele personal acuzativ pentru persoana 1:", "mă"));
     questions.push(createTyping(topic, subtopic, "Câte cazuri are pronumele personal?", "trei: nominativ, acuzativ, dativ"));
     questions.push(createTyping(topic, subtopic, "Pronumele personal plural nominativ persoana 1:", "noi"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal dativ pentru persoana 2 plural:", "vă"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal acuzativ pentru persoana 3 masculine:", "îl"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal acuzativ pentru persoana 3 feminine:", "o"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal dativ pentru persoana 1:", "mi"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal dativ pentru persoana 2:", "ți"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal dativ pentru persoana 3:", "îi/i"));
+    questions.push(createTyping(topic, subtopic, "Cum se numesc pronumele eu, tu, el, noi, voi, ei?", "pronume personale"));
 
     return shuffle(questions, rng);
   },
@@ -334,8 +362,8 @@ export const C6P1_Generators = {
     const subtopic = "demonstrative_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_DEMONSTRATIVE, rng);
       const q = createMCQ(
         topic,
@@ -350,7 +378,7 @@ export const C6P1_Generators = {
       questions.push(q);
     }
 
-    // Typing questions (8)
+    // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele demonstrative?", "indică referință spațială"));
     questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ pentru apropiere:", "acesta, aceasta, aceștia, acestea"));
     questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ pentru depărtare:", "acela, aceea, aceia, alea"));
@@ -359,6 +387,13 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Ce indică pronumele demonstrative?", "localizare spațială"));
     questions.push(createTyping(topic, subtopic, "Care sunt categoriile demonstrativelor?", "apropiere, depărtare, neutru"));
     questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ 'acesta' indică:", "apropiere"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ 'acela' indică:", "depărtare"));
+    questions.push(createTyping(topic, subtopic, "Cum se acordă demonstrativele?", "cu substantivul"));
+    questions.push(createTyping(topic, subtopic, "Ce inlocuiesc pronumele demonstrative?", "substantive cu indicație spațială"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ feminine apropiere:", "aceasta, acestea"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ masculine depărtare:", "acela, aceia"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ neutru pentru ceva nedefinit:", "asta, aia"));
+    questions.push(createTyping(topic, subtopic, "De ce se numesc 'demonstrative'?", "demonstrează, arată pozițiaspațial"));
 
     return shuffle(questions, rng);
   },
