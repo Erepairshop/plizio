@@ -2,7 +2,7 @@
 // AstroMagyar — Hungarian language curriculum
 // 1. osztály (Grade 1): Betűk, szótagok, hangok, szavak, ellentétek, mondatok, szókincs
 
-import type { CurriculumQuestion } from "./curriculumTypes";
+import type { CurriculumQuestion, CurriculumTyping } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
 import { G2_Generators_Hungarian } from "./hungarianGenerators2";
 import { G6_Generators_Hungarian } from "./hungarianGenerators6";
@@ -57,7 +57,7 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
   const [, subtopicId] = topicKey.split("/");
 
   // Select generator pool by grade
-  let generatorPool: Record<string, () => MagyarMCQ[]>;
+  let generatorPool: Record<string, () => MagyarMCQ[] | CurriculumTyping[]>;
   if (osztaly === 2) {
     generatorPool = G2_Generators_Hungarian;
   } else if (osztaly === 6) {
@@ -66,7 +66,7 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
     generatorPool = G1_Generators_Hungarian;
   }
 
-  const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[]>)[subtopicId];
+  const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[] | CurriculumTyping[]>)[subtopicId];
 
   if (!generatorFn) {
     console.warn(`[MagyarCurriculum] No generator found for subtopic: ${subtopicId} (grade ${osztaly})`);
@@ -74,7 +74,8 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
   }
 
   // Call the generator to get questions
-  return generatorFn();
+  const result = generatorFn();
+  return (result as MagyarMCQ[]) || [];
 }
 
 // ─── O1 (1. osztály) Curriculum ───────────────────────────────────────────────
