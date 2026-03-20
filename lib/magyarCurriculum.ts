@@ -4,6 +4,7 @@
 
 import type { CurriculumQuestion } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
+import { G2_Generators_Hungarian } from "./hungarianGenerators2";
 
 // ─── Type definitions ──────────────────────────────────────────────────────────
 export interface MagyarMCQ {
@@ -50,17 +51,20 @@ function makeMagyarSubtopic(
 
 // ─── Question generator function ──────────────────────────────────────────────
 // Maps topic keys to generator functions and returns generated questions
-function generateMagyarQuestions(topicKey: string, _lang: string): MagyarMCQ[] {
+function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: number = 1): MagyarMCQ[] {
   // Extract subtopic ID from key (format: "theme/subtopic")
   const [, subtopicId] = topicKey.split("/");
-  const generatorFn = (G1_Generators_Hungarian as Record<string, (seed?: number) => MagyarMCQ[]>)[subtopicId];
+
+  // Select generator pool by grade
+  const generatorPool = osztaly === 2 ? G2_Generators_Hungarian : G1_Generators_Hungarian;
+  const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[]>)[subtopicId];
 
   if (!generatorFn) {
-    console.warn(`[MagyarCurriculum] No generator found for subtopic: ${subtopicId}`);
+    console.warn(`[MagyarCurriculum] No generator found for subtopic: ${subtopicId} (grade ${osztaly})`);
     return [];
   }
 
-  // Call the generator to get 45 questions
+  // Call the generator to get questions
   return generatorFn();
 }
 
@@ -358,6 +362,164 @@ const O1_THEME_SZOKINCS = makeMagyarTheme(
   ],
 );
 
+// ─── O2 (2. osztály) Curriculum ───────────────────────────────────────────────
+// Szófajok / Word types theme
+const O2_SZOFAJOK_FONEV = makeMagyarSubtopic(
+  "fonev",
+  { hu: "Főnevek", en: "Nouns", de: "Nomen", ro: "Substantive" },
+  generateMagyarQuestions("szofajok/fonev", "hu", 2),
+);
+
+const O2_SZOFAJOK_IGE = makeMagyarSubtopic(
+  "ige",
+  { hu: "Igék", en: "Verbs", de: "Verben", ro: "Verbe" },
+  generateMagyarQuestions("szofajok/ige", "hu", 2),
+);
+
+const O2_SZOFAJOK_MELLEKNEV = makeMagyarSubtopic(
+  "melleknev",
+  { hu: "Melléknevek", en: "Adjectives", de: "Adjektive", ro: "Adjective" },
+  generateMagyarQuestions("szofajok/melleknev", "hu", 2),
+);
+
+const O2_THEME_SZOFAJOK = makeMagyarTheme(
+  "szofajok",
+  { hu: "Szófajok", en: "Word Types", de: "Wortarten", ro: "Tipuri de cuvinte" },
+  [O2_SZOFAJOK_FONEV, O2_SZOFAJOK_IGE, O2_SZOFAJOK_MELLEKNEV],
+);
+
+// Helyesírás / Spelling theme
+const O2_HELYESIRAS_LY_J = makeMagyarSubtopic(
+  "ly_j",
+  { hu: "ly/j szabály", en: "ly/j rule", de: "ly/j Regel", ro: "Regula ly/j" },
+  generateMagyarQuestions("helyesiras/ly_j", "hu", 2),
+);
+
+const O2_HELYESIRAS_ROVID_HOSSZU = makeMagyarSubtopic(
+  "rovid_hosszu",
+  { hu: "Rövid-hosszú", en: "Short-long vowels", de: "Kurz-lang", ro: "Vocale scurte-lungi" },
+  generateMagyarQuestions("helyesiras/rovid_hosszu", "hu", 2),
+);
+
+const O2_THEME_HELYESIRAS = makeMagyarTheme(
+  "helyesiras",
+  { hu: "Helyesírás", en: "Spelling", de: "Rechtschreibung", ro: "Ortografie" },
+  [O2_HELYESIRAS_LY_J, O2_HELYESIRAS_ROVID_HOSSZU],
+);
+
+// Mondattan / Grammar theme
+const O2_MONDAT_MONDATFAJTAK = makeMagyarSubtopic(
+  "mondatfajtak",
+  { hu: "Mondatfajták", en: "Sentence types", de: "Satztypen", ro: "Tipuri de propoziții" },
+  generateMagyarQuestions("mondat/mondatfajtak", "hu", 2),
+);
+
+const O2_MONDAT_MONDATRESZ = makeMagyarSubtopic(
+  "mondatresz",
+  { hu: "Mondatrészek", en: "Sentence parts", de: "Satzglieder", ro: "Componente propoziție" },
+  generateMagyarQuestions("mondat/mondatresz", "hu", 2),
+);
+
+const O2_THEME_MONDAT = makeMagyarTheme(
+  "mondat",
+  { hu: "Mondattan", en: "Grammar", de: "Grammatik", ro: "Gramatică" },
+  [O2_MONDAT_MONDATFAJTAK, O2_MONDAT_MONDATRESZ],
+);
+
+// Szó / Word structure theme
+const O2_SZO_OSSZETETEL = makeMagyarSubtopic(
+  "osszetetel",
+  { hu: "Szóösszetétel", en: "Compound words", de: "Zusammensetzung", ro: "Compuneri" },
+  generateMagyarQuestions("szo/osszetetel", "hu", 2),
+);
+
+const O2_SZO_KEPZOK = makeMagyarSubtopic(
+  "kepzok",
+  { hu: "Képzők", en: "Affixes", de: "Affixe", ro: "Afixe" },
+  generateMagyarQuestions("szo/kepzok", "hu", 2),
+);
+
+const O2_THEME_SZO = makeMagyarTheme(
+  "szo",
+  { hu: "Szó szerkezete", en: "Word structure", de: "Wortstruktur", ro: "Structura cuvintelor" },
+  [O2_SZO_OSSZETETEL, O2_SZO_KEPZOK],
+);
+
+// Ragozás / Conjugation theme
+const O2_RAGOZAS_FONEVREG = makeMagyarSubtopic(
+  "fonevreg",
+  { hu: "Főnévragozás", en: "Noun declension", de: "Nomendeklination", ro: "Declinarea substantivelor" },
+  generateMagyarQuestions("ragozas/fonevreg", "hu", 2),
+);
+
+const O2_RAGOZAS_IGEREG = makeMagyarSubtopic(
+  "igereg",
+  { hu: "Igeragozás", en: "Verb conjugation", de: "Verbkonjugation", ro: "Conjugarea verbelor" },
+  generateMagyarQuestions("ragozas/igereg", "hu", 2),
+);
+
+const O2_THEME_RAGOZAS = makeMagyarTheme(
+  "ragozas",
+  { hu: "Ragozás", en: "Conjugation", de: "Konjugation", ro: "Conjugare" },
+  [O2_RAGOZAS_FONEVREG, O2_RAGOZAS_IGEREG],
+);
+
+// Szókincs / Vocabulary theme
+const O2_SZOKINCS_SZINONIMAK = makeMagyarSubtopic(
+  "szinonimak",
+  { hu: "Szinonimák", en: "Synonyms", de: "Synonyme", ro: "Sinonime" },
+  generateMagyarQuestions("szokincs/szinonimak", "hu", 2),
+);
+
+const O2_SZOKINCS_ELLENTETEK2 = makeMagyarSubtopic(
+  "ellentetek2",
+  { hu: "Ellentétek", en: "Antonyms", de: "Antonyme", ro: "Antonime" },
+  generateMagyarQuestions("szokincs/ellentetek2", "hu", 2),
+);
+
+const O2_SZOKINCS_FOGLALKOZASOK = makeMagyarSubtopic(
+  "foglalkozasok",
+  { hu: "Foglalkozások", en: "Occupations", de: "Berufe", ro: "Ocupații" },
+  generateMagyarQuestions("szokincs/foglalkozasok", "hu", 2),
+);
+
+const O2_SZOKINCS_EVSZAKOK = makeMagyarSubtopic(
+  "evszakok",
+  { hu: "Évszakok", en: "Seasons", de: "Jahreszeiten", ro: "Anotimpuri" },
+  generateMagyarQuestions("szokincs/evszakok", "hu", 2),
+);
+
+const O2_SZOKINCS_ISKOLA = makeMagyarSubtopic(
+  "iskola",
+  { hu: "Iskolai szókincs", en: "School vocabulary", de: "Schulwortschatz", ro: "Vocabular școlar" },
+  generateMagyarQuestions("szokincs/iskola", "hu", 2),
+);
+
+const O2_THEME_SZOKINCS = makeMagyarTheme(
+  "szokincs",
+  { hu: "Szókincs", en: "Vocabulary", de: "Wortschatz", ro: "Vocabular" },
+  [O2_SZOKINCS_SZINONIMAK, O2_SZOKINCS_ELLENTETEK2, O2_SZOKINCS_FOGLALKOZASOK, O2_SZOKINCS_EVSZAKOK, O2_SZOKINCS_ISKOLA],
+);
+
+// Olvasás / Reading theme
+const O2_OLVASAS_SZOKINCS = makeMagyarSubtopic(
+  "szokincs",
+  { hu: "Olvasási szókincs", en: "Reading vocabulary", de: "Lesewortschatz", ro: "Vocabular de lectura" },
+  generateMagyarQuestions("olvasas/szokincs", "hu", 2),
+);
+
+const O2_OLVASAS_SZOVEGERTES = makeMagyarSubtopic(
+  "szovegertes",
+  { hu: "Szövegértés", en: "Reading comprehension", de: "Leseverständnis", ro: "Înțelegere text" },
+  generateMagyarQuestions("olvasas/szovegertes", "hu", 2),
+);
+
+const O2_THEME_OLVASAS = makeMagyarTheme(
+  "olvasas",
+  { hu: "Olvasás", en: "Reading", de: "Lesen", ro: "Lectura" },
+  [O2_OLVASAS_SZOKINCS, O2_OLVASAS_SZOVEGERTES],
+);
+
 // ─── O1 Curriculum assembly ───────────────────────────────────────────────────
 export const MAGYAR_CURRICULUM: MagyarCurriculumGrade = {
   1: [
@@ -365,6 +527,15 @@ export const MAGYAR_CURRICULUM: MagyarCurriculumGrade = {
     O1_THEME_SZAVAK,
     O1_THEME_MONDATOK,
     O1_THEME_SZOKINCS,
+  ],
+  2: [
+    O2_THEME_SZOFAJOK,
+    O2_THEME_HELYESIRAS,
+    O2_THEME_MONDAT,
+    O2_THEME_SZO,
+    O2_THEME_RAGOZAS,
+    O2_THEME_SZOKINCS,
+    O2_THEME_OLVASAS,
   ],
 };
 

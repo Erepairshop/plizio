@@ -197,6 +197,98 @@ const SCHOOL_VOCAB = [
   "tanterem", "könyvtár", "tornaterem", "öltöző", "kert", "menza",
 ];
 
+// Articles (szófajok/nevelő) — a, az, egy usage
+const ARTICLES_USAGE = [
+  { sentence: "A kutya nagy.", article: "a", context: "definite, consonant" },
+  { sentence: "Az alma piros.", article: "az", context: "definite, vowel" },
+  { sentence: "Egy ház van.", article: "egy", context: "indefinite" },
+  { sentence: "A iskola szép.", article: "az", context: "definite, vowel sound" },
+  { sentence: "Egy ember jött.", article: "egy", context: "indefinite" },
+  { sentence: "Az óra van.", article: "az", context: "definite, vowel" },
+];
+
+// Postpositions (szófajok/nevuto) — spatial relations
+const POSTPOSITIONS = [
+  { word: "mellett", meaning: "beside", example: "A ház mellett van egy fa." },
+  { word: "mögött", meaning: "behind", example: "A kutya mögött szalad." },
+  { word: "alatt", meaning: "under", example: "Az asztal alatt egy labda van." },
+  { word: "felett", meaning: "above", example: "A madár felett az ég kék." },
+  { word: "között", meaning: "between", example: "A két fa között egy patak van." },
+  { word: "előtt", meaning: "in front of", example: "Az iskola előtt játékos vannak." },
+];
+
+// Vowel harmony (helyesiras/maganhangzo_harmonia) — mély/magas rag
+const VOWEL_HARMONY = [
+  { word: "ház", dim: "házak", ragClass: "mély" },
+  { word: "szék", dim: "székek", ragClass: "magas" },
+  { word: "kutya", dim: "kutyák", ragClass: "mély" },
+  { word: "kenyér", dim: "kenyerek", ragClass: "magas" },
+  { word: "virág", dim: "virágok", ragClass: "mély" },
+  { word: "tündér", dim: "tündérek", ragClass: "magas" },
+];
+
+// Long consonants (helyesiras/hosszu_massalhangzo) — összeesz, hasznos, vaddisznó
+const LONG_CONSONANTS = [
+  { word: "összes", hasLong: true, pattern: "ss" },
+  { word: "vasárnap", hasLong: false, pattern: "single" },
+  { word: "szükséges", hasLong: false, pattern: "single" },
+  { word: "osztály", hasLong: false, pattern: "single" },
+  { word: "történet", hasLong: false, pattern: "single" },
+  { word: "rossz", hasLong: true, pattern: "ss" },
+  { word: "kellemes", hasLong: true, pattern: "ll" },
+  { word: "uttort", hasLong: true, pattern: "tt" },
+];
+
+// Nature vocabulary (szokincs/termeszet) — erdő, mező, tó, hegy, patak
+const NATURE_WORDS = [
+  "erdő", "mező", "tó", "hegy", "patak", "folyó", "fa", "fű", "virág",
+  "madár", "hal", "szarvas", "mókus", "völgy", "hegycsúcs",
+];
+
+// Sports (szokincs/sport) — focizik, úszik, fut, ugrik, labda
+const SPORTS_VOCAB = [
+  "focizik", "úszik", "fut", "ugrik", "labda", "rúgás", "kapu", "játék",
+  "verseny", "győzelem", "vesztes", "csapat", "edző", "pályázik",
+];
+
+// Word order (mondat/szorend) — ki mit csinál hol mikor
+const WORD_ORDER_EXAMPLES = [
+  { correct: "A fiú az iskolában tanul.", parts: ["A fiú", "az iskolában", "tanul"] },
+  { correct: "A macska az ágy alatt alszik.", parts: ["A macska", "az ágy alatt", "alszik"] },
+  { correct: "Mari kedden tornaórára megy.", parts: ["Mari", "kedden", "tornaórára", "megy"] },
+  { correct: "Az apa a konyhában főz.", parts: ["Az apa", "a konyhában", "főz"] },
+];
+
+// Story elements (olvasas/mesek) — hős, gonosz, varázslat, tanulság
+const STORY_ELEMENTS = [
+  { element: "hős", description: "fő szereplő" },
+  { element: "gonosz", description: "rossz szereplő" },
+  { element: "varázslat", description: "természetfeletti erő" },
+  { element: "tanulság", description: "a történet üzenete" },
+  { element: "kaland", description: "érdekes esemény" },
+  { element: "bizottság", description: "döntéshozó csoport" },
+];
+
+// Plural formation (szo/tobbesszam) — -k, -ok/-ek/-ök
+const PLURAL_FORMS = [
+  { singular: "kutya", plural: "kutyák", ending: "-k" },
+  { singular: "ház", plural: "házak", ending: "-ak" },
+  { singular: "szék", plural: "székek", ending: "-ek" },
+  { singular: "böl", plural: "bölök", ending: "-ök" },
+  { singular: "virág", plural: "virágok", ending: "-ok" },
+  { singular: "kenyér", plural: "kenyerek", ending: "-ek" },
+];
+
+// Hyphenation (szo/kotojelek) — összeesz, végigmegy, stb.
+const HYPHENATED_WORDS = [
+  { word: "helyesen", needsHyphen: false },
+  { word: "végigmegy", needsHyphen: false },
+  { word: "ki-visszatart", needsHyphen: true },
+  { word: "fel-felkapcsolódik", needsHyphen: true },
+  { word: "összeesz", needsHyphen: false },
+  { word: "újra-kezd", needsHyphen: true },
+];
+
 // ─── GENERATOR FUNCTIONS (30+ questions each) ─────────────────────────
 
 function genNounRecognition(): CurriculumMCQ[] {
@@ -382,6 +474,110 @@ function genReadingComprehension(): CurriculumMCQ[] {
     const story = pick(stories);
     const others = shuffle(["eszik", "alszik", "játszik", "szépítget", "vár"]).slice(0, 3);
     qs.push(createMCQ("olvasas", "szovegertes", story.question, story.answer, others));
+  }
+  return qs;
+}
+
+function genArticles(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const usage = pick(ARTICLES_USAGE);
+    const others = shuffle(["a", "az", "egy"]).filter(x => x !== usage.article).slice(0, 3);
+    const blankSentence = usage.sentence.replace(usage.article, "___");
+    qs.push(createMCQ("szofajok", "nevelő", `Melyik a helyes? "${blankSentence}"`, usage.article, others));
+  }
+  return qs;
+}
+
+function genPostpositions(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const pp = pick(POSTPOSITIONS);
+    const others = shuffle(POSTPOSITIONS.filter(p => p.word !== pp.word)).map(p => p.word).slice(0, 3);
+    const blankExample = pp.example.replace(pp.word, "___");
+    qs.push(createMCQ("szofajok", "nevuto", `Melyik nevető a helyes? "${blankExample}"`, pp.word, others));
+  }
+  return qs;
+}
+
+function genVowelHarmony(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const vh = pick(VOWEL_HARMONY);
+    const others = shuffle(VOWEL_HARMONY.filter(v => v.word !== vh.word)).map(v => v.dim).slice(0, 3);
+    qs.push(createMCQ("helyesiras", "maganhangzo_harmonia", `"${vh.word}" többes száma:`, vh.dim, others));
+  }
+  return qs;
+}
+
+function genLongConsonants(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const lc = pick(LONG_CONSONANTS);
+    const answer = lc.hasLong ? "Igen" : "Nem";
+    const others = [lc.hasLong ? "Nem" : "Igen"];
+    qs.push(createMCQ("helyesiras", "hosszu_massalhangzo", `Van-e hosszú mássalhangzó a "${lc.word}"-ban?`, answer, others));
+  }
+  return qs;
+}
+
+function genNatureVocab(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const word = pick(NATURE_WORDS);
+    const others = shuffle(NATURE_WORDS.filter(w => w !== word)).slice(0, 3);
+    qs.push(createMCQ("szokincs", "termeszet", `Melyik a természeti szó?`, word, others));
+  }
+  return qs;
+}
+
+function genSportsVocab(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const word = pick(SPORTS_VOCAB);
+    const others = shuffle(SPORTS_VOCAB.filter(w => w !== word)).slice(0, 3);
+    qs.push(createMCQ("szokincs", "sport", `Melyik a sporttal kapcsolatos szó?`, word, others));
+  }
+  return qs;
+}
+
+function genWordOrder(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const example = pick(WORD_ORDER_EXAMPLES);
+    const options = [example.correct, ...shuffle(WORD_ORDER_EXAMPLES.filter(e => e.correct !== example.correct)).map(e => e.correct).slice(0, 3)];
+    qs.push(createMCQ("mondat", "szorend", `Melyik a helyes szórend?`, example.correct, options.filter(o => o !== example.correct)));
+  }
+  return qs;
+}
+
+function genStoryElements(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const elem = pick(STORY_ELEMENTS);
+    const others = shuffle(STORY_ELEMENTS.filter(e => e.element !== elem.element)).map(e => e.element).slice(0, 3);
+    qs.push(createMCQ("olvasas", "mesek", `Mi a meséhez tartozó elem? (${elem.description})`, elem.element, others));
+  }
+  return qs;
+}
+
+function genPluralForms(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const pf = pick(PLURAL_FORMS);
+    const others = shuffle(PLURAL_FORMS.filter(p => p.singular !== pf.singular)).map(p => p.plural).slice(0, 3);
+    qs.push(createMCQ("szo", "tobbesszam", `"${pf.singular}" többes száma:`, pf.plural, others));
+  }
+  return qs;
+}
+
+function genHyphenation(): CurriculumMCQ[] {
+  const qs: CurriculumMCQ[] = [];
+  for (let i = 0; i < 30; i++) {
+    const hw = pick(HYPHENATED_WORDS);
+    const answer = hw.needsHyphen ? "Igen, szükséges a kötőjel" : "Nem, nem szükséges a kötőjel";
+    const others = [hw.needsHyphen ? "Nem, nem szükséges a kötőjel" : "Igen, szükséges a kötőjel"];
+    qs.push(createMCQ("szo", "kotojelek", `Szükséges-e kötőjel a "${hw.word}"-ban?`, answer, others));
   }
   return qs;
 }
