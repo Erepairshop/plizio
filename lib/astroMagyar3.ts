@@ -8,6 +8,7 @@ export type { MathQuestion } from "./mathCurriculum";
 import type { MathQuestion } from "./mathCurriculum";
 
 import type { MagyarProgress } from "./astroMagyar";
+export type { MagyarProgress };
 import { loadMagyarProgress, saveMagyarProgress, isMissionDone, isIslandDone, isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone, completeMission, islandTotalStars, completeTest, generateMagyarIslandQuestions, generateMagyarCheckpointQuestions } from "./astroMagyar";
 
 // ─── O3 Constants ──────────────────────────────────────────────────────────
@@ -22,16 +23,19 @@ export const O3_CHECKPOINT_MAP: Record<string, string[]> = {
 export const O3_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
     "igeidok/jelen", "igeidok/mult", "igeidok/jovo",
-    "nevszok/fonevragozas", "nevszok/melleknevfokozas",
+    "igeidok/felszolito", "igeidok/felteteles",
+    "nevszok/fonevragozas", "nevszok/melleknevfokozas", "nevszok/birtokos",
   ],
   test2: [
     "szo/osszetett_haladó", "szo/szocsaladok",
     "szoveg/megertés", "szoveg/osszefoglalas",
+    "szokincs/erzelmek", "szokincs/idokifejezesek",
   ],
   test3: [
     "szokincs/szolasok", "szokincs/kozmondasok",
-    "helyesiras/egybeíras", "helyesiras/kuloniras",
-    "mondat/targy", "mondat/hatarozo", "mondat/jelzo",
+    "helyesiras/egybeíras", "helyesiras/kuloniras", "helyesiras/ikes_igek", "helyesiras/masshangzo_torveny",
+    "mondat/targy", "mondat/hatarozo", "mondat/jelzo", "mondat/osszetett_alap",
+    "fogalmazas/parbeszed",
   ],
 };
 
@@ -41,7 +45,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i1",
     name: { en: "Verb Tenses Island", hu: "Igeidők szigete", de: "Tempus-Insel", ro: "Insula timpurilor" },
     icon: "📖", color: "#FF2D78", sortRange: [1, 10],
-    topicKeys: ["igeidok/jelen", "igeidok/mult", "igeidok/jovo"],
+    topicKeys: ["igeidok/jelen", "igeidok/mult", "igeidok/jovo", "igeidok/felszolito", "igeidok/felteteles"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Igeidő kvíz",       en: "Tense Quiz",        de: "Tempus-Quiz",           ro: "Quiz timpuri"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -53,7 +57,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i2",
     name: { en: "Noun Declension Island", hu: "Névszók szigete", de: "Nomina-Insel", ro: "Insula substantivelor" },
     icon: "🔗", color: "#00D4FF", sortRange: [1, 10],
-    topicKeys: ["nevszok/fonevragozas", "nevszok/melleknevfokozas"],
+    topicKeys: ["nevszok/fonevragozas", "nevszok/melleknevfokozas", "nevszok/birtokos", "nevszok/hatarozaragu"],
     missions: [
       { id: "m1", category: "explore",   gameType: "black-hole",    icon: "🕳️", label: { hu: "Fekete lyuk",       en: "Black Hole",       de: "Schwarzes Loch",        ro: "Gaură neagră"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -89,7 +93,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i5",
     name: { en: "Idioms Island", hu: "Szólások szigete", de: "Idiomatik-Insel", ro: "Insula idiomurilor" },
     icon: "🎭", color: "#B44DFF", sortRange: [1, 10],
-    topicKeys: ["szokincs/szolasok", "szokincs/kozmondasok"],
+    topicKeys: ["szokincs/szolasok", "szokincs/kozmondasok", "szokincs/erzelmek", "szokincs/idokifejezesek"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Pálya kvíz",        en: "Orbit Quiz",       de: "Umlaufbahn-Quiz",       ro: "Quiz orbital"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -101,7 +105,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Advanced Spelling Island", hu: "Helyesírás haladó szigete", de: "Rechtschreib-Insel", ro: "Insula ortografiei avansate" },
     icon: "✏️", color: "#10B981", sortRange: [1, 10],
-    topicKeys: ["helyesiras/egybeíras", "helyesiras/kuloniras"],
+    topicKeys: ["helyesiras/egybeíras", "helyesiras/kuloniras", "helyesiras/ikes_igek", "helyesiras/masshangzo_torveny"],
     missions: [
       { id: "m1", category: "explore",   gameType: "speed-round",   icon: "⚡", label: { hu: "Villámkör",        en: "Speed Round",      de: "Blitzrunde",            ro: "Rundă rapidă"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -113,7 +117,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i7",
     name: { en: "Composition Island", hu: "Fogalmazás szigete", de: "Aufsatz-Insel", ro: "Insula compunerii" },
     icon: "📜", color: "#FF9500", sortRange: [1, 10],
-    topicKeys: ["fogalmazas/elbeszeles", "fogalmazas/leiras"],
+    topicKeys: ["fogalmazas/elbeszeles", "fogalmazas/leiras", "fogalmazas/parbeszed"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Pálya kvíz",        en: "Orbit Quiz",       de: "Umlaufbahn-Quiz",       ro: "Quiz orbital"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -125,7 +129,7 @@ export const O3_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Sentence Analysis Island", hu: "Mondatelemzés szigete", de: "Satzanalyse-Insel", ro: "Insula analizei propozițiilor" },
     icon: "🔍", color: "#E879F9", sortRange: [1, 10],
-    topicKeys: ["mondat/targy", "mondat/hatarozo", "mondat/jelzo"],
+    topicKeys: ["mondat/targy", "mondat/hatarozo", "mondat/jelzo", "mondat/osszetett_alap"],
     missions: [
       { id: "m1", category: "explore",   gameType: "black-hole",    icon: "🕳️", label: { hu: "Fekete lyuk",       en: "Black Hole",       de: "Schwarzes Loch",        ro: "Gaură neagră"     } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -138,10 +142,11 @@ export const O3_ISLANDS: IslandDef[] = [
     name: { en: "Big Test", hu: "Nagy Próba", de: "Große Prüfung", ro: "Marea probă" },
     icon: "🌟", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: [
-      "igeidok/jelen", "igeidok/mult", "igeidok/jovo",
-      "nevszok/fonevragozas", "szo/osszetett_haladó",
-      "szoveg/megertés", "szokincs/szolasok", "helyesiras/egybeíras",
-      "mondat/targy", "mondat/hatarozo",
+      "igeidok/jelen", "igeidok/mult", "igeidok/jovo", "igeidok/felszolito", "igeidok/felteteles",
+      "nevszok/fonevragozas", "nevszok/melleknevfokozas", "nevszok/birtokos", "szo/osszetett_haladó",
+      "szoveg/megertés", "szoveg/osszefoglalas", "szokincs/szolasok", "szokincs/erzelmek",
+      "helyesiras/egybeíras", "helyesiras/ikes_igek", "helyesiras/masshangzo_torveny",
+      "mondat/targy", "mondat/hatarozo", "mondat/jelzo", "mondat/osszetett_alap", "fogalmazas/parbeszed",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Pálya kvíz",        en: "Orbit Quiz",       de: "Umlaufbahn-Quiz",       ro: "Quiz orbital"     } },

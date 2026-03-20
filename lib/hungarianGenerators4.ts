@@ -491,13 +491,13 @@ export const helyesiras_kuloniro = (): CurriculumMCQ[] => {
 // 16. fogalmazas/erveles — Argumentation (identifying claims)
 export const fogalmazas_erveles = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
-  const arguments = [
+  const claimsReasons = [
     { claim: "A sport fontos", reason: "egészségből" },
     { claim: "Az olvasás jó", reason: "képzeltségből" },
     { claim: "Az iskola szükséges", reason: "tanulásból" },
   ];
 
-  for (const arg of arguments) {
+  for (const arg of claimsReasons) {
     questions.push(
       createMCQ(
         "fogalmazas",

@@ -3,6 +3,38 @@
 // 7. osztály: Nyelvtörténet, retorika haladó, stilisztika, nyelvváltozatok, szövegalkotás, mondattan, kommunikáció, média
 
 import type { IslandDef } from "./astromath";
+import type { MathQuestion } from "./mathCurriculum";
+import { G7_Generators_Hungarian } from "./hungarianGenerators7";
+
+// ─── Bridge: MagyarMCQ → MathQuestion ──────────────────────────────────────
+interface MagyarMCQ {
+  type: "mcq";
+  topic: string;
+  subtopic: string;
+  question: string;
+  options: string[];
+  correct: number;
+}
+
+function magyarToMathQuestion(mq: MagyarMCQ): MathQuestion {
+  return {
+    question: mq.question,
+    correctAnswer: mq.options[mq.correct],
+    options: [...mq.options],
+    topic: mq.subtopic || mq.topic,
+    isWordProblem: false,
+    hasStringOptions: true,
+  };
+}
+
+function shuffleArr<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 // ─── O7 Progress ────────────────────────────────────────────────────────────
 export interface O7Progress {
@@ -221,4 +253,59 @@ export function islandTotalStarsO7(progress: O7Progress, islandId: string): numb
 export function completeTestO7(progress: O7Progress, testId: string): O7Progress {
   if (progress.completedTests.includes(testId)) return progress;
   return { ...progress, completedTests: [...progress.completedTests, testId] };
+}
+
+// ─── Question generation (Grade 7 specific) ────────────────────────────────────
+export function generateIslandQuestionsO7(island: IslandDef, _lang: unknown = 7, count = 10): MathQuestion[] {
+  const pool: MathQuestion[] = [];
+  const seen = new Set<string>();
+  const keys = shuffleArr([...island.topicKeys]);
+
+  for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
+    const key = keys[attempt % keys.length];
+    const [themeId, subtopicId] = key.split("/");
+    const fullKey = `${themeId}_${subtopicId}`.replace(/\//g, "_");
+
+    // Find generator function by key
+    const generatorKey = key.replace("/", "_") as keyof typeof G7_Generators_Hungarian;
+    const genFunc = G7_Generators_Hungarian[generatorKey] as (seed?: number) => (MagyarMCQ & { type: "mcq" })[];
+
+    if (!genFunc) continue;
+
+    const mcqs = genFunc() as (MagyarMCQ & { type: "mcq" })[];
+    if (mcqs.length === 0) continue;
+
+    const q = mcqs[Math.floor(Math.random() * mcqs.length)];
+    if (!seen.has(q.question)) {
+      seen.add(q.question);
+      pool.push(magyarToMathQuestion(q));
+    }
+  }
+  return pool;
+}
+
+export function generateCheckpointQuestionsO7(testId: string, checkpointTopics: Record<string, string[]>, _lang: unknown = 7, count = 10): MathQuestion[] {
+  const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
+  const pool: MathQuestion[] = [];
+  const seen = new Set<string>();
+
+  for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
+    const key = keys[attempt % keys.length];
+    if (!key) continue;
+
+    const generatorKey = key.replace("/", "_") as keyof typeof G7_Generators_Hungarian;
+    const genFunc = G7_Generators_Hungarian[generatorKey] as (seed?: number) => (MagyarMCQ & { type: "mcq" })[];
+
+    if (!genFunc) continue;
+
+    const mcqs = genFunc() as (MagyarMCQ & { type: "mcq" })[];
+    if (mcqs.length === 0) continue;
+
+    const q = mcqs[Math.floor(Math.random() * mcqs.length)];
+    if (!seen.has(q.question)) {
+      seen.add(q.question);
+      pool.push(magyarToMathQuestion(q));
+    }
+  }
+  return pool;
 }

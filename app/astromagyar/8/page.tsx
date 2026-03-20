@@ -157,19 +157,19 @@ export default function AstroMagyar8Page() {
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
     const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const q = generateMagyarIslandQuestions(activeIsland!, lang, qCount);
+    const q = generateMagyarIslandQuestions(activeIsland!, 8, qCount);
     setQuestions(q);
     setMissionScore({ score: 0, total: q.length });
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland]);
 
   const handleCheckpointSelect = useCallback((testId: string) => {
-    const q = generateMagyarCheckpointQuestions(testId, O8_CHECKPOINT_TOPICS, lang, 10);
+    const q = generateMagyarCheckpointQuestions(testId, O8_CHECKPOINT_TOPICS, 8, 10);
     setQuestions(q);
     setMissionScore({ score: 0, total: q.length });
     setCheckpointId(testId);
     setScreen("checkpoint-quiz");
-  }, [lang]);
+  }, []);
 
   const handleMissionComplete = useCallback((finalScore: number, totalQs: number) => {
     if (!activeIsland || !activeMission) return;

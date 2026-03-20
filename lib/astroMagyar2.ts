@@ -316,7 +316,7 @@ export const O2_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Vocabulary Island", hu: "Szókincs Szigete", de: "Wortschatz-Insel", ro: "Insula vocabularului" },
     icon: "🌍", color: "#E879F9", sortRange: [1, 10],
-    topicKeys: ["szokincs/foglalkozasok", "szokincs/evszakok", "szokincs/iskola"],
+    topicKeys: ["szokincs/foglalkozasok", "szokincs/evszakok", "szokincs/iskola", "szokincs/termeszet", "szokincs/sport"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",     icon: "🪐", label: { hu: "Szó rendezés",     en: "Word Sort",        de: "Wort-Sortierung",       ro: "Sortare cuvinte"  } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -331,6 +331,7 @@ export const O2_ISLANDS: IslandDef[] = [
     topicKeys: [
       "szofajok/fonev", "szofajok/ige", "helyesiras/ly_j",
       "mondat/mondatfajtak", "szokincs/szinonimak", "ragozas/igereg",
+      "olvasas/mesek",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "fill-gap",      icon: "🪐", label: { hu: "Szöveg kiegészítés",  en: "Text Completion",  de: "Text-Vervollständigung", ro: "Completare text" } },

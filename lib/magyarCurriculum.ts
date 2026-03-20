@@ -614,7 +614,7 @@ const O6_RETORIKA_ERVELES = makeMagyarSubtopic(
   generateMagyarQuestions("retorika/erveles_alap", "hu", 6),
 );
 
-const O6_RETORIKA_MEGGYOZes = makeMagyarSubtopic(
+const O6_RETORIKA_MEGGYOZES = makeMagyarSubtopic(
   "meggyozes",
   { hu: "Meggyőzés", en: "Persuasion", de: "Überzeugung", ro: "Persuasiune" },
   generateMagyarQuestions("retorika/meggyozes", "hu", 6),

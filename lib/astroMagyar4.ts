@@ -2,7 +2,11 @@
 // AstroMagyar — O4 (4. osztály) island system + progress + O4-specific helpers
 // 4. osztály: Igeragozás, névmások, határozók, összetett mondatok, szóalkotás, helyesírás, fogalmazás, nyelvtan
 
-import type { IslandDef } from "./astromath";
+import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, MatchPair } from "./astromath";
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, MatchPair };
+export type { MathQuestion } from "./mathCurriculum";
+import type { MathQuestion } from "./mathCurriculum";
+import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions } from "./astroMagyar";
 
 // ─── O4 Progress ────────────────────────────────────────────────────────────
 export interface O4Progress {
@@ -67,11 +71,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Adverbials Island", hu: "Határozók Szigete", de: "Adverbiale-Insel", ro: "Insula adverbialelor" },
     icon: "📝", color: "#00D4FF", sortRange: [1, 10],
-    topicKeys: ["hatarozo/hely", "hatarozo/ido", "hatarozo/mod"],
+    topicKeys: ["hatarozo/hely", "hatarozo/ido", "hatarozo/mod", "hatarozo/cel", "hatarozo/ok"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Helyhatározó", en: "Locative Adverbial", de: "Lokaladverbial", ro: "Adverbial locativ" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Időhatározó", en: "Temporal Adverbial", de: "Temporaladverbial", ro: "Adverbial temporal" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Módhatározó", en: "Modal Adverbial", de: "Modaladverbial", ro: "Adverbial modal" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Cél + ok + mód", en: "Purpose, Cause & Manner", de: "Zweck, Grund & Art", ro: "Scop, Cauză & Mod" } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -79,11 +83,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Complex Sentences Island", hu: "Összetett mondatok", de: "Komplexe Sätze", ro: "Propozițiile compuse" },
     icon: "💬", color: "#FFD700", sortRange: [1, 10],
-    topicKeys: ["mondat/mellerendelo", "mondat/alarendelo"],
+    topicKeys: ["mondat/mellerendelo", "mondat/alarendelo", "helyesiras/vesszőhasználat"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Mellérendelő", en: "Coordinate Sentences", de: "Nebenordnende Sätze", ro: "Propoziții coordonate" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Alárendelő", en: "Subordinate Sentences", de: "Unterordnende Sätze", ro: "Propoziții subordonate" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Mondatok vegyes", en: "Mixed Sentences", de: "Gemischte Sätze", ro: "Propoziții mixte" } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Vesszőhasználat", en: "Comma Usage", de: "Kommaverwendung", ro: "Utilizarea virgulei" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -91,11 +95,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i5",
     name: { en: "Word Formation Island", hu: "Szóalkotás", de: "Wortbildung", ro: "Formarea cuvintelor" },
     icon: "🎭", color: "#B44DFF", sortRange: [1, 10],
-    topicKeys: ["szoalkot/kepzes", "szoalkot/ragozas", "szoalkot/jelezés"],
+    topicKeys: ["szoalkot/kepzes", "szoalkot/ragozas", "szoalkot/jelezés", "szoalkot/igekötő_haladó"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Szóképzés", en: "Word Derivation", de: "Wortableitung", ro: "Derivarea cuvintelor" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Ragozás", en: "Inflection", de: "Flexion", ro: "Flexiune" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Jelezés", en: "Marking", de: "Markierung", ro: "Marcaj" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Igekötők haladó", en: "Advanced Particles", de: "Fortgeschrittene Partikel", ro: "Particule avansate" } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -115,11 +119,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i7",
     name: { en: "Composition Island", hu: "Fogalmazás haladó", de: "Komposition Fortgeschritten", ro: "Componere avansată" },
     icon: "📜", color: "#10B981", sortRange: [1, 10],
-    topicKeys: ["fogalmazas/erveles", "fogalmazas/level"],
+    topicKeys: ["fogalmazas/erveles", "fogalmazas/level", "fogalmazas/napló"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Érvelés", en: "Argumentation", de: "Argumentation", ro: "Argumentare" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Levélírás", en: "Letter Writing", de: "Briefschreiben", ro: "Scrisoare" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Fogalmazás vegyes", en: "Mixed Composition", de: "Gemischte Komposition", ro: "Componere mixtă" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Naplóírás", en: "Diary Writing", de: "Tagebuchschreiben", ro: "Scriere în jurnal" } },
     ],
     svgX: 200, svgY: 80,
   },
@@ -127,11 +131,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Grammar Review Island", hu: "Nyelvtan összefoglaló", de: "Grammatik-Zusammenfassung", ro: "Recapitulare gramaticală" },
     icon: "🔍", color: "#FF8C42", sortRange: [1, 10],
-    topicKeys: ["nyelvtan/szoelem", "nyelvtan/mondatelemzes"],
+    topicKeys: ["nyelvtan/szoelem", "nyelvtan/mondatelemzes", "nyelvtan/szószerkezet"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Szóelemzés", en: "Word Analysis", de: "Wortanalyse", ro: "Analiza cuvintelor" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Mondatelemzés", en: "Sentence Analysis", de: "Satzanalyse", ro: "Analiza propozițiilor" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Nyelvtan vegyes", en: "Mixed Grammar", de: "Gemischte Grammatik", ro: "Gramatica mixtă" } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Szószerkezetek", en: "Syntactic Structures", de: "Syntaktische Strukturen", ro: "Structuri sintactice" } },
     ],
     svgX: 150, svgY: 20,
   },
@@ -139,7 +143,7 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i9",
     name: { en: "Grand Finals Island", hu: "Nagy Teszt", de: "Großes Finale", ro: "Marele Sfinal" },
     icon: "🌟", color: "#E879F9", sortRange: [1, 10],
-    topicKeys: ["ige/alanyi", "ige/targyas", "nevmas/szemelyes", "hatarozo/hely", "mondat/mellerendelo"],
+    topicKeys: ["ige/alanyi", "ige/targyas", "ige/igemódok", "nevmas/szemelyes", "nevmas/visszaható", "hatarozo/hely", "hatarozo/cel", "mondat/mellerendelo", "helyesiras/vesszőhasználat", "nyelvtan/szószerkezet"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Végső teszt 1.", en: "Grand Test 1", de: "Großes Test 1", ro: "Test Grand 1" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Végső teszt 2.", en: "Grand Test 2", de: "Großes Test 2", ro: "Test Grand 2" } },
@@ -218,4 +222,12 @@ export function islandTotalStarsO4(progress: O4Progress, islandId: string): numb
 export function completeTestO4(progress: O4Progress, testId: string): O4Progress {
   if (progress.completedTests.includes(testId)) return progress;
   return { ...progress, completedTests: [...progress.completedTests, testId] };
+}
+
+export function generateIslandQuestionsO4(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] {
+  return generateMagyarIslandQuestions(island, 4, count);
+}
+
+export function generateCheckpointQuestionsO4(testId: string, _lang: Lang, count = 10): MathQuestion[] {
+  return generateMagyarCheckpointQuestions(testId, O4_CHECKPOINT_TOPICS, 4, count);
 }

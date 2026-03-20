@@ -29,7 +29,7 @@ import {
   isMissionDoneO4, isIslandDoneO4, isIslandUnlockedO4,
   isCheckpointUnlockedO4, isCheckpointDoneO4,
   completeMissionO4, completeTestO4, islandTotalStarsO4,
-  generateMagyarIslandQuestions, generateMagyarCheckpointQuestions,
+  generateIslandQuestionsO4, generateCheckpointQuestionsO4,
 } from "@/lib/astroMagyar4";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -275,7 +275,7 @@ export default function AstroMagyarO4Page() {
     setActiveMission(mission);
     const gameType = mission.gameType;
     setActiveGameType(gameType);
-    const qs = generateMagyarIslandQuestions(activeIsland!, 4, gameType === "star-match" ? 20 : 10);
+    const qs = generateIslandQuestionsO4(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen(gameType as Screen);
@@ -315,7 +315,7 @@ export default function AstroMagyarO4Page() {
   // Checkpoint
   const handleCheckpointSelect = useCallback((testId: string) => {
     setCheckpointId(testId);
-    const qs = generateMagyarCheckpointQuestions(testId, O4_CHECKPOINT_TOPICS, 4, 10);
+    const qs = generateCheckpointQuestionsO4(testId, lang as Lang, 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen("checkpoint-quiz");

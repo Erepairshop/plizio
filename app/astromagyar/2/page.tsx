@@ -28,12 +28,11 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import {
   O2_ISLANDS, O2_CHECKPOINT_MAP, O2_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO2Progress, saveO2Progress, type MagyarProgress,
-  isMissionDone, isIslandDone, isIslandUnlockedO2,
-  isCheckpointUnlocked, isCheckpointDone,
+  isMissionDoneO2, isIslandDoneO2, isIslandUnlockedO2,
+  isCheckpointUnlockedO2, isCheckpointDoneO2,
   completeMissionO2, completeTestO2, islandTotalStarsO2,
-  generateMagyarIslandQuestions, generateMagyarCheckpointQuestions,
+  generateIslandQuestionsO2, generateCheckpointQuestionsO2,
 } from "@/lib/astroMagyar2";
-import { O1_ISLAND_SVGS } from "@/app/astromagyar/islands";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -157,8 +156,8 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {Object.entries(CP_POS).map(([testId, pos]) => {
-        const unlocked = isCheckpointUnlocked(progress, O2_CHECKPOINT_MAP, testId);
-        const done = isCheckpointDone(progress, testId);
+        const unlocked = isCheckpointUnlockedO2(progress, testId);
+        const done = isCheckpointDoneO2(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
@@ -182,7 +181,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 
       {O2_ISLANDS.map((island, idx) => {
         const unlocked = isIslandUnlockedO2(progress, island.id);
-        const done = isIslandDone(progress, island.id);
+        const done = isIslandDoneO2(progress, island.id);
         const total = islandTotalStarsO2(progress, island.id);
 
         return (
@@ -206,6 +205,20 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               <text x={island.svgX} y={island.svgY + 50} textAnchor="middle" fontSize={10} fontWeight="bold" fill={island.color}>
                 {"⭐".repeat(Math.min(total, 3))} {total}/9
               </text>
+            )}
+            {unlocked && !done && (
+              <g>
+                {island.missions.map((m, mi) => {
+                  const mdone = isMissionDoneO2(progress, island.id, m.id);
+                  return (
+                    <g key={mi}>
+                      <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
+                        fill={mdone ? island.color : "rgba(255,255,255,0.08)"}
+                        stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />
+                    </g>
+                  );
+                })}
+              </g>
             )}
           </g>
         );
@@ -238,10 +251,11 @@ export default function AstroMagyar2() {
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
-  const [score, setScore] = useState(0);
+  const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
-  const [newMilestones, setNewMilestones] = useState<string[]>([]);
-  const [avatarMood, setAvatarMood] = useState<"idle" | "focused" | "happy" | "disappointed" | "victory">("idle");
+  const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
+  const [checkpointId, setCheckpointId] = useState<string | null>(null);
+  const [avatarMood, setAvatarMood] = useState<"idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing">("idle");
 
   const handleIslandSelect = useCallback((island: IslandDef) => {
     setActiveIsland(island);
@@ -250,54 +264,50 @@ export default function AstroMagyar2() {
 
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
-    const qs = generateMagyarIslandQuestions(activeIsland!, lang as Lang, 10);
+    const gameType = mission.gameType;
+    const qs = generateIslandQuestionsO2(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
-    setScore(0);
-    setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+    setMissionScore({ score: 0, total: 0 });
+    setScreen(gameType as Screen);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const handleMissionComplete = useCallback((finalScore: number) => {
-    setScore(finalScore);
-    const stars = finalScore >= 9 ? 3 : finalScore >= 6 ? 2 : 1;
-    const rarity = calculateRarity(finalScore, 10, 0, false);
-    saveCard({ id: generateCardId(), game: "astromagyar2", rarity, score: finalScore, total: 10, date: new Date().toISOString() });
+  const handleMissionComplete = useCallback((score: number, total: number) => {
+    setMissionScore({ score, total });
+    const rarity = calculateRarity(score, total, 0, false);
+    saveCard({ id: generateCardId(), game: "astromagyar", rarity, score, total, date: new Date().toISOString() });
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     setEarnedCard(rarity);
-    setAvatarMood("victory");
+    setRewardScore({ score, total });
     setScreen("reward");
   }, []);
 
   const handleRewardDone = useCallback(() => {
-    const newMissions = checkNewMilestones();
-    setNewMilestones(newMissions);
+    checkNewMilestones();
     if (activeIsland && activeMission) {
-      const stars = score >= 9 ? 3 : score >= 6 ? 2 : 1;
+      const stars = missionScore.score >= missionScore.total * 0.8 ? 3 : missionScore.score >= missionScore.total * 0.6 ? 2 : 1;
       const newProg = completeMissionO2(progress, activeIsland.id, activeMission.id, stars);
       setProgress(newProg);
       saveO2Progress(newProg);
-      setScreen("mission-select");
+      setScreen("island-intro");
     }
-  }, [activeIsland, activeMission, score, progress]);
+  }, [activeIsland, activeMission, missionScore, progress]);
 
-  const handleCheckpoint = useCallback((testId: string) => {
-    const qs = generateMagyarCheckpointQuestions(testId, O2_CHECKPOINT_TOPICS, lang as Lang, 10);
+  const handleCheckpointSelect = useCallback((testId: string) => {
+    setCheckpointId(testId);
+    const qs = generateCheckpointQuestionsO2(testId, lang as Lang, 10);
     setQuestions(qs);
-    setScore(0);
+    setMissionScore({ score: 0, total: 0 });
     setScreen("checkpoint-quiz");
-  }, [lang]);
+  }, [lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const handleCheckpointComplete = useCallback((finalScore: number) => {
-    setScore(finalScore);
-    const newProg = completeTestO2(progress, "test1"); // would be dynamic
-    setProgress(newProg);
-    saveO2Progress(newProg);
-    const rarity = calculateRarity(finalScore, 10, 0, false);
-    saveCard({ id: generateCardId(), game: "astromagyar2", rarity, score: finalScore, total: 10, date: new Date().toISOString() });
-    incrementTotalGames();
-    setAvatarMood("victory");
+  const handleCheckpointSuccess = useCallback((score: number, total: number) => {
+    setMissionScore({ score, total });
+    const updatedProg = completeTestO2(progress, checkpointId!);
+    setProgress(updatedProg);
+    saveO2Progress(updatedProg);
     setScreen("checkpoint-done");
-  }, [progress]);
+  }, [progress, checkpointId]);
 
   const bgGradient = "from-blue-900/30 via-cyan-900/20 to-teal-900/30";
 
@@ -312,7 +322,7 @@ export default function AstroMagyar2() {
             {O2_LABEL[lang] || O2_LABEL.en}
           </motion.h1>
           <div className="w-full max-w-sm px-4">
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpoint} />
+            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
           </div>
         </div>
       )}
@@ -355,27 +365,37 @@ export default function AstroMagyar2() {
         </motion.div>
       )}
 
-      {/* Game Screens (simplified: all use OrbitQuiz for now) */}
-      {["orbit-quiz", "black-hole", "speed-round", "star-match", "category-rush", "fill-gap", "spell-race", "sentence-builder", "word-sort", "grammar-match", "gravity-sort"].includes(screen) && questions.length > 0 && (
-        <OrbitQuiz questions={questions} game="astromagyar2" color="#00D4FF" lang={lang as Lang}
-          onDone={(finalScore) => handleMissionComplete(finalScore)} />
+      {/* Game Screens */}
+      {screen === "orbit-quiz" && questions.length > 0 && (
+        <OrbitQuiz questions={questions} color="#00D4FF"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "black-hole" && questions.length > 0 && (
+        <BlackHole questions={questions} color="#00D4FF"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "gravity-sort" && activeIsland && (
+        <GravitySort sortRange={activeIsland.sortRange} color="#00D4FF"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "star-match" && questions.length > 0 && (
+        <StarMatch questions={questions} color="#00D4FF"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
 
       {/* Reward */}
       {screen === "reward" && earnedCard && (
-        <RewardReveal rarity={earnedCard} game="astromagyar2" score={score} total={10}
+        <RewardReveal rarity={earnedCard} game="astromagyar" score={rewardScore.score} total={rewardScore.total}
           onDone={handleRewardDone} />
       )}
 
-      {/* Milestones */}
-      {newMilestones.length > 0 && (
-        <MilestonePopup milestones={newMilestones} onDone={() => setNewMilestones([])} />
-      )}
+      {/* Milestone Popup */}
+      <MilestonePopup />
 
-      {/* Checkpoint */}
+      {/* Checkpoint Quiz */}
       {screen === "checkpoint-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} game="astromagyar2" color="#00FF88" lang={lang as Lang}
-          onDone={(finalScore) => handleCheckpointComplete(finalScore)} />
+        <OrbitQuiz questions={questions} color="#00FF88"
+          onDone={(s, t) => handleCheckpointSuccess(s, t)} />
       )}
 
       {/* Avatar Companion */}

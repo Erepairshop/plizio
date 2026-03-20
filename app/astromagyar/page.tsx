@@ -7,7 +7,12 @@ import { useLang } from "@/components/LanguageProvider";
 import { GRADE_PLANETS } from "./planets";
 import { loadO1Progress } from "@/lib/astroMagyar";
 import { loadO2Progress } from "@/lib/astroMagyar2";
+import { loadO3Progress } from "@/lib/astroMagyar3";
 import { loadO4Progress } from "@/lib/astroMagyar4";
+import { loadO5Progress } from "@/lib/astroMagyar5";
+import { loadO6Progress } from "@/lib/astroMagyar6";
+import { loadO7Progress } from "@/lib/astroMagyar7";
+import { loadO8Progress } from "@/lib/astroMagyar8";
 
 const STAR_DATA = Array.from({ length: 80 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -42,21 +47,71 @@ const GRADE_CLASSES = [
     grade: 2, route: "/astromagyar/2",
     planetName: { en: "Szókinesia", hu: "Szókinesia", de: "Szókinesia", ro: "Szókinesia" },
     label: { en: "Grade 2", hu: "2. osztály", de: "Klasse 2", ro: "Clasa 2" },
-    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiará" },
     color: "#00D4FF",
     bg: "radial-gradient(ellipse at 50% 30%, rgba(0,212,255,0.25) 0%, rgba(0,212,255,0.05) 60%)",
     border: "rgba(0,212,255,0.5)",
     glow: "rgba(0,212,255,0.35)",
   },
   {
+    grade: 3, route: "/astromagyar/3",
+    planetName: { en: "Mondatia", hu: "Mondatia", de: "Mondatia", ro: "Mondatia" },
+    label: { en: "Grade 3", hu: "3. osztály", de: "Klasse 3", ro: "Clasa 3" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiará" },
+    color: "#10B981",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(16,185,129,0.25) 0%, rgba(16,185,129,0.05) 60%)",
+    border: "rgba(16,185,129,0.5)",
+    glow: "rgba(16,185,129,0.35)",
+  },
+  {
     grade: 4, route: "/astromagyar/4",
     planetName: { en: "Aureon", hu: "Aureon", de: "Aureon", ro: "Aureon" },
     label: { en: "Grade 4", hu: "4. osztály", de: "Klasse 4", ro: "Clasa 4" },
-    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiará" },
     color: "#FFD700",
     bg: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.25) 0%, rgba(255,215,0,0.05) 60%)",
     border: "rgba(255,215,0,0.5)",
     glow: "rgba(255,215,0,0.35)",
+  },
+  {
+    grade: 5, route: "/astromagyar/5",
+    planetName: { en: "Nyelvtania", hu: "Nyelvtania", de: "Nyelvtania", ro: "Nyelvtania" },
+    label: { en: "Grade 5", hu: "5. osztály", de: "Klasse 5", ro: "Clasa 5" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#6366F1",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(99,102,241,0.25) 0%, rgba(99,102,241,0.05) 60%)",
+    border: "rgba(99,102,241,0.5)",
+    glow: "rgba(99,102,241,0.35)",
+  },
+  {
+    grade: 6, route: "/astromagyar/6",
+    planetName: { en: "Irodalmia", hu: "Irodalmia", de: "Irodalmia", ro: "Irodalmia" },
+    label: { en: "Grade 6", hu: "6. osztály", de: "Klasse 6", ro: "Clasa 6" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#FF9500",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(255,149,0,0.25) 0%, rgba(255,149,0,0.05) 60%)",
+    border: "rgba(255,149,0,0.5)",
+    glow: "rgba(255,149,0,0.35)",
+  },
+  {
+    grade: 7, route: "/astromagyar/7",
+    planetName: { en: "Stilisztia", hu: "Stilisztia", de: "Stilisztia", ro: "Stilisztia" },
+    label: { en: "Grade 7", hu: "7. osztály", de: "Klasse 7", ro: "Clasa 7" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#B44DFF",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(180,77,255,0.25) 0%, rgba(180,77,255,0.05) 60%)",
+    border: "rgba(180,77,255,0.5)",
+    glow: "rgba(180,77,255,0.35)",
+  },
+  {
+    grade: 8, route: "/astromagyar/8",
+    planetName: { en: "Eloquia", hu: "Eloquia", de: "Eloquia", ro: "Eloquia" },
+    label: { en: "Grade 8", hu: "8. osztály", de: "Klasse 8", ro: "Clasa 8" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#E879F9",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(232,121,249,0.25) 0%, rgba(232,121,249,0.05) 60%)",
+    border: "rgba(232,121,249,0.5)",
+    glow: "rgba(232,121,249,0.35)",
   },
 ];
 
@@ -65,15 +120,30 @@ export default function AstroMagyarHub() {
   const { lang } = useLang();
   const [o1Done, setO1Done] = useState(0);
   const [o2Done, setO2Done] = useState(0);
+  const [o3Done, setO3Done] = useState(0);
   const [o4Done, setO4Done] = useState(0);
+  const [o5Done, setO5Done] = useState(0);
+  const [o6Done, setO6Done] = useState(0);
+  const [o7Done, setO7Done] = useState(0);
+  const [o8Done, setO8Done] = useState(0);
 
   useEffect(() => {
     const p1 = loadO1Progress();
     setO1Done(p1.completedIslands.length);
     const p2 = loadO2Progress();
     setO2Done(p2.completedIslands.length);
+    const p3 = loadO3Progress();
+    setO3Done(p3.completedIslands.length);
     const p4 = loadO4Progress();
     setO4Done(p4.completedIslands.length);
+    const p5 = loadO5Progress();
+    setO5Done(p5.completedIslands.length);
+    const p6 = loadO6Progress();
+    setO6Done(p6.completedIslands.length);
+    const p7 = loadO7Progress();
+    setO7Done(p7.completedIslands.length);
+    const p8 = loadO8Progress();
+    setO8Done(p8.completedIslands.length);
   }, []);
 
   const handleGradeSelect = (route: string) => {
@@ -134,7 +204,15 @@ export default function AstroMagyarHub() {
         transition={{ delay: 0.3 }}
       >
         {GRADE_CLASSES.map((g) => {
-          const completedCount = g.grade === 1 ? o1Done : g.grade === 2 ? o2Done : g.grade === 4 ? o4Done : 0;
+          const completedCount =
+            g.grade === 1 ? o1Done :
+            g.grade === 2 ? o2Done :
+            g.grade === 3 ? o3Done :
+            g.grade === 4 ? o4Done :
+            g.grade === 5 ? o5Done :
+            g.grade === 6 ? o6Done :
+            g.grade === 7 ? o7Done :
+            g.grade === 8 ? o8Done : 0;
           const Planet = GRADE_PLANETS[g.grade - 1];
 
           return (

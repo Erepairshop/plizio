@@ -28,11 +28,12 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import {
   O3_ISLANDS, O3_CHECKPOINT_MAP, O3_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO3Progress, saveO3Progress, type MagyarProgress,
-  isMissionDone, isIslandDone, isIslandUnlockedO3,
-  isCheckpointUnlocked, isCheckpointDone,
+  isMissionDoneO3, isIslandDoneO3, isIslandUnlockedO3,
+  isCheckpointUnlockedO3, isCheckpointDoneO3,
   completeMissionO3, completeTestO3, islandTotalStarsO3,
-  generateMagyarIslandQuestions, generateMagyarCheckpointQuestions,
-} from "@/lib/astroMagyar";
+  generateIslandQuestionsO3, generateCheckpointQuestionsO3,
+} from "@/lib/astroMagyar3";
+import { O1_ISLAND_SVGS } from "@/app/astromagyar/islands";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -150,8 +151,8 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {Object.entries(CP_POS).map(([testId, pos]) => {
-        const unlocked = isCheckpointUnlocked(progress, O3_CHECKPOINT_MAP, testId);
-        const done = isCheckpointDone(progress, testId);
+        const unlocked = isCheckpointUnlockedO3(progress, testId);
+        const done = isCheckpointDoneO3(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
@@ -175,7 +176,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 
       {O3_ISLANDS.map((island, idx) => {
         const unlocked = isIslandUnlockedO3(progress, island.id);
-        const done = isIslandDone(progress, island.id);
+        const done = isIslandDoneO3(progress, island.id);
         const total = islandTotalStarsO3(progress, island.id);
 
         return (
@@ -216,7 +217,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && !done && (
               <g>
                 {island.missions.map((m, mi) => {
-                  const mdone = isMissionDone(progress, island.id, m.id);
+                  const mdone = isMissionDoneO3(progress, island.id, m.id);
                   return (
                     <g key={mi}>
                       <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
@@ -271,8 +272,7 @@ export default function AstroMagyarO3Page() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<string>("idle");
-  const [avatarJumpTrigger, setAvatarJumpTrigger] = useState(0);
-  const [newMilestones, setNewMilestones] = useState<string[]>([]);
+  const [avatarJumpTrigger, setAvatarJumpTrigger] = useState<{ reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null; timestamp: number }>({ reaction: null, timestamp: 0 });
 
   // Handle island select
   const handleIslandSelect = useCallback((island: IslandDef) => {
@@ -286,11 +286,11 @@ export default function AstroMagyarO3Page() {
     setActiveMission(mission);
     const gameType = mission.gameType;
     setActiveGameType(gameType);
-    const qs = generateMagyarIslandQuestions(activeIsland!, 3, gameType === "star-match" ? 20 : 10);
+    const qs = generateIslandQuestionsO3(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen(gameType as Screen);
-  }, [activeIsland]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Handle mission complete
   const handleMissionComplete = useCallback((score: number, total: number) => {
@@ -300,8 +300,7 @@ export default function AstroMagyarO3Page() {
     saveCard(card);
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
-    const milestones = checkNewMilestones();
-    setNewMilestones(milestones);
+    checkNewMilestones();
 
     setMissionScore({ score, total });
     setEarnedCard(rarity);
@@ -322,12 +321,29 @@ export default function AstroMagyarO3Page() {
       saveO3Progress(updated);
       setScreen("reward");
     }
-  }, [progress, activeIsland, activeMission]);
+  }, [progress, activeIsland, activeMission]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Handle island animation done
   const handleIslandAnimDone = useCallback(() => {
     setScreen("reward");
   }, []);
+
+  // Handle checkpoint select
+  const handleCheckpointSelect = useCallback((testId: string) => {
+    setCheckpointId(testId);
+    const qs = generateCheckpointQuestionsO3(testId, lang as Lang, 10);
+    setQuestions(qs);
+    setMissionScore({ score: 0, total: 0 });
+    setScreen("checkpoint-intro");
+  }, [lang]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const handleCheckpointSuccess = useCallback((score: number, total: number) => {
+    setMissionScore({ score, total });
+    const updatedProg = completeTestO3(progress, checkpointId!);
+    setProgress(updatedProg);
+    saveO3Progress(updatedProg);
+    setScreen("checkpoint-done");
+  }, [progress, checkpointId]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const avatarProps = {
     gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe,
@@ -356,7 +372,7 @@ export default function AstroMagyarO3Page() {
           <div className="max-w-sm mx-auto px-4 py-6">
             <IslandMapSVG progress={progress}
               onIsland={handleIslandSelect}
-              onCheckpoint={(id) => { setCheckpointId(id); setScreen("checkpoint-intro"); }}
+              onCheckpoint={handleCheckpointSelect}
             />
           </div>
         </motion.div>
@@ -411,6 +427,12 @@ export default function AstroMagyarO3Page() {
         </motion.div>
       )}
 
+      {/* Checkpoint Quiz */}
+      {screen === "checkpoint-quiz" && questions.length > 0 && (
+        <OrbitQuiz questions={questions} color="#FFD700"
+          onDone={(s, t) => handleCheckpointSuccess(s, t)} />
+      )}
+
       {/* Checkpoint Done */}
       {screen === "checkpoint-done" && (
         <motion.div className="fixed inset-0 z-40 flex flex-col items-center justify-center bg-black/80"
@@ -418,12 +440,12 @@ export default function AstroMagyarO3Page() {
           <div className="flex flex-col items-center gap-6">
             <AvatarCompanion {...avatarProps} fixed={false} />
             <div className="text-center">
-              <h2 className="text-2xl font-black mb-2">Teszt teljesítve!</h2>
-              <p className="text-white/70 text-sm">Jó munkát!</p>
+              <h2 className="text-2xl font-black mb-2">{lang === "hu" ? "Teszt teljesítve!" : "Test Complete!"}</h2>
+              <p className="text-white/70 text-sm">{missionScore.score}/{missionScore.total}</p>
             </div>
             <button onClick={() => { setScreen("island-map"); setCheckpointId(null); }}
               className="px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-white/90 transition">
-              Vissza
+              {lang === "hu" ? "Vissza" : "Back"}
             </button>
           </div>
         </motion.div>
@@ -431,31 +453,47 @@ export default function AstroMagyarO3Page() {
 
       {/* Game Screens */}
       {screen === "orbit-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} lang={lang} color="#4ECDC4"
-          onComplete={(s, t) => handleMissionComplete(s, t)} />
+        <OrbitQuiz questions={questions} color="#4ECDC4"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
       {screen === "black-hole" && questions.length > 0 && (
-        <BlackHole questions={questions} lang={lang}
-          onComplete={(s, t) => handleMissionComplete(s, t)} />
+        <BlackHole questions={questions} color="#4ECDC4"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
-      {screen === "gravity-sort" && questions.length > 0 && (
-        <GravitySort questions={questions} lang={lang}
-          onComplete={(s, t) => handleMissionComplete(s, t)} />
+      {screen === "gravity-sort" && activeIsland && (
+        <GravitySort sortRange={activeIsland.sortRange} color="#4ECDC4"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
       {screen === "star-match" && questions.length > 0 && (
-        <StarMatch questions={questions} lang={lang}
-          onComplete={(s, t) => handleMissionComplete(s, t)} />
+        <StarMatch questions={questions} color="#4ECDC4"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
       {screen === "speed-round" && questions.length > 0 && (
-        <SpeedRound questions={questions} lang={lang}
-          onComplete={(s, t) => handleMissionComplete(s, t)} />
+        <SpeedRound questions={questions} color="#4ECDC4"
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+
+      {/* Checkpoint Intro */}
+      {screen === "checkpoint-intro" && checkpointId && (
+        <motion.div className="fixed inset-0 z-40 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center p-6 gap-6"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <motion.div className="text-6xl" animate={{ scale: [1, 1.1, 1] }} transition={{ duration: 2, repeat: Infinity }}>
+            🚀
+          </motion.div>
+          <h2 className="text-2xl font-bold text-center">{lang === "hu" ? "Ellenőrzőpont teszт" : "Checkpoint Test"}</h2>
+          <div className="flex gap-3">
+            <button onClick={() => { setCheckpointId(null); setScreen("island-map"); }} className="px-6 py-3 bg-white/10 hover:bg-white/20 rounded-xl font-bold transition-colors">
+              {lang === "hu" ? "Vissza" : "Back"}
+            </button>
+            <button onClick={() => setScreen("checkpoint-quiz")} className="px-6 py-3 bg-yellow-500 hover:bg-yellow-600 rounded-xl font-bold transition-colors">
+              {lang === "hu" ? "Kezd" : "Start"}
+            </button>
+          </div>
+        </motion.div>
       )}
 
       {/* Milestone Popup */}
-      {newMilestones.length > 0 && (
-        <MilestonePopup milestoneIds={newMilestones}
-          onClose={() => setNewMilestones([])} />
-      )}
+      <MilestonePopup />
     </div>
   );
 }

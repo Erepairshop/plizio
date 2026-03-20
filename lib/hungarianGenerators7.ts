@@ -644,15 +644,15 @@ export function generateMediaszoveg(seed?: number): CurriculumMCQ[] {
 // ─── EXPORTING ALL GENERATORS ───────────────────────────────────────────────
 
 export const G7_Generators_Hungarian = {
-  hangvaltozas: generateHangvaltozas,
-  jovenényszó_haladó: generateJovenenyszszo,
-  erveles_haladó: generateErvelesHalado,
-  meggyozes_haladó: generateMeggyozesHalado,
-  stilusretegek: generateStilustorzetegek,
-  szovegstilus: generateSzovegstilus,
-  tajnyelv: generateTajnyelv,
-  ervelo_szoveg: generateErveloSzoveg,
-  tobbsz_osszetett: generateTobbszoroszszeretett,
-  verbalis_komm: generateKommunikacioVerbalis,
-  mediaszoveg: generateMediaszoveg,
+  nyelvtort_hangvaltozas: generateHangvaltozas,
+  nyelvtort_jovenényszó_haladó: generateJovenenyszszo,
+  retorika_erveles_haladó: generateErvelesHalado,
+  retorika_meggyozes_haladó: generateMeggyozesHalado,
+  stilisztika_stilusretegek: generateStilustorzetegek,
+  stilisztika_szovegstilus: generateSzovegstilus,
+  nyelvv_tajnyelv: generateTajnyelv,
+  szoveg_ervelo_szoveg: generateErveloSzoveg,
+  mondat_tobbsz_osszetett: generateTobbszoroszszeretett,
+  komm_verbalis: generateKommunikacioVerbalis,
+  media_mediaszoveg: generateMediaszoveg,
 };

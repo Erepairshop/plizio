@@ -2,11 +2,11 @@
 
 import { LanguageTestEngine } from "@/app/deutschtest/page";
 import {
-  MAGYAR_CURRICULUM,
+  HUNGARIAN_CURRICULUM,
   getHungarianQuestions,
   calculateHungarianGrade,
   HUNGARIAN_SUBTOPIC_HINTS,
-} from "@/lib/magyarCurriculum";
+} from "@/lib/hungarianCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const HU_CONFIG: LanguageTestEngineConfig = {
@@ -35,7 +35,7 @@ const HU_CONFIG: LanguageTestEngineConfig = {
   ],
   calculateMark: calculateHungarianGrade,
 
-  curriculum: MAGYAR_CURRICULUM,
+  curriculum: HUNGARIAN_CURRICULUM,
   getQuestions: getHungarianQuestions,
   subtopicHints: HUNGARIAN_SUBTOPIC_HINTS,
 

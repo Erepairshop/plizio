@@ -209,15 +209,16 @@ export const O1_CHECKPOINT_MAP: Record<string, string[]> = {
 export const O1_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
     "betuk/maganhangzok", "betuk/massalhangzok", "betuk/abc_sorrend",
-    "betuk/szotagszam", "betuk/betuparak",
+    "betuk/szotagszam", "betuk/betuparak", "betuk/kettozodes", "betuk/betufelismeres",
   ],
   test2: [
     "szavak/fonevek", "szavak/igek", "szavak/melleknevek",
-    "szavak/ellentetek", "mondatok/mondatfajtak",
+    "szavak/ellentetek", "mondatok/mondatfajtak", "szavak/kicsinyitokepozo", "szavak/hangutanzo",
   ],
   test3: [
     "mondatok/irasjelek", "mondatok/nagybetu", "szokincs/allatok",
-    "szokincs/szinek", "szokincs/csalad",
+    "szokincs/szinek", "szokincs/csalad", "mondatok/kerdes_felelet",
+    "szokincs/napszakok", "szokincs/ruhazat", "szokincs/idojaras", "szokincs/kozlekedes", "szokincs/heteknapjai",
   ],
 };
 
