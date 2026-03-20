@@ -563,6 +563,99 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
       }
       return q;
     },
+
+    pronume_pers_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      const toateFormele = PRONUME.personale;
+      const singular = ["eu", "tu", "el", "ea"];
+      const plural = ["noi", "voi", "ei", "ele"];
+      const persI = ["eu", "noi"];
+      const persII = ["tu", "voi"];
+      const persIII = ["el", "ea", "ei", "ele"];
+      const intrebariTeorie = [
+        { q: "Ce parte de vorbire înlocuiește un substantiv?", correct: "Pronumele", wrong: ["Verbul", "Adjectivul", "Conjuncția"] },
+        { q: "Câte persoane are pronumele personal?", correct: "3 persoane", wrong: ["2 persoane", "4 persoane", "1 persoană"] },
+        { q: "Pronumele 'eu' este la persoana:", correct: "I singular", wrong: ["a II-a singular", "a III-a singular", "I plural"] },
+        { q: "Pronumele 'tu' este la persoana:", correct: "a II-a singular", wrong: ["I singular", "a III-a singular", "a II-a plural"] },
+        { q: "Pronumele 'el/ea' este la persoana:", correct: "a III-a singular", wrong: ["I singular", "a II-a singular", "a III-a plural"] },
+        { q: "Pronumele 'noi' este la persoana:", correct: "I plural", wrong: ["I singular", "a II-a plural", "a III-a plural"] },
+        { q: "Pronumele 'voi' este la persoana:", correct: "a II-a plural", wrong: ["I plural", "a II-a singular", "a III-a plural"] },
+        { q: "Pronumele 'ei/ele' este la persoana:", correct: "a III-a plural", wrong: ["I plural", "a II-a plural", "a III-a singular"] },
+        { q: "Care pronume înlocuiește un substantiv FEMININ la singular?", correct: "ea", wrong: ["el", "ei", "ele"] },
+        { q: "Care pronume înlocuiește un substantiv MASCULIN la plural?", correct: "ei", wrong: ["ele", "el", "noi"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 5);
+        if (tip === 0) {
+          const data = pick(intrebariTeorie, rng);
+          q.push(createMCQ("parti_vorbire_c2", "pronume_pers_c2", data.q, data.correct, data.wrong, rng));
+        } else if (tip === 1) {
+          const correct = pick(singular, rng);
+          const wrong = shuffle(plural, rng).slice(0, 3);
+          q.push(createMCQ("parti_vorbire_c2", "pronume_pers_c2", "Care pronume este la SINGULAR?", correct, wrong, rng));
+        } else if (tip === 2) {
+          const correct = pick(plural, rng);
+          const wrong = shuffle(singular, rng).slice(0, 3);
+          q.push(createMCQ("parti_vorbire_c2", "pronume_pers_c2", "Care pronume este la PLURAL?", correct, wrong, rng));
+        } else if (tip === 3) {
+          const p = pick(toateFormele, rng);
+          const wrongPersoana = ["obiectul acțiunii", "calitatea acțiunii", "locul acțiunii"];
+          q.push(createMCQ("parti_vorbire_c2", "pronume_pers_c2",
+            `Propoziția '${p.example}' — pronumele '${p.pers}' se referă la:`,
+            "persoana care face acțiunea",
+            wrongPersoana, rng));
+        } else {
+          const correct = pick(persI, rng);
+          const wrong = [...shuffle(persII, rng).slice(0, 1), ...shuffle(persIII, rng).slice(0, 2)];
+          q.push(createMCQ("parti_vorbire_c2", "pronume_pers_c2", "Care pronume este de PERSOANA I?", correct, wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    conjunctii_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      const fraze = [
+        { fraza: "Ana citește ___ Mihai scrie.", correct: "și", wrong: ["dar", "sau", "pentru că"] },
+        { fraza: "Vreau să merg afară, ___ plouă.", correct: "dar", wrong: ["și", "sau", "că"] },
+        { fraza: "Vrei suc ___ apă?", correct: "sau", wrong: ["și", "dar", "că"] },
+        { fraza: "Nu am venit ___ eram bolnav.", correct: "pentru că", wrong: ["și", "dar", "sau"] },
+        { fraza: "___ termini temele, poți ieși.", correct: "Dacă", wrong: ["Și", "Dar", "Sau"] },
+        { fraza: "Știu ___ vii mâine.", correct: "că", wrong: ["și", "dar", "sau"] },
+        { fraza: "Copiii s-au jucat ___ au râs.", correct: "și", wrong: ["dar", "sau", "că"] },
+        { fraza: "Îmi place ciocolata, ___ nu mănânc prea mult.", correct: "dar", wrong: ["și", "sau", "că"] },
+        { fraza: "Mergi la film ___ la teatru?", correct: "sau", wrong: ["și", "dar", "că"] },
+        { fraza: "A câștigat ___ a muncit mult.", correct: "pentru că", wrong: ["și", "dar", "sau"] },
+        { fraza: "Maria cântă ___ Ana dansează.", correct: "și", wrong: ["dar", "sau", "că"] },
+        { fraza: "Mi-e foame, ___ nu e mâncare.", correct: "dar", wrong: ["și", "sau", "că"] },
+      ];
+      const teorie = [
+        { q: "Ce parte de vorbire leagă două propoziții sau cuvinte?", correct: "Conjuncția", wrong: ["Substantivul", "Verbul", "Adjectivul"] },
+        { q: "Care cuvânt este o CONJUNCȚIE?", correct: "și", wrong: ["casă", "aleargă", "frumos"] },
+        { q: "Care conjuncție arată o OPOZIȚIE (contrast)?", correct: "dar", wrong: ["și", "sau", "că"] },
+        { q: "Care conjuncție arată o ALTERNATIVĂ (ori una, ori alta)?", correct: "sau", wrong: ["și", "dar", "că"] },
+        { q: "Care conjuncție arată CAUZA (motivul)?", correct: "pentru că", wrong: ["și", "dar", "sau"] },
+        { q: "Care conjuncție arată o CONDIȚIE?", correct: "dacă", wrong: ["și", "dar", "sau"] },
+        { q: "Conjuncția 'și' leagă:", correct: "Două lucruri asemănătoare", wrong: ["Două lucruri opuse", "Cauza și efectul", "O condiție"] },
+        { q: "Câte cuvinte leagă de obicei o conjuncție?", correct: "Cel puțin două", wrong: ["Exact unul", "Cinci sau mai multe", "Niciun cuvânt"] },
+        { q: "Ce este 'și' în propoziție?", correct: "conjuncție", wrong: ["substantiv", "verb", "adjectiv"] },
+        { q: "Care cuvânt NU este o conjuncție?", correct: "masă", wrong: ["și", "dar", "sau"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (rng() > 0.45) {
+          const data = pick(fraze, rng);
+          q.push(createMCQ("parti_vorbire_c2", "conjunctii_c2",
+            `Completează propoziția: '${data.fraza}'`,
+            data.correct, data.wrong, rng));
+        } else {
+          const data = pick(teorie, rng);
+          q.push(createMCQ("parti_vorbire_c2", "conjunctii_c2", data.q, data.correct, data.wrong, rng));
+        }
+      }
+      return q;
+    },
   },
 
   // ══════════════ ORTOGRAFIE ══════════════
@@ -844,6 +937,320 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         q.push(createMCQ("lectura_c2", "morala_c2",
           `Text: "${data.text}"\n\nCare este MORALA/ÎNVĂȚĂTURA?`,
           data.morala, data.wrong, rng));
+      }
+      return q;
+    },
+  },
+
+  // ══════════════ VOCABULAR TEMATIC ══════════════
+
+  vocabular_tematic_c2: {
+    sinonime_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 3);
+        if (tip === 0) {
+          const data = pick(SINONIME_C2, rng);
+          const wrong = shuffle(SINONIME_C2.filter(s => s.sin !== data.sin), rng).slice(0, 3).map(s => s.sin);
+          q.push(createMCQ("vocabular_tematic_c2", "sinonime_c2",
+            `Care cuvânt este SINONIMUL lui '${data.word}'?`,
+            data.sin, wrong, rng));
+        } else if (tip === 1) {
+          const data = pick(SINONIME_C2, rng);
+          const wrong = shuffle(SINONIME_C2.filter(s => s.word !== data.word), rng).slice(0, 3).map(s => s.word);
+          q.push(createMCQ("vocabular_tematic_c2", "sinonime_c2",
+            `'${data.sin}' este sinonimul cuvântului:`,
+            data.word, wrong, rng));
+        } else {
+          q.push(createMCQ("vocabular_tematic_c2", "sinonime_c2",
+            "Ce sunt sinonimele?",
+            "Cuvinte cu același înțeles",
+            ["Cuvinte cu înțeles opus", "Cuvinte cu aceeași formă", "Cuvinte din aceeași familie"],
+            rng));
+        }
+      }
+      return q;
+    },
+
+    antonime_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 3);
+        if (tip === 0) {
+          const data = pick(ANTONIME_C2, rng);
+          const wrong = shuffle(ANTONIME_C2.filter(a => a.ant !== data.ant), rng).slice(0, 3).map(a => a.ant);
+          q.push(createMCQ("vocabular_tematic_c2", "antonime_c2",
+            `Care este ANTONIMUL cuvântului '${data.word}'?`,
+            data.ant, wrong, rng));
+        } else if (tip === 1) {
+          const data = pick(ANTONIME_C2, rng);
+          const wrong = shuffle(ANTONIME_C2.filter(a => a.word !== data.word), rng).slice(0, 3).map(a => a.word);
+          q.push(createMCQ("vocabular_tematic_c2", "antonime_c2",
+            `'${data.ant}' este antonimul cuvântului:`,
+            data.word, wrong, rng));
+        } else {
+          q.push(createMCQ("vocabular_tematic_c2", "antonime_c2",
+            "Ce sunt antonimele?",
+            "Cuvinte cu înțeles opus",
+            ["Cuvinte cu același înțeles", "Cuvinte cu aceeași formă", "Cuvinte scurte"],
+            rng));
+        }
+      }
+      return q;
+    },
+
+    familia_cuvintelor_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 3);
+        if (tip === 0) {
+          const data = pick(FAMILIA_CUVINTELOR_C2, rng);
+          const membru = pick(data.familie, rng);
+          const alteRadacini = shuffle(FAMILIA_CUVINTELOR_C2.filter(f => f.radacina !== data.radacina), rng).slice(0, 3).map(f => pick(f.familie, rng));
+          q.push(createMCQ("vocabular_tematic_c2", "familia_cuvintelor_c2",
+            `Care cuvânt face parte din familia cuvântului '${data.radacina}'?`,
+            membru, alteRadacini, rng));
+        } else if (tip === 1) {
+          const data = pick(FAMILIA_CUVINTELOR_C2, rng);
+          const membru = pick(data.familie, rng);
+          const alteRadacini = shuffle(FAMILIA_CUVINTELOR_C2.filter(f => f.radacina !== data.radacina), rng).slice(0, 3).map(f => f.radacina);
+          q.push(createMCQ("vocabular_tematic_c2", "familia_cuvintelor_c2",
+            `Cuvântul '${membru}' face parte din familia cuvântului:`,
+            data.radacina, alteRadacini, rng));
+        } else {
+          q.push(createMCQ("vocabular_tematic_c2", "familia_cuvintelor_c2",
+            "Ce este familia de cuvinte?",
+            "Cuvinte cu aceeași rădăcină",
+            ["Cuvinte cu același înțeles", "Cuvinte cu înțeles opus", "Cuvinte cu aceeași lungime"],
+            rng));
+        }
+      }
+      return q;
+    },
+
+    animale_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        const data = pick(ANIMALE_C2, rng);
+        if (tip === 0) {
+          const wrong = shuffle(ANIMALE_C2.filter(a => a.sunet !== data.sunet), rng).slice(0, 3).map(a => a.sunet);
+          q.push(createMCQ("vocabular_tematic_c2", "animale_c2",
+            `Cum se numește sunetul pe care îl scoate ${data.animal}ul?`,
+            data.sunet, wrong, rng));
+        } else if (tip === 1) {
+          const wrong = shuffle(ANIMALE_C2.filter(a => a.hrana !== data.hrana), rng).slice(0, 3).map(a => a.hrana);
+          q.push(createMCQ("vocabular_tematic_c2", "animale_c2",
+            `Cu ce se hrănește ${data.animal}ul?`,
+            data.hrana, wrong, rng));
+        } else if (tip === 2) {
+          const wrong = shuffle(ANIMALE_C2.filter(a => a.tip !== data.tip), rng).slice(0, 3).map(a => a.animal);
+          q.push(createMCQ("vocabular_tematic_c2", "animale_c2",
+            `${data.animal.charAt(0).toUpperCase() + data.animal.slice(1)}ul este un animal:`,
+            data.tip, ["acvatic", "domestic", "sălbatic", "de casă"].filter(t => t !== data.tip).slice(0, 3), rng));
+        } else {
+          const animaleGrup = shuffle(ANIMALE_C2, rng).slice(0, 4);
+          const domestice = animaleGrup.filter(a => a.tip === "domestic");
+          const salbatice = animaleGrup.filter(a => a.tip === "sălbatic");
+          const correct = domestice.length > 0 ? domestice[0].animal : animaleGrup[0].animal;
+          const wrong = shuffle(ANIMALE_C2.filter(a => a.animal !== correct && a.tip !== "domestic"), rng).slice(0, 3).map(a => a.animal);
+          q.push(createMCQ("vocabular_tematic_c2", "animale_c2",
+            "Care dintre aceste animale este DOMESTIC (trăiește pe lângă om)?",
+            correct, wrong.length >= 3 ? wrong : ["lup", "vulpe", "urs"].filter(w => w !== correct).slice(0, 3), rng));
+        }
+      }
+      return q;
+    },
+
+    corpul_uman_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        const data = pick(CORPUL_UMAN_C2, rng);
+        if (tip === 0) {
+          const wrong = shuffle(CORPUL_UMAN_C2.filter(c => c.functie !== data.functie), rng).slice(0, 3).map(c => c.functie);
+          q.push(createMCQ("vocabular_tematic_c2", "corpul_uman_c2",
+            `Care este funcția ${data.parte === "ochi" ? "ochilor" : data.parte === "urechi" ? "urechilor" : `${data.parte}ii`}?`,
+            data.functie, wrong, rng));
+        } else if (tip === 1) {
+          const wrong = shuffle(CORPUL_UMAN_C2.filter(c => c.parte !== data.parte), rng).slice(0, 3).map(c => c.parte);
+          q.push(createMCQ("vocabular_tematic_c2", "corpul_uman_c2",
+            `Ce parte a corpului are funcția: '${data.functie}'?`,
+            data.parte, wrong, rng));
+        } else if (tip === 2) {
+          const wrong = shuffle(CORPUL_UMAN_C2.filter(c => c.sistem !== data.sistem), rng).slice(0, 3).map(c => c.sistem);
+          q.push(createMCQ("vocabular_tematic_c2", "corpul_uman_c2",
+            `De ce sistem aparține ${data.parte === "ochi" ? "ochii" : data.parte}?`,
+            data.sistem, wrong, rng));
+        } else {
+          const intrebariGen = [
+            { q: "Câte simțuri principale are corpul uman?", correct: "5", wrong: ["3", "4", "6"] },
+            { q: "Ce organ pompează sângele în tot corpul?", correct: "inima", wrong: ["plămânii", "stomacul", "ficatul"] },
+            { q: "Ce organ ajută la respirație?", correct: "plămânii", wrong: ["inima", "stomacul", "creierul"] },
+            { q: "Ce organ controlează tot corpul?", correct: "creierul", wrong: ["inima", "stomacul", "plămânii"] },
+          ];
+          const gen = pick(intrebariGen, rng);
+          q.push(createMCQ("vocabular_tematic_c2", "corpul_uman_c2", gen.q, gen.correct, gen.wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    familia_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        if (tip === 0) {
+          const data = pick(FAMILIE_C2, rng);
+          const wrong = shuffle(FAMILIE_C2.filter(f => f.relatie !== data.relatie), rng).slice(0, 3).map(f => f.relatie);
+          q.push(createMCQ("vocabular_tematic_c2", "familia_c2",
+            `Cine este ${data.relatie_inv} față de ${data.relatie}?`,
+            data.gen === "F" ? "fiica/fiul" : data.relatie_inv,
+            wrong, rng));
+        } else if (tip === 1) {
+          const tati = FAMILIE_C2.filter(f => f.gen === "M");
+          const data = pick(tati, rng);
+          const femei = FAMILIE_C2.filter(f => f.gen === "F");
+          q.push(createMCQ("vocabular_tematic_c2", "familia_c2",
+            `Care dintre acești membri ai familiei este de genul MASCULIN?`,
+            data.relatie,
+            shuffle(femei, rng).slice(0, 3).map(f => f.relatie), rng));
+        } else if (tip === 2) {
+          const intrebare = pick([
+            { q: "Cum se numește mama mamei tale?", correct: "bunica", wrong: ["mătușa", "sora", "mama"] },
+            { q: "Cum se numește tatăl tatei?", correct: "bunicul", wrong: ["unchiul", "fratele", "tata"] },
+            { q: "Cum te numești față de bunica ta?", correct: "nepot/nepoată", wrong: ["fiu/fiică", "frate/soră", "unchi/mătușă"] },
+            { q: "Cum te numești față de mama ta?", correct: "fiu/fiică", wrong: ["nepot/nepoată", "frate/soră", "văr/vară"] },
+            { q: "Cum se numește sora tatei?", correct: "mătușa", wrong: ["bunica", "mama", "sora"] },
+            { q: "Cum se numește fratele mamei?", correct: "unchiul", wrong: ["bunicul", "tata", "fratele"] },
+          ], rng);
+          q.push(createMCQ("vocabular_tematic_c2", "familia_c2", intrebare.q, intrebare.correct, intrebare.wrong, rng));
+        } else {
+          const intrebare = pick([
+            { q: "Câte generații sunt în familia: bunici, părinți, copii?", correct: "3 generații", wrong: ["2 generații", "4 generații", "1 generație"] },
+            { q: "Cum se numesc copiii fratelui tău?", correct: "nepoți", wrong: ["veri", "frați", "unchi"] },
+            { q: "Cum se numesc copiii unchiului tău?", correct: "veri/verișoare", wrong: ["frați", "nepoți", "surori"] },
+          ], rng);
+          q.push(createMCQ("vocabular_tematic_c2", "familia_c2", intrebare.q, intrebare.correct, intrebare.wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    alimente_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      const toateFructele = ALIMENTE_C2.fructe;
+      const toateLegumele = ALIMENTE_C2.legume;
+      const toateLactatele = ALIMENTE_C2.lactate;
+      const toateProteinele = ALIMENTE_C2.proteine;
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        if (tip === 0) {
+          const correct = pick(toateFructele, rng);
+          const wrong = shuffle([...toateLegumele, ...toateLactatele], rng).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c2", "alimente_c2",
+            `Care dintre acestea este un FRUCT?`,
+            correct, wrong, rng));
+        } else if (tip === 1) {
+          const correct = pick(toateLegumele, rng);
+          const wrong = shuffle([...toateFructele, ...toateLactatele], rng).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c2", "alimente_c2",
+            `Care dintre acestea este o LEGUMĂ?`,
+            correct, wrong, rng));
+        } else if (tip === 2) {
+          const correct = pick(toateLactatele, rng);
+          const wrong = shuffle([...toateFructele, ...toateLegumele], rng).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c2", "alimente_c2",
+            `Care dintre acestea este un PRODUS LACTAT?`,
+            correct, wrong, rng));
+        } else {
+          const intrebari = [
+            { q: "Din ce se face brânza?", correct: "lapte", wrong: ["apă", "sucuri", "carne"] },
+            { q: "Care fruct crește în România toamna?", correct: "strugure", wrong: ["banană", "portocală", "ananas"] },
+            { q: "Ce legumă este portocalie și crește în pământ?", correct: "morcov", wrong: ["roșie", "castraveți", "spanac"] },
+            { q: "Ce aliment conține mult calciu și este bun pentru oase?", correct: "lapte", wrong: ["suc", "apă", "carne"] },
+            { q: "Care aliment NU este un fruct?", correct: "morcov", wrong: ["măr", "pară", "prună"] },
+          ];
+          const gen = pick(intrebari, rng);
+          q.push(createMCQ("vocabular_tematic_c2", "alimente_c2", gen.q, gen.correct, gen.wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    anotimpuri_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        const data = pick(ANOTIMPURI_C2, rng);
+        if (tip === 0) {
+          const luna = pick(data.luni, rng);
+          const wrong = shuffle(ANOTIMPURI_C2.filter(a => a.anotimp !== data.anotimp), rng).slice(0, 3).map(a => a.anotimp);
+          q.push(createMCQ("vocabular_tematic_c2", "anotimpuri_c2",
+            `Luna '${luna}' aparține anotimpului:`,
+            data.anotimp, wrong, rng));
+        } else if (tip === 1) {
+          const caract = pick(data.caracteristici, rng);
+          const wrong = shuffle(ANOTIMPURI_C2.filter(a => a.anotimp !== data.anotimp), rng).slice(0, 3).map(a => a.anotimp);
+          q.push(createMCQ("vocabular_tematic_c2", "anotimpuri_c2",
+            `'${caract.charAt(0).toUpperCase() + caract.slice(1)}' este caracteristic anotimpului:`,
+            data.anotimp, wrong, rng));
+        } else if (tip === 2) {
+          const wrong = shuffle(ANOTIMPURI_C2.filter(a => a.anotimp !== data.anotimp), rng).slice(0, 3).map(a => a.luni[0]);
+          const correctLuna = data.luni[0];
+          q.push(createMCQ("vocabular_tematic_c2", "anotimpuri_c2",
+            `Care lună aparține anotimpului ${data.anotimp}?`,
+            correctLuna, wrong, rng));
+        } else {
+          const intrebari = [
+            { q: "Câte anotimpuri are un an?", correct: "4", wrong: ["3", "6", "12"] },
+            { q: "Care anotimp vine după iarnă?", correct: "Primăvara", wrong: ["Vara", "Toamna", "Din nou iarna"] },
+            { q: "Care anotimp vine după vară?", correct: "Toamna", wrong: ["Iarna", "Primăvara", "Nu se știe"] },
+            { q: "În ce anotimp sunt cele mai scurte zile?", correct: "Iarna", wrong: ["Vara", "Toamna", "Primăvara"] },
+            { q: "În ce anotimp sunt cele mai lungi zile?", correct: "Vara", wrong: ["Iarna", "Toamna", "Primăvara"] },
+          ];
+          const gen = pick(intrebari, rng);
+          q.push(createMCQ("vocabular_tematic_c2", "anotimpuri_c2", gen.q, gen.correct, gen.wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    meserii_c2: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const tip = Math.floor(rng() * 4);
+        const data = pick(MESERII_C2, rng);
+        if (tip === 0) {
+          const wrong = shuffle(MESERII_C2.filter(m => m.activitate !== data.activitate), rng).slice(0, 3).map(m => m.activitate);
+          q.push(createMCQ("vocabular_tematic_c2", "meserii_c2",
+            `Ce face un ${data.meserie}?`,
+            data.activitate, wrong, rng));
+        } else if (tip === 1) {
+          const wrong = shuffle(MESERII_C2.filter(m => m.meserie !== data.meserie), rng).slice(0, 3).map(m => m.meserie);
+          q.push(createMCQ("vocabular_tematic_c2", "meserii_c2",
+            `Cine '${data.activitate}'?`,
+            data.meserie, wrong, rng));
+        } else if (tip === 2) {
+          const wrong = shuffle(MESERII_C2.filter(m => m.loc !== data.loc), rng).slice(0, 3).map(m => m.loc);
+          q.push(createMCQ("vocabular_tematic_c2", "meserii_c2",
+            `Unde lucrează un ${data.meserie}?`,
+            data.loc, wrong, rng));
+        } else {
+          const wrong = shuffle(MESERII_C2.filter(m => m.meserie !== data.meserie), rng).slice(0, 3).map(m => m.meserie);
+          q.push(createMCQ("vocabular_tematic_c2", "meserii_c2",
+            `Un ${data.meserie} lucrează la '${data.loc}'. Care este meseria lui?`,
+            data.meserie, wrong, rng));
+        }
       }
       return q;
     },

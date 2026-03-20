@@ -504,6 +504,8 @@ const C3: RomanianTheme[] = [
       { id: "cratima_c3", name: "Cratima — n-am, nu-i, m-am, l-am", questions: [
         { type: "mcq", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Completează corect: 'Eu ___ văzut filmul.'", options: ["n-am", "nam", "n am", "n'am"], correct: 0 },
       ]},
+      { id: "despartire_silabe_c3", name: "Despărțirea în silabe", questions: [] },
+      { id: "virgula_c3", name: "Virgula în propoziție", questions: [] },
     ],
   },
   {
@@ -515,6 +517,9 @@ const C3: RomanianTheme[] = [
       { id: "propozitie_dezv_c3", name: "Propoziția simplă și dezvoltată", questions: [
         { type: "mcq", topic: "propozitia_c3", subtopic: "propozitie_dezv_c3", question: "Ce este o propoziție simplă?", options: ["Are doar subiect și predicat", "Are mai mult de 5 cuvinte", "Are atribute și complemente", "Are dialog"], correct: 0 },
       ]},
+      { id: "subiect_predicat_c3", name: "Subiectul și predicatul", questions: [] },
+      { id: "atributul_c3", name: "Atributul", questions: [] },
+      { id: "vorbire_directa_c3", name: "Vorbirea directă", questions: [] },
       { id: "figuri_stil_c3", name: "Figuri de stil (comparație, personificare)", questions: [
         { type: "mcq", topic: "propozitia_c3", subtopic: "figuri_stil_c3", question: "Ce figură de stil conține: 'Fata era frumoasă ca o floare.'?", options: ["comparație", "personificare", "enumerație", "repetiție"], correct: 0 },
       ]},
@@ -532,6 +537,19 @@ const C3: RomanianTheme[] = [
       { id: "idee_principala_c3", name: "Ideea principală și rezumatul", questions: [
         { type: "mcq", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este ideea principală a unui text?", options: ["Mesajul cel mai important", "Titlul textului", "Prima propoziție", "Ultimul paragraf"], correct: 0 },
       ]},
+    ],
+  },
+  {
+    id: "vocabular_tematic_c3",
+    name: "Vocabular Tematic",
+    icon: "🌍",
+    color: "#10B981",
+    subtopics: [
+      { id: "natura_c3", name: "Natura și mediul", questions: [] },
+      { id: "activitati_c3", name: "Activități și sport", questions: [] },
+      { id: "locuinta_c3", name: "Locuința și mobilierul", questions: [] },
+      { id: "imbracaminte_c3", name: "Îmbrăcăminte și accesorii", questions: [] },
+      { id: "textul_descriptiv_c3", name: "Textul descriptiv", questions: [] },
     ],
   },
 ];
