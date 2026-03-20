@@ -100,7 +100,7 @@ const TEXT_LIRIC = [
   { form: "odă", structure: "poem de laudă, versuri lungi", example: "Oda mării de George Coșbuc", traits: "admirație, solemnitate" },
   { form: "elegie", structure: "poem de plângere, ritm trist", example: "Lacrima de Vasile Alecsandri", traits: "durere, melancoly" },
   { form: "pastel", structure: "tablou liric mic, descriere pitorească", example: "Plouă de Ion Pillat", traits: "imagine naturală, emoție" },
-  { form: "baladă", structure: "poveste narativă în vers", example: "Mioriță" (trad.), traits: "mister, magie, tragic" },
+  { form: "baladă", structure: "poveste narativă în vers", example: "Mioriță (trad.)", traits: "mister, magie, tragic" },
   { form: "himn", structure: "poem grandioc, versuri majore", example: "Deșteaptă-te române!", traits: "patriotism, apel" },
 ];
 
