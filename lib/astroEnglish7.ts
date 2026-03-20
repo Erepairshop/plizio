@@ -118,9 +118,9 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i8",
-    name: { en: "Literary Device Lab", hu: "Irodalmi eszközök laboratóriuma", de: "Literarische-Geräte-Labor", ro: "Laboratorul figurilor literare" },
-    icon: "📚", color: "#A855F7", sortRange: [1, 20],
-    topicKeys: ["vocab_g7/literary_devices_g7", "clause_types_g7/cause_effect_g7", "clause_types_g7/conditional_g7"],
+    name: { en: "Clause Kingdom", hu: "Záradék-királyság", de: "Klausel-Königreich", ro: "Regatul clauzelor" },
+    icon: "👑", color: "#FF6B6B", sortRange: [1, 20],
+    topicKeys: ["cause_effect_g7", "conditional_g7", "concessive_g7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Literary Quiz",  hu: "Irodalmi kvíz",    de: "Literatur-Quiz",  ro: "Quiz literar"      } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
@@ -130,12 +130,11 @@ export const K7_ISLANDS: IslandDef[] = [
   },
   {
     id: "i9",
-    name: { en: "Big Test", hu: "Nagy Próba", de: "Große Prüfung", ro: "Marea probă" },
-    icon: "🌟", color: "#4ECDC4", sortRange: [1, 20],
+    name: { en: "Verbal Valley", hu: "Igenév-völgy", de: "Verbal-Tal", ro: "Valea verbalelor" },
+    icon: "📜", color: "#FFD700", sortRange: [1, 20],
     topicKeys: [
-      "grammar_g7/phrases_g7", "grammar_g7/tense_voice_g7",
-      "punctuation_g7/commas_phrases_g7", "vocab_g7/figurative_language_g7",
-      "vocab_g7/analogies_g7", "vocab_g7/literary_devices_g7",
+      "infinitive_phrases_g7", "gerund_phrases_g7", "participial_phrases_g7",
+      "figurative_language_g7", "literary_devices_g7",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Final Quiz",     hu: "Záró kvíz",        de: "Final-Quiz",      ro: "Quiz final"        } },

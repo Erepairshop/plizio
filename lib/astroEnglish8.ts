@@ -17,26 +17,26 @@ export const K8_CHECKPOINT_MAP: Record<string, string[]> = {
 
 export const K8_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
-    "complex_grammar_g8/verbals_g8", "complex_grammar_g8/participial_modifiers_g8",
-    "complex_grammar_g8/absolute_phrases_g8", "complex_grammar_g8/active_passive_g8",
+    "verbals_g8", "participial_modifiers_g8",
+    "absolute_phrases_g8", "active_passive_g8",
   ],
   test2: [
-    "complex_grammar_g8/subjunctive_g8", "complex_grammar_g8/voice_mood_shifts_g8",
-    "writing_g8/argumentative_g8", "writing_g8/informational_g8",
+    "subjunctive_g8", "voice_mood_shifts_g8",
+    "argumentative_g8", "informational_g8",
   ],
   test3: [
-    "literature_g8/point_of_view_g8", "literature_g8/genres_g8",
-    "literature_g8/allusion_irony_g8", "literature_g8/theme_g8",
-    "style_g8/formal_register_g8", "style_g8/domain_vocab_g8",
+    "point_of_view_g8", "genres_g8",
+    "allusion_irony_g8", "theme_g8",
+    "formal_register_g8", "academic_vs_conv_g8", "domain_vocab_g8",
   ],
 };
 
 export const K8_ISLANDS: IslandDef[] = [
   {
     id: "i1",
-    name: { en: "Verbal Vortex", hu: "Igenevek örvénye", de: "Verbalnomen-Vortex", ro: "Vortexul verbalelor" },
-    icon: "🌀", color: "#FF2D78", sortRange: [1, 20],
-    topicKeys: ["complex_grammar_g8/verbals_g8", "complex_grammar_g8/participial_modifiers_g8"],
+    name: { en: "Verbal Voyage", hu: "Igenév-utazás", de: "Verbal-Reise", ro: "Călătoria verbalelor" },
+    icon: "🚢", color: "#E879F9", sortRange: [1, 20],
+    topicKeys: ["verbals_g8", "participial_modifiers_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Verbal Quiz",    hu: "Igenév kvíz",      de: "Verbal-Quiz",     ro: "Quiz verbale"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -46,9 +46,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i2",
-    name: { en: "Absolute Phrase Asteroid", hu: "Abszolút tagmondat aszteroida", de: "Absoluter-Phrase-Asteroid", ro: "Asteroidul frazelor absolute" },
-    icon: "☄️", color: "#00D4FF", sortRange: [1, 20],
-    topicKeys: ["complex_grammar_g8/absolute_phrases_g8", "complex_grammar_g8/active_passive_g8"],
+    name: { en: "Phrase Frontier", hu: "Szintagma-határ", de: "Phrasen-Grenze", ro: "Frontiera frazelor" },
+    icon: "🗺️", color: "#3B82F6", sortRange: [1, 20],
+    topicKeys: ["absolute_phrases_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Phrase Quiz",    hu: "Tagmondat kvíz",   de: "Phrase-Quiz",     ro: "Quiz fraze"        } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -58,9 +58,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i3",
-    name: { en: "Subjunctive Sky", hu: "Kötőmódos égbolt", de: "Konjunktiv-Himmel", ro: "Cerul conjunctivului" },
-    icon: "💭", color: "#10B981", sortRange: [1, 20],
-    topicKeys: ["complex_grammar_g8/subjunctive_g8", "complex_grammar_g8/voice_mood_shifts_g8"],
+    name: { en: "Voice & Mood", hu: "Hang és módj", de: "Stimme und Modus", ro: "Diateza și mod" },
+    icon: "🎭", color: "#10B981", sortRange: [1, 20],
+    topicKeys: ["active_passive_g8", "subjunctive_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Mood Quiz",      hu: "Módja kvíz",       de: "Modus-Quiz",      ro: "Quiz mod"          } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -70,9 +70,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i4",
-    name: { en: "Argumentative Arena", hu: "Érvelő aréna", de: "Argumentations-Arena", ro: "Arena argumentativă" },
-    icon: "⚔️", color: "#F59E0B", sortRange: [1, 20],
-    topicKeys: ["writing_g8/argumentative_g8", "writing_g8/informational_g8"],
+    name: { en: "Writing Workshop", hu: "Írás műhely", de: "Schreib-Werkstatt", ro: "Atelier de scriere" },
+    icon: "✍️", color: "#F59E0B", sortRange: [1, 20],
+    topicKeys: ["argumentative_g8", "informational_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Writing Quiz",   hu: "Írás kvíz",        de: "Schreib-Quiz",    ro: "Quiz scriere"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -82,9 +82,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i5",
-    name: { en: "Narrative Nebula", hu: "Elbeszélő köd", de: "Erzähl-Nebel", ro: "Nebuloasa narativă" },
-    icon: "📖", color: "#6366F1", sortRange: [1, 20],
-    topicKeys: ["writing_g8/narrative_g8"],
+    name: { en: "Literature Lab", hu: "Irodalom-laboratórium", de: "Literatur-Labor", ro: "Laborator literar" },
+    icon: "📚", color: "#6366F1", sortRange: [1, 20],
+    topicKeys: ["point_of_view_g8", "genres_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Narrative Quiz", hu: "Elbeszélő kvíz",  de: "Narrativ-Quiz",   ro: "Quiz narativ"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -94,9 +94,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i6",
-    name: { en: "Point of View Portal", hu: "Nézőpont kapuja", de: "Perspektive-Portal", ro: "Portalul perspectivei" },
-    icon: "👁️", color: "#EC4899", sortRange: [1, 20],
-    topicKeys: ["literature_g8/point_of_view_g8", "literature_g8/genres_g8"],
+    name: { en: "Style Studio", hu: "Stílus-stúdió", de: "Stil-Studio", ro: "Studio de stil" },
+    icon: "🎨", color: "#FF2D78", sortRange: [1, 20],
+    topicKeys: ["allusion_irony_g8", "theme_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "POV Quiz",       hu: "Nézőpont kvíz",    de: "Perspektive-Quiz", ro: "Quiz perspectivă" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -106,9 +106,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i7",
-    name: { en: "Allusion & Irony Island", hu: "Allúzió és irónia sziget", de: "Anspielungs-Insel", ro: "Insula aluziei și ironiei" },
-    icon: "🎭", color: "#14B8A6", sortRange: [1, 20],
-    topicKeys: ["literature_g8/allusion_irony_g8", "literature_g8/theme_g8"],
+    name: { en: "Register Range", hu: "Regiszter-tartomány", de: "Register-Bereich", ro: "Gama registrelor" },
+    icon: "📋", color: "#00D4FF", sortRange: [1, 20],
+    topicKeys: ["formal_register_g8", "academic_vs_conv_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Allusion Quiz",  hu: "Allúzió kvíz",     de: "Anspielungs-Quiz", ro: "Quiz aluzie"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -118,9 +118,9 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i8",
-    name: { en: "Register Realm", hu: "Stílusregiszter birodalom", de: "Register-Reich", ro: "Tărâmul registrelor" },
-    icon: "🎓", color: "#A855F7", sortRange: [1, 20],
-    topicKeys: ["style_g8/formal_register_g8", "style_g8/academic_vs_conv_g8", "style_g8/domain_vocab_g8"],
+    name: { en: "Punctuation Pinnacle", hu: "Írásjel-csúcs", de: "Satzzeichen-Gipfel", ro: "Vârful punctuației" },
+    icon: "✒️", color: "#FF6B6B", sortRange: [1, 20],
+    topicKeys: ["ellipsis_g8", "dashes_g8", "commas_complex_g8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Register Quiz",  hu: "Regiszter kvíz",   de: "Register-Quiz",   ro: "Quiz registru"     } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",     hu: "Bolygó kvíz",      de: "Planetenquiz",    ro: "Quiz planetar"     } },
@@ -130,12 +130,10 @@ export const K8_ISLANDS: IslandDef[] = [
   },
   {
     id: "i9",
-    name: { en: "Grand Final", hu: "Nagy Döntő", de: "Große Prüfung", ro: "Marea probă" },
-    icon: "🌟", color: "#E879F9", sortRange: [1, 20],
+    name: { en: "Etymology Summit", hu: "Etimológia csúcs", de: "Etymologie-Gipfel", ro: "Vârful etimologiei" },
+    icon: "🏆", color: "#FFD700", sortRange: [1, 20],
     topicKeys: [
-      "complex_grammar_g8/verbals_g8", "complex_grammar_g8/active_passive_g8",
-      "writing_g8/argumentative_g8", "literature_g8/point_of_view_g8",
-      "literature_g8/theme_g8", "style_g8/formal_register_g8",
+      "greek_latin_adv_g8", "figurative_adv_g8", "word_nuances_g8",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Final Quiz",     hu: "Záró kvíz",        de: "Final-Quiz",      ro: "Quiz final"        } },
