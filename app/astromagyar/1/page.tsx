@@ -277,7 +277,6 @@ export default function AstroMagyarO1Page() {
   const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
-  const [newMilestones, setNewMilestones] = useState<Array<{ id: string; reward: number; icon: string }>>([]);
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<string>("idle");
   const [avatarJumpTrigger, setAvatarJumpTrigger] = useState(0);
@@ -325,8 +324,7 @@ export default function AstroMagyarO1Page() {
       saveCard({ id: generateCardId(), game: "astromagyar", rarity: earnedCard, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
       window.dispatchEvent(new Event("plizio-cards-changed"));
       incrementTotalGames();
-      const milestones = checkNewMilestones();
-      if (milestones.length > 0) setNewMilestones(milestones);
+      checkNewMilestones();
       setRewardScore(missionScore);
       setScreen("reward");
     }
@@ -416,16 +414,16 @@ export default function AstroMagyarO1Page() {
 
       {/* Game Screens */}
       {screen === "orbit-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} color={activeIsland?.color || "#FF2D78"} lang={lang}
-          onComplete={(s, t) => handleMissionSuccess(s, t)} onExit={() => setScreen("mission-select")} />
+        <OrbitQuiz questions={questions} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
       {screen === "black-hole" && questions.length > 0 && (
-        <BlackHole questions={questions} color={activeIsland?.color || "#FF2D78"} lang={lang}
-          onComplete={(s, t) => handleMissionSuccess(s, t)} onExit={() => setScreen("mission-select")} />
+        <BlackHole questions={questions} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
       {screen === "star-match" && questions.length > 0 && (
-        <StarMatch questions={questions} color={activeIsland?.color || "#FF2D78"} lang={lang}
-          onComplete={(s, t) => handleMissionSuccess(s, t)} onExit={() => setScreen("mission-select")} />
+        <StarMatch questions={questions} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
 
       {/* Reward */}
@@ -442,8 +440,8 @@ export default function AstroMagyarO1Page() {
 
       {/* Checkpoint */}
       {screen === "checkpoint-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} color="#FFD700" lang={lang}
-          onComplete={(s, t) => handleCheckpointSuccess(s, t)} onExit={() => setScreen("island-map")} />
+        <OrbitQuiz questions={questions} color="#FFD700"
+          onDone={(s, t) => handleCheckpointSuccess(s, t)} />
       )}
 
       {/* Checkpoint Done */}
@@ -464,9 +462,7 @@ export default function AstroMagyarO1Page() {
       )}
 
       {/* Milestones */}
-      {newMilestones.length > 0 && (
-        <MilestonePopup milestoneIds={newMilestones} onClose={() => setNewMilestones([])} />
-      )}
+      <MilestonePopup />
     </div>
   );
 }
