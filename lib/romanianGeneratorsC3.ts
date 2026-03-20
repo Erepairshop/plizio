@@ -3,7 +3,7 @@
 // Clasa a III-a (3rd grade) – substantiv (gen, număr, caz), verb (conjugare),
 // adjectiv (acord), propoziția dezvoltată, vocabular avansat, lectură
 
-import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
