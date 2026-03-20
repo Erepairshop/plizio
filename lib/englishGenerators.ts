@@ -8429,6 +8429,14 @@ export const G7_Generators = {
         { sentence: "She ran incredibly quickly.", phrase: "incredibly quickly", type: "adverbial phrase", wrong: ["adjectival phrase", "noun phrase", "verb phrase"] },
         { sentence: "To finish on time, she skipped lunch.", phrase: "To finish on time", type: "infinitive phrase", wrong: ["gerund phrase", "participial phrase", "noun phrase"] },
         { sentence: "The dog under the porch barked loudly.", phrase: "under the porch", type: "prepositional phrase", wrong: ["adjectival phrase", "noun phrase", "adverbial phrase"] },
+        { sentence: "Walking through the garden, she found rare flowers.", phrase: "Walking through the garden", type: "participial phrase", wrong: ["prepositional phrase", "noun phrase", "adverbial phrase"] },
+        { sentence: "The beautiful painting on the wall attracted attention.", phrase: "on the wall", type: "prepositional phrase", wrong: ["participial phrase", "adjectival phrase", "noun phrase"] },
+        { sentence: "He wanted to explore the entire world.", phrase: "to explore the entire world", type: "infinitive phrase", wrong: ["gerund phrase", "participial phrase", "prepositional phrase"] },
+        { sentence: "Jumping over the fence, the athlete celebrated.", phrase: "Jumping over the fence", type: "participial phrase", wrong: ["noun phrase", "prepositional phrase", "adverbial phrase"] },
+        { sentence: "The student with excellent grades graduated first.", phrase: "with excellent grades", type: "prepositional phrase", wrong: ["noun phrase", "adjectival phrase", "participial phrase"] },
+        { sentence: "She spoke quite intelligently during the debate.", phrase: "quite intelligently", type: "adverbial phrase", wrong: ["adjectival phrase", "participial phrase", "noun phrase"] },
+        { sentence: "The smell of fresh bread filled the kitchen.", phrase: "of fresh bread", type: "prepositional phrase", wrong: ["adverbial phrase", "noun phrase", "adjectival phrase"] },
+        { sentence: "Surprised by the sudden noise, the cat hissed.", phrase: "Surprised by the sudden noise", type: "participial phrase", wrong: ["noun phrase", "adverbial phrase", "verb phrase"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -11597,6 +11605,16 @@ export const G8_Generators = {
         { text: "'I used to be a banker, but I lost interest.'", device: "pun" },
         { text: "'Nice job!' (said to someone who just dropped all the plates)", device: "verbal irony" },
         { text: "'He's a real Einstein' (said about someone who did something foolish)", device: "verbal irony" },
+        { text: "'The classroom was a war zone after the student presentation.'", device: "metaphor" },
+        { text: "'His heart is a broken record playing the same sad song.'", device: "metaphor" },
+        { text: "'She talks a mile a minute.'", device: "hyperbole" },
+        { text: "'I'm so hungry I could eat a horse!'", device: "hyperbole" },
+        { text: "'The walls have ears in that office.'", device: "personification" },
+        { text: "'He's a shark in the business world.'", device: "metaphor" },
+        { text: "'That test was a real piece of cake!'", device: "idiom" },
+        { text: "'When life gives you lemons, make lemonade.'", device: "metaphor" },
+        { text: "'He threw his anger to the wind.'", device: "personification" },
+        { text: "'That exam was a total breeze' vs. 'That exam was a nightmare.'", device: "metaphor" },
       ];
       for (let i = 0; i < 25; i++) {
         const data = pick(figData, rng);
@@ -11617,6 +11635,16 @@ export const G8_Generators = {
         { question: "Which word means 'thin' and has a POSITIVE connotation?", answer: "slender" },
         { question: "Which word means 'very hungry' and is the MOST FORMAL?", answer: "famished" },
         { question: "Which word means 'very thin' and has a NEGATIVE connotation?", answer: "scrawny" },
+        { question: "Which word means 'to end' and is the MOST FORMAL?", answer: "terminate" },
+        { question: "Which word means 'to look at' and is the MOST FORMAL?", answer: "observe" },
+        { question: "Which word means 'to buy' and is the MOST FORMAL?", answer: "purchase" },
+        { question: "Which word means 'to help' and is the MOST FORMAL?", answer: "assist" },
+        { question: "Which word means 'happy' and has a POSITIVE connotation?", answer: "joyful" },
+        { question: "Which word means 'happy' and sounds NEUTRAL or CASUAL?", answer: "glad" },
+        { question: "Which word means 'sad' and has a STRONG negative connotation?", answer: "devastated" },
+        { question: "Which word means 'strong-willed' and has a POSITIVE connotation?", answer: "determined" },
+        { question: "Which word means 'strong-willed' and has a NEGATIVE connotation?", answer: "stubborn" },
+        { question: "Which word means 'to talk' and is the MOST FORMAL?", answer: "discourse" },
       ];
       for (let i = 0; i < 25; i++) {
         const data = pick(nuanceData, rng);

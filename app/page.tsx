@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -77,6 +77,7 @@ const TRANSLATIONS = {
       citydrive: "City Drive",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -121,6 +122,7 @@ const TRANSLATIONS = {
       citydrive: "Város Vezetés",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
       englishtest: "Angol Teszt",
@@ -165,6 +167,7 @@ const TRANSLATIONS = {
       citydrive: "Stadtfahrt",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -209,6 +212,7 @@ const TRANSLATIONS = {
       citydrive: "Conducere în Oraș",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
       englishtest: "Test de Engleză",
@@ -365,6 +369,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astrodeutsch",
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-teal-500/20",
+      },
+      {
+        id: "astroenglish",
+        icon: Languages,
+        nameKey: "astroenglish",
+        color: "#3B82F6",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
       },
       {
         id: "mathtest",
@@ -556,7 +567,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", astrodeutsch: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", romaniantest: "brain",
+  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", romaniantest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };
