@@ -2342,6 +2342,10 @@ export const G2_Generators = {
         { job: "police officer", clue: "Person who keeps people safe" },
         { job: "dentist", clue: "Person who takes care of your teeth" },
         { job: "carpenter", clue: "Person who builds things from wood" },
+        { job: "artist", clue: "Person who creates paintings or sculptures" },
+        { job: "musician", clue: "Person who plays instruments or sings" },
+        { job: "astronaut", clue: "Person who travels in space" },
+        { job: "scientist", clue: "Person who does experiments and discoveries" },
       ];
       const wrongJobs = ["student", "friend", "family", "parent"];
       for (let i = 0; i < 20; i++) {
@@ -2486,6 +2490,10 @@ export const G2_Generators = {
         { location: "in front of", clue: "The car is ___ the house." },
         { location: "between", clue: "The ball is ___ the two trees." },
         { location: "above", clue: "The bird is ___ the clouds." },
+        { location: "below", clue: "The fish is ___ the water." },
+        { location: "inside", clue: "The toys are ___ the box." },
+        { location: "outside", clue: "The children play ___ the school." },
+        { location: "near", clue: "The park is ___ my house." },
       ];
       const wrongLocations = ["play", "run", "fast", "blue", "big", "happy"];
       for (let i = 0; i < 20; i++) {
@@ -2528,6 +2536,10 @@ export const G2_Generators = {
         { activity: "eat dinner", clue: "Eat food in the evening" },
         { activity: "do homework", clue: "Complete work from school at home" },
         { activity: "sleep", clue: "Rest at night" },
+        { activity: "take a shower", clue: "Clean your body with water" },
+        { activity: "get dressed", clue: "Put on your clothes" },
+        { activity: "read", clue: "Look at words and pictures in a book" },
+        { activity: "watch TV", clue: "Look at a television screen" },
       ];
       const wrongActivities = ["rain", "car", "blue", "table", "tree", "book"];
       for (let i = 0; i < 20; i++) {
@@ -2570,6 +2582,10 @@ export const G2_Generators = {
         { room: "hallway", clue: "Long passage that connects rooms" },
         { room: "garage", clue: "Place where you park a car" },
         { room: "basement", clue: "Room under the main floor of a house" },
+        { room: "attic", clue: "Room above the main floor of a house" },
+        { room: "office", clue: "Place where people work with computers" },
+        { room: "playroom", clue: "Room where children play with toys" },
+        { room: "laundry room", clue: "Place where you wash clothes" },
       ];
       const wrongRooms = ["table", "window", "door", "tree", "car", "school"];
       for (let i = 0; i < 20; i++) {
@@ -2610,6 +2626,10 @@ export const G2_Generators = {
         { hobby: "playing soccer", clue: "Sport where you kick a ball with teammates" },
         { hobby: "swimming", clue: "Moving through water for exercise" },
         { hobby: "riding a bike", clue: "Traveling on a bicycle" },
+        { hobby: "playing basketball", clue: "Sport where you throw a ball into a hoop" },
+        { hobby: "playing games", clue: "Fun activities like video games or board games" },
+        { hobby: "collecting", clue: "Gathering things like cards or stickers" },
+        { hobby: "playing an instrument", clue: "Making music with something like a guitar" },
       ];
       const wrongHobbies = ["sleep", "eat", "school", "table", "blue", "fast"];
       for (let i = 0; i < 20; i++) {
@@ -2650,6 +2670,10 @@ export const G2_Generators = {
         { place: "church", clue: "Place of worship" },
         { place: "police station", clue: "Place where police officers work" },
         { place: "fire station", clue: "Place where firefighters work" },
+        { place: "zoo", clue: "Place where many wild animals live" },
+        { place: "museum", clue: "Place where you see old or interesting things" },
+        { place: "movie theater", clue: "Place where you watch films on a big screen" },
+        { place: "supermarket", clue: "Large store with many different items" },
       ];
       const wrongPlaces = ["car", "table", "flower", "pencil", "blue", "fast"];
       for (let i = 0; i < 20; i++) {
@@ -3934,6 +3958,16 @@ export const G4_Generators = {
         { pronoun: "which", sentence: "The cake, ___ Mom baked, tasted amazing.", use: "refers to things (non-restrictive)" },
         { pronoun: "that", sentence: "The movie ___ we watched was funny.", use: "refers to things (restrictive)" },
         { pronoun: "whom", sentence: "The friend ___ she invited came early.", use: "refers to people (object)" },
+        { pronoun: "who", sentence: "The woman ___ lives next door is a doctor.", use: "refers to people (subject)" },
+        { pronoun: "whose", sentence: "The child ___ toys were lost is upset.", use: "shows possession" },
+        { pronoun: "that", sentence: "The house ___ they built is beautiful.", use: "refers to things (restrictive)" },
+        { pronoun: "which", sentence: "The flowers, ___ were red, smelled wonderful.", use: "refers to things (non-restrictive)" },
+        { pronoun: "whom", sentence: "The boy ___ he helped is grateful.", use: "refers to people (object)" },
+        { pronoun: "who", sentence: "The athletes ___ trained daily won medals.", use: "refers to people (subject)" },
+        { pronoun: "whose", sentence: "The artist ___ paintings hang in museums is famous.", use: "shows possession" },
+        { pronoun: "that", sentence: "The project ___ we completed was challenging.", use: "refers to things (restrictive)" },
+        { pronoun: "which", sentence: "The restaurant, ___ opened last year, serves great food.", use: "refers to things (non-restrictive)" },
+        { pronoun: "whom", sentence: "The teacher ___ we respect is retiring.", use: "refers to people (object)" },
       ];
       const allPronouns = ["who", "whom", "whose", "which", "that"];
       for (let i = 0; i < 30; i++) {
@@ -3961,6 +3995,12 @@ export const G4_Generators = {
         { adverb: "why", sentence: "Tell me ___ you are late.", use: "tells about a reason" },
         { adverb: "where", sentence: "This is the store ___ we buy groceries.", use: "tells about a place" },
         { adverb: "when", sentence: "Do you know ___ the movie starts?", use: "tells about a time" },
+        { adverb: "where", sentence: "The beach ___ we swam is beautiful.", use: "tells about a place" },
+        { adverb: "when", sentence: "That is the moment ___ everything changed.", use: "tells about a time" },
+        { adverb: "why", sentence: "I don't understand ___ he left early.", use: "tells about a reason" },
+        { adverb: "where", sentence: "The city ___ they live is very old.", use: "tells about a place" },
+        { adverb: "when", sentence: "December is ___ we celebrate the holidays.", use: "tells about a time" },
+        { adverb: "why", sentence: "That is ___ I like this book so much.", use: "tells about a reason" },
       ];
       const allAdverbs = ["where", "when", "why"];
       for (let i = 0; i < 30; i++) {
@@ -4059,6 +4099,12 @@ export const G4_Generators = {
         { correct: "a tiny green Italian car", wrong: ["a green tiny Italian car", "an Italian tiny green car", "a tiny Italian green car"] },
         { correct: "a lovely old French painting", wrong: ["an old lovely French painting", "a French old lovely painting", "an old French lovely painting"] },
         { correct: "some delicious hot chicken soup", wrong: ["some hot delicious chicken soup", "some chicken hot delicious soup", "some hot chicken delicious soup"] },
+        { correct: "a bright yellow American flag", wrong: ["a yellow bright American flag", "an American bright yellow flag", "a yellow American bright flag"] },
+        { correct: "five large silver coins", wrong: ["five silver large coins", "silver five large coins", "large five silver coins"] },
+        { correct: "a warm soft woolen sweater", wrong: ["a soft warm woolen sweater", "a woolen soft warm sweater", "a soft woolen warm sweater"] },
+        { correct: "three exotic colorful birds", wrong: ["three colorful exotic birds", "exotic three colorful birds", "colorful three exotic birds"] },
+        { correct: "an expensive Italian leather bag", wrong: ["a leather expensive Italian bag", "an Italian expensive leather bag", "a leather Italian expensive bag"] },
+        { correct: "two round glass tables", wrong: ["two glass round tables", "round two glass tables", "glass two round tables"] },
       ];
       for (let i = 0; i < 30; i++) {
         const order = pick(orders, rng);
@@ -4086,6 +4132,16 @@ export const G4_Generators = {
         { sentence: "They traveled across the country.", phrase: "across the country", prep: "across" },
         { sentence: "We waited until midnight.", phrase: "until midnight", prep: "until" },
         { sentence: "The flowers bloomed during spring.", phrase: "during spring", prep: "during" },
+        { sentence: "The children played in the garden.", phrase: "in the garden", prep: "in" },
+        { sentence: "He jumped between the two ropes.", phrase: "between the two ropes", prep: "between" },
+        { sentence: "The picture hangs on the wall.", phrase: "on the wall", prep: "on" },
+        { sentence: "We stayed at a hotel.", phrase: "at a hotel", prep: "at" },
+        { sentence: "The mouse ran into the hole.", phrase: "into the hole", prep: "into" },
+        { sentence: "She walked toward the sunset.", phrase: "toward the sunset", prep: "toward" },
+        { sentence: "The village is near the mountains.", phrase: "near the mountains", prep: "near" },
+        { sentence: "They arrived before the game started.", phrase: "before the game started", prep: "before" },
+        { sentence: "The ball rolled toward the goal.", phrase: "toward the goal", prep: "toward" },
+        { sentence: "He went beyond the fence.", phrase: "beyond the fence", prep: "beyond" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(prepData, rng);
@@ -5772,6 +5828,11 @@ export const G5_Generators = {
         { affix: "-able", type: "suffix", meaning: "able to be", word: "comfortable", def: "able to provide comfort" },
         { affix: "-ful", type: "suffix", meaning: "full of", word: "beautiful", def: "full of beauty" },
         { affix: "-less", type: "suffix", meaning: "without", word: "careless", def: "without care" },
+        { affix: "over-", type: "prefix", meaning: "above/too much", word: "overcome", def: "conquer or manage" },
+        { affix: "under-", type: "prefix", meaning: "below/too little", word: "understand", def: "comprehend" },
+        { affix: "-ous", type: "suffix", meaning: "full of", word: "dangerous", def: "full of danger" },
+        { affix: "-ity", type: "suffix", meaning: "state of being", word: "quality", def: "degree of excellence" },
+        { affix: "im-", type: "prefix", meaning: "not", word: "impossible", def: "not able to be done" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(affixData, rng);
@@ -5821,6 +5882,13 @@ export const G5_Generators = {
         { phrase: "The flowers danced in the breeze.", device: "personification" },
         { phrase: "I could eat a horse!", device: "hyperbole" },
         { phrase: "The snake hissed at the cat.", device: "onomatopoeia" },
+        { phrase: "Her heart is made of ice.", device: "metaphor" },
+        { phrase: "The student moved like a snail.", device: "simile" },
+        { phrase: "The leaves cried as they fell.", device: "personification" },
+        { phrase: "I've said this a billion times!", device: "hyperbole" },
+        { phrase: "The bacon sizzled in the pan.", device: "onomatopoeia" },
+        { phrase: "Books are windows to other worlds.", device: "metaphor" },
+        { phrase: "She swims like a fish.", device: "simile" },
       ];
       const proverbData = [
         { proverb: "Don't bite the hand that feeds you.", meaning: "don't harm those who help you" },
@@ -5828,6 +5896,9 @@ export const G5_Generators = {
         { proverb: "Actions speak louder than words.", meaning: "what you do matters more than what you say" },
         { proverb: "Don't count your chickens before they hatch.", meaning: "don't assume success before it happens" },
         { proverb: "A penny saved is a penny earned.", meaning: "saving money is as valuable as earning it" },
+        { proverb: "You can't have your cake and eat it too.", meaning: "you can't have two things that are mutually exclusive" },
+        { proverb: "When life gives you lemons, make lemonade.", meaning: "make the best out of bad situations" },
+        { proverb: "Practice makes perfect.", meaning: "you improve through repetition and effort" },
       ];
       const allDevices = ["metaphor", "simile", "personification", "hyperbole", "onomatopoeia"];
       for (let i = 0; i < 30; i++) {
@@ -5871,6 +5942,11 @@ export const G5_Generators = {
         { denotation: "having a lot of interest", positive: "curious", negative: "nosy", neutral: "inquisitive" },
         { denotation: "using few words", positive: "concise", negative: "blunt", neutral: "brief" },
         { denotation: "not afraid", positive: "courageous", negative: "reckless", neutral: "bold" },
+        { denotation: "small in size", positive: "petite", negative: "tiny", neutral: "small" },
+        { denotation: "child-like qualities", positive: "youthful", negative: "childish", neutral: "young" },
+        { denotation: "not shy", positive: "assertive", negative: "aggressive", neutral: "outspoken" },
+        { denotation: "flexible or willing to change", positive: "adaptable", negative: "wishy-washy", neutral: "flexible" },
+        { denotation: "not spending much", positive: "frugal", negative: "stingy", neutral: "careful with money" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(wordSets, rng);
@@ -6737,6 +6813,12 @@ export const G6_Generators = {
         { sentence: "The package is for ___.", correct: "us", case_name: "objective", wrong: ["we", "our", "ourselves"] },
         { sentence: "___ wrote the letter.", correct: "I", case_name: "subjective", wrong: ["Me", "My", "Myself"] },
         { sentence: "The dog followed ___ home.", correct: "her", case_name: "objective", wrong: ["she", "hers", "herself"] },
+        { sentence: "Between you and ___, this is difficult.", correct: "me", case_name: "objective", wrong: ["I", "my", "mine"] },
+        { sentence: "___ is the best player on the team.", correct: "He", case_name: "subjective", wrong: ["Him", "His", "Himself"] },
+        { sentence: "It was ___ who called yesterday.", correct: "she", case_name: "subjective", wrong: ["her", "hers", "herself"] },
+        { sentence: "The book belongs to ___.", correct: "them", case_name: "objective", wrong: ["they", "their", "theirs"] },
+        { sentence: "___ is going to be late.", correct: "We", case_name: "subjective", wrong: ["Us", "Our", "Ourselves"] },
+        { sentence: "Give the present to ___.", correct: "me", case_name: "objective", wrong: ["I", "my", "mine"] },
       ];
       const pronounCases = [
         { pronoun: "I", case_name: "subjective" }, { pronoun: "me", case_name: "objective" }, { pronoun: "my", case_name: "possessive" },
@@ -6781,12 +6863,20 @@ export const G6_Generators = {
         { correct: "They themselves admitted the mistake.", wrong: "Themselves admitted the mistake.", pronoun: "themselves", emphasizes: "They" },
         { correct: "We ourselves painted the room.", wrong: "Ourselves painted the room.", pronoun: "ourselves", emphasizes: "We" },
         { correct: "You yourself said it was fine.", wrong: "Yourself said it was fine.", pronoun: "yourself", emphasizes: "You" },
+        { correct: "The actor himself directed the film.", wrong: "Himself directed the film.", pronoun: "himself", emphasizes: "The actor" },
+        { correct: "I myself don't know the answer.", wrong: "Myself don't know the answer.", pronoun: "myself", emphasizes: "I" },
+        { correct: "She herself wrote this story.", wrong: "Herself wrote this story.", pronoun: "herself", emphasizes: "She" },
+        { correct: "You yourselves organized this event.", wrong: "Yourselves organized this event.", pronoun: "yourselves", emphasizes: "You" },
       ];
       const reflexiveData = [
         { sentence: "She hurt herself.", type: "reflexive", reason: "the pronoun receives the action" },
         { sentence: "He taught himself to play guitar.", type: "reflexive", reason: "the pronoun receives the action" },
         { sentence: "She herself wrote the poem.", type: "intensive", reason: "the pronoun emphasizes the subject" },
         { sentence: "The king himself visited the village.", type: "intensive", reason: "the pronoun emphasizes the subject" },
+        { sentence: "They prepared themselves for the competition.", type: "reflexive", reason: "the pronoun receives the action" },
+        { sentence: "I asked myself if this was right.", type: "reflexive", reason: "the pronoun receives the action" },
+        { sentence: "The mayor herself attended the event.", type: "intensive", reason: "the pronoun emphasizes the subject" },
+        { sentence: "You will teach yourselves new skills.", type: "reflexive", reason: "the pronoun receives the action" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(6, rng)) {
@@ -7022,6 +7112,12 @@ export const G6_Generators = {
         { analogy: "Eye is to see as ear is to ___.", answer: "hear", wrong: ["sound", "nose", "music"], relationship: "organ to function" },
         { analogy: "Fish is to swim as bird is to ___.", answer: "fly", wrong: ["wing", "nest", "feather"], relationship: "animal to movement" },
         { analogy: "Glove is to hand as sock is to ___.", answer: "foot", wrong: ["shoe", "leg", "toe"], relationship: "clothing to body part" },
+        { analogy: "Hammer is to nail as saw is to ___.", answer: "wood", wrong: ["tree", "carpenter", "tool"], relationship: "tool to material" },
+        { analogy: "Sad is to happy as quiet is to ___.", answer: "loud", wrong: ["noisy", "silent", "soft"], relationship: "antonym" },
+        { analogy: "Wheel is to car as leg is to ___.", answer: "table", wrong: ["furniture", "chair", "body"], relationship: "part to whole" },
+        { analogy: "King is to kingdom as captain is to ___.", answer: "ship", wrong: ["sailor", "ocean", "boat"], relationship: "leader to domain" },
+        { analogy: "Day is to night as summer is to ___.", answer: "winter", wrong: ["fall", "spring", "season"], relationship: "opposite season" },
+        { analogy: "Soldier is to army as player is to ___.", answer: "team", wrong: ["coach", "game", "sport"], relationship: "member to group" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(analogyData, rng);
@@ -7187,6 +7283,12 @@ export const G6_Generators = {
         { clause: "She finished the project", type: "independent", reason: "expresses a complete thought" },
         { clause: "The sun was shining brightly", type: "independent", reason: "expresses a complete thought" },
         { clause: "They won the championship", type: "independent", reason: "expresses a complete thought" },
+        { clause: "unless you tell me the truth", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "after the movie ended", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "The teacher explained the lesson", type: "independent", reason: "expresses a complete thought" },
+        { clause: "I finished my homework early", type: "independent", reason: "expresses a complete thought" },
+        { clause: "wherever you go", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "We arrived at the party on time", type: "independent", reason: "expresses a complete thought" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(clauseData, rng);
@@ -8843,6 +8945,13 @@ export const G7_Generators = {
         { sentence: "Until she returns, we will wait here.", conjunction: "until", wrong: ["because", "although", "if"] },
         { sentence: "As soon as the movie started, the audience fell silent.", conjunction: "as soon as", wrong: ["although", "because", "unless"] },
         { sentence: "Since we moved here, we have made many friends.", conjunction: "since", wrong: ["although", "if", "so that"] },
+        { sentence: "During the winter, snow covered the ground.", conjunction: "during", wrong: ["after", "since", "because"] },
+        { sentence: "By the time you arrive, dinner will be ready.", conjunction: "by the time", wrong: ["unless", "although", "if"] },
+        { sentence: "Once you finish, you can go home.", conjunction: "once", wrong: ["before", "unless", "because"] },
+        { sentence: "Whenever it rains, the river floods.", conjunction: "whenever", wrong: ["unless", "if", "so that"] },
+        { sentence: "As the sun rises, the birds begin singing.", conjunction: "as", wrong: ["unless", "although", "because"] },
+        { sentence: "Until you apologize, I won't forgive you.", conjunction: "until", wrong: ["after", "before", "since"] },
+        { sentence: "No sooner had he left than she arrived.", conjunction: "no sooner...than", wrong: ["as soon as", "before", "after"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8870,6 +8979,13 @@ export const G7_Generators = {
         { sentence: "To travel the world is my dream.", phrase: "To travel the world", function: "subject", wrong: ["direct object", "adverb", "adjective"] },
         { sentence: "I need to study for the exam.", phrase: "to study for the exam", function: "direct object", wrong: ["subject", "adverb", "adjective"] },
         { sentence: "She is the person to ask about that.", phrase: "to ask about that", function: "adjective (modifying person)", wrong: ["subject", "direct object", "adverb"] },
+        { sentence: "To understand the problem takes time.", phrase: "To understand the problem", function: "subject", wrong: ["predicate nominative", "direct object", "adverbial"] },
+        { sentence: "He forgot to lock the door.", phrase: "to lock the door", function: "direct object", wrong: ["subject", "adjective", "adverbial"] },
+        { sentence: "I came to help you.", phrase: "to help you", function: "adverb (purpose)", wrong: ["subject", "direct object", "adjective"] },
+        { sentence: "To succeed is everyone's hope.", phrase: "To succeed", function: "subject", wrong: ["predicate nominative", "direct object", "adverbial"] },
+        { sentence: "She loves to read mysteries.", phrase: "to read mysteries", function: "direct object", wrong: ["subject", "adverb", "adjective"] },
+        { sentence: "That is the book to read.", phrase: "to read", function: "adjective (modifying book)", wrong: ["subject", "direct object", "adverb"] },
+        { sentence: "We stopped to rest.", phrase: "to rest", function: "adverb (purpose)", wrong: ["subject", "direct object", "adjective"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8902,6 +9018,13 @@ export const G7_Generators = {
         { sentence: "Playing chess requires concentration.", phrase: "Playing chess", function: "subject", wrong: ["direct object", "object of preposition", "predicate nominative"] },
         { sentence: "I am tired of waiting.", phrase: "waiting", function: "object of preposition", wrong: ["subject", "direct object", "predicate nominative"] },
         { sentence: "Writing clearly is an important skill.", phrase: "Writing clearly", function: "subject", wrong: ["direct object", "object of preposition", "predicate nominative"] },
+        { sentence: "Hiking in the mountains is fun.", phrase: "Hiking in the mountains", function: "subject", wrong: ["direct object", "predicate nominative", "object of preposition"] },
+        { sentence: "They insisted on leaving early.", phrase: "leaving early", function: "object of preposition", wrong: ["subject", "direct object", "predicate nominative"] },
+        { sentence: "His passion is traveling around the world.", phrase: "traveling around the world", function: "predicate nominative", wrong: ["subject", "direct object", "object of preposition"] },
+        { sentence: "Singing in the shower is something she does daily.", phrase: "Singing in the shower", function: "subject", wrong: ["direct object", "object of preposition", "predicate nominative"] },
+        { sentence: "I appreciate your helping with the project.", phrase: "helping with the project", function: "direct object", wrong: ["subject", "object of preposition", "predicate nominative"] },
+        { sentence: "Before leaving, she closed all the doors.", phrase: "leaving", function: "object of preposition", wrong: ["subject", "direct object", "predicate nominative"] },
+        { sentence: "Running marathons has become her passion.", phrase: "Running marathons", function: "subject", wrong: ["direct object", "object of preposition", "predicate nominative"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8934,6 +9057,13 @@ export const G7_Generators = {
         { sentence: "Singing softly, the mother rocked the baby.", phrase: "Singing softly", modifies: "mother", wrong: ["baby", "softly", "rocked"] },
         { sentence: "The students, having finished the test, left early.", phrase: "having finished the test", modifies: "students", wrong: ["test", "early", "left"] },
         { sentence: "Damaged by the storm, the roof needed repair.", phrase: "Damaged by the storm", modifies: "roof", wrong: ["storm", "repair", "needed"] },
+        { sentence: "Confused about directions, they asked for help.", phrase: "Confused about directions", modifies: "they", wrong: ["directions", "help", "asked"] },
+        { sentence: "The man, sitting quietly, observed everyone.", phrase: "sitting quietly", modifies: "man", wrong: ["everyone", "quietly", "observed"] },
+        { sentence: "Decorated with flowers, the hall looked beautiful.", phrase: "Decorated with flowers", modifies: "hall", wrong: ["flowers", "beautiful", "looked"] },
+        { sentence: "Broken into pieces, the vase couldn't be fixed.", phrase: "Broken into pieces", modifies: "vase", wrong: ["pieces", "fixed", "be"] },
+        { sentence: "Laughing at the joke, the audience applauded.", phrase: "Laughing at the joke", modifies: "audience", wrong: ["joke", "applauded", "the"] },
+        { sentence: "The cars, parked along the street, belonged to residents.", phrase: "parked along the street", modifies: "cars", wrong: ["street", "residents", "belonged"] },
+        { sentence: "Inspired by the speech, many people volunteered.", phrase: "Inspired by the speech", modifies: "people", wrong: ["speech", "volunteered", "many"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8964,6 +9094,11 @@ export const G7_Generators = {
         { phrase: "very intelligent", type: "adjectival phrase" },
         { phrase: "under the table", type: "prepositional phrase" },
         { phrase: "The girl with red hair", type: "noun phrase" },
+        { phrase: "speaks fluently", type: "verb phrase" },
+        { phrase: "extremely bright", type: "adjectival phrase" },
+        { phrase: "beside the lake", type: "prepositional phrase" },
+        { phrase: "three books", type: "noun phrase" },
+        { phrase: "moves smoothly", type: "verb phrase" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(phraseTypes, rng);
@@ -8980,6 +9115,10 @@ export const G7_Generators = {
         { clause: "Although it rained", type: "dependent" },
         { clause: "because he was tired", type: "subordinate" },
         { clause: "The dog barked loudly", type: "independent" },
+        { clause: "When the bell rings", type: "dependent" },
+        { clause: "They played games happily", type: "independent" },
+        { clause: "If you study", type: "subordinate" },
+        { clause: "She walked home", type: "independent" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(clauseData, rng);
@@ -8996,6 +9135,10 @@ export const G7_Generators = {
         { sentence: "She ate an apple and he drank milk.", type: "compound" },
         { sentence: "Although it rained, we went out.", type: "complex" },
         { sentence: "She studied hard, and although she was tired, she finished the work.", type: "compound-complex" },
+        { sentence: "The cat slept.", type: "simple" },
+        { sentence: "We played games, and then we watched a movie.", type: "compound" },
+        { sentence: "Since it was cold, they wore coats.", type: "complex" },
+        { sentence: "Before she left, she packed her bags, and then she called a taxi.", type: "compound-complex" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceData, rng);
@@ -9011,6 +9154,9 @@ export const G7_Generators = {
         { sentence: "Running down the street, the dog barked loudly.", problem: "dangling modifier", fix: "As the dog ran down the street, it barked loudly." },
         { sentence: "The car hit the tree driving too fast.", problem: "misplaced modifier", fix: "The car, driving too fast, hit the tree." },
         { sentence: "Excited about the party, she danced all night.", problem: "correct", fix: "correct" },
+        { sentence: "Broken into pieces, I couldn't use the lamp.", problem: "dangling modifier", fix: "Since the lamp was broken into pieces, I couldn't use it." },
+        { sentence: "She only eats vegetables on Tuesdays.", problem: "misplaced modifier", fix: "She eats only vegetables on Tuesdays." },
+        { sentence: "After finishing lunch, the weather turned bad.", problem: "dangling modifier", fix: "After we finished lunch, the weather turned bad." },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(modData, rng);
@@ -9835,6 +9981,13 @@ export const G8_Generators = {
         { sentence: "He decided to study medicine.", verbal: "to study medicine", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
         { sentence: "She enjoys painting landscapes.", verbal: "painting landscapes", type: "gerund (direct object)", wrong: ["infinitive", "participle", "adjective"] },
         { sentence: "Confused by the directions, he stopped.", verbal: "Confused by the directions", type: "participle (modifier)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "To understand this requires patience.", verbal: "To understand this", type: "infinitive used as a noun (subject)", wrong: ["gerund", "participle", "adjective"] },
+        { sentence: "Traveling abroad broadens your perspective.", verbal: "Traveling abroad", type: "gerund (subject)", wrong: ["infinitive", "participle", "noun"] },
+        { sentence: "The running water was cold.", verbal: "running", type: "participle (adjective)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "I hope to finish by tomorrow.", verbal: "to finish by tomorrow", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
+        { sentence: "Writing essays helps improve skills.", verbal: "Writing essays", type: "gerund (subject)", wrong: ["infinitive", "participle", "noun"] },
+        { sentence: "Exhausted from work, she rested.", verbal: "Exhausted from work", type: "participle (modifier)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "They wanted to travel extensively.", verbal: "to travel extensively", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
