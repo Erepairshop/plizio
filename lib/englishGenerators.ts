@@ -330,7 +330,8 @@ export const G1_Generators = {
       const q: CurriculumQuestion[] = [];
       const sightWords = ["the", "and", "is", "it", "you", "that", "he", "was", "for", "on",
         "are", "with", "his", "they", "at", "be", "this", "have", "from", "one",
-        "had", "not", "but", "what", "all", "were", "we", "when", "can", "said"];
+        "had", "not", "but", "what", "all", "were", "we", "when", "can", "said",
+        "she", "do", "to", "as", "my", "or", "by", "an", "go", "see"];
       const nonsense = ["zop", "bif", "muk", "gax", "tev", "pon", "wug", "hib", "jaf", "dex"];
       for (let i = 0; i < 30; i++) {
         const word = pick(sightWords, rng);
@@ -467,6 +468,8 @@ export const G1_Generators = {
         ["cup", "cake", "cupcake"], ["bed", "room", "bedroom"], ["pop", "corn", "popcorn"],
         ["snow", "man", "snowman"], ["tooth", "brush", "toothbrush"], ["gold", "fish", "goldfish"],
         ["base", "ball", "baseball"], ["play", "ground", "playground"], ["butter", "fly", "butterfly"],
+        ["fire", "fly", "firefly"], ["rain", "drop", "raindrop"], ["sand", "box", "sandbox"],
+        ["dog", "house", "doghouse"], ["note", "book", "notebook"], ["bath", "room", "bathroom"],
       ];
       for (let i = 0; i < 30; i++) {
         const [w1, w2, compound] = pick(pairs, rng);
@@ -738,6 +741,9 @@ export const G1_Generators = {
         { clue: "Your mother's husband is your", answer: "father" },
         { clue: "Your father's wife is your", answer: "mother" },
         { clue: "Your parents' parents are your", answer: "grandparents" },
+        { clue: "Your sister's or brother's son is your", answer: "nephew" },
+        { clue: "Your sister's or brother's daughter is your", answer: "niece" },
+        { clue: "Your mother and father together are your", answer: "parents" },
       ];
       const wrongWords = ["teacher", "friend", "doctor", "neighbor", "student", "cook", "farmer", "worker"];
       for (let i = 0; i < 20; i++) {
@@ -2157,7 +2163,7 @@ export const G2_Generators = {
     clothing_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const clothingItems = ["shirt", "pants", "shoes", "hat", "dress", "jacket", "socks", "shorts", "coat", "gloves", "scarf", "boots"];
+      const clothingItems = ["shirt", "pants", "shoes", "hat", "dress", "jacket", "socks", "shorts", "coat", "gloves", "scarf", "boots", "tie", "sweater", "vest", "skirt"];
       const wrongItems = ["bed", "chair", "table", "tree", "dog", "car", "house", "book", "apple", "water"];
       for (let i = 0; i < 20; i++) {
         const item = pick(clothingItems, rng);
@@ -2182,6 +2188,10 @@ export const G2_Generators = {
         { clue: "You wear these on your feet under shoes", answer: "socks" },
         { clue: "You wear this sleeveless over a shirt", answer: "vest" },
         { clue: "Short pants you wear in summer", answer: "shorts" },
+        { clue: "You wear this around your neck with a suit", answer: "tie" },
+        { clue: "Warm clothing you wear on cold days", answer: "sweater" },
+        { clue: "Girls wear this below the waist", answer: "skirt" },
+        { clue: "Loose clothing to sleep in", answer: "pajamas" },
       ];
       for (let i = 0; i < 15; i++) {
         const clue = pick(clothingClues, rng);
@@ -2203,6 +2213,8 @@ export const G2_Generators = {
         { clue: "When there is a strong, dangerous windstorm", answer: "stormy" },
         { clue: "When ice forms on ground and grass", answer: "frosty" },
         { clue: "When there is fog or mist in the air", answer: "foggy" },
+        { clue: "When the weather has both sun and rain", answer: "misty" },
+        { clue: "When it is extremely hot", answer: "scorching" },
       ];
       const wrongItems = ["happy", "fast", "blue", "tall", "small", "loud", "soft", "clean"];
       for (let i = 0; i < 20; i++) {
@@ -2241,6 +2253,7 @@ export const G2_Generators = {
         { season: "summer", characteristics: "hot, sunny, school is off", clue: "Hottest season when school is off" },
         { season: "fall", characteristics: "leaves change, harvest", clue: "Season when leaves change color and it gets cooler" },
         { season: "winter", characteristics: "cold, snowy, Christmas", clue: "Coldest season with snow and ice" },
+        { season: "autumn", characteristics: "cool, colorful leaves", clue: "Season when trees lose their leaves" },
       ];
       const wrongSeasons = ["month", "day", "week", "year", "time", "hour"];
       for (let i = 0; i < 20; i++) {
@@ -2258,10 +2271,14 @@ export const G2_Generators = {
         { clue: "Hottest season when school is off", answer: "summer" },
         { clue: "Season when leaves change color and fall down", answer: "fall" },
         { clue: "Coldest season with snow and ice", answer: "winter" },
-        { clue: "Season for picking crops", answer: "harvest" },
+        { clue: "Season for picking crops", answer: "fall" },
         { clue: "Season for Christmas holidays", answer: "winter" },
         { clue: "Season when you go swimming", answer: "summer" },
         { clue: "Season when you wear shorts and t-shirts", answer: "summer" },
+        { clue: "Season when birds come back from south", answer: "spring" },
+        { clue: "Season when it snows a lot", answer: "winter" },
+        { clue: "Season to plant seeds and gardens", answer: "spring" },
+        { clue: "Season when trees are orange and red", answer: "fall" },
       ];
       for (let i = 0; i < 15; i++) {
         const clue = pick(seasonClues, rng);
@@ -2281,6 +2298,8 @@ export const G2_Generators = {
         { time: "noon", clue: "12 o'clock during the day" },
         { time: "sunrise", clue: "Time when the sun comes up" },
         { time: "sunset", clue: "Time when the sun goes down" },
+        { time: "dawn", clue: "Very early in the morning when it gets light" },
+        { time: "dusk", clue: "Time between sunset and night when it gets dark" },
       ];
       const wrongTimes = ["school", "play", "eat", "book", "park", "home"];
       for (let i = 0; i < 20; i++) {
@@ -2727,6 +2746,14 @@ export const G3_Generators = {
         { verb: "take", past: "took", future: "will take", present: "takes" },
         { verb: "swim", past: "swam", future: "will swim", present: "swims" },
         { verb: "sing", past: "sang", future: "will sing", present: "sings" },
+        { verb: "sleep", past: "slept", future: "will sleep", present: "sleeps" },
+        { verb: "walk", past: "walked", future: "will walk", present: "walks" },
+        { verb: "talk", past: "talked", future: "will talk", present: "talks" },
+        { verb: "read", past: "read", future: "will read", present: "reads" },
+        { verb: "ride", past: "rode", future: "will ride", present: "rides" },
+        { verb: "fly", past: "flew", future: "will fly", present: "flies" },
+        { verb: "drive", past: "drove", future: "will drive", present: "drives" },
+        { verb: "dance", past: "danced", future: "will dance", present: "dances" },
       ];
       const tenseLabels: Record<string, string> = { past: "PAST", future: "FUTURE", present: "PRESENT" };
       for (let i = 0; i < 30; i++) {
@@ -5530,6 +5557,10 @@ export const G5_Generators = {
         { title: "My Summer Vacation", type: "short story", format: "quotation marks" },
         { title: "The New York Times", type: "newspaper", format: "italics or underline" },
         { title: "Minecraft", type: "video game", format: "italics or underline" },
+        { title: "The Great Gatsby", type: "book", format: "italics or underline" },
+        { title: "Twinkle, Twinkle, Little Star", type: "song", format: "quotation marks" },
+        { title: "National Geographic", type: "magazine", format: "italics or underline" },
+        { title: "Fortnite", type: "video game", format: "italics or underline" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(titleData, rng);
@@ -5562,12 +5593,19 @@ export const G5_Generators = {
         { noun: "women", type: "irregular plural", possessive: "women's", example: "The women's team won." },
         { noun: "teachers", type: "regular plural", possessive: "teachers'", example: "The teachers' lounge is upstairs." },
         { noun: "baby", type: "singular", possessive: "baby's", example: "The baby's toy fell on the floor." },
+        { noun: "man", type: "singular", possessive: "man's", example: "The man's watch was expensive." },
+        { noun: "men", type: "irregular plural", possessive: "men's", example: "The men's team practiced today." },
+        { noun: "student", type: "singular", possessive: "student's", example: "The student's homework was excellent." },
+        { noun: "students", type: "regular plural", possessive: "students'", example: "The students' projects are due Friday." },
       ];
       const contractionData = [
         { contraction: "it's", expansion: "it is", confused: "its", sentence: "___ raining outside." },
         { contraction: "they're", expansion: "they are", confused: "their", sentence: "___ going to the park." },
         { contraction: "you're", expansion: "you are", confused: "your", sentence: "___ my best friend." },
         { contraction: "who's", expansion: "who is", confused: "whose", sentence: "___ coming to dinner?" },
+        { contraction: "we're", expansion: "we are", confused: "were", sentence: "___ leaving tomorrow morning." },
+        { contraction: "he's", expansion: "he is", confused: "his", sentence: "___ a wonderful student." },
+        { contraction: "I'm", expansion: "I am", confused: "im", sentence: "___ going to the movies." },
       ];
       for (let i = 0; i < 30; i++) {
         const variant = Math.floor(rng() * 3);
@@ -5612,6 +5650,9 @@ export const G5_Generators = {
         { rule: "double final consonant (CVC)", examples: ["run to running", "stop to stopping", "swim to swimming"] },
         { rule: "change y to i before suffix", examples: ["carry to carried", "baby to babies", "study to studied"] },
         { rule: "add -es after s, sh, ch, x, z", examples: ["box to boxes", "wish to wishes", "church to churches"] },
+        { rule: "keep silent e before consonant", examples: ["care to careful", "nice to nicely", "safe to safely"] },
+        { rule: "words ending in -able and -ible", examples: ["comfortable", "possible", "reasonable"] },
+        { rule: "one l in suffix -ful", examples: ["beautiful", "wonderful", "thankful"] },
       ];
       const misspelledPairs = [
         { wrong: "recieve", correct: "receive", rule: "i before e except after c" },
@@ -5624,6 +5665,11 @@ export const G5_Generators = {
         { wrong: "occured", correct: "occurred", rule: "double final consonant (CVC)" },
         { wrong: "definately", correct: "definitely", rule: "no a in definitely" },
         { wrong: "seperate", correct: "separate", rule: "separate has a in the middle" },
+        { wrong: "adress", correct: "address", rule: "double s in address" },
+        { wrong: "existance", correct: "existence", rule: "ence not ance" },
+        { wrong: "neccessary", correct: "necessary", rule: "one c and one s in necessary" },
+        { wrong: "ocasion", correct: "occasion", rule: "double c and one s in occasion" },
+        { wrong: "reccommend", correct: "recommend", rule: "double c but single m in recommend" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(5, rng)) {
@@ -5672,6 +5718,14 @@ export const G5_Generators = {
         { root: "vis", origin: "Latin", meaning: "see", examples: ["visible", "vision", "visual"] },
         { root: "dict", origin: "Latin", meaning: "say", examples: ["dictionary", "dictate", "predict"] },
         { root: "scrib", origin: "Latin", meaning: "write", examples: ["describe", "script", "manuscript"] },
+        { root: "phon", origin: "Greek", meaning: "sound", examples: ["telephone", "symphony", "microphone"] },
+        { root: "scope", origin: "Greek", meaning: "see/view", examples: ["telescope", "microscope", "horoscope"] },
+        { root: "ped", origin: "Latin", meaning: "foot", examples: ["pedestrian", "pedal", "centipede"] },
+        { root: "tract", origin: "Latin", meaning: "pull/draw", examples: ["tractor", "contract", "distract"] },
+        { root: "vers", origin: "Latin", meaning: "turn", examples: ["verse", "reverse", "universe"] },
+        { root: "mort", origin: "Latin", meaning: "death", examples: ["mortal", "immortal", "mortality"] },
+        { root: "rupt", origin: "Latin", meaning: "break", examples: ["rupture", "disrupt", "erupt"] },
+        { root: "struct", origin: "Latin", meaning: "build", examples: ["structure", "construct", "destroy"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(rootData, rng);
@@ -8692,6 +8746,12 @@ export const G7_Generators = {
         { sentence: "If she had called, I would have answered.", type: "third conditional (past unreal)", condition: "If she had called", result: "I would have answered" },
         { sentence: "If you heat ice, it melts.", type: "zero conditional (fact)", condition: "If you heat ice", result: "it melts" },
         { sentence: "Unless they hurry, they will miss the bus.", type: "first conditional (negative)", condition: "Unless they hurry", result: "they will miss the bus" },
+        { sentence: "If I had studied more, I would have passed.", type: "third conditional (past unreal)", condition: "If I had studied more", result: "I would have passed" },
+        { sentence: "If water freezes, it becomes ice.", type: "zero conditional (fact)", condition: "If water freezes", result: "it becomes ice" },
+        { sentence: "If he were taller, he could reach the shelf.", type: "second conditional (unreal)", condition: "If he were taller", result: "he could reach the shelf" },
+        { sentence: "Unless you finish today, you'll be behind tomorrow.", type: "first conditional (negative)", condition: "Unless you finish today", result: "you'll be behind tomorrow" },
+        { sentence: "If I won the lottery, I would travel.", type: "second conditional (unreal)", condition: "If I won the lottery", result: "I would travel" },
+        { sentence: "If you mix blue and yellow, you get green.", type: "zero conditional (fact)", condition: "If you mix blue and yellow", result: "you get green" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
@@ -8725,6 +8785,13 @@ export const G7_Generators = {
         { sentence: "While I understand your point, I disagree.", conjunction: "while" },
         { sentence: "Even though the weather was bad, we had fun.", conjunction: "even though" },
         { sentence: "Although the price was high, they bought it.", conjunction: "although" },
+        { sentence: "In spite of his fear, he volunteered.", conjunction: "in spite of" },
+        { sentence: "Though it was difficult, they persisted.", conjunction: "though" },
+        { sentence: "Even though he was scared, he went anyway.", conjunction: "even though" },
+        { sentence: "Despite the challenges, she succeeded.", conjunction: "despite" },
+        { sentence: "While it was expensive, we decided to buy it.", conjunction: "while" },
+        { sentence: "Although they disagreed, they remained friends.", conjunction: "although" },
+        { sentence: "In spite of being tired, she kept running.", conjunction: "in spite of" },
       ];
       const concessiveConj = ["although", "even though", "though", "despite", "while", "in spite of"];
       for (let i = 0; i < 30; i++) {
