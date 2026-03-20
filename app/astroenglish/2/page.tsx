@@ -639,10 +639,10 @@ export default function AstroEnglishK2Page() {
         {/* 3 Mission Cards */}
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 pb-8 justify-center">
           {activeIsland.missions.map((mission, cardIdx) => {
-            const done = isMissionDone(progress, activeIsland.id, mission.id);
+            const done = isMissionDoneK2(progress, activeIsland.id, mission.id);
             const mKey = `${activeIsland.id}_${mission.id}`;
             const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
-            const categoryColor = { explore: "#A78BFA", build: "#34D399", challenge: "#FB923C" }[mission.category] || "#999";
+            const categoryColor = { explore: "#A78BFA", build: "#34D399", challenge: "#FB923C" }[mission.category ?? "explore"] || "#999";
             return (
               <motion.button
                 key={mission.id}
@@ -657,7 +657,7 @@ export default function AstroEnglishK2Page() {
                 <div className="flex items-center justify-between">
                   <span className="text-xs font-black px-2.5 py-0.5 rounded-full"
                     style={{ background: `${categoryColor}25`, color: categoryColor }}>
-                    {mission.category.charAt(0).toUpperCase() + mission.category.slice(1)}
+                    {(mission.category ?? "explore").charAt(0).toUpperCase() + (mission.category ?? "explore").slice(1)}
                   </span>
                   {done && (
                     <div className="flex gap-0.5">

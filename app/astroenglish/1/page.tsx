@@ -28,9 +28,9 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import {
   K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadK1Progress, saveK1Progress, type EnglishProgress,
-  isMissionDone, isIslandDone, isIslandUnlocked,
+  isMissionDone, isIslandDone, isIslandUnlockedK1,
   isCheckpointUnlocked, isCheckpointDone,
-  completeMission, completeTest, islandTotalStars,
+  completeMissionK1, completeTestK1, islandTotalStarsK1,
   generateEnglishIslandQuestions, generateEnglishCheckpointQuestions,
 } from "@/lib/astroEnglish";
 import { K1_ISLAND_SVGS } from "@/app/astroenglish/islands";
@@ -167,7 +167,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {Object.entries(CP_POS).map(([testId, pos]) => {
-        const unlocked = isCheckpointUnlocked(progress, testId, K1_CHECKPOINT_MAP);
+        const unlocked = isCheckpointUnlocked(progress, K1_CHECKPOINT_MAP, testId);
         const done = isCheckpointDone(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
@@ -191,9 +191,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
 
       {K1_ISLANDS.map((island, idx) => {
-        const unlocked = isIslandUnlocked(progress, island.id, K1_ISLANDS);
+        const unlocked = isIslandUnlockedK1(progress, island.id);
         const done = isIslandDone(progress, island.id);
-        const total = islandTotalStars(progress, island.id);
+        const total = islandTotalStarsK1(progress, island.id);
 
         return (
           <g key={island.id} onClick={() => unlocked && onIsland(island)}
@@ -449,7 +449,7 @@ export default function AstroEnglishK1Page() {
     const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
 
     const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
-    const newProgress = completeMission(progress, activeIsland.id, activeMission.id, stars);
+    const newProgress = completeMissionK1(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
     saveK1Progress(newProgress);
@@ -501,7 +501,7 @@ export default function AstroEnglishK1Page() {
     if (!activeTestId) return;
     setCheckpointScore({ score, total });
 
-    const newProgress = completeTest(progress, activeTestId);
+    const newProgress = completeTestK1(progress, activeTestId);
     saveK1Progress(newProgress);
     setProgress(newProgress);
 
@@ -613,7 +613,7 @@ export default function AstroEnglishK1Page() {
 
   // ─── MISSION SELECT ──────────────────────────────────────────────────────────
   if (screen === "mission-select" && activeIsland) {
-    const totalStars = islandTotalStars(progress, activeIsland.id);
+    const totalStars = islandTotalStarsK1(progress, activeIsland.id);
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden"
         style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
@@ -641,7 +641,7 @@ export default function AstroEnglishK1Page() {
             const done = isMissionDone(progress, activeIsland.id, mission.id);
             const mKey = `${activeIsland.id}_${mission.id}`;
             const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
-            const categoryColor = { explore: "#A78BFA", build: "#34D399", challenge: "#FB923C" }[mission.category] || "#999";
+            const categoryColor = { explore: "#A78BFA", build: "#34D399", challenge: "#FB923C" }[mission.category ?? "explore"] || "#999";
             return (
               <motion.button
                 key={mission.id}
@@ -656,7 +656,7 @@ export default function AstroEnglishK1Page() {
                 <div className="flex items-center justify-between">
                   <span className="text-xs font-black px-2.5 py-0.5 rounded-full"
                     style={{ background: `${categoryColor}25`, color: categoryColor }}>
-                    {mission.category.charAt(0).toUpperCase() + mission.category.slice(1)}
+                    {(mission.category ?? "explore").charAt(0).toUpperCase() + (mission.category ?? "explore").slice(1)}
                   </span>
                   {done && (
                     <div className="flex gap-0.5">

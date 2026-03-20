@@ -692,7 +692,7 @@ export default function AstroEnglishK8Page() {
         {/* 3 Category Cards */}
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 pb-8 justify-center">
           {(["explore", "build", "challenge"] as MissionCategory[]).map((cat, cardIdx) => {
-            const mission = activeIsland.missions.find(m => m.category === cat);
+            const mission = activeIsland.missions.find((m: MissionDef) => m.category === cat);
             if (!mission) return null;
             const cfg = CATEGORY_CONFIG[cat];
             const done = isMissionDoneK8(progress, activeIsland.id, mission.id);
