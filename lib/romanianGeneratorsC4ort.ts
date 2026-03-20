@@ -2,7 +2,7 @@
 // Procedural MCQ question generators for Romanian language curriculum
 // Clasa a IV-a (4th grade) – ortografie theme only (5 subtopics)
 
-import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
+import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
 function mulberry32(seed: number) {
   return function () {
