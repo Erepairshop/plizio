@@ -6,30 +6,10 @@ import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
 import { C3_Generators } from "./romanianGeneratorsC3";
-import { C4_Morfo_Generators } from "./romanianGeneratorsC4morfo";
-import { C4_Sint_Generators } from "./romanianGeneratorsC4sint";
-import { C4_Ort_Generators } from "./romanianGeneratorsC4ort";
-import { C4_Voc_Generators } from "./romanianGeneratorsC4voc";
-import { C4_Text_Generators } from "./romanianGeneratorsC4text";
-import { C4_Lec_Generators } from "./romanianGeneratorsC4lec";
-import { C5_Subst_Generators } from "./romanianGeneratorsC5subst";
-import { C5_Verb_Generators } from "./romanianGeneratorsC5verb";
-import { C5_Sint_Generators } from "./romanianGeneratorsC5sint";
-import { C5_Voc_Generators } from "./romanianGeneratorsC5voc";
-import { C5_Ort_Generators } from "./romanianGeneratorsC5ort";
-import { C5_Text_Generators } from "./romanianGeneratorsC5text";
-import { C5_Lec_Generators } from "./romanianGeneratorsC5lec";
 import { C6P1_Generators } from "./romanianGeneratorsC6p1";
 import { C6P2_Generators } from "./romanianGeneratorsC6p2";
 import { C6P3_Generators } from "./romanianGeneratorsC6p3";
 import { C6P4_Generators } from "./romanianGeneratorsC6p4";
-import { C7P1_Generators } from "./romanianGeneratorsC7p1";
-import { C7P2_Generators } from "./romanianGeneratorsC7p2";
-import { C7P3_Generators } from "./romanianGeneratorsC7p3";
-import { C7P4_Generators } from "./romanianGeneratorsC7p4";
-import { C8P1_Generators } from "./romanianGeneratorsC8p1";
-import { C8P2_Generators } from "./romanianGeneratorsC8p2";
-import { C8P3_Generators } from "./romanianGeneratorsC8p3";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
 
@@ -314,17 +294,6 @@ const C2: RomanianTheme[] = [
       { id: "adjectiv_c2", name: "Adjectivul", questions: [
         { type: "mcq", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Care cuvânt este un adjectiv?", options: ["frumos", "casă", "merge", "el"], correct: 0 },
       ]},
-      { id: "pronume_pers_c2", name: "Pronumele personal", questions: [] },
-      { id: "conjunctii_c2", name: "Conjuncțiile", questions: [
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care cuvânt este o CONJUNCȚIE (leagă propoziții)?", options: ["și", "casă", "aleargă", "frumos"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Vreau să merg la școală ___ plouă.'", options: ["dar", "sau", "și", "că"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care conjuncție arată o OPOZIȚIE (contrast)?", options: ["dar", "și", "sau", "că"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Vrei ceai ___ suc?'", options: ["sau", "și", "dar", "că"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care conjuncție arată o CAUZĂ (motivul)?", options: ["pentru că", "și", "dar", "sau"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Ana cântă ___ Mihai dansează.'", options: ["și", "dar", "sau", "că"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Ce este 'și' în propoziție?", options: ["conjuncție", "substantiv", "verb", "adjectiv"], correct: 0 },
-        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Câte cuvinte leagă o conjuncție?", options: ["Cel puțin două", "Exact unul", "Trei sau mai multe", "Niciun cuvânt"], correct: 0 },
-      ]},
     ],
   },
   {
@@ -399,23 +368,6 @@ const C2: RomanianTheme[] = [
     ],
   },
   {
-    id: "vocabular_tematic_c2",
-    name: "Vocabular Tematic",
-    icon: "🌍",
-    color: "#10B981",
-    subtopics: [
-      { id: "sinonime_c2", name: "Sinonime", questions: [] },
-      { id: "antonime_c2", name: "Antonime", questions: [] },
-      { id: "familia_cuvintelor_c2", name: "Familia cuvintelor", questions: [] },
-      { id: "animale_c2", name: "Animale — caracteristici", questions: [] },
-      { id: "corpul_uman_c2", name: "Corpul uman", questions: [] },
-      { id: "familia_c2", name: "Familia", questions: [] },
-      { id: "alimente_c2", name: "Alimente și nutriție", questions: [] },
-      { id: "anotimpuri_c2", name: "Anotimpurile", questions: [] },
-      { id: "meserii_c2", name: "Meserii", questions: [] },
-    ],
-  },
-  {
     id: "comunicare_c2",
     name: "Comunicare",
     icon: "🗣️",
@@ -483,8 +435,6 @@ const C3: RomanianTheme[] = [
       { id: "persoana_nr_c3", name: "Persoana și numărul verbului", questions: [
         { type: "mcq", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "'noi mergem' — La ce persoană și număr este verbul?", options: ["I plural", "I singular", "a III-a plural", "a II-a plural"], correct: 0 },
       ]},
-      { id: "verbe_reflexive_c3", name: "Verbe reflexive (a se spăla, a se îmbrăca)", questions: [] },
-      { id: "modul_imperativ_c3", name: "Modul imperativ", questions: [] },
     ],
   },
   {
@@ -499,7 +449,6 @@ const C3: RomanianTheme[] = [
       { id: "adj_propozitie_c3", name: "Adjectivul în propoziție", questions: [
         { type: "mcq", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Care este adjectivul din: 'Câinele cel negru a latrat.'?", options: ["negru", "câinele", "latrat", "cel"], correct: 0 },
       ]},
-      { id: "grade_adj_c3", name: "Gradele de comparație", questions: [] },
     ],
   },
   {
@@ -528,8 +477,6 @@ const C3: RomanianTheme[] = [
       { id: "cratima_c3", name: "Cratima — n-am, nu-i, m-am, l-am", questions: [
         { type: "mcq", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Completează corect: 'Eu ___ văzut filmul.'", options: ["n-am", "nam", "n am", "n'am"], correct: 0 },
       ]},
-      { id: "despartire_silabe_c3", name: "Despărțirea în silabe", questions: [] },
-      { id: "virgula_c3", name: "Virgula în propoziție", questions: [] },
     ],
   },
   {
@@ -541,9 +488,6 @@ const C3: RomanianTheme[] = [
       { id: "propozitie_dezv_c3", name: "Propoziția simplă și dezvoltată", questions: [
         { type: "mcq", topic: "propozitia_c3", subtopic: "propozitie_dezv_c3", question: "Ce este o propoziție simplă?", options: ["Are doar subiect și predicat", "Are mai mult de 5 cuvinte", "Are atribute și complemente", "Are dialog"], correct: 0 },
       ]},
-      { id: "subiect_predicat_c3", name: "Subiectul și predicatul", questions: [] },
-      { id: "atributul_c3", name: "Atributul", questions: [] },
-      { id: "vorbire_directa_c3", name: "Vorbirea directă", questions: [] },
       { id: "figuri_stil_c3", name: "Figuri de stil (comparație, personificare)", questions: [
         { type: "mcq", topic: "propozitia_c3", subtopic: "figuri_stil_c3", question: "Ce figură de stil conține: 'Fata era frumoasă ca o floare.'?", options: ["comparație", "personificare", "enumerație", "repetiție"], correct: 0 },
       ]},
@@ -561,202 +505,6 @@ const C3: RomanianTheme[] = [
       { id: "idee_principala_c3", name: "Ideea principală și rezumatul", questions: [
         { type: "mcq", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este ideea principală a unui text?", options: ["Mesajul cel mai important", "Titlul textului", "Prima propoziție", "Ultimul paragraf"], correct: 0 },
       ]},
-    ],
-  },
-  {
-    id: "vocabular_tematic_c3",
-    name: "Vocabular Tematic",
-    icon: "🌍",
-    color: "#10B981",
-    subtopics: [
-      { id: "natura_c3", name: "Natura și mediul", questions: [] },
-      { id: "activitati_c3", name: "Activități și sport", questions: [] },
-      { id: "locuinta_c3", name: "Locuința și mobilierul", questions: [] },
-      { id: "imbracaminte_c3", name: "Îmbrăcăminte și accesorii", questions: [] },
-      { id: "textul_descriptiv_c3", name: "Textul descriptiv", questions: [] },
-    ],
-  },
-];
-
-// ─── CLASA a IV-a (Grade 4) ──────────────────────────────────────────────────
-
-const C4: RomanianTheme[] = [
-  {
-    id: "morfologie_c4",
-    name: "Morfologie",
-    icon: "📚",
-    color: "#FF2D78",
-    subtopics: [
-      { id: "substantiv_c4", name: "Substantivul (gen, număr, caz, articol)", questions: [], hasGenerator: true },
-      { id: "adjectiv_c4", name: "Adjectivul (acord, grade de comparație)", questions: [], hasGenerator: true },
-      { id: "pronume_personal_c4", name: "Pronumele personal", questions: [], hasGenerator: true },
-      { id: "pronume_posesiv_c4", name: "Pronumele posesiv", questions: [], hasGenerator: true },
-      { id: "verb_timpuri_c4", name: "Verbul — timpurile modului indicativ", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "sintaxa_c4",
-    name: "Sintaxă",
-    icon: "🔗",
-    color: "#00D4FF",
-    subtopics: [
-      { id: "alte_parti_c4", name: "Adverbul, prepoziția, conjuncția, numeralul", questions: [], hasGenerator: true },
-      { id: "subiect_predicat_c4", name: "Subiectul și predicatul", questions: [], hasGenerator: true },
-      { id: "atribut_c4", name: "Atributul", questions: [], hasGenerator: true },
-      { id: "complement_c4", name: "Complementele (direct, indirect, circumstanțial)", questions: [], hasGenerator: true },
-      { id: "fraza_propozitii_c4", name: "Fraza — propoziții principale și subordonate", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "ortografie_c4",
-    name: "Ortografie",
-    icon: "✍️",
-    color: "#00FF88",
-    subtopics: [
-      { id: "majuscule_c4", name: "Majuscule — substantive proprii, titluri", questions: [], hasGenerator: true },
-      { id: "cratima_avansata_c4", name: "Cratima avansată (s-a, l-a, ne-a)", questions: [], hasGenerator: true },
-      { id: "punctuatie_c4", name: "Semnele de punctuație (virgulă, punct și virgulă, ghilimele)", questions: [], hasGenerator: true },
-      { id: "despartire_avansata_c4", name: "Despărțirea avansată în silabe", questions: [], hasGenerator: true },
-      { id: "scrierea_corecta_c4", name: "Scrierea corectă — forme frecvente", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "vocabular_c4",
-    name: "Vocabular",
-    icon: "💬",
-    color: "#B44DFF",
-    subtopics: [
-      { id: "sinonime_antonime_c4", name: "Sinonime și antonime avansate", questions: [], hasGenerator: true },
-      { id: "campuri_semantice_c4", name: "Câmpuri semantice", questions: [], hasGenerator: true },
-      { id: "expresii_frazeologice_c4", name: "Expresii și locuțiuni frazeologice", questions: [], hasGenerator: true },
-      { id: "derivare_compunere_c4", name: "Derivare și compunere", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "text_c4",
-    name: "Producere de text",
-    icon: "📝",
-    color: "#FFD700",
-    subtopics: [
-      { id: "rezumat_c4", name: "Rezumatul", questions: [], hasGenerator: true },
-      { id: "text_narativ_c4", name: "Textul narativ literar", questions: [], hasGenerator: true },
-      { id: "text_argumentativ_c4", name: "Textul argumentativ", questions: [], hasGenerator: true },
-      { id: "scrisoarea_c4", name: "Scrisoarea", questions: [], hasGenerator: true },
-      { id: "textul_informativ_c4", name: "Textul informativ", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "lectura_c4",
-    name: "Lectură",
-    icon: "📖",
-    color: "#FF6B00",
-    subtopics: [
-      { id: "intelegere_text_c4", name: "Înțelegerea textului citit", questions: [], hasGenerator: true },
-      { id: "personaje_c4", name: "Personajele literare", questions: [], hasGenerator: true },
-      { id: "tema_mesaj_c4", name: "Tema și mesajul textului", questions: [], hasGenerator: true },
-      { id: "figuri_stil_c4", name: "Figuri de stil (comparație, metaforă, personificare)", questions: [], hasGenerator: true },
-    ],
-  },
-];
-
-// ─── CLASA a V-a (Grade 5) ──────────────────────────────────────────────────
-
-const C5: RomanianTheme[] = [
-  {
-    id: "substantiv_c5",
-    name: "Substantivul",
-    icon: "📚",
-    color: "#FF2D78",
-    subtopics: [
-      { id: "declinarea_c5", name: "Declinarea substantivelor (cu articol hotărât)", questions: [], hasGenerator: true },
-      { id: "substantive_colective_c5", name: "Substantive colective", questions: [], hasGenerator: true },
-      { id: "genul_substantivelor_c5", name: "Genul substantivelor (epicene, ambigene)", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "pronume_c5",
-    name: "Pronumele",
-    icon: "🔤",
-    color: "#00D4FF",
-    subtopics: [
-      { id: "pronume_interogativ_c5", name: "Pronumele interogativ", questions: [], hasGenerator: true },
-      { id: "pronume_nehotarat_c5", name: "Pronumele nehotărât", questions: [], hasGenerator: true },
-      { id: "pronume_relativ_c5", name: "Pronumele relativ", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "verb_c5",
-    name: "Verbul",
-    icon: "⚡",
-    color: "#00FF88",
-    subtopics: [
-      { id: "moduri_nepersonale_c5", name: "Moduri nepersonale (infinitiv, gerunziu, participiu, supin)", questions: [], hasGenerator: true },
-      { id: "perfectul_simplu_c5", name: "Perfectul simplu", questions: [], hasGenerator: true },
-      { id: "mai_mult_ca_perfect_c5", name: "Mai-mult-ca-perfectul", questions: [], hasGenerator: true },
-      { id: "acordul_predicat_c5", name: "Acordul predicatului cu subiectul", questions: [], hasGenerator: true },
-      { id: "complement_circumstantial_c5", name: "Complementul circumstanțial (loc, timp, mod, cauză, scop)", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "sintaxa_c5",
-    name: "Sintaxă",
-    icon: "🔗",
-    color: "#B44DFF",
-    subtopics: [
-      { id: "apostrof_atribut_c5", name: "Atributul (substantival, pronominal, apoziție)", questions: [], hasGenerator: true },
-      { id: "prop_subiectiva_c5", name: "Propoziția subordonată subiectivă", questions: [], hasGenerator: true },
-      { id: "coordonare_c5", name: "Coordonarea (copulativă, adversativă, disjunctivă, conclusivă)", questions: [], hasGenerator: true },
-      { id: "prop_circumstantiala_c5", name: "Propoziția circumstanțială (timp, loc, mod)", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "vocabular_c5",
-    name: "Vocabular",
-    icon: "💬",
-    color: "#FFD700",
-    subtopics: [
-      { id: "polisemia_c5", name: "Polisemia (cuvânt — mai multe sensuri)", questions: [], hasGenerator: true },
-      { id: "omonimia_c5", name: "Omonimia", questions: [], hasGenerator: true },
-      { id: "paronimia_c5", name: "Paronimia", questions: [], hasGenerator: true },
-      { id: "locutiuni_c5", name: "Locuțiuni (verbale, adverbiale, substantivale)", questions: [], hasGenerator: true },
-      { id: "argou_regional_c5", name: "Argou, regionalisme, neologisme", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "ortografie_c5",
-    name: "Ortografie",
-    icon: "✍️",
-    color: "#FF6B00",
-    subtopics: [
-      { id: "a_i_c5", name: "Scrierea lui â și î", questions: [], hasGenerator: true },
-      { id: "semne_diacritice_c5", name: "Semnele diacritice (ă, â, î, ș, ț)", questions: [], hasGenerator: true },
-      { id: "scrierea_compuselor_c5", name: "Scrierea cuvintelor compuse", questions: [], hasGenerator: true },
-      { id: "cratima_forme_c5", name: "Cratima între forme verbale (s-a, l-a, ne-a)", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "text_c5",
-    name: "Producere de text",
-    icon: "📝",
-    color: "#10B981",
-    subtopics: [
-      { id: "genuri_literare_c5", name: "Genurile literare (epic, liric, dramatic)", questions: [], hasGenerator: true },
-      { id: "specii_literare_c5", name: "Speciile literare (basm, nuvelă, fabulă, odă, comedie)", questions: [], hasGenerator: true },
-      { id: "moduri_expunere_c5", name: "Modurile de expunere (narațiune, descriere, dialog)", questions: [], hasGenerator: true },
-      { id: "personaje_caracterizare_c5", name: "Caracterizarea personajelor (directă și indirectă)", questions: [], hasGenerator: true },
-      { id: "texte_nonliterare_c5", name: "Textele nonliterare (articol, știre, reclamă, instrucțiuni)", questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "lectura_c5",
-    name: "Lectură",
-    icon: "📖",
-    color: "#E879F9",
-    subtopics: [
-      { id: "intentie_autor_c5", name: "Intenția autorului și perspectiva narativă", questions: [], hasGenerator: true },
-      { id: "argumente_c5", name: "Argumentul și contraargumentul", questions: [], hasGenerator: true },
-      { id: "inferente_c5", name: "Inferențe — informații implicite", questions: [], hasGenerator: true },
-      { id: "timp_spatiu_c5", name: "Coordonatele spațiale și temporale ale textului", questions: [], hasGenerator: true },
     ],
   },
 ];
@@ -806,7 +554,7 @@ const C6: RomanianTheme[] = [
         { type: "mcq", topic: "pronume_c6", subtopic: "nehotarate_c6", question: "Pronumele nehotărat 'fiecare' exprimă:", options: ["universalitate", "particularitate", "negație", "posibilitate"], correct: 0 },
       ]},
       { id: "relative_c6", name: "Pronume relative (care, cine)", questions: [
-        { type: "mcq", topic: "pronume_c6", subtopic: "relative_c6", question: "Pronumele relativ 'care' introduce:", options: ["propoziție subordonată atributivă", "propoziție principală", "propoziție completivă", "conjuncție"], correct: 0 },
+        { type: "mcq", topic: "pronume_c6", subtopic: "relative_c6", question: "Pronumele relativ 'care' introduce:", options: ["propoziție subordonnată atributivă", "propoziție principală", "propoziție completivă", "conjuncție"], correct: 0 },
       ]},
     ],
   },
@@ -820,7 +568,7 @@ const C6: RomanianTheme[] = [
         { type: "mcq", topic: "verb_c6", subtopic: "moduri_nepersonale_c6", question: "Gerunziul verbului 'a merge' este:", options: ["mergând", "mers", "merge", "a merge"], correct: 0 },
       ]},
       { id: "timpuri_literare_c6", name: "Timpuri literare (trecut simplu, perfect)", questions: [
-        { type: "mcq", topic: "verb_c6", subtopic: "timpuri_literare_c6", question: "Perfectul simplu exprimă o acțiune:", options: ["terminată și lăsată urme", "în derulare", "simultană cu alta", "viitoare"], correct: 0 },
+        { type: "mcq", topic: "verb_c6", subtopic: "timpuri_literare_c6", question: "Perfectul simplu exprimă o acțiune:", options: ["terminată și lăsat urme", "în derulare", "simultaneă cu alta", "viitoare"], correct: 0 },
       ]},
       { id: "diateze_c6", name: "Diateze (activă, pasivă)", questions: [
         { type: "mcq", topic: "verb_c6", subtopic: "diateze_c6", question: "Propoziția 'Copilul citește cartea' este în diateză:", options: ["activă", "pasivă", "reflexivă", "medie"], correct: 0 },
@@ -829,7 +577,7 @@ const C6: RomanianTheme[] = [
         { type: "mcq", topic: "verb_c6", subtopic: "neregulata_c6", question: "Forma de persoana 'el' la verbul 'a fi' este:", options: ["este", "ești", "sunt", "sunteți"], correct: 0 },
       ]},
       { id: "acord_c6", name: "Acordul subiect-verb", questions: [
-        { type: "mcq", topic: "verb_c6", subtopic: "acord_c6", question: "În 'Copiii și fetele joacă', verbul este la:", options: ["plural", "singular", "infinitiv", "imperativ"], correct: 0 },
+        { type: "mcq", topic: "verb_c6", subtopic: "acord_c6", question: "În 'Copiii și fetele joacă', verbul este:", options: ["joacă (plural)", "joacă (singular)", "joaca", "joacuri"], correct: 0 },
       ]},
     ],
   },
@@ -843,12 +591,12 @@ const C6: RomanianTheme[] = [
         { type: "mcq", topic: "adverb_prepozitie_c6", subtopic: "adverb_tipuri_c6", question: "Adverbul 'azi' este de:", options: ["timp", "mod", "loc", "cantitate"], correct: 0 },
       ]},
       { id: "prepozitie_cazuri_c6", name: "Prepoziții și cazurile cerute", questions: [
-        { type: "mcq", topic: "adverb_prepozitie_c6", subtopic: "prepozitie_cazuri_c6", question: "Prepoziția 'din' cere ce caz?", options: ["Acuzativ", "Dativ", "Genitiv", "Nominativ"], correct: 0 },
+        { type: "mcq", topic: "adverb_prepozitie_c6", subtopic: "prepozitie_cazuri_c6", question: "Prepoziția 'din' cer ce caz?", options: ["Genitiv", "Dativ", "Acuzativ", "Nominativ"], correct: 0 },
       ]},
       { id: "conjunctie_c6", name: "Conjuncții coordonatoare și subordonatoare", questions: [
         { type: "mcq", topic: "adverb_prepozitie_c6", subtopic: "conjunctie_c6", question: "Conjuncția 'și' este:", options: ["coordonatoare (aditivă)", "subordonatoare", "prepoziție", "pronume"], correct: 0 },
       ]},
-      { id: "interjectie_c6", name: "Interjecții (vai!, ah!, hai!)", questions: [
+      { id: "interjectie_c6", name: "Interjecții (aia!, ah!, hai!)", questions: [
         { type: "mcq", topic: "adverb_prepozitie_c6", subtopic: "interjectie_c6", question: "Interjecția 'vai!' exprimă:", options: ["durere", "bucurie", "ură", "indiferență"], correct: 0 },
       ]},
     ],
@@ -889,13 +637,13 @@ const C6: RomanianTheme[] = [
     color: "#B44DFF",
     subtopics: [
       { id: "subord_completive_c6", name: "Subordonate completive (că, dacă, cine)", questions: [
-        { type: "mcq", topic: "fraza_c6", subtopic: "subord_completive_c6", question: "În 'Spun că voi veni', propoziția subordonată este:", options: ["că voi veni", "spun", "voi veni", "veni"], correct: 0 },
+        { type: "mcq", topic: "fraza_c6", subtopic: "subord_completive_c6", question: "În 'Spun că voi veni', propoziția subordonnată este:", options: ["că voi veni", "spun", "voi veni", "veni"], correct: 0 },
       ]},
       { id: "subord_circumstantiale_c6", name: "Subordonate circumstanțiale (cauzale, temporale, etc.)", questions: [
-        { type: "mcq", topic: "fraza_c6", subtopic: "subord_circumstantiale_c6", question: "În 'Dacă plouă, nu merg', propoziția subordonată este:", options: ["Dacă plouă", "nu merg", "plouă", "merg"], correct: 0 },
+        { type: "mcq", topic: "fraza_c6", subtopic: "subord_circumstantiale_c6", question: "În 'Dacă plouă, nu merg', propoziția subordonnată este:", options: ["Dacă plouă", "nu merg", "plouă", "merg"], correct: 0 },
       ]},
       { id: "subord_atributive_c6", name: "Subordonate atributive (care)", questions: [
-        { type: "mcq", topic: "fraza_c6", subtopic: "subord_atributive_c6", question: "În 'Fetița care citește este silențioasă', subordonata atributivă este:", options: ["care citește", "citește", "fetița", "silențioasă"], correct: 0 },
+        { type: "mcq", topic: "fraza_c6", subtopic: "subord_atributive_c6", question: "În 'Fetița care citește este silențioasă', subordonnata atributivă este:", options: ["care citește", "citește", "fetița", "silențioasă"], correct: 0 },
       ]},
     ],
   },
@@ -928,8 +676,8 @@ const C6: RomanianTheme[] = [
     icon: "📕",
     color: "#FF8C00",
     subtopics: [
-      { id: "genuri_c6", name: "Genuri și specii literare (nuvelă, roman, poezie, dramă)", questions: [
-        { type: "mcq", topic: "text_lectura_c6", subtopic: "genuri_c6", question: "Nuvela se caracterizează prin:", options: ["scurtă, o singură problemă", "lungă, mai multe probleme", "versuri și rime", "dialoguri și scenă"], correct: 0 },
+      { id: "genuri_c6", name: "Genuri și specii literare (nuvela, roman, pozie, dramă)", questions: [
+        { type: "mcq", topic: "text_lectura_c6", subtopic: "genuri_c6", question: "Nuvela se caracterizează prin:", options: ["scurtă, o singură problemă", "lungă, mai multe probleme", "versuri și rime", "dialogue și scenă"], correct: 0 },
       ]},
       { id: "moduri_expunere_c6", name: "Moduri de expunere (narațiune, descriere, dialog)", questions: [
         { type: "mcq", topic: "text_lectura_c6", subtopic: "moduri_expunere_c6", question: "Narațiunea prezintă:", options: ["o serie de întâmplări într-o ordine", "caracteristici ale obiectelor", "o conversație", "versuri și rime"], correct: 0 },
@@ -937,109 +685,9 @@ const C6: RomanianTheme[] = [
       { id: "personaje_c6", name: "Analiză și caracterizare personaje", questions: [
         { type: "mcq", topic: "text_lectura_c6", subtopic: "personaje_c6", question: "Un personaj protagonist este:", options: ["central și dezvoltat în text", "minor și secundar", "negativ și ostil", "neutru și silențios"], correct: 0 },
       ]},
-      { id: "texte_nonliterare_c6", name: "Texte nonliterare (articol, publicitate, instrucțiuni)", questions: [
+      { id: "texte_nonliterare_c6", name: "Texte nonliterare (articol, publicitate, instructaj)", questions: [
         { type: "mcq", topic: "text_lectura_c6", subtopic: "texte_nonliterare_c6", question: "Un articol de ziar se caracterizează prin:", options: ["informație actuală și structură clară", "versuri regulate", "personaje imaginare", "limbaj fantastic"], correct: 0 },
       ]},
-    ],
-  },
-];
-
-// ─── CLASA a VII-a ────────────────────────────────────────────────────────────
-
-const C7: RomanianTheme[] = [
-  {
-    id: "adjectiv_c7", name: "Adjectivul", icon: "🔤", color: "#8B5CF6",
-    subtopics: [
-      { id: "adjectiv_clasificare", name: "Clasificarea adjectivelor", questions: [{ type: "mcq", topic: "adjectiv_c7", subtopic: "adjectiv_clasificare", question: "Ce tip de adjectiv este „frumos”?", options: ["propriu-zis", "provenit din participiu", "determinativ", "pronominal"], correct: 0 }] },
-      { id: "adjectiv_grade", name: "Gradele de comparație", questions: [{ type: "mcq", topic: "adjectiv_c7", subtopic: "adjectiv_grade", question: "Care este gradul superlativ absolut al adjectivului „bun”?", options: ["foarte bun", "mai bun", "cel mai bun", "bun"], correct: 0 }] },
-      { id: "adjectiv_functii", name: "Funcții sintactice ale adjectivului", questions: [{ type: "mcq", topic: "adjectiv_c7", subtopic: "adjectiv_functii", question: "Ce funcție sintactică are adjectivul în „Fata frumoasă cântă.”?", options: ["atribut adjectival", "nume predicativ", "complement direct", "subiect"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "numeral_c7", name: "Numeralul", icon: "🔢", color: "#EC4899",
-    subtopics: [
-      { id: "numeral_cardinal", name: "Numeralul cardinal (propriu-zis, colectiv, fracționar)", questions: [{ type: "mcq", topic: "numeral_c7", subtopic: "numeral_cardinal", question: "Ce tip de numeral este „amândoi”?", options: ["colectiv", "cardinal propriu-zis", "ordinal", "fracționar"], correct: 0 }] },
-      { id: "numeral_ordinal", name: "Numeralul ordinal, multiplicativ, distributiv", questions: [{ type: "mcq", topic: "numeral_c7", subtopic: "numeral_ordinal", question: "Care este numeralul ordinal al lui „trei”?", options: ["al treilea", "întreit", "câte trei", "trei"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "verb_c7", name: "Verbul – moduri și diateze", icon: "⚡", color: "#10B981",
-    subtopics: [
-      { id: "verb_indicativ", name: "Modul indicativ – toate timpurile", questions: [{ type: "mcq", topic: "verb_c7", subtopic: "verb_indicativ", question: "Care este timpul imperfect al verbului „a cânta” la pers. I sg.?", options: ["cântam", "cânt", "am cântat", "voi cânta"], correct: 0 }] },
-      { id: "verb_conjunctiv", name: "Modul conjunctiv", questions: [{ type: "mcq", topic: "verb_c7", subtopic: "verb_conjunctiv", question: "Care este forma corectă de conjunctiv prezent a verbului „a merge”?", options: ["să meargă", "să merge", "să fi mers", "mergeând"], correct: 0 }] },
-      { id: "verb_conditional_imperativ", name: "Condițional-optativ și imperativ", questions: [{ type: "mcq", topic: "verb_c7", subtopic: "verb_conditional_imperativ", question: "Care este forma corectă de condițional prezent a verbului „a face”?", options: ["aș face", "fac", "am făcut", "să facă"], correct: 0 }] },
-      { id: "verb_moduri_nepers_c7", name: "Moduri nepersonale în context", questions: [{ type: "mcq", topic: "verb_c7", subtopic: "verb_moduri_nepers_c7", question: "Ce mod nepersonal este „scriind” în „Scriind tema, a ascultat muzică.”?", options: ["gerunziu", "infinitiv", "participiu", "supin"], correct: 0 }] },
-      { id: "verb_diateze_c7", name: "Diatezele verbului", questions: [{ type: "mcq", topic: "verb_c7", subtopic: "verb_diateze_c7", question: "La ce diateza este verbul în „Tema a fost scrisă de elev.”?", options: ["pasivă", "activă", "reflexivă", "reciprocă"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "subordonate_c7", name: "Propoziții subordonate", icon: "🔗", color: "#F59E0B",
-    subtopics: [
-      { id: "subord_subiectiva", name: "Propoziția subordonată subiectivă", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_subiectiva", question: "Ce element introduce de obicei o subordonată subiectivă?", options: ["că, să, cine", "deși, chiar dacă", "fiindcă, deoarece", "unde, când"], correct: 0 }] },
-      { id: "subord_completiva_directa", name: "Propoziția subordonată completivă directă", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_completiva_directa", question: "Subordonata completivă directă răspunde la întrebarea:", options: ["pe cine? ce?", "cui? despre ce?", "de unde? încotro?", "când? de când?"], correct: 0 }] },
-      { id: "subord_completiva_indirecta", name: "Propoziția subordonată completivă indirectă", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_completiva_indirecta", question: "Subordonata completivă indirectă răspunde la întrebarea:", options: ["cui? despre cine?", "pe cine? ce?", "unde? când?", "de ce? în ce scop?"], correct: 0 }] },
-      { id: "subord_loc", name: "Subordonata circumstanțială de loc", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_loc", question: "Subordonata circumstanțială de loc răspunde la întrebarea:", options: ["unde? de unde? încotro?", "când? de când?", "cum? în ce fel?", "de ce? din ce cauză?"], correct: 0 }] },
-      { id: "subord_timp", name: "Subordonata circumstanțială de timp", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_timp", question: "Subordonata circumstanțială de timp răspunde la întrebarea:", options: ["când? de când? până când?", "unde? de unde?", "cum? în ce mod?", "de ce? pentru ce?"], correct: 0 }] },
-      { id: "subord_mod", name: "Subordonata circumstanțială de mod", questions: [{ type: "mcq", topic: "subordonate_c7", subtopic: "subord_mod", question: "Subordonata circumstanțială de mod răspunde la întrebarea:", options: ["cum? în ce fel? în ce mod?", "când? de când?", "unde? încotro?", "de ce? din ce cauză?"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "vocabular_c7", name: "Vocabular", icon: "📚", color: "#06B6D4",
-    subtopics: [
-      { id: "vocabular_familie_lexicala", name: "Familia lexicală", questions: [{ type: "mcq", topic: "vocabular_c7", subtopic: "vocabular_familie_lexicala", question: "Care cuvânt face parte din familia lexicală a cuvântului „carte”?", options: ["cărturar", "carton", "cartier", "caiet"], correct: 0 }] },
-      { id: "vocabular_mijloace", name: "Mijloace de îmbogățire a vocabularului", questions: [{ type: "mcq", topic: "vocabular_c7", subtopic: "vocabular_mijloace", question: "Cuvântul „recitire” este format prin:", options: ["derivare cu prefix", "compunere", "schimbarea valorii gramaticale", "împrumut"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "text_c7", name: "Lectură și analiză literară", icon: "📖", color: "#EF4444",
-    subtopics: [
-      { id: "text_roman_nuvela", name: "Romanul și nuvela", questions: [{ type: "mcq", topic: "text_c7", subtopic: "text_roman_nuvela", question: "Nuvela se deosebește de roman prin:", options: ["întindere mai scurtă și un singur conflict", "versuri și rime", "dialog dramatic", "lipsa naratorului"], correct: 0 }] },
-      { id: "text_liric_c7", name: "Genul liric: sonet, odă, elegie, pastel", questions: [{ type: "mcq", topic: "text_c7", subtopic: "text_liric_c7", question: "Sonetul este o poezie cu:", options: ["14 versuri, structură fixă", "versuri libere", "strofe de 8 versuri", "refren repetat"], correct: 0 }] },
-      { id: "text_dramatic_c7", name: "Genul dramatic: comedia și drama", questions: [{ type: "mcq", topic: "text_c7", subtopic: "text_dramatic_c7", question: "Comedia se caracterizează prin:", options: ["situații și personaje comice, final fericit", "conflict tragic, final nefericit", "versuri lirice", "narator omniscient"], correct: 0 }] },
-    ],
-  },
-];
-
-// ─── CLASA a VIII-a ───────────────────────────────────────────────────────────
-
-const C8: RomanianTheme[] = [
-  {
-    id: "morfo_recap_c8", name: "Morfologie – recapitulare", icon: "🔄", color: "#8B5CF6",
-    subtopics: [
-      { id: "morfo_flexibile", name: "Părți de vorbire flexibile", questions: [{ type: "mcq", topic: "morfo_recap_c8", subtopic: "morfo_flexibile", question: "Care dintre următoarele este o parte de vorbire flexibilă?", options: ["substantivul", "prepoziția", "conjuncția", "interjecția"], correct: 0 }] },
-      { id: "morfo_neflexibile", name: "Părți de vorbire neflexibile", questions: [{ type: "mcq", topic: "morfo_recap_c8", subtopic: "morfo_neflexibile", question: "Care dintre următoarele este o parte de vorbire neflexibilă?", options: ["adverbul", "verbul", "pronumele", "numeralul"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "subordonate_c8", name: "Subordonate avansate", icon: "🔗", color: "#F59E0B",
-    subtopics: [
-      { id: "subord_atributiva", name: "Propoziția subordonată atributivă", questions: [{ type: "mcq", topic: "subordonate_c8", subtopic: "subord_atributiva", question: "Subordonata atributivă determină:", options: ["un substantiv din regentă", "verbul predicat", "un adverb", "un adjectiv"], correct: 0 }] },
-      { id: "subord_predicativa", name: "Propoziția subordonată predicativă", questions: [{ type: "mcq", topic: "subordonate_c8", subtopic: "subord_predicativa", question: "Subordonata predicativă este subordonata care:", options: ["ține locul numelui predicativ", "ține locul subiectului", "ține locul complementului", "ține locul atributului"], correct: 0 }] },
-      { id: "subord_cauza_scop", name: "Circumstanțiale de cauză și scop", questions: [{ type: "mcq", topic: "subordonate_c8", subtopic: "subord_cauza_scop", question: "Subordonata circumstanțială de cauză răspunde la întrebarea:", options: ["din ce cauză? de ce?", "cu ce scop? pentru ce?", "cu ce condiție?", "în ciuda a ce?"], correct: 0 }] },
-      { id: "subord_conditie_concesie", name: "Circumstanțiale de condiție și concesie", questions: [{ type: "mcq", topic: "subordonate_c8", subtopic: "subord_conditie_concesie", question: "Subordonata circumstanțială de concesie este introdusă de:", options: ["deși, chiar dacă, cu toate că", "dacă, de, în caz că", "fiindcă, deoarece, căci", "unde, încotro, de unde"], correct: 0 }] },
-      { id: "subord_recapitulare", name: "Recapitulare – toate tipurile de subordonate", questions: [{ type: "mcq", topic: "subordonate_c8", subtopic: "subord_recapitulare", question: "Ce tip de subordonată este în „Nu știu unde a plecat.”?", options: ["completivă indirectă", "subiectivă", "atributivă", "circumstanțială de loc"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "stilistica_c8", name: "Stilistică", icon: "✨", color: "#EC4899",
-    subtopics: [
-      { id: "stilistica_figuri_avansate", name: "Figuri de stil avansate (simbol, alegorie, ironie, antiteză)", questions: [{ type: "mcq", topic: "stilistica_c8", subtopic: "stilistica_figuri_avansate", question: "Ce figură de stil este o reprezentare a unei idei abstracte printr-un element concret?", options: ["simbol", "comparație", "enumerație", "repetiție"], correct: 0 }] },
-      { id: "stilistica_limbaj", name: "Limbaj poetic vs. limbajul prozei", questions: [{ type: "mcq", topic: "stilistica_c8", subtopic: "stilistica_limbaj", question: "Ce caracterizează limbajul poetic față de limbajul prozei?", options: ["muzicalitate, figuri de stil, imagini artistice", "narațiune obiectivă și cronologică", "dialog și didascalii", "limbaj tehnic și exact"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "redactare_c8", name: "Redactare și compunere", icon: "✏️", color: "#10B981",
-    subtopics: [
-      { id: "redactare_eseu", name: "Eseul structurat", questions: [{ type: "mcq", topic: "redactare_c8", subtopic: "redactare_eseu", question: "Care sunt cele trei părți ale unui eseu structurat?", options: ["introducere, cuprins, concluzie", "expozițiune, intrigă, deznodământ", "teză, antiteză, sinteză", "titlu, text, surse"], correct: 0 }] },
-      { id: "redactare_argumentare", name: "Textul argumentativ", questions: [{ type: "mcq", topic: "redactare_c8", subtopic: "redactare_argumentare", question: "Ce element este esențial într-un text argumentativ?", options: ["argumentele care susțin teza", "descrierea locului", "prezentarea personajelor", "narațiunea la persoana I"], correct: 0 }] },
-      { id: "redactare_rezumat", name: "Rezumatul și planul de idei", questions: [{ type: "mcq", topic: "redactare_c8", subtopic: "redactare_rezumat", question: "Ce conține un rezumat al unui text?", options: ["ideile principale, fără detalii", "toate detaliile textului", "opinia autorului rezumatului", "citate din text"], correct: 0 }] },
-    ],
-  },
-  {
-    id: "lectura_c8", name: "Lectură – recapitulare și curente literare", icon: "📕", color: "#F97316",
-    subtopics: [
-      { id: "lectura_curente_literare", name: "Curente literare: romantism, realism, modernism", questions: [{ type: "mcq", topic: "lectura_c8", subtopic: "lectura_curente_literare", question: "Ce curent literar pune accent pe imaginație, natură și sentimente?", options: ["romantismul", "realismul", "modernismul", "clasicismul"], correct: 0 }] },
-      { id: "lectura_recapitulare", name: "Opere studiate în cls. V-VIII", questions: [{ type: "mcq", topic: "lectura_c8", subtopic: "lectura_recapitulare", question: "Romanul „Ion” de Liviu Rebreanu aparține curentului:", options: ["realism", "romantism", "modernism", "simbolism"], correct: 0 }] },
     ],
   },
 ];
@@ -1050,45 +698,75 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
   3: C3,
-  4: C4,
-  5: C5,
   6: C6,
-  7: C7,
-  8: C8,
 };
+
+// ─── MERGE C6 GENERATORS FROM 4 PHASES ─────────────────────────────────────
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const C6_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = ({
+  substantiv_c6: {
+    declinare_c6: C6P1_Generators.subst_declinare,
+    functii_sintactice_c6: C6P1_Generators.subst_functii_sintactice,
+    defective_c6: C6P1_Generators.subst_defective,
+  },
+  pronume_c6: {
+    personale_c6: C6P1_Generators.pronume_personale,
+    demonstrative_c6: C6P1_Generators.pronume_demonstrative,
+    posesive_c6: C6P1_Generators.pronume_posesive,
+    reflexive_c6: C6P1_Generators.pronume_reflexive,
+    interogative_c6: C6P1_Generators.pronume_interogative,
+    nehotarate_c6: C6P1_Generators.pronume_nehotarate,
+    relative_c6: C6P1_Generators.pronume_relative,
+  },
+  verb_c6: {
+    moduri_nepersonale_c6: C6P2_Generators.verb_moduri_nepersonale,
+    timpuri_literare_c6: C6P2_Generators.verb_timpuri_literare,
+    diateze_c6: C6P2_Generators.verb_diateze,
+    neregulata_c6: C6P2_Generators.verb_conjugare_neregulata,
+    acord_c6: C6P2_Generators.verb_acord,
+  },
+  adverb_prepozitie_c6: {
+    adverb_tipuri_c6: C6P2_Generators.adverb_tipuri,
+    prepozitie_cazuri_c6: C6P2_Generators.prepozitie_cazuri,
+    conjunctie_c6: C6P2_Generators.conjunctie,
+    interjectie_c6: C6P2_Generators.interjectie,
+  },
+  sintaxa_c6: {
+    subiect_c6: C6P3_Generators.sintaxa_subiect,
+    predicat_verbal_c6: C6P3_Generators.sintaxa_predicat_verbal,
+    predicat_nominal_c6: C6P3_Generators.sintaxa_predicat_nominal,
+    complement_direct_c6: C6P3_Generators.sintaxa_complement_direct,
+    complement_indirect_c6: C6P3_Generators.sintaxa_complement_indirect,
+    complement_circumstantial_c6: C6P3_Generators.sintaxa_complement_circumstantial,
+    atribut_c6: C6P3_Generators.sintaxa_atribut,
+  },
+  fraza_c6: {
+    subord_completive_c6: C6P3_Generators.fraza_subord_completive,
+    subord_circumstantiale_c6: C6P3_Generators.fraza_subord_circumstantiale,
+    subord_atributive_c6: C6P3_Generators.fraza_subord_atributive,
+  },
+  vocabular_c6: {
+    polisemie_c6: C6P4_Generators.vocabular_polisemie,
+    derivare_c6: C6P4_Generators.vocabular_derivare,
+    locutiuni_c6: C6P4_Generators.vocabular_locutiuni,
+    neologisme_c6: C6P4_Generators.vocabular_neologisme,
+    campuri_semantice_c6: C6P4_Generators.vocabular_campuri_semantice,
+  },
+  text_lectura_c6: {
+    genuri_c6: C6P4_Generators.text_lectura_genuri,
+    moduri_expunere_c6: C6P4_Generators.text_lectura_moduri,
+    personaje_c6: C6P4_Generators.text_lectura_personaje,
+    texte_nonliterare_c6: C6P4_Generators.text_lectura_nonliterare,
+  },
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+} as any);
 
 /** Generator mapping by grade */
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
-  4: { ...C4_Morfo_Generators, ...C4_Sint_Generators, ...C4_Ort_Generators, ...C4_Voc_Generators, ...C4_Text_Generators, ...C4_Lec_Generators },
-  5: { ...C5_Subst_Generators, ...C5_Verb_Generators, ...C5_Sint_Generators, ...C5_Voc_Generators, ...C5_Ort_Generators, ...C5_Text_Generators, ...C5_Lec_Generators },
-  6: {
-    substantiv_c6: { declinare_c6: C6P1_Generators.subst_declinare, functii_sintactice_c6: C6P1_Generators.subst_functii_sintactice, defective_c6: C6P1_Generators.subst_defective },
-    pronume_c6: { personale_c6: C6P1_Generators.pronume_personale, demonstrative_c6: C6P1_Generators.pronume_demonstrative, posesive_c6: C6P1_Generators.pronume_posesive, reflexive_c6: C6P1_Generators.pronume_reflexive, interogative_c6: C6P1_Generators.pronume_interogative, nehotarate_c6: C6P1_Generators.pronume_nehotarate, relative_c6: C6P1_Generators.pronume_relative },
-    verb_c6: { moduri_nepersonale_c6: C6P2_Generators.verb_moduri_nepersonale, timpuri_literare_c6: C6P2_Generators.verb_timpuri_literare, diateze_c6: C6P2_Generators.verb_diateze, neregulata_c6: C6P2_Generators.verb_conjugare_neregulata, acord_c6: C6P2_Generators.verb_acord },
-    adverb_prepozitie_c6: { adverb_tipuri_c6: C6P2_Generators.adverb_tipuri, prepozitie_cazuri_c6: C6P2_Generators.prepozitie_cazuri, conjunctie_c6: C6P2_Generators.conjunctie, interjectie_c6: C6P2_Generators.interjectie },
-    sintaxa_c6: { subiect_c6: C6P3_Generators.sintaxa_subiect, predicat_verbal_c6: C6P3_Generators.sintaxa_predicat_verbal, predicat_nominal_c6: C6P3_Generators.sintaxa_predicat_nominal, complement_direct_c6: C6P3_Generators.sintaxa_complement_direct, complement_indirect_c6: C6P3_Generators.sintaxa_complement_indirect, complement_circumstantial_c6: C6P3_Generators.sintaxa_complement_circumstantial, atribut_c6: C6P3_Generators.sintaxa_atribut },
-    fraza_c6: { subord_completive_c6: C6P3_Generators.fraza_subord_completive, subord_circumstantiale_c6: C6P3_Generators.fraza_subord_circumstantiale, subord_atributive_c6: C6P3_Generators.fraza_subord_atributive },
-    vocabular_c6: { polisemie_c6: C6P4_Generators.vocabular_polisemie, derivare_c6: C6P4_Generators.vocabular_derivare, locutiuni_c6: C6P4_Generators.vocabular_locutiuni, neologisme_c6: C6P4_Generators.vocabular_neologisme, campuri_semantice_c6: C6P4_Generators.vocabular_campuri_semantice },
-    text_lectura_c6: { genuri_c6: C6P4_Generators.text_lectura_genuri, moduri_expunere_c6: C6P4_Generators.text_lectura_moduri, personaje_c6: C6P4_Generators.text_lectura_personaje, texte_nonliterare_c6: C6P4_Generators.text_lectura_nonliterare },
-  },
-  7: {
-    adjectiv_c7: { adjectiv_clasificare: C7P1_Generators.adjectiv_clasificare, adjectiv_grade: C7P1_Generators.adjectiv_grade, adjectiv_functii: C7P1_Generators.adjectiv_functii },
-    numeral_c7: { numeral_cardinal: C7P1_Generators.numeral_cardinal, numeral_ordinal: C7P1_Generators.numeral_ordinal },
-    verb_c7: { verb_indicativ: C7P2_Generators.verb_indicativ, verb_conjunctiv: C7P2_Generators.verb_conjunctiv, verb_conditional_imperativ: C7P2_Generators.verb_conditional_imperativ, verb_moduri_nepers_c7: C7P2_Generators.verb_moduri_nepers_c7, verb_diateze_c7: C7P2_Generators.verb_diateze_c7 },
-    subordonate_c7: { subord_subiectiva: C7P3_Generators.subord_subiectiva, subord_completiva_directa: C7P3_Generators.subord_completiva_directa, subord_completiva_indirecta: C7P3_Generators.subord_completiva_indirecta, subord_loc: C7P3_Generators.subord_loc, subord_timp: C7P3_Generators.subord_timp, subord_mod: C7P3_Generators.subord_mod },
-    vocabular_c7: { vocabular_familie_lexicala: C7P4_Generators.vocabular_familie_lexicala, vocabular_mijloace: C7P4_Generators.vocabular_mijloace },
-    text_c7: { text_roman_nuvela: C7P4_Generators.text_roman_nuvela, text_liric_c7: C7P4_Generators.text_liric_c7, text_dramatic_c7: C7P4_Generators.text_dramatic_c7 },
-  },
-  8: {
-    morfo_recap_c8: { morfo_flexibile: C8P1_Generators.morfo_flexibile, morfo_neflexibile: C8P1_Generators.morfo_neflexibile },
-    subordonate_c8: { subord_atributiva: C8P1_Generators.subord_atributiva, subord_predicativa: C8P1_Generators.subord_predicativa, subord_cauza_scop: C8P1_Generators.subord_cauza_scop, subord_conditie_concesie: C8P2_Generators.subord_conditie_concesie, subord_recapitulare: C8P2_Generators.subord_recapitulare },
-    stilistica_c8: { stilistica_figuri_avansate: C8P2_Generators.stilistica_figuri_avansate, stilistica_limbaj: C8P2_Generators.stilistica_limbaj },
-    redactare_c8: { redactare_eseu: C8P3_Generators.redactare_eseu, redactare_argumentare: C8P3_Generators.redactare_argumentare, redactare_rezumat: C8P3_Generators.redactare_rezumat },
-    lectura_c8: { lectura_curente_literare: C8P3_Generators.lectura_curente_literare, lectura_recapitulare: C8P3_Generators.lectura_recapitulare },
-  },
+  6: C6_Generators,
 };
 
 /** Returns shuffled questions from selected subtopics (max count). */
@@ -1243,18 +921,43 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "figuri_stil_c3":         "Comparație: 'ca' / 'precum' (fata frumoasă ca o floare). Personificare: obiectul primește însușiri omenești (vântul suspina). Enumerație: lista de elemente.",
   "intelegere_c3":          "Citește textul integral, apoi întrebarea. Caută cuvintele cheie din întrebare în text. Răspunsul trebuie să fie susținut de text!",
   "idee_principala_c3":     "Ideea principală = 'Despre CE/CINE este textul?'. Rezumatul = povestești pe scurt, cu propriile cuvinte, respectând ordinea evenimentelor.",
-  // ─── Clasa III — extensii ───
-  "grade_adj_c3":           "Grade de comparație: POZITIV (bun), COMPARATIV (mai bun), SUPERLATIV (cel mai bun). Comparativul = 'mai' + adjectiv. Superlativul = 'cel/cea/cei/cele mai' + adjectiv.",
-  "verbe_reflexive_c3":     "Verbele reflexive exprimă o acțiune îndreptată asupra subiectului: mă spăl, te speli, se spală, ne spălăm, vă spălați, se spală. Pronumele reflexive: mă, te, se, ne, vă, se.",
-  "modul_imperativ_c3":     "Imperativul exprimă o poruncă, un îndemn sau o rugăminte. Se folosește la persoana a II-a: vino! (sg) / veniți! (pl). Se pune semnul exclamării (!) la final.",
-  "subiect_predicat_c3":    "Subiectul = CINE face acțiunea (întrebarea: cine? ce?). Predicatul = CE FACE subiectul (întrebarea: ce face? ce este?). Exemplu: 'Florile (S) înfloresc (P) primăvara.'",
-  "atributul_c3":           "Atributul determină un SUBSTANTIV, arătând cum este, care sau al cui. Răspunde la: Care? Ce fel de? Al cui? Exemplu: 'Câinele NEGRu (atribut) latră.' — negru determină substantivul câine.",
-  "vorbire_directa_c3":     "Vorbirea directă reproduce exact cuvintele unui personaj. Se marchează cu: ghilimele (\") sau linia de dialog (–). Exemplu: – Bună ziua! a spus Ana. / \"Bună ziua!\" a spus Ana.",
-  "despartire_silabe_c3":   "Reguli de despărțire: 1) O consoană între vocale → merge cu silaba următoare (ca-să). 2) Două consoane → se despart (car-te). 3) Grupurile che/chi/ghe/ghi nu se despart. Câte vocale — atâtea silabe!",
-  "virgula_c3":             "Virgula se pune: 1) La ENUMERAȚIE (mere, pere și prune). 2) La ADRESARE DIRECTĂ (Ana, vino!). 3) La APOZIȚIE — explicație intercalată (Ion, elev harnic, a venit.).",
-  "natura_c3":              "Forme de relief: munte (înalt, vârf), deal (mai mic ca muntele), câmpie (plată). Ape: râu (curgătoare, are mal), lac (stătătoare). Ecosisteme: pădure (copaci, animale sălbatice).",
-  "activitati_c3":          "Fiecare activitate are locul ei: înot → piscină/mare, fotbal → teren de sport, ciclism → parc/drum, lectură → bibliotecă/acasă. Fiecare are echipamentul specific!",
-  "locuinta_c3":            "Camerele casei: dormitor (pat, dulap), bucătărie (aragaz, frigider), baie (cadă, lavoar), sufragerie (canapea, televizor), hol (cuier, covoraș). Fiecare cameră are obiectele ei!",
-  "imbracaminte_c3":        "Hainele de VARĂ: tricou, rochie, sandale. Hainele de IARNĂ/TOAMNĂ: palton, cizme. Hainele pentru TOT ANUL: pantaloni, bluza. Partea corpului: sus (tricou), jos (pantaloni), picioare (cizme, sandale).",
-  "textul_descriptiv_c3":   "Textul descriptiv răspunde la: 'Cum este? Cum arată?' — nu povestește (narativ), nu explică (informativ). Adjectivele sunt cele mai importante! Comparațiile și personificările dau viață descrierii.",
+  // ─── Clasa VI ───
+  "declinare_c6":           "Declinarea = schimbarea formei substantivului după caz (N/G/D/Ac/V). Exemplu: carte→cărți (N), cărții (G), cărții (D), cartea (Ac), carte! (V).",
+  "functii_sintactice_c6":  "Funcții: Subiect (CINE face), Predicat (CE FACE), Complement direct (PE CINE/CE), Complement indirect (CUI/CU CINE), Atribut (CARE?), Circumstanțial (UNDE/CÂND/CUM).",
+  "defective_c6":           "Substantive defective = care nu au TOATE formele. 'datorie' n-are plural. 'cunoștințe' nu are singular. Memorează ca excepții!",
+  "personale_c6":           "Pronume personale: eu/noi (I), tu/voi (II), el/ea/ei/ele (III). Forme: Nominativ (eu, tu, el), Acuzativ (mă, te, îl), Dativ (mie, ție, lui).",
+  "demonstrative_c6":       "Demonstrative apropiate: acesta, aceasta, aceștia, acestea (AICI). Depărtate: acela, aceea, aceia, alea (ACOLO). Neutru: asta, aia.",
+  "posesive_c6":            "Posesive: al meu/a mea (I sg), al tău/a ta (II sg), al lui/al ei/al lui (III sg), al nostru/a noastră (I pl), al vostru/a voastră (II pl), al lor/a lor (III pl).",
+  "reflexive_c6":           "Reflexive: mă, te, se (singular), ne, vă, se (plural). Se folosesc cu verbe reflexive: mă spăl, te gândești, se vaită, ne-ntoarcem, vă pregătiți, se joacă.",
+  "interogative_c6":        "Interogative: cine (persoane), ce (lucruri), care (alăturare), cui (dativ), pe cine (acuzativ). Ex: Cine vine? Ce ai? Care-i asta? Cui îi dai?",
+  "nehotarate_c6":          "Nehotărâte: cineva (oricine nedefinit), ceva (orice nedefinit), fiecare (universal), oricine (universal), orice (universal). Ex: Cineva a sunat.",
+  "relative_c6":            "Relative: care (universal), cine (pentru persoane), ce (rar). Introduc propoziții subordonate. Ex: Fetița care citește / Băiatul cine vorbește.",
+  "moduri_nepersonale_c6":  "Nepersonale: Infinitiv (a merge), Gerunziu (mergând), Participiu (mers). NU au marcă de persoană/număr. Folosire: 'Mersul este plăcut.' 'Mergând prin parc...'",
+  "timpuri_literare_c6":    "Timpuri literare: Trecut simplu (cântă = acum demult), Perfect simplu (cântase = anterior trecut), Plus-perfect (a cântat = anterior recent). Frecvente în literatura clasică.",
+  "diateze_c6":             "Diateză = activă (SUBIECT face) vs pasivă (SUBIECT suferă acțiunea). Ex: Copil citește cartea (activ) vs Cartea este citită (pasiv).",
+  "neregulata_c6":          "Verbe neregulate = nu urmează modelul (cânta→cântă, mânca→mănânc, bea→beau, lua→iau). A fi/a avea sunt parțial neregulate. Memorează!",
+  "acord_c6":               "Subiect plural = verb plural: 'Copiii joacă' (NU joacă). Subiect singular = verb singular: 'Copilul joacă'. Acordul se face ÎNTOTDEAUNA!",
+  "adverb_tipuri_c6":       "Tipuri: MOD (frumos, repede, ușor), TIMP (azi, mâine, ieri), LOC (sus, jos, acolo), CANTITATE (mult, puțin, destul), FRECVENȚĂ (adesea, rar, niciodată).",
+  "prepozitie_cazuri_c6":   "Prepoziții: la (Dat/Ac), din (Gen), cu (Instr), în (Ac), pe (Ac), sub (Ac), lângă (Ac), între (Ac), pentru (Ac), după (Ac), înainte (Ac).",
+  "conjunctie_c6":          "Conjuncții COORDONATOARE: și (aditivă), sau (disjunctivă), dar (adversativă). SUBORDONATOARE: că, dacă, deoarece, pentru că, dacă, cât, cand.",
+  "interjectie_c6":         "Interjecții: aia! (bucurie), ah! (surpriză), hai! (îndemnare), bah! (dispret), vai! (durere), bravo! (apreciere), uf! (oboseală), psst! (atragere atenție).",
+  "subiect_c6":             "Subiectul răspunde la CINE/CE FACE ACȚIUNEA. Poate fi: substantiv (Maria), pronume (el), infinitiv (A citi e plăcut), frază (Că va veni mâine nu-i sigur).",
+  "predicat_verbal_c6":     "Predicat verbal = VERBI care arată ce FACE subiectul. Poate fi: simplu (merge), compus (a mers), complex (va merge, s-a jucat). Răspunde la CE FACE?",
+  "predicat_nominal_c6":    "Predicat nominal = COPULĂ + ATRIBUT. Copule: a fi (sunt, ești, este), a rămâne (rămân), a deveni (devin), a părea (par). Ex: Copilul este fericit.",
+  "complement_direct_c6":   "Complement direct (Acuzativ) = PE CINE/CE? Răspunde: pe Ana (persoană marcată cu 'pe'), cartea, o ție. DIRECT cu verbul, FĂRĂ prepoziție.",
+  "complement_indirect_c6": "Complement indirect = CUI/CU CINE/DE CINE? Răspunde: Mariei (dativ), cu prietenul (prepoziție), din casă (prepoziție). NU direct cu verbul.",
+  "complement_circumstantial_c6": "Circumstanțiale = UNDE (loc), CÂND (timp), CUM (mod), DE CE (cauză), PENTRU CE (scop), CÂT (măsură). Ex: Merg la grădină (loc) mâine (timp) cu plăcere (mod).",
+  "atribut_c6":             "Atributul CARACTERIZEAZĂ substantivul. Răspunde la CARE? Ce adjectiv/pronume/grup prepoziție se atașează. Ex: fata frumoasă, cartea lui Ion, băiatul care citește.",
+  "subord_completive_c6":   "Completive = răspund la ÎNTREBĂRI INDIRECTE. Introduse cu: că (Spun că va veni), dacă (Mă întreb dacă vine), cine (Știu cine a făcut), ce (Nustiu ce vrei).",
+  "subord_circumstantiale_c6": "Circumstanțiale = UNDE (locul unde), CÂND (timp când), DACĂ (condiție), DEOARECE (cauza), PENTRU CA (scop), CAND (timp), DEȘI (concesie).",
+  "subord_atributive_c6":   "Atributive = modifcă un substantiv din principală. Introduse cu CARE (relativ): Fetița care citește / Copilul, care era obosit, a adormit. CARE înlocuiește substantivul.",
+  "polisemie_c6":           "Polisemie = un cuvânt cu MAI MULTE SENSURI ÎNRUDITE. Ex: masă (mobilă, planetă), carte (obiect, joc), munte (relief, grămadă). Sensuri DIFERITE dar ASEMĂNĂTOARE.",
+  "derivare_c6":           "Derivare = formare de cuvinte noi prin PREFIXE/SUFIXE. Radical: scri → prefix+radical: prescri, suffix+radical: scriitor, prefix+radical+suffix: rescriitor.",
+  "locutiuni_c6":           "Locuții = grupuri de cuvinte cu sens FIGURAT, NU LITERAL. Ex: a-și pune capul la cale (a plănui), a cere luna din cer (a cere imposibil), a avea inimă de aur (a fi bun).",
+  "neologisme_c6":          "Neologisme = cuvinte NORI în limbă. Provin din engleză (selfie, online, email) sau alte surse. Au introdus NOȚIUNI noi în vocabular.",
+  "campuri_semantice_c6":   "Câmpuri = cuvinte cu sens APROPIAT din aceeași ZONĂ SEMANTICĂ. Familie: tată, mamă, frate. Culori: roșu, albastru, verde. Emoții: bucurie, tristețe, frică.",
+  "genuri_c6":              "Genuri literare: Nuvela (scurtă, o problemă), Roman (lung, complexă), Poezie (versuri, ritm), Dramă (scenă, dialoguri), Basm (fantastic, moralitate), Fabulă (animale, lecție morală).",
+  "moduri_expunere_c6":     "Moduri: NARAȚIUNE (povestire de acțiuni), DESCRIERE (caracterizare, în stare), DIALOG (conversație), MONOLOG (vorbire unui singur om). Textele le combină!",
+  "personaje_c6":           "Analiză personaj: CINE e (nume, vârstă), CUM e (trăsături, emoții), CE FACE (acțiuni, evoluție), DE CE (motivații). Protagonist (principal) / Antagonist (negativ) / Secundar.",
+  "texte_nonliterare_c6":   "Nonliterare: Articol ziar (informație, neutru), Publicitate (promovare, persuasivă), Instructaj (pași, clar), Carte tehnică (date, formală), Reclama (soluție, persuasivă).",
 };
