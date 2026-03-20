@@ -598,20 +598,32 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
 
     antonime_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ANTONIME_C3, rng);
         const wrong = shuffle(ANTONIME_C3, rng).filter(d => d.ant !== data.ant).slice(0, 3).map(d => d.ant);
-        q.push(createMCQ("vocabular_c3", "antonime_c3",
+        mcqs.push(createMCQ("vocabular_c3", "antonime_c3",
           `Care este antonimul cuvântului '${data.word}'?`,
           data.ant, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'vesel':", answer: ["trist"], hint: "Opus emoției bune" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'înalt':", answer: ["scund"], hint: "Opus înălțimii" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'curat':", answer: ["murdar"], hint: "Opus curățeniei" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'rapid':", answer: ["lent"], hint: "Mișcare lentă" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'a urca':", answer: ["a cobori"], hint: "A merge in jos" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'a deschide':", answer: ["a inchide", "a închide"], hint: "Opus deschiderii" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'ziua':", answer: ["noaptea"], hint: "Momentul fără soare" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'vara':", answer: ["iarna"], hint: "Anotimpul rece" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'bogat':", answer: ["sarac", "sărac"], hint: "Opus bogăției" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Antonimul pentru 'curajos':", answer: ["fricos"], hint: "Plin de frică" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     familia_cuvintelor_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(FAMILIA_CUVIN, rng);
         const derived = pick(data.familie, rng);
@@ -620,11 +632,23 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
           .flatMap(d => d.familie)
           .filter(w => w !== derived)
           .slice(0, 3);
-        q.push(createMCQ("vocabular_c3", "familia_cuvintelor_c3",
+        mcqs.push(createMCQ("vocabular_c3", "familia_cuvintelor_c3",
           `Care cuvânt face parte din familia cuvântului '${data.radacina}'?`,
           derived, otherWords, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'floare':", answer: ["florar"], hint: "Persoană care vinde flori" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'casă':", answer: ["casutica", "căsuță"], hint: "Casă mică" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'copac':", answer: ["copacel", "copăcel"], hint: "Copac mic" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'apă':", answer: ["apos"], hint: "Lucru cu apă" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'carte':", answer: ["carticica", "cărticică"], hint: "Carte mică" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'soare':", answer: ["insorit", "însorit"], hint: "Plin de soare" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Cuvânt din familia 'muncă':", answer: ["muncitor"], hint: "Persoană care muncește" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Rădăcina pentru 'florar':", answer: ["floare"], hint: "Cuvântul de bază" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Rădăcina pentru 'muncitor':", answer: ["munca", "muncă"], hint: "Cuvântul de bază" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Rădăcina pentru 'căsuță':", answer: ["casa", "casă"], hint: "Cuvântul de bază" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
@@ -633,14 +657,26 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
   ortografie_c3: {
     cratima_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ORTOGRAFIE_C3, rng);
-        q.push(createMCQ("ortografie_c3", "cratima_c3",
+        mcqs.push(createMCQ("ortografie_c3", "cratima_c3",
           `Completează corect: '${data.context}'`,
           data.correct, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Eu ___ văzut filmul (n-am/nam):", answer: ["n-am"], hint: "Negație 'nu' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: ___ acasă nimeni (nu-i/nui):", answer: ["nu-i"], hint: "Negație 'nu' + 'i' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Eu ___ dus la școală (m-am/mam):", answer: ["m-am"], hint: "Pronume 'm' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Eu ___ chemat pe Ion (l-am/lam):", answer: ["l-am"], hint: "Pronume 'l' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Mama ___ dat un cadou (mi-a/mia):", answer: ["mi-a"], hint: "Pronume 'mi' + 'a' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Noi ___ întâlnit în parc (ne-am/neam):", answer: ["ne-am"], hint: "Pronume 'ne' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Eu ___ așteptat mult (v-am/vam):", answer: ["v-am"], hint: "Pronume 'v' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Eu ___ trimis o scrisoare (i-am/iam):", answer: ["i-am"], hint: "Pronume 'i' + 'am' cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: El este, ___, un elev harnic (într-adevăr):", answer: ["intr-adevar", "într-adevăr"], hint: "Adverb cu cratimă" },
+        { type: "typing", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Forma corectă: Ne jucăm ___ baba-oarba (de-a/dea):", answer: ["de-a"], hint: "Prepoziție 'de' + 'a' cu cratimă" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
