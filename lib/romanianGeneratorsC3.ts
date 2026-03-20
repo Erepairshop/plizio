@@ -499,29 +499,41 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
   adjectiv_c3: {
     acord_adj_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ADJ_ACORD, rng);
         if (rng() > 0.5) {
           // feminine agreement
           const wrong = [data.adj_m, data.adj_pl, shuffle(ADJ_ACORD, rng).find(d => d !== data)?.adj_f ?? "bun"].filter(w => w !== data.adj_f);
-          q.push(createMCQ("adjectiv_c3", "acord_adj_c3",
+          mcqs.push(createMCQ("adjectiv_c3", "acord_adj_c3",
             `Care este forma adjectivului '${data.adj_m}' pentru substantivul feminin '${data.subst_f}'?`,
             data.adj_f, wrong, rng));
         } else {
           // masculine agreement
           const wrong = [data.adj_f, data.adj_pl, shuffle(ADJ_ACORD, rng).find(d => d !== data)?.adj_m ?? "mare"].filter(w => w !== data.adj_m);
-          q.push(createMCQ("adjectiv_c3", "acord_adj_c3",
+          mcqs.push(createMCQ("adjectiv_c3", "acord_adj_c3",
             `Care este forma adjectivului pentru substantivul masculin '${data.subst_m}'?`,
             data.adj_m, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'frumos' pentru feminin:", answer: ["frumoasa", "frumoasă"], hint: "Acord feminin, -ă" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'mare' pentru feminin:", answer: ["mare"], hint: "Acord mare (invariabil pentru feminin)" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'mic' pentru feminin:", answer: ["mica", "mică"], hint: "Acord feminin, -ă" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'roșu' pentru feminin:", answer: ["rosie", "roșie"], hint: "Acord feminin, -ie" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'verde' pentru feminin:", answer: ["verde"], hint: "Acord verde (invariabil pentru feminin)" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'negru' pentru feminin:", answer: ["neagra", "neagră"], hint: "Acord feminin, -ă" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'greu' pentru feminin:", answer: ["grea"], hint: "Acord feminin, -a" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'prost' pentru feminin:", answer: ["proasta", "proastă"], hint: "Acord feminin, -ă" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'bun' pentru feminin:", answer: ["buna", "bună"], hint: "Acord feminin, -ă" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Forma adjectivului 'lung' pentru feminin:", answer: ["lunga", "lungă"], hint: "Acord feminin, -ă" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     adj_propozitie_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const items = [
         { prop: "Câinele cel negru a latrat.", adj: "negru", wrong: ["câinele", "latrat", "cel"] },
         { prop: "Fetița bucuroasă a dansat.", adj: "bucuroasă", wrong: ["fetița", "dansat", "a"] },
@@ -536,11 +548,23 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(items, rng);
-        q.push(createMCQ("adjectiv_c3", "adj_propozitie_c3",
+        mcqs.push(createMCQ("adjectiv_c3", "adj_propozitie_c3",
           `Care este adjectivul din propoziția: '${data.prop}'?`,
           data.adj, data.wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Copilul inteligent a rezolvat problema':", answer: ["inteligent"], hint: "Cuvintele care descriu" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Floarea rosie mirosea frumos':", answer: ["rosie", "roșie"], hint: "Culoarea florilor" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Iarna rece a sosit devreme':", answer: ["rece"], hint: "Temperatura iernii" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Fetita vesela a cântat frumos':", answer: ["vesela", "veselă"], hint: "Cum se simte fetita" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Muntele inalt se ridica spre cer':", answer: ["inalt", "înalt"], hint: "Dimensiunea muntelui" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Cartea alba era pe masa':", answer: ["alba", "albă"], hint: "Culoarea cartii" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Padurea densa ascundea animalele':", answer: ["densa", "densă"], hint: "Caracteristica padurilor" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Apa rece era plin de pesti':", answer: ["rece"], hint: "Temperatura apei" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Baietul harnic a terminat tema':", answer: ["harnic"], hint: "Caracterul baietului" },
+        { type: "typing", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Adjectivul din: 'Cerul albastru era limpede':", answer: ["albastru"], hint: "Culoarea cerului" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
@@ -549,15 +573,27 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
   vocabular_c3: {
     sinonime_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(SINONIME_C3, rng);
         const wrong = shuffle(SINONIME_C3, rng).filter(d => d.syn !== data.syn).slice(0, 3).map(d => d.syn);
-        q.push(createMCQ("vocabular_c3", "sinonime_c3",
+        mcqs.push(createMCQ("vocabular_c3", "sinonime_c3",
           `Care este sinonimul cuvântului '${data.word}'?`,
           data.syn, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'a vorbi':", answer: ["a spune"], hint: "Înlocuitor pentru 'a vorbi'" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'frumos':", answer: ["dragut", "drăguț"], hint: "Ceva ce arată frumos" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'repede':", answer: ["iute"], hint: "Opus pentru încet" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'a merge':", answer: ["a umbla"], hint: "Alt cuvânt pentru mers" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'bucuros':", answer: ["fericit"], hint: "Senzație de bucurie" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'a privi':", answer: ["a se uita"], hint: "Acțiune cu ochii" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'a ajuta':", answer: ["a sprijini"], hint: "Oferire de ajutor" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'mare':", answer: ["urias", "uriaș"], hint: "Foarte de mari dimensiuni" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'a termina':", answer: ["a sfârsi", "a sfârși"], hint: "Să ajungi la final" },
+        { type: "typing", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Sinonimul pentru 'harnic':", answer: ["silitor"], hint: "Persoană care muncește mult" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     antonime_c3: (seed = Date.now()) => {
