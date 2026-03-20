@@ -6,6 +6,8 @@ import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { GRADE_PLANETS } from "./planets";
 import { loadO1Progress } from "@/lib/astroMagyar";
+import { loadO2Progress } from "@/lib/astroMagyar2";
+import { loadO4Progress } from "@/lib/astroMagyar4";
 
 const STAR_DATA = Array.from({ length: 80 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -36,16 +38,42 @@ const GRADE_CLASSES = [
     border: "rgba(255,45,120,0.5)",
     glow: "rgba(255,45,120,0.35)",
   },
+  {
+    grade: 2, route: "/astromagyar/2",
+    planetName: { en: "Szókinesia", hu: "Szókinesia", de: "Szókinesia", ro: "Szókinesia" },
+    label: { en: "Grade 2", hu: "2. osztály", de: "Klasse 2", ro: "Clasa 2" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#00D4FF",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(0,212,255,0.25) 0%, rgba(0,212,255,0.05) 60%)",
+    border: "rgba(0,212,255,0.5)",
+    glow: "rgba(0,212,255,0.35)",
+  },
+  {
+    grade: 4, route: "/astromagyar/4",
+    planetName: { en: "Aureon", hu: "Aureon", de: "Aureon", ro: "Aureon" },
+    label: { en: "Grade 4", hu: "4. osztály", de: "Klasse 4", ro: "Clasa 4" },
+    subtitle: { en: "Hungarian Language", hu: "Magyar Nyelv", de: "Ungarische Sprache", ro: "Limba Maghiară" },
+    color: "#FFD700",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.25) 0%, rgba(255,215,0,0.05) 60%)",
+    border: "rgba(255,215,0,0.5)",
+    glow: "rgba(255,215,0,0.35)",
+  },
 ];
 
 export default function AstroMagyarHub() {
   const router = useRouter();
   const { lang } = useLang();
   const [o1Done, setO1Done] = useState(0);
+  const [o2Done, setO2Done] = useState(0);
+  const [o4Done, setO4Done] = useState(0);
 
   useEffect(() => {
     const p1 = loadO1Progress();
     setO1Done(p1.completedIslands.length);
+    const p2 = loadO2Progress();
+    setO2Done(p2.completedIslands.length);
+    const p4 = loadO4Progress();
+    setO4Done(p4.completedIslands.length);
   }, []);
 
   const handleGradeSelect = (route: string) => {
@@ -106,7 +134,7 @@ export default function AstroMagyarHub() {
         transition={{ delay: 0.3 }}
       >
         {GRADE_CLASSES.map((g) => {
-          const completedCount = g.grade === 1 ? o1Done : 0;
+          const completedCount = g.grade === 1 ? o1Done : g.grade === 2 ? o2Done : g.grade === 4 ? o4Done : 0;
           const Planet = GRADE_PLANETS[g.grade - 1];
 
           return (
