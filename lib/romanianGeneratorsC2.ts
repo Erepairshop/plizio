@@ -392,13 +392,13 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
       }
       const typings: CurriculumTyping[] = [
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie cuvântul care arată o locuință?", answer: ["casă", "casa"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Pluralul cuvântului „carte" este...", answer: ["cărți", "carti"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Pluralul cuvântului 'carte' este...", answer: ["cărți", "carti"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie un substantiv masculin cu 4-5 litere", answer: ["câine", "copac", "perete", "caîne"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie animal cu 4 picioare care latră?", answer: ["câine", "caîne"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie un substantiv feminin care crește în grădină", answer: ["floare", "pasăre", "rosa", "bujor"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului „mese" este...", answer: ["masă", "masa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului 'mese' este...", answer: ["masă", "masa"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie o capitală românească (Valea în limba latină)", answer: ["București", "Bucuresti"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului „copii" este...", answer: ["copil"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Singularul pluralului 'copii' este...", answer: ["copil"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Cum se scrie cuvântul pentru apă care cade din cer?", answer: ["ploaie", "ploaia"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Scrie o emoție sau sentiment (substantiv)", answer: ["bucurie", "tristețe", "teamă", "tristepe"] },
       ];
@@ -442,16 +442,16 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         }
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului „citește" este...", answer: ["a citi", "aciti"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului „merge" este...", answer: ["a mers", "amers"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului 'citește' este...", answer: ["a citi", "aciti"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului 'merge' este...", answer: ["a mers", "amers"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Scrie verbul care arată mișcarea rapidă a picioarelor", answer: ["aleargă", "alerga"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului „scrie" este...", answer: ["va scrie", "vascrie"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: „El ... o poveste frumoasă"", answer: ["scrie", "scrî"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului „dansează" este...", answer: ["a dansa", "adansa"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului „cântă" este...", answer: ["a cântat", "acantat"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului 'scrie' este...", answer: ["va scrie", "vascrie"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: 'El ... o poveste frumoasă'", answer: ["scrie", "scrî"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Infinitivul verbului 'dansează' este...", answer: ["a dansa", "adansa"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Trecutul verbului 'cântă' este...", answer: ["a cântat", "acantat"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Scrie un verb care arată o acțiune plăcută", answer: ["cânta", "dansa", "citi", "canta"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului „doarme" este...", answer: ["va dormi", "vadormi"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: „Copiii ... în parc"", answer: ["aleargă", "alergă"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Viitorul verbului 'doarme' este...", answer: ["va dormi", "vadormi"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Completează: 'Copiii ... în parc'", answer: ["aleargă", "alergă"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -486,7 +486,7 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru culoare", answer: ["roșu", "verde", "albastru", "galben"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Cum ar trebui să fie apă bună?", answer: ["rece", "clin"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru taste: dulce sau ...", answer: ["amar", "acru", "sarat"] },
-        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Opusul cuvântului „mare" este...", answer: ["mic"] },
+        { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Opusul cuvântului 'mare' este...", answer: ["mic"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru timp (stare atmosferică)", answer: ["frumos", "ploios", "frumoasa"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Scrie un adjectiv pentru o persoană deșteaptă", answer: ["deștept", "inteligent"] },
         { type: "typing", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Cum ar trebui să fie muncitor bun?", answer: ["harnic", "activ"] },
@@ -509,14 +509,14 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
       const typings: CurriculumTyping[] = [
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie corect: animal care latră?", answer: ["câine", "caîne"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect cuvântul pentru mâncare de pâine", answer: ["pâine", "paîne"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „România este o țară în ... Europa"", answer: ["în"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: 'România este o țară în ... Europa'", answer: ["în"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie: sânge curgând din corp?", answer: ["sânge", "sînge"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect: cuvântul pentru a merge în jos", answer: ["coborî", "cobori"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie corect: apa care se găsește în pământ?", answer: ["fântână", "fantana"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „... bună!"", answer: ["Bună"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: '... bună!'", answer: ["Bună"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Scrie corect cuvântul pentru mâncare grea la stozar", answer: ["mâncare", "mancare"] },
         { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie: copilul românesc?", answer: ["român", "roman"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: „... în gură"", answer: ["în"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Completează: '... în gură'", answer: ["în"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -528,16 +528,16 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         mcqs.push(createMCQ("ortografie_c2", "sa_s_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Maria ... dus la școală"", answer: ["s-a", "sa"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Este ... carte"", answer: ["sa"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Copilul ... trezit devreme"", answer: ["s-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A luat ... minge"", answer: ["sa"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Pisica ... ascuns sub pat"", answer: ["s-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A pierdut ... cheie"", answer: ["sa"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Ion ... jucat în parc"", answer: ["s-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Mama ... a venit acasă"", answer: ["sa"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „Elevul ... pregătit de test"", answer: ["s-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: „A văzut ... prietenă"", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Maria ... dus la școală'", answer: ["s-a", "sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Este ... carte'", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Copilul ... trezit devreme'", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'A luat ... minge'", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Pisica ... ascuns sub pat'", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'A pierdut ... cheie'", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Ion ... jucat în parc'", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Mama ... a venit acasă'", answer: ["sa"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'Elevul ... pregătit de test'", answer: ["s-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: 'A văzut ... prietenă'", answer: ["sa"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -549,16 +549,16 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         mcqs.push(createMCQ("ortografie_c2", "ia_i_a_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Mama ... dat o carte"", answer: ["i-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „El ... cartea de pe masă"", answer: ["ia"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Bunica ... spus o poveste"", answer: ["i-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Ana ... creioanele de pe bancă"", answer: ["ia"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Profesoara ... explicat tema"", answer: ["i-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Maria ... caietul și pleacă"", answer: ["ia"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Tata ... cumpărat o jucărie"", answer: ["i-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „El ... mingea din dulap"", answer: ["ia"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Colegul ... invitat la petrecere"", answer: ["i-a"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: „Sofia ... găsit cheia"", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Mama ... dat o carte'", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'El ... cartea de pe masă'", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Bunica ... spus o poveste'", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Ana ... creioanele de pe bancă'", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Profesoara ... explicat tema'", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Maria ... caietul și pleacă'", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Tata ... cumpărat o jucărie'", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'El ... mingea din dulap'", answer: ["ia"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Colegul ... invitat la petrecere'", answer: ["i-a"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Completează: 'Sofia ... găsit cheia'", answer: ["ia"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -570,16 +570,16 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         mcqs.push(createMCQ("ortografie_c2", "sau_s_au_c2", `Completează: '${data.sentence}'`, data.correct, data.wrong, rng));
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Copiii ... jucat în parc"", answer: ["s-au"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Vrei ceai ... cafea?"", answer: ["sau"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Elevii ... pregătit de lecție"", answer: ["s-au"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Mergi pe jos ... cu autobuzul?"", answer: ["sau"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Păsările ... ascuns de ploaie"", answer: ["s-au"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Doi ... trei copii au venit"", answer: ["sau"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Fetele ... întors de la școală"", answer: ["s-au"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Citești ... te joci?"", answer: ["sau"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Băieții ... chinuit după cărți"", answer: ["s-au"] },
-        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: „Pleci cu noi ... rămâi acasă?"", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Copiii ... jucat în parc'", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Vrei ceai ... cafea?'", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Elevii ... pregătit de lecție'", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Mergi pe jos ... cu autobuzul?'", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Păsările ... ascuns de ploaie'", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Doi ... trei copii au venit'", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Fetele ... întors de la școală'", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Citești ... te joci?'", answer: ["sau"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Băieții ... chinuit după cărți'", answer: ["s-au"] },
+        { type: "typing", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Completează: 'Pleci cu noi ... rămâi acasă?'", answer: ["sau"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -604,16 +604,16 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         }
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul propoziției „Maria citește" este...", answer: ["Maria"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul propoziției „Câinele aleargă" este...", answer: ["aleargă"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: „Pisica doarme"", answer: ["Pisica"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: „Copilul mănâncă"", answer: ["mănâncă"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din „Elena pictează o tablă" este...", answer: ["Elena"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din „Păsările cântă frumos" este...", answer: ["cântă"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: „Bunica gătește supa"", answer: ["Bunica"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: „Elevii ascultă lecția"", answer: ["ascultă"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din „Ana dansează frumos" este...", answer: ["Ana"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din „Tata conduce mașina" este...", answer: ["conduce"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul propoziției 'Maria citește' este...", answer: ["Maria"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul propoziției 'Câinele aleargă' este...", answer: ["aleargă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: 'Pisica doarme'", answer: ["Pisica"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: 'Copilul mănâncă'", answer: ["mănâncă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din 'Elena pictează o tablă' este...", answer: ["Elena"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din 'Păsările cântă frumos' este...", answer: ["cântă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie subiectul: 'Bunica gătește supa'", answer: ["Bunica"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Scrie predicatul: 'Elevii ascultă lecția'", answer: ["ascultă"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Subiectul din 'Ana dansează frumos' este...", answer: ["Ana"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Predicatul din 'Tata conduce mașina' este...", answer: ["conduce"] },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -627,14 +627,14 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         mcqs.push(createMCQ("propozitia_c2", "tipuri_prop_c2", `Ce tip de propoziție este: '${data.prop}'?`, data.tip, wrong, rng));
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ana merge la școală"?", answer: ["Enunțiativă", "enuntiativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Unde mergi?"?", answer: ["Interogativă", "interogativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ce frumos este!"?", answer: ["Exclamativă", "exclamativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Vino aici!"?", answer: ["Imperativă", "imperativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ieri a plouat"?", answer: ["Enunțiativă", "enuntiativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Cine a venit?"?", answer: ["Interogativă", "interogativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Ce bine e afară!"?", answer: ["Exclamativă", "exclamativa"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: „Deschide ușa!"?", answer: ["Imperativă", "imperativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Ana merge la școală'?", answer: ["Enunțiativă", "enuntiativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Unde mergi?'?", answer: ["Interogativă", "interogativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Ce frumos este!'?", answer: ["Exclamativă", "exclamativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Vino aici!'?", answer: ["Imperativă", "imperativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Ieri a plouat'?", answer: ["Enunțiativă", "enuntiativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Cine a venit?'?", answer: ["Interogativă", "interogativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Ce bine e afară!'?", answer: ["Exclamativă", "exclamativa"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție: 'Deschide ușa!'?", answer: ["Imperativă", "imperativa"] },
         { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Scrie un exemplu de propoziție enunțiativă", answer: ["este", "merge", "citeste"] },
         { type: "typing", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce cuvânt folosești pentru o propoziție interogativă?", answer: ["unde", "cine", "cum"] },
       ];
@@ -667,9 +667,9 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn folosim pentru o exclamație?", answer: ["!"] },
         { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Cum separăm cuvintele într-o enumerare?", answer: [","] },
         { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn punem la sfârșitul unei comenzi?", answer: ["!"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Unde mergi...?" — ce semn?", answer: ["?"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Ce frumos!..." — ce semn?", answer: ["!"] },
-        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: „Ana merge la școală..." — ce semn?", answer: ["."] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: 'Unde mergi...?' — ce semn?", answer: ["?"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: 'Ce frumos!...' — ce semn?", answer: ["!"] },
+        { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Completează: 'Ana merge la școală...' — ce semn?", answer: ["."] },
         { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Scrie semnele de punctuație cunoscute", answer: [".", "?", "!", ","] },
         { type: "typing", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Cum marcheaza sfarsitul unui enunt?", answer: ["."] },
       ];
