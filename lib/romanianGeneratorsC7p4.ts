@@ -63,6 +63,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const VOCABULAR_FAMILIE = [
@@ -250,6 +255,92 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
   return shuffle(questions, rng).slice(0, 6);
 }
 
+// ─── TYPING QUESTION GENERATORS ────────────────────────────────────────────
+
+function vocabular_familie_lexicala_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { root: "luc-", examples: "lucru, lucrare, lucrător" },
+    { root: "vorbă-", examples: "vorbi, vorbă, cuvânt" },
+    { root: "carte-", examples: "carte, cartiță, cartier" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P4", "vocabular_familie_lexicala", `Din rădăcina "${item.root}" se pot forma cuvintele: ________`, item.examples)
+    );
+  }
+  return questions;
+}
+
+function vocabular_mijloace_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { word: "neînțeles", process: "derivare cu prefix ne-" },
+    { word: "neastâmpărat", process: "derivare cu prefix ne-" },
+    { word: "frumos-frumoasă", process: "schimbare de gen" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P4", "vocabular_mijloace", `Cuvântul "${item.word}" se obține prin: ________`, item.process)
+    );
+  }
+  return questions;
+}
+
+function text_roman_nuvela_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { genre: "roman", trait: "volum mare" },
+    { genre: "nuvela", trait: "volum mic" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P4", "text_roman_nuvela", `Genul literar "${item.genre}" se caracterizează prin: ________`, item.trait)
+    );
+  }
+  return questions;
+}
+
+function text_liric_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { form: "sonet", structure: "14 versuri" },
+    { form: "elegie", structure: "poem de plângere" },
+    { form: "baladă", structure: "poveste narativă în vers" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P4", "text_liric_c7", `Forma lirică "${item.form}" se caracterizează prin: ________`, item.structure)
+    );
+  }
+  return questions;
+}
+
+function text_dramatic_typing(seed = 42): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+  const items = [
+    { element: "scenă", definition: "unitate spațio-temporală" },
+    { element: "actul piesei", definition: "diviziune principală" },
+    { element: "dialog", definition: "vorbire între personaje" },
+  ];
+  for (let i = 0; i < 6; i++) {
+    const item = pick(items, rng);
+    questions.push(
+      createTyping("Romanian-C7-P4", "text_dramatic_c7", `Elementul dramatic "${item.element}" este: ________`, item.definition)
+    );
+  }
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const C7P4_Generators = {
@@ -258,4 +349,9 @@ export const C7P4_Generators = {
   text_roman_nuvela,
   text_liric_c7,
   text_dramatic_c7,
+  vocabular_familie_lexicala_typing,
+  vocabular_mijloace_typing,
+  text_roman_nuvela_typing,
+  text_liric_typing,
+  text_dramatic_typing,
 };
