@@ -1,11 +1,30 @@
 // lib/hungarianGenerators7.ts
-// Hungarian Grade 7 (7. osztály) question generators
-// Advanced topics: Language history, advanced rhetoric, stylistics, language variants, text composition, advanced syntax, communication, media
-// 10 generator functions, each produces 45 questions (30 MCQ + 15 typing)
+// Hungarian Grade 7 (7. osztály) question generators - EXPANDED
+// Advanced topics: Language history, rhetoric, stylistics, variants, composition, syntax, communication, media,
+// literary analysis, pragmatics, multimodal texts, language creativity
+// 25 subtopics: 25 MCQ generators (30 q each) + 25 typing generators (15 q each) = 1125 questions total
 
 import type { CurriculumMCQ } from "./curriculumTypes";
 
 type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+type MagyarTyping = CurriculumMCQ & { type: "typing" };
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string
+): MagyarTyping {
+  return {
+    type: "typing",
+    topic,
+    subtopic,
+    question,
+    answer,
+    options: [],
+    correct: -1,
+  } as MagyarTyping;
+}
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
