@@ -569,6 +569,19 @@ function generateFillGapK4(islandId: string): FillGapRound[] {
       { sentence: "The painting___ which hung in the museum___ was priceless.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas set off a relative clause." },
     ];
   }
+  // Context Comet (i8) - context clues to figure out word meanings
+  if (islandId === "i8") {
+    return [
+      { sentence: "The ___ weather made everyone stay indoors; it rained for three days straight.", options: ["sunny", "inclement", "clear", "pleasant"], correctIndex: 1, explanation: "'Inclement' fits the clue that everyone stayed indoors due to rain." },
+      { sentence: "Her ___ behavior at the party was rude and made everyone uncomfortable.", options: ["polite", "gracious", "uncouth", "friendly"], correctIndex: 2, explanation: "'Uncouth' means rude, which matches the context 'made everyone uncomfortable'." },
+      { sentence: "The old ___ was full of ancient artifacts and treasures.", options: ["gym", "museum", "market", "school"], correctIndex: 1, explanation: "'Museum' is where ancient artifacts are displayed." },
+      { sentence: "He felt ___ after the long day at work and couldn't stay awake.", options: ["energetic", "exhausted", "happy", "confused"], correctIndex: 1, explanation: "'Exhausted' makes sense with 'couldn't stay awake'." },
+      { sentence: "The ___ colors of the sunset were beautiful to watch.", options: ["dull", "bright", "vivid", "pale"], correctIndex: 2, explanation: "'Vivid' describes beautiful, colorful sunsets." },
+      { sentence: "Her ___ comments about the food hurt everyone's feelings.", options: ["kind", "gentle", "cruel", "thoughtful"], correctIndex: 2, explanation: "'Cruel' fits the context that her comments hurt feelings." },
+      { sentence: "The scientist made a ___ discovery that changed the course of medicine.", options: ["tiny", "groundbreaking", "minor", "ordinary"], correctIndex: 1, explanation: "'Groundbreaking' describes a discovery that changed medicine." },
+      { sentence: "The children were ___ with excitement as the holiday approached.", options: ["bored", "elated", "sad", "confused"], correctIndex: 1, explanation: "'Elated' means very happy, matching excitement about the holiday." },
+    ];
+  }
   return [];
 }
 
