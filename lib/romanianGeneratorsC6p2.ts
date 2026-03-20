@@ -151,7 +151,7 @@ const INTERJECTII = [
 
 export const C6P2_Generators = {
   // VERBE — MODURI NEPERSONALE
-  verb_moduri_nepersonale: (seed: number): CurriculumQuestion[] => {
+  verb_moduri_nepersonale: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -183,7 +183,7 @@ export const C6P2_Generators = {
   },
 
   // VERBE — TIMPURI LITERARE
-  verb_timpuri_literare: (seed: number): CurriculumQuestion[] => {
+  verb_timpuri_literare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -205,7 +205,7 @@ export const C6P2_Generators = {
   },
 
   // VERBE — DIATEZE
-  verb_diateze: (seed: number): CurriculumQuestion[] => {
+  verb_diateze: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -224,7 +224,7 @@ export const C6P2_Generators = {
   },
 
   // VERBE — CONJUGARE NEREGULATĂ
-  verb_conjugare_neregulata: (seed: number): CurriculumQuestion[] => {
+  verb_conjugare_neregulata: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -246,7 +246,7 @@ export const C6P2_Generators = {
   },
 
   // VERBE — ACORD SUBIECT-VERB
-  verb_acord: (seed: number): CurriculumQuestion[] => {
+  verb_acord: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -265,7 +265,7 @@ export const C6P2_Generators = {
   },
 
   // ADVERB — TIPURI
-  adverb_tipuri: (seed: number): CurriculumQuestion[] => {
+  adverb_tipuri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -284,7 +284,7 @@ export const C6P2_Generators = {
   },
 
   // PREPOZIȚIE — CAZURI
-  prepozitie_cazuri: (seed: number): CurriculumQuestion[] => {
+  prepozitie_cazuri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -303,7 +303,7 @@ export const C6P2_Generators = {
   },
 
   // CONJUNCȚIE
-  conjunctie: (seed: number): CurriculumQuestion[] => {
+  conjunctie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -322,7 +322,7 @@ export const C6P2_Generators = {
   },
 
   // INTERJECȚIE
-  interjectie: (seed: number): CurriculumQuestion[] => {
+  interjectie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {

@@ -63,6 +63,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, correct };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const SUBSTANTIVE_DECLIN = [
@@ -176,9 +181,13 @@ const PRONUME_RELATIVE = [
 
 export const C6P1_Generators = {
   // SUBSTANTIVE — DECLINARE COMPLETĂ
-  subst_declinare: (seed: number): CurriculumQuestion[] => {
+  subst_declinare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "substantiv_c6";
+    const subtopic = "declinare_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(SUBSTANTIVE_DECLIN, rng);
       const cases = ["Nominativ", "Genitiv", "Dativ", "Acuzativ", "Vocativ"];
@@ -193,8 +202,8 @@ export const C6P1_Generators = {
 
       const otherForms = [item.gen_sg, item.dat_sg, item.acc_sg, item.voc_sg].filter(f => f !== correct);
       const q = createMCQ(
-        "substantiv_c6",
-        "declinare_c6",
+        topic,
+        subtopic,
         `Forma de ${currentCase} a substantivului este:`,
         correct,
         otherForms,
@@ -202,18 +211,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Câte cazuri sunt în limba română?", "cinci"));
+    questions.push(createTyping(topic, subtopic, "Care este cazul subiectului?", "Nominativ"));
+    questions.push(createTyping(topic, subtopic, "Care este cazul complementului direct?", "Acuzativ"));
+    questions.push(createTyping(topic, subtopic, "Care sunt cazurile principale?", "Nominativ, Acuzativ, Genitiv, Dativ, Vocativ"));
+    questions.push(createTyping(topic, subtopic, "Cum se schimbă substantivul în diferite cazuri?", "declinare"));
+    questions.push(createTyping(topic, subtopic, "Care este cazul de apelare?", "Vocativ"));
+    questions.push(createTyping(topic, subtopic, "Ce arată cazul Genitiv?", "posesie"));
+    questions.push(createTyping(topic, subtopic, "Ce arată cazul Dativ?", "beneficiar"));
+
+    return shuffle(questions, rng);
   },
 
   // SUBSTANTIVE — FUNCȚII SINTACTICE
-  subst_functii_sintactice: (seed: number): CurriculumQuestion[] => {
+  subst_functii_sintactice: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "substantiv_c6";
+    const subtopic = "functii_sintactice_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(SUBSTANTIVE_FUNCTII, rng);
       const q = createMCQ(
-        "substantiv_c6",
-        "functii_sintactice_c6",
+        topic,
+        subtopic,
         `În propoziția "${item.prop}", substantivul "${item.subst}" este:`,
         item.functie,
         ["Predicat nominal", "Atribut", "Complement circumstanțial"].filter(x => x !== item.functie),
@@ -221,18 +245,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Ce funcție sintactică are subiectul?", "Subiect"));
+    questions.push(createTyping(topic, subtopic, "Ce este complementul direct?", "obiectul direct al acțiunii"));
+    questions.push(createTyping(topic, subtopic, "Ce este complementul genitival?", "complement cu prepoziția 'de'"));
+    questions.push(createTyping(topic, subtopic, "Ce este complementul indirect?", "obiectul indirect"));
+    questions.push(createTyping(topic, subtopic, "Ce este complementul locativ?", "indică locul acțiunii"));
+    questions.push(createTyping(topic, subtopic, "Ce este atributul?", "determină substantivul"));
+    questions.push(createTyping(topic, subtopic, "Care sunt funcțiile sintactice principale?", "Subiect, Predicat, Complement"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă complementul prepoziție?", "relație cu alt element"));
+
+    return shuffle(questions, rng);
   },
 
   // SUBSTANTIVE — SUBSTANTIVE DEFECTIVE
-  subst_defective: (seed: number): CurriculumQuestion[] => {
+  subst_defective: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "substantiv_c6";
+    const subtopic = "defective_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(SUBSTANTIVE_DEFECTIVE, rng);
       const q = createMCQ(
-        "substantiv_c6",
-        "defective_c6",
+        topic,
+        subtopic,
         `Substantivul "${item.subst}" este defectiv și nu are:`,
         item.forma_lipsa,
         ["gen indicat", "accent tonic", "varianta sinonimă"].filter(x => !item.forma_lipsa.includes(x)),
@@ -240,18 +279,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Ce sunt substantivele defective?", "substantive cu forme lipsă"));
+    questions.push(createTyping(topic, subtopic, "Ce exemple de substantive fără plural?", "datorie, speranță"));
+    questions.push(createTyping(topic, subtopic, "Ce exemple de substantive fără singular?", "sarcini, obiceiuri"));
+    questions.push(createTyping(topic, subtopic, "Care sunt substantivele defective de singular?", "pluralia tantum"));
+    questions.push(createTyping(topic, subtopic, "Care sunt substantivele defective de plural?", "singularia tantum"));
+    questions.push(createTyping(topic, subtopic, "Cum se comportă substantivele defective?", "nu au toți formele"));
+    questions.push(createTyping(topic, subtopic, "Ce inseamnă 'defectiv'?", "incomplet, cu forme lipsă"));
+    questions.push(createTyping(topic, subtopic, "Exemplu de substantiv singular defectiv:", "datorie"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME PERSONALE
-  pronume_personale: (seed: number): CurriculumQuestion[] => {
+  pronume_personale: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "personale_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(PRONUME_PERSONALE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "personale_c6",
+        topic,
+        subtopic,
         `Pronumele "${item.pronume}" este persoana ${item.gen}, numărul ${item.numar}, cazul ${item.caz}. Care din acestea este similar?`,
         `${item.gen}/${item.numar}/${item.caz}`,
         [`2/${item.numar}/${item.caz}`, `${item.gen}/plural/${item.caz}`, `${item.gen}/${item.numar}/Genitiv`],
@@ -259,18 +313,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Câte persoane gramaticale sunt?", "trei"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal pentru persoana 1 singular:", "eu"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal pentru persoana 3 plural:", "ei/ele"));
+    questions.push(createTyping(topic, subtopic, "Care sunt pronumele personale nominative?", "eu, tu, el, ea, noi, voi, ei, ele"));
+    questions.push(createTyping(topic, subtopic, "Ce se schimbă la pronumele personale?", "persoană, număr, caz"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal acuzativ pentru persoana 1:", "mă"));
+    questions.push(createTyping(topic, subtopic, "Câte cazuri are pronumele personal?", "trei: nominativ, acuzativ, dativ"));
+    questions.push(createTyping(topic, subtopic, "Pronumele personal plural nominativ persoana 1:", "noi"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME DEMONSTRATIVE
-  pronume_demonstrative: (seed: number): CurriculumQuestion[] => {
+  pronume_demonstrative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "demonstrative_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(PRONUME_DEMONSTRATIVE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "demonstrative_c6",
+        topic,
+        subtopic,
         `Pronumele demonstrativ "${item.pronume}" se folosește pentru a indica:`,
         item.referinta,
         [`distanță medie (neutră)`, `locuri la distanță mică`, `obiecte care nu se văd`].filter(
@@ -280,18 +349,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Ce sunt pronumele demonstrative?", "indică referință spațială"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ pentru apropiere:", "acesta, aceasta, aceștia, acestea"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ pentru depărtare:", "acela, aceea, aceia, alea"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ neutru apropiere:", "asta"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ neutru depărtare:", "aia"));
+    questions.push(createTyping(topic, subtopic, "Ce indică pronumele demonstrative?", "localizare spațială"));
+    questions.push(createTyping(topic, subtopic, "Care sunt categoriile demonstrativelor?", "apropiere, depărtare, neutru"));
+    questions.push(createTyping(topic, subtopic, "Pronumele demonstrativ 'acesta' indică:", "apropiere"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME POSESIVE
-  pronume_posesive: (seed: number): CurriculumQuestion[] => {
+  pronume_posesive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "posesive_c6";
     const questions: CurriculumQuestion[] = [];
+
+    // MCQ questions (10)
     for (let i = 0; i < 10; i++) {
       const item = pick(PRONUME_POSESIVE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "posesive_c6",
+        topic,
+        subtopic,
         `Pronumele posesiv "${item.pron_poss}" corespunde persoanei:`,
         item.persoana,
         ["3 sg", "1 pl", "2 pl"].filter(x => x !== item.persoana),
@@ -299,18 +383,33 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (8)
+    questions.push(createTyping(topic, subtopic, "Ce sunt pronumele posesive?", "indică posesia"));
+    questions.push(createTyping(topic, subtopic, "Pronumele posesiv pentru persoana 1:", "al meu, a mea"));
+    questions.push(createTyping(topic, subtopic, "Pronumele posesiv pentru persoana 2:", "al tău, a ta"));
+    questions.push(createTyping(topic, subtopic, "Pronumele posesiv pentru persoana 3:", "al lui, al ei, al lor"));
+    questions.push(createTyping(topic, subtopic, "Pronumele posesiv pentru persoana 1 plural:", "al nostru, a noastră"));
+    questions.push(createTyping(topic, subtopic, "Care pronume posesiv e pentru plural 2?", "al vostru, a voastră"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă pronumele posesiv?", "apartenență, proprietate"));
+    questions.push(createTyping(topic, subtopic, "Pronumele posesiv neutru:", "al meu, al tău, al lui"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME REFLEXIVE
-  pronume_reflexive: (seed: number): CurriculumQuestion[] => {
+  pronume_reflexive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "reflexive_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_REFLEXIVE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "reflexive_c6",
+        topic,
+        subtopic,
         `În expresia "${item.verb_ex}", pronumele reflexiv este:`,
         item.pron_ref,
         ["se", "și", "ți"].filter(x => x !== item.pron_ref),
@@ -318,18 +417,40 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce sunt pronumele reflexive?", "indică acțiune asupra subiectului"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv singular acuzativ:", "mă"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv singular dativ:", "mi"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv plural acuzativ:", "ne"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv plural dativ:", "ne"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv persoana 3:", "se"));
+    questions.push(createTyping(topic, subtopic, "Care verbe sunt reflexive?", "a se spăla, a se distra"));
+    questions.push(createTyping(topic, subtopic, "Ce indică pronumele reflexiv?", "subiectul suferă acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Diferența între reflexiv și reciproc:", "reflexiv = subiect singular, reciproc = acțiune între doi"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv al 'noi':", "ne"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv al 'voi':", "vă"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv acuzativ persoana 2:", "te"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv dativ persoana 2:", "ți"));
+    questions.push(createTyping(topic, subtopic, "Ce verb reflexiv exprimă oboseală?", "a se oboși"));
+    questions.push(createTyping(topic, subtopic, "Pronumele reflexiv dativ persoana 1:", "mi"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME INTEROGATIVE
-  pronume_interogative: (seed: number): CurriculumQuestion[] => {
+  pronume_interogative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "interogative_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_INTEROGATIVE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "interogative_c6",
+        topic,
+        subtopic,
         `Pronumele interogativ "${item.intreb}" se folosește pentru a întreba despre:`,
         item.raspuns,
         [`acțiuni trecute`, `calități ale obiectelor`, `relații spațiale`].filter(x => x !== item.raspuns),
@@ -337,18 +458,40 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru persoane:", "cine"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru lucruri:", "ce"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru alegere:", "care"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ acuzativ pentru persoane:", "pe cine"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ dativ pentru persoane:", "cui"));
+    questions.push(createTyping(topic, subtopic, "Ce pronume se folosește în 'Cine ai văzut?':", "cine"));
+    questions.push(createTyping(topic, subtopic, "Ce pronume se folosește în 'Ce vrei?':", "ce"));
+    questions.push(createTyping(topic, subtopic, "Ce pronume se folosește în 'Care dos îți place?':", "care"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă pronumele interogativ?", "cerere de informație"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ genitivul:", "al cui"));
+    questions.push(createTyping(topic, subtopic, "Cum se folosește 'ce' în întrebări?", "pentru lucruri"));
+    questions.push(createTyping(topic, subtopic, "Cum se folosește 'cine' în întrebări?", "pentru persoane"));
+    questions.push(createTyping(topic, subtopic, "Diferența între 'cine' și 'care':", "cine=identitate, care=alegere"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru pozesie:", "al cui"));
+    questions.push(createTyping(topic, subtopic, "Pronumele interogativ cauzal:", "de ce"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME NEHOTĂRÂTE
-  pronume_nehotarate: (seed: number): CurriculumQuestion[] => {
+  pronume_nehotarate: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "nehotarate_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_NEHOTARATE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "nehotarate_c6",
+        topic,
+        subtopic,
         `În propoziția "${item.exemplu}", pronumele nehotărat este:`,
         item.pron,
         [`ceva-l`, `cineva-i`, `fiecine`].filter(x => x !== item.pron),
@@ -356,18 +499,40 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru persoane:", "cineva"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru lucruri:", "ceva"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat universal:", "oricine"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru iterare:", "fiecare"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru orice:", "orice"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă pronumele nehotărat?", "nedeterminare, generalitate"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat genitivul:", "al cui"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat acuzativ pentru persoane:", "pe cineva"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat dativ:", "cuiva"));
+    questions.push(createTyping(topic, subtopic, "Cum se folosește 'cineva'?", "pentru persoane nedeterminate"));
+    questions.push(createTyping(topic, subtopic, "Cum se folosește 'ceva'?", "pentru lucruri nedeterminate"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru 'toți':", "toți, toate"));
+    questions.push(createTyping(topic, subtopic, "Diferența între 'cineva' și 'oricine':", "cineva=o persoană, oricine=absolut oricine"));
+    questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru 'niciun':", "nimeni"));
+    questions.push(createTyping(topic, subtopic, "Cum se formează pronumele nehotărat?", "din pronume fundamentale + sufixe"));
+
+    return shuffle(questions, rng);
   },
 
   // PRONUME — PRONUME RELATIVE
-  pronume_relative: (seed: number): CurriculumQuestion[] => {
+  pronume_relative: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "pronume_c6";
+    const subtopic = "relative_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_RELATIVE, rng);
       const q = createMCQ(
-        "pronume_c6",
-        "relative_c6",
+        topic,
+        subtopic,
         `Pronumele relativ "${item.pron_rel}" se referă la:`,
         item.antecedent,
         [`modalitate`, `timp`, `cauză`].filter(x => x !== item.antecedent),
@@ -375,6 +540,24 @@ export const C6P1_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ universal:", "care"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ pentru persoane:", "care"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ pentru lucruri:", "care"));
+    questions.push(createTyping(topic, subtopic, "Ce role au pronumele relative?", "introduc fraze subordonate atributive"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ genitivul:", "al cui"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ dativul:", "căruia"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ acuzativul:", "pe care"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ nominativul:", "care"));
+    questions.push(createTyping(topic, subtopic, "Ce introduce pronumele relativ?", "frază subordonată relativă"));
+    questions.push(createTyping(topic, subtopic, "Diferența între 'care' relativ și interogativ:", "relativ=subordinat, interogativ=întrebare"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ pentru 'cine':", "care"));
+    questions.push(createTyping(topic, subtopic, "Cum se acordă pronumele relativ?", "cu antecedentul"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ referință neutrală:", "care"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ pozesiv:", "al cui"));
+    questions.push(createTyping(topic, subtopic, "Pronumele relativ introductor de frază:", "care"));
+
+    return shuffle(questions, rng);
   },
 };

@@ -136,7 +136,7 @@ const SINTAXA_SUBORD_ATRIBUTIVE = [
 
 export const C6P3_Generators = {
   // SINTAXĂ — SUBIECT
-  sintaxa_subiect: (seed: number): CurriculumQuestion[] => {
+  sintaxa_subiect: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -155,7 +155,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — PREDICAT VERBAL
-  sintaxa_predicat_verbal: (seed: number): CurriculumQuestion[] => {
+  sintaxa_predicat_verbal: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -174,7 +174,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — PREDICAT NOMINAL
-  sintaxa_predicat_nominal: (seed: number): CurriculumQuestion[] => {
+  sintaxa_predicat_nominal: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -193,7 +193,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — COMPLEMENT DIRECT
-  sintaxa_complement_direct: (seed: number): CurriculumQuestion[] => {
+  sintaxa_complement_direct: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -212,7 +212,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — COMPLEMENT INDIRECT
-  sintaxa_complement_indirect: (seed: number): CurriculumQuestion[] => {
+  sintaxa_complement_indirect: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -231,7 +231,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — COMPLEMENT CIRCUMSTANȚIAL
-  sintaxa_complement_circumstantial: (seed: number): CurriculumQuestion[] => {
+  sintaxa_complement_circumstantial: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -250,7 +250,7 @@ export const C6P3_Generators = {
   },
 
   // SINTAXĂ — ATRIBUT
-  sintaxa_atribut: (seed: number): CurriculumQuestion[] => {
+  sintaxa_atribut: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -269,7 +269,7 @@ export const C6P3_Generators = {
   },
 
   // FRAZĂ — SUBORDONATE COMPLETIVE
-  fraza_subord_completive: (seed: number): CurriculumQuestion[] => {
+  fraza_subord_completive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -288,7 +288,7 @@ export const C6P3_Generators = {
   },
 
   // FRAZĂ — SUBORDONATE CIRCUMSTANȚIALE
-  fraza_subord_circumstantiale: (seed: number): CurriculumQuestion[] => {
+  fraza_subord_circumstantiale: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -307,7 +307,7 @@ export const C6P3_Generators = {
   },
 
   // FRAZĂ — SUBORDONATE ATRIBUTIVE
-  fraza_subord_atributive: (seed: number): CurriculumQuestion[] => {
+  fraza_subord_atributive: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {

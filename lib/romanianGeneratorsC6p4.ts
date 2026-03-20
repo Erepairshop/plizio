@@ -145,7 +145,7 @@ const TEXT_LECTURA_NONLITERARE = [
 
 export const C6P4_Generators = {
   // VOCABULAR — POLISEMIE
-  vocabular_polisemie: (seed: number): CurriculumQuestion[] => {
+  vocabular_polisemie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -167,7 +167,7 @@ export const C6P4_Generators = {
   },
 
   // VOCABULAR — OMONIMIE
-  vocabular_omonimie: (seed: number): CurriculumQuestion[] => {
+  vocabular_omonimie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -188,7 +188,7 @@ export const C6P4_Generators = {
   },
 
   // VOCABULAR — DERIVARE AVANSATĂ
-  vocabular_derivare: (seed: number): CurriculumQuestion[] => {
+  vocabular_derivare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -209,7 +209,7 @@ export const C6P4_Generators = {
   },
 
   // VOCABULAR — LOCUȚIUNI
-  vocabular_locutiuni: (seed: number): CurriculumQuestion[] => {
+  vocabular_locutiuni: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -228,7 +228,7 @@ export const C6P4_Generators = {
   },
 
   // VOCABULAR — NEOLOGISME
-  vocabular_neologisme: (seed: number): CurriculumQuestion[] => {
+  vocabular_neologisme: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -247,7 +247,7 @@ export const C6P4_Generators = {
   },
 
   // VOCABULAR — CÂMPURI SEMANTICE
-  vocabular_campuri_semantice: (seed: number): CurriculumQuestion[] => {
+  vocabular_campuri_semantice: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -268,7 +268,7 @@ export const C6P4_Generators = {
   },
 
   // TEXT & LECTURĂ — GENURI LITERARE
-  text_lectura_genuri: (seed: number): CurriculumQuestion[] => {
+  text_lectura_genuri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -289,7 +289,7 @@ export const C6P4_Generators = {
   },
 
   // TEXT & LECTURĂ — MODURI DE EXPUNERE
-  text_lectura_moduri: (seed: number): CurriculumQuestion[] => {
+  text_lectura_moduri: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -308,7 +308,7 @@ export const C6P4_Generators = {
   },
 
   // TEXT & LECTURĂ — ANALIZĂ PERSONAJE
-  text_lectura_personaje: (seed: number): CurriculumQuestion[] => {
+  text_lectura_personaje: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
@@ -327,7 +327,7 @@ export const C6P4_Generators = {
   },
 
   // TEXT & LECTURĂ — TEXTE NONLITERARE
-  text_lectura_nonliterare: (seed: number): CurriculumQuestion[] => {
+  text_lectura_nonliterare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
     for (let i = 0; i < 10; i++) {
