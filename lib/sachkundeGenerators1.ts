@@ -44,7 +44,8 @@ function createMCQ(
   subtopic: string,
   question: string,
   correct: string,
-  wrongOptions: string[]
+  wrongOptions: string[],
+  rng?: () => number
 ): CurriculumMCQ {
   const seen = new Set<string>();
   const unique: string[] = [];
@@ -54,7 +55,8 @@ function createMCQ(
       unique.push(w);
     }
   }
-  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  const randomFn = rng || (() => Math.random());
+  const opts = shuffle([correct, ...unique.slice(0, 3)], randomFn);
   return {
     type: "mcq",
     topic,
@@ -240,7 +242,7 @@ const SAFETY_RULES = [
 // ─── GENERATOR FUNCTIONS ────────────────────────────────────────────────────
 
 export function generateKörperteile(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -250,21 +252,21 @@ export function generateKörperteile(seed?: number): CurriculumMCQ[] {
       const correct = pick(BODY_PARTS, rng);
       const wrong = BODY_PARTS.filter(p => p !== correct).sort(() => rng() - 0.5).slice(0, 3);
       q.push(createMCQ("sachkunde", "körperteile",
-        `Welcher Körperteil ist zum Sehen?`, "Auge", ["Ohr", "Nase", "Mund"]));
+        `Welcher Körperteil ist zum Sehen?`, "Auge", ["Ohr", "Nase", "Mund"], rng));
     } else if (type === 1) {
       // Welche Funktion hat dieser Körperteil?
       const part = pick(Object.keys(BODY_PART_FUNCTIONS) as Array<keyof typeof BODY_PART_FUNCTIONS>, rng);
       const correct = BODY_PART_FUNCTIONS[part];
       const wrongFuncs = Object.values(BODY_PART_FUNCTIONS).filter(f => f !== correct).slice(0, 3);
       q.push(createMCQ("sachkunde", "körperteile",
-        `Wozu ist der ${part} da?`, correct, wrongFuncs));
+        `Wozu ist der ${part} da?`, correct, wrongFuncs, rng));
     } else {
       // Bild-Text Zuordnung
       const parts = ["Kopf", "Auge", "Nase", "Ohr", "Mund"];
       const p = pick(parts, rng);
-      const correctAnswer = { "Kopf": "oben am Körper", "Auge": "zum Sehen", "Nase": "zum Riechen", "Ohr": "zum Hören", "Mund": "zum Essen" }[p];
+      const correctAnswer = { "Kopf": "oben am Körper", "Auge": "zum Sehen", "Nase": "zum Riechen", "Ohr": "zum Hören", "Mund": "zum Essen" }[p] || "";
       q.push(createMCQ("sachkunde", "körperteile",
-        `Wo ist der ${p}?`, correctAnswer, ["unten am Körper", "in der Mitte", "überall"]));
+        `Wo ist der ${p}?`, correctAnswer, ["unten am Körper", "in der Mitte", "überall"], rng));
     }
   }
 
@@ -272,7 +274,7 @@ export function generateKörperteile(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateSinnesorgane(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -283,19 +285,19 @@ export function generateSinnesorgane(seed?: number): CurriculumMCQ[] {
       const correct = data.ability;
       const wrong = SENSES.filter(s => s.ability !== correct).map(s => s.ability).slice(0, 3);
       q.push(createMCQ("sachkunde", "sinnesorgane",
-        `Das ${data.sense} ist zum ${data.ability}. Was nimmt man damit wahr?`, data.sensation, ["Farben", "Geräusche", "Gerüche"]));
+        `Das ${data.sense} ist zum ${data.ability}. Was nimmt man damit wahr?`, data.sensation, ["Farben", "Geräusche", "Gerüche"], rng));
     } else if (type === 1) {
       // Welcher Sinn für diese Empfindung?
       const sensations = ["Wärme fühlen", "süß schmecken", "Musik hören", "Blumen riechen"];
       const correct = pick(sensations, rng);
       const senses = ["Haut", "Zunge", "Ohr", "Nase"];
       q.push(createMCQ("sachkunde", "sinnesorgane",
-        `Welches Sinnesorgan brauchst du zum ${correct}?`, senses[sensations.indexOf(correct)], senses.filter((_, idx) => idx !== sensations.indexOf(correct)).slice(0, 3)));
+        `Welches Sinnesorgan brauchst du zum ${correct}?`, senses[sensations.indexOf(correct)], senses.filter((_, idx) => idx !== sensations.indexOf(correct)).slice(0, 3), rng));
     } else {
       // Sinnesorgane-Beschreibung
       const correct = "das Auge";
       q.push(createMCQ("sachkunde", "sinnesorgane",
-        `Mit welchem Sinnesorgan siehst du Farben und Formen?`, correct, ["dem Ohr", "der Nase", "der Zunge"]));
+        `Mit welchem Sinnesorgan siehst du Farben und Formen?`, correct, ["dem Ohr", "der Nase", "der Zunge"], rng));
     }
   }
 
@@ -303,7 +305,7 @@ export function generateSinnesorgane(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateGesundheitHygiene(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -314,19 +316,19 @@ export function generateGesundheitHygiene(seed?: number): CurriculumMCQ[] {
       const correct = data.when;
       const wrong = ["nur sonntags", "nie", "einmal im Monat"];
       q.push(createMCQ("sachkunde", "gesundheit_hygiene",
-        `Wann sollte man ${data.activity}?`, correct, wrong));
+        `Wann sollte man ${data.activity}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Womit macht man das?
       const data = pick(HYGIENE_ACTIVITIES, rng);
       const correct = data.tool;
       const wrong = ["Bürste", "Papier", "Tuch"];
       q.push(createMCQ("sachkunde", "gesundheit_hygiene",
-        `Womit ${data.activity}?`, correct, wrong));
+        `Womit ${data.activity}?`, correct, wrong, rng));
     } else {
       // Warum ist das wichtig?
       const reasons = ["gesund bleiben", "Krankheiten vermeiden", "sich saubermachen"];
       q.push(createMCQ("sachkunde", "gesundheit_hygiene",
-        `Warum solltest du deine Hände waschen?`, "um Krankheiten zu vermeiden", ["zum Spaß", "nur wenn sie schmutzig sind", "nie"]));
+        `Warum solltest du deine Hände waschen?`, "um Krankheiten zu vermeiden", ["zum Spaß", "nur wenn sie schmutzig sind", "nie"], rng));
     }
   }
 
@@ -334,7 +336,7 @@ export function generateGesundheitHygiene(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateHaustiere(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -345,21 +347,21 @@ export function generateHaustiere(seed?: number): CurriculumMCQ[] {
       const correct = data.sound;
       const wrong = DOMESTIC_ANIMALS.filter(a => a.animal !== data.animal).map(a => a.sound).slice(0, 3);
       q.push(createMCQ("sachkunde", "haustiere",
-        `Welches Geräusch macht ein ${data.animal}?`, correct, wrong));
+        `Welches Geräusch macht ein ${data.animal}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Was frisst das Tier?
       const data = pick(DOMESTIC_ANIMALS, rng);
       const correct = data.food;
       const wrong = ["Fleisch", "Gras", "Körner"];
       q.push(createMCQ("sachkunde", "haustiere",
-        `Was frisst eine ${data.animal}?`, correct, wrong));
+        `Was frisst eine ${data.animal}?`, correct, wrong, rng));
     } else {
       // Wo wohnt das Tier?
       const data = pick(DOMESTIC_ANIMALS, rng);
       const correct = data.home;
       const wrong = ["im Baum", "im Wasser", "unter der Erde"];
       q.push(createMCQ("sachkunde", "haustiere",
-        `Wo wohnt ein ${data.animal}?`, correct, wrong));
+        `Wo wohnt ein ${data.animal}?`, correct, wrong, rng));
     }
   }
 
@@ -367,7 +369,7 @@ export function generateHaustiere(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWildeTiere(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -378,18 +380,18 @@ export function generateWildeTiere(seed?: number): CurriculumMCQ[] {
       const correct = data.habitat;
       const wrong = ["im Wasser", "in der Stadt", "in der Wüste"];
       q.push(createMCQ("sachkunde", "wilde_tiere",
-        `Wo lebt ein ${data.animal}?`, correct, wrong));
+        `Wo lebt ein ${data.animal}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Was ist eine Eigenschaft des Tieres?
       const data = pick(WILD_ANIMALS, rng);
       const correct = data.characteristic;
       const wrong = ["klein und süß", "flugfähig", "lebt im Wasser"];
       q.push(createMCQ("sachkunde", "wilde_tiere",
-        `Was ist typisch für einen ${data.animal}?`, correct, wrong));
+        `Was ist typisch für einen ${data.animal}?`, correct, wrong, rng));
     } else {
       // Welches Tier ist das?
       q.push(createMCQ("sachkunde", "wilde_tiere",
-        `Welches Tier hat ein langes Rüssel?`, "Elefant", ["Löwe", "Tiger", "Bär"]));
+        `Welches Tier hat ein langes Rüssel?`, "Elefant", ["Löwe", "Tiger", "Bär"], rng));
     }
   }
 
@@ -397,7 +399,7 @@ export function generateWildeTiere(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateTierlaute(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -408,14 +410,14 @@ export function generateTierlaute(seed?: number): CurriculumMCQ[] {
       const correct = data.animal;
       const wrong = ANIMAL_SOUNDS.filter(s => s.animal !== correct).map(s => s.animal).slice(0, 3);
       q.push(createMCQ("sachkunde", "tierlaute",
-        `Welches Tier macht "${data.sound}"?`, correct, wrong));
+        `Welches Tier macht "${data.sound}"?`, correct, wrong, rng));
     } else {
       // Welches Geräusch macht das Tier?
       const data = pick(ANIMAL_SOUNDS, rng);
       const correct = data.sound;
       const wrong = ANIMAL_SOUNDS.filter(s => s.animal !== data.animal).map(s => s.sound).slice(0, 3);
       q.push(createMCQ("sachkunde", "tierlaute",
-        `Welches Geräusch macht ein ${data.animal}?`, correct, wrong));
+        `Welches Geräusch macht ein ${data.animal}?`, correct, wrong, rng));
     }
   }
 
@@ -423,7 +425,7 @@ export function generateTierlaute(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateJahreszeitenNatur(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -431,21 +433,21 @@ export function generateJahreszeitenNatur(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // Welche Jahreszeit ist das?
       const data = pick(SEASONS, rng);
-      const correct = data.season;
-      const wrong = SEASONS.filter(s => s.season !== correct).map(s => s.season).slice(0, 3);
+      const correct = data.season || "Frühling";
+      const wrong = SEASONS.filter(s => s.season !== correct).map(s => s.season || "Frühling").slice(0, 3);
       q.push(createMCQ("sachkunde", "jahreszeiten_natur",
-        `In welcher Jahreszeit ist es ${data.characteristic}?`, correct, wrong));
+        `In welcher Jahreszeit ist es ${data.characteristic || "schön"}?`, correct, wrong, rng));
     } else if (type === 1) {
       // In welchen Monaten?
       const data = pick(SEASONS, rng);
-      const correct = data.months;
+      const correct = data.months || "März, April, Mai";
       const wrong = ["Januar, Februar, März", "Juli, August, September", "Oktober, November, Dezember"];
       q.push(createMCQ("sachkunde", "jahreszeiten_natur",
-        `In welchen Monaten ist ${data.season}?`, correct, wrong));
+        `In welchen Monaten ist ${data.season || "Frühling"}?`, correct, wrong, rng));
     } else {
       // Wetter in der Jahreszeit
       q.push(createMCQ("sachkunde", "jahreszeiten_natur",
-        `Wann ist es kalt und schneig?`, "Winter", ["Frühling", "Sommer", "Herbst"]));
+        `Wann ist es kalt und schneig?`, "Winter", ["Frühling", "Sommer", "Herbst"], rng));
     }
   }
 
@@ -453,7 +455,7 @@ export function generateJahreszeitenNatur(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateBäume(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -461,23 +463,23 @@ export function generateBäume(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // Welche Früchte gibt dieser Baum?
       const data = pick(TREES, rng);
-      const correct = data.fruit;
+      const correct = data.fruit || "Apfel";
       const wrong = ["Äpfel", "Birnen", "Kirschen"];
       q.push(createMCQ("sachkunde", "bäume",
-        `Welche Früchte gibt ein ${data.tree}-Baum?`, correct, wrong));
+        `Welche Früchte gibt ein ${data.tree || "Baum"}-Baum?`, correct, wrong, rng));
     } else if (type === 1) {
       // Wie sehen die Blätter aus?
       const data = pick(TREES, rng);
-      const correct = data.leaves;
+      const correct = data.leaves || "grün und länglich";
       const wrong = ["rot und klein", "gelb und hart", "blau und glatt"];
       q.push(createMCQ("sachkunde", "bäume",
-        `Wie sehen die Blätter einer ${data.tree} aus?`, correct, wrong));
+        `Wie sehen die Blätter einer ${data.tree || "Eiche"} aus?`, correct, wrong, rng));
     } else {
       // Baumteile
       const part = pick(TREE_PARTS, rng);
-      const correctDef = { "Wurzel": "unter der Erde", "Stamm": "der Hauptteil des Baumes", "Blatt": "grüne Teile" }[part] || "Teil des Baumes";
+      const correctDef = ({ "Wurzel": "unter der Erde", "Stamm": "der Hauptteil des Baumes", "Blatt": "grüne Teile" } as Record<string, string>)[part || "Stamm"] || "Teil des Baumes";
       q.push(createMCQ("sachkunde", "bäume",
-        `Was ist die ${part} eines Baumes?`, correctDef, ["oben in der Luft", "unten im Wasser", "auf den Ästen"]));
+        `Was ist die ${part || "Wurzel"} eines Baumes?`, correctDef, ["oben in der Luft", "unten im Wasser", "auf den Ästen"], rng));
     }
   }
 
@@ -485,7 +487,7 @@ export function generateBäume(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateBlütenFrüchte(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -497,22 +499,22 @@ export function generateBlütenFrüchte(seed?: number): CurriculumMCQ[] {
         const correct = data.color;
         const wrong = ["blau", "schwarz", "silber"];
         q.push(createMCQ("sachkunde", "blueten_fruechte",
-          `Welche Farbe hat eine ${data.plant}?`, correct, wrong));
+          `Welche Farbe hat eine ${data.plant}?`, correct, wrong, rng));
       } else {
         q.push(createMCQ("sachkunde", "blueten_fruechte",
-          `Wann sind ${data.plant}n reif?`, data.season || "im Sommer", ["im Winter", "im Frühling", "nie"]));
+          `Wann sind ${data.plant}n reif?`, data.season || "im Sommer", ["im Winter", "im Frühling", "nie"], rng));
       }
     } else if (type === 1) {
       // Wann ist das Obst reif?
       const data = pick(FLOWERS_FRUITS.filter(f => f.season), rng);
-      const correct = data.season;
+      const correct = data.season || "im Sommer";
       const wrong = ["Winter", "Frühling", "Herbst"];
       q.push(createMCQ("sachkunde", "blueten_fruechte",
-        `Wann sind ${data.plant}n reif?`, correct, wrong));
+        `Wann sind ${data.plant}n reif?`, correct, wrong, rng));
     } else {
       // Ist das eine Blume oder ein Obst?
       q.push(createMCQ("sachkunde", "blueten_fruechte",
-        `Ist eine Rose eine Blume oder ein Obst?`, "Blume", ["Obst", "Gemüse", "Baum"]));
+        `Ist eine Rose eine Blume oder ein Obst?`, "Blume", ["Obst", "Gemüse", "Baum"], rng));
     }
   }
 
@@ -520,7 +522,7 @@ export function generateBlütenFrüchte(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWetter(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -531,7 +533,7 @@ export function generateWetter(seed?: number): CurriculumMCQ[] {
       const correct = data.feeling;
       const wrong = ["heiß", "kühl", "nass"];
       q.push(createMCQ("sachkunde", "wetter",
-        `Wie ist das Wetter bei ${data.weather}?`, correct, wrong));
+        `Wie ist das Wetter bei ${data.weather}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Welches Wetter ist das?
       const weatherDescriptions = [
@@ -541,11 +543,11 @@ export function generateWetter(seed?: number): CurriculumMCQ[] {
       ];
       const data = pick(weatherDescriptions, rng);
       q.push(createMCQ("sachkunde", "wetter",
-        `Welches Wetter ist das? ${data.description}`, data.weather, ["Regen", "Schnee", "Sonne"]));
+        `Welches Wetter ist das? ${data.description}`, data.weather, ["Regen", "Schnee", "Sonne"], rng));
     } else {
       // Was brauche ich bei Regen?
       q.push(createMCQ("sachkunde", "wetter",
-        `Was brauchst du bei Regen?`, "Regenschirm", ["Sonnenbrille", "Sonnencrème", "Hut"]));
+        `Was brauchst du bei Regen?`, "Regenschirm", ["Sonnenbrille", "Sonnencrème", "Hut"], rng));
     }
   }
 
@@ -553,7 +555,7 @@ export function generateWetter(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateJahreszeitenDetail(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -570,15 +572,15 @@ export function generateJahreszeitenDetail(seed?: number): CurriculumMCQ[] {
       const correct = seasonEvents[season];
       const wrong = ["Blüten blühen", "Blätter wachsen", "Schnee schmilzt"];
       q.push(createMCQ("sachkunde", "jahreszeiten_detail",
-        `Was passiert im ${season}?`, correct, wrong));
+        `Was passiert im ${season}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Welche Kleidung im Winter?
       q.push(createMCQ("sachkunde", "jahreszeiten_detail",
-        `Was zieht man im Winter an?`, "Mantel und Schal", ["kurze Hose", "T-Shirt", "Sandalen"]));
+        `Was zieht man im Winter an?`, "Mantel und Schal", ["kurze Hose", "T-Shirt", "Sandalen"], rng));
     } else {
       // Temperatur
       q.push(createMCQ("sachkunde", "jahreszeiten_detail",
-        `In welcher Jahreszeit ist es am kältesten?`, "Winter", ["Frühling", "Sommer", "Herbst"]));
+        `In welcher Jahreszeit ist es am kältesten?`, "Winter", ["Frühling", "Sommer", "Herbst"], rng));
     }
   }
 
@@ -586,7 +588,7 @@ export function generateJahreszeitenDetail(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateMonateTage(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -597,7 +599,7 @@ export function generateMonateTage(seed?: number): CurriculumMCQ[] {
       const correct = day;
       const wrong = DAYS_OF_WEEK.filter(d => d !== day).slice(0, 3);
       q.push(createMCQ("sachkunde", "monate_tage",
-        `Nach Freitag kommt...?`, "Samstag", DAYS_OF_WEEK.filter(d => d !== "Samstag").slice(0, 3)));
+        `Nach Freitag kommt...?`, "Samstag", DAYS_OF_WEEK.filter(d => d !== "Samstag").slice(0, 3), rng));
     } else if (type === 1) {
       // Welcher Monat?
       const month = pick(MONTHS, rng);
@@ -605,11 +607,11 @@ export function generateMonateTage(seed?: number): CurriculumMCQ[] {
       const correct = month;
       const wrong = MONTHS.filter(m => m !== month).slice(0, 3);
       q.push(createMCQ("sachkunde", "monate_tage",
-        `Welcher Monat hat 30 Tage?`, "April", MONTHS.filter(m => m !== "April").slice(0, 3)));
+        `Welcher Monat hat 30 Tage?`, "April", MONTHS.filter(m => m !== "April").slice(0, 3), rng));
     } else {
       // Wann ist dein Geburtstag?
       q.push(createMCQ("sachkunde", "monate_tage",
-        `Welche Tage hat eine Woche?`, "7 Tage", ["5 Tage", "6 Tage", "10 Tage"]));
+        `Welche Tage hat eine Woche?`, "7 Tage", ["5 Tage", "6 Tage", "10 Tage"], rng));
     }
   }
 
@@ -617,7 +619,7 @@ export function generateMonateTage(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateFamilie(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -628,15 +630,15 @@ export function generateFamilie(seed?: number): CurriculumMCQ[] {
       const correct = data.member;
       const wrong = FAMILY_MEMBERS.filter(m => m.member !== correct).map(m => m.member).slice(0, 3);
       q.push(createMCQ("sachkunde", "familie",
-        `Wer ist dein Elternteil (männlich)?`, "Vater", ["Mutter", "Bruder", "Schwester"]));
+        `Wer ist dein Elternteil (männlich)?`, "Vater", ["Mutter", "Bruder", "Schwester"], rng));
     } else if (type === 1) {
       // Familienbeziehung
       q.push(createMCQ("sachkunde", "familie",
-        `Die Mutter deines Vaters ist deine...?`, "Großmutter", ["Tante", "Oma", "Schwester"]));
+        `Die Mutter deines Vaters ist deine...?`, "Großmutter", ["Tante", "Oma", "Schwester"], rng));
     } else {
       // Familienmitglieder
       q.push(createMCQ("sachkunde", "familie",
-        `Wie viele Großeltern hast du?`, "vier (zwei Großväter und zwei Großmütter)", ["zwei", "acht", "eins"]));
+        `Wie viele Großeltern hast du?`, "vier (zwei Großväter und zwei Großmütter)", ["zwei", "acht", "eins"], rng));
     }
   }
 
@@ -644,7 +646,7 @@ export function generateFamilie(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateZuhause(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -655,18 +657,18 @@ export function generateZuhause(seed?: number): CurriculumMCQ[] {
       const correct = data.purpose;
       const wrong = ["zum Schlafen", "zum Kochen", "zum Spielen"];
       q.push(createMCQ("sachkunde", "zuhause",
-        `Wozu ist die ${data.room}?`, correct, wrong));
+        `Wozu ist die ${data.room}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Was ist in diesem Zimmer?
       const data = pick(ROOMS, rng);
       const correct = data.furniture;
       const wrong = ["Bett und Schrank", "Herd und Kühlschrank", "Tisch und Stuhl"];
       q.push(createMCQ("sachkunde", "zuhause",
-        `Was ist in der ${data.room}?`, correct, wrong));
+        `Was ist in der ${data.room}?`, correct, wrong, rng));
     } else {
       // Welches Zimmer?
       q.push(createMCQ("sachkunde", "zuhause",
-        `Wo machst du dein Frühstück?`, "in der Küche", ["im Badezimmer", "im Schlafzimmer", "im Wohnzimmer"]));
+        `Wo machst du dein Frühstück?`, "in der Küche", ["im Badezimmer", "im Schlafzimmer", "im Wohnzimmer"], rng));
     }
   }
 
@@ -674,7 +676,7 @@ export function generateZuhause(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateRegelnVerhalten(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -685,15 +687,15 @@ export function generateRegelnVerhalten(seed?: number): CurriculumMCQ[] {
       const correct = data.context;
       const wrong = ["immer", "nie", "nur am Wochenende"];
       q.push(createMCQ("sachkunde", "regeln_verhalten",
-        `Wann solltest du "${data.behavior}" sagen?`, correct, wrong));
+        `Wann solltest du "${data.behavior}" sagen?`, correct, wrong, rng));
     } else if (type === 1) {
       // Was ist höflich?
       q.push(createMCQ("sachkunde", "regeln_verhalten",
-        `Ist es höflich zu sagen "Bitte"?`, "Ja, sehr höflich", ["Nein, unhöflich", "manchmal", "nie"]));
+        `Ist es höflich zu sagen "Bitte"?`, "Ja, sehr höflich", ["Nein, unhöflich", "manchmal", "nie"], rng));
     } else {
       // Warum teilen?
       q.push(createMCQ("sachkunde", "regeln_verhalten",
-        `Warum sollst du Spielzeug teilen?`, "um Freunde zu haben", ["um allein zu sein", "weil es langweilig ist", "um andere zu ärgern"]));
+        `Warum sollst du Spielzeug teilen?`, "um Freunde zu haben", ["um allein zu sein", "weil es langweilig ist", "um andere zu ärgern"], rng));
     }
   }
 
@@ -701,7 +703,7 @@ export function generateRegelnVerhalten(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -712,21 +714,21 @@ export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
       const correct = String(data.wheels);
       const wrong = ["2", "4", "8"];
       q.push(createMCQ("sachkunde", "verkehrsmittel",
-        `Wie viele Räder hat ein ${data.vehicle}?`, correct, wrong));
+        `Wie viele Räder hat ein ${data.vehicle}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Womit fährt dieses Fahrzeug?
       const data = pick(VEHICLES, rng);
       if (data.powered) {
         q.push(createMCQ("sachkunde", "verkehrsmittel",
-          `Womit fährt ein ${data.vehicle}?`, data.fuel, ["Muskelkraft", "Wind", "Wasser"]));
+          `Womit fährt ein ${data.vehicle}?`, data.fuel || "Energie", ["Muskelkraft", "Wind", "Wasser"], rng));
       } else {
         q.push(createMCQ("sachkunde", "verkehrsmittel",
-          `Womit fährst du ein ${data.vehicle}?`, "Muskelkraft (Tretkraft)", ["Benzin", "Strom", "Wind"]));
+          `Womit fährst du ein ${data.vehicle}?`, "Muskelkraft (Tretkraft)", ["Benzin", "Strom", "Wind"], rng));
       }
     } else {
       // Welches Verkehrsmittel?
       q.push(createMCQ("sachkunde", "verkehrsmittel",
-        `Mit welchem Fahrzeug fliegen wir?`, "Flugzeug", ["Auto", "Fahrrad", "Bus"]));
+        `Mit welchem Fahrzeug fliegen wir?`, "Flugzeug", ["Auto", "Fahrrad", "Bus"], rng));
     }
   }
 
@@ -734,7 +736,7 @@ export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateVerkehrsregeln(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -742,15 +744,15 @@ export function generateVerkehrsregeln(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // Was bedeutet die Ampel?
       q.push(createMCQ("sachkunde", "verkehrsregeln",
-        `Was bedeutet eine rote Ampel?`, "Halt! Du darfst nicht gehen", ["Vorsicht!", "Du darfst gehen", "Schnell gehen"]));
+        `Was bedeutet eine rote Ampel?`, "Halt! Du darfst nicht gehen", ["Vorsicht!", "Du darfst gehen", "Schnell gehen"], rng));
     } else if (type === 1) {
       // Wo solltest du gehen?
       q.push(createMCQ("sachkunde", "verkehrsregeln",
-        `Wo sollst du als Fußgänger gehen?`, "auf dem Gehweg", ["auf der Straße", "auf der Fahrbahn", "überall"]));
+        `Wo sollst du als Fußgänger gehen?`, "auf dem Gehweg", ["auf der Straße", "auf der Fahrbahn", "überall"], rng));
     } else {
       // Wo überquerst du die Straße sicher?
       q.push(createMCQ("sachkunde", "verkehrsregeln",
-        `Wo überquerst du die Straße sicher?`, "beim Fußgängerüberweg", ["überall", "zwischen parkenden Autos", "schnell rennen"]));
+        `Wo überquerst du die Straße sicher?`, "beim Fußgängerüberweg", ["überall", "zwischen parkenden Autos", "schnell rennen"], rng));
     }
   }
 
@@ -758,7 +760,7 @@ export function generateVerkehrsregeln(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateSicherheit(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -766,15 +768,15 @@ export function generateSicherheit(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // Was ist gefährlich?
       q.push(createMCQ("sachkunde", "sicherheit",
-        `Ist es sicher, mit Fremden mitzugehen?`, "Nein, das ist sehr gefährlich", ["Ja, sicher", "manchmal okay", "nur im Dunkeln gefährlich"]));
+        `Ist es sicher, mit Fremden mitzugehen?`, "Nein, das ist sehr gefährlich", ["Ja, sicher", "manchmal okay", "nur im Dunkeln gefährlich"], rng));
     } else if (type === 1) {
       // Notrufnummern
       q.push(createMCQ("sachkunde", "sicherheit",
-        `Welche Nummer rufst du an, wenn es ein Feuer gibt?`, "112", ["100", "110", "911"]));
+        `Welche Nummer rufst du an, wenn es ein Feuer gibt?`, "112", ["100", "110", "911"], rng));
     } else {
       // Sicherheitsregel
       q.push(createMCQ("sachkunde", "sicherheit",
-        `Was solltest du NICHT mit Feuer tun?`, "spielen", ["kochen", "Kerzen anzünden", "mit Erwachsenen experimentieren"]));
+        `Was solltest du NICHT mit Feuer tun?`, "spielen", ["kochen", "Kerzen anzünden", "mit Erwachsenen experimentieren"], rng));
     }
   }
 

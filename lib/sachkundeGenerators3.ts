@@ -432,7 +432,7 @@ const POLLUTION_TYPES = [
 // ─── GENERATOR FUNCTIONS ────────────────────────────────────────────────────
 
 export function generateKörperaufbau(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -462,7 +462,7 @@ export function generateKörperaufbau(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateErnährungspyramide(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -492,7 +492,7 @@ export function generateErnährungspyramide(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateZahnentwicklung(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -508,8 +508,9 @@ export function generateZahnentwicklung(seed?: number): CurriculumMCQ[] {
         ["16 Zähne", "32 Zähne", "12 Zähne"]));
     } else if (type === 2) {
       const fact = pick(TOOTH_FACTS, rng);
+      const answer = (fact as any).age || (fact as any).use || (fact as any).process || "unbekannt";
       q.push(createMCQ("sachkunde", "zahnentwicklung",
-        `${fact.fact}?`, fact.age || fact.use, ["nie", "sofort", "sehr früh"]));
+        `${fact.fact}?`, answer, ["nie", "sofort", "sehr früh"]));
     } else {
       q.push(createMCQ("sachkunde", "zahnentwicklung",
         `Ab wann bekommen Kinder bleibende Zähne?`, "ab 6-7 Jahren",
@@ -521,7 +522,7 @@ export function generateZahnentwicklung(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateBewegungSport(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -550,7 +551,7 @@ export function generateBewegungSport(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateTierklassen(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -580,7 +581,7 @@ export function generateTierklassen(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateNahrungsnetze(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -610,7 +611,7 @@ export function generateNahrungsnetze(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateSchmetterlinge(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -640,7 +641,7 @@ export function generateSchmetterlinge(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWaldtiereRaubtiere(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -670,7 +671,7 @@ export function generateWaldtiereRaubtiere(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateHaustierZüchtung(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -700,7 +701,7 @@ export function generateHaustierZüchtung(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateBlütebestäubung(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -731,7 +732,7 @@ export function generateBlütebestäubung(seed?: number): CurriculumMCQ[] {
 }
 
 export function generatePhotosynthese(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -760,7 +761,7 @@ export function generatePhotosynthese(seed?: number): CurriculumMCQ[] {
 }
 
 export function generatePflanzenvermehrung(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -789,7 +790,7 @@ export function generatePflanzenvermehrung(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWaldschichten(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -819,7 +820,7 @@ export function generateWaldschichten(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWasserkreislaufDetail(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -848,7 +849,7 @@ export function generateWasserkreislaufDetail(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateWetterInstrumente(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -878,7 +879,7 @@ export function generateWetterInstrumente(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateJahreszeitenKlima(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -908,7 +909,7 @@ export function generateJahreszeitenKlima(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateGewässerTypen(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -938,7 +939,7 @@ export function generateGewässerTypen(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateEinfacheMaschinen(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -968,7 +969,7 @@ export function generateEinfacheMaschinen(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateEnergiequellen(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -999,7 +1000,7 @@ export function generateEnergiequellen(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -1029,7 +1030,7 @@ export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateBerufe(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -1059,7 +1060,7 @@ export function generateBerufe(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateDorfStadt(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -1088,7 +1089,7 @@ export function generateDorfStadt(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateGrundbedürfnisse(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -1118,7 +1119,7 @@ export function generateGrundbedürfnisse(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateRegelnGesetze(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
@@ -1148,7 +1149,7 @@ export function generateRegelnGesetze(seed?: number): CurriculumMCQ[] {
 }
 
 export function generateUmweltschutz(seed?: number): CurriculumMCQ[] {
-  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
   const q: CurriculumMCQ[] = [];
 
   for (let i = 0; i < 45; i++) {
