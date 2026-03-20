@@ -210,15 +210,19 @@ export const O2_CHECKPOINT_MAP: Record<string, string[]> = {
 export const O2_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
     "szofajok/fonev", "szofajok/ige", "szofajok/melleknev",
+    "szofajok/nevelő", "szofajok/nevuto",
     "helyesiras/ly_j", "helyesiras/rovid_hosszu",
+    "helyesiras/maganhangzo_harmonia", "helyesiras/hosszu_massalhangzo",
   ],
   test2: [
-    "mondat/mondatfajtak", "mondat/mondatresz",
-    "szo/osszetetel", "szo/kepzok",
+    "mondat/mondatfajtak", "mondat/mondatresz", "mondat/szorend",
+    "szo/osszetetel", "szo/kepzok", "szo/tobbesszam", "szo/kotojelek",
   ],
   test3: [
     "ragozas/fonevreg", "ragozas/igereg",
     "szokincs/szinonimak", "szokincs/ellentetek2",
+    "szokincs/termeszet", "szokincs/sport",
+    "olvasas/mesek",
   ],
 };
 
@@ -228,7 +232,7 @@ export const O2_ISLANDS: IslandDef[] = [
     id: "i1",
     name: { en: "Word Types Island", hu: "Szófajok Szigete", de: "Wortarten-Insel", ro: "Insula tipurilor de cuvinte" },
     icon: "🔤", color: "#FF2D78", sortRange: [1, 10],
-    topicKeys: ["szofajok/fonev", "szofajok/ige", "szofajok/melleknev"],
+    topicKeys: ["szofajok/fonev", "szofajok/ige", "szofajok/melleknev", "szofajok/nevelő", "szofajok/nevuto"],
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush", icon: "🪐", label: { hu: "Szófaj roham",       en: "Word Type Rush",   de: "Wortart-Ansturm",       ro: "Asalt tipuri cuvinte" } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },

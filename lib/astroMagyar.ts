@@ -227,7 +227,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i1",
     name: { en: "Letter Island", hu: "Betűsziget", de: "Buchstabeninsel", ro: "Insula literelor" },
     icon: "🔤", color: "#FF2D78", sortRange: [1, 10],
-    topicKeys: ["betuk/maganhangzok", "betuk/massalhangzok", "betuk/abc_sorrend"],
+    topicKeys: ["betuk/maganhangzok", "betuk/massalhangzok", "betuk/abc_sorrend", "betuk/kettozodes"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",    icon: "🪐", label: { hu: "Betű rendezés",     en: "Letter Sort",      de: "Buchstaben-Sortierung", ro: "Sortare litere"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -239,7 +239,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i2",
     name: { en: "Syllable Island", hu: "Szótagsziget", de: "Silbeninsel", ro: "Insula silabelor" },
     icon: "✂️", color: "#00D4FF", sortRange: [1, 10],
-    topicKeys: ["betuk/szotagszam", "betuk/elvalasztas", "betuk/betuparak"],
+    topicKeys: ["betuk/szotagszam", "betuk/elvalasztas", "betuk/betuparak", "betuk/betufelismeres"],
     missions: [
       { id: "m1", category: "explore",   gameType: "spell-race",   icon: "🪐", label: { hu: "Szótag verseny",    en: "Syllable Race",    de: "Silben-Rennen",         ro: "Cursă silabe"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -251,7 +251,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Sounds Island", hu: "Hangok szigete", de: "Laute-Insel", ro: "Insula sunetelor" },
     icon: "🎵", color: "#00FF88", sortRange: [1, 10],
-    topicKeys: ["betuk/rovid_hosszu", "betuk/j_ly"],
+    topicKeys: ["betuk/rovid_hosszu", "betuk/j_ly", "szavak/hangutanzo"],
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush", icon: "🪐", label: { hu: "Hang roham",        en: "Sound Rush",       de: "Laut-Ansturm",          ro: "Asalt sunete"     } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -263,7 +263,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Words Island", hu: "Szósziget", de: "Wörterinsel", ro: "Insula cuvintelor" },
     icon: "📝", color: "#FFD700", sortRange: [1, 10],
-    topicKeys: ["szavak/fonevek", "szavak/igek", "szavak/melleknevek"],
+    topicKeys: ["szavak/fonevek", "szavak/igek", "szavak/melleknevek", "szavak/kicsinyitokepozo"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",    icon: "🪐", label: { hu: "Szó rendezés",     en: "Word Sort",        de: "Wort-Sortierung",       ro: "Sortare cuvinte"  } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },

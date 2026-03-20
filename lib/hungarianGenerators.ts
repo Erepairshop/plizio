@@ -788,6 +788,422 @@ export function generateElelmiszer(seed?: number): CurriculumMCQ[] {
   return q;
 }
 
+// ─── NEW GENERATORS (10 subtopics) ──────────────────────────────────────────
+
+const DOUBLING_WORDS = [
+  { word: "toll", correct: "l" }, { word: "kedd", correct: "d" },
+  { word: "tedd", correct: "d" }, { word: "pattan", correct: "t" },
+  { word: "mamut", correct: "m" }, { word: "szappan", correct: "p" },
+  { word: "kelle", correct: "l" }, { word: "nappal", correct: "p" },
+  { word: "erre", correct: "r" }, { word: "massa", correct: "s" },
+];
+
+export function generateMassalhangzokKettozese(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik mássalhangzó kettőzik?"
+      const data = pick(DOUBLING_WORDS, rng);
+      const correct = data.correct;
+      const wrong = HUNGARIAN_CONSONANTS.filter(c => c !== correct).slice(0, 3);
+      q.push(createMCQ("betuk", "kettozodes",
+        `Melyik mássalhangzó kettőzik a "${data.word}" szóban?`, correct, wrong));
+    } else if (type === 1) {
+      // "Melyik szóban kettőzik a k hang?"
+      const correct = "tedd";
+      const wrong = ["tad", "tám", "tal"];
+      q.push(createMCQ("betuk", "kettozodes",
+        `Melyik szóban kettőzik a 'd' hang?`, correct, wrong));
+    } else {
+      // "Hány betű van...?"
+      const data = pick(DOUBLING_WORDS, rng);
+      const hasDoubling = data.word.includes(data.correct + data.correct);
+      q.push(createMCQ("betuk", "kettozodes",
+        `Kettőzik-e a mássalhangzó a "${data.word}" szóban?`,
+        hasDoubling ? "igen" : "nem",
+        ["igen", "nem"].filter(x => x !== (hasDoubling ? "igen" : "nem"))));
+    }
+  }
+
+  return q;
+}
+
+const LETTER_RECOGNITION = [
+  { letter: "A", word: "alma", image_hint: "gyümölcs" },
+  { letter: "B", word: "baba", image_hint: "csecsemő" },
+  { letter: "C", word: "cica", image_hint: "háziállat" },
+  { letter: "D", word: "daru", image_hint: "madár" },
+  { letter: "E", word: "egér", image_hint: "kis szürke állat" },
+  { letter: "F", word: "fák", image_hint: "zöld növény" },
+  { letter: "G", word: "gólya", image_hint: "nagy madár" },
+  { letter: "H", word: "ház", image_hint: "lakóépület" },
+];
+
+export function generateBetufelismeres(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Az 'A' betű... kezdődik"
+      const data = pick(LETTER_RECOGNITION, rng);
+      const correct = data.word;
+      const wrong = LETTER_RECOGNITION.filter(d => d.letter !== data.letter)
+        .slice(0, 3)
+        .map(d => d.word);
+      q.push(createMCQ("betuk", "betufelismeres",
+        `Az '${data.letter}' betű ... kezdődik?`, correct, wrong));
+    } else if (type === 1) {
+      // "Melyik szó kezdődik A-val?"
+      const correct = pick(LETTER_RECOGNITION, rng).word;
+      const wrong = LETTER_RECOGNITION.filter(d => d.word !== correct)
+        .slice(0, 3)
+        .map(d => d.word);
+      q.push(createMCQ("betuk", "betufelismeres",
+        `Melyik szó kezdődik 'A' betűvel?`, correct, wrong));
+    } else {
+      // "Hanyadik betű?"
+      const data = pick(LETTER_RECOGNITION, rng);
+      const correct = data.letter;
+      const wrong = LETTER_RECOGNITION.filter(d => d !== data)
+        .slice(0, 3)
+        .map(d => d.letter);
+      q.push(createMCQ("betuk", "betufelismeres",
+        `Melyik betűvel kezdődik a "${data.word}" szó?`, correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const DAYTIMES = [
+  { time: "reggel", activity: "felkelek", context: "A nap kezdete" },
+  { time: "dél", activity: "ebédelek", context: "Déli időpont" },
+  { time: "este", activity: "vacsorázom", context: "Az este eleje" },
+  { time: "éjszaka", activity: "alszom", context: "Sötét idő" },
+];
+
+export function generateNapszakok(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik napszak?"
+      const correct = pick(["reggel", "dél", "este", "éjszaka"], rng);
+      const wrong = ["hétfő", "hétfőtlen", "szeptemberben"];
+      q.push(createMCQ("szokincs", "napszakok",
+        "Melyik napszak?", correct, wrong));
+    } else if (type === 1) {
+      // "Mikor veszel reggelizünk?"
+      const correct = "reggel";
+      const wrong = ["este", "éjszaka", "dél"];
+      q.push(createMCQ("szokincs", "napszakok",
+        "Mikor reggelizünk?", correct, wrong));
+    } else {
+      // "Mit csinálunk...?"
+      const data = pick(DAYTIMES, rng);
+      const correct = data.activity;
+      const wrong = DAYTIMES.filter(d => d !== data)
+        .slice(0, 3)
+        .map(d => d.activity);
+      q.push(createMCQ("szokincs", "napszakok",
+        `Mit csinálunk ${data.time}?`, correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const CLOTHING = [
+  "nadrág", "póló", "cipő", "sapka", "kabát", "kesztyű", "sál", "csizma",
+  "ruhagyak", "zokni", "mellény", "kalap"
+];
+
+export function generateRuhazat(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik ruhaadat?"
+      const correct = pick(CLOTHING, rng);
+      const wrong = ["kutya", "almafá", "szék", "könyv"];
+      q.push(createMCQ("szokincs", "ruhazat",
+        "Melyik ruhádat?", correct, wrong));
+    } else if (type === 1) {
+      // "Mit viselsz a lábadra?"
+      const correct = pick(["cipő", "csizma", "zokni"], rng);
+      const wrong = ["sapka", "kabát", "nadrág"];
+      q.push(createMCQ("szokincs", "ruhazat",
+        "Mit viselsz a lábadra?", correct, wrong));
+    } else {
+      // "Mit viselsz amikor hideg van?"
+      const correct = pick(["kabát", "sál", "kesztyű"], rng);
+      const wrong = ["póló", "sapka", "cipő"];
+      q.push(createMCQ("szokincs", "ruhazat",
+        "Mit viselsz amikor hideg van?", correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const WEATHER = [
+  { weather: "esik", action: "esernyő", consequence: "nedves vagyok" },
+  { weather: "süt", action: "napokkal játszom", consequence: "meleg vagyok" },
+  { weather: "fúj", action: "sálat veszek", consequence: "szél van" },
+  { weather: "hideg", action: "kabátot hordok", consequence: "kell meleg ruha" },
+  { weather: "meleg", action: "könnyű ruhát hordok", consequence: "kisebb ruha kell" },
+];
+
+export function generateIdojaras(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Mi az időjárás?"
+      const correct = pick(["esik", "süt", "fúj", "hideg", "meleg"], rng);
+      const wrong = ["fut", "alszik", "repül", "ír"];
+      q.push(createMCQ("szokincs", "idojaras",
+        "Mi az időjárás?", correct, wrong));
+    } else if (type === 1) {
+      // "Mit csinálunk amikor esik?"
+      const correct = "esernyőt veszünk";
+      const wrong = ["úszunk", "biciklizünk", "repülünk"];
+      q.push(createMCQ("szokincs", "idojaras",
+        "Mit csinálunk amikor esik?", correct, wrong));
+    } else {
+      // "Melyik időjárás jellemzés?"
+      const data = pick(WEATHER, rng);
+      const correct = data.consequence;
+      const wrong = WEATHER.filter(w => w !== data)
+        .slice(0, 3)
+        .map(w => w.consequence);
+      q.push(createMCQ("szokincs", "idojaras",
+        `Mi jellemző amikor ${data.weather}?`, correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const TRANSPORTATION = [
+  { vehicle: "autó", wheels: 4, fuel: "benzin" },
+  { vehicle: "busz", wheels: 4, fuel: "benzin" },
+  { vehicle: "vonat", wheels: "sok", fuel: "villany" },
+  { vehicle: "bicikli", wheels: 2, fuel: "emberi erő" },
+  { vehicle: "repülő", wheels: 3, fuel: "jellemzően üzemanyag" },
+  { vehicle: "motorkerékpár", wheels: 2, fuel: "benzin" },
+];
+
+export function generateKozlekedes(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik közlekedési eszköz?"
+      const correct = pick(TRANSPORTATION.map(t => t.vehicle), rng);
+      const wrong = ["alma", "szék", "ajtó", "cukorka"];
+      q.push(createMCQ("szokincs", "kozlekedes",
+        "Melyik közlekedési eszköz?", correct, wrong));
+    } else if (type === 1) {
+      // "Hány kereke van az autónak?"
+      const data = pick(TRANSPORTATION, rng);
+      const correct = typeof data.wheels === "number" ? String(data.wheels) : data.wheels;
+      const wrong = ["1", "2", "3", "4", "5"].filter(w => w !== correct).slice(0, 3);
+      q.push(createMCQ("szokincs", "kozlekedes",
+        `Hány kereke van a ${data.vehicle}-nak?`, correct, wrong));
+    } else {
+      // "Mivel utazunk a városban?"
+      const correct = pick(["autó", "busz", "bicikli"], rng);
+      const wrong = ["almafá", "szék", "könyv"];
+      q.push(createMCQ("szokincs", "kozlekedes",
+        "Mivel utazunk a városban?", correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const WEEKDAYS = ["hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat", "vasárnap"];
+
+export function generateHetekNapjai(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik hét napja?"
+      const correct = pick(WEEKDAYS, rng);
+      const wrong = ["házta", "székfő", "ajtóska"];
+      q.push(createMCQ("szokincs", "heteknapjai",
+        "Melyik hét napja?", correct, wrong));
+    } else if (type === 1) {
+      // "Melyik nap jön a hétfő után?"
+      const idx = WEEKDAYS.indexOf("hétfő");
+      const correct = WEEKDAYS[(idx + 1) % 7];
+      const wrong = WEEKDAYS.filter(d => d !== correct).slice(0, 3);
+      q.push(createMCQ("szokincs", "heteknapjai",
+        "Melyik nap jön a hétfő után?", correct, wrong));
+    } else {
+      // "Mikor megyek iskolába?"
+      const correct = "hétfőtől péntekig";
+      const wrong = ["szombaton", "vasárnap", "éjszaka"];
+      q.push(createMCQ("szokincs", "heteknapjai",
+        "Mikor megyek iskolába?", correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const QA_PAIRS = [
+  { question: "Ki", answer: "ember / állat", example: "Ki jön? → Peti / A kutya" },
+  { question: "Mit", answer: "tárgy / ige", example: "Mit csinálsz? → Játszom" },
+  { question: "Hol", answer: "hely", example: "Hol vagy? → Az iskolában" },
+  { question: "Mikor", answer: "idő", example: "Mikor jössz? → Holnap" },
+  { question: "Miért", answer: "ok", example: "Miért sírsz? → Fájdalom" },
+];
+
+export function generateKerdesFelelet(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik kérdés?"
+      const correct = pick(["Ki", "Mit", "Hol", "Mikor", "Miért"], rng);
+      const wrong = ["Mivel", "Szék", "Almafá"];
+      q.push(createMCQ("mondatok", "kerdes_felelet",
+        "Melyik kérdő szó?", correct, wrong));
+    } else if (type === 1) {
+      // "Mit kérdezünk amikor az ember nevére akarunk tudni?"
+      const correct = "Ki";
+      const wrong = ["Mit", "Hol", "Mikor"];
+      q.push(createMCQ("mondatok", "kerdes_felelet",
+        "Mit kérdezünk amikor az ember nevére akarunk tudni?", correct, wrong));
+    } else {
+      // "Melyik kérdés melyik válasznak felel meg?"
+      const pair = pick(QA_PAIRS, rng);
+      const correct = pair.question;
+      const wrong = QA_PAIRS.filter(p => p !== pair)
+        .slice(0, 3)
+        .map(p => p.question);
+      q.push(createMCQ("mondatok", "kerdes_felelet",
+        `"${pair.example}" — Melyik kérdő szó?`, correct, wrong));
+    }
+  }
+
+  return q;
+}
+
+const DIMINUTIVE_WORDS = [
+  { base: "ház", diminutive: "házikó" },
+  { base: "kutya", diminutive: "kutyus" },
+  { base: "macska", diminutive: "macsicska" },
+  { base: "maci", diminutive: "macikó" },
+  { base: "szék", diminutive: "székecske" },
+  { base: "világ", diminutive: "világocska" },
+  { base: "szoba", diminutive: "szobácska" },
+  { base: "rózsa", diminutive: "rózsacska" },
+];
+
+export function generateKicsinyitokepozo(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Mi a kicsinyítő szó?"
+      const data = pick(DIMINUTIVE_WORDS, rng);
+      const correct = data.diminutive;
+      const wrong = DIMINUTIVE_WORDS.filter(d => d !== data)
+        .slice(0, 3)
+        .map(d => d.diminutive);
+      q.push(createMCQ("szavak", "kicsinyitokepozo",
+        `Mi a kicsinyítő szó a "${data.base}" szóhoz?`, correct, wrong));
+    } else if (type === 1) {
+      // "Melyik szó kicsinyítve...?"
+      const data = pick(DIMINUTIVE_WORDS, rng);
+      const correct = data.base;
+      const wrong = DIMINUTIVE_WORDS.filter(d => d !== data)
+        .slice(0, 3)
+        .map(d => d.base);
+      q.push(createMCQ("szavak", "kicsinyitokepozo",
+        `A "${data.diminutive}" mely szó kicsinyítve?`, correct, wrong));
+    } else {
+      // "Kicsinyítő képző-e?"
+      const data = pick(DIMINUTIVE_WORDS, rng);
+      q.push(createMCQ("szavak", "kicsinyitokepozo",
+        `Hasznal-e kicsinyítő képzőt a "${data.diminutive}" szó?`,
+        "igen", ["nem", "talán"]));
+    }
+  }
+
+  return q;
+}
+
+const ONOMATOPOEIA = [
+  { word: "csirip", animal: "madár", sound: "felső hangok" },
+  { word: "dong", sound_source: "harang", sound: "mélyebb hang" },
+  { word: "kotyog", sound_source: "víz", sound: "gurgulálás" },
+  { word: "zörög", sound_source: "fa-fa ütközés", sound: "recsegés" },
+  { word: "brr", action: "hidegből remegés", sound: "reszketés" },
+  { word: "nyifnifa", action: "sírás", sound: "tipródás" },
+  { word: "cincogás", animal: "egér", sound: "magas hang" },
+  { word: "burrogás", animal: "béka", sound: "mélyebb hang" },
+];
+
+export function generateHangutanzo(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      // "Melyik hangutánzó szó?"
+      const correct = pick(ONOMATOPOEIA.map(o => o.word), rng);
+      const wrong = ["futás", "almafá", "szék"];
+      q.push(createMCQ("szavak", "hangutanzo",
+        "Melyik hangutánzó szó?", correct, wrong));
+    } else if (type === 1) {
+      // "Milyen hangot utánoz?"
+      const data = pick(ONOMATOPOEIA, rng);
+      const correct = data.sound;
+      const wrong = ONOMATOPOEIA.filter(o => o !== data)
+        .slice(0, 3)
+        .map(o => o.sound);
+      q.push(createMCQ("szavak", "hangutanzo",
+        `Milyen hangot utánoz a "${data.word}" szó?`, correct, wrong));
+    } else {
+      // "Melyik állat hangja?"
+      const data = pick(ONOMATOPOEIA.filter(o => o.animal), rng);
+      const correct = data.word;
+      const wrong = ONOMATOPOEIA.filter(o => o !== data)
+        .slice(0, 3)
+        .map(o => o.word);
+      q.push(createMCQ("szavak", "hangutanzo",
+        `Melyik szó a ${data.animal} hangja?`, correct, wrong));
+    }
+  }
+
+  return q;
+}
+
 // ─── EXPORTING ALL GENERATORS ───────────────────────────────────────────────
 
 export const G1_Generators_Hungarian = {
@@ -811,4 +1227,14 @@ export const G1_Generators_Hungarian = {
   csalad: generateCsalad,
   testresz: generateTestresz,
   elelmiszer: generateElelmiszer,
+  kettozodes: generateMassalhangzokKettozese,
+  betufelismeres: generateBetufelismeres,
+  napszakok: generateNapszakok,
+  ruhazat: generateRuhazat,
+  idojaras: generateIdojaras,
+  kozlekedes: generateKozlekedes,
+  heteknapjai: generateHetekNapjai,
+  kerdes_felelet: generateKerdesFelelet,
+  kicsinyitokepozo: generateKicsinyitokepozo,
+  hangutanzo: generateHangutanzo,
 };

@@ -54,6 +54,95 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
 
 // ─── DATA LISTS ─────────────────────────────────────────────────────────────
 
+// New data structures for additional generators
+const VERBS_IMPERATIVE = [
+  { inf: "írni", te_sg: "írj", o_sg: "írjon", mi: "írjunk", ti: "írjatok", ok: "írjanak" },
+  { inf: "futni", te_sg: "fuss", o_sg: "fusson", mi: "fussunk", ti: "fussatok", ok: "fussanak" },
+  { inf: "olvasni", te_sg: "olvass", o_sg: "olvasson", mi: "olvassunk", ti: "olvassatok", ok: "olvasnak" },
+  { inf: "játszani", te_sg: "játssz", o_sg: "játsszon", mi: "játsszunk", ti: "játszatok", ok: "játszanak" },
+  { inf: "enni", te_sg: "egyél", o_sg: "egyen", mi: "együnk", ti: "egyetek", ok: "egyenek" },
+  { inf: "inni", te_sg: "igyon", o_sg: "igyon", mi: "igyunk", ti: "igyatok", ok: "igyanak" },
+];
+
+const VERBS_CONDITIONAL = [
+  { inf: "írni", jelen: "írnék", mult: "írnám", vagyok: "volna" },
+  { inf: "futni", jelen: "futnék", mult: "futnám", vagyok: "volna" },
+  { inf: "olvasni", jelen: "olvasnék", mult: "olvasnám", vagyok: "volna" },
+  { inf: "játszani", jelen: "játszanék", mult: "játszanám", vagyok: "volna" },
+  { inf: "enni", jelen: "ennék", mult: "ennék", vagyok: "volna" },
+  { inf: "inni", jelen: "innék", mult: "innám", vagyok: "volna" },
+];
+
+const NOUNS_POSSESSIVE = [
+  { nom: "ház", sg1: "házam", sg2: "házad", sg3: "háza", pl1: "házunk", pl2: "házatok", pl3: "házuk" },
+  { nom: "könyv", sg1: "könyvem", sg2: "könyved", sg3: "könyve", pl1: "könyvünk", pl2: "könyvetek", pl3: "könyvük" },
+  { nom: "macska", sg1: "macskám", sg2: "macskád", sg3: "macskája", pl1: "macskánk", pl2: "macskátok", pl3: "macskájuk" },
+  { nom: "ceruza", sg1: "ceruzám", sg2: "ceruzád", sg3: "ceruzája", pl1: "ceruzánk", pl2: "ceruzátok", pl3: "ceruzájuk" },
+  { nom: "játék", sg1: "játékom", sg2: "játékod", sg3: "játéka", pl1: "játékunk", pl2: "játékotok", pl3: "játékuk" },
+];
+
+const ADVERBIAL_CASE_ADVANCED = [
+  { nom: "ház", comitative: "házzal", ablative: "házból", delative: "házról" },
+  { nom: "iskolа", comitative: "iskolával", ablative: "iskolából", delative: "iskoláról" },
+  { nom: "szék", comitative: "székkel", ablative: "székből", delative: "székről" },
+  { nom: "asztal", comitative: "asztallal", ablative: "asztalból", delative: "asztalról" },
+  { nom: "toll", comitative: "tollal", ablative: "tollból", delative: "tollról" },
+];
+
+const EMOTIONS_VOCABULARY = [
+  { emotion: "boldog", opposite: "szomorú", example: "A gyerek boldog volt a csokiért." },
+  { emotion: "szomorú", opposite: "boldog", example: "Szomorú volt, mert elveszett a játéka." },
+  { emotion: "mérges", opposite: "vidám", example: "Mérges lett, mert nem lehetett játszani." },
+  { emotion: "félénk", opposite: "bátor", example: "Félénk gyerek nem szeret nagyobbakkal játszani." },
+  { emotion: "szorongó", opposite: "nyugodt", example: "Szorongó volt az első nap az iskolában." },
+  { emotion: "vidám", opposite: "mérges", example: "Vidám és nevetsé lett az egész nap." },
+  { emotion: "kíváncsi", opposite: "közömbös", example: "Kíváncsiak voltunk az új játékra." },
+];
+
+const TIME_EXPRESSIONS = [
+  { word: "tegnap", meaning: "az előző napon", example: "Tegnap futottunk az iskolában." },
+  { word: "ma", meaning: "az aktuális napon", example: "Ma szép az idő." },
+  { word: "holnap", meaning: "az következő napon", example: "Holnap lesz az iskola." },
+  { word: "reggel", meaning: "napkelte és déli 12 között", example: "Reggel korai kelés." },
+  { word: "éjjel", meaning: "sötét, alváshoz idő", example: "Éjjel csillagok fénylenek." },
+  { word: "délután", meaning: "12-tól alkonyig", example: "Délután játszottunk ki." },
+  { word: "este", meaning: "az nap vége előtt", example: "Este vacsora után játszunk." },
+];
+
+const IKES_VERBS = [
+  { inf: "eszik", jelen: "esz", múlt: "evett" },
+  { inf: "iszik", jelen: "isz", múlt: "ivott" },
+  { inf: "alszik", jelen: "alsz", múlt: "aludt" },
+  { inf: "játszik", jelen: "játsz", múlt: "játszott" },
+  { inf: "fekszik", jelen: "lesz", múlt: "feküdt" },
+  { inf: "fordul", jelen: "fordul", múlt: "fordult" },
+];
+
+const CONSONANT_HARMONY_RULES = [
+  { word: "szép", rule: "mássalhangzó-törvény nem vonatkozik" },
+  { word: "szépség", rule: "ség rag megváltasztja a zöngét" },
+  { word: "egészség", rule: "z → s váltakozás" },
+  { word: "boldog", rule: "boldog → bolondság" },
+  { word: "könnyű", rule: "könnyű → könnyűség" },
+];
+
+const COMPOUND_SENTENCE_BASICS = [
+  { connector: "és", example: "Péter olvas és Mari ír.", meaning: "összeadás" },
+  { connector: "de", example: "Szép az idő, de hideg van.", meaning: "ellentét" },
+  { connector: "mert", example: "Maradtunk otthon, mert esett az eső.", meaning: "ok-okozati" },
+  { connector: "hogy", example: "Azt akarom, hogy játsszunk.", meaning: "mellérendelés" },
+  { connector: "vagy", example: "Almát vagy körtet akarsz?", meaning: "választás" },
+];
+
+const DIALOGUE_VERBS = [
+  { verb: "mondta", example: "\"Ma játszunk\" mondta a tanár." },
+  { verb: "kérdezte", example: "\"Kinek van ceruzája?\" kérdezte Péter." },
+  { verb: "felkiáltott", example: "\"Futjunk!\" felkiáltott Mari." },
+  { verb: "suttogta", example: "\"Nézd meg!\" suttogta Pál." },
+  { verb: "visított", example: "\"Nem!\" visított a gyerek." },
+  { verb: "mosolygott", example: "\"Köszönöm\" mosolygott az öregasszony." },
+];
+
 const VERBS_TENSE = [
   { inf: "írni", jelen: "ír", múlt: "írt", jövő: "fog írni" },
   { inf: "futni", jelen: "fut", múlt: "futott", jövő: "fog futni" },
