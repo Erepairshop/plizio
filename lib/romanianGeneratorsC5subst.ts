@@ -1,3 +1,4 @@
+// ─── ROMANIAN GENERATORS (CLASA a V-a) — SUBSTANTIV & PRONUME ────────────────
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
 
 function mulberry32(seed: number) {
@@ -34,6 +35,10 @@ function createMCQ(
   }
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
+}
+
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, correct };
 }
 
 // ─── TOPIC / SUBTOPIC CONSTANTS ──────────────────────────────────────────────
@@ -116,7 +121,7 @@ const DECL_SENTENCES: Record<string, Record<string, string>> = {
     N: "___ răspunde la lecție.",
   },
   mamă: {
-    G: "Vocea ___ este blândă.",
+    G: "Voica ___ este blândă.",
     D: "I-am oferit un buchet ___.",
     Ac: "O iubesc pe ___.",
     V: "Te iubesc, ___!",
@@ -172,7 +177,16 @@ function generateDeclinarea(seed: number): CurriculumQuestion[] {
     const wrong = CASE_NAMES_ALL.filter(c => c !== caz);
     questions.push(createMCQ(T_SUBST, S_DECL, q, caz, [...wrong], rng));
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_SUBST, S_DECL, "Câte cazuri are un substantiv în limba română?", "cinci"));
+  questions.push(createTyping(T_SUBST, S_DECL, "Care este funcția cazului Nominativ?", "subiect"));
+  questions.push(createTyping(T_SUBST, S_DECL, "Care este funcția cazului Genitiv?", "posesie"));
+  questions.push(createTyping(T_SUBST, S_DECL, "Care este funcția cazului Dativ?", "complement"));
+  questions.push(createTyping(T_SUBST, S_DECL, "Care este funcția cazului Acuzativ?", "direct"));
+  questions.push(createTyping(T_SUBST, S_DECL, "Care este funcția cazului Vocativ?", "apel"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── 2. SUBSTANTIVE COLECTIVE ─────────────────────────────────────────────────
@@ -212,7 +226,16 @@ function generateColective(seed: number): CurriculumQuestion[] {
       questions.push(createMCQ(T_SUBST, S_COLL, q, item.desc, shuffle(wrongs, rng).slice(0, 3), rng));
     }
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_SUBST, S_COLL, "Ce se numește substantiv colectiv?", "grup"));
+  questions.push(createTyping(T_SUBST, S_COLL, "Cum se numește grupul de oi?", "turmă"));
+  questions.push(createTyping(T_SUBST, S_COLL, "Cum se numește grupul de păsări?", "stol"));
+  questions.push(createTyping(T_SUBST, S_COLL, "Cum se numește grupul de copaci?", "pădure"));
+  questions.push(createTyping(T_SUBST, S_COLL, "Cum se numește grupul de albine?", "roi"));
+  questions.push(createTyping(T_SUBST, S_COLL, "Cum se numește grupul de cai?", "herghelie"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── 3. GENUL SUBSTANTIVELOR (tricky nouns) ───────────────────────────────────
@@ -265,7 +288,16 @@ function generateGenul(seed: number): CurriculumQuestion[] {
     const wrongs = ALL_GENDERS.filter(g => g !== item.gender);
     questions.push(createMCQ(T_SUBST, S_GEN, q, item.gender, [...wrongs], rng));
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_SUBST, S_GEN, "Câte genuri are un substantiv?", "trei"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"soare\"?", "masculin"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"minge\"?", "feminin"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"geam\"?", "neutru"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"care\"?", "feminin"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"munte\"?", "masculin"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── 4. PRONUME INTEROGATIV ───────────────────────────────────────────────────
@@ -315,7 +347,16 @@ function generateInterogativ(seed: number): CurriculumQuestion[] {
       questions.push(createMCQ(T_PRON, S_INT, q, item.pronoun, shuffle(wrongs, rng).slice(0, 3), rng));
     }
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ întreabă despre persoană?", "cine"));
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ întreabă despre obiect?", "ce"));
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ întreabă \"care din\"?", "care"));
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ întreabă despre posesie?", "cui"));
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ pentru masculin plural?", "câți"));
+  questions.push(createTyping(T_PRON, S_INT, "Ce pronume interogativ pentru feminin plural?", "câte"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── 5. PRONUME NEHOTĂRÂT ────────────────────────────────────────────────────
@@ -413,7 +454,16 @@ function generateNehotarat(seed: number): CurriculumQuestion[] {
     const item = pool[i % pool.length];
     questions.push(createMCQ(T_PRON, S_NEHO, item.question, item.correct, item.wrongs, rng));
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă nimeni?", "nimeni"));
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă ceva?", "ceva"));
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă fiecare?", "fiecare"));
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă oricine?", "oricine"));
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă altul?", "altul"));
+  questions.push(createTyping(T_PRON, S_NEHO, "Ce pronume nehotărât exprimă altceva?", "altceva"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── 6. PRONUME RELATIV ───────────────────────────────────────────────────────
@@ -543,7 +593,16 @@ function generateRelativ(seed: number): CurriculumQuestion[] {
     const item = pool[i % pool.length];
     questions.push(createMCQ(T_PRON, S_REL, item.question, item.correct, item.wrongs, rng));
   }
-  return questions;
+
+  // Add typing questions
+  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru persoane?", "cine"));
+  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru obiecte?", "ce"));
+  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ introducere o propoziție atributivă?", "care"));
+  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru comparație?", "cât"));
+  questions.push(createTyping(T_PRON, S_REL, "Cum se numesc pronumele care introduc propoziții?", "relativ"));
+  questions.push(createTyping(T_PRON, S_REL, "Ce rol au pronumele relative?", "legare"));
+
+  return shuffle(questions, rng);
 }
 
 // ─── EXPORT ──────────────────────────────────────────────────────────────────

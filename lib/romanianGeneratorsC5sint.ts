@@ -19,6 +19,9 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
 }
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, correct };
+}
 
 // ─── 1. ATRIBUTUL ȘI APOZIȚIA ────────────────────────────────────────────────
 
@@ -26,11 +29,11 @@ export function gen_apostrof_atribut_c5(seed: number = 42): CurriculumQuestion[]
   const rng = mulberry32(seed);
   const T = "sintaxa_c5";
   const S = "apostrof_atribut_c5";
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
 
   // Q1 — atribut substantival în genitiv
   qs.push(createMCQ(T, S,
-    "Ce tip de atribut este „al colegului” din propoziția „Stiloul al colegului este albastru.”?",
+    "Ce tip de atribut este „al colegului" din propoziția „Stiloul al colegului este albastru."?",
     "atribut substantival în genitiv",
     ["atribut adjectival", "atribut pronominal", "apoziție"],
     rng
@@ -46,7 +49,7 @@ export function gen_apostrof_atribut_c5(seed: number = 42): CurriculumQuestion[]
 
   // Q3 — atribut substantival prepozițional
   qs.push(createMCQ(T, S,
-    "Ce tip de atribut este „din livadă” din propoziția „Merele din livadă sunt coapte.”?",
+    "Ce tip de atribut este „din livadă" din propoziția „Merele din livadă sunt coapte."?",
     "atribut substantival prepozițional",
     ["atribut adjectival", "atribut substantival în genitiv", "apoziție"],
     rng
@@ -54,7 +57,7 @@ export function gen_apostrof_atribut_c5(seed: number = 42): CurriculumQuestion[]
 
   // Q4 — atribut pronominal
   qs.push(createMCQ(T, S,
-    "Ce tip de atribut este „al său” din propoziția „Caietul al său era plin de notițe.”?",
+    "Ce tip de atribut este „al său" din propoziția „Caietul al său era plin de notițe."?",
     "atribut pronominal",
     ["atribut adjectival", "atribut substantival în genitiv", "apoziție"],
     rng
@@ -62,7 +65,7 @@ export function gen_apostrof_atribut_c5(seed: number = 42): CurriculumQuestion[]
 
   // Q5 — apoziția
   qs.push(createMCQ(T, S,
-    "Ce funcție sintactică are cuvântul „doctorul” din propoziția „Ion, doctorul, a venit la timp.”?",
+    "Ce funcție sintactică are cuvântul „doctorul" din propoziția „Ion, doctorul, a venit la timp."?",
     "apoziție",
     ["atribut adjectival", "atribut substantival prepozițional", "atribut pronominal"],
     rng
@@ -76,7 +79,31 @@ export function gen_apostrof_atribut_c5(seed: number = 42): CurriculumQuestion[]
     rng
   ));
 
-  void pick; // satisfies linter — pick used in other generators
+  qs.push(createTyping(T, S,
+    "Cum se numește cuvântul care determină un substantiv?",
+    "atribut"));
+
+  qs.push(createTyping(T, S,
+    "Ce tip de atribut este „al colegului"?",
+    "genitiv"));
+
+  qs.push(createTyping(T, S,
+    "Cum se numește apoziția în cuvinte simple?",
+    "apoziție"));
+
+  qs.push(createTyping(T, S,
+    "La ce întrebare răspunde atributul?",
+    "care"));
+
+  qs.push(createTyping(T, S,
+    "Ce articole folosim pentru genitiv?",
+    "al"));
+
+  qs.push(createTyping(T, S,
+    "Care sunt tipurile de atribute?",
+    "adjectival"));
+
+  void pick; // satisfies linter
   return shuffle(qs, rng);
 }
 
@@ -86,7 +113,7 @@ export function gen_prop_subiectiva_c5(seed: number = 42): CurriculumQuestion[] 
   const rng = mulberry32(seed);
   const T = "sintaxa_c5";
   const S = "prop_subiectiva_c5";
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
 
   // Q1 — definiție
   qs.push(createMCQ(T, S,
@@ -98,7 +125,7 @@ export function gen_prop_subiectiva_c5(seed: number = 42): CurriculumQuestion[] 
 
   // Q2 — introdusă prin conjuncția că
   qs.push(createMCQ(T, S,
-    "Propoziția subiectivă din „Se aude că plouă.” este introdusă prin:",
+    "Propoziția subiectivă din „Se aude că plouă." este introdusă prin:",
     "conjuncția că",
     ["pronumele relativ care", "adverbul relativ unde", "conjuncția dacă"],
     rng
@@ -106,7 +133,7 @@ export function gen_prop_subiectiva_c5(seed: number = 42): CurriculumQuestion[] 
 
   // Q3 — introdusă prin pronume relativ cine
   qs.push(createMCQ(T, S,
-    "Identifică propoziția subiectivă din fraza „Cine muncește va reuși.”:",
+    "Identifică propoziția subiectivă din fraza „Cine muncește va reuși.":",
     "Cine muncește",
     ["va reuși", "muncește va reuși", "va reuși în viață"],
     rng
@@ -114,7 +141,7 @@ export function gen_prop_subiectiva_c5(seed: number = 42): CurriculumQuestion[] 
 
   // Q4 — introdusă prin să
   qs.push(createMCQ(T, S,
-    "Ce fel de propoziție subordonată este „să pleci acum” din fraza „Este bine să pleci acum.”?",
+    "Ce fel de propoziție subordonată este „să pleci acum" din fraza „Este bine să pleci acum."?",
     "propoziție subordonată subiectivă",
     ["propoziție subordonată completivă directă", "propoziție subordonată circumstanțială de timp", "propoziție subordonată atributivă"],
     rng
@@ -130,11 +157,35 @@ export function gen_prop_subiectiva_c5(seed: number = 42): CurriculumQuestion[] 
 
   // Q6 — element de relație: ce
   qs.push(createMCQ(T, S,
-    "Cu ce element de relație este introdusă propoziția subiectivă din „Nu se știe ce s-a întâmplat.”?",
+    "Cu ce element de relație este introdusă propoziția subiectivă din „Nu se știe ce s-a întâmplat."?",
     "pronumele relativ ce",
     ["conjuncția că", "adverbul relativ când", "conjuncția să"],
     rng
   ));
+
+  qs.push(createTyping(T, S,
+    "Ce se numește propoziția care este subiect?",
+    "subiectivă"));
+
+  qs.push(createTyping(T, S,
+    "La ce întrebare răspunde propoziția subiectivă?",
+    "cine"));
+
+  qs.push(createTyping(T, S,
+    "Cu ce se introduce propoziția subiectivă?",
+    "că"));
+
+  qs.push(createTyping(T, S,
+    "Care este elementul de relație al subiectivei?",
+    "pronume"));
+
+  qs.push(createTyping(T, S,
+    "Cum se numește propoziția principală?",
+    "regentă"));
+
+  qs.push(createTyping(T, S,
+    "Ce pronume introduce o subiectivă?",
+    "cine"));
 
   return shuffle(qs, rng);
 }
@@ -145,11 +196,11 @@ export function gen_coordonare_c5(seed: number = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const T = "sintaxa_c5";
   const S = "coordonare_c5";
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
 
   // Q1 — coordonare copulativă
   qs.push(createMCQ(T, S,
-    "Ce tip de coordonare exprimă conjuncția „și” în fraza „Maria citește și Ion scrie.”?",
+    "Ce tip de coordonare exprimă conjuncția „și" în fraza „Maria citește și Ion scrie."?",
     "coordonare copulativă",
     ["coordonare adversativă", "coordonare disjunctivă", "coordonare conclusivă"],
     rng
@@ -157,7 +208,7 @@ export function gen_coordonare_c5(seed: number = 42): CurriculumQuestion[] {
 
   // Q2 — coordonare adversativă
   qs.push(createMCQ(T, S,
-    "Ce tip de coordonare exprimă conjuncția „dar” în fraza „Era obosit, dar a mers mai departe.”?",
+    "Ce tip de coordonare exprimă conjuncția „dar" în fraza „Era obosit, dar a mers mai departe."?",
     "coordonare adversativă",
     ["coordonare copulativă", "coordonare disjunctivă", "coordonare conclusivă"],
     rng
@@ -165,7 +216,7 @@ export function gen_coordonare_c5(seed: number = 42): CurriculumQuestion[] {
 
   // Q3 — coordonare disjunctivă
   qs.push(createMCQ(T, S,
-    "Ce tip de coordonare exprimă conjuncția „sau” în fraza „Vii cu noi sau rămâi acasă?”?",
+    "Ce tip de coordonare exprimă conjuncția „sau" în fraza „Vii cu noi sau rămâi acasă?"?",
     "coordonare disjunctivă",
     ["coordonare copulativă", "coordonare adversativă", "coordonare conclusivă"],
     rng
@@ -173,7 +224,7 @@ export function gen_coordonare_c5(seed: number = 42): CurriculumQuestion[] {
 
   // Q4 — coordonare conclusivă
   qs.push(createMCQ(T, S,
-    "Ce tip de coordonare exprimă adverbul „deci” în fraza „A învățat mult, deci va lua o notă bună.”?",
+    "Ce tip de coordonare exprimă adverbul „deci" în fraza „A învățat mult, deci va lua o notă bună."?",
     "coordonare conclusivă",
     ["coordonare copulativă", "coordonare adversativă", "coordonare disjunctivă"],
     rng
@@ -189,19 +240,43 @@ export function gen_coordonare_c5(seed: number = 42): CurriculumQuestion[] {
 
   // Q6 — conjuncție adversativă: ci
   qs.push(createMCQ(T, S,
-    "Ce tip de coordonare exprimă conjuncția „ci” în fraza „Nu el a greșit, ci colegul lui.”?",
+    "Ce tip de coordonare exprimă conjuncția „ci" în fraza „Nu el a greșit, ci colegul lui."?",
     "coordonare adversativă",
     ["coordonare copulativă", "coordonare disjunctivă", "coordonare conclusivă"],
     rng
   ));
 
-  // Q7 — identificare tip după conjuncție „ori”
+  // Q7 — identificare tip după conjuncție „ori"
   qs.push(createMCQ(T, S,
-    "Conjuncția „ori” introduce un raport de coordonare:",
+    "Conjuncția „ori" introduce un raport de coordonare:",
     "disjunctivă",
     ["copulativă", "adversativă", "conclusivă"],
     rng
   ));
+
+  qs.push(createTyping(T, S,
+    "Ce se numește legarea a două propoziții cu aceeași intonație?",
+    "coordonare"));
+
+  qs.push(createTyping(T, S,
+    "Ce conjuncție introduce coordonare copulativă?",
+    "și"));
+
+  qs.push(createTyping(T, S,
+    "Ce conjuncție introduce coordonare adversativă?",
+    "dar"));
+
+  qs.push(createTyping(T, S,
+    "Ce conjuncție introduce coordonare disjunctivă?",
+    "sau"));
+
+  qs.push(createTyping(T, S,
+    "Ce conjuncție introduce coordonare conclusivă?",
+    "deci"));
+
+  qs.push(createTyping(T, S,
+    "Cum se numesc propozițiile legate prin coordonare?",
+    "coordinate"));
 
   return shuffle(qs, rng);
 }
@@ -212,11 +287,11 @@ export function gen_prop_circumstantiala_c5(seed: number = 42): CurriculumQuesti
   const rng = mulberry32(seed);
   const T = "sintaxa_c5";
   const S = "prop_circumstantiala_c5";
-  const qs: CurriculumMCQ[] = [];
+  const qs: CurriculumQuestion[] = [];
 
   // Q1 — circumstanțială de timp: identificare
   qs.push(createMCQ(T, S,
-    "Ce tip de propoziție subordonată este „când a venit acasă” din „L-am văzut când a venit acasă.”?",
+    "Ce tip de propoziție subordonată este „când a venit acasă" din „L-am văzut când a venit acasă."?",
     "propoziție circumstanțială de timp",
     ["propoziție circumstanțială de loc", "propoziție subiectivă", "propoziție circumstanțială de mod"],
     rng
@@ -232,7 +307,7 @@ export function gen_prop_circumstantiala_c5(seed: number = 42): CurriculumQuesti
 
   // Q3 — circumstanțială de loc: identificare
   qs.push(createMCQ(T, S,
-    "Ce tip de propoziție subordonată este „unde locuiește bunica” din „Mergem unde locuiește bunica.”?",
+    "Ce tip de propoziție subordonată este „unde locuiește bunica" din „Mergem unde locuiește bunica."?",
     "propoziție circumstanțială de loc",
     ["propoziție circumstanțială de timp", "propoziție circumstanțială de mod", "propoziție atributivă"],
     rng
@@ -248,7 +323,7 @@ export function gen_prop_circumstantiala_c5(seed: number = 42): CurriculumQuesti
 
   // Q5 — circumstanțială de mod: identificare
   qs.push(createMCQ(T, S,
-    "Ce tip de propoziție subordonată este „cum i-a spus profesorul” din „A rezolvat problema cum i-a spus profesorul.”?",
+    "Ce tip de propoziție subordonată este „cum i-a spus profesorul" din „A rezolvat problema cum i-a spus profesorul."?",
     "propoziție circumstanțială de mod",
     ["propoziție circumstanțială de timp", "propoziție circumstanțială de loc", "propoziție completivă directă"],
     rng
@@ -269,6 +344,30 @@ export function gen_prop_circumstantiala_c5(seed: number = 42): CurriculumQuesti
     ["când?, de când?", "unde?, de unde?", "cine?, ce?"],
     rng
   ));
+
+  qs.push(createTyping(T, S,
+    "Ce se numește propoziția care exprimă timp, loc, mod?",
+    "circumstanțială"));
+
+  qs.push(createTyping(T, S,
+    "La ce întrebare răspunde circumstanțiala de timp?",
+    "când"));
+
+  qs.push(createTyping(T, S,
+    "La ce întrebare răspunde circumstanțiala de loc?",
+    "unde"));
+
+  qs.push(createTyping(T, S,
+    "La ce întrebare răspunde circumstanțiala de mod?",
+    "cum"));
+
+  qs.push(createTyping(T, S,
+    "Ce adverbe introduc circumstanțiale de timp?",
+    "când"));
+
+  qs.push(createTyping(T, S,
+    "Cum se numesc circumstanțialele?",
+    "subordonate"));
 
   return shuffle(qs, rng);
 }
