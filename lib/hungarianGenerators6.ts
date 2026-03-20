@@ -860,25 +860,6 @@ export function generateKözlekedés(seed?: number): CurriculumMCQ[] {
 
 // ─── TYPING GENERATORS FOR GRADE 6 ─────────────────────────────────────────
 
-type CurriculumTyping = {
-  type: "typing";
-  topic: string;
-  subtopic: string;
-  question: string;
-  answer: string | string[];
-  hint?: string;
-};
-
-function createTyping(
-  topic: string,
-  subtopic: string,
-  question: string,
-  answer: string | string[],
-  hint?: string
-): CurriculumTyping {
-  return { type: "typing", topic, subtopic, question, answer, hint };
-}
-
 export function generateSzopárAntonimia_typing(seed?: number): CurriculumTyping[] {
   const q: CurriculumTyping[] = [];
   for (let i = 0; i < 10; i++) {
@@ -1124,15 +1105,4 @@ export const G6_Generators_Hungarian = {
   szómagyarázat_typing: generateSzómagyarázat_typing,
   közlekedés_szövegelemzése: generateKözlekedés,
   közlekedés_szövegelemzése_typing: generateKözlekedés_typing,
-};
-  osszetett_mellér: generateOsszetetMeller,
-  osszetett_alár: generateOsszetetAlar,
-  hasonlat_metafora: generateHasonlatMetafora,
-  megszemelyes: generateMegszemelyesites,
-  idegen_szavak: generateIdgenSzavak,
-  nyelvcsal: generateNyelvcsal,
-  erveles_alap: generateErveles,
-  ertelmez_halado: generateSzovegErtelmez,
-  tulajdonnev: generateTulajdonnev,
-  essze: generateEssze,
 };
