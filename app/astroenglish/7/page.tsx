@@ -25,6 +25,12 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K7_ISLAND_SVGS } from "@/app/astroenglish/islands-k7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "fill-gap"
+  | "category-rush"
+  | "grammar-match"
+  | "word-sort"
+  | "sentence-builder"
+  | "spell-race"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,243 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K7 explorers ──────────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateFillGapK7(islandId: string): FillGapRound[] {
+  if (islandId === "i3") {
+    return [
+      { sentence: "The book ___ read by thousands of students every year.", options: ["is being", "was being", "has been", "will be"], correctIndex: 2, explanation: "Present perfect passive shows completion from past to present." },
+      { sentence: "If she ___ the deadline, she would have submitted the project on time.", options: ["had met", "meets", "would meet", "is meeting"], correctIndex: 0, explanation: "Subjunctive mood requires past perfect in conditional clause." },
+      { sentence: "Although he was tired, he ___ to help his friend.", options: ["continuing", "continue", "continued", "was continuing"], correctIndex: 2, explanation: "Simple past is appropriate for completed action in past." },
+      { sentence: "The argument ___ by several logical fallacies weakened the essay.", options: ["undermining", "undermined", "being undermined", "to undermine"], correctIndex: 1, explanation: "Past participle used as adjective modifies the noun." },
+      { sentence: "She ___ speak French fluently if she practiced daily.", options: ["can", "could", "would can", "should"], correctIndex: 1, explanation: "Conditional mood uses 'could' for hypothetical ability." },
+      { sentence: "The activists ___ by the government's lack of response to their concerns.", options: ["frustrating", "frustrated", "being frustrated", "to frustrate"], correctIndex: 1, explanation: "Past participle shows emotional state caused by external action." },
+      { sentence: "If we ___ sustainable practices now, future generations will benefit.", options: ["adopt", "would adopt", "adopted", "will adopt"], correctIndex: 0, explanation: "Simple present in if-clause with future consequence." },
+      { sentence: "Despite the obstacles, the team ___ determined to succeed.", options: ["remain", "remaining", "remained", "remains"], correctIndex: 3, explanation: "Present tense shows current state that persists." },
+    ];
+  }
+  if (islandId === "i4") {
+    return [
+      { sentence: "She walked ___ carefully ___ the crowded hallway.", options: ["through", "around", "by", "into"], correctIndex: 0, explanation: "'Through' shows movement within a space." },
+      { sentence: "The author ___ a powerful argument for educational reform.", options: ["advanced", "advanced", "advances", "is advancing"], correctIndex: 0, explanation: "Simple past for completed action in historical context." },
+      { sentence: "His essay contained ___ grammatical errors ___ logical flaws.", options: ["both...and", "neither...nor", "either...or", "not only...but also"], correctIndex: 3, explanation: "'Not only...but also' adds emphasis and connects two equally important ideas." },
+      { sentence: "The semicolon ___ separate two independent clauses that are closely related.", options: ["can", "must", "should", "cannot"], correctIndex: 0, explanation: "Semicolons can separate independent clauses with related ideas." },
+      { sentence: "They were ___ inspired ___ the speaker's words.", options: ["so...that", "much...as", "very...by", "deeply...by"], correctIndex: 3, explanation: "'Deeply' and 'by' correctly express profound emotion caused by something." },
+      { sentence: "The dash ___ sometimes used for emphasis ___ additional information.", options: ["is...or", "are...and", "can be...or", "will be...and"], correctIndex: 2, explanation: "Dashes can introduce emphasis or provide further explanation." },
+      { sentence: "Colons typically introduce ___ list ___ explanation.", options: ["a...or an", "the...and the", "a...and an", "or...or"], correctIndex: 0, explanation: "Colons introduce lists or explanations using singular article." },
+      { sentence: "The debate highlighted ___ important differences ___ similar goals.", options: ["many...yet", "some...but", "few...and", "several...yet"], correctIndex: 3, explanation: "'Yet' creates appropriate contrast despite similarity." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK7(islandId: string): CategoryRushRound[] {
+  if (islandId === "i6") {
+    return [
+      {
+        items: [
+          { text: "Facilitate", category: "academic" },
+          { text: "Argue", category: "academic" },
+          { text: "Help out", category: "casual" },
+          { text: "Back up", category: "casual" },
+          { text: "Assert", category: "academic" },
+          { text: "Pitch in", category: "casual" },
+        ],
+        categories: ["academic", "casual"],
+      },
+      {
+        items: [
+          { text: "Demonstrate", category: "academic" },
+          { text: "Show", category: "casual" },
+          { text: "Elucidate", category: "academic" },
+          { text: "Explain", category: "casual" },
+          { text: "Illustrate", category: "academic" },
+          { text: "Make clear", category: "casual" },
+        ],
+        categories: ["academic", "casual"],
+      },
+      {
+        items: [
+          { text: "Subsequently", category: "academic" },
+          { text: "Then", category: "casual" },
+          { text: "Heretofore", category: "academic" },
+          { text: "Before that", category: "casual" },
+          { text: "Accordingly", category: "academic" },
+          { text: "So", category: "casual" },
+        ],
+        categories: ["academic", "casual"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateGrammarMatchK7(islandId: string): GrammarMatchRound[] {
+  if (islandId === "i2") {
+    return [
+      {
+        question: "Match sentence types with their definitions:",
+        items: [
+          { text: "Simple sentence", id: "1" },
+          { text: "Compound sentence", id: "2" },
+          { text: "Complex sentence", id: "3" },
+          { text: "Compound-complex", id: "4" },
+        ],
+        pairs: { "1": "One independent clause only", "2": "Two or more independent clauses", "3": "One independent + one or more dependent clauses", "4": "Multiple independent clauses + dependent clauses" },
+        explanation: "Sentence types depend on number and combination of independent/dependent clauses.",
+      },
+      {
+        question: "Match modifiers with their descriptions:",
+        items: [
+          { text: "Misplaced modifier", id: "1" },
+          { text: "Dangling modifier", id: "2" },
+          { text: "Squinting modifier", id: "3" },
+        ],
+        pairs: { "1": "Modifier placed away from intended noun", "2": "Modifier lacks clear noun to modify", "3": "Modifier could refer to multiple words" },
+        explanation: "Understanding modifier problems improves sentence clarity.",
+      },
+    ];
+  }
+  if (islandId === "i5") {
+    return [
+      {
+        question: "Match figurative language types:",
+        items: [
+          { text: "Metaphor", id: "1" },
+          { text: "Simile", id: "2" },
+          { text: "Personification", id: "3" },
+          { text: "Hyperbole", id: "4" },
+        ],
+        pairs: { "1": "Direct comparison between unlike things", "2": "Comparison using 'like' or 'as'", "3": "Giving human qualities to non-human things", "4": "Extreme exaggeration for effect" },
+        explanation: "Figurative language creates vivid imagery and emotional impact.",
+      },
+      {
+        question: "Match connotation terms:",
+        items: [
+          { text: "Positive connotation", id: "1" },
+          { text: "Negative connotation", id: "2" },
+          { text: "Neutral connotation", id: "3" },
+        ],
+        pairs: { "1": "Word implies approval or favorable qualities", "2": "Word implies disapproval or unfavorable qualities", "3": "Word has factual meaning without emotional weight" },
+        explanation: "Word choice affects reader perception and emotion.",
+      },
+    ];
+  }
+  if (islandId === "i8") {
+    return [
+      {
+        question: "Match clause types with purposes:",
+        items: [
+          { text: "Cause/effect clause", id: "1" },
+          { text: "Conditional clause", id: "2" },
+          { text: "Concessive clause", id: "3" },
+        ],
+        pairs: { "1": "Shows why something happens", "2": "Shows condition that affects result", "3": "Acknowledges opposing idea while maintaining main point" },
+        explanation: "Different clause types create specific logical relationships.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK7(islandId: string): WordSortRound[] {
+  if (islandId === "i1") {
+    return [
+      {
+        words: ["running", "quickly", "exciting", "near", "bright", "slowly"],
+        categories: ["adjective", "adverb"],
+        wordCategories: { running: "adjective", quickly: "adverb", exciting: "adjective", near: "adverb", bright: "adjective", slowly: "adverb" },
+      },
+      {
+        words: ["above", "never", "inside", "rarely", "throughout", "always"],
+        categories: ["preposition", "adverb"],
+        wordCategories: { above: "preposition", never: "adverb", inside: "preposition", rarely: "adverb", throughout: "preposition", always: "adverb" },
+      },
+      {
+        words: ["infinitive", "gerund", "participle", "noun", "verb", "adjective"],
+        categories: ["verbal", "non-verbal"],
+        wordCategories: { infinitive: "verbal", gerund: "verbal", participle: "verbal", noun: "non-verbal", verb: "non-verbal", adjective: "non-verbal" },
+      },
+    ];
+  }
+  if (islandId === "i9") {
+    return [
+      {
+        words: ["swimming", "walked", "jumping", "will run", "to dance", "created"],
+        categories: ["gerund", "past tense", "infinitive"],
+        wordCategories: { swimming: "gerund", walked: "past tense", jumping: "gerund", "will run": "infinitive", "to dance": "infinitive", created: "past tense" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK7(islandId: string): SentenceBuilderRound[] {
+  if (islandId === "i7") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "To support her argument" },
+          { type: "blank", options: ["she cited", "she has cited", "she is citing"] },
+          { type: "text", value: "multiple credible sources." },
+        ],
+        correctFill: "she cited",
+        explanation: "Simple past works here for completed action that supports the infinitive phrase.",
+      },
+      {
+        parts: [
+          { type: "text", value: "The evidence" },
+          { type: "blank", options: ["proves", "proved", "is proving"] },
+          { type: "text", value: "the author's central thesis." },
+        ],
+        correctFill: "proves",
+        explanation: "Simple present for general truth about the evidence.",
+      },
+      {
+        parts: [
+          { type: "text", value: "After the counterargument was presented," },
+          { type: "blank", options: ["the speaker rebuts", "the speaker rebutted", "the speaker will rebut"] },
+          { type: "text", value: "it effectively." },
+        ],
+        correctFill: "the speaker rebutted",
+        explanation: "Past tense aligns with past time signal 'after the counterargument was presented'.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK7(islandId: string): SpellRaceRound[] {
+  return [];
+}
+
+function getExplorerContentK7(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "fill-gap":
+      return generateFillGapK7(islandId);
+    case "category-rush":
+      return generateCategoryRushK7(islandId);
+    case "grammar-match":
+      return generateGrammarMatchK7(islandId);
+    case "word-sort":
+      return generateWordSortK7(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK7(islandId);
+    case "spell-race":
+      return generateSpellRaceK7(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK7Page() {
   const { lang } = useLang();
@@ -472,8 +721,8 @@ export default function AstroEnglishK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = [];
-    if (noQuestionsTypes.includes(mission.gameType)) {
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+    if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -789,11 +1038,29 @@ export default function AstroEnglishK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK7(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK7(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK7(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK7(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK7(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK7(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

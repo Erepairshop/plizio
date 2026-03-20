@@ -25,6 +25,12 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K4_ISLAND_SVGS } from "@/app/astroenglish/islands-k4";
 import {
   K4_ISLANDS, K4_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,321 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K4 explorers ──────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateGrammarMatchK4(islandId: string): GrammarMatchRound[] {
+  // Pronoun Planet (i1) - relative pronouns & relative adverbs
+  if (islandId === "i1") {
+    return [
+      {
+        question: "Match relative pronouns with example sentences:",
+        items: [
+          { text: "who", id: "1" },
+          { text: "whom", id: "2" },
+          { text: "whose", id: "3" },
+          { text: "which", id: "4" },
+        ],
+        pairs: { "1": "The teacher who helps us is nice", "2": "The boy whom I saw is tall", "3": "The girl whose book is here", "4": "The cat which sleeps is orange" },
+        explanation: "Relative pronouns connect clauses to nouns.",
+      },
+      {
+        question: "Match relative adverbs with their uses:",
+        items: [
+          { text: "where", id: "1" },
+          { text: "when", id: "2" },
+          { text: "why", id: "3" },
+        ],
+        pairs: { "1": "The park where we play", "2": "The day when we met", "3": "The reason why you left" },
+        explanation: "Relative adverbs introduce relative clauses.",
+      },
+      {
+        question: "Choose correct relative pronouns for objects:",
+        items: [
+          { text: "who/whom", id: "1" },
+          { text: "that/which", id: "2" },
+        ],
+        pairs: { "1": "The person whom they invited (object)", "2": "The book which I read (object)" },
+        explanation: "Use whom for objects, who for subjects.",
+      },
+    ];
+  }
+  // Modal Moon (i2) - modal auxiliaries
+  if (islandId === "i2") {
+    return [
+      {
+        question: "Match modal verbs with their functions:",
+        items: [
+          { text: "can", id: "1" },
+          { text: "could", id: "2" },
+          { text: "must", id: "3" },
+          { text: "should", id: "4" },
+        ],
+        pairs: { "1": "Present ability: I can swim", "2": "Past ability: I could run fast", "3": "Obligation: You must try harder", "4": "Advice: You should sleep more" },
+        explanation: "Modal verbs express ability, obligation, or advice.",
+      },
+      {
+        question: "Match progressive tenses with their meanings:",
+        items: [
+          { text: "is/are + -ing", id: "1" },
+          { text: "was/were + -ing", id: "2" },
+          { text: "will be + -ing", id: "3" },
+        ],
+        pairs: { "1": "Present: I am reading now", "2": "Past: She was writing a letter", "3": "Future: They will be playing tomorrow" },
+        explanation: "Progressive tenses show ongoing actions.",
+      },
+    ];
+  }
+  // Adjective Orbit (i3) - adjective order & prepositional phrases
+  if (islandId === "i3") {
+    return [
+      {
+        question: "Arrange adjectives in correct order:",
+        items: [
+          { text: "big yellow", id: "1" },
+          { text: "round wooden", id: "2" },
+          { text: "small blue", id: "3" },
+        ],
+        pairs: { "1": "size + color order", "2": "shape + material order", "3": "size + color order" },
+        explanation: "In English, adjectives follow a natural order (size, shape, color, material).",
+      },
+      {
+        question: "Identify prepositional phrases:",
+        items: [
+          { text: "in the box", id: "1" },
+          { text: "under the table", id: "2" },
+          { text: "with my friend", id: "3" },
+        ],
+        pairs: { "1": "location", "2": "location", "3": "accompaniment" },
+        explanation: "Prepositions show relationships between words.",
+      },
+    ];
+  }
+  // Sentence Supernova (i4) - sentence fragments & compound sentences
+  if (islandId === "i4") {
+    return [
+      {
+        question: "Identify fragments vs. complete sentences:",
+        items: [
+          { text: "The dog ran quickly.", id: "1" },
+          { text: "After the bell rang.", id: "2" },
+          { text: "She wrote a letter.", id: "3" },
+        ],
+        pairs: { "1": "complete sentence (subject + verb + object)", "2": "fragment (missing main clause)", "3": "complete sentence (subject + verb + object)" },
+        explanation: "Complete sentences need a subject and verb.",
+      },
+      {
+        question: "Compound sentence structures:",
+        items: [
+          { text: "and", id: "1" },
+          { text: "but", id: "2" },
+          { text: "or", id: "3" },
+        ],
+        pairs: { "1": "joins equal ideas: I like pizza AND pasta", "2": "shows contrast: She is tall BUT kind", "3": "shows choice: Tea OR coffee?" },
+        explanation: "Conjunctions connect independent clauses.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateFillGapK4(islandId: string): FillGapRound[] {
+  // Modal Moon (i2) - fill gaps with modals
+  if (islandId === "i2") {
+    return [
+      { sentence: "You ___ finish your homework before you play.", options: ["should", "can", "will", "might"], correctIndex: 0, explanation: "'Should' gives advice — you ought to finish first." },
+      { sentence: "She ___ speak three languages fluently.", options: ["can", "must", "will", "should"], correctIndex: 0, explanation: "'Can' shows ability — she is able to speak them." },
+      { sentence: "You ___ not touch the hot stove!", options: ["must", "can", "will", "would"], correctIndex: 0, explanation: "'Must not' expresses strong prohibition." },
+      { sentence: "He ___ be late if he doesn't hurry.", options: ["might", "can", "will", "should"], correctIndex: 0, explanation: "'Might' shows possibility — it's not certain." },
+      { sentence: "When I was younger, I ___ climb trees easily.", options: ["could", "can", "will", "should"], correctIndex: 0, explanation: "'Could' expresses past ability." },
+      { sentence: "You ___ study every day to improve.", options: ["should", "might", "will", "can"], correctIndex: 0, explanation: "'Should' gives helpful advice." },
+      { sentence: "It ___ rain tomorrow, so bring an umbrella.", options: ["might", "will", "can", "should"], correctIndex: 0, explanation: "'Might' indicates possibility." },
+      { sentence: "I ___ help you with this problem.", options: ["can", "will", "might", "should"], correctIndex: 0, explanation: "'Can' shows willingness and ability." },
+    ];
+  }
+  // Speech Spiral (i5) - punctuation & direct speech
+  if (islandId === "i5") {
+    return [
+      { sentence: "She said___ \"I love reading books.\"", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Comma before direct speech is standard English." },
+      { sentence: "The book___ titled \"Harry Potter\"___ sold millions of copies.", options: [",", "—", ";", ":"], correctIndex: 0, explanation: "Commas set off the title." },
+      { sentence: "My friend___ who loves soccer___ plays every weekend.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas offset the appositive clause." },
+      { sentence: "I need these things___ pen, paper, and markers.", options: [":", ";", "—", ","], correctIndex: 0, explanation: "A colon introduces a list." },
+      { sentence: "She has three goals___ reading, writing, and thinking.", options: [":", ";", "—", ","], correctIndex: 0, explanation: "A colon introduces items being listed." },
+      { sentence: "The author___ Mark Twain___ wrote many classics.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas offset an appositive noun phrase." },
+      { sentence: "He asked___ \"What time is the movie?\"", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Comma before a direct quotation." },
+      { sentence: "The painting___ which hung in the museum___ was priceless.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas set off a relative clause." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK4(islandId: string): CategoryRushRound[] {
+  // Sentence Supernova (i4) - sentence types
+  if (islandId === "i4") {
+    return [
+      {
+        items: [
+          { text: "I like pizza.", category: "simple" },
+          { text: "She reads and he writes.", category: "compound" },
+          { text: "Because it rained, we stayed home.", category: "complex" },
+          { text: "They sang, danced, and played.", category: "compound" },
+          { text: "When the sun rose, the birds chirped.", category: "complex" },
+          { text: "He jumped.", category: "simple" },
+        ],
+        categories: ["simple", "compound", "complex"],
+      },
+      {
+        items: [
+          { text: "How beautiful!", category: "exclamatory" },
+          { text: "What time is it?", category: "interrogative" },
+          { text: "I love sunsets.", category: "declarative" },
+          { text: "Please sit down.", category: "imperative" },
+          { text: "Do you like ice cream?", category: "interrogative" },
+          { text: "That's amazing!", category: "exclamatory" },
+        ],
+        categories: ["declarative", "interrogative", "imperative", "exclamatory"],
+      },
+    ];
+  }
+  // Synonym Sky (i7) - word synonyms & antonyms
+  if (islandId === "i7") {
+    return [
+      {
+        items: [
+          { text: "happy", category: "positive" },
+          { text: "sad", category: "negative" },
+          { text: "joyful", category: "positive" },
+          { text: "gloomy", category: "negative" },
+          { text: "cheerful", category: "positive" },
+          { text: "miserable", category: "negative" },
+        ],
+        categories: ["positive", "negative"],
+      },
+      {
+        items: [
+          { text: "big", category: "size" },
+          { text: "smart", category: "intelligence" },
+          { text: "large", category: "size" },
+          { text: "clever", category: "intelligence" },
+          { text: "tiny", category: "size" },
+          { text: "brilliant", category: "intelligence" },
+        ],
+        categories: ["size", "intelligence"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK4(islandId: string): SentenceBuilderRound[] {
+  // Adjective Orbit (i3) - build sentences with adjectives
+  if (islandId === "i3") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "The" },
+          { type: "blank", options: ["big", "small", "happy"] },
+          { type: "text", value: "cat sat on the" },
+          { type: "blank", options: ["soft", "hard", "cold"] },
+          { type: "text", value: "pillow." },
+        ],
+        correctFill: "big",
+        explanation: "Adjectives describe size and texture before nouns.",
+      },
+      {
+        parts: [
+          { type: "text", value: "She wore a" },
+          { type: "blank", options: ["blue", "red", "green"] },
+          { type: "text", value: "dress to the" },
+          { type: "blank", options: ["beautiful", "fun", "special"] },
+          { type: "text", value: "party." },
+        ],
+        correctFill: "blue",
+        explanation: "Color adjectives typically come before other descriptors.",
+      },
+      {
+        parts: [
+          { type: "text", value: "The" },
+          { type: "blank", options: ["round", "square", "long"] },
+          { type: "text", value: "wooden" },
+          { type: "blank", options: ["table", "chair", "desk"] },
+          { type: "text", value: "is in the kitchen." },
+        ],
+        correctFill: "round",
+        explanation: "Shape comes before material in adjective order.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK4(islandId: string): WordSortRound[] {
+  // Synonym Sky (i7) - sort synonyms
+  if (islandId === "i7") {
+    return [
+      {
+        words: ["happy", "joyful", "delighted", "sad", "gloomy", "miserable"],
+        categories: ["positive emotions", "negative emotions"],
+        wordCategories: { happy: "positive emotions", joyful: "positive emotions", delighted: "positive emotions", sad: "negative emotions", gloomy: "negative emotions", miserable: "negative emotions" },
+      },
+      {
+        words: ["big", "large", "huge", "small", "tiny", "little"],
+        categories: ["large", "small"],
+        wordCategories: { big: "large", large: "large", huge: "large", small: "small", tiny: "small", little: "small" },
+      },
+      {
+        words: ["beautiful", "ugly", "pretty", "attractive", "plain", "handsome"],
+        categories: ["attractive", "unattractive"],
+        wordCategories: { beautiful: "attractive", ugly: "unattractive", pretty: "attractive", attractive: "attractive", plain: "unattractive", handsome: "attractive" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK4(islandId: string): SpellRaceRound[] {
+  // Capital Crater (i6) - commonly confused words
+  if (islandId === "i6") {
+    return [
+      { word: "their", targetLanguage: "en" },
+      { word: "there", targetLanguage: "en" },
+      { word: "they're", targetLanguage: "en" },
+      { word: "its", targetLanguage: "en" },
+      { word: "it's", targetLanguage: "en" },
+      { word: "your", targetLanguage: "en" },
+      { word: "you're", targetLanguage: "en" },
+      { word: "affect", targetLanguage: "en" },
+    ];
+  }
+  return [];
+}
+
+function getExplorerContentK4(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "grammar-match":
+      return generateGrammarMatchK4(islandId);
+    case "fill-gap":
+      return generateFillGapK4(islandId);
+    case "category-rush":
+      return generateCategoryRushK4(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK4(islandId);
+    case "word-sort":
+      return generateWordSortK4(islandId);
+    case "spell-race":
+      return generateSpellRaceK4(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK4Page() {
   const { lang } = useLang();
@@ -472,7 +799,8 @@ export default function AstroEnglishK4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort"];
+    const explorerTypes = ["grammar-match", "fill-gap", "category-rush", "sentence-builder", "word-sort", "spell-race"];
+    const noQuestionsTypes: string[] = ["gravity-sort", ...explorerTypes];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -789,11 +1117,29 @@ export default function AstroEnglishK4Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK4(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK4(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK4(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK4(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK4(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK4(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

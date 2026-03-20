@@ -25,6 +25,12 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K3_ISLAND_SVGS } from "@/app/astroenglish/islands-k3";
 import {
   K3_ISLANDS, K3_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,241 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K3 explorers ──────────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateFillGapK3(islandId: string): FillGapRound[] {
+  // Word Family Falls (i7) — homophones and similar words
+  if (islandId === "i7") {
+    return [
+      { sentence: "The ___ is blue.", options: ["sea", "see", "be"], correctIndex: 0, explanation: "'Sea' is the ocean. 'See' means to look." },
+      { sentence: "I ___ a new book.", options: ["brake", "break", "brake"], correctIndex: 1, explanation: "'Break' means to snap. 'Brake' stops a car." },
+      { sentence: "The ___ is on the table.", options: ["flour", "flower", "flour"], correctIndex: 0, explanation: "'Flour' is for baking. 'Flower' is a plant." },
+      { sentence: "Did you ___ the door?", options: ["know", "no", "know"], correctIndex: 0, explanation: "'Know' means to understand. 'No' is the opposite of yes." },
+      { sentence: "I ___ the rope tightly.", options: ["tied", "tide", "tied"], correctIndex: 0, explanation: "'Tied' means connected. 'Tide' is ocean movement." },
+      { sentence: "The ___ flew across the sky.", options: ["bald", "bawled", "balled"], correctIndex: 0, explanation: "'Bald' means no hair. 'Bawled' means cried loudly." },
+      { sentence: "We walked down the ___ .", options: ["rode", "road", "rowed"], correctIndex: 1, explanation: "'Road' is for cars. 'Rode' is past tense of ride." },
+      { sentence: "The ___ of music filled the room.", options: ["sweet", "suite", "sweat"], correctIndex: 0, explanation: "'Sweet' is a pleasant taste. 'Suite' is a set of rooms." },
+    ];
+  }
+  // Tense Tower (i2) — verb tenses
+  if (islandId === "i2") {
+    return [
+      { sentence: "She ___ to the store yesterday.", options: ["goes", "went", "is going"], correctIndex: 1, explanation: "Past action uses simple past 'went'." },
+      { sentence: "They ___ breakfast right now.", options: ["eat", "ate", "are eating"], correctIndex: 2, explanation: "Current action uses present continuous 'are eating'." },
+      { sentence: "He ___ his homework every day.", options: ["does", "did", "is doing"], correctIndex: 0, explanation: "Habitual action uses simple present 'does'." },
+      { sentence: "I ___ three books last week.", options: ["read", "reads", "am reading"], correctIndex: 0, explanation: "Completed past action uses simple past 'read'." },
+      { sentence: "She ___ a cake for the party tomorrow.", options: ["makes", "made", "is making"], correctIndex: 2, explanation: "Future action already planned uses present continuous 'is making'." },
+      { sentence: "We ___ to the park on Saturdays.", options: ["go", "went", "are going"], correctIndex: 0, explanation: "Regular habit uses simple present 'go'." },
+      { sentence: "He ___ the ball across the field.", options: ["throws", "threw", "is throwing"], correctIndex: 1, explanation: "Completed past action uses simple past 'threw'." },
+      { sentence: "They ___ dinner when we arrived.", options: ["eat", "ate", "were eating"], correctIndex: 2, explanation: "Action in progress in the past uses past continuous 'were eating'." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK3(islandId: string): CategoryRushRound[] {
+  if (islandId === "i3") {
+    return [
+      {
+        items: [
+          { text: "quickly", category: "adverb" },
+          { text: "beautiful", category: "adjective" },
+          { text: "slowly", category: "adverb" },
+          { text: "bright", category: "adjective" },
+          { text: "happily", category: "adverb" },
+          { text: "green", category: "adjective" },
+        ],
+        categories: ["adverb", "adjective"],
+      },
+      {
+        items: [
+          { text: "yesterday", category: "adverb" },
+          { text: "tall", category: "adjective" },
+          { text: "loudly", category: "adverb" },
+          { text: "soft", category: "adjective" },
+          { text: "carefully", category: "adverb" },
+          { text: "cold", category: "adjective" },
+        ],
+        categories: ["adverb", "adjective"],
+      },
+      {
+        items: [
+          { text: "gently", category: "adverb" },
+          { text: "angry", category: "adjective" },
+          { text: "there", category: "adverb" },
+          { text: "kind", category: "adjective" },
+          { text: "forward", category: "adverb" },
+          { text: "silly", category: "adjective" },
+        ],
+        categories: ["adverb", "adjective"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateGrammarMatchK3(islandId: string): GrammarMatchRound[] {
+  if (islandId === "i5") {
+    return [
+      {
+        question: "Match quotation punctuation with examples:",
+        items: [
+          { text: '"Hello!" she said.', id: "1" },
+          { text: '"I want to go," he said.', id: "2" },
+          { text: '"Why?" I asked.', id: "3" },
+        ],
+        pairs: { "1": "Exclamation inside quotes", "2": "Comma after dialogue", "3": "Question mark inside quotes" },
+        explanation: "Punctuation goes inside quotes. Commas separate dialogue from dialogue tags.",
+      },
+      {
+        question: "Match sentence types with examples:",
+        items: [
+          { text: "Dogs run and cats sleep.", id: "1" },
+          { text: "Run fast!", id: "2" },
+          { text: "Is it raining?", id: "3" },
+        ],
+        pairs: { "1": "Compound sentence (two simple sentences joined)", "2": "Imperative (a command)", "3": "Interrogative (a question)" },
+        explanation: "Compound sentences have two independent clauses. Imperatives are commands.",
+      },
+    ];
+  }
+  if (islandId === "i8") {
+    return [
+      {
+        question: "Match word meanings with literal/non-literal uses:",
+        items: [
+          { text: "It's raining cats and dogs", id: "1" },
+          { text: "She has a heart of gold", id: "2" },
+          { text: "The garden is a jungle", id: "3" },
+        ],
+        pairs: { "1": "Non-literal: Heavy rain (idiom)", "2": "Non-literal: Very kind person (metaphor)", "3": "Non-literal: Very overgrown (metaphor)" },
+        explanation: "Non-literal language uses words creatively. Literal language is straightforward.",
+      },
+      {
+        question: "Match synonyms with their meanings:",
+        items: [
+          { text: "happy / joyful", id: "1" },
+          { text: "big / huge", id: "2" },
+          { text: "scared / afraid", id: "3" },
+        ],
+        pairs: { "1": "Same meaning: Feeling pleasure", "2": "Same meaning: Very large", "3": "Same meaning: Feeling fear" },
+        explanation: "Synonyms are words with similar meanings.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK3(islandId: string): WordSortRound[] {
+  if (islandId === "i1") {
+    return [
+      {
+        words: ["dog", "cat", "bird", "fish", "tree", "flower"],
+        categories: ["animal", "plant"],
+        wordCategories: { dog: "animal", cat: "animal", bird: "animal", fish: "animal", tree: "plant", flower: "plant" },
+      },
+      {
+        words: ["apple", "orange", "carrot", "broccoli", "grape", "beans"],
+        categories: ["fruit", "vegetable"],
+        wordCategories: { apple: "fruit", orange: "fruit", carrot: "vegetable", broccoli: "vegetable", grape: "fruit", beans: "vegetable" },
+      },
+      {
+        words: ["run", "jump", "sit", "laugh", "cry", "sleep"],
+        categories: ["active", "quiet"],
+        wordCategories: { run: "active", jump: "active", sit: "quiet", laugh: "active", cry: "quiet", sleep: "quiet" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK3(islandId: string): SentenceBuilderRound[] {
+  if (islandId === "i4") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "The subject is" },
+          { type: "blank", options: ["who or what", "how it acts", "where it goes"] },
+          { type: "text", value: "the sentence is about." },
+        ],
+        correctFill: "who or what",
+        explanation: "The subject is the main noun or 'who/what' the sentence describes.",
+      },
+      {
+        parts: [
+          { type: "text", value: "The predicate tells" },
+          { type: "blank", options: ["who it is", "what the subject does", "when it happens"] },
+          { type: "text", value: "." },
+        ],
+        correctFill: "what the subject does",
+        explanation: "The predicate contains the verb and tells what the subject does or is.",
+      },
+      {
+        parts: [
+          { type: "text", value: "In 'Cats are sleeping,' the subject is" },
+          { type: "blank", options: ["cats", "are sleeping", "the action"] },
+          { type: "text", value: "." },
+        ],
+        correctFill: "cats",
+        explanation: "'Cats' is the noun — who/what the sentence is about.",
+      },
+      {
+        parts: [
+          { type: "text", value: "A compound sentence joins two simple sentences with" },
+          { type: "blank", options: ["a comma", "a comma and a conjunction", "a period"] },
+          { type: "text", value: "." },
+        ],
+        correctFill: "a comma and a conjunction",
+        explanation: "Compound sentences use 'and', 'but', or 'or' to join independent clauses.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK3(islandId: string): SpellRaceRound[] {
+  if (islandId === "i6") {
+    return [
+      { word: "unhappy", targetLanguage: "en" },
+      { word: "rewrite", targetLanguage: "en" },
+      { word: "beautiful", targetLanguage: "en" },
+      { word: "careful", targetLanguage: "en" },
+      { word: "disappear", targetLanguage: "en" },
+      { word: "friendship", targetLanguage: "en" },
+      { word: "impossible", targetLanguage: "en" },
+      { word: "darkness", targetLanguage: "en" },
+    ];
+  }
+  return [];
+}
+
+function getExplorerContentK3(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "fill-gap":
+      return generateFillGapK3(islandId);
+    case "category-rush":
+      return generateCategoryRushK3(islandId);
+    case "grammar-match":
+      return generateGrammarMatchK3(islandId);
+    case "word-sort":
+      return generateWordSortK3(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK3(islandId);
+    case "spell-race":
+      return generateSpellRaceK3(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK3Page() {
   const { lang } = useLang();
@@ -472,15 +719,24 @@ export default function AstroEnglishK3Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort"];
-    if (noQuestionsTypes.includes(mission.gameType)) {
+
+    // Explorer games use generated content, quiz games use questions
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+
+    if (isExplorer) {
+      // Explorers don't need questions, content is generated per game
       setQuestions([]);
-      setScreen(mission.gameType as Screen);
-      return;
+    } else {
+      const noQuestionsTypes: string[] = ["gravity-sort"];
+      if (noQuestionsTypes.includes(mission.gameType)) {
+        setQuestions([]);
+      } else {
+        const qCount = mission.gameType === "star-match" ? 20 : 10;
+        const qs = generateIslandQuestionsK3(activeIsland, lang as Lang, qCount);
+        setQuestions(qs);
+      }
     }
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateIslandQuestionsK3(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -789,11 +1045,29 @@ export default function AstroEnglishK3Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK3(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK3(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK3(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK3(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK3(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK3(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

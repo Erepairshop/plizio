@@ -25,6 +25,12 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K8_ISLAND_SVGS } from "@/app/astroenglish/islands-k8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "fill-gap"
+  | "category-rush"
+  | "grammar-match"
+  | "word-sort"
+  | "sentence-builder"
+  | "spell-race"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,238 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K8 explorers ──────────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateFillGapK8(islandId: string): FillGapRound[] {
+  if (islandId === "i3") {
+    return [
+      { sentence: "If I ___ about the deadline earlier, I would have planned better.", options: ["knew", "had known", "know", "would know"], correctIndex: 1, explanation: "Subjunctive mood in conditionals requires past perfect in if-clause." },
+      { sentence: "The ___ voice emphasizes the object rather than the subject of action.", options: ["active", "passive", "subjunctive", "imperative"], correctIndex: 1, explanation: "Passive voice shifts focus from actor to receiver of action." },
+      { sentence: "She ___ complete the assignment, even though she was tired.", options: ["must", "could", "would", "should"], correctIndex: 0, explanation: "'Must' indicates necessity in the past; others indicate ability or obligation." },
+      { sentence: "Were she more confident, she ___ apply for the scholarship.", options: ["will", "would", "applies", "applied"], correctIndex: 1, explanation: "Subjunctive 'would' follows hypothetical 'were' condition." },
+      { sentence: "The thesis ___ supported by multiple pieces of evidence throughout the essay.", options: ["must be", "should have been", "is", "would be"], correctIndex: 0, explanation: "'Must be' shows requirement for thesis support in academic writing." },
+      { sentence: "I suggest that he ___ more attention to the rubric requirements.", options: ["pays", "pay", "paid", "would pay"], correctIndex: 1, explanation: "Subjunctive 'pay' (without 's') follows verbs of recommendation." },
+      { sentence: "The poem's meaning ___ interpreted in multiple ways depending on literary perspective.", options: ["can be", "could", "can", "will be"], correctIndex: 0, explanation: "'Can be' indicates possibility in passive voice." },
+      { sentence: "She ___ the evidence powerfully, which strengthened her argument.", options: ["presents", "presented", "had presented", "presenting"], correctIndex: 1, explanation: "Simple past shows completed action in chronological narrative." },
+    ];
+  }
+  if (islandId === "i8") {
+    return [
+      { sentence: "The author ___ ellipsis to create mystery and suspense.", options: ["uses", "using", "used", "has used"], correctIndex: 2, explanation: "Simple past for literary technique discussed in historical text." },
+      { sentence: "Em dashes ___ introduce additional information or dramatic breaks.", options: ["can", "could", "will", "shall"], correctIndex: 0, explanation: "'Can' shows ability/possibility of dashes to introduce information." },
+      { sentence: "The comma ___ separate items ___ a series of related ideas.", options: ["separates...and", "can separate...in", "should separate...with", "will separate...from"], correctIndex: 1, explanation: "'Can separate...in' is precise for complex punctuation function." },
+      { sentence: "Using ___ punctuation makes writing clearer and more professional.", options: ["correct", "correctly", "correcting", "correction"], correctIndex: 0, explanation: "Adjective 'correct' modifies the noun 'punctuation'." },
+      { sentence: "The semicolon ___ two independent clauses that share close relationships.", options: ["connects", "connecting", "connect", "are connecting"], correctIndex: 0, explanation: "Simple present for general grammar rule about semicolons." },
+      { sentence: "If writers ___ punctuation rules, their writing becomes ambiguous.", options: ["ignore", "ignored", "ignores", "will ignore"], correctIndex: 0, explanation: "Simple present in conditional showing habitual result." },
+      { sentence: "Dashes, unlike commas, ___ more emphatic pauses in prose.", options: ["create", "creates", "creating", "created"], correctIndex: 0, explanation: "Simple present for general stylistic comparison." },
+      { sentence: "The article ___ on complex punctuation ___ essential for advanced writers.", options: ["focuses...as", "focused...as being", "focus...for", "focuses...as being"], correctIndex: 0, explanation: "'Focuses...as' correctly structures the idea." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK8(islandId: string): CategoryRushRound[] {
+  if (islandId === "i5") {
+    return [
+      {
+        items: [
+          { text: "First person", category: "perspective" },
+          { text: "Third person limited", category: "perspective" },
+          { text: "Autobiography", category: "genre" },
+          { text: "Science fiction", category: "genre" },
+          { text: "Stream of consciousness", category: "perspective" },
+          { text: "Mystery novel", category: "genre" },
+        ],
+        categories: ["perspective", "genre"],
+      },
+      {
+        items: [
+          { text: "Omniscient narrator", category: "perspective" },
+          { text: "Memoir", category: "genre" },
+          { text: "Gothic fiction", category: "genre" },
+          { text: "Second person", category: "perspective" },
+          { text: "Historical fiction", category: "genre" },
+          { text: "Unreliable narrator", category: "perspective" },
+        ],
+        categories: ["perspective", "genre"],
+      },
+    ];
+  }
+  if (islandId === "i7") {
+    return [
+      {
+        items: [
+          { text: "I shall be delighted.", category: "formal" },
+          { text: "I'm gonna be so happy!", category: "informal" },
+          { text: "The committee acknowledges receipt.", category: "formal" },
+          { text: "I gotta run!", category: "informal" },
+          { text: "Pursuant to your inquiry...", category: "formal" },
+          { text: "Yo, what's good?", category: "informal" },
+        ],
+        categories: ["formal", "informal"],
+      },
+      {
+        items: [
+          { text: "Expedite the process.", category: "formal" },
+          { text: "Get it done ASAP.", category: "informal" },
+          { text: "We respectfully disagree.", category: "formal" },
+          { text: "Nah, we don't agree.", category: "informal" },
+          { text: "Utilize the available resources.", category: "formal" },
+          { text: "Use the stuff we got.", category: "informal" },
+        ],
+        categories: ["formal", "informal"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateGrammarMatchK8(islandId: string): GrammarMatchRound[] {
+  if (islandId === "i1") {
+    return [
+      {
+        question: "Match verbal phrases with their functions:",
+        items: [
+          { text: "Gerund phrase", id: "1" },
+          { text: "Infinitive phrase", id: "2" },
+          { text: "Participial phrase", id: "3" },
+        ],
+        pairs: { "1": "Noun functioning phrase (subject/object)", "2": "Shows purpose, condition, or expresses action", "3": "Adjective phrase modifying nouns" },
+        explanation: "Verbals allow verbs to function as other parts of speech.",
+      },
+      {
+        question: "Match literary devices:",
+        items: [
+          { text: "Allusion", id: "1" },
+          { text: "Irony", id: "2" },
+          { text: "Symbolism", id: "3" },
+          { text: "Satire", id: "4" },
+        ],
+        pairs: { "1": "Indirect reference to another work, person, or event", "2": "Contradiction between expected and actual meaning", "3": "Object/action represents abstract idea", "4": "Use of ridicule to critique ideas/behaviors" },
+        explanation: "Literary devices enhance meaning and engage readers.",
+      },
+    ];
+  }
+  if (islandId === "i6") {
+    return [
+      {
+        question: "Match literary concept pairs:",
+        items: [
+          { text: "Theme", id: "1" },
+          { text: "Allusion", id: "2" },
+          { text: "Irony", id: "3" },
+        ],
+        pairs: { "1": "Central universal idea about life/human nature", "2": "Indirect reference implying deeper meaning", "3": "Reversal of expected meaning/outcome" },
+        explanation: "Understanding these concepts deepens literary analysis.",
+      },
+    ];
+  }
+  if (islandId === "i9") {
+    return [
+      {
+        question: "Match etymology concepts:",
+        items: [
+          { text: "Greek root", id: "1" },
+          { text: "Latin root", id: "2" },
+          { text: "Cognate", id: "3" },
+        ],
+        pairs: { "1": "ancient Greek word origins (logos, bio, metro)", "2": "ancient Latin word origins (vert, port, scrip)", "3": "Words from same root in different languages" },
+        explanation: "Etymology reveals word origins and relationships.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK8(islandId: string): WordSortRound[] {
+  if (islandId === "i7") {
+    return [
+      {
+        words: ["distinguished", "prestigious", "renowned", "esteemed", "famous", "notorious"],
+        categories: ["positive formal", "neutral/negative"],
+        wordCategories: { distinguished: "positive formal", prestigious: "positive formal", renowned: "positive formal", esteemed: "positive formal", famous: "neutral/negative", notorious: "neutral/negative" },
+      },
+      {
+        words: ["rectify", "fix", "amend", "patch", "remedy", "adjust"],
+        categories: ["formal", "informal"],
+        wordCategories: { rectify: "formal", fix: "informal", amend: "formal", patch: "informal", remedy: "formal", adjust: "informal" },
+      },
+      {
+        words: ["furthermore", "plus", "moreover", "also", "additionally", "and"],
+        categories: ["academic", "conversational"],
+        wordCategories: { furthermore: "academic", plus: "conversational", moreover: "academic", also: "conversational", additionally: "academic", and: "conversational" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK8(islandId: string): SentenceBuilderRound[] {
+  if (islandId === "i2") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "The protagonist's struggle to find identity" },
+          { type: "blank", options: ["reflects", "reflected", "is reflecting"] },
+          { type: "text", value: "universal adolescent experiences." },
+        ],
+        correctFill: "reflects",
+        explanation: "Simple present works for general literary truth about the novel.",
+      },
+      {
+        parts: [
+          { type: "text", value: "Through symbolism, the author" },
+          { type: "blank", options: ["communicated", "communicates", "is communicating"] },
+          { type: "text", value: "complex emotional truths about loss." },
+        ],
+        correctFill: "communicates",
+        explanation: "Simple present for timeless literary analysis.",
+      },
+      {
+        parts: [
+          { type: "text", value: "The satire" },
+          { type: "blank", options: ["mocked", "mocks", "has mocked"] },
+          { type: "text", value: "societal hypocrisy through exaggerated characters." },
+        ],
+        correctFill: "mocks",
+        explanation: "Simple present for how the literary work functions.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK8(islandId: string): SpellRaceRound[] {
+  return [];
+}
+
+function getExplorerContentK8(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "fill-gap":
+      return generateFillGapK8(islandId);
+    case "category-rush":
+      return generateCategoryRushK8(islandId);
+    case "grammar-match":
+      return generateGrammarMatchK8(islandId);
+    case "word-sort":
+      return generateWordSortK8(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK8(islandId);
+    case "spell-race":
+      return generateSpellRaceK8(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK8Page() {
   const { lang } = useLang();
@@ -472,8 +716,8 @@ export default function AstroEnglishK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = [];
-    if (noQuestionsTypes.includes(mission.gameType)) {
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+    if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -789,11 +1033,29 @@ export default function AstroEnglishK8Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK8(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK8(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK8(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK8(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK8(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK8(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

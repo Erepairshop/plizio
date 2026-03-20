@@ -25,6 +25,40 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import {
+  generateK1WordSortContent,
+  generateK1SpellRaceContent,
+  generateK1SentenceBuilderContent,
+  generateK1FillGapContent,
+  generateK1CategoryRushContent,
+  generateK1GrammarMatchContent,
+} from "@/app/astroenglish/contentGenerators";
+
+// Helper to get explorer content for K1
+function getK1ExplorerContent(gameType: string): any {
+  switch (gameType) {
+    case "word-sort":
+      return generateK1WordSortContent();
+    case "sentence-builder":
+      return generateK1SentenceBuilderContent();
+    case "fill-gap":
+      return generateK1FillGapContent();
+    case "spell-race":
+      return generateK1SpellRaceContent();
+    case "category-rush":
+      return generateK1CategoryRushContent();
+    case "grammar-match":
+      return generateK1GrammarMatchContent();
+    default:
+      return [];
+  }
+}
 import {
   K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadK1Progress, saveK1Progress, type EnglishProgress,
@@ -57,6 +91,12 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -434,10 +474,17 @@ export default function AstroEnglishK1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateEnglishIslandQuestions(activeIsland, 1, qCount);
-    setQuestions(qs);
-    setScreen(mission.gameType as Screen);
+
+    // For explorer games, we don't use questions array - content is generated per game
+    if (["word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(mission.gameType)) {
+      setQuestions([]);
+      setScreen(mission.gameType as Screen);
+    } else {
+      const qCount = mission.gameType === "star-match" ? 20 : 10;
+      const qs = generateEnglishIslandQuestions(activeIsland, 1, qCount);
+      setQuestions(qs);
+      setScreen(mission.gameType as Screen);
+    }
   }, [activeIsland]);
 
   // ── Mission finished ─────────────────────────────────────────────────────────
@@ -725,11 +772,29 @@ export default function AstroEnglishK1Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getK1ExplorerContent("word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getK1ExplorerContent("sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getK1ExplorerContent("fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getK1ExplorerContent("spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getK1ExplorerContent("category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getK1ExplorerContent("grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

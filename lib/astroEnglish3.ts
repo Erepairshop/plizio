@@ -42,7 +42,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#3B82F6", sortRange: [1, 20],
     topicKeys: ["pos_g3/nouns_plural_g3", "pos_g3/abstract_nouns_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Noun Quiz",      hu: "Főnév kvíz",       de: "Substantiv-Quiz", ro: "Quiz substantive"  } },
+      { id: "m1", category: "explore",   gameType: "word-sort" as any,  icon: "🪐", label: { en: "Noun Sort",      hu: "Főnév rendezés",   de: "Substantiv-Sortierung", ro: "Sortare substantive" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -54,7 +54,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "⏰", color: "#EF4444", sortRange: [1, 20],
     topicKeys: ["pos_g3/verb_tenses_g3", "pos_g3/adj_comparative_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Tense Quiz",     hu: "Igeidő kvíz",      de: "Tempus-Quiz",     ro: "Quiz timpuri"      } },
+      { id: "m1", category: "explore",   gameType: "fill-gap" as any,  icon: "🪐", label: { en: "Verb Tense Fill", hu: "Igeidő kitöltés",   de: "Tempus-Füllung",  ro: "Umplere timpuri" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
@@ -66,7 +66,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "🌊", color: "#10B981", sortRange: [1, 20],
     topicKeys: ["pos_g3/adverbs_g3", "pos_g3/conjunctions_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Adverb Quiz",    hu: "Határozószó kvíz", de: "Adverb-Quiz",     ro: "Quiz adverbe"      } },
+      { id: "m1", category: "explore",   gameType: "category-rush" as any,  icon: "🪐", label: { en: "Adverb Rush",    hu: "Határozószó roham", de: "Adverb-Ansturm",  ro: "Asalt adverbe" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -78,7 +78,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "🔍", color: "#F59E0B", sortRange: [1, 20],
     topicKeys: ["sentences_g3/subject_predicate_g3", "sentences_g3/simple_compound_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Sentence Quiz",  hu: "Mondat kvíz",      de: "Satz-Quiz",       ro: "Quiz propoziții"   } },
+      { id: "m1", category: "explore",   gameType: "sentence-builder" as any,  icon: "🪐", label: { en: "Build Sent.",   hu: "Mondat építés",   de: "Satz-Bau",        ro: "Construire propoziții" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
@@ -90,7 +90,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "💬", color: "#6366F1", sortRange: [1, 20],
     topicKeys: ["sentences_g3/direct_quotations_g3", "sentences_g3/fragments_runons_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Quote Quiz",     hu: "Idézet kvíz",      de: "Zitat-Quiz",      ro: "Quiz citate"       } },
+      { id: "m1", category: "explore",   gameType: "grammar-match" as any,  icon: "🪐", label: { en: "Match Grammar",  hu: "Nyelvtan párosítás", de: "Grammatik-Match", ro: "Potrivire gramatică" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -102,7 +102,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "🔠", color: "#EC4899", sortRange: [1, 20],
     topicKeys: ["spelling_g3/prefixes_g3", "spelling_g3/suffixes_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Spelling Quiz",  hu: "Helyesírás kvíz",  de: "Rechtschreib-Quiz", ro: "Quiz ortografie" } },
+      { id: "m1", category: "explore",   gameType: "spell-race" as any,  icon: "🪐", label: { en: "Affix Spell",    hu: "Előtag helyesírás", de: "Affix-Schreib",   ro: "Literare afixe" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
@@ -114,7 +114,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "🌿", color: "#14B8A6", sortRange: [1, 20],
     topicKeys: ["spelling_g3/word_families_g3", "spelling_g3/homophones_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Word Quiz",      hu: "Szó kvíz",         de: "Wort-Quiz",       ro: "Quiz cuvinte"      } },
+      { id: "m1", category: "explore",   gameType: "fill-gap" as any,  icon: "🪐", label: { en: "Homophones Fill", hu: "Homofonak kitöltés", de: "Homophone-Füllung", ro: "Umplere omonime" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -126,7 +126,7 @@ export const K3_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#A855F7", sortRange: [1, 20],
     topicKeys: ["vocab_g3/literal_nonliteral_g3", "vocab_g3/word_relationships_g3", "vocab_g3/context_clues_g3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { en: "Vocab Quiz",     hu: "Szókincs kvíz",    de: "Wortschatz-Quiz", ro: "Quiz vocabular"    } },
+      { id: "m1", category: "explore",   gameType: "grammar-match" as any,  icon: "🪐", label: { en: "Meaning Match",  hu: "Jelentés párosítás", de: "Bedeutungs-Match", ro: "Potrivire sensuri" } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",   hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],

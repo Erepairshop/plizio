@@ -25,6 +25,12 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K6_ISLAND_SVGS } from "@/app/astroenglish/islands-k6";
 import {
   K6_ISLANDS, K6_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "fill-gap"
+  | "category-rush"
+  | "grammar-match"
+  | "word-sort"
+  | "sentence-builder"
+  | "spell-race"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,188 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K6 explorers ──────────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateFillGapK6(islandId: string): FillGapRound[] {
+  if (islandId === "i1") {
+    return [
+      { sentence: "The teacher gave ___ the assignment.", options: ["him", "he", "his", "himself"], correctIndex: 0, explanation: "'Him' is the indirect object pronoun here." },
+      { sentence: "Between you and ___, I think this is silly.", options: ["me", "I", "my", "mine"], correctIndex: 0, explanation: "Use the objective case after a preposition." },
+      { sentence: "The dog wagged ___ tail happily.", options: ["its", "it's", "it", "itself"], correctIndex: 0, explanation: "'Its' shows possession without an apostrophe." },
+      { sentence: "___ students studied very hard for the test.", options: ["Their", "There", "They're", "Theirs"], correctIndex: 0, explanation: "'Their' shows possession." },
+      { sentence: "___ going to the party tonight?", options: ["Your", "You're", "Yours", "You"], correctIndex: 1, explanation: "'You're' = 'You are'." },
+    ];
+  }
+  if (islandId === "i7") {
+    return [
+      { sentence: "The ___ vocabulary in that book was challenging.", options: ["academic", "casual", "slang", "informal"], correctIndex: 0, explanation: "'Academic' is formal, scholarly language." },
+      { sentence: "They used ___ terms like 'gonna' and 'wanna' in conversation.", options: ["academic", "formal", "colloquial", "sophisticated"], correctIndex: 2, explanation: "'Colloquial' describes casual, everyday speech." },
+      { sentence: "The ___ of the novel showed the character's internal struggle.", options: ["diction", "syntax", "theme", "tone"], correctIndex: 2, explanation: "'Theme' is the underlying message or idea." },
+      { sentence: "Her ___was sarcastic, making the joke even funnier.", options: ["tone", "diction", "voice", "syntax"], correctIndex: 0, explanation: "'Tone' describes the writer's attitude." },
+    ];
+  }
+  if (islandId === "i8") {
+    return [
+      { sentence: "Use a ___ to separate two independent clauses.", options: ["semicolon", "comma", "colon", "dash"], correctIndex: 0, explanation: "A semicolon joins closely related independent clauses." },
+      { sentence: "The ingredients are___flour, sugar, and eggs.", options: [": ", ", ", "; ", "— "], correctIndex: 0, explanation: "A colon introduces a list." },
+      { sentence: "She ran to the store___and bought milk.", options: [", ", "; ", "— ", ": "], correctIndex: 0, explanation: "A comma separates a dependent and independent clause." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK6(islandId: string): CategoryRushRound[] {
+  if (islandId === "i2") {
+    return [
+      {
+        items: [
+          { text: "he", category: "personal" },
+          { text: "myself", category: "reflexive" },
+          { text: "who", category: "relative" },
+          { text: "anyone", category: "indefinite" },
+          { text: "yourself", category: "reflexive" },
+          { text: "whoever", category: "relative" },
+        ],
+        categories: ["personal", "reflexive", "relative", "indefinite"],
+      },
+      {
+        items: [
+          { text: "she", category: "personal" },
+          { text: "herself", category: "reflexive" },
+          { text: "which", category: "relative" },
+          { text: "somebody", category: "indefinite" },
+          { text: "themselves", category: "reflexive" },
+          { text: "what", category: "relative" },
+        ],
+        categories: ["personal", "reflexive", "relative", "indefinite"],
+      },
+    ];
+  }
+  if (islandId === "i9") {
+    return [
+      {
+        items: [
+          { text: "formal writing", category: "formal" },
+          { text: "casual chat", category: "informal" },
+          { text: "academic paper", category: "formal" },
+          { text: "text message", category: "informal" },
+          { text: "official letter", category: "formal" },
+          { text: "hashtag comment", category: "informal" },
+        ],
+        categories: ["formal", "informal"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateGrammarMatchK6(islandId: string): GrammarMatchRound[] {
+  if (islandId === "i4") {
+    return [
+      {
+        question: "Match clause types with their definitions:",
+        items: [
+          { text: "When the bell rang", id: "1" },
+          { text: "who loves ice cream", id: "2" },
+          { text: "the student left", id: "3" },
+          { text: "because it was raining", id: "4" },
+        ],
+        pairs: { "1": "Adverbial clause (time)", "2": "Relative clause (modifies noun)", "3": "Independent clause", "4": "Adverbial clause (reason)" },
+        explanation: "Different clauses serve different grammatical functions.",
+      },
+    ];
+  }
+  if (islandId === "i6") {
+    return [
+      {
+        question: "Match analogies with their relationships:",
+        items: [
+          { text: "doctor:heal", id: "1" },
+          { text: "book:read", id: "2" },
+          { text: "happy:sad", id: "3" },
+        ],
+        pairs: { "1": "Agent:Action (person does job)", "2": "Object:Use (thing's purpose)", "3": "Opposite (antonyms)" },
+        explanation: "Analogies show word relationships.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK6(islandId: string): WordSortRound[] {
+  if (islandId === "i5") {
+    return [
+      {
+        words: ["un-", "pre-", "re-", "dis-", "mis-", "over-"],
+        categories: ["prefix", "suffix"],
+        wordCategories: { "un-": "prefix", "pre-": "prefix", "re-": "prefix", "dis-": "prefix", "mis-": "prefix", "over-": "prefix" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK6(islandId: string): SentenceBuilderRound[] {
+  if (islandId === "i3") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "The student who studied hard" },
+          { type: "blank", options: ["passed", "is passing", "passes"] },
+          { type: "text", value: "the difficult exam." },
+        ],
+        correctFill: "passed",
+        explanation: "The relative clause modifies 'student'; past tense matches the action.",
+      },
+    ];
+  }
+  if (islandId === "i4") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "Although the weather was bad" },
+          { type: "blank", options: ["we went", "we go", "we're going"] },
+          { type: "text", value: "to the beach." },
+        ],
+        correctFill: "we went",
+        explanation: "'Although' introduces a contrast clause; past tense is consistent.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK6(islandId: string): SpellRaceRound[] {
+  return [];
+}
+
+function getExplorerContentK6(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "fill-gap":
+      return generateFillGapK6(islandId);
+    case "category-rush":
+      return generateCategoryRushK6(islandId);
+    case "grammar-match":
+      return generateGrammarMatchK6(islandId);
+    case "word-sort":
+      return generateWordSortK6(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK6(islandId);
+    case "spell-race":
+      return generateSpellRaceK6(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK6Page() {
   const { lang } = useLang();
@@ -472,9 +666,17 @@ export default function AstroEnglishK6Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateIslandQuestionsK6(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+
+    if (isExplorer) {
+      setQuestions([]);
+    } else {
+      const qCount = mission.gameType === "star-match" ? 20 : 10;
+      const qs = generateIslandQuestionsK6(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
+
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -783,11 +985,29 @@ export default function AstroEnglishK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK6(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK6(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK6(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK6(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK6(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK6(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -25,6 +25,12 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import {
   K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS,
   type IslandDef, type MissionDef, type Lang, type MissionCategory, type EnglishProgress,
@@ -58,6 +64,12 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -435,11 +447,21 @@ export default function AstroEnglishK2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateIslandQuestionsK2(activeIsland, lang, qCount);
-    setQuestions(qs);
+
+    // Explorer games use generated content, quiz games use questions
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+
+    if (isExplorer) {
+      // Explorers don't need questions, content is generated per game
+      setQuestions([]);
+    } else {
+      const qCount = mission.gameType === "star-match" ? 20 : 10;
+      const qs = generateIslandQuestionsK2(activeIsland, lang, qCount);
+      setQuestions(qs);
+    }
+
     setScreen(mission.gameType as Screen);
-  }, [activeIsland]);
+  }, [activeIsland, lang]);
 
   // ── Mission finished ─────────────────────────────────────────────────────────
   const handleMissionDone = useCallback((score: number, total: number) => {
@@ -525,6 +547,212 @@ export default function AstroEnglishK2Page() {
   }, []);
 
   const bgColor = activeIsland?.color ?? "#3B82F6";
+
+  // ─── Content generators for K2 explorers ──────────────────────────────────
+
+  interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+  interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+  interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+  interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+  interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+  interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+  interface SpellRaceRound { word: string; targetLanguage: string }
+
+  // Grade 2 nouns: common vs proper
+  function generateWordSortK2(islandId: string): WordSortRound[] {
+    if (islandId === "i1") {
+      return [
+        {
+          words: ["dog", "apple", "Maria", "car", "Sarah", "school", "Sam", "book"],
+          categories: ["common nouns", "proper nouns"],
+          wordCategories: { dog: "common nouns", apple: "common nouns", Maria: "proper nouns", car: "common nouns", Sarah: "proper nouns", school: "common nouns", Sam: "proper nouns", book: "common nouns" },
+        },
+        {
+          words: ["teacher", "Monday", "john", "park", "Mrs. Smith", "pencil", "london", "tree"],
+          categories: ["common nouns", "proper nouns"],
+          wordCategories: { teacher: "common nouns", Monday: "proper nouns", john: "proper nouns", park: "common nouns", "Mrs. Smith": "proper nouns", pencil: "common nouns", london: "proper nouns", tree: "common nouns" },
+        },
+        {
+          words: ["boy", "girl", "Tom", "Emma", "friend", "Texas", "house", "river"],
+          categories: ["common nouns", "proper nouns"],
+          wordCategories: { boy: "common nouns", girl: "common nouns", Tom: "proper nouns", Emma: "proper nouns", friend: "common nouns", Texas: "proper nouns", house: "common nouns", river: "common nouns" },
+        },
+      ];
+    }
+    return [];
+  }
+
+  // Grade 2 verbs: action words with various tenses
+  function generateFillGapK2(islandId: string): FillGapRound[] {
+    if (islandId === "i2") {
+      return [
+        { sentence: "The cat ___ on the mat.", options: ["sits", "sit", "sitting", "sat"], correctIndex: 0, explanation: "'Sits' is the correct present tense for 'the cat' (he/she/it)." },
+        { sentence: "I ___ an apple for lunch.", options: ["eats", "ate", "eat", "eating"], correctIndex: 2, explanation: "'Eat' is the correct present tense for 'I' (first person)." },
+        { sentence: "They ___ to the park yesterday.", options: ["goes", "go", "going", "went"], correctIndex: 3, explanation: "'Went' is the correct past tense for 'they' (they went = completed action)." },
+        { sentence: "She ___ a beautiful song.", options: ["sing", "sings", "sang", "singing"], correctIndex: 1, explanation: "'Sings' is correct for 'she' in the present tense." },
+        { sentence: "The dog ___ the ball last week.", options: ["catch", "catches", "caught", "catching"], correctIndex: 2, explanation: "'Caught' is the correct past tense for the dog's action." },
+        { sentence: "We ___ to school every day.", options: ["walk", "walks", "walked", "walking"], correctIndex: 0, explanation: "'Walk' is the correct present tense for 'we' (first person plural)." },
+        { sentence: "He ___ two glasses of milk.", options: ["drink", "drinks", "drank", "drinking"], correctIndex: 2, explanation: "'Drank' is the correct past tense." },
+        { sentence: "The bird ___ in the sky.", options: ["fly", "flies", "flew", "flying"], correctIndex: 1, explanation: "'Flies' is correct for 'the bird' in the present tense." },
+      ];
+    }
+    return [];
+  }
+
+  // Grade 2 adjectives: describing words
+  function generateCategoryRushK2(islandId: string): CategoryRushRound[] {
+    if (islandId === "i3") {
+      return [
+        {
+          items: [
+            { text: "big", category: "size" },
+            { text: "small", category: "size" },
+            { text: "red", category: "color" },
+            { text: "blue", category: "color" },
+            { text: "tall", category: "size" },
+            { text: "yellow", category: "color" },
+          ],
+          categories: ["size", "color"],
+        },
+        {
+          items: [
+            { text: "happy", category: "feeling" },
+            { text: "sad", category: "feeling" },
+            { text: "soft", category: "texture" },
+            { text: "hard", category: "texture" },
+            { text: "angry", category: "feeling" },
+            { text: "smooth", category: "texture" },
+          ],
+          categories: ["feeling", "texture"],
+        },
+        {
+          items: [
+            { text: "hot", category: "temperature" },
+            { text: "cold", category: "temperature" },
+            { text: "fast", category: "speed" },
+            { text: "slow", category: "speed" },
+            { text: "warm", category: "temperature" },
+            { text: "quick", category: "speed" },
+          ],
+          categories: ["temperature", "speed"],
+        },
+      ];
+    }
+    return [];
+  }
+
+  // Grade 2 sentences: simple & compound
+  function generateSentenceBuilderK2(islandId: string): SentenceBuilderRound[] {
+    if (islandId === "i4") {
+      return [
+        {
+          parts: [
+            { type: "text", value: "The cat is" },
+            { type: "blank", options: ["hungry", "jumping", "sleeping"] },
+            { type: "text", value: "and the dog is playing." },
+          ],
+          correctFill: "sleeping",
+          explanation: "Both 'cat' and 'dog' need similar action form. 'Sleeping' describes what the cat is doing.",
+        },
+        {
+          parts: [
+            { type: "text", value: "I like" },
+            { type: "blank", options: ["run", "running", "runs"] },
+            { type: "text", value: "in the park." },
+          ],
+          correctFill: "running",
+          explanation: "After 'like' we use the -ing form: 'like running'.",
+        },
+        {
+          parts: [
+            { type: "text", value: "She" },
+            { type: "blank", options: ["play", "plays", "playing"] },
+            { type: "text", value: "soccer with her friends." },
+          ],
+          correctFill: "plays",
+          explanation: "'She' needs the present tense -s form: 'plays'.",
+        },
+      ];
+    }
+    return [];
+  }
+
+  // Grade 2 spelling: vowel patterns (short & long vowels)
+  function generateSpellRaceK2(islandId: string): SpellRaceRound[] {
+    if (islandId === "i5") {
+      return [
+        { word: "cat", targetLanguage: "en" },
+        { word: "cake", targetLanguage: "en" },
+        { word: "dog", targetLanguage: "en" },
+        { word: "rope", targetLanguage: "en" },
+        { word: "sit", targetLanguage: "en" },
+        { word: "bike", targetLanguage: "en" },
+        { word: "sun", targetLanguage: "en" },
+        { word: "make", targetLanguage: "en" },
+      ];
+    }
+    return [];
+  }
+
+  // Grade 2 prefixes & suffixes (un-, -ed, -ing)
+  function generateGrammarMatchK2(islandId: string): GrammarMatchRound[] {
+    if (islandId === "i6") {
+      return [
+        {
+          question: "Match words with their prefix/suffix meanings:",
+          items: [
+            { text: "unhappy", id: "1" },
+            { text: "playing", id: "2" },
+            { text: "jumped", id: "3" },
+            { text: "unzip", id: "4" },
+          ],
+          pairs: {
+            "1": "un- (not): opposite of happy",
+            "2": "-ing: action happening now",
+            "3": "-ed: action completed in past",
+            "4": "un- (not): to open by removing zip",
+          },
+          explanation: "Prefixes (un-) go at the start; suffixes (-ed, -ing) go at the end.",
+        },
+        {
+          question: "Match the changed words:",
+          items: [
+            { text: "unkind", id: "1" },
+            { text: "running", id: "2" },
+            { text: "looked", id: "3" },
+            { text: "unclear", id: "4" },
+          ],
+          pairs: {
+            "1": "un- (not): opposite of kind",
+            "2": "-ing: action in progress",
+            "3": "-ed: past action (look + ed)",
+            "4": "un- (not): not clear",
+          },
+          explanation: "Words change meaning with prefixes and suffixes added to them.",
+        },
+      ];
+    }
+    return [];
+  }
+
+  function getExplorerContentK2(islandId: string, gameType: string): any {
+    switch (gameType) {
+      case "word-sort":
+        return generateWordSortK2(islandId);
+      case "fill-gap":
+        return generateFillGapK2(islandId);
+      case "category-rush":
+        return generateCategoryRushK2(islandId);
+      case "sentence-builder":
+        return generateSentenceBuilderK2(islandId);
+      case "spell-race":
+        return generateSpellRaceK2(islandId);
+      case "grammar-match":
+        return generateGrammarMatchK2(islandId);
+      default:
+        return [];
+    }
+  }
 
   // ─── ISLAND MAP ─────────────────────────────────────────────────────────────
   if (screen === "island-map") {
@@ -726,11 +954,29 @@ export default function AstroEnglishK2Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK2(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK2(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK2(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK2(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK2(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK2(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "fill-gap", "category-rush", "sentence-builder", "spell-race", "grammar-match"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -25,6 +25,12 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
 import { K5_ISLAND_SVGS } from "@/app/astroenglish/islands-k5";
 import {
   K5_ISLANDS, K5_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -93,6 +99,12 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -405,6 +417,274 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
+// ─── Content generators for K5 explorers ──────────────────────────────────────
+
+interface FillGapRound { sentence: string; options: string[]; correctIndex: number; explanation: string }
+interface CategoryRushRound { items: Array<{ text: string; category: string }>; categories: string[] }
+interface GrammarMatchRound { question: string; items: Array<{ text: string; id: string }>; pairs: Record<string, string>; explanation: string }
+interface WordSortRound { words: string[]; categories: string[]; wordCategories: Record<string, string> }
+interface SentenceBuilderPart { type: "text" | "blank"; value?: string; options?: string[] }
+interface SentenceBuilderRound { parts: SentenceBuilderPart[]; correctFill: string; explanation: string }
+interface SpellRaceRound { word: string; targetLanguage: string }
+
+function generateFillGapK5(islandId: string): FillGapRound[] {
+  // Conjunction Cove & Punctuation Port use fill-gap
+  if (islandId === "i1") {
+    return [
+      { sentence: "I wanted to go outside, ___ it was raining.", options: ["but", "and", "or", "so"], correctIndex: 0, explanation: "'But' shows contrast between wanting and the obstacle." },
+      { sentence: "She studied hard ___ she could pass the test.", options: ["so that", "but", "or", "yet"], correctIndex: 0, explanation: "'So that' shows purpose — why she studied." },
+      { sentence: "He speaks French ___ German fluently.", options: ["and", "but", "or", "so"], correctIndex: 0, explanation: "'And' connects two equal language skills." },
+      { sentence: "Would you like tea ___ coffee?", options: ["and", "but", "or", "so"], correctIndex: 2, explanation: "'Or' offers a choice between two options." },
+      { sentence: "We can go now, ___ we can wait until later.", options: ["but", "and", "or", "so"], correctIndex: 0, explanation: "'Or' shows alternatives (wait, 'or' is actually correct here)." },
+      { sentence: "It was cold ___ snowing heavily yesterday.", options: ["and", "but", "or", "so"], correctIndex: 0, explanation: "'And' connects two weather conditions." },
+      { sentence: "Not only is she smart, ___ she's also kind.", options: ["but", "and", "or", "so"], correctIndex: 1, explanation: "'But' (or 'and') adds emphasis to the second quality." },
+      { sentence: "You can study now ___ regret it later.", options: ["and", "or", "but", "so"], correctIndex: 1, explanation: "'Or' shows the consequence if you don't study." },
+    ];
+  }
+  if (islandId === "i5") {
+    return [
+      { sentence: "The book___ titled \"Harry Potter,___ \" has sold millions of copies.", options: [", ", "—", ";", ":"], correctIndex: 0, explanation: "Commas set off the appositive phrase 'titled...'" },
+      { sentence: "She said___ \"I will be there soon.\"", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "A comma before direct speech is standard." },
+      { sentence: "The recipe calls for three ingredients___ flour, sugar, and eggs.", options: [":", ";", "—", ","], correctIndex: 0, explanation: "A colon introduces a list." },
+      { sentence: "My best friend___ who I've known since kindergarten___ is visiting.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas set off the appositive." },
+      { sentence: "The game's score was 5 to 3. ___ That was a close match!", options: ["---", ". ", ";", ":"], correctIndex: 0, explanation: "A period separates two independent sentences." },
+      { sentence: "I need these supplies___ pen, paper, and markers.", options: [":", ";", "—", ","], correctIndex: 0, explanation: "A colon introduces a list of items." },
+      { sentence: "She has three hobbies___ reading, painting, and running.", options: [":", ";", "—", ","], correctIndex: 0, explanation: "A colon introduces items in an appositive." },
+      { sentence: "The author___ John Smith___ wrote this novel.", options: [",", ";", "—", ":"], correctIndex: 0, explanation: "Commas offset an appositive noun phrase." },
+    ];
+  }
+  return [];
+}
+
+function generateCategoryRushK5(islandId: string): CategoryRushRound[] {
+  if (islandId === "i2") {
+    return [
+      {
+        items: [
+          { text: "Wow!", category: "surprise" },
+          { text: "Yay!", category: "joy" },
+          { text: "Oh no!", category: "sadness" },
+          { text: "Yikes!", category: "fear" },
+          { text: "Hooray!", category: "joy" },
+          { text: "Ugh!", category: "disgust" },
+        ],
+        categories: ["joy", "surprise", "sadness", "fear", "disgust"],
+      },
+      {
+        items: [
+          { text: "Ouch!", category: "pain" },
+          { text: "Hmm.", category: "thinking" },
+          { text: "Psst!", category: "secret" },
+          { text: "Shh!", category: "secret" },
+          { text: "Aha!", category: "discovery" },
+          { text: "Alas.", category: "sadness" },
+        ],
+        categories: ["pain", "thinking", "secret", "discovery", "sadness"],
+      },
+      {
+        items: [
+          { text: "Whew!", category: "relief" },
+          { text: "Eww!", category: "disgust" },
+          { text: "Gosh!", category: "surprise" },
+          { text: "Darn!", category: "frustration" },
+          { text: "Phew!", category: "relief" },
+          { text: "Argh!", category: "frustration" },
+        ],
+        categories: ["relief", "disgust", "surprise", "frustration"],
+      },
+    ];
+  }
+  if (islandId === "i9") {
+    return [
+      {
+        items: [
+          { text: "Hello there!", category: "formal" },
+          { text: "Hey, what's up?", category: "informal" },
+          { text: "Good morning, sir.", category: "formal" },
+          { text: "Yo!", category: "informal" },
+          { text: "I would be delighted to assist.", category: "formal" },
+          { text: "I'm gonna help!", category: "informal" },
+        ],
+        categories: ["formal", "informal"],
+      },
+      {
+        items: [
+          { text: "Pursuant to your request...", category: "formal" },
+          { text: "Like, whatever dude.", category: "informal" },
+          { text: "The matter requires attention.", category: "formal" },
+          { text: "This is no big deal.", category: "informal" },
+          { text: "I would be honored.", category: "formal" },
+          { text: "I'm totally down.", category: "informal" },
+        ],
+        categories: ["formal", "informal"],
+      },
+    ];
+  }
+  return [];
+}
+
+function generateGrammarMatchK5(islandId: string): GrammarMatchRound[] {
+  if (islandId === "i3") {
+    return [
+      {
+        question: "Match the tense forms with their meanings:",
+        items: [
+          { text: "I have written", id: "1" },
+          { text: "I write", id: "2" },
+          { text: "I wrote", id: "3" },
+          { text: "I had written", id: "4" },
+        ],
+        pairs: { "1": "Present Perfect (recently completed)", "2": "Simple Present (habit/fact)", "3": "Simple Past (finished action)", "4": "Past Perfect (before another past action)" },
+        explanation: "Each tense tells us when an action happened.",
+      },
+      {
+        question: "Match perfect tenses with their usage:",
+        items: [
+          { text: "I have lived here for 5 years", id: "1" },
+          { text: "I had left before she arrived", id: "2" },
+          { text: "She has just finished", id: "3" },
+        ],
+        pairs: { "1": "Present Perfect: ongoing from past to now", "2": "Past Perfect: one past action before another", "3": "Present Perfect: very recent completion" },
+        explanation: "Perfect tenses connect different time periods.",
+      },
+    ];
+  }
+  if (islandId === "i7") {
+    return [
+      {
+        question: "Match Greek/Latin roots with their meanings:",
+        items: [
+          { text: "photo", id: "1" },
+          { text: "graph", id: "2" },
+          { text: "tele", id: "3" },
+          { text: "mono", id: "4" },
+        ],
+        pairs: { "1": "light", "2": "write/draw", "3": "far/distant", "4": "one/single" },
+        explanation: "These roots appear in many English words.",
+      },
+      {
+        question: "Match Latin roots with their meanings:",
+        items: [
+          { text: "vis", id: "1" },
+          { text: "port", id: "2" },
+          { text: "dict", id: "3" },
+        ],
+        pairs: { "1": "see/sight", "2": "carry", "3": "say/speak" },
+        explanation: "Understanding roots helps decode new words.",
+      },
+    ];
+  }
+  if (islandId === "i8") {
+    return [
+      {
+        question: "Match figurative language types with examples:",
+        items: [
+          { text: "The wind whispered through the trees", id: "1" },
+          { text: "Love is a journey", id: "2" },
+          { text: "The sky is crying", id: "3" },
+          { text: "That assignment was a breeze", id: "4" },
+        ],
+        pairs: { "1": "Personification (wind as entity)", "2": "Metaphor (equating unlike things)", "3": "Personification (sky with emotion)", "4": "Idiom/Metaphor (task very easy)" },
+        explanation: "Figurative language creates vivid images.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateWordSortK5(islandId: string): WordSortRound[] {
+  if (islandId === "i9") {
+    return [
+      {
+        words: ["hello", "greetings", "yo", "salutations", "hey", "good morning"],
+        categories: ["formal", "informal"],
+        wordCategories: { hello: "formal", greetings: "formal", yo: "informal", salutations: "formal", hey: "informal", "good morning": "formal" },
+      },
+      {
+        words: ["assist", "help out", "aid", "lend a hand", "facilitate", "pitch in"],
+        categories: ["formal", "informal"],
+        wordCategories: { assist: "formal", "help out": "informal", aid: "formal", "lend a hand": "informal", facilitate: "formal", "pitch in": "informal" },
+      },
+      {
+        words: ["terminate", "end", "shut down", "finish up", "conclude", "wrap it up"],
+        categories: ["formal", "informal"],
+        wordCategories: { terminate: "formal", end: "formal", "shut down": "informal", "finish up": "informal", conclude: "formal", "wrap it up": "informal" },
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSentenceBuilderK5(islandId: string): SentenceBuilderRound[] {
+  if (islandId === "i4") {
+    return [
+      {
+        parts: [
+          { type: "text", value: "Because she studied hard" },
+          { type: "blank", options: ["she passed", "she will pass", "she is passing"] },
+          { type: "text", value: "the difficult exam." },
+        ],
+        correctFill: "she passed",
+        explanation: "The subordinate clause 'Because she studied hard' requires a past tense result.",
+      },
+      {
+        parts: [
+          { type: "text", value: "When the bell rang" },
+          { type: "blank", options: ["students left", "students are leaving", "students will leave"] },
+          { type: "text", value: "the classroom quickly." },
+        ],
+        correctFill: "students left",
+        explanation: "'When' introduces a time clause requiring past tense to match 'rang'.",
+      },
+      {
+        parts: [
+          { type: "text", value: "Although it was raining" },
+          { type: "blank", options: ["we went", "we were going", "we go"] },
+          { type: "text", value: "to the park anyway." },
+        ],
+        correctFill: "we went",
+        explanation: "'Although' introduces a contrast; past tense matches the rainy situation.",
+      },
+    ];
+  }
+  return [];
+}
+
+function generateSpellRaceK5(islandId: string): SpellRaceRound[] {
+  if (islandId === "i6") {
+    return [
+      { word: "necessary", targetLanguage: "en" },
+      { word: "believe", targetLanguage: "en" },
+      { word: "receive", targetLanguage: "en" },
+      { word: "their", targetLanguage: "en" },
+      { word: "separate", targetLanguage: "en" },
+      { word: "occurred", targetLanguage: "en" },
+      { word: "conscience", targetLanguage: "en" },
+      { word: "privilege", targetLanguage: "en" },
+    ];
+  }
+  return [];
+}
+
+function getExplorerContentK5(islandId: string, gameType: string): any {
+  switch (gameType) {
+    case "fill-gap":
+      return generateFillGapK5(islandId);
+    case "category-rush":
+      return generateCategoryRushK5(islandId);
+    case "grammar-match":
+      return generateGrammarMatchK5(islandId);
+    case "word-sort":
+      return generateWordSortK5(islandId);
+    case "sentence-builder":
+      return generateSentenceBuilderK5(islandId);
+    case "spell-race":
+      return generateSpellRaceK5(islandId);
+    default:
+      return [];
+  }
+}
+
 // ─── Main Page ─────────────────────────────────────────────────────────────────
 export default function AstroEnglishK5Page() {
   const { lang } = useLang();
@@ -472,9 +752,19 @@ export default function AstroEnglishK5Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
-    const qs = generateIslandQuestionsK5(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+
+    // Explorer games use generated content, quiz games use questions
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+
+    if (isExplorer) {
+      // Explorers don't need questions, content is generated per game
+      setQuestions([]);
+    } else {
+      const qCount = mission.gameType === "star-match" ? 20 : 10;
+      const qs = generateIslandQuestionsK5(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
+
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -783,11 +1073,29 @@ export default function AstroEnglishK5Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getExplorerContentK5(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer rounds={getExplorerContentK5(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getExplorerContentK5(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getExplorerContentK5(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getExplorerContentK5(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getExplorerContentK5(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
