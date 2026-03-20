@@ -11,9 +11,10 @@ interface Props {
   userAnswer: string;         // '' | 'pres' | 'praet' | 'perf'
   submitted: boolean;
   onAnswer: (a: string) => void;
+  labels?: { pres: string; praet: string; perf: string };  // optional override
 }
 
-const LABELS: Record<string, string> = {
+const DEFAULT_LABELS: Record<string, string> = {
   pres:  'Präsens',
   praet: 'Präteritum',
   perf:  'Perfekt',
@@ -24,7 +25,8 @@ const COLORS: Record<string, { base: string; selected: string; correct: string; 
   perf:  { base: 'border-slate-300 text-slate-700 hover:bg-amber-50 hover:border-amber-300', selected: 'bg-amber-400 border-amber-400 text-white', correct: 'bg-amber-100 border-amber-400 text-amber-700', wrong: 'bg-red-50 border-red-300 text-red-500 opacity-70' },
 };
 
-export default function ZeitformenZuordnen({ sentence, correctZeitform, userAnswer, submitted, onAnswer }: Props) {
+export default function ZeitformenZuordnen({ sentence, correctZeitform, userAnswer, submitted, onAnswer, labels }: Props) {
+  const LABELS = labels ? (labels as Record<string, string>) : DEFAULT_LABELS;
   const isCorrect = userAnswer === correctZeitform;
 
   return (
