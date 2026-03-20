@@ -185,14 +185,13 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "substantiv_c6";
     const subtopic = "declinare_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
+    const cases = ["Nominativ", "Genitiv", "Dativ", "Acuzativ", "Vocativ"];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through substantives and varying cases
     for (let i = 0; i < 30; i++) {
-      const item = pick(SUBSTANTIVE_DECLIN, rng);
-      const cases = ["Nominativ", "Genitiv", "Dativ", "Acuzativ", "Vocativ"];
-      const caseIdx = Math.floor(rng() * cases.length);
-      const currentCase = cases[caseIdx];
+      const item = SUBSTANTIVE_DECLIN[i % SUBSTANTIVE_DECLIN.length];
+      const currentCase = cases[i % cases.length];
       let correct = "";
       if (currentCase === "Nominativ") correct = item.nom_sg;
       else if (currentCase === "Genitiv") correct = item.gen_sg;
@@ -209,8 +208,10 @@ export const C6P1_Generators = {
         otherForms,
         rng
       );
-      questions.push(q);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte cazuri sunt în limba română?", "cinci"));
@@ -237,11 +238,11 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "substantiv_c6";
     const subtopic = "functii_sintactice_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through substantive functions
     for (let i = 0; i < 30; i++) {
-      const item = pick(SUBSTANTIVE_FUNCTII, rng);
+      const item = SUBSTANTIVE_FUNCTII[i % SUBSTANTIVE_FUNCTII.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -250,8 +251,10 @@ export const C6P1_Generators = {
         ["Predicat nominal", "Atribut", "Complement circumstanțial"].filter(x => x !== item.functie),
         rng
       );
-      questions.push(q);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce funcție sintactică are subiectul?", "Subiect"));
@@ -278,21 +281,31 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "substantiv_c6";
     const subtopic = "defective_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through defective substantives and generating varied questions
     for (let i = 0; i < 30; i++) {
-      const item = pick(SUBSTANTIVE_DEFECTIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Substantivul "${item.subst}" este defectiv și nu are:`,
-        item.forma_lipsa,
-        ["gen indicat", "accent tonic", "varianta sinonimă"].filter(x => !item.forma_lipsa.includes(x)),
-        rng
-      );
-      questions.push(q);
+      const item = SUBSTANTIVE_DEFECTIVE[i % SUBSTANTIVE_DEFECTIVE.length];
+      // Vary the question type by rotating through different phrasings
+      const questionType = i % 3;
+      let question = "";
+      let correct = item.forma_lipsa;
+      let wrongOpts = ["gen indicat", "accent tonic", "varianta sinonimă"];
+
+      if (questionType === 0) {
+        question = `Substantivul "${item.subst}" este defectiv și nu are:`;
+      } else if (questionType === 1) {
+        question = `Ce formă lipsește la "${item.subst}"?`;
+      } else {
+        question = `"${item.subst}" este exemplu de substantiv fără:`;
+      }
+
+      wrongOpts = wrongOpts.filter(x => !item.forma_lipsa.includes(x));
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt substantivele defective?", "substantive cu forme lipsă"));
@@ -319,21 +332,40 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "personale_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through personal pronouns and varying case/person pairs
     for (let i = 0; i < 30; i++) {
-      const item = pick(PRONUME_PERSONALE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Pronumele "${item.pronume}" este persoana ${item.gen}, numărul ${item.numar}, cazul ${item.caz}. Care din acestea este similar?`,
-        `${item.gen}/${item.numar}/${item.caz}`,
-        [`2/${item.numar}/${item.caz}`, `${item.gen}/plural/${item.caz}`, `${item.gen}/${item.numar}/Genitiv`],
-        rng
-      );
-      questions.push(q);
+      const item = PRONUME_PERSONALE[i % PRONUME_PERSONALE.length];
+      const variantType = Math.floor(i / PRONUME_PERSONALE.length);
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        // Variant: what is this pronoun's properties?
+        question = `Pronumele "${item.pronume}" este persoana ${item.gen}, numărul ${item.numar}, cazul ${item.caz}. Care din acestea este similar?`;
+        correct = `${item.gen}/${item.numar}/${item.caz}`;
+        wrongOpts = [`2/${item.numar}/${item.caz}`, `${item.gen}/plural/${item.caz}`, `${item.gen}/${item.numar}/Genitiv`];
+      } else if (variantType === 1) {
+        // Variant: which pronoun represents this person/number/case?
+        question = `Care pronume reprezintă persoana ${item.gen}, ${item.numar}, ${item.caz}?`;
+        correct = item.pronume;
+        const others = PRONUME_PERSONALE.filter(p => !(p.gen === item.gen && p.numar === item.numar && p.caz === item.caz)).slice(0, 3).map(p => p.pronume);
+        wrongOpts = others.length >= 3 ? others : [...others, "se", "vă"];
+      } else {
+        // Variant: what case/person does this pronoun have?
+        question = `Pronumele "${item.pronume}" are cazul:`;
+        correct = item.caz;
+        wrongOpts = ["Nominativ", "Acuzativ", "Dativ"].filter(c => c !== item.caz);
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte persoane gramaticale sunt?", "trei"));
@@ -360,23 +392,36 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "demonstrative_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through demonstrative pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = pick(PRONUME_DEMONSTRATIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Pronumele demonstrativ "${item.pronume}" se folosește pentru a indica:`,
-        item.referinta,
-        [`distanță medie (neutră)`, `locuri la distanță mică`, `obiecte care nu se văd`].filter(
-          x => x !== item.referinta
-        ),
-        rng
-      );
-      questions.push(q);
+      const item = PRONUME_DEMONSTRATIVE[i % PRONUME_DEMONSTRATIVE.length];
+      const variantType = i % 3;
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `Pronumele demonstrativ "${item.pronume}" se folosește pentru a indica:`;
+        correct = item.referinta;
+        wrongOpts = [`distanță medie (neutră)`, `locuri la distanță mică`, `obiecte care nu se văd`].filter(x => x !== item.referinta);
+      } else if (variantType === 1) {
+        question = `Indică "${item.referinta}" pronumele:`;
+        correct = item.pronume;
+        wrongOpts = PRONUME_DEMONSTRATIVE.filter(p => p.referinta !== item.referinta).map(p => p.pronume).slice(0, 3);
+      } else {
+        question = `Pronumele demonstrativ "${item.pronume}" aparține categoriei:`;
+        correct = item.referinta.split(" ")[0]; // apropiat, depărtat, sau neutru
+        wrongOpts = ["apropiere", "depărtare", "neutru"].filter(c => c !== correct);
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele demonstrative?", "indică referință spațială"));
@@ -403,21 +448,36 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "posesive_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (10)
-    for (let i = 0; i < 10; i++) {
-      const item = pick(PRONUME_POSESIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Pronumele posesiv "${item.pron_poss}" corespunde persoanei:`,
-        item.persoana,
-        ["3 sg", "1 pl", "2 pl"].filter(x => x !== item.persoana),
-        rng
-      );
-      questions.push(q);
+    // Build 30 unique MCQ questions by cycling through possessive pronouns and varying question types
+    for (let i = 0; i < 30; i++) {
+      const item = PRONUME_POSESIVE[i % PRONUME_POSESIVE.length];
+      const variantType = i % 3;
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `Pronumele posesiv "${item.pron_poss}" corespunde persoanei:`;
+        correct = item.persoana;
+        wrongOpts = ["3 sg", "1 pl", "2 pl"].filter(x => x !== item.persoana);
+      } else if (variantType === 1) {
+        question = `Persoana ${item.persoana} are pronumele posesiv:`;
+        correct = item.pron_poss;
+        wrongOpts = PRONUME_POSESIVE.filter(p => p.persoana !== item.persoana).map(p => p.pron_poss).slice(0, 3);
+      } else {
+        question = `Ce înlocuiește pronumele posesiv "${item.pron_poss}"?`;
+        correct = `ceva ce aparține persoanei ${item.persoana}`;
+        wrongOpts = ["ceva ce aparține altora", "ceva nedefinit", "ceva la distanță"];
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (8)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele posesive?", "indică posesia"));
@@ -437,21 +497,36 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "reflexive_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through reflexive pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = pick(PRONUME_REFLEXIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `În expresia "${item.verb_ex}", pronumele reflexiv este:`,
-        item.pron_ref,
-        ["se", "și", "ți"].filter(x => x !== item.pron_ref),
-        rng
-      );
-      questions.push(q);
+      const item = PRONUME_REFLEXIVE[i % PRONUME_REFLEXIVE.length];
+      const variantType = i % 3;
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `În expresia "${item.verb_ex}", pronumele reflexiv este:`;
+        correct = item.pron_ref;
+        wrongOpts = ["se", "și", "ți"].filter(x => x !== item.pron_ref);
+      } else if (variantType === 1) {
+        question = `Pronumele reflexiv pentru "${item.verb_ex}" este:`;
+        correct = item.pron_ref;
+        wrongOpts = PRONUME_REFLEXIVE.filter(p => p.pron_ref !== item.pron_ref).map(p => p.pron_ref).slice(0, 3);
+      } else {
+        question = `Verbul "${item.verb_ex}" are pronumele reflexiv:`;
+        correct = item.pron_ref;
+        wrongOpts = ["nu are pronume", "pronume demonstrativ", "pronume personal"];
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele reflexive?", "indică acțiune asupra subiectului"));
@@ -478,21 +553,36 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "interogative_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through interrogative pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = pick(PRONUME_INTEROGATIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Pronumele interogativ "${item.intreb}" se folosește pentru a întreba despre:`,
-        item.raspuns,
-        [`acțiuni trecute`, `calități ale obiectelor`, `relații spațiale`].filter(x => x !== item.raspuns),
-        rng
-      );
-      questions.push(q);
+      const item = PRONUME_INTEROGATIVE[i % PRONUME_INTEROGATIVE.length];
+      const variantType = i % 3;
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `Pronumele interogativ "${item.intreb}" se folosește pentru a întreba despre:`;
+        correct = item.raspuns;
+        wrongOpts = [`acțiuni trecute`, `calități ale obiectelor`, `relații spațiale`].filter(x => x !== item.raspuns);
+      } else if (variantType === 1) {
+        question = `Pentru a întreba despre "${item.raspuns}" se folosește:`;
+        correct = item.intreb;
+        wrongOpts = PRONUME_INTEROGATIVE.filter(p => p.raspuns !== item.raspuns).map(p => p.intreb).slice(0, 3);
+      } else {
+        question = `Pronumele interogativ "${item.intreb}" răspunde la care domeniu?`;
+        correct = item.raspuns;
+        wrongOpts = ["timp", "mod", "cauză"];
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru persoane:", "cine"));
@@ -519,21 +609,36 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "pronume_c6";
     const subtopic = "nehotarate_c6";
-    const questions: CurriculumQuestion[] = [];
+    const questionPool: CurriculumMCQ[] = [];
 
-    // MCQ questions (30)
+    // Build 30 unique MCQ questions by cycling through indefinite pronouns and varying question types
     for (let i = 0; i < 30; i++) {
-      const item = pick(PRONUME_NEHOTARATE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `În propoziția "${item.exemplu}", pronumele nehotărat este:`,
-        item.pron,
-        [`ceva-l`, `cineva-i`, `fiecine`].filter(x => x !== item.pron),
-        rng
-      );
-      questions.push(q);
+      const item = PRONUME_NEHOTARATE[i % PRONUME_NEHOTARATE.length];
+      const variantType = i % 3;
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        question = `În propoziția "${item.exemplu}", pronumele nehotărat este:`;
+        correct = item.pron;
+        wrongOpts = [`ceva-l`, `cineva-i`, `fiecine`].filter(x => x !== item.pron);
+      } else if (variantType === 1) {
+        question = `Pronumele nehotărat din "${item.exemplu}" arată:`;
+        correct = `nedeterminare`;
+        wrongOpts = ["demonstrație", "interogație", "pozesiune"];
+      } else {
+        question = `Pronumele nehotărat "${item.pron}" se folosește în:`;
+        correct = item.exemplu;
+        wrongOpts = PRONUME_NEHOTARATE.filter(p => p.pron !== item.pron).map(p => p.exemplu).slice(0, 3);
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      questionPool.push(q);
     }
+
+    const questions = shuffle(questionPool, rng);
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru persoane:", "cineva"));

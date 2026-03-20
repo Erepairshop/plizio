@@ -133,14 +133,15 @@ const NUMERAL_ORDINAL = [
 
 function adjectiv_clasificare(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const questionPool: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 10; i++) {
-    const adj = pick(ADJECTIVE_TYPES, rng);
+  // Build 30 unique questions by cycling through adjectives and question variants
+  for (let i = 0; i < 30; i++) {
+    const adj = ADJECTIVE_TYPES[i % ADJECTIVE_TYPES.length];
     const wrong = ADJECTIVE_TYPES.filter(a => a.type !== adj.type);
     const wrongTypes = [...new Set(wrong.map(a => a.type))];
 
-    questions.push(
+    questionPool.push(
       createMCQ(
         "Romanian-C7-P1",
         "adjectiv_clasificare",
@@ -152,120 +153,169 @@ function adjectiv_clasificare(seed = 42): CurriculumQuestion[] {
     );
   }
 
-  return shuffle(questions, rng).slice(0, 6);
+  return shuffle(questionPool, rng).slice(0, 6);
 }
 
 function adjectiv_grade(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const questionPool: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 10; i++) {
-    const adj = pick(ADJECTIVE_GRADES, rng);
-    const degrees = shuffle(
-      [
-        adj.positive,
-        adj.comparative,
-        adj.superlative,
-        pick(ADJECTIVE_GRADES.filter(a => a.positive !== adj.positive), rng).superlative,
-      ],
-      rng
-    );
+  // Build 30 unique questions by cycling through adjectives and varying question types
+  for (let i = 0; i < 30; i++) {
+    const adj = ADJECTIVE_GRADES[i % ADJECTIVE_GRADES.length];
+    const variantType = Math.floor(i / ADJECTIVE_GRADES.length);
+    let correct = "";
+    let question = "";
+    let wrongOpts: string[] = [];
 
-    questions.push(
-      createMCQ(
-        "Romanian-C7-P1",
-        "adjectiv_grade",
-        `Care este forma superlativă a adjectivului pozitiv "${adj.positive}"?`,
+    if (variantType === 0) {
+      // Superlative form
+      correct = adj.superlative;
+      question = `Care este forma superlativă a adjectivului pozitiv "${adj.positive}"?`;
+      wrongOpts = [
+        ADJECTIVE_GRADES[(i + 1) % ADJECTIVE_GRADES.length].superlative,
+        ADJECTIVE_GRADES[(i + 2) % ADJECTIVE_GRADES.length].comparative,
+        `prea ${adj.positive}`,
+      ];
+    } else if (variantType === 1) {
+      // Comparative form
+      correct = adj.comparative;
+      question = `Care este forma comparativă a adjectivului "${adj.positive}"?`;
+      wrongOpts = [
+        ADJECTIVE_GRADES[(i + 1) % ADJECTIVE_GRADES.length].comparative,
         adj.superlative,
-        [
-          pick(ADJECTIVE_GRADES, rng).superlative,
-          pick(ADJECTIVE_GRADES, rng).comparative,
-          `prea ${adj.positive}`,
-        ],
-        rng
-      )
-    );
+        `puțin ${adj.positive}`,
+      ];
+    } else {
+      // Positive from comparative/superlative
+      correct = adj.positive;
+      question = `Care este forma pozitivă a adjectivului pentru "${adj.comparative}"?`;
+      wrongOpts = [
+        ADJECTIVE_GRADES[(i + 1) % ADJECTIVE_GRADES.length].positive,
+        ADJECTIVE_GRADES[(i + 2) % ADJECTIVE_GRADES.length].positive,
+        `mai ${adj.positive}`,
+      ];
+    }
+
+    questionPool.push(createMCQ("Romanian-C7-P1", "adjectiv_grade", question, correct, wrongOpts, rng));
   }
 
-  return shuffle(questions, rng).slice(0, 6);
+  return shuffle(questionPool, rng).slice(0, 6);
 }
 
 function adjectiv_functii(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const questionPool: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 10; i++) {
-    const func = pick(ADJECTIVE_FUNCTIONS, rng);
+  // Build 30 unique questions by cycling through adjective functions and varying question types
+  for (let i = 0; i < 30; i++) {
+    const func = ADJECTIVE_FUNCTIONS[i % ADJECTIVE_FUNCTIONS.length];
+    const variantType = i % 3;
 
-    questions.push(
-      createMCQ(
-        "Romanian-C7-P1",
-        "adjectiv_functii",
-        `În propoziția "${func.sentence}", adjectivul "${func.adjective}" joacă funcția de:`,
-        func.function,
-        [
-          "adverbial",
-          "complement indirect",
-          "determinator nominal",
-        ],
-        rng
-      )
-    );
+    let question = "";
+    let correct = "";
+    let wrongOpts: string[] = [];
+
+    if (variantType === 0) {
+      question = `În propoziția "${func.sentence}", adjectivul "${func.adjective}" joacă funcția de:`;
+      correct = func.function;
+      wrongOpts = ["adverbial", "complement indirect", "determinator nominal"];
+    } else if (variantType === 1) {
+      question = `Adjectivul "${func.adjective}" din "${func.sentence}" exprimă:`;
+      correct = func.role;
+      wrongOpts = ["deoarece", "în mod adverbial", "ca determinant"];
+    } else {
+      question = `Ce rol joacă adjectivul în: "${func.sentence}"?`;
+      correct = func.function;
+      wrongOpts = ["predicat nominal", "modifier de verb", "complement prepoziție"];
+    }
+
+    questionPool.push(createMCQ("Romanian-C7-P1", "adjectiv_functii", question, correct, wrongOpts, rng));
   }
 
-  return shuffle(questions, rng).slice(0, 6);
+  return shuffle(questionPool, rng).slice(0, 6);
 }
 
 function numeral_cardinal(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const questionPool: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 10; i++) {
-    const num = pick(NUMERAL_CARDINAL, rng);
+  // Build 30 unique questions by cycling through cardinals and varying question types
+  for (let i = 0; i < 30; i++) {
+    const num = NUMERAL_CARDINAL[i % NUMERAL_CARDINAL.length];
+    const variantType = Math.floor(i / NUMERAL_CARDINAL.length);
 
-    questions.push(
-      createMCQ(
-        "Romanian-C7-P1",
-        "numeral_cardinal",
-        `Cum se exprimă "jumătate" în contextul: "${num.example}"?`,
-        num.form,
-        [
-          `${num.number} întreg`,
-          `sfert din ${num.number}`,
-          `o treime din ${num.number}`,
-        ],
-        rng
-      )
-    );
+    let question = "";
+    let correct = "";
+    let wrongOpts: string[] = [];
+
+    if (variantType === 0) {
+      question = `Cum se exprimă "${num.form}" în contextul: "${num.example}"?`;
+      correct = num.form;
+      wrongOpts = [`${num.number} întreg`, `sfert din ${num.number}`, `o treime din ${num.number}`];
+    } else if (variantType === 1) {
+      question = `Numeralul cardinal pentru "${num.example}" este:`;
+      correct = num.form;
+      wrongOpts = [
+        NUMERAL_CARDINAL[(i + 1) % NUMERAL_CARDINAL.length].form,
+        NUMERAL_CARDINAL[(i + 2) % NUMERAL_CARDINAL.length].form,
+        `aproximativ ${num.form}`,
+      ];
+    } else {
+      question = `Care din următoarele nu este o formă a "${num.form}"?`;
+      correct = NUMERAL_CARDINAL[(i + 3) % NUMERAL_CARDINAL.length].form;
+      wrongOpts = [num.form, NUMERAL_CARDINAL[(i + 1) % NUMERAL_CARDINAL.length].form, NUMERAL_CARDINAL[(i + 2) % NUMERAL_CARDINAL.length].form];
+    }
+
+    questionPool.push(createMCQ("Romanian-C7-P1", "numeral_cardinal", question, correct, wrongOpts, rng));
   }
 
-  return shuffle(questions, rng).slice(0, 6);
+  return shuffle(questionPool, rng).slice(0, 6);
 }
 
 function numeral_ordinal(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const questionPool: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 10; i++) {
-    const num = pick(NUMERAL_ORDINAL, rng);
+  // Build 30 unique questions by cycling through ordinals and varying question types
+  for (let i = 0; i < 30; i++) {
+    const num = NUMERAL_ORDINAL[i % NUMERAL_ORDINAL.length];
+    const variantType = i % 3;
 
-    questions.push(
-      createMCQ(
-        "Romanian-C7-P1",
-        "numeral_ordinal",
-        `Care este forma numeralului ordinal/multiplicativ pentru "${num.ordinal}"?`,
-        num.ordinal,
-        [
-          pick(NUMERAL_ORDINAL.filter(n => n.type !== num.type), rng).ordinal,
-          pick(NUMERAL_ORDINAL.filter(n => n.type !== num.type), rng).ordinal,
-          pick(NUMERAL_CARDINAL, rng).form,
-        ],
-        rng
-      )
-    );
+    let question = "";
+    let correct = "";
+    let wrongOpts: string[] = [];
+
+    if (variantType === 0) {
+      question = `Care este forma numeralului ordinal/multiplicativ pentru "${num.ordinal}"?`;
+      correct = num.ordinal;
+      wrongOpts = [
+        NUMERAL_ORDINAL[(i + 1) % NUMERAL_ORDINAL.length].ordinal,
+        NUMERAL_ORDINAL[(i + 2) % NUMERAL_ORDINAL.length].ordinal,
+        NUMERAL_CARDINAL[i % NUMERAL_CARDINAL.length].form,
+      ];
+    } else if (variantType === 1) {
+      question = `Numeralul "${num.ordinal}" este de tip:`;
+      correct = num.type;
+      wrongOpts = [
+        NUMERAL_ORDINAL[(i + 1) % NUMERAL_ORDINAL.length].type,
+        NUMERAL_ORDINAL[(i + 2) % NUMERAL_ORDINAL.length].type,
+        "cardinal",
+      ];
+    } else {
+      question = `Cum se exprimă "dublu" sau "triplu" în limba română? Exemplu: "${num.english}"`;
+      correct = num.ordinal;
+      wrongOpts = [
+        NUMERAL_ORDINAL[(i + 3) % NUMERAL_ORDINAL.length].ordinal,
+        num.english,
+        `doi ori ${num.english}`,
+      ];
+    }
+
+    questionPool.push(createMCQ("Romanian-C7-P1", "numeral_ordinal", question, correct, wrongOpts, rng));
   }
 
-  return shuffle(questions, rng).slice(0, 6);
+  return shuffle(questionPool, rng).slice(0, 6);
 }
 
 // ─── TYPING QUESTION GENERATORS ────────────────────────────────────────────
