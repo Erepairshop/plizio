@@ -10462,6 +10462,12 @@ export const G8_Generators = {
         { question: "What is the purpose of a TRANSITION in argumentative writing?", answer: "to connect ideas and guide the reader", wrong: ["to introduce new evidence", "to state the claim", "to summarize the essay"] },
         { question: "Which is an example of ETHOS (ethical appeal)?", answer: "citing a respected expert in the field", wrong: ["using emotional language", "presenting statistics", "telling a personal story"] },
         { question: "Which is an example of LOGOS (logical appeal)?", answer: "presenting data and logical reasoning", wrong: ["sharing a sad story", "using vivid imagery", "quoting a celebrity"] },
+        { question: "Which is an example of PATHOS (emotional appeal)?", answer: "telling a story that moves the audience emotionally", wrong: ["citing statistics", "quoting an expert", "using formal language"] },
+        { question: "What is the function of EVIDENCE in an argument?", answer: "to support and strengthen the claim", wrong: ["to introduce new topics", "to refute the thesis", "to entertain the reader"] },
+        { question: "A strong argument requires which of the following?", answer: "a clear claim supported by relevant evidence", wrong: ["only one perspective", "emotional language only", "a lengthy introduction"] },
+        { question: "When writing a REBUTTAL, you should:", answer: "acknowledge and refute opposing viewpoints fairly", wrong: ["ignore the counterclaim", "attack the opponent personally", "repeat your main claim"] },
+        { question: "Which type of evidence is MOST reliable in academic writing?", answer: "peer-reviewed studies and scholarly sources", wrong: ["social media posts", "hearsay", "opinions of celebrities"] },
+        { question: "What is the role of a CONCLUSION in argumentative writing?", answer: "to restate the claim and summarize key evidence", wrong: ["to introduce new arguments", "to list all counterarguments", "to tell a story"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10484,6 +10490,12 @@ export const G8_Generators = {
         { question: "Which is a feature of INFORMATIONAL writing?", answer: "headings and subheadings to organize information", wrong: ["dialogue between characters", "rhyme and meter", "a narrative arc"] },
         { question: "What does 'synthesizing sources' mean?", answer: "combining information from multiple sources into a unified explanation", wrong: ["copying from one source", "paraphrasing a single author", "writing a bibliography"] },
         { question: "Which is an example of a PRIMARY source?", answer: "a diary entry from a historical figure", wrong: ["a textbook summary", "a Wikipedia article", "a documentary film"] },
+        { question: "Which text structure shows how one event caused another?", answer: "cause and effect", wrong: ["chronological order", "spatial order", "problem and solution"] },
+        { question: "What should a SECONDARY source do?", answer: "interpret or analyze information from primary sources", wrong: ["record original events", "be written by an eyewitness", "be from a diary or memoir"] },
+        { question: "How should you CITE a source in academic writing?", answer: "provide author, title, publication date, and URL if online", wrong: ["mention it casually in text", "assume readers will find it", "list it randomly"] },
+        { question: "Which is an example of a SECONDARY source?", answer: "a history textbook analysis of the American Revolution", wrong: ["a soldier's letter from the Revolution", "a diary from that era", "official government records"] },
+        { question: "What does a TRANSITION sentence do in informational writing?", answer: "connects ideas between paragraphs and maintains flow", wrong: ["repeats the thesis", "introduces new topics randomly", "ends the essay"] },
+        { question: "Which text structure is BEST for showing similarities and differences?", answer: "compare and contrast", wrong: ["chronological order", "problem and solution", "spatial order"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10701,6 +10713,12 @@ export const G8_Generators = {
         { text: "Sarah felt nervous. Meanwhile, across town, Jake was excited about his plan.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
         { text: "We decided to take the longer route through the forest.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
         { text: "He sat alone, thinking about his choices, unaware that she was watching.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+        { text: "My heart raced as I heard the footsteps approaching.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
+        { text: "Elena could not know what her brother was planning that moment.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
+        { text: "Your choices will determine your future.", pov: "second person", wrong: ["first person", "third person limited", "third person omniscient"] },
+        { text: "Marcus dreamed of escape while Maria plotted revenge.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+        { text: "They walked through the garden, unaware of the truth.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
+        { text: "I never understood why she left until years later.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
