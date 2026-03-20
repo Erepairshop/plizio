@@ -6,7 +6,7 @@ import type { CurriculumQuestion } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
 
 // ─── Type definitions ──────────────────────────────────────────────────────────
-export interface MagyarMCQ extends CurriculumQuestion {
+export interface MagyarMCQ {
   type: "mcq";
   topic: string;
   subtopic: string;
@@ -407,5 +407,4 @@ export function getMagyarCurriculumQuestions(
   return pool;
 }
 
-// ─── Export types for page.tsx ────────────────────────────────────────────────
-export type { MagyarMCQ, MagyarSubtopic, MagyarTheme };
+// ─── Types already exported inline above ───────────────────────────────────

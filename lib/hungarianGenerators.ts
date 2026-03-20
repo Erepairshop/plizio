@@ -8,6 +8,9 @@
 
 import type { CurriculumMCQ } from "./curriculumTypes";
 
+// Type alias for Hungarian MCQ (compatible with CurriculumMCQ)
+type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
 /** Seeded PRNG (Mulberry32) */
