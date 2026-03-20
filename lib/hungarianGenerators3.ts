@@ -744,25 +744,329 @@ export function generateAdjectiveRole(seed?: number): MagyarMCQ[] {
   return q;
 }
 
+export function generateImperativeMood(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const verb = pick(VERBS_IMPERATIVE, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Melyik a felszólító mód?
+      const correct = verb.te_sg;
+      const wrongs = shuffle(VERBS_IMPERATIVE, rng).slice(0, 3).map(v => v.o_sg);
+      q.push(createMCQ("igeidok", "felszolito", `"${verb.inf}" felszólító módja (te):`, correct, wrongs));
+    } else if (type === 1) {
+      // Mi a parancs alakja?
+      const correct = verb.o_sg;
+      const wrongs = shuffle(VERBS_IMPERATIVE, rng).slice(0, 3).map(v => v.mi);
+      q.push(createMCQ("igeidok", "felszolito", `"${verb.inf}" felszólító módja (ő/3. sz. sing.):`, correct, wrongs));
+    } else {
+      // Komplettálj!
+      const correct = verb.mi;
+      const wrongs = shuffle(VERBS_IMPERATIVE, rng).slice(0, 3).map(v => v.te_sg);
+      q.push(createMCQ("igeidok", "felszolito", `"Gyerekek, ... össze!" (${verb.inf})`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateConditionalMood(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const verb = pick(VERBS_CONDITIONAL, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Melyik a feltételes mód?
+      const correct = verb.jelen;
+      const wrongs = shuffle(VERBS_CONDITIONAL, rng).slice(0, 3).map(v => v.mult);
+      q.push(createMCQ("igeidok", "felteteles", `"${verb.inf}" feltételes módja (jelen):`, correct, wrongs));
+    } else if (type === 1) {
+      // Múlt feltételes
+      const correct = verb.mult;
+      const wrongs = shuffle(VERBS_CONDITIONAL, rng).slice(0, 3).map(v => v.jelen);
+      q.push(createMCQ("igeidok", "felteteles", `"${verb.inf}" feltételes módja (múlt):`, correct, wrongs));
+    } else {
+      // Mondatban
+      const correct = verb.jelen;
+      const wrongs = shuffle(VERBS_CONDITIONAL, rng).slice(0, 3).map(v => v.mult);
+      q.push(createMCQ("igeidok", "felteteles", `"Ha lenne pénzem, ..." (${verb.inf})`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generatePossessivePersonal(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const noun = pick(NOUNS_POSSESSIVE, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Birtokos személyjelezés (1. sz. sing.)
+      const correct = noun.sg1;
+      const wrongs = [noun.sg2, noun.sg3, noun.pl1];
+      q.push(createMCQ("nevszok", "birtokos", `"${noun.nom}" - enyém (1. sz. sing.):`, correct, wrongs));
+    } else if (type === 1) {
+      // Birtokos személyjelezés (3. sz. sing.)
+      const correct = noun.sg3;
+      const wrongs = [noun.sg1, noun.sg2, noun.pl3];
+      q.push(createMCQ("nevszok", "birtokos", `"${noun.nom}" - övé (3. sz. sing.):`, correct, wrongs));
+    } else {
+      // Több alany
+      const correct = noun.pl1;
+      const wrongs = [noun.sg1, noun.pl2, noun.sg3];
+      q.push(createMCQ("nevszok", "birtokos", `"${noun.nom}" - mienk (1. sz. plur.):`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateAdverbialCasesAdvanced(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const noun = pick(ADVERBIAL_CASE_ADVANCED, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Eszközrag (-val/-vel)
+      const correct = noun.comitative;
+      const wrongs = shuffle(ADVERBIAL_CASE_ADVANCED, rng).slice(0, 3).map(n => n.ablative);
+      q.push(createMCQ("nevszok", "hatarozaragu", `"${noun.nom}" eszközrag (-val/-vel):`, correct, wrongs));
+    } else if (type === 1) {
+      // Kiegyüttlégi rag (-ból/-ből)
+      const correct = noun.ablative;
+      const wrongs = shuffle(ADVERBIAL_CASE_ADVANCED, rng).slice(0, 3).map(n => n.delative);
+      q.push(createMCQ("nevszok", "hatarozaragu", `"${noun.nom}" ablativus (-ból/-ből):`, correct, wrongs));
+    } else {
+      // Helyhatározó rag (-ról/-ről)
+      const correct = noun.delative;
+      const wrongs = shuffle(ADVERBIAL_CASE_ADVANCED, rng).slice(0, 3).map(n => n.comitative);
+      q.push(createMCQ("nevszok", "hatarozaragu", `"${noun.nom}" delativus (-ról/-ről):`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateEmotionsVocabulary(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const emot = pick(EMOTIONS_VOCABULARY, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Mi az ellentéte?
+      const correct = emot.opposite;
+      const wrongs = shuffle(EMOTIONS_VOCABULARY, rng).slice(0, 3).map(e => e.emotion);
+      q.push(createMCQ("szokincs", "erzelmek", `"${emot.emotion}" ellentéte:`, correct, wrongs));
+    } else if (type === 1) {
+      // Melyik mondat mutatja az érzelmét?
+      const correct = emot.example;
+      const wrongs = shuffle(EMOTIONS_VOCABULARY, rng).slice(0, 3).map(e => e.example);
+      q.push(createMCQ("szokincs", "erzelmek", `Melyik mondat mutatja, hogy valaki "${emot.emotion}"?`,
+        correct, wrongs));
+    } else {
+      // Szó alapján
+      q.push(createMCQ("szokincs", "erzelmek", `"${emot.emotion}" érzelmi állapot jelentése:`,
+        "az adott érzelmet fejezi ki",
+        ["az időt mutatja", "egy szín", "egy tárgy"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateTimeExpressions(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const time = pick(TIME_EXPRESSIONS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Mi az időkifejezés jelentése?
+      const correct = time.meaning;
+      const wrongs = shuffle(TIME_EXPRESSIONS, rng).slice(0, 3).map(t => t.meaning);
+      q.push(createMCQ("szokincs", "idokifejezesek", `"${time.word}" jelentése:`, correct, wrongs));
+    } else if (type === 1) {
+      // Melyik időkifejezést kellene ide?
+      const correct = time.word;
+      const wrongs = shuffle(TIME_EXPRESSIONS, rng).slice(0, 3).map(t => t.word);
+      q.push(createMCQ("szokincs", "idokifejezesek", `${time.example.replace(time.word, "___")}`,
+        correct, wrongs));
+    } else {
+      // Mikor használjuk?
+      q.push(createMCQ("szokincs", "idokifejezesek", `"${time.word}" azt jelenti:`,
+        time.meaning,
+        ["valami más időpontot", "helyet jelent", "érzelmeket"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateIkesVerbs(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const verb = pick(IKES_VERBS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Melyik az ikes ige?
+      const correct = verb.inf;
+      const wrongs = shuffle(IKES_VERBS, rng).slice(0, 3).map(v => v.inf);
+      q.push(createMCQ("helyesiras", "ikes_igek", `Melyik az ikes ige?`, correct, wrongs));
+    } else if (type === 1) {
+      // Jelen ideje
+      const correct = verb.jelen;
+      const wrongs = shuffle(IKES_VERBS, rng).slice(0, 3).map(v => v.múlt);
+      q.push(createMCQ("helyesiras", "ikes_igek", `"${verb.inf}" jelen ideje (1. sz. sing.):`, correct, wrongs));
+    } else {
+      // Múlt ideje
+      const correct = verb.múlt;
+      const wrongs = shuffle(IKES_VERBS, rng).slice(0, 3).map(v => v.jelen);
+      q.push(createMCQ("helyesiras", "ikes_igek", `"${verb.inf}" múlt ideje:`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateConsonantHarmony(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const rule = pick(CONSONANT_HARMONY_RULES, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Mi a mássalhangzó-törvény?
+      q.push(createMCQ("helyesiras", "masshangzo_torveny", `"${rule.word}" milyen szabályt követi?`,
+        rule.rule,
+        ["magánhangzó-harmónia", "ragozási rag", "összetett szó"]));
+    } else if (type === 1) {
+      // Meddig okoz változást?
+      q.push(createMCQ("helyesiras", "masshangzo_torveny", `A mássalhangzó-törvény miért fontos a magyar helyesírásban?`,
+        "a hangok tisztaságáért",
+        ["a sebességért", "az egyszerűségért", "az archaikus formáért"]));
+    } else {
+      // Példa
+      q.push(createMCQ("helyesiras", "masshangzo_torveny", `Melyik szó követi a mássalhangzó-törvényt?`,
+        "szépség",
+        ["boldog", "játszik", "írás"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateCompoundSentenceBasics(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const sent = pick(COMPOUND_SENTENCE_BASICS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Mi az kötőszó jelentése?
+      const correct = sent.meaning;
+      const wrongs = shuffle(COMPOUND_SENTENCE_BASICS, rng).slice(0, 3).map(s => s.meaning);
+      q.push(createMCQ("mondat", "osszetett_alap", `"${sent.connector}" kötőszó jelentése:`, correct, wrongs));
+    } else if (type === 1) {
+      // Melyik a helyes kötőszó?
+      const correct = sent.connector;
+      const wrongs = shuffle(COMPOUND_SENTENCE_BASICS, rng).slice(0, 3).map(s => s.connector);
+      q.push(createMCQ("mondat", "osszetett_alap", `${sent.example.replace(sent.connector, "___")}`,
+        correct, wrongs));
+    } else {
+      // Összetett mondat fogalma
+      q.push(createMCQ("mondat", "osszetett_alap", `Az összetett mondat két vagy több ... áll.`,
+        "egyszerű mondatból",
+        ["szóból", "szó csoportból", "szótagból"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateDialogueVerbs(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const dverb = pick(DIALOGUE_VERBS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      // Melyik igét használjuk a párbeszédben?
+      const correct = dverb.verb;
+      const wrongs = shuffle(DIALOGUE_VERBS, rng).slice(0, 3).map(d => d.verb);
+      q.push(createMCQ("fogalmazas", "parbeszed", `Melyik ige mutatja, hogy valaki valamit ${dverb.verb.slice(0, -2)}?`,
+        correct, wrongs));
+    } else if (type === 1) {
+      // Párbeszéd ige jelentése
+      q.push(createMCQ("fogalmazas", "parbeszed", `"${dverb.verb}" igét a párbeszédben azért használjuk, mert:`,
+        "mutatja, hogy valaki beszél",
+        ["mutatja az időt", "mutatja a helyet", "mutatja az írásmódot"]));
+    } else {
+      // Mondat kiegészítés
+      const correct = dverb.verb;
+      const wrongs = shuffle(DIALOGUE_VERBS, rng).slice(0, 3).map(d => d.verb);
+      q.push(createMCQ("fogalmazas", "parbeszed", `"Játszunk!" ... a tanár.`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
 // ─── Export generator map ──────────────────────────────────────────────────
 
 export const G3_Generators_Hungarian = {
   "igeidok/jelen": generateTensePresent,
   "igeidok/mult": generateTensePast,
   "igeidok/jovo": generateTenseFuture,
+  "igeidok/felszolito": generateImperativeMood,
+  "igeidok/felteteles": generateConditionalMood,
   "nevszok/fonevragozas": generateNounDeclension,
   "nevszok/melleknevfokozas": generateAdjectiveDegree,
+  "nevszok/birtokos": generatePossessivePersonal,
+  "nevszok/hatarozaragu": generateAdverbialCasesAdvanced,
   "szo/osszetett_haladó": generateCompoundWordsAdvanced,
   "szo/szocsaladok": generateWordFamilies,
   "szoveg/megertés": generateTextComprehension,
   "szoveg/osszefoglalas": generateTextSummary,
   "szokincs/szolasok": generateIdioms,
   "szokincs/kozmondasok": generateProverbs,
+  "szokincs/erzelmek": generateEmotionsVocabulary,
+  "szokincs/idokifejezesek": generateTimeExpressions,
   "helyesiras/egybeíras": generateSpellingTogether,
   "helyesiras/kuloniras": generateSpellingApart,
+  "helyesiras/ikes_igek": generateIkesVerbs,
+  "helyesiras/masshangzo_torveny": generateConsonantHarmony,
   "fogalmazas/elbeszeles": generateCompositionNarrative,
   "fogalmazas/leiras": generateCompositionDescription,
+  "fogalmazas/parbeszed": generateDialogueVerbs,
   "mondat/targy": generateObjectRole,
   "mondat/hatarozo": generateAdverbialRole,
   "mondat/jelzo": generateAdjectiveRole,
+  "mondat/osszetett_alap": generateCompoundSentenceBasics,
 };

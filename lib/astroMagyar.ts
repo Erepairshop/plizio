@@ -275,7 +275,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i5",
     name: { en: "Opposites Island", hu: "Ellentétek szigete", de: "Gegenteil-Insel", ro: "Insula opuselor" },
     icon: "↔️", color: "#B44DFF", sortRange: [1, 10],
-    topicKeys: ["szavak/ellentetek", "szavak/fonevek"],
+    topicKeys: ["szavak/ellentetek", "szavak/fonevek", "mondatok/kerdes_felelet"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-builder", icon: "🪐", label: { hu: "Ellentétek párosítás", en: "Opposite Match",    de: "Gegenteil-Zuordnung",    ro: "Potrivire opuse"  } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás",   en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -287,7 +287,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Sentences Island", hu: "Mondatok szigete", de: "Satzinsel", ro: "Insula propozițiilor" },
     icon: "💬", color: "#10B981", sortRange: [1, 10],
-    topicKeys: ["mondatok/mondatfajtak", "mondatok/irasjelek", "mondatok/nagybetu"],
+    topicKeys: ["mondatok/mondatfajtak", "mondatok/irasjelek", "mondatok/nagybetu", "szokincs/heteknapjai"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-builder", icon: "🪐", label: { hu: "Mondat építés",   en: "Build Sentences",  de: "Satz-Bau",              ro: "Construire propoziții" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -299,7 +299,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i7",
     name: { en: "Animals Island", hu: "Állatok szigete", de: "Tier-Insel", ro: "Insula animalelor" },
     icon: "🐾", color: "#FF9500", sortRange: [1, 10],
-    topicKeys: ["szokincs/allatok", "szokincs/szinek"],
+    topicKeys: ["szokincs/allatok", "szokincs/szinek", "szokincs/napszakok"],
     missions: [
       { id: "m1", category: "explore",   gameType: "category-rush", icon: "🪐", label: { hu: "Állat roham",       en: "Animal Rush",      de: "Tier-Ansturm",          ro: "Asalt animale"    } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -311,7 +311,7 @@ export const O1_ISLANDS: IslandDef[] = [
     id: "i8",
     name: { en: "Family Island", hu: "Család szigete", de: "Familie-Insel", ro: "Insula familiei" },
     icon: "👨‍👩‍👧", color: "#E879F9", sortRange: [1, 10],
-    topicKeys: ["szokincs/csalad", "szokincs/testresz", "szokincs/elelmiszer"],
+    topicKeys: ["szokincs/csalad", "szokincs/testresz", "szokincs/elelmiszer", "szokincs/ruhazat"],
     missions: [
       { id: "m1", category: "explore",   gameType: "fill-gap",     icon: "🪐", label: { hu: "Hiánypótlás",       en: "Fill Gaps",        de: "Lückentext",            ro: "Completare goluri" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -326,6 +326,7 @@ export const O1_ISLANDS: IslandDef[] = [
     topicKeys: [
       "betuk/maganhangzok", "betuk/szotagszam", "szavak/fonevek",
       "szavak/ellentetek", "mondatok/irasjelek", "szokincs/allatok",
+      "szokincs/idojaras", "szokincs/kozlekedes",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "grammar-match", icon: "🪐", label: { hu: "Szabály párosítás", en: "Match Rules",      de: "Regel-Match",           ro: "Potrivire reguli" } },

@@ -2,11 +2,13 @@
 // AstroMagyar — O3 (3. osztály) island system
 // Themes: Verb tenses, noun declension, compound words, text comprehension, idioms, advanced spelling, composition, sentence analysis
 
-import type { GameType, Lang, MissionDef, MissionCategory, IslandDef, MatchPair } from "./astromath";
-export type { GameType, Lang, MissionDef, MissionCategory, IslandDef, MatchPair };
+import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, MatchPair } from "./astromath";
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, MatchPair };
+export type { MathQuestion } from "./mathCurriculum";
+import type { MathQuestion } from "./mathCurriculum";
 
 import type { MagyarProgress } from "./astroMagyar";
-import { loadMagyarProgress, saveMagyarProgress, isMissionDone, isIslandDone, isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone, completeMission, islandTotalStars, completeTest } from "./astroMagyar";
+import { loadMagyarProgress, saveMagyarProgress, isMissionDone, isIslandDone, isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone, completeMission, islandTotalStars, completeTest, generateMagyarIslandQuestions, generateMagyarCheckpointQuestions } from "./astroMagyar";
 
 // ─── O3 Constants ──────────────────────────────────────────────────────────
 export const O3_SAVE_KEY = "astromagyar_o3_v1";
@@ -189,4 +191,12 @@ export function islandTotalStarsO3(progress: MagyarProgress, islandId: string): 
 
 export function completeTestO3(progress: MagyarProgress, testId: string): MagyarProgress {
   return completeTest(progress, testId);
+}
+
+export function generateIslandQuestionsO3(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] {
+  return generateMagyarIslandQuestions(island, 3, count);
+}
+
+export function generateCheckpointQuestionsO3(testId: string, _lang: Lang, count = 10): MathQuestion[] {
+  return generateMagyarCheckpointQuestions(testId, O3_CHECKPOINT_TOPICS, 3, count);
 }

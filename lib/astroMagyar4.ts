@@ -23,16 +23,17 @@ export const O4_CHECKPOINT_MAP: Record<string, string[]> = {
 
 export const O4_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: [
-    "ige/alanyi", "ige/targyas", "nevmas/szemelyes",
-    "nevmas/mutato", "nevmas/kerdo",
+    "ige/alanyi", "ige/targyas", "ige/igemódok", "ige/igeidők_összef",
+    "nevmas/szemelyes", "nevmas/mutato", "nevmas/kerdo", "nevmas/visszaható",
   ],
   test2: [
-    "hatarozo/hely", "hatarozo/ido", "hatarozo/mod",
-    "mondat/mellerendelo", "mondat/alarendelo",
+    "hatarozo/hely", "hatarozo/ido", "hatarozo/mod", "hatarozo/cel", "hatarozo/ok",
+    "mondat/mellerendelo", "mondat/alarendelo", "helyesiras/vesszőhasználat",
   ],
   test3: [
-    "szoalkot/kepzes", "szoalkot/ragozas", "szoalkot/jelezés",
-    "helyesiras/igekoveto", "helyesiras/kuloniro_haladó",
+    "szoalkot/kepzes", "szoalkot/ragozas", "szoalkot/jelezés", "szoalkot/igekötő_haladó",
+    "helyesiras/igekoveto", "helyesiras/kuloniro_haladó", "fogalmazas/napló",
+    "nyelvtan/szószerkezet",
   ],
 };
 
@@ -42,11 +43,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i1",
     name: { en: "Verb Conjugation Island", hu: "Igeragozás Szigete", de: "Verbkonjugations-Insel", ro: "Insula conjugării verbelor" },
     icon: "📖", color: "#FF6B9D", sortRange: [1, 10],
-    topicKeys: ["ige/alanyi", "ige/targyas"],
+    topicKeys: ["ige/alanyi", "ige/targyas", "ige/igemódok", "ige/igeidők_összef"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Alanyi ragozás", en: "Subjective Conjugation", de: "Subjektive Konjugation", ro: "Conjugare subiectivă" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Tárgyas ragozás", en: "Objective Conjugation", de: "Objektive Konjugation", ro: "Conjugare obiectivă" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Ragozás vegyes", en: "Mixed Conjugation", de: "Gemischte Konjugation", ro: "Conjugare mixtă" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Igeidők + módok", en: "Tenses & Moods", de: "Zeiten & Modi", ro: "Timpuri & Moduri" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -54,11 +55,11 @@ export const O4_ISLANDS: IslandDef[] = [
     id: "i2",
     name: { en: "Pronouns Island", hu: "Névmások Szigete", de: "Pronomens-Insel", ro: "Insula pronumelor" },
     icon: "🔗", color: "#4ECDC4", sortRange: [1, 10],
-    topicKeys: ["nevmas/szemelyes", "nevmas/mutato", "nevmas/kerdo"],
+    topicKeys: ["nevmas/szemelyes", "nevmas/mutato", "nevmas/kerdo", "nevmas/visszaható", "nevmas/határozatlan"],
     missions: [
       { id: "m1", category: "explore", gameType: "orbit-quiz", icon: "🪐", label: { hu: "Személyes névmások", en: "Personal Pronouns", de: "Personalpronomen", ro: "Pronume personale" } },
       { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { hu: "Mutató és kérdő", en: "Demonstrative & Question", de: "Demonstrativ & Frage", ro: "Demonstrativ și întrebare" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Névmások összteszt", en: "Pronouns Comprehensive", de: "Pronomen Umfassend", ro: "Pronume cuprinzător" } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Visszaható + határozatlan", en: "Reflexive & Indefinite", de: "Reflexiv & Unbestimmt", ro: "Reflexiv & Nedefinit" } },
     ],
     svgX: 80, svgY: 440,
   },

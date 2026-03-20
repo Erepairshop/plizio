@@ -256,7 +256,7 @@ export const O2_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Spelling Island", hu: "Helyesírás Szigete", de: "Rechtschreib-Insel", ro: "Insula ortografiei" },
     icon: "✏️", color: "#00FF88", sortRange: [1, 10],
-    topicKeys: ["helyesiras/ly_j", "helyesiras/rovid_hosszu"],
+    topicKeys: ["helyesiras/ly_j", "helyesiras/rovid_hosszu", "helyesiras/maganhangzo_harmonia", "helyesiras/hosszu_massalhangzo"],
     missions: [
       { id: "m1", category: "explore",   gameType: "spell-race",    icon: "🪐", label: { hu: "Helyesírás verseny",  en: "Spelling Race",    de: "Rechtschreib-Rennen",   ro: "Cursă ortografie" } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -268,7 +268,7 @@ export const O2_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Grammar Island", hu: "Mondattan Szigete", de: "Grammatik-Insel", ro: "Insula gramaticii" },
     icon: "📝", color: "#FFD700", sortRange: [1, 10],
-    topicKeys: ["mondat/mondatfajtak", "mondat/mondatresz"],
+    topicKeys: ["mondat/mondatfajtak", "mondat/mondatresz", "mondat/szorend"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-builder", icon: "🪐", label: { hu: "Mondat építés",   en: "Build Sentences",  de: "Satz-Bau",              ro: "Construire propoziții" } },
       { id: "m2", category: "build",     gameType: "star-match",       icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },
@@ -280,7 +280,7 @@ export const O2_ISLANDS: IslandDef[] = [
     id: "i5",
     name: { en: "Compound Words Island", hu: "Szóösszetétel Szigete", de: "Zusammengesetzte Wörter-Insel", ro: "Insula compunerilor" },
     icon: "🔗", color: "#B44DFF", sortRange: [1, 10],
-    topicKeys: ["szo/osszetetel", "szo/kepzok"],
+    topicKeys: ["szo/osszetetel", "szo/kepzok", "szo/tobbesszam", "szo/kotojelek"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-sort",     icon: "🪐", label: { hu: "Szó rendezés",     en: "Word Sort",        de: "Wort-Sortierung",       ro: "Sortare cuvinte"  } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Csillag párosítás", en: "Star Match",       de: "Stern-Match",           ro: "Potrivire stele"  } },

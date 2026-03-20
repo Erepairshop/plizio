@@ -580,6 +580,418 @@ export const nyelvtan_mondatelemzes = (): CurriculumMCQ[] => {
   return questions;
 };
 
+// 20. ige/igemódok — Verb moods summary (indicative, conditional, imperative)
+export const ige_igemódok = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const moods = [
+    { mood: "kijelentő", example: "Játszom", meaning: "indicative" },
+    { mood: "feltételes", example: "Játszanék", meaning: "conditional" },
+    { mood: "felszólító", example: "Játssz!", meaning: "imperative" },
+  ];
+  const verbs = ["futni", "olvasni", "írni", "rajzolni"];
+
+  for (const mood of moods) {
+    questions.push(
+      createMCQ(
+        "ige",
+        "igemódok",
+        `Melyik az igeMÓD? "${mood.example}" - ___`,
+        mood.mood,
+        ["tárgyeset", "helyzet", "szóalak"]
+      )
+    );
+  }
+
+  // Additional mixed mood questions
+  questions.push(
+    createMCQ(
+      "ige",
+      "igemódok",
+      `Felszólító mód: "Kérlek, ___ meg!" (játszani)`,
+      "játssz",
+      ["játsz", "játszom", "játszanék"]
+    )
+  );
+  questions.push(
+    createMCQ(
+      "ige",
+      "igemódok",
+      `Feltételes mód: "Ha szép volna az idő, ___ játszani" (volna)`,
+      "volna",
+      ["van", "volt", "lesz"]
+    )
+  );
+
+  return questions;
+};
+
+// 21. ige/igeidők_összef — Verb tenses summary (present, past, future + conjugation)
+export const ige_igeidők_összef = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const tenses = [
+    { name: "jelen", form: "játszom", eng: "present" },
+    { name: "múlt", form: "játszottam", eng: "past" },
+    { name: "jövő", form: "játszani fogok", eng: "future" },
+  ];
+  const contexts = [
+    { sent: "Most ___ (játszani)", correct: "játszom", tense: "jelen" },
+    { sent: "Tegnap ___ (játszani)", correct: "játszottam", tense: "múlt" },
+    { sent: "Holnap ___ (játszani)", correct: "játszani fogok", tense: "jövő" },
+  ];
+
+  for (const ctx of contexts) {
+    const wrongs = tenses.filter((t) => t.name !== ctx.tense).map((t) => t.form);
+    questions.push(
+      createMCQ(
+        "ige",
+        "igeidők_összef",
+        ctx.sent,
+        ctx.correct,
+        wrongs
+      )
+    );
+  }
+
+  // Additional conjugation + tense questions
+  questions.push(
+    createMCQ(
+      "ige",
+      "igeidők_összef",
+      `Jelen idő, 2. személy: "Te ___" (olvasni)`,
+      "olvasol",
+      ["olvasod", "olvasunk", "olvastál"]
+    )
+  );
+  questions.push(
+    createMCQ(
+      "ige",
+      "igeidők_összef",
+      `Múlt idő, 3. személy: "Ő ___ írni"`,
+      "írt",
+      ["írni fog", "ír", "írna"]
+    )
+  );
+
+  return questions;
+};
+
+// 22. nevmas/visszaható — Reflexive pronouns (magam, magad, maga)
+export const nevmas_visszaható = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const reflexives = [
+    { pron: "magam", person: "én", meaning: "myself" },
+    { pron: "magad", person: "te", meaning: "yourself" },
+    { pron: "maga", person: "ő", meaning: "himself/herself" },
+    { pron: "magunk", person: "mi", meaning: "ourselves" },
+    { pron: "magatuk", person: "ti", meaning: "yourselves" },
+    { pron: "magukat", person: "ők", meaning: "themselves" },
+  ];
+
+  for (const refl of reflexives) {
+    questions.push(
+      createMCQ(
+        "nevmas",
+        "visszaható",
+        `"${refl.person}" - visszaható névmás: ___`,
+        refl.pron,
+        reflexives.filter((r) => r.person !== refl.person).map((r) => r.pron).slice(0, 3)
+      )
+    );
+  }
+
+  // Sentence context questions
+  questions.push(
+    createMCQ(
+      "nevmas",
+      "visszaható",
+      `Helyes: "Én ___ játszom" (magam)`,
+      "magammal",
+      ["magamnak", "magam", "magunkal"]
+    )
+  );
+
+  return questions;
+};
+
+// 23. nevmas/határozatlan — Indefinite pronouns (valaki, valami, néhány)
+export const nevmas_határozatlan = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const indefinites = [
+    { pron: "valaki", meaning: "someone" },
+    { pron: "valami", meaning: "something" },
+    { pron: "néhány", meaning: "some/few" },
+    { pron: "sok", meaning: "many" },
+    { pron: "minden", meaning: "all/every" },
+  ];
+
+  const contexts = [
+    { sent: "A szobában ___ van", correct: "valaki", type: "person" },
+    { sent: "Az asztalon ___ van", correct: "valami", type: "thing" },
+    { sent: "Van ___ könyvem", correct: "néhány", type: "quantity" },
+  ];
+
+  for (const ctx of contexts) {
+    const wrongs = indefinites.filter((i) => i.pron !== ctx.correct).map((i) => i.pron);
+    questions.push(
+      createMCQ(
+        "nevmas",
+        "határozatlan",
+        ctx.sent,
+        ctx.correct,
+        wrongs.slice(0, 3)
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "nevmas",
+      "határozatlan",
+      `"___ kutya szalad az utcán" (határozatlan)`,
+      "egy",
+      ["az", "az egyik", "milyen"]
+    )
+  );
+
+  return questions;
+};
+
+// 24. hatarozo/cel — Purpose adverbial (why? for what purpose?)
+export const hatarozo_cel = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const purposes = [
+    { sent: "Az iskolába ___ megy", correct: "tanulni", purpose: "to study" },
+    { sent: "A boltba ___ megy", correct: "sütni való lisztet venni", purpose: "to buy flour" },
+    { sent: "Futok ___ erősödni", correct: "azért hogy", purpose: "in order to get strong" },
+    { sent: "Olvasok ___ ismereteket szerezni", correct: "azért hogy", purpose: "to gain knowledge" },
+  ];
+
+  for (const p of purposes) {
+    questions.push(
+      createMCQ(
+        "hatarozo",
+        "cel",
+        p.sent,
+        p.correct,
+        ["mert", "ha", "amikor"]
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "hatarozo",
+      "cel",
+      `Célhatározó: "Miért megy a parkba?" - "___"`,
+      "pihenni",
+      ["pihennie", "pihen", "pihenés"]
+    )
+  );
+
+  return questions;
+};
+
+// 25. hatarozo/ok — Cause adverbial (why? for what reason?)
+export const hatarozo_ok = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const causes = [
+    { sent: "___ siettem, mert késő volt", correct: "ezért", reason: "because" },
+    { sent: "___ nem jött el, mert beteg volt", correct: "nem", reason: "because ill" },
+    { sent: "___ játszunk, ___ szép az idő", correct: "mert", reason: "because nice weather" },
+    { sent: "___ otthon maradtam, ___ fájt a fejem", correct: "mert", reason: "because headache" },
+  ];
+
+  for (const c of causes) {
+    questions.push(
+      createMCQ(
+        "hatarozo",
+        "ok",
+        c.sent,
+        c.correct,
+        ["ha", "amikor", "amit"]
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "hatarozo",
+      "ok",
+      `Okhatározó: "Miért nem jöttél?" - "___"`,
+      "mert beteg voltam",
+      ["ha beteg vagyok", "amikor beteg voltam", "amit tudok"]
+    )
+  );
+
+  return questions;
+};
+
+// 26. szoalkot/igekötő_haladó — Advanced verb particles (össze-, szét-, félre-, hozzá-)
+export const szoalkot_igekötő_haladó = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const particles = [
+    { part: "össze-", meaning: "together", ex: "összejátszani" },
+    { part: "szét-", meaning: "apart", ex: "szétszakadni" },
+    { part: "félre-", meaning: "wrongly", ex: "félreérteni" },
+    { part: "hozzá-", meaning: "to/toward", ex: "hozzáadni" },
+    { part: "le-", meaning: "down", ex: "leírni" },
+    { part: "fel-", meaning: "up", ex: "felolvasni" },
+  ];
+
+  for (const p of particles) {
+    questions.push(
+      createMCQ(
+        "szoalkot",
+        "igekötő_haladó",
+        `Igekötő: "${p.ex}" - a kötő rész: ___`,
+        p.part,
+        particles.filter((x) => x.part !== p.part).map((x) => x.part).slice(0, 3)
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "szoalkot",
+      "igekötő_haladó",
+      `"A gyerek ___ játszott" (össze-, szét-, félre-)`,
+      "össze",
+      ["szét", "félre", "hozzá"]
+    )
+  );
+
+  return questions;
+};
+
+// 27. helyesiras/vesszőhasználat — Comma usage in complex sentences
+export const helyesiras_vesszőhasználat = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const commaRules = [
+    { sent: "Péter és János játszik", correct: "Péter és János játszik", hasComma: false },
+    { sent: "Ha szép az idő játszunk", correct: "Ha szép az idő, játszunk", hasComma: true },
+    { sent: "Tudom hogy szeretsz olvasni", correct: "Tudom, hogy szeretsz olvasni", hasComma: true },
+    { sent: "A parkban játsz mivel szeretem", correct: "A parkban játszol, mivel szeretlek", hasComma: true },
+  ];
+
+  for (const rule of commaRules) {
+    questions.push(
+      createMCQ(
+        "helyesiras",
+        "vesszőhasználat",
+        `Helyesen: "${rule.sent}" → ___`,
+        rule.correct,
+        [
+          rule.sent,
+          rule.sent.replace(", ", ""),
+          rule.sent + ",",
+        ]
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "helyesiras",
+      "vesszőhasználat",
+      `Vesszőhasználat: "Amikor sötét lesz ___ hazamegyek"`,
+      ", ",
+      ["- ", "; ", "~ "]
+    )
+  );
+
+  return questions;
+};
+
+// 28. fogalmazas/napló — Diary writing (personal, continuous)
+export const fogalmazas_napló = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const diaryStructures = [
+    { part: "dátum", example: "2024. március 15.", meaning: "date" },
+    { part: "üdvözlés", example: "Kedves napló!", meaning: "greeting" },
+    { part: "történet", example: "Ma iskolába mentem...", meaning: "story" },
+    { part: "érzelmek", example: "Nagyon szomorú vagyok.", meaning: "feelings" },
+  ];
+
+  for (const ds of diaryStructures) {
+    questions.push(
+      createMCQ(
+        "fogalmazas",
+        "napló",
+        `Naplóírás része: "${ds.example}" - ___`,
+        ds.part,
+        ["bevezetés", "zárlat", "aláírás"]
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "fogalmazas",
+      "napló",
+      `Naplóírásban az első mondat lehet:`,
+      "Kedves napló!",
+      ["Szép napot!", "Halló!", "Jó reggelt!"]
+    )
+  );
+
+  questions.push(
+    createMCQ(
+      "fogalmazas",
+      "napló",
+      `A napló tipikus stílusa:`,
+      "személyes és érzelmi",
+      ["hivatalos és formális", "szórakoztató és vicces", "tudományos és pontos"]
+    )
+  );
+
+  return questions;
+};
+
+// 29. nyelvtan/szószerkezet — Syntactic structures (subject, object, adverbial, attribute)
+export const nyelvtan_szószerkezet = (): CurriculumMCQ[] => {
+  const questions: CurriculumMCQ[] = [];
+  const structures = [
+    { type: "alanyi", ex: "A gyerek fut", part: "A gyerek" },
+    { type: "tárgyas", ex: "Péter levelet ír", part: "levelet" },
+    { type: "határozós", ex: "Szalad az utcán", part: "az utcán" },
+    { type: "jelzős", ex: "Piros ceruza", part: "Piros" },
+  ];
+
+  for (const s of structures) {
+    questions.push(
+      createMCQ(
+        "nyelvtan",
+        "szószerkezet",
+        `Mondat: "${s.ex}" - ${s.type}: ___`,
+        s.part,
+        structures.filter((x) => x.type !== s.type).map((x) => x.part).slice(0, 3)
+      )
+    );
+  }
+
+  questions.push(
+    createMCQ(
+      "nyelvtan",
+      "szószerkezet",
+      `"Gyorsan futunk az iskolába" - mely szószerkezet:`,
+      "határozó",
+      ["alany", "tárgy", "jelzet"]
+    )
+  );
+
+  questions.push(
+    createMCQ(
+      "nyelvtan",
+      "szószerkezet",
+      `"Az okos gyerek tisztán beszél" - a jelzet:`,
+      "okos",
+      ["gyerek", "tisztán", "az"]
+    )
+  );
+
+  return questions;
+};
+
 // ─── EXPORT GENERATOR MAP ──────────────────────────────────────────────────
 export const G4_Generators_Hungarian = {
   alanyi,
@@ -601,6 +1013,16 @@ export const G4_Generators_Hungarian = {
   fogalmazas_level,
   nyelvtan_szoelem,
   nyelvtan_mondatelemzes,
+  ige_igemódok,
+  ige_igeidők_összef,
+  nevmas_visszaható,
+  nevmas_határozatlan,
+  hatarozo_cel,
+  hatarozo_ok,
+  szoalkot_igekötő_haladó,
+  helyesiras_vesszőhasználat,
+  fogalmazas_napló,
+  nyelvtan_szószerkezet,
 };
 
 // Correcting the first function name
