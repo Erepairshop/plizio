@@ -176,7 +176,7 @@ export const C6P3_Generators = {
     questions.push(createTyping(topic, subtopic, "Poziția subiectului în propoziție:", "de obicei la început"));
     questions.push(createTyping(topic, subtopic, "Subiectul exprimă:", "actantul principal al acțiunii"));
     questions.push(createTyping(topic, subtopic, "Ce tip sunt verbele la subiect plural?", "forma de plural"));
-    questions.push(createTyping(topic, subtopic, "Esenţialul pentru subiect:", "acord cu verbul"));
+    questions.push(createTyping(topic, subtopic, "Esențialul pentru subiect:", "acord cu verbul"));
 
     return shuffle(questions, rng);
   },
@@ -251,7 +251,7 @@ export const C6P3_Generators = {
     questions.push(createTyping(topic, subtopic, "Exemplu cu 'a deveni':", "el a devenit doctor"));
     questions.push(createTyping(topic, subtopic, "Exemplu cu 'a rămâne':", "el rămâne curios"));
     questions.push(createTyping(topic, subtopic, "Exemplu cu 'a părea':", "el pare obosit"));
-    questions.push(createTyping(topic, subtopic, "Diferența viral și nominal:", "verbal=verb activ, nominal=stare"));
+    questions.push(createTyping(topic, subtopic, "Diferența verbal și nominal:", "verbal=verb activ, nominal=stare"));
     questions.push(createTyping(topic, subtopic, "Predicatul nominal exprimă:", "stare, calitate, identitate"));
     questions.push(createTyping(topic, subtopic, "Copula se acordă cu:", "subiectul"));
     questions.push(createTyping(topic, subtopic, "Atributul se acordă cu:", "subiectul (gen, număr)"));
