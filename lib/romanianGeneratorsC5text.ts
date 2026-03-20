@@ -1,4 +1,4 @@
-// ─── ROMANIAN GENERATORS (CLASA a V-a) — PRODUCERE DE TEXT ───────────────────
+// ─── ROMANIAN GENERATORS (CLASA a V-a) — TEXT ───────────────────────────────
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
 
 function mulberry32(seed: number) {
@@ -19,6 +19,9 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
 }
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: correct };
+}
 
 // ─── 1. GENURI LITERARE ───────────────────────────────────────────────────────
 
@@ -27,7 +30,7 @@ export function gen_genuri_literare_c5(seed: number): CurriculumQuestion[] {
   const T = "text_c5";
   const S = "genuri_literare_c5";
 
-  const questions: CurriculumMCQ[] = [
+  const questions: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Câte genuri literare există în literatura română?",
       "Trei: epic, liric și dramatic",
@@ -69,6 +72,42 @@ export function gen_genuri_literare_c5(seed: number): CurriculumQuestion[] {
       "Autorul este persoana reală care scrie opera, iar naratorul este vocea care povestește în text",
       ["Autorul și naratorul sunt întotdeauna același personaj", "Naratorul este personajul principal, autorul este secundar", "Autorul apare doar în texte dramatice, naratorul doar în texte lirice"],
       rng),
+
+    createTyping(T, S,
+      "Câte genuri literare principale există?",
+      "trei"),
+
+    createTyping(T, S,
+      "Care sunt cele trei genuri literare?",
+      "epic"),
+
+    createTyping(T, S,
+      "Ce genul exprimă sentimente directe?",
+      "liric"),
+
+    createTyping(T, S,
+      "Ce genul prezintă acțiuni cu personaje?",
+      "epic"),
+
+    createTyping(T, S,
+      "Ce genul se joacă pe scenă?",
+      "dramatic"),
+
+    createTyping(T, S,
+      "Cum se numește vocea care povestește într-o operă literară?",
+      "narator"),
+
+    createTyping(T, S,
+      "Cum se numește vocea care exprimă sentimente în poezie?",
+      "liric"),
+
+    createTyping(T, S,
+      "Care este autorul unei opere?",
+      "scriitor"),
+
+    createTyping(T, S,
+      "Ce rol are naratorul în epică?",
+      "povestire"),
   ];
 
   return shuffle(questions, rng);
@@ -81,7 +120,7 @@ export function gen_specii_literare_c5(seed: number): CurriculumQuestion[] {
   const T = "text_c5";
   const S = "specii_literare_c5";
 
-  const questions: CurriculumMCQ[] = [
+  const questions: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Fabula este o specie literară care:",
       "prezintă animale personificate și transmite o morală",
@@ -123,6 +162,42 @@ export function gen_specii_literare_c5(seed: number): CurriculumQuestion[] {
       "liric, specifică folclorului românesc, care exprimă dorul, jalea sau dragostea",
       ["epic, care povestește faptele unui erou", "dramatic, jucată pe scenă", "epic, cu personaje fantastice"],
       rng),
+
+    createTyping(T, S,
+      "Ce specie prezintă animale cu o morală?",
+      "fabula"),
+
+    createTyping(T, S,
+      "Ce specie prezintă întâmplări fantastice?",
+      "basm"),
+
+    createTyping(T, S,
+      "Ce specie descrie natura?",
+      "pastel"),
+
+    createTyping(T, S,
+      "Ce specie dramă stîrnește râsul?",
+      "comedie"),
+
+    createTyping(T, S,
+      "Ce specie epic are puține personaje?",
+      "schiță"),
+
+    createTyping(T, S,
+      "Ce specie explică origini fantastice?",
+      "legendă"),
+
+    createTyping(T, S,
+      "Ce specie lirică exprimă dorul?",
+      "doina"),
+
+    createTyping(T, S,
+      "Care sunt speciile principale ale epicii?",
+      "epic"),
+
+    createTyping(T, S,
+      "Cum se numesc speciile literare mici?",
+      "specie"),
   ];
 
   return shuffle(questions, rng);
@@ -135,7 +210,7 @@ export function gen_moduri_expunere_c5(seed: number): CurriculumQuestion[] {
   const T = "text_c5";
   const S = "moduri_expunere_c5";
 
-  const questions: CurriculumMCQ[] = [
+  const questions: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Narațiunea ca mod de expunere:",
       "prezintă o înlănțuire de acțiuni și evenimente în timp",
@@ -171,6 +246,46 @@ export function gen_moduri_expunere_c5(seed: number): CurriculumQuestion[] {
       "Linia de dialog (liniuța de dialog)",
       ["Ghilimelele", "Parantezele", "Punctele de suspensie"],
       rng),
+
+    createTyping(T, S,
+      "Ce mod prezintă acțiuni în lănț?",
+      "narațiune"),
+
+    createTyping(T, S,
+      "Ce mod prezintă aspectele unui loc?",
+      "descriere"),
+
+    createTyping(T, S,
+      "Ce mod reproduce vorbele personajelor?",
+      "dialog"),
+
+    createTyping(T, S,
+      "Ce mod prezintă vorbirea unui singur personaj?",
+      "monolog"),
+
+    createTyping(T, S,
+      "Cu ce se realizeaza portretul fizic?",
+      "descriere"),
+
+    createTyping(T, S,
+      "Ce marchez replicile în dialog?",
+      "liniuță"),
+
+    createTyping(T, S,
+      "Câte moduri principale de expunere sunt?",
+      "cinci"),
+
+    createTyping(T, S,
+      "Ce descriu modul narațiune?",
+      "acțiuni"),
+
+    createTyping(T, S,
+      "Ce descriu descrierea în text?",
+      "aspecte"),
+
+    createTyping(T, S,
+      "Cum se numesc vorbele în dialog?",
+      "replici"),
   ];
 
   return shuffle(questions, rng);
@@ -183,7 +298,7 @@ export function gen_personaje_caracterizare_c5(seed: number): CurriculumQuestion
   const T = "text_c5";
   const S = "personaje_caracterizare_c5";
 
-  const questions: CurriculumMCQ[] = [
+  const questions: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Caracterizarea indirectă a unui personaj se realizează prin:",
       "faptele, vorbele și gândurile personajului",
@@ -225,6 +340,42 @@ export function gen_personaje_caracterizare_c5(seed: number): CurriculumQuestion
       "Personaj pozitiv (protagonist)",
       ["Personaj secundar", "Personaj negativ (antagonist)", "Personaj episodic"],
       rng),
+
+    createTyping(T, S,
+      "Cum se realizează caracterizarea indirectă?",
+      "fapte"),
+
+    createTyping(T, S,
+      "Cum se realizează caracterizarea directă?",
+      "descriere"),
+
+    createTyping(T, S,
+      "Ce înseamnă trăsăturile fizice?",
+      "înfățișare"),
+
+    createTyping(T, S,
+      "Ce sunt trăsăturile morale?",
+      "caracter"),
+
+    createTyping(T, S,
+      "Cum se numește personajul principal?",
+      "protagonist"),
+
+    createTyping(T, S,
+      "Cum se numește personajul negativ?",
+      "antagonist"),
+
+    createTyping(T, S,
+      "Ce sunt personajele secundare?",
+      "ajutoare"),
+
+    createTyping(T, S,
+      "Ce sunt portretele fizice?",
+      "descriere"),
+
+    createTyping(T, S,
+      "Cum se definesc personajele?",
+      "caracterizare"),
   ];
 
   return shuffle(questions, rng);
@@ -237,7 +388,7 @@ export function gen_texte_nonliterare_c5(seed: number): CurriculumQuestion[] {
   const T = "text_c5";
   const S = "texte_nonliterare_c5";
 
-  const questions: CurriculumMCQ[] = [
+  const questions: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Textul nonliterar se deosebește de cel literar prin:",
       "limbaj obiectiv și informații verificabile",
@@ -273,6 +424,46 @@ export function gen_texte_nonliterare_c5(seed: number): CurriculumQuestion[] {
       "explică pașii necesari pentru folosirea corectă a unui obiect sau produs",
       ["prezintă opinia autorului despre un produs", "narează modul în care a fost fabricat un produs", "descriu frumusețea estetică a unui obiect"],
       rng),
+
+    createTyping(T, S,
+      "Ce text informează despre o noutate?",
+      "știre"),
+
+    createTyping(T, S,
+      "Ce text convinge să cumperi ceva?",
+      "reclamă"),
+
+    createTyping(T, S,
+      "Ce text transmite scurt informații?",
+      "anunț"),
+
+    createTyping(T, S,
+      "Ce text face interviuri?",
+      "interviu"),
+
+    createTyping(T, S,
+      "Ce text explică cum să folosești?",
+      "instrucțiuni"),
+
+    createTyping(T, S,
+      "Ce limbaj au textele nonliterare?",
+      "obiectiv"),
+
+    createTyping(T, S,
+      "Care sunt scopurile textelor nonliterare?",
+      "informare"),
+
+    createTyping(T, S,
+      "Ce specie de text este o reclama?",
+      "nonliterar"),
+
+    createTyping(T, S,
+      "Ce are textul nonliterar?",
+      "informații"),
+
+    createTyping(T, S,
+      "Cum sunt textele nonliterare?",
+      "obiective"),
   ];
 
   return shuffle(questions, rng);

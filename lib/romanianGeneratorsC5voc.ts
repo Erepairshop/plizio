@@ -19,6 +19,9 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
 }
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: correct };
+}
 
 // ─── 1. POLISEMIA ─────────────────────────────────────────────────────────────
 
@@ -26,7 +29,7 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const topic = "vocabular_c5";
   const subtopic = "polisemia_c5";
-  const questions: CurriculumMCQ[] = [];
+  const questions: CurriculumQuestion[] = [];
 
   // Q1 — definiție polisemie
   questions.push(createMCQ(topic, subtopic,
@@ -84,6 +87,30 @@ function gen_polisemia_c5(seed: number): CurriculumQuestion[] {
     rng
   ));
 
+  questions.push(createTyping(topic, subtopic,
+    "Ce sunt cuvintele polisemantice?",
+    "cuvinte"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Câte sensuri are un cuvânt polisemantic?",
+    "mai"));
+
+  questions.push(createTyping(topic, subtopic,
+    "De ce tip este polisemia?",
+    "semantic"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce înseamnă polisemia?",
+    "mai"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Cum sunt sensurile polisemiei?",
+    "legate"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de cuvânt polisemantic?",
+    "bancă"));
+
   return shuffle(questions, rng);
 }
 
@@ -93,7 +120,7 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const topic = "vocabular_c5";
   const subtopic = "omonimia_c5";
-  const questions: CurriculumMCQ[] = [];
+  const questions: CurriculumQuestion[] = [];
 
   // Q1 — definiție omonime
   questions.push(createMCQ(topic, subtopic,
@@ -143,6 +170,30 @@ function gen_omonimia_c5(seed: number): CurriculumQuestion[] {
     rng
   ));
 
+  questions.push(createTyping(topic, subtopic,
+    "Ce sunt omonimele?",
+    "cuvinte"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Cum sunt omonimele?",
+    "identice"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce au omonimele diferit?",
+    "sens"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce au omonimele diferit?",
+    "origine"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de omonim?",
+    "leu"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce diferențiază omonimele?",
+    "sens"));
+
   return shuffle(questions, rng);
 }
 
@@ -152,7 +203,7 @@ function gen_paronimia_c5(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const topic = "vocabular_c5";
   const subtopic = "paronimia_c5";
-  const questions: CurriculumMCQ[] = [];
+  const questions: CurriculumQuestion[] = [];
 
   // Q1 — definiție paronime
   questions.push(createMCQ(topic, subtopic,
@@ -202,6 +253,30 @@ function gen_paronimia_c5(seed: number): CurriculumQuestion[] {
     rng
   ));
 
+  questions.push(createTyping(topic, subtopic,
+    "Ce sunt paronimele?",
+    "cuvinte"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Cum sunt paronimele?",
+    "asemănătoare"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce au paronimele diferit?",
+    "sens"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Cum se aseamănă paronimele?",
+    "formă"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de paronime?",
+    "original"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce confund paronimele?",
+    "sens"));
+
   return shuffle(questions, rng);
 }
 
@@ -211,7 +286,7 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const topic = "vocabular_c5";
   const subtopic = "locutiuni_c5";
-  const questions: CurriculumMCQ[] = [];
+  const questions: CurriculumQuestion[] = [];
 
   // Q1 — definiție locuțiune
   questions.push(createMCQ(topic, subtopic,
@@ -269,6 +344,30 @@ function gen_locutiuni_c5(seed: number): CurriculumQuestion[] {
     rng
   ));
 
+  questions.push(createTyping(topic, subtopic,
+    "Ce este o locuțiune?",
+    "grup"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Cum sunt locuțiunile?",
+    "stabile"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce sens au locuțiunile?",
+    "unitar"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de locuțiune verbală?",
+    "a"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de locuțiune substantivală?",
+    "bun"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de locuțiune adverbială?",
+    "imediat"));
+
   return shuffle(questions, rng);
 }
 
@@ -278,7 +377,7 @@ function gen_argou_regional_c5(seed: number): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const topic = "vocabular_c5";
   const subtopic = "argou_regional_c5";
-  const questions: CurriculumMCQ[] = [];
+  const questions: CurriculumQuestion[] = [];
 
   // Q1 — argou definiție
   questions.push(createMCQ(topic, subtopic,
@@ -327,6 +426,30 @@ function gen_argou_regional_c5(seed: number): CurriculumQuestion[] {
     ["arhaism", "neologism", "cuvânt argotic"],
     rng
   ));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce este argoul?",
+    "limbă"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Care sunt regionalismele?",
+    "cuvinte"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce sunt neologismele?",
+    "noi"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce sunt arhaismele?",
+    "vechi"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Ce limbaj este argoul?",
+    "informal"));
+
+  questions.push(createTyping(topic, subtopic,
+    "Exemplu de neologism?",
+    "selfie"));
 
   return shuffle(questions, rng);
 }

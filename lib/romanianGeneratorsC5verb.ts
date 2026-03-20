@@ -19,6 +19,9 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
 }
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: correct };
+}
 
 // ─── 1. MODURI NEPERSONALE ────────────────────────────────────────────────────
 
@@ -27,7 +30,7 @@ export function gen_moduri_nepersonale_c5(seed: number): CurriculumQuestion[] {
   const topic = "verb_c5";
   const subtopic = "moduri_nepersonale_c5";
 
-  const all: CurriculumMCQ[] = [
+  const all: CurriculumQuestion[] = [
     createMCQ(topic, subtopic,
       "Ce mod verbal nepersonal este „scriind”?",
       "gerunziu",
@@ -69,9 +72,41 @@ export function gen_moduri_nepersonale_c5(seed: number): CurriculumQuestion[] {
       "lucrând",
       ["lucrat", "a lucra", "de lucrat"],
       rng),
+
+    createTyping(topic, subtopic,
+      "Câte moduri nepersonale are verbul?",
+      "patru"),
+
+    createTyping(topic, subtopic,
+      "Ce mod nepersonal este „a merge”?",
+      "infinitiv"),
+
+    createTyping(topic, subtopic,
+      "Ce mod nepersonal este „scriind”?",
+      "gerunziu"),
+
+    createTyping(topic, subtopic,
+      "Ce mod nepersonal este „scris”?",
+      "participiu"),
+
+    createTyping(topic, subtopic,
+      "Ce mod nepersonal este „de scris”?",
+      "supin"),
+
+    createTyping(topic, subtopic,
+      "Cum se construiește infinitivul?",
+      "a"),
+
+    createTyping(topic, subtopic,
+      "Cum se construiește gerunziul?",
+      "și"),
+
+    createTyping(topic, subtopic,
+      "Cum se construiește supinul?",
+      "de"),
   ];
 
-  return shuffle(all, rng).slice(0, 7);
+  return shuffle(all, rng);
 }
 
 // ─── 2. PERFECTUL SIMPLU ─────────────────────────────────────────────────────
@@ -81,7 +116,7 @@ export function gen_perfectul_simplu_c5(seed: number): CurriculumQuestion[] {
   const topic = "verb_c5";
   const subtopic = "perfectul_simplu_c5";
 
-  const all: CurriculumMCQ[] = [
+  const all: CurriculumQuestion[] = [
     createMCQ(topic, subtopic,
       "Care este forma de perfect simplu a verbului „a merge” la persoana I singular?",
       "mersei",
@@ -117,9 +152,45 @@ export function gen_perfectul_simplu_c5(seed: number): CurriculumQuestion[] {
       "cântai",
       ["am cântat", "cântasem", "cântam"],
       rng),
+
+    createTyping(topic, subtopic,
+      "Unde se folosește perfectul simplu?",
+      "regional"),
+
+    createTyping(topic, subtopic,
+      "Ce exprimă perfectul simplu?",
+      "trecut"),
+
+    createTyping(topic, subtopic,
+      "Care este forma de perfect simplu a „a merge”?",
+      "mersei"),
+
+    createTyping(topic, subtopic,
+      "Care este forma de perfect simplu a „a veni”?",
+      "veniți"),
+
+    createTyping(topic, subtopic,
+      "Ce regiuni folosesc perfectul simplu?",
+      "Banat"),
+
+    createTyping(topic, subtopic,
+      "Cum se formează perfectul simplu?",
+      "sufix"),
+
+    createTyping(topic, subtopic,
+      "Ce timp este perfectul simplu?",
+      "trecut"),
+
+    createTyping(topic, subtopic,
+      "Cine folosește perfectul simplu?",
+      "regional"),
+
+    createTyping(topic, subtopic,
+      "Cum se pronunță perfectul simplu?",
+      "diferit"),
   ];
 
-  return shuffle(all, rng).slice(0, 6);
+  return shuffle(all, rng);
 }
 
 // ─── 3. MAI-MULT-CA-PERFECTUL ────────────────────────────────────────────────
@@ -129,7 +200,7 @@ export function gen_mai_mult_ca_perfect_c5(seed: number): CurriculumQuestion[] {
   const topic = "verb_c5";
   const subtopic = "mai_mult_ca_perfect_c5";
 
-  const all: CurriculumMCQ[] = [
+  const all: CurriculumQuestion[] = [
     createMCQ(topic, subtopic,
       "Care este forma de mai-mult-ca-perfect a verbului „a citi” la persoana I singular?",
       "citisem",
@@ -165,9 +236,45 @@ export function gen_mai_mult_ca_perfect_c5(seed: number): CurriculumQuestion[] {
       "făcuseși",
       ["ai făcut", "faci", "făceai"],
       rng),
+
+    createTyping(topic, subtopic,
+      "Ce exprimă mai-mult-ca-perfectul?",
+      "trecut"),
+
+    createTyping(topic, subtopic,
+      "Care este forma de mai-mult-ca-perfect a „a citi”?",
+      "citisem"),
+
+    createTyping(topic, subtopic,
+      "Cum se construiește mai-mult-ca-perfectul?",
+      "sufix"),
+
+    createTyping(topic, subtopic,
+      "Ce ordine de acțiuni exprimă mai-mult-ca-perfectul?",
+      "anterior"),
+
+    createTyping(topic, subtopic,
+      "Cum se pronunță mai-mult-ca-perfectul?",
+      "seseră"),
+
+    createTyping(topic, subtopic,
+      "Ce rol are mai-mult-ca-perfectul?",
+      "anterior"),
+
+    createTyping(topic, subtopic,
+      "Care este forma de mai-mult-ca-perfect a „a face”?",
+      "făcusem"),
+
+    createTyping(topic, subtopic,
+      "Cât timp durează mai-mult-ca-perfectul?",
+      "trecut"),
+
+    createTyping(topic, subtopic,
+      "Ce precede mai-mult-ca-perfectul?",
+      "acțiune"),
   ];
 
-  return shuffle(all, rng).slice(0, 6);
+  return shuffle(all, rng);
 }
 
 // ─── 4. ACORDUL PREDICATULUI CU SUBIECTUL ────────────────────────────────────
@@ -177,7 +284,7 @@ export function gen_acordul_predicat_c5(seed: number): CurriculumQuestion[] {
   const topic = "verb_c5";
   const subtopic = "acordul_predicat_c5";
 
-  const all: CurriculumMCQ[] = [
+  const all: CurriculumQuestion[] = [
     createMCQ(topic, subtopic,
       "Care este forma corectă a predicatului în „Grupul de elevi ___ la concurs.”?",
       "a participat",
@@ -213,9 +320,45 @@ export function gen_acordul_predicat_c5(seed: number): CurriculumQuestion[] {
       "predicat verbal",
       ["predicat nominal", "predicat adjectival", "predicat adverbial"],
       rng),
+
+    createTyping(topic, subtopic,
+      "Cu ce se acordă predicatul?",
+      "subiect"),
+
+    createTyping(topic, subtopic,
+      "Ce tip de predicat este nominal?",
+      "nominal"),
+
+    createTyping(topic, subtopic,
+      "Ce tip de predicat este verbal?",
+      "verbal"),
+
+    createTyping(topic, subtopic,
+      "Cum se numește acordul predicatului?",
+      "acord"),
+
+    createTyping(topic, subtopic,
+      "Ce trebuie să se acorde?",
+      "predicat"),
+
+    createTyping(topic, subtopic,
+      "Ce este predicatul?",
+      "verb"),
+
+    createTyping(topic, subtopic,
+      "Cum se acordă predicatul?",
+      "număr"),
+
+    createTyping(topic, subtopic,
+      "Ce exemplu de predicat nominal?",
+      "este"),
+
+    createTyping(topic, subtopic,
+      "Ce exemplu de predicat verbal?",
+      "aleargă"),
   ];
 
-  return shuffle(all, rng).slice(0, 6);
+  return shuffle(all, rng);
 }
 
 // ─── 5. COMPLEMENTUL CIRCUMSTANȚIAL ──────────────────────────────────────────
@@ -225,7 +368,7 @@ export function gen_complement_circumstantial_c5(seed: number): CurriculumQuesti
   const topic = "verb_c5";
   const subtopic = "complement_circumstantial_c5";
 
-  const all: CurriculumMCQ[] = [
+  const all: CurriculumQuestion[] = [
     createMCQ(topic, subtopic,
       "Ce tip de complement circumstanțial este „acasă” din „Merge acasă.”?",
       "complement circumstanțial de loc",
@@ -267,9 +410,41 @@ export function gen_complement_circumstantial_c5(seed: number): CurriculumQuesti
       "complement circumstanțial de scop",
       ["complement circumstanțial de cauză", "complement circumstanțial de mod", "complement direct"],
       rng),
+
+    createTyping(topic, subtopic,
+      "Cum se numesc complementele circumstanțiale?",
+      "circumstanțial"),
+
+    createTyping(topic, subtopic,
+      "Ce exprimă circumstanțialele?",
+      "timp"),
+
+    createTyping(topic, subtopic,
+      "La ce întrebare răspunde complement de loc?",
+      "unde"),
+
+    createTyping(topic, subtopic,
+      "La ce întrebare răspunde complement de timp?",
+      "când"),
+
+    createTyping(topic, subtopic,
+      "La ce întrebare răspunde complement de mod?",
+      "cum"),
+
+    createTyping(topic, subtopic,
+      "Ce exemplu de complement de loc?",
+      "acasă"),
+
+    createTyping(topic, subtopic,
+      "Ce exemplu de complement de timp?",
+      "ieri"),
+
+    createTyping(topic, subtopic,
+      "Ce exemplu de complement de mod?",
+      "frumos"),
   ];
 
-  return shuffle(all, rng).slice(0, 7);
+  return shuffle(all, rng);
 }
 
 // ─── EXPORT ───────────────────────────────────────────────────────────────────

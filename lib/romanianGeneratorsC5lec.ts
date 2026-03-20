@@ -19,6 +19,9 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
   const opts = shuffle([correct, ...unique.slice(0, 3)], rng);
   return { type: "mcq", topic, subtopic, question, options: opts, correct: opts.indexOf(correct) };
 }
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: correct };
+}
 
 // ─── 1. INTENȚIA AUTORULUI ─────────────────────────────────────────────────────
 
@@ -27,7 +30,7 @@ export function gen_intentie_autor_c5(seed: number = 42): CurriculumQuestion[] {
   const T = "lectura_c5";
   const S = "intentie_autor_c5";
 
-  const pool: CurriculumMCQ[] = [
+  const pool: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Dacă un text descrie un eveniment real, oferind date și informații precise, autorul intenționează:",
       "să informeze cititorul",
@@ -69,6 +72,42 @@ export function gen_intentie_autor_c5(seed: number = 42): CurriculumQuestion[] {
       "vocea poetului din interiorul poeziei, care exprimă sentimente și trăiri",
       ["personajul principal dintr-un roman", "naratorul unui text informativ", "autorul real al textului, care vorbește direct cititorului"],
       rng),
+
+    createTyping(T, S,
+      "Cum se numește persoana care scrie textul?",
+      "autor"),
+
+    createTyping(T, S,
+      "Cum se numește vocea care povestește la persoana I?",
+      "narator"),
+
+    createTyping(T, S,
+      "Ce exprimă eul liric?",
+      "sentimente"),
+
+    createTyping(T, S,
+      "Care este intențiile unui text artistic emoțional?",
+      "emoție"),
+
+    createTyping(T, S,
+      "Pe ce perspective este scris un text narativ?",
+      "persoana"),
+
+    createTyping(T, S,
+      "Ce rol are naratorul într-un text epic?",
+      "povestire"),
+
+    createTyping(T, S,
+      "Cum se exprimă sentimentele în textul liric?",
+      "direct"),
+
+    createTyping(T, S,
+      "Care este efectul unui text cu intenție convingătoare?",
+      "convingere"),
+
+    createTyping(T, S,
+      "Ce se numește text care aduce plăcere prin distracție?",
+      "distractiv"),
   ];
 
   return shuffle(pool, rng);
@@ -81,7 +120,7 @@ export function gen_argumente_c5(seed: number = 42): CurriculumQuestion[] {
   const T = "lectura_c5";
   const S = "argumente_c5";
 
-  const pool: CurriculumMCQ[] = [
+  const pool: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Ce rol are cuvântul „deoarece” într-un text argumentativ?",
       "introduce un argument (o cauză)",
@@ -117,6 +156,46 @@ export function gen_argumente_c5(seed: number = 42): CurriculumQuestion[] {
       "relevant, logic și susținut de dovezi sau exemple concrete",
       ["lung, complex și scris cu termeni tehnici", "bazat exclusiv pe emoțiile autorului", "contrar opiniei generale pentru a fi original"],
       rng),
+
+    createTyping(T, S,
+      "Care este afirmația pe care vrea s-o demonstreze autorul?",
+      "teză"),
+
+    createTyping(T, S,
+      "Ce se numește doveza care susține o teză?",
+      "argument"),
+
+    createTyping(T, S,
+      "Cum se numește ideia opusă unei teze?",
+      "contraargument"),
+
+    createTyping(T, S,
+      "Cu ce cuvânt se introduc cauze într-un text argumentativ?",
+      "deoarece"),
+
+    createTyping(T, S,
+      "Cum se numește afirmația finală a unui raționament argumentativ?",
+      "concluzie"),
+
+    createTyping(T, S,
+      "Ce trebuie să aibă un argument bun?",
+      "dovezi"),
+
+    createTyping(T, S,
+      "Cum se numește cuvântul care introduce o opinie opusă?",
+      "totuși"),
+
+    createTyping(T, S,
+      "Ce sprijin sunt necesare pentru argumentele valide?",
+      "exemple"),
+
+    createTyping(T, S,
+      "Ce rol are persuasiunea într-un text argumentativ?",
+      "convingere"),
+
+    createTyping(T, S,
+      "Cum se numește afirmația inițială a unui text argumentativ?",
+      "teză"),
   ];
 
   return shuffle(pool, rng);
@@ -129,7 +208,7 @@ export function gen_inferente_c5(seed: number = 42): CurriculumQuestion[] {
   const T = "lectura_c5";
   const S = "inferente_c5";
 
-  const pool: CurriculumMCQ[] = [
+  const pool: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Informațiile implicite dintr-un text sunt:",
       "informații care nu sunt spuse direct, dar pot fi deduse din context",
@@ -165,6 +244,46 @@ export function gen_inferente_c5(seed: number = 42): CurriculumQuestion[] {
       "folosească atât informațiile din text, cât și cunoștințele proprii",
       ["ignore detaliile mici și să se concentreze doar pe titlu", "citeze întotdeauna o propoziție exactă din text", "inventeze informații care lipsesc din text"],
       rng),
+
+    createTyping(T, S,
+      "Cum se numesc informațiile care sunt spuse în mod direct?",
+      "explicite"),
+
+    createTyping(T, S,
+      "Cum se numesc informațiile ascunse între rânduri?",
+      "implicite"),
+
+    createTyping(T, S,
+      "Ce înseamnă a deduce o informație din context?",
+      "inferență"),
+
+    createTyping(T, S,
+      "Cum se numește anticiparea continuării textului?",
+      "predicție"),
+
+    createTyping(T, S,
+      "Ce trebuie cititorul pentru a trage concluzii corecte?",
+      "context"),
+
+    createTyping(T, S,
+      "Cum interpretează cititorul informațiile implicite?",
+      "deducție"),
+
+    createTyping(T, S,
+      "Care este baza pentru a anticipa continuarea?",
+      "indici"),
+
+    createTyping(T, S,
+      "Ce folosesc cititorii pentru a face inferențe?",
+      "cunoștințe"),
+
+    createTyping(T, S,
+      "Cum se numește procesul de citire atent?",
+      "analiză"),
+
+    createTyping(T, S,
+      "Ce ajută cititorul să înțeleagă textul profund?",
+      "atenție"),
   ];
 
   return shuffle(pool, rng);
@@ -177,7 +296,7 @@ export function gen_timp_spatiu_c5(seed: number = 42): CurriculumQuestion[] {
   const T = "lectura_c5";
   const S = "timp_spatiu_c5";
 
-  const pool: CurriculumMCQ[] = [
+  const pool: CurriculumQuestion[] = [
     createMCQ(T, S,
       "Indicii temporale sunt cuvintele care:",
       "arată când se petrece acțiunea (ieri, acum, în trecut, dimineața)",
@@ -213,6 +332,46 @@ export function gen_timp_spatiu_c5(seed: number = 42): CurriculumQuestion[] {
       "„A doua zi” și „în zori”",
       ["„eroii” și „cetate”", "„au pornit” și „spre”", "„cetate” și „A doua zi”"],
       rng),
+
+    createTyping(T, S,
+      "Cum se numesc cuvintele care arată CÂND?",
+      "temporale"),
+
+    createTyping(T, S,
+      "Cum se numesc cuvintele care arată UNDE?",
+      "spațiale"),
+
+    createTyping(T, S,
+      "Ce indicii situează personajele în timp?",
+      "temporale"),
+
+    createTyping(T, S,
+      "Ce indicii situează acțiunea într-un loc?",
+      "spațiale"),
+
+    createTyping(T, S,
+      "Care sunt coordonatele unei narații?",
+      "spațiu"),
+
+    createTyping(T, S,
+      "La ce cuvinte răspund indiciile temporale?",
+      "când"),
+
+    createTyping(T, S,
+      "La ce cuvinte răspund indiciile spațiale?",
+      "unde"),
+
+    createTyping(T, S,
+      "Ce tip de indici sunt cuvintele \"ieri\", \"acum\"?",
+      "temporale"),
+
+    createTyping(T, S,
+      "Ce tip de indici sunt cuvintele \"acasă\", \"pădure\"?",
+      "spațiale"),
+
+    createTyping(T, S,
+      "Ce rol au coordonatele în textul narativ?",
+      "context"),
   ];
 
   return shuffle(pool, rng);

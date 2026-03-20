@@ -12,6 +12,13 @@ import { C4_Ort_Generators } from "./romanianGeneratorsC4ort";
 import { C4_Voc_Generators } from "./romanianGeneratorsC4voc";
 import { C4_Text_Generators } from "./romanianGeneratorsC4text";
 import { C4_Lec_Generators } from "./romanianGeneratorsC4lec";
+import { C5_Lec_Generators } from "./romanianGeneratorsC5lec";
+import { C5_Ort_Generators } from "./romanianGeneratorsC5ort";
+import { C5_Sint_Generators } from "./romanianGeneratorsC5sint";
+import { C5_Text_Generators } from "./romanianGeneratorsC5text";
+import { C5_Voc_Generators } from "./romanianGeneratorsC5voc";
+import { C5_Subst_Generators } from "./romanianGeneratorsC5subst";
+import { C5_Verb_Generators } from "./romanianGeneratorsC5verb";
 import { C6P1_Generators } from "./romanianGeneratorsC6p1";
 import { C6P2_Generators } from "./romanianGeneratorsC6p2";
 import { C6P3_Generators } from "./romanianGeneratorsC6p3";
@@ -652,6 +659,108 @@ const C4: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a V-a (Grade 5) ──────────────────────────────────────────────────
+
+const C5: RomanianTheme[] = [
+  {
+    id: "lectura_c5",
+    name: "Lectură și comprehensiune avansată",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "intentie_autor_c5", name: "Intenția autorului", questions: [] },
+      { id: "argumente_c5", name: "Argumente și dovezi", questions: [] },
+      { id: "inferente_c5", name: "Inferențe și concluzii", questions: [] },
+      { id: "timp_spatiu_c5", name: "Timp și spațiu în narațiune", questions: [] },
+    ],
+  },
+  {
+    id: "ortografie_c5",
+    name: "Ortografie avansată",
+    icon: "📐",
+    color: "#FFD700",
+    subtopics: [
+      { id: "a_i_c5", name: "A/I — distincția clară", questions: [] },
+      { id: "semne_diacritice_c5", name: "Semne diacritice corecte", questions: [] },
+      { id: "scrierea_compuselor_c5", name: "Scrierea cuvintelor compuse", questions: [] },
+      { id: "cratima_forme_c5", name: "Cratima și forme curte", questions: [] },
+    ],
+  },
+  {
+    id: "sintaxa_c5",
+    name: "Sintaxă — Relații în propoziție",
+    icon: "🔗",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "apostrof_atribut_c5", name: "Apoziția și atributul", questions: [] },
+      { id: "prop_subiectiva_c5", name: "Propoziții subiective", questions: [] },
+      { id: "coordonare_c5", name: "Coordonare între propoziții", questions: [] },
+      { id: "prop_circumstantiala_c5", name: "Propoziții circumstanțiale", questions: [] },
+    ],
+  },
+  {
+    id: "substantiv_c5",
+    name: "Substantivul și Pronumele",
+    icon: "🏷️",
+    color: "#FF9500",
+    subtopics: [
+      { id: "declinarea_c5", name: "Declinarea substantivului", questions: [] },
+      { id: "substantive_colective_c5", name: "Substantive colective", questions: [] },
+      { id: "genul_substantivelor_c5", name: "Genul substantivelor", questions: [] },
+    ],
+  },
+  {
+    id: "pronume_c5",
+    name: "Pronumele — Interogativ, Nehotărât, Relativ",
+    icon: "👤",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "pronume_interogativ_c5", name: "Pronume interogativ", questions: [] },
+      { id: "pronume_nehotarat_c5", name: "Pronume nehotărât", questions: [] },
+      { id: "pronume_relativ_c5", name: "Pronume relativ", questions: [] },
+    ],
+  },
+  {
+    id: "verb_c5",
+    name: "Verbul — Moduri, Timpuri și Acord",
+    icon: "⚡",
+    color: "#10B981",
+    subtopics: [
+      { id: "moduri_nepersonale_c5", name: "Moduri nepersonale (inf, gerunziu, part.)", questions: [] },
+      { id: "perfectul_simplu_c5", name: "Perfectul simplu", questions: [] },
+      { id: "mai_mult_ca_perfect_c5", name: "Mai mult ca perfectul", questions: [] },
+      { id: "acordul_predicat_c5", name: "Acordul predicatului", questions: [] },
+      { id: "complement_circumstantial_c5", name: "Complementul circumstanțial", questions: [] },
+    ],
+  },
+  {
+    id: "text_c5",
+    name: "Textul literar — Structură și formă",
+    icon: "✍️",
+    color: "#10B981",
+    subtopics: [
+      { id: "genuri_literare_c5", name: "Genuri literare principale", questions: [] },
+      { id: "specii_literare_c5", name: "Specii în fiecare gen", questions: [] },
+      { id: "moduri_expunere_c5", name: "Moduri de expunere", questions: [] },
+      { id: "personaje_caracterizare_c5", name: "Personaje și caracterizare", questions: [] },
+      { id: "texte_nonliterare_c5", name: "Texte nonliterare", questions: [] },
+    ],
+  },
+  {
+    id: "vocabular_c5",
+    name: "Vocabular — Relații între cuvinte",
+    icon: "🔤",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "polisemia_c5", name: "Polisemia", questions: [] },
+      { id: "omonimia_c5", name: "Omonimia", questions: [] },
+      { id: "paronimia_c5", name: "Paronimia", questions: [] },
+      { id: "locutiuni_c5", name: "Locuții și expresii", questions: [] },
+      { id: "argou_regional_c5", name: "Argou și cuvinte regionale", questions: [] },
+    ],
+  },
+];
+
 // ─── CLASA a VI-a (Grade 6) ──────────────────────────────────────────────────
 
 const C6: RomanianTheme[] = [
@@ -842,6 +951,7 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   2: C2,
   3: C3,
   4: C4,
+  5: C5,
   6: C6,
 };
 
@@ -915,11 +1025,23 @@ const C4_Generators: Record<string, Record<string, (seed?: number) => Curriculum
   ...C4_Lec_Generators,
 };
 
+// ─── MERGE C5 GENERATORS FROM 7 MODULES ─────────────────────────────────────
+const C5_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = {
+  ...C5_Lec_Generators,
+  ...C5_Ort_Generators,
+  ...C5_Sint_Generators,
+  ...C5_Text_Generators,
+  ...C5_Voc_Generators,
+  ...C5_Subst_Generators,
+  ...C5_Verb_Generators,
+};
+
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
   4: C4_Generators,
+  5: C5_Generators,
   6: C6_Generators,
 };
 
