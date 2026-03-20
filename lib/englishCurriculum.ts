@@ -4540,15 +4540,50 @@ export function getEnglishQuestions(
   return pool.slice(0, count);
 }
 
-// ─── US GRADING (A / B / C / D / F) ──────────────────────────────────────────
+// ─── ENGLISH GRADING — country-specific ──────────────────────────────────────
 
-export function calculateUSGrade(pct: number, _countryCode = "US"): TestGradeMark {
+export function calculateEnglishGrade(pct: number, countryCode = "US"): TestGradeMark {
+  // UK: GCSE 9–1 scale
+  if (countryCode === "GB") {
+    if (pct >= 95) return { note: "9", label: "Outstanding",      color: "#FFD700", emoji: "🌟" };
+    if (pct >= 87) return { note: "8", label: "Excellent",        color: "#FFD700", emoji: "🏆" };
+    if (pct >= 80) return { note: "7", label: "Very Good",        color: "#00FF88", emoji: "😊" };
+    if (pct >= 72) return { note: "6", label: "Good",             color: "#00FF88", emoji: "😊" };
+    if (pct >= 64) return { note: "5", label: "Strong Pass",      color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 56) return { note: "4", label: "Standard Pass",    color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 47) return { note: "3", label: "Below Expected",   color: "#FF6B00", emoji: "😅" };
+    if (pct >= 38) return { note: "2", label: "Poor",             color: "#FF6B00", emoji: "😅" };
+    return              { note: "1", label: "Very Poor",          color: "#FF4444", emoji: "😟" };
+  }
+  // AU: A–E scale
+  if (countryCode === "AU") {
+    if (pct >= 85) return { note: "A", label: "Excellent",        color: "#FFD700", emoji: "🌟" };
+    if (pct >= 70) return { note: "B", label: "Good",             color: "#00FF88", emoji: "😊" };
+    if (pct >= 55) return { note: "C", label: "Satisfactory",     color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 40) return { note: "D", label: "Limited",          color: "#FF6B00", emoji: "😅" };
+    return              { note: "E", label: "Very Limited",       color: "#FF4444", emoji: "😟" };
+  }
+  // CA: A+/A/B+/B/C+/C/D/F scale
+  if (countryCode === "CA") {
+    if (pct >= 95) return { note: "A+", label: "Outstanding",     color: "#FFD700", emoji: "🌟" };
+    if (pct >= 87) return { note: "A",  label: "Excellent",       color: "#FFD700", emoji: "🏆" };
+    if (pct >= 80) return { note: "B+", label: "Very Good",       color: "#00FF88", emoji: "😊" };
+    if (pct >= 73) return { note: "B",  label: "Good",            color: "#00FF88", emoji: "😊" };
+    if (pct >= 67) return { note: "C+", label: "Satisfactory",    color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 60) return { note: "C",  label: "Adequate",        color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 50) return { note: "D",  label: "Below Average",   color: "#FF6B00", emoji: "😅" };
+    return              { note: "F",  label: "Failing",           color: "#FF4444", emoji: "😟" };
+  }
+  // US (default): A/B/C/D/F
   if (pct >= 90) return { note: "A", label: "Excellent",          color: "#FFD700", emoji: "🌟" };
   if (pct >= 80) return { note: "B", label: "Good",               color: "#00FF88", emoji: "😊" };
   if (pct >= 70) return { note: "C", label: "Average",            color: "#00D4FF", emoji: "🙂" };
   if (pct >= 60) return { note: "D", label: "Below Average",      color: "#FF6B00", emoji: "😅" };
   return              { note: "F", label: "Needs Improvement",    color: "#FF4444", emoji: "😟" };
 }
+
+/** @deprecated use calculateEnglishGrade */
+export const calculateUSGrade = calculateEnglishGrade;
 
 // ─── SUBTOPIC HINTS (shown after wrong answer) ────────────────────────────────
 

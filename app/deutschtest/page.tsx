@@ -601,7 +601,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     const pools: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       const combined = [
-        ...config.getQuestions(g, [sid], 20),
+        ...config.getQuestions(g, [sid], 20, country),
         ...(config.generateForSubtopics ? config.generateForSubtopics([sid], 12) : []),
         ...buildVisualForSubtopic(g, sid, 6),
       ];
