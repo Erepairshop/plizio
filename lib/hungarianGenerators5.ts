@@ -945,14 +945,177 @@ export function generateSzoelemzesMelyi(seed?: number): CurriculumMCQ[] {
   return q;
 }
 
+// ─── TYPING GENERATORS (Open-ended questions) ─────────────────────────────────
+
+type CurriculumTyping = {
+  type: "typing";
+  topic: string;
+  subtopic: string;
+  question: string;
+  answer: string | string[];
+  hint?: string;
+};
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[],
+  hint?: string
+): CurriculumTyping {
+  return { type: "typing", topic, subtopic, question, answer, hint };
+}
+
+export function generateHangrendsz_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("hangtan", "hangrendsz", "Írd be a mély hangrendű magánhangzók közül egyet!", ["a", "á", "o", "ó", "u", "ú"], "pl. a, á, o, ó, u, ú"));
+    } else if (type === 1) {
+      q.push(createTyping("hangtan", "hangrendsz", "Melyik szóban van magasrendű magánhangzó? Írd be: szék vagy alma!", "szék", "A magas hangrendű szavak e/i/ö/ü hangokkal"));
+    } else {
+      q.push(createTyping("hangtan", "hangrendsz", "Mondj egy szót, amelyikben vegyes hangrendű magánhangzók vannak!", ["szalma", "szoknya", "ablak"], "Pl. szalma, szoknya, ablak"));
+    }
+  }
+  return q;
+}
+
+export function generateHasonulas_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("hangtan", "hasonulas", "Írd be az asszimiláció jelentését!", ["szomszédos hangok egymásra hatása"], "Szomszédos hangok hatása egymásra"));
+    } else {
+      q.push(createTyping("hangtan", "hasonulas", "Mondj egy szót hangtani hasonulással!", ["képző", "köznyelvű", "szívárványszín"], "Pl. képző, köznyelvű"));
+    }
+  }
+  return q;
+}
+
+export function generateToToldalek_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("szoelem", "to_toldalek", "Mi a 'házak' szó töve?", ["ház"], "A szó alapalakja (tőalak)"));
+    } else {
+      q.push(createTyping("szoelem", "to_toldalek", "Mi az 'olvasott' szó toldaléka?", ["-ott"], "Az igét módosító végződés"));
+    }
+  }
+  return q;
+}
+
+export function generateKepzoJelRag_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("szoelem", "kepzo_jel_rag", "Az '-es' végződés képző, jel vagy rag?", ["képző"], "A '-es' új szófajt hoz létre"));
+    } else {
+      q.push(createTyping("szoelem", "kepzo_jel_rag", "Mi a különbség képző és jel között?", ["képző szófajt hoz létre, jel számot fejez ki"], "Képző: szófaj; Jel: szám"));
+    }
+  }
+  return q;
+}
+
+export function generateIgenev_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("szofaj", "igenev", "Mi az 'futó' igenév típusa?", ["melléknévi"], "A 'futó' melléknévi igenév"));
+    } else if (type === 1) {
+      q.push(createTyping("szofaj", "igenev", "Írd be a főnévi igenevet: fut, futva, futó közül!", ["fut", "futni"], "A főnévi igenév -ni végződésű"));
+    } else {
+      q.push(createTyping("szofaj", "igenev", "Mit fejez ki a melléknévi igenév?", ["cselekvés során keletkezett tulajdonságot"], "Pl. futó gyerek = aki fut"));
+    }
+  }
+  return q;
+}
+
+export function generateIgeIgeidok_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("ige", "ige_igeidok", "Írd be az 'olvas' ige jelen idejű, 1. személyű alakját!", ["olvasok"], "jelen idő + 1. személyű végződés"));
+    } else if (type === 1) {
+      q.push(createTyping("ige", "ige_igeidok", "Mit fejez ki az igeidő?", ["a cselekvés időbeli helyzetét"], "Jelen, múlt, jövő"));
+    } else {
+      q.push(createTyping("ige", "ige_igeidok", "Mondj egy szót múlt időben: futni alapján!", ["futottam", "futottak"], "Pl. futottam (1. személy)"));
+    }
+  }
+  return q;
+}
+
+export function generateIgeIgemódok_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("ige", "ige_igemódok", "Mit fejez ki az igemód?", ["a cselekvés valósságtartalmát"], "Kijelentő, felszólító, feltételes"));
+    } else {
+      q.push(createTyping("ige", "ige_igemódok", "Mondj egy szót felszólító módban: futni alapján!", ["fuss"], "Felszólító parancs forma"));
+    }
+  }
+  return q;
+}
+
+export function generateSzoszerkezet_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("mondattan", "szoszerkezet", "Mi a fő szó a 'szép ház' szószerkezetben?", ["ház"], "A főnév a szószerkezet központja"));
+    } else {
+      q.push(createTyping("mondattan", "szoszerkezet", "Mondj egy szószerkezetet: melléknevek + főnév!", ["szép ház", "nagy ablak", "sötét erdő"], "Pl. szép ház, nagy ablak"));
+    }
+  }
+  return q;
+}
+
+export function generateVisszahatiNevmas_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("nevmas", "visszahato_nevmas", "Mit jelent a visszaható névmás?", ["az alanyra vonatkozik"], "Az alanyra vonatkozik (maga)"));
+    } else {
+      q.push(createTyping("nevmas", "visszahato_nevmas", "Írd be az 1. személy egyes szám visszaható névmást!", ["magam"], "Magam = én magam"));
+    }
+  }
+  return q;
+}
+
+export function generateHatarozoCelOk_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 10; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("hatarozo", "hatarozo_cel_ok", "Mit fejez ki a célhatározó?", ["a cselekvés célját"], "Az azért, hogy szerkezet"));
+    } else {
+      q.push(createTyping("hatarozo", "hatarozo_cel_ok", "Mondj egy mondatot okhatározóval!", ["tanulok, mert szeretlek tanulni"], "Pl. tanulok, mert/mivel..."));
+    }
+  }
+  return q;
+}
+
 // ─── EXPORTING ALL GENERATORS ───────────────────────────────────────────────
 
 export const G5_Generators_Hungarian = {
+  // MCQ generators
   hangrendsz: generateHangrendszer,
+  hangrendsz_typing: generateHangrendsz_typing,
   hasonulas: generateHasonulas,
+  hasonulas_typing: generateHasonulas_typing,
   to_toldalek: generateToToldalek,
+  to_toldalek_typing: generateToToldalek_typing,
   kepzo_jel_rag: generateKepzoJelRag,
+  kepzo_jel_rag_typing: generateKepzoJelRag_typing,
   igenev: generateIgenev,
+  igenev_typing: generateIgenev_typing,
   hatarozoSzo: generateHatarozoSzo,
   alany_allitmany: generateAlanyAllitmany,
   targy_hatarozo: generateTargyHatarozo,
@@ -963,13 +1126,18 @@ export const G5_Generators_Hungarian = {
   versformak: generateVersformak,
   stiluseszk: generateStiluseszk,
   ige_igeidok: generateIgeIgeidok,
+  ige_igeidok_typing: generateIgeIgeidok_typing,
   ige_igemódok: generateIgeIgemódok,
+  ige_igemódok_typing: generateIgeIgemódok_typing,
   igeneves_szerkezetek: generateIgeneves,
   mondatfajtak: generateMondatfajtak,
   igekoto: generateIgekoto,
   helyesiras_vesszö: generateHelyesIrasVesszo,
   szoszerkezet: generateSzoszerkezet,
+  szoszerkezet_typing: generateSzoszerkezet_typing,
   visszahato_nevmas: generateVisszahatiNevmas,
+  visszahato_nevmas_typing: generateVisszahatiNevmas_typing,
   hatarozo_cel_ok: generateHatarozoCelOk,
+  hatarozo_cel_ok_typing: generateHatarozoCelOk_typing,
   szoelemzés_melyi: generateSzoelemzesMelyi,
 };
