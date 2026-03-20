@@ -708,15 +708,16 @@ export const C6P2_Generators = {
     const subtopic = "conjunctie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — dynamic wrong options from CONJ_TIP_POOL
     for (let i = 0; i < 30; i++) {
       const item = pick(CONJUNCTII, rng);
+      const wrongPool = shuffle(CONJ_TIP_POOL.filter(t => t !== item.tip), rng);
       const q = createMCQ(
         topic,
         subtopic,
-        `Conjuncția "${item.conj}" este:`,
+        `Conjuncția "${item.conj}" din "${item.exemplu}" este:`,
         item.tip,
-        ["interjector", "pronume relativ", "articol"].filter(x => x !== item.tip),
+        wrongPool.slice(0, 3),
         rng
       );
       questions.push(q);
@@ -749,15 +750,16 @@ export const C6P2_Generators = {
     const subtopic = "interjectie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — dynamic wrong options from INTERJ_TIP_POOL
     for (let i = 0; i < 30; i++) {
       const item = pick(INTERJECTII, rng);
+      const wrongPool = shuffle(INTERJ_TIP_POOL.filter(t => t !== item.tip), rng);
       const q = createMCQ(
         topic,
         subtopic,
-        `Interjecția "${item.interj}" exprimă:`,
+        `Interjecția "${item.interj}" din "${item.exemplu}" exprimă:`,
         item.tip,
-        ["negație", "condiție", "comparație"].filter(x => x !== item.tip),
+        wrongPool.slice(0, 3),
         rng
       );
       questions.push(q);
