@@ -11,6 +11,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  labels?: { der: string; die: string; das: string };
 }
 
 const ARTIKEL_STYLES: Record<"der" | "die" | "das", { base: string; selected: string; correct: string }> = {
@@ -33,8 +34,9 @@ const ARTIKEL_STYLES: Record<"der" | "die" | "das", { base: string; selected: st
 
 const LABELS = ["der", "die", "das"] as const;
 
-export default function GenusSortierung({ word, correct, userAnswer, submitted, onAnswer }: Props) {
+export default function GenusSortierung({ word, correct, userAnswer, submitted, onAnswer, labels }: Props) {
   const isCorrect = userAnswer === correct;
+  const displayLabel = (key: "der" | "die" | "das") => labels ? labels[key] : key;
 
   return (
     <div>
@@ -43,7 +45,7 @@ export default function GenusSortierung({ word, correct, userAnswer, submitted, 
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
         {/* Blank + word — mimics "_____ Kuchen" worksheet style */}
         <span className="font-bold text-sm text-slate-800 mr-1">{word}</span>
-        <span className="text-slate-300 text-xs shrink-0">Artikel:</span>
+        <span className="text-slate-300 text-xs shrink-0">{labels ? "" : "Artikel:"}</span>
         <div className="flex gap-1.5 items-center">
           {LABELS.map((label) => {
             const s = ARTIKEL_STYLES[label];
@@ -67,7 +69,7 @@ export default function GenusSortierung({ word, correct, userAnswer, submitted, 
                 disabled={submitted}
                 onClick={() => !submitted && onAnswer(label)}
               >
-                {label}
+                {displayLabel(label)}
               </button>
             );
           })}
@@ -75,7 +77,7 @@ export default function GenusSortierung({ word, correct, userAnswer, submitted, 
         {/* Inline result mark */}
         {submitted && userAnswer && (
           <span className={`text-xs font-bold shrink-0 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
-            {isCorrect ? "✓" : `✗ → ${correct}`}
+            {isCorrect ? "✓" : `✗ → ${displayLabel(correct)}`}
           </span>
         )}
       </div>

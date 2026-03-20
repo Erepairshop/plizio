@@ -11,9 +11,10 @@ interface Props {
   userAnswer: string;       // comma-separated category chars, e.g. "N,V,A,N,A,V"
   submitted: boolean;
   onAnswer: (a: string) => void;
+  labels?: { N: string; V: string; A: string };
 }
 
-const CAT_LABELS: Record<string, string> = { N: 'Nomen', V: 'Verb', A: 'Adjektiv' };
+const DEFAULT_CAT_LABELS: Record<string, string> = { N: 'Nomen', V: 'Verb', A: 'Adjektiv' };
 const CAT_COLORS: Record<string, string> = {
   N: 'bg-blue-500 border-blue-500 text-white',
   V: 'bg-emerald-500 border-emerald-500 text-white',
@@ -26,7 +27,8 @@ const CAT_CORRECT: Record<string, string> = {
 };
 const CYCLE: Array<'N' | 'V' | 'A' | ''> = ['N', 'V', 'A', ''];
 
-export default function WortartenSortieren({ words, categories, userAnswer, submitted, onAnswer }: Props) {
+export default function WortartenSortieren({ words, categories, userAnswer, submitted, onAnswer, labels }: Props) {
+  const CAT_LABELS = labels ? (labels as Record<string, string>) : DEFAULT_CAT_LABELS;
   const chosen = userAnswer ? userAnswer.split(',') : words.map(() => '');
 
   const toggle = (i: number) => {
@@ -45,7 +47,7 @@ export default function WortartenSortieren({ words, categories, userAnswer, subm
       {/* Instruction */}
       <div style={{ height: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1">
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
-        <span className="text-xs text-slate-400 italic">Tippe: Nomen · Verb · Adjektiv</span>
+        <span className="text-xs text-slate-400 italic">{CAT_LABELS.N} · {CAT_LABELS.V} · {CAT_LABELS.A}</span>
         <span className="ml-auto flex gap-1 pr-1">
           {(['N','V','A'] as const).map(c => (
             <span key={c} className={`text-xs font-bold px-1 rounded ${CAT_CORRECT[c]}`}>{CAT_LABELS[c][0]}</span>

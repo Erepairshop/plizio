@@ -38,7 +38,7 @@ const RO_CONFIG: LanguageTestEngineConfig = {
   getReadingPassage: getRandomRomanianPassage,
 
   visualTypes: ROMANIAN_VISUAL_TYPES,
-  visualGrades: [1],
+  visualGrades: [1, 2, 3],
 
   labels: {
     selectCountry: "Alege țara",
