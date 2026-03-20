@@ -58,7 +58,7 @@ function genSinonimeAntonimeC4(seed: number): CurriculumQuestion[] {
   for (let i = 0; i < Math.min(8, shuffledSin.length); i++) {
     const { word, correct, wrong } = shuffledSin[i];
     qs.push(createMCQ(topic, subtopic,
-      `Care este sinonimul cuvântului „${word}”?`,
+      `Care este sinonimul cuvântului \"${word}\"?`,
       correct, wrong, rng));
   }
 
@@ -67,7 +67,7 @@ function genSinonimeAntonimeC4(seed: number): CurriculumQuestion[] {
   for (let i = 0; i < Math.min(7, shuffledAnt.length); i++) {
     const { word, correct, wrong } = shuffledAnt[i];
     qs.push(createMCQ(topic, subtopic,
-      `Care este antonimul cuvântului „${word}”?`,
+      `Care este antonimul cuvântului \"${word}\"?`,
       correct, wrong, rng));
   }
 
@@ -131,27 +131,27 @@ function genCampuriSemanticeC4(seed: number): CurriculumQuestion[] {
   // Which field do these words belong to?
   const fieldGroups: Array<{ words: string; correct: string; wrong: string[] }> = [
     {
-      words: "„pâine, lapte, fructe”",
+      words: "\"pâine, lapte, fructe\"",
       correct: "alimentelor",
       wrong: ["școlii", "naturii", "corpului uman"],
     },
     {
-      words: "„elev, carte, profesor, caiet”",
+      words: "\"elev, carte, profesor, caiet\"",
       correct: "școlii",
       wrong: ["alimentelor", "naturii", "corpului uman"],
     },
     {
-      words: "„cap, mână, picior, ochi”",
+      words: "\"cap, mână, picior, ochi\"",
       correct: "corpului uman",
       wrong: ["școlii", "alimentelor", "naturii"],
     },
     {
-      words: "„pădure, râu, munte, floare”",
+      words: "\"pădure, râu, munte, floare\"",
       correct: "naturii",
       wrong: ["școlii", "alimentelor", "corpului uman"],
     },
     {
-      words: "„pâine, bucătărie, mâncare, masă”",
+      words: "\"pâine, bucătărie, mâncare, masă\"",
       correct: "alimentelor / bucătăriei",
       wrong: ["școlii", "naturii", "corpului uman"],
     },
@@ -183,7 +183,7 @@ function genCampuriSemanticeC4(seed: number): CurriculumQuestion[] {
     rng));
 
   qs.push(createMCQ(topic, subtopic,
-    "Cuvintele „creion, caiet, rechizite, școală” fac parte din câmpul semantic al:",
+    "Cuvintele \"creion, caiet, rechizite, școală\" fac parte din câmpul semantic al:",
     "școlii",
     ["naturii", "alimentelor", "corpului uman"],
     rng));
@@ -256,7 +256,7 @@ function genExpresiiFragzeologiceC4(seed: number): CurriculumQuestion[] {
   const fwd = shuffle(expresii, rng).slice(0, 10);
   for (const { expr, meaning, wrongMeanings } of fwd) {
     qs.push(createMCQ(topic, subtopic,
-      `Ce înseamnă expresia „${expr}”?`,
+      `Ce înseamnă expresia \"${expr}\"?`,
       meaning, wrongMeanings, rng));
   }
 
@@ -292,7 +292,7 @@ function genExpresiiFragzeologiceC4(seed: number): CurriculumQuestion[] {
   const revShuffled = shuffle(reversePool, rng).slice(0, 5);
   for (const { meaning, correct, wrong } of revShuffled) {
     qs.push(createMCQ(topic, subtopic,
-      `Care expresie înseamnă „${meaning}”?`,
+      `Care expresie înseamnă \"${meaning}\"?`,
       correct, wrong, rng));
   }
 
@@ -321,29 +321,29 @@ function genDerivareCompunereC4(seed: number): CurriculumQuestion[] {
 
   for (const { word, correct, wrong } of shuffle(prefixQs, rng).slice(0, 5)) {
     qs.push(createMCQ(topic, subtopic,
-      `Cuvântul „${word}” conține prefixul:`,
+      `Cuvântul \"${word}\" conține prefixul:`,
       correct, wrong, rng));
   }
 
   // Suffix identification
   const suffixQs: Array<{ words: string; correct: string; wrong: string[] }> = [
     {
-      words: "„brutărie, librărie, cofetărie”",
+      words: "\"brutărie, librărie, cofetărie\"",
       correct: "-ărie",
       wrong: ["-ire", "-tor", "-esc"],
     },
     {
-      words: "„cititor, scriitor, ajutător”",
+      words: "\"cititor, scriitor, ajutător\"",
       correct: "-tor",
       wrong: ["-ărie", "-ire", "-esc"],
     },
     {
-      words: "„fericire, iubire, dorire”",
+      words: "\"fericire, iubire, dorire\"",
       correct: "-ire",
       wrong: ["-ărie", "-tor", "-esc"],
     },
     {
-      words: "„omenesc, românesc, firesc”",
+      words: "\"omenesc, românesc, firesc\"",
       correct: "-esc",
       wrong: ["-ărie", "-ire", "-tor"],
     },
@@ -381,25 +381,25 @@ function genDerivareCompunereC4(seed: number): CurriculumQuestion[] {
 
   for (const { word, correct, wrong } of shuffle(compoundQs, rng)) {
     qs.push(createMCQ(topic, subtopic,
-      `Din ce cuvinte este format compusul „${word}”?`,
+      `Din ce cuvinte este format compusul \"${word}\"?`,
       correct, wrong, rng));
   }
 
   // Concept / rule questions
   qs.push(createMCQ(topic, subtopic,
-    "Sufixul „-ărie” formează de obicei:",
+    "Sufixul \"-ărie\" formează de obicei:",
     "substantive care indică locuri sau meserii",
     ["adjective", "verbe", "pronume"],
     rng));
 
   qs.push(createMCQ(topic, subtopic,
-    "Prefixul „re-” adaugă cuvântului sensul de:",
+    "Prefixul \"re-\" adaugă cuvântului sensul de:",
     "repetare / a face din nou",
     ["negare", "separare", "anticipare"],
     rng));
 
   qs.push(createMCQ(topic, subtopic,
-    "Cuvântul „necinstit” este format prin:",
+    "Cuvântul \"necinstit\" este format prin:",
     "derivare cu prefix",
     ["derivare cu sufix", "compunere", "schimbarea categoriei gramaticale"],
     rng));
@@ -411,7 +411,7 @@ function genDerivareCompunereC4(seed: number): CurriculumQuestion[] {
     rng));
 
   qs.push(createMCQ(topic, subtopic,
-    "Sufixul „-tor” formează de obicei:",
+    "Sufixul \"-tor\" formează de obicei:",
     "substantive sau adjective care arată agentul acțiunii",
     ["substantive de loc", "verbe reflexive", "adverbe"],
     rng));

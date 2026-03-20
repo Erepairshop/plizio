@@ -85,8 +85,8 @@ function gen_majuscule_c4(seed: number): CurriculumQuestion[] {
   // Q7
   qs.push(createMCQ(T, S,
     "Cum se scrie corect titlul operei lui Eminescu?",
-    "„Luceafărul”",
-    ["„luceafărul”", "Luceafarul", "luceafărul"],
+    "\"Luceafărul\"",
+    ["\"luceafărul\"", "Luceafarul", "luceafărul"],
     rng
   ));
 
@@ -141,16 +141,16 @@ function gen_majuscule_c4(seed: number): CurriculumQuestion[] {
   // Q14
   qs.push(createMCQ(T, S,
     "Cum se scrie corect titlul operei lui Creangă?",
-    "„Amintiri din copilărie”",
-    ["Amintiri Din Copilărie", "„amintiri din copilărie”", "Amintiri din copilărie"],
+    "\"Amintiri din copilărie\"",
+    ["Amintiri Din Copilărie", "\"amintiri din copilărie\"", "Amintiri din copilărie"],
     rng
   ));
 
   // Q15
   qs.push(createMCQ(T, S,
     "Care variantă este corect scrisă?",
-    "Eminescu a scris „Luceafărul”.",
-    ["eminescu a scris luceafărul.", "Eminescu a scris Luceafărul.", "eminescu a scris „Luceafărul”."],
+    "Eminescu a scris \"Luceafărul\".",
+    ["eminescu a scris luceafărul.", "Eminescu a scris Luceafărul.", "eminescu a scris \"Luceafărul\"."],
     rng
   ));
 
@@ -363,7 +363,7 @@ function gen_punctuatie_c4(seed: number): CurriculumQuestion[] {
   // Q9
   qs.push(createMCQ(T, S,
     "Cum se marchează vorbirea directă în scris?",
-    "Cu ghilimele „...”",
+    "Cu ghilimele \"...\"",
     ["Cu paranteză ()", "Cu cratimă -", "Cu punct și virgulă ;"],
     rng
   ));
@@ -372,7 +372,7 @@ function gen_punctuatie_c4(seed: number): CurriculumQuestion[] {
   qs.push(createMCQ(T, S,
     "Care propoziție are punctuația corectă pentru dialog?",
     "— Bună ziua! spuse Ion.",
-    ["Bună ziua! spuse Ion.", "„Bună ziua!” spuse Ion.", "- Bună ziua! spuse Ion."],
+    ["Bună ziua! spuse Ion.", "\"Bună ziua!\" spuse Ion.", "- Bună ziua! spuse Ion."],
     rng
   ));
 
@@ -412,7 +412,7 @@ function gen_punctuatie_c4(seed: number): CurriculumQuestion[] {
   qs.push(createMCQ(T, S,
     "Care variantă folosește corect linia de dialog?",
     "— Unde mergi? întrebă mama.",
-    ["„Unde mergi?” întrebă mama.", "Unde mergi? întrebă mama.", "- Unde mergi? întrebă mama."],
+    ["\"Unde mergi?\" întrebă mama.", "Unde mergi? întrebă mama.", "- Unde mergi? întrebă mama."],
     rng
   ));
 

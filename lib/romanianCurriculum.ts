@@ -6,6 +6,12 @@ import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
 import { C3_Generators } from "./romanianGeneratorsC3";
+import { C4_Morfo_Generators } from "./romanianGeneratorsC4morfo";
+import { C4_Sint_Generators } from "./romanianGeneratorsC4sint";
+import { C4_Ort_Generators } from "./romanianGeneratorsC4ort";
+import { C4_Voc_Generators } from "./romanianGeneratorsC4voc";
+import { C4_Text_Generators } from "./romanianGeneratorsC4text";
+import { C4_Lec_Generators } from "./romanianGeneratorsC4lec";
 import { C6P1_Generators } from "./romanianGeneratorsC6p1";
 import { C6P2_Generators } from "./romanianGeneratorsC6p2";
 import { C6P3_Generators } from "./romanianGeneratorsC6p3";
@@ -509,6 +515,143 @@ const C3: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a IV-a (Grade 4) ──────────────────────────────────────────────────
+
+const C4: RomanianTheme[] = [
+  {
+    id: "morfologie_c4",
+    name: "Morfologie",
+    icon: "🏷️",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "substantiv_c4", name: "Substantivul", questions: [
+        { type: "mcq", topic: "morfologie_c4", subtopic: "substantiv_c4", question: "Ce parte de vorbire este cuvântul 'carte'?", options: ["Substantiv", "Verb", "Adjectiv", "Pronume"], correct: 0 },
+      ]},
+      { id: "adjectiv_c4", name: "Adjectivul", questions: [
+        { type: "mcq", topic: "morfologie_c4", subtopic: "adjectiv_c4", question: "Care cuvânt este adjectiv?", options: ["frumos", "casă", "merge", "eu"], correct: 0 },
+      ]},
+      { id: "pronume_personal_c4", name: "Pronumele personal", questions: [
+        { type: "mcq", topic: "morfologie_c4", subtopic: "pronume_personal_c4", question: "Care este pronumele personal de persoana I singular?", options: ["eu", "tu", "el", "noi"], correct: 0 },
+      ]},
+      { id: "pronume_posesiv_c4", name: "Pronumele posesiv", questions: [
+        { type: "mcq", topic: "morfologie_c4", subtopic: "pronume_posesiv_c4", question: "Care este pronumele posesiv pentru persoana I singular?", options: ["al meu", "al tău", "al lui", "al nostru"], correct: 0 },
+      ]},
+      { id: "verb_timpuri_c4", name: "Verbul — timpuri", questions: [
+        { type: "mcq", topic: "morfologie_c4", subtopic: "verb_timpuri_c4", question: "La ce timp este verbul 'va merge'?", options: ["viitor", "prezent", "trecut", "perfect compus"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "sintaxa_c4",
+    name: "Sintaxă",
+    icon: "✍️",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "alte_parti_c4", name: "Alte părți de vorbire (adverb, prepoziție, conjuncție)", questions: [
+        { type: "mcq", topic: "sintaxa_c4", subtopic: "alte_parti_c4", question: "Care cuvânt este adverb?", options: ["repede", "masă", "frumos", "el"], correct: 0 },
+      ]},
+      { id: "subiect_predicat_c4", name: "Subiectul și predicatul", questions: [
+        { type: "mcq", topic: "sintaxa_c4", subtopic: "subiect_predicat_c4", question: "Care este subiectul în 'Maria citește'?", options: ["Maria", "citește", "cărți", "azi"], correct: 0 },
+      ]},
+      { id: "atribut_c4", name: "Atributul", questions: [
+        { type: "mcq", topic: "sintaxa_c4", subtopic: "atribut_c4", question: "Care este atributul în 'fata frumoasă'?", options: ["frumoasă", "fata", "cea", "a"], correct: 0 },
+      ]},
+      { id: "complement_c4", name: "Complementul", questions: [
+        { type: "mcq", topic: "sintaxa_c4", subtopic: "complement_c4", question: "În 'Citesc o carte', complementul direct este:", options: ["o carte", "citesc", "o", "carte"], correct: 0 },
+      ]},
+      { id: "fraza_propozitii_c4", name: "Fraza — propoziții", questions: [
+        { type: "mcq", topic: "sintaxa_c4", subtopic: "fraza_propozitii_c4", question: "Câte propoziții are fraza 'Maria citește și Ion scrie'?", options: ["2", "1", "3", "4"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "ortografie_c4",
+    name: "Ortografie",
+    icon: "📐",
+    color: "#00FF88",
+    subtopics: [
+      { id: "majuscule_c4", name: "Majuscule — reguli avansate", questions: [
+        { type: "mcq", topic: "ortografie_c4", subtopic: "majuscule_c4", question: "Care cuvânt se scrie cu majusculă?", options: ["București", "frumos", "merge", "carte"], correct: 0 },
+      ]},
+      { id: "cratima_avansata_c4", name: "Cratima avansată", questions: [
+        { type: "mcq", topic: "ortografie_c4", subtopic: "cratima_avansata_c4", question: "Care formă este corectă?", options: ["s-a dus", "sa dus", "s a dus", "s'a dus"], correct: 0 },
+      ]},
+      { id: "punctuatie_c4", name: "Punctuație", questions: [
+        { type: "mcq", topic: "ortografie_c4", subtopic: "punctuatie_c4", question: "Ce semn de punctuație folosim în enumerații?", options: [",", ".", "!", "?"], correct: 0 },
+      ]},
+      { id: "despartire_avansata_c4", name: "Despărțirea avansată în silabe", questions: [
+        { type: "mcq", topic: "ortografie_c4", subtopic: "despartire_avansata_c4", question: "Cum se desparte corect 'structură'?", options: ["struc-tu-ră", "stru-ctu-ră", "s-truc-tu-ră", "structu-ră"], correct: 0 },
+      ]},
+      { id: "scrierea_corecta_c4", name: "Scrierea corectă a cuvintelor", questions: [
+        { type: "mcq", topic: "ortografie_c4", subtopic: "scrierea_corecta_c4", question: "Care formă este corectă?", options: ["într-adevăr", "intr-adevăr", "intradevăr", "într adevăr"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "vocabular_c4",
+    name: "Vocabular",
+    icon: "📚",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "sinonime_antonime_c4", name: "Sinonime și antonime", questions: [
+        { type: "mcq", topic: "vocabular_c4", subtopic: "sinonime_antonime_c4", question: "Care este sinonimul lui 'a vorbi'?", options: ["a spune", "a tăcea", "a merge", "a dormi"], correct: 0 },
+      ]},
+      { id: "campuri_semantice_c4", name: "Câmpuri semantice", questions: [
+        { type: "mcq", topic: "vocabular_c4", subtopic: "campuri_semantice_c4", question: "Care cuvânt aparține câmpului semantic 'școală'?", options: ["manual", "pădure", "ocean", "lună"], correct: 0 },
+      ]},
+      { id: "expresii_frazeologice_c4", name: "Expresii frazeologice", questions: [
+        { type: "mcq", topic: "vocabular_c4", subtopic: "expresii_frazeologice_c4", question: "'A trage pe sfoară' înseamnă:", options: ["a înșela", "a ajuta", "a alerga", "a cânta"], correct: 0 },
+      ]},
+      { id: "derivare_compunere_c4", name: "Derivare și compunere", questions: [
+        { type: "mcq", topic: "vocabular_c4", subtopic: "derivare_compunere_c4", question: "Cuvântul 'florar' este derivat din:", options: ["floare", "flori", "florile", "florărie"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "text_c4",
+    name: "Tipuri de texte",
+    icon: "📖",
+    color: "#FFD700",
+    subtopics: [
+      { id: "rezumat_c4", name: "Rezumatul", questions: [
+        { type: "mcq", topic: "text_c4", subtopic: "rezumat_c4", question: "Ce este rezumatul unui text?", options: ["Povestirea pe scurt a ideilor principale", "Copierea textului", "Traducerea textului", "Titlul textului"], correct: 0 },
+      ]},
+      { id: "text_narativ_c4", name: "Textul narativ", questions: [
+        { type: "mcq", topic: "text_c4", subtopic: "text_narativ_c4", question: "Textul narativ povestește:", options: ["o serie de întâmplări", "caracteristici ale unui obiect", "o conversație", "versuri și rime"], correct: 0 },
+      ]},
+      { id: "text_argumentativ_c4", name: "Textul argumentativ", questions: [
+        { type: "mcq", topic: "text_c4", subtopic: "text_argumentativ_c4", question: "Textul argumentativ are scopul de a:", options: ["convinge cititorul", "descrie un loc", "povesti o întâmplare", "prezenta un dialog"], correct: 0 },
+      ]},
+      { id: "scrisoarea_c4", name: "Scrisoarea", questions: [
+        { type: "mcq", topic: "text_c4", subtopic: "scrisoarea_c4", question: "Ce conține o scrisoare?", options: ["Formulă de adresare, mesaj, semnătură", "Doar semnătura", "Doar data", "Versuri"], correct: 0 },
+      ]},
+      { id: "textul_informativ_c4", name: "Textul informativ", questions: [
+        { type: "mcq", topic: "text_c4", subtopic: "textul_informativ_c4", question: "Textul informativ prezintă:", options: ["fapte și date reale", "personaje imaginare", "versuri și rime", "dialoguri fictive"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "lectura_c4",
+    name: "Lectură și înțelegere",
+    icon: "📕",
+    color: "#10B981",
+    subtopics: [
+      { id: "intelegere_text_c4", name: "Înțelegerea textului", questions: [
+        { type: "mcq", topic: "lectura_c4", subtopic: "intelegere_text_c4", question: "Cum identificăm ideea principală a unui text?", options: ["Găsim mesajul cel mai important", "Citim doar primul rând", "Numărăm cuvintele", "Căutăm rimele"], correct: 0 },
+      ]},
+      { id: "personaje_c4", name: "Personajele textului", questions: [
+        { type: "mcq", topic: "lectura_c4", subtopic: "personaje_c4", question: "Personajul principal este:", options: ["cel care apare cel mai mult în text", "primul menționat", "cel mai bun", "narratorul"], correct: 0 },
+      ]},
+      { id: "tema_mesaj_c4", name: "Tema și mesajul textului", questions: [
+        { type: "mcq", topic: "lectura_c4", subtopic: "tema_mesaj_c4", question: "Tema unui text reprezintă:", options: ["subiectul principal despre care se vorbește", "titlul textului", "autorul textului", "lungimea textului"], correct: 0 },
+      ]},
+      { id: "figuri_stil_c4", name: "Figuri de stil", questions: [
+        { type: "mcq", topic: "lectura_c4", subtopic: "figuri_stil_c4", question: "'Fata era frumoasă ca o floare' conține:", options: ["comparație", "personificare", "enumerație", "repetiție"], correct: 0 },
+      ]},
+    ],
+  },
+];
+
 // ─── CLASA a VI-a (Grade 6) ──────────────────────────────────────────────────
 
 const C6: RomanianTheme[] = [
@@ -698,6 +841,7 @@ export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
   3: C3,
+  4: C4,
   6: C6,
 };
 
@@ -762,10 +906,20 @@ const C6_Generators: Record<string, Record<string, (seed?: number) => Curriculum
 } as any);
 
 /** Generator mapping by grade */
+const C4_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = {
+  ...C4_Morfo_Generators,
+  ...C4_Sint_Generators,
+  ...C4_Ort_Generators,
+  ...C4_Voc_Generators,
+  ...C4_Text_Generators,
+  ...C4_Lec_Generators,
+};
+
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
   3: C3_Generators,
+  4: C4_Generators,
   6: C6_Generators,
 };
 
