@@ -785,7 +785,7 @@ export default function AstroEnglishK1Page() {
           <SpellRaceExplorer rounds={getK1ExplorerContent("spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "category-rush" && activeIsland && (
-          <CategoryRushExplorer rounds={getK1ExplorerContent("category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <CategoryRushExplorer {...getK1ExplorerContent("category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "grammar-match" && activeIsland && (
           <GrammarMatchExplorer rounds={getK1ExplorerContent("grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />

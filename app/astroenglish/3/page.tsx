@@ -1049,7 +1049,7 @@ export default function AstroEnglishK3Page() {
           <FillGapExplorer rounds={getExplorerContentK3(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "category-rush" && activeIsland && (
-          <CategoryRushExplorer rounds={getExplorerContentK3(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <CategoryRushExplorer {...getExplorerContentK3(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "grammar-match" && activeIsland && (
           <GrammarMatchExplorer rounds={getExplorerContentK3(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />

@@ -1077,7 +1077,7 @@ export default function AstroEnglishK5Page() {
           <FillGapExplorer rounds={getExplorerContentK5(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "category-rush" && activeIsland && (
-          <CategoryRushExplorer rounds={getExplorerContentK5(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <CategoryRushExplorer {...getExplorerContentK5(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "grammar-match" && activeIsland && (
           <GrammarMatchExplorer rounds={getExplorerContentK5(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />

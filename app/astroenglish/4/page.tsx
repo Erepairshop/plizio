@@ -1137,7 +1137,7 @@ export default function AstroEnglishK4Page() {
           <FillGapExplorer rounds={getExplorerContentK4(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "category-rush" && activeIsland && (
-          <CategoryRushExplorer rounds={getExplorerContentK4(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <CategoryRushExplorer {...getExplorerContentK4(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "sentence-builder" && activeIsland && (
           <SentenceBuilderExplorer rounds={getExplorerContentK4(activeIsland.id, "sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />

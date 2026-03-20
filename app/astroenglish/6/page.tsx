@@ -989,7 +989,7 @@ export default function AstroEnglishK6Page() {
           <FillGapExplorer rounds={getExplorerContentK6(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "category-rush" && activeIsland && (
-          <CategoryRushExplorer rounds={getExplorerContentK6(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <CategoryRushExplorer {...getExplorerContentK6(activeIsland.id, "category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
         {screen === "grammar-match" && activeIsland && (
           <GrammarMatchExplorer rounds={getExplorerContentK6(activeIsland.id, "grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
