@@ -290,6 +290,17 @@ const C2: RomanianTheme[] = [
       { id: "adjectiv_c2", name: "Adjectivul", questions: [
         { type: "mcq", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Care cuvânt este un adjectiv?", options: ["frumos", "casă", "merge", "el"], correct: 0 },
       ]},
+      { id: "pronume_pers_c2", name: "Pronumele personal", questions: [] },
+      { id: "conjunctii_c2", name: "Conjuncțiile", questions: [
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care cuvânt este o CONJUNCȚIE (leagă propoziții)?", options: ["și", "casă", "aleargă", "frumos"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Vreau să merg la școală ___ plouă.'", options: ["dar", "sau", "și", "că"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care conjuncție arată o OPOZIȚIE (contrast)?", options: ["dar", "și", "sau", "că"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Vrei ceai ___ suc?'", options: ["sau", "și", "dar", "că"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Care conjuncție arată o CAUZĂ (motivul)?", options: ["pentru că", "și", "dar", "sau"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Completează: 'Ana cântă ___ Mihai dansează.'", options: ["și", "dar", "sau", "că"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Ce este 'și' în propoziție?", options: ["conjuncție", "substantiv", "verb", "adjectiv"], correct: 0 },
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "conjunctii_c2", question: "Câte cuvinte leagă o conjuncție?", options: ["Cel puțin două", "Exact unul", "Trei sau mai multe", "Niciun cuvânt"], correct: 0 },
+      ]},
     ],
   },
   {
@@ -364,6 +375,23 @@ const C2: RomanianTheme[] = [
     ],
   },
   {
+    id: "vocabular_tematic_c2",
+    name: "Vocabular Tematic",
+    icon: "🌍",
+    color: "#10B981",
+    subtopics: [
+      { id: "sinonime_c2", name: "Sinonime", questions: [] },
+      { id: "antonime_c2", name: "Antonime", questions: [] },
+      { id: "familia_cuvintelor_c2", name: "Familia cuvintelor", questions: [] },
+      { id: "animale_c2", name: "Animale — caracteristici", questions: [] },
+      { id: "corpul_uman_c2", name: "Corpul uman", questions: [] },
+      { id: "familia_c2", name: "Familia", questions: [] },
+      { id: "alimente_c2", name: "Alimente și nutriție", questions: [] },
+      { id: "anotimpuri_c2", name: "Anotimpurile", questions: [] },
+      { id: "meserii_c2", name: "Meserii", questions: [] },
+    ],
+  },
+  {
     id: "comunicare_c2",
     name: "Comunicare",
     icon: "🗣️",
@@ -431,6 +459,8 @@ const C3: RomanianTheme[] = [
       { id: "persoana_nr_c3", name: "Persoana și numărul verbului", questions: [
         { type: "mcq", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "'noi mergem' — La ce persoană și număr este verbul?", options: ["I plural", "I singular", "a III-a plural", "a II-a plural"], correct: 0 },
       ]},
+      { id: "verbe_reflexive_c3", name: "Verbe reflexive (a se spăla, a se îmbrăca)", questions: [] },
+      { id: "modul_imperativ_c3", name: "Modul imperativ", questions: [] },
     ],
   },
   {
@@ -445,6 +475,7 @@ const C3: RomanianTheme[] = [
       { id: "adj_propozitie_c3", name: "Adjectivul în propoziție", questions: [
         { type: "mcq", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Care este adjectivul din: 'Câinele cel negru a latrat.'?", options: ["negru", "câinele", "latrat", "cel"], correct: 0 },
       ]},
+      { id: "grade_adj_c3", name: "Gradele de comparație", questions: [] },
     ],
   },
   {

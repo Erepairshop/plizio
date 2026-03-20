@@ -355,6 +355,111 @@ const BILETE = {
   ],
 };
 
+// ─── WORD BANKS (NEW) ────────────────────────────────────────────────────────
+
+const PRONUME = {
+  personale: [
+    { pers: "eu", pl: "noi", gen: "M/F", example: "Eu citesc." },
+    { pers: "tu", pl: "voi", gen: "M/F", example: "Tu scrii." },
+    { pers: "el", pl: "ei", gen: "M", example: "El aleargă." },
+    { pers: "ea", pl: "ele", gen: "F", example: "Ea cântă." },
+    { pers: "noi", pl: "noi", gen: "M/F", example: "Noi mergem." },
+    { pers: "voi", pl: "voi", gen: "M/F", example: "Voi veniți." },
+    { pers: "ei", pl: "ei", gen: "M", example: "Ei joacă." },
+    { pers: "ele", pl: "ele", gen: "F", example: "Ele dansează." },
+  ],
+};
+
+const SINONIME_C2 = [
+  { word: "frumos", sin: "chipeș" }, { word: "mare", sin: "uriaș" },
+  { word: "mic", sin: "mărunt" }, { word: "rapid", sin: "iute" },
+  { word: "trist", sin: "supărat" }, { word: "vesel", sin: "bucuros" },
+  { word: "curat", sin: "ordonat" }, { word: "vorbit", sin: "grăit" },
+  { word: "drum", sin: "cale" }, { word: "casă", sin: "locuință" },
+  { word: "iubit", sin: "îndrăgit" }, { word: "bătrân", sin: "vârstnic" },
+  { word: "copil", sin: "prichindel" }, { word: "a merge", sin: "a umbla" },
+  { word: "bucurie", sin: "fericire" },
+];
+
+const ANTONIME_C2 = [
+  { word: "mare", ant: "mic" }, { word: "frumos", ant: "urât" },
+  { word: "bun", ant: "rău" }, { word: "rapid", ant: "lent" },
+  { word: "cald", ant: "rece" }, { word: "ziuă", ant: "noapte" },
+  { word: "sus", ant: "jos" }, { word: "vechi", ant: "nou" },
+  { word: "greu", ant: "ușor" }, { word: "tare", ant: "moale" },
+  { word: "deschis", ant: "închis" }, { word: "înainte", ant: "înapoi" },
+  { word: "vesel", ant: "trist" }, { word: "bogat", ant: "sărac" },
+  { word: "lung", ant: "scurt" },
+];
+
+const FAMILIA_CUVINTELOR_C2 = [
+  { radacina: "carte", familie: ["carte", "cărticică", "cărturar", "librărie", "cărțile"] },
+  { radacina: "apă", familie: ["apă", "ploaie", "apos", "înotat", "ape"] },
+  { radacina: "casă", familie: ["casă", "căsuță", "casnic", "acasă", "case"] },
+  { radacina: "floare", familie: ["floare", "florărie", "florar", "înflorit", "flori"] },
+  { radacina: "câmp", familie: ["câmp", "câmpie", "câmpenesc", "câmpuri"] },
+];
+
+const ANIMALE_C2 = [
+  { animal: "câine", sunet: "lătrat", hrana: "carne", tip: "domestic" },
+  { animal: "pisică", sunet: "miorlăit", hrana: "pește", tip: "domestic" },
+  { animal: "vaca", sunet: "mugit", hrana: "iarbă", tip: "domestic" },
+  { animal: "cal", sunet: "nechezat", hrana: "iarbă", tip: "domestic" },
+  { animal: "oaie", sunet: "behăit", hrana: "iarbă", tip: "domestic" },
+  { animal: "lup", sunet: "urlet", hrana: "carne", tip: "sălbatic" },
+  { animal: "vulpe", sunet: "lătrat subțire", hrana: "carne", tip: "sălbatic" },
+  { animal: "urs", sunet: "mormăit", hrana: "omnivor", tip: "sălbatic" },
+  { animal: "pasăre", sunet: "cântat", hrana: "semințe", tip: "sălbatic" },
+  { animal: "pește", sunet: "-", hrana: "plancton", tip: "acvatic" },
+];
+
+const CORPUL_UMAN_C2 = [
+  { parte: "inimă", functie: "pompează sângele", sistem: "circulator" },
+  { parte: "plămâni", functie: "respirația", sistem: "respirator" },
+  { parte: "creier", functie: "gândirea și coordonarea", sistem: "nervos" },
+  { parte: "stomac", functie: "digestia alimentelor", sistem: "digestiv" },
+  { parte: "ochi", functie: "vederea", sistem: "senzorial" },
+  { parte: "urechi", functie: "auzul", sistem: "senzorial" },
+  { parte: "os", functie: "susținerea corpului", sistem: "osos" },
+  { parte: "mușchi", functie: "mișcarea", sistem: "muscular" },
+];
+
+const FAMILIE_C2 = [
+  { relatie: "mama", relatie_inv: "fiică/fiu", gen: "F" },
+  { relatie: "tata", relatie_inv: "fiică/fiu", gen: "M" },
+  { relatie: "bunica", relatie_inv: "nepot/nepoată", gen: "F" },
+  { relatie: "bunicul", relatie_inv: "nepot/nepoată", gen: "M" },
+  { relatie: "sora", relatie_inv: "frate/soră", gen: "F" },
+  { relatie: "fratele", relatie_inv: "frate/soră", gen: "M" },
+  { relatie: "mătușa", relatie_inv: "nepot/nepoată de unchi", gen: "F" },
+  { relatie: "unchiul", relatie_inv: "nepot/nepoată de unchi", gen: "M" },
+];
+
+const ALIMENTE_C2 = {
+  fructe: ["măr", "pară", "prună", "cireașă", "strugure", "portocală", "banană", "căpșună"],
+  legume: ["morcov", "roșie", "castraveți", "cartofi", "ceapă", "spanac", "varză", "fasole"],
+  lactate: ["lapte", "brânză", "iaurt", "unt", "smântână"],
+  proteine: ["carne", "pește", "ouă", "fasole"],
+};
+
+const ANOTIMPURI_C2 = [
+  { anotimp: "Primăvara", luni: ["martie", "aprilie", "mai"], caracteristici: ["flori", "ploaie", "cald", "curcubeu"] },
+  { anotimp: "Vara", luni: ["iunie", "iulie", "august"], caracteristici: ["cald", "soare", "vacanță", "plajă"] },
+  { anotimp: "Toamna", luni: ["septembrie", "octombrie", "noiembrie"], caracteristici: ["frunze colorate", "ploaie", "frig", "recolte"] },
+  { anotimp: "Iarna", luni: ["decembrie", "ianuarie", "februarie"], caracteristici: ["ninsoare", "frig", "gheață", "Crăciun"] },
+];
+
+const MESERII_C2 = [
+  { meserie: "medic", activitate: "tratează bolnavii", loc: "spital" },
+  { meserie: "profesor", activitate: "predă elevilor", loc: "școală" },
+  { meserie: "pompier", activitate: "stinge incendii", loc: "stație de pompieri" },
+  { meserie: "bucătar", activitate: "pregătește mâncarea", loc: "restaurant" },
+  { meserie: "pilot", activitate: "pilotează avioane", loc: "aeroport" },
+  { meserie: "polițist", activitate: "menține ordinea", loc: "secție de poliție" },
+  { meserie: "fermier", activitate: "cultivă pământul", loc: "fermă" },
+  { meserie: "inginer", activitate: "proiectează construcții", loc: "birou/șantier" },
+];
+
 // ─── GENERATORS ─────────────────────────────────────────────────────────────
 
 export const C2_Generators: Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>> = {
