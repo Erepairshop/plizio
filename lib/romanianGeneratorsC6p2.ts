@@ -469,9 +469,9 @@ export const C6P2_Generators = {
     const subtopic = "conjunctie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(CONJUNCTII, rng);
+      const item = CONJUNCTII[i % CONJUNCTII.length];
       const q = createMCQ(
         topic,
         subtopic,
@@ -510,9 +510,9 @@ export const C6P2_Generators = {
     const subtopic = "interjectie_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
-      const item = pick(INTERJECTII, rng);
+      const item = INTERJECTII[i % INTERJECTII.length];
       const q = createMCQ(
         topic,
         subtopic,
