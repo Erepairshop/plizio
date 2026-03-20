@@ -125,11 +125,12 @@ const VERB_DIATEZE = [
 function verb_indicativ(seed = 42): CurriculumQuestion[] {
   const rng = mulberry32(seed);
   const questions: CurriculumMCQ[] = [];
+  const tenses: (keyof typeof VERB_INDICATIV[0])[] = ["present", "past_simple", "imperfect", "pluperfect", "future"];
 
   for (let i = 0; i < 10; i++) {
     const verb = pick(VERB_INDICATIV, rng);
-    const tense = pick(["present", "past_simple", "imperfect", "future"], rng);
-    const form = verb[tense as keyof typeof verb] as string;
+    const tense = pick(tenses, rng);
+    const form = verb[tense] as string;
 
     questions.push(
       createMCQ(
@@ -138,9 +139,9 @@ function verb_indicativ(seed = 42): CurriculumQuestion[] {
         `Care este forma indicativului în timp ${tense} pentru verbul "${verb.verb}"?`,
         form,
         [
-          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense as keyof typeof verb] as string,
-          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense as keyof typeof verb] as string,
-          `s-ar ${verb.verb.slice(2)}`,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
+          pick(VERB_INDICATIV.filter(v => v.verb !== verb.verb), rng)[tense] as string,
         ],
         rng
       )
@@ -241,14 +242,19 @@ function verb_diateze_c7(seed = 42): CurriculumQuestion[] {
   for (let i = 0; i < 10; i++) {
     const diateza = pick(VERB_DIATEZE, rng);
     const type = pick(["active", "passive", "reflexive"], rng);
+    const typeLabel = type === "active" ? "activă" : type === "passive" ? "pasivă" : "reflexivă";
 
     questions.push(
       createMCQ(
         "Romanian-C7-P2",
         "verb_diateze_c7",
-        `Identifică diateза din propoziția: "${diateza[type as keyof typeof diateza]}"`,
-        type,
-        ["diateza " + pick(["activă", "pasivă", "reflexivă"].filter(d => d !== type), rng), "diateza " + pick(["activă", "pasivă", "reflexivă"].filter(d => d !== type), rng), "mod ipotetic"],
+        `Identifică diateza din propoziția: "${diateza[type as keyof typeof diateza]}"`,
+        typeLabel,
+        [
+          type === "active" ? pick(["pasivă", "reflexivă"], rng) : type === "passive" ? pick(["activă", "reflexivă"], rng) : pick(["activă", "pasivă"], rng),
+          type === "active" ? pick(["pasivă", "reflexivă"], rng) : type === "passive" ? pick(["activă", "reflexivă"], rng) : pick(["activă", "pasivă"], rng),
+          "mod ipotetic"
+        ],
         rng
       )
     );

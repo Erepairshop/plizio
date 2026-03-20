@@ -212,13 +212,11 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
         "text_liric_c7",
         `Forma lirica "${liric.form}" se caracterizează prin: "${liric.structure}". Exemplu: "${liric.example}". Trasat principal: "${liric.traits}". Care e forma corectă?`,
         liric.form,
-        shuffle(
-          [
-            pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-            pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-          ],
-          rng
-        ),
+        [
+          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
+          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
+          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
+        ],
         rng
       )
     );
@@ -240,13 +238,11 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
         "text_dramatic_c7",
         `Genul dramatic "${drama.genre}" se caracterizează prin: "${drama.traits}". Care e definiția corectă?`,
         drama.genre,
-        shuffle(
-          [
-            pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-            pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-          ],
-          rng
-        ),
+        [
+          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
+          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
+          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
+        ],
         rng
       )
     );
