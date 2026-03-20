@@ -721,4 +721,18 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "figuri_stil_c3":         "Comparație: 'ca' / 'precum' (fata frumoasă ca o floare). Personificare: obiectul primește însușiri omenești (vântul suspina). Enumerație: lista de elemente.",
   "intelegere_c3":          "Citește textul integral, apoi întrebarea. Caută cuvintele cheie din întrebare în text. Răspunsul trebuie să fie susținut de text!",
   "idee_principala_c3":     "Ideea principală = 'Despre CE/CINE este textul?'. Rezumatul = povestești pe scurt, cu propriile cuvinte, respectând ordinea evenimentelor.",
+  // ─── Clasa III — extensii ───
+  "grade_adj_c3":           "Grade de comparație: POZITIV (bun), COMPARATIV (mai bun), SUPERLATIV (cel mai bun). Comparativul = 'mai' + adjectiv. Superlativul = 'cel/cea/cei/cele mai' + adjectiv.",
+  "verbe_reflexive_c3":     "Verbele reflexive exprimă o acțiune îndreptată asupra subiectului: mă spăl, te speli, se spală, ne spălăm, vă spălați, se spală. Pronumele reflexive: mă, te, se, ne, vă, se.",
+  "modul_imperativ_c3":     "Imperativul exprimă o poruncă, un îndemn sau o rugăminte. Se folosește la persoana a II-a: vino! (sg) / veniți! (pl). Se pune semnul exclamării (!) la final.",
+  "subiect_predicat_c3":    "Subiectul = CINE face acțiunea (întrebarea: cine? ce?). Predicatul = CE FACE subiectul (întrebarea: ce face? ce este?). Exemplu: 'Florile (S) înfloresc (P) primăvara.'",
+  "atributul_c3":           "Atributul determină un SUBSTANTIV, arătând cum este, care sau al cui. Răspunde la: Care? Ce fel de? Al cui? Exemplu: 'Câinele NEGRu (atribut) latră.' — negru determină substantivul câine.",
+  "vorbire_directa_c3":     "Vorbirea directă reproduce exact cuvintele unui personaj. Se marchează cu: ghilimele (\") sau linia de dialog (–). Exemplu: – Bună ziua! a spus Ana. / \"Bună ziua!\" a spus Ana.",
+  "despartire_silabe_c3":   "Reguli de despărțire: 1) O consoană între vocale → merge cu silaba următoare (ca-să). 2) Două consoane → se despart (car-te). 3) Grupurile che/chi/ghe/ghi nu se despart. Câte vocale — atâtea silabe!",
+  "virgula_c3":             "Virgula se pune: 1) La ENUMERAȚIE (mere, pere și prune). 2) La ADRESARE DIRECTĂ (Ana, vino!). 3) La APOZIȚIE — explicație intercalată (Ion, elev harnic, a venit.).",
+  "natura_c3":              "Forme de relief: munte (înalt, vârf), deal (mai mic ca muntele), câmpie (plată). Ape: râu (curgătoare, are mal), lac (stătătoare). Ecosisteme: pădure (copaci, animale sălbatice).",
+  "activitati_c3":          "Fiecare activitate are locul ei: înot → piscină/mare, fotbal → teren de sport, ciclism → parc/drum, lectură → bibliotecă/acasă. Fiecare are echipamentul specific!",
+  "locuinta_c3":            "Camerele casei: dormitor (pat, dulap), bucătărie (aragaz, frigider), baie (cadă, lavoar), sufragerie (canapea, televizor), hol (cuier, covoraș). Fiecare cameră are obiectele ei!",
+  "imbracaminte_c3":        "Hainele de VARĂ: tricou, rochie, sandale. Hainele de IARNĂ/TOAMNĂ: palton, cizme. Hainele pentru TOT ANUL: pantaloni, bluza. Partea corpului: sus (tricou), jos (pantaloni), picioare (cizme, sandale).",
+  "textul_descriptiv_c3":   "Textul descriptiv răspunde la: 'Cum este? Cum arată?' — nu povestește (narativ), nu explică (informativ). Adjectivele sunt cele mai importante! Comparațiile și personificările dau viață descrierii.",
 };

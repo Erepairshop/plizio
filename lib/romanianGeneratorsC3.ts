@@ -1019,4 +1019,159 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       return q;
     },
   },
+
+  // ══════════════ VOCABULAR TEMATIC C3 ══════════════
+
+  vocabular_tematic_c3: {
+    natura_c3: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      const intrebari = [
+        { q: "Ce este un RÂU?", correct: "Apă curgătoare cu mal", wrong: ["Apă stătătoare", "O formă de relief înaltă", "Un lac artificial"] },
+        { q: "Ce este un LAC?", correct: "Apă stătătoare", wrong: ["Apă curgătoare", "O parte a mării", "Un munte cu apă"] },
+        { q: "Ce este o PĂDURE?", correct: "Un ecosistem cu mulți copaci și animale", wrong: ["O formă de relief înaltă", "Un câmp cultivat", "Un sat mic"] },
+        { q: "Ce este un MUNTE?", correct: "O formă de relief înaltă, cu vârf și versanți", wrong: ["O formă de relief joasă și plată", "O apă curgătoare", "O zonă cu nisip"] },
+        { q: "Ce este o CÂMPIE?", correct: "O formă de relief plată, propice agriculturii", wrong: ["O formă de relief înaltă", "O zonă cu apă", "O pădure întinsă"] },
+        { q: "Ce este un DEAL?", correct: "O formă de relief mai mică decât muntele", wrong: ["O formă de relief mai mare decât muntele", "O zonă plată", "O apă stătătoare"] },
+        { q: "Ce animale trăiesc de obicei în pădure?", correct: "Ursul, lupul, vulpea, cerbul", wrong: ["Delfinul, rechinul, calul de mare", "Cămila, leul, zebra", "Pinguinul, ursul polar"] },
+        { q: "Cum numim apa care curge dintr-un munte?", correct: "Izvor sau pârâu", wrong: ["Lac", "Mare", "Canal"] },
+        { q: "Ce înseamnă că o apă este 'curgătoare'?", correct: "Apa se mișcă, curge dintr-un loc în altul", wrong: ["Apa nu se mișcă", "Apa este sărată", "Apa este caldă"] },
+        { q: "Cum se numesc marginile unui râu?", correct: "Maluri", wrong: ["Versanți", "Coaste", "Culmi"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(intrebari, rng);
+        q.push(createMCQ("vocabular_tematic_c3", "natura_c3",
+          data.q, data.correct, data.wrong, rng));
+      }
+      for (let i = q.length; i < 30; i++) {
+        const data = pick(NATURA_C3, rng);
+        const correct = data.tip;
+        q.push(createMCQ("vocabular_tematic_c3", "natura_c3",
+          `Ce tip de element natural este '${data.element}'?`,
+          correct,
+          NATURA_C3.filter(d => d.tip !== correct).map(d => d.tip).filter((v, idx, arr) => arr.indexOf(v) === idx).slice(0, 3), rng));
+      }
+      return q.slice(0, 30);
+    },
+
+    activitati_c3: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(ACTIVITATI_C3, rng);
+        const qType = Math.floor(rng() * 3);
+        if (qType === 0) {
+          // Where is the activity done?
+          const wrong = shuffle(ACTIVITATI_C3, rng).filter(d => d.loc !== data.loc).slice(0, 3).map(d => d.loc);
+          q.push(createMCQ("vocabular_tematic_c3", "activitati_c3",
+            `Unde se practică de obicei '${data.activ}'?`,
+            data.loc, wrong, rng));
+        } else if (qType === 1) {
+          // What equipment is needed?
+          const wrong = shuffle(ACTIVITATI_C3, rng).filter(d => d.echipament !== data.echipament).slice(0, 3).map(d => d.echipament);
+          q.push(createMCQ("vocabular_tematic_c3", "activitati_c3",
+            `Ce echipament este necesar pentru '${data.activ}'?`,
+            data.echipament, wrong, rng));
+        } else {
+          // What activity uses this equipment?
+          const wrong = shuffle(ACTIVITATI_C3, rng).filter(d => d.activ !== data.activ).slice(0, 3).map(d => d.activ);
+          q.push(createMCQ("vocabular_tematic_c3", "activitati_c3",
+            `Ce activitate se face în '${data.loc}' cu '${data.echipament}'?`,
+            data.activ, wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    locuinta_c3: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(LOCUINTA_C3, rng);
+        const qType = Math.floor(rng() * 3);
+        if (qType === 0) {
+          // What objects are in this room?
+          const obj = pick(data.obiecte, rng);
+          q.push(createMCQ("vocabular_tematic_c3", "locuinta_c3",
+            `Care obiect se găsește de obicei în '${data.camera}'?`,
+            obj,
+            LOCUINTA_C3.filter(r => r.camera !== data.camera).flatMap(r => r.obiecte).filter(o => o !== obj).slice(0, 3), rng));
+        } else if (qType === 1) {
+          // In which room is this object?
+          const obj = pick(data.obiecte, rng);
+          const wrong = LOCUINTA_C3.filter(r => r.camera !== data.camera).map(r => r.camera).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c3", "locuinta_c3",
+            `În ce cameră se găsește de obicei '${obj}'?`,
+            data.camera, wrong, rng));
+        } else {
+          // Theory
+          const theory = pick([
+            { q: "Cum numim camera unde dormim?", correct: "dormitor", wrong: ["bucătărie", "baie", "sufragerie"] },
+            { q: "Cum numim camera unde gătim?", correct: "bucătărie", wrong: ["dormitor", "baie", "hol"] },
+            { q: "Cum numim camera unde ne spălăm?", correct: "baie", wrong: ["bucătărie", "hol", "dormitor"] },
+            { q: "Cum numim camera de intrare în locuință?", correct: "hol", wrong: ["sufragerie", "baie", "dormitor"] },
+            { q: "Ce obiecte sunt esențiale în bucătărie?", correct: "aragaz, frigider, chiuvetă", wrong: ["pat, dulap, noptieră", "cadă, oglindă, prosop", "canapea, televizor, fotoliu"] },
+          ], rng);
+          q.push(createMCQ("vocabular_tematic_c3", "locuinta_c3",
+            theory.q, theory.correct, theory.wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    imbracaminte_c3: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(IMBRACAMINTE_C3, rng);
+        const qType = Math.floor(rng() * 3);
+        if (qType === 0) {
+          // Which season?
+          const wrong = ["vară", "iarnă/toamnă", "tot anul", "vară/primăvară"].filter(s => s !== data.sezon).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c3", "imbracaminte_c3",
+            `În ce anotimp se poartă de obicei '${data.haina}'?`,
+            data.sezon, wrong, rng));
+        } else if (qType === 1) {
+          // Which part of the body?
+          const wrong = ["sus", "jos", "picioare", "întreg"].filter(p => p !== data.parte).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c3", "imbracaminte_c3",
+            `'${data.haina}' este o îmbrăcăminte pentru ce parte a corpului?`,
+            data.parte, wrong, rng));
+        } else {
+          // What to wear in a given season?
+          const sezon = pick(["vară", "iarnă"], rng);
+          const haineDeSez = IMBRACAMINTE_C3.filter(h => h.sezon.includes(sezon));
+          const correct = pick(haineDeSez, rng).haina;
+          const wrong = IMBRACAMINTE_C3.filter(h => !h.sezon.includes(sezon)).map(h => h.haina).slice(0, 3);
+          q.push(createMCQ("vocabular_tematic_c3", "imbracaminte_c3",
+            `Ce îmbrăcăminte este potrivită pentru ${sezon}?`,
+            correct, wrong, rng));
+        }
+      }
+      return q;
+    },
+
+    textul_descriptiv_c3: (seed = Date.now()) => {
+      const rng = mulberry32(seed);
+      const q: CurriculumQuestion[] = [];
+      const items = [
+        { q: "Ce este un TEXT DESCRIPTIV?", correct: "Un text care descrie cum arată un lucru, un loc sau o persoană", wrong: ["Un text care povestește o întâmplare", "Un text cu dialog între personaje", "Un text care explică un fenomen"] },
+        { q: "La ce întrebări răspunde un text descriptiv?", correct: "Cum este? Cum arată? Ce caracteristici are?", wrong: ["Ce s-a întâmplat? Când? Unde?", "De ce? Cum se explică?", "Cine? Ce a spus?"] },
+        { q: "Cum se deosebește textul descriptiv de cel narativ?", correct: "Cel narativ povestește o acțiune, cel descriptiv prezintă caracteristici", wrong: ["Nu se deosebesc, sunt la fel", "Cel descriptiv are personaje, cel narativ nu", "Cel narativ are adjective, cel descriptiv nu"] },
+        { q: "Ce parte de vorbire este cea mai importantă în textul descriptiv?", correct: "Adjectivul (arată cum este)", wrong: ["Verbul (arată acțiunea)", "Conjuncția (leagă propoziții)", "Numeralul (arată cantitatea)"] },
+        { q: "Care este un exemplu de text descriptiv?", correct: "Toamna, frunzele devin galbene și roșii, vântul suflă rece.", wrong: ["Ion s-a trezit dimineața și a plecat la școală.", "Ana a spus: 'Merg la magazin!'", "'Câte silabe are cuvântul casă?'"] },
+        { q: "Ce elemente descrie de obicei un text descriptiv despre un loc?", correct: "Aspectul, culorile, mirosurile, atmosfera", wrong: ["Ce s-a întâmplat acolo", "Cine locuiește acolo", "Câți bani costă"] },
+        { q: "Ce figuri de stil sunt frecvente în textul descriptiv?", correct: "Comparații și personificări", wrong: ["Numai cifre și date", "Numai dialogue", "Numai propoziții exclamative"] },
+        { q: "Care propoziție face parte dintr-un text descriptiv?", correct: "Grădina era plină de flori colorate și parfumate.", wrong: ["Ana a alergat spre casă.", "Cum te numești?", "Mâine voi merge la bunici."] },
+        { q: "Cum ar începe un text descriptiv despre iarnă?", correct: "Iarna, totul este alb și pur, copacii sunt acoperiți de zăpadă.", wrong: ["Într-o zi de iarnă, Ion a plecat la schi.", "'Vine iarna!' a spus mama.", "Iarna are 3 luni: decembrie, ianuarie, februarie."] },
+        { q: "Ce înseamnă să 'descrii' un obiect?", correct: "Să spui cum arată, ce culoare are, ce dimensiuni are", wrong: ["Să explici cum se folosește", "Să povestești istoricul lui", "Să calculezi prețul lui"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(items, rng);
+        q.push(createMCQ("vocabular_tematic_c3", "textul_descriptiv_c3",
+          data.q, data.correct, data.wrong, rng));
+      }
+      return q;
+    },
+  },
 };
