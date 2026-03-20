@@ -78,19 +78,142 @@ const VERB_NEPERSONALE = [
   { infinitiv: "a bea", gerunziu: "bănd", participiu: "băut" },
 ];
 
-const VERB_TIMPURI_LITERARE = [
-  { verb: "cânta", prezent: "cântă", trecut_simplu: "cântă", trecut_compus: "a cântat", perfectul_simplu: "cântase", plus_perf: "a cântat" },
-  { verb: "merge", prezent: "merge", trecut_simplu: "mergea", trecut_compus: "a mers", perfectul_simplu: "mersese", plus_perf: "a mers" },
-  { verb: "citi", prezent: "citește", trecut_simplu: "citea", trecut_compus: "a citit", perfectul_simplu: "citise", plus_perf: "a citit" },
-  { verb: "scrie", prezent: "scrie", trecut_simplu: "scria", trecut_compus: "a scris", perfectul_simplu: "scrisese", plus_perf: "a scris" },
+// Each entry: forme for el/ea (3rd person singular) unless noted
+// imperfect = imperfect (el/ea), perf_simplu = perfect simplu (el/ea), mai_mult = mai mult ca perfect (el/ea)
+const VERB_TIMPURI_LITERARE_EXT = [
+  {
+    verb: "a cânta",
+    forme: [
+      { forma: "cântai", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "cântam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "cântasem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "cântase", timp: "Mai mult ca perfect (el)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "cântă", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+    ],
+  },
+  {
+    verb: "a dansa",
+    forme: [
+      { forma: "dansai", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "dansam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "dansasem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "dansa", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "dansase", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a pleca",
+    forme: [
+      { forma: "plecai", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "plecam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "plecasem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "pleca", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "plecase", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a veni",
+    forme: [
+      { forma: "venii", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "veneam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "venisem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "venea", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "venise", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a vedea",
+    forme: [
+      { forma: "văzui", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "vedeam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "văzusem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "vedea", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "văzuse", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a afla",
+    forme: [
+      { forma: "aflai", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "aflam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "aflasem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "afla", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "aflase", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a ajunge",
+    forme: [
+      { forma: "ajunsei", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "ajungeam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "ajunsesem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "ajungea", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "ajunsese", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a citi",
+    forme: [
+      { forma: "citii", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "citeam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "citisem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "citea", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "citise", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a scrie",
+    forme: [
+      { forma: "scrisei", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "scriam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "scrisesem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "scria", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "scrisese", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
+  {
+    verb: "a merge",
+    forme: [
+      { forma: "mersei", timp: "Perfect simplu (eu)", wrongTimps: ["Imperfect", "Mai mult ca perfect", "Prezent"] },
+      { forma: "mergeam", timp: "Imperfect (eu)", wrongTimps: ["Perfect simplu", "Mai mult ca perfect", "Prezent"] },
+      { forma: "mersesem", timp: "Mai mult ca perfect (eu)", wrongTimps: ["Perfect simplu", "Imperfect", "Prezent"] },
+      { forma: "mergea", timp: "Imperfect (el)", wrongTimps: ["Perfect simplu", "Prezent", "Mai mult ca perfect"] },
+      { forma: "mersese", timp: "Mai mult ca perfect (el)", wrongTimps: ["Imperfect", "Perfect simplu", "Prezent"] },
+    ],
+  },
 ];
 
+// Flattened pool of all (forma, timp, wrongTimps) entries
+const VERB_TIMPURI_LITERARE = VERB_TIMPURI_LITERARE_EXT.flatMap(v =>
+  v.forme.map(f => ({ verb: v.verb, forma: f.forma, timp: f.timp, wrongTimps: f.wrongTimps }))
+);
+
 const VERB_DIATEZE = [
-  { prop: "Fiul citește cartea.", diateza: "Activă", pasiva: "Cartea este citită de fiu" },
-  { prop: "Construiesc o casă.", diateza: "Activă", pasiva: "O casă este construită" },
-  { prop: "Maria vinde bicicletă.", diateza: "Activă", pasiva: "Bicicletă este vândută de Maria" },
-  { prop: "Profesorul explică lecția.", diateza: "Activă", pasiva: "Lecția este explicată de profesor" },
-  { prop: "Elevul scrie o eseu.", diateza: "Activă", pasiva: "O eseu este scrisă de elev" },
+  // Activ
+  { prop: "Fiul citește cartea.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Construiesc o casă.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Maria scrie o scrisoare.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Profesorul explică lecția.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Ion citește ziarul.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Copilul mănâncă mere.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Mama pregătește masa.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Elevii rezolvă problema.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Tatăl repară mașina.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  { prop: "Grădinarul udă florile.", diateza: "Activă", wrongDiateze: ["Pasivă", "Reflexivă"] },
+  // Pasiv
+  { prop: "Cartea este citită de elev.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  { prop: "Scrisoarea a fost scrisă de Maria.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  { prop: "Lecția este explicată de profesor.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  { prop: "Casa a fost construită de muncitori.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  { prop: "Mașina este reparată de mecanic.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  { prop: "Tema a fost corectată de învățătoare.", diateza: "Pasivă", wrongDiateze: ["Activă", "Reflexivă"] },
+  // Reflexiv
+  { prop: "El se spală pe mâini.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
+  { prop: "Copiii se joacă în parc.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
+  { prop: "Maria se pregătește de plecare.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
+  { prop: "Ne îmbrăcăm repede.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
+  { prop: "El se uită la televizor.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
+  { prop: "Copilul se trezește devreme.", diateza: "Reflexivă", wrongDiateze: ["Activă", "Pasivă"] },
 ];
 
 const VERB_NEREGULATE = [
@@ -105,51 +228,166 @@ const VERB_NEREGULATE = [
 ];
 
 const VERB_ACORD = [
-  { prop: "Fiul și fiica citesc.", subiect: "Fiul și fiica", forma_verb: "citesc", acord: "plural" },
-  { prop: "Cartea și stiloul sunt noi.", subiect: "Cartea și stiloul", forma_verb: "sunt", acord: "plural" },
-  { prop: "Profesorul vorbește.", subiect: "Profesorul", forma_verb: "vorbește", acord: "singular" },
-  { prop: "Elevii studiază matematică.", subiect: "Elevii", forma_verb: "studiază", acord: "plural" },
-  { prop: "Eu și tu mergem la grădină.", subiect: "Eu și tu", forma_verb: "mergem", acord: "plural (pers 1)" },
+  // Singular
+  { prop: "Profesorul vorbește.", subiect: "Profesorul", forma_verb: "vorbește", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Copilul doarme.", subiect: "Copilul", forma_verb: "doarme", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Câinele latră.", subiect: "Câinele", forma_verb: "latră", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Mama gătește.", subiect: "Mama", forma_verb: "gătește", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Băiatul aleargă.", subiect: "Băiatul", forma_verb: "aleargă", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  // Plural
+  { prop: "Fiul și fiica citesc.", subiect: "Fiul și fiica", forma_verb: "citesc", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Cartea și stiloul sunt noi.", subiect: "Cartea și stiloul", forma_verb: "sunt", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Elevii studiază matematică.", subiect: "Elevii", forma_verb: "studiază", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Ion și Maria merg la școală.", subiect: "Ion și Maria", forma_verb: "merg", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Copiii și părinții pleacă.", subiect: "Copiii și părinții", forma_verb: "pleacă", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Florile și ierburile cresc.", subiect: "Florile și ierburile", forma_verb: "cresc", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  // Colective
+  { prop: "Mulțimea aplaudă.", subiect: "Mulțimea", forma_verb: "aplaudă", acord: "singular (colectiv)", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Clasa merge la muzeu.", subiect: "Clasa", forma_verb: "merge", acord: "singular (colectiv)", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  // Ordine inversă
+  { prop: "Pleacă copiii din clasă.", subiect: "copiii", forma_verb: "pleacă", acord: "plural", wrongAcord: ["singular", "plural (pers 1)", "plural (pers 2)"] },
+  { prop: "Vine trenul.", subiect: "trenul", forma_verb: "vine", acord: "singular", wrongAcord: ["plural", "plural (pers 1)", "plural (pers 2)"] },
+  // Plural cu persoane
+  { prop: "Eu și tu mergem la grădină.", subiect: "Eu și tu", forma_verb: "mergem", acord: "plural (pers 1)", wrongAcord: ["singular", "plural", "plural (pers 2)"] },
+  { prop: "Voi cântați frumos.", subiect: "Voi", forma_verb: "cântați", acord: "plural (pers 2)", wrongAcord: ["singular", "plural", "plural (pers 1)"] },
+  { prop: "Noi jucăm fotbal.", subiect: "Noi", forma_verb: "jucăm", acord: "plural (pers 1)", wrongAcord: ["singular", "plural", "plural (pers 2)"] },
+  { prop: "Eu și el mergem acasă.", subiect: "Eu și el", forma_verb: "mergem", acord: "plural (pers 1)", wrongAcord: ["singular", "plural", "plural (pers 2)"] },
+  { prop: "Tu și ea vorbiți mult.", subiect: "Tu și ea", forma_verb: "vorbiți", acord: "plural (pers 2)", wrongAcord: ["singular", "plural", "plural (pers 1)"] },
 ];
+
+// All adverb type names — used for dynamic wrong options
+const ADVERB_TIPURI_POOL = ["mod", "timp", "loc", "cantitate", "afirmație", "negație", "îndoială"];
 
 const ADVERB_TIPURI = [
-  { adverb: "rapid", tip: "mod", exemplu: "Copilul alergă rapid" },
-  { adverb: "azi", tip: "timp", exemplu: "Azi este o zi frumoasă" },
-  { adverb: "sus", tip: "loc", exemplu: "Pasul sus pe deal" },
-  { adverb: "mult", tip: "cantitate", exemplu: "Beau mult apă" },
+  // Mod
+  { adverb: "rapid", tip: "mod", exemplu: "Copilul aleargă rapid" },
   { adverb: "poate", tip: "mod", exemplu: "Poate vei veni mâine" },
+  { adverb: "bine", tip: "mod", exemplu: "El vorbește bine" },
+  { adverb: "frumos", tip: "mod", exemplu: "Cântă frumos" },
+  { adverb: "repede", tip: "mod", exemplu: "Aleargă repede spre casă" },
+  { adverb: "ușor", tip: "mod", exemplu: "Rezolvă ușor problemele" },
+  { adverb: "greu", tip: "mod", exemplu: "Merge greu pe zăpadă" },
+  // Timp
+  { adverb: "azi", tip: "timp", exemplu: "Azi este o zi frumoasă" },
   { adverb: "ieri", tip: "timp", exemplu: "Ieri am jucat fotbal" },
+  { adverb: "mâine", tip: "timp", exemplu: "Mâine plecăm la mare" },
+  { adverb: "acum", tip: "timp", exemplu: "Acum facem temele" },
+  { adverb: "mereu", tip: "timp", exemplu: "El este mereu punctual" },
+  // Loc
+  { adverb: "sus", tip: "loc", exemplu: "Pasărea stă sus pe deal" },
   { adverb: "acolo", tip: "loc", exemplu: "Plec acolo îndată" },
-  { adverb: "puțin", tip: "cantitate", exemplu: "Speak puțin mai tare" },
+  { adverb: "aici", tip: "loc", exemplu: "Stai aici lângă mine" },
+  { adverb: "jos", tip: "loc", exemplu: "Mingea a căzut jos" },
+  { adverb: "undeva", tip: "loc", exemplu: "Trebuie să fie undeva prin casă" },
+  // Cantitate
+  { adverb: "mult", tip: "cantitate", exemplu: "Beau mult apă" },
+  { adverb: "puțin", tip: "cantitate", exemplu: "Mănâncă puțin dimineața" },
+  { adverb: "destul", tip: "cantitate", exemplu: "Am dormit destul azi" },
+  { adverb: "prea", tip: "cantitate", exemplu: "Este prea cald afară" },
+  // Afirmație / negație / îndoială
+  { adverb: "da", tip: "afirmație", exemplu: "Da, merg la școală" },
+  { adverb: "nu", tip: "negație", exemplu: "Nu pot veni astăzi" },
+  { adverb: "poate", tip: "îndoială", exemplu: "Poate vine și el" },
 ];
 
+// Cazuri pool for dynamic wrong options
+const CAZ_POOL = ["Acuzativ", "Genitiv", "Dativ", "Instrumental", "Nominativ"];
+
 const PREPOSITION_CAZURI = [
-  { prep: "la", caz: "Dativ/Acuzativ", exemplu: "Merg la grădină" },
-  { prep: "din", caz: "Genitiv", exemplu: "Cartea din dulap" },
-  { prep: "cu", caz: "Instrumental", exemplu: "Mânânc cu furculița" },
-  { prep: "în", caz: "Acuzativ (locul)", exemplu: "Entru în casă" },
+  // Cu Acuzativul
+  { prep: "la", caz: "Acuzativ", exemplu: "Merg la grădină" },
+  { prep: "în", caz: "Acuzativ", exemplu: "Intru în casă" },
   { prep: "pe", caz: "Acuzativ", exemplu: "Pun cartea pe masă" },
-  { prep: "sub", caz: "Acuzativ (locul)", exemplu: "Mingea sub masă" },
-  { prep: "lângă", caz: "Acuzativ", exemplu: "Stiu lângă geam" },
-  { prep: "între", caz: "Acuzativ", exemplu: "Casă între copaci" },
+  { prep: "sub", caz: "Acuzativ", exemplu: "Mingea este sub masă" },
+  { prep: "lângă", caz: "Acuzativ", exemplu: "Stau lângă geam" },
+  { prep: "între", caz: "Acuzativ", exemplu: "Casa între copaci" },
+  { prep: "pentru", caz: "Acuzativ", exemplu: "Cumpăr ceva pentru tine" },
+  { prep: "prin", caz: "Acuzativ", exemplu: "Trecem prin pădure" },
+  { prep: "spre", caz: "Acuzativ", exemplu: "Mergem spre casă" },
+  { prep: "contra", caz: "Acuzativ", exemplu: "Luptă contra vântului" },
+  // Cu Genitivul
+  { prep: "din", caz: "Genitiv", exemplu: "Cartea din dulap" },
+  { prep: "asupra", caz: "Genitiv", exemplu: "Influența asupra elevilor" },
+  { prep: "împotriva", caz: "Genitiv", exemplu: "Luptă împotriva răului" },
+  { prep: "deasupra", caz: "Genitiv", exemplu: "Norul deasupra muntelui" },
+  { prep: "înaintea", caz: "Genitiv", exemplu: "Pleacă înaintea mea" },
+  // Cu Dativul
+  { prep: "datorită", caz: "Dativ", exemplu: "Datorită lui, am reușit" },
+  { prep: "grație", caz: "Dativ", exemplu: "Grație ajutorului său" },
+  { prep: "conform", caz: "Dativ", exemplu: "Conform regulilor școlii" },
+  { prep: "potrivit", caz: "Dativ", exemplu: "Potrivit planului nostru" },
+  // Cu Instrumentalul
+  { prep: "cu", caz: "Instrumental", exemplu: "Mănânc cu furculița" },
+];
+
+// Conjunction type pool for dynamic wrong options
+const CONJ_TIP_POOL = [
+  "coordonatoare (aditivă)",
+  "coordonatoare (disjunctivă)",
+  "coordonatoare (adversativă)",
+  "coordonatoare (conclusivă)",
+  "subordonatoare",
+  "subordonatoare (cauzală)",
+  "subordonatoare (condițională)",
+  "subordonatoare (concesivă)",
 ];
 
 const CONJUNCTII = [
+  // Coordonatoare aditive
   { conj: "și", tip: "coordonatoare (aditivă)", exemplu: "Mărul și para sunt fructe" },
+  { conj: "nici", tip: "coordonatoare (aditivă)", exemplu: "Nici eu, nici tu nu am greșit" },
+  // Coordonatoare disjunctive
   { conj: "sau", tip: "coordonatoare (disjunctivă)", exemplu: "Vin sau mă întorc" },
-  { conj: "dar", tip: "coordonatoare (adversativă)", exemplu: "Plui, dar merg la grădină" },
+  { conj: "fie", tip: "coordonatoare (disjunctivă)", exemplu: "Fie vii, fie pleci" },
+  { conj: "ori", tip: "coordonatoare (disjunctivă)", exemplu: "Ori mănânci, ori pleci" },
+  // Coordonatoare adversative
+  { conj: "dar", tip: "coordonatoare (adversativă)", exemplu: "Plouă, dar merg la grădină" },
+  { conj: "iar", tip: "coordonatoare (adversativă)", exemplu: "El citește, iar ea scrie" },
+  { conj: "ci", tip: "coordonatoare (adversativă)", exemplu: "Nu eu, ci tu ai greșit" },
+  // Coordonatoare conclusive
+  { conj: "deci", tip: "coordonatoare (conclusivă)", exemplu: "Plouă, deci luăm umbrela" },
+  { conj: "așadar", tip: "coordonatoare (conclusivă)", exemplu: "N-a venit, așadar am plecat" },
+  // Subordonatoare
   { conj: "că", tip: "subordonatoare", exemplu: "Spun că sunt obosit" },
-  { conj: "dacă", tip: "subordonatoare", exemplu: "Dacă plouă, nu merg" },
+  { conj: "dacă", tip: "subordonatoare (condițională)", exemplu: "Dacă plouă, nu merg" },
   { conj: "pentru că", tip: "subordonatoare (cauzală)", exemplu: "Nu vin pentru că sunt ocupat" },
+  { conj: "fiindcă", tip: "subordonatoare (cauzală)", exemplu: "Nu iese fiindcă plouă" },
+  { conj: "deoarece", tip: "subordonatoare (cauzală)", exemplu: "A lipsit deoarece era bolnav" },
+  { conj: "deși", tip: "subordonatoare (concesivă)", exemplu: "A venit deși era obosit" },
+  { conj: "încât", tip: "subordonatoare", exemplu: "A alergat atât de mult încât a obosit" },
+];
+
+// Interjection type pool for dynamic wrong options
+const INTERJ_TIP_POOL = [
+  "bucurie", "surpriză", "îndemnare", "dispreț", "durere",
+  "atragere atenție", "aprobare", "dezaprobare", "onomatopee", "teamă",
 ];
 
 const INTERJECTII = [
-  { interj: "aia!", tip: "bucurie", exemplu: "Aia! Am găsit cheia!" },
-  { interj: "ah!", tip: "surpriză", exemplu: "Ah! Nu mă așteptam!" },
-  { interj: "hai!", tip: "îndemnare", exemplu: "Hai! Mergem la joacă!" },
-  { interj: "bah!", tip: "dispret", exemplu: "Bah! Nu conteaza!" },
+  // Bucurie / aprobare
+  { interj: "bravo!", tip: "aprobare", exemplu: "Bravo! Ai luat nota 10!" },
+  { interj: "ura!", tip: "bucurie", exemplu: "Ura! Am câștigat meciul!" },
+  { interj: "ah!", tip: "surpriză", exemplu: "Ah! Nu mă așteptam la asta!" },
   { interj: "vai!", tip: "durere", exemplu: "Vai! Mă doare capul!" },
-  { interj: "psst!", tip: "atragere atenție", exemplu: "Psst! Vino încoace!" },
+  { interj: "of!", tip: "durere", exemplu: "Of! Iar a venit nota mică!" },
+  // Îndemnare / imperativ
+  { interj: "hai!", tip: "îndemnare", exemplu: "Hai! Mergem la joacă!" },
+  { interj: "haide!", tip: "îndemnare", exemplu: "Haide! Grăbește-te!" },
+  { interj: "marș!", tip: "îndemnare", exemplu: "Marș! Ieșiți afară imediat!" },
+  { interj: "stop!", tip: "îndemnare", exemplu: "Stop! Nu mai mergeți!" },
+  // Atragere atenție
+  { interj: "psst!", tip: "atragere atenție", exemplu: "Psst! Vino încoace repede!" },
+  { interj: "atenție!", tip: "atragere atenție", exemplu: "Atenție! Vine mașina!" },
+  // Dezaprobare / dispreț
+  { interj: "bah!", tip: "dispreț", exemplu: "Bah! Nu-mi place deloc!" },
+  { interj: "pfui!", tip: "dezaprobare", exemplu: "Pfui! Ce miros urât!" },
+  // Teamă / neplăcere
+  { interj: "vai!", tip: "teamă", exemplu: "Vai! Mi-e frică!" },
+  // Onomatopee
+  { interj: "poc!", tip: "onomatopee", exemplu: "Poc! A căzut paharul!" },
+  { interj: "buf!", tip: "onomatopee", exemplu: "Buf! S-a trântit ușa!" },
+  { interj: "trosc!", tip: "onomatopee", exemplu: "Trosc! S-a rupt creionul!" },
+  { interj: "pleosc!", tip: "onomatopee", exemplu: "Pleosc! A căzut în baltă!" },
 ];
 
 // ─── GENERATOR FUNCTIONS ─────────────────────────────────────────────────
@@ -216,19 +454,16 @@ export const C6P2_Generators = {
     const subtopic = "timpuri_literare_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
-    const timp_options = ["trecut_simplu", "trecut_compus", "perfectul_simplu", "plus_perf"] as const;
+    // MCQ questions (30) — use expanded flat pool with per-entry wrong options
     for (let i = 0; i < 30; i++) {
       const item = pick(VERB_TIMPURI_LITERARE, rng);
-      const timp = pick(timp_options as unknown as string[], rng) as typeof timp_options[number];
-      const correct = item[timp] as string;
-      const timpName = timp === "trecut_simplu" ? "Trecut simplu" : timp === "trecut_compus" ? "Trecut compus" : timp === "perfectul_simplu" ? "Perfectul simplu" : "Plusquamperfectul";
+      const wrongOpts = shuffle(item.wrongTimps.filter(w => w !== item.timp), rng).slice(0, 3);
       const q = createMCQ(
         topic,
         subtopic,
-        `În timp literar, forma pentru "${item.verb}" este "${correct}". Ce timp este acesta?`,
-        timpName,
-        ["Prezent", "Viitor", "Condițional"].filter(x => x !== timpName),
+        `Verbul "${item.verb}": forma "${item.forma}" este la:`,
+        item.timp,
+        wrongOpts,
         rng
       );
       questions.push(q);
@@ -261,15 +496,16 @@ export const C6P2_Generators = {
     const subtopic = "diateze_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — use per-entry wrong options
     for (let i = 0; i < 30; i++) {
       const item = pick(VERB_DIATEZE, rng);
+      const wrongOpts = shuffle(item.wrongDiateze.filter(w => w !== item.diateza), rng).slice(0, 3);
       const q = createMCQ(
         topic,
         subtopic,
         `Propoziția "${item.prop}" este în diateză:`,
         item.diateza,
-        ["Pasivă", "Medie", "Reflexivă"].filter(x => x !== item.diateza),
+        wrongOpts,
         rng
       );
       questions.push(q);
@@ -346,15 +582,16 @@ export const C6P2_Generators = {
     const subtopic = "acord_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — use per-entry wrong options
     for (let i = 0; i < 30; i++) {
       const item = pick(VERB_ACORD, rng);
+      const wrongOpts = shuffle(item.wrongAcord.filter(w => w !== item.acord), rng).slice(0, 3);
       const q = createMCQ(
         topic,
         subtopic,
         `În propoziția "${item.prop}", acordul subiect-verb este în:`,
         item.acord,
-        ["singular", "persoana 2", "neutru"].filter(x => x !== item.acord),
+        wrongOpts,
         rng
       );
       questions.push(q);
@@ -387,15 +624,16 @@ export const C6P2_Generators = {
     const subtopic = "adverb_tipuri_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — dynamic wrong options from ADVERB_TIPURI_POOL
     for (let i = 0; i < 30; i++) {
       const item = pick(ADVERB_TIPURI, rng);
+      const wrongPool = shuffle(ADVERB_TIPURI_POOL.filter(t => t !== item.tip), rng);
       const q = createMCQ(
         topic,
         subtopic,
-        `Adverbul "${item.adverb}" din "${item.exemplu}" este de:`,
+        `Adverbul "${item.adverb}" din "${item.exemplu}" este adverb de:`,
         item.tip,
-        ["grad", "frecvență", "certitudine"].filter(x => x !== item.tip),
+        wrongPool.slice(0, 3),
         rng
       );
       questions.push(q);
@@ -428,15 +666,16 @@ export const C6P2_Generators = {
     const subtopic = "prepozitie_cazuri_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — dynamic wrong options from CAZ_POOL
     for (let i = 0; i < 30; i++) {
       const item = pick(PREPOSITION_CAZURI, rng);
+      const wrongPool = shuffle(CAZ_POOL.filter(c => c !== item.caz), rng);
       const q = createMCQ(
         topic,
         subtopic,
-        `Prepoziția "${item.prep}" se folosește cu:`,
+        `Prepoziția "${item.prep}" (ex: "${item.exemplu}") se folosește cu cazul:`,
         item.caz,
-        ["Nominativ", "Vocativ", "Ablativ"].filter(x => !item.caz.includes(x)),
+        wrongPool.slice(0, 3),
         rng
       );
       questions.push(q);

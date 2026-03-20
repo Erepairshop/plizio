@@ -166,12 +166,28 @@ const PROPOZITIE_DEZV = [
 ];
 
 const SINONIME_C3 = [
-  { word: "a vorbi", syn: "a spune" }, { word: "frumos", syn: "drăguț" },
-  { word: "repede", syn: "iute" }, { word: "a merge", syn: "a umbla" },
-  { word: "bucuros", syn: "fericit" }, { word: "a privi", syn: "a se uita" },
-  { word: "a ajuta", syn: "a sprijini" }, { word: "mare", syn: "uriaș" },
-  { word: "tristă", syn: "melancolică" }, { word: "a termina", syn: "a sfârși" },
-  { word: "a începe", syn: "a porni" }, { word: "harnic", syn: "silitor" },
+  { word: "a vorbi", syn: "a spune" },
+  { word: "frumos", syn: "drăguț" },
+  { word: "repede", syn: "iute" },
+  { word: "a merge", syn: "a umbla" },
+  { word: "bucuros", syn: "fericit" },
+  { word: "a privi", syn: "a se uita" },
+  { word: "a ajuta", syn: "a sprijini" },
+  { word: "mare", syn: "uriaș" },
+  { word: "tristă", syn: "melancolică" },
+  { word: "a termina", syn: "a sfârși" },
+  { word: "a începe", syn: "a porni" },
+  { word: "harnic", syn: "silitor" },
+  { word: "vechi", syn: "bătrân" },
+  { word: "bogat", syn: "avut" },
+  { word: "sărac", syn: "nevoiaș" },
+  { word: "curajos", syn: "viteaz" },
+  { word: "deștept", syn: "inteligent" },
+  { word: "a fugi", syn: "a alerga" },
+  { word: "a plânge", syn: "a suspina" },
+  { word: "a construi", syn: "a clădi" },
+  { word: "a coborî", syn: "a descinde" },
+  { word: "limpede", syn: "clar" },
 ];
 
 const ANTONIME_C3 = [
@@ -186,11 +202,17 @@ const ANTONIME_C3 = [
 const FAMILIA_CUVIN = [
   { radacina: "floare", familie: ["florar", "înflorit", "florărie", "floricică", "floral"] },
   { radacina: "casă", familie: ["căsuță", "casnic", "acasă", "căsoaie", "casier"] },
-  { radacina: "copac", familie: ["copăcel", "împăduri", "pădurar", "pădure", "copăciș"] },
-  { radacina: "apă", familie: ["apă", "apos", "adăpa", "băltoacă", "aducere apă"] },
+  { radacina: "copac", familie: ["copăcel", "copăciș", "încopăcit", "copaci", "copăcel"] },
+  { radacina: "apă", familie: ["apos", "adăpa", "apeduct", "apoasă", "băltoacă"] },
   { radacina: "carte", familie: ["cărticică", "cărturar", "librărie", "cărți", "livresc"] },
-  { radacina: "soare", familie: ["însorit", "solar", "răsărit", "soricică", "însorire"] },
-  { radacina: "muncă", familie: ["muncitor", "a munci", "muncitoresc", "harnic", "laboriozitate"] },
+  { radacina: "soare", familie: ["însorit", "solar", "însorire", "sorelui", "soricel"] },
+  { radacina: "muncă", familie: ["muncitor", "a munci", "muncitoresc", "muncitorime", "muncit"] },
+  { radacina: "drum", familie: ["drumeag", "drumeț", "drumeție", "drumuri", "îndruma"] },
+  { radacina: "pădure", familie: ["pădurar", "pădurean", "pădureț", "împăduri", "pădurică"] },
+  { radacina: "cânt", familie: ["cântăreț", "cântec", "cânta", "cântăreață", "cântare"] },
+  { radacina: "lumină", familie: ["luminoasă", "luminiță", "luminos", "iluminat", "luminare"] },
+  { radacina: "joc", familie: ["jucărie", "jucăuș", "juca", "jucător", "jucăuș"] },
+  { radacina: "grădină", familie: ["grădinar", "grădinărit", "grădinuță", "grădinăriță", "grădinăresc"] },
 ];
 
 const ORTOGRAFIE_C3 = [

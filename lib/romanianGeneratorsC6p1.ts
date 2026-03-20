@@ -209,27 +209,49 @@ const PRONUME_REFLEXIVE = [
 ];
 
 const PRONUME_INTEROGATIVE = [
-  { intreb: "cine?", raspuns: "persoană" },
-  { intreb: "ce?", raspuns: "lucru, idee" },
-  { intreb: "care?", raspuns: "alăturare la substantiv" },
+  { intreb: "cine?", raspuns: "persoană (nominativ)" },
+  { intreb: "ce?", raspuns: "lucru sau idee" },
+  { intreb: "care?", raspuns: "alegere dintr-un grup" },
   { intreb: "cui?", raspuns: "persoană (dativ)" },
   { intreb: "pe cine?", raspuns: "persoană (acuzativ)" },
+  { intreb: "al cui?", raspuns: "posesie (genitiv)" },
+  { intreb: "cât?", raspuns: "cantitate (masculin singular)" },
+  { intreb: "câtă?", raspuns: "cantitate (feminin singular)" },
+  { intreb: "câți?", raspuns: "cantitate (masculin plural)" },
+  { intreb: "câte?", raspuns: "cantitate (feminin plural)" },
+  { intreb: "ce fel de?", raspuns: "calitate sau caracteristică" },
 ];
 
 const PRONUME_NEHOTARATE = [
   { pron: "cineva", exemplu: "Cineva a sunat la ușă" },
-  { pron: "ceva", exemplu: "Ceva pe acolo nu e bine" },
-  { pron: "cine-va", exemplu: "Cine-va ți-a trimis mesaj" },
-  { pron: "oricine", exemplu: "Oricine poate veni" },
-  { pron: "orice", exemplu: "Orice este posibil" },
-  { pron: "fiecare", exemplu: "Fiecare are propria parere" },
+  { pron: "ceva", exemplu: "Ceva nu era în regulă acolo" },
+  { pron: "oricine", exemplu: "Oricine poate veni la petrecere" },
+  { pron: "orice", exemplu: "Orice este posibil dacă muncești" },
+  { pron: "fiecare", exemplu: "Fiecare are propria părere" },
+  { pron: "altcineva", exemplu: "Altcineva a rezolvat problema" },
+  { pron: "altceva", exemplu: "Vrei altceva de mâncare?" },
+  { pron: "unii", exemplu: "Unii preferă matematica" },
+  { pron: "unele", exemplu: "Unele flori înfloresc primăvara" },
+  { pron: "câțiva", exemplu: "Câțiva elevi au rămas după ore" },
+  { pron: "câteva", exemplu: "Câteva zile au trecut repede" },
+  { pron: "nimeni", exemplu: "Nimeni nu știa răspunsul corect" },
+  { pron: "nimic", exemplu: "Nimic nu s-a schimbat" },
+  { pron: "toți", exemplu: "Toți au aplaudat la final" },
+  { pron: "toate", exemplu: "Toate lucrurile au un rost" },
 ];
 
 const PRONUME_RELATIVE = [
-  { pron_rel: "care", antecedent: "substantiv/pronume" },
-  { pron_rel: "cine", antecedent: "persoană" },
-  { pron_rel: "ce", antecedent: "lucru/idee (neobișnuit)" },
-  { pron_rel: "cum", antecedent: "mod (cu semnificație relativ)" },
+  // pron_rel, antecedent (what it refers to), functie (syntactic role), exemplu (sentence)
+  { pron_rel: "care", antecedent: "substantiv/pronume", functie: "subiect", exemplu: "Omul care a venit este profesorul meu." },
+  { pron_rel: "care", antecedent: "substantiv/pronume", functie: "complement direct", exemplu: "Cartea pe care o citesc este interesantă." },
+  { pron_rel: "care", antecedent: "substantiv/pronume", functie: "complement indirect", exemplu: "Prietenul căruia i-am dat cartea a plecat." },
+  { pron_rel: "cine", antecedent: "persoană", functie: "subiect", exemplu: "Cine muncește va reuși." },
+  { pron_rel: "cine", antecedent: "persoană", functie: "complement direct", exemplu: "Pe cine ai chemat a venit." },
+  { pron_rel: "ce", antecedent: "lucru/idee", functie: "subiect", exemplu: "Ce spui tu este adevărat." },
+  { pron_rel: "ce", antecedent: "lucru/idee", functie: "complement direct", exemplu: "Fă ce îți spun." },
+  { pron_rel: "unde", antecedent: "loc", functie: "complement locativ", exemplu: "Casa unde locuiesc este mare." },
+  { pron_rel: "când", antecedent: "timp", functie: "complement de timp", exemplu: "Ziua când s-a născut a fost însorită." },
+  { pron_rel: "cum", antecedent: "mod", functie: "complement de mod", exemplu: "Modul cum a rezolvat problema a fost ingenios." },
 ];
 
 // ─── GENERATOR FUNCTIONS ─────────────────────────────────────────────────
@@ -298,12 +320,17 @@ export const C6P1_Generators = {
     // Build 30 unique MCQ questions by cycling through substantive functions
     for (let i = 0; i < 30; i++) {
       const item = pick(SUBSTANTIVE_FUNCTII, rng);
+      // Pull 3 wrong options dynamically from the full pool, excluding the correct answer
+      const wrongPool = shuffle(
+        SINTACTIC_FUNCTIONS_POOL.filter(f => f !== item.functie),
+        rng
+      ).slice(0, 3);
       const q = createMCQ(
         topic,
         subtopic,
         `În propoziția "${item.prop}", substantivul "${item.subst}" este:`,
         item.functie,
-        ["Predicat nominal", "Atribut", "Complement circumstanțial"].filter(x => x !== item.functie),
+        wrongPool,
         rng
       );
       questionPool.push(q);
@@ -344,8 +371,20 @@ export const C6P1_Generators = {
       // Vary the question type by rotating through different phrasings
       const questionType = Math.floor(rng() * 3);
       let question = "";
-      let correct = item.forma_lipsa;
-      let wrongOpts = ["gen indicat", "accent tonic", "varianta sinonimă"];
+      const correct = item.forma_lipsa;
+
+      // Wrong options specific to the defect type — the opposite form is the most plausible distractor
+      const wrongOpts = item.defect_type === "plural"
+        ? [
+            `singular (${item.subst} nu are singular)`,
+            "articol hotărât",
+            "vocativ",
+          ]
+        : [
+            `plural (${item.subst} nu are plural)`,
+            "articol hotărât",
+            "vocativ",
+          ];
 
       if (questionType === 0) {
         question = `Substantivul "${item.subst}" este defectiv și nu are:`;
@@ -355,8 +394,7 @@ export const C6P1_Generators = {
         question = `"${item.subst}" este exemplu de substantiv fără:`;
       }
 
-      wrongOpts = wrongOpts.filter(x => !item.forma_lipsa.includes(x));
-      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts.filter(x => x !== correct), rng);
       questionPool.push(q);
     }
 
@@ -669,24 +707,34 @@ export const C6P1_Generators = {
     // Build 30 unique MCQ questions by cycling through indefinite pronouns and varying question types
     for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_NEHOTARATE, rng);
-      const variantType = Math.floor(rng() * 3);
+      const variantType = Math.floor(rng() * 4);
 
       let question = "";
       let correct = "";
       let wrongOpts: string[] = [];
 
+      // Determine semantic category for this pronoun
+      const isNegative = item.pron === "nimeni" || item.pron === "nimic";
+      const semanticCategory = isNegative ? "negație totală" : "nedeterminare";
+
       if (variantType === 0) {
         question = `În propoziția "${item.exemplu}", pronumele nehotărat este:`;
         correct = item.pron;
-        wrongOpts = [`ceva-l`, `cineva-i`, `fiecine`].filter(x => x !== item.pron);
+        // Pull distractors from other pronouns in the pool
+        wrongOpts = shuffle(PRONUME_NEHOTARATE.filter(p => p.pron !== item.pron).map(p => p.pron), rng).slice(0, 3);
       } else if (variantType === 1) {
-        question = `Pronumele nehotărat din "${item.exemplu}" arată:`;
-        correct = `nedeterminare`;
-        wrongOpts = ["demonstrație", "interogație", "pozesiune"];
-      } else {
-        question = `Pronumele nehotărat "${item.pron}" se folosește în:`;
+        question = `Pronumele nehotărat din "${item.exemplu}" exprimă:`;
+        correct = semanticCategory;
+        wrongOpts = ["demonstrație", "interogație", "posesiune"].filter(x => x !== correct);
+      } else if (variantType === 2) {
+        question = `Pronumele nehotărat "${item.pron}" se folosește în propoziția:`;
         correct = item.exemplu;
-        wrongOpts = PRONUME_NEHOTARATE.filter(p => p.pron !== item.pron).map(p => p.exemplu).slice(0, 3);
+        wrongOpts = shuffle(PRONUME_NEHOTARATE.filter(p => p.pron !== item.pron).map(p => p.exemplu), rng).slice(0, 3);
+      } else {
+        // Is this pronoun negative or indefinite?
+        question = `Pronumele "${item.pron}" aparține categoriei:`;
+        correct = isNegative ? "pronume nehotărat negativ" : "pronume nehotărat pozitiv";
+        wrongOpts = ["pronume relativ", "pronume demonstrativ", "pronume personal"].filter(x => x !== correct);
       }
 
       const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
@@ -722,17 +770,47 @@ export const C6P1_Generators = {
     const subtopic = "relative_c6";
     const questions: CurriculumQuestion[] = [];
 
+    // All possible antecedents for dynamic wrong-option pool
+    const antecedentPool = [...new Set(PRONUME_RELATIVE.map(p => p.antecedent))];
+    // All possible syntactic functions
+    const functiePool = [...new Set(PRONUME_RELATIVE.map(p => p.functie))];
+    // All possible pronoun forms
+    const pronPool = [...new Set(PRONUME_RELATIVE.map(p => p.pron_rel))];
+
     // MCQ questions (30)
     for (let i = 0; i < 30; i++) {
       const item = pick(PRONUME_RELATIVE, rng);
-      const q = createMCQ(
-        topic,
-        subtopic,
-        `Pronumele relativ "${item.pron_rel}" se referă la:`,
-        item.antecedent,
-        [`modalitate`, `timp`, `cauză`].filter(x => x !== item.antecedent),
-        rng
-      );
+      const variantType = Math.floor(rng() * 4);
+
+      let question = "";
+      let correct = "";
+      let wrongOpts: string[] = [];
+
+      if (variantType === 0) {
+        // What does this relative pronoun refer to?
+        question = `Pronumele relativ "${item.pron_rel}" din propoziția "${item.exemplu}" se referă la:`;
+        correct = item.antecedent;
+        wrongOpts = shuffle(antecedentPool.filter(a => a !== correct), rng).slice(0, 3);
+      } else if (variantType === 1) {
+        // What is the syntactic function of the relative pronoun?
+        question = `În "${item.exemplu}", pronumele relativ "${item.pron_rel}" îndeplinește funcția de:`;
+        correct = item.functie;
+        wrongOpts = shuffle(functiePool.filter(f => f !== correct), rng).slice(0, 3);
+        if (wrongOpts.length < 3) wrongOpts.push(...["complement de mod", "atribut", "predicat"].filter(x => x !== correct));
+      } else if (variantType === 2) {
+        // Which relative pronoun fits this context?
+        question = `Care pronume relativ introduce fraza: "${item.exemplu}"?`;
+        correct = item.pron_rel;
+        wrongOpts = shuffle(pronPool.filter(p => p !== correct), rng).slice(0, 3);
+        if (wrongOpts.length < 3) wrongOpts.push(...["fiindcă", "deoarece", "totuși"].filter(x => x !== correct));
+      } else {
+        // What type of antecedent does this pronoun have?
+        question = `Pronumele relativ "${item.pron_rel}" introduce de obicei o propoziție subordonată cu antecedent de tip:`;
+        correct = item.antecedent;
+        wrongOpts = shuffle(antecedentPool.filter(a => a !== correct), rng).slice(0, 3);
+      }
+
+      const q = createMCQ(topic, subtopic, question, correct, wrongOpts, rng);
       questions.push(q);
     }
 
