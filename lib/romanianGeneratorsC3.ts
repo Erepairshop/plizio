@@ -377,7 +377,7 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
   verb_c3: {
     conjugare_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const persoane = [
         { label: "eu", key: "eu" as const },
         { label: "tu", key: "tu" as const },
@@ -395,16 +395,28 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
           .map(v => v[persoana.key])
           .filter((f, idx, arr) => arr.indexOf(f) === idx && f !== correct)
           .slice(0, 3);
-        q.push(createMCQ("verb_c3", "conjugare_c3",
+        mcqs.push(createMCQ("verb_c3", "conjugare_c3",
           `Care este forma corectă a verbului '${verb.inf}' pentru persoana '${persoana.label}'?`,
           correct, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a merge' pentru 'eu':", answer: ["merg"], hint: "Persoana I singular, prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a cânta' pentru 'tu':", answer: ["cantî", "cânți"], hint: "Persoana a II-a singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a citi' pentru 'el':", answer: ["citeste", "citește"], hint: "Persoana a III-a singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a juca' pentru 'noi':", answer: ["jucam", "jucăm"], hint: "Persoana I plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a lucra' pentru 'voi':", answer: ["lucrati", "lucrați"], hint: "Persoana a II-a plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a spune' pentru 'ei':", answer: ["spun"], hint: "Persoana a III-a plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a bea' pentru 'eu':", answer: ["beau"], hint: "Persoana I singular prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a dansa' pentru 'noi':", answer: ["dansam", "dansăm"], hint: "Persoana I plural prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a veni' pentru 'tu':", answer: ["vii"], hint: "Persoana a II-a singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "conjugare_c3", question: "Forma verbului 'a face' pentru 'el':", answer: ["face"], hint: "Persoana a III-a singular" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     timp_verb_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const timpuri: Array<"prezent" | "trecut" | "viitor"> = ["prezent", "trecut", "viitor"];
       for (let i = 0; i < 30; i++) {
         const data = pick(VERB_TIMP, rng);
@@ -415,7 +427,7 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
           const form = pick([data.prezent, data.trecut, data.viitor], rng);
           const timpLabel = form === data.prezent ? "prezent" : form === data.trecut ? "trecut" : "viitor";
           const wrong = ["prezent", "trecut", "viitor"].filter(t => t !== timpLabel);
-          q.push(createMCQ("verb_c3", "timp_verb_c3",
+          mcqs.push(createMCQ("verb_c3", "timp_verb_c3",
             `La ce TIMP este verbul: '${form}'?`,
             timpLabel, wrong, rng));
         } else {
@@ -424,17 +436,29 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
             .map(v => v[timp])
             .filter(f => f !== correct)
             .slice(0, 3);
-          q.push(createMCQ("verb_c3", "timp_verb_c3",
+          mcqs.push(createMCQ("verb_c3", "timp_verb_c3",
             `Care este forma de ${timp} a verbului '${data.verb}'?`,
             correct, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Prezentul verbului 'a cânta' pentru 'el':", answer: ["canta", "cântă"], hint: "Prezent, persoana a III-a" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Trecutul verbului 'a merge' pentru 'eu':", answer: ["am mers", "ammers"], hint: "Perfect compus cu 'am'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Viitorul verbului 'a juca' pentru 'noi':", answer: ["vom juca", "vomjuca"], hint: "Viitor apropiat cu 'vom'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Prezentul verbului 'a citi' pentru 'tu':", answer: ["citesti", "citești"], hint: "Prezent, persoana a II-a singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Trecutul verbului 'a lucra' pentru 'voi':", answer: ["ati lucrat", "ați lucrat"], hint: "Perfect compus cu 'ați'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Viitorul verbului 'a dansa' pentru 'ea':", answer: ["va dansa", "vadansa"], hint: "Viitor cu 'va'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Prezentul verbului 'a bea' pentru 'ei':", answer: ["beau"], hint: "Prezent, persoana a III-a plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Trecutul verbului 'a veni' pentru 'noi':", answer: ["am venit", "amvenit"], hint: "Perfect compus cu 'am'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Viitorul verbului 'a face' pentru 'tu':", answer: ["vei face", "veiface"], hint: "Viitor cu 'vei'" },
+        { type: "typing", topic: "verb_c3", subtopic: "timp_verb_c3", question: "Prezentul verbului 'a spune' pentru 'noi':", answer: ["spunem"], hint: "Prezent, persoana I plural" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     persoana_nr_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const items = [
         { form: "eu merg", persoana: "I singular" }, { form: "tu mergi", persoana: "a II-a singular" },
         { form: "el merge", persoana: "a III-a singular" }, { form: "noi mergem", persoana: "I plural" },
@@ -450,11 +474,23 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       for (let i = 0; i < 30; i++) {
         const data = pick(items, rng);
         const wrong = persoaneAll.filter(p => p !== data.persoana).slice(0, 3);
-        q.push(createMCQ("verb_c3", "persoana_nr_c3",
+        mcqs.push(createMCQ("verb_c3", "persoana_nr_c3",
           `La ce persoană și număr este verbul din: '${data.form}'?`,
           data.persoana, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'eu merg':", answer: ["I singular"], hint: "Eu = prima persoană singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'tu citești':", answer: ["a II-a singular"], hint: "Tu = a doua persoană singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'el cântă':", answer: ["a III-a singular"], hint: "El = a treia persoană singular" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'noi mergem':", answer: ["I plural"], hint: "Noi = prima persoană plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'voi citiți':", answer: ["a II-a plural"], hint: "Voi = a doua persoană plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Persoana și numărul pentru 'ei citesc':", answer: ["a III-a plural"], hint: "Ei = a treia persoană plural" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Forma pentru 'eu': verbul 'a juca':", answer: ["joc"], hint: "Persoana I singular prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Forma pentru 'noi': verbul 'a lucra':", answer: ["lucram", "lucrăm"], hint: "Persoana I plural prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Forma pentru 'voi': verbul 'a citi':", answer: ["cititi", "citiți"], hint: "Persoana a II-a plural prezent" },
+        { type: "typing", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "Forma pentru 'ea': verbul 'a face':", answer: ["face"], hint: "Persoana a III-a singular prezent" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
