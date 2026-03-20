@@ -1,0 +1,679 @@
+// lib/hungarianGenerators3.ts
+// Grade 3 (3. osztály) Hungarian generators
+// 18 subtopics covering verb tenses, noun declension, compound words, text comprehension, idioms, spelling, composition, sentence analysis
+// All in Hungarian, appropriate for 8-9 year olds
+
+import type { CurriculumMCQ } from "./curriculumTypes";
+
+type MagyarMCQ = CurriculumMCQ & { type: "mcq" };
+
+// ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
+
+function mulberry32(seed: number) {
+  return function() {
+    seed |= 0;
+    seed = (seed + 0x6D2B79F5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffle<T>(arr: T[], rng: () => number): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function pick<T>(arr: T[], rng: () => number): T {
+  return arr[Math.floor(rng() * arr.length)];
+}
+
+function createMCQ(topic: string, subtopic: string, question: string, correct: string, wrongOptions: string[]): CurriculumMCQ {
+  const seen = new Set<string>();
+  const unique: string[] = [];
+  for (const w of wrongOptions) {
+    if (w !== correct && !seen.has(w)) {
+      seen.add(w);
+      unique.push(w);
+    }
+  }
+  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  return {
+    type: "mcq",
+    topic,
+    subtopic,
+    question,
+    options: opts,
+    correct: opts.indexOf(correct)
+  };
+}
+
+// ─── DATA LISTS ─────────────────────────────────────────────────────────────
+
+const VERBS_TENSE = [
+  { inf: "írni", jelen: "ír", múlt: "írt", jövő: "fog írni" },
+  { inf: "futni", jelen: "fut", múlt: "futott", jövő: "fog futni" },
+  { inf: "olvasni", jelen: "olvas", múlt: "olvasott", jövő: "fog olvasni" },
+  { inf: "játszani", jelen: "játszik", múlt: "játszott", jövő: "fog játszani" },
+  { inf: "enni", jelen: "eszik", múlt: "evett", jövő: "fog enni" },
+  { inf: "inni", jelen: "iszik", múlt: "ivott", jövő: "fog inni" },
+  { inf: "szállni", jelen: "száll", múlt: "szállt", jövő: "fog szállni" },
+  { inf: "szállni", jelen: "száll", múlt: "szállt", jövő: "fog szállni" },
+  { inf: "kérdezni", jelen: "kérdez", múlt: "kérdezett", jövő: "fog kérdezni" },
+  { inf: "felelni", jelen: "felel", múlt: "felelt", jövő: "fog felelni" },
+];
+
+const NOUNS_DECLINE = [
+  { nom: "kutya", acc: "kutyát", dat: "kutyának", loc: "kutyánál", ins: "kutyával" },
+  { nom: "macska", acc: "macskát", dat: "macskának", loc: "macskánál", ins: "macskával" },
+  { nom: "ház", acc: "házat", dat: "háznak", loc: "házban", ins: "házzal" },
+  { nom: "szék", acc: "széket", dat: "széknek", loc: "székben", ins: "székkel" },
+  { nom: "asztal", acc: "asztalt", dat: "asztalnak", loc: "asztalon", ins: "asztallal" },
+  { nom: "könyv", acc: "könyvet", dat: "könyvnek", loc: "könyvben", ins: "könyvvel" },
+  { nom: "lány", acc: "lányt", dat: "lánynak", loc: "lánynál", ins: "lánnyal" },
+  { nom: "fiú", acc: "fiút", dat: "fiúnak", loc: "fiúnál", ins: "fiúval" },
+];
+
+const ADJECTIVES_DEGREE = [
+  { base: "szép", comp: "szebb", sup: "legszebb" },
+  { base: "nagy", comp: "nagyobb", sup: "legnagyobb" },
+  { base: "kicsi", comp: "kisebb", sup: "legkisebb" },
+  { base: "gyors", comp: "gyorsabb", sup: "leggyorsabb" },
+  { base: "lassú", comp: "lassabb", sup: "leglassabb" },
+  { base: "magas", comp: "magasabb", sup: "legmagasabb" },
+  { base: "hideg", comp: "hidegebb", sup: "leghidegebb" },
+  { base: "meleg", comp: "melegebb", sup: "legmelegebb" },
+];
+
+const COMPOUND_WORDS = [
+  { comp: "osztályterem", parts: ["osztály", "terem"] },
+  { comp: "szövegértés", parts: ["szöveg", "értés"] },
+  { comp: "mondatalkotás", parts: ["mondat", "alkotás"] },
+  { comp: "önálló", parts: ["ön", "álló"] },
+  { comp: "jól", parts: ["jó", "l"] },
+  { comp: "gondolkodás", parts: ["gondol", "kodás"] },
+  { comp: "közös", parts: ["közös"] },
+  { comp: "nappal", parts: ["nap", "pal"] },
+];
+
+const WORD_FAMILIES = [
+  { root: "fut", words: ["futás", "futó", "futball", "futott"] },
+  { root: "ír", words: ["írás", "író", "írott", "írt"] },
+  { root: "olvas", words: ["olvasás", "olvasó", "olvasott", "olvasott"] },
+  { root: "tanul", words: ["tanulás", "tanuló", "tanult", "tanult"] },
+];
+
+const IDIOMS = [
+  { idiom: "éhes mint a farkas", meaning: "nagyon éhes" },
+  { idiom: "tanácstalan", meaning: "nem tudja mit csináljon" },
+  { idiom: "kékre festette", meaning: "megtévesztette" },
+  { idiom: "összenőtt vele", meaning: "nagyon szereti" },
+  { idiom: "fejre áll", meaning: "nagyon boldog" },
+  { idiom: "szív alatt van", meaning: "zavaros a helyzet" },
+];
+
+const PROVERBS = [
+  { proverb: "Ki korán kel, aranyat lel", meaning: "a szorgalom hasznos" },
+  { proverb: "Sok kicsi sokra megy", meaning: "a kicsi dolgok összeadódnak" },
+  { proverb: "Nem minden arany, ami fénylik", meaning: "nem minden olyan jó, ahogy néz ki" },
+  { proverb: "Megvert kutya nyalogatja az ura kezét", meaning: "a gyenge beletörődik a sorsába" },
+];
+
+const SPELLING_TOGETHER = [
+  { word: "mindenhol", rule: "egybe" },
+  { word: "végig", rule: "egybe" },
+  { word: "össze", rule: "egybe" },
+  { word: "visszaír", rule: "egybe" },
+];
+
+const SPELLING_APART = [
+  { word: "más és más", rule: "külön" },
+  { word: "olyan és olyan", rule: "külön" },
+  { word: "így és úgy", rule: "külön" },
+];
+
+const COMPOSITION_NARRATIVE = [
+  { element: "kezdet", example: "Egyszer volt, hol nem volt..." },
+  { element: "cselekmény", example: "A hős kalandokat élt meg" },
+  { element: "fordulópont", example: "De akkor történt valami váratlan" },
+  { element: "befejezés", example: "Így véget ért a történet" },
+];
+
+const COMPOSITION_DESCRIPTION = [
+  { element: "külső", example: "Kék szemei voltak" },
+  { element: "személyiség", example: "Okos és kedves volt" },
+  { element: "viselkedés", example: "Mindig segítőkész" },
+  { element: "egyéb", example: "Szerette az előadásokat" },
+];
+
+const TEXT_COMPREH = [
+  { question: "Mi volt a fő esemény?", type: "lényeg" },
+  { question: "Mikor történt?", type: "idő" },
+  { question: "Hol történt?", type: "hely" },
+  { question: "Ki volt a főszereplő?", type: "személy" },
+  { question: "Miért történt ez?", type: "ok" },
+];
+
+const OBJECT_ROLE = [
+  { sentence: "Péter egy könyvet olvas.", target: "egy könyvet", role: "tárgy" },
+  { sentence: "A lány az asztalt tolta.", target: "az asztalt", role: "tárgy" },
+  { sentence: "Marinak egy ceruzája van.", target: "egy ceruzát", role: "tárgy" },
+];
+
+const ADVERBIAL_ROLE = [
+  { sentence: "A gyerek az iskolában játszik.", target: "az iskolában", role: "határozó (hely)" },
+  { sentence: "Reggel elindultunk.", target: "Reggel", role: "határozó (idő)" },
+  { sentence: "Gyorsan futottak.", target: "Gyorsan", role: "határozó (mód)" },
+];
+
+const ADJECTIVE_ROLE = [
+  { sentence: "A piros virág szép.", target: "piros", role: "jelző" },
+  { sentence: "Az okos fiú tanul.", target: "okos", role: "jelző" },
+  { sentence: "A nagy ház áll az úton.", target: "nagy", role: "jelző" },
+];
+
+// ─── GENERATOR FUNCTIONS ───────────────────────────────────────────────────
+
+export function generateTensePresent(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const verb = pick(VERBS_TENSE, rng);
+
+    if (type === 0) {
+      // Melyik a jelen idő?
+      const correct = verb.jelen;
+      const wrongs = shuffle(VERBS_TENSE, rng).slice(0, 3).map(v => v.múlt);
+      q.push(createMCQ("igeidok", "jelen", `"${verb.inf}" jelen ideje:`, correct, wrongs));
+    } else if (type === 1) {
+      // Melyik mondatban van jelen idő?
+      const correct = `Az ember ${verb.jelen} naponta.`;
+      const wrongs = [
+        `Az ember ${verb.múlt} tegnap.`,
+        `Az ember ${verb.jövő} majd.`,
+        "A macska nyávog naponta.",
+      ];
+      q.push(createMCQ("igeidok", "jelen", "Melyik mondatban van jelen idő?", correct, wrongs));
+    } else {
+      // Egészítsd ki!
+      const correct = verb.jelen;
+      const wrongs = shuffle(VERBS_TENSE, rng).slice(0, 3).map(v => v.múlt);
+      q.push(createMCQ("igeidok", "jelen", `A gyerek... a játékkal. (${verb.inf})`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateTensePast(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const verb = pick(VERBS_TENSE, rng);
+
+    if (type === 0) {
+      const correct = verb.múlt;
+      const wrongs = shuffle(VERBS_TENSE, rng).slice(0, 3).map(v => v.jelen);
+      q.push(createMCQ("igeidok", "mult", `"${verb.inf}" múlt ideje:`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = `Tegnap ${verb.múlt} órákon át.`;
+      const wrongs = [
+        `Tegnap ${verb.jelen} órákon át.`,
+        `Holnap ${verb.jövő} órákon át.`,
+        "Ma olvasok egy könyvet.",
+      ];
+      q.push(createMCQ("igeidok", "mult", "Melyik mondatban van múlt idő?", correct, wrongs));
+    } else {
+      const correct = verb.múlt;
+      const wrongs = shuffle(VERBS_TENSE, rng).slice(0, 3).map(v => v.jelen);
+      q.push(createMCQ("igeidok", "mult", `Az előző nap... a házat. (${verb.inf})`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateTenseFuture(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const verb = pick(VERBS_TENSE, rng);
+
+    if (type === 0) {
+      const correct = verb.jövő;
+      const wrongs = [verb.jelen, verb.múlt, "fogunk enni"];
+      q.push(createMCQ("igeidok", "jovo", `"${verb.inf}" jövő ideje:`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = `Holnap ${verb.jövő}.`;
+      const wrongs = [
+        `Ma ${verb.jelen}.`,
+        `Tegnap ${verb.múlt}.`,
+        "Holnap olvasni fogunk.",
+      ];
+      q.push(createMCQ("igeidok", "jovo", "Melyik mondatban van jövő idő?", correct, wrongs));
+    } else {
+      const correct = verb.jövő;
+      const wrongs = [verb.jelen, verb.múlt, "fog futni"];
+      q.push(createMCQ("igeidok", "jovo", `A gyerek... majd otthon. (${verb.inf})`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateNounDeclension(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const noun = pick(NOUNS_DECLINE, rng);
+
+    if (type === 0) {
+      const correct = noun.acc;
+      const wrongs = shuffle(NOUNS_DECLINE, rng).slice(0, 3).map(n => n.dat);
+      q.push(createMCQ("nevszok", "fonevragozas", `"${noun.nom}" tárgyrag (tárgyeset):`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = noun.loc;
+      const wrongs = shuffle(NOUNS_DECLINE, rng).slice(0, 3).map(n => n.ins);
+      q.push(createMCQ("nevszok", "fonevragozas", `"${noun.nom}" helyrag:`, correct, wrongs));
+    } else {
+      const correct = noun.ins;
+      const wrongs = shuffle(NOUNS_DECLINE, rng).slice(0, 3).map(n => n.dat);
+      q.push(createMCQ("nevszok", "fonevragozas", `"${noun.nom}" eszközrag:`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateAdjectiveDegree(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const adj = pick(ADJECTIVES_DEGREE, rng);
+
+    if (type === 0) {
+      const correct = adj.comp;
+      const wrongs = shuffle(ADJECTIVES_DEGREE, rng).slice(0, 3).map(a => a.sup);
+      q.push(createMCQ("nevszok", "melleknevfokozas", `"${adj.base}" középfoka:`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = adj.sup;
+      const wrongs = shuffle(ADJECTIVES_DEGREE, rng).slice(0, 3).map(a => a.comp);
+      q.push(createMCQ("nevszok", "melleknevfokozas", `"${adj.base}" felsőfoka:`, correct, wrongs));
+    } else {
+      const correct = adj.base;
+      const wrongs = shuffle(ADJECTIVES_DEGREE, rng).slice(0, 3).map(a => a.comp);
+      q.push(createMCQ("nevszok", "melleknevfokozas", `Melyik az alapfok? "${adj.comp}"-ből:`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateCompoundWordsAdvanced(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const comp = pick(COMPOUND_WORDS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      const correct = comp.comp;
+      const wrongs = shuffle(COMPOUND_WORDS, rng).slice(0, 3).map(c => c.comp);
+      q.push(createMCQ("szo", "osszetett_haladó", `Melyik az összetett szó? "${comp.parts.join('+')}"`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = "összetett szó";
+      const wrongs = ["egyszerű szó", "ragozott szó", "előtaggal ellátott"];
+      q.push(createMCQ("szo", "osszetett_haladó", `"${comp.comp}" milyen szó?`, correct, wrongs));
+    } else {
+      const correct = comp.parts[0];
+      const wrongs = shuffle(COMPOUND_WORDS, rng).slice(0, 3).map(c => c.comp);
+      q.push(createMCQ("szo", "osszetett_haladó", `"${comp.comp}" első része:`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateWordFamilies(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const fam = pick(WORD_FAMILIES, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      const correct = pick(fam.words, rng);
+      const wrongs = shuffle(WORD_FAMILIES, rng).slice(0, 3).flatMap(f => f.words).slice(0, 3);
+      q.push(createMCQ("szo", "szocsaladok", `"${fam.root}" szócsaládjába tartozik:`, correct, wrongs));
+    } else if (type === 1) {
+      const correct = "szócsalád";
+      const wrongs = ["szótár", "összetett szó", "homonímák"];
+      q.push(createMCQ("szo", "szocsaladok", `Az olyan szavak, amelyek ugyanabból a gyökérből jönnek:`, correct, wrongs));
+    } else {
+      const correct = fam.root;
+      const wrongs = shuffle(WORD_FAMILIES, rng).slice(0, 3).map(f => f.root);
+      q.push(createMCQ("szo", "szocsaladok", `"${pick(fam.words, rng)}" szócsaládjának gyöke:`, correct, wrongs));
+    }
+  }
+
+  return q;
+}
+
+export function generateTextComprehension(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+    const text = "A fiú a parkban játszott. Egy labdát dobott magasra. Összeomlottak a fák között. A fiú nevetett és ismét dobott.";
+
+    if (type === 0) {
+      q.push(createMCQ("szoveg", "megertés", `"Hol játszott a fiú?" Válasz a szövegből:`,
+        "a parkban", ["az iskolában", "az utcán", "az udvaron"]));
+    } else if (type === 1) {
+      q.push(createMCQ("szoveg", "megertés", `"Mit dobott a fiú?" Válasz a szövegből:`,
+        "labdát", ["könyvet", "kővet", "fát"]));
+    } else {
+      q.push(createMCQ("szoveg", "megertés", `"Milyen volt a fiú hangulata?" A szöveg alapján:`,
+        "boldog", ["szomorú", "szomorú", "szomorú"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateTextSummary(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("szoveg", "osszefoglalas", "A szöveg lényege egy mondatban:",
+        "a fiú játszott",
+        ["a fiú fut", "a fiú alszik", "a fiú eszik"]));
+    } else if (type === 1) {
+      q.push(createMCQ("szoveg", "osszefoglalas", "Melyik a szöveg főmondanivalója?",
+        "A fiú jól szórakozott",
+        ["A park szép", "A labda piros", "Az idő meleg volt"]));
+    } else {
+      q.push(createMCQ("szoveg", "osszefoglalas", "Mit tudunk meg a szövegből?",
+        "A fiú egyedül játszott",
+        ["Sok gyerek volt ott", "Szivárvány volt az égen", "Eső volt"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateIdioms(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const idiom = pick(IDIOMS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("szokincs", "szolasok", `"${idiom.idiom}" jelentése:`,
+        idiom.meaning,
+        ["valami mást jelent", "nem tudjuk", "más szólás"]));
+    } else if (type === 1) {
+      const correct = idiom.idiom;
+      const wrongs = shuffle(IDIOMS, rng).slice(0, 3).map(i => i.idiom);
+      q.push(createMCQ("szokincs", "szolasok", `Melyik szólás jelenti ezt: "${idiom.meaning}"?`, correct, wrongs));
+    } else {
+      q.push(createMCQ("szokincs", "szolasok", `A szólások olyan kifejezések, amelyek:`,
+        "переносati értelemben használódnak",
+        ["szó szerintiek", "mindig igaz", "archaikusak"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateProverbs(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const prov = pick(PROVERBS, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("szokincs", "kozmondasok", `"${prov.proverb}" jelentése:`,
+        prov.meaning,
+        ["más", "ismeretlen", "nevetséges"]));
+    } else if (type === 1) {
+      const correct = prov.proverb;
+      const wrongs = shuffle(PROVERBS, rng).slice(0, 3).map(p => p.proverb);
+      q.push(createMCQ("szokincs", "kozmondasok", `Melyik a közmondás?`, correct, wrongs));
+    } else {
+      q.push(createMCQ("szokincs", "kozmondasok", "A közmondás tanítja:",
+        "az élet bölcsességét",
+        ["a történelmet", "a географиát", "a matekot"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateSpellingTogether(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const word = pick(SPELLING_TOGETHER, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("helyesiras", "egybeíras", `"${word.word}" helyesen:`,
+        word.word,
+        [`${word.word.split('').join('-')}`, "szétbontva", "rosszul"]));
+    } else if (type === 1) {
+      q.push(createMCQ("helyesiras", "egybeíras", `Melyik szó írható össze?`,
+        "mindenhol",
+        ["már nem", "régen volt", "talán"]));
+    } else {
+      q.push(createMCQ("helyesiras", "egybeíras", "Az alábbiak közül melyik írható össze?",
+        "végig",
+        ["más mint", "talán", "vagy"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateSpellingApart(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const word = pick(SPELLING_APART, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("helyesiras", "kuloniras", `"${word.word}" helyesen:`,
+        word.word,
+        [`${word.word.replace(/ és /g, '+')}`, "össze", "rosszul"]));
+    } else if (type === 1) {
+      q.push(createMCQ("helyesiras", "kuloniras", "Melyik kifejezés írható külön?",
+        "más és más",
+        ["össze-vissza", "ugyan-olyan", "egy-más"]));
+    } else {
+      q.push(createMCQ("helyesiras", "kuloniras", "A kötőszóval összekapcsolt szavak:",
+        "külön írhatók",
+        ["mindig összefüggnek", "kitalálható", "nem írható"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateCompositionNarrative(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("fogalmazas", "elbeszeles", "Az elbeszélés első része a:",
+        "kezdet",
+        ["fejlődés", "csúcspont", "befejezés"]));
+    } else if (type === 1) {
+      q.push(createMCQ("fogalmazas", "elbeszeles", "Az elbeszélés fejlesztő része a:",
+        "cselekmény",
+        ["előbeszéd", "utószó", "alaptörténet"]));
+    } else {
+      q.push(createMCQ("fogalmazas", "elbeszeles", "Melyik része a történetnek a \"befejezés\"?",
+        "a végeredmény",
+        ["az első mondat", "a közepső rész", "az előszó"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateCompositionDescription(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("fogalmazas", "leiras", "A leírásban először szoktuk számba venni:",
+        "a külső megjelenést",
+        ["a történetét", "a jövőjét", "az ígéretét"]));
+    } else if (type === 1) {
+      q.push(createMCQ("fogalmazas", "leiras", "A személyleírás elemei:",
+        "külső és személyiség",
+        ["csak magasság", "csak szín", "csak kor"]));
+    } else {
+      q.push(createMCQ("fogalmazas", "leiras", "Mit nem szoktunk leírni egy személyről?",
+        "a jövőbeni terveit",
+        ["a szeme színét", "a ruháját", "a hajának hosszát"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateObjectRole(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const obj = pick(OBJECT_ROLE, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("mondat", "targy", `A mondatban: "${obj.sentence}" Mi a tárgy?`,
+        obj.target,
+        ["a melléknév", "az ige", "a határozó"]));
+    } else if (type === 1) {
+      q.push(createMCQ("mondat", "targy", "A tárgy a mondatban általában:",
+        "tárgyeseti formában van",
+        ["nominatívuszban", "genitivuszban", "ablatívuszban"]));
+    } else {
+      q.push(createMCQ("mondat", "targy", "A tárgy azt jelenti, amit az ige:",
+        "megnevez vagy szenved el",
+        ["leír", "jelent", "mutat"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateAdverbialRole(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const adv = pick(ADVERBIAL_ROLE, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("mondat", "hatarozo", `"${adv.sentence}" Mi a határozó?`,
+        adv.target,
+        ["az ige", "a főnév", "az alanyi"]));
+    } else if (type === 1) {
+      q.push(createMCQ("mondat", "hatarozo", "A határozó fejti ki az ige:",
+        "körülményeit",
+        ["számát", "nemét", "ragozását"]));
+    } else {
+      q.push(createMCQ("mondat", "hatarozo", "A határozó fajtái lehetnek:",
+        "hely, idő, mód",
+        ["egyedül", "kettős", "virtuális"]));
+    }
+  }
+
+  return q;
+}
+
+export function generateAdjectiveRole(seed?: number): MagyarMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: MagyarMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const adj = pick(ADJECTIVE_ROLE, rng);
+    const type = i % 3;
+
+    if (type === 0) {
+      q.push(createMCQ("mondat", "jelzo", `"${adj.sentence}" Mi a jelző?`,
+        adj.target,
+        ["az alany", "az ige", "a mondat"]));
+    } else if (type === 1) {
+      q.push(createMCQ("mondat", "jelzo", "A jelző a mondatban általában:",
+        "a főnév előtt vagy után áll",
+        ["mindig az ige után", "mindig egyedül", "az ige helyén"]));
+    } else {
+      q.push(createMCQ("mondat", "jelzo", "A jelző azt fejti ki:",
+        "a főnév minőségét",
+        ["az ige módját", "az alanyt", "a tárgyat"]));
+    }
+  }
+
+  return q;
+}
+
+// ─── Export generator map ──────────────────────────────────────────────────
+
+export const G3_Generators_Hungarian = {
+  "igeidok/jelen": generateTensePresent,
+  "igeidok/mult": generateTensePast,
+  "igeidok/jovo": generateTenseFuture,
+  "nevszok/fonevragozas": generateNounDeclension,
+  "nevszok/melleknevfokozas": generateAdjectiveDegree,
+  "szo/osszetett_haladó": generateCompoundWordsAdvanced,
+  "szo/szocsaladok": generateWordFamilies,
+  "szoveg/megertés": generateTextComprehension,
+  "szoveg/osszefoglalas": generateTextSummary,
+  "szokincs/szolasok": generateIdioms,
+  "szokincs/kozmondasok": generateProverbs,
+  "helyesiras/egybeíras": generateSpellingTogether,
+  "helyesiras/kuloniras": generateSpellingApart,
+  "fogalmazas/elbeszeles": generateCompositionNarrative,
+  "fogalmazas/leiras": generateCompositionDescription,
+  "mondat/targy": generateObjectRole,
+  "mondat/hatarozo": generateAdverbialRole,
+  "mondat/jelzo": generateAdjectiveRole,
+};
