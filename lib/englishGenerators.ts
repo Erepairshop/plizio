@@ -4167,13 +4167,21 @@ export const G4_Generators = {
         { text: "The big red.", type: "fragment" },
         { text: "Although we tried our best.", type: "fragment" },
         { text: "Under the old oak tree near the pond.", type: "fragment" },
+        { text: "While the music played.", type: "fragment" },
+        { text: "Singing and dancing joyfully.", type: "fragment" },
+        { text: "Very happy and excited.", type: "fragment" },
         { text: "I went home it was late I was tired.", type: "run-on" },
         { text: "She likes pizza he likes burgers they like tacos.", type: "run-on" },
         { text: "The dog barked the cat hid the bird flew away.", type: "run-on" },
         { text: "We went to the store we bought milk.", type: "run-on" },
+        { text: "He was hungry he ate everything.", type: "run-on" },
+        { text: "The sun was bright we went to the beach.", type: "run-on" },
         { text: "She studied hard, so she passed the test.", type: "complete" },
         { text: "After the rain stopped, we went outside.", type: "complete" },
         { text: "The children played in the yard.", type: "complete" },
+        { text: "I enjoy reading books on sunny days.", type: "complete" },
+        { text: "When you finish your homework, you can play.", type: "complete" },
+        { text: "The teacher explained the lesson clearly.", type: "complete" },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceTypes, rng);
@@ -4199,6 +4207,10 @@ export const G4_Generators = {
         { correct: "He studied hard, so he passed the test.", wrong: ["He studied hard so he passed the test.", "He studied hard, he passed the test.", "He studied, hard so he passed the test."] },
         { correct: "It was sunny, yet it was cold.", wrong: ["It was sunny yet it was cold.", "It was sunny, it was cold.", "It was sunny yet, it was cold."] },
         { correct: "She didn't study, for she was ill.", wrong: ["She didn't study for she was ill.", "She didn't study, she was ill.", "She didn't study for, she was ill."] },
+        { correct: "The game was exciting, and everyone had fun.", wrong: ["The game was exciting and everyone had fun.", "The game was exciting, everyone had fun.", "The game was exciting and, everyone had fun."] },
+        { correct: "We can buy candy, or we can make some.", wrong: ["We can buy candy or we can make some.", "We can buy candy, we can make some.", "We can buy candy or, we can make some."] },
+        { correct: "He loves swimming, but he hates running.", wrong: ["He loves swimming but he hates running.", "He loves swimming, he hates running.", "He loves swimming but, he hates running."] },
+        { correct: "The weather was nice, so we went for a walk.", wrong: ["The weather was nice so we went for a walk.", "The weather was nice, we went for a walk.", "The weather was nice so, we went for a walk."] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceData, rng);
@@ -4254,6 +4266,12 @@ export const G4_Generators = {
         { correct: "then", sentence: "First we ate, ___ we played.", wrong: ["than", "that"] },
         { correct: "affect", sentence: "The rain will ___ the game.", wrong: ["effect", "afect"] },
         { correct: "effect", sentence: "The ___ of the storm was devastating.", wrong: ["affect", "efect"] },
+        { correct: "accept", sentence: "Will you ___ this gift?", wrong: ["except", "acept"] },
+        { correct: "except", sentence: "Everyone came ___ John.", wrong: ["accept", "exept"] },
+        { correct: "allowed", sentence: "Dogs are not ___ in the library.", wrong: ["aloud", "alloued"] },
+        { correct: "aloud", sentence: "Please read the story ___.", wrong: ["allowed", "a loud"] },
+        { correct: "where", sentence: "___ are you going?", wrong: ["wear", "ware"] },
+        { correct: "wear", sentence: "I like to ___ my favorite shirt.", wrong: ["where", "ware"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(confusedData, rng);
@@ -10012,6 +10030,12 @@ export const G8_Generators = {
         { correct: "Amazed by the view, she took a photograph.", dangling: "Amazed by the view, the camera started clicking.", issue: "dangling modifier (camera can't be amazed)" },
         { correct: "Walking through the park, I noticed the flowers.", dangling: "Walking through the park, the flowers were beautiful.", issue: "dangling modifier (flowers can't walk)" },
         { correct: "Covered in snow, the children built a snowman.", dangling: "Covered in snow, the day was perfect for play.", issue: "dangling modifier (day can't be covered in snow)" },
+        { correct: "Driving down the highway, we saw wild horses.", dangling: "Driving down the highway, wild horses appeared suddenly.", issue: "dangling modifier (horses can't drive)" },
+        { correct: "Bored with the meeting, he left early.", dangling: "Bored with the meeting, the time passed slowly.", issue: "dangling modifier (time can't be bored)" },
+        { correct: "Frightened by the noise, the cat hid under the bed.", dangling: "Frightened by the noise, the house felt unsafe.", issue: "dangling modifier (house can't be frightened)" },
+        { correct: "Startled by the sudden appearance, Tom jumped back.", dangling: "Startled by the sudden appearance, the room fell silent.", issue: "dangling modifier (room can't be startled)" },
+        { correct: "Relieved about the test results, she smiled widely.", dangling: "Relieved about the test results, the celebration began.", issue: "dangling modifier (celebration can't be relieved)" },
+        { correct: "Determined to succeed, the athletes trained hard.", dangling: "Determined to succeed, the gym was always busy.", issue: "dangling modifier (gym can't be determined)" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10044,6 +10068,12 @@ export const G8_Generators = {
         { sentence: "Weather permitting, we will have a picnic.", absolute: "Weather permitting", wrong: ["we will have a picnic", "a picnic", "permitting"] },
         { sentence: "Her voice trembling, she began her speech.", absolute: "Her voice trembling", wrong: ["she began her speech", "Her voice", "trembling"] },
         { sentence: "The sun having set, we lit the campfire.", absolute: "The sun having set", wrong: ["we lit the campfire", "the campfire", "having set"] },
+        { sentence: "Our preparations complete, we were ready to depart.", absolute: "Our preparations complete", wrong: ["we were ready to depart", "Our preparations", "complete"] },
+        { sentence: "Time permitting, we'll visit the museum.", absolute: "Time permitting", wrong: ["we'll visit the museum", "the museum", "permitting"] },
+        { sentence: "His nerves settled, he approached the stage.", absolute: "His nerves settled", wrong: ["he approached the stage", "His nerves", "settled"] },
+        { sentence: "The game having ended, fans left the stadium.", absolute: "The game having ended", wrong: ["fans left the stadium", "The game", "the stadium"] },
+        { sentence: "Budget permitting, we can expand the project.", absolute: "Budget permitting", wrong: ["we can expand the project", "the project", "expand"] },
+        { sentence: "Her work finished, she celebrated the success.", absolute: "Her work finished", wrong: ["she celebrated the success", "Her work", "success"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10069,6 +10099,13 @@ export const G8_Generators = {
         { active: "She wrote the report.", passive: "The report was written by her." },
         { active: "The storm destroyed several buildings.", passive: "Several buildings were destroyed by the storm." },
         { active: "The teacher assigned homework.", passive: "Homework was assigned by the teacher." },
+        { active: "The author wrote the novel.", passive: "The novel was written by the author." },
+        { active: "They built the bridge.", passive: "The bridge was built by them." },
+        { active: "The artist painted the masterpiece.", passive: "The masterpiece was painted by the artist." },
+        { active: "Someone stole her bicycle.", passive: "Her bicycle was stolen." },
+        { active: "The company published the book.", passive: "The book was published by the company." },
+        { active: "The gardener planted the flowers.", passive: "The flowers were planted by the gardener." },
+        { active: "They discovered the island.", passive: "The island was discovered by them." },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10103,6 +10140,13 @@ export const G8_Generators = {
         { correct: "If he were taller, he could reach the shelf.", incorrect: "If he was taller, he could reach the shelf.", rule: "subjunctive 'were' for hypothetical" },
         { correct: "I suggest that he take the early train.", incorrect: "I suggest that he takes the early train.", rule: "base form after 'suggest'" },
         { correct: "If it were possible, I would travel the world.", incorrect: "If it was possible, I would travel the world.", rule: "subjunctive 'were' for wishes" },
+        { correct: "I demand that she arrive on time.", incorrect: "I demand that she arrives on time.", rule: "base form after 'demand'" },
+        { correct: "If they were here, everything would be better.", incorrect: "If they was here, everything would be better.", rule: "subjunctive 'were' for unreal conditions" },
+        { correct: "The director requires that the actor be on set.", incorrect: "The director requires that the actor is on set.", rule: "base form after 'require'" },
+        { correct: "I recommend that you try this restaurant.", incorrect: "I recommend that you tries this restaurant.", rule: "base form after 'recommend'" },
+        { correct: "If she were president, she would help the poor.", incorrect: "If she was president, she would help the poor.", rule: "subjunctive 'were' for counterfactual" },
+        { correct: "It is important that he study every day.", incorrect: "It is important that he studies every day.", rule: "base form after 'it is important that'" },
+        { correct: "They prefer that the meeting be held early.", incorrect: "They prefer that the meeting is held early.", rule: "base form after 'prefer'" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10123,6 +10167,11 @@ export const G8_Generators = {
       const q: CurriculumQuestion[] = [];
       const shiftData = [
         { inconsistent: "She made the cake, and the dishes were washed by her.", consistent: "She made the cake and washed the dishes.", error: "voice shift (active to passive)" },
+        { inconsistent: "He studied hard and will pass the exam.", consistent: "He will study hard and pass the exam.", error: "tense shift (past to future)" },
+        { inconsistent: "She enjoys reading and to write poetry.", consistent: "She enjoys reading and writing poetry.", error: "verb form shift (gerund to infinitive)" },
+        { inconsistent: "They will finish the project, and it will be reviewed by us.", consistent: "They will finish the project, and we will review it.", error: "voice shift (passive to active)" },
+        { inconsistent: "She is intelligent and works hard; therefore she succeeds.", consistent: "She is intelligent and works hard; therefore, she succeeds.", error: "punctuation with conjunctive adverb" },
+        { inconsistent: "He wanted to travel and wanted to learn languages.", consistent: "He wanted to travel and learn languages.", error: "unnecessary repetition" },
         { inconsistent: "The report was written by the student, and she presented it.", consistent: "The student wrote the report and presented it.", error: "voice shift (passive to active)" },
         { inconsistent: "Study for the test, and you should review your notes.", consistent: "Study for the test and review your notes.", error: "mood shift (imperative to indicative)" },
         { inconsistent: "If I were rich, I will buy a mansion.", consistent: "If I were rich, I would buy a mansion.", error: "mood shift (subjunctive to indicative)" },
