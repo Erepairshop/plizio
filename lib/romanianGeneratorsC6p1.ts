@@ -64,8 +64,8 @@ function createMCQ(
 }
 
 /** Create typing question */
-function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
-  return { type: "typing", topic, subtopic, question, correct };
+function createTyping(topic: string, subtopic: string, question: string, answer: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer: answer.toLowerCase().trim() };
 }
 
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
