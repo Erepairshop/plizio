@@ -79,6 +79,9 @@ function collectExtraData(): Record<string, unknown> {
   extra.citydrive_owned_cars = safeJsonParse(localStorage.getItem("citydrive_owned_cars"), []);
   extra.citydrive_active_car = localStorage.getItem("citydrive_active_car") || null;
 
+  // Daily login reward state — sync to prevent multi-device double-claim
+  extra.daily_login = safeJsonParse(localStorage.getItem("plizio_daily_login"), null);
+
   // Game progress — store as JSON strings (they're already JSON in localStorage)
   for (const key of GAME_PROGRESS_KEYS) {
     const val = localStorage.getItem(key);
@@ -117,6 +120,16 @@ function restoreExtraData(extra: Record<string, unknown>): void {
   // City Drive cars
   mergeOwnedArray("citydrive_owned_cars", extra.citydrive_owned_cars as string[] | undefined);
   restoreActive("citydrive_active_car", extra.citydrive_active_car as string | undefined);
+
+  // Daily login reward — use whichever device has the more recent lastDate
+  if (extra.daily_login && typeof extra.daily_login === "object") {
+    const serverState = extra.daily_login as { lastDate: string; streakCount: number };
+    const localRaw = localStorage.getItem("plizio_daily_login");
+    const localState = localRaw ? JSON.parse(localRaw) as { lastDate: string; streakCount: number } : null;
+    if (!localState || serverState.lastDate >= localState.lastDate) {
+      localStorage.setItem("plizio_daily_login", JSON.stringify(serverState));
+    }
+  }
 
   // Room data: merge owned arrays
   mergeOwnedArray("plizio_rooms_owned", extra.plizio_rooms_owned as string[] | undefined);
