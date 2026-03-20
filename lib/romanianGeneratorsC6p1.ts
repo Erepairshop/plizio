@@ -185,7 +185,7 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "substantiv_c6";
     const subtopic = "declinare_c6";
-    const questionPool: CurriculumMCQ[] = [];
+    const questionPool: CurriculumQuestion[] = [];
     const cases = ["Nominativ", "Genitiv", "Dativ", "Acuzativ", "Vocativ"];
 
     // Build 30 unique MCQ questions by cycling through substantives and varying cases
@@ -211,7 +211,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte cazuri sunt în limba română?", "cinci"));
@@ -238,7 +238,7 @@ export const C6P1_Generators = {
     const rng = mulberry32(seed);
     const topic = "substantiv_c6";
     const subtopic = "functii_sintactice_c6";
-    const questionPool: CurriculumMCQ[] = [];
+    const questionPool: CurriculumQuestion[] = [];
 
     // Build 30 unique MCQ questions by cycling through substantive functions
     for (let i = 0; i < 30; i++) {
@@ -254,7 +254,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce funcție sintactică are subiectul?", "Subiect"));
@@ -305,7 +305,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt substantivele defective?", "substantive cu forme lipsă"));
@@ -365,7 +365,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Câte persoane gramaticale sunt?", "trei"));
@@ -421,7 +421,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele demonstrative?", "indică referință spațială"));
@@ -477,7 +477,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (8)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele posesive?", "indică posesia"));
@@ -526,7 +526,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Ce sunt pronumele reflexive?", "indică acțiune asupra subiectului"));
@@ -582,7 +582,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Pronumele interogativ pentru persoane:", "cine"));
@@ -638,7 +638,7 @@ export const C6P1_Generators = {
       questionPool.push(q);
     }
 
-    const questions = shuffle(questionPool, rng);
+    const questions = shuffle(questionPool, rng) as CurriculumQuestion[];
 
     // Typing questions (15)
     questions.push(createTyping(topic, subtopic, "Pronumele nehotărat pentru persoane:", "cineva"));
