@@ -41,6 +41,16 @@ function genSinonimeAntonimeC4(seed: number): CurriculumQuestion[] {
     { word: "brav",       correct: "curajos",    wrong: ["fricos", "leneș", "rău"] },
     { word: "a admira",   correct: "a privi",    wrong: ["a ignora", "a dărâma", "a alerga"] },
     { word: "muncitor",   correct: "harnic",     wrong: ["leneș", "zgârcit", "trist"] },
+    { word: "inteligent", correct: "ager",       wrong: ["prost", "leneș", "nebun"] },
+    { word: "frumos",     correct: "imens",      wrong: ["urât", "mic", "plicticos"] },
+    { word: "glas",       correct: "sunet",      wrong: ["culoare", "miros", "gust"] },
+    { word: "oarecare",   correct: "modest",     wrong: ["extraordinary", "imens", "minuscul"] },
+    { word: "a mângâia",  correct: "a alinta",   wrong: ["a lovi", "a ignora", "a disprețui"] },
+    { word: "nefast",     correct: "rău",        wrong: ["bun", "util", "favorabil"] },
+    { word: "a-și pierde",correct: "a dispera",  wrong: ["a spera", "a câștiga", "a trăi"] },
+    { word: "ascuns",     correct: "secret",     wrong: ["deschis", "public", "cunoscut"] },
+    { word: "a isca",     correct: "a provoca",  wrong: ["a preveni", "a păzi", "a apăra"] },
+    { word: "nepăsător",  correct: "indiferent", wrong: ["atent", "pasionat", "dedicat"] },
   ];
 
   const antonimePool: Array<{ word: string; correct: string; wrong: string[] }> = [
@@ -51,6 +61,15 @@ function genSinonimeAntonimeC4(seed: number): CurriculumQuestion[] {
     { word: "zgârcit",    correct: "darnic",     wrong: ["harnic", "leneș", "trist"] },
     { word: "ager",       correct: "prost",      wrong: ["curajos", "vesel", "silitor"] },
     { word: "viteaz",     correct: "laș",        wrong: ["leneș", "harnic", "bucuros"] },
+    { word: "frumos",     correct: "urât",       wrong: ["plăcut", "drăgut", "imens"] },
+    { word: "mare",       correct: "mic",        wrong: ["gras", "imens", "lat"] },
+    { word: "bun",        correct: "rău",        wrong: ["neutru", "mediu", "oarecare"] },
+    { word: "vesel",      correct: "trist",      wrong: ["bucuros", "fericit", "încarc"] },
+    { word: "curat",      correct: "murdar",     wrong: ["pur", "limpede", "imaculat"] },
+    { word: "ușor",       correct: "greu",       wrong: ["facil", "simplu", "lin"] },
+    { word: "cald",       correct: "rece",       wrong: ["fierbinte", "șold", "temperament"] },
+    { word: "sus",        correct: "jos",        wrong: ["deasupra", "peste", "ridicat"] },
+    { word: "aproape",    correct: "departe",    wrong: ["vecin", "lângă", "ici"] },
   ];
 
   // Generate synonym questions

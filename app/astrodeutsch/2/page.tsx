@@ -234,9 +234,15 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
                 fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5} strokeDasharray="5 3" />
             )}
             {unlocked ? (
-              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}>
-                {K2_ISLAND_SVGS[island.id] ? React.createElement(K2_ISLAND_SVGS[island.id], { size: 60 }) : <span style={{ fontSize: 20 }}>{island.icon}</span>}
-              </foreignObject>
+              K2_ISLAND_SVGS[island.id] ? (
+                <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                  overflow="visible" opacity={done ? 0.85 : 1}>
+                  {React.createElement(K2_ISLAND_SVGS[island.id], { size: 60 })}
+                </svg>
+              ) : (
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+                  opacity={done ? 0.85 : 1}>{island.icon}</text>
+              )
             ) : (
               <>
                 <circle cx={island.svgX} cy={island.svgY} r={24}

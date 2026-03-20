@@ -31,7 +31,8 @@ export const C8P2_Generators = {
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
       const v = pick(VERB_FORMS, rng);
-      questions.push(createMCQ("Romanian-C8-P2", "verb_forme_avansate", `Prezentul verbului "${v.infinitive}":`, v.present, [pick(VERB_FORMS, rng).present, "participiu", "gerunziu"], rng));
+      const otherV = pick(VERB_FORMS.filter(x => x.infinitive !== v.infinitive), rng);
+      questions.push(createMCQ("Romanian-C8-P2", "verb_forme_avansate", `Prezentul verbului "${v.infinitive}":`, v.present, [otherV.present, "participiu", "gerunziu"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -41,7 +42,8 @@ export const C8P2_Generators = {
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
       const p = pick(PRONUME_TYPES, rng);
-      questions.push(createMCQ("Romanian-C8-P2", "pronume_cazuri", `Cazul pronumelui "${p.pronume}":`, p.case, [pick(PRONUME_TYPES, rng).case, "acuzativ", "dativ"], rng));
+      const otherP = pick(PRONUME_TYPES.filter(x => x.pronume !== p.pronume), rng);
+      questions.push(createMCQ("Romanian-C8-P2", "pronume_cazuri", `Cazul pronumelui "${p.pronume}":`, p.case, [otherP.case, "acuzativ", "dativ"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -51,7 +53,8 @@ export const C8P2_Generators = {
     const questions: CurriculumMCQ[] = [];
     for (let i = 0; i < 30; i++) {
       const a = pick(ARTICOL_TYPES, rng);
-      questions.push(createMCQ("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul din "${a.word}":`, a.article, [pick(ARTICOL_TYPES, rng).article, "pronume", "prepoziție"], rng));
+      const otherA = pick(ARTICOL_TYPES.filter(x => x.word !== a.word), rng);
+      questions.push(createMCQ("Romanian-C8-P2", "articol_definit_nedefinit", `Articolul din "${a.word}":`, a.article, [otherA.article, "pronume", "prepoziție"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -78,7 +81,8 @@ export const C8P2_Generators = {
     ];
     for (let i = 0; i < 30; i++) {
       const n = pick(nouns, rng);
-      questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [pick(nouns, rng).gender, "neutru", "ambiguu"], rng));
+      const otherN = pick(nouns.filter(x => x.noun !== n.noun), rng);
+      questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [otherN.gender, "neutru", "ambiguu"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },

@@ -1,0 +1,971 @@
+"use client";
+import React, { useState, useEffect, useCallback, useRef } from "react";
+import { motion } from "framer-motion";
+import { useRouter } from "next/navigation";
+import { X, ChevronRight, ChevronLeft } from "lucide-react";
+import dynamic from "next/dynamic";
+import { useLang } from "@/components/LanguageProvider";
+import RewardReveal from "@/components/RewardReveal";
+import MilestonePopup from "@/components/MilestonePopup";
+import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import type { CardRarity } from "@/lib/cards";
+import type { MathQuestion } from "@/lib/mathCurriculum";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import { T } from "@/app/astromath/games/translations";
+import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
+import BlackHole from "@/app/astromath/games/BlackHole";
+import GravitySort from "@/app/astromath/games/GravitySort";
+import StarMatch from "@/app/astromath/games/StarMatch";
+import SpeedRound from "@/app/astromath/games/SpeedRound";
+import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
+import RocketTransition from "@/app/astromath/RocketTransition";
+import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
+import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
+import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
+import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
+import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
+import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import {
+  generateK1WordSortContent,
+  generateK1SpellRaceContent,
+  generateK1SentenceBuilderContent,
+  generateK1FillGapContent,
+  generateK1CategoryRushContent,
+  generateK1GrammarMatchContent,
+} from "@/app/astroenglish/contentGenerators";
+
+// Helper to get explorer content for K1
+function getK1ExplorerContent(gameType: string): any {
+  switch (gameType) {
+    case "word-sort":
+      return generateK1WordSortContent();
+    case "sentence-builder":
+      return generateK1SentenceBuilderContent();
+    case "fill-gap":
+      return generateK1FillGapContent();
+    case "spell-race":
+      return generateK1SpellRaceContent();
+    case "category-rush":
+      return generateK1CategoryRushContent();
+    case "grammar-match":
+      return generateK1GrammarMatchContent();
+    default:
+      return [];
+  }
+}
+import {
+  K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
+  loadK1Progress, saveK1Progress, type EnglishProgress,
+  isMissionDone, isIslandDone, isIslandUnlockedK1,
+  isCheckpointUnlocked, isCheckpointDone,
+  completeMissionK1, completeTestK1, islandTotalStarsK1,
+  generateEnglishIslandQuestions, generateEnglishCheckpointQuestions,
+} from "@/lib/astroEnglish";
+import { K1_ISLAND_SVGS } from "@/app/astroenglish/islands";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
+
+// ─── Grade 1 labels ────────────────────────────────────────────────────────────
+const K1_LABEL: Record<string, string> = {
+  en: "Grade 1 · Phonics Galaxy",
+  hu: "1. osztály · Fonétika Galaxis",
+  de: "Klasse 1 · Phonik-Galaxie",
+  ro: "Clasa 1 · Galaxia fonetică",
+};
+
+// ─── Screen types ──────────────────────────────────────────────────────────────
+type Screen =
+  | "island-map"
+  | "island-intro"
+  | "island-transition"
+  | "island-complete-anim"
+  | "mission-select"
+  | "orbit-quiz"
+  | "black-hole"
+  | "gravity-sort"
+  | "star-match"
+  | "speed-round"
+  | "word-sort"
+  | "sentence-builder"
+  | "fill-gap"
+  | "spell-race"
+  | "category-rush"
+  | "grammar-match"
+  | "mission-done"
+  | "island-done"
+  | "reward"
+  | "checkpoint-intro"
+  | "checkpoint-quiz"
+  | "checkpoint-done"
+  | "rocket-launch";
+
+// ─── Starfield ─────────────────────────────────────────────────────────────────
+const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
+  id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
+  size: (i % 4) * 0.6 + 0.3, dur: 1.8 + (i % 6) * 0.5, delay: (i % 9) * 0.35,
+}));
+const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
+  id: i, startX: 15 + i * 22, dur: 3.5 + i * 1.2, delay: 4 + i * 5,
+}));
+
+function Starfield() {
+  return (
+    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {STAR_DATA.map((s) => (
+        <motion.div key={s.id} className="absolute rounded-full bg-white"
+          style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
+          animate={{ opacity: [0.08, 0.9, 0.08] }}
+          transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }} />
+      ))}
+      {SHOOT_DATA.map((s) => (
+        <motion.div key={`shoot-${s.id}`}
+          className="absolute h-px rounded-full"
+          style={{ left: `${s.startX}%`, top: `${10 + s.id * 18}%`, width: 60,
+            background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent)",
+            rotate: -25 }}
+          animate={{ x: [0, 180], opacity: [0, 1, 0] }}
+          transition={{ duration: 0.8, delay: s.delay, repeat: Infinity, repeatDelay: s.dur, ease: "easeIn" }} />
+      ))}
+      <div className="absolute" style={{ left: "10%", top: "20%", width: 200, height: 200,
+        background: "radial-gradient(ellipse, rgba(100,50,200,0.07) 0%, transparent 70%)", borderRadius: "50%" }} />
+      <div className="absolute" style={{ left: "55%", top: "55%", width: 160, height: 160,
+        background: "radial-gradient(ellipse, rgba(0,150,255,0.06) 0%, transparent 70%)", borderRadius: "50%" }} />
+    </div>
+  );
+}
+
+// ─── Island Map SVG ────────────────────────────────────────────────────────────
+const MAP_W = 320;
+const MAP_H = 860;
+const MAP_VB_OFFSET = 220;
+
+const CP_POS: Record<string, { x: number; y: number }> = {
+  test1: { x: 155, y: 295 },
+  test2: { x: 155, y: 50 },
+  test3: { x: 155, y: -165 },
+};
+
+function buildSmoothPath(islands: typeof K1_ISLANDS): string {
+  const pts = islands.map((i) => ({ x: i.svgX, y: i.svgY }));
+  if (pts.length < 2) return "";
+  let d = `M ${pts[0].x},${pts[0].y}`;
+  for (let i = 0; i < pts.length - 1; i++) {
+    const cx = (pts[i].x + pts[i + 1].x) / 2;
+    const cy = (pts[i].y + pts[i + 1].y) / 2;
+    d += ` Q ${pts[i].x},${pts[i].y} ${cx},${cy}`;
+  }
+  d += ` Q ${pts[pts.length - 2].x},${pts[pts.length - 2].y} ${pts[pts.length - 1].x},${pts[pts.length - 1].y}`;
+  return d;
+}
+
+function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+  progress: EnglishProgress;
+  onIsland: (island: IslandDef) => void;
+  onCheckpoint: (testId: string) => void;
+}) {
+  const pathD = buildSmoothPath(K1_ISLANDS);
+
+  return (
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+      <defs>
+        <filter id="pathGlowK1" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="3" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="islandGlowK1" x="-40%" y="-40%" width="180%" height="180%">
+          <feGaussianBlur stdDeviation="5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <radialGradient id="nebula1k1" cx="30%" cy="60%" r="50%">
+          <stop offset="0%" stopColor="#FF2D78" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FF2D78" stopOpacity="0" />
+        </radialGradient>
+        <radialGradient id="nebula2k1" cx="70%" cy="30%" r="40%">
+          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.09" />
+          <stop offset="100%" stopColor="#00D4FF" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+
+      <ellipse cx={100} cy={350} rx={160} ry={200} fill="url(#nebula1k1)" />
+      <ellipse cx={220} cy={100} rx={130} ry={160} fill="url(#nebula2k1)" />
+
+      <path d={pathD} fill="none" stroke="rgba(255,45,120,0.25)" strokeWidth={8}
+        filter="url(#pathGlowK1)" strokeLinecap="round" />
+      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2.5}
+        strokeDasharray="10 7" strokeLinecap="round" />
+      {K1_ISLANDS.slice(0, -1).map((island, i) => {
+        const next = K1_ISLANDS[i + 1];
+        const mx = (island.svgX + next.svgX) / 2;
+        const my = (island.svgY + next.svgY) / 2;
+        return <circle key={i} cx={mx} cy={my} r={2} fill="rgba(255,255,255,0.18)" />;
+      })}
+
+      {Object.entries(CP_POS).map(([testId, pos]) => {
+        const unlocked = isCheckpointUnlocked(progress, K1_CHECKPOINT_MAP, testId);
+        const done = isCheckpointDone(progress, testId);
+        const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
+        const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
+        return (
+          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)}
+            style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
+            {unlocked && !done && (
+              <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1}
+                opacity={0.3} strokeDasharray="4 3" />
+            )}
+            <rect x={pos.x - 48} y={pos.y - 16} width={96} height={32} rx={16}
+              fill={fillAlpha} stroke={color} strokeWidth={done ? 1.5 : 2} />
+            <text x={pos.x - 32} y={pos.y + 5} textAnchor="middle" fontSize={13}>
+              {done ? "✅" : unlocked ? "🚀" : "🔒"}
+            </text>
+            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>
+              {done ? "Fertig!" : unlocked ? "Test!" : "Test"}
+            </text>
+          </g>
+        );
+      })}
+
+      {K1_ISLANDS.map((island, idx) => {
+        const unlocked = isIslandUnlockedK1(progress, island.id);
+        const done = isIslandDone(progress, island.id);
+        const total = islandTotalStarsK1(progress, island.id);
+
+        return (
+          <g key={island.id} onClick={() => unlocked && onIsland(island)}
+            style={{ cursor: unlocked ? "pointer" : "default" }}>
+            {unlocked && !done && (
+              <circle cx={island.svgX} cy={island.svgY} r={40}
+                fill={island.color} opacity={0.08} />
+            )}
+            {done && (
+              <circle cx={island.svgX} cy={island.svgY} r={36}
+                fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5}
+                strokeDasharray="5 3" />
+            )}
+            {unlocked ? (
+              K1_ISLAND_SVGS[island.id] ? (
+                <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                  overflow="visible" opacity={done ? 0.85 : 1}>
+                  {React.createElement(K1_ISLAND_SVGS[island.id], { size: 60 })}
+                </svg>
+              ) : (
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+                  opacity={done ? 0.85 : 1}>{island.icon}</text>
+              )
+            ) : (
+              <>
+                <circle cx={island.svgX} cy={island.svgY} r={24}
+                  fill="rgba(255,255,255,0.04)"
+                  stroke="rgba(255,255,255,0.12)"
+                  strokeWidth={1.5}
+                  opacity={0.35} />
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
+              </>
+            )}
+            {!unlocked && (
+              <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}
+                fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>
+            )}
+            {done && (
+              <g>
+                <circle cx={island.svgX + 22} cy={island.svgY - 20} r={11} fill="#FFD700" />
+                <text x={island.svgX + 22} y={island.svgY - 15} textAnchor="middle" fontSize={11} fill="#000" fontWeight="bold">✓</text>
+              </g>
+            )}
+            {unlocked && !done && (
+              <g>
+                {island.missions.map((m, mi) => {
+                  const mdone = isMissionDone(progress, island.id, m.id);
+                  return (
+                    <g key={mi}>
+                      <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
+                        fill={mdone ? island.color : "rgba(255,255,255,0.08)"}
+                        stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />
+                    </g>
+                  );
+                })}
+              </g>
+            )}
+            {unlocked && (
+              <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
+                fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
+                {total > 0 ? `${total}/9 ⭐` : island.name.en.split(" ")[0]}
+              </text>
+            )}
+          </g>
+        );
+      })}
+    </svg>
+  );
+}
+
+// ─── Mission Done screen ───────────────────────────────────────────────────────
+function MissionDoneScreen({ mission, island, score, total, onContinue }: {
+  mission: MissionDef; island: IslandDef; score: number; total: number; onContinue: () => void;
+}) {
+  const { lang } = useLang();
+  const t = T[lang as keyof typeof T] ?? T.en;
+  const pct = Math.round((score / total) * 100);
+  const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
+
+  return (
+    <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+      className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
+      <motion.div className="w-24 h-24 rounded-full flex items-center justify-center text-4xl"
+        style={{ background: `${island.color}22`, border: `3px solid ${island.color}`, boxShadow: `0 0 30px ${island.color}55` }}
+        animate={{ scale: [1, 1.06, 1] }} transition={{ duration: 2, repeat: Infinity }}>
+        {mission.icon}
+      </motion.div>
+      <div>
+        <p className="text-white/60 text-sm font-medium mb-1">{t.missionDone}</p>
+        <h2 className="text-2xl font-black text-white">{mission.label[lang as Lang] ?? mission.label.en}</h2>
+      </div>
+      <div className="flex gap-1 text-3xl">
+        {Array.from({ length: 3 }).map((_, i) => (
+          <motion.span key={i} initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: i * 0.15, type: "spring" }}>
+            {i < stars ? "⭐" : "✩"}
+          </motion.span>
+        ))}
+      </div>
+      <div className="text-white/70 font-bold text-lg">{score}/{total}</div>
+      <motion.button onClick={onContinue}
+        className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2 text-base"
+        style={{ background: `linear-gradient(135deg, ${island.color}55, ${island.color}99)`, border: `2px solid ${island.color}` }}
+        whileTap={{ scale: 0.97 }}>
+        {t.next} <ChevronRight size={20} />
+      </motion.button>
+    </motion.div>
+  );
+}
+
+// ─── Island Done screen ────────────────────────────────────────────────────────
+function IslandDoneScreen({ island, onContinue }: { island: IslandDef; onContinue: () => void }) {
+  const { lang } = useLang();
+  const t = T[lang as keyof typeof T] ?? T.en;
+
+  return (
+    <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+      className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
+      <motion.div className="text-7xl" animate={{ rotate: [0, -10, 10, 0] }} transition={{ duration: 0.5, delay: 0.2 }}>
+        {island.icon}
+      </motion.div>
+      <div>
+        <p className="text-white/60 text-sm font-medium mb-1">{t.islandDone}</p>
+        <h2 className="text-2xl font-black" style={{ color: island.color }}>
+          {island.name[lang as Lang] ?? island.name.en}
+        </h2>
+      </div>
+      <div className="flex gap-1 text-3xl">
+        {["⭐", "⭐", "⭐"].map((s, i) => (
+          <motion.span key={i} initial={{ scale: 0, rotate: -20 }} animate={{ scale: 1, rotate: 0 }}
+            transition={{ delay: i * 0.12, type: "spring" }}>{s}</motion.span>
+        ))}
+      </div>
+      <motion.button onClick={onContinue}
+        className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
+        style={{ background: `linear-gradient(135deg, ${island.color}55, ${island.color}99)`, border: `2px solid ${island.color}` }}
+        whileTap={{ scale: 0.97 }}>
+        {t.back} {t.islandMap} <ChevronRight size={20} />
+      </motion.button>
+    </motion.div>
+  );
+}
+
+// ─── Checkpoint Done ───────────────────────────────────────────────────────────
+function CheckpointDoneScreen({ score, total, onContinue }: {
+  score: number; total: number; testId: string; onContinue: () => void;
+}) {
+  const { lang } = useLang();
+  const t = T[lang as keyof typeof T] ?? T.en;
+  const pct = Math.round((score / total) * 100);
+  const emoji = pct >= 80 ? "🏆" : pct >= 60 ? "🎯" : "💪";
+
+  return (
+    <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+      className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
+      <motion.div className="text-6xl" animate={{ scale: [1, 1.1, 1] }} transition={{ duration: 1.5, repeat: Infinity }}>
+        {emoji}
+      </motion.div>
+      <div>
+        <p className="text-white/60 text-sm font-medium">{t.testDone}</p>
+        <h2 className="text-2xl font-black text-[#FFD700] mt-1">{t.yourScore}</h2>
+        <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
+        <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
+      </div>
+      <motion.button onClick={onContinue}
+        className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
+        style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
+        whileTap={{ scale: 0.97 }}>
+        {t.back} {t.islandMap} <ChevronRight size={20} />
+      </motion.button>
+    </motion.div>
+  );
+}
+
+// ─── Main Page ─────────────────────────────────────────────────────────────────
+export default function AstroEnglishK1Page() {
+  const { lang } = useLang();
+  const router = useRouter();
+  const t = T[lang as keyof typeof T] ?? T.en;
+
+  const [screen, setScreen] = useState<Screen>("island-map");
+  const [progress, setProgress] = useState<EnglishProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
+  const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
+  const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
+  const [activeTestId, setActiveTestId] = useState<string | null>(null);
+  const [questions, setQuestions] = useState<MathQuestion[]>([]);
+  const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
+  const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
+  const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
+  const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
+  const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
+
+  // ── Avatar state ──────────────────────────────────────────────────────────────
+  const [gender] = useState<AvatarGender>(() => getGender());
+  const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(() => getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+  const [avatarMood, setAvatarMood] = useState<"idle"|"focused"|"happy"|"disappointed"|"victory"|"surprised"|"confused"|"laughing">("idle");
+  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
+  const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
+  const [avatarWalking, setAvatarWalking] = useState(false);
+  const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const avatarIsland = K1_ISLANDS.find(i => i.id === avatarIslandId) ?? K1_ISLANDS[0];
+
+  const avatarProps = {
+    gender, activeSkin, activeFace,
+    activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves,
+    activeHat, activeTrail,
+  };
+
+  useEffect(() => {
+    const p = loadK1Progress();
+    setProgress(p);
+    const lastDone = [...K1_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
+    if (lastDone) setAvatarIslandId(lastDone.id);
+    return () => { if (walkTimerRef.current) clearTimeout(walkTimerRef.current); };
+  }, []);
+
+  // ── Island selected ──────────────────────────────────────────────────────────
+  const handleIslandSelect = useCallback((island: IslandDef) => {
+    if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    setActiveIsland(island);
+    setAvatarIslandId(island.id);
+    setAvatarWalking(false);
+    setAvatarMood("idle");
+    setScreen("island-transition");
+  }, []);
+
+  // ── Start mission ────────────────────────────────────────────────────────────
+  const startMission = useCallback((mission: MissionDef) => {
+    if (!activeIsland) return;
+    setActiveMission(mission);
+    setAvatarMood("focused");
+
+    // For explorer games, we don't use questions array - content is generated per game
+    if (["word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(mission.gameType)) {
+      setQuestions([]);
+      setScreen(mission.gameType as Screen);
+    } else {
+      const qCount = mission.gameType === "star-match" ? 20 : 10;
+      const qs = generateEnglishIslandQuestions(activeIsland, 1, qCount);
+      setQuestions(qs);
+      setScreen(mission.gameType as Screen);
+    }
+  }, [activeIsland]);
+
+  // ── Mission finished ─────────────────────────────────────────────────────────
+  const handleMissionDone = useCallback((score: number, total: number) => {
+    if (!activeIsland || !activeMission) return;
+    setMissionScore({ score, total });
+
+    const pct = total > 0 ? Math.round((score / total) * 100) : 0;
+    const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
+
+    const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
+    const newProgress = completeMissionK1(progress, activeIsland.id, activeMission.id, stars);
+    const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
+    setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
+    saveK1Progress(newProgress);
+    setProgress(newProgress);
+
+    const pct2 = total > 0 ? Math.round((score / total) * 100) : 0;
+    setAvatarMood(pct2 >= 60 ? "victory" : "disappointed");
+    setScreen("mission-done");
+  }, [activeIsland, activeMission, progress]);
+
+  // ── After mission-done: check if island complete ─────────────────────────────
+  const handleAfterMission = useCallback(() => {
+    if (!activeIsland) return;
+    if (justUnlockedIsland) {
+      setScreen("island-complete-anim");
+    } else {
+      setScreen("mission-select");
+    }
+  }, [activeIsland, justUnlockedIsland]);
+
+  const handleIslandAnimDone = useCallback(() => {
+    const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
+    saveCard({ id: generateCardId(), game: "astroenglish", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+    incrementTotalGames();
+    checkNewMilestones();
+    setEarnedCard(rarity);
+    setRewardScore({ score: missionScore.score, total: missionScore.total });
+    setScreen("reward");
+  }, [missionScore]);
+
+  // ── Checkpoint ───────────────────────────────────────────────────────────────
+  const startCheckpoint = useCallback((testId: string) => {
+    setActiveTestId(testId);
+    setAvatarMood("focused");
+    const qs = generateEnglishCheckpointQuestions(testId, K1_CHECKPOINT_MAP, 1, 7);
+    setQuestions(qs);
+    setScreen("rocket-launch");
+  }, []);
+
+  const startCheckpointQuiz = useCallback(() => {
+    if (!activeTestId) return;
+    const qs = generateEnglishCheckpointQuestions(activeTestId, K1_CHECKPOINT_MAP, 1, 10);
+    setQuestions(qs);
+    setScreen("checkpoint-quiz");
+  }, [activeTestId]);
+
+  const handleCheckpointDone = useCallback((score: number, total: number) => {
+    if (!activeTestId) return;
+    setCheckpointScore({ score, total });
+
+    const newProgress = completeTestK1(progress, activeTestId);
+    saveK1Progress(newProgress);
+    setProgress(newProgress);
+
+    const rarity = calculateRarity(score, total, 0, false);
+    saveCard({ id: generateCardId(), game: "astroenglish", rarity, score, total, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+    incrementTotalGames();
+    checkNewMilestones();
+    setEarnedCard(rarity);
+    setRewardScore({ score, total });
+    setScreen("reward");
+  }, [activeTestId, progress]);
+
+  const goToMap = useCallback(() => {
+    setAvatarMood("idle");
+    setScreen("island-map");
+    setActiveIsland(null);
+    setActiveMission(null);
+    setActiveTestId(null);
+  }, []);
+
+  const bgColor = activeIsland?.color ?? "#FF2D78";
+
+  // ─── ISLAND MAP ─────────────────────────────────────────────────────────────
+  if (screen === "island-map") {
+    const totalDone = progress.completedIslands.length;
+    return (
+      <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
+        <Starfield />
+        <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
+          <button onClick={() => router.push("/astroenglish")}
+            className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
+            <ChevronLeft size={18} />
+          </button>
+          <div className="text-center">
+            <h1 className="text-lg font-black text-white">🪐 {t.islandMap}</h1>
+            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">{K1_LABEL[lang] ?? K1_LABEL.en}</p>
+          </div>
+          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/60 text-xs font-bold">
+            {totalDone}/9
+          </div>
+        </div>
+        <div className="relative z-10 px-4 mb-2 flex-shrink-0">
+          <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
+            <motion.div className="h-full rounded-full" style={{ background: "linear-gradient(90deg, #FF2D78, #00D4FF)" }}
+              initial={{ width: 0 }} animate={{ width: `${(totalDone / 9) * 100}%` }} transition={{ duration: 0.8 }} />
+          </div>
+        </div>
+        <div className="relative z-10 flex-1 overflow-y-auto">
+          <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
+            <div className="relative">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              <motion.div
+                className="absolute pointer-events-none z-10"
+                style={{ width: 48, height: 48, transform: "translate(-50%, -75%)" }}
+                animate={{
+                  left: `${(avatarIsland.svgX / MAP_W) * 100}%`,
+                  top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`,
+                  opacity: 1,
+                }}
+                initial={{ opacity: 0 }}
+                transition={avatarWalking
+                  ? { left: { duration: 0.65, ease: "easeInOut" }, top: { duration: 0.65, ease: "easeInOut" }, opacity: { duration: 0.4 } }
+                  : { opacity: { delay: 0.5, duration: 0.5 } }
+                }
+              >
+                <AvatarCompanion
+                  fixed={false}
+                  mood={avatarWalking ? "happy" : "idle"}
+                  passThrough={true}
+                  {...avatarProps}
+                />
+              </motion.div>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // ─── ISLAND INTRO ────────────────────────────────────────────────────────────
+  if (screen === "island-intro" && activeIsland) {
+    return (
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+        <Starfield />
+        <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
+          <button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <div className="w-9" />
+        </div>
+        <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 gap-6 text-center pb-6">
+          <motion.div className="text-7xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", stiffness: 300 }}>
+            {activeIsland.icon}
+          </motion.div>
+          <div>
+            <h2 className="text-2xl font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+            <p className="text-white/60 text-sm mt-2 font-medium">{activeIsland.missions.length} {t.missions}</p>
+          </div>
+          <motion.button onClick={() => setScreen("mission-select")}
+            className="w-full max-w-xs py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
+            style={{ background: `linear-gradient(135deg, ${bgColor}55, ${bgColor}99)`, border: `2px solid ${bgColor}` }}
+            whileTap={{ scale: 0.97 }}>
+            {t.start} <ChevronRight size={20} />
+          </motion.button>
+        </div>
+      </div>
+    );
+  }
+
+  // ─── MISSION SELECT ──────────────────────────────────────────────────────────
+  if (screen === "mission-select" && activeIsland) {
+    const totalStars = islandTotalStarsK1(progress, activeIsland.id);
+    return (
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+        <Starfield />
+        {/* Header */}
+        <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
+          <button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <div className="text-center">
+            <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+            {totalStars > 0 && (
+              <div className="flex items-center justify-center gap-0.5 mt-0.5">
+                {Array.from({ length: 9 }).map((_, i) => (
+                  <span key={i} className="text-xs" style={{ opacity: i < totalStars ? 1 : 0.18 }}>⭐</span>
+                ))}
+                <span className="text-xs text-white/40 ml-1">{totalStars}/9</span>
+              </div>
+            )}
+          </div>
+          <div className="w-9" />
+        </div>
+
+        {/* 3 Mission Cards */}
+        <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 pb-8 justify-center">
+          {activeIsland.missions.map((mission, cardIdx) => {
+            const done = isMissionDone(progress, activeIsland.id, mission.id);
+            const mKey = `${activeIsland.id}_${mission.id}`;
+            const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
+            const categoryColor = { explore: "#A78BFA", build: "#34D399", challenge: "#FB923C" }[mission.category ?? "explore"] || "#999";
+            return (
+              <motion.button
+                key={mission.id}
+                onClick={() => startMission(mission)}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: cardIdx * 0.08 }}
+                className="w-full rounded-3xl p-5 text-left flex flex-col gap-2"
+                style={{ background: `rgba(${categoryColor === "#A78BFA" ? "167,139,250" : categoryColor === "#34D399" ? "52,211,153" : "251,146,60"},0.12)`, border: `2px solid ${done ? categoryColor : `${categoryColor}58`}` }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-black px-2.5 py-0.5 rounded-full"
+                    style={{ background: `${categoryColor}25`, color: categoryColor }}>
+                    {(mission.category ?? "explore").charAt(0).toUpperCase() + (mission.category ?? "explore").slice(1)}
+                  </span>
+                  {done && (
+                    <div className="flex gap-0.5">
+                      {[1,2,3].map(s => (
+                        <span key={s} className="text-sm" style={{ opacity: s <= bestStars ? 1 : 0.2 }}>
+                          {s <= bestStars ? "⭐" : "✩"}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+                <div className="flex items-center gap-3">
+                  <span className="text-3xl">{mission.icon}</span>
+                  <div>
+                    <p className="font-black text-white text-base leading-tight">
+                      {mission.label[lang as Lang] ?? mission.label.en}
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-center justify-end">
+                  <span className="text-xs font-bold flex items-center gap-1" style={{ color: categoryColor }}>
+                    {done ? (lang === "hu" ? "Újra" : lang === "de" ? "Wiederholen" : lang === "ro" ? "Repetă" : "Play again") : (lang === "hu" ? "Indítás" : lang === "de" ? "Starten" : lang === "ro" ? "Start" : "Start")}
+                    <ChevronRight size={14} />
+                  </span>
+                </div>
+              </motion.button>
+            );
+          })}
+        </div>
+      </div>
+    );
+  }
+
+  // ─── GAME SCREENS ─────────────────────────────────────────────────────────────
+  const gameScreen = (
+    <div className="min-h-screen flex flex-col relative overflow-hidden"
+      style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}18 0%, #060614 55%)` }}>
+      <Starfield />
+      <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+        <button onClick={() => setScreen("mission-select")}
+          className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+        <div className="flex-1">
+          <p className="text-white/70 text-xs font-bold">{activeIsland?.icon} {activeIsland?.name[lang as Lang]}</p>
+          <p className="text-white/50 text-[10px]">{activeMission?.label[lang as Lang] ?? activeMission?.label.en}</p>
+        </div>
+      </div>
+      <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+        {screen === "orbit-quiz" && questions.length > 0 && (
+          <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "black-hole" && questions.length > 0 && (
+          <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "gravity-sort" && activeIsland && (
+          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "star-match" && questions.length > 0 && (
+          <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "speed-round" && questions.length > 0 && (
+          <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "word-sort" && activeIsland && (
+          <WordSortExplorer rounds={getK1ExplorerContent("word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "sentence-builder" && activeIsland && (
+          <SentenceBuilderExplorer rounds={getK1ExplorerContent("sentence-builder")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "fill-gap" && activeIsland && (
+          <FillGapExplorer rounds={getK1ExplorerContent("fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "spell-race" && activeIsland && (
+          <SpellRaceExplorer rounds={getK1ExplorerContent("spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "category-rush" && activeIsland && (
+          <CategoryRushExplorer {...getK1ExplorerContent("category-rush")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "grammar-match" && activeIsland && (
+          <GrammarMatchExplorer rounds={getK1ExplorerContent("grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+      </div>
+    </div>
+  );
+
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(screen)) return (
+    <>
+      {gameScreen}
+      <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
+    </>
+  );
+
+  // ─── ROCKET LAUNCH ────────────────────────────────────────────────────────────
+  if (screen === "rocket-launch" && activeTestId) {
+    return (
+      <>
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
+        <Starfield />
+        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+          <div className="flex-1">
+            <p className="text-white font-black text-sm">{t.rocketTitle}</p>
+            <p className="text-white/50 text-[10px]">{t.rocketDesc}</p>
+          </div>
+        </div>
+        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+          <RocketLaunch questions={questions} color="#FF9500"
+            onDone={() => setScreen("checkpoint-intro")} />
+        </div>
+      </div>
+      <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
+      </>
+    );
+  }
+
+  // ─── ISLAND TRANSITION ───────────────────────────────────────────────────────
+  if (screen === "island-transition") {
+    return (
+      <div className="min-h-screen bg-[#060614] relative">
+        <Starfield />
+        <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
+      </div>
+    );
+  }
+
+  // ─── ISLAND COMPLETE ANIMATION ───────────────────────────────────────────────
+  if (screen === "island-complete-anim" && activeIsland) {
+    return (
+      <IslandCompleteAnimation
+        islandIcon={activeIsland.icon}
+        islandColor={activeIsland.color}
+        islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
+        lang={lang}
+        grade={1}
+        score={missionScore.score}
+        total={missionScore.total}
+        onDone={handleIslandAnimDone}
+      />
+    );
+  }
+
+  // ─── MISSION DONE ────────────────────────────────────────────────────────────
+  if (screen === "mission-done" && activeIsland && activeMission) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
+        style={{ background: `radial-gradient(ellipse at 50% 30%, ${bgColor}22 0%, #060614 60%)` }}>
+        <Starfield />
+        <div className="relative z-10 w-full">
+          <MissionDoneScreen mission={activeMission} island={activeIsland}
+            score={missionScore.score} total={missionScore.total} onContinue={handleAfterMission} />
+        </div>
+      </div>
+    );
+  }
+
+  // ─── REWARD ──────────────────────────────────────────────────────────────────
+  if (screen === "reward" && earnedCard) {
+    return (
+      <>
+        <RewardReveal rarity={earnedCard} game="astroenglish"
+          score={rewardScore.score} total={rewardScore.total}
+          onDone={() => {
+            if (activeTestId) {
+              setScreen("checkpoint-done");
+            } else {
+              setScreen("island-done");
+            }
+          }} />
+        <MilestonePopup />
+      </>
+    );
+  }
+
+  // ─── ISLAND DONE ─────────────────────────────────────────────────────────────
+  if (screen === "island-done" && activeIsland) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
+        style={{ background: `radial-gradient(ellipse at 50% 30%, ${bgColor}22 0%, #060614 60%)` }}>
+        <Starfield />
+        <div className="relative z-10 w-full">
+          <IslandDoneScreen island={activeIsland} onContinue={goToMap} />
+        </div>
+        <MilestonePopup />
+      </div>
+    );
+  }
+
+  // ─── CHECKPOINT INTRO ────────────────────────────────────────────────────────
+  if (screen === "checkpoint-intro" && activeTestId) {
+    const testTopicsK1: Record<string, Record<string, string>> = {
+      en: { test1: "Letters, Phonics, Beginning Blends", test2: "Short Vowels, CVC Words, Word Families", test3: "Sight Words, Simple Sentences, Reading" },
+      hu: { test1: "Betűk, fonétika, kezdő keverékek", test2: "Rövid magánhangzók, CVC szavak, szócsaládok", test3: "Gyakori szavak, egyszerű mondatok, olvasás" },
+      de: { test1: "Buchstaben, Phonetik, Anfangsblends", test2: "Kurze Vokale, CVC-Wörter, Wortfamilien", test3: "Sichtwörter, einfache Sätze, Lesen" },
+      ro: { test1: "Litere, fonetică, blenduri inițiale", test2: "Vocale scurte, cuvinte CVC, familii de cuvinte", test3: "Cuvinte obișnuite, propoziții simple, citire" },
+    };
+    const topicDesc = (testTopicsK1[lang] ?? testTopicsK1.en)[activeTestId] ?? "";
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5 gap-6"
+        style={{ background: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.12) 0%, #060614 60%)" }}>
+        <Starfield />
+        <div className="relative z-10 flex flex-col items-center gap-5 text-center w-full max-w-sm">
+          <button onClick={goToMap} className="absolute top-0 right-0 w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+          <motion.div className="text-6xl" animate={{ rotate: [0, -5, 5, 0] }} transition={{ duration: 2, repeat: Infinity }}>🎓</motion.div>
+          <div>
+            <h2 className="text-2xl font-black text-[#FFD700]">{t.checkpointReady}</h2>
+            <p className="text-white/60 text-sm mt-2 font-medium leading-relaxed">{t.checkpointDesc}</p>
+            <p className="text-white/50 text-xs mt-2">{topicDesc}</p>
+          </div>
+          <motion.button onClick={startCheckpointQuiz}
+            className="w-full py-4 rounded-2xl font-black text-black text-base flex items-center justify-center gap-2"
+            style={{ background: "linear-gradient(135deg, #FFD700, #FFA500)" }}
+            whileTap={{ scale: 0.97 }}>
+            {t.startTest} 🚀
+          </motion.button>
+        </div>
+      </div>
+    );
+  }
+
+  // ─── CHECKPOINT QUIZ ──────────────────────────────────────────────────────────
+  if (screen === "checkpoint-quiz" && questions.length > 0) {
+    return (
+      <>
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.15) 0%, #060614 55%)" }}>
+        <Starfield />
+        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+          <div className="flex-1">
+            <p className="text-white font-black text-sm">📋 {t.checkpoint}</p>
+            <p className="text-white/50 text-[10px]">{t.finalTest}</p>
+          </div>
+        </div>
+        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+          <OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} />
+        </div>
+      </div>
+      <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
+      </>
+    );
+  }
+
+  // ─── CHECKPOINT DONE ──────────────────────────────────────────────────────────
+  if (screen === "checkpoint-done" && activeTestId) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
+        style={{ background: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.12) 0%, #060614 60%)" }}>
+        <Starfield />
+        <div className="relative z-10 w-full">
+          <CheckpointDoneScreen score={checkpointScore.score} total={checkpointScore.total}
+            testId={activeTestId} onContinue={goToMap} />
+        </div>
+        <MilestonePopup />
+      </div>
+    );
+  }
+
+  return null;
+}

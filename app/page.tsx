@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -77,9 +77,12 @@ const TRANSLATIONS = {
       citydrive: "City Drive",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
+      astromagyar: "AstroMagyar",
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
+      magyarteszt: "Hungarian Test",
       romaniantest: "Test Limba Română",
       racetrack: "Racetrack",
       sequencerush: "Sequence Rush",
@@ -121,9 +124,12 @@ const TRANSLATIONS = {
       citydrive: "Város Vezetés",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
+      astromagyar: "AstroMagyar",
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
       englishtest: "Angol Teszt",
+      magyarteszt: "Magyar Teszt",
       romaniantest: "Román Teszt",
       racetrack: "Pályaverseny",
       sequencerush: "Szekvencia Roham",
@@ -165,9 +171,12 @@ const TRANSLATIONS = {
       citydrive: "Stadtfahrt",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
+      astromagyar: "AstroMagyar",
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
+      magyarteszt: "Ungarisch-Test",
       romaniantest: "Rumänisch-Test",
       racetrack: "Rennstrecke",
       sequencerush: "Sequenz Rush",
@@ -209,9 +218,12 @@ const TRANSLATIONS = {
       citydrive: "Conducere în Oraș",
       astromath: "AstroMath",
       astrodeutsch: "AstroDeutsch",
+      astroenglish: "AstroEnglish",
+      astromagyar: "AstroMagyar",
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
       englishtest: "Test de Engleză",
+      magyarteszt: "Test maghiară",
       romaniantest: "Test Limba Română",
       racetrack: "Circuit de curse",
       sequencerush: "Sequence Rush",
@@ -367,6 +379,20 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-cyan-500/20 to-teal-500/20",
       },
       {
+        id: "astroenglish",
+        icon: Languages,
+        nameKey: "astroenglish",
+        color: "#3B82F6",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
+      },
+      {
+        id: "astromagyar",
+        icon: Languages,
+        nameKey: "astromagyar",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
+      },
+      {
         id: "mathtest",
         icon: Calculator,
         nameKey: "mathtest",
@@ -388,6 +414,14 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#3B82F6",
         gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
         langOnly: "en",
+      },
+      {
+        id: "magyarteszt",
+        icon: BookOpen,
+        nameKey: "magyarteszt",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
+        langOnly: "hu",
       },
       {
         id: "romaniantest",
@@ -556,7 +590,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", astrodeutsch: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", romaniantest: "brain",
+  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };

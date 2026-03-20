@@ -27,7 +27,7 @@ const RO_CONFIG: LanguageTestEngineConfig = {
   bgColors: ["#EF4444", "#3B82F6", "#EAB308", "#10B981", "#FFFFFF"],
 
   countries: [
-    { code: "RO", flag: "🇷🇴", label: "România", sub: "FB / B / S / I" },
+    { code: "RO", flag: "🇷🇴", label: "România", sub: "Note 1–10" },
   ],
   calculateMark: calculateRomanianGrade,
 
@@ -38,7 +38,7 @@ const RO_CONFIG: LanguageTestEngineConfig = {
   getReadingPassage: getRandomRomanianPassage,
 
   visualTypes: ROMANIAN_VISUAL_TYPES,
-  visualGrades: [1],
+  visualGrades: [1, 2, 3],
 
   labels: {
     selectCountry: "Alege țara",
@@ -60,7 +60,7 @@ const RO_CONFIG: LanguageTestEngineConfig = {
     answerPlaceholder: "Răspunsul tău...",
     submit: "Trimite ✓",
     back: "Înapoi",
-    markLabel: "Calificativ",
+    markLabel: "Nota",
     correct: "corect",
     review: "Evaluare",
     tryAgain: "Din nou",

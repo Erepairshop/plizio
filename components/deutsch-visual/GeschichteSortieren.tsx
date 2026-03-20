@@ -13,9 +13,10 @@ interface Props {
   userAnswer: string;     // comma-joined correct indices in chosen order, e.g. "2,0,3,1"
   submitted: boolean;
   onAnswer: (a: string) => void;
+  instructionLabel?: string;
 }
 
-export default function GeschichteSortieren({ sentences, shuffledOrder, userAnswer, submitted, onAnswer }: Props) {
+export default function GeschichteSortieren({ sentences, shuffledOrder, userAnswer, submitted, onAnswer, instructionLabel }: Props) {
   // pool: indices still available (in shuffled display order)
   const [pool, setPool] = useState<number[]>(shuffledOrder);
   // built: indices chosen so far (should end up [0,1,2,...])
@@ -54,7 +55,7 @@ export default function GeschichteSortieren({ sentences, shuffledOrder, userAnsw
       {/* Instruction line */}
       <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-1 px-1">
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
-        <span className="text-xs text-slate-400 italic">Bringe die Sätze in die richtige Reihenfolge:</span>
+        <span className="text-xs text-slate-400 italic">{instructionLabel ?? "Bringe die Sätze in die richtige Reihenfolge:"}</span>
       </div>
 
       {/* Pool: shuffled sentence chips */}

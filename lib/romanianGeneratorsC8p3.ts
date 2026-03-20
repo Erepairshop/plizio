@@ -34,7 +34,8 @@ export const C8P3_Generators = {
     const questions = [];
     for (let i = 0; i < 30; i++) {
       const f = pick(FIGURI_STIL, rng);
-      questions.push(createMCQ("Romanian-C8-P3", "figuri_stil", `"${f.desc}" - aceasta este:`, f.figura, [pick(FIGURI_STIL, rng).figura, "versificație", "prozodia"], rng));
+      const otherF = pick(FIGURI_STIL.filter(x => x.figura !== f.figura), rng);
+      questions.push(createMCQ("Romanian-C8-P3", "figuri_stil", `"${f.desc}" - aceasta este:`, f.figura, [otherF.figura, "versificație", "prozodia"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -44,7 +45,8 @@ export const C8P3_Generators = {
     const questions = [];
     for (let i = 0; i < 30; i++) {
       const g = pick(TEXT_LITERAR_GENURI, rng);
-      questions.push(createMCQ("Romanian-C8-P3", "text_literar_genuri", `"${g.trait}" - genul este:`, g.gen, [pick(TEXT_LITERAR_GENURI, rng).gen, "eseu", "memorii"], rng));
+      const otherG = pick(TEXT_LITERAR_GENURI.filter(x => x.gen !== g.gen), rng);
+      questions.push(createMCQ("Romanian-C8-P3", "text_literar_genuri", `"${g.trait}" - genul este:`, g.gen, [otherG.gen, "eseu", "memorii"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -54,7 +56,8 @@ export const C8P3_Generators = {
     const questions = [];
     for (let i = 0; i < 30; i++) {
       const e = pick(COMENTARIU_LITERAR_ELEM, rng);
-      questions.push(createMCQ("Romanian-C8-P3", "comentariu_literar", `"${e.desc}" - aceasta este:`, e.element, [pick(COMENTARIU_LITERAR_ELEM, rng).element, "verifica", "propoziție"], rng));
+      const otherE = pick(COMENTARIU_LITERAR_ELEM.filter(x => x.element !== e.element), rng);
+      questions.push(createMCQ("Romanian-C8-P3", "comentariu_literar", `"${e.desc}" - aceasta este:`, e.element, [otherE.element, "verifica", "propoziție"], rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },

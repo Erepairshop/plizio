@@ -126,6 +126,7 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const voc = pick(VOCABULAR_FAMILIE, rng);
+    const wrongVoc = pick(VOCABULAR_FAMILIE.filter(v => v.root !== voc.root), rng);
 
     questions.push(
       createMCQ(
@@ -135,7 +136,7 @@ function vocabular_familie_lexicala(seed = 42): CurriculumQuestion[] {
         voc.derivative.split(",")[0],
         shuffle(
           voc.derivative.split(",").slice(0, 2).map(w => w.trim()).concat([
-            pick(VOCABULAR_FAMILIE.filter(v => v.root !== voc.root), rng).derivative.split(",")[0],
+            wrongVoc.derivative.split(",")[0],
           ]),
           rng
         ).slice(0, 3),
@@ -153,6 +154,7 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const voc = pick(VOCABULAR_MIJLOACE, rng);
+    const wrongVoc = pick(VOCABULAR_MIJLOACE.filter(v => v.word !== voc.word), rng);
 
     questions.push(
       createMCQ(
@@ -162,7 +164,7 @@ function vocabular_mijloace(seed = 42): CurriculumQuestion[] {
         voc.examples.split("→")[0],
         [
           voc.examples.split("→")[1],
-          pick(VOCABULAR_MIJLOACE.filter(v => v.word !== voc.word), rng).examples.split("→")[0],
+          wrongVoc.examples.split("→")[0],
           `derivare negramaticală`,
         ],
         rng
@@ -179,6 +181,7 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const text = pick(TEXT_ROMAN_NUVELA, rng);
+    const wrongText = pick(TEXT_ROMAN_NUVELA.filter(t => t.genre !== text.genre), rng);
 
     questions.push(
       createMCQ(
@@ -187,7 +190,7 @@ function text_roman_nuvela(seed = 42): CurriculumQuestion[] {
         `Care e caracteristica genului ${text.genre}? "${text.traits}"`,
         text.traits,
         [
-          pick(TEXT_ROMAN_NUVELA.filter(t => t.genre !== text.genre), rng).traits,
+          wrongText.traits,
           `volum variabil`,
           `epocă nedeterminată`,
         ],
@@ -205,6 +208,10 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const liric = pick(TEXT_LIRIC, rng);
+    const liricWrongs = shuffle(TEXT_LIRIC.filter(l => l.form !== liric.form), rng);
+    const wrong1 = liricWrongs[0];
+    const wrong2 = liricWrongs[1];
+    const wrong3 = liricWrongs[2];
 
     questions.push(
       createMCQ(
@@ -213,9 +220,9 @@ function text_liric_c7(seed = 42): CurriculumQuestion[] {
         `Forma lirica "${liric.form}" se caracterizează prin: "${liric.structure}". Exemplu: "${liric.example}". Trasat principal: "${liric.traits}". Care e forma corectă?`,
         liric.form,
         [
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
-          pick(TEXT_LIRIC.filter(l => l.form !== liric.form), rng).form,
+          wrong1.form,
+          wrong2.form,
+          wrong3.form,
         ],
         rng
       )
@@ -231,6 +238,10 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
 
   for (let i = 0; i < 10; i++) {
     const drama = pick(TEXT_DRAMATIC, rng);
+    const dramaWrongs = shuffle(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng);
+    const wrong1 = dramaWrongs[0];
+    const wrong2 = dramaWrongs[1];
+    const wrong3 = dramaWrongs[2];
 
     questions.push(
       createMCQ(
@@ -239,9 +250,9 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
         `Genul dramatic "${drama.genre}" se caracterizează prin: "${drama.traits}". Care e definiția corectă?`,
         drama.genre,
         [
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
-          pick(TEXT_DRAMATIC.filter(d => d.genre !== drama.genre), rng).genre,
+          wrong1.genre,
+          wrong2.genre,
+          wrong3.genre,
         ],
         rng
       )

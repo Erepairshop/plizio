@@ -147,7 +147,7 @@ export const C6P3_Generators = {
     const subtopic = "subiect_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_SUBIECT, rng);
       const q = createMCQ(
@@ -188,7 +188,7 @@ export const C6P3_Generators = {
     const subtopic = "predicat_verbal_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_PREDICAT_VERBAL, rng);
       const q = createMCQ(
@@ -229,7 +229,7 @@ export const C6P3_Generators = {
     const subtopic = "predicat_nominal_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_PREDICAT_NOMINAL, rng);
       const q = createMCQ(
@@ -270,7 +270,7 @@ export const C6P3_Generators = {
     const subtopic = "complement_direct_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_COMPLEMENT_DIRECT, rng);
       const q = createMCQ(
@@ -311,7 +311,7 @@ export const C6P3_Generators = {
     const subtopic = "complement_indirect_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_COMPLEMENT_INDIRECT, rng);
       const q = createMCQ(
@@ -352,7 +352,7 @@ export const C6P3_Generators = {
     const subtopic = "complement_circumstantial_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_COMPLEMENT_CIRCUMSTANTIAL, rng);
       const q = createMCQ(
@@ -393,7 +393,7 @@ export const C6P3_Generators = {
     const subtopic = "atribut_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_ATRIBUT, rng);
       const q = createMCQ(
@@ -434,7 +434,7 @@ export const C6P3_Generators = {
     const subtopic = "subord_completive_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_SUBORD_COMPLETIVE, rng);
       const q = createMCQ(
@@ -475,7 +475,7 @@ export const C6P3_Generators = {
     const subtopic = "subord_circumstantiale_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_SUBORD_CIRCUMSTANTIALE, rng);
       const q = createMCQ(
@@ -516,7 +516,7 @@ export const C6P3_Generators = {
     const subtopic = "subord_atributive_c6";
     const questions: CurriculumQuestion[] = [];
 
-    // MCQ questions (30)
+    // MCQ questions (30) — cyclic iteration to avoid duplicates
     for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_SUBORD_ATRIBUTIVE, rng);
       const q = createMCQ(
