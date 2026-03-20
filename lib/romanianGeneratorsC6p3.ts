@@ -57,6 +57,11 @@ function createMCQ(
   };
 }
 
+/** Create typing question */
+function createTyping(topic: string, subtopic: string, question: string, correct: string): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, correct };
+}
+
 // ─── WORD BANKS & DATA ──────────────────────────────────────────────────────
 
 const SINTAXA_SUBIECT = [
@@ -138,12 +143,16 @@ export const C6P3_Generators = {
   // SINTAXĂ — SUBIECT
   sintaxa_subiect: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "sintaxa_c6";
+    const subtopic = "subiect_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_SUBIECT, rng);
       const q = createMCQ(
-        "sintaxa_c6",
-        "subiect_c6",
+        topic,
+        subtopic,
         `În propoziția "${item.prop}", subiectul este "${item.subiect}" care este de tip:`,
         item.tip_subiect,
         ["verb", "adverb", "conjuncție"].filter(x => x !== item.tip_subiect),
@@ -151,18 +160,40 @@ export const C6P3_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este subiectul?", "cuvântul despre care se spune ceva"));
+    questions.push(createTyping(topic, subtopic, "Subiectul răspunde la ce?", "cine face sau ce este"));
+    questions.push(createTyping(topic, subtopic, "Subiectul poate fi din ce?", "substantiv, pronume, adjectiv substantivat, infinitiv"));
+    questions.push(createTyping(topic, subtopic, "Se acordă subiectul cu verbul?", "da, în persoană și număr"));
+    questions.push(createTyping(topic, subtopic, "Exemplu subiect substantiv:", "copilul cântă"));
+    questions.push(createTyping(topic, subtopic, "Exemplu subiect pronume:", "el vorbește"));
+    questions.push(createTyping(topic, subtopic, "Exemplu subiect infinitiv:", "a citi este plăcut"));
+    questions.push(createTyping(topic, subtopic, "Subiectul este parte a:", "propoziției"));
+    questions.push(createTyping(topic, subtopic, "Poate fi subiect absent?", "da, în comenzi: vino! merge!"));
+    questions.push(createTyping(topic, subtopic, "Subiect compus este:", "mai mult de un subiect"));
+    questions.push(createTyping(topic, subtopic, "Subiect simplu este:", "un singur element"));
+    questions.push(createTyping(topic, subtopic, "Poziția subiectului în propoziție:", "de obicei la început"));
+    questions.push(createTyping(topic, subtopic, "Subiectul exprimă:", "actantul principal al acțiunii"));
+    questions.push(createTyping(topic, subtopic, "Ce tip sunt verbele la subiect plural?", "forma de plural"));
+    questions.push(createTyping(topic, subtopic, "Esenţialul pentru subiect:", "acord cu verbul"));
+
+    return shuffle(questions, rng);
   },
 
   // SINTAXĂ — PREDICAT VERBAL
   sintaxa_predicat_verbal: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "sintaxa_c6";
+    const subtopic = "predicat_verbal_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_PREDICAT_VERBAL, rng);
       const q = createMCQ(
-        "sintaxa_c6",
-        "predicat_verbal_c6",
+        topic,
+        subtopic,
         `În propoziția "${item.prop}", predicatul verbal este "${item.predicat}" care este:`,
         item.tip,
         ["substantiv", "adjectiv", "pronume"].filter(x => x !== item.tip),
@@ -170,18 +201,40 @@ export const C6P3_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este predicatul?", "ceea ce se spune despre subiect"));
+    questions.push(createTyping(topic, subtopic, "Predicatul verbal este:", "verbul din propoziție"));
+    questions.push(createTyping(topic, subtopic, "Predicatul răspunde la ce?", "ce face subiectul"));
+    questions.push(createTyping(topic, subtopic, "Predicatul verbal poate fi:", "simplu sau compus"));
+    questions.push(createTyping(topic, subtopic, "Exemplu predicat verbal simplu:", "el merge"));
+    questions.push(createTyping(topic, subtopic, "Exemplu predicat verbal compus:", "el a mers, el va merge"));
+    questions.push(createTyping(topic, subtopic, "Predicatul se acordă cu:", "subiectul"));
+    questions.push(createTyping(topic, subtopic, "Predicatul verbal este întotdeauna:", "verb"));
+    questions.push(createTyping(topic, subtopic, "Diferența între verbal și nominal:", "verbal=verb, nominal=copulă+atribut"));
+    questions.push(createTyping(topic, subtopic, "Poziția predicatului:", "după subiect, de obicei"));
+    questions.push(createTyping(topic, subtopic, "Predicatul exprimă:", "acțiunea"));
+    questions.push(createTyping(topic, subtopic, "Poate lipsi predicatul?", "nu, obligatoriu"));
+    questions.push(createTyping(topic, subtopic, "Predicat verbal cu auxiliar:", "a fi + participiu"));
+    questions.push(createTyping(topic, subtopic, "Predicat verbal negativ:", "nu + verb"));
+    questions.push(createTyping(topic, subtopic, "Predicatul verbal este esențial pentru:", "înțelegerea acțiunii"));
+
+    return shuffle(questions, rng);
   },
 
   // SINTAXĂ — PREDICAT NOMINAL
   sintaxa_predicat_nominal: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
+    const topic = "sintaxa_c6";
+    const subtopic = "predicat_nominal_c6";
     const questions: CurriculumQuestion[] = [];
-    for (let i = 0; i < 10; i++) {
+
+    // MCQ questions (30)
+    for (let i = 0; i < 30; i++) {
       const item = pick(SINTAXA_PREDICAT_NOMINAL, rng);
       const q = createMCQ(
-        "sintaxa_c6",
-        "predicat_nominal_c6",
+        topic,
+        subtopic,
         `În propoziția "${item.prop}", predicatul nominal este compus din copula "${item.copula}" și atributul:`,
         item.atribut,
         ["care", "dacă", "și"].filter(x => x !== item.atribut),
@@ -189,7 +242,25 @@ export const C6P3_Generators = {
       );
       questions.push(q);
     }
-    return questions;
+
+    // Typing questions (15)
+    questions.push(createTyping(topic, subtopic, "Ce este predicatul nominal?", "copulă + atribut"));
+    questions.push(createTyping(topic, subtopic, "Ce sunt copulele?", "verbe de stare: a fi, a deveni, a rămâne, a părea"));
+    questions.push(createTyping(topic, subtopic, "Exemplu predicat nominal:", "el este profesor"));
+    questions.push(createTyping(topic, subtopic, "Atributul predicativ este:", "adjectiv sau substantiv"));
+    questions.push(createTyping(topic, subtopic, "Exemplu cu 'a deveni':", "el a devenit doctor"));
+    questions.push(createTyping(topic, subtopic, "Exemplu cu 'a rămâne':", "el rămâne curios"));
+    questions.push(createTyping(topic, subtopic, "Exemplu cu 'a părea':", "el pare obosit"));
+    questions.push(createTyping(topic, subtopic, "Diferența viral și nominal:", "verbal=verb activ, nominal=stare"));
+    questions.push(createTyping(topic, subtopic, "Predicatul nominal exprimă:", "stare, calitate, identitate"));
+    questions.push(createTyping(topic, subtopic, "Copula se acordă cu:", "subiectul"));
+    questions.push(createTyping(topic, subtopic, "Atributul se acordă cu:", "subiectul (gen, număr)"));
+    questions.push(createTyping(topic, subtopic, "Poate lipsi copula?", "nu, obligatorie"));
+    questions.push(createTyping(topic, subtopic, "Predicat nominal fără 'a fi':", "învechi sau poetic"));
+    questions.push(createTyping(topic, subtopic, "Predicatul nominal este folosit pentru:", "descriere, caracterizare"));
+    questions.push(createTyping(topic, subtopic, "Predicat nominal cu adjectiv:", "el este frumos"));
+
+    return shuffle(questions, rng);
   },
 
   // SINTAXĂ — COMPLEMENT DIRECT
