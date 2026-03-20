@@ -446,6 +446,169 @@ export function generateEssze(seed?: number): CurriculumMCQ[] {
   return q;
 }
 
+// ─── TYPING GENERATORS FOR ORIGINAL 10 SUBTOPICS ─────────────────────────────
+
+type CurriculumTyping = {
+  type: "typing";
+  topic: string;
+  subtopic: string;
+  question: string;
+  answer: string | string[];
+  hint?: string;
+};
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[],
+  hint?: string
+): CurriculumTyping {
+  return { type: "typing", topic, subtopic, question, answer, hint };
+}
+
+export function generateOsszetetMeller_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("mondattan", "osszetett_mellér", "Írd be az 'összetett mellérendelő mondat' definícióját!", ["egyenrangú mondatok összekapcsolása"], "Mellérendelés"));
+    } else if (type === 1) {
+      q.push(createTyping("mondattan", "osszetett_mellér", "Mondj egy mellérendelő mondatot az 'és' kötőszó használatával!", ["Péter futott, és Anna rajzolt"], "Szóköz + és + szóköz"));
+    } else {
+      q.push(createTyping("mondattan", "osszetett_mellér", "Mi az 'ellentétes mellérendelés' típusa?", ["de, azonban, viszont"], "Ellentét"));
+    }
+  }
+  return q;
+}
+
+export function generateOsszetetAlar_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("mondattan", "osszetett_alár", "Mit jelent az 'összetett alárendelő mondat'?", ["fő mondat + mellékmondat"], "Alárendelés"));
+    } else {
+      q.push(createTyping("mondattan", "osszetett_alár", "Mondj egy alárendelő mondatot!", ["Az a könyv, amit olvastam, szép volt"], "Relatív mondat"));
+    }
+  }
+  return q;
+}
+
+export function generateHasonlatMetafora_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("stilus", "hasonlat_metafora", "Mi a hasonlat?", ["két dolog összevetése 'mint', 'olyan mint' szavakkal"], "Explicit összehasonlítás"));
+    } else if (type === 1) {
+      q.push(createTyping("stilus", "hasonlat_metafora", "Mi a metafora?", ["implicit szóképiesítés analógia alapján"], "Egyenes szóképiesítés"));
+    } else {
+      q.push(createTyping("stilus", "hasonlat_metafora", "Mondj egy metaforát!", ["Az élet egy utazás", "Az idő egy folyó"], "Pl. Az élet egy utazás"));
+    }
+  }
+  return q;
+}
+
+export function generateMegszemelyesites_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("stilus", "megszemelyes", "Mit jelent a megszemélyesítés?", ["élettelen dolgok emberi tulajdonságainak adása"], "Antropomorfizmus"));
+    } else {
+      q.push(createTyping("stilus", "megszemelyes", "Mondj egy megszemélyesítési példát!", ["Az idő szalad", "A szél suttog"], "Pl. Az idő szalad"));
+    }
+  }
+  return q;
+}
+
+export function generateIdgenSzavak_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("szofaj", "idegen_szavak", "Mit jelent az idegen szó?", ["más nyelvből átvett szó"], "Kölcsönszó"));
+    } else if (type === 1) {
+      q.push(createTyping("szofaj", "idegen_szavak", "Mondj egy idegen szót és annak nyelvét!", ["telefon - görög", "számítógép - angol", "szendvics - angol"], "Pl. telefon - görög"));
+    } else {
+      q.push(createTyping("szofaj", "idegen_szavak", "Miért használunk idegen szavakat?", ["pontosabb kifejezésre, modern szavak, technológia"], "Szükségesség"));
+    }
+  }
+  return q;
+}
+
+export function generateNyelvcsal_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("nyelvtan", "nyelvcsal", "Mit jelent a nyelvcsalád?", ["genetikai rokonság alapján csoportosított nyelvek"], "Nyelvrokonság"));
+    } else {
+      q.push(createTyping("nyelvtan", "nyelvcsal", "Melyik nyelvcsaládba tartozik a magyar?", ["finnugor"], "Uraali nyelvcsalád"));
+    }
+  }
+  return q;
+}
+
+export function generateErveles_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("fogalmazas", "erveles_alap", "Mit jelent az érvelés?", ["állítás támogatása okokkal és bizonyítékokkal"], "Argumentáció"));
+    } else if (type === 1) {
+      q.push(createTyping("fogalmazas", "erveles_alap", "Mondj egy érvelési típust!", ["logikus érvelés", "tapasztalat alapú érvelés", "szokás alapú érvelés"], "Pl. logikus érvelés"));
+    } else {
+      q.push(createTyping("fogalmazas", "erveles_alap", "Mit kell tartalmaznia egy jó érvelésnek?", ["tézis, érvek, bizonyítékok"], "Struktúra"));
+    }
+  }
+  return q;
+}
+
+export function generateSzovegErtelmez_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 2;
+    if (type === 0) {
+      q.push(createTyping("szövegtan", "ertelmez_halado", "Mit jelent a szövegelemzés?", ["szöveg értelme, szerkezete és hatásának vizsgálata"], "Analízis"));
+    } else {
+      q.push(createTyping("szövegtan", "ertelmez_halado", "Sorolj fel szövegelemzési szempontokat!", ["téma, szerkezet, stílus, hatás"], "Analitikai nézőpontok"));
+    }
+  }
+  return q;
+}
+
+export function generateTulajdonnev_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("helyesiras", "tulajdonnev", "Mit jelent a tulajdonnév?", ["egyéni, konkrét személy, hely, dolog neve"], "Nagybetűvel kezdődik"));
+    } else if (type === 1) {
+      q.push(createTyping("helyesiras", "tulajdonnev", "Írd be a helyesen írott személynevet!", ["Budapest", "Magyar Köztársaság", "Péter"], "Nagybetűvel"));
+    } else {
+      q.push(createTyping("helyesiras", "tulajdonnev", "Mondj egy mozaikszót és annak jelentését!", ["ENSZ - Egyesült Nemzetek Szövetsége"], "Pl. ENSZ"));
+    }
+  }
+  return q;
+}
+
+export function generateEssze_typing(seed?: number): CurriculumTyping[] {
+  const q: CurriculumTyping[] = [];
+  for (let i = 0; i < 15; i++) {
+    const type = i % 3;
+    if (type === 0) {
+      q.push(createTyping("fogalmazas", "essze", "Mit jelent az esszé?", ["rövid, személyes gondolatcsere az írónak saját nézeteiről"], "Szubjektív írás"));
+    } else if (type === 1) {
+      q.push(createTyping("fogalmazas", "essze", "Sorolj fel esszétípusokat!", ["elbeszélő, leíró, érvelő, tudományos"], "Esszé fajtái"));
+    } else {
+      q.push(createTyping("fogalmazas", "essze", "Mi az érvelő esszé célja?", ["meggyőzni az olvasót"], "Persuasio"));
+    }
+  }
+  return q;
+}
+
 // ─── NEW GENERATORS FOR EXPANDED GRADE 6 (15+ NEW SUBTOPICS) ─────────────────
 
 export function generateSzopárAntonimia(seed?: number): CurriculumMCQ[] {
@@ -909,17 +1072,27 @@ export function generateKözlekedés_typing(seed?: number): CurriculumTyping[] {
 // ─── EXPORTING ALL GENERATORS ───────────────────────────────────────────────
 
 export const G6_Generators_Hungarian = {
-  // Original generators
+  // Original generators with typing variants
   osszetett_mellér: generateOsszetetMeller,
+  osszetett_mellér_typing: generateOsszetetMeller_typing,
   osszetett_alár: generateOsszetetAlar,
+  osszetett_alár_typing: generateOsszetetAlar_typing,
   hasonlat_metafora: generateHasonlatMetafora,
+  hasonlat_metafora_typing: generateHasonlatMetafora_typing,
   megszemelyes: generateMegszemelyesites,
+  megszemelyes_typing: generateMegszemelyesites_typing,
   idegen_szavak: generateIdgenSzavak,
+  idegen_szavak_typing: generateIdgenSzavak_typing,
   nyelvcsal: generateNyelvcsal,
+  nyelvcsal_typing: generateNyelvcsal_typing,
   erveles_alap: generateErveles,
+  erveles_alap_typing: generateErveles_typing,
   ertelmez_halado: generateSzovegErtelmez,
+  ertelmez_halado_typing: generateSzovegErtelmez_typing,
   tulajdonnev: generateTulajdonnev,
+  tulajdonnev_typing: generateTulajdonnev_typing,
   essze: generateEssze,
+  essze_typing: generateEssze_typing,
   // New MCQ generators (15 additional)
   szopár_antonimia: generateSzopárAntonimia,
   szopár_antonimia_typing: generateSzopárAntonimia_typing,
