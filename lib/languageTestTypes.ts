@@ -95,7 +95,7 @@ export interface LanguageTestEngineConfig {
 
   // ── Curriculum ──
   curriculum: Record<number, CurriculumTheme[]>;
-  getQuestions: (grade: number, subtopicIds: string[], count: number) => CurriculumQuestion[];
+  getQuestions: (grade: number, subtopicIds: string[], count: number, countryCode?: string) => CurriculumQuestion[];
   generateForSubtopics?: (subtopicIds: string[], count: number) => CurriculumQuestion[];
   checkAnswer?: (given: string, expected: string | string[], grade: number) => boolean;
   subtopicHints?: Record<string, string>;

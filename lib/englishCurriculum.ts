@@ -2430,6 +2430,32 @@ const G3: EnglishTheme[] = [
           { type:"mcq", topic:"vocab_g3", subtopic:"time_dates_g3", question:"What does SIMULTANEOUS mean?", options:["happening at the same time","happening one after another","happening very slowly","happening very quickly"], correct:0 },
         ],
       },
+      {
+        id: "vocab_variants_g3",
+        name: "English Around the World (US / UK / AU / CA)",
+        questions: [
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'the path beside a road'?", options:["pavement","sidewalk","footpath","pathway"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what do you call 'the storage space at the back of a car'?", options:["trunk","boot","boot space","luggage area"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In Australian English, what do you call 'sweet treats / candy'?", options:["lollies","sweets","candy","lollipops"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'a home inside a larger building'?", options:["flat","apartment","condo","suite"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what do you call 'a machine that carries you between floors'?", options:["elevator","lift","escalator","tramway"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'fuel for cars'?", options:["petrol","gas","diesel","fuel oil"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'fried potato strips'?", options:["chips","french fries","crisps","wedges"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what do you call 'waste / garbage'?", options:["trash","rubbish","litter","refuse"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what is used to remove pencil marks called?", options:["rubber","eraser","wiper","blotter"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British and Australian English, what is the sport played with a round ball and feet called?", options:["football","soccer","rounders","netball"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'time off from school or work'?", options:["holiday","vacation","break","recess"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what is the school subject with numbers called?", options:["math","maths","arithmetic","calculus"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'a place where you buy things'?", options:["shop","store","market","boutique"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what do you call 'the season after summer'?", options:["fall","autumn","harvest","September"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'a fast road for long distances'?", options:["motorway","freeway","highway","expressway"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In American English, what do you call 'the device water comes out of'?", options:["faucet","tap","spigot","valve"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what are sports shoes called?", options:["trainers","sneakers","runners","pumps"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In Australian English, what are sports shoes called?", options:["runners","sneakers","trainers","joggers"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In British English, what do you call 'a small sweet baked snack'?", options:["biscuit","cookie","cracker","wafer"], correct:0 },
+          { type:"mcq", topic:"vocab_g3", subtopic:"vocab_variants_g3", question:"In Canadian English, what do you call 'a room with a toilet'?", options:["washroom","restroom","bathroom","toilet"], correct:0 },
+        ],
+      },
     ],
   },
 ];
@@ -3394,6 +3420,74 @@ const G4: EnglishTheme[] = [
           { type:"mcq", topic:"vocab_g4", subtopic:"figurative_lang_g4", question:"Which is a SIMILE?", options:["Her voice was like honey.","Her voice was honey.","The honey sang sweetly.","The sweet honey voice."], correct:0 },
           { type:"mcq", topic:"vocab_g4", subtopic:"figurative_lang_g4", question:"Figurative language is used to:", options:["make writing more vivid and interesting","give exact facts","explain instructions clearly","list events in order"], correct:0 },
           { type:"mcq", topic:"vocab_g4", subtopic:"figurative_lang_g4", question:"'Buzz, pop, hiss, crash' are all examples of:", options:["Onomatopoeia","Simile","Alliteration","Metaphor"], correct:0 },
+        ],
+      },
+      {
+        id: "spelling_variants_g4",
+        name: "Spelling Variants (US / UK / AU / CA)",
+        questions: [
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["color","colour","colur","collor"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["colour","color","collour","kolour"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["favorite","favourite","favorit","favouorte"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["favourite","favorite","favoruite","favorit"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["center","centre","centar","centere"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["centre","center","centar","centere"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["gray","grey","grai","grea"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["grey","gray","grei","grae"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["theater","theatre","theatar","theatra"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["theatre","theater","theatere","theatr"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["realize","realise","realeze","realyze"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["realise","realize","realyse","realeze"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["honor","honour","honer","honner"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["honour","honor","honore","honore"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["neighbor","neighbour","nieghbor","naighbor"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["neighbour","neighbor","nieghbour","naighbour"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["program","programme","programe","programm"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["programme","program","programe","programm"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct AMERICAN English spelling?", options:["traveled","travelled","traveld","travvel"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"spelling_variants_g4", question:"Which is the correct BRITISH English spelling?", options:["travelled","traveled","traveld","travvel"], correct:0 },
+        ],
+      },
+      {
+        id: "date_format_g4",
+        name: "Date Formats (US vs UK/AU/CA)",
+        questions: [
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the US, how is a date written?", options:["Month/Day/Year (MM/DD/YYYY)","Day/Month/Year (DD/MM/YYYY)","Year/Month/Day (YYYY/MM/DD)","Day-Month-Year (DD-Mon-YYYY)"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the UK, how is a date written?", options:["Day/Month/Year (DD/MM/YYYY)","Month/Day/Year (MM/DD/YYYY)","Year/Month/Day (YYYY/MM/DD)","Month-Day-Year (MM-DD-YYYY)"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the US, how would you write July 4th, 2024?", options:["7/4/2024","4/7/2024","2024/7/4","04-Jul-2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the UK, how would you write July 4th, 2024?", options:["4/7/2024","7/4/2024","2024/7/4","07-04-2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In American English, how do you write the date for Christmas Day 2024?", options:["December 25, 2024","25 December 2024","2024 December 25","Dec/25/2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In British English, how do you write the date for Christmas Day 2024?", options:["25 December 2024","December 25, 2024","2024 December 25","Dec/25/2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"What does '3/5/2024' mean in US format?", options:["March 5th, 2024","May 3rd, 2024","3rd of May, 2024","5th of March, 2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"What does '3/5/2024' mean in UK format?", options:["3rd of May, 2024","March 5th, 2024","5th of March, 2024","May 3rd, 2024"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"Which date format is used in Australia?", options:["DD/MM/YYYY (same as UK)","MM/DD/YYYY (same as US)","YYYY/MM/DD","YYYY/DD/MM"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"Which date format is used in Canada?", options:["DD/MM/YYYY (same as UK)","MM/DD/YYYY (same as US)","YYYY/MM/DD","Both DD/MM/YYYY and MM/DD/YYYY are used"], correct:3 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the US, what comes FIRST in a written date?", options:["The month","The day","The year","The weekday"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"In the UK, what comes FIRST in a written date?", options:["The day","The month","The year","The weekday"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"If a US friend writes '10/6', what date does she mean?", options:["October 6th","June 10th","6th of October","10th of June"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"If a UK friend writes '10/6', what date does she mean?", options:["June 10th","October 6th","6th of June","10th of October"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"date_format_g4", question:"Which is the international standard date format (ISO 8601)?", options:["YYYY-MM-DD","MM/DD/YYYY","DD/MM/YYYY","DD-Mon-YYYY"], correct:0 },
+        ],
+      },
+      {
+        id: "measurements_g3",
+        name: "Measurement Systems (US Imperial vs Metric)",
+        questions: [
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"Which countries use the METRIC system for everyday measurement?", options:["UK, Australia, Canada","Only the United States","Only the UK","Only Australia"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, how many inches are in one foot?", options:["12","10","100","3"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In metric countries (UK/AU/CA), what unit is used to measure short distances?", options:["centimetres (cm)","inches","feet","yards"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, how many feet are in one yard?", options:["3","12","100","5"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In metric countries, what is the correct BRITISH spelling of the unit of length equal to 100 cm?", options:["metre","meter","meeter","meetr"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, what is the correct AMERICAN spelling of the unit of length equal to 100 cm?", options:["meter","metre","meeter","meetr"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, how many ounces are in one pound?", options:["16","10","12","8"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In metric countries (UK/AU/CA), what unit is used to measure weight instead of pounds?", options:["kilograms (kg)","ounces","stones","tonnes"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"What is the BRITISH spelling of the unit for measuring liquids (US: 'liter')?", options:["litre","liter","leeeter","lytre"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, approximately how many miles equal one kilometre?", options:["About 0.6 miles","About 1.6 miles","About 2 miles","About 10 miles"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, which unit is used to measure distance on roads?", options:["miles","kilometres","metres","yards"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the UK and Australia, which unit is used to measure distance on roads?", options:["kilometres (km)","miles","yards","feet"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"In the US, how many feet are in one mile?", options:["5,280","1,000","3,000","10,000"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"Water boils at 212°F. What is this in Celsius (used in UK/AU/CA)?", options:["100°C","50°C","32°C","0°C"], correct:0 },
+          { type:"mcq", topic:"vocab_g4", subtopic:"measurements_g3", question:"Normal body temperature is 98.6°F in the US. What is this approximately in Celsius?", options:["37°C","100°C","0°C","50°C"], correct:0 },
         ],
       },
     ],
@@ -4540,15 +4634,50 @@ export function getEnglishQuestions(
   return pool.slice(0, count);
 }
 
-// ─── US GRADING (A / B / C / D / F) ──────────────────────────────────────────
+// ─── ENGLISH GRADING — country-specific ──────────────────────────────────────
 
-export function calculateUSGrade(pct: number, _countryCode = "US"): TestGradeMark {
+export function calculateEnglishGrade(pct: number, countryCode = "US"): TestGradeMark {
+  // UK: GCSE 9–1 scale
+  if (countryCode === "GB") {
+    if (pct >= 95) return { note: "9", label: "Outstanding",      color: "#FFD700", emoji: "🌟" };
+    if (pct >= 87) return { note: "8", label: "Excellent",        color: "#FFD700", emoji: "🏆" };
+    if (pct >= 80) return { note: "7", label: "Very Good",        color: "#00FF88", emoji: "😊" };
+    if (pct >= 72) return { note: "6", label: "Good",             color: "#00FF88", emoji: "😊" };
+    if (pct >= 64) return { note: "5", label: "Strong Pass",      color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 56) return { note: "4", label: "Standard Pass",    color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 47) return { note: "3", label: "Below Expected",   color: "#FF6B00", emoji: "😅" };
+    if (pct >= 38) return { note: "2", label: "Poor",             color: "#FF6B00", emoji: "😅" };
+    return              { note: "1", label: "Very Poor",          color: "#FF4444", emoji: "😟" };
+  }
+  // AU: A–E scale
+  if (countryCode === "AU") {
+    if (pct >= 85) return { note: "A", label: "Excellent",        color: "#FFD700", emoji: "🌟" };
+    if (pct >= 70) return { note: "B", label: "Good",             color: "#00FF88", emoji: "😊" };
+    if (pct >= 55) return { note: "C", label: "Satisfactory",     color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 40) return { note: "D", label: "Limited",          color: "#FF6B00", emoji: "😅" };
+    return              { note: "E", label: "Very Limited",       color: "#FF4444", emoji: "😟" };
+  }
+  // CA: A+/A/B+/B/C+/C/D/F scale
+  if (countryCode === "CA") {
+    if (pct >= 95) return { note: "A+", label: "Outstanding",     color: "#FFD700", emoji: "🌟" };
+    if (pct >= 87) return { note: "A",  label: "Excellent",       color: "#FFD700", emoji: "🏆" };
+    if (pct >= 80) return { note: "B+", label: "Very Good",       color: "#00FF88", emoji: "😊" };
+    if (pct >= 73) return { note: "B",  label: "Good",            color: "#00FF88", emoji: "😊" };
+    if (pct >= 67) return { note: "C+", label: "Satisfactory",    color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 60) return { note: "C",  label: "Adequate",        color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 50) return { note: "D",  label: "Below Average",   color: "#FF6B00", emoji: "😅" };
+    return              { note: "F",  label: "Failing",           color: "#FF4444", emoji: "😟" };
+  }
+  // US (default): A/B/C/D/F
   if (pct >= 90) return { note: "A", label: "Excellent",          color: "#FFD700", emoji: "🌟" };
   if (pct >= 80) return { note: "B", label: "Good",               color: "#00FF88", emoji: "😊" };
   if (pct >= 70) return { note: "C", label: "Average",            color: "#00D4FF", emoji: "🙂" };
   if (pct >= 60) return { note: "D", label: "Below Average",      color: "#FF6B00", emoji: "😅" };
   return              { note: "F", label: "Needs Improvement",    color: "#FF4444", emoji: "😟" };
 }
+
+/** @deprecated use calculateEnglishGrade */
+export const calculateUSGrade = calculateEnglishGrade;
 
 // ─── SUBTOPIC HINTS (shown after wrong answer) ────────────────────────────────
 
@@ -4619,10 +4748,240 @@ export const ENGLISH_SUBTOPIC_HINTS: Record<string, string> = {
   "point_of_view_g8":          "1st person: I/we · 2nd person: you · 3rd limited: he/she (one character's thoughts) · 3rd omniscient: all",
   "allusion_irony_g8":         "Verbal irony: saying opposite of what you mean · Situational irony: unexpected outcome · Allusion: reference to another work",
   "greek_latin_adv_g8":        "chron=time · bio=life · geo=earth · tele=far · micro=small · macro=large · hydr=water · phon=sound",
+  // Country-specific variants
+  "vocab_variants_g3":         "US: sidewalk, cookie, gas, trash, elevator, fall, trunk, faucet, sneakers · UK/AU: pavement, biscuit, petrol, rubbish, lift, autumn, boot, tap, trainers · AU: footpath, lollies, runners",
+  "spelling_variants_g4":      "US: color, center, gray · UK/AU/CA: colour, centre, grey · US/CA: realize, program · UK/AU: realise, programme · US: theater, honor, neighbor · UK/AU/CA: theatre, honour, neighbour",
+  "date_format_g4":            "US: MM/DD/YYYY → July 4 = 7/4/2024 · UK/AU/CA: DD/MM/YYYY → 4 July = 4/7/2024 · International (ISO 8601): YYYY-MM-DD",
+  "measurements_g3":           "US (imperial): inch, foot (12in), yard (3ft), mile (5280ft), ounce, pound (16oz), gallon · UK/AU/CA (metric): cm, metre, km, gram, kilogram, litre · Spelling: US meter/liter vs UK metre/litre",
 };
 
 /** Returns the hint for a given subtopic id. */
 export function getEnglishSubtopicHint(subtopicId?: string): string | null {
   if (!subtopicId) return null;
   return ENGLISH_SUBTOPIC_HINTS[subtopicId] ?? null;
+}
+
+// ─── COUNTRY-SPECIFIC DATA & GENERATORS (Step 3, 4, 5) ───────────────────────
+// These generators accept a country code (cc) and produce country-aware questions.
+// Usage: once Step 2 lands (countryCode param in getEnglishQuestions), wire these up.
+
+// ─── SPELLING VARIANTS ────────────────────────────────────────────────────────
+
+export const SPELLING_VARIANTS = [
+  { base: "color",    us: "color",    gb: "colour",    au: "colour",    ca: "colour"    },
+  { base: "favorite", us: "favorite", gb: "favourite", au: "favourite", ca: "favourite" },
+  { base: "realize",  us: "realize",  gb: "realise",   au: "realise",   ca: "realize"   },
+  { base: "organize", us: "organize", gb: "organise",  au: "organise",  ca: "organize"  },
+  { base: "center",   us: "center",   gb: "centre",    au: "centre",    ca: "centre"    },
+  { base: "theater",  us: "theater",  gb: "theatre",   au: "theatre",   ca: "theater"   },
+  { base: "traveled", us: "traveled", gb: "travelled", au: "travelled", ca: "travelled" },
+  { base: "defense",  us: "defense",  gb: "defence",   au: "defence",   ca: "defence"   },
+  { base: "catalog",  us: "catalog",  gb: "catalogue", au: "catalogue", ca: "catalogue" },
+  { base: "gray",     us: "gray",     gb: "grey",      au: "grey",      ca: "grey"      },
+  { base: "honor",    us: "honor",    gb: "honour",    au: "honour",    ca: "honour"    },
+  { base: "neighbor", us: "neighbor", gb: "neighbour", au: "neighbour", ca: "neighbour" },
+  { base: "analyze",  us: "analyze",  gb: "analyse",   au: "analyse",   ca: "analyze"   },
+  { base: "tire",     us: "tire",     gb: "tyre",      au: "tyre",      ca: "tire"      },
+  { base: "humor",    us: "humor",    gb: "humour",    au: "humour",    ca: "humour"    },
+  { base: "program",  us: "program",  gb: "programme", au: "programme", ca: "program"   },
+  { base: "license",  us: "license",  gb: "licence",   au: "licence",   ca: "licence"   },
+  { base: "jewelry",  us: "jewelry",  gb: "jewellery", au: "jewellery", ca: "jewellery" },
+  { base: "check",    us: "check",    gb: "cheque",    au: "cheque",    ca: "cheque"    },
+  { base: "fulfill",  us: "fulfill",  gb: "fulfil",    au: "fulfil",    ca: "fulfill"   },
+] as const;
+
+/** Country-aware spelling variant MCQ generator. */
+export function generateSpellingVariant(cc: string): CurriculumQuestion {
+  const country = (cc === "GB" ? "gb" : cc === "AU" ? "au" : cc === "CA" ? "ca" : "us") as "us" | "gb" | "au" | "ca";
+  const countryName = cc === "GB" ? "British" : cc === "AU" ? "Australian" : cc === "CA" ? "Canadian" : "American";
+  const item = SPELLING_VARIANTS[Math.floor(Math.random() * SPELLING_VARIANTS.length)] as { base: string; us: string; gb: string; au: string; ca: string };
+  const correct = item[country];
+  const allVariants = [item.us, item.gb, item.au, item.ca];
+  const wrong = [...new Set(allVariants.filter(v => v !== correct))];
+  const wrongShuffled = wrong.sort(() => Math.random() - 0.5).slice(0, 3);
+  // Pad to 3 wrong options if needed (all variants identical)
+  while (wrongShuffled.length < 3) wrongShuffled.push(wrongShuffled[0] + "s");
+  const options = [...wrongShuffled, correct].sort(() => Math.random() - 0.5);
+  const correctIdx = options.indexOf(correct);
+  return {
+    type: "mcq",
+    topic: "vocab_g4",
+    subtopic: "spelling_variants_g4",
+    question: `Which is the correct ${countryName} English spelling?`,
+    options,
+    correct: correctIdx,
+  };
+}
+
+// ─── VOCABULARY VARIANTS ──────────────────────────────────────────────────────
+
+export const VOCAB_VARIANTS = [
+  { us: "sidewalk",    gb: "pavement",  au: "footpath",  ca: "sidewalk",  hint: "the path beside a road"                           },
+  { us: "cookie",      gb: "biscuit",   au: "biscuit",   ca: "cookie",    hint: "a small sweet baked snack"                        },
+  { us: "trunk",       gb: "boot",      au: "boot",      ca: "trunk",     hint: "the storage space at the back of a car"           },
+  { us: "apartment",   gb: "flat",      au: "flat",      ca: "apartment", hint: "a home inside a larger building"                  },
+  { us: "elevator",    gb: "lift",      au: "lift",      ca: "elevator",  hint: "a machine that carries you between floors"        },
+  { us: "gas",         gb: "petrol",    au: "petrol",    ca: "gas",       hint: "fuel for cars"                                    },
+  { us: "french fries",gb: "chips",     au: "chips",     ca: "fries",     hint: "fried potato strips"                              },
+  { us: "trash",       gb: "rubbish",   au: "rubbish",   ca: "garbage",   hint: "waste / garbage"                                  },
+  { us: "candy",       gb: "sweets",    au: "lollies",   ca: "candy",     hint: "sweet treats"                                     },
+  { us: "eraser",      gb: "rubber",    au: "rubber",    ca: "eraser",    hint: "used to remove pencil marks"                      },
+  { us: "soccer",      gb: "football",  au: "soccer",    ca: "soccer",    hint: "the sport played with a round ball and feet"      },
+  { us: "vacation",    gb: "holiday",   au: "holiday",   ca: "vacation",  hint: "time off from school or work"                     },
+  { us: "math",        gb: "maths",     au: "maths",     ca: "math",      hint: "the school subject with numbers"                  },
+  { us: "diaper",      gb: "nappy",     au: "nappy",     ca: "diaper",    hint: "worn by babies"                                   },
+  { us: "store",       gb: "shop",      au: "shop",      ca: "store",     hint: "a place where you buy things"                     },
+  { us: "fall",        gb: "autumn",    au: "autumn",    ca: "fall",      hint: "the season after summer"                          },
+  { us: "freeway",     gb: "motorway",  au: "motorway",  ca: "highway",   hint: "a fast road for long distances"                   },
+  { us: "restroom",    gb: "toilet",    au: "toilet",    ca: "washroom",  hint: "a room with a toilet"                             },
+  { us: "faucet",      gb: "tap",       au: "tap",       ca: "tap",       hint: "the device water comes out of"                    },
+  { us: "sneakers",    gb: "trainers",  au: "runners",   ca: "runners",   hint: "sports shoes"                                     },
+] as const;
+
+/** Country-aware vocabulary variant MCQ generator. */
+export function generateVocabVariant(cc: string): CurriculumQuestion {
+  const country = (cc === "GB" ? "gb" : cc === "AU" ? "au" : cc === "CA" ? "ca" : "us") as "us" | "gb" | "au" | "ca";
+  const countryName = cc === "GB" ? "British" : cc === "AU" ? "Australian" : cc === "CA" ? "Canadian" : "American";
+  const item = VOCAB_VARIANTS[Math.floor(Math.random() * VOCAB_VARIANTS.length)] as { us: string; gb: string; au: string; ca: string; hint: string };
+  const correct = item[country];
+  const allVariants = [item.us, item.gb, item.au, item.ca];
+  const wrong = [...new Set(allVariants.filter(v => v !== correct))];
+  const wrongShuffled = wrong.sort(() => Math.random() - 0.5).slice(0, 3);
+  while (wrongShuffled.length < 3) wrongShuffled.push(wrongShuffled[0] + "s");
+  const options = [...wrongShuffled, correct].sort(() => Math.random() - 0.5);
+  return {
+    type: "mcq",
+    topic: "vocab_g3",
+    subtopic: "vocab_variants_g3",
+    question: `In ${countryName} English, what do you call "${item.hint}"?`,
+    options,
+    correct: options.indexOf(correct),
+  };
+}
+
+// ─── MEASUREMENT SYSTEMS ──────────────────────────────────────────────────────
+
+export const MEASUREMENT_SYSTEMS = {
+  us: {
+    length: [
+      { unit: "inch",  abbr: "in",  cm: 2.54  },
+      { unit: "foot",  abbr: "ft",  cm: 30.48, inInch: 12   },
+      { unit: "yard",  abbr: "yd",  cm: 91.44, inFoot: 3    },
+      { unit: "mile",  abbr: "mi",  km: 1.609, inFoot: 5280 },
+    ],
+    weight: [
+      { unit: "ounce", abbr: "oz",  g: 28.35            },
+      { unit: "pound", abbr: "lb",  g: 453.6, inOz: 16  },
+    ],
+    volume: [
+      { unit: "cup",    abbr: "cup", ml: 237                 },
+      { unit: "pint",   abbr: "pt",  cups: 2                 },
+      { unit: "quart",  abbr: "qt",  cups: 4                 },
+      { unit: "gallon", abbr: "gal", cups: 16, liters: 3.785 },
+    ],
+    temp: "Fahrenheit",
+    dateFormat: "MM/DD/YYYY",
+    spellings: { meter: "meter", liter: "liter", centre: "center", colour: "color" },
+  },
+  metric: {
+    length: ["cm", "m", "km"],
+    weight: ["gram", "kilogram"],
+    volume: ["milliliter", "liter"],
+    temp: "Celsius",
+    dateFormat: "DD/MM/YYYY",
+    spellings: { meter: "metre", liter: "litre", centre: "centre", colour: "colour" },
+  },
+} as const;
+
+// ─── MEASUREMENT QUESTION GENERATORS ─────────────────────────────────────────
+
+/** Country-aware measurement system MCQ generator (imperial vs metric). */
+export function generateMeasurementQuestion(cc: string): CurriculumQuestion {
+  const isUS = cc === "US";
+  const countryName = cc === "GB" ? "British" : cc === "AU" ? "Australian" : cc === "CA" ? "Canadian" : "American";
+
+  const usQuestions: CurriculumQuestion[] = [
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many inches are in one foot?", options: ["12","10","100","3"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many feet are in one yard?", options: ["3","12","100","5"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many ounces are in one pound?", options: ["16","10","12","8"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many feet are in one mile?", options: ["5,280","1,000","3,000","10,000"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Which is the correct American spelling for the unit of length equal to 100 cm?", options: ["meter","metre","meeter","meetr"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Which unit does the US use for measuring liquid volume?", options: ["gallons","litres","millilitres","kilolitres"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Water boils at ___ °F.", options: ["212","100","32","98.6"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Water freezes at ___ °F.", options: ["32","0","100","212"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Normal body temperature is ___ °F.", options: ["98.6","37","100","32"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Which temperature scale does the US use in everyday life?", options: ["Fahrenheit","Celsius","Kelvin","Rankine"], correct: 0 },
+  ];
+
+  const metricQuestions: CurriculumQuestion[] = [
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: `Which is the correct ${countryName} spelling for the unit of length equal to 100 cm?`, options: ["metre","meter","meeter","meetr"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: `Which is the correct ${countryName} spelling for the unit of liquid volume?`, options: ["litre","liter","leeeter","lytre"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many centimetres are in one metre?", options: ["100","10","1000","12"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many grams are in one kilogram?", options: ["1,000","100","10","10,000"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Water boils at ___ °C.", options: ["100","212","37","0"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Water freezes at ___ °C.", options: ["0","100","32","37"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Normal body temperature is ___ °C.", options: ["37","98.6","100","0"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Which temperature scale does the UK/AU/CA use?", options: ["Celsius","Fahrenheit","Kelvin","Rankine"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "How many metres are in one kilometre?", options: ["1,000","100","10","10,000"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "measurements_g3", question: "Which unit of distance is used on road signs in the UK?", options: ["kilometres (km)","miles","yards","feet"], correct: 0 },
+  ];
+
+  const pool = isUS ? usQuestions : metricQuestions;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+// ─── DATE FORMAT QUESTION GENERATOR ──────────────────────────────────────────
+
+/** Country-aware date format MCQ generator. */
+export function generateDateFormatQuestion(cc: string): CurriculumQuestion {
+  const isUS = cc === "US";
+  const countryName = cc === "GB" ? "British" : cc === "AU" ? "Australian" : cc === "CA" ? "Canadian" : "American";
+
+  if (isUS) {
+    const questions: CurriculumQuestion[] = [
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In the US, how is a date written?", options: ["Month/Day/Year (MM/DD/YYYY)","Day/Month/Year (DD/MM/YYYY)","Year/Month/Day","Day-Month-Year"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In the US, how would you write July 4th, 2024?", options: ["7/4/2024","4/7/2024","2024/7/4","04-Jul-2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In the US, how would you write January 1st, 2025?", options: ["1/1/2025","1/1/2025","2025/1/1","01-Jan-2025"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In American English, how do you write Christmas Day 2024?", options: ["December 25, 2024","25 December 2024","2024 December 25","25/12/2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In US format, what does '3/5/2024' mean?", options: ["March 5th, 2024","May 3rd, 2024","3rd of May, 2024","5th of March, 2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "In the US, what comes FIRST in a written date?", options: ["The month","The day","The year","The weekday"], correct: 0 },
+    ];
+    return questions[Math.floor(Math.random() * questions.length)];
+  } else {
+    const questions: CurriculumQuestion[] = [
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: `In ${countryName} English, how is a date written?`, options: ["Day/Month/Year (DD/MM/YYYY)","Month/Day/Year (MM/DD/YYYY)","Year/Month/Day","Month-Day-Year"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: `In ${countryName} English, how would you write July 4th, 2024?`, options: ["4/7/2024","7/4/2024","2024/7/4","04-Jul-2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: `In ${countryName} English, how do you write Christmas Day 2024?`, options: ["25 December 2024","December 25, 2024","2024 December 25","12/25/2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: `In ${countryName} format, what does '3/5/2024' mean?`, options: ["3rd of May, 2024","March 5th, 2024","5th of March, 2024","May 3rd, 2024"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: `In ${countryName} English, what comes FIRST in a written date?`, options: ["The day","The month","The year","The weekday"], correct: 0 },
+      { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Which date format is used in Australia and the UK?", options: ["DD/MM/YYYY","MM/DD/YYYY","YYYY/MM/DD","YYYY/DD/MM"], correct: 0 },
+    ];
+    return questions[Math.floor(Math.random() * questions.length)];
+  }
+}
+
+// ─── TEMPERATURE QUESTION GENERATOR ──────────────────────────────────────────
+
+/** Country-aware temperature scale MCQ generator. */
+export function generateTemperatureQuestion(cc: string): CurriculumQuestion {
+  const isUS = cc === "US";
+
+  const usQuestions: CurriculumQuestion[] = [
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Water boils at ___ °F.", options: ["212","100","32","98.6"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Water freezes at ___ °F.", options: ["32","0","100","212"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Normal body temperature is ___ °F.", options: ["98.6","37","212","32"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Which temperature scale is used in the US?", options: ["Fahrenheit (°F)","Celsius (°C)","Kelvin (K)","Rankine (°R)"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "A hot summer day in the US might be ___ °F.", options: ["95°F","37°F","100°C","0°F"], correct: 0 },
+  ];
+
+  const metricQuestions: CurriculumQuestion[] = [
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Water boils at ___ °C.", options: ["100","212","37","0"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Water freezes at ___ °C.", options: ["0","100","32","37"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Normal body temperature is ___ °C.", options: ["37","98.6","100","0"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "Which temperature scale is used in the UK, Australia and Canada?", options: ["Celsius (°C)","Fahrenheit (°F)","Kelvin (K)","Rankine (°R)"], correct: 0 },
+    { type: "mcq", topic: "vocab_g4", subtopic: "date_format_g4", question: "A hot summer day in the UK might be ___ °C.", options: ["35°C","100°C","212°C","0°C"], correct: 0 },
+  ];
+
+  const pool = isUS ? usQuestions : metricQuestions;
+  return pool[Math.floor(Math.random() * pool.length)];
 }

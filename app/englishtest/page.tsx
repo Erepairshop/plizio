@@ -4,7 +4,7 @@ import { LanguageTestEngine } from "@/app/deutschtest/page";
 import {
   ENGLISH_CURRICULUM,
   getEnglishQuestions,
-  calculateUSGrade,
+  calculateEnglishGrade,
   ENGLISH_SUBTOPIC_HINTS,
 } from "@/lib/englishCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
@@ -33,11 +33,11 @@ const EN_CONFIG: LanguageTestEngineConfig = {
 
   countries: [
     { code: "US", flag: "🇺🇸", label: "United States", sub: "A / B / C / D / F" },
-    { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "A / B / C / D / F" },
-    { code: "AU", flag: "🇦🇺", label: "Australia", sub: "A / B / C / D / F" },
-    { code: "CA", flag: "🇨🇦", label: "Canada", sub: "A / B / C / D / F" },
+    { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "Grade 9–1 (GCSE)" },
+    { code: "AU", flag: "🇦🇺", label: "Australia", sub: "A / B / C / D / E" },
+    { code: "CA", flag: "🇨🇦", label: "Canada", sub: "A+ / A / B+ / B / C+ / C / D / F" },
   ],
-  calculateMark: calculateUSGrade,
+  calculateMark: calculateEnglishGrade,
 
   curriculum: ENGLISH_CURRICULUM,
   getQuestions: getEnglishQuestions,
