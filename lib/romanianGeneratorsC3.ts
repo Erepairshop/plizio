@@ -282,57 +282,93 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
   substantiv_c3: {
     gen_subst_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const genuri = ["masculin", "feminin", "neutru"];
       for (let i = 0; i < 30; i++) {
         const data = pick(SUBST_GEN, rng);
         const wrong = genuri.filter(g => g !== data.gen);
-        q.push(createMCQ("substantiv_c3", "gen_subst_c3",
+        mcqs.push(createMCQ("substantiv_c3", "gen_subst_c3",
           `Ce gen are substantivul '${data.subst}'?`,
           data.gen, wrong, rng));
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'casă' este...", answer: ["feminin"], hint: "Substantiv în -ă, feminin" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'copac' este...", answer: ["masculin"], hint: "Plante și copaci sunt masculine" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'scaun' este...", answer: ["neutru"], hint: "Mobilier și obiecte neutre" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'carte' este...", answer: ["feminin"], hint: "Obiecte în -ă sunt feminine" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'munte' este...", answer: ["masculin"], hint: "Munți și formații geografice masculine" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'tablou' este...", answer: ["neutru"], hint: "Cuvinte care se termină în -u sunt neutre" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'pasăre' este...", answer: ["feminin"], hint: "Substantiv în -ă, feminin" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'lup' este...", answer: ["masculin"], hint: "Animale sălbatice masculine" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'caiet' este...", answer: ["neutru"], hint: "Obiecte școlare neutre" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Genul substantivului 'grădină' este...", answer: ["feminin"], hint: "Substantiv în -ă, feminin" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     numar_subst_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(SUBST_NR, rng);
         if (rng() > 0.5) {
           const wrong = shuffle(SUBST_NR, rng).filter(d => d.pl !== data.pl).slice(0, 3).map(d => d.pl);
-          q.push(createMCQ("substantiv_c3", "numar_subst_c3",
+          mcqs.push(createMCQ("substantiv_c3", "numar_subst_c3",
             `Care este PLURALUL substantivului '${data.sg}'?`,
             data.pl, wrong, rng));
         } else {
           const wrong = shuffle(SUBST_NR, rng).filter(d => d.sg !== data.sg).slice(0, 3).map(d => d.sg);
-          q.push(createMCQ("substantiv_c3", "numar_subst_c3",
+          mcqs.push(createMCQ("substantiv_c3", "numar_subst_c3",
             `Care este SINGULARUL substantivului '${data.pl}'?`,
             data.sg, wrong, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'om' este...", answer: ["oameni"], hint: "Plural neregulat, forma specială" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'copil' este...", answer: ["copii"], hint: "Plural neregulat, -ii" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'carte' este...", answer: ["carti", "cărți"], hint: "Plural feminin, -i" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'casă' este...", answer: ["case"], hint: "Plural feminin, -e" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'floare' este...", answer: ["flori"], hint: "Plural feminin, -i" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'munte' este...", answer: ["munti", "munți"], hint: "Plural masculin, -i" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Singularul cuvântului 'copaci' este...", answer: ["copac"], hint: "Singular masculin" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Singularul cuvântului 'câini' este...", answer: ["caîne", "câine"], hint: "Singular masculin cu diacritice" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'prieten' este...", answer: ["prieteni"], hint: "Plural masculin, -i" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Pluralul cuvântului 'creion' este...", answer: ["creioane"], hint: "Plural neutru, -oane" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
 
     caz_subst_c3: (seed = Date.now()) => {
       const rng = mulberry32(seed);
-      const q: CurriculumQuestion[] = [];
+      const mcqs: CurriculumQuestion[] = [];
       const cazuri = ["Nominativ", "Genitiv", "Dativ", "Acuzativ"];
       for (let i = 0; i < 30; i++) {
         const data = pick(SUBST_CAZ, rng);
         if (rng() > 0.5) {
           const wrong = cazuri.filter(c => c !== data.caz);
-          q.push(createMCQ("substantiv_c3", "caz_subst_c3",
+          mcqs.push(createMCQ("substantiv_c3", "caz_subst_c3",
             `'${data.prop}' — La ce CAZ este substantivul '${data.subst}'?`,
             data.caz, wrong, rng));
         } else {
           const alteCazuri = shuffle(SUBST_CAZ, rng).filter(d => d.subst !== data.subst).slice(0, 3).map(d => d.subst);
-          q.push(createMCQ("substantiv_c3", "caz_subst_c3",
+          mcqs.push(createMCQ("substantiv_c3", "caz_subst_c3",
             `'${data.prop}' — ${data.intrebare}`,
             data.subst, alteCazuri, rng));
         }
       }
-      return q;
+      const typings: CurriculumTyping[] = [
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Nominativul cuvântului 'carte': aceasta este o ...", answer: ["carte"], hint: "Cazul subiectului, cine?" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Genitivul cuvântului 'casă' arată posesia: cartea ...", answer: ["casei"], hint: "Cazul posesiei, de cine?" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Dativul cuvântului 'copil' arată relația: dau cadou ...", answer: ["copilului"], hint: "Cazul indirect, cui?" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Acuzativul cuvântului 'masă' este obiectul: văd ...", answer: ["masa"], hint: "Cazul obiectului direct, pe cine?" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Nominativul cuvântului 'om': ... inteligent.", answer: ["omul"], hint: "Subiectul propoziției" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Genitivul cuvântului 'floare': miroasme ...", answer: ["florii"], hint: "Posesia: miros al florii" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Dativul cuvântului 'fată': mă gândesc la ...", answer: ["fetei"], hint: "Relația indirectă după prepoziții" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Acuzativul cuvântului 'munte': escalez ...", answer: ["muntele"], hint: "Obiectul direct al acțiunii" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Nominativul: substantivul subiect în propoziție", answer: ["Nominativ"], hint: "Cine? Ce? - cinci cazuri" },
+        { type: "typing", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "Cuvântul care arată posesia de ...: Genitiv", answer: ["Genitiv"], hint: "De cine? Al cui? - cazul posesiei" },
+      ];
+      return shuffle([...mcqs, ...typings], rng);
     },
   },
 
