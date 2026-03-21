@@ -9,6 +9,7 @@ import {
 } from "@/lib/hungarianCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 import { HUNGARIAN_VISUAL_TYPES } from "@/lib/magyarVisualGenerators";
+import { getRandomMagyarPassage } from "@/lib/magyarLesetest";
 
 const HU_CONFIG: LanguageTestEngineConfig = {
   gameId: "magyarteszt",
@@ -43,6 +44,8 @@ const HU_CONFIG: LanguageTestEngineConfig = {
   visualTypes: HUNGARIAN_VISUAL_TYPES,
   visualGrades: [1, 2, 3, 4, 5, 6, 7, 8],
 
+  getReadingPassage: (grade: number) => getRandomMagyarPassage(grade),
+
   labels: {
     selectCountry: "Válaszd ki az országodat",
     selectGrade: "Válaszd ki az osztályodat",
@@ -55,6 +58,8 @@ const HU_CONFIG: LanguageTestEngineConfig = {
     questionsShort: "Kérd.",
     startTest: "TESZT INDÍTÁSA →",
     areas: "terület",
+    readingTest: "📖 Olvasásértés",
+    readingTestDesc: "Szöveget olvas & kérdéseket megválaszol · 3 Kérd.",
     task: "Feladat",
     interactiveTask: "Interaktív feladat",
     readAloud: "Felolvasás",
