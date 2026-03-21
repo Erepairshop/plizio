@@ -1,9 +1,9 @@
-// ─── ROMANIAN READING PASSAGES (Test de lectură) — Clasa I ─────────────────
-// 20 passages with 3 questions each, age-appropriate for 6-7 year olds
+// ─── ROMANIAN READING PASSAGES (Test de lectură) — Clasa I–VIII ───────────
+// Texte de lectură pentru clasele 1–8, cu întrebări MCQ și de scriere
 
 import type { ReadingPassage } from "./languageTestTypes";
 
-const PASSAGES: ReadingPassage[] = [
+const PASSAGES_CLASA_1: ReadingPassage[] = [
   // 1. Animals — pet dog
   {
     title: "Ana și Puf",
@@ -225,14 +225,223 @@ const PASSAGES: ReadingPassage[] = [
   },
 ];
 
+// ─── CLASA 2 ─── (4-5 propoziții · acțiune, personaje, cauzalitate simplă)
+const PASSAGES_CLASA_2: ReadingPassage[] = [
+  {
+    title: "Ziua de tranzitie",
+    text: "După ploaie, soarele strălucea iar în parc. Copii ajungeau să se joace pe iarba ud. Ionuț și prietenii lui alergau și râdeau cu bucurie. Ei jucau cu mingea într-un meci plin de veselie. Seara, toți plecau acasă obosiți dar fericiți.",
+    questions: [
+      { type: "mcq", question: "Ce s-a întâmplat înainte ca soarele să strălucească?", options: ["A nins", "A plouat", "A bătut vântul"], correct: 1 },
+      { type: "mcq", question: "Unde se jucau copiii?", options: ["la școală", "în parc", "în casă"], correct: 1 },
+      { type: "mcq", question: "Cum se simțeau copiii seara?", options: ["triști", "supărați", "obosiți dar fericiți"], correct: 2 },
+    ],
+  },
+  {
+    title: "Noul prieten al Mariei",
+    text: "Maria era noua la școală și se simțea singură. În pauza de prânz, o fată cu codite roșii s-a așezat lângă ea. Se numea Andrada și i-a zâmbit frumos. Maria zâmbii și i-a spus povestea ei. Ele au devenit prietene bune și acum se joacă zi de zi împreună.",
+    questions: [
+      { type: "mcq", question: "De ce se simțea Maria singură?", options: ["era bolnavă", "era nouă la școală", "nu avea jucării"], correct: 1 },
+      { type: "mcq", question: "Cine s-a așezat lângă Maria?", options: ["o doamnă", "Andrada", "fratele ei"], correct: 1 },
+      { type: "mcq", question: "Ce sunt acum Maria și Andrada?", options: ["colege", "prietene", "rivale"], correct: 1 },
+    ],
+  },
+  {
+    title: "Aventura în pădure",
+    text: "Vlad și tata lui au plecat într-o excursie în pădure. Vedeau copaci înalți și flori colorate. Brusc, au auzit un sunet ciudat și s-au oprit. Era doar un păsăruț micu care cânta. Vlad a descoperit un cuib frumos în crengura unui copac. Le-a mulțumit păsărului și tatei pentru ziua frumoasă.",
+    questions: [
+      { type: "mcq", question: "Cu cine a plecat Vlad în pădure?", options: ["cu mama", "cu tatăl", "cu prietenul"], correct: 1 },
+      { type: "mcq", question: "Ce a auzit Vlad?", options: ["o mașină", "un cântec de păsăruț", "o ploaie"], correct: 1 },
+      { type: "mcq", question: "Ce a descoperit Vlad în crengură?", options: ["o minge", "o frunză", "un cuib"], correct: 2 },
+    ],
+  },
+  {
+    title: "Ploaia în city",
+    text: "Ploaia a început ieri seara și continua în plină forță. Străzile erau umede și gri. Copiii nu puteau să se joace afară. Dar Cristian a găsit o idee bună: jucau cu lego-uri pe covor. Fratele lui David l-a ajutat să construiască un castel frumos. Amândoi au fost fericiți toată ziua.",
+    questions: [
+      { type: "mcq", question: "Cum era vremea?", options: ["frumoasă", "înnorat", "ploios"], correct: 2 },
+      { type: "mcq", question: "De ce nu puteau copiii să se joace afară?", options: ["era prea cald", "ploua", "era prea frig"], correct: 1 },
+      { type: "mcq", question: "Ce au construit copiii?", options: ["o casă", "o minge", "un castel"], correct: 2 },
+    ],
+  },
+  {
+    title: "Cumpărăturile în piață",
+    text: "Mama și Sofia au mers în piață pentru a cumpăra legume. Erau clementine portocalii, roșii coapte și broccoli verde. Sofia alegea cu grijă ce să ia. Ea plăcea legumele și fructele proaspete. În drum spre casă, au întâlnit o vecină bătrână. Mama i-a dat vechinei o punguță cu roșii.",
+    questions: [
+      { type: "mcq", question: "Cu cine a mers Sofia în piață?", options: ["cu tatăl", "cu mama", "cu bunica"], correct: 1 },
+      { type: "mcq", question: "Ce feluri de mâncare au văzut?", options: ["carne", "legume și fructe", "pâine"], correct: 1 },
+      { type: "mcq", question: "Ce a dat mama vechinei?", options: ["bani", "o punguță cu roșii", "o minge"], correct: 1 },
+    ],
+  },
+  {
+    title: "Ziua animalelor de companie",
+    text: "La grădina publică, era o zi dedicată animalelor de companie. Copii și părinți veneau cu câini și pisici. Alex a adus câinele lui, Nero, care era negru și pufos. Nero a jucat cu alți câini și s-a bucurat mult. La finale, au fost premii pentru cel mai drăguț și cel mai curajos animal.",
+    questions: [
+      { type: "mcq", question: "Unde era ziua animalelor?", options: ["la casă", "în parc", "la grădina publică"], correct: 2 },
+      { type: "mcq", question: "Cum se numea câinele lui Alex?", options: ["Rex", "Nero", "Ţapuț"], correct: 1 },
+      { type: "mcq", question: "Ce au fost acordate la final?", options: ["grame", "premii", "bani"], correct: 1 },
+    ],
+  },
+  {
+    title: "Lucruri noi în bibliotecă",
+    text: "Biblioteca școlii a primit cărți noi și frumoase. Dacă sunt desenate cu culori vii și poveștile-s interesante. Petru și Lena au cerut lor pentru împrumut. Ei au citit povestea unui moșneag și a unui moișicer. Cartea a fost atât de frumoasă înât au vrut să o citească din nou.",
+    questions: [
+      { type: "mcq", question: "Cine a primit cărți noi?", options: ["casa", "biblioteca", "grădina"], correct: 1 },
+      { type: "mcq", question: "Ce a făcut Petru și Lena?", options: ["au tras poza", "au citit o carte", "au jucat"], correct: 1 },
+      { type: "mcq", question: "Despre cine era povestea?", options: ["un moș și o babe", "un moșneag și un moișicer", "doi prieteni"], correct: 1 },
+    ],
+  },
+  {
+    title: "Concertul din clasă",
+    text: "Mihai și Rares au pregătit o surpriză pentru clasă. Ei au cântat o piesă frumoasă cu o vioară și o chitară. Întreaga clasă i-a ascultat cu atenție. După cântec, toți au aplaudat tare. Profesorul le-a zis că sunt talentați și i-a încurajat să participe la competiția de muzică.",
+    questions: [
+      { type: "mcq", question: "Cine au pregătit o surpriză?", options: ["fetele", "Mihai și Rares", "profesorul"], correct: 1 },
+      { type: "mcq", question: "Cu ce instrumente au cântat?", options: ["pian și flaut", "vioară și chitară", "trompetă și toba"], correct: 1 },
+      { type: "mcq", question: "La ce i-a încurajat profesorul?", options: ["la sport", "la pictat", "la muzică"], correct: 2 },
+    ],
+  },
+  {
+    title: "Atelierul de meșteșuguri",
+    text: "La atelierul meșteșugurilor, copii învățau să facă lucruri frumoase. Anca a învățat să țese pe o mic-torn. Gabriel a pus săpun colorat. Toți au lucrat cu pasiune și grijă. Lucrurile lor au fost expuse pe masă. Părinții au venit și i-au admirat pe copii pentru creativitate.",
+    questions: [
+      { type: "mcq", question: "Ce au învățat copii la atelier?", options: ["a cânta", "a meșteri", "a construi"], correct: 1 },
+      { type: "mcq", question: "Ce a învățat Anca?", options: ["a țese", "a vopsi", "a uda"], correct: 0 },
+      { type: "mcq", question: "Cine a venit să vadă lucrurile?", options: ["profesori", "părinți", "directorii"], correct: 1 },
+    ],
+  },
+  {
+    title: "Noul vecin",
+    text: "Familia Popescu s-a mutat în casa de lângă noi. Aveau un fiu pe nume Ionuț, ceva mai mare decât mine. Lui Ionuț îi plăceau jocurile și cartea. Am invitat pe Ionuț să se joace cu noi în curte. Acum noi trei ne jucam în fiecare zi și avem o prietenie frumoasă.",
+    questions: [
+      { type: "mcq", question: "Ce s-a întâmplat?", options: ["a plecat o familie", "s-a mutat o familie", "a venit o familie"], correct: 1 },
+      { type: "mcq", question: "Cum se numea fiul?", options: ["Dumitru", "Ionuț", "Adrian"], correct: 1 },
+      { type: "mcq", question: "Ce fac noi trei acum?", options: ["studiază", "se joaca", "cântă"], correct: 1 },
+    ],
+  },
+  {
+    title: "Sărbătoarea școlii",
+    text: "În luna mai, școala noastră a organizat o sărbătoare mare. Copii au pregătit dansuri și cântecuri frumoase. Părinții au venit și au adus dulcuri și sucuri pentru toți. Pe scenă, fiecare clasă a arătat talentele ei. La final, am mâncat și am dansat toată ziua. A fost cea mai frumoasă zi din an!",
+    questions: [
+      { type: "mcq", question: "Când a fost sărbătoarea?", options: ["martie", "martie", "mai"], correct: 2 },
+      { type: "mcq", question: "Ce au pregătit copii?", options: ["jucării", "dansuri și cântecuri", "mâncare"], correct: 1 },
+      { type: "mcq", question: "Ce au adus părinții?", options: ["flori", "dulcuri și sucuri", "prezente"], correct: 1 },
+    ],
+  },
+];
+
+// ─── CLASA 3 ─── (6-7 propoziții · complex detalii, descrieri, aventuri)
+const PASSAGES_CLASA_3: ReadingPassage[] = [
+  {
+    title: "Calamitățile din grădină",
+    text: "Bunicul meu avea o grădină frumoasă plină cu flori și legume. De curând, un maidanez prost a intrat în grădină și a distrus o mulțime de plantații. Bunicul era supărat, dar a decis să repare totul. A plantato legume noi și flori colorate. Peste o lună, grădina era din nou frumoasă și plin de viață.",
+    questions: [
+      { type: "mcq", question: "Ce se întâmplă în grădină?", options: ["a crescut o gândac", "un câine a distrus totul", "ploua prea mult"], correct: 1 },
+      { type: "mcq", question: "Ce a făcut bunicul pentru a repara grădina?", options: ["A construit un gard", "A plantat legume și flori noi", "A chemat medicul veterinar", "A vândut grădina"], correct: 1 },
+    ],
+  },
+  {
+    title: "Excursia de trei zile",
+    text: "Clasa a patra a organizat o excursie de trei zile în munți. Am mers cu autobuzul prin peisaje frumoase. Nopți le-am petrecut în cabine de piatră. A doua zi am urcat pe un vârf și am văzut vedere minunată peste pădure. Seara am stătut la foc și am cântat cântecuri frumoase. A fost cea mai reușită aventură a anului!",
+    questions: [
+      { type: "mcq", question: "Cât timp a durat excursia?", options: ["o zi", "două zile", "trei zile"], correct: 2 },
+      { type: "mcq", question: "Unde au dormit copiii noaptea?", options: ["La hotel", "Sub cerul liber", "În cabine de piatră", "La pensiune"], correct: 2 },
+    ],
+  },
+  {
+    title: "Ziua de naștere surpriză",
+    text: "Tata meu avea ziua de naștere și mama a plănuit o surpriză. A invitat bunicii, unchiul și verișorii la o masa de sărbătoare. Mama a gătit o ciorba delicioasă, fripturi suculente și o prăjitură cu ciocolată. După masa, am cântat și am dansa. Tata a zâmbit toată ziua și a spus că e cea mai frumoasă zilă din viața lui.",
+    questions: [
+      { type: "mcq", question: "Cine a plănuit surpriza?", options: ["tata", "mama", "bunicii"], correct: 1 },
+      { type: "mcq", question: "Ce mâncare a gătit mama?", options: ["Pizza și salate", "Ciorbă, fripturi și prăjitură", "Sandvișuri și fructe", "Supă și deserturi"], correct: 1 },
+    ],
+  },
+  {
+    title: "Călătoria cu trenul",
+    text: "Am mers cu familia la mare cu trenul. Știeam că aburul din locomotivă este puternic și glas trenului este tare. Am privit prin geam la peisaje care se-ntârziau. Am văzut plaje, păduri și case mici. După patru ore, am ajuns la stațiune. Odată la plajă, am aleargă în apă și am dansat în nisip până noaptea.",
+    questions: [
+      { type: "mcq", question: "Cum au călătorit la mare?", options: ["cu mașina", "cu avionul", "cu trenul"], correct: 2 },
+      { type: "mcq", question: "Ce au văzut prin geamul trenului?", options: ["Munți și lacuri", "Plaje, păduri și case mici", "Câmpuri și fabrici", "Doar cerul albastru"], correct: 1 },
+    ],
+  },
+  {
+    title: "Marile descoperiri ale Annei",
+    text: "Anna era o copilă curioasă care iubea să descopere lucruri noi. Într-un dimineață, a găsit o hartă veche sub paturile bunicii. Harta arăta o comoară ascunsă în gradina. Anna a chemat pe toți prietenii și au început să caute. După ore de groapa, au găsit o cutie cu pietre prețioase și monede vechi. A fost cea mai grozavă aventură!",
+    questions: [
+      { type: "mcq", question: "Ce a găsit Anna?", options: ["o minge", "o hartă veche", "o carte"], correct: 1 },
+      { type: "mcq", question: "Ce arăta harta?", options: ["Un castel vechi", "O comoară ascunsă", "O insulă îndepărtată", "Un tunel secret"], correct: 1 },
+    ],
+  },
+  {
+    title: "Ploaia de vară",
+    text: "Vara aceasta a fost foarte fierbinte și uscat. Copiii și animalele sufereau de cald. Oamenii spuneau că trebuie să vină ploaia. O noapte, norii negri au apărut pe cer și fulgerele au crăpat norii. A venit o ploaie torențială care a adus ușurare. După ploaie, aerul era proaspăt și iarba era mai verde.",
+    questions: [
+      { type: "mcq", question: "Ce se întâmplă cu vremea?", options: ["a fost rece", "a fost fierbinte", "a fost cald și uscat"], correct: 2 },
+      { type: "mcq", question: "Ce s-a întâmplat înainte de ploaie?", options: ["A strălucit soarele puternic", "Au apărut nori negri pe cer", "A bătut vântul puternic", "S-au deschis toate ferestrele"], correct: 1 },
+    ],
+  },
+  {
+    title: "Restaurantul nou",
+    text: "Tatăl meu a deschis un restaurant nou în centrul orașului. Meniu era plin de mâncăruri tradiționale și moderne. Prima noapte au venit mulți oameni pentru a tasta mâncarea. Chefii au gătit cu o dedicație extraordinară. Clienții au fost bucuroși și au promis că se vor întoarce. Restaurantul a devenit rapid un loc favorit pentru familia Popescu.",
+    questions: [
+      { type: "mcq", question: "Ce a deschis tatăl?", options: ["o magazin", "un hotel", "un restaurant"], correct: 2 },
+      { type: "mcq", question: "Ce fel de mâncare era pe meniu?", options: ["Numai pizza și paste", "Mâncăruri tradiționale și moderne", "Fructe de mare exclusiv", "Numai salate și supe"], correct: 1 },
+    ],
+  },
+  {
+    title: "Competiția de dans",
+    text: "Școala a organizat o competiție de dans pentru toți elevii. Fiecare clasă a pregătit o coreografie originală. Clasa mea a dansat o piesă modernă cu costume colorate și efecte de lumini. Am practicat zilnic timp de patru săptămâni. La final, am câștigat premiul întâi. Toată clasa era bucuroasă și mândră!",
+    questions: [
+      { type: "mcq", question: "Ce competiție a organizat școala?", options: ["de cântat", "de dans", "de sport"], correct: 1 },
+      { type: "mcq", question: "Cât timp au practicat pentru competiție?", options: ["Două zile", "O săptămână", "Două săptămâni", "Patru săptămâni"], correct: 3 },
+    ],
+  },
+  {
+    title: "Cartea misterioasă",
+    text: "Pe drumul spre casă, am găsit o cartea veche ascunsă sub o bancă. Pe copertă scria 'Aventuri in piramidele Egiptului'. Am deschis-o cu curiozitate și am citit primele pagini. Cartea era atât de captivantă încat nu puteam lasa-o. Am citit-o în trei nopți și am visat cu piramidele și faraonii. Cartea a fost cel mai bun tezaur pe care l-am găsit vreodată!",
+    questions: [
+      { type: "mcq", question: "Unde a găsit cartea?", options: ["la bibliotecă", "sub o bancă", "în casă"], correct: 1 },
+      { type: "mcq", question: "Despre ce era cartea?", options: ["Regi și cavaleri medievali", "Piramidele și faraonii Egiptului", "Dragoni și vrăjitori", "Pirați și comori marine"], correct: 1 },
+    ],
+  },
+  {
+    title: "Grădina de zarzavaturi",
+    text: "Bunica și-a amestecat o grădină de zarzavaturi cu ajutorul nepoților. Am săpat pământul, am plantat semințe și am uda constant. După câteva luni, grădina era plină cu roșii roșii, castraveți verzi și morcovi portocalii. Am ajutat la cules și am mâncat legume proaspete la cina. Fusese cea mai frumoasă lecție despre agricultură!",
+    questions: [
+      { type: "mcq", question: "Cu cine a făcut grădina?", options: ["tatăl", "bunica", "profesorul"], correct: 1 },
+      { type: "mcq", question: "Ce legume au crescut în grădină?", options: ["Mere și pere", "Ceapă și usturoi", "Roșii, castraveți și morcovi", "Dovleci și fasole"], correct: 2 },
+    ],
+  },
+  {
+    title: "Concertul simfonic",
+    text: "Mama a luat-o la un concert simfonic în sala de concerte. Orchestra a cântat simfonii frumoase de Mozart și Beethoven. Muzica era atât de puternică și frumoasă, încât am încetat respir. Violonistul principal era extraordinar cu sotul lui care cânta pian. După concert, am aplaudat timp de zece minute. Așa mi-a plăcut muzica clasică!",
+    questions: [
+      { type: "mcq", question: "Unde a fost concertul?", options: ["la casă", "la teatru", "în sala de concerte"], correct: 2 },
+      { type: "mcq", question: "Cine au compus simfoniile cântate la concert?", options: ["Bach și Haydn", "Chopin și Liszt", "Mozart și Beethoven", "Vivaldi și Handel"], correct: 2 },
+    ],
+  },
+];
+
+// ─── CLASA 4–8: TODO Texte vor fi adăugate mai târziu
+
+const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
+  1: PASSAGES_CLASA_1,
+  2: PASSAGES_CLASA_2,
+  3: PASSAGES_CLASA_3,
+  4: [],
+  5: [],
+  6: [],
+  7: [],
+  8: [],
+};
+
 /** Get a random reading passage for the given grade */
 export function getRandomRomanianPassage(grade: number): ReadingPassage | null {
-  if (grade !== 1) return null; // Only Clasa I for now
-  const idx = Math.floor(Math.random() * PASSAGES.length);
-  return PASSAGES[idx];
+  const passages = ROMANIAN_PASSAGES_BY_CLASA[grade];
+  if (!passages || passages.length === 0) return null;
+  const idx = Math.floor(Math.random() * passages.length);
+  return passages[idx];
 }
 
-/** Get all passages (for testing) */
-export function getAllRomanianPassages(): ReadingPassage[] {
-  return PASSAGES;
+/** Get all passages for a given grade */
+export function getAllRomanianPassages(grade: number): ReadingPassage[] {
+  return ROMANIAN_PASSAGES_BY_CLASA[grade] || [];
 }
