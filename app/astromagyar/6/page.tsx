@@ -23,6 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import LangExplore from "@/app/astromagyar/games/LangExplore";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -58,6 +59,7 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "lang-explore"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -268,11 +270,17 @@ export default function O6Page() {
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
+    const gameType = mission.gameType;
+    // lang-explore doesn't need questions generation, component uses own generator
+    if (gameType === "lang-explore") {
+      setScreen("lang-explore");
+      return;
+    }
     const qst = generateIslandQuestionsO6(activeIsland, lang as Lang, 10);
     setQuestions(qst);
     setScore(0);
     setTotal(qst.length);
-    setScreen(mission.gameType as Screen);
+    setScreen(gameType as Screen);
   }, [activeIsland, lang]);
 
   // Handle mission complete
