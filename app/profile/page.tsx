@@ -337,7 +337,7 @@ export default function ProfilePage() {
             <ArrowLeft size={18} className="text-white/60" />
           </motion.div>
         </Link>
-        <span className="text-white/40 text-xs font-bold tracking-widest">{t.title}</span>
+        <span className="text-white/70 text-xs font-bold tracking-widest">{t.title}</span>
         <div className="w-10" />
       </div>
 
@@ -371,7 +371,7 @@ export default function ProfilePage() {
             className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-bold transition-all ${
               gender === "girl"
                 ? "bg-[#E040FB]/20 text-[#E040FB] border border-[#E040FB]/40"
-                : "text-white/30"
+                : "text-white/60"
             }`}
             whileTap={{ scale: 0.95 }}
           >
@@ -382,7 +382,7 @@ export default function ProfilePage() {
             className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-bold transition-all ${
               gender === "boy"
                 ? "bg-[#00D4FF]/20 text-[#00D4FF] border border-[#00D4FF]/40"
-                : "text-white/30"
+                : "text-white/60"
             }`}
             whileTap={{ scale: 0.95 }}
           >
@@ -397,7 +397,7 @@ export default function ProfilePage() {
               <motion.div key="edit-name" className="flex items-center gap-2 w-full"
                 initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }}>
                 <div className="flex-1 relative">
-                  <User size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/30" />
+                  <User size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/50" />
                   <input ref={nameInputRef} value={nameInput} onChange={e => setNameInput(e.target.value)}
                     maxLength={16}
                     onKeyDown={e => { if (e.key === "Enter") handleSaveName(); if (e.key === "Escape") setEditingName(false); }}
@@ -410,7 +410,7 @@ export default function ProfilePage() {
                   <Check size={16} />
                 </motion.button>
                 <motion.button onClick={() => setEditingName(false)}
-                  className="bg-white/5 border border-white/10 text-white/40 p-2.5 rounded-xl"
+                  className="bg-white/5 border border-white/10 text-white/60 p-2.5 rounded-xl"
                   whileTap={{ scale: 0.9 }}>
                   <X size={16} />
                 </motion.button>
@@ -421,11 +421,11 @@ export default function ProfilePage() {
                 {displayName ? (
                   <span className="text-white font-bold text-lg">{displayName}</span>
                 ) : (
-                  <span className="text-white/30 text-sm">{t.notSignedIn}</span>
+                  <span className="text-white/60 text-sm">{t.notSignedIn}</span>
                 )}
                 {displayName && (
                   <motion.button onClick={startEditName}
-                    className="text-white/20 hover:text-white/50 transition-colors"
+                    className="text-white/50 hover:text-white/80 transition-colors"
                     whileTap={{ scale: 0.85 }}>
                     <Pencil size={14} />
                   </motion.button>
@@ -445,7 +445,7 @@ export default function ProfilePage() {
               <motion.div key="edit-email" className="flex items-center gap-2 w-full"
                 initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }}>
                 <div className="flex-1 relative">
-                  <Mail size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/30" />
+                  <Mail size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/50" />
                   <input ref={emailInputRef} type="email" value={emailInput} onChange={e => setEmailInput(e.target.value)}
                     onKeyDown={e => { if (e.key === "Enter") handleSaveEmail(); if (e.key === "Escape") setEditingEmail(false); }}
                     className="w-full bg-white/5 border border-white/20 rounded-xl pl-9 pr-3 py-2.5 text-white text-sm font-bold outline-none focus:border-[#00D4FF]/50 transition-colors"
@@ -457,7 +457,7 @@ export default function ProfilePage() {
                   <Check size={16} />
                 </motion.button>
                 <motion.button onClick={() => setEditingEmail(false)}
-                  className="bg-white/5 border border-white/10 text-white/40 p-2.5 rounded-xl"
+                  className="bg-white/5 border border-white/10 text-white/60 p-2.5 rounded-xl"
                   whileTap={{ scale: 0.9 }}>
                   <X size={16} />
                 </motion.button>
@@ -467,15 +467,15 @@ export default function ProfilePage() {
                 initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
                 {user ? (
                   <>
-                    <span className="text-white/30 text-xs">{user.email}</span>
+                    <span className="text-white/60 text-xs">{user.email}</span>
                     <motion.button onClick={startEditEmail}
-                      className="text-white/20 hover:text-white/50 transition-colors"
+                      className="text-white/50 hover:text-white/80 transition-colors"
                       whileTap={{ scale: 0.85 }}>
                       <Pencil size={12} />
                     </motion.button>
                   </>
                 ) : (
-                  <span className="text-white/30 text-sm">{t.notSignedIn}</span>
+                  <span className="text-white/60 text-sm">{t.notSignedIn}</span>
                 )}
               </motion.div>
             )}
@@ -508,16 +508,16 @@ export default function ProfilePage() {
       {/* Progress */}
       <div className="bg-card border border-white/5 rounded-2xl p-4 w-full max-w-md">
         <div className="flex items-center justify-between mb-3">
-          <span className="text-white/40 text-xs font-bold tracking-wider">{t.games}</span>
-          <span className="text-white/60 text-sm font-bold">{stats.totalGames}</span>
+          <span className="text-white/70 text-xs font-bold tracking-wider">{t.games}</span>
+          <span className="text-white/80 text-sm font-bold">{stats.totalGames}</span>
         </div>
         <div className="flex items-center justify-between mb-3">
-          <span className="text-white/40 text-xs font-bold tracking-wider">{t.perfect}</span>
-          <span className="text-white/60 text-sm font-bold">{stats.perfectScores}</span>
+          <span className="text-white/70 text-xs font-bold tracking-wider">{t.perfect}</span>
+          <span className="text-white/80 text-sm font-bold">{stats.perfectScores}</span>
         </div>
         <div className="flex items-center justify-between">
-          <span className="text-white/40 text-xs font-bold tracking-wider">{t.milestones}</span>
-          <span className="text-white/60 text-sm font-bold">{claimedCount}/{MILESTONES.length}</span>
+          <span className="text-white/70 text-xs font-bold tracking-wider">{t.milestones}</span>
+          <span className="text-white/80 text-sm font-bold">{claimedCount}/{MILESTONES.length}</span>
         </div>
       </div>
 
