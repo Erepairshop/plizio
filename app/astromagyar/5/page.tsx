@@ -24,6 +24,14 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import LangExplore from "@/app/astromagyar/games/LangExplore";
+import LetterExplorer from "@/app/astromagyar/games/LetterExplorer";
+import SyllableExplorer from "@/app/astromagyar/games/SyllableExplorer";
+import SpellingExplorer from "@/app/astromagyar/games/SpellingExplorer";
+import NounExplorer from "@/app/astromagyar/games/NounExplorer";
+import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
+import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
+import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
+import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -35,7 +43,7 @@ import {
   generateIslandQuestionsO5, generateCheckpointQuestionsO5,
 } from "@/lib/astroMagyar5";
 import type { IslandDef, MissionDef, Lang, MissionCategory, MagyarProgress } from "@/lib/astroMagyar";
-import { O5_ISLAND_SVGS } from "@/app/astromagyar/islands";
+import { O5_ISLAND_SVGS } from "@/app/astromagyar/islands-o5";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -60,6 +68,14 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "letter-explorer"
+  | "syllable-explorer"
+  | "spelling-explorer"
+  | "noun-explorer"
+  | "verb-explorer"
+  | "sentence-explorer"
+  | "eset-explorer"
+  | "review-explorer-hu"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -301,6 +317,13 @@ export default function AstroMagyarO5Page() {
       setScreen("lang-explore");
       return;
     }
+    // Explorer components: self-contained, no questions needed
+    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    if (explorerTypes.includes(gameType)) {
+      setMissionScore({ score: 0, total: 0 });
+      setScreen(gameType as Screen);
+      return;
+    }
     const qs = generateIslandQuestionsO5(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
@@ -460,6 +483,40 @@ export default function AstroMagyarO5Page() {
           grade={5}
           onDone={(s, t) => handleMissionSuccess(s, t)}
         />
+      )}
+
+      {/* Explorer Components */}
+      {screen === "letter-explorer" && (
+        <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "syllable-explorer" && (
+        <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "spelling-explorer" && (
+        <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "noun-explorer" && (
+        <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "verb-explorer" && (
+        <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "sentence-explorer" && (
+        <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "eset-explorer" && (
+        <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "review-explorer-hu" && (
+        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
 
       {/* Reward + Card */}

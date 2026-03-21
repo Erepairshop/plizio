@@ -24,6 +24,14 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import LangExplore from "@/app/astromagyar/games/LangExplore";
+import LetterExplorer from "@/app/astromagyar/games/LetterExplorer";
+import SyllableExplorer from "@/app/astromagyar/games/SyllableExplorer";
+import SpellingExplorer from "@/app/astromagyar/games/SpellingExplorer";
+import NounExplorer from "@/app/astromagyar/games/NounExplorer";
+import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
+import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
+import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
+import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -58,6 +66,14 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "letter-explorer"
+  | "syllable-explorer"
+  | "spelling-explorer"
+  | "noun-explorer"
+  | "verb-explorer"
+  | "sentence-explorer"
+  | "eset-explorer"
+  | "review-explorer-hu"
   | "category-rush"
   | "fill-gap"
   | "spell-race"
@@ -272,6 +288,13 @@ export default function AstroMagyar2() {
       setScreen("lang-explore");
       return;
     }
+    // Explorer components: self-contained, no questions needed
+    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    if (explorerTypes.includes(gameType)) {
+      setMissionScore({ score: 0, total: 0 });
+      setScreen(gameType as Screen);
+      return;
+    }
     const qs = generateIslandQuestionsO2(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
@@ -395,6 +418,40 @@ export default function AstroMagyar2() {
           grade={2}
           onDone={(s, t) => handleMissionComplete(s, t)}
         />
+      )}
+
+      {/* Explorer Components */}
+      {screen === "letter-explorer" && (
+        <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "syllable-explorer" && (
+        <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "spelling-explorer" && (
+        <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "noun-explorer" && (
+        <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "verb-explorer" && (
+        <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "sentence-explorer" && (
+        <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "eset-explorer" && (
+        <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "review-explorer-hu" && (
+        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+          onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
 
       {/* Reward */}
