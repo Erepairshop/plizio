@@ -351,6 +351,29 @@ export default function O6Page() {
     setScreen("mission-select");
   }, []);
 
+  const bgColor = activeIsland?.color ?? "#FF2D78";
+  const CATEGORY_CONFIG: Record<string, {
+    label: Record<string, string>;
+    desc: Record<string, string>;
+    color: string; bg: string; border: string;
+  }> = {
+    explore: {
+      label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
+      desc: { en: "Discover — no wrong answers!", hu: "Fedezd fel — nincs hibás válasz!", de: "Entdecke — keine falschen Antworten!", ro: "Descoperă — fără răspunsuri greșite!" },
+      color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
+    },
+    build: {
+      label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" },
+      desc: { en: "Guided questions — take your time!", hu: "Vezérelt feladatok — nincs sietség!", de: "Geführte Aufgaben — kein Zeitdruck!", ro: "Exerciții ghidate — fără grabă!" },
+      color: "#34D399", bg: "rgba(52,211,153,0.12)", border: "rgba(52,211,153,0.35)",
+    },
+    challenge: {
+      label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
+      desc: { en: "Fast — show what you know!", hu: "Gyors — mutasd meg tudásod!", de: "Schnell — zeig was du kannst!", ro: "Rapid — arată ce știi!" },
+      color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
+    },
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#060614] via-[#0a0a1a] to-[#0f0f2a] relative overflow-hidden">
       <Starfield />
@@ -390,58 +413,80 @@ export default function O6Page() {
 
       {/* ISLAND INTRO */}
       {screen === "island-intro" && activeIsland && (
-        <motion.div className="min-h-screen flex flex-col items-center justify-center px-6 py-8"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <motion.div className="text-center mb-12" initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}>
-            <div className="text-6xl mb-4">{activeIsland.icon}</div>
-            <h2 className="text-3xl font-black text-white mb-2">{activeIsland.name[lang as Lang] || activeIsland.name.en}</h2>
-            <p className="text-white/60">{activeIsland.missions.length} missions</p>
-          </motion.div>
-          <motion.button
-            onClick={() => setScreen("mission-select")}
-            className="px-8 py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl text-white font-bold transition-colors"
-            whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            Begin Adventures →
-          </motion.button>
-        </motion.div>
+        <div className="min-h-screen flex flex-col relative overflow-hidden"
+          style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
+            <button onClick={() => setScreen("island-map")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+            <div className="w-9" />
+          </div>
+          <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 gap-6 text-center pb-6">
+            <motion.div className="text-7xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", stiffness: 300 }}>
+              {activeIsland.icon}
+            </motion.div>
+            <div>
+              <h2 className="text-2xl font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+              <p className="text-white/50 text-sm mt-2 font-medium">{activeIsland.missions.length} {lang === "hu" ? "küldetés" : lang === "de" ? "Mission" : lang === "ro" ? "misiuni" : "missions"}</p>
+            </div>
+            <motion.button onClick={() => setScreen("mission-select")}
+              className="w-full max-w-xs py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
+              style={{ background: `linear-gradient(135deg, ${bgColor}55, ${bgColor}99)`, border: `2px solid ${bgColor}` }}
+              whileTap={{ scale: 0.97 }}>
+              {lang === "hu" ? "Kezdés" : lang === "de" ? "Starten" : lang === "ro" ? "Start" : "Start"} <ChevronRight size={20} />
+            </motion.button>
+          </div>
+        </div>
       )}
 
       {/* MISSION SELECT */}
-      {screen === "mission-select" && activeIsland && (
-        <motion.div className="min-h-screen flex flex-col items-center justify-center px-6 py-8"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <button
-            onClick={() => { setScreen("island-map"); setActiveIsland(null); }}
-            className="absolute top-6 left-6 w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 text-white/70">
-            <ChevronLeft size={20} />
-          </button>
-          <h2 className="text-2xl font-black text-white mb-8">Missions</h2>
-          <div className="space-y-4 max-w-sm w-full">
-            {activeIsland.missions.map((m) => {
-              const done = isMissionDoneO6(progress, activeIsland.id, m.id);
-              const stars = progress.missionStars?.[`${activeIsland.id}_${m.id}`] ?? 0;
-              return (
-                <motion.button
-                  key={m.id}
-                  onClick={() => !done && handleMissionSelect(m)}
-                  className={`w-full p-4 rounded-xl border-2 transition-all ${
-                    done
-                      ? "bg-green-500/20 border-green-500/50"
-                      : "bg-white/5 border-white/20 hover:bg-white/10"
-                  }`}
-                  whileHover={{ scale: done ? 1 : 1.02 }}
-                  whileTap={{ scale: done ? 1 : 0.98 }}>
-                  <div className="flex items-center justify-between">
-                    <span className="text-white font-bold">{m.label[lang as Lang] || m.label.en}</span>
-                    <span className="text-xl">{done ? "✅" : m.icon}</span>
-                  </div>
-                  {stars > 0 && <div className="text-sm text-yellow-300 mt-1">{"⭐".repeat(stars)}</div>}
-                </motion.button>
-              );
-            })}
+      {screen === "mission-select" && activeIsland && (() => {
+        const totalStars = islandTotalStarsO6(progress, activeIsland.id);
+        return (
+          <div className="min-h-screen flex flex-col relative overflow-hidden"
+            style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+            <Starfield />
+            <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
+              <button onClick={() => setScreen("island-intro")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><ChevronLeft size={18} /></button>
+              <div className="flex flex-col items-center gap-0.5">
+                <span className="text-sm font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</span>
+                <span className="text-xs text-white/40 font-medium">{totalStars > 0 ? "⭐".repeat(Math.min(totalStars, 5)) + " " + totalStars + "/9" : "0/9"}</span>
+              </div>
+              <div className="w-9" />
+            </div>
+            <div className="relative z-10 flex-1 flex flex-col px-4 gap-3 pb-6 justify-center">
+              {(["explore", "build", "challenge"] as MissionCategory[]).map((cat, cardIdx) => {
+                const mission = activeIsland.missions.find(m => m.category === cat);
+                if (!mission) return null;
+                const cfg = CATEGORY_CONFIG[cat];
+                const done = isMissionDoneO6(progress, activeIsland.id, mission.id);
+                const mKey = `${activeIsland.id}_${mission.id}`;
+                const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
+                return (
+                  <motion.button key={cat}
+                    onClick={() => handleMissionSelect(mission)}
+                    className="w-full rounded-2xl p-4 text-left flex items-center gap-4"
+                    style={{ background: cfg.bg, border: `1.5px solid ${done ? cfg.color + "88" : cfg.border}` }}
+                    initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: cardIdx * 0.08 }}
+                    whileTap={{ scale: 0.97 }}>
+                    <div className="w-11 h-11 rounded-xl flex items-center justify-center text-2xl flex-shrink-0"
+                      style={{ background: cfg.color + "22", border: `1.5px solid ${cfg.color}44` }}>
+                      {done ? "✅" : mission.icon}
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2">
+                        <span className="font-black text-white text-sm">{cfg.label[lang] ?? cfg.label.en}</span>
+                        {bestStars > 0 && <span className="text-xs text-yellow-300">{"⭐".repeat(bestStars)}</span>}
+                      </div>
+                      <p className="text-xs mt-0.5 font-medium" style={{ color: cfg.color + "cc" }}>{cfg.desc[lang] ?? cfg.desc.en}</p>
+                    </div>
+                    <ChevronRight size={16} className="text-white/30 flex-shrink-0" />
+                  </motion.button>
+                );
+              })}
+            </div>
           </div>
-        </motion.div>
-      )}
+        );
+      })()}
 
       {/* GAME SCREENS */}
       {(screen === "orbit-quiz" || screen === "black-hole" || screen === "gravity-sort" || screen === "star-match" || screen === "speed-round" || screen === "lang-explore") && (
