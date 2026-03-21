@@ -1,206 +1,279 @@
 "use client";
 // AnimalExplorer — Island i2: Pets & Wild Animals (Haustiere & Wildtiere)
-// Teaches: pets, wild animals, animal sounds, classification
+// Teaches: animal sounds, pet vs wild, animal homes, animal babies
 
-import { memo, useState, useCallback, useRef } from "react";
+import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
+/* ─── i18n labels ─── */
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    title: "Pets & Animals Explorer",
-    round1Title: "Discover Animals",
-    round1Hint: "Tap each animal to reveal its name!",
+    round1Title: "Animal Sounds",
+    round1Hint: "Which animal makes this sound?",
     round2Title: "Pet or Wild?",
     round2Hint: "Is this animal a pet or wild?",
-    round3Title: "Animal Sounds",
-    round3Hint: "Which animal makes this sound?",
-    round3Sound: "Meow!",
-    round4Title: "Where Do They Live?",
-    round4Hint: "Where does this animal live?",
+    round3Title: "Animal Homes",
+    round3Hint: "Where does this animal live?",
+    round4Title: "Animal Babies",
+    round4Hint: "What is a baby of this animal called?",
     round5Title: "Quick Review",
-    round5Hint: "What sound does the dog make?",
-    pet: "Pet",
-    wild: "Wild",
-    forest: "Forest",
-    home: "Home",
-    barks: "Barks",
-    meows: "Meows",
-    squeaks: "Squeaks",
-    dog: "Dog",
-    cat: "Cat",
-    fox: "Fox",
-    hedgehog: "Hedgehog",
+    round5Hint: "Answer the question!",
     next: "Next",
     finish: "Finish",
+    correct: "Correct!",
+    wrong: "Wrong!",
+    pet: "Pet",
+    wild: "Wild",
+    // Animals
+    dog: "Dog",
+    cat: "Cat",
+    cow: "Cow",
+    frog: "Frog",
+    duck: "Duck",
+    lion: "Lion",
+    bird: "Bird",
+    fish: "Fish",
+    bear: "Bear",
+    horse: "Horse",
+    rabbit: "Rabbit",
+    hedgehog: "Hedgehog",
+    // Sounds (language-independent keys, translated values)
+    sound_dog: "Woof!",
+    sound_cat: "Meow!",
+    sound_cow: "Moo!",
+    sound_frog: "Ribbit!",
+    sound_duck: "Quack!",
+    sound_lion: "Roar!",
+    // Homes
+    nest: "Nest",
+    water: "Water",
+    cave: "Cave",
+    barn: "Barn",
+    forest: "Forest",
+    home: "Home",
+    // Baby names
+    kitten: "Kitten",
+    puppy: "Puppy",
+    calf: "Calf",
+    foal: "Foal",
+    chick: "Chick",
+    cub: "Cub",
+    // Review questions
+    howManyLegs_dog: "How many legs does a dog have?",
+    ans_four: "4",
+    ans_two: "2",
+    ans_six: "6",
+    isFishPet: "Can a fish be a pet?",
+    ansYes: "Yes",
+    ansNo: "No",
+    whereDoFishLive: "Where do fish live?",
+    babyDogCalled: "What is a baby dog called?",
+    soundCat: "What sound does a cat make?",
   },
   de: {
-    title: "Haustiere & Wildtiere Entdecker",
-    round1Title: "Entdecke Tiere",
-    round1Hint: "Tippe auf jedes Tier — finde seinen Namen!",
+    round1Title: "Tierlaute",
+    round1Hint: "Welches Tier macht diesen Laut?",
     round2Title: "Haustier oder Wildtier?",
     round2Hint: "Ist dieses Tier ein Haustier oder Wildtier?",
-    round3Title: "Tierlaute",
-    round3Hint: "Welches Tier macht diesen Laut?",
-    round3Sound: "Miau!",
-    round4Title: "Wo leben sie?",
-    round4Hint: "Wo lebt dieses Tier?",
+    round3Title: "Wo leben Tiere?",
+    round3Hint: "Wo lebt dieses Tier?",
+    round4Title: "Tierkinder",
+    round4Hint: "Wie heißt das Jungtier?",
     round5Title: "Schnelle Wiederholung",
-    round5Hint: "Was macht der Hund?",
-    pet: "Haustier",
-    wild: "Wildtier",
-    forest: "Wald",
-    home: "Zuhause",
-    barks: "Bellt",
-    meows: "Miaut",
-    squeaks: "Piepst",
-    dog: "Hund",
-    cat: "Katze",
-    fox: "Fuchs",
-    hedgehog: "Igel",
+    round5Hint: "Beantworte die Frage!",
     next: "Weiter",
     finish: "Fertig",
+    correct: "Richtig!",
+    wrong: "Falsch!",
+    pet: "Haustier",
+    wild: "Wildtier",
+    dog: "Hund",
+    cat: "Katze",
+    cow: "Kuh",
+    frog: "Frosch",
+    duck: "Ente",
+    lion: "Löwe",
+    bird: "Vogel",
+    fish: "Fisch",
+    bear: "Bär",
+    horse: "Pferd",
+    rabbit: "Hase",
+    hedgehog: "Igel",
+    sound_dog: "Wuff!",
+    sound_cat: "Miau!",
+    sound_cow: "Muh!",
+    sound_frog: "Quak!",
+    sound_duck: "Quak!",
+    sound_lion: "Roar!",
+    nest: "Nest",
+    water: "Wasser",
+    cave: "Höhle",
+    barn: "Stall",
+    forest: "Wald",
+    home: "Zuhause",
+    kitten: "Kätzchen",
+    puppy: "Welpe",
+    calf: "Kalb",
+    foal: "Fohlen",
+    chick: "Küken",
+    cub: "Jungtier",
+    howManyLegs_dog: "Wie viele Beine hat ein Hund?",
+    ans_four: "4",
+    ans_two: "2",
+    ans_six: "6",
+    isFishPet: "Kann ein Fisch ein Haustier sein?",
+    ansYes: "Ja",
+    ansNo: "Nein",
+    whereDoFishLive: "Wo leben Fische?",
+    babyDogCalled: "Wie heißt das Hundebaby?",
+    soundCat: "Welchen Laut macht die Katze?",
   },
   hu: {
-    title: "Háziállatok & Vadállatok Felfedező",
-    round1Title: "Fedezd fel az állatokat",
-    round1Hint: "Koppints minden állatra — találd meg a nevét!",
+    round1Title: "Állathangok",
+    round1Hint: "Melyik állat adja ezt a hangot?",
     round2Title: "Háziállat vagy vadállat?",
     round2Hint: "Ez az állat háziállat vagy vadállat?",
-    round3Title: "Állathanagok",
-    round3Hint: "Melyik állat adja ezt a hangot?",
-    round3Sound: "Miau!",
-    round4Title: "Hol élnek?",
-    round4Hint: "Hol él ez az állat?",
+    round3Title: "Hol élnek az állatok?",
+    round3Hint: "Hol él ez az állat?",
+    round4Title: "Állatkölyök",
+    round4Hint: "Hogy hívják ennek az állatnak a kölykét?",
     round5Title: "Gyors összefoglalás",
-    round5Hint: "Mit csinál a kutya?",
+    round5Hint: "Válaszolj a kérdésre!",
+    next: "Tovább",
+    finish: "Kész",
+    correct: "Helyes!",
+    wrong: "Hibás!",
     pet: "Háziállat",
     wild: "Vadállat",
-    forest: "Erdő",
-    home: "Otthon",
-    barks: "Ugat",
-    meows: "Nyávog",
-    squeaks: "Cikeg",
     dog: "Kutya",
     cat: "Macska",
-    fox: "Róka",
-    hedgehog: "Sül",
-    next: "Tovább",
-    finish: "Vége",
+    cow: "Tehén",
+    frog: "Béka",
+    duck: "Kacsa",
+    lion: "Oroszlán",
+    bird: "Madár",
+    fish: "Hal",
+    bear: "Medve",
+    horse: "Ló",
+    rabbit: "Nyúl",
+    hedgehog: "Süni",
+    sound_dog: "Vau!",
+    sound_cat: "Miau!",
+    sound_cow: "Mú!",
+    sound_frog: "Brekeke!",
+    sound_duck: "Háp!",
+    sound_lion: "Rrrr!",
+    nest: "Fészek",
+    water: "Víz",
+    cave: "Barlang",
+    barn: "Istálló",
+    forest: "Erdő",
+    home: "Otthon",
+    kitten: "Cicakölyök",
+    puppy: "Kutyakölyök",
+    calf: "Borjú",
+    foal: "Csikó",
+    chick: "Csibe",
+    cub: "Kölyök",
+    howManyLegs_dog: "Hány lába van a kutyának?",
+    ans_four: "4",
+    ans_two: "2",
+    ans_six: "6",
+    isFishPet: "Lehet a hal háziállat?",
+    ansYes: "Igen",
+    ansNo: "Nem",
+    whereDoFishLive: "Hol élnek a halak?",
+    babyDogCalled: "Hogy hívják a kutyakölyköt?",
+    soundCat: "Milyen hangot ad a macska?",
   },
   ro: {
-    title: "Exploratorul animalelor de companie și sălbatice",
-    round1Title: "Descoperă animalele",
-    round1Hint: "Atinge fiecare animal — descoperă numele!",
-    round2Title: "Lup de companie sau sălbatic?",
+    round1Title: "Sunetele animalelor",
+    round1Hint: "Ce animal face acest sunet?",
+    round2Title: "Animal de companie sau sălbatic?",
     round2Hint: "Acest animal este de companie sau sălbatic?",
-    round3Title: "Sunetele animalelor",
-    round3Hint: "Ce animal face acest sunet?",
-    round3Sound: "Miau!",
-    round4Title: "Unde trăiesc?",
-    round4Hint: "Unde trăiește acest animal?",
+    round3Title: "Unde trăiesc animalele?",
+    round3Hint: "Unde trăiește acest animal?",
+    round4Title: "Puii de animale",
+    round4Hint: "Cum se numește puiul acestui animal?",
     round5Title: "Recapitulare rapidă",
-    round5Hint: "Ce sunet face câinele?",
-    pet: "De companie",
-    wild: "Sălbatic",
-    forest: "Pădure",
-    home: "Acasă",
-    barks: "Latră",
-    meows: "Miaună",
-    squeaks: "Cioartă",
-    dog: "Câine",
-    cat: "Pisică",
-    fox: "Vulpe",
-    hedgehog: "Arici",
+    round5Hint: "Răspunde la întrebare!",
     next: "Înainte",
     finish: "Gata",
+    correct: "Corect!",
+    wrong: "Greșit!",
+    pet: "Animal de companie",
+    wild: "Sălbatic",
+    dog: "Câine",
+    cat: "Pisică",
+    cow: "Vacă",
+    frog: "Broască",
+    duck: "Rață",
+    lion: "Leu",
+    bird: "Pasăre",
+    fish: "Pește",
+    bear: "Urs",
+    horse: "Cal",
+    rabbit: "Iepure",
+    hedgehog: "Arici",
+    sound_dog: "Ham!",
+    sound_cat: "Miau!",
+    sound_cow: "Muuu!",
+    sound_frog: "Oac!",
+    sound_duck: "Mac!",
+    sound_lion: "Rrrr!",
+    nest: "Cuib",
+    water: "Apă",
+    cave: "Peșteră",
+    barn: "Grajd",
+    forest: "Pădure",
+    home: "Acasă",
+    kitten: "Pisicuță",
+    puppy: "Cățeluș",
+    calf: "Vițel",
+    foal: "Mânz",
+    chick: "Pui de găină",
+    cub: "Pui",
+    howManyLegs_dog: "Câte picioare are câinele?",
+    ans_four: "4",
+    ans_two: "2",
+    ans_six: "6",
+    isFishPet: "Poate fi peștele animal de companie?",
+    ansYes: "Da",
+    ansNo: "Nu",
+    whereDoFishLive: "Unde trăiesc peștii?",
+    babyDogCalled: "Cum se numește puiul de câine?",
+    soundCat: "Ce sunet face pisica?",
   },
 };
 
-// SVG Animal Illustrations
-function AnimalIcon({ type, color, size = 80 }: { type: string; color: string; size?: number }) {
-  if (type === "dog") {
-    return (
-      <svg viewBox="0 0 120 100" style={{ width: size, height: "auto" }}>
-        {/* Body */}
-        <ellipse cx="60" cy="55" rx="25" ry="22" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Head */}
-        <circle cx="50" cy="35" r="16" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Ears */}
-        <ellipse cx="40" cy="20" rx="6" ry="10" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        <ellipse cx="60" cy="18" rx="6" ry="10" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        {/* Snout */}
-        <circle cx="45" cy="38" r="4" fill={color} opacity="0.3" />
-        {/* Eyes */}
-        <circle cx="48" cy="32" r="2" fill={color} />
-        <circle cx="52" cy="32" r="2" fill={color} />
-      </svg>
-    );
+/* ─── helpers ─── */
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
   }
-  if (type === "cat") {
-    return (
-      <svg viewBox="0 0 120 100" style={{ width: size, height: "auto" }}>
-        {/* Body */}
-        <ellipse cx="60" cy="60" rx="22" ry="20" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Head */}
-        <circle cx="50" cy="35" r="14" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Ears (triangles) */}
-        <polygon points="40,18 35,28 45,25" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        <polygon points="60,18 65,28 55,25" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        {/* Eyes */}
-        <circle cx="47" cy="32" r="2.5" fill={color} />
-        <circle cx="53" cy="32" r="2.5" fill={color} />
-        {/* Tail (curved) */}
-        <path d="M 80 55 Q 95 50 90 65" stroke={color} strokeWidth="2" fill="none" opacity="0.5" />
-      </svg>
-    );
-  }
-  if (type === "fox") {
-    return (
-      <svg viewBox="0 0 120 100" style={{ width: size, height: "auto" }}>
-        {/* Body */}
-        <ellipse cx="60" cy="55" rx="24" ry="20" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Head */}
-        <circle cx="48" cy="32" r="15" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Ears (pointed) */}
-        <polygon points="38,15 32,30 42,28" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        <polygon points="58,15 52,28 62,30" fill={color} opacity="0.5" stroke={color} strokeWidth="1.5" />
-        {/* Eyes */}
-        <circle cx="45" cy="30" r="2" fill={color} />
-        <circle cx="51" cy="30" r="2" fill={color} />
-        {/* Snout */}
-        <circle cx="48" cy="38" r="3" fill={color} opacity="0.3" />
-      </svg>
-    );
-  }
-  if (type === "hedgehog") {
-    return (
-      <svg viewBox="0 0 120 100" style={{ width: size, height: "auto" }}>
-        {/* Body (spiky) */}
-        <circle cx="60" cy="55" r="18" fill={color} opacity="0.4" stroke={color} strokeWidth="2" />
-        {/* Spikes */}
-        {[0, 45, 90, 135, 180, 225, 270, 315].map(angle => {
-          const rad = (angle * Math.PI) / 180;
-          const x1 = 60 + Math.cos(rad) * 18;
-          const y1 = 55 + Math.sin(rad) * 18;
-          const x2 = 60 + Math.cos(rad) * 28;
-          const y2 = 55 + Math.sin(rad) * 28;
-          return (
-            <line key={angle} x1={x1} y1={y1} x2={x2} y2={y2} stroke={color} strokeWidth="1.5" opacity="0.5" />
-          );
-        })}
-        {/* Head/face */}
-        <circle cx="50" cy="40" r="10" fill={color} opacity="0.4" stroke={color} strokeWidth="1.5" />
-        {/* Eyes */}
-        <circle cx="48" cy="38" r="1.5" fill={color} />
-        <circle cx="52" cy="38" r="1.5" fill={color} />
-      </svg>
-    );
-  }
-  return null;
+  return copy;
 }
+
+/* ─── Animal emoji map ─── */
+const ANIMAL_EMOJI: Record<string, string> = {
+  dog: "🐶",
+  cat: "🐱",
+  cow: "🐮",
+  frog: "🐸",
+  duck: "🦆",
+  lion: "🦁",
+  bird: "🐦",
+  fish: "🐟",
+  bear: "🐻",
+  horse: "🐴",
+  rabbit: "🐰",
+  hedgehog: "🦔",
+};
 
 interface Props {
   color: string;
@@ -211,42 +284,196 @@ interface Props {
 function AnimalExplorer({ color, lang = "de", onDone }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
-  const wrongRef = useRef(0);
+  const scoreRef = useRef(0);
+  const totalRef = useRef(0);
 
-  // Round states
-  const [discoveredAnimals, setDiscoveredAnimals] = useState<Set<string>>(new Set());
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  /* ─── Round 0: Animal Sounds — show sound, pick the animal ─── */
+  type SoundQ = { soundKey: string; answer: string; options: string[] };
+  const soundQuestions = useMemo<SoundQ[]>(() => shuffle([
+    { soundKey: "sound_dog",  answer: "dog",  options: ["dog", "cat", "cow", "frog"] },
+    { soundKey: "sound_cat",  answer: "cat",  options: ["cat", "duck", "dog", "lion"] },
+    { soundKey: "sound_cow",  answer: "cow",  options: ["cow", "frog", "dog", "horse"] },
+    { soundKey: "sound_frog", answer: "frog", options: ["frog", "duck", "rabbit", "dog"] },
+    { soundKey: "sound_duck", answer: "duck", options: ["duck", "bird", "frog", "cat"] },
+    { soundKey: "sound_lion", answer: "lion", options: ["lion", "bear", "dog", "horse"] },
+  ]).slice(0, 4), []);
+  const [soundIdx, setSoundIdx] = useState(0);
+  const [soundAnswer, setSoundAnswer] = useState<string | null>(null);
 
-  const animals = ["dog", "cat", "fox", "hedgehog"];
-  const petStatus = { dog: true, cat: true, fox: false, hedgehog: false };
+  /* ─── Round 1: Pet or Wild? ─── */
+  type PetQ = { animal: string; isPet: boolean };
+  const petQuestions = useMemo<PetQ[]>(() => shuffle([
+    { animal: "dog",      isPet: true  },
+    { animal: "cat",      isPet: true  },
+    { animal: "rabbit",   isPet: true  },
+    { animal: "horse",    isPet: true  },
+    { animal: "lion",     isPet: false },
+    { animal: "bear",     isPet: false },
+    { animal: "frog",     isPet: false },
+    { animal: "hedgehog", isPet: false },
+  ]).slice(0, 4), []);
+  const [petIdx, setPetIdx] = useState(0);
+  // answer key: "pet" or "wild"
+  const [petAnswer, setPetAnswer] = useState<string | null>(null);
 
+  /* ─── Round 2: Animal Homes ─── */
+  type HomeQ = { animal: string; answer: string; options: string[] };
+  const homeQuestions = useMemo<HomeQ[]>(() => shuffle([
+    { animal: "bird",  answer: "nest",   options: ["nest",   "cave",   "water",  "barn"]   },
+    { animal: "fish",  answer: "water",  options: ["water",  "nest",   "forest", "home"]   },
+    { animal: "bear",  answer: "cave",   options: ["cave",   "nest",   "water",  "barn"]   },
+    { animal: "cow",   answer: "barn",   options: ["barn",   "cave",   "forest", "nest"]   },
+    { animal: "lion",  answer: "forest", options: ["forest", "water",  "home",   "nest"]   },
+    { animal: "dog",   answer: "home",   options: ["home",   "cave",   "nest",   "forest"] },
+  ]).slice(0, 3), []);
+  const [homeIdx, setHomeIdx] = useState(0);
+  const [homeAnswer, setHomeAnswer] = useState<string | null>(null);
+
+  /* ─── Round 3: Animal Babies ─── */
+  type BabyQ = { animal: string; answer: string; options: string[] };
+  const babyQuestions = useMemo<BabyQ[]>(() => shuffle([
+    { animal: "cat",   answer: "kitten", options: ["kitten", "puppy",  "chick",  "calf"]  },
+    { animal: "dog",   answer: "puppy",  options: ["puppy",  "kitten", "foal",   "chick"] },
+    { animal: "cow",   answer: "calf",   options: ["calf",   "foal",   "kitten", "chick"] },
+    { animal: "horse", answer: "foal",   options: ["foal",   "calf",   "puppy",  "cub"]   },
+    { animal: "duck",  answer: "chick",  options: ["chick",  "kitten", "cub",    "foal"]  },
+    { animal: "bear",  answer: "cub",    options: ["cub",    "calf",   "chick",  "puppy"] },
+  ]).slice(0, 3), []);
+  const [babyIdx, setBabyIdx] = useState(0);
+  const [babyAnswer, setBabyAnswer] = useState<string | null>(null);
+
+  /* ─── Round 4: Mixed review ─── */
+  type ReviewQ = { questionKey: string; answer: string; options: string[] };
+  const reviewQuestions = useMemo<ReviewQ[]>(() => shuffle([
+    { questionKey: "howManyLegs_dog",  answer: "ans_four", options: ["ans_four", "ans_two", "ans_six"]  },
+    { questionKey: "isFishPet",        answer: "ansYes",   options: ["ansYes",   "ansNo"]               },
+    { questionKey: "whereDoFishLive",  answer: "water",    options: ["water",    "nest",    "forest"]   },
+    { questionKey: "babyDogCalled",    answer: "puppy",    options: ["puppy",    "kitten",  "calf"]     },
+    { questionKey: "soundCat",         answer: "sound_cat",options: ["sound_cat","sound_dog","sound_cow"]},
+  ]).slice(0, 3), []);
+  const [reviewIdx, setReviewIdx] = useState(0);
+  const [reviewAnswer, setReviewAnswer] = useState<string | null>(null);
+
+  /* ─── advance round ─── */
   const advance = useCallback(() => {
     if (round >= TOTAL_ROUNDS - 1) {
-      const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongRef.current, TOTAL_ROUNDS - 1));
-      onDone(score, TOTAL_ROUNDS);
+      onDone(scoreRef.current, totalRef.current);
     } else {
       setRound(r => r + 1);
-      setDiscoveredAnimals(new Set());
-      setSelectedAnswer(null);
     }
   }, [round, onDone]);
 
-  const handleAnimalTap = (animal: string) => {
-    if (!discoveredAnimals.has(animal)) {
-      setDiscoveredAnimals(prev => new Set([...prev, animal]));
-    }
+  /* ─── MCQ handler factory ─── */
+  const makeMcqHandler = (
+    correctAnswer: string,
+    setAnswer: (v: string) => void,
+  ) => (choice: string) => {
+    totalRef.current++;
+    if (choice === correctAnswer) scoreRef.current++;
+    setAnswer(choice);
   };
 
-  const handlePetWildSelect = (animal: string, isPet: boolean) => {
-    const correct = isPet === petStatus[animal as keyof typeof petStatus];
-    if (!correct) wrongRef.current++;
-    setSelectedAnswer(animal);
+  /* ─── Render helpers ─── */
+  const renderMCQ = (
+    options: string[],
+    selected: string | null,
+    correct: string,
+    onSelect: (v: string) => void,
+  ) => (
+    <div className="space-y-2 w-full max-w-xs">
+      {options.map((opt) => {
+        const isSelected = selected === opt;
+        const isCorrect = opt === correct;
+        let bg = "rgba(255,255,255,0.06)";
+        let border = "rgba(255,255,255,0.1)";
+        if (selected !== null) {
+          if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
+          else if (isSelected && !isCorrect) { bg = "#FF2D7833"; border = "#FF2D78"; }
+        }
+        return (
+          <motion.button
+            key={opt}
+            onClick={() => { if (selected === null) onSelect(opt); }}
+            className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white text-sm"
+            whileTap={selected === null ? { scale: 0.97 } : undefined}
+            style={{ background: bg, border: `2px solid ${border}` }}
+          >
+            {lbl[opt] ?? opt}
+          </motion.button>
+        );
+      })}
+    </div>
+  );
+
+  const renderMCQWithEmoji = (
+    options: string[],
+    selected: string | null,
+    correct: string,
+    onSelect: (v: string) => void,
+  ) => (
+    <div className="space-y-2 w-full max-w-xs">
+      {options.map((opt) => {
+        const isSelected = selected === opt;
+        const isCorrect = opt === correct;
+        let bg = "rgba(255,255,255,0.06)";
+        let border = "rgba(255,255,255,0.1)";
+        if (selected !== null) {
+          if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
+          else if (isSelected && !isCorrect) { bg = "#FF2D7833"; border = "#FF2D78"; }
+        }
+        return (
+          <motion.button
+            key={opt}
+            onClick={() => { if (selected === null) onSelect(opt); }}
+            className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white text-sm flex items-center gap-3"
+            whileTap={selected === null ? { scale: 0.97 } : undefined}
+            style={{ background: bg, border: `2px solid ${border}` }}
+          >
+            <span className="text-2xl">{ANIMAL_EMOJI[opt] ?? "🐾"}</span>
+            <span>{lbl[opt] ?? opt}</span>
+          </motion.button>
+        );
+      })}
+    </div>
+  );
+
+  const renderFeedback = (selected: string | null, correct: string) => {
+    if (selected === null) return null;
+    const isCorrect = selected === correct;
+    return (
+      <motion.p
+        initial={{ opacity: 0, y: 5 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="text-sm font-black"
+        style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}
+      >
+        {isCorrect ? lbl.correct : lbl.wrong}
+      </motion.p>
+    );
   };
+
+  const renderNext = (
+    disabled: boolean,
+    onClick: () => void,
+    label?: string,
+  ) => (
+    <motion.button
+      onClick={onClick}
+      disabled={disabled}
+      className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2 disabled:opacity-30 transition-opacity"
+      style={{
+        background: !disabled ? `linear-gradient(135deg, ${color}55, ${color}99)` : "rgba(255,255,255,0.06)",
+        border: `2px solid ${!disabled ? color : "rgba(255,255,255,0.1)"}`,
+      }}
+    >
+      {label ?? lbl.next} <ChevronRight size={16} />
+    </motion.button>
+  );
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Progress */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-4">
+      {/* Progress dots */}
+      <div className="flex justify-center gap-1.5 pt-4 pb-3">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
           <div
             key={i}
@@ -262,239 +489,203 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
           initial={{ opacity: 0, x: 30 }}
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -30 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-5"
+          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
         >
-          {round === 0 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-              <div className="grid grid-cols-2 gap-4 w-full max-w-xs">
-                {animals.map(animal => (
-                  <motion.button
-                    key={animal}
-                    onClick={() => handleAnimalTap(animal)}
-                    className="py-4 px-2 rounded-xl transition-all flex flex-col items-center justify-center gap-2"
-                    style={{
-                      background: discoveredAnimals.has(animal) ? `${color}33` : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${discoveredAnimals.has(animal) ? color : "rgba(255,255,255,0.1)"}`,
-                    }}
-                  >
-                    <AnimalIcon type={animal} color={color} size={50} />
-                    {discoveredAnimals.has(animal) && (
-                      <p className="text-xs font-bold text-white">
-                        {animal === "dog" ? lbl.dog : animal === "cat" ? lbl.cat : animal === "fox" ? lbl.fox : lbl.hedgehog}
-                      </p>
-                    )}
-                  </motion.button>
-                ))}
-              </div>
-              <motion.button
-                onClick={advance}
-                disabled={discoveredAnimals.size < 4}
-                className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2 disabled:opacity-50"
-                style={{
-                  background: discoveredAnimals.size === 4 ? `linear-gradient(135deg, ${color}55, ${color}99)` : "rgba(255,255,255,0.06)",
-                  border: `2px solid ${discoveredAnimals.size === 4 ? color : "rgba(255,255,255,0.1)"}`,
-                }}
-              >
-                {lbl.next} <ChevronRight size={16} />
-              </motion.button>
-            </>
-          )}
+          {/* ═══ ROUND 0 — Animal Sounds ═══ */}
+          {round === 0 && (() => {
+            const q = soundQuestions[soundIdx];
+            if (!q) return null;
+            const opts = shuffle(q.options);
+            return (
+              <>
+                <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
+                <span className="text-white/40 text-xs font-bold">{soundIdx + 1}/{soundQuestions.length}</span>
 
-          {round === 1 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-              <p className="text-white/60 text-sm font-bold text-center">{lbl.round2Hint}</p>
-              {["dog", "fox"].map((animal, idx) => (
-                <div key={idx} className="w-full max-w-xs space-y-2">
-                  <div className="flex items-center justify-center gap-3 py-2">
-                    <AnimalIcon type={animal} color={color} size={60} />
-                    <p className="text-white font-bold text-lg">
-                      {animal === "dog" ? lbl.dog : animal === "cat" ? lbl.cat : animal === "fox" ? lbl.fox : lbl.hedgehog}
-                    </p>
-                  </div>
-                  <div className="flex gap-2">
-                    <motion.button
-                      onClick={() => handlePetWildSelect(animal, true)}
-                      className="flex-1 py-2 px-3 rounded-lg transition-all font-bold text-white text-sm"
-                      style={{
-                        background:
-                          selectedAnswer === animal && petStatus[animal as keyof typeof petStatus] === true
-                            ? `${color}33`
-                            : "rgba(255,255,255,0.06)",
-                        border: `2px solid ${selectedAnswer === animal ? color : "rgba(255,255,255,0.1)"}`,
-                      }}
-                    >
-                      {lbl.pet}
-                    </motion.button>
-                    <motion.button
-                      onClick={() => handlePetWildSelect(animal, false)}
-                      className="flex-1 py-2 px-3 rounded-lg transition-all font-bold text-white text-sm"
-                      style={{
-                        background:
-                          selectedAnswer === animal && petStatus[animal as keyof typeof petStatus] === false
-                            ? `#FF2D7833`
-                            : "rgba(255,255,255,0.06)",
-                        border: `2px solid ${selectedAnswer === animal ? "#FF2D78" : "rgba(255,255,255,0.1)"}`,
-                      }}
-                    >
-                      {lbl.wild}
-                    </motion.button>
-                  </div>
+                {/* Sound display */}
+                <div
+                  className="w-full max-w-xs py-6 rounded-2xl text-center"
+                  style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+                >
+                  <p className="text-5xl font-black" style={{ color }}>
+                    {lbl[q.soundKey]}
+                  </p>
+                  <p className="text-white/40 text-xs font-bold mt-1">{lbl.round1Hint}</p>
                 </div>
-              ))}
-              {selectedAnswer && (
-                <motion.button
-                  onClick={advance}
-                  className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                >
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
 
-          {round === 2 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-              <p className="text-white/60 text-sm font-bold text-center">{lbl.round3Hint}</p>
-              <div className="bg-white/10 rounded-2xl p-6 text-center mb-4">
-                <p className="text-4xl font-black" style={{ color }}>
-                  {lbl.round3Sound}
-                </p>
-              </div>
-              <div className="space-y-2 w-full max-w-xs">
-                {["dog", "cat", "fox"].map((animal, idx) => (
-                  <motion.button
-                    key={idx}
-                    onClick={() => {
-                      if (animal === "cat") {
-                        setSelectedAnswer(animal);
-                      } else {
-                        wrongRef.current++;
-                        setSelectedAnswer(animal);
-                      }
-                    }}
-                    className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white flex items-center justify-center gap-3"
-                    style={{
-                      background:
-                        selectedAnswer === animal
-                          ? animal === "cat"
-                            ? `#00FF8833`
-                            : `#FF2D7833`
-                          : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedAnswer === animal ? (animal === "cat" ? "#00FF88" : "#FF2D78") : "rgba(255,255,255,0.1)"}`,
-                    }}
-                  >
-                    <AnimalIcon type={animal} color={color} size={40} />
-                    <span>
-                      {animal === "dog" ? lbl.dog : animal === "cat" ? lbl.cat : animal === "fox" ? lbl.fox : ""}
-                    </span>
-                  </motion.button>
-                ))}
-              </div>
-              {selectedAnswer && (
-                <motion.button
-                  onClick={advance}
-                  className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                >
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+                {renderMCQWithEmoji(opts, soundAnswer, q.answer, makeMcqHandler(q.answer, setSoundAnswer))}
+                {renderFeedback(soundAnswer, q.answer)}
+                {renderNext(soundAnswer === null, () => {
+                  if (soundIdx < soundQuestions.length - 1) {
+                    setSoundIdx(i => i + 1);
+                    setSoundAnswer(null);
+                  } else {
+                    advance();
+                  }
+                })}
+              </>
+            );
+          })()}
 
-          {round === 3 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-              <p className="text-white/60 text-sm font-bold text-center">{lbl.round4Hint}</p>
-              <div className="flex items-center justify-center gap-4 py-4">
-                <AnimalIcon type="fox" color={color} size={70} />
-              </div>
-              <div className="space-y-2 w-full max-w-xs">
-                {[lbl.forest, lbl.home].map((location, idx) => (
-                  <motion.button
-                    key={idx}
-                    onClick={() => {
-                      if (location === lbl.forest) {
-                        setSelectedAnswer(location);
-                      } else {
-                        wrongRef.current++;
-                        setSelectedAnswer(location);
-                      }
-                    }}
-                    className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white"
-                    style={{
-                      background:
-                        selectedAnswer === location
-                          ? location === lbl.forest
-                            ? `#00FF8833`
-                            : `#FF2D7833`
-                          : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedAnswer === location ? (location === lbl.forest ? "#00FF88" : "#FF2D78") : "rgba(255,255,255,0.1)"}`,
-                    }}
-                  >
-                    {location}
-                  </motion.button>
-                ))}
-              </div>
-              {selectedAnswer && (
-                <motion.button
-                  onClick={advance}
-                  className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                >
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+          {/* ═══ ROUND 1 — Pet or Wild? ═══ */}
+          {round === 1 && (() => {
+            const q = petQuestions[petIdx];
+            if (!q) return null;
+            const correctKey = q.isPet ? "pet" : "wild";
+            return (
+              <>
+                <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
+                <span className="text-white/40 text-xs font-bold">{petIdx + 1}/{petQuestions.length}</span>
 
-          {round === 4 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-              <p className="text-white/60 text-sm font-bold text-center">{lbl.round5Hint}</p>
-              <div className="space-y-2 w-full max-w-xs">
-                {[lbl.barks, lbl.meows, lbl.squeaks].map((sound, idx) => (
-                  <motion.button
-                    key={idx}
-                    onClick={() => {
-                      if (sound === lbl.barks) {
-                        setSelectedAnswer(sound);
-                      } else {
-                        wrongRef.current++;
-                        setSelectedAnswer(sound);
-                      }
-                    }}
-                    className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white"
-                    style={{
-                      background:
-                        selectedAnswer === sound
-                          ? sound === lbl.barks
-                            ? `#00FF8833`
-                            : `#FF2D7833`
-                          : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedAnswer === sound ? (sound === lbl.barks ? "#00FF88" : "#FF2D78") : "rgba(255,255,255,0.1)"}`,
-                    }}
-                  >
-                    {sound}
-                  </motion.button>
-                ))}
-              </div>
-              {selectedAnswer && (
-                <motion.button
-                  onClick={advance}
-                  className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+                {/* Animal card */}
+                <div
+                  className="w-full max-w-xs py-6 rounded-2xl text-center"
+                  style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}
                 >
-                  {lbl.finish} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+                  <p className="text-6xl mb-2">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+                  <p className="text-white font-black text-lg">{lbl[q.animal]}</p>
+                </div>
+
+                {/* Pet / Wild buttons */}
+                <div className="flex gap-3 w-full max-w-xs">
+                  {(["pet", "wild"] as const).map((key) => {
+                    const isSelected = petAnswer === key;
+                    const isCorrect = key === correctKey;
+                    let bg = "rgba(255,255,255,0.06)";
+                    let border = "rgba(255,255,255,0.1)";
+                    if (petAnswer !== null) {
+                      if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
+                      else if (isSelected && !isCorrect) { bg = "#FF2D7833"; border = "#FF2D78"; }
+                    }
+                    return (
+                      <motion.button
+                        key={key}
+                        onClick={() => {
+                          if (petAnswer !== null) return;
+                          totalRef.current++;
+                          if (key === correctKey) scoreRef.current++;
+                          setPetAnswer(key);
+                        }}
+                        whileTap={petAnswer === null ? { scale: 0.97 } : undefined}
+                        className="flex-1 py-3 rounded-xl transition-all font-black text-white text-sm"
+                        style={{ background: bg, border: `2px solid ${border}` }}
+                      >
+                        {key === "pet" ? "🏠" : "🌿"} {lbl[key]}
+                      </motion.button>
+                    );
+                  })}
+                </div>
+
+                {petAnswer !== null && renderFeedback(
+                  petAnswer === correctKey ? "c" : "w",
+                  "c",
+                )}
+
+                {renderNext(petAnswer === null, () => {
+                  if (petIdx < petQuestions.length - 1) {
+                    setPetIdx(i => i + 1);
+                    setPetAnswer(null);
+                  } else {
+                    advance();
+                  }
+                })}
+              </>
+            );
+          })()}
+
+          {/* ═══ ROUND 2 — Animal Homes ═══ */}
+          {round === 2 && (() => {
+            const q = homeQuestions[homeIdx];
+            if (!q) return null;
+            const opts = shuffle(q.options);
+            return (
+              <>
+                <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
+                <span className="text-white/40 text-xs font-bold">{homeIdx + 1}/{homeQuestions.length}</span>
+
+                {/* Animal display */}
+                <div
+                  className="w-full max-w-xs py-5 rounded-2xl text-center"
+                  style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+                >
+                  <p className="text-5xl mb-1">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+                  <p className="font-black text-white text-base">{lbl[q.animal]}</p>
+                </div>
+
+                {renderMCQ(opts, homeAnswer, q.answer, makeMcqHandler(q.answer, setHomeAnswer))}
+                {renderFeedback(homeAnswer, q.answer)}
+                {renderNext(homeAnswer === null, () => {
+                  if (homeIdx < homeQuestions.length - 1) {
+                    setHomeIdx(i => i + 1);
+                    setHomeAnswer(null);
+                  } else {
+                    advance();
+                  }
+                })}
+              </>
+            );
+          })()}
+
+          {/* ═══ ROUND 3 — Animal Babies ═══ */}
+          {round === 3 && (() => {
+            const q = babyQuestions[babyIdx];
+            if (!q) return null;
+            const opts = shuffle(q.options);
+            return (
+              <>
+                <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
+                <span className="text-white/40 text-xs font-bold">{babyIdx + 1}/{babyQuestions.length}</span>
+
+                {/* Animal display */}
+                <div
+                  className="w-full max-w-xs py-5 rounded-2xl text-center"
+                  style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+                >
+                  <p className="text-5xl mb-1">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+                  <p className="font-black text-white text-base">{lbl[q.animal]}</p>
+                </div>
+
+                {renderMCQ(opts, babyAnswer, q.answer, makeMcqHandler(q.answer, setBabyAnswer))}
+                {renderFeedback(babyAnswer, q.answer)}
+                {renderNext(babyAnswer === null, () => {
+                  if (babyIdx < babyQuestions.length - 1) {
+                    setBabyIdx(i => i + 1);
+                    setBabyAnswer(null);
+                  } else {
+                    advance();
+                  }
+                })}
+              </>
+            );
+          })()}
+
+          {/* ═══ ROUND 4 — Mixed review ═══ */}
+          {round === 4 && (() => {
+            const q = reviewQuestions[reviewIdx];
+            if (!q) return null;
+            const opts = shuffle(q.options);
+            return (
+              <>
+                <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
+                <span className="text-white/40 text-xs font-bold">{reviewIdx + 1}/{reviewQuestions.length}</span>
+
+                {renderMCQ(opts, reviewAnswer, q.answer, makeMcqHandler(q.answer, setReviewAnswer))}
+                {renderFeedback(reviewAnswer, q.answer)}
+                {renderNext(reviewAnswer === null, () => {
+                  if (reviewIdx < reviewQuestions.length - 1) {
+                    setReviewIdx(i => i + 1);
+                    setReviewAnswer(null);
+                  } else {
+                    advance();
+                  }
+                }, lbl.finish)}
+              </>
+            );
+          })()}
         </motion.div>
       </AnimatePresence>
     </div>
