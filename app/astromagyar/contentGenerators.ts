@@ -95,10 +95,10 @@ export function generateO1SentenceBuilderContent(): SentenceRound[] {
       explanation: "A macska alszik.",
     },
     {
-      words: ["Az", "fa", "zöld"],
+      words: ["A", "fa", "zöld"],
       correctOrder: [0, 1, 2],
       hint: "Főnév + melléknév",
-      explanation: "Az fa zöld.",
+      explanation: "A fa zöld.",
     },
   ];
 }
@@ -167,7 +167,7 @@ export function generateO1PictureWordContent(): VocabRound[] {
 export function generateO1ReadingCompContent(): CompRound[] {
   return [
     {
-      passage: "Peti egy macskája van. A macska neve Cirmi. Cirmi barátja Petihez.",
+      passage: "Peti egy macskája van. A macska neve Cirmi. Cirmi hű barát.",
       question: "Mi a macska neve?",
       options: ["Peti", "Cirmi", "Kitti", "Dani"],
       correctIndex: 1,
@@ -181,11 +181,11 @@ export function generateO1ReadingCompContent(): CompRound[] {
       explanation: "Anna az iskolába megy.",
     },
     {
-      passage: "Az appot piros. A másik alma zöld. Mindkettő finom.",
-      question: "Milyen az alma?",
+      passage: "Az alma piros. A másik alma zöld. Mindkettő finom.",
+      question: "Milyen színű az első alma?",
       options: ["kék", "piros", "sárga", "lila"],
       correctIndex: 1,
-      explanation: "Az szöveg szerint az alma piros.",
+      explanation: "A szöveg szerint az első alma piros.",
     },
   ];
 }
@@ -349,12 +349,12 @@ export function generateO2ReadingCompContent(): CompRound[] {
 
 export function generateO2MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "iskola", match: "🏫" },
-    { word: "tanár", match: "👩‍🏫" },
-    { word: "diák", match: "👨‍🎓" },
-    { word: "könyv", match: "📚" },
-    { word: "ceruza", match: "✏️" },
-    { word: "labda", match: "⚽" },
+    { word: "asz-tal", match: "asztal" },
+    { word: "is-ko-la", match: "iskola" },
+    { word: "ce-ru-za", match: "ceruza" },
+    { word: "ba-rát", match: "barát" },
+    { word: "lab-da", match: "labda" },
+    { word: "há-ti-zsák", match: "hátizsák" },
   ];
 }
 
@@ -501,12 +501,12 @@ export function generateO3ReadingCompContent(): CompRound[] {
 
 export function generateO3MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "forró", match: "🔥" },
-    { word: "hideg", match: "❄️" },
-    { word: "meleg", match: "🌞" },
-    { word: "víz", match: "🌊" },
-    { word: "hegy", match: "⛰️" },
-    { word: "virág", match: "🌺" },
+    { word: "nagy", match: "kicsi" },
+    { word: "forró", match: "hideg" },
+    { word: "gyors", match: "lassú" },
+    { word: "magas", match: "alacsony" },
+    { word: "könnyű", match: "nehéz" },
+    { word: "világos", match: "sötét" },
   ];
 }
 
@@ -628,7 +628,7 @@ export function generateO4ReadingCompContent(): CompRound[] {
   return [
     {
       passage: "Gergő és Sándor barátok. Együtt járnak az iskolába. Sándor szeret matekozni, Gergő pedig magyart. Minden nap tanulnak.",
-      question: "Mit szeretnek az össze tanulni?",
+      question: "Mit szeret Sándor és mit szeret Gergő?",
       options: ["Matekot", "Magyart", "Matekot és magyart", "Történelmet"],
       correctIndex: 2,
       explanation: "Sándor szeret matekozni, Gergő pedig magyart szereti.",
@@ -652,12 +652,12 @@ export function generateO4ReadingCompContent(): CompRound[] {
 
 export function generateO4MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "szülinap", match: "🎂" },
-    { word: "napraforgó", match: "🌻" },
-    { word: "óra", match: "⌚" },
-    { word: "televízió", match: "📺" },
-    { word: "zene", match: "🎵" },
-    { word: "villám", match: "⚡" },
+    { word: "fut", match: "futott" },
+    { word: "eszik", match: "evett" },
+    { word: "iszik", match: "ivott" },
+    { word: "tanul", match: "tanult" },
+    { word: "olvas", match: "olvasott" },
+    { word: "játszik", match: "játszott" },
   ];
 }
 
@@ -726,7 +726,7 @@ export function generateO5PictureWordContent(): VocabRound[] {
     {
       emoji: "🎪",
       word: "cirkusz",
-      options: ["bábszínház", "cirkusz", "mozi", "операт"],
+      options: ["bábszínház", "cirkusz", "mozi", "opera"],
       correctIndex: 1,
       explanation: "A cirkuszban akrobatákat tanulmányozhatunk.",
     },
@@ -792,8 +792,8 @@ export function generateO5ReadingCompContent(): CompRound[] {
       explanation: "A fiú az apjának olvasott mesét.",
     },
     {
-      passage: "A katonák az országot védelmezte. Nagyon bátrak voltak. Az emberek hálásak voltak. Az ő bátorságuk legendás lett.",
-      question: "Mit tett a katonák?",
+      passage: "A katonák az országot védelmezték. Nagyon bátrak voltak. Az emberek hálásak voltak. Az ő bátorságuk legendás lett.",
+      question: "Mit tettek a katonák?",
       options: ["Épített", "Tanított", "Védelmezett", "Nyomon követett"],
       correctIndex: 2,
       explanation: "A katonák az országot védelmezték.",
@@ -803,12 +803,12 @@ export function generateO5ReadingCompContent(): CompRound[] {
 
 export function generateO5MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "dráma", match: "🎭" },
-    { word: "cirkusz", match: "🎪" },
-    { word: "múzeum", match: "🏛️" },
-    { word: "előadás", match: "🎤" },
-    { word: "film", match: "🎬" },
-    { word: "gitár", match: "🎸" },
+    { word: "megír", match: "befejez (írást)" },
+    { word: "elolvas", match: "végigolvas" },
+    { word: "felkel", match: "feláll" },
+    { word: "lemegy", match: "lefelé halad" },
+    { word: "bejön", match: "belép" },
+    { word: "kimegy", match: "elhagyja a helyet" },
   ];
 }
 
@@ -829,8 +829,8 @@ export function generateO6CategoryRushContent(): CategoryRushRound {
       { text: "A tűz olyan meleg mint a nap", categoryIndex: 0, explanation: "Hasonlat" },
       { text: "Az élet egy út", categoryIndex: 1, explanation: "Metafora" },
       { text: "A szél suttogott", categoryIndex: 2, explanation: "Személyesítés" },
-      { text: "A róka olyan ravasz mint a denevér", categoryIndex: 0, explanation: "Hasonlat" },
-      { text: "A szememben könnyek voltak", categoryIndex: 1, explanation: "Metafora" },
+      { text: "Szép vagy mint egy rózsa", categoryIndex: 0, explanation: "Hasonlat" },
+      { text: "Az idő pénz", categoryIndex: 1, explanation: "Metafora - közvetlen azonosítás" },
       { text: "A fa énekelt a szélben", categoryIndex: 2, explanation: "Személyesítés" },
       { text: "Az ősz olyan szép mint a tavasz", categoryIndex: 0, explanation: "Hasonlat" },
     ],
@@ -930,7 +930,7 @@ export function generateO6PictureWordContent(): VocabRound[] {
 export function generateO6ReadingCompContent(): CompRound[] {
   return [
     {
-      passage: "Petőfi Sándor a palkányi született. Csodálatos költőnk volt. A Nemzeti dalt írta. Ezt a verset sok emberünk szereti.",
+      passage: "Petőfi Sándor Kiskőrösön született. Csodálatos költőnk volt. A Nemzeti dalt írta. Ezt a verset sok emberünk szereti.",
       question: "Ki írta a Nemzeti dalt?",
       options: ["Arany János", "Petőfi Sándor", "Ady Endre", "Babits Mihály"],
       correctIndex: 1,
@@ -955,12 +955,12 @@ export function generateO6ReadingCompContent(): CompRound[] {
 
 export function generateO6MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "irodalom", match: "📚" },
-    { word: "képzőművészet", match: "🖼️" },
-    { word: "érzelmi", match: "💭" },
-    { word: "stílus", match: "🎨" },
-    { word: "szerző", match: "✍️" },
-    { word: "hős", match: "🌟" },
+    { word: "hasonlat", match: "szép mint a rózsa" },
+    { word: "metafora", match: "az idő pénz" },
+    { word: "megszemélyesítés", match: "a szél süvít" },
+    { word: "túlzás", match: "halálra nevettem" },
+    { word: "ellentét", match: "kicsi a bors, de erős" },
+    { word: "ismétlés", match: "messze, messze, messze" },
   ];
 }
 
@@ -978,12 +978,12 @@ export function generateO7CategoryRushContent(): CategoryRushRound {
       { text: "ember", categoryIndex: 0, explanation: "Köznyelv - hivatalos" },
       { text: "csávó", categoryIndex: 1, explanation: "Szleng - fiatalok nyelvezete" },
       { text: "gazda", categoryIndex: 2, explanation: "Tájnyelv - vidéki kifejezés" },
-      { text: "autó", categoryIndex: 0, explanation: "Köznyelv - közforgalmu" },
-      { text: "gépkocsi", categoryIndex: 1, explanation: "Szleng - játékos elnevezés" },
-      { text: "kocsi", categoryIndex: 2, explanation: "Tájnyelv - régi szó" },
-      { text: "fiú", categoryIndex: 0, explanation: "Köznyelv" },
-      { text: "srác", categoryIndex: 1, explanation: "Szleng" },
-      { text: "legény", categoryIndex: 2, explanation: "Tájnyelv" },
+      { text: "autó", categoryIndex: 0, explanation: "Köznyelv - általánosan használt" },
+      { text: "csaj", categoryIndex: 1, explanation: "Szleng - fiatalok nyelvezete" },
+      { text: "leányzó", categoryIndex: 2, explanation: "Tájnyelv - vidéki kifejezés" },
+      { text: "dolgozik", categoryIndex: 0, explanation: "Köznyelv" },
+      { text: "meló", categoryIndex: 1, explanation: "Szleng" },
+      { text: "kapál", categoryIndex: 2, explanation: "Tájnyelv" },
       { text: "lány", categoryIndex: 0, explanation: "Köznyelv" },
     ],
   };
@@ -1032,7 +1032,7 @@ export function generateO7PictureWordContent(): VocabRound[] {
       word: "mezőgazdaság",
       options: ["halászat", "mezőgazdaság", "vadászat", "termelés"],
       correctIndex: 1,
-      explanation: "A mezőgazdaság a tierra termékei.",
+      explanation: "A mezőgazdaság a föld megművelése.",
     },
     {
       emoji: "🏛️",
@@ -1060,7 +1060,7 @@ export function generateO7PictureWordContent(): VocabRound[] {
       word: "kiváltság",
       options: ["jog", "kiváltság", "kötelezettség", "felelősség"],
       correctIndex: 1,
-      explanation: "A kiváltság különleges право.",
+      explanation: "A kiváltság különleges jog.",
     },
     {
       emoji: "🤝",
@@ -1107,12 +1107,12 @@ export function generateO7ReadingCompContent(): CompRound[] {
 
 export function generateO7MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "ipar", match: "🏭" },
-    { word: "mezőgazdaság", match: "🌾" },
-    { word: "kormányzat", match: "🏛️" },
-    { word: "jogszabály", match: "⚖️" },
-    { word: "választás", match: "🗳️" },
-    { word: "szövetség", match: "🤝" },
+    { word: "összetétel", match: "napraforgó" },
+    { word: "képzés", match: "tanító" },
+    { word: "rövidítés", match: "tv" },
+    { word: "mozaikszó", match: "MÁV" },
+    { word: "szóelvonás", match: "csel (cselekedet)" },
+    { word: "hangutánzás", match: "csörög" },
   ];
 }
 
@@ -1202,8 +1202,8 @@ export function generateO8PictureWordContent(): VocabRound[] {
     },
     {
       emoji: "⚡",
-      word: "innovációsok",
-      options: ["tradíció", "innovációt", "feltalálás", "újítás"],
+      word: "innováció",
+      options: ["tradíció", "innováció", "feltalálás", "újítás"],
       correctIndex: 1,
       explanation: "Az innováció az új ötlet vagy módszer.",
     },
@@ -1259,11 +1259,11 @@ export function generateO8ReadingCompContent(): CompRound[] {
 
 export function generateO8MemoryPairContent(): MemoryPair[] {
   return [
-    { word: "végzettség", match: "🎓" },
-    { word: "szakma", match: "💼" },
-    { word: "fejlődés", match: "🌱" },
-    { word: "siker", match: "🏆" },
-    { word: "kutatás", match: "🔬" },
-    { word: "cél", match: "🎯" },
+    { word: "tudományos", match: "szakszavak, tárgyilagos" },
+    { word: "publicisztikai", match: "meggyőzés, vélemény" },
+    { word: "szépirodalmi", match: "szóképek, hangulat" },
+    { word: "hivatalos", match: "szabályos, formális" },
+    { word: "társalgási", match: "közvetlen, laza" },
+    { word: "szónoki", match: "retorikai kérdés" },
   ];
 }
