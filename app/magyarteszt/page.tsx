@@ -8,6 +8,7 @@ import {
   HUNGARIAN_SUBTOPIC_HINTS,
 } from "@/lib/hungarianCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { HUNGARIAN_VISUAL_TYPES } from "@/lib/magyarVisualGenerators";
 
 const HU_CONFIG: LanguageTestEngineConfig = {
   gameId: "magyarteszt",
@@ -38,6 +39,9 @@ const HU_CONFIG: LanguageTestEngineConfig = {
   curriculum: HUNGARIAN_CURRICULUM,
   getQuestions: getHungarianQuestions,
   subtopicHints: HUNGARIAN_SUBTOPIC_HINTS,
+
+  visualTypes: HUNGARIAN_VISUAL_TYPES,
+  visualGrades: [1, 2, 3, 4, 5, 6, 7, 8],
 
   labels: {
     selectCountry: "Válaszd ki az országodat",

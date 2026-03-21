@@ -1,6 +1,18 @@
 // ─── MAGYAR VISUAL GENERATORS ──────────────────────────────────────────
 // Data pools and generators for Hungarian visual question types
 
+import MondatRendezés from "@/components/magyar-visual/MondatRendezés";
+import HibaKeresés from "@/components/magyar-visual/HibaKeresés";
+import SzófajSorter from "@/components/magyar-visual/SzófajSorter";
+import MondatrészJelölés from "@/components/magyar-visual/MondatrészJelölés";
+import HiányosSzöveg from "@/components/magyar-visual/HiányosSzöveg";
+import SzócsaládFa from "@/components/magyar-visual/SzócsaládFa";
+import TörténetRendezés from "@/components/magyar-visual/TörténetRendezés";
+import ToldalékVálasztó from "@/components/magyar-visual/ToldalékVálasztó";
+import EsetJelölés from "@/components/magyar-visual/EsetJelölés";
+import KépFelismerés from "@/components/magyar-visual/KépFelismerés";
+import type { VisualQuestionType } from "@/lib/languageTestTypes";
+
 // ─── INTERFACES ───────────────────────────────────────────────────────
 
 export interface MondatItem {
@@ -648,3 +660,253 @@ export type MagyarTestQuestion =
   | ReturnType<typeof genToldalékVálasztó>[0]
   | ReturnType<typeof genEsetJelölés>[0]
   | ReturnType<typeof genKépFelismerés>[0];
+
+// ─── VISUAL TYPE REGISTRATIONS ────────────────────────────────────────
+
+export const HUNGARIAN_VISUAL_TYPES: VisualQuestionType[] = [
+  // 1. MondatRendezés (Sentence Reordering)
+  {
+    type: "hu-mondat-rendezés",
+    label: "Mondatok Rendezése 📝",
+    printLabel: "Mondat Rendezése",
+    component: MondatRendezés,
+    subtopicIds: ["hu_sentence_structure", "hu_word_order", "hu_sentence_building"],
+    generate: (count) => genMondatRendezés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: given === (q.answer as string),
+      expected: q.answer as string
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      shuffled: q.shuffled as string[],
+      answer: q.answer as string,
+      userAnswer,
+      submitted,
+      onAnswer,
+      placeholder: "Kattints a szavakra…",
+      allUsedLabel: "mindegyik szó felhasználva",
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 2. HibaKeresés (Error Detection)
+  {
+    type: "hu-hiba-keresés",
+    label: "Hibák Keresése 🔍",
+    printLabel: "Hiba Keresése",
+    component: HibaKeresés,
+    subtopicIds: ["hu_spelling", "hu_grammar_errors", "hu_word_choice"],
+    generate: (count) => genHibaKeresés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: parseInt(given) === (q.errorIndex as number),
+      expected: `szó ${(q.errorIndex as number) + 1}`
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      words: q.words as string[],
+      errorIndex: q.errorIndex as number,
+      userAnswer,
+      submitted,
+      onAnswer,
+      placeholder: "Kattints a hibás szóra…",
+      correctLabel: "Helyes szó:"
+    })
+  },
+
+  // 3. SzófajSorter (Part of Speech)
+  {
+    type: "hu-szófaj-sorter",
+    label: "Szófajok 🔤",
+    printLabel: "Szófaj Besorolás",
+    component: SzófajSorter,
+    subtopicIds: ["hu_parts_of_speech", "hu_noun_verb_adjective", "hu_word_categories"],
+    generate: (count) => genSzófajSorter(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: given === (q.correct as string),
+      expected: q.correct as string
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      word: q.word as string,
+      correct: q.correct as string,
+      userAnswer,
+      submitted,
+      onAnswer,
+      labels: { F: "Főnév", I: "Ige", M: "Melléknév" },
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 4. MondatrészJelölés (Sentence Parts)
+  {
+    type: "hu-mondatrész-jelölés",
+    label: "Mondatrészek 📍",
+    printLabel: "Mondatrész Jelölés",
+    component: MondatrészJelölés,
+    subtopicIds: ["hu_subject_predicate", "hu_sentence_parts", "hu_object_marking"],
+    generate: (count) => genMondatrészJelölés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => {
+      const expected = (q.roles as string[]).join(",");
+      return {
+        correct: given === expected,
+        expected
+      };
+    },
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      words: q.words as string[],
+      roles: q.roles as string[],
+      userAnswer,
+      submitted,
+      onAnswer,
+      labels: { A: "Alany", Á: "Állítmány", T: "Tárgy" },
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 5. HiányosSzöveg (Fill in Blanks)
+  {
+    type: "hu-hiányos-szöveg",
+    label: "Lyukas Mondatok 📖",
+    printLabel: "Hiányzó Szó Pótlása",
+    component: HiányosSzöveg,
+    subtopicIds: ["hu_vocabulary", "hu_context_clues", "hu_word_selection"],
+    generate: (count) => genHiányosSzöveg(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: parseInt(given) === (q.correctIndex as number),
+      expected: (q.options as string[])[q.correctIndex as number]
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      sentence: q.sentence as string,
+      options: q.options as string[],
+      correct: q.correctIndex as number,
+      userAnswer,
+      submitted,
+      onAnswer,
+      placeholder: "Válassz…",
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 6. SzócsaládFa (Word Families)
+  {
+    type: "hu-szócsalád-fa",
+    label: "Szócsaládok 🌳",
+    printLabel: "Szócsalád Kiválasztás",
+    component: SzócsaládFa,
+    subtopicIds: ["hu_word_families", "hu_related_words", "hu_root_words"],
+    generate: (count) => genSzócsaládFa(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => {
+      const expected = (q.correctIndices as number[]).sort().join(",");
+      return {
+        correct: given === expected,
+        expected: (q.correctIndices as number[]).map((i) => (q.words as string[])[i]).join(", ")
+      };
+    },
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      root: q.root as string,
+      words: q.words as string[],
+      correctIndices: q.correctIndices as number[],
+      userAnswer,
+      submitted,
+      onAnswer,
+      label: "Szócsalád",
+      correctLabel: "Helyes szavak:"
+    })
+  },
+
+  // 7. TörténetRendezés (Story Ordering)
+  {
+    type: "hu-történet-rendezés",
+    label: "Történet Sorrend 📚",
+    printLabel: "Történet Rendezése",
+    component: TörténetRendezés,
+    subtopicIds: ["hu_chronological_order", "hu_sequencing", "hu_story_order"],
+    generate: (count) => genTörténetRendezés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: given === (q.answer as string),
+      expected: q.answer as string
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      shuffled: q.shuffled as string[],
+      answer: q.answer as string,
+      userAnswer,
+      submitted,
+      onAnswer,
+      placeholder: "Építsd fel a történetet…",
+      correctLabel: "Helyes sorrend:"
+    })
+  },
+
+  // 8. ToldalékVálasztó (Adjective Endings)
+  {
+    type: "hu-toldalék-választó",
+    label: "Toldalékok ➕",
+    printLabel: "Toldalék Kiválasztás",
+    component: ToldalékVálasztó,
+    subtopicIds: ["hu_suffixes", "hu_word_endings", "hu_morphology"],
+    generate: (count) => genToldalékVálasztó(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: parseInt(given) === (q.correctIndex as number),
+      expected: (q.endings as string[])[q.correctIndex as number]
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      root: q.root as string,
+      endings: q.endings as string[],
+      correct: q.correctIndex as number,
+      userAnswer,
+      submitted,
+      onAnswer,
+      placeholder: "Válassz toldalékot…",
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 9. EsetJelölés (Case Marking)
+  {
+    type: "hu-eset-jelölés",
+    label: "Nyelvtani Esetek 📌",
+    printLabel: "Eset Azonosítása",
+    component: EsetJelölés,
+    subtopicIds: ["hu_grammatical_cases", "hu_case_marking", "hu_noun_cases"],
+    generate: (count) => genEsetJelölés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: given === (q.correct as string),
+      expected: q.correct as string
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      sentence: q.sentence as string,
+      highlight: q.highlight as string,
+      correct: q.correct as string,
+      userAnswer,
+      submitted,
+      onAnswer,
+      labels: {
+        A: "Alany (N.)",
+        B: "Birtokos (G.)",
+        D: "Részeshatározó (D.)",
+        G: "Helyhatározó (L.)"
+      },
+      correctLabel: "Helyes:"
+    })
+  },
+
+  // 10. KépFelismerés (Picture Recognition)
+  {
+    type: "hu-kép-felismerés",
+    label: "Képfelismerés 🖼️",
+    printLabel: "Kép Azonosítása",
+    component: KépFelismerés,
+    subtopicIds: ["hu_vocabulary", "hu_pictures", "hu_word_recognition"],
+    generate: (count) => genKépFelismerés(count),
+    gradeAnswer: (q: Record<string, unknown>, given: string) => ({
+      correct: parseInt(given) === (q.correctIndex as number),
+      expected: (q.options as string[])[q.correctIndex as number]
+    }),
+    mapProps: (q: Record<string, unknown>, userAnswer: string, submitted: boolean, onAnswer: (a: string) => void) => ({
+      imageKey: q.imageKey as string,
+      options: q.options as string[],
+      correct: q.correctIndex as number,
+      userAnswer,
+      submitted,
+      onAnswer,
+      correctLabel: "Helyes:"
+    })
+  }
+];
