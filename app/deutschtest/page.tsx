@@ -1792,9 +1792,8 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                       <span className={`font-mono text-xs w-5 text-right shrink-0 ${isVisualBlock ? 'text-indigo-400 font-bold' : 'text-slate-400'}`} style={{ lineHeight: '28px' }}>
                         {isVisualBlock ? `${subLabel})` : `${qi + 1}.`}
                       </span>
-                      {/* For visual blocks, question text is shown in block header — suppress individual header */}
                       <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>
-                        {isVisualBlock ? "" : q.type === "anlaut-bild" ? "" : q.question}
+                        {q.type === "anlaut-bild" ? "" : q.question}
                       </p>
                       {/* TTS button */}
                       <button

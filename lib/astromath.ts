@@ -48,7 +48,10 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "review-explorer-k8"
   | "review-explorer-hu"
   | "word-sort" | "sentence-builder" | "fill-gap" | "grammar-match" | "spell-race" | "category-rush"
-  | "lang-explore";
+  | "lang-explore"
+  | "body-explorer" | "animal-explorer" | "nature-explorer"
+  | "weather-explorer" | "family-explorer" | "traffic-explorer"
+  | "recycling-explorer" | "nature-review-explorer" | "sachkunde-review-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

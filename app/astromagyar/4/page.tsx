@@ -2,7 +2,7 @@
 import React, { useState, useCallback } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ChevronRight, ChevronLeft } from "lucide-react";
+import { X, ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
@@ -16,7 +16,6 @@ import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
-import { T } from "@/app/astromath/games/translations";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
@@ -32,6 +31,18 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import {
+  generateO4CategoryRushContent,
+  generateO4SentenceBuilderContent,
+  generateO4PictureWordContent,
+  generateO4ReadingCompContent,
+  generateO4MemoryPairContent,
+} from "@/app/astromagyar/contentGenerators";
 import {
   O4_ISLANDS, O4_CHECKPOINT_MAP, O4_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang,
   loadO4Progress, saveO4Progress, type O4Progress,
@@ -69,7 +80,13 @@ type Screen =
   | "verb-explorer"
   | "sentence-explorer"
   | "eset-explorer"
+  | "review-explorer"
   | "review-explorer-hu"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -91,6 +108,18 @@ function Starfield() {
           transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }} />
       ))}
     </div>
+  );
+}
+
+// ─── Exit Button ───────────────────────────────────────────────────────────────
+function ExitButton({ onExit }: { onExit: () => void }) {
+  return (
+    <button
+      onClick={onExit}
+      className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"
+    >
+      <X size={14} />
+    </button>
   );
 }
 
@@ -255,7 +284,6 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 export default function AstroMagyarO4Page() {
   const router = useRouter();
   const { lang } = useLang();
-  const t = T[lang as keyof typeof T] ?? T.en;
 
   // Avatar
   const [gender] = useState<AvatarGender>(getGender());
@@ -275,12 +303,17 @@ export default function AstroMagyarO4Page() {
   const [progress, setProgress] = useState<O4Progress>(loadO4Progress());
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
-  const [activeGameType, setActiveGameType] = useState<string | null>(null);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
-  const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
+
+  const avatarProps = {
+    gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe,
+    activeCape, activeGlasses, activeGloves, activeHat, activeTrail,
+  };
+
+  const color = activeIsland?.color || "#FF6B9D";
 
   // Handle island select
   const handleIslandSelect = useCallback((island: IslandDef) => {
@@ -292,24 +325,30 @@ export default function AstroMagyarO4Page() {
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
     const gameType = mission.gameType;
-    setActiveGameType(gameType);
-    // lang-explore doesn't need questions generation, component uses own generator
+    // lang-explore: self-contained
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
       return;
     }
-    // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    // Explorer/content components: self-contained, no questions needed
+    const explorerTypes = [
+      "letter-explorer", "syllable-explorer", "spelling-explorer",
+      "noun-explorer", "verb-explorer", "sentence-explorer",
+      "eset-explorer", "review-explorer", "review-explorer-hu",
+      "sentence-builder", "memory-pair", "picture-word",
+      "category-rush", "reading-comp",
+    ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
       return;
     }
+    // Standard quiz games
     const qs = generateIslandQuestionsO4(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen(gameType as Screen);
-  }, [activeIsland]);
+  }, [activeIsland, lang]);
 
   // Handle mission success
   const handleMissionSuccess = useCallback((score: number, total: number) => {
@@ -320,8 +359,10 @@ export default function AstroMagyarO4Page() {
       saveCard({ id: generateCardId(), game: "astromagyar", rarity, score, total, date: new Date().toISOString() });
       window.dispatchEvent(new Event("plizio-cards-changed"));
       incrementTotalGames();
+      checkNewMilestones();
 
-      const updatedProg = completeMissionO4(progress, activeIsland.id, activeMission.id, score >= total * 0.8 ? 3 : score >= total * 0.6 ? 2 : 1);
+      const stars = score >= total * 0.8 ? 3 : score >= total * 0.6 ? 2 : 1;
+      const updatedProg = completeMissionO4(progress, activeIsland.id, activeMission.id, stars);
       setProgress(updatedProg);
       saveO4Progress(updatedProg);
 
@@ -330,17 +371,10 @@ export default function AstroMagyarO4Page() {
     }
   }, [activeIsland, activeMission, progress]);
 
-  // After island animation
+  // After island animation — NO saveCard here (already saved in handleMissionSuccess)
   const handleIslandAnimDone = useCallback(() => {
-    if (earnedCard && activeIsland) {
-      saveCard({ id: generateCardId(), game: "astromagyar", rarity: earnedCard, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
-      window.dispatchEvent(new Event("plizio-cards-changed"));
-      incrementTotalGames();
-      checkNewMilestones();
-      setRewardScore(missionScore);
-      setScreen("reward");
-    }
-  }, [earnedCard, activeIsland, missionScore]);
+    setScreen("mission-select");
+  }, []);
 
   // Checkpoint
   const handleCheckpointSelect = useCallback((testId: string) => {
@@ -349,7 +383,7 @@ export default function AstroMagyarO4Page() {
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
     setScreen("checkpoint-quiz");
-  }, []);
+  }, [lang]);
 
   const handleCheckpointSuccess = useCallback((score: number, total: number) => {
     setMissionScore({ score, total });
@@ -379,6 +413,12 @@ export default function AstroMagyarO4Page() {
               <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
             </div>
           </div>
+          {/* Avatar fixed bottom-right on map */}
+          <AvatarCompanion
+            {...avatarProps}
+            mood="idle"
+            fixed={true}
+          />
         </motion.div>
       )}
 
@@ -426,63 +466,184 @@ export default function AstroMagyarO4Page() {
         </motion.div>
       )}
 
-      {/* Game Screens */}
+      {/* ─── Game Screens ─────────────────────────────────────────────────────── */}
+
       {screen === "orbit-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} color={activeIsland?.color || "#FF6B9D"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "black-hole" && questions.length > 0 && (
-        <BlackHole questions={questions} color={activeIsland?.color || "#FF6B9D"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "star-match" && questions.length > 0 && (
-        <StarMatch questions={questions} color={activeIsland?.color || "#FF6B9D"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "speed-round" && questions.length > 0 && (
-        <SpeedRound questions={questions} color={activeIsland?.color || "#FF6B9D"}
-          lang={lang} onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "lang-explore" && activeIsland && (
-        <LangExplore
-          island={activeIsland}
-          grade={4}
-          onDone={(s, t) => handleMissionSuccess(s, t)}
-        />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <OrbitQuiz questions={questions} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
 
-      {/* Explorer Components */}
+      {screen === "black-hole" && questions.length > 0 && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <BlackHole questions={questions} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "star-match" && questions.length > 0 && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <StarMatch questions={questions} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "speed-round" && questions.length > 0 && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpeedRound questions={questions} color={color}
+            lang={lang} onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "lang-explore" && activeIsland && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <LangExplore
+            island={activeIsland}
+            grade={4}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {/* ─── Explorer Screens ─────────────────────────────────────────────────── */}
+
       {screen === "letter-explorer" && (
-        <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <LetterExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "syllable-explorer" && (
-        <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SyllableExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "spelling-explorer" && (
-        <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpellingExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "noun-explorer" && (
-        <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <NounExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "verb-explorer" && (
-        <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <VerbExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "sentence-explorer" && (
-        <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SentenceExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
+
       {screen === "eset-explorer" && (
-        <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <EsetExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
       )}
-      {screen === "review-explorer-hu" && (
-        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
+
+      {/* review-explorer and review-explorer-hu both route to ReviewExplorer */}
+      {(screen === "review-explorer" || screen === "review-explorer-hu") && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReviewExplorer lang={lang as Lang} color={color}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {/* ─── New Explorer Screens ─────────────────────────────────────────────── */}
+
+      {screen === "sentence-builder" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SentenceBuilderExplorer
+            rounds={generateO4SentenceBuilderContent()}
+            color={color}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "memory-pair" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <MemoryPairExplorer
+            pairs={generateO4MemoryPairContent()}
+            color={color}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "picture-word" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <PictureVocabExplorer
+            rounds={generateO4PictureWordContent()}
+            color={color}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "category-rush" && (
+        <div className="relative">
+          {(() => {
+            const data = generateO4CategoryRushContent();
+            return (
+              <CategoryRushExplorer
+                categories={data.categories}
+                items={data.items}
+                color={color}
+                lang={lang}
+                onDone={(s, t) => handleMissionSuccess(s, t)}
+              />
+            );
+          })()}
+          <ExitButton onExit={() => setScreen("mission-select")} />
+        </div>
+      )}
+
+      {screen === "reading-comp" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReadingCompExplorer
+            rounds={generateO4ReadingCompContent()}
+            color={color}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
       )}
 
       {/* Reward */}
@@ -499,8 +660,11 @@ export default function AstroMagyarO4Page() {
 
       {/* Checkpoint */}
       {screen === "checkpoint-quiz" && questions.length > 0 && (
-        <OrbitQuiz questions={questions} color="#FFD700"
-          onDone={(s, t) => handleCheckpointSuccess(s, t)} />
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("island-map")} />
+          <OrbitQuiz questions={questions} color="#FFD700"
+            onDone={(s, t) => handleCheckpointSuccess(s, t)} />
+        </div>
       )}
 
       {/* Checkpoint Done */}

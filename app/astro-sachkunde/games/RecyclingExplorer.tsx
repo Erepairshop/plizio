@@ -1,0 +1,635 @@
+"use client";
+// RecyclingExplorer — Island i7: Materials & Recycling
+// 5 randomised rounds, answer lock-out, scoreRef/totalRef, all text in LABELS
+
+import { memo, useState, useCallback, useRef, useMemo } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight, CheckCircle2, XCircle } from "lucide-react";
+
+// ─── LABELS ────────────────────────────────────────────────────────────────────
+const LABELS = {
+  en: {
+    title: "Recycling Explorer",
+    // round titles & hints
+    r1Title: "What material is this?",
+    r1Hint: "What is this item made of?",
+    r2Title: "Which bin?",
+    r2Hint: "Which bin does this item belong in?",
+    r3Title: "Recyclable?",
+    r3Hint: "Can this item be recycled?",
+    r4Title: "Good for nature?",
+    r4Hint: "Is this behaviour good or bad for nature?",
+    r5Title: "Quick Review",
+    r5Hint: "What have you learned?",
+    // materials
+    paper: "Paper",
+    plastic: "Plastic",
+    glass: "Glass",
+    metal: "Metal",
+    organic: "Organic",
+    other: "Other",
+    // bin labels
+    yellowBin: "Yellow bin",
+    blueBin: "Blue bin",
+    brownBin: "Brown bin",
+    greenBin: "Green bin / Glass",
+    grayBin: "Gray bin",
+    // recyclable
+    yes: "Yes, recyclable",
+    no: "Not recyclable",
+    // good / bad
+    good: "Good for nature",
+    bad: "Bad for nature",
+    // feedback
+    correct: "Correct!",
+    wrong: "Not quite — try again!",
+    next: "Next",
+    finish: "Finish",
+    // items (emoji shown, name as label)
+    bottleWater: "Plastic water bottle",
+    newspaper: "Newspaper",
+    bananaPeel: "Banana peel",
+    glassBottle: "Glass bottle",
+    tinCan: "Tin can",
+    cardboardBox: "Cardboard box",
+    plasticBag: "Plastic bag",
+    coffeeCup: "Disposable coffee cup",
+    apple: "Apple core",
+    yogurtCup: "Yogurt cup",
+    aluminumFoil: "Aluminium foil",
+    brokenUmbrella: "Broken umbrella",
+    // behaviours
+    plantTree: "Planting a tree 🌳",
+    littering: "Throwing litter on the ground 🚮",
+    saveWater: "Turning off the tap while brushing teeth 🚿",
+    longShower: "Taking a 30-minute shower 🚿",
+    bikeRide: "Riding a bike instead of driving 🚲",
+    leaveLight: "Leaving lights on in empty rooms 💡",
+    compost: "Composting food scraps 🌱",
+    singleUsePlastic: "Using single-use plastic bags 🛍️",
+  },
+  de: {
+    title: "Recycling-Entdecker",
+    r1Title: "Aus welchem Material ist das?",
+    r1Hint: "Erkenne das Material!",
+    r2Title: "In welche Tonne?",
+    r2Hint: "In welche Tonne gehört das?",
+    r3Title: "Recycelbar?",
+    r3Hint: "Kann man das recyceln?",
+    r4Title: "Gut für die Natur?",
+    r4Hint: "Ist dieses Verhalten gut oder schlecht für die Natur?",
+    r5Title: "Schnell-Wiederholung",
+    r5Hint: "Was hast du gelernt?",
+    paper: "Papier",
+    plastic: "Kunststoff",
+    glass: "Glas",
+    metal: "Metall",
+    organic: "Bio",
+    other: "Sonstiges",
+    yellowBin: "Gelbe Tonne",
+    blueBin: "Blaue Tonne",
+    brownBin: "Braune Tonne",
+    greenBin: "Glascontainer",
+    grayBin: "Graue Tonne",
+    yes: "Ja, recycelbar",
+    no: "Nicht recycelbar",
+    good: "Gut für die Natur",
+    bad: "Schlecht für die Natur",
+    correct: "Richtig!",
+    wrong: "Nicht ganz — versuch es nochmal!",
+    next: "Weiter",
+    finish: "Fertig",
+    bottleWater: "Plastikwasserflasche",
+    newspaper: "Zeitung",
+    bananaPeel: "Bananenschale",
+    glassBottle: "Glasflasche",
+    tinCan: "Blechdose",
+    cardboardBox: "Kartonbox",
+    plasticBag: "Plastiktüte",
+    coffeeCup: "Einweg-Kaffeebecher",
+    apple: "Apfelgehäuse",
+    yogurtCup: "Joghurtbecher",
+    aluminumFoil: "Aluminiumfolie",
+    brokenUmbrella: "Kaputt Regenschirm",
+    plantTree: "Einen Baum pflanzen 🌳",
+    littering: "Müll auf den Boden werfen 🚮",
+    saveWater: "Wasserhahn beim Zähneputzen abdrehen 🚿",
+    longShower: "30 Minuten duschen 🚿",
+    bikeRide: "Fahrrad statt Auto fahren 🚲",
+    leaveLight: "Licht in leeren Räumen anlassen 💡",
+    compost: "Küchenabfälle kompostieren 🌱",
+    singleUsePlastic: "Einweg-Plastiktüten benutzen 🛍️",
+  },
+  hu: {
+    title: "Újrahasznosítás felfedező",
+    r1Title: "Milyen anyagból van?",
+    r1Hint: "Miből készült ez a tárgy?",
+    r2Title: "Melyik kukába?",
+    r2Hint: "Melyik kukába kerül ez a tárgy?",
+    r3Title: "Újrahasznosítható?",
+    r3Hint: "Ez az anyag újrahasznosítható?",
+    r4Title: "Jó a természetnek?",
+    r4Hint: "Ez a viselkedés jó vagy rossz a természetnek?",
+    r5Title: "Gyors összefoglaló",
+    r5Hint: "Mit tanultál?",
+    paper: "Papír",
+    plastic: "Műanyag",
+    glass: "Üveg",
+    metal: "Fém",
+    organic: "Szerves",
+    other: "Egyéb",
+    yellowBin: "Sárga kuka",
+    blueBin: "Kék kuka",
+    brownBin: "Barna kuka",
+    greenBin: "Üveggyűjtő",
+    grayBin: "Szürke kuka",
+    yes: "Igen, újrahasznosítható",
+    no: "Nem újrahasznosítható",
+    good: "Jó a természetnek",
+    bad: "Rossz a természetnek",
+    correct: "Helyes!",
+    wrong: "Nem egészen — próbáld újra!",
+    next: "Tovább",
+    finish: "Befejezés",
+    bottleWater: "Műanyag vizes palack",
+    newspaper: "Újság",
+    bananaPeel: "Banánhéj",
+    glassBottle: "Üvegpalack",
+    tinCan: "Fémdoboz",
+    cardboardBox: "Kartondoboz",
+    plasticBag: "Műanyag szatyor",
+    coffeeCup: "Eldobható kávéspohár",
+    apple: "Almacsutak",
+    yogurtCup: "Joghurtos pohár",
+    aluminumFoil: "Alufólia",
+    brokenUmbrella: "Törött esernyő",
+    plantTree: "Fát ültetni 🌳",
+    littering: "Szemetet dobni a földre 🚮",
+    saveWater: "Fogmosás közben elzárni a csapot 🚿",
+    longShower: "30 percig zuhanyozni 🚿",
+    bikeRide: "Bringával menni autó helyett 🚲",
+    leaveLight: "Üres szobában égve hagyni a villanyt 💡",
+    compost: "Ételmaradékot komposztálni 🌱",
+    singleUsePlastic: "Egyszer használatos szatyrokat használni 🛍️",
+  },
+  ro: {
+    title: "Exploratorul reciclării",
+    r1Title: "Din ce material este?",
+    r1Hint: "Din ce este făcut acest obiect?",
+    r2Title: "În ce coș?",
+    r2Hint: "În ce coș se aruncă acest obiect?",
+    r3Title: "Reciclabil?",
+    r3Hint: "Se poate recicla acest obiect?",
+    r4Title: "Bun pentru natură?",
+    r4Hint: "Este acest comportament bun sau rău pentru natură?",
+    r5Title: "Recapitulare rapidă",
+    r5Hint: "Ce ai învățat?",
+    paper: "Hârtie",
+    plastic: "Plastic",
+    glass: "Sticlă",
+    metal: "Metal",
+    organic: "Organic",
+    other: "Altele",
+    yellowBin: "Coș galben",
+    blueBin: "Coș albastru",
+    brownBin: "Coș maro",
+    greenBin: "Container sticlă",
+    grayBin: "Coș gri",
+    yes: "Da, reciclabil",
+    no: "Nu este reciclabil",
+    good: "Bun pentru natură",
+    bad: "Rău pentru natură",
+    correct: "Corect!",
+    wrong: "Nu chiar — încearcă din nou!",
+    next: "Înainte",
+    finish: "Gata",
+    bottleWater: "Sticlă de apă din plastic",
+    newspaper: "Ziar",
+    bananaPeel: "Coajă de banană",
+    glassBottle: "Sticlă de sticlă",
+    tinCan: "Cutie de tablă",
+    cardboardBox: "Cutie de carton",
+    plasticBag: "Pungă de plastic",
+    coffeeCup: "Pahar de cafea de unică folosință",
+    apple: "Cotorul unui măr",
+    yogurtCup: "Pahar de iaurt",
+    aluminumFoil: "Folie de aluminiu",
+    brokenUmbrella: "Umbrelă stricată",
+    plantTree: "A planta un copac 🌳",
+    littering: "A arunca gunoi pe jos 🚮",
+    saveWater: "A închide robinetul la periaj 🚿",
+    longShower: "A face duș 30 de minute 🚿",
+    bikeRide: "A merge cu bicicleta în loc de mașină 🚲",
+    leaveLight: "A lăsa lumina aprinsă în camere goale 💡",
+    compost: "A composita resturile de mâncare 🌱",
+    singleUsePlastic: "A folosi pungi de plastic de unică folosință 🛍️",
+  },
+} as const;
+
+type Lang = keyof typeof LABELS;
+type T = typeof LABELS.en;
+type AnyLangT = typeof LABELS[Lang];
+
+// ─── HELPERS ──────────────────────────────────────────────────────────────────
+function shuffle<X>(arr: X[]): X[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+function pick<X>(arr: X[]): X {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+// ─── ITEM DATA (language-independent keys) ────────────────────────────────────
+type BinKey = "yellowBin" | "blueBin" | "brownBin" | "greenBin" | "grayBin";
+type MaterialKey = "paper" | "plastic" | "glass" | "metal" | "organic" | "other";
+
+interface Item {
+  key: keyof T;
+  emoji: string;
+  material: MaterialKey;
+  bin: BinKey;
+  recyclable: boolean;
+}
+
+const ALL_ITEMS: Item[] = [
+  { key: "bottleWater",      emoji: "🍶", material: "plastic",  bin: "yellowBin", recyclable: true  },
+  { key: "newspaper",        emoji: "📰", material: "paper",    bin: "blueBin",   recyclable: true  },
+  { key: "bananaPeel",       emoji: "🍌", material: "organic",  bin: "brownBin",  recyclable: false },
+  { key: "glassBottle",      emoji: "🍾", material: "glass",    bin: "greenBin",  recyclable: true  },
+  { key: "tinCan",           emoji: "🥫", material: "metal",    bin: "yellowBin", recyclable: true  },
+  { key: "cardboardBox",     emoji: "📦", material: "paper",    bin: "blueBin",   recyclable: true  },
+  { key: "plasticBag",       emoji: "🛍️", material: "plastic",  bin: "yellowBin", recyclable: true  },
+  { key: "coffeeCup",        emoji: "☕", material: "other",    bin: "grayBin",   recyclable: false },
+  { key: "apple",            emoji: "🍎", material: "organic",  bin: "brownBin",  recyclable: false },
+  { key: "yogurtCup",        emoji: "🥛", material: "plastic",  bin: "yellowBin", recyclable: true  },
+  { key: "aluminumFoil",     emoji: "✨", material: "metal",    bin: "yellowBin", recyclable: true  },
+  { key: "brokenUmbrella",   emoji: "☂️", material: "other",    bin: "grayBin",   recyclable: false },
+];
+
+type BehaviourGood = true | false;
+interface Behaviour {
+  key: keyof T;
+  good: BehaviourGood;
+}
+
+const ALL_BEHAVIOURS: Behaviour[] = [
+  { key: "plantTree",         good: true  },
+  { key: "littering",         good: false },
+  { key: "saveWater",         good: true  },
+  { key: "longShower",        good: false },
+  { key: "bikeRide",          good: true  },
+  { key: "leaveLight",        good: false },
+  { key: "compost",           good: true  },
+  { key: "singleUsePlastic",  good: false },
+];
+
+const ALL_MATERIALS: MaterialKey[] = ["paper", "plastic", "glass", "metal", "organic", "other"];
+const ALL_BINS: BinKey[]           = ["yellowBin", "blueBin", "brownBin", "greenBin", "grayBin"];
+
+const BIN_COLOR: Record<BinKey, string> = {
+  yellowBin: "#FFD700",
+  blueBin:   "#1E90FF",
+  brownBin:  "#8B4513",
+  greenBin:  "#228B22",
+  grayBin:   "#808080",
+};
+
+// ─── ROUND QUESTION TYPES ─────────────────────────────────────────────────────
+interface MaterialQ { item: Item; choices: MaterialKey[] }
+interface BinQ      { item: Item; choices: BinKey[]      }
+interface RecycleQ  { item: Item; choices: ["yes","no"]  }
+interface NatureQ   { behaviour: Behaviour; choices: ["good","bad"] }
+type AnyQ = MaterialQ | BinQ | RecycleQ | NatureQ;
+
+function makeMaterialQ(item: Item): MaterialQ {
+  const correct = item.material;
+  const distractors = shuffle(ALL_MATERIALS.filter(m => m !== correct)).slice(0, 3);
+  return { item, choices: shuffle([correct, ...distractors]) as MaterialKey[] };
+}
+function makeBinQ(item: Item): BinQ {
+  const correct = item.bin;
+  const distractors = shuffle(ALL_BINS.filter(b => b !== correct)).slice(0, 3);
+  return { item, choices: shuffle([correct, ...distractors]) as BinKey[] };
+}
+function makeRecycleQ(item: Item): RecycleQ {
+  return { item, choices: ["yes", "no"] };
+}
+function makeNatureQ(behaviour: Behaviour): NatureQ {
+  return { behaviour, choices: ["good", "bad"] };
+}
+
+// ─── SUB-PROGRESS DOTS ────────────────────────────────────────────────────────
+function SubDots({ total, current, color }: { total: number; current: number; color: string }) {
+  return (
+    <div className="flex gap-1.5 justify-center">
+      {Array.from({ length: total }, (_, i) => (
+        <div key={i} className="w-2 h-2 rounded-full transition-colors"
+          style={{ background: i < current ? color : "rgba(255,255,255,0.2)" }} />
+      ))}
+    </div>
+  );
+}
+
+// ─── MCQ BUTTON ───────────────────────────────────────────────────────────────
+function MCQBtn({
+  label, chosen, correct, locked, onPress,
+}: {
+  label: string;
+  chosen: boolean;
+  correct: boolean;
+  locked: boolean;
+  onPress: () => void;
+}) {
+  let bg = "rgba(255,255,255,0.06)";
+  let border = "rgba(255,255,255,0.15)";
+  if (chosen && correct)  { bg = "#00FF8822"; border = "#00FF88"; }
+  if (chosen && !correct) { bg = "#FF2D7822"; border = "#FF2D78"; }
+  if (locked && !chosen && correct) { bg = "#00FF8811"; border = "#00FF8866"; }
+
+  return (
+    <motion.button
+      onClick={locked ? undefined : onPress}
+      disabled={locked}
+      className="py-3 px-4 rounded-xl font-bold text-sm text-white text-left transition-colors w-full"
+      style={{ background: bg, border: `2px solid ${border}` }}
+      whileTap={locked ? {} : { scale: 0.97 }}
+    >
+      {label}
+    </motion.button>
+  );
+}
+
+// ─── FEEDBACK LINE ────────────────────────────────────────────────────────────
+function Feedback({ correct, lbl }: { correct: boolean | null; lbl: (k: string) => string }) {
+  if (correct === null) return <div className="h-5" />;
+  return (
+    <div className="flex items-center gap-1.5 justify-center h-5">
+      {correct
+        ? <><CheckCircle2 size={14} className="text-[#00FF88]" /><span className="text-[#00FF88] text-xs font-bold">{lbl("correct")}</span></>
+        : <><XCircle      size={14} className="text-[#FF2D78]" /><span className="text-[#FF2D78] text-xs font-bold">{lbl("wrong")}</span></>
+      }
+    </div>
+  );
+}
+
+// ─── ROUND COMPONENT ─────────────────────────────────────────────────────────
+interface RoundProps {
+  color: string;
+  t: AnyLangT;
+  questions: AnyQ[];
+  onRoundDone: (score: number, total: number) => void;
+  titleKey: string;
+  hintKey: string;
+}
+
+function Round({ color, t, questions, onRoundDone, titleKey, hintKey }: RoundProps) {
+  // lbl: safe string lookup that works for all language union members
+  const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
+
+  const [qIdx, setQIdx]     = useState(0);
+  const [chosen, setChosen] = useState<string | null>(null);
+  const [locked, setLocked] = useState(false);
+  const roundScore           = useRef(0);
+
+  const q = questions[qIdx];
+
+  const handleAnswer = useCallback((key: string, isCorrect: boolean) => {
+    if (locked) return;
+    setChosen(key);
+    setLocked(true);
+    if (isCorrect) roundScore.current++;
+  }, [locked]);
+
+  const handleNext = useCallback(() => {
+    if (!locked) return;
+    if (qIdx >= questions.length - 1) {
+      onRoundDone(roundScore.current, questions.length);
+    } else {
+      setQIdx(i => i + 1);
+      setChosen(null);
+      setLocked(false);
+    }
+  }, [locked, qIdx, questions.length, onRoundDone]);
+
+  type QKind = "material" | "bin" | "recycle" | "nature";
+  function kindOf(qq: AnyQ): QKind {
+    if ("behaviour" in qq) return "nature";
+    const r = qq as RecycleQ;
+    if (r.choices[0] === "yes" || r.choices[0] === "no") return "recycle";
+    if ("bin" in (qq as BinQ)) return "bin";
+    return "material";
+  }
+  const kind = kindOf(q);
+
+  let correctKey: string;
+  if (kind === "nature")        correctKey = (q as NatureQ).behaviour.good ? "good" : "bad";
+  else if (kind === "recycle")  correctKey = (q as RecycleQ).item.recyclable ? "yes" : "no";
+  else if (kind === "bin")      correctKey = (q as BinQ).item.bin;
+  else                          correctKey = (q as MaterialQ).item.material;
+
+  const feedbackCorrect = chosen === null ? null : chosen === correctKey;
+
+  function renderChoices() {
+    if (kind === "nature") {
+      const nq = q as NatureQ;
+      return nq.choices.map(ch => (
+        <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+      ));
+    }
+    if (kind === "recycle") {
+      const rq = q as RecycleQ;
+      return rq.choices.map(ch => (
+        <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+      ));
+    }
+    if (kind === "bin") {
+      const bq = q as BinQ;
+      return bq.choices.map(ch => (
+        <div key={ch} className="flex items-center gap-2 w-full">
+          <div className="w-3 h-3 rounded-full flex-shrink-0" style={{ background: BIN_COLOR[ch] }} />
+          <MCQBtn label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
+            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+        </div>
+      ));
+    }
+    // material
+    const mq = q as MaterialQ;
+    return mq.choices.map(ch => (
+      <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
+        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+    ));
+  }
+
+  function renderSubject() {
+    if (kind === "nature") {
+      const nq = q as NatureQ;
+      return (
+        <div className="bg-white/[0.07] border border-white/10 rounded-2xl px-5 py-4 text-center w-full">
+          <p className="text-base font-bold text-white leading-snug">{lbl(nq.behaviour.key)}</p>
+        </div>
+      );
+    }
+    const item = (q as MaterialQ | BinQ | RecycleQ).item;
+    return (
+      <div className="flex flex-col items-center gap-1">
+        <span className="text-5xl">{item.emoji}</span>
+        <span className="text-sm font-bold text-white/70">{lbl(item.key)}</span>
+      </div>
+    );
+  }
+
+  return (
+    <div className="flex flex-col items-center gap-3 w-full">
+      <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
+      <p className="text-white/60 text-xs font-semibold text-center">{lbl(hintKey)}</p>
+      <SubDots total={questions.length} current={qIdx + (locked ? 1 : 0)} color={color} />
+
+      {renderSubject()}
+
+      <div className="flex flex-col gap-2 w-full">
+        {renderChoices()}
+      </div>
+
+      <Feedback correct={feedbackCorrect} lbl={lbl} />
+
+      <AnimatePresence>
+        {locked && (
+          <motion.button
+            key="next"
+            initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
+            onClick={handleNext}
+            className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+            style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+            whileTap={{ scale: 0.97 }}
+          >
+            {qIdx >= questions.length - 1
+              ? <><CheckCircle2 size={15} /> {lbl("finish")}</>
+              : <>{lbl("next")} <ChevronRight size={15} /></>
+            }
+          </motion.button>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
+// ─── MAIN COMPONENT ───────────────────────────────────────────────────────────
+interface Props {
+  color: string;
+  lang?: string;
+  onDone: (score: number, total: number) => void;
+}
+
+const TOTAL_ROUNDS = 5;
+
+function RecyclingExplorer({ color, lang = "en", onDone }: Props) {
+  const l = (lang in LABELS ? lang : "en") as Lang;
+  const t = LABELS[l];
+
+  const scoreRef = useRef(0);
+  const totalRef = useRef(0);
+  const [round, setRound] = useState(0);
+  const [roundKey, setRoundKey] = useState(0); // forces remount on advance
+
+  // Randomised question pools — stable per mount
+  const r1Questions = useMemo<MaterialQ[]>(() => {
+    const pool = shuffle(ALL_ITEMS).slice(0, 4);
+    return pool.map(makeMaterialQ);
+  }, []);
+
+  const r2Questions = useMemo<BinQ[]>(() => {
+    const pool = shuffle(ALL_ITEMS).slice(0, 4);
+    return pool.map(makeBinQ);
+  }, []);
+
+  const r3Questions = useMemo<RecycleQ[]>(() => {
+    // Ensure mix of recyclable and not
+    const recyclable    = shuffle(ALL_ITEMS.filter(i => i.recyclable)).slice(0, 2);
+    const notRecyclable = shuffle(ALL_ITEMS.filter(i => !i.recyclable)).slice(0, 2);
+    return shuffle([...recyclable, ...notRecyclable]).map(makeRecycleQ);
+  }, []);
+
+  const r4Questions = useMemo<NatureQ[]>(() => {
+    const good = shuffle(ALL_BEHAVIOURS.filter(b => b.good)).slice(0, 2);
+    const bad  = shuffle(ALL_BEHAVIOURS.filter(b => !b.good)).slice(0, 2);
+    return shuffle([...good, ...bad]).map(makeNatureQ);
+  }, []);
+
+  const r5Questions = useMemo<AnyQ[]>(() => {
+    // Mixed: 1 material, 1 bin, 1 recycle, 1 nature — all different items from above
+    const mItem = pick(ALL_ITEMS);
+    const bItem = pick(ALL_ITEMS.filter(i => i.key !== mItem.key));
+    const rItem = pick(ALL_ITEMS.filter(i => i.key !== mItem.key && i.key !== bItem.key));
+    const nBeh  = pick(ALL_BEHAVIOURS);
+    return shuffle<AnyQ>([
+      makeMaterialQ(mItem),
+      makeBinQ(bItem),
+      makeRecycleQ(rItem),
+      makeNatureQ(nBeh),
+    ]);
+  }, []);
+
+  const roundData: Array<{ questions: AnyQ[]; titleKey: string; hintKey: string }> = [
+    { questions: r1Questions, titleKey: "r1Title", hintKey: "r1Hint" },
+    { questions: r2Questions, titleKey: "r2Title", hintKey: "r2Hint" },
+    { questions: r3Questions, titleKey: "r3Title", hintKey: "r3Hint" },
+    { questions: r4Questions, titleKey: "r4Title", hintKey: "r4Hint" },
+    { questions: r5Questions, titleKey: "r5Title", hintKey: "r5Hint" },
+  ];
+
+  const handleRoundDone = useCallback((score: number, total: number) => {
+    scoreRef.current += score;
+    totalRef.current += total;
+    if (round >= TOTAL_ROUNDS - 1) {
+      onDone(scoreRef.current, totalRef.current);
+    } else {
+      setRound(r => r + 1);
+      setRoundKey(k => k + 1);
+    }
+  }, [round, onDone]);
+
+  const current = roundData[round];
+
+  return (
+    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Round progress dots */}
+      <div className="flex justify-center gap-1.5 pt-4 pb-2 flex-shrink-0">
+        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
+          <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"
+            style={{
+              background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)",
+            }} />
+        ))}
+      </div>
+
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={roundKey}
+          initial={{ opacity: 0, x: 30 }}
+          animate={{ opacity: 1, x: 0 }}
+          exit={{ opacity: 0, x: -30 }}
+          transition={{ duration: 0.22 }}
+          className="flex-1 flex flex-col items-center justify-start px-4 pb-8 pt-2 gap-4 overflow-auto"
+        >
+          <Round
+            key={roundKey}
+            color={color}
+            t={t}
+            questions={current.questions}
+            onRoundDone={handleRoundDone}
+            titleKey={current.titleKey}
+            hintKey={current.hintKey}
+          />
+        </motion.div>
+      </AnimatePresence>
+    </div>
+  );
+}
+
+export default memo(RecyclingExplorer);

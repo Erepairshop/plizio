@@ -145,9 +145,11 @@ export function generateIslandQuestionsSKG4(island: IslandDef, count = 10): Math
   for (const topicKey of island.topicKeys) {
     const gen = (G4_Sachkunde as any)[topicKey];
     if (gen && typeof gen === "function") {
-      for (let i = 0; i < Math.ceil(count / island.topicKeys.length); i++) {
-        const q = gen();
-        questions.push(q);
+      const result = gen();
+      if (Array.isArray(result)) {
+        questions.push(...shuffle(result).slice(0, Math.ceil(count / island.topicKeys.length)));
+      } else {
+        questions.push(result);
       }
     }
   }
@@ -160,9 +162,11 @@ export function generateCheckpointQuestionsSKG4(testId: string, count = 10): Mat
   for (const topicKey of topicKeys) {
     const gen = (G4_Sachkunde as any)[topicKey];
     if (gen && typeof gen === "function") {
-      for (let i = 0; i < Math.ceil(count / topicKeys.length); i++) {
-        const q = gen();
-        questions.push(q);
+      const result = gen();
+      if (Array.isArray(result)) {
+        questions.push(...shuffle(result).slice(0, Math.ceil(count / topicKeys.length)));
+      } else {
+        questions.push(result);
       }
     }
   }
