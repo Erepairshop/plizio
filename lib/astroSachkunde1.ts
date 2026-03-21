@@ -18,6 +18,9 @@ export interface SachkundeG1Progress {
   missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (best result)
 }
 
+// Generic name alias for consistency with G2-G4 API
+export type SachkundeProgress = SachkundeG1Progress;
+
 // ─── Constants ────────────────────────────────────────────────────────────────
 
 export const SK_G1_SAVE_KEY = "astrosachkunde_g1_v1";

@@ -2,9 +2,11 @@
 // AstroSachkunde — Grade 2 island system definitions, progress management, question helpers
 // 9 islands following progressive Sachkunde curriculum (environmental science)
 
-import type { IslandDef, L10n, MissionDef, Lang } from "./astromath";
+import type { IslandDef, L10n, MissionDef, Lang, GameType, SortRound, MatchPair } from "./astromath";
 import type { MathQuestion } from "./mathCurriculum";
-// SachkundeProgress defined locally
+
+// Re-export types so page.tsx can import them from one place
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 
 export interface SachkundeProgress {
   completedMissions: string[];
@@ -19,17 +21,23 @@ import { G2_Generators_Sachkunde as G2_Sachkunde } from "./sachkundeGenerators2"
 
 export const SK_G2_SAVE_KEY = "astrosachkunde_g2_v1";
 
-export const CHECKPOINT_G2_MAP: Record<string, string[]> = {
+export const SK_G2_CHECKPOINT_MAP: Record<string, string[]> = {
   test1: ["i1", "i2", "i3"],
   test2: ["i4", "i5", "i6"],
   test3: ["i7", "i8", "i9"],
 };
 
-export const CHECKPOINT_G2_TOPICS: Record<string, string[]> = {
+// Keep old name for backwards compatibility (deprecated)
+export const CHECKPOINT_G2_MAP = SK_G2_CHECKPOINT_MAP;
+
+export const SK_G2_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: ["ernährung_verdauung", "zahngesundheit", "lebensräume", "nahrungsketten", "haustiere_pflege"],
   test2: ["pflanzenteile", "wachstum_lebenszyklus", "samen_zur_blüte", "wasserkreislauf", "aggregatzustände"],
   test3: ["wasser_im_leben", "verschiedene_berufe", "unfallprävention", "magnetismus", "schwimmen_sinken"],
 };
+
+// Keep old name for backwards compatibility (deprecated)
+export const CHECKPOINT_G2_TOPICS = SK_G2_CHECKPOINT_TOPICS;
 
 // ─── Progress Management ────────────────────────────────────────────
 
@@ -50,29 +58,65 @@ export function saveSKG2Progress(p: SachkundeProgress) {
   }
 }
 
-export function isMissionDoneSKG2(missionId: string): boolean {
-  const p = loadSKG2Progress();
-  return p.completedMissions.includes(missionId);
+export function isMissionDoneSKG2(progress: SachkundeProgress, islandId: string, missionId: string): boolean {
+  return progress.completedMissions.includes(`${islandId}_${missionId}`);
 }
 
-export function isIslandDoneSKG2(islandId: string): boolean {
-  const p = loadSKG2Progress();
-  return p.completedIslands.includes(islandId);
+export function isIslandDoneSKG2(progress: SachkundeProgress, islandId: string): boolean {
+  return progress.completedIslands.includes(islandId);
 }
 
-export function isTestDoneSKG2(testId: string): boolean {
-  const p = loadSKG2Progress();
-  return p.completedTests.includes(testId);
+export function isIslandUnlockedSKG2(progress: SachkundeProgress, islandId: string): boolean {
+  const idx = SK_G2_ISLANDS.findIndex((i) => i.id === islandId);
+  if (idx === 0) return true;
+  return progress.completedIslands.includes(SK_G2_ISLANDS[idx - 1].id);
 }
 
-export function getIslandStarsSKG2(islandId: string): number {
-  const p = loadSKG2Progress();
-  let total = 0;
-  for (let i = 1; i <= 3; i++) {
-    const missionId = `${islandId}_m${i}`;
-    total += p.missionStars[missionId] ?? 0;
+export function isCheckpointUnlockedSKG2(progress: SachkundeProgress, testId: string): boolean {
+  return SK_G2_CHECKPOINT_MAP[testId].every((id) => progress.completedIslands.includes(id));
+}
+
+export function isCheckpointDoneSKG2(progress: SachkundeProgress, testId: string): boolean {
+  return progress.completedTests.includes(testId);
+}
+
+export function islandTotalStarsSKG2(progress: SachkundeProgress, islandId: string): number {
+  const island = SK_G2_ISLANDS.find((i) => i.id === islandId);
+  if (!island) return 0;
+  const stars = progress.missionStars ?? {};
+  return island.missions.reduce((sum, m) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
+}
+
+export function completeMissionSKG2(
+  progress: SachkundeProgress,
+  islandId: string,
+  missionId: string,
+  stars: number = 1,
+): SachkundeProgress {
+  const key = `${islandId}_${missionId}`;
+  const prev = progress.missionStars ?? {};
+  const bestStars = Math.max(stars, prev[key] ?? 0);
+  const updated: SachkundeProgress = {
+    ...progress,
+    completedMissions: progress.completedMissions.includes(key)
+      ? progress.completedMissions
+      : [...progress.completedMissions, key],
+    missionStars: { ...prev, [key]: bestStars },
+  };
+
+  const island = SK_G2_ISLANDS.find((i) => i.id === islandId)!;
+  const allMissionsDone = island.missions.every((m) =>
+    updated.completedMissions.includes(`${islandId}_${m.id}`)
+  );
+  if (allMissionsDone && !updated.completedIslands.includes(islandId)) {
+    updated.completedIslands = [...updated.completedIslands, islandId];
   }
-  return total;
+  return updated;
+}
+
+export function completeTestSKG2(progress: SachkundeProgress, testId: string): SachkundeProgress {
+  if (progress.completedTests.includes(testId)) return progress;
+  return { ...progress, completedTests: [...progress.completedTests, testId] };
 }
 
 // ─── Question Generation ────────────────────────────────────────────
@@ -96,7 +140,7 @@ function toMathQuestion(q: any): MathQuestion {
   };
 }
 
-export function generateSKG2IslandQuestions(island: IslandDef, count = 10): MathQuestion[] {
+export function generateIslandQuestionsSKG2(island: IslandDef, count = 10): MathQuestion[] {
   const questions: any[] = [];
   for (const topicKey of island.topicKeys) {
     const gen = (G2_Sachkunde as any)[topicKey];
@@ -110,8 +154,8 @@ export function generateSKG2IslandQuestions(island: IslandDef, count = 10): Math
   return shuffle(questions.slice(0, count)).map(toMathQuestion);
 }
 
-export function generateSKG2CheckpointQuestions(testId: string, count = 10): MathQuestion[] {
-  const topicKeys = CHECKPOINT_G2_TOPICS[testId] ?? [];
+export function generateCheckpointQuestionsSKG2(testId: string, count = 10): MathQuestion[] {
+  const topicKeys = SK_G2_CHECKPOINT_TOPICS[testId] ?? [];
   const questions: any[] = [];
   for (const topicKey of topicKeys) {
     const gen = (G2_Sachkunde as any)[topicKey];
@@ -123,6 +167,30 @@ export function generateSKG2CheckpointQuestions(testId: string, count = 10): Mat
     }
   }
   return shuffle(questions.slice(0, count)).map(toMathQuestion);
+}
+
+// GravitySort: pick 5 distinct random numbers from range
+export function generateSortRoundSKG2(range: [number, number]): SortRound {
+  const [lo, hi] = range;
+  const available = Array.from({ length: hi - lo + 1 }, (_, i) => lo + i);
+  const sorted = shuffle(available).slice(0, 5).sort((a, b) => a - b);
+  const numbers = shuffle([...sorted]);
+  return { numbers, sorted };
+}
+
+// StarMatch: build question-answer pairs from MCQ questions
+export function generateMatchPairsSKG2(questions: MathQuestion[]): MatchPair[] {
+  const seen = new Set<string>();
+  const unique: MathQuestion[] = [];
+  for (const q of questions) {
+    const key = String(q.correctAnswer);
+    if (!seen.has(key)) { seen.add(key); unique.push(q); }
+    if (unique.length === 5) break;
+  }
+  return unique.map((q) => ({
+    left: q.question,
+    right: String(q.correctAnswer),
+  }));
 }
 
 // ─── Island Definitions ─────────────────────────────────────────────
