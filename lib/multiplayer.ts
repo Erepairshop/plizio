@@ -423,7 +423,7 @@ export function subscribeToMatch(
         table: "multiplayer_matches",
         filter: `id=eq.${matchId}`,
       },
-      (payload) => {
+      (payload: { new: unknown }) => {
         onUpdate(payload.new as MultiplayerMatch);
       }
     )
@@ -452,7 +452,7 @@ export function subscribeToMyChallenges(
         table: "multiplayer_matches",
         filter: `player2_name=eq.${myName}`,
       },
-      (payload) => {
+      (payload: { new: unknown }) => {
         onChallenge(payload.new as MultiplayerMatch);
       }
     )

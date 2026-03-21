@@ -158,5 +158,5 @@ export async function searchUsernames(query: string): Promise<string[]> {
     .neq("name", getUsername() || "")
     .order("last_seen", { ascending: false })
     .limit(5);
-  return data?.map((r) => r.name) || [];
+  return data?.map((r: { name: string }) => r.name) || [];
 }
