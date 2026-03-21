@@ -242,8 +242,8 @@ export const O6_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["stilisztika/hasonlat_metafora", "stilisztika/megszemelyes"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m1", category: "explore",   gameType: "picture-word" as any,  icon: "🖼️", label: { hu: "Szókincs",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "category-rush" as any,    icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 80, svgY: 440,
@@ -254,8 +254,8 @@ export const O6_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#00FF88", sortRange: [1, 10],
     topicKeys: ["szokincs/idegen_szavak", "szokincs/szakkifejezesek"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "sentence-builder" as any,    icon: "🏗️", label: { hu: "Mondatépítő", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 240, svgY: 360,
@@ -278,8 +278,8 @@ export const O6_ISLANDS: IslandDef[] = [
     icon: "💬", color: "#B44DFF", sortRange: [1, 10],
     topicKeys: ["retorika/erveles_alap", "retorika/meggyozes"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m1", category: "explore",   gameType: "reading-comp" as any,  icon: "📖", label: { hu: "Olvasás",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "category-rush" as any,    icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 220, svgY: 195,
@@ -314,8 +314,8 @@ export const O6_ISLANDS: IslandDef[] = [
     icon: "✍️", color: "#E879F9", sortRange: [1, 10],
     topicKeys: ["fogalmazas/essze", "fogalmazas/jellemzes"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m1", category: "explore",   gameType: "reading-comp" as any,  icon: "📖", label: { hu: "Olvasás",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "sentence-builder" as any,    icon: "🏗️", label: { hu: "Mondatépítő", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 80, svgY: -20,
