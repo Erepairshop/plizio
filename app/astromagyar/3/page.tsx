@@ -37,6 +37,11 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import {
+  generateO3SentenceBuilderContent, generateO3PictureWordContent,
+  generateO3ReadingCompContent, generateO3MemoryPairContent,
+  generateO3CategoryRushContent,
+} from "@/app/astromagyar/contentGenerators";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -613,35 +618,37 @@ export default function AstroMagyarO3Page() {
       {screen === "sentence-builder" && (
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
-          <SentenceBuilderExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+          <SentenceBuilderExplorer rounds={generateO3SentenceBuilderContent()} lang={lang} color={activeIsland?.color || "#FF2D78"}
             onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}
       {screen === "memory-pair" && (
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
-          <MemoryPairExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+          <MemoryPairExplorer pairs={generateO3MemoryPairContent()} lang={lang} color={activeIsland?.color || "#FF2D78"}
             onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}
       {screen === "picture-word" && (
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
-          <PictureVocabExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+          <PictureVocabExplorer rounds={generateO3PictureWordContent()} lang={lang} color={activeIsland?.color || "#FF2D78"}
             onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}
       {screen === "category-rush" && (
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
-          <CategoryRushExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
-            onDone={(s, t) => handleMissionComplete(s, t)} />
+          {(() => { const cr = generateO3CategoryRushContent(); return (
+            <CategoryRushExplorer categories={cr.categories} items={cr.items} lang={lang} color={activeIsland?.color || "#FF2D78"}
+              onDone={(s, t) => handleMissionComplete(s, t)} />
+          ); })()}
         </div>
       )}
       {screen === "reading-comp" && (
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
-          <ReadingCompExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+          <ReadingCompExplorer rounds={generateO3ReadingCompContent()} lang={lang} color={activeIsland?.color || "#FF2D78"}
             onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}
