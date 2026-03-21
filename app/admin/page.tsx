@@ -9,7 +9,7 @@ import { getUser } from "@/lib/auth";
 
 // ─── ADMIN EMAILS (hardcoded) ────────────────────────────
 const ADMIN_EMAILS = [
-  "borota25@gmail.com",
+  "info@punktepass.de",
   // Add more admin emails here
 ];
 
