@@ -454,7 +454,7 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
     const currentCards = getCards();
     const currentIds = new Set(currentCards.map((c: GameCard) => c.id));
     const redeemedIds = new Set<string>(JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]"));
-    const newCards = cards
+    const newCards = (cards as GameCard[])
       .filter((c) => !currentIds.has(c.id) && !redeemedIds.has(c.id))
       .map((c) => ({
         id: c.id,

@@ -85,11 +85,24 @@ const CONSONANTS_ASSIMILATION = [
 ];
 
 const ROOT_SUFFIXES = [
+  // plurális jel
   { word: "házak", root: "ház", suffix: "-ak", type: "plurális jel" },
   { word: "szépek", root: "szép", suffix: "-ek", type: "plurális jel" },
-  { word: "könyvei", root: "könyv", suffix: "-e, -i", type: "birtokos végződés" },
+  { word: "gyerekek", root: "gyerek", suffix: "-ek", type: "plurális jel" },
+  { word: "asztalok", root: "asztal", suffix: "-ok", type: "plurális jel" },
+  { word: "kertek", root: "kert", suffix: "-ek", type: "plurális jel" },
+  // igei végződés
   { word: "futunk", root: "fut", suffix: "-unk", type: "igei végződés" },
   { word: "olvasott", root: "olvas", suffix: "-ott", type: "igei végződés" },
+  { word: "látott", root: "lát", suffix: "-ott", type: "igei végződés" },
+  { word: "írunk", root: "ír", suffix: "-unk", type: "igei végződés" },
+  { word: "tanulunk", root: "tanul", suffix: "-unk", type: "igei végződés" },
+  { word: "sétált", root: "sétál", suffix: "-t", type: "igei végződés" },
+  // személyjel / birtokos végződés
+  { word: "könyvei", root: "könyv", suffix: "-e, -i", type: "személyjel" },
+  { word: "barátom", root: "barát", suffix: "-om", type: "személyjel" },
+  { word: "házam", root: "ház", suffix: "-am", type: "személyjel" },
+  { word: "testvéreim", root: "testvér", suffix: "-eim", type: "személyjel" },
 ];
 
 const SUFFIXES_TYPES = [
@@ -235,9 +248,15 @@ export function generateToToldalek(seed?: number): CurriculumMCQ[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
   const q: CurriculumMCQ[] = [];
 
-  for (let i = 0; i < 45; i++) {
-    const data = pick(ROOT_SUFFIXES, rng);
-    const type = i % 3;
+  // Build all unique combinations (word × question type) then shuffle — no repeats
+  type Combo = [typeof ROOT_SUFFIXES[0], number];
+  const combos: Combo[] = [];
+  for (const data of ROOT_SUFFIXES) {
+    combos.push([data, 0], [data, 1], [data, 2]);
+  }
+  const shuffled = shuffle(combos, rng);
+
+  for (const [data, type] of shuffled) {
     if (type === 0) {
       // Mi a szó töve?
       const correct = data.root;
@@ -995,16 +1014,18 @@ export function generateHasonulas_typing(seed?: number): CurriculumTyping[] {
 }
 
 export function generateToToldalek_typing(seed?: number): CurriculumTyping[] {
-  const q: CurriculumTyping[] = [];
-  for (let i = 0; i < 10; i++) {
-    const type = i % 2;
-    if (type === 0) {
-      q.push(createTyping("szoelem", "to_toldalek", "Mi a 'házak' szó töve?", ["ház"], "A szó alapalakja (tőalak)"));
-    } else {
-      q.push(createTyping("szoelem", "to_toldalek", "Mi az 'olvasott' szó toldaléka?", ["-ott"], "Az igét módosító végződés"));
-    }
-  }
-  return q;
+  const pool: CurriculumTyping[] = [
+    createTyping("szoelem", "to_toldalek", "Mi a 'házak' szó töve?", ["ház"], "A szó alapalakja (tőalak)"),
+    createTyping("szoelem", "to_toldalek", "Mi az 'olvasott' szó toldaléka?", ["-ott"], "Az igét módosító végződés"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'kertek' szó töve?", ["kert"], "A szó alapalakja toldaék nélkül"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'futunk' szó toldaléka?", ["-unk"], "Az igei személyrag"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'látott' szó töve?", ["lát"], "A szó alapalakja (tőalak)"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'gyerekek' szó toldaléka?", ["-ek"], "A többes szám jele"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'barátom' szó toldaléka?", ["-om"], "A személyjel"),
+    createTyping("szoelem", "to_toldalek", "Mi az 'asztalok' szó töve?", ["asztal"], "A szó alapalakja toldalék nélkül"),
+  ];
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  return shuffle(pool, rng);
 }
 
 export function generateKepzoJelRag_typing(seed?: number): CurriculumTyping[] {

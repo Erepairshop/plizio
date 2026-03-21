@@ -313,7 +313,7 @@ export async function getUsedQuestionIds(
     return new Set();
   }
 
-  return new Set((data || []).map(row => row.question_id));
+  return new Set((data || []).map((row: { question_id: string }) => row.question_id));
 }
 
 // ─── REPEAT PREVENTION WITH INTELLIGENT FALLBACK ─────────────────────────────
