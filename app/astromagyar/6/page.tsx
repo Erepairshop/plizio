@@ -421,13 +421,14 @@ export default function O6Page() {
       )}
 
       {/* GAME SCREENS */}
-      {(screen === "orbit-quiz" || screen === "black-hole" || screen === "gravity-sort" || screen === "star-match" || screen === "speed-round") && (
+      {(screen === "orbit-quiz" || screen === "black-hole" || screen === "gravity-sort" || screen === "star-match" || screen === "speed-round" || screen === "lang-explore") && (
         <div className="min-h-screen flex flex-col">
           {screen === "orbit-quiz" && <OrbitQuiz questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "black-hole" && <BlackHole questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "gravity-sort" && activeIsland && <GravitySort sortRange={activeIsland.sortRange} color={activeIsland.color} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "star-match" && <StarMatch questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
+          {screen === "lang-explore" && activeIsland && <LangExplore island={activeIsland} grade={6} onDone={(s, t) => handleAfterMission(s)} />}
         </div>
       )}
 
