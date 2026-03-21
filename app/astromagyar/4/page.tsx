@@ -24,6 +24,14 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import LangExplore from "@/app/astromagyar/games/LangExplore";
+import LetterExplorer from "@/app/astromagyar/games/LetterExplorer";
+import SyllableExplorer from "@/app/astromagyar/games/SyllableExplorer";
+import SpellingExplorer from "@/app/astromagyar/games/SpellingExplorer";
+import NounExplorer from "@/app/astromagyar/games/NounExplorer";
+import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
+import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
+import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
+import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
 import {
   O4_ISLANDS, O4_CHECKPOINT_MAP, O4_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang,
   loadO4Progress, saveO4Progress, type O4Progress,
@@ -54,6 +62,14 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "letter-explorer"
+  | "syllable-explorer"
+  | "spelling-explorer"
+  | "noun-explorer"
+  | "verb-explorer"
+  | "sentence-explorer"
+  | "eset-explorer"
+  | "review-explorer-hu"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
