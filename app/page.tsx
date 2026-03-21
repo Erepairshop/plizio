@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -86,6 +86,8 @@ const TRANSLATIONS = {
       magyarteszt: "Hungarian Test",
       romaniantest: "Test Limba Română",
       sachkundetest: "Sachkunde Test",
+      biologietest: "Biology Test",
+      "astro-biologie": "AstroBiology",
       racetrack: "Racetrack",
       sequencerush: "Sequence Rush",
       wordhunt: "Word Hunt",
@@ -135,6 +137,8 @@ const TRANSLATIONS = {
       magyarteszt: "Magyar Teszt",
       romaniantest: "Román Teszt",
       sachkundetest: "Sachkunde Teszt",
+      biologietest: "Biológia Teszt",
+      "astro-biologie": "AstroBiológia",
       racetrack: "Pályaverseny",
       sequencerush: "Szekvencia Roham",
       wordhunt: "Szóvadász",
@@ -184,6 +188,8 @@ const TRANSLATIONS = {
       magyarteszt: "Ungarisch-Test",
       romaniantest: "Rumänisch-Test",
       sachkundetest: "Sachkunde Test",
+      biologietest: "Biologie Test",
+      "astro-biologie": "AstroBiologie",
       racetrack: "Rennstrecke",
       sequencerush: "Sequenz Rush",
       wordhunt: "Wortjagd",
@@ -233,6 +239,8 @@ const TRANSLATIONS = {
       magyarteszt: "Test maghiară",
       romaniantest: "Test Limba Română",
       sachkundetest: "Test Sachkunde",
+      biologietest: "Test biologie",
+      "astro-biologie": "AstroBiologie",
       racetrack: "Circuit de curse",
       sequencerush: "Sequence Rush",
       wordhunt: "Vânătoare de Cuvinte",
@@ -358,6 +366,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF2222",
         gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
       },
+      {
+        id: "astro-biologie",
+        icon: Leaf,
+        nameKey: "astro-biologie",
+        color: "#10B981",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
+      },
       // {
       //   id: "pliziolife",
       //   icon: HomeIcon,
@@ -450,6 +465,14 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         id: "sachkundetest",
         icon: Search,
         nameKey: "sachkundetest",
+        color: "#4CAF50",
+        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+        langOnly: "de",
+      },
+      {
+        id: "biologietest",
+        icon: Microscope,
+        nameKey: "biologietest",
         color: "#4CAF50",
         gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
         langOnly: "de",
