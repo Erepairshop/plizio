@@ -2,7 +2,7 @@
 // KasusExplorer2 — Island i2: Dativ & Genitiv (K4)
 // Teaches: Dativ (Wem?), Dativ prepositions, Genitiv (Wessen?), full declension table
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -19,6 +19,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tap each row to reveal all 4 cases.",
     round5Title: "Preposition Challenge",
     round5Hint: "Choose the correct article after the Dativ preposition.",
+    discovery: "💡 Dativ answers 'to whom?' or 'where?'. The articles change: der→dem, die→der, das→dem. Many prepositions require Dativ!",
     next: "Next",
     finish: "Finished!",
     well: "Well done!",
@@ -39,6 +40,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Koppints minden sorra a 4 eset megjelenítéséhez.",
     round5Title: "Elöljáró kihívás",
     round5Hint: "Válaszd ki a helyes névelőt a Dativ elöljáró után.",
+    discovery: "💡 A Dativ a 'kinek?' vagy 'hol?' kérdésre válaszol. A névelők változnak: der→dem, die→der, das→dem. Sok elöljáró Dativot kíván!",
     next: "Tovább",
     finish: "Kész!",
     well: "Remek!",
@@ -59,6 +61,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tippe auf jede Zeile, um alle 4 Fälle anzuzeigen.",
     round5Title: "Präpositions-Herausforderung",
     round5Hint: "Wähle den richtigen Artikel nach der Dativ-Präposition.",
+    discovery: "💡 Dativ antwortet auf 'wem?' oder 'wo?'. Die Artikel wechseln: der→dem, die→der, das→dem. Viele Präpositionen verlangen Dativ!",
     next: "Weiter",
     finish: "Fertig!",
     well: "Super gemacht!",
@@ -79,6 +82,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Atinge fiecare rând pentru a afișa toate 4 cazuri.",
     round5Title: "Provocarea prepozițiilor",
     round5Hint: "Alege articolul corect după prepoziția de Dativ.",
+    discovery: "💡 Dativul răspunde la 'cui?' sau 'unde?'. Articolele se schimbă: der→dem, die→der, das→dem. Multe prepoziții cer Dativul!",
     next: "Înainte",
     finish: "Gata!",
     well: "Bravo!",
@@ -231,7 +235,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         })}
       </div>
       {allRevealed && (
-        <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="w-full">
+        <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="w-full flex flex-col gap-2">
+          <motion.div className="w-full rounded-2xl px-4 py-3 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+            <p className="text-[#B44DFF] font-black text-sm">{lbl.discovery}</p>
+          </motion.div>
           <NextBtn onClick={onNext} label={lbl.next} color={color} />
         </motion.div>
       )}
@@ -334,7 +342,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Preposition + case MCQ ──────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -344,10 +352,11 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= PREP_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -405,9 +414,13 @@ const KasusExplorer2 = memo(function KasusExplorer2({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -420,7 +433,7 @@ const KasusExplorer2 = memo(function KasusExplorer2({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

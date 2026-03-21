@@ -2,7 +2,7 @@
 // SentenceTypeExplorer — Island i4: Satzarten (K2)
 // Teaches: statement/question/exclamation, punctuation, question words, word order
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -31,6 +31,7 @@ const LABELS: Record<string, Record<string, string>> = {
     questionDesc: "An asking sentence — ends with ?",
     exclamationDesc: "A strong feeling — ends with !",
     tapToBuild: "Tap to build the sentence",
+    discovery: "💡 German has 4 sentence types: Aussagesatz (statement), Fragesatz (question), Aufforderungssatz (command), Ausrufesatz (exclamation). Verb position changes!",
   },
   hu: {
     title: "Mondat felfedező",
@@ -55,6 +56,7 @@ const LABELS: Record<string, Record<string, string>> = {
     questionDesc: "Kérdő mondat — kérdőjellel végződik?",
     exclamationDesc: "Érzelmeket kifejező — felkiáltójellel végződik!",
     tapToBuild: "Koppints a mondat felépítéséhez",
+    discovery: "💡 A németben 4 mondattípus van: Aussagesatz (kijelentő), Fragesatz (kérdő), Aufforderungssatz (parancsol), Ausrufesatz (felkiáltó). Az igepozíció változik!",
   },
   de: {
     title: "Satzarten-Entdecker",
@@ -79,6 +81,7 @@ const LABELS: Record<string, Record<string, string>> = {
     questionDesc: "Ein fragender Satz — endet mit ?",
     exclamationDesc: "Ein Gefühlsausdruck — endet mit !",
     tapToBuild: "Tippe um den Satz zu bauen",
+    discovery: "💡 Deutsch hat 4 Satzarten: Aussagesatz (Aussage), Fragesatz (Frage), Aufforderungssatz (Befehl), Ausrufesatz (Ausruf). Die Verbstellung ändert sich!",
   },
   ro: {
     title: "Exploratorul propozițiilor",
@@ -103,6 +106,7 @@ const LABELS: Record<string, Record<string, string>> = {
     questionDesc: "O propoziție care întreabă — se termină cu ?",
     exclamationDesc: "Un sentiment puternic — se termină cu !",
     tapToBuild: "Atinge pentru a construi propoziția",
+    discovery: "💡 Germana are 4 tipuri de propoziții: Aussagesatz (declarativ), Fragesatz (interogativ), Aufforderungssatz (imperativ), Ausrufesatz (exclamativ). Poziția verbului se schimbă!",
   },
 };
 
@@ -237,7 +241,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Punctuation ─────────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = PUNCT_SENTENCES[idx];
@@ -246,6 +250,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
+    if (p !== item.answer) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -300,7 +305,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Question words ──────────────────────────────────────────────────
-function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ lang, color, lbl, onNext, wrongCountRef }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const allTapped = tapped.size === QUESTION_WORDS.length;
 
@@ -338,7 +343,7 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: Word order ──────────────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [order, setOrder] = useState<number[]>([]);
   const [done, setDone] = useState(false);
@@ -356,6 +361,11 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   };
 
   const isCorrect = allPlaced && order.map(i => item.words[i]).join(" ") === item.correct.join(" ");
+
+  // Track wrong answer when they submit an incorrect order
+  if (allPlaced && !isCorrect && idx + 1 < WORD_ORDER_SENTENCES.length) {
+    wrongCountRef.current++;
+  }
 
   if (done) return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -426,7 +436,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Punctuation quiz ────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = PUNCT_QUIZ[idx];
@@ -435,6 +445,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
+    if (p !== item.answer) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= PUNCT_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -496,9 +507,13 @@ const SentenceTypeExplorer = memo(function SentenceTypeExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -508,10 +523,19 @@ const SentenceTypeExplorer = memo(function SentenceTypeExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 4 && (
+            <div className="w-full flex flex-col items-center gap-4">
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
+              <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+                className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
+                style={{ background: `${color}22` }}>
+                {lbl.discovery}
+              </motion.div>
+            </div>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

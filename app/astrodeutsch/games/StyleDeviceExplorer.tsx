@@ -2,7 +2,7 @@
 // StyleDeviceExplorer — Island i4: Stilmittel (K7)
 // Teaches: Stilmittel overview (Metapher/Vergleich/Alliteration etc), MemoryPairCards, identification MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import MemoryPairCards from "./blocks/MemoryPairCards";
@@ -24,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Finished!",
     tapToReveal: "Tap to reveal",
     correct: "Correct!",
+    discovery: "💡 Style devices (Stilmittel) make texts more expressive! Metapher (metaphor), Vergleich (simile), Alliteration, Personifikation — writers use them for effect.",
     definition: "Definition",
     example: "Example",
   },
@@ -43,6 +44,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Kész!",
     tapToReveal: "Koppints",
     correct: "Helyes!",
+    discovery: "💡 A stíluseszközök (Stilmittel) kifejezőbbé teszik a szövegeket! A Metapher (metafora), Vergleich (hasonlat), Alliteration, Personifikation — az írók ezeket használják hatásért.",
     definition: "Definíció",
     example: "Példa",
   },
@@ -62,6 +64,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Fertig!",
     tapToReveal: "Antippen",
     correct: "Richtig!",
+    discovery: "💡 Style devices (Stilmittel) make texts more expressive! Metapher (metaphor), Vergleich (simile), Alliteration, Personifikation — writers use them for effect.",
     definition: "Definition",
     example: "Beispiel",
   },
@@ -81,6 +84,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Gata!",
     tapToReveal: "Atinge",
     correct: "Corect!",
+    discovery: "💡 Figurile de stil (Stilmittel) fac textele mai expresive! Metaphora, Comparația, Aliterația, Personificarea — scriitorii le folosesc pentru efect.",
     definition: "Definiție",
     example: "Exemplu",
   },

@@ -2,7 +2,7 @@
 // ReviewExplorerK8 — Island i9: Große Prüfung (K8)
 // Teaches: mixed review of all K8 topics: Konjunktiv, Passiv, Partizipien, Stilmittel, Literaturepochen
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -22,6 +22,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Next",
     finish: "Finished!",
     correct: "Correct!",
+    discovery: "💡 At this level, you can analyze texts like a pro! Style devices, sentence analysis, and advanced grammar are your tools.",
   },
   hu: {
     title: "8. osztály összefoglalás",
@@ -38,6 +39,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Tovább",
     finish: "Kész!",
     correct: "Helyes!",
+    discovery: "💡 Ezen a szinten profi szövegelemző lehetsz! A stíluseszközök, mondatelemzés és fejlett nyelvtan az eszközeid.",
   },
   de: {
     title: "K8 Große Wiederholung",
@@ -54,6 +56,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Weiter",
     finish: "Fertig!",
     correct: "Richtig!",
+    discovery: "💡 Auf dieser Stufe kannst du Texte wie ein Profi analysieren! Stilmittel, Satzanalyse und fortgeschrittene Grammatik sind deine Werkzeuge.",
   },
   ro: {
     title: "Recapitulare K8",
@@ -70,6 +73,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
+    discovery: "💡 La acest nivel, poți analiza texte ca un profesionist! Figurile de stil, analiza propoziției și gramatica avansată sunt instrumentele tale.",
   },
 };
 

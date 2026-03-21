@@ -2,7 +2,7 @@
 // SpellingExplorerK4 — Island i8: Rechtschreibung (K4)
 // Teaches: das vs dass, Dehnung-h, ss vs ß, capitalization rules
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -22,12 +22,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Next",
     finish: "Finished!",
     well: "Well done!",
+    wrong: "Not quite!",
     tapToReveal: "Tap to reveal",
     correct: "Correct!",
     article: "article / pronoun",
     conjunction: "conjunction",
     longVowel: "after long vowel/diphthong",
     shortVowel: "after short vowel",
+    discovery: "💡 Compound words keep their original spelling when joined! Fahr + Rad = Fahrrad. The word parts don't change, even if letters repeat.",
   },
   hu: {
     title: "Helyesírás felfedező",
@@ -44,12 +46,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Tovább",
     finish: "Kész!",
     well: "Remek!",
+    wrong: "Nem quite!",
     tapToReveal: "Koppints a megjelenítéshez",
     correct: "Helyes!",
     article: "névelő / névmás",
     conjunction: "kötőszó",
     longVowel: "hosszú magánhangzó után",
     shortVowel: "rövid magánhangzó után",
+    discovery: "💡 Az összetett szavak megőrzik eredeti helyesírásüket az összekapcsolódáskor! Fahr + Rad = Fahrrad. A szórészek nem változnak meg, még akkor sem, ha betűk ismétlődnek.",
   },
   de: {
     title: "Rechtschreib-Entdecker",
@@ -66,12 +70,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Weiter",
     finish: "Fertig!",
     well: "Super gemacht!",
+    wrong: "Nicht ganz!",
     tapToReveal: "Zum Aufdecken tippen",
     correct: "Richtig!",
     article: "Artikel / Pronomen",
     conjunction: "Konjunktion",
     longVowel: "nach langem Vokal/Diphthong",
     shortVowel: "nach kurzem Vokal",
+    discovery: "💡 Zusammengesetzte Wörter behalten ihre ursprüngliche Schreibweise beim Zusammensetzen! Fahr + Rad = Fahrrad. Die Wortteile ändern sich nicht, selbst wenn Buchstaben wiederholt werden.",
   },
   ro: {
     title: "Exploratorul ortografiei",
@@ -88,12 +94,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     well: "Bravo!",
+    wrong: "Nu chiar!",
     tapToReveal: "Atinge pentru a dezvălui",
     correct: "Corect!",
     article: "articol / pronume",
     conjunction: "conjuncție",
     longVowel: "după vocală lungă/diftong",
     shortVowel: "după vocală scurtă",
+    discovery: "💡 Cuvintele compuse păstrează ortografia lor originală atunci când sunt unite! Fahr + Rad = Fahrrad. Părțile cuvintelor nu se schimbă, chiar dacă literele se repetă.",
   },
 };
 
@@ -166,6 +174,16 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
       {label} <ChevronRight size={16} />
     </motion.button>
   );
+}
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
 }
 
 // ─── Round 1: das vs dass ─────────────────────────────────────────────────────
@@ -381,20 +399,22 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Mixed spelling MCQ ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [quiz] = useState(() => shuffle(SPELLING_QUIZ).slice(0, 5));
 
-  const item = SPELLING_QUIZ[idx];
+  const item = quiz[idx];
   const isCorrect = selected === item.correct;
 
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
-      if (idx + 1 >= SPELLING_QUIZ.length) onDone();
+      if (idx + 1 >= quiz.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -402,7 +422,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex gap-1">
-        {SPELLING_QUIZ.map((_, i) => (
+        {quiz.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -451,9 +471,13 @@ const SpellingExplorerK4 = memo(function SpellingExplorerK4({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -466,7 +490,7 @@ const SpellingExplorerK4 = memo(function SpellingExplorerK4({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

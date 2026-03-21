@@ -2,7 +2,7 @@
 // WordClassExplorerK4 — Island i4: Wortarten (K4)
 // Teaches: 4 word classes, sorting words, adjective comparison, pronouns, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -24,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Well done!",
     tapToReveal: "Tap to reveal",
     correct: "Correct!",
+    discovery: "💡 German has 10 word classes: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Noun",
     verb: "Verb",
     adjective: "Adjective",
@@ -46,6 +47,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Remek!",
     tapToReveal: "Koppints a megjelenítéshez",
     correct: "Helyes!",
+    discovery: "💡 A németben 10 szófaj van: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Főnév",
     verb: "Ige",
     adjective: "Melléknév",
@@ -68,6 +70,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Super gemacht!",
     tapToReveal: "Zum Aufdecken tippen",
     correct: "Richtig!",
+    discovery: "💡 German has 10 word classes: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Nomen",
     verb: "Verb",
     adjective: "Adjektiv",
@@ -90,6 +93,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Bravo!",
     tapToReveal: "Atinge pentru a dezvălui",
     correct: "Corect!",
+    discovery: "💡 Germana are 10 clase gramaticale: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Substantiv",
     verb: "Verb",
     adjective: "Adjectiv",

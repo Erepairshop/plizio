@@ -2,7 +2,7 @@
 // ReviewExplorerK6 — Island i9: Große Prüfung (K6)
 // Mixed review: Passiv, Konjunktiv II, Relativpronomen, Synonym/Fremdwort, Wortbildung
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import FillTheGap from "./blocks/FillTheGap";
@@ -71,7 +71,16 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
+    discovery: "💡 Advanced grammar builds on basics. Cases, clauses, and tenses combine to create complex, meaningful sentences!",
   },
+};
+
+// Add discovery to all language objects
+const DISCOVERY_LABELS: Record<string, string> = {
+  en: "💡 Advanced grammar builds on basics. Cases, clauses, and tenses combine to create complex, meaningful sentences!",
+  hu: "💡 A haladó nyelvtan az alapokra épül. Az esetek, mellékmondatok és időalakok kombinációja összetett, értelmes mondatokat hoz létre!",
+  de: "💡 Fortgeschrittene Grammatik baut auf Grundlagen auf. Fälle, Nebensätze und Zeitformen kombinieren sich zu komplexen, aussagekräftigen Sätzen!",
+  ro: "💡 Gramatica avansată se construiește pe baze. Cazurile, clauze și timpurile se combină pentru a crea propoziții complexe și semnificative!",
 };
 
 const MCQ1 = [
@@ -125,23 +134,27 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 function MCQRound({
-  title, hint, items, color, lbl, onDone,
+  title, hint, items, color, lbl, onDone, wrongCountRef,
 }: {
   title: string; hint: string;
   items: { sentence?: string; question?: string; options: string[]; correct: string; label?: string }[];
-  color: string; lbl: Record<string, string>; onDone: () => void;
+  color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef?: React.MutableRefObject<number>;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = items[idx];
   const displayText = item.question ?? item.sentence ?? "";
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const correct = opt === item.correct;
     setSelected(opt);
+    setFeedback(correct ? "correct" : "wrong");
+    if (!correct && wrongCountRef) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= items.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, correct ? 800 : 1000);
   };
   return (
     <div className="flex flex-col gap-4 w-full">
@@ -170,32 +183,52 @@ function MCQRound({
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 w-full flex-wrap">
-        {item.options.map(opt => (
-          <motion.button key={opt} onClick={() => handleSelect(opt)}
-            className="flex-1 min-w-14 py-3 rounded-xl font-black text-base"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const isCorrectChoice = opt === item.correct;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selected === opt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt} onClick={() => handleSelect(opt)} disabled={!!selected}
+              className="flex-1 min-w-14 py-3 rounded-xl font-black text-base transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,107,107,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "white",
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // Round 2 uses FillTheGap for variety
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const ITEMS = [
     { sentence: "Wenn ich Zeit ___, käme ich.", options: ["hätte", "wäre", "würde"], correct: "hätte" },
     { sentence: "Er ___ gern Pilot.", options: ["wäre", "wird", "hatte"], correct: "wäre" },
   ];
   const item = ITEMS[idx];
-  const handleDone = (_: boolean) => {
+  const handleDone = (correct: boolean) => {
+    if (!correct) {
+      wrongCountRef.current++;
+    }
     if (idx + 1 >= ITEMS.length) setTimeout(onNext, 800);
     else setTimeout(() => setIdx(i => i + 1), 900);
   };
@@ -224,6 +257,23 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
+function DiscoveryCard({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+  return (
+    <div className="flex flex-col items-center gap-6 w-full">
+      <motion.div className="text-7xl" animate={{ scale: [1, 1.15, 1], rotate: [0, 5, -5, 0] }}
+        transition={{ duration: 1.5, repeat: Infinity }}>
+        🎓
+      </motion.div>
+      <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+        className="w-full rounded-2xl px-4 py-3 text-center"
+        style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+        <p className="text-[#B44DFF] font-black text-sm">{lbl.discovery}</p>
+      </motion.div>
+      <NextBtn onClick={onDone} label={lbl.finish} color={color} />
+    </div>
+  );
+}
+
 const ReviewExplorerK6 = memo(function ReviewExplorerK6({
   color, lang = "de", onDone,
 }: {
@@ -231,9 +281,13 @@ const ReviewExplorerK6 = memo(function ReviewExplorerK6({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
-  const TOTAL_ROUNDS = 5;
+  const TOTAL_ROUNDS = 6;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -243,18 +297,19 @@ const ReviewExplorerK6 = memo(function ReviewExplorerK6({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && (
-            <MCQRound title={lbl.round1Title} hint={lbl.round1Hint} items={MCQ1} color={color} lbl={lbl} onDone={next} />
+            <MCQRound title={lbl.round1Title} hint={lbl.round1Hint} items={MCQ1} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
           )}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && (
-            <MCQRound title={lbl.round3Title} hint={lbl.round3Hint} items={MCQ3} color={color} lbl={lbl} onDone={next} />
+            <MCQRound title={lbl.round3Title} hint={lbl.round3Hint} items={MCQ3} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
           )}
           {round === 3 && (
-            <MCQRound title={lbl.round4Title} hint={lbl.round4Hint} items={MCQ4} color={color} lbl={lbl} onDone={next} />
+            <MCQRound title={lbl.round4Title} hint={lbl.round4Hint} items={MCQ4} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
           )}
           {round === 4 && (
-            <MCQRound title={lbl.round5Title} hint={lbl.round5Hint} items={MCQ5} color={color} lbl={lbl} onDone={finish} />
+            <MCQRound title={lbl.round5Title} hint={lbl.round5Hint} items={MCQ5} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
           )}
+          {round === 5 && <DiscoveryCard color={color} lbl={lbl} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

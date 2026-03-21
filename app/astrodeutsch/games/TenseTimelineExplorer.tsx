@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
 
@@ -23,6 +23,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Welches Perfekt ist richtig?",
     tapAkkusativ: "Tippe das Akkusativobjekt",
     checkLabel: "Prüfen ✓",
+    discovery: "💡 Deutsch hat 6 Zeitformen! Präsens (jetzt), Präteritum (einfache Vergangenheit), Perfekt (gesprochene Vergangenheit), Plusquamperfekt (Vorvergangenheit), Futur I (Zukunft), Futur II (Vorzukunft).",
   },
   en: {
     title: "Tenses & Case",
@@ -43,6 +44,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Which Perfekt is correct?",
     tapAkkusativ: "Tap the accusative object",
     checkLabel: "Check ✓",
+    discovery: "💡 German has 6 tenses! Präsens (now), Präteritum (simple past), Perfekt (spoken past), Plusquamperfekt (past perfect), Futur I (future), Futur II (future perfect).",
   },
   hu: {
     title: "Igeidők & eset",
@@ -63,6 +65,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Melyik Perfekt helyes?",
     tapAkkusativ: "Koppints a tárgyra",
     checkLabel: "Ellenőrzés ✓",
+    discovery: "💡 A németnek 6 igeideje van! Präsens (most), Präteritum (egyszerű múlt), Perfekt (beszélt múlt), Plusquamperfekt (előmúlt), Futur I (jövő), Futur II (jövő I előtt).",
   },
   ro: {
     title: "Timpuri & Caz",
@@ -83,6 +86,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Care Perfekt este corect?",
     tapAkkusativ: "Apasă obiectul la acuzativ",
     checkLabel: "Verifică ✓",
+    discovery: "💡 Germana are 6 timpuri! Präsens (acum), Präteritum (trecut simplu), Perfekt (trecut vorbit), Plusquamperfekt (trecut perfect), Futur I (viitor), Futur II (viitor perfect).",
   },
 };
 
@@ -236,7 +240,17 @@ const TIME_SORT = [
   { sentence: "Wir werden morgen fahren.", correct: "future" },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -246,11 +260,19 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 
   const handleSelect = (key: string) => {
     if (revealed) return;
-    setSelected(key); setRevealed(true);
+    setSelected(key);
+    setRevealed(true);
+    if (key !== q.correct) {
+      wrongCountRef.current++;
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= TIME_SORT.length) onNext();
-    else { setQi(qi + 1); setSelected(null); setRevealed(false); }
+    else {
+      setQi(qi + 1);
+      setSelected(null);
+      setRevealed(false);
+    }
   };
 
   return (
@@ -334,16 +356,37 @@ const PERFEKT_QUIZ = [
   },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = PERFEKT_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
     if (qi + 1 >= PERFEKT_QUIZ.length) onDone();
-    else { setQi(qi + 1); setSelected(null); setRevealed(false); }
+    else {
+      setQi(qi + 1);
+      setSelected(null);
+      setRevealed(false);
+    }
   };
 
   return (
@@ -388,8 +431,12 @@ const TenseTimelineExplorer = memo(function TenseTimelineExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -399,9 +446,9 @@ const TenseTimelineExplorer = memo(function TenseTimelineExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

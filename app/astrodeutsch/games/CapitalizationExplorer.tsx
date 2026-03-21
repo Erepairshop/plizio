@@ -2,7 +2,7 @@
 // CapitalizationExplorer — Island i5: Großschreibung (K2)
 // Teaches: nouns + sentence starts get capital letters, conjunctions stay lowercase
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -30,6 +30,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rule3: "Names of people and places are always capitalized",
     rule3Ex: "Anna, Berlin, Deutschland",
     tapToLearn: "Tap to learn!",
+    discovery: "💡 In German, ALL nouns are capitalized — not just names! Also capitalize after a period, and the formal 'Sie' (you) is always capitalized.",
   },
   hu: {
     title: "Nagybetű felfedező",
@@ -54,6 +55,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rule3: "A személyek és helyek nevei mindig nagybetűsek",
     rule3Ex: "Anna, Berlin, Deutschland",
     tapToLearn: "Koppints, hogy tanuld!",
+    discovery: "💡 A németben MINDEN főnév nagybetűvel kezdődik — nem csak a nevek! A mondat után is kell nagybetű, és a formális 'Sie' (te) mindig nagybetűvel íródik.",
   },
   de: {
     title: "Großschreibung-Entdecker",
@@ -78,6 +80,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rule3: "Namen von Personen und Orten werden immer groß geschrieben",
     rule3Ex: "Anna, Berlin, Deutschland",
     tapToLearn: "Tippe zum Lernen!",
+    discovery: "💡 Im Deutschen werden ALLE Nomen großgeschrieben — nicht nur Namen! Auch nach einem Punkt kommt ein Großbuchstabe, und das formale 'Sie' wird immer großgeschrieben.",
   },
   ro: {
     title: "Exploratorul majusculelor",
@@ -102,6 +105,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rule3: "Numele persoanelor și locurilor se scriu mereu cu majusculă",
     rule3Ex: "Anna, Berlin, Deutschland",
     tapToLearn: "Atinge pentru a învăța!",
+    discovery: "💡 În germană, TOATE substantivele se scriu cu majusculă — nu doar numele! De asemenea, după o perioadă vine o majusculă, iar formal 'Sie' (tu) se scrie întotdeauna cu majusculă.",
   },
 };
 
@@ -119,6 +123,9 @@ const CAPITAL_SETS: { words: string[]; nounIdx: number }[] = [
   { words: ["die", "schule", "ist"], nounIdx: 1 },
   { words: ["das", "kind", "spielt"], nounIdx: 1 },
   { words: ["ein", "baum", "steht"], nounIdx: 1 },
+  { words: ["die", "sonne", "scheint"], nounIdx: 1 },
+  { words: ["ein", "tisch", "steht"], nounIdx: 1 },
+  { words: ["der", "vogel", "singt"], nounIdx: 1 },
 ];
 
 // Round 3: conjunctions (tap all)
@@ -136,6 +143,8 @@ const BROKEN_SENTENCES: { words: string[]; brokenIdx: number; correct: string }[
   { words: ["Der", "hund", "bellt."], brokenIdx: 1, correct: "Hund" },
   { words: ["wir", "spielen", "Fußball."], brokenIdx: 0, correct: "Wir" },
   { words: ["Das", "kind", "liest."], brokenIdx: 1, correct: "Kind" },
+  { words: ["ein", "Auto", "fährt."], brokenIdx: 0, correct: "Ein" },
+  { words: ["Sie", "baum", "ist groß."], brokenIdx: 1, correct: "Baum" },
 ];
 
 // Round 5: quiz
@@ -143,6 +152,9 @@ const CAPITAL_QUIZ: { sentence: string[]; answer: number }[] = [
   { sentence: ["Mein", "bruder", "heißt", "Tim."], answer: 1 },
   { sentence: ["das", "Haus", "ist", "groß."], answer: 0 },
   { sentence: ["Ich", "lese", "ein", "buch."], answer: 3 },
+  { sentence: ["der", "Tisch", "steht", "hier."], answer: 0 },
+  { sentence: ["Anna", "kauft", "eine", "lampe."], answer: 3 },
+  { sentence: ["wir", "spielen", "mit", "dem", "Ball."], answer: 0 },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -213,7 +225,17 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Tap the word needing capital ────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const item = CAPITAL_SETS[idx];
@@ -221,10 +243,13 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleTap = (wi: number) => {
     if (selected !== null) return;
     setSelected(wi);
+    if (wi !== item.nounIdx) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= CAPITAL_SETS.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+    }, 1000);
   };
 
   return (
@@ -298,7 +323,17 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Find missing capital ───────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const item = BROKEN_SENTENCES[idx];
@@ -306,10 +341,13 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleTap = (wi: number) => {
     if (selected !== null) return;
     setSelected(wi);
+    if (wi !== item.brokenIdx) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= BROKEN_SENTENCES.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -350,7 +388,17 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Capital quiz ────────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const item = CAPITAL_QUIZ[idx];
@@ -358,10 +406,13 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleTap = (wi: number) => {
     if (selected !== null) return;
     setSelected(wi);
+    if (wi !== item.answer) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= CAPITAL_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -412,9 +463,13 @@ const CapitalizationExplorer = memo(function CapitalizationExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -424,10 +479,10 @@ const CapitalizationExplorer = memo(function CapitalizationExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

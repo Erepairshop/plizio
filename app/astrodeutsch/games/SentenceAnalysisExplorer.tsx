@@ -2,7 +2,7 @@
 // SentenceAnalysisExplorer — Island i4: Satzglieder (K5 advanced)
 // Teaches: 5 sentence parts incl. Adverbiale types, word order flexibility, adjective declension preview, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -33,6 +33,7 @@ const LABELS: Record<string, Record<string, string>> = {
     temporaladv: "Temporaladverbiale (wann?)",
     modaladv: "Modaladverbiale (wie?)",
     kausaladv: "Kausaladverbiale (warum?)",
+    discovery: "💡 Sentence analysis (Satzgliedbestimmung) means identifying each part's role. Ask questions: Wer? Was? Wem? Wo? Wann? to find each part!",
   },
   hu: {
     title: "Mondatelemzés",
@@ -60,6 +61,7 @@ const LABELS: Record<string, Record<string, string>> = {
     temporaladv: "Időhatározó (mikor?)",
     modaladv: "Módhatározó (hogyan?)",
     kausaladv: "Okhatározó (miért?)",
+    discovery: "💡 A mondatelemzés (Satzgliedbestimmung) az egyes részek szerepének azonosítása. Kérdezz: Wer? Was? Wem? Wo? Wann? hogy megtaláld az egyes részeket!",
   },
   de: {
     title: "Satzgliederanalyse",
@@ -87,6 +89,7 @@ const LABELS: Record<string, Record<string, string>> = {
     temporaladv: "Temporaladverbiale (wann?)",
     modaladv: "Modaladverbiale (wie?)",
     kausaladv: "Kausaladverbiale (warum?)",
+    discovery: "💡 Satzgliedbestimmung bedeutet, die Funktion jedes Teils zu identifizieren. Stelle Fragen: Wer? Was? Wem? Wo? Wann? um die Teile zu finden!",
   },
   ro: {
     title: "Analiza propoziției",
@@ -114,6 +117,7 @@ const LABELS: Record<string, Record<string, string>> = {
     temporaladv: "Circumstanțial de timp (când?)",
     modaladv: "Circumstanțial de mod (cum?)",
     kausaladv: "Circumstanțial de cauză (de ce?)",
+    discovery: "💡 Analiza propoziției (Satzgliedbestimmung) înseamnă identificarea rolului fiecărei părți. Pune întrebări: Wer? Was? Wem? Wo? Wann? pentru a găsi fiecare parte!",
   },
 };
 
@@ -214,7 +218,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Adverbiale types MCQ ────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = ADV_QUIZ[idx];
@@ -225,6 +229,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= ADV_QUIZ.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -281,7 +286,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Moveable Adverbiale ─────────────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const EXAMPLES = [
     { a: "Er kam gestern nach Hause.", b: "Gestern kam er nach Hause.", highlight: "gestern" },
@@ -330,7 +335,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Adjective declension table ──────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= ADJ_DECL.length;
   return (
@@ -372,7 +377,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Full sentence analysis MCQ ─────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = ANALYSIS_QUIZ[idx];
@@ -381,6 +386,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= ANALYSIS_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -446,9 +452,13 @@ const SentenceAnalysisExplorer = memo(function SentenceAnalysisExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -458,10 +468,19 @@ const SentenceAnalysisExplorer = memo(function SentenceAnalysisExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 4 && (
+            <div className="w-full flex flex-col items-center gap-4">
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
+              <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+                className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
+                style={{ background: `${color}22` }}>
+                {lbl.discovery}
+              </motion.div>
+            </div>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TreeBranch from "@/app/astrodeutsch/games/blocks/TreeBranch";
 
@@ -17,6 +17,7 @@ const LABELS: Record<string, Record<string, string>> = {
     plural: "Mehrzahl",
     tapWord: "Tippe ein Wort, dann einen Eimer",
     checkLabel: "Prüfen ✓",
+    discovery: "💡 Deutsche Pluralformen folgen Mustern: -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), oder Umlaut (Apfel→Äpfel)!",
   },
   en: {
     title: "Plural & Word Families",
@@ -31,6 +32,7 @@ const LABELS: Record<string, Record<string, string>> = {
     plural: "Plural",
     tapWord: "Tap a word, then a bucket",
     checkLabel: "Check ✓",
+    discovery: "💡 German plural forms follow patterns: -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), or umlaut (Apfel→Äpfel)!",
   },
   hu: {
     title: "Többes szám & szócsaládok",
@@ -45,6 +47,7 @@ const LABELS: Record<string, Record<string, string>> = {
     plural: "Többes szám",
     tapWord: "Koppints egy szóra, majd egy vödörre",
     checkLabel: "Ellenőrzés ✓",
+    discovery: "💡 A német többes szám formák mintákat követnek: -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), vagy umlaut (Apfel→Äpfel)!",
   },
   ro: {
     title: "Plural & familii de cuvinte",
@@ -59,6 +62,7 @@ const LABELS: Record<string, Record<string, string>> = {
     plural: "Plural",
     tapWord: "Apasă un cuvânt, apoi o găleată",
     checkLabel: "Verifică ✓",
+    discovery: "💡 Formele de plural germane urmează modele: -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), sau umlaut (Apfel→Äpfel)!",
   },
 };
 
@@ -130,7 +134,17 @@ const SORT_BUCKETS = [
   { key: "umlaut", label: "Umlaut", icon: "🔵" },
 ];
 
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [placed, setPlaced] = useState<Record<string, string>>({});
   const [selected, setSelected] = useState<string | null>(null);
   const unplaced = SORT_WORDS.filter(w => !placed[w.word]);
@@ -139,6 +153,10 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleWordTap = (word: string) => setSelected(s => s === word ? null : word);
   const handleBucketTap = (bucket: string) => {
     if (!selected) return;
+    const isCorrect = SORT_WORDS.find(w => w.word === selected)?.correct === bucket;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setPlaced(p => ({ ...p, [selected]: bucket }));
     setSelected(null);
   };
@@ -223,7 +241,17 @@ const ENDING_QUIZ = [
   { word: "Auto", options: ["-en", "-er", "-s"], correct: 2 },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -231,11 +259,19 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 
   const handleSelect = (i: number) => {
     if (revealed) return;
-    setSelected(i); setRevealed(true);
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= ENDING_QUIZ.length) onNext();
-    else { setQi(qi + 1); setSelected(null); setRevealed(false); }
+    else {
+      setQi(qi + 1);
+      setSelected(null);
+      setRevealed(false);
+    }
   };
 
   return (
@@ -275,16 +311,37 @@ const PLURAL_FINAL = [
   { word: "Kind", options: ["Kinder", "Kinde", "Kinds"], correct: 0 },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = PLURAL_FINAL[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
     if (qi + 1 >= PLURAL_FINAL.length) onDone();
-    else { setQi(qi + 1); setSelected(null); setRevealed(false); }
+    else {
+      setQi(qi + 1);
+      setSelected(null);
+      setRevealed(false);
+    }
   };
 
   return (
@@ -330,8 +387,12 @@ const PluralFamilyExplorer = memo(function PluralFamilyExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -340,10 +401,10 @@ const PluralFamilyExplorer = memo(function PluralFamilyExplorer({
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

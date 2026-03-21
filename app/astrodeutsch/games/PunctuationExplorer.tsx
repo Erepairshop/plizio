@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -24,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     chooseRight: "Wähle die richtige Schreibweise",
     checkLabel: "Prüfen ✓",
     syllable: "Silbe",
+    discovery: "💡 Kommas trennen Nebensätze im Deutschen! Setze immer ein Komma vor Konjunktionen von Nebensätzen (weil, dass, wenn, ob, obwohl).",
   },
   en: {
     title: "Lengthening h & Comma",
@@ -46,6 +47,7 @@ const LABELS: Record<string, Record<string, string>> = {
     chooseRight: "Choose the correct spelling",
     checkLabel: "Check ✓",
     syllable: "Syllable",
+    discovery: "💡 Commas separate subordinate clauses in German! Always put a comma before subordinate clause conjunctions (weil, dass, wenn, ob, obwohl).",
   },
   hu: {
     title: "Nyújtó h & Vessző",
@@ -68,6 +70,7 @@ const LABELS: Record<string, Record<string, string>> = {
     chooseRight: "Válaszd a helyes írásmódot",
     checkLabel: "Ellenőrzés ✓",
     syllable: "Szótag",
+    discovery: "💡 A vesszők elváasztják a mellékmondatokat a németben! Mindig tegyél vesszőt a mellékmondat kötőszavak előtt (weil, dass, wenn, ob, obwohl).",
   },
   ro: {
     title: "h de lungire & Virgulă",
@@ -90,6 +93,7 @@ const LABELS: Record<string, Record<string, string>> = {
     chooseRight: "Alege grafia corectă",
     checkLabel: "Verifică ✓",
     syllable: "Silabă",
+    discovery: "💡 Virgulele separă propozițiile subordonate în germană! Pune întotdeauna o virgulă înainte de conjuncțiile propozițiilor subordonate (weil, dass, wenn, ob, obwohl).",
   },
 };
 
@@ -194,21 +198,24 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 const COMMA_INSERT = [
-  {
-    words: ["Ich", "mag", "Hunde", "Katzen", "und", "Fische."],
-    correctCommaAfter: [2],
-  },
-  {
-    words: ["Wir", "haben", "Äpfel", "Birnen", "und", "Trauben", "gekauft."],
-    correctCommaAfter: [2, 3],
-  },
-  {
-    words: ["Sie", "tanzt", "singt", "und", "spielt", "Gitarre."],
-    correctCommaAfter: [2],
-  },
+  { words: ["Ich", "mag", "Hunde", "Katzen", "und", "Fische."], correctCommaAfter: [2] },
+  { words: ["Wir", "haben", "Äpfel", "Birnen", "und", "Trauben", "gekauft."], correctCommaAfter: [2, 3] },
+  { words: ["Sie", "tanzt", "singt", "und", "spielt", "Gitarre."], correctCommaAfter: [2] },
+  { words: ["Er", "kauft", "Brot", "Käse", "und", "Butter."], correctCommaAfter: [2, 3] },
+  { words: ["Ich", "sehe", "Autos", "Züge", "oder", "Fahrräder."], correctCommaAfter: [2, 3] },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [inserted, setInserted] = useState<Set<number>>(new Set());
   const [submitted, setSubmitted] = useState(false);
@@ -225,6 +232,11 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 
   const handleCheck = () => {
     setSubmitted(true);
+    const isCorrect = inserted.size === q.correctCommaAfter.length &&
+                      q.correctCommaAfter.every(i => inserted.has(i));
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (qi + 1 >= COMMA_INSERT.length) onNext();
       else { setQi(qi + 1); setInserted(new Set()); setSubmitted(false); }
@@ -285,15 +297,34 @@ const UND_ODER_QUIZ = [
   { sentence: "Wir spielen Fußball, Tennis und Volleyball.", needsComma: false },
   { sentence: "Er liest ein Buch oder schläft.", needsComma: false },
   { sentence: "Anna, Ben und Clara kommen.", needsComma: false },
+  { sentence: "Sie trinkt Tee oder Kaffee.", needsComma: false },
+  { sentence: "Der Hund, die Katze und der Vogel spielen.", needsComma: false },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<boolean | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = UND_ODER_QUIZ[qi];
 
-  const handleSelect = (val: boolean) => { if (revealed) return; setSelected(val); setRevealed(true); };
+  const handleSelect = (val: boolean) => {
+    if (revealed) return;
+    setSelected(val);
+    setRevealed(true);
+    if (val !== q.needsComma) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
     if (qi + 1 >= UND_ODER_QUIZ.length) onNext();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -337,15 +368,34 @@ const SPELL_QUIZ = [
   { question: "fahren", options: ["faren", "fahren", "faahren"], correct: 1 },
   { question: "Straße, Schuh, Tier", options: ["Strase, Schuh, Tier", "Straße, Schuuh, Tier", "Straße, Schuh, Tier"], correct: 2 },
   { question: "Wohnung", options: ["Wonnung", "Wohnung", "Woohnung"], correct: 1 },
+  { question: "sehen", options: ["seen", "sehen", "seehen"], correct: 1 },
+  { question: "Uhr", options: ["ur", "uhr", "uuhr"], correct: 1 },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = SPELL_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
     if (qi + 1 >= SPELL_QUIZ.length) onDone();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -392,8 +442,12 @@ const PunctuationExplorer = memo(function PunctuationExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -403,9 +457,9 @@ const PunctuationExplorer = memo(function PunctuationExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

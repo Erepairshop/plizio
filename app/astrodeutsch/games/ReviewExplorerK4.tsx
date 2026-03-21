@@ -2,7 +2,7 @@
 // ReviewExplorerK4 — Island i9: Große Prüfung (Review) (K4)
 // Reviews: Kasus, Zeitformen, Satzglieder, Spelling, Mixed challenge
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -31,6 +31,7 @@ const LABELS: Record<string, Record<string, string>> = {
     predicate: "Predicate",
     object: "Object",
     adverbial: "Adverbial",
+    discovery: "💡 You've learned a lot! Articles, verbs, tenses, sentence parts — they all work together to build correct German sentences.",
   },
   hu: {
     title: "K4 Összefoglalás",
@@ -56,6 +57,7 @@ const LABELS: Record<string, Record<string, string>> = {
     predicate: "Állítmány",
     object: "Tárgy",
     adverbial: "Határozó",
+    discovery: "💡 Sokat tanultál! Az artikelok, igék, időalakok, mondatrészek — mindez együtt működik a helyes német mondatok felépítéséhez.",
   },
   de: {
     title: "K4-Wiederholung",
@@ -81,6 +83,7 @@ const LABELS: Record<string, Record<string, string>> = {
     predicate: "Prädikat",
     object: "Objekt",
     adverbial: "Adverbiale",
+    discovery: "💡 Du hast viel gelernt! Artikel, Verben, Zeitformen, Satzglieder — sie funktionieren alle zusammen, um korrekte deutsche Sätze zu bauen.",
   },
   ro: {
     title: "Recapitulare K4",
@@ -106,6 +109,7 @@ const LABELS: Record<string, Record<string, string>> = {
     predicate: "Predicat",
     object: "Obiect",
     adverbial: "Circumstanțial",
+    discovery: "💡 Ai învățat o mulțime! Articolele, verbele, timpurile, părțile propoziției — toate funcționează împreună pentru a construi propoziții germane corecte.",
   },
 };
 
@@ -237,20 +241,38 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Tense review MCQ ────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
 
   const item = TENSE_REVIEW[idx];
   const isCorrect = selected === item.correct;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const correct = opt === item.correct;
     setSelected(opt);
+    setFeedback(correct ? "correct" : "wrong");
+
+    if (!correct) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= TENSE_REVIEW.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, correct ? 800 : 1000);
   };
 
   return (
@@ -278,39 +300,65 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 w-full flex-wrap">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="flex-1 py-2.5 rounded-xl font-black text-sm min-w-0"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const isCorrectChoice = opt === item.correct;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selected === opt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              disabled={!!selected}
+              className="flex-1 py-2.5 rounded-xl font-black text-sm min-w-0 transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,107,107,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "white",
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 3: Sentence parts review ──────────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
 
   const item = PART_REVIEW[idx];
   const isCorrect = selected === item.part;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const correct = opt === item.part;
     setSelected(opt);
+    setFeedback(correct ? "correct" : "wrong");
+
+    if (!correct) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= PART_REVIEW.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, correct ? 800 : 1000);
   };
 
   const parts = item.sentence.split(item.highlight);
@@ -344,39 +392,69 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="grid grid-cols-2 gap-2 w-full">
-        {["subject", "predicate", "object", "adverbial"].map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="py-2.5 rounded-xl font-black text-xs"
-            style={{
-              background: selected === opt ? (opt === item.part ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : `${PART_COLORS[opt]}18`,
-              border: `2px solid ${selected === opt ? (opt === item.part ? "#00FF88" : "#FF6B6B") : PART_COLORS[opt] + "55"}`,
-              color: selected === opt ? (opt === item.part ? "#00FF88" : "#FF6B6B") : PART_COLORS[opt],
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {lbl[opt]}
-          </motion.button>
-        ))}
+        {["subject", "predicate", "object", "adverbial"].map(opt => {
+          const isCorrectChoice = opt === item.part;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selected === opt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              disabled={!!selected}
+              className="py-2.5 rounded-xl font-black text-xs transition-colors"
+              style={{
+                background: shouldShowCorrect
+                  ? "rgba(0,255,136,0.2)"
+                  : shouldShowWrong
+                  ? "rgba(255,107,107,0.15)"
+                  : `${PART_COLORS[opt]}18`,
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : PART_COLORS[opt] + "55"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : PART_COLORS[opt],
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {lbl[opt]}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 4: Spelling review ─────────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
 
   const item = SPELL_REVIEW[idx];
   const isCorrect = selected === item.correct;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const correct = opt === item.correct;
     setSelected(opt);
+    setFeedback(correct ? "correct" : "wrong");
+
+    if (!correct) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= SPELL_REVIEW.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, correct ? 800 : 1000);
   };
 
   return (
@@ -404,39 +482,65 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="flex-1 py-3 rounded-xl font-black text-base"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const isCorrectChoice = opt === item.correct;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selected === opt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              disabled={!!selected}
+              className="flex-1 py-3 rounded-xl font-black text-base transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,107,107,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "white",
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 5: Mixed K4 challenge ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
 
   const item = MIXED_CHALLENGE[idx];
   const isCorrect = selected === item.correct;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const correct = opt === item.correct;
     setSelected(opt);
+    setFeedback(correct ? "correct" : "wrong");
+
+    if (!correct) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= MIXED_CHALLENGE.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, correct ? 800 : 1000);
   };
 
   return (
@@ -465,20 +569,62 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="flex-1 py-3 rounded-xl font-black text-base"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const isCorrectChoice = opt === item.correct;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selected === opt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              disabled={!!selected}
+              className="flex-1 py-3 rounded-xl font-black text-base transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,107,107,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF6B6B" : "white",
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
+    </div>
+  );
+}
+
+// ─── Round 6: Discovery card ────────────────────────────────────────────────────
+function Round6({
+  color,
+  lbl,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  onDone: () => void;
+}) {
+  return (
+    <div className="flex flex-col items-center gap-6 w-full">
+      <motion.div className="text-7xl" animate={{ scale: [1, 1.15, 1], rotate: [0, 5, -5, 0] }}
+        transition={{ duration: 1.5, repeat: Infinity }}>
+        🎓
+      </motion.div>
+      <div className="text-center">
+        <h2 className="text-2xl font-black text-white">{lbl.well}</h2>
+      </div>
+      <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+        className="w-full rounded-2xl px-4 py-3 text-center"
+        style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+        <p className="text-[#B44DFF] font-black text-sm">{lbl.discovery}</p>
+      </motion.div>
+      <motion.button onClick={onDone}
+        className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+        style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+        whileTap={{ scale: 0.97 }}>
+        {lbl.finish} <ChevronRight size={16} />
+      </motion.button>
     </div>
   );
 }
@@ -493,10 +639,14 @@ const ReviewExplorerK4 = memo(function ReviewExplorerK4({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
-  const TOTAL_ROUNDS = 5;
+  const TOTAL_ROUNDS = 6;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -506,10 +656,11 @@ const ReviewExplorerK4 = memo(function ReviewExplorerK4({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={next} />}
+          {round === 5 && <Round6 color={color} lbl={lbl} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

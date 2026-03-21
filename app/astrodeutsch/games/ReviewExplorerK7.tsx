@@ -2,7 +2,7 @@
 // ReviewExplorerK7 — Island i9: Große Prüfung (K7)
 // Teaches: mixed review of all K7 topics: Konjunktiv I, Passiv, Stilmittel, Nebensatztypen, Infinitivkonstruktionen
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -24,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Correct!",
     werdenPassiv: "werden-Passiv",
     seinPassiv: "sein-Passiv",
+    discovery: "💡 You're mastering German grammar! Active/passive, direct/indirect speech — these tools let you express any idea precisely.",
   },
   hu: {
     title: "7. osztály összefoglalás",
@@ -42,6 +43,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Helyes!",
     werdenPassiv: "werden-Passiv",
     seinPassiv: "sein-Passiv",
+    discovery: "💡 Kiváló német nyelvtan tanulásban! Aktív/passzív, közvetlen/függő beszéd — ezek az eszközök lehetővé teszik bármely ötlet pontos kifejezését.",
   },
   de: {
     title: "K7 Große Wiederholung",
@@ -60,6 +62,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Richtig!",
     werdenPassiv: "Handlungspassiv",
     seinPassiv: "Zustandspassiv",
+    discovery: "💡 Du beherrschst die deutsche Grammatik! Aktiv/Passiv, direkte/indirekte Rede — diese Werkzeuge ermöglichen dir, jede Idee präzise auszudrücken.",
   },
   ro: {
     title: "Recapitulare K7",
@@ -78,6 +81,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Corect!",
     werdenPassiv: "Pasiv cu werden",
     seinPassiv: "Pasiv cu sein",
+    discovery: "💡 Stăpânești gramatica germană! Activ/pasiv, vorbire directă/indirectă — aceste instrumente îți permit să exprimi orice idee cu precizie.",
   },
 };
 

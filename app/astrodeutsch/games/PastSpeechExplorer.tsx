@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import MemoryPairCards from "@/app/astrodeutsch/games/blocks/MemoryPairCards";
 
@@ -23,6 +23,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Regeln",
     comma: "Komma nach dem Satz",
     quoteRule: '\u201eRede\u201c',
+    discovery: "💡 Präteritum ist die geschriebene Vergangenheit: ich GING, er SPIELTE. Es wird in Geschichten und formellen Schreiben verwendet. Perfekt ist für gesprochenes Deutsch!",
   },
   en: {
     title: "Preterite & Direct Speech",
@@ -43,6 +44,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Rules",
     comma: "Comma after the sentence",
     quoteRule: "\"Speech\"",
+    discovery: "💡 Preterite is the written past tense: I WENT, he PLAYED. It's used in stories and formal writing. Perfect is for spoken German!",
   },
   hu: {
     title: "Präteritum & Egyenes idézet",
@@ -63,6 +65,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Szabályok",
     comma: "Vessző a mondat után",
     quoteRule: '\u201eIdézet\u201c',
+    discovery: "💡 A Präteritum az írott múlt: én MENTEM, ő JÁTSZOTT. Történetekben és formális írásban használják. A Perfekt a beszélt német!",
   },
   ro: {
     title: "Preterit & Vorbire directă",
@@ -83,6 +86,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Reguli",
     comma: "Virgulă după propoziție",
     quoteRule: '\u201eVorbire\u201c',
+    discovery: "💡 Preteritarul este timpul trecut scris: eu AM PLECAT, el A JUCAT. Se folosește în povestiri și scriere formală. Perfectul este pentru germana vorbită!",
   },
 };
 

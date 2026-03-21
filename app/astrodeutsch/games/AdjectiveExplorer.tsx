@@ -2,7 +2,7 @@
 // AdjectiveExplorer — Island i3: Adjektive & Pronomen (K2)
 // Teaches: adjective recognition, opposites, personal pronouns er/sie/es
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -26,6 +26,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Correct!",
     tapToLearn: "Tap to learn!",
     replaces: "replaces",
+    discovery: "💡 Adjectives describe nouns: groß, klein, schnell, langsam. They can go before a noun (der große Hund) or after a verb (der Hund ist groß).",
   },
   hu: {
     title: "Melléknév felfedező",
@@ -45,6 +46,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Helyes!",
     tapToLearn: "Koppints, hogy tanuld!",
     replaces: "helyettesíti",
+    discovery: "💡 A melléknevek főneveket írnak le: groß, klein, schnell, langsam. Mehetnek főnév elé (der große Hund) vagy ige után (der Hund ist groß).",
   },
   de: {
     title: "Adjektiv-Entdecker",
@@ -64,6 +66,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Richtig!",
     tapToLearn: "Tippe zum Lernen!",
     replaces: "ersetzt",
+    discovery: "💡 Adjektive beschreiben Nomen: groß, klein, schnell, langsam. Sie können vor einem Nomen stehen (der große Hund) oder nach einem Verb (der Hund ist groß).",
   },
   ro: {
     title: "Exploratorul adjectivelor",
@@ -83,11 +86,12 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Corect!",
     tapToLearn: "Atinge pentru a învăța!",
     replaces: "înlocuiește",
+    discovery: "💡 Adjectivele descriu substantivele: groß, klein, schnell, langsam. Pot sta înainte unui substantiv (der große Hund) sau după un verb (der Hund ist groß).",
   },
 };
 
 // Round 1: spot adjectives
-const MIXED_WORDS: { word: string; isAdj: boolean; emoji?: string }[] = [
+const MIXED_WORDS_POOL: { word: string; isAdj: boolean; emoji?: string }[] = [
   { word: "groß", isAdj: true },
   { word: "Hund", isAdj: false, emoji: "🐕" },
   { word: "schnell", isAdj: true },
@@ -98,15 +102,32 @@ const MIXED_WORDS: { word: string; isAdj: boolean; emoji?: string }[] = [
   { word: "laufen", isAdj: false },
   { word: "klein", isAdj: true },
   { word: "Baum", isAdj: false, emoji: "🌳" },
+  { word: "rot", isAdj: true },
+  { word: "Stuhl", isAdj: false, emoji: "🪑" },
+  { word: "alt", isAdj: true },
+  { word: "Licht", isAdj: false, emoji: "💡" },
+  { word: "dünn", isAdj: true },
 ];
 
 // Round 2: opposites
-const OPPOSITE_PAIRS: { a: string; b: string; emojiA: string; emojiB: string }[] = [
+const OPPOSITE_PAIRS_POOL: { a: string; b: string; emojiA: string; emojiB: string }[] = [
   { a: "groß", b: "klein", emojiA: "🦒", emojiB: "🐭" },
   { a: "heiß", b: "kalt", emojiA: "🔥", emojiB: "🧊" },
   { a: "schnell", b: "langsam", emojiA: "🐆", emojiB: "🐢" },
   { a: "hell", b: "dunkel", emojiA: "☀️", emojiB: "🌑" },
+  { a: "jung", b: "alt", emojiA: "🧒", emojiB: "👴" },
+  { a: "sauber", b: "schmutzig", emojiA: "✨", emojiB: "🤎" },
 ];
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
 
 // Round 3: personal pronouns
 const PRONOUNS: { pronoun: string; meaning: Record<string, string>; emoji: string; color: string }[] = [
@@ -128,10 +149,12 @@ const PRONOUN_SUBS: { noun: string; article: string; pronoun: string; emoji: str
 ];
 
 // Round 5: opposites quiz
-const OPPOSITE_QUIZ: { word: string; options: string[]; answer: string }[] = [
+const OPPOSITE_QUIZ_POOL: { word: string; options: string[]; answer: string }[] = [
   { word: "alt", options: ["jung", "groß", "schnell"], answer: "jung" },
   { word: "nass", options: ["warm", "trocken", "klein"], answer: "trocken" },
   { word: "laut", options: ["leise", "hell", "kalt"], answer: "leise" },
+  { word: "süß", options: ["sauer", "bitter", "salzhaltig"], answer: "sauer" },
+  { word: "traurig", options: ["happy", "froh", "lustig"], answer: "lustig" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -159,8 +182,8 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 // ─── Round 1: Find adjectives ─────────────────────────────────────────────────
 function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const adjCount = MIXED_WORDS.filter(w => w.isAdj).length;
-  const tappedAdjCount = [...tapped].filter(i => MIXED_WORDS[i].isAdj).length;
+  const adjCount = MIXED_WORDS_POOL.filter(w => w.isAdj).length;
+  const tappedAdjCount = [...tapped].filter(i => MIXED_WORDS_POOL[i].isAdj).length;
   const allAdjTapped = tappedAdjCount === adjCount;
 
   return (
@@ -168,7 +191,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
       <div className="grid grid-cols-2 gap-2 w-full">
-        {MIXED_WORDS.map((item, i) => {
+        {MIXED_WORDS_POOL.map((item, i) => {
           const isTapped = tapped.has(i);
           const isAdj = item.isAdj;
           return (
@@ -195,15 +218,28 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Opposites pairs ─────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+  const [pairs] = useState(() => shuffle(OPPOSITE_PAIRS_POOL).slice(0, 4));
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const pair = OPPOSITE_PAIRS[idx];
+  const [feedback, setFeedback] = useState<"correct" | null>(null);
+  const pair = pairs[idx];
   const bothTapped = tapped.has(0) && tapped.has(1);
 
+  const handleTap = (i: number) => {
+    if (feedback) return;
+    if (!tapped.has(i)) {
+      const newTapped = new Set([...tapped, i]);
+      setTapped(newTapped);
+      if (newTapped.size === 2) {
+        setFeedback("correct");
+      }
+    }
+  };
+
   const handleNext = () => {
-    if (idx + 1 >= OPPOSITE_PAIRS.length) onNext();
-    else { setIdx(i => i + 1); setTapped(new Set()); }
+    if (idx + 1 >= pairs.length) onNext();
+    else { setIdx(i => i + 1); setTapped(new Set()); setFeedback(null); }
   };
 
   return (
@@ -211,7 +247,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
       <div className="flex gap-1 mb-1">
-        {OPPOSITE_PAIRS.map((_, i) => (
+        {OPPOSITE_PAIRS_POOL.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -223,13 +259,13 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
             const isTapped = tapped.has(i);
             return (
               <motion.button key={i}
-                onClick={() => { if (!isTapped) setTapped(prev => new Set([...prev, i])); }}
+                onClick={() => handleTap(i)}
                 className="flex-1 rounded-2xl p-4 flex flex-col items-center gap-2"
                 style={{
                   background: isTapped ? `${color}22` : "rgba(255,255,255,0.05)",
                   border: `2px solid ${isTapped ? color : "rgba(255,255,255,0.15)"}`,
                 }}
-                whileTap={!isTapped ? { scale: 0.93 } : {}}>
+                whileTap={!tapped.has(i) && !feedback ? { scale: 0.93 } : {}}>
                 <span className="text-4xl">{item.emoji}</span>
                 <span className="text-xl font-black" style={{ color: isTapped ? color : "white" }}>
                   {item.word}
@@ -240,11 +276,15 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           })}
         </motion.div>
       </AnimatePresence>
-      {bothTapped && (
-        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} className="w-full flex items-center justify-center gap-3">
-          <span className="text-lg font-black" style={{ color }}>{pair.a}</span>
-          <span className="text-white/50">↔</span>
-          <span className="text-lg font-black" style={{ color }}>{pair.b}</span>
+      {bothTapped && feedback && (
+        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} className="w-full flex flex-col items-center gap-3">
+          <div className="w-full text-center">
+            <span className="text-lg font-black" style={{ color }}>{pair.a}</span>
+            <span className="text-white/50"> ↔ </span>
+            <span className="text-lg font-black" style={{ color }}>{pair.b}</span>
+          </div>
+          <motion.div initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
+            className="text-2xl font-black text-[#00FF88]">✅ {lbl.correct}</motion.div>
           <NextBtn onClick={handleNext} label={lbl.next} color={color} />
         </motion.div>
       )}
@@ -294,19 +334,27 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: er/sie/es replacement ──────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = PRONOUN_SUBS[idx];
   const pronColors: Record<string, string> = { er: "#10B981", sie: "#F59E0B", es: "#A855F7" };
 
   const handleSelect = (p: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
     setSelected(p);
+    const isCorrect = p === item.pronoun;
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= PRONOUN_SUBS.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, 1000);
   };
 
   return (
@@ -339,36 +387,70 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-4 w-full">
-        {["er", "sie", "es"].map(p => (
-          <motion.button key={p} onClick={() => handleSelect(p)}
-            className="flex-1 py-4 rounded-2xl font-black text-2xl"
-            style={{
-              background: selected === p ? `${pronColors[p] ?? color}33` : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === p ? (pronColors[p] ?? color) : "rgba(255,255,255,0.2)"}`,
-              color: selected === p ? (pronColors[p] ?? color) : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {p}
-          </motion.button>
-        ))}
+        {["er", "sie", "es"].map(p => {
+          let bgColor = "rgba(255,255,255,0.06)";
+          let borderColor = "rgba(255,255,255,0.2)";
+          let textColor = "white";
+
+          if (feedback && selected === p) {
+            if (p === item.pronoun) {
+              bgColor = `${pronColors[p]}33`;
+              borderColor = pronColors[p];
+              textColor = pronColors[p];
+            } else {
+              bgColor = "rgba(255,45,120,0.15)";
+              borderColor = "#FF2D78";
+              textColor = "#FF2D78";
+            }
+          } else if (feedback && p === item.pronoun && selected !== p) {
+            bgColor = `${pronColors[p]}33`;
+            borderColor = pronColors[p];
+            textColor = pronColors[p];
+          }
+
+          return (
+            <motion.button key={p} onClick={() => handleSelect(p)}
+              className="flex-1 py-4 rounded-2xl font-black text-2xl"
+              style={{
+                background: bgColor,
+                border: `2px solid ${borderColor}`,
+                color: textColor,
+              }}
+              whileTap={!selected && !feedback ? { scale: 0.93 } : {}}>
+              {p}
+              {feedback && selected === p && p === item.pronoun && " ✅"}
+              {feedback && selected === p && p !== item.pronoun && " ❌"}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 5: Opposites quiz ──────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
+  const [quiz] = useState(() => shuffle(OPPOSITE_QUIZ_POOL).slice(0, 3));
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
-  const item = OPPOSITE_QUIZ[idx];
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
+  const item = quiz[idx];
+  const isCorrect = selected === item.answer;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
     setSelected(opt);
+    const isCorrectChoice = opt === item.answer;
+    setFeedback(isCorrectChoice ? "correct" : "wrong");
+
+    if (!isCorrectChoice) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
-      if (idx + 1 >= OPPOSITE_QUIZ.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      if (idx + 1 >= quiz.length) onDone();
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, 1000);
   };
 
   return (
@@ -376,7 +458,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex gap-1 mb-1">
-        {OPPOSITE_QUIZ.map((_, i) => (
+        {quiz.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -390,22 +472,42 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt} onClick={() => handleSelect(opt)}
-            className="w-full py-3.5 rounded-2xl font-black text-lg"
-            style={{
-              background: selected === opt
-                ? (opt === item.answer ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.15)")
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt
-                ? (opt === item.answer ? "#00FF88" : "#FF2D78")
-                : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.answer ? "#00FF88" : "#FF2D78") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.97 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          let bgColor = "rgba(255,255,255,0.06)";
+          let borderColor = "rgba(255,255,255,0.2)";
+          let textColor = "white";
+
+          if (feedback && selected === opt) {
+            if (opt === item.answer) {
+              bgColor = "rgba(0,255,136,0.2)";
+              borderColor = "#00FF88";
+              textColor = "#00FF88";
+            } else {
+              bgColor = "rgba(255,45,120,0.15)";
+              borderColor = "#FF2D78";
+              textColor = "#FF2D78";
+            }
+          } else if (feedback && opt === item.answer && selected !== opt) {
+            bgColor = "rgba(0,255,136,0.2)";
+            borderColor = "#00FF88";
+            textColor = "#00FF88";
+          }
+
+          return (
+            <motion.button key={opt} onClick={() => handleSelect(opt)}
+              className="w-full py-3.5 rounded-2xl font-black text-lg"
+              style={{
+                background: bgColor,
+                border: `2px solid ${borderColor}`,
+                color: textColor,
+              }}
+              whileTap={!selected && !feedback ? { scale: 0.97 } : {}}>
+              {opt}
+              {feedback && selected === opt && opt === item.answer && " ✅"}
+              {feedback && selected === opt && opt !== item.answer && " ❌"}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -423,8 +525,14 @@ const AdjectiveExplorer = memo(function AdjectiveExplorer({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -434,10 +542,10 @@ const AdjectiveExplorer = memo(function AdjectiveExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>
