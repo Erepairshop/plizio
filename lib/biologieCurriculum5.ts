@@ -115,7 +115,10 @@ export function getK5Questions(
     for (const sub of theme.subtopics) {
       if (selectedSubtopicIds.includes(sub.id)) {
         // MCQ generátor
-        let generatorFn = generators[sub.id];
+        let generatorFn: ((seed?: number) => BiologieQuestion[]) | undefined;
+        for (const themeGens of Object.values(generators)) {
+          if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
+        }
         if (generatorFn) {
           pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
         } else {
@@ -124,7 +127,10 @@ export function getK5Questions(
 
         // Typing generátor
         const typingKey = sub.id + "_typing";
-        let typingFn = generators[typingKey];
+        let typingFn: ((seed?: number) => BiologieQuestion[]) | undefined;
+        for (const themeGens of Object.values(generators)) {
+          if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
+        }
         if (typingFn) {
           pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
         }

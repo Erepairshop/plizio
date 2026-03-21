@@ -217,9 +217,9 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["Wald", "Wüste", "Berge"]
       }),
       (f: typeof FISH_DATA[0]) => ({
-        q: `${f.name} hat die Eigenschaft: ${f.feature || "Flossen"}?`,
-        a: "wahr",
-        w: ["falsch"]
+        q: `In welchem Gewässer lebt ${f.name}?`,
+        a: f.habitat,
+        w: ["Regenwald", "Wüste", "Bergsee"]
       }),
       (f: typeof FISH_DATA[0]) => ({
         q: `Welcher Fisch lebt in ${f.habitat}?`,
@@ -269,13 +269,12 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `${a.name} ist zu Hause in welcher Umgebung?`,
-        a: a.habitat,
+        a: a.habitat ?? "Feucht",
         w: ["Wüste", "Berg", "Trocken"]
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `Welche Tier passt zu: "${a.transformation}"?`,
         a: a.name,
-        w: pick(AMPHIBIAN_DATA, rng).name,
         w: ["Ente", "Eidechse", "Vogel"]
       }),
     ];
@@ -316,7 +315,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       }),
       (r: typeof REPTILE_DATA[0]) => ({
         q: `${r.name} essen hauptsächlich...`,
-        a: r.diet,
+        a: r.diet ?? "Fleischfresser",
         w: ["Gras", "Algen", "Samen"]
       }),
       (r: typeof REPTILE_DATA[0]) => ({
@@ -1302,10 +1301,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
 
 // ─── GENERATOR MAP ─────────────────────────────────────────────────────────
 
-export const GENERATOR_MAP: Record<
-  string,
-  (seed?: number) => CurriculumQuestion[]
-> = K5_Generators;
+export const GENERATOR_MAP = { k5: K5_Generators };
 
 // ─── Automatikus regisztráció ─────────────────────────────────────────────
 

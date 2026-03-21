@@ -270,8 +270,8 @@ export function getK5Questions(
             if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
           }
         }
-        if (generatorFn) {
-          pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
+        if (generatorFn && typeof generatorFn === "function") {
+          pool.push(...(generatorFn as (seed?: number) => BiologieQuestion[])(Math.floor(Math.random() * 1000000)));
         } else {
           pool.push(...sub.questions);
         }

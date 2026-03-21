@@ -43,7 +43,7 @@ export default function BiologieTestPage() {
   const [userAnswers, setUserAnswers] = useState<(string | null)[]>([]);
   const [userAnswer, setUserAnswer] = useState("");
   const [submitted, setSubmitted] = useState(false);
-  const [earnedCard, setEarnedCard] = useState<string | null>(null);
+  const [earnedCard, setEarnedCard] = useState<import("@/lib/cards").CardRarity | null>(null);
   const [score, setScore] = useState(0);
   const [milestones, setMilestones] = useState<string[]>([]);
   const avatarMoodRef = useRef<"idle" | "focused" | "happy" | "disappointed">("idle");
@@ -125,7 +125,7 @@ export default function BiologieTestPage() {
       incrementTotalGames();
       if (score === questions.length) incrementPerfectScores();
       const newMilestones = checkNewMilestones();
-      setMilestones(newMilestones);
+      setMilestones(newMilestones.map((m: any) => m.id ?? m));
       setEarnedCard(rarity);
       setScreen("reward");
     }
@@ -355,10 +355,7 @@ export default function BiologieTestPage() {
             </p>
 
             {milestones.length > 0 && (
-              <MilestonePopup
-                milestones={milestones}
-                onDone={() => {}}
-              />
+              <MilestonePopup />
             )}
 
             <div className="flex flex-col gap-4">

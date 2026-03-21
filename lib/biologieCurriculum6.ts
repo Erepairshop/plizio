@@ -120,7 +120,7 @@ export function getK6Questions(
     for (const sub of theme.subtopics) {
       if (selectedSubtopicIds.includes(sub.id)) {
         // MCQ generátor
-        let generatorFn = generators[sub.id];
+        let generatorFn: any; for (const tg of Object.values(generators)) { if (tg[sub.id]) { generatorFn = tg[sub.id]; break; } }
         if (generatorFn) {
           pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
         } else {
@@ -129,7 +129,7 @@ export function getK6Questions(
 
         // Typing generátor
         const typingKey = sub.id + "_typing";
-        let typingFn = generators[typingKey];
+        let typingFn: any; for (const tg of Object.values(generators)) { if (tg[typingKey]) { typingFn = tg[typingKey]; break; } }
         if (typingFn) {
           pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
         }
