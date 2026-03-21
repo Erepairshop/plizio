@@ -30,12 +30,12 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "word-blitz" | "spell-race" | "sentence-scramble" | "gap-fill" | "category-rush"
   | "deutsch-visual"
   | "noun-explorer" | "verb-explorer" | "adjective-explorer" | "sentence-type-explorer"
-  | "capitalization-explorer" | "spelling-rule-explorer" | "spelling-explorer-2"
+  | "capitalization-explorer" | "spelling-rule-explorer" | "spelling-explorer-2" | "spelling-explorer"
   | "word-field-explorer"
   | "plural-family-explorer" | "separable-verb-explorer" | "comparison-explorer"
   | "sentence-parts-explorer" | "tense-timeline-explorer" | "past-speech-explorer"
   | "spelling-k3-explorer" | "punctuation-explorer"
-  | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
+  | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4" | "eset-explorer"
   | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
   | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4"
   | "adjective-comparison-explorer" | "preposition-case-explorer" | "pronoun-explorer-k5"
@@ -46,6 +46,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "review-explorer-k6"
   | "speech-transform-explorer" | "style-device-explorer" | "review-explorer-k7"
   | "review-explorer-k8"
+  | "review-explorer-hu"
   | "word-sort" | "sentence-builder" | "fill-gap" | "grammar-match" | "spell-race" | "category-rush"
   | "lang-explore";
 export type Lang = "en" | "hu" | "de" | "ro";
