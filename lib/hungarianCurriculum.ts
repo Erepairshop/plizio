@@ -1625,6 +1625,18 @@ export function getHungarianQuestions(
     }
   }
 
+  // Deduplicate by question text — prevents generator repetition from appearing
+  const seenQText = new Set<string>();
+  const dedupedPool: HungarianQuestion[] = [];
+  for (const q of pool) {
+    if (!seenQText.has(q.question)) {
+      seenQText.add(q.question);
+      dedupedPool.push(q);
+    }
+  }
+  pool.length = 0;
+  pool.push(...dedupedPool);
+
   // If pool is too small, cycle through existing questions with shuffled options
   if (pool.length > 0 && pool.length < count) {
     const base = [...pool];
