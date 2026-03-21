@@ -23,6 +23,7 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import LangExplore from "@/app/astromagyar/games/LangExplore";
 import {
   O4_ISLANDS, O4_CHECKPOINT_MAP, O4_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang,
   loadO4Progress, saveO4Progress, type O4Progress,
@@ -52,6 +53,7 @@ type Screen =
   | "black-hole"
   | "star-match"
   | "speed-round"
+  | "lang-explore"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -275,6 +277,11 @@ export default function AstroMagyarO4Page() {
     setActiveMission(mission);
     const gameType = mission.gameType;
     setActiveGameType(gameType);
+    // lang-explore doesn't need questions generation, component uses own generator
+    if (gameType === "lang-explore") {
+      setScreen("lang-explore");
+      return;
+    }
     const qs = generateIslandQuestionsO4(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
@@ -410,6 +417,13 @@ export default function AstroMagyarO4Page() {
       {screen === "speed-round" && questions.length > 0 && (
         <SpeedRound questions={questions} color={activeIsland?.color || "#FF6B9D"}
           lang={lang} onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {screen === "lang-explore" && activeIsland && (
+        <LangExplore
+          island={activeIsland}
+          grade={4}
+          onDone={(s, t) => handleMissionSuccess(s, t)}
+        />
       )}
 
       {/* Reward */}

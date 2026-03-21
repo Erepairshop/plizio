@@ -23,6 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import LangExplore from "@/app/astromagyar/games/LangExplore";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -57,6 +58,7 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "lang-explore"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -156,11 +158,17 @@ export default function AstroMagyar8Page() {
 
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
+    const gameType = mission.gameType;
+    // lang-explore doesn't need questions generation, component uses own generator
+    if (gameType === "lang-explore") {
+      setScreen("lang-explore");
+      return;
+    }
+    const qCount = gameType === "star-match" ? 20 : 10;
     const q = generateMagyarIslandQuestions(activeIsland!, 8, qCount);
     setQuestions(q);
     setMissionScore({ score: 0, total: q.length });
-    setScreen(mission.gameType as Screen);
+    setScreen(gameType as Screen);
   }, [activeIsland]);
 
   const handleCheckpointSelect = useCallback((testId: string) => {
@@ -464,6 +472,17 @@ export default function AstroMagyar8Page() {
         onDone={(s, t) => handleMissionComplete(s, t)}
         color={bgColor}
         lang={lang}
+      />
+    );
+  }
+
+  // Lang explore
+  if (screen === "lang-explore" && activeIsland) {
+    return (
+      <LangExplore
+        island={activeIsland}
+        grade={8}
+        onDone={(s, t) => handleMissionComplete(s, t)}
       />
     );
   }

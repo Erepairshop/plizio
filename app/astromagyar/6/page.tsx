@@ -23,6 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import LangExplore from "@/app/astromagyar/games/LangExplore";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -58,6 +59,7 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "lang-explore"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -268,11 +270,17 @@ export default function O6Page() {
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
+    const gameType = mission.gameType;
+    // lang-explore doesn't need questions generation, component uses own generator
+    if (gameType === "lang-explore") {
+      setScreen("lang-explore");
+      return;
+    }
     const qst = generateIslandQuestionsO6(activeIsland, lang as Lang, 10);
     setQuestions(qst);
     setScore(0);
     setTotal(qst.length);
-    setScreen(mission.gameType as Screen);
+    setScreen(gameType as Screen);
   }, [activeIsland, lang]);
 
   // Handle mission complete
@@ -413,13 +421,14 @@ export default function O6Page() {
       )}
 
       {/* GAME SCREENS */}
-      {(screen === "orbit-quiz" || screen === "black-hole" || screen === "gravity-sort" || screen === "star-match" || screen === "speed-round") && (
+      {(screen === "orbit-quiz" || screen === "black-hole" || screen === "gravity-sort" || screen === "star-match" || screen === "speed-round" || screen === "lang-explore") && (
         <div className="min-h-screen flex flex-col">
           {screen === "orbit-quiz" && <OrbitQuiz questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "black-hole" && <BlackHole questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "gravity-sort" && activeIsland && <GravitySort sortRange={activeIsland.sortRange} color={activeIsland.color} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "star-match" && <StarMatch questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
+          {screen === "lang-explore" && activeIsland && <LangExplore island={activeIsland} grade={6} onDone={(s, t) => handleAfterMission(s)} />}
         </div>
       )}
 
