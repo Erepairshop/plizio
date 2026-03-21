@@ -7,6 +7,7 @@ import {
   calculateSachkundeMark,
   SACHKUNDE_SUBTOPIC_HINTS,
 } from "@/lib/sachkundeCurriculum";
+import { SACHKUNDE_VISUAL_TYPES } from "@/lib/sachkundeVisualGenerators";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const SK_CHARS = ["🌿", "🐾", "🧲", "🌍", "💧", "☀️", "🌡️", "🧪", "🔬", "🗺️", "⚡", "🌳", "🦋", "🐝"];
@@ -43,6 +44,7 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
   curriculum: SACHKUNDE_CURRICULUM as any,
   getQuestions: getSachkundeQuestions as any,
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
+  visualTypes: SACHKUNDE_VISUAL_TYPES,
 
   labels: {
     selectCountry: "Wähle dein Land",
