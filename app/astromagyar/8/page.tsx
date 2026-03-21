@@ -42,7 +42,7 @@ import {
   completeMissionO8, completeTestO8, islandTotalStarsO8,
 } from "@/lib/astroMagyar8";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type IslandDef, type MissionDef, type Lang, type MagyarProgress, isMissionDone } from "@/lib/astroMagyar";
-import { O8_ISLAND_SVGS } from "@/app/astromagyar/islands";
+import { O8_ISLAND_SVGS } from "@/app/astromagyar/islands-o8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 

@@ -42,7 +42,7 @@ import {
   completeMissionO3, completeTestO3, islandTotalStarsO3,
   generateIslandQuestionsO3, generateCheckpointQuestionsO3,
 } from "@/lib/astroMagyar3";
-import { O1_ISLAND_SVGS } from "@/app/astromagyar/islands";
+import { O3_ISLAND_SVGS } from "@/app/astromagyar/islands-o3";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 

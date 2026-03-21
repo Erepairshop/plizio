@@ -43,7 +43,7 @@ import {
   generateIslandQuestionsO6, generateCheckpointQuestionsO6,
 } from "@/lib/astroMagyar6";
 import { type MagyarProgress } from "@/lib/astroMagyar";
-import { O6_ISLAND_SVGS } from "@/app/astromagyar/islands";
+import { O6_ISLAND_SVGS } from "@/app/astromagyar/islands-o6";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
