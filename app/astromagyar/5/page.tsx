@@ -2,7 +2,7 @@
 import React, { useState, useCallback } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { X, ChevronLeft } from "lucide-react";
+import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
@@ -52,7 +52,7 @@ import {
   completeMissionO5, completeTestO5, islandTotalStarsO5,
   generateIslandQuestionsO5, generateCheckpointQuestionsO5,
 } from "@/lib/astroMagyar5";
-import type { IslandDef, MissionDef, Lang, MagyarProgress } from "@/lib/astroMagyar";
+import type { IslandDef, MissionDef, Lang, MagyarProgress, MissionCategory } from "@/lib/astroMagyar";
 import { O5_ISLAND_SVGS } from "@/app/astromagyar/islands-o5";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -326,6 +326,28 @@ export default function AstroMagyarO5Page() {
   const [avatarJumpTrigger] = useState({ reaction: null as 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null, timestamp: 0 });
 
   const color = activeIsland?.color || "#FF2D78";
+  const bgColor = activeIsland?.color ?? "#FF2D78";
+  const CATEGORY_CONFIG: Record<string, {
+    label: Record<string, string>;
+    desc: Record<string, string>;
+    color: string; bg: string; border: string;
+  }> = {
+    explore: {
+      label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
+      desc: { en: "Discover — no wrong answers!", hu: "Fedezd fel — nincs hibás válasz!", de: "Entdecke — keine falschen Antworten!", ro: "Descoperă — fără răspunsuri greșite!" },
+      color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
+    },
+    build: {
+      label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" },
+      desc: { en: "Guided questions — take your time!", hu: "Vezérelt feladatok — nincs sietség!", de: "Geführte Aufgaben — kein Zeitdruck!", ro: "Exerciții ghidate — fără grabă!" },
+      color: "#34D399", bg: "rgba(52,211,153,0.12)", border: "rgba(52,211,153,0.35)",
+    },
+    challenge: {
+      label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
+      desc: { en: "Fast — show what you know!", hu: "Gyors — mutasd meg tudásod!", de: "Schnell — zeig was du kannst!", ro: "Rapid — arată ce știi!" },
+      color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
+    },
+  };
 
   // Handle island select
   const handleIslandSelect = useCallback((island: IslandDef) => {
@@ -438,7 +460,7 @@ export default function AstroMagyarO5Page() {
       {screen === "island-transition" && (
         <div className="relative z-30 min-h-screen flex flex-col items-center justify-center">
           <Starfield />
-          <RocketTransition color={activeIsland?.color || "#FF2D78"} onDone={() => setScreen("mission-select")} />
+          <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
         </div>
       )}
 
