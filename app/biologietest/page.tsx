@@ -14,8 +14,7 @@ import { getActiveSkin, getSkinDef } from "@/lib/skins";
 import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
-import { K5_CURRICULUM } from "@/lib/biologieCurriculum";
-import { GENERATORS, generateForSubtopics } from "@/lib/biologieGenerators";
+import { K5_CURRICULUM, getK5Questions } from "@/lib/biologieCurriculum";
 import type { BiologieQuestion } from "@/lib/biologieCurriculum";
 import { getUsername } from "@/lib/username";
 import { playCorrect, playIncorrect } from "@/lib/soundEffects";
@@ -62,8 +61,8 @@ export default function BiologieTestPage() {
 
   const startTest = () => {
     if (selectedTopics.size === 0) return;
-    const topics = Array.from(selectedTopics);
-    const qs = generateForSubtopics(topics, 5);
+    const subtopicIds = Array.from(selectedTopics);
+    const qs = getK5Questions(subtopicIds, 10);
     setQuestions(qs);
     setUserAnswers(new Array(qs.length).fill(null));
     setCurrentIndex(0);
@@ -188,8 +187,8 @@ export default function BiologieTestPage() {
 
             {/* Topics Grid */}
             <div className="grid gap-4 mb-8">
-              {Object.entries(K5_CURRICULUM.topics).map(([topicKey, topic]) => (
-                <div key={topicKey} className="space-y-2">
+              {K5_CURRICULUM.map((topic) => (
+                <div key={topic.id} className="space-y-2">
                   <h3 className="text-lg font-bold text-white/90">{topic.icon} {topic.name}</h3>
                   <div className="grid grid-cols-2 gap-2">
                     {topic.subtopics.map((sub) => (

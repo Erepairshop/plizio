@@ -1,122 +1,311 @@
 // ─── BIOLOGIE CURRICULUM (Klasse 5-8) ─────────────────────────────────────
-// Німецька біологія тест структура
+// Struktúra az englishCurriculum.ts mintájára
 // Klasse 5: Wirbeltiere, Pflanzen, Mein Körper, Sinnesorgane, Ernährung
+// Generátorok: biologieGenerators.ts-ben
 
-export type BiologieQuestion =
-  | BiologieMCQ
-  | BiologieTyping;
+import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import type { TestGradeMark } from "./languageTestTypes";
 
-export interface BiologieMCQ {
-  type: "mcq";
-  topic: string;
-  subtopic: string;
-  question: string;
-  options: string[];
-  correct: number;
-}
-
-export interface BiologieTyping {
-  type: "typing";
-  topic: string;
-  subtopic: string;
-  question: string;
-  answer: string | string[];
-}
+export type BiologieQuestion = CurriculumQuestion;
+export type BiologieTheme = CurriculumTheme;
 
 // ─── KLASSE 5 CURRICULUM ──────────────────────────────────────────────────
 
-const K5_TOPICS = {
-  wirbeltiere: {
+const K5: BiologieTheme[] = [
+  {
+    id: "wirbeltiere",
     name: "Wirbeltiere (Gerinces Állatok)",
     icon: "🐟",
     color: "#4CAF50",
     subtopics: [
-      { id: "fish", name: "Fische", description: "Halak - szervek, lebensraum" },
-      { id: "amphibian", name: "Lurchok (Amphibien)", description: "Kétéltűek - átalakulás" },
-      { id: "reptile", name: "Hüllők (Reptilien)", description: "Hüllők - szervezet" },
-      { id: "bird", name: "Madarak (Vögel)", description: "Madarak - röpülés, szervek" },
-      { id: "mammal", name: "Emlősök (Säugetiere)", description: "Emlősök - jellemzők" },
-      { id: "vertebrate_comparison", name: "Összehasonlítás", description: "Gerinces állatok összehasonlítása" },
-    ]
+      {
+        id: "fish",
+        name: "Fische",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "fish", question: "Welche Struktur haben Fische zum Atmen?", options: ["Branchien", "Lungen", "Tracheen", "Kiemensäcke"], correct: 0 },
+        ],
+      },
+      {
+        id: "amphibian",
+        name: "Lurchok (Amphibien)",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "amphibian", question: "Welche Metamorphose durchlaufen Amphibien?", options: ["Wassertier → Landtier", "Landtier → Wassertier", "Keine Änderung", "Farbwechsel"], correct: 0 },
+        ],
+      },
+      {
+        id: "reptile",
+        name: "Hüllők (Reptilien)",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "reptile", question: "Womit ist die Haut von Reptilien bedeckt?", options: ["Schuppen", "Federn", "Haaren", "Mucus"], correct: 0 },
+        ],
+      },
+      {
+        id: "bird",
+        name: "Madarak (Vögel)",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "bird", question: "Welche Anpassung ermöglicht Vögeln zu fliegen?", options: ["Hohlknochen", "Starke Muskeln", "Große Augen", "Wasserresistenz"], correct: 0 },
+        ],
+      },
+      {
+        id: "mammal",
+        name: "Emlősök (Säugetiere)",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "mammal", question: "Welches Merkmal haben alle Säugetiere?", options: ["Haare", "Schuppen", "Federn", "Panzer"], correct: 0 },
+        ],
+      },
+      {
+        id: "vertebrate_comparison",
+        name: "Összehasonlítás",
+        questions: [
+          { type: "mcq", topic: "wirbeltiere", subtopic: "vertebrate_comparison", question: "Welches ist ein Wirbellose Tier?", options: ["Insekt", "Fisch", "Vogel", "Säugetier"], correct: 0 },
+        ],
+      },
+    ],
   },
-  pflanzen: {
+  {
+    id: "pflanzen",
     name: "Pflanzen (Növények)",
     icon: "🌱",
     color: "#2196F3",
     subtopics: [
-      { id: "plant_parts", name: "Növényi Szervek", description: "Gyökér, szár, levél, virág" },
-      { id: "photosynthesis", name: "Fotoszintézis Alapok", description: "Fotoszintézis - fény, víz, CO2" },
-      { id: "flower_structure", name: "Virág Szerkezete", description: "Virág részei - beporzás" },
-      { id: "plant_reproduction", name: "Szaporodás", description: "Mag, csírázás, szaporodás" },
-      { id: "plant_types", name: "Növénytípusok", description: "Zöldnövények, virágos, fás" },
-    ]
+      {
+        id: "plant_parts",
+        name: "Növényi Szervek",
+        questions: [
+          { type: "mcq", topic: "pflanzen", subtopic: "plant_parts", question: "Welches Organ führt die Fotosynthese durch?", options: ["Blatt", "Wurzel", "Stamm", "Blüte"], correct: 0 },
+        ],
+      },
+      {
+        id: "photosynthesis",
+        name: "Fotoszintézis Alapok",
+        questions: [
+          { type: "mcq", topic: "pflanzen", subtopic: "photosynthesis", question: "Was ist die Hauptfunktion der Fotosynthese?", options: ["Energieproduktion", "Wasserspeicherung", "Stützung", "Fortpflanzung"], correct: 0 },
+        ],
+      },
+      {
+        id: "flower_structure",
+        name: "Virág Szerkezete",
+        questions: [
+          { type: "mcq", topic: "pflanzen", subtopic: "flower_structure", question: "Welcher Teil der Blüte produziert Pollen?", options: ["Staubgefäße", "Blütenkelch", "Krone", "Fruchtknoten"], correct: 0 },
+        ],
+      },
+      {
+        id: "plant_reproduction",
+        name: "Szaporodás",
+        questions: [
+          { type: "mcq", topic: "pflanzen", subtopic: "plant_reproduction", question: "Wie beginnt das Leben einer neuen Pflanze?", options: ["Samenkeimung", "Pollination", "Verblühen", "Verwelkung"], correct: 0 },
+        ],
+      },
+      {
+        id: "plant_types",
+        name: "Növénytípusok",
+        questions: [
+          { type: "mcq", topic: "pflanzen", subtopic: "plant_types", question: "Welche ist eine nicht blühende Pflanze?", options: ["Moos", "Rose", "Weizen", "Apfelbaum"], correct: 0 },
+        ],
+      },
+    ],
   },
-  koerper: {
+  {
+    id: "koerper",
     name: "Mein Körper (Testünk)",
     icon: "🦴",
     color: "#FF9800",
     subtopics: [
-      { id: "skeleton", name: "Csontváz", description: "Csontok, izomzat, mozgás" },
-      { id: "muscles", name: "Izmok (Muskeln)", description: "Izom típusok, működés" },
-      { id: "skin", name: "Bőr", description: "Bőr szerkezete, funkciói" },
-      { id: "body_systems", name: "Testrendszerek", description: "Keringési, légzési, emésztési" },
-    ]
+      {
+        id: "skeleton",
+        name: "Csontváz",
+        questions: [
+          { type: "mcq", topic: "koerper", subtopic: "skeleton", question: "Welcher Knochen schützt das Gehirn?", options: ["Schädel", "Wirbelsäule", "Rippen", "Becken"], correct: 0 },
+        ],
+      },
+      {
+        id: "muscles",
+        name: "Izmok (Muskeln)",
+        questions: [
+          { type: "mcq", topic: "koerper", subtopic: "muscles", question: "Welcher Muskel pumpt das Blut?", options: ["Herz", "Bizeps", "Zwerchfell", "Trizeps"], correct: 0 },
+        ],
+      },
+      {
+        id: "skin",
+        name: "Bőr",
+        questions: [
+          { type: "mcq", topic: "koerper", subtopic: "skin", question: "Welche ist die Hauptfunktion der Haut?", options: ["Schutz", "Bewegung", "Verdauung", "Sauerstofftransport"], correct: 0 },
+        ],
+      },
+      {
+        id: "body_systems",
+        name: "Testrendszerek",
+        questions: [
+          { type: "mcq", topic: "koerper", subtopic: "body_systems", question: "Welches System transportiert Sauerstoff im Körper?", options: ["Kreislauf", "Nerven", "Verdauung", "Hormon"], correct: 0 },
+        ],
+      },
+    ],
   },
-  sinnesorgane: {
+  {
+    id: "sinnesorgane",
     name: "Sinnesorgane (Érzékszervek)",
     icon: "👁️",
     color: "#E91E63",
     subtopics: [
-      { id: "eye", name: "Szem", description: "Szem szerkezete, látás" },
-      { id: "ear", name: "Fül", description: "Fül szerkezete, hallás" },
-      { id: "nose", name: "Orr (Nase)", description: "Szaglás, olfaktórium" },
-      { id: "tongue", name: "Nyelv (Zunge)", description: "Ízlelés, ízpapillák" },
-      { id: "skin_sense", name: "Bőr-érzékelés (Tastsinne)", description: "Tapintás, hő, fájdalom" },
-    ]
+      {
+        id: "eye",
+        name: "Szem",
+        questions: [
+          { type: "mcq", topic: "sinnesorgane", subtopic: "eye", question: "Welcher Teil des Auges nimmt Licht auf?", options: ["Netzhaut", "Iris", "Linse", "Hornhaut"], correct: 0 },
+        ],
+      },
+      {
+        id: "ear",
+        name: "Fül",
+        questions: [
+          { type: "mcq", topic: "sinnesorgane", subtopic: "ear", question: "Wo befinden sich die Hörzellen?", options: ["Innenohr", "Außenohr", "Mittelohr", "Trommelfell"], correct: 0 },
+        ],
+      },
+      {
+        id: "nose",
+        name: "Orr (Nase)",
+        questions: [
+          { type: "mcq", topic: "sinnesorgane", subtopic: "nose", question: "Welches Sinnesorgan ermöglicht Geruchssinn?", options: ["Nase", "Ohr", "Zunge", "Haut"], correct: 0 },
+        ],
+      },
+      {
+        id: "tongue",
+        name: "Nyelv (Zunge)",
+        questions: [
+          { type: "mcq", topic: "sinnesorgane", subtopic: "tongue", question: "Welche Strukturen ermöglichen den Geschmackssinn?", options: ["Geschmacksknospen", "Smakmoleküle", "Speichel", "Papillen"], correct: 0 },
+        ],
+      },
+      {
+        id: "skin_sense",
+        name: "Bőr-érzékelés (Tastsinne)",
+        questions: [
+          { type: "mcq", topic: "sinnesorgane", subtopic: "skin_sense", question: "Welcher Rezeptor im Körper ermöglicht Berührungsempfindung?", options: ["Mechanorezeptor", "Fotorezeptor", "Chemorezeptor", "Thermorezeptor"], correct: 0 },
+        ],
+      },
+    ],
   },
-  ernaehrung: {
+  {
+    id: "ernaehrung",
     name: "Ernährung & Verdauung",
     icon: "🍎",
     color: "#9C27B0",
     subtopics: [
-      { id: "nutrients", name: "Tápanyagok", description: "Fehérje, szén, zsír, vitamin" },
-      { id: "digestive_system", name: "Emésztőrendszer", description: "Szájüregpótlás → kiürülés" },
-      { id: "digestive_organs", name: "Emésztési Szervek", description: "Gyomor, hasnyálmirigy, máj" },
-      { id: "healthy_diet", name: "Egészséges Táplálkozás", description: "Étrend, kalóriaszükséglet" },
-    ]
+      {
+        id: "nutrients",
+        name: "Tápanyagok",
+        questions: [
+          { type: "mcq", topic: "ernaehrung", subtopic: "nutrients", question: "Welches Nährstoff liefert Energie?", options: ["Kohlenhydrate", "Vitamine", "Mineralstoffe", "Wasser"], correct: 0 },
+        ],
+      },
+      {
+        id: "digestive_system",
+        name: "Emésztőrendszer",
+        questions: [
+          { type: "mcq", topic: "ernaehrung", subtopic: "digestive_system", question: "Wo wird die meiste Nahrung verdaut?", options: ["Dünndarm", "Magen", "Mund", "Dickdarm"], correct: 0 },
+        ],
+      },
+      {
+        id: "digestive_organs",
+        name: "Emésztési Szervek",
+        questions: [
+          { type: "mcq", topic: "ernaehrung", subtopic: "digestive_organs", question: "Welches Organ produziert Verdauungsenzyme?", options: ["Bauchspeicheldrüse", "Leber", "Magen", "Mundspeicheldrüse"], correct: 0 },
+        ],
+      },
+      {
+        id: "healthy_diet",
+        name: "Egészséges Táplálkozás",
+        questions: [
+          { type: "mcq", topic: "ernaehrung", subtopic: "healthy_diet", question: "Welcher Nährstoff ist für starke Knochen wichtig?", options: ["Kalzium", "Eisen", "Natrium", "Kalium"], correct: 0 },
+        ],
+      },
+    ],
   },
-};
+];
 
-export const K5_CURRICULUM = {
-  grade: 5,
-  name: "Biologie Klasse 5",
-  description: "Wirbeltiere, Pflanzen, Körper, Sinne, Ernährung",
-  topics: K5_TOPICS,
+export const K5_CURRICULUM = K5;
 
-  // Subtopic ID-k listaként (rövidítésként a generátoroknak)
-  subtopicIds: [
-    // Wirbeltiere
-    "fish", "amphibian", "reptile", "bird", "mammal", "vertebrate_comparison",
-    // Pflanzen
-    "plant_parts", "photosynthesis", "flower_structure", "plant_reproduction", "plant_types",
-    // Körper
-    "skeleton", "muscles", "skin", "body_systems",
-    // Sinnesorgane
-    "eye", "ear", "nose", "tongue", "skin_sense",
-    // Ernährung
-    "nutrients", "digestive_system", "digestive_organs", "healthy_diet",
-  ]
-};
+// ─── GENERATOR MAP PLACEHOLDER (biologieGenerators.ts-ből importálva) ──────
 
-export function getK5Topics() {
-  return K5_TOPICS;
+export type BiologieGeneratorMap = Record<
+  number,
+  Record<string, Record<string, (seed?: number) => BiologieQuestion[]>>
+>;
+
+export let BIOLOGIE_GENERATOR_MAP: BiologieGeneratorMap = {};
+
+export function setBiologieGeneratorMap(map: BiologieGeneratorMap) {
+  BIOLOGIE_GENERATOR_MAP = map;
 }
 
-export function getK5SubtopicName(subtopicId: string): string {
-  for (const topicKey in K5_TOPICS) {
-    const topic = K5_TOPICS[topicKey as keyof typeof K5_TOPICS];
-    const sub = topic.subtopics.find((s) => s.id === subtopicId);
-    if (sub) return sub.name;
+// ─── GET QUESTIONS FUNCTION (English Test mintájára) ──────────────────────
+
+export function getK5Questions(
+  selectedSubtopicIds: string[],
+  count = 10
+): BiologieQuestion[] {
+  const themes = K5_CURRICULUM;
+  const pool: BiologieQuestion[] = [];
+  const generators = BIOLOGIE_GENERATOR_MAP[5];
+
+  if (!generators) {
+    // Fallback: csak a hardcoded questions-t használ
+    for (const theme of themes) {
+      for (const sub of theme.subtopics) {
+        if (selectedSubtopicIds.includes(sub.id)) {
+          pool.push(...sub.questions);
+        }
+      }
+    }
+    return pool.slice(0, count);
   }
-  return subtopicId;
+
+  // Generator-alapú
+  for (const theme of themes) {
+    for (const sub of theme.subtopics) {
+      if (selectedSubtopicIds.includes(sub.id)) {
+        // MCQ generátor
+        let generatorFn = generators[theme.id]?.[sub.id];
+        if (!generatorFn) {
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
+          }
+        }
+        if (generatorFn) {
+          pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
+        } else {
+          pool.push(...sub.questions);
+        }
+
+        // Typing generátor
+        const typingKey = sub.id + "_typing";
+        let typingFn = generators[theme.id]?.[typingKey];
+        if (!typingFn) {
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
+          }
+        }
+        if (typingFn) {
+          pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
+        }
+      }
+    }
+  }
+
+  // Fisher-Yates shuffle
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, count);
+}
+
+// ─── GRADING ──────────────────────────────────────────────────────────────
+
+export function calculateBiologieMark(pct: number): TestGradeMark {
+  if (pct >= 95) return { note: "1", label: "Sehr gut",    color: "#FFD700", emoji: "🌟" };
+  if (pct >= 80) return { note: "2", label: "Gut",         color: "#00FF88", emoji: "😊" };
+  if (pct >= 65) return { note: "3", label: "Befriedigend", color: "#00D4FF", emoji: "🙂" };
+  if (pct >= 50) return { note: "4", label: "Ausreichend", color: "#FF9500", emoji: "😐" };
+  if (pct >= 25) return { note: "5", label: "Mangelhaft",  color: "#FF6B00", emoji: "😅" };
+  return             { note: "6", label: "Ungenügend",     color: "#FF4444", emoji: "😟" };
 }
