@@ -138,6 +138,36 @@ export async function syncUsernameToSupabase(userId: string): Promise<void> {
   }
 }
 
+/** Change username (must be unique, user must be logged in) */
+export async function changeUsername(newName: string): Promise<{ ok: boolean; error?: string }> {
+  const trimmed = newName.trim();
+  if (trimmed.length < 2) return { ok: false, error: "min2" };
+  if (trimmed.length > 16) return { ok: false, error: "max16" };
+  if (!/^[a-zA-Z0-9\u00C0-\u024F_\-]+$/.test(trimmed)) return { ok: false, error: "invalid" };
+
+  const oldName = getUsername();
+  if (!oldName) return { ok: false, error: "no_username" };
+  if (trimmed === oldName) return { ok: true };
+
+  // Check availability
+  const available = await isNameAvailable(trimmed);
+  if (!available) return { ok: false, error: "taken" };
+
+  // Update in Supabase
+  const { error } = await supabase
+    .from("usernames")
+    .update({ name: trimmed, display_name: trimmed })
+    .eq("name", oldName);
+
+  if (error) {
+    if (error.code === "23505") return { ok: false, error: "taken" };
+    return { ok: false, error: error.message };
+  }
+
+  localStorage.setItem(USERNAME_KEY, trimmed);
+  return { ok: true };
+}
+
 /** Update last_seen timestamp */
 export async function updateLastSeen(): Promise<void> {
   const name = getUsername();

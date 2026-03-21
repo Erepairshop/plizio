@@ -1,8 +1,8 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import { ArrowLeft, LogOut, Star, Trophy, Flame, Mountain, Shield, Check, AlertCircle, Venus, Mars } from "lucide-react";
+import { useState, useEffect, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { ArrowLeft, LogOut, Star, Trophy, Flame, Mountain, Shield, Check, AlertCircle, Venus, Mars, Pencil, X, Mail, User } from "lucide-react";
 import Link from "next/link";
 import { getUser, signOut } from "@/lib/auth";
 import { getStats, MILESTONES, getClaimedMilestones } from "@/lib/milestones";
@@ -10,7 +10,8 @@ import { getSpecialCardCount } from "@/lib/specialCards";
 import { getCards } from "@/lib/cards";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
-import { getUsername } from "@/lib/username";
+import { getUsername, changeUsername } from "@/lib/username";
+import { supabase } from "@/lib/supabase/client";
 import { useLang } from "@/components/LanguageProvider";
 import { getGender, setGender, type AvatarGender } from "@/lib/gender";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
@@ -38,6 +39,19 @@ const T = {
     signOut: "Sign Out",
     girl: "Girl",
     boy: "Boy",
+    editName: "Edit name",
+    editEmail: "Edit email",
+    save: "Save",
+    cancel: "Cancel",
+    nameTaken: "Name already taken",
+    nameMin: "Min. 2 characters",
+    nameMax: "Max. 16 characters",
+    nameInvalid: "Letters, numbers, _ and - only",
+    nameSaved: "Name updated!",
+    emailSaved: "Confirmation email sent!",
+    emailError: "Could not update email",
+    name: "Name",
+    email: "Email",
   },
   hu: {
     title: "PROFIL",
@@ -57,6 +71,19 @@ const T = {
     signOut: "Kijelentkezés",
     girl: "Lány",
     boy: "Fiú",
+    editName: "Név szerkesztése",
+    editEmail: "Email szerkesztése",
+    save: "Mentés",
+    cancel: "Mégse",
+    nameTaken: "Ez a név már foglalt",
+    nameMin: "Min. 2 karakter",
+    nameMax: "Max. 16 karakter",
+    nameInvalid: "Csak betűk, számok, _ és -",
+    nameSaved: "Név frissítve!",
+    emailSaved: "Megerősítő email elküldve!",
+    emailError: "Nem sikerült módosítani az emailt",
+    name: "Név",
+    email: "Email",
   },
   de: {
     title: "PROFIL",
@@ -76,6 +103,19 @@ const T = {
     signOut: "Abmelden",
     girl: "Mädchen",
     boy: "Junge",
+    editName: "Name ändern",
+    editEmail: "E-Mail ändern",
+    save: "Speichern",
+    cancel: "Abbrechen",
+    nameTaken: "Name bereits vergeben",
+    nameMin: "Min. 2 Zeichen",
+    nameMax: "Max. 16 Zeichen",
+    nameInvalid: "Nur Buchstaben, Zahlen, _ und -",
+    nameSaved: "Name aktualisiert!",
+    emailSaved: "Bestätigungsmail gesendet!",
+    emailError: "E-Mail konnte nicht geändert werden",
+    name: "Name",
+    email: "E-Mail",
   },
   ro: {
     title: "PROFIL",
@@ -95,6 +135,19 @@ const T = {
     signOut: "Deconectare",
     girl: "Fată",
     boy: "Băiat",
+    editName: "Editare nume",
+    editEmail: "Editare email",
+    save: "Salvare",
+    cancel: "Anulare",
+    nameTaken: "Numele este deja luat",
+    nameMin: "Min. 2 caractere",
+    nameMax: "Max. 16 caractere",
+    nameInvalid: "Doar litere, cifre, _ și -",
+    nameSaved: "Nume actualizat!",
+    emailSaved: "Email de confirmare trimis!",
+    emailError: "Nu s-a putut modifica emailul",
+    name: "Nume",
+    email: "Email",
   },
 } as const;
 
@@ -115,6 +168,20 @@ export default function ProfilePage() {
 
   const [gender, setGenderState] = useState<AvatarGender>("girl");
   const [avatarMood, setAvatarMood] = useState<"idle" | "happy">("idle");
+
+  // Edit states
+  const [editingName, setEditingName] = useState(false);
+  const [editingEmail, setEditingEmail] = useState(false);
+  const [nameInput, setNameInput] = useState("");
+  const [emailInput, setEmailInput] = useState("");
+  const [nameError, setNameError] = useState("");
+  const [emailError, setEmailError] = useState("");
+  const [nameSuccess, setNameSuccess] = useState(false);
+  const [emailSuccess, setEmailSuccess] = useState(false);
+  const [saving, setSaving] = useState(false);
+  const [displayName, setDisplayName] = useState<string | null>(null);
+  const nameInputRef = useRef<HTMLInputElement>(null);
+  const emailInputRef = useRef<HTMLInputElement>(null);
   const [activeSkin, setActiveSkin] = useState<ReturnType<typeof getSkinDef> | null>(null);
   const [activeFace, setActiveFace] = useState<ReturnType<typeof getFaceDef> | null>(null);
   const [activeTop, setActiveTop] = useState<ReturnType<typeof getTopDef> | null>(null);
@@ -141,6 +208,7 @@ export default function ProfilePage() {
     };
     init();
     refreshStats();
+    setDisplayName(getUsername());
     setGenderState(getGender());
     setActiveSkin(getSkinDef(getActiveSkin()));
     setActiveFace(getFaceDef(getActiveFace()));
@@ -185,6 +253,60 @@ export default function ProfilePage() {
     setGenderState(g);
     setAvatarMood("happy");
     setTimeout(() => setAvatarMood("idle"), 1500);
+  };
+
+  const startEditName = () => {
+    setNameInput(displayName || "");
+    setNameError("");
+    setNameSuccess(false);
+    setEditingName(true);
+    setTimeout(() => nameInputRef.current?.focus(), 50);
+  };
+
+  const handleSaveName = async () => {
+    if (saving) return;
+    setSaving(true);
+    setNameError("");
+    const result = await changeUsername(nameInput);
+    setSaving(false);
+    if (result.ok) {
+      setDisplayName(nameInput.trim());
+      setEditingName(false);
+      setNameSuccess(true);
+      setTimeout(() => setNameSuccess(false), 2500);
+    } else {
+      const errMap: Record<string, string> = { taken: t.nameTaken, min2: t.nameMin, max16: t.nameMax, invalid: t.nameInvalid };
+      setNameError(errMap[result.error || ""] || result.error || "Error");
+    }
+  };
+
+  const startEditEmail = () => {
+    setEmailInput(user?.email || "");
+    setEmailError("");
+    setEmailSuccess(false);
+    setEditingEmail(true);
+    setTimeout(() => emailInputRef.current?.focus(), 50);
+  };
+
+  const handleSaveEmail = async () => {
+    if (saving || !user) return;
+    const trimmed = emailInput.trim();
+    if (!trimmed || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) {
+      setEmailError("Invalid email");
+      return;
+    }
+    if (trimmed === user.email) { setEditingEmail(false); return; }
+    setSaving(true);
+    setEmailError("");
+    const { error } = await supabase.auth.updateUser({ email: trimmed });
+    setSaving(false);
+    if (error) {
+      setEmailError(t.emailError);
+    } else {
+      setEditingEmail(false);
+      setEmailSuccess(true);
+      setTimeout(() => setEmailSuccess(false), 3000);
+    }
   };
 
   if (loading) {
@@ -268,15 +390,100 @@ export default function ProfilePage() {
           </motion.button>
         </div>
 
-        {/* Username + email */}
-        {getUsername() && (
-          <span className="text-white font-bold text-lg">{getUsername()}</span>
-        )}
-        {user ? (
-          <span className="text-white/30 text-xs">{user.email}</span>
-        ) : (
-          <span className="text-white/30 text-sm">{t.notSignedIn}</span>
-        )}
+        {/* Username */}
+        <div className="flex flex-col items-center gap-1 w-full max-w-xs">
+          <AnimatePresence mode="wait">
+            {editingName ? (
+              <motion.div key="edit-name" className="flex items-center gap-2 w-full"
+                initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }}>
+                <div className="flex-1 relative">
+                  <User size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/30" />
+                  <input ref={nameInputRef} value={nameInput} onChange={e => setNameInput(e.target.value)}
+                    maxLength={16}
+                    onKeyDown={e => { if (e.key === "Enter") handleSaveName(); if (e.key === "Escape") setEditingName(false); }}
+                    className="w-full bg-white/5 border border-white/20 rounded-xl pl-9 pr-3 py-2.5 text-white text-sm font-bold outline-none focus:border-[#E040FB]/50 transition-colors"
+                    placeholder={t.name} />
+                </div>
+                <motion.button onClick={handleSaveName} disabled={saving}
+                  className="bg-neon-green/15 border border-neon-green/40 text-neon-green p-2.5 rounded-xl disabled:opacity-50"
+                  whileTap={{ scale: 0.9 }}>
+                  <Check size={16} />
+                </motion.button>
+                <motion.button onClick={() => setEditingName(false)}
+                  className="bg-white/5 border border-white/10 text-white/40 p-2.5 rounded-xl"
+                  whileTap={{ scale: 0.9 }}>
+                  <X size={16} />
+                </motion.button>
+              </motion.div>
+            ) : (
+              <motion.div key="show-name" className="flex items-center gap-2"
+                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+                {displayName ? (
+                  <span className="text-white font-bold text-lg">{displayName}</span>
+                ) : (
+                  <span className="text-white/30 text-sm">{t.notSignedIn}</span>
+                )}
+                {displayName && (
+                  <motion.button onClick={startEditName}
+                    className="text-white/20 hover:text-white/50 transition-colors"
+                    whileTap={{ scale: 0.85 }}>
+                    <Pencil size={14} />
+                  </motion.button>
+                )}
+              </motion.div>
+            )}
+          </AnimatePresence>
+          {nameError && <span className="text-neon-pink text-xs font-bold">{nameError}</span>}
+          {nameSuccess && <motion.span className="text-neon-green text-xs font-bold"
+            initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }}>{t.nameSaved}</motion.span>}
+        </div>
+
+        {/* Email */}
+        <div className="flex flex-col items-center gap-1 w-full max-w-xs">
+          <AnimatePresence mode="wait">
+            {editingEmail ? (
+              <motion.div key="edit-email" className="flex items-center gap-2 w-full"
+                initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -5 }}>
+                <div className="flex-1 relative">
+                  <Mail size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/30" />
+                  <input ref={emailInputRef} type="email" value={emailInput} onChange={e => setEmailInput(e.target.value)}
+                    onKeyDown={e => { if (e.key === "Enter") handleSaveEmail(); if (e.key === "Escape") setEditingEmail(false); }}
+                    className="w-full bg-white/5 border border-white/20 rounded-xl pl-9 pr-3 py-2.5 text-white text-sm font-bold outline-none focus:border-[#00D4FF]/50 transition-colors"
+                    placeholder={t.email} />
+                </div>
+                <motion.button onClick={handleSaveEmail} disabled={saving}
+                  className="bg-neon-green/15 border border-neon-green/40 text-neon-green p-2.5 rounded-xl disabled:opacity-50"
+                  whileTap={{ scale: 0.9 }}>
+                  <Check size={16} />
+                </motion.button>
+                <motion.button onClick={() => setEditingEmail(false)}
+                  className="bg-white/5 border border-white/10 text-white/40 p-2.5 rounded-xl"
+                  whileTap={{ scale: 0.9 }}>
+                  <X size={16} />
+                </motion.button>
+              </motion.div>
+            ) : (
+              <motion.div key="show-email" className="flex items-center gap-2"
+                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+                {user ? (
+                  <>
+                    <span className="text-white/30 text-xs">{user.email}</span>
+                    <motion.button onClick={startEditEmail}
+                      className="text-white/20 hover:text-white/50 transition-colors"
+                      whileTap={{ scale: 0.85 }}>
+                      <Pencil size={12} />
+                    </motion.button>
+                  </>
+                ) : (
+                  <span className="text-white/30 text-sm">{t.notSignedIn}</span>
+                )}
+              </motion.div>
+            )}
+          </AnimatePresence>
+          {emailError && <span className="text-neon-pink text-xs font-bold">{emailError}</span>}
+          {emailSuccess && <motion.span className="text-neon-green text-xs font-bold"
+            initial={{ opacity: 0, y: -5 }} animate={{ opacity: 1, y: 0 }}>{t.emailSaved}</motion.span>}
+        </div>
 
         {/* Sign in button (not logged in) */}
         {!user && (
