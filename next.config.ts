@@ -6,9 +6,6 @@ const nextConfig: NextConfig = {
   webpack: (config: unknown) => {
     return config;
   },
-  experimental: {
-    // Disable Turbopack if issues arise
-  },
 };
 
 export default nextConfig;

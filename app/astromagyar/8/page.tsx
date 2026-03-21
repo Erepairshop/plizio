@@ -180,6 +180,13 @@ export default function AstroMagyar8Page() {
       setScreen("lang-explore");
       return;
     }
+    // Explorer components: self-contained, no questions needed
+    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    if (explorerTypes.includes(gameType)) {
+      setMissionScore({ score: 0, total: 0 });
+      setScreen(gameType as Screen);
+      return;
+    }
     const qCount = gameType === "star-match" ? 20 : 10;
     const q = generateMagyarIslandQuestions(activeIsland!, 8, qCount);
     setQuestions(q);
@@ -500,6 +507,56 @@ export default function AstroMagyar8Page() {
         grade={8}
         onDone={(s, t) => handleMissionComplete(s, t)}
       />
+    );
+  }
+
+  // Explorer Components
+  if (screen === "letter-explorer") {
+    return (
+      <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "syllable-explorer") {
+    return (
+      <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "spelling-explorer") {
+    return (
+      <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "noun-explorer") {
+    return (
+      <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "verb-explorer") {
+    return (
+      <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "sentence-explorer") {
+    return (
+      <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "eset-explorer") {
+    return (
+      <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "review-explorer-hu") {
+    return (
+      <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+        onDone={(s, t) => handleMissionComplete(s, t)} />
     );
   }
 

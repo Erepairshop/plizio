@@ -316,12 +316,9 @@ export default function AstroMagyarO1Page() {
       setScreen("lang-explore");
       return;
     }
-    // Explorer components: generate questions and set screen
+    // Explorer components: self-contained, no questions needed
     const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
     if (explorerTypes.includes(gameType)) {
-      const qCount = gameType === "star-match" ? 20 : 10;
-      const qs = generateMagyarIslandQuestions(activeIsland!, 1, qCount);
-      setQuestions(qs);
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
       return;
@@ -468,36 +465,36 @@ export default function AstroMagyarO1Page() {
       )}
 
       {/* Explorer Screens */}
-      {screen === "letter-explorer" && questions.length > 0 && (
-        <LetterExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "letter-explorer" && (
+        <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "syllable-explorer" && questions.length > 0 && (
-        <SyllableExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "syllable-explorer" && (
+        <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "spelling-explorer" && questions.length > 0 && (
-        <SpellingExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "spelling-explorer" && (
+        <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "noun-explorer" && questions.length > 0 && (
-        <NounExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "noun-explorer" && (
+        <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "verb-explorer" && questions.length > 0 && (
-        <VerbExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "verb-explorer" && (
+        <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "sentence-explorer" && questions.length > 0 && (
-        <SentenceExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "sentence-explorer" && (
+        <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "eset-explorer" && questions.length > 0 && (
-        <EsetExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "eset-explorer" && (
+        <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
-      {screen === "review-explorer-hu" && questions.length > 0 && (
-        <ReviewExplorer questions={questions} lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+      {screen === "review-explorer-hu" && (
+        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
       )}
       {screen === "speed-round" && questions.length > 0 && (
