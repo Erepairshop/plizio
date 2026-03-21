@@ -195,10 +195,10 @@ export default function AstroSachkundeGalaxyPage() {
     const p2 = loadSKG2Progress();
     const p3 = loadSKG3Progress();
     const p4 = loadSKG4Progress();
-    setG1Done(p1.completedTopics.length);
-    setG2Done(p2.completedTopics.length);
-    setG3Done(p3.completedTopics.length);
-    setG4Done(p4.completedTopics.length);
+    setG1Done(p1.completedIslands.length);
+    setG2Done(p2.completedIslands.length);
+    setG3Done(p3.completedIslands.length);
+    setG4Done(p4.completedIslands.length);
   }, []);
 
   return (

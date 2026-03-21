@@ -4,9 +4,16 @@
 
 import type { IslandDef, L10n, MissionDef, Lang } from "./astromath";
 import type { MathQuestion } from "./mathCurriculum";
-import type { SachkundeProgress } from "./astroSachkundeInternal";
-import { completeMissionSK } from "./astroSachkundeInternal";
-import { GN_Generators_Sachkunde as G2_Sachkunde } from "./sachkundeGenerators2";
+// SachkundeProgress defined locally
+
+export interface SachkundeProgress {
+  completedMissions: string[];
+  completedIslands: string[];
+  completedTests: string[];
+  missionStars: Record<string, number>;
+}
+
+import { G2_Generators_Sachkunde as G2_Sachkunde } from "./sachkundeGenerators2";
 
 // ─── Constants ──────────────────────────────────────────────────────
 
@@ -80,31 +87,12 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 function toMathQuestion(q: any): MathQuestion {
-  if (q.type === "mcq") {
-    return {
-      type: "mcq",
-      question: q.question,
-      options: q.options,
-      correct: q.correct,
-      topic: q.topic || "sachkunde",
-      subtopic: q.subtopic || "sachkunde_g2",
-    };
-  }
-  if (q.type === "true-false") {
-    return {
-      type: "true-false",
-      question: q.question,
-      correct: q.correct,
-      topic: q.topic || "sachkunde",
-      subtopic: q.subtopic || "sachkunde_g2",
-    };
-  }
   return {
-    type: "text",
     question: q.question,
-    correct: q.correct || "",
-    topic: q.topic || "sachkunde",
-    subtopic: q.subtopic || "sachkunde_g2",
+    correctAnswer: q.options ? q.options[q.correct] : String(q.correct),
+    options: q.options || [],
+    topic: q.subtopic || q.topic || "sachkunde",
+    isWordProblem: false,
   };
 }
 
