@@ -32,6 +32,11 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -75,6 +80,12 @@ type Screen =
   | "sentence-explorer"
   | "eset-explorer"
   | "review-explorer-hu"
+  | "review-explorer"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -310,7 +321,7 @@ export default function AstroMagyarO3Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu", "review-explorer", "sentence-builder", "memory-pair", "picture-word", "category-rush", "reading-comp"];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
@@ -419,8 +430,55 @@ export default function AstroMagyarO3Page() {
         <div className="min-h-screen bg-[#060614] relative">
           <Starfield />
           <RocketTransition color={activeIsland?.color ?? "#4ECDC4"}
-            onDone={() => setScreen("island-intro")} />
+            onDone={() => setScreen("mission-select")} />
         </div>
+      )}
+
+      {/* Mission Select */}
+      {screen === "mission-select" && activeIsland && (
+        <motion.div className="fixed inset-0 z-40 bg-[#060614] flex flex-col overflow-auto"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center px-4 py-3 border-b border-white/10">
+            <button onClick={() => { setActiveIsland(null); setScreen("island-map"); }}
+              className="text-white/70 hover:text-white transition"><ChevronLeft size={20} /></button>
+            <div className="flex-1 text-center">
+              <span className="text-lg mr-2">{activeIsland.icon}</span>
+              <span className="font-bold text-white/90">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</span>
+            </div>
+            <div className="w-5" />
+          </div>
+          <div className="relative z-10 flex-1 p-4 space-y-3">
+            {activeIsland.missions.map((m, idx) => {
+              const mKey = `${activeIsland.id}_${m.id}`;
+              const done = isMissionDoneO3(progress, activeIsland.id, m.id);
+              const stars = progress.missionStars[mKey] ?? 0;
+              return (
+                <motion.button key={m.id} onClick={() => handleMissionSelect(m)}
+                  className="w-full flex items-center gap-3 p-4 rounded-xl transition-all"
+                  style={{ background: done ? `${activeIsland.color}22` : "rgba(255,255,255,0.06)",
+                    border: `2px solid ${done ? activeIsland.color : "rgba(255,255,255,0.1)"}` }}
+                  initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: idx * 0.1 }}>
+                  <div className="w-10 h-10 rounded-lg flex items-center justify-center text-lg font-black"
+                    style={{ background: done ? activeIsland.color : "rgba(255,255,255,0.1)",
+                      color: done ? "white" : "rgba(255,255,255,0.5)" }}>
+                    {done ? "✓" : idx + 1}
+                  </div>
+                  <div className="flex-1 text-left">
+                    <p className="font-bold text-white/90 text-sm">{m.label?.[lang as Lang] ?? m.label?.en ?? `Mission ${idx + 1}`}</p>
+                    <p className="text-white/50 text-xs">{m.gameType}</p>
+                  </div>
+                  <div className="flex gap-0.5">
+                    {[1, 2, 3].map(s => (
+                      <span key={s} className="text-xs" style={{ opacity: s <= stars ? 1 : 0.2 }}>⭐</span>
+                    ))}
+                  </div>
+                </motion.button>
+              );
+            })}
+          </div>
+        </motion.div>
       )}
 
       {/* Island Complete Animation */}
@@ -455,9 +513,9 @@ export default function AstroMagyarO3Page() {
               <h2 className="text-2xl font-black mb-2">Gratulálunk!</h2>
               <p className="text-white/70 text-sm">Misszió teljesítve</p>
             </div>
-            <button onClick={() => setScreen("island-intro")}
+            <button onClick={() => setScreen("mission-select")}
               className="px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-white/90 transition">
-              Vissza
+              {lang === "hu" ? "Tovább" : "Continue"}
             </button>
           </div>
         </motion.div>
@@ -545,9 +603,47 @@ export default function AstroMagyarO3Page() {
         <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
-      {screen === "review-explorer-hu" && (
-        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionComplete(s, t)} />
+      {(screen === "review-explorer-hu" || screen === "review-explorer") && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+      {screen === "sentence-builder" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <SentenceBuilderExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+      {screen === "memory-pair" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <MemoryPairExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+      {screen === "picture-word" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <PictureVocabExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+      {screen === "category-rush" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <CategoryRushExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+      {screen === "reading-comp" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <ReadingCompExplorer lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
       )}
 
       {/* Checkpoint Intro */}
