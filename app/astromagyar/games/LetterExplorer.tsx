@@ -1,6 +1,7 @@
 "use client";
-// LetterExplorer — Island i1: Buchstaben (Letters)
-// Teaches: vowels (A E I O U), uppercase/lowercase, alphabet order
+// LetterExplorer — Island i1: Betűk (Letters)
+// Teaches: Hungarian vowels (14!), uppercase/lowercase, Hungarian alphabet order
+// Hungarian alphabet: 44 letters including digraphs (CS, GY, LY, NY, SZ, TY, ZS) and trigraph (DZS)
 // Pure guided discovery — no wrong answers, step-by-step.
 
 import { memo, useState, useCallback } from "react";
@@ -11,20 +12,20 @@ import { SpeakButton } from "@/lib/astromath-tts";
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     title: "Letter Explorer",
-    round1Title: "The Alphabet",
-    round1Hint: "Tap each vowel — A E I O U!",
-    round1Reveal: "Great! These are vowels!",
+    round1Title: "The Hungarian Alphabet",
+    round1Hint: "Tap each vowel — A Á E É I Í O Ó Ö Ő U Ú Ü Ű (14 vowels!)",
+    round1Reveal: "Great! Hungarian has 14 vowels — including accented ones!",
     vokal: "Vowel",
     konsonant: "Consonant",
     round2Title: "Vowel or Consonant?",
     round2Hint: "Is this letter a vowel or a consonant?",
     round3Title: "Big & Small Letters",
     round3Hint: "Tap the matching lowercase letter!",
-    round4Title: "ABC Order",
-    round4Hint: "Put the letters in ABC order — tap in order!",
-    round4Reveal: "Correct ABC order!",
+    round4Title: "Hungarian Alphabet Order",
+    round4Hint: "Put the letters in Hungarian ABC order — tap in order!",
+    round4Reveal: "Correct Hungarian ABC order!",
     round5Title: "Quick Review",
-    round5Hint: "Tap all the vowels!",
+    round5Hint: "Tap all the vowels! (A Á E É I Í O Ó Ö Ő U Ú Ü Ű)",
     well: "Well done!",
     next: "Next",
     finish: "Finished!",
@@ -32,20 +33,20 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     title: "Betű felfedező",
-    round1Title: "Az ábécé",
-    round1Hint: "Koppints minden magánhangzóra — A E I O U!",
-    round1Reveal: "Szuper! Ezek a magánhangzók!",
+    round1Title: "A magyar ábécé",
+    round1Hint: "Koppints minden magánhangzóra — A Á E É I Í O Ó Ö Ő U Ú Ü Ű (14 magánhangzó!)",
+    round1Reveal: "Szuper! A magyarban 14 magánhangzó van — az ékezetes betűk is azok!",
     vokal: "Magánhangzó",
     konsonant: "Mássalhangzó",
     round2Title: "Magánhangzó vagy mássalhangzó?",
     round2Hint: "Ez a betű magánhangzó vagy mássalhangzó?",
     round3Title: "Nagy és kis betűk",
     round3Hint: "Koppints a megfelelő kisbetűre!",
-    round4Title: "ÁBÉ sorrend",
-    round4Hint: "Rendezd ábécé sorba — koppints sorban!",
-    round4Reveal: "Helyes ábécé sorrend!",
+    round4Title: "Magyar ábécé sorrend",
+    round4Hint: "Rendezd magyar ábécé sorba — koppints sorban!",
+    round4Reveal: "Helyes magyar ábécé sorrend!",
     round5Title: "Gyors összefoglalás",
-    round5Hint: "Koppints minden magánhangzóra!",
+    round5Hint: "Koppints minden magánhangzóra! (A Á E É I Í O Ó Ö Ő U Ú Ü Ű)",
     well: "Remek!",
     next: "Tovább",
     finish: "Vége!",
@@ -53,20 +54,20 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     title: "Buchstaben-Entdecker",
-    round1Title: "Das Alphabet",
-    round1Hint: "Tippe auf jeden Vokal — A E I O U!",
-    round1Reveal: "Super! Das sind Vokale!",
+    round1Title: "Das ungarische Alphabet",
+    round1Hint: "Tippe auf jeden Vokal — A Á E É I Í O Ó Ö Ő U Ú Ü Ű (14 Vokale!)",
+    round1Reveal: "Super! Das Ungarische hat 14 Vokale — auch die Buchstaben mit Akzent!",
     vokal: "Vokal",
     konsonant: "Konsonant",
     round2Title: "Vokal oder Konsonant?",
     round2Hint: "Ist dieser Buchstabe ein Vokal oder Konsonant?",
     round3Title: "Groß- und Kleinbuchstaben",
     round3Hint: "Tippe auf den passenden Kleinbuchstaben!",
-    round4Title: "ABC-Reihenfolge",
-    round4Hint: "Bringe die Buchstaben in ABC-Reihenfolge — tippe der Reihe nach!",
-    round4Reveal: "Richtige ABC-Reihenfolge!",
+    round4Title: "Ungarische ABC-Reihenfolge",
+    round4Hint: "Bringe die Buchstaben in ungarische ABC-Reihenfolge — tippe der Reihe nach!",
+    round4Reveal: "Richtige ungarische ABC-Reihenfolge!",
     round5Title: "Schnelle Wiederholung",
-    round5Hint: "Tippe alle Vokale an!",
+    round5Hint: "Tippe alle Vokale an! (A Á E É I Í O Ó Ö Ő U Ú Ü Ű)",
     well: "Toll gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -74,20 +75,20 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     title: "Exploratorul literelor",
-    round1Title: "Alfabetul",
-    round1Hint: "Atinge fiecare vocală — A E I O U!",
-    round1Reveal: "Super! Acestea sunt vocale!",
+    round1Title: "Alfabetul maghiar",
+    round1Hint: "Atinge fiecare vocală — A Á E É I Í O Ó Ö Ő U Ú Ü Ű (14 vocale!)",
+    round1Reveal: "Super! Maghiara are 14 vocale — inclusiv literele cu accent!",
     vokal: "Vocală",
     konsonant: "Consoană",
     round2Title: "Vocală sau consoană?",
     round2Hint: "Această literă este vocală sau consoană?",
     round3Title: "Litere mari și mici",
     round3Hint: "Atinge litera mică potrivită!",
-    round4Title: "Ordinea alfabetului",
-    round4Hint: "Pune literele în ordine — atinge în ordine!",
-    round4Reveal: "Ordinea corectă!",
+    round4Title: "Ordinea alfabetului maghiar",
+    round4Hint: "Pune literele în ordine maghiară — atinge în ordine!",
+    round4Reveal: "Ordinea corectă în maghiară!",
     round5Title: "Recapitulare rapidă",
-    round5Hint: "Atinge toate vocalele!",
+    round5Hint: "Atinge toate vocalele! (A Á E É I Í O Ó Ö Ő U Ú Ü Ű)",
     well: "Bravo!",
     next: "Înainte",
     finish: "Gata!",
@@ -95,28 +96,52 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const VOWELS = new Set(["A", "E", "I", "O", "U"]);
-const ALPHABET_SAMPLE = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+// Hungarian alphabet — 44 letters (including digraphs and trigraph)
+// Order: A Á B C CS D DZ DZS E É F G GY H I Í J K L LY M N NY O Ó Ö Ő P R S SZ T TY U Ú Ü Ű V Z ZS
+const ALPHABET_SAMPLE = [
+  "A", "Á", "B", "C", "CS", "D", "DZ", "DZS",
+  "E", "É", "F", "G", "GY", "H", "I", "Í",
+  "J", "K", "L", "LY", "M", "N", "NY",
+  "O", "Ó", "Ö", "Ő", "P", "R",
+  "S", "SZ", "T", "TY", "U", "Ú", "Ü", "Ű",
+  "V", "Z", "ZS",
+];
+
+// Hungarian alphabetical sort order index (for Round 4 sorting)
+const HU_ALPHA_ORDER: Record<string, number> = {};
+ALPHABET_SAMPLE.forEach((l, i) => { HU_ALPHA_ORDER[l] = i; });
+
+// 14 Hungarian vowels
+const VOWELS = new Set(["A", "Á", "E", "É", "I", "Í", "O", "Ó", "Ö", "Ő", "U", "Ú", "Ü", "Ű"]);
+
 const VOKAL_COLOR = "#FF2D78";
 const KONS_COLOR = "#00D4FF";
 
-// Round 2: single letter classification
-const CLASSIFY_LETTERS = ["A", "B", "E", "K", "I", "T", "O", "M", "U", "R"];
+// Round 2: single letter classification — mix of plain and accented, vowels and consonants
+const CLASSIFY_LETTERS = ["A", "B", "Á", "K", "É", "T", "Ő", "M", "Ü", "R", "Í", "N"];
 
-// Round 3: uppercase → lowercase pairs
+// Round 3: uppercase → lowercase pairs — include accented Hungarian letters
 const UPPER_LOWER_PAIRS: [string, string][] = [
-  ["A", "a"], ["B", "b"], ["E", "e"], ["K", "k"], ["M", "m"],
+  ["A", "a"], ["Á", "á"], ["E", "e"], ["É", "é"],
+  ["Ö", "ö"], ["Ő", "ő"], ["Ü", "ü"], ["Ű", "ű"],
 ];
 
-// Round 4: 4-letter sets to sort
+// Round 4: 4-letter sets to sort in Hungarian alphabetical order
+// Using single letters only for simplicity (digraphs would be harder to sort visually)
 const SORT_SETS: string[][] = [
-  ["D", "A", "C", "B"],
-  ["G", "E", "H", "F"],
-  ["K", "I", "L", "J"],
+  ["Á", "A", "B", "C"],       // A < Á < B < C
+  ["É", "E", "F", "G"],       // E < É < F < G
+  ["Ó", "O", "Ö", "Ő"],       // O < Ó < Ö < Ő
+  ["Ú", "U", "Ü", "Ű"],       // U < Ú < Ü < Ű
 ];
 
-// Round 5: mixed 8 letters, tap the vowels
-const REVIEW_LETTERS = ["E", "T", "A", "N", "I", "S", "O", "R"];
+// Sort a set of letters by Hungarian alphabetical order
+function huSort(letters: string[]): string[] {
+  return [...letters].sort((a, b) => (HU_ALPHA_ORDER[a] ?? 99) - (HU_ALPHA_ORDER[b] ?? 99));
+}
+
+// Round 5: mixed 10 letters — includes accented vowels and consonants
+const REVIEW_LETTERS = ["É", "T", "Á", "N", "Í", "S", "Ő", "R", "Ű", "K"];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
   return (
@@ -140,25 +165,30 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
   );
 }
 
-// ─── Round 1: Tap vowels in alphabet ─────────────────────────────────────────
+// ─── Round 1: Tap all 14 Hungarian vowels in the alphabet ────────────────────
 function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [tapped, setTapped] = useState<Set<string>>(new Set());
-  const allVowelsTapped = ["A", "E", "I", "O", "U"].every(v => tapped.has(v));
+  const allVowelsTapped = [...VOWELS].every(v => tapped.has(v));
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="flex flex-wrap gap-2 justify-center">
+      <div className="flex flex-wrap gap-1.5 justify-center">
         {ALPHABET_SAMPLE.map(letter => {
           const isVokal = VOWELS.has(letter);
           const isTapped = tapped.has(letter);
           const isCorrectTap = isVokal && isTapped;
+          // Digraphs and trigraph get slightly wider buttons
+          const isMulti = letter.length > 1;
           return (
             <motion.button key={letter}
               onClick={() => { if (isVokal) setTapped(prev => new Set([...prev, letter])); }}
-              className="w-9 h-9 rounded-lg flex items-center justify-center font-black text-base"
+              className="h-9 rounded-lg flex items-center justify-center font-black text-sm"
               style={{
+                minWidth: isMulti ? "2.75rem" : "2.25rem",
+                paddingLeft: isMulti ? "6px" : undefined,
+                paddingRight: isMulti ? "6px" : undefined,
                 background: isCorrectTap ? `${VOKAL_COLOR}33` : "rgba(255,255,255,0.06)",
                 border: `2px solid ${isCorrectTap ? VOKAL_COLOR : "rgba(255,255,255,0.15)"}`,
                 color: isCorrectTap ? VOKAL_COLOR : "rgba(255,255,255,0.7)",
@@ -171,12 +201,15 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           );
         })}
       </div>
+      <div className="text-white/50 text-xs font-bold text-center">
+        {tapped.size} / {VOWELS.size} ✅
+      </div>
       {allVowelsTapped && (
         <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
           className="w-full rounded-2xl px-4 py-3 text-center"
           style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
           <p className="text-[#00FF88] font-black">🎉 {lbl.round1Reveal}</p>
-          <p className="text-white/50 text-xs mt-1">A · E · I · O · U</p>
+          <p className="text-white/50 text-xs mt-1">A · Á · E · É · I · Í · O · Ó · Ö · Ő · U · Ú · Ü · Ű</p>
         </motion.div>
       )}
       {allVowelsTapped && <NextBtn onClick={onNext} label={lbl.next} color={color} />}
@@ -240,7 +273,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex items-center justify-center">
-        <SpeakButton text={letter} lang="de" size={16} />
+        <SpeakButton text={letter} lang="hu" size={16} />
       </div>
       <div className="flex gap-3 w-full">
         {(["vokal", "konsonant"] as const).map(type => (
@@ -274,16 +307,12 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 // ─── Round 3: Match uppercase to lowercase ────────────────────────────────────
 function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [pairIdx, setPairIdx] = useState(0);
-  const [shuffled] = useState(() =>
-    [...UPPER_LOWER_PAIRS[0][1] ? UPPER_LOWER_PAIRS.map(p => p[1]) : []].sort(() => Math.random() - 0.5)
-  );
   const [choices] = useState(() => UPPER_LOWER_PAIRS.map(([, lower]) => {
-    const opts = [lower, ...UPPER_LOWER_PAIRS.filter(p => p[1] !== lower).slice(0, 2).map(p => p[1])].sort(() => Math.random() - 0.5);
-    return opts;
+    const others = UPPER_LOWER_PAIRS.filter(p => p[1] !== lower).slice(0, 2).map(p => p[1]);
+    return [lower, ...others].sort(() => Math.random() - 0.5);
   }));
   const [selected, setSelected] = useState<string | null>(null);
   const [done, setDone] = useState(false);
-  void shuffled;
 
   const pair = UPPER_LOWER_PAIRS[pairIdx];
   const handleSelect = (lower: string) => {
@@ -327,15 +356,15 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex items-center justify-center">
-        <SpeakButton text={pair[0]} lang="de" size={16} />
+        <SpeakButton text={pair[0]} lang="hu" size={16} />
       </div>
-      <div className="flex gap-3 justify-center">
+      <div className="flex gap-3 justify-center flex-wrap">
         {choices[pairIdx].map(lower => (
           <motion.button key={lower} onClick={() => handleSelect(lower)}
             className="w-16 h-16 rounded-2xl font-black text-3xl flex items-center justify-center"
             style={{
               background: selected === lower
-                ? (isCorrect && lower === correct ? "rgba(0,255,136,0.2)" : lower === correct && selected ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.2)")
+                ? (lower === correct ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.2)")
                 : "rgba(255,255,255,0.06)",
               border: `2px solid ${selected === lower
                 ? (lower === correct ? "#00FF88" : "#FF2D78")
@@ -357,14 +386,14 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-// ─── Round 4: Put letters in ABC order ────────────────────────────────────────
+// ─── Round 4: Put letters in Hungarian ABC order ──────────────────────────────
 function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [setIdx, setSetIdx] = useState(0);
   const [tapped, setTapped] = useState<string[]>([]);
   const [revealed, setRevealed] = useState(false);
   const [done, setDone] = useState(false);
   const currentSet = SORT_SETS[setIdx];
-  const sorted = [...currentSet].sort();
+  const sorted = huSort(currentSet);
   const allTapped = tapped.length === currentSet.length;
   const isCorrect = tapped.join("") === sorted.join("");
 
@@ -401,7 +430,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       {/* Tapped sequence */}
       <div className="flex gap-2 h-12 items-center justify-center">
         {Array.from({ length: currentSet.length }, (_, i) => (
-          <div key={i} className="w-11 h-11 rounded-xl flex items-center justify-center font-black text-2xl"
+          <div key={i} className="w-11 h-11 rounded-xl flex items-center justify-center font-black text-xl"
             style={{
               background: tapped[i] ? `${color}22` : "rgba(255,255,255,0.04)",
               border: `2px solid ${tapped[i] ? color : "rgba(255,255,255,0.15)"}`,
@@ -412,12 +441,12 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       {/* Letter buttons */}
-      <div className="flex gap-3 justify-center">
+      <div className="flex gap-3 justify-center flex-wrap">
         {currentSet.map(letter => (
           <motion.button key={letter}
             onClick={() => handleTap(letter)}
             disabled={tapped.includes(letter)}
-            className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
+            className="w-14 h-14 rounded-2xl font-black text-2xl flex items-center justify-center"
             style={{
               background: tapped.includes(letter) ? "rgba(255,255,255,0.03)" : "rgba(255,255,255,0.08)",
               border: `2px solid ${tapped.includes(letter) ? "rgba(255,255,255,0.06)" : "rgba(255,255,255,0.25)"}`,
@@ -454,7 +483,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-// ─── Round 5: Quick review — tap all vowels ───────────────────────────────────
+// ─── Round 5: Quick review — tap all vowels (accented included) ───────────────
 function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
   const [tapped, setTapped] = useState<Set<string>>(new Set());
   const vowelsInReview = REVIEW_LETTERS.filter(l => VOWELS.has(l));
@@ -470,7 +499,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
           const isTapped = tapped.has(letter);
           return (
             <motion.button key={i} onClick={() => { if (isV) setTapped(prev => new Set([...prev, letter])); }}
-              className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
+              className="w-14 h-14 rounded-2xl font-black text-2xl flex items-center justify-center"
               style={{
                 background: isTapped ? `${VOKAL_COLOR}33` : "rgba(255,255,255,0.06)",
                 border: `2px solid ${isTapped ? VOKAL_COLOR : "rgba(255,255,255,0.15)"}`,
@@ -492,6 +521,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
           <div className="w-full rounded-2xl px-4 py-3 text-center"
             style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
             <p className="text-[#00FF88] font-black text-lg">🎉 {lbl.well}</p>
+            <p className="text-white/50 text-xs mt-1">A · Á · E · É · I · Í · O · Ó · Ö · Ő · U · Ú · Ü · Ű</p>
           </div>
           <NextBtn onClick={onDone} label={lbl.finish} color={color} />
         </motion.div>
@@ -502,13 +532,13 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const LetterExplorer = memo(function LetterExplorer({
-  color, lang = "de", onDone,
+  color, lang = "hu", onDone,
 }: {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.de;
+  const lbl = LABELS[lang] ?? LABELS.hu;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
