@@ -1054,10 +1054,10 @@ export function generateKözlekedés_typing(seed?: number): CurriculumTyping[] {
 
 export const G6_Generators_Hungarian = {
   // Original generators with typing variants
-  osszetett_mellér: generateOsszetetMeller,
-  osszetett_mellér_typing: generateOsszetetMeller_typing,
-  osszetett_alár: generateOsszetetAlar,
-  osszetett_alár_typing: generateOsszetetAlar_typing,
+  "mellér": generateOsszetetMeller,
+  mellér_typing: generateOsszetetMeller_typing,
+  "alár": generateOsszetetAlar,
+  alár_typing: generateOsszetetAlar_typing,
   hasonlat_metafora: generateHasonlatMetafora,
   hasonlat_metafora_typing: generateHasonlatMetafora_typing,
   megszemelyes: generateMegszemelyesites,
