@@ -276,6 +276,99 @@ const G1: HungarianTheme[] = [
       },
     ],
   },
+  // ─── VISUAL / INTERACTIVE TASKS (G1) ────────────────────────────────
+  {
+    id: "mondatok_interaktiv",
+    name: "Mondatok — Interaktív",
+    icon: "📝",
+    color: "#3B82F6",
+    subtopics: [
+      {
+        id: "hu_sentence_structure",
+        name: "Mondatok Rendezése",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_subject_predicate",
+        name: "Mondatrészek Jelölése",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_grammatical_cases",
+        name: "Nyelvtani Esetek",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "szavak_interaktiv",
+    name: "Szavak — Interaktív",
+    icon: "🔤",
+    color: "#10B981",
+    subtopics: [
+      {
+        id: "hu_parts_of_speech",
+        name: "Szófajok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_word_families",
+        name: "Szócsaládok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_suffixes",
+        name: "Toldalékok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_pictures",
+        name: "Képfelismerés",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "szövegértés_interaktiv",
+    name: "Szövegértés — Interaktív",
+    icon: "📖",
+    color: "#F59E0B",
+    subtopics: [
+      {
+        id: "hu_sequencing",
+        name: "Történet Sorrend",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_vocabulary",
+        name: "Lyukas Mondatok",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "helyesiras_interaktiv",
+    name: "Helyesírás — Interaktív",
+    icon: "✏️",
+    color: "#EF4444",
+    subtopics: [
+      {
+        id: "hu_spelling",
+        name: "Hibák Keresése",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
 ];
 
 // ─── GRADE 2 (2. OSZTÁLY) — SZÓFAJOK, HELYESÍRÁS, RAGOZÁS ───────────────
@@ -500,6 +593,99 @@ const G2: HungarianTheme[] = [
       {
         id: "mesek",
         name: "Meseelem-zés",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  // ─── VISUAL / INTERACTIVE TASKS (G2) ────────────────────────────────
+  {
+    id: "mondatok_interaktiv",
+    name: "Mondatok — Interaktív",
+    icon: "📝",
+    color: "#3B82F6",
+    subtopics: [
+      {
+        id: "hu_sentence_structure",
+        name: "Mondatok Rendezése",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_subject_predicate",
+        name: "Mondatrészek Jelölése",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_grammatical_cases",
+        name: "Nyelvtani Esetek",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "szavak_interaktiv",
+    name: "Szavak — Interaktív",
+    icon: "🔤",
+    color: "#10B981",
+    subtopics: [
+      {
+        id: "hu_parts_of_speech",
+        name: "Szófajok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_word_families",
+        name: "Szócsaládok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_suffixes",
+        name: "Toldalékok",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_pictures",
+        name: "Képfelismerés",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "szövegértés_interaktiv",
+    name: "Szövegértés — Interaktív",
+    icon: "📖",
+    color: "#F59E0B",
+    subtopics: [
+      {
+        id: "hu_sequencing",
+        name: "Történet Sorrend",
+        questions: [],
+        hasGenerator: true,
+      },
+      {
+        id: "hu_vocabulary",
+        name: "Lyukas Mondatok",
+        questions: [],
+        hasGenerator: true,
+      },
+    ],
+  },
+  {
+    id: "helyesiras_interaktiv",
+    name: "Helyesírás — Interaktív",
+    icon: "✏️",
+    color: "#EF4444",
+    subtopics: [
+      {
+        id: "hu_spelling",
+        name: "Hibák Keresése",
         questions: [],
         hasGenerator: true,
       },
