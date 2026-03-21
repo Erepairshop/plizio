@@ -604,7 +604,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       const combined = [
         ...config.getQuestions(g, [sid], 40, country),
         ...(config.generateForSubtopics ? config.generateForSubtopics([sid], 12) : []),
-        ...buildVisualForSubtopic(g, sid, 6),
+        ...buildVisualForSubtopic(g, sid, 30),
       ];
       for (let i = combined.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -652,7 +652,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
 
     // Append visual groups at end: group ALL visual questions by type, then batch 3-by-3
     // This ensures each block of 3 sub-questions is homogeneous (same exercise type)
-    // Max 5 visual groups (15 questions) for more interactive variety
+    // Max 10 visual groups (30 questions) for a full visual-only test
     const visualByType: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       for (const q of (visualPools[sid] ?? [])) {
@@ -662,8 +662,8 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     }
     let visualGroupsAdded = 0;
     for (const typeQs of Object.values(visualByType)) {
-      if (visualGroupsAdded >= 5) break;
-      // Shuffle, deduplicate by content (not just question text — visual qs share the same header)
+      if (visualGroupsAdded >= 10) break;
+      // Shuffle, deduplicate by content
       const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
       const seen2 = new Set<string>();
       const unique = shuffled.filter(q => {
@@ -672,11 +672,14 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
         seen2.add(k);
         return true;
       });
-      // Pad to 3 if needed (repeat last item)
-      while (unique.length > 0 && unique.length < 3) unique.push({ ...unique[unique.length - 1] });
-      if (unique.length >= 3) {
-        allQs.push(...unique.slice(0, 3));
-        visualGroupsAdded++;
+      // Split unique questions into groups of 3 (pad last group if needed)
+      for (let i = 0; i < unique.length && visualGroupsAdded < 10; i += 3) {
+        const group = unique.slice(i, i + 3);
+        while (group.length < 3) group.push({ ...group[group.length - 1] });
+        if (group.length >= 3) {
+          allQs.push(...group);
+          visualGroupsAdded++;
+        }
       }
     }
 
