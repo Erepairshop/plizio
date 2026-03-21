@@ -29,6 +29,7 @@ const LABELS: Record<string, Record<string, string>> = {
     retryRound: "Practice Time — Tricky Letters",
     retryHint: "Let's practice these letters again!",
     tipVowels: "💡 Tip: Vowels A E I O U 🔴 are open sounds. Consonants 🔵 are all other letters!",
+    yourOrder: "Your order",
     well: "Well done!",
     next: "Next",
     finish: "Finished!",
@@ -54,6 +55,7 @@ const LABELS: Record<string, Record<string, string>> = {
     retryRound: "Gyakorlás — Trükkös betűk",
     retryHint: "Gyakoroljuk újra ezeket a betűket!",
     tipVowels: "💡 Tipp: A magánhangzók A E I O U 🔴 nyílt hangok. A mássalhangzók 🔵 az összes többi betű!",
+    yourOrder: "Te sorrendod",
     well: "Remek!",
     next: "Tovább",
     finish: "Vége!",
@@ -79,6 +81,7 @@ const LABELS: Record<string, Record<string, string>> = {
     retryRound: "Trainingszeit — Knifflige Buchstaben",
     retryHint: "Lass uns diese Buchstaben üben!",
     tipVowels: "💡 Tipp: Vokale A E I O U 🔴 sind offene Laute. Konsonanten 🔵 sind alle anderen Buchstaben!",
+    yourOrder: "Deine Reihenfolge",
     well: "Toll gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -104,6 +107,7 @@ const LABELS: Record<string, Record<string, string>> = {
     retryRound: "Timp de practică — Litere dificile",
     retryHint: "Hai să practică aceste litere din nou!",
     tipVowels: "💡 Sfat: Vocalele A E I O U 🔴 sunt sunete deschise. Consoanele 🔵 sunt toate celelalte litere!",
+    yourOrder: "Ordinea ta",
     well: "Bravo!",
     next: "Înainte",
     finish: "Gata!",
@@ -252,13 +256,21 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      setWrongLetters(prev => [...prev, letter]);
+      setWrongLetters(prev => {
+        const updated = [...prev, letter];
+        // If this is the last letter, report wrong letters immediately
+        if (idx + 1 >= letters.length) {
+          onWrongLetters(updated);
+        }
+        return updated;
+      });
     }
 
     setTimeout(() => {
       if (idx + 1 >= letters.length) {
         setDone(true);
-        onWrongLetters(wrongLetters);
+        // If no errors on last letter, report current wrongLetters
+        if (isCorrect) onWrongLetters(wrongLetters);
       } else {
         setIdx(i => i + 1);
         setChoice(null);
@@ -571,7 +583,7 @@ function Round4({
             <p className="font-bold text-sm" style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}>
               {isCorrect ? "✅" : "❌"} {lbl.round4Reveal}: {sorted.join(" → ")}
             </p>
-            {!isCorrect && <p className="text-white/60 text-xs mt-1">Your order: {tapped.join(" → ")}</p>}
+            {!isCorrect && <p className="text-white/60 text-xs mt-1">{lbl.yourOrder}: {tapped.join(" → ")}</p>}
           </div>
           <NextBtn onClick={handleNext} label={setIdx + 1 >= sets.length ? lbl.finish : lbl.next} color={color} />
         </motion.div>
@@ -596,15 +608,13 @@ function Round5({
   wrongCountRef: React.MutableRefObject<number>;
   onDone: () => void;
 }) {
-  const [phase, setPhase] = useState<"main" | "retry" | "tip" | "done">(wrongLetters.length > 0 ? "main" : "main");
+  const [phase, setPhase] = useState<"main" | "retry" | "tip" | "done">("main");
   const [tapped, setTapped] = useState<Set<string>>(new Set());
-  const [retryTapped, setRetryTapped] = useState<Set<string>>(new Set());
+  const [retryIdx, setRetryIdx] = useState(0);
+  const [retryChoice, setRetryChoice] = useState<string | null>(null);
+  const [retryFeedback, setRetryFeedback] = useState<"correct" | "wrong" | null>(null);
   const vowelsInReview = letters.filter(l => VOWELS.has(l));
   const allVowelsTapped = vowelsInReview.every(v => tapped.has(v));
-
-  const handleWrongTap = () => {
-    wrongCountRef.current++;
-  };
 
   const handleDone = () => {
     if (wrongLetters.length > 0) {
@@ -614,69 +624,97 @@ function Round5({
     }
   };
 
-  const handleRetryDone = () => {
-    const retryVowels = wrongLetters.filter(l => VOWELS.has(l));
-    if (retryVowels.length > 0 && !retryVowels.every(v => retryTapped.has(v))) {
-      setPhase("tip");
-    } else {
-      setPhase("done");
-    }
-  };
-
+  // Retry round: re-classify the wrong letters (vokal/konsonant)
   if (phase === "retry") {
+    if (retryIdx >= wrongLetters.length) {
+      // Show tip card after retry, then done
+      return (
+        <div className="flex flex-col items-center gap-4 w-full">
+          <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+            className="w-full rounded-2xl px-4 py-4 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+            <p className="text-[#B44DFF] font-black text-sm">{lbl.tipVowels}</p>
+          </motion.div>
+          <NextBtn onClick={() => setPhase("done")} label={lbl.next} color={color} />
+        </div>
+      );
+    }
+
+    const retryLetter = wrongLetters[retryIdx];
+    const retryIsVokal = VOWELS.has(retryLetter);
+    const retryCorrectType = retryIsVokal ? "vokal" : "konsonant";
+
+    const handleRetryChoice = (type: "vokal" | "konsonant") => {
+      if (retryChoice || retryFeedback) return;
+      const isCorrect = type === retryCorrectType;
+      setRetryChoice(type);
+      setRetryFeedback(isCorrect ? "correct" : "wrong");
+      setTimeout(() => {
+        setRetryIdx(i => i + 1);
+        setRetryChoice(null);
+        setRetryFeedback(null);
+      }, 1000);
+    };
+
     return (
       <div className="flex flex-col items-center gap-4 w-full">
         <p className="text-2xl font-black text-white">{lbl.retryRound}</p>
         <p className="text-white/60 text-xs font-bold text-center">{lbl.retryHint}</p>
-        <div className="flex flex-wrap gap-3 justify-center">
-          {wrongLetters.map((letter, i) => {
-            const isV = VOWELS.has(letter);
-            const isTapped = retryTapped.has(letter);
+        <div className="flex gap-1 mb-1">
+          {wrongLetters.map((_, i) => (
+            <div key={i} className="w-2 h-2 rounded-full"
+              style={{ background: i < retryIdx ? "#00FF88" : i === retryIdx ? color : "rgba(255,255,255,0.15)" }} />
+          ))}
+        </div>
+        <AnimatePresence mode="wait">
+          <motion.div key={retryLetter + retryIdx} initial={{ opacity: 0, scale: 0.7 }} animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 1.2 }}
+            className="w-24 h-24 rounded-3xl flex items-center justify-center text-6xl font-black"
+            style={{
+              background: retryFeedback
+                ? (retryFeedback === "correct" ? (retryIsVokal ? `${VOKAL_COLOR}22` : `${KONS_COLOR}22`) : "rgba(255,45,120,0.15)")
+                : "rgba(255,255,255,0.06)",
+              border: `3px solid ${retryFeedback
+                ? (retryFeedback === "correct" ? (retryIsVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78")
+                : "rgba(255,255,255,0.2)"}`,
+              color: retryFeedback
+                ? (retryFeedback === "correct" ? (retryIsVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78")
+                : "white",
+            }}>
+            {retryLetter}
+          </motion.div>
+        </AnimatePresence>
+        <div className="flex items-center justify-center">
+          <SpeakButton text={retryLetter} lang="de" size={16} />
+        </div>
+        <div className="flex gap-3 w-full">
+          {(["vokal", "konsonant"] as const).map(type => {
+            const selectedThis = retryChoice === type;
+            const isCorrectChoice = type === retryCorrectType;
+            const showCorrect = retryFeedback && isCorrectChoice;
+            const showWrong = retryFeedback && selectedThis && !isCorrectChoice;
             return (
-              <motion.button key={i}
-                onClick={() => {
-                  if (isV) {
-                    setRetryTapped(prev => new Set([...prev, letter]));
-                  } else {
-                    handleWrongTap();
-                  }
-                }}
-                className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
+              <motion.button key={type} onClick={() => handleRetryChoice(type)} disabled={!!retryChoice}
+                className="flex-1 py-4 rounded-2xl font-black text-base transition-colors"
                 style={{
-                  background: isTapped ? `${VOKAL_COLOR}33` : "rgba(255,255,255,0.06)",
-                  border: `2px solid ${isTapped ? VOKAL_COLOR : "rgba(255,255,255,0.15)"}`,
-                  color: isTapped ? VOKAL_COLOR : "white",
-                  boxShadow: isTapped ? `0 0 14px ${VOKAL_COLOR}55` : "none",
+                  background: showCorrect ? `${VOKAL_COLOR}33` : showWrong ? "rgba(255,45,120,0.25)" : "rgba(255,255,255,0.06)",
+                  border: `2px solid ${showCorrect ? VOKAL_COLOR : showWrong ? "#FF2D78" : "rgba(255,255,255,0.15)"}`,
+                  color: type === "vokal" ? VOKAL_COLOR : KONS_COLOR,
+                  cursor: retryChoice ? "default" : "pointer",
                 }}
-                animate={isTapped ? { scale: [1, 1.18, 1] } : {}}
-                transition={{ duration: 0.22 }}>
-                {letter}
+                whileTap={!retryChoice ? { scale: 0.95 } : {}}>
+                {type === "vokal" ? `🔴 ${lbl.vokal}` : `🔵 ${lbl.konsonant}`}
               </motion.button>
             );
           })}
         </div>
-        {wrongLetters.filter(l => VOWELS.has(l)).length === 0 || wrongLetters.filter(l => VOWELS.has(l)).every(v => retryTapped.has(v)) ? (
-          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-            onClick={handleRetryDone}
-            className="w-full py-3 rounded-2xl font-black text-white text-sm"
-            style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-            whileTap={{ scale: 0.97 }}>
-            {lbl.next}
-          </motion.button>
-        ) : null}
-      </div>
-    );
-  }
-
-  if (phase === "tip") {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
-          className="w-full rounded-2xl px-4 py-4 text-center"
-          style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
-          <p className="text-[#B44DFF] font-black text-sm">{lbl.tipVowels}</p>
-        </motion.div>
-        <NextBtn onClick={() => setPhase("done")} label={lbl.next} color={color} />
+        {retryFeedback && (
+          <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            className="font-black text-lg"
+            style={{ color: retryFeedback === "correct" ? (retryIsVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78" }}>
+            {retryLetter} = {retryIsVokal ? lbl.vokal : lbl.konsonant} {retryIsVokal ? "🔴" : "🔵"}
+          </motion.p>
+        )}
       </div>
     );
   }
@@ -705,7 +743,7 @@ function Round5({
                 if (isV) {
                   setTapped(prev => new Set([...prev, letter]));
                 } else {
-                  handleWrongTap();
+                  wrongCountRef.current++;
                 }
               }}
               className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
