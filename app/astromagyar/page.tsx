@@ -198,7 +198,7 @@ export default function AstroMagyarHub() {
 
       {/* Grade cards */}
       <motion.div
-        className="relative z-30 max-w-4xl mx-auto px-4 sm:px-6 py-8 grid gap-6"
+        className="relative z-30 max-w-md mx-auto px-4 sm:px-6 py-8 grid gap-4"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.3 }}

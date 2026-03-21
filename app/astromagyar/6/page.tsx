@@ -357,13 +357,12 @@ export default function O6Page() {
 
       {/* ISLAND MAP SCREEN */}
       {screen === "island-map" && (
-        <motion.div className="min-h-screen flex flex-col" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <div className="flex-1 flex flex-col items-center justify-center max-w-sm mx-auto w-full px-6 py-8">
-            <motion.div className="text-center mb-8" initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>
-              <h1 className="text-3xl font-black text-white mb-2">{O6_LABEL[lang] || O6_LABEL.en}</h1>
-              <p className="text-white/60 text-sm">9 sziget, 3 teszt, végtelen tanulás</p>
-            </motion.div>
-            <div className="w-full">
+        <motion.div className="relative z-30 flex flex-col h-screen" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <div className="flex items-center justify-center px-4 py-4">
+            <h1 className="text-xl font-black text-white">{O6_LABEL[lang] || O6_LABEL.en}</h1>
+          </div>
+          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+            <div className="max-w-sm mx-auto px-2">
               <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={setActiveCheckpoint} />
             </div>
           </div>

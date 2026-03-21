@@ -347,14 +347,17 @@ export default function AstroMagyar2() {
 
       {/* Island Map */}
       {screen === "island-map" && (
-        <div className="relative w-full flex flex-col items-center justify-center min-h-screen py-8">
-          <motion.h1 className="text-3xl font-black text-center mb-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            {O2_LABEL[lang] || O2_LABEL.en}
-          </motion.h1>
-          <div className="w-full max-w-sm px-4">
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+        <motion.div className="relative z-30 flex flex-col h-screen"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <div className="flex items-center justify-center px-4 py-4">
+            <h1 className="text-xl font-black text-white">{O2_LABEL[lang] || O2_LABEL.en}</h1>
           </div>
-        </div>
+          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+            <div className="max-w-sm mx-auto px-2">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+            </div>
+          </div>
+        </motion.div>
       )}
 
       {/* Island Intro */}

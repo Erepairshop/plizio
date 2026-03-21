@@ -399,8 +399,10 @@ export default function AstroMagyarO5Page() {
             <h1 className="text-lg sm:text-xl font-black text-white">{O5_LABEL[lang] || O5_LABEL.en}</h1>
             <div className="w-8" />
           </div>
-          <div className="flex-1 overflow-y-auto">
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+            <div className="max-w-sm mx-auto px-2">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+            </div>
           </div>
         </motion.div>
       )}
