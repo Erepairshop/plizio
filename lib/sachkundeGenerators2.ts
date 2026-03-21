@@ -49,7 +49,8 @@ function createMCQ(
   subtopic: string,
   question: string,
   correct: string,
-  wrongOptions: string[]
+  wrongOptions: string[],
+  rng?: () => number
 ): CurriculumMCQ {
   const seen = new Set<string>();
   const unique: string[] = [];
@@ -59,7 +60,8 @@ function createMCQ(
       unique.push(w);
     }
   }
-  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  const randomFn = rng || (() => Math.random());
+  const opts = shuffle([correct, ...unique.slice(0, 3)], randomFn);
   return {
     type: "mcq",
     topic,
@@ -136,7 +138,7 @@ const SLEEP_FACTS = [
 // Lebensräume
 const HABITATS = [
   { habitat: "Wald", animals: "Reh, Eichhörnchen, Vogel", climate: "gemäßigt" },
-  { habitat: "Wiese", animals: "Schaf, Kuh, Schmetteling", climate: "gemäßigt" },
+  { habitat: "Wiese", animals: "Schaf, Kuh, Schmetterling", climate: "gemäßigt" },
   { habitat: "Wasser (Fluss/See)", animals: "Fisch, Frosch, Ente", climate: "variabel" },
   { habitat: "Berge", animals: "Adler, Murmeltier, Gämse", climate: "kalt" },
   { habitat: "Stadt/Haus", animals: "Hund, Katze, Hausmaus", climate: "gemäßigt" }
@@ -338,21 +340,21 @@ export function generateErnährungVerdauung(seed?: number): CurriculumMCQ[] {
       const data = pick(FOOD_GROUPS, rng);
       q.push(createMCQ("sachkunde", "ernährung_verdauung",
         `Welche Lebensmittel gehören zur Gruppe "${data.group}"?`, data.examples,
-        FOOD_GROUPS.filter(f => f.group !== data.group).map(f => f.examples)));
+        FOOD_GROUPS.filter(f => f.group !== data.group).map(f => f.examples), rng));
     } else if (type === 1) {
       const food = pick(HEALTHY_FOODS, rng);
       q.push(createMCQ("sachkunde", "ernährung_verdauung",
-        `Ist ${food} gesund?`, "Ja, sehr gesund", ["Nein, ungesund", "manchmal", "nur für Erwachsene"]));
+        `Ist ${food} gesund?`, "Ja, sehr gesund", ["Nein, ungesund", "manchmal", "nur für Erwachsene"], rng));
     } else if (type === 2) {
       const part = pick(DIGESTIVE_SYSTEM, rng);
       q.push(createMCQ("sachkunde", "ernährung_verdauung",
         `Was macht der ${part.part}?`, part.function,
-        DIGESTIVE_SYSTEM.filter(p => p.part !== part.part).map(p => p.function)));
+        DIGESTIVE_SYSTEM.filter(p => p.part !== part.part).map(p => p.function), rng));
     } else {
       const unhealthy = pick(UNHEALTHY_FOODS, rng);
       q.push(createMCQ("sachkunde", "ernährung_verdauung",
-        `Sollte man jeden Tag ${unhealthy} essen?`, "Nein, zu schädlich für die Zähne",
-        ["Ja, sehr gesund", "ja, beim Frühstück", "nur freitags"]));
+        `Sollte man jeden Tag ${unhealthy} essen?`, "Nein, zu schädlich",
+        ["Ja, sehr gesund", "ja, beim Frühstück", "nur freitags"], rng));
     }
   }
 
@@ -363,24 +365,44 @@ export function generateZahngesundheit(seed?: number): CurriculumMCQ[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
   const q: CurriculumMCQ[] = [];
 
+  const BRUSH_QUESTIONS = [
+    { q: "Wie oft sollte man die Zähne putzen?", a: "zweimal täglich (morgens und abends)", w: ["einmal täglich", "nie", "nur vor dem Schlafengehen"] },
+    { q: "Wann putzt man die Zähne am besten?", a: "morgens und abends", w: ["nur abends", "nur morgens", "einmal pro Woche"] },
+    { q: "Wie lange sollte man die Zähne putzen?", a: "mindestens 2 Minuten", w: ["10 Sekunden", "5 Minuten", "nur kurz"] },
+    { q: "Was hilft beim Zähneputzen außer der Bürste?", a: "Zahnpasta mit Fluorid", w: ["Seife", "Shampoo", "Wasser allein reicht"] },
+  ];
+  const TOOTH_HARM_QUESTIONS = [
+    { q: "Was ist schlecht für die Zähne?", a: "zu viel Zucker", w: ["Obst", "Gemüse", "Milch"] },
+    { q: "Welches Getränk schadet den Zähnen am meisten?", a: "Limonade und Cola", w: ["Wasser", "Milch", "Tee ohne Zucker"] },
+    { q: "Was fördert Karies?", a: "häufig Süßigkeiten essen", w: ["Äpfel essen", "Wasser trinken", "Zähne putzen"] },
+    { q: "Was sollte man nach dem Essen von Süßigkeiten tun?", a: "Zähne putzen oder Mund ausspülen", w: ["mehr Süßes essen", "nichts tun", "Saft trinken"] },
+  ];
+  const MILCHZAEHNE_QUESTIONS = [
+    { q: "Was sind Milchzähne?", a: "die ersten Zähne, die später durch bleibende Zähne ersetzt werden", w: ["Zähne, die ein Leben lang bleiben", "Zähne aus Milch", "Zähne, die nicht fallen"] },
+    { q: "Wann fallen Milchzähne aus?", a: "wenn die bleibenden Zähne nachwachsen (meist ab 6 Jahren)", w: ["nie", "mit 2 Jahren", "erst mit 20 Jahren"] },
+    { q: "Wie viele Milchzähne hat ein Kind?", a: "20 Milchzähne", w: ["10 Milchzähne", "32 Milchzähne", "15 Milchzähne"] },
+    { q: "Was passiert nach den Milchzähnen?", a: "die bleibenden Zähne wachsen nach", w: ["gar nichts", "man hat dann keine Zähne", "Milchzähne wachsen wieder"] },
+  ];
+  const DENTIST_QUESTIONS = [
+    { q: "Was hilft bei Zahnproblemen?", a: "zum Zahnarzt gehen", w: ["Zucker essen", "mehr schlafen", "weniger Wasser trinken"] },
+    { q: "Wie oft sollte man zum Zahnarzt gehen?", a: "mindestens zweimal im Jahr", w: ["nur bei Schmerzen", "einmal im Leben", "nie nötig"] },
+    { q: "Was macht der Zahnarzt beim Kontrolltermin?", a: "Zähne untersuchen und reinigen", w: ["Haare schneiden", "Augen prüfen", "Blutdruck messen"] },
+    { q: "Warum ist der Zahnarzt wichtig?", a: "er erkennt Karies früh und hilft Zähne zu schützen", w: ["nur zum Spaß", "nicht wichtig", "nur für Erwachsene"] },
+  ];
   for (let i = 0; i < 45; i++) {
     const type = i % 4;
     if (type === 0) {
-      q.push(createMCQ("sachkunde", "zahngesundheit",
-        `Wie oft sollte man die Zähne putzen?`, "zweimal täglich (morgens und abends)",
-        ["einmal täglich", "nie", "nur vor dem Schlafengehen"]));
+      const item = pick(BRUSH_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "zahngesundheit", item.q, item.a, item.w, rng));
     } else if (type === 1) {
-      q.push(createMCQ("sachkunde", "zahngesundheit",
-        `Was ist schlecht für die Zähne?`, "zu viel Zucker",
-        ["Obst", "Gemüse", "Milch"]));
+      const item = pick(TOOTH_HARM_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "zahngesundheit", item.q, item.a, item.w, rng));
     } else if (type === 2) {
-      q.push(createMCQ("sachkunde", "zahngesundheit",
-        `Was machen Milchzähne?`, "fallen aus und werden durch bleibende Zähne ersetzt",
-        ["bleiben ihr ganzes Leben", "wachsen nur einmal", "verliert man alle mit 10 Jahren"]));
+      const item = pick(MILCHZAEHNE_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "zahngesundheit", item.q, item.a, item.w, rng));
     } else {
-      q.push(createMCQ("sachkunde", "zahngesundheit",
-        `Was hilft bei Zahnproblemen?`, "zum Zahnarzt gehen",
-        ["Zucker essen", "mehr schlafen", "weniger Wasser trinken"]));
+      const item = pick(DENTIST_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "zahngesundheit", item.q, item.a, item.w, rng));
     }
   }
 
@@ -391,26 +413,37 @@ export function generateBewegungKörperpflege(seed?: number): CurriculumMCQ[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
   const q: CurriculumMCQ[] = [];
 
+  const MOVEMENT_DURATION_QUESTIONS = [
+    { q: "Wie lange sollten Kinder täglich Sport treiben?", a: "mindestens 30-60 Minuten", w: ["keine Zeit", "nur auf Aufforderung", "5 Minuten"] },
+    { q: "Wie oft in der Woche sollten Kinder Sport treiben?", a: "jeden Tag oder fast jeden Tag", w: ["einmal im Monat", "einmal im Jahr", "gar nicht"] },
+    { q: "Was ist eine gute tägliche Aktivität für Kinder?", a: "laufen, spielen, Rad fahren", w: ["den ganzen Tag sitzen", "nur schlafen", "nur Hausaufgaben machen"] },
+    { q: "Wann ist der beste Zeitpunkt für Bewegung?", a: "regelmäßig, am besten täglich", w: ["nur am Wochenende", "nur im Sommer", "nie"] },
+  ];
+  const MOVEMENT_WHY_QUESTIONS = [
+    { q: "Warum ist Bewegung wichtig?", a: "für starke Muskeln und ein gesundes Herz", w: ["zum Faulenzen", "nicht wichtig", "nur für Erwachsene"] },
+    { q: "Was stärkt Bewegung beim Kind?", a: "Muskeln, Knochen und das Herz", w: ["nur die Zähne", "nur das Gehirn", "nichts Besonderes"] },
+    { q: "Was passiert, wenn Kinder sich zu wenig bewegen?", a: "sie werden weniger fit und können ungesund werden", w: ["sie werden stärker", "sie schlafen besser", "nichts passiert"] },
+    { q: "Welchen Vorteil hat Sport für die Gesundheit?", a: "er hält Körper und Geist fit", w: ["keinen", "nur die Füße werden stärker", "nur Erwachsene profitieren"] },
+  ];
+
   for (let i = 0; i < 45; i++) {
     const type = i % 4;
     if (type === 0) {
       const activity = pick(PHYSICAL_ACTIVITIES, rng);
       q.push(createMCQ("sachkunde", "bewegung_körperpflege",
         `Welcher Vorteil hat ${activity.activity}?`, activity.benefit,
-        PHYSICAL_ACTIVITIES.filter(a => a.activity !== activity.activity).map(a => a.benefit)));
+        PHYSICAL_ACTIVITIES.filter(a => a.activity !== activity.activity).map(a => a.benefit), rng));
     } else if (type === 1) {
       const habit = pick(HYGIENE_HABITS, rng);
       q.push(createMCQ("sachkunde", "bewegung_körperpflege",
         `Wann sollte man ${habit.habit}?`, habit.when,
-        ["nie", "nur samstags", "nur im Sommer"]));
+        ["nie", "nur samstags", "nur im Sommer"], rng));
     } else if (type === 2) {
-      q.push(createMCQ("sachkunde", "bewegung_körperpflege",
-        `Wie lange sollten Kinder täglich Sport treiben?`, "mindestens 30-60 Minuten",
-        ["keine Zeit", "nur auf Aufforderung", "5 Minuten"]));
+      const item = pick(MOVEMENT_DURATION_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "bewegung_körperpflege", item.q, item.a, item.w, rng));
     } else {
-      q.push(createMCQ("sachkunde", "bewegung_körperpflege",
-        `Warum ist Bewegung wichtig?`, "für starke Muskeln und ein gesundes Herz",
-        ["zum Faulenzen", "nicht wichtig", "nur für Erwachsene"]));
+      const item = pick(MOVEMENT_WHY_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "bewegung_körperpflege", item.q, item.a, item.w, rng));
     }
   }
 
@@ -421,24 +454,45 @@ export function generateSchlafRuhe(seed?: number): CurriculumMCQ[] {
   const rng = seed !== undefined ? mulberry32(seed) : Math.random;
   const q: CurriculumMCQ[] = [];
 
+  const SLEEP_HOURS_QUESTIONS = [
+    { q: "Wie viele Stunden Schlaf brauchen Kinder pro Nacht?", a: "8-10 Stunden", w: ["4-5 Stunden", "12-14 Stunden", "2-3 Stunden"] },
+    { q: "Ist 6 Stunden Schlaf genug für ein Kind?", a: "nein, Kinder brauchen 8-10 Stunden", w: ["ja, das reicht", "ja, sogar zu viel", "ja, 6 Stunden sind ideal"] },
+    { q: "Was passiert, wenn Kinder zu wenig schlafen?", a: "sie sind müde und können sich schlecht konzentrieren", w: ["sie werden stärker", "sie lernen besser", "nichts passiert"] },
+    { q: "Wie viel Schlaf empfehlen Ärzte für Grundschulkinder?", a: "etwa 9-10 Stunden", w: ["5-6 Stunden", "13-14 Stunden", "1-2 Stunden"] },
+  ];
+  const SLEEP_LEARNING_QUESTIONS = [
+    { q: "Hilft ausreichend Schlaf beim Lernen?", a: "ja, im Schlaf werden Informationen gespeichert", w: ["nein, gar nicht", "nur bei Erwachsenen", "nur manchmal"] },
+    { q: "Was passiert mit dem Gehirn im Schlaf?", a: "es verarbeitet und speichert das Gelernte", w: ["es macht gar nichts", "es schläft komplett ab", "es vergisst alles"] },
+    { q: "Warum sollte man vor einer Schularbeit gut schlafen?", a: "damit man ausgeruht und konzentriert ist", w: ["das macht keinen Unterschied", "lieber noch lernen als schlafen", "um früher aufzustehen"] },
+    { q: "Was hilft, damit man gut schlafen kann?", a: "ein ruhiges, dunkles Zimmer und feste Schlafzeiten", w: ["laute Musik", "viel Essen kurz vor dem Schlafen", "Bildschirm bis zum Einschlafen"] },
+  ];
+  const SLEEP_ROUTINE_QUESTIONS = [
+    { q: "Was sollte man vor dem Schlafengehen vermeiden?", a: "zu viel spielen und Bildschirme (Handy, Tablet)", w: ["Abendbrot essen", "ein Glas Wasser trinken", "Zähne putzen"] },
+    { q: "Warum ist ein regelmäßiger Schlafrhythmus wichtig?", a: "damit der Körper sich jeden Tag zur gleichen Zeit erholt", w: ["um länger zu spielen", "nicht wichtig", "nur für Babys"] },
+    { q: "Was ist ein gutes Ritual vor dem Schlafengehen?", a: "Buch lesen oder ruhige Musik hören", w: ["Videospiele spielen", "Fernsehen", "viel Süßigkeiten essen"] },
+    { q: "Wann sollten Grundschulkinder ins Bett gehen?", a: "zwischen 19 und 21 Uhr, damit sie genug Schlaf bekommen", w: ["nach Mitternacht", "egal wann", "nur wenn man müde ist"] },
+  ];
+  const SLEEP_BODY_QUESTIONS = [
+    { q: "Was passiert mit dem Körper während des Schlafens?", a: "er erholt sich und wächst", w: ["er schläft komplett ab", "er arbeitet härter", "er verbraucht viel Energie"] },
+    { q: "Wächst man hauptsächlich während des Schlafens?", a: "ja, der Körper schüttet Wachstumshormone aus", w: ["nein, nur tagsüber", "nein, gar nicht", "nur beim Sport"] },
+    { q: "Wie fühlt man sich nach ausreichend Schlaf?", a: "ausgeruht, wach und fit", w: ["genauso wie vorher", "noch müder", "schlechter als vorher"] },
+    { q: "Was passiert, wenn man immer zu wenig schläft?", a: "man wird krank und unkonzentriert", w: ["man braucht weniger Schlaf", "man wird gesünder", "nichts Besonderes"] },
+  ];
+
   for (let i = 0; i < 45; i++) {
     const type = i % 4;
     if (type === 0) {
-      q.push(createMCQ("sachkunde", "schlaf_ruhe",
-        `Wie viel Schlaf brauchen Kinder pro Nacht?`, "8-10 Stunden",
-        ["4-5 Stunden", "12-14 Stunden", "keine Zeit nötig"]));
+      const item = pick(SLEEP_HOURS_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "schlaf_ruhe", item.q, item.a, item.w, rng));
     } else if (type === 1) {
-      q.push(createMCQ("sachkunde", "schlaf_ruhe",
-        `Hilft ausreichend Schlaf beim Lernen?`, "ja, sehr wichtig",
-        ["nein, gar nicht", "nur manchmal", "nur für große Schüler"]));
+      const item = pick(SLEEP_LEARNING_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "schlaf_ruhe", item.q, item.a, item.w, rng));
     } else if (type === 2) {
-      q.push(createMCQ("sachkunde", "schlaf_ruhe",
-        `Was sollte man vor dem Schlafengehen vermeiden?`, "zu viel spielen und Bildschirme",
-        ["Abendbrot essen", "ein Glas Wasser trinken", "Zähne putzen"]));
+      const item = pick(SLEEP_ROUTINE_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "schlaf_ruhe", item.q, item.a, item.w, rng));
     } else {
-      q.push(createMCQ("sachkunde", "schlaf_ruhe",
-        `Warum ist ein regelmäßiger Schlafrhythmus wichtig?`, "damit der Körper sich erholt und man wach ist",
-        ["um länger zu spielen", "nicht wichtig", "nur für Babys"]));
+      const item = pick(SLEEP_BODY_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "schlaf_ruhe", item.q, item.a, item.w, rng));
     }
   }
 
@@ -455,20 +509,20 @@ export function generateLebensräume(seed?: number): CurriculumMCQ[] {
       const habitat = pick(HABITATS, rng);
       q.push(createMCQ("sachkunde", "lebensräume",
         `Welche Tiere leben in einem ${habitat.habitat}?`, habitat.animals,
-        HABITATS.filter(h => h.habitat !== habitat.habitat).map(h => h.animals)));
+        HABITATS.filter(h => h.habitat !== habitat.habitat).map(h => h.animals), rng));
     } else if (type === 1) {
       const habitat = pick(HABITATS, rng);
       q.push(createMCQ("sachkunde", "lebensräume",
         `Welcher Lebensraum ist ${habitat.habitat}?`, `ein Ort mit ${habitat.climate}en Bedingungen`,
-        ["eine Schule", "ein Auto", "ein Spielzeug"]));
+        ["eine Schule", "ein Auto", "ein Spielzeug"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "lebensräume",
         `Wo finden Fische ihren Lebensraum?`, "im Wasser (Fluss oder See)",
-        ["in der Luft", "im Wald", "in der Stadt"]));
+        ["in der Luft", "im Wald", "in der Stadt"], rng));
     } else {
       q.push(createMCQ("sachkunde", "lebensräume",
         `Was gehört zu einem Lebensraum?`, "der Ort und die Tiere, die dort leben",
-        ["nur die Tiere", "nur der Ort", "nur Pflanzen"]));
+        ["nur die Tiere", "nur der Ort", "nur Pflanzen"], rng));
     }
   }
 
@@ -485,20 +539,20 @@ export function generateNahrungsketten(seed?: number): CurriculumMCQ[] {
       const chain = pick(FOOD_CHAINS, rng);
       q.push(createMCQ("sachkunde", "nahrungsketten",
         `Was ist eine Nahrungskette?`, chain.chain,
-        FOOD_CHAINS.filter(c => c.chain !== chain.chain).map(c => c.chain)));
+        FOOD_CHAINS.filter(c => c.chain !== chain.chain).map(c => c.chain), rng));
     } else if (type === 1) {
       const pair = pick(PREDATOR_PREY, rng);
       q.push(createMCQ("sachkunde", "nahrungsketten",
         `Was frisst ein ${pair.predator}?`, pair.prey,
-        ["Pflanzen", "Steine", "Metall"]));
+        ["Pflanzen", "Steine", "Metall"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "nahrungsketten",
         `Wo beginnt eine Nahrungskette?`, "bei den Pflanzen",
-        ["bei den Tieren", "bei der Sonne", "überall"]));
+        ["bei den Tieren", "bei der Sonne", "überall"], rng));
     } else {
       q.push(createMCQ("sachkunde", "nahrungsketten",
         `Warum brauchen wir Nahrungsketten?`, "um zu verstehen, wie die Natur funktioniert",
-        ["wir brauchen sie nicht", "zum Spielen", "nur im Unterricht"]));
+        ["wir brauchen sie nicht", "zum Spielen", "nur im Unterricht"], rng));
     }
   }
 
@@ -515,21 +569,21 @@ export function generateHaustierePflege(seed?: number): CurriculumMCQ[] {
       const pet = pick(PET_CARE, rng);
       q.push(createMCQ("sachkunde", "haustiere_pflege",
         `Was frisst ein ${pet.pet}?`, pet.food,
-        PET_CARE.filter(p => p.pet !== pet.pet).map(p => p.food)));
+        PET_CARE.filter(p => p.pet !== pet.pet).map(p => p.food), rng));
     } else if (type === 1) {
       const pet = pick(PET_CARE, rng);
       q.push(createMCQ("sachkunde", "haustiere_pflege",
         `Wie oft sollte man ein ${pet.pet} füttern?`, pet.frequency,
-        ["1× pro Woche", "1× pro Monat", "nie"]));
+        ["1× pro Woche", "1× pro Monat", "nie"], rng));
     } else if (type === 2) {
       const pet = pick(PET_CARE, rng);
       q.push(createMCQ("sachkunde", "haustiere_pflege",
-        `Was brauch ein ${pet.pet} außer Futter?`, pet.extra,
-        ["nur Liebe", "Spielzeug", "nichts anderes"]));
+        `Was braucht ein ${pet.pet} außer Futter?`, pet.extra,
+        ["nur Liebe", "Spielzeug", "nichts anderes"], rng));
     } else {
       q.push(createMCQ("sachkunde", "haustiere_pflege",
         `Welche Verantwortung hat man mit einem Haustier?`, "es täglich zu füttern und zu pflegen",
-        ["gar keine", "nur zu spielen", "nichts zu tun"]));
+        ["gar keine", "nur zu spielen", "nichts zu tun"], rng));
     }
   }
 
@@ -546,19 +600,19 @@ export function generateWildtiereAnpassung(seed?: number): CurriculumMCQ[] {
       const animal = pick(WILD_ANIMAL_ADAPTATIONS, rng);
       q.push(createMCQ("sachkunde", "wildtiere_anpassung",
         `Wofür hat ein ${animal.animal} ${animal.adaptation}?`, animal.adaptation,
-        WILD_ANIMAL_ADAPTATIONS.filter(a => a.animal !== animal.animal).map(a => a.adaptation)));
+        WILD_ANIMAL_ADAPTATIONS.filter(a => a.animal !== animal.animal).map(a => a.adaptation), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "wildtiere_anpassung",
         `Wie helfen Stacheln beim Igel?`, "zur Verteidigung gegen Feinde",
-        ["zum Schwimmen", "zum Graben", "zum Riechen"]));
+        ["zum Schwimmen", "zum Graben", "zum Riechen"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wildtiere_anpassung",
         `Warum haben manche Tiere weiße Federn?`, "zur Tarnung im Schnee",
-        ["zum Fliegen", "zum Wärmen", "zum Sehen"]));
+        ["zum Fliegen", "zum Wärmen", "zum Sehen"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wildtiere_anpassung",
         `Was ist eine Anpassung?`, "eine Fähigkeit, die ein Tier zum Überleben hat",
-        ["ein Spielzeug", "eine Farbe", "ein Laut"]));
+        ["ein Spielzeug", "eine Farbe", "ein Laut"], rng));
     }
   }
 
@@ -575,19 +629,19 @@ export function generatePflanzenteile(seed?: number): CurriculumMCQ[] {
       const part = pick(PLANT_PARTS, rng);
       q.push(createMCQ("sachkunde", "pflanzenteile",
         `Was macht der ${part.part}?`, part.function,
-        PLANT_PARTS.filter(p => p.part !== part.part).map(p => p.function)));
+        PLANT_PARTS.filter(p => p.part !== part.part).map(p => p.function), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "pflanzenteile",
         `Wo sind die Wurzeln einer Pflanze?`, "unter der Erde",
-        ["über der Erde", "auf dem Blatt", "in der Blüte"]));
+        ["über der Erde", "auf dem Blatt", "in der Blüte"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "pflanzenteile",
         `Was macht das Blatt?`, "macht Nahrung durch Photosynthese",
-        ["speichert Wasser", "wird zur Frucht", "trägt Farbe"]));
+        ["speichert Wasser", "wird zur Frucht", "trägt Farbe"], rng));
     } else {
       q.push(createMCQ("sachkunde", "pflanzenteile",
         `Welcher Pflanzenteil wird zur Frucht?`, "die Blüte",
-        ["das Blatt", "der Stängel", "die Wurzel"]));
+        ["das Blatt", "der Stängel", "die Wurzel"], rng));
     }
   }
 
@@ -604,19 +658,19 @@ export function generateWachstumLebenszyklus(seed?: number): CurriculumMCQ[] {
       const stage = pick(PLANT_LIFECYCLE, rng);
       q.push(createMCQ("sachkunde", "wachstum_lebenszyklus",
         `Was ist ein ${stage.stage}?`, stage.description,
-        PLANT_LIFECYCLE.filter(s => s.stage !== stage.stage).map(s => s.description)));
+        PLANT_LIFECYCLE.filter(s => s.stage !== stage.stage).map(s => s.description), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "wachstum_lebenszyklus",
         `Was kommt nach der Blüte?`, "die Frucht",
-        ["der Samen", "das Blatt", "die Wurzel"]));
+        ["der Samen", "das Blatt", "die Wurzel"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wachstum_lebenszyklus",
         `Wie lange dauert der Lebenszyklus einer Pflanze?`, "von Samenkorn bis zur reifen Frucht (Monate bis Jahre)",
-        ["1 Tag", "1 Woche", "1 Stunde"]));
+        ["1 Tag", "1 Woche", "1 Stunde"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wachstum_lebenszyklus",
         `Was passiert, wenn Samen zu Boden fallen?`, "sie können keimen und zu neuen Pflanzen wachsen",
-        ["sie sterben sofort", "sie können nicht wachsen", "nichts passiert"]));
+        ["sie sterben sofort", "sie können nicht wachsen", "nichts passiert"], rng));
     }
   }
 
@@ -633,19 +687,19 @@ export function generateSamenZurBlüte(seed?: number): CurriculumMCQ[] {
       const condition = pick(SEED_CONDITIONS, rng);
       q.push(createMCQ("sachkunde", "samen_zur_blüte",
         `Warum brauchen Samen ${condition.condition}?`, condition.why,
-        SEED_CONDITIONS.filter(c => c.condition !== condition.condition).map(c => c.why)));
+        SEED_CONDITIONS.filter(c => c.condition !== condition.condition).map(c => c.why), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "samen_zur_blüte",
         `Was braucht ein Samenkorn zum Keimen?`, "Wasser, Licht, Wärme und Nährstoffe",
-        ["nur Dunkelheit", "nur Kälte", "nur Luft"]));
+        ["nur Dunkelheit", "nur Kälte", "nur Luft"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "samen_zur_blüte",
         `Wie lange dauert es, bis aus einem Samenkorn eine Blüte wächst?`, "mehrere Wochen bis Monate",
-        ["1 Tag", "1 Stunde", "1 Minute"]));
+        ["1 Tag", "1 Stunde", "1 Minute"], rng));
     } else {
       q.push(createMCQ("sachkunde", "samen_zur_blüte",
         `Was zeigt, dass ein Samenkorn keimt?`, "kleine Wurzeln und Blätter wachsen",
-        ["es wird größer", "es wird farbig", "es dreht sich"]));
+        ["es wird größer", "es wird farbig", "es dreht sich"], rng));
     }
   }
 
@@ -662,20 +716,20 @@ export function generateNützlichePflanzen(seed?: number): CurriculumMCQ[] {
       const plant = pick(USEFUL_PLANTS, rng);
       q.push(createMCQ("sachkunde", "nützliche_pflanzen",
         `Was wird aus ${plant.plant} gemacht?`, plant.use,
-        USEFUL_PLANTS.filter(p => p.plant !== plant.plant).map(p => p.use)));
+        USEFUL_PLANTS.filter(p => p.plant !== plant.plant).map(p => p.use), rng));
     } else if (type === 1) {
       const plant = pick(USEFUL_PLANTS, rng);
       q.push(createMCQ("sachkunde", "nützliche_pflanzen",
         `Ist ${plant.plant} eine nützliche Pflanze?`, "ja, Menschen nutzen sie",
-        ["nein, nicht nützlich", "nur für Tiere", "nie"]));
+        ["nein, nicht nützlich", "nur für Tiere", "nie"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "nützliche_pflanzen",
         `Was ist Getreide?`, "Pflanzen wie Weizen und Hafer, die zu Brot verarbeitet werden",
-        ["eine Frucht", "ein Gemüse", "ein Kraut"]));
+        ["eine Frucht", "ein Gemüse", "ein Kraut"], rng));
     } else {
       q.push(createMCQ("sachkunde", "nützliche_pflanzen",
         `Welche Pflanzen essen wir?`, "Obst, Gemüse und Getreide",
-        ["nur Blüten", "nur Wurzeln", "nur Blätter"]));
+        ["nur Blüten", "nur Wurzeln", "nur Blätter"], rng));
     }
   }
 
@@ -692,19 +746,19 @@ export function generateWasserkreislauf(seed?: number): CurriculumMCQ[] {
       const process = pick(WATER_CYCLE, rng);
       q.push(createMCQ("sachkunde", "wasserkreislauf",
         `Was ist ${process.process}?`, process.description,
-        WATER_CYCLE.filter(p => p.process !== process.process).map(p => p.description)));
+        WATER_CYCLE.filter(p => p.process !== process.process).map(p => p.description), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "wasserkreislauf",
         `Wie entsteht Regen?`, "Wasser verdampft, kondensiert zu Wolken, und fällt als Regen",
-        ["Wolken gießen Wasser", "die Sonne regnet", "Seen gießen Wasser"]));
+        ["Wolken gießen Wasser", "die Sonne regnet", "Seen gießen Wasser"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wasserkreislauf",
         `Wohin geht das Regenwasser?`, "zu Seen und Meeren, wo es verdunstet",
-        ["in den Himmel", "nirgendwohin", "in die Luft"]));
+        ["in den Himmel", "nirgendwohin", "in die Luft"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wasserkreislauf",
-        `Welche Rolle spielt die Sonne beim Wasserkreislauf?`, "sie lässt Wasser verdunsteln",
-        ["sie trinkt das Wasser", "sie kühlt das Wasser", "sie hat keine Rolle"]));
+        `Welche Rolle spielt die Sonne beim Wasserkreislauf?`, "sie lässt Wasser verdunsten",
+        ["sie trinkt das Wasser", "sie kühlt das Wasser", "sie hat keine Rolle"], rng));
     }
   }
 
@@ -721,20 +775,20 @@ export function generateAggregatzustände(seed?: number): CurriculumMCQ[] {
       const state = pick(STATES_OF_MATTER, rng);
       q.push(createMCQ("sachkunde", "aggregatzustände",
         `Welcher Aggregatzustand ist das? ${state.example}`, state.state,
-        STATES_OF_MATTER.filter(s => s.state !== state.state).map(s => s.state)));
+        STATES_OF_MATTER.filter(s => s.state !== state.state).map(s => s.state), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "aggregatzustände",
         `Welche Eigenschaft hat ein flüssiger Stoff?`, "hat Volumen, aber keine feste Form",
-        ["hat feste Form", "hat keine Größe", "ist unsichtbar"]));
+        ["hat feste Form", "hat keine Größe", "ist unsichtbar"], rng));
     } else if (type === 2) {
       const change = pick(TEMPERATURE_CHANGES, rng);
       q.push(createMCQ("sachkunde", "aggregatzustände",
         `Was ist ${change.process}?`, change.description,
-        TEMPERATURE_CHANGES.filter(c => c.process !== change.process).map(c => c.description)));
+        TEMPERATURE_CHANGES.filter(c => c.process !== change.process).map(c => c.description), rng));
     } else {
       q.push(createMCQ("sachkunde", "aggregatzustände",
-        `Was passiert, wenn man Wasser erwarmt?`, "es verdunstet zu Dampf",
-        ["es erstarrt", "es gefriert", "es bleibt gleich"]));
+        `Was passiert, wenn man Wasser erwärmt?`, "es verdunstet zu Dampf",
+        ["es erstarrt", "es gefriert", "es bleibt gleich"], rng));
     }
   }
 
@@ -751,19 +805,19 @@ export function generateWasserImLeben(seed?: number): CurriculumMCQ[] {
       const use = pick(WATER_USES, rng);
       q.push(createMCQ("sachkunde", "wasser_im_leben",
         `Wofür brauchen wir Wasser zum ${use.use}?`, use.purpose,
-        WATER_USES.filter(w => w.use !== use.use).map(w => w.purpose)));
+        WATER_USES.filter(w => w.use !== use.use).map(w => w.purpose), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "wasser_im_leben",
         `Wie viel Wasser sollte man pro Tag trinken?`, "mehrere Gläser (etwa 1-1.5 Liter)",
-        ["1 Schluck", "10 Liter", "gar kein Wasser"]));
+        ["1 Schluck", "10 Liter", "gar kein Wasser"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wasser_im_leben",
         `Ist Wasser wichtig für das Leben?`, "ja, Menschen, Tiere und Pflanzen brauchen es",
-        ["nein, nicht wichtig", "nur für Fische", "nur für Pflanzen"]));
+        ["nein, nicht wichtig", "nur für Fische", "nur für Pflanzen"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wasser_im_leben",
         `Wo gibt es Wasser?`, "in Flüssen, Seen, Meeren und Wolken",
-        ["nur im Meer", "nur in Flüssen", "nur in Gläsern"]));
+        ["nur im Meer", "nur in Flüssen", "nur in Gläsern"], rng));
     }
   }
 
@@ -780,21 +834,21 @@ export function generateTagJahreszeiten(seed?: number): CurriculumMCQ[] {
       const time = pick(TIMES_OF_DAY, rng);
       q.push(createMCQ("sachkunde", "tag_jahreszeiten",
         `Wann ist ${time.time}?`, time.when,
-        TIMES_OF_DAY.filter(t => t.time !== time.time).map(t => t.when)));
+        TIMES_OF_DAY.filter(t => t.time !== time.time).map(t => t.when), rng));
     } else if (type === 1) {
       const season = pick(SEASONS_DETAIL, rng);
       q.push(createMCQ("sachkunde", "tag_jahreszeiten",
         `Wann ist ${season.season}?`, season.months,
-        SEASONS_DETAIL.filter(s => s.season !== season.season).map(s => s.months)));
+        SEASONS_DETAIL.filter(s => s.season !== season.season).map(s => s.months), rng));
     } else if (type === 2) {
       const season = pick(SEASONS_DETAIL, rng);
       q.push(createMCQ("sachkunde", "tag_jahreszeiten",
         `Wie ist das Wetter im ${season.season}?`, season.weather,
-        SEASONS_DETAIL.filter(s => s.season !== season.season).map(s => s.weather)));
+        SEASONS_DETAIL.filter(s => s.season !== season.season).map(s => s.weather), rng));
     } else {
       q.push(createMCQ("sachkunde", "tag_jahreszeiten",
         `Wie viele Jahreszeiten gibt es?`, "vier",
-        ["zwei", "drei", "fünf"]));
+        ["zwei", "drei", "fünf"], rng));
     }
   }
 
@@ -811,21 +865,21 @@ export function generateVerschiedeneBerufe(seed?: number): CurriculumMCQ[] {
       const profession = pick(PROFESSIONS, rng);
       q.push(createMCQ("sachkunde", "verschiedene_berufe",
         `Wo arbeitet ein ${profession.job}?`, profession.workplace,
-        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.workplace)));
+        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.workplace), rng));
     } else if (type === 1) {
       const profession = pick(PROFESSIONS, rng);
       q.push(createMCQ("sachkunde", "verschiedene_berufe",
         `Was macht ein ${profession.job}?`, profession.activity,
-        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.activity)));
+        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.activity), rng));
     } else if (type === 2) {
       const profession = pick(PROFESSIONS, rng);
       q.push(createMCQ("sachkunde", "verschiedene_berufe",
         `Welche Werkzeuge braucht ein ${profession.job}?`, profession.tools,
-        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.tools)));
+        PROFESSIONS.filter(p => p.job !== profession.job).map(p => p.tools), rng));
     } else {
       q.push(createMCQ("sachkunde", "verschiedene_berufe",
         `Ist Lehrer ein wichtiger Beruf?`, "ja, sehr wichtig - unterrichtet Schüler",
-        ["nein, nicht wichtig", "nur manchmal", "nicht für Kinder"]));
+        ["nein, nicht wichtig", "nur manchmal", "nicht für Kinder"], rng));
     }
   }
 
@@ -842,19 +896,19 @@ export function generateWasMachenBerufe(seed?: number): CurriculumMCQ[] {
       const task = pick(JOB_TASKS, rng);
       q.push(createMCQ("sachkunde", "was_machen_berufe",
         `Was ist der Beruf eines ${task.job}?`, task.task,
-        JOB_TASKS.filter(j => j.job !== task.job).map(j => j.task)));
+        JOB_TASKS.filter(j => j.job !== task.job).map(j => j.task), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "was_machen_berufe",
         `Wo arbeitet ein Mechaniker?`, "in einer Werkstatt, repariert Autos",
-        ["auf einem Bauernhof", "im Wald", "im Wasser"]));
+        ["auf einem Bauernhof", "im Wald", "im Wasser"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "was_machen_berufe",
         `Was macht ein Arzt?`, "behandelt kranke Menschen",
-        ["repariert Autos", "backt Brot", "pflanzt Blumen"]));
+        ["repariert Autos", "backt Brot", "pflanzt Blumen"], rng));
     } else {
       q.push(createMCQ("sachkunde", "was_machen_berufe",
         `Helfen Berufe den Menschen?`, "ja, sehr - jeder Beruf ist wichtig",
-        ["nein, nicht wirklich", "nur einige", "keine"]));
+        ["nein, nicht wirklich", "nur einige", "keine"], rng));
     }
   }
 
@@ -871,19 +925,19 @@ export function generateFamilieRollen(seed?: number): CurriculumMCQ[] {
       const role = pick(FAMILY_ROLES, rng);
       q.push(createMCQ("sachkunde", "familie_rollen",
         `Was ist die Rolle eines ${role.member}?`, role.role,
-        FAMILY_ROLES.filter(r => r.member !== role.member).map(r => r.role)));
+        FAMILY_ROLES.filter(r => r.member !== role.member).map(r => r.role), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "familie_rollen",
         `Welche Rolle haben Geschwister?`, "spielen zusammen und helfen sich",
-        ["bestimmen alles", "nur älter sein", "nichts zu tun"]));
+        ["bestimmen alles", "nur älter sein", "nichts zu tun"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "familie_rollen",
         `Wer sorgt für eine Familie?`, "Eltern (Vater und Mutter)",
-        ["nur der Vater", "nur die Mutter", "die Kinder"]));
+        ["nur der Vater", "nur die Mutter", "die Kinder"], rng));
     } else {
       q.push(createMCQ("sachkunde", "familie_rollen",
         `Sind Großeltern wichtig?`, "ja, sie teilen Erfahrungen und Liebe",
-        ["nein", "nur manchmal", "nicht wirklich"]));
+        ["nein", "nur manchmal", "nicht wirklich"], rng));
     }
   }
 
@@ -900,19 +954,19 @@ export function generateZusammenlebenHilfe(seed?: number): CurriculumMCQ[] {
       const activity = pick(FAMILY_COOPERATION, rng);
       q.push(createMCQ("sachkunde", "zusammenleben_hilfe",
         `Was ist ein Beispiel für Zusammenarbeit?`, activity.example,
-        FAMILY_COOPERATION.filter(a => a.activity !== activity.activity).map(a => a.example)));
+        FAMILY_COOPERATION.filter(a => a.activity !== activity.activity).map(a => a.example), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "zusammenleben_hilfe",
         `Sollte man seine Familie im Haushalt unterstützen?`, "ja, jeder kann helfen",
-        ["nein, nicht nötig", "nur manchmal", "nicht wichtig"]));
+        ["nein, nicht nötig", "nur manchmal", "nicht wichtig"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "zusammenleben_hilfe",
         `Wie kann man älteren Menschen helfen?`, "Einkaufen tragen, beim Putzen helfen, Besuche machen",
-        ["gar nicht", "nur mit Geld", "nicht möglich"]));
+        ["gar nicht", "nur mit Geld", "nicht möglich"], rng));
     } else {
       q.push(createMCQ("sachkunde", "zusammenleben_hilfe",
         `Warum ist Familie wichtig?`, "wir brauchen Liebe, Schutz und gegenseitige Hilfe",
-        ["sie sind nervig", "nicht wichtig", "nur zum Spielen"]));
+        ["sie sind nervig", "nicht wichtig", "nur zum Spielen"], rng));
     }
   }
 
@@ -929,19 +983,19 @@ export function generateUnfallprävention(seed?: number): CurriculumMCQ[] {
       const danger = pick(ACCIDENT_PREVENTION, rng);
       q.push(createMCQ("sachkunde", "unfallprävention",
         `Wie kann man sich vor Unfällen mit ${danger.danger} schützen?`, danger.rule,
-        ACCIDENT_PREVENTION.filter(a => a.danger !== danger.danger).map(a => a.rule)));
+        ACCIDENT_PREVENTION.filter(a => a.danger !== danger.danger).map(a => a.rule), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "unfallprävention",
         `Ist Spielen auf einem Spielplatz sicher?`, "ja, wenn man vorsichtig ist",
-        ["nie sicher", "nur mit Erwachsenen", "sehr gefährlich"]));
+        ["nie sicher", "nur mit Erwachsenen", "sehr gefährlich"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "unfallprävention",
         `Was sollte man mit scharfen Gegenständen machen?`, "vorsichtig umgehen und nicht damit spielen",
-        ["herumspielen", "anderen werfen", "ignorieren"]));
+        ["herumspielen", "anderen werfen", "ignorieren"], rng));
     } else {
       q.push(createMCQ("sachkunde", "unfallprävention",
         `Warum ist Unfallprävention wichtig?`, "um nicht verletzt zu werden",
-        ["nicht wichtig", "nur für Erwachsene", "nur in der Schule"]));
+        ["nicht wichtig", "nur für Erwachsene", "nur in der Schule"], rng));
     }
   }
 
@@ -958,19 +1012,19 @@ export function generateVerkehrssicherheit(seed?: number): CurriculumMCQ[] {
       const rule = pick(TRAFFIC_SAFETY, rng);
       q.push(createMCQ("sachkunde", "verkehrssicherheit",
         `Was ist wichtig für ${rule.rule}?`, rule.tip,
-        TRAFFIC_SAFETY.filter(r => r.rule !== rule.rule).map(r => r.tip)));
+        TRAFFIC_SAFETY.filter(r => r.rule !== rule.rule).map(r => r.tip), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "verkehrssicherheit",
         `Sollte man einen Fahrradhelm tragen?`, "ja, immer - zum Schutz des Kopfes",
-        ["nein, nicht nötig", "nur manchmal", "nur bei Regen"]));
+        ["nein, nicht nötig", "nur manchmal", "nur bei Regen"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "verkehrssicherheit",
         `Wo sollte man auf der Straße gehen?`, "auf dem Gehweg oder Fußweg",
-        ["auf der Fahrbahn", "überall", "in der Mitte der Straße"]));
+        ["auf der Fahrbahn", "überall", "in der Mitte der Straße"], rng));
     } else {
       q.push(createMCQ("sachkunde", "verkehrssicherheit",
-        `Was ist eine helle Kleidung beim Auto fahren?`, "zum Sehen und Erkannt werden im Dunkeln",
-        ["nicht wichtig", "nur cool", "nur im Sommer"]));
+        `Was ist eine helle Kleidung beim Radfahren?`, "zum Sehen und Erkannt werden im Dunkeln",
+        ["nicht wichtig", "nur cool", "nur im Sommer"], rng));
     }
   }
 
@@ -987,19 +1041,19 @@ export function generateErsteHilfeBasics(seed?: number): CurriculumMCQ[] {
       const injury = pick(FIRST_AID, rng);
       q.push(createMCQ("sachkunde", "erste_hilfe_basics",
         `Was macht man bei einer ${injury.injury}?`, injury.action,
-        FIRST_AID.filter(f => f.injury !== injury.injury).map(f => f.action)));
+        FIRST_AID.filter(f => f.injury !== injury.injury).map(f => f.action), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "erste_hilfe_basics",
         `Wenn dein Freund sich schneidet, was tust du?`, "Wunde reinigen, mit Binde abdrücken",
-        ["ignorieren", "sagen, es geht vorbei", "lachen"]));
+        ["ignorieren", "sagen, es geht vorbei", "lachen"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "erste_hilfe_basics",
         `Was hilft bei einer Beule?`, "Eis auflegen und hoch lagern",
-        ["Wasser", "Sonne", "gar nichts"]));
+        ["Wasser", "Sonne", "gar nichts"], rng));
     } else {
       q.push(createMCQ("sachkunde", "erste_hilfe_basics",
         `Wann sollte man einen Erwachsenen holen?`, "bei ernsthaften Verletzungen sofort",
-        ["nie", "später vielleicht", "nur am Wochenende"]));
+        ["nie", "später vielleicht", "nur am Wochenende"], rng));
     }
   }
 
@@ -1016,19 +1070,161 @@ export function generateNotsituationen(seed?: number): CurriculumMCQ[] {
       const situation = pick(EMERGENCY_SITUATIONS, rng);
       q.push(createMCQ("sachkunde", "notsituationen",
         `Was machst du bei ${situation.situation}?`, situation.action,
-        EMERGENCY_SITUATIONS.filter(s => s.situation !== situation.situation).map(s => s.action)));
+        EMERGENCY_SITUATIONS.filter(s => s.situation !== situation.situation).map(s => s.action), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "notsituationen",
         `Welche Nummer rufst du bei einem Notfall an?`, "112",
-        ["110", "100", "999"]));
+        ["110", "100", "999"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "notsituationen",
         `Wenn du verloren bist, was tust du?`, "bei einem Polizisten oder Geschäftsmann um Hilfe bitten",
-        ["weglaufen", "herumscrienen", "nach Hause gehen"]));
+        ["weglaufen", "herumschreien", "nach Hause gehen"], rng));
     } else {
       q.push(createMCQ("sachkunde", "notsituationen",
         `Was ist ein Notfall?`, "eine gefährliche Situation, in der Hilfe nötig ist",
-        ["ein Spiel", "ein Spaß", "nicht wichtig"]));
+        ["ein Spiel", "ein Spaß", "nicht wichtig"], rng));
+    }
+  }
+
+  return q;
+}
+
+// ─── MAGNETISMUS DATA & GENERATOR ───────────────────────────────────────────
+
+const MAGNETS = [
+  { fact: "Magnete ziehen Eisen und Stahl an", material: "Eisen" },
+  { fact: "Magnete haben einen Nordpol und einen Südpol", poles: "Nord und Süd" },
+  { fact: "Gleiche Pole stoßen sich ab", effect: "Abstoßung" },
+  { fact: "Verschiedene Pole ziehen sich an", effect: "Anziehung" }
+];
+
+const MAGNETIC_MATERIALS = [
+  { material: "Eisen", magnetic: true },
+  { material: "Stahl", magnetic: true },
+  { material: "Holz", magnetic: false },
+  { material: "Plastik", magnetic: false },
+  { material: "Glas", magnetic: false },
+  { material: "Nickel", magnetic: true },
+  { material: "Kupfer", magnetic: false },
+  { material: "Papier", magnetic: false }
+];
+
+const MAGNET_USES = [
+  { use: "Kühlschrankmagnet", purpose: "hält Zettel an der Tür" },
+  { use: "Kompassnadel", purpose: "zeigt Norden an" },
+  { use: "Magnetverschluss", purpose: "hält Taschen geschlossen" },
+  { use: "Schrottplatz-Magnet", purpose: "hebt Eisen und Stahl" }
+];
+
+export function generateMagnetismus(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  const magneticOnes = MAGNETIC_MATERIALS.filter(m => m.magnetic).map(m => m.material);
+  const nonMagneticOnes = MAGNETIC_MATERIALS.filter(m => !m.magnetic).map(m => m.material);
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 4;
+    if (type === 0) {
+      // Does a magnet attract this material?
+      const item = pick(MAGNETIC_MATERIALS, rng);
+      q.push(createMCQ("sachkunde", "magnetismus",
+        `Zieht ein Magnet ${item.material} an?`,
+        item.magnetic ? "ja, weil es ein magnetisches Material ist" : "nein, weil es kein magnetisches Material ist",
+        item.magnetic
+          ? ["nein, Magnete ziehen nur Holz an", "nein, das ist kein Metall", "nur manchmal"]
+          : ["ja, Magnete ziehen alles an", "ja, besonders Holz", "ja, immer"],
+        rng));
+    } else if (type === 1) {
+      // Which material is magnetic?
+      const correctMaterial = pick(magneticOnes, rng);
+      q.push(createMCQ("sachkunde", "magnetismus",
+        `Welches Material wird von einem Magneten angezogen?`,
+        correctMaterial,
+        [...nonMagneticOnes.slice(0, 3)],
+        rng));
+    } else if (type === 2) {
+      // Magnet poles and uses
+      const magUse = pick(MAGNET_USES, rng);
+      q.push(createMCQ("sachkunde", "magnetismus",
+        `Wofür wird ein ${magUse.use} benutzt?`,
+        magUse.purpose,
+        MAGNET_USES.filter(u => u.use !== magUse.use).map(u => u.purpose),
+        rng));
+    } else {
+      // Facts about poles
+      const POLE_QUESTIONS = [
+        { q: "Was passiert, wenn zwei Nordpole sich berühren?", a: "sie stoßen sich ab", w: ["sie ziehen sich an", "nichts passiert", "sie verschmelzen"] },
+        { q: "Was passiert, wenn ein Nord- und ein Südpol sich berühren?", a: "sie ziehen sich an", w: ["sie stoßen sich ab", "nichts passiert", "sie explodieren"] },
+        { q: "Wie viele Pole hat ein Magnet?", a: "zwei (Nordpol und Südpol)", w: ["einen", "drei", "keinen"] },
+        { q: "Was zieht ein Magnet an?", a: "Eisen, Stahl und Nickel", w: ["alles Metall", "nur Gold", "nur Kupfer"] },
+      ];
+      const item = pick(POLE_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "magnetismus", item.q, item.a, item.w, rng));
+    }
+  }
+
+  return q;
+}
+
+// ─── SCHWIMMEN & SINKEN DATA & GENERATOR ────────────────────────────────────
+
+const FLOATING_SINKING = [
+  { object: "Holzstück", behavior: "schwimmt", reason: "leichter als Wasser" },
+  { object: "Stein", behavior: "sinkt", reason: "schwerer als Wasser" },
+  { object: "Korken", behavior: "schwimmt", reason: "leichter als Wasser" },
+  { object: "Eisennagel", behavior: "sinkt", reason: "schwerer als Wasser" },
+  { object: "Blatt", behavior: "schwimmt", reason: "leicht und flach" },
+  { object: "Münze", behavior: "sinkt", reason: "schweres Metall" },
+  { object: "Plastikflasche (leer)", behavior: "schwimmt", reason: "Luft darin" },
+  { object: "Glasmurmel", behavior: "sinkt", reason: "schwerer als Wasser" }
+];
+
+export function generateSchwimmenSinken(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+  const q: CurriculumMCQ[] = [];
+
+  const floaters = FLOATING_SINKING.filter(f => f.behavior === "schwimmt").map(f => f.object);
+  const sinkers = FLOATING_SINKING.filter(f => f.behavior === "sinkt").map(f => f.object);
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 4;
+    if (type === 0) {
+      // Swim or sink?
+      const item = pick(FLOATING_SINKING, rng);
+      q.push(createMCQ("sachkunde", "schwimmen_sinken",
+        `Was passiert mit einem ${item.object} im Wasser?`,
+        item.behavior === "schwimmt" ? "es schwimmt" : "es sinkt",
+        item.behavior === "schwimmt"
+          ? ["es sinkt", "es verschwindet", "es löst sich auf"]
+          : ["es schwimmt", "es fliegt", "es bleibt oben"],
+        rng));
+    } else if (type === 1) {
+      // Why does it float/sink?
+      const item = pick(FLOATING_SINKING, rng);
+      q.push(createMCQ("sachkunde", "schwimmen_sinken",
+        `Warum ${item.behavior === "schwimmt" ? "schwimmt" : "sinkt"} ein ${item.object}?`,
+        item.reason,
+        FLOATING_SINKING.filter(f => f.object !== item.object).map(f => f.reason),
+        rng));
+    } else if (type === 2) {
+      // Which object floats?
+      const correctFloater = pick(floaters, rng);
+      q.push(createMCQ("sachkunde", "schwimmen_sinken",
+        `Welches Objekt schwimmt im Wasser?`,
+        correctFloater,
+        sinkers.slice(0, 3),
+        rng));
+    } else {
+      // Concepts about floating and sinking
+      const CONCEPT_QUESTIONS = [
+        { q: "Warum schwimmt Holz im Wasser?", a: "weil es leichter als Wasser ist", w: ["weil es hart ist", "weil es ein Baum war", "weil es nass wird"] },
+        { q: "Warum sinkt ein Stein im Wasser?", a: "weil er schwerer als Wasser ist", w: ["weil er kalt ist", "weil er rund ist", "weil er grau ist"] },
+        { q: "Was braucht man, um zu untersuchen, ob etwas schwimmt oder sinkt?", a: "Wasser und das Objekt", w: ["Feuer", "Luft", "nur ein Messer"] },
+        { q: "Kann eine leere Plastikflasche schwimmen?", a: "ja, weil Luft darin leichter als Wasser ist", w: ["nein, Plastik sinkt immer", "nein, nur Holz schwimmt", "nein, Flaschen sinken immer"] },
+      ];
+      const item = pick(CONCEPT_QUESTIONS, rng);
+      q.push(createMCQ("sachkunde", "schwimmen_sinken", item.q, item.a, item.w, rng));
     }
   }
 
@@ -1061,5 +1257,7 @@ export const G2_Generators_Sachkunde = {
   unfallprävention: generateUnfallprävention,
   verkehrssicherheit: generateVerkehrssicherheit,
   erste_hilfe_basics: generateErsteHilfeBasics,
-  notsituationen: generateNotsituationen
+  notsituationen: generateNotsituationen,
+  magnetismus: generateMagnetismus,
+  schwimmen_sinken: generateSchwimmenSinken
 };

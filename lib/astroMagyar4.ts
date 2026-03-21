@@ -51,7 +51,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -63,7 +63,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "picture-word" as any,    icon: "🖼️", label: { hu: "Szókincs",  en: "Vocabulary", de: "Wortschatz", ro: "Vocabular"  } },
       { id: "m2", category: "build",     gameType: "sentence-builder" as any, icon: "🏗️", label: { hu: "Mondatépítő", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -75,7 +75,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
       { id: "m2", category: "build",     gameType: "category-rush" as any, icon: "📦", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -87,7 +87,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "reading-comp" as any, icon: "📖", label: { hu: "Olvasás",   en: "Reading",    de: "Lesen",       ro: "Lectură"    } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -99,7 +99,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -111,7 +111,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -123,7 +123,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 200, svgY: 80,
   },
@@ -135,7 +135,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 150, svgY: 20,
   },
@@ -147,7 +147,7 @@ export const O4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", as any icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 120, svgY: 120,
   },
