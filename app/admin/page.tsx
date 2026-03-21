@@ -9,7 +9,7 @@ import { getUser } from "@/lib/auth";
 
 // ─── ADMIN EMAILS (hardcoded) ────────────────────────────
 const ADMIN_EMAILS = [
-  "erepairshop1@gmail.com",
+  "borota25@gmail.com",
   // Add more admin emails here
 ];
 
