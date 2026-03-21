@@ -19,6 +19,7 @@ const K8: BiologieTheme[] = [
       { id: "vererbung", name: "Vererbung", questions: [] },
       { id: "mutation", name: "Mutation", questions: [] },
       { id: "genetische_technik", name: "Genetische Technik", questions: [] },
+      { id: "genetic_counseling", name: "Genetische Beratung", questions: [] },
     ],
   },
   {
@@ -42,6 +43,7 @@ const K8: BiologieTheme[] = [
       { id: "befruchtung", name: "Befruchtung", questions: [] },
       { id: "embryonalentwicklung", name: "Embryonalentwicklung", questions: [] },
       { id: "geschlechtsbestimmung", name: "Geschlechtsbestimmung", questions: [] },
+      { id: "contraception", name: "Verhütungsmethoden", questions: [] },
     ],
   },
   {
@@ -75,6 +77,7 @@ const K8: BiologieTheme[] = [
       { id: "populationsgenetik", name: "Populationsgenetik", questions: [] },
       { id: "artbildung", name: "Artbildung", questions: [] },
       { id: "phylogenie", name: "Phylogenie", questions: [] },
+      { id: "conservation_biology", name: "Naturschutzbiologie", questions: [] },
     ],
   },
 ];

@@ -19,6 +19,7 @@ const K7: BiologieTheme[] = [
       { id: "cell_organelles", name: "Organellen", questions: [] },
       { id: "microscope", name: "Mikroskop", questions: [] },
       { id: "cell_division", name: "Zellteilung", questions: [] },
+      { id: "cell_cycle", name: "Zellzyklus", questions: [] },
     ],
   },
   {
@@ -42,6 +43,7 @@ const K7: BiologieTheme[] = [
       { id: "ecological_niche", name: "Ökologische Nische", questions: [] },
       { id: "competition", name: "Konkurrenz", questions: [] },
       { id: "symbiosis", name: "Symbiose", questions: [] },
+      { id: "biogeochemical_cycles", name: "Biogeochemische Kreisläufe", questions: [] },
     ],
   },
   {
@@ -65,6 +67,7 @@ const K7: BiologieTheme[] = [
       { id: "synapse", name: "Synapse", questions: [] },
       { id: "reflex", name: "Reflex", questions: [] },
       { id: "brain", name: "Gehirn", questions: [] },
+      { id: "behavior_learning", name: "Verhalten & Lernen", questions: [] },
     ],
   },
   {

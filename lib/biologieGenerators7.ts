@@ -138,6 +138,25 @@ const FOSSIL_DATA = [
   { type: "Chemisches Fossil", example: "Öl", preservation: "Molekulär" },
 ];
 
+const CELL_CYCLE_DATA = [
+  { phase: "G1", activity: "Zellwachstum", checkpoint: "G1/S" },
+  { phase: "S", activity: "DNA Replikation", checkpoint: "Intra-S" },
+  { phase: "G2", activity: "Vorbereitung", checkpoint: "G2/M" },
+  { phase: "M", activity: "Mitose", checkpoint: "Spindel" },
+];
+
+const BIOGEOCHEMICAL_DATA = [
+  { cycle: "Kohlenstoff", reservoir: "Atmosphäre", process: "Photosynthese" },
+  { cycle: "Stickstoff", reservoir: "Boden", process: "Nitrifikation" },
+  { cycle: "Wasser", reservoir: "Ozeane", process: "Verdampfung" },
+];
+
+const BEHAVIOR_LEARNING_DATA = [
+  { type: "Instinkt", innate: "Ja", learned: "Nein" },
+  { type: "Konditionierung", innate: "Nein", learned: "Ja" },
+  { type: "Imprinting", innate: "Teilweise", learned: "Teilweise" },
+];
+
 // ─── K7 GENERATORS ─────────────────────────────────────────────────────────
 
 export const K7_Generators: Record<string, (seed?: number) => CurriculumQuestion[]> = {
@@ -491,6 +510,57 @@ export const K7_Generators: Record<string, (seed?: number) => CurriculumQuestion
     createTyping("evolution", "fossils", "Was ist Spurenfossil?", ["Fußabdruck, Bau"]),
     createTyping("evolution", "fossils", "Wie alt können Fossilien sein?", ["Millionen Jahre"]),
     createTyping("evolution", "fossils", "Wie datiert man Fossilien?", ["Radiokarbondatierung"]),
+  ],
+
+  cell_cycle: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const phase = pick(CELL_CYCLE_DATA, rng);
+      questions.push(createMCQ("zellen", "cell_cycle", `${phase.phase} Phase: ${phase.activity}`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  cell_cycle_typing: (seed?: number) => [
+    createTyping("zellen", "cell_cycle", "Nenne die 4 Phasen", ["G1, S, G2, M"]),
+    createTyping("zellen", "cell_cycle", "Was ist S Phase?", ["DNA Replikation"]),
+    createTyping("zellen", "cell_cycle", "Was ist G1 Phase?", ["Zellwachstum"]),
+    createTyping("zellen", "cell_cycle", "Was ist Checkpoint?", ["Kontrollpunkt"]),
+    createTyping("zellen", "cell_cycle", "Wie lange dauert Zellzyklus?", ["20-30 Stunden"]),
+  ],
+
+  biogeochemical_cycles: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const cycle = pick(BIOGEOCHEMICAL_DATA, rng);
+      questions.push(createMCQ("oekologie", "biogeochemical_cycles", `${cycle.cycle} Kreislauf hat Reservoir in ${cycle.reservoir}`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  biogeochemical_cycles_typing: (seed?: number) => [
+    createTyping("oekologie", "biogeochemical_cycles", "Nenne 3 Kreisläufe", ["Kohlenstoff, Stickstoff, Wasser"]),
+    createTyping("oekologie", "biogeochemical_cycles", "Was ist Kohlenstoffkreislauf?", ["CO2 Austausch"]),
+    createTyping("oekologie", "biogeochemical_cycles", "Was ist Stickstoffkreislauf?", ["N2 Fixation"]),
+    createTyping("oekologie", "biogeochemical_cycles", "Wo ist das Reservoir?", ["Atmosphäre, Boden, Wasser"]),
+    createTyping("oekologie", "biogeochemical_cycles", "Wer sind Produzenten/Konsumenten?", ["Pflanzen/Tiere"]),
+  ],
+
+  behavior_learning: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const behavior = pick(BEHAVIOR_LEARNING_DATA, rng);
+      questions.push(createMCQ("nervensystem", "behavior_learning", `${behavior.type} ist angeboren: ${behavior.innate}`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  behavior_learning_typing: (seed?: number) => [
+    createTyping("nervensystem", "behavior_learning", "Was ist Instinkt?", ["Angeborenes Verhalten"]),
+    createTyping("nervensystem", "behavior_learning", "Was ist klassische Konditionierung?", ["Pavlov"]),
+    createTyping("nervensystem", "behavior_learning", "Was ist Imprinting?", ["Frühe Bindung"]),
+    createTyping("nervensystem", "behavior_learning", "Nenne Lerntypen", ["Instinkt, Konditionierung, Insight"]),
+    createTyping("nervensystem", "behavior_learning", "Können Tiere lernen?", ["Ja"]),
   ],
 };
 

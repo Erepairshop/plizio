@@ -164,6 +164,24 @@ const PHYLOGENIE_DATA = [
   { evidence: "Fossil", source: "Alt", reliability: "Variabel" },
 ];
 
+const GENETIC_COUNSELING_DATA = [
+  { disorder: "Mukoviszidose", inheritance: "Autosomal rezessiv", frequency: "1/2000" },
+  { disorder: "Hämophilie", inheritance: "X-gekoppelt", frequency: "1/5000" },
+  { disorder: "Huntington", inheritance: "Autosomal dominant", frequency: "1/10000" },
+];
+
+const CONTRACEPTION_DATA = [
+  { method: "Kondom", effectiveness: "95%", reversible: "Ja" },
+  { method: "Pille", effectiveness: "99%", reversible: "Ja" },
+  { method: "IUD", effectiveness: "99%", reversible: "Ja" },
+];
+
+const CONSERVATION_DATA = [
+  { threat: "Habitatverlust", cause: "Urbanisierung", solution: "Schutzgebiete" },
+  { threat: "Überfischung", cause: "Kommerz", solution: "Quoten" },
+  { threat: "Klimawandel", cause: "Treibhausgase", solution: "Reduktion" },
+];
+
 // ─── K8 GENERATORS ─────────────────────────────────────────────────────────
 
 export const K8_Generators: Record<string, (seed?: number) => CurriculumQuestion[]> = {
@@ -505,6 +523,57 @@ export const K8_Generators: Record<string, (seed?: number) => CurriculumQuestion
     createTyping("evolution_advanced", "phylogenie", "Nenne Phylogenie Beweise", ["Morphologie, Molecular, Fossil"]),
     createTyping("evolution_advanced", "phylogenie", "Was ist Homologie?", ["Gemeinsamer Ursprung"]),
     createTyping("evolution_advanced", "phylogenie", "Was ist Analogie?", ["Ähnliche Funktion, anderer Ursprung"]),
+  ],
+
+  genetic_counseling: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const disorder = pick(GENETIC_COUNSELING_DATA, rng);
+      questions.push(createMCQ("genetik", "genetic_counseling", `${disorder.disorder} ist ${disorder.inheritance}`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  genetic_counseling_typing: (seed?: number) => [
+    createTyping("genetik", "genetic_counseling", "Was ist genetische Beratung?", ["Risiko Bewertung"]),
+    createTyping("genetik", "genetic_counseling", "Nenne 3 genetische Störungen", ["Mukoviszidose, Hämophilie, Huntington"]),
+    createTyping("genetik", "genetic_counseling", "Was ist Carrier Testing?", ["Träger Prüfung"]),
+    createTyping("genetik", "genetic_counseling", "Wer sollte Beratung erhalten?", ["Patienten, Familie"]),
+    createTyping("genetik", "genetic_counseling", "Was ist Pränataltest?", ["Schwangerschaft Test"]),
+  ],
+
+  contraception: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const method = pick(CONTRACEPTION_DATA, rng);
+      questions.push(createMCQ("reproduktion", "contraception", `${method.method} ist ${method.effectiveness} effektiv`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  contraception_typing: (seed?: number) => [
+    createTyping("reproduktion", "contraception", "Nenne 5 Verhütungsmethoden", ["Kondom, Pille, IUD, Implantat, Spermizid"]),
+    createTyping("reproduktion", "contraception", "Was ist Kondom?", ["Barriere Methode"]),
+    createTyping("reproduktion", "contraception", "Was ist Pille?", ["Hormonale Methode"]),
+    createTyping("reproduktion", "contraception", "Was ist IUD?", ["Intrauterines Gerät"]),
+    createTyping("reproduktion", "contraception", "Welche ist am effektivsten?", ["Implantat, IUD"]),
+  ],
+
+  conservation_biology: (seed?: number) => {
+    const rng = seed ? mulberry32(seed) : Math.random;
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 30; i++) {
+      const threat = pick(CONSERVATION_DATA, rng);
+      questions.push(createMCQ("evolution_advanced", "conservation_biology", `${threat.threat} ist durch ${threat.cause} verursacht`, "wahr", ["falsch"], rng));
+    }
+    return questions.slice(0, 30);
+  },
+  conservation_biology_typing: (seed?: number) => [
+    createTyping("evolution_advanced", "conservation_biology", "Was ist Naturschutz?", ["Artenschutz"]),
+    createTyping("evolution_advanced", "conservation_biology", "Nenne 3 Bedrohungen", ["Habitatverlust, Überfischung, Klimawandel"]),
+    createTyping("evolution_advanced", "conservation_biology", "Was ist Red List?", ["Bedrohte Arten Liste"]),
+    createTyping("evolution_advanced", "conservation_biology", "Was sind Schutzgebiete?", ["Reservate"]),
+    createTyping("evolution_advanced", "conservation_biology", "Wie viele Arten sind bedroht?", ["Millionen"]),
   ],
 };
 
