@@ -455,9 +455,9 @@ export const ESET_POOL: EsetItem[] = [
     case: 'G'
   },
   {
-    sentence: "Péter _egy könyvet_ olvas.",
-    highlight: "egy könyvet",
-    case: 'T'
+    sentence: "Péter _egy embernek_ segít.",
+    highlight: "egy embernek",
+    case: 'D'
   },
   {
     sentence: "_Az anya_ főz finom levest.",
