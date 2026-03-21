@@ -4,12 +4,14 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, RotateCcw } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 interface SpellRound {
   word: string;
   hint: string;
   scrambledLetters: string[];
   category?: string;
+  explanation?: string;
 }
 
 interface SpellRaceExplorerProps {
@@ -29,6 +31,13 @@ const LABELS = {
     tapLetters: "Tap the letters in order",
     tryAgain: "Try again!",
     correct: "Correct!",
+    mistake: "mistake",
+    mistakes: "mistakes",
+    back: "← Back",
+    reset: "Reset",
+    theWordIs: "The word is:",
+    didYouKnow: "Did you know?",
+    learnFromThis: "Learn from this!",
   },
   hu: {
     spellWord: "Betűzd ki a szót!",
@@ -39,6 +48,13 @@ const LABELS = {
     tapLetters: "Koppints a betűkre sorrendben",
     tryAgain: "Próbáld újra!",
     correct: "Helyes!",
+    mistake: "hiba",
+    mistakes: "hiba",
+    back: "← Vissza",
+    reset: "Újra",
+    theWordIs: "A szó:",
+    didYouKnow: "Tudtad?",
+    learnFromThis: "Tanulj ebből!",
   },
   de: {
     spellWord: "Buchstabiere das Wort!",
@@ -49,6 +65,13 @@ const LABELS = {
     tapLetters: "Tippe die Buchstaben der Reihe nach",
     tryAgain: "Versuch nochmal!",
     correct: "Richtig!",
+    mistake: "Fehler",
+    mistakes: "Fehler",
+    back: "← Zurück",
+    reset: "Zurücksetzen",
+    theWordIs: "Das Wort ist:",
+    didYouKnow: "Wusstest du?",
+    learnFromThis: "Lerne daraus!",
   },
   ro: {
     spellWord: "Literează cuvântul!",
@@ -59,6 +82,13 @@ const LABELS = {
     tapLetters: "Atinge literele în ordine",
     tryAgain: "Încearcă din nou!",
     correct: "Corect!",
+    mistake: "greșeală",
+    mistakes: "greșeli",
+    back: "← Înapoi",
+    reset: "Resetare",
+    theWordIs: "Cuvântul este:",
+    didYouKnow: "Știai?",
+    learnFromThis: "Învață din asta!",
   },
 } as const;
 
@@ -77,7 +107,12 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
   const [mistakes, setMistakes] = useState(0);
   const [confirmed, setConfirmed] = useState(false);
   const [usedIndices, setUsedIndices] = useState<boolean[]>([]);
+  const [flashIdx, setFlashIdx] = useState<number | null>(null);
+  const [flashWrong, setFlashWrong] = useState(false);
+  const [showDiscovery, setShowDiscovery] = useState(false);
+  const [currentDiscovery, setCurrentDiscovery] = useState("");
 
+  const wrongCountRef = useRef(0);
   const scoreRef = useRef(0);
 
   const round = rounds[roundIdx];
@@ -106,11 +141,16 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
       const nextIdx = spellProgress.length;
 
       if (letter.toLowerCase() === round.word[nextIdx].toLowerCase()) {
-        // Correct letter
+        // Correct letter — green flash
         setSpellProgress((prev) => [...prev, letter]);
+        setFlashIdx(letterIdx);
+        setTimeout(() => setFlashIdx(null), 800);
       } else {
-        // Wrong letter
+        // Wrong letter — red flash + increment wrongCountRef
+        wrongCountRef.current += 1;
         setMistakes((prev) => prev + 1);
+        setFlashWrong(true);
+        setTimeout(() => setFlashWrong(false), 800);
       }
     },
     [confirmed, isComplete, spellProgress, round]
@@ -141,9 +181,25 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
     }
   }, [isComplete, isCorrect, confirmed, noMistakes, mistakes]);
 
+  const showDiscoveryFact = useCallback(() => {
+    // Use explanation from round if available, else a generic fact
+    const discovery = round.explanation || `"${round.word}" is a great word to practice!`;
+    setCurrentDiscovery(discovery);
+    setShowDiscovery(true);
+    const timer = setTimeout(() => {
+      setShowDiscovery(false);
+      setTimeout(() => {
+        handleNext();
+      }, 300);
+    }, 2500);
+    return () => clearTimeout(timer);
+  }, [round]);
+
   const handleNext = useCallback(() => {
     if (roundIdx + 1 >= rounds.length) {
-      onDone(scoreRef.current, rounds.length);
+      // Final score using wrongCountRef pattern
+      const score = Math.max(1, rounds.length - Math.min(wrongCountRef.current, rounds.length - 1));
+      onDone(score, rounds.length);
     } else {
       setRoundIdx((i) => i + 1);
       setSpellProgress([]);
@@ -204,6 +260,15 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
         </motion.div>
       </AnimatePresence>
 
+      {/* Speak button - hear the word */}
+      <motion.div
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        className="flex items-center justify-center"
+      >
+        <SpeakButton text={round.word} lang={lang ?? "en"} size={16} />
+      </motion.div>
+
       {/* Word slots */}
       <motion.div className="flex justify-center gap-2 flex-wrap">
         {Array.from({ length: wordLength }).map((_, i) => (
@@ -246,7 +311,7 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
           className="text-center text-sm font-bold flex items-center justify-center gap-1"
           style={{ color: mistakes >= 2 ? "#FF6666" : "#FFB84D" }}
         >
-          <X size={16} /> {mistakes} {mistakes === 1 ? "mistake" : "mistakes"}
+          <X size={16} /> {mistakes} {mistakes === 1 ? t.mistake : t.mistakes}
         </motion.div>
       )}
 
@@ -263,22 +328,35 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
           <div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
             {round.scrambledLetters.map((letter, idx) => {
               const isUsed = localUsedIndices[idx];
+              const isFlashing = flashIdx === idx;
+              const isFlashingWrong = flashWrong && !isUsed;
+
               return (
                 <motion.button
                   key={idx}
                   onClick={() => !isUsed && handleLetterTap(idx)}
                   className="w-10 h-10 rounded-xl font-bold text-base transition-all"
                   style={{
-                    background: isUsed
+                    background: isFlashing
+                      ? "#00FF88"
+                      : isFlashingWrong
+                      ? "#FF2D78"
+                      : isUsed
                       ? "rgba(255,255,255,0.04)"
                       : `${color}25`,
-                    color: isUsed
+                    color: isFlashing
+                      ? "#000"
+                      : isFlashingWrong
+                      ? "#fff"
+                      : isUsed
                       ? "rgba(255,255,255,0.3)"
                       : color,
                     border: `2px solid ${isUsed ? "rgba(255,255,255,0.1)" : color}`,
                     opacity: isUsed ? 0.5 : 1,
                     cursor: isUsed ? "not-allowed" : "pointer",
                   }}
+                  animate={isFlashing ? { scale: [1, 1.15, 1] } : isFlashingWrong ? { scale: [1, 0.95, 1] } : {}}
+                  transition={{ duration: 0.4 }}
                   whileTap={!isUsed ? { scale: 0.88 } : {}}
                   disabled={isUsed}
                 >
@@ -301,7 +379,7 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
                 }}
                 whileTap={{ scale: 0.94 }}
               >
-                ← Back
+                {t.back}
               </motion.button>
             )}
             {mistakes > 0 && (
@@ -315,12 +393,28 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
                 }}
                 whileTap={{ scale: 0.94 }}
               >
-                <RotateCcw size={12} /> Reset
+                <RotateCcw size={12} /> {t.reset}
               </motion.button>
             )}
           </div>
         </motion.div>
       )}
+
+      {/* Discovery card */}
+      <AnimatePresence>
+        {showDiscovery && (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -12 }}
+            className="rounded-2xl p-4 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "1.5px solid rgba(180,77,255,0.3)" }}
+          >
+            <p className="text-xs font-bold uppercase text-purple-400 mb-1">💡 {t.didYouKnow}</p>
+            <p className="text-sm font-semibold text-white/80">{currentDiscovery}</p>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Completion feedback */}
       <AnimatePresence>
@@ -340,7 +434,7 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
           </motion.button>
         )}
 
-        {confirmed && (
+        {confirmed && !showDiscovery && (
           <motion.div
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
@@ -369,13 +463,13 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
                 className="text-center text-sm font-bold"
                 style={{ color }}
               >
-                The word is: <span className="text-base font-black">{round.word}</span>
+                {t.theWordIs} <span className="text-base font-black">{round.word}</span>
               </motion.div>
             )}
 
             {/* Next button */}
             <motion.button
-              onClick={handleNext}
+              onClick={showDiscoveryFact}
               className="w-full py-3 rounded-2xl font-black text-white flex items-center justify-center gap-2 text-base mt-2"
               style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
               whileTap={{ scale: 0.97 }}

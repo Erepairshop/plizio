@@ -2,6 +2,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -339,7 +340,7 @@ const PART_QUIZ = [
   },
 ];
 
-function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -360,8 +361,11 @@ function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Rec
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round5}</div>
-      <div className="px-4 py-2 rounded-2xl border text-sm font-semibold text-white/85 text-center"
-        style={{ borderColor: "rgba(255,255,255,0.15)", background: "rgba(255,255,255,0.05)" }}>{q.sentence}</div>
+      <div className="flex items-center justify-center gap-2 px-4 py-2 rounded-2xl border"
+        style={{ borderColor: "rgba(255,255,255,0.15)", background: "rgba(255,255,255,0.05)" }}>
+        <span className="text-sm font-semibold text-white/85">{q.sentence}</span>
+        <SpeakButton text={q.sentence} lang={"de"} size={16} />
+      </div>
       <p className="text-sm font-bold text-white/80">{lbl[q.questionKey as keyof typeof lbl]}</p>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
@@ -418,7 +422,7 @@ const SentencePartsExplorer = memo(function SentencePartsExplorer({
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
           {round === 4 && (
             <div className="w-full flex flex-col items-center gap-4">
-              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} />
               <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
                 className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
                 style={{ background: `${color}22` }}>

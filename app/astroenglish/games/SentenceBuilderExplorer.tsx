@@ -4,6 +4,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence, Reorder } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 interface SentenceRound {
   words: string[];
@@ -27,6 +28,11 @@ const LABELS = {
     tryFix: "Almost! Fix the highlighted word.",
     next: "Next",
     explanation: "Remember:",
+    tapWords: "Tap words to build the sentence...",
+    clearAll: "Clear all",
+    done: "Done!",
+    didYouKnow: "Did you know?",
+    learnFromThis: "Learn from this!",
   },
   hu: {
     buildSentence: "Rakd össze a mondatot!",
@@ -35,6 +41,11 @@ const LABELS = {
     tryFix: "Majdnem! Javítsd a kijelölt szót.",
     next: "Tovább",
     explanation: "Jegyezd meg:",
+    tapWords: "Koppints a szavakra a mondat összerakásához...",
+    clearAll: "Összes törlése",
+    done: "Kész!",
+    didYouKnow: "Tudtad?",
+    learnFromThis: "Tanulj ebből!",
   },
   de: {
     buildSentence: "Baue den Satz!",
@@ -43,6 +54,11 @@ const LABELS = {
     tryFix: "Fast! Korrigiere das markierte Wort.",
     next: "Weiter",
     explanation: "Merke dir:",
+    tapWords: "Tippe auf Wörter, um den Satz zu bauen...",
+    clearAll: "Alles löschen",
+    done: "Fertig!",
+    didYouKnow: "Wusstest du?",
+    learnFromThis: "Lerne daraus!",
   },
   ro: {
     buildSentence: "Construiește propoziția!",
@@ -51,6 +67,11 @@ const LABELS = {
     tryFix: "Aproape! Corectează cuvântul evidențiat.",
     next: "Următorul",
     explanation: "Ține minte:",
+    tapWords: "Atinge cuvintele pentru a construi propoziția...",
+    clearAll: "Șterge tot",
+    done: "Gata!",
+    didYouKnow: "Știai?",
+    learnFromThis: "Învață din asta!",
   },
 } as const;
 
@@ -77,8 +98,11 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
   const [selectedIndices, setSelectedIndices] = useState<number[]>([]);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [wrongIdx, setWrongIdx] = useState<number | null>(null);
+  const [showDiscovery, setShowDiscovery] = useState(false);
+  const [currentDiscovery, setCurrentDiscovery] = useState("");
+  const [flashWrong, setFlashWrong] = useState(false);
 
-  const scoreRef = useRef(0);
+  const wrongCountRef = useRef(0);
 
   const round = rounds[roundIdx];
   const unplacedWords = round.words
@@ -90,19 +114,32 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
     const isCorrect = isCorrectOrder(selectedIndices, round.correctOrder);
 
     if (isCorrect) {
-      scoreRef.current += 1;
       setFeedback("correct");
+      setFlashWrong(false);
+
+      // Show discovery card for 2.5s, then advance
+      const discoveryText = round.explanation || "Well done! You've built the sentence correctly.";
+      setCurrentDiscovery(discoveryText);
+      setShowDiscovery(true);
+
       setTimeout(() => {
-        if (roundIdx + 1 >= rounds.length) {
-          onDone(scoreRef.current, rounds.length);
-        } else {
-          setRoundIdx(roundIdx + 1);
-          setSelectedIndices([]);
-          setFeedback(null);
-          setWrongIdx(null);
-        }
-      }, 1200);
+        setShowDiscovery(false);
+        setTimeout(() => {
+          if (roundIdx + 1 >= rounds.length) {
+            const finalScore = Math.max(1, rounds.length - Math.min(wrongCountRef.current, rounds.length - 1));
+            onDone(finalScore, rounds.length);
+          } else {
+            setRoundIdx(roundIdx + 1);
+            setSelectedIndices([]);
+            setFeedback(null);
+            setWrongIdx(null);
+          }
+        }, 300);
+      }, 2500);
     } else {
+      wrongCountRef.current += 1;
+      setFlashWrong(true);
+
       // Find first wrong position
       let firstWrongIdx = null;
       for (let i = 0; i < selectedIndices.length; i++) {
@@ -113,6 +150,11 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
       }
       setFeedback("wrong");
       setWrongIdx(firstWrongIdx);
+
+      // Auto-clear flash after 800ms
+      setTimeout(() => {
+        setFlashWrong(false);
+      }, 800);
     }
   }, [selectedIndices, round, roundIdx, rounds, onDone]);
 
@@ -187,7 +229,7 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
               exit={{ opacity: 0 }}
               className="text-sm font-semibold text-white/40 italic"
             >
-              Tap words to build the sentence...
+              {t.tapWords}
             </motion.div>
           ) : (
             selectedIndices.map((wordIdx, pos) => {
@@ -280,7 +322,7 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
               onClick={handleClearAll}
               className="text-xs font-semibold text-white/50 hover:text-white/70 transition-colors"
             >
-              Clear all
+              {t.clearAll}
             </button>
           </motion.div>
         )}
@@ -333,9 +375,12 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
                 <p className="text-xs font-semibold text-white/70 text-center mb-2">
                   {t.explanation}
                 </p>
-                <p className="text-sm font-bold text-white/85 text-center italic">
-                  "{correctSentence}"
-                </p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-sm font-bold text-white/85 italic">
+                    "{correctSentence}"
+                  </p>
+                  <SpeakButton text={correctSentence} lang={lang ?? "en"} size={16} />
+                </div>
               </motion.div>
             )}
 
@@ -345,7 +390,8 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
               animate={{ opacity: 1 }}
               onClick={() => {
                 if (roundIdx + 1 >= rounds.length) {
-                  onDone(scoreRef.current, rounds.length);
+                  const finalScore = Math.max(1, rounds.length - Math.min(wrongCountRef.current, rounds.length - 1));
+                  onDone(finalScore, rounds.length);
                 } else {
                   setRoundIdx(roundIdx + 1);
                   setSelectedIndices([]);
@@ -360,8 +406,23 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
               }}
               whileTap={{ scale: 0.97 }}
             >
-              {roundIdx + 1 >= rounds.length ? "Done!" : t.next}
+              {roundIdx + 1 >= rounds.length ? t.done : t.next}
             </motion.button>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Discovery card (educational fact after correct answer) */}
+      <AnimatePresence>
+        {showDiscovery && (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="rounded-2xl p-4 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "1.5px solid rgba(180,77,255,0.3)" }}
+          >
+            <p className="text-xs font-bold uppercase text-purple-400 mb-1">💡 {t.didYouKnow}</p>
+            <p className="text-sm font-semibold text-white/80">{currentDiscovery}</p>
           </motion.div>
         )}
       </AnimatePresence>
@@ -375,8 +436,8 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
             exit={{ opacity: 0, y: -8 }}
             className="flex items-center justify-center gap-2"
           >
-            <X size={20} className="text-red-400" />
-            <span className="text-sm font-bold text-red-400">
+            <X size={20} className={flashWrong ? "text-red-500" : "text-red-400"} />
+            <span className={`text-sm font-bold ${flashWrong ? "text-red-500" : "text-red-400"}`}>
               {t.tryFix}
             </span>
           </motion.div>

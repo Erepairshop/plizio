@@ -2,6 +2,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TreeBranch from "@/app/astrodeutsch/games/blocks/TreeBranch";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -85,7 +86,7 @@ const PLURAL_RULES = [
   { rule: "Umlaut", singular: "Mutter", plural: "Mütter", accent: "#ef4444" },
 ];
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, lang }: { color: string; lbl: Record<string, string>; onNext: () => void; lang: string }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
   return (
@@ -105,8 +106,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
               style={{ background: r.accent, color: "#fff" }}>{r.rule}</span>
             <span className="text-white/80 text-sm flex-1">{r.singular}</span>
             {revealed.has(i)
-              ? <motion.span initial={{ opacity: 0, x: 8 }} animate={{ opacity: 1, x: 0 }}
-                  className="text-sm font-bold shrink-0" style={{ color: r.accent }}>→ {r.plural}</motion.span>
+              ? <motion.div initial={{ opacity: 0, x: 8 }} animate={{ opacity: 1, x: 0 }}
+                  className="flex items-center gap-2 shrink-0">
+                  <span className="text-sm font-bold" style={{ color: r.accent }}>→ {r.plural}</span>
+                  <SpeakButton text={r.plural} lang={"de"} size={16} />
+                </motion.div>
               : <span className="text-white/30 text-xs shrink-0">{lbl.tapReveal}</span>}
           </motion.button>
         ))}
@@ -400,7 +404,7 @@ const PluralFamilyExplorer = memo(function PluralFamilyExplorer({
         <motion.div key={round} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} lang={lang} />}
           {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}

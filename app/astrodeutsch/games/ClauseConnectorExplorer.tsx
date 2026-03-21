@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import TapToHighlight from "./blocks/TapToHighlight";
 import SentenceReorder from "./blocks/SentenceReorder";
 
@@ -160,7 +161,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
   );
 }
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [partIdx, setPartIdx] = useState(0);
   const done = partIdx >= REL_PARTS.length;
   const words = REL_SENTENCE.split(" ");
@@ -170,8 +171,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     <div className="flex flex-col gap-4 w-full">
       <p className="text-2xl font-black text-white text-center">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="w-full rounded-2xl p-4"
+      <div className="relative w-full rounded-2xl p-4"
         style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+        <div className="absolute top-2 right-2">
+          <SpeakButton text={REL_SENTENCE} lang={"de"} size={16} />
+        </div>
         <div className="flex flex-wrap gap-1.5 justify-center">
           {words.map((w, i) => {
             const highlighted = REL_PARTS.slice(0, partIdx).find(p => p.indices.includes(i));
@@ -375,7 +379,7 @@ const ClauseConnectorExplorer = memo(function ClauseConnectorExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}

@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -394,7 +395,10 @@ function Round5({
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round5}</div>
       <p className="text-sm font-bold text-white/80">{lbl.pickPerfekt}</p>
-      <div className="text-xl font-black" style={{ color }}>{q.verb}</div>
+      <div className="flex items-center justify-center gap-2">
+        <div className="text-xl font-black" style={{ color }}>{q.verb}</div>
+        <SpeakButton text={q.verb} lang="de" size={16} />
+      </div>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
           let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";

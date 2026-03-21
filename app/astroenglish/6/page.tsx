@@ -31,6 +31,14 @@ import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
 import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
 import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
 import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import PhonicsExplorer from "@/app/astroenglish/games/PhonicsExplorer";
+import PictureVocabExplorer from "@/app/astroenglish/games/PictureVocabExplorer";
+import RhymeMatchExplorer from "@/app/astroenglish/games/RhymeMatchExplorer";
+import WordBuildExplorer from "@/app/astroenglish/games/WordBuildExplorer";
+import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
+import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
+import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
+import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import { K6_ISLAND_SVGS } from "@/app/astroenglish/islands-k6";
 import {
   K6_ISLANDS, K6_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -105,6 +113,14 @@ type Screen =
   | "word-sort"
   | "sentence-builder"
   | "spell-race"
+  | "phonics"
+  | "picture-vocab"
+  | "rhyme-match"
+  | "word-build"
+  | "reading-comp"
+  | "tense-explorer"
+  | "memory-pair"
+  | "pronunciation"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -594,6 +610,62 @@ function getExplorerContentK6(islandId: string, gameType: string): any {
       return generateSentenceBuilderK6(islandId);
     case "spell-race":
       return generateSpellRaceK6(islandId);
+    case "phonics":
+      return [
+        { sound: "/ɪ/", words: ["bit", "hill", "ship", "fish", "sit", "wind"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ɪ/ sound is the short 'i' vowel sound" },
+        { sound: "/ə/", words: ["about", "system", "sofa", "pencil", "human", "animal"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ə/ (schwa) sound is the most common vowel sound in English" },
+        { sound: "/ɔɪ/", words: ["boy", "coin", "joy", "noise", "voice", "choice"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ɔɪ/ sound combines 'o' and 'i' sounds" },
+        { sound: "/ɪŋ/", words: ["ring", "sing", "thing", "string", "bring", "wing"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ɪŋ/ sound occurs at the end of '-ing' words" },
+      ];
+    case "picture-vocab":
+      return [
+        { emoji: "📚", word: "analysis", options: ["adventure", "analysis", "action", "argument"], correctIndex: 1, sentence: "Literary analysis examines deeper meanings in text." },
+        { emoji: "🎬", word: "narrative", options: ["nature", "native", "narrative", "narrow"], correctIndex: 2, sentence: "The narrative structure of this novel is complex." },
+        { emoji: "💬", word: "dialogue", options: ["diagonal", "dialogue", "danger", "debate"], correctIndex: 1, sentence: "The dialogue reveals much about the characters' personalities." },
+        { emoji: "🎭", word: "protagonist", options: ["protection", "protagonist", "previous", "proposed"], correctIndex: 1, sentence: "The protagonist faces internal conflicts throughout the story." },
+        { emoji: "✨", word: "symbolism", options: ["sympathy", "symbol", "symbolism", "symmetric"], correctIndex: 2, sentence: "Symbolism is crucial to understanding this author's work." },
+      ];
+    case "rhyme-match":
+      return [
+        { targetWord: "analyze", options: ["realize", "rise", "surprise", "emphasize"], correctIndex: 0, rhymePattern: "-yze" },
+        { targetWord: "structure", options: ["future", "puncture", "feature", "lecture"], correctIndex: 1, rhymePattern: "-ture" },
+        { targetWord: "identity", options: ["ability", "mystery", "society", "community"], correctIndex: 1, rhymePattern: "-ity" },
+        { targetWord: "voice", options: ["choice", "noise", "rejoice", "invoice"], correctIndex: 0, rhymePattern: "-oice" },
+        { targetWord: "represent", options: ["prevent", "resent", "event", "present"], correctIndex: 0, rhymePattern: "-ent" },
+      ];
+    case "word-build":
+      return [
+        { parts: ["dis", "agree"], correctOrder: [0, 1], resultWord: "disagree", hint: "prefix + root", explanation: "'dis-' means not or opposite of" },
+        { parts: ["sub", "conscious"], correctOrder: [0, 1], resultWord: "subconscious", hint: "prefix + root", explanation: "'sub-' means under or below" },
+        { parts: ["analyze", "able"], correctOrder: [0, 1], resultWord: "analyzable", hint: "root + suffix", explanation: "'-able' means capable of or worthy of" },
+        { parts: ["im", "possible"], correctOrder: [0, 1], resultWord: "impossible", hint: "prefix + root", explanation: "'im-' is a form of 'in-' meaning not" },
+        { parts: ["interpret", "ation"], correctOrder: [0, 1], resultWord: "interpretation", hint: "root + suffix", explanation: "'-ation' converts verbs to nouns" },
+      ];
+    case "reading-comp":
+      return [
+        { passage: "In classic literature, authors often use symbolism to convey deeper meanings. The white whale in Moby Dick represents different things to different characters. Captain Ahab sees it as evil, while others view it as a force of nature.", question: "What does symbolism do in literature?", options: ["Makes stories longer", "Conveys deeper meanings", "Adds more characters", "Improves grammar"], correctIndex: 1 },
+        { passage: "The protagonist's journey in the novel reflects the author's views on society. Through conflicts and growth, the character challenges social norms. This narrative technique allows readers to question their own beliefs.", question: "How does the protagonist's journey function?", options: ["It entertains readers", "It reflects author's views and challenges norms", "It explains historical facts", "It teaches grammar rules"], correctIndex: 1 },
+        { passage: "Analytical reading requires examining the text closely for hidden meanings. Readers must consider symbolism, character motivation, and thematic elements. This deeper engagement transforms passive reading into active interpretation.", question: "What is analytical reading?", options: ["Reading quickly", "Examining text for hidden meanings", "Memorizing passages", "Reading aloud"], correctIndex: 1 },
+      ];
+    case "tense-explorer":
+      return [
+        { sentence: "By the time he ___ the novel, he ___ it three times.", tenseLabel: "Past Perfect", options: ["finished / had read", "finishes / reads", "finish / read", "was finishing / reading"], correctIndex: 0, explanation: "Past perfect shows which action happened first" },
+        { sentence: "If I ___ more about symbolism, I ___ the story better.", tenseLabel: "Second Conditional", options: ["knew / would understand", "know / understand", "have known / would have understood", "knew / understand"], correctIndex: 0, explanation: "Second conditional for hypothetical situations in present/future" },
+        { sentence: "The author ___ been writing for decades when she finally ___ published.", tenseLabel: "Past Perfect + Simple Past", options: ["has / got", "had / got", "has / gets", "had / gets"], correctIndex: 1, explanation: "Shows timeline: had been writing (longer action) then got published" },
+      ];
+    case "memory-pair":
+      return [
+        { word: "metaphor", match: "🎭" }, { word: "imagery", match: "🎨" },
+        { word: "conflict", match: "⚔️" }, { word: "resolution", match: "✅" },
+        { word: "theme", match: "🎯" }, { word: "irony", match: "😏" },
+        { word: "plot", match: "📖" }, { word: "climax", match: "🔥" },
+      ];
+    case "pronunciation":
+      return [
+        { word: "analysis", phonetic: "/əˈnæləsɪs/", syllables: ["an", "al", "y", "sis"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on second syllable: a-NAL-y-sis" },
+        { word: "narrative", phonetic: "/ˈnærətɪv/", syllables: ["nar", "ra", "tive"], stressIndex: 0, options: ["1st", "2nd", "3rd"], correctIndex: 0, questionType: "stress" as const, explanation: "Stress on first syllable: NAR-ra-tive" },
+        { word: "symbolism", phonetic: "/ˈsɪmbəlɪzəm/", syllables: ["sym", "bol", "ism"], stressIndex: 0, options: ["1st", "2nd", "3rd"], correctIndex: 0, questionType: "stress" as const, explanation: "Stress on first syllable: SYM-bol-ism" },
+      ];
     default:
       return [];
   }
@@ -667,7 +739,7 @@ export default function AstroEnglishK6Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
 
     if (isExplorer) {
       setQuestions([]);
@@ -1003,11 +1075,35 @@ export default function AstroEnglishK6Page() {
         {screen === "spell-race" && activeIsland && (
           <SpellRaceExplorer rounds={getExplorerContentK6(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "phonics" && activeIsland && (
+          <PhonicsExplorer rounds={getExplorerContentK6(activeIsland.id, "phonics")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "picture-vocab" && activeIsland && (
+          <PictureVocabExplorer rounds={getExplorerContentK6(activeIsland.id, "picture-vocab")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "rhyme-match" && activeIsland && (
+          <RhymeMatchExplorer rounds={getExplorerContentK6(activeIsland.id, "rhyme-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-build" && activeIsland && (
+          <WordBuildExplorer rounds={getExplorerContentK6(activeIsland.id, "word-build")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "reading-comp" && activeIsland && (
+          <ReadingCompExplorer rounds={getExplorerContentK6(activeIsland.id, "reading-comp")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "tense-explorer" && activeIsland && (
+          <TenseExplorer rounds={getExplorerContentK6(activeIsland.id, "tense-explorer")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "memory-pair" && activeIsland && (
+          <MemoryPairExplorer pairs={getExplorerContentK6(activeIsland.id, "memory-pair")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "pronunciation" && activeIsland && (
+          <PronunciationExplorer rounds={getExplorerContentK6(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

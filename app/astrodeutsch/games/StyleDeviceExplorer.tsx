@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import MemoryPairCards from "./blocks/MemoryPairCards";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -217,7 +218,10 @@ function Round1({ color, lbl, lang, onNext }: { color: string; lbl: Record<strin
               {open ? (
                 <motion.div initial={{ opacity: 0, y: 3 }} animate={{ opacity: 1, y: 0 }}>
                   <p className="text-white/60 text-xs">{def}</p>
-                  <p className="text-white/80 text-sm font-semibold italic mt-0.5">„{sm.example}"</p>
+                  <div className="flex items-center justify-between gap-2 mt-0.5">
+                    <p className="text-white/80 text-sm font-semibold italic">„{sm.example}"</p>
+                    <SpeakButton text={sm.example} lang="de" size={14} />
+                  </div>
                 </motion.div>
               ) : (
                 <p className="text-white/30 text-xs">{lbl.tapToReveal}</p>
@@ -339,7 +343,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"

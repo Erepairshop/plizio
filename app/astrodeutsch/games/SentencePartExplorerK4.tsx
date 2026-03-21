@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -373,7 +374,7 @@ function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
 }
 
 // ─── Round 5: Full sentence analysis MCQ ─────────────────────────────────────
-function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -404,15 +405,18 @@ function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Rec
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
+          className="w-full rounded-2xl p-4"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">
-            {parts[0]}
-            <span className="font-black underline" style={{ color: PART_COLORS[item.part] }}>
-              {item.highlight}
-            </span>
-            {parts[1]}
-          </p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">
+              {parts[0]}
+              <span className="font-black underline" style={{ color: PART_COLORS[item.part] }}>
+                {item.highlight}
+              </span>
+              {parts[1]}
+            </p>
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -473,7 +477,7 @@ const SentencePartExplorerK4 = memo(function SentencePartExplorerK4({
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
           {round === 4 && (
             <div className="w-full flex flex-col items-center gap-4">
-              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} />
               <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
                 className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
                 style={{ background: `${color}22` }}>

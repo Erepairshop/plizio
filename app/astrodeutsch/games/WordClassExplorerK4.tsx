@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -195,9 +196,12 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
                 <span className="font-black text-sm" style={{ color: wc.color }}>{lbl[wc.key]}</span>
               </div>
               {isOpen ? (
-                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                  <p className="text-white/80 text-xs font-bold">{wc.examples.join(", ")}</p>
-                  <p className="text-white/40 text-[10px]">{wc.note}</p>
+                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-center gap-1 flex-wrap">
+                  <div className="flex items-center gap-1">
+                    <p className="text-white/80 text-xs font-bold">{wc.examples.join(", ")}</p>
+                    <SpeakButton text={wc.examples[0]} lang={"de"} size={14} />
+                  </div>
+                  <p className="text-white/40 text-[10px] w-full">{wc.note}</p>
                 </motion.div>
               ) : (
                 <p className="text-white/30 text-xs">{lbl.tapToReveal}</p>

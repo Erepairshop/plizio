@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -180,7 +181,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Rules ───────────────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const allTapped = tapped.size === RULES.length;
 
@@ -207,10 +208,13 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
                     {lbl[r.key]}
                   </p>
                   {isTapped && (
-                    <motion.p initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-                      className="text-white/60 text-xs font-bold mt-1 italic">
-                      {lbl[r.key2]}
-                    </motion.p>
+                    <motion.div initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
+                      className="flex items-center gap-2 mt-1">
+                      <p className="text-white/60 text-xs font-bold italic">
+                        {lbl[r.key2]}
+                      </p>
+                      <SpeakButton text={(lbl as any)[r.key2] ?? ""} lang={"de"} size={14} />
+                    </motion.div>
                   )}
                 </div>
                 {isTapped && <span>✅</span>}
@@ -478,7 +482,7 @@ const CapitalizationExplorer = memo(function CapitalizationExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}

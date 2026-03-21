@@ -31,6 +31,14 @@ import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
 import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
 import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
 import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import PhonicsExplorer from "@/app/astroenglish/games/PhonicsExplorer";
+import PictureVocabExplorer from "@/app/astroenglish/games/PictureVocabExplorer";
+import RhymeMatchExplorer from "@/app/astroenglish/games/RhymeMatchExplorer";
+import WordBuildExplorer from "@/app/astroenglish/games/WordBuildExplorer";
+import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
+import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
+import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
+import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import { K8_ISLAND_SVGS } from "@/app/astroenglish/islands-k8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -105,6 +113,14 @@ type Screen =
   | "word-sort"
   | "sentence-builder"
   | "spell-race"
+  | "phonics"
+  | "picture-vocab"
+  | "rhyme-match"
+  | "word-build"
+  | "reading-comp"
+  | "tense-explorer"
+  | "memory-pair"
+  | "pronunciation"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -630,6 +646,84 @@ function generateSpellRaceK8(islandId: string): SpellRaceRound[] {
   return [];
 }
 
+function generatePhonicsK8(islandId: string): any {
+  return [
+    { sound: "/ʃ/", words: ["champagne", "glacier", "conscious", "schism", "machine", "tension"], correctIndices: [0, 1, 2], explanation: "The /ʃ/ sound can be spelled 'ch', 'c', or 'ss'" },
+    { sound: "/ʒ/", words: ["measure", "leisure", "decision", "television", "pleasure", "vision"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ʒ/ sound appears in medial syllables" },
+    { sound: "/θ/", words: ["thesis", "theoretical", "mathematics", "atheist", "thematic", "theory"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /θ/ sound is 'th' as in 'think'" },
+  ];
+}
+
+function generatePictureVocabK8(islandId: string): any {
+  return [
+    { emoji: "📖", word: "literary", options: ["literal", "literary", "literal", "literature"], correctIndex: 1, sentence: "The literary analysis examined symbolism throughout the novel." },
+    { emoji: "🎨", word: "aesthetics", options: ["athletics", "aesthetics", "anaesthesia", "arithmetic"], correctIndex: 1, sentence: "Aesthetics examines principles of beauty and artistic taste." },
+    { emoji: "⚖️", word: "ethical", options: ["ethical", "ethic", "ethnical", "ethnic"], correctIndex: 0, sentence: "Ethical dilemmas require careful consideration of values." },
+    { emoji: "🧬", word: "empirical", options: ["empirical", "imperial", "empirically", "empirically"], correctIndex: 0, sentence: "Empirical evidence supports the hypothesis." },
+    { emoji: "🎬", word: "cinematography", options: ["cinematography", "cinematographer", "cinema", "cinematic"], correctIndex: 0, sentence: "The cinematography in the film was visually stunning." },
+  ];
+}
+
+function generateRhymeMatchK8(islandId: string): any {
+  return [
+    { targetWord: "eloquence", options: ["violence", "evidence", "confidence", "consequence"], correctIndex: 2, rhymePattern: "-ence" },
+    { targetWord: "philosophy", options: ["ideology", "psychology", "trilogy", "technology"], correctIndex: 1, rhymePattern: "-ophy" },
+    { targetWord: "metaphor", options: ["metaphorical", "manor", "mirror", "error"], correctIndex: 2, rhymePattern: "-or" },
+    { targetWord: "satire", options: ["retire", "satire", "require", "inspire"], correctIndex: 0, rhymePattern: "-ire" },
+    { targetWord: "analysis", options: ["paralysis", "synthesis", "diagnosis", "catharsis"], correctIndex: 0, rhymePattern: "-sis" },
+  ];
+}
+
+function generateWordBuildK8(islandId: string): any {
+  return [
+    { parts: ["intra", "mural"], correctOrder: [0, 1], resultWord: "intramural", hint: "prefix + root", explanation: "'intra-' means within" },
+    { parts: ["circum", "spect"], correctOrder: [0, 1], resultWord: "circumspect", hint: "prefix + root", explanation: "'circum-' means around" },
+    { parts: ["temporal", "ity"], correctOrder: [0, 1], resultWord: "temporality", hint: "root + suffix", explanation: "'-ity' forms abstract nouns" },
+    { parts: ["aesthetic", "ally"], correctOrder: [0, 1], resultWord: "aesthetically", hint: "root + suffix", explanation: "'-ally' forms adverbs" },
+    { parts: ["ambiguous", "ness"], correctOrder: [0, 1], resultWord: "ambiguousness", hint: "root + suffix", explanation: "'-ness' derives abstract nouns" },
+  ];
+}
+
+function generateReadingCompK8(islandId: string): any {
+  return [
+    { passage: "Postmodernism challenges grand narratives and questions objective truth. In literature, this philosophy manifests through fragmented narratives, unreliable narrators, and intertextuality. Authors like Calvino and Pynchon exemplify these techniques.", question: "What literary technique is characteristic of postmodernism?", options: ["Linear storytelling", "Unreliable narrators", "Realistic dialogue", "Chronological order"], correctIndex: 1 },
+    { passage: "Satire employs humor and irony to critique social norms. Swift's 'A Modest Proposal' uses satire to expose the hypocrisy of colonial policies. By proposing an outrageous solution, Swift reveals the absurdity of ignoring human suffering.", question: "How does 'A Modest Proposal' use satire?", options: ["Through violent language", "By proposing outrageous solutions", "With emotional appeals", "Through realistic descriptions"], correctIndex: 1 },
+    { passage: "Symbolism in poetry conveys abstract meanings through concrete imagery. A rose may symbolize love, mortality, or social class depending on context. Readers must interpret symbols based on literary and cultural associations.", question: "What determines the meaning of a symbol in literature?", options: ["The author's biography", "Context and associations", "Dictionary definitions", "The symbol's physical appearance"], correctIndex: 1 },
+  ];
+}
+
+function generateTenseExplorerK8(islandId: string): any {
+  return [
+    { sentence: "Had the protagonist possessed self-awareness, he ___ the tragedy.", tenseLabel: "Past Perfect Conditional", options: ["avoided", "would avoid", "would have avoided", "had avoided"], correctIndex: 2, explanation: "Would have + past participle for unfulfilled past conditions" },
+    { sentence: "The narrative ___ through unreliable perspectives since the opening chapter.", tenseLabel: "Present Perfect Continuous", options: ["unfolds", "has been unfolding", "unfolded", "had unfolded"], correctIndex: 1, explanation: "Present Perfect Continuous: has been + -ing for ongoing actions from past to present" },
+    { sentence: "By the time the author completed the manuscript, critics ___ preemptive reviews.", tenseLabel: "Past Perfect", options: ["published", "have published", "had published", "was publishing"], correctIndex: 2, explanation: "Past Perfect: had + past participle for actions before another past action" },
+    { sentence: "Unless the protagonist ___ his flaws, he will face inevitable consequences.", tenseLabel: "Future Real Conditional", options: ["recognizes", "recognized", "will recognize", "has recognized"], correctIndex: 0, explanation: "Simple present in 'unless' clauses with future consequences" },
+  ];
+}
+
+function generateMemoryPairK8(islandId: string): any {
+  return [
+    { word: "ambiguous", match: "❓" },
+    { word: "catharsis", match: "😢" },
+    { word: "irony", match: "😏" },
+    { word: "metaphor", match: "🪞" },
+    { word: "foreshadowing", match: "🔮" },
+    { word: "allegory", match: "📚" },
+    { word: "juxtaposition", match: "⚔️" },
+    { word: "motif", match: "🔁" },
+  ];
+}
+
+function generatePronunciationK8(islandId: string): any {
+  return [
+    { word: "aesthetic", phonetic: "/esˈθɛtɪk/", syllables: ["aes", "thet", "ic"], stressIndex: 1, options: ["1st", "2nd", "3rd"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: aes-THET-ic" },
+    { word: "contemporary", phonetic: "/kənˈtɛmpəreri/", syllables: ["con", "tem", "po", "rar", "y"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: con-TEM-po-rary" },
+    { word: "philosophy", phonetic: "/fɪˈlɑːsəfi/", syllables: ["phi", "los", "o", "phy"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: phi-LOS-o-phy" },
+    { word: "archaeology", phonetic: "/ˌɑːrkiˈɑːlədʒi/", syllables: ["ar", "chae", "ol", "o", "gy"], stressIndex: 2, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 2, questionType: "stress" as const, explanation: "Stress on 3rd syllable: ar-chae-OL-o-gy" },
+    { word: "psychology", phonetic: "/saɪˈkɑːlədʒi/", syllables: ["psy", "chol", "o", "gy"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: psy-CHOL-o-gy" },
+  ];
+}
+
 function getExplorerContentK8(islandId: string, gameType: string): any {
   switch (gameType) {
     case "fill-gap":
@@ -644,6 +738,22 @@ function getExplorerContentK8(islandId: string, gameType: string): any {
       return generateSentenceBuilderK8(islandId);
     case "spell-race":
       return generateSpellRaceK8(islandId);
+    case "phonics":
+      return generatePhonicsK8(islandId);
+    case "picture-vocab":
+      return generatePictureVocabK8(islandId);
+    case "rhyme-match":
+      return generateRhymeMatchK8(islandId);
+    case "word-build":
+      return generateWordBuildK8(islandId);
+    case "reading-comp":
+      return generateReadingCompK8(islandId);
+    case "tense-explorer":
+      return generateTenseExplorerK8(islandId);
+    case "memory-pair":
+      return generateMemoryPairK8(islandId);
+    case "pronunciation":
+      return generatePronunciationK8(islandId);
     default:
       return [];
   }
@@ -716,7 +826,7 @@ export default function AstroEnglishK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -1051,11 +1161,35 @@ export default function AstroEnglishK8Page() {
         {screen === "spell-race" && activeIsland && (
           <SpellRaceExplorer rounds={getExplorerContentK8(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "phonics" && activeIsland && (
+          <PhonicsExplorer rounds={getExplorerContentK8(activeIsland.id, "phonics")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "picture-vocab" && activeIsland && (
+          <PictureVocabExplorer rounds={getExplorerContentK8(activeIsland.id, "picture-vocab")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "rhyme-match" && activeIsland && (
+          <RhymeMatchExplorer rounds={getExplorerContentK8(activeIsland.id, "rhyme-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-build" && activeIsland && (
+          <WordBuildExplorer rounds={getExplorerContentK8(activeIsland.id, "word-build")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "reading-comp" && activeIsland && (
+          <ReadingCompExplorer rounds={getExplorerContentK8(activeIsland.id, "reading-comp")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "tense-explorer" && activeIsland && (
+          <TenseExplorer rounds={getExplorerContentK8(activeIsland.id, "tense-explorer")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "memory-pair" && activeIsland && (
+          <MemoryPairExplorer pairs={getExplorerContentK8(activeIsland.id, "memory-pair")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "pronunciation" && activeIsland && (
+          <PronunciationExplorer rounds={getExplorerContentK8(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

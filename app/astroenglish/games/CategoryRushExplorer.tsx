@@ -25,6 +25,9 @@ const LABELS = {
     notQuite: "Not quite...",
     timeUp: "Time's up!",
     score: "Score",
+    time: "Time",
+    didYouKnow: "Did you know?",
+    learnFromThis: "Learn from this!",
   },
   hu: {
     sortWord: "Melyik kategória?",
@@ -32,6 +35,9 @@ const LABELS = {
     notQuite: "Nem egészen...",
     timeUp: "Lejárt az idő!",
     score: "Pont",
+    time: "Idő",
+    didYouKnow: "Tudtad?",
+    learnFromThis: "Tanulj ebből!",
   },
   de: {
     sortWord: "Welche Kategorie?",
@@ -39,6 +45,9 @@ const LABELS = {
     notQuite: "Nicht ganz...",
     timeUp: "Zeit ist um!",
     score: "Punkte",
+    time: "Zeit",
+    didYouKnow: "Wusstest du?",
+    learnFromThis: "Lerne daraus!",
   },
   ro: {
     sortWord: "Ce categorie?",
@@ -46,6 +55,9 @@ const LABELS = {
     notQuite: "Nu chiar...",
     timeUp: "Timpul a expirat!",
     score: "Scor",
+    time: "Timp",
+    didYouKnow: "Știai?",
+    learnFromThis: "Învață din asta!",
   },
 } as const;
 
@@ -64,9 +76,14 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
   const [idx, setIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
+  const [showDiscovery, setShowDiscovery] = useState(false);
+  const [currentDiscovery, setCurrentDiscovery] = useState("");
   const [timeLeft, setTimeLeft] = useState(timeLimit ?? 0);
   const [gameEnded, setGameEnded] = useState(false);
+  const [flashIdx, setFlashIdx] = useState<number | null>(null);
+  const [flashIsCorrect, setFlashIsCorrect] = useState(false);
 
+  const wrongCountRef = useRef(0);
   const scoreRef = useRef(0);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -95,15 +112,29 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
   React.useEffect(() => {
     if (!showExplanation) return;
     const timeout = setTimeout(() => {
-      advanceToNext();
-    }, 2000);
+      setShowExplanation(false);
+      setShowDiscovery(true);
+    }, 800);
     return () => clearTimeout(timeout);
   }, [showExplanation]);
+
+  // Auto-dismiss discovery card and advance
+  React.useEffect(() => {
+    if (!showDiscovery) return;
+    const timeout = setTimeout(() => {
+      setShowDiscovery(false);
+      advanceToNext();
+    }, 2500);
+    return () => clearTimeout(timeout);
+  }, [showDiscovery]);
 
   const advanceToNext = useCallback(() => {
     if (idx + 1 >= items.length || gameEnded) {
       if (timerRef.current) clearInterval(timerRef.current);
-      onDone(scoreRef.current, items.length);
+      // Real scoring: score = max(1, totalRounds - min(wrongCount, totalRounds - 1))
+      const totalRounds = items.length;
+      const finalScore = Math.max(1, totalRounds - Math.min(wrongCountRef.current, totalRounds - 1));
+      onDone(finalScore, totalRounds);
     } else {
       setIdx((i) => i + 1);
       setShowExplanation(false);
@@ -116,18 +147,24 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
 
       const isCorrect = categoryIdx === currentItem.categoryIndex;
 
-      if (isCorrect) {
-        scoreRef.current += 1;
-        setScore(scoreRef.current);
-      } else {
-        setShowExplanation(true);
-      }
+      // Visual flash feedback
+      setFlashIdx(categoryIdx);
+      setFlashIsCorrect(isCorrect);
+      setTimeout(() => setFlashIdx(null), 800);
 
       if (isCorrect) {
-        setTimeout(() => advanceToNext(), 300);
+        // Correct: advance after flash
+        setTimeout(() => advanceToNext(), 800);
+      } else {
+        // Wrong: increment error count and show explanation + discovery
+        wrongCountRef.current += 1;
+        setShowExplanation(true);
+        if (currentItem.explanation) {
+          setCurrentDiscovery(currentItem.explanation);
+        }
       }
     },
-    [showExplanation, gameEnded, currentItem.categoryIndex, advanceToNext]
+    [showExplanation, gameEnded, currentItem.categoryIndex, currentItem.explanation, advanceToNext]
   );
 
   if (!currentItem) return null;
@@ -145,7 +182,7 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
         </div>
         {timeLimit ? (
           <div className="flex-1 text-right">
-            <div className="text-xs font-bold uppercase text-white/60 mb-1">Time</div>
+            <div className="text-xs font-bold uppercase text-white/60 mb-1">{t.time}</div>
             <div className="text-3xl font-black" style={{ color: timerColor }}>
               {timeLeft}s
             </div>
@@ -214,10 +251,28 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
         ) : null}
       </AnimatePresence>
 
+      {/* Discovery card (after wrong answer) */}
+      <AnimatePresence>
+        {showDiscovery && currentDiscovery ? (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 12 }}
+            className="rounded-2xl p-4 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "1.5px solid rgba(180,77,255,0.3)" }}
+          >
+            <p className="text-xs font-bold uppercase text-purple-400 mb-1">💡 {t.didYouKnow}</p>
+            <p className="text-sm font-semibold text-white/80">{currentDiscovery}</p>
+          </motion.div>
+        ) : null}
+      </AnimatePresence>
+
       {/* Category buttons */}
       <div className={`grid gap-2 ${categories.length === 2 ? "grid-cols-2" : "grid-cols-4"}`}>
         {categories.map((cat, i) => {
           const isCorrect = i === currentItem.categoryIndex;
+          const isFlashing = flashIdx === i;
+          const flashColor = flashIsCorrect ? "#00FF88" : "#FF2D78";
           return (
             <motion.button
               key={i}
@@ -225,14 +280,21 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
               disabled={showExplanation || gameEnded}
               className="py-4 px-3 rounded-2xl font-bold text-sm text-center transition-colors"
               style={{
-                background:
-                  showExplanation && isCorrect
+                background: isFlashing
+                  ? `${flashColor}30`
+                  : showExplanation && isCorrect
                     ? `${cat.color}40`
-                    : showExplanation && showExplanation
+                    : showExplanation
                       ? `${cat.color}10`
                       : `${cat.color}20`,
-                border: `2px solid ${showExplanation && isCorrect ? cat.color : `${cat.color}60`}`,
-                color: cat.color,
+                border: `2px solid ${
+                  isFlashing
+                    ? flashColor
+                    : showExplanation && isCorrect
+                      ? cat.color
+                      : `${cat.color}60`
+                }`,
+                color: isFlashing ? flashColor : cat.color,
               }}
               whileTap={!showExplanation && !gameEnded ? { scale: 0.95 } : {}}
             >

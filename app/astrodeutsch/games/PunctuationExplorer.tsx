@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -377,11 +378,13 @@ function Round5({
   lbl,
   wrongCountRef,
   onDone,
+  lang,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onDone: () => void;
+  lang: string;
 }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -406,6 +409,10 @@ function Round5({
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round5}</div>
       <p className="text-sm font-bold text-white/80">{lbl.chooseRight}</p>
+      <div className="flex items-center justify-center gap-2 px-4">
+        <span className="text-base font-black text-white">{q.question}</span>
+        <SpeakButton text={q.question} lang={"de"} size={16} />
+      </div>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
           let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";
@@ -459,7 +466,7 @@ const PunctuationExplorer = memo(function PunctuationExplorer({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} lang={lang} />}
         </motion.div>
       </AnimatePresence>
     </div>

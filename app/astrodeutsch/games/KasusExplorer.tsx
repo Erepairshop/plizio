@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -213,7 +214,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Find the Nominativ subject ──────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -235,8 +236,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.sentence} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}
-          className="w-full rounded-3xl p-5 flex flex-col items-center gap-3"
+          className="relative w-full rounded-3xl p-5 flex flex-col items-center gap-3"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+          <div className="absolute top-3 right-3">
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           <span className="text-4xl">{item.emoji}</span>
           <p className="text-white font-bold text-lg text-center">{item.sentence}</p>
           {!tapped && (
@@ -458,7 +462,7 @@ const KasusExplorer = memo(function KasusExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}

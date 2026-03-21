@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -239,7 +240,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 function MCQRound({
-  title, hint, items, color, lbl, onDone,
+  title, hint, items, color, lbl, onDone, lang,
 }: {
   title: string;
   hint: string;
@@ -247,6 +248,7 @@ function MCQRound({
   color: string;
   lbl: Record<string, string>;
   onDone: () => void;
+  lang?: string;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -273,7 +275,10 @@ function MCQRound({
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -326,23 +331,23 @@ const ReviewExplorerK8 = memo(function ReviewExplorerK8({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && (
             <MCQRound title={lbl.round1Title} hint={lbl.round1Hint}
-              items={MCQ1} color={color} lbl={lbl} onDone={next} />
+              items={MCQ1} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 1 && (
             <MCQRound title={lbl.round2Title} hint={lbl.round2Hint}
-              items={MCQ2} color={color} lbl={lbl} onDone={next} />
+              items={MCQ2} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 2 && (
             <MCQRound title={lbl.round3Title} hint={lbl.round3Hint}
-              items={MCQ3} color={color} lbl={lbl} onDone={next} />
+              items={MCQ3} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 3 && (
             <MCQRound title={lbl.round4Title} hint={lbl.round4Hint}
-              items={MCQ4} color={color} lbl={lbl} onDone={next} />
+              items={MCQ4} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 4 && (
             <MCQRound title={lbl.round5Title} hint={lbl.round5Hint}
-              items={MCQ5} color={color} lbl={lbl} onDone={finish} />
+              items={MCQ5} color={color} lbl={lbl} onDone={finish} lang={lang} />
           )}
         </motion.div>
       </AnimatePresence>

@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -253,12 +254,15 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           return (
             <motion.button key={item.word}
               onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="rounded-2xl p-3 flex flex-col items-center gap-1"
+              className="rounded-2xl p-3 flex flex-col items-center gap-1 relative"
               style={{
                 background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
                 border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
               }}
               whileTap={!isOpen ? { scale: 0.96 } : {}}>
+              <div className="absolute top-2 right-2">
+                <SpeakButton text={item.word} lang="de" size={14} />
+              </div>
               <span className="text-2xl">{item.emoji}</span>
               <p className="font-black text-lg">
                 <span className="text-white">{before}</span>
@@ -429,9 +433,12 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.context} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
+          className="w-full rounded-2xl p-4 text-center relative"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.context}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.context}</p>
+            <SpeakButton text={item.context} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"

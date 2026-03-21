@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -147,8 +148,15 @@ const ANIMALS = [
   { name: "Elefant", emoji: "🐘", size: 3, form: "am größten" },
 ];
 
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [active, setActive] = useState<number | null>(null);
+
+  const sentenceTexts = [
+    `Der ${ANIMALS[0].name} ist ${ANIMALS[0].form}.`,
+    `Die ${ANIMALS[1].name} ist ${ANIMALS[1].form}.`,
+    `Der ${ANIMALS[2].name} ist ${ANIMALS[2].form}.`,
+  ];
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -173,8 +181,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       {active !== null && (
         <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
-          className="px-4 py-2 rounded-xl border text-sm font-semibold text-white/85 text-center"
+          className="relative px-4 py-2 rounded-xl border text-sm font-semibold text-white/85 text-center"
           style={{ borderColor: `${color}44`, background: `${color}18` }}>
+          <div className="absolute top-1 right-2">
+            <SpeakButton text={sentenceTexts[active]} lang={"de"} size={14} />
+          </div>
           {active === 0 && `Der ${ANIMALS[0].name} ist ${ANIMALS[0].form}.`}
           {active === 1 && `Die ${ANIMALS[1].name} ist ${ANIMALS[1].form}.`}
           {active === 2 && `Der ${ANIMALS[2].name} ist ${ANIMALS[2].form}.`}
@@ -399,7 +410,7 @@ const ComparisonExplorer = memo(function ComparisonExplorer({
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}

@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import SentenceReorder from "./blocks/SentenceReorder";
 import TapToHighlight from "./blocks/TapToHighlight";
 
@@ -195,12 +196,15 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         return (
           <motion.div key={i} className="w-full rounded-2xl overflow-hidden"
             style={{ border: `2px solid ${open ? color : "rgba(255,255,255,0.1)"}` }}>
-            <div className="p-3" style={{ background: `${color}12` }}>
-              <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
-                style={{ background: `${color}33`, color }}>
-                {lbl.active}
-              </span>
-              <span className="text-white/80 text-sm font-semibold">{pair.emoji} {pair.active}</span>
+            <div className="p-3 flex items-center justify-between" style={{ background: `${color}12` }}>
+              <div className="flex items-center gap-2 flex-1">
+                <span className="text-xs font-black px-2 py-0.5 rounded-full"
+                  style={{ background: `${color}33`, color }}>
+                  {lbl.active}
+                </span>
+                <span className="text-white/80 text-sm font-semibold">{pair.emoji} {pair.active}</span>
+              </div>
+              <SpeakButton text={pair.active} lang={"de"} size={16} />
             </div>
             <motion.button
               className="w-full p-3 text-left"

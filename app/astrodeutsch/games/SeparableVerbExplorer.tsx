@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 import SplitWordAnimation from "@/app/astrodeutsch/games/blocks/SplitWordAnimation";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -197,8 +198,11 @@ function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round3}</div>
       <p className="text-xs text-white/60 text-center">{lbl.tapCorrect}</p>
-      <div className="px-5 py-3 rounded-2xl border-2 text-xl font-black text-white"
-        style={{ borderColor: color, background: `${color}22` }}>{q.verb}</div>
+      <div className="flex items-center justify-center gap-2">
+        <div className="px-5 py-3 rounded-2xl border-2 text-xl font-black text-white"
+          style={{ borderColor: color, background: `${color}22` }}>{q.verb}</div>
+        <SpeakButton text={q.verb} lang="de" size={16} />
+      </div>
       <div className="flex gap-3 justify-center">
         {q.options.map((opt, i) => {
           let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";

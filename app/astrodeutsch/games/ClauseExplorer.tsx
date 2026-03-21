@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -221,11 +222,13 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 function Round2({
   color,
   lbl,
+  lang,
   wrongCountRef,
   onNext,
 }: {
   color: string;
   lbl: Record<string, string>;
+  lang?: string;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
 }) {
@@ -238,6 +241,8 @@ function Round2({
     else { setIdx(i => i + 1); setTapped(false); }
   };
 
+  const fullSentence = `${item.main} ${item.sub}`;
+
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
@@ -249,8 +254,11 @@ function Round2({
         ))}
       </div>
       <motion.div key={item.conjunction}
-        className="w-full rounded-3xl p-5 flex flex-col items-center gap-3"
+        className="relative w-full rounded-3xl p-5 flex flex-col items-center gap-3"
         style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+        <div className="absolute top-3 right-3">
+          <SpeakButton text={fullSentence} lang={"de"} size={16} />
+        </div>
         <p className="text-white/60 text-xs font-bold">
           <span style={{ color: "#3B82F6" }}>●</span> {lbl.hauptsatz} &nbsp;
           <span style={{ color: "#F59E0B" }}>●</span> {lbl.nebensatz}
@@ -514,7 +522,7 @@ const ClauseExplorer = memo(function ClauseExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}

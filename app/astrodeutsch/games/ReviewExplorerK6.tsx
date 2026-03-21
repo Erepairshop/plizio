@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import FillTheGap from "./blocks/FillTheGap";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -134,11 +135,11 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 function MCQRound({
-  title, hint, items, color, lbl, onDone, wrongCountRef,
+  title, hint, items, color, lbl, onDone, wrongCountRef, lang,
 }: {
   title: string; hint: string;
   items: { sentence?: string; question?: string; options: string[]; correct: string; label?: string }[];
-  color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef?: React.MutableRefObject<number>;
+  color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef?: React.MutableRefObject<number>; lang?: string;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -170,7 +171,10 @@ function MCQRound({
         <motion.div key={displayText} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">{displayText}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-base">{displayText}</p>
+            <SpeakButton text={displayText} lang={"de"} size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -213,11 +217,13 @@ function Round2({
   lbl,
   wrongCountRef,
   onNext,
+  lang,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  lang?: string;
 }) {
   const [idx, setIdx] = useState(0);
   const ITEMS = [
@@ -244,6 +250,10 @@ function Round2({
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
+          <div className="flex items-center justify-center gap-2 mb-2">
+            <p className="text-white font-bold text-sm">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang={"de"} size={14} />
+          </div>
           <FillTheGap
             sentence={item.sentence}
             options={item.options}
@@ -297,17 +307,17 @@ const ReviewExplorerK6 = memo(function ReviewExplorerK6({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && (
-            <MCQRound title={lbl.round1Title} hint={lbl.round1Hint} items={MCQ1} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
+            <MCQRound title={lbl.round1Title} hint={lbl.round1Hint} items={MCQ1} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} lang={lang} />
           )}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} lang={lang} />}
           {round === 2 && (
-            <MCQRound title={lbl.round3Title} hint={lbl.round3Hint} items={MCQ3} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
+            <MCQRound title={lbl.round3Title} hint={lbl.round3Hint} items={MCQ3} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} lang={lang} />
           )}
           {round === 3 && (
-            <MCQRound title={lbl.round4Title} hint={lbl.round4Hint} items={MCQ4} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
+            <MCQRound title={lbl.round4Title} hint={lbl.round4Hint} items={MCQ4} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} lang={lang} />
           )}
           {round === 4 && (
-            <MCQRound title={lbl.round5Title} hint={lbl.round5Hint} items={MCQ5} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} />
+            <MCQRound title={lbl.round5Title} hint={lbl.round5Hint} items={MCQ5} color={color} lbl={lbl} onDone={next} wrongCountRef={wrongCountRef} lang={lang} />
           )}
           {round === 5 && <DiscoveryCard color={color} lbl={lbl} onDone={finish} />}
         </motion.div>

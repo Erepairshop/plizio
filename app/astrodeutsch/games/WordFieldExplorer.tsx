@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -244,7 +245,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <div className="grid grid-cols-4 gap-2 w-full px-1">
         {bodyParts.map((bp, i) => (
           <motion.button key={bp.word}
-            className="flex flex-col items-center gap-1 p-2 rounded-xl border-2 transition-all"
+            className="flex flex-col items-center gap-1 p-2 rounded-xl border-2 transition-all relative"
             style={{
               background: revealed.has(i) ? `${color}22` : "rgba(255,255,255,0.05)",
               borderColor: revealed.has(i) ? color : "rgba(255,255,255,0.15)",
@@ -254,6 +255,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           >
             <span className="text-xl">{bp.icon}</span>
             <span className="text-xs font-bold text-white/85">{bp.word}</span>
+            {revealed.has(i) && (
+              <div className="absolute top-1 right-1">
+                <SpeakButton text={bp.word} lang={"de"} size={12} />
+              </div>
+            )}
           </motion.button>
         ))}
       </div>

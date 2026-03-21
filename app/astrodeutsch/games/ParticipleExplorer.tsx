@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -229,7 +230,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Partizip I discovery ───────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PART1_EXAMPLES_POOL.length;
   return (
@@ -246,12 +247,17 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           return (
             <motion.button key={ex.inf}
               onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 text-left"
+              className="relative w-full rounded-2xl p-4 text-left"
               style={{
                 background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
                 border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
               }}
               whileTap={!isOpen ? { scale: 0.98 } : {}}>
+              {isOpen && (
+                <div className="absolute top-2 right-2">
+                  <SpeakButton text={ex.example} lang={"de"} size={14} />
+                </div>
+              )}
               <div className="flex items-center gap-2">
                 <span className="text-xl">{ex.emoji}</span>
                 <span className="text-white font-bold">{ex.inf}</span>
@@ -490,7 +496,7 @@ const ParticipleExplorer = memo(function ParticipleExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}

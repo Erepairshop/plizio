@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import DragToBucket from "./blocks/DragToBucket";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -366,7 +367,10 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -422,11 +426,14 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.direct} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
-          <div className="w-full rounded-2xl p-4 mb-3"
+          <div className="w-full rounded-2xl p-4 mb-3 flex items-center justify-between"
             style={{ background: `${color}12`, border: `2px solid ${color}33` }}>
-            <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
-              style={{ background: `${color}33`, color }}>{lbl.direct}</span>
-            <span className="text-white/80 text-sm font-semibold">{item.direct}</span>
+            <div className="flex-1">
+              <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
+                style={{ background: `${color}33`, color }}>{lbl.direct}</span>
+              <span className="text-white/80 text-sm font-semibold">{item.direct}</span>
+            </div>
+            <SpeakButton text={item.direct} lang="de" size={16} />
           </div>
           <div className="flex flex-col gap-2 w-full">
             {item.options.map(opt => (
