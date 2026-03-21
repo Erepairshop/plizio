@@ -269,7 +269,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `${a.name} ist zu Hause in welcher Umgebung?`,
-        a: a.habitat ?? "Feucht",
+        a: "Feucht",
         w: ["Wüste", "Berg", "Trocken"]
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({

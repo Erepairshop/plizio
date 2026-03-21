@@ -1068,4 +1068,4 @@ export const GENERATOR_MAP: Record<
 
 // ─── Automatikus regisztráció ─────────────────────────────────────────────
 
-setK6GeneratorMap(GENERATOR_MAP);
+setK6GeneratorMap({ default: GENERATOR_MAP } as any);
