@@ -3,7 +3,7 @@
 // Teaches: vowels (A E I O U), uppercase/lowercase, alphabet order
 // Pure guided discovery — no wrong answers, step-by-step.
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -18,6 +18,7 @@ const LABELS: Record<string, Record<string, string>> = {
     konsonant: "Consonant",
     round2Title: "Vowel or Consonant?",
     round2Hint: "Is this letter a vowel or a consonant?",
+    round2Discovery: "💡 Vowels make open sounds: A, E, I, O, U. All other letters are consonants!",
     round3Title: "Big & Small Letters",
     round3Hint: "Tap the matching lowercase letter!",
     round4Title: "ABC Order",
@@ -25,6 +26,9 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Reveal: "Correct ABC order!",
     round5Title: "Quick Review",
     round5Hint: "Tap all the vowels!",
+    retryRound: "Practice Time — Tricky Letters",
+    retryHint: "Let's practice these letters again!",
+    tipVowels: "💡 Tip: Vowels A E I O U 🔴 are open sounds. Consonants 🔵 are all other letters!",
     well: "Well done!",
     next: "Next",
     finish: "Finished!",
@@ -39,6 +43,7 @@ const LABELS: Record<string, Record<string, string>> = {
     konsonant: "Mássalhangzó",
     round2Title: "Magánhangzó vagy mássalhangzó?",
     round2Hint: "Ez a betű magánhangzó vagy mássalhangzó?",
+    round2Discovery: "💡 A magánhangzók nyílt hangok: A, E, I, O, U. Az összes többi betű mássalhangzó!",
     round3Title: "Nagy és kis betűk",
     round3Hint: "Koppints a megfelelő kisbetűre!",
     round4Title: "ÁBÉ sorrend",
@@ -46,6 +51,9 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Reveal: "Helyes ábécé sorrend!",
     round5Title: "Gyors összefoglalás",
     round5Hint: "Koppints minden magánhangzóra!",
+    retryRound: "Gyakorlás — Trükkös betűk",
+    retryHint: "Gyakoroljuk újra ezeket a betűket!",
+    tipVowels: "💡 Tipp: A magánhangzók A E I O U 🔴 nyílt hangok. A mássalhangzók 🔵 az összes többi betű!",
     well: "Remek!",
     next: "Tovább",
     finish: "Vége!",
@@ -60,6 +68,7 @@ const LABELS: Record<string, Record<string, string>> = {
     konsonant: "Konsonant",
     round2Title: "Vokal oder Konsonant?",
     round2Hint: "Ist dieser Buchstabe ein Vokal oder Konsonant?",
+    round2Discovery: "💡 Vokale sind offene Laute: A, E, I, O, U. Alle anderen Buchstaben sind Konsonanten!",
     round3Title: "Groß- und Kleinbuchstaben",
     round3Hint: "Tippe auf den passenden Kleinbuchstaben!",
     round4Title: "ABC-Reihenfolge",
@@ -67,6 +76,9 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Reveal: "Richtige ABC-Reihenfolge!",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Tippe alle Vokale an!",
+    retryRound: "Trainingszeit — Knifflige Buchstaben",
+    retryHint: "Lass uns diese Buchstaben üben!",
+    tipVowels: "💡 Tipp: Vokale A E I O U 🔴 sind offene Laute. Konsonanten 🔵 sind alle anderen Buchstaben!",
     well: "Toll gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -81,6 +93,7 @@ const LABELS: Record<string, Record<string, string>> = {
     konsonant: "Consoană",
     round2Title: "Vocală sau consoană?",
     round2Hint: "Această literă este vocală sau consoană?",
+    round2Discovery: "💡 Vocalele sunt sunete deschise: A, E, I, O, U. Toate celelalte litere sunt consoane!",
     round3Title: "Litere mari și mici",
     round3Hint: "Atinge litera mică potrivită!",
     round4Title: "Ordinea alfabetului",
@@ -88,6 +101,9 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Reveal: "Ordinea corectă!",
     round5Title: "Recapitulare rapidă",
     round5Hint: "Atinge toate vocalele!",
+    retryRound: "Timp de practică — Litere dificile",
+    retryHint: "Hai să practică aceste litere din nou!",
+    tipVowels: "💡 Sfat: Vocalele A E I O U 🔴 sunt sunete deschise. Consoanele 🔵 sunt toate celelalte litere!",
     well: "Bravo!",
     next: "Înainte",
     finish: "Gata!",
@@ -100,23 +116,41 @@ const ALPHABET_SAMPLE = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", 
 const VOKAL_COLOR = "#FF2D78";
 const KONS_COLOR = "#00D4FF";
 
-// Round 2: single letter classification
-const CLASSIFY_LETTERS = ["A", "B", "E", "K", "I", "T", "O", "M", "U", "R"];
-
-// Round 3: uppercase → lowercase pairs
-const UPPER_LOWER_PAIRS: [string, string][] = [
-  ["A", "a"], ["B", "b"], ["E", "e"], ["K", "k"], ["M", "m"],
+// ─── Content Pools (randomly sampled) ─────────────────────────────────────
+const CLASSIFY_POOL = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+const UPPER_LOWER_POOL: [string, string][] = [
+  ["A", "a"], ["B", "b"], ["C", "c"], ["D", "d"], ["E", "e"],
+  ["F", "f"], ["G", "g"], ["H", "h"], ["I", "i"], ["J", "j"],
 ];
-
-// Round 4: 4-letter sets to sort
-const SORT_SETS: string[][] = [
+const SORT_POOL: string[][] = [
   ["D", "A", "C", "B"],
   ["G", "E", "H", "F"],
   ["K", "I", "L", "J"],
+  ["P", "M", "O", "N"],
+  ["V", "S", "U", "T"],
+  ["Z", "W", "Y", "X"],
 ];
+const REVIEW_POOL = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P"];
 
-// Round 5: mixed 8 letters, tap the vowels
-const REVIEW_LETTERS = ["E", "T", "A", "N", "I", "S", "O", "R"];
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+// Helper: select random items ensuring min vowel count
+function selectWithMinVowels(pool: string[], count: number, minVowels: number = 3): string[] {
+  const vowels = pool.filter(l => VOWELS.has(l));
+  const consonants = pool.filter(l => !VOWELS.has(l));
+  const selectedVowels = vowels.slice(0, Math.min(minVowels, vowels.length));
+  const remaining = count - selectedVowels.length;
+  const selectedConsonants = shuffle(consonants).slice(0, remaining);
+  return shuffle([...selectedVowels, ...selectedConsonants]);
+}
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
   return (
@@ -185,31 +219,62 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Classify letters ────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  letters,
+  wrongCountRef,
+  onWrongLetters,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  letters: string[];
+  wrongCountRef: React.MutableRefObject<number>;
+  onWrongLetters: (letters: string[]) => void;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [choice, setChoice] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
-  const letter = CLASSIFY_LETTERS[idx];
+  const [wrongLetters, setWrongLetters] = useState<string[]>([]);
+
+  const letter = letters[idx];
   const isVokal = VOWELS.has(letter);
+  const correctType = isVokal ? "vokal" : "konsonant";
 
   const handleChoice = (type: "vokal" | "konsonant") => {
-    if (choice) return;
+    if (choice || feedback) return;
+    const isCorrect = type === correctType;
     setChoice(type);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+      setWrongLetters(prev => [...prev, letter]);
+    }
+
     setTimeout(() => {
-      if (idx + 1 >= CLASSIFY_LETTERS.length) {
+      if (idx + 1 >= letters.length) {
         setDone(true);
+        onWrongLetters(wrongLetters);
       } else {
         setIdx(i => i + 1);
         setChoice(null);
+        setFeedback(null);
       }
-    }, 800);
+    }, 1000);
   };
 
   if (done) {
     return (
       <div className="flex flex-col items-center gap-4 w-full">
-        <div className="text-5xl">🌟</div>
-        <p className="text-white font-black text-xl">{lbl.well}</p>
+        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+          className="w-full rounded-2xl px-4 py-3 text-center"
+          style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+          <p className="text-[#B44DFF] font-black text-sm">{lbl.round2Discovery}</p>
+        </motion.div>
         <NextBtn onClick={onNext} label={lbl.next} color={color} />
       </div>
     );
@@ -220,7 +285,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
       <div className="flex gap-1 mb-1">
-        {CLASSIFY_LETTERS.map((_, i) => (
+        {letters.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -230,11 +295,15 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           exit={{ opacity: 0, scale: 1.2 }}
           className="w-24 h-24 rounded-3xl flex items-center justify-center text-6xl font-black"
           style={{
-            background: choice
-              ? (isVokal ? `${VOKAL_COLOR}22` : `${KONS_COLOR}22`)
+            background: feedback
+              ? (feedback === "correct" ? (isVokal ? `${VOKAL_COLOR}22` : `${KONS_COLOR}22`) : "rgba(255,45,120,0.15)")
               : "rgba(255,255,255,0.06)",
-            border: `3px solid ${choice ? (isVokal ? VOKAL_COLOR : KONS_COLOR) : "rgba(255,255,255,0.2)"}`,
-            color: choice ? (isVokal ? VOKAL_COLOR : KONS_COLOR) : "white",
+            border: `3px solid ${feedback
+              ? (feedback === "correct" ? (isVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78")
+              : "rgba(255,255,255,0.2)"}`,
+            color: feedback
+              ? (feedback === "correct" ? (isVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78")
+              : "white",
           }}>
           {letter}
         </motion.div>
@@ -243,27 +312,31 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         <SpeakButton text={letter} lang="de" size={16} />
       </div>
       <div className="flex gap-3 w-full">
-        {(["vokal", "konsonant"] as const).map(type => (
-          <motion.button key={type} onClick={() => handleChoice(type)}
-            className="flex-1 py-4 rounded-2xl font-black text-base"
-            style={{
-              background: choice === type
-                ? (type === "vokal" ? `${VOKAL_COLOR}33` : `${KONS_COLOR}33`)
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${choice === type
-                ? (type === "vokal" ? VOKAL_COLOR : KONS_COLOR)
-                : "rgba(255,255,255,0.15)"}`,
-              color: type === "vokal" ? VOKAL_COLOR : KONS_COLOR,
-            }}
-            whileTap={!choice ? { scale: 0.95 } : {}}>
-            {type === "vokal" ? `🔴 ${lbl.vokal}` : `🔵 ${lbl.konsonant}`}
-          </motion.button>
-        ))}
+        {(["vokal", "konsonant"] as const).map(type => {
+          const selectedThisType = choice === type;
+          const isCorrectChoice = type === correctType;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selectedThisType && !isCorrectChoice;
+
+          return (
+            <motion.button key={type} onClick={() => handleChoice(type)} disabled={!!choice}
+              className="flex-1 py-4 rounded-2xl font-black text-base transition-colors"
+              style={{
+                background: shouldShowCorrect ? `${VOKAL_COLOR}33` : shouldShowWrong ? "rgba(255,45,120,0.25)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? VOKAL_COLOR : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.15)"}`,
+                color: type === "vokal" ? VOKAL_COLOR : KONS_COLOR,
+                cursor: choice ? "default" : "pointer",
+              }}
+              whileTap={!choice ? { scale: 0.95 } : {}}>
+              {type === "vokal" ? `🔴 ${lbl.vokal}` : `🔵 ${lbl.konsonant}`}
+            </motion.button>
+          );
+        })}
       </div>
-      {choice && (
+      {feedback && (
         <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
           className="font-black text-lg"
-          style={{ color: isVokal ? VOKAL_COLOR : KONS_COLOR }}>
+          style={{ color: feedback === "correct" ? (isVokal ? VOKAL_COLOR : KONS_COLOR) : "#FF2D78" }}>
           {letter} = {isVokal ? lbl.vokal : lbl.konsonant} {isVokal ? "🔴" : "🔵"}
         </motion.p>
       )}
@@ -272,27 +345,53 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Match uppercase to lowercase ────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  pairs,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  pairs: [string, string][];
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [pairIdx, setPairIdx] = useState(0);
-  const [shuffled] = useState(() =>
-    [...UPPER_LOWER_PAIRS[0][1] ? UPPER_LOWER_PAIRS.map(p => p[1]) : []].sort(() => Math.random() - 0.5)
+  const [choices] = useState(() =>
+    pairs.map(([, lower]) => {
+      const wrongOpts = pairs.filter(p => p[1] !== lower).slice(0, 2).map(p => p[1]);
+      return shuffle([lower, ...wrongOpts]).slice(0, 3);
+    })
   );
-  const [choices] = useState(() => UPPER_LOWER_PAIRS.map(([, lower]) => {
-    const opts = [lower, ...UPPER_LOWER_PAIRS.filter(p => p[1] !== lower).slice(0, 2).map(p => p[1])].sort(() => Math.random() - 0.5);
-    return opts;
-  }));
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
-  void shuffled;
 
-  const pair = UPPER_LOWER_PAIRS[pairIdx];
+  const pair = pairs[pairIdx];
+  const correct = pair[1];
+  const isCorrect = selected === correct;
+
   const handleSelect = (lower: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrectChoice = lower === correct;
     setSelected(lower);
+    setFeedback(isCorrectChoice ? "correct" : "wrong");
+
+    if (!isCorrectChoice) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
-      if (pairIdx + 1 >= UPPER_LOWER_PAIRS.length) setDone(true);
-      else { setPairIdx(i => i + 1); setSelected(null); }
-    }, 700);
+      if (pairIdx + 1 >= pairs.length) {
+        setDone(true);
+      } else {
+        setPairIdx(i => i + 1);
+        setSelected(null);
+        setFeedback(null);
+      }
+    }, 1000);
   };
 
   if (done) {
@@ -305,15 +404,12 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     );
   }
 
-  const correct = pair[1];
-  const isCorrect = selected === correct;
-
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
       <div className="flex gap-1 mb-1">
-        {UPPER_LOWER_PAIRS.map((_, i) => (
+        {pairs.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < pairIdx ? "#00FF88" : i === pairIdx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -330,27 +426,31 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         <SpeakButton text={pair[0]} lang="de" size={16} />
       </div>
       <div className="flex gap-3 justify-center">
-        {choices[pairIdx].map(lower => (
-          <motion.button key={lower} onClick={() => handleSelect(lower)}
-            className="w-16 h-16 rounded-2xl font-black text-3xl flex items-center justify-center"
-            style={{
-              background: selected === lower
-                ? (isCorrect && lower === correct ? "rgba(0,255,136,0.2)" : lower === correct && selected ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.2)")
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === lower
-                ? (lower === correct ? "#00FF88" : "#FF2D78")
-                : "rgba(255,255,255,0.2)"}`,
-              color: selected === lower ? (lower === correct ? "#00FF88" : "#FF2D78") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {lower}
-          </motion.button>
-        ))}
+        {choices[pairIdx].map(lower => {
+          const selectedThisOne = selected === lower;
+          const isCorrectChoice = lower === correct;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selectedThisOne && !isCorrectChoice;
+
+          return (
+            <motion.button key={lower} onClick={() => handleSelect(lower)} disabled={!!selected}
+              className="w-16 h-16 rounded-2xl font-black text-3xl flex items-center justify-center"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,45,120,0.2)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: selected ? "default" : "pointer",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {lower}
+            </motion.button>
+          );
+        })}
       </div>
-      {selected && (
+      {feedback && (
         <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-          className="font-black text-lg" style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}>
-          {pair[0]} = {correct} {isCorrect ? "✅" : ""}
+          className="font-black text-lg" style={{ color: feedback === "correct" ? "#00FF88" : "#FF2D78" }}>
+          {pair[0]} = {correct} {feedback === "correct" ? "✅" : ""}
         </motion.p>
       )}
     </div>
@@ -358,12 +458,24 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Put letters in ABC order ────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  sets,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  sets: string[][];
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [setIdx, setSetIdx] = useState(0);
   const [tapped, setTapped] = useState<string[]>([]);
   const [revealed, setRevealed] = useState(false);
   const [done, setDone] = useState(false);
-  const currentSet = SORT_SETS[setIdx];
+  const currentSet = sets[setIdx];
   const sorted = [...currentSet].sort();
   const allTapped = tapped.length === currentSet.length;
   const isCorrect = tapped.join("") === sorted.join("");
@@ -373,9 +485,21 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     setTapped(prev => [...prev, letter]);
   };
 
+  const handleReveal = () => {
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+    setRevealed(true);
+  };
+
   const handleNext = () => {
-    if (setIdx + 1 >= SORT_SETS.length) setDone(true);
-    else { setSetIdx(i => i + 1); setTapped([]); setRevealed(false); }
+    if (setIdx + 1 >= sets.length) {
+      setDone(true);
+    } else {
+      setSetIdx(i => i + 1);
+      setTapped([]);
+      setRevealed(false);
+    }
   };
 
   if (done) {
@@ -393,7 +517,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
       <div className="flex gap-1 mb-1">
-        {SORT_SETS.map((_, i) => (
+        {sets.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < setIdx ? "#00FF88" : i === setIdx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -416,22 +540,23 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         {currentSet.map(letter => (
           <motion.button key={letter}
             onClick={() => handleTap(letter)}
-            disabled={tapped.includes(letter)}
+            disabled={tapped.includes(letter) || revealed}
             className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
             style={{
               background: tapped.includes(letter) ? "rgba(255,255,255,0.03)" : "rgba(255,255,255,0.08)",
               border: `2px solid ${tapped.includes(letter) ? "rgba(255,255,255,0.06)" : "rgba(255,255,255,0.25)"}`,
               color: tapped.includes(letter) ? "rgba(255,255,255,0.15)" : "white",
               opacity: tapped.includes(letter) ? 0.4 : 1,
+              cursor: revealed ? "default" : "pointer",
             }}
-            whileTap={!tapped.includes(letter) ? { scale: 0.9 } : {}}>
+            whileTap={!tapped.includes(letter) && !revealed ? { scale: 0.9 } : {}}>
             {letter}
           </motion.button>
         ))}
       </div>
       {allTapped && !revealed && (
         <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-          onClick={() => setRevealed(true)}
+          onClick={handleReveal}
           className="w-full py-3 rounded-2xl font-black text-white text-sm"
           style={{ background: `${color}22`, border: `2px solid ${color}55` }}
           whileTap={{ scale: 0.97 }}>
@@ -442,12 +567,13 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
           className="w-full flex flex-col gap-2 items-center">
           <div className="w-full rounded-2xl px-4 py-3 text-center"
-            style={{ background: isCorrect ? "rgba(0,255,136,0.08)" : `${color}11`, border: `2px solid ${isCorrect ? "rgba(0,255,136,0.3)" : `${color}40`}` }}>
-            <p className="font-bold text-sm" style={{ color: isCorrect ? "#00FF88" : "white" }}>
-              {lbl.round4Reveal}: {sorted.join(" → ")}
+            style={{ background: isCorrect ? "rgba(0,255,136,0.08)" : "rgba(255,45,120,0.08)", border: `2px solid ${isCorrect ? "rgba(0,255,136,0.3)" : "rgba(255,45,120,0.3)"}` }}>
+            <p className="font-bold text-sm" style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}>
+              {isCorrect ? "✅" : "❌"} {lbl.round4Reveal}: {sorted.join(" → ")}
             </p>
+            {!isCorrect && <p className="text-white/60 text-xs mt-1">Your order: {tapped.join(" → ")}</p>}
           </div>
-          <NextBtn onClick={handleNext} label={setIdx + 1 >= SORT_SETS.length ? lbl.finish : lbl.next} color={color} />
+          <NextBtn onClick={handleNext} label={setIdx + 1 >= sets.length ? lbl.finish : lbl.next} color={color} />
         </motion.div>
       )}
     </div>
@@ -455,21 +581,133 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Quick review — tap all vowels ───────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  letters,
+  wrongLetters,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  letters: string[];
+  wrongLetters: string[];
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
+  const [phase, setPhase] = useState<"main" | "retry" | "tip" | "done">(wrongLetters.length > 0 ? "main" : "main");
   const [tapped, setTapped] = useState<Set<string>>(new Set());
-  const vowelsInReview = REVIEW_LETTERS.filter(l => VOWELS.has(l));
+  const [retryTapped, setRetryTapped] = useState<Set<string>>(new Set());
+  const vowelsInReview = letters.filter(l => VOWELS.has(l));
   const allVowelsTapped = vowelsInReview.every(v => tapped.has(v));
+
+  const handleWrongTap = () => {
+    wrongCountRef.current++;
+  };
+
+  const handleDone = () => {
+    if (wrongLetters.length > 0) {
+      setPhase("retry");
+    } else {
+      setPhase("done");
+    }
+  };
+
+  const handleRetryDone = () => {
+    const retryVowels = wrongLetters.filter(l => VOWELS.has(l));
+    if (retryVowels.length > 0 && !retryVowels.every(v => retryTapped.has(v))) {
+      setPhase("tip");
+    } else {
+      setPhase("done");
+    }
+  };
+
+  if (phase === "retry") {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-2xl font-black text-white">{lbl.retryRound}</p>
+        <p className="text-white/60 text-xs font-bold text-center">{lbl.retryHint}</p>
+        <div className="flex flex-wrap gap-3 justify-center">
+          {wrongLetters.map((letter, i) => {
+            const isV = VOWELS.has(letter);
+            const isTapped = retryTapped.has(letter);
+            return (
+              <motion.button key={i}
+                onClick={() => {
+                  if (isV) {
+                    setRetryTapped(prev => new Set([...prev, letter]));
+                  } else {
+                    handleWrongTap();
+                  }
+                }}
+                className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
+                style={{
+                  background: isTapped ? `${VOKAL_COLOR}33` : "rgba(255,255,255,0.06)",
+                  border: `2px solid ${isTapped ? VOKAL_COLOR : "rgba(255,255,255,0.15)"}`,
+                  color: isTapped ? VOKAL_COLOR : "white",
+                  boxShadow: isTapped ? `0 0 14px ${VOKAL_COLOR}55` : "none",
+                }}
+                animate={isTapped ? { scale: [1, 1.18, 1] } : {}}
+                transition={{ duration: 0.22 }}>
+                {letter}
+              </motion.button>
+            );
+          })}
+        </div>
+        {wrongLetters.filter(l => VOWELS.has(l)).length === 0 || wrongLetters.filter(l => VOWELS.has(l)).every(v => retryTapped.has(v)) ? (
+          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            onClick={handleRetryDone}
+            className="w-full py-3 rounded-2xl font-black text-white text-sm"
+            style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+            whileTap={{ scale: 0.97 }}>
+            {lbl.next}
+          </motion.button>
+        ) : null}
+      </div>
+    );
+  }
+
+  if (phase === "tip") {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+          className="w-full rounded-2xl px-4 py-4 text-center"
+          style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+          <p className="text-[#B44DFF] font-black text-sm">{lbl.tipVowels}</p>
+        </motion.div>
+        <NextBtn onClick={() => setPhase("done")} label={lbl.next} color={color} />
+      </div>
+    );
+  }
+
+  if (phase === "done") {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <div className="text-5xl">🎉</div>
+        <p className="text-white font-black text-xl">{lbl.well}</p>
+        <NextBtn onClick={onDone} label={lbl.finish} color={color} />
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex flex-wrap gap-3 justify-center">
-        {REVIEW_LETTERS.map((letter, i) => {
+        {letters.map((letter, i) => {
           const isV = VOWELS.has(letter);
           const isTapped = tapped.has(letter);
           return (
-            <motion.button key={i} onClick={() => { if (isV) setTapped(prev => new Set([...prev, letter])); }}
+            <motion.button key={i}
+              onClick={() => {
+                if (isV) {
+                  setTapped(prev => new Set([...prev, letter]));
+                } else {
+                  handleWrongTap();
+                }
+              }}
               className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"
               style={{
                 background: isTapped ? `${VOKAL_COLOR}33` : "rgba(255,255,255,0.06)",
@@ -493,7 +731,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
             style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
             <p className="text-[#00FF88] font-black text-lg">🎉 {lbl.well}</p>
           </div>
-          <NextBtn onClick={onDone} label={lbl.finish} color={color} />
+          <NextBtn onClick={handleDone} label={lbl.next} color={color} />
         </motion.div>
       )}
     </div>
@@ -512,8 +750,21 @@ const LetterExplorer = memo(function LetterExplorer({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Random content generation
+  const [classifyLetters] = useState(() => selectWithMinVowels(CLASSIFY_POOL, 10, 3));
+  const [upperLowerPairs] = useState(() => shuffle(UPPER_LOWER_POOL).slice(0, 5));
+  const [sortSets] = useState(() => shuffle(SORT_POOL).slice(0, 3));
+  const [reviewLetters] = useState(() => selectWithMinVowels(REVIEW_POOL, 8, 3));
+
+  // Error tracking
+  const wrongCountRef = useRef(0);
+  const [wrongLetters, setWrongLetters] = useState<string[]>([]);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -523,10 +774,44 @@ const LetterExplorer = memo(function LetterExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && (
+            <Round2
+              color={color}
+              lbl={lbl}
+              letters={classifyLetters}
+              wrongCountRef={wrongCountRef}
+              onWrongLetters={setWrongLetters}
+              onNext={next}
+            />
+          )}
+          {round === 2 && (
+            <Round3
+              color={color}
+              lbl={lbl}
+              pairs={upperLowerPairs}
+              wrongCountRef={wrongCountRef}
+              onNext={next}
+            />
+          )}
+          {round === 3 && (
+            <Round4
+              color={color}
+              lbl={lbl}
+              sets={sortSets}
+              wrongCountRef={wrongCountRef}
+              onNext={next}
+            />
+          )}
+          {round === 4 && (
+            <Round5
+              color={color}
+              lbl={lbl}
+              letters={reviewLetters}
+              wrongLetters={wrongLetters}
+              wrongCountRef={wrongCountRef}
+              onDone={finish}
+            />
+          )}
         </motion.div>
       </AnimatePresence>
     </div>
