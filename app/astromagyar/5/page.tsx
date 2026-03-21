@@ -23,6 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import LangExplore from "@/app/astromagyar/games/LangExplore";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -58,6 +59,7 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "lang-explore"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -294,6 +296,11 @@ export default function AstroMagyarO5Page() {
     setActiveMission(mission);
     const gameType = mission.gameType;
     setActiveGameType(gameType);
+    // lang-explore doesn't need questions generation, component uses own generator
+    if (gameType === "lang-explore") {
+      setScreen("lang-explore");
+      return;
+    }
     const qs = generateIslandQuestionsO5(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
     setQuestions(qs);
     setMissionScore({ score: 0, total: 0 });
@@ -446,6 +453,13 @@ export default function AstroMagyarO5Page() {
       )}
       {activeGameType === "speed-round" && questions.length > 0 && screen === activeGameType && (
         <SpeedRound questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+      {activeGameType === "lang-explore" && screen === activeGameType && activeIsland && (
+        <LangExplore
+          island={activeIsland}
+          grade={5}
+          onDone={(s, t) => handleMissionSuccess(s, t)}
+        />
       )}
 
       {/* Reward + Card */}

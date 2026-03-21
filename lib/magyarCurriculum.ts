@@ -5,7 +5,12 @@
 import type { CurriculumQuestion, CurriculumTyping } from "./curriculumTypes";
 import { G1_Generators_Hungarian } from "./hungarianGenerators";
 import { G2_Generators_Hungarian } from "./hungarianGenerators2";
+import { G3_Generators_Hungarian } from "./hungarianGenerators3";
+import { G4_Generators_Hungarian } from "./hungarianGenerators4";
+import { G5_Generators_Hungarian } from "./hungarianGenerators5";
 import { G6_Generators_Hungarian } from "./hungarianGenerators6";
+import { G7_Generators_Hungarian } from "./hungarianGenerators7";
+import { G8_Generators_Hungarian } from "./hungarianGenerators8";
 
 // ─── Type definitions ──────────────────────────────────────────────────────────
 export interface MagyarMCQ {
@@ -58,12 +63,30 @@ function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: numbe
 
   // Select generator pool by grade
   let generatorPool: Record<string, () => MagyarMCQ[] | CurriculumTyping[]>;
-  if (osztaly === 2) {
-    generatorPool = G2_Generators_Hungarian;
-  } else if (osztaly === 6) {
-    generatorPool = G6_Generators_Hungarian;
-  } else {
-    generatorPool = G1_Generators_Hungarian;
+  switch (osztaly) {
+    case 2:
+      generatorPool = G2_Generators_Hungarian;
+      break;
+    case 3:
+      generatorPool = G3_Generators_Hungarian;
+      break;
+    case 4:
+      generatorPool = G4_Generators_Hungarian;
+      break;
+    case 5:
+      generatorPool = G5_Generators_Hungarian;
+      break;
+    case 6:
+      generatorPool = G6_Generators_Hungarian;
+      break;
+    case 7:
+      generatorPool = G7_Generators_Hungarian;
+      break;
+    case 8:
+      generatorPool = G8_Generators_Hungarian;
+      break;
+    default:
+      generatorPool = G1_Generators_Hungarian;
   }
 
   const generatorFn = (generatorPool as Record<string, () => MagyarMCQ[] | CurriculumTyping[]>)[subtopicId];
