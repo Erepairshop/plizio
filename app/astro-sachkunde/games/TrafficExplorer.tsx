@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState, useCallback, useRef } from "react";
+import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
@@ -11,468 +11,357 @@ interface Props {
   onDone: (score: number, total: number) => void;
 }
 
-const LABELS: Record<string, Record<string, string>> = {
+const L: Record<string, Record<string, string>> = {
   en: {
-    title: "Traffic Explorer",
-    round1Title: "Traffic Light",
-    round1Hint: "Tap each color to learn what it means!",
-    round1Red: "Red — STOP",
-    round1Yellow: "Yellow — WAIT",
-    round1Green: "Green — GO",
-    round2Title: "Vehicles",
-    round2Hint: "How many wheels does this vehicle have?",
-    round2Car: "Car",
-    round2Bike: "Bicycle",
-    round2Bus: "Bus",
-    round2Train: "Train",
-    round2Wheels2: "2 wheels",
-    round2Wheels4: "4 wheels",
-    round2WheelsMany: "Many wheels",
-    round2Rails: "Runs on rails",
-    round3Title: "At the Crosswalk",
-    round3Hint: "What do you do at a zebra crossing?",
-    round3LookLeftRightLeft: "Look left-right-left",
-    round3WaitForGreen: "Wait for green light",
-    round3HoldHands: "Hold hands with adult",
-    round3WalkFast: "Walk quickly across",
-    round4Title: "Safety Rules",
-    round4Hint: "Choose the safe option!",
-    round4WearHelmet: "Wear helmet on bike",
-    round4NoHelmet: "No helmet needed",
-    round4Buckle: "Buckle seatbelt in car",
-    round4NoBuckle: "No seatbelt needed",
-    round5Title: "Traffic Signs Review",
-    round5Hint: "Match the sign to its meaning!",
-    round5StopSign: "Stop Sign",
-    round5Crosswalk: "Crosswalk",
-    round5NoEntry: "No Entry",
-    round5SpeedLimit: "Speed Limit",
-    round5MustStop: "Must stop",
-    round5SafeCrossing: "Safe to cross",
-    round5CannotEnter: "Cannot enter",
-    round5SlowDown: "Slow down",
-    correct: "Correct!",
-    wrong: "Try again!",
-    next: "Next",
-    finish: "Finished!",
-  },
-  hu: {
-    title: "Forgalom felfedező",
-    round1Title: "Közlekedési lámpa",
-    round1Hint: "Koppints az egyes szín ek re!",
-    round1Red: "Piros — MEGÁLJ",
-    round1Yellow: "Sárga — VÁRJ",
-    round1Green: "Zöld — MEGY",
-    round2Title: "Járművek",
-    round2Hint: "Hány kereke van ennek a járműnek?",
-    round2Car: "Autó",
-    round2Bike: "Bicikli",
-    round2Bus: "Busz",
-    round2Train: "Vonat",
-    round2Wheels2: "2 kerék",
-    round2Wheels4: "4 kerék",
-    round2WheelsMany: "Sok kerék",
-    round2Rails: "Síneken fut",
-    round3Title: "A zebra sávnál",
-    round3Hint: "Mit csinálsz a zebra sávnál?",
-    round3LookLeftRightLeft: "Nézz balra-jobbra-balra",
-    round3WaitForGreen: "Várj a zöld lámpa",
-    round3HoldHands: "Felnőtt keze",
-    round3WalkFast: "Gyorsan át",
-    round4Title: "Biztonsági szabályok",
-    round4Hint: "Válassz a biztonságos opció!",
-    round4WearHelmet: "Viselj sisak",
-    round4NoHelmet: "Nincs sisak",
-    round4Buckle: "Biztonsági öv",
-    round4NoBuckle: "Nincs öv",
-    round5Title: "Közlekedési táblák",
-    round5Hint: "Párositsd a táblát a jelentésével!",
-    round5StopSign: "Stop tábla",
-    round5Crosswalk: "Zebra sáv",
-    round5NoEntry: "Behajtani tilos",
-    round5SpeedLimit: "Sebességkorlátozás",
-    round5MustStop: "Meg kell állni",
-    round5SafeCrossing: "Biztonságos átkelés",
-    round5CannotEnter: "Nem lehet belépni",
-    round5SlowDown: "Lassítani",
-    correct: "Helyes!",
-    wrong: "Próbálj újra!",
-    next: "Tovább",
-    finish: "Vége!",
+    r1Title: "Traffic Light", r1Hint: "What does this color mean?",
+    red: "Red", yellow: "Yellow", green: "Green",
+    stop: "Stop!", caution: "Caution — get ready", go: "Go!",
+    r2Title: "Safe or Unsafe?", r2Hint: "Is this behavior safe?",
+    safe: "Safe", unsafe: "Unsafe",
+    b_lookBoth: "Look both ways before crossing", b_runRoad: "Run across the road without looking",
+    b_helmet: "Wear a helmet when cycling", b_playRoad: "Play ball on the road",
+    b_crosswalk: "Use the crosswalk to cross", b_redLight: "Cross at a red light",
+    b_holdHand: "Hold an adult's hand near traffic", b_phoneCross: "Look at your phone while crossing",
+    r3Title: "Road Signs", r3Hint: "What does this sign mean?",
+    s_stop: "🛑 Octagonal red sign", s_stopA: "Stop completely",
+    s_stopW1: "Speed up", s_stopW2: "Turn right", s_stopW3: "Honk horn",
+    s_ped: "🚶 Person walking sign", s_pedA: "Pedestrian crossing",
+    s_pedW1: "No walking", s_pedW2: "Bus stop", s_pedW3: "Parking",
+    s_noEntry: "⛔ Red circle sign", s_noEntryA: "No entry",
+    s_noEntryW1: "One way", s_noEntryW2: "Speed limit", s_noEntryW3: "Parking allowed",
+    s_speed: "30 in red circle", s_speedA: "Speed limit 30",
+    s_speedW1: "Route number", s_speedW2: "30 minutes to go", s_speedW3: "Distance marker",
+    r4Title: "Pedestrian Rules", r4Hint: "What should you do?",
+    p1Q: "You want to cross the road. What do you do first?",
+    p1A: "Look left, right, then left again", p1W1: "Just run across", p1W2: "Close your eyes and walk", p1W3: "Wait for a car to stop by itself",
+    p2Q: "The pedestrian light turns green. What do you do?",
+    p2A: "Look again, then cross carefully", p2W1: "Run as fast as possible", p2W2: "Wait for it to turn red", p2W3: "Cross without looking",
+    p3Q: "You're walking near a road at night. What helps?",
+    p3A: "Wear bright or reflective clothing", p3W1: "Wear dark clothes", p3W2: "Walk in the middle of the road", p3W3: "Close your eyes",
+    p4Q: "Where is the safest place to cross?",
+    p4A: "At a crosswalk or traffic light", p4W1: "Between parked cars", p4W2: "On a curve", p4W3: "Wherever is closest",
+    r5Title: "Quick Review", r5Hint: "What did you learn?",
+    next: "Next", finish: "Finish", correct: "Correct!", wrong: "Not quite!",
   },
   de: {
-    title: "Verkehr-Entdecker",
-    round1Title: "Ampel",
-    round1Hint: "Tippe auf jede Farbe!",
-    round1Red: "Rot — HALT",
-    round1Yellow: "Gelb — WARTEN",
-    round1Green: "Grün — GEHEN",
-    round2Title: "Fahrzeuge",
-    round2Hint: "Wie viele Räder hat dieses Fahrzeug?",
-    round2Car: "Auto",
-    round2Bike: "Fahrrad",
-    round2Bus: "Bus",
-    round2Train: "Zug",
-    round2Wheels2: "2 Räder",
-    round2Wheels4: "4 Räder",
-    round2WheelsMany: "Viele Räder",
-    round2Rails: "Fährt auf Schienen",
-    round3Title: "Am Zebrastreifen",
-    round3Hint: "Was machst du am Zebrastreifen?",
-    round3LookLeftRightLeft: "Schau links-rechts-links",
-    round3WaitForGreen: "Warte auf grünes Licht",
-    round3HoldHands: "Hand eines Erwachsenen",
-    round3WalkFast: "Schnell über die Straße",
-    round4Title: "Sicherheitsregeln",
-    round4Hint: "Wähle die sichere Option!",
-    round4WearHelmet: "Helm auf dem Fahrrad tragen",
-    round4NoHelmet: "Kein Helm nötig",
-    round4Buckle: "Sicherheitsgurt im Auto",
-    round4NoBuckle: "Kein Gurt nötig",
-    round5Title: "Verkehrszeichen",
-    round5Hint: "Verbinde das Zeichen mit seiner Bedeutung!",
-    round5StopSign: "Stoppschild",
-    round5Crosswalk: "Zebrastreifen",
-    round5NoEntry: "Einfahrt verboten",
-    round5SpeedLimit: "Geschwindigkeitsbegrenzung",
-    round5MustStop: "Muss halten",
-    round5SafeCrossing: "Sicheres Überqueren",
-    round5CannotEnter: "Kann nicht einfahren",
-    round5SlowDown: "Verlangsamen",
-    correct: "Richtig!",
-    wrong: "Versuchen Sie es erneut!",
-    next: "Weiter",
-    finish: "Fertig!",
+    r1Title: "Ampelfarben", r1Hint: "Was bedeutet diese Farbe?",
+    red: "Rot", yellow: "Gelb", green: "Grün",
+    stop: "Stehen bleiben!", caution: "Achtung — bereit machen", go: "Gehen!",
+    r2Title: "Sicher oder Unsicher?", r2Hint: "Ist dieses Verhalten sicher?",
+    safe: "Sicher", unsafe: "Unsicher",
+    b_lookBoth: "Vor dem Überqueren nach links und rechts schauen", b_runRoad: "Ohne zu schauen über die Straße rennen",
+    b_helmet: "Beim Radfahren einen Helm tragen", b_playRoad: "Auf der Straße Ball spielen",
+    b_crosswalk: "Den Zebrastreifen benutzen", b_redLight: "Bei Rot über die Ampel gehen",
+    b_holdHand: "In der Nähe von Verkehr die Hand eines Erwachsenen halten", b_phoneCross: "Beim Überqueren aufs Handy schauen",
+    r3Title: "Verkehrszeichen", r3Hint: "Was bedeutet dieses Zeichen?",
+    s_stop: "🛑 Achteckiges rotes Schild", s_stopA: "Vollständig anhalten",
+    s_stopW1: "Schneller fahren", s_stopW2: "Rechts abbiegen", s_stopW3: "Hupen",
+    s_ped: "🚶 Fußgänger-Zeichen", s_pedA: "Fußgängerüberweg",
+    s_pedW1: "Gehen verboten", s_pedW2: "Bushaltestelle", s_pedW3: "Parkplatz",
+    s_noEntry: "⛔ Roter Kreis", s_noEntryA: "Einfahrt verboten",
+    s_noEntryW1: "Einbahnstraße", s_noEntryW2: "Tempolimit", s_noEntryW3: "Parken erlaubt",
+    s_speed: "30 im roten Kreis", s_speedA: "Tempolimit 30",
+    s_speedW1: "Routennummer", s_speedW2: "30 Minuten Fahrt", s_speedW3: "Entfernungsanzeige",
+    r4Title: "Fußgängerregeln", r4Hint: "Was solltest du tun?",
+    p1Q: "Du willst die Straße überqueren. Was machst du zuerst?",
+    p1A: "Links, rechts, dann nochmal links schauen", p1W1: "Einfach losrennen", p1W2: "Augen zu und loslaufen", p1W3: "Warten bis ein Auto von selbst hält",
+    p2Q: "Die Fußgängerampel wird grün. Was machst du?",
+    p2A: "Nochmal schauen, dann vorsichtig gehen", p2W1: "So schnell wie möglich rennen", p2W2: "Warten bis es rot wird", p2W3: "Ohne zu schauen gehen",
+    p3Q: "Du gehst nachts an einer Straße. Was hilft?",
+    p3A: "Helle oder reflektierende Kleidung tragen", p3W1: "Dunkle Kleidung tragen", p3W2: "Auf der Straßenmitte gehen", p3W3: "Augen schließen",
+    p4Q: "Wo ist der sicherste Ort zum Überqueren?",
+    p4A: "Am Zebrastreifen oder an der Ampel", p4W1: "Zwischen geparkten Autos", p4W2: "In einer Kurve", p4W3: "Wo es am nächsten ist",
+    r5Title: "Schnelle Wiederholung", r5Hint: "Was hast du gelernt?",
+    next: "Weiter", finish: "Fertig", correct: "Richtig!", wrong: "Leider falsch!",
+  },
+  hu: {
+    r1Title: "Közlekedési lámpa", r1Hint: "Mit jelent ez a szín?",
+    red: "Piros", yellow: "Sárga", green: "Zöld",
+    stop: "Állj!", caution: "Vigyázz — készülj", go: "Menj!",
+    r2Title: "Biztonságos vagy veszélyes?", r2Hint: "Ez a viselkedés biztonságos?",
+    safe: "Biztonságos", unsafe: "Veszélyes",
+    b_lookBoth: "Átkelés előtt nézz körül mindkét irányba", b_runRoad: "Nézés nélkül rohanj át az úton",
+    b_helmet: "Kerékpározáskor viselj sisakot", b_playRoad: "Labdázz az úton",
+    b_crosswalk: "Használd a zebrát az átkeléshez", b_redLight: "Piros jelzésnél kelj át",
+    b_holdHand: "Forgalom közelében fogd meg egy felnőtt kezét", b_phoneCross: "Átkelés közben a telefonodat nézd",
+    r3Title: "Közlekedési táblák", r3Hint: "Mit jelent ez a tábla?",
+    s_stop: "🛑 Nyolcszögletű piros tábla", s_stopA: "Teljesen megállni",
+    s_stopW1: "Gyorsítani", s_stopW2: "Jobbra fordulni", s_stopW3: "Dudálni",
+    s_ped: "🚶 Gyalogos jelzés", s_pedA: "Gyalogos átkelőhely",
+    s_pedW1: "Tilos a gyaloglás", s_pedW2: "Buszmegálló", s_pedW3: "Parkoló",
+    s_noEntry: "⛔ Piros kör", s_noEntryA: "Behajtani tilos",
+    s_noEntryW1: "Egyirányú utca", s_noEntryW2: "Sebességkorlátozás", s_noEntryW3: "Parkolás engedélyezett",
+    s_speed: "30 piros körben", s_speedA: "Sebességkorlátozás 30",
+    s_speedW1: "Útszám", s_speedW2: "30 perc menetidő", s_speedW3: "Távolságjelzés",
+    r4Title: "Gyalogos szabályok", r4Hint: "Mit kell tenned?",
+    p1Q: "Át akarsz kelni az úton. Mit csinálsz először?",
+    p1A: "Balra, jobbra, majd ismét balra nézel", p1W1: "Egyszerűen átszaladsz", p1W2: "Becsukod a szemed és mész", p1W3: "Megvárod míg egy autó magától megáll",
+    p2Q: "A gyalogos lámpa zöldre vált. Mit csinálsz?",
+    p2A: "Még egyszer megnézed, majd óvatosan átmész", p2W1: "Amilyen gyorsan csak tudsz, átfutsz", p2W2: "Megvárod míg pirosra vált", p2W3: "Nézés nélkül átmész",
+    p3Q: "Éjszaka sétálsz egy út mellett. Mi segít?",
+    p3A: "Világos vagy fényvisszaverő ruhát viselni", p3W1: "Sötét ruhát viselni", p3W2: "Az út közepén sétálni", p3W3: "Becsukni a szemed",
+    p4Q: "Hol a legbiztonságosabb átkelni?",
+    p4A: "Zebrán vagy jelzőlámpánál", p4W1: "Parkoló autók között", p4W2: "Kanyarban", p4W3: "Ahol a legközelebb van",
+    r5Title: "Gyors összefoglalás", r5Hint: "Mit tanultál?",
+    next: "Tovább", finish: "Kész", correct: "Helyes!", wrong: "Sajnos hibás!",
   },
   ro: {
-    title: "Exploratorul traficului",
-    round1Title: "Semafor",
-    round1Hint: "Atinge fiecare culoare!",
-    round1Red: "Roșu — OPRI",
-    round1Yellow: "Galben — ASTEAPTA",
-    round1Green: "Verde — MERGI",
-    round2Title: "Vehicule",
-    round2Hint: "Câte roți are acest vehicul?",
-    round2Car: "Mașină",
-    round2Bike: "Bicicletă",
-    round2Bus: "Autobuz",
-    round2Train: "Tren",
-    round2Wheels2: "2 roți",
-    round2Wheels4: "4 roți",
-    round2WheelsMany: "Multe roți",
-    round2Rails: "Merge pe șine",
-    round3Title: "La trecerea de cale ferată",
-    round3Hint: "Ce faci la o trecere de pietoni?",
-    round3LookLeftRightLeft: "Privește stânga-dreapta-stânga",
-    round3WaitForGreen: "Asteapta lumina verde",
-    round3HoldHands: "Mâna unui adult",
-    round3WalkFast: "Traversează repede",
-    round4Title: "Reguli de siguranță",
-    round4Hint: "Alege opțiunea sigură!",
-    round4WearHelmet: "Poartă cască pe bicicletă",
-    round4NoHelmet: "Fără cască",
-    round4Buckle: "Centură de siguranță în mașină",
-    round4NoBuckle: "Fără centură",
-    round5Title: "Semne de circulație",
-    round5Hint: "Potrivește semnul cu semnificația lui!",
-    round5StopSign: "Semn de stop",
-    round5Crosswalk: "Trecere de pietoni",
-    round5NoEntry: "Intrare interzisă",
-    round5SpeedLimit: "Limita de viteză",
-    round5MustStop: "Trebuie să oprești",
-    round5SafeCrossing: "Traversare sigură",
-    round5CannotEnter: "Nu poți intra",
-    round5SlowDown: "Încetinește",
-    correct: "Corect!",
-    wrong: "Încearcă din nou!",
-    next: "Înainte",
-    finish: "Gata!",
+    r1Title: "Semaforul", r1Hint: "Ce înseamnă această culoare?",
+    red: "Roșu", yellow: "Galben", green: "Verde",
+    stop: "Stop!", caution: "Atenție — pregătește-te", go: "Mergi!",
+    r2Title: "Sigur sau periculos?", r2Hint: "Este acest comportament sigur?",
+    safe: "Sigur", unsafe: "Periculos",
+    b_lookBoth: "Privește în ambele direcții înainte de a traversa", b_runRoad: "Aleargă peste drum fără să te uiți",
+    b_helmet: "Poartă cască când mergi cu bicicleta", b_playRoad: "Joacă mingea pe drum",
+    b_crosswalk: "Folosește trecerea de pietoni", b_redLight: "Traversează pe roșu",
+    b_holdHand: "Ține-te de mâna unui adult lângă trafic", b_phoneCross: "Uită-te la telefon când traversezi",
+    r3Title: "Semne de circulație", r3Hint: "Ce înseamnă acest semn?",
+    s_stop: "🛑 Semn roșu octogonal", s_stopA: "Oprire completă",
+    s_stopW1: "Accelerează", s_stopW2: "Virează la dreapta", s_stopW3: "Claxonează",
+    s_ped: "🚶 Semn pieton", s_pedA: "Trecere de pietoni",
+    s_pedW1: "Mersul interzis", s_pedW2: "Stație de autobuz", s_pedW3: "Parcare",
+    s_noEntry: "⛔ Cerc roșu", s_noEntryA: "Accesul interzis",
+    s_noEntryW1: "Sens unic", s_noEntryW2: "Limită de viteză", s_noEntryW3: "Parcare permisă",
+    s_speed: "30 în cerc roșu", s_speedA: "Limită de viteză 30",
+    s_speedW1: "Număr de traseu", s_speedW2: "30 minute de mers", s_speedW3: "Indicator distanță",
+    r4Title: "Reguli pentru pietoni", r4Hint: "Ce ar trebui să faci?",
+    p1Q: "Vrei să traversezi. Ce faci mai întâi?",
+    p1A: "Te uiți la stânga, dreapta, apoi iar la stânga", p1W1: "Fugi direct", p1W2: "Închizi ochii și mergi", p1W3: "Aștepți ca o mașină să oprească singură",
+    p2Q: "Semaforul de pietoni devine verde. Ce faci?",
+    p2A: "Te uiți din nou, apoi traversezi cu atenție", p2W1: "Fugi cât mai repede", p2W2: "Aștepți să devină roșu", p2W3: "Traversezi fără să te uiți",
+    p3Q: "Mergi pe lângă un drum noaptea. Ce ajută?",
+    p3A: "Să porți haine deschise la culoare sau reflectorizante", p3W1: "Să porți haine închise", p3W2: "Să mergi pe mijlocul drumului", p3W3: "Să închizi ochii",
+    p4Q: "Unde este cel mai sigur loc de traversare?",
+    p4A: "La trecerea de pietoni sau semafor", p4W1: "Între mașini parcate", p4W2: "Într-o curbă", p4W3: "Oriunde e cel mai aproape",
+    r5Title: "Recapitulare rapidă", r5Hint: "Ce ai învățat?",
+    next: "Înainte", finish: "Gata", correct: "Corect!", wrong: "Nu chiar!",
   },
 };
 
-const TRAFFIC_LIGHT_COLORS = [
-  { id: "red", label: "red", display: "#EF4444" },
-  { id: "yellow", label: "yellow", display: "#FBBF24" },
-  { id: "green", label: "green", display: "#10B981" },
-];
-
 function shuffle<T>(arr: T[]): T[] {
-  const copy = [...arr];
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
+  const c = [...arr];
+  for (let i = c.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [c[i], c[j]] = [c[j], c[i]]; }
+  return c;
 }
 
+type QItem = { q: string; a: string; wrong: string[] };
+
 function TrafficExplorer({ color, lang = "de", onDone }: Props) {
-  const lbl = LABELS[lang] ?? LABELS.de;
+  const t = L[lang] ?? L.de;
   const [round, setRound] = useState(0);
-  const wrongRef = useRef(0);
+  const scoreRef = useRef(0);
+  const totalRef = useRef(0);
 
-  // Round 1: Traffic light colors
-  const [discoveredColors, setDiscoveredColors] = useState<Set<string>>(new Set());
+  // Round 0: Traffic light
+  const r0Qs = useMemo<QItem[]>(() => shuffle([
+    { q: "red", a: "stop", wrong: ["caution", "go"] },
+    { q: "yellow", a: "caution", wrong: ["stop", "go"] },
+    { q: "green", a: "go", wrong: ["stop", "caution"] },
+  ]), []);
+  const [r0i, setR0i] = useState(0);
+  const [r0a, setR0a] = useState<string | null>(null);
 
-  // Round 2: Vehicle wheels/type MCQ
-  const [selectedVehicle, setSelectedVehicle] = useState<string | null>(null);
-  const [vehicleSubmitted, setVehicleSubmitted] = useState(false);
+  // Round 1: Safe/Unsafe
+  type BinQ = { key: string; safe: boolean };
+  const r1Qs = useMemo<BinQ[]>(() => shuffle([
+    { key: "b_lookBoth", safe: true }, { key: "b_runRoad", safe: false },
+    { key: "b_helmet", safe: true }, { key: "b_playRoad", safe: false },
+    { key: "b_crosswalk", safe: true }, { key: "b_redLight", safe: false },
+    { key: "b_holdHand", safe: true }, { key: "b_phoneCross", safe: false },
+  ]).slice(0, 4), []);
+  const [r1i, setR1i] = useState(0);
+  const [r1a, setR1a] = useState<boolean | null>(null);
 
-  // Round 3: Crosswalk safety
-  const [selectedCrosswalk, setSelectedCrosswalk] = useState<string | null>(null);
-  const [crosswalkSubmitted, setCrosswalkSubmitted] = useState(false);
+  // Round 2: Road Signs
+  const r2Qs = useMemo<QItem[]>(() => shuffle([
+    { q: "s_stop", a: "s_stopA", wrong: ["s_stopW1", "s_stopW2", "s_stopW3"] },
+    { q: "s_ped", a: "s_pedA", wrong: ["s_pedW1", "s_pedW2", "s_pedW3"] },
+    { q: "s_noEntry", a: "s_noEntryA", wrong: ["s_noEntryW1", "s_noEntryW2", "s_noEntryW3"] },
+    { q: "s_speed", a: "s_speedA", wrong: ["s_speedW1", "s_speedW2", "s_speedW3"] },
+  ]).slice(0, 3), []);
+  const [r2i, setR2i] = useState(0);
+  const [r2a, setR2a] = useState<string | null>(null);
 
-  // Round 4: Safety rules
-  const [selectedSafety, setSelectedSafety] = useState<string | null>(null);
-  const [safetySubmitted, setSafetySubmitted] = useState(false);
+  // Round 3: Pedestrian rules
+  const r3Qs = useMemo<QItem[]>(() => shuffle([
+    { q: "p1Q", a: "p1A", wrong: ["p1W1", "p1W2", "p1W3"] },
+    { q: "p2Q", a: "p2A", wrong: ["p2W1", "p2W2", "p2W3"] },
+    { q: "p3Q", a: "p3A", wrong: ["p3W1", "p3W2", "p3W3"] },
+    { q: "p4Q", a: "p4A", wrong: ["p4W1", "p4W2", "p4W3"] },
+  ]).slice(0, 3), []);
+  const [r3i, setR3i] = useState(0);
+  const [r3a, setR3a] = useState<string | null>(null);
 
-  // Round 5: Traffic signs matching
-  const [signMatches, setSignMatches] = useState<Record<string, string>>({});
+  // Round 4: Review (mixed from all)
+  const r4Qs = useMemo<QItem[]>(() => shuffle([
+    { q: "red", a: "stop", wrong: ["caution", "go"] },
+    { q: "s_ped", a: "s_pedA", wrong: ["s_pedW1", "s_pedW2", "s_pedW3"] },
+    { q: "p4Q", a: "p4A", wrong: ["p4W1", "p4W2", "p4W3"] },
+    { q: "green", a: "go", wrong: ["stop", "caution"] },
+    { q: "s_stop", a: "s_stopA", wrong: ["s_stopW1", "s_stopW2", "s_stopW3"] },
+  ]).slice(0, 3), []);
+  const [r4i, setR4i] = useState(0);
+  const [r4a, setR4a] = useState<string | null>(null);
 
   const advance = useCallback(() => {
-    if (round >= TOTAL_ROUNDS - 1) {
-      const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongRef.current, TOTAL_ROUNDS - 1));
-      onDone(score, TOTAL_ROUNDS);
-    } else {
-      setRound(r => r + 1);
-      setSelectedVehicle(null);
-      setVehicleSubmitted(false);
-      setSelectedCrosswalk(null);
-      setCrosswalkSubmitted(false);
-      setSelectedSafety(null);
-      setSafetySubmitted(false);
-    }
+    if (round >= TOTAL_ROUNDS - 1) { onDone(scoreRef.current, totalRef.current); }
+    else { setRound(r => r + 1); }
   }, [round, onDone]);
+
+  const handleMCQ = (selected: string, correct: string, setAns: (v: string) => void) => {
+    totalRef.current++;
+    if (selected === correct) scoreRef.current++;
+    setAns(selected);
+  };
+
+  const renderMCQ = (options: string[], selected: string | null, correct: string, onSelect: (v: string) => void) => (
+    <div className="space-y-2 w-full max-w-xs">
+      {options.map(opt => {
+        let bg = "rgba(255,255,255,0.06)", border = "rgba(255,255,255,0.1)";
+        if (selected !== null) {
+          if (opt === correct) { bg = "#00FF8833"; border = "#00FF88"; }
+          else if (opt === selected) { bg = "#FF2D7833"; border = "#FF2D78"; }
+        }
+        return (
+          <motion.button key={opt} onClick={() => { if (!selected) onSelect(opt); }}
+            className="w-full py-3 px-4 rounded-xl font-bold text-white text-sm transition-all"
+            whileTap={!selected ? { scale: 0.97 } : undefined}
+            style={{ background: bg, border: `2px solid ${border}` }}>
+            {t[opt] ?? opt}
+          </motion.button>
+        );
+      })}
+    </div>
+  );
+
+  const renderFeedback = (selected: string | null, correct: string) => {
+    if (!selected) return null;
+    const ok = selected === correct;
+    return <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-sm font-black" style={{ color: ok ? "#00FF88" : "#FF2D78" }}>{ok ? t.correct : t.wrong}</motion.p>;
+  };
+
+  const renderNext = (disabled: boolean, onClick: () => void, label?: string) => (
+    <motion.button onClick={onClick} disabled={disabled}
+      className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2 disabled:opacity-30"
+      style={{ background: !disabled ? `linear-gradient(135deg, ${color}55, ${color}99)` : "rgba(255,255,255,0.06)", border: `2px solid ${!disabled ? color : "rgba(255,255,255,0.1)"}` }}>
+      {label ?? t.next} <ChevronRight size={16} />
+    </motion.button>
+  );
+
+  const renderSubProgress = (idx: number, total: number) => (
+    <span className="text-white/40 text-xs font-bold">{idx + 1}/{total}</span>
+  );
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-2">
+      <div className="flex justify-center gap-1.5 pt-4 pb-3">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
           <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"
             style={{ background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)" }} />
         ))}
       </div>
-
       <AnimatePresence mode="wait">
-        <motion.div key={round}
-          initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
+        <motion.div key={round} initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
 
-          {/* ROUND 1: Traffic light */}
-          {round === 0 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-              <div className="flex flex-col gap-2 w-full max-w-sm">
-                {TRAFFIC_LIGHT_COLORS.map((c) => (
-                  <motion.button key={c.id}
-                    onClick={() => setDiscoveredColors(prev => new Set([...prev, c.id]))}
-                    className="py-3 px-4 rounded-xl font-bold text-white text-sm transition-colors flex items-center gap-3"
-                    style={{
-                      background: discoveredColors.has(c.id) ? `${c.display}33` : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${discoveredColors.has(c.id) ? c.display : "rgba(255,255,255,0.15)"}`,
-                    }}
-                    whileTap={{ scale: 0.97 }}>
-                    <div className="w-6 h-6 rounded-full" style={{ background: c.display }} />
-                    {lbl[`round1${c.label.charAt(0).toUpperCase() + c.label.slice(1)}` as keyof typeof lbl] || c.label}
-                  </motion.button>
-                ))}
-              </div>
-              {discoveredColors.size > 0 && (
-                <motion.button onClick={advance}
-                  className="mt-4 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                  whileTap={{ scale: 0.97 }}>
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+          {round === 0 && (() => {
+            const q = r0Qs[r0i]; if (!q) return null;
+            const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r0i]); // eslint-disable-line
+            return (<>
+              <p className="text-2xl font-black text-white">{t.r1Title}</p>
+              <p className="text-white/60 text-xs font-bold text-center">{t.r1Hint}</p>
+              {renderSubProgress(r0i, r0Qs.length)}
+              <div className="w-20 h-20 rounded-full flex items-center justify-center text-4xl" style={{
+                background: q.q === "red" ? "#ef4444" : q.q === "yellow" ? "#eab308" : "#22c55e",
+                boxShadow: `0 0 30px ${q.q === "red" ? "#ef444466" : q.q === "yellow" ? "#eab30866" : "#22c55e66"}`
+              }}>{q.q === "red" ? "🔴" : q.q === "yellow" ? "🟡" : "🟢"}</div>
+              <p className="text-white/80 font-bold">{t[q.q]}</p>
+              {renderMCQ(opts, r0a, q.a, (v) => handleMCQ(v, q.a, setR0a))}
+              {renderFeedback(r0a, q.a)}
+              {renderNext(!r0a, () => { if (r0i < r0Qs.length - 1) { setR0i(i => i + 1); setR0a(null); } else advance(); })}
+            </>);
+          })()}
 
-          {/* ROUND 2: Vehicles */}
-          {round === 1 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
-              <div className="flex flex-col gap-2 w-full max-w-sm">
-                {[
-                  { id: "car", vehicle: lbl.round2Car, label: lbl.round2Wheels4, correct: true },
-                  { id: "bike", vehicle: lbl.round2Bike, label: lbl.round2Wheels2, correct: false },
-                  { id: "bus", vehicle: lbl.round2Bus, label: lbl.round2WheelsMany, correct: false },
-                  { id: "train", vehicle: lbl.round2Train, label: lbl.round2Rails, correct: false },
-                ].map((opt) => (
-                  <motion.button key={opt.id}
-                    onClick={() => {
-                      setSelectedVehicle(opt.id);
-                      if (!opt.correct) wrongRef.current++;
-                      setVehicleSubmitted(true);
-                    }}
-                    className="py-3 px-4 rounded-xl font-bold text-white text-sm transition-colors"
-                    style={{
-                      background: selectedVehicle === opt.id
-                        ? opt.correct ? "#00FF8833" : "#FF2D7833"
-                        : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedVehicle === opt.id
-                        ? opt.correct ? "#00FF88" : "#FF2D78"
-                        : "rgba(255,255,255,0.15)"}`,
-                    }}
-                    whileTap={{ scale: 0.97 }}>
-                    <div className="flex justify-between">
-                      <span>{opt.vehicle}</span>
-                      <span className="text-white/60">{opt.label}</span>
-                    </div>
-                  </motion.button>
-                ))}
+          {round === 1 && (() => {
+            const q = r1Qs[r1i]; if (!q) return null;
+            return (<>
+              <p className="text-2xl font-black text-white">{t.r2Title}</p>
+              <p className="text-white/60 text-xs font-bold text-center">{t.r2Hint}</p>
+              {renderSubProgress(r1i, r1Qs.length)}
+              <div className="w-full max-w-xs py-5 px-6 rounded-2xl text-center" style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}>
+                <p className="text-white font-bold text-base">{t[q.key]}</p>
               </div>
-              {vehicleSubmitted && (
-                <motion.button onClick={advance}
-                  className="mt-4 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                  whileTap={{ scale: 0.97 }}>
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+              <div className="flex gap-3 w-full max-w-xs">
+                {([true, false] as const).map(val => {
+                  const label = val ? t.safe : t.unsafe;
+                  const isSelected = r1a === val;
+                  const isCorrect = val === q.safe;
+                  let bg = "rgba(255,255,255,0.06)", border = "rgba(255,255,255,0.1)";
+                  if (r1a !== null) {
+                    if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
+                    else if (isSelected) { bg = "#FF2D7833"; border = "#FF2D78"; }
+                  }
+                  return (
+                    <motion.button key={String(val)} onClick={() => {
+                      if (r1a !== null) return;
+                      totalRef.current++;
+                      if (val === q.safe) scoreRef.current++;
+                      setR1a(val);
+                    }} whileTap={r1a === null ? { scale: 0.97 } : undefined}
+                      className="flex-1 py-3 rounded-xl font-black text-white text-sm transition-all"
+                      style={{ background: bg, border: `2px solid ${border}` }}>
+                      {val ? "👍" : "👎"} {label}
+                    </motion.button>
+                  );
+                })}
+              </div>
+              {r1a !== null && <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="text-sm font-black"
+                style={{ color: r1a === q.safe ? "#00FF88" : "#FF2D78" }}>{r1a === q.safe ? t.correct : t.wrong}</motion.p>}
+              {renderNext(r1a === null, () => { if (r1i < r1Qs.length - 1) { setR1i(i => i + 1); setR1a(null); } else advance(); })}
+            </>);
+          })()}
 
-          {/* ROUND 3: Crosswalk */}
-          {round === 2 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
-              <div className="flex flex-col gap-2 w-full max-w-sm">
-                {[
-                  { id: "look", label: lbl.round3LookLeftRightLeft, correct: true },
-                  { id: "wait", label: lbl.round3WaitForGreen, correct: false },
-                  { id: "hold", label: lbl.round3HoldHands, correct: false },
-                  { id: "fast", label: lbl.round3WalkFast, correct: false },
-                ].map((opt) => (
-                  <motion.button key={opt.id}
-                    onClick={() => {
-                      setSelectedCrosswalk(opt.id);
-                      if (!opt.correct) wrongRef.current++;
-                      setCrosswalkSubmitted(true);
-                    }}
-                    className="py-3 px-4 rounded-xl font-bold text-white text-sm transition-colors"
-                    style={{
-                      background: selectedCrosswalk === opt.id
-                        ? opt.correct ? "#00FF8833" : "#FF2D7833"
-                        : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedCrosswalk === opt.id
-                        ? opt.correct ? "#00FF88" : "#FF2D78"
-                        : "rgba(255,255,255,0.15)"}`,
-                    }}
-                    whileTap={{ scale: 0.97 }}>
-                    {opt.label}
-                  </motion.button>
-                ))}
-              </div>
-              {crosswalkSubmitted && (
-                <motion.button onClick={advance}
-                  className="mt-4 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                  whileTap={{ scale: 0.97 }}>
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+          {round === 2 && (() => {
+            const q = r2Qs[r2i]; if (!q) return null;
+            const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r2i]); // eslint-disable-line
+            return (<>
+              <p className="text-2xl font-black text-white">{t.r3Title}</p>
+              <p className="text-white/60 text-xs font-bold text-center">{t.r3Hint}</p>
+              {renderSubProgress(r2i, r2Qs.length)}
+              <div className="text-3xl mb-2">{t[q.q]}</div>
+              {renderMCQ(opts, r2a, q.a, (v) => handleMCQ(v, q.a, setR2a))}
+              {renderFeedback(r2a, q.a)}
+              {renderNext(!r2a, () => { if (r2i < r2Qs.length - 1) { setR2i(i => i + 1); setR2a(null); } else advance(); })}
+            </>);
+          })()}
 
-          {/* ROUND 4: Safety rules */}
-          {round === 3 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
-              <div className="flex flex-col gap-2 w-full max-w-sm">
-                {[
-                  { id: "helmet", label: lbl.round4WearHelmet, correct: true },
-                  { id: "no-helmet", label: lbl.round4NoHelmet, correct: false },
-                  { id: "buckle", label: lbl.round4Buckle, correct: true },
-                  { id: "no-buckle", label: lbl.round4NoBuckle, correct: false },
-                ].map((opt) => (
-                  <motion.button key={opt.id}
-                    onClick={() => {
-                      setSelectedSafety(opt.id);
-                      if (!opt.correct) wrongRef.current++;
-                      setSafetySubmitted(true);
-                    }}
-                    className="py-3 px-4 rounded-xl font-bold text-white text-sm transition-colors"
-                    style={{
-                      background: selectedSafety === opt.id
-                        ? opt.correct ? "#00FF8833" : "#FF2D7833"
-                        : "rgba(255,255,255,0.06)",
-                      border: `2px solid ${selectedSafety === opt.id
-                        ? opt.correct ? "#00FF88" : "#FF2D78"
-                        : "rgba(255,255,255,0.15)"}`,
-                    }}
-                    whileTap={{ scale: 0.97 }}>
-                    {opt.label}
-                  </motion.button>
-                ))}
-              </div>
-              {safetySubmitted && (
-                <motion.button onClick={advance}
-                  className="mt-4 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                  whileTap={{ scale: 0.97 }}>
-                  {lbl.next} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+          {round === 3 && (() => {
+            const q = r3Qs[r3i]; if (!q) return null;
+            const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r3i]); // eslint-disable-line
+            return (<>
+              <p className="text-2xl font-black text-white">{t.r4Title}</p>
+              <p className="text-white/60 text-xs font-bold text-center">{t.r4Hint}</p>
+              {renderSubProgress(r3i, r3Qs.length)}
+              <p className="text-white/80 font-bold text-center text-sm max-w-xs">{t[q.q]}</p>
+              {renderMCQ(opts, r3a, q.a, (v) => handleMCQ(v, q.a, setR3a))}
+              {renderFeedback(r3a, q.a)}
+              {renderNext(!r3a, () => { if (r3i < r3Qs.length - 1) { setR3i(i => i + 1); setR3a(null); } else advance(); })}
+            </>);
+          })()}
 
-          {/* ROUND 5: Traffic signs */}
-          {round === 4 && (
-            <>
-              <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
-              <div className="flex flex-col gap-3 w-full max-w-sm">
-                {[
-                  { sign: "stop", signLabel: lbl.round5StopSign },
-                  { sign: "crosswalk", signLabel: lbl.round5Crosswalk },
-                  { sign: "noentry", signLabel: lbl.round5NoEntry },
-                ].map((s) => (
-                  <div key={s.sign} className="flex gap-2">
-                    <div className="flex-1 py-2 px-3 rounded-lg bg-white/10 border border-white/15 text-white text-xs font-bold flex items-center justify-center">
-                      {s.signLabel}
-                    </div>
-                    <div className="flex-1 flex flex-col gap-1">
-                      {[
-                        { id: `${s.sign}-a`, meaning: s.sign === "stop" ? lbl.round5MustStop : s.sign === "crosswalk" ? lbl.round5SafeCrossing : lbl.round5CannotEnter, correct: true },
-                        { id: `${s.sign}-b`, meaning: s.sign === "stop" ? lbl.round5SafeCrossing : s.sign === "crosswalk" ? lbl.round5MustStop : lbl.round5SlowDown, correct: false },
-                      ].map((opt) => (
-                        <motion.button key={opt.id}
-                          onClick={() => {
-                            setSignMatches(prev => ({ ...prev, [s.sign]: opt.id }));
-                            if (!opt.correct) wrongRef.current++;
-                          }}
-                          className="py-1.5 px-2 rounded-lg font-bold text-white text-xs transition-colors"
-                          style={{
-                            background: signMatches[s.sign] === opt.id
-                              ? opt.correct ? "#00FF8833" : "#FF2D7833"
-                              : "rgba(255,255,255,0.06)",
-                            border: `2px solid ${signMatches[s.sign] === opt.id
-                              ? opt.correct ? "#00FF88" : "#FF2D78"
-                              : "rgba(255,255,255,0.15)"}`,
-                          }}
-                          whileTap={{ scale: 0.95 }}>
-                          {opt.meaning}
-                        </motion.button>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
-              {Object.keys(signMatches).length === 3 && (
-                <motion.button onClick={advance}
-                  className="mt-4 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                  whileTap={{ scale: 0.97 }}>
-                  {lbl.finish} <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
+          {round === 4 && (() => {
+            const q = r4Qs[r4i]; if (!q) return null;
+            const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r4i]); // eslint-disable-line
+            return (<>
+              <p className="text-2xl font-black text-white">{t.r5Title}</p>
+              <p className="text-white/60 text-xs font-bold text-center">{t.r5Hint}</p>
+              {renderSubProgress(r4i, r4Qs.length)}
+              <p className="text-white/80 font-bold text-center text-sm max-w-xs">{t[q.q]}</p>
+              {renderMCQ(opts, r4a, q.a, (v) => handleMCQ(v, q.a, setR4a))}
+              {renderFeedback(r4a, q.a)}
+              {renderNext(!r4a, () => { if (r4i < r4Qs.length - 1) { setR4i(i => i + 1); setR4a(null); } else advance(); }, t.finish)}
+            </>);
+          })()}
 
         </motion.div>
       </AnimatePresence>
