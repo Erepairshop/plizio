@@ -2,9 +2,10 @@
 // ClauseConnectorExplorer — Island i6: Relativsatz & Kausalsatz (K6)
 // Teaches: Relativsatz anatomy, Relativpronomen table, Kausalsatz verb-end, SentenceReorder, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import TapToHighlight from "./blocks/TapToHighlight";
 import SentenceReorder from "./blocks/SentenceReorder";
 
@@ -30,6 +31,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rel: "Relative pronoun",
     relClause: "Relative clause",
     verbEnd: "verb goes to end!",
+    discovery: "💡 Relative clauses give extra info about a noun: 'Der Mann, DER dort steht, ist mein Lehrer.' The relative pronoun (der/die/das) matches the noun's gender!",
   },
   hu: {
     title: "Mellékmondatok",
@@ -52,6 +54,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rel: "Vonatkozói névmás",
     relClause: "Vonatkozói mellékmondat",
     verbEnd: "az ige a végére kerül!",
+    discovery: "💡 A vonatkozói mellékmondatok egy főnévről adnak plusz információt: 'Der Mann, DER dort steht, ist mein Lehrer.' A vonatkozói névmás (der/die/das) megegyezik a főnév nemével!",
   },
   de: {
     title: "Nebensätze",
@@ -74,6 +77,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rel: "Relativpronomen",
     relClause: "Relativsatz",
     verbEnd: "Verb ans Ende!",
+    discovery: "💡 Relativsätze geben extra Info über ein Nomen: 'Der Mann, DER dort steht, ist mein Lehrer.' Das Relativpronomen (der/die/das) passt zum Genus des Nomens!",
   },
   ro: {
     title: "Propoziții subordonate",
@@ -96,6 +100,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rel: "Pronume relativ",
     relClause: "Propoziție relativă",
     verbEnd: "verbul la final!",
+    discovery: "💡 Propozițiile relative dau info suplimentară despre un substantiv: 'Der Mann, DER dort steht, ist mein Lehrer.' Pronumele relativ (der/die/das) se potrivește cu genul substantivului!",
   },
 };
 
@@ -129,6 +134,9 @@ const MCQ5 = [
   { sentence: "Das ist die Frau, ___ hier arbeitet.", options: ["die", "der", "das"], correct: "die" },
   { sentence: "Er bleibt zuhause, ___ er krank ist.", options: ["weil", "denn", "aber"], correct: "weil" },
   { sentence: "Das ist das Buch, ___ ich lese.", options: ["das", "die", "der"], correct: "das" },
+  { sentence: "Das ist der Mann, ___ dort steht.", options: ["der", "die", "das"], correct: "der" },
+  { sentence: "Sie arbeitet, ___ sie Geld verdienen muss.", options: ["weil", "obwohl", "wenn"], correct: "weil" },
+  { sentence: "Das sind die Kinder, ___ spielen.", options: ["die", "der", "das"], correct: "die" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -153,7 +161,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
   );
 }
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [partIdx, setPartIdx] = useState(0);
   const done = partIdx >= REL_PARTS.length;
   const words = REL_SENTENCE.split(" ");
@@ -163,8 +171,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     <div className="flex flex-col gap-4 w-full">
       <p className="text-2xl font-black text-white text-center">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="w-full rounded-2xl p-4"
+      <div className="relative w-full rounded-2xl p-4"
         style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+        <div className="absolute top-2 right-2">
+          <SpeakButton text={REL_SENTENCE} lang={"de"} size={16} />
+        </div>
         <div className="flex flex-wrap gap-1.5 justify-center">
           {words.map((w, i) => {
             const highlighted = REL_PARTS.slice(0, partIdx).find(p => p.indices.includes(i));
@@ -279,17 +290,30 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= MCQ5.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
   return (
     <div className="flex flex-col gap-4 w-full">
@@ -341,8 +365,12 @@ const ClauseConnectorExplorer = memo(function ClauseConnectorExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -351,11 +379,11 @@ const ClauseConnectorExplorer = memo(function ClauseConnectorExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

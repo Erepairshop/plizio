@@ -2,15 +2,17 @@
 // PassiveExplorer — Island i7: Passiv (Vorgangspassiv) (K5)
 // Teaches: active vs passive transformation, werden+Partizip II, tenses, agent, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     title: "Passive Voice Explorer",
     round1Title: "Active vs. Passive",
     round1Hint: "Tap to see the transformation from active to passive!",
+    round1Discovery: "💡 Passive voice focuses on WHAT happened, not WHO did it. Active: 'Der Hund frisst den Knochen.' → Passive: 'Der Knochen WIRD gefressen.'",
     round2Title: "Passive Formation",
     round2Hint: "Tap each person to reveal the passive form!",
     round3Title: "Passive in Different Tenses",
@@ -36,6 +38,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Szenvedő szerkezet felfedező",
     round1Title: "Cselekvő vs. Szenvedő",
     round1Hint: "Koppints a cselekvőből szenvedőbe való átalakulás megtekintéséhez!",
+    round1Discovery: "💡 A szenvedő szerkezet a TÖRTÉNÉSRE fókuszál, nem arra hogy KI csinálta. Cselekvő: 'Der Hund frisst den Knochen.' → Szenvedő: 'Der Knochen WIRD gefressen.'",
     round2Title: "Szenvedő képzése",
     round2Hint: "Koppints minden személyre a szenvedő alak felfedéséhez!",
     round3Title: "Szenvedő különböző igeidőkben",
@@ -61,6 +64,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Passiv-Entdecker",
     round1Title: "Aktiv vs. Passiv",
     round1Hint: "Tippe, um die Umwandlung von Aktiv zu Passiv zu sehen!",
+    round1Discovery: "💡 Das Passiv konzentriert sich auf WAS passiert ist, nicht WER es getan hat. Aktiv: 'Der Hund frisst den Knochen.' → Passiv: 'Der Knochen WIRD gefressen.'",
     round2Title: "Passivbildung",
     round2Hint: "Tippe auf jede Person, um die Passivform aufzudecken!",
     round3Title: "Passiv in verschiedenen Zeiten",
@@ -86,6 +90,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul diatezei pasive",
     round1Title: "Activ vs. Pasiv",
     round1Hint: "Atinge pentru a vedea transformarea din activ în pasiv!",
+    round1Discovery: "💡 Diateza pasivă se concentrează pe CEEA CE s-a întâmplat, nu pe CINE a făcut-o. Activ: 'Der Hund frisst den Knochen.' → Pasiv: 'Der Knochen WIRD gefressen.'",
     round2Title: "Formarea pasivului",
     round2Hint: "Atinge fiecare persoană pentru a dezvălui forma pasivă!",
     round3Title: "Pasiv în diferite timpuri",
@@ -112,6 +117,9 @@ const LABELS: Record<string, Record<string, string>> = {
 const TRANSFORMATIONS = [
   { active: "Der Hund frisst den Knochen.", passive: "Der Knochen wird vom Hund gefressen.", emoji: "🐕" },
   { active: "Der Lehrer erklärt die Aufgabe.", passive: "Die Aufgabe wird vom Lehrer erklärt.", emoji: "👨‍🏫" },
+  { active: "Die Mutter backt einen Kuchen.", passive: "Ein Kuchen wird von der Mutter gebacken.", emoji: "🍰" },
+  { active: "Der Schüler liest das Buch.", passive: "Das Buch wird vom Schüler gelesen.", emoji: "📖" },
+  { active: "Die Künstlerin malt ein Gemälde.", passive: "Ein Gemälde wird von der Künstlerin gemalt.", emoji: "🎨" },
 ];
 
 const PASSIVE_CONJUGATION = [
@@ -137,6 +145,8 @@ const MIXED_QUIZ = [
   { sentence: "Der Brief ___ gestern geschrieben.", options: ["wird", "wurde", "ist"], correct: "wurde", hint: "Passiv Präteritum → wurde" },
   { sentence: "Sie isst den Kuchen.", options: ["Aktiv", "Passiv", "Beides"], correct: "Aktiv", hint: "Subjekt handelt selbst → Aktiv" },
   { sentence: "Das Auto wurde repariert.", options: ["Aktiv", "Passiv", "Beides"], correct: "Passiv", hint: "wurde + Partizip II → Passiv" },
+  { sentence: "Der Film ___ von vielen Menschen gesehen.", options: ["wird", "ist", "hat"], correct: "wird", hint: "Präsens Passiv → wird" },
+  { sentence: "Die Hausaufgaben wurden vergessen.", options: ["Aktiv", "Passiv", "Beides"], correct: "Passiv", hint: "wurden + Partizip II → Passiv" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -345,7 +355,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Active or Passive MCQ ───────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone, lang }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; lang: string }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MIXED_QUIZ[idx];
@@ -354,10 +364,13 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= MIXED_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 900);
+    }, 1000);
   };
 
   return (
@@ -372,9 +385,12 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
+          className="w-full rounded-2xl p-4"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-base">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF6B6B" }}>
@@ -413,9 +429,13 @@ const PassiveExplorer = memo(function PassiveExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -428,7 +448,7 @@ const PassiveExplorer = memo(function PassiveExplorer({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} lang={lang} />}
         </motion.div>
       </AnimatePresence>
     </div>

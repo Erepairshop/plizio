@@ -398,12 +398,18 @@ export default function AstroMagyarO3Page() {
 
       {/* Island Map */}
       {screen === "island-map" && (
-        <motion.div className="relative z-10" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <div className="max-w-sm mx-auto px-4 py-6">
-            <IslandMapSVG progress={progress}
-              onIsland={handleIslandSelect}
-              onCheckpoint={handleCheckpointSelect}
-            />
+        <motion.div className="relative z-30 flex flex-col h-screen"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <div className="flex items-center justify-center px-4 py-4">
+            <h1 className="text-xl font-black text-white">{O3_LABEL[lang] || O3_LABEL.en}</h1>
+          </div>
+          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+            <div className="max-w-sm mx-auto px-2">
+              <IslandMapSVG progress={progress}
+                onIsland={handleIslandSelect}
+                onCheckpoint={handleCheckpointSelect}
+              />
+            </div>
           </div>
         </motion.div>
       )}

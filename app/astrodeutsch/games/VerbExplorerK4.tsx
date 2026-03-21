@@ -2,9 +2,10 @@
 // VerbExplorerK4 — Island i7: Verben & Futur (K4)
 // Teaches: separable verbs (trennbare Verben), Futur I formation & conjugation
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -19,6 +20,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tap each person to reveal their werden form.",
     round5Title: "Futur I or Separable?",
     round5Hint: "Identify the verb type in each sentence.",
+    round5Discovery: "💡 Verbs change form based on tense (past/present/future) and person. Learning the patterns helps you conjugate ANY verb!",
     next: "Next",
     finish: "Finished!",
     well: "Well done!",
@@ -39,6 +41,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Koppints minden személyre a werden alak felfedéséhez.",
     round5Title: "Futur I vagy elváló ige?",
     round5Hint: "Azonosítsd az igetípust minden mondatban.",
+    round5Discovery: "💡 Az igék az idő (múlt/jelen/jövő) és a személy alapján megváltoznak. A minták megtanulása segít BÁRMELY igét ragozni!",
     next: "Tovább",
     finish: "Kész!",
     well: "Remek!",
@@ -59,6 +62,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tippe auf jede Person, um ihre werden-Form aufzudecken.",
     round5Title: "Futur I oder trennbar?",
     round5Hint: "Bestimme den Verbtyp in jedem Satz.",
+    round5Discovery: "💡 Verben ändern ihre Form je nach Zeitform (Vergangenheit/Gegenwart/Zukunft) und Person. Das Erlernen der Muster hilft dir, JEDES Verb zu konjugieren!",
     next: "Weiter",
     finish: "Fertig!",
     well: "Super gemacht!",
@@ -79,6 +83,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Atinge fiecare persoană pentru a dezvălui forma sa de werden.",
     round5Title: "Futur I sau separabil?",
     round5Hint: "Identifică tipul de verb din fiecare propoziție.",
+    round5Discovery: "💡 Verbele schimbă forma în funcție de timp (trecut/prezent/viitor) și persoană. Învățarea modelelor te ajută să conjugi ORICE verb!",
     next: "Înainte",
     finish: "Gata!",
     well: "Bravo!",
@@ -179,6 +184,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
             <span className="font-black text-xl text-white">+{item.stem}</span>
             <span className="text-white/40 text-xl">=</span>
             <span className="font-black text-xl text-white">{item.full}</span>
+            <SpeakButton text={item.full} lang="de" size={16} />
           </div>
           {!tapped ? (
             <motion.button onClick={() => setTapped(true)}
@@ -341,21 +347,54 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Futur I or Separable MCQ ────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  onDone,
+  wrongCountRef,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  onDone: () => void;
+  wrongCountRef: React.MutableRefObject<number>;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [done, setDone] = useState(false);
 
   const item = VERB_TYPE_QUIZ[idx];
   const isCorrect = selected === item.type;
 
   const handleSelect = (opt: string) => {
     if (selected) return;
+    const correct = opt === item.type;
+    if (!correct) {
+      wrongCountRef.current++;
+    }
     setSelected(opt);
     setTimeout(() => {
-      if (idx + 1 >= VERB_TYPE_QUIZ.length) onDone();
+      if (idx + 1 >= VERB_TYPE_QUIZ.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, correct ? 800 : 1000);
   };
+
+  if (done) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+          className="w-full rounded-2xl px-4 py-3 text-center"
+          style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+          <p className="text-[#B44DFF] font-black text-sm">{lbl.round5Discovery}</p>
+        </motion.div>
+        <motion.button onClick={onDone}
+          className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+          style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+          whileTap={{ scale: 0.97 }}>
+          {lbl.finish} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -371,7 +410,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-base">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -382,19 +424,34 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="flex-1 py-3 rounded-xl font-black text-sm"
-            style={{
-              background: selected === opt ? (opt === item.type ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.type ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.type ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {lbl[opt]}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const correctOpt = opt === item.type;
+          const shouldShowCorrect = selected && correctOpt;
+          const shouldShowWrong = selected && selected === opt && !correctOpt;
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              className="flex-1 py-3 rounded-xl font-black text-sm"
+              style={{
+                background: shouldShowCorrect
+                  ? "rgba(0,255,136,0.2)"
+                  : shouldShowWrong
+                    ? "rgba(255,45,120,0.2)"
+                    : "rgba(255,255,255,0.06)",
+                border: `2px solid ${
+                  shouldShowCorrect
+                    ? "#00FF88"
+                    : shouldShowWrong
+                      ? "#FF2D78"
+                      : "rgba(255,255,255,0.2)"
+                }`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "white",
+              }}
+              whileTap={!selected ? { scale: 0.93 } : {}}>
+              {lbl[opt]}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -412,8 +469,14 @@ const VerbExplorerK4 = memo(function VerbExplorerK4({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -426,7 +489,7 @@ const VerbExplorerK4 = memo(function VerbExplorerK4({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />}
         </motion.div>
       </AnimatePresence>
     </div>

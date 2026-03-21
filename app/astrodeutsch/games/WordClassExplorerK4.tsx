@@ -2,9 +2,10 @@
 // WordClassExplorerK4 — Island i4: Wortarten (K4)
 // Teaches: 4 word classes, sorting words, adjective comparison, pronouns, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -24,6 +25,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Well done!",
     tapToReveal: "Tap to reveal",
     correct: "Correct!",
+    discovery: "💡 German has 10 word classes: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Noun",
     verb: "Verb",
     adjective: "Adjective",
@@ -46,6 +48,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Remek!",
     tapToReveal: "Koppints a megjelenítéshez",
     correct: "Helyes!",
+    discovery: "💡 A németben 10 szófaj van: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Főnév",
     verb: "Ige",
     adjective: "Melléknév",
@@ -68,6 +71,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Super gemacht!",
     tapToReveal: "Zum Aufdecken tippen",
     correct: "Richtig!",
+    discovery: "💡 German has 10 word classes: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Nomen",
     verb: "Verb",
     adjective: "Adjektiv",
@@ -90,6 +94,7 @@ const LABELS: Record<string, Record<string, string>> = {
     well: "Bravo!",
     tapToReveal: "Atinge pentru a dezvălui",
     correct: "Corect!",
+    discovery: "💡 Germana are 10 clase gramaticale: Nomen, Verb, Adjektiv, Artikel, Pronomen, Adverb, Präposition, Konjunktion, Numerale, Interjektion!",
     noun: "Substantiv",
     verb: "Verb",
     adjective: "Adjectiv",
@@ -191,9 +196,12 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
                 <span className="font-black text-sm" style={{ color: wc.color }}>{lbl[wc.key]}</span>
               </div>
               {isOpen ? (
-                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                  <p className="text-white/80 text-xs font-bold">{wc.examples.join(", ")}</p>
-                  <p className="text-white/40 text-[10px]">{wc.note}</p>
+                <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex items-center gap-1 flex-wrap">
+                  <div className="flex items-center gap-1">
+                    <p className="text-white/80 text-xs font-bold">{wc.examples.join(", ")}</p>
+                    <SpeakButton text={wc.examples[0]} lang={"de"} size={14} />
+                  </div>
+                  <p className="text-white/40 text-[10px] w-full">{wc.note}</p>
                 </motion.div>
               ) : (
                 <p className="text-white/30 text-xs">{lbl.tapToReveal}</p>

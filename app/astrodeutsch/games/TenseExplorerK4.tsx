@@ -2,9 +2,10 @@
 // TenseExplorerK4 — Island i3: Zeitformen (Präteritum & Perfekt) (K4)
 // Teaches: 3 past tenses overview, Präteritum formation, irregular forms, Perfekt haben/sein, comparison
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -32,6 +33,7 @@ const LABELS: Record<string, Record<string, string>> = {
     written: "written language",
     spoken: "spoken language",
     beforePast: "before the past",
+    discovery: "💡 Perfekt = haben/sein + Partizip II. Most verbs use 'haben', but movement verbs (gehen, fahren, fliegen) use 'sein'!",
   },
   hu: {
     title: "Igeidő felfedező",
@@ -58,6 +60,7 @@ const LABELS: Record<string, Record<string, string>> = {
     written: "írott nyelv",
     spoken: "beszélt nyelv",
     beforePast: "a múlt előtt",
+    discovery: "💡 Perfekt = haben/sein + Partizip II. A legtöbb ige a 'haben'-t használja, de a mozgást kifejező igék (gehen, fahren, fliegen) a 'sein'-t!",
   },
   de: {
     title: "Zeitformen-Entdecker",
@@ -84,6 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
     written: "Schriftsprache",
     spoken: "Umgangssprache",
     beforePast: "vor der Vergangenheit",
+    discovery: "💡 Perfekt = haben/sein + Partizip II. Die meisten Verben nehmen 'haben', aber Bewegungsverben (gehen, fahren, fliegen) nehmen 'sein'!",
   },
   ro: {
     title: "Exploratorul timpurilor",
@@ -110,6 +114,7 @@ const LABELS: Record<string, Record<string, string>> = {
     written: "limbaj scris",
     spoken: "limbaj vorbit",
     beforePast: "înainte de trecut",
+    discovery: "💡 Perfekt = haben/sein + Partizip II. Majoritatea verbelor folosesc 'haben', dar verbele de mișcare (gehen, fahren, fliegen) folosesc 'sein'!",
   },
 };
 
@@ -335,7 +340,17 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Perfekt haben/sein sort ─────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -345,9 +360,15 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (aux: string) => {
     if (selected) return;
     setSelected(aux);
+    if (aux !== item.aux) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= PERFEKT_SORT.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
+      else {
+        setIdx(i => i + 1);
+        setSelected(null);
+      }
     }, 800);
   };
 
@@ -394,7 +415,17 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Präteritum vs Perfekt MCQ ───────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -404,9 +435,15 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= TENSE_QUIZ.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
+      else {
+        setIdx(i => i + 1);
+        setSelected(null);
+      }
     }, 800);
   };
 
@@ -424,7 +461,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-base">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -464,9 +504,13 @@ const TenseExplorerK4 = memo(function TenseExplorerK4({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -478,8 +522,8 @@ const TenseExplorerK4 = memo(function TenseExplorerK4({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

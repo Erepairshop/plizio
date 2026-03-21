@@ -27,6 +27,9 @@ const LABELS = {
     next: "Next",
     done: "Done!",
     roundOf: "Round",
+    matchedCount: "Matched",
+    didYouKnow: "Did you know?",
+    learnFromThis: "Learn from this!",
   },
   hu: {
     matchInstruction: "Párosítsd a szabályt a példájával!",
@@ -38,6 +41,9 @@ const LABELS = {
     next: "Tovább",
     done: "Kész!",
     roundOf: "Kör",
+    matchedCount: "Párosítva",
+    didYouKnow: "Tudtad?",
+    learnFromThis: "Tanulj ebből!",
   },
   de: {
     matchInstruction: "Ordne die Regel dem Beispiel zu!",
@@ -49,6 +55,9 @@ const LABELS = {
     next: "Weiter",
     done: "Fertig!",
     roundOf: "Runde",
+    matchedCount: "Zugeordnet",
+    didYouKnow: "Wusstest du?",
+    learnFromThis: "Lerne daraus!",
   },
   ro: {
     matchInstruction: "Potrivește regula cu exemplul!",
@@ -60,6 +69,9 @@ const LABELS = {
     next: "Următorul",
     done: "Gata!",
     roundOf: "Rundă",
+    matchedCount: "Potrivit",
+    didYouKnow: "Știai?",
+    learnFromThis: "Învață din asta!",
   },
 } as const;
 
@@ -85,10 +97,17 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
   const [showExplanation, setShowExplanation] = useState(false);
   const [explanationText, setExplanationText] = useState("");
   const [score, setScore] = useState(0);
+  const [showDiscovery, setShowDiscovery] = useState(false);
+  const [currentDiscovery, setCurrentDiscovery] = useState("");
+  const [flashWrong, setFlashWrong] = useState(false);
 
   const scoreRef = useRef(0);
+  const wrongCountRef = useRef(0);
   const currentRound = rounds[roundIdx];
   const pairs = currentRound.pairs;
+
+  // Calculate total pairs across all rounds for final score
+  const totalRounds = rounds.reduce((acc, r) => acc + r.pairs.length, 0);
 
   // Shuffle examples for the current round
   const shuffledExamples = useMemo(() => {
@@ -130,25 +149,37 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
 
           // If all pairs matched, advance to next round or done
           if (completedPairs + 1 === totalPairs) {
+            // Show discovery card before advancing
+            setCurrentDiscovery(pairs[selectedRule].explanation || "");
+            setShowDiscovery(true);
+
             setTimeout(() => {
-              if (roundIdx + 1 >= rounds.length) {
-                onDone(scoreRef.current, rounds.reduce((acc, r) => acc + r.pairs.length, 0));
-              } else {
-                setRoundIdx((r) => r + 1);
-                setMatched([]);
-                setSelectedRule(null);
-                setSelectedExample(null);
-              }
-            }, 800);
+              setShowDiscovery(false);
+              setTimeout(() => {
+                if (roundIdx + 1 >= rounds.length) {
+                  const finalScore = Math.max(1, totalRounds - Math.min(wrongCountRef.current, totalRounds - 1));
+                  onDone(finalScore, totalRounds);
+                } else {
+                  setRoundIdx((r) => r + 1);
+                  setMatched([]);
+                  setSelectedRule(null);
+                  setSelectedExample(null);
+                }
+              }, 300);
+            }, 2500);
           }
         }, 2000);
       } else {
-        // Wrong match
+        // Wrong match - flash red and increment wrong count
+        wrongCountRef.current += 1;
+        setFlashWrong(true);
         setSelectedExample(exampleOriginalIdx);
+
         setTimeout(() => {
+          setFlashWrong(false);
           setSelectedExample(null);
           setSelectedRule(null);
-        }, 500);
+        }, 800);
       }
     },
     [
@@ -161,6 +192,7 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
       rounds.length,
       onDone,
       t.matched,
+      totalRounds,
     ]
   );
 
@@ -191,7 +223,7 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
           </div>
         </div>
         <div className="text-right">
-          <div className="text-xs font-bold uppercase text-white/60 mb-1">Matched</div>
+          <div className="text-xs font-bold uppercase text-white/60 mb-1">{t.matchedCount}</div>
           <div className="text-2xl font-black text-white">
             {completedPairs}/{totalPairs}
           </div>
@@ -222,6 +254,22 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
           >
             <p className="text-base font-bold text-white mb-2">{t.matched}</p>
             <p className="text-sm font-semibold text-white/80">{explanationText}</p>
+          </motion.div>
+        ) : null}
+      </AnimatePresence>
+
+      {/* Discovery card (after round complete) */}
+      <AnimatePresence>
+        {showDiscovery && currentDiscovery ? (
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 12 }}
+            className="rounded-2xl p-4 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "1.5px solid rgba(180,77,255,0.3)" }}
+          >
+            <p className="text-xs font-bold uppercase text-purple-400 mb-1">💡 {t.didYouKnow}</p>
+            <p className="text-sm font-semibold text-white/80">{currentDiscovery}</p>
           </motion.div>
         ) : null}
       </AnimatePresence>
@@ -294,6 +342,8 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
                   color: isMatched ? isCategoryColor : "#fff",
                   opacity: isMatched ? 0.7 : 1,
                 }}
+                animate={flashWrong && isSelected ? { x: [-4, 4, -4, 4, 0] } : {}}
+                transition={flashWrong && isSelected ? { duration: 0.4, times: [0, 0.25, 0.5, 0.75, 1] } : {}}
                 whileTap={!isMatched && !showExplanation ? { scale: 0.97 } : {}}
               >
                 <div className="flex items-start gap-2">
@@ -344,7 +394,8 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
             <motion.button
               onClick={() => {
                 if (roundIdx + 1 >= rounds.length) {
-                  onDone(scoreRef.current, rounds.reduce((acc, r) => acc + r.pairs.length, 0));
+                  const finalScore = Math.max(1, totalRounds - Math.min(wrongCountRef.current, totalRounds - 1));
+                  onDone(finalScore, totalRounds);
                 } else {
                   setRoundIdx((r) => r + 1);
                   setMatched([]);

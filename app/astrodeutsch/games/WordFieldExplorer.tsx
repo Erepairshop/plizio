@@ -1,6 +1,7 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -23,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     body: "Körper",
     question: "Welches Wort gehört zur Gruppe",
     oddOut: "Welches Wort passt NICHT in die Gruppe?",
+    discovery: "💡 Ein Wortfeld (Wortfeld) gruppiert zusammenhängende Wörter. Zum Beispiel gehört zum Wortfeld 'glücklich': froh, fröhlich, erfreut, vergnügt!",
   },
   en: {
     title: "Word Fields",
@@ -44,6 +46,7 @@ const LABELS: Record<string, Record<string, string>> = {
     body: "Body",
     question: "Which word belongs to the group",
     oddOut: "Which word does NOT fit the group?",
+    discovery: "💡 A word field (Wortfeld) groups related words together. For example, the word field 'happy' includes: glad, cheerful, delighted, joyful!",
   },
   hu: {
     title: "Szócsoportok",
@@ -65,6 +68,7 @@ const LABELS: Record<string, Record<string, string>> = {
     body: "Test",
     question: "Melyik szó tartozik a csoportba",
     oddOut: "Melyik szó NEM illik a csoportba?",
+    discovery: "💡 Egy szócsoport (Wortfeld) kapcsolódó szavakat csoportosít. Például az 'boldog' szócsoportjában: vidám, jókedvű, derűs, elégedett!",
   },
   ro: {
     title: "Câmpuri lexicale",
@@ -86,6 +90,7 @@ const LABELS: Record<string, Record<string, string>> = {
     body: "Corp",
     question: "Care cuvânt aparține grupului",
     oddOut: "Care cuvânt NU aparține grupului?",
+    discovery: "💡 Un câmp lexical (Wortfeld) grupează cuvinte înrudite. De exemplu, câmpul lexical al cuvântului 'fericit' include: vesel, bucuros, mulțumit, plin de bucurie!",
   },
 };
 
@@ -240,7 +245,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <div className="grid grid-cols-4 gap-2 w-full px-1">
         {bodyParts.map((bp, i) => (
           <motion.button key={bp.word}
-            className="flex flex-col items-center gap-1 p-2 rounded-xl border-2 transition-all"
+            className="flex flex-col items-center gap-1 p-2 rounded-xl border-2 transition-all relative"
             style={{
               background: revealed.has(i) ? `${color}22` : "rgba(255,255,255,0.05)",
               borderColor: revealed.has(i) ? color : "rgba(255,255,255,0.15)",
@@ -250,6 +255,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           >
             <span className="text-xl">{bp.icon}</span>
             <span className="text-xs font-bold text-white/85">{bp.word}</span>
+            {revealed.has(i) && (
+              <div className="absolute top-1 right-1">
+                <SpeakButton text={bp.word} lang={"de"} size={12} />
+              </div>
+            )}
           </motion.button>
         ))}
       </div>
@@ -273,7 +283,17 @@ const ODD_ONE_OUT = [
   { group: "Essen", words: ["Brot", "Milch", "Stuhl", "Käse"], odd: 2 },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -282,6 +302,10 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 
   const handleSelect = (idx: number) => {
     if (revealed) return;
+    const isCorrect = idx === q.odd;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setSelected(idx);
     setRevealed(true);
   };
@@ -366,7 +390,17 @@ const BELONGS_TO = [
   },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -375,6 +409,10 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 
   const handleSelect = (idx: number) => {
     if (revealed) return;
+    const isCorrect = idx === q.correct;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setSelected(idx);
     setRevealed(true);
   };
@@ -454,7 +492,17 @@ const QUIZ5 = [
   },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -463,6 +511,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
 
   const handleSelect = (idx: number) => {
     if (revealed) return;
+    const isCorrect = idx === q.correct;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setSelected(idx);
     setRevealed(true);
   };
@@ -533,8 +585,13 @@ const WordFieldExplorer = memo(function WordFieldExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -550,9 +607,9 @@ const WordFieldExplorer = memo(function WordFieldExplorer({
         >
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

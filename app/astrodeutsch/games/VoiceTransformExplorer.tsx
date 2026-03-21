@@ -2,9 +2,10 @@
 // VoiceTransformExplorer — Island i1: Aktiv & Passiv (K6)
 // Teaches: Active/Passive overview, werden+Partizip II, sentence ordering, von-Agent, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import SentenceReorder from "./blocks/SentenceReorder";
 import TapToHighlight from "./blocks/TapToHighlight";
 
@@ -13,6 +14,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Active & Passive Voice",
     round1Title: "Active ↔ Passive",
     round1Hint: "Tap each sentence to see what changes!",
+    round1Discovery: "💡 To transform active → passive: the object becomes subject, use 'werden' + Partizip II, and the original subject becomes 'von + Dativ' (optional).",
     round2Title: "How to Form Passive",
     round2Hint: "Tap to reveal each form of 'werden' + Partizip II.",
     round3Title: "Build the Passive Sentence",
@@ -37,6 +39,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Aktív & Szenvedő alak",
     round1Title: "Aktív ↔ Szenvedő",
     round1Hint: "Koppints minden mondatra, hogy lásd mi változik!",
+    round1Discovery: "💡 Az aktívból szenvedőbe való átalakításnál: a tárgy alany lesz, 'werden' + Partizip II-t használunk, az eredeti alany 'von + Dativ' lesz (opcionális).",
     round2Title: "A szenvedő alak képzése",
     round2Hint: "Koppints, hogy felfedezd a 'werden' alakjait + Partizip II.",
     round3Title: "Rakd össze a mondatot!",
@@ -61,6 +64,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Aktiv & Passiv",
     round1Title: "Aktiv ↔ Passiv",
     round1Hint: "Tippe auf jeden Satz, um die Veränderung zu sehen!",
+    round1Discovery: "💡 Bei der Umwandlung Aktiv → Passiv: Das Objekt wird zum Subjekt, 'werden' + Partizip II wird verwendet, und das ursprüngliche Subjekt wird 'von + Dativ' (optional).",
     round2Title: "Passivbildung",
     round2Hint: "Tippe, um die 'werden'-Formen + Partizip II zu entdecken.",
     round3Title: "Bau den Passivsatz!",
@@ -85,6 +89,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Activ & Pasiv",
     round1Title: "Activ ↔ Pasiv",
     round1Hint: "Atinge fiecare propoziție pentru a vedea ce se schimbă!",
+    round1Discovery: "💡 La transformarea activ → pasiv: obiectul devine subiect, se folosește 'werden' + Partizip II, și subiectul original devine 'von + Dativ' (opțional).",
     round2Title: "Formarea pasivului",
     round2Hint: "Atinge pentru a descoperi formele 'werden' + Partizip II.",
     round3Title: "Construiește propoziția la pasiv!",
@@ -118,6 +123,16 @@ const PAIRS = [
     passive: "Die Aufgabe wird von der Lehrerin erklärt.",
     emoji: "📖",
   },
+  {
+    active: "Der Maler malt ein Bild.",
+    passive: "Ein Bild wird vom Maler gemalt.",
+    emoji: "🎨",
+  },
+  {
+    active: "Die Köchin backt einen Kuchen.",
+    passive: "Ein Kuchen wird von der Köchin gebacken.",
+    emoji: "🍰",
+  },
 ];
 
 const WERDEN_FORMS = [
@@ -144,6 +159,8 @@ const MCQ5 = [
   { sentence: "Das Essen ___ gekocht.", options: ["wird", "ist", "hat"], correct: "wird", label: "Passiv Präsens" },
   { sentence: "Der Kuchen ___ gebacken.", options: ["wurde", "hat", "war"], correct: "wurde", label: "Passiv Präteritum" },
   { sentence: "Die Hausaufgaben ___ gemacht.", options: ["werden", "haben", "sind"], correct: "werden", label: "Passiv Präsens" },
+  { sentence: "Das Fenster ___ repariert.", options: ["wird", "ist", "hat"], correct: "wird", label: "Passiv Präsens" },
+  { sentence: "Der Brief ___ geschrieben.", options: ["wurde", "ist", "hat"], correct: "wurde", label: "Passiv Präteritum" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -179,12 +196,15 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         return (
           <motion.div key={i} className="w-full rounded-2xl overflow-hidden"
             style={{ border: `2px solid ${open ? color : "rgba(255,255,255,0.1)"}` }}>
-            <div className="p-3" style={{ background: `${color}12` }}>
-              <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
-                style={{ background: `${color}33`, color }}>
-                {lbl.active}
-              </span>
-              <span className="text-white/80 text-sm font-semibold">{pair.emoji} {pair.active}</span>
+            <div className="p-3 flex items-center justify-between" style={{ background: `${color}12` }}>
+              <div className="flex items-center gap-2 flex-1">
+                <span className="text-xs font-black px-2 py-0.5 rounded-full"
+                  style={{ background: `${color}33`, color }}>
+                  {lbl.active}
+                </span>
+                <span className="text-white/80 text-sm font-semibold">{pair.emoji} {pair.active}</span>
+              </div>
+              <SpeakButton text={pair.active} lang={"de"} size={16} />
             </div>
             <motion.button
               className="w-full p-3 text-left"
@@ -303,17 +323,20 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= MCQ5.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
   return (
     <div className="flex flex-col gap-4 w-full">
@@ -365,8 +388,12 @@ const VoiceTransformExplorer = memo(function VoiceTransformExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -379,7 +406,7 @@ const VoiceTransformExplorer = memo(function VoiceTransformExplorer({
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

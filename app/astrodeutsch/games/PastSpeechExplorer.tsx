@@ -1,7 +1,8 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import MemoryPairCards from "@/app/astrodeutsch/games/blocks/MemoryPairCards";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -23,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Regeln",
     comma: "Komma nach dem Satz",
     quoteRule: '\u201eRede\u201c',
+    discovery: "💡 Präteritum ist die geschriebene Vergangenheit: ich GING, er SPIELTE. Es wird in Geschichten und formellen Schreiben verwendet. Perfekt ist für gesprochenes Deutsch!",
   },
   en: {
     title: "Preterite & Direct Speech",
@@ -43,6 +45,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Rules",
     comma: "Comma after the sentence",
     quoteRule: "\"Speech\"",
+    discovery: "💡 Preterite is the written past tense: I WENT, he PLAYED. It's used in stories and formal writing. Perfect is for spoken German!",
   },
   hu: {
     title: "Präteritum & Egyenes idézet",
@@ -63,6 +66,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Szabályok",
     comma: "Vessző a mondat után",
     quoteRule: '\u201eIdézet\u201c',
+    discovery: "💡 A Präteritum az írott múlt: én MENTEM, ő JÁTSZOTT. Történetekben és formális írásban használják. A Perfekt a beszélt német!",
   },
   ro: {
     title: "Preterit & Vorbire directă",
@@ -83,6 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
     rules: "Reguli",
     comma: "Virgulă după propoziție",
     quoteRule: '\u201eVorbire\u201c',
+    discovery: "💡 Preteritarul este timpul trecut scris: eu AM PLECAT, el A JUCAT. Se folosește în povestiri și scriere formală. Perfectul este pentru germana vorbită!",
   },
 };
 
@@ -180,7 +185,7 @@ const SPEECH_EXAMPLES = [
   { speaker: "Lena", speech: "Wir gehen spielen.", full: `Lena flüsterte: „Wir gehen spielen."` },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, onNext, lang }: { color: string; lbl: Record<string, string>; onNext: () => void; lang: string }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
   return (
@@ -209,7 +214,10 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
             <div className="text-xs text-white/50 font-semibold mb-0.5">{e.speaker}:</div>
             {revealed.has(i) ? (
               <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                className="text-sm font-bold text-white/90">{e.full}</motion.div>
+                className="flex items-center justify-between gap-2">
+                <span className="text-sm font-bold text-white/90">{e.full}</span>
+                <SpeakButton text={e.full} lang={"de"} size={16} />
+              </motion.div>
             ) : (
               <div className="text-sm text-white/60">„{e.speech}"</div>
             )}
@@ -345,7 +353,7 @@ const PastSpeechExplorer = memo(function PastSpeechExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} lang={lang} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
         </motion.div>

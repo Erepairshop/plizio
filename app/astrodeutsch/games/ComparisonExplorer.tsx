@@ -1,6 +1,7 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -20,6 +21,8 @@ const LABELS: Record<string, Record<string, string>> = {
     pickComp: "Wähle den Komparativ",
     pickSup: "Wähle den Superlativ",
     positive: "Positiv",
+    correct: "Richtig!",
+    discovery: "💡 Adjektive haben 3 Formen: Positiv (schnell), Komparativ (schnellER), Superlativ (am schnellSTEN). Einige ändern ihren Vokal: groß → größer → am größten!",
   },
   en: {
     title: "Adjective Comparison",
@@ -38,6 +41,8 @@ const LABELS: Record<string, Record<string, string>> = {
     pickComp: "Choose the comparative",
     pickSup: "Choose the superlative",
     positive: "Positive",
+    correct: "Correct!",
+    discovery: "💡 Adjectives have 3 forms: Positive (schnell), Comparative (schnellER), Superlative (am schnellSTEN). Some change their vowel: groß → größer → am größten!",
   },
   hu: {
     title: "Melléknevek fokozása",
@@ -56,6 +61,8 @@ const LABELS: Record<string, Record<string, string>> = {
     pickComp: "Válaszd a középfokot",
     pickSup: "Válaszd a felsőfokot",
     positive: "Alapfok",
+    correct: "Helyes!",
+    discovery: "💡 A mellékneveknek 3 formája van: Alapfok (schnell), Középfok (schnellER), Felsőfok (am schnellSTEN). Egyesek megváltoztatják a magánhangzójukat: groß → größer → am größten!",
   },
   ro: {
     title: "Comparația adjectivelor",
@@ -74,6 +81,8 @@ const LABELS: Record<string, Record<string, string>> = {
     pickComp: "Alege comparativul",
     pickSup: "Alege superlativul",
     positive: "Pozitiv",
+    correct: "Corect!",
+    discovery: "💡 Adjectivele au 3 forme: Pozitiv (schnell), Comparativ (schnellER), Superlativ (am schnellSTEN). Unele îșimodifică vocalele: groß → größer → am größten!",
   },
 };
 
@@ -139,8 +148,15 @@ const ANIMALS = [
   { name: "Elefant", emoji: "🐘", size: 3, form: "am größten" },
 ];
 
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [active, setActive] = useState<number | null>(null);
+
+  const sentenceTexts = [
+    `Der ${ANIMALS[0].name} ist ${ANIMALS[0].form}.`,
+    `Die ${ANIMALS[1].name} ist ${ANIMALS[1].form}.`,
+    `Der ${ANIMALS[2].name} ist ${ANIMALS[2].form}.`,
+  ];
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -165,8 +181,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       {active !== null && (
         <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
-          className="px-4 py-2 rounded-xl border text-sm font-semibold text-white/85 text-center"
+          className="relative px-4 py-2 rounded-xl border text-sm font-semibold text-white/85 text-center"
           style={{ borderColor: `${color}44`, background: `${color}18` }}>
+          <div className="absolute top-1 right-2">
+            <SpeakButton text={sentenceTexts[active]} lang={"de"} size={14} />
+          </div>
           {active === 0 && `Der ${ANIMALS[0].name} ist ${ANIMALS[0].form}.`}
           {active === 1 && `Die ${ANIMALS[1].name} ist ${ANIMALS[1].form}.`}
           {active === 2 && `Der ${ANIMALS[2].name} ist ${ANIMALS[2].form}.`}
@@ -227,22 +246,42 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-const COMP_QUIZ = [
+const COMP_QUIZ_POOL = [
   { word: "alt", options: ["älter", "alter", "am ältesten"], correct: 0 },
   { word: "groß", options: ["großer", "größer", "am großen"], correct: 1 },
   { word: "schnell", options: ["schneller", "am schnellsten", "schnell"], correct: 0 },
   { word: "gut", options: ["guter", "besser", "am besten"], correct: 1 },
+  { word: "klein", options: ["kleiner", "kleinier", "am kleinsten"], correct: 0 },
+  { word: "heiß", options: ["heißer", "am heißesten", "am heißsten"], correct: 0 },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+  const [quiz] = useState(() => shuffle(COMP_QUIZ_POOL).slice(0, 4));
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
-  const q = COMP_QUIZ[qi];
+  const q = quiz[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
-    if (qi + 1 >= COMP_QUIZ.length) onNext();
+    if (qi + 1 >= quiz.length) onNext();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
   };
 
@@ -256,16 +295,20 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       <div className="flex gap-2 flex-wrap justify-center">
         {q.options.map((opt, i) => {
-          let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";
+          let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)", textColor = "white";
           if (revealed) {
-            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; }
-            else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; }
+            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; textColor = "#22c55e"; }
+            else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; textColor = "#ef4444"; }
           } else if (selected === i) { bg = `${color}33`; border = color; }
           return (
             <motion.button key={opt}
-              className="px-4 py-2.5 rounded-xl font-bold text-sm border-2 text-white"
-              style={{ background: bg, borderColor: border }}
-              whileTap={{ scale: 0.92 }} onClick={() => handleSelect(i)}>{opt}</motion.button>
+              className="px-4 py-2.5 rounded-xl font-bold text-sm border-2"
+              style={{ background: bg, borderColor: border, color: textColor }}
+              whileTap={!revealed ? { scale: 0.92 } : {}} onClick={() => handleSelect(i)}>
+              {opt}
+              {revealed && i === q.correct && " ✅"}
+              {revealed && selected === i && i !== q.correct && " ❌"}
+            </motion.button>
           );
         })}
       </div>
@@ -278,21 +321,31 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   );
 }
 
-const SUP_QUIZ = [
+const SUP_QUIZ_POOL = [
   { word: "kalt", options: ["am kältesten", "am kaltsten", "kälter"], correct: 0 },
   { word: "viel", options: ["am meiststen", "am meisten", "mehr"], correct: 1 },
   { word: "jung", options: ["jünger", "am jüngsten", "am jungsten"], correct: 1 },
+  { word: "schön", options: ["schöner", "am schönsten", "am schönnsten"], correct: 1 },
+  { word: "früh", options: ["früher", "am frühesten", "am frühsten"], correct: 1 },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
+  const [quiz] = useState(() => shuffle(SUP_QUIZ_POOL).slice(0, 3));
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
-  const q = SUP_QUIZ[qi];
+  const q = quiz[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+  };
   const handleNext = () => {
-    if (qi + 1 >= SUP_QUIZ.length) onDone();
+    if (qi + 1 >= quiz.length) onDone();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
   };
 
@@ -306,19 +359,19 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       </div>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
-          let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";
+          let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)", textColor = "white";
           if (revealed) {
-            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; }
-            else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; }
+            if (i === q.correct) { bg = "#22c55e33"; border = "#22c55e"; textColor = "#22c55e"; }
+            else if (selected === i) { bg = "#ef444433"; border = "#ef4444"; textColor = "#ef4444"; }
           } else if (selected === i) { bg = `${color}33`; border = color; }
           return (
             <motion.button key={opt}
-              className="py-3 rounded-xl font-bold text-base border-2 text-white"
-              style={{ background: bg, borderColor: border }}
-              whileTap={{ scale: 0.96 }} onClick={() => handleSelect(i)}>
+              className="py-3 rounded-xl font-bold text-base border-2"
+              style={{ background: bg, borderColor: border, color: textColor }}
+              whileTap={!revealed ? { scale: 0.96 } : {}} onClick={() => handleSelect(i)}>
               {opt}
-              {revealed && i === q.correct && " ✓"}
-              {revealed && selected === i && i !== q.correct && " ✗"}
+              {revealed && i === q.correct && " ✅"}
+              {revealed && selected === i && i !== q.correct && " ❌"}
             </motion.button>
           );
         })}
@@ -327,7 +380,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         <motion.button initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
           className="mt-2 px-8 py-3 rounded-2xl text-white font-extrabold text-base shadow-lg"
           style={{ background: color }} whileTap={{ scale: 0.95 }} onClick={handleNext}>
-          {qi + 1 >= SUP_QUIZ.length ? lbl.done : lbl.next}
+          {qi + 1 >= SUP_QUIZ_POOL.length ? lbl.done : lbl.next}
         </motion.button>
       )}
     </div>
@@ -340,8 +393,15 @@ const ComparisonExplorer = memo(function ComparisonExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -350,10 +410,10 @@ const ComparisonExplorer = memo(function ComparisonExplorer({
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

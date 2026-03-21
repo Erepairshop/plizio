@@ -2,7 +2,7 @@
 // SpellingRuleExplorer — Island i6: Rechtschreibung I (K2)
 // Teaches: tz vs z rule, ck vs k rule, double vowels (aa/ee/oo)
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -24,12 +24,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Next",
     finish: "Finished!",
     correct: "Correct!",
+    wrong: "Not quite!",
     shortVowel: "Short vowel",
     longVowel: "Long vowel",
     ruleZ: "After a long vowel or consonant → z",
     ruleTZ: "After a short vowel → tz",
     ruleK: "After a long vowel or consonant → k",
     ruleCK: "After a short vowel → ck",
+    discovery: "💡 German spelling rules help you write correctly! After short vowels, use ck/tz. After long vowels, use k/z. Listen to the vowel length!",
   },
   hu: {
     title: "Helyesírási szabályok felfedezője",
@@ -47,12 +49,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Tovább",
     finish: "Vége!",
     correct: "Helyes!",
+    wrong: "Nem quite!",
     shortVowel: "Rövid magánhangzó",
     longVowel: "Hosszú magánhangzó",
     ruleZ: "Hosszú magánhangzó vagy mássalhangzó után → z",
     ruleTZ: "Rövid magánhangzó után → tz",
     ruleK: "Hosszú magánhangzó vagy mássalhangzó után → k",
     ruleCK: "Rövid magánhangzó után → ck",
+    discovery: "💡 A német helyesírási szabályok segítenek helyesen írni! Rövid magánhangzó után ck/tz-t használj. Hosszú magánhangzó után k/z-t. Hallgasd meg a magánhangzó hosszát!",
   },
   de: {
     title: "Rechtschreibregeln-Entdecker",
@@ -70,12 +74,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Weiter",
     finish: "Fertig!",
     correct: "Richtig!",
+    wrong: "Nicht ganz!",
     shortVowel: "Kurzer Vokal",
     longVowel: "Langer Vokal",
     ruleZ: "Nach langem Vokal oder Konsonant → z",
     ruleTZ: "Nach kurzem Vokal → tz",
     ruleK: "Nach langem Vokal oder Konsonant → k",
     ruleCK: "Nach kurzem Vokal → ck",
+    discovery: "💡 Deutsche Rechtschreibregeln helfen dir, richtig zu schreiben! Nach kurzen Vokalen: ck/tz. Nach langen Vokalen: k/z. Höre auf die Vokallänge!",
   },
   ro: {
     title: "Exploratorul regulilor de ortografie",
@@ -93,12 +99,14 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
+    wrong: "Nu chiar!",
     shortVowel: "Vocală scurtă",
     longVowel: "Vocală lungă",
     ruleZ: "După vocală lungă sau consoană → z",
     ruleTZ: "După vocală scurtă → tz",
     ruleK: "După vocală lungă sau consoană → k",
     ruleCK: "După vocală scurtă → ck",
+    discovery: "💡 Regulile de ortografie germană te ajută să scrii corect! După vocale scurte: ck/tz. După vocale lungi: k/z. Ascultă lungimea vocalei!",
   },
 };
 
@@ -132,19 +140,34 @@ const DOUBLE_VOWEL_WORDS: { word: string; vowelPair: string; emoji: string; mean
 ];
 
 // Round 4: spelling choice
-const SPELLING_CHOICES: { stem: string; optA: string; optB: string; answer: string; emoji: string }[] = [
+const SPELLING_CHOICES_POOL: { stem: string; optA: string; optB: string; answer: string; emoji: string }[] = [
   { stem: "Ka", optA: "tze", optB: "ze", answer: "Katze", emoji: "🐱" },
   { stem: "ba", optA: "cken", optB: "ken", answer: "backen", emoji: "🍞" },
   { stem: "Bri", optA: "cke", optB: "ke", answer: "Brücke", emoji: "🌉" },
   { stem: "Mu", optA: "tze", optB: "ze", answer: "Mütze", emoji: "🎩" },
+  { stem: "Pla", optA: "tz", optB: "z", answer: "Platz", emoji: "🏞️" },
+  { stem: "Ne", optA: "tz", optB: "z", answer: "Netz", emoji: "🥅" },
 ];
 
 // Round 5: quiz
-const SPELLING_QUIZ: { options: string[]; answer: string; emoji: string }[] = [
+const SPELLING_QUIZ_POOL: { options: string[]; answer: string; emoji: string }[] = [
   { options: ["Netz", "Nez"], answer: "Netz", emoji: "🥅" },
   { options: ["Socke", "Soke"], answer: "Socke", emoji: "🧦" },
   { options: ["Tee", "Te"], answer: "Tee", emoji: "🫖" },
+  { options: ["Katze", "Katse"], answer: "Katze", emoji: "🐱" },
+  { options: ["Mütze", "Mütse"], answer: "Mütze", emoji: "🎩" },
+  { options: ["backen", "bacen"], answer: "backen", emoji: "🍞" },
 ];
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
   return (
@@ -342,19 +365,22 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: Spelling choice ─────────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
-  const item = SPELLING_CHOICES[idx];
+  const [choices] = useState(() => shuffle(SPELLING_CHOICES_POOL).slice(0, 4));
+  const item = choices[idx];
 
   const handleSelect = (opt: string) => {
     if (selected) return;
     const full = item.stem + opt;
     setSelected(full);
+    const isCorrect = full === item.answer;
+    if (!isCorrect) wrongCountRef.current++;
     setTimeout(() => {
-      if (idx + 1 >= SPELLING_CHOICES.length) onNext();
+      if (idx + 1 >= choices.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -362,7 +388,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
       <div className="flex gap-1 mb-1">
-        {SPELLING_CHOICES.map((_, i) => (
+        {choices.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -403,18 +429,21 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Spelling quiz ───────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
-  const item = SPELLING_QUIZ[idx];
+  const [quiz] = useState(() => shuffle(SPELLING_QUIZ_POOL).slice(0, 3));
+  const item = quiz[idx];
 
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    const isCorrect = opt === item.answer;
+    if (!isCorrect) wrongCountRef.current++;
     setTimeout(() => {
-      if (idx + 1 >= SPELLING_QUIZ.length) onDone();
+      if (idx + 1 >= quiz.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -422,7 +451,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex gap-1 mb-1">
-        {SPELLING_QUIZ.map((_, i) => (
+        {quiz.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -461,9 +490,13 @@ const SpellingRuleExplorer = memo(function SpellingRuleExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -475,8 +508,8 @@ const SpellingRuleExplorer = memo(function SpellingRuleExplorer({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

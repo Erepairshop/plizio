@@ -2,9 +2,10 @@
 // ReviewExplorerK8 — Island i9: Große Prüfung (K8)
 // Teaches: mixed review of all K8 topics: Konjunktiv, Passiv, Partizipien, Stilmittel, Literaturepochen
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -22,6 +23,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Next",
     finish: "Finished!",
     correct: "Correct!",
+    discovery: "💡 At this level, you can analyze texts like a pro! Style devices, sentence analysis, and advanced grammar are your tools.",
   },
   hu: {
     title: "8. osztály összefoglalás",
@@ -38,6 +40,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Tovább",
     finish: "Kész!",
     correct: "Helyes!",
+    discovery: "💡 Ezen a szinten profi szövegelemző lehetsz! A stíluseszközök, mondatelemzés és fejlett nyelvtan az eszközeid.",
   },
   de: {
     title: "K8 Große Wiederholung",
@@ -54,6 +57,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Weiter",
     finish: "Fertig!",
     correct: "Richtig!",
+    discovery: "💡 Auf dieser Stufe kannst du Texte wie ein Profi analysieren! Stilmittel, Satzanalyse und fortgeschrittene Grammatik sind deine Werkzeuge.",
   },
   ro: {
     title: "Recapitulare K8",
@@ -70,6 +74,7 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
+    discovery: "💡 La acest nivel, poți analiza texte ca un profesionist! Figurile de stil, analiza propoziției și gramatica avansată sunt instrumentele tale.",
   },
 };
 
@@ -235,7 +240,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 function MCQRound({
-  title, hint, items, color, lbl, onDone,
+  title, hint, items, color, lbl, onDone, lang,
 }: {
   title: string;
   hint: string;
@@ -243,6 +248,7 @@ function MCQRound({
   color: string;
   lbl: Record<string, string>;
   onDone: () => void;
+  lang?: string;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -269,7 +275,10 @@ function MCQRound({
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -322,23 +331,23 @@ const ReviewExplorerK8 = memo(function ReviewExplorerK8({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && (
             <MCQRound title={lbl.round1Title} hint={lbl.round1Hint}
-              items={MCQ1} color={color} lbl={lbl} onDone={next} />
+              items={MCQ1} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 1 && (
             <MCQRound title={lbl.round2Title} hint={lbl.round2Hint}
-              items={MCQ2} color={color} lbl={lbl} onDone={next} />
+              items={MCQ2} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 2 && (
             <MCQRound title={lbl.round3Title} hint={lbl.round3Hint}
-              items={MCQ3} color={color} lbl={lbl} onDone={next} />
+              items={MCQ3} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 3 && (
             <MCQRound title={lbl.round4Title} hint={lbl.round4Hint}
-              items={MCQ4} color={color} lbl={lbl} onDone={next} />
+              items={MCQ4} color={color} lbl={lbl} onDone={next} lang={lang} />
           )}
           {round === 4 && (
             <MCQRound title={lbl.round5Title} hint={lbl.round5Hint}
-              items={MCQ5} color={color} lbl={lbl} onDone={finish} />
+              items={MCQ5} color={color} lbl={lbl} onDone={finish} lang={lang} />
           )}
         </motion.div>
       </AnimatePresence>

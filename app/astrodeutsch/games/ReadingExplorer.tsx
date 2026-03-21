@@ -2,7 +2,7 @@
 // ReadingExplorer — Island i8: Lesen (Reading)
 // Teaches: reading comprehension, matching sentences to pictures, ordering a mini-story
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -29,6 +29,7 @@ const LABELS: Record<string, Record<string, string>> = {
     tapInOrder: "Tap sentences in order!",
     orderDone: "Great story order!",
     hint: "Read carefully!",
+    discovery: "💡 Good readers look for clues in the text! Read the sentence carefully and think about what makes sense before choosing your answer.",
   },
   hu: {
     title: "Olvasás felfedező",
@@ -51,6 +52,7 @@ const LABELS: Record<string, Record<string, string>> = {
     tapInOrder: "Koppints a mondatokra sorban!",
     orderDone: "Szép történet sorrend!",
     hint: "Olvass figyelmesen!",
+    discovery: "💡 Jó olvasók nyomokat keresnek a szövegben! Olvass figyelmesen és gondold meg, mi van értelme, mielőtt döntesz.",
   },
   de: {
     title: "Lese-Entdecker",
@@ -73,6 +75,7 @@ const LABELS: Record<string, Record<string, string>> = {
     tapInOrder: "Tippe die Sätze der Reihe nach!",
     orderDone: "Tolle Reihenfolge!",
     hint: "Lies aufmerksam!",
+    discovery: "💡 Gute Leser suchen nach Hinweisen im Text! Lies den Satz sorgfältig durch und überlege, was Sinn macht, bevor du antwortest.",
   },
   ro: {
     title: "Exploratorul lecturii",
@@ -95,6 +98,7 @@ const LABELS: Record<string, Record<string, string>> = {
     tapInOrder: "Atinge propozițiile în ordine!",
     orderDone: "Ordine excelentă!",
     hint: "Citește cu atenție!",
+    discovery: "💡 Cititorii buni caută indicii în text! Citește propoziția cu atenție și gândește-te la ceea ce are sens înainte de a alege răspunsul.",
   },
 };
 
@@ -174,9 +178,20 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Read & Match picture ───────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const item = SENTENCE_PICTURE[idx];
   const [opts] = useState(() => SENTENCE_PICTURE.map(it =>
@@ -184,12 +199,19 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   ));
 
   const handleSelect = (em: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = em === item.emoji;
     setSelected(em);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= SENTENCE_PICTURE.length) setDone(true);
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   if (done) {
@@ -224,30 +246,45 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 justify-center">
-        {opts[idx].map(em => (
-          <motion.button key={em} onClick={() => handleSelect(em)}
-            className="w-20 h-20 rounded-2xl text-4xl flex items-center justify-center"
-            style={{
-              background: selected === em
-                ? (em === item.emoji ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.2)")
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === em
-                ? (em === item.emoji ? "#00FF88" : "#FF2D78")
-                : "rgba(255,255,255,0.2)"}`,
-            }}
-            whileTap={!selected ? { scale: 0.9 } : {}}>
-            {em}
-          </motion.button>
-        ))}
+        {opts[idx].map(em => {
+          const selectedThisOpt = selected === em;
+          const isCorrectChoice = em === item.emoji;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selectedThisOpt && !isCorrectChoice;
+
+          return (
+            <motion.button key={em} onClick={() => handleSelect(em)} disabled={!!feedback}
+              className="w-20 h-20 rounded-2xl text-4xl flex items-center justify-center transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,45,120,0.2)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.9 } : {}}>
+              {em}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 2: True or False ───────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const item = TRUE_FALSE[idx];
   const [shuffled] = useState(() => TRUE_FALSE.map(it =>
@@ -255,12 +292,19 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   ));
 
   const handleSelect = (stmt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = stmt === item.trueStmt;
     setSelected(stmt);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= TRUE_FALSE.length) setDone(true);
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   if (done) {
@@ -286,19 +330,20 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <div className="flex flex-col gap-2 w-full">
         {shuffled[idx].map((stmt, i) => {
           const isTrue = stmt === item.trueStmt;
+          const selectedThisOpt = selected === stmt;
+          const shouldShowCorrect = feedback && isTrue;
+          const shouldShowWrong = feedback && selectedThisOpt && !isTrue;
+
           return (
-            <motion.button key={i} onClick={() => handleSelect(stmt)}
-              className="w-full py-4 px-4 rounded-2xl font-bold text-base text-left flex items-center gap-2"
+            <motion.button key={i} onClick={() => handleSelect(stmt)} disabled={!!feedback}
+              className="w-full py-4 px-4 rounded-2xl font-bold text-base text-left flex items-center gap-2 transition-colors"
               style={{
-                background: selected === stmt
-                  ? (isTrue ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.15)")
-                  : "rgba(255,255,255,0.06)",
-                border: `2px solid ${selected === stmt
-                  ? (isTrue ? "#00FF88" : "#FF2D78")
-                  : "rgba(255,255,255,0.2)"}`,
-                color: selected === stmt ? (isTrue ? "#00FF88" : "#FF2D78") : "white",
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,45,120,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
               }}
-              whileTap={!selected ? { scale: 0.97 } : {}}>
+              whileTap={!feedback ? { scale: 0.97 } : {}}>
               <span className="flex-1">{stmt}</span>
               <SpeakButton text={stmt} lang="de" size={14} />
             </motion.button>
@@ -310,19 +355,37 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Fill missing word (picture hint) ───────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const item = FILL_PICTURE[idx];
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = opt === item.missing;
     setSelected(opt);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= FILL_PICTURE.length) setDone(true);
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   if (done) {
@@ -363,22 +426,26 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         </motion.p>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt} onClick={() => handleSelect(opt)}
-            className="w-full py-3.5 rounded-2xl font-black text-xl"
-            style={{
-              background: selected === opt
-                ? (opt === item.missing ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.2)")
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt
-                ? (opt === item.missing ? "#00FF88" : "#FF2D78")
-                : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.missing ? "#00FF88" : "#FF2D78") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.97 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const selectedThisOpt = selected === opt;
+          const isCorrectChoice = opt === item.missing;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selectedThisOpt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt} onClick={() => handleSelect(opt)} disabled={!!feedback}
+              className="w-full py-3.5 rounded-2xl font-black text-xl transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,45,120,0.2)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.97 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -461,19 +528,37 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Reading comprehension ──────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const item = READING_COMP[idx];
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = opt === item.answer;
     setSelected(opt);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= READING_COMP.length) setDone(true);
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   if (done) {
@@ -510,22 +595,26 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt} onClick={() => handleSelect(opt)}
-            className="w-full py-3.5 rounded-2xl font-bold text-base"
-            style={{
-              background: selected === opt
-                ? (opt === item.answer ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.15)")
-                : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt
-                ? (opt === item.answer ? "#00FF88" : "#FF2D78")
-                : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.answer ? "#00FF88" : "#FF2D78") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.97 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          const selectedThisOpt = selected === opt;
+          const isCorrectChoice = opt === item.answer;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && selectedThisOpt && !isCorrectChoice;
+
+          return (
+            <motion.button key={opt} onClick={() => handleSelect(opt)} disabled={!!feedback}
+              className="w-full py-3.5 rounded-2xl font-bold text-base transition-colors"
+              style={{
+                background: shouldShowCorrect ? "rgba(0,255,136,0.2)" : shouldShowWrong ? "rgba(255,45,120,0.15)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? "#00FF88" : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.97 } : {}}>
+              {opt}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -542,9 +631,13 @@ const ReadingExplorer = memo(function ReadingExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -553,11 +646,11 @@ const ReadingExplorer = memo(function ReadingExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

@@ -31,6 +31,14 @@ import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
 import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
 import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
 import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import PhonicsExplorer from "@/app/astroenglish/games/PhonicsExplorer";
+import PictureVocabExplorer from "@/app/astroenglish/games/PictureVocabExplorer";
+import RhymeMatchExplorer from "@/app/astroenglish/games/RhymeMatchExplorer";
+import WordBuildExplorer from "@/app/astroenglish/games/WordBuildExplorer";
+import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
+import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
+import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
+import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import { K7_ISLAND_SVGS } from "@/app/astroenglish/islands-k7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -105,6 +113,14 @@ type Screen =
   | "word-sort"
   | "sentence-builder"
   | "spell-race"
+  | "phonics"
+  | "picture-vocab"
+  | "rhyme-match"
+  | "word-build"
+  | "reading-comp"
+  | "tense-explorer"
+  | "memory-pair"
+  | "pronunciation"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -635,6 +651,84 @@ function generateSpellRaceK7(islandId: string): SpellRaceRound[] {
   return [];
 }
 
+function generatePhonicsK7(islandId: string): any {
+  return [
+    { sound: "/ɪ/", words: ["sit", "sip", "ship", "skid", "grin", "flip"], correctIndices: [0, 1, 2, 3, 4, 5], explanation: "The /ɪ/ sound is short 'i'" },
+    { sound: "/eɪ/", words: ["make", "take", "same", "sit", "face", "late"], correctIndices: [0, 1, 2, 4, 5], explanation: "The /eɪ/ sound is long 'a' — 'a-consonant-e'" },
+    { sound: "/ɔɪ/", words: ["boy", "toy", "coin", "soil", "bet", "join"], correctIndices: [0, 1, 2, 3, 5], explanation: "The /ɔɪ/ sound combines 'o' and 'i'" },
+  ];
+}
+
+function generatePictureVocabK7(islandId: string): any {
+  return [
+    { emoji: "📚", word: "academic", options: ["artistic", "academic", "athletic", "artistic"], correctIndex: 1, sentence: "She has an academic interest in philosophy." },
+    { emoji: "🎭", word: "enthusiasm", options: ["enthusiasm", "exhaustion", "examination", "example"], correctIndex: 0, sentence: "His enthusiasm for the project was contagious." },
+    { emoji: "🌍", word: "perspective", options: ["practice", "perception", "perspective", "preparation"], correctIndex: 2, sentence: "Different cultures have unique perspectives on art." },
+    { emoji: "💡", word: "innovation", options: ["information", "innovation", "investment", "invitation"], correctIndex: 1, sentence: "Technological innovation drives progress." },
+    { emoji: "🏆", word: "achievement", options: ["achievement", "arrangement", "advancement", "agreement"], correctIndex: 0, sentence: "Her achievement in science earned recognition." },
+  ];
+}
+
+function generateRhymeMatchK7(islandId: string): any {
+  return [
+    { targetWord: "debate", options: ["create", "dark", "date", "desk"], correctIndex: 0, rhymePattern: "-ate" },
+    { targetWord: "persuade", options: ["present", "made", "period", "pale"], correctIndex: 1, rhymePattern: "-ade" },
+    { targetWord: "evidence", options: ["experience", "existence", "excellence", "expense"], correctIndex: 2, rhymePattern: "-ence" },
+    { targetWord: "analyze", options: ["apologize", "apply", "advance", "announce"], correctIndex: 0, rhymePattern: "-ize" },
+    { targetWord: "context", options: ["content", "connect", "concert", "consent"], correctIndex: 1, rhymePattern: "-ext" },
+  ];
+}
+
+function generateWordBuildK7(islandId: string): any {
+  return [
+    { parts: ["dis", "agree"], correctOrder: [0, 1], resultWord: "disagree", hint: "prefix + root", explanation: "'dis-' means the opposite" },
+    { parts: ["mis", "understand"], correctOrder: [0, 1], resultWord: "misunderstand", hint: "prefix + root", explanation: "'mis-' means wrongly or badly" },
+    { parts: ["analyze", "tion"], correctOrder: [0, 1], resultWord: "analysis", hint: "root + suffix", explanation: "'-sis' is a noun-forming suffix (nominalization)" },
+    { parts: ["persuade", "able"], correctOrder: [0, 1], resultWord: "persuadable", hint: "root + suffix", explanation: "'-able' means capable of" },
+    { parts: ["debate", "er"], correctOrder: [0, 1], resultWord: "debater", hint: "root + suffix", explanation: "'-er' means one who performs an action" },
+  ];
+}
+
+function generateReadingCompK7(islandId: string): any {
+  return [
+    { passage: "Critical thinking requires analyzing evidence carefully. Writers present arguments supported by facts and examples. Strong arguments acknowledge counterarguments and address them directly.", question: "What should strong arguments include?", options: ["Only facts", "Acknowledgment of counterarguments", "Complex vocabulary", "Long sentences"], correctIndex: 1 },
+    { passage: "The industrial revolution transformed society through technological innovation. Factories replaced handcrafted production. Workers moved from rural farms to cities. This shift created both opportunities and social challenges.", question: "What was a consequence of the industrial revolution?", options: ["Fewer jobs available", "Increased rural farming", "Worker migration to cities", "Less technological progress"], correctIndex: 2 },
+    { passage: "Persuasive writing uses multiple strategies including appeals to logic, emotion, and credibility. A writer might present statistics (logic), tell a personal story (emotion), or establish expertise (credibility).", question: "What are the three main appeals in persuasive writing?", options: ["Facts, opinions, examples", "Logic, emotion, credibility", "Statistics, stories, speeches", "Books, articles, websites"], correctIndex: 1 },
+  ];
+}
+
+function generateTenseExplorerK7(islandId: string): any {
+  return [
+    { sentence: "By next year, she ___ five advanced certifications.", tenseLabel: "Future Perfect", options: ["completes", "will complete", "will have completed", "has completed"], correctIndex: 2, explanation: "Future Perfect: will have + past participle for actions completed by a future time" },
+    { sentence: "While he was studying, I ___ a presentation.", tenseLabel: "Past Continuous", options: ["prepared", "was preparing", "have prepared", "had prepared"], correctIndex: 1, explanation: "Past Continuous: was/were + -ing for simultaneous past actions" },
+    { sentence: "If you had studied longer, you ___ the exam.", tenseLabel: "Past Conditional", options: ["would pass", "would have passed", "will pass", "passed"], correctIndex: 1, explanation: "Past Conditional: would have + past participle for hypothetical past situations" },
+    { sentence: "She has been teaching for twenty years and ___ to continue.", tenseLabel: "Present Perfect Continuous", options: ["plans", "is planning", "has planned", "will plan"], correctIndex: 0, explanation: "Present tense used with present perfect continuous for present intention" },
+  ];
+}
+
+function generateMemoryPairK7(islandId: string): any {
+  return [
+    { word: "resilience", match: "💪" },
+    { word: "eloquent", match: "🎤" },
+    { word: "pragmatic", match: "🛠️" },
+    { word: "authentic", match: "✨" },
+    { word: "analytical", match: "🧠" },
+    { word: "collaborative", match: "🤝" },
+    { word: "advocate", match: "📣" },
+    { word: "perspective", match: "👁️" },
+  ];
+}
+
+function generatePronunciationK7(islandId: string): any {
+  return [
+    { word: "analysis", phonetic: "/əˈnæləsɪs/", syllables: ["a", "nal", "y", "sis"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: a-NAL-y-sis" },
+    { word: "persuade", phonetic: "/pərˈsweɪd/", syllables: ["per", "suade"], stressIndex: 1, options: ["1st", "2nd", "Never"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: per-SUADE" },
+    { word: "autonomous", phonetic: "/ɔːˈtɑːnəməs/", syllables: ["au", "ton", "o", "mous"], stressIndex: 1, options: ["1st", "2nd", "3rd", "4th"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: au-TON-o-mous" },
+    { word: "aesthetic", phonetic: "/esˈθɛtɪk/", syllables: ["aes", "thet", "ic"], stressIndex: 1, options: ["1st", "2nd", "3rd"], correctIndex: 1, questionType: "stress" as const, explanation: "Stress on 2nd syllable: aes-THET-ic" },
+    { word: "island", phonetic: "/ˈaɪlənd/", syllables: ["is", "land"], stressIndex: 0, options: ["s", "l", "d", "n"], correctIndex: 0, questionType: "silent-letter" as const, explanation: "The 's' in 'island' is silent" },
+  ];
+}
+
 function getExplorerContentK7(islandId: string, gameType: string): any {
   switch (gameType) {
     case "fill-gap":
@@ -649,6 +743,22 @@ function getExplorerContentK7(islandId: string, gameType: string): any {
       return generateSentenceBuilderK7(islandId);
     case "spell-race":
       return generateSpellRaceK7(islandId);
+    case "phonics":
+      return generatePhonicsK7(islandId);
+    case "picture-vocab":
+      return generatePictureVocabK7(islandId);
+    case "rhyme-match":
+      return generateRhymeMatchK7(islandId);
+    case "word-build":
+      return generateWordBuildK7(islandId);
+    case "reading-comp":
+      return generateReadingCompK7(islandId);
+    case "tense-explorer":
+      return generateTenseExplorerK7(islandId);
+    case "memory-pair":
+      return generateMemoryPairK7(islandId);
+    case "pronunciation":
+      return generatePronunciationK7(islandId);
     default:
       return [];
   }
@@ -721,7 +831,7 @@ export default function AstroEnglishK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -843,7 +953,7 @@ export default function AstroEnglishK7Page() {
               initial={{ width: 0 }} animate={{ width: `${(totalDone / 9) * 100}%` }} transition={{ duration: 0.8 }} />
           </div>
         </div>
-        <div className="relative z-10 flex-1 overflow-y-auto">
+        <div className="relative z-10 flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
               <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
@@ -1056,11 +1166,35 @@ export default function AstroEnglishK7Page() {
         {screen === "spell-race" && activeIsland && (
           <SpellRaceExplorer rounds={getExplorerContentK7(activeIsland.id, "spell-race")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "phonics" && activeIsland && (
+          <PhonicsExplorer rounds={getExplorerContentK7(activeIsland.id, "phonics")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "picture-vocab" && activeIsland && (
+          <PictureVocabExplorer rounds={getExplorerContentK7(activeIsland.id, "picture-vocab")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "rhyme-match" && activeIsland && (
+          <RhymeMatchExplorer rounds={getExplorerContentK7(activeIsland.id, "rhyme-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "word-build" && activeIsland && (
+          <WordBuildExplorer rounds={getExplorerContentK7(activeIsland.id, "word-build")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "reading-comp" && activeIsland && (
+          <ReadingCompExplorer rounds={getExplorerContentK7(activeIsland.id, "reading-comp")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "tense-explorer" && activeIsland && (
+          <TenseExplorer rounds={getExplorerContentK7(activeIsland.id, "tense-explorer")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "memory-pair" && activeIsland && (
+          <MemoryPairExplorer pairs={getExplorerContentK7(activeIsland.id, "memory-pair")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "pronunciation" && activeIsland && (
+          <PronunciationExplorer rounds={getExplorerContentK7(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -399,8 +399,10 @@ export default function AstroMagyarO7Page() {
             <h1 className="text-2xl font-black text-white mb-1">{O7_LABEL[lang as keyof typeof O7_LABEL] || O7_LABEL.en}</h1>
             <p className="text-white/50 text-xs font-semibold">Haladó magyar nyelvtan</p>
           </div>
-          <div className="flex-1 overflow-y-auto max-w-md mx-auto w-full">
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+            <div className="max-w-sm mx-auto px-2">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={handleCheckpointSelect} />
+            </div>
           </div>
           <div className="fixed bottom-6 right-6 w-20 h-20">
             <AvatarCompanion

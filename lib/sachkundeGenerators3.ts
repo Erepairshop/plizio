@@ -50,7 +50,8 @@ function createMCQ(
   subtopic: string,
   question: string,
   correct: string,
-  wrongOptions: string[]
+  wrongOptions: string[],
+  rng?: () => number
 ): CurriculumMCQ {
   const seen = new Set<string>();
   const unique: string[] = [];
@@ -60,7 +61,8 @@ function createMCQ(
       unique.push(w);
     }
   }
-  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  const randomFn = rng || (() => Math.random());
+  const opts = shuffle([correct, ...unique.slice(0, 3)], randomFn);
   return {
     type: "mcq",
     topic,
@@ -441,20 +443,20 @@ export function generateKörperaufbau(seed?: number): CurriculumMCQ[] {
       const bone = pick(SKELETON_PARTS, rng);
       q.push(createMCQ("sachkunde", "körperaufbau",
         `Was ist die Funktion des ${bone.bone}?`, bone.function,
-        SKELETON_PARTS.filter(b => b.bone !== bone.bone).map(b => b.function)));
+        SKELETON_PARTS.filter(b => b.bone !== bone.bone).map(b => b.function), rng));
     } else if (type === 1) {
       const system = pick(BODY_SYSTEMS, rng);
       q.push(createMCQ("sachkunde", "körperaufbau",
         `Was macht das ${system.system}?`, system.function,
-        BODY_SYSTEMS.filter(s => s.system !== system.system).map(s => s.function)));
+        BODY_SYSTEMS.filter(s => s.system !== system.system).map(s => s.function), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "körperaufbau",
         `Welcher Knochen schützt das Gehirn?`, "Schädel",
-        ["Wirbelsäule", "Rippen", "Becken"]));
+        ["Wirbelsäule", "Rippen", "Becken"], rng));
     } else {
       q.push(createMCQ("sachkunde", "körperaufbau",
         `Was schützen die Rippen?`, "Herz und Lunge",
-        ["Gehirn", "Magen", "Beine"]));
+        ["Gehirn", "Magen", "Beine"], rng));
     }
   }
 
@@ -471,20 +473,20 @@ export function generateErnährungspyramide(seed?: number): CurriculumMCQ[] {
       const nutrient = pick(NUTRIENTS, rng);
       q.push(createMCQ("sachkunde", "ernährungspyramide",
         `Welche Funktion haben ${nutrient.nutrient}?`, nutrient.function,
-        NUTRIENTS.filter(n => n.nutrient !== nutrient.nutrient).map(n => n.function)));
+        NUTRIENTS.filter(n => n.nutrient !== nutrient.nutrient).map(n => n.function), rng));
     } else if (type === 1) {
       const nutrient = pick(NUTRIENTS, rng);
       q.push(createMCQ("sachkunde", "ernährungspyramide",
         `Wo findest du ${nutrient.nutrient}?`, nutrient.source,
-        NUTRIENTS.filter(n => n.nutrient !== nutrient.nutrient).map(n => n.source)));
+        NUTRIENTS.filter(n => n.nutrient !== nutrient.nutrient).map(n => n.source), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "ernährungspyramide",
         `Was ist die Basis der Ernährungspyramide?`, "Getreide (Brot, Reis, Nudeln)",
-        ["Zucker", "Fleisch", "Milch"]));
+        ["Zucker", "Fleisch", "Milch"], rng));
     } else {
       q.push(createMCQ("sachkunde", "ernährungspyramide",
         `Wie viele Portionen Obst und Gemüse täglich?`, "5 Portionen",
-        ["2 Portionen", "10 Portionen", "1 Portion"]));
+        ["2 Portionen", "10 Portionen", "1 Portion"], rng));
     }
   }
 
@@ -501,20 +503,22 @@ export function generateZahnentwicklung(seed?: number): CurriculumMCQ[] {
       const tooth = pick(TOOTH_TYPES, rng);
       q.push(createMCQ("sachkunde", "zahnentwicklung",
         `Was ist die Funktion der ${tooth.type}?`, tooth.function,
-        TOOTH_TYPES.filter(t => t.type !== tooth.type).map(t => t.function)));
+        TOOTH_TYPES.filter(t => t.type !== tooth.type).map(t => t.function), rng));
     } else if (type === 1) {
+      const fact1 = pick(TOOTH_FACTS, rng);
       q.push(createMCQ("sachkunde", "zahnentwicklung",
-        `Wie viele Milchzähne hat ein Kind?`, "20 Zähne",
-        ["16 Zähne", "32 Zähne", "12 Zähne"]));
+        `Was stimmt? ${fact1.fact}`, "richtig",
+        ["falsch", "manchmal", "nicht immer"], rng));
     } else if (type === 2) {
       const fact = pick(TOOTH_FACTS, rng);
       const answer = (fact as any).age || (fact as any).use || (fact as any).process || "unbekannt";
       q.push(createMCQ("sachkunde", "zahnentwicklung",
-        `${fact.fact}?`, answer, ["nie", "sofort", "sehr früh"]));
+        `${fact.fact} — wann / womit?`, answer, ["nie", "sofort", "sehr früh"], rng));
     } else {
+      const tooth2 = pick(TOOTH_TYPES, rng);
       q.push(createMCQ("sachkunde", "zahnentwicklung",
-        `Ab wann bekommen Kinder bleibende Zähne?`, "ab 6-7 Jahren",
-        ["ab 1 Jahr", "ab 12 Jahren", "gar nicht"]));
+        `Wo befinden sich die ${tooth2.type}?`, tooth2.location,
+        TOOTH_TYPES.filter(t => t.type !== tooth2.type).map(t => t.location), rng));
     }
   }
 
@@ -531,19 +535,22 @@ export function generateBewegungSport(seed?: number): CurriculumMCQ[] {
       const sport = pick(SPORTS_ACTIVITIES, rng);
       q.push(createMCQ("sachkunde", "bewegung_sport",
         `Welche Vorteile hat ${sport.sport}?`, sport.benefit,
-        SPORTS_ACTIVITIES.filter(s => s.sport !== sport.sport).map(s => s.benefit)));
+        SPORTS_ACTIVITIES.filter(s => s.sport !== sport.sport).map(s => s.benefit), rng));
     } else if (type === 1) {
+      const sport2 = pick(SPORTS_ACTIVITIES, rng);
       q.push(createMCQ("sachkunde", "bewegung_sport",
-        `Wie lange sollten Kinder täglich Sport treiben?`, "mindestens 60 Minuten",
-        ["10 Minuten", "5 Minuten", "kein Sport nötig"]));
+        `Welche Muskeln trainiert ${sport2.sport}?`, sport2.muscles,
+        SPORTS_ACTIVITIES.filter(s => s.sport !== sport2.sport).map(s => s.muscles), rng));
     } else if (type === 2) {
+      const pulseFact = pick(PULSE_FACTS, rng);
       q.push(createMCQ("sachkunde", "bewegung_sport",
-        `Wie viele Schläge pro Minute hat der Puls beim Sport?`, "120-150 Schläge",
-        ["10-20 Schläge", "200+ Schläge", "5 Schläge"]));
+        `Was gilt für den Puls ${pulseFact.context}?`, pulseFact.fact,
+        PULSE_FACTS.filter(p => p.fact !== pulseFact.fact).map(p => p.fact).concat(["Puls stoppt beim Sport", "Puls halbiert sich"]), rng));
     } else {
+      const sport3 = pick(SPORTS_ACTIVITIES, rng);
       q.push(createMCQ("sachkunde", "bewegung_sport",
-        `Warum steigt der Puls beim Sport?`, "das Herz pumpt mehr Blut",
-        ["die Muskeln werden schwächer", "der Körper wird kalt", "die Atmung stoppt"]));
+        `Was fördert ${sport3.sport} besonders?`, sport3.benefit,
+        SPORTS_ACTIVITIES.filter(s => s.sport !== sport3.sport).map(s => s.benefit), rng));
     }
   }
 
@@ -560,20 +567,20 @@ export function generateTierklassen(seed?: number): CurriculumMCQ[] {
       const animal = pick(ANIMAL_CLASSES, rng);
       q.push(createMCQ("sachkunde", "tierklassen",
         `Welche Charakteristiken haben ${animal.class}?`, animal.characteristics,
-        ANIMAL_CLASSES.filter(a => a.class !== animal.class).map(a => a.characteristics)));
+        ANIMAL_CLASSES.filter(a => a.class !== animal.class).map(a => a.characteristics), rng));
     } else if (type === 1) {
       const animal = pick(ANIMAL_CLASSES, rng);
       q.push(createMCQ("sachkunde", "tierklassen",
         `Nenne ein Beispiel für ${animal.class}:`, animal.examples.split(", ")[0],
-        ANIMAL_CLASSES.filter(a => a.class !== animal.class).map(a => a.examples.split(", ")[0])));
+        ANIMAL_CLASSES.filter(a => a.class !== animal.class).map(a => a.examples.split(", ")[0]), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "tierklassen",
         `Welche Tiere legen Eier?`, "Vögel, Reptilien, Amphibien, Fische",
-        ["Säugetiere", "nur Vögel", "keine Tiere"]));
+        ["Säugetiere", "nur Vögel", "keine Tiere"], rng));
     } else {
       q.push(createMCQ("sachkunde", "tierklassen",
         `Welche Klasse haben Delphine?`, "Säugetiere",
-        ["Fische", "Vögel", "Reptilien"]));
+        ["Fische", "Vögel", "Reptilien"], rng));
     }
   }
 
@@ -589,21 +596,21 @@ export function generateNahrungsnetze(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       const web = pick(FOOD_WEBS, rng);
       q.push(createMCQ("sachkunde", "nahrungsnetze",
-        `Welches Nahrungsnetz ist das? ${web.description}`, web.description,
-        FOOD_WEBS.filter(w => w.description !== web.description).map(w => w.description)));
+        `In welchem Ökosystem findet man das Nahrungsnetz: ${web.description}?`, web.ecosystem,
+        FOOD_WEBS.filter(w => w.ecosystem !== web.ecosystem).map(w => w.ecosystem), rng));
     } else if (type === 1) {
       const role = pick(FOOD_ROLES, rng);
       q.push(createMCQ("sachkunde", "nahrungsnetze",
         `Was ist ein ${role.role}?`, role.description,
-        FOOD_ROLES.filter(r => r.role !== role.role).map(r => r.description)));
+        FOOD_ROLES.filter(r => r.role !== role.role).map(r => r.description), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "nahrungsnetze",
         `Wo beginnt ein Nahrungsnetz?`, "bei den Pflanzen (Produzenten)",
-        ["bei Tieren", "bei der Sonne", "überall"]));
+        ["bei Tieren", "bei der Sonne", "überall"], rng));
     } else {
       q.push(createMCQ("sachkunde", "nahrungsnetze",
         `Was sind Zersetzer im Nahrungsnetz?`, "Bakterien und Pilze, die tote Materie abbauen",
-        ["Fleischfresser", "Pflanzenfresser", "Raubtiere"]));
+        ["Fleischfresser", "Pflanzenfresser", "Raubtiere"], rng));
     }
   }
 
@@ -620,20 +627,21 @@ export function generateSchmetterlinge(seed?: number): CurriculumMCQ[] {
       const stage = pick(BUTTERFLY_LIFECYCLE, rng);
       q.push(createMCQ("sachkunde", "schmetterlinge",
         `Was ist das ${stage.stage}-Stadium des Schmetterlings?`, stage.description,
-        BUTTERFLY_LIFECYCLE.filter(s => s.stage !== stage.stage).map(s => s.description)));
+        BUTTERFLY_LIFECYCLE.filter(s => s.stage !== stage.stage).map(s => s.description), rng));
     } else if (type === 1) {
+      const stage2 = pick(BUTTERFLY_LIFECYCLE, rng);
       q.push(createMCQ("sachkunde", "schmetterlinge",
-        `Wie lange dauert der Lebenszyklus eines Schmetterlings?`, "mehrere Wochen bis Monate",
-        ["1 Tag", "1 Jahr", "sein ganzes Leben"]));
+        `Wie lange dauert das ${stage2.stage}-Stadium?`, stage2.duration,
+        BUTTERFLY_LIFECYCLE.filter(s => s.stage !== stage2.stage).map(s => s.duration), rng));
     } else if (type === 2) {
       const part = pick(INSECT_ANATOMY, rng);
       q.push(createMCQ("sachkunde", "schmetterlinge",
         `Was hat ein Insekt am ${part.part}?`, part.features,
-        INSECT_ANATOMY.filter(p => p.part !== part.part).map(p => p.features)));
+        INSECT_ANATOMY.filter(p => p.part !== part.part).map(p => p.features), rng));
     } else {
       q.push(createMCQ("sachkunde", "schmetterlinge",
         `Wie viele Beine hat eine Raupe?`, "viele Beine (mehr als 6)",
-        ["6 Beine", "4 Beine", "8 Beine"]));
+        ["6 Beine", "4 Beine", "8 Beine"], rng));
     }
   }
 
@@ -650,20 +658,21 @@ export function generateWaldtiereRaubtiere(seed?: number): CurriculumMCQ[] {
       const predator = pick(PREDATOR_ADAPTATIONS, rng);
       q.push(createMCQ("sachkunde", "waldtiere_raubtiere",
         `Welche Adaptation hat ein ${predator.predator}?`, predator.adaptation,
-        PREDATOR_ADAPTATIONS.filter(p => p.predator !== predator.predator).map(p => p.adaptation)));
+        PREDATOR_ADAPTATIONS.filter(p => p.predator !== predator.predator).map(p => p.adaptation), rng));
     } else if (type === 1) {
       const prey = pick(PREY_DEFENSES, rng);
       q.push(createMCQ("sachkunde", "waldtiere_raubtiere",
         `Wie verteidigt sich ein ${prey.prey}?`, prey.defense,
-        PREY_DEFENSES.filter(p => p.prey !== prey.prey).map(p => p.defense)));
+        PREY_DEFENSES.filter(p => p.prey !== prey.prey).map(p => p.defense), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "waldtiere_raubtiere",
         `Was ist ein Raubtier?`, "ein Tier, das andere Tiere jagt und frisst",
-        ["ein Tier, das nur Pflanzen frisst", "ein harmloser Waldbewohner", "ein Vogel"]));
+        ["ein Tier, das nur Pflanzen frisst", "ein harmloser Waldbewohner", "ein Vogel"], rng));
     } else {
+      const predator2 = pick(PREDATOR_ADAPTATIONS, rng);
       q.push(createMCQ("sachkunde", "waldtiere_raubtiere",
-        `Warum haben Raubtiere Anpassungen?`, "um ihre Beute zu fangen und zu überleben",
-        ["zum Spielen", "zum Spaß", "weil sie es so mögen"]));
+        `Welchen besonderen Sinn hat ein ${predator2.predator}?`, predator2.sense,
+        PREDATOR_ADAPTATIONS.filter(p => p.predator !== predator2.predator).map(p => p.sense), rng));
     }
   }
 
@@ -680,20 +689,21 @@ export function generateHaustierZüchtung(seed?: number): CurriculumMCQ[] {
       const breed = pick(DOG_BREEDS, rng);
       q.push(createMCQ("sachkunde", "haustier_züchtung",
         `Wofür wurde die Rasse "${breed.breed}" gezüchtet?`, breed.purpose,
-        DOG_BREEDS.filter(b => b.breed !== breed.breed).map(b => b.purpose)));
+        DOG_BREEDS.filter(b => b.breed !== breed.breed).map(b => b.purpose), rng));
     } else if (type === 1) {
       const domestic = pick(DOMESTICATION, rng);
       q.push(createMCQ("sachkunde", "haustier_züchtung",
         `Von welchem wilden Tier stammt der ${domestic.animal} ab?`, domestic.ancestor,
-        DOMESTICATION.filter(d => d.animal !== domestic.animal).map(d => d.ancestor)));
+        DOMESTICATION.filter(d => d.animal !== domestic.animal).map(d => d.ancestor), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "haustier_züchtung",
         `Was ist Domestikation?`, "die Züchtung von wilden Tieren zu Haustieren durch Menschen",
-        ["das Fangen von wilden Tieren", "das Beobachten von Tieren", "das Trainieren"]));
+        ["das Fangen von wilden Tieren", "das Beobachten von Tieren", "das Trainieren"], rng));
     } else {
+      const domestic2 = pick(DOMESTICATION, rng);
       q.push(createMCQ("sachkunde", "haustier_züchtung",
-        `Wie lange gibt es Hunde als Haustiere?`, "über 10000 Jahre",
-        ["100 Jahre", "1000 Jahre", "seit gestern"]));
+        `Seit wann hat der Mensch ${domestic2.animal} domestiziert?`, domestic2.process,
+        DOMESTICATION.filter(d => d.animal !== domestic2.animal).map(d => d.process), rng));
     }
   }
 
@@ -710,21 +720,21 @@ export function generateBlütebestäubung(seed?: number): CurriculumMCQ[] {
       const part = pick(FLOWER_PARTS, rng);
       q.push(createMCQ("sachkunde", "blüte_bestäubung",
         `Was ist die Funktion des ${part.part}?`, part.function,
-        FLOWER_PARTS.filter(p => p.part !== part.part).map(p => p.function)));
+        FLOWER_PARTS.filter(p => p.part !== part.part).map(p => p.function), rng));
     } else if (type === 1) {
       const pollination = pick(POLLINATION, rng);
       q.push(createMCQ("sachkunde", "blüte_bestäubung",
         `Welche Tiere bestäuben Blüten bei ${pollination.method}?`, pollination.animals,
-        POLLINATION.filter(p => p.method !== pollination.method).map(p => p.animals)));
+        POLLINATION.filter(p => p.method !== pollination.method).map(p => p.animals), rng));
     } else if (type === 2) {
       const dispersal = pick(SEED_DISPERSAL, rng);
       q.push(createMCQ("sachkunde", "blüte_bestäubung",
         `Wie werden Samen durch ${dispersal.method} verbreitet?`, dispersal.examples,
-        SEED_DISPERSAL.filter(s => s.method !== dispersal.method).map(s => s.examples)));
+        SEED_DISPERSAL.filter(s => s.method !== dispersal.method).map(s => s.examples), rng));
     } else {
       q.push(createMCQ("sachkunde", "blüte_bestäubung",
         `Warum sind Blüten bunt und duften?`, "um Insekten anzulocken zur Bestäubung",
-        ["zum Schutz", "zum Wachsen", "zum Spielen"]));
+        ["zum Schutz", "zum Wachsen", "zum Spielen"], rng));
     }
   }
 
@@ -741,19 +751,19 @@ export function generatePhotosynthese(seed?: number): CurriculumMCQ[] {
       const input = pick(PHOTOSYNTHESIS, rng);
       q.push(createMCQ("sachkunde", "photosynthese_einfach",
         `Was braucht eine Pflanze für Photosynthese? ${input.input}`, input.role,
-        PHOTOSYNTHESIS.filter(p => p.input !== input.input).map(p => p.role)));
+        PHOTOSYNTHESIS.filter(p => p.input !== input.input).map(p => p.role), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "photosynthese_einfach",
         `Was ist Photosynthese?`, "die Herstellung von Nahrung durch Pflanzen mit Sonnenlicht",
-        ["das Essen von Insekten", "das Wachsen von Wurzeln", "das Blüten treiben"]));
+        ["das Essen von Insekten", "das Wachsen von Wurzeln", "das Blüten treiben"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "photosynthese_einfach",
         `Wozu brauchen Pflanzen Chlorophyll?`, "um Sonnenlicht einzufangen und in Energie umzuwandeln",
-        ["zum Wachsen", "zur Farbe", "zum Schutz"]));
+        ["zum Wachsen", "zur Farbe", "zum Schutz"], rng));
     } else {
       q.push(createMCQ("sachkunde", "photosynthese_einfach",
         `Können nur Pflanzen Photosynthese betreiben?`, "ja, nur Pflanzen und manche Mikroorganismen",
-        ["nein, auch Tiere", "ja, alle Lebewesen", "nur Menschen"]));
+        ["nein, auch Tiere", "ja, alle Lebewesen", "nur Menschen"], rng));
     }
   }
 
@@ -770,19 +780,19 @@ export function generatePflanzenvermehrung(seed?: number): CurriculumMCQ[] {
       const repro = pick(PLANT_REPRODUCTION, rng);
       q.push(createMCQ("sachkunde", "pflanzenvermehrung",
         `Was ist ${repro.type} Vermehrung?`, repro.method,
-        PLANT_REPRODUCTION.filter(p => p.type !== repro.type).map(p => p.method)));
+        PLANT_REPRODUCTION.filter(p => p.type !== repro.type).map(p => p.method), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "pflanzenvermehrung",
         `Welche Pflanze vermehrt sich über Ausläufer?`, "Erdbeere",
-        ["Tomate", "Rose", "Baum"]));
+        ["Tomate", "Rose", "Baum"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "pflanzenvermehrung",
         `Was ist ein Steckling?`, "ein Pflanzenteil, der zu einer neuen Pflanze wächst",
-        ["ein kleiner Baum", "ein Samen", "eine Wurzel"]));
+        ["ein kleiner Baum", "ein Samen", "eine Wurzel"], rng));
     } else {
       q.push(createMCQ("sachkunde", "pflanzenvermehrung",
         `Welche Vermehrung braucht Bienen?`, "geschlechtliche Vermehrung über Bestäubung",
-        ["ungeschlechtlich über Ausläufer", "über Knollen", "gar keine Vermehrung"]));
+        ["ungeschlechtlich über Ausläufer", "über Knollen", "gar keine Vermehrung"], rng));
     }
   }
 
@@ -799,20 +809,20 @@ export function generateWaldschichten(seed?: number): CurriculumMCQ[] {
       const layer = pick(FOREST_LAYERS, rng);
       q.push(createMCQ("sachkunde", "waldschichten",
         `Was lebt in der ${layer.layer}?`, layer.plants,
-        FOREST_LAYERS.filter(l => l.layer !== layer.layer).map(l => l.plants)));
+        FOREST_LAYERS.filter(l => l.layer !== layer.layer).map(l => l.plants), rng));
     } else if (type === 1) {
       const layer = pick(FOREST_LAYERS, rng);
       q.push(createMCQ("sachkunde", "waldschichten",
         `In welcher Waldschicht ist die Höhe ${layer.height}?`, layer.layer,
-        FOREST_LAYERS.filter(l => l.layer !== layer.layer).map(l => l.layer)));
+        FOREST_LAYERS.filter(l => l.layer !== layer.layer).map(l => l.layer), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "waldschichten",
         `Wie viele Schichten hat ein Wald?`, "vier Hauptschichten",
-        ["zwei", "drei", "fünf"]));
+        ["zwei", "drei", "fünf"], rng));
     } else {
       q.push(createMCQ("sachkunde", "waldschichten",
         `Warum haben Pflanzen in der Bodenschicht große Blätter?`, "um wenig Licht einzufangen",
-        ["zum Schutz", "zum Wachsen", "zum Spielen"]));
+        ["zum Schutz", "zum Wachsen", "zum Spielen"], rng));
     }
   }
 
@@ -829,19 +839,20 @@ export function generateWasserkreislaufDetail(seed?: number): CurriculumMCQ[] {
       const process = pick(WATER_CYCLE_DETAILED, rng);
       q.push(createMCQ("sachkunde", "wasserkreislauf_detail",
         `Was ist ${process.process}?`, process.description,
-        WATER_CYCLE_DETAILED.filter(p => p.process !== process.process).map(p => p.description)));
+        WATER_CYCLE_DETAILED.filter(p => p.process !== process.process).map(p => p.description), rng));
     } else if (type === 1) {
+      const process2 = pick(WATER_CYCLE_DETAILED, rng);
       q.push(createMCQ("sachkunde", "wasserkreislauf_detail",
-        `Welcher Prozess verwandelt Wasser zu Wasserdampf?`, "Verdunstung",
-        ["Kondensation", "Versickerung", "Niederschlag"]));
+        `Wo findet ${process2.process} statt?`, process2.location,
+        WATER_CYCLE_DETAILED.filter(p => p.process !== process2.process).map(p => p.location), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wasserkreislauf_detail",
         `Wo findet Kondensation statt?`, "in der Atmosphäre (Bildung von Wolken)",
-        ["auf dem Boden", "im Meer", "in Pflanzen"]));
+        ["auf dem Boden", "im Meer", "in Pflanzen"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wasserkreislauf_detail",
         `Wie lange dauert der Wasserkreislauf?`, "ständig (täglich, kontinuierlich)",
-        ["nur im Sommer", "nur einmal im Jahr", "gar nicht"]));
+        ["nur im Sommer", "nur einmal im Jahr", "gar nicht"], rng));
     }
   }
 
@@ -858,20 +869,20 @@ export function generateWetterInstrumente(seed?: number): CurriculumMCQ[] {
       const instrument = pick(WEATHER_INSTRUMENTS, rng);
       q.push(createMCQ("sachkunde", "wetter_instrumente",
         `Was misst ${instrument.instrument}?`, instrument.measures,
-        WEATHER_INSTRUMENTS.filter(i => i.instrument !== instrument.instrument).map(i => i.measures)));
+        WEATHER_INSTRUMENTS.filter(i => i.instrument !== instrument.instrument).map(i => i.measures), rng));
     } else if (type === 1) {
       const instrument = pick(WEATHER_INSTRUMENTS, rng);
       q.push(createMCQ("sachkunde", "wetter_instrumente",
         `In welcher Einheit misst man ${instrument.measures}?`, instrument.unit,
-        WEATHER_INSTRUMENTS.filter(i => i.measures !== instrument.measures).map(i => i.unit)));
+        WEATHER_INSTRUMENTS.filter(i => i.measures !== instrument.measures).map(i => i.unit), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "wetter_instrumente",
         `Mit welchem Gerät misst man Windgeschwindigkeit?`, "Windfahne/Anemometer",
-        ["Thermometer", "Barometer", "Regenmesser"]));
+        ["Thermometer", "Barometer", "Regenmesser"], rng));
     } else {
       q.push(createMCQ("sachkunde", "wetter_instrumente",
         `Was ist ein Hygrometer?`, "ein Gerät zur Messung der Luftfeuchtigkeit",
-        ["Temperaturmesser", "Windmesser", "Regenmesser"]));
+        ["Temperaturmesser", "Windmesser", "Regenmesser"], rng));
     }
   }
 
@@ -888,20 +899,20 @@ export function generateJahreszeitenKlima(seed?: number): CurriculumMCQ[] {
       const zone = pick(CLIMATE_ZONES, rng);
       q.push(createMCQ("sachkunde", "jahreszeiten_klima",
         `Wie ist das Klima in der ${zone.zone}-Zone?`, zone.weather,
-        CLIMATE_ZONES.filter(z => z.zone !== zone.zone).map(z => z.weather)));
+        CLIMATE_ZONES.filter(z => z.zone !== zone.zone).map(z => z.weather), rng));
     } else if (type === 1) {
       const factor = pick(CLIMATE_INFLUENCES, rng);
       q.push(createMCQ("sachkunde", "jahreszeiten_klima",
         `Welcher Faktor beeinflusst das Klima? ${factor.factor}`, factor.effect,
-        CLIMATE_INFLUENCES.filter(f => f.factor !== factor.factor).map(f => f.effect)));
+        CLIMATE_INFLUENCES.filter(f => f.factor !== factor.factor).map(f => f.effect), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "jahreszeiten_klima",
         `Wo ist das Klima am wärmsten?`, "in tropischen Regionen um den Äquator",
-        ["an den Polen", "in Deutschland", "überall gleich"]));
+        ["an den Polen", "in Deutschland", "überall gleich"], rng));
     } else {
       q.push(createMCQ("sachkunde", "jahreszeiten_klima",
         `Wie viele Jahreszeiten gibt es?`, "vier (Frühling, Sommer, Herbst, Winter)",
-        ["zwei", "sechs", "eine"]));
+        ["zwei", "sechs", "eine"], rng));
     }
   }
 
@@ -918,20 +929,20 @@ export function generateGewässerTypen(seed?: number): CurriculumMCQ[] {
       const water = pick(WATER_BODIES, rng);
       q.push(createMCQ("sachkunde", "gewässer_typen",
         `Was ist ein ${water.type}?`, water.characteristics,
-        WATER_BODIES.filter(w => w.type !== water.type).map(w => w.characteristics)));
+        WATER_BODIES.filter(w => w.type !== water.type).map(w => w.characteristics), rng));
     } else if (type === 1) {
       const stage = pick(RIVER_STAGES, rng);
       q.push(createMCQ("sachkunde", "gewässer_typen",
         `Was ist die ${stage.stage} eines Flusses?`, `${stage.location}, ${stage.flow}`,
-        RIVER_STAGES.filter(s => s.stage !== stage.stage).map(s => `${s.location}, ${s.flow}`)));
+        RIVER_STAGES.filter(s => s.stage !== stage.stage).map(s => `${s.location}, ${s.flow}`), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "gewässer_typen",
         `Ist Meerwasser süß oder salzig?`, "salzig",
-        ["süß", "halbsalzig", "geschmacklos"]));
+        ["süß", "halbsalzig", "geschmacklos"], rng));
     } else {
       q.push(createMCQ("sachkunde", "gewässer_typen",
         `Was ist der Unterschied zwischen Fluss und See?`, "Fluss fließt, See ist stehend",
-        ["beide fließen", "beide stehen still", "kein Unterschied"]));
+        ["beide fließen", "beide stehen still", "kein Unterschied"], rng));
     }
   }
 
@@ -948,20 +959,20 @@ export function generateEinfacheMaschinen(seed?: number): CurriculumMCQ[] {
       const machine = pick(SIMPLE_MACHINES, rng);
       q.push(createMCQ("sachkunde", "einfache_maschinen",
         `Was ist ein ${machine.machine}?`, machine.principle,
-        SIMPLE_MACHINES.filter(m => m.machine !== machine.machine).map(m => m.principle)));
+        SIMPLE_MACHINES.filter(m => m.machine !== machine.machine).map(m => m.principle), rng));
     } else if (type === 1) {
       const machine = pick(SIMPLE_MACHINES, rng);
       q.push(createMCQ("sachkunde", "einfache_maschinen",
         `Welcher Vorteil hat ${machine.machine}?`, machine.advantage,
-        SIMPLE_MACHINES.filter(m => m.machine !== machine.machine).map(m => m.advantage)));
+        SIMPLE_MACHINES.filter(m => m.machine !== machine.machine).map(m => m.advantage), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "einfache_maschinen",
         `Welche einfache Maschine ist eine Rampe?`, "Keil",
-        ["Hebel", "Rad", "Rolle"]));
+        ["Hebel", "Rad", "Rolle"], rng));
     } else {
       q.push(createMCQ("sachkunde", "einfache_maschinen",
         `Wozu dient ein Flaschenzug?`, "um schwere Lasten leichter zu heben",
-        ["zum Brechen", "zum Bohren", "zum Schneiden"]));
+        ["zum Brechen", "zum Bohren", "zum Schneiden"], rng));
     }
   }
 
@@ -978,21 +989,21 @@ export function generateEnergiequellen(seed?: number): CurriculumMCQ[] {
       const source = pick(ENERGY_SOURCES, rng);
       q.push(createMCQ("sachkunde", "energie_quellen",
         `Was ist ${source.source}?`, `${source.type} Energiequelle zur ${source.use}`,
-        ENERGY_SOURCES.filter(s => s.source !== source.source).map(s => `${s.type} Energiequelle`)));
+        ENERGY_SOURCES.filter(s => s.source !== source.source).map(s => `${s.type} Energiequelle`), rng));
     } else if (type === 1) {
       const source = pick(ENERGY_SOURCES, rng);
       q.push(createMCQ("sachkunde", "energie_quellen",
         `Ist ${source.source} eine erneuerbare Energiequelle?`, source.type === "erneuerbar" ? "ja" : "nein",
-        ["vielleicht", "manchmal", "weiß nicht"]));
+        ["vielleicht", "manchmal", "weiß nicht"], rng));
     } else if (type === 2) {
       const form = pick(ENERGY_FORMS, rng);
       q.push(createMCQ("sachkunde", "energie_quellen",
         `Was ist ${form.form}?`, form.source,
-        ENERGY_FORMS.filter(f => f.form !== form.form).map(f => f.source)));
+        ENERGY_FORMS.filter(f => f.form !== form.form).map(f => f.source), rng));
     } else {
       q.push(createMCQ("sachkunde", "energie_quellen",
         `Welche Energiequelle gibt kein CO2 ab?`, "Sonne, Wind, Wasser",
-        ["Kohle", "Erdöl", "Gas"]));
+        ["Kohle", "Erdöl", "Gas"], rng));
     }
   }
 
@@ -1009,20 +1020,20 @@ export function generateVerkehrsmittel(seed?: number): CurriculumMCQ[] {
       const history = pick(TRANSPORT_HISTORY, rng);
       q.push(createMCQ("sachkunde", "verkehrsmittel",
         `Welche Verkehrsmittel gab es in der ${history.era}?`, history.vehicle,
-        TRANSPORT_HISTORY.filter(h => h.era !== history.era).map(h => h.vehicle)));
+        TRANSPORT_HISTORY.filter(h => h.era !== history.era).map(h => h.vehicle), rng));
     } else if (type === 1) {
       const pollution = pick(TRANSPORT_POLLUTION, rng);
       q.push(createMCQ("sachkunde", "verkehrsmittel",
         `Welche Emissionen hat ${pollution.vehicle}?`, pollution.emission,
-        TRANSPORT_POLLUTION.filter(p => p.vehicle !== pollution.vehicle).map(p => p.emission)));
+        TRANSPORT_POLLUTION.filter(p => p.vehicle !== pollution.vehicle).map(p => p.emission), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "verkehrsmittel",
         `Welches Verkehrsmittel ist am umweltfreundlichsten?`, "Fahrrad (keine Emission)",
-        ["Auto", "Flugzeug", "Bus"]));
+        ["Auto", "Flugzeug", "Bus"], rng));
     } else {
       q.push(createMCQ("sachkunde", "verkehrsmittel",
         `Wann wurden die ersten Autos erfunden?`, "um 1900",
-        ["um 1400", "um 1600", "um 1200"]));
+        ["um 1400", "um 1600", "um 1200"], rng));
     }
   }
 
@@ -1039,20 +1050,20 @@ export function generateBerufe(seed?: number): CurriculumMCQ[] {
       const job = pick(SPECIALIZED_JOBS, rng);
       q.push(createMCQ("sachkunde", "berufe",
         `Was macht ein ${job.job}?`, job.specialty,
-        SPECIALIZED_JOBS.filter(j => j.job !== job.job).map(j => j.specialty)));
+        SPECIALIZED_JOBS.filter(j => j.job !== job.job).map(j => j.specialty), rng));
     } else if (type === 1) {
       const job = pick(SPECIALIZED_JOBS, rng);
       q.push(createMCQ("sachkunde", "berufe",
         `Welche Ausbildung braucht ein ${job.job}?`, job.education,
-        SPECIALIZED_JOBS.filter(j => j.job !== job.job).map(j => j.education)));
+        SPECIALIZED_JOBS.filter(j => j.job !== job.job).map(j => j.education), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "berufe",
         `Was ist ein spezialisierter Beruf?`, "ein Beruf mit Spezialwissen in einem Bereich",
-        ["ein einfacher Beruf", "kein richtiger Beruf", "ein neuer Beruf"]));
+        ["ein einfacher Beruf", "kein richtiger Beruf", "ein neuer Beruf"], rng));
     } else {
       q.push(createMCQ("sachkunde", "berufe",
         `Sind spezialisierte Berufe wichtig?`, "ja, sehr wichtig für die Gesellschaft",
-        ["nein, nicht wichtig", "manchmal", "nur für Erwachsene"]));
+        ["nein, nicht wichtig", "manchmal", "nur für Erwachsene"], rng));
     }
   }
 
@@ -1069,19 +1080,19 @@ export function generateDorfStadt(seed?: number): CurriculumMCQ[] {
       const characteristic = pick(VILLAGE_CHARACTERISTICS, rng);
       q.push(createMCQ("sachkunde", "dorf_stadt",
         `Wie ist ${characteristic.aspect} im Dorf?`, characteristic.village,
-        [characteristic.city, "überall gleich", "kein Unterschied"]));
+        [characteristic.city, "überall gleich", "kein Unterschied"], rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "dorf_stadt",
         `Wie viele Menschen leben in einer Stadt?`, "über 5000 Menschen",
-        ["unter 1000", "100-500", "genau 2000"]));
+        ["unter 1000", "100-500", "genau 2000"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "dorf_stadt",
         `Welche Dienste sind in der Stadt leichter verfügbar?`, "Schulen, Ärzte, Geschäfte, spezialisierte Dienste",
-        ["nur Supermärkte", "nur Schulen", "keine Dienste"]));
+        ["nur Supermärkte", "nur Schulen", "keine Dienste"], rng));
     } else {
       q.push(createMCQ("sachkunde", "dorf_stadt",
         `Ist die Natur näher im Dorf oder in der Stadt?`, "im Dorf (Felder, Wälder, Wiesen)",
-        ["in der Stadt", "überall gleich", "gar nicht"]));
+        ["in der Stadt", "überall gleich", "gar nicht"], rng));
     }
   }
 
@@ -1098,20 +1109,20 @@ export function generateGrundbedürfnisse(seed?: number): CurriculumMCQ[] {
       const need = pick(BASIC_NEEDS, rng);
       q.push(createMCQ("sachkunde", "grundbedürfnisse",
         `Warum brauchen wir ${need.need}?`, need.why,
-        BASIC_NEEDS.filter(n => n.need !== need.need).map(n => n.why)));
+        BASIC_NEEDS.filter(n => n.need !== need.need).map(n => n.why), rng));
     } else if (type === 1) {
       const diff = pick(CULTURAL_DIFFERENCES, rng);
       q.push(createMCQ("sachkunde", "grundbedürfnisse",
         `Unterscheiden sich Grundbedürfnisse in verschiedenen Kulturen?`, "ja, aber grundlegende Bedürfnisse sind gleich",
-        ["nein, überall gleich", "ja, völlig unterschiedlich", "weiß nicht"]));
+        ["nein, überall gleich", "ja, völlig unterschiedlich", "weiß nicht"], rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "grundbedürfnisse",
         `Welche Kulturen haben unterschiedliche Kleidung?`, "alle Kulturen je nach Klima",
-        ["keine", "nur eine", "nur europäische"]));
+        ["keine", "nur eine", "nur europäische"], rng));
     } else {
       q.push(createMCQ("sachkunde", "grundbedürfnisse",
         `Ist Sicherheit ein Grundbedürfnis?`, "ja, psychisches und physisches Wohlbefinden",
-        ["nein", "manchmal", "nur für Kinder"]));
+        ["nein", "manchmal", "nur für Kinder"], rng));
     }
   }
 
@@ -1128,20 +1139,20 @@ export function generateRegelnGesetze(seed?: number): CurriculumMCQ[] {
       const purpose = pick(RULES_PURPOSE, rng);
       q.push(createMCQ("sachkunde", "regeln_gesetze",
         `Warum gibt es Regeln? Wegen: ${purpose.purpose}`, purpose.example,
-        RULES_PURPOSE.filter(r => r.purpose !== purpose.purpose).map(r => r.example)));
+        RULES_PURPOSE.filter(r => r.purpose !== purpose.purpose).map(r => r.example), rng));
     } else if (type === 1) {
       const law = pick(LEGAL_SYSTEMS, rng);
       q.push(createMCQ("sachkunde", "regeln_gesetze",
         `Was ist die Folge von ${law.law}?`, law.consequence,
-        LEGAL_SYSTEMS.filter(l => l.law !== law.law).map(l => l.consequence)));
+        LEGAL_SYSTEMS.filter(l => l.law !== law.law).map(l => l.consequence), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "regeln_gesetze",
         `Warum brauchen wir Gesetze?`, "für Ordnung, Gerechtigkeit und Sicherheit",
-        ["zum Spielen", "nicht wichtig", "nur für Erwachsene"]));
+        ["zum Spielen", "nicht wichtig", "nur für Erwachsene"], rng));
     } else {
       q.push(createMCQ("sachkunde", "regeln_gesetze",
         `Sind Verkehrsregeln wichtig?`, "ja, sehr wichtig für Sicherheit",
-        ["nein, nicht nötig", "manchmal", "nur für Autos"]));
+        ["nein, nicht nötig", "manchmal", "nur für Autos"], rng));
     }
   }
 
@@ -1158,21 +1169,128 @@ export function generateUmweltschutz(seed?: number): CurriculumMCQ[] {
       const material = pick(RECYCLING_MATERIALS, rng);
       q.push(createMCQ("sachkunde", "umweltschutz_recycling",
         `Woher kommt ${material.material}?`, material.origin,
-        RECYCLING_MATERIALS.filter(m => m.material !== material.material).map(m => m.origin)));
+        RECYCLING_MATERIALS.filter(m => m.material !== material.material).map(m => m.origin), rng));
     } else if (type === 1) {
       const action = pick(ENVIRONMENTAL_PROTECTION, rng);
       q.push(createMCQ("sachkunde", "umweltschutz_recycling",
         `Welcher Vorteil hat ${action.action}?`, action.benefit,
-        ENVIRONMENTAL_PROTECTION.filter(a => a.action !== action.action).map(a => a.benefit)));
+        ENVIRONMENTAL_PROTECTION.filter(a => a.action !== action.action).map(a => a.benefit), rng));
     } else if (type === 2) {
       const pollution = pick(POLLUTION_TYPES, rng);
       q.push(createMCQ("sachkunde", "umweltschutz_recycling",
         `Was ist ${pollution.type}?`, pollution.source,
-        POLLUTION_TYPES.filter(p => p.type !== pollution.type).map(p => p.source)));
+        POLLUTION_TYPES.filter(p => p.type !== pollution.type).map(p => p.source), rng));
     } else {
       q.push(createMCQ("sachkunde", "umweltschutz_recycling",
         `Warum sollten wir Müll trennen?`, "um Rohstoffe zu sparen und die Umwelt zu schützen",
-        ["das ist nicht wichtig", "macht keinen Unterschied", "kostet zu viel"]));
+        ["das ist nicht wichtig", "macht keinen Unterschied", "kostet zu viel"], rng));
+    }
+  }
+
+  return q;
+}
+
+// ─── KOMPASS & HIMMELSRICHTUNGEN ─────────────────────────────────────────────
+
+const COMPASS_DIRECTIONS = [
+  { direction: "Norden", abbreviation: "N", opposite: "Süden", on_map: "oben" },
+  { direction: "Süden", abbreviation: "S", opposite: "Norden", on_map: "unten" },
+  { direction: "Osten", abbreviation: "O", opposite: "Westen", on_map: "rechts" },
+  { direction: "Westen", abbreviation: "W", opposite: "Osten", on_map: "links" }
+];
+
+const COMPASS_FACTS = [
+  { fact: "Die Kompassnadel zeigt immer nach Norden", reason: "Magnetfeld der Erde" },
+  { fact: "Die Sonne geht im Osten auf", time: "morgens" },
+  { fact: "Die Sonne geht im Westen unter", time: "abends" },
+  { fact: "Auf einer Karte ist Norden oben", convention: "internationale Vereinbarung" }
+];
+
+export function generateKompass(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 4;
+    if (type === 0) {
+      // Gegenrichtung
+      const dir = pick(COMPASS_DIRECTIONS, rng);
+      q.push(createMCQ("sachkunde", "kompass_himmelsrichtungen",
+        `Was ist die entgegengesetzte Richtung von ${dir.direction}?`, dir.opposite,
+        COMPASS_DIRECTIONS.filter(d => d.direction !== dir.direction && d.direction !== dir.opposite).map(d => d.direction), rng));
+    } else if (type === 1) {
+      // Auf der Karte
+      const dir = pick(COMPASS_DIRECTIONS, rng);
+      q.push(createMCQ("sachkunde", "kompass_himmelsrichtungen",
+        `Wo ist ${dir.direction} auf einer Landkarte?`, dir.on_map,
+        COMPASS_DIRECTIONS.filter(d => d.direction !== dir.direction).map(d => d.on_map), rng));
+    } else if (type === 2) {
+      // Kompass-Fakten
+      const fact = pick(COMPASS_FACTS, rng);
+      const answer = (fact as any).reason || (fact as any).time || (fact as any).convention || "bekannt";
+      const allAnswers = COMPASS_FACTS.map(f => (f as any).reason || (f as any).time || (f as any).convention || "bekannt");
+      q.push(createMCQ("sachkunde", "kompass_himmelsrichtungen",
+        `${fact.fact} — warum / wann?`, answer,
+        allAnswers.filter(a => a !== answer), rng));
+    } else {
+      // Abkürzung
+      const dir = pick(COMPASS_DIRECTIONS, rng);
+      q.push(createMCQ("sachkunde", "kompass_himmelsrichtungen",
+        `Was ist die Abkürzung für ${dir.direction}?`, dir.abbreviation,
+        COMPASS_DIRECTIONS.filter(d => d.direction !== dir.direction).map(d => d.abbreviation), rng));
+    }
+  }
+
+  return q;
+}
+
+// ─── KARTENLESEN ─────────────────────────────────────────────────────────────
+
+const MAP_ELEMENTS = [
+  { element: "Legende", purpose: "erklärt die Symbole auf der Karte" },
+  { element: "Maßstab", purpose: "zeigt das Größenverhältnis zwischen Karte und Wirklichkeit" },
+  { element: "Himmelsrichtungen", purpose: "zeigen Norden, Süden, Osten und Westen" },
+  { element: "Höhenlinien", purpose: "zeigen Berge und Täler" }
+];
+
+const MAP_SYMBOLS = [
+  { symbol: "blaue Linie", meaning: "Fluss oder Bach" },
+  { symbol: "grüne Fläche", meaning: "Wald" },
+  { symbol: "braune Linien", meaning: "Höhenlinien (Berge)" },
+  { symbol: "schwarzes Quadrat", meaning: "Gebäude" },
+  { symbol: "rote/gelbe Linie", meaning: "Straße" }
+];
+
+export function generateKartenlesen(seed?: number): CurriculumMCQ[] {
+  const rng = seed !== undefined ? mulberry32(seed) : (() => Math.random());
+  const q: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 45; i++) {
+    const type = i % 4;
+    if (type === 0) {
+      // Kartenelement → Zweck
+      const elem = pick(MAP_ELEMENTS, rng);
+      q.push(createMCQ("sachkunde", "kartenlesen",
+        `Wozu dient die ${elem.element} auf einer Karte?`, elem.purpose,
+        MAP_ELEMENTS.filter(e => e.element !== elem.element).map(e => e.purpose), rng));
+    } else if (type === 1) {
+      // Symbol → Bedeutung
+      const sym = pick(MAP_SYMBOLS, rng);
+      q.push(createMCQ("sachkunde", "kartenlesen",
+        `Was bedeutet eine ${sym.symbol} auf der Karte?`, sym.meaning,
+        MAP_SYMBOLS.filter(s => s.symbol !== sym.symbol).map(s => s.meaning), rng));
+    } else if (type === 2) {
+      // Bedeutung → Symbol
+      const sym = pick(MAP_SYMBOLS, rng);
+      q.push(createMCQ("sachkunde", "kartenlesen",
+        `Wie wird ${sym.meaning} auf einer Karte dargestellt?`, sym.symbol,
+        MAP_SYMBOLS.filter(s => s.symbol !== sym.symbol).map(s => s.symbol), rng));
+    } else {
+      // Kartenelement identifizieren
+      const elem = pick(MAP_ELEMENTS, rng);
+      q.push(createMCQ("sachkunde", "kartenlesen",
+        `Welches Kartenelement ${elem.purpose}?`, elem.element,
+        MAP_ELEMENTS.filter(e => e.element !== elem.element).map(e => e.element), rng));
     }
   }
 
@@ -1206,5 +1324,7 @@ export const G3_Generators_Sachkunde = {
   dorf_stadt: generateDorfStadt,
   grundbedürfnisse: generateGrundbedürfnisse,
   regeln_gesetze: generateRegelnGesetze,
-  umweltschutz_recycling: generateUmweltschutz
+  umweltschutz_recycling: generateUmweltschutz,
+  kompass_himmelsrichtungen: generateKompass,
+  kartenlesen: generateKartenlesen
 };

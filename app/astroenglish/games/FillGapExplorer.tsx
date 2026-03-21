@@ -4,6 +4,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, Lightbulb } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 interface GapRound {
   sentence: string;
@@ -26,36 +27,44 @@ const LABELS = {
     hint: "Hint:",
     correct: "Correct!",
     tryAgain: "Try again!",
+    learnFromThis: "Learn from this!",
     explanation: "Why?",
     next: "Next",
     done: "Done!",
+    didYouKnow: "Did you know?",
   },
   hu: {
     fillGap: "Töltsd ki az üres helyet!",
     hint: "Tipp:",
     correct: "Helyes!",
     tryAgain: "Próbáld újra!",
+    learnFromThis: "Tanulj ebből!",
     explanation: "Miért?",
     next: "Tovább",
     done: "Kész!",
+    didYouKnow: "Tudtad?",
   },
   de: {
     fillGap: "Fülle die Lücke!",
     hint: "Hinweis:",
     correct: "Richtig!",
     tryAgain: "Versuch nochmal!",
+    learnFromThis: "Lerne daraus!",
     explanation: "Warum?",
     next: "Weiter",
     done: "Fertig!",
+    didYouKnow: "Wusstest du?",
   },
   ro: {
     fillGap: "Completează spațiul gol!",
     hint: "Indiciu:",
     correct: "Corect!",
     tryAgain: "Încearcă din nou!",
+    learnFromThis: "Învață din asta!",
     explanation: "De ce?",
     next: "Următorul",
     done: "Gata!",
+    didYouKnow: "Știai?",
   },
 } as const;
 
@@ -74,8 +83,11 @@ const FillGapExplorer = memo(function FillGapExplorer({
   const [confirmed, setConfirmed] = useState(false);
   const [wrongAttempts, setWrongAttempts] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
+  const [flashIdx, setFlashIdx] = useState<number | null>(null);
+  const [showDiscovery, setShowDiscovery] = useState(false);
+  const [currentDiscovery, setCurrentDiscovery] = useState("");
 
-  const scoreRef = useRef(0);
+  const wrongCountRef = useRef(0);
 
   const round = rounds[roundIdx];
   const correctAnswer = round.options[round.correctIndex];
@@ -88,9 +100,13 @@ const FillGapExplorer = memo(function FillGapExplorer({
       setConfirmed(true);
 
       if (optIdx === round.correctIndex) {
-        scoreRef.current += 1;
+        setFlashIdx(optIdx);
+        setTimeout(() => setFlashIdx(null), 800);
       } else {
+        wrongCountRef.current += 1;
         setWrongAttempts((prev) => prev + 1);
+        setFlashIdx(optIdx);
+        setTimeout(() => setFlashIdx(null), 800);
       }
     },
     [confirmed, round.correctIndex]
@@ -98,15 +114,36 @@ const FillGapExplorer = memo(function FillGapExplorer({
 
   const handleNext = useCallback(() => {
     if (roundIdx + 1 >= rounds.length) {
-      onDone(scoreRef.current, rounds.length);
+      const score = Math.max(
+        1,
+        rounds.length - Math.min(wrongCountRef.current, rounds.length - 1)
+      );
+      onDone(score, rounds.length);
     } else {
-      setRoundIdx((i) => i + 1);
-      setSelected(null);
-      setConfirmed(false);
-      setWrongAttempts(0);
-      setShowExplanation(false);
+      // Show discovery card before advancing
+      setShowDiscovery(true);
+      const discovery =
+        round.explanation ||
+        (lang === "hu"
+          ? "Jó volt! Lépj tovább a következő kérdésre."
+          : lang === "de"
+            ? "Gut gemacht! Fahre mit der nächsten Frage fort."
+            : lang === "ro"
+              ? "Bun lucru! Treci la următoarea întrebare."
+              : "Well done! Move on to the next question.");
+      setCurrentDiscovery(discovery);
+
+      // Auto-advance after 2.5s
+      setTimeout(() => {
+        setRoundIdx((i) => i + 1);
+        setSelected(null);
+        setConfirmed(false);
+        setWrongAttempts(0);
+        setShowExplanation(false);
+        setShowDiscovery(false);
+      }, 2500);
     }
-  }, [roundIdx, rounds.length, onDone]);
+  }, [roundIdx, rounds.length, onDone, round, lang]);
 
   const handleShowExplanation = useCallback(() => {
     setShowExplanation(!showExplanation);
@@ -154,9 +191,12 @@ const FillGapExplorer = memo(function FillGapExplorer({
           key={roundIdx}
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
-          className="rounded-3xl p-6 min-h-[100px] flex items-center justify-center"
+          className="relative rounded-3xl p-6 min-h-[100px] flex items-center justify-center"
           style={{ background: `${color}12`, border: `1.5px solid ${color}30` }}
         >
+          <div className="absolute top-2 right-2">
+            <SpeakButton text={round.sentence.replace("___", correctAnswer)} lang={lang ?? "en"} size={16} />
+          </div>
           <div className="flex flex-wrap items-center justify-center gap-2 text-lg font-medium text-white leading-relaxed">
             <span>{beforeGap}</span>
             <motion.div
@@ -186,17 +226,46 @@ const FillGapExplorer = memo(function FillGapExplorer({
         </motion.div>
       )}
 
+      {/* Discovery card */}
+      {showDiscovery && (
+        <motion.div
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          className="rounded-2xl p-4 text-center"
+          style={{
+            background: "rgba(180,77,255,0.1)",
+            border: "1.5px solid rgba(180,77,255,0.3)",
+          }}
+        >
+          <p className="text-xs font-bold uppercase text-purple-400 mb-1">
+            💡 {t.didYouKnow}
+          </p>
+          <p className="text-sm font-semibold text-white/80">{currentDiscovery}</p>
+        </motion.div>
+      )}
+
       {/* Options */}
       {!showAnswer && (
         <div className="grid grid-cols-2 gap-2.5">
           {round.options.map((opt, i) => {
             const isThis = selected === i;
             const isRight = i === round.correctIndex;
+            const isFlashing = flashIdx === i;
             let bg = "rgba(255,255,255,0.06)";
             let border = "rgba(255,255,255,0.12)";
             let textColor = "rgba(255,255,255,0.85)";
 
-            if (confirmed) {
+            if (isFlashing) {
+              if (isRight) {
+                bg = "rgba(0,255,136,0.35)";
+                border = "#00FF88";
+                textColor = "#00FF88";
+              } else {
+                bg = "rgba(255,45,120,0.35)";
+                border = "#FF2D78";
+                textColor = "#FF2D78";
+              }
+            } else if (confirmed) {
               if (isRight) {
                 bg = "rgba(0,255,136,0.2)";
                 border = "#00FF88";
@@ -247,7 +316,7 @@ const FillGapExplorer = memo(function FillGapExplorer({
                 <>
                   <X size={18} className="text-red-400" />
                   <span className="font-black text-base text-red-400">
-                    {wrongAttempts < 2 ? t.tryAgain : "Learn from this!"}
+                    {wrongAttempts < 2 ? t.tryAgain : t.learnFromThis}
                   </span>
                 </>
               )}

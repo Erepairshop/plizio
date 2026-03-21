@@ -2,9 +2,10 @@
 // ParticipleExplorer — Island i6: Partizip I & II (K5)
 // Teaches: Partizip II review, Partizip I discovery, Partizip as adjective (I+II), MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -30,6 +31,7 @@ const LABELS: Record<string, Record<string, string>> = {
     partizip2: "Partizip II",
     formation: "Formation: Infinitiv + -d",
     adjEnding: "adjective ending applies!",
+    discovery: "💡 Partizip I = stem + d (spielend = playing). Partizip II = ge- + stem + -t/-en (gespielt = played). Partizip II is used for Perfekt tense!",
   },
   hu: {
     title: "Igenév felfedező",
@@ -54,6 +56,7 @@ const LABELS: Record<string, Record<string, string>> = {
     partizip2: "Partizip II",
     formation: "Képzés: Főnévi igenév + -d",
     adjEnding: "melléknévi végzet járul hozzá!",
+    discovery: "💡 Partizip I = tővé + d (spielend = playing). Partizip II = ge- + tő + -t/-en (gespielt = played). A Partizip II a Perfekt igeidőben használatos!",
   },
   de: {
     title: "Partizip-Entdecker",
@@ -78,6 +81,7 @@ const LABELS: Record<string, Record<string, string>> = {
     partizip2: "Partizip II",
     formation: "Bildung: Infinitiv + -d",
     adjEnding: "Adjektivendung wird angefügt!",
+    discovery: "💡 Partizip I = Stamm + d (spielend = spielend). Partizip II = ge- + Stamm + -t/-en (gespielt = gespielt). Partizip II wird im Perfekt verwendet!",
   },
   ro: {
     title: "Exploratorul participiului",
@@ -102,39 +106,56 @@ const LABELS: Record<string, Record<string, string>> = {
     partizip2: "Partizip II",
     formation: "Formare: Infinitiv + -d",
     adjEnding: "se adaugă terminația adjectivală!",
+    discovery: "💡 Partizip I = stem + d (spielend = jucând). Partizip II = ge- + stem + -t/-en (gespielt = jucat). Partizip II se folosește în Perfekt!",
   },
 };
 
-const PART2_CARDS = [
+const PART2_CARDS_POOL = [
   { inf: "spielen", p2: "gespielt", type: "regular", emoji: "⚽" },
   { inf: "machen", p2: "gemacht", type: "regular", emoji: "🔨" },
   { inf: "singen", p2: "gesungen", type: "irregular", emoji: "🎵" },
   { inf: "gehen", p2: "gegangen", type: "irregular", emoji: "🚶" },
   { inf: "schreiben", p2: "geschrieben", type: "irregular", emoji: "✏️" },
+  { inf: "finden", p2: "gefunden", type: "irregular", emoji: "🔍" },
+  { inf: "arbeiten", p2: "gearbeitet", type: "regular", emoji: "💼" },
 ];
 
-const PART1_EXAMPLES = [
+const PART1_EXAMPLES_POOL = [
   { inf: "spielen", p1: "spielend", example: "das spielende Kind", emoji: "🧒" },
   { inf: "singen", p1: "singend", example: "die singende Frau", emoji: "🎤" },
   { inf: "lachen", p1: "lachend", example: "der lachende Mann", emoji: "😄" },
+  { inf: "tanzen", p1: "tanzend", example: "das tanzende Paar", emoji: "💃" },
 ];
 
-const PART1_ADJ = [
+const PART1_ADJ_POOL = [
   { base: "schlafend", nom: "der schlafende Hund", akk: "einen schlafenden Hund" },
   { base: "laufend", nom: "die laufende Katze", akk: "eine laufende Katze" },
+  { base: "spielend", nom: "das spielende Kind", akk: "ein spielendes Kind" },
 ];
 
-const PART2_ADJ = [
+const PART2_ADJ_POOL = [
   { base: "gebrochen", nom: "das gebrochene Glas", akk: "ein gebrochenes Glas" },
   { base: "geschrieben", nom: "der geschriebene Brief", akk: "einen geschriebenen Brief" },
+  { base: "geöffnet", nom: "die geöffnete Tür", akk: "eine geöffnete Tür" },
 ];
 
-const MIXED_QUIZ = [
+const MIXED_QUIZ_POOL = [
   { sentence: "Die ___ Kinder spielen im Garten.", fill: "P1 → spielend → spielenden", options: ["gespielten", "spielenden", "gespielt"], correct: "spielenden", hint: "Partizip I als Adjektiv" },
   { sentence: "Das ___ Fenster war offen.", fill: "P2 → brechen → gebrochen", options: ["brechende", "gebrochene", "bricht"], correct: "gebrochene", hint: "Partizip II als Adjektiv" },
   { sentence: "Der ___ Brief liegt auf dem Tisch.", fill: "P2 → schreiben → geschrieben", options: ["schreibende", "schreibenden", "geschriebene"], correct: "geschriebene", hint: "Partizip II als Adjektiv" },
   { sentence: "Ich sehe den ___ Vogel.", fill: "P1 → singen → singend", options: ["gesungenen", "singenden", "singt"], correct: "singenden", hint: "Partizip I als Adjektiv (Akk)" },
+  { sentence: "Die ___ Tür ist jetzt zu.", fill: "P2 → öffnen → geöffnet", options: ["öffnende", "geöffnete", "öffnet"], correct: "geöffnete", hint: "Partizip II als Adjektiv" },
 ];
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
   return (
@@ -161,13 +182,13 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 // ─── Round 1: Partizip II flip cards ─────────────────────────────────────────
 function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [flipped, setFlipped] = useState<Set<number>>(new Set());
-  const allFlipped = flipped.size >= PART2_CARDS.length;
+  const allFlipped = flipped.size >= PART2_CARDS_POOL.length;
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
       <div className="flex flex-col gap-2 w-full">
-        {PART2_CARDS.map((card, i) => {
+        {PART2_CARDS_POOL.map((card, i) => {
           const isFlipped = flipped.has(i);
           const typeColor = card.type === "regular" ? "#10B981" : "#F59E0B";
           return (
@@ -209,9 +230,9 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Partizip I discovery ───────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART1_EXAMPLES.length;
+  const allRevealed = revealed.size >= PART1_EXAMPLES_POOL.length;
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
@@ -221,17 +242,22 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         {lbl.formation}
       </div>
       <div className="flex flex-col gap-2 w-full">
-        {PART1_EXAMPLES.map((ex, i) => {
+        {PART1_EXAMPLES_POOL.map((ex, i) => {
           const isOpen = revealed.has(i);
           return (
             <motion.button key={ex.inf}
               onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 text-left"
+              className="relative w-full rounded-2xl p-4 text-left"
               style={{
                 background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
                 border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
               }}
               whileTap={!isOpen ? { scale: 0.98 } : {}}>
+              {isOpen && (
+                <div className="absolute top-2 right-2">
+                  <SpeakButton text={ex.example} lang={"de"} size={14} />
+                </div>
+              )}
               <div className="flex items-center gap-2">
                 <span className="text-xl">{ex.emoji}</span>
                 <span className="text-white font-bold">{ex.inf}</span>
@@ -263,7 +289,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 // ─── Round 3: Partizip I as adjective ────────────────────────────────────────
 function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART1_ADJ.length * 2;
+  const allRevealed = revealed.size >= PART1_ADJ_POOL.length * 2;
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
@@ -271,7 +297,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-white/50 text-xs text-center italic">
         {lbl.partizip1}: Infinitiv + -d → {lbl.adjEnding}
       </p>
-      {PART1_ADJ.map((item, i) => (
+      {PART1_ADJ_POOL.map((item, i) => (
         <div key={item.base} className="w-full flex flex-col gap-1.5">
           {[item.nom, item.akk].map((form, j) => {
             const key = i * 2 + j;
@@ -308,7 +334,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 // ─── Round 4: Partizip II as adjective ───────────────────────────────────────
 function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART2_ADJ.length * 2;
+  const allRevealed = revealed.size >= PART2_ADJ_POOL.length * 2;
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
@@ -316,7 +342,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-white/50 text-xs text-center italic">
         {lbl.partizip2}: {lbl.adjEnding}
       </p>
-      {PART2_ADJ.map((item, i) => (
+      {PART2_ADJ_POOL.map((item, i) => (
         <div key={item.base} className="w-full flex flex-col gap-1.5">
           {[item.nom, item.akk].map((form, j) => {
             const key = i * 2 + j;
@@ -351,19 +377,28 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: MCQ Partizip I or II ────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
+  const [quiz] = useState(() => shuffle(MIXED_QUIZ_POOL).slice(0, 4));
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
-  const item = MIXED_QUIZ[idx];
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
+  const item = quiz[idx];
   const isCorrect = selected === item.correct;
 
   const handleSelect = (opt: string) => {
-    if (selected) return;
+    if (selected || feedback) return;
     setSelected(opt);
+    const isCorrectChoice = opt === item.correct;
+    setFeedback(isCorrectChoice ? "correct" : "wrong");
+
+    if (!isCorrectChoice) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
-      if (idx + 1 >= MIXED_QUIZ.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 900);
+      if (idx + 1 >= quiz.length) onDone();
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, 1000);
   };
 
   return (
@@ -371,7 +406,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex gap-1">
-        {MIXED_QUIZ.map((_, i) => (
+        {quiz.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -381,28 +416,52 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
           <p className="text-white font-bold text-base">{item.sentence}</p>
-          {selected && (
+          {feedback && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF6B6B" }}>
+              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}>
               {isCorrect ? `✅ ${lbl.correct}` : `❌ → ${item.correct}`} ({item.hint})
             </motion.p>
           )}
         </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="w-full py-3 rounded-xl font-black text-base"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.97 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
+        {item.options.map(opt => {
+          let bgColor = "rgba(255,255,255,0.06)";
+          let borderColor = "rgba(255,255,255,0.2)";
+          let textColor = "white";
+
+          if (feedback && selected === opt) {
+            if (opt === item.correct) {
+              bgColor = "rgba(0,255,136,0.2)";
+              borderColor = "#00FF88";
+              textColor = "#00FF88";
+            } else {
+              bgColor = "rgba(255,45,120,0.15)";
+              borderColor = "#FF2D78";
+              textColor = "#FF2D78";
+            }
+          } else if (feedback && opt === item.correct && selected !== opt) {
+            bgColor = "rgba(0,255,136,0.2)";
+            borderColor = "#00FF88";
+            textColor = "#00FF88";
+          }
+
+          return (
+            <motion.button key={opt}
+              onClick={() => handleSelect(opt)}
+              className="w-full py-3 rounded-xl font-black text-base"
+              style={{
+                background: bgColor,
+                border: `2px solid ${borderColor}`,
+                color: textColor,
+              }}
+              whileTap={!selected && !feedback ? { scale: 0.97 } : {}}>
+              {opt}
+              {feedback && selected === opt && opt === item.correct && " ✅"}
+              {feedback && selected === opt && opt !== item.correct && " ❌"}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -420,8 +479,14 @@ const ParticipleExplorer = memo(function ParticipleExplorer({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -431,10 +496,10 @@ const ParticipleExplorer = memo(function ParticipleExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

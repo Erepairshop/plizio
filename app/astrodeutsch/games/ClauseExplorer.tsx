@@ -2,9 +2,10 @@
 // ClauseExplorer — Island i6: Satzarten & Nebensätze (K4)
 // Teaches: 4 sentence types, Hauptsatz vs Nebensatz, conjunctions, word order in subordinate clauses
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -30,6 +31,7 @@ const LABELS: Record<string, Record<string, string>> = {
     question: "Question",
     exclamation: "Exclamation",
     imperative: "Command",
+    discovery: "💡 A main clause (Hauptsatz) can stand alone — the verb is in position 2. A subordinate clause (Nebensatz) starts with a conjunction and the verb goes to the END!",
   },
   hu: {
     title: "Tagmondat felfedező",
@@ -54,6 +56,7 @@ const LABELS: Record<string, Record<string, string>> = {
     question: "Kérdő mondat",
     exclamation: "Felkiáltó mondat",
     imperative: "Felszólító mondat",
+    discovery: "💡 A főmondat (Hauptsatz) önmagában értelmes — az ige a 2. helyen áll. A mellékmondat (Nebensatz) kötőszóval kezdődik és az ige a VÉGÉRE kerül!",
   },
   de: {
     title: "Satzarten-Entdecker",
@@ -78,6 +81,7 @@ const LABELS: Record<string, Record<string, string>> = {
     question: "Fragesatz",
     exclamation: "Ausrufesatz",
     imperative: "Aufforderungssatz",
+    discovery: "💡 Ein Hauptsatz (Hauptsatz) kann allein stehen — das Verb steht an Position 2. Ein Nebensatz (Nebensatz) beginnt mit einer Konjunktion und das Verb steht am ENDE!",
   },
   ro: {
     title: "Exploratorul propozițiilor",
@@ -102,6 +106,7 @@ const LABELS: Record<string, Record<string, string>> = {
     question: "Propoziție interogativă",
     exclamation: "Propoziție exclamativă",
     imperative: "Propoziție imperativă",
+    discovery: "💡 O propoziție principală (Hauptsatz) poate sta singură — verbul este în poziția 2. O propoziție subordonată (Nebensatz) începe cu o conjuncție și verbul merge la FINAL!",
   },
 };
 
@@ -113,21 +118,12 @@ const SENTENCE_TYPES = [
 ];
 
 const CLAUSE_PAIRS = [
-  {
-    main: "Er kommt nicht,",
-    sub: "weil er müde ist.",
-    conjunction: "weil",
-  },
-  {
-    main: "Ich weiß,",
-    sub: "dass du recht hast.",
-    conjunction: "dass",
-  },
-  {
-    main: "Sie bleibt zuhause,",
-    sub: "obwohl das Wetter schön ist.",
-    conjunction: "obwohl",
-  },
+  { main: "Er kommt nicht,", sub: "weil er müde ist.", conjunction: "weil" },
+  { main: "Ich weiß,", sub: "dass du recht hast.", conjunction: "dass" },
+  { main: "Sie bleibt zuhause,", sub: "obwohl das Wetter schön ist.", conjunction: "obwohl" },
+  { main: "Er lernt hart,", sub: "damit er die Prüfung besteht.", conjunction: "damit" },
+  { main: "Wir spielen,", sub: "wenn das Wetter gut ist.", conjunction: "wenn" },
+  { main: "Sie arbeitet,", sub: "obwohl sie krank ist.", conjunction: "obwohl" },
 ];
 
 const CONJUNCTIONS = [
@@ -140,24 +136,11 @@ const CONJUNCTIONS = [
 ];
 
 const WORD_ORDER_EXAMPLES = [
-  {
-    normal: "Er ist müde.",
-    sub: "weil er müde IST.",
-    conjunction: "weil",
-    verbPosition: "end",
-  },
-  {
-    normal: "Du hast recht.",
-    sub: "dass du recht HAST.",
-    conjunction: "dass",
-    verbPosition: "end",
-  },
-  {
-    normal: "Sie kommt morgen.",
-    sub: "wenn sie morgen KOMMT.",
-    conjunction: "wenn",
-    verbPosition: "end",
-  },
+  { normal: "Er ist müde.", sub: "weil er müde IST.", conjunction: "weil", verbPosition: "end" },
+  { normal: "Du hast recht.", sub: "dass du recht HAST.", conjunction: "dass", verbPosition: "end" },
+  { normal: "Sie kommt morgen.", sub: "wenn sie morgen KOMMT.", conjunction: "wenn", verbPosition: "end" },
+  { normal: "Ich lerne.", sub: "damit ich LERNE.", conjunction: "damit", verbPosition: "end" },
+  { normal: "Er arbeitet.", sub: "obwohl er ARBEITET.", conjunction: "obwohl", verbPosition: "end" },
 ];
 
 const CONJ_QUIZ = [
@@ -165,6 +148,8 @@ const CONJ_QUIZ = [
   { sentence: "Ich hoffe, ___ du kommst.", correct: "dass", options: ["dass", "weil", "wenn"] },
   { sentence: "___ es regnet, nehmen wir einen Schirm.", correct: "Wenn", options: ["Wenn", "Weil", "Dass"] },
   { sentence: "Sie lernt, ___ sie die Prüfung besteht.", correct: "damit", options: ["damit", "weil", "obwohl"] },
+  { sentence: "Wir spielen, ___ das Wetter schön ist.", correct: "obwohl", options: ["obwohl", "wenn", "weil"] },
+  { sentence: "___ ich klein war, spielte ich Fußball.", correct: "Als", options: ["Als", "Wenn", "Weil"] },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -234,7 +219,19 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Hauptsatz vs Nebensatz color code ───────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  lang,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  lang?: string;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -243,6 +240,8 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     if (idx + 1 >= CLAUSE_PAIRS.length) onNext();
     else { setIdx(i => i + 1); setTapped(false); }
   };
+
+  const fullSentence = `${item.main} ${item.sub}`;
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -255,8 +254,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <motion.div key={item.conjunction}
-        className="w-full rounded-3xl p-5 flex flex-col items-center gap-3"
+        className="relative w-full rounded-3xl p-5 flex flex-col items-center gap-3"
         style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+        <div className="absolute top-3 right-3">
+          <SpeakButton text={fullSentence} lang={"de"} size={16} />
+        </div>
         <p className="text-white/60 text-xs font-bold">
           <span style={{ color: "#3B82F6" }}>●</span> {lbl.hauptsatz} &nbsp;
           <span style={{ color: "#F59E0B" }}>●</span> {lbl.nebensatz}
@@ -294,7 +296,17 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Conjunctions ────────────────────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= CONJUNCTIONS.length;
 
@@ -337,7 +349,17 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Word order in Nebensatz ─────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -401,7 +423,17 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Conjunction MCQ ─────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -411,10 +443,13 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= CONJ_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -471,9 +506,13 @@ const ClauseExplorer = memo(function ClauseExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -483,10 +522,10 @@ const ClauseExplorer = memo(function ClauseExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

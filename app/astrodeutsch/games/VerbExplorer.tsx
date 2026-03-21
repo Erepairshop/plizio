@@ -2,7 +2,7 @@
 // VerbExplorer — Island i2: Verben (K2)
 // Teaches: verb recognition, ich/du/er conjugation, Imperativ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -14,6 +14,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Tap the action word (verb) in each sentence!",
     round2Title: "Verb Conjugation",
     round2Hint: "See how verbs change — tap each form to hear it!",
+    round2Discovery: "💡 Verbs are action words! In German, the verb changes depending on who does the action: ich spiele, du spielst, er/sie spielt.",
     round3Title: "Fill in the Verb!",
     round3Hint: "Which form of the verb fits here?",
     round4Title: "Commands!",
@@ -32,6 +33,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Koppints a cselekvést kifejező szóra (igére) minden mondatban!",
     round2Title: "Igeragozás",
     round2Hint: "Nézd, hogyan változik az ige — koppints minden alakra, hogy halld!",
+    round2Discovery: "💡 Az igék cselekvésszavak! A németben az ige változik attól függően, hogy ki végzi a cselekvést: ich spiele, du spielst, er/sie spielt.",
     round3Title: "Töltsd ki az igét!",
     round3Hint: "Az ige melyik alakja illik ide?",
     round4Title: "Parancsok!",
@@ -50,6 +52,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Tippe auf das Tunwort (Verb) in jedem Satz!",
     round2Title: "Verbkonjugation",
     round2Hint: "Sieh, wie Verben sich verändern — tippe auf jede Form um sie zu hören!",
+    round2Discovery: "💡 Verben sind Tunwörter! Im Deutschen ändert sich das Verb je nachdem, wer die Handlung macht: ich spiele, du spielst, er/sie spielt.",
     round3Title: "Ergänze das Verb!",
     round3Hint: "Welche Form des Verbs passt hier?",
     round4Title: "Befehle!",
@@ -68,6 +71,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Atinge cuvântul de acțiune (verbul) din fiecare propoziție!",
     round2Title: "Conjugarea verbelor",
     round2Hint: "Vezi cum se schimbă verbele — atinge fiecare formă ca s-o auzi!",
+    round2Discovery: "💡 Verbele sunt cuvinte de acțiune! În limba germană, verbul se schimbă în funcție de cine face acțiunea: ich spiele, du spielst, er/sie spielt.",
     round3Title: "Completează verbul!",
     round3Hint: "Ce formă a verbului se potrivește aici?",
     round4Title: "Comenzi!",
@@ -228,13 +232,27 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
   const [verbIdx, setVerbIdx] = useState(0);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
+  const [done, setDone] = useState(false);
   const verb = CONJUGATION_VERBS[verbIdx];
   const allTapped = tapped.size === verb.forms.length;
 
   const handleNext = () => {
-    if (verbIdx + 1 >= CONJUGATION_VERBS.length) onNext();
+    if (verbIdx + 1 >= CONJUGATION_VERBS.length) setDone(true);
     else { setVerbIdx(v => v + 1); setTapped(new Set()); }
   };
+
+  if (done) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+          className="w-full rounded-2xl px-4 py-3 text-center"
+          style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+          <p className="text-[#B44DFF] font-black text-sm">{lbl.round2Discovery}</p>
+        </motion.div>
+        <NextBtn onClick={onNext} label={lbl.next} color={color} />
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -284,18 +302,32 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Fill-in conjugation ────────────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  onNext,
+  wrongCountRef,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  onNext: () => void;
+  wrongCountRef: React.MutableRefObject<number>;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = FILL_INS[idx];
 
   const handleSelect = (opt: string) => {
     if (selected) return;
+    const isCorrect = opt === item.answer;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setSelected(opt);
     setTimeout(() => {
       if (idx + 1 >= FILL_INS.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -404,18 +436,32 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Verb quiz ───────────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  onDone,
+  wrongCountRef,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  onDone: () => void;
+  wrongCountRef: React.MutableRefObject<number>;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = VERB_QUIZ[idx];
 
   const handleSelect = (opt: string) => {
     if (selected) return;
+    const isCorrect = opt === item.answer;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
     setSelected(opt);
     setTimeout(() => {
       if (idx + 1 >= VERB_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -469,8 +515,14 @@ const VerbExplorer = memo(function VerbExplorer({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -481,9 +533,9 @@ const VerbExplorer = memo(function VerbExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />}
         </motion.div>
       </AnimatePresence>
     </div>

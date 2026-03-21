@@ -2,9 +2,10 @@
 // KasusExplorer — Island i1: Nominativ & Akkusativ (K4)
 // Teaches: the 4 cases overview, Nominativ (subject), Akkusativ (object), article declension
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -19,6 +20,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tap to reveal how articles change in Akkusativ.",
     round5Title: "Mixed Challenge",
     round5Hint: "Choose Nominativ or Akkusativ form.",
+    discovery: "💡 German has 4 cases: Nominativ (who?), Akkusativ (whom?), Dativ (to whom?), Genitiv (whose?). The case changes the article!",
     next: "Next",
     finish: "Finished!",
     well: "Well done!",
@@ -41,6 +43,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Koppints, hogy meglásd hogyan változnak a névelők Akkusativban.",
     round5Title: "Vegyes kihívás",
     round5Hint: "Válaszd ki a Nominativ vagy Akkusativ alakot.",
+    discovery: "💡 A németben 4 eset van: Nominativ (ki?), Akkusativ (kit?), Dativ (kinek?), Genitiv (kinek a...?). Az eset változtatja a névelőt!",
     next: "Tovább",
     finish: "Kész!",
     well: "Remek!",
@@ -63,6 +66,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Tippe, um zu sehen wie Artikel im Akkusativ wechseln.",
     round5Title: "Gemischte Aufgabe",
     round5Hint: "Wähle Nominativ- oder Akkusativ-Form.",
+    discovery: "💡 Deutsch hat 4 Fälle: Nominativ (wer?), Akkusativ (wen?), Dativ (wem?), Genitiv (wessen?). Der Fall verändert den Artikel!",
     next: "Weiter",
     finish: "Fertig!",
     well: "Super gemacht!",
@@ -85,6 +89,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Atinge pentru a vedea cum se schimbă articolele la Acuzativ.",
     round5Title: "Provocare mixtă",
     round5Hint: "Alege forma de Nominativ sau Acuzativ.",
+    discovery: "💡 Germana are 4 cazuri: Nominativ (cine?), Acuzativ (pe cine?), Dativ (cui?), Genitiv (al cui?). Cazul schimbă articolul!",
     next: "Înainte",
     finish: "Gata!",
     well: "Bravo!",
@@ -196,7 +201,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         })}
       </div>
       {allRevealed && (
-        <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="w-full">
+        <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="w-full flex flex-col gap-2">
+          <motion.div className="w-full rounded-2xl px-4 py-3 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+            <p className="text-[#B44DFF] font-black text-sm">{lbl.discovery}</p>
+          </motion.div>
           <NextBtn onClick={onNext} label={lbl.next} color={color} />
         </motion.div>
       )}
@@ -205,7 +214,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Find the Nominativ subject ──────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -227,8 +236,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.sentence} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}
-          className="w-full rounded-3xl p-5 flex flex-col items-center gap-3"
+          className="relative w-full rounded-3xl p-5 flex flex-col items-center gap-3"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
+          <div className="absolute top-3 right-3">
+            <SpeakButton text={item.sentence} lang={"de"} size={16} />
+          </div>
           <span className="text-4xl">{item.emoji}</span>
           <p className="text-white font-bold text-lg text-center">{item.sentence}</p>
           {!tapped && (
@@ -255,7 +267,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Akkusativ fill-in-the-blank ─────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -265,10 +277,11 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= AKK_QUIZ.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -362,7 +375,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Mixed Nom/Akk MCQ ───────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -372,10 +385,11 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= MIXED_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   return (
@@ -432,9 +446,13 @@ const KasusExplorer = memo(function KasusExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -444,10 +462,10 @@ const KasusExplorer = memo(function KasusExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

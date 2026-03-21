@@ -2,7 +2,7 @@
 // NounExplorer — Island i1: Nomen & Artikel (K2)
 // Teaches: noun recognition, der/die/das, plural forms, article+noun matching
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -14,6 +14,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Tap all the nouns — names of people, animals, things or places!",
     round2Title: "der · die · das",
     round2Hint: "Which article goes with this noun?",
+    round2Discovery: "💡 Nouns are naming words for people, places, things, and ideas. In German, ALL nouns are capitalized!",
     round3Title: "Plural Forms",
     round3Hint: "How do we say more than one?",
     round4Title: "Article Match",
@@ -38,6 +39,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Koppints az összes főnévre — emberek, állatok, dolgok vagy helyek neve!",
     round2Title: "der · die · das",
     round2Hint: "Melyik névelő illik ehhez a főnévhez?",
+    round2Discovery: "💡 A főnevek megnevezési szavak emberekre, helyekre, dolgokra és gondolatokra. A német nyelvben MINDEN főnév nagybetűvel kezdődik!",
     round3Title: "Többes szám",
     round3Hint: "Hogyan mondjuk, ha több van belőle?",
     round4Title: "Névelő párosítás",
@@ -62,6 +64,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Tippe auf alle Nomen — Namen von Personen, Tieren, Dingen oder Orten!",
     round2Title: "der · die · das",
     round2Hint: "Welcher Artikel passt zu diesem Nomen?",
+    round2Discovery: "💡 Nomen sind Benennungswörter für Menschen, Orte, Dinge und Ideen. Im Deutschen werden ALLE Nomen großgeschrieben!",
     round3Title: "Mehrzahl",
     round3Hint: "Wie sagt man, wenn es mehrere gibt?",
     round4Title: "Artikel-Zuordnung",
@@ -86,6 +89,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round1Hint: "Atinge toate substantivele — nume de persoane, animale, lucruri sau locuri!",
     round2Title: "der · die · das",
     round2Hint: "Care articol se potrivește cu acest substantiv?",
+    round2Discovery: "💡 Substantivele sunt cuvinte de denumire pentru oameni, locuri, lucruri și idei. În limba germană, TOATE substantivele se scriu cu majusculă!",
     round3Title: "Forme de plural",
     round3Hint: "Cum spunem când sunt mai multe?",
     round4Title: "Potrivire articol",
@@ -113,8 +117,18 @@ const ARTICLE_COLORS: Record<Article, string> = {
   das: "#10B981",
 };
 
-// Round 1: spot the nouns
-const WORD_LIST: { word: string; isNoun: boolean; emoji?: string }[] = [
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+// Round 1: spot the nouns (expanded pool)
+const WORD_LIST_POOL: { word: string; isNoun: boolean; emoji?: string }[] = [
   { word: "Hund", isNoun: true, emoji: "🐕" },
   { word: "laufen", isNoun: false },
   { word: "Schule", isNoun: true, emoji: "🏫" },
@@ -125,35 +139,56 @@ const WORD_LIST: { word: string; isNoun: boolean; emoji?: string }[] = [
   { word: "schnell", isNoun: false },
   { word: "Haus", isNoun: true, emoji: "🏠" },
   { word: "schön", isNoun: false },
+  { word: "Katze", isNoun: true, emoji: "🐱" },
+  { word: "tanzen", isNoun: false },
+  { word: "Blume", isNoun: true, emoji: "🌸" },
+  { word: "klein", isNoun: false },
+  { word: "Ball", isNoun: true, emoji: "⚽" },
+  { word: "springen", isNoun: false },
 ];
 
-// Round 2: article sorting
-const ARTICLE_NOUNS: { word: string; article: Article; emoji: string }[] = [
+// Round 2: article sorting (expanded pool)
+const ARTICLE_NOUNS_POOL: { word: string; article: Article; emoji: string }[] = [
   { word: "Hund", article: "der", emoji: "🐕" },
   { word: "Katze", article: "die", emoji: "🐱" },
   { word: "Haus", article: "das", emoji: "🏠" },
   { word: "Schule", article: "die", emoji: "🏫" },
   { word: "Ball", article: "der", emoji: "⚽" },
   { word: "Buch", article: "das", emoji: "📚" },
+  { word: "Baum", article: "der", emoji: "🌳" },
+  { word: "Blume", article: "die", emoji: "🌸" },
+  { word: "Tisch", article: "der", emoji: "🪑" },
+  { word: "Uhr", article: "die", emoji: "🕐" },
+  { word: "Fenster", article: "das", emoji: "🪟" },
+  { word: "Stift", article: "der", emoji: "✏️" },
 ];
 
-// Round 3: plural forms
-const PLURAL_WORDS: { singular: string; plural: string; emoji: string; ending: string }[] = [
+// Round 3: plural forms (expanded pool)
+const PLURAL_WORDS_POOL: { singular: string; plural: string; emoji: string; ending: string }[] = [
   { singular: "Hund", plural: "Hunde", emoji: "🐕", ending: "-e" },
   { singular: "Kind", plural: "Kinder", emoji: "👦", ending: "-er" },
   { singular: "Blume", plural: "Blumen", emoji: "🌸", ending: "-n" },
   { singular: "Ball", plural: "Bälle", emoji: "⚽", ending: "-e (Umlaut)" },
   { singular: "Buch", plural: "Bücher", emoji: "📚", ending: "-er (Umlaut)" },
+  { singular: "Schule", plural: "Schulen", emoji: "🏫", ending: "-n" },
+  { singular: "Katze", plural: "Katzen", emoji: "🐱", ending: "-n" },
+  { singular: "Haus", plural: "Häuser", emoji: "🏠", ending: "-er (Umlaut)" },
 ];
 
-// Round 4 & 5: article quiz
-const ARTICLE_QUIZ: { word: string; article: Article; emoji: string }[] = [
+// Round 4 & 5: article quiz (expanded pool)
+const ARTICLE_QUIZ_POOL: { word: string; article: Article; emoji: string }[] = [
   { word: "Lehrer", article: "der", emoji: "👨‍🏫" },
   { word: "Tasche", article: "die", emoji: "🎒" },
   { word: "Fenster", article: "das", emoji: "🪟" },
   { word: "Vogel", article: "der", emoji: "🐦" },
   { word: "Maus", article: "die", emoji: "🐭" },
   { word: "Heft", article: "das", emoji: "📓" },
+  { word: "Stuhl", article: "der", emoji: "🪑" },
+  { word: "Tisch", article: "der", emoji: "🪑" },
+  { word: "Tür", article: "die", emoji: "🚪" },
+  { word: "Apfel", article: "der", emoji: "🍎" },
+  { word: "Orange", article: "die", emoji: "🍊" },
+  { word: "Auge", article: "das", emoji: "👁️" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
@@ -179,17 +214,27 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Spot the nouns ──────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({
+  color,
+  lbl,
+  items,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  items: { word: string; isNoun: boolean; emoji?: string }[];
+  onNext: () => void;
+}) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const nouns = WORD_LIST.filter(w => w.isNoun);
-  const allNounsTapped = nouns.every((_, i) => tapped.has(WORD_LIST.indexOf(nouns[i])));
+  const nouns = items.filter(w => w.isNoun);
+  const allNounsTapped = nouns.every((_, i) => tapped.has(items.indexOf(nouns[i])));
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
       <div className="grid grid-cols-2 gap-2 w-full">
-        {WORD_LIST.map((item, i) => {
+        {items.map((item, i) => {
           const isTapped = tapped.has(i);
           const isCorrect = item.isNoun;
           return (
@@ -223,25 +268,48 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Article sorting ─────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({
+  color,
+  lbl,
+  items,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  items: { word: string; article: Article; emoji: string }[];
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
-  const item = ARTICLE_NOUNS[idx];
+  const item = items[idx];
 
   const handleSelect = (art: Article) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = art === item.article;
     setSelected(art);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
-      if (idx + 1 >= ARTICLE_NOUNS.length) setDone(true);
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+      if (idx + 1 >= items.length) setDone(true);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   if (done) return (
     <div className="flex flex-col items-center gap-4 w-full">
-      <div className="text-5xl">🎊</div>
-      <p className="text-white font-black text-xl">{lbl.well}</p>
+      <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+        className="w-full rounded-2xl px-4 py-3 text-center"
+        style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+        <p className="text-[#B44DFF] font-black text-sm">{lbl.round2Discovery}</p>
+      </motion.div>
       <NextBtn onClick={onNext} label={lbl.next} color={color} />
     </div>
   );
@@ -251,7 +319,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
       <div className="flex gap-1 mb-1">
-        {ARTICLE_NOUNS.map((_, i) => (
+        {items.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -264,39 +332,57 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
             <span className="text-3xl font-black text-white">{item.word}</span>
             <SpeakButton text={`${item.article} ${item.word}`} lang="de" size={16} />
           </div>
-          {selected && (
-            <span className="text-xl font-bold" style={{ color: ARTICLE_COLORS[item.article] }}>
-              {item.article} {item.word}
+          {feedback && (
+            <span className="text-xl font-bold" style={{ color: feedback === "correct" ? ARTICLE_COLORS[item.article] : "#FF2D78" }}>
+              {feedback === "correct" ? "✅" : "❌"} {item.article} {item.word}
             </span>
           )}
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {(["der", "die", "das"] as Article[]).map(art => (
-          <motion.button key={art} onClick={() => handleSelect(art)}
-            className="flex-1 py-4 rounded-2xl font-black text-xl"
-            style={{
-              background: selected === art ? `${ARTICLE_COLORS[art]}33` : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === art ? ARTICLE_COLORS[art] : "rgba(255,255,255,0.2)"}`,
-              color: selected === art ? ARTICLE_COLORS[art] : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {art}
-          </motion.button>
-        ))}
+        {(["der", "die", "das"] as Article[]).map(art => {
+          const isSelected = selected === art;
+          const isCorrectChoice = art === item.article;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && isSelected && !isCorrectChoice;
+
+          return (
+            <motion.button key={art} onClick={() => handleSelect(art)} disabled={!!feedback}
+              className="flex-1 py-4 rounded-2xl font-black text-xl transition-colors"
+              style={{
+                background: shouldShowCorrect ? `${ARTICLE_COLORS[art]}33` : shouldShowWrong ? "rgba(255,45,120,0.25)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.93 } : {}}>
+              {art}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 3: Plural forms ────────────────────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({
+  color,
+  lbl,
+  items,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  items: { singular: string; plural: string; emoji: string; ending: string }[];
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
-  const item = PLURAL_WORDS[idx];
+  const item = items[idx];
 
   const handleNext = () => {
-    if (idx + 1 >= PLURAL_WORDS.length) onNext();
+    if (idx + 1 >= items.length) onNext();
     else { setIdx(i => i + 1); setTapped(false); }
   };
 
@@ -305,7 +391,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
       <div className="flex gap-1 mb-1">
-        {PLURAL_WORDS.map((_, i) => (
+        {items.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -344,25 +430,44 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           </motion.div>
         )}
       </motion.div>
-      {tapped && <NextBtn onClick={handleNext} label={idx + 1 >= PLURAL_WORDS.length ? lbl.next : lbl.next} color={color} />}
+      {tapped && <NextBtn onClick={handleNext} label={idx + 1 >= items.length ? lbl.next : lbl.next} color={color} />}
     </div>
   );
 }
 
 // ─── Round 4: Article quiz (4 nouns, tap correct article) ─────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({
+  color,
+  lbl,
+  items,
+  wrongCountRef,
+  onNext,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  items: { word: string; article: Article; emoji: string }[];
+  wrongCountRef: React.MutableRefObject<number>;
+  onNext: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
-  const items = ARTICLE_QUIZ.slice(0, 3);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = items[idx];
 
   const handleSelect = (art: Article) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = art === item.article;
     setSelected(art);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= items.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -383,45 +488,72 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
             <span className="text-3xl font-black text-white">{item.word}</span>
             <SpeakButton text={item.word} lang="de" size={16} />
           </div>
-          {selected && (
-            <span className="font-bold text-xl" style={{ color: ARTICLE_COLORS[item.article] }}>
-              {item.article} {item.word} {selected === item.article ? "✅" : ""}
+          {feedback && (
+            <span className="font-bold text-xl" style={{ color: feedback === "correct" ? ARTICLE_COLORS[item.article] : "#FF2D78" }}>
+              {feedback === "correct" ? "✅" : "❌"} {item.article} {item.word}
             </span>
           )}
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {(["der", "die", "das"] as Article[]).map(art => (
-          <motion.button key={art} onClick={() => handleSelect(art)}
-            className="flex-1 py-4 rounded-2xl font-black text-xl"
-            style={{
-              background: selected === art ? `${ARTICLE_COLORS[art]}33` : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === art ? ARTICLE_COLORS[art] : "rgba(255,255,255,0.2)"}`,
-              color: selected === art ? ARTICLE_COLORS[art] : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {art}
-          </motion.button>
-        ))}
+        {(["der", "die", "das"] as Article[]).map(art => {
+          const isSelected = selected === art;
+          const isCorrectChoice = art === item.article;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && isSelected && !isCorrectChoice;
+
+          return (
+            <motion.button key={art} onClick={() => handleSelect(art)} disabled={!!feedback}
+              className="flex-1 py-4 rounded-2xl font-black text-xl transition-colors"
+              style={{
+                background: shouldShowCorrect ? `${ARTICLE_COLORS[art]}33` : shouldShowWrong ? "rgba(255,45,120,0.25)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.93 } : {}}>
+              {art}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
 }
 
 // ─── Round 5: Mixed article quiz ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({
+  color,
+  lbl,
+  items,
+  wrongCountRef,
+  onDone,
+}: {
+  color: string;
+  lbl: Record<string, string>;
+  items: { word: string; article: Article; emoji: string }[];
+  wrongCountRef: React.MutableRefObject<number>;
+  onDone: () => void;
+}) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
-  const items = ARTICLE_QUIZ.slice(3);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = items[idx];
 
   const handleSelect = (art: Article) => {
-    if (selected) return;
+    if (selected || feedback) return;
+    const isCorrect = art === item.article;
     setSelected(art);
+    setFeedback(isCorrect ? "correct" : "wrong");
+
+    if (!isCorrect) {
+      wrongCountRef.current++;
+    }
+
     setTimeout(() => {
       if (idx + 1 >= items.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -442,26 +574,34 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
             <span className="text-3xl font-black text-white">{item.word}</span>
             <SpeakButton text={item.word} lang="de" size={16} />
           </div>
-          {selected && (
-            <span className="font-bold text-xl" style={{ color: ARTICLE_COLORS[item.article] }}>
-              {item.article} {item.word} {selected === item.article ? "✅" : ""}
+          {feedback && (
+            <span className="font-bold text-xl" style={{ color: feedback === "correct" ? ARTICLE_COLORS[item.article] : "#FF2D78" }}>
+              {feedback === "correct" ? "✅" : "❌"} {item.article} {item.word}
             </span>
           )}
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 w-full">
-        {(["der", "die", "das"] as Article[]).map(art => (
-          <motion.button key={art} onClick={() => handleSelect(art)}
-            className="flex-1 py-4 rounded-2xl font-black text-xl"
-            style={{
-              background: selected === art ? `${ARTICLE_COLORS[art]}33` : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === art ? ARTICLE_COLORS[art] : "rgba(255,255,255,0.2)"}`,
-              color: selected === art ? ARTICLE_COLORS[art] : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {art}
-          </motion.button>
-        ))}
+        {(["der", "die", "das"] as Article[]).map(art => {
+          const isSelected = selected === art;
+          const isCorrectChoice = art === item.article;
+          const shouldShowCorrect = feedback && isCorrectChoice;
+          const shouldShowWrong = feedback && isSelected && !isCorrectChoice;
+
+          return (
+            <motion.button key={art} onClick={() => handleSelect(art)} disabled={!!feedback}
+              className="flex-1 py-4 rounded-2xl font-black text-xl transition-colors"
+              style={{
+                background: shouldShowCorrect ? `${ARTICLE_COLORS[art]}33` : shouldShowWrong ? "rgba(255,45,120,0.25)" : "rgba(255,255,255,0.06)",
+                border: `2px solid ${shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "rgba(255,255,255,0.2)"}`,
+                color: shouldShowCorrect ? ARTICLE_COLORS[art] : shouldShowWrong ? "#FF2D78" : "white",
+                cursor: feedback ? "default" : "pointer",
+              }}
+              whileTap={!feedback ? { scale: 0.93 } : {}}>
+              {art}
+            </motion.button>
+          );
+        })}
       </div>
     </div>
   );
@@ -479,8 +619,21 @@ const NounExplorer = memo(function NounExplorer({
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
 
+  // Random content generation
+  const [wordListItems] = useState(() => shuffle(WORD_LIST_POOL).slice(0, 10));
+  const [articleItems] = useState(() => shuffle(ARTICLE_NOUNS_POOL).slice(0, 6));
+  const [pluralItems] = useState(() => shuffle(PLURAL_WORDS_POOL).slice(0, 5));
+  const [round4Items] = useState(() => shuffle(ARTICLE_QUIZ_POOL).slice(0, 3));
+  const [round5Items] = useState(() => shuffle(ARTICLE_QUIZ_POOL).slice(3, 6));
+
+  // Error tracking
+  const wrongCountRef = useRef(0);
+
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -489,11 +642,11 @@ const NounExplorer = memo(function NounExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} items={wordListItems} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} items={articleItems} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} items={pluralItems} onNext={next} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} items={round4Items} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} items={round5Items} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

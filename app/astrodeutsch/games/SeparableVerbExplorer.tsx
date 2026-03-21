@@ -1,12 +1,14 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 import SplitWordAnimation from "@/app/astrodeutsch/games/blocks/SplitWordAnimation";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Trennbare Verben",
     round1: "Trennbare Verben kennenlernen",
+    round1Discovery: "💡 Separable verbs split apart in main clauses! 'aufstehen': Ich STEHE um 7 Uhr AUF. But in subordinate clauses they stay together: ...weil ich um 7 Uhr AUFSTEHE.",
     round2: "Aufstehen — getrennt!",
     round3: "Was ist das Präfix?",
     round4: "Satz bauen: 'anrufen'",
@@ -26,6 +28,7 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     title: "Separable Verbs",
     round1: "Meet separable verbs",
+    round1Discovery: "💡 Separable verbs split apart in main clauses! 'aufstehen': Ich STEHE um 7 Uhr AUF. But in subordinate clauses they stay together: ...weil ich um 7 Uhr AUFSTEHE.",
     round2: "Aufstehen — split!",
     round3: "What is the prefix?",
     round4: "Build a sentence: 'anrufen'",
@@ -45,6 +48,7 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     title: "Elváló igék",
     round1: "Ismerkedj az elváló igékkel",
+    round1Discovery: "💡 Az elváló igék főmondatban szétválnak! 'aufstehen': Ich STEHE um 7 Uhr AUF. De alárendelt mondatban együtt maradnak: ...weil ich um 7 Uhr AUFSTEHE.",
     round2: "Aufstehen — szétválasztva!",
     round3: "Mi az előtag?",
     round4: "Mondatépítés: 'anrufen'",
@@ -64,6 +68,7 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     title: "Verbe separabile",
     round1: "Cunoaște verbele separabile",
+    round1Discovery: "💡 Verbele separabile se despart în propozițiile principale! 'aufstehen': Ich STEHE um 7 Uhr AUF. Dar în propozițiile subordonate rămân împreună: ...weil ich um 7 Uhr AUFSTEHE.",
     round2: "Aufstehen — separat!",
     round3: "Care este prefixul?",
     round4: "Construiește propoziția: 'anrufen'",
@@ -98,6 +103,8 @@ const VERBS_INTRO = [
   { verb: "einlaufen", prefix: "ein", hint: "eintreten / to run in", emoji: "🏃" },
   { verb: "anrufen", prefix: "an", hint: "telefonieren / to call", emoji: "📞" },
   { verb: "abholen", prefix: "ab", hint: "mitnehmen / to pick up", emoji: "🚗" },
+  { verb: "ausgehen", prefix: "aus", hint: "hinausgehen / to go out", emoji: "🚪" },
+  { verb: "einschlafen", prefix: "ein", hint: "schlafen / to fall asleep", emoji: "😴" },
 ];
 
 function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
@@ -163,15 +170,24 @@ const PREFIX_QUIZ = [
   { verb: "einschlafen", options: ["schla", "ein", "an"], correct: 1 },
   { verb: "ankommen", options: ["kom", "ab", "an"], correct: 2 },
   { verb: "abholen", options: ["ab", "hol", "auf"], correct: 0 },
+  { verb: "aufmachen", options: ["auf", "mach", "ein"], correct: 0 },
+  { verb: "anstellen", options: ["an", "stell", "aus"], correct: 0 },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = PREFIX_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+    setRevealed(true);
+  };
   const handleNext = () => {
     if (qi + 1 >= PREFIX_QUIZ.length) onNext();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -182,8 +198,11 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round3}</div>
       <p className="text-xs text-white/60 text-center">{lbl.tapCorrect}</p>
-      <div className="px-5 py-3 rounded-2xl border-2 text-xl font-black text-white"
-        style={{ borderColor: color, background: `${color}22` }}>{q.verb}</div>
+      <div className="flex items-center justify-center gap-2">
+        <div className="px-5 py-3 rounded-2xl border-2 text-xl font-black text-white"
+          style={{ borderColor: color, background: `${color}22` }}>{q.verb}</div>
+        <SpeakButton text={q.verb} lang="de" size={16} />
+      </div>
       <div className="flex gap-3 justify-center">
         {q.options.map((opt, i) => {
           let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";
@@ -302,15 +321,34 @@ const VERB_QUIZ = [
     options: ["Sie anruft ihren Vater.", "Sie ruft an ihren Vater.", "Sie ruft ihren Vater an."],
     correct: 2,
   },
+  {
+    verb: "ausgehen",
+    sentence: "Wir ___ am Wochenende ___.",
+    options: ["Wir ausgehen am Wochenende.", "Wir gehen am Wochenende aus.", "Wir gehen aus am Wochenende."],
+    correct: 1,
+  },
+  {
+    verb: "aufstehen",
+    sentence: "Ich ___ um 6 Uhr ___.",
+    options: ["Ich aufstehe um 6 Uhr.", "Ich stehe um 6 Uhr auf.", "Ich stehe auf um 6 Uhr."],
+    correct: 1,
+  },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = VERB_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+    }
+    setRevealed(true);
+  };
   const handleNext = () => {
     if (qi + 1 >= VERB_QUIZ.length) onDone();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -358,8 +396,12 @@ const SeparableVerbExplorer = memo(function SeparableVerbExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -369,9 +411,9 @@ const SeparableVerbExplorer = memo(function SeparableVerbExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

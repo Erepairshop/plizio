@@ -2,7 +2,7 @@
 // SpellingExplorer2 — Island i7: Rechtschreibung II (K2)
 // Teaches: double consonants (mm/nn/ll/ss), Dehnungs-h (ah/eh/oh/uh), word families
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -24,10 +24,12 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Next",
     finish: "Finished!",
     correct: "Correct!",
+    wrong: "Not quite!",
     ruleDouble: "Short vowel → double consonant",
     ruleH: "Long vowel with silent h",
     family: "Word family",
     tapToReveal: "Tap to reveal",
+    discovery: "💡 Pay attention to word endings! -lich, -ig, -ung, -heit, -keit are common German suffixes. They follow regular spelling patterns.",
   },
   hu: {
     title: "Helyesírás felfedező II",
@@ -45,10 +47,12 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Tovább",
     finish: "Vége!",
     correct: "Helyes!",
+    wrong: "Nem quite!",
     ruleDouble: "Rövid magánhangzó → kettős mássalhangzó",
     ruleH: "Hosszú magánhangzó néma h-val",
     family: "Szócsalád",
     tapToReveal: "Koppints, hogy felfedd",
+    discovery: "💡 Figyelj a szóvégekre! A -lich, -ig, -ung, -heit, -keit közös német végződések. Ezek szabályos helyesírási mintákat követnek.",
   },
   de: {
     title: "Rechtschreibung-Entdecker II",
@@ -66,10 +70,12 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Weiter",
     finish: "Fertig!",
     correct: "Richtig!",
+    wrong: "Nicht ganz!",
     ruleDouble: "Kurzer Vokal → Doppelkonsonant",
     ruleH: "Langer Vokal mit Dehnungs-h",
     family: "Wortfamilie",
     tapToReveal: "Tippe um zu enthüllen",
+    discovery: "💡 Achte auf die Wortendungen! -lich, -ig, -ung, -heit, -keit sind häufige deutsche Endungen. Sie folgen regelmäßigen Schreibmustern.",
   },
   ro: {
     title: "Exploratorul ortografiei II",
@@ -87,10 +93,12 @@ const LABELS: Record<string, Record<string, string>> = {
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
+    wrong: "Nu chiar!",
     ruleDouble: "Vocală scurtă → consoană dublă",
     ruleH: "Vocală lungă cu h mut",
     family: "Familie de cuvinte",
     tapToReveal: "Atinge pentru a dezvălui",
+    discovery: "💡 Acordă atenție finalurilor cuvintelor! -lich, -ig, -ung, -heit, -keit sunt terminații germane comune. Ele urmează modele obișnuite de ortografie.",
   },
 };
 
@@ -172,6 +180,16 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
       {label} <ChevronRight size={16} />
     </motion.button>
   );
+}
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
 }
 
 // ─── Round 1: Double consonants ───────────────────────────────────────────────
@@ -352,20 +370,22 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: Fill the gap ───────────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [input, setInput] = useState("");
   const [submitted, setSubmitted] = useState(false);
-  const item = GAP_WORDS[idx];
+  const [words] = useState(() => shuffle(GAP_WORDS).slice(0, 4));
+  const item = words[idx];
   const isCorrect = input.toLowerCase() === item.answer.toLowerCase();
 
   const handleSubmit = () => {
     if (!input.trim() || submitted) return;
     setSubmitted(true);
+    if (!isCorrect) wrongCountRef.current++;
     setTimeout(() => {
-      if (idx + 1 >= GAP_WORDS.length) onNext();
+      if (idx + 1 >= words.length) onNext();
       else { setIdx(i => i + 1); setInput(""); setSubmitted(false); }
-    }, 900);
+    }, isCorrect ? 900 : 1000);
   };
 
   const displayWord = item.partial.replace("__", submitted ? (isCorrect ? item.answer : item.answer) : (input || "__"));
@@ -375,7 +395,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
       <div className="flex gap-1 mb-1">
-        {GAP_WORDS.map((_, i) => (
+        {words.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -429,18 +449,21 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Spelling quiz II ────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
-  const item = SPELLING2_QUIZ[idx];
+  const [quiz] = useState(() => shuffle(SPELLING2_QUIZ).slice(0, 3));
+  const item = quiz[idx];
 
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    const isCorrect = opt === item.answer;
+    if (!isCorrect) wrongCountRef.current++;
     setTimeout(() => {
-      if (idx + 1 >= SPELLING2_QUIZ.length) onDone();
+      if (idx + 1 >= quiz.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, isCorrect ? 800 : 1000);
   };
 
   return (
@@ -448,7 +471,7 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
       <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
       <div className="flex gap-1 mb-1">
-        {SPELLING2_QUIZ.map((_, i) => (
+        {quiz.map((_, i) => (
           <div key={i} className="w-2 h-2 rounded-full"
             style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
         ))}
@@ -487,9 +510,13 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -501,8 +528,8 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 lang={lang} color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

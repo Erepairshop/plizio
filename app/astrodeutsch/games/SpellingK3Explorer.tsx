@@ -1,6 +1,7 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -12,6 +13,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round5: "Rechtschreibungs-Quiz!",
     next: "Weiter →",
     done: "Fertig! 🌟",
+    wrong: "Nicht ganz!",
     longI: "Langer i-Laut → ie",
     shortI: "Kurzer i-Laut → i",
     shortVowel: "Kurzer Vokal → ss",
@@ -22,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     ieWords: "ie-Wörter",
     iWords: "i-Wörter",
     rule: "Regel",
+    discovery: "💡 ie macht einen langen 'i'-Laut (Tier, Spiel). Nach kurzen Vokalen verdoppeln sich Konsonanten (Sonne, Wasser). Diese Muster helfen dir, richtig zu schreiben!",
   },
   en: {
     title: "Spelling Rules K3",
@@ -32,6 +35,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round5: "Spelling quiz!",
     next: "Next →",
     done: "Done! 🌟",
+    wrong: "Not quite!",
     longI: "Long 'i' sound → ie",
     shortI: "Short 'i' sound → i",
     shortVowel: "Short vowel → ss",
@@ -42,6 +46,7 @@ const LABELS: Record<string, Record<string, string>> = {
     ieWords: "ie-words",
     iWords: "i-words",
     rule: "Rule",
+    discovery: "💡 ie makes a long 'i' sound (Tier, Spiel). After short vowels, consonants double (Sonne, Wasser). These patterns help you spell correctly!",
   },
   hu: {
     title: "Helyesírás K3",
@@ -52,6 +57,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round5: "Helyesírás kvíz!",
     next: "Tovább →",
     done: "Kész! 🌟",
+    wrong: "Nem quite!",
     longI: "Hosszú 'i' hang → ie",
     shortI: "Rövid 'i' hang → i",
     shortVowel: "Rövid magánhangzó → ss",
@@ -62,6 +68,7 @@ const LABELS: Record<string, Record<string, string>> = {
     ieWords: "ie-szavak",
     iWords: "i-szavak",
     rule: "Szabály",
+    discovery: "💡 Az ie hosszú 'i' hangot jelent (Tier, Spiel). Rövid magánhangzó után a mássalhangzók megkettőznek (Sonne, Wasser). Ezek a minták segítenek helyesen írni!",
   },
   ro: {
     title: "Ortografie K3",
@@ -72,6 +79,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round5: "Quiz ortografie!",
     next: "Mai departe →",
     done: "Gata! 🌟",
+    wrong: "Nu chiar!",
     longI: "Sunet lung 'i' → ie",
     shortI: "Sunet scurt 'i' → i",
     shortVowel: "Vocală scurtă → ss",
@@ -82,6 +90,7 @@ const LABELS: Record<string, Record<string, string>> = {
     ieWords: "cuvinte cu ie",
     iWords: "cuvinte cu i",
     rule: "Regulă",
+    discovery: "💡 ie face un sunet lung 'i' (Tier, Spiel). După vocale scurte, consoanele se dublează (Sonne, Wasser). Aceste modele te ajută să scrii corect!",
   },
 };
 
@@ -94,6 +103,16 @@ function ProgressBar({ current, total, color }: { current: number; total: number
       ))}
     </div>
   );
+}
+
+// Helper: shuffle array
+function shuffle<T>(arr: T[]): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
 }
 
 const IE_WORDS = ["Brief", "Spiel", "Tier", "Liebe", "Dieb"];
@@ -273,13 +292,18 @@ const GAP_ITEMS = [
   { display: "m_ss", root: "mu", options: ["u+ss", "u+ß", "u+s"], correct: 0, answer: "muss" },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = GAP_ITEMS[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) wrongCountRef.current++;
+  };
   const handleNext = () => {
     if (qi + 1 >= GAP_ITEMS.length) onNext();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -325,13 +349,18 @@ const SPELL_QUIZ = [
   { question: "Straße", options: ["Strasse", "Strase", "Straße"], correct: 2 },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = SPELL_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) wrongCountRef.current++;
+  };
   const handleNext = () => {
     if (qi + 1 >= SPELL_QUIZ.length) onDone();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -342,6 +371,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round5}</div>
       <p className="text-sm font-bold text-white/80">{lbl.chooseRight}</p>
+      <div className="flex items-center justify-center gap-2">
+        <span className="text-2xl font-black text-white">{q.question}</span>
+        <SpeakButton text={q.question} lang="de" size={16} />
+      </div>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
           let bg = "rgba(255,255,255,0.08)", border = "rgba(255,255,255,0.2)";
@@ -378,8 +411,12 @@ const SpellingK3Explorer = memo(function SpellingK3Explorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -390,8 +427,8 @@ const SpellingK3Explorer = memo(function SpellingK3Explorer({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

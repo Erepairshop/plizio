@@ -2,9 +2,10 @@
 // SpeechTransformExplorer — Island i1: Konjunktiv I / Indirekte Rede (K7)
 // Teaches: Direct vs Indirect speech, Konjunktiv I forms, DragToBucket sort, fill-in form, MCQ
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 import DragToBucket from "./blocks/DragToBucket";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -12,6 +13,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Direct & Indirect Speech",
     round1Title: "Direct → Indirect Speech",
     round1Hint: "Tap each pair to see how the verb changes!",
+    round1Discovery: "💡 Direct speech uses exact words in quotes: Er sagt: 'Ich bin müde.' Indirect speech uses Konjunktiv I: Er sagt, er SEI müde.",
     round2Title: "Konjunktiv I Forms",
     round2Hint: "Tap each row to reveal the Konjunktiv I form.",
     round3Title: "Sort the Sentences",
@@ -33,6 +35,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Egyenes és függő beszéd",
     round1Title: "Egyenes → Függő beszéd",
     round1Hint: "Koppints minden párra, hogy lásd hogyan változik az ige!",
+    round1Discovery: "💡 Az egyenes beszéd idézőjeleket használ: Er sagt: 'Ich bin müde.' A függő beszéd Konjunktív I-et használ: Er sagt, er SEI müde.",
     round2Title: "Konjunktív I alakok",
     round2Hint: "Koppints minden sorra a Konjunktív I alak felfedezéséhez.",
     round3Title: "Rendezd a mondatokat!",
@@ -54,6 +57,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Direkte & Indirekte Rede",
     round1Title: "Direkte → Indirekte Rede",
     round1Hint: "Tippe auf jedes Paar, um die Verbänderung zu sehen!",
+    round1Discovery: "💡 Direkte Rede verwendet Anführungszeichen: Er sagt: 'Ich bin müde.' Indirekte Rede verwendet Konjunktiv I: Er sagt, er SEI müde.",
     round2Title: "Konjunktiv I Formen",
     round2Hint: "Tippe auf jede Zeile, um die Konjunktiv-I-Form zu entdecken.",
     round3Title: "Sortiere die Sätze!",
@@ -75,6 +79,7 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Vorbire directă & indirectă",
     round1Title: "Directă → Indirectă",
     round1Hint: "Atinge fiecare pereche pentru a vedea cum se schimbă verbul!",
+    round1Discovery: "💡 Vorbirea directă folosește ghilimele: Er sagt: 'Ich bin müde.' Vorbirea indirectă folosește Conjunctiv I: Er sagt, er SEI müde.",
     round2Title: "Formele Conjunctivului I",
     round2Hint: "Atinge fiecare rând pentru a descoperi forma Conjunctivului I.",
     round3Title: "Sortează propozițiile!",
@@ -113,6 +118,18 @@ const PAIRS = [
     change: "komme → komme (Konj. I!)",
     emoji: "📅",
   },
+  {
+    direct: 'Sie sagt: »Ich kann das nicht.«',
+    indirect: 'Sie sagt, sie könne das nicht.',
+    change: "kann → könne",
+    emoji: "❌",
+  },
+  {
+    direct: 'Er sagt: »Ich gehe nach Hause.«',
+    indirect: 'Er sagt, er gehe nach Hause.',
+    change: "gehe → gehe (Konj. I!)",
+    emoji: "🏠",
+  },
 ];
 
 const KONJ1_TABLE = [
@@ -145,6 +162,8 @@ const MCQ4 = [
   { sentence: 'Er sagt, er ___ Zeit.', options: ["hat", "habe", "hatte"], correct: "habe", label: "Konjunktiv I: habe" },
   { sentence: 'Sie sagt, sie ___ müde.', options: ["ist", "sei", "wäre"], correct: "sei", label: "Konjunktiv I: sei" },
   { sentence: 'Er berichtet, er ___ morgen kommen.', options: ["wird", "werde", "würde"], correct: "werde", label: "Konjunktiv I: werde" },
+  { sentence: 'Sie erzählt, sie ___ das Buch gelesen.', options: ["hat", "habe", "hätte"], correct: "habe", label: "Konjunktiv I: habe" },
+  { sentence: 'Er sagt, er ___ mitkommen.', options: ["kann", "könne", "könnte"], correct: "könne", label: "Konjunktiv I: könne" },
 ];
 
 const MCQ5 = [
@@ -319,17 +338,20 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Choose Konjunktiv I form ────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ4[idx];
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= MCQ4.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
   return (
     <div className="flex flex-col gap-4 w-full">
@@ -345,7 +367,10 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="w-full rounded-2xl p-4 text-center"
           style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-lg">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-white font-bold text-lg">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
           {selected && (
             <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
               className="text-xs font-bold mt-2"
@@ -374,17 +399,20 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Identify correct indirect speech ─────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+    }
     setTimeout(() => {
       if (idx + 1 >= MCQ5.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
   return (
     <div className="flex flex-col gap-4 w-full">
@@ -398,11 +426,14 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.direct} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
-          <div className="w-full rounded-2xl p-4 mb-3"
+          <div className="w-full rounded-2xl p-4 mb-3 flex items-center justify-between"
             style={{ background: `${color}12`, border: `2px solid ${color}33` }}>
-            <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
-              style={{ background: `${color}33`, color }}>{lbl.direct}</span>
-            <span className="text-white/80 text-sm font-semibold">{item.direct}</span>
+            <div className="flex-1">
+              <span className="text-xs font-black px-2 py-0.5 rounded-full mr-2"
+                style={{ background: `${color}33`, color }}>{lbl.direct}</span>
+              <span className="text-white/80 text-sm font-semibold">{item.direct}</span>
+            </div>
+            <SpeakButton text={item.direct} lang="de" size={16} />
           </div>
           <div className="flex flex-col gap-2 w-full">
             {item.options.map(opt => (
@@ -435,8 +466,12 @@ const SpeechTransformExplorer = memo(function SpeechTransformExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -448,8 +483,8 @@ const SpeechTransformExplorer = memo(function SpeechTransformExplorer({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

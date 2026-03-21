@@ -2,7 +2,7 @@
 // SentenceExplorer — Island i5: Sätze (Sentences)
 // Teaches: punctuation (. ? !), word order, missing words
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
@@ -20,6 +20,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Which word is missing?",
     round5Title: "Sentence Review",
     round5Hint: "Choose the correct punctuation!",
+    discovery: "💡 Every German sentence needs a verb! Statements end with a period (.), questions with a question mark (?), and exclamations with an exclamation mark (!).",
     well: "Well done!",
     next: "Next",
     finish: "Finished!",
@@ -43,6 +44,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Melyik szó hiányzik?",
     round5Title: "Mondat áttekintés",
     round5Hint: "Válaszd a helyes írásjelet!",
+    discovery: "💡 Minden német mondatban kell egy ige! A kijelentések ponttal (.) végződnek, a kérdések kérdőjellel (?), a felkiáltások felkiáltójellel (!).",
     well: "Remek!",
     next: "Tovább",
     finish: "Vége!",
@@ -66,6 +68,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Welches Wort fehlt?",
     round5Title: "Satz-Wiederholung",
     round5Hint: "Wähle das richtige Satzzeichen!",
+    discovery: "💡 Jeder deutsche Satz braucht ein Verb! Aussagesätze enden mit Punkt (.), Fragen mit Fragezeichen (?), Ausrufe mit Ausrufezeichen (!).",
     well: "Toll gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -89,6 +92,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round4Hint: "Ce cuvânt lipsește?",
     round5Title: "Recapitulare propoziții",
     round5Hint: "Alege semnul de punctuație corect!",
+    discovery: "💡 Orice propoziție germană are nevoie de un verb! Propozițiile afirmative se termină cu punct (.), întrebările cu semn de întrebare (?), exclamațiile cu semn de exclamare (!).",
     well: "Bravo!",
     next: "Înainte",
     finish: "Gata!",
@@ -206,13 +210,21 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           );
         })}
       </div>
-      {allTapped && <NextBtn onClick={onNext} label={lbl.next} color={color} />}
+      {allTapped && (
+        <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="w-full flex flex-col gap-2">
+          <motion.div className="w-full rounded-2xl px-4 py-3 text-center"
+            style={{ background: "rgba(180,77,255,0.1)", border: "2px solid rgba(180,77,255,0.3)" }}>
+            <p className="text-[#B44DFF] font-black text-sm">{lbl.discovery}</p>
+          </motion.div>
+          <NextBtn onClick={onNext} label={lbl.next} color={color} />
+        </motion.div>
+      )}
     </div>
   );
 }
 
 // ─── Round 2: Choose punctuation ─────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Punct | null>(null);
   const [done, setDone] = useState(false);
@@ -221,10 +233,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (p: Punct) => {
     if (selected) return;
     setSelected(p);
+    if (p !== item.punct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+    }, 1000);
   };
 
   if (done) {
@@ -371,7 +384,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Fill missing word ───────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [done, setDone] = useState(false);
@@ -380,10 +393,11 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.missing) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= MISSING_WORD.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
+    }, 1000);
   };
 
   if (done) {
@@ -444,7 +458,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Punctuation review ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Punct | null>(null);
   const [done, setDone] = useState(false);
@@ -453,10 +467,11 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (p: Punct) => {
     if (selected) return;
     setSelected(p);
+    if (p !== item.punct) wrongCountRef.current++;
     setTimeout(() => {
       if (idx + 1 >= PUNCT_REVIEW.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
-    }, 700);
+    }, 1000);
   };
 
   if (done) {
@@ -523,9 +538,13 @@ const SentenceExplorer = memo(function SentenceExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
 
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
 
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -535,10 +554,10 @@ const SentenceExplorer = memo(function SentenceExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

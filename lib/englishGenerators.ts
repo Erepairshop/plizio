@@ -41,7 +41,8 @@ function createMCQ(
   subtopic: string,
   question: string,
   correct: string,
-  wrongOptions: string[]
+  wrongOptions: string[],
+  rng?: () => number
 ): CurriculumMCQ {
   const seen = new Set<string>();
   const unique: string[] = [];
@@ -51,7 +52,7 @@ function createMCQ(
       unique.push(w);
     }
   }
-  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  const opts = shuffle([correct, ...unique.slice(0, 3)], rng || Math.random);
   return {
     type: "mcq",
     topic,
@@ -168,7 +169,7 @@ export const G1_Generators = {
         const word = pick(isLong ? GRADE1_WORDS.longVowel : GRADE1_WORDS.shortVowel, rng);
         const wrong = (isLong ? GRADE1_WORDS.shortVowel : GRADE1_WORDS.longVowel).filter(w => w !== word).slice(0, 3);
         q.push(createMCQ("phonics_g1", "short_long_vowels_g1",
-          `Which word has a ${isLong ? "LONG" : "SHORT"} vowel sound?`, word, wrong));
+          `Which word has a ${isLong ? "LONG" : "SHORT"} vowel sound?`, word, wrong, rng));
       }
       return q;
     },
@@ -183,7 +184,7 @@ export const G1_Generators = {
         const allDigraphs = ["sh", "ch", "th", "wh"];
         const wrong = allDigraphs.filter(d => d !== dg);
         q.push(createMCQ("phonics_g1", "digraphs_g1",
-          `Which two letters make ONE sound in '${word}'?`, dg, wrong));
+          `Which two letters make ONE sound in '${word}'?`, dg, wrong, rng));
       }
       return q;
     },
@@ -198,7 +199,7 @@ export const G1_Generators = {
           ? [GRADE1_WORDS.lowercase[idx], pick(GRADE1_WORDS.lowercase, rng), pick(GRADE1_WORDS.lowercase, rng)]
           : [GRADE1_WORDS.uppercase[idx], pick(GRADE1_WORDS.uppercase, rng), pick(GRADE1_WORDS.uppercase, rng)];
         q.push(createMCQ("phonics_g1", "uppercase_lowercase_g1",
-          `Which letter is ${isUpper ? "UPPERCASE" : "lowercase"}?`, correct, wrong));
+          `Which letter is ${isUpper ? "UPPERCASE" : "lowercase"}?`, correct, wrong, rng));
       }
       return q;
     },
@@ -219,7 +220,7 @@ export const G1_Generators = {
         const allCounts = ["1", "2", "3", "4"];
         const wrong = allCounts.filter(c => c !== data.count);
         q.push(createMCQ("phonics_g1", "syllables_g1",
-          `How many syllables does the word '${data.word}' have?`, data.count, wrong));
+          `How many syllables does the word '${data.word}' have?`, data.count, wrong, rng));
       }
       return q;
     },
@@ -242,7 +243,7 @@ export const G1_Generators = {
         const blendSet = pick(blendData, rng);
         const word = pick(blendSet.words, rng);
         const wrong = blendData.filter(b => b.blend !== blendSet.blend).map(b => b.blend).slice(0, 3);
-        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend starts '${word}'?`, blendSet.blend, wrong));
+        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend starts '${word}'?`, blendSet.blend, wrong, rng));
       }
       return q;
     },
@@ -259,7 +260,7 @@ export const G1_Generators = {
         const correct = rng() > 0.5 ? w1 : w2;
         const target = correct === w1 ? w2 : w1;
         const wrong = rhymes.filter(r => !r.includes(target) && !r.includes(correct)).map(r => pick(r, rng)).slice(0, 3);
-        q.push(createMCQ("phonics_g1", "rhyming_g1", `Which word rhymes with '${correct}'?`, target, wrong));
+        q.push(createMCQ("phonics_g1", "rhyming_g1", `Which word rhymes with '${correct}'?`, target, wrong, rng));
       }
       return q;
     },
@@ -337,7 +338,7 @@ export const G1_Generators = {
         const word = pick(sightWords, rng);
         const wrong = shuffle(nonsense, rng).slice(0, 3);
         q.push(createMCQ("words_g1", "sight_words_g1",
-          `Which is a real word you should know by sight?`, word, wrong));
+          `Which is a real word you should know by sight?`, word, wrong, rng));
       }
       return q;
     },
@@ -385,7 +386,7 @@ export const G1_Generators = {
         const noun = pick(nouns, rng);
         const wrong = shuffle(notNouns, rng).slice(0, 3);
         q.push(createMCQ("words_g1", "nouns_g1",
-          `Which word is a NOUN (a person, place, or thing)?`, noun, wrong));
+          `Which word is a NOUN (a person, place, or thing)?`, noun, wrong, rng));
       }
       return q;
     },
@@ -401,7 +402,7 @@ export const G1_Generators = {
         const verb = pick(verbs, rng);
         const wrong = shuffle(notVerbs, rng).slice(0, 3);
         q.push(createMCQ("words_g1", "verbs_g1",
-          `Which word is a VERB (an action word)?`, verb, wrong));
+          `Which word is a VERB (an action word)?`, verb, wrong, rng));
       }
       return q;
     },
@@ -425,7 +426,7 @@ export const G1_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(articleData, rng);
         q.push(createMCQ("words_g1", "articles_g1",
-          `Fill in the blank: "${data.sentence}"`, data.answer, data.wrong));
+          `Fill in the blank: "${data.sentence}"`, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -475,7 +476,7 @@ export const G1_Generators = {
         const [w1, w2, compound] = pick(pairs, rng);
         const wrong = pairs.filter(p => p[2] !== compound).map(p => p[2]).slice(0, 3);
         q.push(createMCQ("words_g1", "compound_words_g1",
-          `What compound word is made from '${w1}' + '${w2}'?`, compound, wrong));
+          `What compound word is made from '${w1}' + '${w2}'?`, compound, wrong, rng));
       }
       return q;
     },
@@ -513,7 +514,7 @@ export const G1_Generators = {
         const adj = pick(adjectives, rng);
         const wrong = shuffle(notAdjectives, rng).slice(0, 3);
         q.push(createMCQ("words_g1", "adjectives_g1",
-          `Which word is an ADJECTIVE (describes a noun)?`, adj, wrong));
+          `Which word is an ADJECTIVE (describes a noun)?`, adj, wrong, rng));
       }
       return q;
     },
@@ -535,7 +536,7 @@ export const G1_Generators = {
         const item = pick(colorItems, rng);
         const wrong = shuffle(allColors.filter(c => c !== item.color), rng).slice(0, 3);
         q.push(createMCQ("vocab_g1", "colors_g1",
-          `What color is a ${item.thing}?`, item.color, wrong));
+          `What color is a ${item.thing}?`, item.color, wrong, rng));
       }
       return q;
     },
@@ -569,7 +570,7 @@ export const G1_Generators = {
         const data = pick(numberData, rng);
         const wrong = shuffle(allWords.filter(w => w !== data.word), rng).slice(0, 3);
         q.push(createMCQ("vocab_g1", "numbers_words_g1",
-          `How do you write the number ${data.num}?`, data.word, wrong));
+          `How do you write the number ${data.num}?`, data.word, wrong, rng));
       }
       return q;
     },
@@ -608,13 +609,13 @@ export const G1_Generators = {
         if (rng() < 0.6) {
           const seq = pick(daySequences, rng);
           const wrong = days.filter(d => d !== seq.a);
-          q.push(createMCQ("vocab_g1", "days_months_g1", seq.q, seq.a, shuffle(wrong, rng).slice(0, 3)));
+          q.push(createMCQ("vocab_g1", "days_months_g1", seq.q, seq.a, shuffle(wrong, rng).slice(0, 3), rng));
         } else {
           const month = pick(months, rng);
           const monthNum = months.indexOf(month) + 1;
           const wrong = months.filter(m => m !== month);
           q.push(createMCQ("vocab_g1", "days_months_g1",
-            `What is month number ${monthNum}?`, month, shuffle(wrong, rng).slice(0, 3)));
+            `What is month number ${monthNum}?`, month, shuffle(wrong, rng).slice(0, 3), rng));
         }
       }
       return q;
@@ -648,7 +649,7 @@ export const G1_Generators = {
         const animal = pick(animals, rng);
         const wrong = shuffle(otherWords, rng).slice(0, 3);
         q.push(createMCQ("vocab_g1", "animals_g1",
-          `Which word is an ANIMAL?`, animal, wrong));
+          `Which word is an ANIMAL?`, animal, wrong, rng));
       }
       return q;
     },
@@ -700,7 +701,7 @@ export const G1_Generators = {
       for (let i = 0; i < 20; i++) {
         const clue = pick(bodyPartClues, rng);
         const wrong = shuffle(wrongWords, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g1", "body_parts_g1", clue.clue + ":", clue.answer, wrong));
+        q.push(createMCQ("vocab_g1", "body_parts_g1", clue.clue + ":", clue.answer, wrong, rng));
       }
       return q;
     },
@@ -749,7 +750,7 @@ export const G1_Generators = {
       for (let i = 0; i < 20; i++) {
         const clue = pick(familyClues, rng);
         const wrong = shuffle(wrongWords, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g1", "family_g1", clue.clue + ":", clue.answer, wrong));
+        q.push(createMCQ("vocab_g1", "family_g1", clue.clue + ":", clue.answer, wrong, rng));
       }
       return q;
     },
@@ -801,7 +802,7 @@ export const G1_Generators = {
       for (let i = 0; i < 20; i++) {
         const clue = pick(foodClues, rng);
         const wrong = shuffle(wrongWords, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g1", "food_g1", clue.clue + ":", clue.answer, wrong));
+        q.push(createMCQ("vocab_g1", "food_g1", clue.clue + ":", clue.answer, wrong, rng));
       }
       return q;
     },
@@ -852,7 +853,7 @@ export const G1_Generators = {
       for (let i = 0; i < 20; i++) {
         const clue = pick(classroomClues, rng);
         const wrong = shuffle(wrongWords, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g1", "classroom_g1", clue.clue + ":", clue.answer, wrong));
+        q.push(createMCQ("vocab_g1", "classroom_g1", clue.clue + ":", clue.answer, wrong, rng));
       }
       return q;
     },
@@ -904,7 +905,7 @@ export const G1_Generators = {
         const wrong = allMarks.filter(m => m !== data.mark);
         wrong.push(";");
         q.push(createMCQ("sentences_g1", "end_punctuation_g1",
-          `Which punctuation mark goes at the end? "${data.sentence}___"`, data.mark, wrong));
+          `Which punctuation mark goes at the end? "${data.sentence}___"`, data.mark, wrong, rng));
       }
       return q;
     },
@@ -958,7 +959,7 @@ export const G1_Generators = {
         const otherCorrect = shuffle(sentenceData, rng).filter(s => s.correct !== sent.correct);
         const wrong = [sent.wrong, otherCorrect[0]?.correct || "the cat.", otherCorrect[1]?.correct || "a Dog."].slice(0, 3);
         q.push(createMCQ("sentences_g1", "capitalization_g1",
-          `Which sentence is capitalized correctly?`, sent.correct, wrong));
+          `Which sentence is capitalized correctly?`, sent.correct, wrong, rng));
       }
       return q;
     },
@@ -1012,12 +1013,12 @@ export const G1_Generators = {
           const correct = pick(sentences, rng);
           const wrong = shuffle(fragments, rng).slice(0, 3);
           q.push(createMCQ("sentences_g1", "sentence_vs_not_g1",
-            `Which is a COMPLETE sentence?`, correct, wrong));
+            `Which is a COMPLETE sentence?`, correct, wrong, rng));
         } else {
           const correct = pick(fragments, rng);
           const wrong = shuffle(sentences, rng).slice(0, 3);
           q.push(createMCQ("sentences_g1", "sentence_vs_not_g1",
-            `Which is NOT a complete sentence?`, correct, wrong));
+            `Which is NOT a complete sentence?`, correct, wrong, rng));
         }
       }
       return q;
@@ -1047,7 +1048,7 @@ export const G1_Generators = {
           "imperative",
         ];
         q.push(createMCQ("sentences_g1", "declarative_interrogative_g1",
-          `What type of sentence is this? "${sent.text}"`, sent.type, wrong));
+          `What type of sentence is this? "${sent.text}"`, sent.type, wrong, rng));
       }
       return q;
     },
@@ -1078,12 +1079,12 @@ export const G1_Generators = {
           const correct = pick(imperativeData, rng);
           const wrong = shuffle(wrongImperative, rng).slice(0, 3);
           q.push(createMCQ("sentences_g1", "imperative_exclamatory_g1",
-            `Which is an IMPERATIVE sentence (a command)?`, correct, wrong));
+            `Which is an IMPERATIVE sentence (a command)?`, correct, wrong, rng));
         } else {
           const correct = pick(exclamatoryData, rng);
           const wrong = shuffle(wrongExclamatory, rng).slice(0, 3);
           q.push(createMCQ("sentences_g1", "imperative_exclamatory_g1",
-            `Which is an EXCLAMATORY sentence (shows strong feeling)?`, correct, wrong));
+            `Which is an EXCLAMATORY sentence (shows strong feeling)?`, correct, wrong, rng));
         }
       }
       return q;
@@ -1279,7 +1280,7 @@ export const G1_Generators = {
         const story = pick(stories, rng);
         const question = pick(story.questions, rng);
         q.push(createMCQ("reading_g1", "story_comprehension_g1",
-          question.q, question.correct, question.wrong));
+          question.q, question.correct, question.wrong, rng));
       }
       return q;
     },
@@ -1302,12 +1303,12 @@ export const G2_Generators = {
             const correct = pick(properNouns, rng);
             const wrong = shuffle(commonNouns, rng).slice(0, 3);
             q.push(createMCQ("pos_g2", "nouns_common_proper_g2",
-              `Which is a PROPER noun (needs a capital letter)?`, correct, wrong));
+              `Which is a PROPER noun (needs a capital letter)?`, correct, wrong, rng));
           } else {
             const correct = pick(commonNouns, rng);
             const wrong = shuffle(properNouns, rng).slice(0, 3);
             q.push(createMCQ("pos_g2", "nouns_common_proper_g2",
-              `Which is a COMMON noun (no capital letter needed)?`, correct, wrong));
+              `Which is a COMMON noun (no capital letter needed)?`, correct, wrong, rng));
           }
         } else {
           if (isProper) {
@@ -1350,7 +1351,7 @@ export const G2_Generators = {
             .slice(0, 2);
           wrong.push(singular + "s" === plural ? singular + "es" : singular + "s");
           q.push(createMCQ("pos_g2", "nouns_plural_g2",
-            `What is the PLURAL of '${singular}'?`, plural, wrong));
+            `What is the PLURAL of '${singular}'?`, plural, wrong, rng));
         } else {
           q.push(createTyping("pos_g2", "nouns_plural_g2",
             `Write the plural of '${singular}':`, plural));
@@ -1381,7 +1382,7 @@ export const G2_Generators = {
           const data = pick(collectiveData, rng);
           const wrong = collectiveData.filter(d => d.noun !== data.noun).map(d => d.noun).slice(0, 3);
           q.push(createMCQ("pos_g2", "collective_nouns_g2",
-            `Fill in: "${data.context}"`, data.noun, wrong));
+            `Fill in: "${data.context}"`, data.noun, wrong, rng));
         } else {
           const data = pick(collectiveData, rng);
           q.push(createTyping("pos_g2", "collective_nouns_g2",
@@ -1402,15 +1403,15 @@ export const G2_Generators = {
           if (qType < 0.33) {
             const verb = pick(actionVerbs, rng);
             const wrong = shuffle(notVerbs, rng).slice(0, 3);
-            q.push(createMCQ("pos_g2", "verbs_g2", "Which is an ACTION verb?", verb, wrong));
+            q.push(createMCQ("pos_g2", "verbs_g2", "Which is an ACTION verb?", verb, wrong, rng));
           } else if (qType < 0.66) {
             const verb = pick(linkingVerbs, rng);
             const wrong = shuffle(actionVerbs, rng).slice(0, 3);
-            q.push(createMCQ("pos_g2", "verbs_g2", "Which is a LINKING verb?", verb, wrong));
+            q.push(createMCQ("pos_g2", "verbs_g2", "Which is a LINKING verb?", verb, wrong, rng));
           } else {
             const verb = pick([...actionVerbs, ...linkingVerbs], rng);
             const wrong = shuffle(notVerbs, rng).slice(0, 3);
-            q.push(createMCQ("pos_g2", "verbs_g2", "Which word is a VERB?", verb, wrong));
+            q.push(createMCQ("pos_g2", "verbs_g2", "Which word is a VERB?", verb, wrong, rng));
           }
         } else {
           q.push(createTyping("pos_g2", "verbs_g2", "Write an action verb:", pick(actionVerbs, rng)));
@@ -1435,7 +1436,7 @@ export const G2_Generators = {
           const otherPasts = irregulars.filter(v => v[1] !== past).map(v => v[1]).slice(0, 2);
           const wrong = [wrongPast, ...otherPasts];
           q.push(createMCQ("pos_g2", "irregular_past_g2",
-            `What is the past tense of '${present}'?`, past, wrong));
+            `What is the past tense of '${present}'?`, past, wrong, rng));
         } else {
           q.push(createTyping("pos_g2", "irregular_past_g2",
             `Write the past tense of '${present}':`, past));
@@ -1464,17 +1465,17 @@ export const G2_Generators = {
             const adj = pick(adjectives, rng);
             const wrong = shuffle(notAdj, rng).slice(0, 3);
             q.push(createMCQ("pos_g2", "adj_adv_g2",
-              `Which word is an ADJECTIVE (describing word)?`, adj, wrong));
+              `Which word is an ADJECTIVE (describing word)?`, adj, wrong, rng));
           } else if (qType < 0.66) {
             const adv = pick(adverbs, rng);
             const wrong = shuffle(notAdv, rng).slice(0, 3);
             q.push(createMCQ("pos_g2", "adj_adv_g2",
-              `Which word is an ADVERB (tells how)?`, adv, wrong));
+              `Which word is an ADVERB (tells how)?`, adv, wrong, rng));
           } else {
             const pair = pick(adjAdvPairs, rng);
             const wrong = adjAdvPairs.filter(p => p.adv !== pair.adv).map(p => p.adv).slice(0, 3);
             q.push(createMCQ("pos_g2", "adj_adv_g2",
-              `What is the adverb form of '${pair.adj}'?`, pair.adv, wrong));
+              `What is the adverb form of '${pair.adj}'?`, pair.adv, wrong, rng));
           }
         } else {
           const pair = pick(adjAdvPairs, rng);
@@ -1511,11 +1512,11 @@ export const G2_Generators = {
             const wrong = pronounData.filter(p => p.pronoun !== pronSet.pronoun).map(p => p.pronoun).slice(0, 3);
             const sentence = pick(pronSet.sentences, rng);
             q.push(createMCQ("pos_g2", "pronouns_g2",
-              `Fill in: "${sentence}"`, pronSet.pronoun, wrong));
+              `Fill in: "${sentence}"`, pronSet.pronoun, wrong, rng));
           } else {
             const data = pick(subjectPronouns, rng);
             q.push(createMCQ("pos_g2", "pronouns_g2",
-              `Fill in: "${data.sentence}"`, data.pronoun, data.wrong));
+              `Fill in: "${data.sentence}"`, data.pronoun, data.wrong, rng));
           }
         } else {
           const pronSet = pick(pronounData, rng);
@@ -1541,7 +1542,7 @@ export const G2_Generators = {
         const data = pick(questionWords, rng);
         const wrong = shuffle(allWords.filter(w => w !== data.word), rng).slice(0, 3);
         q.push(createMCQ("pos_g2", "question_words_g2",
-          `Complete the question: "${data.example}"`, data.word, wrong));
+          `Complete the question: "${data.example}"`, data.word, wrong, rng));
       }
       return q;
     },
@@ -1582,7 +1583,7 @@ export const G2_Generators = {
         const data = pick(conjunctionData, rng);
         const wrong = shuffle(allConjunctions.filter(w => w !== data.word), rng).slice(0, 3);
         q.push(createMCQ("pos_g2", "conjunctions_g2",
-          `Complete: "${data.sentence}"`, data.word, wrong));
+          `Complete: "${data.sentence}"`, data.word, wrong, rng));
       }
       return q;
     },
@@ -1629,7 +1630,7 @@ export const G2_Generators = {
         const others = family.words.filter(w => w !== word);
         const wrong = shuffle(others, rng).slice(0, 3);
         q.push(createMCQ("pos_g2", "word_families_g2",
-          `Which word is in the family of '${family.root}'?`, pick(others, rng), wrong));
+          `Which word is in the family of '${family.root}'?`, pick(others, rng), wrong, rng));
       }
       return q;
     },
@@ -1670,7 +1671,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sentenceData, rng);
         q.push(createMCQ("pos_g2", "sentence_order_g2",
-          `Which word order is CORRECT?`, data.correct, data.wrong));
+          `Which word order is CORRECT?`, data.correct, data.wrong, rng));
       }
       return q;
     },
@@ -1728,7 +1729,7 @@ export const G2_Generators = {
             "run-on",
           ];
           q.push(createMCQ("sentences_g2", "simple_compound_g2",
-            `Is this a SIMPLE or COMPOUND sentence? "${sentSet.text}"`, sentSet.type, wrong));
+            `Is this a SIMPLE or COMPOUND sentence? "${sentSet.text}"`, sentSet.type, wrong, rng));
         } else {
           const sentSet = pick(sentenceData, rng);
           q.push(createTyping("sentences_g2", "simple_compound_g2",
@@ -1777,7 +1778,7 @@ export const G2_Generators = {
         if (isMCQ(2, rng)) {
           q.push(createMCQ("sentences_g2", "expanding_g2",
             `Which sentence is the MOST expanded (most descriptive) version of "${data.basic}"?`,
-            data.expanded, [data.basic, ...data.wrong.slice(0, 2)]));
+            data.expanded, [data.basic, ...data.wrong.slice(0, 2)], rng));
         } else {
           q.push(createTyping("sentences_g2", "expanding_g2",
             `Add details to expand this sentence: "${data.basic}" (write a longer version)`,
@@ -1815,7 +1816,7 @@ export const G2_Generators = {
         const wrong = shuffle(wrongPool, rng).map(w => w[1]).slice(0, 3);
         if (isMCQ(2, rng)) {
           q.push(createMCQ("spelling_g2", "vowel_patterns_g2",
-            `Which word has a ${isLong ? "LONG" : "SHORT"} '${vowel}' sound?`, correct[1], wrong));
+            `Which word has a ${isLong ? "LONG" : "SHORT"} '${vowel}' sound?`, correct[1], wrong, rng));
         } else {
           q.push(createTyping("spelling_g2", "vowel_patterns_g2",
             `Name a word with a ${isLong ? "LONG" : "SHORT"} '${vowel}' sound:`, correct[1]));
@@ -1841,7 +1842,7 @@ export const G2_Generators = {
         const wrong = allTeams.filter(t => t !== data.team).slice(0, 3);
         if (isMCQ(2, rng)) {
           q.push(createMCQ("spelling_g2", "vowel_teams_g2",
-            `What VOWEL TEAM do you see in '${word}'?`, data.team, wrong));
+            `What VOWEL TEAM do you see in '${word}'?`, data.team, wrong, rng));
         } else {
           q.push(createTyping("spelling_g2", "vowel_teams_g2",
             `What vowel team is in the word '${word}'?`, data.team));
@@ -1876,13 +1877,13 @@ export const G2_Generators = {
             wrong.push("after");
             q.push(createMCQ("spelling_g2", "prefixes_suffixes_g2",
               `What does the prefix '${data.prefix}' mean in '${pick(data.words, rng)}'?`,
-              data.meaning, wrong.slice(0, 3)));
+              data.meaning, wrong.slice(0, 3), rng));
           } else {
             const data = pick(suffixData, rng);
             const wrong = suffixData.filter(s => s.meaning !== data.meaning).map(s => s.meaning);
             q.push(createMCQ("spelling_g2", "prefixes_suffixes_g2",
               `What does the suffix '${data.suffix}' mean in '${pick(data.words, rng)}'?`,
-              data.meaning, wrong.slice(0, 3)));
+              data.meaning, wrong.slice(0, 3), rng));
           }
         } else {
           if (isPrefix) {
@@ -1932,7 +1933,7 @@ export const G2_Generators = {
             .slice(0, 3);
           q.push(createMCQ("spelling_g2", "irregular_spelling_g2",
             `Which is the CORRECT spelling? The sentence says: "${data.sentence}"`,
-            data.correct, wrong));
+            data.correct, wrong, rng));
         } else {
           q.push(createTyping("spelling_g2", "irregular_spelling_g2",
             `Correct the underlined misspelling: "${data.sentence}"`, data.correct));
@@ -1971,12 +1972,12 @@ export const G2_Generators = {
             const wrong = data.words.filter(w => w !== data.strongest);
             wrong.push("okay");
             q.push(createMCQ("vocab_g2", "shades_of_meaning_g2",
-              `Which word has the STRONGEST meaning?`, data.strongest, wrong.slice(0, 3)));
+              `Which word has the STRONGEST meaning?`, data.strongest, wrong.slice(0, 3), rng));
           } else {
             const wrong = data.words.filter(w => w !== data.weakest);
             wrong.push("extremely");
             q.push(createMCQ("vocab_g2", "shades_of_meaning_g2",
-              `Which word has the WEAKEST meaning?`, data.weakest, wrong.slice(0, 3)));
+              `Which word has the WEAKEST meaning?`, data.weakest, wrong.slice(0, 3), rng));
           }
         } else {
           if (askStrongest) {
@@ -2014,7 +2015,7 @@ export const G2_Generators = {
         const data = pick(sentenceData, rng);
         if (isMCQ(2, rng)) {
           q.push(createMCQ("vocab_g2", "context_clues_g2",
-            `"${data.sentence}" What does '${data.word}' mean?`, data.answer, data.wrong));
+            `"${data.sentence}" What does '${data.word}' mean?`, data.answer, data.wrong, rng));
         } else {
           q.push(createTyping("vocab_g2", "context_clues_g2",
             `"${data.sentence}" What does '${data.word}' mean?`, data.answer));
@@ -2059,20 +2060,20 @@ export const G2_Generators = {
             const wrongDefs = wordData.filter(w => w.word !== data.word).map(w => w.def1).slice(0, 3);
             q.push(createMCQ("vocab_g2", "dictionary_g2",
               `The word '${data.word}' has more than one meaning. Which is one of them?`,
-              data.def1, wrongDefs));
+              data.def1, wrongDefs, rng));
           } else if (qType < 0.7) {
             // ABC order
             const data = pick(abcOrderData, rng);
             const wrong = data.words.filter(w => w !== data.first);
             wrong.push("zzz");
             q.push(createMCQ("vocab_g2", "dictionary_g2",
-              `${data.question} ${data.words.join(", ")}`, data.first, wrong.slice(0, 3)));
+              `${data.question} ${data.words.join(", ")}`, data.first, wrong.slice(0, 3), rng));
           } else {
             // Guide words
             const data = pick(wordData, rng);
             q.push(createMCQ("vocab_g2", "dictionary_g2",
               `How many different meanings does '${data.word}' have?`,
-              "2 or more", ["exactly 1", "none", "only letters"]));
+              "2 or more", ["exactly 1", "none", "only letters"], rng));
           }
         } else {
           if (qType < 0.5) {
@@ -2168,7 +2169,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const item = pick(clothingItems, rng);
         const wrong = shuffle(wrongItems, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "clothing_g2", `Which is a piece of clothing?`, item, wrong));
+        q.push(createMCQ("vocab_g2", "clothing_g2", `Which is a piece of clothing?`, item, wrong, rng));
       }
       return q;
     },
@@ -2220,7 +2221,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const clue = pick(weatherClues, rng);
         const wrong = shuffle(wrongItems, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "weather_g2", clue.clue + ":", clue.answer, wrong));
+        q.push(createMCQ("vocab_g2", "weather_g2", clue.clue + ":", clue.answer, wrong, rng));
       }
       return q;
     },
@@ -2259,7 +2260,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(seasonData, rng);
         const wrong = shuffle(wrongSeasons, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "seasons_g2", data.clue + ":", data.season, wrong));
+        q.push(createMCQ("vocab_g2", "seasons_g2", data.clue + ":", data.season, wrong, rng));
       }
       return q;
     },
@@ -2305,7 +2306,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(timeClues, rng);
         const wrong = shuffle(wrongTimes, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "time_of_day_g2", data.clue + ":", data.time, wrong));
+        q.push(createMCQ("vocab_g2", "time_of_day_g2", data.clue + ":", data.time, wrong, rng));
       }
       return q;
     },
@@ -2351,7 +2352,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(jobClues, rng);
         const wrong = shuffle(wrongJobs, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "jobs_g2", data.clue + ":", data.job, wrong));
+        q.push(createMCQ("vocab_g2", "jobs_g2", data.clue + ":", data.job, wrong, rng));
       }
       return q;
     },
@@ -2399,7 +2400,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const pair = pick(oppositePairs, rng);
         const wrong = shuffle(allOpposites.filter(o => o !== pair.opposite), rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "opposites_g2", `What is the opposite of '${pair.word}'?`, pair.opposite, wrong));
+        q.push(createMCQ("vocab_g2", "opposites_g2", `What is the opposite of '${pair.word}'?`, pair.opposite, wrong, rng));
       }
       return q;
     },
@@ -2450,7 +2451,7 @@ export const G2_Generators = {
         const set = pick(synonymSets, rng);
         const synonym = pick(set.synonyms, rng);
         const wrong = shuffle(wrongWords, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "synonyms_g2", `Which word means almost the same as '${set.word}'?`, synonym, wrong));
+        q.push(createMCQ("vocab_g2", "synonyms_g2", `Which word means almost the same as '${set.word}'?`, synonym, wrong, rng));
       }
       return q;
     },
@@ -2499,7 +2500,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(locationClues, rng);
         const wrong = shuffle(wrongLocations, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "locations_g2", `Complete: "${data.clue}"`, data.location, wrong));
+        q.push(createMCQ("vocab_g2", "locations_g2", `Complete: "${data.clue}"`, data.location, wrong, rng));
       }
       return q;
     },
@@ -2545,7 +2546,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(routineClues, rng);
         const wrong = shuffle(wrongActivities, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "daily_routine_g2", data.clue + ":", data.activity, wrong));
+        q.push(createMCQ("vocab_g2", "daily_routine_g2", data.clue + ":", data.activity, wrong, rng));
       }
       return q;
     },
@@ -2591,7 +2592,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(roomClues, rng);
         const wrong = shuffle(wrongRooms, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "house_rooms_g2", data.clue + ":", data.room, wrong));
+        q.push(createMCQ("vocab_g2", "house_rooms_g2", data.clue + ":", data.room, wrong, rng));
       }
       return q;
     },
@@ -2635,7 +2636,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(hobbyClues, rng);
         const wrong = shuffle(wrongHobbies, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "hobbies_sports_g2", data.clue + ":", data.hobby, wrong));
+        q.push(createMCQ("vocab_g2", "hobbies_sports_g2", data.clue + ":", data.hobby, wrong, rng));
       }
       return q;
     },
@@ -2679,7 +2680,7 @@ export const G2_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(placeClues, rng);
         const wrong = shuffle(wrongPlaces, rng).slice(0, 3);
-        q.push(createMCQ("vocab_g2", "community_g2", data.clue + ":", data.place, wrong));
+        q.push(createMCQ("vocab_g2", "community_g2", data.clue + ":", data.place, wrong, rng));
       }
       return q;
     },
@@ -2731,7 +2732,7 @@ export const G3_Generators = {
         const [sing, plur] = pick(allPairs, rng);
         if (isMCQ(3, rng)) {
           const wrong = allPairs.filter(p => p[0] !== sing).map(p => p[1]).slice(0, 3);
-          q.push(createMCQ("pos_g3", "nouns_plural_g3", `What is the plural of '${sing}'?`, plur, wrong));
+          q.push(createMCQ("pos_g3", "nouns_plural_g3", `What is the plural of '${sing}'?`, plur, wrong, rng));
         } else {
           q.push(createTyping("pos_g3", "nouns_plural_g3", `Write the plural of '${sing}':`, plur));
         }
@@ -2748,7 +2749,7 @@ export const G3_Generators = {
           const abstract = pick(abstractNouns, rng);
           const wrong = shuffle(concreteNouns, rng).slice(0, 3);
           q.push(createMCQ("pos_g3", "abstract_nouns_g3",
-            "Which is an ABSTRACT noun (something you cannot touch or see)?", abstract, wrong));
+            "Which is an ABSTRACT noun (something you cannot touch or see)?", abstract, wrong, rng));
         } else {
           q.push(createTyping("pos_g3", "abstract_nouns_g3",
             "Name an abstract noun (an idea, feeling, or quality):", pick(abstractNouns, rng)));
@@ -2787,7 +2788,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           const wrongTenses = (["past", "future", "present"] as const).filter(t => t !== tenseKey).map(t => verbSet[t]);
           q.push(createMCQ("pos_g3", "verb_tenses_g3",
-            `Which is the ${tenseLabels[tenseKey]} tense of '${verbSet.verb}'?`, tenseValue, wrongTenses));
+            `Which is the ${tenseLabels[tenseKey]} tense of '${verbSet.verb}'?`, tenseValue, wrongTenses, rng));
         } else {
           q.push(createTyping("pos_g3", "verb_tenses_g3",
             `Write the ${tenseKey} tense of '${verbSet.verb}':`, tenseValue));
@@ -2820,7 +2821,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           const otherForm = formType === "comparative" ? adjSet.superlative : adjSet.comparative;
           q.push(createMCQ("pos_g3", "adj_comparative_g3",
-            `Which is the ${formLabel} form of '${adjSet.adj}'?`, formValue, [otherForm, adjSet.adj, "more " + adjSet.adj]));
+            `Which is the ${formLabel} form of '${adjSet.adj}'?`, formValue, [otherForm, adjSet.adj, "more " + adjSet.adj], rng));
         } else {
           q.push(createTyping("pos_g3", "adj_comparative_g3",
             `Write the ${formType} form of '${adjSet.adj}':`, formValue));
@@ -2849,7 +2850,7 @@ export const G3_Generators = {
           const advSet = pick(advData, rng);
           const wrong = advData.filter(a => a.adverb !== advSet.adverb).map(a => a.adverb).slice(0, 3);
           q.push(createMCQ("pos_g3", "adverbs_g3",
-            `Fill in with the correct adverb: "${advSet.sentence}"`, advSet.adverb, wrong));
+            `Fill in with the correct adverb: "${advSet.sentence}"`, advSet.adverb, wrong, rng));
         } else {
           const advSet = pick(howAdverbs, rng);
           q.push(createTyping("pos_g3", "adverbs_g3",
@@ -2876,7 +2877,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           const wrong = allConjs.filter(c => c !== data.conj).slice(0, 3);
           q.push(createMCQ("pos_g3", "conjunctions_g3",
-            `Fill in: "${data.sentence}"`, data.conj, wrong));
+            `Fill in: "${data.sentence}"`, data.conj, wrong, rng));
         } else {
           q.push(createTyping("pos_g3", "conjunctions_g3",
             `Which conjunction completes: "${data.sentence}"`, data.conj));
@@ -3020,11 +3021,11 @@ export const G3_Generators = {
           if (askSubject) {
             q.push(createMCQ("sentences_g3", "subject_predicate_g3",
               `In '${data.sentence}', what is the SUBJECT?`, data.subject,
-              [data.predicate, sentenceData.filter(s => s !== data).map(s => s.subject)[0], sentenceData.filter(s => s !== data).map(s => s.subject)[1]]));
+              [data.predicate, sentenceData.filter(s => s !== data).map(s => s.subject)[0], sentenceData.filter(s => s !== data).map(s => s.subject)[1]], rng));
           } else {
             q.push(createMCQ("sentences_g3", "subject_predicate_g3",
               `In '${data.sentence}', what is the PREDICATE?`, data.predicate,
-              [data.subject, sentenceData.filter(s => s !== data).map(s => s.predicate)[0], sentenceData.filter(s => s !== data).map(s => s.predicate)[1]]));
+              [data.subject, sentenceData.filter(s => s !== data).map(s => s.predicate)[0], sentenceData.filter(s => s !== data).map(s => s.predicate)[1]], rng));
           }
         } else {
           if (askSubject) {
@@ -3058,7 +3059,7 @@ export const G3_Generators = {
           const wrong = sentenceData.filter(s => s.type !== sentSet.type).map(s => s.text).slice(0, 3);
           const typeLabel = sentSet.type === "simple" ? "SIMPLE" : "COMPOUND";
           q.push(createMCQ("sentences_g3", "simple_compound_g3",
-            `Which is a ${typeLabel} sentence?`, sentSet.text, wrong));
+            `Which is a ${typeLabel} sentence?`, sentSet.text, wrong, rng));
         } else {
           q.push(createTyping("sentences_g3", "simple_compound_g3",
             `Is this simple or compound? '${sentSet.text}'`, sentSet.type));
@@ -3081,7 +3082,7 @@ export const G3_Generators = {
         const data = pick(quoteData, rng);
         if (isMCQ(3, rng)) {
           q.push(createMCQ("sentences_g3", "direct_quotations_g3",
-            "Which sentence correctly uses quotation marks?", data.correct, data.wrong));
+            "Which sentence correctly uses quotation marks?", data.correct, data.wrong, rng));
         } else {
           const speakers = ["she said", "he asked", "Mom yelled", "the teacher replied"];
           const words = ["Hello", "Stop", "Come back", "Wait for me"];
@@ -3115,7 +3116,7 @@ export const G3_Generators = {
           const wrong = sentenceTypes.filter(s => s.type !== data.type).map(s => s.text).slice(0, 3);
           const typeLabel = data.type === "fragment" ? "FRAGMENT" : data.type === "run-on" ? "RUN-ON" : "COMPLETE";
           q.push(createMCQ("sentences_g3", "fragments_runons_g3",
-            `Which is a ${typeLabel} sentence?`, data.text, wrong));
+            `Which is a ${typeLabel} sentence?`, data.text, wrong, rng));
         } else {
           q.push(createTyping("sentences_g3", "fragments_runons_g3",
             `Is this a fragment, run-on, or complete sentence? '${data.text}'`, data.type));
@@ -3222,7 +3223,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           const wrong = prefixData.filter(p => p.prefix !== prefixSet.prefix).map(p => p.meaning).slice(0, 3);
           q.push(createMCQ("spelling_g3", "prefixes_g3",
-            `What does the prefix '${prefixSet.prefix}' mean in '${example}'?`, prefixSet.meaning, wrong));
+            `What does the prefix '${prefixSet.prefix}' mean in '${example}'?`, prefixSet.meaning, wrong, rng));
         } else {
           q.push(createTyping("spelling_g3", "prefixes_g3",
             `What does the prefix '${prefixSet.prefix}' mean?`, prefixSet.meaning));
@@ -3247,7 +3248,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           const wrong = suffixData.filter(s => s.suffix !== suffixSet.suffix).map(s => s.meaning).slice(0, 3);
           q.push(createMCQ("spelling_g3", "suffixes_g3",
-            `What does the suffix '${suffixSet.suffix}' mean in '${example}'?`, suffixSet.meaning, wrong));
+            `What does the suffix '${suffixSet.suffix}' mean in '${example}'?`, suffixSet.meaning, wrong, rng));
         } else {
           q.push(createTyping("spelling_g3", "suffixes_g3",
             `What does the suffix '${suffixSet.suffix}' mean?`, suffixSet.meaning));
@@ -3276,7 +3277,7 @@ export const G3_Generators = {
           const correct = pick(otherWords, rng);
           const wrong = familyData.filter(f => f.root !== familySet.root).map(f => pick(f.related, rng)).slice(0, 3);
           q.push(createMCQ("spelling_g3", "word_families_g3",
-            `Which word belongs in the same WORD FAMILY as '${word}'?`, correct, wrong));
+            `Which word belongs in the same WORD FAMILY as '${word}'?`, correct, wrong, rng));
         } else {
           q.push(createTyping("spelling_g3", "word_families_g3",
             `Name another word in the family of '${familySet.root}':`, pick(familySet.related.filter(w => w !== familySet.root), rng)));
@@ -3305,7 +3306,7 @@ export const G3_Generators = {
         const homoSet = pick(homophoneData, rng);
         if (isMCQ(3, rng)) {
           q.push(createMCQ("spelling_g3", "homophones_g3",
-            `Fill in: "${homoSet.sentence}"`, homoSet.correct, homoSet.wrong));
+            `Fill in: "${homoSet.sentence}"`, homoSet.correct, homoSet.wrong, rng));
         } else {
           q.push(createTyping("spelling_g3", "homophones_g3",
             `Fill in: "${homoSet.sentence}"`, homoSet.correct));
@@ -3414,7 +3415,7 @@ export const G3_Generators = {
         if (isMCQ(3, rng)) {
           q.push(createMCQ("vocab_g3", "literal_nonliteral_g3",
             `What does this phrase REALLY mean? '${data.phrase}'`,
-            data.nonliteral, [data.literal, "Nobody knows", "It has no meaning"]));
+            data.nonliteral, [data.literal, "Nobody knows", "It has no meaning"], rng));
         } else {
           q.push(createTyping("vocab_g3", "literal_nonliteral_g3",
             `What is the nonliteral meaning of '${data.phrase}'`, data.nonliteral));
@@ -3451,7 +3452,7 @@ export const G3_Generators = {
           if (isMCQ(3, rng)) {
             q.push(createMCQ("vocab_g3", "word_relationships_g3",
               `Which word does NOT belong in the group: ${items.join(", ")}?`,
-              cat.oddOne, cat.words.slice(0, 3)));
+              cat.oddOne, cat.words.slice(0, 3), rng));
           } else {
             q.push(createTyping("vocab_g3", "word_relationships_g3",
               `Which word does NOT belong? ${items.join(", ")}`, cat.oddOne));
@@ -3464,7 +3465,7 @@ export const G3_Generators = {
           if (isMCQ(3, rng)) {
             const wrong = synonymData.filter(s => s.word !== pair.word).map(s => isAntonym ? s.antonym : s.synonym).slice(0, 3);
             q.push(createMCQ("vocab_g3", "word_relationships_g3",
-              `What is a ${label} of '${pair.word}'?`, answer, wrong));
+              `What is a ${label} of '${pair.word}'?`, answer, wrong, rng));
           } else {
             q.push(createTyping("vocab_g3", "word_relationships_g3",
               `Write a ${label.toLowerCase()} of '${pair.word}':`, answer));
@@ -3489,7 +3490,7 @@ export const G3_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(refData, rng);
         if (isMCQ(3, rng)) {
-          q.push(createMCQ("vocab_g3", "glossaries_g3", data.q, data.a, data.wrong));
+          q.push(createMCQ("vocab_g3", "glossaries_g3", data.q, data.a, data.wrong, rng));
         } else {
           q.push(createTyping("vocab_g3", "glossaries_g3", data.q, data.a));
         }
@@ -3620,7 +3621,7 @@ export const G3_Generators = {
         const vocab = pick(natureVocab, rng);
         const wrong = shuffle(natureVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "nature_g3",
-          `What is a '${vocab.word}'?`, vocab.definition, wrong));
+          `What is a '${vocab.word}'?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3662,7 +3663,7 @@ export const G3_Generators = {
         const vocab = pick(travelVocab, rng);
         const wrong = shuffle(travelVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "travel_g3",
-          `What is '${vocab.word}' in travel?`, vocab.definition, wrong));
+          `What is '${vocab.word}' in travel?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3704,7 +3705,7 @@ export const G3_Generators = {
         const vocab = pick(healthVocab, rng);
         const wrong = shuffle(healthVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "health_g3",
-          `What is '${vocab.word}'?`, vocab.definition, wrong));
+          `What is '${vocab.word}'?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3746,7 +3747,7 @@ export const G3_Generators = {
         const vocab = pick(emotionVocab, rng);
         const wrong = shuffle(emotionVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "emotions_g3",
-          `What does '${vocab.word}' mean?`, vocab.definition, wrong));
+          `What does '${vocab.word}' mean?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3788,7 +3789,7 @@ export const G3_Generators = {
         const vocab = pick(envVocab, rng);
         const wrong = shuffle(envVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "environment_g3",
-          `What is '${vocab.word}'?`, vocab.definition, wrong));
+          `What is '${vocab.word}'?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3830,7 +3831,7 @@ export const G3_Generators = {
         const vocab = pick(techVocab, rng);
         const wrong = shuffle(techVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "technology_g3",
-          `What is a '${vocab.word}'?`, vocab.definition, wrong));
+          `What is a '${vocab.word}'?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3872,7 +3873,7 @@ export const G3_Generators = {
         const vocab = pick(foodVocab, rng);
         const wrong = shuffle(foodVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "food_cooking_g3",
-          `What is '${vocab.word}' in cooking?`, vocab.definition, wrong));
+          `What is '${vocab.word}' in cooking?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3914,7 +3915,7 @@ export const G3_Generators = {
         const vocab = pick(timeVocab, rng);
         const wrong = shuffle(timeVocab.filter(v => v.word !== vocab.word), rng).map(v => v.definition).slice(0, 3);
         q.push(createMCQ("vocab_g3", "time_dates_g3",
-          `What is '${vocab.word}'?`, vocab.definition, wrong));
+          `What is '${vocab.word}'?`, vocab.definition, wrong, rng));
       }
       return q;
     },
@@ -3975,7 +3976,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = allPronouns.filter(p => p !== data.pronoun).slice(0, 3);
           q.push(createMCQ("pos_g4", "relative_pronouns_g4",
-            `Which relative pronoun fits: '${data.sentence}'`, data.pronoun, wrong));
+            `Which relative pronoun fits: '${data.sentence}'`, data.pronoun, wrong, rng));
         } else {
           q.push(createTyping("pos_g4", "relative_pronouns_g4",
             `Fill in the relative pronoun: '${data.sentence}'`, data.pronoun));
@@ -4008,7 +4009,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = [...allAdverbs.filter(a => a !== data.adverb), "how"];
           q.push(createMCQ("pos_g4", "relative_adverbs_g4",
-            `Which relative adverb fits: '${data.sentence}'`, data.adverb, wrong));
+            `Which relative adverb fits: '${data.sentence}'`, data.adverb, wrong, rng));
         } else {
           q.push(createTyping("pos_g4", "relative_adverbs_g4",
             `Fill in the relative adverb: '${data.sentence}'`, data.adverb));
@@ -4036,7 +4037,7 @@ export const G4_Generators = {
           const sentence = pick(modalSet.sentences, rng);
           const wrong = allModals.filter(m => m !== modalSet.modal).slice(0, 3);
           q.push(createMCQ("pos_g4", "modal_aux_g4",
-            `Fill in: "${sentence}"`, modalSet.modal, wrong));
+            `Fill in: "${sentence}"`, modalSet.modal, wrong, rng));
         } else {
           q.push(createTyping("pos_g4", "modal_aux_g4",
             `Name a modal auxiliary verb that expresses ${modalSet.meaning}:`, modalSet.modal));
@@ -4078,7 +4079,7 @@ export const G4_Generators = {
           const wrong = tenseContexts.filter(t => t.key !== tenseInfo.key).map(t => verbSet[t.key]);
           wrong.push(verbSet.verb);
           q.push(createMCQ("pos_g4", "progressive_tenses_g4",
-            `What is the ${tenseInfo.tense} of '${verbSet.verb}'?`, answer, wrong.slice(0, 3)));
+            `What is the ${tenseInfo.tense} of '${verbSet.verb}'?`, answer, wrong.slice(0, 3), rng));
         } else {
           q.push(createTyping("pos_g4", "progressive_tenses_g4",
             `Write the ${tenseInfo.tense} of '${verbSet.verb}':`, answer));
@@ -4110,7 +4111,7 @@ export const G4_Generators = {
         const order = pick(orders, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("pos_g4", "adjective_order_g4",
-            "Which phrase has adjectives in the CORRECT order?", order.correct, order.wrong));
+            "Which phrase has adjectives in the CORRECT order?", order.correct, order.wrong, rng));
         } else {
           q.push(createTyping("pos_g4", "adjective_order_g4",
             `Rearrange the adjectives correctly: '${pick(order.wrong, rng)}'`, order.correct));
@@ -4148,7 +4149,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = prepData.filter(p => p.phrase !== data.phrase).map(p => p.phrase).slice(0, 3);
           q.push(createMCQ("pos_g4", "prep_phrases_g4",
-            `Which is the PREPOSITIONAL PHRASE in: '${data.sentence}'`, data.phrase, wrong));
+            `Which is the PREPOSITIONAL PHRASE in: '${data.sentence}'`, data.phrase, wrong, rng));
         } else {
           q.push(createTyping("pos_g4", "prep_phrases_g4",
             `What is the prepositional phrase in: '${data.sentence}'`, data.phrase));
@@ -4189,7 +4190,7 @@ export const G4_Generators = {
           const typeLabel = data.type === "fragment" ? "FRAGMENT" : data.type === "run-on" ? "RUN-ON" : "COMPLETE";
           const wrong = sentenceTypes.filter(s => s.type !== data.type).map(s => s.text).slice(0, 3);
           q.push(createMCQ("sentences_g4", "fragments_runons_g4",
-            `Which is a ${typeLabel} sentence?`, data.text, wrong));
+            `Which is a ${typeLabel} sentence?`, data.text, wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "fragments_runons_g4",
             `Is this a fragment, run-on, or complete sentence? '${data.text}'`, data.type));
@@ -4216,7 +4217,7 @@ export const G4_Generators = {
         const data = pick(sentenceData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("sentences_g4", "compound_sentences_g4",
-            "Which COMPOUND sentence is punctuated correctly?", data.correct, data.wrong));
+            "Which COMPOUND sentence is punctuated correctly?", data.correct, data.wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "compound_sentences_g4",
             `Add the correct punctuation: '${data.wrong[0]}'`, data.correct));
@@ -4240,7 +4241,7 @@ export const G4_Generators = {
         const data = pick(speechData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("sentences_g4", "direct_speech_g4",
-            "Which sentence correctly punctuates DIRECT SPEECH?", data.correct, data.wrong));
+            "Which sentence correctly punctuates DIRECT SPEECH?", data.correct, data.wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "direct_speech_g4",
             `Add quotation marks to: ${data.wrong[0]}`, data.correct));
@@ -4277,7 +4278,7 @@ export const G4_Generators = {
         const data = pick(confusedData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("sentences_g4", "confused_words_g4",
-            `Fill in: "${data.sentence}"`, data.correct, data.wrong));
+            `Fill in: "${data.sentence}"`, data.correct, data.wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "confused_words_g4",
             `Fill in the correct word: "${data.sentence}"`, data.correct));
@@ -4310,7 +4311,7 @@ export const G4_Generators = {
           const others = shuffle(sentenceData.filter(s => s !== sent), rng).slice(0, 2);
           q.push(createMCQ("spelling_g4", "capitalization_g4",
             "Which sentence has CORRECT capitalization?", sent.correct,
-            [sent.wrong, others[0].wrong, others[1].correct]));
+            [sent.wrong, others[0].wrong, others[1].correct], rng));
         } else {
           q.push(createTyping("spelling_g4", "capitalization_g4",
             `Fix the capitalization: '${sent.wrong}'`, sent.correct));
@@ -4337,7 +4338,7 @@ export const G4_Generators = {
         const data = pick(commaData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("spelling_g4", "commas_compound_g4",
-            "Which sentence uses commas CORRECTLY in a compound sentence?", data.correct, data.wrong));
+            "Which sentence uses commas CORRECTLY in a compound sentence?", data.correct, data.wrong, rng));
         } else {
           q.push(createTyping("spelling_g4", "commas_compound_g4",
             `Add the missing comma: '${data.wrong[0]}'`, data.correct));
@@ -4376,7 +4377,7 @@ export const G4_Generators = {
         const data = pick(spellingData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("spelling_g4", "spelling_g4",
-            "Which word is spelled CORRECTLY?", data.correct, data.wrong));
+            "Which word is spelled CORRECTLY?", data.correct, data.wrong, rng));
         } else {
           const misspelled = pick(data.wrong, rng);
           q.push(createTyping("spelling_g4", "spelling_g4",
@@ -4421,11 +4422,11 @@ export const G4_Generators = {
           if (isAntonym) {
             const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
             q.push(createMCQ("vocab_g4", "synonyms_antonyms_g4",
-              `What is an ANTONYM (opposite) of '${wordSet.word}'?`, wordSet.antonym, wrong));
+              `What is an ANTONYM (opposite) of '${wordSet.word}'?`, wordSet.antonym, wrong, rng));
           } else {
             const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
             q.push(createMCQ("vocab_g4", "synonyms_antonyms_g4",
-              `What is a SYNONYM (similar meaning) of '${wordSet.word}'?`, wordSet.synonym, wrong));
+              `What is a SYNONYM (similar meaning) of '${wordSet.word}'?`, wordSet.synonym, wrong, rng));
           }
         } else {
           const answer = isAntonym ? wordSet.antonym : wordSet.synonym;
@@ -4466,7 +4467,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = ["hyperbole", "alliteration", "personification"];
           q.push(createMCQ("vocab_g4", "similes_metaphors_g4",
-            `Is this a SIMILE or METAPHOR? '${data.text}'`, data.type, wrong));
+            `Is this a SIMILE or METAPHOR? '${data.text}'`, data.type, wrong, rng));
         } else {
           q.push(createTyping("vocab_g4", "similes_metaphors_g4",
             `Is this a simile or metaphor? '${data.text}'`, data.type));
@@ -4498,7 +4499,7 @@ export const G4_Generators = {
         const data = pick(clueData, rng);
         if (isMCQ(4, rng)) {
           q.push(createMCQ("vocab_g4", "context_clues_g4",
-            `'${data.sentence}' What does '${data.word}' mean?`, data.answer, data.wrong));
+            `'${data.sentence}' What does '${data.word}' mean?`, data.answer, data.wrong, rng));
         } else {
           q.push(createTyping("vocab_g4", "context_clues_g4",
             `What does '${data.word}' mean in: '${data.sentence}'`, data.answer));
@@ -4529,7 +4530,7 @@ export const G4_Generators = {
           // Ask about domain
           if (isMCQ(4, rng)) {
             q.push(createMCQ("vocab_g4", "domain_vocab_g4",
-              `Which subject does the word '${data.word}' belong to?`, data.domain, data.wrong));
+              `Which subject does the word '${data.word}' belong to?`, data.domain, data.wrong, rng));
           } else {
             q.push(createTyping("vocab_g4", "domain_vocab_g4",
               `Which subject uses the word '${data.word}'?`, data.domain));
@@ -4539,7 +4540,7 @@ export const G4_Generators = {
           if (isMCQ(4, rng)) {
             const wrongMeanings = domainData.filter(d => d.word !== data.word).map(d => d.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g4", "domain_vocab_g4",
-              `What does '${data.word}' mean in ${data.domain}?`, data.meaning, wrongMeanings));
+              `What does '${data.word}' mean in ${data.domain}?`, data.meaning, wrongMeanings, rng));
           } else {
             q.push(createTyping("vocab_g4", "domain_vocab_g4",
               `What does '${data.word}' mean?`, data.meaning));
@@ -4569,7 +4570,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = allTypes.filter(t => t !== data.type);
           q.push(createMCQ("sentences_g4", "sentence_types_g4",
-            `What type is this sentence? '${data.sentence}'`, data.type, wrong));
+            `What type is this sentence? '${data.sentence}'`, data.type, wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "sentence_types_g4",
             `Identify the type of this sentence: '${data.sentence}'`, data.type));
@@ -4596,7 +4597,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const wrong = allElements.filter(e => e !== data.element).slice(0, 3);
           q.push(createMCQ("sentences_g4", "paragraph_elements_g4",
-            `Which is a paragraph element that ${data.definition}?`, data.element, wrong));
+            `Which is a paragraph element that ${data.definition}?`, data.element, wrong, rng));
         } else {
           q.push(createTyping("sentences_g4", "paragraph_elements_g4",
             `What is a '${data.element}'?`, data.element));
@@ -4620,7 +4621,7 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const options = shuffle([...data.options], rng);
           q.push(createMCQ("spelling_g4", "dialogue_punctuation_g4",
-            "Which dialogue is punctuated correctly?", data.correct, options.filter(o => o !== data.correct)));
+            "Which dialogue is punctuated correctly?", data.correct, options.filter(o => o !== data.correct), rng));
         } else {
           q.push(createTyping("spelling_g4", "dialogue_punctuation_g4",
             "Punctuate correctly: I love this song said Maria", data.correct));
@@ -4897,7 +4898,7 @@ export const G4_Generators = {
         const idiom = pick(idiomData, rng);
         const wrong = idiomData.filter(id => id.idiom !== idiom.idiom).map(id => id.meaning).slice(0, 3);
         q.push(createMCQ("vocab_g4", "idioms_g4",
-          `What does '${idiom.idiom}' mean?`, idiom.meaning, wrong));
+          `What does '${idiom.idiom}' mean?`, idiom.meaning, wrong, rng));
       }
       return q;
     },
@@ -4937,7 +4938,7 @@ export const G4_Generators = {
         const trans = pick(transData, rng);
         const wrong = transData.filter(t => t.word !== trans.word).map(t => t.word).slice(0, 3);
         q.push(createMCQ("vocab_g4", "transition_words_g4",
-          `Choose the best transition word for: "${trans.use}"`, trans.word, wrong));
+          `Choose the best transition word for: "${trans.use}"`, trans.word, wrong, rng));
       }
       return q;
     },
@@ -4975,7 +4976,7 @@ export const G4_Generators = {
         const sci = pick(sciData, rng);
         const wrong = sciData.filter(s => s.word !== sci.word).map(s => s.definition).slice(0, 3);
         q.push(createMCQ("vocab_g4", "science_vocab_g4",
-          `What is '${sci.word}'?`, sci.definition, wrong));
+          `What is '${sci.word}'?`, sci.definition, wrong, rng));
       }
       return q;
     },
@@ -5013,7 +5014,7 @@ export const G4_Generators = {
         const geo = pick(geoData, rng);
         const wrong = geoData.filter(g => g.word !== geo.word).map(g => g.definition).slice(0, 3);
         q.push(createMCQ("vocab_g4", "geography_g4",
-          `What is a '${geo.word}'?`, geo.definition, wrong));
+          `What is a '${geo.word}'?`, geo.definition, wrong, rng));
       }
       return q;
     },
@@ -5051,7 +5052,7 @@ export const G4_Generators = {
         const gov = pick(govData, rng);
         const wrong = govData.filter(g => g.word !== gov.word).map(g => g.definition).slice(0, 3);
         q.push(createMCQ("vocab_g4", "government_g4",
-          `What is a '${gov.word}'?`, gov.definition, wrong));
+          `What is a '${gov.word}'?`, gov.definition, wrong, rng));
       }
       return q;
     },
@@ -5089,7 +5090,7 @@ export const G4_Generators = {
         const pers = pick(persuadeData, rng);
         const wrong = persuadeData.filter(p => p.word !== pers.word).map(p => p.definition).slice(0, 3);
         q.push(createMCQ("vocab_g4", "persuasive_g4",
-          `What is a '${pers.word}' in writing?`, pers.definition, wrong));
+          `What is a '${pers.word}' in writing?`, pers.definition, wrong, rng));
       }
       return q;
     },
@@ -5126,7 +5127,7 @@ export const G4_Generators = {
       for (let i = 0; i < 20; i++) {
         const root = pick(rootData, rng);
         q.push(createMCQ("vocab_g4", "word_origins_g4",
-          `What does the root '${root.root}' mean? (${root.word})`, root.meaning, ["color", "shape", "size"]));
+          `What does the root '${root.root}' mean? (${root.word})`, root.meaning, ["color", "shape", "size"], rng));
       }
       return q;
     },
@@ -5164,7 +5165,7 @@ export const G4_Generators = {
         const fig = pick(figData, rng);
         const wrong = figData.filter(f => f.device !== fig.device).map(f => f.device).slice(0, 3);
         q.push(createMCQ("vocab_g4", "figurative_lang_g4",
-          `What figurative device is used? "${fig.example}"`, fig.device, wrong));
+          `What figurative device is used? "${fig.example}"`, fig.device, wrong, rng));
       }
       return q;
     },
@@ -5220,17 +5221,17 @@ export const G5_Generators = {
             const data = pick(subConj, rng);
             const wrong = subConj.filter(c => c.conj !== data.conj).map(c => c.conj).slice(0, 3);
             q.push(createMCQ("pos_g5", "conjunctions_g5",
-              `Which SUBORDINATING conjunction best fills the blank? "${data.sentence}"`, data.conj, wrong));
+              `Which SUBORDINATING conjunction best fills the blank? "${data.sentence}"`, data.conj, wrong, rng));
           } else if (variant === 1) {
             const data = pick(subConj, rng);
             q.push(createMCQ("pos_g5", "conjunctions_g5",
               `Is '${data.conj}' a coordinating or subordinating conjunction?`, "subordinating",
-              ["coordinating", "correlative", "adverbial"]));
+              ["coordinating", "correlative", "adverbial"], rng));
           } else {
             const coord = pick(coordConj, rng);
             q.push(createMCQ("pos_g5", "conjunctions_g5",
               `Is '${coord}' a coordinating or subordinating conjunction?`, "coordinating",
-              ["subordinating", "correlative", "preposition"]));
+              ["subordinating", "correlative", "preposition"], rng));
           }
         } else {
           if (variant === 0) {
@@ -5272,15 +5273,15 @@ export const G5_Generators = {
           const variant = Math.floor(rng() * 3);
           if (variant === 0) {
             q.push(createMCQ("pos_g5", "interjections_g5",
-              `Which word is an INTERJECTION? "${data.sentence}"`, data.word, data.wrong));
+              `Which word is an INTERJECTION? "${data.sentence}"`, data.word, data.wrong, rng));
           } else if (variant === 1) {
             q.push(createMCQ("pos_g5", "interjections_g5",
               `What emotion does the interjection '${data.word}!' express?`, data.emotion,
-              interjData.filter(d => d.word !== data.word).map(d => d.emotion).slice(0, 3)));
+              interjData.filter(d => d.word !== data.word).map(d => d.emotion).slice(0, 3), rng));
           } else {
             q.push(createMCQ("pos_g5", "interjections_g5",
               `Which interjection best fills the blank? "${data.sentence}"`, data.word,
-              interjData.filter(d => d.word !== data.word).map(d => d.word).slice(0, 3)));
+              interjData.filter(d => d.word !== data.word).map(d => d.word).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5333,17 +5334,17 @@ export const G5_Generators = {
             const data = pick(tenseData, rng);
             const wrong = allTenses.filter(t => t !== data.tense).slice(0, 3);
             q.push(createMCQ("pos_g5", "perfect_tenses_g5",
-              `What tense is used in: "${data.sentence}"?`, data.tense, wrong));
+              `What tense is used in: "${data.sentence}"?`, data.tense, wrong, rng));
           } else if (variant === 1) {
             const data = pick(tenseData, rng);
             q.push(createMCQ("pos_g5", "perfect_tenses_g5",
               `The ${data.tense} tense is formed with:`, data.helper,
-              ["was + verb", "will + verb", "verb + -ed", "is + verb + -ing"]));
+              ["was + verb", "will + verb", "verb + -ed", "is + verb + -ing"], rng));
           } else {
             const fb = pick(fillBlanks, rng);
             const wrong = fillBlanks.filter(f => f.answer !== fb.answer).map(f => f.answer).slice(0, 3);
             q.push(createMCQ("pos_g5", "perfect_tenses_g5",
-              `Fill in the correct form: "${fb.sentence}"`, fb.answer, wrong));
+              `Fill in the correct form: "${fb.sentence}"`, fb.answer, wrong, rng));
           }
         } else {
           if (variant === 0) {
@@ -5385,17 +5386,17 @@ export const G5_Generators = {
           if (rng() > 0.5) {
             q.push(createMCQ("pos_g5", "tense_shifts_g5",
               `Does this sentence have an INCORRECT tense shift? "${data.sentence}"`,
-              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"]));
+              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"], rng));
           } else if (data.hasShift) {
             const wrong = shiftData.filter(d => d.hasShift && d.fix !== data.fix).map(d => d.fix).slice(0, 2);
             wrong.push(data.sentence);
             q.push(createMCQ("pos_g5", "tense_shifts_g5",
-              `Which CORRECTLY fixes the tense shift? "${data.sentence}"`, data.fix, wrong));
+              `Which CORRECTLY fixes the tense shift? "${data.sentence}"`, data.fix, wrong, rng));
           } else {
             const shifted = pick(shiftData.filter(d => d.hasShift), rng);
             q.push(createMCQ("pos_g5", "tense_shifts_g5",
               "Which sentence has an INCORRECT tense shift?", shifted.sentence,
-              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3)));
+              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3), rng));
           }
         } else {
           if (data.hasShift) {
@@ -5430,15 +5431,15 @@ export const G5_Generators = {
           if (variant === 0) {
             const wrong = allPairs.filter(p => p !== data.pair).slice(0, 3);
             q.push(createMCQ("pos_g5", "correlative_conj_g5",
-              `Which correlative conjunction pair fills the blanks? "${data.sentence}"`, data.pair, wrong));
+              `Which correlative conjunction pair fills the blanks? "${data.sentence}"`, data.pair, wrong, rng));
           } else if (variant === 1) {
             q.push(createMCQ("pos_g5", "correlative_conj_g5",
               "Which is a CORRELATIVE conjunction pair?", data.pair,
-              ["because...so", "and...but", "if...then", "since...when"]));
+              ["because...so", "and...but", "if...then", "since...when"], rng));
           } else {
             q.push(createMCQ("pos_g5", "correlative_conj_g5",
               `What is the second part of '${data.first}...'?`, data.second,
-              corrData.filter(c => c.second !== data.second).map(c => c.second).slice(0, 3)));
+              corrData.filter(c => c.second !== data.second).map(c => c.second).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5480,14 +5481,14 @@ export const G5_Generators = {
           if (rng() > 0.5) {
             const wrong = allTypes.filter(t => t !== data.type).slice(0, 3);
             q.push(createMCQ("sentences_g5", "complex_sentences_g5",
-              `What type of sentence is this? "${data.sentence}"`, data.type, wrong));
+              `What type of sentence is this? "${data.sentence}"`, data.type, wrong, rng));
           } else {
             const complexOnly = sentenceTypes.filter(s => s.type === "complex");
             const notComplex = sentenceTypes.filter(s => s.type !== "complex");
             const correct = pick(complexOnly, rng);
             const wrongSents = shuffle(notComplex, rng).slice(0, 3).map(s => s.sentence);
             q.push(createMCQ("sentences_g5", "complex_sentences_g5",
-              "Which is a COMPLEX sentence?", correct.sentence, wrongSents));
+              "Which is a COMPLEX sentence?", correct.sentence, wrongSents, rng));
           }
         } else {
           q.push(createTyping("sentences_g5", "complex_sentences_g5",
@@ -5523,11 +5524,11 @@ export const G5_Generators = {
               "Which sentence correctly uses a comma after the introductory clause?",
               data.correct, [data.incorrect,
                 pick(introData.filter(d => d !== data), rng).incorrect,
-                pick(introData.filter(d => d !== data), rng).incorrect]));
+                pick(introData.filter(d => d !== data), rng).incorrect], rng));
           } else {
             q.push(createMCQ("sentences_g5", "intro_clauses_g5",
               `What is the introductory clause in: "${data.correct}"?`, data.intro,
-              introData.filter(d => d.intro !== data.intro).map(d => d.intro).slice(0, 3)));
+              introData.filter(d => d.intro !== data.intro).map(d => d.intro).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5564,7 +5565,7 @@ export const G5_Generators = {
         if (isMCQ(5, rng)) {
           const wrong = combineData.filter(c => c.combined !== data.combined).map(c => c.combined).slice(0, 3);
           q.push(createMCQ("sentences_g5", "combining_g5",
-            `Best way to combine: "${data.sent1}" + "${data.sent2}"?`, data.combined, wrong));
+            `Best way to combine: "${data.sent1}" + "${data.sent2}"?`, data.combined, wrong, rng));
         } else {
           q.push(createTyping("sentences_g5", "combining_g5",
             `Combine: "${data.sent1}" "${data.sent2}"`, data.combined));
@@ -5601,11 +5602,11 @@ export const G5_Generators = {
               "Which sentence uses commas correctly?", data.correct,
               [data.incorrect,
                 pick(commaRules.filter(r => r !== data), rng).incorrect,
-                pick(commaRules.filter(r => r !== data), rng).incorrect]));
+                pick(commaRules.filter(r => r !== data), rng).incorrect], rng));
           } else {
             q.push(createMCQ("spelling_g5", "commas_g5",
               `What comma rule applies in: "${data.correct}"?`, data.rule,
-              commaRules.filter(r => r.rule !== data.rule).map(r => r.rule).slice(0, 3)));
+              commaRules.filter(r => r.rule !== data.rule).map(r => r.rule).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5642,11 +5643,11 @@ export const G5_Generators = {
           if (rng() > 0.5) {
             q.push(createMCQ("spelling_g5", "titles_italics_g5",
               `How should a ${data.type} title be written?`, data.format,
-              ["in bold", "in all capitals", data.format === "italics or underline" ? "quotation marks" : "italics or underline", "in parentheses"]));
+              ["in bold", "in all capitals", data.format === "italics or underline" ? "quotation marks" : "italics or underline", "in parentheses"], rng));
           } else {
             q.push(createMCQ("spelling_g5", "titles_italics_g5",
               `'${data.title}' is a ${data.type}. How should it be formatted?`, data.format,
-              ["in bold", "in all capitals", "no special formatting", data.format === "italics or underline" ? "quotation marks" : "italics or underline"]));
+              ["in bold", "in all capitals", "no special formatting", data.format === "italics or underline" ? "quotation marks" : "italics or underline"], rng));
           }
         } else {
           q.push(createTyping("spelling_g5", "titles_italics_g5",
@@ -5688,18 +5689,18 @@ export const G5_Generators = {
             const data = pick(possessiveData, rng);
             const wrong = possessiveData.filter(d => d.possessive !== data.possessive).map(d => d.possessive).slice(0, 3);
             q.push(createMCQ("spelling_g5", "apostrophes_g5",
-              `What is the possessive form of '${data.noun}' (${data.type})?`, data.possessive, wrong));
+              `What is the possessive form of '${data.noun}' (${data.type})?`, data.possessive, wrong, rng));
           } else if (variant === 1) {
             const data = pick(contractionData, rng);
             q.push(createMCQ("spelling_g5", "apostrophes_g5",
               `Fill in: "${data.sentence}" (meaning: ${data.expansion})`, data.contraction,
-              [data.confused, "its'", "there"]));
+              [data.confused, "its'", "there"], rng));
           } else {
             const data = pick(possessiveData, rng);
             const wrongSentences = possessiveData.filter(d => d !== data).map(d =>
               d.example.replace(d.possessive, d.noun + "s")).slice(0, 3);
             q.push(createMCQ("spelling_g5", "apostrophes_g5",
-              "Which sentence uses the apostrophe correctly?", data.example, wrongSentences));
+              "Which sentence uses the apostrophe correctly?", data.example, wrongSentences, rng));
           }
         } else {
           if (variant === 0) {
@@ -5753,18 +5754,18 @@ export const G5_Generators = {
             q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
               "Which is spelled correctly?", data.correct,
               [data.wrong, pick(misspelledPairs.filter(m => m !== data), rng).wrong,
-                pick(misspelledPairs.filter(m => m !== data), rng).wrong]));
+                pick(misspelledPairs.filter(m => m !== data), rng).wrong], rng));
           } else if (variant === 1) {
             const data = pick(strategyData, rng);
             const example = pick(data.examples, rng);
             const wrong = strategyData.filter(s => s.rule !== data.rule).map(s => s.rule).slice(0, 3);
             q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
-              `Which spelling rule applies to '${example}'?`, data.rule, wrong));
+              `Which spelling rule applies to '${example}'?`, data.rule, wrong, rng));
           } else {
             const data = pick(misspelledPairs, rng);
             q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
               `What spelling rule helps with '${data.correct}'?`, data.rule,
-              misspelledPairs.filter(m => m.rule !== data.rule).map(m => m.rule).slice(0, 3)));
+              misspelledPairs.filter(m => m.rule !== data.rule).map(m => m.rule).slice(0, 3), rng));
           }
         } else {
           const data = pick(misspelledPairs, rng);
@@ -5809,15 +5810,15 @@ export const G5_Generators = {
           if (variant === 0) {
             const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
-              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong));
+              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong, rng));
           } else if (variant === 1) {
             const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
-              `Which root means '${data.meaning}'?`, data.root, wrong));
+              `Which root means '${data.meaning}'?`, data.root, wrong, rng));
           } else {
             const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
-              `What does the root in '${example}' mean?`, data.meaning, wrong));
+              `What does the root in '${example}' mean?`, data.meaning, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5859,15 +5860,15 @@ export const G5_Generators = {
           if (variant === 0) {
             const wrong = affixData.filter(a => a.meaning !== data.meaning).map(a => a.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
-              `What does the ${data.type} '${data.affix}' mean?`, data.meaning, wrong));
+              `What does the ${data.type} '${data.affix}' mean?`, data.meaning, wrong, rng));
           } else if (variant === 1) {
             const wrong = affixData.filter(a => a.def !== data.def).map(a => a.def).slice(0, 3);
             q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
-              `What does '${data.word}' mean?`, data.def, wrong));
+              `What does '${data.word}' mean?`, data.def, wrong, rng));
           } else {
             q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
               `Is '${data.affix}' a prefix or suffix?`, data.type,
-              [data.type === "prefix" ? "suffix" : "prefix", "root word", "conjunction"]));
+              [data.type === "prefix" ? "suffix" : "prefix", "root word", "conjunction"], rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -5926,12 +5927,12 @@ export const G5_Generators = {
             const data = pick(proverbData, rng);
             const wrong = proverbData.filter(p => p.meaning !== data.meaning).map(p => p.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g5", "figurative_language_g5",
-              `What does the proverb mean? "${data.proverb}"`, data.meaning, wrong));
+              `What does the proverb mean? "${data.proverb}"`, data.meaning, wrong, rng));
           } else {
             const data = pick(figData, rng);
             const wrong = allDevices.filter(d => d !== data.device).slice(0, 3);
             q.push(createMCQ("vocab_g5", "figurative_language_g5",
-              `What figurative device is used? "${data.phrase}"`, data.device, wrong));
+              `What figurative device is used? "${data.phrase}"`, data.device, wrong, rng));
           }
         } else {
           if (useProverb) {
@@ -5973,15 +5974,15 @@ export const G5_Generators = {
           if (variant === 0) {
             q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
               `Which word meaning '${data.denotation}' has a POSITIVE connotation?`, data.positive,
-              [data.negative, data.neutral, pick(wordSets.filter(w => w !== data), rng).negative]));
+              [data.negative, data.neutral, pick(wordSets.filter(w => w !== data), rng).negative], rng));
           } else if (variant === 1) {
             q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
               `Which word meaning '${data.denotation}' has a NEGATIVE connotation?`, data.negative,
-              [data.positive, data.neutral, pick(wordSets.filter(w => w !== data), rng).positive]));
+              [data.positive, data.neutral, pick(wordSets.filter(w => w !== data), rng).positive], rng));
           } else {
             q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
               `'${data.positive}' and '${data.negative}' both mean '${data.denotation}.' Which is more positive?`,
-              data.positive, [data.negative, "both are equal", "neither"]));
+              data.positive, [data.negative, "both are equal", "neither"], rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -6005,13 +6006,13 @@ export const G5_Generators = {
         if (variant === 0) {
           const correct = pick(subConj, rng);
           const wrong = subConj.filter(c => c !== correct).slice(0, 3);
-          q.push(createMCQ("pos_g5", "conjunctions_g5", `Which subordinating conjunction: "___it was cold, she went."`, correct, wrong));
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Which subordinating conjunction: "___it was cold, she went."`, correct, wrong, rng));
         } else if (variant === 1) {
           const correct = pick(subConj, rng);
-          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "subordinating", ["coordinating", "correlative", "adverbial"]));
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "subordinating", ["coordinating", "correlative", "adverbial"], rng));
         } else {
           const correct = pick(coordConj, rng);
-          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "coordinating", ["subordinating", "correlative", "preposition"]));
+          q.push(createMCQ("pos_g5", "conjunctions_g5", `Is '${correct}' coordinating or subordinating?`, "coordinating", ["subordinating", "correlative", "preposition"], rng));
         }
       }
       return q;
@@ -6026,7 +6027,7 @@ export const G5_Generators = {
       for (let i = 0; i < 30; i++) {
         const intj = pick(interjections, rng);
         const wrong = interjections.filter(j => j.word !== intj.word).map(j => j.word).slice(0, 3);
-        q.push(createMCQ("pos_g5", "interjections_g5",`Which interjection expresses '${intj.use}'?`, intj.word, wrong));
+        q.push(createMCQ("pos_g5", "interjections_g5",`Which interjection expresses '${intj.use}'?`, intj.word, wrong, rng));
       }
       return q;
     },
@@ -6041,7 +6042,7 @@ export const G5_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(perfectData, rng);
         const wrong = perfectData.filter(p => p.tense !== data.tense).map(p => p.example);
-        q.push(createMCQ("pos_g5", "perfect_tenses_g5", `Which perfect tense: "She ___"?`, data.example, wrong));
+        q.push(createMCQ("pos_g5", "perfect_tenses_g5", `Which perfect tense: "She ___"?`, data.example, wrong, rng));
       }
       return q;
     },
@@ -6054,7 +6055,7 @@ export const G5_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const d = pick(data, rng);
-        q.push(createMCQ("sentences_g5", "tense_shifts_g5", `Which has consistent tense?`, d.correct, [d.wrong, "They were happy and will celebrate.", "He goes and went home."]));
+        q.push(createMCQ("sentences_g5", "tense_shifts_g5", `Which has consistent tense?`, d.correct, [d.wrong, "They were happy and will celebrate.", "He goes and went home."], rng));
       }
       return q;
     },
@@ -6065,7 +6066,7 @@ export const G5_Generators = {
       for (let i = 0; i < 30; i++) {
         const correct = pick(correlData, rng);
         const wrong = correlData.filter(c => c !== correct).slice(0, 3);
-        q.push(createMCQ("pos_g5", "correlative_conj_g5", `Complete: "You can have ___ chocolate ___ vanilla."`, correct, wrong));
+        q.push(createMCQ("pos_g5", "correlative_conj_g5", `Complete: "You can have ___ chocolate ___ vanilla."`, correct, wrong, rng));
       }
       return q;
     },
@@ -6081,7 +6082,7 @@ export const G5_Generators = {
         const data = pick(sentenceData, rng);
         const types = ["simple", "compound", "complex"];
         const wrong = types.filter(t => t !== data.type);
-        q.push(createMCQ("sentences_g5", "complex_sentences_g5", `Type: "${data.sentence}"`, data.type, wrong));
+        q.push(createMCQ("sentences_g5", "complex_sentences_g5", `Type: "${data.sentence}"`, data.type, wrong, rng));
       }
       return q;
     },
@@ -6091,7 +6092,7 @@ export const G5_Generators = {
       const correct = "After the movie ended, we went home.";
       const wrong = "After the movie ended we went home.";
       for (let i = 0; i < 30; i++) {
-        q.push(createMCQ("spelling_g5", "intro_clauses_g5", `Correct comma use after intro clause?`, correct, [wrong, "Although it was late she continued working.", "When I arrived everyone cheered."]));
+        q.push(createMCQ("spelling_g5", "intro_clauses_g5", `Correct comma use after intro clause?`, correct, [wrong, "Although it was late she continued working.", "When I arrived everyone cheered."], rng));
       }
       return q;
     },
@@ -6101,7 +6102,7 @@ export const G5_Generators = {
       const combineData = ["The happy dog ran.", "Because she studied hard, she passed.", "He likes both pizza and tacos."];
       for (let i = 0; i < 30; i++) {
         const correct = pick(combineData, rng);
-        q.push(createMCQ("sentences_g5", "combining_g5", `Best way to combine sentences?`, correct, ["The dog ran and was happy.", "She studied and passed.", "Pizza and tacos he likes."]));
+        q.push(createMCQ("sentences_g5", "combining_g5", `Best way to combine sentences?`, correct, ["The dog ran and was happy.", "She studied and passed.", "Pizza and tacos he likes."], rng));
       }
       return q;
     },
@@ -6111,7 +6112,7 @@ export const G5_Generators = {
       const commaData = ["I like apples, oranges, and bananas.", "However, I also like grapes.", "Since you arrived, we can start."];
       for (let i = 0; i < 30; i++) {
         const correct = pick(commaData, rng);
-        q.push(createMCQ("spelling_g5", "commas_g5", `Which comma usage is correct?`, correct, ["I like apples oranges and bananas.", "However I also like grapes.", "Since you arrived we can start."]));
+        q.push(createMCQ("spelling_g5", "commas_g5", `Which comma usage is correct?`, correct, ["I like apples oranges and bananas.", "However I also like grapes.", "Since you arrived we can start."], rng));
       }
       return q;
     },
@@ -6121,7 +6122,7 @@ export const G5_Generators = {
       const titleData = ["I read *Harry Potter* last summer.", 'She said, "Hello world."', "The movie *Avatar* was amazing."];
       for (let i = 0; i < 30; i++) {
         const correct = pick(titleData, rng);
-        q.push(createMCQ("spelling_g5", "titles_italics_g5", `Correct title formatting?`, correct, ['I read "Harry Potter" last summer.', "The movie Avatar was amazing.", 'She said, Hello world.']));
+        q.push(createMCQ("spelling_g5", "titles_italics_g5", `Correct title formatting?`, correct, ['I read "Harry Potter" last summer.', "The movie Avatar was amazing.", 'She said, Hello world.'], rng));
       }
       return q;
     },
@@ -6132,7 +6133,7 @@ export const G5_Generators = {
       for (let i = 0; i < 30; i++) {
         const correct = pick(apostropheData, rng);
         const wrong = apostropheData.filter(a => a !== correct);
-        q.push(createMCQ("spelling_g5", "apostrophes_g5", `Correct apostrophe use?`, correct, wrong.slice(0, 3)));
+        q.push(createMCQ("spelling_g5", "apostrophes_g5", `Correct apostrophe use?`, correct, wrong.slice(0, 3), rng));
       }
       return q;
     },
@@ -6142,7 +6143,7 @@ export const G5_Generators = {
       const spellingData = ["accommodate", "separate", "definitely", "necessary"];
       for (let i = 0; i < 30; i++) {
         const correct = pick(spellingData, rng);
-        q.push(createMCQ("spelling_g5", "spelling_strategies_g5", `Spell correctly:`, correct, ["acomodate", "seperate", "definitly", "neccessary"]));
+        q.push(createMCQ("spelling_g5", "spelling_strategies_g5", `Spell correctly:`, correct, ["acomodate", "seperate", "definitly", "neccessary"], rng));
       }
       return q;
     },
@@ -6156,7 +6157,7 @@ export const G5_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(rootData, rng);
-        q.push(createMCQ("vocab_g5", "greek_latin_g5", `Root '${data.root}' means:`, data.meaning, ["move", "feel", "think", "know"]));
+        q.push(createMCQ("vocab_g5", "greek_latin_g5", `Root '${data.root}' means:`, data.meaning, ["move", "feel", "think", "know"], rng));
       }
       return q;
     },
@@ -6171,7 +6172,7 @@ export const G5_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(affixData, rng);
-        q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5", `Affix '${data.affix}' in '${data.word}' means:`, data.meaning, ["over", "under", "before", "after"]));
+        q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5", `Affix '${data.affix}' in '${data.word}' means:`, data.meaning, ["over", "under", "before", "after"], rng));
       }
       return q;
     },
@@ -6187,7 +6188,7 @@ export const G5_Generators = {
         const data = pick(figData, rng);
         const types = ["idiom", "adage", "proverb", "simile"];
         const wrong = types.filter(t => t !== data.type);
-        q.push(createMCQ("vocab_g5", "figurative_language_g5", `Type: "${data.phrase}"`, data.type, wrong));
+        q.push(createMCQ("vocab_g5", "figurative_language_g5", `Type: "${data.phrase}"`, data.type, wrong, rng));
       }
       return q;
     },
@@ -6201,7 +6202,7 @@ export const G5_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(connData, rng);
-        q.push(createMCQ("vocab_g5", "connotation_denotation_g5", `Which has positive connotation?`, data.positive, [data.negative, data.neutral, "offensive"]));
+        q.push(createMCQ("vocab_g5", "connotation_denotation_g5", `Which has positive connotation?`, data.positive, [data.negative, data.neutral, "offensive"], rng));
       }
       return q;
     },
@@ -6525,7 +6526,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(mediaData, rng);
         const wrong = mediaData.filter(m => m.term !== data.term).map(m => m.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "media_literacy_g5", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "media_literacy_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6545,7 +6546,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(scienceData, rng);
         const wrong = scienceData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "science_g5", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "science_g5", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6565,7 +6566,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(historyData, rng);
         const wrong = historyData.filter(h => h.term !== data.term).map(h => h.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "history_g5", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "history_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6585,7 +6586,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(geoData, rng);
         const wrong = geoData.filter(g => g.term !== data.term).map(g => g.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "geography_g5", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "geography_g5", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6605,7 +6606,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(academicData, rng);
         const wrong = academicData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "academic_g5", `What does it mean to ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "academic_g5", `What does it mean to ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6625,7 +6626,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(idiomsData, rng);
         const wrong = idiomsData.filter(id => id.idiom !== data.idiom).map(id => id.meaning).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "idioms_proverbs_g5", `What does "${data.idiom}" mean?`, data.meaning, wrong));
+        q.push(createMCQ("vocab_g5", "idioms_proverbs_g5", `What does "${data.idiom}" mean?`, data.meaning, wrong, rng));
       }
       return q;
     },
@@ -6645,7 +6646,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(wordplayData, rng);
         const wrong = wordplayData.filter(w => w.term !== data.term).map(w => w.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "wordplay_g5", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g5", "wordplay_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6665,9 +6666,9 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(registerData, rng);
         if (rng() > 0.5) {
-          q.push(createMCQ("vocab_g5", "formal_informal_g5", `Replace "${data.informal}" with formal: ${data.context}`, data.formal, ["will", "did", "does"]));
+          q.push(createMCQ("vocab_g5", "formal_informal_g5", `Replace "${data.informal}" with formal: ${data.context}`, data.formal, ["will", "did", "does"], rng));
         } else {
-          q.push(createMCQ("vocab_g5", "formal_informal_g5", `What is the informal version of "${data.formal}"?`, data.informal, ["was", "are", "have"]));
+          q.push(createMCQ("vocab_g5", "formal_informal_g5", `What is the informal version of "${data.formal}"?`, data.informal, ["was", "are", "have"], rng));
         }
       }
       return q;
@@ -6850,12 +6851,12 @@ export const G6_Generators = {
           if (rng() > 0.4) {
             const data = pick(caseData, rng);
             q.push(createMCQ("grammar_g6", "pronoun_cases_g6",
-              `Which pronoun (${data.case_name} case) fills the blank? "${data.sentence}"`, data.correct, data.wrong));
+              `Which pronoun (${data.case_name} case) fills the blank? "${data.sentence}"`, data.correct, data.wrong, rng));
           } else {
             const pc = pick(pronounCases, rng);
             const wrong = ["subjective", "objective", "possessive"].filter(c => c !== pc.case_name);
             q.push(createMCQ("grammar_g6", "pronoun_cases_g6",
-              `What case is the pronoun '${pc.pronoun}'?`, pc.case_name, wrong));
+              `What case is the pronoun '${pc.pronoun}'?`, pc.case_name, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -6904,17 +6905,17 @@ export const G6_Generators = {
             q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
               "Which sentence uses an INTENSIVE pronoun correctly?", data.correct,
               [data.wrong, pick(intensiveData.filter(d => d !== data), rng).wrong,
-                pick(intensiveData.filter(d => d !== data), rng).wrong]));
+                pick(intensiveData.filter(d => d !== data), rng).wrong], rng));
           } else if (variant === 1) {
             const data = pick(reflexiveData, rng);
             q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
               `Is the -self pronoun in this sentence REFLEXIVE or INTENSIVE? "${data.sentence}"`, data.type,
-              [data.type === "intensive" ? "reflexive" : "intensive", "possessive", "demonstrative"]));
+              [data.type === "intensive" ? "reflexive" : "intensive", "possessive", "demonstrative"], rng));
           } else {
             const data = pick(intensiveData, rng);
             q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
               `In "${data.correct}", what does '${data.pronoun}' emphasize?`, data.emphasizes,
-              ["the object", "the verb", "the adverb"]));
+              ["the object", "the verb", "the adverb"], rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -6951,11 +6952,11 @@ export const G6_Generators = {
               "Which sentence has correct pronoun-antecedent agreement?", data.correct,
               [data.incorrect,
                 pick(agreementData.filter(d => d !== data), rng).incorrect,
-                pick(agreementData.filter(d => d !== data), rng).incorrect]));
+                pick(agreementData.filter(d => d !== data), rng).incorrect], rng));
           } else {
             q.push(createMCQ("grammar_g6", "pronoun_agreement_g6",
               `Why is this correct? "${data.correct}"`, data.rule,
-              agreementData.filter(d => d.rule !== data.rule).map(d => d.rule).slice(0, 3)));
+              agreementData.filter(d => d.rule !== data.rule).map(d => d.rule).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -6989,17 +6990,17 @@ export const G6_Generators = {
           if (rng() > 0.5) {
             q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
               `Does this sentence have an inappropriate pronoun shift? "${data.sentence}"`,
-              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"]));
+              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"], rng));
           } else if (data.hasShift) {
             const wrong = shiftData.filter(d => d.hasShift && d.fix !== data.fix).map(d => d.fix).slice(0, 2);
             wrong.push(data.sentence);
             q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
-              `Which fixes the pronoun shift? "${data.sentence}"`, data.fix, wrong));
+              `Which fixes the pronoun shift? "${data.sentence}"`, data.fix, wrong, rng));
           } else {
             const shifted = pick(shiftData.filter(d => d.hasShift), rng);
             q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
               "Which sentence has an INAPPROPRIATE pronoun shift?", shifted.sentence,
-              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3)));
+              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3), rng));
           }
         } else {
           if (data.hasShift) {
@@ -7036,12 +7037,12 @@ export const G6_Generators = {
             const data = pick(patternData, rng);
             const wrong = patternData.filter(p => p.revised !== data.revised).map(p => p.revised).slice(0, 3);
             q.push(createMCQ("grammar_g6", "sentence_patterns_g6",
-              `Which revision VARIES the sentence pattern? Original: "${data.original}"`, data.revised, wrong));
+              `Which revision VARIES the sentence pattern? Original: "${data.original}"`, data.revised, wrong, rng));
           } else {
             const data = pick(sentenceStarts, rng);
             const wrong = sentenceStarts.filter(s => s.label !== data.label).map(s => s.label).slice(0, 3);
             q.push(createMCQ("grammar_g6", "sentence_patterns_g6",
-              `What type of opening does this sentence use? "${data.example}"`, data.label, wrong));
+              `What type of opening does this sentence use? "${data.example}"`, data.label, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7090,17 +7091,17 @@ export const G6_Generators = {
               const wrong = homographData.filter(h => h.word !== data.word).map(h => `${h.word} (${h.meaning1})`).slice(0, 3);
               q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
                 `Which pair are HOMOGRAPHS (same spelling, different meaning)?`,
-                `${data.word} (${data.meaning1}) / ${data.word} (${data.meaning2})`, wrong));
+                `${data.word} (${data.meaning1}) / ${data.word} (${data.meaning2})`, wrong, rng));
             } else {
               q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
                 `The word '${data.word}' is a homograph. Which is one of its meanings?`, data.meaning1,
-                homographData.filter(h => h.word !== data.word).map(h => h.meaning1).slice(0, 3)));
+                homographData.filter(h => h.word !== data.word).map(h => h.meaning1).slice(0, 3), rng));
             }
           } else {
             const data = pick(synData, rng);
             const wrong = synData.filter(s => s.synonym !== data.synonym).map(s => s.synonym).slice(0, 3);
             q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
-              `What is a synonym of '${data.word}' in: "${data.context}"?`, data.synonym, wrong));
+              `What is a synonym of '${data.word}' in: "${data.context}"?`, data.synonym, wrong, rng));
           }
         } else {
           if (useHomograph) {
@@ -7141,11 +7142,11 @@ export const G6_Generators = {
         const data = pick(analogyData, rng);
         if (isMCQ(6, rng)) {
           if (rng() > 0.3) {
-            q.push(createMCQ("vocab_g6", "analogies_g6", data.analogy, data.answer, data.wrong));
+            q.push(createMCQ("vocab_g6", "analogies_g6", data.analogy, data.answer, data.wrong, rng));
           } else {
             q.push(createMCQ("vocab_g6", "analogies_g6",
               `What is the RELATIONSHIP in: "${data.analogy}"`, data.relationship,
-              analogyData.filter(a => a.relationship !== data.relationship).map(a => a.relationship).slice(0, 3)));
+              analogyData.filter(a => a.relationship !== data.relationship).map(a => a.relationship).slice(0, 3), rng));
           }
         } else {
           q.push(createTyping("vocab_g6", "analogies_g6", data.analogy, data.answer));
@@ -7173,11 +7174,11 @@ export const G6_Generators = {
           if (variant === 0) {
             q.push(createMCQ("vocab_g6", "connotation_g6",
               `Which word has the most NEGATIVE connotation?`, data.most_negative,
-              data.words.filter(w => w !== data.most_negative).slice(0, 3)));
+              data.words.filter(w => w !== data.most_negative).slice(0, 3), rng));
           } else if (variant === 1) {
             q.push(createMCQ("vocab_g6", "connotation_g6",
               `Which word has the most POSITIVE connotation?`, data.most_positive,
-              data.words.filter(w => w !== data.most_positive).slice(0, 3)));
+              data.words.filter(w => w !== data.most_positive).slice(0, 3), rng));
           } else {
             const word = pick(data.words, rng);
             const isNeg = word === data.most_negative;
@@ -7185,7 +7186,7 @@ export const G6_Generators = {
             const connotation = isNeg ? "negative" : isPos ? "positive" : "neutral";
             q.push(createMCQ("vocab_g6", "connotation_g6",
               `What connotation does '${word}' have?`, connotation,
-              ["positive", "negative", "neutral"].filter(c => c !== connotation)));
+              ["positive", "negative", "neutral"].filter(c => c !== connotation), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7221,15 +7222,15 @@ export const G6_Generators = {
           if (variant === 0) {
             const wrong = wordData.filter(w => w.meaning !== data.meaning).map(w => w.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g6", "academic_vocab_g6",
-              `What does '${data.word}' mean?`, data.meaning, wrong));
+              `What does '${data.word}' mean?`, data.meaning, wrong, rng));
           } else if (variant === 1) {
             const wrong = wordData.filter(w => w.word !== data.word).map(w => w.word).slice(0, 3);
             q.push(createMCQ("vocab_g6", "academic_vocab_g6",
-              `Which word means '${data.meaning}'?`, data.word, wrong));
+              `Which word means '${data.meaning}'?`, data.word, wrong, rng));
           } else {
             const wrong = wordData.filter(w => w.word !== data.word).map(w => w.word).slice(0, 3);
             q.push(createMCQ("vocab_g6", "academic_vocab_g6",
-              `Fill in: "${data.sentence}"`, data.word, wrong));
+              `Fill in: "${data.sentence}"`, data.word, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7267,11 +7268,11 @@ export const G6_Generators = {
           if (rng() > 0.5) {
             const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g6", "greek_latin_g6",
-              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong));
+              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong, rng));
           } else {
             const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
             q.push(createMCQ("vocab_g6", "greek_latin_g6",
-              `What root in '${example}' means '${data.meaning}'?`, data.root, wrong));
+              `What root in '${example}' means '${data.meaning}'?`, data.root, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7314,7 +7315,7 @@ export const G6_Generators = {
           if (rng() > 0.5) {
             q.push(createMCQ("structures_g6", "clauses_g6",
               `Is this an INDEPENDENT or DEPENDENT clause? "${data.clause}"`, data.type,
-              [data.type === "independent" ? "dependent" : "independent", "phrase", "fragment"]));
+              [data.type === "independent" ? "dependent" : "independent", "phrase", "fragment"], rng));
           } else {
             const depClauses = clauseData.filter(c => c.type === "dependent");
             const indClauses = clauseData.filter(c => c.type === "independent");
@@ -7323,7 +7324,7 @@ export const G6_Generators = {
             const wrongPool = target === "dependent" ? indClauses : depClauses;
             q.push(createMCQ("structures_g6", "clauses_g6",
               `Which is a ${target.toUpperCase()} clause?`, correct.clause,
-              wrongPool.map(c => c.clause).slice(0, 3)));
+              wrongPool.map(c => c.clause).slice(0, 3), rng));
           }
         } else {
           q.push(createTyping("structures_g6", "clauses_g6",
@@ -7353,7 +7354,7 @@ export const G6_Generators = {
         if (isMCQ(6, rng)) {
           const wrong = allTypes.filter(t => t !== data.type).slice(0, 3);
           q.push(createMCQ("structures_g6", "complex_sentences_g6",
-            `What type of sentence? "${data.sentence}"`, data.type, wrong));
+            `What type of sentence? "${data.sentence}"`, data.type, wrong, rng));
         } else {
           q.push(createTyping("structures_g6", "complex_sentences_g6",
             `Identify: simple, compound, complex, or compound-complex? "${data.sentence}"`, data.type));
@@ -7384,15 +7385,15 @@ export const G6_Generators = {
             const noClauses = ["I read a great book.", "My sister is visiting.", "The car is mine."];
             q.push(createMCQ("structures_g6", "relative_clauses_g6",
               "Which sentence contains a RELATIVE CLAUSE?", data.sentence,
-              noClauses.slice(0, 3)));
+              noClauses.slice(0, 3), rng));
           } else if (variant === 1) {
             q.push(createMCQ("structures_g6", "relative_clauses_g6",
               `What is the relative clause in: "${data.sentence}"?`, data.relClause,
-              relData.filter(r => r.relClause !== data.relClause).map(r => r.relClause).slice(0, 3)));
+              relData.filter(r => r.relClause !== data.relClause).map(r => r.relClause).slice(0, 3), rng));
           } else {
             const wrong = relPronouns.filter(p => p !== data.pronoun).slice(0, 3);
             q.push(createMCQ("structures_g6", "relative_clauses_g6",
-              `Which relative pronoun is used in: "${data.sentence}"?`, data.pronoun, wrong));
+              `Which relative pronoun is used in: "${data.sentence}"?`, data.pronoun, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7432,15 +7433,15 @@ export const G6_Generators = {
           if (variant === 0) {
             const wrong = affixData.filter(a => a.result !== data.result).map(a => a.result).slice(0, 3);
             q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
-              `What does adding '${data.affix}' to '${data.base}' create?`, data.result, wrong));
+              `What does adding '${data.affix}' to '${data.base}' create?`, data.result, wrong, rng));
           } else if (variant === 1) {
             const wrong = affixData.filter(a => a.meaning !== data.meaning).map(a => a.meaning).slice(0, 3);
             q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
-              `What does '${data.result}' mean?`, data.meaning, wrong));
+              `What does '${data.result}' mean?`, data.meaning, wrong, rng));
           } else {
             q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
               `Is '${data.affix}' a prefix or suffix?`, data.type,
-              [data.type === "prefix" ? "suffix" : "prefix", "root", "base word"]));
+              [data.type === "prefix" ? "suffix" : "prefix", "root", "base word"], rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7476,11 +7477,11 @@ export const G6_Generators = {
           if (rng() > 0.5) {
             const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
             q.push(createMCQ("word_formation_g6", "root_words_g6",
-              `The root '${data.root}' (as in '${example}') means:`, data.meaning, wrong));
+              `The root '${data.root}' (as in '${example}') means:`, data.meaning, wrong, rng));
           } else {
             const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
             q.push(createMCQ("word_formation_g6", "root_words_g6",
-              `Which root means '${data.meaning}'?`, data.root, wrong));
+              `Which root means '${data.meaning}'?`, data.root, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7517,11 +7518,11 @@ export const G6_Generators = {
           if (rng() > 0.5) {
             q.push(createMCQ("punctuation_g6", "commas_dashes_g6",
               `What punctuation is used in: "${data.sentence}"?`, data.mark,
-              ["parentheses", "dashes", "commas", "colon", "hyphen"].filter(m => m !== data.mark).slice(0, 3)));
+              ["parentheses", "dashes", "commas", "colon", "hyphen"].filter(m => m !== data.mark).slice(0, 3), rng));
           } else {
             q.push(createMCQ("punctuation_g6", "commas_dashes_g6",
               `What is the PURPOSE of the ${data.mark} in: "${data.sentence}"?`, data.purpose,
-              punctData.filter(p => p.purpose !== data.purpose).map(p => p.purpose).slice(0, 3)));
+              punctData.filter(p => p.purpose !== data.purpose).map(p => p.purpose).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7560,12 +7561,12 @@ export const G6_Generators = {
             const data = pick(effectData, rng);
             const wrong = effectData.filter(e => e.effect !== data.effect).map(e => e.effect).slice(0, 3);
             q.push(createMCQ("punctuation_g6", "punct_effect_g6",
-              `What effect does a ${data.mark} create?`, data.effect, wrong));
+              `What effect does a ${data.mark} create?`, data.effect, wrong, rng));
           } else {
             const data = pick(sentPairs, rng);
             q.push(createMCQ("punctuation_g6", "punct_effect_g6",
               `What is the difference between "${data.with_mark}" and "${data.without}"?`, data.difference,
-              sentPairs.filter(s => s.difference !== data.difference).map(s => s.difference).slice(0, 3)));
+              sentPairs.filter(s => s.difference !== data.difference).map(s => s.difference).slice(0, 3), rng));
           }
         } else {
           if (rng() > 0.5) {
@@ -7597,7 +7598,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(caseData, rng);
         const wrong = caseData.filter(c => c.correct !== data.correct).map(c => c.correct).slice(0, 3);
-        q.push(createMCQ("grammar_g6", "pronoun_cases_g6", `Which pronoun fills the blank? "${data.sentence}"`, data.correct, wrong));
+        q.push(createMCQ("grammar_g6", "pronoun_cases_g6", `Which pronoun fills the blank? "${data.sentence}"`, data.correct, wrong, rng));
       }
       return q;
     },
@@ -7614,7 +7615,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(intensiveData, rng);
         const wrong = ["me", "him", "her", "them"].slice(0, 3);
-        q.push(createMCQ("grammar_g6", "intensive_pronouns_g6", `Which intensive pronoun emphasizes: "${data.sentence}"?`, data.correct, wrong));
+        q.push(createMCQ("grammar_g6", "intensive_pronouns_g6", `Which intensive pronoun emphasizes: "${data.sentence}"?`, data.correct, wrong, rng));
       }
       return q;
     },
@@ -7630,7 +7631,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(agreementData, rng);
         const wrong = ["his", "its", "her"].slice(0, 3);
-        q.push(createMCQ("grammar_g6", "pronoun_agreement_g6", `Fill in: ${data.sentence}`, data.correct, wrong));
+        q.push(createMCQ("grammar_g6", "pronoun_agreement_g6", `Fill in: ${data.sentence}`, data.correct, wrong, rng));
       }
       return q;
     },
@@ -7644,7 +7645,7 @@ export const G6_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(shiftData, rng);
-        q.push(createMCQ("grammar_g6", "pronoun_shifts_g6", `Convert to formal (you→one): "${data.original}"`, data.formal, ["One shouldn't eat junk.", "You must eat well.", "Eating junk is bad."]));
+        q.push(createMCQ("grammar_g6", "pronoun_shifts_g6", `Convert to formal (you→one): "${data.original}"`, data.formal, ["One shouldn't eat junk.", "You must eat well.", "Eating junk is bad."], rng));
       }
       return q;
     },
@@ -7661,7 +7662,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(patternData, rng);
         const wrong = ["S-V", "S-V-O", "S-V-C", "S-V-IO-DO"].filter(p => p !== data.pattern).slice(0, 3);
-        q.push(createMCQ("grammar_g6", "sentence_patterns_g6", `What pattern: "${data.sentence}"?`, data.pattern, wrong));
+        q.push(createMCQ("grammar_g6", "sentence_patterns_g6", `What pattern: "${data.sentence}"?`, data.pattern, wrong, rng));
       }
       return q;
     },
@@ -7677,7 +7678,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(clauseData, rng);
         const wrong = ["independent", "dependent"].filter(t => t !== data.type);
-        q.push(createMCQ("grammar_g6", "clauses_g6", `Is "${data.clause}" independent or dependent?`, data.type, wrong.concat(["adjective", "adverbial"])));
+        q.push(createMCQ("grammar_g6", "clauses_g6", `Is "${data.clause}" independent or dependent?`, data.type, wrong.concat(["adjective", "adverbial"]), rng));
       }
       return q;
     },
@@ -7693,7 +7694,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceData, rng);
         const wrong = ["simple", "compound", "complex", "compound-complex"].filter(t => t !== data.type).slice(0, 3);
-        q.push(createMCQ("grammar_g6", "complex_sentences_g6", `Type: "${data.sentence}"?`, data.type, wrong));
+        q.push(createMCQ("grammar_g6", "complex_sentences_g6", `Type: "${data.sentence}"?`, data.type, wrong, rng));
       }
       return q;
     },
@@ -7710,7 +7711,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(relativeData, rng);
         const wrong = ["who", "which", "that", "whose", "whom"].filter(w => w !== data.correct).slice(0, 3);
-        q.push(createMCQ("grammar_g6", "relative_clauses_g6", `Fill in: ${data.sentence}`, data.correct, wrong));
+        q.push(createMCQ("grammar_g6", "relative_clauses_g6", `Fill in: ${data.sentence}`, data.correct, wrong, rng));
       }
       return q;
     },
@@ -7728,7 +7729,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(affixData, rng);
         const wrong = ["state of being", "not", "again", "wrong", "one who"].filter(m => m !== data.meaning).slice(0, 3);
-        q.push(createMCQ("grammar_g6", "prefixes_suffixes_g6", `What does '${data.affix}' mean in '${data.word}'?`, data.meaning, wrong));
+        q.push(createMCQ("grammar_g6", "prefixes_suffixes_g6", `What does '${data.affix}' mean in '${data.word}'?`, data.meaning, wrong, rng));
       }
       return q;
     },
@@ -7744,7 +7745,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(punctData, rng);
         const wrong = ["commas", "dashes", "semicolon", "colon"].filter(m => m !== data.mark).slice(0, 3);
-        q.push(createMCQ("punctuation_g6", "commas_dashes_g6", `What mark is used for ${data.use}? "${data.sentence}"`, data.mark, wrong));
+        q.push(createMCQ("punctuation_g6", "commas_dashes_g6", `What mark is used for ${data.use}? "${data.sentence}"`, data.mark, wrong, rng));
       }
       return q;
     },
@@ -7760,7 +7761,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(wordData, rng);
         q.push(createMCQ("vocab_g6", "synonyms_homographs_g6", `"${data.word}" can mean:`, `"${data.meaning1}" or "${data.meaning2}"`,
-          [`"${data.meaning1}" only`, "just a pronoun", "always a verb"]));
+          [`"${data.meaning1}" only`, "just a pronoun", "always a verb"], rng));
       }
       return q;
     },
@@ -7776,7 +7777,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(analogyData, rng);
         q.push(createMCQ("vocab_g6", "analogies_g6", `${data.pair1}:${data.pair2} :: ${data.pair3}:___`, data.answer,
-          ["bright", "dark", "wet"]));
+          ["bright", "dark", "wet"], rng));
       }
       return q;
     },
@@ -7792,7 +7793,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(connData, rng);
         q.push(createMCQ("vocab_g6", "connotation_g6", `Which synonym of "${data.denotation}" has positive connotation?`, data.positive,
-          [data.negative, "neutral", "unclear"]));
+          [data.negative, "neutral", "unclear"], rng));
       }
       return q;
     },
@@ -7810,7 +7811,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(acadData, rng);
         const wrong = acadData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "academic_vocab_g6", `What does '${data.term}' mean?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "academic_vocab_g6", `What does '${data.term}' mean?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -7827,7 +7828,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(rootData, rng);
         q.push(createMCQ("vocab_g6", "greek_latin_g6", `What does "${data.word}" mean? (${data.parts})`, data.meaning,
-          ["something different", "opposite meaning", "unrelated concept"]));
+          ["something different", "opposite meaning", "unrelated concept"], rng));
       }
       return q;
     },
@@ -7843,7 +7844,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(rootData, rng);
         q.push(createMCQ("vocab_g6", "root_words_g6", `The root "${data.root}" means:`, data.meaning,
-          ["opposite", "different", "unknown"]));
+          ["opposite", "different", "unknown"], rng));
       }
       return q;
     },
@@ -7861,7 +7862,7 @@ export const G6_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(effectData, rng);
         const wrong = effectData.filter(e => e.mark !== data.mark).map(e => e.effect).slice(0, 3);
-        q.push(createMCQ("punctuation_g6", "punct_effect_g6", `What effect does ${data.mark} have?`, data.effect, wrong));
+        q.push(createMCQ("punctuation_g6", "punct_effect_g6", `What effect does ${data.mark} have?`, data.effect, wrong, rng));
       }
       return q;
     },
@@ -8155,7 +8156,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(debateData, rng);
         const wrong = debateData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "debate_g6", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "debate_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8173,7 +8174,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(litData, rng);
         const wrong = litData.filter(l => l.term !== data.term).map(l => l.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "literature_g6", `What is the ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "literature_g6", `What is the ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8191,7 +8192,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sciData, rng);
         const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "science_g6", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "science_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8209,7 +8210,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(ssData, rng);
         const wrong = ssData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "social_studies_g6", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "social_studies_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8227,7 +8228,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(fwData, rng);
         const wrong = fwData.filter(f => f.term !== data.term).map(f => f.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "formal_writing_g6", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g6", "formal_writing_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8245,7 +8246,7 @@ export const G6_Generators = {
         const words = Object.values(data);
         const correct = pick(words, rng);
         const wrong = words.filter(w => w !== correct).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "word_nuance_g6", `Which word means "move slowly and heavily"?`, "trudge", ["walk", "stride", "stroll"]));
+        q.push(createMCQ("vocab_g6", "word_nuance_g6", `Which word means "move slowly and heavily"?`, "trudge", ["walk", "stride", "stroll"], rng));
       }
       return q;
     },
@@ -8261,7 +8262,7 @@ export const G6_Generators = {
       ];
       for (let i = 0; i < 20; i++) {
         const data = pick(etymData, rng);
-        q.push(createMCQ("vocab_g6", "etymology_g6", `"${data.word}" comes from ${data.origin}. True or false?`, "true", ["false", "unknown", "mixed"]));
+        q.push(createMCQ("vocab_g6", "etymology_g6", `"${data.word}" comes from ${data.origin}. True or false?`, "true", ["false", "unknown", "mixed"], rng));
       }
       return q;
     },
@@ -8278,7 +8279,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(rhetoData, rng);
         const wrong = rhetoData.filter(r => r.device !== data.device).map(r => r.device).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "rhetorical_g6", `What device is "${data.example}"?`, data.device, wrong));
+        q.push(createMCQ("vocab_g6", "rhetorical_g6", `What device is "${data.example}"?`, data.device, wrong, rng));
       }
       return q;
     },
@@ -8442,7 +8443,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(phraseData, rng);
           q.push(createMCQ("grammar_g7", "phrases_g7",
-            `In "${data.sentence}", what type of phrase is "${data.phrase}"?`, data.type, data.wrong));
+            `In "${data.sentence}", what type of phrase is "${data.phrase}"?`, data.type, data.wrong, rng));
         } else {
           const data = pick(phraseData, rng);
           q.push(createTyping("grammar_g7", "phrases_g7",
@@ -8469,11 +8470,11 @@ export const G7_Generators = {
           if (askInd) {
             const wrong = ["zero", "two", "three"].filter(w => w !== String(data.indCount)).slice(0, 3);
             q.push(createMCQ("grammar_g7", "clauses_g7",
-              `How many INDEPENDENT clauses? "${data.sentence}"`, String(data.indCount), wrong));
+              `How many INDEPENDENT clauses? "${data.sentence}"`, String(data.indCount), wrong, rng));
           } else {
             const wrong = ["zero", "two", "three"].filter(w => w !== String(data.depCount)).slice(0, 3);
             q.push(createMCQ("grammar_g7", "clauses_g7",
-              `How many DEPENDENT clauses? "${data.sentence}"`, String(data.depCount), wrong));
+              `How many DEPENDENT clauses? "${data.sentence}"`, String(data.depCount), wrong, rng));
           }
         } else {
           const data = pick(clauseData.filter(d => d.depClause !== ""), rng);
@@ -8500,7 +8501,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(sentData, rng);
           q.push(createMCQ("grammar_g7", "sentence_types_g7",
-            `What type of sentence? "${data.sentence}"`, data.type, data.wrong));
+            `What type of sentence? "${data.sentence}"`, data.type, data.wrong, rng));
         } else {
           const data = pick(sentData, rng);
           q.push(createTyping("grammar_g7", "sentence_types_g7",
@@ -8537,11 +8538,11 @@ export const G7_Generators = {
           if (askType) {
             q.push(createMCQ("grammar_g7", "modifiers_g7",
               `What is wrong with: "${data.misplaced}"?`, data.issue,
-              ["dangling modifier", "misplaced modifier", "split infinitive", "run-on sentence"].filter(w => w !== data.issue).slice(0, 3)));
+              ["dangling modifier", "misplaced modifier", "split infinitive", "run-on sentence"].filter(w => w !== data.issue).slice(0, 3), rng));
           } else {
             q.push(createMCQ("grammar_g7", "modifiers_g7",
               `Which sentence CORRECTS the modifier error in: "${data.misplaced}"?`, data.corrected,
-              [data.misplaced, "The sentence is already correct.", "Remove the modifier entirely."].slice(0, 3)));
+              [data.misplaced, "The sentence is already correct.", "Remove the modifier entirely."].slice(0, 3), rng));
           }
         } else {
           const data = pick(modData, rng);
@@ -8577,11 +8578,11 @@ export const G7_Generators = {
           if (askWhich) {
             q.push(createMCQ("grammar_g7", "tense_voice_g7",
               `Which sentence has an INCORRECT shift?`, data.incorrect,
-              [data.correct, "She opened the door and walked in.", "They ran and played outside."].slice(0, 3)));
+              [data.correct, "She opened the door and walked in.", "They ran and played outside."].slice(0, 3), rng));
           } else {
             q.push(createMCQ("grammar_g7", "tense_voice_g7",
               `What error is in: "${data.incorrect}"?`, data.error,
-              ["tense shift (past to present)", "voice shift (active to passive)", "mood shift (imperative to indicative)", "tense shift (present to past)"].filter(e => e !== data.error).slice(0, 3)));
+              ["tense shift (past to present)", "voice shift (active to passive)", "mood shift (imperative to indicative)", "tense shift (present to past)"].filter(e => e !== data.error).slice(0, 3), rng));
           }
         } else {
           const data = pick(shiftData, rng);
@@ -8611,7 +8612,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
         q.push(createMCQ("punctuation_g7", "commas_phrases_g7",
-          "Which uses commas with phrases/clauses correctly?", data.correct, data.wrong));
+          "Which uses commas with phrases/clauses correctly?", data.correct, data.wrong, rng));
       }
       return q;
     },
@@ -8634,7 +8635,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(scData, rng);
           q.push(createMCQ("punctuation_g7", "semicolons_colons_g7",
-            "Which correctly uses a semicolon or colon?", data.correct, data.wrong));
+            "Which correctly uses a semicolon or colon?", data.correct, data.wrong, rng));
         } else {
           const data = pick(scData, rng);
           q.push(createTyping("punctuation_g7", "semicolons_colons_g7",
@@ -8667,7 +8668,7 @@ export const G7_Generators = {
           const data = pick(dashData, rng);
           q.push(createMCQ("punctuation_g7", "dashes_hyphens_g7",
             "Which uses dashes or hyphens correctly?", data.correct,
-            [data.wrong, "a well—known author", "twenty three-year old"].slice(0, 3)));
+            [data.wrong, "a well—known author", "twenty three-year old"].slice(0, 3), rng));
         } else {
           const data = pick(dashData, rng);
           q.push(createTyping("punctuation_g7", "dashes_hyphens_g7",
@@ -8707,7 +8708,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(figData, rng);
           q.push(createMCQ("vocab_g7", "figurative_language_g7",
-            `What figurative device? "${data.phrase}"`, data.device, data.wrong));
+            `What figurative device? "${data.phrase}"`, data.device, data.wrong, rng));
         } else {
           const data = pick(figData, rng);
           q.push(createTyping("vocab_g7", "figurative_language_g7",
@@ -8744,11 +8745,11 @@ export const G7_Generators = {
           if (askPositive) {
             q.push(createMCQ("vocab_g7", "connotation_g7",
               `Which word has a POSITIVE connotation for "${pair.meaning}"?`, pair.positive,
-              [pair.negative, pair.neutral, "unknown"]));
+              [pair.negative, pair.neutral, "unknown"], rng));
           } else {
             q.push(createMCQ("vocab_g7", "connotation_g7",
               `Which word has a NEGATIVE connotation for "${pair.meaning}"?`, pair.negative,
-              [pair.positive, pair.neutral, "unknown"]));
+              [pair.positive, pair.neutral, "unknown"], rng));
           }
         } else {
           const pair = pick(wordPairs, rng);
@@ -8785,7 +8786,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(wordData, rng);
           q.push(createMCQ("vocab_g7", "academic_vocab_g7",
-            `What does '${data.word}' mean?`, data.meaning, data.wrong));
+            `What does '${data.word}' mean?`, data.meaning, data.wrong, rng));
         } else {
           const data = pick(wordData, rng);
           q.push(createTyping("vocab_g7", "academic_vocab_g7",
@@ -8820,7 +8821,7 @@ export const G7_Generators = {
           const data = pick(analogyData, rng);
           q.push(createMCQ("vocab_g7", "analogies_g7",
             `${data.pair1} is to ${data.pair2} as ${data.pair3} is to ___?`,
-            data.answer, data.wrong));
+            data.answer, data.wrong, rng));
         } else {
           const data = pick(analogyData, rng);
           q.push(createTyping("vocab_g7", "analogies_g7",
@@ -8855,7 +8856,7 @@ export const G7_Generators = {
           const data = pick(ceData, rng);
           const wrong = ["although", "unless", "while"].slice(0, 3);
           q.push(createMCQ("clause_types_g7", "cause_effect_g7",
-            `Which conjunction introduces a cause in: "${data.sentence}"?`, data.conjunction, wrong));
+            `Which conjunction introduces a cause in: "${data.sentence}"?`, data.conjunction, wrong, rng));
         } else {
           const data = pick(ceData, rng);
           q.push(createTyping("clause_types_g7", "cause_effect_g7",
@@ -8888,11 +8889,11 @@ export const G7_Generators = {
           if (askType) {
             const wrong = condData.filter(c => c.type !== data.type).map(c => c.type).slice(0, 3);
             q.push(createMCQ("clause_types_g7", "conditional_g7",
-              `What type of conditional? "${data.sentence}"`, data.type, wrong));
+              `What type of conditional? "${data.sentence}"`, data.type, wrong, rng));
           } else {
             q.push(createMCQ("clause_types_g7", "conditional_g7",
               `Which is a CONDITIONAL sentence?`, data.sentence,
-              ["It is raining today.", "She likes rain.", "We stayed inside yesterday."]));
+              ["It is raining today.", "She likes rain.", "We stayed inside yesterday."], rng));
           }
         } else {
           const data = pick(condData, rng);
@@ -8927,7 +8928,7 @@ export const G7_Generators = {
           const data = pick(concData, rng);
           const wrong = ["because", "so that", "when"].slice(0, 3);
           q.push(createMCQ("clause_types_g7", "concessive_g7",
-            `Which conjunction introduces a CONCESSIVE clause in: "${data.sentence}"?`, data.conjunction, wrong));
+            `Which conjunction introduces a CONCESSIVE clause in: "${data.sentence}"?`, data.conjunction, wrong, rng));
         } else {
           q.push(createTyping("clause_types_g7", "concessive_g7",
             "Name a conjunction that introduces a concessive clause (showing contrast):", pick(concessiveConj, rng)));
@@ -8951,7 +8952,7 @@ export const G7_Generators = {
           const data = pick(purposeData, rng);
           q.push(createMCQ("clause_types_g7", "purpose_g7",
             `Which correctly uses a PURPOSE clause?`, data.sentence,
-            ["She studied because she failed.", "She studied although she was tired.", "She studied when she had time."]));
+            ["She studied because she failed.", "She studied although she was tired.", "She studied when she had time."], rng));
         } else {
           const data = pick(purposeData, rng);
           q.push(createTyping("clause_types_g7", "purpose_g7",
@@ -8983,7 +8984,7 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const data = pick(timeData, rng);
           q.push(createMCQ("clause_types_g7", "time_clauses_g7",
-            `Which conjunction introduces a TIME clause in: "${data.sentence}"?`, data.conjunction, data.wrong));
+            `Which conjunction introduces a TIME clause in: "${data.sentence}"?`, data.conjunction, data.wrong, rng));
         } else {
           const data = pick(timeData, rng);
           q.push(createTyping("clause_types_g7", "time_clauses_g7",
@@ -9020,10 +9021,10 @@ export const G7_Generators = {
           if (askId) {
             q.push(createMCQ("verbal_phrases_g7", "infinitive_phrases_g7",
               `Which is an INFINITIVE PHRASE in: "${data.sentence}"?`, data.phrase,
-              ["running quickly", "the tall boy", "with great care"]));
+              ["running quickly", "the tall boy", "with great care"], rng));
           } else {
             q.push(createMCQ("verbal_phrases_g7", "infinitive_phrases_g7",
-              `What is the FUNCTION of "${data.phrase}" in: "${data.sentence}"?`, data.function, data.wrong));
+              `What is the FUNCTION of "${data.phrase}" in: "${data.sentence}"?`, data.function, data.wrong, rng));
           }
         } else {
           const data = pick(infData, rng);
@@ -9058,11 +9059,11 @@ export const G7_Generators = {
           const askFunc = rng() > 0.5;
           if (askFunc) {
             q.push(createMCQ("verbal_phrases_g7", "gerund_phrases_g7",
-              `What is the FUNCTION of the gerund phrase in: "${data.sentence}"?`, data.function, data.wrong));
+              `What is the FUNCTION of the gerund phrase in: "${data.sentence}"?`, data.function, data.wrong, rng));
           } else {
             q.push(createMCQ("verbal_phrases_g7", "gerund_phrases_g7",
               `In "${data.sentence}", the gerund phrase is:`, data.phrase,
-              ["to swim every day", "she enjoys", "the marathon"]));
+              ["to swim every day", "she enjoys", "the marathon"], rng));
           }
         } else {
           const data = pick(gerData, rng);
@@ -9098,10 +9099,10 @@ export const G7_Generators = {
           if (askPhrase) {
             q.push(createMCQ("verbal_phrases_g7", "participial_phrases_g7",
               `What is the participial phrase in: "${data.sentence}"?`, data.phrase,
-              ["to sit down", "she sat", "from the race"]));
+              ["to sit down", "she sat", "from the race"], rng));
           } else {
             q.push(createMCQ("verbal_phrases_g7", "participial_phrases_g7",
-              `In "${data.sentence}", the participial phrase "${data.phrase}" modifies:`, data.modifies, data.wrong));
+              `In "${data.sentence}", the participial phrase "${data.phrase}" modifies:`, data.modifies, data.wrong, rng));
           }
         } else {
           const data = pick(partData, rng);
@@ -9129,7 +9130,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(phraseTypes, rng);
         const wrong = ["noun phrase", "verb phrase", "adjectival phrase", "prepositional phrase"].filter(t => t !== data.type).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "phrases_g7", `Type of "${data.phrase}":`, data.type, wrong));
+        q.push(createMCQ("grammar_g7", "phrases_g7", `Type of "${data.phrase}":`, data.type, wrong, rng));
       }
       return q;
     },
@@ -9149,7 +9150,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(clauseData, rng);
         const wrong = ["independent", "dependent", "subordinate"].filter(t => t !== data.type).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "clauses_g7", `"${data.clause}" is:`, data.type, wrong));
+        q.push(createMCQ("grammar_g7", "clauses_g7", `"${data.clause}" is:`, data.type, wrong, rng));
       }
       return q;
     },
@@ -9169,7 +9170,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(sentenceData, rng);
         const wrong = ["simple", "compound", "complex", "compound-complex"].filter(t => t !== data.type).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "sentence_types_g7", `Type: "${data.sentence}"?`, data.type, wrong));
+        q.push(createMCQ("grammar_g7", "sentence_types_g7", `Type: "${data.sentence}"?`, data.type, wrong, rng));
       }
       return q;
     },
@@ -9186,7 +9187,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(modData, rng);
-        q.push(createMCQ("grammar_g7", "modifiers_g7", `"${data.sentence}" has:`, data.problem, ["parallel structure error", "pronoun error", "tense error"]));
+        q.push(createMCQ("grammar_g7", "modifiers_g7", `"${data.sentence}" has:`, data.problem, ["parallel structure error", "pronoun error", "tense error"], rng));
       }
       return q;
     },
@@ -9201,7 +9202,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(voiceData, rng);
         const wrongVoice = data.voice === "active" ? "passive" : "active";
-        q.push(createMCQ("grammar_g7", "tense_voice_g7", `"${data.active}" is:`, data.voice, [wrongVoice, "conditional", "subjunctive"]));
+        q.push(createMCQ("grammar_g7", "tense_voice_g7", `"${data.active}" is:`, data.voice, [wrongVoice, "conditional", "subjunctive"], rng));
       }
       return q;
     },
@@ -9214,7 +9215,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
-        q.push(createMCQ("punctuation_g7", "commas_phrases_g7", `Commas needed for ${data.use}:`, "yes", ["no", "maybe", "only one"]));
+        q.push(createMCQ("punctuation_g7", "commas_phrases_g7", `Commas needed for ${data.use}:`, "yes", ["no", "maybe", "only one"], rng));
       }
       return q;
     },
@@ -9229,7 +9230,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(punctData, rng);
         const wrong = ["semicolon", "colon", "comma"].filter(u => u !== data.use).slice(0, 3);
-        q.push(createMCQ("punctuation_g7", "semicolons_colons_g7", `"${data.sentence}" uses:`, data.use, wrong));
+        q.push(createMCQ("punctuation_g7", "semicolons_colons_g7", `"${data.sentence}" uses:`, data.use, wrong, rng));
       }
       return q;
     },
@@ -9243,7 +9244,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(dashData, rng);
-        q.push(createMCQ("punctuation_g7", "dashes_hyphens_g7", `"${data.sentence}" uses ${data.mark} for:`, data.use, ["list intro", "time shift", "quotation"]));
+        q.push(createMCQ("punctuation_g7", "dashes_hyphens_g7", `"${data.sentence}" uses ${data.mark} for:`, data.use, ["list intro", "time shift", "quotation"], rng));
       }
       return q;
     },
@@ -9259,7 +9260,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(figData, rng);
         const wrong = ["extended metaphor", "symbolism", "allegory", "irony"].filter(d => d !== data.device).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "figurative_language_g7", `"${data.example}" is:`, data.device, wrong));
+        q.push(createMCQ("vocab_g7", "figurative_language_g7", `"${data.example}" is:`, data.device, wrong, rng));
       }
       return q;
     },
@@ -9273,7 +9274,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(connData, rng);
-        q.push(createMCQ("vocab_g7", "connotation_g7", `"${data.positive}" and "${data.negative}" both mean "${data.denotation}". Which has positive connotation?`, data.positive, [data.negative, "both equal", "neither"]));
+        q.push(createMCQ("vocab_g7", "connotation_g7", `"${data.positive}" and "${data.negative}" both mean "${data.denotation}". Which has positive connotation?`, data.positive, [data.negative, "both equal", "neither"], rng));
       }
       return q;
     },
@@ -9291,7 +9292,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(acadData, rng);
         const wrong = acadData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "academic_vocab_g7", `What does "${data.term}" mean?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "academic_vocab_g7", `What does "${data.term}" mean?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9306,7 +9307,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(analogyData, rng);
-        q.push(createMCQ("vocab_g7", "analogies_g7", `"${data.ex}" is a:`, data.rel, ["antonym", "homonym", "homograph"]));
+        q.push(createMCQ("vocab_g7", "analogies_g7", `"${data.ex}" is a:`, data.rel, ["antonym", "homonym", "homograph"], rng));
       }
       return q;
     },
@@ -9320,7 +9321,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(ceData, rng);
-        q.push(createMCQ("grammar_g7", "cause_effect_g7", `Identify connector in: "${data.sentence}"`, data.connector, ["but", "however", "although"]));
+        q.push(createMCQ("grammar_g7", "cause_effect_g7", `Identify connector in: "${data.sentence}"`, data.connector, ["but", "however", "although"], rng));
       }
       return q;
     },
@@ -9335,7 +9336,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(condData, rng);
         const wrong = ["if", "unless", "provided that"].filter(c => c !== data.condition).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "conditional_g7", `Conditional word in: "${data.sentence}"`, data.condition, wrong));
+        q.push(createMCQ("grammar_g7", "conditional_g7", `Conditional word in: "${data.sentence}"`, data.condition, wrong, rng));
       }
       return q;
     },
@@ -9350,7 +9351,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(concData, rng);
         const wrong = ["although", "even though", "despite"].filter(c => c !== data.connector).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "concessive_g7", `Concessive word in: "${data.sentence}"`, data.connector, wrong));
+        q.push(createMCQ("grammar_g7", "concessive_g7", `Concessive word in: "${data.sentence}"`, data.connector, wrong, rng));
       }
       return q;
     },
@@ -9365,7 +9366,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(purposeData, rng);
         const wrong = ["in order to", "so that", "lest"].filter(p => p !== data.purpose).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "purpose_g7", `Purpose connector in: "${data.sentence}"`, data.purpose, wrong));
+        q.push(createMCQ("grammar_g7", "purpose_g7", `Purpose connector in: "${data.sentence}"`, data.purpose, wrong, rng));
       }
       return q;
     },
@@ -9380,7 +9381,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(timeData, rng);
         const wrong = ["when", "while", "after", "before", "until"].filter(t => t !== data.connector).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "time_clauses_g7", `Time connector in: "${data.sentence}"`, data.connector, wrong));
+        q.push(createMCQ("grammar_g7", "time_clauses_g7", `Time connector in: "${data.sentence}"`, data.connector, wrong, rng));
       }
       return q;
     },
@@ -9395,7 +9396,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(infData, rng);
         const wrong = ["subject", "direct object", "modifier"].filter(f => f !== data.function).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "infinitive_phrases_g7", `Function in: "${data.sentence}"?`, data.function, wrong));
+        q.push(createMCQ("grammar_g7", "infinitive_phrases_g7", `Function in: "${data.sentence}"?`, data.function, wrong, rng));
       }
       return q;
     },
@@ -9408,7 +9409,7 @@ export const G7_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(gerundData, rng);
-        q.push(createMCQ("grammar_g7", "gerund_phrases_g7", `Gerund function in: "${data.sentence}"?`, data.function, ["modifier", "complement", "predicate"]));
+        q.push(createMCQ("grammar_g7", "gerund_phrases_g7", `Gerund function in: "${data.sentence}"?`, data.function, ["modifier", "complement", "predicate"], rng));
       }
       return q;
     },
@@ -9423,7 +9424,7 @@ export const G7_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(partData, rng);
         const wrong = ["-ing participle", "-ed participle", "gerund"].filter(f => f !== data.form).slice(0, 3);
-        q.push(createMCQ("grammar_g7", "participial_phrases_g7", `"${data.phrase}" is an:`, data.form, wrong));
+        q.push(createMCQ("grammar_g7", "participial_phrases_g7", `"${data.phrase}" is an:`, data.form, wrong, rng));
       }
       return q;
     },
@@ -9736,7 +9737,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(deviceData, rng);
         const wrong = deviceData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "literary_devices_g7", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "literary_devices_g7", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9753,7 +9754,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(argData, rng);
         const wrong = argData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "argument_structure_g7", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "argument_structure_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9770,7 +9771,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(mediaData, rng);
         const wrong = mediaData.filter(m => m.term !== data.term).map(m => m.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "media_literacy_g7", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "media_literacy_g7", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9787,7 +9788,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(researchData, rng);
         const wrong = researchData.filter(r => r.term !== data.term).map(r => r.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "research_vocab_g7", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "research_vocab_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9804,7 +9805,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(socialData, rng);
         const wrong = socialData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "social_issues_g7", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "social_issues_g7", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9821,7 +9822,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sciData, rng);
         const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "science_adv_g7", `What is a ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "science_adv_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9838,7 +9839,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(histData, rng);
         const wrong = histData.filter(h => h.term !== data.term).map(h => h.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "history_adv_g7", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "history_adv_g7", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9855,7 +9856,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(digitalData, rng);
         const wrong = digitalData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "digital_literacy_g7", `What is ${data.term}?`, data.definition, wrong));
+        q.push(createMCQ("vocab_g7", "digital_literacy_g7", `What is ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -10019,7 +10020,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(verbalData, rng);
           q.push(createMCQ("complex_grammar_g8", "verbals_g8",
-            `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong));
+            `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong, rng));
         } else {
           const data = pick(verbalData, rng);
           q.push(createTyping("complex_grammar_g8", "verbals_g8",
@@ -10052,11 +10053,11 @@ export const G8_Generators = {
           if (askCorrect) {
             q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
               "Which sentence uses a participial phrase CORRECTLY (no dangling modifier)?", data.correct,
-              [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."]));
+              [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."], rng));
           } else {
             q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
               `What is wrong with: "${data.dangling}"?`, data.issue,
-              ["run-on sentence", "comma splice", "sentence fragment"]));
+              ["run-on sentence", "comma splice", "sentence fragment"], rng));
           }
         } else {
           const data = pick(partData, rng);
@@ -10087,7 +10088,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(phraseData, rng);
           q.push(createMCQ("complex_grammar_g8", "absolute_phrases_g8",
-            `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong));
+            `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong, rng));
         } else {
           const data = pick(phraseData, rng);
           q.push(createTyping("complex_grammar_g8", "absolute_phrases_g8",
@@ -10122,7 +10123,7 @@ export const G8_Generators = {
           const sent = isActive ? voice.active : voice.passive;
           const type = isActive ? "active" : "passive";
           q.push(createMCQ("complex_grammar_g8", "active_passive_g8",
-            `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
+            `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type), rng));
         } else {
           const voice = pick(voiceData, rng);
           const toPassive = rng() > 0.5;
@@ -10161,7 +10162,7 @@ export const G8_Generators = {
           const data = pick(subjData, rng);
           q.push(createMCQ("complex_grammar_g8", "subjunctive_g8",
             "Which sentence uses the SUBJUNCTIVE mood correctly?", data.correct,
-            [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."]));
+            [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."], rng));
         } else {
           const data = pick(subjData, rng);
           q.push(createTyping("complex_grammar_g8", "subjunctive_g8",
@@ -10193,11 +10194,11 @@ export const G8_Generators = {
           if (askWhich) {
             q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
               "Which sentence has an INCONSISTENT voice or mood shift?", data.inconsistent,
-              [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."]));
+              [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."], rng));
           } else {
             q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
               `What error is in: "${data.inconsistent}"?`, data.error,
-              ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3)));
+              ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3), rng));
           }
         } else {
           const data = pick(shiftData, rng);
@@ -10224,7 +10225,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(verbalData, rng);
         q.push(createMCQ("complex_grammar_g8", "verbals_g8",
-          `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong));
+          `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong, rng));
       }
       return q;
     },
@@ -10245,11 +10246,11 @@ export const G8_Generators = {
         if (askCorrect) {
           q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
             "Which sentence uses a participial phrase CORRECTLY (no dangling modifier)?", data.correct,
-            [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."]));
+            [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."], rng));
         } else {
           q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
             `What is wrong with: "${data.dangling}"?`, data.issue,
-            ["run-on sentence", "comma splice", "sentence fragment"]));
+            ["run-on sentence", "comma splice", "sentence fragment"], rng));
         }
       }
       return q;
@@ -10268,7 +10269,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(phraseData, rng);
         q.push(createMCQ("complex_grammar_g8", "absolute_phrases_g8",
-          `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong));
+          `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong, rng));
       }
       return q;
     },
@@ -10290,7 +10291,7 @@ export const G8_Generators = {
         const sent = isActive ? voice.active : voice.passive;
         const type = isActive ? "active" : "passive";
         q.push(createMCQ("complex_grammar_g8", "active_passive_g8",
-          `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
+          `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type), rng));
       }
       return q;
     },
@@ -10310,7 +10311,7 @@ export const G8_Generators = {
         const data = pick(subjData, rng);
         q.push(createMCQ("complex_grammar_g8", "subjunctive_g8",
           "Which sentence uses the SUBJUNCTIVE mood correctly?", data.correct,
-          [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."]));
+          [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."], rng));
       }
       return q;
     },
@@ -10331,11 +10332,11 @@ export const G8_Generators = {
         if (askWhich) {
           q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
             "Which sentence has an INCONSISTENT voice or mood shift?", data.inconsistent,
-            [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."]));
+            [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."], rng));
         } else {
           q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
             `What error is in: "${data.inconsistent}"?`, data.error,
-            ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3)));
+            ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3), rng));
         }
       }
       return q;
@@ -10480,7 +10481,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(argData, rng);
-          q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(argData, rng);
           q.push(createTyping("writing_g8", "argumentative_g8", data.question, data.answer));
@@ -10508,7 +10509,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(infoData, rng);
-          q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(infoData, rng);
           q.push(createTyping("writing_g8", "informational_g8", data.question, data.answer));
@@ -10530,7 +10531,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(narrData, rng);
-          q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(narrData, rng);
           q.push(createTyping("writing_g8", "narrative_g8", data.question, data.answer));
@@ -10552,7 +10553,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(compData, rng);
-          q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(compData, rng);
           q.push(createTyping("writing_g8", "report_story_g8", data.question, data.answer));
@@ -10575,7 +10576,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(argData, rng);
-        q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -10593,7 +10594,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(infoData, rng);
-        q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -10612,7 +10613,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(narData, rng);
-        q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -10629,7 +10630,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(compData, rng);
-        q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -10732,7 +10733,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(povData, rng);
           q.push(createMCQ("literature_g8", "point_of_view_g8",
-            `What point of view? "${data.text}"`, data.pov, data.wrong));
+            `What point of view? "${data.text}"`, data.pov, data.wrong, rng));
         } else {
           const data = pick(povData, rng);
           q.push(createTyping("literature_g8", "point_of_view_g8",
@@ -10758,7 +10759,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(genreData, rng);
           q.push(createMCQ("literature_g8", "genres_g8",
-            `What genre? "${data.description}"`, data.genre, data.wrong));
+            `What genre? "${data.description}"`, data.genre, data.wrong, rng));
         } else {
           const data = pick(genreData, rng);
           q.push(createTyping("literature_g8", "genres_g8",
@@ -10784,7 +10785,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(litData, rng);
           q.push(createMCQ("literature_g8", "allusion_irony_g8",
-            `Identify the literary device: "${data.text}"`, data.device, data.wrong));
+            `Identify the literary device: "${data.text}"`, data.device, data.wrong, rng));
         } else {
           const data = pick(litData, rng);
           q.push(createTyping("literature_g8", "allusion_irony_g8",
@@ -10808,7 +10809,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(themeData, rng);
-          q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(themeData, rng);
           q.push(createTyping("literature_g8", "theme_g8", data.question, data.answer));
@@ -10830,7 +10831,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(povData, rng);
         q.push(createMCQ("literature_g8", "point_of_view_g8",
-          `What point of view? "${data.text}"`, data.pov, data.wrong));
+          `What point of view? "${data.text}"`, data.pov, data.wrong, rng));
       }
       return q;
     },
@@ -10850,7 +10851,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(genreData, rng);
         q.push(createMCQ("literature_g8", "genres_g8",
-          `What genre? "${data.description}"`, data.genre, data.wrong));
+          `What genre? "${data.description}"`, data.genre, data.wrong, rng));
       }
       return q;
     },
@@ -10870,7 +10871,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(litData, rng);
         q.push(createMCQ("literature_g8", "allusion_irony_g8",
-          `Identify the literary device: "${data.text}"`, data.device, data.wrong));
+          `Identify the literary device: "${data.text}"`, data.device, data.wrong, rng));
       }
       return q;
     },
@@ -10888,7 +10889,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(themeData, rng);
-        q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -10984,7 +10985,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(regData, rng);
           q.push(createMCQ("style_g8", "formal_register_g8",
-            "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)]));
+            "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)], rng));
         } else {
           const data = pick(regData, rng);
           q.push(createTyping("style_g8", "formal_register_g8",
@@ -11008,7 +11009,7 @@ export const G8_Generators = {
           const data = pick(acData, rng);
           q.push(createMCQ("style_g8", "academic_vs_conv_g8",
             "Which phrase is more appropriate in ACADEMIC writing?", data.academic,
-            [data.conversational, ...data.wrong.slice(0, 2)]));
+            [data.conversational, ...data.wrong.slice(0, 2)], rng));
         } else {
           const data = pick(acData, rng);
           q.push(createTyping("style_g8", "academic_vs_conv_g8",
@@ -11034,7 +11035,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(domainData, rng);
           q.push(createMCQ("style_g8", "domain_vocab_g8",
-            `In a ${data.domain} essay, which term is DOMAIN-SPECIFIC?`, data.term, data.wrong));
+            `In a ${data.domain} essay, which term is DOMAIN-SPECIFIC?`, data.term, data.wrong, rng));
         } else {
           const data = pick(domainData, rng);
           q.push(createTyping("style_g8", "domain_vocab_g8",
@@ -11056,45 +11057,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(regData, rng);
         q.push(createMCQ("style_g8", "formal_register_g8",
-          "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)]));
-      }
-      return q;
-    },
-    academic_vs_conv_g8_mcq: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const acData = [
-        { academic: "The data suggests a correlation between the variables.", conversational: "The numbers kind of match up.", wrong: ["It seems like they go together.", "The stats look the same.", "Stuff is related I guess."] },
-        { academic: "The protagonist undergoes significant character development.", conversational: "The main character really changes a lot.", wrong: ["The guy totally transforms.", "He's like a different person.", "The character changes or whatever."] },
-        { academic: "The author employs vivid imagery to convey the setting.", conversational: "The writer uses cool descriptions for the place.", wrong: ["The author paints a pretty picture.", "The writer makes you see stuff.", "Cool words describe the setting."] },
-        { academic: "Research indicates that exercise improves cognitive function.", conversational: "Studies show working out helps your brain.", wrong: ["Exercise is good for thinking.", "Working out makes you smarter.", "Moving around helps your head."] },
-        { academic: "The evidence substantiates the hypothesis.", conversational: "The proof backs up the guess.", wrong: ["The facts check out.", "It proves the idea.", "Everything matches up."] },
-      ];
-      for (let i = 0; i < 30; i++) {
-        const data = pick(acData, rng);
-        q.push(createMCQ("style_g8", "academic_vs_conv_g8",
-          "Which phrase is more appropriate in ACADEMIC writing?", data.academic,
-          [data.conversational, ...data.wrong.slice(0, 2)]));
-      }
-      return q;
-    },
-    domain_vocab_g8_mcq: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const domainData = [
-        { domain: "biology", term: "mitosis", general: "cell division", wrong: ["growth", "change", "split"] },
-        { domain: "chemistry", term: "oxidation", general: "chemical reaction with oxygen", wrong: ["burning", "rusting", "melting"] },
-        { domain: "literature", term: "protagonist", general: "main character", wrong: ["hero", "villain", "narrator"] },
-        { domain: "mathematics", term: "coefficient", general: "the number multiplied by a variable", wrong: ["answer", "total", "equation"] },
-        { domain: "history", term: "imperialism", general: "a policy of extending power over other nations", wrong: ["war", "trade", "exploration"] },
-        { domain: "music", term: "crescendo", general: "gradually getting louder", wrong: ["rhythm", "melody", "tempo"] },
-        { domain: "computer science", term: "algorithm", general: "a step-by-step procedure for solving a problem", wrong: ["a computer program", "a math equation", "a code language"] },
-        { domain: "earth science", term: "erosion", general: "the gradual wearing away of land by natural forces", wrong: ["earthquake", "volcano", "flooding"] },
-      ];
-      for (let i = 0; i < 30; i++) {
-        const data = pick(domainData, rng);
-        q.push(createMCQ("style_g8", "domain_vocab_g8",
-          `In a ${data.domain} essay, which term is DOMAIN-SPECIFIC?`, data.term, data.wrong));
+          "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)], rng));
       }
       return q;
     },
@@ -11168,7 +11131,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
           const data = pick(ellData, rng);
-          q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong));
+          q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong, rng));
         } else {
           const data = pick(ellData, rng);
           q.push(createTyping("punctuation_g8", "ellipsis_g8", data.question, data.answer));
@@ -11191,7 +11154,7 @@ export const G8_Generators = {
           const data = pick(dashData, rng);
           q.push(createMCQ("punctuation_g8", "dashes_g8",
             "Which correctly uses an EM DASH?", data.correct,
-            [data.incorrect, "She had one goal...to win.", "She had one goal; to win."]));
+            [data.incorrect, "She had one goal...to win.", "She had one goal; to win."], rng));
         } else {
           const data = pick(dashData, rng);
           q.push(createTyping("punctuation_g8", "dashes_g8",
@@ -11214,7 +11177,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
         q.push(createMCQ("punctuation_g8", "commas_complex_g8",
-          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong));
+          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong, rng));
       }
       return q;
     },
@@ -11231,7 +11194,7 @@ export const G8_Generators = {
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(ellData, rng);
-        q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong));
+        q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong, rng));
       }
       return q;
     },
@@ -11249,7 +11212,7 @@ export const G8_Generators = {
         const data = pick(dashData, rng);
         q.push(createMCQ("punctuation_g8", "dashes_g8",
           "Which correctly uses an EM DASH?", data.correct,
-          [data.incorrect, "She had one goal...to win.", "She had one goal; to win."]));
+          [data.incorrect, "She had one goal...to win.", "She had one goal; to win."], rng));
       }
       return q;
     },
@@ -11267,7 +11230,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(commaData, rng);
         q.push(createMCQ("punctuation_g8", "commas_complex_g8",
-          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong));
+          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong, rng));
       }
       return q;
     },
@@ -11344,7 +11307,7 @@ export const G8_Generators = {
           const data = pick(rootData, rng);
           const example = pick(data.examples, rng);
           q.push(createMCQ("vocab_g8", "greek_latin_adv_g8",
-            `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong));
+            `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong, rng));
         } else {
           const data = pick(rootData, rng);
           q.push(createTyping("vocab_g8", "greek_latin_adv_g8",
@@ -11370,11 +11333,11 @@ export const G8_Generators = {
           const askMeaning = rng() > 0.4;
           if (askMeaning) {
             q.push(createMCQ("vocab_g8", "context_clues_g8",
-              `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong));
+              `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong, rng));
           } else {
             q.push(createMCQ("vocab_g8", "context_clues_g8",
               `What TYPE of context clue helps define '${data.word}'?`, data.clueType,
-              ["no clue is given", "root word clue", "illustration clue"]));
+              ["no clue is given", "root word clue", "illustration clue"], rng));
           }
         } else {
           const data = pick(clueData, rng);
@@ -11401,7 +11364,7 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const data = pick(figData, rng);
           q.push(createMCQ("vocab_g8", "figurative_adv_g8",
-            `What figurative device? ${data.text}`, data.device, data.wrong));
+            `What figurative device? ${data.text}`, data.device, data.wrong, rng));
         } else {
           const data = pick(figData, rng);
           q.push(createTyping("vocab_g8", "figurative_adv_g8",
@@ -11430,15 +11393,15 @@ export const G8_Generators = {
             const askFormal = rng() > 0.5;
             if (askFormal) {
               q.push(createMCQ("vocab_g8", "word_nuances_g8",
-                `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong));
+                `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong, rng));
             } else {
               q.push(createMCQ("vocab_g8", "word_nuances_g8",
-                `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong));
+                `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong, rng));
             }
           } else {
             q.push(createMCQ("vocab_g8", "word_nuances_g8",
               `Which word has a POSITIVE connotation? ${data.words.join(", ")}`, data.positive!,
-              [data.negative!, data.neutral!, ...data.wrong]));
+              [data.negative!, data.neutral!, ...data.wrong], rng));
           }
         } else {
           const data = pick(nuanceData, rng);
@@ -11472,7 +11435,7 @@ export const G8_Generators = {
         const data = pick(rootData, rng);
         const example = pick(data.examples, rng);
         q.push(createMCQ("vocab_g8", "greek_latin_adv_g8",
-          `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong));
+          `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong, rng));
       }
       return q;
     },
@@ -11492,11 +11455,11 @@ export const G8_Generators = {
         const askMeaning = rng() > 0.4;
         if (askMeaning) {
           q.push(createMCQ("vocab_g8", "context_clues_g8",
-            `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong));
+            `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong, rng));
         } else {
           q.push(createMCQ("vocab_g8", "context_clues_g8",
             `What TYPE of context clue helps define '${data.word}'?`, data.clueType,
-            ["no clue is given", "root word clue", "illustration clue"]));
+            ["no clue is given", "root word clue", "illustration clue"], rng));
         }
       }
       return q;
@@ -11517,7 +11480,7 @@ export const G8_Generators = {
       for (let i = 0; i < 30; i++) {
         const data = pick(figData, rng);
         q.push(createMCQ("vocab_g8", "figurative_adv_g8",
-          `What figurative device? ${data.text}`, data.device, data.wrong));
+          `What figurative device? ${data.text}`, data.device, data.wrong, rng));
       }
       return q;
     },
@@ -11540,15 +11503,15 @@ export const G8_Generators = {
           const askFormal = rng() > 0.5;
           if (askFormal) {
             q.push(createMCQ("vocab_g8", "word_nuances_g8",
-              `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong));
+              `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong, rng));
           } else {
             q.push(createMCQ("vocab_g8", "word_nuances_g8",
-              `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong));
+              `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong, rng));
           }
         } else {
           q.push(createMCQ("vocab_g8", "word_nuances_g8",
             `Which word has a POSITIVE connotation? ${data.words.join(", ")}`, data.positive!,
-            [data.negative!, data.neutral!, ...data.wrong]));
+            [data.negative!, data.neutral!, ...data.wrong], rng));
         }
       }
       return q;
@@ -11689,7 +11652,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(rhetoricalData, rng);
         q.push(createMCQ("vocab_g8", "rhetoric_g8_mcq",
-          `What rhetorical appeal or device is used in: "${data.example}"?`, data.appeal, data.wrong));
+          `What rhetorical appeal or device is used in: "${data.example}"?`, data.appeal, data.wrong, rng));
       }
       return q;
     },
@@ -11736,7 +11699,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(philosophyData, rng);
         q.push(createMCQ("vocab_g8", "philosophy_ethics_g8_mcq",
-          `What does "${data.term}" mean in ethics?`, data.definition, data.wrong));
+          `What does "${data.term}" mean in ethics?`, data.definition, data.wrong, rng));
       }
       return q;
     },
@@ -11779,7 +11742,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(litData, rng);
         q.push(createMCQ("vocab_g8", "world_literature_g8_mcq",
-          `What literary term is described: "${data.example}"?`, data.term, data.wrong));
+          `What literary term is described: "${data.example}"?`, data.term, data.wrong, rng));
       }
       return q;
     },
@@ -11822,7 +11785,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(econ_data, rng);
         q.push(createMCQ("vocab_g8", "economics_g8_mcq",
-          `What does "${data.term}" mean in economics?`, data.definition, data.wrong));
+          `What does "${data.term}" mean in economics?`, data.definition, data.wrong, rng));
       }
       return q;
     },
@@ -11865,7 +11828,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sci_data, rng);
         q.push(createMCQ("vocab_g8", "science_adv_g8_mcq",
-          `What does "${data.term}" mean?`, data.definition, data.wrong));
+          `What does "${data.term}" mean?`, data.definition, data.wrong, rng));
       }
       return q;
     },
@@ -11908,7 +11871,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(writing_data, rng);
         q.push(createMCQ("vocab_g8", "advanced_writing_g8_mcq",
-          `What does "${data.term}" mean in writing?`, data.definition, data.wrong));
+          `What does "${data.term}" mean in writing?`, data.definition, data.wrong, rng));
       }
       return q;
     },
@@ -11951,7 +11914,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(syntax_data, rng);
         q.push(createMCQ("vocab_g8", "syntax_style_g8_mcq",
-          `What syntactic or stylistic device is in: "${data.example}"?`, data.term, data.wrong));
+          `What syntactic or stylistic device is in: "${data.example}"?`, data.term, data.wrong, rng));
       }
       return q;
     },
@@ -11994,7 +11957,7 @@ export const G8_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(ct_data, rng);
         q.push(createMCQ("vocab_g8", "critical_thinking_g8_mcq",
-          `What does "${data.term}" mean?`, data.definition, data.wrong));
+          `What does "${data.term}" mean?`, data.definition, data.wrong, rng));
       }
       return q;
     },

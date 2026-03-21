@@ -31,6 +31,11 @@ import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
 import SpellRaceExplorer from "@/app/astroenglish/games/SpellRaceExplorer";
 import CategoryRushExplorer from "@/app/astroenglish/games/CategoryRushExplorer";
 import GrammarMatchExplorer from "@/app/astroenglish/games/GrammarMatchExplorer";
+import PhonicsExplorer from "@/app/astroenglish/games/PhonicsExplorer";
+import PictureVocabExplorer from "@/app/astroenglish/games/PictureVocabExplorer";
+import RhymeMatchExplorer from "@/app/astroenglish/games/RhymeMatchExplorer";
+import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
+import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import {
   generateK1WordSortContent,
   generateK1SpellRaceContent,
@@ -55,6 +60,43 @@ function getK1ExplorerContent(gameType: string): any {
       return generateK1CategoryRushContent();
     case "grammar-match":
       return generateK1GrammarMatchContent();
+    case "phonics":
+      return [
+        { sound: "/sh/", words: ["ship", "shop", "sun", "shoe", "sit", "shell"], correctIndices: [0, 1, 3, 5], explanation: "The /sh/ sound is spelled 'sh'" },
+        { sound: "/ch/", words: ["chair", "cat", "cheese", "cup", "child", "cow"], correctIndices: [0, 2, 4], explanation: "The /ch/ sound is spelled 'ch'" },
+        { sound: "/th/", words: ["think", "ten", "this", "that", "toy", "three"], correctIndices: [0, 2, 3, 5], explanation: "The /th/ sound is spelled 'th'" },
+      ];
+    case "picture-vocab":
+      return [
+        { emoji: "🐕", word: "dog", options: ["cat", "dog", "bird", "fish"], correctIndex: 1, sentence: "The dog is playing." },
+        { emoji: "🏠", word: "house", options: ["school", "house", "store", "park"], correctIndex: 1, sentence: "I live in a house." },
+        { emoji: "🌳", word: "tree", options: ["flower", "grass", "tree", "bush"], correctIndex: 2, sentence: "The tree is tall." },
+        { emoji: "☀️", word: "sun", options: ["moon", "star", "sun", "cloud"], correctIndex: 2, sentence: "The sun is bright." },
+        { emoji: "📚", word: "books", options: ["books", "pens", "toys", "bags"], correctIndex: 0, sentence: "I read many books." },
+      ];
+    case "rhyme-match":
+      return [
+        { targetWord: "cat", options: ["hat", "dog", "cup", "pen"], correctIndex: 0, rhymePattern: "-at" },
+        { targetWord: "sun", options: ["tree", "run", "big", "map"], correctIndex: 1, rhymePattern: "-un" },
+        { targetWord: "cake", options: ["lake", "fork", "milk", "desk"], correctIndex: 0, rhymePattern: "-ake" },
+        { targetWord: "bell", options: ["ball", "well", "fish", "hand"], correctIndex: 1, rhymePattern: "-ell" },
+        { targetWord: "king", options: ["kite", "cat", "ring", "jump"], correctIndex: 2, rhymePattern: "-ing" },
+      ];
+    case "memory-pair":
+      return [
+        { word: "happy", match: "😊" },
+        { word: "sad", match: "😢" },
+        { word: "dog", match: "🐕" },
+        { word: "cat", match: "🐱" },
+        { word: "sun", match: "☀️" },
+        { word: "moon", match: "🌙" },
+      ];
+    case "pronunciation":
+      return [
+        { word: "apple", phonetic: "/ˈæpəl/", syllables: ["ap", "ple"], stressIndex: 0, options: ["1", "2", "3", "4"], correctIndex: 0, questionType: "syllable-count" as const },
+        { word: "banana", phonetic: "/bəˈnænə/", syllables: ["ba", "na", "na"], stressIndex: 1, options: ["1st", "2nd", "3rd"], correctIndex: 1, questionType: "stress" as const },
+        { word: "cat", phonetic: "/kæt/", syllables: ["cat"], options: ["c", "k", "g"], correctIndex: 0, questionType: "silent-letter" as const, explanation: "The 'c' makes the /k/ sound" },
+      ];
     default:
       return [];
   }
@@ -97,6 +139,11 @@ type Screen =
   | "spell-race"
   | "category-rush"
   | "grammar-match"
+  | "phonics"
+  | "picture-vocab"
+  | "rhyme-match"
+  | "memory-pair"
+  | "pronunciation"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -476,7 +523,7 @@ export default function AstroEnglishK1Page() {
     setAvatarMood("focused");
 
     // For explorer games, we don't use questions array - content is generated per game
-    if (["word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(mission.gameType)) {
+    if (["word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation"].includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
     } else {
@@ -597,7 +644,7 @@ export default function AstroEnglishK1Page() {
               initial={{ width: 0 }} animate={{ width: `${(totalDone / 9) * 100}%` }} transition={{ duration: 0.8 }} />
           </div>
         </div>
-        <div className="relative z-10 flex-1 overflow-y-auto">
+        <div className="relative z-10 flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
               <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
@@ -790,11 +837,26 @@ export default function AstroEnglishK1Page() {
         {screen === "grammar-match" && activeIsland && (
           <GrammarMatchExplorer rounds={getK1ExplorerContent("grammar-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "phonics" && activeIsland && (
+          <PhonicsExplorer rounds={getK1ExplorerContent("phonics")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "picture-vocab" && activeIsland && (
+          <PictureVocabExplorer rounds={getK1ExplorerContent("picture-vocab")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "rhyme-match" && activeIsland && (
+          <RhymeMatchExplorer rounds={getK1ExplorerContent("rhyme-match")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "memory-pair" && activeIsland && (
+          <MemoryPairExplorer pairs={getK1ExplorerContent("memory-pair")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "pronunciation" && activeIsland && (
+          <PronunciationExplorer rounds={getK1ExplorerContent("pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

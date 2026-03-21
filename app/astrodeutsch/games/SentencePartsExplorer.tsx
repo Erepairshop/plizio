@@ -1,7 +1,8 @@
 "use client";
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -23,6 +24,7 @@ const LABELS: Record<string, Record<string, string>> = {
     checkLabel: "Prüfen ✓",
     whatIsSubject: "Was ist das Subjekt?",
     whatIsPredicate: "Was ist das Prädikat?",
+    discovery: "💡 Jeder Satz hat ein Subjekt (WER? WAS?) und ein Prädikat (WAS TUT? WAS IST?). Das Subjekt ist meist ein Nomen, das Prädikat ist immer das Verb!",
   },
   en: {
     title: "Subject & Predicate",
@@ -43,6 +45,7 @@ const LABELS: Record<string, Record<string, string>> = {
     checkLabel: "Check ✓",
     whatIsSubject: "What is the subject?",
     whatIsPredicate: "What is the predicate?",
+    discovery: "💡 Every sentence has a subject (WHO? WHAT?) and a predicate (WHAT does? WHAT is?). The subject is usually a noun, the predicate is always the verb!",
   },
   hu: {
     title: "Alany és állítmány",
@@ -63,6 +66,7 @@ const LABELS: Record<string, Record<string, string>> = {
     checkLabel: "Ellenőrzés ✓",
     whatIsSubject: "Mi az alany?",
     whatIsPredicate: "Mi az állítmány?",
+    discovery: "💡 Minden mondatnak van egy alanya (KI? MI?) és egy állítványa (MIT CSINÁL? MI?). Az alany általában egy főnév, az állítmány pedig mindig az ige!",
   },
   ro: {
     title: "Subiect & Predicat",
@@ -83,6 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
     checkLabel: "Verifică ✓",
     whatIsSubject: "Care este subiectul?",
     whatIsPredicate: "Care este predicatul?",
+    discovery: "💡 Fiecare propoziție are un subiect (CINE? CE?) și un predicat (CE FACE? CE ESTE?). Subiectul este de obicei un substantiv, predicatul este întotdeauna verbul!",
   },
 };
 
@@ -190,10 +195,11 @@ const SUBJ_SENTENCES = [
   { sentence: "Mein Bruder liest ein Buch.", correctIndices: [0, 1] },
 ];
 
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const subjectColor = "#3b82f6";
   const [si, setSi] = useState(0);
-  const handleDone = (_correct: boolean) => {
+  const handleDone = (correct: boolean) => {
+    if (!correct) wrongCountRef.current++;
     if (si + 1 >= SUBJ_SENTENCES.length) onNext();
     else setSi(si + 1);
   };
@@ -223,10 +229,11 @@ const PRED_SENTENCES = [
   { sentence: "Der Lehrer erklärt die Aufgabe.", correctIndices: [2] },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const predicateColor = "#ef4444";
   const [si, setSi] = useState(0);
-  const handleDone = (_correct: boolean) => {
+  const handleDone = (correct: boolean) => {
+    if (!correct) wrongCountRef.current++;
     if (si + 1 >= PRED_SENTENCES.length) onNext();
     else setSi(si + 1);
   };
@@ -257,7 +264,7 @@ const BOTH_SENTENCES = [
   { sentence: "Die Sonne scheint hell.", subjectIdx: [0, 1], predicateIdx: [2] },
 ];
 
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const subjectColor = "#3b82f6";
   const predicateColor = "#ef4444";
   const [qi, setQi] = useState(0);
@@ -265,8 +272,9 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const [subjDone, setSubjDone] = useState(false);
 
   const q = BOTH_SENTENCES[qi];
-  const handleSubjDone = (_c: boolean) => { setSubjDone(true); setPhase("predicate"); };
-  const handlePredDone = (_c: boolean) => {
+  const handleSubjDone = (c: boolean) => { if (!c) wrongCountRef.current++; setSubjDone(true); setPhase("predicate"); };
+  const handlePredDone = (c: boolean) => {
+    if (!c) wrongCountRef.current++;
     if (qi + 1 >= BOTH_SENTENCES.length) onNext();
     else { setQi(qi + 1); setPhase("subject"); setSubjDone(false); }
   };
@@ -332,13 +340,18 @@ const PART_QUIZ = [
   },
 ];
 
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string }) {
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const q = PART_QUIZ[qi];
 
-  const handleSelect = (i: number) => { if (revealed) return; setSelected(i); setRevealed(true); };
+  const handleSelect = (i: number) => {
+    if (revealed) return;
+    setSelected(i);
+    setRevealed(true);
+    if (i !== q.correct) wrongCountRef.current++;
+  };
   const handleNext = () => {
     if (qi + 1 >= PART_QUIZ.length) onDone();
     else { setQi(qi + 1); setSelected(null); setRevealed(false); }
@@ -348,8 +361,11 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
         style={{ background: `${color}22` }}>{lbl.round5}</div>
-      <div className="px-4 py-2 rounded-2xl border text-sm font-semibold text-white/85 text-center"
-        style={{ borderColor: "rgba(255,255,255,0.15)", background: "rgba(255,255,255,0.05)" }}>{q.sentence}</div>
+      <div className="flex items-center justify-center gap-2 px-4 py-2 rounded-2xl border"
+        style={{ borderColor: "rgba(255,255,255,0.15)", background: "rgba(255,255,255,0.05)" }}>
+        <span className="text-sm font-semibold text-white/85">{q.sentence}</span>
+        <SpeakButton text={q.sentence} lang={"de"} size={16} />
+      </div>
       <p className="text-sm font-bold text-white/80">{lbl[q.questionKey as keyof typeof lbl]}</p>
       <div className="flex flex-col gap-2 w-full px-4">
         {q.options.map((opt, i) => {
@@ -387,8 +403,12 @@ const SentencePartsExplorer = memo(function SentencePartsExplorer({
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
+  const wrongCountRef = useRef(0);
   const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
+  const finish = useCallback(() => {
+    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
+    onDone(score, TOTAL_ROUNDS);
+  }, [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
       <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
@@ -397,10 +417,19 @@ const SentencePartsExplorer = memo(function SentencePartsExplorer({
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 4 && (
+            <div className="w-full flex flex-col items-center gap-4">
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} />
+              <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+                className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
+                style={{ background: `${color}22` }}>
+                {lbl.discovery}
+              </motion.div>
+            </div>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>
