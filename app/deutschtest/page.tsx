@@ -590,11 +590,12 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     // but different answers (MCQ options, visual data) are kept as distinct
     function dedupKey(q: TestQuestion): string {
       const a = q as any;
-      // MCQ: use the correct answer text from options[correct]
-      const mcqAnswer = (a.options && a.correct !== undefined) ? String(a.options[a.correct] ?? "") : "";
-      const extra = a.answer ?? mcqAnswer ?? "";
+      const qText = (q.question ?? "").trim();
+      // Questions with same text = same question regardless of type (MCQ vs typing)
+      if (qText) return qText.slice(0, 80);
+      // Visual questions without a question label: use visual content as key
       const visual = a.words?.join(",") ?? a.stamm ?? a.imageKey ?? a.shuffled?.join(",") ?? "";
-      return q.question.slice(0, 60) + "|" + String(extra).slice(0, 80) + "|" + String(visual).slice(0, 60);
+      return q.type + "|" + String(visual).slice(0, 80);
     }
 
     // Build pools per unique topic (shuffled, deduplicated)
@@ -799,6 +800,12 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     incrementTotalGames();
     if (pct === 100) incrementPerfectScores();
     checkNewMilestones();
+
+    // No card if only reading test was selected (no regular subtopics)
+    if (selectedIds.length === 0) {
+      setScreen("reward");
+      return;
+    }
 
     const rarity = calculateRarity(correct, total, 0, 85);
     const card = {
