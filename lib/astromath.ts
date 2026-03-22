@@ -56,7 +56,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "skeleton-explorer" | "bodysystem-explorer" | "sense-explorer" | "nutrition-explorer"
   | "arthropod-explorer" | "mollusk-explorer" | "forest-explorer" | "water-explorer"
   | "heart-explorer" | "circulation-explorer" | "respiration-explorer" | "puberty-explorer"
-  | "cell-explorer" | "division-explorer" | "photosynthesis-explorer" | "ecology-explorer" | "immune-explorer" | "nerve-explorer" | "evolution-explorer";
+  | "cell-explorer" | "division-explorer" | "photosynthesis-explorer" | "ecology-explorer" | "immune-explorer" | "nerve-explorer" | "evolution-explorer"
+  | "dna-explorer" | "mutation-explorer" | "hormone-explorer" | "reproduction-explorer" | "biotech-explorer" | "systems-explorer" | "popgen-explorer" | "phylogeny-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
