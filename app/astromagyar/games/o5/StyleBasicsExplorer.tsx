@@ -4,28 +4,36 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Stílus szintjei", tx1: "A nyelv használata különböző szinteken: beszéltnyelv (közvetlen), közszint (normális), köznyelv (formális). Minden megfelelő helye van.",
-    q1: "Mely szint a legformálisabb?", a1: "köznyelv", b1: "beszéltnyelv", c1: "közszint", d1: "szárcínyelv",
-    t2: "Szóképek: metafora", tx2: "A metafora nem szó szerinti hasonlat, hanem közvetlen azonosítás. Pl: \"Az élet egy utazás\" vagy \"Ő arany szív.\"",
-    q2: "Melyik a metafora?", a2: "Az élet egy utazás", b2: "Az élet olyan, mint az utazás", c2: "Az élet könnyű", d2: "Az élet szürke",
-    t3: "Szóképek: hasonlat", tx3: "A hasonlat szó szerinti összehasonlítás valami másikkal. Pl: \"Olyan szilaj, mint a szél\" vagy \"Csendes, mint az éjszaka.\"",
-    q3: "Melyik a hasonlat?", a3: "Olyan szilaj, mint a szél", b3: "A szél szilaj", c3: "Szilaj szél", d3: "Szélsebesen szilaj",
-    t4: "Metonímia és szinekdoché", tx4: "Metonímia: szócsere (pl: \"Olvass el egy Móriczot!\" - nem a szerzőt, hanem művét). Szinekdoché: rész helyett az egész vagy fordítva.",
-    q4: "Mi a metonímia a mondatban: \"A város felvetette a lázadást\"?", a4: "a város lakói felvetették", b4: "a város épülete", c4: "a város szél", d4: "a város tér",
-    t5: "Irodalmi stílusok gyakorlása", tx5: "Az irodalmi stílusok összessége teszi egyedivé az írót. Az egyéni stílus a szóválasztástól, ritmusától, képeitől függ.",
-    q5: "Mit határozza meg az egyéni írói stílust?", a5: "szóválasztás, ritmus, képek", b5: "betűtípus", c5: "papírméret", d5: "ceruzaszín",
+    t1: "Stílusfunkciók", tx1: "A stílus azt mutatja, hogyan kapcsolódik az írás az olvasóhoz. Az irodalmi, tudományos és szóbeli stílusok különböző célt szolgálnak.",
+    q1: "Melyik szöveg irodalmi stílusú?", a1: "Az élet olyan, mint egy régi, rozsdásodott kulcs, amely nyit egy titokzatos szobára.", b1: "A vér Cu2+ ionokat tartalmaz.", c1: "Holnap találkozunk az iskola előtt.", d1: "A szék az asztal mellett van.",
+
+    t2: "Metafora", tx2: "A metafora egy szövegtípus, ahol egy dolgot egy másik dologhoz hasonlítunk anélkül, hogy 'mint' vagy 'mintha' szót használnánk.",
+    q2: "Melyik mondat metafora?", a2: "Ez az autó olyan gyors, mint egy sólyom.", b2: "Az ő szíve egy kőből kívájt sírkamra volt.", c2: "A fa magas és vékony.", d2: "Az ő ruhája kék.",
+
+    t3: "Hasonlat", tx3: "A hasonlat egy szövegtípus, ahol 'mint' vagy 'mintha' szóval hasonlítunk egy dolgot egy másikhoz.",
+    q3: "Melyik mondat hasonlat?", a3: "Az ő szíve egy kőből kívájt sírkamra volt.", b3: "Ez az autó olyan gyors, mint egy sólyom.", c3: "A fa zöld levelű volt.", d3: "Az ő arca szép volt.",
+
+    t4: "Metoníma", tx4: "A metoníma olyan stílusfigura, ahol egy dolog helyett a vele szorosan kapcsolódó másik dolgot használjuk.",
+    q4: "Melyik mondat metoníma?", a4: "Az ő szemei olyan kékek voltak, mint az ég.", b4: "Az egész város hallotta a hírt.", c4: "A fa alatt feküdt.", d4: "Az ő ruhája szép volt.",
+
+    t5: "Alliteráció", tx5: "Az alliteráció az ugyanazzal a hangzóval kezdődő szavak ismétlésének stílusfigurája.",
+    q5: "Melyik mondat alliteráció?", a5: "Az ő arca szép és vidám volt.", b5: "A szív sok szeretetet szétszórt szét.", c5: "Az autó az út mellett parkolt.", d5: "A kutya az udvaron volt.",
   },
   de: {
-    t1: "Sprachebenen", tx1: "Die Sprache wird auf verschiedenen Ebenen verwendet: Umgangssprache (direkt), Standardsprache (normal), Formalsprache (förmlich). Jede hat ihren Platz.",
-    q1: "Welche Ebene ist am formellsten?", a1: "Formalsprache", b1: "Umgangssprache", c1: "Standardsprache", d1: "Schriftsprache",
-    t2: "Sprachbilder: Metapher", tx2: "Die Metapher ist kein wörtlicher Vergleich, sondern direkte Gleichsetzung. Z.B.: \"Das Leben ist eine Reise\" oder \"Er hat ein goldenes Herz.\"",
-    q2: "Welche ist eine Metapher?", a2: "Das Leben ist eine Reise", b2: "Das Leben ist wie eine Reise", c2: "Das Leben ist leicht", d2: "Das Leben ist grau",
-    t3: "Sprachbilder: Vergleich", tx3: "Der Vergleich ist ein wörtlicher Vergleich mit etwas anderem. Z.B.: \"Wild wie der Wind\" oder \"Still wie die Nacht.\"",
-    q3: "Welcher ist ein Vergleich?", a3: "Wild wie der Wind", b3: "Der Wind ist wild", c3: "Wilder Wind", d3: "Wildheit des Windes",
-    t4: "Metonymie und Synekdoche", tx4: "Metonymie: Wortvertauschung (z.B. \"Lies einen Móricz!\" - nicht den Autor, sondern sein Werk). Synekdoche: Teil statt Ganzes oder umgekehrt.",
-    q4: "Was ist die Metonymie im Satz: 'Die Stadt erhob sich zum Aufstand'?", a4: "die Stadtbewohner erhoben sich", b4: "die Gebäude der Stadt", c4: "der Stadtwind", d4: "der Stadtplatz",
-    t5: "Literarische Stile üben", tx5: "Der literarische Stil eines Autors besteht aus seinen Wortwahlentscheidungen, seinem Rhythmus und seinen Bildern.",
-    q5: "Was bestimmt den individuellen Schreibstil?", a5: "Wortwahlentscheidungen, Rhythmus, Bilder", b5: "Schriftart", c5: "Papiergröße", d5: "Stiftfarbe",
+    t1: "Stilfunktionen", tx1: "Der Stil zeigt, wie sich das Schreiben zum Leser verhält. Literarischer, wissenschaftlicher und gesprochener Stil dienen verschiedenen Zwecken.",
+    q1: "Welcher Text hat literarischen Stil?", a1: "Das Leben ist wie ein alter, verrosteter Schlüssel, der ein geheimes Zimmer öffnet.", b1: "Das Blut enthält Cu2+-Ionen.", c1: "Morgen treffen wir uns vor der Schule.", d1: "Der Stuhl steht neben dem Tisch.",
+
+    t2: "Metapher", tx2: "Eine Metapher ist eine Stilfigur, in der wir einen Gegenstand mit einem anderen vergleichen, ohne 'wie' oder 'als ob' zu verwenden.",
+    q2: "Welcher Satz ist eine Metapher?", a2: "Dieses Auto ist so schnell wie ein Falke.", b2: "Sein Herz war eine Grabkammer, die aus Stein gemeißelt war.", c2: "Der Baum ist groß und dünn.", d2: "Ihr Kleid war blau.",
+
+    t3: "Vergleich", tx3: "Ein Vergleich ist eine Stilfigur, bei der wir mit 'wie' oder 'als ob' einen Gegenstand mit einem anderen vergleichen.",
+    q3: "Welcher Satz ist ein Vergleich?", a3: "Sein Herz war eine Grabkammer, die aus Stein gemeißelt war.", b3: "Dieses Auto ist so schnell wie ein Falke.", c3: "Der Baum hatte grüne Blätter.", d3: "Ihr Gesicht war schön.",
+
+    t4: "Metonymie", tx4: "Die Metonymie ist eine Stilfigur, bei der wir einen Gegenstand durch einen anderen ersetzen, der damit eng verbunden ist.",
+    q4: "Welcher Satz ist eine Metonymie?", a4: "Seine Augen waren so blau wie der Himmel.", b4: "Die ganze Stadt hörte die Nachricht.", c4: "Der Baum lag unter dem Baum.", d4: "Ihr Kleid war schön.",
+
+    t5: "Alliteration", tx5: "Die Alliteration ist eine Stilfigur, bei der Wörter mit demselben Laut wiederholt werden.",
+    q5: "Welcher Satz zeigt Alliteration?", a5: "Sein Gesicht war schön und heiter.", b5: "Das Herz hat viele süße Segnungen verstreut.", c5: "Das Auto parkte neben der Straße.", d5: "Der Hund war im Hof.",
   },
 };
 
@@ -37,13 +45,14 @@ const DEF: ExplorerDef = {
       infoTitle: "t1",
       infoText: "tx1",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fff8e1 0%, #fff59d 100%)" }}>
-          <rect x="15" y="35" width="45" height="90" rx="6" fill="#fbc02d" opacity="0.3" stroke="#f57f17" strokeWidth="1.5" />
-          <text x="37.5" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Beszéltnyelv</text>
-          <rect x="70" y="35" width="45" height="90" rx="6" fill="#fdd835" opacity="0.3" stroke="#f9a825" strokeWidth="1.5" />
-          <text x="92.5" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Közszint</text>
-          <rect x="125" y="35" width="100" height="90" rx="6" fill="#ffee58" opacity="0.3" stroke="#f57f17" strokeWidth="1.5" />
-          <text x="175" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Köznyelv</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f3a4d" />
+          <rect x="15" y="40" width="65" height="80" rx="6" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
+          <text x="47" y="87" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Irodalmi</text>
+          <rect x="90" y="40" width="65" height="80" rx="6" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
+          <text x="122" y="87" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Tudományos</text>
+          <rect x="165" y="40" width="60" height="80" rx="6" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
+          <text x="195" y="87" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Szóbeli</text>
         </svg>
       ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
@@ -53,85 +62,68 @@ const DEF: ExplorerDef = {
       infoTitle: "t2",
       infoText: "tx2",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #ffccbc 0%, #ffab91 100%)" }}>
-          <defs>
-            <linearGradient id="metaphorGrad" x1="0%" x2="100%" y1="0%" y2="100%">
-              <stop offset="0%" style={{ stopColor: "#ff5722", stopOpacity: 0.6 }} />
-              <stop offset="100%" style={{ stopColor: "#e64a19", stopOpacity: 0.8 }} />
-            </linearGradient>
-          </defs>
-          <circle cx="60" cy="50" r="25" fill="url(#metaphorGrad)" />
-          <text x="60" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">Élet</text>
-          <path d="M 85 50 L 115 50" stroke="#ff5722" strokeWidth="2" markerEnd="url(#arrowhead)" />
-          <circle cx="160" cy="50" r="25" fill="url(#metaphorGrad)" />
-          <text x="160" y="55" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Utazás</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="#e64a19" fontWeight="bold">Szó szerinti azonosítás</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
+          <circle cx="70" cy="70" r="25" fill="#B44DFF" opacity="0.4" />
+          <text x="70" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Obj A</text>
+          <text x="125" y="50" fontSize="16" fill="#B44DFF" fontWeight="bold">=</text>
+          <circle cx="170" cy="70" r="25" fill="#B44DFF" opacity="0.2" />
+          <text x="170" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Obj B</text>
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Metafora</text>
         </svg>
       ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
+      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
     },
     {
       type: "mcq",
       infoTitle: "t3",
       infoText: "tx3",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%)" }}>
-          <defs>
-            <linearGradient id="simileGrad" x1="0%" x2="100%" y1="0%" y2="100%">
-              <stop offset="0%" style={{ stopColor: "#4caf50", stopOpacity: 0.6 }} />
-              <stop offset="100%" style={{ stopColor: "#2e7d32", stopOpacity: 0.8 }} />
-            </linearGradient>
-          </defs>
-          <circle cx="60" cy="50" r="25" fill="url(#simileGrad)" />
-          <text x="60" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szilaj</text>
-          <text x="120" y="55" textAnchor="middle" fontSize="14" fill="#2e7d32" fontWeight="bold">mint</text>
-          <circle cx="160" cy="50" r="25" fill="url(#simileGrad)" />
-          <text x="160" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szél</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="#2e7d32" fontWeight="bold">Szó szerinti hasonlat</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
+          <circle cx="70" cy="70" r="25" fill="#00D4FF" opacity="0.4" />
+          <text x="70" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Obj A</text>
+          <text x="125" y="55" fontSize="16" fill="#00D4FF" fontWeight="bold">mint</text>
+          <circle cx="170" cy="70" r="25" fill="#00D4FF" opacity="0.2" />
+          <text x="170" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Obj B</text>
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Hasonlat</text>
         </svg>
       ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
+      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
     },
     {
       type: "mcq",
       infoTitle: "t4",
       infoText: "tx4",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%)" }}>
-          <rect x="20" y="35" width="70" height="90" rx="6" fill="#9c27b0" opacity="0.3" stroke="#6a1b9a" strokeWidth="2" />
-          <text x="55" y="60" textAnchor="middle" fontSize="10" fill="#6a1b9a" fontWeight="bold">Metonímia</text>
-          <text x="55" y="85" textAnchor="middle" fontSize="9" fill="#4a148c">szócsere</text>
-          <rect x="150" y="35" width="70" height="90" rx="6" fill="#ba68c8" opacity="0.3" stroke="#6a1b9a" strokeWidth="2" />
-          <text x="185" y="60" textAnchor="middle" fontSize="10" fill="#6a1b9a" fontWeight="bold">Szinekdoché</text>
-          <text x="185" y="85" textAnchor="middle" fontSize="9" fill="#4a148c">rész-egész</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
+          <circle cx="80" cy="70" r="20" fill="#FFD700" opacity="0.4" stroke="#FFD700" strokeWidth="2" />
+          <text x="80" y="75" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">A</text>
+          <path d="M 105 70 L 155 70" stroke="#FFD700" strokeWidth="2" markerEnd="url(#arrowhead)" />
+          <circle cx="170" cy="70" r="20" fill="#FF9500" opacity="0.4" stroke="#FF9500" strokeWidth="2" />
+          <text x="170" y="75" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">B</text>
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Metoníma</text>
         </svg>
       ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
+      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
     },
     {
       type: "mcq",
       infoTitle: "t5",
       infoText: "tx5",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%)" }}>
-          <defs>
-            <linearGradient id="styleGrad" x1="0%" x2="100%" y1="0%" y2="100%">
-              <stop offset="0%" style={{ stopColor: "#01579b", stopOpacity: 0.6 }} />
-              <stop offset="100%" style={{ stopColor: "#0277bd", stopOpacity: 0.8 }} />
-            </linearGradient>
-          </defs>
-          <circle cx="50" cy="70" r="22" fill="url(#styleGrad)" />
-          <text x="50" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Szó</text>
-          <circle cx="120" cy="70" r="22" fill="url(#styleGrad)" />
-          <text x="120" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Ritmus</text>
-          <circle cx="190" cy="70" r="22" fill="url(#styleGrad)" />
-          <text x="190" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Képek</text>
-          <path d="M 72 70 L 98 70" stroke="#0277bd" strokeWidth="1.5" />
-          <path d="M 142 70 L 168 70" stroke="#0277bd" strokeWidth="1.5" />
-          <text x="120" y="145" textAnchor="middle" fontSize="10" fill="#01579b" fontWeight="bold">= Egyéni stílus</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
+          <text x="60" y="70" fontSize="20" fill="#95E1D3" fontWeight="bold">S</text>
+          <text x="90" y="70" fontSize="20" fill="#95E1D3" fontWeight="bold">S</text>
+          <text x="120" y="70" fontSize="20" fill="#95E1D3" fontWeight="bold">S</text>
+          <text x="150" y="70" fontSize="20" fill="#95E1D3" fontWeight="bold">S</text>
+          <text x="180" y="70" fontSize="20" fill="#95E1D3" fontWeight="bold">S</text>
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Alliteráció</text>
         </svg>
       ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
+      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
     },
   ],
 };
