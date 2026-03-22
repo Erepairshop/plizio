@@ -848,6 +848,254 @@ export function generateDensityCalculationTyping(lang: string = "en", seed: numb
   return questions;
 }
 
+// ─── ARCHIMEDES' PRINCIPLE ──────────────────────────────────────────────────
+
+const ARCHIMEDES_DATA = {
+  principles: [
+    q4("Archimedisches Prinzip: F_Auftrieb = ρ_Flüssigkeit × g × V_verdrängt", "Archimedes' Principle: F_buoyancy = ρ_liquid × g × V_displaced", "Arkhimédész törvénye: F_felhajtó = ρ_folyadék × g × V_kiszorított", "Principiul Arhimede: F_flotabilitate = ρ_lichid × g × V_deplasat", lang),
+    q4("Der Auftrieb ist gleich dem Gewicht der verdrängten Flüssigkeit", "Buoyancy equals weight of displaced fluid", "A felhajtóerő egyenlő a kiszorított folyadék súlyával", "Forța de flotabilitate este egală cu greutatea lichidului deplasat", lang),
+  ],
+  applications: ["ship", "submarine", "balloon", "hot_air_balloon", "fish_bladder", "density_bottle"],
+  examples: {
+    ship: q4("Ein Schiff schwimmt, weil es genug Wasser verdrängt", "A ship floats by displacing enough water", "Egy hajó azért úszik, mert elegendő vizet szorít ki", "Un vapor plutește prin deplasarea suficientă de apă", lang),
+    submarine: q4("Ein U-Boot sinkt, wenn Ballasttanks mit Wasser gefüllt werden", "A submarine sinks by filling ballast tanks with water", "Egy tengeralattjáró merül, amikor a ballasttartályokat vízzel töltik", "Un submarin se cufundă prin umplerea tancurilor de balast cu apă", lang),
+    balloon: q4("Ein Luftballon steigt, weil Helium leichter ist als Luft", "A balloon rises because helium is lighter than air", "Egy léggömb felemelkedik, mert a hélium könnyebb a levegőnél", "Un balon se ridică pentru că heliul este mai ușor decât aerul", lang),
+  },
+};
+
+function generateArchimedMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumMCQ[] = [];
+
+  // Template 1: Archimedes Principle definition (6 questions)
+  for (let i = 0; i < 6; i++) {
+    const buoyancy = pick(["equal", "greater", "less"], rng);
+    const correctAns = buoyancy === "equal" ? q4("gleich", "equal", "egyenlő", "egal", lang) : q4("ungleich", "not equal", "nem egyenlő", "inegal", lang);
+    const wrongAns = buoyancy === "equal"
+      ? [q4("größer", "greater", "nagyobb", "mai mare", lang), q4("kleiner", "less", "kisebb", "mai mic", lang)]
+      : [q4("gleich", "equal", "egyenlő", "egal", lang)];
+
+    questions.push(
+      createMCQ(
+        "density",
+        "archimedes",
+        q4(
+          `Nach Archimedisches Prinzip ist die Auftriebskraft ${buoyancy === "equal" ? "dem Gewicht der verdrängten Flüssigkeit..." : "nicht dem Gewicht der verdrängten Flüssigkeit..."}`,
+          `According to Archimedes' Principle, buoyancy force is ${buoyancy === "equal" ? "equal to the weight of displaced fluid" : "not equal to the weight of displaced fluid"}`,
+          `Arkhimédész törvénye szerint a felhajtóerő ${buoyancy === "equal" ? "egyenlő a kiszorított folyadék súlyával" : "nem egyenlő a kiszorított folyadék súlyával"}`,
+          `Conform Principiului Arhimede, forța de flotabilitate este ${buoyancy === "equal" ? "egală cu greutatea lichidului deplasat" : "nu este egală cu greutatea lichidului deplasat"}`,
+          lang
+        ),
+        correctAns,
+        wrongAns,
+        rng
+      )
+    );
+  }
+
+  // Template 2: Condition for floating (5 questions)
+  for (let i = 0; i < 5; i++) {
+    const condition = pick(["float", "sink", "suspend"], rng);
+    const correctText = condition === "float"
+      ? q4("Die Auftriebskraft ist größer als das Gewicht", "Buoyancy is greater than weight", "A felhajtóerő nagyobb mint a súly", "Forța de flotabilitate > greutate", lang)
+      : condition === "sink"
+      ? q4("Die Auftriebskraft ist kleiner als das Gewicht", "Buoyancy is less than weight", "A felhajtóerő kisebb mint a súly", "Forța de flotabilitate < greutate", lang)
+      : q4("Die Auftriebskraft gleicht das Gewicht aus", "Buoyancy equals weight", "A felhajtóerő kiegyenlíti a súlyt", "Forța de flotabilitate = greutate", lang);
+
+    const wrongOptions = condition === "float"
+      ? [q4("Die Auftriebskraft ist kleiner", "Buoyancy is smaller", "A felhajtóerő kisebb", "Forța de flotabilitate < greutate", lang), q4("Gleich", "Equal", "Egyenlő", "Egal", lang)]
+      : condition === "sink"
+      ? [q4("Die Auftriebskraft ist größer", "Buoyancy is larger", "A felhajtóerő nagyobb", "Forța de flotabilitate > greutate", lang), q4("Gleich", "Equal", "Egyenlő", "Egal", lang)]
+      : [q4("Größer", "Greater", "Nagyobb", "Mai mare", lang), q4("Kleiner", "Less", "Kisebb", "Mai mic", lang)];
+
+    questions.push(
+      createMCQ(
+        "density",
+        "archimedes",
+        q4(
+          `Damit ein Objekt ${condition === "float" ? "schwimmt" : condition === "sink" ? "sinkt" : "schwebt"}, muss...`,
+          `For an object to ${condition === "float" ? "float" : condition === "sink" ? "sink" : "suspend"}...`,
+          `Ahhoz, hogy egy tárgy ${condition === "float" ? "úszjon" : condition === "sink" ? "süllyedjen" : "lebegjen"}...`,
+          `Pentru ca un obiect să ${condition === "float" ? "plutească" : condition === "sink" ? "se cufunde" : "suspende"}...`,
+          lang
+        ),
+        correctText,
+        wrongOptions,
+        rng
+      )
+    );
+  }
+
+  // Template 3: Real-world examples (7 questions)
+  const examples = ["ship", "submarine", "balloon", "fish_bladder", "ice_float", "density_bottle", "hot_air"];
+  for (const ex of examples) {
+    let scenario = "";
+    let correctAnswer = "";
+
+    if (ex === "ship") {
+      scenario = q4("Ein Stahlschiff sinkt ins Wasser und verdrängt viel Wasser. Warum schwimmt es?", "A steel ship displaces lots of water and sinks into it. Why does it float?", "Egy acél hajó a vízbe merül és sok vizet szorít ki. Miért úszik?", "Un vapor de oțel se scufundă în apă și deplasează mult apă. De ce plutește?", lang);
+      correctAnswer = q4("Weil die verdrängte Wassermenge schwerer ist als das Schiff", "Because displaced water weighs more than the ship", "Mert a kiszorított vízmennyiség nehezebb mint a hajó", "Pentru că apa deplasată cântărește mai mult decât vasul", lang);
+    } else if (ex === "submarine") {
+      scenario = q4("Ein U-Boot sinkt in die Tiefe. Wie funktioniert das?", "A submarine sinks to depth. How does it work?", "Egy tengeralattjáró a mélységbe merül. Hogyan működik?", "Un submarin se cufundă la adâncime. Cum funcționează?", lang);
+      correctAnswer = q4("Ballasttanks werden gefüllt; Auftriebskraft < Gewicht", "Ballast tanks fill; buoyancy < weight", "A ballasttartályokat megtöltik; felhajtóerő < súly", "Tancurile de balast se umpleau; flotabilitate < greutate", lang);
+    } else if (ex === "balloon") {
+      scenario = q4("Ein Heliumballon steigt in die Luft. Was verdrängt er?", "A helium balloon rises. What does it displace?", "Egy hélium léggömb felemelkedik. Mit szorít ki?", "Un balon cu heliu se ridică. Ce deplasează?", lang);
+      correctAnswer = q4("Luft; Auftrieb > Gewicht des Ballons", "Air; buoyancy > balloon weight", "Levegőt; felhajtóerő > léggömb súlya", "Aer; flotabilitate > greutatea balonului", lang);
+    } else if (ex === "fish_bladder") {
+      scenario = q4("Ein Fisch hat eine Schwimmblase. Was erzeugt sie?", "A fish has a swim bladder. What does it create?", "Egy halnak úszóhólyagja van. Mit hoz létre?", "Un pește are o vezică înotului. Ce creează?", lang);
+      correctAnswer = q4("Auftrieb durch verdrängte Luft", "Buoyancy by displacing air", "Felhajtóerőt kiszorított levegővel", "Flotabilitate prin deplasare de aer", lang);
+    } else if (ex === "ice_float") {
+      scenario = q4("Ein Eisblock schwimmt teilweise auf Wasser. Warum ist der Auftrieb gleich dem Eisgewicht?", "An ice block floats partially on water. Why is buoyancy equal to ice weight?", "Egy jégdarab részben úszik a vizen. Miért egyenlő a felhajtóerő a jég súlyával?", "Un bloc de gheață plutește parțial pe apă. De ce este flotabilitatea egală cu greutatea gheții?", lang);
+      correctAnswer = q4("Weil das Eis schwebt (weder sinkt noch taucht auf)", "Because ice is neutrally buoyant (neither sinks nor rises)", "Mert a jég lebeg (nem süllyedik és nem is nő)", "Pentru că gheața este în echilibru neutru (nici nu se cufundă nici nu se ridică)", lang);
+    } else if (ex === "density_bottle") {
+      scenario = q4("Eine Flasche mit geringer Dichte schwimmt. Eine mit hoher Dichte sinkt. Was verursacht das?", "A bottle with low density floats. One with high density sinks. What causes this?", "Egy alacsony sűrűségű flakon úszik. Egy magasabb sűrűségű süllyedik. Mi okozza ezt?", "O sticlă cu densitate scăzută plutește. Una cu densitate ridicată se cufundă. Ce cauzează asta?", lang);
+      correctAnswer = q4("Das Verhältnis zwischen Auftrieb und Gewicht ändert sich", "Ratio of buoyancy to weight changes", "Az felhajtóerő és súly aránya megváltozik", "Raportul dintre flotabilitate și greutate se schimbă", lang);
+    } else if (ex === "hot_air") {
+      scenario = q4("Ein Heißluftballon steigt. Was verdrängt er dabei?", "A hot air balloon rises. What does it displace?", "Egy forró levegős léggömb felemelkedik. Mit szorít ki?", "Un balon cu aer cald se ridică. Ce deplasează?", lang);
+      correctAnswer = q4("Kalte, dichtere Luft; weniger Dichte im Ballon", "Cold, denser air; less density inside balloon", "Hideg, sűrűbb levegőt; kevesebb sűrűség a balonban", "Aer rece și mai dens; densitate mai scăzută în balon", lang);
+    }
+
+    const wrongOpts = [
+      q4("Weil die Form symmetrisch ist", "Because the shape is symmetric", "Mert az alak szimmetrikus", "Pentru că forma este simetrică", lang),
+      q4("Wegen der Temperaturveränderung", "Due to temperature change", "A hőmérsékletváltozás miatt", "Datorită schimbării de temperatură", lang),
+    ];
+
+    questions.push(createMCQ("density", "archimedes", scenario, correctAnswer, wrongOpts, rng));
+  }
+
+  return questions;
+}
+
+function generateArchimedTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumTyping[] = [];
+
+  // Question 1: State Archimedes' Principle
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Formuliere Archimedisches Prinzip kurz", "State Archimedes' Principle briefly", "Fogalmazd meg röviden Arkhimédész törvényét", "Enunță scurt Principiul lui Arhimede", lang),
+      [
+        q4("Die Auftriebskraft gleicht dem Gewicht der verdrängten Flüssigkeit", "Buoyancy equals weight of displaced fluid", "A felhajtóerő egyenlő a kiszorított folyadék súlyával", "Forța de flotabilitate = greutatea lichidului deplasat", lang),
+        q4("Auftrieb = Gewicht verdrängte Flüssigkeit", "Buoyancy = weight displaced fluid", "Felhajtóerő = kiszorított folyadék súlya", "Flotabilitate = greutate fluid deplasat", lang),
+      ]
+    )
+  );
+
+  // Question 2: Floating condition
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Wann schwimmt ein Objekt?", "When does an object float?", "Mikor úszik egy tárgy?", "Când plutește un obiect?", lang),
+      [
+        q4("Wenn Auftrieb > Gewicht oder Auftrieb = Gewicht", "When buoyancy > weight or buoyancy = weight", "Ha felhajtóerő > súly vagy felhajtóerő = súly", "Când flotabilitate > greutate sau flotabilitate = greutate", lang),
+        q4("Auftriebskraft größer oder gleich", "Buoyancy force greater than or equal", "Felhajtóerő nagyobb vagy egyenlő", "Forța de flotabilitate mai mare sau egală", lang),
+      ]
+    )
+  );
+
+  // Question 3: Sinking condition
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Wann sinkt ein Objekt?", "When does an object sink?", "Mikor süllyedik egy tárgy?", "Când se cufundă un obiect?", lang),
+      [
+        q4("Wenn Auftrieb < Gewicht", "When buoyancy < weight", "Ha felhajtóerő < súly", "Când flotabilitate < greutate", lang),
+        q4("Wenn Auftriebskraft kleiner ist als Gewicht", "When buoyancy force is less than weight", "Ha felhajtóerő kisebb mint a tárgy súlya", "Când forța de plutire este mai mică decât greutatea", lang),
+      ]
+    )
+  );
+
+  // Question 4: Neutral buoyancy
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Was bedeutet neutrale Auftrieb?", "What is neutral buoyancy?", "Mit jelent a semleges felhajtóerő?", "Ce înseamnă flotabilitate neutră?", lang),
+      [
+        q4("Auftrieb = Gewicht, das Objekt schwebt", "Buoyancy = weight, object suspends", "Felhajtóerő = súly, a tárgy lebeg", "Flotabilitate = greutate, obiectul suspendă", lang),
+      ]
+    )
+  );
+
+  // Question 5: Ship flotation principle
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Warum schwimmt ein Stahlschiff, wenn Stahl viel dichter als Wasser ist?", "Why does a steel ship float when steel is much denser than water?", "Miért úszik egy acél hajó, ha az acél sokkal sűrűbb mint a víz?", "De ce plutește un vapor de oțel când oțelul este mult mai dens decât apa?", lang),
+      [
+        q4("Weil es eine riesige Wassermenge verdrängt, die schwerer als das Schiff ist", "Because it displaces huge volume of water heavier than ship", "Mert egy nagy vízmennyiséget szorít ki, amely nehezebb mint a hajó", "Pentru că deplasează un volum imens de apă mai greu decât vasul", lang),
+      ]
+    )
+  );
+
+  // Question 6: Submarine sinking
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Wie senkt sich ein U-Boot?", "How does a submarine descend?", "Hogyan ereszkedik le egy tengeralattjáró?", "Cum coboară un submarin?", lang),
+      [
+        q4("Ballasttanks werden mit Wasser gefüllt, Auftrieb nimmt ab", "Ballast tanks fill with water, buoyancy decreases", "A ballasttartályokat vízzel töltik, felhajtóerő csökken", "Tancurile de balast se umpleau cu apă, flotabilitate scade", lang),
+      ]
+    )
+  );
+
+  // Question 7: Fish swim bladder
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Was ist die Funktion einer Fischschwimmblase?", "What is function of fish swim bladder?", "Mi a hal úszóhólyagjának a funkciója?", "Care este funcția vezicii înotului a peștelui?", lang),
+      [
+        q4("Luft verdrängen, um Auftrieb zu erzeugen und Tiefe zu kontrollieren", "Displace air to create buoyancy and control depth", "Levegőt szorítani ki felhajtóerő létrehozásához és mélység szabályozásához", "Deplasare aer pentru a crea flotabilitate și a controla adâncimea", lang),
+      ]
+    )
+  );
+
+  // Question 8: Ice floating
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Warum schwimmt Eis teilweise auf Wasser?", "Why does ice float partially on water?", "Miért úszik a jég részben a vizen?", "De ce plutește gheața parțial pe apă?", lang),
+      [
+        q4("Eis ist weniger dicht als Wasser, Auftrieb = Gewicht wenn teil untergetaucht", "Ice less dense than water, buoyancy = weight when partially submerged", "A jég kevésbé sűrű mint a víz, felhajtóerő = súly részben süllyesztve", "Gheața este mai puțin densă decât apa, flotabilitate = greutate când este parțial scufundată", lang),
+      ]
+    )
+  );
+
+  // Question 9: Balloon rising
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Warum steigt ein Heliumballon auf?", "Why does helium balloon rise?", "Miért emelkedik fel egy hélium léggömb?", "De ce se ridică un balon cu heliu?", lang),
+      [
+        q4("Helium ist leichter als Luft, verdrängte Luft schwerer als Ballon", "Helium lighter than air, displaced air heavier than balloon", "A hélium könnyebb mint a levegő, kiszorított levegő nehezebb mint a léggömb", "Heliul este mai ușor decât aerul, aerul deplasat mai greu decât balonul", lang),
+      ]
+    )
+  );
+
+  // Question 10: Density and buoyancy relationship
+  questions.push(
+    createTyping(
+      "density",
+      "archimedes",
+      q4("Wie hängen Dichte und Auftrieb zusammen?", "How do density and buoyancy relate?", "Hogyan kapcsolódnak a sűrűség és a felhajtóerő egymáshoz?", "Cum se raportează densitatea și flotabilitatea?", lang),
+      [
+        q4("Niedriger Dichte → mehr Auftrieb relativ zu Gewicht → Schwimmen", "Lower density → more buoyancy relative to weight → floating", "Alacsonyabb sűrűség → több felhajtóerő súlyhoz képest → úszás", "Densitate mai scăzută → mai multă flotabilitate relativ la greutate → plutire", lang),
+      ]
+    )
+  );
+
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_DENSITY_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -862,6 +1110,10 @@ export const K6_DENSITY_GENERATORS: Record<string, (lang?: string, seed?: number
   density_calculation: (lang = "en", seed = 0) => [...generateDensityCalculationMCQ(lang, seed), ...generateDensityCalculationTyping(lang, seed)],
   density_calculation_mcq: (lang = "en", seed = 0) => generateDensityCalculationMCQ(lang, seed),
   density_calculation_typing: (lang = "en", seed = 0) => generateDensityCalculationTyping(lang, seed),
+
+  archimedes: (lang = "en", seed = 0) => [...generateArchimedMCQ(lang, seed), ...generateArchimedTyping(lang, seed)],
+  archimedes_mcq: (lang = "en", seed = 0) => generateArchimedMCQ(lang, seed),
+  archimedes_typing: (lang = "en", seed = 0) => generateArchimedTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
