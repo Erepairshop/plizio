@@ -5,9 +5,10 @@
 // This engine handles ALL UI, state, animations, scoring.
 // ─────────────────────────────────────────────────────────────────────────────
 
-import { memo, useState, useCallback, useMemo, useRef } from "react";
+import { memo, useState, useCallback, useMemo, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2 } from "lucide-react";
+import { ChevronRight, Volume2, Mic, MicOff, MessageCircleQuestion, Loader2 } from "lucide-react";
+import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -74,10 +75,10 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -100,6 +101,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   const [locked, setLocked] = useState(false);
   const [tapped, setTapped] = useState<string[]>([]);
   const [orderWrong, setOrderWrong] = useState(false);
+
+  // AI tutor state
+  const [aiResponse, setAiResponse] = useState<string | null>(null);
+  const [aiLoading, setAiLoading] = useState(false);
+  const [isListening, setIsListening] = useState(false);
+  const [voiceText, setVoiceText] = useState("");
+  const recognitionRef = useRef<any>(null);
 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
@@ -249,6 +257,85 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
     window.speechSynthesis.speak(u);
   }, [langCode]);
 
+  // ── AI: "Why?" after wrong answer ──────────────────────────────────────
+  const handleAskWhy = useCallback(async () => {
+    const currentQ = getCurrentQuestion();
+    if (!currentQ || !selected || aiLoading) return;
+
+    setAiLoading(true);
+    setAiResponse(null);
+    const result = await askWhyCorrect({
+      question: L(currentQ.question),
+      wrongAnswer: L(selected),
+      correctAnswer: L(currentQ.answer),
+      topic: L(currentRound.infoTitle),
+      lang: langCode,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [getCurrentQuestion, selected, aiLoading, currentRound, langCode, speak, L, ui.aiError]);
+
+  // ── AI: Free question (voice or text) ──────────────────────────────────
+  const handleAskFree = useCallback(async (text: string) => {
+    if (!text.trim() || aiLoading) return;
+    setAiLoading(true);
+    setAiResponse(null);
+    const result = await askAITutor({
+      question: text,
+      context: L(currentRound.infoTitle) + " — " + L(currentRound.infoText),
+      lang: langCode,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [aiLoading, currentRound, langCode, speak, L, ui.aiError]);
+
+  // ── Voice recognition (STT) ────────────────────────────────────────────
+  const toggleVoice = useCallback(() => {
+    if (isListening && recognitionRef.current) {
+      recognitionRef.current.stop();
+      setIsListening(false);
+      return;
+    }
+
+    const SpeechRecognition = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
+    if (!SpeechRecognition) return;
+
+    const recognition = new SpeechRecognition();
+    recognition.lang = langCode === "hu" ? "hu-HU" : langCode === "de" ? "de-DE" : langCode === "ro" ? "ro-RO" : "en-US";
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
+
+    recognition.onresult = (event: any) => {
+      const text = event.results[0][0].transcript;
+      setVoiceText(text);
+      setIsListening(false);
+      handleAskFree(text);
+    };
+    recognition.onerror = () => setIsListening(false);
+    recognition.onend = () => setIsListening(false);
+
+    recognitionRef.current = recognition;
+    recognition.start();
+    setIsListening(true);
+  }, [isListening, langCode, handleAskFree]);
+
+  // Clear AI state on round change
+  useEffect(() => {
+    setAiResponse(null);
+    setAiLoading(false);
+    setVoiceText("");
+  }, [round, subIdx]);
+
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
       {/* Close button */}
@@ -331,6 +418,58 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                 </p>
               )}
 
+              {/* ── AI Ask Section (info phase) ── */}
+              <div className="w-full flex flex-col items-center gap-2 mt-1">
+                <div className="flex items-center gap-2 w-full">
+                  <button
+                    onClick={toggleVoice}
+                    className={`w-10 h-10 rounded-full flex items-center justify-center transition-all shrink-0 ${
+                      isListening
+                        ? "bg-red-500 text-white animate-pulse"
+                        : "bg-white/10 text-white/60 hover:bg-white/20 hover:text-white"
+                    }`}
+                  >
+                    {isListening ? <MicOff size={18} /> : <Mic size={18} />}
+                  </button>
+                  <input
+                    type="text"
+                    value={voiceText}
+                    onChange={(e) => setVoiceText(e.target.value)}
+                    onKeyDown={(e) => { if (e.key === "Enter") handleAskFree(voiceText); }}
+                    placeholder={isListening ? ui.listening : ui.askAnything}
+                    className="flex-1 bg-white/10 border border-white/20 rounded-xl px-3 py-2.5 text-sm text-white placeholder:text-white/40 focus:outline-none focus:border-purple-500/50"
+                  />
+                  {voiceText.trim() && !aiLoading && (
+                    <button
+                      onClick={() => handleAskFree(voiceText)}
+                      className="w-10 h-10 rounded-full bg-purple-500/30 text-purple-300 flex items-center justify-center hover:bg-purple-500/40 transition-colors shrink-0"
+                    >
+                      <ChevronRight size={18} />
+                    </button>
+                  )}
+                </div>
+
+                {aiLoading && (
+                  <div className="flex items-center gap-2 text-purple-300 text-xs font-medium">
+                    <Loader2 size={14} className="animate-spin" />
+                    {ui.thinking}
+                  </div>
+                )}
+
+                {aiResponse && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed"
+                  >
+                    <div className="flex items-start gap-2">
+                      <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                      <p>{aiResponse}</p>
+                    </div>
+                  </motion.div>
+                )}
+              </div>
+
               <button
                 onClick={handleNext}
                 className="mt-2 px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2 group"
@@ -398,13 +537,51 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                   <motion.div
                     initial={{ opacity: 0, y: -10 }}
                     animate={{ opacity: 1, y: 0 }}
-                    className={`mt-4 text-center font-bold text-sm ${
+                    className="mt-4 flex flex-col items-center gap-2"
+                  >
+                    <span className={`font-bold text-sm ${
                       selected === getCurrentQuestion()?.answer
                         ? "text-green-400"
                         : "text-red-400"
-                    }`}
-                  >
-                    {selected === getCurrentQuestion()?.answer ? ui.correct : ui.wrong}
+                    }`}>
+                      {selected === getCurrentQuestion()?.answer ? ui.correct : ui.wrong}
+                    </span>
+
+                    {/* "Why?" button — only on wrong answer */}
+                    {selected !== getCurrentQuestion()?.answer && !aiResponse && !aiLoading && (
+                      <motion.button
+                        initial={{ opacity: 0, scale: 0.9 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: 0.3 }}
+                        onClick={handleAskWhy}
+                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
+                      >
+                        <MessageCircleQuestion size={14} />
+                        {ui.askWhy}
+                      </motion.button>
+                    )}
+
+                    {/* AI loading spinner */}
+                    {aiLoading && (
+                      <div className="flex items-center gap-2 text-purple-300 text-xs font-medium">
+                        <Loader2 size={14} className="animate-spin" />
+                        {ui.thinking}
+                      </div>
+                    )}
+
+                    {/* AI response bubble */}
+                    {aiResponse && (
+                      <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed"
+                      >
+                        <div className="flex items-start gap-2">
+                          <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                          <p>{aiResponse}</p>
+                        </div>
+                      </motion.div>
+                    )}
                   </motion.div>
                 )}
               </div>
