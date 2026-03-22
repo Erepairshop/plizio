@@ -152,7 +152,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Separable verbs intro ───────────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -230,7 +230,7 @@ function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 2: Common separable verbs ─────────────────────────────────────────
-function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SEP_VERBS.length;
 
@@ -290,7 +290,7 @@ function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 3: Futur I formation ───────────────────────────────────────────────
-function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -357,7 +357,7 @@ function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 4: werden conjugation ──────────────────────────────────────────────
-function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= WERDEN_CONJ.length;
 

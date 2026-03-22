@@ -171,7 +171,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 word classes overview ─────────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= WORD_CLASSES.length;
 
@@ -236,7 +236,7 @@ function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 2: Sort words into classes ─────────────────────────────────────────
-function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [selected, setSelected] = useState<number | null>(null);
   const [sorted, setSorted] = useState<Record<number, string>>({});
   const allSorted = Object.keys(sorted).length >= SORT_WORDS.length;
@@ -323,7 +323,7 @@ function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 3: Adjective comparison reveal ─────────────────────────────────────
-function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [step, setStep] = useState(0); // 0=base, 1=komp, 2=sup
 
@@ -393,7 +393,7 @@ function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 4: Pronouns ────────────────────────────────────────────────────────
-function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PRONOUNS.length;
 

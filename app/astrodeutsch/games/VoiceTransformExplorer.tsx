@@ -185,7 +185,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
   );
 }
 
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
 
   if (showTeach) {
@@ -251,7 +251,7 @@ function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
   );
 }
 
-function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= WERDEN_FORMS.length;
 
@@ -306,7 +306,7 @@ function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
   );
 }
 
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [done, setDone] = useState(false);
   const handleDone = (_: boolean) => { setDone(true); setTimeout(onNext, 1000); };
 
@@ -335,7 +335,7 @@ function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
   );
 }
 
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [doneCount, setDoneCount] = useState(0);
   const item = AGENT_SENTENCES[idx];
@@ -387,7 +387,7 @@ function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
   );
 }
 
-function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];

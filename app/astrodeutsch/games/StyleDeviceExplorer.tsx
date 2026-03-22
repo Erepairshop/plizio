@@ -191,7 +191,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Stilmittel overview cards ────────────────────────────────────────
-function Round1({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; lang: string; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; lang: string; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= STILMITTEL.length;
 
@@ -256,7 +256,7 @@ function Round1({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color
 }
 
 // ─── Round 2: MemoryPairCards — first set ──────────────────────────────────────
-function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
 
   if (showTeach) {
     return (
@@ -283,7 +283,7 @@ function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 3: Identify Stilmittel MCQ ──────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ3[idx];
@@ -354,7 +354,7 @@ function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 4: MemoryPairCards — second set ─────────────────────────────────────
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
 
   if (showTeach) {
     return (
@@ -381,7 +381,7 @@ function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 5: More Stilmittel MCQ ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onDone: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onDone: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];

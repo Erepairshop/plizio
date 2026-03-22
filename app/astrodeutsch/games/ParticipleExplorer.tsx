@@ -180,7 +180,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Partizip II flip cards ─────────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [flipped, setFlipped] = useState<Set<number>>(new Set());
   const allFlipped = flipped.size >= PART2_CARDS_POOL.length;
 
@@ -246,7 +246,7 @@ function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 2: Partizip I discovery ───────────────────────────────────────────
-function Round2({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PART1_EXAMPLES_POOL.length;
 
@@ -319,7 +319,7 @@ function Round2({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color
 }
 
 // ─── Round 3: Partizip I as adjective ────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PART1_ADJ_POOL.length * 2;
 
@@ -380,7 +380,7 @@ function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 4: Partizip II as adjective ───────────────────────────────────────
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PART2_ADJ_POOL.length * 2;
 
@@ -441,7 +441,7 @@ function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 5: MCQ Partizip I or II ────────────────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [quiz] = useState(() => shuffle(MIXED_QUIZ_POOL).slice(0, 4));
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);

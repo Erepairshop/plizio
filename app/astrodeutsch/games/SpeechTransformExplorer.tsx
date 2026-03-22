@@ -219,7 +219,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Direct vs Indirect pairs ────────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PAIRS.length;
 
@@ -289,7 +289,7 @@ function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 2: Konjunktiv I forms table ────────────────────────────────────────
-function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= KONJ1_TABLE.length;
 
@@ -347,7 +347,7 @@ function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 3: DragToBucket sort ────────────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [done, setDone] = useState(false);
   const buckets = [
     { key: "direct", label: lbl.direct, icon: "💬" },
@@ -386,7 +386,7 @@ function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 4: Choose Konjunktiv I form ────────────────────────────────────────
-function Round4({ color, lbl, wrongCountRef, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, wrongCountRef, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ4[idx];
@@ -463,7 +463,7 @@ function Round4({ color, lbl, wrongCountRef, onNext , showTeach, setShowTeach } 
 }
 
 // ─── Round 5: Identify correct indirect speech ─────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MCQ5[idx];

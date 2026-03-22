@@ -686,6 +686,8 @@ function Round4({
           <NextBtn onClick={handleNext} label={setIdx + 1 >= sets.length ? lbl.finish : lbl.next} color={color} />
         </motion.div>
       )}
+        </motion.div>
+      )}
     </div>
   );
 }

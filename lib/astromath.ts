@@ -63,7 +63,16 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "k3-body-systems-explorer" | "k3-animal-kingdom-explorer" | "k3-forest-life-explorer" | "k3-pollination-explorer" | "k3-weather-climate-explorer"
   | "k3-geography-explorer" | "k3-tech-machines-explorer" | "k3-community-town-explorer" | "k3-environment-explorer"
   | "k4-human-body-explorer" | "k4-mammals-birds-explorer" | "k4-reptiles-insects-explorer" | "k4-ecosystem-explorer" | "k4-weather-climate-explorer"
-  | "k4-earth-water-explorer" | "k4-energy-explorer" | "k4-maps-explorer" | "k4-grand-finale-explorer";
+  | "k4-earth-water-explorer" | "k4-energy-explorer" | "k4-maps-explorer" | "k4-grand-finale-explorer"
+  | "k5-adjective-comparison-explorer" | "k5-pronoun-explorer" | "k5-preposition-explorer"
+  | "k5-sentence-analysis-explorer" | "k5-punctuation-explorer" | "k5-participle-explorer"
+  | "k5-passive-explorer" | "k5-spelling-vocab-explorer" | "k5-review-explorer"
+  | "k6-active-passive-explorer" | "k6-konjunktiv-ii-explorer" | "k6-infinitiv-zu-explorer"
+  | "k6-synonym-antonym-explorer" | "k6-fremdwoerter-explorer" | "k6-relativsatz-kausalsatz-explorer"
+  | "k6-wortbildung-explorer" | "k6-punctuation-explorer" | "k6-review-explorer"
+  | "k7-konjunktiv-i-explorer" | "k7-werden-passive-explorer" | "k7-passiv-modal-explorer"
+  | "k7-stilmittel-explorer" | "k7-kausal-konditional-explorer" | "k7-konzessiv-final-explorer"
+  | "k7-temporalsatz-explorer" | "k7-infinitiv-construction-explorer" | "k7-review-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

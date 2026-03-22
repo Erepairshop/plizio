@@ -175,7 +175,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 Sentence types ────────────────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SENTENCE_TYPES.length;
 
@@ -246,7 +246,7 @@ function Round2({
   lbl: Record<string, string>;
   lang?: string;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
@@ -337,7 +337,7 @@ function Round3({
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= CONJUNCTIONS.length;
@@ -406,7 +406,7 @@ function Round4({
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);

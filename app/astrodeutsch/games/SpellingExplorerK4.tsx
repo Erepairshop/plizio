@@ -188,7 +188,7 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 // ─── Round 1: das vs dass ─────────────────────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= DAS_DASS.length;
 
@@ -251,7 +251,7 @@ function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 2: Dehnung-h ───────────────────────────────────────────────────────
-function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= DEHNUNG_H_WORDS.length;
 
@@ -319,7 +319,7 @@ function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 3: ss vs ß sort ────────────────────────────────────────────────────
-function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SS_SZ_WORDS.length;
 
@@ -386,7 +386,7 @@ function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 4: Find the capitalization error ───────────────────────────────────
-function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 

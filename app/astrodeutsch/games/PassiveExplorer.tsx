@@ -172,7 +172,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Active vs Passive ───────────────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= TRANSFORMATIONS.length;
 
@@ -239,7 +239,7 @@ function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 2: Passive conjugation ────────────────────────────────────────────
-function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= PASSIVE_CONJUGATION.length;
 
@@ -301,7 +301,7 @@ function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 3: Passive in tenses ───────────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= TENSE_PASSIVE.length;
 
@@ -359,7 +359,7 @@ function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 4: Agent identification ────────────────────────────────────────────
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= AGENT_SENTENCES.length;
 
@@ -419,7 +419,7 @@ function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 5: Active or Passive MCQ ───────────────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; lang: string  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, wrongCountRef, onDone, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; lang: string; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = MIXED_QUIZ[idx];

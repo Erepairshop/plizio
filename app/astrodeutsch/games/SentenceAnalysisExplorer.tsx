@@ -172,7 +172,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 5 sentence parts overview ───────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SENTENCE_PARTS.length;
 
@@ -235,7 +235,7 @@ function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: stri
 }
 
 // ─── Round 2: Adverbiale types MCQ ────────────────────────────────────────────
-function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = ADV_QUIZ[idx];
@@ -319,7 +319,7 @@ function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } 
 }
 
 // ─── Round 3: Moveable Adverbiale ─────────────────────────────────────────────
-function Round3({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round3({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const EXAMPLES = [
     { a: "Er kam gestern nach Hause.", b: "Gestern kam er nach Hause.", highlight: "gestern" },
@@ -384,7 +384,7 @@ function Round3({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } 
 }
 
 // ─── Round 4: Adjective declension table ──────────────────────────────────────
-function Round4({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round4({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= ADJ_DECL.length;
 
@@ -442,7 +442,7 @@ function Round4({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } 
 }
 
 // ─── Round 5: Full sentence analysis MCQ ─────────────────────────────────────
-function Round5({ color, lbl, onDone, wrongCountRef, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string  showTeach: boolean; setShowTeach: (v: boolean) => void; } {
+function Round5({ color, lbl, onDone, wrongCountRef, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = ANALYSIS_QUIZ[idx];
