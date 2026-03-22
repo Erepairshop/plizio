@@ -621,7 +621,7 @@ function SVG_R3(lang: string): React.ReactNode {
       <path d="M 52,55 L 68,55" stroke="rgba(255,255,255,0.3)" strokeWidth="1.2" fill="none" markerEnd="url(#fl_r3_arrow)" />
 
       {/* ── STAGE 2: Fertilization — cells unite ── */}
-      <ellipse cx="95" cy="55" rx="20" ry="22" fill="rgba(102,187,106,0.15)" stroke="rgba(102,187,106,0.3)" strokeWidth="0.5" rx="20" />
+      <ellipse cx="95" cy="55" rx="20" ry="22" fill="rgba(102,187,106,0.15)" stroke="rgba(102,187,106,0.3)" strokeWidth="0.5" />
       {/* Ovule */}
       <ellipse cx="95" cy="58" rx="9" ry="8" fill="url(#fl_r3_ovule)" stroke="#2E7D32" strokeWidth="0.5" />
       {/* Male cell arriving */}

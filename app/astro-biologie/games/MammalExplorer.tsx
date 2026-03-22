@@ -502,110 +502,159 @@ function SVG_R3(lang: string): React.ReactNode {
 }
 
 function SVG_R4(lang: string): React.ReactNode {
-  const lb: Record<string, { fish: string; amphibian: string; reptile: string; bird: string; mammal: string; evolution: string }> = {
-    en: { fish: "Fish", amphibian: "Amphibian", reptile: "Reptile", bird: "Bird", mammal: "Mammal", evolution: "Evolution Timeline" },
-    de: { fish: "Fische", amphibian: "Lurch", reptile: "Reptil", bird: "Vogel", mammal: "Säugetier", evolution: "Evolutionszeitlinie" },
-    hu: { fish: "Halak", amphibian: "Kétéltűek", reptile: "Hüllők", bird: "Madarak", mammal: "Emlősök", evolution: "Evolúciós folyamat" },
-    ro: { fish: "Pești", amphibian: "Amfibieni", reptile: "Reptile", bird: "Păsări", mammal: "Mamifere", evolution: "Linia de evoluție" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,150,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(200,150,100,0.15)" />
+        <linearGradient id="m4_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#0a1628" />
+          <stop offset="100%" stopColor="#162040" />
+        </linearGradient>
+        <linearGradient id="m4_timeline" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#3B82F6" />
+          <stop offset="25%" stopColor="#10B981" />
+          <stop offset="50%" stopColor="#F59E0B" />
+          <stop offset="75%" stopColor="#EC4899" />
+          <stop offset="100%" stopColor="#06B6D4" />
         </linearGradient>
       </defs>
 
-      <rect width="240" height="160" fill="url(#r4_bg)" />
+      <rect width="240" height="160" fill="url(#m4_bg)" />
 
-      {/* Timeline header */}
-      <text x="120" y="20" fontSize="11" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.8)" fontFamily="system-ui">
-        {l.evolution}
-      </text>
+      {/* Timeline path with gradient */}
+      <path d="M 25 55 L 215 55" stroke="url(#m4_timeline)" strokeWidth="2.5" strokeLinecap="round" />
+      <path d="M 25 55 L 215 55" stroke="rgba(255,255,255,0.08)" strokeWidth="6" strokeLinecap="round" />
 
-      {/* Timeline path */}
-      <path d="M 20 50 L 220 50" stroke="rgba(255,255,255,0.3)" strokeWidth="2" />
-
-      {/* 5 vertebrate classes on timeline */}
-      <g>
-        {/* Fish */}
-        <circle cx="30" cy="50" r="6" fill="#3B82F6" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="30" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#3B82F6" fontFamily="system-ui">
-          🐟
-        </text>
-        <text x="30" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.fish}
-        </text>
-        <text x="30" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Gills, scales
-        </text>
-
-        {/* Amphibian */}
-        <circle cx="70" cy="50" r="6" fill="#10B981" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="70" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
-          🐸
-        </text>
-        <text x="70" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.amphibian}
-        </text>
-        <text x="70" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          2 lives
-        </text>
-
-        {/* Reptile */}
-        <circle cx="110" cy="50" r="6" fill="#F59E0B" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="110" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
-          🦎
-        </text>
-        <text x="110" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.reptile}
-        </text>
-        <text x="110" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Scales, eggs
-        </text>
-
-        {/* Bird */}
-        <circle cx="150" cy="50" r="6" fill="#EC4899" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="150" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
-          🐦
-        </text>
-        <text x="150" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.bird}
-        </text>
-        <text x="150" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Feathers, warm
-        </text>
-
-        {/* Mammal */}
-        <circle cx="190" cy="50" r="6" fill="#06B6D4" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="190" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          🐾
-        </text>
-        <text x="190" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.mammal}
-        </text>
-        <text x="190" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Fur, live young
-        </text>
+      {/* Progression arrows on timeline */}
+      <g fill="rgba(255,255,255,0.2)">
+        <polygon points="55,52 60,55 55,58" /><polygon points="100,52 105,55 100,58" />
+        <polygon points="145,52 150,55 145,58" /><polygon points="185,52 190,55 185,58" />
       </g>
 
-      {/* Progression arrows */}
-      <g fill="rgba(255,255,255,0.4)">
-        <text x="50" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="90" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="130" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="170" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
+      {/* FISH */}
+      <g transform="translate(25, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        {/* Fish body */}
+        <path d="M -4,0 Q 0,-3 4,0 Q 0,3 -4,0 Z" fill="#64B5F6" />
+        <path d="M 4,0 L 7,-2 L 7,2 Z" fill="#42A5F5" />
+        <circle cx="-2" cy="-0.8" r="0.6" fill="#0a0a0a" />
+        {/* Gills */}
+        <path d="M 0,-1 Q 0.5,0 0,1" stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none" />
+        {/* Water bubbles */}
+        <circle cx="-8" cy="-6" r="1" fill="rgba(59,130,246,0.3)" />
+        <circle cx="-6" cy="-10" r="0.7" fill="rgba(59,130,246,0.2)" />
+      </g>
+
+      {/* AMPHIBIAN */}
+      <g transform="translate(72, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="1.5" />
+        {/* Frog body */}
+        <ellipse cx="0" cy="1" rx="5" ry="3.5" fill="#34D399" />
+        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#6EE7B7" opacity="0.4" />
+        {/* Head */}
+        <circle cx="3" cy="-2" r="3" fill="#34D399" />
+        {/* Big eyes */}
+        <circle cx="2" cy="-4" r="1.8" fill="#A7F3D0" />
+        <circle cx="2" cy="-4" r="1" fill="#064E3B" />
+        <circle cx="2.5" cy="-4.5" r="0.4" fill="white" opacity="0.8" />
+        <circle cx="5" cy="-4" r="1.5" fill="#A7F3D0" />
+        <circle cx="5" cy="-4" r="0.8" fill="#064E3B" />
+        {/* Legs */}
+        <path d="M -4,3 L -7,5 L -8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
+        <path d="M 4,3 L 7,5 L 8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
+      </g>
+
+      {/* REPTILE */}
+      <g transform="translate(120, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(245,158,11,0.2)" stroke="#F59E0B" strokeWidth="1.5" />
+        {/* Lizard body */}
+        <path d="M -3,0 Q 0,-2 3,0 Q 5,1 4,2 Q 1,3 -2,2 Q -4,1 -3,0 Z" fill="#8BC34A" />
+        {/* Head */}
+        <path d="M -3,0 Q -5,-1 -6,1 Q -4,2 -3,0 Z" fill="#8BC34A" />
+        {/* Eye */}
+        <circle cx="-5" cy="0" r="1" fill="#FFEB3B" />
+        <ellipse cx="-5" cy="0" rx="0.3" ry="0.8" fill="#1a1a00" />
+        {/* Tail */}
+        <path d="M 4,1 Q 6,0 8,-1" stroke="#7CB342" strokeWidth="1.2" strokeLinecap="round" fill="none" />
+        {/* Legs */}
+        <path d="M -1,2 L -2,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
+        <path d="M 2,2 L 3,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
+        {/* Scale dots */}
+        <g fill="rgba(100,120,20,0.3)">
+          <circle cx="0" cy="0.5" r="0.4" /><circle cx="2" cy="1" r="0.3" />
+        </g>
+      </g>
+
+      {/* BIRD */}
+      <g transform="translate(168, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="1.5" />
+        {/* Bird body */}
+        <ellipse cx="0" cy="1" rx="5" ry="4" fill="#F06292" />
+        {/* Wing */}
+        <path d="M -3,0 Q -6,-3 -8,-1 Q -6,1 -3,2 Z" fill="#E91E63" opacity="0.7" />
+        {/* Head */}
+        <circle cx="4" cy="-3" r="3" fill="#F06292" />
+        {/* Eye */}
+        <circle cx="5.5" cy="-4" r="1" fill="#0a0a0a" />
+        <circle cx="5.8" cy="-4.3" r="0.35" fill="white" opacity="0.8" />
+        {/* Beak */}
+        <path d="M 6.5,-3 L 9,-3 L 7.5,-1.5 Z" fill="#FFB300" />
+        {/* Tail */}
+        <path d="M -4,3 L -7,5 M -4,3 L -6,6" stroke="#E91E63" strokeWidth="1" strokeLinecap="round" fill="none" />
+        {/* Feather marks */}
+        <path d="M -5,-2 L -6,-4" stroke="#AD1457" strokeWidth="0.5" opacity="0.4" />
+      </g>
+
+      {/* MAMMAL */}
+      <g transform="translate(215, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="1.5" />
+        {/* Fox/dog body */}
+        <ellipse cx="-1" cy="1" rx="5" ry="4" fill="#D4A060" />
+        <ellipse cx="-1" cy="3" rx="3" ry="2" fill="#F0E0C0" opacity="0.4" />
+        {/* Head */}
+        <circle cx="3" cy="-3" r="3.5" fill="#D4A060" />
+        {/* Ear */}
+        <path d="M 1,-5 Q -1,-9 2,-7 Z" fill="#D4A060" />
+        <path d="M 5,-5 Q 4,-9 7,-7 Z" fill="#D4A060" />
+        {/* Eye */}
+        <circle cx="5" cy="-4" r="1.2" fill="#E8A020" />
+        <circle cx="5" cy="-4" r="0.7" fill="#1a1a00" />
+        <circle cx="5.4" cy="-4.4" r="0.3" fill="white" opacity="0.8" />
+        {/* Nose */}
+        <circle cx="6" cy="-2" r="0.8" fill="#1a1a1a" />
+        {/* Tail */}
+        <path d="M -5,0 Q -8,-2 -7,-5" stroke="#C49050" strokeWidth="2" strokeLinecap="round" fill="none" />
+        {/* Fur */}
+        <path d="M -2,-1 Q 0,-2 2,-1" stroke="rgba(160,120,60,0.2)" strokeWidth="0.4" fill="none" />
+      </g>
+
+      {/* Environment bands below each */}
+      {/* Water for fish */}
+      <rect x="15" y="70" width="20" height="80" rx="4" fill="rgba(59,130,246,0.08)" />
+      <g stroke="rgba(59,130,246,0.15)" strokeWidth="0.5" fill="none">
+        <path d="M 18 90 Q 22 88 26 90 Q 30 92 34 90" />
+        <path d="M 18 110 Q 22 108 26 110 Q 30 112 34 110" />
+      </g>
+
+      {/* Water+land for amphibian */}
+      <rect x="62" y="70" width="20" height="80" rx="4" fill="rgba(16,185,129,0.08)" />
+      <path d="M 62 110 Q 67 108 72 110 Q 77 112 82 110 L 82 150 L 62 150 Z" fill="rgba(59,130,246,0.06)" />
+
+      {/* Land for reptile */}
+      <rect x="110" y="70" width="20" height="80" rx="4" fill="rgba(245,158,11,0.08)" />
+
+      {/* Sky+land for bird */}
+      <rect x="158" y="70" width="20" height="80" rx="4" fill="rgba(236,72,153,0.08)" />
+
+      {/* All terrain for mammal */}
+      <rect x="205" y="70" width="20" height="80" rx="4" fill="rgba(6,182,212,0.08)" />
+
+      {/* Connecting dots on each habitat band */}
+      <g opacity="0.4">
+        <circle cx="25" cy="82" r="1.5" fill="#3B82F6" />
+        <circle cx="72" cy="82" r="1.5" fill="#10B981" />
+        <circle cx="120" cy="82" r="1.5" fill="#F59E0B" />
+        <circle cx="168" cy="82" r="1.5" fill="#EC4899" />
+        <circle cx="215" cy="82" r="1.5" fill="#06B6D4" />
       </g>
     </svg>
   );

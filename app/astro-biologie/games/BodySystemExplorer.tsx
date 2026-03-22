@@ -573,62 +573,149 @@ function SvgRound3(lang: string): React.ReactNode {
 }
 
 function SvgRound4(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_kidney" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B9D" />
-          <stop offset="100%" stopColor="#FF1493" />
+        <radialGradient id="bs_r4_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#14100a" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <radialGradient id="bs_r4_kidney_l" cx="40%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#EF9A9A" />
+          <stop offset="30%" stopColor="#E57373" />
+          <stop offset="70%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <radialGradient id="bs_r4_kidney_r" cx="60%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#EF9A9A" />
+          <stop offset="30%" stopColor="#E57373" />
+          <stop offset="70%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <radialGradient id="bs_r4_bladder" cx="50%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FFF9C4" />
+          <stop offset="30%" stopColor="#FFF176" />
+          <stop offset="70%" stopColor="#FBC02D" />
+          <stop offset="100%" stopColor="#F57F17" />
+        </radialGradient>
+        <linearGradient id="bs_r4_ureter" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#BF360C" />
         </linearGradient>
-        <linearGradient id="r4_bladder" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#FFA500" />
+        <linearGradient id="bs_r4_skin" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFCCBC" />
+          <stop offset="50%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#D7CCC8" />
         </linearGradient>
+        <radialGradient id="bs_r4_sweat" cx="50%" cy="30%" r="50%">
+          <stop offset="0%" stopColor="#B3E5FC" />
+          <stop offset="100%" stopColor="#0288D1" />
+        </radialGradient>
+        <filter id="bs_r4_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Left kidney */}
-      <ellipse cx="70" cy="50" rx="18" ry="25" fill="url(#r4_kidney)" stroke="#FF1493" strokeWidth="1.5" />
-      <text x="70" y="55" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Kidney</text>
+      <rect width="240" height="160" fill="url(#bs_r4_bg)" />
+
+      {/* ── LEFT: Urinary system ── */}
+
+      {/* Spine hint (center) */}
+      {[0,1,2,3,4,5,6].map(i => (
+        <rect key={`sp${i}`} x="78" y={18+i*8} width="4" height="6" rx="1" fill="rgba(200,180,150,0.1)" />
+      ))}
+
+      {/* Left kidney — bean shape */}
+      <path d="M 42,28 Q 30,32 26,45 Q 24,58 28,68 Q 34,78 48,80 Q 58,78 62,68 Q 66,55 60,42 Q 56,32 48,28 Z" fill="url(#bs_r4_kidney_l)" filter="url(#bs_r4_glow)" />
+      {/* Kidney hilum (indentation) */}
+      <path d="M 56,48 Q 50,52 50,58 Q 50,64 56,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
+      {/* Internal structure — medulla/cortex hint */}
+      <ellipse cx="42" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
+      <path d="M 38,42 L 42,50" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      <path d="M 36,50 L 42,54" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      <path d="M 38,62 L 42,58" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      {/* Renal pelvis */}
+      <path d="M 50,54 Q 55,54 58,52" stroke="rgba(255,171,145,0.4)" strokeWidth="1.5" fill="none" />
 
       {/* Right kidney */}
-      <ellipse cx="170" cy="50" rx="18" ry="25" fill="url(#r4_kidney)" stroke="#FF1493" strokeWidth="1.5" />
-      <text x="170" y="55" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Kidney</text>
+      <path d="M 118,28 Q 130,32 134,45 Q 136,58 132,68 Q 126,78 112,80 Q 102,78 98,68 Q 94,55 100,42 Q 104,32 112,28 Z" fill="url(#bs_r4_kidney_r)" filter="url(#bs_r4_glow)" />
+      <path d="M 104,48 Q 110,52 110,58 Q 110,64 104,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
+      <ellipse cx="118" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
 
-      {/* Bladder (center bottom) */}
-      <ellipse cx="120" cy="115" rx="22" ry="25" fill="url(#r4_bladder)" stroke="#FFA500" strokeWidth="1.5" />
-      <text x="120" y="118" fontSize="8" fontWeight="bold" fill="#333" textAnchor="middle">Bladder</text>
+      {/* Blood supply to kidneys (renal arteries/veins) */}
+      <path d="M 80,42 Q 68,44 58,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
+      <path d="M 80,42 Q 92,44 102,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
+      <path d="M 58,60 Q 68,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
+      <path d="M 102,60 Q 92,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
 
-      {/* Ureters (tubes from kidneys to bladder) */}
-      <path d="M70 75 Q70 90 110 105" stroke="#FFB6D9" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M170 75 Q170 90 130 105" stroke="#FFB6D9" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <text x="80" y="90" fontSize="8" fontWeight="bold" fill="#FFB6D9">Ureter</text>
+      {/* Ureters — tubes from kidneys to bladder */}
+      <path d="M 52,78 Q 55,95 62,105 Q 68,112 72,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <path d="M 108,78 Q 105,95 98,105 Q 92,112 88,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
 
-      {/* Waste filter arrows */}
-      <path d="M50 50 L60 50" stroke="#FF0000" strokeWidth="2" fill="none" markerEnd="url(#arrowred)" strokeDasharray="2,2" />
-      <text x="40" y="45" fontSize="8" fontWeight="bold" fill="#FF0000">Blood in</text>
+      {/* Bladder — balloon shape */}
+      <path d="M 68,120 Q 62,122 58,130 Q 56,140 62,148 Q 70,155 80,156 Q 90,155 98,148 Q 104,140 102,130 Q 98,122 92,120 Z" fill="url(#bs_r4_bladder)" filter="url(#bs_r4_glow)" />
+      {/* Bladder wall folds */}
+      <path d="M 65,130 Q 80,128 95,132" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
+      <path d="M 62,140 Q 80,138 98,142" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
+      {/* Urethra */}
+      <path d="M 80,156 L 80,158" stroke="rgba(251,192,45,0.4)" strokeWidth="2" strokeLinecap="round" />
 
-      <path d="M80 70 L90 85" stroke="#FFD700" strokeWidth="2" fill="none" markerEnd="url(#arrowyellow)" strokeDasharray="2,2" />
-      <text x="85" y="70" fontSize="8" fontWeight="bold" fill="#FFD700">Urine</text>
+      {/* Waste flow indicators */}
+      <circle cx="55" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
+      <circle cx="58" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="65" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
+      <circle cx="105" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
+      <circle cx="102" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="95" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
 
-      {/* Skin (top right) with sweat glands */}
-      <rect x="185" y="20" width="40" height="30" rx="5" fill="#CCAA88" opacity="0.3" stroke="#CCAA88" strokeWidth="1" />
-      <text x="205" y="40" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Skin</text>
+      {/* ── RIGHT: Skin cross-section with sweat glands ── */}
+      <g>
+        {/* Skin layers */}
+        {/* Epidermis */}
+        <path d="M 148,20 L 232,20 L 232,35 L 148,35 Z" fill="url(#bs_r4_skin)" opacity="0.6" />
+        {/* Dermis */}
+        <path d="M 148,35 L 232,35 L 232,65 L 148,65 Z" fill="rgba(255,171,145,0.15)" />
+        {/* Subcutaneous */}
+        <path d="M 148,65 L 232,65 L 232,85 L 148,85 Z" fill="rgba(255,224,178,0.08)" />
 
-      {/* Sweat droplets */}
-      <circle cx="200" cy="55" r="2" fill="#00CCFF" opacity="0.7" />
-      <circle cx="210" cy="60" r="2" fill="#00CCFF" opacity="0.7" />
-      <circle cx="195" cy="65" r="2" fill="#00CCFF" opacity="0.7" />
-      <text x="215" y="62" fontSize="8" fontWeight="bold" fill="#00CCFF">Sweat</text>
+        {/* Hair follicles */}
+        <line x1="162" y1="12" x2="162" y2="45" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
+        <line x1="195" y1="14" x2="195" y2="48" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
+        <line x1="218" y1="11" x2="218" y2="42" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
 
-      <defs>
-        <marker id="arrowred" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FF0000" />
-        </marker>
-        <marker id="arrowyellow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FFD700" />
-        </marker>
-      </defs>
+        {/* Sweat glands (coiled tubes in dermis) */}
+        <path d="M 175,55 Q 172,50 175,45 Q 178,42 175,38" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
+        <circle cx="175" cy="58" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
+        <circle cx="175" cy="58" r="1.5" fill="rgba(2,136,209,0.2)" />
+
+        <path d="M 205,52 Q 202,47 205,42 Q 208,39 205,35" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
+        <circle cx="205" cy="55" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
+        <circle cx="205" cy="55" r="1.5" fill="rgba(2,136,209,0.2)" />
+
+        {/* Sweat pore openings on skin surface */}
+        <circle cx="175" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
+        <circle cx="205" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
+
+        {/* Sweat droplets rising from skin */}
+        {[{x:170,y:12},{x:178,y:8},{x:200,y:10},{x:208,y:6},{x:190,y:4}].map((p,i) => (
+          <path key={`sw${i}`} d={`M ${p.x},${p.y+3} Q ${p.x-1},${p.y} ${p.x},${p.y-1} Q ${p.x+1},${p.y} ${p.x},${p.y+3} Z`} fill="url(#bs_r4_sweat)" opacity={0.5 - i * 0.06} />
+        ))}
+
+        {/* Blood capillary in dermis */}
+        <path d="M 155,48 Q 165,45 175,48 Q 185,51 195,48 Q 205,45 215,48 Q 225,51 230,48" stroke="rgba(229,57,53,0.25)" strokeWidth="0.8" fill="none" />
+
+        {/* Layer separation lines */}
+        <line x1="148" y1="35" x2="232" y2="35" stroke="rgba(255,255,255,0.1)" strokeWidth="0.4" />
+        <line x1="148" y1="65" x2="232" y2="65" stroke="rgba(255,255,255,0.06)" strokeWidth="0.4" />
+      </g>
+
+      {/* Skin section — waste arrow */}
+      <path d="M 190,100 Q 190,92 190,88" stroke="rgba(2,136,209,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="190,88 188,91 192,91" fill="rgba(2,136,209,0.3)" />
+
+      {/* Connecting concept — kidney filters blood, skin sweats */}
+      <path d="M 135,54 Q 142,54 148,48" stroke="rgba(255,255,255,0.08)" strokeWidth="0.5" strokeDasharray="2,2" fill="none" />
     </svg>
   );
 }
