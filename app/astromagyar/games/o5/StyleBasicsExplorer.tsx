@@ -4,128 +4,28 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    title1: "Stílus és stíluscél",
-    text1: "A stílus a szöveg egyéni kifejezésmódja, amely az írástudó gondolatait és érzelmi nyilatkozatait tükrözi. A stíluscél az, hogy az olvasóban milyen hatást szeretnénk elérni: meggyőzés, szórakoztatás, tanítás vagy megindítás.",
-    q1: "Mi a stílus?",
-    a1: "szöveg egyéni kifejezésmódja",
-    b1: "szöveg hosszúsága",
-    c1: "szöveg témája",
-    d1: "szöveg szerkezete",
-    q2: "Melyik nem stíluscél?",
-    a2: "betűtípus kiválasztása",
-    b2: "meggyőzés",
-    c2: "szórakoztatás",
-    d2: "tanítás",
-    title2: "Köznyelv és irodalmi nyelv",
-    text2: "A köznyelv a szóbeszéd és az informális írásban használatos. Az irodalmi nyelv formálisabb, választékosabb, és tudatosan megválasztott szavakat alkalmaz. Az irodalmi nyelv emeli a szöveg igényes szintjét.",
-    q3: "Melyik a köznyelvben használatos?",
-    a3: "beszélgetés barátokkal",
-    b3: "költemény",
-    c3: "szépprózai mű",
-    d3: "tudományos értekezés",
-    q4: "Mit jellemez az irodalmi nyelv?",
-    a4: "választékos szóhasználat",
-    b4: "rövidítések",
-    c4: "szleng kifejezések",
-    d4: "gyerekies szavak",
-    title3: "Szóképek: hasonlat és metafora",
-    text3: "A hasonlat két dolgot explicit módon hasonlít össze (például: „olyan fehér, mint a hó"). A metafora egy dolgot más dolognak nevez meg anélkül, hogy ezt kifejezné (például: „a szívem fa"). Mindkettő szépséget és kifejezésügyelmet ad a szövegnek.",
-    q5: "Mi a különbség a hasonlat és metafora között?",
-    a5: "hasonlat explicit, metafora implicit",
-    b5: "kettő ugyanaz",
-    c5: "hasonlat csak prózában, metafora csak versben",
-    d5: "hasonlat nyelvtani, metafora stilisztikai",
-    q6: "Melyik a metafora?",
-    a6: "a szívem fa",
-    b6: "olyan hideg, mint jég",
-    c6: "olyan fényes, mint a nap",
-    d6: "olyan gyors, mint a futó",
-    title4: "Ismétlés és ritmus",
-    text4: "Az ismétlés szavak, hangok vagy szerkezetek megismétlésének retorikai eszköze. Az ismétlés erősen hat az olvasóra és emlékeztetőbb. A ritmus a szöveg ütemesítése, amely a mondatok hosszúsága és szerkezete alapján alakul. A jó ritmus olvasatlanabbá és kellemesebbé teszi a szöveget.",
-    q7: "Mit érünk el az ismétléssel?",
-    a7: "erőteljesebb hatást",
-    b7: "rövidebb szöveget",
-    c7: "több szót",
-    d7: "más nyelvét",
-    q8: "Mi a ritmus?",
-    a8: "szöveg ütemesítése",
-    b8: "szöveghosszúsága",
-    c8: "szöveg témája",
-    d8: "szöveg szerkezete",
-    title5: "Stíluselemzés gyakorlat",
-    text5: "A stílus elemzéséhez figyeld meg a szóhasználatot, a mondatszerkezeteket, az ismétléseket és a metaforákat. Kérdezd meg: milyen érzelmi hatást akarna elérni az szerző? Milyen szókincs jellemzi a szöveget? Mit érzesz az olvasásnál? Az ilyen kérdések segítik a stílus mélyebb megértését.",
-    q9: "Mit figyelsz meg a stíluselemzésben?",
-    a9: "szóhasználat, szerkezet, metaforák",
-    b9: "csak szavakat",
-    c9: "csak mondatokat",
-    d9: "csak betűtípust",
-    q10: "Milyen kérdésekre kell válaszolni a stílus megértéséhez?",
-    a10: "szerző célja, szókincs, érzelmek",
-    b10: "szöveg hossza",
-    c10: "szöveg színe",
-    d10: "szöveg mérete",
+    t1: "Stílus szintjei", tx1: "A nyelv használata különböző szinteken: beszéltnyelv (közvetlen), közszint (normális), köznyelv (formális). Minden megfelelő helye van.",
+    q1: "Mely szint a legformálisabb?", a1: "köznyelv", b1: "beszéltnyelv", c1: "közszint", d1: "szárcínyelv",
+    t2: "Szóképek: metafora", tx2: "A metafora nem szó szerinti hasonlat, hanem közvetlen azonosítás. Pl: \"Az élet egy utazás\" vagy \"Ő arany szív.\"",
+    q2: "Melyik a metafora?", a2: "Az élet egy utazás", b2: "Az élet olyan, mint az utazás", c2: "Az élet könnyű", d2: "Az élet szürke",
+    t3: "Szóképek: hasonlat", tx3: "A hasonlat szó szerinti összehasonlítás valami másikkal. Pl: \"Olyan szilaj, mint a szél\" vagy \"Csendes, mint az éjszaka.\"",
+    q3: "Melyik a hasonlat?", a3: "Olyan szilaj, mint a szél", b3: "A szél szilaj", c3: "Szilaj szél", d3: "Szélsebesen szilaj",
+    t4: "Metonímia és szinekdoché", tx4: "Metonímia: szócsere (pl: \"Olvass el egy Móriczot!\" - nem a szerzőt, hanem művét). Szinekdoché: rész helyett az egész vagy fordítva.",
+    q4: "Mi a metonímia a mondatban: \"A város felvetette a lázadást\"?", a4: "a város lakói felvetették", b4: "a város épülete", c4: "a város szél", d4: "a város tér",
+    t5: "Irodalmi stílusok gyakorlása", tx5: "Az irodalmi stílusok összessége teszi egyedivé az írót. Az egyéni stílus a szóválasztástól, ritmusától, képeitől függ.",
+    q5: "Mit határozza meg az egyéni írói stílust?", a5: "szóválasztás, ritmus, képek", b5: "betűtípus", c5: "papírméret", d5: "ceruzaszín",
   },
   de: {
-    title1: "Stil und Stilzweck",
-    text1: "Der Stil ist die persönliche Ausdrucksweise eines Textes. Der Stilzweck ist der Effekt, den wir beim Leser erreichen möchten: Überzeugung, Unterhaltung, Belehrung oder Ergreifung.",
-    q1: "Was ist Stil?",
-    a1: "persönliche Ausdrucksweise des Textes",
-    b1: "Textlänge",
-    c1: "Textthema",
-    d1: "Textstruktur",
-    q2: "Welcher ist kein Stilzweck?",
-    a2: "Schriftartauswahl",
-    b2: "Überzeugung",
-    c2: "Unterhaltung",
-    d2: "Belehrung",
-    title2: "Umgangssprache und literarische Sprache",
-    text2: "Die Umgangssprache wird in Gesprächen und informellem Schreiben verwendet. Die literarische Sprache ist formeller, wählerischer und verwirklicht bewusst gewählte Wörter.",
-    q3: "Welcher wird in der Umgangssprache verwendet?",
-    a3: "Gespräche mit Freunden",
-    b3: "Gedicht",
-    c3: "Prosawerk",
-    d3: "wissenschaftliche Abhandlung",
-    q4: "Was kennzeichnet literarische Sprache?",
-    a4: "wählerische Wortverwendung",
-    b4: "Abkürzungen",
-    c4: "Slang-Ausdrücke",
-    d4: "kindliche Wörter",
-    title3: "Sprachbilder: Vergleich und Metapher",
-    text3: "Der Vergleich vergleicht zwei Dinge explizit (z.B. 'so weiß wie Schnee'). Die Metapher benennt ein Ding als ein anderes ohne dies auszudrücken (z.B. 'mein Herz ist Holz'). Beide geben Schönheit und Klarheit.",
-    q5: "Was ist der Unterschied zwischen Vergleich und Metapher?",
-    a5: "Vergleich explizit, Metapher implizit",
-    b5: "beide sind gleich",
-    c5: "Vergleich nur in Prosa, Metapher nur in Vers",
-    d5: "Vergleich grammatikalisch, Metapher stilistisch",
-    q6: "Welcher ist eine Metapher?",
-    a6: "mein Herz ist Holz",
-    b6: "so kalt wie Eis",
-    c6: "so hell wie die Sonne",
-    d6: "so schnell wie der Läufer",
-    title4: "Wiederholung und Rhythmus",
-    text4: "Wiederholung ist ein rhetorisches Mittel, bei dem Wörter, Laute oder Strukturen wiederholt werden. Der Rhythmus ist die Kadenz des Textes, die sich aus der Länge und Struktur der Sätze ergibt.",
-    q7: "Was erreichen wir mit Wiederholung?",
-    a7: "stärkere Wirkung",
-    b7: "kürzerer Text",
-    c7: "mehr Wörter",
-    d7: "andere Sprache",
-    q8: "Was ist Rhythmus?",
-    a8: "Takt des Textes",
-    b8: "Textlänge",
-    c8: "Textthema",
-    d8: "Textstruktur",
-    title5: "Stilanalysepraxis",
-    text5: "Um den Stil zu analysieren, beobachte die Wortverwendung, Satzstrukturen, Wiederholungen und Metaphern. Frage: Welchen Effekt möchte der Autor erreichen? Welcher Wortschatz kennzeichnet den Text?",
-    q9: "Worauf achtest du bei der Stilanalyse?",
-    a9: "Wortverwendung, Struktur, Metaphern",
-    b9: "nur Wörter",
-    c9: "nur Sätze",
-    d9: "nur Schriftart",
-    q10: "Welchen Fragen musst du für das Verständnis des Stils nachgehen?",
-    a10: "Autor-Absicht, Wortschatz, Gefühle",
-    b10: "Textlänge",
-    c10: "Textfarbe",
-    d10: "Textgröße",
+    t1: "Sprachebenen", tx1: "Die Sprache wird auf verschiedenen Ebenen verwendet: Umgangssprache (direkt), Standardsprache (normal), Formalsprache (förmlich). Jede hat ihren Platz.",
+    q1: "Welche Ebene ist am formellsten?", a1: "Formalsprache", b1: "Umgangssprache", c1: "Standardsprache", d1: "Schriftsprache",
+    t2: "Sprachbilder: Metapher", tx2: "Die Metapher ist kein wörtlicher Vergleich, sondern direkte Gleichsetzung. Z.B.: \"Das Leben ist eine Reise\" oder \"Er hat ein goldenes Herz.\"",
+    q2: "Welche ist eine Metapher?", a2: "Das Leben ist eine Reise", b2: "Das Leben ist wie eine Reise", c2: "Das Leben ist leicht", d2: "Das Leben ist grau",
+    t3: "Sprachbilder: Vergleich", tx3: "Der Vergleich ist ein wörtlicher Vergleich mit etwas anderem. Z.B.: \"Wild wie der Wind\" oder \"Still wie die Nacht.\"",
+    q3: "Welcher ist ein Vergleich?", a3: "Wild wie der Wind", b3: "Der Wind ist wild", c3: "Wilder Wind", d3: "Wildheit des Windes",
+    t4: "Metonymie und Synekdoche", tx4: "Metonymie: Wortvertauschung (z.B. \"Lies einen Móricz!\" - nicht den Autor, sondern sein Werk). Synekdoche: Teil statt Ganzes oder umgekehrt.",
+    q4: "Was ist die Metonymie im Satz: 'Die Stadt erhob sich zum Aufstand'?", a4: "die Stadtbewohner erhoben sich", b4: "die Gebäude der Stadt", c4: "der Stadtwind", d4: "der Stadtplatz",
+    t5: "Literarische Stile üben", tx5: "Der literarische Stil eines Autors besteht aus seinen Wortwahlentscheidungen, seinem Rhythmus und seinen Bildern.",
+    q5: "Was bestimmt den individuellen Schreibstil?", a5: "Wortwahlentscheidungen, Rhythmus, Bilder", b5: "Schriftart", c5: "Papiergröße", d5: "Stiftfarbe",
   },
 };
 
@@ -134,100 +34,104 @@ const DEF: ExplorerDef = {
   rounds: [
     {
       type: "mcq",
-      infoTitle: "title1",
-      infoText: "text1",
+      infoTitle: "t1",
+      infoText: "tx1",
       svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <rect x="30" y="35" width="80" height="90" rx="6" fill="#B44DFF" opacity="0.8" />
-          <rect x="130" y="35" width="80" height="90" rx="6" fill="#B44DFF" opacity="0.5" />
-          <text x="70" y="65" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Stílus</text>
-          <text x="170" y="65" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Cél</text>
+        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fff8e1 0%, #fff59d 100%)" }}>
+          <rect x="15" y="35" width="45" height="90" rx="6" fill="#fbc02d" opacity="0.3" stroke="#f57f17" strokeWidth="1.5" />
+          <text x="37.5" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Beszéltnyelv</text>
+          <rect x="70" y="35" width="45" height="90" rx="6" fill="#fdd835" opacity="0.3" stroke="#f9a825" strokeWidth="1.5" />
+          <text x="92.5" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Közszint</text>
+          <rect x="125" y="35" width="100" height="90" rx="6" fill="#ffee58" opacity="0.3" stroke="#f57f17" strokeWidth="1.5" />
+          <text x="175" y="85" textAnchor="middle" fontSize="10" fill="#f57f17" fontWeight="bold">Köznyelv</text>
         </svg>
       ),
-      questions: [
-        { question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" },
-        { question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" },
-      ],
+      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
     },
     {
       type: "mcq",
-      infoTitle: "title2",
-      infoText: "text2",
+      infoTitle: "t2",
+      infoText: "tx2",
       svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="60" y="60" textAnchor="middle" fontSize="14" fill="#10B981" fontWeight="bold" fontStyle="italic">Köznyelv</text>
-          <text x="60" y="80" textAnchor="middle" fontSize="11" fill="#fff">informális</text>
-          <text x="180" y="60" textAnchor="middle" fontSize="14" fill="#FF2D78" fontWeight="bold" fontStyle="italic">Irodalmi</text>
-          <text x="180" y="80" textAnchor="middle" fontSize="11" fill="#fff">formális</text>
-          <line x1="90" y1="95" x2="150" y2="95" stroke="#FFD700" strokeWidth="2" />
+        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #ffccbc 0%, #ffab91 100%)" }}>
+          <defs>
+            <linearGradient id="metaphorGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+              <stop offset="0%" style={{ stopColor: "#ff5722", stopOpacity: 0.6 }} />
+              <stop offset="100%" style={{ stopColor: "#e64a19", stopOpacity: 0.8 }} />
+            </linearGradient>
+          </defs>
+          <circle cx="60" cy="50" r="25" fill="url(#metaphorGrad)" />
+          <text x="60" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">Élet</text>
+          <path d="M 85 50 L 115 50" stroke="#ff5722" strokeWidth="2" markerEnd="url(#arrowhead)" />
+          <circle cx="160" cy="50" r="25" fill="url(#metaphorGrad)" />
+          <text x="160" y="55" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Utazás</text>
+          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="#e64a19" fontWeight="bold">Szó szerinti azonosítás</text>
         </svg>
       ),
-      questions: [
-        { question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" },
-        { question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" },
-      ],
+      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
     },
     {
       type: "mcq",
-      infoTitle: "title3",
-      infoText: "text3",
+      infoTitle: "t3",
+      infoText: "tx3",
       svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="60" y="60" textAnchor="middle" fontSize="13" fill="#00D4FF" fontWeight="bold">Hasonlat</text>
-          <text x="60" y="85" textAnchor="middle" fontSize="11" fill="#fff" fontStyle="italic">mint a hó</text>
-          <text x="180" y="60" textAnchor="middle" fontSize="13" fill="#FFD700" fontWeight="bold">Metafora</text>
-          <text x="180" y="85" textAnchor="middle" fontSize="11" fill="#fff" fontStyle="italic">a szív fa</text>
+        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%)" }}>
+          <defs>
+            <linearGradient id="simileGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+              <stop offset="0%" style={{ stopColor: "#4caf50", stopOpacity: 0.6 }} />
+              <stop offset="100%" style={{ stopColor: "#2e7d32", stopOpacity: 0.8 }} />
+            </linearGradient>
+          </defs>
+          <circle cx="60" cy="50" r="25" fill="url(#simileGrad)" />
+          <text x="60" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szilaj</text>
+          <text x="120" y="55" textAnchor="middle" fontSize="14" fill="#2e7d32" fontWeight="bold">mint</text>
+          <circle cx="160" cy="50" r="25" fill="url(#simileGrad)" />
+          <text x="160" y="55" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szél</text>
+          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="#2e7d32" fontWeight="bold">Szó szerinti hasonlat</text>
         </svg>
       ),
-      questions: [
-        { question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" },
-        { question: "q6", choices: ["a6", "b6", "c6", "d6"], answer: "a6" },
-      ],
+      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
     },
     {
       type: "mcq",
-      infoTitle: "title4",
-      infoText: "text4",
+      infoTitle: "t4",
+      infoText: "tx4",
       svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="60" y="60" textAnchor="middle" fontSize="13" fill="#FF2D78" fontWeight="bold">Ismétlés</text>
-          <text x="60" y="80" textAnchor="middle" fontSize="11" fill="#fff">szó, hang</text>
-          <text x="60" y="100" textAnchor="middle" fontSize="11" fill="#fff">szerkezet</text>
-          <text x="180" y="60" textAnchor="middle" fontSize="13" fill="#10B981" fontWeight="bold">Ritmus</text>
-          <text x="180" y="80" textAnchor="middle" fontSize="11" fill="#fff">ütemesítés</text>
-          <text x="180" y="100" textAnchor="middle" fontSize="11" fill="#fff">szerkezet</text>
+        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%)" }}>
+          <rect x="20" y="35" width="70" height="90" rx="6" fill="#9c27b0" opacity="0.3" stroke="#6a1b9a" strokeWidth="2" />
+          <text x="55" y="60" textAnchor="middle" fontSize="10" fill="#6a1b9a" fontWeight="bold">Metonímia</text>
+          <text x="55" y="85" textAnchor="middle" fontSize="9" fill="#4a148c">szócsere</text>
+          <rect x="150" y="35" width="70" height="90" rx="6" fill="#ba68c8" opacity="0.3" stroke="#6a1b9a" strokeWidth="2" />
+          <text x="185" y="60" textAnchor="middle" fontSize="10" fill="#6a1b9a" fontWeight="bold">Szinekdoché</text>
+          <text x="185" y="85" textAnchor="middle" fontSize="9" fill="#4a148c">rész-egész</text>
         </svg>
       ),
-      questions: [
-        { question: "q7", choices: ["a7", "b7", "c7", "d7"], answer: "a7" },
-        { question: "q8", choices: ["a8", "b8", "c8", "d8"], answer: "a8" },
-      ],
+      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
     },
     {
       type: "mcq",
-      infoTitle: "title5",
-      infoText: "text5",
+      infoTitle: "t5",
+      infoText: "tx5",
       svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <circle cx="60" cy="70" r="25" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="60" y="75" textAnchor="middle" fontSize="11" fill="#B44DFF" fontWeight="bold">Szó-</text>
-          <text x="60" y="88" textAnchor="middle" fontSize="11" fill="#B44DFF" fontWeight="bold">használat</text>
-          <circle cx="120" cy="50" r="25" fill="none" stroke="#FF2D78" strokeWidth="2" />
-          <text x="120" y="55" textAnchor="middle" fontSize="11" fill="#FF2D78" fontWeight="bold">Szerkezet</text>
-          <circle cx="180" cy="70" r="25" fill="none" stroke="#10B981" strokeWidth="2" />
-          <text x="180" y="75" textAnchor="middle" fontSize="11" fill="#10B981" fontWeight="bold">Meta-</text>
-          <text x="180" y="88" textAnchor="middle" fontSize="11" fill="#10B981" fontWeight="bold">forák</text>
+        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%)" }}>
+          <defs>
+            <linearGradient id="styleGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+              <stop offset="0%" style={{ stopColor: "#01579b", stopOpacity: 0.6 }} />
+              <stop offset="100%" style={{ stopColor: "#0277bd", stopOpacity: 0.8 }} />
+            </linearGradient>
+          </defs>
+          <circle cx="50" cy="70" r="22" fill="url(#styleGrad)" />
+          <text x="50" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Szó</text>
+          <circle cx="120" cy="70" r="22" fill="url(#styleGrad)" />
+          <text x="120" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Ritmus</text>
+          <circle cx="190" cy="70" r="22" fill="url(#styleGrad)" />
+          <text x="190" y="75" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Képek</text>
+          <path d="M 72 70 L 98 70" stroke="#0277bd" strokeWidth="1.5" />
+          <path d="M 142 70 L 168 70" stroke="#0277bd" strokeWidth="1.5" />
+          <text x="120" y="145" textAnchor="middle" fontSize="10" fill="#01579b" fontWeight="bold">= Egyéni stílus</text>
         </svg>
       ),
-      questions: [
-        { question: "q9", choices: ["a9", "b9", "c9", "d9"], answer: "a9" },
-        { question: "q10", choices: ["a10", "b10", "c10", "d10"], answer: "a10" },
-      ],
+      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
     },
   ],
 };
@@ -235,7 +139,7 @@ const DEF: ExplorerDef = {
 interface Props {
   color: string;
   lang?: string;
-  onDone: (score: number, total: number) => void;
+  onDone: (s: number, t: number) => void;
   onClose?: () => void;
 }
 
