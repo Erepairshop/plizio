@@ -932,52 +932,103 @@ function SvgRound5(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <radialGradient id="se_r5_bg" cx="50%" cy="50%" r="60%">
+          <stop offset="0%" stopColor="#1E1B4B" />
+          <stop offset="100%" stopColor="#0a0a1a" />
+        </radialGradient>
+        <radialGradient id="se_r5_center" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(251,191,36,0.15)" />
+          <stop offset="100%" stopColor="rgba(251,191,36,0)" />
+        </radialGradient>
+        <radialGradient id="se_r5_eye_g" cx="40%" cy="35%">
           <stop offset="0%" stopColor="#93C5FD" />
-          <stop offset="100%" stopColor="#3B82F6" />
-        </linearGradient>
-        <linearGradient id="r5_grad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#A78BFA" />
+          <stop offset="50%" stopColor="#3B82F6" />
+          <stop offset="100%" stopColor="#1E3A5F" />
+        </radialGradient>
+        <linearGradient id="se_r5_ear_g" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#DDD6FE" />
           <stop offset="100%" stopColor="#7C3AED" />
         </linearGradient>
+        <linearGradient id="se_r5_nose_g" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FBCFE8" />
+          <stop offset="100%" stopColor="#DB2777" />
+        </linearGradient>
+        <linearGradient id="se_r5_tongue_g" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FCA5A5" />
+          <stop offset="100%" stopColor="#DC2626" />
+        </linearGradient>
+        <linearGradient id="se_r5_hand_g" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FDEBD0" />
+          <stop offset="100%" stopColor="#C9A87C" />
+        </linearGradient>
+        <filter id="se_r5_glow">
+          <feGaussianBlur stdDeviation="2" />
+        </filter>
       </defs>
 
-      {/* Eye icon */}
-      <circle cx="50" cy="35" r="15" fill="url(#r5_grad1)" opacity="0.8" />
-      <circle cx="50" cy="35" r="15" fill="none" stroke="#3B82F6" strokeWidth="1.5" />
-      <circle cx="50" cy="35" r="8" fill="#000" />
-      <circle cx="52" cy="32" r="2.5" fill="#fff" opacity="0.5" />
-      <text x="50" y="65" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#3B82F6">Sight</text>
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#se_r5_bg)" rx="6" />
 
-      {/* Ear icon */}
-      <path d="M 130 25 Q 115 30, 115 45 Q 115 60, 130 65 L 135 55 Q 125 50, 125 45 Q 125 40, 135 35 Z" fill="url(#r5_grad2)" opacity="0.8" />
-      <path d="M 130 35 Q 122 38, 122 45 Q 122 52, 130 55" fill="none" stroke="#7C3AED" strokeWidth="1.5" opacity="0.6" />
-      <text x="130" y="65" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#7C3AED">Hearing</text>
+      {/* Center glow */}
+      <circle cx="120" cy="80" r="50" fill="url(#se_r5_center)" />
 
-      {/* Nose icon */}
-      <ellipse cx="180" cy="40" rx="10" ry="12" fill="#F472B6" opacity="0.8" />
-      <ellipse cx="176" cy="48" rx="2" ry="3" fill="#BE123C" opacity="0.7" />
-      <ellipse cx="184" cy="48" rx="2" ry="3" fill="#BE123C" opacity="0.7" />
-      <text x="180" y="65" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#EC4899">Smell</text>
+      {/* Center brain silhouette */}
+      <path d="M 110 72 Q 108 62, 114 58 Q 120 54, 126 58 Q 132 62, 130 72 Q 132 80, 128 86 Q 120 90, 112 86 Q 108 80, 110 72 Z" fill="#F59E0B" opacity="0.15" />
+      <path d="M 112 66 Q 116 62, 120 64 Q 124 62, 128 66" stroke="#F59E0B" strokeWidth="0.5" fill="none" opacity="0.3" />
+      <path d="M 110 74 Q 116 70, 120 74 Q 124 70, 130 74" stroke="#F59E0B" strokeWidth="0.5" fill="none" opacity="0.3" />
 
-      {/* Tongue icon */}
-      <ellipse cx="50" cy="120" rx="12" ry="10" fill="#F87171" opacity="0.8" />
-      <text x="50" y="145" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#DC2626">Taste</text>
+      {/* Connecting nerve paths from organs to brain */}
+      <path d="M 55 40 Q 80 50, 110 68" stroke="#3B82F6" strokeWidth="0.8" fill="none" opacity="0.3" strokeDasharray="2,2" />
+      <path d="M 185 40 Q 160 50, 130 68" stroke="#7C3AED" strokeWidth="0.8" fill="none" opacity="0.3" strokeDasharray="2,2" />
+      <path d="M 120 25 Q 120 40, 120 58" stroke="#EC4899" strokeWidth="0.8" fill="none" opacity="0.3" strokeDasharray="2,2" />
+      <path d="M 55 120 Q 80 105, 112 86" stroke="#EF4444" strokeWidth="0.8" fill="none" opacity="0.3" strokeDasharray="2,2" />
+      <path d="M 185 120 Q 160 105, 128 86" stroke="#D97706" strokeWidth="0.8" fill="none" opacity="0.3" strokeDasharray="2,2" />
 
-      {/* Hand icon */}
-      <g transform="translate(180, 105)">
-        <rect x="-8" y="-8" width="4" height="12" rx="1.5" fill="#D4A574" opacity="0.8" />
-        <circle cx="-6" cy="-10" r="2" fill="#D4A574" opacity="0.8" />
-        <rect x="-3" y="-6" width="3" height="10" rx="1" fill="#D4A574" opacity="0.8" />
-        <circle cx="-1.5" cy="-8" r="1.5" fill="#D4A574" opacity="0.8" />
-        <rect x="1" y="-4" width="3" height="8" rx="1" fill="#D4A574" opacity="0.8" />
-        <circle cx="2.5" cy="-6" r="1.5" fill="#D4A574" opacity="0.8" />
-      </g>
-      <text x="180" y="145" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#B45309">Touch</text>
+      {/* EYE — top left */}
+      <circle cx="45" cy="35" r="16" fill="#3B82F6" opacity="0.08" filter="url(#se_r5_glow)" />
+      <ellipse cx="45" cy="35" rx="14" ry="10" fill="#F0F4FF" />
+      <circle cx="45" cy="35" r="6" fill="url(#se_r5_eye_g)" />
+      <circle cx="45" cy="35" r="3" fill="#0F172A" />
+      <circle cx="47" cy="33" r="1.2" fill="#fff" opacity="0.7" />
+      <path d="M 31 35 Q 38 26, 45 24 Q 52 26, 59 35" fill="none" stroke="#94A3B8" strokeWidth="0.8" />
+      <path d="M 31 35 Q 38 43, 45 45 Q 52 43, 59 35" fill="none" stroke="#94A3B8" strokeWidth="0.5" />
 
-      {/* Center "All senses" circle */}
-      <circle cx="120" cy="95" r="18" fill="none" stroke="#F59E0B" strokeWidth="2" opacity="0.6" strokeDasharray="3,2" />
-      <text x="120" y="100" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#F59E0B">5 Senses</text>
+      {/* EAR — top right */}
+      <circle cx="195" cy="35" r="16" fill="#7C3AED" opacity="0.08" filter="url(#se_r5_glow)" />
+      <path d="M 200 22 Q 185 25, 183 38 Q 182 50, 193 54 Q 196 55, 198 52 Q 189 48, 188 38 Q 189 30, 200 27 Z" fill="url(#se_r5_ear_g)" />
+      <path d="M 197 28 Q 191 32, 191 38 Q 191 44, 195 48" fill="none" stroke="#6D28D9" strokeWidth="0.8" opacity="0.5" />
+      <ellipse cx="197" cy="38" rx="2" ry="3" fill="#4C1D95" />
+
+      {/* NOSE — top center */}
+      <circle cx="120" cy="18" r="14" fill="#EC4899" opacity="0.08" filter="url(#se_r5_glow)" />
+      <path d="M 120 8 Q 116 14, 113 22 Q 112 26, 115 28 Q 118 30, 120 28 Q 122 30, 125 28 Q 128 26, 127 22 Q 124 14, 120 8 Z" fill="url(#se_r5_nose_g)" />
+      <ellipse cx="117" cy="26" rx="2" ry="1.8" fill="#9D174D" opacity="0.6" />
+      <ellipse cx="123" cy="26" rx="2" ry="1.8" fill="#9D174D" opacity="0.6" />
+
+      {/* TONGUE — bottom left */}
+      <circle cx="45" cy="125" r="16" fill="#EF4444" opacity="0.08" filter="url(#se_r5_glow)" />
+      <path d="M 36 122 Q 36 132, 45 136 Q 54 132, 54 122 Q 50 118, 45 118 Q 40 118, 36 122 Z" fill="url(#se_r5_tongue_g)" />
+      <circle cx="42" cy="124" r="0.8" fill="#FCA5A5" opacity="0.5" />
+      <circle cx="45" cy="122" r="0.8" fill="#FCA5A5" opacity="0.5" />
+      <circle cx="48" cy="124" r="0.8" fill="#FCA5A5" opacity="0.5" />
+      <line x1="45" y1="119" x2="45" y2="132" stroke="#B91C1C" strokeWidth="0.4" opacity="0.3" />
+
+      {/* HAND — bottom right */}
+      <circle cx="195" cy="125" r="16" fill="#D97706" opacity="0.08" filter="url(#se_r5_glow)" />
+      <path d="M 190 128 Q 188 134, 191 137 Q 195 139, 199 137 Q 202 134, 200 128 Z" fill="url(#se_r5_hand_g)" />
+      <rect x="191" y="116" width="3.5" height="12" rx="1.8" fill="url(#se_r5_hand_g)" />
+      <rect x="195" y="113" width="3.5" height="15" rx="1.8" fill="url(#se_r5_hand_g)" />
+      <rect x="199" y="115" width="3.5" height="13" rx="1.8" fill="url(#se_r5_hand_g)" />
+      <rect x="203" y="118" width="3" height="10" rx="1.5" fill="url(#se_r5_hand_g)" />
+      <path d="M 190 130 Q 187 128, 186 125 Q 185 122, 187 120" stroke="url(#se_r5_hand_g)" strokeWidth="3" fill="none" strokeLinecap="round" />
+
+      {/* Pentagon outline connecting all 5 */}
+      <polygon points="45,35 120,18 195,35 195,125 45,125" fill="none" stroke="#F59E0B" strokeWidth="0.5" opacity="0.15" strokeDasharray="4,3" />
+
+      {/* Question mark overlay */}
+      <circle cx="120" cy="145" r="8" fill="#F59E0B" opacity="0.2" />
+      <path d="M 117 142 Q 117 138, 120 138 Q 123 138, 123 141 Q 123 143, 120 144" stroke="#F59E0B" strokeWidth="1.2" fill="none" strokeLinecap="round" />
+      <circle cx="120" cy="148" r="1" fill="#F59E0B" />
     </svg>
   );
 }

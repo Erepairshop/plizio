@@ -703,274 +703,348 @@ function SVG_R3(lang: string = "en"): React.ReactNode {
 }
 
 function SVG_R4(lang: string = "en"): React.ReactNode {
-  const lb: Record<string,{leathery:string;hard:string;hatching:string}> = {
-    en:{leathery:"Leathery 🍳",hard:"Hard shell 🥚",hatching:"Hatching 🐣"},
-    de:{leathery:"Lederartig 🍳",hard:"Hartschale 🥚",hatching:"Schlüpfend 🐣"},
-    hu:{leathery:"Bőrszerű 🍳",hard:"Kemény héj 🥚",hatching:"Kelés 🐣"},
-    ro:{leathery:"Pieloasă 🍳",hard:"Coajă tare 🥚",hatching:"Ecloziune 🐣"},
-  };
-  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        {/* Background */}
         <linearGradient id="r4_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A574" />
-          <stop offset="100%" stopColor="#A0826D" />
+          <stop offset="0%" stopColor="#3E2723" />
+          <stop offset="40%" stopColor="#5D4037" />
+          <stop offset="100%" stopColor="#6D4C41" />
         </linearGradient>
-
-        {/* Reptile (leathery) egg */}
-        <linearGradient id="r4_reptile_egg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A974" />
-          <stop offset="50%" stopColor="#C9A86A" />
-          <stop offset="100%" stopColor="#A8906D" />
+        <linearGradient id="r4_sand" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#D7CCC8" />
+          <stop offset="100%" stopColor="#BCAAA4" />
         </linearGradient>
-
-        {/* Reptile egg shine */}
-        <linearGradient id="r4_reptile_shine" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E8C8A0" />
-          <stop offset="100%" stopColor="rgba(232,200,160,0)" />
+        <linearGradient id="r4_reptile_egg" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#E0C8A0" />
+          <stop offset="30%" stopColor="#D4B888" />
+          <stop offset="60%" stopColor="#C9A86A" />
+          <stop offset="100%" stopColor="#A89060" />
         </linearGradient>
-
-        {/* Bird (hard shell) egg */}
-        <linearGradient id="r4_bird_egg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#F5DEB3" />
-          <stop offset="50%" stopColor="#EDD5B5" />
+        <radialGradient id="r4_reptile_hi" cx="30%" cy="25%">
+          <stop offset="0%" stopColor="rgba(255,240,210,0.5)" />
+          <stop offset="100%" stopColor="rgba(255,240,210,0)" />
+        </radialGradient>
+        <linearGradient id="r4_bird_egg" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FFF8E1" />
+          <stop offset="30%" stopColor="#F5EED0" />
+          <stop offset="60%" stopColor="#EDD5B5" />
           <stop offset="100%" stopColor="#D2B48C" />
         </linearGradient>
-
-        {/* Bird egg shine */}
-        <linearGradient id="r4_bird_shine" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgba(255,255,255,0.8)" />
+        <radialGradient id="r4_bird_hi" cx="30%" cy="20%">
+          <stop offset="0%" stopColor="rgba(255,255,255,0.7)" />
           <stop offset="100%" stopColor="rgba(255,255,255,0)" />
-        </linearGradient>
-
-        {/* Hatching egg */}
+        </radialGradient>
         <linearGradient id="r4_hatch_egg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D2B48C" />
+          <stop offset="0%" stopColor="#E8D8B8" />
           <stop offset="100%" stopColor="#C9A961" />
         </linearGradient>
-
-        {/* Baby creature inside */}
-        <linearGradient id="r4_baby_color" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#7FBF3F" />
-          <stop offset="100%" stopColor="#558B2F" />
+        <linearGradient id="r4_baby_body" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#A5D64F" />
+          <stop offset="100%" stopColor="#6BAA30" />
         </linearGradient>
+        <linearGradient id="r4_nest" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8D6E4A" />
+          <stop offset="100%" stopColor="#6B5030" />
+        </linearGradient>
+        <radialGradient id="r4_spot_light" cx="50%" cy="30%">
+          <stop offset="0%" stopColor="rgba(255,235,180,0.15)" />
+          <stop offset="100%" stopColor="rgba(255,235,180,0)" />
+        </radialGradient>
       </defs>
 
-      {/* Background - sandy earth */}
+      {/* Background - earthy dark */}
       <rect width="240" height="160" fill="url(#r4_bg)" />
 
-      {/* REPTILE EGG (left) - leathery */}
-      <g transform="translate(55, 75)">
+      {/* Subtle ground texture */}
+      <path d="M 0 130 Q 60 125 120 128 Q 180 132 240 128 L 240 160 L 0 160 Z" fill="url(#r4_sand)" opacity="0.15" />
+
+      {/* Spot lights */}
+      <circle cx="60" cy="60" r="50" fill="url(#r4_spot_light)" />
+      <circle cx="185" cy="55" r="50" fill="url(#r4_spot_light)" />
+
+      {/* LEFT: REPTILE EGG - leathery, in sand nest */}
+      <g transform="translate(60, 70)">
+        {/* Sand nest */}
+        <ellipse cx="0" cy="28" rx="30" ry="8" fill="#A0826D" opacity="0.4" />
+        <ellipse cx="0" cy="26" rx="25" ry="6" fill="#B8956A" opacity="0.3" />
+
         {/* Shadow */}
-        <ellipse cx="0" cy="20" rx="16" ry="4" fill="rgba(0,0,0,0.15)" />
+        <ellipse cx="0" cy="24" rx="18" ry="5" fill="rgba(0,0,0,0.2)" />
 
-        {/* Egg - leathery texture */}
-        <ellipse cx="0" cy="0" rx="13" ry="19" fill="url(#r4_reptile_egg)" />
+        {/* Egg - leathery, slightly irregular shape */}
+        <path d="M 0,-22 Q 14,-20 16,-4 Q 17,8 14,16 Q 8,24 0,24 Q -8,24 -14,16 Q -17,8 -16,-4 Q -14,-20 0,-22 Z" fill="url(#r4_reptile_egg)" />
+        {/* Highlight */}
+        <ellipse cx="-5" cy="-10" rx="7" ry="10" fill="url(#r4_reptile_hi)" />
 
-        {/* Leathery texture - wrinkles */}
-        <path d="M -6,-10 Q -4,-12 -2,-10" stroke="rgba(0,0,0,0.2)" strokeWidth="0.6" fill="none" />
-        <path d="M 0,-14 Q 2,-15 4,-14" stroke="rgba(0,0,0,0.2)" strokeWidth="0.6" fill="none" />
-        <path d="M -8,0 Q -6,2 -4,0" stroke="rgba(0,0,0,0.2)" strokeWidth="0.6" fill="none" />
-        <path d="M 4,2 Q 6,4 8,2" stroke="rgba(0,0,0,0.2)" strokeWidth="0.6" fill="none" />
-        <path d="M -4,10 Q -2,12 0,10" stroke="rgba(0,0,0,0.2)" strokeWidth="0.6" fill="none" />
+        {/* Leathery wrinkle texture */}
+        <g stroke="rgba(120,90,50,0.25)" strokeWidth="0.7" fill="none">
+          <path d="M -7,-14 Q -5,-16 -3,-14" /><path d="M 2,-18 Q 4,-19 6,-17" />
+          <path d="M -9,-2 Q -7,-4 -5,-2" /><path d="M 5,0 Q 7,2 9,0" />
+          <path d="M -6,8 Q -4,10 -2,8" /><path d="M 3,12 Q 5,14 7,12" />
+          <path d="M -4,18 Q -2,20 0,18" />
+        </g>
 
-        {/* Shine - soft glow */}
-        <ellipse cx="-5" cy="-8" rx="6" ry="8" fill="url(#r4_reptile_shine)" />
+        {/* Subtle dimples showing flexibility */}
+        <circle cx="-3" cy="4" r="1.5" fill="rgba(0,0,0,0.06)" />
+        <circle cx="5" cy="-6" r="1.2" fill="rgba(0,0,0,0.05)" />
 
-        {/* Embryo silhouette inside (subtle) */}
-        <ellipse cx="0" cy="2" rx="6" ry="8" fill="rgba(0,0,0,0.1)" />
+        {/* Embryo silhouette inside (faint) */}
+        <ellipse cx="1" cy="4" rx="7" ry="10" fill="rgba(0,0,0,0.08)" />
 
-        {/* Label with dashed pointer */}
-        <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#333">{l.leathery}</text>
+        {/* Small scale pattern faintly visible */}
+        <g fill="rgba(100,80,40,0.08)">
+          <circle cx="2" cy="0" r="2" /><circle cx="-3" cy="5" r="2" /><circle cx="4" cy="8" r="2" />
+        </g>
       </g>
 
-      {/* BIRD EGG (right) - hard shell */}
-      <g transform="translate(185, 75)">
+      {/* RIGHT: BIRD EGG - smooth hard shell, in nest */}
+      <g transform="translate(185, 65)">
+        {/* Woven nest */}
+        <g transform="translate(0, 26)">
+          <ellipse cx="0" cy="0" rx="28" ry="10" fill="url(#r4_nest)" opacity="0.5" />
+          {/* Nest twigs */}
+          <g stroke="#8D6E4A" strokeWidth="1" opacity="0.4" fill="none">
+            <path d="M -22,2 Q -10,-3 5,-2 Q 15,0 24,3" />
+            <path d="M -18,5 Q -5,0 10,1 Q 20,3 26,6" />
+            <path d="M -20,-2 Q -8,-5 8,-4 Q 18,-2 22,0" />
+          </g>
+        </g>
+
         {/* Shadow */}
-        <ellipse cx="0" cy="20" rx="15" ry="4" fill="rgba(0,0,0,0.12)" />
+        <ellipse cx="0" cy="25" rx="16" ry="4" fill="rgba(0,0,0,0.18)" />
 
-        {/* Egg - smooth hard shell */}
-        <ellipse cx="0" cy="0" rx="12" ry="18" fill="url(#r4_bird_egg)" stroke="#D2B48C" strokeWidth="0.5" />
+        {/* Egg - smooth ovoid with pointed top */}
+        <path d="M 0,-22 Q 13,-18 15,-4 Q 16,8 12,17 Q 6,24 0,25 Q -6,24 -12,17 Q -16,8 -15,-4 Q -13,-18 0,-22 Z" fill="url(#r4_bird_egg)" stroke="rgba(180,160,130,0.3)" strokeWidth="0.5" />
+        {/* Bright smooth highlight */}
+        <ellipse cx="-4" cy="-12" rx="5" ry="8" fill="url(#r4_bird_hi)" />
+        {/* Secondary highlight */}
+        <ellipse cx="3" cy="-4" rx="2" ry="4" fill="rgba(255,255,255,0.15)" />
 
-        {/* Hard shell shine - bright and smooth */}
-        <ellipse cx="-4" cy="-10" rx="5" ry="7" fill="url(#r4_bird_shine)" />
-
-        {/* Subtle speckle pattern (bird egg texture) */}
-        <circle cx="-3" cy="2" r="0.5" fill="rgba(128,100,80,0.4)" />
-        <circle cx="4" cy="-5" r="0.4" fill="rgba(128,100,80,0.3)" />
-        <circle cx="2" cy="8" r="0.5" fill="rgba(128,100,80,0.35)" />
-
-        {/* Label with dashed pointer */}
-        <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.hard}</text>
+        {/* Speckle pattern */}
+        <g fill="rgba(128,100,70,0.3)">
+          <circle cx="-3" cy="2" r="0.7" /><circle cx="4" cy="-5" r="0.5" /><circle cx="2" cy="8" r="0.6" />
+          <circle cx="-5" cy="10" r="0.4" /><circle cx="6" cy="3" r="0.5" /><circle cx="-1" cy="14" r="0.6" />
+          <circle cx="3" cy="16" r="0.4" /><circle cx="-6" cy="-8" r="0.3" /><circle cx="7" cy="10" r="0.35" />
+        </g>
       </g>
 
-      {/* HATCHING EGG (center bottom) */}
-      <g transform="translate(120, 128)">
-        {/* Cracked eggshell */}
-        <ellipse cx="0" cy="0" rx="11" ry="14" fill="url(#r4_hatch_egg)" stroke="#8B7355" strokeWidth="0.8" />
+      {/* CENTER BOTTOM: HATCHING EGG */}
+      <g transform="translate(120, 122)">
+        {/* Shadow */}
+        <ellipse cx="0" cy="22" rx="18" ry="4" fill="rgba(0,0,0,0.15)" />
 
-        {/* Large crack down center */}
-        <path d="M 0,-14 Q -2,-8 0,0 Q 1,6 0,12" stroke="#8B7355" strokeWidth="1.5" fill="none" />
+        {/* Lower shell half */}
+        <path d="M -12,0 Q -14,10 -10,18 Q -4,24 0,24 Q 4,24 10,18 Q 14,10 12,0 Z" fill="url(#r4_hatch_egg)" stroke="#A89060" strokeWidth="0.6" />
 
-        {/* Pieces falling */}
-        <path d="M -3,-12 L -6,-16" stroke="#8B7355" strokeWidth="0.8" fill="none" />
-        <path d="M 3,-12 L 6,-16" stroke="#8B7355" strokeWidth="0.8" fill="none" />
+        {/* Upper shell - cracked open pieces */}
+        <path d="M -10,-2 Q -12,-10 -8,-16 Q -4,-18 -2,-14 L -6,-4 Z" fill="url(#r4_hatch_egg)" stroke="#A89060" strokeWidth="0.5" />
+        <path d="M 10,-2 Q 12,-10 8,-16 Q 4,-18 2,-14 L 6,-4 Z" fill="url(#r4_hatch_egg)" stroke="#A89060" strokeWidth="0.5" />
+        {/* Shell fragment flying */}
+        <path d="M -14,-12 L -16,-16 L -12,-15 Z" fill="url(#r4_hatch_egg)" opacity="0.6" />
+        <path d="M 13,-14 L 16,-17 L 14,-12 Z" fill="url(#r4_hatch_egg)" opacity="0.6" />
 
-        {/* Baby peeking out - small creature */}
-        <circle cx="0" cy="-2" r="4" fill="url(#r4_baby_color)" />
-        <circle cx="1.5" cy="-3" r="1.4" fill="#f0f9ff" />
-        <circle cx="1.5" cy="-3" r="0.85" fill="#1e3a5f" />
-        <circle cx="2.2" cy="-3.7" r="0.4" fill="white" opacity="0.8" />
+        {/* Crack lines */}
+        <path d="M -6,-4 Q -3,0 -4,4" stroke="#8B7355" strokeWidth="0.8" fill="none" />
+        <path d="M 6,-4 Q 3,0 4,4" stroke="#8B7355" strokeWidth="0.8" fill="none" />
 
-        {/* Label below */}
-        <text x="0" y="22" textAnchor="middle" fontSize="5.5" fontWeight="bold" fill="#333">{l.hatching}</text>
+        {/* Baby reptile peeking out */}
+        <circle cx="0" cy="-4" r="5" fill="url(#r4_baby_body)" />
+        {/* Baby head highlight */}
+        <circle cx="-1" cy="-6" r="2" fill="rgba(255,255,255,0.1)" />
+        {/* Eye - big and cute */}
+        <circle cx="2" cy="-5" r="2.2" fill="#D4E060" />
+        <ellipse cx="2" cy="-5" rx="0.7" ry="1.8" fill="#1a1a0a" />
+        <circle cx="2.8" cy="-6" r="0.6" fill="white" opacity="0.9" />
+        {/* Second eye */}
+        <circle cx="-2" cy="-5" r="1.8" fill="#D4E060" />
+        <ellipse cx="-2" cy="-5" rx="0.5" ry="1.4" fill="#1a1a0a" />
+        <circle cx="-1.4" cy="-6" r="0.5" fill="white" opacity="0.8" />
+        {/* Tiny nostril */}
+        <circle cx="0" cy="-2.5" r="0.4" fill="rgba(0,0,0,0.3)" />
+        {/* Tiny claw gripping shell */}
+        <path d="M -5,0 L -7,-1 M -5,0 L -6,2" stroke="#6BAA30" strokeWidth="0.8" strokeLinecap="round" fill="none" />
+      </g>
+
+      {/* Decorative feather fragment on right side */}
+      <g transform="translate(225, 140)" opacity="0.3">
+        <path d="M 0,0 Q 2,-8 0,-16" stroke="#8B6340" strokeWidth="1" fill="none" />
+        <path d="M 0,-16 Q 3,-12 4,-14 M 0,-16 Q -3,-12 -4,-14" stroke="#8B6340" strokeWidth="0.5" fill="none" />
+      </g>
+
+      {/* Decorative scale pattern on left */}
+      <g transform="translate(8, 140)" opacity="0.2">
+        <path d="M 0,0 Q 2,-2 4,0 Q 6,-2 8,0" stroke="#A89060" strokeWidth="0.8" fill="none" />
+        <path d="M 2,3 Q 4,1 6,3 Q 8,1 10,3" stroke="#A89060" strokeWidth="0.8" fill="none" />
       </g>
     </svg>
   );
 }
 
 function SVG_R5(lang: string = "en"): React.ReactNode {
-  const lb: Record<string,{reptiles:string;birds:string;scales:string;cold:string;eggs:string;feathers:string;warm:string}> = {
-    en:{reptiles:"Reptiles",birds:"Birds",scales:"Scales ✓",cold:"Cold-blooded ✓",eggs:"Eggs ✓",feathers:"Feathers ✓",warm:"Warm-blooded ✓"},
-    de:{reptiles:"Reptilien",birds:"Vögel",scales:"Schuppen ✓",cold:"Kaltblüter ✓",eggs:"Eier ✓",feathers:"Federn ✓",warm:"Warmblüter ✓"},
-    hu:{reptiles:"Hüllők",birds:"Madarak",scales:"Pikkelyek ✓",cold:"Hidegvérű ✓",eggs:"Tojás ✓",feathers:"Tollak ✓",warm:"Melegvérű ✓"},
-    ro:{reptiles:"Reptile",birds:"Păsări",scales:"Solzi ✓",cold:"Sânge rece ✓",eggs:"Ouă ✓",feathers:"Pene ✓",warm:"Sânge cald ✓"},
-  };
-  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        {/* Background */}
-        <linearGradient id="r5_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#2E5233" />
-          <stop offset="100%" stopColor="#1B3D1B" />
+        <linearGradient id="r5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a2a1a" />
+          <stop offset="50%" stopColor="#1B3D1B" />
+          <stop offset="100%" stopColor="#2a1a1a" />
         </linearGradient>
-
-        {/* Left card - Reptile */}
         <linearGradient id="r5_card_left" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" stopColor="#558B2F" />
-          <stop offset="100%" stopColor="#33691E" />
+          <stop offset="100%" stopColor="#2E7D32" />
         </linearGradient>
-
-        {/* Right card - Bird */}
         <linearGradient id="r5_card_right" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF7043" />
-          <stop offset="100%" stopColor="#D84315" />
+          <stop offset="0%" stopColor="#E65100" />
+          <stop offset="100%" stopColor="#BF360C" />
         </linearGradient>
-
-        {/* Lizard */}
-        <linearGradient id="r5_lizard" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#7FBF3F" />
-          <stop offset="100%" stopColor="#558B2F" />
+        <linearGradient id="r5_lizard" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8FD44F" />
+          <stop offset="50%" stopColor="#6BA82F" />
+          <stop offset="100%" stopColor="#4A7A20" />
         </linearGradient>
-
-        {/* Eagle */}
         <linearGradient id="r5_eagle" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="100%" stopColor="#654321" />
+          <stop offset="0%" stopColor="#8B6340" />
+          <stop offset="100%" stopColor="#5D3E1F" />
+        </linearGradient>
+        <linearGradient id="r5_eagle_head" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#F5F0DC" />
+          <stop offset="100%" stopColor="#E0D8C0" />
         </linearGradient>
       </defs>
 
       {/* Background */}
       <rect width="240" height="160" fill="url(#r5_bg)" />
 
+      {/* Subtle pattern overlay */}
+      <g opacity="0.03" fill="white">
+        <circle cx="30" cy="30" r="40" /><circle cx="210" cy="130" r="35" />
+      </g>
+
       {/* LEFT CARD - REPTILES */}
-      <rect x="8" y="12" width="105" height="136" rx="10" fill="url(#r5_card_left)" opacity="0.95" stroke="white" strokeWidth="1.5" />
+      <rect x="8" y="8" width="108" height="144" rx="12" fill="url(#r5_card_left)" opacity="0.9" />
+      <rect x="8" y="8" width="108" height="144" rx="12" fill="none" stroke="rgba(255,255,255,0.25)" strokeWidth="1" />
+      {/* Card top shine */}
+      <rect x="8" y="8" width="108" height="25" rx="12" fill="rgba(255,255,255,0.08)" />
 
-      {/* Card shine effect */}
-      <rect x="8" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
-
-      {/* Title */}
-      <text x="60.5" y="32" textAnchor="middle" fontSize="8" fontWeight="900" fill="white">{l.reptiles}</text>
-
-      {/* Lizard illustration */}
-      <g transform="translate(35, 58)">
-        {/* Body - small organic shape */}
-        <path d="M 0,0 Q 10,-4 18,-2 Q 20,2 16,4 Q 8,5 0,2" fill="url(#r5_lizard)" />
-
-        {/* Head */}
-        <circle cx="-2" cy="1" r="3" fill="url(#r5_lizard)" />
-
-        {/* Eye */}
-        <circle cx="-3" cy="-1" r="1.4" fill="#f0f9ff" />
-        <circle cx="-3" cy="-1" r="0.9" fill="#1e3a5f" />
-        <circle cx="-2.5" cy="-1.5" r="0.35" fill="white" opacity="0.8" />
-
+      {/* Detailed lizard */}
+      <g transform="translate(30, 55)">
+        <ellipse cx="22" cy="18" rx="28" ry="4" fill="rgba(0,0,0,0.1)" />
         {/* Tail */}
-        <path d="M 18,-2 Q 26,-4 30,0" stroke="#558B2F" strokeWidth="2" fill="none" strokeLinecap="round" />
-
-        {/* Front legs */}
-        <path d="M 4,3 L 3,7" strokeWidth="1.2" stroke="#558B2F" strokeLinecap="round" />
-        <path d="M 10,4 L 10,7" strokeWidth="1.2" stroke="#558B2F" strokeLinecap="round" />
+        <path d="M 45,2 Q 55,-2 62,-6 Q 66,-8 68,-5" stroke="#4A7A20" strokeWidth="2.5" strokeLinecap="round" fill="none" />
+        {/* Body */}
+        <path d="M 6,2 Q 16,-4 30,-2 Q 42,0 48,6 Q 46,12 36,14 Q 22,16 10,13 Q 6,10 6,2" fill="url(#r5_lizard)" />
+        {/* Belly */}
+        <path d="M 10,8 Q 22,6 36,8 Q 44,10 48,11" stroke="#C8E07F" strokeWidth="2" fill="none" opacity="0.4" strokeLinecap="round" />
+        {/* Scales */}
+        <g stroke="#4A7A20" strokeWidth="0.5" fill="none" opacity="0.4">
+          <path d="M 12,2 Q 13,0.5 14,2" /><path d="M 18,0 Q 19,-1.5 20,0" />
+          <path d="M 24,-1 Q 25,-2.5 26,-1" /><path d="M 30,0 Q 31,-1.5 32,0" />
+          <path d="M 36,1 Q 37,-0.5 38,1" /><path d="M 42,3 Q 43,1.5 44,3" />
+        </g>
+        {/* Legs */}
+        <path d="M 10,11 L 6,17 M 6,17 L 4,16 M 6,17 L 8,19" stroke="#4A7A20" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        <path d="M 18,13 L 14,19 M 14,19 L 12,18 M 14,19 L 16,21" stroke="#4A7A20" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        <path d="M 34,13 L 38,19" stroke="#4A7A20" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        <path d="M 42,11 L 46,17" stroke="#4A7A20" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        {/* Head */}
+        <path d="M 6,2 Q 1,-1 -2,2 Q -4,5 -2,8 Q 1,10 6,8 Z" fill="url(#r5_lizard)" />
+        {/* Eye */}
+        <circle cx="-1" cy="3" r="2.2" fill="#D4E060" />
+        <ellipse cx="-1" cy="3" rx="0.6" ry="1.7" fill="#1a1a0a" />
+        <circle cx="0" cy="2.2" r="0.6" fill="white" opacity="0.8" />
+        {/* Tongue */}
+        <path d="M -4,5 L -7,4 M -4,5 L -7,7" stroke="#E84040" strokeWidth="0.6" strokeLinecap="round" fill="none" />
       </g>
 
-      {/* Features list */}
-      <g>
-        <circle cx="18" cy="98" r="2.5" fill="#9CCC65" />
-        <text x="26" y="102" fontSize="5.5" fontWeight="bold" fill="white">{l.scales}</text>
-      </g>
-
-      <g>
-        <circle cx="18" cy="116" r="2.5" fill="#9CCC65" />
-        <text x="26" y="120" fontSize="5.5" fontWeight="bold" fill="white">{l.cold}</text>
-      </g>
-
-      <g>
-        <circle cx="18" cy="134" r="2.5" fill="#9CCC65" />
-        <text x="26" y="138" fontSize="5.5" fontWeight="bold" fill="white">{l.eggs}</text>
+      {/* Reptile feature icons */}
+      <g transform="translate(18, 96)">
+        {/* Scale icon */}
+        <g transform="translate(0, 0)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <path d="M 3,3 Q 5,1 7,3 Q 9,1 11,3" stroke="#C8E07F" strokeWidth="0.8" fill="none" />
+          <path d="M 2,6 Q 4,4 6,6 Q 8,4 10,6" stroke="#C8E07F" strokeWidth="0.8" fill="none" />
+        </g>
+        {/* Thermometer icon (cold) */}
+        <g transform="translate(0, 18)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <rect x="4" y="1" width="2" height="6" rx="1" fill="#64B5F6" />
+          <circle cx="5" cy="7.5" r="1.5" fill="#64B5F6" />
+        </g>
+        {/* Egg icon */}
+        <g transform="translate(0, 36)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <ellipse cx="5" cy="5" rx="2.5" ry="3.5" fill="#D4B888" />
+          <ellipse cx="4" cy="3.5" rx="1" ry="1.5" fill="rgba(255,255,255,0.2)" />
+        </g>
       </g>
 
       {/* RIGHT CARD - BIRDS */}
-      <rect x="127" y="12" width="105" height="136" rx="10" fill="url(#r5_card_right)" opacity="0.95" stroke="white" strokeWidth="1.5" />
+      <rect x="124" y="8" width="108" height="144" rx="12" fill="url(#r5_card_right)" opacity="0.9" />
+      <rect x="124" y="8" width="108" height="144" rx="12" fill="none" stroke="rgba(255,255,255,0.25)" strokeWidth="1" />
+      <rect x="124" y="8" width="108" height="25" rx="12" fill="rgba(255,255,255,0.08)" />
 
-      {/* Card shine effect */}
-      <rect x="127" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
-
-      {/* Title */}
-      <text x="179.5" y="32" textAnchor="middle" fontSize="8" fontWeight="900" fill="white">{l.birds}</text>
-
-      {/* Eagle illustration */}
-      <g transform="translate(155, 52)">
+      {/* Detailed eagle */}
+      <g transform="translate(155, 48)">
+        <ellipse cx="5" cy="28" rx="18" ry="3" fill="rgba(0,0,0,0.1)" />
+        {/* Tail feathers */}
+        <path d="M -4,14 L -8,22" stroke="#5D3E1F" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 0,14 L -2,23" stroke="#6D4C2A" strokeWidth="1.8" strokeLinecap="round" fill="none" />
+        <path d="M 4,14 L 4,22" stroke="#5D3E1F" strokeWidth="1.5" strokeLinecap="round" fill="none" />
         {/* Body */}
-        <ellipse cx="0" cy="0" rx="10" ry="8" fill="url(#r5_eagle)" />
-
-        {/* Wings - minimal */}
-        <path d="M -8,-2 Q -14,-5 -16,-2 Q -12,0 -8,0" fill="#654321" />
-        <path d="M 8,-2 Q 14,-5 16,-2 Q 12,0 8,0" fill="#654321" />
-
-        {/* Head */}
-        <circle cx="2" cy="-6" r="4" fill="#5D2E0F" />
-
+        <ellipse cx="0" cy="2" rx="12" ry="11" fill="url(#r5_eagle)" />
+        {/* Breast lighter */}
+        <ellipse cx="1" cy="5" rx="6" ry="6" fill="#B08050" opacity="0.4" />
+        {/* Wings */}
+        <path d="M -10,-2 Q -18,-6 -22,-3 Q -18,0 -10,2" fill="#4A3018" />
+        <path d="M 10,-2 Q 18,-6 22,-3 Q 18,0 10,2" fill="#4A3018" />
+        {/* Feather strokes on wings */}
+        <g stroke="#3E2510" strokeWidth="0.6" opacity="0.5">
+          <path d="M -16,-5 L -17,-8" /><path d="M -12,-5 L -13,-8" />
+          <path d="M 16,-5 L 17,-8" /><path d="M 12,-5 L 13,-8" />
+        </g>
+        {/* Head - white */}
+        <circle cx="3" cy="-8" r="6" fill="url(#r5_eagle_head)" />
         {/* Beak */}
-        <polygon points="5,-6 9,-6 6,-4" fill="#FFB300" />
-
+        <path d="M 8,-8 Q 12,-7 14,-8 Q 15,-10 13,-10 L 8,-9 Z" fill="#FFB300" />
+        <path d="M 8,-9 L 13,-10 Q 15,-10 14,-8 L 12,-9 Z" fill="#E6A200" />
         {/* Eye */}
-        <circle cx="4" cy="-7.5" r="1.4" fill="#f0f9ff" />
-        <circle cx="4" cy="-7.5" r="0.9" fill="#1e3a5f" />
-        <circle cx="4.5" cy="-8" r="0.35" fill="white" opacity="0.8" />
-
-        {/* Tail */}
-        <path d="M 0,8 L -3,12 M 0,8 L 0,12 M 0,8 L 3,12" stroke="#654321" strokeWidth="1.5" strokeLinecap="round" />
+        <circle cx="6" cy="-9.5" r="2" fill="#FFFDE0" />
+        <circle cx="6" cy="-9.5" r="1.3" fill="#D4A017" />
+        <circle cx="6" cy="-9.5" r="0.7" fill="#1a1a00" />
+        <circle cx="6.8" cy="-10.2" r="0.5" fill="white" opacity="0.9" />
+        {/* Talons */}
+        <g stroke="#E6A200" strokeWidth="1" strokeLinecap="round" fill="none">
+          <path d="M -2,13 L -3,17" /><path d="M 2,13 L 2,17" /><path d="M 5,13 L 6,17" />
+        </g>
       </g>
 
-      {/* Features list */}
-      <g>
-        <circle cx="137" cy="98" r="2.5" fill="#FFD54F" />
-        <text x="145" y="102" fontSize="5.5" fontWeight="bold" fill="white">{l.feathers}</text>
+      {/* Bird feature icons */}
+      <g transform="translate(134, 96)">
+        {/* Feather icon */}
+        <g transform="translate(0, 0)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <path d="M 5,1 Q 7,3 5,8 Q 3,3 5,1 Z" fill="#FFAB40" opacity="0.8" />
+          <line x1="5" y1="1" x2="5" y2="8" stroke="rgba(0,0,0,0.2)" strokeWidth="0.3" />
+        </g>
+        {/* Thermometer icon (warm) */}
+        <g transform="translate(0, 18)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <rect x="4" y="1" width="2" height="6" rx="1" fill="#FF5252" />
+          <circle cx="5" cy="7.5" r="1.5" fill="#FF5252" />
+        </g>
+        {/* Hard egg icon */}
+        <g transform="translate(0, 36)">
+          <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.12)" />
+          <ellipse cx="5" cy="5" rx="2.5" ry="3.5" fill="#FFF8E1" stroke="rgba(180,160,130,0.4)" strokeWidth="0.4" />
+          <ellipse cx="4" cy="3.5" rx="1" ry="1.5" fill="rgba(255,255,255,0.4)" />
+        </g>
       </g>
 
-      <g>
-        <circle cx="137" cy="116" r="2.5" fill="#FFD54F" />
-        <text x="145" y="120" fontSize="5.5" fontWeight="bold" fill="white">{l.warm}</text>
-      </g>
-
-      <g>
-        <circle cx="137" cy="134" r="2.5" fill="#FFD54F" />
-        <text x="145" y="138" fontSize="5.5" fontWeight="bold" fill="white">{l.eggs}</text>
+      {/* Center: shared trait - eggs (connected) */}
+      <g transform="translate(116, 75)">
+        <circle cx="4" cy="0" r="4" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <ellipse cx="4" cy="0" rx="1.5" ry="2.2" fill="rgba(255,255,255,0.15)" />
       </g>
     </svg>
   );
