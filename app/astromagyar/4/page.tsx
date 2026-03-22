@@ -36,6 +36,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import VerbConjugationExplorer from "@/app/astromagyar/games/o4/VerbConjugationExplorer";
+import PronounsO4Explorer from "@/app/astromagyar/games/o4/PronounsO4Explorer";
+import AdverbialsExplorer from "@/app/astromagyar/games/o4/AdverbialsExplorer";
+import ComplexSentencesExplorer from "@/app/astromagyar/games/o4/ComplexSentencesExplorer";
+import WordFormationO4Explorer from "@/app/astromagyar/games/o4/WordFormationO4Explorer";
+import SpellingMasteryExplorer from "@/app/astromagyar/games/o4/SpellingMasteryExplorer";
+import CompositionO4Explorer from "@/app/astromagyar/games/o4/CompositionO4Explorer";
+import GrammarReviewExplorer from "@/app/astromagyar/games/o4/GrammarReviewExplorer";
+import ReviewO4Explorer from "@/app/astromagyar/games/o4/ReviewO4Explorer";
 import {
   generateO4CategoryRushContent,
   generateO4SentenceBuilderContent,
@@ -89,6 +98,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "verb-conjugation-explorer"
+  | "pronouns-o4-explorer"
+  | "adverbials-explorer"
+  | "complex-sentences-explorer"
+  | "word-formation-o4-explorer"
+  | "spelling-mastery-explorer"
+  | "composition-o4-explorer"
+  | "grammar-review-explorer"
+  | "review-o4-explorer"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
