@@ -178,13 +178,11 @@ const TIER_KLASSIFIZIERUNG_BIO: VisualQuestionType = {
     "arthropods", "insects", "spiders", "mollusks", "worm",
   ],
   generate: (count) => {
-    const questions = [];
-    const all = [...WIRBELTIERE.map(a => ({ animal: a, correct: "wirbeltier" as const })),
-                  ...WIRBELLOSE.map(a => ({ animal: a, correct: "wirbellos" as const }))];
-    for (let i = 0; i < count; i++) {
-      questions.push(pick(all));
-    }
-    return questions;
+    const all = shuffle([
+      ...WIRBELTIERE.map(a => ({ animal: a, correct: "wirbeltier" as const })),
+      ...WIRBELLOSE.map(a => ({ animal: a, correct: "wirbellos" as const })),
+    ]);
+    return all.slice(0, count);
   },
   gradeAnswer: (q, given) => ({ correct: q.correct === given, expected: q.correct }),
   mapProps: (q, userAnswer, submitted, onAnswer) => ({
@@ -210,17 +208,12 @@ const ORGAN_ZUORDNUNG: VisualQuestionType = {
     "eye", "ear", "nose", "tongue", "skin_sense",
   ],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const pair = pick(ORGANS_TO_SYSTEMS);
-      // Pick 4-5 systems as options (always include correct)
+    const pool = shuffle(ORGANS_TO_SYSTEMS);
+    return pool.slice(0, count).map(pair => {
       const others = ALL_SYSTEMS.filter(s => s !== pair.system);
-      const optionsRaw = [pair.system, ...shuffle(others).slice(0, 4)];
-      const options = shuffle(optionsRaw);
-      const correctIndex = options.indexOf(pair.system);
-      questions.push({ organ: pair.organ, options, correctIndex });
-    }
-    return questions;
+      const options = shuffle([pair.system, ...shuffle(others).slice(0, 4)]);
+      return { organ: pair.organ, options, correctIndex: options.indexOf(pair.system) };
+    });
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.options[q.correctIndex];
@@ -246,13 +239,11 @@ const ERNAEHRUNGS_SORT: VisualQuestionType = {
   component: ErnährungsSort,
   subtopicIds: ["nutrients", "healthy_diet", "digestive_organs", "digestive_system"],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const item = pick(FOOD_NUTRIENTS);
-      const options = shuffle([...ALL_NUTRIENT_GROUPS]);
-      questions.push({ item: item.item, correct: item.group, options });
-    }
-    return questions;
+    return shuffle(FOOD_NUTRIENTS).slice(0, count).map(item => ({
+      item: item.item,
+      correct: item.group,
+      options: shuffle([...ALL_NUTRIENT_GROUPS]),
+    }));
   },
   gradeAnswer: (q, given) => ({ correct: given === q.correct, expected: q.correct }),
   mapProps: (q, userAnswer, submitted, onAnswer) => ({
@@ -275,15 +266,10 @@ const NAHRUNGSKETTE_SORT: VisualQuestionType = {
   component: NahrungsketteSort,
   subtopicIds: ["food_chain", "forest_layers", "freshwater", "saltwater", "water_organisms", "decomposition", "ecological_niche", "population"],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const fc = pick(FOOD_CHAINS);
-      questions.push({
-        organisms: [...fc.chain],   // component shuffles internally
-        correctOrder: fc.chain,
-      });
-    }
-    return questions;
+    return shuffle(FOOD_CHAINS).slice(0, count).map(fc => ({
+      organisms: [...fc.chain],   // component shuffles internally
+      correctOrder: fc.chain,
+    }));
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.correctOrder.join(',');
@@ -313,22 +299,17 @@ const ORGAN_DIAGRAM: VisualQuestionType = {
     "heart", "circulation",
   ],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const organ = pick(ORGANS_DIAGRAM);
+    return shuffle(ORGANS_DIAGRAM).slice(0, count).map(organ => {
       const others = ALL_ORGANS_DIAGRAM.filter(o => o !== organ.correct);
-      const optionsRaw = [organ.correct, ...shuffle(others).slice(0, 3)];
-      const options = shuffle(optionsRaw);
-      const correctIndex = options.indexOf(organ.correct);
-      questions.push({
+      const options = shuffle([organ.correct, ...shuffle(others).slice(0, 3)]);
+      return {
         organEmoji: organ.organEmoji,
         bodyRegion: organ.bodyRegion,
         organHint: organ.organHint,
         options,
-        correctIndex,
-      });
-    }
-    return questions;
+        correctIndex: options.indexOf(organ.correct),
+      };
+    });
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.options[q.correctIndex];
@@ -356,21 +337,16 @@ const PFLANZEN_ANATOMIE: VisualQuestionType = {
   component: PflanzenAnatomie,
   subtopicIds: ["plant_parts", "flower_structure", "plant_reproduction", "plant_types", "photosynthesis", "photosynthesis_detail"],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const part = pick(PLANT_PARTS);
+    return shuffle(PLANT_PARTS).slice(0, count).map(part => {
       const others = ALL_PLANT_PARTS.filter(p => p !== part.correct);
-      const optionsRaw = [part.correct, ...shuffle(others).slice(0, 4)];
-      const options = shuffle(optionsRaw);
-      const correctIndex = options.indexOf(part.correct);
-      questions.push({
+      const options = shuffle([part.correct, ...shuffle(others).slice(0, 4)]);
+      return {
         partEmoji: part.partEmoji,
         partHint: part.partHint,
         options,
-        correctIndex,
-      });
-    }
-    return questions;
+        correctIndex: options.indexOf(part.correct),
+      };
+    });
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.options[q.correctIndex];
@@ -400,22 +376,17 @@ const ZELL_DIAGRAM: VisualQuestionType = {
     "photosynthesis_detail", "cellular_respiration", "energy_transfer",
   ],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const org = pick(CELL_ORGANELLES);
+    return shuffle(CELL_ORGANELLES).slice(0, count).map(org => {
       const others = ALL_ORGANELLES.filter(o => o !== org.correct);
-      const optionsRaw = [org.correct, ...shuffle(others).slice(0, 3)];
-      const options = shuffle(optionsRaw);
-      const correctIndex = options.indexOf(org.correct);
-      questions.push({
+      const options = shuffle([org.correct, ...shuffle(others).slice(0, 3)]);
+      return {
         organelleEmoji: org.organelleEmoji,
         organelleHint: org.organelleHint,
         cellType: org.cellType,
         options,
-        correctIndex,
-      });
-    }
-    return questions;
+        correctIndex: options.indexOf(org.correct),
+      };
+    });
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.options[q.correctIndex];
@@ -446,17 +417,12 @@ const LEBENSZYKLUS_TIMELINE: VisualQuestionType = {
     "cell_division", "cell_cycle",
   ],
   generate: (count) => {
-    const questions = [];
-    for (let i = 0; i < count; i++) {
-      const lc = pick(LIFECYCLE_ORGANISMS);
-      questions.push({
-        organism: lc.organism,
-        stages: [...lc.stages], // component shuffles internally
-        stageEmojis: lc.emojis,
-        correctOrder: lc.stages,
-      });
-    }
-    return questions;
+    return shuffle(LIFECYCLE_ORGANISMS).slice(0, count).map(lc => ({
+      organism: lc.organism,
+      stages: [...lc.stages],   // component shuffles internally
+      stageEmojis: lc.emojis,
+      correctOrder: lc.stages,
+    }));
   },
   gradeAnswer: (q, given) => {
     const correct = given === q.correctOrder.join(',');
