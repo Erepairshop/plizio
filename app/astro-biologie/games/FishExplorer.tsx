@@ -862,7 +862,7 @@ export default function FishExplorer({
             </motion.div>
           )}
 
-          {phase === "question" && round < 4 && (
+          {phase === "question" && round !== 3 && (
             <motion.div
               key={`q-${round}`}
               initial={{ opacity: 0, y: 20 }}
