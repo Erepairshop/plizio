@@ -284,12 +284,213 @@ export function generatePressureBasicsTyping(lang: string = "en", seed: number =
   ];
 }
 
+// ─── 2. LIQUID PRESSURE ────────────────────────────────────────────────────
+
+const LIQUID_PRESSURE_DATA = {
+  examples: [
+    { en: "water at the bottom of a swimming pool", de: "Wasser am Boden eines Schwimmbades", hu: "víz az uszoda alján", ro: "apă la fundul unei piscine" },
+    { en: "a dam holding back water", de: "ein Staudamm hält Wasser zurück", hu: "gát által visszatartott víz", ro: "o baraj care ține apă" },
+    { en: "pressure in water pipes", de: "Druck in Wasserleitungen", hu: "nyomás vízvezetékben", ro: "presiune în conductele de apă" },
+    { en: "scuba diving deeper underwater", de: "Tauchen tiefer unter Wasser", hu: "búvárkodás mélyebben", ro: "scuba diving mai adânc" },
+    { en: "a hydraulic press", de: "eine hydraulische Presse", hu: "hidraulikus sajtó", ro: "o presă hidraulică" },
+    { en: "blood pressure in arteries", de: "Blutdruck in Arterien", hu: "vérnyomás az artériákban", ro: "presiunea sângelui în arterii" },
+    { en: "a water tower", de: "ein Wasserturm", hu: "víztorony", ro: "o turn de apă" },
+    { en: "an aquarium glass under pressure", de: "Aquariumglas unter Druck", hu: "akváriumüveg nyomás alatt", ro: "sticlă de acvariu sub presiune" },
+  ],
+
+  depths: [
+    { depth: 1, en: "1 meter deep", de: "1 Meter tief", hu: "1 méter mélyen", ro: "1 metru adânc" },
+    { depth: 5, en: "5 meters deep", de: "5 Meter tief", hu: "5 méter mélyen", ro: "5 metri adânc" },
+    { depth: 10, en: "10 meters deep", de: "10 Meter tief", hu: "10 méter mélyen", ro: "10 metri adânc" },
+  ],
+
+  properties: [
+    { en: "depth", de: "Tiefe", hu: "mélység", ro: "adâncime" },
+    { en: "density", de: "Dichte", hu: "sűrűség", ro: "densitate" },
+    { en: "connected vessels", de: "verbundene Gefäße", hu: "összefüggő edények", ro: "vase conectate" },
+    { en: "gravity", de: "Schwerkraft", hu: "gravitáció", ro: "gravitație" },
+  ],
+};
+
+export function generateLiquidPressureMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is liquid pressure?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("Was ist Flüssigkeitsdruck?", "What is liquid pressure?", "Mit a folyadéknyomás?", "Ce este presiunea lichidului?", lang),
+      q4("Der Druck, der von einer Flüssigkeit aufgrund ihrer Gewicht und Tiefe ausgeübt wird", "The pressure exerted by a liquid due to its weight and depth", "A folyadék által súlya és mélysége miatt kifejtett nyomás", "Presiunea exercitată de un lichid din cauza greutății și adâncimii sale", lang),
+      [
+        q4("Der Druck von Gasmolekülen", "The pressure of gas molecules", "Gázmolekulák nyomása", "Presiunea moleculelor de gaz", lang),
+        q4("Der Druck auf der Oberfläche der Flüssigkeit", "The pressure on the surface of the liquid", "Nyomás a folyadék felszínén", "Presiunea pe suprafața lichidului", lang),
+        q4("Die Bewegungsgeschwindigkeit der Flüssigkeit", "The speed of movement of the liquid", "A folyadék mozgásának sebessége", "Viteza de mișcare a lichidului", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of liquid pressure?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(LIQUID_PRESSURE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4(`Welches ist ein Beispiel für Flüssigkeitsdruck?`, `Which is an example of liquid pressure?`, `Melyik egy folyadéknyomás példája?`, `Care este un exemplu de presiune lichidului?`, lang),
+      example[lang as "en"],
+      LIQUID_PRESSURE_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is the formula for liquid pressure?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("Was ist die Formel für Flüssigkeitsdruck?", "What is the formula for liquid pressure?", "Mi a folyadéknyomás képlete?", "Care este formula presiunii lichidului?", lang),
+      q4("p = ρ × g × h (Druck = Dichte × Schwerkraft × Höhe/Tiefe)", "p = ρ × g × h (Pressure = Density × Gravity × Height/Depth)", "p = ρ × g × h (nyomás = sűrűség × gravitáció × magasság/mélység)", "p = ρ × g × h (presiune = densitate × gravitație × înălțime/adâncime)", lang),
+      [
+        q4("p = ρ + g + h", "p = ρ + g + h", "p = ρ + g + h", "p = ρ + g + h", lang),
+        q4("p = ρ / g / h", "p = ρ / g / h", "p = ρ / g / h", "p = ρ / g / h", lang),
+        q4("p = g × h / ρ", "p = g × h / ρ", "p = g × h / ρ", "p = g × h / ρ", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "How does depth affect pressure?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("Wie beeinflusst die Tiefe den Druck?", "How does depth affect pressure?", "Hogyan befolyásolja a mélység a nyomást?", "Cum afectează adâncimea presiunea?", lang),
+      q4("Je tiefer, desto größer der Druck", "The deeper, the greater the pressure", "Minél mélyebb, annál nagyobb a nyomás", "Cu cât mai adânc, cu atât mai mare presiunea", lang),
+      [
+        q4("Je tiefer, desto kleiner der Druck", "The deeper, the smaller the pressure", "Minél mélyebb, annál kisebb a nyomás", "Cu cât mai adânc, cu atât mai mică presiunea", lang),
+        q4("Die Tiefe hat keinen Einfluss", "Depth has no effect", "A mélységnek nincs hatása", "Adâncimea nu are efect", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What are connected vessels?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("Was sind verbundene Gefäße?", "What are connected vessels?", "Mit az összefüggő edények?", "Ce sunt vasele conectate?", lang),
+      q4("Gefäße, die durch eine Röhre verbunden sind, mit gleicher Flüssigkeitshöhe", "Vessels connected by a tube with equal liquid height at the same level", "Edények, amelyeket egy cső köt össze, azonos folyadékmagassággal", "Vase conectate printr-o țeavă cu înălțime egală a lichidului", lang),
+      [
+        q4("Gefäße mit unterschiedlicher Größe", "Vessels of different sizes", "Különböző méretű edények", "Vase de dimensiuni diferite", lang),
+        q4("Gefäße, die fester geschlossen sind", "Vessels that are closed tighter", "Szorosan zárt edények", "Vase care sunt mai bine închise", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "In connected vessels, the liquid level..."
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("In verbundenen Gefäßen ist der Flüssigkeitspegel...", "In connected vessels, the liquid level is...", "Összefüggő edényekben a folyadékszint...", "În vasele conectate, nivelul lichidului este...", lang),
+      q4("auf gleicher Höhe in beiden Gefäßen", "at the same level in both vessels", "azonos magasságban mindkét edényben", "la același nivel în ambele vase", lang),
+      [
+        q4("höher im breiteren Gefäß", "higher in the wider vessel", "magasabban a szélesebb edényben", "mai înalt în vasul mai larg", lang),
+        q4("abhängig vom Material des Gefäßes", "dependent on the vessel material", "az edény anyagától függ", "dependent de materialul vasului", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Why does pressure increase with depth?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "liquid_pressure",
+      q4("Warum nimmt der Druck mit der Tiefe zu?", "Why does pressure increase with depth?", "Miért nő a nyomás a mélységgel?", "De ce crește presiunea cu adâncimea?", lang),
+      q4("Wegen des Gewichts der Flüssigkeit über dem Punkt", "Due to the weight of the liquid above the point", "A felül lévő folyadék súlya miatt", "Din cauza greutății lichidului deasupra punctului", lang),
+      [
+        q4("Wegen der Temperatur der Flüssigkeit", "Due to the temperature of the liquid", "A folyadék hőmérséklete miatt", "Din cauza temperaturii lichidului", lang),
+        q4("Wegen der Farbe der Flüssigkeit", "Due to the color of the liquid", "A folyadék színe miatt", "Din cauza culorii lichidului", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateLiquidPressureTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("pressure", "liquid_pressure",
+      q4("Definiere Flüssigkeitsdruck und gib die Formel an.", "Define liquid pressure and give the formula.", "Határozd meg a folyadéknyomást és add meg a képletet.", "Definește presiunea lichidului și dă formula.", lang),
+      ["liquid", "Flüssigkeit", "folyadék", "lichid", "weight", "Gewicht", "súly", "greutate", "depth", "Tiefe", "mélység", "adâncime", "p = ρ × g × h"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Gib drei Beispiele für Flüssigkeitsdruck im Alltag.", "Give three examples of liquid pressure in everyday life.", "Add meg három folyadéknyomás példát a mindennapi életből.", "Dă trei exemple de presiune lichidului în viața de zi cu zi.", lang),
+      ["swimming pool", "Schwimmbad", "uszoda", "piscină", "dam", "Staudamm", "gát", "baraj", "water pipes", "Wasserleitungen", "vízvezeték", "conducte apă", "scuba diving", "Tauchen", "búvárkodás", "scuba", "hydraulic press", "hydraulische Presse", "hidraulikus sajtó"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Was sind verbundene Gefäße?", "What are connected vessels?", "Mit az összefüggő edények?", "Ce sunt vasele conectate?", lang),
+      ["connected", "verbunden", "összefüggő", "conectate", "vessels", "Gefäße", "edények", "vase", "equal level", "gleiche Höhe", "azonos szint", "nivel egal"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Wie beeinflusst Tiefe den Flüssigkeitsdruck?", "How does depth affect liquid pressure?", "Hogyan befolyásolja a mélység a folyadéknyomást?", "Cum afectează adâncimea presiunea lichidului?", lang),
+      ["increases", "nimmt zu", "nő", "crește", "deeper", "tiefer", "mélyebb", "mai adânc", "greater pressure", "größerer Druck", "nagyobb nyomás", "presiune mai mare"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Was sind die Variablen in der Formel p = ρ × g × h?", "What are the variables in the formula p = ρ × g × h?", "Melyek az f = ρ × g × h képlet változói?", "Care sunt variabilele din formula p = ρ × g × h?", lang),
+      ["density", "Dichte", "sűrűség", "densitate", "gravity", "Schwerkraft", "gravitáció", "gravitație", "height", "Höhe", "magasság", "înălțime", "depth", "Tiefe", "mélység", "adâncime"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Warum ist der Druck am Grund eines Sees größer als an der Oberfläche?", "Why is pressure at the bottom of a lake greater than at the surface?", "Miért nagyobb a nyomás a tó fenekén, mint a felszínen?", "De ce este presiunea la fundul unui lac mai mare decât la suprafață?", lang),
+      ["weight", "Gewicht", "súly", "greutate", "liquid above", "Flüssigkeit darüber", "felül lévő folyadék", "lichid deasupra", "depth", "Tiefe", "mélység", "adâncime"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Erkläre das Prinzip der verbundenen Gefäße.", "Explain the principle of connected vessels.", "Magyarázd meg az összefüggő edények elvét.", "Explică principiul vaselor conectate.", lang),
+      ["equal", "gleich", "egyenlő", "egal", "level", "Höhe", "szint", "nivel", "connected", "verbunden", "összefüggő", "conectate", "pressure", "Druck", "nyomás", "presiune"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Wie nutzen Hydraulikpressen den Flüssigkeitsdruck?", "How do hydraulic presses use liquid pressure?", "Hogyan használnak hidraulikus sajtók a folyadéknyomást?", "Cum folosesc presele hidraulice presiunea lichidului?", lang),
+      ["force", "Kraft", "erő", "forță", "multiply", "vervielfachen", "megsokszorozni", "înmulți", "pressure", "Druck", "nyomás", "presiune", "transmission"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Was ist die Dichte von Wasser und wie wirkt sie sich auf den Druck aus?", "What is the density of water and how does it affect pressure?", "Mi a víz sűrűsége és hogyan befolyásolja a nyomást?", "Care este densitatea apei și cum o afectează pe presiune?", lang),
+      ["1000 kg/m³", "density", "Dichte", "sűrűség", "densitate", "affects", "beeinflusst", "befolyásol", "afectează"]
+    ),
+
+    createTyping("pressure", "liquid_pressure",
+      q4("Beschreibe, warum Taucher einen Tauchanzug brauchen.", "Describe why divers need a diving suit.", "Írj le, miért szükségesek a búvároknak búvárruhák.", "Descrie de ce au nevoie scafandrii de costume de scufundare.", lang),
+      ["pressure", "Druck", "nyomás", "presiune", "depth", "Tiefe", "mélység", "adâncime", "protect", "schützen", "védeni", "proteja", "body"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
   pressure_basics: (lang = "en", seed = 0) => [...generatePressureBasicsMCQ(lang, seed), ...generatePressureBasicsTyping(lang, seed)],
   pressure_basics_mcq: (lang = "en", seed = 0) => generatePressureBasicsMCQ(lang, seed),
   pressure_basics_typing: (lang = "en", seed = 0) => generatePressureBasicsTyping(lang, seed),
+
+  liquid_pressure: (lang = "en", seed = 0) => [...generateLiquidPressureMCQ(lang, seed), ...generateLiquidPressureTyping(lang, seed)],
+  liquid_pressure_mcq: (lang = "en", seed = 0) => generateLiquidPressureMCQ(lang, seed),
+  liquid_pressure_typing: (lang = "en", seed = 0) => generateLiquidPressureTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
