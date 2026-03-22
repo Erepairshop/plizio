@@ -826,15 +826,15 @@ export default function AstroSachkundeG1Page() {
   const EXPLORER_SCREENS = ["body-explorer", "animal-explorer", "nature-explorer", "weather-explorer", "family-explorer", "traffic-explorer", "recycling-explorer", "nature-review-explorer", "sachkunde-review-explorer"];
   if (EXPLORER_SCREENS.includes(screen)) return (
     <>
-      {screen === "body-explorer" && <BodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "animal-explorer" && <AnimalExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "nature-explorer" && <NatureExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "weather-explorer" && <WeatherExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "family-explorer" && <FamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "traffic-explorer" && <TrafficExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "recycling-explorer" && <RecyclingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "nature-review-explorer" && <NatureReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
-      {screen === "sachkunde-review-explorer" && <SachkundeReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />}
+      {screen === "body-explorer" && <BodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "animal-explorer" && <AnimalExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "nature-explorer" && <NatureExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "weather-explorer" && <WeatherExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "family-explorer" && <FamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "traffic-explorer" && <TrafficExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "recycling-explorer" && <RecyclingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "nature-review-explorer" && <NatureReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
+      {screen === "sachkunde-review-explorer" && <SachkundeReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />}
     </>
   );
 

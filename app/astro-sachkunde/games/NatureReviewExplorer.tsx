@@ -535,10 +535,11 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── main component ───────────────────────────────────────────────────────────
-function NatureReviewExplorer({ color, lang = "de", onDone }: Props) {
+function NatureReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
 
   // randomize all question sets once per mount
@@ -574,6 +575,13 @@ function NatureReviewExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* round progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-2">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (

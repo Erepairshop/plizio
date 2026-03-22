@@ -8,6 +8,7 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── LABELS (ALL text, 4 languages) ─────────────────────────────────────────
@@ -330,7 +331,7 @@ const R4_COUNT = 3;
 const R5_COUNT = 4;
 const TOTAL_Q = R1_COUNT + R2_COUNT + R3_COUNT + R4_COUNT + R5_COUNT;
 
-function FamilyExplorer({ color, lang = "de", onDone }: Props) {
+function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const t: LabelMap = LABELS[(lang as Lang) in LABELS ? (lang as Lang) : "de"];
 
   // ── Score tracking ──
@@ -540,6 +541,13 @@ function FamilyExplorer({ color, lang = "de", onDone }: Props) {
   // ─── Render ─────────────────────────────────────────────────────────────────
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* Round progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-1">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (

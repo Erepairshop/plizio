@@ -9,6 +9,7 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 const L: Record<string, Record<string, string>> = {
@@ -146,7 +147,7 @@ function shuffle<T>(arr: T[]): T[] {
 
 type QItem = { q: string; a: string; wrong: string[] };
 
-function TrafficExplorer({ color, lang = "de", onDone }: Props) {
+function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const t = L[lang] ?? L.de;
   const [round, setRound] = useState(0);
   const scoreRef = useRef(0);
@@ -254,6 +255,13 @@ function TrafficExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       <div className="flex justify-center gap-1.5 pt-4 pb-3">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
           <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"

@@ -422,6 +422,7 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── MCQ Sub-component ───────────────────────────────────────────────────────
@@ -496,7 +497,7 @@ function MCQ({ emoji, question, options, correctIndex, answered, selected, onSel
 
 // ─── Main Component ──────────────────────────────────────────────────────────
 
-function SachkundeReviewExplorer({ color, lang = "de", onDone }: Props) {
+function SachkundeReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const l = lang as Lang;
   const lbl: Lbl = (LABELS[l] ?? LABELS.de) as Lbl;
 
@@ -552,6 +553,13 @@ function SachkundeReviewExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col overflow-auto" style={{ background: bgStyle }}>
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
 
       {/* ── Header ── */}
       <div className="flex flex-col items-center pt-5 pb-2 px-4 gap-1">
