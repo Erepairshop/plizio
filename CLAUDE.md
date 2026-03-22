@@ -965,6 +965,16 @@ if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */
    // HIBÁS:  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw'; ...
    ```
    A hibás verzió: dx=0,dy=1 → 'nw' (rossz, kellene 'sw'); dx=0,dy=-1 → 'se' (rossz, kellene 'ne')
+15. **Explorer SVG-kben NE legyen szöveges label** — Az SVG `viewBox="0 0 240 160"` túl kicsi ahhoz, hogy 4 nyelven (en/de/hu/ro) elférjenek a szöveges címkék (pill badge-ek). A német/magyar szavak 30-50%-kal hosszabbak mint az angol → kifutnak, egymásra lógnak.
+   - **Szabály:** Új explorer SVG-ben a címkéket/label-eket a React oldalon kell megjeleníteni (az SVG alatti/melletti HTML elemként), NEM az SVG-n belül `<text>` elemmel.
+   - Az SVG-ben csak a rajz legyen (állat, növény, diagram) — szöveg nélkül.
+   - Ha mégis SVG-n belül kell label → max `fontSize={5}`, és teszteld mentálisan a leghosszabb nyelven (DE/HU).
+16. **Explorer pattern: FishExplorer minta** — Minden ExplorerEngine-alapú explorer a FishExplorer mintát kövesse: **info + 1 kvíz per kör** (nem 4 info kör + 1 kvíz a végén).
+   - R1-R4: `type: "mcq"` + 1 kérdés (tanít, aztán azonnal kérdez)
+   - R5: `type: "mcq"` + 2-3 review kérdés
+   - A `type: "info"` round típust NE használd (az nem kérdez semmit)
+17. **Sonnet agent nagy feladatokra NE** — A Sonnet model lassú és gyakran megakad nagy/összetett feladatoknál (pl. teljes fájl újraírás + SVG modernizálás). Mindig **osszuk kisebb feladatokra** (pl. pattern külön, SVG külön). Haiku gyorsabb és megbízhatóbb egyszerűbb feladatokra.
+18. **Explorer kérdés label kulcsok** — Minden MCQ kérdés label key-jének mind a 4 nyelvben (en/de/hu/ro) léteznie kell a LABELS objektumban. Ellenőrizd mielőtt commitolsz: ha egy key hiányzik egy nyelvből, az a kérdés szöveg helyett a key stringet mutatja.
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |

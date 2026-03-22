@@ -1,191 +1,770 @@
 "use client";
-// NutritionExplorer — Island i9: Nutrition (Ernährung)
-// 5 rounds: Which nutrient? MCQ, Digestive organs MCQ, Digestion order, Healthy/Unhealthy MCQ, Quick review
+import ExplorerEngine from "./ExplorerEngine";
+import type { ExplorerDef, MCQQuestion } from "./ExplorerEngine";
+import React from "react";
 
-import { memo, useState, useCallback, useMemo, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+// ─────────────────────────────────────────────────────────────────────────────
+// LABELS (4 languages)
+// ─────────────────────────────────────────────────────────────────────────────
 
-interface MCQQuestion { emoji: string; question: string; choices: string[]; answer: string; }
-interface Props { color: string; lang?: string; onDone: (score: number, total: number) => void; }
-
-const LABELS: Record<string, Record<string, string>> = {
+const LABELS: ExplorerDef["labels"] = {
   en: {
-    next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite — try again",
-    r1Title: "Which Nutrient?", r1Hint: "Identify what type of nutrient is being described.",
-    r2Title: "Digestive Organs", r2Hint: "Which organ plays this role in digestion?",
-    r3Title: "Digestion Journey", r3Hint: "Tap the path food takes through the body, from first to last.",
-    r3InProgress: "Keep going!", r3Done: "Correct journey! ✓",
-    r4Title: "Healthy Choices", r4Hint: "What makes this food healthy or unhealthy?",
-    r5Title: "Quick Review", r5Hint: "Mixed questions from all rounds.",
-    protein: "Protein 🥩", carbohydrate: "Carbohydrate 🍞", fat: "Fat 🧈", vitamin: "Vitamin 🍊", mineral: "Mineral 🦷",
-    q_nut_muscle: "💪 Which nutrient builds and repairs muscles and tissues?",
-    q_nut_energy: "⚡ Which nutrient is the body's main source of quick energy (sugars, starch)?",
-    q_nut_store: "🧈 Which nutrient stores energy and insulates the body?",
-    q_nut_immune: "🍊 Which nutrient supports the immune system and helps the body stay healthy (e.g. Vitamin C)?",
-    q_nut_bones: "🦷 Which nutrient is needed for strong bones and teeth (e.g. calcium)?",
-    mouth: "Mouth 👄", stomach: "Stomach 🫙", small_intestine: "Small intestine 🌀", large_intestine: "Large intestine 🔵", liver: "Liver 🟤",
-    q_organ_chew: "👄 Where does digestion begin with chewing and saliva?",
-    q_organ_acid: "🫙 Where is food broken down by strong acid?",
-    q_organ_absorb: "🌀 Where are most nutrients absorbed into the bloodstream?",
-    q_organ_bile: "🟤 Which organ produces bile to help digest fats?",
-    mouth_lbl: "Mouth — chewing begins 👄", stomach_lbl: "Stomach — acid breakdown 🫙", sm_int_lbl: "Small intestine — nutrient absorption 🌀", lg_int_lbl: "Large intestine — water absorption 🔵",
-    fiber_rich: "Rich in fiber and vitamins 🌿", high_sugar: "High in sugar and low in nutrients 🍬", high_fat: "High in unhealthy fat and salt 🍟", balanced: "Balanced protein, carbs and fat 🥗",
-    q_health_broc: "🥦 Broccoli is full of vitamins, minerals and fiber. Why is it healthy?",
-    q_health_chips: "🍟 Chips are high in fat and salt, low in vitamins. Why unhealthy?",
-    q_health_candy: "🍬 Candy provides only sugar — no protein, no fiber, no vitamins. Why unhealthy?",
-    q_health_egg: "🥚 An egg has protein, healthy fat, and vitamins. Why healthy?",
+    // Round 1: Nutrient Groups
+    r1_title: "Nutrient Groups",
+    r1_text: "Our body needs different nutrients for energy, growth, and health. Each has a special job!",
+    r1_carbs: "Carbohydrates",
+    r1_carbs_info: "Give you ENERGY 💪",
+    r1_protein: "Proteins",
+    r1_protein_info: "Build and repair muscles 🦵",
+    r1_fats: "Fats",
+    r1_fats_info: "Store energy and warmth 🔥",
+    r1_vitamins: "Vitamins & Minerals",
+    r1_vitamins_info: "Keep you healthy and strong ✨",
+
+    // Round 2: Food Pyramid
+    r2_title: "The Food Pyramid",
+    r2_text: "A healthy diet has the right amounts of each food group. More vegetables and whole grains at the base!",
+    r2_grains: "Grains",
+    r2_vegetables: "Vegetables",
+    r2_fruits: "Fruits",
+    r2_protein_group: "Protein",
+    r2_dairy: "Dairy",
+
+    // Round 3: Digestive Tract
+    r3_title: "The Digestive Journey",
+    r3_text: "Food travels through your body in stages. Each organ does an important job in breaking down and absorbing nutrients.",
+    r3_mouth: "Mouth",
+    r3_mouth_info: "Chewing + saliva",
+    r3_esophagus: "Esophagus",
+    r3_esophagus_info: "Sliding down",
+    r3_stomach: "Stomach",
+    r3_stomach_info: "Acid breaks down food",
+    r3_small_intestine: "Small Intestine",
+    r3_small_intestine_info: "Absorbs nutrients",
+    r3_large_intestine: "Large Intestine",
+    r3_large_intestine_info: "Absorbs water",
+
+    // Round 4: Water & Habits
+    r4_title: "Water & Healthy Habits",
+    r4_text: "Water is essential for digestion, energy, and all body functions. Healthy habits support good nutrition.",
+    r4_water: "Water",
+    r4_water_info: "8 glasses daily = healthy!",
+    r4_slow_eating: "Eat Slowly",
+    r4_slow_eating_info: "Better digestion & feeling full",
+    r4_balance: "Balanced Meals",
+    r4_balance_info: "All food groups included",
+    r4_sleep: "Good Sleep",
+    r4_sleep_info: "Helps metabolism & healing",
+
+    // Round 1: Nutrient Groups — Question
+    r1_q: "Which nutrient gives you ENERGY?",
+    r1_q_a: "Carbohydrates 🍞",
+    r1_q_b: "Proteins 🥩",
+    r1_q_c: "Water 💧",
+    r1_q_d: "Minerals 🧂",
+
+    // Round 2: Food Pyramid — Question
+    r2_q: "Which food group should be at the BASE of the pyramid?",
+    r2_q_a: "Fruits",
+    r2_q_b: "Grains",
+    r2_q_c: "Proteins",
+    r2_q_d: "Dairy",
+
+    // Round 3: Digestive Tract — Question
+    r3_q: "Where does digestion start?",
+    r3_q_a: "Stomach 🤢",
+    r3_q_b: "Mouth 👄",
+    r3_q_c: "Small intestine 🌀",
+    r3_q_d: "Esophagus 🔽",
+
+    // Round 4: Water & Habits — Question
+    r4_q: "How many glasses of water should you drink daily?",
+    r4_q_a: "2-3 glasses 💧",
+    r4_q_b: "5-6 glasses 💧",
+    r4_q_c: "8+ glasses 💧",
+    r4_q_d: "As much as you want",
+
+    // Round 5: Quiz
+    r5_title: "Nutrition Quiz",
+    r5_text: "Test your knowledge about nutrients, digestion, and healthy eating!",
+
+    // Questions
+    q_r5_q1: "Which organ absorbs MOST nutrients?",
+    q_r5_q1_a: "Mouth 👄",
+    q_r5_q1_b: "Stomach 🤢",
+    q_r5_q1_c: "Small intestine 🌀",
+    q_r5_q1_d: "Large intestine 📦",
+
+    q_r5_q2: "Why should you chew slowly?",
+    q_r5_q2_a: "To save time",
+    q_r5_q2_b: "Better digestion & eat less 🍽️",
+    q_r5_q2_c: "It tastes better",
+    q_r5_q2_d: "No real reason",
+
+    q_r5_q3: "What is the most important habit for good nutrition?",
+    q_r5_q3_a: "Eating fast",
+    q_r5_q3_b: "Eating all the same food",
+    q_r5_q3_c: "Eating balanced meals with all food groups",
+    q_r5_q3_d: "Not drinking water",
   },
+
   de: {
-    next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz — versuch es nochmal",
-    r1Title: "Welcher Nährstoff?", r1Hint: "Bestimme, welcher Nährstoff beschrieben wird.",
-    r2Title: "Verdauungsorgane", r2Hint: "Welches Organ übernimmt diese Rolle bei der Verdauung?",
-    r3Title: "Verdauungsreise", r3Hint: "Tippe den Weg der Nahrung durch den Körper, von Anfang bis Ende.",
-    r3InProgress: "Weiter so!", r3Done: "Richtige Reise! ✓",
-    r4Title: "Gesunde Entscheidungen", r4Hint: "Was macht dieses Lebensmittel gesund oder ungesund?",
-    r5Title: "Schnelle Wiederholung", r5Hint: "Gemischte Fragen aus allen Runden.",
-    protein: "Eiweiß 🥩", carbohydrate: "Kohlenhydrate 🍞", fat: "Fett 🧈", vitamin: "Vitamin 🍊", mineral: "Mineral 🦷",
-    q_nut_muscle: "💪 Welcher Nährstoff baut und repariert Muskeln und Gewebe?",
-    q_nut_energy: "⚡ Welcher Nährstoff ist die wichtigste Energiequelle (Zucker, Stärke)?",
-    q_nut_store: "🧈 Welcher Nährstoff speichert Energie und isoliert den Körper?",
-    q_nut_immune: "🍊 Welcher Nährstoff stärkt das Immunsystem (z.B. Vitamin C)?",
-    q_nut_bones: "🦷 Welcher Nährstoff wird für starke Knochen und Zähne benötigt (z.B. Calcium)?",
-    mouth: "Mund 👄", stomach: "Magen 🫙", small_intestine: "Dünndarm 🌀", large_intestine: "Dickdarm 🔵", liver: "Leber 🟤",
-    q_organ_chew: "👄 Wo beginnt die Verdauung mit Kauen und Speichel?",
-    q_organ_acid: "🫙 Wo wird Nahrung durch starke Säure aufgeschlossen?",
-    q_organ_absorb: "🌀 Wo werden die meisten Nährstoffe ins Blut aufgenommen?",
-    q_organ_bile: "🟤 Welches Organ produziert Galle zur Fettverdauung?",
-    mouth_lbl: "Mund — Kauen beginnt 👄", stomach_lbl: "Magen — Säureaufspaltung 🫙", sm_int_lbl: "Dünndarm — Nährstoffaufnahme 🌀", lg_int_lbl: "Dickdarm — Wasserrückresorption 🔵",
-    fiber_rich: "Reich an Ballaststoffen und Vitaminen 🌿", high_sugar: "Viel Zucker, wenig Nährstoffe 🍬", high_fat: "Viel ungesundes Fett und Salz 🍟", balanced: "Ausgeglichenes Protein, Kohlenhydrate und Fett 🥗",
-    q_health_broc: "🥦 Brokkoli enthält viele Vitamine, Mineralien und Ballaststoffe. Warum gesund?",
-    q_health_chips: "🍟 Chips sind fett- und salzreich, vitaminarm. Warum ungesund?",
-    q_health_candy: "🍬 Süßigkeiten liefern nur Zucker — kein Eiweiß, keine Ballaststoffe, keine Vitamine. Warum ungesund?",
-    q_health_egg: "🥚 Ein Ei enthält Eiweiß, gesundes Fett und Vitamine. Warum gesund?",
+    // Round 1: Nutrient Groups
+    r1_title: "Nährstoffgruppen",
+    r1_text: "Dein Körper braucht verschiedene Nährstoffe für Energie, Wachstum und Gesundheit. Jeder hat eine spezielle Aufgabe!",
+    r1_carbs: "Kohlenhydrate",
+    r1_carbs_info: "Geben dir ENERGIE 💪",
+    r1_protein: "Proteine",
+    r1_protein_info: "Bauen Muskeln auf 🦵",
+    r1_fats: "Fette",
+    r1_fats_info: "Speichern Energie und Wärme 🔥",
+    r1_vitamins: "Vitamine & Mineralien",
+    r1_vitamins_info: "Halten dich gesund und stark ✨",
+
+    // Round 2: Food Pyramid
+    r2_title: "Die Lebensmittelpyramide",
+    r2_text: "Eine gesunde Ernährung hat die richtige Menge jeder Lebensmittelgruppe. Mehr Gemüse und Vollkornprodukte an der Basis!",
+    r2_grains: "Getreide",
+    r2_vegetables: "Gemüse",
+    r2_fruits: "Obst",
+    r2_protein_group: "Protein",
+    r2_dairy: "Milchprodukte",
+
+    // Round 3: Digestive Tract
+    r3_title: "Die Verdauungsreise",
+    r3_text: "Essen reist in Etappen durch deinen Körper. Jedes Organ hat eine wichtige Aufgabe beim Abbau und Aufnahme von Nährstoffen.",
+    r3_mouth: "Mund",
+    r3_mouth_info: "Kauen + Speichel",
+    r3_esophagus: "Speiseröhre",
+    r3_esophagus_info: "Rutscht runter",
+    r3_stomach: "Magen",
+    r3_stomach_info: "Säure baut Essen auf",
+    r3_small_intestine: "Dünndarm",
+    r3_small_intestine_info: "Nimmt Nährstoffe auf",
+    r3_large_intestine: "Dickdarm",
+    r3_large_intestine_info: "Nimmt Wasser auf",
+
+    // Round 4: Water & Habits
+    r4_title: "Wasser & gesunde Gewohnheiten",
+    r4_text: "Wasser ist wichtig für Verdauung, Energie und alle Körperfunktionen. Gesunde Gewohnheiten unterstützen gute Ernährung.",
+    r4_water: "Wasser",
+    r4_water_info: "8 Gläser täglich = gesund!",
+    r4_slow_eating: "Langsam essen",
+    r4_slow_eating_info: "Bessere Verdauung & Sättigung",
+    r4_balance: "Ausgewogene Mahlzeiten",
+    r4_balance_info: "Alle Lebensmittelgruppen",
+    r4_sleep: "Guter Schlaf",
+    r4_sleep_info: "Hilft Stoffwechsel & Heilung",
+
+    // Round 1: Nährstoffgruppen — Frage
+    r1_q: "Welcher Nährstoff gibt dir ENERGIE?",
+    r1_q_a: "Kohlenhydrate 🍞",
+    r1_q_b: "Proteine 🥩",
+    r1_q_c: "Wasser 💧",
+    r1_q_d: "Mineralien 🧂",
+
+    // Round 2: Lebensmittelpyramide — Frage
+    r2_q: "Welche Lebensmittelgruppe sollte an der BASIS der Pyramide sein?",
+    r2_q_a: "Obst",
+    r2_q_b: "Getreide",
+    r2_q_c: "Protein",
+    r2_q_d: "Milchprodukte",
+
+    // Round 3: Verdauungstrakt — Frage
+    r3_q: "Wo beginnt die Verdauung?",
+    r3_q_a: "Magen 🤢",
+    r3_q_b: "Mund 👄",
+    r3_q_c: "Dünndarm 🌀",
+    r3_q_d: "Speiseröhre 🔽",
+
+    // Round 4: Wasser & Gewohnheiten — Frage
+    r4_q: "Wie viele Gläser Wasser solltest du täglich trinken?",
+    r4_q_a: "2-3 Gläser 💧",
+    r4_q_b: "5-6 Gläser 💧",
+    r4_q_c: "8+ Gläser 💧",
+    r4_q_d: "So viel wie du willst",
+
+    // Round 5: Quiz
+    r5_title: "Ernährungsquiz",
+    r5_text: "Teste dein Wissen über Nährstoffe, Verdauung und gesundes Essen!",
+
+    // Questions
+    q_r5_q1: "Welches Organ nimmt die MEISTEN Nährstoffe auf?",
+    q_r5_q1_a: "Mund 👄",
+    q_r5_q1_b: "Magen 🤢",
+    q_r5_q1_c: "Dünndarm 🌀",
+    q_r5_q1_d: "Dickdarm 📦",
+
+    q_r5_q2: "Warum solltest du langsam kauen?",
+    q_r5_q2_a: "Um Zeit zu sparen",
+    q_r5_q2_b: "Bessere Verdauung & weniger essen 🍽️",
+    q_r5_q2_c: "Schmeckt besser",
+    q_r5_q2_d: "Kein besonderer Grund",
+
+    q_r5_q3: "Was ist die wichtigste Gewohnheit für gute Ernährung?",
+    q_r5_q3_a: "Schnell essen",
+    q_r5_q3_b: "Immer das gleiche Essen",
+    q_r5_q3_c: "Ausgewogene Mahlzeiten mit allen Lebensmittelgruppen",
+    q_r5_q3_d: "Kein Wasser trinken",
   },
+
   hu: {
-    next: "Tovább", finish: "Befejezés", correct: "Helyes! ✓", wrong: "Nem egészen — próbáld újra",
-    r1Title: "Melyik tápanyag?", r1Hint: "Azonosítsd a leírt tápanyag típusát.",
-    r2Title: "Emésztőszervek", r2Hint: "Melyik szerv játssza ezt a szerepet az emésztésben?",
-    r3Title: "Az emésztés útja", r3Hint: "Koppints az étel útjára a testben, az elejétől a végéig.",
-    r3InProgress: "Csak így tovább!", r3Done: "Helyes út! ✓",
-    r4Title: "Egészséges döntések", r4Hint: "Mi teszi ezt az ételt egészségessé vagy egészségtelenné?",
-    r5Title: "Gyors összefoglalás", r5Hint: "Vegyes kérdések az összes körből.",
-    protein: "Fehérje 🥩", carbohydrate: "Szénhidrát 🍞", fat: "Zsír 🧈", vitamin: "Vitamin 🍊", mineral: "Ásványi anyag 🦷",
-    q_nut_muscle: "💪 Melyik tápanyag építi és javítja az izmokat és szöveteket?",
-    q_nut_energy: "⚡ Melyik tápanyag a test fő gyors energiaforrása (cukor, keményítő)?",
-    q_nut_store: "🧈 Melyik tápanyag tárolja az energiát és szigeteli a testet?",
-    q_nut_immune: "🍊 Melyik tápanyag erősíti az immunrendszert (pl. C-vitamin)?",
-    q_nut_bones: "🦷 Melyik tápanyag kell az erős csontokhoz és fogakhoz (pl. kalcium)?",
-    mouth: "Száj 👄", stomach: "Gyomor 🫙", small_intestine: "Vékonybél 🌀", large_intestine: "Vastagbél 🔵", liver: "Máj 🟤",
-    q_organ_chew: "👄 Hol kezdődik az emésztés rágással és nyállal?",
-    q_organ_acid: "🫙 Hol bontja le erős sav a táplálékot?",
-    q_organ_absorb: "🌀 Hol szívódik fel a legtöbb tápanyag a véráramba?",
-    q_organ_bile: "🟤 Melyik szerv termel epét a zsírok emésztéséhez?",
-    mouth_lbl: "Száj — rágás kezdete 👄", stomach_lbl: "Gyomor — savas lebontás 🫙", sm_int_lbl: "Vékonybél — tápanyagfelszívódás 🌀", lg_int_lbl: "Vastagbél — vízvisszaszívás 🔵",
-    fiber_rich: "Rostban és vitaminban gazdag 🌿", high_sugar: "Sok cukor, kevés tápanyag 🍬", high_fat: "Sok egészségtelen zsír és só 🍟", balanced: "Kiegyensúlyozott fehérje, szénhidrát és zsír 🥗",
-    q_health_broc: "🥦 A brokkoli tele van vitaminokkal, ásványi anyagokkal és rosttal. Miért egészséges?",
-    q_health_chips: "🍟 A chips zsíros és sós, vitaminszegény. Miért egészségtelen?",
-    q_health_candy: "🍬 A cukorka csak cukrot ad — nincs fehérje, rost, vitamin. Miért egészségtelen?",
-    q_health_egg: "🥚 A tojás fehérjét, egészséges zsírt és vitaminokat tartalmaz. Miért egészséges?",
+    // Round 1: Nutrient Groups
+    r1_title: "Tápanyag csoportok",
+    r1_text: "A testednek különböző tápanyagokra van szüksége az energiához, növekedéshez és egészséghez. Mindegyiknek egy speciális feladata van!",
+    r1_carbs: "Szénhidrátok",
+    r1_carbs_info: "Adnak neked ENERGIÁT 💪",
+    r1_protein: "Fehérjék",
+    r1_protein_info: "Felépítik az izomzatot 🦵",
+    r1_fats: "Zsírok",
+    r1_fats_info: "Tárolják az energiát és a meleget 🔥",
+    r1_vitamins: "Vitaminok & Ásványi anyagok",
+    r1_vitamins_info: "Tartanak erősen és egészségesen ✨",
+
+    // Round 2: Food Pyramid
+    r2_title: "Az élelmiszer piramis",
+    r2_text: "Az egészséges táplálkozásnak az egyes élelmiszer-csoportokból megfelelő mennyisége van. Több zöldség és teljes kiőrlésű gabona az alapnál!",
+    r2_grains: "Gabona",
+    r2_vegetables: "Zöldségek",
+    r2_fruits: "Gyümölcsök",
+    r2_protein_group: "Fehérje",
+    r2_dairy: "Tejtermékek",
+
+    // Round 3: Digestive Tract
+    r3_title: "Az emésztési utazás",
+    r3_text: "Az étel szakaszokban halad végig a tested. Minden szerv fontos szerepet játszik a lebontásban és a tápanyagok felszívódásában.",
+    r3_mouth: "Szájüregből",
+    r3_mouth_info: "Rágás + nyál",
+    r3_esophagus: "Nyelőcső",
+    r3_esophagus_info: "Lecsúszik",
+    r3_stomach: "Gyomor",
+    r3_stomach_info: "Sav lebontja az ételt",
+    r3_small_intestine: "Vékonybél",
+    r3_small_intestine_info: "Felszívja a tápanyagokat",
+    r3_large_intestine: "Vastagbél",
+    r3_large_intestine_info: "Felszívja a vizet",
+
+    // Round 4: Water & Habits
+    r4_title: "Víz & egészséges szokások",
+    r4_text: "A víz nélkülözhetetlen az emésztéshez, az energiához és az összes testfunkcióhoz. Az egészséges szokások támogatják a helyes táplálkozást.",
+    r4_water: "Víz",
+    r4_water_info: "Naponta 8 pohár = egészséges!",
+    r4_slow_eating: "Lassú étkezés",
+    r4_slow_eating_info: "Jobb emésztés & jóllakottság",
+    r4_balance: "Kiegyensúlyozott étkezés",
+    r4_balance_info: "Minden élelmiszer-csoport",
+    r4_sleep: "Jó alvás",
+    r4_sleep_info: "Segíti az anyagcserét & gyógyulást",
+
+    // Round 1: Tápanyag csoportok — Kérdés
+    r1_q: "Melyik tápanyag ad neked ENERGIÁT?",
+    r1_q_a: "Szénhidrátok 🍞",
+    r1_q_b: "Fehérjék 🥩",
+    r1_q_c: "Víz 💧",
+    r1_q_d: "Ásványi anyagok 🧂",
+
+    // Round 2: Élelmiszer piramis — Kérdés
+    r2_q: "Melyik élelmiszer-csoport kellene az ALP az piramis?",
+    r2_q_a: "Gyümölcsök",
+    r2_q_b: "Gabona",
+    r2_q_c: "Fehérje",
+    r2_q_d: "Tejtermékek",
+
+    // Round 3: Emésztési nyomvonal — Kérdés
+    r3_q: "Hol kezdődik az emésztés?",
+    r3_q_a: "Gyomor 🤢",
+    r3_q_b: "Szájüregből 👄",
+    r3_q_c: "Vékonybél 🌀",
+    r3_q_d: "Nyelőcső 🔽",
+
+    // Round 4: Víz & szokások — Kérdés
+    r4_q: "Hány pohár vizet kellene naponta inni?",
+    r4_q_a: "2-3 pohár 💧",
+    r4_q_b: "5-6 pohár 💧",
+    r4_q_c: "8+ pohár 💧",
+    r4_q_d: "Mennyit csak akarsz",
+
+    // Round 5: Quiz
+    r5_title: "Táplálkozási kvíz",
+    r5_text: "Teszteld tudásodat a tápanyagokról, az emésztésről és az egészséges étkezésről!",
+
+    // Questions
+    q_r5_q1: "Melyik szerv szívja fel a LEGTÖBB tápanyagot?",
+    q_r5_q1_a: "Szájüregből 👄",
+    q_r5_q1_b: "Gyomor 🤢",
+    q_r5_q1_c: "Vékonybél 🌀",
+    q_r5_q1_d: "Vastagbél 📦",
+
+    q_r5_q2: "Miért kellene lassan rágni?",
+    q_r5_q2_a: "Hogy időt takarítsd meg",
+    q_r5_q2_b: "Jobb emésztés & kevesebbet ess 🍽️",
+    q_r5_q2_c: "Jobban ízlik",
+    q_r5_q2_d: "Nincs különös ok",
+
+    q_r5_q3: "Mi a legfontosabb szokás a jó táplálkozáshoz?",
+    q_r5_q3_a: "Gyorsan enni",
+    q_r5_q3_b: "Mindig ugyanazt az ételt enni",
+    q_r5_q3_c: "Kiegyensúlyozott ételek az összes élelmiszer-csoporttal",
+    q_r5_q3_d: "Nem inni vizet",
   },
+
   ro: {
-    next: "Înainte", finish: "Gata", correct: "Corect! ✓", wrong: "Nu chiar — mai încearcă",
-    r1Title: "Ce nutrient?", r1Hint: "Identifică tipul de nutrient descris.",
-    r2Title: "Organe digestive", r2Hint: "Ce organ joacă acest rol în digestie?",
-    r3Title: "Drumul digestiei", r3Hint: "Atinge drumul alimentelor prin corp, de la început până la sfârșit.",
-    r3InProgress: "Continuă!", r3Done: "Drum corect! ✓",
-    r4Title: "Alegeri sănătoase", r4Hint: "Ce face ca acest aliment să fie sănătos sau nesănătos?",
-    r5Title: "Recapitulare rapidă", r5Hint: "Întrebări mixte din toate rundele.",
-    protein: "Proteine 🥩", carbohydrate: "Carbohidrați 🍞", fat: "Grăsimi 🧈", vitamin: "Vitamina 🍊", mineral: "Mineral 🦷",
-    q_nut_muscle: "💪 Ce nutrient construiește și repară mușchii și țesuturile?",
-    q_nut_energy: "⚡ Ce nutrient este principala sursă de energie rapidă (zahăr, amidon)?",
-    q_nut_store: "🧈 Ce nutrient stochează energie și izolează corpul?",
-    q_nut_immune: "🍊 Ce nutrient susține sistemul imunitar (ex. Vitamina C)?",
-    q_nut_bones: "🦷 Ce nutrient este necesar pentru oase și dinți puternici (ex. calciu)?",
-    mouth: "Gură 👄", stomach: "Stomac 🫙", small_intestine: "Intestin subțire 🌀", large_intestine: "Intestin gros 🔵", liver: "Ficat 🟤",
-    q_organ_chew: "👄 Unde începe digestia prin mestecat și salivă?",
-    q_organ_acid: "🫙 Unde este descompusă hrana de acid puternic?",
-    q_organ_absorb: "🌀 Unde sunt absorbiți cei mai mulți nutrienți în sânge?",
-    q_organ_bile: "🟤 Ce organ produce bilă pentru a ajuta la digestia grăsimilor?",
-    mouth_lbl: "Gura — mestecatul începe 👄", stomach_lbl: "Stomacul — descompunere acidă 🫙", sm_int_lbl: "Intestin subțire — absorbție nutrienți 🌀", lg_int_lbl: "Intestin gros — absorbție apă 🔵",
-    fiber_rich: "Bogat în fibre și vitamine 🌿", high_sugar: "Mult zahăr, puțini nutrienți 🍬", high_fat: "Multă grăsime nesănătoasă și sare 🍟", balanced: "Proteine, carbohidrați și grăsimi echilibrate 🥗",
-    q_health_broc: "🥦 Broccoli este plin de vitamine, minerale și fibre. De ce e sănătos?",
-    q_health_chips: "🍟 Chipsurile sunt bogate în grăsimi și sare, sărace în vitamine. De ce nesănătos?",
-    q_health_candy: "🍬 Bomboanele dau doar zahăr — fără proteine, fibre, vitamine. De ce nesănătos?",
-    q_health_egg: "🥚 Un ou conține proteine, grăsimi sănătoase și vitamine. De ce sănătos?",
+    // Round 1: Nutrient Groups
+    r1_title: "Grupuri de nutrienți",
+    r1_text: "Corpul tău are nevoie de diferiți nutrienți pentru energie, creștere și sănătate. Fiecare are o sarcină specială!",
+    r1_carbs: "Carbohidrați",
+    r1_carbs_info: "Îți dau ENERGIE 💪",
+    r1_protein: "Proteine",
+    r1_protein_info: "Construiesc mușchii 🦵",
+    r1_fats: "Grăsimi",
+    r1_fats_info: "Stochează energie și căldură 🔥",
+    r1_vitamins: "Vitamine & Minerale",
+    r1_vitamins_info: "Te ține sănătos și puternic ✨",
+
+    // Round 2: Food Pyramid
+    r2_title: "Piramida alimentară",
+    r2_text: "O dietă sănătoasă are cantitatea potrivită din fiecare grup alimentar. Mai mult legume și cereale integrale la bază!",
+    r2_grains: "Cereale",
+    r2_vegetables: "Legume",
+    r2_fruits: "Fructe",
+    r2_protein_group: "Proteină",
+    r2_dairy: "Produse lactate",
+
+    // Round 3: Digestive Tract
+    r3_title: "Călătoria digestivă",
+    r3_text: "Mâncarea parcurge corpul tău în etape. Fiecare organ joacă un rol important în descompunerea și absorbția nutrienților.",
+    r3_mouth: "Gură",
+    r3_mouth_info: "Mestecarea + salivă",
+    r3_esophagus: "Esofag",
+    r3_esophagus_info: "Se coboară",
+    r3_stomach: "Stomac",
+    r3_stomach_info: "Acidul descompune mâncarea",
+    r3_small_intestine: "Intestin subțire",
+    r3_small_intestine_info: "Absoarbe nutrienții",
+    r3_large_intestine: "Intestin gros",
+    r3_large_intestine_info: "Absoarbe apa",
+
+    // Round 4: Water & Habits
+    r4_title: "Apă & obiceiuri sănătoase",
+    r4_text: "Apa este esențială pentru digestie, energie și toate funcțiile corpului. Obiceiurile sănătoase susțin nutriția bună.",
+    r4_water: "Apă",
+    r4_water_info: "8 pahare zilnic = sănătos!",
+    r4_slow_eating: "Mâncare lentă",
+    r4_slow_eating_info: "Digestie mai bună & sățietate",
+    r4_balance: "Mese echilibrate",
+    r4_balance_info: "Toate grupurile alimentare",
+    r4_sleep: "Somn bun",
+    r4_sleep_info: "Ajută metabolismul & vindecare",
+
+    // Round 1: Grupuri de nutrienți — Întrebare
+    r1_q: "Care nutrient îți dă ENERGIE?",
+    r1_q_a: "Carbohidrați 🍞",
+    r1_q_b: "Proteine 🥩",
+    r1_q_c: "Apă 💧",
+    r1_q_d: "Minerale 🧂",
+
+    // Round 2: Piramida alimentară — Întrebare
+    r2_q: "Care grup alimentar ar trebui să fie la BAZĂ piramidei?",
+    r2_q_a: "Fructe",
+    r2_q_b: "Cereale",
+    r2_q_c: "Proteină",
+    r2_q_d: "Produse lactate",
+
+    // Round 3: Tract digestiv — Întrebare
+    r3_q: "Unde începe digestia?",
+    r3_q_a: "Stomac 🤢",
+    r3_q_b: "Gură 👄",
+    r3_q_c: "Intestin subțire 🌀",
+    r3_q_d: "Esofag 🔽",
+
+    // Round 4: Apă & obiceiuri — Întrebare
+    r4_q: "Câte pahare de apă ar trebui să bei zilnic?",
+    r4_q_a: "2-3 pahare 💧",
+    r4_q_b: "5-6 pahare 💧",
+    r4_q_c: "8+ pahare 💧",
+    r4_q_d: "Cât vrei tu",
+
+    // Round 5: Quiz
+    r5_title: "Chestionar nutriție",
+    r5_text: "Testează-ți cunoștințele despre nutrienți, digestie și mâncare sănătoasă!",
+
+    // Questions
+    q_r5_q1: "Care organ absoarbe CEI MAI MULȚI nutrienți?",
+    q_r5_q1_a: "Gură 👄",
+    q_r5_q1_b: "Stomac 🤢",
+    q_r5_q1_c: "Intestin subțire 🌀",
+    q_r5_q1_d: "Intestin gros 📦",
+
+    q_r5_q2: "De ce ar trebui să mesteci lent?",
+    q_r5_q2_a: "Pentru a economisi timp",
+    q_r5_q2_b: "Digestie mai bună & mâncă mai puțin 🍽️",
+    q_r5_q2_c: "Gustă mai bine",
+    q_r5_q2_d: "Fără motiv special",
+
+    q_r5_q3: "Care este cel mai important obicei pentru nutriția bună?",
+    q_r5_q3_a: "Mâncare rapidă",
+    q_r5_q3_b: "Mereu mâncare la fel",
+    q_r5_q3_c: "Mese echilibrate cu toate grupurile alimentare",
+    q_r5_q3_d: "Nu bea apă",
   },
 };
 
-function shuffle<T>(arr: T[]): T[] { const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a; }
+// ─────────────────────────────────────────────────────────────────────────────
+// SVG ILLUSTRATIONS
+// ─────────────────────────────────────────────────────────────────────────────
 
-const NUT_POOL: MCQQuestion[] = [
-  { emoji: "💪", question: "q_nut_muscle", choices: shuffle(["protein","carbohydrate","fat","vitamin"]), answer: "protein" },
-  { emoji: "⚡", question: "q_nut_energy", choices: shuffle(["carbohydrate","protein","fat","mineral"]), answer: "carbohydrate" },
-  { emoji: "🧈", question: "q_nut_store", choices: shuffle(["fat","protein","carbohydrate","vitamin"]), answer: "fat" },
-  { emoji: "🍊", question: "q_nut_immune", choices: shuffle(["vitamin","mineral","protein","fat"]), answer: "vitamin" },
-  { emoji: "🦷", question: "q_nut_bones", choices: shuffle(["mineral","vitamin","protein","fat"]), answer: "mineral" },
-];
-const ORGAN_POOL: MCQQuestion[] = [
-  { emoji: "👄", question: "q_organ_chew", choices: shuffle(["mouth","stomach","small_intestine","large_intestine"]), answer: "mouth" },
-  { emoji: "🫙", question: "q_organ_acid", choices: shuffle(["stomach","mouth","small_intestine","liver"]), answer: "stomach" },
-  { emoji: "🌀", question: "q_organ_absorb", choices: shuffle(["small_intestine","mouth","stomach","large_intestine"]), answer: "small_intestine" },
-  { emoji: "🟤", question: "q_organ_bile", choices: shuffle(["liver","stomach","small_intestine","large_intestine"]), answer: "liver" },
-];
-const HEALTH_POOL: MCQQuestion[] = [
-  { emoji: "🥦", question: "q_health_broc", choices: shuffle(["fiber_rich","high_sugar","high_fat","balanced"]), answer: "fiber_rich" },
-  { emoji: "🍟", question: "q_health_chips", choices: shuffle(["high_fat","fiber_rich","balanced","high_sugar"]), answer: "high_fat" },
-  { emoji: "🍬", question: "q_health_candy", choices: shuffle(["high_sugar","fiber_rich","balanced","high_fat"]), answer: "high_sugar" },
-  { emoji: "🥚", question: "q_health_egg", choices: shuffle(["balanced","fiber_rich","high_fat","high_sugar"]), answer: "balanced" },
-];
-const DIGEST_ORDER = ["mouth_lbl","stomach_lbl","sm_int_lbl","lg_int_lbl"] as const;
-const TOTAL_ROUNDS = 5;
-
-function NutritionExplorer({ color, lang = "de", onDone }: Props) {
-  const t = LABELS[lang] ?? LABELS.de;
-  const r1Qs = useMemo(() => shuffle(NUT_POOL), []);
-  const r2Qs = useMemo(() => shuffle(ORGAN_POOL), []);
-  const r4Qs = useMemo(() => shuffle(HEALTH_POOL), []);
-  const r5Qs = useMemo(() => shuffle([...NUT_POOL,...ORGAN_POOL,...HEALTH_POOL]).slice(0,3), []);
-  const [scrambled] = useState(() => shuffle([...DIGEST_ORDER]));
-  const [round, setRound] = useState(0); const [subIdx, setSubIdx] = useState(0);
-  const [selected, setSelected] = useState<string|null>(null); const [locked, setLocked] = useState(false);
-  const [tapped, setTapped] = useState<string[]>([]); const [orderWrong, setOrderWrong] = useState<string|null>(null);
-  const scoreRef = useRef(0); const totalRef = useRef(0);
-  const resetSub = useCallback(() => { setSelected(null); setLocked(false); }, []);
-  const advanceRound = useCallback(() => { if(round>=TOTAL_ROUNDS-1) onDone(scoreRef.current,totalRef.current); else { setRound(r=>r+1); setSubIdx(0); resetSub(); setTapped([]); setOrderWrong(null); } }, [round,onDone,resetSub]);
-  const advanceSub = useCallback((qs: MCQQuestion[], isLast=false) => { if(subIdx<qs.length-1) { setSubIdx(i=>i+1); resetSub(); } else { if(isLast) onDone(scoreRef.current,totalRef.current); else advanceRound(); } }, [subIdx,advanceRound,onDone,resetSub]);
-  const handleSelect = useCallback((key: string, correct: string) => { if(locked) return; setSelected(key); setLocked(true); totalRef.current+=1; if(key===correct) scoreRef.current+=1; }, [locked]);
-  const handleOrderTap = useCallback((key: string) => { if(tapped.includes(key)) return; const expected=DIGEST_ORDER[tapped.length]; if(key===expected) { const next=[...tapped,key]; setTapped(next); setOrderWrong(null); if(next.length===DIGEST_ORDER.length) { totalRef.current+=1; scoreRef.current+=1; setTimeout(()=>advanceRound(),700); } } else { setOrderWrong(key); totalRef.current+=1; setTimeout(()=>setOrderWrong(null),600); } }, [tapped,advanceRound]);
-  const renderNext = (onNext: ()=>void, isFinish=false) => <motion.button onClick={onNext} className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2" style={{background:`linear-gradient(135deg,${color}55,${color}99)`,border:`2px solid ${color}`}} whileTap={{scale:0.97}} initial={{opacity:0,y:6}} animate={{opacity:1,y:0}}>{isFinish?t.finish:t.next} <ChevronRight size={16}/></motion.button>;
-  const renderMCQ = (qs: MCQQuestion[], title: string, hint: string, isLast=false) => { const q=qs[subIdx]; const isCorrect=locked&&selected===q.answer; return (<>
-    {qs.length>1&&<div className="flex gap-1 justify-center mb-1">{qs.map((_,i)=><div key={i} className="w-2 h-2 rounded-full" style={{background:i<subIdx?"#00FF88":i===subIdx?color:"rgba(255,255,255,0.15)"}}/>)}</div>}
-    <p className="text-xl font-black text-white text-center">{title}</p>
-    <p className="text-white/60 text-xs font-bold text-center px-4">{hint}</p>
-    <div className="w-full max-w-xs rounded-2xl px-4 py-4 text-center" style={{background:"rgba(255,255,255,0.06)",border:`1.5px solid ${color}33`}}><p className="text-base font-semibold text-white/90 leading-snug">{t[q.question]}</p></div>
-    <div className="flex flex-col gap-2 w-full max-w-xs">{q.choices.map(k=>{const isThis=selected===k,isRight=k===q.answer; let bg="rgba(255,255,255,0.06)",border="rgba(255,255,255,0.1)",tc="text-white"; if(locked){if(isRight){bg=`${color}33`;border=color;}else if(isThis){bg="#FF2D7833";border="#FF2D78";tc="text-white/70";}}else if(isThis){bg=`${color}22`;border=color;} return <motion.button key={k} onClick={()=>handleSelect(k,q.answer)} disabled={locked} className={`w-full py-3 px-4 rounded-xl font-bold text-sm transition-all ${tc}`} style={{background:bg,border:`2px solid ${border}`}} whileTap={locked?{}:{scale:0.97}}>{t[k]}</motion.button>;})}</div>
-    {locked&&<motion.p initial={{opacity:0,y:4}} animate={{opacity:1,y:0}} className="text-sm font-bold text-center" style={{color:isCorrect?"#00FF88":"#FF2D78"}}>{isCorrect?t.correct:t.wrong}</motion.p>}
-    {locked&&renderNext(()=>advanceSub(qs,isLast),isLast&&subIdx===qs.length-1)}
-  </>); };
-  const renderOrder = () => { const allDone=tapped.length===DIGEST_ORDER.length; return (<>
-    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
-    <p className="text-white/60 text-xs font-bold text-center px-4">{t.r3Hint}</p>
-    <div className="flex gap-2 flex-wrap justify-center min-h-[2rem]">{tapped.map((k,i)=><motion.span key={k} initial={{scale:0.7,opacity:0}} animate={{scale:1,opacity:1}} className="px-3 py-1 rounded-full text-xs font-black text-white" style={{background:`${color}55`,border:`1.5px solid ${color}`}}>{i+1}. {t[k]}</motion.span>)}</div>
-    <p className="text-xs font-bold text-center" style={{color:allDone?"#00FF88":"rgba(255,255,255,0.4)"}}>{allDone?t.r3Done:t.r3InProgress}</p>
-    <div className="flex flex-col gap-2 w-full max-w-xs">{scrambled.map(key=>{const done=tapped.includes(key),isWrong=orderWrong===key; return <motion.button key={key} onClick={()=>handleOrderTap(key)} disabled={done} className="w-full py-3 px-4 rounded-xl font-bold text-sm text-white" style={{background:done?`${color}22`:"rgba(255,255,255,0.06)",border:`2px solid ${done?color:isWrong?"#FF2D78":"rgba(255,255,255,0.1)"}`,opacity:done?0.45:1}} animate={isWrong?{x:[-6,6,-4,4,0]}:{}} transition={{duration:0.35}} whileTap={done?{}:{scale:0.97}}>{t[key]}</motion.button>;})}</div>
-  </>); };
+function SVG_R1(lang: string): React.ReactNode {
+  const l = LABELS[lang] || LABELS.en;
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      <div className="flex justify-center gap-1.5 pt-4 pb-2">{Array.from({length:TOTAL_ROUNDS},(_,i)=><div key={i} className="w-2.5 h-2.5 rounded-full" style={{background:i<round?"#00FF88":i===round?color:"rgba(255,255,255,0.15)"}}/>)}</div>
-      <AnimatePresence mode="wait">
-        <motion.div key={`${round}-${subIdx}`} initial={{opacity:0,x:30}} animate={{opacity:1,x:0}} exit={{opacity:0,x:-30}} className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
-          {round===0&&renderMCQ(r1Qs,t.r1Title,t.r1Hint)}
-          {round===1&&renderMCQ(r2Qs,t.r2Title,t.r2Hint)}
-          {round===2&&renderOrder()}
-          {round===3&&renderMCQ(r4Qs,t.r4Title,t.r4Hint)}
-          {round===4&&renderMCQ(r5Qs,t.r5Title,t.r5Hint,true)}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r1_carbs" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FBBF24" />
+          <stop offset="100%" stopColor="#D97706" />
+        </linearGradient>
+        <linearGradient id="r1_protein" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#EF4444" />
+          <stop offset="100%" stopColor="#B91C1C" />
+        </linearGradient>
+        <linearGradient id="r1_fats" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FCD34D" />
+          <stop offset="100%" stopColor="#FBBF24" />
+        </linearGradient>
+        <linearGradient id="r1_vitamins" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" />
+          <stop offset="100%" stopColor="#059669" />
+        </linearGradient>
+      </defs>
+
+      {/* Carbohydrates (bread) */}
+      <g>
+        <rect x="10" y="20" width="45" height="50" rx="8" fill="url(#r1_carbs)" />
+        <path d="M 20 30 Q 25 25 30 30 Q 35 25 40 30 Q 45 25 50 30" stroke="rgba(0,0,0,0.2)" strokeWidth="1" fill="none" />
+        <text x="32.5" y="75" fontSize="12" fontWeight="bold" textAnchor="middle" fill="#111">🍞</text>
+      </g>
+
+      {/* Proteins (meat) */}
+      <g>
+        <rect x="65" y="20" width="45" height="50" rx="8" fill="url(#r1_protein)" />
+        <circle cx="77" cy="40" r="8" fill="rgba(0,0,0,0.15)" />
+        <circle cx="92" cy="50" r="6" fill="rgba(0,0,0,0.15)" />
+        <text x="87.5" y="75" fontSize="12" fontWeight="bold" textAnchor="middle" fill="#fff">🥩</text>
+      </g>
+
+      {/* Fats (butter) */}
+      <g>
+        <rect x="120" y="20" width="45" height="50" rx="8" fill="url(#r1_fats)" />
+        <ellipse cx="142.5" cy="45" rx="18" ry="12" fill="rgba(255,255,255,0.3)" />
+        <text x="142.5" y="75" fontSize="12" fontWeight="bold" textAnchor="middle" fill="#111">🧈</text>
+      </g>
+
+      {/* Vitamins (fruit) */}
+      <g>
+        <rect x="175" y="20" width="45" height="50" rx="8" fill="url(#r1_vitamins)" />
+        <circle cx="188" cy="42" r="6" fill="rgba(0,0,0,0.15)" />
+        <circle cx="200" cy="40" r="7" fill="rgba(0,0,0,0.15)" />
+        <text x="197.5" y="75" fontSize="12" fontWeight="bold" textAnchor="middle" fill="#fff">🍊</text>
+      </g>
+
+      {/* Labels */}
+      <text x="32.5" y="105" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#fff">{l.r1_carbs}</text>
+      <text x="87.5" y="105" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#fff">{l.r1_protein}</text>
+      <text x="142.5" y="105" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#fff">{l.r1_fats}</text>
+      <text x="197.5" y="105" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#fff">{l.r1_vitamins}</text>
+
+      {/* Info lines */}
+      <text x="32.5" y="122" fontSize="8" textAnchor="middle" fill="#10B981">{l.r1_carbs_info}</text>
+      <text x="87.5" y="122" fontSize="8" textAnchor="middle" fill="#F87171">{l.r1_protein_info}</text>
+      <text x="142.5" y="122" fontSize="8" textAnchor="middle" fill="#FBBF24">{l.r1_fats_info}</text>
+      <text x="197.5" y="122" fontSize="8" textAnchor="middle" fill="#86EFAC">{l.r1_vitamins_info}</text>
+    </svg>
   );
 }
-export default memo(NutritionExplorer);
+
+function SVG_R2(lang: string): React.ReactNode {
+  const l = LABELS[lang] || LABELS.en;
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r2_pyramid" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="rgba(59,130,246,0.8)" />
+          <stop offset="100%" stopColor="rgba(37,99,235,0.8)" />
+        </linearGradient>
+      </defs>
+
+      {/* Pyramid base (grains - bottom) */}
+      <polygon points="60,120 180,120 170,95 70,95" fill="url(#r2_pyramid)" stroke="#FCD34D" strokeWidth="2" />
+      <text x="120" y="110" fontSize="11" fontWeight="bold" textAnchor="middle" fill="#FCD34D">🌾 {l.r2_grains}</text>
+
+      {/* Second level - vegetables & fruits */}
+      <polygon points="75,95 165,95 150,65 90,65" fill="#10B981" stroke="#FBBF24" strokeWidth="2" opacity="0.8" />
+      <text x="120" y="85" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#fff">🥦 {l.r2_vegetables} 🍎 {l.r2_fruits}</text>
+
+      {/* Third level - protein & dairy */}
+      <polygon points="95,65 145,65 135,40 105,40" fill="#EF4444" stroke="#FBBF24" strokeWidth="2" opacity="0.8" />
+      <text x="120" y="56" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#fff">🥩 {l.r2_protein_group}  🥛 {l.r2_dairy}</text>
+
+      {/* Top - water */}
+      <circle cx="120" cy="25" r="12" fill="#00D4FF" stroke="#FBBF24" strokeWidth="2" />
+      <text x="120" y="28" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#000">💧</text>
+    </svg>
+  );
+}
+
+function SVG_R3(lang: string): React.ReactNode {
+  const l = LABELS[lang] || LABELS.en;
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r3_organ" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#A78BFA" />
+          <stop offset="100%" stopColor="#7C3AED" />
+        </linearGradient>
+      </defs>
+
+      {/* Mouth */}
+      <circle cx="40" cy="30" r="15" fill="url(#r3_organ)" stroke="#FBBF24" strokeWidth="2" />
+      <text x="40" y="35" fontSize="16" textAnchor="middle">👄</text>
+
+      {/* Arrow down */}
+      <path d="M 40 50 L 40 70" stroke="#FBBF24" strokeWidth="2" />
+      <polygon points="40,70 35,60 45,60" fill="#FBBF24" />
+
+      {/* Esophagus - narrow tube */}
+      <rect x="35" y="75" width="10" height="15" rx="5" fill="url(#r3_organ)" stroke="#FBBF24" strokeWidth="1.5" />
+
+      {/* Arrow down */}
+      <path d="M 40 95 L 40 105" stroke="#FBBF24" strokeWidth="2" />
+      <polygon points="40,105 35,95 45,95" fill="#FBBF24" />
+
+      {/* Stomach - large pouch */}
+      <ellipse cx="50" cy="125" rx="20" ry="18" fill="url(#r3_organ)" stroke="#FBBF24" strokeWidth="2" />
+      <text x="50" y="128" fontSize="12" textAnchor="middle" fill="#fff">🤢</text>
+
+      {/* Arrow right */}
+      <path d="M 75 125 L 95 125" stroke="#FBBF24" strokeWidth="2" />
+      <polygon points="95,125 85,120 85,130" fill="#FBBF24" />
+
+      {/* Small intestine - coiled */}
+      <circle cx="125" cy="115" r="18" fill="url(#r3_organ)" stroke="#FBBF24" strokeWidth="2" opacity="0.8" />
+      <text x="125" y="120" fontSize="12" textAnchor="middle" fill="#fff">🌀</text>
+
+      {/* Arrow down-right */}
+      <path d="M 140 130 L 160 145" stroke="#FBBF24" strokeWidth="2" />
+      <polygon points="160,145 150,140 155,150" fill="#FBBF24" />
+
+      {/* Large intestine - wider rectangle */}
+      <rect x="155" y="140" width="35" height="12" rx="6" fill="url(#r3_organ)" stroke="#FBBF24" strokeWidth="2" opacity="0.8" />
+      <text x="172" y="149" fontSize="11" textAnchor="middle" fill="#fff">📦</text>
+
+      {/* Labels below */}
+      <text x="40" y="155" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_mouth}</text>
+      <text x="85" y="145" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_esophagus}</text>
+      <text x="125" y="155" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_small_intestine}</text>
+      <text x="180" y="158" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_large_intestine}</text>
+    </svg>
+  );
+}
+
+function SVG_R4(lang: string): React.ReactNode {
+  const l = LABELS[lang] || LABELS.en;
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r4_water_gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#00D4FF" />
+          <stop offset="100%" stopColor="#0096C7" />
+        </linearGradient>
+      </defs>
+
+      {/* Water Glass */}
+      <g>
+        <path d="M 30 35 L 35 80 Q 35 95 42 95 L 55 95 Q 62 95 62 80 L 67 35 Z" fill="none" stroke="#00D4FF" strokeWidth="2" />
+        <path d="M 32 55 Q 32 70 42 75 Q 52 70 52 55" fill="url(#r4_water_gradient)" opacity="0.7" />
+        <text x="48.5" y="70" fontSize="14" textAnchor="middle">💧</text>
+      </g>
+
+      {/* Healthy Plate - divided circle */}
+      <g>
+        <circle cx="120" cy="60" r="35" fill="none" stroke="#10B981" strokeWidth="2" />
+        {/* Vegetables section */}
+        <path d="M 120 25 A 35 35 0 0 0 155 60 L 120 60 Z" fill="#10B981" opacity="0.6" />
+        <text x="145" y="35" fontSize="11" fontWeight="bold" fill="#fff">🥦</text>
+        {/* Fruits section */}
+        <path d="M 155 60 A 35 35 0 0 0 120 95 L 120 60 Z" fill="#F87171" opacity="0.6" />
+        <text x="135" y="85" fontSize="11" fontWeight="bold" fill="#fff">🍎</text>
+        {/* Grains section */}
+        <path d="M 120 95 A 35 35 0 0 0 85 60 L 120 60 Z" fill="#FBBF24" opacity="0.6" />
+        <text x="90" y="85" fontSize="11" fontWeight="bold" fill="#111">🌾</text>
+        {/* Protein section */}
+        <path d="M 85 60 A 35 35 0 0 0 120 25 L 120 60 Z" fill="#EF4444" opacity="0.6" />
+        <text x="100" y="35" fontSize="11" fontWeight="bold" fill="#fff">🥩</text>
+        {/* Center - dairy circle */}
+        <circle cx="120" cy="60" r="10" fill="#87CEEB" opacity="0.8" />
+        <text x="120" y="65" fontSize="12" textAnchor="middle">🥛</text>
+      </g>
+
+      {/* Habit badges - bottom */}
+      <g>
+        <rect x="10" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        <text x="35" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💤 {l.r4_sleep}</text>
+      </g>
+
+      <g>
+        <rect x="65" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        <text x="90" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">🍽️ {l.r4_slow_eating}</text>
+      </g>
+
+      <g>
+        <rect x="120" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        <text x="145" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">⚖️ {l.r4_balance}</text>
+      </g>
+
+      <g>
+        <rect x="175" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        <text x="200" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💪 {l.r4_water}</text>
+      </g>
+    </svg>
+  );
+}
+
+function SVG_R5(lang: string): React.ReactNode {
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="rgba(147, 51, 234, 0.2)" />
+          <stop offset="100%" stopColor="rgba(59, 130, 246, 0.2)" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="url(#r5_bg)" rx="8" />
+
+      {/* Nutrient icons arranged in circle */}
+      <text x="40" y="50" fontSize="28" textAnchor="middle">🍞</text>
+      <text x="200" y="50" fontSize="28" textAnchor="middle">🥩</text>
+      <text x="120" y="35" fontSize="28" textAnchor="middle">🧈</text>
+      <text x="30" y="120" fontSize="28" textAnchor="middle">🥗</text>
+      <text x="210" y="120" fontSize="28" textAnchor="middle">💧</text>
+
+      {/* Central brain/quiz */}
+      <circle cx="120" cy="85" r="25" fill="#9333EA" opacity="0.4" stroke="#B44DFF" strokeWidth="2" />
+      <text x="120" y="92" fontSize="18" textAnchor="middle">❓</text>
+    </svg>
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// EXPLORER DEFINITION
+// ─────────────────────────────────────────────────────────────────────────────
+
+// R1-R4 Question Pools
+const R1_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r1_q",
+    choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"],
+    answer: "r1_q_a",
+  },
+];
+
+const R2_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r2_q",
+    choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"],
+    answer: "r2_q_b",
+  },
+];
+
+const R3_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r3_q",
+    choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"],
+    answer: "r3_q_b",
+  },
+];
+
+const R4_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r4_q",
+    choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"],
+    answer: "r4_q_c",
+  },
+];
+
+// R5 Review Questions (3 total)
+const R5_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "q_r5_q1",
+    choices: ["q_r5_q1_a", "q_r5_q1_b", "q_r5_q1_c", "q_r5_q1_d"],
+    answer: "q_r5_q1_c",
+  },
+  {
+    question: "q_r5_q2",
+    choices: ["q_r5_q2_a", "q_r5_q2_b", "q_r5_q2_c", "q_r5_q2_d"],
+    answer: "q_r5_q2_b",
+  },
+  {
+    question: "q_r5_q3",
+    choices: ["q_r5_q3_a", "q_r5_q3_b", "q_r5_q3_c", "q_r5_q3_d"],
+    answer: "q_r5_q3_c",
+  },
+];
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    {
+      type: "mcq",
+      infoTitle: "r1_title",
+      infoText: "r1_text",
+      svg: SVG_R1,
+      bulletKeys: ["r1_carbs_info", "r1_protein_info", "r1_fats_info", "r1_vitamins_info"],
+      questions: R1_QUESTIONS,
+    },
+    {
+      type: "mcq",
+      infoTitle: "r2_title",
+      infoText: "r2_text",
+      svg: SVG_R2,
+      bulletKeys: ["r2_grains", "r2_vegetables", "r2_fruits", "r2_protein_group", "r2_dairy"],
+      questions: R2_QUESTIONS,
+    },
+    {
+      type: "mcq",
+      infoTitle: "r3_title",
+      infoText: "r3_text",
+      svg: SVG_R3,
+      bulletKeys: ["r3_mouth_info", "r3_esophagus_info", "r3_stomach_info", "r3_small_intestine_info", "r3_large_intestine_info"],
+      questions: R3_QUESTIONS,
+    },
+    {
+      type: "mcq",
+      infoTitle: "r4_title",
+      infoText: "r4_text",
+      svg: SVG_R4,
+      bulletKeys: ["r4_water_info", "r4_slow_eating_info", "r4_balance_info", "r4_sleep_info"],
+      questions: R4_QUESTIONS,
+    },
+    {
+      type: "mcq",
+      infoTitle: "r5_title",
+      infoText: "r5_text",
+      svg: SVG_R5,
+      questions: R5_QUESTIONS,
+    },
+  ],
+};
+
+// ─────────────────────────────────────────────────────────────────────────────
+// COMPONENT
+// ─────────────────────────────────────────────────────────────────────────────
+
+interface Props {
+  color?: string;
+  lang?: string;
+  onDone?: (score: number, total: number) => void;
+}
+
+export default function NutritionExplorer({ color = "#10B981", lang = "en", onDone }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
+}
