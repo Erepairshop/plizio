@@ -141,8 +141,8 @@ export const O8_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "grand-final-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m2", category: "build",     gameType: "black-hole",    icon: "🕳️", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "sentence-builder",   icon: "📝", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
     svgX: 190, svgY: -90,
   },

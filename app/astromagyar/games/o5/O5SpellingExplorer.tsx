@@ -4,36 +4,36 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    title1: "Összetétel írása",
-    text1: "Az összetett szavak egy szótőből és egy toldalékból, vagy több szótőből állnak. A magyar helyesírásban az összetett szavakat általában egybe írjuk: édesanya, szeretlek, napszám. Azonban előfordulnak kivételek, amikor különírunk.",
-    q1: "Hogyan írjuk az összetett szavakat?",
+    title1: "Osszetétel írása",
+    text1: "Az osszetett szavak egy szotőbol és egy toldalékból, vagy több szotőbol állnak. A magyar helyesírásban az osszetett szavakat általában egybe írjuk: édesanya, szeretlek, napszám. Azonban előfordulnak kivételek, amikor különírunk.",
+    q1: "Hogyan írjuk az osszetett szavakat?",
     a1: "általában egybe",
     b1: "általában különválasztva",
     c1: "kötőjellel",
     d1: "szóközzel",
-    q2: "Melyik az összetett szó?",
+    q2: "Melyik az osszetett szó?",
     a2: "édesanya",
     b2: "anya",
     c2: "anyám",
     d2: "anyai",
-    title2: "Szóösszetételek típusai",
-    text2: "Az összetételek lehetnek: determinatív (ahol az első szó módosítja a másodikat: „sárgarépa"), koordinatív (ahol mindkét szó egyenrangú: „anya-lánya"), illetve szószerkezet alapján: alárendelő és mellérendelő összetételek.",
-    q3: "Mi a determinatív összetétel?",
+    title2: "Szóosszetételek típusai",
+    text2: "Az osszetételek lehetnek: determinatív (ahol az első szó módosítja a másodikat) vagy koordinatív (ahol mindkét szó egyenrangú). Illetve szószerkezet alapján: alárendelő és mellérendelő osszetételek.",
+    q3: "Mi a determinatív osszetétel?",
     a3: "az első szó módosítja a másodikat",
     b3: "mindkét szó egyenrangú",
     c3: "hosszú szavak",
     d3: "rövidítések",
-    q4: "Melyik koordinatív összetétel?",
+    q4: "Melyik koordinatív osszetétel?",
     a4: "anya-lánya",
     b4: "sárgarépa",
     c4: "napszám",
     d4: "szeretlek",
     title3: "Kötőjel használata",
-    text3: "A kötőjel helyesen használata fontos a helyesírásban. Kötőjellel írunk: 1) néhány összetételt (különösen ha az első vagy második rész több szóból áll), 2) mellékneveket összekapcsolva, 3) számokat és betűket összekapcsolva.",
+    text3: "A kötőjel helyesen használata fontos a helyesírásban. Kötőjellel írunk: 1) néhány osszetételt, 2) mellékneveket osszekapcsolva, 3) számokat és betűket osszekapcsolva.",
     q5: "Mikor használunk kötőjelet?",
-    a5: "többszavas összetételekben és melléknevekben",
+    a5: "többszavas osszetételekben és melléknevekben",
     b5: "soha",
-    c5: "mindig az összetételekben",
+    c5: "mindig az osszetételekben",
     d5: "csak számokban",
     q6: "Melyik helyesen van kötőjellel írva?",
     a6: "angol-magyar szótár",
@@ -41,9 +41,9 @@ const LABELS: Record<string, Record<string, string>> = {
     c6: "angol magyar szótár",
     d6: "angol,magyar szótár",
     title4: "Különírás szabályai",
-    text4: "Különírunk: 1) szószerkezeteket (pl. „a házam"), 2) bizonyos összetételeket (pl. „sok ember"), 3) szóelői és szóutói képzéseket sok esetben, 4) idegen szavak többségét. A helyesírás néha szubjektív, de az alapvető szabályokat követni kell.",
+    text4: "Különírunk: 1) szószerkezeteket, 2) bizonyos osszetételeket, 3) szóelői és szóutói képzéseket sok esetben, 4) idegen szavak többségét. A helyesírás néha szubjektív, de az alapvető szabályokat követni kell.",
     q7: "Mit írunk különválasztva?",
-    a7: "szószerkezeteket és bizonyos összetételeket",
+    a7: "szószerkezeteket és bizonyos osszetételeket",
     b7: "minden szót",
     c7: "csak szótagokat",
     d7: "csak magánhangzókat",
@@ -53,13 +53,13 @@ const LABELS: Record<string, Record<string, string>> = {
     c8: "sok-ember",
     d8: "sokember",
     title5: "Helyesírási gyakorlat",
-    text5: "A jó helyesíráshoz gyakorlás szükséges. Mindig gondolkozz: összetett szó-e, vagy szószerkezet? Kell-e kötőjel? Egyébként is vigyázz a magánhangzóra és mássalhangzó-torlódásra! A rendszeres írási gyakorlat és az alapvető szabályok megtanulása segít fejleszteni a helyesírási készséget.",
+    text5: "A jó helyesíráshoz gyakorlás szükséges. Mindig gondolkozz: osszetett szó-e, vagy szószerkezet? Kell-e kötőjel? Egyébként is vigyázz a magánhangzóra és mássalhangzó-torlódásra! A rendszeres írási gyakorlás és az alapvető szabályok megtanulása segít fejleszteni a helyesírási készséget.",
     q9: "Mi segít a jó helyesírásban?",
     a9: "rendszeres gyakorlás és szabályok",
     b9: "gyors írás",
     c9: "sok szó megtanulása",
     d9: "betűtípus kiválasztása",
-    q10: "Mit kell figyelni összetett szók írásakor?",
+    q10: "Mit kell figyelni osszetett szók írásakor?",
     a10: "hogy determinatív vagy koordinatív-e",
     b10: "csak a hosszúságot",
     c10: "csak a hangzást",
@@ -67,8 +67,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     title1: "Schreibweise von Zusammensetzungen",
-    text1: "Zusammengesetzte Wörter bestehen aus einem Stamm und einem Suffix oder aus mehreren Stämmen. In der ungarischen Rechtschreibung schreiben wir zusammengesetzte Wörter normalerweise zusammen: \"édesanya\", \"szeretlek\", \"napszám\". Es gibt jedoch Ausnahmen, bei denen wir trennen.",
-    q1: "Wie schreiben wir zusammengesetzte Wörter?",
+    text1: "Zusammengesetzte Woerter bestehen aus einem Stamm und einem Suffix oder aus mehreren Staemmen. In der ungarischen Rechtschreibung schreiben wir zusammengesetzte Woerter normalerweise zusammen.",
+    q1: "Wie schreiben wir zusammengesetzte Woerter?",
     a1: "normalerweise zusammen",
     b1: "normalerweise getrennt",
     c1: "mit Bindestrich",
@@ -79,34 +79,34 @@ const LABELS: Record<string, Record<string, string>> = {
     c2: "anyám",
     d2: "anyai",
     title2: "Typen von Zusammensetzungen",
-    text2: "Zusammensetzungen können sein: Determinativverbindung (erstes Wort modifiziert das zweite: \"sárgarépa\"), Koordinativverbindung (beide Wörter sind gleichrangig: \"anya-lánya\").",
+    text2: "Zusammensetzungen koennen sein: Determinativverbindung oder Koordinativverbindung.",
     q3: "Was ist eine Determinativverbindung?",
     a3: "das erste Wort modifiziert das zweite",
-    b3: "beide Wörter sind gleichrangig",
-    c3: "lange Wörter",
-    d3: "Abkürzungen",
+    b3: "beide Woerter sind gleichrangig",
+    c3: "lange Woerter",
+    d3: "Abkuerzungen",
     q4: "Welches ist eine Koordinativverbindung?",
     a4: "anya-lánya",
     b4: "sárgarépa",
     c4: "napszám",
     d4: "szeretlek",
     title3: "Bindestrichgebrauch",
-    text3: "Der korrekte Gebrauch des Bindestrichs ist in der Orthografie wichtig. Wir schreiben mit Bindestrich: 1) einige Zusammensetzungen (besonders wenn der erste oder zweite Teil aus mehreren Wörtern besteht), 2) Adjektive verbinden, 3) Zahlen und Buchstaben verbinden.",
+    text3: "Der korrekte Gebrauch des Bindestrichs ist in der Orthografie wichtig. Wir schreiben mit Bindestrich: 1) einige Zusammensetzungen, 2) Adjektive verbinden, 3) Zahlen und Buchstaben verbinden.",
     q5: "Wann verwenden wir einen Bindestrich?",
     a5: "in mehrteiligen Zusammensetzungen und Adjektiven",
     b5: "niemals",
     c5: "immer in Zusammensetzungen",
     d5: "nur in Zahlen",
     q6: "Welches ist mit Bindestrich richtig geschrieben?",
-    a6: "angol-magyar szótár",
-    b6: "angolmagyar szótár",
-    c6: "angol magyar szótár",
-    d6: "angol,magyar szótár",
+    a6: "angol-magyar szotar",
+    b6: "angolmagyar szotar",
+    c6: "angol magyar szotar",
+    d6: "angol,magyar szotar",
     title4: "Getrenntschreibungsregeln",
-    text4: "Wir schreiben getrennt: 1) Wortgruppen (z.B. \"a házam\"), 2) bestimmte Zusammensetzungen (z.B. \"sok ember\"), 3) in vielen Fällen Vorsilben und Nachsilben.",
+    text4: "Wir schreiben getrennt: 1) Wortgruppen, 2) bestimmte Zusammensetzungen, 3) in vielen Faellen Vorsilben und Nachsilben.",
     q7: "Was schreiben wir getrennt?",
     a7: "Wortgruppen und bestimmte Zusammensetzungen",
-    b7: "alle Wörter",
+    b7: "alle Woerter",
     c7: "nur Silben",
     d7: "nur Vokale",
     q8: "Welches ist richtig getrennt geschrieben?",
@@ -114,16 +114,16 @@ const LABELS: Record<string, Record<string, string>> = {
     b8: "sokeember",
     c8: "sok-ember",
     d8: "sokember",
-    title5: "Rechtschreibübung",
-    text5: "Gute Rechtschreibung erfordert Übung. Denke immer: ist es ein zusammengesetztes Wort oder eine Wortgruppe? Brauche ich einen Bindestrich? Achte auch auf Vokale und Konsonanten! Regelmäßige Schreibübung hilft bei der Rechtschreibung.",
+    title5: "Rechtschreibubung",
+    text5: "Gute Rechtschreibung erfordert Uebung. Denke immer: ist es ein zusammengesetztes Wort oder eine Wortgruppe? Brauche ich einen Bindestrich?",
     q9: "Was hilft bei guter Rechtschreibung?",
-    a9: "regelmäßige Übung und Regeln",
+    a9: "regelmaessige Uebung und Regeln",
     b9: "schnelles Schreiben",
-    c9: "viele Wörter lernen",
-    d9: "Schriftart auswählen",
+    c9: "viele Woerter lernen",
+    d9: "Schriftart auswaehlen",
     q10: "Worauf muss man beim Schreiben von Zusammensetzungen achten?",
     a10: "ob es determinativ oder koordinativ ist",
-    b10: "nur auf die Länge",
+    b10: "nur auf die Laenge",
     c10: "nur auf den Klang",
     d10: "nur auf den Anfang",
   },
@@ -141,9 +141,9 @@ const DEF: ExplorerDef = {
           <rect width="240" height="160" rx="16" fill="#1a1a3e" />
           <rect x="30" y="40" width="70" height="80" rx="6" fill="#FF9500" opacity="0.7" />
           <rect x="140" y="40" width="70" height="80" rx="6" fill="#FF9500" opacity="0.7" />
-          <text x="65" y="85" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">szó1</text>
-          <text x="175" y="85" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">szó2</text>
-          <text x="120" y="135" textAnchor="middle" fontSize="12" fill="#FF9500" fontWeight="bold">szó1szó2</text>
+          <text x="65" y="85" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">szo1</text>
+          <text x="175" y="85" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">szo2</text>
+          <text x="120" y="135" textAnchor="middle" fontSize="12" fill="#FF9500" fontWeight="bold">szo1szo2</text>
         </svg>
       ),
       questions: [
@@ -160,10 +160,10 @@ const DEF: ExplorerDef = {
           <rect width="240" height="160" rx="16" fill="#1a1a3e" />
           <rect x="20" y="35" width="100" height="90" rx="6" fill="#00D4FF" opacity="0.8" />
           <text x="70" y="65" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Determinatív</text>
-          <text x="70" y="85" textAnchor="middle" fontSize="10" fill="#fff">(módosít)</text>
+          <text x="70" y="85" textAnchor="middle" fontSize="10" fill="#fff">(modosít)</text>
           <rect x="140" y="35" width="100" height="90" rx="6" fill="#10B981" opacity="0.8" />
           <text x="190" y="65" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Koordinatív</text>
-          <text x="190" y="85" textAnchor="middle" fontSize="10" fill="#fff">(egyenrangú)</text>
+          <text x="190" y="85" textAnchor="middle" fontSize="10" fill="#fff">(egyenrangu)</text>
         </svg>
       ),
       questions: [
@@ -178,10 +178,10 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="60" y="50" textAnchor="middle" fontSize="16" fill="#FF2D78" fontWeight="bold">szó-szó</text>
-          <text x="60" y="80" textAnchor="middle" fontSize="11" fill="#fff">Kötőjel</text>
-          <text x="180" y="50" textAnchor="middle" fontSize="16" fill="#00D4FF" fontWeight="bold">szó szó</text>
-          <text x="180" y="80" textAnchor="middle" fontSize="11" fill="#fff">Szóköz</text>
+          <text x="60" y="50" textAnchor="middle" fontSize="16" fill="#FF2D78" fontWeight="bold">szo-szo</text>
+          <text x="60" y="80" textAnchor="middle" fontSize="11" fill="#fff">Kotohjelz</text>
+          <text x="180" y="50" textAnchor="middle" fontSize="16" fill="#00D4FF" fontWeight="bold">szo szo</text>
+          <text x="180" y="80" textAnchor="middle" fontSize="11" fill="#fff">Szokoz</text>
         </svg>
       ),
       questions: [
@@ -200,8 +200,8 @@ const DEF: ExplorerDef = {
           <text x="70" y="70" textAnchor="middle" fontSize="12" fill="#000" fontWeight="bold">Szerkezet</text>
           <text x="70" y="90" textAnchor="middle" fontSize="10" fill="#000">Kifejezés</text>
           <rect x="140" y="40" width="80" height="90" rx="6" fill="#FF2D78" opacity="0.7" />
-          <text x="180" y="70" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Összetétel</text>
-          <text x="180" y="90" textAnchor="middle" fontSize="10" fill="#fff">Szó</text>
+          <text x="180" y="70" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Osszetétel</text>
+          <text x="180" y="90" textAnchor="middle" fontSize="10" fill="#fff">Szo</text>
         </svg>
       ),
       questions: [
@@ -217,11 +217,11 @@ const DEF: ExplorerDef = {
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect width="240" height="160" rx="16" fill="#1a1a3e" />
           <circle cx="70" cy="70" r="20" fill="none" stroke="#FF9500" strokeWidth="2" />
-          <text x="70" y="75" textAnchor="middle" fontSize="14" fill="#FF9500" fontWeight="bold">✓</text>
+          <text x="70" y="75" textAnchor="middle" fontSize="14" fill="#FF9500" fontWeight="bold">Ok</text>
           <circle cx="120" cy="50" r="20" fill="none" stroke="#10B981" strokeWidth="2" />
-          <text x="120" y="55" textAnchor="middle" fontSize="14" fill="#10B981" fontWeight="bold">✓</text>
+          <text x="120" y="55" textAnchor="middle" fontSize="14" fill="#10B981" fontWeight="bold">Ok</text>
           <circle cx="170" cy="70" r="20" fill="none" stroke="#00D4FF" strokeWidth="2" />
-          <text x="170" y="75" textAnchor="middle" fontSize="14" fill="#00D4FF" fontWeight="bold">✓</text>
+          <text x="170" y="75" textAnchor="middle" fontSize="14" fill="#00D4FF" fontWeight="bold">Ok</text>
           <text x="120" y="135" textAnchor="middle" fontSize="12" fill="#fff" fontWeight="bold">Helyesírási siker!</text>
         </svg>
       ),
