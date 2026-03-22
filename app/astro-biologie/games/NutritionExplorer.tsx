@@ -256,40 +256,56 @@ const LABELS: ExplorerDef["labels"] = {
     r4_sleep: "Jó alvás",
     r4_sleep_info: "Segíti az anyagcserét & gyógyulást",
 
+    // Round 1: Tápanyag csoportok — Kérdés
+    r1_q: "Melyik tápanyag ad neked ENERGIÁT?",
+    r1_q_a: "Szénhidrátok 🍞",
+    r1_q_b: "Fehérjék 🥩",
+    r1_q_c: "Víz 💧",
+    r1_q_d: "Ásványi anyagok 🧂",
+
+    // Round 2: Élelmiszer piramis — Kérdés
+    r2_q: "Melyik élelmiszer-csoport kellene az ALP az piramis?",
+    r2_q_a: "Gyümölcsök",
+    r2_q_b: "Gabona",
+    r2_q_c: "Fehérje",
+    r2_q_d: "Tejtermékek",
+
+    // Round 3: Emésztési nyomvonal — Kérdés
+    r3_q: "Hol kezdődik az emésztés?",
+    r3_q_a: "Gyomor 🤢",
+    r3_q_b: "Szájüregből 👄",
+    r3_q_c: "Vékonybél 🌀",
+    r3_q_d: "Nyelőcső 🔽",
+
+    // Round 4: Víz & szokások — Kérdés
+    r4_q: "Hány pohár vizet kellene naponta inni?",
+    r4_q_a: "2-3 pohár 💧",
+    r4_q_b: "5-6 pohár 💧",
+    r4_q_c: "8+ pohár 💧",
+    r4_q_d: "Mennyit csak akarsz",
+
     // Round 5: Quiz
     r5_title: "Táplálkozási kvíz",
     r5_text: "Teszteld tudásodat a tápanyagokról, az emésztésről és az egészséges étkezésről!",
 
     // Questions
-    q_r5_q1: "Melyik tápanyag ad neked GYORS energiát?",
-    q_r5_q1_a: "Szénhidrátok 🍞",
-    q_r5_q1_b: "Fehérjék 🥩",
-    q_r5_q1_c: "Zsírok 🧈",
-    q_r5_q1_d: "Vitaminok 🥗",
+    q_r5_q1: "Melyik szerv szívja fel a LEGTÖBB tápanyagot?",
+    q_r5_q1_a: "Szájüregből 👄",
+    q_r5_q1_b: "Gyomor 🤢",
+    q_r5_q1_c: "Vékonybél 🌀",
+    q_r5_q1_d: "Vastagbél 📦",
 
-    q_r5_q2: "Hol kezdődik az emésztés?",
-    q_r5_q2_a: "Gyomor 🤢",
-    q_r5_q2_b: "Szájüregből 👄",
-    q_r5_q2_c: "Vékonybél 🌀",
-    q_r5_q2_d: "Nyelőcső 🔽",
+    q_r5_q2: "Miért kellene lassan rágni?",
+    q_r5_q2_a: "Hogy időt takarítsd meg",
+    q_r5_q2_b: "Jobb emésztés & kevesebbet ess 🍽️",
+    q_r5_q2_c: "Jobban ízlik",
+    q_r5_q2_d: "Nincs különös ok",
 
-    q_r5_q3: "Melyik szerv szívja fel a LEGTÖBB tápanyagot?",
-    q_r5_q3_a: "Szájüregből 👄",
-    q_r5_q3_b: "Gyomor 🤢",
-    q_r5_q3_c: "Vékonybél 🌀",
-    q_r5_q3_d: "Vastagbél 📦",
-
-    q_r5_q4: "Miért kellene lassan rágni?",
-    q_r5_q4_a: "Hogy időt takarítsd meg",
-    q_r5_q4_b: "Jobb emésztés & kevesebbet ess 🍽️",
-    q_r5_q4_c: "Jobban ízlik",
-    q_r5_q4_d: "Nincs különös ok",
-
-    q_r5_q5: "Hány pohár vizet kell naponta?",
-    q_r5_q5_a: "2-3 pohár 💧",
-    q_r5_q5_b: "5-6 pohár 💧",
-    q_r5_q5_c: "8+ pohár 💧",
-    q_r5_q5_d: "Mennyit csak akarsz",
+    q_r5_q3: "Mi a legfontosabb szokás a jó táplálkozáshoz?",
+    q_r5_q3_a: "Gyorsan enni",
+    q_r5_q3_b: "Mindig ugyanazt az ételt enni",
+    q_r5_q3_c: "Kiegyensúlyozott ételek az összes élelmiszer-csoporttal",
+    q_r5_q3_d: "Nem inni vizet",
   },
 
   ro: {
@@ -340,40 +356,56 @@ const LABELS: ExplorerDef["labels"] = {
     r4_sleep: "Somn bun",
     r4_sleep_info: "Ajută metabolismul & vindecare",
 
+    // Round 1: Grupuri de nutrienți — Întrebare
+    r1_q: "Care nutrient îți dă ENERGIE?",
+    r1_q_a: "Carbohidrați 🍞",
+    r1_q_b: "Proteine 🥩",
+    r1_q_c: "Apă 💧",
+    r1_q_d: "Minerale 🧂",
+
+    // Round 2: Piramida alimentară — Întrebare
+    r2_q: "Care grup alimentar ar trebui să fie la BAZĂ piramidei?",
+    r2_q_a: "Fructe",
+    r2_q_b: "Cereale",
+    r2_q_c: "Proteină",
+    r2_q_d: "Produse lactate",
+
+    // Round 3: Tract digestiv — Întrebare
+    r3_q: "Unde începe digestia?",
+    r3_q_a: "Stomac 🤢",
+    r3_q_b: "Gură 👄",
+    r3_q_c: "Intestin subțire 🌀",
+    r3_q_d: "Esofag 🔽",
+
+    // Round 4: Apă & obiceiuri — Întrebare
+    r4_q: "Câte pahare de apă ar trebui să bei zilnic?",
+    r4_q_a: "2-3 pahare 💧",
+    r4_q_b: "5-6 pahare 💧",
+    r4_q_c: "8+ pahare 💧",
+    r4_q_d: "Cât vrei tu",
+
     // Round 5: Quiz
     r5_title: "Chestionar nutriție",
     r5_text: "Testează-ți cunoștințele despre nutrienți, digestie și mâncare sănătoasă!",
 
     // Questions
-    q_r5_q1: "Care nutrient îți dă RAPID energie?",
-    q_r5_q1_a: "Carbohidrați 🍞",
-    q_r5_q1_b: "Proteine 🥩",
-    q_r5_q1_c: "Grăsimi 🧈",
-    q_r5_q1_d: "Vitamine 🥗",
+    q_r5_q1: "Care organ absoarbe CEI MAI MULȚI nutrienți?",
+    q_r5_q1_a: "Gură 👄",
+    q_r5_q1_b: "Stomac 🤢",
+    q_r5_q1_c: "Intestin subțire 🌀",
+    q_r5_q1_d: "Intestin gros 📦",
 
-    q_r5_q2: "Unde începe digestia?",
-    q_r5_q2_a: "Stomac 🤢",
-    q_r5_q2_b: "Gură 👄",
-    q_r5_q2_c: "Intestin subțire 🌀",
-    q_r5_q2_d: "Esofag 🔽",
+    q_r5_q2: "De ce ar trebui să mesteci lent?",
+    q_r5_q2_a: "Pentru a economisi timp",
+    q_r5_q2_b: "Digestie mai bună & mâncă mai puțin 🍽️",
+    q_r5_q2_c: "Gustă mai bine",
+    q_r5_q2_d: "Fără motiv special",
 
-    q_r5_q3: "Care organ absoarbe CEI MAI MULȚI nutrienți?",
-    q_r5_q3_a: "Gură 👄",
-    q_r5_q3_b: "Stomac 🤢",
-    q_r5_q3_c: "Intestin subțire 🌀",
-    q_r5_q3_d: "Intestin gros 📦",
-
-    q_r5_q4: "De ce ar trebui să mesteci lent?",
-    q_r5_q4_a: "Pentru a economisi timp",
-    q_r5_q4_b: "Digestie mai bună & mâncă mai puțin 🍽️",
-    q_r5_q4_c: "Gustă mai bine",
-    q_r5_q4_d: "Fără motiv special",
-
-    q_r5_q5: "Câte pahare de apă zilnic?",
-    q_r5_q5_a: "2-3 pahare 💧",
-    q_r5_q5_b: "5-6 pahare 💧",
-    q_r5_q5_c: "8+ pahare 💧",
-    q_r5_q5_d: "Cât vrei tu",
+    q_r5_q3: "Care este cel mai important obicei pentru nutriția bună?",
+    q_r5_q3_a: "Mâncare rapidă",
+    q_r5_q3_b: "Mereu mâncare la fel",
+    q_r5_q3_c: "Mese echilibrate cu toate grupurile alimentare",
+    q_r5_q3_d: "Nu bea apă",
   },
 };
 
@@ -626,11 +658,45 @@ function SVG_R5(lang: string): React.ReactNode {
 // EXPLORER DEFINITION
 // ─────────────────────────────────────────────────────────────────────────────
 
-const QUIZ_QUESTIONS: MCQQuestion[] = [
+// R1-R4 Question Pools
+const R1_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r1_q",
+    choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"],
+    answer: "r1_q_a",
+  },
+];
+
+const R2_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r2_q",
+    choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"],
+    answer: "r2_q_b",
+  },
+];
+
+const R3_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r3_q",
+    choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"],
+    answer: "r3_q_b",
+  },
+];
+
+const R4_QUESTIONS: MCQQuestion[] = [
+  {
+    question: "r4_q",
+    choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"],
+    answer: "r4_q_c",
+  },
+];
+
+// R5 Review Questions (3 total)
+const R5_QUESTIONS: MCQQuestion[] = [
   {
     question: "q_r5_q1",
     choices: ["q_r5_q1_a", "q_r5_q1_b", "q_r5_q1_c", "q_r5_q1_d"],
-    answer: "q_r5_q1_a",
+    answer: "q_r5_q1_c",
   },
   {
     question: "q_r5_q2",
@@ -642,55 +708,49 @@ const QUIZ_QUESTIONS: MCQQuestion[] = [
     choices: ["q_r5_q3_a", "q_r5_q3_b", "q_r5_q3_c", "q_r5_q3_d"],
     answer: "q_r5_q3_c",
   },
-  {
-    question: "q_r5_q4",
-    choices: ["q_r5_q4_a", "q_r5_q4_b", "q_r5_q4_c", "q_r5_q4_d"],
-    answer: "q_r5_q4_b",
-  },
-  {
-    question: "q_r5_q5",
-    choices: ["q_r5_q5_a", "q_r5_q5_b", "q_r5_q5_c", "q_r5_q5_d"],
-    answer: "q_r5_q5_c",
-  },
 ];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1_title",
       infoText: "r1_text",
       svg: SVG_R1,
       bulletKeys: ["r1_carbs_info", "r1_protein_info", "r1_fats_info", "r1_vitamins_info"],
+      questions: R1_QUESTIONS,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2_title",
       infoText: "r2_text",
       svg: SVG_R2,
       bulletKeys: ["r2_grains", "r2_vegetables", "r2_fruits", "r2_protein_group", "r2_dairy"],
+      questions: R2_QUESTIONS,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
       svg: SVG_R3,
       bulletKeys: ["r3_mouth_info", "r3_esophagus_info", "r3_stomach_info", "r3_small_intestine_info", "r3_large_intestine_info"],
+      questions: R3_QUESTIONS,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4_title",
       infoText: "r4_text",
       svg: SVG_R4,
       bulletKeys: ["r4_water_info", "r4_slow_eating_info", "r4_balance_info", "r4_sleep_info"],
+      questions: R4_QUESTIONS,
     },
     {
       type: "mcq",
       infoTitle: "r5_title",
       infoText: "r5_text",
       svg: SVG_R5,
-      questions: QUIZ_QUESTIONS,
+      questions: R5_QUESTIONS,
     },
   ],
 };

@@ -78,10 +78,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 4 MCQ (Leaf Structure)
     r4_q: "Which organelles in leaf cells contain chlorophyll?",
-    r4_stomata: "Chloroplasts",
-    r4_chlorophyll: "Mitochondria",
-    r4_guard_cells: "Vacuoles",
-    r4_cuticle: "Cell membranes",
+    r4_chloroplasts: "Chloroplasts",
+    r4_mitochondria: "Mitochondria",
+    r4_vacuoles: "Vacuoles",
+    r4_membranes: "Cell membranes",
   },
   de: {
     r1_title: "Pflanzenteile & Funktionen",
@@ -143,10 +143,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 4 MCQ (Blattstruktur)
     r4_q: "Welche Organellen in Blattzellen enthalten Chlorophyll?",
-    r4_stomata: "Chloroplasten",
-    r4_chlorophyll: "Mitochondrien",
-    r4_guard_cells: "Vakuolen",
-    r4_cuticle: "Zellmembranen",
+    r4_chloroplasts: "Chloroplasten",
+    r4_mitochondria: "Mitochondrien",
+    r4_vacuoles: "Vakuolen",
+    r4_membranes: "Zellmembranen",
   },
   hu: {
     r1_title: "Növényrészek és funkcióik",
@@ -208,10 +208,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 4 MCQ (Lev szerkezete)
     r4_q: "Mely organellumok a levelek sejtjeiben tartalmaznak klorofilt?",
-    r4_stomata: "Kloroplasztok",
-    r4_chlorophyll: "Mitokondriók",
-    r4_guard_cells: "Vakuólumok",
-    r4_cuticle: "Sejtmembrának",
+    r4_chloroplasts: "Kloroplasztok",
+    r4_mitochondria: "Mitokondriók",
+    r4_vacuoles: "Vakuólumok",
+    r4_membranes: "Sejtmembranak",
   },
   ro: {
     r1_title: "Părți ale plantei și funcții",
@@ -273,10 +273,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 4 MCQ (Structura frunzei)
     r4_q: "Care organele din celulele frunzei conțin clorofil?",
-    r4_stomata: "Cloroplaste",
-    r4_chlorophyll: "Mitocondrii",
-    r4_guard_cells: "Vacuole",
-    r4_cuticle: "Membrane celulare",
+    r4_chloroplasts: "Cloroplaste",
+    r4_mitochondria: "Mitocondrii",
+    r4_vacuoles: "Vacuole",
+    r4_membranes: "Membrane celulare",
   },
 };
 
@@ -687,8 +687,8 @@ const DEF: ExplorerDef = {
       questions: [
         {
           question: "r4_q",
-          choices: ["r4_stomata", "r4_chlorophyll", "r4_guard_cells", "r4_cuticle"],
-          answer: "r4_stomata",
+          choices: ["r4_chloroplasts", "r4_mitochondria", "r4_vacuoles", "r4_membranes"],
+          answer: "r4_chloroplasts",
         },
       ],
     },
