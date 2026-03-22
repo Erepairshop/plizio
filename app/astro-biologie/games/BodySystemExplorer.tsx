@@ -289,7 +289,7 @@ function SvgRound1(lang: string): React.ReactNode {
       {/* Labels with pills */}
       <g id="label_heart">
         <rect x="105" y="110" width="30" height="20" rx="10" fill="#FF4444" opacity="0.2" stroke="#FF4444" strokeWidth="1" />
-        <text x="120" y="123" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Heart</text>
+        <text x="120" y="123" fontSize="6" fontWeight="bold" fill="white" textAnchor="middle">Heart</text>
       </g>
       <g id="label_artery">
         <rect x="170" y="25" width="32" height="20" rx="10" fill="#FF2222" opacity="0.2" stroke="#FF2222" strokeWidth="1" />
@@ -346,10 +346,10 @@ function SvgRound2(lang: string): React.ReactNode {
 
       {/* O₂ in / CO₂ out arrows */}
       <path d="M40 35 Q30 50 25 75" stroke="#87CEEB" strokeWidth="2" fill="none" markerEnd="url(#arrowblue)" strokeDasharray="3,3" />
-      <text x="18" y="55" fontSize="9" fontWeight="bold" fill="#87CEEB">O₂ in</text>
+      <text x="18" y="55" fontSize="6" fontWeight="bold" fill="#87CEEB">O₂ in</text>
 
       <path d="M200 75 Q210 50 220 35" stroke="#FF8C00" strokeWidth="2" fill="none" markerEnd="url(#arroworange)" strokeDasharray="3,3" />
-      <text x="200" y="55" fontSize="9" fontWeight="bold" fill="#FF8C00">CO₂ out</text>
+      <text x="200" y="55" fontSize="6" fontWeight="bold" fill="#FF8C00">CO₂ out</text>
 
       {/* Labels */}
       <rect x="65" y="150" width="35" height="16" rx="8" fill="#4AABD9" opacity="0.2" stroke="#4AABD9" strokeWidth="1" />

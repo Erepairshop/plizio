@@ -502,7 +502,7 @@ function SVG_R2(lang: string): React.ReactNode {
 
       {/* Third level - protein & dairy */}
       <polygon points="95,65 145,65 135,40 105,40" fill="#EF4444" stroke="#FBBF24" strokeWidth="2" opacity="0.8" />
-      <text x="120" y="56" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#fff">🥩 {l.r2_protein_group}  🥛 {l.r2_dairy}</text>
+      <text x="120" y="56" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#fff">🥩 {l.r2_protein_group}  🥛 {l.r2_dairy}</text>
 
       {/* Top - water */}
       <circle cx="120" cy="25" r="12" fill="#00D4FF" stroke="#FBBF24" strokeWidth="2" />
@@ -558,10 +558,10 @@ function SVG_R3(lang: string): React.ReactNode {
       <text x="172" y="149" fontSize="11" textAnchor="middle" fill="#fff">📦</text>
 
       {/* Labels below */}
-      <text x="40" y="155" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_mouth}</text>
-      <text x="85" y="145" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_esophagus}</text>
-      <text x="125" y="155" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_small_intestine}</text>
-      <text x="180" y="158" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_large_intestine}</text>
+      <text x="40" y="155" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_mouth}</text>
+      <text x="85" y="145" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_esophagus}</text>
+      <text x="125" y="155" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_small_intestine}</text>
+      <text x="180" y="158" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#A78BFA">{l.r3_large_intestine}</text>
     </svg>
   );
 }
@@ -607,22 +607,22 @@ function SVG_R4(lang: string): React.ReactNode {
       {/* Habit badges - bottom */}
       <g>
         <rect x="10" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="35" y="133" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💤 {l.r4_sleep}</text>
+        <text x="35" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💤 {l.r4_sleep}</text>
       </g>
 
       <g>
         <rect x="65" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="90" y="133" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#3B82F6">🍽️ {l.r4_slow_eating}</text>
+        <text x="90" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">🍽️ {l.r4_slow_eating}</text>
       </g>
 
       <g>
         <rect x="120" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="145" y="133" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#3B82F6">⚖️ {l.r4_balance}</text>
+        <text x="145" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">⚖️ {l.r4_balance}</text>
       </g>
 
       <g>
         <rect x="175" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="200" y="133" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💪 {l.r4_water}</text>
+        <text x="200" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💪 {l.r4_water}</text>
       </g>
     </svg>
   );

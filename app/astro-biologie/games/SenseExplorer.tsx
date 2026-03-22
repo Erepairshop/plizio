@@ -496,7 +496,7 @@ function SvgRound2(lang: string): React.ReactNode {
 
       {/* Retina — back */}
       <path d="M 85 60 Q 85 100, 120 110 Q 155 100, 155 60" fill="none" stroke="#DC2626" strokeWidth="2" />
-      <text x="120" y="90" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#DC2626">Retina</text>
+      <text x="120" y="90" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#DC2626">Retina</text>
 
       {/* Optic nerve — back */}
       <line x1="155" y1="75" x2="200" y2="75" stroke="#7C3AED" strokeWidth="3" />
@@ -623,7 +623,7 @@ function SvgRound4(lang: string): React.ReactNode {
         <circle cx="0" cy="5" r="2.5" fill="#991B1B" opacity="0.5" />
         <circle cx="8" cy="2" r="2.5" fill="#991B1B" opacity="0.5" />
       </g>
-      <text x="145" y="70" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#DC2626">Brain</text>
+      <text x="145" y="70" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#DC2626">Brain</text>
 
       {/* NERVE SIGNAL DOWN — from brain to muscle */}
       <path d="M 145 57 Q 115 75, 80 95" stroke="#06B6D4" strokeWidth="3" fill="none" strokeLinecap="round" />

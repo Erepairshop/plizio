@@ -388,42 +388,42 @@ function SVG_R2(lang: string) {
           💀
         </text>
         <line x1="120" y1="40" x2="120" y2="48" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="135" y="48" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="135" y="48" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Skull
         </text>
 
         {/* Spine */}
         <rect x="116" y="45" width="8" height="32" fill="url(#r2_bone)" />
         <line x1="128" y1="60" x2="150" y2="60" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="155" y="63" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="155" y="63" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Spine
         </text>
 
         {/* Ribs */}
         <ellipse cx="120" cy="68" rx="16" ry="11" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
         <line x1="104" y1="68" x2="85" y2="68" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="70" y="71" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="70" y="71" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Ribs
         </text>
 
         {/* Pelvis */}
         <ellipse cx="120" cy="100" rx="14" ry="8" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
         <line x1="134" y1="100" x2="160" y2="100" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="165" y="103" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="165" y="103" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Pelvis
         </text>
 
         {/* Femur (left leg) */}
         <line x1="110" y1="108" x2="105" y2="135" stroke="url(#r2_bone)" strokeWidth="3" />
         <line x1="89" y1="125" x2="105" y2="135" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="75" y="128" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="75" y="128" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Femur
         </text>
 
         {/* Humerus (left arm) */}
         <line x1="104" y1="55" x2="85" y2="38" stroke="url(#r2_bone)" strokeWidth="2.5" />
         <line x1="75" y1="42" x2="85" y2="38" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="68" y="34" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+        <text x="68" y="34" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
           Humerus
         </text>
       </g>
