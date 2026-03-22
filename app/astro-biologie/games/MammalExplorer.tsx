@@ -12,116 +12,151 @@ import type { ExplorerDef, MCQQuestion, RoundDef } from "./ExplorerEngine";
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SVG_R1(lang: string): React.ReactNode {
-  const lb: Record<string, { title: string; feature1: string; feature2: string; feature3: string; feature4: string }> = {
-    en: { title: "Mammal Features", feature1: "Fur/Hair", feature2: "Warm-blooded", feature3: "Live birth", feature4: "Milk nursing" },
-    de: { title: "Säugetier-Merkmale", feature1: "Fell/Haare", feature2: "Warmblütig", feature3: "Lebendgeburt", feature4: "Milchernährung" },
-    hu: { title: "Emlős jellemzői", feature1: "Szőr/Haj", feature2: "Melegvérű", feature3: "Elevenszülés", feature4: "Tejernährung" },
-    ro: { title: "Caracteristici ale mamiferelor", feature1: "Blană/Păr", feature2: "Sânge cald", feature3: "Naștere vie", feature4: "Alăptare" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A574" />
-          <stop offset="100%" stopColor="#A67C52" />
+        <linearGradient id="m1_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a3a2a" />
+          <stop offset="50%" stopColor="#2a4a3a" />
+          <stop offset="100%" stopColor="#1a2a1a" />
         </linearGradient>
-        <linearGradient id="r1_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,180,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(150,100,200,0.15)" />
+        <linearGradient id="m1_fox_body" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#E87A30" />
+          <stop offset="40%" stopColor="#D06A25" />
+          <stop offset="100%" stopColor="#B85A1A" />
         </linearGradient>
-        <radialGradient id="r1_eye" cx="40%" cy="40%">
-          <stop offset="0%" stopColor="#f0f9ff" />
-          <stop offset="100%" stopColor="#e0f2fe" />
+        <linearGradient id="m1_fox_belly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFF8E1" />
+          <stop offset="100%" stopColor="#FFECB3" />
+        </linearGradient>
+        <linearGradient id="m1_fox_tail" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#D06A25" />
+          <stop offset="70%" stopColor="#B85A1A" />
+          <stop offset="100%" stopColor="#FFFDE7" />
+        </linearGradient>
+        <linearGradient id="m1_grass" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4CAF50" />
+          <stop offset="100%" stopColor="#2E7D32" />
+        </linearGradient>
+        <radialGradient id="m1_glow" cx="50%" cy="40%">
+          <stop offset="0%" stopColor="rgba(255,200,100,0.12)" />
+          <stop offset="100%" stopColor="rgba(255,200,100,0)" />
         </radialGradient>
       </defs>
 
       {/* Background */}
-      <rect width="240" height="160" fill="url(#r1_bg)" />
+      <rect width="240" height="160" fill="url(#m1_bg)" />
+      <circle cx="120" cy="75" r="70" fill="url(#m1_glow)" />
 
-      {/* Dog/Wolf body with fur texture */}
-      <g>
-        {/* Back leg */}
-        <path d="M 85 100 Q 80 115 90 125 Q 95 130 100 128 Q 98 115 95 100 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-        {/* Front leg */}
-        <path d="M 130 100 Q 135 115 130 130 Q 125 133 120 130 Q 120 115 125 100 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Body */}
-        <path d="M 85 80 Q 90 75 110 75 Q 130 75 140 85 Q 145 95 140 105 Q 120 110 95 105 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Neck */}
-        <ellipse cx="105" cy="68" rx="14" ry="12" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Head */}
-        <circle cx="115" cy="50" r="16" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Snout */}
-        <ellipse cx="125" cy="58" rx="10" ry="8" fill="#C19A6B" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Nose */}
-        <circle cx="130" cy="60" r="2.5" fill="#2C1810" />
-
-        {/* Eyes with anatomy */}
-        <circle cx="110" cy="45" r="4" fill="url(#r1_eye)" />
-        <circle cx="110" cy="45" r="2.8" fill="#1e3a5f" />
-        <circle cx="110" cy="45" r="1.6" fill="#0c1829" />
-        <circle cx="110" cy="45" r="2.6" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
-        <circle cx="111.5" cy="43.5" r="1" fill="white" opacity="0.85" />
-
-        <circle cx="118" cy="42" r="4" fill="url(#r1_eye)" />
-        <circle cx="118" cy="42" r="2.8" fill="#1e3a5f" />
-        <circle cx="118" cy="42" r="1.6" fill="#0c1829" />
-        <circle cx="118" cy="42" r="2.6" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
-        <circle cx="119.5" cy="40.5" r="1" fill="white" opacity="0.85" />
-
-        {/* Ear */}
-        <path d="M 108 32 Q 105 22 110 28 Q 115 32 112 35 Z" fill="#9B7653" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Tail */}
-        <path d="M 85 90 Q 70 85 65 75 Q 62 70 65 65" fill="none" stroke="#A67C52" strokeWidth="6" strokeLinecap="round" />
-
-        {/* Fur texture strokes */}
-        <g stroke="#8B6F47" strokeWidth="0.8" opacity="0.4" strokeLinecap="round">
-          <path d="M 95 80 Q 98 75 100 80" />
-          <path d="M 105 78 Q 108 72 110 78" />
-          <path d="M 120 80 Q 125 75 130 82" />
-        </g>
+      {/* Ground */}
+      <path d="M 0 130 Q 60 125 120 128 Q 180 132 240 128 L 240 160 L 0 160 Z" fill="#2E7D32" opacity="0.3" />
+      {/* Grass tufts */}
+      <g stroke="url(#m1_grass)" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.5">
+        <path d="M 15 135 Q 17 125 19 135" /><path d="M 22 134 Q 24 126 26 134" />
+        <path d="M 195 132 Q 197 122 199 132" /><path d="M 210 134 Q 212 124 214 134" />
+        <path d="M 80 136 Q 82 128 84 136" />
       </g>
 
-      {/* Feature labels with pointers */}
+      {/* FOX — detailed side view */}
+      <g transform="translate(70, 60)">
+        {/* Shadow */}
+        <ellipse cx="50" cy="75" rx="45" ry="6" fill="rgba(0,0,0,0.15)" />
+
+        {/* Tail - bushy with white tip */}
+        <path d="M 10,40 Q -15,35 -25,20 Q -30,10 -25,5 Q -20,2 -15,8 Q -5,20 10,35" fill="url(#m1_fox_tail)" />
+        {/* Tail fur detail */}
+        <g stroke="rgba(180,80,20,0.3)" strokeWidth="0.6" fill="none">
+          <path d="M -10,15 Q -8,12 -6,15" /><path d="M -5,20 Q -3,17 -1,20" />
+          <path d="M 0,28 Q 2,25 4,28" />
+        </g>
+        {/* White tail tip */}
+        <path d="M -25,5 Q -28,2 -25,0 Q -22,2 -25,5 Z" fill="#FFF8E1" />
+
+        {/* Hind legs */}
+        <path d="M 20,55 Q 18,62 20,68 Q 22,72 25,70 Q 24,62 22,55 Z" fill="url(#m1_fox_body)" />
+        <path d="M 30,55 Q 28,62 30,68 Q 32,72 35,70 Q 34,62 32,55 Z" fill="url(#m1_fox_body)" />
+        {/* Paws */}
+        <ellipse cx="22" cy="70" rx="3.5" ry="2" fill="#2C1810" />
+        <ellipse cx="33" cy="70" rx="3.5" ry="2" fill="#2C1810" />
+
+        {/* Front legs */}
+        <path d="M 65,50 Q 66,60 64,68 Q 62,72 60,70 Q 60,60 63,50 Z" fill="url(#m1_fox_body)" />
+        <path d="M 75,48 Q 77,58 75,66 Q 73,70 71,68 Q 71,58 73,48 Z" fill="url(#m1_fox_body)" />
+        <ellipse cx="62" cy="70" rx="3" ry="2" fill="#2C1810" />
+        <ellipse cx="73" cy="68" rx="3" ry="2" fill="#2C1810" />
+
+        {/* Body */}
+        <path d="M 20,30 Q 30,22 50,20 Q 70,22 80,32 Q 82,42 78,52 Q 65,58 35,55 Q 18,50 20,30" fill="url(#m1_fox_body)" />
+        {/* Belly white */}
+        <path d="M 30,45 Q 45,50 65,48 Q 75,45 78,40" fill="url(#m1_fox_belly)" opacity="0.7" />
+
+        {/* Fur texture on body */}
+        <g stroke="rgba(160,70,15,0.25)" strokeWidth="0.7" fill="none" strokeLinecap="round">
+          <path d="M 30,28 Q 33,24 36,28" /><path d="M 42,25 Q 45,21 48,25" />
+          <path d="M 55,26 Q 58,22 61,26" /><path d="M 68,30 Q 71,26 74,30" />
+          <path d="M 35,35 Q 38,31 41,35" /><path d="M 50,33 Q 53,29 56,33" />
+          <path d="M 62,35 Q 65,31 68,35" />
+          <path d="M 28,42 Q 31,38 34,42" /><path d="M 45,40 Q 48,36 51,40" />
+        </g>
+
+        {/* Neck */}
+        <path d="M 70,28 Q 78,22 85,25 Q 88,30 85,38 Q 78,40 72,35 Z" fill="url(#m1_fox_body)" />
+        {/* Chest white */}
+        <path d="M 78,32 Q 82,28 85,32 Q 84,36 80,38 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
+
+        {/* Head */}
+        <path d="M 82,15 Q 90,8 100,10 Q 108,14 108,22 Q 106,30 98,34 Q 88,35 82,28 Z" fill="url(#m1_fox_body)" />
+        {/* Face white markings */}
+        <path d="M 92,20 Q 96,16 100,18 Q 102,22 100,28 Q 96,30 92,26 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
+
+        {/* Ears - large pointed */}
+        <path d="M 86,12 Q 82,0 88,4 Q 92,8 89,14 Z" fill="url(#m1_fox_body)" />
+        <path d="M 87,10 Q 84,3 88,6 Z" fill="#1a1a1a" opacity="0.3" />
+        <path d="M 98,8 Q 96,-2 102,2 Q 106,6 102,12 Z" fill="url(#m1_fox_body)" />
+        <path d="M 99,6 Q 97,0 102,4 Z" fill="#1a1a1a" opacity="0.3" />
+
+        {/* Eyes - bright amber */}
+        <circle cx="90" cy="18" r="3.2" fill="#FFF8E1" />
+        <circle cx="90" cy="18" r="2.2" fill="#E8A020" />
+        <circle cx="90" cy="18" r="1.3" fill="#1a1a00" />
+        <circle cx="91" cy="17" r="0.8" fill="white" opacity="0.9" />
+        <circle cx="89" cy="19" r="0.35" fill="white" opacity="0.4" />
+
+        <circle cx="99" cy="17" r="3" fill="#FFF8E1" />
+        <circle cx="99" cy="17" r="2" fill="#E8A020" />
+        <circle cx="99" cy="17" r="1.2" fill="#1a1a00" />
+        <circle cx="100" cy="16" r="0.7" fill="white" opacity="0.9" />
+
+        {/* Nose */}
+        <ellipse cx="105" cy="24" rx="3" ry="2.5" fill="#1a1a1a" />
+        <circle cx="104" cy="23.5" r="0.6" fill="white" opacity="0.2" />
+
+        {/* Whiskers */}
+        <g stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none">
+          <path d="M 106,26 L 115,24" /><path d="M 106,27 L 115,28" /><path d="M 106,28 L 114,31" />
+        </g>
+
+        {/* Mouth line */}
+        <path d="M 105,26 Q 103,28 100,29" stroke="rgba(0,0,0,0.15)" strokeWidth="0.5" fill="none" />
+      </g>
+
+      {/* Feature indicator dots with glow rings */}
       <g>
-        {/* Fur label - top left */}
-        <circle cx="25" cy="35" r="2.5" fill="#10B981" />
-        <path d="M 28 35 L 60 35" stroke="#10B981" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="10" y="27" width="30" height="14" rx="7" fill="#10B98133" stroke="#10B981" strokeWidth="1" />
-        <text x="25" y="37" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
-          {l.feature1}
-        </text>
+        {/* Fur indicator - on body */}
+        <circle cx="115" cy="92" r="4" fill="rgba(16,185,129,0.3)" stroke="#10B981" strokeWidth="1" />
+        <circle cx="115" cy="92" r="1.5" fill="#10B981" />
 
-        {/* Warm-blooded label - top right */}
-        <circle cx="215" cy="30" r="2.5" fill="#F59E0B" />
-        <path d="M 210 30 L 150 40" stroke="#F59E0B" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="190" y="20" width="50" height="14" rx="7" fill="#F59E0B33" stroke="#F59E0B" strokeWidth="1" />
-        <text x="215" y="32" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
-          {l.feature2}
-        </text>
+        {/* Warm blood indicator - on chest */}
+        <circle cx="155" cy="88" r="4" fill="rgba(245,158,11,0.3)" stroke="#F59E0B" strokeWidth="1" />
+        <circle cx="155" cy="88" r="1.5" fill="#F59E0B" />
 
-        {/* Live birth label - bottom left */}
-        <circle cx="40" cy="125" r="2.5" fill="#EC4899" />
-        <path d="M 45 120 L 75 100" stroke="#EC4899" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="12" y="128" width="56" height="14" rx="7" fill="#EC489933" stroke="#EC4899" strokeWidth="1" />
-        <text x="40" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
-          {l.feature3}
-        </text>
+        {/* Live birth - near belly */}
+        <circle cx="108" cy="108" r="4" fill="rgba(236,72,153,0.3)" stroke="#EC4899" strokeWidth="1" />
+        <circle cx="108" cy="108" r="1.5" fill="#EC4899" />
 
-        {/* Milk nursing label - bottom right */}
-        <circle cx="200" cy="130" r="2.5" fill="#06B6D4" />
-        <path d="M 195 125 L 155 95" stroke="#06B6D4" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="168" y="128" width="64" height="14" rx="7" fill="#06B6D433" stroke="#06B6D4" strokeWidth="1" />
-        <text x="200" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.feature4}
-        </text>
+        {/* Milk nursing - near belly */}
+        <circle cx="140" cy="112" r="4" fill="rgba(6,182,212,0.3)" stroke="#06B6D4" strokeWidth="1" />
+        <circle cx="140" cy="112" r="1.5" fill="#06B6D4" />
       </g>
     </svg>
   );

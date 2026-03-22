@@ -830,62 +830,185 @@ function SVG_R3(lang: string): React.ReactNode {
 }
 
 function SVG_R4(lang: string): React.ReactNode {
-  const l = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_water_gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#00D4FF" />
-          <stop offset="100%" stopColor="#0096C7" />
+        <radialGradient id="nu_r4_bg" cx="50%" cy="50%" r="65%">
+          <stop offset="0%" stopColor="#1a1a3e" />
+          <stop offset="100%" stopColor="#0a0a1a" />
+        </radialGradient>
+        <linearGradient id="nu_r4_water" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#67E8F9" />
+          <stop offset="30%" stopColor="#22D3EE" />
+          <stop offset="100%" stopColor="#0891B2" />
         </linearGradient>
+        <linearGradient id="nu_r4_glass" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#E0F2FE" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#BAE6FD" stopOpacity="0.2" />
+        </linearGradient>
+        <linearGradient id="nu_r4_plate_rim" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#E2E8F0" />
+          <stop offset="50%" stopColor="#CBD5E1" />
+          <stop offset="100%" stopColor="#94A3B8" />
+        </linearGradient>
+        <radialGradient id="nu_r4_veg_section" cx="40%" cy="40%">
+          <stop offset="0%" stopColor="#6EE7B7" />
+          <stop offset="100%" stopColor="#059669" />
+        </radialGradient>
+        <radialGradient id="nu_r4_grain_section" cx="40%" cy="40%">
+          <stop offset="0%" stopColor="#FDE68A" />
+          <stop offset="100%" stopColor="#B45309" />
+        </radialGradient>
+        <radialGradient id="nu_r4_protein_section" cx="40%" cy="40%">
+          <stop offset="0%" stopColor="#FCA5A5" />
+          <stop offset="100%" stopColor="#B91C1C" />
+        </radialGradient>
+        <radialGradient id="nu_r4_fruit_section" cx="40%" cy="40%">
+          <stop offset="0%" stopColor="#FDBA74" />
+          <stop offset="100%" stopColor="#C2410C" />
+        </radialGradient>
+        <linearGradient id="nu_r4_body" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FDEBD0" />
+          <stop offset="100%" stopColor="#C9A87C" />
+        </linearGradient>
+        <filter id="nu_r4_glow">
+          <feGaussianBlur stdDeviation="2" />
+        </filter>
       </defs>
 
-      {/* Water Glass */}
-      <g>
-        <path d="M 30 35 L 35 80 Q 35 95 42 95 L 55 95 Q 62 95 62 80 L 67 35 Z" fill="none" stroke="#00D4FF" strokeWidth="2" />
-        <path d="M 32 55 Q 32 70 42 75 Q 52 70 52 55" fill="url(#r4_water_gradient)" opacity="0.7" />
-        <text x="48.5" y="70" fontSize="14" textAnchor="middle">💧</text>
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#nu_r4_bg)" rx="6" />
+
+      {/* ── WATER GLASS — left side ── */}
+      <g transform="translate(45, 50)">
+        {/* Glass shadow */}
+        <ellipse cx="0" cy="52" rx="16" ry="3" fill="rgba(0,0,0,0.15)" filter="url(#nu_r4_glow)" />
+        {/* Glass body */}
+        <path d="M -12 -20 L -14 42 Q -14 48, -8 48 L 8 48 Q 14 48, 14 42 L 12 -20 Z" fill="url(#nu_r4_glass)" stroke="#93C5FD" strokeWidth="0.6" />
+        {/* Water fill */}
+        <path d="M -13 5 Q -8 2, 0 4 Q 8 2, 13 5 L 13 40 Q 13 46, 7 46 L -7 46 Q -13 46, -13 40 Z" fill="url(#nu_r4_water)" opacity="0.7" />
+        {/* Water surface wave */}
+        <path d="M -12 5 Q -6 1, 0 4 Q 6 1, 12 5" stroke="#A5F3FC" strokeWidth="0.8" fill="none" opacity="0.5" />
+        {/* Bubbles */}
+        <circle cx="-4" cy="18" r="1.5" fill="#A5F3FC" opacity="0.3" />
+        <circle cx="3" cy="28" r="1" fill="#A5F3FC" opacity="0.25" />
+        <circle cx="-2" cy="36" r="1.2" fill="#A5F3FC" opacity="0.2" />
+        {/* Glass highlight */}
+        <line x1="-10" y1="-16" x2="-12" y2="36" stroke="#fff" strokeWidth="0.6" opacity="0.25" />
+        {/* Water drops outside */}
+        <path d="M 16 10 Q 15 14, 17 16 Q 19 14, 18 10 Z" fill="#22D3EE" opacity="0.3" />
+        <path d="M -16 22 Q -17 25, -15 27 Q -13 25, -14 22 Z" fill="#22D3EE" opacity="0.25" />
       </g>
 
-      {/* Healthy Plate - divided circle */}
-      <g>
-        <circle cx="120" cy="60" r="35" fill="none" stroke="#10B981" strokeWidth="2" />
-        {/* Vegetables section */}
-        <path d="M 120 25 A 35 35 0 0 0 155 60 L 120 60 Z" fill="#10B981" opacity="0.6" />
-        <text x="145" y="35" fontSize="11" fontWeight="bold" fill="#fff">🥦</text>
-        {/* Fruits section */}
-        <path d="M 155 60 A 35 35 0 0 0 120 95 L 120 60 Z" fill="#F87171" opacity="0.6" />
-        <text x="135" y="85" fontSize="11" fontWeight="bold" fill="#fff">🍎</text>
-        {/* Grains section */}
-        <path d="M 120 95 A 35 35 0 0 0 85 60 L 120 60 Z" fill="#FBBF24" opacity="0.6" />
-        <text x="90" y="85" fontSize="11" fontWeight="bold" fill="#111">🌾</text>
-        {/* Protein section */}
-        <path d="M 85 60 A 35 35 0 0 0 120 25 L 120 60 Z" fill="#EF4444" opacity="0.6" />
-        <text x="100" y="35" fontSize="11" fontWeight="bold" fill="#fff">🥩</text>
-        {/* Center - dairy circle */}
-        <circle cx="120" cy="60" r="10" fill="#87CEEB" opacity="0.8" />
-        <text x="120" y="65" fontSize="12" textAnchor="middle">🥛</text>
+      {/* ── BALANCED PLATE — center ── */}
+      <g transform="translate(140, 60)">
+        {/* Plate shadow */}
+        <ellipse cx="0" cy="42" rx="38" ry="6" fill="rgba(0,0,0,0.12)" filter="url(#nu_r4_glow)" />
+        {/* Plate rim */}
+        <ellipse cx="0" cy="0" rx="38" ry="34" fill="url(#nu_r4_plate_rim)" opacity="0.15" />
+        <ellipse cx="0" cy="0" rx="38" ry="34" fill="none" stroke="#94A3B8" strokeWidth="0.8" opacity="0.4" />
+        {/* Inner plate */}
+        <ellipse cx="0" cy="0" rx="32" ry="28" fill="none" stroke="#CBD5E1" strokeWidth="0.4" opacity="0.3" />
+
+        {/* Vegetable section (top-left quadrant) */}
+        <path d="M 0 -28 A 32 28 0 0 0 -32 0 L 0 0 Z" fill="url(#nu_r4_veg_section)" opacity="0.6" />
+        {/* Broccoli shapes */}
+        <circle cx="-14" cy="-12" r="4" fill="#22C55E" opacity="0.5" />
+        <circle cx="-10" cy="-8" r="3.5" fill="#16A34A" opacity="0.4" />
+        <circle cx="-18" cy="-6" r="3" fill="#15803D" opacity="0.4" />
+        <line x1="-14" y1="-8" x2="-14" y2="-2" stroke="#166534" strokeWidth="0.8" opacity="0.3" />
+
+        {/* Grain section (bottom-left quadrant) */}
+        <path d="M -32 0 A 32 28 0 0 0 0 28 L 0 0 Z" fill="url(#nu_r4_grain_section)" opacity="0.5" />
+        {/* Rice grains */}
+        <ellipse cx="-12" cy="10" rx="2" ry="0.8" fill="#FEF3C7" opacity="0.4" transform="rotate(-20,-12,10)" />
+        <ellipse cx="-8" cy="14" rx="2" ry="0.8" fill="#FEF3C7" opacity="0.35" transform="rotate(15,-8,14)" />
+        <ellipse cx="-16" cy="16" rx="2" ry="0.8" fill="#FEF3C7" opacity="0.3" transform="rotate(-10,-16,16)" />
+
+        {/* Protein section (bottom-right quadrant) */}
+        <path d="M 0 28 A 32 28 0 0 0 32 0 L 0 0 Z" fill="url(#nu_r4_protein_section)" opacity="0.5" />
+        {/* Meat slice */}
+        <ellipse cx="14" cy="10" rx="8" ry="5" fill="#EF4444" opacity="0.4" />
+        <path d="M 10 10 Q 14 8, 18 10" stroke="#FCA5A5" strokeWidth="0.5" fill="none" opacity="0.3" />
+
+        {/* Fruit section (top-right quadrant) */}
+        <path d="M 32 0 A 32 28 0 0 0 0 -28 L 0 0 Z" fill="url(#nu_r4_fruit_section)" opacity="0.5" />
+        {/* Fruit shapes */}
+        <circle cx="12" cy="-10" r="4" fill="#F97316" opacity="0.4" />
+        <circle cx="18" cy="-6" r="3" fill="#EF4444" opacity="0.4" />
+
+        {/* Divider lines */}
+        <line x1="0" y1="-28" x2="0" y2="28" stroke="#E2E8F0" strokeWidth="0.5" opacity="0.3" />
+        <line x1="-32" y1="0" x2="32" y2="0" stroke="#E2E8F0" strokeWidth="0.5" opacity="0.3" />
       </g>
 
-      {/* Habit badges - bottom */}
-      <g>
-        <rect x="10" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="35" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💤 {l.r4_sleep}</text>
+      {/* ── EXERCISE FIGURE — right side ── */}
+      <g transform="translate(215, 65)">
+        {/* Running stick figure */}
+        {/* Head */}
+        <circle cx="0" cy="-22" r="5" fill="url(#nu_r4_body)" opacity="0.6" />
+        {/* Body */}
+        <line x1="0" y1="-17" x2="0" y2="0" stroke="url(#nu_r4_body)" strokeWidth="2.5" strokeLinecap="round" opacity="0.6" />
+        {/* Arms (running pose) */}
+        <line x1="0" y1="-12" x2="-8" y2="-4" stroke="url(#nu_r4_body)" strokeWidth="2" strokeLinecap="round" opacity="0.6" />
+        <line x1="0" y1="-12" x2="8" y2="-18" stroke="url(#nu_r4_body)" strokeWidth="2" strokeLinecap="round" opacity="0.6" />
+        {/* Legs (running stride) */}
+        <line x1="0" y1="0" x2="-7" y2="12" stroke="url(#nu_r4_body)" strokeWidth="2" strokeLinecap="round" opacity="0.6" />
+        <line x1="0" y1="0" x2="7" y2="10" stroke="url(#nu_r4_body)" strokeWidth="2" strokeLinecap="round" opacity="0.6" />
+        {/* Motion lines */}
+        <line x1="-12" y1="-18" x2="-16" y2="-18" stroke="#22D3EE" strokeWidth="0.6" opacity="0.3" />
+        <line x1="-12" y1="-12" x2="-18" y2="-12" stroke="#22D3EE" strokeWidth="0.6" opacity="0.25" />
+        <line x1="-12" y1="-6" x2="-16" y2="-6" stroke="#22D3EE" strokeWidth="0.6" opacity="0.2" />
       </g>
 
-      <g>
-        <rect x="65" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="90" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">🍽️ {l.r4_slow_eating}</text>
+      {/* ── HEALTHY HABITS indicators — bottom strip ── */}
+      {/* Sleep — moon */}
+      <g transform="translate(30, 130)">
+        <circle cx="0" cy="0" r="10" fill="#312E81" opacity="0.2" />
+        <path d="M -3 -6 Q -8 -4, -8 2 Q -8 8, -2 8 Q 4 8, 6 4 Q 0 6, -2 2 Q -4 -2, -3 -6 Z" fill="#A5B4FC" opacity="0.5" />
+        <circle cx="4" cy="-5" r="0.8" fill="#E0E7FF" opacity="0.4" />
+        <circle cx="6" cy="-2" r="0.5" fill="#E0E7FF" opacity="0.3" />
       </g>
 
-      <g>
-        <rect x="120" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="145" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">⚖️ {l.r4_balance}</text>
+      {/* Slow eating — fork & knife */}
+      <g transform="translate(80, 130)">
+        <circle cx="0" cy="0" r="10" fill="#065F46" opacity="0.2" />
+        {/* Fork */}
+        <line x1="-4" y1="-6" x2="-4" y2="6" stroke="#6EE7B7" strokeWidth="0.8" opacity="0.5" />
+        <line x1="-6" y1="-6" x2="-6" y2="-1" stroke="#6EE7B7" strokeWidth="0.6" opacity="0.4" />
+        <line x1="-2" y1="-6" x2="-2" y2="-1" stroke="#6EE7B7" strokeWidth="0.6" opacity="0.4" />
+        {/* Knife */}
+        <line x1="4" y1="-6" x2="4" y2="6" stroke="#6EE7B7" strokeWidth="1" opacity="0.5" />
+        <path d="M 4 -6 Q 6 -4, 6 -1 L 4 -1 Z" fill="#6EE7B7" opacity="0.3" />
       </g>
 
-      <g>
-        <rect x="175" y="120" width="50" height="25" rx="8" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        <text x="200" y="133" fontSize="5.5" fontWeight="bold" textAnchor="middle" fill="#3B82F6">💪 {l.r4_water}</text>
+      {/* Balanced meals — scale */}
+      <g transform="translate(130, 130)">
+        <circle cx="0" cy="0" r="10" fill="#713F12" opacity="0.2" />
+        {/* Scale beam */}
+        <line x1="-7" y1="-1" x2="7" y2="-1" stroke="#FDE68A" strokeWidth="1" opacity="0.5" />
+        {/* Fulcrum */}
+        <polygon points="0,-1 -2,5 2,5" fill="#FDE68A" opacity="0.4" />
+        {/* Left pan */}
+        <path d="M -8 -1 Q -10 2, -6 2 Z" fill="#FDE68A" opacity="0.4" />
+        {/* Right pan */}
+        <path d="M 8 -1 Q 10 2, 6 2 Z" fill="#FDE68A" opacity="0.4" />
+        {/* Top post */}
+        <line x1="0" y1="-6" x2="0" y2="-1" stroke="#FDE68A" strokeWidth="0.8" opacity="0.4" />
+      </g>
+
+      {/* Exercise — heart */}
+      <g transform="translate(180, 130)">
+        <circle cx="0" cy="0" r="10" fill="#7F1D1D" opacity="0.2" />
+        {/* Heart shape */}
+        <path d="M 0 3 Q -6 -1, -6 -4 Q -6 -7, -3 -7 Q 0 -7, 0 -4 Q 0 -7, 3 -7 Q 6 -7, 6 -4 Q 6 -1, 0 3 Z" fill="#EF4444" opacity="0.4" />
+      </g>
+
+      {/* Water drops — far right bottom */}
+      <g transform="translate(220, 130)">
+        <circle cx="0" cy="0" r="10" fill="#164E63" opacity="0.2" />
+        <path d="M 0 -6 Q -3 -2, -3 1 Q -3 5, 0 6 Q 3 5, 3 1 Q 3 -2, 0 -6 Z" fill="#22D3EE" opacity="0.4" />
+        <ellipse cx="-1" cy="-2" rx="1" ry="1.5" fill="#A5F3FC" opacity="0.3" />
       </g>
     </svg>
   );
