@@ -219,8 +219,11 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
 
   if (!q) return null;
 
+  // Option label letters
+  const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
+
   return (
-    <div className="flex flex-col gap-3 w-full max-w-sm mx-auto relative">
+    <div className="flex flex-col gap-4 w-full max-w-md mx-auto relative">
       {/* ── Close button ── */}
       {onClose && (
         <button onClick={onClose}
@@ -229,43 +232,47 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
         </button>
       )}
 
-      {/* ── Top HUD: Score + Streak ── */}
-      <div className="flex items-center justify-between px-1">
+      {/* ── Top HUD ── */}
+      <div className="flex items-center justify-between px-2">
         {cfg.showScore && (
-          <div className="relative flex items-center gap-1.5">
-            <Trophy size={14} className="text-yellow-400" />
-            <span className="text-sm font-black text-white/80">{scoreRef.current}/{total}</span>
+          <div className="relative flex items-center gap-2 px-3 py-1.5 rounded-full"
+            style={{ background: `${color}15`, border: `1px solid ${color}30` }}>
+            <Trophy size={16} style={{ color }} />
+            <span className="text-sm font-black" style={{ color }}>{scoreRef.current}</span>
+            <span className="text-xs font-bold text-white/30">/ {total}</span>
             <AnimatePresence>
               {showScorePopup && <ScorePopup show={true} color={color} />}
             </AnimatePresence>
           </div>
         )}
-        <div className="flex items-center gap-1.5 text-xs font-bold text-white/40">
-          {idx + 1} / {total}
-        </div>
         {cfg.showStreak && streak >= 2 && (
           <motion.div
-            initial={{ scale: 0, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            className="flex items-center gap-1 px-2 py-0.5 rounded-full"
-            style={{ background: `${color}25`, border: `1px solid ${color}50` }}
+            initial={{ scale: 0, rotate: -20 }}
+            animate={{ scale: 1, rotate: 0 }}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full"
+            style={{ background: "rgba(255,200,0,0.15)", border: "1px solid rgba(255,200,0,0.35)" }}
           >
-            <Zap size={12} style={{ color }} />
-            <span className="text-xs font-black" style={{ color }}>{streak}×</span>
+            <motion.div animate={{ rotate: [0, -10, 10, 0] }} transition={{ duration: 0.4, repeat: Infinity, repeatDelay: 1 }}>
+              <Zap size={14} className="text-yellow-400" />
+            </motion.div>
+            <span className="text-sm font-black text-yellow-400">{streak}×</span>
           </motion.div>
         )}
+        <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5">
+          <span className="text-xs font-black text-white/50">{idx + 1}</span>
+          <span className="text-xs text-white/20">/</span>
+          <span className="text-xs font-bold text-white/30">{total}</span>
+        </div>
       </div>
 
       {/* ── Progress bar ── */}
-      <div className="flex gap-1 px-1">
-        {questions.map((_, i) => (
-          <motion.div
-            key={i}
-            className="flex-1 h-1.5 rounded-full"
-            style={{ background: i < idx ? color : i === idx ? `${color}80` : "rgba(255,255,255,0.08)" }}
-            layoutId={`prog-${i}`}
-          />
-        ))}
+      <div className="relative h-2 rounded-full overflow-hidden mx-2" style={{ background: "rgba(255,255,255,0.06)" }}>
+        <motion.div
+          className="absolute left-0 top-0 h-full rounded-full"
+          style={{ background: `linear-gradient(90deg, ${color}, ${color}cc)`, boxShadow: `0 0 12px ${color}60` }}
+          animate={{ width: `${((idx + (locked ? 1 : 0)) / total) * 100}%` }}
+          transition={{ duration: 0.4, ease: "easeOut" }}
+        />
       </div>
 
       {/* ── Timer bar ── */}
@@ -275,29 +282,34 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
       <AnimatePresence mode="wait">
         <motion.div
           key={idx}
-          initial={{ opacity: 0, y: 20, scale: 0.97 }}
+          initial={{ opacity: 0, y: 30, scale: 0.95 }}
           animate={{ opacity: 1, y: 0, scale: 1 }}
-          exit={{ opacity: 0, y: -20, scale: 0.97 }}
-          transition={{ duration: 0.3, ease: "easeOut" }}
-          className="relative rounded-3xl p-5 min-h-[100px] flex items-center justify-center overflow-hidden"
+          exit={{ opacity: 0, y: -30, scale: 0.95 }}
+          transition={{ duration: 0.35, ease: [0.22, 1, 0.36, 1] }}
+          className="relative rounded-3xl p-6 min-h-[120px] flex items-center justify-center overflow-hidden mx-1"
           style={{
-            background: `linear-gradient(135deg, ${color}10 0%, ${color}05 100%)`,
-            border: `1.5px solid ${color}25`,
-            boxShadow: `0 0 30px ${color}10, inset 0 1px 0 rgba(255,255,255,0.05)`,
+            background: `linear-gradient(160deg, ${color}18 0%, ${color}08 50%, rgba(255,255,255,0.03) 100%)`,
+            border: `2px solid ${color}35`,
+            boxShadow: `0 0 40px ${color}15, 0 8px 32px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.08)`,
           }}
         >
-          {/* Glassmorphism inner glow */}
-          <div className="absolute inset-0 rounded-3xl" style={{
-            background: `radial-gradient(ellipse at 50% 0%, ${color}12 0%, transparent 60%)`,
+          {/* Top accent line */}
+          <div className="absolute top-0 left-[15%] right-[15%] h-[2px] rounded-full" style={{
+            background: `linear-gradient(90deg, transparent, ${color}80, transparent)`,
+          }} />
+
+          {/* Corner glow */}
+          <div className="absolute -top-10 -right-10 w-32 h-32 rounded-full" style={{
+            background: `radial-gradient(circle, ${color}12 0%, transparent 70%)`,
           }} />
 
           <div className="flex items-center gap-3 relative z-10 w-full">
-            <p className="text-lg font-black text-white leading-snug flex-1 text-center">
+            <p className="text-xl font-black text-white leading-snug flex-1 text-center drop-shadow-sm">
               {q.question}
             </p>
             <button onClick={() => speakText(q.question, lang)}
-              className="w-8 h-8 rounded-full bg-white/8 flex items-center justify-center text-white/40 hover:text-white/70 hover:bg-white/15 transition-colors shrink-0">
-              <Volume2 size={14} />
+              className="w-9 h-9 rounded-xl bg-white/8 flex items-center justify-center text-white/40 hover:text-white/70 hover:bg-white/15 transition-all shrink-0 border border-white/10">
+              <Volume2 size={15} />
             </button>
           </div>
 
@@ -317,46 +329,51 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
           key={idx}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: 0.15 }}
-          className={`grid gap-2.5 ${cols === 2 ? "grid-cols-2" : "grid-cols-1"}`}
+          transition={{ delay: 0.12 }}
+          className={`grid gap-3 mx-1 ${cols === 2 ? "grid-cols-2" : "grid-cols-1"}`}
         >
           {q.options.map((opt, i) => {
             const optStr = String(opt);
             const isThis = optStr === selected;
             const isRight = optStr === String(q.correctAnswer);
             const wasWrong = locked && selected !== String(q.correctAnswer);
+            const letter = OPTION_LETTERS[i] || "";
 
-            // ── Button state colors ──
-            let bg = "rgba(255,255,255,0.04)";
-            let border = "rgba(255,255,255,0.10)";
-            let textCol = "rgba(255,255,255,0.85)";
-            let shadow = "none";
-            let glowBg = "transparent";
+            // ── Button state styles ──
+            let bg: string, border: string, textCol: string, shadow: string, letterBg: string, letterCol: string;
 
             if (locked) {
               if (isRight) {
-                bg = "rgba(0,255,136,0.12)";
+                bg = "rgba(0,255,136,0.15)";
                 border = "#00FF88";
                 textCol = "#00FF88";
-                shadow = "0 0 20px rgba(0,255,136,0.25)";
-                glowBg = "radial-gradient(ellipse at 50% 50%, rgba(0,255,136,0.08) 0%, transparent 70%)";
+                shadow = "0 0 24px rgba(0,255,136,0.3), inset 0 0 20px rgba(0,255,136,0.05)";
+                letterBg = "#00FF88"; letterCol = "#000";
               } else if (isThis && !isRight) {
-                bg = "rgba(255,60,60,0.10)";
+                bg = "rgba(255,60,60,0.12)";
                 border = "#FF4444";
                 textCol = "#FF6666";
+                shadow = "0 0 16px rgba(255,60,60,0.2)";
+                letterBg = "#FF4444"; letterCol = "#fff";
               } else if (wasWrong && isRight && cfg.showCorrectOnWrong) {
-                bg = "rgba(0,255,136,0.12)";
+                bg = "rgba(0,255,136,0.15)";
                 border = "#00FF88";
                 textCol = "#00FF88";
+                shadow = "0 0 24px rgba(0,255,136,0.3)";
+                letterBg = "#00FF88"; letterCol = "#000";
               } else {
                 bg = "rgba(255,255,255,0.02)";
                 border = "rgba(255,255,255,0.06)";
-                textCol = "rgba(255,255,255,0.3)";
+                textCol = "rgba(255,255,255,0.25)";
+                shadow = "none";
+                letterBg = "rgba(255,255,255,0.06)"; letterCol = "rgba(255,255,255,0.2)";
               }
             } else {
-              // Hover-ready idle state
-              bg = "rgba(255,255,255,0.04)";
-              border = "rgba(255,255,255,0.10)";
+              bg = "rgba(255,255,255,0.05)";
+              border = "rgba(255,255,255,0.12)";
+              textCol = "rgba(255,255,255,0.9)";
+              shadow = "0 2px 8px rgba(0,0,0,0.2)";
+              letterBg = `${color}25`; letterCol = color;
             }
 
             return (
@@ -364,28 +381,40 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
                 key={i}
                 onClick={() => handleAnswer(optStr)}
                 disabled={locked}
-                className="relative py-3.5 px-4 rounded-2xl font-bold text-sm text-center transition-all overflow-hidden"
-                style={{
-                  background: bg,
-                  border: `2px solid ${border}`,
-                  color: textCol,
-                  boxShadow: shadow,
-                }}
+                className="relative flex items-center gap-3 py-4 px-4 rounded-2xl font-bold text-sm text-left transition-all overflow-hidden"
+                style={{ background: bg, border: `2px solid ${border}`, color: textCol, boxShadow: shadow }}
                 whileHover={!locked ? {
-                  background: `${color}18`,
-                  borderColor: `${color}50`,
+                  borderColor: `${color}70`,
+                  boxShadow: `0 0 20px ${color}20, 0 4px 16px rgba(0,0,0,0.3)`,
                   scale: 1.02,
                 } : {}}
-                whileTap={!locked ? { scale: 0.96 } : {}}
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.1 + i * 0.05 }}
+                whileTap={!locked ? { scale: 0.97 } : {}}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: 0.08 + i * 0.06, type: "spring", stiffness: 300, damping: 25 }}
               >
-                {/* Inner glow for correct */}
+                {/* Letter badge */}
+                <div className="w-8 h-8 rounded-lg flex items-center justify-center font-black text-xs shrink-0 transition-colors"
+                  style={{ background: letterBg, color: letterCol }}>
+                  {letter}
+                </div>
+                <span className="relative z-10 flex-1">{optStr}</span>
+
+                {/* Correct checkmark */}
                 {locked && isRight && (
-                  <div className="absolute inset-0 rounded-2xl pointer-events-none" style={{ background: glowBg }} />
+                  <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="shrink-0">
+                    <div className="w-6 h-6 rounded-full bg-green-500 flex items-center justify-center">
+                      <span className="text-black text-xs font-black">✓</span>
+                    </div>
+                  </motion.div>
                 )}
-                <span className="relative z-10">{optStr}</span>
+                {locked && isThis && !isRight && (
+                  <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="shrink-0">
+                    <div className="w-6 h-6 rounded-full bg-red-500 flex items-center justify-center">
+                      <span className="text-white text-xs font-black">✗</span>
+                    </div>
+                  </motion.div>
+                )}
               </motion.button>
             );
           })}
@@ -396,20 +425,21 @@ function QuizEngine({ questions, color, onDone, onCorrect, onWrong, onClose, con
       <AnimatePresence>
         {locked && (
           <motion.div
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="flex items-center justify-center gap-2 py-1"
+            initial={{ opacity: 0, scale: 0.8, y: 10 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            className="flex items-center justify-center gap-3 py-2 mx-4 rounded-2xl"
+            style={{ background: isCorrect ? "rgba(0,255,136,0.08)" : "rgba(255,60,60,0.08)", border: `1px solid ${isCorrect ? "rgba(0,255,136,0.2)" : "rgba(255,60,60,0.2)"}` }}
           >
             <motion.span
               className="font-black text-sm"
               style={{ color: isCorrect ? "#00FF88" : "#FF6666" }}
-              initial={{ scale: 1.3 }}
+              initial={{ scale: 1.4 }}
               animate={{ scale: 1 }}
             >
               {isCorrect ? `✓ ${t.correct}` : `✗ ${t.wrong}`}
             </motion.span>
             {!isCorrect && cfg.showCorrectOnWrong && (
-              <span className="text-xs text-white/40 font-medium">→ {String(q.correctAnswer)}</span>
+              <span className="text-xs font-bold" style={{ color: "#00FF88" }}>→ {String(q.correctAnswer)}</span>
             )}
           </motion.div>
         )}
