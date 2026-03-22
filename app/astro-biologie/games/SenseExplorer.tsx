@@ -789,63 +789,141 @@ function SvgRound4(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_hand" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FDBA74" />
-          <stop offset="100%" stopColor="#D97706" />
+        <radialGradient id="se_r4_bg" cx="50%" cy="50%" r="65%">
+          <stop offset="0%" stopColor="#1a1a3e" />
+          <stop offset="100%" stopColor="#0a0a1a" />
+        </radialGradient>
+        <linearGradient id="se_r4_skin" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FDEBD0" />
+          <stop offset="50%" stopColor="#E8C9A0" />
+          <stop offset="100%" stopColor="#C9A87C" />
         </linearGradient>
-        <linearGradient id="r4_brain_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FCA5A5" />
+        <radialGradient id="se_r4_flame" cx="50%" cy="80%">
+          <stop offset="0%" stopColor="#FCD34D" />
+          <stop offset="40%" stopColor="#F97316" />
           <stop offset="100%" stopColor="#DC2626" />
+        </radialGradient>
+        <radialGradient id="se_r4_brain" cx="45%" cy="40%">
+          <stop offset="0%" stopColor="#FDA4AF" />
+          <stop offset="40%" stopColor="#F472B6" />
+          <stop offset="70%" stopColor="#DB2777" />
+          <stop offset="100%" stopColor="#9D174D" />
+        </radialGradient>
+        <linearGradient id="se_r4_nerve_up" x1="0%" y1="100%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#22D3EE" />
+          <stop offset="100%" stopColor="#0891B2" />
         </linearGradient>
+        <linearGradient id="se_r4_nerve_down" x1="100%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#34D399" />
+          <stop offset="100%" stopColor="#059669" />
+        </linearGradient>
+        <radialGradient id="se_r4_hot" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="#FEF3C7" />
+          <stop offset="50%" stopColor="#F59E0B" />
+          <stop offset="100%" stopColor="#B45309" />
+        </radialGradient>
+        <linearGradient id="se_r4_spinal" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#E0E7FF" />
+          <stop offset="50%" stopColor="#A5B4FC" />
+          <stop offset="100%" stopColor="#6366F1" />
+        </linearGradient>
+        <filter id="se_r4_glow">
+          <feGaussianBlur stdDeviation="2" />
+        </filter>
+        <filter id="se_r4_flame_glow">
+          <feGaussianBlur stdDeviation="3" />
+        </filter>
       </defs>
 
-      {/* HOT SURFACE — left */}
-      <rect x="20" y="100" width="40" height="30" rx="3" fill="#F87171" opacity="0.7" />
-      <text x="40" y="123" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#fff">🔥</text>
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#se_r4_bg)" rx="6" />
 
-      {/* HAND TOUCHING — left */}
-      <g transform="translate(35, 75)">
-        <rect x="-6" y="-10" width="4" height="14" rx="1.5" fill="url(#r4_hand)" />
-        <circle cx="-4" cy="-12" r="2" fill="url(#r4_hand)" />
-        <rect x="-1" y="-8" width="3" height="12" rx="1.5" fill="url(#r4_hand)" />
-        <circle cx="0.5" cy="-10" r="1.8" fill="url(#r4_hand)" />
-        <rect x="3" y="-6" width="3" height="10" rx="1.5" fill="url(#r4_hand)" />
-        <circle cx="4.5" cy="-8" r="1.8" fill="url(#r4_hand)" />
+      {/* Step 1: HOT SURFACE — bottom left */}
+      {/* Hot plate */}
+      <rect x="10" y="118" width="42" height="8" rx="2" fill="#78350F" />
+      <rect x="12" y="112" width="38" height="8" rx="2" fill="url(#se_r4_hot)" />
+      {/* Heat glow */}
+      <ellipse cx="31" cy="108" rx="18" ry="10" fill="url(#se_r4_flame)" opacity="0.15" filter="url(#se_r4_flame_glow)" />
+      {/* Flame shapes */}
+      <path d="M 24 110 Q 22 100, 26 95 Q 24 102, 28 105 Z" fill="#F97316" opacity="0.7" />
+      <path d="M 31 112 Q 29 98, 33 92 Q 30 100, 34 106 Z" fill="#FBBF24" opacity="0.8" />
+      <path d="M 38 110 Q 36 102, 40 97 Q 37 104, 41 108 Z" fill="#F97316" opacity="0.6" />
+
+      {/* Step 2: FINGER touching hot surface */}
+      <g transform="translate(32, 90)">
+        {/* Finger */}
+        <rect x="-3" y="-18" width="6" height="20" rx="3" fill="url(#se_r4_skin)" />
+        {/* Fingertip */}
+        <ellipse cx="0" cy="-18" rx="3.5" ry="2.5" fill="url(#se_r4_skin)" />
+        {/* Pain indicator — zigzag */}
+        <path d="M 6 -8 L 10 -12 L 8 -6 L 12 -10" stroke="#EF4444" strokeWidth="1.2" fill="none" />
+        <path d="M -6 -10 L -10 -14 L -8 -8 L -12 -12" stroke="#EF4444" strokeWidth="1" fill="none" opacity="0.6" />
       </g>
 
-      {/* NERVE SIGNAL — upward arrow path */}
-      <path d="M 35 65 Q 50 50, 80 35" stroke="#06B6D4" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <circle cx="35" cy="65" r="3" fill="#06B6D4" />
-      <circle cx="50" cy="50" r="2.5" fill="#06B6D4" opacity="0.6" />
-      <circle cx="65" cy="42" r="2" fill="#06B6D4" opacity="0.4" />
+      {/* Pain receptor glow */}
+      <circle cx="32" cy="78" r="5" fill="#EF4444" opacity="0.15" filter="url(#se_r4_glow)" />
+      <circle cx="32" cy="78" r="2" fill="#EF4444" opacity="0.6" />
 
-      {/* BRAIN — right top */}
-      <g transform="translate(145, 35)">
-        <ellipse cx="0" cy="0" rx="20" ry="22" fill="url(#r4_brain_grad)" opacity="0.8" />
-        <path d="M -15 -8 Q -10 -12, -5 -10 Q 0 -14, 5 -10 Q 10 -12, 15 -8" fill="none" stroke="#991B1B" strokeWidth="1.5" opacity="0.6" />
-        <circle cx="-8" cy="2" r="2.5" fill="#991B1B" opacity="0.5" />
-        <circle cx="0" cy="5" r="2.5" fill="#991B1B" opacity="0.5" />
-        <circle cx="8" cy="2" r="2.5" fill="#991B1B" opacity="0.5" />
+      {/* Step 3: SENSORY NERVE — up to spinal cord */}
+      <path d="M 35 72 Q 50 55, 65 45 Q 80 35, 95 32" stroke="url(#se_r4_nerve_up)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      {/* Signal dots traveling up */}
+      <circle cx="45" cy="62" r="2.5" fill="#22D3EE" opacity="0.8" />
+      <circle cx="58" cy="48" r="2" fill="#22D3EE" opacity="0.6" />
+      <circle cx="72" cy="38" r="1.8" fill="#22D3EE" opacity="0.5" />
+      <circle cx="85" cy="34" r="1.5" fill="#22D3EE" opacity="0.4" />
+
+      {/* Step 4: SPINAL CORD — center column */}
+      <rect x="93" y="18" width="10" height="40" rx="5" fill="url(#se_r4_spinal)" />
+      <line x1="98" y1="22" x2="98" y2="54" stroke="#818CF8" strokeWidth="0.6" opacity="0.4" />
+      {/* Vertebra segments */}
+      <line x1="94" y1="28" x2="102" y2="28" stroke="#C7D2FE" strokeWidth="0.5" opacity="0.3" />
+      <line x1="94" y1="38" x2="102" y2="38" stroke="#C7D2FE" strokeWidth="0.5" opacity="0.3" />
+      <line x1="94" y1="48" x2="102" y2="48" stroke="#C7D2FE" strokeWidth="0.5" opacity="0.3" />
+
+      {/* BRAIN — top right */}
+      <g transform="translate(160, 30)">
+        {/* Brain glow */}
+        <ellipse cx="0" cy="0" rx="30" ry="25" fill="url(#se_r4_brain)" opacity="0.12" filter="url(#se_r4_glow)" />
+        {/* Brain shape */}
+        <path d="M -18 -4 Q -20 -14, -12 -18 Q -4 -22, 2 -18 Q 8 -22, 14 -18 Q 22 -14, 20 -4 Q 22 6, 16 12 Q 8 18, 0 16 Q -8 18, -14 12 Q -22 6, -18 -4 Z" fill="url(#se_r4_brain)" />
+        {/* Brain folds (sulci) */}
+        <path d="M -14 -12 Q -8 -16, -2 -12" stroke="#9D174D" strokeWidth="0.8" fill="none" opacity="0.5" />
+        <path d="M 2 -14 Q 8 -18, 14 -12" stroke="#9D174D" strokeWidth="0.8" fill="none" opacity="0.5" />
+        <path d="M -16 -2 Q -10 -6, -4 -2 Q 2 -6, 8 -2 Q 14 -6, 18 -2" stroke="#9D174D" strokeWidth="0.7" fill="none" opacity="0.4" />
+        <path d="M -12 8 Q -6 4, 0 8 Q 6 4, 12 8" stroke="#9D174D" strokeWidth="0.7" fill="none" opacity="0.4" />
+        {/* Cerebellum */}
+        <ellipse cx="2" cy="14" rx="8" ry="4" fill="#BE185D" opacity="0.5" />
+        {/* Brain stem */}
+        <rect x="-2" y="16" width="4" height="6" rx="2" fill="#9D174D" opacity="0.6" />
       </g>
-      <text x="145" y="70" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#DC2626">Brain</text>
 
-      {/* NERVE SIGNAL DOWN — from brain to muscle */}
-      <path d="M 145 57 Q 115 75, 80 95" stroke="#06B6D4" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <circle cx="145" cy="57" r="2.5" fill="#06B6D4" />
-      <circle cx="115" cy="75" r="2" fill="#06B6D4" opacity="0.6" />
+      {/* Connection: spinal cord to brain */}
+      <path d="M 102 22 Q 120 18, 140 20 Q 148 22, 155 26" stroke="#A5B4FC" strokeWidth="2" fill="none" opacity="0.5" />
 
-      {/* ARM PULLING BACK — right */}
-      <g transform="translate(50, 80)">
-        <line x1="0" y1="0" x2="-15" y2="-5" stroke="url(#r4_hand)" strokeWidth="3" strokeLinecap="round" />
-        <circle cx="-16" cy="-6" r="3" fill="url(#r4_hand)" />
-      </g>
+      {/* Step 5: MOTOR NERVE — down from spinal cord to arm */}
+      <path d="M 98 58 Q 110 75, 125 90 Q 140 105, 160 115" stroke="url(#se_r4_nerve_down)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      {/* Signal dots traveling down */}
+      <circle cx="108" cy="72" r="2.5" fill="#34D399" opacity="0.7" />
+      <circle cx="122" cy="88" r="2" fill="#34D399" opacity="0.55" />
+      <circle cx="138" cy="102" r="1.8" fill="#34D399" opacity="0.4" />
 
-      {/* Label text boxes */}
-      <rect x="15" y="50" width="45" height="15" rx="3" fill="#ffffff" stroke="#06B6D4" strokeWidth="1" opacity="0.85" />
-      <text x="37" y="60" textAnchor="middle" fontSize="7" fontWeight="bold" fill="#0369A1">Stimulus</text>
+      {/* Step 6: ARM PULLING AWAY — bottom right */}
+      {/* Arm */}
+      <path d="M 165 118 Q 175 110, 185 108 Q 195 106, 200 110" stroke="url(#se_r4_skin)" strokeWidth="6" fill="none" strokeLinecap="round" />
+      {/* Hand at end */}
+      <circle cx="202" cy="110" r="5" fill="url(#se_r4_skin)" />
+      {/* Movement lines */}
+      <path d="M 210 105 L 218 100" stroke="#34D399" strokeWidth="0.8" opacity="0.5" />
+      <path d="M 210 110 L 220 108" stroke="#34D399" strokeWidth="0.8" opacity="0.4" />
+      <path d="M 210 115 L 218 118" stroke="#34D399" strokeWidth="0.8" opacity="0.3" />
 
-      <rect x="155" y="80" width="50" height="15" rx="3" fill="#ffffff" stroke="#06B6D4" strokeWidth="1" opacity="0.85" />
-      <text x="180" y="90" textAnchor="middle" fontSize="7" fontWeight="bold" fill="#0369A1">Response</text>
+      {/* Muscle contraction indicator */}
+      <ellipse cx="175" cy="112" rx="8" ry="5" fill="#34D399" opacity="0.1" />
+      <ellipse cx="175" cy="112" rx="8" ry="5" fill="none" stroke="#34D399" strokeWidth="0.6" opacity="0.3" />
+
+      {/* Arrow indicators showing flow direction */}
+      <polygon points="82,36 86,33 84,38" fill="#22D3EE" opacity="0.6" />
+      <polygon points="148,108 152,105 150,110" fill="#34D399" opacity="0.6" />
     </svg>
   );
 }

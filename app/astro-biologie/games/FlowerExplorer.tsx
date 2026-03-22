@@ -677,61 +677,151 @@ function SVG_R4(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_seed" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="100%" stopColor="#654321" />
+        <radialGradient id="fl_r4_bg" cx="50%" cy="50%" r="75%">
+          <stop offset="0%" stopColor="#141428" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="fl_r4_seed" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#A1887F" />
+          <stop offset="50%" stopColor="#795548" />
+          <stop offset="100%" stopColor="#4E342E" />
         </linearGradient>
+        <radialGradient id="fl_r4_dandelion" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(255,255,255,0.8)" />
+          <stop offset="60%" stopColor="rgba(220,220,220,0.5)" />
+          <stop offset="100%" stopColor="rgba(200,200,200,0)" />
+        </radialGradient>
+        <linearGradient id="fl_r4_water" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4FC3F7" />
+          <stop offset="100%" stopColor="#0277BD" />
+        </linearGradient>
+        <linearGradient id="fl_r4_coconut" x1="20%" y1="0%" x2="80%" y2="100%">
+          <stop offset="0%" stopColor="#A1887F" />
+          <stop offset="40%" stopColor="#6D4C41" />
+          <stop offset="100%" stopColor="#3E2723" />
+        </linearGradient>
+        <radialGradient id="fl_r4_coconut_shine" cx="30%" cy="25%" r="40%">
+          <stop offset="0%" stopColor="rgba(255,255,255,0.2)" />
+          <stop offset="100%" stopColor="rgba(255,255,255,0)" />
+        </radialGradient>
+        <linearGradient id="fl_r4_fur" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#D7CCC8" />
+          <stop offset="50%" stopColor="#A1887F" />
+          <stop offset="100%" stopColor="#6D4C41" />
+        </linearGradient>
+        <linearGradient id="fl_r4_pod" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#8BC34A" />
+          <stop offset="50%" stopColor="#558B2F" />
+          <stop offset="100%" stopColor="#33691E" />
+        </linearGradient>
+        <filter id="fl_r4_glow">
+          <feGaussianBlur stdDeviation="1" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Panel 1: Wind dispersal (dandelion) */}
-      <text x="30" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
-        Wind
-      </text>
-      <circle cx="30" cy="45" r="6" fill="rgba(200,200,200,0.6)" />
-      {/* Parachute lines */}
-      <line x1="30" y1="39" x2="20" y2="28" stroke="rgba(200,200,200,0.7)" strokeWidth="0.5" />
-      <line x1="30" y1="39" x2="30" y2="28" stroke="rgba(200,200,200,0.7)" strokeWidth="0.5" />
-      <line x1="30" y1="39" x2="40" y2="28" stroke="rgba(200,200,200,0.7)" strokeWidth="0.5" />
-      {/* Seed pod at center */}
-      <circle cx="30" cy="41" r="2" fill="url(#r4_seed)" />
+      <rect width="240" height="160" fill="url(#fl_r4_bg)" />
 
-      {/* Panel 2: Water dispersal (coconut) */}
-      <text x="120" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
-        Water
-      </text>
-      {/* Coconut shape */}
-      <ellipse cx="120" cy="45" rx="8" ry="9" fill="url(#r4_seed)" stroke="#654321" strokeWidth="0.5" />
-      <path d="M 115,35 L 125,35 Q 125,30 120,28 Q 115,30 115,35 Z" fill="#8B6F47" />
-      {/* Water waves */}
-      <path d="M 105,65 Q 110,62 115,65" stroke="rgba(100,200,255,0.5)" strokeWidth="1" fill="none" />
-      <path d="M 120,68 Q 130,65 140,68" stroke="rgba(100,200,255,0.5)" strokeWidth="1" fill="none" />
+      {/* ── PANEL 1 (top-left): Wind — dandelion ── */}
+      {/* Dandelion stem */}
+      <path d="M 50,95 Q 48,75 50,55" stroke="#558B2F" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+      {/* Dandelion seed head — wispy pappus */}
+      <circle cx="50" cy="48" r="18" fill="url(#fl_r4_dandelion)" opacity="0.15" />
+      {/* Individual parachute seeds radiating out */}
+      {[0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330].map((angle, i) => {
+        const rad = (angle * Math.PI) / 180;
+        const r = 14 + (i % 3) * 2;
+        const ex = 50 + r * Math.cos(rad);
+        const ey = 48 + r * Math.sin(rad);
+        return (
+          <g key={`d${i}`}>
+            <line x1="50" y1="48" x2={ex} y2={ey} stroke="rgba(220,220,220,0.3)" strokeWidth="0.3" />
+            <circle cx={ex} cy={ey} r="0.8" fill="rgba(255,255,255,0.6)" />
+          </g>
+        );
+      })}
+      {/* Detached seeds floating away */}
+      <g opacity="0.6">
+        <line x1="28" y1="32" x2="22" y2="22" stroke="rgba(220,220,220,0.4)" strokeWidth="0.3" />
+        <circle cx="22" cy="22" r="0.7" fill="white" opacity="0.7" />
+        <circle cx="28" cy="33" r="1" fill="url(#fl_r4_seed)" />
+        <line x1="18" y1="42" x2="12" y2="34" stroke="rgba(220,220,220,0.35)" strokeWidth="0.3" />
+        <circle cx="12" cy="34" r="0.6" fill="white" opacity="0.6" />
+        <circle cx="18" cy="43" r="0.8" fill="url(#fl_r4_seed)" />
+      </g>
+      {/* Wind streaks */}
+      <path d="M 8,28 Q 18,25 28,28" stroke="rgba(140,200,255,0.2)" strokeWidth="0.8" fill="none" />
+      <path d="M 5,38 Q 15,35 25,38" stroke="rgba(140,200,255,0.15)" strokeWidth="0.7" fill="none" />
 
-      {/* Panel 3: Animal dispersal (burrs) */}
-      <text x="210" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
-        Animal
-      </text>
-      {/* Spiky seed pod */}
-      <circle cx="210" cy="45" r="5" fill="url(#r4_seed)" />
-      <line x1="210" y1="38" x2="210" y2="30" stroke="#654321" strokeWidth="1.5" />
-      <line x1="217" y1="40" x2="223" y2="33" stroke="#654321" strokeWidth="1.5" />
-      <line x1="218" y1="50" x2="224" y2="56" stroke="#654321" strokeWidth="1.5" />
-      <line x1="203" y1="50" x2="197" y2="56" stroke="#654321" strokeWidth="1.5" />
-      <line x1="202" y1="40" x2="196" y2="33" stroke="#654321" strokeWidth="1.5" />
+      {/* ── PANEL 2 (top-right): Water — coconut ── */}
+      {/* Water surface */}
+      <path d="M 130,70 Q 140,66 150,70 Q 160,74 170,70 Q 180,66 190,70 Q 200,74 210,70 Q 220,66 230,70" stroke="url(#fl_r4_water)" strokeWidth="1" fill="none" opacity="0.5" />
+      <path d="M 128,76 Q 138,72 148,76 Q 158,80 168,76 Q 178,72 188,76 Q 198,80 208,76 Q 218,72 228,76" stroke="url(#fl_r4_water)" strokeWidth="0.8" fill="none" opacity="0.3" />
+      {/* Underwater wash */}
+      <ellipse cx="175" cy="78" rx="45" ry="12" fill="rgba(33,150,243,0.08)" />
+      {/* Coconut floating */}
+      <ellipse cx="175" cy="60" rx="14" ry="12" fill="url(#fl_r4_coconut)" />
+      <ellipse cx="175" cy="60" rx="14" ry="12" fill="url(#fl_r4_coconut_shine)" />
+      {/* Three eyes on coconut */}
+      <circle cx="171" cy="56" r="1.5" fill="#3E2723" opacity="0.6" />
+      <circle cx="179" cy="56" r="1.5" fill="#3E2723" opacity="0.6" />
+      <circle cx="175" cy="62" r="1.3" fill="#3E2723" opacity="0.5" />
+      {/* Husk fibers */}
+      <path d="M 168,50 Q 170,46 175,44" stroke="#8D6E63" strokeWidth="0.5" fill="none" opacity="0.5" />
+      <path d="M 182,50 Q 180,46 175,44" stroke="#8D6E63" strokeWidth="0.5" fill="none" opacity="0.5" />
+      {/* Ripples around coconut */}
+      <ellipse cx="175" cy="68" rx="18" ry="3" fill="none" stroke="rgba(79,195,247,0.3)" strokeWidth="0.5" />
+      <ellipse cx="175" cy="70" rx="24" ry="4" fill="none" stroke="rgba(79,195,247,0.2)" strokeWidth="0.4" />
 
-      {/* Bottom panel: Explosion dispersal */}
-      <text x="120" y="125" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
-        Explosion
-      </text>
-      {/* Pod opening */}
-      <path d="M 110,115 Q 115,110 120,115 Q 125,110 130,115" stroke="#7CB342" strokeWidth="1.5" fill="none" />
-      {/* Seeds flying */}
-      <circle cx="100" cy="100" r="1.5" fill="url(#r4_seed)" />
-      <circle cx="140" cy="100" r="1.5" fill="url(#r4_seed)" />
-      <circle cx="110" cy="95" r="1.5" fill="url(#r4_seed)" />
-      <circle cx="130" cy="95" r="1.5" fill="url(#r4_seed)" />
-      {/* Motion lines */}
-      <path d="M 115,115 L 100,100" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" />
-      <path d="M 125,115 L 140,100" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" />
+      {/* ── PANEL 3 (bottom-left): Animal — burr on fur ── */}
+      {/* Animal fur patch */}
+      <ellipse cx="50" cy="130" rx="30" ry="18" fill="url(#fl_r4_fur)" opacity="0.25" />
+      {/* Fur texture lines */}
+      {[30, 35, 40, 45, 50, 55, 60, 65, 70].map((x, i) => (
+        <path key={`f${i}`} d={`M ${x},${118 + (i % 2) * 2} Q ${x + 1},${128} ${x - 1},${140}`} stroke="rgba(161,136,127,0.3)" strokeWidth="0.5" fill="none" />
+      ))}
+      {/* Burr seed — spiky ball */}
+      <circle cx="50" cy="126" r="6" fill="url(#fl_r4_seed)" />
+      {/* Hooks/spines radiating out */}
+      {[0, 40, 80, 120, 160, 200, 240, 280, 320].map((angle, i) => {
+        const rad = (angle * Math.PI) / 180;
+        const sx = 50 + 6 * Math.cos(rad);
+        const sy = 126 + 6 * Math.sin(rad);
+        const ex = 50 + 11 * Math.cos(rad);
+        const ey = 126 + 11 * Math.sin(rad);
+        return <line key={`s${i}`} x1={sx} y1={sy} x2={ex} y2={ey} stroke="#5D4037" strokeWidth="0.8" strokeLinecap="round" />;
+      })}
+      {/* Hook tips */}
+      {[0, 80, 160, 240, 320].map((angle, i) => {
+        const rad = (angle * Math.PI) / 180;
+        const ex = 50 + 11.5 * Math.cos(rad);
+        const ey = 126 + 11.5 * Math.sin(rad);
+        return <circle key={`h${i}`} cx={ex} cy={ey} r="0.6" fill="#4E342E" />;
+      })}
+
+      {/* ── PANEL 4 (bottom-right): Explosion — pod bursting ── */}
+      {/* Pod halves splitting */}
+      <path d="M 175,135 Q 165,128 170,118 Q 172,112 168,108" fill="none" stroke="url(#fl_r4_pod)" strokeWidth="2.5" strokeLinecap="round" />
+      <path d="M 185,135 Q 195,128 190,118 Q 188,112 192,108" fill="none" stroke="url(#fl_r4_pod)" strokeWidth="2.5" strokeLinecap="round" />
+      {/* Pod interior */}
+      <ellipse cx="180" cy="130" rx="6" ry="3" fill="#8BC34A" opacity="0.3" />
+      {/* Seeds flying outward with motion trails */}
+      <circle cx="155" cy="105" r="2" fill="url(#fl_r4_seed)" />
+      <path d="M 168,112 L 157,106" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+      <circle cx="205" cy="105" r="2" fill="url(#fl_r4_seed)" />
+      <path d="M 192,112 L 203,106" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+      <circle cx="160" cy="118" r="1.8" fill="url(#fl_r4_seed)" />
+      <path d="M 170,120 L 162,118" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
+      <circle cx="200" cy="118" r="1.8" fill="url(#fl_r4_seed)" />
+      <path d="M 190,120 L 198,118" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
+      <circle cx="180" cy="100" r="1.5" fill="url(#fl_r4_seed)" />
+      <path d="M 180,110 L 180,102" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
+      {/* Burst energy */}
+      <circle cx="180" cy="122" r="4" fill="rgba(139,195,74,0.15)" filter="url(#fl_r4_glow)" />
+
+      {/* Panel divider lines */}
+      <line x1="120" y1="5" x2="120" y2="95" stroke="rgba(255,255,255,0.05)" strokeWidth="0.5" />
+      <line x1="5" y1="95" x2="235" y2="95" stroke="rgba(255,255,255,0.05)" strokeWidth="0.5" />
     </svg>
   );
 }
@@ -740,50 +830,86 @@ function SVG_R5(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_petal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF69B4" />
-          <stop offset="100%" stopColor="#FF1493" />
+        <radialGradient id="fl_r5_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a2a1a" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="fl_r5_petal" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF8AC5" />
+          <stop offset="30%" stopColor="#FF69B4" />
+          <stop offset="70%" stopColor="#FF1493" />
+          <stop offset="100%" stopColor="#C71076" />
         </linearGradient>
-        <linearGradient id="r5_stamen" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#FFA500" />
-        </linearGradient>
-        <linearGradient id="r5_pistil" x1="0%" y1="0%" x2="100%" y2="100%">
+        <radialGradient id="fl_r5_center" cx="50%" cy="40%" r="50%">
+          <stop offset="0%" stopColor="#FFEE88" />
+          <stop offset="60%" stopColor="#FFD700" />
+          <stop offset="100%" stopColor="#CC9900" />
+        </radialGradient>
+        <linearGradient id="fl_r5_pistil" x1="50%" y1="0%" x2="50%" y2="100%">
           <stop offset="0%" stopColor="#90EE90" />
-          <stop offset="100%" stopColor="#228B22" />
+          <stop offset="50%" stopColor="#4CAF50" />
+          <stop offset="100%" stopColor="#1B5E20" />
         </linearGradient>
+        <linearGradient id="fl_r5_sepal" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8BC34A" />
+          <stop offset="100%" stopColor="#33691E" />
+        </linearGradient>
+        <linearGradient id="fl_r5_stem" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#4CAF50" />
+          <stop offset="100%" stopColor="#2E7D32" />
+        </linearGradient>
+        <filter id="fl_r5_qglow">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Unlabeled flower for quiz */}
-      <circle cx="120" cy="70" r="8" fill="url(#r5_stamen)" />
-      <ellipse cx="100" cy="50" rx="16" ry="24" fill="url(#r5_petal)" opacity="0.85" />
-      <ellipse cx="140" cy="50" rx="16" ry="24" fill="url(#r5_petal)" opacity="0.85" />
-      <ellipse cx="120" cy="25" rx="16" ry="24" fill="url(#r5_petal)" opacity="0.85" />
-      <ellipse cx="120" cy="90" rx="16" ry="24" fill="url(#r5_petal)" opacity="0.85" />
-
-      {/* Sepal parts */}
-      <path d="M 100,60 Q 85,65 80,75" stroke="#7CB342" strokeWidth="1.5" fill="none" opacity="0.7" />
-      <path d="M 140,60 Q 155,65 160,75" stroke="#7CB342" strokeWidth="1.5" fill="none" opacity="0.7" />
-      <path d="M 120,35 Q 110,25 100,20" stroke="#7CB342" strokeWidth="1.5" fill="none" opacity="0.7" />
-
-      {/* Pistil at bottom */}
-      <path d="M 120,78 L 118,110 Q 120,115 122,110 Z" fill="url(#r5_pistil)" stroke="#228B22" strokeWidth="0.5" />
-      <circle cx="120" cy="110" r="3.5" fill="#FFB6C1" stroke="#228B22" strokeWidth="0.5" />
+      <rect width="240" height="160" fill="url(#fl_r5_bg)" />
+      <ellipse cx="120" cy="70" rx="55" ry="50" fill="#FF69B4" opacity="0.04" />
 
       {/* Stem */}
-      <line x1="120" y1="115" x2="120" y2="150" stroke="#7CB342" strokeWidth="2" />
-      <ellipse cx="130" cy="130" rx="6" ry="4" fill="#7CB342" opacity="0.6" />
+      <path d="M 120,108 Q 118,125 116,150" stroke="url(#fl_r5_stem)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <path d="M 117,130 Q 100,122 95,128 Q 102,132 117,130 Z" fill="url(#fl_r5_sepal)" opacity="0.7" />
 
-      {/* Question marks near unlabeled parts */}
-      <text x="95" y="42" fontSize="16" fill="white" opacity="0.6">
-        ?
-      </text>
-      <text x="125" y="12" fontSize="16" fill="white" opacity="0.6">
-        ?
-      </text>
-      <text x="120" y="105" fontSize="16" fill="white" opacity="0.6">
-        ?
-      </text>
+      {/* Sepals */}
+      <path d="M 120,72 Q 82,54 74,68 Q 86,58 102,66 Z" fill="url(#fl_r5_sepal)" opacity="0.75" />
+      <path d="M 120,72 Q 158,54 166,68 Q 154,58 138,66 Z" fill="url(#fl_r5_sepal)" opacity="0.75" />
+
+      {/* 5 Petals */}
+      <ellipse cx="120" cy="38" rx="19" ry="27" fill="url(#fl_r5_petal)" opacity="0.88" />
+      <ellipse cx="145" cy="55" rx="17" ry="25" transform="rotate(35 145 55)" fill="url(#fl_r5_petal)" opacity="0.84" />
+      <ellipse cx="95" cy="55" rx="17" ry="25" transform="rotate(-35 95 55)" fill="url(#fl_r5_petal)" opacity="0.84" />
+      <ellipse cx="138" cy="88" rx="15" ry="22" transform="rotate(20 138 88)" fill="url(#fl_r5_petal)" opacity="0.80" />
+      <ellipse cx="102" cy="88" rx="15" ry="22" transform="rotate(-20 102 88)" fill="url(#fl_r5_petal)" opacity="0.80" />
+
+      {/* Center stamens */}
+      <circle cx="120" cy="70" r="8" fill="url(#fl_r5_center)" />
+      <line x1="120" y1="70" x2="112" y2="58" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
+      <line x1="120" y1="70" x2="128" y2="58" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
+      <line x1="120" y1="70" x2="120" y2="56" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
+      <circle cx="112" cy="57" r="2.5" fill="#FFD700" />
+      <circle cx="128" cy="57" r="2.5" fill="#FFD700" />
+      <circle cx="120" cy="55" r="2.5" fill="#FFD700" />
+
+      {/* Pistil */}
+      <path d="M 120,72 L 119,95 Q 120,97 121,95 Z" fill="url(#fl_r5_pistil)" />
+      <ellipse cx="120" cy="100" rx="7" ry="5" fill="#66BB6A" stroke="#2E7D32" strokeWidth="0.4" />
+
+      {/* Question mark indicators — glowing circles with ? shapes */}
+      <circle cx="42" cy="28" r="8" fill="rgba(255,105,180,0.15)" stroke="rgba(255,105,180,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
+      <path d="M 39,25 Q 39,22 42,22 Q 45,22 45,25 Q 45,27 42,28 L 42,30" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
+      <circle cx="42" cy="32" r="0.6" fill="rgba(255,255,255,0.6)" />
+      <line x1="50" y1="28" x2="82" y2="42" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
+
+      <circle cx="195" cy="42" r="8" fill="rgba(255,215,0,0.15)" stroke="rgba(255,215,0,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
+      <path d="M 192,39 Q 192,36 195,36 Q 198,36 198,39 Q 198,41 195,42 L 195,44" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
+      <circle cx="195" cy="46" r="0.6" fill="rgba(255,255,255,0.6)" />
+      <line x1="187" y1="42" x2="140" y2="56" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
+
+      <circle cx="60" cy="118" r="8" fill="rgba(102,187,106,0.15)" stroke="rgba(102,187,106,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
+      <path d="M 57,115 Q 57,112 60,112 Q 63,112 63,115 Q 63,117 60,118 L 60,120" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
+      <circle cx="60" cy="122" r="0.6" fill="rgba(255,255,255,0.6)" />
+      <line x1="68" y1="118" x2="110" y2="100" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
     </svg>
   );
 }

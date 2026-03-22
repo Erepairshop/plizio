@@ -521,176 +521,183 @@ function SVG_R2(lang: string = "en"): React.ReactNode {
 }
 
 function SVG_R3(lang: string = "en"): React.ReactNode {
-  const lb: Record<string,{cold:string;warm:string}> = {
-    en:{cold:"Cold 🥶",warm:"Warm 🔥"},de:{cold:"Kalt 🥶",warm:"Warm 🔥"},
-    hu:{cold:"Hideg 🥶",warm:"Meleg 🔥"},ro:{cold:"Rece 🥶",warm:"Cald 🔥"},
-  };
-  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        {/* Background gradients */}
         <linearGradient id="r3_cold_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#3F51B5" />
-          <stop offset="100%" stopColor="#5C6BC0" />
+          <stop offset="0%" stopColor="#1A237E" />
+          <stop offset="40%" stopColor="#283593" />
+          <stop offset="100%" stopColor="#3F51B5" />
         </linearGradient>
         <linearGradient id="r3_warm_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF7043" />
-          <stop offset="100%" stopColor="#FF5722" />
+          <stop offset="0%" stopColor="#BF360C" />
+          <stop offset="40%" stopColor="#E65100" />
+          <stop offset="100%" stopColor="#FF7043" />
         </linearGradient>
-
-        {/* Snake */}
-        <linearGradient id="r3_snake_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#7FBF3F" />
+        <linearGradient id="r3_therm_tube" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#E0E0E0" />
+          <stop offset="50%" stopColor="#F5F5F5" />
+          <stop offset="100%" stopColor="#BDBDBD" />
+        </linearGradient>
+        <linearGradient id="r3_merc_cold" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#42A5F5" />
+          <stop offset="100%" stopColor="#1E88E5" />
+        </linearGradient>
+        <linearGradient id="r3_merc_warm" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="100%" stopColor="#D32F2F" />
+        </linearGradient>
+        <linearGradient id="r3_snake_body" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8BD44F" />
+          <stop offset="40%" stopColor="#6BA82F" />
+          <stop offset="100%" stopColor="#4A7A20" />
+        </linearGradient>
+        <linearGradient id="r3_snake_pat" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#558B2F" />
+          <stop offset="50%" stopColor="#33691E" />
           <stop offset="100%" stopColor="#558B2F" />
         </linearGradient>
-
-        {/* Crocodile */}
-        <linearGradient id="r3_croc_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#2E7D32" />
-          <stop offset="100%" stopColor="#1B5E20" />
+        <linearGradient id="r3_robin" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#795548" />
+          <stop offset="100%" stopColor="#5D4037" />
         </linearGradient>
-
-        {/* Eagle */}
-        <linearGradient id="r3_eagle_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="100%" stopColor="#654321" />
-        </linearGradient>
-
-        {/* Penguin */}
-        <linearGradient id="r3_penguin_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#000000" />
-          <stop offset="100%" stopColor="#1a1a1a" />
-        </linearGradient>
+        <radialGradient id="r3_snow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(200,220,255,0.15)" />
+          <stop offset="100%" stopColor="rgba(200,220,255,0)" />
+        </radialGradient>
+        <radialGradient id="r3_heat" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(255,150,50,0.2)" />
+          <stop offset="100%" stopColor="rgba(255,150,50,0)" />
+        </radialGradient>
       </defs>
 
       {/* Split backgrounds */}
       <rect x="0" y="0" width="120" height="160" fill="url(#r3_cold_bg)" />
       <rect x="120" y="0" width="120" height="160" fill="url(#r3_warm_bg)" />
+      <rect x="118" y="0" width="4" height="160" fill="rgba(0,0,0,0.1)" />
 
-      {/* LEFT COLUMN - COLD BLOODED ANIMALS */}
-
-      {/* SNAKE - S-shaped curve */}
-      <g transform="translate(25, 65)">
-        {/* Shadow */}
-        <ellipse cx="15" cy="22" rx="22" ry="5" fill="rgba(0,0,0,0.15)" />
-
-        {/* Snake body - organic S curve */}
-        <path d="M 0,0 Q 8,-8 12,-2 Q 15,4 10,10 Q 5,12 2,8" stroke="url(#r3_snake_body)" strokeWidth="4" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-
-        {/* Scale texture pattern on snake */}
-        <path d="M 2,-3 Q 3,-2 4,-3" stroke="#33691E" strokeWidth="0.6" fill="none" opacity="0.6" />
-        <path d="M 6,-6 Q 7,-5 8,-6" stroke="#33691E" strokeWidth="0.6" fill="none" opacity="0.6" />
-        <path d="M 10,-2 Q 11,-1 12,-2" stroke="#33691E" strokeWidth="0.6" fill="none" opacity="0.6" />
-        <path d="M 12,4 Q 13,5 14,4" stroke="#33691E" strokeWidth="0.6" fill="none" opacity="0.6" />
-        <path d="M 8,11 Q 9,12 10,11" stroke="#33691E" strokeWidth="0.6" fill="none" opacity="0.6" />
-
-        {/* Head - small circle */}
-        <circle cx="0" cy="0" r="3" fill="url(#r3_snake_body)" />
-
-        {/* Forked tongue */}
-        <path d="M 1,2 L -2,5 M 1,2 L 3,5" stroke="#FF6B6B" strokeWidth="0.8" strokeLinecap="round" />
-
-        {/* Eye - full anatomy */}
-        <circle cx="1.5" cy="-1.5" r="1.8" fill="#f0f9ff" />
-        <circle cx="1.5" cy="-1.5" r="1.2" fill="#1e3a5f" />
-        <circle cx="1.5" cy="-1.5" r="0.7" fill="#0c1829" />
-        <circle cx="1.5" cy="-1.5" r="1.1" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.25" />
-        <circle cx="2.3" cy="-2.3" r="0.6" fill="white" opacity="0.85" />
+      {/* Snowflake particles on cold side */}
+      <g opacity="0.5" fill="white">
+        <circle cx="15" cy="20" r="1.2" /><circle cx="45" cy="35" r="0.8" />
+        <circle cx="80" cy="15" r="1" /><circle cx="30" cy="55" r="0.7" />
+        <circle cx="95" cy="45" r="1.1" /><circle cx="55" cy="70" r="0.6" />
+        <circle cx="10" cy="80" r="0.9" /><circle cx="70" cy="25" r="0.5" />
       </g>
 
-      {/* CROCODILE */}
-      <g transform="translate(50, 105)">
-        {/* Shadow */}
-        <ellipse cx="8" cy="15" rx="20" ry="4" fill="rgba(0,0,0,0.15)" />
+      {/* Heat shimmer on warm side */}
+      <circle cx="180" cy="30" r="30" fill="url(#r3_heat)" />
 
-        {/* Body - long ellipse */}
-        <ellipse cx="0" cy="0" rx="20" ry="7" fill="url(#r3_croc_body)" />
+      {/* LEFT: SNAKE on cold rock */}
+      <g transform="translate(15, 58)">
+        {/* Rock */}
+        <ellipse cx="40" cy="35" rx="35" ry="12" fill="#3949AB" opacity="0.4" />
+        <ellipse cx="40" cy="35" rx="35" ry="12" fill="rgba(255,255,255,0.05)" />
 
-        {/* Back ridges (armor) */}
-        <path d="M -15,-4 L -13,-8 M -8,-4 L -8,-8 M -2,-4 L -2,-8 M 4,-4 L 4,-8 M 10,-4 L 10,-8" stroke="#1B5E20" strokeWidth="1.2" strokeLinecap="round" />
-
-        {/* Snout - triangular */}
-        <polygon points="20,0 27,-2 27,2" fill="#2E7D32" />
-
-        {/* Four short legs */}
-        <path d="M -12,6 L -14,12" strokeWidth="1.5" stroke="#1B5E20" strokeLinecap="round" />
-        <path d="M -4,6 L -4,12" strokeWidth="1.5" stroke="#1B5E20" strokeLinecap="round" />
-        <path d="M 4,6 L 4,12" strokeWidth="1.5" stroke="#1B5E20" strokeLinecap="round" />
-        <path d="M 12,6 L 14,12" strokeWidth="1.5" stroke="#1B5E20" strokeLinecap="round" />
-
-        {/* Eye - full anatomy */}
-        <circle cx="10" cy="-3.5" r="2" fill="#f0f9ff" />
-        <circle cx="10" cy="-3.5" r="1.4" fill="#1e3a5f" />
-        <circle cx="10" cy="-3.5" r="0.85" fill="#0c1829" />
-        <circle cx="10" cy="-3.5" r="1.3" fill="none" stroke="rgba(34,211,238,0.25)" strokeWidth="0.25" />
-        <circle cx="10.7" cy="-4.2" r="0.5" fill="white" opacity="0.8" />
-      </g>
-
-      {/* RIGHT COLUMN - WARM BLOODED ANIMALS */}
-
-      {/* EAGLE */}
-      <g transform="translate(160, 70)">
-        {/* Shadow */}
-        <ellipse cx="0" cy="22" rx="18" ry="4" fill="rgba(0,0,0,0.12)" />
-
-        {/* Body */}
-        <ellipse cx="0" cy="0" rx="12" ry="10" fill="url(#r3_eagle_body)" />
-
-        {/* Wings */}
-        <path d="M -10,-3 Q -16,-7 -20,-4 Q -16,-1 -10,1" fill="#654321" />
-        <path d="M 10,-3 Q 16,-7 20,-4 Q 16,-1 10,1" fill="#654321" />
-
-        {/* Wing feathers */}
-        <path d="M -16,-6 L -17,-9" stroke="#4A3728" strokeWidth="0.7" strokeLinecap="round" />
-        <path d="M -12,-7 L -13,-10" stroke="#4A3728" strokeWidth="0.7" strokeLinecap="round" />
+        {/* Snake body - S curve with thickness variation */}
+        <path d="M 5,8 Q 15,-5 25,0 Q 35,5 30,18 Q 25,28 15,25 Q 8,22 10,15" stroke="url(#r3_snake_body)" strokeWidth="5.5" fill="none" strokeLinecap="round" />
+        {/* Diamond pattern on back */}
+        <g fill="url(#r3_snake_pat)" opacity="0.5">
+          <path d="M 8,5 L 10,3 L 12,5 L 10,7 Z" />
+          <path d="M 16,-2 L 18,-4 L 20,-2 L 18,0 Z" />
+          <path d="M 26,2 L 28,0 L 30,2 L 28,4 Z" />
+          <path d="M 30,12 L 32,10 L 34,12 L 32,14 Z" />
+          <path d="M 26,22 L 28,20 L 30,22 L 28,24 Z" />
+        </g>
+        {/* Belly stripe */}
+        <path d="M 5,8 Q 15,-5 25,0 Q 35,5 30,18 Q 25,28 15,25" stroke="#C8E07F" strokeWidth="1.5" fill="none" opacity="0.3" />
 
         {/* Head */}
-        <circle cx="2" cy="-8" r="5" fill="#5D2E0F" />
+        <path d="M 5,8 Q 0,5 -2,8 Q -3,12 1,13 Q 4,12 5,8" fill="url(#r3_snake_body)" />
+        {/* Eye - vertical slit */}
+        <circle cx="0" cy="8" r="2" fill="#D4E060" />
+        <ellipse cx="0" cy="8" rx="0.6" ry="1.6" fill="#1a1a0a" />
+        <circle cx="0.5" cy="7.3" r="0.5" fill="white" opacity="0.8" />
+        {/* Tongue */}
+        <path d="M -2,11 L -5,13 M -2,11 L -4,14" stroke="#E84040" strokeWidth="0.7" strokeLinecap="round" fill="none" />
+      </g>
 
+      {/* LEFT: Thermometer showing LOW */}
+      <g transform="translate(90, 20)">
+        {/* Tube */}
+        <rect x="-3" y="0" width="6" height="50" rx="3" fill="url(#r3_therm_tube)" />
+        {/* Bulb */}
+        <circle cx="0" cy="55" r="6" fill="url(#r3_therm_tube)" />
+        {/* Mercury - LOW level (cold) */}
+        <rect x="-1.5" y="30" width="3" height="20" rx="1.5" fill="url(#r3_merc_cold)" />
+        <circle cx="0" cy="55" r="4" fill="url(#r3_merc_cold)" />
+        {/* Scale marks */}
+        <g stroke="rgba(0,0,0,0.2)" strokeWidth="0.5">
+          <line x1="4" y1="8" x2="7" y2="8" /><line x1="4" y1="16" x2="7" y2="16" />
+          <line x1="4" y1="24" x2="7" y2="24" /><line x1="4" y1="32" x2="7" y2="32" />
+          <line x1="4" y1="40" x2="7" y2="40" />
+        </g>
+        {/* Snowflake near thermometer */}
+        <g transform="translate(-15, 5)" stroke="#90CAF9" strokeWidth="0.8" opacity="0.6">
+          <line x1="0" y1="-4" x2="0" y2="4" /><line x1="-3.5" y1="-2" x2="3.5" y2="2" /><line x1="-3.5" y1="2" x2="3.5" y2="-2" />
+        </g>
+      </g>
+
+      {/* RIGHT: ROBIN on branch */}
+      <g transform="translate(155, 55)">
+        {/* Branch */}
+        <path d="M -15,25 Q 0,22 15,25" stroke="#5D4037" strokeWidth="3" strokeLinecap="round" fill="none" />
+
+        {/* Body */}
+        <ellipse cx="0" cy="10" rx="10" ry="12" fill="url(#r3_robin)" />
+        {/* Red breast */}
+        <ellipse cx="2" cy="14" rx="6" ry="7" fill="#E53935" opacity="0.85" />
+        {/* Wing */}
+        <path d="M -6,6 Q -12,8 -14,14 Q -10,16 -6,14 Z" fill="#4E342E" />
+        <path d="M -10,10 L -12,14" stroke="#3E2723" strokeWidth="0.5" opacity="0.4" />
+
+        {/* Head */}
+        <circle cx="3" cy="0" r="6" fill="url(#r3_robin)" />
+        {/* Eye */}
+        <circle cx="6" cy="-2" r="2" fill="#f0f9ff" />
+        <circle cx="6" cy="-2" r="1.3" fill="#1a1a1a" />
+        <circle cx="6.8" cy="-2.8" r="0.5" fill="white" opacity="0.85" />
         {/* Beak */}
-        <path d="M 6,-8 L 11,-8 L 7,-6 Z" fill="#FFB300" />
+        <path d="M 8,-1 L 13,-1 L 10,1 Z" fill="#FF8F00" />
 
-        {/* Eye - full anatomy */}
-        <circle cx="5" cy="-9.5" r="1.8" fill="#f0f9ff" />
-        <circle cx="5" cy="-9.5" r="1.2" fill="#1e3a5f" />
-        <circle cx="5" cy="-9.5" r="0.75" fill="#0c1829" />
-        <circle cx="5" cy="-9.5" r="1.1" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.25" />
-        <circle cx="5.7" cy="-10.2" r="0.5" fill="white" opacity="0.85" />
+        {/* Tail */}
+        <path d="M -4,20 L -8,28" stroke="#5D4037" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M -2,20 L -4,27" stroke="#4E342E" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+
+        {/* Heat waves around bird */}
+        <g stroke="rgba(255,200,100,0.3)" strokeWidth="0.8" fill="none">
+          <path d="M 14,5 Q 16,3 18,5" /><path d="M 16,0 Q 18,-2 20,0" />
+          <path d="M -14,5 Q -16,3 -18,5" /><path d="M -16,0 Q -18,-2 -20,0" />
+        </g>
       </g>
 
-      {/* PENGUIN */}
-      <g transform="translate(170, 110)">
-        {/* Shadow */}
-        <ellipse cx="0" cy="18" rx="12" ry="4" fill="rgba(0,0,0,0.12)" />
-
-        {/* Body - dark back */}
-        <ellipse cx="0" cy="0" rx="8" ry="11" fill="url(#r3_penguin_body)" />
-
-        {/* Belly - white */}
-        <ellipse cx="0" cy="2" rx="5" ry="7" fill="#f0f9ff" />
-
-        {/* Head - rounded */}
-        <circle cx="0" cy="-9" r="5" fill="#000000" />
-
-        {/* Beak - small orange */}
-        <polygon points="-1,-7 1,-7 0,-5" fill="#FFB300" />
-
-        {/* Flippers */}
-        <path d="M -6,0 L -10,4" strokeWidth="2" stroke="#000000" strokeLinecap="round" />
-        <path d="M 6,0 L 10,4" strokeWidth="2" stroke="#000000" strokeLinecap="round" />
-
-        {/* Eye - full anatomy */}
-        <circle cx="2" cy="-11" r="1.6" fill="#f0f9ff" />
-        <circle cx="2" cy="-11" r="1" fill="#1e3a5f" />
-        <circle cx="2" cy="-11" r="0.6" fill="#0c1829" />
-        <circle cx="2" cy="-11" r="0.95" fill="none" stroke="rgba(34,211,238,0.25)" strokeWidth="0.2" />
-        <circle cx="2.6" cy="-11.6" r="0.4" fill="white" opacity="0.8" />
+      {/* RIGHT: Thermometer showing HIGH */}
+      <g transform="translate(220, 20)">
+        <rect x="-3" y="0" width="6" height="50" rx="3" fill="url(#r3_therm_tube)" />
+        <circle cx="0" cy="55" r="6" fill="url(#r3_therm_tube)" />
+        {/* Mercury - HIGH level (warm) */}
+        <rect x="-1.5" y="8" width="3" height="42" rx="1.5" fill="url(#r3_merc_warm)" />
+        <circle cx="0" cy="55" r="4" fill="url(#r3_merc_warm)" />
+        {/* Scale marks */}
+        <g stroke="rgba(0,0,0,0.2)" strokeWidth="0.5">
+          <line x1="4" y1="8" x2="7" y2="8" /><line x1="4" y1="16" x2="7" y2="16" />
+          <line x1="4" y1="24" x2="7" y2="24" /><line x1="4" y1="32" x2="7" y2="32" />
+          <line x1="4" y1="40" x2="7" y2="40" />
+        </g>
+        {/* Small sun near thermometer */}
+        <circle cx="-12" cy="5" r="4" fill="#FFAB00" opacity="0.5" />
+        <g stroke="#FFAB00" strokeWidth="0.6" opacity="0.4">
+          <line x1="-12" y1="-1" x2="-12" y2="0" /><line x1="-12" y1="10" x2="-12" y2="11" />
+          <line x1="-7" y1="5" x2="-6" y2="5" /><line x1="-18" y1="5" x2="-17" y2="5" />
+        </g>
       </g>
 
-      {/* Labels */}
-      <text x="60" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.cold}</text>
-      <text x="180" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.warm}</text>
+      {/* Divider icon: VS */}
+      <circle cx="120" cy="80" r="10" fill="rgba(0,0,0,0.3)" />
+      <circle cx="120" cy="80" r="8" fill="rgba(255,255,255,0.1)" />
+
+      {/* Ground on both sides */}
+      <path d="M 0 145 Q 30 140 60 143 Q 90 146 120 145" fill="rgba(200,220,255,0.1)" />
+      <path d="M 120 145 Q 150 140 180 143 Q 210 146 240 145 L 240 160 L 120 160 Z" fill="rgba(255,150,50,0.08)" />
     </svg>
   );
 }
