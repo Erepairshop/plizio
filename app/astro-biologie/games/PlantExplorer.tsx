@@ -537,187 +537,369 @@ function SVG_R2(lang: string): React.ReactNode {
 
 /** Round 3 SVG: Water transport (root → stem → leaf) with order sequence */
 function SVG_R3(lang: string): React.ReactNode {
-  const l = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_rootGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B5A3C" />
-          <stop offset="100%" stopColor="#5D3A1F" />
+        <linearGradient id="p3_bg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E0F0FF" /><stop offset="65%" stopColor="#E0F0FF" /><stop offset="65%" stopColor="#8B6E50" /><stop offset="100%" stopColor="#4A3520" />
         </linearGradient>
-        <linearGradient id="r3_stemGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#4A8B4A" />
-          <stop offset="100%" stopColor="#3A6B3A" />
+        <linearGradient id="p3_root" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#A07050" /><stop offset="100%" stopColor="#6B4530" />
         </linearGradient>
-        <linearGradient id="r3_leafGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#6BCB77" />
-          <stop offset="100%" stopColor="#4D9B5C" />
+        <linearGradient id="p3_stem" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#2E7D32" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#388E3C" />
         </linearGradient>
-        <marker id="arrowhead_r3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#4DB8FF" />
+        <linearGradient id="p3_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#2E7D32" />
+        </linearGradient>
+        <marker id="p3_arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+          <polygon points="0 0.5, 6 3, 0 5.5" fill="#42A5F5" />
         </marker>
       </defs>
 
-      {/* Soil */}
-      <rect x="20" y="115" width="200" height="35" fill="#6B4423" rx="4" />
+      <rect width="240" height="160" fill="url(#p3_bg)" />
 
-      {/* Root */}
-      <circle cx="60" cy="120" r="12" fill="url(#r3_rootGrad)" />
-      <text x="60" y="125" textAnchor="middle" fontSize="14" fontWeight="bold" fill="white">
-        1
-      </text>
+      {/* Soil surface line */}
+      <path d="M 0 104 Q 60 100 120 104 Q 180 108 240 104" fill="none" stroke="rgba(100,80,50,0.3)" strokeWidth="1" />
 
-      {/* Stem (vertical with arrows) */}
-      <rect x="110" y="40" width="14" height="90" fill="url(#r3_stemGrad)" rx="4" />
-      <text x="117" y="90" textAnchor="middle" fontSize="14" fontWeight="bold" fill="white">
-        2
-      </text>
+      {/* ROOT ZONE — underground */}
+      <g transform="translate(50, 120)">
+        {/* Root system */}
+        <path d="M 0,-16 Q -2,-8 0,0 Q 1,8 0,14" stroke="url(#p3_root)" strokeWidth="4" fill="none" strokeLinecap="round" />
+        <path d="M 0,-5 Q -10,0 -18,8" stroke="url(#p3_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+        <path d="M 0,-5 Q 10,0 18,8" stroke="url(#p3_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+        <path d="M 0,5 Q -8,10 -14,16" stroke="url(#p3_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
+        <path d="M 0,5 Q 8,10 14,16" stroke="url(#p3_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
+        {/* Root hairs */}
+        <g stroke="#A08060" strokeWidth="0.5" opacity="0.5">
+          <path d="M -15,6 L -18,8" /><path d="M -12,3 L -15,5" />
+          <path d="M 15,6 L 18,8" /><path d="M 12,3 L 15,5" />
+        </g>
+        {/* Water arrows entering roots */}
+        <g fill="rgba(66,165,245,0.4)">
+          <circle cx="-22" cy="10" r="2" /><circle cx="-20" cy="6" r="1.5" />
+          <circle cx="22" cy="10" r="2" /><circle cx="20" cy="6" r="1.5" />
+          <circle cx="-16" cy="18" r="1.5" /><circle cx="16" cy="18" r="1.5" />
+        </g>
+        {/* Step number */}
+        <circle cx="0" cy="-16" r="8" fill="rgba(139,90,60,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
+      </g>
 
-      {/* Leaf */}
-      <ellipse cx="170" cy="50" rx="22" ry="28" fill="url(#r3_leafGrad3)" />
-      <text x="170" y="55" textAnchor="middle" fontSize="14" fontWeight="bold" fill="white">
-        3
-      </text>
+      {/* STEM — vertical xylem tube */}
+      <g transform="translate(115, 15)">
+        {/* Stem */}
+        <rect x="0" y="0" width="10" height="88" rx="4" fill="url(#p3_stem)" />
+        {/* Xylem channels */}
+        <line x1="3" y1="88" x2="3" y2="0" stroke="rgba(66,165,245,0.3)" strokeWidth="1.5" />
+        <line x1="7" y1="88" x2="7" y2="0" stroke="rgba(66,165,245,0.3)" strokeWidth="1.5" />
+        {/* Water flowing UP - animated-look dots */}
+        <g fill="rgba(66,165,245,0.5)">
+          <circle cx="3" cy="80" r="1.5" /><circle cx="7" cy="72" r="1.5" />
+          <circle cx="3" cy="60" r="1.5" /><circle cx="7" cy="50" r="1.5" />
+          <circle cx="3" cy="38" r="1.5" /><circle cx="7" cy="28" r="1.5" />
+          <circle cx="3" cy="16" r="1.5" /><circle cx="7" cy="8" r="1.5" />
+        </g>
+        {/* Stem highlight */}
+        <rect x="0" y="0" width="3" height="88" rx="1.5" fill="rgba(255,255,255,0.08)" />
+        {/* Step number */}
+        <circle cx="5" cy="55" r="8" fill="rgba(74,139,74,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
+      </g>
 
-      {/* Water arrows (root → stem → leaf) */}
-      <path d="M 72 120 Q 90 100 106 90" stroke="#4DB8FF" strokeWidth="3" fill="none" markerEnd="url(#arrowhead_r3)" />
-      <path d="M 117 50 Q 140 50 148 50" stroke="#4DB8FF" strokeWidth="3" fill="none" markerEnd="url(#arrowhead_r3)" />
+      {/* LEAF — transpiration */}
+      <g transform="translate(175, 40)">
+        {/* Leaf */}
+        <path d="M -20,0 Q 0,-25 20,0 Q 0,25 -20,0 Z" fill="url(#p3_leaf)" />
+        {/* Veins */}
+        <path d="M -18,0 L 18,0" stroke="rgba(30,80,30,0.3)" strokeWidth="0.6" fill="none" />
+        <path d="M -10,0 Q -5,-8 5,-12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none" />
+        <path d="M -10,0 Q -5,8 5,12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none" />
+        {/* Stomata (bottom) */}
+        <ellipse cx="-6" cy="12" rx="2" ry="3" fill="rgba(0,0,0,0.15)" />
+        <ellipse cx="6" cy="12" rx="2" ry="3" fill="rgba(0,0,0,0.15)" />
+        {/* Transpiration vapor */}
+        <g fill="rgba(135,206,235,0.35)">
+          <circle cx="0" cy="-28" r="2" /><circle cx="-8" cy="-30" r="1.5" /><circle cx="8" cy="-32" r="1.8" />
+          <circle cx="-4" cy="-35" r="1.2" /><circle cx="4" cy="-37" r="1" />
+        </g>
+        {/* Step number */}
+        <circle cx="0" cy="0" r="8" fill="rgba(107,203,119,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
+      </g>
 
-      {/* Water droplets along the path */}
-      <circle cx="80" cy="110" r="3" fill="#4DB8FF" opacity="0.6" />
-      <circle cx="100" cy="85" r="3" fill="#4DB8FF" opacity="0.6" />
+      {/* WATER FLOW ARROWS (root → stem → leaf) */}
+      <path d="M 58 104 Q 80 90 110 80" stroke="#42A5F5" strokeWidth="2.5" fill="none" markerEnd="url(#p3_arr)" strokeDasharray="4,3" />
+      <path d="M 130 20 Q 145 22 158 30" stroke="#42A5F5" strokeWidth="2.5" fill="none" markerEnd="url(#p3_arr)" strokeDasharray="4,3" />
 
-      {/* Transpiration vapor (from leaf) */}
-      <circle cx="190" cy="35" r="2" fill="#87CEEB" opacity="0.5" />
-      <circle cx="200" cy="30" r="2" fill="#87CEEB" opacity="0.5" />
-      <circle cx="210" cy="35" r="2" fill="#87CEEB" opacity="0.5" />
-
-      {/* Labels with arrows pointing to parts */}
-      <rect x="10" y="105" width="50" height="18" rx="9" fill="rgba(139,90,60,0.3)" stroke="rgba(139,90,60,0.6)" strokeWidth="1" />
-      <text x="35" y="118" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">
-        {l.r3_root}
-      </text>
-
-      <rect x="95" y="120" width="50" height="18" rx="9" fill="rgba(74,139,74,0.3)" stroke="rgba(74,139,74,0.6)" strokeWidth="1" />
-      <text x="120" y="133" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">
-        {l.r3_stem}
-      </text>
-
-      <rect x="150" y="10" width="50" height="18" rx="9" fill="rgba(107,203,119,0.3)" stroke="rgba(107,203,119,0.6)" strokeWidth="1" />
-      <text x="175" y="23" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">
-        {l.r3_leaf}
-      </text>
+      {/* Small additional water dots along path */}
+      <g fill="rgba(66,165,245,0.3)">
+        <circle cx="70" cy="95" r="2" /><circle cx="85" cy="88" r="1.5" /><circle cx="98" cy="82" r="1.2" />
+        <circle cx="138" cy="22" r="1.5" /><circle cx="148" cy="26" r="1.2" />
+      </g>
     </svg>
   );
 }
 
 /** Round 4 SVG: Leaf cross-section with stomata, chloroplasts, gas exchange */
 function SVG_R4(lang: string): React.ReactNode {
-  const l = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_leafGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#6BCB77" />
-          <stop offset="100%" stopColor="#4D9B5C" />
+        <linearGradient id="p4_bg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#1a2a1a" /><stop offset="100%" stopColor="#0a150a" />
         </linearGradient>
-      </defs>
-
-      {/* Leaf shape (side view) */}
-      <ellipse cx="120" cy="80" rx="80" ry="35" fill="url(#r4_leafGrad4)" />
-
-      {/* Top epidermis */}
-      <path d="M 40 80 Q 40 60 120 55 Q 200 60 200 80" stroke="rgba(0,0,0,0.3)" strokeWidth="1" fill="none" />
-
-      {/* Bottom epidermis (with stomata) */}
-      <path d="M 40 80 Q 40 100 120 105 Q 200 100 200 80" stroke="rgba(0,0,0,0.3)" strokeWidth="1" fill="none" />
-
-      {/* Chloroplasts (green dots inside) */}
-      <circle cx="70" cy="75" r="4" fill="#3B9B3B" opacity="0.8" />
-      <circle cx="100" cy="70" r="4" fill="#3B9B3B" opacity="0.8" />
-      <circle cx="130" cy="75" r="4" fill="#3B9B3B" opacity="0.8" />
-      <circle cx="160" cy="70" r="4" fill="#3B9B3B" opacity="0.8" />
-      <circle cx="190" cy="75" r="4" fill="#3B9B3B" opacity="0.8" />
-
-      {/* Stomata (pores on underside) — small oval pores */}
-      <ellipse cx="65" cy="105" rx="6" ry="8" fill="rgba(0,0,0,0.4)" />
-      <ellipse cx="120" cy="108" rx="6" ry="8" fill="rgba(0,0,0,0.4)" />
-      <ellipse cx="175" cy="105" rx="6" ry="8" fill="rgba(0,0,0,0.4)" />
-
-      {/* CO₂ arrows (entering through stomata) */}
-      <defs>
-        <marker id="arrowhead_co2_r4" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#C8C8C8" />
+        <linearGradient id="p4_upper_epi" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#66BB6A" />
+        </linearGradient>
+        <linearGradient id="p4_mesophyll" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#A5D6A7" /><stop offset="100%" stopColor="#81C784" />
+        </linearGradient>
+        <linearGradient id="p4_lower_epi" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#66BB6A" /><stop offset="100%" stopColor="#4CAF50" />
+        </linearGradient>
+        <linearGradient id="p4_chloro" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#1B5E20" />
+        </linearGradient>
+        <marker id="p4_arr_co2" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto">
+          <polygon points="0 0, 5 2.5, 0 5" fill="#B0BEC5" />
+        </marker>
+        <marker id="p4_arr_o2" markerWidth="5" markerHeight="5" refX="0" refY="2.5" orient="auto">
+          <polygon points="5 0, 0 2.5, 5 5" fill="#4FC3F7" />
         </marker>
       </defs>
-      <path d="M 65 125 L 65 115" stroke="#C8C8C8" strokeWidth="2" markerEnd="url(#arrowhead_co2_r4)" />
-      <path d="M 120 125 L 120 115" stroke="#C8C8C8" strokeWidth="2" markerEnd="url(#arrowhead_co2_r4)" />
-      <path d="M 175 125 L 175 115" stroke="#C8C8C8" strokeWidth="2" markerEnd="url(#arrowhead_co2_r4)" />
 
-      {/* O₂ arrows (exiting through stomata) */}
-      <defs>
-        <marker id="arrowhead_o2_r4" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#87CEEB" />
-        </marker>
-      </defs>
-      <path d="M 50 110 L 40 120" stroke="#87CEEB" strokeWidth="2" markerEnd="url(#arrowhead_o2_r4)" />
-      <path d="M 135 110 L 140 120" stroke="#87CEEB" strokeWidth="2" markerEnd="url(#arrowhead_o2_r4)" />
-      <path d="M 190 110 L 200 120" stroke="#87CEEB" strokeWidth="2" markerEnd="url(#arrowhead_o2_r4)" />
+      <rect width="240" height="160" fill="url(#p4_bg)" />
 
-      {/* Labels */}
-      <text x="20" y="70" fontSize="10" fontWeight="bold" fill="white">{l.r4_fact2}</text>
-      <text x="20" y="115" fontSize="10" fontWeight="bold" fill="white">{l.r4_fact1}</text>
+      {/* LEAF CROSS-SECTION — layered structure */}
+
+      {/* Cuticle (waxy top layer) */}
+      <path d="M 20 28 Q 60 24 120 22 Q 180 24 220 28" stroke="rgba(255,255,200,0.3)" strokeWidth="2" fill="none" />
+
+      {/* Upper epidermis */}
+      <path d="M 20 28 Q 60 24 120 22 Q 180 24 220 28 L 220 38 Q 180 36 120 34 Q 60 36 20 38 Z" fill="url(#p4_upper_epi)" opacity="0.8" />
+      {/* Cell outlines in upper epidermis */}
+      <g stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none">
+        <rect x="30" y="26" width="15" height="10" rx="3" /><rect x="50" y="25" width="16" height="10" rx="3" />
+        <rect x="72" y="24" width="15" height="10" rx="3" /><rect x="92" y="23" width="16" height="10" rx="3" />
+        <rect x="114" y="23" width="15" height="10" rx="3" /><rect x="134" y="23" width="16" height="10" rx="3" />
+        <rect x="156" y="24" width="15" height="10" rx="3" /><rect x="176" y="25" width="16" height="10" rx="3" />
+        <rect x="197" y="26" width="15" height="10" rx="3" />
+      </g>
+
+      {/* Palisade mesophyll (tall columnar cells) */}
+      <rect x="20" y="38" width="200" height="35" fill="url(#p4_mesophyll)" opacity="0.6" />
+      <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.5" fill="none">
+        <rect x="25" y="39" width="10" height="33" rx="3" /><rect x="40" y="39" width="10" height="33" rx="3" />
+        <rect x="55" y="39" width="10" height="33" rx="3" /><rect x="70" y="39" width="10" height="33" rx="3" />
+        <rect x="85" y="39" width="10" height="33" rx="3" /><rect x="100" y="39" width="10" height="33" rx="3" />
+        <rect x="115" y="39" width="10" height="33" rx="3" /><rect x="130" y="39" width="10" height="33" rx="3" />
+        <rect x="145" y="39" width="10" height="33" rx="3" /><rect x="160" y="39" width="10" height="33" rx="3" />
+        <rect x="175" y="39" width="10" height="33" rx="3" /><rect x="190" y="39" width="10" height="33" rx="3" />
+      </g>
+
+      {/* Chloroplasts inside palisade cells */}
+      <g fill="url(#p4_chloro)" opacity="0.7">
+        <ellipse cx="30" cy="48" rx="3" ry="2" /><ellipse cx="30" cy="58" rx="3" ry="2" />
+        <ellipse cx="45" cy="50" rx="3" ry="2" /><ellipse cx="45" cy="62" rx="3" ry="2" />
+        <ellipse cx="60" cy="46" rx="3" ry="2" /><ellipse cx="60" cy="56" rx="3" ry="2" />
+        <ellipse cx="75" cy="50" rx="3" ry="2" /><ellipse cx="75" cy="64" rx="3" ry="2" />
+        <ellipse cx="90" cy="48" rx="3" ry="2" /><ellipse cx="90" cy="60" rx="3" ry="2" />
+        <ellipse cx="105" cy="46" rx="3" ry="2" /><ellipse cx="105" cy="58" rx="3" ry="2" />
+        <ellipse cx="120" cy="50" rx="3" ry="2" /><ellipse cx="120" cy="62" rx="3" ry="2" />
+        <ellipse cx="135" cy="48" rx="3" ry="2" /><ellipse cx="135" cy="58" rx="3" ry="2" />
+        <ellipse cx="150" cy="46" rx="3" ry="2" /><ellipse cx="150" cy="60" rx="3" ry="2" />
+        <ellipse cx="165" cy="50" rx="3" ry="2" /><ellipse cx="165" cy="64" rx="3" ry="2" />
+        <ellipse cx="180" cy="48" rx="3" ry="2" /><ellipse cx="180" cy="58" rx="3" ry="2" />
+        <ellipse cx="195" cy="50" rx="3" ry="2" /><ellipse cx="195" cy="62" rx="3" ry="2" />
+      </g>
+
+      {/* Spongy mesophyll (irregular cells with air spaces) */}
+      <rect x="20" y="73" width="200" height="25" fill="url(#p4_mesophyll)" opacity="0.4" />
+      <g fill="rgba(150,200,150,0.3)" stroke="rgba(30,80,30,0.1)" strokeWidth="0.5">
+        <ellipse cx="35" cy="82" rx="8" ry="5" /><ellipse cx="60" cy="80" rx="7" ry="6" />
+        <ellipse cx="85" cy="84" rx="9" ry="5" /><ellipse cx="110" cy="81" rx="8" ry="6" />
+        <ellipse cx="140" cy="83" rx="7" ry="5" /><ellipse cx="165" cy="80" rx="8" ry="6" />
+        <ellipse cx="195" cy="82" rx="7" ry="5" />
+      </g>
+      {/* Air spaces between spongy cells */}
+      <g fill="rgba(255,255,255,0.05)">
+        <circle cx="48" cy="82" r="3" /><circle cx="73" cy="84" r="2.5" />
+        <circle cx="98" cy="81" r="3" /><circle cx="125" cy="83" r="2.5" />
+        <circle cx="153" cy="82" r="3" /><circle cx="180" cy="84" r="2.5" />
+      </g>
+
+      {/* Lower epidermis */}
+      <path d="M 20 98 Q 60 100 120 102 Q 180 100 220 98 L 220 108 Q 180 110 120 112 Q 60 110 20 108 Z" fill="url(#p4_lower_epi)" opacity="0.7" />
+
+      {/* STOMATA — pores in lower epidermis */}
+      <g>
+        {/* Stoma 1 */}
+        <g transform="translate(65, 105)">
+          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
+        </g>
+        {/* Stoma 2 */}
+        <g transform="translate(120, 107)">
+          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
+        </g>
+        {/* Stoma 3 */}
+        <g transform="translate(175, 105)">
+          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
+          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
+        </g>
+      </g>
+
+      {/* CO2 entering arrows */}
+      <g>
+        <path d="M 65 140 L 65 118" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
+        <path d="M 120 142 L 120 120" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
+        <path d="M 175 140 L 175 118" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
+        {/* CO2 molecule hints */}
+        <g opacity="0.4">
+          <circle cx="65" cy="145" r="2" fill="#90A4AE" /><circle cx="68" cy="143" r="1.2" fill="#B0BEC5" /><circle cx="62" cy="143" r="1.2" fill="#B0BEC5" />
+          <circle cx="120" cy="147" r="2" fill="#90A4AE" /><circle cx="123" cy="145" r="1.2" fill="#B0BEC5" /><circle cx="117" cy="145" r="1.2" fill="#B0BEC5" />
+        </g>
+      </g>
+
+      {/* O2 exiting arrows */}
+      <g>
+        <path d="M 50 112 L 35 130" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
+        <polygon points="33,128 35,134 38,127" fill="#4FC3F7" />
+        <path d="M 135 115 L 145 133" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
+        <polygon points="143,131 147,135 148,129" fill="#4FC3F7" />
+        <path d="M 190 112 L 205 130" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
+        <polygon points="203,128 207,133 208,127" fill="#4FC3F7" />
+        {/* O2 bubbles */}
+        <g fill="rgba(79,195,247,0.3)">
+          <circle cx="30" cy="135" r="2" /><circle cx="148" cy="138" r="1.8" /><circle cx="210" cy="135" r="2" />
+        </g>
+      </g>
+
+      {/* Vein/vascular bundle in center */}
+      <g transform="translate(120, 78)">
+        <ellipse cx="0" cy="0" rx="4" ry="8" fill="rgba(100,180,255,0.3)" stroke="rgba(100,180,255,0.4)" strokeWidth="0.5" />
+        <ellipse cx="0" cy="3" rx="2" ry="3" fill="rgba(200,100,100,0.3)" />
+      </g>
     </svg>
   );
 }
 
 /** Round 5 SVG: Plant parts matching chart (MCQ review) */
 function SVG_R5(lang: string): React.ReactNode {
-  const l = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_rootGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B5A3C" />
-          <stop offset="100%" stopColor="#5D3A1F" />
+        <linearGradient id="p5_bg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E8F5E9" /><stop offset="55%" stopColor="#C8E6C9" />
+          <stop offset="55%" stopColor="#8B6E50" /><stop offset="100%" stopColor="#5D4037" />
         </linearGradient>
-        <linearGradient id="r5_stemGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#4A8B4A" />
-          <stop offset="100%" stopColor="#3A6B3A" />
+        <linearGradient id="p5_root" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#A07050" /><stop offset="100%" stopColor="#6B4530" />
         </linearGradient>
-        <linearGradient id="r5_leafGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#6BCB77" />
-          <stop offset="100%" stopColor="#4D9B5C" />
+        <linearGradient id="p5_stem" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#2E7D32" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#388E3C" />
         </linearGradient>
+        <linearGradient id="p5_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#2E7D32" />
+        </linearGradient>
+        <linearGradient id="p5_petal" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFD54F" /><stop offset="100%" stopColor="#FF8A65" />
+        </linearGradient>
+        <radialGradient id="p5_sun_glow" cx="80%" cy="15%">
+          <stop offset="0%" stopColor="rgba(255,235,100,0.3)" /><stop offset="100%" stopColor="rgba(255,235,100,0)" />
+        </radialGradient>
       </defs>
 
-      {/* Small plant illustration */}
-      <circle cx="80" cy="120" r="8" fill="url(#r5_rootGrad)" />
-      <path d="M 80 112 Q 78 90 80 50" stroke="url(#r5_stemGrad)" strokeWidth="6" fill="none" />
-      <ellipse cx="55" cy="70" rx="12" ry="18" fill="url(#r5_leafGrad5)" />
-      <ellipse cx="105" cy="65" rx="12" ry="18" fill="url(#r5_leafGrad5)" />
-      <circle cx="80" cy="40" r="6" fill="#FFB366" />
+      <rect width="240" height="160" fill="url(#p5_bg)" />
+      <circle cx="200" cy="15" r="35" fill="url(#p5_sun_glow)" />
 
-      {/* Function boxes on right */}
-      <rect x="140" y="50" width="90" height="16" rx="8" fill="rgba(139,90,60,0.3)" stroke="rgba(139,90,60,0.6)" strokeWidth="1" />
-      <text x="185" y="61" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
-        Absorbs water
-      </text>
+      {/* Beautiful detailed plant - center */}
+      <g transform="translate(120, 0)">
+        {/* Roots underground */}
+        <path d="M 0,88 Q -2,95 0,108 Q 1,115 0,125" stroke="url(#p5_root)" strokeWidth="4" fill="none" strokeLinecap="round" />
+        <path d="M 0,95 Q -12,102 -22,112" stroke="url(#p5_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+        <path d="M 0,95 Q 12,102 22,112" stroke="url(#p5_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+        <path d="M 0,102 Q -8,108 -15,118" stroke="url(#p5_root)" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+        <path d="M 0,102 Q 8,108 15,118" stroke="url(#p5_root)" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+        {/* Root hairs */}
+        <g stroke="#A08060" strokeWidth="0.5" opacity="0.4">
+          <path d="M -18,108 L -22,112" /><path d="M 18,108 L 22,112" />
+          <path d="M -12,114 L -16,118" /><path d="M 12,114 L 16,118" />
+        </g>
+        {/* Water dots near roots */}
+        <g fill="rgba(66,165,245,0.3)">
+          <circle cx="-25" cy="114" r="1.5" /><circle cx="25" cy="114" r="1.5" />
+          <circle cx="-18" cy="120" r="1" /><circle cx="18" cy="120" r="1" />
+        </g>
 
-      <rect x="140" y="75" width="90" height="16" rx="8" fill="rgba(74,139,74,0.3)" stroke="rgba(74,139,74,0.6)" strokeWidth="1" />
-      <text x="185" y="86" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
-        Transports water
-      </text>
+        {/* Stem */}
+        <path d="M 0,88 Q -1,70 0,35" stroke="url(#p5_stem)" strokeWidth="7" fill="none" strokeLinecap="round" />
+        {/* Xylem hint */}
+        <path d="M -1.5,88 Q -2,70 -1.5,35" stroke="rgba(66,165,245,0.15)" strokeWidth="1.5" fill="none" />
+        <path d="M 1.5,88 Q 1,70 1.5,35" stroke="rgba(66,165,245,0.15)" strokeWidth="1.5" fill="none" />
 
-      <rect x="140" y="100" width="90" height="16" rx="8" fill="rgba(107,203,119,0.3)" stroke="rgba(107,203,119,0.6)" strokeWidth="1" />
-      <text x="185" y="111" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
-        Captures sunlight
-      </text>
+        {/* Left leaf */}
+        <g transform="translate(-35, 55) rotate(-25)">
+          <ellipse cx="0" cy="0" rx="12" ry="20" fill="url(#p5_leaf)" />
+          <path d="M 0,-18 L 0,18" stroke="rgba(30,80,30,0.25)" strokeWidth="0.6" fill="none" />
+          <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.4" fill="none">
+            <path d="M 0,-10 Q 5,-7 9,-4" /><path d="M 0,0 Q 5,3 9,6" /><path d="M 0,8 Q 5,11 9,14" />
+            <path d="M 0,-10 Q -5,-7 -9,-4" /><path d="M 0,0 Q -5,3 -9,6" /><path d="M 0,8 Q -5,11 -9,14" />
+          </g>
+        </g>
 
-      <rect x="140" y="125" width="90" height="16" rx="8" fill="rgba(255,131,66,0.3)" stroke="rgba(255,131,66,0.6)" strokeWidth="1" />
-      <text x="185" y="136" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
-        Reproduces
-      </text>
+        {/* Right leaf */}
+        <g transform="translate(35, 60) rotate(25)">
+          <ellipse cx="0" cy="0" rx="12" ry="20" fill="url(#p5_leaf)" />
+          <path d="M 0,-18 L 0,18" stroke="rgba(30,80,30,0.25)" strokeWidth="0.6" fill="none" />
+          <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.4" fill="none">
+            <path d="M 0,-10 Q 5,-7 9,-4" /><path d="M 0,0 Q 5,3 9,6" /><path d="M 0,8 Q 5,11 9,14" />
+            <path d="M 0,-10 Q -5,-7 -9,-4" /><path d="M 0,0 Q -5,3 -9,6" /><path d="M 0,8 Q -5,11 -9,14" />
+          </g>
+        </g>
+
+        {/* Small upper leaf */}
+        <g transform="translate(-20, 42) rotate(-40)">
+          <ellipse cx="0" cy="0" rx="8" ry="14" fill="url(#p5_leaf)" opacity="0.9" />
+          <path d="M 0,-12 L 0,12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.4" fill="none" />
+        </g>
+
+        {/* Flower */}
+        <g transform="translate(0, 20)">
+          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.9" />
+          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.85" transform="rotate(72)" />
+          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.8" transform="rotate(144)" />
+          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.85" transform="rotate(216)" />
+          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.9" transform="rotate(288)" />
+          <circle cx="0" cy="0" r="3.5" fill="#FFD700" />
+          <circle cx="0" cy="0" r="2" fill="#FFA000" />
+        </g>
+      </g>
+
+      {/* Color-coded part indicators with glow */}
+      {/* Root */}
+      <circle cx="120" cy="110" r="5" fill="rgba(160,112,80,0.4)" stroke="#A07050" strokeWidth="1" />
+      <circle cx="120" cy="110" r="2" fill="#A07050" />
+
+      {/* Stem */}
+      <circle cx="120" cy="75" r="5" fill="rgba(76,175,80,0.3)" stroke="#4CAF50" strokeWidth="1" />
+      <circle cx="120" cy="75" r="2" fill="#4CAF50" />
+
+      {/* Leaf */}
+      <circle cx="85" cy="52" r="5" fill="rgba(129,199,132,0.3)" stroke="#81C784" strokeWidth="1" />
+      <circle cx="85" cy="52" r="2" fill="#81C784" />
+
+      {/* Flower */}
+      <circle cx="120" cy="22" r="5" fill="rgba(255,183,77,0.3)" stroke="#FFB74D" strokeWidth="1" />
+      <circle cx="120" cy="22" r="2" fill="#FFB74D" />
+
+      {/* Photosynthesis hint (sun ray to leaf) */}
+      <g opacity="0.3">
+        <line x1="200" y1="15" x2="160" y2="48" stroke="#FFD54F" strokeWidth="0.8" strokeDasharray="2,3" />
+        <line x1="195" y1="18" x2="155" y2="55" stroke="#FFD54F" strokeWidth="0.6" strokeDasharray="2,3" />
+      </g>
     </svg>
   );
 }
