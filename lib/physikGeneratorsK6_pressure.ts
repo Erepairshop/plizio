@@ -291,7 +291,7 @@ const LIQUID_PRESSURE_DATA = {
     { en: "water at the bottom of a swimming pool", de: "Wasser am Boden eines Schwimmbades", hu: "víz az uszoda alján", ro: "apă la fundul unei piscine" },
     { en: "a dam holding back water", de: "ein Staudamm hält Wasser zurück", hu: "gát által visszatartott víz", ro: "o baraj care ține apă" },
     { en: "pressure in water pipes", de: "Druck in Wasserleitungen", hu: "nyomás vízvezetékben", ro: "presiune în conductele de apă" },
-    { en: "scuba diving deeper underwater", de: "Tauchen tiefer unter Wasser", hu: "búvárkodás mélyebben", ro: "scuba diving mai adânc" },
+    { en: "scuba diving deeper underwater", de: "Tauchen tiefer unter Wasser", hu: "búvárkodás mélyebben", ro: "scufundare mai adânc sub apă" },
     { en: "a hydraulic press", de: "eine hydraulische Presse", hu: "hidraulikus sajtó", ro: "o presă hidraulică" },
     { en: "blood pressure in arteries", de: "Blutdruck in Arterien", hu: "vérnyomás az artériákban", ro: "presiunea sângelui în arterii" },
     { en: "a water tower", de: "ein Wasserturm", hu: "víztorony", ro: "o turn de apă" },
@@ -813,7 +813,7 @@ export function generateHydraulicsMCQ(lang: string = "en", seed: number = 0): Cu
       q4("Warum sind hydraulische Bremsen wirksam?", "Why are hydraulic brakes effective?", "Miért hatékonyak a hidraulikus fékek?", "De ce sunt eficace frânele hidraulice?", lang),
       q4("Kleine Kraft auf Pedale erzeugt großen Druck, der auf Bremsklötze wirkt", "Small force on pedal creates high pressure that acts on brake pads", "Kis erő a pedálon nagy nyomást hoz létre, amely a fékpofákra hat", "Forță mică pe pedală creează presiune mare care acționează pe garniturile de frâni", lang),
       [
-        q4("Sie übertragen direkt die Kraft", "They directly transmit force", "Közvetlenül átadják az erőt", "Transmit direct forța", lang),
+        q4("Sie übertragen direkt die Kraft", "They directly transmit force", "Közvetlenül átadják az erőt", "Transmite forța direct", lang),
         q4("Sie haben starke Federn", "They have strong springs", "Erős rugóik vannak", "Au arcuri puternice", lang),
       ],
       rng
@@ -881,7 +881,7 @@ export function generateHydraulicsTyping(lang: string = "en", seed: number = 0):
 
 const BUOYANCY_DATA = {
   examples: [
-    { en: "a ship floating on water", de: "ein Schiff, das auf dem Wasser schwimmt", hu: "hajo az vizen", ro: "o navă plutind pe apă" },
+    { en: "a ship floating on water", de: "ein Schiff, das auf dem Wasser schwimmt", hu: "hajó a vízen", ro: "o navă plutind pe apă" },
     { en: "a submarine diving", de: "ein U-Boot taucht ab", hu: "tengeralattjáró merülés", ro: "o submarin care se scufundă" },
     { en: "a hot air balloon rising", de: "ein Heißluftballon steigt auf", hu: "hőlégballon emelkedik", ro: "un balon cu aer cald care se ridică" },
     { en: "a fish swimming", de: "ein Fisch schwimmt", hu: "hal úszása", ro: "un pește care înoată" },
@@ -1023,7 +1023,7 @@ export function generateBuoyancyTyping(lang: string = "en", seed: number = 0): C
   return [
     createTyping("pressure", "buoyancy",
       q4("Definiere Auftrieb und das archimedische Prinzip.", "Define buoyancy and Archimedes' Principle.", "Határozd meg a felhajtóerőt és az Arkhimédész törvényét.", "Definește plutirea și Principiul lui Arhimede.", lang),
-      ["upward force", "aufwärts Kraft", "felfelé erő", "forță ascendentă", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid displasat", "weight equal", "Gewicht gleich", "súly egyenlő", "greutate egală"]
+      ["upward force", "aufwärts Kraft", "felfelé erő", "forță ascendentă", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid dezlocuit", "weight equal", "Gewicht gleich", "súly egyenlő", "greutate egală"]
     ),
 
     createTyping("pressure", "buoyancy",
@@ -1033,7 +1033,7 @@ export function generateBuoyancyTyping(lang: string = "en", seed: number = 0): C
 
     createTyping("pressure", "buoyancy",
       q4("Was ist das archimedische Prinzip genau?", "What exactly is Archimedes' Principle?", "Mit pontosan az Arkhimédész törvénye?", "Ce exact este Principiul lui Arhimede?", lang),
-      ["buoyant force", "Auftriebskraft", "felhajtóerő", "forță plutire", "equals weight", "entspricht Gewicht", "megfelel súlynak", "egal greutate", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid displasat"]
+      ["buoyant force", "Auftriebskraft", "felhajtóerő", "forță plutire", "equals weight", "entspricht Gewicht", "megfelel súlynak", "egal greutate", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid dezlocuit"]
     ),
 
     createTyping("pressure", "buoyancy",

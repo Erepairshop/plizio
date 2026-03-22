@@ -850,7 +850,7 @@ export function generateDensityCalculationTyping(lang: string = "en", seed: numb
 
 // ─── ARCHIMEDES' PRINCIPLE ──────────────────────────────────────────────────
 
-const ARCHIMEDES_DATA = {
+const getArchimedesData = (lang: string) => ({
   principles: [
     q4("Archimedisches Prinzip: F_Auftrieb = ρ_Flüssigkeit × g × V_verdrängt", "Archimedes' Principle: F_buoyancy = ρ_liquid × g × V_displaced", "Arkhimédész törvénye: F_felhajtó = ρ_folyadék × g × V_kiszorított", "Principiul Arhimede: F_flotabilitate = ρ_lichid × g × V_deplasat", lang),
     q4("Der Auftrieb ist gleich dem Gewicht der verdrängten Flüssigkeit", "Buoyancy equals weight of displaced fluid", "A felhajtóerő egyenlő a kiszorított folyadék súlyával", "Forța de flotabilitate este egală cu greutatea lichidului deplasat", lang),
@@ -861,7 +861,7 @@ const ARCHIMEDES_DATA = {
     submarine: q4("Ein U-Boot sinkt, wenn Ballasttanks mit Wasser gefüllt werden", "A submarine sinks by filling ballast tanks with water", "Egy tengeralattjáró merül, amikor a ballasttartályokat vízzel töltik", "Un submarin se cufundă prin umplerea tancurilor de balast cu apă", lang),
     balloon: q4("Ein Luftballon steigt, weil Helium leichter ist als Luft", "A balloon rises because helium is lighter than air", "Egy léggömb felemelkedik, mert a hélium könnyebb a levegőnél", "Un balon se ridică pentru că heliul este mai ușor decât aerul", lang),
   },
-};
+});
 
 function generateArchimedMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed);

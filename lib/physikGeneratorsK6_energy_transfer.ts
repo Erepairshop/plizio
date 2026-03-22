@@ -126,7 +126,7 @@ function generateEnergyChainsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   // Template 2: Energy source identification (6 questions)
   const sources = [
     { en: "Solar panel", de: "Solarpanel", hu: "Napelem", ro: "Panou solar", energy: "Light" },
-    { en: "Coal power plant", de: "Kohlekraftwerk", hu: "Szénlokomotív", ro: "Centrală pe cărbune", energy: "Chemical" },
+    { en: "Coal power plant", de: "Kohlekraftwerk", hu: "Szénerőmű", ro: "Centrală pe cărbune", energy: "Chemical" },
     { en: "Waterfall", de: "Wasserfall", hu: "Vízesés", ro: "Cădere de apă", energy: "Gravitational Potential" },
     { en: "Windmill", de: "Windmühle", hu: "Szélmalom", ro: "Moară de vânt", energy: "Wind" },
     { en: "Battery", de: "Batterie", hu: "Akkumulátor", ro: "Baterie", energy: "Chemical" },
@@ -371,7 +371,7 @@ const EFFICIENCY_DATA = {
     { de: "Glühlampe", en: "Incandescent lamp", hu: "Izzólámpa", ro: "Bec incandescent", efficiency: 5 },
     { de: "LED-Lampe", en: "LED lamp", hu: "LED lámpa", ro: "Lampă LED", efficiency: 80 },
     { de: "Elektromotor", en: "Electric motor", hu: "Villanymotor", ro: "Motor electric", efficiency: 85 },
-    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénlokomotív", ro: "Centrală pe cărbune", efficiency: 35 },
+    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénerőmű", ro: "Centrală pe cărbune", efficiency: 35 },
     { de: "Wasserkraftwerk", en: "Hydro plant", hu: "Vízierőmű", ro: "Centrală hidroelectrică", efficiency: 90 },
     { de: "Windkraftwerk", en: "Wind turbine", hu: "Szélkerék", ro: "Turbină eolian", efficiency: 45 },
   ],
@@ -620,8 +620,8 @@ function generateEfficiencyTyping(lang = "en", seed = 0): CurriculumTyping[] {
 
 const POWER_PLANTS_DATA = {
   types: [
-    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénlokomotív", ro: "Centrală pe cărbune", fuel: "Coal", temp: "~1000°C", efficiency: 35, renewable: false },
-    { de: "Gaskraftwerk", en: "Gas plant", hu: "Gázlokomotív", ro: "Centrală pe gaze", fuel: "Natural gas", temp: "~1400°C", efficiency: 50, renewable: false },
+    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénerőmű", ro: "Centrală pe cărbune", fuel: "Coal", temp: "~1000°C", efficiency: 35, renewable: false },
+    { de: "Gaskraftwerk", en: "Gas plant", hu: "Gázerőmű", ro: "Centrală pe gaze", fuel: "Natural gas", temp: "~1400°C", efficiency: 50, renewable: false },
     { de: "Kernkraftwerk", en: "Nuclear plant", hu: "Atomerőmű", ro: "Centrală nucleară", fuel: "Uranium", temp: "~320°C", efficiency: 33, renewable: false },
     { de: "Wasserkraftwerk", en: "Hydroelectric", hu: "Vízierőmű", ro: "Hidroelectrică", fuel: "Water", temp: "—", efficiency: 90, renewable: true },
     { de: "Windkraftwerk", en: "Wind turbine", hu: "Szélkerék", ro: "Turbină eolian", fuel: "Wind", temp: "—", efficiency: 45, renewable: true },
@@ -749,7 +749,7 @@ function generatePowerPlantsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     { de: "Wasserkraftwerk", en: "Hydroelectric", hu: "Vízierőmű", ro: "Hidroelectrică", adv: "Hoher Wirkungsgrad, keine Emissionen" },
     { de: "Windkraftwerk", en: "Wind turbine", hu: "Szélkerék", ro: "Turbină eolian", adv: "Kostenlos, kein Abfall, erneuerbar" },
     { de: "Solarkraftwerk", en: "Solar plant", hu: "Napelemes erőmű", ro: "Centrală solară", adv: "Saubere Energie, keine Emissionen" },
-    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénlokomotív", ro: "Centrală pe cărbune", adv: "Zuverlässig, konstante Leistung" },
+    { de: "Kohlekraftwerk", en: "Coal plant", hu: "Szénerőmű", ro: "Centrală pe cărbune", adv: "Zuverlässig, konstante Leistung" },
     { de: "Kernkraftwerk", en: "Nuclear plant", hu: "Atomerőmű", ro: "Centrală nucleară", adv: "Keine CO2-Emissionen, hohe Ausgangsleistung" },
   ];
 
@@ -788,7 +788,7 @@ function generatePowerPlantsTyping(lang = "en", seed = 0): CurriculumTyping[] {
       "power_plants",
       q4("Nenne 3 fossile Brennstoff Kraftwerke", "Name 3 fossil fuel power plants", "Nevezz meg 3 fosszilis tüzelőanyagos erőművet", "Numește 3 centrale pe combustibili fosili", lang),
       [
-        q4("Kohlekraftwerk, Gaskraftwerk, Ölkraftwerk", "Coal plant, gas plant, oil plant", "Szénlokomotív, gázlokomotív, olajlokomotív", "Centrală pe cărbune, pe gaze, pe petrol", lang),
+        q4("Kohlekraftwerk, Gaskraftwerk, Ölkraftwerk", "Coal plant, gas plant, oil plant", "Szénerőmű, gázerőmű, olajerőmű", "Centrală pe cărbune, pe gaze, pe petrol", lang),
       ]
     )
   );
@@ -820,7 +820,7 @@ function generatePowerPlantsTyping(lang = "en", seed = 0): CurriculumTyping[] {
     createTyping(
       "energy_transfer",
       "power_plants",
-      q4("Was sind Nachteile von Kohlekraftwerken?", "What are disadvantages of coal plants?", "Mik a szénlokomotívok hátrányai?", "Care sunt dezavantajele centralelor pe cărbune?", lang),
+      q4("Was sind Nachteile von Kohlekraftwerken?", "What are disadvantages of coal plants?", "Mik a szénerőművek hátrányai?", "Care sunt dezavantajele centralelor pe cărbune?", lang),
       [
         q4("CO2-Emissionen, Luftverschmutzung, Ressourcenverbrauch, Umweltbelastung", "CO2 emissions, air pollution, resource depletion, environmental impact", "CO2-kibocsátás, levegőszennyezés, erőforrás fogyás, környezetkárosítás", "Emisii CO2, poluare aeriană, epuizare resurse, impact mediu", lang),
       ]
@@ -842,7 +842,7 @@ function generatePowerPlantsTyping(lang = "en", seed = 0): CurriculumTyping[] {
     createTyping(
       "energy_transfer",
       "power_plants",
-      q4("Beschreib Ablauf in Kohlekraftwerk", "Describe process in coal plant", "Írd le a folyamatot szénlokomotívban", "Descrie procesul în centrala pe cărbune", lang),
+      q4("Beschreib Ablauf in Kohlekraftwerk", "Describe process in coal plant", "Írd le a folyamatot szénerőműben", "Descrie procesul în centrala pe cărbune", lang),
       [
         q4("Kohle verbrennt → Wärme → Wasser verdampft → Dampf treibt Turbinen → Generator → Strom", "Coal burns → Heat → Water evaporates → Steam turns turbines → Generator → Electricity", "Szén ég → Hő → Víz elpárolog → Gőz hajtja turbinákat → Generátor → Villam", "Cărbune arde → Căldură → Apă se evaporează → Aburi antrenează turbine → Generator → Curent", lang),
       ]
@@ -996,7 +996,7 @@ function generateRenewableEnergyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           q4("Windenergie", "Wind energy", "Szélenergia", "Energie eolian", lang),
         ], rng),
         [
-          q4("Kohlekraftwerk", "Coal plant", "Szénlokomotív", "Centrală pe cărbune", lang),
+          q4("Kohlekraftwerk", "Coal plant", "Szénerőmű", "Centrală pe cărbune", lang),
           q4("Kernkraftwerk", "Nuclear plant", "Atomerőmű", "Centrală nucleară", lang),
         ],
         rng

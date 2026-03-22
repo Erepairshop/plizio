@@ -752,7 +752,7 @@ export function generateWheelAxleTyping(lang: string = "en", seed: number = 0): 
 const SCREW_DATA = {
   examples: [
     { en: "a wood screw", de: "eine Holzschraube", hu: "facsavar", ro: "o șurub de lemn" },
-    { en: "a jar lid", de: "ein Glas Deckel", hu: "üveget le", ro: "un capac de borcan" },
+    { en: "a jar lid", de: "ein Glasdeckel", hu: "üvegtető", ro: "un capac de borcan" },
     { en: "a clamp", de: "eine Klemme", hu: "szorító", ro: "o clemă" },
     { en: "a light bulb", de: "eine Glühbirne", hu: "izzó", ro: "un bec" },
     { en: "a vise (bench vise)", de: "ein Schraubstock", hu: "fogó", ro: "un menghine" },
@@ -914,7 +914,7 @@ export function generateScrewTyping(lang: string = "en", seed: number = 0): Curr
 
     createTyping("machines", "screw",
       q4("Gib drei Beispiele für Schrauben im Alltag.", "Give three examples of screws in everyday life.", "Add meg három csavar példát a mindennapi életből.", "Dă trei exemple de șuruburi în viața de zi cu zi.", lang),
-      ["wood screw", "Holzschraube", "facsavar", "șurub de lemn", "jar lid", "Glasdeckel", "üvegtető", "capac borcan", "clamp", "Klemme", "szorító", "clemă", "light bulb", "Glühbirne", "izzó", "bec", "vise", "Schraubstock", "satupad", "menghine", "bolt", "Bolzen", "csap"]
+      ["wood screw", "Holzschraube", "facsavar", "șurub de lemn", "jar lid", "Glasdeckel", "üvegtető", "capac borcan", "clamp", "Klemme", "szorító", "clemă", "light bulb", "Glühbirne", "izzó", "bec", "vise", "Schraubstock", "satu", "menghine", "bolt", "Bolzen", "csap"]
     ),
 
     createTyping("machines", "screw",

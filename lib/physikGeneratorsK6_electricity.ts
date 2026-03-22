@@ -650,7 +650,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
       q4("Die Bewegung von Ladungsträgern (Elektronen) durch einen Leiter", "The movement of charge carriers (electrons) through a conductor", "Töltéshordozók (elektronok) mozgása egy vezetőn keresztül", "Mișcarea purtătorilor de sarcină (electroni) printr-un conductor", lang),
       [
         q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Elektromosságot tárolo anyag", "Un material care depozitează electricitate", lang),
-        q4("Eine Kraft, die Objekte anzieht", "A force that attracts objects", "Egy erő, amely attracts objekteket", "O forță care atrage obiecte", lang),
+        q4("Eine Kraft, die Objekte anzieht", "A force that attracts objects", "Egy erő, amely tárgyakat vonz", "O forță care atrage obiecte", lang),
         q4("Ein Werkzeug zum Messen von Spannung", "A tool for measuring voltage", "Az feszültség mérésére szolgáló eszköz", "Un instrument pentru măsurarea tensiunii", lang),
       ],
       rng
@@ -667,7 +667,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
       [
         q4("Die Menge des fließenden Stroms", "The amount of flowing current", "A folyó áram mennyisége", "Cantitatea de curent care curge", lang),
         q4("Das Material, das Strom leitet", "The material that conducts current", "Az áramot vezető anyag", "Materialul care conduce curentul", lang),
-        q4("Die Farbe eines Stromkabels", "The color of a power cable", "Egy töltési kábel szína", "Culoarea unui cablu de alimentare", lang),
+        q4("Die Farbe eines Stromkabels", "The color of a power cable", "Egy áramkábel színe", "Culoarea unui cablu de alimentare", lang),
       ],
       rng
     ));
@@ -710,7 +710,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
     questions.push(createMCQ(
       "electricity",
       "current_voltage",
-      q4("Was besagt das Ohmsche Gesetz?", "What does Ohm's Law state?", "Mit a kimondásról az Ohm törvénye?", "Ce afirmă Legea lui Ohm?", lang),
+      q4("Was besagt das Ohmsche Gesetz?", "What does Ohm's Law state?", "Mit mond ki az Ohm-törvény?", "Ce afirmă Legea lui Ohm?", lang),
       q4("U = I × R (Spannung = Strom × Widerstand)", "U = I × R (Voltage = Current × Resistance)", "U = I × R (Feszültség = Áram × Ellenállás)", "U = I × R (Tensiune = Curent × Rezistență)", lang),
       [
         q4("I = U + R", "I = U + R", "I = U + R", "I = U + R", lang),
@@ -903,7 +903,7 @@ export function generateResistanceMCQ(lang: string = "en", seed: number = 0): Cu
       [
         q4("Die Menge des fließenden Stroms", "The amount of flowing current", "A folyó áram mennyisége", "Cantitatea de curent care curge", lang),
         q4("Die Potentialdifferenz zwischen zwei Punkten", "The potential difference between two points", "Két pont közötti potenciálkülönbség", "Diferența de potențial între două puncte", lang),
-        q4("Die Farbe eines Stromkabels", "The color of a power cable", "A töltési kábel szína", "Culoarea unui cablu de alimentare", lang),
+        q4("Die Farbe eines Stromkabels", "The color of a power cable", "Az áramkábel színe", "Culoarea unui cablu de alimentare", lang),
       ],
       rng
     ));
@@ -1018,8 +1018,8 @@ export function generateResistanceTyping(lang: string = "en", seed: number = 0):
     "resistance",
     q4("Definiere Widerstand und nenne seine Einheit.", "Define resistance and name its unit.", "Határozd meg az ellenállást és nevezd meg az egységét.", "Definește rezistența și numește unitatea sa.", lang),
     [
-      q4("Widerstand ist die Opposition gegen Stromfluss, gemessen in Ohm (Ω)", "Resistance is opposition to current flow, measured in Ohm (Ω)", "Az ellenállás az áramfolyás elleni opposition, ohmban (Ω) mérve", "Rezistența este opoziția la fluxul de curent, măsurată în Ohm (Ω)", lang),
-      q4("Opposition gegen Strom, Einheit Ohm", "Opposition to current, unit Ohm", "Áram elleni opposition, egység Ohm", "Opoziție la curent, unitate Ohm", lang),
+      q4("Widerstand ist die Opposition gegen Stromfluss, gemessen in Ohm (Ω)", "Resistance is opposition to current flow, measured in Ohm (Ω)", "Az ellenállás az áramfolyás elleni ellenállás, ohmban (Ω) mérve", "Rezistența este opoziția la fluxul de curent, măsurată în Ohm (Ω)", lang),
+      q4("Opposition gegen Strom, Einheit Ohm", "Opposition to current, unit Ohm", "Áram elleni ellenállás, egység Ohm", "Opoziție la curent, unitate Ohm", lang),
     ]
   ));
 
