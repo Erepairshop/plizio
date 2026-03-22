@@ -145,6 +145,11 @@ const LABELS: ExplorerDef["labels"] = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SVG_R1(lang: string = "en"): React.ReactNode {
+  const lb: Record<string,{reptile:string;bird:string}> = {
+    en:{reptile:"Reptile 🦎",bird:"Bird 🐦"},de:{reptile:"Reptil 🦎",bird:"Vogel 🐦"},
+    hu:{reptile:"Hüllő 🦎",bird:"Madár 🐦"},ro:{reptile:"Reptilă 🦎",bird:"Pasăre 🐦"},
+  };
+  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -265,15 +270,22 @@ function SVG_R1(lang: string = "en"): React.ReactNode {
 
       {/* Labels with dashed pointer lines */}
       <line x1="35" y1="50" x2="35" y2="75" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="35" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="#333">Reptile 🦎</text>
+      <text x="35" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="#333">{l.reptile}</text>
 
       <line x1="165" y1="55" x2="165" y2="75" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="165" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">Bird 🐦</text>
+      <text x="165" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">{l.bird}</text>
     </svg>
   );
 }
 
 function SVG_R2(lang: string = "en"): React.ReactNode {
+  const lb: Record<string,{feathers:string;bones:string;eagle:string}> = {
+    en:{feathers:"Feathers 🪶",bones:"Hollow bones 🦴",eagle:"Eagle 🦅"},
+    de:{feathers:"Federn 🪶",bones:"Hohle Knochen 🦴",eagle:"Adler 🦅"},
+    hu:{feathers:"Tollak 🪶",bones:"Üreges csontok 🦴",eagle:"Sas 🦅"},
+    ro:{feathers:"Pene 🪶",bones:"Oase goale 🦴",eagle:"Vultur 🦅"},
+  };
+  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -366,17 +378,22 @@ function SVG_R2(lang: string = "en"): React.ReactNode {
 
       {/* Labels with dashed pointer lines */}
       <line x1="85" y1="120" x2="105" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="65" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">Feathers 🪶</text>
+      <text x="65" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">{l.feathers}</text>
 
       <line x1="155" y1="120" x2="135" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="175" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">Hollow bones 🦴</text>
+      <text x="175" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">{l.bones}</text>
 
-      <text x="120" y="145" textAnchor="middle" fontSize="12" fontWeight="bold" fill="white">Eagle 🦅</text>
+      <text x="120" y="145" textAnchor="middle" fontSize="12" fontWeight="bold" fill="white">{l.eagle}</text>
     </svg>
   );
 }
 
 function SVG_R3(lang: string = "en"): React.ReactNode {
+  const lb: Record<string,{cold:string;warm:string}> = {
+    en:{cold:"Cold 🥶",warm:"Warm 🔥"},de:{cold:"Kalt 🥶",warm:"Warm 🔥"},
+    hu:{cold:"Hideg 🥶",warm:"Meleg 🔥"},ro:{cold:"Rece 🥶",warm:"Cald 🔥"},
+  };
+  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -540,13 +557,20 @@ function SVG_R3(lang: string = "en"): React.ReactNode {
       </g>
 
       {/* Labels */}
-      <text x="60" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Cold 🥶</text>
-      <text x="180" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Warm 🔥</text>
+      <text x="60" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.cold}</text>
+      <text x="180" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.warm}</text>
     </svg>
   );
 }
 
 function SVG_R4(lang: string = "en"): React.ReactNode {
+  const lb: Record<string,{leathery:string;hard:string;hatching:string}> = {
+    en:{leathery:"Leathery 🍳",hard:"Hard shell 🥚",hatching:"Hatching 🐣"},
+    de:{leathery:"Lederartig 🍳",hard:"Hartschale 🥚",hatching:"Schlüpfend 🐣"},
+    hu:{leathery:"Bőrszerű 🍳",hard:"Kemény héj 🥚",hatching:"Kelés 🐣"},
+    ro:{leathery:"Pieloasă 🍳",hard:"Coajă tare 🥚",hatching:"Ecloziune 🐣"},
+  };
+  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -621,7 +645,7 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
 
         {/* Label with dashed pointer */}
         <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#333">Leathery 🍳</text>
+        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#333">{l.leathery}</text>
       </g>
 
       {/* BIRD EGG (right) - hard shell */}
@@ -642,7 +666,7 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
 
         {/* Label with dashed pointer */}
         <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Hard shell 🥚</text>
+        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.hard}</text>
       </g>
 
       {/* HATCHING EGG (center bottom) */}
@@ -664,13 +688,20 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
         <circle cx="2.2" cy="-3.7" r="0.4" fill="white" opacity="0.8" />
 
         {/* Label below */}
-        <text x="0" y="22" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#333">Hatching 🐣</text>
+        <text x="0" y="22" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#333">{l.hatching}</text>
       </g>
     </svg>
   );
 }
 
 function SVG_R5(lang: string = "en"): React.ReactNode {
+  const lb: Record<string,{reptiles:string;birds:string;scales:string;cold:string;eggs:string;feathers:string;warm:string}> = {
+    en:{reptiles:"Reptiles",birds:"Birds",scales:"Scales ✓",cold:"Cold-blooded ✓",eggs:"Eggs ✓",feathers:"Feathers ✓",warm:"Warm-blooded ✓"},
+    de:{reptiles:"Reptilien",birds:"Vögel",scales:"Schuppen ✓",cold:"Kaltblüter ✓",eggs:"Eier ✓",feathers:"Federn ✓",warm:"Warmblüter ✓"},
+    hu:{reptiles:"Hüllők",birds:"Madarak",scales:"Pikkelyek ✓",cold:"Hidegvérű ✓",eggs:"Tojás ✓",feathers:"Tollak ✓",warm:"Melegvérű ✓"},
+    ro:{reptiles:"Reptile",birds:"Păsări",scales:"Solzi ✓",cold:"Sânge rece ✓",eggs:"Ouă ✓",feathers:"Pene ✓",warm:"Sânge cald ✓"},
+  };
+  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -715,7 +746,7 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       <rect x="8" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
 
       {/* Title */}
-      <text x="60.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">Reptiles</text>
+      <text x="60.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">{l.reptiles}</text>
 
       {/* Lizard illustration */}
       <g transform="translate(35, 58)">
@@ -741,17 +772,17 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       {/* Features list */}
       <g>
         <circle cx="18" cy="98" r="2.5" fill="#9CCC65" />
-        <text x="26" y="102" fontSize="9" fontWeight="bold" fill="white">Scales ✓</text>
+        <text x="26" y="102" fontSize="9" fontWeight="bold" fill="white">{l.scales}</text>
       </g>
 
       <g>
         <circle cx="18" cy="116" r="2.5" fill="#9CCC65" />
-        <text x="26" y="120" fontSize="9" fontWeight="bold" fill="white">Cold-blooded ✓</text>
+        <text x="26" y="120" fontSize="9" fontWeight="bold" fill="white">{l.cold}</text>
       </g>
 
       <g>
         <circle cx="18" cy="134" r="2.5" fill="#9CCC65" />
-        <text x="26" y="138" fontSize="9" fontWeight="bold" fill="white">Eggs ✓</text>
+        <text x="26" y="138" fontSize="9" fontWeight="bold" fill="white">{l.eggs}</text>
       </g>
 
       {/* RIGHT CARD - BIRDS */}
@@ -761,7 +792,7 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       <rect x="127" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
 
       {/* Title */}
-      <text x="179.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">Birds</text>
+      <text x="179.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">{l.birds}</text>
 
       {/* Eagle illustration */}
       <g transform="translate(155, 52)">
@@ -790,17 +821,17 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       {/* Features list */}
       <g>
         <circle cx="137" cy="98" r="2.5" fill="#FFD54F" />
-        <text x="145" y="102" fontSize="9" fontWeight="bold" fill="white">Feathers ✓</text>
+        <text x="145" y="102" fontSize="9" fontWeight="bold" fill="white">{l.feathers}</text>
       </g>
 
       <g>
         <circle cx="137" cy="116" r="2.5" fill="#FFD54F" />
-        <text x="145" y="120" fontSize="9" fontWeight="bold" fill="white">Warm-blooded ✓</text>
+        <text x="145" y="120" fontSize="9" fontWeight="bold" fill="white">{l.warm}</text>
       </g>
 
       <g>
         <circle cx="137" cy="134" r="2.5" fill="#FFD54F" />
-        <text x="145" y="138" fontSize="9" fontWeight="bold" fill="white">Eggs ✓</text>
+        <text x="145" y="138" fontSize="9" fontWeight="bold" fill="white">{l.eggs}</text>
       </g>
     </svg>
   );
