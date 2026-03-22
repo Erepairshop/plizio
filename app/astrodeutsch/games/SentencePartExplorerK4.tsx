@@ -165,7 +165,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 sentence parts overview ──────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SENTENCE_PARTS.length;
 
@@ -208,7 +208,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Find the Subjekt ────────────────────────────────────────────────
-function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -256,7 +256,7 @@ function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
 }
 
 // ─── Round 3: Find the Prädikat ───────────────────────────────────────────────
-function Round3({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -304,7 +304,7 @@ function Round3({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
 }
 
 // ─── Round 4: Object Akk/Dat ──────────────────────────────────────────────────
-function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -454,6 +454,7 @@ const SentencePartExplorerK4 = memo(function SentencePartExplorerK4({
   onDone: (score: number, total: number) => void;
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
+  const [showTeach, setShowTeach] = useState(true);
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
@@ -471,10 +472,10 @@ const SentencePartExplorerK4 = memo(function SentencePartExplorerK4({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
           {round === 4 && (
             <div className="w-full flex flex-col items-center gap-4">
               <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} />

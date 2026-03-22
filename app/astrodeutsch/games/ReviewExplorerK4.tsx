@@ -174,7 +174,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Kasus quick match ───────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
   const [matched, setMatched] = useState<Record<string, string>>({});
   const [selectedQ, setSelectedQ] = useState<string | null>(null);
   const allMatched = Object.keys(matched).length >= CASE_MATCH.length;
@@ -246,12 +246,12 @@ function Round2({
   color,
   lbl,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -335,12 +335,12 @@ function Round3({
   color,
   lbl,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -431,12 +431,12 @@ function Round4({
   color,
   lbl,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -642,6 +642,7 @@ const ReviewExplorerK4 = memo(function ReviewExplorerK4({
   onDone: (score: number, total: number) => void;
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
+  const [showTeach, setShowTeach] = useState(true);
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 6;
   const wrongCountRef = useRef(0);
@@ -659,10 +660,10 @@ const ReviewExplorerK4 = memo(function ReviewExplorerK4({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={next} />}
           {round === 5 && <Round6 color={color} lbl={lbl} onDone={finish} />}
         </motion.div>

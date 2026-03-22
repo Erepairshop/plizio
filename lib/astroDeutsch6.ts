@@ -74,7 +74,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortschatz_k6/synonyme", "wortschatz_k6/antonyme"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-synonym-antonym-explorer",  icon: "🪐", label: { de: "Synonyme-Quiz",     en: "Synonym Quiz",     hu: "Szinonima kvíz",    ro: "Quiz sinonime"     } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 90, svgY: 270,
@@ -110,7 +110,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortbildung_k6/komposita_k6", "wortbildung_k6/derivation_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-wortbildung-explorer",  icon: "🪐", label: { de: "Wortbildung-Quiz",  en: "Word Formation Quiz", hu: "Szóalkotás kvíz",  ro: "Quiz formare"      } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",         hu: "Gyors kör",         ro: "Rundă rapidă"    } },
     ],
     svgX: 230, svgY: 55,

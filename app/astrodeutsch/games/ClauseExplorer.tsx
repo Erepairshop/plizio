@@ -175,7 +175,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 Sentence types ────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SENTENCE_TYPES.length;
 
@@ -224,13 +224,13 @@ function Round2({
   lbl,
   lang,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   lang?: string;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
@@ -300,12 +300,12 @@ function Round3({
   color,
   lbl,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= CONJUNCTIONS.length;
@@ -353,12 +353,12 @@ function Round4({
   color,
   lbl,
   wrongCountRef,
-  onNext,
+  onNext, showTeach, setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext: () => void;
+  onNext, showTeach, setShowTeach: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
@@ -504,6 +504,7 @@ const ClauseExplorer = memo(function ClauseExplorer({
   onDone: (score: number, total: number) => void;
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
+  const [showTeach, setShowTeach] = useState(true);
   const [round, setRound] = useState(0);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
@@ -521,10 +522,10 @@ const ClauseExplorer = memo(function ClauseExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
