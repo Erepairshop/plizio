@@ -393,6 +393,7 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   const t = T[lang as keyof typeof T] ?? T.en;
   const pct = Math.round((score / total) * 100);
   const emoji = pct >= 80 ? "🏆" : pct >= 60 ? "🎯" : "💪";
+  const earnedBonus = score >= 10;
 
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
@@ -406,6 +407,16 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
+      {earnedBonus && (
+        <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="flex flex-col items-center gap-2">
+          <p className="text-white/70 text-sm font-medium">+3⭐ {lang === "hu" ? "Bónusz!" : lang === "de" ? "Bonus!" : lang === "ro" ? "Bonus!" : "Bonus!"}</p>
+        </motion.div>
+      )}
+      {!earnedBonus && score < 10 && (
+        <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="flex flex-col items-center gap-2">
+          <p className="text-white/50 text-xs font-medium">{lang === "hu" ? `Még ${10 - score} pont az 3⭐ bónuszhoz!` : lang === "de" ? `Noch ${10 - score} Punkte für +3⭐ Bonus!` : lang === "ro" ? `Mai ${10 - score} puncte pentru +3⭐ bonus!` : `${10 - score} more points for +3⭐ bonus!`}</p>
+        </motion.div>
+      )}
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}

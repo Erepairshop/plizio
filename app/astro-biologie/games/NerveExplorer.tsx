@@ -138,7 +138,7 @@ const LABELS: Record<string, Record<string, string>> = {
     r3_fact3: "A gerinc feldolgozza és jelet küld az izmot aktiváló idegsejtre",
     r3_fact4: "Az izmot aktiváló idegsejt aktiválja az izmot — azonnali reakció agyértékítés nélkül!",
 
-    r3_title: "Agyi Régiók: A Irányítóközpont",
+    r4_title: "Agyi Régiók: Az Irányítóközpont",
     r4_text: "Az agynak speciális régiói vannak. Mindegyik különböző funkciókat irányít, mint gondolkodás, egyensúly és légzés.",
     r4_fact1: "Nagytekintély (nagyagy) — legnagyobb rész, gondolkodás, tanulás, memória, érzelmek",
     r4_fact2: "Cerebellum (kisagy) — koordinálja az egyensúlyt és az apró mozgásokat",
