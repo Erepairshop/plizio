@@ -327,32 +327,32 @@ interface RoundMeta {
   hintKey?: string;
 }
 
-const ROUND_META: RoundMeta[] = [
+const ROUND_META = (lang: string): RoundMeta[] => [
   {
     infoTitle: "r1_info_title",
     infoText: "r1_info_text",
-    svg: <SVG_R1 />,
+    svg: SVG_R1(lang),
   },
   {
     infoTitle: "r2_info_title",
     infoText: "r2_info_text",
-    svg: <SVG_R2 />,
+    svg: SVG_R2(lang),
   },
   {
     infoTitle: "r3_info_title",
     infoText: "r3_info_text",
-    svg: <SVG_R3 />,
+    svg: SVG_R3(lang),
   },
   {
     infoTitle: "r4_info_title",
     infoText: "r4_info_text",
-    svg: <SVG_R4 />,
+    svg: SVG_R4(lang),
     hintKey: "r4_hint",
   },
   {
     infoTitle: "r5_info_title",
     infoText: "r5_info_text",
-    svg: <SVG_R5 />,
+    svg: SVG_R5(lang),
   },
 ];
 
@@ -373,7 +373,15 @@ function shuffle<T>(arr: T[]): T[] {
 // SVG Illustrations
 // ─────────────────────────────────────────────────────────────────────────────
 
-function SVG_R1() {
+function SVG_R1(lang: string) {
+  const labels = {
+    en: { gills: "Gills", scales: "Scales", fins: "Fins" },
+    de: { gills: "Kiemen", scales: "Schuppen", fins: "Flossen" },
+    hu: { gills: "Kopoltyú", scales: "Pikkelyek", fins: "Uszony" },
+    ro: { gills: "Branhii", scales: "Solzi", fins: "Aripioare" },
+  };
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -417,20 +425,28 @@ function SVG_R1() {
       <circle cx="51" cy="75" r="1.5" fill="black" />
 
       {/* Labels */}
-      <text x="55" y="40" fontSize="11" fill="white" fontWeight="bold" textAnchor="middle">
-        Kiemen
+      <text x="55" y="40" fontSize="11" fill="#FCD34D" fontWeight="bold" textAnchor="middle">
+        {l.gills}
       </text>
-      <text x="90" y="125" fontSize="11" fill="white" fontWeight="bold" textAnchor="middle">
-        Schuppen
+      <text x="90" y="125" fontSize="11" fill="#FCD34D" fontWeight="bold" textAnchor="middle">
+        {l.scales}
       </text>
-      <text x="130" y="80" fontSize="11" fill="white" fontWeight="bold" textAnchor="middle">
-        Flossen
+      <text x="130" y="80" fontSize="11" fill="#FCD34D" fontWeight="bold" textAnchor="middle">
+        {l.fins}
       </text>
     </svg>
   );
 }
 
-function SVG_R2() {
+function SVG_R2(lang: string) {
+  const labels = {
+    en: { water: "Water", land: "Land" },
+    de: { water: "Wasser", land: "Land" },
+    hu: { water: "Víz", land: "Szárazföld" },
+    ro: { water: "Apă", land: "Uscat" },
+  };
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -485,17 +501,25 @@ function SVG_R2() {
       <ellipse cx="145" cy="110" rx="6" ry="8" fill="#4ADE80" />
 
       {/* Labels */}
-      <text x="60" y="30" fontSize="13" fill="white" fontWeight="bold" textAnchor="middle">
-        Wasser
+      <text x="60" y="30" fontSize="13" fill="#FCD34D" fontWeight="bold" textAnchor="middle">
+        {l.water}
       </text>
-      <text x="180" y="30" fontSize="13" fill="white" fontWeight="bold" textAnchor="middle">
-        Land
+      <text x="180" y="30" fontSize="13" fill="#FCD34D" fontWeight="bold" textAnchor="middle">
+        {l.land}
       </text>
     </svg>
   );
 }
 
-function SVG_R3() {
+function SVG_R3(lang: string) {
+  const labels = {
+    en: { fish: "Fish", tadpole: "Tadpole", frog: "Adult Frog", gills: "Gills ✓", lungs: "Lungs + Skin ✓" },
+    de: { fish: "Fisch", tadpole: "Kaulquappe", frog: "Erwachsener Frosch", gills: "Kiemen ✓", lungs: "Lunge+Haut ✓" },
+    hu: { fish: "Hal", tadpole: "Ebihal", frog: "Felnőtt béka", gills: "Kopoltyú ✓", lungs: "Tüdő+Bőr ✓" },
+    ro: { fish: "Pește", tadpole: "Mormoloc", frog: "Broaște adultă", gills: "Branhii ✓", lungs: "Plămâni+Piele ✓" },
+  };
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -514,10 +538,10 @@ function SVG_R3() {
         <rect x="26" y="50" width="6" height="10" fill="#FF6B35" opacity="0.6" />
         <circle cx="20" cy="50" r="1.5" fill="white" />
         <text x="42" y="130" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Fish
+          {l.fish}
         </text>
         <text x="42" y="145" fontSize="9" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
-          Gills ✓
+          {l.gills}
         </text>
       </g>
 
@@ -529,10 +553,10 @@ function SVG_R3() {
         <rect x="106" y="50" width="5" height="8" fill="#FF6B35" opacity="0.6" />
         <circle cx="102" cy="50" r="1.5" fill="white" />
         <text x="120" y="130" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Tadpole
+          {l.tadpole}
         </text>
         <text x="120" y="145" fontSize="9" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
-          Gills ✓
+          {l.gills}
         </text>
       </g>
 
@@ -546,17 +570,25 @@ function SVG_R3() {
         <ellipse cx="185" cy="65" rx="4" ry="6" fill="#4ADE80" />
         <ellipse cx="211" cy="65" rx="4" ry="6" fill="#4ADE80" />
         <text x="198" y="130" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Adult Frog
+          {l.frog}
         </text>
         <text x="198" y="145" fontSize="8" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
-          Lungs + Skin ✓
+          {l.lungs}
         </text>
       </g>
     </svg>
   );
 }
 
-function SVG_R4() {
+function SVG_R4(lang: string) {
+  const labels = {
+    en: { egg: "Egg", tadpole: "Tadpole", froglet: "Froglet", adult: "Adult Frog" },
+    de: { egg: "Ei", tadpole: "Kaulquappe", froglet: "Jungfrosch", adult: "Erwachsener Frosch" },
+    hu: { egg: "Pete", tadpole: "Ebihal", froglet: "Kis béka", adult: "Felnőtt béka" },
+    ro: { egg: "Ou", tadpole: "Mormoloc", froglet: "Broaștică", adult: "Broaște adultă" },
+  };
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -574,7 +606,7 @@ function SVG_R4() {
       <g>
         <ellipse cx="75" cy="50" rx="10" ry="14" fill="#F59E0B" stroke="white" strokeWidth="1" />
         <text x="75" y="80" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Egg
+          {l.egg}
         </text>
       </g>
 
@@ -586,7 +618,7 @@ function SVG_R4() {
         <ellipse cx="165" cy="50" rx="12" ry="10" fill="#FBBF24" />
         <path d="M 153 50 L 130 40 L 135 50 L 130 60 Z" fill="#F59E0B" opacity="0.8" />
         <text x="165" y="80" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Tadpole
+          {l.tadpole}
         </text>
       </g>
 
@@ -601,7 +633,7 @@ function SVG_R4() {
         <ellipse cx="152" cy="135" rx="3" ry="5" fill="#4ADE80" />
         <ellipse cx="178" cy="135" rx="3" ry="5" fill="#4ADE80" />
         <text x="165" y="155" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Froglet
+          {l.froglet}
         </text>
       </g>
 
@@ -616,14 +648,58 @@ function SVG_R4() {
         <ellipse cx="65" cy="135" rx="2.5" ry="5" fill="#4ADE80" />
         <ellipse cx="85" cy="135" rx="2.5" ry="5" fill="#4ADE80" />
         <text x="75" y="155" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
-          Adult
+          {l.adult}
         </text>
       </g>
     </svg>
   );
 }
 
-function SVG_R5() {
+function SVG_R5(lang: string) {
+  const labels = {
+    en: {
+      fish: "Fish",
+      amphibian: "Amphibians",
+      gills: "Gills ✓",
+      scales: "Scales ✓",
+      fins: "Fins ✓",
+      skin: "Moist Skin ✓",
+      legs: "4 Legs ✓",
+      waterland: "Water+Land ✓",
+    },
+    de: {
+      fish: "Fische",
+      amphibian: "Amphibien",
+      gills: "Kiemen ✓",
+      scales: "Schuppen ✓",
+      fins: "Flossen ✓",
+      skin: "Feuchte Haut ✓",
+      legs: "4 Beine ✓",
+      waterland: "Wasser+Land ✓",
+    },
+    hu: {
+      fish: "Halak",
+      amphibian: "Kétéltűek",
+      gills: "Kopoltyú ✓",
+      scales: "Pikkelyek ✓",
+      fins: "Úszók ✓",
+      skin: "Nedves bőr ✓",
+      legs: "4 láb ✓",
+      waterland: "Víz+Szárazföld ✓",
+    },
+    ro: {
+      fish: "Pești",
+      amphibian: "Amfibieni",
+      gills: "Branhii ✓",
+      scales: "Solzi ✓",
+      fins: "Aripioare ✓",
+      skin: "Piele umedă ✓",
+      legs: "4 picioare ✓",
+      waterland: "Apă+Pământ ✓",
+    },
+  };
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -638,20 +714,25 @@ function SVG_R5() {
       <g>
         <rect x="20" y="30" width="90" height="105" rx="4" fill="rgba(255,255,255,0.08)" stroke="rgba(59,130,246,0.4)" strokeWidth="1.5" />
 
+        {/* Header */}
+        <text x="65" y="47" fontSize="11" fill="white" fontWeight="bold" textAnchor="middle">
+          {l.fish}
+        </text>
+
         {/* Fish icon */}
-        <ellipse cx="65" cy="55" rx="20" ry="16" fill="#2DD4BF" />
-        <path d="M 45 55 L 25 45 L 30 55 L 25 65 Z" fill="#0891B2" opacity="0.8" />
-        <circle cx="35" cy="50" r="2" fill="white" />
+        <ellipse cx="65" cy="65" rx="20" ry="16" fill="#2DD4BF" />
+        <path d="M 45 65 L 25 55 L 30 65 L 25 75 Z" fill="#0891B2" opacity="0.8" />
+        <circle cx="35" cy="60" r="2" fill="white" />
 
         {/* Checkmarks */}
-        <text x="48" y="90" fontSize="12" fill="white" fontWeight="bold">
-          Gills ✓
+        <text x="48" y="100" fontSize="11" fill="white" fontWeight="bold">
+          {l.gills}
         </text>
-        <text x="48" y="110" fontSize="12" fill="white" fontWeight="bold">
-          Scales ✓
+        <text x="48" y="118" fontSize="11" fill="white" fontWeight="bold">
+          {l.scales}
         </text>
-        <text x="48" y="130" fontSize="12" fill="white" fontWeight="bold">
-          Fins ✓
+        <text x="48" y="136" fontSize="11" fill="white" fontWeight="bold">
+          {l.fins}
         </text>
       </g>
 
@@ -659,22 +740,27 @@ function SVG_R5() {
       <g>
         <rect x="130" y="30" width="90" height="105" rx="4" fill="rgba(255,255,255,0.08)" stroke="rgba(16,185,129,0.4)" strokeWidth="1.5" />
 
+        {/* Header */}
+        <text x="175" y="47" fontSize="11" fill="white" fontWeight="bold" textAnchor="middle">
+          {l.amphibian}
+        </text>
+
         {/* Frog icon */}
-        <ellipse cx="175" cy="55" rx="16" ry="14" fill="#4ADE80" />
-        <circle cx="170" cy="50" r="1.5" fill="white" />
-        <circle cx="180" cy="50" r="1.5" fill="white" />
-        <ellipse cx="160" cy="62" rx="3" ry="5" fill="#4ADE80" />
-        <ellipse cx="190" cy="62" rx="3" ry="5" fill="#4ADE80" />
+        <ellipse cx="175" cy="65" rx="16" ry="14" fill="#4ADE80" />
+        <circle cx="170" cy="60" r="1.5" fill="white" />
+        <circle cx="180" cy="60" r="1.5" fill="white" />
+        <ellipse cx="160" cy="72" rx="3" ry="5" fill="#4ADE80" />
+        <ellipse cx="190" cy="72" rx="3" ry="5" fill="#4ADE80" />
 
         {/* Checkmarks */}
-        <text x="158" y="90" fontSize="12" fill="white" fontWeight="bold">
-          Moist Skin ✓
+        <text x="158" y="100" fontSize="11" fill="white" fontWeight="bold">
+          {l.skin}
         </text>
-        <text x="158" y="110" fontSize="12" fill="white" fontWeight="bold">
-          4 Legs ✓
+        <text x="158" y="118" fontSize="11" fill="white" fontWeight="bold">
+          {l.legs}
         </text>
-        <text x="158" y="130" fontSize="12" fill="white" fontWeight="bold">
-          Water+Land ✓
+        <text x="158" y="136" fontSize="11" fill="white" fontWeight="bold">
+          {l.waterland}
         </text>
       </g>
     </svg>
@@ -796,7 +882,7 @@ export default function FishExplorer({
     }
   }, [round, onDone]);
 
-  const meta = ROUND_META[round];
+  const meta = ROUND_META(langCode)[round];
 
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
