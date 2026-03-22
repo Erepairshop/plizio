@@ -186,7 +186,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
         scoreRef.current += 1;
       }
 
-      setTimeout(() => advanceSub(), 1500);
+      const delay = choice === currentQ.answer ? 1500 : 2500;
+      setTimeout(() => advanceSub(), delay);
     },
     [locked, getCurrentQuestion, advanceSub]
   );
@@ -350,6 +351,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                   {getCurrentQuestion()?.choices.map((choice, idx) => {
                     const isCorrect = choice === getCurrentQuestion()?.answer;
                     const isSelected = selected === choice;
+                    const wasWrong = locked && selected !== getCurrentQuestion()?.answer;
 
                     return (
                       <motion.button
@@ -362,9 +364,11 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                             ? isCorrect
                               ? "bg-green-500/20 border-green-500 text-green-300"
                               : "bg-red-500/20 border-red-500 text-red-300"
-                            : locked
-                              ? "bg-white/5 border-white/10 text-white/50"
-                              : "bg-white/10 border-white/20 text-white hover:bg-white/20 hover:border-white/30"
+                            : locked && isCorrect && wasWrong
+                              ? "bg-green-500/20 border-green-500 text-green-300"
+                              : locked
+                                ? "bg-white/5 border-white/10 text-white/50"
+                                : "bg-white/10 border-white/20 text-white hover:bg-white/20 hover:border-white/30"
                         }`}
                       >
                         {L(choice)}
