@@ -2490,3 +2490,288 @@ Minden tantárgyhoz **mindig kettő** jön létre:
 | `/astrodeutsch` | `/deutschtest` | `lib/astroDeutsch*.ts` + `lib/germanCurriculum*.ts` |
 | `/astroenglish` | `/englishtest` | `lib/astroEnglish*.ts` + `lib/englishCurriculum.ts` |
 | `/astromagyar` | `/magyarteszt` | `lib/astroMagyar*.ts` + `lib/hungarianCurriculum.ts` |
+| `/astro-sachkunde` | `/sachkundetest` | `lib/astroSachkunde*.ts` + `lib/sachkundeCurriculum*.ts` |
+
+---
+
+## SHARED GAME ENGINES — QuizEngine, MatchEngine, SortEngine
+
+> A régi önálló komponensek (OrbitQuiz, BlackHole, SpeedRound, StarMatch, GravitySort) lecserélve közös engine-ekre (2026-03-22).
+> Az engine-ek a `components/` mappában vannak, a wrapper-ek `app/astromath/games/`-ban.
+
+### QuizEngine (`components/QuizEngine.tsx`)
+
+**Lecseréli:** `OrbitQuiz.tsx`, `BlackHole.tsx`, `SpeedRound.tsx`
+
+```ts
+export interface QuizQuestion {
+  question: string;
+  options: (string | number)[];
+  correctAnswer: string | number;
+  hint?: string;
+}
+
+export interface QuizConfig {
+  timer?: number;              // mp/kérdés, 0 = nincs timer (default)
+  showStreak?: boolean;        // streak/combo számláló (default: true)
+  showScore?: boolean;         // élő pontszám (default: true)
+  particles?: boolean;         // részecske effekt helyes válasznál (default: true)
+  advanceDelay?: number;       // auto-advance késleltetés ms (default: 1800)
+  columns?: 1 | 2;             // rács elrendezés (default: auto)
+  showCorrectOnWrong?: boolean; // helyes válasz mutatása hiba esetén (default: true)
+}
+
+interface Props {
+  questions: QuizQuestion[];
+  color: string;
+  onDone: (score: number, total: number) => void;
+  onCorrect?: () => void;
+  onWrong?: () => void;
+  onClose?: () => void;
+  config?: QuizConfig;
+  lang?: string;
+}
+```
+
+**Wrapper-ek:**
+| Wrapper | Config különbség |
+|---------|-----------------|
+| `OrbitQuiz` | `{ showStreak: true, particles: true }` (alap) |
+| `BlackHole` | `{ columns: 1 }` (egyoszlopos) |
+| `SpeedRound` | `{ timer: 11, advanceDelay: 1200 }` (időnyomásos) |
+
+**TTS:** Beépített `speakText()` — nyelv-alapú hangválasztás (en-US, de-DE, hu-HU, ro-RO).
+
+### MatchEngine (`components/MatchEngine.tsx`)
+
+**Lecseréli:** `StarMatch.tsx`
+
+```ts
+export interface MatchPair { left: string; right: string }
+
+interface Props {
+  pairs: MatchPair[];
+  color: string;
+  onDone: (score: number, total: number) => void;
+  regenerate?: () => MatchPair[];  // új pár generálás következő körre
+  rounds?: number;                 // körök száma (default: 3)
+  lang?: string;
+}
+```
+
+- 3 kör × 5 pár = 15 párosítás összesen
+- Bal oszlop: kérdések (fix), jobb oszlop: válaszok (kevert)
+- Rossz párosítás: 600ms piros flash
+
+### SortEngine (`components/SortEngine.tsx`)
+
+**Lecseréli:** `GravitySort.tsx`
+
+```ts
+export interface SortRound {
+  numbers: number[];
+  sorted: number[];
+  labels?: string[];       // opcionális felirat a számok helyett (pl. "2³")
+  sortedLabels?: string[];
+}
+
+interface Props {
+  sortRange: [number, number];
+  color: string;
+  onDone: (score: number, total: number) => void;
+  generateRound?: () => SortRound;
+  rounds?: number;    // körök száma (default: 5)
+  lang?: string;
+}
+```
+
+- 5 kör × 5 szám — tap sorrendben (kicsitől a nagyig)
+- Streak counter 2+-nál jelenik meg
+
+---
+
+## EXPLORERENGINE — Tanító-kvíz motor
+
+> Lokáció: `app/astro-biologie/games/ExplorerEngine.tsx` (477 sor)
+> Minden tantárgy explorer fájljai ezt használják (biológia, sachkunde, deutsch, english, magyar).
+
+### ExplorerDef típus
+
+```ts
+export interface ExplorerDef {
+  labels: Record<string, Record<string, string>>; // labels[langCode][labelKey] = szöveg
+  rounds: RoundDef[];  // mindig 5 kör
+}
+
+export interface RoundDef {
+  type: "info" | "mcq" | "order";
+  infoTitle: string;           // label key — tanítási cím
+  infoText: string;            // label key — tanítási szöveg
+  svg: (lang: string) => React.ReactNode;  // SVG illusztráció
+  questions?: MCQQuestion[];   // MCQ kérdés pool (1+ kérdés)
+  orderSequence?: readonly string[];  // tap-in-order sorrend (label key-ek)
+  hintKey?: string;            // opcionális hint (label key)
+  bulletKeys?: string[];       // kulcs tények listaként (label key-ek)
+}
+
+interface MCQQuestion {
+  question: string;    // label key
+  choices: string[];   // label key-ek (4 választás)
+  answer: string;      // label key (helyes válasz)
+}
+```
+
+### Props
+
+```ts
+interface Props {
+  def: ExplorerDef;
+  color?: string;
+  lang?: string;
+  onDone?: (score: number, total: number) => void;
+  onClose?: () => void;
+}
+```
+
+### 5-körös struktúra (fix!)
+
+| Kör | Típus | Cél |
+|-----|-------|-----|
+| R1-R4 | `"info"` → majd `"mcq"` | Tanítás (INFO fázis: szöveg + SVG + bullet pontok), aztán 1 kvíz kérdés |
+| R5 | `"mcq"` | Ismétlő kvíz — 2-3 kérdés az előző körök anyagából |
+
+**Fázisok:** `"info"` (tanítási tartalom + "Got it! →" gomb) → `"question"` (MCQ vagy order)
+**Auto-advance:** 1500ms (helyes) | 2500ms (helytelen)
+
+### Pontszámítás
+- Minden MCQ kérdés: `totalRef += 1`, helyes válasz: `scoreRef += 1`
+- Order sorrend: `totalRef += 1` ha befejezi, `scoreRef += 1` ha helyes
+
+### TTS támogatás
+Beépített `speak()` — nyelv-alapú hangválasztás:
+- EN: en-US, DE: de-DE, HU: hu-HU (0.82 rate, 1.1 pitch), RO: ro-RO
+
+### Explorer fájl minta (checklist)
+
+```
+□ LABELS — 4 nyelv (en/de/hu/ro), minden kör címe + szövege + bullet + kérdés + választások
+□ SVG_R1..SVG_R5 — 5 SVG illusztráció függvény, (lang: string) => ReactNode
+□ R1_POOL..R5_POOL — MCQ kérdés pool-ok (R1-R4: 1 kérdés, R5: 2-3 kérdés)
+□ EXPLORER_DEF — ExplorerDef objektum, 5 kör
+□ Export default wrapper: ({ color, lang, onDone }) => <ExplorerEngine def={DEF} ... />
+```
+
+**SVG szabályok (ismétlés):**
+- NINCS `<text>` elem az SVG-ben — minden szöveg a LABELS objektumból jön
+- `viewBox="0 0 240 160"` standard méret
+- `(lang: string)` param az SVG függvényen
+
+---
+
+## ÖSSZES ASTRO JÁTÉK — Teljes leltár
+
+### Áttekintés
+
+| Játék | Route | Osztályok | Lib prefix | localStorage prefix | Osztály jelölés |
+|-------|-------|-----------|------------|--------------------|-----------------|
+| AstroMath | `/astromath` | 1-8 | `lib/astromath*.ts` | `astromath_g{N}_v{V}` | G (Grade) |
+| AstroDeutsch | `/astrodeutsch` | 1-8 | `lib/astroDeutsch*.ts` | `astrodeutsch_k{N}_v1` | K (Klasse) |
+| AstroEnglish | `/astroenglish` | 1-8 | `lib/astroEnglish*.ts` | `astroenglish_k{N}_v1` | K (Klasse) |
+| AstroMagyar | `/astromagyar` | 1-8 | `lib/astroMagyar*.ts` | `astromagyar_o{N}_v1` | O (Osztály) |
+| AstroBiologie | `/astro-biologie` | 5-8 | `lib/astroBiologie*.ts` | `astro-biologie_k{N}_v1` | K (Klasse) |
+| AstroSachkunde | `/astro-sachkunde` | 1-4 | `lib/astroSachkunde*.ts` | `astrosachkunde_g{N}_v1` | G (Grade) |
+
+### Közös Progress interfész (minden astro játéknál azonos struktúra)
+
+```ts
+interface Progress {
+  completedMissions: string[];          // "i1_m1", "i2_m3", ...
+  completedIslands: string[];           // "i1", "i2", ...
+  completedTests: string[];             // "test1", "test2", "test3"
+  missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (legjobb eredmény)
+}
+```
+
+### localStorage kulcsok (teljes lista)
+
+| Kulcs | Játék |
+|-------|-------|
+| `astromath_g1_v2` | AstroMath G1 |
+| `astromath_g2_v1` .. `astromath_g8_v1` | AstroMath G2-G8 |
+| `astrodeutsch_k1_v1` .. `astrodeutsch_k8_v1` | AstroDeutsch K1-K8 |
+| `astroenglish_k1_v1` .. `astroenglish_k8_v1` | AstroEnglish K1-K8 |
+| `astromagyar_o1_v1` .. `astromagyar_o8_v1` | AstroMagyar O1-O8 |
+| `astro-biologie_k5_v1` .. `astro-biologie_k8_v1` | AstroBiologie K5-K8 |
+| `astrosachkunde_g1_v1` .. `astrosachkunde_g4_v1` | AstroSachkunde G1-G4 |
+
+### Lib fájlok — load/save függvény nevek
+
+| Játék | Load | Save | Prefix |
+|-------|------|------|--------|
+| AstroMath | `loadG{N}Progress()` | `saveG{N}Progress()` | G1-G8 |
+| AstroDeutsch | `loadK{N}Progress()` | `saveK{N}Progress()` | K1-K8 |
+| AstroEnglish | `loadK{N}Progress()` | `saveK{N}Progress()` | K1-K8 |
+| AstroMagyar | `loadO{N}Progress()` | `saveO{N}Progress()` | O1-O8 |
+| AstroBiologie | `loadBioK{N}Progress()` | `saveBioK{N}Progress()` | K5-K8 |
+| AstroSachkunde | `loadSKG{N}Progress()` | `saveSKG{N}Progress()` | G1-G4 |
+
+### Bolygók játékonként
+
+**AstroMath:** Terra → Aquaria → Ignos → Aureon → Violetis → Saturnia → Verdis → Cosmara
+**AstroDeutsch:** Buchstabia → Wortania → Grammatos → Kasusheim → Satzburg → Stilonia → Rhetorika → Analytica
+**AstroEnglish:** Phonicia → Lexica → Syntaxia → Rhetorica → Literaria → Analytica → Dialecta → Symbolica
+**AstroMagyar:** Betűria → Szókinesia → Mondatia → Aureon → Nyelvtania → Irodalmia → Stilisztia → Költészet
+
+### Játéktípusok tantárgyanként
+
+**Minden astro játék közös engine-ei:**
+- `orbit-quiz` (QuizEngine wrapper)
+- `black-hole` (QuizEngine, columns: 1)
+- `star-match` (MatchEngine wrapper)
+- `gravity-sort` (SortEngine wrapper)
+
+**AstroMath extra:**
+- `speed-round`, `number-duel`, `fraction-visual`, `equation-drill`, `missing-number`, `chain-calc`, `true-false-blitz`
+- 30+ explorer típus (counting, addsub, algebra, geometry, probability stb.)
+
+**AstroDeutsch extra:**
+- `word-blitz`, `spell-race`, `sentence-scramble`, `gap-fill`, `category-rush`
+- 30+ explorer típus (letter, syllable, article, noun, verb, kasus, clause stb.)
+
+**AstroEnglish extra:**
+- Hasonló a Deutsch-hoz, angol nyelvre adaptálva (phonics, vocab, grammar, literature stb.)
+
+**AstroMagyar extra:**
+- Hasonló struktúra, magyar nyelvre (betű, szó, mondat, nyelvtan, irodalom stb.)
+
+**AstroBiologie:** Főleg explorer-alapú (FishExplorer, DNAExplorer, CellExplorer stb.) + orbit-quiz/star-match
+
+**AstroSachkunde:** Egyszerű MCQ + explorer-alapú (K1-K4 szintű természetismeret)
+
+### Sziget struktúra (minden astro játékban azonos)
+
+- **9 sziget** grade-enként, minden szigetben **3 misszió**
+- **3 checkpoint** (3 szigetenként): test1 (i1-i3), test2 (i4-i6), test3 (i7-i9)
+- Misszió csillagok: 1-3 ⭐ az eredmény alapján (≥90% = 3⭐, ≥60% = 2⭐, egyébként 1⭐)
+- Sziget max: 9⭐ (3 misszió × 3 csillag)
+
+### Astro oldal page.tsx séma (minden grade oldal azonos minta)
+
+```
+Screen types: "map" | "island-transition" | "island-intro" | "island-complete-anim"
+  | "mission-select" | "playing" | "checkpoint" | "reward" | "mission-done"
+
+State: activeIsland, activeMission, activeGame, questions, progress, missionScore
+
+Flow: map → island-transition (RocketTransition 1.3s) → island-intro → mission-select
+  → playing (game engine) → mission-done → [island-complete-anim (13s) ha új sziget] → reward → map
+```
+
+### ⚠️ Astro fejlesztési szabályok
+
+1. **Copy+rename minta** — Új grade oldal SOHA nem íródik nulláról, mindig másolat (ld. "ÚJ ASTRO JÁTÉK LÉTREHOZÁSA" szekció fent)
+2. **Explorer fájlok ExplorerEngine-nel** — SOHA ne írj custom UI-t explorerhez, mindig ExplorerEngine wrapper
+3. **SVG-ben nincs szöveg** — minden felirat a LABELS objektumból, 4 nyelven
+4. **Explorer kártyák: `calculateRarity(score, total, 0, false)`** — soha nincs gold explorer-ből
+5. **Checkpoint: 15 kérdés, 3⭐ csak 10+ helyes válasznál**
+6. **IslandCompleteAnimation + RocketTransition** — minden grade oldalon integrálva kell legyen
