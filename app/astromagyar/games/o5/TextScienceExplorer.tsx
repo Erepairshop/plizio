@@ -4,28 +4,36 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Szövegtípusok", tx1: "A szövegeket különbözőképpen csoportosíthatjuk: elbeszélő, leíró, érvelő, utasító. Mindegyiknek saját célja van.",
-    q1: "Melyik szövegtípus egy receptet tartalmaz?", a1: "utasító", b1: "elbeszélő", c1: "leíró", d1: "érvelő",
-    t2: "Szöveg összekapcsolása", tx2: "A szöveg mondatait összekötő szavak: ezért, azonban, továbbá, például, ráadásul. Ezek a szöveg kohézióját erősítik.",
-    q2: "Melyik szó a szövegben logikus kapcsolatot mutat?", a2: "azonban", b2: "szék", c2: "kutya", d2: "piros",
-    t3: "Bekezdések szerkezete", tx3: "Egy jó bekezdésnek van fő gondolata és támogató mondatai. Az első mondat gyakran a legfontosabb.",
-    q3: "Melyik a bekezdés fő gondolata?", a3: "az első mondat", b3: "az utolsó mondat", c3: "a leghosszabb mondat", d3: "nincs fő gondolata",
-    t4: "Szövegkoherencia", tx4: "A koherencia azt jelenti, hogy a szöveg logikus, egy tárgyról szól, és az ötletek egymáshoz kapcsolódnak.",
-    q4: "Mi jelenti azt, hogy egy szöveg koherent?", a4: "az ötletek logikusan követik egymást", b4: "a szöveg nagyon hosszú", c4: "sok szóból áll", d4: "sok bekezdésből áll",
-    t5: "Szövegszerkesztés", tx5: "Egy szöveg szerkesztésekor ellenőrizd az összefüggőséget, a nyelvhelyességet és az értelmezhetőséget.",
-    q5: "Melyik fontos a szövegszerkesztéskor?", a5: "a koherencia és a nyelvhelyesség", b5: "a szöveghosszúság", c5: "a betűtípus", d5: "a papírszín",
+    t1: "Szövegtípusok", tx1: "A szövegek különféle típusokra osztódnak: elbeszélő (narráció), leíró, érvelő, és párbeszédes szövegek.",
+    q1: "Az alábbiak közül melyik szövegtípus?", a1: "Ebédszünetben találkoztam egy régi iskolatársommal.", b1: "Piroska volt egy szép, sötét hajú lány.", c1: "Ez a módszer sokkal jobb, mint az előző.", d1: "Mit hoztál ebédre?",
+
+    t2: "Kohézió a szövegben", tx2: "A kohézió azt jelenti, hogy a szöveg részei szorosan kapcsolódnak egymáshoz. Ezt végigvezetett gondolatmenettel és logikus szerkezettel érjük el.",
+    q2: "Mely szöveg mutat legjobb kohéziót?", a2: "Tegnap esett. Piroska otthon maradt. Később már nem esett.", b2: "Tegnap esett az eső. Mivel napos volt az előző nap, nem számítottunk erre. Ezért vizes ruhában kerültünk ki.", c2: "Esett. Piroska. Otthon.", d2: "Ma meleg volt. Tegnap hideg volt.",
+
+    t3: "Bekezdésszerkesztés", tx3: "A jó bekezdéseknek van fő gondolatuk (topik mondat) és támogató szövegrészek, amelyek részletezik azt.",
+    q3: "Melyik egy jó topik mondat egy bekezdéshez?", a3: "A macskák egy macska.", b3: "Az internetes kommunikáció számos előnyt kínál a modern világban.", c3: "Valaki mondott valamit.", d3: "Ott volt egy dolog.",
+
+    t4: "Kapcsolódási szavak", tx4: "A kapcsolódási szavak (azonban, ezenkívül, például) segítenek az eszmék közötti logikus kapcsolatot megteremteni.",
+    q4: "Melyik mondat helyes kapcsolódási szót használ?", a4: "Fáradt voltam. Azonban tanultam.", b4: "Szerettem az összes tantárgyat, például az angolt.", c4: "Ez fájdalmas volt, azonban jó volt.", d4: "Tudtam az anyagot, majd kell tanulnom.",
+
+    t5: "Szöveg szerkezete", tx5: "Az értelmes szövegnek van bevezetése, fő részei és lezárása, amely visszatér a kezdeti gondolatra.",
+    q5: "Mi az első lépés egy szöveg tervezésében?", a5: "Rögtön kezdj el írni.", b5: "Gondolkozz a célodról, olvasóidról és a fő gondolataidról.", c5: "Nézz meg sok szöveget.", d5: "Végzess nyelvtani gyakorlatokat.",
   },
   de: {
-    t1: "Texttypen", tx1: "Texte können unterschiedlich klassifiziert werden: erzählend, beschreibend, argumentierend, anweisend. Jeder hat einen eigenen Zweck.",
-    q1: "Welcher Texttyp enthält ein Rezept?", a1: "anweisend", b1: "erzählend", c1: "beschreibend", d1: "argumentierend",
-    t2: "Textkohäsion", tx2: "Verbindungswörter verbinden Sätze: daher, jedoch, außerdem, zum Beispiel, obendrein. Sie stärken die Textkohäsion.",
-    q2: "Welches Wort zeigt logische Verbindung im Text?", a2: "jedoch", b2: "Stuhl", c2: "Hund", d2: "rot",
-    t3: "Absatzstruktur", tx3: "Ein guter Absatz hat einen Hauptgedanken und unterstützende Sätze. Der erste Satz ist oft am wichtigsten.",
-    q3: "Was ist die Hauptidee eines Absatzes?", a3: "der erste Satz", b3: "der letzte Satz", c3: "der längste Satz", d3: "keine Hauptidee",
-    t4: "Textkoheränz", tx4: "Kohärenz bedeutet, dass ein Text logisch ist, über ein Thema spricht und die Ideen verbunden sind.",
-    q4: "Was bedeutet, dass ein Text kohärent ist?", a4: "die Ideen folgen logisch aufeinander", b4: "der Text ist sehr lang", c4: "er hat viele Wörter", d4: "er hat viele Absätze",
-    t5: "Textbearbeitung", tx5: "Bei der Textbearbeitung überprüfe Kohärenz, Sprachrichtigkeit und Verständlichkeit.",
-    q5: "Was ist wichtig beim Textbearbeitung?", a5: "Kohärenz und Sprachrichtigkeit", b5: "die Textlänge", c5: "die Schriftart", d5: "die Papierfarbe",
+    t1: "Texttypen", tx1: "Texte werden in verschiedene Typen eingeteilt: Erzählung, Beschreibung, Argumentation und Dialog.",
+    q1: "Welcher Texttyp ist das?", a1: "Mittags traf ich einen alten Schulkameraden.", b1: "Rotkäppchen war ein schönes Mädchen mit dunklem Haar.", c1: "Diese Methode ist besser als die vorherige.", d1: "Was hast du zum Mittag mitgebracht?",
+
+    t2: "Kohäsion im Text", tx2: "Kohäsion bedeutet, dass die Teile eines Textes eng miteinander verbunden sind. Dies wird durch eine durchgehende Gedankenführung erreicht.",
+    q2: "Welcher Text zeigt beste Kohäsion?", a2: "Gestern regnete es. Rotkäppchen blieb zu Hause. Später regnete es nicht mehr.", b2: "Gestern regnete es. Da der vorherige Tag sonnig war, rechneten wir nicht damit. Deshalb gingen wir in nasser Kleidung hinaus.", c2: "Regen. Rotkäppchen. Zuhause.", d2: "Heute war es warm. Gestern war es kalt.",
+
+    t3: "Absatzgestaltung", tx3: "Gute Absätze haben einen Hauptgedanken (Themensatz) und unterstützende Teile, die ihn detaillieren.",
+    q3: "Welcher ist ein guter Themensatz für einen Absatz?", a3: "Katzen sind eine Katze.", b3: "Die Online-Kommunikation bietet zahlreiche Vorteile in der modernen Welt.", c3: "Jemand sagte etwas.", d3: "Da war etwas.",
+
+    t4: "Übergangswörter", tx4: "Übergangswörter (jedoch, außerdem, zum Beispiel) helfen, logische Verbindungen zwischen Ideen herzustellen.",
+    q4: "Welcher Satz verwendet das richtige Übergangswort?", a4: "Ich war müde. Jedoch lernte ich.", b4: "Ich mochte alle Fächer, zum Beispiel Englisch.", c4: "Es war schmerzhaft, jedoch gut.", d4: "Ich wusste das Material, dann muss ich lernen.",
+
+    t5: "Textstruktur", tx5: "Ein sinnvoller Text hat eine Einleitung, Hauptteile und einen Abschluss, der zur anfänglichen Idee zurückkehrt.",
+    q5: "Was ist der erste Schritt beim Verfassen eines Textes?", a5: "Schreib einfach los.", b5: "Denk über dein Ziel, deine Leser und Hauptideen nach.", c5: "Lies viele Texte.", d5: "Mach Grammatikübungen.",
   },
 };
 
@@ -37,15 +45,12 @@ const DEF: ExplorerDef = {
       infoTitle: "t1",
       infoText: "tx1",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%)" }}>
-          <rect x="20" y="30" width="40" height="100" rx="6" fill="#4caf50" opacity="0.3" stroke="#2e7d32" strokeWidth="1.5" />
-          <text x="40" y="90" textAnchor="middle" fontSize="12" fill="#1b5e20" fontWeight="bold">Mesél</text>
-          <rect x="70" y="30" width="40" height="100" rx="6" fill="#8bc34a" opacity="0.3" stroke="#558b2f" strokeWidth="1.5" />
-          <text x="90" y="90" textAnchor="middle" fontSize="12" fill="#33691e" fontWeight="bold">Leír</text>
-          <rect x="120" y="30" width="40" height="100" rx="6" fill="#cddc39" opacity="0.3" stroke="#827717" strokeWidth="1.5" />
-          <text x="140" y="90" textAnchor="middle" fontSize="12" fill="#556b2f" fontWeight="bold">Vitáz</text>
-          <rect x="170" y="30" width="40" height="100" rx="6" fill="#9ccc65" opacity="0.3" stroke="#558b2f" strokeWidth="1.5" />
-          <text x="190" y="90" textAnchor="middle" fontSize="12" fill="#33691e" fontWeight="bold">Utasít</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f3a4d" />
+          <rect x="20" y="40" width="180" height="90" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
+          <text x="110" y="65" textAnchor="middle" fontSize="14" fill="#4ECDC4" fontWeight="bold">Elbeszélő</text>
+          <text x="110" y="95" textAnchor="middle" fontSize="14" fill="#4ECDC4" fontWeight="bold">Leíró</text>
+          <text x="110" y="120" textAnchor="middle" fontSize="14" fill="#4ECDC4" fontWeight="bold">Érvelő</text>
         </svg>
       ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
@@ -55,77 +60,64 @@ const DEF: ExplorerDef = {
       infoTitle: "t2",
       infoText: "tx2",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #f0f4c3 0%, #dcedc8 100%)" }}>
-          <circle cx="50" cy="60" r="20" fill="#afb42b" opacity="0.4" />
-          <text x="50" y="65" textAnchor="middle" fontSize="10" fill="#33691e" fontWeight="bold">ezért</text>
-          <circle cx="120" cy="60" r="20" fill="#aed581" opacity="0.4" />
-          <text x="120" y="65" textAnchor="middle" fontSize="10" fill="#33691e" fontWeight="bold">azonban</text>
-          <circle cx="190" cy="60" r="20" fill="#cddc39" opacity="0.4" />
-          <text x="190" y="65" textAnchor="middle" fontSize="10" fill="#33691e" fontWeight="bold">pedig</text>
-          <path d="M 70 60 L 100 60" stroke="#9ccc65" strokeWidth="2" />
-          <path d="M 140 60 L 170 60" stroke="#9ccc65" strokeWidth="2" />
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
+          <circle cx="60" cy="70" r="15" fill="#95E1D3" />
+          <line x1="60" y1="70" x2="120" y2="70" stroke="#95E1D3" strokeWidth="2" />
+          <circle cx="120" cy="70" r="15" fill="#95E1D3" />
+          <line x1="120" y1="70" x2="180" y2="70" stroke="#95E1D3" strokeWidth="2" />
+          <circle cx="180" cy="70" r="15" fill="#95E1D3" />
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Kapcsolódás</text>
         </svg>
       ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
+      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
     },
     {
       type: "mcq",
       infoTitle: "t3",
       infoText: "tx3",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #ede7f6 0%, #d1c4e9 100%)" }}>
-          <rect x="30" y="20" width="180" height="25" rx="4" fill="#673ab7" opacity="0.3" stroke="#4527a0" strokeWidth="2" />
-          <text x="120" y="40" textAnchor="middle" fontSize="10" fill="#311b92" fontWeight="bold">Fő gondolat</text>
-          <rect x="30" y="55" width="180" height="20" rx="3" fill="#7e57c2" opacity="0.2" stroke="#512da8" strokeWidth="1" />
-          <text x="120" y="70" textAnchor="middle" fontSize="9" fill="#4527a0">Támogató mondat 1</text>
-          <rect x="30" y="80" width="180" height="20" rx="3" fill="#7e57c2" opacity="0.2" stroke="#512da8" strokeWidth="1" />
-          <text x="120" y="95" textAnchor="middle" fontSize="9" fill="#4527a0">Támogató mondat 2</text>
-          <rect x="30" y="105" width="180" height="20" rx="3" fill="#7e57c2" opacity="0.2" stroke="#512da8" strokeWidth="1" />
-          <text x="120" y="120" textAnchor="middle" fontSize="9" fill="#4527a0">Záró mondat</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
+          <rect x="30" y="30" width="180" height="20" rx="4" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="1" />
+          <line x1="30" y1="65" x2="210" y2="65" stroke="#4ECDC4" strokeWidth="1" />
+          <line x1="30" y1="85" x2="210" y2="85" stroke="#4ECDC4" strokeWidth="1" />
+          <line x1="30" y1="105" x2="180" y2="105" stroke="#4ECDC4" strokeWidth="1" />
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Topik-mondat</text>
         </svg>
       ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
+      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
     },
     {
       type: "mcq",
       infoTitle: "t4",
       infoText: "tx4",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%)" }}>
-          <defs>
-            <linearGradient id="coherenceGrad" x1="0%" x2="100%" y1="0%" y2="100%">
-              <stop offset="0%" style={{ stopColor: "#c2185b", stopOpacity: 0.6 }} />
-              <stop offset="100%" style={{ stopColor: "#880e4f", stopOpacity: 0.8 }} />
-            </linearGradient>
-          </defs>
-          <circle cx="60" cy="80" r="25" fill="url(#coherenceGrad)" />
-          <text x="60" y="85" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Logikus</text>
-          <circle cx="120" cy="80" r="25" fill="url(#coherenceGrad)" />
-          <text x="120" y="85" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Összefügg</text>
-          <circle cx="180" cy="80" r="25" fill="url(#coherenceGrad)" />
-          <text x="180" y="85" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Értelmes</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
+          <text x="60" y="85" textAnchor="middle" fontSize="16" fill="#00D4FF" fontWeight="bold">Azonban</text>
+          <text x="180" y="85" textAnchor="middle" fontSize="16" fill="#00D4FF" fontWeight="bold">Mivel</text>
+          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Kötőszavak</text>
         </svg>
       ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
+      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
     },
     {
       type: "mcq",
       infoTitle: "t5",
       infoText: "tx5",
       svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%)" }}>
-          <rect x="30" y="40" width="50" height="70" rx="6" fill="#00897b" opacity="0.3" stroke="#00695c" strokeWidth="2" />
-          <text x="55" y="80" textAnchor="middle" fontSize="14" fill="#004d40" fontWeight="bold">✓</text>
-          <text x="55" y="120" textAnchor="middle" fontSize="9" fill="#004d40">Koherencia</text>
-          <rect x="95" y="40" width="50" height="70" rx="6" fill="#00bcd4" opacity="0.3" stroke="#0097a7" strokeWidth="2" />
-          <text x="120" y="80" textAnchor="middle" fontSize="14" fill="#006064" fontWeight="bold">✓</text>
-          <text x="120" y="120" textAnchor="middle" fontSize="9" fill="#006064">Helyesség</text>
-          <rect x="160" y="40" width="50" height="70" rx="6" fill="#26c6da" opacity="0.3" stroke="#0097a7" strokeWidth="2" />
-          <text x="185" y="80" textAnchor="middle" fontSize="14" fill="#00838f" fontWeight="bold">✓</text>
-          <text x="185" y="120" textAnchor="middle" fontSize="9" fill="#00838f">Értelmezés</text>
+        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
+          <rect x="20" y="30" width="200" height="25" rx="4" fill="#B44DFF" opacity="0.3" stroke="#B44DFF" strokeWidth="2" />
+          <text x="120" y="50" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Bevezetés</text>
+          <rect x="20" y="70" width="200" height="35" rx="4" fill="#6FAADB" opacity="0.3" stroke="#6FAADB" strokeWidth="2" />
+          <text x="120" y="92" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">Fő részek</text>
+          <rect x="20" y="120" width="200" height="20" rx="4" fill="#10B981" opacity="0.3" stroke="#10B981" strokeWidth="2" />
+          <text x="120" y="135" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Lezárás</text>
         </svg>
       ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
+      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
     },
   ],
 };
