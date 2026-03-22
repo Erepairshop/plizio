@@ -9,6 +9,7 @@ import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -409,6 +410,18 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
+      <motion.div
+        initial={{ opacity: 0, y: 10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.5 }}
+        className="flex items-center gap-2 px-5 py-3 rounded-xl bg-[#E040FB]/15 border border-[#E040FB]/30"
+      >
+        <span className="text-2xl">⭐</span>
+        <span className="text-[#E040FB] font-black text-lg">+3</span>
+        <span className="text-white/60 text-sm font-medium">
+          {lang === "hu" ? "csillag jutalom!" : lang === "de" ? "Sterne Belohnung!" : lang === "ro" ? "stele recompensă!" : "star reward!"}
+        </span>
+      </motion.div>
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
@@ -557,9 +570,12 @@ export default function AstroBiologieK5Page() {
     saveK5Progress(newProgress);
     setProgress(newProgress);
 
+    // Checkpoint reward: 3 special stars (purple)
+    addSpecialCards(3);
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astro-biologie", rarity, score, total, date: new Date().toISOString() });
-    window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
     setEarnedCard(rarity);
