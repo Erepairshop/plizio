@@ -975,6 +975,11 @@ if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */
    - A `type: "info"` round típust NE használd (az nem kérdez semmit)
 17. **Sonnet agent nagy feladatokra NE** — A Sonnet model lassú és gyakran megakad nagy/összetett feladatoknál (pl. teljes fájl újraírás + SVG modernizálás). Mindig **osszuk kisebb feladatokra** (pl. pattern külön, SVG külön). Haiku gyorsabb és megbízhatóbb egyszerűbb feladatokra.
 18. **Explorer kérdés label kulcsok** — Minden MCQ kérdés label key-jének mind a 4 nyelvben (en/de/hu/ro) léteznie kell a LABELS objektumban. Ellenőrizd mielőtt commitolsz: ha egy key hiányzik egy nyelvből, az a kérdés szöveg helyett a key stringet mutatja.
+19. **SVG fejlesztési stratégia — 2 fázis:**
+   - **1. fázis (Haiku):** Logika, pattern, labelek, kérdések — gyors és olcsó. SVG-k lehetnek egyszerű placeholderek.
+   - **2. fázis (Opus):** SVG-k modernizálása — részletes, tankönyvi minőségű illusztrációk. Opus agentet használj, NEM haiku-t vagy sonnet-et!
+   - Opus agent SVG feladatoknál: **1 agent = max 2-3 fájl**, párhuzamosan akár 5-6 agent is futhat.
+   - Opus ~10% heti limitet használ 8 explorer SVG modernizálására — ez elfogadható.
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |

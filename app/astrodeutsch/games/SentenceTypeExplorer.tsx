@@ -12,16 +12,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Sentence Explorer",
     round1Title: "3 Types of Sentences",
     round1Hint: "Tap each sentence type to learn it!",
+    round1Teach: "Every sentence tells, asks, or expresses a feeling! We can identify them by their punctuation mark at the end.",
     round2Title: "Add Punctuation!",
     round2Hint: "Which punctuation mark ends this sentence?",
+    round2Teach: "German sentences MUST end with a punctuation mark. Statement (.) | Question (?) | Exclamation (!). The punctuation tells us how to read it!",
     round3Title: "Question Words",
     round3Hint: "Match the question word to its meaning!",
+    round3Teach: "Questions in German start with special words: Wer (who), Was (what), Wo (where), Wann (when), Warum (why). These help us ask for different information!",
     round4Title: "Word Order",
     round4Hint: "Put the words in the correct order to build a sentence!",
+    round4Teach: "In German, the word order matters! Usually: subject + verb + object. But in questions, the verb moves to the front. Listen and observe!",
     round5Title: "Sentence Challenge",
     round5Hint: "Choose the correct punctuation!",
     well: "Perfect!",
     next: "Next",
+    gotIt: "Got it!",
     finish: "Finished!",
     correct: "Correct!",
     statement: "Statement",
@@ -37,16 +42,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Mondat felfedező",
     round1Title: "3 mondattípus",
     round1Hint: "Koppints minden mondattípusra, hogy megtanuld!",
+    round1Teach: "Minden mondat közöl, kérdez vagy érzéseket fejez ki! Az írásjel a végén segít azonosítani őket.",
     round2Title: "Írásjel hozzáadása!",
     round2Hint: "Melyik írásjel fejezi be ezt a mondatot?",
+    round2Teach: "A német mondatoknak OBLIGÁT írásjellel kell végződniük. Kijelentés (.) | Kérdés (?) | Felkiáltás (!). Az írásjel megmutatja, hogyan kell olvasni!",
     round3Title: "Kérdőszavak",
     round3Hint: "Párosítsd a kérdőszót a jelentéséhez!",
+    round3Teach: "A német kérdések speciális szavakkal kezdődnek: Wer (ki), Was (mi), Wo (hol), Wann (mikor), Warum (miért). Ezek segítenek eltérő információkat kérni!",
     round4Title: "Szórend",
     round4Hint: "Rakd helyes sorrendbe a szavakat, hogy mondatot alkoss!",
+    round4Teach: "A németben a szórend számít! Általában: alany + ige + tárgy. De a kérdésekben az ige az eleje felé kerül. Hallgasd meg és figyeld meg!",
     round5Title: "Mondat kihívás",
     round5Hint: "Válaszd ki a helyes írásjeleket!",
     well: "Tökéletes!",
     next: "Tovább",
+    gotIt: "Értem!",
     finish: "Vége!",
     correct: "Helyes!",
     statement: "Kijelentő mondat",
@@ -62,16 +72,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Satzarten-Entdecker",
     round1Title: "3 Satzarten",
     round1Hint: "Tippe auf jede Satzart um sie zu lernen!",
+    round1Teach: "Jeder Satz sagt etwas, stellt eine Frage oder drückt ein Gefühl aus! Wir können sie am Satzzeichen am Ende erkennen.",
     round2Title: "Satzzeichen setzen!",
     round2Hint: "Welches Satzzeichen beendet diesen Satz?",
+    round2Teach: "Deutsche Sätze MÜSSEN mit einem Satzzeichen enden. Aussage (.) | Frage (?) | Ausruf (!). Das Satzzeichen zeigt, wie wir es lesen sollen!",
     round3Title: "Fragewörter",
     round3Hint: "Ordne das Fragewort seiner Bedeutung zu!",
+    round3Teach: "Fragen im Deutschen beginnen mit speziellen Wörtern: Wer (wer), Was (was), Wo (wo), Wann (wann), Warum (warum). Diese helfen uns, verschiedene Informationen zu erfragen!",
     round4Title: "Wortstellung",
     round4Hint: "Bringe die Wörter in die richtige Reihenfolge um einen Satz zu bilden!",
+    round4Teach: "Im Deutschen ist die Wortstellung wichtig! Normalerweise: Subjekt + Verb + Objekt. Aber in Fragen rutscht das Verb nach vorne. Beobachte und höre zu!",
     round5Title: "Satz-Herausforderung",
     round5Hint: "Wähle das richtige Satzzeichen!",
     well: "Perfekt!",
     next: "Weiter",
+    gotIt: "Verstanden!",
     finish: "Fertig!",
     correct: "Richtig!",
     statement: "Aussagesatz",
@@ -87,16 +102,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul propozițiilor",
     round1Title: "3 tipuri de propoziții",
     round1Hint: "Atinge fiecare tip de propoziție pentru a-l învăța!",
+    round1Teach: "Fiecare propoziție spune ceva, pune o întrebare sau exprimă un sentiment! Le putem identifica după semnul de punctuație de la sfârșitul ei.",
     round2Title: "Adaugă semnul de punctuație!",
     round2Hint: "Ce semn de punctuație termină această propoziție?",
+    round2Teach: "Propozițiile germane TREBUIE să se termine cu un semn de punctuație. Declarație (.) | Întrebare (?) | Exclamație (!). Semnul de punctuație arată cum trebuie să o citim!",
     round3Title: "Cuvinte interogative",
     round3Hint: "Potrivește cuvântul interogativ cu semnificația sa!",
+    round3Teach: "Întrebările în germană încep cu cuvinte speciale: Wer (cine), Was (ce), Wo (unde), Wann (când), Warum (de ce). Acestea ne ajută să cerem diferite informații!",
     round4Title: "Ordinea cuvintelor",
     round4Hint: "Pune cuvintele în ordine corectă pentru a forma o propoziție!",
+    round4Teach: "În germană, ordinea cuvintelor contează! De obicei: subiect + verb + obiect. Dar în întrebări, verbul se mută la început. Observă și ascultă!",
     round5Title: "Provocare propoziții",
     round5Hint: "Alege semnul de punctuație corect!",
     well: "Perfect!",
     next: "Înainte",
+    gotIt: "Înțeles!",
     finish: "Gata!",
     correct: "Corect!",
     statement: "Propoziție enunțiativă",
@@ -506,10 +526,11 @@ const SentenceTypeExplorer = memo(function SentenceTypeExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -522,19 +543,36 @@ const SentenceTypeExplorer = memo(function SentenceTypeExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 4 && (
-            <div className="w-full flex flex-col items-center gap-4">
-              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
-              <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
-                className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
-                style={{ background: `${color}22` }}>
-                {lbl.discovery}
-              </motion.div>
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <p className="text-xl font-black text-white">{lbl[`round${round + 1}Title` as keyof typeof lbl]}</p>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{lbl[`round${round + 1}Teach` as keyof typeof lbl]}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
             </div>
+          )}
+          {!showTeach && (
+            <>
+              {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+              {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+              {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+              {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
+              {round === 4 && (
+                <div className="w-full flex flex-col items-center gap-4">
+                  <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />
+                  <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+                    className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
+                    style={{ background: `${color}22` }}>
+                    {lbl.discovery}
+                  </motion.div>
+                </div>
+              )}
+            </>
           )}
         </motion.div>
       </AnimatePresence>

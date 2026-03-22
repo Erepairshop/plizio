@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import MemoryPairCards from "@/app/astrodeutsch/games/blocks/MemoryPairCards";
 import { SpeakButton } from "@/lib/astromath-tts";
 
@@ -110,11 +111,29 @@ const PRAT_FORMS = [
   { infinitiv: "haben", form: "hatte", type: "irregular" },
 ];
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach?: boolean }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
+  const [teach, setTeach] = useState(showTeach);
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
   const regColor = "#3b82f6";
   const irrColor = "#f59e0b";
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">Präteritum ist die geschriebene Vergangenheit für Geschichten! Regelmäßige Verben bekommen -te (spielte), unregelmäßige Verben ändern den Stamm (ging, war). Das ist anders als Perfekt!</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt || "Ich verstehe! Weiter →"} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -341,8 +360,9 @@ const PastSpeechExplorer = memo(function PastSpeechExplorer({
 }: { color: string; lang?: string; onDone: (score: number, total: number) => void }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
   return (
     <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
@@ -351,7 +371,7 @@ const PastSpeechExplorer = memo(function PastSpeechExplorer({
         <motion.div key={round} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} lang={lang} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}

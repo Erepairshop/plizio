@@ -25,6 +25,15 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import BodySystemsExplorer from "@/app/astro-sachkunde/games/k3/BodySystemsExplorer";
+import AnimalKingdomExplorer from "@/app/astro-sachkunde/games/k3/AnimalKingdomExplorer";
+import ForestLifeExplorer from "@/app/astro-sachkunde/games/k3/ForestLifeExplorer";
+import PollinationExplorer from "@/app/astro-sachkunde/games/k3/PollinationExplorer";
+import WeatherClimateExplorer from "@/app/astro-sachkunde/games/k3/WeatherClimateExplorer";
+import GeographyExplorer from "@/app/astro-sachkunde/games/k3/GeographyExplorer";
+import TechMachinesExplorer from "@/app/astro-sachkunde/games/k3/TechMachinesExplorer";
+import CommunityTownExplorer from "@/app/astro-sachkunde/games/k3/CommunityTownExplorer";
+import EnvironmentExplorer from "@/app/astro-sachkunde/games/k3/EnvironmentExplorer";
 import {
   SK_G3_ISLANDS, CHECKPOINT_G3_MAP, CHECKPOINT_G3_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadSKG3Progress, saveSKG3Progress, type SachkundeProgress,
@@ -32,6 +41,7 @@ import {
   completeMissionSKG3, completeTestSKG3, islandTotalStarsSKG3,
   generateIslandQuestionsSKG3, generateCheckpointQuestionsSKG3,
 } from "@/lib/astroSachkunde3";
+import { SK_K3_ISLAND_SVGS } from "@/app/astro-sachkunde/islands-k3";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -117,6 +127,15 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
+  | "k3-body-systems-explorer"
+  | "k3-animal-kingdom-explorer"
+  | "k3-forest-life-explorer"
+  | "k3-pollination-explorer"
+  | "k3-weather-climate-explorer"
+  | "k3-geography-explorer"
+  | "k3-tech-machines-explorer"
+  | "k3-community-town-explorer"
+  | "k3-environment-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -272,6 +291,17 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
               stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
               strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
+            {unlocked && (
+              SK_K3_ISLAND_SVGS[island.id] ? (
+                <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                  overflow="visible" opacity={done ? 0.85 : 1}>
+                  {React.createElement(SK_K3_ISLAND_SVGS[island.id], { size: 60 })}
+                </svg>
+              ) : (
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+                  opacity={done ? 0.85 : 1}>{island.icon}</text>
+              )
+            )}
             {!unlocked && (
               <circle cx={island.svgX} cy={island.svgY} r={24}
                 fill="rgba(255,255,255,0.04)"
@@ -800,11 +830,50 @@ export default function AstroSachkundeG3Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
+        {screen === "k3-body-systems-explorer" && (
+          <BodySystemsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-animal-kingdom-explorer" && (
+          <AnimalKingdomExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-forest-life-explorer" && (
+          <ForestLifeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-pollination-explorer" && (
+          <PollinationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-weather-climate-explorer" && (
+          <WeatherClimateExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-geography-explorer" && (
+          <GeographyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-tech-machines-explorer" && (
+          <TechMachinesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-community-town-explorer" && (
+          <CommunityTownExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k3-environment-explorer" && (
+          <EnvironmentExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz"].includes(screen)) return (
+  const explorerScreens = [
+    "k3-body-systems-explorer",
+    "k3-animal-kingdom-explorer",
+    "k3-forest-life-explorer",
+    "k3-pollination-explorer",
+    "k3-weather-climate-explorer",
+    "k3-geography-explorer",
+    "k3-tech-machines-explorer",
+    "k3-community-town-explorer",
+    "k3-environment-explorer",
+  ];
+
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -1,18 +1,30 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Wortfelder",
+    round1Title: "Wörter sortieren",
+    round1Teach: "Ein Wortfeld ist eine Gruppe von Wörtern, die zusammenhängen! Sie sprechen über ähnliche Themen oder Konzepte. Zum Beispiel gehören 'Katze', 'Hund', 'Vogel', 'Fisch' alle zum Wortfeld 'Tiere'. Und 'Apfel', 'Brot', 'Milch', 'Käse' gehören zum Wortfeld 'Essen'. Lass uns Wörter nach ihrem Wortfeld sortieren!",
     round1: "Sortiere die Wörter in die richtige Gruppe!",
+    round2Title: "Körperteile entdecken",
+    round2Teach: "Ein Wortfeld kann auch sehr spezifisch sein! Das Wortfeld 'Körper' enthält alle Teile des menschlichen Körpers: Kopf, Auge, Nase, Mund, Ohr, Hand, Fuß, Arm. Wenn du ein neues Wort siehst, frag dich: Passt es in dieses Wortfeld?",
     round2: "Welches Wort gehört dazu?",
+    round3Title: "Der Eindringling",
+    round3Teach: "Manchmal gibt es ein Wort, das NICHT in ein Wortfeld passt! Zum Beispiel: 'Hund', 'Katze', 'Tisch', 'Vogel' — welches passt nicht? 'Tisch' ist kein Tier! Diese Übung hilft dir, die Unterschiede zwischen Wortfeldern zu verstehen!",
     round3: "Welches Wort passt in diese Gruppe?",
+    round4Title: "Welches Wort gehört dazu?",
+    round4Teach: "Jetzt spielen wir ein Spiel: Ich nenne dir ein Wortfeld, und du wählst ein Wort aus, das DAZUGEHÖRT! Denk daran, was alle Wörter in einem Wortfeld gemeinsam haben. Sie sind alle verwandt!",
     round4: "Welches Wort passt NICHT?",
+    round5Title: "Großes Wortfeld-Quiz!",
+    round5Teach: "Du kennst Wortfelder jetzt! Lass mich verschiedene Wortfelder durchmischen und du wählst aus. Denk immer: Welche Wörter gehören zusammen? Was haben sie gemeinsam?",
     round5: "Kleines Wortfeld-Quiz!",
     correct: "Super! ✓",
     next: "Weiter →",
+    gotIt: "Verstanden!",
     done: "Fertig! 🌟",
     tap: "Tippe auf ein Wort, um es zuzuordnen!",
     belongs: "gehört zu",
@@ -28,13 +40,24 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   en: {
     title: "Word Fields",
+    round1Title: "Sort words",
+    round1Teach: "A word field is a group of words that are related! They talk about similar topics or concepts. For example, 'cat', 'dog', 'bird', 'fish' all belong to the word field 'animals'. And 'apple', 'bread', 'milk', 'cheese' all belong to the word field 'food'. Let's sort words by their word field!",
     round1: "Sort the words into the right group!",
+    round2Title: "Discover body parts",
+    round2Teach: "A word field can also be very specific! The word field 'body' contains all parts of the human body: head, eye, nose, mouth, ear, hand, foot, arm. When you see a new word, ask yourself: Does it fit in this word field?",
     round2: "Which word belongs here?",
+    round3Title: "The odd one out",
+    round3Teach: "Sometimes there is a word that does NOT fit in a word field! For example: 'dog', 'cat', 'table', 'bird' — which one doesn't belong? 'Table' is not an animal! This exercise helps you understand the differences between word fields!",
     round3: "Which word fits in this group?",
+    round4Title: "Which word belongs?",
+    round4Teach: "Now we play a game: I tell you a word field, and you pick a word that BELONGS to it! Remember what all the words in a word field have in common. They're all related!",
     round4: "Which word does NOT fit?",
+    round5Title: "Big word field quiz!",
+    round5Teach: "You know word fields now! Let me mix different word fields and you choose. Always think: Which words belong together? What do they have in common?",
     round5: "Word field quiz!",
     correct: "Great! ✓",
     next: "Next →",
+    gotIt: "Got it!",
     done: "Done! 🌟",
     tap: "Tap a word to assign it!",
     belongs: "belongs to",
@@ -50,13 +73,24 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     title: "Szócsoportok",
+    round1Title: "Szavak rendezése",
+    round1Teach: "A szócsoport szavaknak egy csoportja, amelyek összefüggenek! Hasonló témákról vagy fogalmakról beszélnek. Például a 'kutya', 'macska', 'madár', 'hal' mind az 'állatok' szócsoportjához tartoznak. És az 'alma', 'kenyér', 'tej', 'sajt' mind az 'étel' szócsoportjához tartoznak. Rendezzük a szavakat a szócsoportok szerint!",
     round1: "Rendezd a szavakat a megfelelő csoportba!",
+    round2Title: "Testmények felfedezése",
+    round2Teach: "A szócsoport nagyon specifikus is lehet! A 'test' szócsoport az emberi test összes részét tartalmazza: fej, szem, orr, száj, fül, kéz, láb, kar. Amikor új szót látsz, kérd meg magadtól: Passzolódik-e ez a szócsoportba?",
     round2: "Melyik szó tartozik ide?",
+    round3Title: "A kimaradó",
+    round3Teach: "Néha van egy szó, amely NEM illik egy szócsoportba! Például: 'kutya', 'macska', 'asztal', 'madár' — melyik nem passzol? Az 'asztal' nem állat! Ez a gyakorlat segít megérteni a szócsoportok közötti különbségeket!",
     round3: "Melyik szó illik ebbe a csoportba?",
+    round4Title: "Melyik szó tartozik?",
+    round4Teach: "Most játszunk: Elmondom a szócsoportot, és te olyan szót választasz, amely HOZZÁTARTOZIK! Emlékezz arra, hogy a szócsoport összes szavának mi közös. Mind összefüggő!",
     round4: "Melyik szó NEM illik ide?",
+    round5Title: "Nagy szócsoport kvíz!",
+    round5Teach: "Most már tudod a szócsoportokról! Keverjük össze a különböző szócsoportokat és te választasz. Mindig gondolkodjunk: Mely szavak tartoznak össze? Mit közösen?",
     round5: "Szócsoport kvíz!",
     correct: "Szuper! ✓",
     next: "Tovább →",
+    gotIt: "Értem!",
     done: "Kész! 🌟",
     tap: "Koppints egy szóra a hozzárendeléshez!",
     belongs: "ide tartozik",
@@ -72,13 +106,24 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     title: "Câmpuri lexicale",
+    round1Title: "Sortare cuvinte",
+    round1Teach: "Un câmp lexical este un grup de cuvinte care sunt înrudite! Vorbesc despre subiecte sau concepte similare. De exemplu, 'câine', 'pisică', 'pasăre', 'pește' aparțin toate câmpului lexical 'animale'. Și 'măr', 'pâine', 'lapte', 'cașcaval' aparțin toate câmpului lexical 'mâncare'. Să sortăm cuvintele după câmpurile lor lexicale!",
     round1: "Sortează cuvintele în grupul corect!",
+    round2Title: "Descoperă părți ale corpului",
+    round2Teach: "Un câmp lexical poate fi și foarte specific! Câmpul lexical 'corp' conține toate părțile corpului uman: cap, ochi, nas, gură, ureche, mână, picior, braț. Când vezi un cuvânt nou, întreab-te pe tine însuți: Se potrivește în acest câmp lexical?",
     round2: "Care cuvânt aparține aici?",
+    round3Title: "Cel diferit",
+    round3Teach: "Uneori există un cuvânt care NU se potrivește într-un câmp lexical! De exemplu: 'câine', 'pisică', 'masă', 'pasăre' — care nu se potrivește? 'Masa' nu este animal! Acest exercițiu te ajută să înțelegi diferențele dintre câmpurile lexicale!",
     round3: "Care cuvânt se potrivește în acest grup?",
+    round4Title: "Care cuvânt aparține?",
+    round4Teach: "Acum jucăm un joc: Ți spun un câmp lexical, și tu alegi un cuvânt care APARȚINE lui! Ține minte ce au în comun toate cuvintele dintr-un câmp lexical. Sunt toate înrudite!",
     round4: "Care cuvânt NU se potrivește?",
+    round5Title: "Mare quiz câmpuri lexicale!",
+    round5Teach: "Acum știi despre câmpurile lexicale! Să amestecăm diferite câmpuri lexicale și tu alegi. Întotdeauna gândește-te: Ce cuvinte aparțin împreună? Ce au în comun?",
     round5: "Mini-quiz câmpuri lexicale!",
     correct: "Super! ✓",
     next: "Mai departe →",
+    gotIt: "Înțeles!",
     done: "Gata! 🌟",
     tap: "Apasă un cuvânt pentru a-l atribui!",
     belongs: "aparține grupului",
@@ -584,10 +629,11 @@ const WordFieldExplorer = memo(function WordFieldExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -605,11 +651,28 @@ const WordFieldExplorer = memo(function WordFieldExplorer({
           transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4"
         >
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <p className="text-xl font-black text-white">{lbl[`round${round + 1}Title` as keyof typeof lbl]}</p>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{lbl[`round${round + 1}Teach` as keyof typeof lbl]}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
+          {!showTeach && (
+            <>
+              {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+              {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+              {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+            </>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

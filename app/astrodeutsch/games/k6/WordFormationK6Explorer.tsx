@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "🧩 Compound Words (Komposita)",
+    r1_text: "Two or more words combine to make ONE word. Example: 'Schule' + 'Buch' = 'Schulbuch' (school book). The FIRST word modifies the second.",
+    r1_q: "Which is a compound word?",
+    r1_a: "Schreibtisch",
+    r1_b: "schreiben",
+    r1_c: "Schrift",
+    r1_d: "schriftig",
+    r2_title: "🧩 Derivation (Ableitung)",
+    r2_text: "Add PREFIXES and SUFFIXES to make new words. Example: 'Freund' (friend) → 'Freundlichkeit' (friendliness, with -lich + -heit). Prefixes: un-, ver-, be-, er-. Suffixes: -heit, -keit, -ung, -er, -lich.",
+    r2_q: "Derive from 'schön': which word means 'beauty'?",
+    r2_a: "Schönheit",
+    r2_b: "Schönlich",
+    r2_c: "Beschön",
+    r2_d: "Schöner",
+    r3_title: "🧩 Prefix meanings (Präfixbedeutungen)",
+    r3_text: "UN- = not (unglücklich = unhappy). VER- = away/wrong (vergessen = forget). BE- = around/at (besuchen = visit). ER- = completion (erkennen = recognize).",
+    r3_q: "'Verbiegen' means:",
+    r3_a: "bend away/wrongly",
+    r3_b: "bend around",
+    r3_c: "bend again",
+    r3_d: "unbend",
+    r4_title: "🧩 Suffix meanings (Suffixbedeutungen)",
+    r4_text: "-HEIT/-KEIT = quality (Schönheit = beauty). -UNG = result/action (Schreibung = writing/spelling). -ER = person (Lehrer = teacher). -LICH = having the quality (freundlich = friendly).",
+    r4_q1: "'-heit' suffix makes words for which concept?",
+    r4_ans1: "quality/condition",
+    r5_title: "⭐ Word Formation Review",
+    r5_text: "Test your skills!",
+    r5_q1: "Break down 'Freundlichkeit': what is its structure?",
+    r5_structure: "Freund + -lich + -keit",
+    r5_other: "Freund + -heit",
+    r5_q2: "Which prefix means 'not'?",
+    r5_un: "un-",
+    r5_ver: "ver-",
+  },
+  de: {
+    r1_title: "🧩 Komposita",
+    r1_text: "Zwei oder mehr Wörter verbinden sich zu EINEM Wort. Beispiel: 'Schule' + 'Buch' = 'Schulbuch'. Das ERSTE Wort modifiziert das zweite.",
+    r1_q: "Welches ist ein Kompositum?",
+    r1_a: "Schreibtisch",
+    r1_b: "schreiben",
+    r1_c: "Schrift",
+    r1_d: "schriftig",
+    r2_title: "🧩 Ableitung",
+    r2_text: "Präfixe und Suffixe hinzufügen. Beispiel: 'Freund' → 'Freundlichkeit' (-lich + -heit). Präfixe: un-, ver-, be-, er-. Suffixe: -heit, -keit, -ung, -er, -lich.",
+    r2_q: "Ableitung von 'schön': Welches Wort bedeutet 'Schönheit'?",
+    r2_a: "Schönheit",
+    r2_b: "Schönlich",
+    r2_c: "Beschön",
+    r2_d: "Schöner",
+    r3_title: "🧩 Präfixbedeutungen",
+    r3_text: "UN- = nicht (unglücklich). VER- = weg/falsch (vergessen). BE- = herum/bei (besuchen). ER- = Vollendung (erkennen).",
+    r3_q: "'Verbiegen' bedeutet:",
+    r3_a: "schief biegen/falsch biegen",
+    r3_b: "herum biegen",
+    r3_c: "nochmal biegen",
+    r3_d: "entbiegen",
+    r4_title: "🧩 Suffixbedeutungen",
+    r4_text: "-HEIT/-KEIT = Qualität (Schönheit). -UNG = Ergebnis/Handlung (Schreibung). -ER = Person (Lehrer). -LICH = Eigenschaft (freundlich).",
+    r4_q1: "'-heit' Suffix macht Wörter für welches Konzept?",
+    r4_ans1: "Eigenschaft/Zustand",
+    r5_title: "⭐ Wortbildung Wiederholung",
+    r5_text: "Teste deine Fähigkeiten!",
+    r5_q1: "Zerlege 'Freundlichkeit': Was ist die Struktur?",
+    r5_structure: "Freund + -lich + -keit",
+    r5_other: "Freund + -heit",
+    r5_q2: "Welches Präfix bedeutet 'nicht'?",
+    r5_un: "un-",
+    r5_ver: "ver-",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><rect x="40" y="60" width="50" height="40" rx="4" fill="#14B8A6" opacity="0.5"/><text x="65" y="85" textAnchor="middle" fontSize="11">Wort1</text><text x="115" y="85" textAnchor="middle" fontSize="14">+</text><rect x="135" y="60" width="50" height="40" rx="4" fill="#14B8A6" opacity="0.5"/><text x="160" y="85" textAnchor="middle" fontSize="11">Wort2</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="50" y="80" fontSize="12" fill="#14B8A6">Präfix</text><text x="120" y="80" fontSize="12" fill="#14B8A6">+Stamm+</text><text x="180" y="80" fontSize="12" fill="#14B8A6">Suffix</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="60" fontSize="11" fill="#14B8A6">un-</text><text x="110" y="60" fontSize="11" fill="#14B8A6">ver-</text><text x="165" y="60" fontSize="11" fill="#14B8A6">be-</text><text x="60" y="110" fontSize="11" fill="#14B8A6">nicht</text><text x="110" y="110" fontSize="11" fill="#14B8A6">weg</text><text x="165" y="110" fontSize="11" fill="#14B8A6">um</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="60" fontSize="11" fill="#14B8A6">-heit</text><text x="120" y="60" fontSize="11" fill="#14B8A6">-ung</text><text x="170" y="60" fontSize="11" fill="#14B8A6">-er</text><text x="60" y="110" fontSize="11" fill="#14B8A6">Qualität</text><text x="120" y="110" fontSize="11" fill="#14B8A6">Handlung</text><text x="170" y="110" fontSize="11" fill="#14B8A6">Person</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "Handlung", "Person", "Ort"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_structure", "r5_other"], answer: "r5_structure" }, { question: "r5_q2", choices: ["r5_un", "r5_ver"], answer: "r5_un" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function WordFormationK6Explorer({ color = "#14B8A6", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

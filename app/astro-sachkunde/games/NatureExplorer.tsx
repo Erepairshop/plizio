@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -19,6 +19,7 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── Labels (ALL user-visible text here, 4 languages) ─────────────────────────
@@ -279,8 +280,17 @@ const TOTAL_ROUNDS = 5;
 
 // ─── Component ────────────────────────────────────────────────────────────────
 
-function NatureExplorer({ color, lang = "de", onDone }: Props) {
+function NatureExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const t = LABELS[lang] ?? LABELS.de;
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   // Randomized question lists — stable across renders
   const r1Questions = useMemo(() => shuffle(SEASON_CLUE_POOL), []);
@@ -290,6 +300,7 @@ function NatureExplorer({ color, lang = "de", onDone }: Props) {
 
   // Round index (0–4) and sub-question index within rounds that have multiple Qs
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const [subIdx, setSubIdx] = useState(0);
 
   // Per-question answer state
@@ -318,6 +329,7 @@ function NatureExplorer({ color, lang = "de", onDone }: Props) {
       onDone(scoreRef.current, totalRef.current);
     } else {
       setRound(r => r + 1);
+      setShowTeach(true);
       setSubIdx(0);
       resetSubState();
       setTapped([]);
@@ -526,6 +538,13 @@ function NatureExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* Round progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-2">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
@@ -542,11 +561,176 @@ function NatureExplorer({ color, lang = "de", onDone }: Props) {
           initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
         >
-          {round === 0 && renderMCQ(r1Questions, t.r1Title, t.r1Hint)}
-          {round === 1 && renderMCQ(r2Questions, t.r2Title, t.r2Hint)}
-          {round === 2 && renderOrderRound()}
-          {round === 3 && renderMCQ(r4Questions, t.r4Title, t.r4Hint)}
-          {round === 4 && renderMCQ(r5Questions, t.r5Title, t.r5Hint, true)}
+          {round === 0 && (
+            <>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r1Title}</p>
+                    <button onClick={() => speak(t.r1Title + ". " + t.r1Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{t.r1Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-xl font-black text-white text-center">{t.r1Title}</p>
+                    <button onClick={() => speak(t.r1Title + ". " + t.r1Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  {renderMCQ(r1Questions, t.r1Title, t.r1Hint)}
+                </>
+              )}
+            </>
+          )}
+          {round === 1 && (
+            <>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r2Title}</p>
+                    <button onClick={() => speak(t.r2Title + ". " + t.r2Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{t.r2Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-xl font-black text-white text-center">{t.r2Title}</p>
+                    <button onClick={() => speak(t.r2Title + ". " + t.r2Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  {renderMCQ(r2Questions, t.r2Title, t.r2Hint)}
+                </>
+              )}
+            </>
+          )}
+          {round === 2 && (
+            <>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
+                    <button onClick={() => speak(t.r3Title + ". " + t.r3Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{t.r3Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
+                    <button onClick={() => speak(t.r3Title + ". " + t.r3Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  {renderOrderRound()}
+                </>
+              )}
+            </>
+          )}
+          {round === 3 && (
+            <>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r4Title}</p>
+                    <button onClick={() => speak(t.r4Title + ". " + t.r4Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{t.r4Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-xl font-black text-white text-center">{t.r4Title}</p>
+                    <button onClick={() => speak(t.r4Title + ". " + t.r4Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  {renderMCQ(r4Questions, t.r4Title, t.r4Hint)}
+                </>
+              )}
+            </>
+          )}
+          {round === 4 && (
+            <>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r5Title}</p>
+                    <button onClick={() => speak(t.r5Title + ". " + t.r5Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{t.r5Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-xl font-black text-white text-center">{t.r5Title}</p>
+                    <button onClick={() => speak(t.r5Title + ". " + t.r5Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  {renderMCQ(r5Questions, t.r5Title, t.r5Hint, true)}
+                </>
+              )}
+            </>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

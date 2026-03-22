@@ -12,14 +12,19 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Syllable Explorer",
     round1Title: "Split the Word!",
     round1Hint: "Tap each syllable part to split the word:",
+    round1Teach: "Syllables are the parts of words. Every syllable has one vowel sound. If you clap when you say the vowels, you'll hear the syllables! Try: Schmet-ter-ling has 3 claps = 3 syllables.",
     round2Title: "Count the Syllables",
     round2Hint: "How many syllables does this word have? Clap along!",
+    round2Teach: "Listen carefully to each word and count how many vowel sounds (claps) you hear. Sometimes one word has 1 clap, sometimes 2, 3, or even 4!",
     round3Title: "Find the Diphthong",
     round3Hint: "Which sound do you hear? au · ei · eu",
+    round3Teach: "A diphthong is two vowels together that make ONE special sound. Watch the word carefully and listen: au (like in 'Haus'), ei (like in 'Ei'), eu (like in 'Freund').",
     round4Title: "sp or st?",
     round4Hint: "Which sound does this word start with?",
+    round4Teach: "Some pairs of consonants make special sounds at the start of words. 'sp' sounds like 'shp', and 'st' sounds like 'sht'. Listen and watch the beginning of the word!",
     round5Title: "Mixed Practice",
     round5Hint: "How many syllables?",
+    round5Teach: "Now you know all about syllables! Let's practice everything you learned. Remember to clap and listen for the vowel sounds in each word.",
     well: "Well done!",
     next: "Next",
     finish: "Finished!",
@@ -27,19 +32,25 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Correct!",
     hint: "Count the syllables!",
     discovery: "💡 Every syllable has at least one vowel. Clap your hands to count syllables: Schmet-ter-ling = 3 syllables!",
+    gotIt: "Got it!",
   },
   hu: {
     title: "Szótag felfedező",
     round1Title: "Szeld fel a szót!",
     round1Hint: "Koppints minden szótagra hogy felszeld a szót:",
+    round1Teach: "A szótagok a szavak részei. Minden szótagnak egy magánhangzó hang van. Ha tapsolsz, amikor a magánhangzókat mondod, meghallod a szótagokat! Próbáld: Schmet-ter-ling 3 taps = 3 szótag.",
     round2Title: "Számold meg a szótagokat",
     round2Hint: "Hány szótag van? Tapsolj!",
+    round2Teach: "Figyelmesen hallgass meg minden szót, és számold meg, hány magánhangzó hang (taps) hallható. Néha 1 szótag, néha 2, 3 vagy még több!",
     round3Title: "Találd meg a kettőshangzót",
     round3Hint: "Melyik hangot hallod? au · ei · eu",
+    round3Teach: "A kettőshangzó két magánhangzó, ami EGYET speciális hangot csinál. Figyelj a szóra és hallgass: au (mint az 'Haus'), ei (mint az 'Ei'), eu (mint a 'Freund').",
     round4Title: "sp vagy st?",
     round4Hint: "Melyik hanggal kezdődik a szó?",
+    round4Teach: "Egyes mássalhangzó párok speciális hangok a szó elején. 'sp' olyan hangzik mint 'shp', és 'st' olyan mint 'sht'. Hallgass és nézd a szó kezdetét!",
     round5Title: "Vegyes feladat",
     round5Hint: "Hány szótag van?",
+    round5Teach: "Már tudod mindent a szótagokról! Gyakoroljunk mindennel, amit tanultál. Emlékezz: tapsolj és hallgass a magánhangzók hangjára minden szóban.",
     well: "Remek!",
     next: "Tovább",
     finish: "Vége!",
@@ -47,19 +58,25 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Helyes!",
     hint: "Számold a szótagokat!",
     discovery: "💡 Minden szótagnak van legalább egy magánhangzója. Tapsold meg a szótagokat: Schmet-ter-ling = 3 szótag!",
+    gotIt: "Értem!",
   },
   de: {
     title: "Silben-Entdecker",
     round1Title: "Trenne das Wort!",
     round1Hint: "Tippe auf jede Silbe, um das Wort zu trennen:",
+    round1Teach: "Silben sind die Teile von Wörtern. Jede Silbe hat einen Vokal-Laut. Wenn du klatschst, wenn du die Vokale sprichst, hörst du die Silben! Versuch: Schmet-ter-ling hat 3 Klatscher = 3 Silben.",
     round2Title: "Zähle die Silben",
     round2Hint: "Wie viele Silben hat das Wort? Klatsche mit!",
+    round2Teach: "Höre jedes Wort sorgfältig an und zähle, wie viele Vokal-Laute (Klatscher) du hörst. Manchmal 1 Silbe, manchmal 2, 3 oder sogar 4!",
     round3Title: "Finde den Zwielaut",
     round3Hint: "Welchen Laut hörst du? au · ei · eu",
+    round3Teach: "Ein Zwielaut ist zwei Vokale zusammen, die EINEN speziellen Laut machen. Schau das Wort an und höre: au (wie in 'Haus'), ei (wie in 'Ei'), eu (wie in 'Freund').",
     round4Title: "sp oder st?",
     round4Hint: "Mit welchem Laut beginnt das Wort?",
+    round4Teach: "Manche Konsonanten-Paare machen spezielle Laute am Wortanfang. 'sp' klingt wie 'shp', und 'st' klingt wie 'sht'. Höre und schau auf den Wortanfang!",
     round5Title: "Gemischte Übung",
     round5Hint: "Wie viele Silben?",
+    round5Teach: "Jetzt kennst du alles über Silben! Lass uns alles üben, was du gelernt hast. Erinnere dich: Klatsche und höre auf die Vokal-Laute in jedem Wort.",
     well: "Toll gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -67,19 +84,25 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Richtig!",
     hint: "Zähle die Silben!",
     discovery: "💡 Jede Silbe hat mindestens einen Vokal. Klatsche mit, um Silben zu zählen: Schmet-ter-ling = 3 Silben!",
+    gotIt: "Verstanden!",
   },
   ro: {
     title: "Exploratorul silabelor",
     round1Title: "Desparte cuvântul!",
     round1Hint: "Atinge fiecare silabă pentru a despărți cuvântul:",
+    round1Teach: "Silabele sunt părțile cuvintelor. Fiecare silabă are un sunet de vocală. Dacă bați din palme când spui vocalele, vei auzi silabele! Încearcă: Schmet-ter-ling are 3 bătăi = 3 silabe.",
     round2Title: "Numără silabele",
     round2Hint: "Câte silabe are cuvântul? Bate din palme!",
+    round2Teach: "Ascultă atent fiecare cuvânt și numără câte sunete de vocală (bătăi) auzi. Uneori 1 silabă, uneori 2, 3 sau chiar 4!",
     round3Title: "Găsește diftongul",
     round3Hint: "Ce sunet auzi? au · ei · eu",
+    round3Teach: "Un difton este două vocale împreună care fac UN sunet special. Privește cuvântul și ascultă: au (ca în 'Haus'), ei (ca în 'Ei'), eu (ca în 'Freund').",
     round4Title: "sp sau st?",
     round4Hint: "Cu ce sunet începe cuvântul?",
+    round4Teach: "Unele perechi de consoane fac sunete speciale la începutul cuvintelor. 'sp' sună ca 'shp', și 'st' sună ca 'sht'. Ascultă și privește începutul cuvântului!",
     round5Title: "Exercițiu mixt",
     round5Hint: "Câte silabe?",
+    round5Teach: "Acum știi totul despre silabe! Să practică ce ai învățat. Amintește-ți: bate din palme și ascultă sunetele vocale din fiecare cuvânt.",
     well: "Bravo!",
     next: "Înainte",
     finish: "Gata!",
@@ -87,6 +110,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Corect!",
     hint: "Numără silabele!",
     discovery: "💡 Fiecare silabă are cel puțin o vocală. Bate din palme ca să numeri silabele: Schmet-ter-ling = 3 silabe!",
+    gotIt: "Am înțeles!",
   },
 };
 
@@ -191,7 +215,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Tap syllable parts to split word ────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [wordIdx, setWordIdx] = useState(0);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const [done, setDone] = useState(false);
@@ -207,6 +231,23 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     if (wordIdx + 1 >= SPLIT_WORDS_POOL.length) setDone(true);
     else { setWordIdx(i => i + 1); setTapped(new Set()); }
   };
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   if (done) {
     return (
@@ -272,11 +313,15 @@ function Round2({
   lbl,
   wrongCountRef,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -284,6 +329,23 @@ function Round2({
   const [done, setDone] = useState(false);
   const [words] = useState(() => shuffle(COUNT_WORDS_POOL).slice(0, 5));
   const item = words[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (n: number) => {
     if (selected !== null || feedback) return;
@@ -382,11 +444,15 @@ function Round3({
   lbl,
   wrongCountRef,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -395,6 +461,23 @@ function Round3({
   const [words] = useState(() => shuffle(DIPHTHONG_WORDS_POOL).slice(0, 5));
   const item = words[idx];
   const DIPHTHONGS = ["au", "ei", "eu"];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (d: string) => {
     if (selected || feedback) return;
@@ -493,11 +576,15 @@ function Round4({
   lbl,
   wrongCountRef,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -505,6 +592,23 @@ function Round4({
   const [done, setDone] = useState(false);
   const [words] = useState(() => shuffle(SP_ST_WORDS_POOL).slice(0, 6));
   const item = words[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (s: string) => {
     if (selected || feedback) return;
@@ -581,11 +685,15 @@ function Round5({
   lbl,
   wrongCountRef,
   onDone,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onDone: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -594,6 +702,23 @@ function Round5({
   const [words] = useState(() => shuffle(MIXED_WORDS_POOL).slice(0, 4));
   const item = words[idx];
   const OPTIONS = [1, 2, 3, 4];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (n: number) => {
     if (selected !== null || feedback) return;
@@ -674,10 +799,11 @@ const SyllableExplorer = memo(function SyllableExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const wrongCountRef = useRef(0);
   const TOTAL_ROUNDS = 5;
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -690,11 +816,11 @@ const SyllableExplorer = memo(function SyllableExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
         </motion.div>
       </AnimatePresence>
     </div>

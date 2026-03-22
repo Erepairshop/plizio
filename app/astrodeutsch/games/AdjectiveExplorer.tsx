@@ -12,14 +12,19 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Adjective Explorer",
     round1Title: "Find the Adjective!",
     round1Hint: "Tap all the describing words (adjectives)!",
+    round1Teach: "An adjective is a word that describes something. Words like groß (big), klein (small), schnell (fast), and blau (blue) are adjectives. They tell us MORE about nouns — what they look like or how they act!",
     round2Title: "Opposites!",
     round2Hint: "Tap the pair of opposite adjectives!",
+    round2Teach: "Many adjectives have opposites. Big is opposite to small (groß ↔ klein). Fast is opposite to slow (schnell ↔ langsam). Hot is opposite to cold (heiß ↔ kalt). Let's learn these pairs!",
     round3Title: "Personal Pronouns",
     round3Hint: "Tap each pronoun to learn it!",
+    round3Teach: "Pronouns are words that replace nouns. Instead of saying 'the dog' every time, we say 'it' (es). Or instead of 'Anna', we say 'she' (sie). There are different pronouns for different people!",
     round4Title: "er, sie or es?",
     round4Hint: "Which pronoun replaces this noun?",
+    round4Teach: "Each German noun has a gender, so it uses the right pronoun. A dog (der Hund) = er. A cat (die Katze) = sie. A child (das Kind) = es. Match the pronoun to the noun's gender!",
     round5Title: "Adjective Challenge",
     round5Hint: "Choose the correct opposite!",
+    round5Teach: "You've learned adjectives and their opposites! Let's practice finding the correct opposite for each word. Remember: they describe things and show what they're like!",
     well: "Wonderful!",
     next: "Next",
     finish: "Finished!",
@@ -27,19 +32,25 @@ const LABELS: Record<string, Record<string, string>> = {
     tapToLearn: "Tap to learn!",
     replaces: "replaces",
     discovery: "💡 Adjectives describe nouns: groß, klein, schnell, langsam. They can go before a noun (der große Hund) or after a verb (der Hund ist groß).",
+    gotIt: "Got it!",
   },
   hu: {
     title: "Melléknév felfedező",
     round1Title: "Keresd a melléknevet!",
     round1Hint: "Koppints az összes leíró szóra (melléknévre)!",
+    round1Teach: "A melléknév egy szó, amely valamit leír. Az olyan szavak, mint a groß (nagy), klein (kicsi), schnell (gyors) és blau (kék) melléknevek. Többet mondanak nekünk a főnevekről — hogyan néznek ki vagy hogyan viselkednek!",
     round2Title: "Ellentétek!",
     round2Hint: "Koppints az ellentétes melléknevekre!",
+    round2Teach: "Sok melléknévnek van ellentétje. A nagy az ellentéke a kicsinek (groß ↔ klein). A gyors az ellentéke a lassúnak (schnell ↔ langsam). A meleg az ellentéke a hidegnek (heiß ↔ kalt). Tanuljunk meg ezeket a párokat!",
     round3Title: "Személyes névmások",
     round3Hint: "Koppints minden névmásra, hogy megtanuld!",
+    round3Teach: "A névmások olyan szavak, amelyek helyettesítik a főneveket. Ahelyett, hogy azt mondjuk, 'a kutya' minden alkalommal, azt mondjuk, 'az' (es). Vagy ahelyett, hogy 'Anna', azt mondjuk, 'ő' (sie). Különböző névmások vannak a különböző emberekhez!",
     round4Title: "er, sie vagy es?",
     round4Hint: "Melyik névmás helyettesíti ezt a főnevet?",
+    round4Teach: "Minden német főnévnek van neme, ezért a helyes névmást használja. Egy kutya (der Hund) = er. Egy macska (die Katze) = sie. Egy gyerek (das Kind) = es. Párosítsd a névmást a főnév nemével!",
     round5Title: "Melléknév kihívás",
     round5Hint: "Válaszd ki a helyes ellentétet!",
+    round5Teach: "Megtanultad a mellékneveket és azok ellentéteit! Gyakoroljunk, hogy megtaláljuk az egyes szavak helyes ellentétét. Emlékezz: a főneveket írják le és mutatják meg, milyek!",
     well: "Csodálatos!",
     next: "Tovább",
     finish: "Vége!",
@@ -47,19 +58,25 @@ const LABELS: Record<string, Record<string, string>> = {
     tapToLearn: "Koppints, hogy tanuld!",
     replaces: "helyettesíti",
     discovery: "💡 A melléknevek főneveket írnak le: groß, klein, schnell, langsam. Mehetnek főnév elé (der große Hund) vagy ige után (der Hund ist groß).",
+    gotIt: "Értem!",
   },
   de: {
     title: "Adjektiv-Entdecker",
     round1Title: "Finde das Adjektiv!",
     round1Hint: "Tippe auf alle Eigenschaftswörter (Adjektive)!",
+    round1Teach: "Ein Adjektiv ist ein Wort, das etwas beschreibt. Wörter wie groß, klein, schnell und blau sind Adjektive. Sie sagen uns MEHR über Nomen — wie sie aussehen oder wie sie handeln!",
     round2Title: "Gegensätze!",
     round2Hint: "Tippe auf das Gegensatz-Paar!",
+    round2Teach: "Viele Adjektive haben Gegensätze. Groß ist das Gegenteil von Klein (groß ↔ klein). Schnell ist das Gegenteil von Langsam (schnell ↔ langsam). Heiß ist das Gegenteil von Kalt (heiß ↔ kalt). Lass uns diese Paare lernen!",
     round3Title: "Personalpronomen",
     round3Hint: "Tippe auf jedes Pronomen um es zu lernen!",
+    round3Teach: "Pronomen sind Wörter, die Nomen ersetzen. Anstatt jedes Mal 'der Hund' zu sagen, sagen wir 'es' (es). Oder anstatt 'Anna' sagen wir 'sie' (sie). Es gibt verschiedene Pronomen für verschiedene Menschen!",
     round4Title: "er, sie oder es?",
     round4Hint: "Welches Pronomen ersetzt dieses Nomen?",
+    round4Teach: "Jedes deutsche Nomen hat ein Geschlecht, also verwendet das richtige Pronomen. Ein Hund (der Hund) = er. Eine Katze (die Katze) = sie. Ein Kind (das Kind) = es. Passe das Pronomen zum Geschlecht des Nomens an!",
     round5Title: "Adjektiv-Herausforderung",
     round5Hint: "Wähle den richtigen Gegensatz!",
+    round5Teach: "Du hast Adjektive und ihre Gegensätze gelernt! Lass uns üben, das richtige Gegenteil für jedes Wort zu finden. Erinnere dich: Sie beschreiben Dinge und zeigen, wie sie sind!",
     well: "Wunderbar!",
     next: "Weiter",
     finish: "Fertig!",
@@ -67,19 +84,25 @@ const LABELS: Record<string, Record<string, string>> = {
     tapToLearn: "Tippe zum Lernen!",
     replaces: "ersetzt",
     discovery: "💡 Adjektive beschreiben Nomen: groß, klein, schnell, langsam. Sie können vor einem Nomen stehen (der große Hund) oder nach einem Verb (der Hund ist groß).",
+    gotIt: "Verstanden!",
   },
   ro: {
     title: "Exploratorul adjectivelor",
     round1Title: "Găsește adjectivul!",
     round1Hint: "Atinge toate cuvintele descriptive (adjective)!",
+    round1Teach: "Un adjectiv este un cuvânt care descrie ceva. Cuvinte ca groß (mare), klein (mic), schnell (rapid) și blau (albastru) sunt adjective. Ne spun MAI MULT despre substantive — cum arată sau cum se comportă!",
     round2Title: "Contrarii!",
     round2Hint: "Atinge perechea de adjective contrare!",
+    round2Teach: "Multe adjective au contrarii. Mare este opusul micului (groß ↔ klein). Rapid este opusul lentului (schnell ↔ langsam). Fierbinte este opusul rece (heiß ↔ kalt). Hai să învățăm aceste perechi!",
     round3Title: "Pronume personale",
     round3Hint: "Atinge fiecare pronume pentru a-l învăța!",
+    round3Teach: "Pronumele sunt cuvinte care înlocuiesc substantivele. În loc să spunem 'câinele' de fiecare dată, spunem 'el' (es). Sau în loc să spunem 'Anna', spunem 'ea' (sie). Sunt pronume diferite pentru oameni diferiți!",
     round4Title: "er, sie sau es?",
     round4Hint: "Care pronume înlocuiește acest substantiv?",
+    round4Teach: "Fiecare substantiv german are un gen, deci folosește pronumele potrivit. Un câine (der Hund) = er. O pisică (die Katze) = sie. Un copil (das Kind) = es. Potrivește pronumele cu genul substantivului!",
     round5Title: "Provocare adjective",
     round5Hint: "Alege contrariul corect!",
+    round5Teach: "Ai învățat adjective și contrarii lor! Hai să practică găsirea contrarielor corecte pentru fiecare cuvânt. Ține minte: ele descriu lucruri și arată cum sunt!",
     well: "Minunat!",
     next: "Înainte",
     finish: "Gata!",
@@ -87,6 +110,7 @@ const LABELS: Record<string, Record<string, string>> = {
     tapToLearn: "Atinge pentru a învăța!",
     replaces: "înlocuiește",
     discovery: "💡 Adjectivele descriu substantivele: groß, klein, schnell, langsam. Pot sta înainte unui substantiv (der große Hund) sau după un verb (der Hund ist groß).",
+    gotIt: "Am înțeles!",
   },
 };
 
@@ -180,11 +204,28 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Find adjectives ─────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const adjCount = MIXED_WORDS_POOL.filter(w => w.isAdj).length;
   const tappedAdjCount = [...tapped].filter(i => MIXED_WORDS_POOL[i].isAdj).length;
   const allAdjTapped = tappedAdjCount === adjCount;
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -218,13 +259,30 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Opposites pairs ─────────────────────────────────────────────────
-function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+function Round2({ color, lbl, wrongCountRef, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [pairs] = useState(() => shuffle(OPPOSITE_PAIRS_POOL).slice(0, 4));
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const [feedback, setFeedback] = useState<"correct" | null>(null);
   const pair = pairs[idx];
   const bothTapped = tapped.has(0) && tapped.has(1);
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleTap = (i: number) => {
     if (feedback) return;
@@ -293,9 +351,26 @@ function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
 }
 
 // ─── Round 3: Personal pronouns display ──────────────────────────────────────
-function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ lang, color, lbl, onNext, showTeach, onTeachDone }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const allTapped = tapped.size === PRONOUNS.length;
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -334,12 +409,29 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: er/sie/es replacement ──────────────────────────────────────────
-function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = PRONOUN_SUBS[idx];
   const pronColors: Record<string, string> = { er: "#10B981", sie: "#F59E0B", es: "#A855F7" };
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (p: string) => {
     if (selected || feedback) return;
@@ -429,13 +521,30 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
 }
 
 // ─── Round 5: Opposites quiz ──────────────────────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [quiz] = useState(() => shuffle(OPPOSITE_QUIZ_POOL).slice(0, 3));
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = quiz[idx];
   const isCorrect = selected === item.answer;
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (opt: string) => {
     if (selected || feedback) return;
@@ -523,12 +632,13 @@ const AdjectiveExplorer = memo(function AdjectiveExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
 
   // Error tracking
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -541,11 +651,11 @@ const AdjectiveExplorer = memo(function AdjectiveExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
         </motion.div>
       </AnimatePresence>
     </div>

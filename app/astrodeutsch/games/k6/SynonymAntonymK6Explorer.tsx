@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "🔀 Synonyms (Synonyme)",
+    r1_text: "SYNONYMS are words with THE SAME or SIMILAR meaning. Example: 'schnell' (fast) and 'eilig' (hurried). Both express speed or urgency.",
+    r1_q: "Which is a synonym for 'schön'?",
+    r1_a: "hässlich",
+    r1_b: "wunderbar",
+    r1_c: "dämlich",
+    r1_d: "größer",
+    r2_title: "🔀 Antonyms (Antonyme)",
+    r2_text: "ANTONYMS are words with OPPOSITE meanings. Example: 'heiß' (hot) and 'kalt' (cold). They contrast each other.",
+    r2_q: "What is the antonym of 'groß'?",
+    r2_a: "riesig",
+    r2_b: "klein",
+    r2_c: "breit",
+    r2_d: "lang",
+    r3_title: "🔀 Context-dependent meaning (Kontextabhängige Bedeutung)",
+    r3_text: "The same word can have different meanings in different contexts. Example: 'Geschäft' = business OR shop. 'Bank' = sofa OR bank. Look at context!",
+    r3_q: "'Das war ein dichtes Gedicht.' What does 'dicht' mean here?",
+    r3_a: "thick (texture)",
+    r3_b: "crowded",
+    r3_c: "compact/dense (in poetry)",
+    r3_d: "solid",
+    r4_title: "🔀 Word families and semantic fields",
+    r4_text: "Words can be related by meaning (semantic field). Example: 'Angst', 'Furcht', 'Besorgnis' all relate to fear.",
+    r4_q1: "Which word belongs to the 'Bewegung' (movement) family?",
+    r4_ans1: "rennen",
+    r5_title: "⭐ Synonyms & Antonyms Review",
+    r5_text: "Test your vocabulary!",
+    r5_q1: "Are these synonyms or antonyms? 'gut' and 'schlecht'",
+    r5_ant: "Antonyms",
+    r5_syn: "Synonyms",
+    r5_q2: "'Angst' is a synonym for:",
+    r5_fear: "Furcht",
+    r5_joy: "Freude",
+  },
+  de: {
+    r1_title: "🔀 Synonyme",
+    r1_text: "SYNONYME sind Wörter mit der GLEICHEN oder ÄHNLICHEN Bedeutung. Beispiel: 'schnell' und 'eilig'. Beide drücken Geschwindigkeit aus.",
+    r1_q: "Welches ist ein Synonym für 'schön'?",
+    r1_a: "hässlich",
+    r1_b: "wunderbar",
+    r1_c: "dämlich",
+    r1_d: "größer",
+    r2_title: "🔀 Antonyme",
+    r2_text: "ANTONYME sind Wörter mit GEGENSÄTZLICHEN Bedeutungen. Beispiel: 'heiß' und 'kalt'. Sie stehen sich gegenüber.",
+    r2_q: "Antonym von 'groß' ist:",
+    r2_a: "riesig",
+    r2_b: "klein",
+    r2_c: "breit",
+    r2_d: "lang",
+    r3_title: "🔀 Kontextabhängige Bedeutung",
+    r3_text: "Das gleiche Wort kann verschiedene Bedeutungen haben. Beispiel: 'Geschäft' = Betrieb ODER Laden. 'Bank' = Sitzmöbel ODER Finanzinstitut. Kontext beachten!",
+    r3_q: "'Das war ein dichtes Gedicht.' Was bedeutet 'dicht' hier?",
+    r3_a: "dick (Textur)",
+    r3_b: "überfüllt",
+    r3_c: "kompakt/dicht (Gedicht)",
+    r3_d: "massiv",
+    r4_title: "🔀 Wortfamilien und Sinnfelder",
+    r4_text: "Wörter können semantisch zusammenhängen (Sinnfeld). Beispiel: 'Angst', 'Furcht', 'Besorgnis' gehören zum Thema Angst.",
+    r4_q1: "Welches Wort gehört zur Familie 'Bewegung'?",
+    r4_ans1: "rennen",
+    r5_title: "⭐ Synonyme & Antonyme Wiederholung",
+    r5_text: "Teste dein Vokabular!",
+    r5_q1: "Sind diese Synonyme oder Antonyme? 'gut' und 'schlecht'",
+    r5_ant: "Antonyme",
+    r5_syn: "Synonyme",
+    r5_q2: "'Angst' ist ein Synonym für:",
+    r5_fear: "Furcht",
+    r5_joy: "Freude",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="80" cy="80" r="25" fill="#F59E0B" opacity="0.5"/><text x="80" y="90" textAnchor="middle" fontSize="14">=</text><circle cx="160" cy="80" r="25" fill="#F59E0B" opacity="0.5"/><text x="160" y="90" textAnchor="middle" fontSize="14">=</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_b" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="80" cy="80" r="25" fill="#F59E0B" opacity="0.5"/><text x="80" y="90" textAnchor="middle" fontSize="16">↔</text><circle cx="160" cy="80" r="25" fill="#F59E0B" opacity="0.5"/></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_b" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="60" textAnchor="middle" fontSize="14" fill="#F59E0B">Bedeutung 1</text><text x="120" y="90" textAnchor="middle" fontSize="14" fill="#F59E0B">Bedeutung 2</text><text x="120" y="120" textAnchor="middle" fontSize="14" fill="#F59E0B">Bedeutung 3</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_c" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="60" cy="80" r="20" fill="#F59E0B" opacity="0.5"/><circle cx="100" cy="80" r="20" fill="#F59E0B" opacity="0.5"/><circle cx="140" cy="80" r="20" fill="#F59E0B" opacity="0.5"/><circle cx="180" cy="80" r="20" fill="#F59E0B" opacity="0.5"/></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "stehen", "sitzen", "schlafen"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_ant", "r5_syn"], answer: "r5_ant" }, { question: "r5_q2", choices: ["r5_fear", "r5_joy"], answer: "r5_fear" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function SynonymAntonymK6Explorer({ color = "#F59E0B", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

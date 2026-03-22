@@ -25,6 +25,15 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import DNAExplorer from "@/app/astro-biologie/games/DNAExplorer";
+import MutationExplorer from "@/app/astro-biologie/games/MutationExplorer";
+import HormoneExplorer from "@/app/astro-biologie/games/HormoneExplorer";
+import ReproductionExplorer from "@/app/astro-biologie/games/ReproductionExplorer";
+import BiotechExplorer from "@/app/astro-biologie/games/BiotechExplorer";
+import SystemsExplorer from "@/app/astro-biologie/games/SystemsExplorer";
+import PopGenExplorer from "@/app/astro-biologie/games/PopGenExplorer";
+import PhylogenyExplorer from "@/app/astro-biologie/games/PhylogenyExplorer";
+import { addSpecialCards } from "@/lib/specialCards";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -96,6 +105,14 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "dna-explorer"
+  | "mutation-explorer"
+  | "hormone-explorer"
+  | "reproduction-explorer"
+  | "biotech-explorer"
+  | "systems-explorer"
+  | "popgen-explorer"
+  | "phylogeny-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -391,6 +408,31 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
+      {score >= 10 ? (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-[#E040FB]/15 border border-[#E040FB]/30"
+        >
+          <span className="text-2xl">⭐</span>
+          <span className="text-[#E040FB] font-black text-lg">+3</span>
+          <span className="text-white/60 text-sm font-medium">
+            {lang === "hu" ? "csillag jutalom!" : lang === "de" ? "Sterne Belohnung!" : lang === "ro" ? "stele recompensă!" : "star reward!"}
+          </span>
+        </motion.div>
+      ) : (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-white/5 border border-white/10"
+        >
+          <span className="text-white/40 text-sm font-medium">
+            {lang === "hu" ? `${10 - score} helyes válasz hiányzik a ⭐ jutalomhoz` : lang === "de" ? `${10 - score} richtige Antworten fehlen für ⭐` : lang === "ro" ? `${10 - score} răspunsuri corecte lipsesc pentru ⭐` : `${10 - score} more correct answers needed for ⭐`}
+          </span>
+        </motion.div>
+      )}
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
@@ -467,8 +509,8 @@ export default function AstroBiologieK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
-    if (isExplorer) {
+    const explorerScreens = ["dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "biotech-explorer", "systems-explorer", "popgen-explorer", "phylogeny-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"];
+    if (explorerScreens.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -527,14 +569,14 @@ export default function AstroBiologieK8Page() {
     const qs = generateCheckpointQuestionsK8(testId, 7);
     setQuestions(qs);
     setScreen("rocket-launch");
-  }, [lang]);
+  }, []);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK8(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK8(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
-  }, [activeTestId, lang]);
+  }, [activeTestId]);
 
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
@@ -544,9 +586,14 @@ export default function AstroBiologieK8Page() {
     saveK8Progress(newProgress);
     setProgress(newProgress);
 
+    // Checkpoint reward: 3 special stars only if score >= 10/15
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astro-biologie", rarity, score, total, date: new Date().toISOString() });
-    window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
     setEarnedCard(rarity);
@@ -784,12 +831,37 @@ export default function AstroBiologieK8Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "dna-explorer" && (
+          <DNAExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "mutation-explorer" && (
+          <MutationExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "hormone-explorer" && (
+          <HormoneExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "reproduction-explorer" && (
+          <ReproductionExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "biotech-explorer" && (
+          <BiotechExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "systems-explorer" && (
+          <SystemsExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "popgen-explorer" && (
+          <PopGenExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
+        {screen === "phylogeny-explorer" && (
+          <PhylogenyExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
 
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreens = ["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "biotech-explorer", "systems-explorer", "popgen-explorer", "phylogeny-explorer"];
+  if (explorerScreens.includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

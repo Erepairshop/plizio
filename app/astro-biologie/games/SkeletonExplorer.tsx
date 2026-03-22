@@ -286,320 +286,521 @@ const LABELS: ExplorerDef["labels"] = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SVG_R1(lang: string) {
-  const l = LABELS[lang] || LABELS.en;
-  const colors = ["#FF6B6B", "#4ECDC4", "#45B7D1", "#F9CA24"];
-  const badges = [
-    { icon: "🏗️", label: "support", color: colors[0] },
-    { icon: "🛡️", label: "protect", color: colors[1] },
-    { icon: "💪", label: "movement", color: colors[2] },
-    { icon: "🩸", label: "blood_cells", color: colors[3] },
-  ];
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_skeleton" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#e8c4a0" />
-          <stop offset="100%" stopColor="#d4a574" />
+        <radialGradient id="sk_r1_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0f1525" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="sk_r1_bone" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="30%" stopColor="#e8d4b8" />
+          <stop offset="70%" stopColor="#d4b896" />
+          <stop offset="100%" stopColor="#c4a478" />
         </linearGradient>
-        <filter id="r1_glow">
-          <feGaussianBlur stdDeviation="1" result="coloredBlur" />
-          <feMerge>
-            <feMergeNode in="coloredBlur" />
-            <feMergeNode in="SourceGraphic" />
-          </feMerge>
+        <linearGradient id="sk_r1_bone_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#d4b896" />
+          <stop offset="100%" stopColor="#a08060" />
+        </linearGradient>
+        <radialGradient id="sk_r1_skull" cx="45%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="50%" stopColor="#e8d4b8" />
+          <stop offset="100%" stopColor="#c4a478" />
+        </radialGradient>
+        <radialGradient id="sk_r1_marrow" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FF5252" stopOpacity="0.7" />
+          <stop offset="100%" stopColor="#B71C1C" stopOpacity="0.3" />
+        </radialGradient>
+        <filter id="sk_r1_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="sk_r1_soft">
+          <feGaussianBlur stdDeviation="3" />
         </filter>
       </defs>
 
-      {/* Dark background */}
-      <rect width="240" height="160" fill="#0a0a14" />
+      <rect width="240" height="160" fill="url(#sk_r1_bg)" />
 
-      {/* Center skeleton silhouette */}
-      <g>
-        {/* Head */}
-        <circle cx="120" cy="35" r="12" fill="url(#r1_skeleton)" filter="url(#r1_glow)" />
-        {/* Spine */}
-        <rect x="116" y="48" width="8" height="35" fill="url(#r1_skeleton)" filter="url(#r1_glow)" />
-        {/* Ribcage */}
-        <ellipse cx="120" cy="70" rx="18" ry="14" fill="none" stroke="url(#r1_skeleton)" strokeWidth="2" filter="url(#r1_glow)" />
+      {/* Soft body silhouette behind skeleton */}
+      <ellipse cx="120" cy="78" rx="28" ry="55" fill="rgba(100,150,200,0.06)" filter="url(#sk_r1_soft)" />
+
+      {/* ── FULL SKELETON ── */}
+      <g filter="url(#sk_r1_glow)">
+        {/* Skull */}
+        <ellipse cx="120" cy="22" rx="11" ry="13" fill="url(#sk_r1_skull)" />
+        <ellipse cx="120" cy="20" rx="9" ry="10" fill="url(#sk_r1_skull)" />
+        {/* Eye sockets */}
+        <ellipse cx="116" cy="20" rx="2.5" ry="2" fill="#0a0a14" opacity="0.6" />
+        <ellipse cx="124" cy="20" rx="2.5" ry="2" fill="#0a0a14" opacity="0.6" />
+        {/* Nasal cavity */}
+        <path d="M 119,24 L 120,27 L 121,24" stroke="#a08060" strokeWidth="0.5" fill="none" />
+        {/* Jaw */}
+        <path d="M 112,28 Q 120,34 128,28" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.5" fill="none" />
+
+        {/* Cervical spine (neck) */}
+        {[36, 39, 42].map((y, i) => (
+          <rect key={`c${i}`} x="117" y={y} width="6" height="2.5" rx="1" fill="url(#sk_r1_bone)" opacity={0.9 - i * 0.05} />
+        ))}
+
+        {/* Ribcage — curved ribs */}
+        {[0, 1, 2, 3, 4, 5].map((i) => {
+          const y = 48 + i * 5;
+          const spread = 12 + i * 1.5;
+          return (
+            <g key={`rib${i}`}>
+              <path d={`M 120,${y} Q ${120 - spread},${y + 2} ${120 - spread - 2},${y + 4}`} stroke="url(#sk_r1_bone)" strokeWidth="1.5" fill="none" opacity="0.85" />
+              <path d={`M 120,${y} Q ${120 + spread},${y + 2} ${120 + spread + 2},${y + 4}`} stroke="url(#sk_r1_bone)" strokeWidth="1.5" fill="none" opacity="0.85" />
+            </g>
+          );
+        })}
+        {/* Sternum */}
+        <rect x="118.5" y="48" width="3" height="28" rx="1" fill="url(#sk_r1_bone)" opacity="0.7" />
+
+        {/* Thoracic + Lumbar spine */}
+        {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => (
+          <rect key={`s${i}`} x="117" y={48 + i * 5} width="6" height="3.5" rx="1" fill="url(#sk_r1_bone)" opacity={0.8 - i * 0.03} />
+        ))}
+
         {/* Pelvis */}
-        <ellipse cx="120" cy="95" rx="16" ry="10" fill="none" stroke="url(#r1_skeleton)" strokeWidth="2" filter="url(#r1_glow)" />
+        <path d="M 104,92 Q 108,84 120,82 Q 132,84 136,92 Q 132,98 120,100 Q 108,98 104,92 Z" fill="url(#sk_r1_bone)" opacity="0.8" />
+        <ellipse cx="120" cy="92" rx="8" ry="5" fill="#0a0a14" opacity="0.3" />
+
+        {/* Clavicles */}
+        <path d="M 120,46 Q 108,44 98,48" stroke="url(#sk_r1_bone)" strokeWidth="2" fill="none" />
+        <path d="M 120,46 Q 132,44 142,48" stroke="url(#sk_r1_bone)" strokeWidth="2" fill="none" />
+
+        {/* Scapulae hints */}
+        <path d="M 96,50 Q 94,56 96,62" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.2" fill="none" opacity="0.5" />
+        <path d="M 144,50 Q 146,56 144,62" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.2" fill="none" opacity="0.5" />
+
         {/* Left arm */}
-        <line x1="102" y1="60" x2="90" y2="50" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        <line x1="98" y1="48" x2="88" y2="72" stroke="url(#sk_r1_bone)" strokeWidth="2.5" strokeLinecap="round" />
+        <circle cx="88" cy="72" r="2" fill="url(#sk_r1_bone)" />
+        <line x1="88" y1="72" x2="82" y2="95" stroke="url(#sk_r1_bone)" strokeWidth="2" strokeLinecap="round" />
+        <line x1="88" y1="72" x2="85" y2="95" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.5" strokeLinecap="round" opacity="0.6" />
+
         {/* Right arm */}
-        <line x1="138" y1="60" x2="150" y2="50" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
-        {/* Left leg */}
-        <line x1="110" y1="105" x2="108" y2="135" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        <line x1="142" y1="48" x2="152" y2="72" stroke="url(#sk_r1_bone)" strokeWidth="2.5" strokeLinecap="round" />
+        <circle cx="152" cy="72" r="2" fill="url(#sk_r1_bone)" />
+        <line x1="152" y1="72" x2="158" y2="95" stroke="url(#sk_r1_bone)" strokeWidth="2" strokeLinecap="round" />
+        <line x1="152" y1="72" x2="155" y2="95" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.5" strokeLinecap="round" opacity="0.6" />
+
+        {/* Left leg: femur + tibia/fibula */}
+        <line x1="112" y1="98" x2="106" y2="125" stroke="url(#sk_r1_bone)" strokeWidth="3" strokeLinecap="round" />
+        <circle cx="106" cy="125" r="2.5" fill="url(#sk_r1_bone)" />
+        <line x1="106" y1="125" x2="104" y2="148" stroke="url(#sk_r1_bone)" strokeWidth="2.2" strokeLinecap="round" />
+        <line x1="106" y1="125" x2="107" y2="148" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.5" strokeLinecap="round" opacity="0.5" />
+
         {/* Right leg */}
-        <line x1="130" y1="105" x2="132" y2="135" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        <line x1="128" y1="98" x2="134" y2="125" stroke="url(#sk_r1_bone)" strokeWidth="3" strokeLinecap="round" />
+        <circle cx="134" cy="125" r="2.5" fill="url(#sk_r1_bone)" />
+        <line x1="134" y1="125" x2="136" y2="148" stroke="url(#sk_r1_bone)" strokeWidth="2.2" strokeLinecap="round" />
+        <line x1="134" y1="125" x2="133" y2="148" stroke="url(#sk_r1_bone_dark)" strokeWidth="1.5" strokeLinecap="round" opacity="0.5" />
+
+        {/* Hands (simplified) */}
+        <circle cx="82" cy="96" r="2.5" fill="url(#sk_r1_bone)" opacity="0.7" />
+        <circle cx="158" cy="96" r="2.5" fill="url(#sk_r1_bone)" opacity="0.7" />
+
+        {/* Feet */}
+        <path d="M 100,148 L 104,148 L 108,148" stroke="url(#sk_r1_bone)" strokeWidth="2" fill="none" strokeLinecap="round" />
+        <path d="M 132,148 L 136,148 L 140,148" stroke="url(#sk_r1_bone)" strokeWidth="2" fill="none" strokeLinecap="round" />
       </g>
 
-      {/* Function badges around skeleton */}
-      {badges.map((b, i) => {
-        const angles = [0, 90, 180, 270];
-        const angle = (angles[i] * Math.PI) / 180;
-        const radius = 65;
-        const cx = 120 + radius * Math.cos(angle);
-        const cy = 80 + radius * Math.sin(angle);
-
-        return (
-          <g key={i}>
-            {/* Circle background */}
-            <circle cx={cx} cy={cy} r="18" fill={b.color} opacity="0.2" />
-            <circle cx={cx} cy={cy} r="18" fill="none" stroke={b.color} strokeWidth="1.5" />
-            {/* Badge icon */}
-            <text x={cx} y={cy + 7} textAnchor="middle" fontSize="18" dominantBaseline="middle">
-              {b.icon}
-            </text>
-          </g>
-        );
-      })}
-
-      {/* Legend */}
-      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
-        4 Functions
-      </text>
+      {/* Function indicators — colored dots around skeleton */}
+      {/* Support (top) */}
+      <circle cx="120" cy="6" r="5" fill="rgba(255,107,107,0.2)" stroke="#FF6B6B" strokeWidth="0.8" />
+      <circle cx="120" cy="6" r="2" fill="#FF6B6B" opacity="0.6" />
+      {/* Protect (left — ribs area) */}
+      <circle cx="62" cy="60" r="5" fill="rgba(78,205,196,0.2)" stroke="#4ECDC4" strokeWidth="0.8" />
+      <circle cx="62" cy="60" r="2" fill="#4ECDC4" opacity="0.6" />
+      {/* Movement (right) */}
+      <circle cx="178" cy="60" r="5" fill="rgba(69,183,209,0.2)" stroke="#45B7D1" strokeWidth="0.8" />
+      <circle cx="178" cy="60" r="2" fill="#45B7D1" opacity="0.6" />
+      {/* Blood production (marrow glow in femur) */}
+      <circle cx="120" cy="150" r="5" fill="rgba(249,202,36,0.2)" stroke="#F9CA24" strokeWidth="0.8" />
+      <circle cx="120" cy="150" r="2" fill="#F9CA24" opacity="0.6" />
+      {/* Bone marrow hint inside femur */}
+      <ellipse cx="110" cy="112" rx="1.5" ry="8" fill="url(#sk_r1_marrow)" />
+      <ellipse cx="130" cy="112" rx="1.5" ry="8" fill="url(#sk_r1_marrow)" />
     </svg>
   );
 }
 
 function SVG_R2(lang: string) {
-  const l = LABELS[lang] || LABELS.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_bone" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#f0e6d2" />
-          <stop offset="100%" stopColor="#c9b8a0" />
+        <radialGradient id="sk_r2_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0f1525" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="sk_r2_bone" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="40%" stopColor="#e0c8a8" />
+          <stop offset="100%" stopColor="#c4a478" />
         </linearGradient>
-        <filter id="r2_shadow">
-          <feGaussianBlur stdDeviation="1.5" />
+        <radialGradient id="sk_r2_skull" cx="45%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="100%" stopColor="#c4a478" />
+        </radialGradient>
+        <filter id="sk_r2_glow">
+          <feGaussianBlur stdDeviation="1.2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
         </filter>
       </defs>
 
-      <rect width="240" height="160" fill="#0a0a14" />
+      <rect width="240" height="160" fill="url(#sk_r2_bg)" />
 
-      {/* Skeleton with labeled bones */}
-      <g>
-        {/* Skull */}
-        <circle cx="120" cy="30" r="10" fill="url(#r2_bone)" />
-        <text x="120" y="52" textAnchor="middle" fontSize="10" fill="#e8c4a0" fontWeight="bold">
-          💀
-        </text>
-        <line x1="120" y1="40" x2="120" y2="48" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="135" y="48" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Skull
-        </text>
+      <g filter="url(#sk_r2_glow)">
+        {/* Skull — detailed */}
+        <ellipse cx="120" cy="18" rx="10" ry="12" fill="url(#sk_r2_skull)" />
+        <ellipse cx="116" cy="17" rx="2" ry="1.8" fill="#0a0a14" opacity="0.5" />
+        <ellipse cx="124" cy="17" rx="2" ry="1.8" fill="#0a0a14" opacity="0.5" />
+        <path d="M 119,21 L 120,23 L 121,21" stroke="#a08060" strokeWidth="0.4" fill="none" />
+        <path d="M 114,25 Q 120,29 126,25" stroke="#c4a478" strokeWidth="1" fill="none" />
 
-        {/* Spine */}
-        <rect x="116" y="45" width="8" height="32" fill="url(#r2_bone)" />
-        <line x1="128" y1="60" x2="150" y2="60" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="155" y="63" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Spine
-        </text>
+        {/* Spine vertebrae */}
+        {[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map((i) => (
+          <rect key={`v${i}`} x="117.5" y={32 + i * 4} width="5" height="3" rx="1" fill="url(#sk_r2_bone)" opacity={0.85 - i * 0.02} />
+        ))}
 
-        {/* Ribs */}
-        <ellipse cx="120" cy="68" rx="16" ry="11" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
-        <line x1="104" y1="68" x2="85" y2="68" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="70" y="71" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Ribs
-        </text>
+        {/* Ribs — curved pairs */}
+        {[0, 1, 2, 3, 4, 5].map((i) => {
+          const y = 38 + i * 5;
+          const sp = 10 + i * 1.8;
+          return (
+            <g key={`rb${i}`}>
+              <path d={`M 120,${y} Q ${120 - sp},${y + 2} ${120 - sp - 3},${y + 3.5}`} stroke="url(#sk_r2_bone)" strokeWidth="1.3" fill="none" opacity="0.8" />
+              <path d={`M 120,${y} Q ${120 + sp},${y + 2} ${120 + sp + 3},${y + 3.5}`} stroke="url(#sk_r2_bone)" strokeWidth="1.3" fill="none" opacity="0.8" />
+            </g>
+          );
+        })}
 
         {/* Pelvis */}
-        <ellipse cx="120" cy="100" rx="14" ry="8" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
-        <line x1="134" y1="100" x2="160" y2="100" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="165" y="103" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Pelvis
-        </text>
+        <path d="M 106,82 Q 110,76 120,74 Q 130,76 134,82 Q 130,88 120,90 Q 110,88 106,82 Z" fill="url(#sk_r2_bone)" opacity="0.75" />
 
-        {/* Femur (left leg) */}
-        <line x1="110" y1="108" x2="105" y2="135" stroke="url(#r2_bone)" strokeWidth="3" />
-        <line x1="89" y1="125" x2="105" y2="135" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="75" y="128" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Femur
-        </text>
+        {/* Clavicles */}
+        <path d="M 120,36 Q 110,34 100,38" stroke="url(#sk_r2_bone)" strokeWidth="1.8" fill="none" />
+        <path d="M 120,36 Q 130,34 140,38" stroke="url(#sk_r2_bone)" strokeWidth="1.8" fill="none" />
 
-        {/* Humerus (left arm) */}
-        <line x1="104" y1="55" x2="85" y2="38" stroke="url(#r2_bone)" strokeWidth="2.5" />
-        <line x1="75" y1="42" x2="85" y2="38" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="68" y="34" fontSize="5.5" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Humerus
-        </text>
+        {/* Left arm: humerus + radius/ulna */}
+        <line x1="100" y1="38" x2="90" y2="60" stroke="url(#sk_r2_bone)" strokeWidth="2.5" strokeLinecap="round" />
+        <circle cx="90" cy="60" r="1.8" fill="url(#sk_r2_bone)" />
+        <line x1="90" y1="60" x2="84" y2="80" stroke="url(#sk_r2_bone)" strokeWidth="1.8" strokeLinecap="round" />
+
+        {/* Right arm */}
+        <line x1="140" y1="38" x2="150" y2="60" stroke="url(#sk_r2_bone)" strokeWidth="2.5" strokeLinecap="round" />
+        <circle cx="150" cy="60" r="1.8" fill="url(#sk_r2_bone)" />
+        <line x1="150" y1="60" x2="156" y2="80" stroke="url(#sk_r2_bone)" strokeWidth="1.8" strokeLinecap="round" />
+
+        {/* Left leg: femur */}
+        <line x1="114" y1="88" x2="108" y2="118" stroke="url(#sk_r2_bone)" strokeWidth="3" strokeLinecap="round" />
+        <circle cx="108" cy="118" r="2.2" fill="url(#sk_r2_bone)" />
+        <line x1="108" y1="118" x2="106" y2="145" stroke="url(#sk_r2_bone)" strokeWidth="2" strokeLinecap="round" />
+
+        {/* Right leg */}
+        <line x1="126" y1="88" x2="132" y2="118" stroke="url(#sk_r2_bone)" strokeWidth="3" strokeLinecap="round" />
+        <circle cx="132" cy="118" r="2.2" fill="url(#sk_r2_bone)" />
+        <line x1="132" y1="118" x2="134" y2="145" stroke="url(#sk_r2_bone)" strokeWidth="2" strokeLinecap="round" />
       </g>
 
-      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
-        Major Bones
-      </text>
+      {/* Colored highlight indicators (no text) pointing to bone regions */}
+      {/* Skull pointer */}
+      <line x1="130" y1="14" x2="170" y2="10" stroke="rgba(255,107,107,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="172" cy="10" r="3" fill="rgba(255,107,107,0.2)" stroke="#FF6B6B" strokeWidth="0.7" />
+      {/* Spine pointer */}
+      <line x1="124" y1="52" x2="168" y2="52" stroke="rgba(78,205,196,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="170" cy="52" r="3" fill="rgba(78,205,196,0.2)" stroke="#4ECDC4" strokeWidth="0.7" />
+      {/* Ribs pointer */}
+      <line x1="100" y1="50" x2="62" y2="50" stroke="rgba(69,183,209,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="60" cy="50" r="3" fill="rgba(69,183,209,0.2)" stroke="#45B7D1" strokeWidth="0.7" />
+      {/* Pelvis pointer */}
+      <line x1="134" y1="82" x2="172" y2="82" stroke="rgba(249,202,36,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="174" cy="82" r="3" fill="rgba(249,202,36,0.2)" stroke="#F9CA24" strokeWidth="0.7" />
+      {/* Femur pointer */}
+      <line x1="108" y1="130" x2="68" y2="130" stroke="rgba(171,130,255,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="66" cy="130" r="3" fill="rgba(171,130,255,0.2)" stroke="#AB82FF" strokeWidth="0.7" />
+      {/* Humerus pointer */}
+      <line x1="88" y1="50" x2="58" y2="38" stroke="rgba(255,167,38,0.4)" strokeWidth="0.7" strokeDasharray="2,2" />
+      <circle cx="56" cy="37" r="3" fill="rgba(255,167,38,0.2)" stroke="#FFA726" strokeWidth="0.7" />
     </svg>
   );
 }
 
 function SVG_R3(lang: string) {
-  const l = LABELS[lang] || LABELS.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_skeletal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" />
-          <stop offset="100%" stopColor="#cc5555" />
+        <radialGradient id="sk_r3_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0f1525" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="sk_r3_skeletal" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="40%" stopColor="#FF5252" />
+          <stop offset="100%" stopColor="#C62828" />
         </linearGradient>
-        <linearGradient id="r3_smooth" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFA500" />
-          <stop offset="100%" stopColor="#cc8400" />
+        <linearGradient id="sk_r3_smooth" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FFCC80" />
+          <stop offset="40%" stopColor="#FFA726" />
+          <stop offset="100%" stopColor="#E65100" />
         </linearGradient>
-        <linearGradient id="r3_cardiac" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF1744" />
-          <stop offset="100%" stopColor="#cc1133" />
+        <linearGradient id="sk_r3_cardiac" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="40%" stopColor="#D50000" />
+          <stop offset="100%" stopColor="#8E0000" />
         </linearGradient>
+        <linearGradient id="sk_r3_bone" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="100%" stopColor="#c4a478" />
+        </linearGradient>
+        <filter id="sk_r3_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      <rect width="240" height="160" fill="#0a0a14" />
+      <rect width="240" height="160" fill="url(#sk_r3_bg)" />
 
-      {/* Three muscle types */}
-
-      {/* Left: Skeletal (Arm) */}
+      {/* ── LEFT: Skeletal Muscle (arm flexing) ── */}
       <g>
-        <rect x="20" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-        <text x="47.5" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
-          Skeletal
-        </text>
-        {/* Bicep */}
-        <ellipse cx="35" cy="70" rx="8" ry="15" fill="url(#r3_skeletal)" />
-        <text x="35" y="72" textAnchor="middle" fontSize="20" dominantBaseline="middle">
-          💪
-        </text>
-        {/* Label */}
-        <text x="47.5" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Voluntary
-        </text>
-        <text x="47.5" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
-          (You control)
-        </text>
+        <rect x="8" y="8" width="68" height="144" rx="10" fill="rgba(255,82,82,0.05)" stroke="rgba(255,82,82,0.15)" strokeWidth="0.8" />
+
+        {/* Arm bones */}
+        <line x1="30" y1="35" x2="30" y2="70" stroke="url(#sk_r3_bone)" strokeWidth="3" strokeLinecap="round" />
+        <circle cx="30" cy="70" r="2.5" fill="url(#sk_r3_bone)" />
+        <line x1="30" y1="70" x2="50" y2="50" stroke="url(#sk_r3_bone)" strokeWidth="2.5" strokeLinecap="round" />
+
+        {/* Bicep muscle (contracted) — bulging shape */}
+        <path d="M 26,42 Q 18,50 16,58 Q 18,66 26,68 Q 30,62 32,55 Q 30,46 26,42 Z" fill="url(#sk_r3_skeletal)" opacity="0.85" />
+        {/* Striations (parallel lines = striated muscle) */}
+        <path d="M 19,48 Q 22,50 24,52" stroke="rgba(255,255,255,0.2)" strokeWidth="0.4" fill="none" />
+        <path d="M 18,52 Q 22,54 25,56" stroke="rgba(255,255,255,0.2)" strokeWidth="0.4" fill="none" />
+        <path d="M 18,56 Q 22,58 25,60" stroke="rgba(255,255,255,0.2)" strokeWidth="0.4" fill="none" />
+        <path d="M 19,60 Q 22,62 24,64" stroke="rgba(255,255,255,0.2)" strokeWidth="0.4" fill="none" />
+
+        {/* Tricep (relaxed) */}
+        <path d="M 34,42 Q 40,50 42,58 Q 40,66 34,68" fill="url(#sk_r3_skeletal)" opacity="0.4" />
+
+        {/* Tendon attachments */}
+        <path d="M 26,42 L 28,38" stroke="#FFAB91" strokeWidth="1" opacity="0.6" />
+        <path d="M 26,68 L 28,70" stroke="#FFAB91" strokeWidth="1" opacity="0.6" />
+
+        {/* Flex arrow */}
+        <path d="M 50,55 Q 58,48 55,38" stroke="rgba(255,200,150,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="55,38 52,42 57,41" fill="rgba(255,200,150,0.4)" />
+
+        {/* Voluntary indicator — small brain icon */}
+        <circle cx="42" cy="100" r="8" fill="rgba(255,82,82,0.1)" stroke="rgba(255,82,82,0.3)" strokeWidth="0.6" />
+        <path d="M 38,100 Q 38,95 42,94 Q 46,95 46,100 Q 46,104 42,105 Q 38,104 38,100 Z" fill="rgba(255,82,82,0.3)" />
+        <path d="M 40,97 Q 42,96 44,97" stroke="rgba(255,255,255,0.3)" strokeWidth="0.5" fill="none" />
+        <path d="M 40,100 Q 42,99 44,100" stroke="rgba(255,255,255,0.3)" strokeWidth="0.5" fill="none" />
       </g>
 
-      {/* Center: Smooth (Stomach) */}
+      {/* ── CENTER: Smooth Muscle (organ wall) ── */}
       <g>
-        <rect x="92.5" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-        <text x="120" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
-          Smooth
-        </text>
-        {/* Stomach */}
-        <path
-          d="M 110 65 Q 115 55 125 60 Q 130 70 120 80 Q 110 85 105 75 Z"
-          fill="url(#r3_smooth)"
-        />
-        <text x="120" y="72" textAnchor="middle" fontSize="20" dominantBaseline="middle">
-          🫙
-        </text>
-        {/* Label */}
-        <text x="120" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Involuntary
-        </text>
-        <text x="120" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
-          (Body controls)
-        </text>
+        <rect x="86" y="8" width="68" height="144" rx="10" fill="rgba(255,167,38,0.05)" stroke="rgba(255,167,38,0.15)" strokeWidth="0.8" />
+
+        {/* Intestine/organ tube cross-section */}
+        <ellipse cx="120" cy="52" rx="22" ry="28" fill="rgba(255,167,38,0.1)" stroke="url(#sk_r3_smooth)" strokeWidth="1.5" />
+        {/* Organ wall layers */}
+        <ellipse cx="120" cy="52" rx="18" ry="24" fill="none" stroke="url(#sk_r3_smooth)" strokeWidth="0.8" opacity="0.5" />
+        <ellipse cx="120" cy="52" rx="14" ry="20" fill="none" stroke="url(#sk_r3_smooth)" strokeWidth="0.6" opacity="0.3" />
+
+        {/* Smooth muscle fibers — spindle shapes */}
+        {[
+          { cx: 105, cy: 38 }, { cx: 135, cy: 38 },
+          { cx: 100, cy: 52 }, { cx: 140, cy: 52 },
+          { cx: 105, cy: 66 }, { cx: 135, cy: 66 },
+        ].map((p, i) => (
+          <ellipse key={`sm${i}`} cx={p.cx} cy={p.cy} rx="6" ry="2.5" fill="url(#sk_r3_smooth)" opacity="0.6" transform={`rotate(${i % 2 === 0 ? -20 : 20} ${p.cx} ${p.cy})`} />
+        ))}
+        {/* Nuclei in smooth muscle cells */}
+        {[
+          { cx: 105, cy: 38 }, { cx: 135, cy: 38 },
+          { cx: 100, cy: 52 }, { cx: 140, cy: 52 },
+        ].map((p, i) => (
+          <circle key={`sn${i}`} cx={p.cx} cy={p.cy} r="1" fill="#4E342E" opacity="0.4" />
+        ))}
+
+        {/* Peristalsis wave arrows */}
+        <path d="M 120,28 Q 125,22 120,16" stroke="rgba(255,167,38,0.3)" strokeWidth="0.8" fill="none" />
+        <path d="M 120,88 Q 115,82 120,76" stroke="rgba(255,167,38,0.3)" strokeWidth="0.8" fill="none" />
+
+        {/* Automatic indicator */}
+        <circle cx="120" cy="105" r="8" fill="rgba(255,167,38,0.1)" stroke="rgba(255,167,38,0.3)" strokeWidth="0.6" />
+        <path d="M 117,103 L 120,99 L 123,103" stroke="rgba(255,167,38,0.5)" strokeWidth="0.8" fill="none" />
+        <path d="M 117,107 L 120,103 L 123,107" stroke="rgba(255,167,38,0.5)" strokeWidth="0.8" fill="none" />
       </g>
 
-      {/* Right: Cardiac (Heart) */}
+      {/* ── RIGHT: Cardiac Muscle (heart) ── */}
       <g>
-        <rect x="165" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-        <text x="192.5" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
-          Cardiac
-        </text>
-        {/* Heart */}
-        <path
-          d="M 192 65 L 188 60 Q 185 55 182 60 Q 180 65 185 72 L 192 80 L 199 72 Q 204 65 202 60 Q 199 55 196 60 Z"
-          fill="url(#r3_cardiac)"
-        />
-        <text x="192" y="68" textAnchor="middle" fontSize="20" dominantBaseline="middle">
-          ❤️
-        </text>
-        {/* Label */}
-        <text x="192.5" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
-          Involuntary
-        </text>
-        <text x="192.5" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
-          (Always beats)
-        </text>
+        <rect x="164" y="8" width="68" height="144" rx="10" fill="rgba(213,0,0,0.05)" stroke="rgba(213,0,0,0.15)" strokeWidth="0.8" />
+
+        {/* Heart shape — anatomical */}
+        <path d="M 198,35 Q 188,28 182,35 Q 178,42 185,52 L 198,68 L 211,52 Q 218,42 214,35 Q 208,28 198,35 Z" fill="url(#sk_r3_cardiac)" filter="url(#sk_r3_glow)" />
+        {/* Heart shine */}
+        <path d="M 188,36 Q 185,40 186,45" stroke="rgba(255,255,255,0.15)" strokeWidth="1" fill="none" strokeLinecap="round" />
+
+        {/* Cardiac muscle striations + branching */}
+        <path d="M 186,40 L 194,42 L 198,40 L 206,43" stroke="rgba(255,200,200,0.25)" strokeWidth="0.5" fill="none" />
+        <path d="M 188,46 L 195,48 L 200,46 L 208,49" stroke="rgba(255,200,200,0.25)" strokeWidth="0.5" fill="none" />
+        <path d="M 190,52 L 196,54 L 200,52 L 206,55" stroke="rgba(255,200,200,0.25)" strokeWidth="0.5" fill="none" />
+        {/* Intercalated discs */}
+        <line x1="194" y1="40" x2="194" y2="44" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+        <line x1="200" y1="44" x2="200" y2="48" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+
+        {/* Heartbeat pulse lines */}
+        <path d="M 172,85 L 178,85 L 182,75 L 186,92 L 190,80 L 194,85 L 198,85 L 202,85 L 206,75 L 210,92 L 214,80 L 218,85 L 224,85" stroke="rgba(213,0,0,0.5)" strokeWidth="1" fill="none" />
+
+        {/* Always beating indicator */}
+        <circle cx="198" cy="105" r="8" fill="rgba(213,0,0,0.1)" stroke="rgba(213,0,0,0.3)" strokeWidth="0.6" />
+        <circle cx="198" cy="105" r="4" fill="rgba(213,0,0,0.15)" />
+        <circle cx="198" cy="105" r="2" fill="rgba(213,0,0,0.25)" />
       </g>
     </svg>
   );
 }
 
 function SVG_R4(lang: string) {
-  const l = LABELS[lang] || LABELS.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_joint" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#45B7D1" />
-          <stop offset="100%" stopColor="#2a7da5" />
+        <radialGradient id="sk_r4_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0f1525" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="sk_r4_bone" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="50%" stopColor="#e0c8a8" />
+          <stop offset="100%" stopColor="#c4a478" />
         </linearGradient>
+        <linearGradient id="sk_r4_bone2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#e8d4b8" />
+          <stop offset="100%" stopColor="#b89870" />
+        </linearGradient>
+        <radialGradient id="sk_r4_cartilage" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(100,255,218,0.5)" />
+          <stop offset="100%" stopColor="rgba(0,191,165,0.2)" />
+        </radialGradient>
+        <radialGradient id="sk_r4_ball" cx="40%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#f5e6d0" />
+          <stop offset="50%" stopColor="#d4b896" />
+          <stop offset="100%" stopColor="#a08060" />
+        </radialGradient>
+        <radialGradient id="sk_r4_socket" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#b89870" />
+          <stop offset="100%" stopColor="#8B7355" />
+        </radialGradient>
+        <filter id="sk_r4_glow">
+          <feGaussianBlur stdDeviation="1" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      <rect width="240" height="160" fill="#0a0a14" />
+      <rect width="240" height="160" fill="url(#sk_r4_bg)" />
 
-      {/* Joint types */}
-
-      {/* Hinge joint (Elbow-like) */}
+      {/* ── LEFT: Hinge Joint (Elbow) ── */}
       <g>
-        {/* Upper arm */}
-        <line x1="40" y1="40" x2="40" y2="70" stroke="#d4a574" strokeWidth="4" />
-        {/* Joint circle */}
-        <circle cx="40" cy="70" r="5" fill="url(#r4_joint)" />
-        {/* Lower arm */}
-        <line x1="40" y1="70" x2="40" y2="100" stroke="#c9b8a0" strokeWidth="4" />
-        {/* Flex arrow */}
-        <path d="M 50 80 Q 65 75 70 65" fill="none" stroke="rgba(255,200,100,0.6)" strokeWidth="1.5" markerEnd="url(#arrow)" />
-        {/* Label */}
-        <text x="40" y="125" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.8)" fontWeight="bold">
-          Hinge
-        </text>
-        <text x="40" y="135" textAnchor="middle" fontSize="7" fill="rgba(255,255,255,0.5)">
-          (Back/Forth)
-        </text>
+        <rect x="5" y="5" width="70" height="150" rx="10" fill="rgba(69,183,209,0.04)" stroke="rgba(69,183,209,0.12)" strokeWidth="0.6" />
+
+        {/* Upper arm bone (humerus) */}
+        <path d="M 36,18 L 38,18 Q 42,20 42,25 L 42,60 Q 42,64 40,66 L 34,66 Q 32,64 32,60 L 32,25 Q 32,20 36,18 Z" fill="url(#sk_r4_bone)" />
+        {/* Bone texture lines */}
+        <path d="M 34,30 L 40,30" stroke="rgba(160,128,96,0.2)" strokeWidth="0.4" />
+        <path d="M 34,40 L 40,40" stroke="rgba(160,128,96,0.2)" strokeWidth="0.4" />
+        <path d="M 34,50 L 40,50" stroke="rgba(160,128,96,0.2)" strokeWidth="0.4" />
+
+        {/* Joint cartilage */}
+        <ellipse cx="37" cy="68" rx="8" ry="3" fill="url(#sk_r4_cartilage)" />
+
+        {/* Lower arm bone (ulna) — slightly angled to show hinge */}
+        <path d="M 36,70 L 38,70 Q 42,72 43,76 L 48,108 Q 48,112 46,114 L 40,114 Q 38,112 38,108 L 33,76 Q 32,72 36,70 Z" fill="url(#sk_r4_bone2)" />
+
+        {/* Hinge motion arc */}
+        <path d="M 52,62 Q 60,70 56,82" stroke="rgba(69,183,209,0.4)" strokeWidth="1.2" fill="none" />
+        <polygon points="56,82 53,78 58,79" fill="rgba(69,183,209,0.4)" />
+        <path d="M 22,62 Q 14,70 18,82" stroke="rgba(69,183,209,0.4)" strokeWidth="1.2" fill="none" />
+        <polygon points="18,82 21,78 16,79" fill="rgba(69,183,209,0.4)" />
+
+        {/* Colored dot indicator */}
+        <circle cx="37" cy="135" r="4" fill="rgba(69,183,209,0.15)" stroke="#45B7D1" strokeWidth="0.7" />
+        <circle cx="37" cy="135" r="1.5" fill="#45B7D1" opacity="0.5" />
       </g>
 
-      {/* Ball & Socket joint (Hip-like) */}
+      {/* ── CENTER: Ball & Socket Joint (Hip/Shoulder) ── */}
       <g>
-        {/* Pelvis */}
-        <ellipse cx="140" cy="50" rx="12" ry="8" fill="none" stroke="#d4a574" strokeWidth="2" />
-        {/* Joint sphere */}
-        <circle cx="140" cy="75" r="7" fill="url(#r4_joint)" />
-        {/* Femur */}
-        <line x1="140" y1="82" x2="140" y2="110" stroke="#c9b8a0" strokeWidth="4" />
+        <rect x="85" y="5" width="70" height="150" rx="10" fill="rgba(171,130,255,0.04)" stroke="rgba(171,130,255,0.12)" strokeWidth="0.6" />
+
+        {/* Socket (acetabulum) — cup shape */}
+        <path d="M 108,55 Q 108,40 120,38 Q 132,40 132,55" stroke="url(#sk_r4_bone)" strokeWidth="3" fill="none" />
+        <ellipse cx="120" cy="55" rx="14" ry="4" fill="url(#sk_r4_socket)" opacity="0.6" />
+
+        {/* Ball (femoral head) */}
+        <circle cx="120" cy="58" r="9" fill="url(#sk_r4_ball)" />
+        {/* Highlight on ball */}
+        <ellipse cx="117" cy="55" rx="3" ry="2" fill="rgba(255,255,255,0.15)" />
+
+        {/* Cartilage ring */}
+        <circle cx="120" cy="58" r="9.5" fill="none" stroke="url(#sk_r4_cartilage)" strokeWidth="1.5" />
+
+        {/* Femur shaft below */}
+        <path d="M 117,67 L 118,67 Q 122,70 122,74 L 124,108 Q 124,112 122,114 L 118,114 Q 116,112 116,108 L 114,74 Q 114,70 117,67 Z" fill="url(#sk_r4_bone2)" />
+
         {/* Multi-direction arrows */}
-        <path d="M 155 75 L 165 75" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
-        <path d="M 125 75 L 115 75" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
-        <path d="M 140 60 L 140 50" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
-        {/* Label */}
-        <text x="140" y="125" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.8)" fontWeight="bold">
-          Ball & Socket
-        </text>
-        <text x="140" y="135" textAnchor="middle" fontSize="7" fill="rgba(255,255,255,0.5)">
-          (Multi-direction)
-        </text>
+        <path d="M 135,58 L 146,58" stroke="rgba(171,130,255,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="146,58 143,56 143,60" fill="rgba(171,130,255,0.4)" />
+        <path d="M 105,58 L 94,58" stroke="rgba(171,130,255,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="94,58 97,56 97,60" fill="rgba(171,130,255,0.4)" />
+        <path d="M 120,44 L 120,33" stroke="rgba(171,130,255,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="120,33 118,36 122,36" fill="rgba(171,130,255,0.4)" />
+        <path d="M 130,48 L 138,40" stroke="rgba(171,130,255,0.35)" strokeWidth="0.8" fill="none" />
+        <path d="M 110,48 L 102,40" stroke="rgba(171,130,255,0.35)" strokeWidth="0.8" fill="none" />
+
+        {/* Colored dot indicator */}
+        <circle cx="120" cy="135" r="4" fill="rgba(171,130,255,0.15)" stroke="#AB82FF" strokeWidth="0.7" />
+        <circle cx="120" cy="135" r="1.5" fill="#AB82FF" opacity="0.5" />
       </g>
 
-      {/* Cartilage cushion illustration */}
+      {/* ── RIGHT: Pivot Joint (neck) + Cartilage detail ── */}
       <g>
-        {/* Two bone surfaces */}
-        <rect x="220" y="50" width="8" height="15" fill="#d4a574" rx="1" />
-        <rect x="220" y="70" width="8" height="15" fill="#d4a574" rx="1" />
-        {/* Cartilage between */}
-        <rect x="220" y="65" width="8" height="5" fill="rgba(100,255,200,0.4)" />
-        {/* Label */}
-        <text x="240" y="80" fontSize="7" fill="rgba(255,255,255,0.5)" fontWeight="500">
-          Cartilage
-        </text>
-      </g>
+        <rect x="165" y="5" width="70" height="150" rx="10" fill="rgba(0,200,150,0.04)" stroke="rgba(0,200,150,0.12)" strokeWidth="0.6" />
 
-      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
-        Types of Joints
-      </text>
+        {/* Atlas/Axis vertebrae — pivot mechanism */}
+        {/* Atlas (ring) — top view */}
+        <ellipse cx="200" cy="42" rx="14" ry="10" fill="none" stroke="url(#sk_r4_bone)" strokeWidth="2" />
+        <ellipse cx="200" cy="42" rx="8" ry="5" fill="#0a0a14" opacity="0.4" />
+        {/* Axis (peg/dens) sticking up through atlas */}
+        <ellipse cx="200" cy="42" rx="3.5" ry="2.5" fill="url(#sk_r4_ball)" />
+        <circle cx="200" cy="42" r="2" fill="url(#sk_r4_bone)" />
+
+        {/* Rotation arrows around pivot */}
+        <path d="M 185,42 Q 185,30 200,28" stroke="rgba(0,200,150,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="200,28 197,31 201,31" fill="rgba(0,200,150,0.4)" />
+        <path d="M 215,42 Q 215,54 200,56" stroke="rgba(0,200,150,0.4)" strokeWidth="1" fill="none" />
+        <polygon points="200,56 203,53 199,53" fill="rgba(0,200,150,0.4)" />
+
+        {/* Cartilage detail — zoomed cross-section */}
+        <rect x="178" y="75" width="44" height="40" rx="5" fill="rgba(0,200,150,0.06)" stroke="rgba(0,200,150,0.15)" strokeWidth="0.5" />
+        {/* Top bone surface */}
+        <rect x="184" y="80" width="32" height="8" rx="2" fill="url(#sk_r4_bone)" opacity="0.7" />
+        {/* Cartilage layer */}
+        <rect x="184" y="88" width="32" height="6" rx="1" fill="url(#sk_r4_cartilage)" />
+        {/* Cartilage cell dots */}
+        <circle cx="192" cy="91" r="1.2" fill="rgba(0,150,136,0.4)" />
+        <circle cx="200" cy="91" r="1.2" fill="rgba(0,150,136,0.4)" />
+        <circle cx="208" cy="91" r="1.2" fill="rgba(0,150,136,0.4)" />
+        {/* Bottom bone surface */}
+        <rect x="184" y="94" width="32" height="8" rx="2" fill="url(#sk_r4_bone2)" opacity="0.7" />
+        {/* Synovial fluid hint */}
+        <ellipse cx="200" cy="91" rx="16" ry="3" fill="rgba(100,255,218,0.08)" />
+
+        {/* Colored dot indicator */}
+        <circle cx="200" cy="135" r="4" fill="rgba(0,200,150,0.15)" stroke="#00C896" strokeWidth="0.7" />
+        <circle cx="200" cy="135" r="1.5" fill="#00C896" opacity="0.5" />
+      </g>
     </svg>
   );
 }
@@ -682,10 +883,51 @@ const DEF: ExplorerDef = {
       infoText: "r1Text",
       svg: () => (
         <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-          <rect width="240" height="160" fill="#0a0a14" />
-          <text x="120" y="80" textAnchor="middle" fontSize="14" fill="rgba(255,255,255,0.6)" fontWeight="bold">
-            🧠 Time to Review!
-          </text>
+          <defs>
+            <radialGradient id="sk_r5_bg" cx="50%" cy="50%" r="70%">
+              <stop offset="0%" stopColor="#0f1525" />
+              <stop offset="100%" stopColor="#0a0a14" />
+            </radialGradient>
+            <linearGradient id="sk_r5_bone" x1="30%" y1="0%" x2="70%" y2="100%">
+              <stop offset="0%" stopColor="#f5e6d0" />
+              <stop offset="50%" stopColor="#e0c8a8" />
+              <stop offset="100%" stopColor="#c4a478" />
+            </linearGradient>
+            <radialGradient id="sk_r5_skull" cx="45%" cy="35%" r="55%">
+              <stop offset="0%" stopColor="#f5e6d0" />
+              <stop offset="100%" stopColor="#c4a478" />
+            </radialGradient>
+            <filter id="sk_r5_pulse">
+              <feGaussianBlur stdDeviation="3" />
+            </filter>
+          </defs>
+          <rect width="240" height="160" fill="url(#sk_r5_bg)" />
+          {/* Faded skeleton silhouette */}
+          <g opacity="0.3">
+            <ellipse cx="120" cy="30" rx="9" ry="11" fill="url(#sk_r5_skull)" />
+            {[0,1,2,3,4,5,6,7].map(i => <rect key={i} x="118" y={44+i*4} width="4" height="3" rx="1" fill="url(#sk_r5_bone)" />)}
+            {[0,1,2,3].map(i => (
+              <g key={`r${i}`}>
+                <path d={`M 120,${48+i*5} Q ${120-10-i*1.5},${50+i*5} ${120-12-i*1.5},${51+i*5}`} stroke="url(#sk_r5_bone)" strokeWidth="1.2" fill="none" />
+                <path d={`M 120,${48+i*5} Q ${120+10+i*1.5},${50+i*5} ${120+12+i*1.5},${51+i*5}`} stroke="url(#sk_r5_bone)" strokeWidth="1.2" fill="none" />
+              </g>
+            ))}
+            <path d="M 108,78 Q 112,74 120,72 Q 128,74 132,78 Q 128,82 120,84 Q 112,82 108,78 Z" fill="url(#sk_r5_bone)" />
+            <line x1="100" y1="44" x2="92" y2="62" stroke="url(#sk_r5_bone)" strokeWidth="2" />
+            <line x1="140" y1="44" x2="148" y2="62" stroke="url(#sk_r5_bone)" strokeWidth="2" />
+            <line x1="114" y1="82" x2="110" y2="110" stroke="url(#sk_r5_bone)" strokeWidth="2.5" />
+            <line x1="126" y1="82" x2="130" y2="110" stroke="url(#sk_r5_bone)" strokeWidth="2.5" />
+          </g>
+          {/* Pulsing question marks */}
+          {[{x:55,y:50,c:"#FF6B6B"},{x:185,y:50,c:"#4ECDC4"},{x:55,y:110,c:"#45B7D1"},{x:185,y:110,c:"#F9CA24"}].map((p,i) => (
+            <g key={i}>
+              <circle cx={p.x} cy={p.y} r="12" fill={p.c} opacity="0.08" filter="url(#sk_r5_pulse)" />
+              <circle cx={p.x} cy={p.y} r="10" fill={p.c} opacity="0.08" />
+              <circle cx={p.x} cy={p.y} r="10" fill="none" stroke={p.c} strokeWidth="0.8" opacity="0.4" />
+              <path d={`M ${p.x-3},${p.y-3} Q ${p.x-3},${p.y-6} ${p.x},${p.y-6} Q ${p.x+3},${p.y-6} ${p.x+3},${p.y-3} Q ${p.x+3},${p.y-1} ${p.x},${p.y} L ${p.x},${p.y+2}`} stroke="rgba(255,255,255,0.5)" strokeWidth="1.2" fill="none" strokeLinecap="round" />
+              <circle cx={p.x} cy={p.y+5} r="0.8" fill="rgba(255,255,255,0.5)" />
+            </g>
+          ))}
         </svg>
       ),
       questions: [

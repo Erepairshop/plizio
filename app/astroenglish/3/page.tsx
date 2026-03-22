@@ -39,6 +39,14 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
+import TenseExplorerK3 from "@/app/astroenglish/games/k3/TenseExplorerK3";
+import AdverbExplorerK3 from "@/app/astroenglish/games/k3/AdverbExplorerK3";
+import QuotationExplorerK3 from "@/app/astroenglish/games/k3/QuotationExplorerK3";
+import PrefixK3Explorer from "@/app/astroenglish/games/k3/PrefixK3Explorer";
+import WordFamilyExplorer from "@/app/astroenglish/games/k3/WordFamilyExplorer";
+import VocabExplorerK3 from "@/app/astroenglish/games/k3/VocabExplorerK3";
+import BigTestK3Explorer from "@/app/astroenglish/games/k3/BigTestK3Explorer";
+import PluralExplorer from "@/app/astroenglish/games/k3/PluralExplorer";
 import { K3_ISLAND_SVGS } from "@/app/astroenglish/islands-k3";
 import {
   K3_ISLANDS, K3_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -119,6 +127,15 @@ type Screen =
   | "word-build"
   | "reading-comp"
   | "tense-explorer"
+  | "en3-plural-explorer"
+  | "en3-tense-explorer"
+  | "en3-adverb-explorer"
+  | "en3-subject-explorer"
+  | "en3-quotation-explorer"
+  | "en3-prefix-k3-explorer"
+  | "en3-word-family-explorer"
+  | "en3-vocab-explorer"
+  | "en3-big-test-explorer"
   | "memory-pair"
   | "pronunciation"
   | "island-transition"
@@ -791,7 +808,7 @@ export default function AstroEnglishK3Page() {
     setAvatarMood("focused");
 
     // Explorer games use generated content, quiz games use questions
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en3-plural-explorer", "en3-tense-explorer", "en3-adverb-explorer", "en3-subject-explorer", "en3-quotation-explorer", "en3-prefix-k3-explorer", "en3-word-family-explorer", "en3-vocab-explorer", "en3-big-test-explorer"].includes(mission.gameType);
 
     if (isExplorer) {
       // Explorers don't need questions, content is generated per game
@@ -1157,11 +1174,35 @@ export default function AstroEnglishK3Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK3(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "en3-plural-explorer" && (
+          <PluralExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-tense-explorer" && (
+          <TenseExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-adverb-explorer" && (
+          <AdverbExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-quotation-explorer" && (
+          <QuotationExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-prefix-k3-explorer" && (
+          <PrefixK3Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-word-family-explorer" && (
+          <WordFamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-vocab-explorer" && (
+          <VocabExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-big-test-explorer" && (
+          <BigTestK3Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "en3-plural-explorer", "en3-tense-explorer", "en3-adverb-explorer", "en3-subject-explorer", "en3-quotation-explorer", "en3-prefix-k3-explorer", "en3-word-family-explorer", "en3-vocab-explorer", "en3-big-test-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

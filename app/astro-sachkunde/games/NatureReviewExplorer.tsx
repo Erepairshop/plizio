@@ -5,7 +5,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
@@ -433,9 +433,10 @@ interface SubQuizProps {
   onScore: (correct: number, total: number) => void;
   titleKey: string;
   hintKey: string;
+  speak: (text: string) => void;
 }
 
-function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey }: SubQuizProps) {
+function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey, speak }: SubQuizProps) {
   const [idx, setIdx]           = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked]     = useState(false);
@@ -467,7 +468,13 @@ function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey }: SubQuizP
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       {/* title + hint */}
-      <p className="text-xl font-black text-white text-center">{lbl[titleKey]}</p>
+      <div className="flex items-center gap-2 justify-center">
+        <p className="text-xl font-black text-white text-center">{lbl[titleKey]}</p>
+        <button onClick={() => speak(lbl[titleKey] + ". " + lbl[hintKey])}
+          className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+          <Volume2 size={16} />
+        </button>
+      </div>
       <p className="text-white/60 text-xs font-bold text-center">{lbl[hintKey]}</p>
 
       {/* sub-progress dots */}
@@ -535,11 +542,21 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── main component ───────────────────────────────────────────────────────────
-function NatureReviewExplorer({ color, lang = "de", onDone }: Props) {
+function NatureReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   // randomize all question sets once per mount
   const rounds = useMemo(() => [
@@ -574,6 +591,13 @@ function NatureReviewExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* round progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-2">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
@@ -597,6 +621,7 @@ function NatureReviewExplorer({ color, lang = "de", onDone }: Props) {
             onScore={handleRoundDone}
             titleKey={ROUND_META[round].titleKey}
             hintKey={ROUND_META[round].hintKey}
+            speak={speak}
           />
         </motion.div>
       </AnimatePresence>

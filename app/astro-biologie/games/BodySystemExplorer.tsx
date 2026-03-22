@@ -241,237 +241,481 @@ const LABELS: ExplorerDef["labels"] = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SvgRound1(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_heart" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF4444" />
-          <stop offset="100%" stopColor="#CC0000" />
+        <radialGradient id="bs_r1_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a0a14" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <radialGradient id="bs_r1_heart" cx="45%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="40%" stopColor="#D32F2F" />
+          <stop offset="80%" stopColor="#B71C1C" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <linearGradient id="bs_r1_artery" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="50%" stopColor="#EF5350" />
+          <stop offset="100%" stopColor="#E53935" />
         </linearGradient>
-        <linearGradient id="r1_artery" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6666" />
-          <stop offset="100%" stopColor="#FF2222" />
+        <linearGradient id="bs_r1_vein" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#5C6BC0" />
+          <stop offset="50%" stopColor="#3F51B5" />
+          <stop offset="100%" stopColor="#283593" />
         </linearGradient>
-        <linearGradient id="r1_vein" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4466FF" />
-          <stop offset="100%" stopColor="#0000CC" />
-        </linearGradient>
+        <radialGradient id="bs_r1_aorta" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="100%" stopColor="#D32F2F" />
+        </radialGradient>
+        <filter id="bs_r1_glow">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="bs_r1_pulse">
+          <feGaussianBlur stdDeviation="4" />
+        </filter>
       </defs>
 
-      {/* Heart with 4 chambers */}
-      <g id="heart">
-        <path d="M120 40 L140 55 L140 75 L120 85 L100 75 L100 55 Z" fill="url(#r1_heart)" stroke="#FF0000" strokeWidth="1.5" />
-        {/* Chambers separators */}
-        <line x1="100" y1="65" x2="140" y2="65" stroke="#AA0000" strokeWidth="1" opacity="0.6" />
-        <line x1="120" y1="55" x2="120" y2="85" stroke="#AA0000" strokeWidth="1" opacity="0.6" />
-        {/* Labels on chambers */}
-        <text x="105" y="62" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">LA</text>
-        <text x="135" y="62" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">RA</text>
-        <text x="105" y="78" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">LV</text>
-        <text x="135" y="78" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">RV</text>
+      <rect width="240" height="160" fill="url(#bs_r1_bg)" />
+
+      {/* Heart glow */}
+      <ellipse cx="120" cy="68" rx="30" ry="28" fill="#FF5252" opacity="0.06" filter="url(#bs_r1_pulse)" />
+
+      {/* ── HEART — anatomical shape with 4 chambers ── */}
+      <g filter="url(#bs_r1_glow)">
+        {/* Heart outer shape */}
+        <path d="M 120,40 Q 108,30 100,38 Q 92,48 98,60 L 120,88 L 142,60 Q 148,48 140,38 Q 132,30 120,40 Z" fill="url(#bs_r1_heart)" />
+        {/* Heart highlight */}
+        <path d="M 106,40 Q 100,46 102,54" stroke="rgba(255,255,255,0.12)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+
+        {/* Chamber dividers */}
+        <line x1="98" y1="58" x2="142" y2="58" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
+        <line x1="120" y1="42" x2="120" y2="82" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
+
+        {/* Chamber coloring — left side (oxygenated=brighter red) */}
+        <path d="M 120,42 Q 108,34 102,40 Q 96,48 98,58 L 120,58 Z" fill="rgba(255,130,130,0.15)" />
+        <path d="M 98,58 L 120,58 L 120,82 L 107,68 Q 98,60 98,58 Z" fill="rgba(255,130,130,0.1)" />
+        {/* Right side (deoxygenated=bluer) */}
+        <path d="M 120,42 Q 132,34 138,40 Q 144,48 142,58 L 120,58 Z" fill="rgba(100,120,200,0.12)" />
+        <path d="M 142,58 L 120,58 L 120,82 L 133,68 Q 142,60 142,58 Z" fill="rgba(100,120,200,0.08)" />
       </g>
 
-      {/* Arteries (red) leaving heart */}
-      <path d="M100 50 Q70 45 50 40" stroke="url(#r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M140 50 Q170 45 190 40" stroke="url(#r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Arrowheads */}
-      <polygon points="50,40 45,37 48,43" fill="#FF2222" />
-      <polygon points="190,40 185,37 188,43" fill="#FF2222" />
+      {/* ── AORTA (main artery) arching up from heart ── */}
+      <path d="M 118,42 Q 118,28 130,22 Q 145,18 155,25" stroke="url(#bs_r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      {/* Branching arteries */}
+      <path d="M 155,25 Q 168,20 185,18" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 140,20 Q 148,12 160,10" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Left-side arteries */}
+      <path d="M 100,42 Q 88,30 70,22" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 78,26 Q 65,18 50,15" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Descending aorta */}
+      <path d="M 120,85 Q 120,100 118,115 Q 116,128 110,140" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 118,115 Q 125,128 132,140" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
 
-      {/* Veins (blue) returning to heart */}
-      <path d="M100 80 Q70 85 50 100" stroke="url(#r1_vein)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M140 80 Q170 85 190 100" stroke="url(#r1_vein)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Arrowheads */}
-      <polygon points="50,100 48,95 52,97" fill="#0000CC" />
-      <polygon points="190,100 188,95 192,97" fill="#0000CC" />
+      {/* ── VEINS returning to heart ── */}
+      <path d="M 50,145 Q 70,130 90,120 Q 100,115 102,100 Q 100,90 100,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 190,145 Q 170,130 150,120 Q 140,115 138,100 Q 140,90 140,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      {/* Superior vena cava */}
+      <path d="M 185,10 Q 170,15 155,25 Q 145,32 140,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <path d="M 50,10 Q 70,18 85,30 Q 95,38 100,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
 
-      {/* Labels with pills */}
-      <g id="label_heart">
-        <rect x="105" y="110" width="30" height="20" rx="10" fill="#FF4444" opacity="0.2" stroke="#FF4444" strokeWidth="1" />
-        <text x="120" y="123" fontSize="6" fontWeight="bold" fill="white" textAnchor="middle">Heart</text>
-      </g>
-      <g id="label_artery">
-        <rect x="170" y="25" width="32" height="20" rx="10" fill="#FF2222" opacity="0.2" stroke="#FF2222" strokeWidth="1" />
-        <text x="186" y="38" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Artery</text>
-      </g>
-      <g id="label_vein">
-        <rect x="165" y="100" width="28" height="20" rx="10" fill="#0000CC" opacity="0.2" stroke="#0000CC" strokeWidth="1" />
-        <text x="179" y="113" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Vein</text>
-      </g>
+      {/* Tiny capillary network at extremities */}
+      {[{x:40,y:148},{x:195,y:148},{x:45,y:8},{x:195,y:8}].map((p,i) => (
+        <g key={i} opacity="0.3">
+          <circle cx={p.x} cy={p.y} r="5" fill="none" stroke={i<2?"#E53935":"#3F51B5"} strokeWidth="0.4" />
+          <path d={`M ${p.x-4},${p.y} Q ${p.x},${p.y-3} ${p.x+4},${p.y}`} stroke="rgba(200,150,200,0.4)" strokeWidth="0.4" fill="none" />
+        </g>
+      ))}
+
+      {/* Directional flow arrows on arteries */}
+      <polygon points="70,22 66,20 68,24" fill="#E53935" opacity="0.6" />
+      <polygon points="185,18 181,16 183,20" fill="#E53935" opacity="0.6" />
+      <polygon points="110,140 108,136 112,137" fill="#E53935" opacity="0.6" />
+      {/* Flow arrows on veins */}
+      <polygon points="90,120 88,116 92,117" fill="#3F51B5" opacity="0.6" />
+      <polygon points="150,120 148,116 152,117" fill="#3F51B5" opacity="0.6" />
+
+      {/* Color-coded indicator dots */}
+      <circle cx="22" cy="22" r="4" fill="rgba(229,57,53,0.2)" stroke="#E53935" strokeWidth="0.7" />
+      <circle cx="22" cy="22" r="1.5" fill="#E53935" opacity="0.5" />
+      <circle cx="22" cy="140" r="4" fill="rgba(63,81,181,0.2)" stroke="#3F51B5" strokeWidth="0.7" />
+      <circle cx="22" cy="140" r="1.5" fill="#3F51B5" opacity="0.5" />
     </svg>
   );
 }
 
 function SvgRound2(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_air" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" />
-          <stop offset="100%" stopColor="#4AABD9" />
+        <radialGradient id="bs_r2_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0a1420" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="bs_r2_trachea" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#80DEEA" />
+          <stop offset="50%" stopColor="#4DD0E1" />
+          <stop offset="100%" stopColor="#00ACC1" />
         </linearGradient>
-        <linearGradient id="r2_lung" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B9D" />
-          <stop offset="100%" stopColor="#FF4081" />
+        <radialGradient id="bs_r2_lung_l" cx="45%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="40%" stopColor="#EF5350" />
+          <stop offset="80%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </radialGradient>
+        <radialGradient id="bs_r2_lung_r" cx="55%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="40%" stopColor="#EF5350" />
+          <stop offset="80%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </radialGradient>
+        <radialGradient id="bs_r2_alveoli" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FFCDD2" />
+          <stop offset="100%" stopColor="#EF9A9A" />
+        </radialGradient>
+        <linearGradient id="bs_r2_nose" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFCCBC" />
+          <stop offset="100%" stopColor="#FFAB91" />
         </linearGradient>
+        <filter id="bs_r2_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Nose & mouth */}
-      <ellipse cx="50" cy="30" rx="12" ry="14" fill="url(#r2_air)" stroke="#4AABD9" strokeWidth="1.5" />
-      <text x="50" y="35" fontSize="16" textAnchor="middle">👃</text>
+      <rect width="240" height="160" fill="url(#bs_r2_bg)" />
 
-      {/* Trachea */}
-      <path d="M50 50 Q60 70 100 90" stroke="#4AABD9" strokeWidth="5" fill="none" strokeLinecap="round" />
-      <text x="65" y="65" fontSize="8" fontWeight="bold" fill="white">Trachea</text>
+      {/* Body silhouette outline */}
+      <path d="M 90,8 Q 80,5 75,10 Q 70,18 78,28 L 78,35 Q 65,42 55,60 Q 48,75 50,95 Q 52,120 60,140 L 60,155 M 150,8 Q 160,5 165,10 Q 170,18 162,28 L 162,35 Q 175,42 185,60 Q 192,75 190,95 Q 188,120 180,140 L 180,155" stroke="rgba(255,255,255,0.06)" strokeWidth="0.8" fill="none" />
 
-      {/* Lungs (two oval chambers) */}
-      <ellipse cx="80" cy="115" rx="25" ry="30" fill="url(#r2_lung)" stroke="#FF4081" strokeWidth="2" />
-      <ellipse cx="140" cy="115" rx="25" ry="30" fill="url(#r2_lung)" stroke="#FF4081" strokeWidth="2" />
+      {/* Nose/nasal passage */}
+      <path d="M 116,10 Q 112,8 110,12 Q 108,18 112,22 L 120,22 Q 128,18 130,12 Q 128,8 124,10 Z" fill="url(#bs_r2_nose)" opacity="0.5" />
+      {/* Nasal cavity inside */}
+      <path d="M 114,14 Q 116,18 118,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
+      <path d="M 126,14 Q 124,18 122,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
 
-      {/* Alveoli clusters inside lungs */}
-      <g id="alveoli_left">
-        <circle cx="70" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="80" cy="110" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="90" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="75" cy="125" r="3" fill="#FFB6D9" opacity="0.8" />
-      </g>
-      <g id="alveoli_right">
-        <circle cx="130" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="140" cy="110" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="150" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="135" cy="125" r="3" fill="#FFB6D9" opacity="0.8" />
-      </g>
+      {/* Pharynx */}
+      <path d="M 116,22 Q 118,28 120,32" stroke="url(#bs_r2_trachea)" strokeWidth="3.5" fill="none" strokeLinecap="round" opacity="0.6" />
 
-      {/* O₂ in / CO₂ out arrows */}
-      <path d="M40 35 Q30 50 25 75" stroke="#87CEEB" strokeWidth="2" fill="none" markerEnd="url(#arrowblue)" strokeDasharray="3,3" />
-      <text x="18" y="55" fontSize="6" fontWeight="bold" fill="#87CEEB">O₂ in</text>
+      {/* Trachea — ring segments */}
+      {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+        <g key={`tr${i}`}>
+          <path d={`M 116,${34 + i * 5} Q 120,${36 + i * 5} 124,${34 + i * 5}`} stroke="url(#bs_r2_trachea)" strokeWidth="2.5" fill="none" />
+          {/* Cartilage ring */}
+          <path d={`M 115,${34 + i * 5} Q 120,${32 + i * 5} 125,${34 + i * 5}`} stroke="rgba(77,208,225,0.3)" strokeWidth="1" fill="none" />
+        </g>
+      ))}
 
-      <path d="M200 75 Q210 50 220 35" stroke="#FF8C00" strokeWidth="2" fill="none" markerEnd="url(#arroworange)" strokeDasharray="3,3" />
-      <text x="200" y="55" fontSize="6" fontWeight="bold" fill="#FF8C00">CO₂ out</text>
+      {/* Bronchi branching */}
+      <path d="M 118,68 Q 105,75 90,82 Q 78,88 72,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      <path d="M 122,68 Q 135,75 150,82 Q 162,88 168,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Secondary bronchi */}
+      <path d="M 85,86 Q 75,92 68,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 90,84 Q 85,95 82,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 155,86 Q 165,92 172,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 150,84 Q 155,95 158,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
 
-      {/* Labels */}
-      <rect x="65" y="150" width="35" height="16" rx="8" fill="#4AABD9" opacity="0.2" stroke="#4AABD9" strokeWidth="1" />
-      <text x="82" y="160" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Lungs</text>
+      {/* Left lung */}
+      <path d="M 96,78 Q 58,82 48,105 Q 42,125 50,142 Q 58,152 80,154 Q 100,152 108,140 Q 115,125 112,105 Q 108,88 96,78 Z" fill="url(#bs_r2_lung_l)" opacity="0.7" />
+      {/* Lung lobe division */}
+      <path d="M 60,110 Q 80,108 105,115" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
 
-      <defs>
-        <marker id="arrowblue" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#87CEEB" />
-        </marker>
-        <marker id="arroworange" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FF8C00" />
-        </marker>
-      </defs>
+      {/* Right lung */}
+      <path d="M 144,78 Q 182,82 192,105 Q 198,125 190,142 Q 182,152 160,154 Q 140,152 132,140 Q 125,125 128,105 Q 132,88 144,78 Z" fill="url(#bs_r2_lung_r)" opacity="0.7" />
+      {/* Lung lobe divisions (right has 3 lobes) */}
+      <path d="M 135,105 Q 160,102 188,108" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
+      <path d="M 138,125 Q 160,122 185,128" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
+
+      {/* Alveoli clusters */}
+      {[{x:68,y:98},{x:78,y:115},{x:65,y:128},{x:85,y:135},{x:72,y:142},
+        {x:165,y:98},{x:158,y:115},{x:175,y:128},{x:155,y:135},{x:168,y:142}].map((p,i) => (
+        <g key={`a${i}`}>
+          <circle cx={p.x} cy={p.y} r="4" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+          <circle cx={p.x-2} cy={p.y-1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
+          <circle cx={p.x+2} cy={p.y+1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
+        </g>
+      ))}
+
+      {/* O2 flow arrows (blue, incoming) */}
+      <path d="M 30,15 Q 60,12 110,14" stroke="rgba(100,181,246,0.35)" strokeWidth="1.2" fill="none" />
+      <polygon points="108,14 104,12 104,16" fill="rgba(100,181,246,0.4)" />
+      <path d="M 25,22 Q 55,20 108,18" stroke="rgba(100,181,246,0.25)" strokeWidth="0.8" fill="none" />
+      {/* O2 dots */}
+      <circle cx="40" cy="14" r="1.5" fill="rgba(100,181,246,0.4)" />
+      <circle cx="55" cy="16" r="1.2" fill="rgba(100,181,246,0.3)" />
+      <circle cx="70" cy="12" r="1" fill="rgba(100,181,246,0.25)" />
+
+      {/* CO2 flow arrows (orange, outgoing) */}
+      <path d="M 130,14 Q 170,12 210,18" stroke="rgba(255,167,38,0.35)" strokeWidth="1.2" fill="none" />
+      <polygon points="210,18 206,16 207,20" fill="rgba(255,167,38,0.4)" />
+      {/* CO2 dots */}
+      <circle cx="175" cy="12" r="1.5" fill="rgba(255,167,38,0.35)" />
+      <circle cx="190" cy="14" r="1.2" fill="rgba(255,167,38,0.25)" />
+      <circle cx="200" cy="16" r="1" fill="rgba(255,167,38,0.2)" />
+
+      {/* Gas exchange zoomed hint (bottom right) */}
+      <circle cx="218" cy="130" r="12" fill="rgba(255,205,210,0.08)" stroke="rgba(255,205,210,0.15)" strokeWidth="0.5" />
+      <circle cx="215" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <circle cx="221" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <circle cx="218" cy="133" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <path d="M 212,126 L 208,122" stroke="rgba(100,181,246,0.3)" strokeWidth="0.5" />
+      <path d="M 224,126 L 228,122" stroke="rgba(255,167,38,0.3)" strokeWidth="0.5" />
     </svg>
   );
 }
 
 function SvgRound3(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_mouth" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF9999" />
-          <stop offset="100%" stopColor="#FF6666" />
+        <radialGradient id="bs_r3_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a150a" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="bs_r3_mouth" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#E64A19" />
         </linearGradient>
-        <linearGradient id="r3_stomach" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF7733" />
-          <stop offset="100%" stopColor="#FF5500" />
+        <linearGradient id="bs_r3_esoph" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="50%" stopColor="#FF7043" />
+          <stop offset="100%" stopColor="#E64A19" />
         </linearGradient>
-        <linearGradient id="r3_intestine" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFB366" />
-          <stop offset="100%" stopColor="#FF9944" />
+        <radialGradient id="bs_r3_stomach" cx="45%" cy="35%" r="60%">
+          <stop offset="0%" stopColor="#FFCC80" />
+          <stop offset="30%" stopColor="#FFA726" />
+          <stop offset="70%" stopColor="#EF6C00" />
+          <stop offset="100%" stopColor="#BF360C" />
+        </radialGradient>
+        <linearGradient id="bs_r3_sm_int" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FFE0B2" />
+          <stop offset="40%" stopColor="#FFB74D" />
+          <stop offset="100%" stopColor="#F57C00" />
         </linearGradient>
+        <linearGradient id="bs_r3_lg_int" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#D7CCC8" />
+          <stop offset="50%" stopColor="#A1887F" />
+          <stop offset="100%" stopColor="#6D4C41" />
+        </linearGradient>
+        <radialGradient id="bs_r3_liver" cx="40%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#A1887F" />
+          <stop offset="100%" stopColor="#4E342E" />
+        </radialGradient>
+        <filter id="bs_r3_glow">
+          <feGaussianBlur stdDeviation="1" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Mouth */}
-      <ellipse cx="120" cy="25" rx="15" ry="12" fill="url(#r3_mouth)" stroke="#FF6666" strokeWidth="1.5" />
-      <text x="120" y="30" fontSize="14" textAnchor="middle">👄</text>
-      <text x="120" y="50" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Mouth</text>
+      <rect width="240" height="160" fill="url(#bs_r3_bg)" />
 
-      {/* Esophagus (tube downward) */}
-      <path d="M120 40 L120 65" stroke="#FF8888" strokeWidth="5" fill="none" strokeLinecap="round" />
+      {/* Body torso silhouette */}
+      <path d="M 88,5 Q 80,8 78,18 L 72,65 Q 68,100 72,135 L 75,155 M 152,5 Q 160,8 162,18 L 168,65 Q 172,100 168,135 L 165,155" stroke="rgba(255,255,255,0.05)" strokeWidth="0.8" fill="none" />
 
-      {/* Stomach (pouch) */}
-      <path d="M100 75 Q90 90 95 105 Q100 115 120 118 Q140 115 145 105 Q150 90 140 75 Z" fill="url(#r3_stomach)" stroke="#FF5500" strokeWidth="1.5" />
-      <text x="120" y="98" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Stomach</text>
+      {/* ── MOUTH — open cavity ── */}
+      <path d="M 112,8 Q 108,5 106,10 Q 108,18 114,20 L 126,20 Q 132,18 134,10 Q 132,5 128,8 Z" fill="url(#bs_r3_mouth)" opacity="0.6" />
+      {/* Teeth hint */}
+      <path d="M 110,16 L 114,14 L 118,16 L 122,14 L 126,16 L 130,14" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" fill="none" />
 
-      {/* Small intestines (wavy tube downward) */}
-      <path d="M110 118 Q110 135 120 138 Q130 135 130 118" stroke="url(#r3_intestine)" strokeWidth="6" fill="none" strokeLinecap="round" />
-      <text x="120" y="155" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Small Intestines</text>
+      {/* ── ESOPHAGUS — muscular tube ── */}
+      <path d="M 118,20 Q 116,28 115,36 Q 114,44 116,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      <path d="M 122,20 Q 124,28 125,36 Q 126,44 124,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" opacity="0.5" />
+      {/* Peristalsis wave hints */}
+      <path d="M 114,30 Q 120,28 126,30" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
+      <path d="M 113,38 Q 120,36 127,38" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
 
-      {/* Nutrient absorption arrows */}
-      <path d="M135 95 L160 85" stroke="#00FF88" strokeWidth="2" fill="none" markerEnd="url(#arrowgreen)" strokeDasharray="2,2" />
-      <text x="155" y="75" fontSize="9" fontWeight="bold" fill="#00FF88">Nutrients</text>
+      {/* ── STOMACH — J-shaped sac ── */}
+      <path d="M 100,52 Q 92,48 88,55 Q 84,65 86,78 Q 90,92 102,98 Q 115,102 128,96 Q 140,88 142,75 Q 143,62 138,55 Q 134,50 126,52 Z" fill="url(#bs_r3_stomach)" filter="url(#bs_r3_glow)" />
+      {/* Stomach folds (rugae) */}
+      <path d="M 94,60 Q 110,58 130,62" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      <path d="M 90,70 Q 110,68 138,72" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      <path d="M 92,80 Q 112,78 135,82" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      {/* Stomach acid dots */}
+      <circle cx="105" cy="72" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="118" cy="68" r="0.8" fill="rgba(255,235,59,0.25)" />
+      <circle cx="125" cy="78" r="1" fill="rgba(255,235,59,0.2)" />
 
-      <defs>
-        <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#00FF88" />
-        </marker>
-      </defs>
+      {/* Liver (behind/above stomach) */}
+      <path d="M 138,48 Q 155,42 168,48 Q 175,55 170,65 Q 165,72 148,70 Q 138,68 135,60 Q 134,52 138,48 Z" fill="url(#bs_r3_liver)" opacity="0.5" />
+
+      {/* ── SMALL INTESTINE — coiled loops ── */}
+      <path d="M 115,98 Q 108,105 100,108 Q 90,112 85,120 Q 82,128 90,132 Q 100,135 110,130 Q 118,125 125,130 Q 135,135 145,130 Q 152,125 148,118 Q 142,112 132,115 Q 122,118 115,112 Q 108,108 112,102" stroke="url(#bs_r3_sm_int)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      {/* Villi texture on small intestine */}
+      {[{x:95,y:116},{x:105,y:128},{x:120,y:128},{x:138,y:128},{x:145,y:120}].map((p,i) => (
+        <g key={`v${i}`} opacity="0.3">
+          <line x1={p.x} y1={p.y-2} x2={p.x} y2={p.y+2} stroke="#FFE0B2" strokeWidth="0.4" />
+          <line x1={p.x-1.5} y1={p.y-1.5} x2={p.x-1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
+          <line x1={p.x+1.5} y1={p.y-1.5} x2={p.x+1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
+        </g>
+      ))}
+
+      {/* ── LARGE INTESTINE — framing the small intestine ── */}
+      <path d="M 155,98 Q 165,100 170,110 Q 175,125 170,140 Q 165,150 150,152 Q 120,155 90,152 Q 75,150 72,140 Q 68,128 72,115 Q 75,108 82,105" stroke="url(#bs_r3_lg_int)" strokeWidth="5" fill="none" strokeLinecap="round" opacity="0.5" />
+      {/* Haustra (pouches) on large intestine */}
+      {[{x:170,y:115},{x:172,y:130},{x:168,y:145},{x:148,y:152},{x:120,y:155},{x:90,y:152},{x:75,y:140},{x:70,y:125}].map((p,i) => (
+        <circle key={`h${i}`} cx={p.x} cy={p.y} r="1" fill="rgba(161,136,127,0.3)" />
+      ))}
+
+      {/* Nutrient absorption arrows (green, from small intestine outward) */}
+      <path d="M 148,125 Q 160,118 172,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="172,112 169,114 170,110" fill="rgba(0,200,83,0.3)" />
+      <path d="M 90,125 Q 78,118 68,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="68,112 71,114 70,110" fill="rgba(0,200,83,0.3)" />
+
+      {/* Food particle dots moving through system */}
+      <circle cx="120" cy="32" r="1.5" fill="rgba(255,235,59,0.4)" />
+      <circle cx="118" cy="46" r="1.2" fill="rgba(255,235,59,0.3)" />
+      <circle cx="110" cy="75" r="1.5" fill="rgba(255,235,59,0.25)" />
+      <circle cx="108" cy="110" r="1" fill="rgba(255,235,59,0.2)" />
     </svg>
   );
 }
 
 function SvgRound4(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_kidney" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B9D" />
-          <stop offset="100%" stopColor="#FF1493" />
+        <radialGradient id="bs_r4_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#14100a" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <radialGradient id="bs_r4_kidney_l" cx="40%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#EF9A9A" />
+          <stop offset="30%" stopColor="#E57373" />
+          <stop offset="70%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <radialGradient id="bs_r4_kidney_r" cx="60%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#EF9A9A" />
+          <stop offset="30%" stopColor="#E57373" />
+          <stop offset="70%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <radialGradient id="bs_r4_bladder" cx="50%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FFF9C4" />
+          <stop offset="30%" stopColor="#FFF176" />
+          <stop offset="70%" stopColor="#FBC02D" />
+          <stop offset="100%" stopColor="#F57F17" />
+        </radialGradient>
+        <linearGradient id="bs_r4_ureter" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#BF360C" />
         </linearGradient>
-        <linearGradient id="r4_bladder" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#FFA500" />
+        <linearGradient id="bs_r4_skin" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFCCBC" />
+          <stop offset="50%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#D7CCC8" />
         </linearGradient>
+        <radialGradient id="bs_r4_sweat" cx="50%" cy="30%" r="50%">
+          <stop offset="0%" stopColor="#B3E5FC" />
+          <stop offset="100%" stopColor="#0288D1" />
+        </radialGradient>
+        <filter id="bs_r4_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Left kidney */}
-      <ellipse cx="70" cy="50" rx="18" ry="25" fill="url(#r4_kidney)" stroke="#FF1493" strokeWidth="1.5" />
-      <text x="70" y="55" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Kidney</text>
+      <rect width="240" height="160" fill="url(#bs_r4_bg)" />
+
+      {/* ── LEFT: Urinary system ── */}
+
+      {/* Spine hint (center) */}
+      {[0,1,2,3,4,5,6].map(i => (
+        <rect key={`sp${i}`} x="78" y={18+i*8} width="4" height="6" rx="1" fill="rgba(200,180,150,0.1)" />
+      ))}
+
+      {/* Left kidney — bean shape */}
+      <path d="M 42,28 Q 30,32 26,45 Q 24,58 28,68 Q 34,78 48,80 Q 58,78 62,68 Q 66,55 60,42 Q 56,32 48,28 Z" fill="url(#bs_r4_kidney_l)" filter="url(#bs_r4_glow)" />
+      {/* Kidney hilum (indentation) */}
+      <path d="M 56,48 Q 50,52 50,58 Q 50,64 56,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
+      {/* Internal structure — medulla/cortex hint */}
+      <ellipse cx="42" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
+      <path d="M 38,42 L 42,50" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      <path d="M 36,50 L 42,54" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      <path d="M 38,62 L 42,58" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
+      {/* Renal pelvis */}
+      <path d="M 50,54 Q 55,54 58,52" stroke="rgba(255,171,145,0.4)" strokeWidth="1.5" fill="none" />
 
       {/* Right kidney */}
-      <ellipse cx="170" cy="50" rx="18" ry="25" fill="url(#r4_kidney)" stroke="#FF1493" strokeWidth="1.5" />
-      <text x="170" y="55" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Kidney</text>
+      <path d="M 118,28 Q 130,32 134,45 Q 136,58 132,68 Q 126,78 112,80 Q 102,78 98,68 Q 94,55 100,42 Q 104,32 112,28 Z" fill="url(#bs_r4_kidney_r)" filter="url(#bs_r4_glow)" />
+      <path d="M 104,48 Q 110,52 110,58 Q 110,64 104,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
+      <ellipse cx="118" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
 
-      {/* Bladder (center bottom) */}
-      <ellipse cx="120" cy="115" rx="22" ry="25" fill="url(#r4_bladder)" stroke="#FFA500" strokeWidth="1.5" />
-      <text x="120" y="118" fontSize="8" fontWeight="bold" fill="#333" textAnchor="middle">Bladder</text>
+      {/* Blood supply to kidneys (renal arteries/veins) */}
+      <path d="M 80,42 Q 68,44 58,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
+      <path d="M 80,42 Q 92,44 102,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
+      <path d="M 58,60 Q 68,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
+      <path d="M 102,60 Q 92,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
 
-      {/* Ureters (tubes from kidneys to bladder) */}
-      <path d="M70 75 Q70 90 110 105" stroke="#FFB6D9" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M170 75 Q170 90 130 105" stroke="#FFB6D9" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <text x="80" y="90" fontSize="8" fontWeight="bold" fill="#FFB6D9">Ureter</text>
+      {/* Ureters — tubes from kidneys to bladder */}
+      <path d="M 52,78 Q 55,95 62,105 Q 68,112 72,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <path d="M 108,78 Q 105,95 98,105 Q 92,112 88,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
 
-      {/* Waste filter arrows */}
-      <path d="M50 50 L60 50" stroke="#FF0000" strokeWidth="2" fill="none" markerEnd="url(#arrowred)" strokeDasharray="2,2" />
-      <text x="40" y="45" fontSize="8" fontWeight="bold" fill="#FF0000">Blood in</text>
+      {/* Bladder — balloon shape */}
+      <path d="M 68,120 Q 62,122 58,130 Q 56,140 62,148 Q 70,155 80,156 Q 90,155 98,148 Q 104,140 102,130 Q 98,122 92,120 Z" fill="url(#bs_r4_bladder)" filter="url(#bs_r4_glow)" />
+      {/* Bladder wall folds */}
+      <path d="M 65,130 Q 80,128 95,132" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
+      <path d="M 62,140 Q 80,138 98,142" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
+      {/* Urethra */}
+      <path d="M 80,156 L 80,158" stroke="rgba(251,192,45,0.4)" strokeWidth="2" strokeLinecap="round" />
 
-      <path d="M80 70 L90 85" stroke="#FFD700" strokeWidth="2" fill="none" markerEnd="url(#arrowyellow)" strokeDasharray="2,2" />
-      <text x="85" y="70" fontSize="8" fontWeight="bold" fill="#FFD700">Urine</text>
+      {/* Waste flow indicators */}
+      <circle cx="55" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
+      <circle cx="58" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="65" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
+      <circle cx="105" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
+      <circle cx="102" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="95" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
 
-      {/* Skin (top right) with sweat glands */}
-      <rect x="185" y="20" width="40" height="30" rx="5" fill="#CCAA88" opacity="0.3" stroke="#CCAA88" strokeWidth="1" />
-      <text x="205" y="40" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Skin</text>
+      {/* ── RIGHT: Skin cross-section with sweat glands ── */}
+      <g>
+        {/* Skin layers */}
+        {/* Epidermis */}
+        <path d="M 148,20 L 232,20 L 232,35 L 148,35 Z" fill="url(#bs_r4_skin)" opacity="0.6" />
+        {/* Dermis */}
+        <path d="M 148,35 L 232,35 L 232,65 L 148,65 Z" fill="rgba(255,171,145,0.15)" />
+        {/* Subcutaneous */}
+        <path d="M 148,65 L 232,65 L 232,85 L 148,85 Z" fill="rgba(255,224,178,0.08)" />
 
-      {/* Sweat droplets */}
-      <circle cx="200" cy="55" r="2" fill="#00CCFF" opacity="0.7" />
-      <circle cx="210" cy="60" r="2" fill="#00CCFF" opacity="0.7" />
-      <circle cx="195" cy="65" r="2" fill="#00CCFF" opacity="0.7" />
-      <text x="215" y="62" fontSize="8" fontWeight="bold" fill="#00CCFF">Sweat</text>
+        {/* Hair follicles */}
+        <line x1="162" y1="12" x2="162" y2="45" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
+        <line x1="195" y1="14" x2="195" y2="48" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
+        <line x1="218" y1="11" x2="218" y2="42" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
 
-      <defs>
-        <marker id="arrowred" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FF0000" />
-        </marker>
-        <marker id="arrowyellow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FFD700" />
-        </marker>
-      </defs>
+        {/* Sweat glands (coiled tubes in dermis) */}
+        <path d="M 175,55 Q 172,50 175,45 Q 178,42 175,38" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
+        <circle cx="175" cy="58" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
+        <circle cx="175" cy="58" r="1.5" fill="rgba(2,136,209,0.2)" />
+
+        <path d="M 205,52 Q 202,47 205,42 Q 208,39 205,35" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
+        <circle cx="205" cy="55" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
+        <circle cx="205" cy="55" r="1.5" fill="rgba(2,136,209,0.2)" />
+
+        {/* Sweat pore openings on skin surface */}
+        <circle cx="175" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
+        <circle cx="205" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
+
+        {/* Sweat droplets rising from skin */}
+        {[{x:170,y:12},{x:178,y:8},{x:200,y:10},{x:208,y:6},{x:190,y:4}].map((p,i) => (
+          <path key={`sw${i}`} d={`M ${p.x},${p.y+3} Q ${p.x-1},${p.y} ${p.x},${p.y-1} Q ${p.x+1},${p.y} ${p.x},${p.y+3} Z`} fill="url(#bs_r4_sweat)" opacity={0.5 - i * 0.06} />
+        ))}
+
+        {/* Blood capillary in dermis */}
+        <path d="M 155,48 Q 165,45 175,48 Q 185,51 195,48 Q 205,45 215,48 Q 225,51 230,48" stroke="rgba(229,57,53,0.25)" strokeWidth="0.8" fill="none" />
+
+        {/* Layer separation lines */}
+        <line x1="148" y1="35" x2="232" y2="35" stroke="rgba(255,255,255,0.1)" strokeWidth="0.4" />
+        <line x1="148" y1="65" x2="232" y2="65" stroke="rgba(255,255,255,0.06)" strokeWidth="0.4" />
+      </g>
+
+      {/* Skin section — waste arrow */}
+      <path d="M 190,100 Q 190,92 190,88" stroke="rgba(2,136,209,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="190,88 188,91 192,91" fill="rgba(2,136,209,0.3)" />
+
+      {/* Connecting concept — kidney filters blood, skin sweats */}
+      <path d="M 135,54 Q 142,54 148,48" stroke="rgba(255,255,255,0.08)" strokeWidth="0.5" strokeDasharray="2,2" fill="none" />
     </svg>
   );
 }

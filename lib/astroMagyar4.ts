@@ -49,11 +49,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#FF6B9D", sortRange: [1, 10],
     topicKeys: ["ige/alanyi", "ige/targyas", "ige/igemódok", "ige/igeidők_összef"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-verb-conjugation-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 160, svgY: 530,
+    svgX: 160, svgY: 560,
   },
   {
     id: "i2",
@@ -61,11 +61,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "🔗", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["nevmas/szemelyes", "nevmas/mutato", "nevmas/kerdo", "nevmas/visszaható", "nevmas/határozatlan"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "picture-word" as any,    icon: "🖼️", label: { hu: "Szókincs",  en: "Vocabulary", de: "Wortschatz", ro: "Vocabular"  } },
-      { id: "m2", category: "build",     gameType: "sentence-builder" as any, icon: "🏗️", label: { hu: "Mondatépítő", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-pronouns-explorer",    icon: "🖼️", label: { hu: "Szókincs",  en: "Vocabulary", de: "Wortschatz", ro: "Vocabular"  } },
+      { id: "m2", category: "build",     gameType: "sentence-builder", icon: "📝", label: { hu: "Mondatépítő", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 80, svgY: 440,
+    svgX: 80, svgY: 470,
   },
   {
     id: "i3",
@@ -73,11 +73,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "📝", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["hatarozo/hely", "hatarozo/ido", "hatarozo/mod", "hatarozo/cel", "hatarozo/ok"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
-      { id: "m2", category: "build",     gameType: "category-rush" as any, icon: "📦", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-adverbials-explorer",  icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
+      { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 240, svgY: 360,
+    svgX: 230, svgY: 380,
   },
   {
     id: "i4",
@@ -85,11 +85,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "💬", color: "#FFD700", sortRange: [1, 10],
     topicKeys: ["mondat/mellerendelo", "mondat/alarendelo", "helyesiras/vesszőhasználat"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "reading-comp" as any, icon: "📖", label: { hu: "Olvasás",   en: "Reading",    de: "Lesen",       ro: "Lectură"    } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-complex-sentences-explorer", icon: "📖", label: { hu: "Olvasás",   en: "Reading",    de: "Lesen",       ro: "Lectură"    } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "sentence-builder", icon: "📝", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 90, svgY: 270,
+    svgX: 90, svgY: 290,
   },
   {
     id: "i5",
@@ -97,11 +97,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#B44DFF", sortRange: [1, 10],
     topicKeys: ["szoalkot/kepzes", "szoalkot/ragozas", "szoalkot/jelezés", "szoalkot/igekötő_haladó"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-word-formation-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 220, svgY: 195,
+    svgX: 220, svgY: 200,
   },
   {
     id: "i6",
@@ -109,11 +109,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "✏️", color: "#FF6348", sortRange: [1, 10],
     topicKeys: ["helyesiras/igekoveto", "helyesiras/kuloniro_haladó"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-spelling-mastery-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "category-rush", icon: "🏃", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 100, svgY: 125,
+    svgX: 100, svgY: 110,
   },
   {
     id: "i7",
@@ -121,11 +121,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "📜", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["fogalmazas/erveles", "fogalmazas/level", "fogalmazas/napló"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-composition-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "category-rush", icon: "🏃", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 200, svgY: 80,
+    svgX: 210, svgY: 20,
   },
   {
     id: "i8",
@@ -133,11 +133,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "🔍", color: "#FF8C42", sortRange: [1, 10],
     topicKeys: ["nyelvtan/szoelem", "nyelvtan/mondatelemzes", "nyelvtan/szószerkezet"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-grammar-review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 150, svgY: 20,
+    svgX: 100, svgY: -60,
   },
   {
     id: "i9",
@@ -145,11 +145,11 @@ export const O4_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#E879F9", sortRange: [1, 10],
     topicKeys: ["ige/alanyi", "ige/targyas", "ige/igemódok", "nevmas/szemelyes", "nevmas/visszaható", "hatarozo/hely", "hatarozo/cel", "mondat/mellerendelo", "helyesiras/vesszőhasználat", "nyelvtan/szószerkezet"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
-      { id: "m2", category: "build",     gameType: "category-rush", icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
-      { id: "m3", category: "challenge", gameType: "category-rush", icon: "📦", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
+      { id: "m1", category: "explore",   gameType: "o4-review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m2", category: "build",     gameType: "sentence-builder", icon: "📝", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 120, svgY: 120,
+    svgX: 200, svgY: -140,
   },
 ];
 

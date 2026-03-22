@@ -9,6 +9,7 @@ import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -25,6 +26,14 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import ArthropodExplorer from "@/app/astro-biologie/games/ArthropodExplorer";
+import MolluskExplorer from "@/app/astro-biologie/games/MolluskExplorer";
+import ForestExplorer from "@/app/astro-biologie/games/ForestExplorer";
+import WaterExplorer from "@/app/astro-biologie/games/WaterExplorer";
+import HeartExplorer from "@/app/astro-biologie/games/HeartExplorer";
+import CirculationExplorer from "@/app/astro-biologie/games/CirculationExplorer";
+import RespirationExplorer from "@/app/astro-biologie/games/RespirationExplorer";
+import PubertyExplorer from "@/app/astro-biologie/games/PubertyExplorer";
 import {
   BIO_K6_ISLANDS as K6_ISLANDS, BIO_K6_CHECKPOINT_MAP as K6_CHECKPOINT_MAP,
   type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -96,6 +105,14 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "arthropod-explorer"
+  | "mollusk-explorer"
+  | "forest-explorer"
+  | "water-explorer"
+  | "heart-explorer"
+  | "circulation-explorer"
+  | "respiration-explorer"
+  | "puberty-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -391,6 +408,31 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
+      {score >= 10 ? (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-[#E040FB]/15 border border-[#E040FB]/30"
+        >
+          <span className="text-2xl">⭐</span>
+          <span className="text-[#E040FB] font-black text-lg">+3</span>
+          <span className="text-white/60 text-sm font-medium">
+            {lang === "hu" ? "csillag jutalom!" : lang === "de" ? "Sterne Belohnung!" : lang === "ro" ? "stele recompensă!" : "star reward!"}
+          </span>
+        </motion.div>
+      ) : (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-white/5 border border-white/10"
+        >
+          <span className="text-white/40 text-sm font-medium">
+            {lang === "hu" ? `${10 - score} helyes válasz hiányzik a ⭐ jutalomhoz` : lang === "de" ? `${10 - score} richtige Antworten fehlen für ⭐` : lang === "ro" ? `${10 - score} răspunsuri corecte lipsesc pentru ⭐` : `${10 - score} more correct answers needed for ⭐`}
+          </span>
+        </motion.div>
+      )}
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
@@ -533,7 +575,7 @@ export default function AstroBiologieK6Page() {
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK6(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK6(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -546,9 +588,14 @@ export default function AstroBiologieK6Page() {
     saveK6Progress(newProgress);
     setProgress(newProgress);
 
+    // Checkpoint reward: 3 special stars only if score >= 10/15
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astro-biologie", rarity, score, total, date: new Date().toISOString() });
-    window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
     setEarnedCard(rarity);
@@ -786,12 +833,40 @@ export default function AstroBiologieK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "arthropod-explorer" && (
+          <ArthropodExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "mollusk-explorer" && (
+          <MolluskExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "forest-explorer" && (
+          <ForestExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "water-explorer" && (
+          <WaterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "heart-explorer" && (
+          <HeartExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "circulation-explorer" && (
+          <CirculationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "respiration-explorer" && (
+          <RespirationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "puberty-explorer" && (
+          <PubertyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
 
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreens = [
+    "arthropod-explorer", "mollusk-explorer", "forest-explorer", "water-explorer",
+    "heart-explorer", "circulation-explorer", "respiration-explorer", "puberty-explorer",
+  ];
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

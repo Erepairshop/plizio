@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
@@ -13,14 +13,20 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     round1Title: "Animal Sounds",
     round1Hint: "Which animal makes this sound?",
+    round1Teach: "Animals communicate with sounds! Dogs bark (woof!), cats meow, cows moo, frogs croak, and ducks quack. Each animal has its own special sound.",
     round2Title: "Pet or Wild?",
     round2Hint: "Is this animal a pet or wild?",
+    round2Teach: "Pets live with people at home — like dogs, cats, and rabbits. Wild animals live in nature — like foxes, bears, and eagles. Some animals can be both!",
     round3Title: "Animal Homes",
     round3Hint: "Where does this animal live?",
+    round3Teach: "Every animal has a special home! Fish live in water, birds live in nests, bears sleep in caves, and dogs live in houses with their families.",
     round4Title: "Animal Babies",
     round4Hint: "What is a baby of this animal called?",
+    round4Teach: "Baby animals have special names! A baby dog is a puppy, a baby cat is a kitten, a baby cow is a calf, and a baby duck is a duckling.",
     round5Title: "Quick Review",
     round5Hint: "Answer the question!",
+    round5Teach: "Let's see what you remember about animals — their sounds, homes, and babies!",
+    gotIt: "Got it! →",
     next: "Next",
     finish: "Finish",
     correct: "Correct!",
@@ -76,14 +82,20 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     round1Title: "Tierlaute",
     round1Hint: "Welches Tier macht diesen Laut?",
+    round1Teach: "Tiere kommunizieren mit Lauten! Hunde bellen (Wuff!), Katzen miauen, Kühe muhen, Frösche quaken und Enten quaken. Jedes Tier hat seinen eigenen besonderen Laut.",
     round2Title: "Haustier oder Wildtier?",
     round2Hint: "Ist dieses Tier ein Haustier oder Wildtier?",
+    round2Teach: "Haustiere leben bei Menschen zu Hause — wie Hunde, Katzen und Kaninchen. Wildtiere leben in der Natur — wie Füchse, Bären und Adler. Einige Tiere können beides sein!",
     round3Title: "Wo leben Tiere?",
     round3Hint: "Wo lebt dieses Tier?",
+    round3Teach: "Jedes Tier hat ein besonderes Zuhause! Fische leben im Wasser, Vögel leben in Nestern, Bären schlafen in Höhlen und Hunde leben in Häusern mit ihren Familien.",
     round4Title: "Tierkinder",
     round4Hint: "Wie heißt das Jungtier?",
+    round4Teach: "Tierbabys haben spezielle Namen! Ein Hundebabyheißt Welpe, ein Katzenbaby heißt Kätzchen, ein Kuhbaby heißt Kalb und ein Entenküken heißt Küken.",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Beantworte die Frage!",
+    round5Teach: "Mal sehen, was du über Tiere, Tiergeräusche und Tierbabys gelernt hast!",
+    gotIt: "Verstanden! →",
     next: "Weiter",
     finish: "Fertig",
     correct: "Richtig!",
@@ -134,14 +146,20 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     round1Title: "Állathangok",
     round1Hint: "Melyik állat adja ezt a hangot?",
+    round1Teach: "Az állatok hangokkal kommunikálnak! A kutyák ugatnak (vau!), a macskák miaunak, a tehenek belegelnek, a békák brekegnek és a kacsák hápnak. Minden állatnak saját hangja van.",
     round2Title: "Háziállat vagy vadállat?",
     round2Hint: "Ez az állat háziállat vagy vadállat?",
+    round2Teach: "A háziállatok otthon élnek az emberekkel — például kutyák, macskák és nyulak. A vadállatok a természetben élnek — például rókák, medvék és sas. Néhány állat mindkettő lehet!",
     round3Title: "Hol élnek az állatok?",
     round3Hint: "Hol él ez az állat?",
+    round3Teach: "Minden állatnak van egy különleges otthona! A halak vízben élnek, a madarak fészekben, a medvék barlangban alszanak, és a kutyák házakban élnek családjaikkal.",
     round4Title: "Állatkölyök",
     round4Hint: "Hogy hívják ennek az állatnak a kölykét?",
+    round4Teach: "Az állatbábyoknak speciális nevei vannak! A kutya kölykét kölyöknek, a macska kölykét cicakölyköknek, a marha kölykét borjúnak, és a kacsa kölykét csibének hívjuk.",
     round5Title: "Gyors összefoglalás",
     round5Hint: "Válaszolj a kérdésre!",
+    round5Teach: "Nézzük meg, mit tanultál az állatokról — a hangokról, otthonokról és kölykökről!",
+    gotIt: "Értem! →",
     next: "Tovább",
     finish: "Kész",
     correct: "Helyes!",
@@ -192,14 +210,20 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     round1Title: "Sunetele animalelor",
     round1Hint: "Ce animal face acest sunet?",
+    round1Teach: "Animalele comunică prin sunete! Câinii latră (ham!), pisicile mieună, vacile muguiesc, broaștele cârâiesc și rațele cârâiesc. Fiecare animal are sunetul lui special.",
     round2Title: "Animal de companie sau sălbatic?",
     round2Hint: "Acest animal este de companie sau sălbatic?",
+    round2Teach: "Animalele de companie trăiesc cu oamenii acasă — ca câini, pisici și iepuri. Animalele sălbatice trăiesc în natură — ca vulpi, urși și vulturi. Unele animale pot fi amândouă!",
     round3Title: "Unde trăiesc animalele?",
     round3Hint: "Unde trăiește acest animal?",
+    round3Teach: "Fiecare animal are o casă specială! Peștii trăiesc în apă, păsările trăiesc în cuiburi, urșii dorm în peșteri, și câinii trăiesc în case cu familiile lor.",
     round4Title: "Puii de animale",
     round4Hint: "Cum se numește puiul acestui animal?",
+    round4Teach: "Puii de animale au nume speciale! Puiul de câine se numește cățeluș, puiul de pisică se numește pisicuță, puiul de vacă se numește vițel, și puiul de rață se numește pui de rață.",
     round5Title: "Recapitulare rapidă",
     round5Hint: "Răspunde la întrebare!",
+    round5Teach: "Să vedem ce ai învățat despre animale — sunetele lor, case și pui!",
+    gotIt: "Am înțeles! →",
     next: "Înainte",
     finish: "Gata",
     correct: "Corect!",
@@ -279,13 +303,24 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
-function AnimalExplorer({ color, lang = "de", onDone }: Props) {
+function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   /* ─── Round 0: Animal Sounds — show sound, pick the animal ─── */
   type SoundQ = { soundKey: string; answer: string; options: string[] };
@@ -360,6 +395,7 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
       onDone(scoreRef.current, totalRef.current);
     } else {
       setRound(r => r + 1);
+      setShowTeach(true);
     }
   }, [round, onDone]);
 
@@ -472,6 +508,13 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* Progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-3">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
@@ -493,12 +536,39 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
         >
           {/* ═══ ROUND 0 — Animal Sounds ═══ */}
           {round === 0 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round1Title}</p>
+                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = soundQuestions[soundIdx];
             if (!q) return null;
             const opts = shuffle(q.options);
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                  <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{soundIdx + 1}/{soundQuestions.length}</span>
 
@@ -529,12 +599,39 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 1 — Pet or Wild? ═══ */}
           {round === 1 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round2Title}</p>
+                    <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = petQuestions[petIdx];
             if (!q) return null;
             const correctKey = q.isPet ? "pet" : "wild";
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                  <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{petIdx + 1}/{petQuestions.length}</span>
 
@@ -596,12 +693,39 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 2 — Animal Homes ═══ */}
           {round === 2 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round3Title}</p>
+                    <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = homeQuestions[homeIdx];
             if (!q) return null;
             const opts = shuffle(q.options);
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                  <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{homeIdx + 1}/{homeQuestions.length}</span>
 
@@ -630,12 +754,39 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 3 — Animal Babies ═══ */}
           {round === 3 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round4Title}</p>
+                    <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = babyQuestions[babyIdx];
             if (!q) return null;
             const opts = shuffle(q.options);
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                  <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{babyIdx + 1}/{babyQuestions.length}</span>
 
@@ -664,12 +815,39 @@ function AnimalExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 4 — Mixed review ═══ */}
           {round === 4 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round5Title}</p>
+                    <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = reviewQuestions[reviewIdx];
             if (!q) return null;
             const opts = shuffle(q.options);
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                  <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{reviewIdx + 1}/{reviewQuestions.length}</span>
 

@@ -1,13 +1,14 @@
 "use client";
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 // ─── Interface ───────────────────────────────────────────────────────────────
 interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── LABELS (ALL text, 4 languages) ─────────────────────────────────────────
@@ -16,14 +17,20 @@ const LABELS = {
     // Round titles & hints
     r1Title: "Family Members",
     r1Hint: "Who is this? Pick the right family member.",
+    r1Teach: "A family has many members! Mother, father, brothers, sisters, grandparents, aunts, uncles, and cousins. Every family is different and special.",
     r2Title: "Family Relationships",
     r2Hint: "Choose the correct answer.",
+    r2Teach: "Your mother's mother is your grandmother. Your father's brother is your uncle. Your aunt's children are your cousins. These are family relationships!",
     r3Title: "Polite or Rude?",
     r3Hint: "Is this behavior polite or rude?",
+    r3Teach: "Good manners are important! We say 'please' when asking, 'thank you' when receiving, 'sorry' when we make a mistake, and 'excuse me' when we interrupt.",
     r4Title: "Where Does It Happen?",
     r4Hint: "Where do we do this? Pick the right room.",
+    r4Teach: "A home has different rooms! The kitchen is for cooking, the bedroom for sleeping, the bathroom for washing, and the living room for relaxing together.",
     r5Title: "Quick Review",
     r5Hint: "Answer the question.",
+    r5Teach: "Let's review what you learned about family, manners, and home!",
+    gotIt: "Got it! →",
     // Family member names (keys used as answer values)
     mother: "Mother",
     father: "Father",
@@ -92,14 +99,20 @@ const LABELS = {
   de: {
     r1Title: "Familienmitglieder",
     r1Hint: "Wer ist das? Wähle das richtige Familienmitglied.",
+    r1Teach: "Eine Familie hat viele Mitglieder! Mutter, Vater, Brüder, Schwestern, Großeltern, Tanten, Onkel und Cousins/Cousinen. Jede Familie ist unterschiedlich und besonders.",
     r2Title: "Verwandtschaft",
     r2Hint: "Wähle die richtige Antwort.",
+    r2Teach: "Die Mutter deiner Mutter ist deine Großmutter. Der Bruder deines Vaters ist dein Onkel. Die Kinder deiner Tante sind deine Cousins/Cousinen. Das sind Verwandtschaftsbeziehungen!",
     r3Title: "Höflich oder unhöflich?",
     r3Hint: "Ist dieses Verhalten höflich oder unhöflich?",
+    r3Teach: "Gute Manieren sind wichtig! Wir sagen 'bitte' beim Fragen, 'danke' beim Bekommen, 'entschuldigung' bei einem Fehler und 'Entschuldigung' wenn wir unterbrechen.",
     r4Title: "Wo passiert das?",
     r4Hint: "Wo machen wir das? Wähle das richtige Zimmer.",
+    r4Teach: "Ein Zuhause hat verschiedene Zimmer! Die Küche ist zum Kochen, das Schlafzimmer zum Schlafen, das Badezimmer zum Waschen und das Wohnzimmer zum gemeinsamen Entspannen.",
     r5Title: "Schnelle Wiederholung",
     r5Hint: "Beantworte die Frage.",
+    r5Teach: "Lass uns zusammenfassen, was du über Familie, Manieren und Zuhause gelernt hast!",
+    gotIt: "Verstanden! →",
     mother: "Mutter",
     father: "Vater",
     sister: "Schwester",
@@ -160,14 +173,20 @@ const LABELS = {
   hu: {
     r1Title: "Családtagok",
     r1Hint: "Ki ez? Válaszd a helyes családtagot!",
+    r1Teach: "Egy családnak sok tagja van! Anya, apa, testvérek, nagyszülők, nagynénik, nagybácsik és unokatestvérek. Minden család különböző és különleges.",
     r2Title: "Rokoni kapcsolatok",
     r2Hint: "Válaszd a helyes választ!",
+    r2Teach: "Az anyád anyja a nagymamád. Az apád fivére a nagybácsid. A nagynénid gyermekei az unokatestvéreid. Ezek a rokoni kapcsolatok!",
     r3Title: "Udvarias vagy durva?",
     r3Hint: "Ez a viselkedés udvarias vagy durva?",
+    r3Teach: "A jó mód fontos! Azt mondjuk 'kérem' ha kérünk, 'köszönöm' ha kapunk, 'elnézést' ha hibázunk és 'elnézést' ha félbeszakítunk.",
     r4Title: "Hol történik?",
     r4Hint: "Hol tesszük ezt? Válaszd a helyes szobát!",
+    r4Teach: "Az otthonnak különböző szobái vannak! A konyha a főzéshez, a hálószoba az alváshoz, a fürdőszoba a mosáshoz és a nappali a közös pihenéshez.",
     r5Title: "Gyors ismétlés",
     r5Hint: "Válaszolj a kérdésre!",
+    r5Teach: "Nézzük meg, mit tanultál a családról, a jó modorról és az otthonról!",
+    gotIt: "Értettem! →",
     mother: "Anya",
     father: "Apa",
     sister: "Nővér",
@@ -228,14 +247,20 @@ const LABELS = {
   ro: {
     r1Title: "Membrii familiei",
     r1Hint: "Cine este acesta? Alege membrul corect al familiei.",
+    r1Teach: "O familie are mulți membri! Mamă, tată, frați, surori, bunici, mătuși, unchi și veri. Fiecare familie este diferită și deosebită.",
     r2Title: "Relații de familie",
     r2Hint: "Alege răspunsul corect.",
+    r2Teach: "Mama mamei tale este bunica ta. Fratele tatălui tău este unchiul tău. Copiii mătușei tale sunt verilor tăi. Acestea sunt relații de familie!",
     r3Title: "Politicos sau nepoliticos?",
     r3Hint: "Este acest comportament politicos sau nepoliticos?",
+    r3Teach: "Bunele maniere sunt importante! Spunem 'te rog' când cerem, 'mulțumesc' când primim, 'scuze' când greșim și 'scuze' când întrerupem.",
     r4Title: "Unde se întâmplă?",
     r4Hint: "Unde facem asta? Alege camera potrivită.",
+    r4Teach: "O casă are camere diferite! Bucătăria este pentru gătit, dormitorul pentru dormit, baia pentru spălat și livingul pentru relaxare împreună.",
     r5Title: "Recapitulare rapidă",
     r5Hint: "Răspunde la întrebare.",
+    r5Teach: "Hai să recapitulăm ce ai învățat despre familie, maniere și casă!",
+    gotIt: "Am înțeles! →",
     mother: "Mamă",
     father: "Tată",
     sister: "Soră",
@@ -330,7 +355,7 @@ const R4_COUNT = 3;
 const R5_COUNT = 4;
 const TOTAL_Q = R1_COUNT + R2_COUNT + R3_COUNT + R4_COUNT + R5_COUNT;
 
-function FamilyExplorer({ color, lang = "de", onDone }: Props) {
+function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const t: LabelMap = LABELS[(lang as Lang) in LABELS ? (lang as Lang) : "de"];
 
   // ── Score tracking ──
@@ -340,10 +365,24 @@ function FamilyExplorer({ color, lang = "de", onDone }: Props) {
   // ── Round index ──
   const [round, setRound] = useState(0);
 
+  // ── Teaching phase state ──
+  const [showTeach, setShowTeach] = useState(true);
+
   // ── Per-question state ──
   const [qIndex, setQIndex] = useState(0);
   const [chosen, setChosen] = useState<string | null>(null); // chosen key
   const [locked, setLocked] = useState(false);
+
+  // ─── TTS helper ─────────────────────────────────────────────────────────────
+  const speak = useCallback((text: string) => {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    const langMap: Record<string, string> = { en: "en-US", de: "de-DE", hu: "hu-HU", ro: "ro-RO" };
+    utterance.lang = langMap[lang as string] || "de-DE";
+    utterance.rate = 0.9;
+    window.speechSynthesis.speak(utterance);
+  }, [lang]);
 
   // ─────────────────────────────────────────────────────────────────────────
   // Build randomized question pools (once, stable via useMemo)
@@ -540,6 +579,13 @@ function FamilyExplorer({ color, lang = "de", onDone }: Props) {
   // ─── Render ─────────────────────────────────────────────────────────────────
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* Round progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-1">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
@@ -580,24 +626,58 @@ function FamilyExplorer({ color, lang = "de", onDone }: Props) {
 
       <AnimatePresence mode="wait">
         <motion.div
-          key={`${round}-${qIndex}`}
+          key={`${round}-${qIndex}-${showTeach}`}
           initial={{ opacity: 0, x: 30 }}
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -30 }}
           transition={{ duration: 0.22 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
         >
-          {/* Round title */}
-          <p className="text-lg font-black text-white text-center" style={{ color }}>
-            {roundTitles[round]}
-          </p>
+          {/* Teaching phase */}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-xl font-black text-white text-center">{roundTitles[round]}</p>
+                <button onClick={() => speak(roundTitles[round] + ". " + (t as Record<string, string>)[`r${round + 1}Teach`])}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>)[`r${round + 1}Teach`]}</p>
+              </div>
+              <motion.button
+                onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}
+              >
+                {t.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
 
-          {/* Hint — always visible */}
-          <p className="text-white/60 text-xs font-bold text-center px-2">
-            {roundHints[round]}
-          </p>
+          {/* Quiz phase */}
+          {!showTeach && (
+            <>
+              {/* Round title + TTS button */}
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-lg font-black text-white text-center" style={{ color }}>
+                  {roundTitles[round]}
+                </p>
+                <button
+                  onClick={() => speak(roundTitles[round] + ". " + roundHints[round])}
+                  className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-lg bg-white/15 text-white/70 hover:bg-white/25 hover:text-white transition-colors"
+                >
+                  <Volume2 size={14} />
+                </button>
+              </div>
 
-          {currentQ && (
+              {/* Hint — always visible */}
+              <p className="text-white/60 text-xs font-bold text-center px-2">
+                {roundHints[round]}
+              </p>
+
+              {currentQ && (
             <>
               {/* Question bubble */}
               <div
@@ -663,6 +743,8 @@ function FamilyExplorer({ color, lang = "de", onDone }: Props) {
                   <ChevronRight size={16} />
                 </motion.button>
               )}
+            </>
+          )}
             </>
           )}
         </motion.div>

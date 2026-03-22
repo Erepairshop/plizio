@@ -318,6 +318,7 @@ const ReviewExplorerK8 = memo(function ReviewExplorerK8({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const next = useCallback(() => setRound(r => r + 1), []);
   const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
