@@ -414,6 +414,30 @@ export default function AstroMagyarO1Page() {
   }, [progress, checkpointId]);
 
   const color = activeIsland?.color || "#FF2D78";
+  const bgColor = activeIsland?.color ?? "#FF2D78";
+
+  // ─── Category config ──────────────────────────────────────────────────────────
+  const CATEGORY_CONFIG: Record<string, {
+    label: Record<string, string>;
+    desc: Record<string, string>;
+    color: string; bg: string; border: string;
+  }> = {
+    explore: {
+      label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
+      desc: { en: "Discover — no wrong answers!", hu: "Fedezd fel — nincs hibás válasz!", de: "Entdecke — keine falschen Antworten!", ro: "Descoperă — fără răspunsuri greșite!" },
+      color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
+    },
+    build: {
+      label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" },
+      desc: { en: "Guided questions — take your time!", hu: "Vezérelt feladatok — nincs sietség!", de: "Geführte Aufgaben — kein Zeitdruck!", ro: "Exerciții ghidate — fără grabă!" },
+      color: "#34D399", bg: "rgba(52,211,153,0.12)", border: "rgba(52,211,153,0.35)",
+    },
+    challenge: {
+      label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" },
+      desc: { en: "Fast — show what you know!", hu: "Gyors — mutasd meg tudásod!", de: "Schnell — zeig was du kannst!", ro: "Rapid — arată ce știi!" },
+      color: "#FB923C", bg: "rgba(251,146,60,0.12)", border: "rgba(251,146,60,0.35)",
+    },
+  };
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-[#0A0A1A] to-slate-950 relative overflow-hidden">
@@ -442,7 +466,7 @@ export default function AstroMagyarO1Page() {
       {screen === "island-transition" && (
         <div className="relative z-30 min-h-screen flex flex-col items-center justify-center">
           <Starfield />
-          <RocketTransition color={activeIsland?.color || "#FF2D78"} onDone={() => setScreen("mission-select")} />
+          <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
         </div>
       )}
 
@@ -457,30 +481,119 @@ export default function AstroMagyarO1Page() {
         />
       )}
 
-      {/* Mission Select */}
-      {screen === "mission-select" && activeIsland && (
-        <motion.div className="relative z-30 min-h-screen flex flex-col items-center justify-center px-4 py-8"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <button onClick={() => setScreen("island-map")} className="absolute top-6 left-6 text-white/60 hover:text-white">
-            <ChevronLeft size={24} />
-          </button>
-          <div className="text-center mb-8">
-            <h2 className="text-3xl font-black text-white mb-2">{activeIsland.name[lang as Lang] || activeIsland.name.en}</h2>
-            <p className="text-white/60 text-sm">{activeIsland.missions.length} {lang === "hu" ? "küldetés" : "missions"}</p>
+      {/* Island Intro */}
+      {screen === "island-intro" && activeIsland && (
+        <div className="min-h-screen flex flex-col relative overflow-hidden"
+          style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
+            <button onClick={() => setScreen("island-map")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+            <div className="w-9" />
           </div>
-          <div className="grid gap-4 w-full max-w-sm">
-            {activeIsland.missions.map((m) => (
-              <motion.button key={m.id} onClick={() => handleMissionSelect(m)}
-                className="p-4 rounded-xl text-left transition-all"
-                style={{ background: `${activeIsland.color}22`, border: `2px solid ${activeIsland.color}` }}
-                whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-                <div className="text-2xl mb-2">{m.icon}</div>
-                <div className="font-bold text-white">{m.label[lang as Lang] || m.label.en}</div>
-              </motion.button>
-            ))}
+          <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 gap-6 text-center pb-6">
+            <motion.div className="text-7xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", stiffness: 300 }}>
+              {activeIsland.icon}
+            </motion.div>
+            <div>
+              <h2 className="text-2xl font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+              <p className="text-white/50 text-sm mt-2 font-medium">{activeIsland.missions.length} {lang === "hu" ? "küldetés" : lang === "de" ? "Mission" : lang === "ro" ? "misiuni" : "missions"}</p>
+            </div>
+            <motion.button onClick={() => setScreen("mission-select")}
+              className="w-full max-w-xs py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
+              style={{ background: `linear-gradient(135deg, ${bgColor}55, ${bgColor}99)`, border: `2px solid ${bgColor}` }}
+              whileTap={{ scale: 0.97 }}>
+              {lang === "hu" ? "Kezdés" : lang === "de" ? "Starten" : lang === "ro" ? "Start" : "Start"} <ChevronRight size={20} />
+            </motion.button>
           </div>
-        </motion.div>
+        </div>
       )}
+
+      {/* Mission Select */}
+      {screen === "mission-select" && activeIsland && (() => {
+        const totalStars = islandTotalStarsO1(progress, activeIsland.id);
+        return (
+          <div className="min-h-screen flex flex-col relative overflow-hidden"
+            style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
+            <Starfield />
+            <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
+              <button onClick={() => setScreen("island-map")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
+              <div className="text-center">
+                <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+                {totalStars > 0 && (
+                  <div className="flex items-center justify-center gap-0.5 mt-0.5">
+                    {Array.from({ length: 9 }).map((_, i) => (
+                      <span key={i} className="text-xs" style={{ opacity: i < totalStars ? 1 : 0.18 }}>
+                        {i < totalStars ? "⭐" : "✩"}
+                      </span>
+                    ))}
+                    <span className="text-white/40 text-[10px] ml-1">{totalStars}/9</span>
+                  </div>
+                )}
+              </div>
+              <div className="w-9" />
+            </div>
+            <p className="relative z-10 text-center text-white/50 text-xs font-medium px-6 pb-3">
+              {lang === "hu" ? "Válaszd ki, hogyan szeretnél tanulni:" : lang === "de" ? "Wähle deinen Lernweg:" : lang === "ro" ? "Alege cum vrei să înveți:" : "Choose how you want to learn:"}
+            </p>
+            <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 pb-8 justify-center">
+              {(["explore", "build", "challenge"] as MissionCategory[]).map((cat, cardIdx) => {
+                const mission = activeIsland.missions.find(m => m.category === cat);
+                if (!mission) return null;
+                const cfg = CATEGORY_CONFIG[cat];
+                const done = isMissionDone(progress, activeIsland.id, mission.id);
+                const mKey = `${activeIsland.id}_${mission.id}`;
+                const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
+                return (
+                  <motion.button
+                    key={cat}
+                    onClick={() => handleMissionSelect(mission)}
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: cardIdx * 0.08 }}
+                    className="w-full rounded-3xl p-5 text-left flex flex-col gap-2"
+                    style={{ background: cfg.bg, border: `2px solid ${done ? cfg.color : cfg.border}` }}
+                    whileTap={{ scale: 0.97 }}>
+                    <div className="flex items-center justify-between">
+                      <span className="text-xs font-black px-2.5 py-0.5 rounded-full"
+                        style={{ background: `${cfg.color}25`, color: cfg.color }}>
+                        {cfg.label[lang] ?? cfg.label.en}
+                      </span>
+                      {done && (
+                        <div className="flex gap-0.5">
+                          {[1,2,3].map(s => (
+                            <span key={s} className="text-sm" style={{ opacity: s <= bestStars ? 1 : 0.2 }}>
+                              {s <= bestStars ? "⭐" : "✩"}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                    <div className="flex items-center gap-3">
+                      <span className="text-3xl">{mission.icon}</span>
+                      <div>
+                        <p className="font-black text-white text-base leading-tight">
+                          {mission.label[lang as Lang] ?? mission.label.en}
+                        </p>
+                        <p className="text-xs mt-0.5" style={{ color: `${cfg.color}cc` }}>
+                          {cfg.desc[lang] ?? cfg.desc.en}
+                        </p>
+                      </div>
+                    </div>
+                    <div className="flex items-center justify-end">
+                      <span className="text-xs font-bold flex items-center gap-1" style={{ color: cfg.color }}>
+                        {done
+                          ? (lang === "hu" ? "Újra" : lang === "de" ? "Wiederholen" : lang === "ro" ? "Repetă" : "Play again")
+                          : (lang === "hu" ? "Indítás" : lang === "de" ? "Starten" : lang === "ro" ? "Start" : "Start")}
+                        <ChevronRight size={14} />
+                      </span>
+                    </div>
+                  </motion.button>
+                );
+              })}
+            </div>
+          </div>
+        );
+      })()}
 
       {/* ─── Game Screens ─────────────────────────────────────────────────────── */}
 

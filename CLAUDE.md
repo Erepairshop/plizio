@@ -2295,3 +2295,183 @@ Minden adat Supabase-ben van. Nincs helyi mentes.
 5. **Seed determinism** — Multi modban a kerdesgenerator KOTELESZ a `seed` parametert hasznalni. Ha nem determinisztikus, a ket jatekos kulonbozo kerdeseket kap.
 
 ---
+
+## ÚJ ASTRO JÁTÉK LÉTREHOZÁSA — copy+rename minta
+
+> Tanult tapasztalat (2026-03-22) — mindig ezt a mintát kövesd, ne írj új UI-t!
+
+### Helyes minta: copy + lib import csere
+
+**Alapszabály:** Az astro játékok (astrodeutsch, astroenglish, astromagyar, astro-biologie stb.) grade oldalai **mind ugyanolyan struktúrájúak**. Új grade oldal létrehozásakor SOHA ne írj új UI-t — mindig másold az előző grade oldalát és csak a lib importokat cseréld.
+
+### Melyik template-et használd?
+
+| Játék tartalmaz... | Template |
+|---|---|
+| Csak `orbit-quiz` + `star-match` + `black-hole` | **`astrodeutsch/5/page.tsx`** |
+| + `speed-round`, `spell-race` stb. (Deutsch explorer) | `astrodeutsch/5/page.tsx` |
+| + English explorer játékok (fill-gap, word-sort stb.) | `astroenglish/5/page.tsx` |
+| + Math vizuális játékok (fraction-visual, equation-drill stb.) | `astromath/5/page.tsx` |
+
+**Biológia, Sachkunde, természettudományos játékok** → mindig **`astrodeutsch/5/page.tsx`** az alap (legegyszerűbb, csak 3 game type).
+
+### Copy+rename lépések
+
+```bash
+# 1. Másold az adott grade fájlt
+cp app/astrodeutsch/5/page.tsx app/uj-jatek/5/page.tsx
+
+# 2. Cseréld a lib importot és a függvényneveket
+# astrodeutsch: K5_ISLANDS, loadK5Progress, isMissionDoneK5 stb.
+# → uj-jatek: BIO_K5_ISLANDS as K5_ISLANDS, loadBioK5Progress as loadK5Progress stb.
+```
+
+**Amit MINDIG cserélni kell:**
+- `from "@/lib/astroDeutsch5"` → `from "@/lib/ujJatek5"` (megfelelő aliasokkal)
+- `game: "astrodeutsch"` → `game: "uj-jatek"` (kártyamentésnél)
+- `router.push("/astrodeutsch")` → `router.push("/uj-jatek")` (hub route)
+- `AstroDeutschK5Page` → `UjJatekK5Page` (export default function neve)
+- Grade label szöveg
+- Nebula/glow SVG filter ID-k (hogy ne ütközzenek más oldal szűrőivel)
+- `bgColor` default szín
+- Progress bar gradient
+
+**Amit NEM kell cserélni:**
+- Starfield komponens
+- CATEGORY_CONFIG (explore/build/challenge kártyák)
+- Screen type union
+- IslandMapSVG struktúra (csak a függvényneveket a lib-ből)
+- MissionDoneScreen, IslandDoneScreen, CheckpointDoneScreen
+- Játék renderek (gameScreen blokk)
+
+### Island SVG-k
+
+- Ha az új játékhoz **nincs island SVG fájl** → töröld a `K5_ISLAND_SVGS` importot, és az SVG conditional-t cseréld egyszerű emoji `<text>`-re:
+```tsx
+{unlocked ? (
+  <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+    opacity={done ? 0.85 : 1}>{island.icon}</text>
+) : ( ... )}
+```
+
+### Layout fájlok
+
+Layout fájlokat is másold és csak a title/description/canonical-t cseréld:
+```bash
+cp app/astrodeutsch/5/layout.tsx app/uj-jatek/5/layout.tsx
+# Változtass: title, description, canonical URL
+```
+
+### Ellenőrzőlista új Astro grade hozzáadásakor
+
+```
+□ cp app/astrodeutsch/N/page.tsx app/uj-jatek/N/page.tsx
+□ Lib import + alias nevek cserélve
+□ game: "uj-jatek" (2× — mission done + checkpoint done)
+□ router.push("/uj-jatek")
+□ Export function neve megváltozott
+□ Grade label szöveg (en/hu/de/ro)
+□ bgColor default + progress bar gradient
+□ SVG filter ID-k egyediek (nebula1bioN stb.)
+□ cp app/astrodeutsch/N/layout.tsx app/uj-jatek/N/layout.tsx
+□ Layout: title, description, canonical
+□ npx next build — hibamentes?
+□ Hub page (page.tsx) frissítve: új grade route + progress loader
+```
+
+## ÚJ TEST JÁTÉK LÉTREHOZÁSA — két minta
+
+> Minden tantárgyhoz két játék létezik párhuzamosan:
+> - **Astro játék** (`/astro-biologie`, `/astromagyar` stb.) — tanítás/gyakorlás, sziget-alapú
+> - **Test játék** (`/biologietest`, `/magyarteszt` stb.) — rendes iskolai teszt, grade-select + topic-select
+
+### Pattern 1: LanguageTestEngine config (egyszerű — ~80 sor)
+
+Használd ha: nyelvi teszt (deutsch, english, magyar, romanian) VAGY Sachkunde-szerű tantárgy.
+
+**Template:** `app/sachkundetest/page.tsx` vagy `app/englishtest/page.tsx`
+
+```tsx
+"use client";
+import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { MY_CURRICULUM, getMyQuestions, calculateMyGrade, MY_SUBTOPIC_HINTS } from "@/lib/myCurriculum";
+import { MY_VISUAL_TYPES } from "@/lib/myVisualGenerators";
+import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+
+const MY_CONFIG: LanguageTestEngineConfig = {
+  gameId: "mytest",
+  title: "MY TEST",
+  icon: "📝",
+  color: "#3B82F6",
+  ttsLang: "en-US",
+  ttsRate: 0.92,
+  ttsPitch: 1.05,
+  dateLocale: "en-US",
+  storageKey: "mytest_country",
+  bgChars: ["A", "B", "C", "?", "!"],
+  bgColors: ["rgba(59,130,246,0.15)", ...],
+  curriculum: MY_CURRICULUM,
+  getQuestions: getMyQuestions,
+  calculateGrade: calculateMyGrade,
+  subtopicHints: MY_SUBTOPIC_HINTS,
+  visualTypes: MY_VISUAL_TYPES,
+};
+
+export default function MyTestPage() {
+  return <LanguageTestEngine config={MY_CONFIG} />;
+}
+```
+
+**Copy lépések:**
+```bash
+cp app/sachkundetest/page.tsx app/ujtest/page.tsx
+# Cseréld: gameId, title, color, ttsLang, storageKey, curriculum imports
+```
+
+### Pattern 2: Custom subject test (biologietest minta — ~500 sor)
+
+Használd ha: természettudományos tantárgy (biológia, fizika, kémia) ahol a kérdések és UI eltér a LanguageTestEngine-től.
+
+**Template:** `app/biologietest/page.tsx`
+
+```bash
+cp app/biologietest/page.tsx app/ujtest/page.tsx
+# Cseréld: curriculum importok, GRADE_DEFS, gameId, title, color
+```
+
+**Fő különbség a LanguageTestEngine-től:**
+- Nincs TTS
+- Grade-select → topic-select → quiz flow (saját logika)
+- `BiologieQuestion` típus helyett saját típus
+- Generator map-ek self-register importok
+
+### Melyiket válaszd?
+
+| Tantárgy | Pattern |
+|---|---|
+| Deutsch, English, Magyar, Română | Pattern 1 (LanguageTestEngine) |
+| Sachkunde, Természetismeret | Pattern 1 (LanguageTestEngine) |
+| Biológia, Fizika, Kémia | Pattern 2 (biologietest másolat) |
+| Matematika | Saját (`mathtest`) — ne másold |
+
+### Ellenőrzőlista új Test játék hozzáadásakor
+
+```
+□ Megfelelő template másolva (sachkundetest vagy biologietest)
+□ gameId, title, color, storageKey cserélve
+□ Curriculum lib fájl létezik (lib/ujCurriculum.ts)
+□ Visual generators fájl létezik (lib/ujVisualGenerators.ts) — ha Pattern 1
+□ app/ujtest/layout.tsx létrehozva (cp sachkunde-test/layout.tsx alapján)
+□ Főoldalon regisztrálva (app/page.tsx TRANSLATIONS + CATEGORIES_BASE)
+□ npx next build — hibamentes?
+```
+
+### Astro + Test párosítás szabály
+
+Minden tantárgyhoz **mindig kettő** jön létre:
+| Astro játék | Test játék | Lib |
+|---|---|---|
+| `/astro-biologie` | `/biologietest` | `lib/astroBiologie*.ts` + `lib/biologieCurriculum*.ts` |
+| `/astrodeutsch` | `/deutschtest` | `lib/astroDeutsch*.ts` + `lib/germanCurriculum*.ts` |
+| `/astroenglish` | `/englishtest` | `lib/astroEnglish*.ts` + `lib/englishCurriculum.ts` |
+| `/astromagyar` | `/magyarteszt` | `lib/astroMagyar*.ts` + `lib/hungarianCurriculum.ts` |

@@ -1448,7 +1448,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
               className="relative z-10 grid grid-cols-4 gap-3 w-full max-w-xs"
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
             >
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((g, i) => (
+              {(config.grades ?? [1, 2, 3, 4, 5, 6, 7, 8]).map((g, i) => (
                 <motion.button
                   key={g}
                   initial={{ opacity: 0, scale: 0.8 }}
@@ -1636,7 +1636,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
               })}
 
               {/* Lesetest */}
-              <motion.button
+              {!config.hideLesetest && <motion.button
                 onClick={() => setIncludeLesetest((v) => !v)}
                 whileHover={{ scale: 1.01 }} whileTap={{ scale: 0.98 }}
                 className="flex items-center gap-3 px-4 py-3.5 rounded-2xl text-left transition-all border"
@@ -1664,7 +1664,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                   </div>
                   <div className="text-[11px] text-white/35 mt-0.5">{labels.readingTestDesc ?? "Text lesen & Fragen beantworten · 3 Fr."}</div>
                 </div>
-              </motion.button>
+              </motion.button>}
             </div>
 
             {/* Start Button */}

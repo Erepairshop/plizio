@@ -15,11 +15,11 @@ const K6: BiologieTheme[] = [
     icon: "🐛",
     color: "#FF6B6B",
     subtopics: [
-      { id: "arthropods", name: "Gliederfüßer", questions: [] },
-      { id: "insects", name: "Insekten", questions: [] },
-      { id: "spiders", name: "Spinnen", questions: [] },
-      { id: "mollusks", name: "Weichtiere", questions: [] },
-      { id: "worm", name: "Würmer", questions: [] },
+      { id: "arthropods", name: "Gliederfüßer", questions: [], hasGenerator: true },
+      { id: "insects", name: "Insekten", questions: [], hasGenerator: true },
+      { id: "spiders", name: "Spinnen", questions: [], hasGenerator: true },
+      { id: "mollusks", name: "Weichtiere", questions: [], hasGenerator: true },
+      { id: "worm", name: "Würmer", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -28,9 +28,9 @@ const K6: BiologieTheme[] = [
     icon: "🌲",
     color: "#2ECC71",
     subtopics: [
-      { id: "forest_layers", name: "Waldschichten", questions: [] },
-      { id: "food_chain", name: "Nahrungskette", questions: [] },
-      { id: "decomposition", name: "Zersetzung", questions: [] },
+      { id: "forest_layers", name: "Waldschichten", questions: [], hasGenerator: true },
+      { id: "food_chain", name: "Nahrungskette", questions: [], hasGenerator: true },
+      { id: "decomposition", name: "Zersetzung", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -39,9 +39,9 @@ const K6: BiologieTheme[] = [
     icon: "💧",
     color: "#3498DB",
     subtopics: [
-      { id: "freshwater", name: "Süßwasser", questions: [] },
-      { id: "saltwater", name: "Salzwasser", questions: [] },
-      { id: "water_organisms", name: "Wasserorganismen", questions: [] },
+      { id: "freshwater", name: "Süßwasser", questions: [], hasGenerator: true },
+      { id: "saltwater", name: "Salzwasser", questions: [], hasGenerator: true },
+      { id: "water_organisms", name: "Wasserorganismen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -50,10 +50,10 @@ const K6: BiologieTheme[] = [
     icon: "❤️",
     color: "#E74C3C",
     subtopics: [
-      { id: "blood_components", name: "Blutbestandteile", questions: [] },
-      { id: "heart", name: "Herz", questions: [] },
-      { id: "circulation", name: "Blutkreislauf", questions: [] },
-      { id: "blood_types", name: "Blutgruppen", questions: [] },
+      { id: "blood_components", name: "Blutbestandteile", questions: [], hasGenerator: true },
+      { id: "heart", name: "Herz", questions: [], hasGenerator: true },
+      { id: "circulation", name: "Blutkreislauf", questions: [], hasGenerator: true },
+      { id: "blood_types", name: "Blutgruppen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -62,9 +62,9 @@ const K6: BiologieTheme[] = [
     icon: "💨",
     color: "#9B59B6",
     subtopics: [
-      { id: "lungs", name: "Lungen", questions: [] },
-      { id: "respiration", name: "Atmungsprozess", questions: [] },
-      { id: "gas_exchange", name: "Gasaustausch", questions: [] },
+      { id: "lungs", name: "Lungen", questions: [], hasGenerator: true },
+      { id: "respiration", name: "Atmungsprozess", questions: [], hasGenerator: true },
+      { id: "gas_exchange", name: "Gasaustausch", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -73,9 +73,9 @@ const K6: BiologieTheme[] = [
     icon: "🧬",
     color: "#F39C12",
     subtopics: [
-      { id: "male_repro", name: "Männliches System", questions: [] },
-      { id: "female_repro", name: "Weibliches System", questions: [] },
-      { id: "hormones", name: "Hormone", questions: [] },
+      { id: "male_repro", name: "Männliches System", questions: [], hasGenerator: true },
+      { id: "female_repro", name: "Weibliches System", questions: [], hasGenerator: true },
+      { id: "hormones", name: "Hormone", questions: [], hasGenerator: true },
     ],
   },
 ];
@@ -137,12 +137,20 @@ export function getK6Questions(
     }
   }
 
+  // Deduplicate by question text
+  const seenQ = new Set<string>();
+  const dedupedPool = pool.filter(q => {
+    if (seenQ.has(q.question)) return false;
+    seenQ.add(q.question);
+    return true;
+  });
+
   // Fisher-Yates shuffle
-  for (let i = pool.length - 1; i > 0; i--) {
+  for (let i = dedupedPool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
+    [dedupedPool[i], dedupedPool[j]] = [dedupedPool[j], dedupedPool[i]];
   }
-  return pool.slice(0, count);
+  return dedupedPool.slice(0, count);
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────
