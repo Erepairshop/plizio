@@ -40,7 +40,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["konjunktiv_k8/konjunktiv_i_k8", "konjunktiv_k8/konjunktiv_ii_k8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "speech-transform-explorer",  icon: "🔄", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",         en: "Speed Round",         hu: "Gyors kör",          ro: "Rundă rapidă"       } },
     ],
     svgX: 160, svgY: 530,
@@ -65,7 +65,7 @@ export const K8_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "participle-explorer",  icon: "🔗", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",      en: "Worksheet",           hu: "Feladatlap",         ro: "Fișă de lucru"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { de: "Übungsblatt",      en: "Worksheet",           hu: "Feladatlap",         ro: "Fișă de lucru"      } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -124,7 +124,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["charakterisierung_k8/charakterisierung_methoden_k8", "inhaltsangabe_k8/inhaltsangabe_grundlagen_k8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-analysis-explorer",  icon: "🧑‍🎓", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "speed-round",  icon: "⚡", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",    en: "Black Hole",          hu: "Fekete lyuk",        ro: "Gaură neagră"       } },
     ],
     svgX: 80, svgY: -20,

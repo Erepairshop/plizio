@@ -99,7 +99,7 @@ export const K6_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-relativsatz-kausalsatz-explorer",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
+      { id: "m3", category: "challenge", gameType: "word-blitz", icon: "💬", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -110,7 +110,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortbildung_k6/komposita_k6", "wortbildung_k6/derivation_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-wortbildung-explorer",  icon: "🪐", label: { de: "Wortbildung-Quiz",  en: "Word Formation Quiz", hu: "Szóalkotás kvíz",  ro: "Quiz formare"      } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",         hu: "Gyors kör",         ro: "Rundă rapidă"    } },
     ],
     svgX: 230, svgY: 55,

@@ -62,7 +62,7 @@ export const K7_ISLANDS: IslandDef[] = [
     topicKeys: ["passivformen_k7/passiv_modal"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k7-passiv-modal-explorer",  icon: "🪐", label: { de: "Passiv-Modal-Quiz", en: "Modal Passive Quiz", hu: "Modális szenvedő",  ro: "Quiz pasiv modal"  } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "speed-round",  icon: "⚡", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",        hu: "Fekete lyuk",       ro: "Gaură neagră"     } },
     ],
     svgX: 240, svgY: 360,
@@ -87,7 +87,7 @@ export const K7_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "k7-kausal-konditional-explorer",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
       { id: "m2", category: "build",     gameType: "black-hole",  icon: "🕳️", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "🚀", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -110,7 +110,7 @@ export const K7_ISLANDS: IslandDef[] = [
     topicKeys: ["nebensatztypen_k7/temporalsatz_k7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k7-temporalsatz-explorer",  icon: "🪐", label: { de: "Temporal-Quiz",     en: "Temporal Quiz",    hu: "Időhatározói kvíz", ro: "Quiz temporale"    } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 230, svgY: 55,
