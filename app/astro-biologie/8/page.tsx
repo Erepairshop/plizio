@@ -25,6 +25,15 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import DNAExplorer from "@/app/astro-biologie/games/DNAExplorer";
+import MutationExplorer from "@/app/astro-biologie/games/MutationExplorer";
+import HormoneExplorer from "@/app/astro-biologie/games/HormoneExplorer";
+import ReproductionExplorer from "@/app/astro-biologie/games/ReproductionExplorer";
+import BiotechExplorer from "@/app/astro-biologie/games/BiotechExplorer";
+import SystemsExplorer from "@/app/astro-biologie/games/SystemsExplorer";
+import PopGenExplorer from "@/app/astro-biologie/games/PopGenExplorer";
+import PhylogenyExplorer from "@/app/astro-biologie/games/PhylogenyExplorer";
+import { addSpecialCards } from "@/lib/specialCards";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -96,6 +105,14 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "dna-explorer"
+  | "mutation-explorer"
+  | "hormone-explorer"
+  | "reproduction-explorer"
+  | "biotech-explorer"
+  | "systems-explorer"
+  | "popgen-explorer"
+  | "phylogeny-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -467,8 +484,8 @@ export default function AstroBiologieK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
-    if (isExplorer) {
+    const explorerScreens = ["dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "biotech-explorer", "systems-explorer", "popgen-explorer", "phylogeny-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"];
+    if (explorerScreens.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -527,14 +544,14 @@ export default function AstroBiologieK8Page() {
     const qs = generateCheckpointQuestionsK8(testId, 7);
     setQuestions(qs);
     setScreen("rocket-launch");
-  }, [lang]);
+  }, []);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK8(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK8(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
-  }, [activeTestId, lang]);
+  }, [activeTestId]);
 
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
@@ -544,9 +561,14 @@ export default function AstroBiologieK8Page() {
     saveK8Progress(newProgress);
     setProgress(newProgress);
 
+    // Checkpoint reward: 3 special stars only if score >= 10/15
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+
     const rarity = calculateRarity(score, total, 0, false);
     saveCard({ id: generateCardId(), game: "astro-biologie", rarity, score, total, date: new Date().toISOString() });
-    window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
     setEarnedCard(rarity);
