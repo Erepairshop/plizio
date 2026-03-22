@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
@@ -363,6 +363,15 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
 
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
+
   /* ─── Round 0: Body parts quiz — tap the highlighted part ─── */
   const bodyQuiz = useMemo(() => {
     const parts: BodyPartId[] = shuffle(["head", "arm", "leg", "hand", "body", "foot"]);
@@ -554,7 +563,13 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
           {/* ═══ ROUND 0 — Body parts: tap the highlighted part ═══ */}
           {round === 0 && (
             <>
-              <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
 
               <div className="relative">
@@ -590,7 +605,13 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const opts = useMemo(() => shuffle(q.options), [senseIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                  <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{senseIdx + 1}/{senseQuestions.length}</span>
 
@@ -620,7 +641,13 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const opts = useMemo(() => shuffle(q.options), [actionIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                  <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{actionIdx + 1}/{actionQuestions.length}</span>
 
@@ -649,7 +676,13 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
             if (!q) return null;
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                  <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{hygieneIdx + 1}/{hygieneQuestions.length}</span>
 
@@ -716,7 +749,13 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const opts = useMemo(() => shuffle(q.options), [reviewIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                  <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{reviewIdx + 1}/{reviewQuestions.length}</span>
 

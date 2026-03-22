@@ -41,6 +41,7 @@ import {
   completeMissionSKG1, completeTestSKG1, islandTotalStarsSKG1,
   generateIslandQuestionsSKG1, generateCheckpointQuestionsSKG1,
 } from "@/lib/astroSachkunde1";
+import { SK_K1_ISLAND_SVGS } from "@/app/astro-sachkunde/islands";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -290,6 +291,17 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
               stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
               strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
+            {unlocked && (
+              SK_K1_ISLAND_SVGS[island.id] ? (
+                <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                  overflow="visible" opacity={done ? 0.85 : 1}>
+                  {React.createElement(SK_K1_ISLAND_SVGS[island.id], { size: 60 })}
+                </svg>
+              ) : (
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+                  opacity={done ? 0.85 : 1}>{island.icon}</text>
+              )
+            )}
             {!unlocked && (
               <circle cx={island.svgX} cy={island.svgY} r={24}
                 fill="rgba(255,255,255,0.04)"

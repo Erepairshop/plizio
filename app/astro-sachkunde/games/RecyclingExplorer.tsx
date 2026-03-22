@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, CheckCircle2, XCircle } from "lucide-react";
+import { ChevronRight, CheckCircle2, XCircle, Volume2 } from "lucide-react";
 
 // ─── LABELS ────────────────────────────────────────────────────────────────────
 const LABELS = {
@@ -384,9 +384,10 @@ interface RoundProps {
   onRoundDone: (score: number, total: number) => void;
   titleKey: string;
   hintKey: string;
+  speak: (text: string) => void;
 }
 
-function Round({ color, t, questions, onRoundDone, titleKey, hintKey }: RoundProps) {
+function Round({ color, t, questions, onRoundDone, titleKey, hintKey, speak }: RoundProps) {
   // lbl: safe string lookup that works for all language union members
   const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
 
@@ -486,7 +487,13 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey }: RoundPro
 
   return (
     <div className="flex flex-col items-center gap-3 w-full">
-      <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
+      <div className="flex items-center gap-2 justify-center">
+        <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
+        <button onClick={() => speak(lbl(titleKey) + ". " + lbl(hintKey))}
+          className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+          <Volume2 size={16} />
+        </button>
+      </div>
       <p className="text-white/60 text-xs font-semibold text-center">{lbl(hintKey)}</p>
       <SubDots total={questions.length} current={qIdx + (locked ? 1 : 0)} color={color} />
 
@@ -537,6 +544,15 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
   const totalRef = useRef(0);
   const [round, setRound] = useState(0);
   const [roundKey, setRoundKey] = useState(0); // forces remount on advance
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   // Randomised question pools — stable per mount
   const r1Questions = useMemo<MaterialQ[]>(() => {
@@ -633,6 +649,7 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
             onRoundDone={handleRoundDone}
             titleKey={current.titleKey}
             hintKey={current.hintKey}
+            speak={speak}
           />
         </motion.div>
       </AnimatePresence>

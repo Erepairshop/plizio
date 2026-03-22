@@ -7,7 +7,7 @@
 
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -56,6 +56,7 @@ interface Props {
   color?: string;
   lang?: string;
   onDone?: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -85,7 +86,7 @@ const UI_LABELS: Record<string, Record<string, string>> = {
 
 type Phase = "info" | "question";
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
@@ -220,11 +221,21 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
   // Label lookup helper
   const L = (key: string) => t[key] || key;
 
+  // TTS speak helper
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = langCode === "hu" ? "hu-HU" : langCode === "de" ? "de-DE" : langCode === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [langCode]);
+
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
       {/* Close button */}
       <button
-        onClick={() => onDone?.(scoreRef.current, totalRef.current)}
+        onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
         className="absolute top-4 left-4 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold z-10"
       >✕</button>
 
@@ -264,9 +275,17 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
               transition={{ duration: 0.3 }}
               className="flex flex-col items-center gap-4"
             >
-              <h2 className="text-2xl font-black text-center" style={{ color }}>
-                {L(currentRound.infoTitle)}
-              </h2>
+              <div className="flex items-center gap-2">
+                <h2 className="text-2xl font-black text-center" style={{ color }}>
+                  {L(currentRound.infoTitle)}
+                </h2>
+                <button
+                  onClick={() => speak(L(currentRound.infoTitle) + ". " + L(currentRound.infoText))}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors shrink-0"
+                >
+                  <Volume2 size={16} />
+                </button>
+              </div>
 
               <div className="w-full bg-white/5 rounded-2xl p-4 border border-white/10">
                 {currentRound.svg(langCode)}
@@ -315,9 +334,17 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
               className="flex flex-col gap-4"
             >
               <div className="bg-white/5 border border-white/10 rounded-2xl p-5">
-                <h3 className="text-lg font-bold text-center mb-4">
-                  {L(getCurrentQuestion()?.question || "")}
-                </h3>
+                <div className="flex items-center justify-center gap-2 mb-4">
+                  <h3 className="text-lg font-bold text-center">
+                    {L(getCurrentQuestion()?.question || "")}
+                  </h3>
+                  <button
+                    onClick={() => speak(L(getCurrentQuestion()?.question || ""))}
+                    className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white hover:bg-white/20 transition-colors shrink-0"
+                  >
+                    <Volume2 size={14} />
+                  </button>
+                </div>
 
                 <div className="space-y-3">
                   {getCurrentQuestion()?.choices.map((choice, idx) => {

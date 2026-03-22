@@ -1,7 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
@@ -153,6 +153,15 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
 
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
+
   // Round 0: Traffic light
   const r0Qs = useMemo<QItem[]>(() => shuffle([
     { q: "red", a: "stop", wrong: ["caution", "go"] },
@@ -276,7 +285,13 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const q = r0Qs[r0i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r0i]); // eslint-disable-line
             return (<>
-              <p className="text-2xl font-black text-white">{t.r1Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{t.r1Title}</p>
+                <button onClick={() => speak(t.r1Title + ". " + t.r1Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{t.r1Hint}</p>
               {renderSubProgress(r0i, r0Qs.length)}
               <div className="w-20 h-20 rounded-full flex items-center justify-center text-4xl" style={{
@@ -293,7 +308,13 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           {round === 1 && (() => {
             const q = r1Qs[r1i]; if (!q) return null;
             return (<>
-              <p className="text-2xl font-black text-white">{t.r2Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{t.r2Title}</p>
+                <button onClick={() => speak(t.r2Title + ". " + t.r2Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{t.r2Hint}</p>
               {renderSubProgress(r1i, r1Qs.length)}
               <div className="w-full max-w-xs py-5 px-6 rounded-2xl text-center" style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}>
@@ -333,7 +354,13 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const q = r2Qs[r2i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r2i]); // eslint-disable-line
             return (<>
-              <p className="text-2xl font-black text-white">{t.r3Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{t.r3Title}</p>
+                <button onClick={() => speak(t.r3Title + ". " + t.r3Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{t.r3Hint}</p>
               {renderSubProgress(r2i, r2Qs.length)}
               <div className="text-3xl mb-2">{t[q.q]}</div>
@@ -347,7 +374,13 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const q = r3Qs[r3i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r3i]); // eslint-disable-line
             return (<>
-              <p className="text-2xl font-black text-white">{t.r4Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{t.r4Title}</p>
+                <button onClick={() => speak(t.r4Title + ". " + t.r4Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{t.r4Hint}</p>
               {renderSubProgress(r3i, r3Qs.length)}
               <p className="text-white/80 font-bold text-center text-sm max-w-xs">{t[q.q]}</p>
@@ -361,7 +394,13 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
             const q = r4Qs[r4i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r4i]); // eslint-disable-line
             return (<>
-              <p className="text-2xl font-black text-white">{t.r5Title}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-2xl font-black text-white">{t.r5Title}</p>
+                <button onClick={() => speak(t.r5Title + ". " + t.r5Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                  <Volume2 size={16} />
+                </button>
+              </div>
               <p className="text-white/60 text-xs font-bold text-center">{t.r5Hint}</p>
               {renderSubProgress(r4i, r4Qs.length)}
               <p className="text-white/80 font-bold text-center text-sm max-w-xs">{t[q.q]}</p>

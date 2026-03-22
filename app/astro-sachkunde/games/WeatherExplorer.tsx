@@ -6,7 +6,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 interface Props {
   color: string;
@@ -287,6 +287,15 @@ const TOTAL_ROUNDS = 5;
 function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
 
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
+
   const [round, setRound] = useState(0);
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
@@ -564,11 +573,66 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
           initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
 
-          {round === 0 && renderMCQ(r1Questions, qIndex, lbl.round1Title, false)}
-          {round === 1 && renderMCQ(r2Questions, qIndex, lbl.round2Title, false)}
-          {round === 2 && renderMCQ(r3Questions, qIndex, lbl.round3Title, false)}
-          {round === 3 && renderBinary()}
-          {round === 4 && renderMCQ(r5Questions, qIndex, lbl.round5Title, true)}
+          {round === 0 && (
+            <>
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-2xl font-black text-white text-center">{lbl.round1Title}</p>
+                <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              {renderMCQ(r1Questions, qIndex, lbl.round1Title, false)}
+            </>
+          )}
+          {round === 1 && (
+            <>
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-2xl font-black text-white text-center">{lbl.round2Title}</p>
+                <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              {renderMCQ(r2Questions, qIndex, lbl.round2Title, false)}
+            </>
+          )}
+          {round === 2 && (
+            <>
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-2xl font-black text-white text-center">{lbl.round3Title}</p>
+                <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              {renderMCQ(r3Questions, qIndex, lbl.round3Title, false)}
+            </>
+          )}
+          {round === 3 && (
+            <>
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-2xl font-black text-white text-center">{lbl.round4Title}</p>
+                <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              {renderBinary()}
+            </>
+          )}
+          {round === 4 && (
+            <>
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-2xl font-black text-white text-center">{lbl.round5Title}</p>
+                <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              {renderMCQ(r5Questions, qIndex, lbl.round5Title, true)}
+            </>
+          )}
 
         </motion.div>
       </AnimatePresence>

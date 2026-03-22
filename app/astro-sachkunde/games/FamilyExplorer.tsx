@@ -1,7 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 // ─── Interface ───────────────────────────────────────────────────────────────
 interface Props {
@@ -346,6 +346,17 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const [chosen, setChosen] = useState<string | null>(null); // chosen key
   const [locked, setLocked] = useState(false);
 
+  // ─── TTS helper ─────────────────────────────────────────────────────────────
+  const speak = useCallback((text: string) => {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    const langMap: Record<string, string> = { en: "en-US", de: "de-DE", hu: "hu-HU", ro: "ro-RO" };
+    utterance.lang = langMap[lang as string] || "de-DE";
+    utterance.rate = 0.9;
+    window.speechSynthesis.speak(utterance);
+  }, [lang]);
+
   // ─────────────────────────────────────────────────────────────────────────
   // Build randomized question pools (once, stable via useMemo)
   // ─────────────────────────────────────────────────────────────────────────
@@ -595,10 +606,18 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
           transition={{ duration: 0.22 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
         >
-          {/* Round title */}
-          <p className="text-lg font-black text-white text-center" style={{ color }}>
-            {roundTitles[round]}
-          </p>
+          {/* Round title + TTS button */}
+          <div className="flex items-center gap-2 justify-center">
+            <p className="text-lg font-black text-white text-center" style={{ color }}>
+              {roundTitles[round]}
+            </p>
+            <button
+              onClick={() => speak(roundTitles[round] + ". " + roundHints[round])}
+              className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-lg bg-white/15 text-white/70 hover:bg-white/25 hover:text-white transition-colors"
+            >
+              <Volume2 size={14} />
+            </button>
+          </div>
 
           {/* Hint — always visible */}
           <p className="text-white/60 text-xs font-bold text-center px-2">
