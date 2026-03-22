@@ -402,61 +402,142 @@ function SvgRound1(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_eye" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#60A5FA" />
-          <stop offset="100%" stopColor="#3B82F6" />
-        </linearGradient>
-        <radialGradient id="r1_nose_grad">
-          <stop offset="0%" stopColor="#F472B6" />
-          <stop offset="100%" stopColor="#EC4899" />
+        <radialGradient id="se_r1_bg" cx="50%" cy="50%" r="60%">
+          <stop offset="0%" stopColor="#1a1a3e" />
+          <stop offset="100%" stopColor="#0a0a1a" />
         </radialGradient>
-        <linearGradient id="r1_ear" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#C084FC" />
-          <stop offset="100%" stopColor="#A855F7" />
+        <radialGradient id="se_r1_eye_iris" cx="40%" cy="35%">
+          <stop offset="0%" stopColor="#93C5FD" />
+          <stop offset="40%" stopColor="#3B82F6" />
+          <stop offset="100%" stopColor="#1E3A5F" />
+        </radialGradient>
+        <radialGradient id="se_r1_ear_inner" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="#DDD6FE" />
+          <stop offset="100%" stopColor="#7C3AED" />
+        </radialGradient>
+        <linearGradient id="se_r1_nose" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FBCFE8" />
+          <stop offset="50%" stopColor="#F472B6" />
+          <stop offset="100%" stopColor="#BE185D" />
         </linearGradient>
+        <linearGradient id="se_r1_tongue" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FCA5A5" />
+          <stop offset="50%" stopColor="#EF4444" />
+          <stop offset="100%" stopColor="#991B1B" />
+        </linearGradient>
+        <linearGradient id="se_r1_skin" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#FDEBD0" />
+          <stop offset="50%" stopColor="#E8C9A0" />
+          <stop offset="100%" stopColor="#C9A87C" />
+        </linearGradient>
+        <radialGradient id="se_r1_glow_blue" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(59,130,246,0.25)" />
+          <stop offset="100%" stopColor="rgba(59,130,246,0)" />
+        </radialGradient>
+        <radialGradient id="se_r1_glow_purple" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(168,85,247,0.25)" />
+          <stop offset="100%" stopColor="rgba(168,85,247,0)" />
+        </radialGradient>
+        <radialGradient id="se_r1_glow_pink" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(236,72,153,0.25)" />
+          <stop offset="100%" stopColor="rgba(236,72,153,0)" />
+        </radialGradient>
+        <radialGradient id="se_r1_glow_red" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(239,68,68,0.25)" />
+          <stop offset="100%" stopColor="rgba(239,68,68,0)" />
+        </radialGradient>
+        <radialGradient id="se_r1_glow_amber" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(217,119,6,0.25)" />
+          <stop offset="100%" stopColor="rgba(217,119,6,0)" />
+        </radialGradient>
+        <filter id="se_r1_soft">
+          <feGaussianBlur stdDeviation="1" />
+        </filter>
       </defs>
 
-      {/* Head silhouette — center */}
-      <circle cx="120" cy="80" r="28" fill="#374151" opacity="0.8" />
-      <path d="M 105 65 Q 92 75, 95 95 Q 100 108, 120 110 Q 140 108, 145 95 Q 148 75, 135 65 Z" fill="#4B5563" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#se_r1_bg)" rx="6" />
 
-      {/* Eye — top right */}
-      <circle cx="155" cy="50" r="12" fill="url(#r1_eye)" />
-      <circle cx="157" cy="50" r="5" fill="#000" />
-      <circle cx="158" cy="48" r="2" fill="#fff" opacity="0.6" />
-      <text x="155" y="75" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#3B82F6">👁</text>
+      {/* Central head silhouette */}
+      <ellipse cx="120" cy="80" rx="22" ry="26" fill="#2D2B55" opacity="0.7" />
+      <ellipse cx="120" cy="72" rx="18" ry="20" fill="#3D3B65" opacity="0.6" />
+      {/* Neck */}
+      <rect x="114" y="96" width="12" height="10" rx="4" fill="#2D2B55" opacity="0.5" />
 
-      {/* Ear — left */}
-      <path d="M 70 70 Q 55 65, 52 80 Q 55 95, 70 93 Z" fill="url(#r1_ear)" opacity="0.9" />
-      <path d="M 65 78 Q 60 75, 60 80 Q 60 85, 65 85 Z" fill="#7C3AED" opacity="0.7" />
-      <text x="35" y="80" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#A855F7">👂</text>
+      {/* Connector lines — glowing nerve paths */}
+      <path d="M 120 56 Q 100 30, 55 28" stroke="url(#se_r1_nose)" strokeWidth="1.2" fill="none" opacity="0.4" strokeDasharray="3,2" />
+      <path d="M 135 68 Q 155 55, 175 42" stroke="#3B82F6" strokeWidth="1.2" fill="none" opacity="0.4" strokeDasharray="3,2" />
+      <path d="M 105 75 Q 75 70, 45 75" stroke="#A855F7" strokeWidth="1.2" fill="none" opacity="0.4" strokeDasharray="3,2" />
+      <path d="M 120 100 Q 120 115, 120 125" stroke="#EF4444" strokeWidth="1.2" fill="none" opacity="0.4" strokeDasharray="3,2" />
+      <path d="M 135 90 Q 165 105, 195 100" stroke="#D97706" strokeWidth="1.2" fill="none" opacity="0.4" strokeDasharray="3,2" />
 
-      {/* Nose — top center */}
-      <ellipse cx="120" cy="30" rx="8" ry="10" fill="url(#r1_nose_grad)" />
-      <ellipse cx="116" cy="38" rx="2" ry="3" fill="#BE123C" opacity="0.6" />
-      <ellipse cx="124" cy="38" rx="2" ry="3" fill="#BE123C" opacity="0.6" />
-      <text x="120" y="12" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#EC4899">👃</text>
+      {/* EYE — top right */}
+      <circle cx="185" cy="38" r="22" fill="url(#se_r1_glow_blue)" filter="url(#se_r1_soft)" />
+      {/* Eyeball */}
+      <ellipse cx="185" cy="38" rx="16" ry="12" fill="#F0F4FF" />
+      <ellipse cx="185" cy="38" rx="16" ry="12" fill="none" stroke="#64748B" strokeWidth="0.8" />
+      {/* Iris */}
+      <circle cx="185" cy="38" r="7" fill="url(#se_r1_eye_iris)" />
+      {/* Pupil */}
+      <circle cx="185" cy="38" r="3.5" fill="#0F172A" />
+      {/* Highlight */}
+      <circle cx="187" cy="35" r="1.8" fill="#fff" opacity="0.8" />
+      <circle cx="183" cy="40" r="0.8" fill="#fff" opacity="0.4" />
+      {/* Eyelid upper */}
+      <path d="M 169 38 Q 177 28, 185 26 Q 193 28, 201 38" fill="none" stroke="#94A3B8" strokeWidth="1" />
+      {/* Eyelid lower */}
+      <path d="M 169 38 Q 177 46, 185 48 Q 193 46, 201 38" fill="none" stroke="#94A3B8" strokeWidth="0.6" />
 
-      {/* Tongue/Taste — bottom center */}
-      <ellipse cx="120" cy="130" rx="10" ry="8" fill="#F87171" />
-      <text x="120" y="150" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#DC2626">👅</text>
+      {/* EAR — left */}
+      <circle cx="40" cy="75" r="22" fill="url(#se_r1_glow_purple)" filter="url(#se_r1_soft)" />
+      {/* Outer ear (pinna) */}
+      <path d="M 48 58 Q 28 62, 26 78 Q 25 92, 38 96 Q 42 97, 44 93 Q 32 88, 32 78 Q 32 68, 48 64 Z" fill="#C4B5FD" stroke="#8B5CF6" strokeWidth="0.8" />
+      {/* Inner ear folds */}
+      <path d="M 45 65 Q 36 68, 36 78 Q 36 86, 42 90" fill="none" stroke="#7C3AED" strokeWidth="1.2" opacity="0.7" />
+      <path d="M 43 69 Q 38 72, 38 78 Q 38 83, 41 86" fill="none" stroke="#6D28D9" strokeWidth="0.8" opacity="0.5" />
+      {/* Canal opening */}
+      <ellipse cx="44" cy="78" rx="3" ry="4" fill="#4C1D95" />
 
-      {/* Hand/Touch — right */}
-      <g transform="translate(195, 90)">
-        <rect x="-8" y="-12" width="5" height="18" rx="2" fill="#D4A574" />
-        <circle cx="-5.5" cy="-10" r="2.5" fill="#D4A574" />
-        <circle cx="-5.5" cy="-5" r="2.5" fill="#D4A574" />
-        <circle cx="-5.5" cy="0" r="2.5" fill="#D4A574" />
-        <circle cx="-5.5" cy="5" r="2.5" fill="#D4A574" />
-      </g>
-      <text x="215" y="95" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#D4A574">✋</text>
+      {/* NOSE — top left */}
+      <circle cx="52" cy="25" r="22" fill="url(#se_r1_glow_pink)" filter="url(#se_r1_soft)" />
+      {/* Nose bridge */}
+      <path d="M 52 12 Q 48 18, 44 28 Q 42 34, 46 36 Q 50 38, 52 36 Q 54 38, 58 36 Q 62 34, 60 28 Q 56 18, 52 12 Z" fill="url(#se_r1_nose)" />
+      {/* Nostrils */}
+      <ellipse cx="48" cy="34" rx="3" ry="2.5" fill="#9D174D" opacity="0.7" />
+      <ellipse cx="56" cy="34" rx="3" ry="2.5" fill="#9D174D" opacity="0.7" />
+      {/* Highlight */}
+      <path d="M 51 14 Q 50 20, 48 26" stroke="#FDF2F8" strokeWidth="0.8" fill="none" opacity="0.5" />
 
-      {/* Connectors — dashed lines to head */}
-      <line x1="145" y1="58" x2="135" y2="65" stroke="rgba(100,200,255,0.4)" strokeWidth="1.5" strokeDasharray="2,2" />
-      <line x1="65" y1="80" x2="92" y2="78" stroke="rgba(168,85,247,0.4)" strokeWidth="1.5" strokeDasharray="2,2" />
-      <line x1="120" y1="42" x2="120" y2="52" stroke="rgba(236,72,153,0.4)" strokeWidth="1.5" strokeDasharray="2,2" />
-      <line x1="120" y1="108" x2="120" y2="120" stroke="rgba(248,113,113,0.4)" strokeWidth="1.5" strokeDasharray="2,2" />
-      <line x1="190" y1="98" x2="155" y2="90" stroke="rgba(212,165,116,0.4)" strokeWidth="1.5" strokeDasharray="2,2" />
+      {/* TONGUE — bottom center */}
+      <circle cx="120" cy="132" r="22" fill="url(#se_r1_glow_red)" filter="url(#se_r1_soft)" />
+      {/* Mouth outline */}
+      <path d="M 105 128 Q 112 122, 120 122 Q 128 122, 135 128" fill="none" stroke="#FDA4AF" strokeWidth="1" />
+      {/* Tongue body */}
+      <path d="M 108 130 Q 108 140, 120 144 Q 132 140, 132 130 Q 128 126, 120 126 Q 112 126, 108 130 Z" fill="url(#se_r1_tongue)" />
+      {/* Taste zones — subtle dots */}
+      <circle cx="115" cy="132" r="1" fill="#FCA5A5" opacity="0.6" />
+      <circle cx="120" cy="130" r="1" fill="#FCA5A5" opacity="0.6" />
+      <circle cx="125" cy="132" r="1" fill="#FCA5A5" opacity="0.6" />
+      <circle cx="120" cy="136" r="1.2" fill="#FCA5A5" opacity="0.5" />
+      {/* Center groove */}
+      <line x1="120" y1="127" x2="120" y2="140" stroke="#B91C1C" strokeWidth="0.5" opacity="0.4" />
+
+      {/* HAND — right */}
+      <circle cx="200" cy="100" r="22" fill="url(#se_r1_glow_amber)" filter="url(#se_r1_soft)" />
+      {/* Palm */}
+      <path d="M 193 100 Q 191 108, 195 112 Q 200 114, 205 112 Q 209 108, 207 100 Z" fill="url(#se_r1_skin)" />
+      {/* Fingers */}
+      <rect x="194" y="86" width="4" height="14" rx="2" fill="url(#se_r1_skin)" />
+      <rect x="198.5" y="83" width="4" height="17" rx="2" fill="url(#se_r1_skin)" />
+      <rect x="203" y="85" width="4" height="15" rx="2" fill="url(#se_r1_skin)" />
+      <rect x="207" y="88" width="3.5" height="12" rx="1.8" fill="url(#se_r1_skin)" />
+      {/* Thumb */}
+      <path d="M 193 102 Q 189 100, 188 96 Q 187 93, 189 91" stroke="url(#se_r1_skin)" strokeWidth="3.5" fill="none" strokeLinecap="round" />
+      {/* Fingertip details */}
+      <path d="M 195 87" stroke="#C9A87C" strokeWidth="0.3" fill="none" opacity="0.4" />
+      {/* Skin texture lines on palm */}
+      <path d="M 195 104 Q 200 102, 205 104" stroke="#C9A87C" strokeWidth="0.4" fill="none" opacity="0.3" />
+      <path d="M 196 107 Q 200 106, 204 107" stroke="#C9A87C" strokeWidth="0.3" fill="none" opacity="0.3" />
     </svg>
   );
 }
@@ -465,58 +546,116 @@ function SvgRound2(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_eye_cross" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#93C5FD" />
-          <stop offset="100%" stopColor="#1D4ED8" />
-        </linearGradient>
-        <radialGradient id="r2_pupil">
-          <stop offset="0%" stopColor="#000" />
-          <stop offset="100%" stopColor="#1F2937" />
+        <radialGradient id="se_r2_bg" cx="50%" cy="50%" r="65%">
+          <stop offset="0%" stopColor="#0F172A" />
+          <stop offset="100%" stopColor="#020617" />
         </radialGradient>
+        <linearGradient id="se_r2_sclera" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F8FAFC" />
+          <stop offset="40%" stopColor="#E2E8F0" />
+          <stop offset="100%" stopColor="#CBD5E1" />
+        </linearGradient>
+        <radialGradient id="se_r2_iris" cx="45%" cy="40%">
+          <stop offset="0%" stopColor="#60A5FA" />
+          <stop offset="35%" stopColor="#3B82F6" />
+          <stop offset="70%" stopColor="#1D4ED8" />
+          <stop offset="100%" stopColor="#1E3A5F" />
+        </radialGradient>
+        <radialGradient id="se_r2_pupil" cx="40%" cy="35%">
+          <stop offset="0%" stopColor="#1E293B" />
+          <stop offset="100%" stopColor="#020617" />
+        </radialGradient>
+        <linearGradient id="se_r2_cornea" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#BFDBFE" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#93C5FD" stopOpacity="0.2" />
+        </linearGradient>
+        <linearGradient id="se_r2_retina" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FCA5A5" />
+          <stop offset="50%" stopColor="#EF4444" />
+          <stop offset="100%" stopColor="#991B1B" />
+        </linearGradient>
+        <linearGradient id="se_r2_nerve" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#A78BFA" />
+          <stop offset="100%" stopColor="#7C3AED" />
+        </linearGradient>
+        <linearGradient id="se_r2_lens" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#E0F2FE" stopOpacity="0.6" />
+          <stop offset="50%" stopColor="#BAE6FD" stopOpacity="0.4" />
+          <stop offset="100%" stopColor="#7DD3FC" stopOpacity="0.2" />
+        </linearGradient>
+        <linearGradient id="se_r2_vitreous" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#DBEAFE" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#BFDBFE" stopOpacity="0.05" />
+        </linearGradient>
+        <filter id="se_r2_glow">
+          <feGaussianBlur stdDeviation="2" />
+        </filter>
       </defs>
 
-      {/* Eye outline — cross-section */}
-      <ellipse cx="120" cy="80" rx="35" ry="40" fill="url(#r2_eye_cross)" opacity="0.3" />
-      <ellipse cx="120" cy="80" rx="35" ry="40" fill="none" stroke="#3B82F6" strokeWidth="2" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#se_r2_bg)" rx="6" />
 
-      {/* Cornea — front curve */}
-      <ellipse cx="120" cy="50" rx="20" ry="15" fill="none" stroke="#60A5FA" strokeWidth="1.5" opacity="0.6" />
+      {/* Eye cross-section — main shape */}
+      {/* Sclera (outer shell) */}
+      <ellipse cx="110" cy="80" rx="68" ry="52" fill="url(#se_r2_sclera)" />
+      <ellipse cx="110" cy="80" rx="68" ry="52" fill="none" stroke="#94A3B8" strokeWidth="1.5" />
 
-      {/* Pupil — center */}
-      <circle cx="120" cy="80" r="12" fill="url(#r2_pupil)" />
-      <circle cx="120" cy="80" r="12" fill="none" stroke="#00D4FF" strokeWidth="1" opacity="0.5" />
-      <circle cx="123" cy="76" r="3" fill="#fff" opacity="0.4" />
+      {/* Choroid layer (dark inner lining) */}
+      <ellipse cx="110" cy="80" rx="64" ry="48" fill="none" stroke="#7F1D1D" strokeWidth="2" opacity="0.3" />
 
-      {/* Iris — around pupil */}
-      <circle cx="120" cy="80" r="16" fill="none" stroke="#60A5FA" strokeWidth="1.5" opacity="0.7" />
+      {/* Vitreous humor (interior) */}
+      <ellipse cx="115" cy="80" rx="55" ry="42" fill="url(#se_r2_vitreous)" />
 
-      {/* Lens — inside */}
-      <ellipse cx="120" cy="80" rx="18" ry="22" fill="#E0F2FE" opacity="0.2" />
-      <ellipse cx="120" cy="80" rx="18" ry="22" fill="none" stroke="#06B6D4" strokeWidth="1" opacity="0.5" strokeDasharray="2,2" />
+      {/* Retina — inner back surface */}
+      <path d="M 145 38 Q 170 50, 175 80 Q 170 110, 145 122" fill="none" stroke="url(#se_r2_retina)" strokeWidth="3" />
+      {/* Retina cell texture */}
+      <path d="M 150 45 Q 165 55, 170 70" fill="none" stroke="#FCA5A5" strokeWidth="0.5" opacity="0.4" />
+      <path d="M 150 115 Q 165 105, 170 90" fill="none" stroke="#FCA5A5" strokeWidth="0.5" opacity="0.4" />
 
-      {/* Retina — back */}
-      <path d="M 85 60 Q 85 100, 120 110 Q 155 100, 155 60" fill="none" stroke="#DC2626" strokeWidth="2" />
-      <text x="120" y="90" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#DC2626">Retina</text>
+      {/* Lens — biconvex shape */}
+      <ellipse cx="75" cy="80" rx="12" ry="22" fill="url(#se_r2_lens)" />
+      <ellipse cx="75" cy="80" rx="12" ry="22" fill="none" stroke="#0EA5E9" strokeWidth="1" opacity="0.6" />
+      {/* Lens highlight */}
+      <path d="M 70 62 Q 72 70, 70 78" stroke="#fff" strokeWidth="0.5" fill="none" opacity="0.4" />
 
-      {/* Optic nerve — back */}
-      <line x1="155" y1="75" x2="200" y2="75" stroke="#7C3AED" strokeWidth="3" />
-      <path d="M 200 75 L 195 70 M 200 75 L 195 80" stroke="#7C3AED" strokeWidth="2" />
+      {/* Cornea — front bulge */}
+      <path d="M 42 58 Q 32 68, 32 80 Q 32 92, 42 102" fill="url(#se_r2_cornea)" stroke="#60A5FA" strokeWidth="1.2" />
 
-      {/* Labels with leader lines */}
-      {/* Pupil label */}
-      <line x1="120" y1="80" x2="140" y2="55" stroke="rgba(100,200,255,0.5)" strokeWidth="1" />
-      <rect x="140" y="45" width="50" height="20" rx="4" fill="#ffffff" stroke="#3B82F6" strokeWidth="1" opacity="0.9" />
-      <text x="165" y="59" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#1D4ED8">Pupil</text>
+      {/* Iris — colored ring */}
+      <path d="M 58 58 Q 50 66, 50 80 Q 50 94, 58 102" fill="url(#se_r2_iris)" />
+      <path d="M 58 58 L 58 102" fill="none" stroke="#1D4ED8" strokeWidth="0.5" opacity="0.3" />
+      {/* Iris fiber texture */}
+      <path d="M 54 62 Q 52 70, 52 80 Q 52 90, 54 98" stroke="#2563EB" strokeWidth="0.3" fill="none" opacity="0.5" />
+      <path d="M 56 60 Q 53 70, 53 80 Q 53 90, 56 100" stroke="#1D4ED8" strokeWidth="0.3" fill="none" opacity="0.4" />
 
-      {/* Lens label */}
-      <line x1="120" y1="102" x2="100" y2="120" stroke="rgba(100,200,255,0.5)" strokeWidth="1" />
-      <rect x="60" y="118" width="45" height="18" rx="4" fill="#ffffff" stroke="#06B6D4" strokeWidth="1" opacity="0.9" />
-      <text x="82" y="131" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#0369A1">Lens</text>
+      {/* Pupil — opening in iris */}
+      <path d="M 58 68 Q 55 74, 55 80 Q 55 86, 58 92" fill="url(#se_r2_pupil)" />
+      <path d="M 58 68 L 58 92" fill="url(#se_r2_pupil)" />
 
-      {/* Optic nerve label */}
-      <line x1="175" y1="65" x2="190" y2="30" stroke="rgba(150,100,200,0.5)" strokeWidth="1" />
-      <rect x="175" y="15" width="60" height="20" rx="4" fill="#ffffff" stroke="#7C3AED" strokeWidth="1" opacity="0.9" />
-      <text x="205" y="29" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#6D28D9">Optic nerve</text>
+      {/* Optic nerve — exiting back */}
+      <path d="M 175 76 Q 185 76, 195 72 Q 208 65, 220 58" stroke="url(#se_r2_nerve)" strokeWidth="5" fill="none" strokeLinecap="round" />
+      <path d="M 175 84 Q 185 84, 195 88 Q 208 95, 220 102" stroke="url(#se_r2_nerve)" strokeWidth="3" fill="none" strokeLinecap="round" opacity="0.5" />
+      {/* Optic disc (blind spot) */}
+      <circle cx="172" cy="80" r="5" fill="#FDE68A" opacity="0.4" />
+
+      {/* Light rays entering */}
+      <line x1="5" y1="65" x2="32" y2="75" stroke="#FCD34D" strokeWidth="0.8" opacity="0.3" />
+      <line x1="5" y1="80" x2="32" y2="80" stroke="#FCD34D" strokeWidth="0.8" opacity="0.4" />
+      <line x1="5" y1="95" x2="32" y2="85" stroke="#FCD34D" strokeWidth="0.8" opacity="0.3" />
+      {/* Light converging through lens */}
+      <line x1="87" y1="70" x2="165" y2="78" stroke="#FCD34D" strokeWidth="0.5" opacity="0.2" strokeDasharray="2,3" />
+      <line x1="87" y1="80" x2="165" y2="80" stroke="#FCD34D" strokeWidth="0.5" opacity="0.25" strokeDasharray="2,3" />
+      <line x1="87" y1="90" x2="165" y2="82" stroke="#FCD34D" strokeWidth="0.5" opacity="0.2" strokeDasharray="2,3" />
+
+      {/* Ciliary muscle (suspensory ligaments) */}
+      <line x1="63" y1="55" x2="68" y2="60" stroke="#94A3B8" strokeWidth="0.6" opacity="0.5" />
+      <line x1="63" y1="105" x2="68" y2="100" stroke="#94A3B8" strokeWidth="0.6" opacity="0.5" />
+
+      {/* Subtle label dots */}
+      <circle cx="52" cy="80" r="2" fill="#3B82F6" opacity="0.7" />
+      <circle cx="75" cy="80" r="2" fill="#0EA5E9" opacity="0.7" />
+      <circle cx="160" cy="80" r="2" fill="#EF4444" opacity="0.7" />
+      <circle cx="200" cy="68" r="2" fill="#7C3AED" opacity="0.7" />
     </svg>
   );
 }
@@ -525,58 +664,123 @@ function SvgRound3(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_ear_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#D8B4FE" />
-          <stop offset="100%" stopColor="#9333EA" />
+        <radialGradient id="se_r3_bg" cx="30%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a1a3e" />
+          <stop offset="100%" stopColor="#0a0a1a" />
+        </radialGradient>
+        <linearGradient id="se_r3_pinna" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FDEBD0" />
+          <stop offset="40%" stopColor="#E8C9A0" />
+          <stop offset="100%" stopColor="#C9A87C" />
         </linearGradient>
-        <linearGradient id="r3_canal" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#E9D5FF" />
-          <stop offset="100%" stopColor="#C084FC" />
+        <linearGradient id="se_r3_canal" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#D4B896" />
+          <stop offset="100%" stopColor="#5C3D1E" />
         </linearGradient>
+        <linearGradient id="se_r3_drum" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E5E7EB" />
+          <stop offset="50%" stopColor="#D1D5DB" />
+          <stop offset="100%" stopColor="#9CA3AF" />
+        </linearGradient>
+        <linearGradient id="se_r3_bone" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FEF3C7" />
+          <stop offset="50%" stopColor="#FDE68A" />
+          <stop offset="100%" stopColor="#D97706" />
+        </linearGradient>
+        <radialGradient id="se_r3_cochlea" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="#67E8F9" />
+          <stop offset="50%" stopColor="#06B6D4" />
+          <stop offset="100%" stopColor="#0E7490" />
+        </radialGradient>
+        <linearGradient id="se_r3_nerve" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#C084FC" />
+          <stop offset="100%" stopColor="#7C3AED" />
+        </linearGradient>
+        <linearGradient id="se_r3_middle" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FEF9C3" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FDE68A" stopOpacity="0.05" />
+        </linearGradient>
+        <filter id="se_r3_glow">
+          <feGaussianBlur stdDeviation="1.5" />
+        </filter>
       </defs>
 
-      {/* Outer ear — C shape */}
-      <path d="M 60 60 Q 40 70, 40 90 Q 40 110, 60 120 L 65 110 Q 50 105, 50 90 Q 50 75, 65 70 Z" fill="url(#r3_ear_grad)" />
-      <path d="M 60 70 Q 48 75, 48 90 Q 48 105, 58 115" fill="none" stroke="#7C3AED" strokeWidth="2" opacity="0.5" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#se_r3_bg)" rx="6" />
 
-      {/* Ear canal — tube */}
-      <rect x="55" y="85" width="35" height="12" rx="6" fill="url(#r3_canal)" />
-      <text x="72" y="93" textAnchor="middle" fontSize="7" fontWeight="bold" fill="#6D28D9">Canal</text>
+      {/* Outer ear (pinna) */}
+      <path d="M 18 42 Q 5 55, 4 80 Q 5 108, 18 118 Q 24 122, 28 118 Q 20 108, 18 95 Q 12 80, 15 65 Q 18 55, 28 48 Z" fill="url(#se_r3_pinna)" stroke="#C9A87C" strokeWidth="0.8" />
+      {/* Inner ear ridge (antihelix) */}
+      <path d="M 24 50 Q 14 60, 12 80 Q 14 100, 24 110" fill="none" stroke="#D4B896" strokeWidth="1.5" opacity="0.6" />
+      <path d="M 26 55 Q 18 65, 16 80 Q 18 95, 26 105" fill="none" stroke="#C9A87C" strokeWidth="1" opacity="0.4" />
+      {/* Tragus */}
+      <ellipse cx="30" cy="80" rx="4" ry="7" fill="url(#se_r3_pinna)" stroke="#C9A87C" strokeWidth="0.5" />
+      {/* Lobule */}
+      <ellipse cx="22" cy="122" rx="6" ry="5" fill="url(#se_r3_pinna)" opacity="0.8" />
 
-      {/* Eardrum — line */}
-      <line x1="92" y1="85" x2="92" y2="100" stroke="#EF4444" strokeWidth="2.5" />
-      <circle cx="92" cy="92" r="2.5" fill="#DC2626" />
-      <text x="92" y="110" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#DC2626">Eardrum</text>
+      {/* Ear canal */}
+      <path d="M 34 74 L 72 72 Q 76 72, 76 76 L 76 84 Q 76 88, 72 88 L 34 86 Z" fill="url(#se_r3_canal)" />
+      <path d="M 36 76 L 70 74" stroke="#8B6F4E" strokeWidth="0.4" opacity="0.4" />
+      <path d="M 36 84 L 70 86" stroke="#3D2B14" strokeWidth="0.4" opacity="0.4" />
 
-      {/* Ossicles — three tiny bones */}
-      <g transform="translate(110, 90)">
-        {/* Malleus — hammer */}
-        <rect x="-8" y="-4" width="4" height="12" rx="2" fill="#F59E0B" />
-        <circle cx="-6" cy="-6" r="3" fill="#F59E0B" />
-        {/* Incus — anvil */}
-        <rect x="-2" y="-6" width="4" height="14" rx="2" fill="#FBBF24" />
-        <circle cx="0" cy="-8" r="2.5" fill="#FBBF24" />
-        {/* Stapes — stirrup */}
-        <path d="M 4 -2 L 8 -2 L 8 6 L 4 6 Z" fill="#F59E0B" opacity="0.8" />
-        <circle cx="6" cy="8" r="2.5" fill="#F59E0B" />
+      {/* Eardrum (tympanic membrane) */}
+      <ellipse cx="80" cy="80" rx="3" ry="10" fill="url(#se_r3_drum)" stroke="#9CA3AF" strokeWidth="0.8" />
+      {/* Eardrum cone shape (umbo) */}
+      <path d="M 80 72 Q 82 80, 80 88" stroke="#6B7280" strokeWidth="0.5" fill="none" />
+      {/* Vibration lines */}
+      <path d="M 76 75 Q 74 80, 76 85" stroke="#60A5FA" strokeWidth="0.5" opacity="0.4" />
+      <path d="M 74 77 Q 72 80, 74 83" stroke="#60A5FA" strokeWidth="0.4" opacity="0.3" />
+
+      {/* Middle ear cavity */}
+      <ellipse cx="100" cy="80" rx="18" ry="22" fill="url(#se_r3_middle)" stroke="rgba(253,230,138,0.2)" strokeWidth="0.5" />
+
+      {/* Ossicles — three bones */}
+      {/* Malleus (hammer) */}
+      <path d="M 83 78 L 88 72 L 90 68 Q 91 66, 93 67 L 92 70 L 90 76 Z" fill="url(#se_r3_bone)" stroke="#B45309" strokeWidth="0.5" />
+      <circle cx="91" cy="66" r="2.5" fill="url(#se_r3_bone)" stroke="#B45309" strokeWidth="0.4" />
+
+      {/* Incus (anvil) */}
+      <path d="M 93 67 Q 97 65, 100 68 L 102 74 Q 103 78, 100 80 L 97 76 Q 95 72, 93 70 Z" fill="url(#se_r3_bone)" stroke="#B45309" strokeWidth="0.5" />
+      <circle cx="98" cy="66" r="2" fill="url(#se_r3_bone)" stroke="#B45309" strokeWidth="0.4" />
+
+      {/* Stapes (stirrup) */}
+      <path d="M 100 78 L 104 76 Q 108 74, 110 76 L 110 84 Q 108 86, 104 84 L 100 82 Z" fill="none" stroke="url(#se_r3_bone)" strokeWidth="1.2" />
+      <ellipse cx="111" cy="80" rx="2" ry="5" fill="url(#se_r3_bone)" opacity="0.6" stroke="#B45309" strokeWidth="0.4" />
+
+      {/* Oval window */}
+      <ellipse cx="114" cy="80" rx="2.5" ry="6" fill="#FEF3C7" opacity="0.3" stroke="#D97706" strokeWidth="0.5" />
+
+      {/* Cochlea — spiral shell */}
+      <g transform="translate(138, 82)">
+        {/* Outer spiral */}
+        <path d="M 0 -18 Q 16 -18, 18 -4 Q 20 10, 6 14 Q -8 16, -12 4 Q -14 -8, -2 -12 Q 8 -14, 12 -6 Q 14 2, 4 6 Q -4 8, -6 0 Q -6 -4, 0 -5" fill="none" stroke="url(#se_r3_cochlea)" strokeWidth="2.5" strokeLinecap="round" />
+        {/* Inner highlight */}
+        <path d="M 2 -16 Q 14 -16, 16 -4 Q 18 8, 6 12" fill="none" stroke="#A5F3FC" strokeWidth="0.6" opacity="0.4" />
+        {/* Center */}
+        <circle cx="0" cy="-2" r="2" fill="#06B6D4" opacity="0.6" />
       </g>
-      <text x="110" y="115" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#F59E0B">Ossicles</text>
 
-      {/* Cochlea — spiral */}
-      <g transform="translate(150, 85)">
-        <path d="M 0 -15 Q 10 -15, 10 -5 Q 10 5, 0 5 Q -10 5, -10 -5 Q -10 -15, 0 -20" fill="none" stroke="#06B6D4" strokeWidth="2" />
-        <circle cx="0" cy="-8" r="1.5" fill="#06B6D4" />
-      </g>
-      <text x="150" y="115" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#06B6D4">Cochlea</text>
+      {/* Semicircular canals (balance) */}
+      <path d="M 132 60 Q 142 48, 155 50 Q 162 52, 160 60" fill="none" stroke="#2DD4BF" strokeWidth="1.5" opacity="0.5" />
+      <path d="M 128 58 Q 125 48, 130 42 Q 138 38, 144 44" fill="none" stroke="#2DD4BF" strokeWidth="1.2" opacity="0.4" />
 
-      {/* Nerve signal arrow */}
-      <path d="M 160 85 L 200 85" stroke="#8B5CF6" strokeWidth="2.5" markerEnd="url(#r3_arrow)" />
-      <defs>
-        <marker id="r3_arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-          <path d="M0,0 L0,6 L9,3 z" fill="#8B5CF6" />
-        </marker>
-      </defs>
-      <text x="180" y="78" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#8B5CF6">to brain</text>
+      {/* Auditory nerve */}
+      <path d="M 155 88 Q 170 95, 185 98 Q 200 100, 215 95" stroke="url(#se_r3_nerve)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      <path d="M 158 92 Q 172 98, 188 100" stroke="#A78BFA" strokeWidth="1.5" fill="none" strokeLinecap="round" opacity="0.4" />
+      {/* Nerve signal dots */}
+      <circle cx="175" cy="96" r="1.5" fill="#C084FC" opacity="0.6" />
+      <circle cx="190" cy="99" r="1.2" fill="#A78BFA" opacity="0.5" />
+      <circle cx="205" cy="97" r="1" fill="#8B5CF6" opacity="0.4" />
+
+      {/* Sound wave lines entering */}
+      <path d="M 2 72 Q 0 80, 2 88" stroke="#60A5FA" strokeWidth="0.6" opacity="0.3" fill="none" />
+      <path d="M 5 70 Q 3 80, 5 90" stroke="#60A5FA" strokeWidth="0.5" opacity="0.25" fill="none" />
+
+      {/* Region indicator dots */}
+      <circle cx="55" cy="80" r="1.5" fill="#D97706" opacity="0.5" />
+      <circle cx="80" cy="80" r="1.5" fill="#9CA3AF" opacity="0.6" />
+      <circle cx="98" cy="74" r="1.5" fill="#F59E0B" opacity="0.6" />
+      <circle cx="138" cy="80" r="1.5" fill="#06B6D4" opacity="0.6" />
     </svg>
   );
 }

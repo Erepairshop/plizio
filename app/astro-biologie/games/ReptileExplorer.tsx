@@ -145,44 +145,63 @@ const LABELS: ExplorerDef["labels"] = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SVG_R1(lang: string = "en"): React.ReactNode {
-  const lb: Record<string,{reptile:string;bird:string}> = {
-    en:{reptile:"Reptile 🦎",bird:"Bird 🐦"},de:{reptile:"Reptil 🦎",bird:"Vogel 🐦"},
-    hu:{reptile:"Hüllő 🦎",bird:"Madár 🐦"},ro:{reptile:"Reptilă 🦎",bird:"Pasăre 🐦"},
-  };
-  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        {/* Gradients */}
         <linearGradient id="r1_sky_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#2E9CDE" />
-          <stop offset="100%" stopColor="#6DD5ED" />
+          <stop offset="0%" stopColor="#1B6CA8" />
+          <stop offset="40%" stopColor="#4DB8E8" />
+          <stop offset="100%" stopColor="#A5D8F0" />
         </linearGradient>
         <linearGradient id="r1_desert_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A574" />
+          <stop offset="0%" stopColor="#E8C49A" />
+          <stop offset="60%" stopColor="#D4A574" />
           <stop offset="100%" stopColor="#B8956A" />
         </linearGradient>
-        <linearGradient id="r1_desert_rock" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B7355" />
-          <stop offset="100%" stopColor="#6B5344" />
+        <linearGradient id="r1_desert_rock" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#A08060" />
+          <stop offset="40%" stopColor="#8B7355" />
+          <stop offset="100%" stopColor="#5A4030" />
         </linearGradient>
+        <radialGradient id="r1_rock_hi" cx="35%" cy="30%">
+          <stop offset="0%" stopColor="rgba(255,240,200,0.3)" />
+          <stop offset="100%" stopColor="rgba(255,240,200,0)" />
+        </radialGradient>
         <linearGradient id="r1_lizard_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#7FBF3F" />
-          <stop offset="50%" stopColor="#6BA82F" />
-          <stop offset="100%" stopColor="#558B2F" />
+          <stop offset="0%" stopColor="#8FD44F" />
+          <stop offset="30%" stopColor="#7FBF3F" />
+          <stop offset="70%" stopColor="#6BA82F" />
+          <stop offset="100%" stopColor="#4A7A20" />
         </linearGradient>
         <linearGradient id="r1_lizard_belly" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4E89F" />
-          <stop offset="100%" stopColor="#B3D97F" />
+          <stop offset="0%" stopColor="#E8F5A0" />
+          <stop offset="100%" stopColor="#C8E07F" />
         </linearGradient>
-        <linearGradient id="r1_bird_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF8C1A" />
-          <stop offset="50%" stopColor="#FF6F00" />
+        <linearGradient id="r1_bird_body" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF9F43" />
+          <stop offset="40%" stopColor="#FF6F00" />
           <stop offset="100%" stopColor="#D84315" />
         </linearGradient>
+        <linearGradient id="r1_bird_breast" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFECD2" />
+          <stop offset="100%" stopColor="#FFDAB3" />
+        </linearGradient>
         <linearGradient id="r1_bird_head" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="100%" stopColor="#654321" />
+          <stop offset="0%" stopColor="#5D4037" />
+          <stop offset="100%" stopColor="#3E2723" />
+        </linearGradient>
+        <radialGradient id="r1_sun_glow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(255,235,150,0.6)" />
+          <stop offset="60%" stopColor="rgba(255,235,150,0.15)" />
+          <stop offset="100%" stopColor="rgba(255,235,150,0)" />
+        </radialGradient>
+        <linearGradient id="r1_sand_fg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#C9A06A" />
+          <stop offset="100%" stopColor="#A0804A" />
+        </linearGradient>
+        <linearGradient id="r1_branch" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#6D4C2A" />
+          <stop offset="100%" stopColor="#4A3520" />
         </linearGradient>
       </defs>
 
@@ -190,200 +209,313 @@ function SVG_R1(lang: string = "en"): React.ReactNode {
       <rect x="0" y="0" width="120" height="160" fill="url(#r1_desert_bg)" />
       <rect x="120" y="0" width="120" height="160" fill="url(#r1_sky_bg)" />
 
-      {/* Desert rock on left */}
-      <ellipse cx="60" cy="110" rx="45" ry="28" fill="url(#r1_desert_rock)" />
+      {/* Divider line soft blend */}
+      <rect x="118" y="0" width="4" height="160" fill="rgba(0,0,0,0.06)" />
 
-      {/* LIZARD on left */}
-      <g transform="translate(35, 95)">
+      {/* Sun glow on desert side */}
+      <circle cx="30" cy="20" r="35" fill="url(#r1_sun_glow)" />
+      <circle cx="30" cy="20" r="12" fill="#FFE082" opacity="0.7" />
+      <circle cx="30" cy="20" r="8" fill="#FFD54F" opacity="0.9" />
+
+      {/* Desert: small distant dunes */}
+      <ellipse cx="25" cy="108" rx="30" ry="8" fill="#C49A6A" opacity="0.5" />
+      <ellipse cx="95" cy="115" rx="25" ry="6" fill="#BF9060" opacity="0.4" />
+
+      {/* Desert rock on left */}
+      <ellipse cx="60" cy="112" rx="48" ry="26" fill="url(#r1_desert_rock)" />
+      <ellipse cx="60" cy="112" rx="48" ry="26" fill="url(#r1_rock_hi)" />
+      {/* Rock cracks */}
+      <path d="M 35 105 Q 40 108 38 115" stroke="rgba(0,0,0,0.12)" strokeWidth="0.6" fill="none" />
+      <path d="M 70 100 Q 75 106 72 112" stroke="rgba(0,0,0,0.1)" strokeWidth="0.5" fill="none" />
+
+      {/* Small cactus behind rock */}
+      <rect x="95" y="90" width="4" height="22" rx="2" fill="#5A8B3A" />
+      <rect x="91" y="95" width="4" height="10" rx="2" fill="#5A8B3A" transform="rotate(-30 93 100)" />
+      <rect x="97" y="97" width="3" height="8" rx="1.5" fill="#5A8B3A" transform="rotate(25 98 101)" />
+
+      {/* Sky side: distant cloud */}
+      <ellipse cx="170" cy="22" rx="20" ry="7" fill="rgba(255,255,255,0.35)" />
+      <ellipse cx="180" cy="20" rx="14" ry="6" fill="rgba(255,255,255,0.3)" />
+      <ellipse cx="220" cy="35" rx="15" ry="5" fill="rgba(255,255,255,0.2)" />
+
+      {/* Tree branch on right side for bird */}
+      <path d="M 145 130 Q 155 125 165 128 Q 175 130 185 126 Q 200 120 215 122" stroke="url(#r1_branch)" strokeWidth="5" fill="none" strokeLinecap="round" />
+      <path d="M 145 130 Q 155 125 165 128 Q 175 130 185 126 Q 200 120 215 122" stroke="rgba(255,255,255,0.08)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Branch knots */}
+      <circle cx="165" cy="128" r="1.5" fill="#5A4030" />
+      <circle cx="195" cy="123" r="1" fill="#5A4030" />
+      {/* Small leaves on branch */}
+      <ellipse cx="200" cy="116" rx="4" ry="7" fill="#4A9A35" opacity="0.7" transform="rotate(-20 200 116)" />
+      <ellipse cx="210" cy="118" rx="3" ry="6" fill="#5AAA45" opacity="0.6" transform="rotate(10 210 118)" />
+
+      {/* Sand/grass foreground */}
+      <path d="M 0 140 Q 20 135 60 138 Q 100 142 120 140 Q 160 135 200 138 Q 230 142 240 140 L 240 160 L 0 160 Z" fill="url(#r1_sand_fg)" opacity="0.4" />
+
+      {/* LIZARD on left rock */}
+      <g transform="translate(30, 92)">
         {/* Shadow */}
-        <ellipse cx="20" cy="26" rx="35" ry="6" fill="rgba(0,0,0,0.15)" />
+        <ellipse cx="25" cy="26" rx="38" ry="5" fill="rgba(0,0,0,0.18)" />
+
+        {/* Tail - long curved */}
+        <path d="M 52,6 Q 60,3 68,-2 Q 74,-6 78,-2" stroke="#4A7A20" strokeWidth="3.5" fill="none" strokeLinecap="round" />
+        <path d="M 52,6 Q 60,3 68,-2 Q 74,-6 78,-2" stroke="rgba(255,255,255,0.08)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+
+        {/* Hind legs */}
+        <path d="M 38,13 L 42,20 L 44,18 M 42,20 L 40,22" stroke="#4A7A20" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 44,11 L 48,18 L 50,16 M 48,18 L 46,20" stroke="#4A7A20" strokeWidth="2" strokeLinecap="round" fill="none" />
 
         {/* Body - organic bezier curve */}
-        <path d="M 8,2 Q 18,-2 32,0 Q 45,2 50,8 Q 48,12 38,14 Q 25,16 12,14 Q 8,12 8,2" fill="url(#r1_lizard_body)" />
+        <path d="M 6,4 Q 14,-3 28,-2 Q 42,0 50,6 Q 52,10 44,14 Q 30,17 14,15 Q 6,13 6,4" fill="url(#r1_lizard_body)" />
 
         {/* Belly highlight */}
-        <path d="M 12,8 Q 20,7 35,8 Q 42,9 48,10" fill="url(#r1_lizard_belly)" opacity="0.6" />
+        <path d="M 10,9 Q 20,7 35,8 Q 44,10 50,11" stroke="url(#r1_lizard_belly)" strokeWidth="3" fill="none" opacity="0.5" strokeLinecap="round" />
 
-        {/* Scale texture pattern */}
-        <path d="M 12,4 Q 14,2 16,4" stroke="#558B2F" strokeWidth="0.8" fill="none" opacity="0.5" />
-        <path d="M 20,3 Q 22,1 24,3" stroke="#558B2F" strokeWidth="0.8" fill="none" opacity="0.5" />
-        <path d="M 28,2 Q 30,0 32,2" stroke="#558B2F" strokeWidth="0.8" fill="none" opacity="0.5" />
-        <path d="M 36,3 Q 38,2 40,4" stroke="#558B2F" strokeWidth="0.8" fill="none" opacity="0.5" />
+        {/* Scale texture pattern - rows */}
+        <g stroke="#4A7A20" strokeWidth="0.6" fill="none" opacity="0.45">
+          <path d="M 12,3 Q 13,1.5 14,3" /><path d="M 17,2 Q 18,0.5 19,2" /><path d="M 22,1 Q 23,-0.5 24,1" />
+          <path d="M 27,0 Q 28,-1.5 29,0" /><path d="M 32,0 Q 33,-1.5 34,0" /><path d="M 37,1 Q 38,-0.5 39,1" />
+          <path d="M 42,3 Q 43,1.5 44,3" />
+          <path d="M 14,7 Q 15,5.5 16,7" /><path d="M 20,6 Q 21,4.5 22,6" /><path d="M 26,5 Q 27,3.5 28,5" />
+          <path d="M 32,5 Q 33,3.5 34,5" /><path d="M 38,6 Q 39,4.5 40,6" />
+          <path d="M 16,11 Q 17,9.5 18,11" /><path d="M 24,10 Q 25,8.5 26,10" /><path d="M 32,10 Q 33,8.5 34,10" />
+        </g>
 
-        {/* Head */}
-        <circle cx="3" cy="5" r="5" fill="url(#r1_lizard_body)" />
+        {/* Dorsal ridge */}
+        <path d="M 12,0 Q 20,-4 28,-3 Q 38,-2 46,2" stroke="#558B2F" strokeWidth="1" fill="none" opacity="0.3" strokeDasharray="1.5,2" />
 
-        {/* Eye - full anatomy */}
-        <circle cx="0" cy="2" r="2.5" fill="#f0f9ff" />
-        <circle cx="0" cy="2" r="1.8" fill="#1e3a5f" />
-        <circle cx="0" cy="2" r="1.2" fill="#0c1829" />
-        <circle cx="0.2" cy="2" r="1" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.3" />
-        <circle cx="1" cy="1" r="0.8" fill="white" opacity="0.85" />
-        <circle cx="-0.6" cy="2.8" r="0.35" fill="white" opacity="0.4" />
+        {/* Front legs with toes */}
+        <path d="M 12,12 L 8,19 L 6,17 M 8,19 L 10,21" stroke="#4A7A20" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 20,14 L 16,21 L 14,19 M 16,21 L 18,23" stroke="#4A7A20" strokeWidth="2" strokeLinecap="round" fill="none" />
 
-        {/* Legs */}
-        <path d="M 10,10 L 8,18" strokeWidth="2" stroke="#558B2F" strokeLinecap="round" fill="none" />
-        <path d="M 18,12 L 16,20" strokeWidth="2" stroke="#558B2F" strokeLinecap="round" fill="none" />
-        <path d="M 35,13 L 37,21" strokeWidth="2" stroke="#558B2F" strokeLinecap="round" fill="none" />
-        <path d="M 43,11 L 45,19" strokeWidth="2" stroke="#558B2F" strokeLinecap="round" fill="none" />
+        {/* Head - wider triangular */}
+        <path d="M 6,4 Q 2,0 -2,2 Q -5,5 -3,8 Q 0,10 6,8 Z" fill="url(#r1_lizard_body)" />
+        {/* Head highlight */}
+        <path d="M 2,2 Q -1,3 0,6" stroke="rgba(255,255,255,0.12)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
 
-        {/* Tail - curved */}
-        <path d="M 52,6 Q 62,2 70,-4" stroke="#558B2F" strokeWidth="3" fill="none" strokeLinecap="round" />
+        {/* Eye - detailed with vertical slit pupil */}
+        <circle cx="-1" cy="3" r="2.8" fill="#D4E060" />
+        <ellipse cx="-1" cy="3" rx="0.8" ry="2.2" fill="#1a1a0a" />
+        <circle cx="-1" cy="3" r="2.5" fill="none" stroke="rgba(100,120,20,0.4)" strokeWidth="0.4" />
+        <circle cx="0" cy="2" r="0.7" fill="white" opacity="0.85" />
+        <circle cx="-1.5" cy="3.8" r="0.3" fill="white" opacity="0.35" />
+
+        {/* Nostril */}
+        <circle cx="-4" cy="4" r="0.6" fill="rgba(0,0,0,0.4)" />
+
+        {/* Tongue flick */}
+        <path d="M -5,5.5 L -9,4 M -5,5.5 L -9,7" stroke="#E84040" strokeWidth="0.7" strokeLinecap="round" fill="none" />
       </g>
 
-      {/* BIRD on right */}
-      <g transform="translate(165, 85)">
-        {/* Shadow */}
-        <ellipse cx="0" cy="28" rx="20" ry="5" fill="rgba(0,0,0,0.12)" />
+      {/* ROBIN/BIRD perched on branch on right */}
+      <g transform="translate(178, 100)">
+        {/* Shadow on branch */}
+        <ellipse cx="0" cy="25" rx="12" ry="3" fill="rgba(0,0,0,0.12)" />
+
+        {/* Tail feathers - long and detailed */}
+        <path d="M -4,12 Q -10,22 -14,28" stroke="#8B4513" strokeWidth="2.5" strokeLinecap="round" fill="none" />
+        <path d="M -2,12 Q -6,22 -8,27" stroke="#A0522D" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 0,12 Q -2,22 -3,26" stroke="#8B4513" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+
+        {/* Legs gripping branch */}
+        <path d="M -3,14 L -4,22 M -4,22 L -7,24 M -4,22 L -1,24 M -4,22 L -4,25" stroke="#555" strokeWidth="1.2" strokeLinecap="round" fill="none" />
+        <path d="M 3,14 L 4,22 M 4,22 L 1,24 M 4,22 L 7,24 M 4,22 L 4,25" stroke="#555" strokeWidth="1.2" strokeLinecap="round" fill="none" />
 
         {/* Body */}
-        <ellipse cx="0" cy="0" rx="13" ry="11" fill="url(#r1_bird_body)" />
+        <ellipse cx="0" cy="2" rx="12" ry="13" fill="url(#r1_bird_body)" />
 
-        {/* Wing feathers - detailed strokes */}
-        <path d="M -12,-3 Q -18,-8 -22,-5 Q -20,-2 -12,-1" fill="#D84315" opacity="0.8" />
-        <path d="M -18,-6 L -19,-9" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
-        <path d="M -14,-7 L -15,-10" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
-        <path d="M -10,-6 L -11,-9" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
+        {/* Breast patch */}
+        <ellipse cx="2" cy="5" rx="7" ry="8" fill="url(#r1_bird_breast)" opacity="0.85" />
 
-        <path d="M 12,-3 Q 18,-8 22,-5 Q 20,-2 12,-1" fill="#D84315" opacity="0.8" />
-        <path d="M 18,-6 L 19,-9" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
-        <path d="M 14,-7 L 15,-10" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
-        <path d="M 10,-6 L 11,-9" stroke="#B71C1C" strokeWidth="0.8" strokeLinecap="round" />
+        {/* Wing - folded with feather detail */}
+        <path d="M -8,0 Q -14,-2 -16,4 Q -14,10 -8,12 Q -4,10 -4,4 Z" fill="#B5651D" />
+        <path d="M -12,2 L -14,6" stroke="#8B4513" strokeWidth="0.6" opacity="0.5" />
+        <path d="M -10,0 L -12,4" stroke="#8B4513" strokeWidth="0.6" opacity="0.5" />
+        <path d="M -8,2 L -10,6" stroke="#8B4513" strokeWidth="0.6" opacity="0.5" />
+        {/* Wing edge highlight */}
+        <path d="M -8,0 Q -14,-2 -16,4" stroke="rgba(255,255,255,0.12)" strokeWidth="0.8" fill="none" />
 
         {/* Head */}
-        <circle cx="3" cy="-8" r="6" fill="url(#r1_bird_head)" />
+        <circle cx="4" cy="-10" r="7" fill="url(#r1_bird_head)" />
+        {/* Head highlight */}
+        <circle cx="2" cy="-13" r="3" fill="rgba(255,255,255,0.06)" />
 
-        {/* Beak - tapered */}
-        <path d="M 8,-8 L 15,-8 L 11,-6 Z" fill="#FFB300" stroke="#FFA500" strokeWidth="0.5" />
+        {/* Beak - refined two-part */}
+        <path d="M 10,-10 L 17,-10 L 14,-8.5 Z" fill="#FFB300" />
+        <path d="M 10,-10 L 17,-10.5 L 14,-11 Z" fill="#E6A200" />
+        <line x1="10" y1="-10" x2="17" y2="-10.2" stroke="rgba(0,0,0,0.15)" strokeWidth="0.3" />
 
-        {/* Eye - full anatomy */}
-        <circle cx="6" cy="-10" r="2.2" fill="#f0f9ff" />
-        <circle cx="6" cy="-10" r="1.6" fill="#1e3a5f" />
-        <circle cx="6" cy="-10" r="1" fill="#0c1829" />
-        <circle cx="6" cy="-10" r="1.5" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.3" />
-        <circle cx="7" cy="-11" r="0.7" fill="white" opacity="0.85" />
-        <circle cx="5" cy="-9" r="0.3" fill="white" opacity="0.4" />
+        {/* Eye - detailed with catch light */}
+        <circle cx="7" cy="-12" r="2.5" fill="#f0f9ff" />
+        <circle cx="7" cy="-12" r="1.8" fill="#2C1810" />
+        <circle cx="7" cy="-12" r="1.1" fill="#0a0a0a" />
+        <circle cx="8" cy="-13" r="0.8" fill="white" opacity="0.9" />
+        <circle cx="6.2" cy="-11.2" r="0.3" fill="white" opacity="0.4" />
+        {/* Eye ring */}
+        <circle cx="7" cy="-12" r="2.3" fill="none" stroke="rgba(100,80,60,0.3)" strokeWidth="0.4" />
 
-        {/* Tail feathers */}
-        <path d="M 0,10 L -8,18 M 4,10 L 0,18 M -4,10 L -4,18" stroke="#FF6F00" strokeWidth="2" strokeLinecap="round" fill="none" />
+        {/* Feather texture on body */}
+        <g stroke="rgba(180,100,30,0.3)" strokeWidth="0.5" fill="none">
+          <path d="M -2,-4 Q 0,-5 2,-4" /><path d="M 2,-2 Q 4,-3 6,-2" />
+          <path d="M -4,0 Q -2,-1 0,0" /><path d="M 4,0 Q 6,-1 8,0" />
+          <path d="M -2,4 Q 0,3 2,4" /><path d="M 4,6 Q 6,5 8,6" />
+        </g>
       </g>
 
-      {/* Labels with dashed pointer lines */}
-      <line x1="35" y1="50" x2="35" y2="75" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="35" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="#333">{l.reptile}</text>
-
-      <line x1="165" y1="55" x2="165" y2="75" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="165" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="white">{l.bird}</text>
+      {/* Small grass tufts */}
+      <g stroke="#7AB55C" strokeWidth="1.2" strokeLinecap="round" fill="none" opacity="0.5">
+        <path d="M 130 148 Q 132 140 134 148" />
+        <path d="M 220 144 Q 222 136 224 144" />
+        <path d="M 5 150 Q 7 143 9 150" />
+      </g>
     </svg>
   );
 }
 
 function SVG_R2(lang: string = "en"): React.ReactNode {
-  const lb: Record<string,{feathers:string;bones:string;eagle:string}> = {
-    en:{feathers:"Feathers 🪶",bones:"Hollow bones 🦴",eagle:"Eagle 🦅"},
-    de:{feathers:"Federn 🪶",bones:"Hohle Knochen 🦴",eagle:"Adler 🦅"},
-    hu:{feathers:"Tollak 🪶",bones:"Üreges csontok 🦴",eagle:"Sas 🦅"},
-    ro:{feathers:"Pene 🪶",bones:"Oase goale 🦴",eagle:"Vultur 🦅"},
-  };
-  const l = lb[lang]||lb.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        {/* Sky gradient */}
         <linearGradient id="r2_sky_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#1E88E5" />
-          <stop offset="100%" stopColor="#81C3FF" />
+          <stop offset="0%" stopColor="#0D47A1" />
+          <stop offset="30%" stopColor="#1565C0" />
+          <stop offset="70%" stopColor="#42A5F5" />
+          <stop offset="100%" stopColor="#90CAF9" />
         </linearGradient>
-
-        {/* Eagle gradients */}
         <linearGradient id="r2_eagle_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="50%" stopColor="#7B3F00" />
-          <stop offset="100%" stopColor="#5D2E0F" />
+          <stop offset="0%" stopColor="#6D4C2A" />
+          <stop offset="40%" stopColor="#5D3E1F" />
+          <stop offset="100%" stopColor="#3E2510" />
         </linearGradient>
-        <linearGradient id="r2_eagle_belly" x1="0%" y1="0%" x2="0%" y2="100%">
+        <linearGradient id="r2_eagle_head" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#F5F5DC" />
+          <stop offset="100%" stopColor="#E8D8B0" />
+        </linearGradient>
+        <linearGradient id="r2_wing_top" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B6340" />
+          <stop offset="50%" stopColor="#6D4C2A" />
+          <stop offset="100%" stopColor="#4A3018" />
+        </linearGradient>
+        <linearGradient id="r2_wing_under" x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0%" stopColor="#D4A574" />
-          <stop offset="100%" stopColor="#B8956A" />
+          <stop offset="100%" stopColor="#B08050" />
         </linearGradient>
-        <linearGradient id="r2_eagle_wing" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#654321" />
-          <stop offset="100%" stopColor="#4A3728" />
-        </linearGradient>
-
-        {/* Cloud */}
-        <linearGradient id="r2_cloud" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgba(255,255,255,0.9)" />
-          <stop offset="100%" stopColor="rgba(200,220,240,0.6)" />
+        <radialGradient id="r2_sun_glow" cx="85%" cy="10%">
+          <stop offset="0%" stopColor="rgba(255,235,150,0.4)" />
+          <stop offset="60%" stopColor="rgba(255,235,150,0.08)" />
+          <stop offset="100%" stopColor="rgba(255,235,150,0)" />
+        </radialGradient>
+        <linearGradient id="r2_mtn" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#5C6BC0" />
+          <stop offset="100%" stopColor="#3949AB" />
         </linearGradient>
       </defs>
 
       {/* Sky background */}
       <rect width="240" height="160" fill="url(#r2_sky_bg)" />
 
-      {/* Subtle clouds */}
-      <ellipse cx="50" cy="30" rx="30" ry="12" fill="url(#r2_cloud)" opacity="0.4" />
-      <ellipse cx="200" cy="40" rx="35" ry="15" fill="url(#r2_cloud)" opacity="0.3" />
+      {/* Sun glow */}
+      <circle cx="210" cy="20" r="60" fill="url(#r2_sun_glow)" />
 
-      {/* EAGLE centered */}
-      <g transform="translate(120, 75)">
-        {/* Shadow on ground */}
-        <ellipse cx="0" cy="32" rx="28" ry="6" fill="rgba(0,0,0,0.15)" />
+      {/* Distant mountains */}
+      <path d="M 0 145 L 30 100 L 55 120 L 80 85 L 105 110 L 130 90 L 155 105 L 180 80 L 210 100 L 240 88 L 240 160 L 0 160 Z" fill="url(#r2_mtn)" opacity="0.25" />
 
-        {/* Left wing - spread wide with feather detail */}
-        <path d="M -14,-4 Q -24,-12 -32,-8 Q -28,-2 -14,2" fill="url(#r2_eagle_wing)" />
-        {/* Left feather strokes */}
-        <path d="M -24,-10 L -25,-14" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-        <path d="M -20,-11 L -21,-15" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-        <path d="M -16,-10 L -17,-14" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-
-        {/* Right wing - spread wide with feather detail */}
-        <path d="M 14,-4 Q 24,-12 32,-8 Q 28,-2 14,2" fill="url(#r2_eagle_wing)" />
-        {/* Right feather strokes */}
-        <path d="M 24,-10 L 25,-14" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-        <path d="M 20,-11 L 21,-15" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-        <path d="M 16,-10 L 17,-14" stroke="#3F2517" strokeWidth="0.9" strokeLinecap="round" />
-
-        {/* Main body - organic shape */}
-        <ellipse cx="0" cy="2" rx="14" ry="12" fill="url(#r2_eagle_body)" />
-
-        {/* Belly highlight */}
-        <path d="M -8,0 Q 0,1 8,0" fill="url(#r2_eagle_belly)" opacity="0.5" />
-
-        {/* Head - prominent */}
-        <circle cx="4" cy="-10" r="7" fill="#5D2E0F" />
-
-        {/* Beak - curved tapered shape */}
-        <path d="M 10,-10 Q 18,-10 20,-9 L 12,-7 Z" fill="#FFB300" stroke="#FFA500" strokeWidth="0.5" />
-
-        {/* Cere (base of beak) */}
-        <ellipse cx="9" cy="-9.5" rx="3" ry="2" fill="#FFB300" opacity="0.7" />
-
-        {/* Eye - full anatomy with all details */}
-        <circle cx="7" cy="-12" r="2.6" fill="#f0f9ff" />
-        <circle cx="7" cy="-12" r="1.9" fill="#1e3a5f" />
-        <circle cx="7" cy="-12" r="1.2" fill="#0c1829" />
-        <circle cx="7" cy="-12" r="1.8" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.35" />
-        <circle cx="8.2" cy="-13" r="0.85" fill="white" opacity="0.85" />
-        <circle cx="6" cy="-11" r="0.4" fill="white" opacity="0.4" />
-
-        {/* Talons - three claws */}
-        <path d="M -4,14 L -4,22" strokeWidth="2" stroke="#FFB300" strokeLinecap="round" />
-        <path d="M 0,15 L 0,23" strokeWidth="2" stroke="#FFB300" strokeLinecap="round" />
-        <path d="M 4,14 L 4,22" strokeWidth="2" stroke="#FFB300" strokeLinecap="round" />
-
-        {/* Tail feathers below body */}
-        <path d="M -6,12 L -10,22" strokeWidth="2" stroke="#654321" strokeLinecap="round" />
-        <path d="M 6,12 L 10,22" strokeWidth="2" stroke="#654321" strokeLinecap="round" />
+      {/* Clouds - soft layered */}
+      <g opacity="0.3">
+        <ellipse cx="40" cy="35" rx="28" ry="8" fill="white" />
+        <ellipse cx="55" cy="33" rx="18" ry="7" fill="white" />
+        <ellipse cx="25" cy="37" rx="15" ry="5" fill="white" />
+      </g>
+      <g opacity="0.2">
+        <ellipse cx="195" cy="50" rx="22" ry="7" fill="white" />
+        <ellipse cx="210" cy="48" rx="15" ry="6" fill="white" />
       </g>
 
-      {/* Labels with dashed pointer lines */}
-      <line x1="85" y1="120" x2="105" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="65" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white" opacity="0.8">{l.feathers}</text>
+      {/* EAGLE - large, soaring with wings spread */}
+      <g transform="translate(120, 72)">
+        {/* Left wing - broad with individual flight feather shapes */}
+        <path d="M -12,-2 Q -30,-15 -55,-20 Q -65,-22 -70,-18 Q -65,-12 -50,-8 Q -35,-4 -12,2 Z" fill="url(#r2_wing_top)" />
+        {/* Wing underside visible strip */}
+        <path d="M -12,2 Q -35,-2 -50,-6 Q -60,-8 -65,-10 Q -60,-5 -45,0 Q -30,4 -12,4 Z" fill="url(#r2_wing_under)" opacity="0.6" />
+        {/* Primary feather tips */}
+        <g stroke="#3E2510" strokeWidth="0.7" fill="none" opacity="0.6">
+          <path d="M -55,-18 L -60,-22" /><path d="M -50,-17 L -55,-22" />
+          <path d="M -45,-15 L -49,-20" /><path d="M -60,-18 L -66,-22" />
+          <path d="M -65,-18 L -72,-20" />
+        </g>
+        {/* Wing feather barring */}
+        <g stroke="rgba(0,0,0,0.12)" strokeWidth="0.5" fill="none">
+          <path d="M -20,-8 Q -30,-12 -40,-14" />
+          <path d="M -18,-4 Q -28,-8 -38,-10" />
+          <path d="M -16,0 Q -26,-4 -36,-6" />
+        </g>
 
-      <line x1="155" y1="120" x2="135" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="175" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white" opacity="0.8">{l.bones}</text>
+        {/* Right wing - mirror */}
+        <path d="M 12,-2 Q 30,-15 55,-20 Q 65,-22 70,-18 Q 65,-12 50,-8 Q 35,-4 12,2 Z" fill="url(#r2_wing_top)" />
+        <path d="M 12,2 Q 35,-2 50,-6 Q 60,-8 65,-10 Q 60,-5 45,0 Q 30,4 12,4 Z" fill="url(#r2_wing_under)" opacity="0.6" />
+        <g stroke="#3E2510" strokeWidth="0.7" fill="none" opacity="0.6">
+          <path d="M 55,-18 L 60,-22" /><path d="M 50,-17 L 55,-22" />
+          <path d="M 45,-15 L 49,-20" /><path d="M 60,-18 L 66,-22" />
+          <path d="M 65,-18 L 72,-20" />
+        </g>
+        <g stroke="rgba(0,0,0,0.12)" strokeWidth="0.5" fill="none">
+          <path d="M 20,-8 Q 30,-12 40,-14" />
+          <path d="M 18,-4 Q 28,-8 38,-10" />
+          <path d="M 16,0 Q 26,-4 36,-6" />
+        </g>
 
-      <text x="120" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="white">{l.eagle}</text>
+        {/* Body */}
+        <ellipse cx="0" cy="2" rx="12" ry="10" fill="url(#r2_eagle_body)" />
+        {/* Belly lighter stripe */}
+        <ellipse cx="0" cy="4" rx="6" ry="5" fill="#B08050" opacity="0.4" />
+
+        {/* Tail feathers - fanned */}
+        <path d="M -6,12 Q -10,20 -14,28" stroke="#5D3E1F" strokeWidth="2.5" strokeLinecap="round" fill="none" />
+        <path d="M -2,12 Q -4,22 -6,30" stroke="#6D4C2A" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 2,12 Q 2,22 2,30" stroke="#5D3E1F" strokeWidth="2" strokeLinecap="round" fill="none" />
+        <path d="M 6,12 Q 8,22 10,28" stroke="#6D4C2A" strokeWidth="2.5" strokeLinecap="round" fill="none" />
+        {/* White tail band */}
+        <path d="M -12,24 Q 0,26 10,24" stroke="rgba(255,255,255,0.3)" strokeWidth="1.5" fill="none" />
+
+        {/* Head - white (bald eagle style) */}
+        <circle cx="2" cy="-8" r="7" fill="url(#r2_eagle_head)" />
+        {/* Head feather texture */}
+        <g stroke="rgba(180,170,140,0.3)" strokeWidth="0.4" fill="none">
+          <path d="M -2,-12 Q 0,-13 2,-12" /><path d="M 0,-11 Q 2,-12 4,-11" />
+          <path d="M -3,-10 Q -1,-11 1,-10" />
+        </g>
+
+        {/* Brow ridge - fierce */}
+        <path d="M 3,-11 Q 5,-12 7,-11.5" stroke="#8B7355" strokeWidth="0.8" fill="none" />
+
+        {/* Eye - intense golden */}
+        <circle cx="5" cy="-9" r="2.4" fill="#FFFDE0" />
+        <circle cx="5" cy="-9" r="1.7" fill="#D4A017" />
+        <circle cx="5" cy="-9" r="1" fill="#1a1a00" />
+        <circle cx="6" cy="-10" r="0.7" fill="white" opacity="0.9" />
+        <circle cx="4.3" cy="-8.3" r="0.3" fill="white" opacity="0.35" />
+
+        {/* Beak - large hooked */}
+        <path d="M 8,-8 Q 12,-7 16,-8 Q 18,-10 16,-11 L 8,-10 Z" fill="#FFB300" />
+        <path d="M 8,-10 L 16,-11 Q 18,-10 16,-8 L 14,-9 Z" fill="#E6A200" />
+        {/* Beak hook tip */}
+        <path d="M 16,-8 Q 17,-7 16,-6" stroke="#D49B00" strokeWidth="0.8" fill="none" />
+        {/* Cere */}
+        <ellipse cx="8.5" cy="-9.5" rx="2.5" ry="1.5" fill="#FFD54F" opacity="0.6" />
+
+        {/* Talons - powerful yellow claws */}
+        <g stroke="#E6A200" strokeWidth="1.5" strokeLinecap="round" fill="none">
+          <path d="M -3,12 L -5,16 L -7,14" />
+          <path d="M 0,12 L 0,17 L -2,15" />
+          <path d="M 3,12 L 5,16 L 7,14" />
+        </g>
+      </g>
+
+      {/* Feather detail floating - indicates hollow bone lightness */}
+      <g opacity="0.4">
+        <path d="M 20 120 Q 22 115 20 110 Q 18 105 20 100" stroke="#8B6340" strokeWidth="1" fill="none" />
+        <path d="M 20 100 Q 22 105 24 103 M 20 100 Q 18 105 16 103" stroke="#8B6340" strokeWidth="0.5" fill="none" />
+        <path d="M 215 130 Q 217 125 215 120 Q 213 115 215 110" stroke="#8B6340" strokeWidth="1" fill="none" />
+      </g>
     </svg>
   );
 }
