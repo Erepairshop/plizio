@@ -50,7 +50,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k5/pronomen", "wortarten_k5/relativpronomen"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-pronoun-explorer",  icon: "🪐", label: { de: "Pronomen-Quiz",     en: "Pronoun Quiz",     hu: "Névmás kvíz",       ro: "Quiz pronume"      } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 80, svgY: 440,
@@ -62,8 +62,8 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k5/praepositionen_k5", "wortarten_k5/konjunktionen_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-preposition-explorer",  icon: "🪐", label: { de: "Präpositions-Quiz", en: "Preposition Quiz", hu: "Elöljáró kvíz",     ro: "Quiz prepoziții"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m3", category: "challenge", gameType: "spell-race", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -87,7 +87,7 @@ export const K5_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-punctuation-explorer",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
       { id: "m2", category: "build",     gameType: "black-hole",  icon: "🕳️", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round",  icon: "⚡", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -99,7 +99,7 @@ export const K5_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-participle-explorer",  icon: "🪐", label: { de: "Partizip-Quiz",     en: "Participle Quiz",  hu: "Igenév kvíz",       ro: "Quiz participiu"   } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -110,7 +110,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["passiv_k5/vorgangspassiv_k5", "passiv_k5/passiv_praeteritum_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-passive-explorer",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 230, svgY: 55,
@@ -122,7 +122,7 @@ export const K5_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k5/ss_beta_k5", "rechtschreibung_k5/grossklein_k5", "wortschatz_k5/synonyme_k5", "wortschatz_k5/fremdwoerter_k5"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k5-spelling-vocab-explorer",  icon: "🪐", label: { de: "Rechtschreib-Quiz", en: "Spelling Quiz",    hu: "Helyesírás kvíz",   ro: "Quiz ortografie"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: -20,

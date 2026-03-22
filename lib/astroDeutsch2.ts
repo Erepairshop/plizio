@@ -52,7 +52,7 @@ export const K2_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k2/verben_k2", "wortarten_k2/konjugation_k2", "wortarten_k2/imperativ_k2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "verb-explorer", icon: "🏃", label: { de: "Verben entdecken",  en: "Verb Explorer",    hu: "Ige felfedező",     ro: "Explorare verbe"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 80, svgY: 440,
@@ -76,8 +76,8 @@ export const K2_ISLANDS: IslandDef[] = [
     topicKeys: ["saetze_k2/satzarten", "saetze_k2/wortstellung_k2", "saetze_k2/fragewörter_k2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-type-explorer", icon: "❓", label: { de: "Satzarten entdecken", en: "Sentence Explorer", hu: "Mondat felfedező",  ro: "Explorare propoziții" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m2", category: "build",     gameType: "speed-round", icon: "⚡", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -112,7 +112,7 @@ export const K2_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k2/doppelkonsonanten_k2", "rechtschreibung_k2/dehnungs_h", "rechtschreibung_k2/wortfamilien_k2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "spelling-explorer-2", icon: "🔡", label: { de: "Dehnungs-h entdecken", en: "Spelling Explorer II", hu: "Helyesírás II felfedező", ro: "Ortografie II" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 230, svgY: 55,
@@ -130,8 +130,8 @@ export const K2_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-field-explorer", icon: "🌍", label: { de: "Wortfelder entdecken", en: "Word Field Explorer", hu: "Szócsoport felfedező", ro: "Explorare vocabular" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m2", category: "build",     gameType: "category-rush", icon: "🏃", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 80, svgY: -20,
   },

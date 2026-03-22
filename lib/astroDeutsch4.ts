@@ -42,7 +42,7 @@ export const K4_ISLANDS: IslandDef[] = [
     topicKeys: ["kasus/nominativ", "kasus/akkusativ"],
     missions: [
       { id: "m1", category: "explore",   gameType: "kasus-explorer",  icon: "🔍", label: { de: "Kasus entdecken",   en: "Case Explorer",    hu: "Eset felfedező",    ro: "Explorer cazuri"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 160, svgY: 530,
@@ -90,7 +90,7 @@ export const K4_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k4/subjekt_praedikat_k4", "satzglieder_k4/objekte_k4", "satzglieder_k4/adverbiale_k4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-part-explorer-k4", icon: "🔍", label: { de: "Satzglieder entdecken", en: "Sentence Part Explorer", hu: "Mondatrész felfedező", ro: "Explorer propoziție" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
     svgX: 220, svgY: 195,
@@ -106,8 +106,8 @@ export const K4_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "clause-explorer", icon: "🔍", label: { de: "Satzarten entdecken", en: "Clause Explorer", hu: "Mondattípus felfedező", ro: "Explorer tipuri" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 100, svgY: 125,
   },

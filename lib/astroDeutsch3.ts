@@ -65,8 +65,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k3/adjektive_gegenteil", "wortarten_k3/steigerung_k3", "eigenschafte_adjektive/eigenschaften_k3", "synonyme_antonyme/synonyme_antonyme_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "comparison-explorer",     icon: "📊", label: { de: "Steigerung entdecken", en: "Discover Comparison", hu: "Fokozás felfedezése", ro: "Descoperă gradarea" } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
-      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -77,7 +77,7 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k3/subjekt", "satzglieder_k3/praedikat", "satzglieder_k3/satzbau_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-parts-explorer", icon: "🔎", label: { de: "Satzglieder entdecken", en: "Discover Sentence Parts", hu: "Mondatrészek felfedezése", ro: "Descoperă propoziția" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 90, svgY: 270,
@@ -125,7 +125,7 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k3/dehnung_h_k3", "rechtschreibung_k3/komma_aufzaehlung_k3", "kleidung/kleidung_k3", "wortschatz_alltag_k3/essen_k3", "wortschatz_alltag_k3/zuhause_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "punctuation-explorer",    icon: "🔡", label: { de: "Zeichensetzung entdecken", en: "Discover Punctuation", hu: "Írásjelek felfedezése", ro: "Descoperă punctuația" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 80, svgY: -20,
@@ -143,7 +143,7 @@ export const K3_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",         icon: "🌟", label: { de: "Große Entdeckung",      en: "Big Discovery",    hu: "Nagy felfedezés",       ro: "Marea descoperire"  } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "sentence-scramble", icon: "🔀", label: { de: "Satz-Puzzle", en: "Sentence Scramble", hu: "Mondat keverő", ro: "Amestec propoziții" } },
     ],
     svgX: 190, svgY: -90,
