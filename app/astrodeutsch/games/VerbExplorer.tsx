@@ -87,20 +87,26 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul verbelor",
     round1Title: "Găsește verbul!",
     round1Hint: "Atinge cuvântul de acțiune (verbul) din fiecare propoziție!",
+    round1Teach: "Un verb este un cuvânt de acțiune — ceva pe care îl FACI! Ca spielen (a juca), laufen (a fugi), lesen (a citi), singen (a cânta). Verbele sunt cuvintele 'de fapt' care arată ce se întâmplă într-o propoziție!",
     round2Title: "Conjugarea verbelor",
     round2Hint: "Vezi cum se schimbă verbele — atinge fiecare formă ca s-o auzi!",
+    round2Teach: "Verbele își schimbă terminația în funcție de CINE face acțiunea. 'Ich spiele' este diferit de 'du spielst' sau 'er spielt'. Pronumele ne spune ce formă trebuie să folosim!",
     round2Discovery: "💡 Verbele sunt cuvinte de acțiune! În limba germană, verbul se schimbă în funcție de cine face acțiunea: ich spiele, du spielst, er/sie spielt.",
     round3Title: "Completează verbul!",
     round3Hint: "Ce formă a verbului se potrivește aici?",
+    round3Teach: "Privește subiectul (cine face acțiunea) și alege forma corectă a verbului. Dacă spune 'du', trebuie forma du. Dacă spune 'ich', trebuie forma ich. Potrivește-le!",
     round4Title: "Comenzi!",
     round4Hint: "Atinge pentru a învăța Imperativul — a da comenzi!",
+    round4Teach: "Când dai o comandă, verbul se schimbă din nou! Aceasta se numește Imperativ. 'Lauf!' înseamnă fugi! 'Spiel!' înseamnă joacă! Acestea sunt formele de comandă ale verbelor.",
     round5Title: "Provocare verbe",
     round5Hint: "Alege forma corectă a verbului!",
+    round5Teach: "Acum știi totul despre verbe! Hai să testez ce ai învățat. Ține minte: verbele se schimbă în funcție de subiect, și comenzile au propria lor formă specială!",
     well: "Excelent!",
     next: "Înainte",
     finish: "Gata!",
     correct: "Corect!",
     tapToLearn: "Atinge pentru a vedea!",
+    gotIt: "Am înțeles!",
   },
 };
 
@@ -531,12 +537,13 @@ const VerbExplorer = memo(function VerbExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
 
   // Error tracking
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -549,11 +556,11 @@ const VerbExplorer = memo(function VerbExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} wrongCountRef={wrongCountRef} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
         </motion.div>
       </AnimatePresence>
     </div>

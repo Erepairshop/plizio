@@ -333,9 +333,25 @@ function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 3: Irregular Präteritum flip cards ─────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [flipped, setFlipped] = useState<Set<number>>(new Set());
   const allFlipped = flipped.size >= IRREG_PRATERITUM.length;
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -377,11 +393,15 @@ function Round4({
   lbl,
   wrongCountRef,
   onNext,
+  showTeach,
+  setShowTeach,
 }: {
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -403,6 +423,22 @@ function Round4({
       }
     }, 800);
   };
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
