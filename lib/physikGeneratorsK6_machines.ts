@@ -527,6 +527,226 @@ export function generatePulleyTyping(lang: string = "en", seed: number = 0): Cur
   ];
 }
 
+// ─── 3. WHEEL AND AXLE ────────────────────────────────────────────────────
+
+const WHEEL_AXLE_DATA = {
+  examples: [
+    { en: "a steering wheel", de: "ein Lenkrad", hu: "kormánykerék", ro: "o volan" },
+    { en: "a screwdriver", de: "ein Schraubendreher", hu: "csavarhúzó", ro: "o șurubelniță" },
+    { en: "bicycle pedals", de: "Fahrradpedale", hu: "kerékpár pedálok", ro: "pedale de bicicletă" },
+    { en: "a door knob", de: "ein Türgriff", hu: "ajtó gomb", ro: "un pom de ușă" },
+    { en: "a car wheel", de: "ein Autorad", hu: "autókerék", ro: "o roată de mașină" },
+    { en: "a pencil sharpener", de: "ein Bleistiftspitzer", hu: "ceruzahegyező", ro: "un ascuțitor de creion" },
+    { en: "a water faucet", de: "ein Wasserhahn", hu: "vízcsap", ro: "un robinet de apă" },
+    { en: "a drill bit with handle", de: "ein Bohrer mit Griff", hu: "fúró fogantyúval", ro: "o broca cu mâner" },
+    { en: "a gear and wheel", de: "ein Zahnrad und Rad", hu: "fogaskerék és kerék", ro: "o roată dințată și o roată" },
+    { en: "a roller skate wheel", de: "ein Rollschuh-Rad", hu: "görkorcsolya kerék", ro: "o roată de patine" },
+  ],
+
+  torqueExamples: [
+    { en: "turning a nut with a wrench", de: "eine Mutter mit einem Schlüssel drehen", hu: "anya fordítása kulccsal", ro: "rotirea unei piuliță cu o cheie" },
+    { en: "opening a jar", de: "ein Glas öffnen", hu: "üveg megnyitása", ro: "deschiderea unui borcan" },
+    { en: "steering a car", de: "ein Auto steuern", hu: "autó irányítása", ro: "dirijarea unei mașini" },
+  ],
+
+  properties: [
+    { en: "radius", de: "Radius", hu: "sugár", ro: "rază" },
+    { en: "mechanical advantage", de: "mechanischer Vorteil", hu: "mechanikai előny", ro: "avantaj mecanic" },
+    { en: "torque (rotational force)", de: "Drehmoment (Drehkraft)", hu: "forgatónyomaték (forgási erő)", ro: "cuplu (forță de rotație)" },
+    { en: "rotation", de: "Drehung", hu: "forgatás", ro: "rotație" },
+  ],
+};
+
+export function generateWheelAxleMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is a wheel and axle?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Was ist ein Rad und eine Achse?", "What is a wheel and axle?", "Mi az a kerék és tengely?", "Ce este o roată și o axă?", lang),
+      q4("Eine einfache Maschine, die aus einem großen Rad besteht, das an einer kleineren Achse befestigt ist", "A simple machine consisting of a large wheel attached to a smaller axle", "Egy egyszerű gép, amely egy nagy kerékből áll, amely egy kisebb tengelyre van szerelve", "O mașină simplă formată dintr-o roată mare atașată la o axă mai mică", lang),
+      [
+        q4("Ein Seil um eine Rolle", "A rope around a pulley", "Kötél egy csiga körül", "O frânghie în jurul unui scripete", lang),
+        q4("Zwei feste Drehpunkte", "Two fixed pivot points", "Két rögzített támaszpont", "Două puncte de sprijin fixe", lang),
+        q4("Ein geneigtes Flugzeug", "An inclined plane", "Egy ferde sík", "Un plan înclinat", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of a wheel and axle?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(WHEEL_AXLE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4(`Welches ist ein Beispiel eines Rads und einer Achse?`, `Which is an example of a wheel and axle?`, `Melyik egy kerék és tengely példája?`, `Care este un exemplu de roată și axă?`, lang),
+      example[lang as "en"],
+      WHEEL_AXLE_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is mechanical advantage in a wheel and axle?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Was ist der mechanische Vorteil eines Rads und einer Achse?", "What is the mechanical advantage of a wheel and axle?", "Mi a kerék és tengely mechanikai előnye?", "Care este avantajul mecanic al unei roți și axe?", lang),
+      q4("Das Verhältnis des Radius des Rads zum Radius der Achse", "The ratio of the wheel's radius to the axle's radius", "A kerék sugarának és a tengely sugarának aránya", "Raportul dintre raza roții și raza axei", lang),
+      [
+        q4("Die Größe des Rads", "The size of the wheel", "A kerék mérete", "Dimensiunea roții", lang),
+        q4("Die Länge der Achse", "The length of the axle", "A tengely hossza", "Lungimea axei", lang),
+        q4("Die Drehgeschwindigkeit", "The rotation speed", "A forgás sebessége", "Viteza de rotație", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "A larger wheel provides..."
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Ein größeres Rad bietet...", "A larger wheel provides...", "Egy nagyobb kerék biztosít...", "O roată mai mare oferă...", lang),
+      q4("einen größeren mechanischen Vorteil", "a greater mechanical advantage", "nagyobb mechanikai előnyt", "un avantaj mecanic mai mare", lang),
+      [
+        q4("einen kleineren mechanischen Vorteil", "a smaller mechanical advantage", "kisebb mechanikai előnyt", "un avantaj mecanic mai mic", lang),
+        q4("keinen Unterschied", "no difference", "nincs különbség", "nicio diferență", lang),
+        q4("eine schnellere Rotation", "faster rotation", "gyorsabb forgatást", "rotație mai rapidă", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What is torque?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Was ist Drehmoment (Torque)?", "What is torque?", "Mit az a forgatónyomaték?", "Ce este cuplul?", lang),
+      q4("Die Kraft, die etwas um einen Punkt dreht", "The force that causes rotation around a point", "Az erő, amely egy pont körül valami dolog forog", "Forța care face ceva să se rotească în jurul unui punct", lang),
+      [
+        q4("Die Bewegung in einer geraden Linie", "Movement in a straight line", "Egyenes vonalú mozgás", "Mișcare într-o linie dreaptă", lang),
+        q4("Die Widerstandskraft gegen Bewegung", "Resistance force against movement", "Ellenállás az erővel szemben", "Forță de rezistență împotriva mișcării", lang),
+        q4("Die Geschwindigkeit der Rotation", "The speed of rotation", "A forgás sebessége", "Viteza de rotație", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "Torque equals force times..."
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Drehmoment ist gleich Kraft mal...", "Torque equals force times...", "Forgatónyomaték egyenlő erő szorozva...", "Cuplul este egal cu forța înmulțită cu...", lang),
+      q4("Entfernung vom Drehpunkt", "distance from the pivot point", "a forgatási pont távolsága", "distanța de la punctul de pivot", lang),
+      [
+        q4("der Größe des Objekts", "the size of the object", "az objektum mérete", "dimensiunea obiectului", lang),
+        q4("der Rotationsgeschwindigkeit", "the rotation speed", "a forgás sebessége", "viteza de rotație", lang),
+        q4("dem Gewicht des Objekts", "the weight of the object", "az objektum súlya", "greutatea obiectului", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "How can you increase mechanical advantage?"
+  for (let i = 0; i < 6; i++) {
+    const approaches = [
+      q4("Das Rad vergrößern", "Make the wheel larger", "A kerék nagyobbá tétele", "Faceți roata mai mare", lang),
+      q4("Die Achse verkleinern", "Make the axle smaller", "A tengely kicsinyítése", "Faceți axa mai mica", lang),
+      q4("Das Rad schneller drehen", "Rotate the wheel faster", "A kerék gyorsabb forgatása", "Rotiți roata mai repede", lang),
+    ];
+
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Wie kann man den mechanischen Vorteil erhöhen?", "How can you increase mechanical advantage?", "Hogyan lehet a mechanikai előnyt növelni?", "Cum poți crește avantajul mecanic?", lang),
+      approaches[0],
+      approaches.slice(1),
+      rng
+    ));
+  }
+
+  // Template 8: "The longer the radius..."
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "wheel_axle",
+      q4("Je länger der Radius des Rads, desto...", "The longer the radius of the wheel, the...", "Minél hosszabb a kerék sugara, annál...", "Cu cât mai lung este raza roții, cu atât mai...", lang),
+      q4("weniger Kraft ist erforderlich", "less force is required", "kevesebb erő szükséges", "mai puțin efort este necesar", lang),
+      [
+        q4("mehr Kraft ist erforderlich", "more force is required", "több erő szükséges", "mai mult efort este necesar", lang),
+        q4("gleich viel Kraft ist erforderlich", "the same force is required", "ugyanannyi erő szükséges", "aceeași forță este necesară", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateWheelAxleTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("machines", "wheel_axle",
+      q4("Was ist eine Rad-und-Achse-Maschine?", "What is a wheel and axle machine?", "Mit az a kerék és tengely gép?", "Ce este o mașină cu roată și axă?", lang),
+      ["simple machine", "einfache Maschine", "egyszerű gép", "mașină simplă", "wheel", "Rad", "kerék", "roată", "axle", "Achse", "tengely", "axă"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Gib drei Beispiele für Rad-und-Achse-Systeme.", "Give three examples of wheel and axle systems.", "Add meg három kerék és tengely rendszer példát.", "Dă trei exemple de sisteme roată și axă.", lang),
+      ["steering wheel", "Lenkrad", "kormánykerék", "volan", "screwdriver", "Schraubendreher", "csavarhúzó", "șurubelniță", "bicycle pedal", "Fahrradpedal", "kerékpár pedál", "pedală", "door knob", "Türgriff", "ajtó gomb", "pom", "car wheel", "Autorad", "autókerék", "roată"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Wie wird die mechanischen Vorteil berechnet?", "How is mechanical advantage calculated?", "Hogyan számolják a mechanikai előnyt?", "Cum se calculează avantajul mecanic?", lang),
+      ["radius ratio", "Radiusverhältnis", "sugár arány", "raport rază", "wheel radius", "Radradius", "kerék sugara", "rază roată", "axle radius", "Achsenradius", "tengely sugara", "rază axă", "divide"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Was ist Drehmoment (Torque)?", "What is torque?", "Mit az a forgatónyomaték?", "Ce este cuplul?", lang),
+      ["rotational force", "Drehkraft", "forgási erő", "forță de rotație", "force times distance", "Kraft mal Entfernung", "erő szorozva távolsággal", "forță înmulțită cu distanță", "rotation", "Drehung", "forgatás", "rotație"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Schreibe die Formel für Drehmoment auf.", "Write the formula for torque.", "Írj fel képletet a forgatónyomatékra.", "Scrie formula pentru cuplu.", lang),
+      ["torque", "Drehmoment", "forgatónyomaték", "cuplu", "force", "Kraft", "erő", "forță", "distance", "Entfernung", "távolság", "distanță", "T = F × d", "τ = F × r"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Warum hat ein Lenkrad einen großen Durchmesser?", "Why does a steering wheel have a large diameter?", "Miért van nagy átmérője a kormánykeréknek?", "De ce are un volan un diametru mare?", lang),
+      ["mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "less force", "weniger Kraft", "kevesebb erő", "mai puțin efort", "easier", "einfacher", "könnyebb", "mai ușor", "larger radius"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Was ist der Unterschied zwischen Rad und Achse?", "What is the difference between wheel and axle?", "Mi a különbség a kerék és a tengely között?", "Care este diferența dintre roată și axă?", lang),
+      ["wheel larger", "Rad größer", "kerék nagyobb", "roată mai mare", "axle smaller", "Achse kleiner", "tengely kisebb", "axă mai mică", "attached", "befestigt", "rögzített", "atașat"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Beschreibe, wie ein Schraubendreher ein Rad-und-Achse-System ist.", "Describe how a screwdriver is a wheel and axle system.", "Írj le, hogyan csavarhúzó egy kerék és tengely rendszer.", "Descrie cum șurubelniță este un sistem roată și axă.", lang),
+      ["large handle", "großer Griff", "nagy fogantyú", "mâner mare", "small shaft", "kleine Welle", "kis tengely", "ax mic", "mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "rotate"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Wie nutzt ein Fahrrad die Rad-und-Achse-Maschine?", "How does a bicycle use the wheel and axle machine?", "Hogyan használja a kerékpár a kerék és tengely gépet?", "Cum folosește bicicleta mașina roată și axă?", lang),
+      ["pedals", "Pedale", "pedálok", "pedale", "crank", "Kurbel", "manivella", "cotă", "gear", "Zahnrad", "fogaskerék", "dințată", "rotation", "force"]
+    ),
+
+    createTyping("machines", "wheel_axle",
+      q4("Was passiert, wenn der Radius des Rads größer wird?", "What happens when the radius of the wheel becomes larger?", "Mit történik, ha a kerék sugara nagyobb lesz?", "Ce se întâmplă când raza roții devine mai mare?", lang),
+      ["less force needed", "weniger Kraft erforderlich", "kevesebb erő szükséges", "mai puțin efort necesar", "greater advantage", "größerer Vorteil", "nagyobb előny", "avantaj mai mare", "easier"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const MACHINES_GENERATORS = {
@@ -543,6 +763,13 @@ export const MACHINES_GENERATORS = {
   ],
   pulley_mcq: (lang: string = "en", seed: number = 0) => generatePulleyMCQ(lang, seed),
   pulley_typing: (lang: string = "en", seed: number = 0) => generatePulleyTyping(lang, seed),
+
+  wheel_axle: (lang: string = "en", seed: number = 0) => [
+    ...generateWheelAxleMCQ(lang, seed),
+    ...generateWheelAxleTyping(lang, seed)
+  ],
+  wheel_axle_mcq: (lang: string = "en", seed: number = 0) => generateWheelAxleMCQ(lang, seed),
+  wheel_axle_typing: (lang: string = "en", seed: number = 0) => generateWheelAxleTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
