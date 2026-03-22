@@ -24,12 +24,14 @@ const LABELS: Record<string, Record<string, string>> = {
     // Round 1 — Weather Types
     round1Title: "What Weather Is This?",
     round1Hint: "Look at the emoji and choose the correct weather type!",
+    round1Teach: "There are many types of weather: ☀️ sunny and warm, 🌧️ rainy and wet, ❄️ snowy and cold, 🌤️ cloudy, 💨 windy, and ⛈️ stormy with thunder and lightning. We check the weather to know what to wear!",
 
     // Round 2 — What to wear
     round2Title: "What Should You Wear?",
     round2HintRain: "It's raining outside. What do you need?",
     round2HintSnow: "It's snowing outside. What should you put on?",
     round2HintSunny: "It's sunny and hot. What do you wear?",
+    round2Teach: "We dress for the weather! When it rains, we wear a raincoat and boots. When it's cold, we wear a warm jacket, hat and gloves. When it's sunny, we wear sunscreen and light clothes.",
 
     // Round 3 — Seasons
     round3Title: "Which Season?",
@@ -37,6 +39,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round3HintFlowers: "Which season do flowers bloom and birds sing?",
     round3HintHot: "Which season has the hottest days?",
     round3HintLeaves: "Which season do leaves turn orange and fall?",
+    round3Teach: "A year has 4 seasons with different weather: 🌸 Spring (warm, flowers bloom), ☀️ Summer (hot, long days), 🍂 Autumn (cool, leaves fall), ❄️ Winter (cold, snow). Each season brings different clothes and activities!",
 
     // Round 4 — Hot or cold
     round4Title: "Hot or Cold?",
@@ -44,10 +47,14 @@ const LABELS: Record<string, Record<string, string>> = {
     round4HintSun: "What's it like on a sunny summer day?",
     round4HintRain: "What's a rainy autumn day usually like?",
     round4HintFrost: "What happens to water when it's very cold outside?",
+    round4Teach: "Temperature tells us how hot or cold it is! Water freezes at 0°C and boils at 100°C. A nice day is about 20-25°C. Very hot days are above 30°C, and freezing days are below 0°C.",
 
     // Round 5 — Quick Review
     round5Title: "Quick Weather Review",
     round5Hint: "Show what you know!",
+    round5Teach: "Let's see what you remember about weather, seasons, and temperature!",
+
+    gotIt: "Got it! →",
 
     // Weather names (answer keys used in code + displayed)
     sunny: "Sunny ☀️",
@@ -89,26 +96,33 @@ const LABELS: Record<string, Record<string, string>> = {
 
     round1Title: "Welches Wetter ist das?",
     round1Hint: "Schau dir das Emoji an und wähle den richtigen Wettertyp!",
+    round1Teach: "Es gibt viele Arten von Wetter: ☀️ sonnig und warm, 🌧️ regnerisch und nass, ❄️ verschneit und kalt, 🌤️ bewölkt, 💨 windig und ⛈️ Gewitter mit Donner und Blitzschlag. Wir schauen auf das Wetter, um zu wissen, was wir anziehen!",
 
     round2Title: "Was ziehst du an?",
     round2HintRain: "Es regnet draußen. Was brauchst du?",
     round2HintSnow: "Es schneit draußen. Was ziehst du an?",
     round2HintSunny: "Die Sonne scheint und es ist heiß. Was trägst du?",
+    round2Teach: "Wir kleiden uns je nach Wetter an! Wenn es regnet, tragen wir einen Regenmantel und Stiefel. Wenn es kalt ist, tragen wir eine warme Jacke, Mütze und Handschuhe. Wenn es sonnig ist, tragen wir Sonnencreme und leichte Kleidung.",
 
     round3Title: "Welche Jahreszeit?",
     round3HintSnow: "In welcher Jahreszeit gibt es Schnee und Frost?",
     round3HintFlowers: "In welcher Jahreszeit blühen Blumen und singen Vögel?",
     round3HintHot: "Welche Jahreszeit hat die heißesten Tage?",
     round3HintLeaves: "In welcher Jahreszeit werden die Blätter orange und fallen?",
+    round3Teach: "Ein Jahr hat 4 Jahreszeiten mit unterschiedlichem Wetter: 🌸 Frühling (warm, Blüten), ☀️ Sommer (heiß, lange Tage), 🍂 Herbst (kühl, Blätter fallen), ❄️ Winter (kalt, Schnee). Jede Jahreszeit bringt andere Kleidung und Aktivitäten!",
 
     round4Title: "Warm oder kalt?",
     round4HintSnow: "Wie ist die Temperatur, wenn es schneit?",
     round4HintSun: "Wie ist es an einem sonnigen Sommertag?",
     round4HintRain: "Wie ist ein regnerischer Herbsttag meistens?",
     round4HintFrost: "Was passiert mit Wasser, wenn es sehr kalt ist?",
+    round4Teach: "Temperatur sagt uns, wie heiß oder kalt es ist! Wasser gefriert bei 0°C und kocht bei 100°C. Ein schöner Tag ist etwa 20-25°C. Sehr heiße Tage sind über 30°C, und eiskalte Tage sind unter 0°C.",
 
     round5Title: "Schnelle Wetter-Wiederholung",
     round5Hint: "Zeig, was du weißt!",
+    round5Teach: "Mal sehen, was du über Wetter, Jahreszeiten und Temperatur gelernt hast!",
+
+    gotIt: "Verstanden! →",
 
     sunny: "Sonnig ☀️",
     rainy: "Regnerisch 🌧️",
@@ -146,26 +160,33 @@ const LABELS: Record<string, Record<string, string>> = {
 
     round1Title: "Milyen időjárás ez?",
     round1Hint: "Nézd meg az emojit és válaszd a helyes időjárást!",
+    round1Teach: "Sokféle időjárás létezik: ☀️ napos és meleg, 🌧️ esős és nedves, ❄️ havas és hideg, 🌤️ felhős, 💨 szeles és ⛈️ viharos villámlásokkal és dörgésekkel. Az időjárást figyeljük, hogy tudjuk, mit kell felvenni!",
 
     round2Title: "Mit vegyél fel?",
     round2HintRain: "Odakint esik az eső. Mire van szükséged?",
     round2HintSnow: "Odakint havazik. Mit vegyél fel?",
     round2HintSunny: "Süt a nap és meleg van. Mit viselsz?",
+    round2Teach: "Az időjárásnak megfelelően öltözödünk! Amikor esik, esőkabátot és csizmát viselünk. Amikor hideg van, meleg kabátot, sapkát és kesztyűt viselünk. Amikor napos van, naptejet és könnyű ruhákat viselünk.",
 
     round3Title: "Melyik évszak?",
     round3HintSnow: "Melyik évszakban van hó és fagy?",
     round3HintFlowers: "Melyik évszakban nyílnak virágok és énekelnek madarak?",
     round3HintHot: "Melyik évszaknak vannak a legmelegebb napjai?",
     round3HintLeaves: "Melyik évszakban sárgulnak és hullanak a levelek?",
+    round3Teach: "Az év 4 évszakból áll különböző időjárással: 🌸 tavasz (meleg, virágok nyílnak), ☀️ nyár (forró, hosszú napok), 🍂 ősz (hűvös, levelek hulnak), ❄️ tél (hideg, hó). Minden évszak más ruhákat és tevékenységeket hoz!",
 
     round4Title: "Meleg vagy hideg?",
     round4HintSnow: "Milyen a hőmérséklet, amikor havazik?",
     round4HintSun: "Milyen egy napsütéses nyári napon?",
     round4HintRain: "Milyen általában egy esős őszi nap?",
     round4HintFrost: "Mi történik a vízzel, amikor nagyon hideg van odakint?",
+    round4Teach: "A hőmérséklet megmutatja, hogy meleg vagy hideg van! A víz 0°C-nál fagyott és 100°C-nál forr. Egy szép nap körülbelül 20-25°C. Nagyon meleg napok 30°C felett vannak, és fagy napok 0°C alatt.",
 
     round5Title: "Gyors időjárás-összefoglaló",
     round5Hint: "Mutasd meg, mit tudsz!",
+    round5Teach: "Nézzük meg, mit tanultál az időjárásról, évszakokról és hőmérsékletről!",
+
+    gotIt: "Értettem! →",
 
     sunny: "Napos ☀️",
     rainy: "Esős 🌧️",
@@ -203,26 +224,33 @@ const LABELS: Record<string, Record<string, string>> = {
 
     round1Title: "Ce vreme este aceasta?",
     round1Hint: "Privește emoji-ul și alege tipul corect de vreme!",
+    round1Teach: "Există multe tipuri de vreme: ☀️ însorit și cald, 🌧️ ploios și umed, ❄️ nins și frig, 🌤️ noros, 💨 vântos și ⛈️ furtunos cu tunet și fulger. Urmărim vremea ca să știm ce să purtăm!",
 
     round2Title: "Ce să îmbraci?",
     round2HintRain: "Afară plouă. De ce ai nevoie?",
     round2HintSnow: "Afară ninge. Ce să îmbraci?",
     round2HintSunny: "Soarele strălucește și e cald. Ce porți?",
+    round2Teach: "Ne îmbrăcăm în funcție de vreme! Când plouă, purtăm impermeabil și cizme. Când e frig, purtăm geacă caldă, pălărie și mănuși. Când e însorit, purtăm cremă de soare și haine ușoare.",
 
     round3Title: "Ce anotimp?",
     round3HintSnow: "În ce anotimp există zăpadă și ger?",
-    round3HintFlowers: "În ce anotimp înfloresc florile și cântă păsările?",
+    round3HintFlowers: "În ce anotimp înfloresc florile și cântă păsurile?",
     round3HintHot: "Ce anotimp are cele mai călduroase zile?",
     round3HintLeaves: "În ce anotimp frunzele devin portocalii și cad?",
+    round3Teach: "Anul are 4 anotimpuri cu vremuri diferite: 🌸 primăvara (cald, înfloresc florile), ☀️ vara (fierbinte, zile lungi), 🍂 toamna (răcoare, cad frunzele), ❄️ iarna (frig, zăpadă). Fiecare anotimp aduce alte haine și activități!",
 
     round4Title: "Cald sau frig?",
     round4HintSnow: "Ce temperatură este când ninge?",
     round4HintSun: "Cum este într-o zi însorită de vară?",
     round4HintRain: "Cum este de obicei o zi ploioasă de toamnă?",
     round4HintFrost: "Ce se întâmplă cu apa când e foarte frig afară?",
+    round4Teach: "Temperatura ne spune cum de cald sau frig este! Apa se îngheață la 0°C și fierbe la 100°C. O zi frumoasă este aproximativ 20-25°C. Zilele foarte calde sunt peste 30°C, și zilele îngheț sunt sub 0°C.",
 
     round5Title: "Recapitulare rapidă",
     round5Hint: "Arată ce știi!",
+    round5Teach: "Hai să vedem ce ai învățat despre vreme, anotimpuri și temperatură!",
+
+    gotIt: "Am înțeles! →",
 
     sunny: "Însorit ☀️",
     rainy: "Ploios 🌧️",
@@ -299,6 +327,9 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const [round, setRound] = useState(0);
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
+
+  // Teaching phase state
+  const [showTeach, setShowTeach] = useState(true);
 
   // Per-round answer state (reset on advance)
   const [qIndex, setQIndex] = useState(0);
@@ -385,6 +416,7 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
         setQIndex(0);
         setSelectedKey(null);
         setLocked(false);
+        setShowTeach(true);
       }
     }
   }, [round, qIndex, r1Questions.length, r2Questions.length, r3Questions.length, r4Questions.length, r5Questions.length, onDone]);
@@ -569,11 +601,32 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
       </div>
 
       <AnimatePresence mode="wait">
-        <motion.div key={`${round}-${qIndex}`}
+        <motion.div key={`${round}-${qIndex}-${showTeach}`}
           initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
 
-          {round === 0 && (
+          {/* Teaching phase for all rounds */}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-xl font-black text-white text-center">{round === 0 ? lbl.round1Title : round === 1 ? lbl.round2Title : round === 2 ? lbl.round3Title : round === 3 ? lbl.round4Title : lbl.round5Title}</p>
+                <button onClick={() => speak((round === 0 ? lbl.round1Title : round === 1 ? lbl.round2Title : round === 2 ? lbl.round3Title : round === 3 ? lbl.round4Title : lbl.round5Title) + ". " + (round === 0 ? lbl.round1Teach : round === 1 ? lbl.round2Teach : round === 2 ? lbl.round3Teach : round === 3 ? lbl.round4Teach : lbl.round5Teach))}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{round === 0 ? lbl.round1Teach : round === 1 ? lbl.round2Teach : round === 2 ? lbl.round3Teach : round === 3 ? lbl.round4Teach : lbl.round5Teach}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
+
+          {!showTeach && round === 0 && (
             <>
               <div className="flex items-center gap-2 justify-center">
                 <p className="text-2xl font-black text-white text-center">{lbl.round1Title}</p>
@@ -585,7 +638,7 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
               {renderMCQ(r1Questions, qIndex, lbl.round1Title, false)}
             </>
           )}
-          {round === 1 && (
+          {!showTeach && round === 1 && (
             <>
               <div className="flex items-center gap-2 justify-center">
                 <p className="text-2xl font-black text-white text-center">{lbl.round2Title}</p>
@@ -597,7 +650,7 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
               {renderMCQ(r2Questions, qIndex, lbl.round2Title, false)}
             </>
           )}
-          {round === 2 && (
+          {!showTeach && round === 2 && (
             <>
               <div className="flex items-center gap-2 justify-center">
                 <p className="text-2xl font-black text-white text-center">{lbl.round3Title}</p>
@@ -609,7 +662,7 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
               {renderMCQ(r3Questions, qIndex, lbl.round3Title, false)}
             </>
           )}
-          {round === 3 && (
+          {!showTeach && round === 3 && (
             <>
               <div className="flex items-center gap-2 justify-center">
                 <p className="text-2xl font-black text-white text-center">{lbl.round4Title}</p>
@@ -621,7 +674,7 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
               {renderBinary()}
             </>
           )}
-          {round === 4 && (
+          {!showTeach && round === 4 && (
             <>
               <div className="flex items-center gap-2 justify-center">
                 <p className="text-2xl font-black text-white text-center">{lbl.round5Title}</p>

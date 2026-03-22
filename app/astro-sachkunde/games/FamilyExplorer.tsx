@@ -17,14 +17,20 @@ const LABELS = {
     // Round titles & hints
     r1Title: "Family Members",
     r1Hint: "Who is this? Pick the right family member.",
+    r1Teach: "A family has many members! Mother, father, brothers, sisters, grandparents, aunts, uncles, and cousins. Every family is different and special.",
     r2Title: "Family Relationships",
     r2Hint: "Choose the correct answer.",
+    r2Teach: "Your mother's mother is your grandmother. Your father's brother is your uncle. Your aunt's children are your cousins. These are family relationships!",
     r3Title: "Polite or Rude?",
     r3Hint: "Is this behavior polite or rude?",
+    r3Teach: "Good manners are important! We say 'please' when asking, 'thank you' when receiving, 'sorry' when we make a mistake, and 'excuse me' when we interrupt.",
     r4Title: "Where Does It Happen?",
     r4Hint: "Where do we do this? Pick the right room.",
+    r4Teach: "A home has different rooms! The kitchen is for cooking, the bedroom for sleeping, the bathroom for washing, and the living room for relaxing together.",
     r5Title: "Quick Review",
     r5Hint: "Answer the question.",
+    r5Teach: "Let's review what you learned about family, manners, and home!",
+    gotIt: "Got it! →",
     // Family member names (keys used as answer values)
     mother: "Mother",
     father: "Father",
@@ -93,14 +99,20 @@ const LABELS = {
   de: {
     r1Title: "Familienmitglieder",
     r1Hint: "Wer ist das? Wähle das richtige Familienmitglied.",
+    r1Teach: "Eine Familie hat viele Mitglieder! Mutter, Vater, Brüder, Schwestern, Großeltern, Tanten, Onkel und Cousins/Cousinen. Jede Familie ist unterschiedlich und besonders.",
     r2Title: "Verwandtschaft",
     r2Hint: "Wähle die richtige Antwort.",
+    r2Teach: "Die Mutter deiner Mutter ist deine Großmutter. Der Bruder deines Vaters ist dein Onkel. Die Kinder deiner Tante sind deine Cousins/Cousinen. Das sind Verwandtschaftsbeziehungen!",
     r3Title: "Höflich oder unhöflich?",
     r3Hint: "Ist dieses Verhalten höflich oder unhöflich?",
+    r3Teach: "Gute Manieren sind wichtig! Wir sagen 'bitte' beim Fragen, 'danke' beim Bekommen, 'entschuldigung' bei einem Fehler und 'Entschuldigung' wenn wir unterbrechen.",
     r4Title: "Wo passiert das?",
     r4Hint: "Wo machen wir das? Wähle das richtige Zimmer.",
+    r4Teach: "Ein Zuhause hat verschiedene Zimmer! Die Küche ist zum Kochen, das Schlafzimmer zum Schlafen, das Badezimmer zum Waschen und das Wohnzimmer zum gemeinsamen Entspannen.",
     r5Title: "Schnelle Wiederholung",
     r5Hint: "Beantworte die Frage.",
+    r5Teach: "Lass uns zusammenfassen, was du über Familie, Manieren und Zuhause gelernt hast!",
+    gotIt: "Verstanden! →",
     mother: "Mutter",
     father: "Vater",
     sister: "Schwester",
@@ -161,14 +173,20 @@ const LABELS = {
   hu: {
     r1Title: "Családtagok",
     r1Hint: "Ki ez? Válaszd a helyes családtagot!",
+    r1Teach: "Egy családnak sok tagja van! Anya, apa, testvérek, nagyszülők, nagynénik, nagybácsik és unokatestvérek. Minden család különböző és különleges.",
     r2Title: "Rokoni kapcsolatok",
     r2Hint: "Válaszd a helyes választ!",
+    r2Teach: "Az anyád anyja a nagymamád. Az apád fivére a nagybácsid. A nagynénid gyermekei az unokatestvéreid. Ezek a rokoni kapcsolatok!",
     r3Title: "Udvarias vagy durva?",
     r3Hint: "Ez a viselkedés udvarias vagy durva?",
+    r3Teach: "A jó mód fontos! Azt mondjuk 'kérem' ha kérünk, 'köszönöm' ha kapunk, 'elnézést' ha hibázunk és 'elnézést' ha félbeszakítunk.",
     r4Title: "Hol történik?",
     r4Hint: "Hol tesszük ezt? Válaszd a helyes szobát!",
+    r4Teach: "Az otthonnak különböző szobái vannak! A konyha a főzéshez, a hálószoba az alváshoz, a fürdőszoba a mosáshoz és a nappali a közös pihenéshez.",
     r5Title: "Gyors ismétlés",
     r5Hint: "Válaszolj a kérdésre!",
+    r5Teach: "Nézzük meg, mit tanultál a családról, a jó modorról és az otthonról!",
+    gotIt: "Értettem! →",
     mother: "Anya",
     father: "Apa",
     sister: "Nővér",
@@ -229,14 +247,20 @@ const LABELS = {
   ro: {
     r1Title: "Membrii familiei",
     r1Hint: "Cine este acesta? Alege membrul corect al familiei.",
+    r1Teach: "O familie are mulți membri! Mamă, tată, frați, surori, bunici, mătuși, unchi și veri. Fiecare familie este diferită și deosebită.",
     r2Title: "Relații de familie",
     r2Hint: "Alege răspunsul corect.",
+    r2Teach: "Mama mamei tale este bunica ta. Fratele tatălui tău este unchiul tău. Copiii mătușei tale sunt verilor tăi. Acestea sunt relații de familie!",
     r3Title: "Politicos sau nepoliticos?",
     r3Hint: "Este acest comportament politicos sau nepoliticos?",
+    r3Teach: "Bunele maniere sunt importante! Spunem 'te rog' când cerem, 'mulțumesc' când primim, 'scuze' când greșim și 'scuze' când întrerupem.",
     r4Title: "Unde se întâmplă?",
     r4Hint: "Unde facem asta? Alege camera potrivită.",
+    r4Teach: "O casă are camere diferite! Bucătăria este pentru gătit, dormitorul pentru dormit, baia pentru spălat și livingul pentru relaxare împreună.",
     r5Title: "Recapitulare rapidă",
     r5Hint: "Răspunde la întrebare.",
+    r5Teach: "Hai să recapitulăm ce ai învățat despre familie, maniere și casă!",
+    gotIt: "Am înțeles! →",
     mother: "Mamă",
     father: "Tată",
     sister: "Soră",
@@ -340,6 +364,9 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
 
   // ── Round index ──
   const [round, setRound] = useState(0);
+
+  // ── Teaching phase state ──
+  const [showTeach, setShowTeach] = useState(true);
 
   // ── Per-question state ──
   const [qIndex, setQIndex] = useState(0);

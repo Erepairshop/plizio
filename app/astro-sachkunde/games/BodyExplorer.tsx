@@ -13,14 +13,20 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     round1Title: "Body Parts",
     round1Hint: "Tap on the highlighted body part!",
+    round1Teach: "Our body has many parts! We have a head, arms, legs, hands and feet. Inside we have a heart that pumps blood, lungs for breathing, and a brain for thinking.",
     round2Title: "Match the Sense",
     round2Hint: "Which organ do we use for this?",
+    round2Teach: "We have 5 senses to explore the world! Eyes for seeing, ears for hearing, nose for smelling, tongue for tasting, and skin for touching.",
     round3Title: "What Can We Do?",
     round3Hint: "What can we do with this organ?",
+    round3Teach: "Our senses help us experience the world — eyes help us see colors and shapes, ears help us hear sounds, and our nose and tongue help us enjoy food!",
     round4Title: "Healthy Habits",
     round4Hint: "Is this healthy or unhealthy?",
+    round4Teach: "To stay healthy, we should brush our teeth twice a day, wash our hands before eating, eat fruits and vegetables, sleep enough, and exercise every day!",
     round5Title: "Quick Review",
     round5Hint: "Answer the question!",
+    round5Teach: "Let's review what you learned about your body, senses, and staying healthy!",
+    gotIt: "Got it! →",
     next: "Next",
     finish: "Finish",
     correct: "Correct!",
@@ -62,14 +68,20 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     round1Title: "Körperteile",
     round1Hint: "Tippe auf den markierten Körperteil!",
+    round1Teach: "Unser Körper hat viele Teile! Wir haben einen Kopf, Arme, Beine, Hände und Füße. Innen haben wir ein Herz, das Blut pumpt, Lungen zum Atmen und ein Gehirn zum Denken.",
     round2Title: "Welches Organ?",
     round2Hint: "Welches Organ brauchen wir dafür?",
+    round2Teach: "Wir haben 5 Sinne, um die Welt zu erkunden! Augen zum Sehen, Ohren zum Hören, Nase zum Riechen, Zunge zum Schmecken und Haut zum Anfassen.",
     round3Title: "Was können wir damit tun?",
     round3Hint: "Was können wir mit diesem Organ?",
+    round3Teach: "Unsere Sinne helfen uns, die Welt zu erleben — Augen helfen uns Farben und Formen zu sehen, Ohren helfen uns Geräusche zu hören und Nase und Zunge helfen uns Essen zu genießen!",
     round4Title: "Gesunde Gewohnheiten",
     round4Hint: "Ist das gesund oder ungesund?",
+    round4Teach: "Um gesund zu bleiben, sollten wir täglich zweimal Zähne putzen, vor dem Essen Hände waschen, Obst und Gemüse essen, genug schlafen und täglich Sport treiben!",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Beantworte die Frage!",
+    round5Teach: "Lass uns überprüfen, was du über deinen Körper, deine Sinne und deine Gesundheit gelernt hast!",
+    gotIt: "Verstanden! →",
     next: "Weiter",
     finish: "Fertig",
     correct: "Richtig!",
@@ -111,14 +123,20 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     round1Title: "Testrészek",
     round1Hint: "Koppints a kijelölt testrészre!",
+    round1Teach: "A testünknek sok része van! Van fejünk, karjaink, lábaink, kezünk és lábfejünk. Benne van egy szíve, amely vért pumpál, tüdeje, amely lélegzik, és agya, amely gondolkodik.",
     round2Title: "Melyik szervünk?",
     round2Hint: "Melyik szervünkkel érzékeljük?",
+    round2Teach: "5 érzékszerveink vannak a világ felfedezésére! Szemünk a látáshoz, füleink a halláshoz, orrunk a szagláshoz, nyelvünk az ízleléshez és bőrünk az érintéshez.",
     round3Title: "Mit tehetünk vele?",
     round3Hint: "Mit tehetünk ezzel a szervünkkel?",
+    round3Teach: "Az érzékszerveink segítenek a világot megtapasztalni — a szemünk segít látni a színeket és formákat, a füleink segítik hallani a hangokat, és az orrunk és nyelvünk élvezni az ételt!",
     round4Title: "Egészséges szokások",
     round4Hint: "Ez egészséges vagy egészségtelen?",
+    round4Teach: "Az egészséges maradáshoz naponta kétszer mosni kell a fogainkat, evés előtt kezet mosni, gyümölcsöt és zöldséget enni, eleget aludni és naponta sportolni!",
     round5Title: "Gyors összefoglalás",
     round5Hint: "Válaszolj a kérdésre!",
+    round5Teach: "Nézzük meg, mit tanultál a tested, érzékeidről és az egészséged megőrzéséről!",
+    gotIt: "Értem! →",
     next: "Tovább",
     finish: "Kész",
     correct: "Helyes!",
@@ -360,6 +378,7 @@ interface Props {
 function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
 
@@ -436,6 +455,7 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
       onDone(scoreRef.current, totalRef.current);
     } else {
       setRound(r => r + 1);
+      setShowTeach(true);
     }
   }, [round, onDone]);
 

@@ -15,9 +15,11 @@ interface Props {
 const L: Record<string, Record<string, string>> = {
   en: {
     r1Title: "Traffic Light", r1Hint: "What does this color mean?",
+    r1Teach: "Traffic lights keep us safe! 🔴 RED means STOP — never cross! 🟡 YELLOW means WAIT — get ready. 🟢 GREEN means GO — look both ways first, then cross carefully.",
     red: "Red", yellow: "Yellow", green: "Green",
     stop: "Stop!", caution: "Caution — get ready", go: "Go!",
     r2Title: "Safe or Unsafe?", r2Hint: "Is this behavior safe?",
+    r2Teach: "Always cross the road at a crosswalk or traffic light! Look LEFT, then RIGHT, then LEFT again. Never run across the road. Hold an adult's hand.",
     safe: "Safe", unsafe: "Unsafe",
     b_lookBoth: "Look both ways before crossing", b_runRoad: "Run across the road without looking",
     b_helmet: "Wear a helmet when cycling", b_playRoad: "Play ball on the road",
