@@ -345,12 +345,275 @@ export function generateSeriesCircuitsTyping(lang: string = "en", seed: number =
   return questions;
 }
 
+// ─── 2. PARALLEL CIRCUITS ─────────────────────────────────────────────────
+
+const PARALLEL_CIRCUITS_DATA = {
+  examples: [
+    { en: "modern home electrical wiring", de: "moderne Hausverkabelung", hu: "modern házvezetékek", ro: "cablarea electrică casei moderne" },
+    { en: "a car with multiple lights", de: "ein Auto mit mehreren Lichtern", hu: "autó több lámpával", ro: "o mașină cu mai multe lumini" },
+    { en: "a room with multiple light switches", de: "ein Zimmer mit mehreren Lichtschaltern", hu: "szoba több világítási kapcsolóval", ro: "o cameră cu mai multe comutatoare de lumină" },
+    { en: "household outlets on a wall", de: "Steckdosen an der Wand", hu: "falba szerelt aljzatok", ro: "prize electrice pe perete" },
+    { en: "a power strip with multiple plugs", de: "eine Steckdosenleiste", hu: "többszörös aljzat", ro: "o bară de alimentare cu mai multe prize" },
+    { en: "street lamps on a city block", de: "Straßenlaternen in einem Wohnblock", hu: "utcai lámpák egy házcsoportban", ro: "lămpile străzii pe un bloc de case" },
+    { en: "industrial factory machinery", de: "industrielle Fabrikmaschinen", hu: "ipari gyári gépek", ro: "mașinăria din fabrică industrială" },
+    { en: "multiple appliances in a kitchen", de: "mehrere Geräte in der Küche", hu: "több konyhai készülék", ro: "mai multe aparate în bucătărie" },
+  ],
+
+  properties: [
+    { en: "multiple paths for current", de: "mehrere Pfade für den Strom", hu: "több út az áramnak", ro: "mai multe căi pentru curent" },
+    { en: "voltage is the same on all branches", de: "Spannung ist auf allen Ästen gleich", hu: "feszültség mindenhol azonos", ro: "tensiunea este aceeași pe toate ramurile" },
+    { en: "currents add up", de: "Ströme addieren sich", hu: "áramok összeadódnak", ro: "curenții se adună" },
+    { en: "total resistance is smaller than any single resistance", de: "Gesamtwiderstand kleiner als jeder Einzelwiderstand", hu: "teljes ellenállás kisebb, mint bármelyik egyedi ellenállás", ro: "rezistența totală este mai mică decât orice rezistență individuală" },
+    { en: "if one branch breaks, others still work", de: "wenn ein Ast ausfällt, andere funktionieren noch", hu: "ha egy ág elromlik, a többiek működnek", ro: "dacă o ramură se defectează, altele funcționează încă" },
+  ],
+
+  formulas: [
+    { en: "I-total = I1 + I2 + I3", de: "I-total = I1 + I2 + I3", hu: "I-össz = I1 + I2 + I3", ro: "I-total = I1 + I2 + I3" },
+    { en: "U-total = U1 = U2 = U3", de: "U-total = U1 = U2 = U3", hu: "U-össz = U1 = U2 = U3", ro: "U-total = U1 = U2 = U3" },
+    { en: "1/R-total = 1/R1 + 1/R2 + 1/R3", de: "1/R-total = 1/R1 + 1/R2 + 1/R3", hu: "1/R-össz = 1/R1 + 1/R2 + 1/R3", ro: "1/R-total = 1/R1 + 1/R2 + 1/R3" },
+  ],
+
+  advantages: [
+    { en: "if one branch breaks, others continue to work", de: "wenn ein Ast ausfällt, andere funktionieren weiter", hu: "ha egy ág elromlik, a többi továbbra is működik", ro: "dacă o ramură se defectează, altele continuă să funcționeze" },
+    { en: "each device gets full voltage", de: "jedes Gerät erhält volle Spannung", hu: "minden eszköz teljes feszültséget kap", ro: "fiecare dispozitiv primește tensiune completă" },
+    { en: "lower total resistance", de: "niedrigerer Gesamtwiderstand", hu: "alacsonyabb teljes ellenállás", ro: "rezistență totală mai joasă" },
+    { en: "allows independent control of devices", de: "ermöglicht unabhängige Kontrolle von Geräten", hu: "lehetővé teszi az eszközök független vezérlését", ro: "permite controlul independent al dispozitivelor" },
+  ],
+
+  disadvantages: [
+    { en: "more complex to construct", de: "komplexer zu konstruieren", hu: "összetettebb a felépítésben", ro: "mai complex de construit" },
+    { en: "requires more wire", de: "benötigt mehr Draht", hu: "több drót szükséges", ro: "necesită mai mult fir" },
+    { en: "higher total current from power source", de: "höherer Gesamtstrom aus der Stromquelle", hu: "magasabb összes áram az energiaforrásból", ro: "curent total mai mare din sursă" },
+  ],
+};
+
+export function generateParallelCircuitsMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is a parallel circuit?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Was ist eine Parallelschaltung?", "What is a parallel circuit?", "Mi a párhuzamos áramkör?", "Ce este un circuit paralel?", lang),
+      q4("Ein Stromkreis mit mehreren Wegen für den Strom", "A circuit with multiple paths for current", "Egy áramkör több úttal az áramnak", "Un circuit cu mai multe căi pentru curent", lang),
+      [
+        q4("Ein Stromkreis mit nur einem Weg für den Strom", "A circuit with only one path for current", "Áramkör csak egy úttal", "Un circuit cu o singură cale pentru curent", lang),
+        q4("Ein Stromkreis ohne Spannung", "A circuit without voltage", "Feszültség nélküli áramkör", "Un circuit fără tensiune", lang),
+        q4("Ein Stromkreis, der sich nicht dreht", "A circuit that does not rotate", "Nem forog áramkör", "Un circuit care nu se rotește", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of a parallel circuit?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(PARALLEL_CIRCUITS_DATA.examples, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Welches ist ein Beispiel für eine Parallelschaltung?", "Which is an example of a parallel circuit?", "Melyik a párhuzamos áramkör példája?", "Care este un exemplu de circuit paralel?", lang),
+      q4(example.de, example.en, example.hu, example.ro, lang),
+      [
+        q4("Alte Weihnachtslichter hintereinander", "Old Christmas lights in a line", "Régi karácsonyi lámpák sorban", "Ornamente de Crăciun vechi în linie", lang),
+        q4("Ein Stromkreis mit nur einem Licht und einer Batterie", "A circuit with only one light and one battery", "Egy lámpa és egy elem áramköre", "Un circuit cu o singură lumină și o baterie", lang),
+        q4("Drei Widerstände hintereinander verbunden", "Three resistances connected in a line", "Három ellenállás sorban kötve", "Trei rezistențe conectate în linie", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 3: "In a parallel circuit, how is the voltage?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("In einer Parallelschaltung ist die Spannung überall...", "In a parallel circuit, the voltage is everywhere...", "Egy párhuzamos áramkörben a feszültség mindenhol...", "Într-un circuit paralel, tensiunea este peste tot...", lang),
+      q4("gleich", "the same", "azonos", "la fel", lang),
+      [
+        q4("verschieden", "different", "különböző", "diferit", lang),
+        q4("null", "zero", "nulla", "zero", lang),
+        q4("addiert sich", "adds up", "összeadódik", "se adună", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "What happens to total current in a parallel circuit?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Was passiert mit dem Gesamtstrom in einer Parallelschaltung?", "What happens to total current in a parallel circuit?", "Mi történik az összes árammal egy párhuzamos áramkörben?", "Ce se întâmplă cu curentul total într-un circuit paralel?", lang),
+      q4("Der Gesamtstrom ist die Summe aller Einzelströme", "Total current is the sum of all individual currents", "Az összes áram az egyedi áramok összege", "Curentul total este suma tuturor curenților individuali", lang),
+      [
+        q4("Der Gesamtstrom ist gleich jedem Einzelstrom", "Total current equals each individual current", "Az összes áram egyenlő minden egyedi árammal", "Curentul total este egal cu fiecare curent individual", lang),
+        q4("Der Gesamtstrom ist der Durchschnitt", "Total current is the average", "Az összes áram az átlag", "Curentul total este media", lang),
+        q4("Der Gesamtstrom ist immer null", "Total current is always zero", "Az összes áram mindig nulla", "Curentul total este întotdeauna zero", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What is the main advantage of a parallel circuit?"
+  for (let i = 0; i < 4; i++) {
+    const adv = pick(PARALLEL_CIRCUITS_DATA.advantages, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Was ist der Hauptvorteil einer Parallelschaltung?", "What is the main advantage of a parallel circuit?", "Mi a párhuzamos áramkör fő előnye?", "Care este principalul avantaj al unui circuit paralel?", lang),
+      q4(adv.de, adv.en, adv.hu, adv.ro, lang),
+      [
+        q4("Sie braucht weniger Strom", "It requires less current", "Kevesebb áramot igényel", "Necesită mai puțin curent", lang),
+        q4("Sie ist billiger zu bauen", "It is cheaper to build", "Olcsóbb felépíteni", "Este mai ieftin de construit", lang),
+        q4("Sie braucht weniger Draht", "It requires less wire", "Kevesebb drót szükséges", "Necesită mai puțin fir", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "What is the formula for parallel circuit resistance?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Welche Formel beschreibt den Gesamtwiderstand einer Parallelschaltung?", "Which formula describes total resistance in a parallel circuit?", "Melyik képlet írja le a teljes ellenállást egy párhuzamos áramkörben?", "Care formulă descrie rezistența totală într-un circuit paralel?", lang),
+      q4("1/R-total = 1/R1 + 1/R2 + 1/R3", "1/R-total = 1/R1 + 1/R2 + 1/R3", "1/R-össz = 1/R1 + 1/R2 + 1/R3", "1/R-total = 1/R1 + 1/R2 + 1/R3", lang),
+      [
+        q4("R-total = R1 + R2 + R3", "R-total = R1 + R2 + R3", "R-össz = R1 + R2 + R3", "R-total = R1 + R2 + R3", lang),
+        q4("R-total = (R1 + R2 + R3) / 3", "R-total = (R1 + R2 + R3) / 3", "R-össz = (R1 + R2 + R3) / 3", "R-total = (R1 + R2 + R3) / 3", lang),
+        q4("R-total = R1 × R2 × R3", "R-total = R1 × R2 × R3", "R-össz = R1 × R2 × R3", "R-total = R1 × R2 × R3", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Real-world application of parallel circuit"
+  for (let i = 0; i < 7; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "parallel_circuits",
+      q4("Welche Anwendung nutzt eine Parallelschaltung in der Praxis?", "Which application uses a parallel circuit in practice?", "Melyik alkalmazás használ párhuzamos áramkört a gyakorlatban?", "Care dintre aceste aplicații folosește un circuit paralel în practică?", lang),
+      q4("Die Elektrizität in einem modernen Haus", "Electricity in a modern home", "A modern házban az elektrizitás", "Electricitatea în o casă modernă", lang),
+      [
+        q4("Alte Weihnachtslichter", "Old Christmas lights", "Régi karácsonyi lámpák", "Ornamente de Crăciun vechi", lang),
+        q4("Eine einfache Taschenlampe mit einer Batterie", "A simple flashlight with one battery", "Egyszerű zseblámpa egy elemmel", "O lanternă simplă cu o baterie", lang),
+        q4("Ein Radio mit Serie-Batterien", "A radio with series batteries", "Egy rádió soros elemekkel", "O radio cu baterii în serie", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateParallelCircuitsTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const questions: CurriculumQuestion[] = [];
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Definiere kurz, was eine Parallelschaltung ist und nenne ihre Haupteigenschaft bezüglich der Spannung.", "Define briefly what a parallel circuit is and state its main property regarding voltage.", "Röviden határozd meg, mi a párhuzamos áramkör, és nevezd meg annak fő tulajdonságát a feszültségre vonatkozóan.", "Definește pe scurt ce este un circuit paralel și enumeră proprietatea sa principală cu privire la tensiune.", lang),
+    [
+      q4("Ein Stromkreis mit mehreren Pfaden; die Spannung ist überall gleich", "A circuit with multiple paths; the voltage is the same everywhere", "Több úttal rendelkező áramkör; a feszültség mindenhol azonos", "Un circuit cu mai multe căi; tensiunea este același peste tot", lang),
+      q4("Schaltung mit mehreren Wegen, überall gleiche Spannung", "Circuit with multiple paths, same voltage everywhere", "Több úttal rendelkező áramkör, mindenhol azonos feszültség", "Circuit cu mai multe căi, aceeași tensiune peste tot", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Nenne drei Beispiele für Parallelschaltungen aus dem Alltag.", "Name three examples of parallel circuits from everyday life.", "Nevezz meg három párhuzamos áramkörre példát a mindennapi életből.", "Numește trei exemple de circuite paralele din viața de zi cu zi.", lang),
+    [
+      q4("moderne Hausverkabelung, Auto mit mehreren Lichtern, Mehrfachsteckdosen", "modern home wiring, car with multiple lights, power strips", "modern házvezetékek, autó több lámpával, többszörös aljzatok", "cablarea electrică casei moderne, mașină cu mai multe lumini, bare de alimentare", lang),
+      q4("Hausverkabelung, Autolicht, Steckdosenleiste", "Home wiring, car lighting, power strip", "Házvezetékek, autó fénye, többszörös aljzat", "Cablare casei, iluminare auto, bară de alimentare", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Schreibe die Formel für die Gesamtspannung in einer Parallelschaltung mit drei Ästen auf.", "Write the formula for total voltage in a parallel circuit with three branches.", "Írd fel a képletet a teljes feszültséghez egy párhuzamos áramkörben három ággal.", "Scrie formula pentru tensiunea totală într-un circuit paralel cu trei ramuri.", lang),
+    [
+      q4("U-total = U1 = U2 = U3", "U-total = U1 = U2 = U3", "U-össz = U1 = U2 = U3", "U-total = U1 = U2 = U3", lang),
+      q4("Utotal = U1 = U2 = U3", "Utotal = U1 = U2 = U3", "Utotal = U1 = U2 = U3", "Utotal = U1 = U2 = U3", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Was passiert mit dem Gesamtstrom, wenn man mehr Äste zu einer Parallelschaltung hinzufügt?", "What happens to total current when you add more branches to a parallel circuit?", "Mi történik az összes árammal, ha több ágat adsz hozzá egy párhuzamos áramkörhöz?", "Ce se întâmplă cu curentul total atunci când adaugi mai multe ramuri la un circuit paralel?", lang),
+    [
+      q4("Der Gesamtstrom nimmt zu, weil der Gesamtwiderstand sinkt", "Total current increases because total resistance decreases", "Az összes áram nő, mert az összes ellenállás csökken", "Curentul total crește pentru că rezistența totală scade", lang),
+      q4("Gesamtstrom steigt mit mehr Ästen", "Total current increases with more branches", "Az összes áram több ággal nő", "Curentul total crește cu mai multe ramuri", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Wenn in einer Parallelschaltung mit drei Ästen ein Ast kaputt geht, was passiert mit den anderen Ästen?", "If one branch breaks in a parallel circuit with three branches, what happens to the other branches?", "Ha egy ág elromlik egy három ágú párhuzamos áramkörben, mi történik a többi ággal?", "Dacă o ramură se defectează într-un circuit paralel cu trei ramuri, ce se întâmplă cu celelalte ramuri?", lang),
+    [
+      q4("Die anderen Äste funktionieren weiter, weil sie unabhängige Wege sind", "Other branches continue to work because they are independent paths", "A többi ág működik tovább, mert független utak", "Alte ramuri continuă să funcționeze deoarece sunt căi independente", lang),
+      q4("Andere Äste funktionieren noch", "Other branches still work", "Más ramas siguen funcionando", "Alte ramuri funcționează incă", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Schreibe die Formel für den Gesamtwiderstand einer Parallelschaltung mit zwei Widerständen auf.", "Write the formula for total resistance in a parallel circuit with two resistances.", "Írd fel a képletet a teljes ellenálláshoz egy párhuzamos áramkörben két ellenállással.", "Scrie formula pentru rezistența totală într-un circuit paralel cu două rezistențe.", lang),
+    [
+      q4("1/R-total = 1/R1 + 1/R2", "1/R-total = 1/R1 + 1/R2", "1/R-össz = 1/R1 + 1/R2", "1/R-total = 1/R1 + 1/R2", lang),
+      q4("1/Rtotal = 1/R1 + 1/R2", "1/Rtotal = 1/R1 + 1/R2", "1/Rtotal = 1/R1 + 1/R2", "1/Rtotal = 1/R1 + 1/R2", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Nenne einen Vorteil von Parallelschaltungen im Vergleich zu Seriensch altungen.", "Name one advantage of parallel circuits compared to series circuits.", "Nevezz meg egy előnyét a párhuzamos áramköröknek a soros áramkörökhöz képest.", "Numește un avantaj al circuitelor paralele în comparație cu circuitele în serie.", lang),
+    [
+      q4("Wenn ein Gerät ausfällt, funktionieren die anderen noch; jedes Gerät bekommt volle Spannung", "If one device fails, others still work; each device gets full voltage", "Ha egy eszköz elromlik, a többi működik; minden eszköz teljes feszültséget kap", "Dacă un dispozitiv se defectează, altele funcționează încă; fiecare dispozitiv primește tensiune completă", lang),
+      q4("Ein Gerät kaputt, andere funktionieren; volle Spannung pro Gerät", "One device broken, others work; full voltage per device", "Egy eszköz elromlik, mások működnek; teljes feszültség eszközönként", "Un dispozitiv defect, altele funcționează; tensiune completă pe dispozitiv", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("In einer Parallelschaltung ist die Spannung überall die... (komplettiere)", "In a parallel circuit, the voltage everywhere is the... (complete)", "Egy párhuzamos áramkörben a feszültség mindenhol a... (egészítsd ki)", "Într-un circuit paralel, tensiunea peste tot este... (completează)", lang),
+    [
+      q4("gleiche", "same", "azonos", "aceeași", lang),
+      q4("gleich", "same", "ugyanaz", "identic", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "parallel_circuits",
+    q4("Warum werden moderne Häuser mit Parallelschaltungen verkabelt statt mit Serienverbindungen?", "Why are modern homes wired with parallel circuits instead of series connections?", "Miért szerelik a modern házakat párhuzamos áramkörrel szerelve, nem soros kötéssel?", "De ce sunt casele moderne cablate cu circuite paralele în loc de conexiuni în serie?", lang),
+    [
+      q4("Weil wenn ein Gerät ausfällt, nicht alles dunkel wird; jedes Gerät kann unabhängig gesteuert werden", "Because if one device fails, everything doesn't go dark; each device can be controlled independently", "Mert ha egy eszköz elromlik, nem sötétedik el minden; minden eszköz független vezérlésű lehet", "Pentru că dacă un dispozitiv se defectează, nu totul se-ntunecă; fiecare dispozitiv poate fi controlat independent", lang),
+      q4("Ein Fehler bricht nicht alles; unabhängige Kontrolle möglich", "One failure doesn't break everything; independent control possible", "Egy hiba nem töri el az egészet; független vezérlés lehetséges", "O defecțiune nu strică totul; control independent posibil", lang),
+    ]
+  ));
+
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
   series_circuits: (lang = "en", seed = 0) => [...generateSeriesCircuitsMCQ(lang, seed), ...generateSeriesCircuitsTyping(lang, seed)],
   series_circuits_mcq: (lang = "en", seed = 0) => generateSeriesCircuitsMCQ(lang, seed),
   series_circuits_typing: (lang = "en", seed = 0) => generateSeriesCircuitsTyping(lang, seed),
+
+  parallel_circuits: (lang = "en", seed = 0) => [...generateParallelCircuitsMCQ(lang, seed), ...generateParallelCircuitsTyping(lang, seed)],
+  parallel_circuits_mcq: (lang = "en", seed = 0) => generateParallelCircuitsMCQ(lang, seed),
+  parallel_circuits_typing: (lang = "en", seed = 0) => generateParallelCircuitsTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
