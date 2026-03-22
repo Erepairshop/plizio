@@ -41,7 +41,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#E67E22", sortRange: [1, 10],
     topicKeys: ["cell_structure", "cell_organelles", "microscope"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "cell-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -53,7 +53,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "⚗️", color: "#D35400", sortRange: [1, 10],
     topicKeys: ["cell_division", "cell_cycle"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "division-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -65,7 +65,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "⚡", color: "#27AE60", sortRange: [1, 10],
     topicKeys: ["photosynthesis_detail", "energy_transfer"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "photosynthesis-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -77,7 +77,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🌬️", color: "#16A085", sortRange: [1, 10],
     topicKeys: ["cellular_respiration"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "photosynthesis-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -89,7 +89,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#2980B9", sortRange: [1, 10],
     topicKeys: ["population", "ecological_niche", "competition"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "ecology-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
