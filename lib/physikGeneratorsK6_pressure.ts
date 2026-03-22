@@ -679,6 +679,204 @@ export function generateAtmosphericPressureTyping(lang: string = "en", seed: num
   ];
 }
 
+// ─── 4. HYDRAULICS ────────────────────────────────────────────────────────
+
+const HYDRAULICS_DATA = {
+  examples: [
+    { en: "a hydraulic lift (car jack)", de: "ein hydraulischer Heber (Wagenheber)", hu: "hidraulikus emelő (autóemelő)", ro: "un lift hidraulic (cric auto)" },
+    { en: "hydraulic brakes in cars", de: "hydraulische Bremsen in Autos", hu: "hidraulikus fékek autókban", ro: "frâne hidraulice în mașini" },
+    { en: "a hydraulic press", de: "eine hydraulische Presse", hu: "hidraulikus sajtó", ro: "o presă hidraulică" },
+    { en: "bulldozer bucket", de: "Schaufel eines Baggers", hu: "buldózer kanál", ro: "cupă buldozer" },
+    { en: "excavator arm", de: "Arm eines Baggers", hu: "dózer kar", ro: "brațul unui excavator" },
+    { en: "airplane landing gear", de: "Fahrwerk eines Flugzeugs", hu: "repülőgép alváz", ro: "tren de aterizare avion" },
+    { en: "shopping mall elevator", de: "Aufzug in Einkaufszentren", hu: "lift vásárlási központban", ro: "ascensor în mall" },
+    { en: "dentist chair", de: "Zahnarztstuhl", hu: "fogorvos szék", ro: "scaun dentist" },
+  ],
+
+  laws: [
+    { en: "Pascal's Law", de: "Pascals Gesetz", hu: "Pascal törvénye", ro: "Legea lui Pascal" },
+  ],
+
+  applications: [
+    { en: "force multiplication", de: "Kraftvervielfachung", hu: "erő szorzás", ro: "înmulțirea forței" },
+    { en: "smooth motion", de: "sanfte Bewegung", hu: "sima mozgás", ro: "mișcare netedă" },
+    { en: "precise control", de: "präzise Kontrolle", hu: "pontos vezérlés", ro: "control precis" },
+  ],
+};
+
+export function generateHydraulicsMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is Pascal's Law?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("Was ist Pascals Gesetz?", "What is Pascal's Law?", "Mit a Pascal törvénye?", "Ce este Legea lui Pascal?", lang),
+      q4("Druck, der auf eine Flüssigkeit ausgeübt wird, wird unverändert in alle Richtungen übertragen", "Pressure applied to a fluid is transmitted unchanged in all directions", "Az egy folyadékra kifejtett nyomás változatlanul átadódik minden irányban", "Presiunea aplicată unui lichid se transmite nemodificat în toate direcțiile", lang),
+      [
+        q4("Druck nimmt mit der Tiefe zu", "Pressure increases with depth", "A nyomás mélységgel nő", "Presiunea crește cu adâncimea", lang),
+        q4("Druck ist immer gleich", "Pressure is always the same", "A nyomás mindig azonos", "Presiunea este întotdeauna aceeași", lang),
+        q4("Druck nur in eine Richtung wirkt", "Pressure only acts in one direction", "A nyomás csak egy irányban hat", "Presiunea acționează doar într-o direcție", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of a hydraulic system?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(HYDRAULICS_DATA.examples, rng);
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4(`Welches ist ein Beispiel eines hydraulischen Systems?`, `Which is an example of a hydraulic system?`, `Melyik egy hidraulikus rendszer példája?`, `Care este un exemplu de sistem hidraulic?`, lang),
+      example[lang as "en"],
+      HYDRAULICS_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is the formula for hydraulic systems?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("Was ist die Formel für Hydrauliksysteme?", "What is the formula for hydraulic systems?", "Mi a hidraulikus rendszerek képlete?", "Care este formula sistemelor hidraulice?", lang),
+      q4("F1/A1 = F2/A2 (Kraft1/Fläche1 = Kraft2/Fläche2)", "F1/A1 = F2/A2 (Force1/Area1 = Force2/Area2)", "F1/A1 = F2/A2 (erő1/terület1 = erő2/terület2)", "F1/A1 = F2/A2 (forță1/arie1 = forță2/arie2)", lang),
+      [
+        q4("F1 × A1 = F2 × A2", "F1 × A1 = F2 × A2", "F1 × A1 = F2 × A2", "F1 × A1 = F2 × A2", lang),
+        q4("F1 + A1 = F2 + A2", "F1 + A1 = F2 + A2", "F1 + A1 = F2 + A2", "F1 + A1 = F2 + A2", lang),
+        q4("F1 - A1 = F2 - A2", "F1 - A1 = F2 - A2", "F1 - A1 = F2 - A2", "F1 - A1 = F2 - A2", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "How does a hydraulic lift work?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("Wie funktioniert ein hydraulischer Heber?", "How does a hydraulic lift work?", "Hogyan működik a hidraulikus emelő?", "Cum funcționează un lift hidraulic?", lang),
+      q4("Kleine Kraft auf kleine Fläche erzeugt großen Druck, der große Kraft auf große Fläche erzeugt", "Small force on small area creates high pressure, which creates large force on large area", "Kis erő kis területre nagy nyomást hoz létre, amely nagy területre nagy erőt hoz létre", "Forță mică pe arie mică creează presiune mare, care creează forță mare pe arie mare", lang),
+      [
+        q4("Große Kraft wird direkt übertragen", "Large force is directly transmitted", "Nagy erő közvetlenül átadódik", "Forța mare se transmite direct", lang),
+        q4("Es funktioniert wie ein Hebel", "It works like a lever", "Úgy működik, mint egy emelő", "Funcționează ca o pârghie", lang),
+        q4("Druck wird verringert durch die Flüssigkeit", "Pressure is reduced by the liquid", "A nyomás csökken a folyadék által", "Presiunea este redusă de lichid", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What is the main advantage of hydraulic systems?"
+  for (let i = 0; i < 5; i++) {
+    const advantages = [
+      q4("Sie können große Kräfte mit kleinen Anstrengungen erzeugen", "They can generate large forces with small effort", "Nagy erőket tudnak kis erőfeszítéssel létrehozni", "Pot genera forțe mari cu efort mic", lang),
+      q4("Sie sind einfach zu bauen", "They are easy to build", "Könnyű felépítésűek", "Sunt ușor de construit", lang),
+      q4("Sie sind sehr billig", "They are very cheap", "Nagyon olcsók", "Sunt foarte ieftine", lang),
+    ];
+
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("Was ist der Hauptvorteil von Hydrauliksystemen?", "What is the main advantage of hydraulic systems?", "Mi a hidraulikus rendszerek fő előnye?", "Care este avantajul principal al sistemelor hidraulice?", lang),
+      advantages[0],
+      advantages.slice(1),
+      rng
+    ));
+  }
+
+  // Template 6: "In a hydraulic system, if the input area is smaller..."
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("In einem Hydrauliksystem, wenn die Eingangsfläche kleiner ist, dann...", "In a hydraulic system, if the input area is smaller, then...", "Egy hidraulikus rendszerben, ha a bemeneti terület kisebb, akkor...", "Într-un sistem hidraulic, dacă aria de intrare este mai mică, atunci...", lang),
+      q4("ist die Ausgangsflache größer und die Ausgangskraft größer", "the output area is larger and the output force is larger", "a kimeneti terület nagyobb és a kimeneti erő nagyobb", "aria de ieșire este mai mare și forța de ieșire este mai mare", lang),
+      [
+        q4("ist die Ausgangskraft kleiner", "the output force is smaller", "a kimeneti erő kisebb", "forța de ieșire este mai mică", lang),
+        q4("bleibt die Kraft gleich", "the force stays the same", "az erő ugyanaz marad", "forța rămâne aceeași", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Why are hydraulic brakes effective?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "hydraulics",
+      q4("Warum sind hydraulische Bremsen wirksam?", "Why are hydraulic brakes effective?", "Miért hatékonyak a hidraulikus fékek?", "De ce sunt eficace frânele hidraulice?", lang),
+      q4("Kleine Kraft auf Pedale erzeugt großen Druck, der auf Bremsklötze wirkt", "Small force on pedal creates high pressure that acts on brake pads", "Kis erő a pedálon nagy nyomást hoz létre, amely a fékpofákra hat", "Forță mică pe pedală creează presiune mare care acționează pe garniturile de frâni", lang),
+      [
+        q4("Sie übertragen direkt die Kraft", "They directly transmit force", "Közvetlenül átadják az erőt", "Transmit direct forța", lang),
+        q4("Sie haben starke Federn", "They have strong springs", "Erős rugóik vannak", "Au arcuri puternice", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateHydraulicsTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("pressure", "hydraulics",
+      q4("Erkläre Pascals Gesetz in einfachen Worten.", "Explain Pascal's Law in simple terms.", "Magyarázd meg Pascal törvényét egyszerűen.", "Explică Legea lui Pascal în termeni simpli.", lang),
+      ["pressure", "Druck", "nyomás", "presiune", "transmitted", "übertragen", "átadódik", "transmis", "all directions", "alle Richtungen", "minden irányban", "toate direcțiile", "unchanged", "unverändert", "változatlanul", "nemodificat"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Gib drei Beispiele für hydraulische Systeme.", "Give three examples of hydraulic systems.", "Add meg három hidraulikus rendszer példát.", "Dă trei exemple de sisteme hidraulice.", lang),
+      ["car jack", "Wagenheber", "autóemelő", "cric auto", "brakes", "Bremsen", "fékek", "frâne", "press", "Presse", "sajtó", "presă", "excavator", "Bagger", "kotrógép", "excavator", "elevator", "Aufzug", "lift", "ascensor"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Was ist die Formel F1/A1 = F2/A2?", "What does the formula F1/A1 = F2/A2 mean?", "Mit jelent az F1/A1 = F2/A2 képlet?", "Ce înseamnă formula F1/A1 = F2/A2?", lang),
+      ["pressure equal", "Druck gleich", "nyomás egyenlő", "presiune egală", "force area ratio", "Kraft-Flächen-Verhältnis", "erő-terület arány", "raport forță-arie", "Pascal law"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Wie erzeugt ein Hydraulikheber große Kräfte?", "How does a hydraulic lift generate large forces?", "Hogyan hoz létre a hidraulikus emelő nagy erőket?", "Cum generează un lift hidraulic forțe mari?", lang),
+      ["small force", "kleine Kraft", "kis erő", "forță mică", "small area", "kleine Fläche", "kis terület", "arie mică", "high pressure", "hoher Druck", "magas nyomás", "presiune mare", "large area", "große Fläche", "nagy terület", "arie mare"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Was ist der Vorteil der Kraft-Vervielfachung?", "What is the advantage of force multiplication?", "Mi az erő szorzás előnye?", "Care este avantajul înmulțirii forței?", lang),
+      ["small effort", "kleine Anstrengung", "kis erőfeszítés", "efort mic", "large output", "große Ausgabe", "nagy kimenet", "ieșire mare", "mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Erkläre, wie hydraulische Bremsen funktionieren.", "Explain how hydraulic brakes work.", "Magyarázd meg, hogyan működnek a hidraulikus fékek.", "Explică cum funcționează frânele hidraulice.", lang),
+      ["foot pedal", "Fußpedal", "lábpedál", "pedală picior", "force", "Kraft", "erő", "forță", "pressure", "Druck", "nyomás", "presiune", "brake pads", "Bremsbeläge", "féktuskó", "garnituri frâni"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Warum verwenden Autos hydraulische statt mechanische Bremsen?", "Why do cars use hydraulic instead of mechanical brakes?", "Miért használnak autók hidraulikus helyett mechanikus féket?", "De ce folosesc mașinile frâne hidraulice în loc de mecanice?", lang),
+      ["more force", "mehr Kraft", "több erő", "mai multă forță", "precise control", "präzise Kontrolle", "pontos vezérlés", "control precis", "smoother", "weicher", "simább", "mai lin", "safer", "sicherer", "biztonságosabb", "mai sigur"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Beschreibe die Anwendung von Hydraulik in Bulldozern.", "Describe the application of hydraulics in bulldozers.", "Írj le a hidraulika alkalmazását buldózerekben.", "Descrie aplicarea hidraulicii în buldozere.", lang),
+      ["lift bucket", "Schaufel heben", "kanál emelése", "ridicarea cupei", "move arm", "Arm bewegen", "kar mozgatása", "mișcare braț", "digging", "Graben", "ásás", "săpare", "precise", "präzise", "pontos", "precis"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Wie nutzen Flugzeuge hydraulische Systeme?", "How do airplanes use hydraulic systems?", "Hogyan használnak repülőgépek hidraulikus rendszereket?", "Cum folosesc avioanele sisteme hidraulice?", lang),
+      ["landing gear", "Fahrwerk", "alváz", "tren aterizare", "control surfaces", "Steuerflächen", "vezérlőfelületek", "suprafețe control", "extend retract", "ausfahren einfahren", "nyitás zárás", "extensie retragere", "doors"]
+    ),
+
+    createTyping("pressure", "hydraulics",
+      q4("Was sind die Vorteile von Hydrauliksystemen gegenüber mechanischen?", "What are the advantages of hydraulic systems over mechanical ones?", "Melyek a hidraulikus rendszerek előnyei a mechanikus felett?", "Care sunt avantajele sistemelor hidraulice asupra celor mecanice?", lang),
+      ["force multiplication", "Kraftvervielfachung", "erő szorzás", "înmulțire forță", "smooth motion", "sanfte Bewegung", "sima mozgás", "mișcare netedă", "precise control", "präzise Kontrolle", "pontos vezérlés", "control precis", "compact", "kompakt", "kompakt", "compact"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -693,6 +891,10 @@ export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: numbe
   atmospheric_pressure: (lang = "en", seed = 0) => [...generateAtmosphericPressureMCQ(lang, seed), ...generateAtmosphericPressureTyping(lang, seed)],
   atmospheric_pressure_mcq: (lang = "en", seed = 0) => generateAtmosphericPressureMCQ(lang, seed),
   atmospheric_pressure_typing: (lang = "en", seed = 0) => generateAtmosphericPressureTyping(lang, seed),
+
+  hydraulics: (lang = "en", seed = 0) => [...generateHydraulicsMCQ(lang, seed), ...generateHydraulicsTyping(lang, seed)],
+  hydraulics_mcq: (lang = "en", seed = 0) => generateHydraulicsMCQ(lang, seed),
+  hydraulics_typing: (lang = "en", seed = 0) => generateHydraulicsTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
