@@ -401,6 +401,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astrodeutsch",
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-teal-500/20",
+        langOnly: "de",
       },
       {
         id: "deutschtest",
@@ -408,6 +409,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "deutschtest",
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+        langOnly: "de",
       },
       {
         id: "astroenglish",
@@ -415,6 +417,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astroenglish",
         color: "#3B82F6",
         gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
+        langOnly: "en",
       },
       {
         id: "englishtest",
@@ -422,6 +425,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "englishtest",
         color: "#3B82F6",
         gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
+        langOnly: "en",
       },
       {
         id: "astromagyar",
@@ -429,6 +433,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astromagyar",
         color: "#FF2D78",
         gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
+        langOnly: "hu",
       },
       {
         id: "magyarteszt",
@@ -436,6 +441,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "magyarteszt",
         color: "#FF2D78",
         gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
+        langOnly: "hu",
       },
       {
         id: "astro-sachkunde",
@@ -443,6 +449,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astro-sachkunde",
         color: "#10B981",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
+        langOnly: "de",
       },
       {
         id: "sachkundetest",
@@ -450,6 +457,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "sachkundetest",
         color: "#4CAF50",
         gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+        langOnly: "de",
       },
       {
         id: "astro-biologie",
