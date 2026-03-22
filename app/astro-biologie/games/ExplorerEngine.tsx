@@ -105,9 +105,11 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   // AI tutor state
   const [aiResponse, setAiResponse] = useState<string | null>(null);
   const [aiLoading, setAiLoading] = useState(false);
+  const [aiActive, setAiActive] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [voiceText, setVoiceText] = useState("");
   const recognitionRef = useRef<any>(null);
+  const autoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
@@ -195,7 +197,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
       }
 
       const delay = choice === currentQ.answer ? 1500 : 2500;
-      setTimeout(() => advanceSub(), delay);
+      if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current);
+      autoAdvanceRef.current = setTimeout(() => advanceSub(), delay);
     },
     [locked, getCurrentQuestion, advanceSub]
   );
@@ -262,6 +265,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
     const currentQ = getCurrentQuestion();
     if (!currentQ || !selected || aiLoading) return;
 
+    // Stop auto-advance — user wants to read the explanation
+    if (autoAdvanceRef.current) {
+      clearTimeout(autoAdvanceRef.current);
+      autoAdvanceRef.current = null;
+    }
+    setAiActive(true);
     setAiLoading(true);
     setAiResponse(null);
     const result = await askWhyCorrect({
@@ -333,6 +342,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   useEffect(() => {
     setAiResponse(null);
     setAiLoading(false);
+    setAiActive(false);
     setVoiceText("");
   }, [round, subIdx]);
 
@@ -569,17 +579,25 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                       </div>
                     )}
 
-                    {/* AI response bubble */}
+                    {/* AI response bubble + manual continue */}
                     {aiResponse && (
                       <motion.div
                         initial={{ opacity: 0, y: 10 }}
                         animate={{ opacity: 1, y: 0 }}
-                        className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed"
+                        className="w-full flex flex-col items-center gap-3"
                       >
-                        <div className="flex items-start gap-2">
-                          <span className="text-purple-400 text-base mt-0.5">🤖</span>
-                          <p>{aiResponse}</p>
+                        <div className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed">
+                          <div className="flex items-start gap-2">
+                            <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                            <p>{aiResponse}</p>
+                          </div>
                         </div>
+                        <button
+                          onClick={() => { setAiActive(false); advanceSub(); }}
+                          className="px-5 py-2 rounded-xl font-bold text-sm bg-white/10 border border-white/20 text-white hover:bg-white/20 transition-colors flex items-center gap-1.5"
+                        >
+                          {ui.next} <ChevronRight size={14} />
+                        </button>
                       </motion.div>
                     )}
                   </motion.div>
