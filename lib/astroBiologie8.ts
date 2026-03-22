@@ -41,7 +41,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🧬", color: "#9B59B6", sortRange: [1, 10],
     topicKeys: ["dna_struktur", "vererbung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "dna-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -53,7 +53,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#8E44AD", sortRange: [1, 10],
     topicKeys: ["mutation", "genetische_technik", "genetic_counseling"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "mutation-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -65,7 +65,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "⚗️", color: "#E74C3C", sortRange: [1, 10],
     topicKeys: ["endokrine_druesen", "hormonstoffwechsel", "feedback_mechanismen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "hormone-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -77,7 +77,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🍼", color: "#F39C12", sortRange: [1, 10],
     topicKeys: ["gametogenese", "befruchtung", "embryonalentwicklung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "reproduction-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -89,7 +89,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#E67E22", sortRange: [1, 10],
     topicKeys: ["geschlechtsbestimmung", "contraception"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "reproduction-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -101,7 +101,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🧪", color: "#1ABC9C", sortRange: [1, 10],
     topicKeys: ["enzyme", "bioethik", "biotech_anwendungen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "biotech-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -113,7 +113,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🌐", color: "#3498DB", sortRange: [1, 10],
     topicKeys: ["integration", "homeostasis", "stoffwechseltypologie"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "systems-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -125,7 +125,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "📊", color: "#D35400", sortRange: [1, 10],
     topicKeys: ["populationsgenetik", "artbildung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "popgen-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -137,7 +137,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🌿", color: "#27AE60", sortRange: [1, 10],
     topicKeys: ["phylogenie", "conservation_biology"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "phylogeny-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
