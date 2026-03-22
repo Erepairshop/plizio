@@ -1106,6 +1106,261 @@ export function generateResistanceTyping(lang: string = "en", seed: number = 0):
   return questions;
 }
 
+// ─── 5. ELECTRICAL SAFETY ────────────────────────────────────────────────
+
+const ELECTRICAL_SAFETY_DATA = {
+  hazards: [
+    { en: "short circuit", de: "Kurzschluss", hu: "rövidzárlat", ro: "scurtcircuit" },
+    { en: "electric shock", de: "Stromschlag", hu: "áramütés", ro: "șoc electric" },
+    { en: "fire from overheating", de: "Brand durch Überhitzung", hu: "tűz túlmelegedésből", ro: "foc din supraîncălzire" },
+    { en: "electrocution", de: "Stromtod", hu: "elektromosságtól való halál", ro: "electrocuție" },
+    { en: "damaged insulation", de: "beschädigte Isolierung", hu: "megrongálódott szigetelés", ro: "izolație dăunată" },
+  ],
+
+  protections: [
+    { en: "fuse (Sicherung)", de: "Sicherung", hu: "biztosíték", ro: "fuzibil" },
+    { en: "circuit breaker", de: "Schutzschalter", hu: "automata biztosíték", ro: "întreruptor de circuit" },
+    { en: "grounding (Erdung)", de: "Erdung", hu: "földelés", ro: "punere la pământ" },
+    { en: "GFI/GFCI (RCD/FI-relé)", de: "FI-Schutzschalter", hu: "FI-relé", ro: "întreruptor diferențial" },
+    { en: "insulation", de: "Isolierung", hu: "szigetelés", ro: "izolație" },
+    { en: "lightning rod", de: "Blitzableiter", hu: "villámhárító", ro: "paratrăznet" },
+  ],
+
+  rules: [
+    { en: "never touch wet hands near outlets", de: "niemals mit feuchten Händen Steckdosen berühren", hu: "soha ne érintsd meg az aljzatot nedves kézzel", ro: "niciodată nu atingeți prize cu mâini ude" },
+    { en: "unplug devices before servicing", de: "Geräte vor Wartung ausstecken", hu: "szerelés előtt húzd ki az eszköz a dugóját", ro: "scoateți aparatul înainte de întreținere" },
+    { en: "do not overload circuits", de: "überlasten Sie nicht die Stromkreise", hu: "ne terhelj túl áramköröket", ro: "nu supraîncărcați circuitele" },
+    { en: "keep cords away from water", de: "halten Sie Kabel weg von Wasser", hu: "tartsd a kábelt távol vízből", ro: "ții cablurile departe de apă" },
+    { en: "never use damaged cords", de: "verwenden Sie niemals beschädigte Kabel", hu: "soha ne használj megrongálódott kábelt", ro: "niciodată nu utilizați cabluri deteriorate" },
+    { en: "install safety switches in bathrooms", de: "installieren Sie Sicherungsschalter im Badezimmer", hu: "szerelj biztonsági kapcsolót a fürdőszobában", ro: "instalați întreruptoare de siguranță în baie" },
+    { en: "call electrician for repairs", de: "rufen Sie einen Elektriker an", hu: "hívj szakembert javításra", ro: "apelați electricianul pentru reparații" },
+  ],
+
+  bodyCurrent: [
+    { en: "below 1 mA: barely perceptible", de: "unter 1 mA: kaum wahrnehmbar", hu: "1 mA alatt: alig érezhető", ro: "sub 1 mA: abia perceptibil" },
+    { en: "1-5 mA: painful but not dangerous", de: "1-5 mA: schmerzhaft, aber nicht lebensbedrohlich", hu: "1-5 mA: fájdalmas, de nem veszélyes", ro: "1-5 mA: dureros, dar nu periculos" },
+    { en: "5-10 mA: loss of muscle control", de: "5-10 mA: Muskelverlust", hu: "5-10 mA: izomveszteség", ro: "5-10 mA: pierderea controlului muscular" },
+    { en: "above 50 mA: fatal", de: "über 50 mA: tödlich", hu: "50 mA fölött: halálos", ro: "peste 50 mA: fatal" },
+  ],
+};
+
+export function generateElectricalSafetyMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is a short circuit?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Was ist ein Kurzschluss?", "What is a short circuit?", "Mi a rövidzárlat?", "Ce este un scurtcircuit?", lang),
+      q4("Ein Stromkreis mit unbeabsichtigtem Pfad niedriger Widerstand", "A circuit with an unintended low-resistance path", "Egy áramkör nem szándékos alacsony ellenállási úttal", "Un circuit cu o cale neintentionată de rezistență scăzută", lang),
+      [
+        q4("Ein Stromkreis mit sehr hohem Widerstand", "A circuit with very high resistance", "Nagyon magas ellenállási áramkör", "Un circuit cu rezistență foarte mare", lang),
+        q4("Ein Stromkreis, der nicht funktioniert", "A circuit that does not work", "Nem működő áramkör", "Un circuit care nu funcționează", lang),
+        q4("Ein Stromkreis mit moderatem Widerstand", "A circuit with moderate resistance", "Mérsékelt ellenállási áramkör", "Un circuit cu rezistență moderată", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "What is a fuse used for?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Wofür wird eine Sicherung verwendet?", "What is a fuse used for?", "Mire használnak biztosítékot?", "Pentru ce se folosește un fuzibil?", lang),
+      q4("Um den Stromkreis zu unterbrechen, wenn zu viel Strom fließt", "To break the circuit when too much current flows", "Az áramkört megszakítani, ha túl sok áram folyik", "Pentru a întrerupe circuitul când curge prea mult curent", lang),
+      [
+        q4("Um die Spannung zu erhöhen", "To increase voltage", "A feszültség növelésére", "Pentru a crește tensiunea", lang),
+        q4("Um den Widerstand zu verringern", "To decrease resistance", "Az ellenállás csökkentésére", "Pentru a scădea rezistența", lang),
+        q4("Um den Stromfluss zu messen", "To measure current flow", "Az áramfolyás mérésére", "Pentru a măsura fluxul de curent", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 3: "What is grounding?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Was ist Erdung?", "What is grounding?", "Mi a földelés?", "Ce este punerea la pământ?", lang),
+      q4("Ein Sicherheitssystem, das überschüssigen Strom in die Erde leitet", "A safety system that directs excess current into the earth", "Egy biztonsági rendszer, amely a felesleges áramot a földre vezeti", "Un sistem de siguranță care conduce curentul în exces în pământ", lang),
+      [
+        q4("Ein System, das den Stromfluss stoppt", "A system that stops current flow", "Az áramfolyást megállító rendszer", "Un sistem care oprește fluxul de curent", lang),
+        q4("Ein System, das die Spannung erhöht", "A system that increases voltage", "A feszültséget növelő rendszer", "Un sistem care crește tensiunea", lang),
+        q4("Ein System, das Wärme erzeugt", "A system that generates heat", "Hőt termelő rendszer", "Un sistem care generează căldură", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "What does a GFI/GFCI (FI-relé) do?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Was macht ein FI-Schutzschalter?", "What does a GFI/GFCI (FI-relé) do?", "Mit csinál az FI-relé?", "Ce face un întreruptor diferențial?", lang),
+      q4("Unterbricht den Stromkreis, wenn Strom zu Erde leckt", "Breaks the circuit when current leaks to ground", "Megszakítja az áramkört, ha az áram a földre szivárog", "Întrerupe circuitul când curentul se scurgă la pământ", lang),
+      [
+        q4("Erhöht die Spannung im Stromkreis", "Increases voltage in the circuit", "Növeli az áramkör feszültségét", "Crește tensiunea în circuit", lang),
+        q4("Verringert den Widerstand", "Decreases resistance", "Csökkenti az ellenállást", "Reduce rezistența", lang),
+        q4("Erzeugt einen Stromfluss", "Creates current flow", "Áramfolyást hoz létre", "Creează fluxul de curent", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What are dangers of body current?"
+  for (let i = 0; i < 5; i++) {
+    const current = pick(ELECTRICAL_SAFETY_DATA.bodyCurrent, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Welche Auswirkung hat Strom auf den menschlichen Körper?", "What are the dangers of electric current on the body?", "Mi a veszélye a testáramnak?", "Care sunt pericolele curentului electric pe corp?", lang),
+      q4(current.de, current.en, current.hu, current.ro, lang),
+      [
+        q4("Strom hat keine Auswirkung auf den Körper", "Current has no effect on the body", "Az áramnak nincs hatása a testre", "Curentul nu are efect pe corp", lang),
+        q4("Strom wärmt nur den Körper", "Current only warms the body", "Az áram csak felmelegíti a testet", "Curentul doar încălzește corpul", lang),
+        q4("Strom verlangsamt den Herzschlag", "Current slows the heartbeat", "Az áram lassítja a szívdobbanást", "Curentul încetinește ritmul cardiac", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "What safety rule?"
+  for (let i = 0; i < 4; i++) {
+    const rule = pick(ELECTRICAL_SAFETY_DATA.rules, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Was ist eine wichtige Elektrosicherheitsregel?", "What is an important electrical safety rule?", "Mi a fontos elektromosságbiztonsági szabály?", "Care este o regulă importantă de siguranță electrică?", lang),
+      q4(rule.de, rule.en, rule.hu, rule.ro, lang),
+      [
+        q4("Verwenden Sie immer beschädigte Kabel", "Always use damaged cords", "Mindig használj megrongálódott kábelt", "Utilizați întotdeauna cabluri deteriorate", lang),
+        q4("Überladen Sie die Stromkreise", "Overload the circuits", "Túlterhelj áramköröket", "Supraîncărcați circuitele", lang),
+        q4("Spielen Sie mit Steckdosen", "Play with outlets", "Játssz az aljzatokkal", "Jucați-vă cu prize", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "What is lightning protection?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "electrical_safety",
+      q4("Was ist ein Blitzableiter?", "What is a lightning rod?", "Mi a villámhárító?", "Ce este un paratrăznet?", lang),
+      q4("Ein Metallstab, der Blitzstrom sicher in die Erde leitet", "A metal rod that safely directs lightning to ground", "Egy fémlap, amely biztonságosan vezeti a villámáramot a földre", "O tijă metalică care conduce în siguranță curentul fulgerului la pământ", lang),
+      [
+        q4("Ein Gerät, das Blitze verhindert", "A device that prevents lightning", "A villámot megakadályozó eszköz", "Un dispozitiv care previne fulgerele", lang),
+        q4("Ein Gerät, das Spannung erhöht", "A device that increases voltage", "A feszültséget növelő eszköz", "Un dispozitiv care crește tensiunea", lang),
+        q4("Ein Gerät, das Wärme erzeugt", "A device that generates heat", "Hőt termelő eszköz", "Un dispozitiv care generează căldură", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateElectricalSafetyTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const questions: CurriculumQuestion[] = [];
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Definiere Kurzschluss und erkläre seine Gefahr.", "Define short circuit and explain its danger.", "Határozd meg a rövidzárlat és magyarázd meg a veszélyét.", "Definește scurtcircuitul și explică pericolul acestuia.", lang),
+    [
+      q4("Ein unbeabsichtigter niedriger Widerstand Pfad, der zu großem Stromfluss und Überhitzung führt", "An unintended low-resistance path leading to excessive current and overheating", "Egy nem szándékos alacsony ellenállási út, amely túl sok áramhoz és túlmelegedéshez vezet", "O cale neintentionată de rezistență scăzută care duce la curent excesiv și supraîncălzire", lang),
+      q4("Rövidzárlat: alacsony ellenállás, nagy áram, hő", "Short circuit: low resistance, high current, heat", "Rövidzárlat: alacsony ellenállás, nagy áram, hő", "Scurtcircuit: rezistență scăzută, curent mare, căldură", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Nenne drei Schutzvorrichtungen gegen Stromgefahren.", "Name three safety devices against electrical hazards.", "Nevezz meg három biztonsági eszközt az elektromosságveszély ellen.", "Numește trei dispozitive de siguranță împotriva pericolelor electrice.", lang),
+    [
+      q4("Sicherung/Schutzschalter, Erdung/FI-Schutzschalter, Isolierung", "Fuse/Circuit breaker, Grounding/GFI, Insulation", "Biztosíték/Automata, Földelés/FI-relé, Szigetelés", "Fuzibil/Întreruptor, Punere la pământ/Întreruptor diferențial, Izolație", lang),
+      q4("Biztosíték, FI-relé, szigetelés", "Fuse, GFI, Insulation", "Biztosíték, FI-relé, szigetelés", "Fuzibil, Întreruptor diferențial, Izolație", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Was ist Erdung und warum ist sie wichtig?", "What is grounding and why is it important?", "Mi a földelés és miért fontos?", "Ce este punerea la pământ și de ce este importantă?", lang),
+    [
+      q4("Erdung leitet überschüssigen Strom sicher in die Erde, um Stromschläge zu verhindern", "Grounding directs excess current safely to earth, preventing electric shock", "A földelés biztonságosan vezeti a felesleges áramot a földre, megakadályozva az áramütést", "Punerea la pământ conduce în siguranță curentul în exces la pământ, prevenind șocurile electrice", lang),
+      q4("Erdung: felesleges áram → föld → biztonság", "Grounding: excess current → earth → safety", "Föld: felesleges áram → föld → biztonság", "Pământ: curent în exces → pământ → siguranță", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Was macht ein FI-Schutzschalter (RCD)?", "What does a GFI/RCD circuit breaker do?", "Mit csinál az FI-relé (RCD) érték?", "Ce face un întreruptor diferențial (RCD)?", lang),
+    [
+      q4("Ein FI-Schutzschalter misst den Stromfluss und unterbreitet den Stromkreis, wenn Strom zur Erde leckt", "A GFI measures current flow and breaks the circuit if current leaks to ground", "Az FI-relé méri az áramfolyást és megszakítja az áramkört, ha az áram a földre szivárog", "Un GFI măsoară fluxul de curent și întrerupe circuitul dacă curentul se scurgă la pământ", lang),
+      q4("FI-relé: áram lezárás → föld → switch szünet", "GFI: current → earth → switch break", "FI: áram → föld → kapcsoló szünete", "FI: curent → pământ → întrerupere comutator", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Nenne drei wichtige Sicherheitsregeln für den Umgang mit Elektrizität.", "Name three important safety rules for handling electricity.", "Nevezz meg három fontos biztonsági szabályt az elektromosság kezeléséhez.", "Numește trei reguli importante de siguranță pentru manipularea energiei electrice.", lang),
+    [
+      q4("Niemals mit feuchten Händen Steckdosen berühren; Geräte vor Wartung ausstecken; keine beschädigten Kabel verwenden", "Never touch outlets with wet hands; Unplug devices before service; Never use damaged cords", "Soha ne érintsd az aljzatot nedves kézzel; Szerelés előtt húzd ki az eszközt; Soha megrongálódott kábelt ne használ", "Niciodată nu atingeți prizele cu mâini ude; Scoateți aparatul înainte de service; Nu utilizați cabluri deteriorate", lang),
+      q4("Nedves kezek - nem; Szerelés - ki; Kábelek - egész", "Wet hands - no; Service - unplug; Cords - intact", "Nedves - nem; Szerelés - kihuztás; Kábelek - egész", "Mâini ude - nu; Service - deconectat; Cabluri - întregi", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Was sind die Gefahren verschiedener Stromstärken auf den menschlichen Körper?", "What are the dangers of different current levels on the human body?", "Mik az eltérő áramintenzitások veszélyei az emberi testre?", "Care sunt pericolele diferitelor niveluri de curent pe corpul uman?", lang),
+    [
+      q4("Unter 1 mA: kaum wahrnehmbar; 1-5 mA: schmerzhaft; 5-10 mA: Muskelverlust; über 50 mA: tödlich", "Below 1 mA: barely felt; 1-5 mA: painful; 5-10 mA: muscle loss; Over 50 mA: fatal", "1 mA alatt: alig érzékelhető; 1-5 mA: fájdalmas; 5-10 mA: izomvesztés; 50 mA felett: halálos", "Sub 1 mA: abia simțit; 1-5 mA: dureros; 5-10 mA: pierdere musculară; Peste 50 mA: fatal", lang),
+      q4("Kicsi: nincs; 1-5mA: fájdalom; 5-10: izmok; 50+: halál", "Small: none; 1-5mA: pain; 5-10: muscles; 50+: death", "Kicsi: nincs; 1-5: fájdalom; 5-10: izmok; 50+: halál", "Mic: nimic; 1-5: durere; 5-10: mușchi; 50+: moarte", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Nenne fünf Sicherheitsregeln beim Umgang mit Elektrizität.", "Name five safety rules when handling electricity.", "Nevezz meg öt biztonsági szabályt az elektromosság kezelésekor.", "Numește cinci reguli de siguranță atunci când manipulezi energia electrică.", lang),
+    [
+      q4("1. Niemals mit feuchten Händen; 2. Ausstecken vor Wartung; 3. Keine beschädigten Kabel; 4. Nicht überladen; 5. Fachmann rufen", "1. Never wet hands; 2. Unplug before service; 3. No damaged cords; 4. Don't overload; 5. Call electrician", "1. Soha nedves kezek; 2. Szerelés előtt ki; 3. Nincs megrongálódott kábel; 4. Nem túlterhelt; 5. Szakember", "1. Niciodată mâini ude; 2. Deconectare înainte de service; 3. Fără cabluri deteriorate; 4. Nu supraîncărcați; 5. Apelați electrician", lang),
+      q4("Nedves - ki; Szerelés - ki; Kábelek - egész; Nem túl; Szakember", "Wet - unplug; Service - unplug; Cables - intact; Not over; Technician", "Nedves - ki; Szerelés - ki; Kábelek - egész; Nem túl; Szakember", "Ude - deconectat; Service - deconectat; Cabluri - întregi; Nu prea; Tehnician", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Was ist ein Blitzableiter und wo wird er verwendet?", "What is a lightning rod and where is it used?", "Mi a villámhárító és hol használják?", "Ce este un paratrăznet și unde se folosește?", lang),
+    [
+      q4("Ein Metallstab, der Blitzstrom sicher in die Erde leitet, wird auf Dächern von Gebäuden installiert", "A metal rod that safely directs lightning to ground, installed on building roofs", "Egy fémlap, amely biztonságosan vezeti a villámáramot a földre, az épületek tetejére szerelve", "O tijă metalică care conduce curentul fulgerului la pământ, instalată pe acoperișurile clădirilor", lang),
+      q4("Villámhárító: metall, föld, tető", "Lightning rod: metal, ground, roof", "Villámhárító: fém, föld, tető", "Paratrăznet: metal, pământ, acoperiș", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "electrical_safety",
+    q4("Wann sollte man einen Elektriker anrufen statt selbst zu reparieren?", "When should you call an electrician instead of repairing yourself?", "Mikor hívj szakembert szerelésnél saját helyett?", "Când ar trebui să apelezi un electrician în loc să repari singur?", lang),
+    [
+      q4("Immer wenn es um Stromkreise, Verdrahtung oder komplexe Reparaturen geht; nur einfache Aufgaben selbst", "Always for circuits, wiring or complex repairs; only simple tasks yourself", "Mindig áramkörök, vezetékek vagy összetett szerelések esetén; csak egyszerű feladatok magad", "Întotdeauna pentru circuite, cablare sau reparații complexe; doar sarcini simple singur", lang),
+      q4("Áramkör, vezeték, komplex: szakember", "Circuit, wiring, complex: expert", "Áramkör, vezeték, komplex: szakember", "Circuit, cablare, complex: expert", lang),
+    ]
+  ));
+
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -1124,6 +1379,10 @@ export const K6_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: nu
   resistance: (lang = "en", seed = 0) => [...generateResistanceMCQ(lang, seed), ...generateResistanceTyping(lang, seed)],
   resistance_mcq: (lang = "en", seed = 0) => generateResistanceMCQ(lang, seed),
   resistance_typing: (lang = "en", seed = 0) => generateResistanceTyping(lang, seed),
+
+  electrical_safety: (lang = "en", seed = 0) => [...generateElectricalSafetyMCQ(lang, seed), ...generateElectricalSafetyTyping(lang, seed)],
+  electrical_safety_mcq: (lang = "en", seed = 0) => generateElectricalSafetyMCQ(lang, seed),
+  electrical_safety_typing: (lang = "en", seed = 0) => generateElectricalSafetyTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
