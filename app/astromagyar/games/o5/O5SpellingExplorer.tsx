@@ -5,7 +5,7 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
     title1: "Összetétel írása",
-    text1: "Az összetett szavak egy szótőből és egy toldalékból, vagy több szótőből állnak. A magyar helyesírásban az összetett szavakat általában egybe írjuk: „édesanya", „szeretlek", „napszám". Azonban előfordulnak kivételek, amikor különírunk.",
+    text1: "Az összetett szavak egy szótőből és egy toldalékból, vagy több szótőből állnak. A magyar helyesírásban az összetett szavakat általában egybe írjuk: édesanya, szeretlek, napszám. Azonban előfordulnak kivételek, amikor különírunk.",
     q1: "Hogyan írjuk az összetett szavakat?",
     a1: "általában egybe",
     b1: "általában különválasztva",
