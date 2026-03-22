@@ -171,20 +171,20 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
 
   // MCQ 29-35: Material transparency
   const materials = [
-    { trans: true, de: "Glas", en: "Glass", hu: "Üveg", ro: "Sticlă" },
-    { trans: true, de: "Luft", en: "Air", hu: "Levegő", ro: "Aer" },
-    { trans: false, de: "Holz", en: "Wood", hu: "Fa", ro: "Lemn" },
-    { trans: false, de: "Metall", en: "Metal", hu: "Fém", ro: "Metal" },
+    { name: { de: "Glas", en: "Glass", hu: "Üveg", ro: "Sticlă" }, trans: true },
+    { name: { de: "Luft", en: "Air", hu: "Levegő", ro: "Aer" }, trans: true },
+    { name: { de: "Holz", en: "Wood", hu: "Fa", ro: "Lemn" }, trans: false },
+    { name: { de: "Metall", en: "Metal", hu: "Fém", ro: "Metal" }, trans: false },
   ];
 
   for (let i = 0; i < 7; i++) {
     const mat = pick(materials, rng);
-    const langKey = lang as keyof typeof mat;
-    const correct = mat[langKey];
+    const langKey = lang as keyof typeof mat.name;
+    const correct = mat.name[langKey];
     const wrongOpts = [
-      pick(materials.filter((m) => m !== mat), rng)[langKey],
-      pick(materials.filter((m) => m !== mat), rng)[langKey],
-      pick(materials.filter((m) => m !== mat), rng)[langKey],
+      pick(materials.filter((m) => m !== mat), rng).name[langKey],
+      pick(materials.filter((m) => m !== mat), rng).name[langKey],
+      pick(materials.filter((m) => m !== mat), rng).name[langKey],
     ];
 
     questions.push(
