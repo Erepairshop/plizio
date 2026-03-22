@@ -11,6 +11,7 @@ import "@/lib/biologieGenerators6";
 import "@/lib/biologieGenerators7";
 import "@/lib/biologieGenerators8";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { BIOLOGIE_VISUAL_TYPES } from "@/lib/biologieVisualGenerators";
 
 const BIO_CHARS = ["🧬", "🔬", "🌿", "🐾", "🦋", "🐟", "🌱", "🫀", "🧠", "🦴", "🌳", "🐝", "🦎", "🐸", "🌺", "🧪"];
 const BIO_COLORS = [
@@ -52,6 +53,8 @@ const BIO_CONFIG: LanguageTestEngineConfig = {
     7: K7_CURRICULUM,
     8: K8_CURRICULUM,
   } as any,
+  visualTypes: BIOLOGIE_VISUAL_TYPES,
+
   getQuestions: (grade, subtopicIds, count) => {
     if (grade === 5) return getK5Questions(subtopicIds, count);
     if (grade === 6) return getK6Questions(subtopicIds, count);
