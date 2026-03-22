@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import SplitWordAnimation from "@/app/astrodeutsch/games/blocks/SplitWordAnimation";
 
@@ -8,11 +9,27 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Trennbare Verben",
     round1: "Trennbare Verben kennenlernen",
+    round1Title: "Trennbare Verben kennenlernen",
+    round1Teach: "Trennbare Verben haben ein Präfix (auf-, ein-, an-, ab-, aus-) und einen Stamm. In Hauptsätzen trennen sich die Teile: 'Ich STEHE auf', 'Er RUFT an'. Das ist eine deutsche Besonderheit!",
+    round1Hint: "Tippe um Beispiele zu sehen",
     round1Discovery: "💡 Separable verbs split apart in main clauses! 'aufstehen': Ich STEHE um 7 Uhr AUF. But in subordinate clauses they stay together: ...weil ich um 7 Uhr AUFSTEHE.",
     round2: "Aufstehen — getrennt!",
+    round2Title: "Aufstehen — getrennt!",
+    round2Teach: "Schau, wie 'auf' + 'stehen' sich in einem Satz trennt! Im Satz 'Ich stehe um 7 Uhr auf' wandert 'auf' ans Ende. Das ist die Regel für alle trennbaren Verben.",
+    round2Hint: "Beobachte die Animation",
     round3: "Was ist das Präfix?",
+    round3Title: "Was ist das Präfix?",
+    round3Teach: "Das Präfix ist der trennbare Teil des Verbs. 'auf-stehen' hat das Präfix 'auf'. 'an-rufen' hat das Präfix 'an'. Erkenne alle 6 Präfixe!",
+    round3Hint: "Tippe das Präfix",
     round4: "Satz bauen: 'anrufen'",
+    round4Title: "Satz bauen: 'anrufen'",
+    round4Teach: "Tippst die Wörter in der richtigen Reihenfolge an. Hauptsatz: 'Ich | rufe | meine | Mutter | an.' Das Präfix 'an' kommt ans Ende!",
+    round4Hint: "Tippe die Wörter",
     round5: "Trennbare Verben Quiz!",
+    round5Title: "Trennbare Verben Quiz!",
+    round5Teach: "Wähle den ganzen Satz mit dem richtigen trennbaren Verb. Das Präfix MUSS separiert sein: 'Er MACHT die Tür AUF', nicht 'Er macht AUF die Tür'.",
+    round5Hint: "Wähle den richtigen Satz",
+    gotIt: "Ich verstehe! Weiter →",
     tapReveal: "Tippe für die Übersetzung",
     next: "Weiter →",
     done: "Fertig! 🌟",
@@ -107,9 +124,27 @@ const VERBS_INTRO = [
   { verb: "einschlafen", prefix: "ein", hint: "schlafen / to fall asleep", emoji: "😴" },
 ];
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach?: boolean }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
+  const [teach, setTeach] = useState(showTeach);
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -395,9 +430,10 @@ const SeparableVerbExplorer = memo(function SeparableVerbExplorer({
 }: { color: string; lang?: string; onDone: (score: number, total: number) => void }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -409,7 +445,7 @@ const SeparableVerbExplorer = memo(function SeparableVerbExplorer({
         <motion.div key={round} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}

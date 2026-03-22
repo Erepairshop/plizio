@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import TreeBranch from "@/app/astrodeutsch/games/blocks/TreeBranch";
 import { SpeakButton } from "@/lib/astromath-tts";
 
@@ -8,10 +9,26 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Plural & Wortfamilien",
     round1: "5 Wege zum Plural!",
+    round1Title: "5 Wege zum Plural!",
+    round1Teach: "Deutsch hat verschiedene Plural-Muster! -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), oder Umlaut (Apfel→Äpfel). Jedes Muster hat eine Farbe.",
+    round1Hint: "Tippe um die Muster zu sehen",
     round2: "Welche Pluralendung?",
+    round2Title: "Welche Pluralendung?",
+    round2Teach: "Jedes Wort braucht die richtige Pluralendung! Dragging oder tippen: wähle ein Wort, dann den Eimer mit der richtigen Endung. -e, -er, -n, -s oder Umlaut?",
+    round2Hint: "Tippe ein Wort, dann einen Eimer",
     round3: "Die Wortfamilie von 'fahren'",
+    round3Title: "Die Wortfamilie von 'fahren'",
+    round3Teach: "Wortfamilien teilen denselben Wortstamm! 'fahren' → Fahrt, Fahrer, Fahrrad, abfahren. Das Wort 'fahr-' ist überall drin. Entdecke alle verwandten Wörter!",
+    round3Hint: "Tippe auf die Zweige",
     round4: "Wähle die richtige Endung!",
+    round4Title: "Wähle die richtige Endung!",
+    round4Teach: "Die Pluralendung hängt vom Wort ab. Es gibt 5 Muster: -e, -er, -n/-en, -s, oder Umlaut. Testiese Wortgenau!",
+    round4Hint: "Wähle eine Endung",
     round5: "Plural-Quiz!",
+    round5Title: "Plural-Quiz!",
+    round5Teach: "Zeige, dass du die Pluralformen kennst! Sieh das Wort und wähle die richtige Pluralform aus.",
+    round5Hint: "Wähle den Plural",
+    gotIt: "Ich verstehe! Weiter →",
     tapReveal: "Tippe um den Plural zu sehen",
     next: "Weiter →",
     done: "Fertig! 🌟",
@@ -23,10 +40,26 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     title: "Plural & Word Families",
     round1: "5 ways to plural!",
+    round1Title: "5 ways to plural!",
+    round1Teach: "German has different plural patterns! -e (Tisch→Tische), -er (Kind→Kinder), -n/-en (Blume→Blumen), -s (Auto→Autos), or umlaut (Apfel→Äpfel). Each pattern has its own color.",
+    round1Hint: "Tap to see the patterns",
     round2: "Which plural ending?",
+    round2Title: "Which plural ending?",
+    round2Teach: "Every word needs the right plural ending! Tap a word, then the bucket with the correct ending. Is it -e, -er, -n, -s, or umlaut?",
+    round2Hint: "Tap a word, then a bucket",
     round3: "The word family of 'fahren'",
+    round3Title: "The word family of 'fahren'",
+    round3Teach: "Word families share the same root! 'fahren' → Fahrt, Fahrer, Fahrrad, abfahren. The word stem 'fahr-' is in all of them. Discover all related words!",
+    round3Hint: "Tap the branches",
     round4: "Choose the right ending!",
+    round4Title: "Choose the right ending!",
+    round4Teach: "The plural ending depends on the word. There are 5 patterns: -e, -er, -n/-en, -s, or umlaut. Test your word knowledge!",
+    round4Hint: "Choose an ending",
     round5: "Plural quiz!",
+    round5Title: "Plural quiz!",
+    round5Teach: "Show that you know the plural forms! See the word and choose the right plural form.",
+    round5Hint: "Choose the plural",
+    gotIt: "I got it! Next →",
     tapReveal: "Tap to see the plural",
     next: "Next →",
     done: "Done! 🌟",
@@ -86,9 +119,27 @@ const PLURAL_RULES = [
   { rule: "Umlaut", singular: "Mutter", plural: "Mütter", accent: "#ef4444" },
 ];
 
-function Round1({ color, lbl, onNext, lang }: { color: string; lbl: Record<string, string>; onNext: () => void; lang: string }) {
+function Round1({ color, lbl, onNext, lang, showTeach = false }: { color: string; lbl: Record<string, string>; onNext: () => void; lang: string; showTeach?: boolean }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
+  const [teach, setTeach] = useState(showTeach);
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -390,9 +441,10 @@ const PluralFamilyExplorer = memo(function PluralFamilyExplorer({
 }: { color: string; lang?: string; onDone: (score: number, total: number) => void }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -404,7 +456,7 @@ const PluralFamilyExplorer = memo(function PluralFamilyExplorer({
         <motion.div key={round} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} lang={lang} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} lang={lang} showTeach={showTeach} />}
           {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}

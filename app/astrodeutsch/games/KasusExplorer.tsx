@@ -12,18 +12,23 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Case Explorer",
     round1Title: "The 4 Cases",
     round1Hint: "Tap each case to see an example sentence!",
+    round1Teach: "German nouns change based on their role in the sentence — this is called a 'case'. There are 4 main cases: Nominativ (subject), Akkusativ (object), Dativ (indirect object), and Genitiv (possessive). Let's discover how articles change with each case!",
     round2Title: "Nominative — Who?",
     round2Hint: "Tap the subject (Nominativ) in each sentence.",
+    round2Teach: "The Nominativ is the subject of a sentence — it answers 'Wer?' (Who?) or 'Was?' (What?). In 'Der Hund bellt' (The dog barks), 'Der Hund' is the subject in Nominativ form.",
     round3Title: "Accusative — Whom?",
     round3Hint: "Choose the correct Akkusativ form.",
+    round3Teach: "The Akkusativ is the direct object — it answers 'Wen?' (Whom?) or 'Was?' (What?). Watch how the article changes: 'der' becomes 'den' in masculine Akkusativ!",
     round4Title: "Article Changes",
     round4Hint: "Tap to reveal how articles change in Akkusativ.",
+    round4Teach: "Only the masculine article changes in Akkusativ: der → den. Feminine, neuter, and plural articles stay the same. This pattern is key to speaking correct German!",
     round5Title: "Mixed Challenge",
     round5Hint: "Choose Nominativ or Akkusativ form.",
     discovery: "💡 German has 4 cases: Nominativ (who?), Akkusativ (whom?), Dativ (to whom?), Genitiv (whose?). The case changes the article!",
     next: "Next",
     finish: "Finished!",
     well: "Well done!",
+    gotIt: "Got it!",
     tapToReveal: "Tap to reveal",
     nom: "Nominativ",
     akk: "Akkusativ",
@@ -35,18 +40,23 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Eset felfedező",
     round1Title: "A 4 eset",
     round1Hint: "Koppints minden esetre, hogy példamondatot lássál!",
+    round1Teach: "A német főnevek a mondatbeli szerepük alapján megváltoznak — ezt 'esetek'-nek nevezzük. 4 fő eset van: Nominativ (alany), Akkusativ (tárgy), Dativ (közvetett tárgy) és Genitiv (birtokos). Derítsük fel, hogyan változnak a névelők az egyes esetekben!",
     round2Title: "Alanyeset — Ki?",
     round2Hint: "Koppints az alanyra (Nominativ) a mondatban.",
+    round2Teach: "A Nominativ a mondat alanya — a 'Ki?' vagy 'Mi?' kérdésre válaszol. A 'Der Hund bellt' (A kutya ugat) mondatban 'Der Hund' az alany Nominativ alakban.",
     round3Title: "Tárgyeset — Kit?",
     round3Hint: "Válaszd ki a helyes Akkusativ alakot.",
+    round3Teach: "Az Akkusativ a közvetlen tárgy — a 'Kit?' vagy 'Mit?' kérdésre válaszol. Figyeld meg, hogyan változik a névelő: 'der' 'den'-né lesz férfias Akk ativban!",
     round4Title: "Névelők változása",
     round4Hint: "Koppints, hogy meglásd hogyan változnak a névelők Akkusativban.",
+    round4Teach: "Csak a férfias névelő változik Akkusativban: der → den. A női, semleges és többes szám névelői ugyanazok maradnak. Ez a minta kulcsfontosságú a helyes német beszédhez!",
     round5Title: "Vegyes kihívás",
     round5Hint: "Válaszd ki a Nominativ vagy Akkusativ alakot.",
     discovery: "💡 A németben 4 eset van: Nominativ (ki?), Akkusativ (kit?), Dativ (kinek?), Genitiv (kinek a...?). Az eset változtatja a névelőt!",
     next: "Tovább",
     finish: "Kész!",
     well: "Remek!",
+    gotIt: "Értettem!",
     tapToReveal: "Koppints a megjelenítéshez",
     nom: "Nominativ",
     akk: "Akkusativ",
@@ -58,18 +68,23 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Kasus-Entdecker",
     round1Title: "Die 4 Fälle",
     round1Hint: "Tippe auf jeden Fall, um einen Beispielsatz zu sehen!",
+    round1Teach: "Deutsche Nomen verändern sich je nach ihrer Rolle im Satz — das nennt man einen 'Fall'. Es gibt 4 Hauptfälle: Nominativ (Subjekt), Akkusativ (Objekt), Dativ (indirektes Objekt) und Genitiv (Besitz). Lass uns entdecken, wie sich die Artikel in jedem Fall verändern!",
     round2Title: "Nominativ — Wer?",
     round2Hint: "Tippe auf das Subjekt (Nominativ) im Satz.",
+    round2Teach: "Der Nominativ ist das Subjekt eines Satzes — es antwortet auf 'Wer?' oder 'Was?'. In 'Der Hund bellt' (The dog barks) ist 'Der Hund' das Subjekt in Nominativ-Form.",
     round3Title: "Akkusativ — Wen?",
     round3Hint: "Wähle die richtige Akkusativ-Form.",
+    round3Teach: "Der Akkusativ ist das direkte Objekt — es antwortet auf 'Wen?' oder 'Was?'. Beobachte, wie sich der Artikel verändert: 'der' wird zu 'den' im maskulinen Akkusativ!",
     round4Title: "Artikelveränderungen",
     round4Hint: "Tippe, um zu sehen wie Artikel im Akkusativ wechseln.",
+    round4Teach: "Nur der maskuline Artikel verändert sich im Akkusativ: der → den. Feminine, neutrale und plurale Artikel bleiben gleich. Dieses Muster ist der Schlüssel zum korrekten Sprechen!",
     round5Title: "Gemischte Aufgabe",
     round5Hint: "Wähle Nominativ- oder Akkusativ-Form.",
     discovery: "💡 Deutsch hat 4 Fälle: Nominativ (wer?), Akkusativ (wen?), Dativ (wem?), Genitiv (wessen?). Der Fall verändert den Artikel!",
     next: "Weiter",
     finish: "Fertig!",
     well: "Super gemacht!",
+    gotIt: "Verstanden!",
     tapToReveal: "Zum Aufdecken tippen",
     nom: "Nominativ",
     akk: "Akkusativ",
@@ -81,18 +96,23 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul cazurilor",
     round1Title: "Cele 4 cazuri",
     round1Hint: "Atinge fiecare caz pentru a vedea un exemplu!",
+    round1Teach: "Substantivele germane se schimbă în funcție de rolul lor în propoziție — aceasta se numește un 'caz'. Există 4 cazuri principale: Nominativ (subiect), Acuzativ (obiect), Dativ (obiect indirect) și Genitiv (posesiv). Să descoperim cum se schimbă articolele în fiecare caz!",
     round2Title: "Nominativ — Cine?",
     round2Hint: "Atinge subiectul (Nominativ) din propoziție.",
+    round2Teach: "Nominativul este subiectul unei propoziții — răspunde la 'Cine?' sau 'Ce?'. În 'Der Hund bellt' (Câinele latră), 'Der Hund' este subiectul în forma Nominativ.",
     round3Title: "Acuzativ — Pe cine?",
     round3Hint: "Alege forma corectă de Acuzativ.",
+    round3Teach: "Acuzativul este obiectul direct — răspunde la 'Pe cine?' sau 'Ce?'. Observă cum se schimbă articolul: 'der' devine 'den' în Acuzativ masculin!",
     round4Title: "Schimbări de articol",
     round4Hint: "Atinge pentru a vedea cum se schimbă articolele la Acuzativ.",
+    round4Teach: "Doar articolul masculin se schimbă la Acuzativ: der → den. Articolele feminine, neutre și plurale rămân la fel. Acest model este cheia pentru a vorbi germana corect!",
     round5Title: "Provocare mixtă",
     round5Hint: "Alege forma de Nominativ sau Acuzativ.",
     discovery: "💡 Germana are 4 cazuri: Nominativ (cine?), Acuzativ (pe cine?), Dativ (cui?), Genitiv (al cui?). Cazul schimbă articolul!",
     next: "Înainte",
     finish: "Gata!",
     well: "Bravo!",
+    gotIt: "Am înțeles!",
     tapToReveal: "Atinge pentru a dezvălui",
     nom: "Nominativ",
     akk: "Acuzativ",
@@ -158,9 +178,25 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 Cases overview ────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= CASES.length;
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{(lbl as any).round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -214,7 +250,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Find the Nominativ subject ──────────────────────────────────────
-function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -223,6 +259,22 @@ function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<strin
     if (idx + 1 >= NOM_SENTENCES.length) onNext();
     else { setIdx(i => i + 1); setTapped(false); }
   };
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{(lbl as any).round2Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -267,7 +319,7 @@ function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<strin
 }
 
 // ─── Round 3: Akkusativ fill-in-the-blank ─────────────────────────────────────
-function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+function Round3({ color, lbl, wrongCountRef, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -283,6 +335,22 @@ function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
       else { setIdx(i => i + 1); setSelected(null); }
     }, 1000);
   };
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{(lbl as any).round3Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -327,9 +395,25 @@ function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
 }
 
 // ─── Round 4: Article declension table ────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= DECL_TABLE.length;
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{(lbl as any).round4Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -445,10 +529,11 @@ const KasusExplorer = memo(function KasusExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -461,10 +546,10 @@ const KasusExplorer = memo(function KasusExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>

@@ -696,10 +696,11 @@ const ReviewExplorer = memo(function ReviewExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 6;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);

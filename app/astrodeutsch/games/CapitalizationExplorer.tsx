@@ -12,16 +12,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Capital Letter Explorer",
     round1Title: "The Big Rules!",
     round1Hint: "Tap each rule to learn when we use capital letters!",
+    round1Teach: "German capitalization is special! NOUNS (things, people, animals) are ALWAYS capitalized, no matter where they are in the sentence. Every sentence STARTS with a capital letter. And names of people and places are ALWAYS capitalized. These are the three big rules!",
     round2Title: "Who needs a capital?",
     round2Hint: "Tap the word that should start with a capital letter!",
+    round2Teach: "In every sentence, look for nouns — the names of things, animals, people. They should be CAPITALIZED! Remember: In German, ALL nouns are capitalized, not just important ones. This is different from English!",
     round3Title: "Small conjunctions",
     round3Hint: "und, oder, aber — these stay lowercase! Tap them all.",
+    round3Teach: "Words like 'und' (and), 'oder' (or), 'aber' (but), 'denn' (because) are CONJUNCTIONS. They are NOT nouns, so they stay LOWERCASE. Even at the start of a sentence (in special cases), they can stay small! Connecting words are not capitalized!",
     round4Title: "Fix the sentence!",
     round4Hint: "Tap the word that is missing its capital letter!",
+    round4Teach: "Look at each sentence and find mistakes! Which word should be capitalized? Is it the first word of the sentence? Is it a noun? Use the rules you learned to fix the capitalization!",
     round5Title: "Capital Challenge",
     round5Hint: "Choose correctly!",
     well: "Brilliant!",
     next: "Next",
+    gotIt: "Got it!",
     finish: "Finished!",
     correct: "Correct!",
     rule1: "Nouns always start with a capital letter",
@@ -37,16 +42,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Nagybetű felfedező",
     round1Title: "A nagy szabályok!",
     round1Hint: "Koppints minden szabályra, hogy megtanuld, mikor írunk nagybetűt!",
+    round1Teach: "A német nagybetűzés különleges! A FŐNEVEK (dolgok, emberek, állatok) MINDIG nagybetűvel kezdődnek, függetlenül a mondatban elfoglalt helytől. Minden mondat NAGYBETŰVEL kezdődik. A személyek és helyek nevei MINDIG nagybetűsek. Ezek a három nagy szabály!",
     round2Title: "Kinek kell nagybetű?",
     round2Hint: "Koppints arra a szóra, amelynek nagybetűvel kell kezdődnie!",
+    round2Teach: "Minden mondatban keress főneveket — dolgok, állatok, emberek neveit. NAGYBETŰVEL kell kezdődniük! Ne feledd: A németben MINDEN főnév nagybetűvel kezdődik, nem csak a fontosak. Ez az angol nyelvtől eltérő!",
     round3Title: "Kis kötőszavak",
     round3Hint: "und, oder, aber — ezek kisbetűsek maradnak! Koppints mindegyikre.",
+    round3Teach: "Az olyan szavak mint 'und' (és), 'oder' (vagy), 'aber' (de), 'denn' (mert) KÖTŐSZAVAK. Nem főnevek, ezért KISBETŰSEK maradnak. Még a mondat elején is (különleges esetekben) maradhatnak kicsik! A kötőszavak nincsenek nagybetűzve!",
     round4Title: "Javítsd ki a mondatot!",
     round4Hint: "Koppints arra a szóra, amelyről hiányzik a nagybetű!",
+    round4Teach: "Nézd meg minden mondatot és keress hibákat! Melyik szónak kellene nagybetűvel kezdődnie? Egy mondat első szava? Egy főnév? Használd az általad tanult szabályokat a nagybetűzés kijavításához!",
     round5Title: "Nagybetű kihívás",
     round5Hint: "Válassz helyesen!",
     well: "Zseniális!",
     next: "Tovább",
+    gotIt: "Értem!",
     finish: "Vége!",
     correct: "Helyes!",
     rule1: "A főnevek mindig nagybetűvel kezdődnek",
@@ -62,16 +72,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Großschreibung-Entdecker",
     round1Title: "Die großen Regeln!",
     round1Hint: "Tippe auf jede Regel um zu lernen, wann wir großschreiben!",
+    round1Teach: "Deutsche Großschreibung ist besonders! NOMEN (Dinge, Menschen, Tiere) beginnen IMMER mit Großbuchstaben, egal wo sie im Satz stehen. Jeder Satz beginnt mit einem GROSSBUCHSTABEN. Und Namen von Personen und Orten werden IMMER großgeschrieben. Das sind die drei großen Regeln!",
     round2Title: "Wer braucht einen Großbuchstaben?",
     round2Hint: "Tippe auf das Wort, das mit einem Großbuchstaben beginnen muss!",
+    round2Teach: "In jedem Satz suche nach Nomen — den Namen von Dingen, Tieren, Menschen. Sie sollten GROSSGESCHRIEBEN sein! Merke dir: Im Deutschen werden ALLE Nomen großgeschrieben, nicht nur wichtige. Das ist anders als im Englischen!",
     round3Title: "Kleine Bindewörter",
     round3Hint: "und, oder, aber — diese bleiben klein! Tippe auf alle.",
+    round3Teach: "Wörter wie 'und' (and), 'oder' (or), 'aber' (but), 'denn' (because) sind BINDEWÖRTER (Konjunktionen). Sie sind keine Nomen, also bleiben sie KLEINGESCHRIEBEN. Auch am Satzanfang (in besonderen Fällen) können sie klein bleiben! Bindewörter werden nicht großgeschrieben!",
     round4Title: "Korrigiere den Satz!",
     round4Hint: "Tippe auf das Wort, dem der Großbuchstabe fehlt!",
+    round4Teach: "Schaue dir jeden Satz an und suche nach Fehlern! Welches Wort sollte großgeschrieben sein? Ist es das erste Wort des Satzes? Ist es ein Nomen? Nutze die gelernten Regeln, um die Großschreibung zu korrigieren!",
     round5Title: "Großschreibung-Herausforderung",
     round5Hint: "Wähle richtig!",
     well: "Brillant!",
     next: "Weiter",
+    gotIt: "Verstanden!",
     finish: "Fertig!",
     correct: "Richtig!",
     rule1: "Nomen beginnen immer mit einem Großbuchstaben",
@@ -87,16 +102,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul majusculelor",
     round1Title: "Regulile mari!",
     round1Hint: "Atinge fiecare regulă pentru a învăța când folosim majuscule!",
+    round1Teach: "Casing-ul germanic este special! SUBSTANTIVELE (lucruri, oameni, animale) încep ÎNTOTDEAUNA cu majusculă, indiferent unde sunt în propoziție. Fiecare propoziție ÎNCEPE cu o MAJUSCULĂ. Și numele de persoane și locuri sunt ÎNTOTDEAUNA capitalizate. Acestea sunt cele trei reguli principale!",
     round2Title: "Cine are nevoie de majusculă?",
     round2Hint: "Atinge cuvântul care trebuie să înceapă cu majusculă!",
+    round2Teach: "În fiecare propoziție, caută substantive — numele lucrurilor, animalelor, oamenilor. Ar trebui să fie CAPITALIZATE! Ține minte: În germană, TOATE substantivele sunt capitalizate, nu doar importante. Aceasta este diferit de engleza!",
     round3Title: "Conjuncții mici",
     round3Hint: "und, oder, aber — acestea rămân cu literă mică! Atinge-le pe toate.",
+    round3Teach: "Cuvinte precum 'und' (and), 'oder' (or), 'aber' (but), 'denn' (because) sunt CONJUNCȚII. Nu sunt substantive, deci rămân MICI. Chiar și la începutul propoziției (în cazuri speciale), pot rămâne mici! Cuvintele de legătură nu sunt capitalizate!",
     round4Title: "Corectează propoziția!",
     round4Hint: "Atinge cuvântul căruia îi lipsește majuscula!",
+    round4Teach: "Privește fiecare propoziție și caută greșeli! Care cuvânt ar trebui capitalizat? Este primul cuvânt al propoziției? Este un substantiv? Folosește regulile pe care le-ai învățat pentru a corecta capitalizarea!",
     round5Title: "Provocare majuscule",
     round5Hint: "Alege corect!",
     well: "Strălucit!",
     next: "Înainte",
+    gotIt: "Înțeles!",
     finish: "Gata!",
     correct: "Corect!",
     rule1: "Substantivele încep întotdeauna cu majusculă",
@@ -466,10 +486,11 @@ const CapitalizationExplorer = memo(function CapitalizationExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -482,11 +503,28 @@ const CapitalizationExplorer = memo(function CapitalizationExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} lang={lang} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <p className="text-xl font-black text-white">{lbl[`round${round + 1}Title` as keyof typeof lbl]}</p>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{lbl[`round${round + 1}Teach` as keyof typeof lbl]}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
+          {!showTeach && (
+            <>
+              {round === 0 && <Round1 color={color} lbl={lbl} lang={lang} onNext={next} />}
+              {round === 1 && <Round2 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+              {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+            </>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

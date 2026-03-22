@@ -199,9 +199,25 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 3 tenses overview ───────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= TENSE_OVERVIEW.length;
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -244,7 +260,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Regular Präteritum ──────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -253,6 +269,22 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
     if (idx + 1 >= REG_PRATERITUM.length) onNext();
     else { setIdx(i => i + 1); setTapped(false); }
   };
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -503,10 +535,11 @@ const TenseExplorerK4 = memo(function TenseExplorerK4({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -519,10 +552,10 @@ const TenseExplorerK4 = memo(function TenseExplorerK4({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
         </motion.div>
       </AnimatePresence>

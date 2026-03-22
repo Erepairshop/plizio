@@ -12,16 +12,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Spelling Explorer II",
     round1Title: "Double Consonants",
     round1Hint: "After a short vowel, the consonant is doubled! Tap to learn.",
+    round1Teach: "In German, when a word has a SHORT vowel before a consonant at the end, the consonant is DOUBLED! This shows that the vowel is short. For example: 'rennen' (to run) has 'nn' because the 'e' is short. This is a key spelling rule!",
     round2Title: "Stretching h",
     round2Hint: "ah, eh, oh, uh — the silent h stretches the vowel! Tap each word.",
+    round2Teach: "The letter 'h' is special! After a vowel, 'h' is often SILENT but it tells us the vowel is LONG. The vowel sound stretches: 'ah', 'eh', 'oh', 'uh'. Examples: 'fahren' (to drive), 'wohnen' (to live). The h makes the vowel long!",
     round3Title: "Word Families",
     round3Hint: "Words from the same family keep the same root! Tap to see the family.",
+    round3Teach: "Many German words are related! They share the same ROOT word. For example: 'spielen' (verb), 'Spiel' (noun), 'Spieler' (player), 'Spielzeug' (toy) — all from 'spiel'. Knowing word families helps you spell and understand better!",
     round4Title: "Fill the Gap!",
     round4Hint: "Which letters are missing?",
+    round4Teach: "Now practice recognizing these patterns! Look at the word and think: Is the vowel SHORT or LONG? Does the word have a silent h? Use what you learned to fill in the missing letters!",
     round5Title: "Spelling Challenge II",
     round5Hint: "Choose the correct spelling!",
     well: "Excellent!",
     next: "Next",
+    gotIt: "Got it!",
     finish: "Finished!",
     correct: "Correct!",
     wrong: "Not quite!",
@@ -35,16 +40,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Helyesírás felfedező II",
     round1Title: "Kettős mássalhangzók",
     round1Hint: "Rövid magánhangzó után a mássalhangzó megkettőzik! Koppints, hogy tanuld.",
+    round1Teach: "A németben, amikor egy szóban RÖVID magánhangzó van egy mássalhangzó előtt a szó végén, a mássalhangzó MEGKETTŐZIK! Ez mutatja, hogy a magánhangzó rövid. Például: 'rennen' (futni) 'nn'-nel mert az 'e' rövid. Ez egy fontos helyesírási szabály!",
     round2Title: "Nyújtó h",
     round2Hint: "ah, eh, oh, uh — a néma h megnyújtja a magánhangzót! Koppints minden szóra.",
+    round2Teach: "A 'h' betű különleges! Magánhangzó után a 'h' gyakran NÉMA, de azt mutatja, hogy a magánhangzó HOSSZÚ. A magánhangzó hang megnyúlik: 'ah', 'eh', 'oh', 'uh'. Példák: 'fahren' (vezetni), 'wohnen' (lakni). A h-val hosszú a magánhangzó!",
     round3Title: "Szócsaládok",
     round3Hint: "Ugyanabból a szócsaládból való szavak ugyanazt a gyököt tartják! Koppints, hogy lásd a családot.",
+    round3Teach: "Sok német szó rokon! Ugyanaz a GYÖK-szó. Például: 'spielen' (ige), 'Spiel' (főnév), 'Spieler' (játékos), 'Spielzeug' (játék) — mind a 'spiel'-ből. A szócsaládok ismerete segít helyesen írni és megérteni!",
     round4Title: "Töltsd ki a rést!",
     round4Hint: "Melyik betűk hiányoznak?",
+    round4Teach: "Most gyakorolj ezeket a mintákat felismerni! Nézd meg a szót és gondolkozz: RÖVID vagy HOSSZÚ a magánhangzó? Van-e néma h? Használd azt, amit tanultál a hiányzó betűk kitöltéséhez!",
     round5Title: "Helyesírási kihívás II",
     round5Hint: "Válaszd ki a helyes helyesírást!",
     well: "Kiváló!",
     next: "Tovább",
+    gotIt: "Értem!",
     finish: "Vége!",
     correct: "Helyes!",
     wrong: "Nem quite!",
@@ -58,16 +68,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Rechtschreibung-Entdecker II",
     round1Title: "Doppelkonsonanten",
     round1Hint: "Nach kurzem Vokal wird der Konsonant verdoppelt! Tippe zum Lernen.",
+    round1Teach: "Im Deutschen wird ein Konsonant VERDOPPELT, wenn davor ein KURZER Vokal kommt und der Konsonant am Wortende steht. Das zeigt, dass der Vokal kurz ist. Beispiel: 'rennen' (to run) hat 'nn' weil das 'e' kurz ist. Das ist eine wichtige Schreibregel!",
     round2Title: "Dehnungs-h",
     round2Hint: "ah, eh, oh, uh — das stille h dehnt den Vokal! Tippe auf jedes Wort.",
+    round2Teach: "Das 'h' ist besonders! Nach einem Vokal ist das 'h' oft STUMM, aber es zeigt, dass der Vokal LANG ist. Der Vokal wird gedehnt: 'ah', 'eh', 'oh', 'uh'. Beispiele: 'fahren' (to drive), 'wohnen' (to live). Das h macht den Vokal lang!",
     round3Title: "Wortfamilien",
     round3Hint: "Wörter aus der gleichen Familie behalten dieselbe Wurzel! Tippe um die Familie zu sehen.",
+    round3Teach: "Viele deutsche Wörter sind verwandt! Sie teilen dasselbe WURZELWORT. Beispiel: 'spielen' (verb), 'Spiel' (noun), 'Spieler' (player), 'Spielzeug' (toy) — alle von 'spiel'. Wenn du Wortfamilien kennst, kannst du besser schreiben und verstehen!",
     round4Title: "Lücke füllen!",
     round4Hint: "Welche Buchstaben fehlen?",
+    round4Teach: "Jetzt trainiere diese Muster zu erkennen! Schau das Wort an und denke: Ist der Vokal KURZ oder LANG? Gibt es ein stummes h? Nutze das, was du gelernt hast, um die fehlenden Buchstaben zu füllen!",
     round5Title: "Rechtschreib-Herausforderung II",
     round5Hint: "Wähle die richtige Schreibweise!",
     well: "Ausgezeichnet!",
     next: "Weiter",
+    gotIt: "Verstanden!",
     finish: "Fertig!",
     correct: "Richtig!",
     wrong: "Nicht ganz!",
@@ -81,16 +96,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul ortografiei II",
     round1Title: "Consoane duble",
     round1Hint: "După o vocală scurtă, consoana se dublează! Atinge pentru a învăța.",
+    round1Teach: "În germană, când un cuvânt are o VOCALĂ SCURTĂ înainte de o consoană la sfârșitul cuvântului, consoana se DUBLEAZĂ! Aceasta arată că vocala este scurtă. De exemplu: 'rennen' (to run) are 'nn' pentru că 'e' este scurt. Aceasta este o regulă importantă de ortografie!",
     round2Title: "h de alungire",
     round2Hint: "ah, eh, oh, uh — h-ul mut alungește vocala! Atinge fiecare cuvânt.",
+    round2Teach: "Litera 'h' este specială! După o vocală, 'h' este adesea MUT dar arată că vocala este LUNGĂ. Sunetul vocalei se alungește: 'ah', 'eh', 'oh', 'uh'. Exemple: 'fahren' (to drive), 'wohnen' (to live). Litera h face vocala lungă!",
     round3Title: "Familii de cuvinte",
     round3Hint: "Cuvintele din aceeași familie păstrează aceeași rădăcină! Atinge pentru a vedea familia.",
+    round3Teach: "Multe cuvinte germane sunt înrudite! Ele împărtășesc același cuvânt RĂDĂCINĂ. De exemplu: 'spielen' (verb), 'Spiel' (noun), 'Spieler' (player), 'Spielzeug' (toy) — toate din 'spiel'. Cunoașterea familiilor de cuvinte te ajută să scrii și înțelegi mai bine!",
     round4Title: "Completează spațiul!",
     round4Hint: "Ce litere lipsesc?",
+    round4Teach: "Acum exersează recunoașterea acestor modele! Privește cuvântul și gândește-te: Vocala este SCURTĂ sau LUNGĂ? Are h mut? Folosește ce ai învățat pentru a completa literele lipsă!",
     round5Title: "Provocare ortografie II",
     round5Hint: "Alege ortografia corectă!",
     well: "Excelent!",
     next: "Înainte",
+    gotIt: "Înțeles!",
     finish: "Gata!",
     correct: "Corect!",
     wrong: "Nu chiar!",
@@ -509,10 +529,11 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -525,11 +546,28 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <p className="text-xl font-black text-white">{lbl[`round${round + 1}Title` as keyof typeof lbl]}</p>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{lbl[`round${round + 1}Teach` as keyof typeof lbl]}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
+          {!showTeach && (
+            <>
+              {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+              {round === 1 && <Round2 lang={lang} color={color} lbl={lbl} onNext={next} />}
+              {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
+              {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+            </>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

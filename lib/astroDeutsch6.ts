@@ -38,7 +38,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/passiv"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-active-passive-explorer",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidá"      } },
     ],
     svgX: 160, svgY: 530,
@@ -50,7 +50,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/konjunktiv_2", "grammatik_k6/modalverben_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-konjunktiv-ii-explorer",  icon: "🪐", label: { de: "Konjunktiv-Quiz",   en: "Subjunctive Quiz", hu: "Kötőmód kvíz",      ro: "Quiz conjunctiv"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: 440,
@@ -62,7 +62,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/infinitiv_zu"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-infinitiv-zu-explorer",  icon: "🪐", label: { de: "Infinitiv-Quiz",    en: "Infinitive Quiz",  hu: "Infinitív kvíz",    ro: "Quiz infinitiv"    } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 240, svgY: 360,
@@ -86,7 +86,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortschatz_k6/fremdwoerter"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-fremdwoerter-explorer",  icon: "🪐", label: { de: "Fremdwörter-Quiz",  en: "Foreign Words Quiz", hu: "Idegen szó kvíz",  ro: "Quiz cuvinte"      } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",         hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
     ],
     svgX: 220, svgY: 195,
@@ -98,7 +98,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["satzstrukturen_k6/relativsatz", "satzstrukturen_k6/kausalsatz"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-relativsatz-kausalsatz-explorer",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 100, svgY: 125,
@@ -122,7 +122,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["zeichensetzung_k6/doppelpunkt_k6", "zeichensetzung_k6/gedankenstrich_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-punctuation-explorer",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: -20,
@@ -138,7 +138,7 @@ export const K6_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-review-explorer",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
-      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "word-blitz",  icon: "⚡", label: { de: "Wort-Blitz", en: "Word Blitz", hu: "Szóvillám", ro: "Blitz cuvinte" } },
     ],
     svgX: 190, svgY: -90,
