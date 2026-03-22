@@ -583,43 +583,86 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
           {/* ═══ ROUND 0 — Body parts: tap the highlighted part ═══ */}
           {round === 0 && (
             <>
-              <div className="flex items-center gap-2">
-                <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-                <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round1Title}</p>
+                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
 
-              <div className="relative">
-                <InteractiveBody
-                  color={color}
-                  highlightPart={bodyQuiz[bodyQIdx]}
-                  onTapPart={handleBodyTap}
-                  tappedCorrect={bodyTapped}
-                />
-              </div>
+                  <div className="relative">
+                    <InteractiveBody
+                      color={color}
+                      highlightPart={bodyQuiz[bodyQIdx]}
+                      onTapPart={handleBodyTap}
+                      tappedCorrect={bodyTapped}
+                    />
+                  </div>
 
-              {/* Question + sub-progress */}
-              <div className="flex items-center gap-2">
-                <span className="text-white/40 text-xs font-bold">{bodyQIdx + 1}/{bodyQuiz.length}</span>
-                <span className="text-white/80 text-sm font-bold">
-                  {lbl.whatIsThis} <span style={{ color }}>{lbl[bodyQuiz[bodyQIdx]]}</span>?
-                </span>
-              </div>
+                  {/* Question + sub-progress */}
+                  <div className="flex items-center gap-2">
+                    <span className="text-white/40 text-xs font-bold">{bodyQIdx + 1}/{bodyQuiz.length}</span>
+                    <span className="text-white/80 text-sm font-bold">
+                      {lbl.whatIsThis} <span style={{ color }}>{lbl[bodyQuiz[bodyQIdx]]}</span>?
+                    </span>
+                  </div>
 
-              {bodyTapped !== null && renderFeedback(
-                bodyTapped ? bodyQuiz[bodyQIdx] : "wrong",
-                bodyQuiz[bodyQIdx],
+                  {bodyTapped !== null && renderFeedback(
+                    bodyTapped ? bodyQuiz[bodyQIdx] : "wrong",
+                    bodyQuiz[bodyQIdx],
+                  )}
+
+                  {renderNext(bodyTapped === null, advanceBodyQ)}
+                </>
               )}
-
-              {renderNext(bodyTapped === null, advanceBodyQ)}
             </>
           )}
 
           {/* ═══ ROUND 1 — Sense → organ ═══ */}
           {round === 1 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round2Title}</p>
+                    <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = senseQuestions[senseIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [senseIdx]); // eslint-disable-line
@@ -656,6 +699,27 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
 
           {/* ═══ ROUND 2 — Organ → action ═══ */}
           {round === 2 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round3Title}</p>
+                    <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = actionQuestions[actionIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [actionIdx]); // eslint-disable-line
@@ -692,6 +756,27 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
 
           {/* ═══ ROUND 3 — Healthy habits ═══ */}
           {round === 3 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round4Title}</p>
+                    <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = hygieneQuestions[hygieneIdx];
             if (!q) return null;
             return (
@@ -761,6 +846,7 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
               </>
             );
           })()}
+
 
           {/* ═══ ROUND 4 — Mixed review ═══ */}
           {round === 4 && (() => {
