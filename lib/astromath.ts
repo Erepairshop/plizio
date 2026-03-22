@@ -57,7 +57,13 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "arthropod-explorer" | "mollusk-explorer" | "forest-explorer" | "water-explorer"
   | "heart-explorer" | "circulation-explorer" | "respiration-explorer" | "puberty-explorer"
   | "cell-explorer" | "division-explorer" | "photosynthesis-explorer" | "ecology-explorer" | "immune-explorer" | "nerve-explorer" | "evolution-explorer"
-  | "dna-explorer" | "mutation-explorer" | "hormone-explorer" | "reproduction-explorer" | "biotech-explorer" | "systems-explorer" | "popgen-explorer" | "phylogeny-explorer";
+  | "dna-explorer" | "mutation-explorer" | "hormone-explorer" | "reproduction-explorer" | "biotech-explorer" | "systems-explorer" | "popgen-explorer" | "phylogeny-explorer"
+  | "k2-healthy-body-explorer" | "k2-habitat-explorer" | "k2-wild-animal-explorer" | "k2-plant-explorer" | "k2-water-explorer"
+  | "k2-jobs-explorer" | "k2-safety-explorer" | "k2-science-explorer" | "k2-grand-review-explorer"
+  | "k3-body-systems-explorer" | "k3-animal-kingdom-explorer" | "k3-forest-life-explorer" | "k3-pollination-explorer" | "k3-weather-climate-explorer"
+  | "k3-geography-explorer" | "k3-tech-machines-explorer" | "k3-community-town-explorer" | "k3-environment-explorer"
+  | "k4-human-body-explorer" | "k4-mammals-birds-explorer" | "k4-reptiles-insects-explorer" | "k4-ecosystem-explorer" | "k4-weather-climate-explorer"
+  | "k4-earth-water-explorer" | "k4-energy-explorer" | "k4-maps-explorer" | "k4-grand-finale-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
