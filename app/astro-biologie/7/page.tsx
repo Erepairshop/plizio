@@ -9,6 +9,7 @@ import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -481,7 +482,7 @@ export default function AstroBiologieK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -545,7 +546,7 @@ export default function AstroBiologieK7Page() {
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK7(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK7(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -563,6 +564,9 @@ export default function AstroBiologieK7Page() {
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
     setEarnedCard(rarity);
     setRewardScore({ score, total });
     setScreen("reward");
@@ -798,12 +802,34 @@ export default function AstroBiologieK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "cell-explorer" && (
+          <CellExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "division-explorer" && (
+          <DivisionExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "photosynthesis-explorer" && (
+          <PhotosynthesisExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "ecology-explorer" && (
+          <EcologyExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "immune-explorer" && (
+          <ImmuneExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "nerve-explorer" && (
+          <NerveExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "evolution-explorer" && (
+          <EvolutionExplorer onDone={handleMissionDone} />
+        )}
 
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreens = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer"];
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
