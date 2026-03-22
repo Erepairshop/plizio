@@ -8,13 +8,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q1: "Melyik szó van helyesen írva?", a1: "játék", b1: "lyáték", c1: "játék", d1: "lyatik",
 
     t2: "Ékezetek", tx2: "Az ékezetek (á, é, í, ó, ú, ő, ű) az összes magyar szóban fontos szerepet játszanak.",
-    q2: "Melyik szó van helyesen írva ékezettel?", a2: "gyermek", b2: "gyermék", c3: "mély", d2: "mel",
+    q2: "Melyik szó van helyesen írva ékezettel?", a2: "gyermek", b2: "gyermék", c2: "mély", d2: "mel",
 
     t3: "Nagybetű a mondat elején", tx3: "A mondat első szavát nagybetűvel írjuk. Az nevek is nagybetűvel kezdődnek.",
     q3: "Melyik mondat van helyesen írva?", a3: "Anna szép virágokat szedett.", b3: "anna szép virágokat szedett.", c3: "ANNA szép virágokat szedett.", d3: "Anna szép VIRÁGOKAT szedett.",
 
     t4: "Szavak össze- és különírása", tx4: "Egyes szavakat össze, másokat pedig külön írunk. Például: kép + függesztő = képfüggesztő.",
-    q4: "Melyik szóösszetétel van helyesen írva?", a4: "napló", b4: "nap ló", c4: "nappló", d4: "napló",
+    q4: "Melyik szóösszetétel van helyesen írva?", a4: "napló", b4: "nap ló", c4: "nappló", d4: "nap-ló",
 
     t5: "Helyesírás gyakorlása", tx5: "A helyes helyesírás gyakorlásával sokat javíthatunk íráskészségünkön.",
     q5: "Melyik szó van helyesen írva?", a5: "szék", b5: "székk", c5: "szék", d5: "székh",

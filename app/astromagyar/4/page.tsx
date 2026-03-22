@@ -98,15 +98,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
-  | "verb-conjugation-explorer"
-  | "pronouns-o4-explorer"
-  | "adverbials-explorer"
-  | "complex-sentences-explorer"
-  | "word-formation-o4-explorer"
-  | "spelling-mastery-explorer"
-  | "composition-o4-explorer"
-  | "grammar-review-explorer"
-  | "review-o4-explorer"
+  | "o4-verb-conjugation-explorer"
+  | "o4-pronouns-explorer"
+  | "o4-adverbials-explorer"
+  | "o4-complex-sentences-explorer"
+  | "o4-word-formation-explorer"
+  | "o4-spelling-mastery-explorer"
+  | "o4-composition-explorer"
+  | "o4-grammar-review-explorer"
+  | "o4-review-explorer"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -384,9 +384,9 @@ export default function AstroMagyarO4Page() {
       "eset-explorer", "review-explorer", "review-explorer-hu",
       "sentence-builder", "memory-pair", "picture-word",
       "category-rush", "reading-comp",
-      "verb-conjugation-explorer", "pronouns-o4-explorer", "adverbials-explorer",
-      "complex-sentences-explorer", "word-formation-o4-explorer", "spelling-mastery-explorer",
-      "composition-o4-explorer", "grammar-review-explorer", "review-o4-explorer",
+      "o4-verb-conjugation-explorer", "o4-pronouns-explorer", "o4-adverbials-explorer",
+      "o4-complex-sentences-explorer", "o4-word-formation-explorer", "o4-spelling-mastery-explorer",
+      "o4-composition-explorer", "o4-grammar-review-explorer", "o4-review-explorer",
     ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
@@ -787,7 +787,7 @@ export default function AstroMagyarO4Page() {
 
       {/* O4 ExplorerEngine-based explorers */}
 
-      {screen === "verb-conjugation-explorer" && (
+      {screen === "o4-verb-conjugation-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <VerbConjugationExplorer color={color} lang={lang}
@@ -795,7 +795,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "pronouns-o4-explorer" && (
+      {screen === "o4-pronouns-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <PronounsO4Explorer color={color} lang={lang}
@@ -803,7 +803,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "adverbials-explorer" && (
+      {screen === "o4-adverbials-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <AdverbialsExplorer color={color} lang={lang}
@@ -811,7 +811,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "complex-sentences-explorer" && (
+      {screen === "o4-complex-sentences-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <ComplexSentencesExplorer color={color} lang={lang}
@@ -819,7 +819,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "word-formation-o4-explorer" && (
+      {screen === "o4-word-formation-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <WordFormationO4Explorer color={color} lang={lang}
@@ -827,7 +827,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "spelling-mastery-explorer" && (
+      {screen === "o4-spelling-mastery-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <SpellingMasteryExplorer color={color} lang={lang}
@@ -835,7 +835,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "composition-o4-explorer" && (
+      {screen === "o4-composition-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <CompositionO4Explorer color={color} lang={lang}
@@ -843,7 +843,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "grammar-review-explorer" && (
+      {screen === "o4-grammar-review-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <GrammarReviewExplorer color={color} lang={lang}
@@ -851,7 +851,7 @@ export default function AstroMagyarO4Page() {
         </div>
       )}
 
-      {screen === "review-o4-explorer" && (
+      {screen === "o4-review-explorer" && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
           <ReviewO4Explorer color={color} lang={lang}

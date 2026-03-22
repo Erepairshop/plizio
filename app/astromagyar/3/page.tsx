@@ -37,6 +37,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import VerbTensesExplorer from "@/app/astromagyar/games/o3/VerbTensesExplorer";
+import NounDeclensionExplorer from "@/app/astromagyar/games/o3/NounDeclensionExplorer";
+import CompoundWordsO3Explorer from "@/app/astromagyar/games/o3/CompoundWordsO3Explorer";
+import TextCompO3Explorer from "@/app/astromagyar/games/o3/TextCompO3Explorer";
+import IdiomsExplorer from "@/app/astromagyar/games/o3/IdiomsExplorer";
+import SpellingO3Explorer from "@/app/astromagyar/games/o3/SpellingO3Explorer";
+import CompositionO3Explorer from "@/app/astromagyar/games/o3/CompositionO3Explorer";
+import SentenceAnalysisO3Explorer from "@/app/astromagyar/games/o3/SentenceAnalysisO3Explorer";
+import ReviewO3Explorer from "@/app/astromagyar/games/o3/ReviewO3Explorer";
 import {
   generateO3SentenceBuilderContent, generateO3PictureWordContent,
   generateO3ReadingCompContent, generateO3MemoryPairContent,
@@ -91,6 +100,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "o3-verb-tenses-explorer"
+  | "o3-noun-declension-explorer"
+  | "o3-compound-words-explorer"
+  | "o3-text-comp-explorer"
+  | "o3-idioms-explorer"
+  | "o3-spelling-explorer"
+  | "o3-composition-explorer"
+  | "o3-sentence-analysis-explorer"
+  | "o3-review-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -331,7 +349,11 @@ export default function AstroMagyarO3Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu", "review-explorer", "sentence-builder", "memory-pair", "picture-word", "category-rush", "reading-comp"];
+    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu", "review-explorer", "sentence-builder", "memory-pair", "picture-word", "category-rush", "reading-comp",
+      "o3-verb-tenses-explorer", "o3-noun-declension-explorer", "o3-compound-words-explorer",
+      "o3-text-comp-explorer", "o3-idioms-explorer", "o3-spelling-explorer",
+      "o3-composition-explorer", "o3-sentence-analysis-explorer", "o3-review-explorer",
+    ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
@@ -744,6 +766,80 @@ export default function AstroMagyarO3Page() {
         <div className="relative">
           <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
           <ReadingCompExplorer rounds={generateO3ReadingCompContent()} lang={lang} color={activeIsland?.color || "#FF2D78"}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {/* O3 ExplorerEngine-based explorers */}
+
+      {screen === "o3-verb-tenses-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <VerbTensesExplorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-noun-declension-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <NounDeclensionExplorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-compound-words-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <CompoundWordsO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-text-comp-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <TextCompO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-idioms-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <IdiomsExplorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-spelling-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <SpellingO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-composition-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <CompositionO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-sentence-analysis-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <SentenceAnalysisO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o3-review-explorer" && (
+        <div className="relative">
+          <button onClick={() => setScreen("mission-select")} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"><X size={14} /></button>
+          <ReviewO3Explorer color={activeIsland?.color || "#FF2D78"} lang={lang}
             onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}

@@ -16,7 +16,7 @@ const LABELS: Record<string, Record<string, string>> = {
     q2: "Melyik helyes mutató névmás?",
     a2: "Az kutya fut az erdőbe.",
     b2: "Ez kutya fut az erdőbe.",
-    c3: "Olyan kutya fut az erdőbe.",
+    c2: "Olyan kutya fut az erdőbe.",
     d2: "Az az kutya fut az erdőbe.",
     t3: "Kérdő névmások",
     tx3: "A kérdő névmások kérdésekhez használatosak: ki?, mi?, melyik?, mennyi?",

@@ -773,6 +773,80 @@ export default function AstroMagyar2() {
         </div>
       )}
 
+      {/* O2 ExplorerEngine-based explorers */}
+
+      {screen === "o2-word-types-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <WordTypesExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-reading-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReadingExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-spelling-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpellingO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-grammar-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <GrammarO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-compound-words-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <CompoundWordsExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-conjugation-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ConjugationO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-synonyms-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SynonymsExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-vocabulary-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <VocabularyO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-review-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReviewO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
       {/* Reward */}
       {screen === "reward" && earnedCard && (
         <RewardReveal rarity={earnedCard} game="astromagyar" score={rewardScore.score} total={rewardScore.total}
