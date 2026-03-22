@@ -661,73 +661,156 @@ function SVG_R4(lang: string): React.ReactNode {
 }
 
 function SVG_R5(lang: string): React.ReactNode {
-  const lb: Record<string, { mammals: string; feat1: string; feat2: string; feat3: string; others: string; note: string }> = {
-    en: { mammals: "MAMMALS", feat1: "✓ Fur/Hair", feat2: "✓ Warm-blooded", feat3: "✓ Live birth", others: "OTHERS", note: "May have: scales, feathers, eggs..." },
-    de: { mammals: "SÄUGETIERE", feat1: "✓ Fell/Haare", feat2: "✓ Warmblütig", feat3: "✓ Lebendgeburt", others: "ANDERE", note: "Können haben: Schuppen, Federn, Eier..." },
-    hu: { mammals: "EMLŐSÖK", feat1: "✓ Szőr/Haj", feat2: "✓ Melegvérű", feat3: "✓ Elevenszülés", others: "MÁSOK", note: "Lehetnek: pikkelyek, tollak, tojások..." },
-    ro: { mammals: "MAMIFERE", feat1: "✓ Blană/Păr", feat2: "✓ Sânge cald", feat3: "✓ Naștere vie", others: "ALTELE", note: "Pot avea: solzi, pene, ouă..." },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_mam" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(6,182,212,0.3)" />
-          <stop offset="100%" stopColor="rgba(6,182,212,0.1)" />
+        <linearGradient id="m5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#0a1628" />
+          <stop offset="100%" stopColor="#162040" />
         </linearGradient>
-        <linearGradient id="r5_other" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(156,163,175,0.3)" />
-          <stop offset="100%" stopColor="rgba(156,163,175,0.1)" />
+        <radialGradient id="m5_center_glow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(6,182,212,0.15)" />
+          <stop offset="100%" stopColor="rgba(6,182,212,0)" />
+        </radialGradient>
+        <linearGradient id="m5_fox" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#E87A30" />
+          <stop offset="100%" stopColor="#B85A1A" />
+        </linearGradient>
+        <linearGradient id="m5_whale" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4A7A9A" />
+          <stop offset="100%" stopColor="#2E5A7A" />
+        </linearGradient>
+        <linearGradient id="m5_bat" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#5D4037" />
+          <stop offset="100%" stopColor="#3E2723" />
+        </linearGradient>
+        <linearGradient id="m5_lion" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E8A830" />
+          <stop offset="100%" stopColor="#C08020" />
         </linearGradient>
       </defs>
 
-      {/* Left column: Mammals */}
-      <g>
-        <rect x="8" y="10" width="105" height="140" rx="8" fill="url(#r5_mam)" stroke="#06B6D4" strokeWidth="2" />
-        <text x="60" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.mammals}
-        </text>
+      <rect width="240" height="160" fill="url(#m5_bg)" />
+      <circle cx="120" cy="80" r="75" fill="url(#m5_center_glow)" />
 
-        {/* Features list */}
-        <text x="18" y="55" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat1}
-        </text>
-        <text x="18" y="72" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat2}
-        </text>
-        <text x="18" y="89" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat3}
-        </text>
+      {/* Central mammal icon ring */}
+      <circle cx="120" cy="65" r="42" fill="none" stroke="rgba(6,182,212,0.15)" strokeWidth="1" strokeDasharray="4,4" />
 
-        {/* Animals */}
-        <text x="60" y="115" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          🐾 🦁 🐶 🐻 🦇 🐳
-        </text>
+      {/* FOX — top center (fur representative) */}
+      <g transform="translate(120, 30)">
+        <circle cx="0" cy="0" r="14" fill="rgba(232,122,48,0.15)" stroke="rgba(232,122,48,0.4)" strokeWidth="0.8" />
+        {/* Fox face */}
+        <path d="M -5,0 Q 0,-6 5,0 Q 3,5 0,6 Q -3,5 -5,0 Z" fill="url(#m5_fox)" />
+        <path d="M 0,2 Q -1,4 0,5 Q 1,4 0,2 Z" fill="#FFF8E1" opacity="0.5" />
+        {/* Ears */}
+        <path d="M -4,-3 Q -5,-8 -2,-6 Z" fill="url(#m5_fox)" />
+        <path d="M 4,-3 Q 5,-8 2,-6 Z" fill="url(#m5_fox)" />
+        {/* Eyes */}
+        <circle cx="-2" cy="-1" r="1.2" fill="#E8A020" />
+        <circle cx="-2" cy="-1" r="0.6" fill="#1a1a00" />
+        <circle cx="2" cy="-1" r="1.2" fill="#E8A020" />
+        <circle cx="2" cy="-1" r="0.6" fill="#1a1a00" />
+        {/* Nose */}
+        <circle cx="0" cy="2" r="0.8" fill="#1a1a1a" />
       </g>
 
-      {/* Right column: Others */}
-      <g>
-        <rect x="127" y="10" width="105" height="140" rx="8" fill="url(#r5_other)" stroke="#9CA3AF" strokeWidth="2" strokeDasharray="4,3" />
-        <text x="179" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          {l.others}
-        </text>
+      {/* WHALE — bottom center */}
+      <g transform="translate(120, 110)">
+        <circle cx="0" cy="0" r="14" fill="rgba(74,122,154,0.15)" stroke="rgba(74,122,154,0.4)" strokeWidth="0.8" />
+        {/* Whale body */}
+        <path d="M -8,0 Q -4,-5 4,-4 Q 10,-2 10,1 Q 8,4 2,5 Q -4,5 -8,2 Z" fill="url(#m5_whale)" />
+        <path d="M -6,1 Q -2,3 4,3" fill="#6A9ABA" opacity="0.3" />
+        {/* Eye */}
+        <circle cx="-5" cy="-1" r="1" fill="#f0f9ff" />
+        <circle cx="-5" cy="-1" r="0.5" fill="#0a0a0a" />
+        {/* Tail */}
+        <path d="M 10,0 Q 12,-3 14,-2 M 10,0 Q 12,3 14,2" stroke="url(#m5_whale)" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        {/* Water spout */}
+        <path d="M -4,-5 Q -3,-8 -4,-10 M -3,-5 Q -2,-9 -1,-10" stroke="rgba(100,200,255,0.4)" strokeWidth="0.5" fill="none" />
+      </g>
 
-        {/* Note */}
-        <text x="179" y="55" fontSize="7" textAnchor="middle" fill="rgba(255,255,255,0.6)" fontFamily="system-ui">
-          {l.note}
-        </text>
+      {/* BAT — left */}
+      <g transform="translate(80, 65)">
+        <circle cx="0" cy="0" r="14" fill="rgba(93,64,55,0.15)" stroke="rgba(93,64,55,0.4)" strokeWidth="0.8" />
+        {/* Body */}
+        <ellipse cx="0" cy="2" rx="3" ry="4" fill="url(#m5_bat)" />
+        {/* Wings spread */}
+        <path d="M -3,0 Q -8,-5 -12,-2 Q -10,2 -6,4 Q -4,3 -3,2 Z" fill="#5D4037" opacity="0.7" />
+        <path d="M 3,0 Q 8,-5 12,-2 Q 10,2 6,4 Q 4,3 3,2 Z" fill="#5D4037" opacity="0.7" />
+        {/* Wing membrane lines */}
+        <path d="M -4,-1 L -9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
+        <path d="M 4,-1 L 9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
+        {/* Head */}
+        <circle cx="0" cy="-2" r="2.5" fill="url(#m5_bat)" />
+        {/* Ears */}
+        <path d="M -1.5,-4 Q -2,-7 -0.5,-5 Z" fill="#5D4037" />
+        <path d="M 1.5,-4 Q 2,-7 0.5,-5 Z" fill="#5D4037" />
+        {/* Eyes */}
+        <circle cx="-1" cy="-2.5" r="0.7" fill="#FFD700" />
+        <circle cx="1" cy="-2.5" r="0.7" fill="#FFD700" />
+      </g>
 
-        {/* Animals */}
-        <text x="179" y="85" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Fish: 🐟
-        </text>
-        <text x="179" y="102" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Birds: 🐦
-        </text>
-        <text x="179" y="119" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Reptiles: 🦎
-        </text>
+      {/* LION — right */}
+      <g transform="translate(160, 65)">
+        <circle cx="0" cy="0" r="14" fill="rgba(232,168,48,0.15)" stroke="rgba(232,168,48,0.4)" strokeWidth="0.8" />
+        {/* Mane */}
+        <circle cx="0" cy="-1" r="8" fill="url(#m5_lion)" opacity="0.5" />
+        {/* Head */}
+        <circle cx="0" cy="-1" r="5" fill="url(#m5_lion)" />
+        {/* Muzzle */}
+        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#D4A060" opacity="0.5" />
+        {/* Eyes */}
+        <circle cx="-2" cy="-2" r="1.2" fill="#E8A020" />
+        <circle cx="-2" cy="-2" r="0.6" fill="#1a1a00" />
+        <circle cx="2" cy="-2" r="1.2" fill="#E8A020" />
+        <circle cx="2" cy="-2" r="0.6" fill="#1a1a00" />
+        {/* Nose */}
+        <ellipse cx="0" cy="1" rx="1.2" ry="0.8" fill="#1a1a1a" />
+        {/* Mane fur lines */}
+        <g stroke="rgba(180,120,20,0.3)" strokeWidth="0.5" fill="none">
+          <path d="M -7,-3 Q -6,-5 -5,-3" /><path d="M 5,-3 Q 6,-5 7,-3" />
+          <path d="M -6,3 Q -5,5 -4,3" /><path d="M 6,3 Q 5,5 4,3" />
+          <path d="M -3,-7 Q -2,-8 -1,-7" /><path d="M 1,-7 Q 2,-8 3,-7" />
+        </g>
+      </g>
+
+      {/* Feature indicators around the ring */}
+      {/* Fur */}
+      <g transform="translate(95, 18)">
+        <circle cx="0" cy="0" r="4" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="0.8" />
+        <g stroke="#10B981" strokeWidth="0.5" fill="none" opacity="0.8">
+          <path d="M -1.5,-1.5 Q 0,-3 1.5,-1.5" /><path d="M -1.5,0 Q 0,-1.5 1.5,0" /><path d="M -1.5,1.5 Q 0,0 1.5,1.5" />
+        </g>
+      </g>
+
+      {/* Warm blood */}
+      <g transform="translate(145, 18)">
+        <circle cx="0" cy="0" r="4" fill="rgba(255,70,87,0.2)" stroke="#FF4757" strokeWidth="0.8" />
+        <rect x="-0.8" y="-2.5" width="1.6" height="4" rx="0.8" fill="#FF4757" />
+        <circle cx="0" cy="2" r="1.2" fill="#FF4757" />
+      </g>
+
+      {/* Live birth */}
+      <g transform="translate(75, 100)">
+        <circle cx="0" cy="0" r="4" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="0.8" />
+        {/* Mother+baby silhouette */}
+        <circle cx="-1" cy="-0.5" r="2" fill="none" stroke="#EC4899" strokeWidth="0.6" />
+        <circle cx="1.5" cy="1" r="1" fill="#EC4899" opacity="0.5" />
+      </g>
+
+      {/* Milk */}
+      <g transform="translate(165, 100)">
+        <circle cx="0" cy="0" r="4" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="0.8" />
+        {/* Milk drop */}
+        <path d="M 0,-2 Q -1.5,0 0,2 Q 1.5,0 0,-2 Z" fill="#06B6D4" opacity="0.6" />
+      </g>
+
+      {/* Subtle connecting lines from features to center */}
+      <g stroke="rgba(255,255,255,0.06)" strokeWidth="0.5" strokeDasharray="2,3">
+        <line x1="95" y1="22" x2="110" y2="40" />
+        <line x1="145" y1="22" x2="130" y2="40" />
+        <line x1="79" y1="100" x2="100" y2="85" />
+        <line x1="161" y1="100" x2="140" y2="85" />
       </g>
     </svg>
   );
