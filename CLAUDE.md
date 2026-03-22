@@ -2295,3 +2295,86 @@ Minden adat Supabase-ben van. Nincs helyi mentes.
 5. **Seed determinism** — Multi modban a kerdesgenerator KOTELESZ a `seed` parametert hasznalni. Ha nem determinisztikus, a ket jatekos kulonbozo kerdeseket kap.
 
 ---
+
+## ÚJ ASTRO JÁTÉK LÉTREHOZÁSA — copy+rename minta
+
+> Tanult tapasztalat (2026-03-22) — mindig ezt a mintát kövesd, ne írj új UI-t!
+
+### Helyes minta: copy + lib import csere
+
+**Alapszabály:** Az astro játékok (astrodeutsch, astroenglish, astromagyar, astro-biologie stb.) grade oldalai **mind ugyanolyan struktúrájúak**. Új grade oldal létrehozásakor SOHA ne írj új UI-t — mindig másold az előző grade oldalát és csak a lib importokat cseréld.
+
+### Melyik template-et használd?
+
+| Játék tartalmaz... | Template |
+|---|---|
+| Csak `orbit-quiz` + `star-match` + `black-hole` | **`astrodeutsch/5/page.tsx`** |
+| + `speed-round`, `spell-race` stb. (Deutsch explorer) | `astrodeutsch/5/page.tsx` |
+| + English explorer játékok (fill-gap, word-sort stb.) | `astroenglish/5/page.tsx` |
+| + Math vizuális játékok (fraction-visual, equation-drill stb.) | `astromath/5/page.tsx` |
+
+**Biológia, Sachkunde, természettudományos játékok** → mindig **`astrodeutsch/5/page.tsx`** az alap (legegyszerűbb, csak 3 game type).
+
+### Copy+rename lépések
+
+```bash
+# 1. Másold az adott grade fájlt
+cp app/astrodeutsch/5/page.tsx app/uj-jatek/5/page.tsx
+
+# 2. Cseréld a lib importot és a függvényneveket
+# astrodeutsch: K5_ISLANDS, loadK5Progress, isMissionDoneK5 stb.
+# → uj-jatek: BIO_K5_ISLANDS as K5_ISLANDS, loadBioK5Progress as loadK5Progress stb.
+```
+
+**Amit MINDIG cserélni kell:**
+- `from "@/lib/astroDeutsch5"` → `from "@/lib/ujJatek5"` (megfelelő aliasokkal)
+- `game: "astrodeutsch"` → `game: "uj-jatek"` (kártyamentésnél)
+- `router.push("/astrodeutsch")` → `router.push("/uj-jatek")` (hub route)
+- `AstroDeutschK5Page` → `UjJatekK5Page` (export default function neve)
+- Grade label szöveg
+- Nebula/glow SVG filter ID-k (hogy ne ütközzenek más oldal szűrőivel)
+- `bgColor` default szín
+- Progress bar gradient
+
+**Amit NEM kell cserélni:**
+- Starfield komponens
+- CATEGORY_CONFIG (explore/build/challenge kártyák)
+- Screen type union
+- IslandMapSVG struktúra (csak a függvényneveket a lib-ből)
+- MissionDoneScreen, IslandDoneScreen, CheckpointDoneScreen
+- Játék renderek (gameScreen blokk)
+
+### Island SVG-k
+
+- Ha az új játékhoz **nincs island SVG fájl** → töröld a `K5_ISLAND_SVGS` importot, és az SVG conditional-t cseréld egyszerű emoji `<text>`-re:
+```tsx
+{unlocked ? (
+  <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
+    opacity={done ? 0.85 : 1}>{island.icon}</text>
+) : ( ... )}
+```
+
+### Layout fájlok
+
+Layout fájlokat is másold és csak a title/description/canonical-t cseréld:
+```bash
+cp app/astrodeutsch/5/layout.tsx app/uj-jatek/5/layout.tsx
+# Változtass: title, description, canonical URL
+```
+
+### Ellenőrzőlista új Astro grade hozzáadásakor
+
+```
+□ cp app/astrodeutsch/N/page.tsx app/uj-jatek/N/page.tsx
+□ Lib import + alias nevek cserélve
+□ game: "uj-jatek" (2× — mission done + checkpoint done)
+□ router.push("/uj-jatek")
+□ Export function neve megváltozott
+□ Grade label szöveg (en/hu/de/ro)
+□ bgColor default + progress bar gradient
+□ SVG filter ID-k egyediek (nebula1bioN stb.)
+□ cp app/astrodeutsch/N/layout.tsx app/uj-jatek/N/layout.tsx
+□ Layout: title, description, canonical
+□ npx next build — hibamentes?
+□ Hub page (page.tsx) frissítve: új grade route + progress loader
+```
