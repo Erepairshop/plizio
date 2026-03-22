@@ -614,6 +614,58 @@ export default function AstroMagyar8Page() {
         onDone={(s, t) => handleMissionComplete(s, t)} />
     );
   }
+  if (screen === "sentence-builder") {
+    return (
+      <SentenceBuilderExplorer
+        rounds={generateO8SentenceBuilderContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "memory-pair") {
+    return (
+      <MemoryPairExplorer
+        pairs={generateO8MemoryPairContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "picture-word") {
+    return (
+      <PictureVocabExplorer
+        rounds={generateO8PictureWordContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "category-rush") {
+    const data = generateO8CategoryRushContent();
+    return (
+      <CategoryRushExplorer
+        categories={data.categories}
+        items={data.items}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "reading-comp") {
+    return (
+      <ReadingCompExplorer
+        rounds={generateO8ReadingCompContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
 
   // Checkpoint quiz
   if (screen === "checkpoint-quiz" && questions.length > 0) {
