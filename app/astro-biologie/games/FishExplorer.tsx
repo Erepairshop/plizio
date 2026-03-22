@@ -598,127 +598,164 @@ function SVG_R2(lang: string) {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="waterGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#0EA5E9" />
-          <stop offset="50%" stopColor="#0284C7" />
-          <stop offset="100%" stopColor="#0369A1" />
+        {/* Water gradient — deep ocean blue */}
+        <linearGradient id="r2_Water" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#0c4a7a" />
+          <stop offset="50%" stopColor="#0a3a5c" />
+          <stop offset="100%" stopColor="#062a40" />
         </linearGradient>
-        <linearGradient id="landGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4ADE80" />
-          <stop offset="100%" stopColor="#22C55E" />
+        {/* Land gradient — green meadow */}
+        <linearGradient id="r2_Land" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#3b9d4d" />
+          <stop offset="50%" stopColor="#2d8a3d" />
+          <stop offset="100%" stopColor="#1f6b2d" />
         </linearGradient>
-        <linearGradient id="skyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" />
-          <stop offset="100%" stopColor="#E0F4FF" />
+        {/* Frog body gradient */}
+        <linearGradient id="r2_FrogBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4ade80" />
+          <stop offset="40%" stopColor="#22c55e" />
+          <stop offset="100%" stopColor="#15803d" />
         </linearGradient>
-        <filter id="frogShadow" x="-50%" y="-50%" width="200%" height="200%">
-          <feDropShadow dx="0" dy="3" stdDeviation="3" floodOpacity="0.3" />
-        </filter>
+        {/* Frog belly gradient */}
+        <linearGradient id="r2_FrogBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#86efac" stopOpacity="0.6" />
+          <stop offset="100%" stopColor="#4ade80" stopOpacity="0.2" />
+        </linearGradient>
+        {/* Caustic water light */}
+        <radialGradient id="r2_Caustic" cx="35%" cy="20%">
+          <stop offset="0%" stopColor="rgba(255,255,255,0.08)" />
+          <stop offset="100%" stopColor="rgba(255,255,255,0)" />
+        </radialGradient>
       </defs>
 
-      {/* Water (left side) with sky */}
-      <rect x="0" y="0" width="120" height="160" fill="url(#waterGrad2)" />
+      {/* ── Background split: Water left, Land right ── */}
+      <rect x="0" y="0" width="120" height="160" fill="url(#r2_Water)" />
+      <rect x="120" y="0" width="120" height="160" fill="url(#r2_Land)" />
 
-      {/* Land (right side) */}
-      <rect x="120" y="0" width="120" height="160" fill="url(#landGrad2)" />
+      {/* ── Water details — caustic light + waves + bubbles ── */}
+      <ellipse cx="50" cy="25" rx="80" ry="40" fill="url(#r2_Caustic)" />
 
-      {/* Sky reflection on water surface */}
-      <rect x="0" y="0" width="120" height="35" fill="url(#skyGrad)" opacity="0.2" />
+      {/* Light rays from above water */}
+      <line x1="35" y1="0" x2="48" y2="70" stroke="rgba(255,255,255,0.05)" strokeWidth="10" />
+      <line x1="80" y1="0" x2="95" y2="60" stroke="rgba(255,255,255,0.04)" strokeWidth="12" />
+      <line x1="110" y1="0" x2="115" y2="50" stroke="rgba(255,255,255,0.03)" strokeWidth="8" />
 
-      {/* Water wave details (more prominent) */}
-      <path
-        d="M 0 40 Q 15 35 30 40 T 60 40 T 90 40 T 120 40"
-        stroke="rgba(255,255,255,0.3)"
-        strokeWidth="2"
-        fill="none"
-      />
-      <path
-        d="M 0 58 Q 15 52 30 58 T 60 58 T 90 58 T 120 58"
-        stroke="rgba(255,255,255,0.22)"
-        strokeWidth="1.5"
-        fill="none"
-      />
-      <path
-        d="M 0 75 Q 15 70 30 75 T 60 75 T 90 75 T 120 75"
-        stroke="rgba(255,255,255,0.15)"
-        strokeWidth="1.2"
-        fill="none"
-      />
+      {/* Wavy water surface transition — organic curve */}
+      <path d="M 0 118 Q 30 110 60 120 Q 90 130 120 122 Q 150 115 180 125 Q 210 132 240 120"
+        fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth="1.5" />
+      <path d="M 0 123 Q 35 115 70 128 Q 105 140 120 128 Q 155 120 190 132 Q 220 140 240 125"
+        fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
 
-      {/* Bubbles in water (varied sizes) */}
-      <circle cx="20" cy="95" r="2.5" fill="rgba(255, 255, 255, 0.3)" />
-      <circle cx="50" cy="128" r="2" fill="rgba(255, 255, 255, 0.25)" />
-      <circle cx="85" cy="115" r="1.5" fill="rgba(255, 255, 255, 0.2)" />
-      <circle cx="35" cy="140" r="1.2" fill="rgba(255, 255, 255, 0.15)" />
-      <circle cx="105" cy="105" r="1.8" fill="rgba(255, 255, 255, 0.18)" />
+      {/* Bubbles in water (varied sizes & positions) */}
+      <circle cx="20" cy="90" r="2.2" fill="rgba(255,255,255,0.25)" />
+      <circle cx="65" cy="115" r="1.6" fill="rgba(255,255,255,0.2)" />
+      <circle cx="35" cy="145" r="1.3" fill="rgba(255,255,255,0.15)" />
+      <circle cx="95" cy="100" r="1.9" fill="rgba(255,255,255,0.18)" />
+      <circle cx="48" cy="70" r="1" fill="rgba(255,255,255,0.1)" />
 
-      {/* Grass on land side (improved density and detail) */}
-      <g opacity="0.75">
-        <path d="M 125 158 Q 123 145 132 152" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 138 158 Q 136 140 146 150" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 151 158 Q 149 147 160 152" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 164 158 Q 162 142 174 150" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 177 158 Q 175 145 187 152" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 190 158 Q 188 147 200 152" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 203 158 Q 201 142 213 150" stroke="#059669" strokeWidth="1.8" fill="none" />
-        <path d="M 216 158 Q 214 145 224 150" stroke="#059669" strokeWidth="1.8" fill="none" />
+      {/* ── Land details — curved grass blades ── */}
+      <g opacity="0.75" stroke="#059669" strokeWidth="1.3" fill="none" strokeLinecap="round">
+        <path d="M 125 160 Q 123 145 132 152" />
+        <path d="M 138 162 Q 136 140 148 150" />
+        <path d="M 152 161 Q 150 143 165 153" />
+        <path d="M 168 162 Q 166 142 180 152" />
+        <path d="M 185 160 Q 183 148 196 154" />
+        <path d="M 205 161 Q 203 143 218 152" />
+        <path d="M 128 158 Q 127 150 135 155" />
+        <path d="M 195 159 Q 194 150 203 156" />
       </g>
 
-      {/* Frog body (main) - straddling both sides, improved shape */}
-      <ellipse cx="120" cy="108" rx="26" ry="22" fill="#3FD850" filter="url(#frogShadow)" />
-
-      {/* Frog belly highlight (subtle gradient effect) */}
-      <ellipse cx="120" cy="112" rx="22" ry="16" fill="#5EEE6F" opacity="0.4" />
-
-      {/* Frog body texture (pattern) */}
-      <circle cx="105" cy="100" r="1.5" fill="rgba(0, 0, 0, 0.1)" opacity="0.4" />
-      <circle cx="120" cy="98" r="1.5" fill="rgba(0, 0, 0, 0.1)" opacity="0.4" />
-      <circle cx="135" cy="100" r="1.5" fill="rgba(0, 0, 0, 0.1)" opacity="0.4" />
-
-      {/* Frog head (left side - water, improved shape) */}
-      <circle cx="104" cy="78" r="15" fill="#3FD850" filter="url(#frogShadow)" />
-
-      {/* Frog head (right side - land, improved shape) */}
-      <circle cx="136" cy="78" r="15" fill="#3FD850" filter="url(#frogShadow)" />
-
-      {/* Eyes (large, bulging - improved anatomy) */}
-      <g filter="url(#frogShadow)">
-        <circle cx="101" cy="70" r="4.5" fill="white" />
-        <circle cx="139" cy="70" r="4.5" fill="white" />
-        <circle cx="101" cy="70" r="2.5" fill="black" />
-        <circle cx="139" cy="70" r="2.5" fill="black" />
-        <circle cx="102.5" cy="68" r="1.2" fill="white" opacity="0.8" />
-        <circle cx="140.5" cy="68" r="1.2" fill="white" opacity="0.8" />
+      {/* Small flowers on land */}
+      <g opacity="0.65">
+        <circle cx="142" cy="151" r="1.8" fill="#f97316" />
+        <circle cx="142" cy="149" r="0.8" fill="#fbbf24" />
+        <circle cx="195" cy="154" r="1.6" fill="#f97316" />
+        <circle cx="195" cy="152" r="0.8" fill="#fbbf24" />
       </g>
 
-      {/* Mouth (friendly smile) */}
-      <path d="M 118 90 Q 120 94 130 92" stroke="rgba(0, 0, 0, 0.35)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+      {/* ── Frog body — organic bezier blob, straddling water/land ── */}
+      <path d="M 120 127
+        Q 90 118 78 102
+        Q 72 92 75 78
+        Q 82 65 105 62
+        Q 130 60 150 65
+        Q 165 72 168 85
+        Q 168 100 160 110
+        Q 145 123 120 127 Z"
+        fill="url(#r2_FrogBody)" />
 
-      {/* Front legs (water side - left, improved) */}
-      <ellipse cx="94" cy="128" rx="9" ry="11" fill="#3FD850" filter="url(#frogShadow)" />
-      <ellipse cx="83" cy="143" rx="6" ry="7" fill="#2EBE40" />
-      <circle cx="83" cy="150" r="2" fill="#1FA832" opacity="0.5" />
+      {/* Frog belly — lighter highlight with lower opacity */}
+      <path d="M 100 98 Q 120 125 138 108 Q 132 115 120 120 Q 110 115 100 98 Z"
+        fill="url(#r2_FrogBelly)" />
 
-      {/* Front legs (land side - right, improved) */}
-      <ellipse cx="146" cy="128" rx="9" ry="11" fill="#3FD850" filter="url(#frogShadow)" />
-      <ellipse cx="157" cy="143" rx="6" ry="7" fill="#2EBE40" />
-      <circle cx="157" cy="150" r="2" fill="#1FA832" opacity="0.5" />
+      {/* Spotted texture on frog back — darker spots */}
+      <g opacity="0.25" fill="rgba(0,0,0,0.5)">
+        <circle cx="95" cy="88" r="1.5" />
+        <circle cx="120" cy="75" r="1.3" />
+        <circle cx="145" cy="88" r="1.4" />
+        <circle cx="108" cy="102" r="1" />
+        <circle cx="130" cy="105" r="1.1" />
+        <circle cx="125" cy="90" r="0.9" />
+      </g>
 
-      {/* Back legs (stretched out, improved) */}
-      <ellipse cx="68" cy="118" rx="11" ry="8" fill="#2EBE40" filter="url(#frogShadow)" transform="rotate(-15 68 118)" />
-      <ellipse cx="172" cy="118" rx="11" ry="8" fill="#2EBE40" filter="url(#frogShadow)" transform="rotate(15 172 118)" />
+      {/* ── Left eye (water side) — detailed with iris ring ── */}
+      <circle cx="105" cy="82" r="6" fill="#f0f9ff" />
+      <circle cx="105" cy="82" r="4.2" fill="#1e3a5f" />
+      <circle cx="105" cy="82" r="2.8" fill="#0c1829" />
+      <circle cx="105" cy="82" r="4" fill="none" stroke="rgba(34,211,238,0.4)" strokeWidth="0.7" />
+      <circle cx="107.5" cy="79.5" r="1.5" fill="white" opacity="0.9" />
+      <circle cx="103" cy="84.5" r="0.6" fill="white" opacity="0.45" />
 
-      {/* Label backgrounds with improved styling */}
+      {/* ── Right eye (land side) — detailed with iris ring ── */}
+      <circle cx="135" cy="82" r="6" fill="#f0f9ff" />
+      <circle cx="135" cy="82" r="4.2" fill="#1e3a5f" />
+      <circle cx="135" cy="82" r="2.8" fill="#0c1829" />
+      <circle cx="135" cy="82" r="4" fill="none" stroke="rgba(34,211,238,0.4)" strokeWidth="0.7" />
+      <circle cx="137.5" cy="79.5" r="1.5" fill="white" opacity="0.9" />
+      <circle cx="133" cy="84.5" r="0.6" fill="white" opacity="0.45" />
+
+      {/* Nostrils for breathing hint */}
+      <circle cx="115" cy="92" r="0.8" fill="rgba(0,0,0,0.35)" />
+      <circle cx="125" cy="92" r="0.8" fill="rgba(0,0,0,0.35)" />
+
+      {/* Mouth curve */}
+      <path d="M 110 100 Q 120 105 130 100" fill="none" stroke="rgba(0,0,0,0.3)" strokeWidth="1.2" strokeLinecap="round" />
+
+      {/* ── Front left leg (water side) — organic curved shape ── */}
+      <path d="M 92 118
+        Q 82 130 70 142
+        Q 68 145 73 143
+        Q 88 135 100 122 Z"
+        fill="url(#r2_FrogBody)" />
+      {/* Left foot webbing hints */}
+      <path d="M 70 142 Q 66 146 62 150" fill="none" stroke="rgba(0,0,0,0.15)" strokeWidth="0.8" />
+
+      {/* ── Front right leg (land side) — organic curved shape ── */}
+      <path d="M 148 118
+        Q 158 130 170 142
+        Q 172 145 167 143
+        Q 152 135 140 122 Z"
+        fill="url(#r2_FrogBody)" />
+      {/* Right foot webbing hints */}
+      <path d="M 170 142 Q 174 146 178 150" fill="none" stroke="rgba(0,0,0,0.15)" strokeWidth="0.8" />
+
+      {/* ── Back legs — muscular curved shapes ── */}
+      <path d="M 75 115 Q 60 125 55 140 Q 54 145 60 142 Q 75 130 82 118 Z"
+        fill="url(#r2_FrogBody)" opacity="0.85" />
+      <path d="M 165 115 Q 180 125 185 140 Q 186 145 180 142 Q 165 130 158 118 Z"
+        fill="url(#r2_FrogBody)" opacity="0.85" />
+
+      {/* ═══════════ Labels ═══════════ */}
 
       {/* Water label */}
-      <rect x="18" y="12" width="64" height="28" rx="6" fill="rgba(0, 0, 0, 0.65)" stroke="#87CEEB" strokeWidth="2" />
-      <text x="50" y="35" fontSize="13" fill="#FFD700" fontWeight="bold" textAnchor="middle">
+      <rect x="10" y="6" width="60" height="24" rx="12" fill="rgba(0,0,0,0.8)" stroke="#67e8f9" strokeWidth="1.5" />
+      <text x="40" y="26" fontSize="11" fill="#67e8f9" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
         {l.water}
       </text>
 
       {/* Land label */}
-      <rect x="160" y="12" width="64" height="28" rx="6" fill="rgba(0, 0, 0, 0.65)" stroke="#4ADE80" strokeWidth="2" />
-      <text x="192" y="35" fontSize="13" fill="#FFD700" fontWeight="bold" textAnchor="middle">
+      <rect x="170" y="6" width="60" height="24" rx="12" fill="rgba(0,0,0,0.8)" stroke="#86efac" strokeWidth="1.5" />
+      <text x="200" y="26" fontSize="11" fill="#86efac" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
         {l.land}
       </text>
     </svg>
@@ -737,96 +774,236 @@ function SVG_R3(lang: string) {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3Bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#0F2F4F" />
-          <stop offset="100%" stopColor="#061B2E" />
+        {/* Ocean background gradient */}
+        <linearGradient id="r3_Bg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#0c2d48" />
+          <stop offset="60%" stopColor="#0a3a5c" />
+          <stop offset="100%" stopColor="#062a40" />
         </linearGradient>
-        <filter id="r3Shadow" x="-50%" y="-50%" width="200%" height="200%">
-          <feDropShadow dx="0" dy="2" stdDeviation="2" floodOpacity="0.25" />
-        </filter>
+
+        {/* Fish body gradient */}
+        <linearGradient id="r3_FishBody" x1="0%" y1="20%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#22d3ee" />
+          <stop offset="40%" stopColor="#06b6d4" />
+          <stop offset="100%" stopColor="#0e7490" />
+        </linearGradient>
+        {/* Fish belly */}
+        <linearGradient id="r3_FishBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#67e8f9" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#22d3ee" stopOpacity="0.1" />
+        </linearGradient>
+
+        {/* Tadpole body gradient */}
+        <linearGradient id="r3_TadpoleBody" x1="0%" y1="20%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fcd34d" />
+          <stop offset="40%" stopColor="#fbbf24" />
+          <stop offset="100%" stopColor="#d97706" />
+        </linearGradient>
+        {/* Tadpole belly */}
+        <linearGradient id="r3_TadpoleBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fed7aa" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#fbbf24" stopOpacity="0.1" />
+        </linearGradient>
+
+        {/* Frog body gradient */}
+        <linearGradient id="r3_FrogBody" x1="0%" y1="20%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4ade80" />
+          <stop offset="40%" stopColor="#22c55e" />
+          <stop offset="100%" stopColor="#15803d" />
+        </linearGradient>
+        {/* Frog belly */}
+        <linearGradient id="r3_FrogBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#86efac" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#4ade80" stopOpacity="0.1" />
+        </linearGradient>
+
+        {/* Panel card border gradients */}
+        <linearGradient id="r3_PanelBorder1" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="rgba(6,182,212,0.7)" />
+          <stop offset="100%" stopColor="rgba(6,182,212,0.3)" />
+        </linearGradient>
+        <linearGradient id="r3_PanelBorder2" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="rgba(251,146,60,0.7)" />
+          <stop offset="100%" stopColor="rgba(251,146,60,0.3)" />
+        </linearGradient>
+        <linearGradient id="r3_PanelBorder3" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="rgba(74,222,128,0.7)" />
+          <stop offset="100%" stopColor="rgba(74,222,128,0.3)" />
+        </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#r3Bg)" />
 
-      {/* Panel 1: Fish + Gills */}
+      {/* ─ Background ─ */}
+      <rect width="240" height="160" fill="url(#r3_Bg)" />
+
+      {/* ═══════════ Panel 1: Fish ═══════════ */}
       <g>
-        <rect x="8" y="15" width="70" height="132" rx="6" fill="rgba(6, 182, 212, 0.12)" stroke="rgba(6, 182, 212, 0.5)" strokeWidth="1.5" />
+        {/* Panel card */}
+        <rect x="8" y="12" width="70" height="138" rx="8" fill="rgba(6,182,212,0.1)" stroke="url(#r3_PanelBorder1)" strokeWidth="1.5" />
 
-        {/* Fish illustration */}
-        <ellipse cx="43" cy="50" rx="20" ry="15" fill="#06B6D4" filter="url(#r3Shadow)" />
-        <ellipse cx="43" cy="54" rx="18" ry="11" fill="#22D3EE" opacity="0.3" />
-        <path d="M 23 50 L 5 40 L 10 50 L 5 60 Z" fill="#0891B2" opacity="0.85" />
-        <rect x="24" y="45" width="7" height="10" fill="#FF6B35" opacity="0.7" rx="1" />
-        <line x1="24.5" y1="45" x2="24.5" y2="55" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <line x1="27" y1="45" x2="27" y2="55" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <line x1="29.5" y1="45" x2="29.5" y2="55" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <circle cx="17" cy="47" r="2.5" fill="white" />
-        <circle cx="18" cy="47" r="1.2" fill="black" />
-
-        {/* Header */}
-        <text x="43" y="85" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Panel header */}
+        <text x="43" y="28" fontSize="11" fill="#67e8f9" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.fish}
         </text>
 
-        {/* Breathing label with background */}
-        <rect x="18" y="98" width="50" height="16" rx="3" fill="rgba(0, 0, 0, 0.4)" />
-        <text x="43" y="110" fontSize="9" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
+        {/* ── Fish body (organic bezier curves) ── */}
+        <path d="M 32 62
+          Q 32 50 40 46
+          Q 48 44 54 49
+          Q 57 54 56 62
+          Q 54 70 48 72
+          Q 40 71 32 62 Z"
+          fill="url(#r3_FishBody)" />
+
+        {/* Fish belly highlight */}
+        <path d="M 36 62 Q 42 70 50 66 Q 48 64 42 66 Q 38 64 36 62 Z"
+          fill="url(#r3_FishBelly)" />
+
+        {/* Scale arc pattern — 4 rows */}
+        <g opacity="0.35" strokeWidth="0.6" fill="none" stroke="rgba(255,255,255,0.5)">
+          <path d="M 40 52 Q 42 49 44 52" />
+          <path d="M 46 51 Q 48 48 50 51" />
+          <path d="M 39 58 Q 41 56 43 58" />
+          <path d="M 46 59 Q 48 57 50 59" />
+          <path d="M 40 65 Q 42 63 44 65" />
+          <path d="M 48 66 Q 50 64 52 66" />
+        </g>
+
+        {/* Fish tail — forked with rays */}
+        <path d="M 32 62 Q 20 52 14 48 Q 20 62 18 62 Q 20 72 14 76 Q 20 70 32 66 Z"
+          fill="#0e7490" opacity="0.85" />
+        {/* Tail rays */}
+        <line x1="28" y1="62" x2="16" y2="50" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+        <line x1="28" y1="68" x2="16" y2="74" stroke="rgba(255,255,255,0.12)" strokeWidth="0.5" />
+
+        {/* ── Eye — detailed with iris ── */}
+        <circle cx="36" cy="52" r="3.8" fill="#f0f9ff" />
+        <circle cx="36" cy="52" r="2.6" fill="#1e3a5f" />
+        <circle cx="36" cy="52" r="1.6" fill="#0c1829" />
+        <circle cx="36" cy="52" r="2.4" fill="none" stroke="rgba(34,211,238,0.35)" strokeWidth="0.6" />
+        <circle cx="37.5" cy="50.5" r="1" fill="white" opacity="0.8" />
+        <circle cx="35" cy="53.5" r="0.4" fill="white" opacity="0.4" />
+
+        {/* Gill slits detail — 3 curves */}
+        <path d="M 31 56 Q 29 60 31 64" fill="none" stroke="rgba(239,68,68,0.3)" strokeWidth="0.8" />
+        <path d="M 30 57 Q 28 61 30 63" fill="none" stroke="rgba(239,68,68,0.2)" strokeWidth="0.6" />
+        <path d="M 29 59 Q 27 61 29 63" fill="none" stroke="rgba(239,68,68,0.15)" strokeWidth="0.5" />
+
+        {/* Breathing label */}
+        <rect x="15" y="95" width="50" height="18" rx="6" fill="rgba(0,0,0,0.7)" stroke="#67e8f9" strokeWidth="1.2" />
+        <text x="40" y="108" fontSize="8" fill="#67e8f9" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.gills}
         </text>
       </g>
 
-      {/* Panel 2: Tadpole + Gills */}
+      {/* ═══════════ Panel 2: Tadpole ═══════════ */}
       <g>
-        <rect x="85" y="15" width="70" height="132" rx="6" fill="rgba(251, 191, 36, 0.12)" stroke="rgba(251, 191, 36, 0.5)" strokeWidth="1.5" />
+        {/* Panel card */}
+        <rect x="85" y="12" width="70" height="138" rx="8" fill="rgba(251,146,60,0.1)" stroke="url(#r3_PanelBorder2)" strokeWidth="1.5" />
 
-        {/* Tadpole illustration */}
-        <ellipse cx="120" cy="50" rx="17" ry="13" fill="#FBBF24" filter="url(#r3Shadow)" />
-        <ellipse cx="120" cy="53" rx="15" ry="10" fill="#FCD34D" opacity="0.3" />
-        <path d="M 103 50 L 82 40 L 87 50 L 82 60 Z" fill="#F59E0B" opacity="0.85" />
-        <rect x="104" y="45" width="6" height="9" fill="#FF6B35" opacity="0.7" rx="1" />
-        <line x1="104.5" y1="45" x2="104.5" y2="54" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <line x1="107" y1="45" x2="107" y2="54" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <line x1="109.5" y1="45" x2="109.5" y2="54" stroke="#FF6B35" strokeWidth="0.8" opacity="0.4" />
-        <circle cx="97" cy="47" r="2.5" fill="white" />
-        <circle cx="98" cy="47" r="1.2" fill="black" />
-
-        {/* Header */}
-        <text x="120" y="85" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Panel header */}
+        <text x="120" y="28" fontSize="11" fill="#fed7aa" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.tadpole}
         </text>
 
-        {/* Breathing label with background */}
-        <rect x="95" y="98" width="50" height="16" rx="3" fill="rgba(0, 0, 0, 0.4)" />
-        <text x="120" y="110" fontSize="9" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
+        {/* ── Tadpole body (teardrop with bezier) ── */}
+        <path d="M 115 76
+          Q 110 54 118 48
+          Q 126 45 131 52
+          Q 134 60 133 72
+          Q 128 80 120 82
+          Q 115 80 115 76 Z"
+          fill="url(#r3_TadpoleBody)" />
+
+        {/* Tadpole belly highlight */}
+        <path d="M 118 65 Q 120 75 128 70 Q 126 68 120 70 Q 118 68 118 65 Z"
+          fill="url(#r3_TadpoleBelly)" />
+
+        {/* Tadpole tail — wavy membrane fin */}
+        <path d="M 115 76
+          Q 105 80 95 76
+          Q 100 80 108 82
+          Q 112 81 115 79 Z"
+          fill="#d97706" opacity="0.8" />
+
+        {/* Tail membrane rays */}
+        <line x1="110" y1="76" x2="100" y2="76" stroke="rgba(255,255,255,0.18)" strokeWidth="0.5" />
+        <line x1="107" y1="80" x2="98" y2="82" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+        <line x1="112" y1="83" x2="104" y2="86" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
+
+        {/* External gill tufts — organic shapes */}
+        <path d="M 113 58 Q 109 50 106 58 Q 109 63 113 58 Z" fill="rgba(234,88,12,0.55)" />
+        <path d="M 113 63 Q 109 54 106 65 Q 109 70 113 63 Z" fill="rgba(234,88,12,0.45)" />
+
+        {/* Eye — tiny but detailed */}
+        <circle cx="118" cy="54" r="2.2" fill="white" />
+        <circle cx="118" cy="54" r="1.3" fill="#1e3a5f" />
+        <circle cx="119" cy="53" r="0.6" fill="white" opacity="0.7" />
+
+        {/* Breathing label */}
+        <rect x="92" y="95" width="50" height="18" rx="6" fill="rgba(0,0,0,0.7)" stroke="#fed7aa" strokeWidth="1.2" />
+        <text x="117" y="108" fontSize="8" fill="#fed7aa" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.gills}
         </text>
       </g>
 
-      {/* Panel 3: Frog + Lungs + Skin */}
+      {/* ═══════════ Panel 3: Adult Frog ═══════════ */}
       <g>
-        <rect x="162" y="15" width="70" height="132" rx="6" fill="rgba(74, 222, 128, 0.12)" stroke="rgba(74, 222, 128, 0.5)" strokeWidth="1.5" />
+        {/* Panel card */}
+        <rect x="162" y="12" width="70" height="138" rx="8" fill="rgba(74,222,128,0.1)" stroke="url(#r3_PanelBorder3)" strokeWidth="1.5" />
 
-        {/* Frog illustration */}
-        <ellipse cx="197" cy="50" rx="16" ry="16" fill="#4ADE80" filter="url(#r3Shadow)" />
-        <ellipse cx="197" cy="54" rx="14" ry="12" fill="#5EEE6F" opacity="0.3" />
-
-        {/* Eyes */}
-        <circle cx="191" cy="45" r="2.5" fill="white" />
-        <circle cx="203" cy="45" r="2.5" fill="white" />
-        <circle cx="191" cy="45" r="1.2" fill="black" />
-        <circle cx="203" cy="45" r="1.2" fill="black" />
-
-        {/* Legs */}
-        <ellipse cx="180" cy="62" rx="4" ry="6" fill="#4ADE80" />
-        <ellipse cx="214" cy="62" rx="4" ry="6" fill="#4ADE80" />
-
-        {/* Header */}
-        <text x="197" y="85" fontSize="10" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Panel header */}
+        <text x="197" y="28" fontSize="11" fill="#86efac" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.frog}
         </text>
 
-        {/* Breathing label with background */}
-        <rect x="172" y="98" width="50" height="16" rx="3" fill="rgba(0, 0, 0, 0.4)" />
-        <text x="197" y="110" fontSize="8" fill="#4ADE80" fontWeight="bold" textAnchor="middle">
+        {/* ── Frog body (organic blob with bezier) ── */}
+        <path d="M 197 78
+          Q 185 68 182 56
+          Q 180 48 188 45
+          Q 197 43 206 45
+          Q 214 48 212 56
+          Q 209 68 197 78 Z"
+          fill="url(#r3_FrogBody)" />
+
+        {/* Frog belly highlight */}
+        <path d="M 190 62 Q 197 75 204 68 Q 200 64 197 68 Q 194 64 190 62 Z"
+          fill="url(#r3_FrogBelly)" />
+
+        {/* Spotted texture — darker spots */}
+        <g opacity="0.3" fill="rgba(0,0,0,0.45)">
+          <circle cx="189" cy="58" r="1.1" />
+          <circle cx="205" cy="58" r="1.1" />
+          <circle cx="197" cy="66" r="0.9" />
+          <circle cx="192" cy="70" r="0.8" />
+        </g>
+
+        {/* ── Left eye (detailed with iris ring) ── */}
+        <circle cx="191" cy="55" r="4.2" fill="#f0f9ff" />
+        <circle cx="191" cy="55" r="2.9" fill="#1e3a5f" />
+        <circle cx="191" cy="55" r="1.8" fill="#0c1829" />
+        <circle cx="191" cy="55" r="2.8" fill="none" stroke="rgba(34,211,238,0.35)" strokeWidth="0.6" />
+        <circle cx="193" cy="53" r="1.1" fill="white" opacity="0.85" />
+        <circle cx="190" cy="56" r="0.5" fill="white" opacity="0.4" />
+
+        {/* ── Right eye (detailed with iris ring) ── */}
+        <circle cx="203" cy="55" r="4.2" fill="#f0f9ff" />
+        <circle cx="203" cy="55" r="2.9" fill="#1e3a5f" />
+        <circle cx="203" cy="55" r="1.8" fill="#0c1829" />
+        <circle cx="203" cy="55" r="2.8" fill="none" stroke="rgba(34,211,238,0.35)" strokeWidth="0.6" />
+        <circle cx="205" cy="53" r="1.1" fill="white" opacity="0.85" />
+        <circle cx="202" cy="56" r="0.5" fill="white" opacity="0.4" />
+
+        {/* Front legs — organic curved shapes */}
+        <path d="M 188 75 Q 182 82 180 90 Q 179 92 184 90 Q 190 82 192 74 Z" fill="#22c55e" opacity="0.75" />
+        <path d="M 206 75 Q 212 82 214 90 Q 215 92 210 90 Q 204 82 202 74 Z" fill="#22c55e" opacity="0.75" />
+
+        {/* Nostrils for lung breathing hint */}
+        <circle cx="195" cy="62" r="0.7" fill="rgba(0,0,0,0.35)" />
+        <circle cx="199" cy="62" r="0.7" fill="rgba(0,0,0,0.35)" />
+
+        {/* Breathing label */}
+        <rect x="169" y="95" width="56" height="18" rx="6" fill="rgba(0,0,0,0.7)" stroke="#86efac" strokeWidth="1.2" />
+        <text x="197" y="108" fontSize="7" fill="#86efac" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.lungs}
         </text>
       </g>
@@ -846,126 +1023,259 @@ function SVG_R4(lang: string) {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="lifecycleGrad2" x1="50%" y1="0%" x2="50%" y2="100%">
+        {/* Purple-blue gradient background */}
+        <linearGradient id="r4_Lifecycle" x1="50%" y1="0%" x2="50%" y2="100%">
           <stop offset="0%" stopColor="#8B5CF6" />
           <stop offset="50%" stopColor="#6366F1" />
           <stop offset="100%" stopColor="#3B82F6" />
         </linearGradient>
-        <filter id="stageShadow" x="-50%" y="-50%" width="200%" height="200%">
-          <feDropShadow dx="0" dy="2" stdDeviation="2" floodOpacity="0.3" />
+
+        {/* Egg gradient — amber/yellow */}
+        <linearGradient id="r4_EggGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FCD34D" />
+          <stop offset="100%" stopColor="#F59E0B" />
+        </linearGradient>
+
+        {/* Tadpole gradient — golden */}
+        <linearGradient id="r4_TadpoleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FBBF24" />
+          <stop offset="100%" stopColor="#D97706" />
+        </linearGradient>
+
+        {/* Froglet gradient — light green */}
+        <linearGradient id="r4_FrogletGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4ADE80" />
+          <stop offset="100%" stopColor="#16A34A" />
+        </linearGradient>
+
+        {/* Glow filter for stage shadows */}
+        <filter id="r4_StageShadow" x="-50%" y="-50%" width="200%" height="200%">
+          <feDropShadow dx="0" dy="2.5" stdDeviation="2.5" floodOpacity="0.35" />
         </filter>
-        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="rgba(255,255,255,0.6)" />
-        </marker>
       </defs>
-      <rect width="240" height="160" fill="url(#lifecycleGrad2)" />
 
-      {/* Circular arc path (subtle) */}
-      <circle cx="120" cy="95" r="50" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="2" strokeDasharray="3,3" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#r4_Lifecycle)" />
 
-      {/* Title arc text */}
-      <text x="120" y="20" fontSize="11" fill="rgba(255,255,255,0.4)" fontWeight="bold" textAnchor="middle">
-        Metamorphosis 🔄
-      </text>
+      {/* Subtle stars scattered in background */}
+      <g opacity="0.15" fill="rgba(255,255,255,0.8)">
+        <circle cx="20" cy="30" r="0.8" />
+        <circle cx="220" cy="40" r="0.8" />
+        <circle cx="40" cy="140" r="0.8" />
+        <circle cx="210" cy="120" r="0.8" />
+        <circle cx="30" cy="90" r="0.6" />
+        <circle cx="200" cy="70" r="0.6" />
+      </g>
 
-      {/* Stage 1: Egg (left-top) */}
+      {/* Circular dashed arc path connecting stages */}
+      <circle cx="120" cy="95" r="52" fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth="2" strokeDasharray="4,3" />
+
+      {/* ═══════════ Stage 1: Egg (top-left) ═══════════ */}
       <g>
-        <ellipse cx="70" cy="50" rx="12" ry="15" fill="#F59E0B" stroke="rgba(255,255,255,0.4)" strokeWidth="1.5" filter="url(#stageShadow)" />
-        <ellipse cx="70" cy="52" rx="10" ry="12" fill="#FCD34D" opacity="0.3" />
+        {/* Egg cluster — 3 translucent spheres with embryo hints */}
+        <g filter="url(#r4_StageShadow)">
+          {/* Main egg */}
+          <path d="M 60 55 Q 50 50 50 40 Q 50 30 60 28 Q 70 30 70 40 Q 70 50 60 55 Z"
+            fill="url(#r4_EggGrad)" opacity="0.95" />
+          {/* Embryo dot inside */}
+          <circle cx="60" cy="42" r="2.5" fill="#7C3AED" opacity="0.7" />
 
-        {/* Stage counter */}
-        <circle cx="88" cy="40" r="6" fill="#FFF9E6" />
-        <text x="88" y="44" fontSize="10" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
+          {/* Supporting egg left */}
+          <path d="M 40 58 Q 32 54 32 46 Q 32 38 40 36 Q 48 38 48 46 Q 48 54 40 58 Z"
+            fill="url(#r4_EggGrad)" opacity="0.8" />
+          <circle cx="40" cy="47" r="1.8" fill="#7C3AED" opacity="0.6" />
+
+          {/* Supporting egg right */}
+          <path d="M 80 58 Q 88 54 88 46 Q 88 38 80 36 Q 72 38 72 46 Q 72 54 80 58 Z"
+            fill="url(#r4_EggGrad)" opacity="0.8" />
+          <circle cx="80" cy="47" r="1.8" fill="#7C3AED" opacity="0.6" />
+        </g>
+
+        {/* Stage number */}
+        <circle cx="52" cy="28" r="6.5" fill="rgba(255,255,255,0.9)" />
+        <text x="52" y="32" fontSize="11" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
           1
         </text>
 
-        {/* Label background */}
-        <rect x="48" y="74" width="44" height="18" rx="3" fill="rgba(0, 0, 0, 0.5)" />
-        <text x="70" y="86" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Label */}
+        <rect x="35" y="70" width="50" height="20" rx="8" fill="rgba(0,0,0,0.8)" stroke="rgba(251,191,36,0.6)" strokeWidth="1.5" />
+        <text x="60" y="85" fontSize="9" fill="#FCD34D" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.egg}
         </text>
       </g>
 
-      {/* Arrow 1→2 */}
-      <path d="M 82 55 Q 105 35 148 45" stroke="rgba(255,255,255,0.5)" strokeWidth="2" fill="none" markerEnd="url(#arrowhead)" />
+      {/* Curved arrow 1→2 */}
+      <path d="M 75 45 Q 100 20 160 38" stroke="rgba(255,255,255,0.35)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <polygon points="165,38 158,35 160,43" fill="rgba(255,255,255,0.35)" />
 
-      {/* Stage 2: Tadpole (right-top) */}
+      {/* ═══════════ Stage 2: Tadpole (top-right) ═══════════ */}
       <g>
-        <ellipse cx="170" cy="50" rx="14" ry="12" fill="#FBBF24" filter="url(#stageShadow)" />
-        <ellipse cx="170" cy="53" rx="12" ry="10" fill="#FCD34D" opacity="0.3" />
-        <path d="M 156 50 L 133 38 L 140 50 L 133 62 Z" fill="#F59E0B" opacity="0.9" />
+        {/* Tadpole body — organic teardrop with bezier */}
+        <path d="M 175 58
+          Q 165 45 170 35
+          Q 180 30 188 38
+          Q 195 48 193 58
+          Q 185 65 175 64 Z"
+          fill="url(#r4_TadpoleGrad)" opacity="0.95" filter="url(#r4_StageShadow)" />
 
-        {/* Stage counter */}
-        <circle cx="188" cy="40" r="6" fill="#FFF9E6" />
-        <text x="188" y="44" fontSize="10" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
+        {/* Tadpole belly highlight */}
+        <path d="M 178 50 Q 182 60 188 55 Q 185 52 180 55 Z"
+          fill="rgba(251,191,36,0.4)" />
+
+        {/* Tadpole tail — long wavy with fin membrane */}
+        <path d="M 175 58
+          Q 160 62 145 58
+          Q 155 65 165 66
+          Q 170 66 175 63 Z"
+          fill="#D97706" opacity="0.85" />
+
+        {/* Tail membrane rays */}
+        <line x1="168" y1="61" x2="155" y2="59" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" />
+        <line x1="162" y1="65" x2="150" y2="66" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+        <line x1="155" y1="68" x2="145" y2="70" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
+
+        {/* External gill tufts — organic curved */}
+        <path d="M 172 45 Q 168 36 165 45 Q 168 50 172 45 Z"
+          fill="rgba(217,119,6,0.6)" />
+        <path d="M 172 50 Q 168 41 165 52 Q 168 57 172 50 Z"
+          fill="rgba(217,119,6,0.5)" />
+
+        {/* Tiny eye */}
+        <circle cx="180" cy="42" r="2" fill="white" />
+        <circle cx="180" cy="42" r="1.1" fill="#1e3a5f" />
+        <circle cx="181" cy="41" r="0.5" fill="white" opacity="0.7" />
+
+        {/* Stage number */}
+        <circle cx="208" cy="28" r="6.5" fill="rgba(255,255,255,0.9)" />
+        <text x="208" y="32" fontSize="11" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
           2
         </text>
 
-        {/* Label background */}
-        <rect x="148" y="74" width="44" height="18" rx="3" fill="rgba(0, 0, 0, 0.5)" />
-        <text x="170" y="86" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Label */}
+        <rect x="155" y="70" width="50" height="20" rx="8" fill="rgba(0,0,0,0.8)" stroke="rgba(251,191,36,0.6)" strokeWidth="1.5" />
+        <text x="180" y="85" fontSize="9" fill="#FED7AA" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.tadpole}
         </text>
       </g>
 
-      {/* Arrow 2→3 */}
-      <path d="M 165 62 Q 160 90 150 130" stroke="rgba(255,255,255,0.5)" strokeWidth="2" fill="none" markerEnd="url(#arrowhead)" />
+      {/* Curved arrow 2→3 */}
+      <path d="M 188 65 Q 200 100 180 128" stroke="rgba(255,255,255,0.35)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <polygon points="178,133 183,125 173,128" fill="rgba(255,255,255,0.35)" />
 
-      {/* Stage 3: Froglet (right-bottom) */}
+      {/* ═══════════ Stage 3: Froglet (bottom-right) ═══════════ */}
       <g>
-        <ellipse cx="170" cy="135" rx="13" ry="14" fill="#4ADE80" filter="url(#stageShadow)" />
-        <ellipse cx="170" cy="139" rx="11" ry="11" fill="#5EEE6F" opacity="0.3" />
+        {/* Froglet body — organic blob */}
+        <path d="M 180 135
+          Q 168 125 166 112
+          Q 165 102 175 100
+          Q 187 100 193 110
+          Q 195 125 185 137 Z"
+          fill="url(#r4_FrogletGrad)" opacity="0.95" filter="url(#r4_StageShadow)" />
 
-        {/* Eyes */}
-        <circle cx="164" cy="129" r="2.5" fill="white" />
-        <circle cx="176" cy="129" r="2.5" fill="white" />
-        <circle cx="164" cy="129" r="1.2" fill="black" />
-        <circle cx="176" cy="129" r="1.2" fill="black" />
+        {/* Froglet belly highlight */}
+        <path d="M 172 120 Q 180 133 187 128 Q 183 125 180 130 Q 176 125 172 120 Z"
+          fill="rgba(74,222,128,0.5)" />
 
-        {/* Legs (growing) */}
-        <ellipse cx="155" cy="148" rx="4" ry="7" fill="#3FD850" />
-        <ellipse cx="185" cy="148" rx="4" ry="7" fill="#3FD850" />
+        {/* Spotted texture */}
+        <g opacity="0.3" fill="rgba(0,0,0,0.5)">
+          <circle cx="172" cy="115" r="1" />
+          <circle cx="188" cy="118" r="1" />
+          <circle cx="180" cy="128" r="0.8" />
+        </g>
 
-        {/* Stage counter */}
-        <circle cx="188" cy="125" r="6" fill="#FFF9E6" />
-        <text x="188" y="129" fontSize="10" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
+        {/* Eyes — detailed */}
+        <circle cx="174" cy="108" r="3.2" fill="white" />
+        <circle cx="186" cy="108" r="3.2" fill="white" />
+        <circle cx="174" cy="108" r="1.8" fill="#1e3a5f" />
+        <circle cx="186" cy="108" r="1.8" fill="#1e3a5f" />
+        <circle cx="175.5" cy="107" r="0.8" fill="white" opacity="0.75" />
+        <circle cx="187.5" cy="107" r="0.8" fill="white" opacity="0.75" />
+
+        {/* Tiny front legs (growing) */}
+        <path d="M 170 130 Q 165 140 162 148 Q 161 150 166 148 Q 170 140 172 130 Z"
+          fill="#16A34A" opacity="0.7" />
+        <path d="M 190 130 Q 195 140 198 148 Q 199 150 194 148 Q 190 140 188 130 Z"
+          fill="#16A34A" opacity="0.7" />
+
+        {/* Tiny tail remnants (stub) */}
+        <path d="M 185 137 Q 190 140 188 145" fill="none" stroke="#16A34A" strokeWidth="1" opacity="0.5" />
+
+        {/* Stage number */}
+        <circle cx="208" cy="100" r="6.5" fill="rgba(255,255,255,0.9)" />
+        <text x="208" y="104" fontSize="11" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
           3
         </text>
 
-        {/* Label background */}
-        <rect x="148" y="150" width="44" height="18" rx="3" fill="rgba(0, 0, 0, 0.5)" />
-        <text x="170" y="162" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Label */}
+        <rect x="155" y="150" width="50" height="20" rx="8" fill="rgba(0,0,0,0.8)" stroke="rgba(74,222,128,0.6)" strokeWidth="1.5" />
+        <text x="180" y="165" fontSize="9" fill="#86EFAC" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.froglet}
         </text>
       </g>
 
-      {/* Arrow 3→4 */}
-      <path d="M 157 135 Q 120 130 92 128" stroke="rgba(255,255,255,0.5)" strokeWidth="2" fill="none" markerEnd="url(#arrowhead)" />
+      {/* Curved arrow 3→4 */}
+      <path d="M 166 130 Q 120 135 80 125" stroke="rgba(255,255,255,0.35)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <polygon points="75,124 82,128 81,118" fill="rgba(255,255,255,0.35)" />
 
-      {/* Stage 4: Adult Frog (left-bottom) */}
+      {/* ═══════════ Stage 4: Adult Frog (bottom-left) ═══════════ */}
       <g>
-        <ellipse cx="70" cy="135" rx="12" ry="14" fill="#4ADE80" filter="url(#stageShadow)" />
-        <ellipse cx="70" cy="139" rx="10" ry="11" fill="#5EEE6F" opacity="0.3" />
+        {/* Adult frog body — full organic form */}
+        <path d="M 70 135
+          Q 55 125 52 110
+          Q 50 100 60 98
+          Q 80 98 88 108
+          Q 90 125 78 138 Z"
+          fill="url(#r4_FrogletGrad)" opacity="0.95" filter="url(#r4_StageShadow)" />
 
-        {/* Eyes (larger in adult) */}
-        <circle cx="64" cy="129" r="2.5" fill="white" />
-        <circle cx="76" cy="129" r="2.5" fill="white" />
-        <circle cx="64" cy="129" r="1.2" fill="black" />
-        <circle cx="76" cy="129" r="1.2" fill="black" />
+        {/* Frog belly highlight */}
+        <path d="M 58 118 Q 70 135 82 128 Q 77 123 70 130 Q 63 123 58 118 Z"
+          fill="rgba(74,222,128,0.5)" />
 
-        {/* Legs (fully developed) */}
-        <ellipse cx="55" cy="147" rx="5" ry="7" fill="#3FD850" />
-        <ellipse cx="85" cy="147" rx="5" ry="7" fill="#3FD850" />
+        {/* Spotted texture — more spots in adult */}
+        <g opacity="0.3" fill="rgba(0,0,0,0.5)">
+          <circle cx="58" cy="112" r="1.1" />
+          <circle cx="82" cy="115" r="1" />
+          <circle cx="70" cy="128" r="0.9" />
+          <circle cx="65" cy="105" r="0.8" />
+        </g>
 
-        {/* Stage counter */}
-        <circle cx="52" cy="125" r="6" fill="#FFF9E6" />
-        <text x="52" y="129" fontSize="10" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
+        {/* Eyes — larger and more detailed */}
+        <circle cx="62" cy="105" r="3.8" fill="white" />
+        <circle cx="78" cy="105" r="3.8" fill="white" />
+        <circle cx="62" cy="105" r="2.2" fill="#1e3a5f" />
+        <circle cx="78" cy="105" r="2.2" fill="#1e3a5f" />
+        <circle cx="62" cy="105" r="1.3" fill="#0c1829" />
+        <circle cx="78" cy="105" r="1.3" fill="#0c1829" />
+        <circle cx="64" cy="103" r="0.9" fill="white" opacity="0.8" />
+        <circle cx="80" cy="103" r="0.9" fill="white" opacity="0.8" />
+        <circle cx="61" cy="107" r="0.4" fill="white" opacity="0.4" />
+        <circle cx="77" cy="107" r="0.4" fill="white" opacity="0.4" />
+
+        {/* Front legs — fully developed */}
+        <path d="M 56 132 Q 50 142 48 152 Q 47 154 52 152 Q 58 142 60 132 Z"
+          fill="#16A34A" opacity="0.8" />
+        <path d="M 84 132 Q 90 142 92 152 Q 93 154 88 152 Q 82 142 80 132 Z"
+          fill="#16A34A" opacity="0.8" />
+
+        {/* Back legs — muscular */}
+        <path d="M 48 120 Q 38 132 38 145 Q 38 150 44 147 Q 52 135 55 125 Z"
+          fill="#16A34A" opacity="0.75" />
+        <path d="M 92 120 Q 102 132 102 145 Q 102 150 96 147 Q 88 135 85 125 Z"
+          fill="#16A34A" opacity="0.75" />
+
+        {/* Nostrils hint */}
+        <circle cx="67" cy="110" r="0.6" fill="rgba(0,0,0,0.4)" />
+        <circle cx="73" cy="110" r="0.6" fill="rgba(0,0,0,0.4)" />
+
+        {/* Stage number */}
+        <circle cx="52" cy="100" r="6.5" fill="rgba(255,255,255,0.9)" />
+        <text x="52" y="104" fontSize="11" fill="#7C3AED" fontWeight="bold" textAnchor="middle">
           4
         </text>
 
-        {/* Label background */}
-        <rect x="48" y="150" width="44" height="18" rx="3" fill="rgba(0, 0, 0, 0.5)" />
-        <text x="70" y="162" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Label */}
+        <rect x="35" y="150" width="70" height="20" rx="8" fill="rgba(0,0,0,0.8)" stroke="rgba(74,222,128,0.6)" strokeWidth="1.5" />
+        <text x="70" y="165" fontSize="9" fill="#86EFAC" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.adult}
         </text>
       </g>
@@ -1021,78 +1331,174 @@ function SVG_R5(lang: string) {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5Bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+        {/* Blue-green-teal gradient background */}
+        <linearGradient id="r5_Bg" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#0369A1" />
-          <stop offset="50%" stopColor="#1E40AF" />
+          <stop offset="40%" stopColor="#1E40AF" />
           <stop offset="100%" stopColor="#047857" />
         </linearGradient>
-        <filter id="r5Shadow" x="-50%" y="-50%" width="200%" height="200%">
-          <feDropShadow dx="0" dy="2" stdDeviation="2" floodOpacity="0.25" />
+
+        {/* Fish body gradient */}
+        <linearGradient id="r5_FishBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#22d3ee" />
+          <stop offset="100%" stopColor="#0e7490" />
+        </linearGradient>
+        {/* Fish belly */}
+        <linearGradient id="r5_FishBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#67e8f9" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#22d3ee" stopOpacity="0.15" />
+        </linearGradient>
+
+        {/* Frog body gradient */}
+        <linearGradient id="r5_FrogBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4ade80" />
+          <stop offset="100%" stopColor="#16a34a" />
+        </linearGradient>
+        {/* Frog belly */}
+        <linearGradient id="r5_FrogBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#86efac" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#4ade80" stopOpacity="0.15" />
+        </linearGradient>
+
+        {/* Soft shadow filter */}
+        <filter id="r5_Shadow" x="-50%" y="-50%" width="200%" height="200%">
+          <feDropShadow dx="0" dy="2.5" stdDeviation="2" floodOpacity="0.3" />
         </filter>
       </defs>
-      <rect width="240" height="160" fill="url(#r5Bg2)" />
 
-      {/* Divider line */}
-      <line x1="120" y1="25" x2="120" y2="150" stroke="rgba(255,255,255,0.2)" strokeWidth="1.5" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#r5_Bg)" />
 
-      {/* Left column: Fish */}
+      {/* Vertical divider line — subtle gradient */}
+      <line x1="120" y1="20" x2="120" y2="155" stroke="rgba(255,255,255,0.18)" strokeWidth="2" />
+
+      {/* ═══════════ Left Column: Fish ═══════════ */}
       <g>
-        <rect x="15" y="25" width="100" height="120" rx="5" fill="rgba(6, 182, 212, 0.15)" stroke="rgba(6, 182, 212, 0.6)" strokeWidth="2" />
+        {/* Card background — rounded with gradient border */}
+        <rect x="12" y="20" width="105" height="130" rx="10" fill="rgba(6, 182, 212, 0.12)" stroke="rgba(6, 182, 212, 0.7)" strokeWidth="2.2" />
 
-        {/* Header background */}
-        <rect x="15" y="25" width="100" height="30" rx="5,5,0,0" fill="rgba(6, 182, 212, 0.3)" />
+        {/* Header background bar */}
+        <rect x="12" y="20" width="105" height="35" rx="10,10,0,0" fill="rgba(6, 182, 212, 0.35)" />
 
-        {/* Header */}
-        <text x="65" y="48" fontSize="12" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Header text */}
+        <text x="64.5" y="47" fontSize="13" fill="white" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.fish}
         </text>
 
-        {/* Fish icon */}
-        <ellipse cx="65" cy="70" rx="22" ry="17" fill="#06B6D4" filter="url(#r5Shadow)" />
-        <ellipse cx="65" cy="74" rx="19" ry="13" fill="#22D3EE" opacity="0.3" />
-        <path d="M 43 70 L 20 58 L 27 70 L 20 82 Z" fill="#0891B2" opacity="0.9" />
-        <circle cx="34" cy="64" r="2.5" fill="white" />
-        <circle cx="35" cy="64" r="1.2" fill="black" />
+        {/* ── Beautiful fish illustration (organic) ── */}
+        <g filter="url(#r5_Shadow)">
+          {/* Fish body — organic bezier curves */}
+          <path d="M 45 75
+            Q 44 62 54 59
+            Q 68 56 80 65
+            Q 82 72 80 80
+            Q 68 88 54 86
+            Q 44 82 45 75 Z"
+            fill="url(#r5_FishBody)" />
 
-        {/* Feature list (checkmarks as bullets) */}
-        <g fontSize="10" fill="white" fontWeight="bold">
-          <text x="35" y="108">✓ {l.gills}</text>
-          <text x="35" y="125">✓ {l.scales}</text>
-          <text x="35" y="142">✓ {l.fins}</text>
+          {/* Fish belly highlight */}
+          <path d="M 50 75 Q 58 84 74 80 Q 72 78 62 80 Q 55 78 50 75 Z"
+            fill="url(#r5_FishBelly)" />
+
+          {/* Scale pattern — 3 rows */}
+          <g opacity="0.32" strokeWidth="0.5" fill="none" stroke="rgba(255,255,255,0.5)">
+            <path d="M 58 68 Q 60 65 62 68" />
+            <path d="M 68 66 Q 70 63 72 66" />
+            <path d="M 60 76 Q 62 74 64 76" />
+            <path d="M 70 77 Q 72 75 74 77" />
+          </g>
+
+          {/* Tail fin — forked with rays */}
+          <path d="M 44 75 Q 30 66 20 62 Q 28 75 26 75 Q 28 85 20 88 Q 30 84 44 78 Z"
+            fill="#0e7490" opacity="0.85" />
+
+          {/* Dorsal fin — small */}
+          <path d="M 65 59 Q 70 48 75 55 Q 72 62 65 65 Z"
+            fill="#06b6d4" opacity="0.7" />
+
+          {/* Eye — detailed iris */}
+          <circle cx="50" cy="68" r="3.5" fill="#f0f9ff" />
+          <circle cx="50" cy="68" r="2.4" fill="#1e3a5f" />
+          <circle cx="50" cy="68" r="1.5" fill="#0c1829" />
+          <circle cx="50" cy="68" r="2.2" fill="none" stroke="rgba(34,211,238,0.35)" strokeWidth="0.5" />
+          <circle cx="51.5" cy="66.5" r="0.9" fill="white" opacity="0.8" />
+          <circle cx="49" cy="69.5" r="0.3" fill="white" opacity="0.4" />
+        </g>
+
+        {/* Feature badges — vertically stacked */}
+        <g fontSize="10" fill="white" fontWeight="600" fontFamily="system-ui">
+          <text x="30" y="107">✓ {l.gills}</text>
+          <text x="30" y="127">✓ {l.scales}</text>
+          <text x="30" y="147">✓ {l.fins}</text>
         </g>
       </g>
 
-      {/* Right column: Amphibian */}
+      {/* ═══════════ Right Column: Amphibian ═══════════ */}
       <g>
-        <rect x="125" y="25" width="100" height="120" rx="5" fill="rgba(74, 222, 128, 0.15)" stroke="rgba(74, 222, 128, 0.6)" strokeWidth="2" />
+        {/* Card background — rounded with gradient border */}
+        <rect x="123" y="20" width="105" height="130" rx="10" fill="rgba(74, 222, 128, 0.12)" stroke="rgba(74, 222, 128, 0.7)" strokeWidth="2.2" />
 
-        {/* Header background */}
-        <rect x="125" y="25" width="100" height="30" rx="5,5,0,0" fill="rgba(74, 222, 128, 0.3)" />
+        {/* Header background bar */}
+        <rect x="123" y="20" width="105" height="35" rx="10,10,0,0" fill="rgba(74, 222, 128, 0.35)" />
 
-        {/* Header */}
-        <text x="175" y="48" fontSize="12" fill="white" fontWeight="bold" textAnchor="middle">
+        {/* Header text */}
+        <text x="175.5" y="47" fontSize="13" fill="white" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
           {l.amphibian}
         </text>
 
-        {/* Frog icon */}
-        <ellipse cx="175" cy="70" rx="18" ry="16" fill="#4ADE80" filter="url(#r5Shadow)" />
-        <ellipse cx="175" cy="74" rx="16" ry="13" fill="#5EEE6F" opacity="0.3" />
+        {/* ── Beautiful frog illustration (organic) ── */}
+        <g filter="url(#r5_Shadow)">
+          {/* Frog body — organic blob */}
+          <path d="M 175 85
+            Q 160 76 158 64
+            Q 156 54 168 52
+            Q 185 52 192 62
+            Q 194 76 182 90 Z"
+            fill="url(#r5_FrogBody)" />
 
-        {/* Eyes */}
-        <circle cx="169" cy="64" r="3" fill="white" />
-        <circle cx="181" cy="64" r="3" fill="white" />
-        <circle cx="169" cy="64" r="1.4" fill="black" />
-        <circle cx="181" cy="64" r="1.4" fill="black" />
+          {/* Frog belly highlight */}
+          <path d="M 165 75 Q 175 88 188 82 Q 183 78 175 85 Q 167 78 165 75 Z"
+            fill="url(#r5_FrogBelly)" />
 
-        {/* Legs */}
-        <ellipse cx="158" cy="80" rx="4" ry="7" fill="#3FD850" />
-        <ellipse cx="192" cy="80" rx="4" ry="7" fill="#3FD850" />
+          {/* Spotted texture — darker spots */}
+          <g opacity="0.3" fill="rgba(0,0,0,0.5)">
+            <circle cx="165" cy="70" r="1" />
+            <circle cx="185" cy="72" r="1" />
+            <circle cx="175" cy="82" r="0.8" />
+          </g>
 
-        {/* Feature list (checkmarks as bullets) */}
-        <g fontSize="10" fill="white" fontWeight="bold">
-          <text x="145" y="108">✓ {l.skin}</text>
-          <text x="145" y="125">✓ {l.legs}</text>
-          <text x="145" y="142">✓ {l.waterland}</text>
+          {/* Left eye — detailed with iris ring */}
+          <circle cx="168" cy="63" r="3.8" fill="white" />
+          <circle cx="168" cy="63" r="2.5" fill="#1e3a5f" />
+          <circle cx="168" cy="63" r="1.6" fill="#0c1829" />
+          <circle cx="168" cy="63" r="2.3" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
+          <circle cx="169.5" cy="61.5" r="0.9" fill="white" opacity="0.8" />
+          <circle cx="167" cy="64.5" r="0.3" fill="white" opacity="0.4" />
+
+          {/* Right eye — detailed with iris ring */}
+          <circle cx="182" cy="63" r="3.8" fill="white" />
+          <circle cx="182" cy="63" r="2.5" fill="#1e3a5f" />
+          <circle cx="182" cy="63" r="1.6" fill="#0c1829" />
+          <circle cx="182" cy="63" r="2.3" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
+          <circle cx="183.5" cy="61.5" r="0.9" fill="white" opacity="0.8" />
+          <circle cx="181" cy="64.5" r="0.3" fill="white" opacity="0.4" />
+
+          {/* Front legs — organic curved shapes */}
+          <path d="M 162 84 Q 156 94 154 103 Q 153 105 158 103 Q 164 94 166 85 Z"
+            fill="#16a34a" opacity="0.8" />
+          <path d="M 188 84 Q 194 94 196 103 Q 197 105 192 103 Q 186 94 184 85 Z"
+            fill="#16a34a" opacity="0.8" />
+
+          {/* Back legs (hint) — stretched muscular shape */}
+          <path d="M 156 80 Q 144 90 145 105" fill="none" stroke="#16a34a" strokeWidth="2" opacity="0.6" strokeLinecap="round" />
+          <path d="M 194 80 Q 206 90 205 105" fill="none" stroke="#16a34a" strokeWidth="2" opacity="0.6" strokeLinecap="round" />
+        </g>
+
+        {/* Feature badges — vertically stacked */}
+        <g fontSize="10" fill="white" fontWeight="600" fontFamily="system-ui">
+          <text x="141" y="107">✓ {l.skin}</text>
+          <text x="141" y="127">✓ {l.legs}</text>
+          <text x="141" y="147">✓ {l.waterland}</text>
         </g>
       </g>
     </svg>
