@@ -410,18 +410,31 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
-      <motion.div
-        initial={{ opacity: 0, y: 10 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.5 }}
-        className="flex items-center gap-2 px-5 py-3 rounded-xl bg-[#E040FB]/15 border border-[#E040FB]/30"
-      >
-        <span className="text-2xl">⭐</span>
-        <span className="text-[#E040FB] font-black text-lg">+3</span>
-        <span className="text-white/60 text-sm font-medium">
-          {lang === "hu" ? "csillag jutalom!" : lang === "de" ? "Sterne Belohnung!" : lang === "ro" ? "stele recompensă!" : "star reward!"}
-        </span>
-      </motion.div>
+      {score >= 10 ? (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-[#E040FB]/15 border border-[#E040FB]/30"
+        >
+          <span className="text-2xl">⭐</span>
+          <span className="text-[#E040FB] font-black text-lg">+3</span>
+          <span className="text-white/60 text-sm font-medium">
+            {lang === "hu" ? "csillag jutalom!" : lang === "de" ? "Sterne Belohnung!" : lang === "ro" ? "stele recompensă!" : "star reward!"}
+          </span>
+        </motion.div>
+      ) : (
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5 }}
+          className="flex items-center gap-2 px-5 py-3 rounded-xl bg-white/5 border border-white/10"
+        >
+          <span className="text-white/40 text-sm font-medium">
+            {lang === "hu" ? `${10 - score} helyes válasz hiányzik a ⭐ jutalomhoz` : lang === "de" ? `${10 - score} richtige Antworten fehlen für ⭐` : lang === "ro" ? `${10 - score} răspunsuri corecte lipsesc pentru ⭐` : `${10 - score} more correct answers needed for ⭐`}
+          </span>
+        </motion.div>
+      )}
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
@@ -557,7 +570,7 @@ export default function AstroBiologieK5Page() {
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK5(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK5(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -570,8 +583,10 @@ export default function AstroBiologieK5Page() {
     saveK5Progress(newProgress);
     setProgress(newProgress);
 
-    // Checkpoint reward: 3 special stars (purple)
-    addSpecialCards(3);
+    // Checkpoint reward: 3 special stars only if score >= 10/15
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
     window.dispatchEvent(new Event("plizio-cards-changed"));
 
     const rarity = calculateRarity(score, total, 0, false);
