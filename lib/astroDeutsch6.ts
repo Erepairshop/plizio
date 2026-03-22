@@ -139,7 +139,7 @@ export const K6_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "k6-review-explorer",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
-      { id: "m3", category: "challenge", gameType: "word-blitz",  icon: "⚡", label: { de: "Wort-Blitz", en: "Word Blitz", hu: "Szóvillám", ro: "Blitz cuvinte" } },
+      { id: "m3", category: "challenge", gameType: "word-blitz",  icon: "💬", label: { de: "Wort-Blitz", en: "Word Blitz", hu: "Szóvillám", ro: "Blitz cuvinte" } },
     ],
     svgX: 190, svgY: -90,
   },
