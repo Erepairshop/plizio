@@ -704,7 +704,37 @@ function SvgRound5(lang: string): React.ReactNode {
 // MCQ QUESTIONS — Round 5
 // ─────────────────────────────────────────────────────────────────────────────
 
-const MCQ_QUESTIONS: Record<string, MCQQuestion[]> = {
+// R1-R4 Question Pools
+const R1_QUESTIONS: Record<string, MCQQuestion[]> = {
+  en: [{ question: "r1_q", choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"], answer: "r1_q_a" }],
+  de: [{ question: "r1_q", choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"], answer: "r1_q_a" }],
+  hu: [{ question: "r1_q", choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"], answer: "r1_q_a" }],
+  ro: [{ question: "r1_q", choices: ["r1_q_a", "r1_q_b", "r1_q_c", "r1_q_d"], answer: "r1_q_a" }],
+};
+
+const R2_QUESTIONS: Record<string, MCQQuestion[]> = {
+  en: [{ question: "r2_q", choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"], answer: "r2_q_a" }],
+  de: [{ question: "r2_q", choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"], answer: "r2_q_a" }],
+  hu: [{ question: "r2_q", choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"], answer: "r2_q_a" }],
+  ro: [{ question: "r2_q", choices: ["r2_q_a", "r2_q_b", "r2_q_c", "r2_q_d"], answer: "r2_q_a" }],
+};
+
+const R3_QUESTIONS: Record<string, MCQQuestion[]> = {
+  en: [{ question: "r3_q", choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"], answer: "r3_q_c" }],
+  de: [{ question: "r3_q", choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"], answer: "r3_q_c" }],
+  hu: [{ question: "r3_q", choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"], answer: "r3_q_c" }],
+  ro: [{ question: "r3_q", choices: ["r3_q_a", "r3_q_b", "r3_q_c", "r3_q_d"], answer: "r3_q_c" }],
+};
+
+const R4_QUESTIONS: Record<string, MCQQuestion[]> = {
+  en: [{ question: "r4_q", choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"], answer: "r4_q_b" }],
+  de: [{ question: "r4_q", choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"], answer: "r4_q_b" }],
+  hu: [{ question: "r4_q", choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"], answer: "r4_q_b" }],
+  ro: [{ question: "r4_q", choices: ["r4_q_a", "r4_q_b", "r4_q_c", "r4_q_d"], answer: "r4_q_b" }],
+};
+
+// R5 Review Questions (3 total)
+const R5_QUESTIONS: Record<string, MCQQuestion[]> = {
   en: [
     {
       question: "q1_q",
@@ -721,37 +751,21 @@ const MCQ_QUESTIONS: Record<string, MCQQuestion[]> = {
       choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
       answer: "q3_c",
     },
-    {
-      question: "q4_q",
-      choices: ["q4_a", "q4_b", "q4_c", "q4_d"],
-      answer: "q4_b",
-    },
-    {
-      question: "q5_q",
-      choices: ["q5_a", "q5_b", "q5_c", "q5_d"],
-      answer: "q5_b",
-    },
   ],
   de: [
     { question: "q1_q", choices: ["q1_a", "q1_b", "q1_c", "q1_d"], answer: "q1_a" },
-    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_a" },
+    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_b" },
     { question: "q3_q", choices: ["q3_a", "q3_b", "q3_c", "q3_d"], answer: "q3_c" },
-    { question: "q4_q", choices: ["q4_a", "q4_b", "q4_c", "q4_d"], answer: "q4_b" },
-    { question: "q5_q", choices: ["q5_a", "q5_b", "q5_c", "q5_d"], answer: "q5_b" },
   ],
   hu: [
     { question: "q1_q", choices: ["q1_a", "q1_b", "q1_c", "q1_d"], answer: "q1_a" },
-    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_a" },
+    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_b" },
     { question: "q3_q", choices: ["q3_a", "q3_b", "q3_c", "q3_d"], answer: "q3_c" },
-    { question: "q4_q", choices: ["q4_a", "q4_b", "q4_c", "q4_d"], answer: "q4_b" },
-    { question: "q5_q", choices: ["q5_a", "q5_b", "q5_c", "q5_d"], answer: "q5_b" },
   ],
   ro: [
     { question: "q1_q", choices: ["q1_a", "q1_b", "q1_c", "q1_d"], answer: "q1_a" },
-    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_a" },
+    { question: "q2_q", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_b" },
     { question: "q3_q", choices: ["q3_a", "q3_b", "q3_c", "q3_d"], answer: "q3_c" },
-    { question: "q4_q", choices: ["q4_a", "q4_b", "q4_c", "q4_d"], answer: "q4_b" },
-    { question: "q5_q", choices: ["q5_a", "q5_b", "q5_c", "q5_d"], answer: "q5_b" },
   ],
 };
 
@@ -763,39 +777,43 @@ const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1_title",
       infoText: "r1_text",
       svg: SvgRound1,
       bulletKeys: ["r1_b1", "r1_b2", "r1_b3", "r1_b4", "r1_b5"],
+      questions: R1_QUESTIONS.en,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2_title",
       infoText: "r2_text",
       svg: SvgRound2,
       bulletKeys: ["r2_b1", "r2_b2", "r2_b3", "r2_b4", "r2_b5"],
+      questions: R2_QUESTIONS.en,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
       svg: SvgRound3,
       bulletKeys: ["r3_b1", "r3_b2", "r3_b3", "r3_b4", "r3_b5"],
+      questions: R3_QUESTIONS.en,
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4_title",
       infoText: "r4_text",
       svg: SvgRound4,
       bulletKeys: ["r4_b1", "r4_b2", "r4_b3", "r4_b4"],
+      questions: R4_QUESTIONS.en,
     },
     {
       type: "mcq",
       infoTitle: "r5_title",
       infoText: "r5_text",
       svg: SvgRound5,
-      questions: MCQ_QUESTIONS.en,
+      questions: R5_QUESTIONS.en,
     },
   ],
 };
@@ -814,9 +832,13 @@ export default function SenseExplorer({ color = "#06B6D4", lang = "en", onDone }
   // Update MCQ questions based on language
   const defWithLang: ExplorerDef = {
     labels: LABELS,
-    rounds: DEF.rounds.map((round) => {
-      if (round.type === "mcq" && lang && MCQ_QUESTIONS[lang]) {
-        return { ...round, questions: MCQ_QUESTIONS[lang] };
+    rounds: DEF.rounds.map((round, idx) => {
+      if (round.type === "mcq" && lang) {
+        if (idx === 0) return { ...round, questions: R1_QUESTIONS[lang] };
+        if (idx === 1) return { ...round, questions: R2_QUESTIONS[lang] };
+        if (idx === 2) return { ...round, questions: R3_QUESTIONS[lang] };
+        if (idx === 3) return { ...round, questions: R4_QUESTIONS[lang] };
+        if (idx === 4) return { ...round, questions: R5_QUESTIONS[lang] };
       }
       return round;
     }),

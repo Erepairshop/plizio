@@ -57,6 +57,7 @@ const LABELS: ExplorerDef["labels"] = {
     q_poll_insect: "How do bee-pollinated flowers get pollen?",
     q_poll_method: "How do grass flowers spread their pollen?",
     q_seed_form: "What does the ovule become after fertilization?",
+    q_disp_wind: "Which type of seed has adaptations for wind dispersal?",
 
     // MCQ choices
     attract_pollinators: "Attract pollinators with color and smell",
@@ -71,6 +72,9 @@ const LABELS: ExplorerDef["labels"] = {
     become_seed: "A seed",
     become_flower: "Another flower",
     become_petal: "A petal",
+    disp_wings: "Seeds with wings or parachutes",
+    disp_hooks: "Seeds with hooks or spines",
+    disp_float: "Large floating seeds",
   },
 
   de: {
@@ -117,6 +121,7 @@ const LABELS: ExplorerDef["labels"] = {
     q_poll_insect: "Wie kommen Pollenkörner bei bienenbestäubten Blüten weg?",
     q_poll_method: "Wie verbreiten Grasblüten ihren Pollen?",
     q_seed_form: "Was wird die Samenanlage nach Befruchtung?",
+    q_disp_wind: "Welche Art von Samen hat Anpassungen für Windverbreitung?",
 
     // MCQ choices
     attract_pollinators: "Locken Bestäuber mit Farbe und Duft an",
@@ -131,6 +136,9 @@ const LABELS: ExplorerDef["labels"] = {
     become_seed: "Ein Samen",
     become_flower: "Eine andere Blüte",
     become_petal: "Ein Blütenblatt",
+    disp_wings: "Samen mit Flügeln oder Fallschirmen",
+    disp_hooks: "Samen mit Haken oder Dornen",
+    disp_float: "Große schwimmende Samen",
   },
 
   hu: {
@@ -177,6 +185,7 @@ const LABELS: ExplorerDef["labels"] = {
     q_poll_insect: "Hogyan jut virágpor a méhek által pollódott virágokba?",
     q_poll_method: "Hogyan terjednek a fűvirágok virágportjukat?",
     q_seed_form: "Mi lesz az embrió megtermékenyítés után?",
+    q_disp_wind: "Mely magok vannak szél terjedésre alkalmazkodva?",
 
     // MCQ choices
     attract_pollinators: "Vonzzák a porrodókat szín és illat",
@@ -191,6 +200,9 @@ const LABELS: ExplorerDef["labels"] = {
     become_seed: "Mag",
     become_flower: "Egy másik virág",
     become_petal: "Szirmom",
+    disp_wings: "Magok szárnyakkal vagy ernyőkkel",
+    disp_hooks: "Magok horogokkal vagy tövisekkel",
+    disp_float: "Nagy úszó magok",
   },
 
   ro: {
@@ -237,6 +249,7 @@ const LABELS: ExplorerDef["labels"] = {
     q_poll_insect: "Cum ajunge polenul în florile polenizate de albine?",
     q_poll_method: "Cum răspândesc florile de iarbă polenul lor?",
     q_seed_form: "Ce devine ovulul după fertilizare?",
+    q_disp_wind: "Ce tip de semințe sunt adaptate pentru dispersia prin vânt?",
 
     // MCQ choices
     attract_pollinators: "Atrag polenizatorii cu culoare și miros",
@@ -251,6 +264,9 @@ const LABELS: ExplorerDef["labels"] = {
     become_seed: "O sămânță",
     become_flower: "O altă floare",
     become_petal: "Un petal",
+    disp_wings: "Semințe cu aripi sau parașute",
+    disp_hooks: "Semințe cu cârlige sau spini",
+    disp_float: "Semințe mari plutitoare",
   },
 };
 
@@ -633,39 +649,78 @@ const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1Title",
       infoText: "r1Text",
       bulletKeys: ["r1Bullet1", "r1Bullet2", "r1Bullet3", "r1Bullet4"],
       svg: (lang) => SVG_R1(lang),
+      questions: [
+        {
+          question: "q_struct_petal",
+          choices: ["attract_pollinators", "protect_bud", "produce_pollen"],
+          answer: "attract_pollinators",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2Title",
       infoText: "r2Text",
       bulletKeys: ["r2Bullet1", "r2Bullet2", "r2Bullet3", "r2Bullet4"],
       svg: (lang) => SVG_R2(lang),
+      questions: [
+        {
+          question: "q_poll_method",
+          choices: ["by_wind", "by_water", "on_insect_bodies"],
+          answer: "by_wind",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3Title",
       infoText: "r3Text",
       bulletKeys: ["r3Bullet1", "r3Bullet2", "r3Bullet3", "r3Bullet4"],
       svg: (lang) => SVG_R3(lang),
+      questions: [
+        {
+          question: "q_seed_form",
+          choices: ["become_seed", "become_flower", "become_petal"],
+          answer: "become_seed",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4Title",
       infoText: "r4Text",
       bulletKeys: ["r4Bullet1", "r4Bullet2", "r4Bullet3", "r4Bullet4"],
       svg: (lang) => SVG_R4(lang),
+      questions: [
+        {
+          question: "q_disp_wind",
+          choices: ["disp_wings", "disp_hooks", "disp_float"],
+          answer: "disp_wings",
+        },
+      ],
     },
     {
       type: "mcq",
       infoTitle: "r5Title",
       infoText: "r5Text",
       svg: (lang) => SVG_R5(lang),
-      questions: QUESTIONS,
+      questions: [
+        {
+          question: "q_struct_stamen",
+          choices: ["stamen", "pistil", "sepal"],
+          answer: "stamen",
+        },
+        {
+          question: "q_poll_insect",
+          choices: ["on_insect_bodies", "by_wind", "by_water"],
+          answer: "on_insect_bodies",
+        },
+      ],
     },
   ],
 };

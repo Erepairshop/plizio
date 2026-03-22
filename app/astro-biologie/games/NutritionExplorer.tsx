@@ -56,40 +56,56 @@ const LABELS: ExplorerDef["labels"] = {
     r4_sleep: "Good Sleep",
     r4_sleep_info: "Helps metabolism & healing",
 
+    // Round 1: Nutrient Groups — Question
+    r1_q: "Which nutrient gives you ENERGY?",
+    r1_q_a: "Carbohydrates 🍞",
+    r1_q_b: "Proteins 🥩",
+    r1_q_c: "Water 💧",
+    r1_q_d: "Minerals 🧂",
+
+    // Round 2: Food Pyramid — Question
+    r2_q: "Which food group should be at the BASE of the pyramid?",
+    r2_q_a: "Fruits",
+    r2_q_b: "Grains",
+    r2_q_c: "Proteins",
+    r2_q_d: "Dairy",
+
+    // Round 3: Digestive Tract — Question
+    r3_q: "Where does digestion start?",
+    r3_q_a: "Stomach 🤢",
+    r3_q_b: "Mouth 👄",
+    r3_q_c: "Small intestine 🌀",
+    r3_q_d: "Esophagus 🔽",
+
+    // Round 4: Water & Habits — Question
+    r4_q: "How many glasses of water should you drink daily?",
+    r4_q_a: "2-3 glasses 💧",
+    r4_q_b: "5-6 glasses 💧",
+    r4_q_c: "8+ glasses 💧",
+    r4_q_d: "As much as you want",
+
     // Round 5: Quiz
     r5_title: "Nutrition Quiz",
     r5_text: "Test your knowledge about nutrients, digestion, and healthy eating!",
 
     // Questions
-    q_r5_q1: "Which nutrient gives you QUICK energy?",
-    q_r5_q1_a: "Carbohydrates 🍞",
-    q_r5_q1_b: "Proteins 🥩",
-    q_r5_q1_c: "Fats 🧈",
-    q_r5_q1_d: "Vitamins 🥗",
+    q_r5_q1: "Which organ absorbs MOST nutrients?",
+    q_r5_q1_a: "Mouth 👄",
+    q_r5_q1_b: "Stomach 🤢",
+    q_r5_q1_c: "Small intestine 🌀",
+    q_r5_q1_d: "Large intestine 📦",
 
-    q_r5_q2: "Where does digestion start?",
-    q_r5_q2_a: "Stomach 🤢",
-    q_r5_q2_b: "Mouth 👄",
-    q_r5_q2_c: "Small intestine 🌀",
-    q_r5_q2_d: "Esophagus 🔽",
+    q_r5_q2: "Why should you chew slowly?",
+    q_r5_q2_a: "To save time",
+    q_r5_q2_b: "Better digestion & eat less 🍽️",
+    q_r5_q2_c: "It tastes better",
+    q_r5_q2_d: "No real reason",
 
-    q_r5_q3: "Which organ absorbs MOST nutrients?",
-    q_r5_q3_a: "Mouth 👄",
-    q_r5_q3_b: "Stomach 🤢",
-    q_r5_q3_c: "Small intestine 🌀",
-    q_r5_q3_d: "Large intestine 📦",
-
-    q_r5_q4: "Why should you chew slowly?",
-    q_r5_q4_a: "To save time",
-    q_r5_q4_b: "Better digestion & eat less 🍽️",
-    q_r5_q4_c: "It tastes better",
-    q_r5_q4_d: "No real reason",
-
-    q_r5_q5: "How many glasses of water daily?",
-    q_r5_q5_a: "2-3 glasses 💧",
-    q_r5_q5_b: "5-6 glasses 💧",
-    q_r5_q5_c: "8+ glasses 💧",
-    q_r5_q5_d: "As much as you want",
+    q_r5_q3: "What is the most important habit for good nutrition?",
+    q_r5_q3_a: "Eating fast",
+    q_r5_q3_b: "Eating all the same food",
+    q_r5_q3_c: "Eating balanced meals with all food groups",
+    q_r5_q3_d: "Not drinking water",
   },
 
   de: {
@@ -140,40 +156,56 @@ const LABELS: ExplorerDef["labels"] = {
     r4_sleep: "Guter Schlaf",
     r4_sleep_info: "Hilft Stoffwechsel & Heilung",
 
+    // Round 1: Nährstoffgruppen — Frage
+    r1_q: "Welcher Nährstoff gibt dir ENERGIE?",
+    r1_q_a: "Kohlenhydrate 🍞",
+    r1_q_b: "Proteine 🥩",
+    r1_q_c: "Wasser 💧",
+    r1_q_d: "Mineralien 🧂",
+
+    // Round 2: Lebensmittelpyramide — Frage
+    r2_q: "Welche Lebensmittelgruppe sollte an der BASIS der Pyramide sein?",
+    r2_q_a: "Obst",
+    r2_q_b: "Getreide",
+    r2_q_c: "Protein",
+    r2_q_d: "Milchprodukte",
+
+    // Round 3: Verdauungstrakt — Frage
+    r3_q: "Wo beginnt die Verdauung?",
+    r3_q_a: "Magen 🤢",
+    r3_q_b: "Mund 👄",
+    r3_q_c: "Dünndarm 🌀",
+    r3_q_d: "Speiseröhre 🔽",
+
+    // Round 4: Wasser & Gewohnheiten — Frage
+    r4_q: "Wie viele Gläser Wasser solltest du täglich trinken?",
+    r4_q_a: "2-3 Gläser 💧",
+    r4_q_b: "5-6 Gläser 💧",
+    r4_q_c: "8+ Gläser 💧",
+    r4_q_d: "So viel wie du willst",
+
     // Round 5: Quiz
     r5_title: "Ernährungsquiz",
     r5_text: "Teste dein Wissen über Nährstoffe, Verdauung und gesundes Essen!",
 
     // Questions
-    q_r5_q1: "Welcher Nährstoff gibt dir SCHNELL Energie?",
-    q_r5_q1_a: "Kohlenhydrate 🍞",
-    q_r5_q1_b: "Proteine 🥩",
-    q_r5_q1_c: "Fette 🧈",
-    q_r5_q1_d: "Vitamine 🥗",
+    q_r5_q1: "Welches Organ nimmt die MEISTEN Nährstoffe auf?",
+    q_r5_q1_a: "Mund 👄",
+    q_r5_q1_b: "Magen 🤢",
+    q_r5_q1_c: "Dünndarm 🌀",
+    q_r5_q1_d: "Dickdarm 📦",
 
-    q_r5_q2: "Wo beginnt die Verdauung?",
-    q_r5_q2_a: "Magen 🤢",
-    q_r5_q2_b: "Mund 👄",
-    q_r5_q2_c: "Dünndarm 🌀",
-    q_r5_q2_d: "Speiseröhre 🔽",
+    q_r5_q2: "Warum solltest du langsam kauen?",
+    q_r5_q2_a: "Um Zeit zu sparen",
+    q_r5_q2_b: "Bessere Verdauung & weniger essen 🍽️",
+    q_r5_q2_c: "Schmeckt besser",
+    q_r5_q2_d: "Kein besonderer Grund",
 
-    q_r5_q3: "Welches Organ nimmt die MEISTEN Nährstoffe auf?",
-    q_r5_q3_a: "Mund 👄",
-    q_r5_q3_b: "Magen 🤢",
-    q_r5_q3_c: "Dünndarm 🌀",
-    q_r5_q3_d: "Dickdarm 📦",
-
-    q_r5_q4: "Warum solltest du langsam kauen?",
-    q_r5_q4_a: "Um Zeit zu sparen",
-    q_r5_q4_b: "Bessere Verdauung & weniger essen 🍽️",
-    q_r5_q4_c: "Schmeckt besser",
-    q_r5_q4_d: "Kein besonderer Grund",
-
-    q_r5_q5: "Wie viele Gläser Wasser täglich?",
-    q_r5_q5_a: "2-3 Gläser 💧",
-    q_r5_q5_b: "5-6 Gläser 💧",
-    q_r5_q5_c: "8+ Gläser 💧",
-    q_r5_q5_d: "So viel wie du willst",
+    q_r5_q3: "Was ist die wichtigste Gewohnheit für gute Ernährung?",
+    q_r5_q3_a: "Schnell essen",
+    q_r5_q3_b: "Immer das gleiche Essen",
+    q_r5_q3_c: "Ausgewogene Mahlzeiten mit allen Lebensmittelgruppen",
+    q_r5_q3_d: "Kein Wasser trinken",
   },
 
   hu: {
