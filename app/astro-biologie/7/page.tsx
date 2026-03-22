@@ -9,6 +9,7 @@ import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -25,6 +26,13 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import CellExplorer from "@/app/astro-biologie/games/CellExplorer";
+import DivisionExplorer from "@/app/astro-biologie/games/DivisionExplorer";
+import PhotosynthesisExplorer from "@/app/astro-biologie/games/PhotosynthesisExplorer";
+import EcologyExplorer from "@/app/astro-biologie/games/EcologyExplorer";
+import ImmuneExplorer from "@/app/astro-biologie/games/ImmuneExplorer";
+import NerveExplorer from "@/app/astro-biologie/games/NerveExplorer";
+import EvolutionExplorer from "@/app/astro-biologie/games/EvolutionExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -96,6 +104,13 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "cell-explorer"
+  | "division-explorer"
+  | "photosynthesis-explorer"
+  | "ecology-explorer"
+  | "immune-explorer"
+  | "nerve-explorer"
+  | "evolution-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -378,6 +393,7 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   const t = T[lang as keyof typeof T] ?? T.en;
   const pct = Math.round((score / total) * 100);
   const emoji = pct >= 80 ? "🏆" : pct >= 60 ? "🎯" : "💪";
+  const earnedBonus = score >= 10;
 
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
@@ -391,6 +407,16 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
         <p className="text-4xl font-black text-white mt-2">{score}/{total}</p>
         <p className="text-white/60 text-base mt-1 font-medium">{pct}%</p>
       </div>
+      {earnedBonus && (
+        <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="flex flex-col items-center gap-2">
+          <p className="text-white/70 text-sm font-medium">+3⭐ {lang === "hu" ? "Bónusz!" : lang === "de" ? "Bonus!" : lang === "ro" ? "Bonus!" : "Bonus!"}</p>
+        </motion.div>
+      )}
+      {!earnedBonus && score < 10 && (
+        <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} className="flex flex-col items-center gap-2">
+          <p className="text-white/50 text-xs font-medium">{lang === "hu" ? `Még ${10 - score} pont az 3⭐ bónuszhoz!` : lang === "de" ? `Noch ${10 - score} Punkte für +3⭐ Bonus!` : lang === "ro" ? `Mai ${10 - score} puncte pentru +3⭐ bonus!` : `${10 - score} more points for +3⭐ bonus!`}</p>
+        </motion.div>
+      )}
       <motion.button onClick={onContinue}
         className="w-full py-4 rounded-2xl font-black text-white flex items-center justify-center gap-2"
         style={{ background: "linear-gradient(135deg, #FFD70055, #FFD70099)", border: "2px solid #FFD700" }}
@@ -467,7 +493,7 @@ export default function AstroBiologieK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -531,7 +557,7 @@ export default function AstroBiologieK7Page() {
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsK7(activeTestId, 10);
+    const qs = generateCheckpointQuestionsK7(activeTestId, 15);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -549,6 +575,9 @@ export default function AstroBiologieK7Page() {
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
+    if (score >= 10) {
+      addSpecialCards(3);
+    }
     setEarnedCard(rarity);
     setRewardScore({ score, total });
     setScreen("reward");
@@ -784,12 +813,34 @@ export default function AstroBiologieK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "cell-explorer" && (
+          <CellExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "division-explorer" && (
+          <DivisionExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "photosynthesis-explorer" && (
+          <PhotosynthesisExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "ecology-explorer" && (
+          <EcologyExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "immune-explorer" && (
+          <ImmuneExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "nerve-explorer" && (
+          <NerveExplorer onDone={handleMissionDone} />
+        )}
+        {screen === "evolution-explorer" && (
+          <EvolutionExplorer onDone={handleMissionDone} />
+        )}
 
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreens = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer"];
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

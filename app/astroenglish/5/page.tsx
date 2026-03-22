@@ -39,6 +39,12 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
+import ConjunctionExplorer from "@/app/astroenglish/games/k5/ConjunctionExplorer";
+import InterjectionExplorer from "@/app/astroenglish/games/k5/InterjectionExplorer";
+import TenseK5Explorer from "@/app/astroenglish/games/k5/TenseK5Explorer";
+import SentenceK5Explorer from "@/app/astroenglish/games/k5/SentenceK5Explorer";
+import PunctuationK5Explorer from "@/app/astroenglish/games/k5/PunctuationK5Explorer";
+import SpellingK5Explorer from "@/app/astroenglish/games/k5/SpellingK5Explorer";
 import { K5_ISLAND_SVGS } from "@/app/astroenglish/islands-k5";
 import {
   K5_ISLANDS, K5_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -121,6 +127,15 @@ type Screen =
   | "tense-explorer"
   | "memory-pair"
   | "pronunciation"
+  | "en5-conjunction-explorer"
+  | "en5-interjection-explorer"
+  | "en5-tense-k5-explorer"
+  | "en5-sentence-k5-explorer"
+  | "en5-punctuation-k5-explorer"
+  | "en5-spelling-k5-explorer"
+  | "en5-root-word-explorer"
+  | "en5-figurative-explorer"
+  | "en5-academic-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -826,7 +841,7 @@ export default function AstroEnglishK5Page() {
     setAvatarMood("focused");
 
     // Explorer games use generated content, quiz games use questions
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en5-conjunction-explorer", "en5-interjection-explorer", "en5-tense-k5-explorer", "en5-sentence-k5-explorer", "en5-punctuation-k5-explorer", "en5-spelling-k5-explorer", "en5-root-word-explorer", "en5-figurative-explorer", "en5-academic-explorer"].includes(mission.gameType);
 
     if (isExplorer) {
       // Explorers don't need questions, content is generated per game
@@ -1187,11 +1202,29 @@ export default function AstroEnglishK5Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK5(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "en5-conjunction-explorer" && (
+          <ConjunctionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-interjection-explorer" && (
+          <InterjectionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-tense-k5-explorer" && (
+          <TenseK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-sentence-k5-explorer" && (
+          <SentenceK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-punctuation-k5-explorer" && (
+          <PunctuationK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-spelling-k5-explorer" && (
+          <SpellingK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en5-conjunction-explorer", "en5-interjection-explorer", "en5-tense-k5-explorer", "en5-sentence-k5-explorer", "en5-punctuation-k5-explorer", "en5-spelling-k5-explorer", "en5-root-word-explorer", "en5-figurative-explorer", "en5-academic-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

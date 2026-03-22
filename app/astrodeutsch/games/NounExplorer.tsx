@@ -12,15 +12,20 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Noun Explorer",
     round1Title: "What is a Noun?",
     round1Hint: "Tap all the nouns — names of people, animals, things or places!",
+    round1Teach: "A noun is a word that names something. It can be a person (Lehrer), an animal (Hund), a thing (Ball), or a place (Schule). In German, ALL nouns start with a capital letter — that's the big clue!",
     round2Title: "der · die · das",
     round2Hint: "Which article goes with this noun?",
+    round2Teach: "Every German noun has a gender — masculine (der), feminine (die), or neutral (das). The article is the word that comes before the noun and tells us its gender.",
     round2Discovery: "💡 Nouns are naming words for people, places, things, and ideas. In German, ALL nouns are capitalized!",
     round3Title: "Plural Forms",
     round3Hint: "How do we say more than one?",
+    round3Teach: "When we have more than one of something, the word changes. We add endings like -e, -n, -er, or the vowel gets an Umlaut (ä, ö, ü). Let's learn how German makes words plural!",
     round4Title: "Article Match",
     round4Hint: "Tap the correct article for each noun!",
+    round4Teach: "Now it's time to practice! Remember: masculine nouns use 'der', feminine use 'die', and neutral use 'das'. Think about the gender of each word you see.",
     round5Title: "Noun Challenge",
     round5Hint: "Choose the correct article quickly!",
+    round5Teach: "You've learned so much about German nouns! Let's test what you know. Remember the three articles and the gender of each noun.",
     well: "Great job!",
     next: "Next",
     finish: "Finished!",
@@ -32,20 +37,26 @@ const LABELS: Record<string, Record<string, string>> = {
     das: "das (neutral)",
     singular: "Singular",
     plural: "Plural",
+    gotIt: "Got it!",
   },
   hu: {
     title: "Főnév felfedező",
     round1Title: "Mi a főnév?",
     round1Hint: "Koppints az összes főnévre — emberek, állatok, dolgok vagy helyek neve!",
+    round1Teach: "A főnév egy szó, amely valamit megnevez. Lehet egy ember (Lehrer), egy állat (Hund), egy tárgy (Ball) vagy egy hely (Schule). A német nyelvben MINDEN főnév nagybetűvel kezdődik — ez a nagy jelzés!",
     round2Title: "der · die · das",
     round2Hint: "Melyik névelő illik ehhez a főnévhez?",
+    round2Teach: "Minden német főnévnek van neme — hímnem (der), nőnem (die) vagy semleges (das). A névelő a főnév előtt álló szó, amely megmondja a főnév nemét.",
     round2Discovery: "💡 A főnevek megnevezési szavak emberekre, helyekre, dolgokra és gondolatokra. A német nyelvben MINDEN főnév nagybetűvel kezdődik!",
     round3Title: "Többes szám",
     round3Hint: "Hogyan mondjuk, ha több van belőle?",
+    round3Teach: "Amikor valamiből több van, a szó megváltozik. Végződéseket adunk hozzá, mint -e, -n, -er, vagy a magánhangzóhoz Umlaut (ä, ö, ü) kerül. Tanulj meg, hogyan készít a német többes szám szavakat!",
     round4Title: "Névelő párosítás",
     round4Hint: "Koppints a helyes névelőre minden főnévnél!",
+    round4Teach: "Most már gyakorolhatunk! Emlékezz: hímnem főnevekhez 'der' használunk, nőnemi 'die', semleges 'das'. Gondolj minden szó nemére, amit látsz.",
     round5Title: "Főnév kihívás",
     round5Hint: "Gyorsan válaszd ki a helyes névelőt!",
+    round5Teach: "Sokat tanultál a német főnevekről! Tesztelünk, mit tudsz. Emlékezz a három névelőre és mindegyik főnév nemére.",
     well: "Remek munka!",
     next: "Tovább",
     finish: "Vége!",
@@ -57,20 +68,26 @@ const LABELS: Record<string, Record<string, string>> = {
     das: "das (semleges)",
     singular: "Egyes szám",
     plural: "Többes szám",
+    gotIt: "Értem!",
   },
   de: {
     title: "Nomen-Entdecker",
     round1Title: "Was ist ein Nomen?",
     round1Hint: "Tippe auf alle Nomen — Namen von Personen, Tieren, Dingen oder Orten!",
+    round1Teach: "Ein Nomen ist ein Wort, das etwas benennt. Es kann eine Person sein (Lehrer), ein Tier (Hund), ein Ding (Ball) oder ein Ort (Schule). Im Deutschen werden ALLE Nomen großgeschrieben — das ist die große Regel!",
     round2Title: "der · die · das",
     round2Hint: "Welcher Artikel passt zu diesem Nomen?",
+    round2Teach: "Jedes deutsche Nomen hat ein Geschlecht — männlich (der), weiblich (die) oder sächlich (das). Der Artikel ist das Wort vor dem Nomen und zeigt uns sein Geschlecht.",
     round2Discovery: "💡 Nomen sind Benennungswörter für Menschen, Orte, Dinge und Ideen. Im Deutschen werden ALLE Nomen großgeschrieben!",
     round3Title: "Mehrzahl",
     round3Hint: "Wie sagt man, wenn es mehrere gibt?",
+    round3Teach: "Wenn es von etwas mehrere gibt, ändert sich das Wort. Wir fügen Endungen wie -e, -n, -er hinzu, oder der Vokal bekommt einen Umlaut (ä, ö, ü). Lass uns lernen, wie Deutsch Mehrzahlen macht!",
     round4Title: "Artikel-Zuordnung",
     round4Hint: "Tippe den richtigen Artikel für jedes Nomen an!",
+    round4Teach: "Jetzt ist es Zeit zu üben! Erinnere dich: männliche Nomen verwenden 'der', weibliche 'die' und sächliche 'das'. Denk an das Geschlecht jedes Wortes, das du siehst.",
     round5Title: "Nomen-Herausforderung",
     round5Hint: "Wähle schnell den richtigen Artikel!",
+    round5Teach: "Du hast viel über deutsche Nomen gelernt! Lass uns testen, was du weißt. Merke die drei Artikel und das Geschlecht jedes Nomens.",
     well: "Super gemacht!",
     next: "Weiter",
     finish: "Fertig!",
@@ -82,20 +99,26 @@ const LABELS: Record<string, Record<string, string>> = {
     das: "das (sächlich)",
     singular: "Einzahl",
     plural: "Mehrzahl",
+    gotIt: "Verstanden!",
   },
   ro: {
     title: "Exploratorul substantivelor",
     round1Title: "Ce este un substantiv?",
     round1Hint: "Atinge toate substantivele — nume de persoane, animale, lucruri sau locuri!",
+    round1Teach: "Un substantiv este un cuvânt care numește ceva. Poate fi o persoană (Lehrer), un animal (Hund), un lucru (Ball) sau un loc (Schule). În limba germană, TOATE substantivele se scriu cu majusculă — asta e marele semn!",
     round2Title: "der · die · das",
     round2Hint: "Care articol se potrivește cu acest substantiv?",
+    round2Teach: "Fiecare substantiv german are un gen — masculin (der), feminin (die) sau neutru (das). Articolul este cuvântul care vine înainte de substantiv și ne spune genul acestuia.",
     round2Discovery: "💡 Substantivele sunt cuvinte de denumire pentru oameni, locuri, lucruri și idei. În limba germană, TOATE substantivele se scriu cu majusculă!",
     round3Title: "Forme de plural",
     round3Hint: "Cum spunem când sunt mai multe?",
+    round3Teach: "Când avem mai multe din ceva, cuvântul se schimbă. Adăugăm terminații ca -e, -n, -er, sau vocalele primesc Umlaut (ä, ö, ü). Să învățăm cum formează germana pluralele!",
     round4Title: "Potrivire articol",
     round4Hint: "Atinge articolul corect pentru fiecare substantiv!",
+    round4Teach: "Acum e timp să practică! Adu aminte: substantivele masculine folosesc 'der', feminine 'die' și neutre 'das'. Gândește-te la genul fiecărui cuvânt pe care îl vezi.",
     round5Title: "Provocare substantive",
     round5Hint: "Alege rapid articolul corect!",
+    round5Teach: "Ai învățat mult despre substantivele germane! Hai să testez ce știi. Ține minte cei trei articoli și genul fiecărui substantiv.",
     well: "Foarte bine!",
     next: "Înainte",
     finish: "Gata!",
@@ -107,6 +130,7 @@ const LABELS: Record<string, Record<string, string>> = {
     das: "das (neutru)",
     singular: "Singular",
     plural: "Plural",
+    gotIt: "Am înțeles!",
   },
 };
 
@@ -219,15 +243,36 @@ function Round1({
   lbl,
   items,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   items: { word: string; isNoun: boolean; emoji?: string }[];
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const nouns = items.filter(w => w.isNoun);
   const allNounsTapped = nouns.every((_, i) => tapped.has(items.indexOf(nouns[i])));
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -274,18 +319,39 @@ function Round2({
   items,
   wrongCountRef,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   items: { word: string; article: Article; emoji: string }[];
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [done, setDone] = useState(false);
   const item = items[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (art: Article) => {
     if (selected || feedback) return;
@@ -371,15 +437,36 @@ function Round3({
   lbl,
   items,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   items: { singular: string; plural: string; emoji: string; ending: string }[];
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
   const item = items[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleNext = () => {
     if (idx + 1 >= items.length) onNext();
@@ -442,17 +529,38 @@ function Round4({
   items,
   wrongCountRef,
   onNext,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   items: { word: string; article: Article; emoji: string }[];
   wrongCountRef: React.MutableRefObject<number>;
   onNext: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = items[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (art: Article) => {
     if (selected || feedback) return;
@@ -528,17 +636,38 @@ function Round5({
   items,
   wrongCountRef,
   onDone,
+  showTeach,
+  onTeachDone,
 }: {
   color: string;
   lbl: Record<string, string>;
   items: { word: string; article: Article; emoji: string }[];
   wrongCountRef: React.MutableRefObject<number>;
   onDone: () => void;
+  showTeach: boolean;
+  onTeachDone: () => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const item = items[idx];
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleSelect = (art: Article) => {
     if (selected || feedback) return;
@@ -617,6 +746,7 @@ const NounExplorer = memo(function NounExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
 
   // Random content generation
@@ -629,7 +759,7 @@ const NounExplorer = memo(function NounExplorer({
   // Error tracking
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -642,11 +772,11 @@ const NounExplorer = memo(function NounExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} items={wordListItems} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} items={articleItems} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} items={pluralItems} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} items={round4Items} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} items={round5Items} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} items={wordListItems} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} items={articleItems} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} items={pluralItems} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} items={round4Items} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} items={round5Items} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} onTeachDone={() => setShowTeach(false)} />}
         </motion.div>
       </AnimatePresence>
     </div>

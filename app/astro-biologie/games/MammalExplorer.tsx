@@ -12,511 +12,805 @@ import type { ExplorerDef, MCQQuestion, RoundDef } from "./ExplorerEngine";
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SVG_R1(lang: string): React.ReactNode {
-  const lb: Record<string, { title: string; feature1: string; feature2: string; feature3: string; feature4: string }> = {
-    en: { title: "Mammal Features", feature1: "Fur/Hair", feature2: "Warm-blooded", feature3: "Live birth", feature4: "Milk nursing" },
-    de: { title: "Säugetier-Merkmale", feature1: "Fell/Haare", feature2: "Warmblütig", feature3: "Lebendgeburt", feature4: "Milchernährung" },
-    hu: { title: "Emlős jellemzői", feature1: "Szőr/Haj", feature2: "Melegvérű", feature3: "Elevenszülés", feature4: "Tejernährung" },
-    ro: { title: "Caracteristici ale mamiferelor", feature1: "Blană/Păr", feature2: "Sânge cald", feature3: "Naștere vie", feature4: "Alăptare" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A574" />
-          <stop offset="100%" stopColor="#A67C52" />
+        <linearGradient id="m1_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a3a2a" />
+          <stop offset="50%" stopColor="#2a4a3a" />
+          <stop offset="100%" stopColor="#1a2a1a" />
         </linearGradient>
-        <linearGradient id="r1_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,180,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(150,100,200,0.15)" />
+        <linearGradient id="m1_fox_body" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#E87A30" />
+          <stop offset="40%" stopColor="#D06A25" />
+          <stop offset="100%" stopColor="#B85A1A" />
         </linearGradient>
-        <radialGradient id="r1_eye" cx="40%" cy="40%">
-          <stop offset="0%" stopColor="#f0f9ff" />
-          <stop offset="100%" stopColor="#e0f2fe" />
+        <linearGradient id="m1_fox_belly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFF8E1" />
+          <stop offset="100%" stopColor="#FFECB3" />
+        </linearGradient>
+        <linearGradient id="m1_fox_tail" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#D06A25" />
+          <stop offset="70%" stopColor="#B85A1A" />
+          <stop offset="100%" stopColor="#FFFDE7" />
+        </linearGradient>
+        <linearGradient id="m1_grass" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4CAF50" />
+          <stop offset="100%" stopColor="#2E7D32" />
+        </linearGradient>
+        <radialGradient id="m1_glow" cx="50%" cy="40%">
+          <stop offset="0%" stopColor="rgba(255,200,100,0.12)" />
+          <stop offset="100%" stopColor="rgba(255,200,100,0)" />
         </radialGradient>
       </defs>
 
       {/* Background */}
-      <rect width="240" height="160" fill="url(#r1_bg)" />
+      <rect width="240" height="160" fill="url(#m1_bg)" />
+      <circle cx="120" cy="75" r="70" fill="url(#m1_glow)" />
 
-      {/* Dog/Wolf body with fur texture */}
-      <g>
-        {/* Back leg */}
-        <path d="M 85 100 Q 80 115 90 125 Q 95 130 100 128 Q 98 115 95 100 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-        {/* Front leg */}
-        <path d="M 130 100 Q 135 115 130 130 Q 125 133 120 130 Q 120 115 125 100 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Body */}
-        <path d="M 85 80 Q 90 75 110 75 Q 130 75 140 85 Q 145 95 140 105 Q 120 110 95 105 Z" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Neck */}
-        <ellipse cx="105" cy="68" rx="14" ry="12" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Head */}
-        <circle cx="115" cy="50" r="16" fill="url(#r1_body)" stroke="#8B6F47" strokeWidth="1" />
-
-        {/* Snout */}
-        <ellipse cx="125" cy="58" rx="10" ry="8" fill="#C19A6B" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Nose */}
-        <circle cx="130" cy="60" r="2.5" fill="#2C1810" />
-
-        {/* Eyes with anatomy */}
-        <circle cx="110" cy="45" r="4" fill="url(#r1_eye)" />
-        <circle cx="110" cy="45" r="2.8" fill="#1e3a5f" />
-        <circle cx="110" cy="45" r="1.6" fill="#0c1829" />
-        <circle cx="110" cy="45" r="2.6" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
-        <circle cx="111.5" cy="43.5" r="1" fill="white" opacity="0.85" />
-
-        <circle cx="118" cy="42" r="4" fill="url(#r1_eye)" />
-        <circle cx="118" cy="42" r="2.8" fill="#1e3a5f" />
-        <circle cx="118" cy="42" r="1.6" fill="#0c1829" />
-        <circle cx="118" cy="42" r="2.6" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.5" />
-        <circle cx="119.5" cy="40.5" r="1" fill="white" opacity="0.85" />
-
-        {/* Ear */}
-        <path d="M 108 32 Q 105 22 110 28 Q 115 32 112 35 Z" fill="#9B7653" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Tail */}
-        <path d="M 85 90 Q 70 85 65 75 Q 62 70 65 65" fill="none" stroke="#A67C52" strokeWidth="6" strokeLinecap="round" />
-
-        {/* Fur texture strokes */}
-        <g stroke="#8B6F47" strokeWidth="0.8" opacity="0.4" strokeLinecap="round">
-          <path d="M 95 80 Q 98 75 100 80" />
-          <path d="M 105 78 Q 108 72 110 78" />
-          <path d="M 120 80 Q 125 75 130 82" />
-        </g>
+      {/* Ground */}
+      <path d="M 0 130 Q 60 125 120 128 Q 180 132 240 128 L 240 160 L 0 160 Z" fill="#2E7D32" opacity="0.3" />
+      {/* Grass tufts */}
+      <g stroke="url(#m1_grass)" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.5">
+        <path d="M 15 135 Q 17 125 19 135" /><path d="M 22 134 Q 24 126 26 134" />
+        <path d="M 195 132 Q 197 122 199 132" /><path d="M 210 134 Q 212 124 214 134" />
+        <path d="M 80 136 Q 82 128 84 136" />
       </g>
 
-      {/* Feature labels with pointers */}
+      {/* FOX — detailed side view */}
+      <g transform="translate(70, 60)">
+        {/* Shadow */}
+        <ellipse cx="50" cy="75" rx="45" ry="6" fill="rgba(0,0,0,0.15)" />
+
+        {/* Tail - bushy with white tip */}
+        <path d="M 10,40 Q -15,35 -25,20 Q -30,10 -25,5 Q -20,2 -15,8 Q -5,20 10,35" fill="url(#m1_fox_tail)" />
+        {/* Tail fur detail */}
+        <g stroke="rgba(180,80,20,0.3)" strokeWidth="0.6" fill="none">
+          <path d="M -10,15 Q -8,12 -6,15" /><path d="M -5,20 Q -3,17 -1,20" />
+          <path d="M 0,28 Q 2,25 4,28" />
+        </g>
+        {/* White tail tip */}
+        <path d="M -25,5 Q -28,2 -25,0 Q -22,2 -25,5 Z" fill="#FFF8E1" />
+
+        {/* Hind legs */}
+        <path d="M 20,55 Q 18,62 20,68 Q 22,72 25,70 Q 24,62 22,55 Z" fill="url(#m1_fox_body)" />
+        <path d="M 30,55 Q 28,62 30,68 Q 32,72 35,70 Q 34,62 32,55 Z" fill="url(#m1_fox_body)" />
+        {/* Paws */}
+        <ellipse cx="22" cy="70" rx="3.5" ry="2" fill="#2C1810" />
+        <ellipse cx="33" cy="70" rx="3.5" ry="2" fill="#2C1810" />
+
+        {/* Front legs */}
+        <path d="M 65,50 Q 66,60 64,68 Q 62,72 60,70 Q 60,60 63,50 Z" fill="url(#m1_fox_body)" />
+        <path d="M 75,48 Q 77,58 75,66 Q 73,70 71,68 Q 71,58 73,48 Z" fill="url(#m1_fox_body)" />
+        <ellipse cx="62" cy="70" rx="3" ry="2" fill="#2C1810" />
+        <ellipse cx="73" cy="68" rx="3" ry="2" fill="#2C1810" />
+
+        {/* Body */}
+        <path d="M 20,30 Q 30,22 50,20 Q 70,22 80,32 Q 82,42 78,52 Q 65,58 35,55 Q 18,50 20,30" fill="url(#m1_fox_body)" />
+        {/* Belly white */}
+        <path d="M 30,45 Q 45,50 65,48 Q 75,45 78,40" fill="url(#m1_fox_belly)" opacity="0.7" />
+
+        {/* Fur texture on body */}
+        <g stroke="rgba(160,70,15,0.25)" strokeWidth="0.7" fill="none" strokeLinecap="round">
+          <path d="M 30,28 Q 33,24 36,28" /><path d="M 42,25 Q 45,21 48,25" />
+          <path d="M 55,26 Q 58,22 61,26" /><path d="M 68,30 Q 71,26 74,30" />
+          <path d="M 35,35 Q 38,31 41,35" /><path d="M 50,33 Q 53,29 56,33" />
+          <path d="M 62,35 Q 65,31 68,35" />
+          <path d="M 28,42 Q 31,38 34,42" /><path d="M 45,40 Q 48,36 51,40" />
+        </g>
+
+        {/* Neck */}
+        <path d="M 70,28 Q 78,22 85,25 Q 88,30 85,38 Q 78,40 72,35 Z" fill="url(#m1_fox_body)" />
+        {/* Chest white */}
+        <path d="M 78,32 Q 82,28 85,32 Q 84,36 80,38 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
+
+        {/* Head */}
+        <path d="M 82,15 Q 90,8 100,10 Q 108,14 108,22 Q 106,30 98,34 Q 88,35 82,28 Z" fill="url(#m1_fox_body)" />
+        {/* Face white markings */}
+        <path d="M 92,20 Q 96,16 100,18 Q 102,22 100,28 Q 96,30 92,26 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
+
+        {/* Ears - large pointed */}
+        <path d="M 86,12 Q 82,0 88,4 Q 92,8 89,14 Z" fill="url(#m1_fox_body)" />
+        <path d="M 87,10 Q 84,3 88,6 Z" fill="#1a1a1a" opacity="0.3" />
+        <path d="M 98,8 Q 96,-2 102,2 Q 106,6 102,12 Z" fill="url(#m1_fox_body)" />
+        <path d="M 99,6 Q 97,0 102,4 Z" fill="#1a1a1a" opacity="0.3" />
+
+        {/* Eyes - bright amber */}
+        <circle cx="90" cy="18" r="3.2" fill="#FFF8E1" />
+        <circle cx="90" cy="18" r="2.2" fill="#E8A020" />
+        <circle cx="90" cy="18" r="1.3" fill="#1a1a00" />
+        <circle cx="91" cy="17" r="0.8" fill="white" opacity="0.9" />
+        <circle cx="89" cy="19" r="0.35" fill="white" opacity="0.4" />
+
+        <circle cx="99" cy="17" r="3" fill="#FFF8E1" />
+        <circle cx="99" cy="17" r="2" fill="#E8A020" />
+        <circle cx="99" cy="17" r="1.2" fill="#1a1a00" />
+        <circle cx="100" cy="16" r="0.7" fill="white" opacity="0.9" />
+
+        {/* Nose */}
+        <ellipse cx="105" cy="24" rx="3" ry="2.5" fill="#1a1a1a" />
+        <circle cx="104" cy="23.5" r="0.6" fill="white" opacity="0.2" />
+
+        {/* Whiskers */}
+        <g stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none">
+          <path d="M 106,26 L 115,24" /><path d="M 106,27 L 115,28" /><path d="M 106,28 L 114,31" />
+        </g>
+
+        {/* Mouth line */}
+        <path d="M 105,26 Q 103,28 100,29" stroke="rgba(0,0,0,0.15)" strokeWidth="0.5" fill="none" />
+      </g>
+
+      {/* Feature indicator dots with glow rings */}
       <g>
-        {/* Fur label - top left */}
-        <circle cx="25" cy="35" r="2.5" fill="#10B981" />
-        <path d="M 28 35 L 60 35" stroke="#10B981" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="10" y="27" width="30" height="14" rx="7" fill="#10B98133" stroke="#10B981" strokeWidth="1" />
-        <text x="25" y="37" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
-          {l.feature1}
-        </text>
+        {/* Fur indicator - on body */}
+        <circle cx="115" cy="92" r="4" fill="rgba(16,185,129,0.3)" stroke="#10B981" strokeWidth="1" />
+        <circle cx="115" cy="92" r="1.5" fill="#10B981" />
 
-        {/* Warm-blooded label - top right */}
-        <circle cx="215" cy="30" r="2.5" fill="#F59E0B" />
-        <path d="M 210 30 L 150 40" stroke="#F59E0B" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="190" y="20" width="50" height="14" rx="7" fill="#F59E0B33" stroke="#F59E0B" strokeWidth="1" />
-        <text x="215" y="32" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
-          {l.feature2}
-        </text>
+        {/* Warm blood indicator - on chest */}
+        <circle cx="155" cy="88" r="4" fill="rgba(245,158,11,0.3)" stroke="#F59E0B" strokeWidth="1" />
+        <circle cx="155" cy="88" r="1.5" fill="#F59E0B" />
 
-        {/* Live birth label - bottom left */}
-        <circle cx="40" cy="125" r="2.5" fill="#EC4899" />
-        <path d="M 45 120 L 75 100" stroke="#EC4899" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="12" y="128" width="56" height="14" rx="7" fill="#EC489933" stroke="#EC4899" strokeWidth="1" />
-        <text x="40" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
-          {l.feature3}
-        </text>
+        {/* Live birth - near belly */}
+        <circle cx="108" cy="108" r="4" fill="rgba(236,72,153,0.3)" stroke="#EC4899" strokeWidth="1" />
+        <circle cx="108" cy="108" r="1.5" fill="#EC4899" />
 
-        {/* Milk nursing label - bottom right */}
-        <circle cx="200" cy="130" r="2.5" fill="#06B6D4" />
-        <path d="M 195 125 L 155 95" stroke="#06B6D4" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="168" y="128" width="64" height="14" rx="7" fill="#06B6D433" stroke="#06B6D4" strokeWidth="1" />
-        <text x="200" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.feature4}
-        </text>
+        {/* Milk nursing - near belly */}
+        <circle cx="140" cy="112" r="4" fill="rgba(6,182,212,0.3)" stroke="#06B6D4" strokeWidth="1" />
+        <circle cx="140" cy="112" r="1.5" fill="#06B6D4" />
       </g>
     </svg>
   );
 }
 
 function SVG_R2(lang: string): React.ReactNode {
-  const lb: Record<string, { lungs: string; heart: string; incisors: string; molars: string; diaphragm: string }> = {
-    en: { lungs: "Lungs", heart: "4-chamber Heart", incisors: "Sharp Incisors", molars: "Grinding Molars", diaphragm: "Diaphragm" },
-    de: { lungs: "Lungen", heart: "4-Kammer-Herz", incisors: "Scharfe Schneidezähne", molars: "Mahlzähne", diaphragm: "Zwerchfell" },
-    hu: { lungs: "Tüdő", heart: "4 kamrás szív", incisors: "Éles metszőfogak", molars: "Rágófogak", diaphragm: "Rekeszizom" },
-    ro: { lungs: "Plămâni", heart: "Inimă cu 4 camere", incisors: "Incisivi ascuți", molars: "Molari de măcinat", diaphragm: "Diafragmă" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_body" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#E8C4A0" />
-          <stop offset="100%" stopColor="#D4A880" />
+        <linearGradient id="m2_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a1a2e" />
+          <stop offset="100%" stopColor="#16213e" />
         </linearGradient>
-        <linearGradient id="r2_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(150,150,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(200,100,150,0.15)" />
+        <linearGradient id="m2_jaw" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E8D8C0" />
+          <stop offset="100%" stopColor="#C4A882" />
         </linearGradient>
+        <linearGradient id="m2_gum" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FF8A8A" />
+          <stop offset="100%" stopColor="#E06060" />
+        </linearGradient>
+        <linearGradient id="m2_tooth" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFFFF0" />
+          <stop offset="40%" stopColor="#F5F0E0" />
+          <stop offset="100%" stopColor="#E8E0C8" />
+        </linearGradient>
+        <linearGradient id="m2_lung" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF8A9E" />
+          <stop offset="100%" stopColor="#E0546A" />
+        </linearGradient>
+        <linearGradient id="m2_heart" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FF4757" />
+          <stop offset="100%" stopColor="#C0392B" />
+        </linearGradient>
+        <radialGradient id="m2_heart_glow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(255,70,87,0.3)" />
+          <stop offset="100%" stopColor="rgba(255,70,87,0)" />
+        </radialGradient>
       </defs>
 
-      <rect width="240" height="160" fill="url(#r2_bg)" />
+      <rect width="240" height="160" fill="url(#m2_bg)" />
 
-      {/* Body outline */}
-      <ellipse cx="85" cy="85" rx="25" ry="35" fill="url(#r2_body)" stroke="#8B6F47" strokeWidth="1.5" />
+      {/* LEFT SECTION: Teeth diagram — jaw cross-section */}
+      <g transform="translate(10, 8)">
+        {/* Upper jaw arc */}
+        <path d="M 15,55 Q 15,20 55,15 Q 95,20 95,55" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
+        {/* Gum line */}
+        <path d="M 20,50 Q 20,30 55,25 Q 90,30 90,50" fill="url(#m2_gum)" opacity="0.6" />
 
-      {/* Lungs (left & right) */}
-      <g>
-        <ellipse cx="65" cy="75" rx="8" ry="18" fill="#FF6B9D" opacity="0.8" stroke="#FF1493" strokeWidth="0.8" />
-        <ellipse cx="105" cy="75" rx="8" ry="18" fill="#FF6B9D" opacity="0.8" stroke="#FF1493" strokeWidth="0.8" />
-        <text x="55" y="75" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#FF1493" fontFamily="system-ui">
-          {l.lungs}
-        </text>
+        {/* Upper teeth */}
+        {/* Incisors - sharp chisel shapes */}
+        <rect x="42" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="48" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="54" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="60" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Canines - pointed */}
+        <path d="M 35,34 L 38,28 L 41,34 Q 40,48 38,50 Q 36,48 35,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <path d="M 66,34 L 69,28 L 72,34 Q 71,48 69,50 Q 67,48 66,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Premolars & Molars - flat wide */}
+        <rect x="22" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="76" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Grinding surface detail on molars */}
+        <path d="M 24,40 L 28,40 M 24,43 L 28,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
+        <path d="M 78,40 L 82,40 M 78,43 L 82,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
+
+        {/* Lower jaw (mirror) */}
+        <path d="M 15,60 Q 15,95 55,100 Q 95,95 95,60" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
+        <path d="M 20,65 Q 20,85 55,90 Q 90,85 90,65" fill="url(#m2_gum)" opacity="0.6" />
+
+        {/* Lower teeth */}
+        <rect x="44" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="50" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="56" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="62" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Lower canines */}
+        <path d="M 36,70 L 39,82 L 42,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <path d="M 67,70 L 70,82 L 73,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Lower molars */}
+        <rect x="22" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="76" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Color-coded indicator dots */}
+        {/* Incisors */}
+        <circle cx="53" cy="22" r="3" fill="rgba(255,193,7,0.3)" stroke="#FFC107" strokeWidth="0.8" />
+        <circle cx="53" cy="22" r="1" fill="#FFC107" />
+        {/* Canines */}
+        <circle cx="38" cy="24" r="3" fill="rgba(244,67,54,0.3)" stroke="#F44336" strokeWidth="0.8" />
+        <circle cx="38" cy="24" r="1" fill="#F44336" />
+        {/* Molars */}
+        <circle cx="26" cy="34" r="3" fill="rgba(76,175,80,0.3)" stroke="#4CAF50" strokeWidth="0.8" />
+        <circle cx="26" cy="34" r="1" fill="#4CAF50" />
       </g>
 
-      {/* Heart */}
-      <g>
-        <circle cx="85" cy="95" r="10" fill="#FF4757" stroke="#C2185B" strokeWidth="0.8" />
-        {/* Heart chambers hint */}
-        <line x1="80" y1="90" x2="90" y2="90" stroke="#FFE5E5" strokeWidth="1.5" />
-        <line x1="80" y1="100" x2="90" y2="100" stroke="#FFE5E5" strokeWidth="1.5" />
-        <text x="85" y="98" fontSize="7" fontWeight="bold" textAnchor="middle" fill="white" fontFamily="system-ui">
-          ❤
-        </text>
-      </g>
+      {/* RIGHT SECTION: Internal organs */}
+      <g transform="translate(130, 10)">
+        {/* Body silhouette */}
+        <ellipse cx="50" cy="70" rx="38" ry="55" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="3,3" />
 
-      {/* Teeth diagram */}
-      <g>
-        {/* Incisors (sharp, small) */}
+        {/* Lungs - detailed lobes */}
         <g>
-          <rect x="30" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
-          <rect x="37" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
-          <rect x="8" y="137" width="56" height="12" rx="5" fill="#FFA50022" stroke="#FFA500" strokeWidth="0.8" />
-          <text x="36" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
-            {l.incisors}
-          </text>
+          {/* Left lung */}
+          <path d="M 25,45 Q 18,50 15,65 Q 16,80 22,85 Q 30,88 35,82 Q 38,70 36,55 Q 34,46 25,45 Z" fill="url(#m2_lung)" opacity="0.75" />
+          {/* Bronchi detail */}
+          <path d="M 35,55 Q 30,52 28,55 Q 26,60 24,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
+          <path d="M 28,55 Q 24,58 22,62" stroke="rgba(255,255,255,0.15)" strokeWidth="0.4" fill="none" />
+
+          {/* Right lung */}
+          <path d="M 75,45 Q 82,50 85,65 Q 84,80 78,85 Q 70,88 65,82 Q 62,70 64,55 Q 66,46 75,45 Z" fill="url(#m2_lung)" opacity="0.75" />
+          <path d="M 65,55 Q 70,52 72,55 Q 74,60 76,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
+
+          {/* Trachea */}
+          <rect x="47" y="35" width="6" height="18" rx="3" fill="#E88090" opacity="0.5" />
+          <path d="M 50,52 Q 40,55 35,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
+          <path d="M 50,52 Q 60,55 65,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
         </g>
 
-        {/* Molars (flat, large) */}
-        <g>
-          <rect x="110" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
-          <rect x="120" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
-          <rect x="98" y="137" width="40" height="12" rx="5" fill="#228B2222" stroke="#228B22" strokeWidth="0.8" />
-          <text x="118" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-            {l.molars}
-          </text>
+        {/* Heart - with chambers */}
+        <g transform="translate(50, 72)">
+          <circle cx="0" cy="0" r="14" fill="url(#m2_heart_glow)" />
+          {/* Heart shape */}
+          <path d="M 0,-10 Q -8,-14 -12,-8 Q -14,-2 -8,4 L 0,12 L 8,4 Q 14,-2 12,-8 Q 8,-14 0,-10 Z" fill="url(#m2_heart)" />
+          {/* Chamber dividers */}
+          <line x1="-6" y1="-4" x2="6" y2="-4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
+          <line x1="0" y1="-8" x2="0" y2="4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
+          {/* Vessels */}
+          <path d="M -4,-10 Q -6,-14 -4,-16" stroke="#FF6B6B" strokeWidth="1.2" fill="none" />
+          <path d="M 4,-10 Q 6,-14 4,-16" stroke="#4488FF" strokeWidth="1.2" fill="none" />
         </g>
+
+        {/* Diaphragm */}
+        <path d="M 15,100 Q 30,108 50,110 Q 70,108 85,100" stroke="#06B6D4" strokeWidth="2" strokeDasharray="3,2" fill="none" opacity="0.6" />
       </g>
 
-      {/* Diaphragm line */}
-      <g>
-        <path d="M 50 110 Q 85 125 120 110" fill="none" stroke="#06B6D4" strokeWidth="2" strokeDasharray="4,2" />
-        <rect x="125" y="108" width="50" height="12" rx="5" fill="#06B6D433" stroke="#06B6D4" strokeWidth="0.8" />
-        <text x="150" y="117" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.diaphragm}
-        </text>
-      </g>
-
-      {/* Label frame */}
-      <rect x="145" y="50" width="85" height="80" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-      <text x="187" y="67" fontSize="10" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-        Mammal Body Systems
-      </text>
-      <text x="187" y="95" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Lungs for breathing
-      </text>
-      <text x="187" y="107" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Powerful heart
-      </text>
-      <text x="187" y="119" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Specialized teeth
-      </text>
+      {/* Subtle connecting element */}
+      <line x1="110" y1="60" x2="130" y2="60" stroke="rgba(255,255,255,0.06)" strokeWidth="1" strokeDasharray="2,3" />
     </svg>
   );
 }
 
 function SVG_R3(lang: string): React.ReactNode {
-  const lb: Record<string, { herbivore: string; carnivore: string; omnivore: string; example: string }> = {
-    en: { herbivore: "Herbivore", carnivore: "Carnivore", omnivore: "Omnivore", example: "Examples" },
-    de: { herbivore: "Pflanzenfresser", carnivore: "Fleischfresser", omnivore: "Allesfresser", example: "Beispiele" },
-    hu: { herbivore: "Növényevő", carnivore: "Húsevő", omnivore: "Mindenevő", example: "Példák" },
-    ro: { herbivore: "Erbivor", carnivore: "Carnivor", omnivore: "Omnivor", example: "Exemple" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_herb" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" />
-          <stop offset="100%" stopColor="#228B22" />
+        <linearGradient id="m3_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a1a2e" />
+          <stop offset="100%" stopColor="#16213e" />
         </linearGradient>
-        <linearGradient id="r3_carn" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" />
-          <stop offset="100%" stopColor="#C2185B" />
+        <linearGradient id="m3_herb_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#2E7D32" />
+          <stop offset="100%" stopColor="#1B5E20" />
         </linearGradient>
-        <linearGradient id="r3_omni" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFB347" />
-          <stop offset="100%" stopColor="#FF6347" />
+        <linearGradient id="m3_carn_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </linearGradient>
+        <linearGradient id="m3_omni_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E65100" />
+          <stop offset="100%" stopColor="#BF360C" />
+        </linearGradient>
+        <linearGradient id="m3_rabbit" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#C4A882" />
+          <stop offset="100%" stopColor="#A08060" />
+        </linearGradient>
+        <linearGradient id="m3_wolf" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8D8D8D" />
+          <stop offset="50%" stopColor="#6D6D6D" />
+          <stop offset="100%" stopColor="#505050" />
+        </linearGradient>
+        <linearGradient id="m3_bear" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8B5A3C" />
+          <stop offset="100%" stopColor="#5D3A1F" />
         </linearGradient>
       </defs>
 
-      {/* Three panels */}
+      <rect width="240" height="160" fill="url(#m3_bg)" />
 
-      {/* Panel 1: Herbivore (Cow/Rabbit) */}
+      {/* PANEL 1: HERBIVORE — Rabbit */}
       <g>
-        <rect x="8" y="10" width="70" height="145" rx="6" fill="url(#r3_herb)" opacity="0.2" stroke="#228B22" strokeWidth="1.5" />
-        <text x="43" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          {l.herbivore}
-        </text>
+        <rect x="4" y="6" width="74" height="148" rx="8" fill="url(#m3_herb_card)" opacity="0.85" />
+        <rect x="4" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="4" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Simple rabbit/cow head */}
-        <circle cx="43" cy="55" r="12" fill="#D4A574" stroke="#8B6F47" strokeWidth="1" />
-        <circle cx="35" cy="48" r="4" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        <circle cx="51" cy="48" r="4" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        {/* Mouth */}
-        <path d="M 43 62 Q 40 65 43 67 Q 46 65 43 62" fill="#FFB6C1" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Grass below */}
-        <g stroke="#228B22" strokeWidth="1.5" strokeLinecap="round" opacity="0.7">
-          <path d="M 25 80 Q 28 70 30 80" />
-          <path d="M 35 82 Q 38 70 40 82" />
-          <path d="M 50 81 Q 53 71 55 81" />
-          <path d="M 60 80 Q 63 72 65 80" />
+        {/* Rabbit sitting */}
+        <g transform="translate(41, 50)">
+          {/* Body */}
+          <ellipse cx="0" cy="8" rx="12" ry="14" fill="url(#m3_rabbit)" />
+          {/* Belly */}
+          <ellipse cx="1" cy="12" rx="7" ry="8" fill="#E8D8C0" opacity="0.5" />
+          {/* Head */}
+          <circle cx="2" cy="-6" r="9" fill="url(#m3_rabbit)" />
+          {/* Ears - tall */}
+          <path d="M -2,-14 Q -4,-28 -1,-30 Q 2,-28 1,-14 Z" fill="url(#m3_rabbit)" />
+          <path d="M -1,-16 Q -2,-26 0,-28 Z" fill="#E8A0A0" opacity="0.4" />
+          <path d="M 6,-12 Q 8,-26 11,-28 Q 14,-26 12,-12 Z" fill="url(#m3_rabbit)" />
+          <path d="M 8,-14 Q 9,-24 11,-26 Z" fill="#E8A0A0" opacity="0.4" />
+          {/* Eye */}
+          <circle cx="7" cy="-8" r="2.5" fill="#1a1a1a" />
+          <circle cx="7" cy="-8" r="1.8" fill="#2C1810" />
+          <circle cx="8" cy="-9" r="0.7" fill="white" opacity="0.85" />
+          {/* Nose */}
+          <ellipse cx="10" cy="-4" rx="1.5" ry="1" fill="#E88080" />
+          {/* Whiskers */}
+          <g stroke="rgba(255,255,255,0.25)" strokeWidth="0.3" fill="none">
+            <path d="M 11,-5 L 18,-6" /><path d="M 11,-4 L 18,-3" /><path d="M 11,-3 L 17,-1" />
+          </g>
+          {/* Paws */}
+          <ellipse cx="-6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
+          <ellipse cx="6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
+          {/* Fluffy tail */}
+          <circle cx="-10" cy="14" r="4" fill="#E8E0D0" />
+          {/* Fur texture */}
+          <g stroke="rgba(120,90,50,0.15)" strokeWidth="0.5" fill="none">
+            <path d="M -4,2 Q -2,0 0,2" /><path d="M 4,4 Q 6,2 8,4" />
+            <path d="M -6,10 Q -4,8 -2,10" /><path d="M 2,12 Q 4,10 6,12" />
+          </g>
         </g>
 
-        <text x="43" y="105" fontSize="8" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          🐰 🐄
-        </text>
+        {/* Grass/plants below */}
+        <g stroke="#4CAF50" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.6">
+          <path d="M 15 108 Q 17 98 19 108" /><path d="M 25 110 Q 27 100 29 110" />
+          <path d="M 50 108 Q 52 98 54 108" /><path d="M 60 110 Q 62 100 64 110" />
+          <path d="M 35 112 Q 37 104 39 112" />
+        </g>
+        {/* Leaves */}
+        <ellipse cx="20" cy="118" rx="5" ry="3" fill="#66BB6A" opacity="0.5" transform="rotate(-20 20 118)" />
+        <ellipse cx="55" cy="116" rx="4" ry="2.5" fill="#66BB6A" opacity="0.4" transform="rotate(15 55 116)" />
       </g>
 
-      {/* Panel 2: Carnivore (Wolf/Lion) */}
+      {/* PANEL 2: CARNIVORE — Wolf */}
       <g>
-        <rect x="85" y="10" width="70" height="145" rx="6" fill="url(#r3_carn)" opacity="0.2" stroke="#C2185B" strokeWidth="1.5" />
-        <text x="120" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
-          {l.carnivore}
-        </text>
+        <rect x="83" y="6" width="74" height="148" rx="8" fill="url(#m3_carn_card)" opacity="0.85" />
+        <rect x="83" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="83" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Sharp wolf/lion head */}
-        <circle cx="120" cy="55" r="12" fill="#D4A574" stroke="#8B6F47" strokeWidth="1" />
-        {/* Pointed ears */}
-        <path d="M 110 42 Q 108 35 112 42 Z" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        <path d="M 130 42 Q 132 35 128 42 Z" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        {/* Sharp teeth hint */}
-        <line x1="115" y1="63" x2="115" y2="68" stroke="#FF6B6B" strokeWidth="1.5" />
-        <line x1="120" y1="64" x2="120" y2="69" stroke="#FF6B6B" strokeWidth="1.5" />
-        <line x1="125" y1="63" x2="125" y2="68" stroke="#FF6B6B" strokeWidth="1.5" />
-
-        {/* Meat below */}
-        <g opacity="0.8">
-          <circle cx="110" cy="85" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
-          <circle cx="120" cy="88" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
-          <circle cx="130" cy="86" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
+        {/* Wolf head - fierce, side view */}
+        <g transform="translate(120, 50)">
+          {/* Neck fur */}
+          <path d="M -14,8 Q -18,14 -16,22 Q -10,26 -4,22 Q 0,16 -4,8 Z" fill="url(#m3_wolf)" />
+          {/* Head */}
+          <path d="M -8,-4 Q -2,-12 8,-10 Q 16,-6 16,2 Q 14,10 6,12 Q -4,12 -10,6 Q -12,0 -8,-4 Z" fill="url(#m3_wolf)" />
+          {/* Lighter muzzle */}
+          <path d="M 8,-2 Q 14,-4 18,0 Q 16,4 10,4 Q 6,2 8,-2 Z" fill="#9E9E9E" opacity="0.6" />
+          {/* Ears - pointed */}
+          <path d="M -4,-10 Q -8,-22 -2,-18 Q 2,-14 0,-8 Z" fill="url(#m3_wolf)" />
+          <path d="M -3,-12 Q -6,-18 -2,-16 Z" fill="#4A4A4A" opacity="0.4" />
+          <path d="M 6,-8 Q 4,-20 10,-16 Q 14,-12 10,-6 Z" fill="url(#m3_wolf)" />
+          <path d="M 7,-10 Q 5,-16 9,-14 Z" fill="#4A4A4A" opacity="0.4" />
+          {/* Eye - fierce amber */}
+          <circle cx="4" cy="-4" r="3" fill="#FFC107" />
+          <circle cx="4" cy="-4" r="2" fill="#FF8F00" />
+          <circle cx="4" cy="-4" r="1.2" fill="#1a1a00" />
+          <circle cx="5" cy="-5" r="0.6" fill="white" opacity="0.85" />
+          {/* Brow - fierce */}
+          <path d="M 0,-6 Q 3,-8 6,-6" stroke="#3a3a3a" strokeWidth="1" fill="none" />
+          {/* Nose */}
+          <ellipse cx="16" cy="0" rx="2.5" ry="2" fill="#1a1a1a" />
+          {/* Snarl - showing teeth */}
+          <path d="M 10,6 Q 14,4 16,5" stroke="#1a1a1a" strokeWidth="0.6" fill="none" />
+          {/* Fangs */}
+          <path d="M 12,5 L 12,9" stroke="#FFF8E1" strokeWidth="1.2" strokeLinecap="round" />
+          <path d="M 15,4 L 15,8" stroke="#FFF8E1" strokeWidth="1" strokeLinecap="round" />
+          {/* Fur texture */}
+          <g stroke="rgba(60,60,60,0.25)" strokeWidth="0.5" fill="none">
+            <path d="M -6,0 Q -4,-2 -2,0" /><path d="M 0,4 Q 2,2 4,4" />
+            <path d="M -8,6 Q -6,4 -4,6" /><path d="M -12,14 Q -10,12 -8,14" />
+          </g>
         </g>
 
-        <text x="120" y="105" fontSize="8" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
-          🐺 🦁
-        </text>
+        {/* Meat/bone below */}
+        <g transform="translate(110, 105)">
+          {/* Bone */}
+          <path d="M -8,0 L 8,0" stroke="#E8E0D0" strokeWidth="3" strokeLinecap="round" />
+          <circle cx="-10" cy="0" r="2.5" fill="#E8E0D0" />
+          <circle cx="10" cy="0" r="2.5" fill="#E8E0D0" />
+          {/* Meat chunk */}
+          <ellipse cx="0" cy="10" rx="6" ry="4" fill="#D32F2F" opacity="0.7" />
+          <ellipse cx="0" cy="10" rx="4" ry="2.5" fill="#E53935" opacity="0.5" />
+        </g>
       </g>
 
-      {/* Panel 3: Omnivore (Bear/Human) */}
+      {/* PANEL 3: OMNIVORE — Bear */}
       <g>
-        <rect x="162" y="10" width="70" height="145" rx="6" fill="url(#r3_omni)" opacity="0.2" stroke="#FF6347" strokeWidth="1.5" />
-        <text x="197" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
-          {l.omnivore}
-        </text>
+        <rect x="162" y="6" width="74" height="148" rx="8" fill="url(#m3_omni_card)" opacity="0.85" />
+        <rect x="162" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="162" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Bear head */}
-        <circle cx="197" cy="55" r="12" fill="#8B4513" stroke="#654321" strokeWidth="1" />
-        <circle cx="191" cy="48" r="3" fill="#8B4513" stroke="#654321" strokeWidth="0.8" />
-        <circle cx="203" cy="48" r="3" fill="#8B4513" stroke="#654321" strokeWidth="0.8" />
-        <circle cx="197" cy="64" r="3" fill="#4A4A4A" stroke="#654321" strokeWidth="0.5" />
+        {/* Bear - front view sitting */}
+        <g transform="translate(199, 50)">
+          {/* Body */}
+          <ellipse cx="0" cy="12" rx="16" ry="18" fill="url(#m3_bear)" />
+          {/* Belly lighter */}
+          <ellipse cx="0" cy="16" rx="10" ry="12" fill="#A07050" opacity="0.4" />
+          {/* Head */}
+          <circle cx="0" cy="-8" r="12" fill="url(#m3_bear)" />
+          {/* Muzzle */}
+          <ellipse cx="0" cy="-2" rx="6" ry="5" fill="#A07050" opacity="0.5" />
+          {/* Ears */}
+          <circle cx="-9" cy="-16" r="4" fill="url(#m3_bear)" />
+          <circle cx="-9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
+          <circle cx="9" cy="-16" r="4" fill="url(#m3_bear)" />
+          <circle cx="9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
+          {/* Eyes */}
+          <circle cx="-4" cy="-10" r="2.2" fill="#1a1a1a" />
+          <circle cx="-4" cy="-10" r="1.5" fill="#2C1810" />
+          <circle cx="-3.3" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
+          <circle cx="4" cy="-10" r="2.2" fill="#1a1a1a" />
+          <circle cx="4" cy="-10" r="1.5" fill="#2C1810" />
+          <circle cx="4.7" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
+          {/* Nose */}
+          <ellipse cx="0" cy="-3" rx="3" ry="2" fill="#1a1a1a" />
+          <circle cx="-0.5" cy="-3.5" r="0.5" fill="white" opacity="0.15" />
+          {/* Mouth */}
+          <path d="M 0,-1 Q -2,1 -3,0 M 0,-1 Q 2,1 3,0" stroke="rgba(0,0,0,0.2)" strokeWidth="0.5" fill="none" />
+          {/* Paws */}
+          <ellipse cx="-12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
+          <ellipse cx="12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
+          {/* Fur */}
+          <g stroke="rgba(60,40,20,0.15)" strokeWidth="0.5" fill="none">
+            <path d="M -6,4 Q -4,2 -2,4" /><path d="M 2,6 Q 4,4 6,6" />
+            <path d="M -8,14 Q -6,12 -4,14" /><path d="M 4,16 Q 6,14 8,16" />
+          </g>
+        </g>
 
-        {/* Mixed food below */}
-        <g opacity="0.8">
-          {/* Plants */}
-          <path d="M 185 82 Q 188 72 190 82" stroke="#228B22" strokeWidth="1.5" />
-          {/* Meat */}
-          <circle cx="197" cy="85" r="2.5" fill="#FF6B6B" />
+        {/* Mixed food: berries + fish */}
+        <g transform="translate(188, 108)">
+          {/* Berries */}
+          <circle cx="0" cy="0" r="2.5" fill="#E53935" /><circle cx="5" cy="2" r="2" fill="#E53935" />
+          <circle cx="-4" cy="3" r="2" fill="#7B1FA2" opacity="0.8" />
+          {/* Leaf */}
+          <ellipse cx="2" cy="-3" rx="3" ry="1.5" fill="#4CAF50" opacity="0.6" transform="rotate(-30 2 -3)" />
           {/* Fish */}
-          <path d="M 205 80 Q 208 75 210 80" stroke="#3B82F6" strokeWidth="1.5" strokeLinecap="round" />
+          <g transform="translate(16, 2)">
+            <path d="M -6,0 Q 0,-4 6,0 Q 0,4 -6,0 Z" fill="#64B5F6" opacity="0.7" />
+            <path d="M 6,0 L 9,-2 L 9,2 Z" fill="#42A5F5" opacity="0.6" />
+            <circle cx="-3" cy="-1" r="0.6" fill="#1a1a1a" />
+          </g>
         </g>
-
-        <text x="197" y="105" fontSize="8" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
-          🐻 👤
-        </text>
       </g>
     </svg>
   );
 }
 
 function SVG_R4(lang: string): React.ReactNode {
-  const lb: Record<string, { fish: string; amphibian: string; reptile: string; bird: string; mammal: string; evolution: string }> = {
-    en: { fish: "Fish", amphibian: "Amphibian", reptile: "Reptile", bird: "Bird", mammal: "Mammal", evolution: "Evolution Timeline" },
-    de: { fish: "Fische", amphibian: "Lurch", reptile: "Reptil", bird: "Vogel", mammal: "Säugetier", evolution: "Evolutionszeitlinie" },
-    hu: { fish: "Halak", amphibian: "Kétéltűek", reptile: "Hüllők", bird: "Madarak", mammal: "Emlősök", evolution: "Evolúciós folyamat" },
-    ro: { fish: "Pești", amphibian: "Amfibieni", reptile: "Reptile", bird: "Păsări", mammal: "Mamifere", evolution: "Linia de evoluție" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r4_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,150,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(200,150,100,0.15)" />
+        <linearGradient id="m4_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#0a1628" />
+          <stop offset="100%" stopColor="#162040" />
+        </linearGradient>
+        <linearGradient id="m4_timeline" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#3B82F6" />
+          <stop offset="25%" stopColor="#10B981" />
+          <stop offset="50%" stopColor="#F59E0B" />
+          <stop offset="75%" stopColor="#EC4899" />
+          <stop offset="100%" stopColor="#06B6D4" />
         </linearGradient>
       </defs>
 
-      <rect width="240" height="160" fill="url(#r4_bg)" />
+      <rect width="240" height="160" fill="url(#m4_bg)" />
 
-      {/* Timeline header */}
-      <text x="120" y="20" fontSize="11" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.8)" fontFamily="system-ui">
-        {l.evolution}
-      </text>
+      {/* Timeline path with gradient */}
+      <path d="M 25 55 L 215 55" stroke="url(#m4_timeline)" strokeWidth="2.5" strokeLinecap="round" />
+      <path d="M 25 55 L 215 55" stroke="rgba(255,255,255,0.08)" strokeWidth="6" strokeLinecap="round" />
 
-      {/* Timeline path */}
-      <path d="M 20 50 L 220 50" stroke="rgba(255,255,255,0.3)" strokeWidth="2" />
-
-      {/* 5 vertebrate classes on timeline */}
-      <g>
-        {/* Fish */}
-        <circle cx="30" cy="50" r="6" fill="#3B82F6" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="30" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#3B82F6" fontFamily="system-ui">
-          🐟
-        </text>
-        <text x="30" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.fish}
-        </text>
-        <text x="30" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Gills, scales
-        </text>
-
-        {/* Amphibian */}
-        <circle cx="70" cy="50" r="6" fill="#10B981" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="70" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
-          🐸
-        </text>
-        <text x="70" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.amphibian}
-        </text>
-        <text x="70" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          2 lives
-        </text>
-
-        {/* Reptile */}
-        <circle cx="110" cy="50" r="6" fill="#F59E0B" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="110" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
-          🦎
-        </text>
-        <text x="110" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.reptile}
-        </text>
-        <text x="110" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Scales, eggs
-        </text>
-
-        {/* Bird */}
-        <circle cx="150" cy="50" r="6" fill="#EC4899" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="150" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
-          🐦
-        </text>
-        <text x="150" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.bird}
-        </text>
-        <text x="150" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Feathers, warm
-        </text>
-
-        {/* Mammal */}
-        <circle cx="190" cy="50" r="6" fill="#06B6D4" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
-        <text x="190" y="75" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          🐾
-        </text>
-        <text x="190" y="90" fontSize="7" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-          {l.mammal}
-        </text>
-        <text x="190" y="105" fontSize="6" textAnchor="middle" fill="rgba(255,255,255,0.5)" fontFamily="system-ui">
-          Fur, live young
-        </text>
+      {/* Progression arrows on timeline */}
+      <g fill="rgba(255,255,255,0.2)">
+        <polygon points="55,52 60,55 55,58" /><polygon points="100,52 105,55 100,58" />
+        <polygon points="145,52 150,55 145,58" /><polygon points="185,52 190,55 185,58" />
       </g>
 
-      {/* Progression arrows */}
-      <g fill="rgba(255,255,255,0.4)">
-        <text x="50" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="90" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="130" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
-        <text x="170" y="135" fontSize="14" textAnchor="middle" fontFamily="system-ui">
-          →
-        </text>
+      {/* FISH */}
+      <g transform="translate(25, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
+        {/* Fish body */}
+        <path d="M -4,0 Q 0,-3 4,0 Q 0,3 -4,0 Z" fill="#64B5F6" />
+        <path d="M 4,0 L 7,-2 L 7,2 Z" fill="#42A5F5" />
+        <circle cx="-2" cy="-0.8" r="0.6" fill="#0a0a0a" />
+        {/* Gills */}
+        <path d="M 0,-1 Q 0.5,0 0,1" stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none" />
+        {/* Water bubbles */}
+        <circle cx="-8" cy="-6" r="1" fill="rgba(59,130,246,0.3)" />
+        <circle cx="-6" cy="-10" r="0.7" fill="rgba(59,130,246,0.2)" />
+      </g>
+
+      {/* AMPHIBIAN */}
+      <g transform="translate(72, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="1.5" />
+        {/* Frog body */}
+        <ellipse cx="0" cy="1" rx="5" ry="3.5" fill="#34D399" />
+        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#6EE7B7" opacity="0.4" />
+        {/* Head */}
+        <circle cx="3" cy="-2" r="3" fill="#34D399" />
+        {/* Big eyes */}
+        <circle cx="2" cy="-4" r="1.8" fill="#A7F3D0" />
+        <circle cx="2" cy="-4" r="1" fill="#064E3B" />
+        <circle cx="2.5" cy="-4.5" r="0.4" fill="white" opacity="0.8" />
+        <circle cx="5" cy="-4" r="1.5" fill="#A7F3D0" />
+        <circle cx="5" cy="-4" r="0.8" fill="#064E3B" />
+        {/* Legs */}
+        <path d="M -4,3 L -7,5 L -8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
+        <path d="M 4,3 L 7,5 L 8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
+      </g>
+
+      {/* REPTILE */}
+      <g transform="translate(120, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(245,158,11,0.2)" stroke="#F59E0B" strokeWidth="1.5" />
+        {/* Lizard body */}
+        <path d="M -3,0 Q 0,-2 3,0 Q 5,1 4,2 Q 1,3 -2,2 Q -4,1 -3,0 Z" fill="#8BC34A" />
+        {/* Head */}
+        <path d="M -3,0 Q -5,-1 -6,1 Q -4,2 -3,0 Z" fill="#8BC34A" />
+        {/* Eye */}
+        <circle cx="-5" cy="0" r="1" fill="#FFEB3B" />
+        <ellipse cx="-5" cy="0" rx="0.3" ry="0.8" fill="#1a1a00" />
+        {/* Tail */}
+        <path d="M 4,1 Q 6,0 8,-1" stroke="#7CB342" strokeWidth="1.2" strokeLinecap="round" fill="none" />
+        {/* Legs */}
+        <path d="M -1,2 L -2,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
+        <path d="M 2,2 L 3,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
+        {/* Scale dots */}
+        <g fill="rgba(100,120,20,0.3)">
+          <circle cx="0" cy="0.5" r="0.4" /><circle cx="2" cy="1" r="0.3" />
+        </g>
+      </g>
+
+      {/* BIRD */}
+      <g transform="translate(168, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="1.5" />
+        {/* Bird body */}
+        <ellipse cx="0" cy="1" rx="5" ry="4" fill="#F06292" />
+        {/* Wing */}
+        <path d="M -3,0 Q -6,-3 -8,-1 Q -6,1 -3,2 Z" fill="#E91E63" opacity="0.7" />
+        {/* Head */}
+        <circle cx="4" cy="-3" r="3" fill="#F06292" />
+        {/* Eye */}
+        <circle cx="5.5" cy="-4" r="1" fill="#0a0a0a" />
+        <circle cx="5.8" cy="-4.3" r="0.35" fill="white" opacity="0.8" />
+        {/* Beak */}
+        <path d="M 6.5,-3 L 9,-3 L 7.5,-1.5 Z" fill="#FFB300" />
+        {/* Tail */}
+        <path d="M -4,3 L -7,5 M -4,3 L -6,6" stroke="#E91E63" strokeWidth="1" strokeLinecap="round" fill="none" />
+        {/* Feather marks */}
+        <path d="M -5,-2 L -6,-4" stroke="#AD1457" strokeWidth="0.5" opacity="0.4" />
+      </g>
+
+      {/* MAMMAL */}
+      <g transform="translate(215, 55)">
+        <circle cx="0" cy="0" r="10" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="1.5" />
+        {/* Fox/dog body */}
+        <ellipse cx="-1" cy="1" rx="5" ry="4" fill="#D4A060" />
+        <ellipse cx="-1" cy="3" rx="3" ry="2" fill="#F0E0C0" opacity="0.4" />
+        {/* Head */}
+        <circle cx="3" cy="-3" r="3.5" fill="#D4A060" />
+        {/* Ear */}
+        <path d="M 1,-5 Q -1,-9 2,-7 Z" fill="#D4A060" />
+        <path d="M 5,-5 Q 4,-9 7,-7 Z" fill="#D4A060" />
+        {/* Eye */}
+        <circle cx="5" cy="-4" r="1.2" fill="#E8A020" />
+        <circle cx="5" cy="-4" r="0.7" fill="#1a1a00" />
+        <circle cx="5.4" cy="-4.4" r="0.3" fill="white" opacity="0.8" />
+        {/* Nose */}
+        <circle cx="6" cy="-2" r="0.8" fill="#1a1a1a" />
+        {/* Tail */}
+        <path d="M -5,0 Q -8,-2 -7,-5" stroke="#C49050" strokeWidth="2" strokeLinecap="round" fill="none" />
+        {/* Fur */}
+        <path d="M -2,-1 Q 0,-2 2,-1" stroke="rgba(160,120,60,0.2)" strokeWidth="0.4" fill="none" />
+      </g>
+
+      {/* Environment bands below each */}
+      {/* Water for fish */}
+      <rect x="15" y="70" width="20" height="80" rx="4" fill="rgba(59,130,246,0.08)" />
+      <g stroke="rgba(59,130,246,0.15)" strokeWidth="0.5" fill="none">
+        <path d="M 18 90 Q 22 88 26 90 Q 30 92 34 90" />
+        <path d="M 18 110 Q 22 108 26 110 Q 30 112 34 110" />
+      </g>
+
+      {/* Water+land for amphibian */}
+      <rect x="62" y="70" width="20" height="80" rx="4" fill="rgba(16,185,129,0.08)" />
+      <path d="M 62 110 Q 67 108 72 110 Q 77 112 82 110 L 82 150 L 62 150 Z" fill="rgba(59,130,246,0.06)" />
+
+      {/* Land for reptile */}
+      <rect x="110" y="70" width="20" height="80" rx="4" fill="rgba(245,158,11,0.08)" />
+
+      {/* Sky+land for bird */}
+      <rect x="158" y="70" width="20" height="80" rx="4" fill="rgba(236,72,153,0.08)" />
+
+      {/* All terrain for mammal */}
+      <rect x="205" y="70" width="20" height="80" rx="4" fill="rgba(6,182,212,0.08)" />
+
+      {/* Connecting dots on each habitat band */}
+      <g opacity="0.4">
+        <circle cx="25" cy="82" r="1.5" fill="#3B82F6" />
+        <circle cx="72" cy="82" r="1.5" fill="#10B981" />
+        <circle cx="120" cy="82" r="1.5" fill="#F59E0B" />
+        <circle cx="168" cy="82" r="1.5" fill="#EC4899" />
+        <circle cx="215" cy="82" r="1.5" fill="#06B6D4" />
       </g>
     </svg>
   );
 }
 
 function SVG_R5(lang: string): React.ReactNode {
-  const lb: Record<string, { mammals: string; feat1: string; feat2: string; feat3: string; others: string; note: string }> = {
-    en: { mammals: "MAMMALS", feat1: "✓ Fur/Hair", feat2: "✓ Warm-blooded", feat3: "✓ Live birth", others: "OTHERS", note: "May have: scales, feathers, eggs..." },
-    de: { mammals: "SÄUGETIERE", feat1: "✓ Fell/Haare", feat2: "✓ Warmblütig", feat3: "✓ Lebendgeburt", others: "ANDERE", note: "Können haben: Schuppen, Federn, Eier..." },
-    hu: { mammals: "EMLŐSÖK", feat1: "✓ Szőr/Haj", feat2: "✓ Melegvérű", feat3: "✓ Elevenszülés", others: "MÁSOK", note: "Lehetnek: pikkelyek, tollak, tojások..." },
-    ro: { mammals: "MAMIFERE", feat1: "✓ Blană/Păr", feat2: "✓ Sânge cald", feat3: "✓ Naștere vie", others: "ALTELE", note: "Pot avea: solzi, pene, ouă..." },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_mam" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(6,182,212,0.3)" />
-          <stop offset="100%" stopColor="rgba(6,182,212,0.1)" />
+        <linearGradient id="m5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#0a1628" />
+          <stop offset="100%" stopColor="#162040" />
         </linearGradient>
-        <linearGradient id="r5_other" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(156,163,175,0.3)" />
-          <stop offset="100%" stopColor="rgba(156,163,175,0.1)" />
+        <radialGradient id="m5_center_glow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(6,182,212,0.15)" />
+          <stop offset="100%" stopColor="rgba(6,182,212,0)" />
+        </radialGradient>
+        <linearGradient id="m5_fox" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#E87A30" />
+          <stop offset="100%" stopColor="#B85A1A" />
+        </linearGradient>
+        <linearGradient id="m5_whale" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4A7A9A" />
+          <stop offset="100%" stopColor="#2E5A7A" />
+        </linearGradient>
+        <linearGradient id="m5_bat" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#5D4037" />
+          <stop offset="100%" stopColor="#3E2723" />
+        </linearGradient>
+        <linearGradient id="m5_lion" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E8A830" />
+          <stop offset="100%" stopColor="#C08020" />
         </linearGradient>
       </defs>
 
-      {/* Left column: Mammals */}
-      <g>
-        <rect x="8" y="10" width="105" height="140" rx="8" fill="url(#r5_mam)" stroke="#06B6D4" strokeWidth="2" />
-        <text x="60" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.mammals}
-        </text>
+      <rect width="240" height="160" fill="url(#m5_bg)" />
+      <circle cx="120" cy="80" r="75" fill="url(#m5_center_glow)" />
 
-        {/* Features list */}
-        <text x="18" y="55" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat1}
-        </text>
-        <text x="18" y="72" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat2}
-        </text>
-        <text x="18" y="89" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
-          {l.feat3}
-        </text>
+      {/* Central mammal icon ring */}
+      <circle cx="120" cy="65" r="42" fill="none" stroke="rgba(6,182,212,0.15)" strokeWidth="1" strokeDasharray="4,4" />
 
-        {/* Animals */}
-        <text x="60" y="115" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          🐾 🦁 🐶 🐻 🦇 🐳
-        </text>
+      {/* FOX — top center (fur representative) */}
+      <g transform="translate(120, 30)">
+        <circle cx="0" cy="0" r="14" fill="rgba(232,122,48,0.15)" stroke="rgba(232,122,48,0.4)" strokeWidth="0.8" />
+        {/* Fox face */}
+        <path d="M -5,0 Q 0,-6 5,0 Q 3,5 0,6 Q -3,5 -5,0 Z" fill="url(#m5_fox)" />
+        <path d="M 0,2 Q -1,4 0,5 Q 1,4 0,2 Z" fill="#FFF8E1" opacity="0.5" />
+        {/* Ears */}
+        <path d="M -4,-3 Q -5,-8 -2,-6 Z" fill="url(#m5_fox)" />
+        <path d="M 4,-3 Q 5,-8 2,-6 Z" fill="url(#m5_fox)" />
+        {/* Eyes */}
+        <circle cx="-2" cy="-1" r="1.2" fill="#E8A020" />
+        <circle cx="-2" cy="-1" r="0.6" fill="#1a1a00" />
+        <circle cx="2" cy="-1" r="1.2" fill="#E8A020" />
+        <circle cx="2" cy="-1" r="0.6" fill="#1a1a00" />
+        {/* Nose */}
+        <circle cx="0" cy="2" r="0.8" fill="#1a1a1a" />
       </g>
 
-      {/* Right column: Others */}
-      <g>
-        <rect x="127" y="10" width="105" height="140" rx="8" fill="url(#r5_other)" stroke="#9CA3AF" strokeWidth="2" strokeDasharray="4,3" />
-        <text x="179" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          {l.others}
-        </text>
+      {/* WHALE — bottom center */}
+      <g transform="translate(120, 110)">
+        <circle cx="0" cy="0" r="14" fill="rgba(74,122,154,0.15)" stroke="rgba(74,122,154,0.4)" strokeWidth="0.8" />
+        {/* Whale body */}
+        <path d="M -8,0 Q -4,-5 4,-4 Q 10,-2 10,1 Q 8,4 2,5 Q -4,5 -8,2 Z" fill="url(#m5_whale)" />
+        <path d="M -6,1 Q -2,3 4,3" fill="#6A9ABA" opacity="0.3" />
+        {/* Eye */}
+        <circle cx="-5" cy="-1" r="1" fill="#f0f9ff" />
+        <circle cx="-5" cy="-1" r="0.5" fill="#0a0a0a" />
+        {/* Tail */}
+        <path d="M 10,0 Q 12,-3 14,-2 M 10,0 Q 12,3 14,2" stroke="url(#m5_whale)" strokeWidth="1.5" strokeLinecap="round" fill="none" />
+        {/* Water spout */}
+        <path d="M -4,-5 Q -3,-8 -4,-10 M -3,-5 Q -2,-9 -1,-10" stroke="rgba(100,200,255,0.4)" strokeWidth="0.5" fill="none" />
+      </g>
 
-        {/* Note */}
-        <text x="179" y="55" fontSize="7" textAnchor="middle" fill="rgba(255,255,255,0.6)" fontFamily="system-ui">
-          {l.note}
-        </text>
+      {/* BAT — left */}
+      <g transform="translate(80, 65)">
+        <circle cx="0" cy="0" r="14" fill="rgba(93,64,55,0.15)" stroke="rgba(93,64,55,0.4)" strokeWidth="0.8" />
+        {/* Body */}
+        <ellipse cx="0" cy="2" rx="3" ry="4" fill="url(#m5_bat)" />
+        {/* Wings spread */}
+        <path d="M -3,0 Q -8,-5 -12,-2 Q -10,2 -6,4 Q -4,3 -3,2 Z" fill="#5D4037" opacity="0.7" />
+        <path d="M 3,0 Q 8,-5 12,-2 Q 10,2 6,4 Q 4,3 3,2 Z" fill="#5D4037" opacity="0.7" />
+        {/* Wing membrane lines */}
+        <path d="M -4,-1 L -9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
+        <path d="M 4,-1 L 9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
+        {/* Head */}
+        <circle cx="0" cy="-2" r="2.5" fill="url(#m5_bat)" />
+        {/* Ears */}
+        <path d="M -1.5,-4 Q -2,-7 -0.5,-5 Z" fill="#5D4037" />
+        <path d="M 1.5,-4 Q 2,-7 0.5,-5 Z" fill="#5D4037" />
+        {/* Eyes */}
+        <circle cx="-1" cy="-2.5" r="0.7" fill="#FFD700" />
+        <circle cx="1" cy="-2.5" r="0.7" fill="#FFD700" />
+      </g>
 
-        {/* Animals */}
-        <text x="179" y="85" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Fish: 🐟
-        </text>
-        <text x="179" y="102" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Birds: 🐦
-        </text>
-        <text x="179" y="119" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
-          Reptiles: 🦎
-        </text>
+      {/* LION — right */}
+      <g transform="translate(160, 65)">
+        <circle cx="0" cy="0" r="14" fill="rgba(232,168,48,0.15)" stroke="rgba(232,168,48,0.4)" strokeWidth="0.8" />
+        {/* Mane */}
+        <circle cx="0" cy="-1" r="8" fill="url(#m5_lion)" opacity="0.5" />
+        {/* Head */}
+        <circle cx="0" cy="-1" r="5" fill="url(#m5_lion)" />
+        {/* Muzzle */}
+        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#D4A060" opacity="0.5" />
+        {/* Eyes */}
+        <circle cx="-2" cy="-2" r="1.2" fill="#E8A020" />
+        <circle cx="-2" cy="-2" r="0.6" fill="#1a1a00" />
+        <circle cx="2" cy="-2" r="1.2" fill="#E8A020" />
+        <circle cx="2" cy="-2" r="0.6" fill="#1a1a00" />
+        {/* Nose */}
+        <ellipse cx="0" cy="1" rx="1.2" ry="0.8" fill="#1a1a1a" />
+        {/* Mane fur lines */}
+        <g stroke="rgba(180,120,20,0.3)" strokeWidth="0.5" fill="none">
+          <path d="M -7,-3 Q -6,-5 -5,-3" /><path d="M 5,-3 Q 6,-5 7,-3" />
+          <path d="M -6,3 Q -5,5 -4,3" /><path d="M 6,3 Q 5,5 4,3" />
+          <path d="M -3,-7 Q -2,-8 -1,-7" /><path d="M 1,-7 Q 2,-8 3,-7" />
+        </g>
+      </g>
+
+      {/* Feature indicators around the ring */}
+      {/* Fur */}
+      <g transform="translate(95, 18)">
+        <circle cx="0" cy="0" r="4" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="0.8" />
+        <g stroke="#10B981" strokeWidth="0.5" fill="none" opacity="0.8">
+          <path d="M -1.5,-1.5 Q 0,-3 1.5,-1.5" /><path d="M -1.5,0 Q 0,-1.5 1.5,0" /><path d="M -1.5,1.5 Q 0,0 1.5,1.5" />
+        </g>
+      </g>
+
+      {/* Warm blood */}
+      <g transform="translate(145, 18)">
+        <circle cx="0" cy="0" r="4" fill="rgba(255,70,87,0.2)" stroke="#FF4757" strokeWidth="0.8" />
+        <rect x="-0.8" y="-2.5" width="1.6" height="4" rx="0.8" fill="#FF4757" />
+        <circle cx="0" cy="2" r="1.2" fill="#FF4757" />
+      </g>
+
+      {/* Live birth */}
+      <g transform="translate(75, 100)">
+        <circle cx="0" cy="0" r="4" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="0.8" />
+        {/* Mother+baby silhouette */}
+        <circle cx="-1" cy="-0.5" r="2" fill="none" stroke="#EC4899" strokeWidth="0.6" />
+        <circle cx="1.5" cy="1" r="1" fill="#EC4899" opacity="0.5" />
+      </g>
+
+      {/* Milk */}
+      <g transform="translate(165, 100)">
+        <circle cx="0" cy="0" r="4" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="0.8" />
+        {/* Milk drop */}
+        <path d="M 0,-2 Q -1.5,0 0,2 Q 1.5,0 0,-2 Z" fill="#06B6D4" opacity="0.6" />
+      </g>
+
+      {/* Subtle connecting lines from features to center */}
+      <g stroke="rgba(255,255,255,0.06)" strokeWidth="0.5" strokeDasharray="2,3">
+        <line x1="95" y1="22" x2="110" y2="40" />
+        <line x1="145" y1="22" x2="130" y2="40" />
+        <line x1="79" y1="100" x2="100" y2="85" />
+        <line x1="161" y1="100" x2="140" y2="85" />
       </g>
     </svg>
   );

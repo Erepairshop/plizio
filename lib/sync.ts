@@ -39,7 +39,17 @@ const GAME_PROGRESS_KEYS = [
   "astromath_g5_v1", "astromath_g6_v1", "astromath_g7_v1", "astromath_g8_v1",
   // Astrodeutsch
   "astrodeutsch_k1_v1", "astrodeutsch_k2_v1", "astrodeutsch_k3_v1", "astrodeutsch_k4_v1",
-  "astrodeutsch_k5_v1", "astrodeutsch_k6_v1", "astrodeutsch_k7_v1",
+  "astrodeutsch_k5_v1", "astrodeutsch_k6_v1", "astrodeutsch_k7_v1", "astrodeutsch_k8_v1",
+  // Astroenglish
+  "astroenglish_k1_v1", "astroenglish_k2_v1", "astroenglish_k3_v1", "astroenglish_k4_v1",
+  "astroenglish_k5_v1", "astroenglish_k6_v1", "astroenglish_k7_v1", "astroenglish_k8_v1",
+  // Astromagyar
+  "astromagyar_o1_v1", "astromagyar_o2_v1", "astromagyar_o3_v1", "astromagyar_o4_v1",
+  "astromagyar_o5_v1", "astromagyar_o6_v1", "astromagyar_o7_v1", "astromagyar_o8_v1",
+  // Astrosachkunde
+  "astrosachkunde_g1_v1", "astrosachkunde_g2_v1", "astrosachkunde_g3_v1", "astrosachkunde_g4_v1",
+  // Astrobiologie
+  "astrobiologie_k5_v1", "astrobiologie_k6_v1", "astrobiologie_k7_v1", "astrobiologie_k8_v1",
   // Expedition games
   "kodex_expedition_v2", "reflexrush_expedition_v1", "numberrush_expedition_v1",
   "wordhunt_expedition_v1", "minisudoku_expedition_v1", "sequencerush_expedition_v1",

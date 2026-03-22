@@ -12,16 +12,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Spelling Rules Explorer",
     round1Title: "tz or z?",
     round1Hint: "Short vowel before → tz! Tap each word to learn the rule.",
+    round1Teach: "The choice between 'tz' and 'z' depends on the vowel BEFORE them. If the vowel is short, use 'tz'. If it's long, use 'z'. The vowel length is the key!",
     round2Title: "ck or k?",
     round2Hint: "Short vowel before → ck! Tap to learn.",
+    round2Teach: "Just like tz/z, the choice between 'ck' and 'k' depends on the vowel before them. Short vowel = 'ck', Long vowel = 'k'. Listen to the vowel sound!",
     round3Title: "Long vowels: aa, ee, oo",
     round3Hint: "These words have a long vowel written with two letters! Tap each one.",
+    round3Teach: "Some words write long vowels with TWO of the same letter: aa, ee, oo. This makes the sound long and clear. Think of them as stretched sounds!",
     round4Title: "Choose the right spelling!",
     round4Hint: "Which spelling is correct?",
+    round4Teach: "Now test your understanding! Remember: short vowel before = double consonant (tz, ck). Long vowel = single consonant (z, k). Use the vowel sounds to guide you!",
     round5Title: "Spelling Challenge",
     round5Hint: "Pick the correct form!",
     well: "Superb!",
     next: "Next",
+    gotIt: "Got it!",
     finish: "Finished!",
     correct: "Correct!",
     wrong: "Not quite!",
@@ -37,16 +42,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Helyesírási szabályok felfedezője",
     round1Title: "tz vagy z?",
     round1Hint: "Rövid magánhangzó előtt → tz! Koppints minden szóra, hogy megtanuld a szabályt.",
+    round1Teach: "A 'tz' és a 'z' közötti választás az ELŐTTÜK lévő magánhangzótól függ. Ha a magánhangzó rövid, használd a 'tz'-t. Ha hosszú, a 'z'-t. A magánhangzó hossza a kulcs!",
     round2Title: "ck vagy k?",
     round2Hint: "Rövid magánhangzó előtt → ck! Koppints, hogy tanuld.",
+    round2Teach: "Akárcsak tz/z, a 'ck' és a 'k' közötti választás az előttük lévő magánhangzótól függ. Rövid magánhangzó = 'ck', hosszú magánhangzó = 'k'. Hallgasd meg a magánhangzó hangját!",
     round3Title: "Hosszú magánhangzók: aa, ee, oo",
     round3Hint: "Ezekben a szavakban a hosszú magánhangzót két betűvel írjuk! Koppints mindegyikre.",
+    round3Teach: "Egyes szavakban a hosszú magánhangzókat KÉT azonos betűvel írjuk: aa, ee, oo. Ez hosszúvá és világossá teszi a hangot. Gondolj rájuk, mint megnyújtott hangokra!",
     round4Title: "Válassz helyes írásmódot!",
     round4Hint: "Melyik helyesírás helyes?",
+    round4Teach: "Most teszteld a megértésedet! Emlékezz: rövid magánhangzó előtt = dupla mássalhangzó (tz, ck). Hosszú magánhangzó = egyes mássalhangzó (z, k). Használd a magánhangzó hangjait!",
     round5Title: "Helyesírási kihívás",
     round5Hint: "Válaszd a helyes alakot!",
     well: "Kiváló!",
     next: "Tovább",
+    gotIt: "Értem!",
     finish: "Vége!",
     correct: "Helyes!",
     wrong: "Nem quite!",
@@ -62,16 +72,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Rechtschreibregeln-Entdecker",
     round1Title: "tz oder z?",
     round1Hint: "Kurzer Vokal davor → tz! Tippe auf jedes Wort um die Regel zu lernen.",
+    round1Teach: "Die Wahl zwischen 'tz' und 'z' hängt vom Vokal DAVOR ab. Wenn der Vokal kurz ist, schreib 'tz'. Wenn er lang ist, schreib 'z'. Die Vokallänge ist der Schlüssel!",
     round2Title: "ck oder k?",
     round2Hint: "Kurzer Vokal davor → ck! Tippe zum Lernen.",
+    round2Teach: "Wie bei tz/z hängt die Wahl zwischen 'ck' und 'k' vom Vokal davor ab. Kurzer Vokal = 'ck', Langer Vokal = 'k'. Höre auf den Vokalklang!",
     round3Title: "Lange Vokale: aa, ee, oo",
     round3Hint: "Diese Wörter haben einen langen Vokal der mit zwei Buchstaben geschrieben wird! Tippe auf jedes.",
+    round3Teach: "Manche Wörter schreiben lange Vokale mit ZWEI gleichen Buchstaben: aa, ee, oo. Das macht den Klang lang und deutlich. Denk daran, dass es gedehnte Laute sind!",
     round4Title: "Wähle die richtige Schreibweise!",
     round4Hint: "Welche Schreibweise ist richtig?",
+    round4Teach: "Jetzt teste dein Verständnis! Denk dran: Kurzer Vokal davor = Doppelkonsonant (tz, ck). Langer Vokal = Einfachkonsonant (z, k). Nutze die Vokalklänge zum Leiten!",
     round5Title: "Rechtschreib-Herausforderung",
     round5Hint: "Wähle die richtige Form!",
     well: "Hervorragend!",
     next: "Weiter",
+    gotIt: "Verstanden!",
     finish: "Fertig!",
     correct: "Richtig!",
     wrong: "Nicht ganz!",
@@ -87,16 +102,21 @@ const LABELS: Record<string, Record<string, string>> = {
     title: "Exploratorul regulilor de ortografie",
     round1Title: "tz sau z?",
     round1Hint: "Vocală scurtă înainte → tz! Atinge fiecare cuvânt pentru a învăța regula.",
+    round1Teach: "Alegerea între 'tz' și 'z' depinde de vocala DINAINTEA lor. Dacă vocala este scurtă, folosește 'tz'. Dacă este lungă, folosește 'z'. Lungimea vocalei este cheia!",
     round2Title: "ck sau k?",
     round2Hint: "Vocală scurtă înainte → ck! Atinge pentru a învăța.",
+    round2Teach: "La fel ca tz/z, alegerea între 'ck' și 'k' depinde de vocala dinaintea lor. Vocală scurtă = 'ck', Vocală lungă = 'k'. Ascultă sunetul vocalei!",
     round3Title: "Vocale lungi: aa, ee, oo",
     round3Hint: "Aceste cuvinte au o vocală lungă scrisă cu două litere! Atinge fiecare.",
+    round3Teach: "Unele cuvinte scriu vocalele lungi cu DOU literele identice: aa, ee, oo. Aceasta face sunetul lung și clar. Gândește-te la ele ca la sunete întinse!",
     round4Title: "Alege ortografia corectă!",
     round4Hint: "Care ortografie este corectă?",
+    round4Teach: "Acum testează-ți înțelegerea! Ține minte: vocală scurtă înainte = consoană dublă (tz, ck). Vocală lungă = consoană simplă (z, k). Folosește sunetele vocalelor pentru îndrumarea ta!",
     round5Title: "Provocare ortografie",
     round5Hint: "Alege forma corectă!",
     well: "Superb!",
     next: "Înainte",
+    gotIt: "Înțeles!",
     finish: "Gata!",
     correct: "Corect!",
     wrong: "Nu chiar!",
@@ -489,10 +509,11 @@ const SpellingRuleExplorer = memo(function SpellingRuleExplorer({
 }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -505,11 +526,28 @@ const SpellingRuleExplorer = memo(function SpellingRuleExplorer({
         <motion.div key={round}
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <p className="text-xl font-black text-white">{lbl[`round${round + 1}Title` as keyof typeof lbl]}</p>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{lbl[`round${round + 1}Teach` as keyof typeof lbl]}</p>
+              </div>
+              <motion.button onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}>
+                {lbl.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
+          {!showTeach && (
+            <>
+              {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
+              {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+              {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
+              {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
+              {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+            </>
+          )}
         </motion.div>
       </AnimatePresence>
     </div>

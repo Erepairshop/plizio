@@ -36,6 +36,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import VerbConjugationExplorer from "@/app/astromagyar/games/o4/VerbConjugationExplorer";
+import PronounsO4Explorer from "@/app/astromagyar/games/o4/PronounsO4Explorer";
+import AdverbialsExplorer from "@/app/astromagyar/games/o4/AdverbialsExplorer";
+import ComplexSentencesExplorer from "@/app/astromagyar/games/o4/ComplexSentencesExplorer";
+import WordFormationO4Explorer from "@/app/astromagyar/games/o4/WordFormationO4Explorer";
+import SpellingMasteryExplorer from "@/app/astromagyar/games/o4/SpellingMasteryExplorer";
+import CompositionO4Explorer from "@/app/astromagyar/games/o4/CompositionO4Explorer";
+import GrammarReviewExplorer from "@/app/astromagyar/games/o4/GrammarReviewExplorer";
+import ReviewO4Explorer from "@/app/astromagyar/games/o4/ReviewO4Explorer";
 import {
   generateO4CategoryRushContent,
   generateO4SentenceBuilderContent,
@@ -89,6 +98,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "o4-verb-conjugation-explorer"
+  | "o4-pronouns-explorer"
+  | "o4-adverbials-explorer"
+  | "o4-complex-sentences-explorer"
+  | "o4-word-formation-explorer"
+  | "o4-spelling-mastery-explorer"
+  | "o4-composition-explorer"
+  | "o4-grammar-review-explorer"
+  | "o4-review-explorer"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -366,6 +384,9 @@ export default function AstroMagyarO4Page() {
       "eset-explorer", "review-explorer", "review-explorer-hu",
       "sentence-builder", "memory-pair", "picture-word",
       "category-rush", "reading-comp",
+      "o4-verb-conjugation-explorer", "o4-pronouns-explorer", "o4-adverbials-explorer",
+      "o4-complex-sentences-explorer", "o4-word-formation-explorer", "o4-spelling-mastery-explorer",
+      "o4-composition-explorer", "o4-grammar-review-explorer", "o4-review-explorer",
     ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
@@ -761,6 +782,80 @@ export default function AstroMagyarO4Page() {
             lang={lang}
             onDone={(s, t) => handleMissionSuccess(s, t)}
           />
+        </div>
+      )}
+
+      {/* O4 ExplorerEngine-based explorers */}
+
+      {screen === "o4-verb-conjugation-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <VerbConjugationExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-pronouns-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <PronounsO4Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-adverbials-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <AdverbialsExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-complex-sentences-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ComplexSentencesExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-word-formation-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <WordFormationO4Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-spelling-mastery-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpellingMasteryExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-composition-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <CompositionO4Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-grammar-review-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <GrammarReviewExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o4-review-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReviewO4Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
         </div>
       )}
 

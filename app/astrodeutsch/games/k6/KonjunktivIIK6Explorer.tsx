@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "🎭 Konjunktiv II (conditional mood)",
+    r1_text: "KONJUNKTIV II expresses UNREALITY, wishes, and polite requests. Form: 'wäre, hätte, könnte, würde'. Example: 'Ich wäre glücklich.' (I would be happy.)",
+    r1_q: "Which is KONJUNKTIV II?",
+    r1_a: "Ich würde kommen.",
+    r1_b: "Ich komme.",
+    r1_c: "Ich bin gekommen.",
+    r1_d: "Ich kam.",
+    r2_title: "🎭 Würde + Infinitiv (conditional)",
+    r2_text: "For most verbs, use 'würde + infinitive'. Example: 'Ich würde spielen.' (I would play.) Not with sein, haben, können, mögen, müssen, sollen, wollen.",
+    r2_q: "Correct form: 'If I were rich, I ___ travel.'",
+    r2_a: "würde reisen",
+    r2_b: "bin gereist",
+    r2_c: "reise",
+    r2_d: "wäre gereist",
+    r3_title: "🎭 Irreale Wünsche (unrealistic wishes)",
+    r3_text: "'Wenn ich nur...' (If only...) or 'Ich wünschte...' (I wish...). Example: 'Wenn ich nur Zeit hätte!' (If only I had time!)",
+    r3_q: "Complete: 'Wenn ich nur einen Bruder _____!'",
+    r3_a: "hätte",
+    r3_b: "habe",
+    r3_c: "hab gehabt",
+    r3_d: "hätte gehabt",
+    r4_title: "🎭 Höfliche Anfragen (polite requests)",
+    r4_text: "'Könnten Sie...?' (Could you...?) 'Würden Sie...?' (Would you...?) 'Hätten Sie...?' (Would you have...?)",
+    r4_q1: "Polite request for a pen: 'Hätten Sie ___?'",
+    r4_ans1: "einen Stift",
+    r5_title: "⭐ Konjunktiv II Review",
+    r5_text: "Test your knowledge!",
+    r5_q1: "Identify: 'Das würde nicht funktionieren.'",
+    r5_konj2: "Konjunktiv II",
+    r5_indik: "Indikativ",
+    r5_q2: "'Wenn ich Zeit hätte...' This is:",
+    r5_wish: "Irreale Wunsch",
+    r5_fact: "Tatsache",
+  },
+  de: {
+    r1_title: "🎭 Konjunktiv II",
+    r1_text: "KONJUNKTIV II drückt IRREALITÄT, Wünsche und höfliche Bitten aus. Form: 'wäre, hätte, könnte, würde'. Beispiel: 'Ich wäre glücklich.'",
+    r1_q: "Welcher Satz ist KONJUNKTIV II?",
+    r1_a: "Ich würde kommen.",
+    r1_b: "Ich komme.",
+    r1_c: "Ich bin gekommen.",
+    r1_d: "Ich kam.",
+    r2_title: "🎭 Würde + Infinitiv",
+    r2_text: "Bei den meisten Verben: 'würde + Infinitiv'. Beispiel: 'Ich würde spielen.' AUSNAHME: sein, haben, können, mögen, müssen, sollen, wollen (Stammformen).",
+    r2_q: "Richtige Form: 'Wenn ich reich wäre, würde ich ___.'",
+    r2_a: "würde reisen",
+    r2_b: "bin gereist",
+    r2_c: "reise",
+    r2_d: "wäre gereist",
+    r3_title: "🎭 Irreale Wünsche",
+    r3_text: "'Wenn ich nur...' oder 'Ich wünschte...'. Beispiel: 'Wenn ich nur Zeit hätte!' (Wenn ich nur Zeit haben würde!)",
+    r3_q: "Ergänze: 'Wenn ich nur einen Bruder _____!'",
+    r3_a: "hätte",
+    r3_b: "habe",
+    r3_c: "hab gehabt",
+    r3_d: "hätte gehabt",
+    r4_title: "🎭 Höfliche Anfragen",
+    r4_text: "'Könnten Sie...?' 'Würden Sie...?' 'Hätten Sie...?'",
+    r4_q1: "Höfliche Frage für einen Stift: 'Hätten Sie ___?'",
+    r4_ans1: "einen Stift",
+    r5_title: "⭐ Konjunktiv II Wiederholung",
+    r5_text: "Teste dein Wissen!",
+    r5_q1: "Erkenne: 'Das würde nicht funktionieren.'",
+    r5_konj2: "Konjunktiv II",
+    r5_indik: "Indikativ",
+    r5_q2: "'Wenn ich Zeit hätte...' Das ist:",
+    r5_wish: "Irrealer Wunsch",
+    r5_fact: "Tatsache",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="40" fill="#EF4444" opacity="0.3"/><text x="120" y="95" textAnchor="middle" fontSize="50">?</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="50" y="80" fontSize="16" fill="#EF4444" fontWeight="bold">würde</text><text x="130" y="80" fontSize="16" fill="#EF4444">+ Infinitiv</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><path d="M 60 60 Q 120 40 180 60" stroke="#EF4444" strokeWidth="2" fill="none"/><text x="120" y="110" textAnchor="middle" fontSize="12" fill="#EF4444">Wenn ich nur...</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="14" fill="#EF4444" fontWeight="bold">Könnten Sie...?</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "einen Bleistift", "einen Kugelschreiber", "etwas zu schreiben"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_konj2", "r5_indik"], answer: "r5_konj2" }, { question: "r5_q2", choices: ["r5_wish", "r5_fact"], answer: "r5_wish" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function KonjunktivIIK6Explorer({ color = "#EF4444", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

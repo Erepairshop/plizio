@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, CheckCircle2, XCircle } from "lucide-react";
+import { ChevronRight, CheckCircle2, XCircle, Volume2 } from "lucide-react";
 
 // ─── Labels ────────────────────────────────────────────────────────────────
 
@@ -422,6 +422,7 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
 // ─── MCQ Sub-component ───────────────────────────────────────────────────────
@@ -496,9 +497,18 @@ function MCQ({ emoji, question, options, correctIndex, answered, selected, onSel
 
 // ─── Main Component ──────────────────────────────────────────────────────────
 
-function SachkundeReviewExplorer({ color, lang = "de", onDone }: Props) {
+function SachkundeReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const l = lang as Lang;
   const lbl: Lbl = (LABELS[l] ?? LABELS.de) as Lbl;
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   // Pre-build all 5 rounds once
   const rounds = useMemo(() => ALL_POOLS.map(buildRound), []);
@@ -552,6 +562,13 @@ function SachkundeReviewExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col overflow-auto" style={{ background: bgStyle }}>
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
 
       {/* ── Header ── */}
       <div className="flex flex-col items-center pt-5 pb-2 px-4 gap-1">
@@ -574,9 +591,15 @@ function SachkundeReviewExplorer({ color, lang = "de", onDone }: Props) {
         </div>
 
         {/* Round title & hint */}
-        <p className="text-white font-black text-base mt-3" style={{ color }}>
-          {lbl[ROUND_TITLE_KEYS[roundIdx]]}
-        </p>
+        <div className="flex items-center gap-2 justify-center">
+          <p className="text-white font-black text-base mt-3" style={{ color }}>
+            {lbl[ROUND_TITLE_KEYS[roundIdx]]}
+          </p>
+          <button onClick={() => speak(lbl[ROUND_TITLE_KEYS[roundIdx]] + ". " + lbl[ROUND_HINT_KEYS[roundIdx]])}
+            className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+            <Volume2 size={14} />
+          </button>
+        </div>
         <p className="text-white/55 text-xs font-semibold text-center px-4">
           {lbl[ROUND_HINT_KEYS[roundIdx]]}
         </p>

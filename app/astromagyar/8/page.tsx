@@ -32,6 +32,20 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import OldHungarianExplorer from "@/app/astromagyar/games/o8/OldHungarianExplorer";
+import StyleDevicesExplorer from "@/app/astromagyar/games/o8/StyleDevicesExplorer";
+import TextAnalysisExplorer from "@/app/astromagyar/games/o8/TextAnalysisExplorer";
+import SpellingSummaryExplorer from "@/app/astromagyar/games/o8/SpellingSummaryExplorer";
+import LanguageNormExplorer from "@/app/astromagyar/games/o8/LanguageNormExplorer";
+import ScientificTextExplorer from "@/app/astromagyar/games/o8/ScientificTextExplorer";
+import DebateCultureExplorer from "@/app/astromagyar/games/o8/DebateCultureExplorer";
+import ComprehensiveTestExplorer from "@/app/astromagyar/games/o8/ComprehensiveTestExplorer";
+import GrandFinalExplorer from "@/app/astromagyar/games/o8/GrandFinalExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -42,6 +56,13 @@ import {
   completeMissionO8, completeTestO8, islandTotalStarsO8,
 } from "@/lib/astroMagyar8";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type IslandDef, type MissionDef, type Lang, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
+import {
+  generateO8CategoryRushContent,
+  generateO8SentenceBuilderContent,
+  generateO8PictureWordContent,
+  generateO8ReadingCompContent,
+  generateO8MemoryPairContent,
+} from "@/app/astromagyar/contentGenerators";
 import { O8_ISLAND_SVGS } from "@/app/astromagyar/islands-o8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -75,6 +96,20 @@ type Screen =
   | "sentence-explorer"
   | "eset-explorer"
   | "review-explorer-hu"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
+  | "old-hungarian-explorer"
+  | "style-devices-explorer"
+  | "text-analysis-explorer"
+  | "spelling-summary-explorer"
+  | "language-norm-explorer"
+  | "scientific-text-explorer"
+  | "debate-culture-explorer"
+  | "comprehensive-test-explorer"
+  | "grand-final-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -198,7 +233,13 @@ export default function AstroMagyar8Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    const explorerTypes = [
+      "letter-explorer", "syllable-explorer", "spelling-explorer",
+      "noun-explorer", "verb-explorer", "sentence-explorer",
+      "eset-explorer", "review-explorer-hu",
+      "sentence-builder", "memory-pair", "picture-word",
+      "category-rush", "reading-comp",
+    ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
@@ -275,7 +316,13 @@ export default function AstroMagyar8Page() {
     return (
       <div className="min-h-screen bg-gradient-to-b from-[#060614] to-[#1a1a2e] relative overflow-hidden flex flex-col">
         <Starfield />
-        <div className="flex-1 flex flex-col items-center justify-center px-4 py-6">
+        <div className="flex items-center justify-between px-4 pt-4 sm:px-6 relative z-30">
+          <button onClick={() => router.push("/astromagyar")} className="flex items-center gap-1 text-white/60 hover:text-white transition-colors text-xs font-bold">
+            <ChevronLeft size={18} /> {lang === "hu" ? "Vissza" : "Back"}
+          </button>
+          <div className="w-8" />
+        </div>
+        <div className="flex-1 flex flex-col items-center px-4 py-6 overflow-y-auto">
           <motion.h1 className="text-3xl font-black text-white mb-2" initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }}>
             {O8_LABEL[lang as keyof typeof O8_LABEL] || O8_LABEL.en}
           </motion.h1>
@@ -283,8 +330,8 @@ export default function AstroMagyar8Page() {
             {lang === "hu" ? "Fedezd fel a magyar nyelv haladó szintjét!" : "Explore advanced Hungarian language!"}
           </motion.p>
 
-          <div className="max-w-sm w-full aspect-square max-h-96 relative">
-            <svg viewBox={`0 ${-MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} className="w-full h-full" preserveAspectRatio="xMidYMid meet">
+          <div className="max-w-sm w-full mx-auto relative">
+            <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
               <defs>
                 {O8_ISLANDS.map((island) => (
                   <filter key={`pathGlowO8_${island.id}`} id={`pathGlowO8_${island.id}`}>
@@ -589,6 +636,139 @@ export default function AstroMagyar8Page() {
     return (
       <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
         onDone={(s, t) => handleMissionComplete(s, t)} />
+    );
+  }
+  if (screen === "sentence-builder") {
+    return (
+      <SentenceBuilderExplorer
+        rounds={generateO8SentenceBuilderContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "memory-pair") {
+    return (
+      <MemoryPairExplorer
+        pairs={generateO8MemoryPairContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "picture-word") {
+    return (
+      <PictureVocabExplorer
+        rounds={generateO8PictureWordContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "category-rush") {
+    const data = generateO8CategoryRushContent();
+    return (
+      <CategoryRushExplorer
+        categories={data.categories}
+        items={data.items}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "reading-comp") {
+    return (
+      <ReadingCompExplorer
+        rounds={generateO8ReadingCompContent()}
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "old-hungarian-explorer") {
+    return (
+      <OldHungarianExplorer
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "style-devices-explorer") {
+    return (
+      <StyleDevicesExplorer
+        color={activeIsland?.color || "#00D4FF"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "text-analysis-explorer") {
+    return (
+      <TextAnalysisExplorer
+        color={activeIsland?.color || "#00FF88"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "spelling-summary-explorer") {
+    return (
+      <SpellingSummaryExplorer
+        color={activeIsland?.color || "#FFD700"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "language-norm-explorer") {
+    return (
+      <LanguageNormExplorer
+        color={activeIsland?.color || "#B44DFF"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "scientific-text-explorer") {
+    return (
+      <ScientificTextExplorer
+        color={activeIsland?.color || "#10B981"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "debate-culture-explorer") {
+    return (
+      <DebateCultureExplorer
+        color={activeIsland?.color || "#FF9500"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "comprehensive-test-explorer") {
+    return (
+      <ComprehensiveTestExplorer
+        color={activeIsland?.color || "#E879F9"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "grand-final-explorer") {
+    return (
+      <GrandFinalExplorer
+        color={activeIsland?.color || "#4ECDC4"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
     );
   }
 

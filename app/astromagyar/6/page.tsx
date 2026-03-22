@@ -32,6 +32,20 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import CompoundSentenceExplorer from "@/app/astromagyar/games/o6/CompoundSentenceExplorer";
+import StylisticFiguresExplorer from "@/app/astromagyar/games/o6/StylisticFiguresExplorer";
+import AdvancedVocabExplorer from "@/app/astromagyar/games/o6/AdvancedVocabExplorer";
+import LanguageHistoryExplorer from "@/app/astromagyar/games/o6/LanguageHistoryExplorer";
+import RhetoricExplorer from "@/app/astromagyar/games/o6/RhetoricExplorer";
+import TextCompExplorer from "@/app/astromagyar/games/o6/TextCompExplorer";
+import SpellingMasterExplorer from "@/app/astromagyar/games/o6/SpellingMasterExplorer";
+import CompositionExplorer from "@/app/astromagyar/games/o6/CompositionExplorer";
+import ReviewO6Explorer from "@/app/astromagyar/games/o6/ReviewO6Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -43,6 +57,13 @@ import {
   generateIslandQuestionsO6, generateCheckpointQuestionsO6,
 } from "@/lib/astroMagyar6";
 import { type MagyarProgress } from "@/lib/astroMagyar";
+import {
+  generateO6CategoryRushContent,
+  generateO6SentenceBuilderContent,
+  generateO6PictureWordContent,
+  generateO6ReadingCompContent,
+  generateO6MemoryPairContent,
+} from "@/app/astromagyar/contentGenerators";
 import { O6_ISLAND_SVGS } from "@/app/astromagyar/islands-o6";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -76,6 +97,20 @@ type Screen =
   | "sentence-explorer"
   | "eset-explorer"
   | "review-explorer-hu"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
+  | "compound-sentence"
+  | "stylistic-figures"
+  | "advanced-vocab"
+  | "language-history"
+  | "rhetoric"
+  | "text-comp"
+  | "spelling-master"
+  | "composition"
+  | "review-o6"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -293,7 +328,13 @@ export default function O6Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    const explorerTypes = [
+      "letter-explorer", "syllable-explorer", "spelling-explorer",
+      "noun-explorer", "verb-explorer", "sentence-explorer",
+      "eset-explorer", "review-explorer-hu",
+      "sentence-builder", "memory-pair", "picture-word",
+      "category-rush", "reading-comp",
+    ];
     if (explorerTypes.includes(gameType)) {
       setScore(0);
       setTotal(0);
@@ -381,8 +422,12 @@ export default function O6Page() {
       {/* ISLAND MAP SCREEN */}
       {screen === "island-map" && (
         <motion.div className="relative z-30 flex flex-col h-screen" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <div className="flex items-center justify-center px-4 py-4">
+          <div className="flex items-center justify-between px-4 py-4 sm:px-6">
+            <button onClick={() => router.push("/astromagyar")} className="flex items-center gap-1 text-white/60 hover:text-white transition-colors text-xs font-bold">
+              <ChevronLeft size={18} /> {lang === "hu" ? "Vissza" : "Back"}
+            </button>
             <h1 className="text-xl font-black text-white">{O6_LABEL[lang] || O6_LABEL.en}</h1>
+            <div className="w-8" />
           </div>
           <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
             <div className="max-w-sm mx-auto px-2">
@@ -532,6 +577,67 @@ export default function O6Page() {
       {screen === "review-explorer-hu" && (
         <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleAfterMission(s)} />
+      )}
+
+      {screen === "sentence-builder" && (
+        <div className="relative">
+          <SentenceBuilderExplorer
+            rounds={generateO6SentenceBuilderContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleAfterMission(s)}
+          />
+        </div>
+      )}
+
+      {screen === "memory-pair" && (
+        <div className="relative">
+          <MemoryPairExplorer
+            pairs={generateO6MemoryPairContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleAfterMission(s)}
+          />
+        </div>
+      )}
+
+      {screen === "picture-word" && (
+        <div className="relative">
+          <PictureVocabExplorer
+            rounds={generateO6PictureWordContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleAfterMission(s)}
+          />
+        </div>
+      )}
+
+      {screen === "category-rush" && (
+        <div className="relative">
+          {(() => {
+            const data = generateO6CategoryRushContent();
+            return (
+              <CategoryRushExplorer
+                categories={data.categories}
+                items={data.items}
+                color={activeIsland?.color || "#FF2D78"}
+                lang={lang}
+                onDone={(s, t) => handleAfterMission(s)}
+              />
+            );
+          })()}
+        </div>
+      )}
+
+      {screen === "reading-comp" && (
+        <div className="relative">
+          <ReadingCompExplorer
+            rounds={generateO6ReadingCompContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleAfterMission(s)}
+          />
+        </div>
       )}
 
       {/* REWARD */}

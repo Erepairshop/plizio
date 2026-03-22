@@ -91,6 +91,12 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "phonetics-explorer-o5"
+  | "textscience-explorer-o5"
+  | "stylebasics-explorer-o5"
+  | "o5spelling-explorer"
+  | "literature-explorer-o5"
+  | "revieo5-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -375,6 +381,8 @@ export default function AstroMagyarO5Page() {
       "eset-explorer", "review-explorer-hu",
       "sentence-builder", "memory-pair", "picture-word",
       "category-rush", "reading-comp",
+      "phonetics-explorer-o5", "textscience-explorer-o5", "stylebasics-explorer-o5",
+      "o5spelling-explorer", "literature-explorer-o5", "revieo5-explorer",
     ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
@@ -775,6 +783,7 @@ export default function AstroMagyarO5Page() {
           />
         </div>
       )}
+
 
       {/* Reward */}
       {screen === "reward" && earnedCard && (

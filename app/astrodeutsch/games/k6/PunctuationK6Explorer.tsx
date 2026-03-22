@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "📌 Advanced Comma Rules (Kommaregeln)",
+    r1_text: "MAIN RULE: Commas separate independent clauses when joined by 'und', 'aber', 'doch'. Example: 'Ich schlafe, aber du arbeitest.' (I sleep, but you work.)",
+    r1_q: "Which punctuation is correct?",
+    r1_a: "Ich esse, und du trinkst.",
+    r1_b: "Ich esse und du trinkst.",
+    r1_c: "Ich esse und, du trinkst.",
+    r1_d: "Ich, esse und du trinkst.",
+    r2_title: "📌 Semicolon & Colon (Semikolon & Doppelpunkt)",
+    r2_text: "SEMICOLON (;): joins two related independent clauses. COLON (:): introduces a list, explanation, or direct speech. Example: 'Ich habe drei Hobbys: Lesen, Reiten, Malen.'",
+    r2_q: "When to use a colon:",
+    r2_a: "Before a list",
+    r2_b: "Between two clauses",
+    r2_c: "Between two independent sentences",
+    r2_d: "After a question",
+    r3_title: "📌 Quotation Marks in Dialogue (Anführungszeichen)",
+    r3_text: "German uses: \\\"Text\\\" (with different opening mark). Example: 'Er sagte: \\\"Ich bin müde.\\\" (He said: \\\"I am tired.\\\") . Dialogue introductions use colons.",
+    r3_q: "Correct: 'Sie fragte ___ Wie heißt du?'",
+    r3_a: ": \"",
+    r3_b: ", \"",
+    r3_c: "; \"",
+    r3_d: "- \"",
+    r4_title: "📌 Parentheses & Dashes (Klammern & Gedankenstrich)",
+    r4_text: "Parentheses (Klammern): add extra info. Dash (Gedankenstrich): emphasize or add dramatic pause. Example: 'Ich ging — langsam — nach Hause.'",
+    r4_q1: "Use a dash to show:",
+    r4_ans1: "emphasis or pause",
+    r5_title: "⭐ Punctuation Review",
+    r5_text: "Test your punctuation!",
+    r5_q1: "Does this need a comma? 'Ich mag Äpfel und Orangen'",
+    r5_yes: "Yes, comma needed",
+    r5_no: "No comma needed",
+    r5_q2: "Colon is used for:",
+    r5_list: "Lists/explanations",
+    r5_clause: "Clause separation",
+  },
+  de: {
+    r1_title: "📌 Erweiterte Kommaregeln",
+    r1_text: "HAUPTREGEL: Kommas trennen unabhängige Sätze bei 'und', 'aber', 'doch'. Beispiel: 'Ich schlafe, aber du arbeitest.'",
+    r1_q: "Welche Zeichensetzung ist richtig?",
+    r1_a: "Ich esse, und du trinkst.",
+    r1_b: "Ich esse und du trinkst.",
+    r1_c: "Ich esse und, du trinkst.",
+    r1_d: "Ich, esse und du trinkst.",
+    r2_title: "📌 Semikolon & Doppelpunkt",
+    r2_text: "SEMIKOLON (;): verbindet zwei verwandte unabhängige Sätze. DOPPELPUNKT (:): leitet Liste oder Erklärung ein. Beispiel: 'Ich habe drei Hobbys: Lesen, Reiten, Malen.'",
+    r2_q: "Wann Doppelpunkt verwenden:",
+    r2_a: "Vor einer Liste",
+    r2_b: "Zwischen zwei Sätzen",
+    r2_c: "Zwischen Aussagen",
+    r2_d: "Nach einer Frage",
+    r3_title: "📌 Anführungszeichen im Dialog",
+    r3_text: "Deutsche Anführungszeichen: \\\"Text\\\" (oben-unten). Beispiel: 'Er sagte: \\\"Ich bin müde.\\\" Einleitungen verwenden Doppelpunkt.",
+    r3_q: "Richtig: 'Sie fragte ___ Wie heißt du?'",
+    r3_a: ": \"",
+    r3_b: ", \"",
+    r3_c: "; \"",
+    r3_d: "- \"",
+    r4_title: "📌 Klammern & Gedankenstrich",
+    r4_text: "Klammern (Klammern): zusätzliche Info. Gedankenstrich (—): Betonung oder Pause. Beispiel: 'Ich ging — langsam — nach Hause.'",
+    r4_q1: "Gedankenstrich für:",
+    r4_ans1: "Betonung oder Pause",
+    r5_title: "⭐ Zeichensetzung Wiederholung",
+    r5_text: "Teste deine Zeichensetzung!",
+    r5_q1: "Braucht das einen Komma? 'Ich mag Äpfel und Orangen'",
+    r5_yes: "Ja, Komma nötig",
+    r5_no: "Kein Komma nötig",
+    r5_q2: "Doppelpunkt wird verwendet für:",
+    r5_list: "Listen/Erklärungen",
+    r5_clause: "Satztrennung",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="80" fontSize="30" fill="#A855F7">,</text><text x="110" y="80" fontSize="14" fill="#A855F7">und</text><text x="180" y="80" fontSize="14" fill="#A855F7">,</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="80" y="80" fontSize="30" fill="#A855F7">;</text><text x="140" y="80" fontSize="30" fill="#A855F7">:</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="80" y="90" fontSize="20" fill="#A855F7">\\\"</text><text x="120" y="90" fontSize="14" fill="#A855F7">Text</text><text x="170" y="90" fontSize="20" fill="#A855F7">\\\"</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="80" fontSize="14" fill="#A855F7">(Text)</text><text x="140" y="80" fontSize="14" fill="#A855F7">— Text —</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "numbers", "speech"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_yes", "r5_no"], answer: "r5_no" }, { question: "r5_q2", choices: ["r5_list", "r5_clause"], answer: "r5_list" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function PunctuationK6Explorer({ color = "#A855F7", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

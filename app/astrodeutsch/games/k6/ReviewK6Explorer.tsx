@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "⭐ Review: Aktiv & Passiv",
+    r1_text: "Recall: AKTIV = subject acts. PASSIV = subject receives. Transform: 'Die Lehrer korrigieren die Hefte.' → 'Die Hefte werden von den Lehrern korrigiert.'",
+    r1_q: "Transform to passive: 'Der Künstler malt das Gemälde.'",
+    r1_a: "Das Gemälde wird vom Künstler gemalt.",
+    r1_b: "Das Gemälde malt der Künstler.",
+    r1_c: "Der Künstler ist gemalt.",
+    r1_d: "Das Gemälde gemalt wird.",
+    r2_title: "⭐ Review: Konjunktiv II & Modalverben",
+    r2_text: "Recall: Konjunktiv II = unreality. 'würde + Infinitive' for most verbs. Modals use stems: 'könnte', 'hätte', 'wäre', 'müsste'.",
+    r2_q: "Correct form: 'Wenn ich mehr Zeit ___...'",
+    r2_a: "hätte",
+    r2_b: "habe",
+    r2_c: "hatte",
+    r2_d: "hab",
+    r3_title: "⭐ Review: zu + Infinitiv & Relative Clauses",
+    r3_text: "Recall: zu + Infinitive after certain verbs. Relative clauses use relative pronouns (der, die, das). Main clauses use commas before subordinate clauses.",
+    r3_q: "'Ich anfange ___ arbeiten.'",
+    r3_a: "zu",
+    r3_b: "no zu",
+    r3_c: "um zu",
+    r3_d: "ohne zu",
+    r4_title: "⭐ Review: Wortbildung & Zeichensetzung",
+    r4_text: "Recall: Komposita = two words joined. Ableitung = prefixes + suffixes. Kommas before subordinate clauses. Colons before lists.",
+    r4_q1: "Which is a compound word?",
+    r4_ans1: "Schreibtisch",
+    r5_title: "⭐ Final Challenge: Mixed",
+    r5_text: "Test all K6 topics!",
+    r5_q1: "Identify: 'Das ist das Buch, das ich las.' Which clause?",
+    r5_rel: "Relative clause",
+    r5_caus: "Causal clause",
+    r5_q2: "Which prefix means 'wrong'?",
+    r5_ver: "ver-",
+    r5_un: "un-",
+  },
+  de: {
+    r1_title: "⭐ Wiederholung: Aktiv & Passiv",
+    r1_text: "Erinnere: AKTIV = Subjekt handelt. PASSIV = Subjekt wird behandelt. Umwandlung: 'Die Lehrer korrigieren die Hefte.' → 'Die Hefte werden von den Lehrern korrigiert.'",
+    r1_q: "Transformiere in Passiv: 'Der Künstler malt das Gemälde.'",
+    r1_a: "Das Gemälde wird vom Künstler gemalt.",
+    r1_b: "Das Gemälde malt der Künstler.",
+    r1_c: "Der Künstler ist gemalt.",
+    r1_d: "Das Gemälde gemalt wird.",
+    r2_title: "⭐ Wiederholung: Konjunktiv II",
+    r2_text: "Konjunktiv II = Irrealität. 'würde + Infinitiv' bei most verben. Modalverben: 'könnte', 'hätte', 'wäre', 'müsste'.",
+    r2_q: "Richtig: 'Wenn ich mehr Zeit ___...'",
+    r2_a: "hätte",
+    r2_b: "habe",
+    r2_c: "hatte",
+    r2_d: "hab",
+    r3_title: "⭐ Wiederholung: zu + Infinitiv",
+    r3_text: "Erinnere: zu + Infinitiv nach bestimmten Verben. Relativsätze mit Relativpronomen. Kommas vor Nebensätzen.",
+    r3_q: "'Ich anfange ___ arbeiten.'",
+    r3_a: "zu",
+    r3_b: "kein zu",
+    r3_c: "um zu",
+    r3_d: "ohne zu",
+    r4_title: "⭐ Wiederholung: Wortbildung",
+    r4_text: "Komposita = zwei Wörter verbunden. Ableitung = Präfixe + Suffixe. Kommas vor Nebensätzen. Doppelpunkt vor Listen.",
+    r4_q1: "Welches ist ein Kompositum?",
+    r4_ans1: "Schreibtisch",
+    r5_title: "⭐ Abschließende Herausforderung",
+    r5_text: "Teste alle K6-Themen!",
+    r5_q1: "Erkenne: 'Das ist das Buch, das ich las.' Welcher Nebensatz?",
+    r5_rel: "Relativsatz",
+    r5_caus: "Kausalsatz",
+    r5_q2: "Welches Präfix bedeutet 'falsch'?",
+    r5_ver: "ver-",
+    r5_un: "un-",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="80" cy="80" r="25" fill="#4ECDC4"/><text x="80" y="90" textAnchor="middle" fontSize="40">→</text><circle cx="160" cy="80" r="25" fill="#4ECDC4" opacity="0.5"/><text x="160" y="90" textAnchor="middle" fontSize="40">←</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="24" fill="#4ECDC4" fontWeight="bold">?</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><path d="M 80 60 L 120 100 L 160 60" stroke="#4ECDC4" strokeWidth="2" fill="none"/><text x="120" y="130" textAnchor="middle" fontSize="12" fill="#4ECDC4">zu + Infinitiv</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="80" fontSize="14" fill="#4ECDC4" fontWeight="bold">Wort</text><text x="110" y="80" fontSize="14" fill="#4ECDC4">+</text><text x="160" y="80" fontSize="14" fill="#4ECDC4" fontWeight="bold">Wort</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "schreiben", "Tisch", "schriftig"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="40" fill="#4ECDC4" opacity="0.4"/><text x="120" y="100" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_rel", "r5_caus"], answer: "r5_rel" }, { question: "r5_q2", choices: ["r5_ver", "r5_un"], answer: "r5_ver" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function ReviewK6Explorer({ color = "#4ECDC4", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

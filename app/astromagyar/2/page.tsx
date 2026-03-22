@@ -35,6 +35,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import WordTypesExplorer from "@/app/astromagyar/games/o2/WordTypesExplorer";
+import ReadingExplorer from "@/app/astromagyar/games/o2/ReadingExplorer";
+import SpellingO2Explorer from "@/app/astromagyar/games/o2/SpellingO2Explorer";
+import GrammarO2Explorer from "@/app/astromagyar/games/o2/GrammarO2Explorer";
+import CompoundWordsExplorer from "@/app/astromagyar/games/o2/CompoundWordsExplorer";
+import ConjugationO2Explorer from "@/app/astromagyar/games/o2/ConjugationO2Explorer";
+import SynonymsExplorer from "@/app/astromagyar/games/o2/SynonymsExplorer";
+import VocabularyO2Explorer from "@/app/astromagyar/games/o2/VocabularyO2Explorer";
+import ReviewO2Explorer from "@/app/astromagyar/games/o2/ReviewO2Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -91,6 +100,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "o2-word-types-explorer"
+  | "o2-reading-explorer"
+  | "o2-spelling-explorer"
+  | "o2-grammar-explorer"
+  | "o2-compound-words-explorer"
+  | "o2-conjugation-explorer"
+  | "o2-synonyms-explorer"
+  | "o2-vocabulary-explorer"
+  | "o2-review-explorer"
   | "fill-gap"
   | "spell-race"
   | "word-sort"
@@ -357,6 +375,9 @@ export default function AstroMagyar2() {
       "eset-explorer", "review-explorer-hu", "review-explorer",
       "sentence-builder", "memory-pair", "picture-word",
       "category-rush", "reading-comp",
+      "o2-word-types-explorer", "o2-reading-explorer", "o2-spelling-explorer",
+      "o2-grammar-explorer", "o2-compound-words-explorer", "o2-conjugation-explorer",
+      "o2-synonyms-explorer", "o2-vocabulary-explorer", "o2-review-explorer",
     ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
@@ -749,6 +770,80 @@ export default function AstroMagyar2() {
             lang={lang}
             onDone={(s, t) => handleMissionComplete(s, t)}
           />
+        </div>
+      )}
+
+      {/* O2 ExplorerEngine-based explorers */}
+
+      {screen === "o2-word-types-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <WordTypesExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-reading-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReadingExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-spelling-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpellingO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-grammar-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <GrammarO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-compound-words-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <CompoundWordsExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-conjugation-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ConjugationO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-synonyms-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SynonymsExplorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-vocabulary-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <VocabularyO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
+        </div>
+      )}
+
+      {screen === "o2-review-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReviewO2Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionComplete(s, t)} />
         </div>
       )}
 

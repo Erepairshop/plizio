@@ -38,6 +38,11 @@ import WordBuildExplorer from "@/app/astroenglish/games/WordBuildExplorer";
 import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
+import NounExplorer from "@/app/astroenglish/games/k2/NounExplorer";
+import VerbExplorer from "@/app/astroenglish/games/k2/VerbExplorer";
+import AdjectiveExplorer from "@/app/astroenglish/games/k2/AdjectiveExplorer";
+import SentenceExplorerK2 from "@/app/astroenglish/games/k2/SentenceExplorer";
+import VowelExplorer from "@/app/astroenglish/games/k2/VowelExplorer";
 import {
   K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS,
   type IslandDef, type MissionDef, type Lang, type MissionCategory, type EnglishProgress,
@@ -84,6 +89,15 @@ type Screen =
   | "reading-comp"
   | "memory-pair"
   | "pronunciation"
+  | "en2-noun-explorer"
+  | "en2-verb-explorer"
+  | "en2-adjective-explorer"
+  | "en2-sentence-explorer"
+  | "en2-vowel-explorer"
+  | "en2-prefix-explorer"
+  | "en2-meaning-explorer"
+  | "en2-grammar-review-explorer"
+  | "en2-big-test-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -463,7 +477,7 @@ export default function AstroEnglishK2Page() {
     setAvatarMood("focused");
 
     // Explorer games use generated content, quiz games use questions
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation", "en2-noun-explorer", "en2-verb-explorer", "en2-adjective-explorer", "en2-sentence-explorer", "en2-vowel-explorer", "en2-prefix-explorer", "en2-meaning-explorer", "en2-grammar-review-explorer", "en2-big-test-explorer"].includes(mission.gameType);
 
     if (isExplorer) {
       // Explorers don't need questions, content is generated per game
@@ -1062,11 +1076,26 @@ export default function AstroEnglishK2Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK2(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "en2-noun-explorer" && (
+          <NounExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-verb-explorer" && (
+          <VerbExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-adjective-explorer" && (
+          <AdjectiveExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-sentence-explorer" && (
+          <SentenceExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-vowel-explorer" && (
+          <VowelExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "fill-gap", "category-rush", "sentence-builder", "spell-race", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "fill-gap", "category-rush", "sentence-builder", "spell-race", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation", "en2-noun-explorer", "en2-verb-explorer", "en2-adjective-explorer", "en2-sentence-explorer", "en2-vowel-explorer", "en2-prefix-explorer", "en2-meaning-explorer", "en2-grammar-review-explorer", "en2-big-test-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

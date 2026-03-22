@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "🔗 Relative Clauses (Relativsätze)",
+    r1_text: "A relative clause describes a noun. Use relative pronouns: der, die, das, welcher, welche, welches. Example: 'Der Mann, der hier sitzt, ist mein Vater.' (The man who sits here is my father.)",
+    r1_q: "Which is a relative clause?",
+    r1_a: "Ich kenne den Mann, der hier sitzt.",
+    r1_b: "Der Mann sitzt.",
+    r1_c: "Ich sah einen Mann.",
+    r1_d: "Ein Mann kommt.",
+    r2_title: "🔗 Case agreement (Kasuskongruenz)",
+    r2_text: "The relative pronoun must match the CASE (nominative, accusative, dative, genitive) of its role in the clause. Example: 'Das Buch, das ich lese' (accusative: I read the book). NOT 'Das Buch, der ich lese'.",
+    r2_q: "Correct form: 'Der Tisch, ___ ich sehe, ist groß.'",
+    r2_a: "der",
+    r2_b: "den",
+    r2_c: "dem",
+    r2_d: "dessen",
+    r3_title: "🔗 Causal Clauses (Kausalsätze)",
+    r3_text: "Causal clauses explain WHY. Use 'weil' (because) or 'da' (since). Example: 'Ich bleibe zuhause, weil ich krank bin.' (I stay home because I'm sick.)",
+    r3_q: "'Ich kann nicht spielen, ___ ich Fieber habe.'",
+    r3_a: "weil",
+    r3_b: "wenn",
+    r3_c: "obwohl",
+    r3_d: "während",
+    r4_title: "🔗 Main clause + subordinate clause order",
+    r4_text: "In German: main clause + comma + causal clause. The verb moves to END of causal clause. Example: 'Ich gehe raus, weil das Wetter schön ist.'",
+    r4_q1: "Reorder: 'Das Wetter schön ist / weil / Ich gehe raus'",
+    r4_ans1: "Ich gehe raus, weil das Wetter schön ist.",
+    r5_title: "⭐ Relative & Causal Review",
+    r5_text: "Test your understanding!",
+    r5_q1: "Is this a relative clause? 'Das Auto, das rot ist.'",
+    r5_yes: "Yes, relative clause",
+    r5_no: "No, main clause",
+    r5_q2: "'Wir feiern, weil ...' This is which clause?",
+    r5_cause: "Causal",
+    r5_time: "Temporal",
+  },
+  de: {
+    r1_title: "🔗 Relativsätze",
+    r1_text: "Ein Relativsatz beschreibt ein Nomen. Relative Pronomen: der, die, das, welcher, welche, welches. Beispiel: 'Der Mann, der hier sitzt, ist mein Vater.'",
+    r1_q: "Welcher Satz ist ein Relativsatz?",
+    r1_a: "Ich kenne den Mann, der hier sitzt.",
+    r1_b: "Der Mann sitzt.",
+    r1_c: "Ich sah einen Mann.",
+    r1_d: "Ein Mann kommt.",
+    r2_title: "🔗 Kasuskongruenz",
+    r2_text: "Das Relativpronomen muss im KASUS (Nominativ, Akkusativ, Dativ, Genitiv) passen. Beispiel: 'Das Buch, das ich lese' (Akkusativ: Ich lese das Buch). NICHT 'Das Buch, der ich lese'.",
+    r2_q: "Richtige Form: 'Der Tisch, ___ ich sehe, ist groß.'",
+    r2_a: "der",
+    r2_b: "den",
+    r2_c: "dem",
+    r2_d: "dessen",
+    r3_title: "🔗 Kausalsätze",
+    r3_text: "Kausalsätze erklären WARUM. 'weil' (weil) oder 'da' (da). Beispiel: 'Ich bleibe zuhause, weil ich krank bin.'",
+    r3_q: "'Ich kann nicht spielen, ___ ich Fieber habe.'",
+    r3_a: "weil",
+    r3_b: "wenn",
+    r3_c: "obwohl",
+    r3_d: "während",
+    r4_title: "🔗 Wortstellung: Hauptsatz + Nebensatz",
+    r4_text: "Hauptsatz + Komma + Kausalsatz. Das Verb geht ans ENDE. Beispiel: 'Ich gehe raus, weil das Wetter schön ist.'",
+    r4_q1: "Ordne neu: 'Das Wetter schön ist / weil / Ich gehe raus'",
+    r4_ans1: "Ich gehe raus, weil das Wetter schön ist.",
+    r5_title: "⭐ Relativsatz & Kausalsatz Wiederholung",
+    r5_text: "Teste dein Verständnis!",
+    r5_q1: "Ist das ein Relativsatz? 'Das Auto, das rot ist.'",
+    r5_yes: "Ja, Relativsatz",
+    r5_no: "Nein, Hauptsatz",
+    r5_q2: "'Wir feiern, weil ...' Das ist welcher Nebensatz?",
+    r5_cause: "Kausalsatz",
+    r5_time: "Temporalsatz",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><rect x="50" y="60" width="60" height="40" rx="4" fill="#EC4899" opacity="0.5"/><text x="80" y="85" textAnchor="middle" fontSize="12">Hauptsatz</text><rect x="130" y="60" width="60" height="40" rx="4" fill="#EC4899" opacity="0.3"/><text x="160" y="85" textAnchor="middle" fontSize="12">Rel.satz</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="50" y="80" fontSize="12" fill="#EC4899">N</text><text x="90" y="80" fontSize="12" fill="#EC4899">A</text><text x="130" y="80" fontSize="12" fill="#EC4899">D</text><text x="170" y="80" fontSize="12" fill="#EC4899">G</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_b" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="80" textAnchor="middle" fontSize="14" fill="#EC4899" fontWeight="bold">WARUM?</text><text x="120" y="110" textAnchor="middle" fontSize="12" fill="#EC4899">weil / da</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="80" y="80" fontSize="12" fill="#EC4899">Hauptsatz,</text><text x="180" y="80" fontSize="12" fill="#EC4899">weil...</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "Ich gehe raus. Das Wetter ist schön.", "Das Wetter schön ist, ich gehe raus."], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_yes", "r5_no"], answer: "r5_yes" }, { question: "r5_q2", choices: ["r5_cause", "r5_time"], answer: "r5_cause" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function RelativCausalK6Explorer({ color = "#EC4899", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

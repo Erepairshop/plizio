@@ -4,7 +4,7 @@
 
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Volume2 } from "lucide-react";
 
 const TOTAL_ROUNDS = 5;
 
@@ -13,14 +13,20 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     round1Title: "Body Parts",
     round1Hint: "Tap on the highlighted body part!",
+    round1Teach: "Our body has many parts! We have a head, arms, legs, hands and feet. Inside we have a heart that pumps blood, lungs for breathing, and a brain for thinking.",
     round2Title: "Match the Sense",
     round2Hint: "Which organ do we use for this?",
+    round2Teach: "We have 5 senses to explore the world! Eyes for seeing, ears for hearing, nose for smelling, tongue for tasting, and skin for touching.",
     round3Title: "What Can We Do?",
     round3Hint: "What can we do with this organ?",
+    round3Teach: "Our senses help us experience the world — eyes help us see colors and shapes, ears help us hear sounds, and our nose and tongue help us enjoy food!",
     round4Title: "Healthy Habits",
     round4Hint: "Is this healthy or unhealthy?",
+    round4Teach: "To stay healthy, we should brush our teeth twice a day, wash our hands before eating, eat fruits and vegetables, sleep enough, and exercise every day!",
     round5Title: "Quick Review",
     round5Hint: "Answer the question!",
+    round5Teach: "Let's review what you learned about your body, senses, and staying healthy!",
+    gotIt: "Got it! →",
     next: "Next",
     finish: "Finish",
     correct: "Correct!",
@@ -62,14 +68,20 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     round1Title: "Körperteile",
     round1Hint: "Tippe auf den markierten Körperteil!",
+    round1Teach: "Unser Körper hat viele Teile! Wir haben einen Kopf, Arme, Beine, Hände und Füße. Innen haben wir ein Herz, das Blut pumpt, Lungen zum Atmen und ein Gehirn zum Denken.",
     round2Title: "Welches Organ?",
     round2Hint: "Welches Organ brauchen wir dafür?",
+    round2Teach: "Wir haben 5 Sinne, um die Welt zu erkunden! Augen zum Sehen, Ohren zum Hören, Nase zum Riechen, Zunge zum Schmecken und Haut zum Anfassen.",
     round3Title: "Was können wir damit tun?",
     round3Hint: "Was können wir mit diesem Organ?",
+    round3Teach: "Unsere Sinne helfen uns, die Welt zu erleben — Augen helfen uns Farben und Formen zu sehen, Ohren helfen uns Geräusche zu hören und Nase und Zunge helfen uns Essen zu genießen!",
     round4Title: "Gesunde Gewohnheiten",
     round4Hint: "Ist das gesund oder ungesund?",
+    round4Teach: "Um gesund zu bleiben, sollten wir täglich zweimal Zähne putzen, vor dem Essen Hände waschen, Obst und Gemüse essen, genug schlafen und täglich Sport treiben!",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Beantworte die Frage!",
+    round5Teach: "Lass uns überprüfen, was du über deinen Körper, deine Sinne und deine Gesundheit gelernt hast!",
+    gotIt: "Verstanden! →",
     next: "Weiter",
     finish: "Fertig",
     correct: "Richtig!",
@@ -111,14 +123,20 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     round1Title: "Testrészek",
     round1Hint: "Koppints a kijelölt testrészre!",
+    round1Teach: "A testünknek sok része van! Van fejünk, karjaink, lábaink, kezünk és lábfejünk. Benne van egy szíve, amely vért pumpál, tüdeje, amely lélegzik, és agya, amely gondolkodik.",
     round2Title: "Melyik szervünk?",
     round2Hint: "Melyik szervünkkel érzékeljük?",
+    round2Teach: "5 érzékszerveink vannak a világ felfedezésére! Szemünk a látáshoz, füleink a halláshoz, orrunk a szagláshoz, nyelvünk az ízleléshez és bőrünk az érintéshez.",
     round3Title: "Mit tehetünk vele?",
     round3Hint: "Mit tehetünk ezzel a szervünkkel?",
+    round3Teach: "Az érzékszerveink segítenek a világot megtapasztalni — a szemünk segít látni a színeket és formákat, a füleink segítik hallani a hangokat, és az orrunk és nyelvünk élvezni az ételt!",
     round4Title: "Egészséges szokások",
     round4Hint: "Ez egészséges vagy egészségtelen?",
+    round4Teach: "Az egészséges maradáshoz naponta kétszer mosni kell a fogainkat, evés előtt kezet mosni, gyümölcsöt és zöldséget enni, eleget aludni és naponta sportolni!",
     round5Title: "Gyors összefoglalás",
     round5Hint: "Válaszolj a kérdésre!",
+    round5Teach: "Nézzük meg, mit tanultál a tested, érzékeidről és az egészséged megőrzéséről!",
+    gotIt: "Értem! →",
     next: "Tovább",
     finish: "Kész",
     correct: "Helyes!",
@@ -160,14 +178,20 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     round1Title: "Părțile corpului",
     round1Hint: "Atinge partea evidențiată a corpului!",
+    round1Teach: "Corpul nostru are multe părți! Avem o cap, brațe, picioare, mâini și tălpi. Înăuntru avem o inimă care pompează sânge, plămâni pentru respirație și un creier pentru gândire.",
     round2Title: "Care organ?",
     round2Hint: "Care organ folosim pentru asta?",
+    round2Teach: "Avem 5 simțuri pentru a explora lumea! Ochi pentru a vedea, urechi pentru a auzi, nas pentru a mirosi, limbă pentru a gusta și piele pentru a atinge.",
     round3Title: "Ce putem face cu el?",
     round3Hint: "Ce putem face cu acest organ?",
+    round3Teach: "Simțurile noastre ne ajută să experimentăm lumea — ochii ne ajută să vedem culori și forme, urechile ne ajută să auzim sunete și nasul și limba ne ajută să ne bucurăm de mâncare!",
     round4Title: "Obiceiuri sănătoase",
     round4Hint: "Este sănătos sau nesănătos?",
+    round4Teach: "Pentru a rămâne sănătos, trebuie să ne spălăm pe dinți de două ori pe zi, să ne spălăm pe mâini înainte de a mânca, să mâncăm fructe și legume, să dormim suficient și să facem sport în fiecare zi!",
     round5Title: "Recapitulare rapidă",
     round5Hint: "Răspunde la întrebare!",
+    round5Teach: "Să recapitulăm ce ai învățat despre corpul tău, simțurile tale și rămânerea sănătos!",
+    gotIt: "Am înțeles! →",
     next: "Înainte",
     finish: "Gata",
     correct: "Corect!",
@@ -354,13 +378,24 @@ interface Props {
   color: string;
   lang?: string;
   onDone: (score: number, total: number) => void;
+  onClose?: () => void;
 }
 
-function BodyExplorer({ color, lang = "de", onDone }: Props) {
+function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
+
+  const speak = useCallback((text: string) => {
+    if (typeof window === "undefined") return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
+    u.rate = 0.9;
+    window.speechSynthesis.speak(u);
+  }, [lang]);
 
   /* ─── Round 0: Body parts quiz — tap the highlighted part ─── */
   const bodyQuiz = useMemo(() => {
@@ -426,6 +461,7 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
       onDone(scoreRef.current, totalRef.current);
     } else {
       setRound(r => r + 1);
+      setShowTeach(true);
     }
   }, [round, onDone]);
 
@@ -524,6 +560,13 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
+      {/* Close button */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+        >✕</button>
+      )}
       {/* Progress dots */}
       <div className="flex justify-center gap-1.5 pt-4 pb-3">
         {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
@@ -546,43 +589,98 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
           {/* ═══ ROUND 0 — Body parts: tap the highlighted part ═══ */}
           {round === 0 && (
             <>
-              <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
+              {showTeach ? (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round1Title}</p>
+                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2">
+                    <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
+                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
 
-              <div className="relative">
-                <InteractiveBody
-                  color={color}
-                  highlightPart={bodyQuiz[bodyQIdx]}
-                  onTapPart={handleBodyTap}
-                  tappedCorrect={bodyTapped}
-                />
-              </div>
+                  <div className="relative">
+                    <InteractiveBody
+                      color={color}
+                      highlightPart={bodyQuiz[bodyQIdx]}
+                      onTapPart={handleBodyTap}
+                      tappedCorrect={bodyTapped}
+                    />
+                  </div>
 
-              {/* Question + sub-progress */}
-              <div className="flex items-center gap-2">
-                <span className="text-white/40 text-xs font-bold">{bodyQIdx + 1}/{bodyQuiz.length}</span>
-                <span className="text-white/80 text-sm font-bold">
-                  {lbl.whatIsThis} <span style={{ color }}>{lbl[bodyQuiz[bodyQIdx]]}</span>?
-                </span>
-              </div>
+                  {/* Question + sub-progress */}
+                  <div className="flex items-center gap-2">
+                    <span className="text-white/40 text-xs font-bold">{bodyQIdx + 1}/{bodyQuiz.length}</span>
+                    <span className="text-white/80 text-sm font-bold">
+                      {lbl.whatIsThis} <span style={{ color }}>{lbl[bodyQuiz[bodyQIdx]]}</span>?
+                    </span>
+                  </div>
 
-              {bodyTapped !== null && renderFeedback(
-                bodyTapped ? bodyQuiz[bodyQIdx] : "wrong",
-                bodyQuiz[bodyQIdx],
+                  {bodyTapped !== null && renderFeedback(
+                    bodyTapped ? bodyQuiz[bodyQIdx] : "wrong",
+                    bodyQuiz[bodyQIdx],
+                  )}
+
+                  {renderNext(bodyTapped === null, advanceBodyQ)}
+                </>
               )}
-
-              {renderNext(bodyTapped === null, advanceBodyQ)}
             </>
           )}
 
           {/* ═══ ROUND 1 — Sense → organ ═══ */}
           {round === 1 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round2Title}</p>
+                    <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = senseQuestions[senseIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [senseIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
+                  <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{senseIdx + 1}/{senseQuestions.length}</span>
 
@@ -607,12 +705,39 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 2 — Organ → action ═══ */}
           {round === 2 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round3Title}</p>
+                    <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = actionQuestions[actionIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [actionIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
+                  <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{actionIdx + 1}/{actionQuestions.length}</span>
 
@@ -637,11 +762,38 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
 
           {/* ═══ ROUND 3 — Healthy habits ═══ */}
           {round === 3 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round4Title}</p>
+                    <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = hygieneQuestions[hygieneIdx];
             if (!q) return null;
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
+                  <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
                 <span className="text-white/40 text-xs font-bold">{hygieneIdx + 1}/{hygieneQuestions.length}</span>
 
@@ -701,14 +853,42 @@ function BodyExplorer({ color, lang = "de", onDone }: Props) {
             );
           })()}
 
+
           {/* ═══ ROUND 4 — Mixed review ═══ */}
           {round === 4 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round5Title}</p>
+                    <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = reviewQuestions[reviewIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [reviewIdx]); // eslint-disable-line
             return (
               <>
-                <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                <div className="flex items-center gap-2">
+                  <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
+                  <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
+                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
+                    <Volume2 size={16} />
+                  </button>
+                </div>
                 <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
                 <span className="text-white/40 text-xs font-bold">{reviewIdx + 1}/{reviewQuestions.length}</span>
 

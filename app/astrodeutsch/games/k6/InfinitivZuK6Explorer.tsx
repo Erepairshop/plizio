@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "∞ Infinitiv mit zu (infinitive with to)",
+    r1_text: "Add 'zu + infinitive' after verbs like 'anfangen' (start), 'vergessen' (forget), 'versuchen' (try). Example: 'Ich vergesse zu schlafen.' (I forget to sleep.)",
+    r1_q: "Which uses 'zu + infinitive' correctly?",
+    r1_a: "Ich anfange zu arbeiten.",
+    r1_b: "Ich anfange arbeiten.",
+    r1_c: "Ich anfange zu arbeitet.",
+    r1_d: "Ich beginne zu beginnen.",
+    r2_title: "∞ Wann KEIN zu? (when NO zu)",
+    r2_text: "NO 'zu' with modal verbs: können, dürfen, mögen, müssen, sollen, wollen, lassen, sehen, hören. Example: 'Ich kann schwimmen.' NOT 'Ich kann zu schwimmen.'",
+    r2_q: "Which is WRONG?",
+    r2_a: "Ich will spielen.",
+    r2_b: "Ich kann zu schreiben.",
+    r2_c: "Ich darf singen.",
+    r2_d: "Ich muss lernen.",
+    r3_title: "∞ Komma vor zu + Infinitiv (comma rule)",
+    r3_text: "Use comma when the zu-phrase is a subordinate clause. Example: 'Ich habe Angst, zu fallen.' (I'm afraid to fall.) BUT: 'Anfangen zu laufen.' (no comma, short phrase).",
+    r3_q: "Correct punctuation: 'Ich versuche ___ die Aufgabe zu verstehen.'",
+    r3_a: "comma",
+    r3_b: "no comma",
+    r3_c: "exclamation mark",
+    r3_d: "semicolon",
+    r4_title: "∞ um ... zu / ohne ... zu (in order to / without)",
+    r4_text: "'Um zu' = 'in order to'. 'Ohne zu' = 'without'. Example: 'Ich lerne, um intelligent zu sein.' (I study to be smart.)",
+    r4_q1: "Complete: 'Er verließ das Haus, ___ einen Mantel zu nehmen.'",
+    r4_ans1: "ohne",
+    r5_title: "⭐ Infinitiv mit zu Review",
+    r5_text: "Test your understanding!",
+    r5_q1: "Does this sentence need 'zu'? 'Ich beginne ___ singen.'",
+    r5_yes: "Yes (zu singen)",
+    r5_no: "No (singen)",
+    r5_q2: "Modal + infinitive: 'Ich muss zu arbeiten.'",
+    r5_wrong: "Wrong (Ich muss arbeiten)",
+    r5_right: "Right",
+  },
+  de: {
+    r1_title: "∞ Infinitiv mit zu",
+    r1_text: "Nach Verben wie 'anfangen', 'vergessen', 'versuchen' kommt 'zu + Infinitiv'. Beispiel: 'Ich vergesse zu schlafen.'",
+    r1_q: "Welcher Satz nutzt 'zu + Infinitiv' richtig?",
+    r1_a: "Ich anfange zu arbeiten.",
+    r1_b: "Ich anfange arbeiten.",
+    r1_c: "Ich anfange zu arbeitet.",
+    r1_d: "Ich beginne zu beginnen.",
+    r2_title: "∞ Wann KEIN zu?",
+    r2_text: "Bei Modalverben KEIN 'zu': können, dürfen, mögen, müssen, sollen, wollen, lassen, sehen, hören. Beispiel: 'Ich kann schwimmen.' NICHT 'Ich kann zu schwimmen.'",
+    r2_q: "Welcher Satz ist FALSCH?",
+    r2_a: "Ich will spielen.",
+    r2_b: "Ich kann zu schreiben.",
+    r2_c: "Ich darf singen.",
+    r2_d: "Ich muss lernen.",
+    r3_title: "∞ Komma vor zu + Infinitiv",
+    r3_text: "Komma vor zu-Sätzen. Beispiel: 'Ich habe Angst, zu fallen.' ABER: 'Anfangen zu laufen.' (kein Komma bei kurzen Phrasen).",
+    r3_q: "Richtige Zeichensetzung: 'Ich versuche ___ die Aufgabe zu verstehen.'",
+    r3_a: "Komma",
+    r3_b: "kein Komma",
+    r3_c: "Ausrufezeichen",
+    r3_d: "Semikolon",
+    r4_title: "∞ um ... zu / ohne ... zu",
+    r4_text: "'Um zu' = zum Zweck. 'Ohne zu' = ohne. Beispiel: 'Ich lerne, um intelligent zu sein.'",
+    r4_q1: "Ergänze: 'Er verließ das Haus, ___ einen Mantel zu nehmen.'",
+    r4_ans1: "ohne",
+    r5_title: "⭐ Infinitiv mit zu Wiederholung",
+    r5_text: "Teste dein Verständnis!",
+    r5_q1: "Braucht dieser Satz 'zu'? 'Ich beginne ___ singen.'",
+    r5_yes: "Ja (zu singen)",
+    r5_no: "Nein (singen)",
+    r5_q2: "Modal + Infinitiv: 'Ich muss zu arbeiten.'",
+    r5_wrong: "Falsch (Ich muss arbeiten)",
+    r5_right: "Richtig",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><path d="M 60 80 Q 120 40 180 80" stroke="#10B981" strokeWidth="3" fill="none"/><text x="120" y="130" textAnchor="middle" fontSize="12" fill="#10B981" fontWeight="bold">zu + Infinitiv</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="100" cy="80" r="30" fill="#10B981" opacity="0.5"/><text x="100" y="90" textAnchor="middle" fontSize="16">✓</text><circle cx="180" cy="80" r="30" fill="#F59E0B" opacity="0.5"/><text x="180" y="90" textAnchor="middle" fontSize="16">✗</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_b" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="80" y="80" fontSize="24">,</text><text x="110" y="80" fontSize="14" fill="#10B981" fontWeight="bold">zu + Infinitiv</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="50" y="80" fontSize="12" fill="#10B981">um ... zu</text><text x="150" y="80" fontSize="12" fill="#10B981">ohne ... zu</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "mit", "während", "bei"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_yes", "r5_no"], answer: "r5_yes" }, { question: "r5_q2", choices: ["r5_wrong", "r5_right"], answer: "r5_wrong" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function InfinitivZuK6Explorer({ color = "#10B981", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

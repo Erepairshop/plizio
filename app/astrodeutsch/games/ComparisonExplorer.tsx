@@ -1,16 +1,33 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Steigerung der Adjektive",
     round1: "Drei Stufen der Steigerung",
+    round1Title: "Drei Stufen der Steigerung",
+    round1Teach: "Adjektive können verglichen werden! Es gibt 3 Formen: Positiv (schnell = einfach), Komparativ (schneller = mehr), Superlativ (am schnellsten = am meisten). Schau dir die Beispiele an!",
+    round1Hint: "Tippe einen Kasten an, um die Formen zu sehen",
     round2: "Tiere vergleichen",
+    round2Title: "Tiere vergleichen",
+    round2Teach: "Tiere sind verschieden groß! Ein Hund ist groß, eine Giraffe ist größer, aber ein Elefant ist am größten. Vergleiche die Tiere mit dem Adjektiv 'groß'.",
+    round2Hint: "Tippe jedes Tier an und beobachte die Sätze",
     round3: "Unregelmäßige Formen",
+    round3Title: "Unregelmäßige Formen",
+    round3Teach: "Manche Adjektive sind besonders! Sie ändern sich nicht normal (z.B. -er). Hier sind 3 Ausnahmen: gut→besser→am besten, viel→mehr→am meisten, gern→lieber→am liebsten.",
+    round3Hint: "Tippe ein Adjektiv an, um seine Formen zu sehen",
     round4: "Komparativ wählen",
+    round4Title: "Komparativ wählen",
+    round4Teach: "Der Komparativ vergleicht zwei Dinge: 'A ist schneller als B'. Wähle die richtige Komparativ-Form für jedes Adjektiv.",
+    round4Hint: "Wähle die -ER Form",
     round5: "Superlativ-Quiz!",
+    round5Title: "Superlativ-Quiz!",
+    round5Teach: "Der Superlativ ist am extremsten: 'C ist am schnellsten von allen'. Das Muster ist: 'am ADJ-STEN'. Teste dein Wissen!",
+    round5Hint: "Wähle die 'am...sten' Form",
+    gotIt: "Ich verstehe! Weiter →",
     tapReveal: "Tippe um die Form zu sehen",
     next: "Weiter →",
     done: "Fertig! 🌟",
@@ -27,10 +44,26 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     title: "Adjective Comparison",
     round1: "Three steps of comparison",
+    round1Title: "Three steps of comparison",
+    round1Teach: "Adjectives can be compared! There are 3 forms: Positive (fast = simple), Comparative (faster = more), Superlative (fastest = most). Check out the examples!",
+    round1Hint: "Tap a box to see the forms",
     round2: "Comparing animals",
+    round2Title: "Comparing animals",
+    round2Teach: "Animals have different sizes! A dog is big, a giraffe is bigger, but an elephant is the biggest. Compare the animals using the adjective 'big'.",
+    round2Hint: "Tap each animal and watch the sentences",
     round3: "Irregular forms",
+    round3Title: "Irregular forms",
+    round3Teach: "Some adjectives are special! They don't change normally (no -er). Here are 3 exceptions: good→better→best, much→more→most, gladly→more gladly→most gladly.",
+    round3Hint: "Tap an adjective to see its forms",
     round4: "Choose the comparative",
+    round4Title: "Choose the comparative",
+    round4Teach: "The comparative compares two things: 'A is faster than B'. Pick the right comparative form for each adjective.",
+    round4Hint: "Choose the -ER form",
     round5: "Superlative quiz!",
+    round5Title: "Superlative quiz!",
+    round5Teach: "The superlative is the most extreme: 'C is fastest of all'. The pattern is: 'am ADJ-ST'. Test your knowledge!",
+    round5Hint: "Choose the 'am...st' form",
+    gotIt: "I got it! Next →",
     tapReveal: "Tap to see the form",
     next: "Next →",
     done: "Done! 🌟",
@@ -103,8 +136,26 @@ const SCALE_ITEMS = [
   { base: "alt", comp: "älter", sup: "am ältesten" },
 ];
 
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach?: boolean }) {
   const [active, setActive] = useState<number | null>(null);
+  const [teach, setTeach] = useState(showTeach);
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   return (
     <div className="w-full flex flex-col items-center gap-3">
       <div className="text-center px-4 py-2 rounded-xl text-sm font-semibold text-white/80"
@@ -148,8 +199,25 @@ const ANIMALS = [
   { name: "Elefant", emoji: "🐘", size: 3, form: "am größten" },
 ];
 
-function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void; showTeach?: boolean }) {
   const [active, setActive] = useState<number | null>(null);
+  const [teach, setTeach] = useState(showTeach);
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
 
   const sentenceTexts = [
     `Der ${ANIMALS[0].name} ist ${ANIMALS[0].form}.`,
@@ -204,8 +272,26 @@ const EXCEPTIONS = [
   { base: "gern", comp: "lieber", sup: "am liebsten" },
 ];
 
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach?: boolean }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
+  const [teach, setTeach] = useState(showTeach);
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   const tap = (i: number) => setRevealed(prev => { const n = new Set(prev); n.add(i); return n; });
   return (
     <div className="w-full flex flex-col items-center gap-3">
@@ -265,7 +351,25 @@ function shuffle<T>(arr: T[]): T[] {
   return copy;
 }
 
-function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+function Round4({ color, lbl, wrongCountRef, onNext, showTeach = false }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach?: boolean }) {
+  const [teach, setTeach] = useState(showTeach);
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   const [quiz] = useState(() => shuffle(COMP_QUIZ_POOL).slice(0, 4));
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -329,7 +433,25 @@ const SUP_QUIZ_POOL = [
   { word: "früh", options: ["früher", "am frühesten", "am frühsten"], correct: 1 },
 ];
 
-function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void }) {
+function Round5({ color, lbl, wrongCountRef, onDone, showTeach = false }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach?: boolean }) {
+  const [teach, setTeach] = useState(showTeach);
+
+  if (teach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+        </div>
+        <motion.button onClick={() => setTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
   const [quiz] = useState(() => shuffle(SUP_QUIZ_POOL).slice(0, 3));
   const [qi, setQi] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
@@ -392,12 +514,16 @@ const ComparisonExplorer = memo(function ComparisonExplorer({
 }: { color: string; lang?: string; onDone: (score: number, total: number) => void }) {
   const lbl = LABELS[lang] ?? LABELS.de;
   const [round, setRound] = useState(0);
+  const [showTeach, setShowTeach] = useState(true);
   const TOTAL_ROUNDS = 5;
+
+  // Add gotIt label for teaching phase
+  const teachLabels = { ...LABELS.de, ...LABELS[lang], gotIt: LABELS[lang]?.gotIt || "I got it! Next →" };
 
   // Error tracking
   const wrongCountRef = useRef(0);
 
-  const next = useCallback(() => setRound(r => r + 1), []);
+  const next = useCallback(() => { setRound(r => r + 1); setShowTeach(true); }, []);
   const finish = useCallback(() => {
     const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
     onDone(score, TOTAL_ROUNDS);
@@ -409,11 +535,11 @@ const ComparisonExplorer = memo(function ComparisonExplorer({
         <motion.div key={round} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -20 }} transition={{ duration: 0.22 }}
           className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} showTeach={showTeach} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onNext={next} showTeach={showTeach} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} />}
         </motion.div>
       </AnimatePresence>
     </div>

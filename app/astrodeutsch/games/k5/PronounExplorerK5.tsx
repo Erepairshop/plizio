@@ -1,0 +1,207 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  de: {
+    title1: "Personalpronomen (Nominativ)",
+    text1: "Personalpronomen ersetzen Nomen. Im Nominativ: ich, du, er, sie, es, wir, ihr, sie.",
+    q1: "Welches Pronomen ersetzt 'Maria'?",
+    a1: "sie",
+    b1: "er",
+    c1: "es",
+    d1: "du",
+
+    title2: "Akkusativ & Dativ",
+    text2: "Der Kasus bestimmt die Form: mich, dich, ihn, sie, es, uns, euch, sie (Akkusativ). mir, dir, ihm, ihr, ihm, uns, euch, ihnen (Dativ).",
+    q2: "Welche Form passt: 'Ich sehe ___'?",
+    a2: "ihn",
+    b2: "ihm",
+    c2: "er",
+    d2: "he",
+
+    title3: "Possessivpronomen",
+    text3: "Possessivpronomen zeigen Besitz. Beispiele: mein, dein, sein, ihr, unser, euer, ihr.",
+    q3: "Welches Wort gehört zu 'wir'?",
+    a3: "unser",
+    b3: "sein",
+    c3: "dein",
+    d3: "euer",
+
+    title4: "Reflexivpronomen",
+    text4: "Reflexivpronomen beziehen sich zurück auf das Subjekt. Beispiel: 'Ich wasche mich' - sich für 3. Person.",
+    q4: "Welches ist das Reflexivpronomen für 'er'?",
+    a4: "sich",
+    b4: "ihm",
+    c4: "sein",
+    d4: "ihn",
+
+    title5: "Große Prüfung",
+    text5: "Teste dein Wissen über Pronomen!",
+    q5a: "Nominativ von 'ich'?",
+    a5a: "ich",
+    b5a: "mich",
+    c5a: "mir",
+    d5a: "meinen",
+    q5b: "Akkusativ von 'wir'?",
+    a5b: "uns",
+    b5b: "wir",
+    c5b: "unser",
+    d5b: "unseren",
+    q5c: "Possessivpronomen für 'ihr'?",
+    a5c: "euer",
+    b5c: "ihr",
+    c5c: "sie",
+    d5c: "euere",
+  },
+  en: {
+    title1: "Personal Pronouns (Nominative)",
+    text1: "Personal pronouns replace nouns. In nominative: I, you, he, she, it, we, you, they.",
+    q1: "Which pronoun replaces 'Maria'?",
+    a1: "she",
+    b1: "he",
+    c1: "it",
+    d1: "you",
+
+    title2: "Accusative & Dative",
+    text2: "The case determines the form: me, you, him, her, it, us, you, them (accusative). Changes in dative case too.",
+    q2: "Which form fits: 'I see ___'?",
+    a2: "him",
+    b2: "to him",
+    c2: "he",
+    d2: "it",
+
+    title3: "Possessive Pronouns",
+    text3: "Possessive pronouns show possession. Examples: my, your, his, her, our, your, their.",
+    q3: "Which word belongs to 'we'?",
+    a3: "our",
+    b3: "his",
+    c3: "your",
+    d3: "their",
+
+    title4: "Reflexive Pronouns",
+    text4: "Reflexive pronouns refer back to the subject. Example: 'He washes himself'.",
+    q4: "What is the reflexive pronoun for 'he'?",
+    a4: "himself",
+    b4: "to him",
+    c4: "his",
+    d4: "him",
+
+    title5: "Big Test",
+    text5: "Test your knowledge of pronouns!",
+    q5a: "Nominative of 'I'?",
+    a5a: "I",
+    b5a: "me",
+    c5a: "to me",
+    d5a: "mine",
+    q5b: "Accusative of 'we'?",
+    a5b: "us",
+    b5b: "we",
+    c5b: "our",
+    d5b: "ours",
+    q5c: "Possessive pronoun for 'you'?",
+    a5c: "your",
+    b5c: "you",
+    c5c: "yours",
+    d5c: "yourselves",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    {
+      type: "mcq",
+      infoTitle: "title1",
+      infoText: "text1",
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Nominativ</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>Singular</div>
+            <div>Plural</div>
+            <div style={{ color: '#3b82f6' }}>ich, du</div>
+            <div style={{ color: '#3b82f6' }}>wir, ihr</div>
+            <div style={{ color: '#8b5cf6' }}>er, sie, es</div>
+            <div style={{ color: '#8b5cf6' }}>sie</div>
+          </div>
+        </div>
+      ),
+      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title2",
+      infoText: "text2",
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Kasus-Änderung</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div><span style={{ color: '#94a3b8' }}>Nominativ:</span> ich</div>
+            <div><span style={{ color: '#3b82f6' }}>Akkusativ:</span> <span style={{ color: '#3b82f6', fontWeight: 800 }}>mich</span></div>
+            <div><span style={{ color: '#8b5cf6' }}>Dativ:</span> <span style={{ color: '#8b5cf6', fontWeight: 800 }}>mir</span></div>
+          </div>
+        </div>
+      ),
+      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title3",
+      infoText: "text3",
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Possessiv</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div><span style={{ color: '#94a3b8' }}>ich</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>mein</span></div>
+            <div><span style={{ color: '#94a3b8' }}>wir</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>unser</span></div>
+            <div><span style={{ color: '#94a3b8' }}>ihr</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>euer</span></div>
+          </div>
+        </div>
+      ),
+      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title4",
+      infoText: "text4",
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Reflexiv</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>«Ich wasche <span style={{ color: '#ef4444', fontWeight: 800 }}>mich</span>»</div>
+            <div>«Er wäscht <span style={{ color: '#ef4444', fontWeight: 800 }}>sich</span>»</div>
+            <div style={{ marginTop: 4, fontSize: 12, color: '#475569' }}>Aktion bezieht sich auf das Subjekt</div>
+          </div>
+        </div>
+      ),
+      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title5",
+      infoText: "text5",
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Alle Pronomen</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
+            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Personal</div>
+            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Possessiv</div>
+            <div style={{ background: '#10b981', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Reflexiv</div>
+            <div style={{ background: '#f59e0b', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Kasus</div>
+          </div>
+        </div>
+      ),
+      questions: [
+        { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
+        { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },
+        { question: "q5c", choices: ["a5c", "b5c", "c5c", "d5c"], answer: "a5c" },
+      ],
+    },
+  ],
+};
+
+interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
+export default function PronounExplorerK5({ color, lang, onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}
