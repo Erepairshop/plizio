@@ -83,28 +83,28 @@ function q4(de: string, en: string, hu: string, ro: string, lang: string): strin
 // ─── DATA POOLS ────────────────────────────────────────────────────────────
 
 const MAGNETIC_MATERIALS = [
-  { name: "Eisen", magnetic: true, symbol: "Fe" },
-  { name: "Nickel", magnetic: true, symbol: "Ni" },
-  { name: "Kobalt", magnetic: true, symbol: "Co" },
-  { name: "Kupfer", magnetic: false, symbol: "Cu" },
-  { name: "Aluminium", magnetic: false, symbol: "Al" },
-  { name: "Zink", magnetic: false, symbol: "Zn" },
-  { name: "Stahl", magnetic: true, symbol: "Fe-C" },
-  { name: "Gold", magnetic: false, symbol: "Au" },
+  { de: "Eisen", en: "Iron", hu: "Vas", ro: "Fier", magnetic: true, symbol: "Fe" },
+  { de: "Nickel", en: "Nickel", hu: "Nikkel", ro: "Nichel", magnetic: true, symbol: "Ni" },
+  { de: "Kobalt", en: "Cobalt", hu: "Kobalt", ro: "Cobalt", magnetic: true, symbol: "Co" },
+  { de: "Kupfer", en: "Copper", hu: "Réz", ro: "Cupru", magnetic: false, symbol: "Cu" },
+  { de: "Aluminium", en: "Aluminum", hu: "Alumínium", ro: "Aluminiu", magnetic: false, symbol: "Al" },
+  { de: "Zink", en: "Zinc", hu: "Cink", ro: "Zinc", magnetic: false, symbol: "Zn" },
+  { de: "Stahl", en: "Steel", hu: "Acél", ro: "Oțel", magnetic: true, symbol: "Fe-C" },
+  { de: "Gold", en: "Gold", hu: "Arany", ro: "Aur", magnetic: false, symbol: "Au" },
 ];
 
 const MAGNET_TYPES = [
-  { type: "Stabmagnet", shape: "Stab", poles: 2 },
-  { type: "Hufeissenmagnet", shape: "Hufeisen", poles: 2 },
-  { type: "Ringmagnet", shape: "Ring", poles: 2 },
-  { type: "Elektromagnet", source: "Strom", poles: 2 },
+  { de: "Stabmagnet", en: "Bar magnet", hu: "Rúdmágnes", ro: "Magnet de bară", shape: "Stab", poles: 2 },
+  { de: "Hufeissenmagnet", en: "Horseshoe magnet", hu: "Patkómágnes", ro: "Magnet în formă de potcoavă", shape: "Hufeisen", poles: 2 },
+  { de: "Ringmagnet", en: "Ring magnet", hu: "Gyűrűmágnes", ro: "Magnet inelar", shape: "Ring", poles: 2 },
+  { de: "Elektromagnet", en: "Electromagnet", hu: "Elektromágnes", ro: "Electromagnet", source: "Strom", poles: 2 },
 ];
 
 const MAGNET_INTERACTIONS = [
-  { pole1: "Nord", pole2: "Nord", result: "Abstoßung" },
-  { pole1: "Nord", pole2: "Süd", result: "Anziehung" },
-  { pole1: "Süd", pole2: "Süd", result: "Abstoßung" },
-  { pole1: "Süd", pole2: "Nord", result: "Anziehung" },
+  { de_pole1: "Nord", en_pole1: "North", hu_pole1: "Északi", ro_pole1: "Nord", de_pole2: "Nord", en_pole2: "North", hu_pole2: "Északi", ro_pole2: "Nord", de_result: "Abstoßung", en_result: "Repulsion", hu_result: "Taszítás", ro_result: "Respingere" },
+  { de_pole1: "Nord", en_pole1: "North", hu_pole1: "Északi", ro_pole1: "Nord", de_pole2: "Süd", en_pole2: "South", hu_pole2: "Déli", ro_pole2: "Sud", de_result: "Anziehung", en_result: "Attraction", hu_result: "Vonzás", ro_result: "Atracție" },
+  { de_pole1: "Süd", en_pole1: "South", hu_pole1: "Déli", ro_pole1: "Sud", de_pole2: "Süd", en_pole2: "South", hu_pole2: "Déli", ro_pole2: "Sud", de_result: "Abstoßung", en_result: "Repulsion", hu_result: "Taszítás", ro_result: "Respingere" },
+  { de_pole1: "Süd", en_pole1: "South", hu_pole1: "Déli", ro_pole1: "Sud", de_pole2: "Nord", en_pole2: "North", hu_pole2: "Északi", ro_pole2: "Nord", de_result: "Anziehung", en_result: "Attraction", hu_result: "Vonzás", ro_result: "Atracție" },
 ];
 
 // ─── 25. MAGNETS (MCQ GENERATOR) ───────────────────────────────────────────
@@ -141,8 +141,8 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
         topic,
         subtopic,
         question,
-        magnetic.name,
-        wrongMaterials.map(m => m.name),
+        q4(magnetic.de, magnetic.en, magnetic.hu, magnetic.ro, lang),
+        wrongMaterials.map(m => q4(m.de, m.en, m.hu, m.ro, lang)),
         rng
       )
     );
@@ -218,8 +218,8 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
         topic,
         subtopic,
         question,
-        notMagnetic.name,
-        magneticMaterials.map(m => m.name),
+        q4(notMagnetic.de, notMagnetic.en, notMagnetic.hu, notMagnetic.ro, lang),
+        magneticMaterials.map(m => q4(m.de, m.en, m.hu, m.ro, lang)),
         rng
       )
     );
@@ -241,8 +241,8 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
         topic,
         subtopic,
         question,
-        magnet.type,
-        MAGNET_TYPES.filter(m => m.type !== magnet.type).map(m => m.type),
+        q4(magnet.de, magnet.en, magnet.hu, magnet.ro, lang),
+        MAGNET_TYPES.filter(m => q4(m.de, m.en, m.hu, m.ro, lang) !== q4(magnet.de, magnet.en, magnet.hu, magnet.ro, lang)).map(m => q4(m.de, m.en, m.hu, m.ro, lang)),
         rng
       )
     );
