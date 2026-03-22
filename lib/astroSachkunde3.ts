@@ -215,7 +215,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "orbit-quiz",
+        gameType: "k3-body-systems-explorer",
         icon: "🔭",
         category: "explore",
         label: {
@@ -268,7 +268,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "true-false-blitz",
+        gameType: "k3-animal-kingdom-explorer",
         icon: "⚡",
         category: "explore",
         label: {
@@ -321,7 +321,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "black-hole",
+        gameType: "k3-forest-life-explorer",
         icon: "🕳️",
         category: "explore",
         label: {

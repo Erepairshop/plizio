@@ -1,127 +1,107 @@
 "use client";
-import React, { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    round1Title: "Skeleton & Bones", round1Text: "Your skeleton supports your body. Learn the main bones!",
-    q1: "Which bone is the largest in your body?", a1: "Thighbone", a2: "Skull", a3: "Spine", a4: "Ribcage",
-    round2Title: "Muscles", round2Text: "Muscles help you move. They work with bones!",
-    q2: "What do muscles do?", a5: "Help you move", a6: "Digest food", a7: "Store water", a8: "Make sounds",
-    round3Title: "Heart & Lungs", round3Text: "Your heart pumps blood. Your lungs help you breathe!",
-    q3: "What does the heart do?", a9: "Pumps blood", a10: "Digests food", a11: "Filters air", a12: "Stores fat",
-    round4Title: "Digestion", round4Text: "Your stomach breaks down food for energy!",
-    q4: "Where does food go first?", a13: "Stomach", a14: "Intestines", a15: "Mouth", a16: "Liver",
-    round5Title: "Review", round5Text: "Quick questions about body systems!",
-    q5: "Which system helps you think?", a17: "Nervous system", a18: "Digestive system", a19: "Skeletal system", a20: "Respiratory system",
-    q6: "How many bones does an adult have?", a21: "About 206", a22: "About 100", a23: "About 300", a24: "About 50",
+    t1: "Skeleton", tx1: "Our skeleton supports and protects our body.",
+    t2: "Bones & Joints", tx2: "We have 206 bones that can move at joints.",
+    t3: "Muscles", tx3: "Muscles pull on bones to help us move.",
+    t4: "Heart & Lungs", tx4: "The heart pumps blood. Lungs help us breathe.",
+    t5: "Digestion", tx5: "Food travels through our digestive system for energy.",
+    q1: "How many bones does an adult have?", q1a: "206", q1b: "100", q1c: "300", q1d: "50",
+    q2: "What are joints for?", q2a: "Moving bones", q2b: "Making blood", q2c: "Breathing", q2d: "Thinking",
+    q3: "Muscles help us to:", q3a: "Move", q3b: "Sleep", q3c: "Eat", q3d: "Think",
+    q4: "What pumps blood?", q4a: "Heart", q4b: "Lungs", q4c: "Brain", q4d: "Stomach",
+    q5: "Food is broken down in:", q5a: "Stomach", q5b: "Heart", q5c: "Lungs", q5d: "Brain",
   },
   de: {
-    round1Title: "Skelett & Knochen", round1Text: "Dein Skelett stützt deinen Körper. Lerne die Hauptknochen!",
-    q1: "Welcher Knochen ist der größte in deinem Körper?", a1: "Oberschenkelknochen", a2: "Schädel", a3: "Wirbelsäule", a4: "Brustkorb",
-    round2Title: "Muskeln", round2Text: "Muskeln helfen dir zu bewegen. Sie arbeiten mit Knochen!",
-    q2: "Was tun Muskeln?", a5: "Helfen dir zu bewegen", a6: "Verdauen Nahrung", a7: "Speichern Wasser", a8: "Machen Geräusche",
-    round3Title: "Herz & Lungen", round3Text: "Dein Herz pumpt Blut. Deine Lungen helfen dir zu atmen!",
-    q3: "Was tut das Herz?", a9: "Pumpt Blut", a10: "Verdaut Nahrung", a11: "Filtert Luft", a12: "Speichert Fett",
-    round4Title: "Verdauung", round4Text: "Dein Magen bricht Nahrung für Energie auf!",
-    q4: "Wohin geht das Essen zuerst?", a13: "Magen", a14: "Darm", a15: "Mund", a16: "Leber",
-    round5Title: "Wiederholung", round5Text: "Schnelle Fragen zum Körper!",
-    q5: "Welches System hilft dir zu denken?", a17: "Nervensystem", a18: "Verdauungssystem", a19: "Knochensystem", a20: "Atemwegsystem",
-    q6: "Wie viele Knochen hat ein Erwachsener?", a21: "Etwa 206", a22: "Etwa 100", a23: "Etwa 300", a24: "Etwa 50",
+    t1: "Skelett", tx1: "Unser Skelett stützt und schützt unseren Körper.",
+    t2: "Knochen & Gelenke", tx2: "Wir haben 206 Knochen, die sich an Gelenken bewegen.",
+    t3: "Muskeln", tx3: "Muskeln ziehen an Knochen, um uns zu helfen, zu bewegen.",
+    t4: "Herz & Lungen", tx4: "Das Herz pumpt Blut. Lungen helfen uns zu atmen.",
+    t5: "Verdauung", tx5: "Nahrung reist durch unser Verdauungssystem für Energie.",
+    q1: "Wie viele Knochen hat ein Erwachsener?", q1a: "206", q1b: "100", q1c: "300", q1d: "50",
+    q2: "Wofür sind Gelenke?", q2a: "Knochen bewegen", q2b: "Blut machen", q2c: "Atmen", q2d: "Denken",
+    q3: "Muskeln helfen uns zu:", q3a: "Bewegen", q3b: "Schlafen", q3c: "Essen", q3d: "Denken",
+    q4: "Was pumpt Blut?", q4a: "Herz", q4b: "Lunge", q4c: "Gehirn", q4d: "Magen",
+    q5: "Essen wird aufgelöst in:", q5a: "Magen", q5b: "Herz", q5c: "Lunge", q5d: "Gehirn",
   },
   hu: {
-    round1Title: "Csontváz & Csontok", round1Text: "A csontváz támogatja a tested. Ismerd meg a fő csontokat!",
-    q1: "Melyik csont a legnagyobb a tested?", a1: "Comb csont", a2: "Koponya", a3: "Gerinc", a4: "Bordák",
-    round2Title: "Izmok", round2Text: "Az izmok segítik a mozgásod. Csontokkal dolgoznak!",
-    q2: "Mit csinálnak az izmok?", a5: "Segítik a mozgást", a6: "Emésztik az ételt", a7: "Tárolják a vizet", a8: "Hangokat készítik",
-    round3Title: "Szív & Tüdők", round3Text: "A szíved vért pumpál. A tüdőid segítik a lélegzést!",
-    q3: "Mit csinál a szív?", a9: "Pumpálja a vért", a10: "Megemészti az ételt", a11: "Szűri a levegőt", a12: "Zsírt tárol",
-    round4Title: "Emésztés", round4Text: "A gyomrod feldarabolja az ételt az energia érdekében!",
-    q4: "Hová kerül az étel először?", a13: "Gyomor", a14: "Bélrendszer", a15: "Száj", a16: "Máj",
-    round5Title: "Ismétlés", round5Text: "Gyors kérdések a testrendszerekről!",
-    q5: "Melyik rendszer segít gondolkozni?", a17: "Idegrendszer", a18: "Emésztőrendszer", a19: "Csontrendszer", a20: "Légzőrendszer",
-    q6: "Hány csont van egy felnőtt testében?", a21: "Körülbelül 206", a22: "Körülbelül 100", a23: "Körülbelül 300", a24: "Körülbelül 50",
+    t1: "Csontváz", tx1: "A csontváz támogatja és védi testünket.",
+    t2: "Csontok és ízületek", tx2: "206 csontunk van, amelyek ízületekben mozognak.",
+    t3: "Izmok", tx3: "Az izmok meghúzzák a csontokat, hogy mozogni tudjunk.",
+    t4: "Szív és tüdő", tx4: "A szív pumpálja a vért. A tüdő segít a légzésben.",
+    t5: "Emésztés", tx5: "Az étel átmegy az emésztőrendszeren az energiáért.",
+    q1: "Hány csontja van egy felnőttnek?", q1a: "206", q1b: "100", q1c: "300", q1d: "50",
+    q2: "Mire valók az ízületek?", q2a: "Csontok mozgatása", q2b: "Vér készítése", q2c: "Légzés", q2d: "Gondolkodás",
+    q3: "Izmok segítnek nekünk:", q3a: "Mozogni", q3b: "Aludni", q3c: "Enni", q3d: "Gondolkodni",
+    q4: "Mi pumpálja a vért?", q4a: "Szív", q4b: "Tüdő", q4c: "Agy", q4d: "Gyomor",
+    q5: "Az étel felbomlott:", q5a: "Gyomor", q5b: "Szív", q5c: "Tüdő", q5d: "Agy",
   },
   ro: {
-    round1Title: "Schelet & Oase", round1Text: "Scheletul tău susține corpul. Învață oasele principale!",
-    q1: "Ce os este cel mai mare din corpul tău?", a1: "Femurul", a2: "Craniu", a3: "Coloană vertebrală", a4: "Coșul toracic",
-    round2Title: "Mușchi", round2Text: "Mușchii te ajută să te miști. Lucrează cu oasele!",
-    q2: "Ce fac mușchii?", a5: "Te ajută să te miști", a6: "Digeră hrana", a7: "Stochează apă", a8: "Fac sunete",
-    round3Title: "Inimă & Plămâni", round3Text: "Inima ta pompează sânge. Plămânii tăi te ajută să respiri!",
-    q3: "Ce face inima?", a9: "Pompează sânge", a10: "Digeră hrana", a11: "Filtrează aerul", a12: "Stochează grăsime",
-    round4Title: "Digestie", round4Text: "Stomacul tău descompune hrana pentru energie!",
-    q4: "Unde merge mâncarea mai întâi?", a13: "Stomac", a14: "Intestine", a15: "Gură", a16: "Ficat",
-    round5Title: "Revizuire", round5Text: "Întrebări rapide despre sisteme corporale!",
-    q5: "Ce sistem te ajută să gândești?", a17: "Sistemul nervos", a18: "Sistemul digestiv", a19: "Sistemul osos", a20: "Sistemul respirator",
-    q6: "Câte oase are un adult?", a21: "Aproximativ 206", a22: "Aproximativ 100", a23: "Aproximativ 300", a24: "Aproximativ 50",
+    t1: "Schelet", tx1: "Scheletul nostru susține și protejează corpul.",
+    t2: "Oase și articulații", tx2: "Avem 206 oase care se mișcă la articulații.",
+    t3: "Mușchi", tx3: "Mușchii trag oasele pentru a ne ajuta să ne mișcăm.",
+    t4: "Inimă și plămâni", tx4: "Inima pompează sânge. Plămânii ne ajută să respirăm.",
+    t5: "Digestie", tx5: "Mâncarea parcurge sistemul digestiv pentru energie.",
+    q1: "Câte oase are un adult?", q1a: "206", q1b: "100", q1c: "300", q1d: "50",
+    q2: "Pentru ce sunt articulațiile?", q2a: "Mișcarea oaselor", q2b: "Făcerea sângelui", q2c: "Respirație", q2d: "Gândire",
+    q3: "Mușchii ne ajută să:", q3a: "Ne mișcăm", q3b: "Dormim", q3c: "Mâncăm", q3d: "Gândim",
+    q4: "Ce pompează sânge?", q4a: "Inimă", q4b: "Plămân", q4c: "Creier", q4d: "Stomac",
+    q5: "Mâncarea se descompune în:", q5a: "Stomac", q5b: "Inimă", q5c: "Plămân", q5d: "Creier",
   },
 };
+
+function BodySvg() {
+  return (
+    <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
+      <text x="120" y="90" textAnchor="middle" fontSize="60" fill="#FF6B9D">🫀</text>
+    </svg>
+  );
+}
 
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
       type: "mcq",
-      infoTitle: "round1Title",
-      infoText: "round1Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🫀</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "a2", "a3", "a4"], answer: "a1" }],
+      infoTitle: "t1",
+      infoText: "tx1",
+      svg: () => <BodySvg />,
+      questions: [{ question: "q1", choices: ["q1a", "q1b", "q1c", "q1d"], answer: "q1a" }],
     },
     {
       type: "mcq",
-      infoTitle: "round2Title",
-      infoText: "round2Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">💪</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a5", "a6", "a7", "a8"], answer: "a5" }],
+      infoTitle: "t2",
+      infoText: "tx2",
+      svg: () => <BodySvg />,
+      questions: [{ question: "q2", choices: ["q2a", "q2b", "q2c", "q2d"], answer: "q2a" }],
     },
     {
       type: "mcq",
-      infoTitle: "round3Title",
-      infoText: "round3Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🫁</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a9", "a10", "a11", "a12"], answer: "a9" }],
+      infoTitle: "t3",
+      infoText: "tx3",
+      svg: () => <BodySvg />,
+      questions: [{ question: "q3", choices: ["q3a", "q3b", "q3c", "q3d"], answer: "q3a" }],
     },
     {
       type: "mcq",
-      infoTitle: "round4Title",
-      infoText: "round4Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🍽️</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a13", "a14", "a15", "a16"], answer: "a15" }],
+      infoTitle: "t4",
+      infoText: "tx4",
+      svg: () => <BodySvg />,
+      questions: [{ question: "q4", choices: ["q4a", "q4b", "q4c", "q4d"], answer: "q4a" }],
     },
     {
       type: "mcq",
-      infoTitle: "round5Title",
-      infoText: "round5Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">❓</text>
-        </svg>
-      ),
+      infoTitle: "t5",
+      infoText: "tx5",
+      svg: () => <BodySvg />,
       questions: [
-        { question: "q5", choices: ["a17", "a18", "a19", "a20"], answer: "a17" },
-        { question: "q6", choices: ["a21", "a22", "a23", "a24"], answer: "a21" },
+        { question: "q1", choices: ["q1a", "q1b", "q1c", "q1d"], answer: "q1a" },
+        { question: "q4", choices: ["q4a", "q4b", "q4c", "q4d"], answer: "q4a" },
+        { question: "q5", choices: ["q5a", "q5b", "q5c", "q5d"], answer: "q5a" },
       ],
     },
   ],
@@ -130,10 +110,10 @@ const DEF: ExplorerDef = {
 interface Props {
   color: string;
   lang?: string;
-  onDone: (score: number, total: number) => void;
+  onDone: (s: number, t: number) => void;
   onClose?: () => void;
 }
 
-export default memo(function BodySystemsExplorer({ color, lang, onDone, onClose }: Props) {
+export default function BodySystemsExplorer({ color, lang, onDone, onClose }: Props) {
   return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-});
+}

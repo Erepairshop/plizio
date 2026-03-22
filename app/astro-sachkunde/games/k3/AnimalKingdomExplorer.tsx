@@ -1,139 +1,83 @@
 "use client";
-import React, { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    round1Title: "Vertebrates", round1Text: "Animals with backbones are vertebrates. Fish, birds, reptiles, mammals!",
-    q1: "Which animal has a backbone?", a1: "Dog", a2: "Butterfly", a3: "Crab", a4: "Worm",
-    round2Title: "Invertebrates", round2Text: "Some animals have NO backbone. Insects, spiders, crabs!",
-    q2: "Which animal is an invertebrate?", a5: "Butterfly", a6: "Lion", a7: "Penguin", a8: "Fish",
-    round3Title: "Animal Groups", round3Text: "Mammals have fur. Birds have feathers. Reptiles have scales!",
-    q3: "What covers a bird's body?", a9: "Feathers", a10: "Fur", a11: "Scales", a12: "Skin",
-    round4Title: "Food Chains", round4Text: "Plants feed animals. Animals feed other animals. It's a chain!",
-    q4: "What do herbivores eat?", a13: "Plants", a14: "Meat", a15: "Insects", a16: "Everything",
-    round5Title: "Review", round5Text: "Quick questions about animals!",
-    q5: "How many legs does an insect have?", a17: "6", a18: "4", a19: "8", a20: "10",
-    q6: "Which animal is a mammal?", a21: "Cat", a22: "Lizard", a23: "Eagle", a24: "Salmon",
+    t1: "Mammals", tx1: "Mammals have fur and feed milk to their babies.",
+    t2: "Birds", tx2: "Birds have feathers and can fly. They lay eggs.",
+    t3: "Reptiles", tx3: "Reptiles have scales and are cold-blooded.",
+    t4: "Insects", tx4: "Insects have 6 legs and are the largest animal group.",
+    t5: "Food Chains", tx5: "Animals are connected in food chains in nature.",
+    q1: "What covers a mammal's skin?", q1a: "Fur", q1b: "Scales", q1c: "Feathers", q1d: "Skin only",
+    q2: "How many legs does a bird have?", q2a: "2", q2b: "4", q2c: "6", q2d: "8",
+    q3: "Are reptiles warm or cold-blooded?", q3a: "Cold-blooded", q3b: "Warm-blooded", q3c: "Both", q3d: "Neither",
+    q4: "How many legs do insects have?", q4a: "6", q4b: "4", q4c: "8", q4d: "10",
+    q5: "In a food chain, plants are:", q5a: "Producers", q5b: "Consumers", q5c: "Decomposers", q5d: "Predators",
   },
   de: {
-    round1Title: "Wirbeltiere", round1Text: "Tiere mit Rückgrat sind Wirbeltiere. Fische, Vögel, Reptilien, Säugetiere!",
-    q1: "Welches Tier hat ein Rückgrat?", a1: "Hund", a2: "Schmetterling", a3: "Krabbe", a4: "Wurm",
-    round2Title: "Wirbellose", round2Text: "Manche Tiere haben KEIN Rückgrat. Insekten, Spinnen, Krabben!",
-    q2: "Welches Tier ist ein Wirbelloses?", a5: "Schmetterling", a6: "Löwe", a7: "Pinguin", a8: "Fisch",
-    round3Title: "Tiergruppen", round3Text: "Säugetiere haben Fell. Vögel haben Federn. Reptilien haben Schuppen!",
-    q3: "Was bedeckt den Körper eines Vogels?", a9: "Federn", a10: "Fell", a11: "Schuppen", a12: "Haut",
-    round4Title: "Nahrungsketten", round4Text: "Pflanzen füttern Tiere. Tiere füttern andere Tiere. Es ist eine Kette!",
-    q4: "Was essen Pflanzenfresser?", a13: "Pflanzen", a14: "Fleisch", a15: "Insekten", a16: "Alles",
-    round5Title: "Wiederholung", round5Text: "Schnelle Fragen über Tiere!",
-    q5: "Wie viele Beine hat ein Insekt?", a17: "6", a18: "4", a19: "8", a20: "10",
-    q6: "Welches Tier ist ein Säugetier?", a21: "Katze", a22: "Echse", a23: "Adler", a24: "Lachs",
+    t1: "Säugetiere", tx1: "Säugetiere haben Fell und füttern ihre Babys mit Milch.",
+    t2: "Vögel", tx2: "Vögel haben Federn und können fliegen. Sie legen Eier.",
+    t3: "Reptilien", tx3: "Reptilien haben Schuppen und sind kaltblütig.",
+    t4: "Insekten", tx4: "Insekten haben 6 Beine und sind die größte Tiergruppe.",
+    t5: "Nahrungsketten", tx5: "Tiere sind in Nahrungsketten in der Natur verbunden.",
+    q1: "Was bedeckt die Haut eines Säugetiers?", q1a: "Fell", q1b: "Schuppen", q1c: "Federn", q1d: "Nur Haut",
+    q2: "Wie viele Beine hat ein Vogel?", q2a: "2", q2b: "4", q2c: "6", q2d: "8",
+    q3: "Sind Reptilien warm oder kaltblütig?", q3a: "Kaltblütig", q3b: "Warmblütig", q3c: "Beides", q3d: "Keines",
+    q4: "Wie viele Beine haben Insekten?", q4a: "6", q4b: "4", q4c: "8", q4d: "10",
+    q5: "In einer Nahrungskette sind Pflanzen:", q5a: "Erzeuger", q5b: "Verbraucher", q5c: "Zersetzer", q5d: "Raubtiere",
   },
   hu: {
-    round1Title: "Gerincesek", round1Text: "Az állatok gerinccelű gerincessek. Halak, madarak, hüllők, emlősök!",
-    q1: "Melyik állatnak van gerinc?", a1: "Kutya", a2: "Pillangó", a3: "Rák", a4: "Féreg",
-    round2Title: "Gerinctelenesk", round2Text: "Néhány állatnak NINCS gerinc. Rovarok, pók, rákok!",
-    q2: "Melyik állat gerincetelen?", a5: "Pillangó", a6: "Oroszlán", a7: "Pingvin", a8: "Hal",
-    round3Title: "Állatcsoportok", round3Text: "Emlősöknek szőr van. Madaraknak tollak vannak. Hüllőknek pikkelyek!",
-    q3: "Mi borítja a madár testét?", a9: "Tollak", a10: "Szőr", a11: "Pikkelyek", a12: "Bőr",
-    round4Title: "Táplálékláncok", round4Text: "Növények etetik az állatokat. Az állatok más állatokat etetnek. Lánc!",
-    q4: "Mit esznek a növényevők?", a13: "Növények", a14: "Hús", a15: "Rovarok", a16: "Mindent",
-    round5Title: "Ismétlés", round5Text: "Gyors kérdések az állatokról!",
-    q5: "Hány lába van a rovarnak?", a17: "6", a18: "4", a19: "8", a20: "10",
-    q6: "Melyik állat emlős?", a21: "Macska", a22: "Gyík", a23: "Sas", a24: "Lazac",
+    t1: "Emlősök", tx1: "Az emlősöknek szőrük van és anyatejjel táplálják a fiaikat.",
+    t2: "Madarak", tx2: "A madaraknak tolluk van és tudnak repülni. Tojásokat raknak.",
+    t3: "Hüllők", tx3: "A hüllőknek pikkelyük van és hidegvérek.",
+    t4: "Rovarok", tx4: "A rovaroknak 6 lábuk van és az állatok legnagyobb csoportja.",
+    t5: "Táplálékláncok", tx5: "Az állatok táplálékláncokkal vannak összekapcsolva a természetben.",
+    q1: "Mi fedi az emlős bőrét?", q1a: "Szőr", q1b: "Pikkelyek", q1c: "Tollak", q1d: "Csak bőr",
+    q2: "Hány lábja van egy madarnak?", q2a: "2", q2b: "4", q2c: "6", q2d: "8",
+    q3: "A hüllők meleg vagy hidegvérek?", q3a: "Hidegvérek", q3b: "Melegvérek", q3c: "Mindkettő", q3d: "Egyik sem",
+    q4: "Hány lábja van a rovaroknak?", q4a: "6", q4b: "4", q4c: "8", q4d: "10",
+    q5: "Egy táplálékláncban a növények:", q5a: "Termelők", q5b: "Fogyasztók", q5c: "Lebomlasztók", q5d: "Ragadozók",
   },
   ro: {
-    round1Title: "Vertebrate", round1Text: "Animalele cu coloană vertebrală sunt vertebrate. Pești, păsări, reptile, mamifere!",
-    q1: "Ce animal are coloană vertebrală?", a1: "Câine", a2: "Fluture", a3: "Crab", a4: "Vierme",
-    round2Title: "Nevertebrate", round2Text: "Unele animale NU au coloană vertebrală. Insecte, păianjeni, ráci!",
-    q2: "Ce animal este nevertebrat?", a5: "Fluture", a6: "Leu", a7: "Pinguin", a8: "Pește",
-    round3Title: "Grupuri de animale", round3Text: "Mamiferele au blană. Păsările au pene. Reptilele au solzi!",
-    q3: "Ce acoperă corpul unei păsări?", a9: "Pene", a10: "Blană", a11: "Solzi", a12: "Piele",
-    round4Title: "Lanțuri alimentare", round4Text: "Plantele hrănesc animalele. Animalele hrănesc alte animale. E un lanț!",
-    q4: "Ce mănâncă erbivore?", a13: "Plante", a14: "Carne", a15: "Insecte", a16: "Tot",
-    round5Title: "Revizuire", round5Text: "Întrebări rapide despre animale!",
-    q5: "Câte picioare are un insect?", a17: "6", a18: "4", a19: "8", a20: "10",
-    q6: "Ce animal este mamifer?", a21: "Pisică", a22: "Șopârlă", a23: "Vultur", a24: "Somon",
+    t1: "Mamifere", tx1: "Mamiferele au blană și hrănesc bebelușii cu lapte.",
+    t2: "Păsări", tx2: "Păsările au pene și pot zbura. Pun ouă.",
+    t3: "Reptile", tx3: "Reptilele au solzi și sunt cu sânge rece.",
+    t4: "Insecte", tx4: "Insectele au 6 picioare și sunt cel mai mare grup animal.",
+    t5: "Lanțuri alimentare", tx5: "Animalele sunt conectate în lanțuri alimentare în natură.",
+    q1: "Ce acoperă pielea unui mamifer?", q1a: "Blană", q1b: "Solzi", q1c: "Pene", q1d: "Doar piele",
+    q2: "Câte picioare are o pasăre?", q2a: "2", q2b: "4", q2c: "6", q2d: "8",
+    q3: "Reptilele sunt calde sau reci?", q3a: "Reci", q3b: "Calde", q3c: "Ambele", q3d: "Nici una",
+    q4: "Câte picioare au insectele?", q4a: "6", q4b: "4", q4c: "8", q4d: "10",
+    q5: "Într-un lanț alimentar, plantele sunt:", q5a: "Producători", q5b: "Consumatori", q5c: "Descompunători", q5d: "Prădători",
   },
 };
+
+function AnimalSvg() {
+  return (
+    <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e1a" />
+      <text x="120" y="90" textAnchor="middle" fontSize="60" fill="#F7DC6F">🦁</text>
+    </svg>
+  );
+}
 
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
-    {
-      type: "mcq",
-      infoTitle: "round1Title",
-      infoText: "round1Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🦴</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "a2", "a3", "a4"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "round2Title",
-      infoText: "round2Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🦗</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a5", "a6", "a7", "a8"], answer: "a5" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "round3Title",
-      infoText: "round3Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🦜</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a9", "a10", "a11", "a12"], answer: "a9" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "round4Title",
-      infoText: "round4Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🔗</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a13", "a14", "a15", "a16"], answer: "a13" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "round5Title",
-      infoText: "round5Text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">❓</text>
-        </svg>
-      ),
-      questions: [
-        { question: "q5", choices: ["a17", "a18", "a19", "a20"], answer: "a17" },
-        { question: "q6", choices: ["a21", "a22", "a23", "a24"], answer: "a21" },
-      ],
-    },
+    { type: "mcq", infoTitle: "t1", infoText: "tx1", svg: () => <AnimalSvg />, questions: [{ question: "q1", choices: ["q1a", "q1b", "q1c", "q1d"], answer: "q1a" }] },
+    { type: "mcq", infoTitle: "t2", infoText: "tx2", svg: () => <AnimalSvg />, questions: [{ question: "q2", choices: ["q2a", "q2b", "q2c", "q2d"], answer: "q2a" }] },
+    { type: "mcq", infoTitle: "t3", infoText: "tx3", svg: () => <AnimalSvg />, questions: [{ question: "q3", choices: ["q3a", "q3b", "q3c", "q3d"], answer: "q3a" }] },
+    { type: "mcq", infoTitle: "t4", infoText: "tx4", svg: () => <AnimalSvg />, questions: [{ question: "q4", choices: ["q4a", "q4b", "q4c", "q4d"], answer: "q4a" }] },
+    { type: "mcq", infoTitle: "t5", infoText: "tx5", svg: () => <AnimalSvg />, questions: [
+      { question: "q1", choices: ["q1a", "q1b", "q1c", "q1d"], answer: "q1a" },
+      { question: "q2", choices: ["q2a", "q2b", "q2c", "q2d"], answer: "q2a" },
+      { question: "q5", choices: ["q5a", "q5b", "q5c", "q5d"], answer: "q5a" },
+    ] },
   ],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
-
-export default memo(function AnimalKingdomExplorer({ color, lang, onDone, onClose }: Props) {
+interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
+export default function AnimalKingdomExplorer({ color, lang, onDone, onClose }: Props) {
   return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-});
+}
