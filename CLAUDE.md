@@ -2378,3 +2378,100 @@ cp app/astrodeutsch/5/layout.tsx app/uj-jatek/5/layout.tsx
 □ npx next build — hibamentes?
 □ Hub page (page.tsx) frissítve: új grade route + progress loader
 ```
+
+## ÚJ TEST JÁTÉK LÉTREHOZÁSA — két minta
+
+> Minden tantárgyhoz két játék létezik párhuzamosan:
+> - **Astro játék** (`/astro-biologie`, `/astromagyar` stb.) — tanítás/gyakorlás, sziget-alapú
+> - **Test játék** (`/biologietest`, `/magyarteszt` stb.) — rendes iskolai teszt, grade-select + topic-select
+
+### Pattern 1: LanguageTestEngine config (egyszerű — ~80 sor)
+
+Használd ha: nyelvi teszt (deutsch, english, magyar, romanian) VAGY Sachkunde-szerű tantárgy.
+
+**Template:** `app/sachkundetest/page.tsx` vagy `app/englishtest/page.tsx`
+
+```tsx
+"use client";
+import { LanguageTestEngine } from "@/app/deutschtest/page";
+import { MY_CURRICULUM, getMyQuestions, calculateMyGrade, MY_SUBTOPIC_HINTS } from "@/lib/myCurriculum";
+import { MY_VISUAL_TYPES } from "@/lib/myVisualGenerators";
+import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+
+const MY_CONFIG: LanguageTestEngineConfig = {
+  gameId: "mytest",
+  title: "MY TEST",
+  icon: "📝",
+  color: "#3B82F6",
+  ttsLang: "en-US",
+  ttsRate: 0.92,
+  ttsPitch: 1.05,
+  dateLocale: "en-US",
+  storageKey: "mytest_country",
+  bgChars: ["A", "B", "C", "?", "!"],
+  bgColors: ["rgba(59,130,246,0.15)", ...],
+  curriculum: MY_CURRICULUM,
+  getQuestions: getMyQuestions,
+  calculateGrade: calculateMyGrade,
+  subtopicHints: MY_SUBTOPIC_HINTS,
+  visualTypes: MY_VISUAL_TYPES,
+};
+
+export default function MyTestPage() {
+  return <LanguageTestEngine config={MY_CONFIG} />;
+}
+```
+
+**Copy lépések:**
+```bash
+cp app/sachkundetest/page.tsx app/ujtest/page.tsx
+# Cseréld: gameId, title, color, ttsLang, storageKey, curriculum imports
+```
+
+### Pattern 2: Custom subject test (biologietest minta — ~500 sor)
+
+Használd ha: természettudományos tantárgy (biológia, fizika, kémia) ahol a kérdések és UI eltér a LanguageTestEngine-től.
+
+**Template:** `app/biologietest/page.tsx`
+
+```bash
+cp app/biologietest/page.tsx app/ujtest/page.tsx
+# Cseréld: curriculum importok, GRADE_DEFS, gameId, title, color
+```
+
+**Fő különbség a LanguageTestEngine-től:**
+- Nincs TTS
+- Grade-select → topic-select → quiz flow (saját logika)
+- `BiologieQuestion` típus helyett saját típus
+- Generator map-ek self-register importok
+
+### Melyiket válaszd?
+
+| Tantárgy | Pattern |
+|---|---|
+| Deutsch, English, Magyar, Română | Pattern 1 (LanguageTestEngine) |
+| Sachkunde, Természetismeret | Pattern 1 (LanguageTestEngine) |
+| Biológia, Fizika, Kémia | Pattern 2 (biologietest másolat) |
+| Matematika | Saját (`mathtest`) — ne másold |
+
+### Ellenőrzőlista új Test játék hozzáadásakor
+
+```
+□ Megfelelő template másolva (sachkundetest vagy biologietest)
+□ gameId, title, color, storageKey cserélve
+□ Curriculum lib fájl létezik (lib/ujCurriculum.ts)
+□ Visual generators fájl létezik (lib/ujVisualGenerators.ts) — ha Pattern 1
+□ app/ujtest/layout.tsx létrehozva (cp sachkunde-test/layout.tsx alapján)
+□ Főoldalon regisztrálva (app/page.tsx TRANSLATIONS + CATEGORIES_BASE)
+□ npx next build — hibamentes?
+```
+
+### Astro + Test párosítás szabály
+
+Minden tantárgyhoz **mindig kettő** jön létre:
+| Astro játék | Test játék | Lib |
+|---|---|---|
+| `/astro-biologie` | `/biologietest` | `lib/astroBiologie*.ts` + `lib/biologieCurriculum*.ts` |
+| `/astrodeutsch` | `/deutschtest` | `lib/astroDeutsch*.ts` + `lib/germanCurriculum*.ts` |
+| `/astroenglish` | `/englishtest` | `lib/astroEnglish*.ts` + `lib/englishCurriculum.ts` |
+| `/astromagyar` | `/magyarteszt` | `lib/astroMagyar*.ts` + `lib/hungarianCurriculum.ts` |
