@@ -56,6 +56,8 @@ interface Props {
   def: ExplorerDef;
   color?: string;
   lang?: string;
+  /** Unique ID for tracking play count (e.g. "bio_k5_fish"). If provided, enables AI enhanced mode on 2nd+ play. */
+  explorerId?: string;
   onDone?: (score: number, total: number) => void;
   onClose?: () => void;
 }
@@ -75,27 +77,49 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Engine Component
 // ─────────────────────────────────────────────────────────────────────────────
 
-type Phase = "info" | "question";
+type Phase = "info" | "question" | "think-first";
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }: Props) {
+// ─── Play count tracking (localStorage) ──────────────────────────────────
+function getPlayCount(id: string): number {
+  if (typeof window === "undefined") return 0;
+  try { return parseInt(localStorage.getItem(`explorer_plays_${id}`) || "0", 10); } catch { return 0; }
+}
+function incrementPlayCount(id: string): void {
+  if (typeof window === "undefined") return;
+  try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
+}
+
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
 
+  // AI enhanced mode — activates on 2nd+ play
+  const [aiEnhanced] = useState(() => explorerId ? getPlayCount(explorerId) >= 1 : false);
+  const playCountTracked = useRef(false);
+
+  // Track play count on mount
+  useEffect(() => {
+    if (explorerId && !playCountTracked.current) {
+      playCountTracked.current = true;
+      incrementPlayCount(explorerId);
+    }
+  }, [explorerId]);
+
   const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
+  const [phase, setPhase] = useState<Phase>(aiEnhanced ? "think-first" : "info");
   const [subIdx, setSubIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked] = useState(false);
@@ -108,6 +132,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   const [aiActive, setAiActive] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [voiceText, setVoiceText] = useState("");
+  const [thinkAnswer, setThinkAnswer] = useState("");
+  const [thinkFeedback, setThinkFeedback] = useState<string | null>(null);
+  const [funFact, setFunFact] = useState<string | null>(null);
+  const [funFactLoading, setFunFactLoading] = useState(false);
   const recognitionRef = useRef<any>(null);
   const autoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -151,16 +179,19 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   const advanceRound = useCallback(() => {
     if (round < totalRounds - 1) {
       setRound(round + 1);
-      setPhase("info");
+      setPhase(aiEnhanced ? "think-first" : "info");
       setSubIdx(0);
       setSelected(null);
       setLocked(false);
       setTapped([]);
       setOrderWrong(false);
+      setThinkAnswer("");
+      setThinkFeedback(null);
+      setFunFact(null);
     } else {
       onDone?.(scoreRef.current, totalRef.current);
     }
-  }, [round, totalRounds, onDone]);
+  }, [round, totalRounds, onDone, aiEnhanced]);
 
   const handleNext = useCallback(() => {
     if (currentRound.type === "info") {
@@ -263,6 +294,50 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
     window.speechSynthesis.speak(u);
   }, [langCode]);
 
+  // ── AI: "Think first" — constructivist question at round start ──────────
+  const handleThinkSubmit = useCallback(async (text: string) => {
+    if (!text.trim() || aiLoading) return;
+    setAiLoading(true);
+    const topicTitle = L(currentRound.infoTitle);
+    const topicText = L(currentRound.infoText);
+    const result = await askAITutor({
+      question: text,
+      context: `The student was asked to think about: "${topicTitle}". The correct info is: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
+      lang: langCode,
+      maxTokens: 100,
+    });
+    setAiLoading(false);
+    if (result) {
+      setThinkFeedback(result);
+      speak(result);
+    } else {
+      setThinkFeedback(ui.goodThought);
+    }
+  }, [aiLoading, currentRound, langCode, speak, L, ui.goodThought]);
+
+  // ── AI: Fun fact generation (enhanced mode) ────────────────────────────
+  const loadFunFact = useCallback(async () => {
+    if (!aiEnhanced || funFactLoading) return;
+    setFunFactLoading(true);
+    const topicTitle = L(currentRound.infoTitle);
+    const result = await askAITutor({
+      question: `Tell me a surprising, fun fact about "${topicTitle}" that a 10-14 year old would find amazing. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
+      context: topicTitle,
+      lang: langCode,
+      maxTokens: 100,
+    });
+    setFunFactLoading(false);
+    if (result) setFunFact(result);
+  }, [aiEnhanced, funFactLoading, currentRound, langCode, L]);
+
+  // Load fun fact when entering info phase in enhanced mode
+  useEffect(() => {
+    if (aiEnhanced && phase === "info") {
+      setFunFact(null);
+      loadFunFact();
+    }
+  }, [round, phase]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // ── AI: "Why?" after wrong answer ──────────────────────────────────────
   const handleAskWhy = useCallback(async () => {
     const currentQ = getCurrentQuestion();
@@ -329,9 +404,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
 
     recognition.onresult = (event: any) => {
       const text = event.results[0][0].transcript;
-      setVoiceText(text);
       setIsListening(false);
-      handleAskFree(text);
+      if (phase === "think-first") {
+        setThinkAnswer(text);
+        handleThinkSubmit(text);
+      } else {
+        setVoiceText(text);
+        handleAskFree(text);
+      }
     };
     recognition.onerror = () => setIsListening(false);
     recognition.onend = () => setIsListening(false);
@@ -341,13 +421,19 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
     setIsListening(true);
   }, [isListening, langCode, handleAskFree]);
 
-  // Clear AI state on round change
+  // Clear AI state on round/sub change
   useEffect(() => {
     setAiResponse(null);
     setAiLoading(false);
     setAiActive(false);
     setVoiceText("");
   }, [round, subIdx]);
+
+  // Clear think state on round change
+  useEffect(() => {
+    setThinkAnswer("");
+    setThinkFeedback(null);
+  }, [round]);
 
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
@@ -383,6 +469,87 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
       {/* Main container */}
       <div className="w-full max-w-md">
         <AnimatePresence mode="wait">
+          {/* ── THINK-FIRST PHASE (AI enhanced, 2nd+ play) ── */}
+          {phase === "think-first" && (
+            <motion.div
+              key={`think-${round}`}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+              transition={{ duration: 0.3 }}
+              className="flex flex-col items-center gap-4"
+            >
+              <div className="w-12 h-12 rounded-full flex items-center justify-center text-2xl" style={{ backgroundColor: `${color}20` }}>
+                🤔
+              </div>
+              <h2 className="text-xl font-black text-center" style={{ color }}>
+                {ui.whatDoYouThink}
+              </h2>
+              <p className="text-sm text-white/60 text-center px-4">
+                {L(currentRound.infoTitle)}
+              </p>
+
+              {/* Voice + text input */}
+              <div className="flex items-center gap-2 w-full">
+                <button
+                  onClick={toggleVoice}
+                  className={`w-10 h-10 rounded-full flex items-center justify-center transition-all shrink-0 ${
+                    isListening
+                      ? "bg-red-500 text-white animate-pulse"
+                      : "bg-white/10 text-white/60 hover:bg-white/20 hover:text-white"
+                  }`}
+                >
+                  {isListening ? <MicOff size={18} /> : <Mic size={18} />}
+                </button>
+                <input
+                  type="text"
+                  value={thinkAnswer}
+                  onChange={(e) => setThinkAnswer(e.target.value)}
+                  onKeyDown={(e) => { if (e.key === "Enter") handleThinkSubmit(thinkAnswer); }}
+                  placeholder={isListening ? ui.listening : ui.shareThought}
+                  className="flex-1 bg-white/10 border border-white/20 rounded-xl px-3 py-2.5 text-sm text-white placeholder:text-white/40 focus:outline-none focus:border-purple-500/50"
+                />
+                {thinkAnswer.trim() && !aiLoading && !thinkFeedback && (
+                  <button
+                    onClick={() => handleThinkSubmit(thinkAnswer)}
+                    className="w-10 h-10 rounded-full bg-purple-500/30 text-purple-300 flex items-center justify-center hover:bg-purple-500/40 transition-colors shrink-0"
+                  >
+                    <ChevronRight size={18} />
+                  </button>
+                )}
+              </div>
+
+              {aiLoading && (
+                <div className="flex items-center gap-2 text-purple-300 text-xs font-medium">
+                  <Loader2 size={14} className="animate-spin" />
+                  {ui.thinking}
+                </div>
+              )}
+
+              {/* AI feedback on student's guess */}
+              {thinkFeedback && (
+                <motion.div
+                  initial={{ opacity: 0, y: 10 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed"
+                >
+                  <div className="flex items-start gap-2">
+                    <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                    <p>{thinkFeedback}</p>
+                  </div>
+                </motion.div>
+              )}
+
+              <button
+                onClick={() => { setPhase("info"); }}
+                className="mt-2 px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2 group"
+              >
+                {thinkFeedback ? ui.letsFind : ui.gotIt}
+                <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
+              </button>
+            </motion.div>
+          )}
+
           {/* ── INFO PHASE ── */}
           {phase === "info" && (
             <motion.div
@@ -429,6 +596,27 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                 <p className="text-xs font-semibold text-center" style={{ color }}>
                   {L(currentRound.hintKey)}
                 </p>
+              )}
+
+              {/* ── Fun Fact (AI enhanced mode) ── */}
+              {aiEnhanced && (funFact || funFactLoading) && (
+                <motion.div
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className="w-full bg-amber-500/10 border border-amber-500/20 rounded-xl p-3"
+                >
+                  {funFactLoading ? (
+                    <div className="flex items-center gap-2 text-amber-300 text-xs font-medium justify-center">
+                      <Loader2 size={14} className="animate-spin" />
+                      {ui.funFact}...
+                    </div>
+                  ) : (
+                    <div className="flex items-start gap-2 text-sm text-amber-200/90 leading-relaxed">
+                      <span className="font-bold text-amber-400 shrink-0">{ui.funFact}:</span>
+                      <span>{funFact}</span>
+                    </div>
+                  )}
+                </motion.div>
               )}
 
               {/* ── AI Ask Section (info phase) ── */}
