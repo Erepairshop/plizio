@@ -101,7 +101,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🔄", color: "#1ABC9C", sortRange: [1, 10],
     topicKeys: ["symbiosis", "biogeochemical_cycles"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "ecology-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -113,7 +113,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🛡️", color: "#8E44AD", sortRange: [1, 10],
     topicKeys: ["immune_cells", "immune_response", "vaccination"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "immune-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -125,7 +125,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🧠", color: "#C0392B", sortRange: [1, 10],
     topicKeys: ["neuron", "synapse", "reflex", "brain"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "nerve-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -137,7 +137,7 @@ export const BIO_K7_ISLANDS: IslandDef[] = [
     icon: "🧬", color: "#D35400", sortRange: [1, 10],
     topicKeys: ["adaptation", "natural_selection", "behavior_learning"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "evolution-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
