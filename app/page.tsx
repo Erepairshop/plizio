@@ -366,13 +366,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF2222",
         gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
       },
-      {
-        id: "astro-biologie",
-        icon: Leaf,
-        nameKey: "astro-biologie",
-        color: "#10B981",
-        gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
-      },
       // {
       //   id: "pliziolife",
       //   icon: HomeIcon,
@@ -419,6 +412,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         id: "astro-sachkunde",
         icon: Search,
         nameKey: "astro-sachkunde",
+        color: "#10B981",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
+      },
+      {
+        id: "astro-biologie",
+        icon: Leaf,
+        nameKey: "astro-biologie",
         color: "#10B981",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
       },

@@ -179,8 +179,8 @@ const TIER_KLASSIFIZIERUNG_BIO: VisualQuestionType = {
   ],
   generate: (count) => {
     const all = shuffle([
-      ...WIRBELTIERE.map(a => ({ animal: a, correct: "wirbeltier" as const })),
-      ...WIRBELLOSE.map(a => ({ animal: a, correct: "wirbellos" as const })),
+      ...WIRBELTIERE.map(a => ({ animal: a, correct: "wirbeltier" as const, question: a })),
+      ...WIRBELLOSE.map(a => ({ animal: a, correct: "wirbellos" as const, question: a })),
     ]);
     return all.slice(0, count);
   },
@@ -212,7 +212,7 @@ const ORGAN_ZUORDNUNG: VisualQuestionType = {
     return pool.slice(0, count).map(pair => {
       const others = ALL_SYSTEMS.filter(s => s !== pair.system);
       const options = shuffle([pair.system, ...shuffle(others).slice(0, 4)]);
-      return { organ: pair.organ, options, correctIndex: options.indexOf(pair.system) };
+      return { organ: pair.organ, options, correctIndex: options.indexOf(pair.system), question: pair.organ };
     });
   },
   gradeAnswer: (q, given) => {
@@ -243,6 +243,7 @@ const ERNAEHRUNGS_SORT: VisualQuestionType = {
       item: item.item,
       correct: item.group,
       options: shuffle([...ALL_NUTRIENT_GROUPS]),
+      question: item.item,
     }));
   },
   gradeAnswer: (q, given) => ({ correct: given === q.correct, expected: q.correct }),
@@ -267,8 +268,9 @@ const NAHRUNGSKETTE_SORT: VisualQuestionType = {
   subtopicIds: ["food_chain", "forest_layers", "freshwater", "saltwater", "water_organisms", "decomposition", "ecological_niche", "population"],
   generate: (count) => {
     return shuffle(FOOD_CHAINS).slice(0, count).map(fc => ({
-      organisms: [...fc.chain],   // component shuffles internally
+      organisms: [...fc.chain],
       correctOrder: fc.chain,
+      question: `Nahrungskette ${fc.name}`,
     }));
   },
   gradeAnswer: (q, given) => {
@@ -308,6 +310,7 @@ const ORGAN_DIAGRAM: VisualQuestionType = {
         organHint: organ.organHint,
         options,
         correctIndex: options.indexOf(organ.correct),
+        question: organ.correct,
       };
     });
   },
@@ -345,6 +348,7 @@ const PFLANZEN_ANATOMIE: VisualQuestionType = {
         partHint: part.partHint,
         options,
         correctIndex: options.indexOf(part.correct),
+        question: part.correct,
       };
     });
   },
@@ -385,6 +389,7 @@ const ZELL_DIAGRAM: VisualQuestionType = {
         cellType: org.cellType,
         options,
         correctIndex: options.indexOf(org.correct),
+        question: org.correct,
       };
     });
   },
@@ -419,9 +424,10 @@ const LEBENSZYKLUS_TIMELINE: VisualQuestionType = {
   generate: (count) => {
     return shuffle(LIFECYCLE_ORGANISMS).slice(0, count).map(lc => ({
       organism: lc.organism,
-      stages: [...lc.stages],   // component shuffles internally
+      stages: [...lc.stages],
       stageEmojis: lc.emojis,
       correctOrder: lc.stages,
+      question: lc.organism,
     }));
   },
   gradeAnswer: (q, given) => {
