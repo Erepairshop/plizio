@@ -128,15 +128,15 @@ type Screen =
   | "word-build"
   | "reading-comp"
   | "tense-explorer"
-  | "pronoun-k4-explorer"
-  | "modal-k4-explorer"
-  | "adjective-k4-explorer"
-  | "sentence-k4-explorer"
-  | "speech-k4-explorer"
-  | "capital-k4-explorer"
-  | "synonym-k4-explorer"
-  | "context-k4-explorer"
-  | "big-test-k4-explorer"
+  | "en4-pronoun-explorer"
+  | "en4-modal-explorer"
+  | "en4-adjective-k4-explorer"
+  | "en4-sentence-k4-explorer"
+  | "en4-speech-explorer"
+  | "en4-capital-explorer"
+  | "en4-synonym-explorer"
+  | "en4-context-explorer"
+  | "en4-big-test-explorer"
   | "memory-pair"
   | "pronunciation"
   | "island-transition"
@@ -900,7 +900,7 @@ export default function AstroEnglishK4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const explorerTypes = ["grammar-match", "fill-gap", "category-rush", "sentence-builder", "word-sort", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"];
+    const explorerTypes = ["grammar-match", "fill-gap", "category-rush", "sentence-builder", "word-sort", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en4-pronoun-explorer", "en4-modal-explorer", "en4-adjective-k4-explorer", "en4-sentence-k4-explorer", "en4-speech-explorer", "en4-capital-explorer", "en4-synonym-explorer", "en4-context-explorer", "en4-big-test-explorer"];
     const noQuestionsTypes: string[] = ["gravity-sort", ...explorerTypes];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -1260,38 +1260,38 @@ export default function AstroEnglishK4Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK4(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
-        {screen === "pronoun-k4-explorer" && (
+        {screen === "en4-pronoun-explorer" && (
           <PronounK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "modal-k4-explorer" && (
+        {screen === "en4-modal-explorer" && (
           <ModalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "adjective-k4-explorer" && (
+        {screen === "en4-adjective-k4-explorer" && (
           <AdjectiveK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "sentence-k4-explorer" && (
+        {screen === "en4-sentence-k4-explorer" && (
           <SentenceK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "speech-k4-explorer" && (
+        {screen === "en4-speech-explorer" && (
           <SpeechK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "capital-k4-explorer" && (
+        {screen === "en4-capital-explorer" && (
           <CapitalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "synonym-k4-explorer" && (
+        {screen === "en4-synonym-explorer" && (
           <SynonymK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "context-k4-explorer" && (
+        {screen === "en4-context-explorer" && (
           <ContextK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "big-test-k4-explorer" && (
+        {screen === "en4-big-test-explorer" && (
           <BigTestK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "pronoun-k4-explorer", "modal-k4-explorer", "adjective-k4-explorer", "sentence-k4-explorer", "speech-k4-explorer", "capital-k4-explorer", "synonym-k4-explorer", "context-k4-explorer", "big-test-k4-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "en4-pronoun-explorer", "en4-modal-explorer", "en4-adjective-k4-explorer", "en4-sentence-k4-explorer", "en4-speech-explorer", "en4-capital-explorer", "en4-synonym-explorer", "en4-context-explorer", "en4-big-test-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

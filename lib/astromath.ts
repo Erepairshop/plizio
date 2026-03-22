@@ -95,7 +95,21 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "o3-composition-explorer" | "o3-sentence-analysis-explorer" | "o3-review-explorer"
   | "o4-verb-conjugation-explorer" | "o4-pronouns-explorer" | "o4-adverbials-explorer"
   | "o4-complex-sentences-explorer" | "o4-word-formation-explorer" | "o4-spelling-mastery-explorer"
-  | "o4-composition-explorer" | "o4-grammar-review-explorer" | "o4-review-explorer";
+  | "o4-composition-explorer" | "o4-grammar-review-explorer" | "o4-review-explorer"
+  | "en2-noun-explorer" | "en2-verb-explorer" | "en2-adjective-explorer" | "en2-sentence-explorer"
+  | "en2-vowel-explorer" | "en2-prefix-explorer" | "en2-meaning-explorer" | "en2-grammar-review-explorer" | "en2-big-test-explorer"
+  | "en3-plural-explorer" | "en3-tense-explorer" | "en3-adverb-explorer" | "en3-subject-explorer"
+  | "en3-quotation-explorer" | "en3-prefix-k3-explorer" | "en3-word-family-explorer" | "en3-vocab-explorer" | "en3-big-test-explorer"
+  | "en4-pronoun-explorer" | "en4-modal-explorer" | "en4-adjective-k4-explorer" | "en4-sentence-k4-explorer"
+  | "en4-speech-explorer" | "en4-capital-explorer" | "en4-synonym-explorer" | "en4-context-explorer" | "en4-big-test-explorer"
+  | "en5-conjunction-explorer" | "en5-interjection-explorer" | "en5-tense-k5-explorer" | "en5-sentence-k5-explorer"
+  | "en5-punctuation-k5-explorer" | "en5-spelling-k5-explorer" | "en5-root-word-explorer" | "en5-figurative-explorer" | "en5-academic-explorer"
+  | "en6-pronoun-k6-explorer" | "en6-pronoun-precision-explorer" | "en6-sentence-structure-explorer" | "en6-complex-clause-explorer"
+  | "en6-word-builder-explorer" | "en6-vocabulary-explorer" | "en6-academic-k6-explorer" | "en6-punctuation-k6-explorer" | "en6-rhetoric-explorer"
+  | "en7-grammar-explorer" | "en7-sentence-explorer" | "en7-tense-voice-explorer" | "en7-punctuation-explorer"
+  | "en7-figurative-explorer" | "en7-academic-explorer" | "en7-argument-explorer" | "en7-clause-explorer" | "en7-verbal-explorer"
+  | "en8-verbal-explorer" | "en8-phrase-explorer" | "en8-voice-mood-explorer" | "en8-writing-explorer"
+  | "en8-literature-explorer" | "en8-style-explorer" | "en8-register-explorer" | "en8-punctuation-explorer" | "en8-etymology-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

@@ -41,7 +41,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🔗", color: "#6366F1", sortRange: [1, 20],
     topicKeys: ["conjunctions_g5", "correlative_conj_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "fill-gap",  icon: "🪐", label: { en: "Fill & Discover", hu: "Töltsd ki és fedezd fel",     de: "Ausfüllen und Entdecken", ro: "Completează și descoperă"    } },
+      { id: "m1", category: "explore",   gameType: "en5-conjunction-explorer" as any,  icon: "🪐", label: { en: "Fill & Discover", hu: "Töltsd ki és fedezd fel",     de: "Ausfüllen und Entdecken", ro: "Completează și descoperă"    } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",      hu: "Villámkör",        de: "Blitzrunde",        ro: "Rundă rapidá"       } },
     ],
@@ -53,7 +53,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "❗", color: "#FF2D78", sortRange: [1, 20],
     topicKeys: ["interjections_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "category-rush",  icon: "🪐", label: { en: "Sort by Emotion", hu: "Rendezd érzelmi típus szerint",   de: "Nach Gefühl sortieren", ro: "Sortează după emoție"   } },
+      { id: "m1", category: "explore",   gameType: "en5-interjection-explorer" as any,  icon: "🪐", label: { en: "Sort by Emotion", hu: "Rendezd érzelmi típus szerint",   de: "Nach Gefühl sortieren", ro: "Sortează după emoție"   } },
       { id: "m2", category: "build",     gameType: "black-hole",  icon: "🕳️", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",  icon: "🪨", label: { en: "Black Hole",      hu: "Fekete lyuk",       de: "Schwarzes Loch",    ro: "Gaură neagră"       } },
     ],
@@ -65,7 +65,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "⏰", color: "#3B82F6", sortRange: [1, 20],
     topicKeys: ["perfect_tenses_g5", "tense_shifts_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Tenses",       hu: "Párosítsd az időformákat",     de: "Tempora zuordnen",       ro: "Potrivește timpuri"       } },
+      { id: "m1", category: "explore",   gameType: "en5-tense-k5-explorer" as any,  icon: "🪐", label: { en: "Match Tenses",       hu: "Párosítsd az időformákat",     de: "Tempora zuordnen",       ro: "Potrivește timpuri"       } },
       { id: "m2", category: "build",     gameType: "spell-race" as any,  icon: "🏁", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",      hu: "Villámkör",        de: "Blitzrunde",        ro: "Rundă rapidă"       } },
     ],
@@ -77,7 +77,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🏔️", color: "#10B981", sortRange: [1, 20],
     topicKeys: ["complex_sentences_g5", "intro_clauses_g5", "combining_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sentence-builder",  icon: "🪐", label: { en: "Build Sentences",    hu: "Építs komplex mondatokat",       de: "Sätze bauen",         ro: "Construiți propoziții"    } },
+      { id: "m1", category: "explore",   gameType: "en5-sentence-k5-explorer" as any,  icon: "🪐", label: { en: "Build Sentences",    hu: "Építs komplex mondatokat",       de: "Sätze bauen",         ro: "Construiți propoziții"    } },
       { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "speed-round",  icon: "⚡", label: { en: "Black Hole",      hu: "Fekete lyuk",       de: "Schwarzes Loch",    ro: "Gaură neagră"       } },
     ],
@@ -89,7 +89,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "✏️", color: "#F59E0B", sortRange: [1, 20],
     topicKeys: ["commas_g5", "titles_italics_g5", "apostrophes_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "fill-gap", icon: "🪐", label: { en: "Fill Punctuation", hu: "Töltsd ki a jeleket",   de: "Satzzeichen einfügen", ro: "Completează punctuația"    } },
+      { id: "m1", category: "explore",   gameType: "en5-punctuation-k5-explorer" as any, icon: "🪐", label: { en: "Fill Punctuation", hu: "Töltsd ki a jeleket",   de: "Satzzeichen einfügen", ro: "Completează punctuația"    } },
       { id: "m2", category: "build",     gameType: "sentence-builder" as any,  icon: "📝", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",         ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",      hu: "Villámkör",        de: "Blitzrunde",         ro: "Rundă rapidă"       } },
     ],
@@ -101,7 +101,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "📝", color: "#E879F9", sortRange: [1, 20],
     topicKeys: ["spelling_strategies_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "spell-race",  icon: "🪐", label: { en: "Spell It Right",    hu: "Helyesen betűzd",   de: "Richtig buchstabieren", ro: "Scrie corect"    } },
+      { id: "m1", category: "explore",   gameType: "en5-spelling-k5-explorer" as any,  icon: "🪐", label: { en: "Spell It Right",    hu: "Helyesen betűzd",   de: "Richtig buchstabieren", ro: "Scrie corect"    } },
       { id: "m2", category: "build",     gameType: "fill-gap" as any,  icon: "✏️", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",  icon: "🪨", label: { en: "Black Hole",      hu: "Fekete lyuk",       de: "Schwarzes Loch",    ro: "Gaură neagră"       } },
     ],
@@ -113,7 +113,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🌿", color: "#00D4FF", sortRange: [1, 20],
     topicKeys: ["greek_latin_g5", "prefixes_suffixes_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Roots",  hu: "Párosítsd a gyökereket",    de: "Wurzeln zuordnen",    ro: "Potrivește rădăcinile"       } },
+      { id: "m1", category: "explore",   gameType: "en5-root-word-explorer" as any,  icon: "🪐", label: { en: "Match Roots",  hu: "Párosítsd a gyökereket",    de: "Wurzeln zuordnen",    ro: "Potrivește rădăcinile"       } },
       { id: "m2", category: "build",     gameType: "category-rush" as any,  icon: "🏃", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
     ],
@@ -125,7 +125,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#FF6B6B", sortRange: [1, 20],
     topicKeys: ["figurative_language_g5", "connotation_denotation_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "grammar-match",  icon: "🪐", label: { en: "Match Figurative",   hu: "Párosítsd a képleteseket", de: "Figürliches zuordnen",        ro: "Potrivește figurat"       } },
+      { id: "m1", category: "explore",   gameType: "en5-figurative-explorer" as any,  icon: "🪐", label: { en: "Match Figurative",   hu: "Párosítsd a képleteseket", de: "Figürliches zuordnen",        ro: "Potrivește figurat"       } },
       { id: "m2", category: "build",     gameType: "word-sort" as any,  icon: "📊", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",      hu: "Villámkör",        de: "Blitzrunde",        ro: "Rundă rapidă"       } },
     ],
@@ -137,7 +137,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🎓", color: "#FFD700", sortRange: [1, 20],
     topicKeys: ["academic_g5", "formal_informal_g5"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "word-sort",  icon: "🪐", label: { en: "Sort Formal/Informal",    hu: "Rendezd: formális/informális",   de: "Formal/Informal sortieren",   ro: "Sortează: formal/informal"      } },
+      { id: "m1", category: "explore",   gameType: "en5-academic-explorer" as any,  icon: "🪐", label: { en: "Sort Formal/Informal",    hu: "Rendezd: formális/informális",   de: "Formal/Informal sortieren",   ro: "Sortează: formal/informal"      } },
       { id: "m2", category: "build",     gameType: "grammar-match" as any,  icon: "🔗", label: { en: "Star Match",       hu: "Csillag párosítás", de: "Stern-Match",        ro: "Potrivire stele"    } },
       { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { en: "Speed Round",      hu: "Villámkör",        de: "Blitzrunde",        ro: "Rundă rapidă"       } },
     ],
