@@ -234,7 +234,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "🔤", color: "#FF2D78", sortRange: [1, 10],
     topicKeys: ["szofajok/fonev", "szofajok/ige", "szofajok/melleknev", "szofajok/nevelő", "szofajok/nevuto"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "o2-word-types-explorer" as any,  icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "star-match",    icon: "⭐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",    icon: "🕳️", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -246,7 +246,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["olvasas/szokincs", "olvasas/szovegertes"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "picture-word" as any, icon: "🖼️", label: { hu: "Szókincs",  en: "Vocabulary", de: "Wortschatz", ro: "Vocabular"  } },
+      { id: "m1", category: "explore",   gameType: "o2-reading-explorer" as any, icon: "🔍", label: { hu: "Felfedezés",  en: "Explore", de: "Entdecken", ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "gravity-sort",       icon: "🌪️", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",         icon: "🚀", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -258,7 +258,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "✏️", color: "#00FF88", sortRange: [1, 10],
     topicKeys: ["helyesiras/ly_j", "helyesiras/rovid_hosszu", "helyesiras/maganhangzo_harmonia", "helyesiras/hosszu_massalhangzo"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
+      { id: "m1", category: "explore",   gameType: "o2-spelling-explorer" as any,  icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",          icon: "🚀", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
       { id: "m3", category: "challenge", gameType: "sentence-builder",    icon: "📝", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -270,7 +270,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "📝", color: "#FFD700", sortRange: [1, 10],
     topicKeys: ["mondat/mondatfajtak", "mondat/mondatresz", "mondat/szorend"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",  en: "Vocabulary", de: "Wortschatz", ro: "Vocabular"  } },
+      { id: "m1", category: "explore",   gameType: "o2-grammar-explorer" as any,  icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "category-rush",       icon: "🏃", label: { hu: "Mondatépítő", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "star-match",          icon: "⭐", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -282,7 +282,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "🔗", color: "#B44DFF", sortRange: [1, 10],
     topicKeys: ["szo/osszetetel", "szo/kepzok", "szo/tobbesszam", "szo/kotojelek"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "reading-comp" as any, icon: "📖", label: { hu: "Olvasás", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
+      { id: "m1", category: "explore",   gameType: "o2-compound-words-explorer" as any, icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "sentence-builder",    icon: "📝", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",         icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -294,7 +294,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["ragozas/fonevreg", "ragozas/igereg"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
+      { id: "m1", category: "explore",   gameType: "o2-conjugation-explorer" as any,  icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "black-hole",          icon: "🕳️", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",        icon: "🌪️", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -306,7 +306,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#FF9500", sortRange: [1, 10],
     topicKeys: ["szokincs/szinonimak", "szokincs/ellentetek2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,     icon: "🧠", label: { hu: "Memória",   en: "Memory",     de: "Gedächtnis",  ro: "Memorie"    } },
+      { id: "m1", category: "explore",   gameType: "o2-synonyms-explorer" as any,     icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "speed-round",             icon: "⚡", label: { hu: "Mondatépítő", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
       { id: "m3", category: "challenge", gameType: "category-rush",           icon: "🏃", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -318,7 +318,7 @@ export const O2_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#E879F9", sortRange: [1, 10],
     topicKeys: ["szokincs/foglalkozasok", "szokincs/evszakok", "szokincs/iskola", "szokincs/termeszet", "szokincs/sport"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "reading-comp" as any, icon: "📖", label: { hu: "Olvasás",   en: "Reading",    de: "Lesen",       ro: "Lectură"    } },
+      { id: "m1", category: "explore",   gameType: "o2-vocabulary-explorer" as any, icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "star-match",          icon: "⭐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersazza"   } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",          icon: "🚀", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
     ],
@@ -334,7 +334,7 @@ export const O2_ISLANDS: IslandDef[] = [
       "olvasas/mesek",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "o2-review-explorer" as any,  icon: "🔍", label: { hu: "Felfedezés",  en: "Explore",    de: "Entdecken",   ro: "Explorează"  } },
       { id: "m2", category: "build",     gameType: "gravity-sort",     icon: "🌪️", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "sentence-builder", icon: "📝", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
