@@ -422,8 +422,12 @@ export default function O6Page() {
       {/* ISLAND MAP SCREEN */}
       {screen === "island-map" && (
         <motion.div className="relative z-30 flex flex-col h-screen" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <div className="flex items-center justify-center px-4 py-4">
+          <div className="flex items-center justify-between px-4 py-4 sm:px-6">
+            <button onClick={() => router.push("/astromagyar")} className="flex items-center gap-1 text-white/60 hover:text-white transition-colors text-xs font-bold">
+              <ChevronLeft size={18} /> {lang === "hu" ? "Vissza" : "Back"}
+            </button>
             <h1 className="text-xl font-black text-white">{O6_LABEL[lang] || O6_LABEL.en}</h1>
+            <div className="w-8" />
           </div>
           <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
             <div className="max-w-sm mx-auto px-2">

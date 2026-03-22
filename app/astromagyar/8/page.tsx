@@ -316,7 +316,13 @@ export default function AstroMagyar8Page() {
     return (
       <div className="min-h-screen bg-gradient-to-b from-[#060614] to-[#1a1a2e] relative overflow-hidden flex flex-col">
         <Starfield />
-        <div className="flex-1 flex flex-col items-center justify-center px-4 py-6">
+        <div className="flex items-center justify-between px-4 pt-4 sm:px-6 relative z-30">
+          <button onClick={() => router.push("/astromagyar")} className="flex items-center gap-1 text-white/60 hover:text-white transition-colors text-xs font-bold">
+            <ChevronLeft size={18} /> {lang === "hu" ? "Vissza" : "Back"}
+          </button>
+          <div className="w-8" />
+        </div>
+        <div className="flex-1 flex flex-col items-center px-4 py-6 overflow-y-auto">
           <motion.h1 className="text-3xl font-black text-white mb-2" initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }}>
             {O8_LABEL[lang as keyof typeof O8_LABEL] || O8_LABEL.en}
           </motion.h1>
@@ -324,8 +330,8 @@ export default function AstroMagyar8Page() {
             {lang === "hu" ? "Fedezd fel a magyar nyelv haladó szintjét!" : "Explore advanced Hungarian language!"}
           </motion.p>
 
-          <div className="max-w-sm w-full aspect-square max-h-96 relative">
-            <svg viewBox={`0 ${-MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} className="w-full h-full" preserveAspectRatio="xMidYMid meet">
+          <div className="max-w-sm w-full mx-auto relative">
+            <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
               <defs>
                 {O8_ISLANDS.map((island) => (
                   <filter key={`pathGlowO8_${island.id}`} id={`pathGlowO8_${island.id}`}>
