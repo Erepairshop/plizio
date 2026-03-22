@@ -189,6 +189,22 @@ function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
     setSelectedQ(null);
   };
 
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
@@ -276,6 +292,22 @@ function Round2({
     }, correct ? 800 : 1000);
   };
 
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
@@ -367,6 +399,22 @@ function Round3({
 
   const parts = item.sentence.split(item.highlight);
 
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
@@ -461,6 +509,22 @@ function Round4({
     }, correct ? 800 : 1000);
   };
 
+
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
+        </div>
+        <motion.button onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
   return (
     <div className="flex flex-col items-center gap-4 w-full">
       <p className="text-2xl font-black text-white">{lbl.round4Title}</p>

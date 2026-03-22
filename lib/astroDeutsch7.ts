@@ -38,7 +38,7 @@ export const K7_ISLANDS: IslandDef[] = [
     topicKeys: ["indirekte_rede/konjunktiv_1", "indirekte_rede/aussagen_umf"],
     missions: [
       { id: "m1", category: "explore",   gameType: "k7-konjunktiv-i-explorer",  icon: "🪐", label: { de: "Konjunktiv I Quiz", en: "Subjunctive I Quiz", hu: "Konjunktív I kvíz", ro: "Quiz conjunctiv I" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"  } },
+      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele"  } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",        hu: "Gyors kör",         ro: "Rundă rapidă"     } },
     ],
     svgX: 160, svgY: 530,
