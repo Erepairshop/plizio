@@ -13,14 +13,20 @@ const LABELS = {
     // round titles & hints
     r1Title: "What material is this?",
     r1Hint: "What is this item made of?",
+    r1Teach: "Things around us are made from different materials: paper (from trees), plastic (man-made), glass (from sand), metal (from the earth), and organic waste (from plants and food). Each material feels and looks different!",
     r2Title: "Which bin?",
     r2Hint: "Which bin does this item belong in?",
+    r2Teach: "We sort waste into coloured bins: 🟡 Yellow bin = plastic & packaging, 🔵 Blue bin = paper & cardboard, 🟤 Brown bin = food & garden waste, 🟢 Green/Glass container = glass bottles & jars, ⚫ Gray bin = everything else.",
     r3Title: "Recyclable?",
     r3Hint: "Can this item be recycled?",
+    r3Teach: "Recycling means turning old things into new ones! Paper, glass, metal and clean plastic CAN be recycled. But dirty items, broken umbrellas or mixed materials usually CANNOT. Always rinse containers before recycling!",
     r4Title: "Good for nature?",
     r4Hint: "Is this behaviour good or bad for nature?",
+    r4Teach: "We can help protect nature every day! Saving water, riding a bike, planting trees and composting are GOOD for nature. Littering, wasting electricity and using single-use plastic are BAD. Small actions make a big difference!",
     r5Title: "Quick Review",
     r5Hint: "What have you learned?",
+    r5Teach: "Let's see what you remember! Think about materials, bins, recycling and nature-friendly behaviour.",
+    gotIt: "Got it! →",
     // materials
     paper: "Paper",
     plastic: "Plastic",
@@ -72,14 +78,20 @@ const LABELS = {
     title: "Recycling-Entdecker",
     r1Title: "Aus welchem Material ist das?",
     r1Hint: "Erkenne das Material!",
+    r1Teach: "Dinge um uns herum bestehen aus verschiedenen Materialien: Papier (aus Bäumen), Kunststoff (künstlich hergestellt), Glas (aus Sand), Metall (aus der Erde) und Bioabfall (aus Pflanzen und Essen). Jedes Material fühlt sich anders an!",
     r2Title: "In welche Tonne?",
     r2Hint: "In welche Tonne gehört das?",
+    r2Teach: "Wir trennen Abfall in farbige Tonnen: 🟡 Gelbe Tonne = Kunststoff & Verpackungen, 🔵 Blaue Tonne = Papier & Karton, 🟤 Braune Tonne = Essens- & Gartenabfälle, 🟢 Glascontainer = Glasflaschen & Gläser, ⚫ Graue Tonne = alles andere.",
     r3Title: "Recycelbar?",
     r3Hint: "Kann man das recyceln?",
+    r3Teach: "Recycling bedeutet, aus alten Dingen neue zu machen! Papier, Glas, Metall und sauberer Kunststoff KÖNNEN recycelt werden. Aber schmutzige Sachen, kaputte Regenschirme oder gemischte Materialien meist NICHT. Spüle Behälter immer aus!",
     r4Title: "Gut für die Natur?",
     r4Hint: "Ist dieses Verhalten gut oder schlecht für die Natur?",
+    r4Teach: "Wir können jeden Tag die Natur schützen! Wasser sparen, Fahrrad fahren, Bäume pflanzen und kompostieren sind GUT für die Natur. Müll wegwerfen, Strom verschwenden und Einweg-Plastik benutzen sind SCHLECHT. Kleine Taten machen einen großen Unterschied!",
     r5Title: "Schnell-Wiederholung",
     r5Hint: "Was hast du gelernt?",
+    r5Teach: "Mal sehen, was du dir gemerkt hast! Denke an Materialien, Tonnen, Recycling und naturfreundliches Verhalten.",
+    gotIt: "Verstanden! →",
     paper: "Papier",
     plastic: "Kunststoff",
     glass: "Glas",
@@ -124,14 +136,20 @@ const LABELS = {
     title: "Újrahasznosítás felfedező",
     r1Title: "Milyen anyagból van?",
     r1Hint: "Miből készült ez a tárgy?",
+    r1Teach: "A körülöttünk lévő dolgok különböző anyagokból készülnek: papír (fából), műanyag (mesterségesen készült), üveg (homokból), fém (a földből) és szerves hulladék (növényekből, ételből). Minden anyag másképp néz ki és érződik!",
     r2Title: "Melyik kukába?",
     r2Hint: "Melyik kukába kerül ez a tárgy?",
+    r2Teach: "A hulladékot színes kukákba válogatjuk: 🟡 Sárga kuka = műanyag és csomagolás, 🔵 Kék kuka = papír és karton, 🟤 Barna kuka = étel- és kerti hulladék, 🟢 Üveggyűjtő = üvegpalackok és befőttes üvegek, ⚫ Szürke kuka = minden más.",
     r3Title: "Újrahasznosítható?",
     r3Hint: "Ez az anyag újrahasznosítható?",
+    r3Teach: "Az újrahasznosítás azt jelenti, hogy a régi dolgokból újat készítünk! A papír, az üveg, a fém és a tiszta műanyag IGEN, újrahasznosítható. De a koszos dolgok, törött esernyők vagy kevert anyagok általában NEM. Mindig öblítsd ki a tartályokat!",
     r4Title: "Jó a természetnek?",
     r4Hint: "Ez a viselkedés jó vagy rossz a természetnek?",
+    r4Teach: "Minden nap segíthetünk a természetnek! Vizet takarítani, kerékpározni, fát ültetni és komposztálni JÓ a természetnek. Szemetet szórni, áramot pazarolni és egyszer használatos műanyagot használni ROSSZ. A kis tettek is sokat számítanak!",
     r5Title: "Gyors összefoglaló",
     r5Hint: "Mit tanultál?",
+    r5Teach: "Nézzük meg, mire emlékszel! Gondolj az anyagokra, kukákra, újrahasznosításra és természetbarát viselkedésre.",
+    gotIt: "Értem! →",
     paper: "Papír",
     plastic: "Műanyag",
     glass: "Üveg",
@@ -176,14 +194,20 @@ const LABELS = {
     title: "Exploratorul reciclării",
     r1Title: "Din ce material este?",
     r1Hint: "Din ce este făcut acest obiect?",
+    r1Teach: "Lucrurile din jurul nostru sunt făcute din materiale diferite: hârtie (din copaci), plastic (fabricat), sticlă (din nisip), metal (din pământ) și deșeuri organice (din plante și mâncare). Fiecare material arată și se simte diferit!",
     r2Title: "În ce coș?",
     r2Hint: "În ce coș se aruncă acest obiect?",
+    r2Teach: "Sortăm deșeurile în coșuri colorate: 🟡 Coș galben = plastic și ambalaje, 🔵 Coș albastru = hârtie și carton, 🟤 Coș maro = resturi alimentare și de grădină, 🟢 Container sticlă = sticle și borcane, ⚫ Coș gri = restul.",
     r3Title: "Reciclabil?",
     r3Hint: "Se poate recicla acest obiect?",
+    r3Teach: "Reciclarea înseamnă a transforma lucruri vechi în lucruri noi! Hârtia, sticla, metalul și plasticul curat POT fi reciclate. Dar obiectele murdare, umbrelele rupte sau materialele amestecate de obicei NU. Clătește întotdeauna recipientele!",
     r4Title: "Bun pentru natură?",
     r4Hint: "Este acest comportament bun sau rău pentru natură?",
+    r4Teach: "Putem ajuta natura în fiecare zi! Economisirea apei, mersul cu bicicleta, plantarea copacilor și compostarea sunt BUNE pentru natură. Aruncarea gunoiului, risipa de electricitate și plasticul de unică folosință sunt RELE. Acțiunile mici contează!",
     r5Title: "Recapitulare rapidă",
     r5Hint: "Ce ai învățat?",
+    r5Teach: "Să vedem ce ți-ai amintit! Gândește-te la materiale, coșuri, reciclare și comportament prietenos cu natura.",
+    gotIt: "Am înțeles! →",
     paper: "Hârtie",
     plastic: "Plastic",
     glass: "Sticlă",
@@ -384,13 +408,15 @@ interface RoundProps {
   onRoundDone: (score: number, total: number) => void;
   titleKey: string;
   hintKey: string;
+  teachKey: string;
   speak: (text: string) => void;
 }
 
-function Round({ color, t, questions, onRoundDone, titleKey, hintKey, speak }: RoundProps) {
+function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
   // lbl: safe string lookup that works for all language union members
   const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
 
+  const [showTeach, setShowTeach] = useState(true);
   const [qIdx, setQIdx]     = useState(0);
   const [chosen, setChosen] = useState<string | null>(null);
   const [locked, setLocked] = useState(false);
@@ -485,6 +511,32 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, speak }: R
     );
   }
 
+  // ── Teaching phase ──
+  if (showTeach) {
+    return (
+      <div className="flex flex-col items-center gap-4 w-full">
+        <div className="flex items-center gap-2 justify-center">
+          <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
+          <button onClick={() => speak(lbl(titleKey) + ". " + lbl(teachKey))}
+            className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+            <Volume2 size={16} />
+          </button>
+        </div>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl(teachKey)}</p>
+        </div>
+        <motion.button
+          onClick={() => setShowTeach(false)}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}
+        >
+          {lbl("gotIt")} <ChevronRight size={16} />
+        </motion.button>
+      </div>
+    );
+  }
+
+  // ── Quiz phase ──
   return (
     <div className="flex flex-col items-center gap-3 w-full">
       <div className="flex items-center gap-2 justify-center">
@@ -592,12 +644,12 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
     ]);
   }, []);
 
-  const roundData: Array<{ questions: AnyQ[]; titleKey: string; hintKey: string }> = [
-    { questions: r1Questions, titleKey: "r1Title", hintKey: "r1Hint" },
-    { questions: r2Questions, titleKey: "r2Title", hintKey: "r2Hint" },
-    { questions: r3Questions, titleKey: "r3Title", hintKey: "r3Hint" },
-    { questions: r4Questions, titleKey: "r4Title", hintKey: "r4Hint" },
-    { questions: r5Questions, titleKey: "r5Title", hintKey: "r5Hint" },
+  const roundData: Array<{ questions: AnyQ[]; titleKey: string; hintKey: string; teachKey: string }> = [
+    { questions: r1Questions, titleKey: "r1Title", hintKey: "r1Hint", teachKey: "r1Teach" },
+    { questions: r2Questions, titleKey: "r2Title", hintKey: "r2Hint", teachKey: "r2Teach" },
+    { questions: r3Questions, titleKey: "r3Title", hintKey: "r3Hint", teachKey: "r3Teach" },
+    { questions: r4Questions, titleKey: "r4Title", hintKey: "r4Hint", teachKey: "r4Teach" },
+    { questions: r5Questions, titleKey: "r5Title", hintKey: "r5Hint", teachKey: "r5Teach" },
   ];
 
   const handleRoundDone = useCallback((score: number, total: number) => {
@@ -649,6 +701,7 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
             onRoundDone={handleRoundDone}
             titleKey={current.titleKey}
             hintKey={current.hintKey}
+            teachKey={current.teachKey}
             speak={speak}
           />
         </motion.div>
