@@ -37,6 +37,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import CompoundSentenceExplorer from "@/app/astromagyar/games/o6/CompoundSentenceExplorer";
+import StylisticFiguresExplorer from "@/app/astromagyar/games/o6/StylisticFiguresExplorer";
+import AdvancedVocabExplorer from "@/app/astromagyar/games/o6/AdvancedVocabExplorer";
+import LanguageHistoryExplorer from "@/app/astromagyar/games/o6/LanguageHistoryExplorer";
+import RhetoricExplorer from "@/app/astromagyar/games/o6/RhetoricExplorer";
+import TextCompExplorer from "@/app/astromagyar/games/o6/TextCompExplorer";
+import SpellingMasterExplorer from "@/app/astromagyar/games/o6/SpellingMasterExplorer";
+import CompositionExplorer from "@/app/astromagyar/games/o6/CompositionExplorer";
+import ReviewO6Explorer from "@/app/astromagyar/games/o6/ReviewO6Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -93,6 +102,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "compound-sentence"
+  | "stylistic-figures"
+  | "advanced-vocab"
+  | "language-history"
+  | "rhetoric"
+  | "text-comp"
+  | "spelling-master"
+  | "composition"
+  | "review-o6"
   | "mission-done"
   | "island-done"
   | "reward"

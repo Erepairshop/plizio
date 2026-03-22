@@ -72,7 +72,13 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "k6-wortbildung-explorer" | "k6-punctuation-explorer" | "k6-review-explorer"
   | "k7-konjunktiv-i-explorer" | "k7-werden-passive-explorer" | "k7-passiv-modal-explorer"
   | "k7-stilmittel-explorer" | "k7-kausal-konditional-explorer" | "k7-konzessiv-final-explorer"
-  | "k7-temporalsatz-explorer" | "k7-infinitiv-construction-explorer" | "k7-review-explorer";
+  | "k7-temporalsatz-explorer" | "k7-infinitiv-construction-explorer" | "k7-review-explorer"
+  | "old-hungarian-explorer" | "style-devices-explorer" | "text-analysis-explorer"
+  | "spelling-summary-explorer" | "language-norm-explorer" | "scientific-text-explorer"
+  | "debate-culture-explorer" | "comprehensive-test-explorer" | "grand-final-explorer"
+  | "phonetics-explorer-o5" | "textscience-explorer-o5" | "stylebasics-explorer-o5"
+  | "o5spelling-explorer" | "literature-explorer-o5" | "revieo5-explorer"
+  | "memory-pair" | "picture-word" | "reading-comp";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

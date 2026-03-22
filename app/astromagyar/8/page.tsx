@@ -684,6 +684,87 @@ export default function AstroMagyar8Page() {
       />
     );
   }
+  if (screen === "old-hungarian-explorer") {
+    return (
+      <OldHungarianExplorer
+        color={activeIsland?.color || "#FF2D78"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "style-devices-explorer") {
+    return (
+      <StyleDevicesExplorer
+        color={activeIsland?.color || "#00D4FF"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "text-analysis-explorer") {
+    return (
+      <TextAnalysisExplorer
+        color={activeIsland?.color || "#00FF88"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "spelling-summary-explorer") {
+    return (
+      <SpellingSummaryExplorer
+        color={activeIsland?.color || "#FFD700"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "language-norm-explorer") {
+    return (
+      <LanguageNormExplorer
+        color={activeIsland?.color || "#B44DFF"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "scientific-text-explorer") {
+    return (
+      <ScientificTextExplorer
+        color={activeIsland?.color || "#10B981"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "debate-culture-explorer") {
+    return (
+      <DebateCultureExplorer
+        color={activeIsland?.color || "#FF9500"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "comprehensive-test-explorer") {
+    return (
+      <ComprehensiveTestExplorer
+        color={activeIsland?.color || "#E879F9"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
+  if (screen === "grand-final-explorer") {
+    return (
+      <GrandFinalExplorer
+        color={activeIsland?.color || "#4ECDC4"}
+        lang={lang}
+        onDone={(s, t) => handleMissionComplete(s, t)}
+      />
+    );
+  }
 
   // Checkpoint quiz
   if (screen === "checkpoint-quiz" && questions.length > 0) {

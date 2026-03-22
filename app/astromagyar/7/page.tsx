@@ -35,6 +35,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import LanguageHistoryK7Explorer from "@/app/astromagyar/games/o7/LanguageHistoryK7Explorer";
+import AdvancedRhetoricExplorer from "@/app/astromagyar/games/o7/AdvancedRhetoricExplorer";
+import AdvancedStylisticsExplorer from "@/app/astromagyar/games/o7/AdvancedStylisticsExplorer";
+import LanguageVariantsExplorer from "@/app/astromagyar/games/o7/LanguageVariantsExplorer";
+import TextCompositionExplorer from "@/app/astromagyar/games/o7/TextCompositionExplorer";
+import AdvancedSyntaxExplorer from "@/app/astromagyar/games/o7/AdvancedSyntaxExplorer";
+import CommunicationExplorer from "@/app/astromagyar/games/o7/CommunicationExplorer";
+import MediaLanguageExplorer from "@/app/astromagyar/games/o7/MediaLanguageExplorer";
+import ReviewO7Explorer from "@/app/astromagyar/games/o7/ReviewO7Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -89,6 +98,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "language-history-k7"
+  | "advanced-rhetoric"
+  | "advanced-stylistics"
+  | "language-variants"
+  | "text-composition"
+  | "advanced-syntax"
+  | "communication"
+  | "media-language"
+  | "review-o7"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
