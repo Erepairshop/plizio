@@ -604,6 +604,508 @@ export function generateParallelCircuitsTyping(lang: string = "en", seed: number
   return questions;
 }
 
+// ─── 3. CURRENT AND VOLTAGE ────────────────────────────────────────────────
+
+const CURRENT_VOLTAGE_DATA = {
+  examples: [
+    { en: "a battery (voltage source)", de: "eine Batterie (Spannungsquelle)", hu: "elem (feszültségforrás)", ro: "o baterie (sursă de tensiune)" },
+    { en: "a light bulb (consumer)", de: "eine Glühbirne (Verbraucher)", hu: "izzó (fogyasztó)", ro: "un bec (consumator)" },
+    { en: "a motor (consumer)", de: "ein Motor (Verbraucher)", hu: "motor (fogyasztó)", ro: "un motor (consumator)" },
+    { en: "a power outlet (voltage source)", de: "eine Steckdose (Spannungsquelle)", hu: "aljzat (feszültségforrás)", ro: "o priză (sursă de tensiune)" },
+    { en: "an ammeter (measures current)", de: "ein Amperemeter (misst Strom)", hu: "ampermérő (áramot mér)", ro: "un ampermetru (măsoară curentul)" },
+    { en: "a voltmeter (measures voltage)", de: "ein Voltmeter (misst Spannung)", hu: "voltmérő (feszültséget mér)", ro: "un voltmetru (măsoară tensiunea)" },
+    { en: "a resistor (limits current)", de: "ein Widerstand (begrenzt Strom)", hu: "ellenállás (korlátozza az áramot)", ro: "o rezistență (limitează curentul)" },
+    { en: "a switch (controls circuit)", de: "ein Schalter (steuert Stromkreis)", hu: "kapcsoló (vezérli az áramkört)", ro: "un comutator (controlează circuitul)" },
+  ],
+
+  units: [
+    { en: "Ampere (A) - unit of current", de: "Ampere (A) - Stromeinheit", hu: "Amper (A) - áramegység", ro: "Amper (A) - unitate de curent" },
+    { en: "Volt (V) - unit of voltage", de: "Volt (V) - Spannungseinheit", hu: "Volt (V) - feszültségegység", ro: "Volt (V) - unitate de tensiune" },
+    { en: "Ohm (Ω) - unit of resistance", de: "Ohm (Ω) - Widerstandseinheit", hu: "Ohm (Ω) - ellenállásegység", ro: "Ohm (Ω) - unitate de rezistență" },
+  ],
+
+  relationships: [
+    { en: "U = I × R (Ohm's Law)", de: "U = I × R (Ohmsches Gesetz)", hu: "U = I × R (Ohm törvénye)", ro: "U = I × R (Legea lui Ohm)" },
+    { en: "higher voltage → higher current", de: "höhere Spannung → höherer Strom", hu: "magasabb feszültség → magasabb áram", ro: "tensiune mai mare → curent mai mare" },
+    { en: "higher resistance → lower current", de: "höherer Widerstand → niedrigerer Strom", hu: "magasabb ellenállás → alacsonyabb áram", ro: "rezistență mai mare → curent mai mic" },
+  ],
+
+  roles: [
+    { en: "voltage source (battery, power outlet)", de: "Spannungsquelle (Batterie, Steckdose)", hu: "feszültségforrás (elem, aljzat)", ro: "sursă de tensiune (baterie, priză)" },
+    { en: "consumer (bulb, motor, heater)", de: "Verbraucher (Birne, Motor, Heizer)", hu: "fogyasztó (izzó, motor, fűtés)", ro: "consumator (bec, motor, încălzitor)" },
+    { en: "conductor (wire, copper, aluminum)", de: "Leiter (Draht, Kupfer, Aluminium)", hu: "vezető (drót, réz, alumínium)", ro: "conductor (fir, cupru, aluminiu)" },
+  ],
+};
+
+export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is electric current?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("Was ist elektrischer Strom?", "What is electric current?", "Mi az elektromos áram?", "Ce este curentul electric?", lang),
+      q4("Die Bewegung von Ladungsträgern (Elektronen) durch einen Leiter", "The movement of charge carriers (electrons) through a conductor", "Töltéshordozók (elektronok) mozgása egy vezetőn keresztül", "Mișcarea purtătorilor de sarcină (electroni) printr-un conductor", lang),
+      [
+        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Elektromosságot tárolo anyag", "Un material care depozitează electricitate", lang),
+        q4("Eine Kraft, die Objekte anzieht", "A force that attracts objects", "Egy erő, amely attracts objekteket", "O forță care atrage obiecte", lang),
+        q4("Ein Werkzeug zum Messen von Spannung", "A tool for measuring voltage", "Az feszültség mérésére szolgáló eszköz", "Un instrument pentru măsurarea tensiunii", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "What is voltage?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("Was ist Spannung?", "What is voltage?", "Mi a feszültség?", "Ce este tensiunea?", lang),
+      q4("Die Differenz der elektrischen Potentiale zwischen zwei Punkten", "The difference in electrical potential between two points", "Az elektromos potenciálkülönbség két pont között", "Diferența de potențial electric între două puncte", lang),
+      [
+        q4("Die Menge des fließenden Stroms", "The amount of flowing current", "A folyó áram mennyisége", "Cantitatea de curent care curge", lang),
+        q4("Das Material, das Strom leitet", "The material that conducts current", "Az áramot vezető anyag", "Materialul care conduce curentul", lang),
+        q4("Die Farbe eines Stromkabels", "The color of a power cable", "Egy töltési kábel szína", "Culoarea unui cablu de alimentare", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 3: "What unit measures current?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("In welcher Einheit wird Strom gemessen?", "In which unit is current measured?", "Melyik egységben mérjük az áramot?", "În ce unitate se măsoară curentul?", lang),
+      q4("Ampere (A)", "Ampere (A)", "Amper (A)", "Amper (A)", lang),
+      [
+        q4("Volt (V)", "Volt (V)", "Volt (V)", "Volt (V)", lang),
+        q4("Ohm (Ω)", "Ohm (Ω)", "Ohm (Ω)", "Ohm (Ω)", lang),
+        q4("Watt (W)", "Watt (W)", "Watt (W)", "Watt (W)", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "What unit measures voltage?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("In welcher Einheit wird Spannung gemessen?", "In which unit is voltage measured?", "Melyik egységben mérjük a feszültséget?", "În ce unitate se măsoară tensiunea?", lang),
+      q4("Volt (V)", "Volt (V)", "Volt (V)", "Volt (V)", lang),
+      [
+        q4("Ampere (A)", "Ampere (A)", "Amper (A)", "Amper (A)", lang),
+        q4("Ohm (Ω)", "Ohm (Ω)", "Ohm (Ω)", "Ohm (Ω)", lang),
+        q4("Joule (J)", "Joule (J)", "Joule (J)", "Joule (J)", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What does Ohm's Law state?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("Was besagt das Ohmsche Gesetz?", "What does Ohm's Law state?", "Mit a kimondásról az Ohm törvénye?", "Ce afirmă Legea lui Ohm?", lang),
+      q4("U = I × R (Spannung = Strom × Widerstand)", "U = I × R (Voltage = Current × Resistance)", "U = I × R (Feszültség = Áram × Ellenállás)", "U = I × R (Tensiune = Curent × Rezistență)", lang),
+      [
+        q4("I = U + R", "I = U + R", "I = U + R", "I = U + R", lang),
+        q4("R = U / I", "R = U / I", "R = U / I", "R = U / I", lang),
+        q4("U = I / R", "U = I / R", "U = I / R", "U = I / R", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "What is a voltage source?"
+  for (let i = 0; i < 4; i++) {
+    const example = pick(CURRENT_VOLTAGE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("Was ist eine Spannungsquelle?", "What is a voltage source?", "Mi a feszültségforrás?", "Ce este o sursă de tensiune?", lang),
+      q4("Ein Gerät, das elektrische Energie liefert (z.B. Batterie)", "A device that supplies electrical energy (e.g. battery)", "Az elektromos energiát szolgáló eszköz (pl. elem)", "Un dispozitiv care furnizează energie electrică (de ex. baterie)", lang),
+      [
+        q4("Ein Gerät, das Strom verbraucht", "A device that consumes current", "Az áramot fogyasztó eszköz", "Un dispozitiv care consumă curent", lang),
+        q4("Ein Werkzeug zum Messen von Strom", "A tool for measuring current", "Az áram mérésére szolgáló eszköz", "Un instrument pentru măsurarea curentului", lang),
+        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Az elektromosságot tárolo anyag", "Un material care depozitează electricitate", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Higher voltage causes..."
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "current_voltage",
+      q4("Höhere Spannung führt zu...", "Higher voltage leads to...", "Magasabb feszültség ...-hez vezet", "Tensiune mai mare duce la...", lang),
+      q4("höherem Strom (bei gleichem Widerstand)", "higher current (at same resistance)", "magasabb áramhoz (azonos ellenállásnál)", "curent mai mare (la aceeași rezistență)", lang),
+      [
+        q4("niedrigerem Strom", "lower current", "alacsonyabb áramhoz", "curent mai mic", lang),
+        q4("gleichem Strom", "same current", "azonos áramhoz", "același curent", lang),
+        q4("keine Veränderung des Stroms", "no change in current", "az áram nincs változása", "nicio schimbare a curentului", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateCurrentVoltageTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const questions: CurriculumQuestion[] = [];
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Definiere Elektrischer Strom und nenne seine Einheit.", "Define electric current and name its unit.", "Határozd meg az elektromos áramot és nevezd meg az egységét.", "Definește curentul electric și numește unitatea sa.", lang),
+    [
+      q4("Strom ist die Bewegung von Elektronen durch einen Leiter, gemessen in Ampere (A)", "Current is the movement of electrons through a conductor, measured in Amperes (A)", "Az áram az elektronok mozgása egy vezetőn keresztül, ampert (A) mérve", "Curentul este mișcarea electronilor printr-un conductor, măsurat în Amperi (A)", lang),
+      q4("Elektronen bewegung, Einheit Ampere", "Electron movement, unit Ampere", "Elektronmozgás, egység Amper", "Mișcare de electroni, unitate Amper", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Definiere Spannung und nenne ihre Einheit.", "Define voltage and name its unit.", "Határozd meg a feszültséget és nevezd meg az egységét.", "Definește tensiunea și numește unitatea sa.", lang),
+    [
+      q4("Spannung ist die Potentialdifferenz zwischen zwei Punkten, gemessen in Volt (V)", "Voltage is the potential difference between two points, measured in Volts (V)", "A feszültség két pont közötti potenciálkülönbség, voltban (V) mérve", "Tensiunea este diferența de potențial între două puncte, măsurată în Volți (V)", lang),
+      q4("Potentialdifferenz, Einheit Volt", "Potential difference, unit Volt", "Potenciálkülönbség, egység Volt", "Diferență de potențial, unitate Volt", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Schreibe die Formel für das Ohmsche Gesetz auf.", "Write the formula for Ohm's Law.", "Írd fel az Ohm törvénye képletét.", "Scrie formula Legii lui Ohm.", lang),
+    [
+      q4("U = I × R", "U = I × R", "U = I × R", "U = I × R", lang),
+      q4("U=I*R", "U=I*R", "U=I*R", "U=I*R", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Nenne ein Beispiel für eine Spannungsquelle und ein Beispiel für einen Verbraucher.", "Name an example of a voltage source and an example of a consumer.", "Adj meg egy feszültségforrás és egy fogyasztó példáját.", "Numește un exemplu de sursă de tensiune și un exemplu de consumator.", lang),
+    [
+      q4("Spannungsquelle: Batterie; Verbraucher: Glühbirne", "Voltage source: Battery; Consumer: Light bulb", "Feszültségforrás: elem; Fogyasztó: izzó", "Sursă de tensiune: Baterie; Consumator: Bec", lang),
+      q4("Batterie und Lampe", "Battery and lamp", "Elem és lámpa", "Baterie și lampă", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Was passiert mit dem Strom, wenn die Spannung konstant bleibt aber der Widerstand erhöht wird?", "What happens to the current when voltage stays constant but resistance increases?", "Mi történik az árammal, ha a feszültség azonos marad, de az ellenállás nő?", "Ce se întâmplă cu curentul atunci când tensiunea rămâne constantă, dar rezistența crește?", lang),
+    [
+      q4("Der Strom nimmt ab (sinkt)", "The current decreases", "Az áram csökken", "Curentul scade", lang),
+      q4("Strom wird kleiner", "Current becomes smaller", "Áram kisebb lesz", "Curentul devine mai mic", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Nenne die drei Größen in der Formel U = I × R und ihre Einheiten.", "Name the three quantities in the formula U = I × R and their units.", "Nevezd meg a három mennyiséget az U = I × R képletben és az egységeit.", "Numește cele trei mărimi din formula U = I × R și unitățile lor.", lang),
+    [
+      q4("U = Spannung (Volt), I = Strom (Ampere), R = Widerstand (Ohm)", "U = Voltage (Volt), I = Current (Ampere), R = Resistance (Ohm)", "U = Feszültség (Volt), I = Áram (Amper), R = Ellenállás (Ohm)", "U = Tensiune (Volt), I = Curent (Amper), R = Rezistență (Ohm)", lang),
+      q4("Spannung (V), Strom (A), Widerstand (Ω)", "Voltage (V), Current (A), Resistance (Ω)", "Feszültség (V), Áram (A), Ellenállás (Ω)", "Tensiune (V), Curent (A), Rezistență (Ω)", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Was ist der Unterschied zwischen einer Spannungsquelle und einem Verbraucher?", "What is the difference between a voltage source and a consumer?", "Mi a különbség a feszültségforrás és a fogyasztó között?", "Care este diferența dintre o sursă de tensiune și un consumator?", lang),
+    [
+      q4("Spannungsquelle liefert elektrische Energie; Verbraucher nutzt die Energie", "Voltage source supplies electrical energy; Consumer uses the energy", "Feszültségforrás elektromos energiát szolgáltat; Fogyasztó felhasználja az energiát", "Sursa de tensiune furnizează energie electrică; Consumatorul consumă energia", lang),
+      q4("Quelle liefert, Verbraucher nutzt", "Source supplies, consumer uses", "Forrás szolgáltat, fogyasztó használ", "Sursă furnizează, consumator utilizează", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Welche Geräte würdest du verwenden, um Strom und Spannung in einem Stromkreis zu messen?", "Which devices would you use to measure current and voltage in a circuit?", "Mely eszközöket használnál az áram és feszültség mérésére egy áramkörben?", "Ce dispozitive ai folosi pentru a măsura curentul și tensiunea într-un circuit?", lang),
+    [
+      q4("Ammeter für Strom, Voltmeter für Spannung", "Ammeter for current, Voltmeter for voltage", "Ampermérő az áramhoz, voltmérő a feszültséghez", "Ampermetru pentru curent, Voltmetru pentru tensiune", lang),
+      q4("Ampermeter und Voltmeter", "Ampermeter and Voltmeter", "Ampermérő és voltmérő", "Ampermetru și voltmetru", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "current_voltage",
+    q4("Bei einer Batterie von 6 Volt und einem Widerstand von 2 Ohm, wie groß ist der Strom (nutze U=I×R)?", "With a battery of 6 Volts and a resistance of 2 Ohm, how large is the current (use U=I×R)?", "6 voltos elem és 2 ohm ellenállás esetén mekkora az áram (használd az U=I×R)?", "Cu o baterie de 6 Volți și o rezistență de 2 Ohm, cât este curentul (folosește U=I×R)?", lang),
+    [
+      q4("3 Ampere", "3 Amperes", "3 Amper", "3 Amperi", lang),
+      q4("I = 3 A", "I = 3 A", "I = 3 A", "I = 3 A", lang),
+    ]
+  ));
+
+  return questions;
+}
+
+// ─── 4. RESISTANCE ────────────────────────────────────────────────────────
+
+const RESISTANCE_DATA = {
+  examples: [
+    { en: "copper wire (good conductor)", de: "Kupferdraht (guter Leiter)", hu: "rézdrót (jó vezető)", ro: "fir de cupru (bun conductor)" },
+    { en: "rubber (insulator)", de: "Gummi (Isolator)", hu: "gumi (szigetelő)", ro: "cauciuc (izolator)" },
+    { en: "nichrome wire (high resistance)", de: "Nickel-Chrom-Draht (hoher Widerstand)", hu: "nikkel-króm drót (magas ellenállás)", ro: "fir nichrom (rezistență mare)" },
+    { en: "resistor (electronic component)", de: "Widerstand (elektronische Komponente)", hu: "ellenállás (elektronikai alkatrész)", ro: "rezistență (componentă electronică)" },
+    { en: "a lightbulb filament (glowing from resistance)", de: "eine Glühbirne (leuchtet durch Widerstand)", hu: "izzó szála (ellenállás miatt izzó)", ro: "filament de bec (strălucitor din cauza rezistenței)" },
+    { en: "coal (moderate resistance)", de: "Kohle (mittlerer Widerstand)", hu: "szén (közepes ellenállás)", ro: "cărbune (rezistență moderată)" },
+    { en: "silver (excellent conductor)", de: "Silber (ausgezeichneter Leiter)", hu: "ezüst (kitűnő vezető)", ro: "argint (conductor excelent)" },
+    { en: "glass (excellent insulator)", de: "Glas (ausgezeichneter Isolator)", hu: "üveg (kitűnő szigetelő)", ro: "sticlă (izolator excelent)" },
+  ],
+
+  factors: [
+    { en: "longer wire → higher resistance", de: "längerer Draht → höherer Widerstand", hu: "hosszabb drót → magasabb ellenállás", ro: "fir mai lung → rezistență mai mare" },
+    { en: "thicker wire → lower resistance", de: "dickerer Draht → niedrigerer Widerstand", hu: "vastagabb drót → alacsonyabb ellenállás", ro: "fir mai gros → rezistență mai mică" },
+    { en: "different materials have different resistivities", de: "verschiedene Materialien haben verschiedene Spezifische Widerstände", hu: "különböző anyagok eltérő fajlagos ellenállása", ro: "diferite materiale au rezistivități diferite" },
+    { en: "temperature affects resistance", de: "Temperatur beeinflusst Widerstand", hu: "hőmérséklet befolyásolja az ellenállást", ro: "temperatura afectează rezistența" },
+  ],
+
+  conductors: [
+    { en: "copper", de: "Kupfer", hu: "réz", ro: "cupru" },
+    { en: "silver", de: "Silber", hu: "ezüst", ro: "argint" },
+    { en: "aluminum", de: "Aluminium", hu: "alumínium", ro: "aluminiu" },
+    { en: "gold", de: "Gold", hu: "arany", ro: "aur" },
+  ],
+
+  insulators: [
+    { en: "rubber", de: "Gummi", hu: "gumi", ro: "cauciuc" },
+    { en: "plastic", de: "Kunststoff", hu: "műanyag", ro: "plastic" },
+    { en: "glass", de: "Glas", hu: "üveg", ro: "sticlă" },
+    { en: "ceramic", de: "Keramik", hu: "kerámia", ro: "ceramică" },
+  ],
+};
+
+export function generateResistanceMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is resistance?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Was ist Widerstand (Resistance)?", "What is resistance?", "Mi az ellenállás?", "Ce este rezistența?", lang),
+      q4("Der Widerstand gegen den Stromfluss durch ein Material", "Opposition to the flow of current through a material", "Az áramfolyás elleni ellenállás egy anyagon keresztül", "Opoziția la fluxul de curent printr-un material", lang),
+      [
+        q4("Die Menge des fließenden Stroms", "The amount of flowing current", "A folyó áram mennyisége", "Cantitatea de curent care curge", lang),
+        q4("Die Potentialdifferenz zwischen zwei Punkten", "The potential difference between two points", "Két pont közötti potenciálkülönbség", "Diferența de potențial între două puncte", lang),
+        q4("Die Farbe eines Stromkabels", "The color of a power cable", "A töltési kábel szína", "Culoarea unui cablu de alimentare", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is a good conductor?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(RESISTANCE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Welches ist ein guter Leiter?", "Which is a good conductor?", "Melyik a jó vezető?", "Care este un bun conductor?", lang),
+      q4(example.de, example.en, example.hu, example.ro, lang),
+      [
+        q4("Gummi", "Rubber", "Gumi", "Cauciuc", lang),
+        q4("Kunststoff", "Plastic", "Műanyag", "Plastic", lang),
+        q4("Glas", "Glass", "Üveg", "Sticlă", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 3: "What is the formula for resistance?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Welche Formel beschreibt Widerstand?", "Which formula describes resistance?", "Melyik képlet írja le az ellenállást?", "Care formulă descrie rezistența?", lang),
+      q4("R = U / I", "R = U / I", "R = U / I", "R = U / I", lang),
+      [
+        q4("R = U × I", "R = U × I", "R = U × I", "R = U × I", lang),
+        q4("R = I / U", "R = I / U", "R = I / U", "R = I / U", lang),
+        q4("R = U + I", "R = U + I", "R = U + I", "R = U + I", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "What affects resistance?"
+  for (let i = 0; i < 5; i++) {
+    const factor = pick(RESISTANCE_DATA.factors, rng);
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Welcher Faktor beeinflusst den Widerstand eines Drahtes?", "Which factor affects the resistance of a wire?", "Melyik tényező befolyásolja a drót ellenállását?", "Care factor afectează rezistența unui fir?", lang),
+      q4(factor.de, factor.en, factor.hu, factor.ro, lang),
+      [
+        q4("Die Farbe des Drahtes", "The color of the wire", "A drót szína", "Culoarea firului", lang),
+        q4("Die Form des Stromkreises", "The shape of the circuit", "Az áramkör alakja", "Forma circuitului", lang),
+        q4("Das Alter des Drahtes", "The age of the wire", "A drót kora", "Vârsta firului", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What happens when wire gets longer?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Was passiert mit dem Widerstand, wenn der Draht länger wird?", "What happens to resistance when the wire gets longer?", "Mi történik az ellenállással, ha a drót hosszabb lesz?", "Ce se întâmplă cu rezistența când firul devine mai lung?", lang),
+      q4("Der Widerstand nimmt zu", "Resistance increases", "Az ellenállás nő", "Rezistența crește", lang),
+      [
+        q4("Der Widerstand nimmt ab", "Resistance decreases", "Az ellenállás csökken", "Rezistența scade", lang),
+        q4("Der Widerstand bleibt gleich", "Resistance stays the same", "Az ellenállás ugyanaz marad", "Rezistența rămâne aceeași", lang),
+        q4("Der Widerstand wird null", "Resistance becomes zero", "Az ellenállás nulla lesz", "Rezistența devine zero", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "What happens when wire gets thicker?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Was passiert mit dem Widerstand, wenn der Draht dicker wird?", "What happens to resistance when the wire gets thicker?", "Mi történik az ellenállással, ha a drót vastagabb lesz?", "Ce se întâmplă cu rezistența când firul devine mai gros?", lang),
+      q4("Der Widerstand nimmt ab", "Resistance decreases", "Az ellenállás csökken", "Rezistența scade", lang),
+      [
+        q4("Der Widerstand nimmt zu", "Resistance increases", "Az ellenállás nő", "Rezistența crește", lang),
+        q4("Der Widerstand bleibt gleich", "Resistance stays the same", "Az ellenállás ugyanaz marad", "Rezistența rămâne aceeași", lang),
+        q4("Der Widerstand wird unendlich", "Resistance becomes infinite", "Az ellenállás végtelen lesz", "Rezistența devine infinită", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Difference between conductor and insulator"
+  for (let i = 0; i < 7; i++) {
+    questions.push(createMCQ(
+      "electricity",
+      "resistance",
+      q4("Was ist der Unterschied zwischen einem Leiter und einem Isolator?", "What is the difference between a conductor and an insulator?", "Mi a különbség a vezető és a szigetelő között?", "Care este diferența dintre un conductor și un izolator?", lang),
+      q4("Leiter hat niedriger Widerstand; Isolator hat sehr hoher Widerstand", "Conductor has low resistance; Insulator has very high resistance", "Vezető alacsony ellenállása van; Szigetelő nagyon magas ellenállása", "Conductorul are rezistență mică; Izolatorul are rezistență foarte mare", lang),
+      [
+        q4("Leiter ist harrt; Isolator ist weich", "Conductor is hard; Insulator is soft", "Vezető kemény; Szigetelő puha", "Conductorul este dur; Izolatorul este moale", lang),
+        q4("Leiter ist rot; Isolator ist blau", "Conductor is red; Insulator is blue", "Vezető piros; Szigetelő kék", "Conductorul este roșu; Izolatorul este albastru", lang),
+        q4("Leiter ist schwer; Isolator ist leicht", "Conductor is heavy; Insulator is light", "Vezető nehéz; Szigetelő könnyű", "Conductorul este greu; Izolatorul este ușor", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateResistanceTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const questions: CurriculumQuestion[] = [];
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Definiere Widerstand und nenne seine Einheit.", "Define resistance and name its unit.", "Határozd meg az ellenállást és nevezd meg az egységét.", "Definește rezistența și numește unitatea sa.", lang),
+    [
+      q4("Widerstand ist die Opposition gegen Stromfluss, gemessen in Ohm (Ω)", "Resistance is opposition to current flow, measured in Ohm (Ω)", "Az ellenállás az áramfolyás elleni opposition, ohmban (Ω) mérve", "Rezistența este opoziția la fluxul de curent, măsurată în Ohm (Ω)", lang),
+      q4("Opposition gegen Strom, Einheit Ohm", "Opposition to current, unit Ohm", "Áram elleni opposition, egység Ohm", "Opoziție la curent, unitate Ohm", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Schreibe die Formel für Widerstand auf.", "Write the formula for resistance.", "Írd fel az ellenállás képletét.", "Scrie formula pentru rezistență.", lang),
+    [
+      q4("R = U / I", "R = U / I", "R = U / I", "R = U / I", lang),
+      q4("R=U/I", "R=U/I", "R=U/I", "R=U/I", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Nenne drei Faktoren, die den Widerstand eines Drahtes beeinflussen.", "Name three factors that affect the resistance of a wire.", "Nevezz meg három tényezőt, amely befolyásolja a drót ellenállását.", "Numește trei factori care afectează rezistența unui fir.", lang),
+    [
+      q4("Länge (länger = höherer Widerstand), Dicke (dicker = niedrigerer Widerstand), Material (Leitfähigkeit)", "Length (longer = higher resistance), Thickness (thicker = lower resistance), Material (conductivity)", "Hossz (hosszabb = magasabb ellenállás), Vastagság (vastagabb = alacsonyabb ellenállás), Anyag (vezetőképesség)", "Lungime (mai lung = rezistență mai mare), Grosime (mai gros = rezistență mai mică), Material (conductivitate)", lang),
+      q4("Länge, Dicke, Materialart", "Length, Thickness, Type of material", "Hossz, vastagság, anyag típusa", "Lungime, grosime, tip de material", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Was ist der Unterschied zwischen Leiter und Isolator?", "What is the difference between conductor and insulator?", "Mi a különbség a vezető és a szigetelő között?", "Care este diferența dintre conductor și izolator?", lang),
+    [
+      q4("Leiter: niedriger Widerstand, ermöglicht Stromfluss; Isolator: hoher Widerstand, verhindert Stromfluss", "Conductor: low resistance, allows current; Insulator: high resistance, blocks current", "Vezető: alacsony ellenállás, lehetővé teszi az áramot; Szigetelő: magas ellenállás, megakadályozza az áramot", "Conductor: rezistență mică, permite curentul; Izolator: rezistență mare, blochează curentul", lang),
+      q4("Leiter leitet, Isolator leitet nicht", "Conductor conducts, Insulator does not", "Vezető vezet, szigetelő nem", "Conductor conduce, izolator nu", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Warum wird ein Glühbirnenfaden heiß und leuchtet?", "Why does a lightbulb filament get hot and glow?", "Miért lesz meleg és izzik az izzó szála?", "De ce se-ncinzește și strălucește un filament de bec?", lang),
+    [
+      q4("Weil der hohe Widerstand des Fadens eine große Menge Wärme erzeugt, die den Faden zum Leuchten bringt", "Because the high resistance of the filament produces a lot of heat that makes it glow", "Mert a szál magas ellenállása sok hőt termel, amely az szálat izzani teszi", "Pentru că rezistența mare a filamentului produce o mulțime de căldură care-l face să strălucească", lang),
+      q4("Hoher Widerstand erzeugt Wärme und Licht", "High resistance generates heat and light", "Magas ellenállás hő és fényt termel", "Rezistență mare generează căldură și lumină", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Nenne drei gute Leiter und drei Isolatoren.", "Name three good conductors and three insulators.", "Nevezz meg három jó vezetőt és három szigetelőt.", "Numește trei buni conductori și trei izolatori.", lang),
+    [
+      q4("Leiter: Kupfer, Silber, Aluminium; Isolatoren: Gummi, Kunststoff, Glas", "Conductors: Copper, Silver, Aluminum; Insulators: Rubber, Plastic, Glass", "Vezetők: Réz, Ezüst, Alumínium; Szigetelők: Gumi, Műanyag, Üveg", "Conductori: Cupru, Argint, Aluminiu; Izolatori: Cauciuc, Plastic, Sticlă", lang),
+      q4("Cu, Ag, Al; Gummi, Kunststoff, Glas", "Cu, Ag, Al; Rubber, Plastic, Glass", "Réz, Ezüst, Alumínium; Gumi, Műanyag, Üveg", "Cupru, Argint, Aluminiu; Cauciuc, Plastic, Sticlă", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Was ist Spezifischer Widerstand (Resistivität) und worauf hängt es ab?", "What is specific resistance (resistivity) and what does it depend on?", "Mi a fajlagos ellenállás és mitől függ?", "Ce este rezistivitatea și de ce depinde?", lang),
+    [
+      q4("Spezifischer Widerstand ist eine Materialeigenschaft, die anzeigt, wie viel ein Material dem Stromfluss widersteht; hängt vom Material ab", "Specific resistance is a material property showing how much a material opposes current; depends on the material", "A fajlagos ellenállás egy anyagtulajdonság, amely azt mutatja, mennyire ellenáll az anyag az áramnak; az anyagtól függ", "Rezistivitatea este o proprietate a materialului care arată cât de mult se opune materialul curentului; depinde de material", lang),
+      q4("Materialeigenschaft, abhängig vom Stoff", "Material property, depends on substance", "Anyagtulajdonság, az anyagtól függ", "Proprietate a materialului, depinde de substanță", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Wie ändert sich der Widerstand mit der Länge und Dicke eines Drahtes (qualitativ)?", "How does resistance change with the length and thickness of a wire (qualitatively)?", "Hogyan változik az ellenállás a drót hosszúságának és vastagságának függvényében (minőségileg)?", "Cum se schimbă rezistența cu lungimea și grosimea unui fir (calitativ)?", lang),
+    [
+      q4("Länger → höherer Widerstand; Dicker → niedrigerer Widerstand", "Longer → higher resistance; Thicker → lower resistance", "Hosszabb → magasabb ellenállás; Vastagabb → alacsonyabb ellenállás", "Mai lung → rezistență mai mare; Mai gros → rezistență mai mică", lang),
+      q4("Mit Länge steigt, mit Dicke sinkt der Widerstand", "Resistance increases with length, decreases with thickness", "Az ellenállás hosszúsággal nő, vastagsággal csökken", "Rezistența crește cu lungimea, scade cu grosimea", lang),
+    ]
+  ));
+
+  questions.push(createTyping(
+    "electricity",
+    "resistance",
+    q4("Bei einer Spannung von 12 Volt und einem Widerstand von 4 Ohm, wie groß ist der Strom (nutze R=U/I)?", "With a voltage of 12 Volts and a resistance of 4 Ohm, what is the current (use R=U/I)?", "12 voltos feszültség és 4 ohm ellenállás esetén mekkora az áram (használd az R=U/I)?", "Cu o tensiune de 12 Volți și o rezistență de 4 Ohm, cât este curentul (folosește R=U/I)?", lang),
+    [
+      q4("3 Ampere", "3 Amperes", "3 Amper", "3 Amperi", lang),
+      q4("I = 3 A", "I = 3 A", "I = 3 A", "I = 3 A", lang),
+    ]
+  ));
+
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -614,6 +1116,14 @@ export const K6_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: nu
   parallel_circuits: (lang = "en", seed = 0) => [...generateParallelCircuitsMCQ(lang, seed), ...generateParallelCircuitsTyping(lang, seed)],
   parallel_circuits_mcq: (lang = "en", seed = 0) => generateParallelCircuitsMCQ(lang, seed),
   parallel_circuits_typing: (lang = "en", seed = 0) => generateParallelCircuitsTyping(lang, seed),
+
+  current_voltage: (lang = "en", seed = 0) => [...generateCurrentVoltageMCQ(lang, seed), ...generateCurrentVoltageTyping(lang, seed)],
+  current_voltage_mcq: (lang = "en", seed = 0) => generateCurrentVoltageMCQ(lang, seed),
+  current_voltage_typing: (lang = "en", seed = 0) => generateCurrentVoltageTyping(lang, seed),
+
+  resistance: (lang = "en", seed = 0) => [...generateResistanceMCQ(lang, seed), ...generateResistanceTyping(lang, seed)],
+  resistance_mcq: (lang = "en", seed = 0) => generateResistanceMCQ(lang, seed),
+  resistance_typing: (lang = "en", seed = 0) => generateResistanceTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
