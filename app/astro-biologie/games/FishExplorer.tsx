@@ -1,31 +1,22 @@
 "use client";
-// FishExplorer — Biology explorer engine with INFO → QUESTION flow
-// 5 rounds: R1 MCQ, R2 MCQ, R3 MCQ, R4 ORDER (tap sequence), R5 MCQ
-// LABELS and SVG illustrations to be filled in by content author.
 
-import { memo, useState, useCallback, useMemo, useRef } from "react";
+import React, { useState, useRef, useMemo, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 
-// ---------------------------------------------------------------------------
-// Types
-// ---------------------------------------------------------------------------
-
 interface MCQQuestion {
-  /** Key into LABELS for the question text */
   question: string;
-  /** Array of LABELS keys for the answer choices */
   choices: string[];
-  /** The correct LABELS key */
   answer: string;
 }
 
-type Phase = "info" | "question" | "feedback";
+type Phase = "info" | "question";
+type Lang = "en" | "de" | "hu" | "ro";
 
 interface Props {
-  color: string;   // island accent color, e.g. "#4CAF50"
-  lang?: string;   // "en" | "de" | "hu" | "ro"
+  lang: Lang;
   onDone: (score: number, total: number) => void;
+  color?: string;
 }
 
 // ---------------------------------------------------------------------------
