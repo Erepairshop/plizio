@@ -25,6 +25,14 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import ArthropodExplorer from "@/app/astro-biologie/games/ArthropodExplorer";
+import MolluskExplorer from "@/app/astro-biologie/games/MolluskExplorer";
+import ForestExplorer from "@/app/astro-biologie/games/ForestExplorer";
+import WaterExplorer from "@/app/astro-biologie/games/WaterExplorer";
+import HeartExplorer from "@/app/astro-biologie/games/HeartExplorer";
+import CirculationExplorer from "@/app/astro-biologie/games/CirculationExplorer";
+import RespirationExplorer from "@/app/astro-biologie/games/RespirationExplorer";
+import PubertyExplorer from "@/app/astro-biologie/games/PubertyExplorer";
 import {
   BIO_K6_ISLANDS as K6_ISLANDS, BIO_K6_CHECKPOINT_MAP as K6_CHECKPOINT_MAP,
   type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -96,6 +104,14 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "arthropod-explorer"
+  | "mollusk-explorer"
+  | "forest-explorer"
+  | "water-explorer"
+  | "heart-explorer"
+  | "circulation-explorer"
+  | "respiration-explorer"
+  | "puberty-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -786,12 +802,40 @@ export default function AstroBiologieK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "arthropod-explorer" && (
+          <ArthropodExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "mollusk-explorer" && (
+          <MolluskExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "forest-explorer" && (
+          <ForestExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "water-explorer" && (
+          <WaterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "heart-explorer" && (
+          <HeartExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "circulation-explorer" && (
+          <CirculationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "respiration-explorer" && (
+          <RespirationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "puberty-explorer" && (
+          <PubertyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
 
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round"].includes(screen)) return (
+  const explorerScreens = [
+    "arthropod-explorer", "mollusk-explorer", "forest-explorer", "water-explorer",
+    "heart-explorer", "circulation-explorer", "respiration-explorer", "puberty-explorer",
+  ];
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
