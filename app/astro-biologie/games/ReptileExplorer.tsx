@@ -270,10 +270,10 @@ function SVG_R1(lang: string = "en"): React.ReactNode {
 
       {/* Labels with dashed pointer lines */}
       <line x1="35" y1="50" x2="35" y2="75" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="35" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="#333">{l.reptile}</text>
+      <text x="35" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="#333">{l.reptile}</text>
 
       <line x1="165" y1="55" x2="165" y2="75" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="165" y="145" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">{l.bird}</text>
+      <text x="165" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="white">{l.bird}</text>
     </svg>
   );
 }
@@ -378,12 +378,12 @@ function SVG_R2(lang: string = "en"): React.ReactNode {
 
       {/* Labels with dashed pointer lines */}
       <line x1="85" y1="120" x2="105" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="65" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">{l.feathers}</text>
+      <text x="65" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white" opacity="0.8">{l.feathers}</text>
 
       <line x1="155" y1="120" x2="135" y2="110" stroke="rgba(255,255,255,0.4)" strokeWidth="1" strokeDasharray="3,2" />
-      <text x="175" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white" opacity="0.8">{l.bones}</text>
+      <text x="175" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white" opacity="0.8">{l.bones}</text>
 
-      <text x="120" y="145" textAnchor="middle" fontSize="12" fontWeight="bold" fill="white">{l.eagle}</text>
+      <text x="120" y="145" textAnchor="middle" fontSize="7" fontWeight="bold" fill="white">{l.eagle}</text>
     </svg>
   );
 }
@@ -557,8 +557,8 @@ function SVG_R3(lang: string = "en"): React.ReactNode {
       </g>
 
       {/* Labels */}
-      <text x="60" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.cold}</text>
-      <text x="180" y="155" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.warm}</text>
+      <text x="60" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.cold}</text>
+      <text x="180" y="155" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.warm}</text>
     </svg>
   );
 }
