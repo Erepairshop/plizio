@@ -385,116 +385,201 @@ function SVG_R1(lang: string) {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="fishBody" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#06B6D4" />
-          <stop offset="50%" stopColor="#0891B2" />
-          <stop offset="100%" stopColor="#0369A1" />
+        {/* Ocean background gradient — deep to mid blue */}
+        <linearGradient id="r1Bg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#0c2d48" />
+          <stop offset="60%" stopColor="#0a3a5c" />
+          <stop offset="100%" stopColor="#062a40" />
         </linearGradient>
-        <linearGradient id="fishBelly" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#22D3EE" />
-          <stop offset="100%" stopColor="#06B6D4" />
+        {/* Fish body — teal with cyan highlight */}
+        <linearGradient id="r1Body" x1="0%" y1="20%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#22d3ee" />
+          <stop offset="40%" stopColor="#06b6d4" />
+          <stop offset="100%" stopColor="#0e7490" />
         </linearGradient>
-        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#0F2844" />
-          <stop offset="100%" stopColor="#051C2A" />
+        {/* Belly highlight */}
+        <linearGradient id="r1Belly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#67e8f9" stopOpacity="0.5" />
+          <stop offset="100%" stopColor="#22d3ee" stopOpacity="0.1" />
         </linearGradient>
-        <filter id="fishShadow" x="-50%" y="-50%" width="200%" height="200%">
-          <feDropShadow dx="0" dy="2" stdDeviation="2" floodOpacity="0.3" />
+        {/* Dorsal fin warm gradient */}
+        <linearGradient id="r1Dorsal" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fb923c" />
+          <stop offset="100%" stopColor="#ea580c" />
+        </linearGradient>
+        {/* Tail fin gradient */}
+        <linearGradient id="r1Tail" x1="100%" y1="0%" x2="0%" y2="50%">
+          <stop offset="0%" stopColor="#0891b2" />
+          <stop offset="100%" stopColor="#06b6d4" />
+        </linearGradient>
+        {/* Caustic light pattern */}
+        <radialGradient id="r1Caustic" cx="35%" cy="25%">
+          <stop offset="0%" stopColor="rgba(255,255,255,0.07)" />
+          <stop offset="100%" stopColor="rgba(255,255,255,0)" />
+        </radialGradient>
+        {/* Soft glow for labels */}
+        <filter id="r1Glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
         </filter>
       </defs>
-      <rect width="240" height="160" fill="url(#bgGrad)" />
 
-      {/* Water bubbles */}
-      <circle cx="30" cy="20" r="2" fill="rgba(255, 255, 255, 0.15)" />
-      <circle cx="210" cy="35" r="1.8" fill="rgba(255, 255, 255, 0.12)" />
-      <circle cx="50" cy="140" r="2.8" fill="rgba(255, 255, 255, 0.12)" />
-      <circle cx="180" cy="120" r="1.2" fill="rgba(255, 255, 255, 0.1)" />
+      {/* ── Background ── */}
+      <rect width="240" height="160" fill="url(#r1Bg)" />
+      {/* Caustic light from above */}
+      <ellipse cx="90" cy="30" rx="100" ry="50" fill="url(#r1Caustic)" />
+      {/* Subtle light rays from top */}
+      <line x1="60" y1="0" x2="75" y2="55" stroke="rgba(255,255,255,0.04)" strokeWidth="8" />
+      <line x1="130" y1="0" x2="120" y2="50" stroke="rgba(255,255,255,0.03)" strokeWidth="10" />
+      <line x1="190" y1="0" x2="175" y2="45" stroke="rgba(255,255,255,0.025)" strokeWidth="6" />
 
-      {/* Fish body (main ellipse) */}
-      <ellipse cx="110" cy="85" rx="42" ry="30" fill="url(#fishBody)" filter="url(#fishShadow)" />
+      {/* Tiny floating particles */}
+      <circle cx="25" cy="28" r="1" fill="rgba(255,255,255,0.15)" />
+      <circle cx="205" cy="42" r="0.8" fill="rgba(255,255,255,0.12)" />
+      <circle cx="180" cy="130" r="1.2" fill="rgba(255,255,255,0.1)" />
+      <circle cx="42" cy="140" r="0.9" fill="rgba(255,255,255,0.08)" />
+      <circle cx="215" cy="95" r="0.7" fill="rgba(255,255,255,0.1)" />
 
-      {/* Fish belly highlight (subtle) */}
-      <ellipse cx="110" cy="92" rx="37" ry="19" fill="url(#fishBelly)" opacity="0.35" />
+      {/* ── Tail fin — forked, with ray lines ── */}
+      <path d="M 72 82 Q 52 60 30 48 Q 42 72 38 82 Q 42 92 30 116 Q 52 104 72 88 Z"
+        fill="url(#r1Tail)" opacity="0.9" />
+      {/* Tail fin rays */}
+      <line x1="68" y1="82" x2="34" y2="54" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+      <line x1="66" y1="85" x2="35" y2="82" stroke="rgba(255,255,255,0.12)" strokeWidth="0.6" />
+      <line x1="68" y1="88" x2="34" y2="110" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+      {/* Tail fin edge highlight */}
+      <path d="M 30 48 Q 42 72 38 82 Q 42 92 30 116"
+        fill="none" stroke="rgba(103,232,249,0.3)" strokeWidth="1" />
 
-      {/* Gill cover (darker semi-circle) */}
-      <ellipse cx="58" cy="80" rx="8" ry="12" fill="rgba(8, 145, 178, 0.7)" opacity="0.6" />
+      {/* ── Fish body — organic shape with bezier curves ── */}
+      <path d="M 68 85
+        Q 68 58 100 50
+        Q 120 45 145 52
+        Q 165 60 170 78
+        Q 172 85 170 92
+        Q 165 110 145 118
+        Q 120 125 100 120
+        Q 68 112 68 85 Z"
+        fill="url(#r1Body)" />
+      {/* Body bottom highlight (belly) */}
+      <path d="M 78 95
+        Q 85 115 110 118
+        Q 135 120 155 112
+        Q 165 106 168 95
+        Q 160 108 135 113
+        Q 110 116 85 105 Z"
+        fill="url(#r1Belly)" />
+      {/* Lateral line — subtle darker stripe */}
+      <path d="M 75 84 Q 110 80 155 82 Q 168 83 170 85"
+        fill="none" stroke="rgba(14,116,144,0.5)" strokeWidth="1.2" strokeLinecap="round" />
 
-      {/* Tail fin (improved 3D) */}
-      <path
-        d="M 68 85 L 18 55 L 26 85 L 18 115 Z"
-        fill="#0891B2"
-        opacity="0.95"
-      />
-      <path
-        d="M 68 85 L 18 55 L 26 85 L 18 115 Z"
-        fill="none"
-        stroke="#22D3EE"
-        strokeWidth="1.5"
-        opacity="0.4"
-      />
-
-      {/* Dorsal fin (top, detailed) */}
-      <path d="M 100 55 L 122 25 L 132 68 Z" fill="#FF6B35" opacity="0.9" />
-      <path d="M 100 55 L 122 25 L 132 68 Z" fill="none" stroke="#FFA500" strokeWidth="1.5" opacity="0.5" />
-      <line x1="105" y1="55" x2="125" y2="30" stroke="#FFA500" strokeWidth="1" opacity="0.3" />
-
-      {/* Bottom fin (ventral) */}
-      <path d="M 118 115 L 125 135 L 138 108 Z" fill="#FBBF24" opacity="0.75" />
-      <path d="M 118 115 L 125 135 L 138 108 Z" fill="none" stroke="#FCD34D" strokeWidth="1" opacity="0.3" />
-
-      {/* Pectoral fin (side, small) */}
-      <ellipse cx="75" cy="95" rx="6" ry="9" fill="#FCD34D" opacity="0.6" transform="rotate(-20 75 95)" />
-
-      {/* Gills (detailed gill slits) */}
-      <g filter="url(#fishShadow)">
-        <rect x="48" y="68" width="16" height="24" fill="none" stroke="#FF6B35" strokeWidth="2.5" opacity="0.85" rx="2" />
-        <line x1="50" y1="68" x2="50" y2="92" stroke="#FF6B35" strokeWidth="1.2" opacity="0.5" />
-        <line x1="54" y1="68" x2="54" y2="92" stroke="#FF6B35" strokeWidth="1.2" opacity="0.5" />
-        <line x1="58" y1="68" x2="58" y2="92" stroke="#FF6B35" strokeWidth="1.2" opacity="0.5" />
-        <line x1="62" y1="68" x2="62" y2="92" stroke="#FF6B35" strokeWidth="1.2" opacity="0.5" />
+      {/* ── Scales — overlapping arc pattern ── */}
+      <g opacity="0.35" strokeWidth="0.7" fill="none" stroke="rgba(255,255,255,0.5)">
+        {/* Row 1 (top) */}
+        <path d="M 92 62 Q 96 58 100 62" /><path d="M 102 60 Q 106 56 110 60" />
+        <path d="M 112 62 Q 116 58 120 62" /><path d="M 122 64 Q 126 60 130 64" />
+        <path d="M 132 68 Q 136 64 140 68" />
+        {/* Row 2 */}
+        <path d="M 86 72 Q 90 68 94 72" /><path d="M 96 70 Q 100 66 104 70" />
+        <path d="M 106 69 Q 110 65 114 69" /><path d="M 116 70 Q 120 66 124 70" />
+        <path d="M 126 72 Q 130 68 134 72" /><path d="M 136 75 Q 140 71 144 75" />
+        <path d="M 146 78 Q 150 74 154 78" />
+        {/* Row 3 */}
+        <path d="M 82 82 Q 86 78 90 82" /><path d="M 92 80 Q 96 76 100 80" />
+        <path d="M 102 79 Q 106 75 110 79" /><path d="M 112 80 Q 116 76 120 80" />
+        <path d="M 122 81 Q 126 77 130 81" /><path d="M 132 82 Q 136 78 140 82" />
+        <path d="M 142 84 Q 146 80 150 84" /><path d="M 152 86 Q 156 82 160 86" />
+        {/* Row 4 */}
+        <path d="M 84 92 Q 88 88 92 92" /><path d="M 94 91 Q 98 87 102 91" />
+        <path d="M 104 90 Q 108 86 112 90" /><path d="M 114 91 Q 118 87 122 91" />
+        <path d="M 124 92 Q 128 88 132 92" /><path d="M 134 94 Q 138 90 142 94" />
+        <path d="M 144 96 Q 148 92 152 96" />
+        {/* Row 5 (bottom) */}
+        <path d="M 90 102 Q 94 98 98 102" /><path d="M 100 101 Q 104 97 108 101" />
+        <path d="M 110 100 Q 114 96 118 100" /><path d="M 120 101 Q 124 97 128 101" />
+        <path d="M 130 103 Q 134 99 138 103" /><path d="M 140 106 Q 144 102 148 106" />
       </g>
 
-      {/* Scales (improved overlapping pattern) */}
-      <circle cx="85" cy="70" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="99" cy="66" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="113" cy="70" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="85" cy="88" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="99" cy="94" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="113" cy="88" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
-      <circle cx="127" cy="78" r="5.5" fill="none" stroke="rgba(255, 255, 255, 0.35)" strokeWidth="1.5" opacity="0.8" />
+      {/* ── Dorsal fin (top) — curved with rays ── */}
+      <path d="M 105 52 Q 112 28 130 22 Q 138 20 148 28 Q 152 36 150 52 Q 135 48 120 50 Z"
+        fill="url(#r1Dorsal)" opacity="0.9" />
+      {/* Dorsal fin membrane rays */}
+      <line x1="112" y1="50" x2="120" y2="28" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" />
+      <line x1="122" y1="49" x2="130" y2="24" stroke="rgba(255,255,255,0.18)" strokeWidth="0.5" />
+      <line x1="132" y1="49" x2="138" y2="26" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+      <line x1="142" y1="50" x2="146" y2="32" stroke="rgba(255,255,255,0.12)" strokeWidth="0.5" />
+      {/* Dorsal edge highlight */}
+      <path d="M 105 52 Q 112 28 130 22 Q 138 20 148 28"
+        fill="none" stroke="rgba(251,146,60,0.5)" strokeWidth="1" />
 
-      {/* Eye (improved anatomy) */}
-      <circle cx="53" cy="78" r="4.5" fill="white" filter="url(#fishShadow)" />
-      <circle cx="53" cy="78" r="3" fill="black" opacity="0.8" />
-      <circle cx="54" cy="76" r="1.2" fill="white" opacity="0.75" />
-      <circle cx="53" cy="80" r="0.6" fill="black" opacity="0.3" />
+      {/* ── Anal fin (bottom rear) ── */}
+      <path d="M 118 118 Q 125 138 140 140 Q 145 138 148 130 Q 144 120 135 118 Z"
+        fill="#f59e0b" opacity="0.7" />
+      <line x1="124" y1="118" x2="130" y2="136" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
+      <line x1="134" y1="118" x2="138" y2="134" stroke="rgba(255,255,255,0.12)" strokeWidth="0.5" />
 
-      {/* Mouth (curved line) */}
-      <path d="M 48 85 Q 50 88 52 87" stroke="rgba(0, 0, 0, 0.3)" strokeWidth="1" fill="none" />
+      {/* ── Pelvic fins (small, underside) ── */}
+      <path d="M 102 116 Q 98 128 92 130 Q 90 128 95 118 Z"
+        fill="#fbbf24" opacity="0.5" />
+      <path d="M 108 116 Q 106 126 100 128 Q 99 126 104 118 Z"
+        fill="#fbbf24" opacity="0.45" />
 
-      {/* Label backgrounds with arrows and pointer lines */}
+      {/* ── Pectoral fin (side, translucent) ── */}
+      <path d="M 90 90 Q 80 100 74 108 Q 72 110 76 108 Q 86 100 92 94 Z"
+        fill="#67e8f9" opacity="0.35" />
+      <line x1="90" y1="90" x2="76" y2="106" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
 
-      {/* Gills label with arrow */}
-      <line x1="55" y1="60" x2="35" y2="35" stroke="rgba(255, 107, 53, 0.7)" strokeWidth="2" />
-      <polygon points="35,35 38,40 32,38" fill="rgba(255, 107, 53, 0.7)" />
-      <rect x="8" y="18" width="54" height="24" rx="5" fill="rgba(0, 0, 0, 0.7)" stroke="#FF6B35" strokeWidth="2" />
-      <text x="35" y="36" fontSize="11" fill="#FFD700" fontWeight="bold" textAnchor="middle">
+      {/* ── Gill cover — operculum arc ── */}
+      <path d="M 88 68 Q 82 78 82 88 Q 82 98 88 108"
+        fill="none" stroke="rgba(14,116,144,0.6)" strokeWidth="1.8" strokeLinecap="round" />
+      {/* Gill slits behind operculum */}
+      <path d="M 84 72 Q 80 80 80 85 Q 80 90 84 98" fill="none" stroke="rgba(239,68,68,0.3)" strokeWidth="0.8" />
+      <path d="M 82 74 Q 78 82 78 85 Q 78 88 82 96" fill="none" stroke="rgba(239,68,68,0.25)" strokeWidth="0.7" />
+      <path d="M 80 76 Q 76 83 76 85 Q 76 87 80 94" fill="none" stroke="rgba(239,68,68,0.2)" strokeWidth="0.6" />
+
+      {/* ── Eye — detailed with iris ── */}
+      <circle cx="97" cy="72" r="6" fill="#f0f9ff" />
+      <circle cx="97" cy="72" r="4.5" fill="#1e3a5f" />
+      <circle cx="97" cy="72" r="2.8" fill="#0c1829" />
+      {/* Iris ring detail */}
+      <circle cx="97" cy="72" r="4" fill="none" stroke="rgba(34,211,238,0.3)" strokeWidth="0.6" />
+      {/* Specular highlights */}
+      <circle cx="99" cy="70" r="1.4" fill="white" opacity="0.85" />
+      <circle cx="95.5" cy="74" r="0.6" fill="white" opacity="0.4" />
+
+      {/* ── Mouth ── */}
+      <path d="M 76 88 Q 78 92 82 90" fill="none" stroke="rgba(14,116,144,0.5)" strokeWidth="1.2" strokeLinecap="round" />
+
+      {/* ── Nostril ── */}
+      <circle cx="84" cy="78" r="0.8" fill="rgba(14,116,144,0.4)" />
+
+      {/* Body top edge subtle highlight */}
+      <path d="M 100 50 Q 120 45 145 52 Q 165 60 170 78"
+        fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth="0.8" />
+
+      {/* ═══════════ Labels ═══════════ */}
+
+      {/* Gills label */}
+      <line x1="82" y1="86" x2="30" y2="32" stroke="#FF6B35" strokeWidth="1.5" strokeDasharray="3,2" opacity="0.7" />
+      <circle cx="82" cy="86" r="2" fill="#FF6B35" opacity="0.7" />
+      <rect x="4" y="18" width="52" height="20" rx="10" fill="rgba(0,0,0,0.75)" stroke="#FF6B35" strokeWidth="1.5" />
+      <text x="30" y="33" fontSize="10" fill="#FFD700" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
         {l.gills}
       </text>
 
-      {/* Scales label with arrow */}
-      <line x1="105" y1="105" x2="110" y2="130" stroke="rgba(255, 215, 0, 0.7)" strokeWidth="2" />
-      <polygon points="110,130 115,123 112,129" fill="rgba(255, 215, 0, 0.7)" />
-      <rect x="60" y="135" width="70" height="24" rx="5" fill="rgba(0, 0, 0, 0.7)" stroke="#FFD700" strokeWidth="2" />
-      <text x="95" y="153" fontSize="11" fill="#FFD700" fontWeight="bold" textAnchor="middle">
+      {/* Scales label */}
+      <line x1="120" y1="96" x2="120" y2="142" stroke="#22d3ee" strokeWidth="1.5" strokeDasharray="3,2" opacity="0.7" />
+      <circle cx="120" cy="96" r="2" fill="#22d3ee" opacity="0.7" />
+      <rect x="88" y="135" width="64" height="20" rx="10" fill="rgba(0,0,0,0.75)" stroke="#22d3ee" strokeWidth="1.5" />
+      <text x="120" y="150" fontSize="10" fill="#67e8f9" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
         {l.scales}
       </text>
 
-      {/* Fins label with arrow */}
-      <line x1="128" y1="48" x2="160" y2="18" stroke="rgba(255, 165, 0, 0.7)" strokeWidth="2" />
-      <polygon points="160,18 156,26 161,21" fill="rgba(255, 165, 0, 0.7)" />
-      <rect x="148" y="6" width="54" height="24" rx="5" fill="rgba(0, 0, 0, 0.7)" stroke="#FFA500" strokeWidth="2" />
-      <text x="175" y="24" fontSize="11" fill="#FFD700" fontWeight="bold" textAnchor="middle">
+      {/* Fins label */}
+      <line x1="140" y1="36" x2="190" y2="14" stroke="#fb923c" strokeWidth="1.5" strokeDasharray="3,2" opacity="0.7" />
+      <circle cx="140" cy="36" r="2" fill="#fb923c" opacity="0.7" />
+      <rect x="168" y="4" width="52" height="20" rx="10" fill="rgba(0,0,0,0.75)" stroke="#fb923c" strokeWidth="1.5" />
+      <text x="194" y="19" fontSize="10" fill="#fed7aa" fontWeight="bold" textAnchor="middle" fontFamily="system-ui">
         {l.fins}
       </text>
     </svg>
