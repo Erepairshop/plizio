@@ -30,6 +30,11 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -40,6 +45,13 @@ import {
   completeMissionO7, completeTestO7, islandTotalStarsO7,
 } from "@/lib/astroMagyar7";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type Lang, type IslandDef, type MissionDef, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
+import {
+  generateO7CategoryRushContent,
+  generateO7SentenceBuilderContent,
+  generateO7PictureWordContent,
+  generateO7ReadingCompContent,
+  generateO7MemoryPairContent,
+} from "@/app/astromagyar/contentGenerators";
 import { O7_ISLAND_SVGS } from "@/app/astromagyar/islands-o7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -72,6 +84,11 @@ type Screen =
   | "sentence-explorer"
   | "eset-explorer"
   | "review-explorer-hu"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -307,7 +324,13 @@ export default function AstroMagyarO7Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    const explorerTypes = [
+      "letter-explorer", "syllable-explorer", "spelling-explorer",
+      "noun-explorer", "verb-explorer", "sentence-explorer",
+      "eset-explorer", "review-explorer-hu",
+      "sentence-builder", "memory-pair", "picture-word",
+      "category-rush", "reading-comp",
+    ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
@@ -598,6 +621,67 @@ export default function AstroMagyarO7Page() {
       {screen === "review-explorer-hu" && (
         <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
           onDone={(s, t) => handleMissionSuccess(s, t)} />
+      )}
+
+      {screen === "sentence-builder" && (
+        <div className="relative">
+          <SentenceBuilderExplorer
+            rounds={generateO7SentenceBuilderContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "memory-pair" && (
+        <div className="relative">
+          <MemoryPairExplorer
+            pairs={generateO7MemoryPairContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "picture-word" && (
+        <div className="relative">
+          <PictureVocabExplorer
+            rounds={generateO7PictureWordContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
+      )}
+
+      {screen === "category-rush" && (
+        <div className="relative">
+          {(() => {
+            const data = generateO7CategoryRushContent();
+            return (
+              <CategoryRushExplorer
+                categories={data.categories}
+                items={data.items}
+                color={activeIsland?.color || "#FF2D78"}
+                lang={lang}
+                onDone={(s, t) => handleMissionSuccess(s, t)}
+              />
+            );
+          })()}
+        </div>
+      )}
+
+      {screen === "reading-comp" && (
+        <div className="relative">
+          <ReadingCompExplorer
+            rounds={generateO7ReadingCompContent()}
+            color={activeIsland?.color || "#FF2D78"}
+            lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)}
+          />
+        </div>
       )}
 
       {screen === "reward" && earnedCard && (

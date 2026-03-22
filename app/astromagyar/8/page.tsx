@@ -32,6 +32,11 @@ import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
 import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
 import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
 import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
+import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
+import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
+import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
+import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
+import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -42,6 +47,13 @@ import {
   completeMissionO8, completeTestO8, islandTotalStarsO8,
 } from "@/lib/astroMagyar8";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type IslandDef, type MissionDef, type Lang, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
+import {
+  generateO8CategoryRushContent,
+  generateO8SentenceBuilderContent,
+  generateO8PictureWordContent,
+  generateO8ReadingCompContent,
+  generateO8MemoryPairContent,
+} from "@/app/astromagyar/contentGenerators";
 import { O8_ISLAND_SVGS } from "@/app/astromagyar/islands-o8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -75,6 +87,11 @@ type Screen =
   | "sentence-explorer"
   | "eset-explorer"
   | "review-explorer-hu"
+  | "sentence-builder"
+  | "memory-pair"
+  | "picture-word"
+  | "category-rush"
+  | "reading-comp"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -198,7 +215,13 @@ export default function AstroMagyar8Page() {
       return;
     }
     // Explorer components: self-contained, no questions needed
-    const explorerTypes = ["letter-explorer", "syllable-explorer", "spelling-explorer", "noun-explorer", "verb-explorer", "sentence-explorer", "eset-explorer", "review-explorer-hu"];
+    const explorerTypes = [
+      "letter-explorer", "syllable-explorer", "spelling-explorer",
+      "noun-explorer", "verb-explorer", "sentence-explorer",
+      "eset-explorer", "review-explorer-hu",
+      "sentence-builder", "memory-pair", "picture-word",
+      "category-rush", "reading-comp",
+    ];
     if (explorerTypes.includes(gameType)) {
       setMissionScore({ score: 0, total: 0 });
       setScreen(gameType as Screen);
