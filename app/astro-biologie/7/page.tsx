@@ -25,6 +25,13 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import CellExplorer from "@/app/astro-biologie/games/CellExplorer";
+import DivisionExplorer from "@/app/astro-biologie/games/DivisionExplorer";
+import PhotosynthesisExplorer from "@/app/astro-biologie/games/PhotosynthesisExplorer";
+import EcologyExplorer from "@/app/astro-biologie/games/EcologyExplorer";
+import ImmuneExplorer from "@/app/astro-biologie/games/ImmuneExplorer";
+import NerveExplorer from "@/app/astro-biologie/games/NerveExplorer";
+import EvolutionExplorer from "@/app/astro-biologie/games/EvolutionExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -96,6 +103,13 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "cell-explorer"
+  | "division-explorer"
+  | "photosynthesis-explorer"
+  | "ecology-explorer"
+  | "immune-explorer"
+  | "nerve-explorer"
+  | "evolution-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"

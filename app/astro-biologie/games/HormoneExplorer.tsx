@@ -45,8 +45,23 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_fact3: "Hyperthyroidism: Too much thyroid hormone → fast metabolism, nervousness",
     r4_fact4: "Growth hormone imbalance: Can cause gigantism (too much) or dwarfism (too little)",
 
+    // Round 3 MCQ
+    r3_q: "What does negative feedback do in hormone regulation?",
+    r3_q_insulin: "Increases insulin production",
+    r3_q_negative: "Stabilizes hormones around a set point",
+    r3_q_thyroid: "Reduces thyroid activity",
+    r3_q_adrenaline: "Always increases stress hormone levels",
+
+    // Round 4 MCQ
+    r4_q: "What disease is caused by growth hormone imbalance?",
+    r4_q_diabetes: "Diabetes",
+    r4_q_growth: "Gigantism or dwarfism",
+    r4_q_thyroid: "Hyperthyroidism",
+    r4_q_stress: "Chronic fatigue",
+
     // Round 5: Quiz
     r5_title: "Hormone Review",
+    r5_text: "",
 
     // Quiz Questions (2-3 questions)
     q1_q: "Which gland is called the 'master gland'?",
@@ -96,7 +111,22 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_fact3: "Hyperthyreose: Zu viel Schilddrüsenhormon → schneller Stoffwechsel, Nervosität",
     r4_fact4: "Wachstumshormonstörung: Kann Gigantismus (zu viel) oder Zwergwuchs (zu wenig) verursachen",
 
+    // Round 3 MCQ
+    r3_q: "Was bewirkt negative Rückkopplung bei der Hormonregulation?",
+    r3_q_insulin: "Erhöht die Insulinproduktion",
+    r3_q_negative: "Stabilisiert Hormone um einen Sollwert",
+    r3_q_thyroid: "Reduziert die Schilddrüsenaktivität",
+    r3_q_adrenaline: "Erhöht immer die Stresshormonspiegel",
+
+    // Round 4 MCQ
+    r4_q: "Welche Krankheit wird durch ein Wachstumshormonstörung verursacht?",
+    r4_q_diabetes: "Diabetes",
+    r4_q_growth: "Gigantismus oder Zwergwuchs",
+    r4_q_thyroid: "Hyperthyreose",
+    r4_q_stress: "Chronische Müdigkeit",
+
     r5_title: "Hormon-Wiederholung",
+    r5_text: "",
 
     q1_q: "Welche Drüse wird 'Meisterdrüse' genannt?",
     q1_pituitary: "Hypophyse",
@@ -145,7 +175,22 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_fact3: "Hipertireózis: Túl sok pajzsmirigy-hormon → gyors anyagcsere, idegesség",
     r4_fact4: "Növekedési hormon egyensúlyvesztése: Óriásteremtést (túl sok) vagy törpeséget (túl kevés) okozhat",
 
+    // Round 3 MCQ
+    r3_q: "Mit tesz a negatív visszacsatolás a hormon szabályozásában?",
+    r3_q_insulin: "Növeli az inzulintermelést",
+    r3_q_negative: "Stabilizálja a hormonokat egy értékpont körül",
+    r3_q_thyroid: "Csökkenti a pajzsmirigy aktivitást",
+    r3_q_adrenaline: "Mindig növeli a stresszhormon szintjeit",
+
+    // Round 4 MCQ
+    r4_q: "Milyen betegséget okoz a növekedési hormon egyensúlyvesztése?",
+    r4_q_diabetes: "Diabetes",
+    r4_q_growth: "Óriásteremtés vagy törpeség",
+    r4_q_thyroid: "Hipertireózis",
+    r4_q_stress: "Krónikus fáradtság",
+
     r5_title: "Hormon Áttekintés",
+    r5_text: "",
 
     q1_q: "Melyik mirigyét nevezik 'mester mirigy'-nek?",
     q1_pituitary: "Hipofízis",
@@ -186,6 +231,11 @@ const LABELS: Record<string, Record<string, string>> = {
     r3_fact2: "Exemplu: Glicemie ridicată → pancreasul eliberează insulină → glicemia scade → mai puțină insulină",
     r3_fact3: "Aceasta menține homeostazia corpului tău (stare echilibrată)",
     r3_fact4: "Fără feedback, nivelurile de hormoni s-ar balansa sălbatic în sus și în jos",
+    r3_q: "Ce face feedback-ul negativ în reglarea hormonilor?",
+    r3_q_insulin: "Mărește producția de insulină",
+    r3_q_negative: "Stabilizează hormonii în jurul unui punct stabilit",
+    r3_q_thyroid: "Reduce activitatea tiroidei",
+    r3_q_adrenaline: "Crește pur și simplu nivelurile de stres",
 
     r4_title: "Când Hormonii se Strică",
     r4_text: "Dezechilibrele hormonale provoacă boli. Înțelegerea acestora ne ajută să le tratăm.",
@@ -193,8 +243,14 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_fact2: "Hipotireoidism: Glanda tiroidă nu produce suficient hormon → metabolism lent, oboseală",
     r4_fact3: "Hipertireoidism: Prea mult hormon tiroidian → metabolism rapid, nervozitate",
     r4_fact4: "Dezechilibru al hormonului de creștere: Poate cauza gigantism (prea mult) sau nanismul (prea puțin)",
+    r4_q: "Ce maladie cauzează un dezechilibru de hormon de creștere?",
+    r4_q_diabetes: "Diabetul",
+    r4_q_growth: "Gigantism sau nanismul",
+    r4_q_thyroid: "Hipertireoidismul",
+    r4_q_stress: "Oboseala cronică",
 
     r5_title: "Recapitulare Hormoni",
+    r5_text: "",
 
     q1_q: "Care glandă este numită 'glanda maestră'?",
     q1_pituitary: "Hipofiza",
