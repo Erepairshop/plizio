@@ -1,0 +1,92 @@
+"use client";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    r1_title: "🌐 Foreign Words in German (Fremdwörter)",
+    r1_text: "German has many words borrowed from other languages. LATIN: 'Musik', 'Kunst', 'Preis'. GREEK: 'Telefon', 'Fotografie'. FRENCH: 'Hotel', 'Restaurant'.",
+    r1_q: "Which word is a FOREIGN word from GREEK?",
+    r1_a: "Hotel",
+    r1_b: "Telefon",
+    r1_c: "Preis",
+    r1_d: "Mantel",
+    r2_title: "🌐 Correct spelling of foreign words",
+    r2_text: "Keep the ORIGINAL spelling. NOT: 'Tafel', but 'Tafel' (originally German). BUT: 'Philosophie' (not 'Philosophee'). Follow original language rules!",
+    r2_q: "Correct spelling:",
+    r2_a: "Photographie",
+    r2_b: "Fotografie",
+    r2_c: "Fotographia",
+    r2_d: "Photo-Grafie",
+    r3_title: "🌐 Origin recognition (Herkunftserkennung)",
+    r3_text: "GREEK roots: -phon-, -graph-, -logy-, -scope-. LATIN: -tion, -mente, -form-. FRENCH: -age, -ette. Look for patterns!",
+    r3_q: "'Biologie' is from which language?",
+    r3_a: "French",
+    r3_b: "Greek",
+    r3_c: "Latin",
+    r3_d: "English",
+    r4_title: "🌐 Integration into German (Angleichung)",
+    r4_text: "Foreign words adapt to German gender (das, der, die). Example: 'das Telefon' (neuter). Some get German endings: 'Computer → computern' (decline like German).",
+    r4_q1: "The word 'Skepsis' (from Greek) is which gender?",
+    r4_ans1: "die Skepsis",
+    r5_title: "⭐ Foreign Words Review",
+    r5_text: "Test your knowledge!",
+    r5_q1: "'Psychologie' — from which language?",
+    r5_greek: "Greek",
+    r5_latin: "Latin",
+    r5_q2: "Identify the original language: 'Student' (from Latin studentem)",
+    r5_latin2: "Latin",
+    r5_greek2: "Greek",
+  },
+  de: {
+    r1_title: "🌐 Fremdwörter",
+    r1_text: "Deutsche hat viele Wörter aus anderen Sprachen. LATEIN: 'Musik', 'Kunst', 'Preis'. GRIECHISCH: 'Telefon', 'Fotografie'. FRANZÖSISCH: 'Hotel', 'Restaurant'.",
+    r1_q: "Welches ist ein FREMDWORT aus dem GRIECHISCHEN?",
+    r1_a: "Hotel",
+    r1_b: "Telefon",
+    r1_c: "Preis",
+    r1_d: "Mantel",
+    r2_title: "🌐 Richtige Schreibweise",
+    r2_text: "ORIGINALSCHREIBWEISE bewahren. Beispiel: 'Philosophie' (nicht 'Philosophee'). Folge den Originalsprachenregeln!",
+    r2_q: "Richtige Schreibweise:",
+    r2_a: "Photographie",
+    r2_b: "Fotografie",
+    r2_c: "Fotographia",
+    r2_d: "Photo-Grafie",
+    r3_title: "🌐 Herkunftserkennung",
+    r3_text: "GRIECHISCH: -phon-, -graph-, -loge-, -scope-. LATEIN: -tion, -mente, -form-. FRANZÖSISCH: -age, -ette. Erkenne Muster!",
+    r3_q: "'Biologie' ist aus welcher Sprache?",
+    r3_a: "Französisch",
+    r3_b: "Griechisch",
+    r3_c: "Latein",
+    r3_d: "Englisch",
+    r4_title: "🌐 Angleichung ins Deutsche",
+    r4_text: "Fremdwörter passen sich deutschem Genus an. Beispiel: 'das Telefon' (Neutrum). Manche bekommen deutsche Endungen: 'Computer → mit dem Computer'.",
+    r4_q1: "Das Wort 'Skepsis' (aus Griechisch) ist welches Genus?",
+    r4_ans1: "die Skepsis",
+    r5_title: "⭐ Fremdwörter Wiederholung",
+    r5_text: "Teste dein Wissen!",
+    r5_q1: "'Psychologie' — aus welcher Sprache?",
+    r5_greek: "Griechisch",
+    r5_latin: "Latein",
+    r5_q2: "Erkenne die Ursprache: 'Student' (aus Latein)",
+    r5_latin2: "Latein",
+    r5_greek2: "Griechisch",
+  },
+};
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="60" cy="80" r="20" fill="#6366F1" opacity="0.5"/><text x="60" y="90" textAnchor="middle" fontSize="12" fill="#fff">LT</text><circle cx="120" cy="80" r="20" fill="#6366F1" opacity="0.5"/><text x="120" y="90" textAnchor="middle" fontSize="12" fill="#fff">GR</text><circle cx="180" cy="80" r="20" fill="#6366F1" opacity="0.5"/><text x="180" y="90" textAnchor="middle" fontSize="12" fill="#fff">FR</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_b" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="14" fill="#6366F1" fontWeight="bold">Foto-graphie</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_b" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="30" y="50" fontSize="11" fill="#6366F1">-phon-</text><text x="90" y="50" fontSize="11" fill="#6366F1">-graph-</text><text x="150" y="50" fontSize="11" fill="#6366F1">-logy-</text><text x="30" y="100" fontSize="11" fill="#6366F1">-tion</text><text x="90" y="100" fontSize="11" fill="#6366F1">-mente</text><text x="150" y="100" fontSize="11" fill="#6366F1">-age</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_b" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="14" fill="#6366F1">Originalwort</text><text x="120" y="115" textAnchor="middle" fontSize="12" fill="#6366F1">↓</text><text x="120" y="135" textAnchor="middle" fontSize="14" fill="#6366F1">Deutsche</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "der Skepsis", "das Skepsis", "ein Skepsis"], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_greek", "r5_latin"], answer: "r5_greek" }, { question: "r5_q2", choices: ["r5_latin2", "r5_greek2"], answer: "r5_latin2" }] },
+  ],
+};
+
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function FremdwoerterK6Explorer({ color = "#6366F1", lang = "en", onDone, onClose }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+}

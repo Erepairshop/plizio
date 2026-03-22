@@ -1,196 +1,99 @@
 "use client";
 
-import React from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
-  de: {
-    r1_info_title: "🔄 Aktiv & Passiv",
-    r1_info_text: "AKTIV: Das Subjekt führt die Handlung aus. 'Der Hund beißt den Mann.' PASSIV: Das Subjekt erlebt die Handlung. 'Der Mann wird vom Hund gebissen.' Beide Sätze bedeuten das Gleiche!",
-    r1_q: "Welcher Satz ist AKTIV?",
-    r1_a1: "Der Lehrer erklärt die Aufgabe.",
-    r1_a2: "Die Aufgabe wird vom Lehrer erklärt.",
-    r1_a3: "Die Aufgabe ist erklärt worden.",
-    r1_a4: "Es wird erklärt.",
-    r2_info_title: "📝 Passiv erkennen",
-    r2_info_text: "PASSIV erkennst du an: werden/sein + Partizip II. Beispiel: 'Das Haus wird gebaut.' 'Das Fenster wurde geputzt.' Das Partizip II ist das -t oder -en am Ende des Verbs.",
-    r2_q: "Welcher Satz steht im PASSIV?",
-    r2_a1: "Maria schreibt einen Brief.",
-    r2_a2: "Der Brief wird von Maria geschrieben.",
-    r2_a3: "Maria hat einen Brief geschrieben.",
-    r2_a4: "Ich schreibe oft Briefe.",
-    r3_info_title: "🔀 Umformung: Aktiv → Passiv",
-    r3_info_text: "Um von Aktiv zu Passiv zu wechseln: Das Objekt wird zum Subjekt, das Subjekt wird zur von/vom-Phrase. AKTIV: 'Ich esse einen Apfel.' PASSIV: 'Ein Apfel wird von mir gegessen.'",
-    r3_q: "Wie heißt der Passivsatz? Aktiv: 'Der Künstler malt das Bild.'",
-    r3_a1: "Das Bild wird vom Künstler gemalt.",
-    r3_a2: "Das Bild ist vom Künstler gemalt.",
-    r3_a3: "Der Künstler wird das Bild malen.",
-    r3_a4: "Das Bild malt der Künstler.",
-    r4_info_title: "⭐ Vorgangs- & Zustandspassiv",
-    r4_info_text: "VORGANGSPASSIV (werden): betont den Prozess. 'Das Haus wird gebaut.' ZUSTANDSPASSIV (sein): betont das Ergebnis. 'Das Haus ist gebaut.' Merksatz: werden = Aktion, sein = Resultat!",
-    r4_q: "Was ist richtig? 'Das Fenster _____ geöffnet.'",
-    r4_a1: "wird (Vorgangspassiv — aktive Handlung)",
-    r4_a2: "ist (Zustandspassiv — Resultat sichtbar)",
-    r4_a3: "bist",
-    r4_a4: "seid",
-    r5_info_title: "✅ Wiederholung: Aktiv & Passiv",
-    r5_info_text: "Teste dein Wissen!",
-    r5_q1: "Aktiv oder Passiv? 'Die Suppe wird gekocht.'",
-    r5_q1_a1: "Aktiv",
-    r5_q1_a2: "Passiv",
-    r5_q1_a3: "Imperative",
-    r5_q1_a4: "Konjunktiv",
-    r5_q2: "Welcher Satz bedeutet das Gleiche wie 'Das Kind öffnet die Tür'?",
-    r5_q2_a1: "Die Tür wird vom Kind geöffnet.",
-    r5_q2_a2: "Das Kind wird die Tür öffnen.",
-    r5_q2_a3: "Die Tür öffnet das Kind.",
-    r5_q2_a4: "Das Kind hat die Tür geöffnet.",
-    r5_q3: "Zustandspassiv oder Vorgangspassiv? 'Das Auto ist repariert.'",
-    r5_q3_a1: "Vorgangspassiv",
-    r5_q3_a2: "Zustandspassiv",
-    r5_q3_a3: "Präteritum",
-    r5_q3_a4: "Imperativ",
-  },
   en: {
-    r1_info_title: "🔄 Active & Passive",
-    r1_info_text: "ACTIVE: The subject does the action. 'The dog bites the man.' PASSIVE: The subject experiences the action. 'The man is bitten by the dog.' Both sentences mean the same thing!",
-    r1_q: "Which sentence is ACTIVE?",
-    r1_a1: "The teacher explains the task.",
-    r1_a2: "The task is explained by the teacher.",
-    r1_a3: "The task has been explained.",
-    r1_a4: "It is being explained.",
-    r2_info_title: "📝 Recognizing Passive",
-    r2_info_text: "PASSIVE is marked by: werden/sein + past participle. Example: 'Das Haus wird gebaut.' 'Das Fenster wurde geputzt.' The past participle ends in -t or -en.",
-    r2_q: "Which sentence is in PASSIVE voice?",
-    r2_a1: "Maria writes a letter.",
-    r2_a2: "The letter is written by Maria.",
-    r2_a3: "Maria has written a letter.",
-    r2_a4: "I often write letters.",
-    r3_info_title: "🔀 Converting: Active → Passive",
-    r3_info_text: "To change from active to passive: The object becomes the subject, the subject becomes a von/vom phrase. ACTIVE: 'Ich esse einen Apfel.' PASSIVE: 'Ein Apfel wird von mir gegessen.'",
-    r3_q: "How does the passive version sound? Active: 'The artist paints the picture.'",
-    r3_a1: "The picture is painted by the artist.",
-    r3_a2: "The picture was painted by the artist.",
-    r3_a3: "The artist will paint the picture.",
-    r3_a4: "The picture paints the artist.",
-    r4_info_title: "⭐ Action Passive & State Passive",
-    r4_info_text: "ACTION PASSIVE (werden): emphasizes the process. 'Das Haus wird gebaut.' STATE PASSIVE (sein): emphasizes the result. 'Das Haus ist gebaut.' Remember: werden = action, sein = result!",
-    r4_q: "What's correct? 'Das Fenster _____ geöffnet.'",
-    r4_a1: "wird (action passive — ongoing)",
-    r4_a2: "ist (state passive — result visible)",
-    r4_a3: "bist",
-    r4_a4: "seid",
-    r5_info_title: "✅ Review: Active & Passive",
-    r5_info_text: "Test your knowledge!",
-    r5_q1: "Active or passive? 'Die Suppe wird gekocht.'",
-    r5_q1_a1: "Active",
-    r5_q1_a2: "Passive",
-    r5_q1_a3: "Imperative",
-    r5_q1_a4: "Subjunctive",
-    r5_q2: "Which sentence means the same as 'The child opens the door'?",
-    r5_q2_a1: "The door is opened by the child.",
-    r5_q2_a2: "The child will open the door.",
-    r5_q2_a3: "The door opens the child.",
-    r5_q2_a4: "The child has opened the door.",
-    r5_q3: "State or action passive? 'Das Auto ist repariert.'",
-    r5_q3_a1: "Action passive",
-    r5_q3_a2: "State passive",
-    r5_q3_a3: "Preterite",
-    r5_q3_a4: "Imperative",
+    r1_title: "🔄 Active Voice (Aktiv)",
+    r1_text: "In ACTIVE voice, the subject DOES the action. Example: 'Der Lehrer schreibt die Sätze.' The subject performs the action.",
+    r1_q: "Which sentence is ACTIVE voice?",
+    r1_a: "Der Junge baut den Turm.",
+    r1_b: "Der Turm wird vom Jungen gebaut.",
+    r1_c: "Das Buch wurde gelesen.",
+    r1_d: "Der Film ist geschaut worden.",
+    r2_title: "🔄 Passive Voice (Passiv)",
+    r2_text: "In PASSIVE voice, the action is performed ON the subject. Use 'werden' + Partizip II. Example: 'Der Turm wird vom Jungen gebaut.'",
+    r2_q: "Which is the PASSIVE construction?",
+    r2_a: "Ich helfe dir.",
+    r2_b: "Der Brief wird geschrieben.",
+    r2_c: "Sie läuft schnell.",
+    r2_d: "Wir spielen Fußball.",
+    r3_title: "🔄 Vorgangspassiv vs Zustandspassiv",
+    r3_text: "VORGANGSPASSIV: 'Das Haus wird gebaut.' ZUSTANDSPASSIV: 'Das Haus ist gebaut.' Focus on action vs result.",
+    r3_q: "Which is ZUSTANDSPASSIV (stative)?",
+    r3_a: "Der Kuchen wird gebacken.",
+    r3_b: "Das Fenster ist geöffnet.",
+    r3_c: "Die Tür wird geschlossen.",
+    r3_d: "Das Bild wird gemalt.",
+    r4_title: "🔄 Active to Passive Transformation",
+    r4_text: "Active object → passive SUBJECT. Active subject → 'von + dative'. Active: 'Der Künstler malt das Bild.' → Passive: 'Das Bild wird vom Künstler gemalt.'",
+    r4_q1: "Transform: 'Die Köchin bereitet das Essen.'",
+    r4_ans1: "Das Essen wird von der Köchin bereitet.",
+    r5_title: "⭐ Review: Active vs Passive",
+    r5_text: "Test your knowledge!",
+    r5_q1: "Is this active or passive? 'Das Lied wird gesungen.'",
+    r5_passive: "Passive",
+    r5_active: "Active",
+    r5_q2: "Correct passive: 'Der Lehrer korrigiert die Arbeiten.'",
+    r5_correct: "Die Arbeiten werden vom Lehrer korrigiert.",
+    r5_wrong1: "Die Arbeiten korrigiert der Lehrer.",
+    r5_q3: "'Die Stadt wird von den Bewohnern geschützt.' Which type?",
+    r5_vorgangs: "Vorgangspassiv",
+    r5_zustands: "Zustandspassiv",
+  },
+  de: {
+    r1_title: "🔄 Aktiv",
+    r1_text: "Im AKTIV ist das Subjekt die HANDELNDE PERSON. Beispiel: 'Der Lehrer schreibt die Sätze.' Das Subjekt führt die Handlung aus.",
+    r1_q: "Welcher Satz ist AKTIV?",
+    r1_a: "Der Junge baut den Turm.",
+    r1_b: "Der Turm wird vom Jungen gebaut.",
+    r1_c: "Das Buch wurde gelesen.",
+    r1_d: "Der Film ist geschaut worden.",
+    r2_title: "🔄 Passiv",
+    r2_text: "Im PASSIV wird die Handlung ERLITTEN. Struktur: 'werden' + Partizip II. Beispiel: 'Der Turm wird vom Jungen gebaut.'",
+    r2_q: "Welcher Satz ist PASSIV?",
+    r2_a: "Ich helfe dir.",
+    r2_b: "Der Brief wird geschrieben.",
+    r2_c: "Sie läuft schnell.",
+    r2_d: "Wir spielen Fußball.",
+    r3_title: "🔄 Vorgangspassiv vs Zustandspassiv",
+    r3_text: "VORGANGSPASSIV: 'Das Haus wird gebaut.' ZUSTANDSPASSIV: 'Das Haus ist gebaut.' Fokus auf Handlung vs Ergebnis.",
+    r3_q: "Welches ist ZUSTANDSPASSIV?",
+    r3_a: "Der Kuchen wird gebacken.",
+    r3_b: "Das Fenster ist geöffnet.",
+    r3_c: "Die Tür wird geschlossen.",
+    r3_d: "Das Bild wird gemalt.",
+    r4_title: "🔄 Aktiv → Passiv Transformation",
+    r4_text: "Objekt des Aktivsatzes wird Subjekt. Subjekt wird 'von + Dativ'. Aktiv: 'Der Künstler malt das Bild.' → Passiv: 'Das Bild wird vom Künstler gemalt.'",
+    r4_q1: "Transformiere: 'Die Köchin bereitet das Essen.'",
+    r4_ans1: "Das Essen wird von der Köchin bereitet.",
+    r5_title: "⭐ Wiederholung: Aktiv vs Passiv",
+    r5_text: "Teste dein Wissen!",
+    r5_q1: "Ist das Aktiv oder Passiv? 'Das Lied wird gesungen.'",
+    r5_passive: "Passiv",
+    r5_active: "Aktiv",
+    r5_q2: "Richtige Passiv-Form: 'Der Lehrer korrigiert die Arbeiten.'",
+    r5_correct: "Die Arbeiten werden vom Lehrer korrigiert.",
+    r5_wrong1: "Die Arbeiten korrigiert der Lehrer.",
+    r5_q3: "'Die Stadt wird von den Bewohnern geschützt.' Welcher Typ?",
+    r5_vorgangs: "Vorgangspassiv",
+    r5_zustands: "Zustandspassiv",
   },
 };
 
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_info_title",
-      infoText: "r1_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fed7aa 100%)" }}>
-          <rect x="20" y="40" width="60" height="60" rx="8" fill="#ea580c" opacity="0.8" />
-          <text x="50" y="75" textAnchor="middle" fontSize="40">
-            🔄
-          </text>
-          <rect x="160" y="40" width="60" height="60" rx="8" fill="#0284c7" opacity="0.8" />
-          <text x="190" y="75" textAnchor="middle" fontSize="40">
-            ↔️
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r1_q", choices: ["r1_a1", "r1_a2", "r1_a3", "r1_a4"], answer: "r1_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_info_title",
-      infoText: "r2_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            📝
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r2_q", choices: ["r2_a1", "r2_a2", "r2_a3", "r2_a4"], answer: "r2_a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_info_title",
-      infoText: "r3_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e0e7ff 0%, #ddd6fe 100%)" }}>
-          <text x="60" y="85" textAnchor="middle" fontSize="48">
-            ➡️
-          </text>
-          <text x="180" y="85" textAnchor="middle" fontSize="48">
-            🔀
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r3_q", choices: ["r3_a1", "r3_a2", "r3_a3", "r3_a4"], answer: "r3_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_info_title",
-      infoText: "r4_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ⭐
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r4_q", choices: ["r4_a1", "r4_a2", "r4_a3", "r4_a4"], answer: "r4_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_info_title",
-      infoText: "r5_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fcd34d 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ✅
-          </text>
-        </svg>
-      ),
-      questions: [
-        { question: "r5_q1", choices: ["r5_q1_a1", "r5_q1_a2", "r5_q1_a3", "r5_q1_a4"], answer: "r5_q1_a2" },
-        { question: "r5_q2", choices: ["r5_q2_a1", "r5_q2_a2", "r5_q2_a3", "r5_q2_a4"], answer: "r5_q2_a1" },
-        { question: "r5_q3", choices: ["r5_q3_a1", "r5_q3_a2", "r5_q3_a3", "r5_q3_a4"], answer: "r5_q3_a2" },
-      ],
-    },
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="80" cy="80" r="25" fill="#FF9500"/><text x="80" y="90" textAnchor="middle" fontSize="40">→</text><circle cx="160" cy="80" r="25" fill="#FF9500"/><text x="160" y="90" textAnchor="middle" fontSize="40">•</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><rect x="60" y="50" width="120" height="60" rx="4" fill="#EF4444" opacity="0.3"/><text x="120" y="90" textAnchor="middle" fontSize="50">←</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_b" }] },
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="70" cy="80" r="30" fill="#10B981" opacity="0.5"/><text x="70" y="95" textAnchor="middle" fontSize="30">⚡</text><circle cx="170" cy="80" r="30" fill="#10B981" opacity="0.8"/><text x="170" y="95" textAnchor="middle" fontSize="30">✓</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_b" }] },
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="30" y="85" fontSize="14" fill="#FF9500" fontWeight="bold">AKTIV</text><path d="M 80 80 L 160 80" stroke="#FF9500" strokeWidth="2"/><text x="210" y="85" fontSize="14" fill="#EF4444" fontWeight="bold">PASSIV</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "Das Essen ist bereitet.", "Bereitet das Essen.", "Essen wird bereitet."], answer: "r4_ans1" }] },
+    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.4"/><text x="120" y="95" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_passive", "r5_active"], answer: "r5_passive" }, { question: "r5_q2", choices: ["r5_correct", "r5_wrong1"], answer: "r5_correct" }, { question: "r5_q3", choices: ["r5_vorgangs", "r5_zustands"], answer: "r5_vorgangs" }] },
   ],
 };
 
-interface Props {
-  color?: string;
-  lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
-
-export default function ActivePassiveK6Explorer({ color = "#FF9500", lang = "de", onDone, onClose }: Props) {
+interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
+export default function ActivePassiveK6Explorer({ color = "#FF9500", lang = "en", onDone, onClose }: Props) {
   return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
 }

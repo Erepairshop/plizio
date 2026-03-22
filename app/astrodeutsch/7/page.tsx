@@ -25,6 +25,15 @@ import GravitySort from "@/app/astrodeutsch/games/GravitySort";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import KonjunktivIExplorer from "@/app/astrodeutsch/games/k7/KonjunktivIExplorer";
+import WerdenPassivExplorer from "@/app/astrodeutsch/games/k7/WerdenPassivExplorer";
+import PassivModalExplorer from "@/app/astrodeutsch/games/k7/PassivModalExplorer";
+import StilmittelExplorer from "@/app/astrodeutsch/games/k7/StilmittelExplorer";
+import KausalKonditionalExplorer from "@/app/astrodeutsch/games/k7/KausalKonditionalExplorer";
+import KonzessivFinalExplorer from "@/app/astrodeutsch/games/k7/KonzessivFinalExplorer";
+import TemporalsatzExplorer from "@/app/astrodeutsch/games/k7/TemporalsatzExplorer";
+import InfinitivConstructionExplorer from "@/app/astrodeutsch/games/k7/InfinitivConstructionExplorer";
+import ReviewK7Explorer from "@/app/astrodeutsch/games/k7/ReviewK7Explorer";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -89,7 +98,16 @@ type Screen =
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
-  | "rocket-launch";
+  | "rocket-launch"
+  | "k7-konjunktiv-i-explorer"
+  | "k7-werden-passive-explorer"
+  | "k7-passiv-modal-explorer"
+  | "k7-stilmittel-explorer"
+  | "k7-kausal-konditional-explorer"
+  | "k7-konzessiv-final-explorer"
+  | "k7-temporalsatz-explorer"
+  | "k7-infinitiv-construction-explorer"
+  | "k7-review-explorer";
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -428,6 +446,14 @@ export default function AstroDeutschK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+
+    // Explorer games don't need questions
+    if (mission.gameType.includes("explorer")) {
+      setQuestions([]);
+      setScreen(mission.gameType as Screen);
+      return;
+    }
+
     const qCount = mission.gameType === "star-match" ? 15 : 10;
     const qs = generateIslandQuestionsK7(activeIsland, lang as Lang, qCount);
     setQuestions(qs);
@@ -718,6 +744,65 @@ export default function AstroDeutschK7Page() {
       </div>
     </div>
   );
+
+  const explorerScreens = [
+    "k7-konjunktiv-i-explorer",
+    "k7-werden-passive-explorer",
+    "k7-passiv-modal-explorer",
+    "k7-stilmittel-explorer",
+    "k7-kausal-konditional-explorer",
+    "k7-konzessiv-final-explorer",
+    "k7-temporalsatz-explorer",
+    "k7-infinitiv-construction-explorer",
+    "k7-review-explorer",
+  ];
+
+  if (explorerScreens.includes(screen)) {
+    const explorerColor = activeIsland?.color ?? "#B44DFF";
+    return (
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: `radial-gradient(ellipse at 50% 0%, ${explorerColor}18 0%, #060614 55%)` }}>
+        <Starfield />
+        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+          <button onClick={() => setScreen("mission-select")}
+            className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+          <div className="flex-1">
+            <p className="text-white/70 text-xs font-bold">{activeIsland?.icon} {activeIsland?.name[lang as Lang]}</p>
+            <p className="text-white/50 text-[10px]">{activeMission?.label[lang as Lang] ?? activeMission?.label.de}</p>
+          </div>
+        </div>
+        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+          {screen === "k7-konjunktiv-i-explorer" && (
+            <KonjunktivIExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-werden-passive-explorer" && (
+            <WerdenPassivExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-passiv-modal-explorer" && (
+            <PassivModalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-stilmittel-explorer" && (
+            <StilmittelExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-kausal-konditional-explorer" && (
+            <KausalKonditionalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-konzessiv-final-explorer" && (
+            <KonzessivFinalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-temporalsatz-explorer" && (
+            <TemporalsatzExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-infinitiv-construction-explorer" && (
+            <InfinitivConstructionExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+          {screen === "k7-review-explorer" && (
+            <ReviewK7Explorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+          )}
+        </div>
+      </div>
+    );
+  }
 
   if (["orbit-quiz", "black-hole", "star-match", "speed-round", "gravity-sort"].includes(screen)) return (
     <>

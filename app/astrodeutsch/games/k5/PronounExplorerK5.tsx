@@ -114,35 +114,84 @@ const DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "title1",
       infoText: "text1",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">👤</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Nominativ</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>Singular</div>
+            <div>Plural</div>
+            <div style={{ color: '#3b82f6' }}>ich, du</div>
+            <div style={{ color: '#3b82f6' }}>wir, ihr</div>
+            <div style={{ color: '#8b5cf6' }}>er, sie, es</div>
+            <div style={{ color: '#8b5cf6' }}>sie</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
     },
     {
       type: "mcq",
       infoTitle: "title2",
       infoText: "text2",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🔀</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Kasus-Änderung</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div><span style={{ color: '#94a3b8' }}>Nominativ:</span> ich</div>
+            <div><span style={{ color: '#3b82f6' }}>Akkusativ:</span> <span style={{ color: '#3b82f6', fontWeight: 800 }}>mich</span></div>
+            <div><span style={{ color: '#8b5cf6' }}>Dativ:</span> <span style={{ color: '#8b5cf6', fontWeight: 800 }}>mir</span></div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
     },
     {
       type: "mcq",
       infoTitle: "title3",
       infoText: "text3",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">📍</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Possessiv</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div><span style={{ color: '#94a3b8' }}>ich</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>mein</span></div>
+            <div><span style={{ color: '#94a3b8' }}>wir</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>unser</span></div>
+            <div><span style={{ color: '#94a3b8' }}>ihr</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>euer</span></div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
     },
     {
       type: "mcq",
       infoTitle: "title4",
       infoText: "text4",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🪞</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Reflexiv</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>«Ich wasche <span style={{ color: '#ef4444', fontWeight: 800 }}>mich</span>»</div>
+            <div>«Er wäscht <span style={{ color: '#ef4444', fontWeight: 800 }}>sich</span>»</div>
+            <div style={{ marginTop: 4, fontSize: 12, color: '#475569' }}>Aktion bezieht sich auf das Subjekt</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
     },
     {
       type: "mcq",
       infoTitle: "title5",
       infoText: "text5",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⭐</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Alle Pronomen</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
+            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Personal</div>
+            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Possessiv</div>
+            <div style={{ background: '#10b981', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Reflexiv</div>
+            <div style={{ background: '#f59e0b', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Kasus</div>
+          </div>
+        </div>
+      ),
       questions: [
         { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
         { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },

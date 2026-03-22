@@ -114,35 +114,79 @@ const DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "title1",
       infoText: "text1",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🔄</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Wechselpräpositionen</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
+            <div style={{ color: '#3b82f6' }}>in, an, auf</div>
+            <div style={{ color: '#8b5cf6' }}>über, unter, neben</div>
+            <div style={{ color: '#10b981' }}>zwischen, vor, hinter</div>
+            <div style={{ marginTop: 2, fontSize: 10, color: '#64748b' }}>= Dativ oder Akkusativ</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
     },
     {
       type: "mcq",
       infoTitle: "title2",
       infoText: "text2",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⬇️</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Dativ-Präpositionen</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>mit, ohne, aus, von, zu, bei, seit</div>
+            <div style={{ marginTop: 4, fontSize: 11, background: '#8b5cf6', color: '#ffffff', borderRadius: 6, padding: '6px 10px', textAlign: 'center' }}>Immer Dativ!</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
     },
     {
       type: "mcq",
       infoTitle: "title3",
       infoText: "text3",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">➡️</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Akkusativ-Präpositionen</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
+            <div>durch, für, gegen, ohne, um</div>
+            <div style={{ marginTop: 4, fontSize: 11, background: '#3b82f6', color: '#ffffff', borderRadius: 6, padding: '6px 10px', textAlign: 'center' }}>Immer Akkusativ!</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
     },
     {
       type: "mcq",
       infoTitle: "title4",
       infoText: "text4",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⛓️</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Konjunktionen</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
+            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>und, oder, aber</div>
+            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>weil, dass, wenn</div>
+          </div>
+        </div>
+      ),
       questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
     },
     {
       type: "mcq",
       infoTitle: "title5",
       infoText: "text5",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⭐</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Wiederholung</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
+            <div style={{ background: '#10b981', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Wo/Wohin?</div>
+            <div style={{ background: '#f59e0b', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Dativ/Akk</div>
+            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>mit/zu</div>
+            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Ketten</div>
+          </div>
+        </div>
+      ),
       questions: [
         { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
         { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },

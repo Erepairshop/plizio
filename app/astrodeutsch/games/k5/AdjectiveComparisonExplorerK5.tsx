@@ -114,35 +114,86 @@ const DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "title1",
       infoText: "text1",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">📊</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Grundform</p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 14, color: '#1e293b', fontWeight: 600 }}>
+            <span>schnell</span>
+            <span style={{ color: '#94a3b8', fontSize: 12 }}>✓</span>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 12, color: '#475569' }}>Die Ausgangsform ohne Veränderung</div>
+        </div>
+      ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
     },
     {
       type: "mcq",
       infoTitle: "title2",
       infoText: "text2",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">➕</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Komparativ</p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontSize: 14, color: '#1e293b', fontWeight: 600 }}>
+            <span>schnell</span>
+            <span style={{ color: '#3b82f6', fontWeight: 800 }}>+</span>
+            <span style={{ color: '#3b82f6', fontWeight: 800 }}>-er</span>
+            <span style={{ color: '#3b82f6', fontWeight: 800 }}>=</span>
+            <span style={{ color: '#3b82f6', fontWeight: 800 }}>schneller</span>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 12, color: '#475569' }}>Vergleich von zwei Dingen</div>
+        </div>
+      ),
       questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
     },
     {
       type: "mcq",
       infoTitle: "title3",
       infoText: "text3",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">🏆</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Superlativ</p>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontSize: 14, color: '#1e293b', fontWeight: 600 }}>
+            <span>schnell</span>
+            <span style={{ color: '#8b5cf6', fontWeight: 800 }}>→</span>
+            <span style={{ color: '#8b5cf6', fontWeight: 800 }}>am</span>
+            <span style={{ color: '#8b5cf6', fontWeight: 800 }}>schnellsten</span>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 12, color: '#475569' }}>Die höchste Stufe 🏆</div>
+        </div>
+      ),
       questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
     },
     {
       type: "mcq",
       infoTitle: "title4",
       infoText: "text4",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⚡</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Unregelmäßig</p>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 14, color: '#1e293b', fontWeight: 600 }}>
+            <div>gut → <span style={{ color: '#ef4444', fontWeight: 800 }}>besser</span> → am besten</div>
+            <div>viel → <span style={{ color: '#ef4444', fontWeight: 800 }}>mehr</span> → am meisten</div>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 12, color: '#475569' }}>Diese Adjektive ändern sich anders!</div>
+        </div>
+      ),
       questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
     },
     {
       type: "mcq",
       infoTitle: "title5",
       infoText: "text5",
-      svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="50" fill="#fff">⭐</text></svg>,
+      svg: () => (
+        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
+          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Wiederholung</p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600, textAlign: 'center' }}>
+            <div style={{ background: '#ffffff', borderRadius: 8, padding: 8, color: '#94a3b8' }}>Grundform</div>
+            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff' }}>+er</div>
+            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff' }}>-esten</div>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 12, color: '#475569', textAlign: 'center' }}>Alle 3 Formen!</div>
+        </div>
+      ),
       questions: [
         { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
         { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },

@@ -23,6 +23,15 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
+import ActivePassiveK6Explorer from "@/app/astrodeutsch/games/k6/ActivePassiveK6Explorer";
+import KonjunktivIIK6Explorer from "@/app/astrodeutsch/games/k6/KonjunktivIIK6Explorer";
+import InfinitivZuK6Explorer from "@/app/astrodeutsch/games/k6/InfinitivZuK6Explorer";
+import SynonymAntonymK6Explorer from "@/app/astrodeutsch/games/k6/SynonymAntonymK6Explorer";
+import FremdwoerterK6Explorer from "@/app/astrodeutsch/games/k6/FremdwoerterK6Explorer";
+import RelativCausalK6Explorer from "@/app/astrodeutsch/games/k6/RelativCausalK6Explorer";
+import WordFormationK6Explorer from "@/app/astrodeutsch/games/k6/WordFormationK6Explorer";
+import PunctuationK6Explorer from "@/app/astrodeutsch/games/k6/PunctuationK6Explorer";
+import ReviewK6Explorer from "@/app/astrodeutsch/games/k6/ReviewK6Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -87,6 +96,9 @@ type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
   | "word-blitz"
+  | "k6-active-passive-explorer" | "k6-konjunktiv-ii-explorer" | "k6-infinitiv-zu-explorer"
+  | "k6-synonym-antonym-explorer" | "k6-fremdwoerter-explorer" | "k6-relativsatz-kausalsatz-explorer"
+  | "k6-wortbildung-explorer" | "k6-punctuation-explorer" | "k6-review-explorer"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -425,7 +437,7 @@ export default function AstroDeutschK6Page() {
     setScreen("island-transition");
   }, []);
 
-  const noQuestionsTypes = new Set(["word-blitz"]);
+  const noQuestionsTypes = new Set(["word-blitz", "k6-active-passive-explorer", "k6-konjunktiv-ii-explorer", "k6-infinitiv-zu-explorer", "k6-synonym-antonym-explorer", "k6-fremdwoerter-explorer", "k6-relativsatz-kausalsatz-explorer", "k6-wortbildung-explorer", "k6-punctuation-explorer", "k6-review-explorer"]);
 
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -718,11 +730,40 @@ export default function AstroDeutschK6Page() {
         {screen === "word-blitz" && (
           <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "k6-active-passive-explorer" && (
+          <ActivePassiveK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-konjunktiv-ii-explorer" && (
+          <KonjunktivIIK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-infinitiv-zu-explorer" && (
+          <InfinitivZuK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-synonym-antonym-explorer" && (
+          <SynonymAntonymK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-fremdwoerter-explorer" && (
+          <FremdwoerterK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-relativsatz-kausalsatz-explorer" && (
+          <RelativCausalK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-wortbildung-explorer" && (
+          <WordFormationK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-punctuation-explorer" && (
+          <PunctuationK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k6-review-explorer" && (
+          <ReviewK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "word-blitz"].includes(screen)) return (
+  const explorerScreens = ["k6-active-passive-explorer", "k6-konjunktiv-ii-explorer", "k6-infinitiv-zu-explorer", "k6-synonym-antonym-explorer", "k6-fremdwoerter-explorer", "k6-relativsatz-kausalsatz-explorer", "k6-wortbildung-explorer", "k6-punctuation-explorer", "k6-review-explorer"];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "word-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
