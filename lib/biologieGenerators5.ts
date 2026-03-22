@@ -205,6 +205,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
   fish: (seed?: number) => {
     const rng = seed ? mulberry32(seed) : Math.random;
     const questions: CurriculumQuestion[] = [];
+    const seenQ = new Set<string>();
     const templates = [
       (f: typeof FISH_DATA[0]) => ({
         q: `Welches Organ benutzt ${f.name} zum Atmen?`,
@@ -227,16 +228,21 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["Frosch", "Ente", "Eidechse"]
       }),
       (f: typeof FISH_DATA[0]) => ({
-        q: `Was ist ein Merkmal von Fischen in dieser Gruppe?`,
+        q: `Was unterscheidet ${f.name} von Landtieren beim Atmen?`,
         a: f.organ,
         w: ["Lungen", "Flügel", "Beine"]
       }),
     ];
-    for (let i = 0; i < 30; i++) {
+    let attempts = 0;
+    while (questions.length < 30 && attempts < 300) {
+      attempts++;
       const fish = pick(FISH_DATA, rng);
-      const template = templates[i % templates.length];
+      const template = templates[Math.floor(rng() * templates.length)];
       const t = template(fish);
-      questions.push(createMCQ("wirbeltiere", "fish", t.q, t.a, t.w, rng));
+      if (!seenQ.has(t.q)) {
+        seenQ.add(t.q);
+        questions.push(createMCQ("wirbeltiere", "fish", t.q, t.a, t.w, rng));
+      }
     }
     return questions;
   },

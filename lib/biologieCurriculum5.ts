@@ -95,7 +95,7 @@ export function getK5Questions(
   count = 10
 ): BiologieQuestion[] {
   const themes = K5_CURRICULUM;
-  const pool: BiologieQuestion[] = [];
+  let pool: BiologieQuestion[] = [];
   const generators = K5_GENERATOR_MAP;
 
   if (!generators || Object.keys(generators).length === 0) {
@@ -137,6 +137,14 @@ export function getK5Questions(
       }
     }
   }
+
+  // Deduplicate by question text
+  const seenQ = new Set<string>();
+  pool = pool.filter(q => {
+    if (seenQ.has(q.question)) return false;
+    seenQ.add(q.question);
+    return true;
+  });
 
   // Fisher-Yates shuffle
   for (let i = pool.length - 1; i > 0; i--) {

@@ -135,11 +135,19 @@ export function getK8Questions(
     }
   }
 
-  for (let i = pool.length - 1; i > 0; i--) {
+  // Deduplicate by question text
+  const seenQ = new Set<string>();
+  const dedupedPool = pool.filter(q => {
+    if (seenQ.has(q.question)) return false;
+    seenQ.add(q.question);
+    return true;
+  });
+
+  for (let i = dedupedPool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
+    [dedupedPool[i], dedupedPool[j]] = [dedupedPool[j], dedupedPool[i]];
   }
-  return pool.slice(0, count);
+  return dedupedPool.slice(0, count);
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────
