@@ -518,7 +518,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
   // Template 1: "Where has the object most PE?"
   const peLocations = [
     { object: "ball", low: "on ground", mid: "on table", high: "on shelf", de_high: "auf Regal", hu_high: "a polcon", ro_high: "pe raft" },
-    { object: "water", low: "in pool", mid: "in pipe", high: "in tower", de_high: "im Turm", hu_high: "a toronyban", ro_high: "in turn" },
+    { object: "water", low: "in pool", mid: "in pipe", high: "in tower", de_high: "im Turm", hu_high: "a toronyban", ro_high: "în turn" },
     { object: "roller coaster", low: "at bottom", mid: "halfway", high: "at top", de_high: "an der Spitze", hu_high: "csucsán", ro_high: "la virf" },
   ];
 
@@ -669,7 +669,7 @@ export function generatePotentialEnergyTyping(lang: string, seed = Math.random()
     "book on shelf, water in tower",
     "Buch auf Regal, Wasser im Turm",
     "konyv a polcon, viz a toronyban",
-    "carte pe raft, apa in turn"
+    "carte pe raft, apa în turn"
   ]));
 
   return shuffle(questions, rng).slice(0, 10);
@@ -869,7 +869,7 @@ export function generateEnergyConservation(lang: string, seed = Math.random()): 
 
   // Template 3: Where does lost energy go
   const q_lost = q4(
-    "Wohin geht verlorene Energie wenn ein Ball auseinanderbricht?",
+    "Wohin geht verlorene Energie wenn ein Ball abprallt?",
     "Where does lost energy go when a ball bounces?",
     "Hova megy az elveszett energia amikor egy labda visszapattan?",
     "Unde merge energia pierduta cand o minge sare?",

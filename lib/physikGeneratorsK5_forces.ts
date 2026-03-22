@@ -114,7 +114,7 @@ export function generatePushPullMCQ(lang: string = "en", seed: number = 0): Curr
   // Template 1: "What type of force is [action]?"
   for (let i = 0; i < 10; i++) {
     const example = pick([...PUSH_PULL_DATA.pushExamples, ...PUSH_PULL_DATA.pullExamples], rng);
-    const isPush = Math.random() > 0.5;
+    const isPush = rng() > 0.5;
     const action = isPush ? pick(PUSH_PULL_DATA.pushExamples, rng) : pick(PUSH_PULL_DATA.pullExamples, rng);
     const correct = isPush ? q4("Drücken", "Push", "Nyomás", "Împingere", lang) : q4("Ziehen", "Pull", "Húzás", "Tragere", lang);
     questions.push(createMCQ(
@@ -129,7 +129,7 @@ export function generatePushPullMCQ(lang: string = "en", seed: number = 0): Curr
 
   // Template 2: "Which is an example of [push/pull]?"
   for (let i = 0; i < 10; i++) {
-    const isPush = Math.random() > 0.5;
+    const isPush = rng() > 0.5;
     const exampleList = isPush ? PUSH_PULL_DATA.pushExamples : PUSH_PULL_DATA.pullExamples;
     const correct = pick(exampleList, rng);
     const wrongList = isPush ? PUSH_PULL_DATA.pullExamples : PUSH_PULL_DATA.pushExamples;

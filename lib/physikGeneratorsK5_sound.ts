@@ -630,7 +630,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Egy koncert körülbelül ___ decibel.`,
         `Un concert are aproximativ ___ decibeli.`
       ),
-      ["110", "centotíz", "száztíz", "o sută zece"]
+      ["110", "száztíz", "o sută zece"]
     )
   );
 
@@ -658,7 +658,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Egy sugármotor körülbelül ___ decibelt produkál.`,
         `Un motor de reacție produce aproximativ ___ decibeli.`
       ),
-      ["140", "centoquaranta", "száznegyven", "o sută patruzeci"]
+      ["140", "száznegyven", "o sută patruzeci"]
     )
   );
 
@@ -1048,7 +1048,7 @@ function generateSpeedOfSoundTyping(seed?: number): CurriculumTyping[] {
         `A hangsebesség levegőben körülbelül ___ m/s.`,
         `Viteza sunetului în aer este aproximativ ___ m/s.`
       ),
-      ["343", "trecentoquarantatre", "háromszázharminckettő", "trei sute patruzeci și trei"]
+      ["343", "háromszáznegyvenhárom", "trei sute patruzeci și trei"]
     )
   );
 
@@ -1160,7 +1160,7 @@ function generateSpeedOfSoundTyping(seed?: number): CurriculumTyping[] {
         `A hangsebesség vízben körülbelül ___ m/s.`,
         `Viteza sunetului în apă este aproximativ ___ m/s.`
       ),
-      ["1480", "millecentottanta", "ezerek száznegyven", "o mie patru sute optzeci"]
+      ["1480", "ezernégyszáznyolcvan", "o mie patru sute optzeci"]
     )
   );
 

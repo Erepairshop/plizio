@@ -26,7 +26,7 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
     { de: "Sonne", en: "Sun", hu: "Nap", ro: "Soare" },
     { de: "Sterne", en: "Stars", hu: "Csillagok", ro: "Stele" },
     { de: "Feuer", en: "Fire", hu: "Tűz", ro: "Foc" },
-    { de: "Glühwürmchen", en: "Firefly", hu: "Tüfirefly", ro: "Vierme de lumină" },
+    { de: "Glühwürmchen", en: "Firefly", hu: "Szentjánosbogár", ro: "Vierme de lumină" },
     { de: "Blitz", en: "Lightning", hu: "Villám", ro: "Fulger" },
   ];
 
@@ -168,6 +168,7 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
 
   for (let i = 0; i < 7; i++) {
     const mat = pick(materials, rng);
+    const langKey = lang as keyof typeof mat;
     questions.push(
       createMCQ(
         q4(
@@ -179,10 +180,10 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
         ),
         shuffle(
           [
-            mat.de,
-            pick(materials.filter((m) => m !== mat), rng).de,
-            pick(materials.filter((m) => m !== mat), rng).de,
-            pick(materials.filter((m) => m !== mat), rng).de,
+            mat[langKey],
+            pick(materials.filter((m) => m !== mat), rng)[langKey],
+            pick(materials.filter((m) => m !== mat), rng)[langKey],
+            pick(materials.filter((m) => m !== mat), rng)[langKey],
           ],
           rng
         ),
@@ -843,7 +844,7 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
         q4(
           `Was ist eine Fata Morgana (Luftspiegelung)?`,
           `What is a mirage?`,
-          `Mi az a füst tükrözés (delusion)?`,
+          `Mi az a délibáb?`,
           `Ce este o miraj?`,
           lang
         ),
@@ -943,6 +944,17 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
       { de: "Braun", en: "Brown", hu: "Barna", ro: "Maro" },
     ];
 
+    const langKey = lang as keyof typeof correct;
+    const options = [
+      correct[langKey],
+      wrong[0][langKey],
+      wrong[1][langKey],
+      wrong[2][langKey],
+    ];
+
+    const shuffled = shuffle(options, rng);
+    const correctIndex = shuffled.indexOf(wrong[2][langKey]);
+
     questions.push(
       createMCQ(
         q4(
@@ -952,16 +964,8 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `Care NU este culoare a curcubeului (ROYGBIV)?`,
           lang
         ),
-        shuffle(
-          [
-            correct[lang as keyof typeof correct],
-            wrong[0][lang as keyof typeof wrong[0]],
-            wrong[1][lang as keyof typeof wrong[1]],
-            wrong[2][lang as keyof typeof wrong[2]],
-          ],
-          rng
-        ),
-        wrong[2][lang as keyof typeof wrong[2]] === correct ? -1 : 3
+        shuffled,
+        correctIndex >= 0 ? correctIndex : 3
       )
     );
   }

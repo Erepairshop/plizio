@@ -2,11 +2,27 @@
 // English Test mintájára strukturálva
 // 28 subtopic × 2 (MCQ + Typing) = 56 generátor
 
-import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import type { CurriculumQuestion as BaseCurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
 
+export type CurriculumQuestion = BaseCurriculumQuestion;
 export type PhysikQuestion = CurriculumQuestion;
-export type PhysikTheme = CurriculumTheme;
+
+// Local types with multilingual name support
+export interface PhysikSubtopic {
+  id: string;
+  name: Record<string, string>; // { de, en, hu, ro }
+  questions: PhysikQuestion[];
+  hasGenerator: boolean;
+}
+
+export interface PhysikTheme {
+  id: string;
+  name: string;
+  icon: string;
+  color: string;
+  subtopics: PhysikSubtopic[];
+}
 
 const K5: PhysikTheme[] = [
   {
@@ -164,6 +180,65 @@ export function getK5Questions(
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
   return pool.slice(0, count);
+}
+
+// ─── HELPER FUNCTIONS FOR GENERATORS ──────────────────────────────────────
+
+export function mulberry32(seed: number): () => number {
+  return () => {
+    seed |= 0;
+    seed = (seed + 0x6d2b79f5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) | 0;
+    return (((t ^ (t >>> 14)) >>> 0) / 4294967296);
+  };
+}
+
+export function shuffle<T>(arr: T[], rng: () => number): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+export function pick<T>(arr: T[], rng: () => number): T {
+  return arr[Math.floor(rng() * arr.length)];
+}
+
+export function createMCQ(
+  topic: string,
+  subtopic: string,
+  question: string,
+  correct: string,
+  wrong: string[],
+  rng: () => number
+): CurriculumQuestion {
+  const options = shuffle([correct, ...wrong.slice(0, 3)], rng);
+  return {
+    type: "mcq" as const,
+    topic,
+    subtopic,
+    question,
+    options,
+    correct: options.indexOf(correct),
+  };
+}
+
+export function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): CurriculumQuestion {
+  return {
+    type: "typing" as const,
+    topic,
+    subtopic,
+    question,
+    answer,
+  };
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────

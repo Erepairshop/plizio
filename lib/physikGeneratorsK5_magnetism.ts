@@ -117,6 +117,7 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: Which material is magnetic? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de"; // Language for this generator
     const magnetic = pick(
       MAGNETIC_MATERIALS.filter(m => m.magnetic),
       rng
@@ -133,7 +134,7 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
       `Which material is magnetic?`,
       `Melyik anyag mágneses?`,
       `Care material este magnetic?`,
-      "de" // Default language, will be overridden in generator
+      lang
     );
     questions.push(
       createMCQ(
@@ -149,20 +150,21 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: What happens when two north poles meet? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was passiert, wenn zwei Nordpole sich treffen?`,
       `What happens when two north poles meet?`,
       `Mi történik, ha két északi pólus találkozik?`,
       `Ce se întâmplă când doi poli nord se întâlnesc?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Sie stoßen sich ab",
-        ["Sie ziehen sich an", "Nichts passiert", "Sie verbinden sich"],
+        q4("Sie stoßen sich ab", "They repel each other", "Taszítják egymást", "Se resping reciproc", lang),
+        [q4("Sie ziehen sich an", "They attract each other", "Vonzzák egymást", "Se atrag reciproc", lang), q4("Nichts passiert", "Nothing happens", "Semmi nem történik", "Nimic nu se întâmplă", lang), q4("Sie verbinden sich", "They merge together", "Összeolvadnak", "Se fuzionează", lang)],
         rng
       )
     );
@@ -170,20 +172,21 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: What is a compass needle? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was ist eine Kompassnadel?`,
       `What is a compass needle?`,
       `Mi az egy iránytű tűje?`,
       `Ce este acul unei busole?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Ein magnetisiertes Stück Eisen",
-        ["Eine Kupferspitze", "Ein Papierstreifen", "Ein Stahlgewicht"],
+        q4("Ein magnetisiertes Stück Eisen", "A magnetized piece of iron", "Egy mágnesesített vasdarab", "O bucată de fier magnetizată", lang),
+        [q4("Eine Kupferspitze", "A copper tip", "Egy réztipp", "Un vârf de cupru", lang), q4("Ein Papierstreifen", "A paper strip", "Egy papírcsík", "O bandă de hârtie", lang), q4("Ein Stahlgewicht", "A steel weight", "Egy acélsúly", "O greutate de oțel", lang)],
         rng
       )
     );
@@ -191,6 +194,7 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: Which is NOT magnetic? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const notMagnetic = pick(
       MAGNETIC_MATERIALS.filter(m => !m.magnetic),
       rng
@@ -207,7 +211,7 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
       `Which is NOT magnetic?`,
       `Melyik NEM mágneses?`,
       `Care NU este magnetic?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
@@ -223,13 +227,14 @@ function generateMagnetsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: What type of magnet attracts iron filings? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const magnet = pick(MAGNET_TYPES, rng);
     const question = q4(
       `Welcher Magnet-Typ zieht Eisenfeilspäne an?`,
       `What type of magnet attracts iron filings?`,
       `Milyen típusú mágnes vonzza az vasfilings-t?`,
       `Ce tip de magnet atrage particulele de fier?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
@@ -264,7 +269,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `Fiecare magnet are un pol ___ și un pol ___.`,
         "de"
       ),
-      ["Nord", "South"] // English answer
+      ["Nord", "North", "Északi", "Nord"]
     )
   );
 
@@ -416,20 +421,21 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: Magnetic field lines go from ___ to ___ (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Magnetische Feldlinien gehen vom ___ zum ___ Pol.`,
       `Magnetic field lines go from ___ to ___ pole.`,
       `Mágneses térvonalak az ___ pólusról az ___ pólusra mennek.`,
       `Liniile de câmp magnetic merg de la polul ___ la polul ___.`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Nordpol / Südpol",
-        ["Südpol / Nordpol", "Osten / Westen", "Oben / Unten"],
+        q4("Nordpol / Südpol", "North pole / South pole", "Északi pólus / Déli pólus", "Polul nord / Polul sud", lang),
+        [q4("Südpol / Nordpol", "South pole / North pole", "Déli pólus / Északi pólus", "Polul sud / Polul nord", lang), q4("Osten / Westen", "East / West", "Kelet / Nyugat", "Est / Vest", lang), q4("Oben / Unten", "Up / Down", "Fel / Le", "Sus / Jos", lang)],
         rng
       )
     );
@@ -437,20 +443,21 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: How can you visualize a magnetic field? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Wie kann man ein Magnetfeld sichtbar machen?`,
       `How can you visualize a magnetic field?`,
       `Hogyan lehet láthatóvá tenni egy mágneses mezőt?`,
       `Cum poți vizualiza un câmp magnetic?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Mit Eisenfeilspänen",
-        ["Mit Sand", "Mit Wasser", "Mit Papier"],
+        q4("Mit Eisenfeilspänen", "With iron filings", "Vasfilingokkal", "Cu particulele de fier", lang),
+        [q4("Mit Sand", "With sand", "Homokkal", "Cu nisip", lang), q4("Mit Wasser", "With water", "Vízzel", "Cu apă", lang), q4("Mit Papier", "With paper", "Papírral", "Cu hârtie", lang)],
         rng
       )
     );
@@ -458,20 +465,21 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: Where is a magnet's field strongest? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Wo ist das Magnetfeld eines Magneten am stärksten?`,
       `Where is a magnet's magnetic field strongest?`,
       `Hol a legerősebb egy mágnes mágneses mezője?`,
       `Unde este cel mai puternic câmpul magnetic al unui magnet?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "An den Polen",
-        ["In der Mitte", "Überall gleich", "Nur außen"],
+        q4("An den Polen", "At the poles", "A pólusoknál", "La poli", lang),
+        [q4("In der Mitte", "In the middle", "A közepén", "În mijloc", lang), q4("Überall gleich", "Everywhere equally", "Mindenhol egyenlően", "Pretutindeni egal", lang), q4("Nur außen", "Only outside", "Csak kívül", "Doar afară", lang)],
         rng
       )
     );
@@ -479,20 +487,21 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: What creates Earth's magnetic field? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was erzeugt das Magnetfeld der Erde?`,
       `What creates Earth's magnetic field?`,
       `Mi hozza létre a Föld mágneses mezőjét?`,
       `Ce creează câmpul magnetic al Pământului?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Flüssiges Eisen im Erdkern",
-        ["Der Mond", "Die Sonne", "Die Atmosphäre"],
+        q4("Flüssiges Eisen im Erdkern", "Liquid iron in Earth's core", "Folyékony vas a Föld magjában", "Fier lichid în nucleul Pământului", lang),
+        [q4("Der Mond", "The Moon", "A Hold", "Luna", lang), q4("Die Sonne", "The Sun", "A Nap", "Soarele", lang), q4("Die Atmosphäre", "The atmosphere", "Az légkör", "Atmosfera", lang)],
         rng
       )
     );
@@ -500,20 +509,21 @@ function generateMagneticFieldMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: Iron filings pattern around a bar magnet (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Wie sieht das Muster von Eisenfeilspänen um einen Stabmagnet aus?`,
       `What pattern do iron filings make around a bar magnet?`,
       `Milyen mintázatot alkotnak az vasfilings egy stab körül?`,
       `Ce model fac particulele de fier în jurul unui magnet bară?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Bögen zwischen den Polen",
-        ["Konzentrische Kreise", "Zickzack-Linien", "Gerade Linien"],
+        q4("Bögen zwischen den Polen", "Arcs between the poles", "Ívek a pólusok között", "Arce între poli", lang),
+        [q4("Konzentrische Kreise", "Concentric circles", "Koncentrikus körök", "Cercuri concentrice", lang), q4("Zickzack-Linien", "Zigzag lines", "Cikk-cakk vonalak", "Linii în zig-zag", lang), q4("Gerade Linien", "Straight lines", "Egyenes vonalak", "Linii drepte", lang)],
         rng
       )
     );
@@ -692,20 +702,21 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: What causes static electricity? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was verursacht statische Elektrizität?`,
       `What causes static electricity?`,
       `Mi okozza a sztatikus elektromosságot?`,
       `Ce cauzează electricitatea statică?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Übertragung von Elektronen",
-        ["Wasserbewegung", "Wärmeerzeugung", "Lichtemission"],
+        q4("Übertragung von Elektronen", "Transfer of electrons", "Elektronok átadása", "Transfer de electroni", lang),
+        [q4("Wasserbewegung", "Water movement", "Vízmozgás", "Mișcarea apei", lang), q4("Wärmeerzeugung", "Heat generation", "Hőtermelés", "Generarea de căldură", lang), q4("Lichtemission", "Light emission", "Fénykibocsátás", "Emisie de lumină", lang)],
         rng
       )
     );
@@ -713,20 +724,21 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: Why does a balloon stick to wall after rubbing? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Warum bleibt ein Ballon an der Wand haften, nachdem man ihn reibt?`,
       `Why does a balloon stick to the wall after rubbing on hair?`,
       `Miért marad egy léggömb a falhoz, miután a hajára dörzsölik?`,
       `De ce rămâne un balon pe perete după ce se freacă de păr?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Statische Ladung wird übertragen",
-        ["Schwerkraft zieht ihn", "Klebstoff am Ballon", "Magnete in der Wand"],
+        q4("Statische Ladung wird übertragen", "Static charge is transferred", "Statikus töltés átadódik", "Sarcina statică este transferată", lang),
+        [q4("Schwerkraft zieht ihn", "Gravity pulls it", "A gravitáció húzza", "Gravitația o trage", lang), q4("Klebstoff am Ballon", "Glue on balloon", "Ragasztó a baloonon", "Lipici pe balon", lang), q4("Magnete in der Wand", "Magnets in wall", "Mágnesek a falban", "Magneți în perete", lang)],
         rng
       )
     );
@@ -734,20 +746,21 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: What is lightning? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was ist Blitz?`,
       `What is lightning?`,
       `Mi a villám?`,
       `Ce este fulgerul?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Eine riesige elektrische Entladung",
-        ["Ein Feuer in der Luft", "Wärmestrahlung", "Wasserdampf"],
+        q4("Eine riesige elektrische Entladung", "A huge electrical discharge", "Egy hatalmas elektromos kisülés", "O descărcare electrică masivă", lang),
+        [q4("Ein Feuer in der Luft", "Fire in the air", "Tűz a levegőben", "Foc în aer", lang), q4("Wärmestrahlung", "Heat radiation", "Hősugarazás", "Radiație de căldură", lang), q4("Wasserdampf", "Water vapor", "Vízgőz", "Abur de apă", lang)],
         rng
       )
     );
@@ -755,20 +768,21 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: Like charges ___ each other (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Gleiche Ladungen ___ sich gegenseitig.`,
       `Like charges ___ each other.`,
       `Az azonos töltések ___ egymást.`,
       `Sarcinile similare ___ una pe cealaltă.`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "stoßen ab",
-        ["ziehen an", "neutralisieren", "verschmelzen"],
+        q4("stoßen ab", "repel", "taszítják", "resping", lang),
+        [q4("ziehen an", "attract", "vonzzák", "atrag", lang), q4("neutralisieren", "neutralize", "semlegesítik", "neutralizează", lang), q4("verschmelzen", "merge", "összeolvadnak", "fuzionează", lang)],
         rng
       )
     );
@@ -776,20 +790,21 @@ function generateStaticElectricityMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: Static electricity example (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Welches ist ein Beispiel für statische Elektrizität?`,
       `Which is an example of static electricity?`,
       `Melyik a sztatikus elektromosság példája?`,
       `Care este un exemplu de electricitate statică?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Funken beim Ausziehen eines Pullovers",
-        ["Licht einer LED", "Wärme eines Feuers", "Schall einer Glocke"],
+        q4("Funken beim Ausziehen eines Pullovers", "Sparks when pulling off a sweater", "Szikrák pulóver lehúzásakor", "Scântei când scoți o bluză", lang),
+        [q4("Licht einer LED", "Light from an LED", "LED-ből származó fény", "Lumină dintr-un LED", lang), q4("Wärme eines Feuers", "Heat from a fire", "Tűz hője", "Căldura unui foc", lang), q4("Schall einer Glocke", "Sound from a bell", "Harang hangja", "Sunet de clopot", lang)],
         rng
       )
     );
@@ -968,20 +983,21 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 1: What components make a simple circuit? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Welche Komponenten sind in einem einfachen Stromkreis erforderlich?`,
       `What components make a simple circuit?`,
       `Milyen komponensek szükségesek egy egyszerű áramkörhöz?`,
       `Ce componente sunt necesare pentru un circuit simplu?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Batterie, Draht und Glühbirne",
-        ["Nur eine Batterie", "Nur Draht", "Nur ein Schalter"],
+        q4("Batterie, Draht und Glühbirne", "Battery, wire, and light bulb", "Akkumulátor, drót és villanykörte", "Baterie, fir și bec", lang),
+        [q4("Nur eine Batterie", "Only a battery", "Csak egy akkumulátor", "Numai o baterie", lang), q4("Nur Draht", "Only wire", "Csak drót", "Numai fir", lang), q4("Nur ein Schalter", "Only a switch", "Csak egy kapcsoló", "Numai un întrerupător", lang)],
         rng
       )
     );
@@ -989,20 +1005,21 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 2: What happens when switch is open? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was passiert, wenn ein Schalter offen ist?`,
       `What happens when a switch is open?`,
       `Mi történik, ha egy kapcsoló nyitva van?`,
       `Ce se întâmplă când un întrerupător este deschis?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Der Stromkreis ist unterbrochen",
-        ["Der Strom fließt", "Die Glühbirne leuchtet", "Nichts passiert"],
+        q4("Der Stromkreis ist unterbrochen", "The circuit is broken", "Az áramkör megtört", "Circuitul este întrerupt", lang),
+        [q4("Der Strom fließt", "Current flows", "Az áram folyik", "Curentul curge", lang), q4("Die Glühbirne leuchtet", "The light bulb lights up", "A villanykörte kigyullad", "Becul se aprinde", lang), q4("Nichts passiert", "Nothing happens", "Semmi nem történik", "Nimic nu se întâmplă", lang)],
         rng
       )
     );
@@ -1010,22 +1027,36 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 3: Which material is a conductor? (7 versions)
   for (let i = 0; i < 7; i++) {
-    const conductors = ["Kupfer", "Eisen", "Aluminium", "Silber"];
-    const insulators = ["Gummi", "Kunststoff", "Glas", "Holz"];
+    const lang = "de";
+    const conductors = [
+      { de: "Kupfer", en: "Copper", hu: "Réz", ro: "Cupru" },
+      { de: "Eisen", en: "Iron", hu: "Vas", ro: "Fier" },
+      { de: "Aluminium", en: "Aluminum", hu: "Alumínium", ro: "Aluminiu" },
+      { de: "Silber", en: "Silver", hu: "Ezüst", ro: "Argint" }
+    ];
+    const insulators = [
+      { de: "Gummi", en: "Rubber", hu: "Gumi", ro: "Cauciuc" },
+      { de: "Kunststoff", en: "Plastic", hu: "Műanyag", ro: "Plastic" },
+      { de: "Glas", en: "Glass", hu: "Üveg", ro: "Sticlă" },
+      { de: "Holz", en: "Wood", hu: "Fa", ro: "Lemn" }
+    ];
+    const selectedConductor = pick(conductors, rng);
+    const conductorText = q4(selectedConductor.de, selectedConductor.en, selectedConductor.hu, selectedConductor.ro, lang);
     const question = q4(
       `Welches Material ist ein Stromleiter?`,
       `Which material is a conductor?`,
       `Melyik anyag egy vezető?`,
       `Care material este un conductor?`,
-      "de"
+      lang
     );
+    const wrongOptions = insulators.slice(0, 3).map(ins => q4(ins.de, ins.en, ins.hu, ins.ro, lang));
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        pick(conductors, rng),
-        insulators.slice(0, 3).map(() => pick(insulators, rng)),
+        conductorText,
+        wrongOptions,
         rng
       )
     );
@@ -1033,20 +1064,21 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 4: What provides energy in a circuit? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was liefert die Energie in einem Stromkreis?`,
       `What provides energy in a circuit?`,
       `Mi biztosítja az energiát az áramkörben?`,
       `Ce furnizează energia într-un circuit?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Eine Batterie oder Stromquelle",
-        ["Der Schalter", "Der Draht", "Die Glühbirne"],
+        q4("Eine Batterie oder Stromquelle", "A battery or power source", "Akkumulátor vagy áramforrás", "O baterie sau sursă de curent", lang),
+        [q4("Der Schalter", "The switch", "A kapcsoló", "Întrerupătorul", lang), q4("Der Draht", "The wire", "A drót", "Firul", lang), q4("Die Glühbirne", "The light bulb", "A villanykörte", "Becul", lang)],
         rng
       )
     );
@@ -1054,20 +1086,21 @@ function generateSimpleCircuitsMCQ(seed?: number): CurriculumMCQ[] {
 
   // Template 5: What stops electricity flow? (7 versions)
   for (let i = 0; i < 7; i++) {
+    const lang = "de";
     const question = q4(
       `Was stoppt den Stromfluss in einem Stromkreis?`,
       `What stops the flow of electricity in a circuit?`,
       `Mi állítja meg az áramáramlást az áramkörben?`,
       `Ce oprește fluxul de electricitate într-un circuit?`,
-      "de"
+      lang
     );
     questions.push(
       createMCQ(
         topic,
         subtopic,
         question,
-        "Ein offener Schalter oder Unterbrechung",
-        ["Eine Batterie", "Kupferdraht", "Eine Glühbirne"],
+        q4("Ein offener Schalter oder Unterbrechung", "An open switch or break", "Nyitott kapcsoló vagy szünet", "Un întrerupător deschis sau pauză", lang),
+        [q4("Eine Batterie", "A battery", "Egy akkumulátor", "O baterie", lang), q4("Kupferdraht", "Copper wire", "Rézhuzal", "Fir de cupru", lang), q4("Eine Glühbirne", "A light bulb", "Egy villanykörte", "Un bec", lang)],
         rng
       )
     );
