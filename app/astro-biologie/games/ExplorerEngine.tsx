@@ -196,9 +196,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
         scoreRef.current += 1;
       }
 
-      const delay = choice === currentQ.answer ? 1500 : 2500;
-      if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current);
-      autoAdvanceRef.current = setTimeout(() => advanceSub(), delay);
+      if (choice === currentQ.answer) {
+        // Correct — auto-advance after 1.5s
+        if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current);
+        autoAdvanceRef.current = setTimeout(() => advanceSub(), 1500);
+      }
+      // Wrong — NO auto-advance, user must click "Next" or "Why?"
     },
     [locked, getCurrentQuestion, advanceSub]
   );
@@ -557,18 +560,28 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
                       {selected === getCurrentQuestion()?.answer ? ui.correct : ui.wrong}
                     </span>
 
-                    {/* "Why?" button — only on wrong answer */}
+                    {/* Wrong answer: "Why?" + "Next" buttons */}
                     {selected !== getCurrentQuestion()?.answer && !aiResponse && !aiLoading && (
-                      <motion.button
+                      <motion.div
                         initial={{ opacity: 0, scale: 0.9 }}
                         animate={{ opacity: 1, scale: 1 }}
                         transition={{ delay: 0.3 }}
-                        onClick={handleAskWhy}
-                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
+                        className="flex items-center gap-2"
                       >
-                        <MessageCircleQuestion size={14} />
-                        {ui.askWhy}
-                      </motion.button>
+                        <button
+                          onClick={handleAskWhy}
+                          className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
+                        >
+                          <MessageCircleQuestion size={14} />
+                          {ui.askWhy}
+                        </button>
+                        <button
+                          onClick={() => advanceSub()}
+                          className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/20 text-white/70 hover:bg-white/20 transition-colors"
+                        >
+                          {ui.next} <ChevronRight size={14} />
+                        </button>
+                      </motion.div>
                     )}
 
                     {/* AI loading spinner */}
