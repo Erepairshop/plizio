@@ -41,7 +41,7 @@ export const O8_ISLANDS: IslandDef[] = [
     icon: "📜", color: "#FF2D78", sortRange: [1, 10],
     topicKeys: ["nyelvtort/omagyr", "nyelvtort/kodexek"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer-hu",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "old-hungarian-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -53,7 +53,7 @@ export const O8_ISLANDS: IslandDef[] = [
     icon: "🎨", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["stilus/alliteracio_ritmika", "stilus/irónia_szatira"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "picture-word" as any,  icon: "🖼️", label: { hu: "Szókincs",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "style-devices-explorer",  icon: "🖼️", label: { hu: "Szókincs",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "category-rush" as any,    icon: "📦", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -65,7 +65,7 @@ export const O8_ISLANDS: IslandDef[] = [
     icon: "🔍", color: "#00FF88", sortRange: [1, 10],
     topicKeys: ["szoveg/irodalmi_elemzes", "szoveg/kritikai_gondolkodas"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "memory-pair" as any,  icon: "🧠", label: { hu: "Memória",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "text-analysis-explorer",  icon: "🧠", label: { hu: "Memória",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "sentence-builder" as any,    icon: "🏗️", label: { hu: "Mondatépítő", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
@@ -77,7 +77,7 @@ export const O8_ISLANDS: IslandDef[] = [
     icon: "✍️", color: "#FFD700", sortRange: [1, 10],
     topicKeys: ["helyesiras/osszefoglalo"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer-hu",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
+      { id: "m1", category: "explore",   gameType: "spelling-summary-explorer",  icon: "🔭", label: { hu: "Tanul",     en: "Learn",      de: "Lernen",      ro: "Învaţă"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🪐", label: { hu: "Gyakorol", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { hu: "Kihívás",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],

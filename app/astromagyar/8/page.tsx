@@ -37,6 +37,15 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import OldHungarianExplorer from "@/app/astromagyar/games/o8/OldHungarianExplorer";
+import StyleDevicesExplorer from "@/app/astromagyar/games/o8/StyleDevicesExplorer";
+import TextAnalysisExplorer from "@/app/astromagyar/games/o8/TextAnalysisExplorer";
+import SpellingSummaryExplorer from "@/app/astromagyar/games/o8/SpellingSummaryExplorer";
+import LanguageNormExplorer from "@/app/astromagyar/games/o8/LanguageNormExplorer";
+import ScientificTextExplorer from "@/app/astromagyar/games/o8/ScientificTextExplorer";
+import DebateCultureExplorer from "@/app/astromagyar/games/o8/DebateCultureExplorer";
+import ComprehensiveTestExplorer from "@/app/astromagyar/games/o8/ComprehensiveTestExplorer";
+import GrandFinalExplorer from "@/app/astromagyar/games/o8/GrandFinalExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -92,6 +101,15 @@ type Screen =
   | "picture-word"
   | "category-rush"
   | "reading-comp"
+  | "old-hungarian-explorer"
+  | "style-devices-explorer"
+  | "text-analysis-explorer"
+  | "spelling-summary-explorer"
+  | "language-norm-explorer"
+  | "scientific-text-explorer"
+  | "debate-culture-explorer"
+  | "comprehensive-test-explorer"
+  | "grand-final-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
