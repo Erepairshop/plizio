@@ -21,20 +21,22 @@ export interface MCQQuestion {
 
 /** A single round definition */
 export interface RoundDef {
-  /** "mcq" = multiple choice, "order" = tap-in-order */
-  type: "mcq" | "order";
+  /** "info" = teach only (no question), "mcq" = multiple choice, "order" = tap-in-order */
+  type: "info" | "mcq" | "order";
   /** Label key for info screen title */
   infoTitle: string;
   /** Label key for info screen text */
   infoText: string;
   /** SVG illustration function — receives lang, returns ReactNode */
   svg: (lang: string) => React.ReactNode;
-  /** For "mcq": question pool (1+ questions, round 5 uses 3) */
+  /** For "mcq": question pool (1+ questions) */
   questions?: MCQQuestion[];
   /** For "order": correct sequence of label keys */
   orderSequence?: readonly string[];
   /** Optional hint label key (shown below info text) */
   hintKey?: string;
+  /** Optional extra info text lines (label keys) — shown as bullet points below main text */
+  bulletKeys?: string[];
 }
 
 /** Full explorer content definition */
@@ -135,12 +137,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
     return pool ? pool.length : 0;
   }, [round, currentRound, shuffledQuestions]);
 
-  const handleNext = useCallback(() => {
-    setSelected(null);
-    setLocked(false);
-    setPhase("question");
-  }, []);
-
   const advanceRound = useCallback(() => {
     if (round < totalRounds - 1) {
       setRound(round + 1);
@@ -154,6 +150,16 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
       onDone?.(scoreRef.current, totalRef.current);
     }
   }, [round, totalRounds, onDone]);
+
+  const handleNext = useCallback(() => {
+    if (currentRound.type === "info") {
+      advanceRound();
+    } else {
+      setSelected(null);
+      setLocked(false);
+      setPhase("question");
+    }
+  }, [currentRound, advanceRound]);
 
   const advanceSub = useCallback(() => {
     if (currentRound.type === "mcq" && subIdx < subCount - 1) {
@@ -222,17 +228,27 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
         className="absolute top-4 left-4 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold z-10"
       >✕</button>
 
-      {/* Progress dots */}
-      <div className="flex gap-2 mb-6">
-        {Array.from({ length: totalRounds }, (_, i) => (
-          <div
-            key={i}
-            className={`h-2 rounded-full transition-all ${
-              i < round ? "w-3" : i === round ? "w-3" : "w-2"
-            }`}
-            style={{ backgroundColor: i <= round ? color : "rgba(255,255,255,0.2)" }}
-          />
-        ))}
+      {/* Progress dots — filled = done, outlined = current, dim = future */}
+      <div className="flex gap-2 mb-6 items-center">
+        {rounds.map((r, i) => {
+          const done = i < round;
+          const active = i === round;
+          const isQuiz = r.type === "mcq" || r.type === "order";
+          return (
+            <div
+              key={i}
+              className={`rounded-full transition-all flex items-center justify-center text-[8px] font-bold ${
+                done ? "w-3 h-3" : active ? "w-4 h-4" : "w-2.5 h-2.5"
+              }`}
+              style={{
+                backgroundColor: done ? color : active ? color : "rgba(255,255,255,0.15)",
+                opacity: done ? 0.6 : active ? 1 : 0.4,
+              }}
+            >
+              {active && isQuiz ? "?" : ""}
+            </div>
+          );
+        })}
       </div>
 
       {/* Main container */}
@@ -260,6 +276,18 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
                 {L(currentRound.infoText)}
               </p>
 
+              {/* Bullet points — key facts for teaching rounds */}
+              {currentRound.bulletKeys && currentRound.bulletKeys.length > 0 && (
+                <div className="w-full bg-white/5 rounded-xl p-3 space-y-1.5">
+                  {currentRound.bulletKeys.map((bk, i) => (
+                    <div key={i} className="flex items-start gap-2 text-sm text-white/80">
+                      <span className="mt-0.5 w-1.5 h-1.5 rounded-full shrink-0" style={{ backgroundColor: color }} />
+                      <span>{L(bk)}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+
               {currentRound.hintKey && (
                 <p className="text-xs font-semibold text-center" style={{ color }}>
                   {L(currentRound.hintKey)}
@@ -270,7 +298,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, lang = "en" }: Props) 
                 onClick={handleNext}
                 className="mt-2 px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2 group"
               >
-                {ui.gotIt}
+                {currentRound.type === "info" ? ui.gotIt : ui.gotIt}
                 <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
               </button>
             </motion.div>
