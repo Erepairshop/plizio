@@ -374,7 +374,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "orbit-quiz",
+        gameType: "k3-pollination-explorer",
         icon: "🔭",
         category: "explore",
         label: {
@@ -427,7 +427,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "star-match",
+        gameType: "k3-weather-climate-explorer",
         icon: "⭐",
         category: "explore",
         label: {
@@ -480,7 +480,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "orbit-quiz",
+        gameType: "k3-geography-explorer",
         icon: "🔭",
         category: "explore",
         label: {
@@ -533,7 +533,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "star-match",
+        gameType: "k3-tech-machines-explorer",
         icon: "⭐",
         category: "explore",
         label: {
@@ -586,12 +586,12 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "black-hole",
+        gameType: "k3-community-town-explorer",
         icon: "🕳️",
         category: "explore",
         label: {
           en: "Village vs City",
-          hu: "Község vs város",
+          hu: "Községvs város",
           de: "Dorf vs Stadt",
           ro: "Sat vs oraș",
         },
@@ -639,7 +639,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "orbit-quiz",
+        gameType: "k3-environment-explorer",
         icon: "🔭",
         category: "explore",
         label: {
