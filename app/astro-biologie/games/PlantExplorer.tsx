@@ -71,10 +71,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 3 MCQ (Water Transport)
     r3_q: "What do stomata do on leaves?",
-    r3_photosynthesis: "Control gas exchange (CO₂ in, O₂ out)",
-    r3_transport: "Transport water upward",
-    r3_stomata: "Protect the leaf surface",
-    r3_root: "Absorb water from soil",
+    r3_q_photosynthesis: "Control gas exchange (CO₂ in, O₂ out)",
+    r3_q_transport: "Transport water upward",
+    r3_q_stomata: "Protect the leaf surface",
+    r3_q_root: "Absorb water from soil",
 
     // Round 4 MCQ (Leaf Structure)
     r4_q: "Which organelles in leaf cells contain chlorophyll?",
@@ -136,10 +136,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 3 MCQ (Wassertransport)
     r3_q: "Was machen Stomata auf Blättern?",
-    r3_photosynthesis: "Kontrollieren Gasaustausch (CO₂ rein, O₂ raus)",
-    r3_transport: "Transportieren Wasser nach oben",
-    r3_stomata: "Schützen die Blattoberfläche",
-    r3_root: "Nehmen Wasser aus dem Boden auf",
+    r3_q_photosynthesis: "Kontrollieren Gasaustausch (CO₂ rein, O₂ raus)",
+    r3_q_transport: "Transportieren Wasser nach oben",
+    r3_q_stomata: "Schützen die Blattoberfläche",
+    r3_q_root: "Nehmen Wasser aus dem Boden auf",
 
     // Round 4 MCQ (Blattstruktur)
     r4_q: "Welche Organellen in Blattzellen enthalten Chlorophyll?",
@@ -201,10 +201,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 3 MCQ (Vízszállítás)
     r3_q: "Mit csinálnak a stómák a leveleken?",
-    r3_photosynthesis: "Szabályozzák a gázcserét (CO₂ be, O₂ ki)",
-    r3_transport: "Felfelé szállítanak vizet",
-    r3_stomata: "Védelemben a lev felszínét",
-    r3_root: "Felszívnak vizet a talajból",
+    r3_q_photosynthesis: "Szabályozzák a gázcserét (CO₂ be, O₂ ki)",
+    r3_q_transport: "Felfelé szállítanak vizet",
+    r3_q_stomata: "Védelemben a lev felszínét",
+    r3_q_root: "Felszívnak vizet a talajból",
 
     // Round 4 MCQ (Lev szerkezete)
     r4_q: "Mely organellumok a levelek sejtjeiben tartalmaznak klorofilt?",
@@ -266,10 +266,10 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // Round 3 MCQ (Transport de apă)
     r3_q: "Ce fac stomatele pe frunze?",
-    r3_photosynthesis: "Controlează schimbul de gaze (CO₂ in, O₂ out)",
-    r3_transport: "Transportă apa în sus",
-    r3_stomata: "Protejează suprafața frunzei",
-    r3_root: "Absorb apă din sol",
+    r3_q_photosynthesis: "Controlează schimbul de gaze (CO₂ in, O₂ out)",
+    r3_q_transport: "Transportă apa în sus",
+    r3_q_stomata: "Protejează suprafața frunzei",
+    r3_q_root: "Absorb apă din sol",
 
     // Round 4 MCQ (Structura frunzei)
     r4_q: "Care organele din celulele frunzei conțin clorofil?",
@@ -673,8 +673,8 @@ const DEF: ExplorerDef = {
       questions: [
         {
           question: "r3_q",
-          choices: ["r3_photosynthesis", "r3_transport", "r3_stomata", "r3_root"],
-          answer: "r3_photosynthesis",
+          choices: ["r3_q_photosynthesis", "r3_q_transport", "r3_q_stomata", "r3_q_root"],
+          answer: "r3_q_photosynthesis",
         },
       ],
     },
