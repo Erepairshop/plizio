@@ -56,6 +56,8 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
 
     questions.push(
       createMCQ(
+        "light",
+        "light_sources",
         q4(
           `Welche ist eine natürliche Lichtquelle?`,
           `Which is a natural light source?`,
@@ -63,13 +65,13 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
           `Care este o sursă naturală de lumină?`,
           lang
         ),
+        natural[lang as keyof typeof natural],
         [
-          natural[lang as keyof typeof natural],
           wrong1[lang as keyof typeof wrong1],
           wrong2[lang as keyof typeof wrong2],
           wrong3[lang as keyof typeof wrong3],
         ],
-        0
+        rng
       )
     );
   }
@@ -83,6 +85,8 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
 
     questions.push(
       createMCQ(
+        "light",
+        "light_sources",
         q4(
           `Welche ist eine künstliche Lichtquelle?`,
           `Which is an artificial light source?`,
@@ -90,13 +94,13 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
           `Care este o sursă artificială de lumină?`,
           lang
         ),
+        artificial[lang as keyof typeof artificial],
         [
-          artificial[lang as keyof typeof artificial],
           wrong1[lang as keyof typeof wrong1],
           wrong2[lang as keyof typeof wrong2],
           wrong3[lang as keyof typeof wrong3],
         ],
-        0
+        rng
       )
     );
   }
@@ -110,8 +114,20 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
   ];
 
   for (let i = 0; i < 7; i++) {
+    const correct = speedOptions[0][lang as keyof typeof speedOptions[0]];
+    const wrongOpts = shuffle(
+      [
+        speedOptions[1][lang as keyof typeof speedOptions[0]],
+        speedOptions[2][lang as keyof typeof speedOptions[0]],
+        speedOptions[3][lang as keyof typeof speedOptions[0]],
+      ],
+      rng
+    );
+
     questions.push(
       createMCQ(
+        "light",
+        "light_sources",
         q4(
           `Wie schnell ist die Lichtgeschwindigkeit ungefähr?`,
           `What is the approximate speed of light?`,
@@ -119,24 +135,26 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
           `Care este viteza aproximativă a luminii?`,
           lang
         ),
-        shuffle(
-          [
-            speedOptions[0][lang as keyof typeof speedOptions[0]],
-            speedOptions[1][lang as keyof typeof speedOptions[0]],
-            speedOptions[2][lang as keyof typeof speedOptions[0]],
-            speedOptions[3][lang as keyof typeof speedOptions[0]],
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 22-28: Moon reflection
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Nein, der Mond reflektiert Sonnenlicht`, `No, it reflects sunlight`, `Nem, visszaveri a napfényt`, `Nu, reflectă lumina soarelui`, lang);
+    const wrongOpts = [
+      q4(`Ja, der Mond produziert Licht`, `Yes, it produces light`, `Igen, magából termel fényt`, `Da, produce lumină`, lang),
+      q4(`Der Mond ist eine künstliche Quelle`, `The Moon is artificial`, `A Hold mesterséges`, `Luna este artificială`, lang),
+      q4(`Der Mond ist transparent`, `The Moon is transparent`, `A Hold átlátszó`, `Luna este transparentă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "light_sources",
         q4(
           `Ist der Mond eine Lichtquelle?`,
           `Is the Moon a light source?`,
@@ -144,16 +162,9 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
           `Luna este o sursă de lumină?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Nein, der Mond reflektiert Sonnenlicht`, `No, it reflects sunlight`, `Nem, visszaveri a napfényt`, `Nu, reflectă lumina soarelui`, lang),
-            q4(`Ja, der Mond produziert Licht`, `Yes, it produces light`, `Igen, magából termel fényt`, `Da, produce lumină`, lang),
-            q4(`Der Mond ist eine künstliche Quelle`, `The Moon is artificial`, `A Hold mesterséges`, `Luna este artificială`, lang),
-            q4(`Der Mond ist transparent`, `The Moon is transparent`, `A Hold átlátszó`, `Luna este transparentă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -169,8 +180,17 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 7; i++) {
     const mat = pick(materials, rng);
     const langKey = lang as keyof typeof mat;
+    const correct = mat[langKey];
+    const wrongOpts = [
+      pick(materials.filter((m) => m !== mat), rng)[langKey],
+      pick(materials.filter((m) => m !== mat), rng)[langKey],
+      pick(materials.filter((m) => m !== mat), rng)[langKey],
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "light_sources",
         q4(
           `Welches Material ist transparent (Licht geht durch)?`,
           `Which material is transparent (light passes through)?`,
@@ -178,16 +198,9 @@ function light_sources(lang: string, seed?: number): CurriculumQuestion[] {
           `Care material este transparent (lumina trece)?`,
           lang
         ),
-        shuffle(
-          [
-            mat[langKey],
-            pick(materials.filter((m) => m !== mat), rng)[langKey],
-            pick(materials.filter((m) => m !== mat), rng)[langKey],
-            pick(materials.filter((m) => m !== mat), rng)[langKey],
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -205,6 +218,8 @@ function light_sources_typing(lang: string, seed?: number): CurriculumQuestion[]
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "light_sources",
         q4(
           `Die Lichtgeschwindigkeit ist ungefähr ___ km/s`,
           `The speed of light is approximately ___ km/s`,
@@ -212,15 +227,7 @@ function light_sources_typing(lang: string, seed?: number): CurriculumQuestion[]
           `Viteza luminii este aproximativ ___ km/s`,
           lang
         ),
-        pick(speedAnswers, rng),
-        [
-          "300000",
-          "300.000",
-          "300,000",
-          "300 000",
-          "dreihundertausend",
-          "three hundred thousand",
-        ]
+        pick(speedAnswers, rng)
       )
     );
   }
@@ -238,6 +245,8 @@ function light_sources_typing(lang: string, seed?: number): CurriculumQuestion[]
     const src = pick(sources, rng);
     questions.push(
       createTyping(
+        "light",
+        "light_sources",
         q4(
           `Nenne eine Lichtquelle.`,
           `Name a light source.`,
@@ -245,21 +254,7 @@ function light_sources_typing(lang: string, seed?: number): CurriculumQuestion[]
           `Numește o sursă de lumină.`,
           lang
         ),
-        src[lang as keyof typeof src],
-        [
-          "Sonne",
-          "Sun",
-          "Nap",
-          "Soare",
-          "Glühbirne",
-          "lightbulb",
-          "izzólámpa",
-          "bec",
-          "Kerze",
-          "candle",
-          "gyertya",
-          "lumânare",
-        ]
+        src[lang as keyof typeof src]
       )
     );
   }
@@ -278,8 +273,17 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
 
   // MCQ 1-7: Umbra definition
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Umbra`, `Umbra`, `Umbra`, `Umbra`, lang);
+    const wrongOpts = [
+      q4(`Penumbra`, `Penumbra`, `Penumbra`, `Penumbra`, lang),
+      q4(`Kern`, `Core`, `Mag`, `Nucleu`, lang),
+      q4(`Licht-Seite`, `Light side`, `Fény oldal`, `Parte luminoasă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "shadows",
         q4(
           `Was ist der dunkelste Teil eines Schattens?`,
           `What is the darkest part of a shadow called?`,
@@ -287,24 +291,26 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce este cea mai întunecată parte a unei umbre?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Umbra`, `Umbra`, `Umbra`, `Umbra`, lang),
-            q4(`Penumbra`, `Penumbra`, `Penumbra`, `Penumbra`, lang),
-            q4(`Kern`, `Core`, `Mag`, `Nucleu`, lang),
-            q4(`Licht-Seite`, `Light side`, `Fény oldal`, `Parte luminoasă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 8-14: Penumbra definition
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Der helle Teil des Schattens`, `The lighter part of a shadow`, `Az árnyék világosabb része`, `Partea mai luminoasă a unei umbre`, lang);
+    const wrongOpts = [
+      q4(`Der dunkelste Teil des Schattens`, `The darkest part of a shadow`, `Az árnyék legsötétebb része`, `Cea mai întunecată parte a unei umbre`, lang),
+      q4(`Das Licht selbst`, `The light itself`, `Maga a fény`, `Lumina în sine`, lang),
+      q4(`Eine Art Farbe`, `A color type`, `Egy szín típus`, `Un tip de culoare`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "shadows",
         q4(
           `Was ist die Penumbra?`,
           `What is the penumbra?`,
@@ -312,24 +318,26 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce este penumbra?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Der helle Teil des Schattens`, `The lighter part of a shadow`, `Az árnyék világosabb része`, `Partea mai luminoasă a unei umbre`, lang),
-            q4(`Der dunkelste Teil des Schattens`, `The darkest part of a shadow`, `Az árnyék legsötétebb része`, `Cea mai întunecată parte a unei umbre`, lang),
-            q4(`Das Licht selbst`, `The light itself`, `Maga a fény`, `Lumina în sine`, lang),
-            q4(`Eine Art Farbe`, `A color type`, `Egy szín típus`, `Un tip de culoare`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 15-21: Shadow size when moving closer
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Der Schatten wird größer`, `The shadow becomes larger`, `Az árnyék nagyobb lesz`, `Umbra devine mai mare`, lang);
+    const wrongOpts = [
+      q4(`Der Schatten wird kleiner`, `The shadow becomes smaller`, `Az árnyék kisebb lesz`, `Umbra devine mai mică`, lang),
+      q4(`Der Schatten verschwindet`, `The shadow disappears`, `Az árnyék eltűnik`, `Umbra dispare`, lang),
+      q4(`Der Schatten ändert sich nicht`, `The shadow doesn't change`, `Az árnyék nem változik`, `Umbra nu se schimbă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "shadows",
         q4(
           `Was passiert mit einem Schatten, wenn man sich der Lichtquelle nähert?`,
           `What happens to a shadow when you move closer to the light source?`,
@@ -337,24 +345,26 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce se întâmplă cu umbra când te apropii de sursa de lumină?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Der Schatten wird größer`, `The shadow becomes larger`, `Az árnyék nagyobb lesz`, `Umbra devine mai mare`, lang),
-            q4(`Der Schatten wird kleiner`, `The shadow becomes smaller`, `Az árnyék kisebb lesz`, `Umbra devine mai mică`, lang),
-            q4(`Der Schatten verschwindet`, `The shadow disappears`, `Az árnyék eltűnik`, `Umbra dispare`, lang),
-            q4(`Der Schatten ändert sich nicht`, `The shadow doesn't change`, `Az árnyék nem változik`, `Umbra nu se schimbă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 22-28: Shadow sharpness with point vs spread source
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Mit einer Punktlichtquelle`, `With a point light source`, `Pontszerű fényforrással`, `Cu o sursă de lumină punctiformă`, lang);
+    const wrongOpts = [
+      q4(`Mit einer großen Lichtquelle`, `With a large light source`, `Nagy fényforrással`, `Cu o sursă de lumină mare`, lang),
+      q4(`Immer`, `Always`, `Mindig`, `Întotdeauna`, lang),
+      q4(`Niemals`, `Never`, `Soha`, `Niciodată`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "shadows",
         q4(
           `Wann hat ein Schatten scharfe Kanten?`,
           `When does a shadow have sharp edges?`,
@@ -362,24 +372,26 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
           `Când are o umbră margini ascuțite?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Mit einer Punktlichtquelle`, `With a point light source`, `Pontszerű fényforrással`, `Cu o sursă de lumină punctiformă`, lang),
-            q4(`Mit einer großen Lichtquelle`, `With a large light source`, `Nagy fényforrással`, `Cu o sursă de lumină mare`, lang),
-            q4(`Immer`, `Always`, `Mindig`, `Întotdeauna`, lang),
-            q4(`Niemals`, `Never`, `Soha`, `Niciodată`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 29-35: Eclipse explanation
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Der Mond befindet sich im Schatten der Erde`, `The Moon enters Earth's shadow`, `A Hold az Föld árnyékába kerül`, `Luna intră în umbra Pământului`, lang);
+    const wrongOpts = [
+      q4(`Die Erde befindet sich im Schatten des Mondes`, `Earth enters the Moon's shadow`, `A Föld a Hold árnyékába kerül`, `Pământul intră în umbra Lunii`, lang),
+      q4(`Die Sonne explodiert`, `The Sun explodes`, `A Nap felrobban`, `Soarele explodează`, lang),
+      q4(`Der Mond zerfällt`, `The Moon breaks apart`, `A Hold szétesik`, `Luna se destramă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "shadows",
         q4(
           `Was verursacht eine Mondfinsternis?`,
           `What causes a lunar eclipse?`,
@@ -387,16 +399,9 @@ function shadows(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce provoacă o eclipsă de lună?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Der Mond befindet sich im Schatten der Erde`, `The Moon enters Earth's shadow`, `A Hold az Föld árnyékába kerül`, `Luna intră în umbra Pământului`, lang),
-            q4(`Die Erde befindet sich im Schatten des Mondes`, `Earth enters the Moon's shadow`, `A Föld a Hold árnyékába kerül`, `Pământul intră în umbra Lunii`, lang),
-            q4(`Die Sonne explodiert`, `The Sun explodes`, `A Nap felrobban`, `Soarele explodează`, lang),
-            q4(`Der Mond zerfällt`, `The Moon breaks apart`, `A Hold szétesik`, `Luna se destramă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -414,6 +419,8 @@ function shadows_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "shadows",
         q4(
           `Der dunkle Kern eines Schattens heißt ___.`,
           `The dark center of a shadow is called the ___.`,
@@ -421,8 +428,7 @@ function shadows_typing(lang: string, seed?: number): CurriculumQuestion[] {
           `Centrul întunecat al unei umbre se numește ___.`,
           lang
         ),
-        pick(umbraAnswers, rng),
-        umbraAnswers
+        pick(umbraAnswers, rng)
       )
     );
   }
@@ -432,6 +438,8 @@ function shadows_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "shadows",
         q4(
           `Ein Schatten entsteht, wenn Licht ___ wird.`,
           `A shadow forms when light is ___.`,
@@ -445,16 +453,7 @@ function shadows_typing(lang: string, seed?: number): CurriculumQuestion[] {
             q4(`verdunkelt`, `dimmed`, `elsötétített`, `întunecată`, lang),
           ],
           rng
-        ),
-        [
-          "blockiert",
-          "blocked",
-          "blokkolt",
-          "blocată",
-          "verdunkelt",
-          "dimmed",
-          "elsötétített",
-        ]
+        )
       )
     );
   }
@@ -473,8 +472,35 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
 
   // MCQ 1-7: Law of reflection
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Der Einfallswinkel gleicht dem Reflexionswinkel`,
+      `Angle of incidence equals angle of reflection`,
+      `A beesési szög egyenlő a visszaverődési szöggel`,
+      `Unghiul de incidență este egal cu unghiul de reflexie`,
+      lang
+    );
+    const wrongOpts = [
+      q4(
+        `Licht verschwindet bei der Reflexion`,
+        `Light disappears upon reflection`,
+        `A fény eltűnik a visszaverődésnél`,
+        `Lumina dispare la reflexie`,
+        lang
+      ),
+      q4(
+        `Der Einfallswinkel ist immer 90 Grad`,
+        `The incidence angle is always 90 degrees`,
+        `A beesési szög mindig 90 fok`,
+        `Unghiul de incidență este întotdeauna 90 de grade`,
+        lang
+      ),
+      q4(`Licht kann nicht reflektiert werden`, `Light cannot be reflected`, `A fény nem verődhet vissza`, `Lumina nu poate fi reflectată`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "reflection",
         q4(
           `Was ist das Reflektionsgesetz?`,
           `What is the law of reflection?`,
@@ -482,42 +508,26 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
           `Care este legea reflexiei?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Der Einfallswinkel gleicht dem Reflexionswinkel`,
-              `Angle of incidence equals angle of reflection`,
-              `A beesési szög egyenlő a visszaverődési szöggel`,
-              `Unghiul de incidență este egal cu unghiul de reflexie`,
-              lang
-            ),
-            q4(
-              `Licht verschwindet bei der Reflexion`,
-              `Light disappears upon reflection`,
-              `A fény eltűnik a visszaverődésnél`,
-              `Lumina dispare la reflexie`,
-              lang
-            ),
-            q4(
-              `Der Einfallswinkel ist immer 90 Grad`,
-              `The incidence angle is always 90 degrees`,
-              `A beesési szög mindig 90 fok`,
-              `Unghiul de incidență este întotdeauna 90 de grade`,
-              lang
-            ),
-            q4(`Licht kann nicht reflektiert werden`, `Light cannot be reflected`, `A fény nem verődhet vissza`, `Lumina nu poate fi reflectată`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 8-14: Best reflecting surface
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Polierter Spiegel`, `Polished mirror`, `Csiszolt tükör`, `Oglindă lustruită`, lang);
+    const wrongOpts = [
+      q4(`Rauhe Wand`, `Rough wall`, `Érdes fal`, `Perete aspru`, lang),
+      q4(`Schwarze Farbe`, `Black paint`, `Fekete festék`, `Vopsea neagră`, lang),
+      q4(`Baumrinde`, `Tree bark`, `Fakéreg`, `Scoarță de copac`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "reflection",
         q4(
           `Welche Oberfläche reflektiert Licht am besten?`,
           `Which surface reflects light best?`,
@@ -525,16 +535,9 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
           `Care suprafață reflectează cel mai bine lumina?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Polierter Spiegel`, `Polished mirror`, `Csiszolt tükör`, `Oglindă lustruită`, lang),
-            q4(`Rauhe Wand`, `Rough wall`, `Érdes fal`, `Perete aspru`, lang),
-            q4(`Schwarze Farbe`, `Black paint`, `Fekete festék`, `Vopsea neagră`, lang),
-            q4(`Baumrinde`, `Tree bark`, `Fakéreg`, `Scoarță de copac`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -547,8 +550,17 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
   ];
 
   for (let i = 0; i < 7; i++) {
+    const correct = mirrorTypes[2][lang as keyof typeof mirrorTypes[2]];
+    const wrongOpts = [
+      mirrorTypes[0][lang as keyof typeof mirrorTypes[0]],
+      mirrorTypes[1][lang as keyof typeof mirrorTypes[1]],
+      q4(`Ein kaputtes Fenster`, `A broken window`, `Egy törött ablak`, `O fereastră spartă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "reflection",
         q4(
           `Welcher Spiegel wird in einem Auto-Rückspiegel verwendet?`,
           `Which mirror is used in a car's rearview mirror?`,
@@ -556,24 +568,44 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
           `Care oglindă este folosită în oglinda retrovizoare a unei mașini?`,
           lang
         ),
-        shuffle(
-          [
-            mirrorTypes[2][lang as keyof typeof mirrorTypes[2]],
-            mirrorTypes[0][lang as keyof typeof mirrorTypes[0]],
-            mirrorTypes[1][lang as keyof typeof mirrorTypes[1]],
-            q4(`Ein kaputtes Fenster`, `A broken window`, `Egy törött ablak`, `O fereastră spartă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 22-28: Smooth vs rough reflection
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Reflexion von einer rauen Oberfläche`,
+      `Reflection from a rough surface`,
+      `Visszaverődés érdes felületről`,
+      `Reflexie de la o suprafață aspră`,
+      lang
+    );
+    const wrongOpts = [
+      q4(
+        `Reflexion von einem perfekten Spiegel`,
+        `Reflection from a perfect mirror`,
+        `Visszaverődés tökéletes tükörről`,
+        `Reflexie de la o oglindă perfectă`,
+        lang
+      ),
+      q4(
+        `Licht, das durch Glas hindurchgeht`,
+        `Light passing through glass`,
+        `Fény, amely átmegy az üvegen`,
+        `Lumină care trece prin sticlă`,
+        lang
+      ),
+      q4(`Schatten ohne Reflexion`, `Shadow without reflection`, `Árnyék reflexió nélkül`, `Umbră fără reflexie`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "reflection",
         q4(
           `Was ist diffuse Reflexion?`,
           `What is diffuse reflection?`,
@@ -581,34 +613,9 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce este reflexia difuză?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Reflexion von einer rauen Oberfläche`,
-              `Reflection from a rough surface`,
-              `Visszaverődés érdes felületről`,
-              `Reflexie de la o suprafață aspră`,
-              lang
-            ),
-            q4(
-              `Reflexion von einem perfekten Spiegel`,
-              `Reflection from a perfect mirror`,
-              `Visszaverődés tökéletes tükörről`,
-              `Reflexie de la o oglindă perfectă`,
-              lang
-            ),
-            q4(
-              `Licht, das durch Glas hindurchgeht`,
-              `Light passing through glass`,
-              `Fény, amely átmegy az üvegen`,
-              `Lumină care trece prin sticlă`,
-              lang
-            ),
-            q4(`Schatten ohne Reflexion`, `Shadow without reflection`, `Árnyék reflexió nélkül`, `Umbră fără reflexie`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -622,8 +629,17 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
 
   for (let i = 0; i < 7; i++) {
     const app = pick(apps, rng);
+    const correct = app[lang as keyof typeof app];
+    const wrongOpts = [
+      pick(apps.filter((a) => a !== app), rng)[lang as keyof typeof app],
+      pick(apps.filter((a) => a !== app), rng)[lang as keyof typeof app],
+      q4(`Linse`, `Lens`, `Lencse`, `Lentilă`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "reflection",
         q4(
           `Ein ___ ist ein Gerät, das Spiegel zur Reflexion nutzt.`,
           `A ___ is a device that uses mirrors for reflection.`,
@@ -631,16 +647,9 @@ function reflection(lang: string, seed?: number): CurriculumQuestion[] {
           `Un ___ este un dispozitiv care folosește oglinzi pentru reflexie.`,
           lang
         ),
-        shuffle(
-          [
-            app[lang as keyof typeof app],
-            pick(apps.filter((a) => a !== app), rng)[lang as keyof typeof app],
-            pick(apps.filter((a) => a !== app), rng)[lang as keyof typeof app],
-            q4(`Linse`, `Lens`, `Lencse`, `Lentilă`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -658,6 +667,8 @@ function reflection_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "reflection",
         q4(
           `Der Einfallswinkel ist gleich dem ___ Winkel.`,
           `Angle of incidence equals angle of ___.`,
@@ -665,8 +676,7 @@ function reflection_typing(lang: string, seed?: number): CurriculumQuestion[] {
           `Unghiul de incidență este egal cu unghiul de ___.`,
           lang
         ),
-        q4(`Reflexions`, `reflection`, `visszaverődés`, `reflexie`, lang),
-        ["Reflexion", "Reflection", "Zurückwerfung", "Abspegelung"]
+        q4(`Reflexions`, `reflection`, `visszaverődés`, `reflexie`, lang)
       )
     );
   }
@@ -676,6 +686,8 @@ function reflection_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "reflection",
         q4(
           `Ein ___ Spiegel wird als gewöhnlicher Haushaltsspiegel verwendet.`,
           `A ___ mirror is used as a regular household mirror.`,
@@ -683,8 +695,7 @@ function reflection_typing(lang: string, seed?: number): CurriculumQuestion[] {
           `O oglindă ___ este folosită ca oglindă obișnuită.`,
           lang
         ),
-        q4(`flacher`, `flat`, `sík`, `plană`, lang),
-        ["flacher", "flat", "sík", "plána", "plane"]
+        q4(`flacher`, `flat`, `sík`, `plană`, lang)
       )
     );
   }
@@ -703,8 +714,35 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
 
   // MCQ 1-7: Straw in water
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Licht bricht sich beim Übergang zwischen Wasser und Luft`,
+      `Light bends when passing between water and air`,
+      `A fény megtörik, amikor átmegy víz és levegő között`,
+      `Lumina se refractă când trece între apă și aer`,
+      lang
+    );
+    const wrongOpts = [
+      q4(
+        `Der Strohhalm zerfällt im Wasser`,
+        `The straw dissolves in water`,
+        `A szívócsö feloldódik a vízben`,
+        `Paia se dizolvă în apă`,
+        lang
+      ),
+      q4(
+        `Das Wasser dreht sich um den Strohhalm`,
+        `The water spins around the straw`,
+        `A víz a szívócső körül forog`,
+        `Apa se învârte în jurul paiei`,
+        lang
+      ),
+      q4(`Das ist nur eine Illusion`, `That's just an illusion`, `Ez csak egy illúzió`, `Aceasta este doar o iluzie`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "refraction",
         q4(
           `Warum sieht ein Strohhalm im Wasser gebogen aus?`,
           `Why does a straw look bent in water?`,
@@ -712,42 +750,32 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
           `De ce pare o paie îndoită în apă?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Licht bricht sich beim Übergang zwischen Wasser und Luft`,
-              `Light bends when passing between water and air`,
-              `A fény megtörik, amikor átmegy víz és levegő között`,
-              `Lumina se refractă când trece între apă și aer`,
-              lang
-            ),
-            q4(
-              `Der Strohhalm zerfällt im Wasser`,
-              `The straw dissolves in water`,
-              `A szívócsö feloldódik a vízben`,
-              `Paia se dizolvă în apă`,
-              lang
-            ),
-            q4(
-              `Das Wasser dreht sich um den Strohhalm`,
-              `The water spins around the straw`,
-              `A víz a szívócső körül forog`,
-              `Apa se învârte în jurul paiei`,
-              lang
-            ),
-            q4(`Das ist nur eine Illusion`, `That's just an illusion`, `Ez csak egy illúzió`, `Aceasta este doar o iluzie`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 8-14: Refraction definition
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Die Änderung der Lichtrichtung beim Übergang zwischen Stoffen`,
+      `The change in light direction when passing between materials`,
+      `A fénysugár irányának változása anyagok között`,
+      `Schimbarea direcției luminii la trecerea între materiale`,
+      lang
+    );
+    const wrongOpts = [
+      q4(`Die Absorption von Licht`, `The absorption of light`, `A fény felszívódása`, `Absorbția luminii`, lang),
+      q4(`Die Vergrößerung von Objekten`, `The magnification of objects`, `Az objektumok nagyítása`, `Mărirea obiectelor`, lang),
+      q4(`Die Erzeugung neuer Farben`, `The creation of new colors`, `Új színek létrehozása`, `Crearea de culori noi`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "refraction",
         q4(
           `Was ist Brechung (Refraktion)?`,
           `What is refraction?`,
@@ -755,30 +783,32 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce este refracția?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Die Änderung der Lichtrichtung beim Übergang zwischen Stoffen`,
-              `The change in light direction when passing between materials`,
-              `A fénysugár irányának változása anyagok között`,
-              `Schimbarea direcției luminii la trecerea între materiale`,
-              lang
-            ),
-            q4(`Die Absorption von Licht`, `The absorption of light`, `A fény felszívódása`, `Absorbția luminii`, lang),
-            q4(`Die Vergrößerung von Objekten`, `The magnification of objects`, `Az objektumok nagyítása`, `Mărirea obiectelor`, lang),
-            q4(`Die Erzeugung neuer Farben`, `The creation of new colors`, `Új színek létrehozása`, `Crearea de culori noi`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 15-21: Prism splitting light
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Es spaltet sich in die Farben des Regenbogens`,
+      `It splits into the colors of the rainbow`,
+      `Szétválik a szivárvány színeire`,
+      `Se împarte în culorile curcubeului`,
+      lang
+    );
+    const wrongOpts = [
+      q4(`Es wird absorbiert`, `It is absorbed`, `Felszívódik`, `Se absorbe`, lang),
+      q4(`Es wird reflektiert`, `It is reflected`, `Visszaverődik`, `Se reflectă`, lang),
+      q4(`Es wird unsichtbar`, `It becomes invisible`, `Láthatatlanná válik`, `Devine invizibil`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "refraction",
         q4(
           `Was passiert, wenn weißes Licht durch ein Prisma geht?`,
           `What happens when white light passes through a prism?`,
@@ -786,30 +816,32 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce se întâmplă când lumina albă trece printr-o prismă?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Es spaltet sich in die Farben des Regenbogens`,
-              `It splits into the colors of the rainbow`,
-              `Szétválik a szivárvány színeire`,
-              `Se împarte în culorile curcubeului`,
-              lang
-            ),
-            q4(`Es wird absorbiert`, `It is absorbed`, `Felszívódik`, `Se absorbe`, lang),
-            q4(`Es wird reflektiert`, `It is reflected`, `Visszaverődik`, `Se reflectă`, lang),
-            q4(`Es wird unsichtbar`, `It becomes invisible`, `Láthatatlanná válik`, `Devine invizibil`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 22-28: Rainbow
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Brechung und Reflexion von Sonnenlicht in Wassertropfen`,
+      `Refraction and reflection of sunlight in water droplets`,
+      `A napfény törése és visszaverődése vízcseppekben`,
+      `Refracția și reflexia luminii solare în picături de apă`,
+      lang
+    );
+    const wrongOpts = [
+      q4(`Eine künstliche Farbmischung`, `An artificial color mix`, `Mesterséges szín keverék`, `Un amestec artificial de culori`, lang),
+      q4(`Prismen in den Wolken`, `Prisms in the clouds`, `Prizmaк a felhőkben`, `Prisme în nori`, lang),
+      q4(`Die Verdunkelung der Sonne`, `The darkening of the Sun`, `A Nap sötétítése`, `Întunecarea Soarelui`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "refraction",
         q4(
           `Was verursacht einen Regenbogen?`,
           `What causes a rainbow?`,
@@ -817,30 +849,32 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce provoacă o curcubeu?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Brechung und Reflexion von Sonnenlicht in Wassertropfen`,
-              `Refraction and reflection of sunlight in water droplets`,
-              `A napfény törése és visszaverődése vízcseppekben`,
-              `Refracția și reflexia luminii solare în picături de apă`,
-              lang
-            ),
-            q4(`Eine künstliche Farbmischung`, `An artificial color mix`, `Mesterséges szín keverék`, `Un amestec artificial de culori`, lang),
-            q4(`Prismen in den Wolken`, `Prisms in the clouds`, `Prizmaк a felhőkben`, `Prisme în nori`, lang),
-            q4(`Die Verdunkelung der Sonne`, `The darkening of the Sun`, `A Nap sötétítése`, `Întunecarea Soarelui`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 29-35: Mirage
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Ein optisches Phänomen durch Lichtbrechung in der Luft`,
+      `An optical phenomenon caused by light refraction in air`,
+      `Egy optikai jelenség, amelyet a fény törése okoz a levegőben`,
+      `Un fenomen optic cauzat de refracția luminii în aer`,
+      lang
+    );
+    const wrongOpts = [
+      q4(`Ein echtes Gewässer`, `A real body of water`, `Egy igazi víztükör`, `Un adevărat corp de apă`, lang),
+      q4(`Eine Halluzination`, `A hallucination`, `Egy hallucináció`, `O halucinație`, lang),
+      q4(`Ein Wolkenschatten`, `A cloud shadow`, `Egy felhő árnyéka`, `O umbră de nori`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "refraction",
         q4(
           `Was ist eine Fata Morgana (Luftspiegelung)?`,
           `What is a mirage?`,
@@ -848,22 +882,9 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce este o miraj?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Ein optisches Phänomen durch Lichtbrechung in der Luft`,
-              `An optical phenomenon caused by light refraction in air`,
-              `Egy optikai jelenség, amelyet a fény törése okoz a levegőben`,
-              `Un fenomen optic cauzat de refracția luminii în aer`,
-              lang
-            ),
-            q4(`Ein echtes Gewässer`, `A real body of water`, `Egy igazi víztükör`, `Un adevărat corp de apă`, lang),
-            q4(`Eine Halluzination`, `A hallucination`, `Egy hallucináció`, `O halucinație`, lang),
-            q4(`Ein Wolkenschatten`, `A cloud shadow`, `Egy felhő árnyéka`, `O umbră de nori`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -881,6 +902,8 @@ function refraction_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "refraction",
         q4(
           `Die Biegung von Licht beim Übergang zwischen Stoffen ist ___.`,
           `The bending of light when passing between materials is ___.`,
@@ -888,8 +911,7 @@ function refraction_typing(lang: string, seed?: number): CurriculumQuestion[] {
           `Îndoirea luminii la trecerea între materiale este ___.`,
           lang
         ),
-        pick(refracAnswers, rng),
-        refracAnswers
+        pick(refracAnswers, rng)
       )
     );
   }
@@ -899,6 +921,8 @@ function refraction_typing(lang: string, seed?: number): CurriculumQuestion[] {
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "refraction",
         q4(
           `Ein Prisma trennt Licht in das sichtbare ___.`,
           `A prism separates light into a ___.`,
@@ -906,8 +930,7 @@ function refraction_typing(lang: string, seed?: number): CurriculumQuestion[] {
           `O prismă separă lumina în ___.`,
           lang
         ),
-        q4(`Spektrum`, `spectrum`, `spektrum`, `spectru`, lang),
-        ["Spektrum", "spectrum", "Farbspektrum", "spektrum"]
+        q4(`Spektrum`, `spectrum`, `spektrum`, `spectru`, lang)
       )
     );
   }
@@ -936,27 +959,25 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
   ];
 
   for (let i = 0; i < 7; i++) {
-    const correct = pick(roygbiv, rng);
-    const remaining = roygbiv.filter((c) => c !== correct);
+    const remaining = roygbiv.filter((c, idx) => idx > 0);
     const wrong = [
       pick(remaining, rng),
       pick(remaining.filter((c) => c !== remaining[0]), rng),
       { de: "Braun", en: "Brown", hu: "Barna", ro: "Maro" },
     ];
 
-    const langKey = lang as keyof typeof correct;
-    const options = [
-      correct[langKey],
-      wrong[0][langKey],
-      wrong[1][langKey],
-      wrong[2][langKey],
+    const langKey = lang as keyof typeof wrong[0];
+    const correct = wrong[2][langKey];
+    const wrongOpts = [
+      pick(roygbiv, rng)[langKey],
+      pick(roygbiv, rng)[langKey],
+      pick(roygbiv, rng)[langKey],
     ];
-
-    const shuffled = shuffle(options, rng);
-    const correctIndex = shuffled.indexOf(wrong[2][langKey]);
 
     questions.push(
       createMCQ(
+        "light",
+        "colors_spectrum",
         q4(
           `Welche ist KEINE Farbe des Regenbogens (ROYGBIV)?`,
           `Which is NOT a color of the rainbow (ROYGBIV)?`,
@@ -964,16 +985,26 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `Care NU este culoare a curcubeului (ROYGBIV)?`,
           lang
         ),
-        shuffled,
-        correctIndex >= 0 ? correctIndex : 3
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 8-14: RGB primary colors
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Rot, Grün, Blau`, `Red, Green, Blue`, `Vörös, Zöld, Kék`, `Roșu, Verde, Albastru`, lang);
+    const wrongOpts = [
+      q4(`Rot, Gelb, Blau`, `Red, Yellow, Blue`, `Vörös, Sárga, Kék`, `Roșu, Galben, Albastru`, lang),
+      q4(`Orange, Grün, Violett`, `Orange, Green, Violet`, `Narancssárga, Zöld, Ibolya`, `Portocaliu, Verde, Violet`, lang),
+      q4(`Rot, Blau, Schwarz`, `Red, Blue, Black`, `Vörös, Kék, Fekete`, `Roșu, Albastru, Negru`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "colors_spectrum",
         q4(
           `Welche drei Farben von Licht ergeben Weiß?`,
           `What 3 colors of light make white?`,
@@ -981,24 +1012,26 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `Care 3 culori de lumină fac alb?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Rot, Grün, Blau`, `Red, Green, Blue`, `Vörös, Zöld, Kék`, `Roșu, Verde, Albastru`, lang),
-            q4(`Rot, Gelb, Blau`, `Red, Yellow, Blue`, `Vörös, Sárga, Kék`, `Roșu, Galben, Albastru`, lang),
-            q4(`Orange, Grün, Violett`, `Orange, Green, Violet`, `Narancssárga, Zöld, Ibolya`, `Portocaliu, Verde, Violet`, lang),
-            q4(`Rot, Blau, Schwarz`, `Red, Blue, Black`, `Vörös, Kék, Fekete`, `Roșu, Albastru, Negru`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 15-21: Color mixing
   for (let i = 0; i < 7; i++) {
+    const correct = q4(`Gelb`, `Yellow`, `Sárga`, `Galben`, lang);
+    const wrongOpts = [
+      q4(`Orange`, `Orange`, `Narancssárga`, `Portocaliu`, lang),
+      q4(`Weiß`, `White`, `Fehér`, `Alb`, lang),
+      q4(`Braun`, `Brown`, `Barna`, `Maro`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "colors_spectrum",
         q4(
           `Welche Farbe entsteht, wenn man rotes und grünes Licht mischt?`,
           `What color is made by mixing red and green light?`,
@@ -1006,24 +1039,44 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `Ce culoare se face prin amestecul de lumină roșie și verde?`,
           lang
         ),
-        shuffle(
-          [
-            q4(`Gelb`, `Yellow`, `Sárga`, `Galben`, lang),
-            q4(`Orange`, `Orange`, `Narancssárga`, `Portocaliu`, lang),
-            q4(`Weiß`, `White`, `Fehér`, `Alb`, lang),
-            q4(`Braun`, `Brown`, `Barna`, `Maro`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 22-28: Object color appearance
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Sie absorbiert andere Farben und reflektiert rotes Licht`,
+      `It absorbs other colors and reflects red light`,
+      `Más szineket abszorbeál és vörös fényt veri vissza`,
+      `Absorbe alte culori și reflectă lumina roșie`,
+      lang
+    );
+    const wrongOpts = [
+      q4(
+        `Sie produziert selbst rotes Licht`,
+        `It produces red light itself`,
+        `Maga termel vörös fényt`,
+        `Produce ea însăși lumina roșie`,
+        lang
+      ),
+      q4(
+        `Das Licht verändert Farbe im Objekt`,
+        `Light changes color in the object`,
+        `A fény színe megváltozik az objektumban`,
+        `Lumina schimbă culoare în obiect`,
+        lang
+      ),
+      q4(`Das ist einfach eine Frage der Chemie`, `It's just chemistry`, `Ez csak kémia`, `E doar o problemă de chimie`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "colors_spectrum",
         q4(
           `Warum sieht eine rote Tomate rot aus?`,
           `Why does a red tomato appear red?`,
@@ -1031,42 +1084,32 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `De ce apare roșu o roșie?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Sie absorbiert andere Farben und reflektiert rotes Licht`,
-              `It absorbs other colors and reflects red light`,
-              `Más szineket abszorbeál és vörös fényt veri vissza`,
-              `Absorbe alte culori și reflectă lumina roșie`,
-              lang
-            ),
-            q4(
-              `Sie produziert selbst rotes Licht`,
-              `It produces red light itself`,
-              `Maga termel vörös fényt`,
-              `Produce ea însăși lumina roșie`,
-              lang
-            ),
-            q4(
-              `Das Licht verändert Farbe im Objekt`,
-              `Light changes color in the object`,
-              `A fény színe megváltozik az objektumban`,
-              `Lumina schimbă culoare în obiect`,
-              lang
-            ),
-            q4(`Das ist einfach eine Frage der Chemie`, `It's just chemistry`, `Ez csak kémia`, `E doar o problemă de chimie`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
 
   // MCQ 29-35: White light composition
   for (let i = 0; i < 7; i++) {
+    const correct = q4(
+      `Aus allen sichtbaren Farben gemischt`,
+      `It's all visible colors mixed together`,
+      `Az összes látható szín keveréke`,
+      `Din toate culorile vizibile amestecate`,
+      lang
+    );
+    const wrongOpts = [
+      q4(`Aus nur Rot und Blau`, `Only red and blue`, `Csak vörös és kék`, `Doar roșu și albastru`, lang),
+      q4(`Eine besondere Farbe ohne Komponenten`, `A special color with no components`, `Speciális szín komponensek nélkül`, `O culoare specială fără componente`, lang),
+      q4(`Aus Schwarz und Weiß gemischt`, `Black and white mixed`, `Fekete és fehér keveréke`, `Negru și alb amestecate`, lang),
+    ];
+
     questions.push(
       createMCQ(
+        "light",
+        "colors_spectrum",
         q4(
           `Woraus besteht weißes Licht?`,
           `What is white light made of?`,
@@ -1074,22 +1117,9 @@ function colors_spectrum(lang: string, seed?: number): CurriculumQuestion[] {
           `Din ce este făcută lumina albă?`,
           lang
         ),
-        shuffle(
-          [
-            q4(
-              `Aus allen sichtbaren Farben gemischt`,
-              `It's all visible colors mixed together`,
-              `Az összes látható szín keveréke`,
-              `Din toate culorile vizibile amestecate`,
-              lang
-            ),
-            q4(`Aus nur Rot und Blau`, `Only red and blue`, `Csak vörös és kék`, `Doar roșu și albastru`, lang),
-            q4(`Eine besondere Farbe ohne Komponenten`, `A special color with no components`, `Speciális szín komponensek nélkül`, `O culoare specială fără componente`, lang),
-            q4(`Aus Schwarz und Weiß gemischt`, `Black and white mixed`, `Fekete és fehér keveréke`, `Negru și alb amestecate`, lang),
-          ],
-          rng
-        ),
-        0
+        correct,
+        wrongOpts,
+        rng
       )
     );
   }
@@ -1107,6 +1137,8 @@ function colors_spectrum_typing(lang: string, seed?: number): CurriculumQuestion
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "colors_spectrum",
         q4(
           `Die 7 Farben des Regenbogens bilden das ___.`,
           `The 7 colors of the rainbow form the ___.`,
@@ -1114,8 +1146,7 @@ function colors_spectrum_typing(lang: string, seed?: number): CurriculumQuestion
           `Cele 7 culori ale curcubeului formează ___.`,
           lang
         ),
-        q4(`Spektrum`, `spectrum`, `spektrum`, `spectru`, lang),
-        ["Spektrum", "spectrum", "ROYGBIV"]
+        q4(`Spektrum`, `spectrum`, `spektrum`, `spectru`, lang)
       )
     );
   }
@@ -1125,6 +1156,8 @@ function colors_spectrum_typing(lang: string, seed?: number): CurriculumQuestion
   for (let i = 0; i < 5; i++) {
     questions.push(
       createTyping(
+        "light",
+        "colors_spectrum",
         q4(
           `Rot + Grün + Blau Licht = ___ Licht`,
           `Red + Green + Blue light = ___ light`,
@@ -1132,8 +1165,7 @@ function colors_spectrum_typing(lang: string, seed?: number): CurriculumQuestion
           `Roșu + Verde + Albastru lumină = ___ lumină`,
           lang
         ),
-        pick(whiteAnswers, rng),
-        whiteAnswers
+        pick(whiteAnswers, rng)
       )
     );
   }

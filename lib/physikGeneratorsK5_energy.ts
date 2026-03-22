@@ -1010,16 +1010,16 @@ export function generateEnergyConservationTyping(lang: string, seed = Math.rando
 // --- EXPORT GENERATOR MAP ---
 
 export const ENERGY_GENERATORS = {
-  energy_forms: generateEnergyForms,
-  energy_forms_typing: generateEnergyFormsTyping,
-  kinetic_energy: generateKineticEnergy,
-  kinetic_energy_typing: generateKineticEnergyTyping,
-  potential_energy: generatePotentialEnergy,
-  potential_energy_typing: generatePotentialEnergyTyping,
-  energy_conversion: generateEnergyConversion,
-  energy_conversion_typing: generateEnergyConversionTyping,
-  energy_conservation: generateEnergyConservation,
-  energy_conservation_typing: generateEnergyConservationTyping,
+  energy_forms: (lang: string = "en", seed: number = 0) => generateEnergyForms(lang, seed),
+  energy_forms_typing: (lang: string = "en", seed: number = 0) => generateEnergyFormsTyping(lang, seed),
+  kinetic_energy: (lang: string = "en", seed: number = 0) => generateKineticEnergy(lang, seed),
+  kinetic_energy_typing: (lang: string = "en", seed: number = 0) => generateKineticEnergyTyping(lang, seed),
+  potential_energy: (lang: string = "en", seed: number = 0) => generatePotentialEnergy(lang, seed),
+  potential_energy_typing: (lang: string = "en", seed: number = 0) => generatePotentialEnergyTyping(lang, seed),
+  energy_conversion: (lang: string = "en", seed: number = 0) => generateEnergyConversion(lang, seed),
+  energy_conversion_typing: (lang: string = "en", seed: number = 0) => generateEnergyConversionTyping(lang, seed),
+  energy_conservation: (lang: string = "en", seed: number = 0) => generateEnergyConservation(lang, seed),
+  energy_conservation_typing: (lang: string = "en", seed: number = 0) => generateEnergyConservationTyping(lang, seed),
 };
 
 // Auto-register generators
