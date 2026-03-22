@@ -53,7 +53,9 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "weather-explorer" | "family-explorer" | "traffic-explorer"
   | "recycling-explorer" | "nature-review-explorer" | "sachkunde-review-explorer"
   | "fish-explorer" | "reptile-explorer" | "mammal-explorer" | "plant-explorer" | "flower-explorer"
-  | "skeleton-explorer" | "bodysystem-explorer" | "sense-explorer" | "nutrition-explorer";
+  | "skeleton-explorer" | "bodysystem-explorer" | "sense-explorer" | "nutrition-explorer"
+  | "arthropod-explorer" | "mollusk-explorer" | "forest-explorer" | "water-explorer"
+  | "heart-explorer" | "circulation-explorer" | "respiration-explorer" | "puberty-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
