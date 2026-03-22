@@ -241,128 +241,226 @@ const LABELS: ExplorerDef["labels"] = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SvgRound1(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r1_heart" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF4444" />
-          <stop offset="100%" stopColor="#CC0000" />
+        <radialGradient id="bs_r1_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a0a14" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <radialGradient id="bs_r1_heart" cx="45%" cy="35%" r="55%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="40%" stopColor="#D32F2F" />
+          <stop offset="80%" stopColor="#B71C1C" />
+          <stop offset="100%" stopColor="#7f0000" />
+        </radialGradient>
+        <linearGradient id="bs_r1_artery" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#FF5252" />
+          <stop offset="50%" stopColor="#EF5350" />
+          <stop offset="100%" stopColor="#E53935" />
         </linearGradient>
-        <linearGradient id="r1_artery" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6666" />
-          <stop offset="100%" stopColor="#FF2222" />
+        <linearGradient id="bs_r1_vein" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stopColor="#5C6BC0" />
+          <stop offset="50%" stopColor="#3F51B5" />
+          <stop offset="100%" stopColor="#283593" />
         </linearGradient>
-        <linearGradient id="r1_vein" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4466FF" />
-          <stop offset="100%" stopColor="#0000CC" />
-        </linearGradient>
+        <radialGradient id="bs_r1_aorta" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="100%" stopColor="#D32F2F" />
+        </radialGradient>
+        <filter id="bs_r1_glow">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="bs_r1_pulse">
+          <feGaussianBlur stdDeviation="4" />
+        </filter>
       </defs>
 
-      {/* Heart with 4 chambers */}
-      <g id="heart">
-        <path d="M120 40 L140 55 L140 75 L120 85 L100 75 L100 55 Z" fill="url(#r1_heart)" stroke="#FF0000" strokeWidth="1.5" />
-        {/* Chambers separators */}
-        <line x1="100" y1="65" x2="140" y2="65" stroke="#AA0000" strokeWidth="1" opacity="0.6" />
-        <line x1="120" y1="55" x2="120" y2="85" stroke="#AA0000" strokeWidth="1" opacity="0.6" />
-        {/* Labels on chambers */}
-        <text x="105" y="62" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">LA</text>
-        <text x="135" y="62" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">RA</text>
-        <text x="105" y="78" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">LV</text>
-        <text x="135" y="78" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">RV</text>
+      <rect width="240" height="160" fill="url(#bs_r1_bg)" />
+
+      {/* Heart glow */}
+      <ellipse cx="120" cy="68" rx="30" ry="28" fill="#FF5252" opacity="0.06" filter="url(#bs_r1_pulse)" />
+
+      {/* ── HEART — anatomical shape with 4 chambers ── */}
+      <g filter="url(#bs_r1_glow)">
+        {/* Heart outer shape */}
+        <path d="M 120,40 Q 108,30 100,38 Q 92,48 98,60 L 120,88 L 142,60 Q 148,48 140,38 Q 132,30 120,40 Z" fill="url(#bs_r1_heart)" />
+        {/* Heart highlight */}
+        <path d="M 106,40 Q 100,46 102,54" stroke="rgba(255,255,255,0.12)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+
+        {/* Chamber dividers */}
+        <line x1="98" y1="58" x2="142" y2="58" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
+        <line x1="120" y1="42" x2="120" y2="82" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
+
+        {/* Chamber coloring — left side (oxygenated=brighter red) */}
+        <path d="M 120,42 Q 108,34 102,40 Q 96,48 98,58 L 120,58 Z" fill="rgba(255,130,130,0.15)" />
+        <path d="M 98,58 L 120,58 L 120,82 L 107,68 Q 98,60 98,58 Z" fill="rgba(255,130,130,0.1)" />
+        {/* Right side (deoxygenated=bluer) */}
+        <path d="M 120,42 Q 132,34 138,40 Q 144,48 142,58 L 120,58 Z" fill="rgba(100,120,200,0.12)" />
+        <path d="M 142,58 L 120,58 L 120,82 L 133,68 Q 142,60 142,58 Z" fill="rgba(100,120,200,0.08)" />
       </g>
 
-      {/* Arteries (red) leaving heart */}
-      <path d="M100 50 Q70 45 50 40" stroke="url(#r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M140 50 Q170 45 190 40" stroke="url(#r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Arrowheads */}
-      <polygon points="50,40 45,37 48,43" fill="#FF2222" />
-      <polygon points="190,40 185,37 188,43" fill="#FF2222" />
+      {/* ── AORTA (main artery) arching up from heart ── */}
+      <path d="M 118,42 Q 118,28 130,22 Q 145,18 155,25" stroke="url(#bs_r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      {/* Branching arteries */}
+      <path d="M 155,25 Q 168,20 185,18" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 140,20 Q 148,12 160,10" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Left-side arteries */}
+      <path d="M 100,42 Q 88,30 70,22" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 78,26 Q 65,18 50,15" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Descending aorta */}
+      <path d="M 120,85 Q 120,100 118,115 Q 116,128 110,140" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 118,115 Q 125,128 132,140" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
 
-      {/* Veins (blue) returning to heart */}
-      <path d="M100 80 Q70 85 50 100" stroke="url(#r1_vein)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M140 80 Q170 85 190 100" stroke="url(#r1_vein)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Arrowheads */}
-      <polygon points="50,100 48,95 52,97" fill="#0000CC" />
-      <polygon points="190,100 188,95 192,97" fill="#0000CC" />
+      {/* ── VEINS returning to heart ── */}
+      <path d="M 50,145 Q 70,130 90,120 Q 100,115 102,100 Q 100,90 100,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      <path d="M 190,145 Q 170,130 150,120 Q 140,115 138,100 Q 140,90 140,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
+      {/* Superior vena cava */}
+      <path d="M 185,10 Q 170,15 155,25 Q 145,32 140,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+      <path d="M 50,10 Q 70,18 85,30 Q 95,38 100,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
 
-      {/* Labels with pills */}
-      <g id="label_heart">
-        <rect x="105" y="110" width="30" height="20" rx="10" fill="#FF4444" opacity="0.2" stroke="#FF4444" strokeWidth="1" />
-        <text x="120" y="123" fontSize="6" fontWeight="bold" fill="white" textAnchor="middle">Heart</text>
-      </g>
-      <g id="label_artery">
-        <rect x="170" y="25" width="32" height="20" rx="10" fill="#FF2222" opacity="0.2" stroke="#FF2222" strokeWidth="1" />
-        <text x="186" y="38" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Artery</text>
-      </g>
-      <g id="label_vein">
-        <rect x="165" y="100" width="28" height="20" rx="10" fill="#0000CC" opacity="0.2" stroke="#0000CC" strokeWidth="1" />
-        <text x="179" y="113" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Vein</text>
-      </g>
+      {/* Tiny capillary network at extremities */}
+      {[{x:40,y:148},{x:195,y:148},{x:45,y:8},{x:195,y:8}].map((p,i) => (
+        <g key={i} opacity="0.3">
+          <circle cx={p.x} cy={p.y} r="5" fill="none" stroke={i<2?"#E53935":"#3F51B5"} strokeWidth="0.4" />
+          <path d={`M ${p.x-4},${p.y} Q ${p.x},${p.y-3} ${p.x+4},${p.y}`} stroke="rgba(200,150,200,0.4)" strokeWidth="0.4" fill="none" />
+        </g>
+      ))}
+
+      {/* Directional flow arrows on arteries */}
+      <polygon points="70,22 66,20 68,24" fill="#E53935" opacity="0.6" />
+      <polygon points="185,18 181,16 183,20" fill="#E53935" opacity="0.6" />
+      <polygon points="110,140 108,136 112,137" fill="#E53935" opacity="0.6" />
+      {/* Flow arrows on veins */}
+      <polygon points="90,120 88,116 92,117" fill="#3F51B5" opacity="0.6" />
+      <polygon points="150,120 148,116 152,117" fill="#3F51B5" opacity="0.6" />
+
+      {/* Color-coded indicator dots */}
+      <circle cx="22" cy="22" r="4" fill="rgba(229,57,53,0.2)" stroke="#E53935" strokeWidth="0.7" />
+      <circle cx="22" cy="22" r="1.5" fill="#E53935" opacity="0.5" />
+      <circle cx="22" cy="140" r="4" fill="rgba(63,81,181,0.2)" stroke="#3F51B5" strokeWidth="0.7" />
+      <circle cx="22" cy="140" r="1.5" fill="#3F51B5" opacity="0.5" />
     </svg>
   );
 }
 
 function SvgRound2(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_air" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" />
-          <stop offset="100%" stopColor="#4AABD9" />
+        <radialGradient id="bs_r2_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#0a1420" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="bs_r2_trachea" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#80DEEA" />
+          <stop offset="50%" stopColor="#4DD0E1" />
+          <stop offset="100%" stopColor="#00ACC1" />
         </linearGradient>
-        <linearGradient id="r2_lung" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B9D" />
-          <stop offset="100%" stopColor="#FF4081" />
+        <radialGradient id="bs_r2_lung_l" cx="45%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="40%" stopColor="#EF5350" />
+          <stop offset="80%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </radialGradient>
+        <radialGradient id="bs_r2_lung_r" cx="55%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#FF8A80" />
+          <stop offset="40%" stopColor="#EF5350" />
+          <stop offset="80%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </radialGradient>
+        <radialGradient id="bs_r2_alveoli" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FFCDD2" />
+          <stop offset="100%" stopColor="#EF9A9A" />
+        </radialGradient>
+        <linearGradient id="bs_r2_nose" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFCCBC" />
+          <stop offset="100%" stopColor="#FFAB91" />
         </linearGradient>
+        <filter id="bs_r2_glow">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Nose & mouth */}
-      <ellipse cx="50" cy="30" rx="12" ry="14" fill="url(#r2_air)" stroke="#4AABD9" strokeWidth="1.5" />
-      <text x="50" y="35" fontSize="16" textAnchor="middle">👃</text>
+      <rect width="240" height="160" fill="url(#bs_r2_bg)" />
 
-      {/* Trachea */}
-      <path d="M50 50 Q60 70 100 90" stroke="#4AABD9" strokeWidth="5" fill="none" strokeLinecap="round" />
-      <text x="65" y="65" fontSize="8" fontWeight="bold" fill="white">Trachea</text>
+      {/* Body silhouette outline */}
+      <path d="M 90,8 Q 80,5 75,10 Q 70,18 78,28 L 78,35 Q 65,42 55,60 Q 48,75 50,95 Q 52,120 60,140 L 60,155 M 150,8 Q 160,5 165,10 Q 170,18 162,28 L 162,35 Q 175,42 185,60 Q 192,75 190,95 Q 188,120 180,140 L 180,155" stroke="rgba(255,255,255,0.06)" strokeWidth="0.8" fill="none" />
 
-      {/* Lungs (two oval chambers) */}
-      <ellipse cx="80" cy="115" rx="25" ry="30" fill="url(#r2_lung)" stroke="#FF4081" strokeWidth="2" />
-      <ellipse cx="140" cy="115" rx="25" ry="30" fill="url(#r2_lung)" stroke="#FF4081" strokeWidth="2" />
+      {/* Nose/nasal passage */}
+      <path d="M 116,10 Q 112,8 110,12 Q 108,18 112,22 L 120,22 Q 128,18 130,12 Q 128,8 124,10 Z" fill="url(#bs_r2_nose)" opacity="0.5" />
+      {/* Nasal cavity inside */}
+      <path d="M 114,14 Q 116,18 118,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
+      <path d="M 126,14 Q 124,18 122,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
 
-      {/* Alveoli clusters inside lungs */}
-      <g id="alveoli_left">
-        <circle cx="70" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="80" cy="110" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="90" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="75" cy="125" r="3" fill="#FFB6D9" opacity="0.8" />
-      </g>
-      <g id="alveoli_right">
-        <circle cx="130" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="140" cy="110" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="150" cy="105" r="3" fill="#FFB6D9" opacity="0.8" />
-        <circle cx="135" cy="125" r="3" fill="#FFB6D9" opacity="0.8" />
-      </g>
+      {/* Pharynx */}
+      <path d="M 116,22 Q 118,28 120,32" stroke="url(#bs_r2_trachea)" strokeWidth="3.5" fill="none" strokeLinecap="round" opacity="0.6" />
 
-      {/* O₂ in / CO₂ out arrows */}
-      <path d="M40 35 Q30 50 25 75" stroke="#87CEEB" strokeWidth="2" fill="none" markerEnd="url(#arrowblue)" strokeDasharray="3,3" />
-      <text x="18" y="55" fontSize="6" fontWeight="bold" fill="#87CEEB">O₂ in</text>
+      {/* Trachea — ring segments */}
+      {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+        <g key={`tr${i}`}>
+          <path d={`M 116,${34 + i * 5} Q 120,${36 + i * 5} 124,${34 + i * 5}`} stroke="url(#bs_r2_trachea)" strokeWidth="2.5" fill="none" />
+          {/* Cartilage ring */}
+          <path d={`M 115,${34 + i * 5} Q 120,${32 + i * 5} 125,${34 + i * 5}`} stroke="rgba(77,208,225,0.3)" strokeWidth="1" fill="none" />
+        </g>
+      ))}
 
-      <path d="M200 75 Q210 50 220 35" stroke="#FF8C00" strokeWidth="2" fill="none" markerEnd="url(#arroworange)" strokeDasharray="3,3" />
-      <text x="200" y="55" fontSize="6" fontWeight="bold" fill="#FF8C00">CO₂ out</text>
+      {/* Bronchi branching */}
+      <path d="M 118,68 Q 105,75 90,82 Q 78,88 72,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      <path d="M 122,68 Q 135,75 150,82 Q 162,88 168,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
+      {/* Secondary bronchi */}
+      <path d="M 85,86 Q 75,92 68,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 90,84 Q 85,95 82,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 155,86 Q 165,92 172,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
+      <path d="M 150,84 Q 155,95 158,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
 
-      {/* Labels */}
-      <rect x="65" y="150" width="35" height="16" rx="8" fill="#4AABD9" opacity="0.2" stroke="#4AABD9" strokeWidth="1" />
-      <text x="82" y="160" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Lungs</text>
+      {/* Left lung */}
+      <path d="M 96,78 Q 58,82 48,105 Q 42,125 50,142 Q 58,152 80,154 Q 100,152 108,140 Q 115,125 112,105 Q 108,88 96,78 Z" fill="url(#bs_r2_lung_l)" opacity="0.7" />
+      {/* Lung lobe division */}
+      <path d="M 60,110 Q 80,108 105,115" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
 
-      <defs>
-        <marker id="arrowblue" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#87CEEB" />
-        </marker>
-        <marker id="arroworange" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#FF8C00" />
-        </marker>
-      </defs>
+      {/* Right lung */}
+      <path d="M 144,78 Q 182,82 192,105 Q 198,125 190,142 Q 182,152 160,154 Q 140,152 132,140 Q 125,125 128,105 Q 132,88 144,78 Z" fill="url(#bs_r2_lung_r)" opacity="0.7" />
+      {/* Lung lobe divisions (right has 3 lobes) */}
+      <path d="M 135,105 Q 160,102 188,108" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
+      <path d="M 138,125 Q 160,122 185,128" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
+
+      {/* Alveoli clusters */}
+      {[{x:68,y:98},{x:78,y:115},{x:65,y:128},{x:85,y:135},{x:72,y:142},
+        {x:165,y:98},{x:158,y:115},{x:175,y:128},{x:155,y:135},{x:168,y:142}].map((p,i) => (
+        <g key={`a${i}`}>
+          <circle cx={p.x} cy={p.y} r="4" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+          <circle cx={p.x-2} cy={p.y-1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
+          <circle cx={p.x+2} cy={p.y+1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
+        </g>
+      ))}
+
+      {/* O2 flow arrows (blue, incoming) */}
+      <path d="M 30,15 Q 60,12 110,14" stroke="rgba(100,181,246,0.35)" strokeWidth="1.2" fill="none" />
+      <polygon points="108,14 104,12 104,16" fill="rgba(100,181,246,0.4)" />
+      <path d="M 25,22 Q 55,20 108,18" stroke="rgba(100,181,246,0.25)" strokeWidth="0.8" fill="none" />
+      {/* O2 dots */}
+      <circle cx="40" cy="14" r="1.5" fill="rgba(100,181,246,0.4)" />
+      <circle cx="55" cy="16" r="1.2" fill="rgba(100,181,246,0.3)" />
+      <circle cx="70" cy="12" r="1" fill="rgba(100,181,246,0.25)" />
+
+      {/* CO2 flow arrows (orange, outgoing) */}
+      <path d="M 130,14 Q 170,12 210,18" stroke="rgba(255,167,38,0.35)" strokeWidth="1.2" fill="none" />
+      <polygon points="210,18 206,16 207,20" fill="rgba(255,167,38,0.4)" />
+      {/* CO2 dots */}
+      <circle cx="175" cy="12" r="1.5" fill="rgba(255,167,38,0.35)" />
+      <circle cx="190" cy="14" r="1.2" fill="rgba(255,167,38,0.25)" />
+      <circle cx="200" cy="16" r="1" fill="rgba(255,167,38,0.2)" />
+
+      {/* Gas exchange zoomed hint (bottom right) */}
+      <circle cx="218" cy="130" r="12" fill="rgba(255,205,210,0.08)" stroke="rgba(255,205,210,0.15)" strokeWidth="0.5" />
+      <circle cx="215" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <circle cx="221" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <circle cx="218" cy="133" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
+      <path d="M 212,126 L 208,122" stroke="rgba(100,181,246,0.3)" strokeWidth="0.5" />
+      <path d="M 224,126 L 228,122" stroke="rgba(255,167,38,0.3)" strokeWidth="0.5" />
     </svg>
   );
 }

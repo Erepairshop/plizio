@@ -1018,24 +1018,113 @@ function SVG_R5(lang: string): React.ReactNode {
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(147, 51, 234, 0.2)" />
-          <stop offset="100%" stopColor="rgba(59, 130, 246, 0.2)" />
+        <radialGradient id="nu_r5_bg" cx="50%" cy="50%" r="60%">
+          <stop offset="0%" stopColor="#1E1B4B" />
+          <stop offset="100%" stopColor="#0a0a1a" />
+        </radialGradient>
+        <radialGradient id="nu_r5_center" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="rgba(168,85,247,0.12)" />
+          <stop offset="100%" stopColor="rgba(168,85,247,0)" />
+        </radialGradient>
+        <linearGradient id="nu_r5_bread" x1="30%" y1="0%" x2="70%" y2="100%">
+          <stop offset="0%" stopColor="#F5D89A" />
+          <stop offset="100%" stopColor="#92662C" />
         </linearGradient>
+        <linearGradient id="nu_r5_meat" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#E87070" />
+          <stop offset="100%" stopColor="#991B1B" />
+        </linearGradient>
+        <radialGradient id="nu_r5_oil" cx="50%" cy="30%">
+          <stop offset="0%" stopColor="#FEF9C3" />
+          <stop offset="100%" stopColor="#CA8A04" />
+        </radialGradient>
+        <radialGradient id="nu_r5_orange" cx="40%" cy="35%">
+          <stop offset="0%" stopColor="#FDBA74" />
+          <stop offset="100%" stopColor="#C2410C" />
+        </radialGradient>
+        <linearGradient id="nu_r5_water" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#67E8F9" />
+          <stop offset="100%" stopColor="#0891B2" />
+        </linearGradient>
+        <radialGradient id="nu_r5_stomach" cx="40%" cy="35%">
+          <stop offset="0%" stopColor="#FCA5A5" />
+          <stop offset="100%" stopColor="#991B1B" />
+        </radialGradient>
+        <filter id="nu_r5_glow">
+          <feGaussianBlur stdDeviation="2" />
+        </filter>
       </defs>
 
-      <rect width="240" height="160" fill="url(#r5_bg)" rx="8" />
+      {/* Background */}
+      <rect width="240" height="160" fill="url(#nu_r5_bg)" rx="6" />
 
-      {/* Nutrient icons arranged in circle */}
-      <text x="40" y="50" fontSize="28" textAnchor="middle">🍞</text>
-      <text x="200" y="50" fontSize="28" textAnchor="middle">🥩</text>
-      <text x="120" y="35" fontSize="28" textAnchor="middle">🧈</text>
-      <text x="30" y="120" fontSize="28" textAnchor="middle">🥗</text>
-      <text x="210" y="120" fontSize="28" textAnchor="middle">💧</text>
+      {/* Center glow */}
+      <circle cx="120" cy="80" r="45" fill="url(#nu_r5_center)" />
 
-      {/* Central brain/quiz */}
-      <circle cx="120" cy="85" r="25" fill="#9333EA" opacity="0.4" stroke="#B44DFF" strokeWidth="2" />
-      <text x="120" y="92" fontSize="18" textAnchor="middle">❓</text>
+      {/* Connecting paths from foods to center stomach */}
+      <path d="M 40 38 Q 70 50, 105 72" stroke="#FBBF24" strokeWidth="0.6" fill="none" opacity="0.2" strokeDasharray="2,2" />
+      <path d="M 200 38 Q 170 50, 135 72" stroke="#EF4444" strokeWidth="0.6" fill="none" opacity="0.2" strokeDasharray="2,2" />
+      <path d="M 120 18 Q 120 35, 120 60" stroke="#FDE047" strokeWidth="0.6" fill="none" opacity="0.2" strokeDasharray="2,2" />
+      <path d="M 40 125 Q 70 110, 105 88" stroke="#22C55E" strokeWidth="0.6" fill="none" opacity="0.2" strokeDasharray="2,2" />
+      <path d="M 200 125 Q 170 110, 135 88" stroke="#22D3EE" strokeWidth="0.6" fill="none" opacity="0.2" strokeDasharray="2,2" />
+
+      {/* ── BREAD — top left ── */}
+      <g transform="translate(38, 32)">
+        <circle cx="0" cy="0" r="14" fill="#FBBF24" opacity="0.06" filter="url(#nu_r5_glow)" />
+        <path d="M -10 4 Q -12 -2, -6 -8 Q 0 -12, 6 -8 Q 12 -2, 10 4 Q 8 10, 0 12 Q -8 10, -10 4 Z" fill="url(#nu_r5_bread)" />
+        <path d="M -6 -6 Q 0 -10, 6 -6" stroke="#B8860B" strokeWidth="0.5" fill="none" opacity="0.4" />
+        <path d="M -4 -4 Q -2 -2, 0 -4" stroke="#B8860B" strokeWidth="0.3" fill="none" opacity="0.3" />
+      </g>
+
+      {/* ── MEAT — top right ── */}
+      <g transform="translate(200, 32)">
+        <circle cx="0" cy="0" r="14" fill="#EF4444" opacity="0.06" filter="url(#nu_r5_glow)" />
+        <path d="M -10 -2 Q -8 -10, 0 -10 Q 8 -10, 10 -2 Q 12 6, 6 10 Q 0 14, -6 10 Q -12 6, -10 -2 Z" fill="url(#nu_r5_meat)" />
+        <path d="M -6 -4 Q 0 -2, 6 -6" stroke="#FCA5A5" strokeWidth="0.8" fill="none" opacity="0.3" />
+        <path d="M -4 4 Q 2 6, 8 2" stroke="#FCA5A5" strokeWidth="0.6" fill="none" opacity="0.2" />
+      </g>
+
+      {/* ── OIL — top center ── */}
+      <g transform="translate(120, 12)">
+        <circle cx="0" cy="0" r="10" fill="#FDE047" opacity="0.06" filter="url(#nu_r5_glow)" />
+        {/* Oil drop shape */}
+        <path d="M 0 -8 Q -5 -2, -5 2 Q -5 7, 0 8 Q 5 7, 5 2 Q 5 -2, 0 -8 Z" fill="url(#nu_r5_oil)" opacity="0.8" />
+        <ellipse cx="-1" cy="-2" rx="1.5" ry="2" fill="#FEF9C3" opacity="0.3" />
+      </g>
+
+      {/* ── FRUIT — bottom left ── */}
+      <g transform="translate(38, 128)">
+        <circle cx="0" cy="0" r="14" fill="#F97316" opacity="0.06" filter="url(#nu_r5_glow)" />
+        <circle cx="-2" cy="2" r="8" fill="url(#nu_r5_orange)" />
+        <circle cx="-5" cy="-1" r="2" fill="#FDBA74" opacity="0.3" />
+        {/* Leaf */}
+        <path d="M 4 -6 Q 7 -9, 10 -7 Q 8 -5, 4 -6 Z" fill="#22C55E" opacity="0.6" />
+        <path d="M 3 -6 Q 5 -8, 5 -5" stroke="#78350F" strokeWidth="0.5" fill="none" />
+      </g>
+
+      {/* ── WATER — bottom right ── */}
+      <g transform="translate(200, 128)">
+        <circle cx="0" cy="0" r="14" fill="#22D3EE" opacity="0.06" filter="url(#nu_r5_glow)" />
+        {/* Water drop */}
+        <path d="M 0 -10 Q -6 -2, -6 3 Q -6 10, 0 12 Q 6 10, 6 3 Q 6 -2, 0 -10 Z" fill="url(#nu_r5_water)" opacity="0.7" />
+        <ellipse cx="-2" cy="-2" rx="1.5" ry="2.5" fill="#A5F3FC" opacity="0.3" />
+      </g>
+
+      {/* ── CENTER: Stomach/digest icon ── */}
+      <g transform="translate(120, 80)">
+        <circle cx="0" cy="0" r="18" fill="#9333EA" opacity="0.08" filter="url(#nu_r5_glow)" />
+        {/* Simplified stomach shape */}
+        <path d="M -4 -14 Q 8 -16, 12 -8 Q 16 0, 10 10 Q 4 18, -4 16 Q -12 14, -14 4 Q -16 -6, -8 -12 Z" fill="url(#nu_r5_stomach)" opacity="0.5" />
+        {/* Rugae */}
+        <path d="M -6 -6 Q 0 -4, 6 -6" stroke="#FCA5A5" strokeWidth="0.4" fill="none" opacity="0.3" />
+        <path d="M -8 2 Q -2 4, 4 2" stroke="#FCA5A5" strokeWidth="0.4" fill="none" opacity="0.3" />
+        {/* Question mark overlay */}
+        <path d="M -3 -4 Q -3 -8, 0 -8 Q 3 -8, 3 -5 Q 3 -3, 0 -2" stroke="#F59E0B" strokeWidth="1.5" fill="none" strokeLinecap="round" opacity="0.7" />
+        <circle cx="0" cy="2" r="1" fill="#F59E0B" opacity="0.7" />
+      </g>
+
+      {/* Decorative orbit ring */}
+      <ellipse cx="120" cy="80" rx="65" ry="55" fill="none" stroke="#A855F7" strokeWidth="0.4" opacity="0.12" strokeDasharray="4,4" />
     </svg>
   );
 }

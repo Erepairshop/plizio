@@ -163,98 +163,137 @@ function SVG_R1(lang: string): React.ReactNode {
 }
 
 function SVG_R2(lang: string): React.ReactNode {
-  const lb: Record<string, { lungs: string; heart: string; incisors: string; molars: string; diaphragm: string }> = {
-    en: { lungs: "Lungs", heart: "4-chamber Heart", incisors: "Sharp Incisors", molars: "Grinding Molars", diaphragm: "Diaphragm" },
-    de: { lungs: "Lungen", heart: "4-Kammer-Herz", incisors: "Scharfe Schneidezähne", molars: "Mahlzähne", diaphragm: "Zwerchfell" },
-    hu: { lungs: "Tüdő", heart: "4 kamrás szív", incisors: "Éles metszőfogak", molars: "Rágófogak", diaphragm: "Rekeszizom" },
-    ro: { lungs: "Plămâni", heart: "Inimă cu 4 camere", incisors: "Incisivi ascuți", molars: "Molari de măcinat", diaphragm: "Diafragmă" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r2_body" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#E8C4A0" />
-          <stop offset="100%" stopColor="#D4A880" />
+        <linearGradient id="m2_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a1a2e" />
+          <stop offset="100%" stopColor="#16213e" />
         </linearGradient>
-        <linearGradient id="r2_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(150,150,255,0.15)" />
-          <stop offset="100%" stopColor="rgba(200,100,150,0.15)" />
+        <linearGradient id="m2_jaw" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E8D8C0" />
+          <stop offset="100%" stopColor="#C4A882" />
         </linearGradient>
+        <linearGradient id="m2_gum" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FF8A8A" />
+          <stop offset="100%" stopColor="#E06060" />
+        </linearGradient>
+        <linearGradient id="m2_tooth" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FFFFF0" />
+          <stop offset="40%" stopColor="#F5F0E0" />
+          <stop offset="100%" stopColor="#E8E0C8" />
+        </linearGradient>
+        <linearGradient id="m2_lung" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF8A9E" />
+          <stop offset="100%" stopColor="#E0546A" />
+        </linearGradient>
+        <linearGradient id="m2_heart" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#FF4757" />
+          <stop offset="100%" stopColor="#C0392B" />
+        </linearGradient>
+        <radialGradient id="m2_heart_glow" cx="50%" cy="50%">
+          <stop offset="0%" stopColor="rgba(255,70,87,0.3)" />
+          <stop offset="100%" stopColor="rgba(255,70,87,0)" />
+        </radialGradient>
       </defs>
 
-      <rect width="240" height="160" fill="url(#r2_bg)" />
+      <rect width="240" height="160" fill="url(#m2_bg)" />
 
-      {/* Body outline */}
-      <ellipse cx="85" cy="85" rx="25" ry="35" fill="url(#r2_body)" stroke="#8B6F47" strokeWidth="1.5" />
+      {/* LEFT SECTION: Teeth diagram — jaw cross-section */}
+      <g transform="translate(10, 8)">
+        {/* Upper jaw arc */}
+        <path d="M 15,55 Q 15,20 55,15 Q 95,20 95,55" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
+        {/* Gum line */}
+        <path d="M 20,50 Q 20,30 55,25 Q 90,30 90,50" fill="url(#m2_gum)" opacity="0.6" />
 
-      {/* Lungs (left & right) */}
-      <g>
-        <ellipse cx="65" cy="75" rx="8" ry="18" fill="#FF6B9D" opacity="0.8" stroke="#FF1493" strokeWidth="0.8" />
-        <ellipse cx="105" cy="75" rx="8" ry="18" fill="#FF6B9D" opacity="0.8" stroke="#FF1493" strokeWidth="0.8" />
-        <text x="55" y="75" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#FF1493" fontFamily="system-ui">
-          {l.lungs}
-        </text>
+        {/* Upper teeth */}
+        {/* Incisors - sharp chisel shapes */}
+        <rect x="42" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="48" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="54" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="60" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Canines - pointed */}
+        <path d="M 35,34 L 38,28 L 41,34 Q 40,48 38,50 Q 36,48 35,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <path d="M 66,34 L 69,28 L 72,34 Q 71,48 69,50 Q 67,48 66,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Premolars & Molars - flat wide */}
+        <rect x="22" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="76" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Grinding surface detail on molars */}
+        <path d="M 24,40 L 28,40 M 24,43 L 28,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
+        <path d="M 78,40 L 82,40 M 78,43 L 82,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
+
+        {/* Lower jaw (mirror) */}
+        <path d="M 15,60 Q 15,95 55,100 Q 95,95 95,60" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
+        <path d="M 20,65 Q 20,85 55,90 Q 90,85 90,65" fill="url(#m2_gum)" opacity="0.6" />
+
+        {/* Lower teeth */}
+        <rect x="44" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="50" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="56" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="62" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Lower canines */}
+        <path d="M 36,70 L 39,82 L 42,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <path d="M 67,70 L 70,82 L 73,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        {/* Lower molars */}
+        <rect x="22" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+        <rect x="76" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
+
+        {/* Color-coded indicator dots */}
+        {/* Incisors */}
+        <circle cx="53" cy="22" r="3" fill="rgba(255,193,7,0.3)" stroke="#FFC107" strokeWidth="0.8" />
+        <circle cx="53" cy="22" r="1" fill="#FFC107" />
+        {/* Canines */}
+        <circle cx="38" cy="24" r="3" fill="rgba(244,67,54,0.3)" stroke="#F44336" strokeWidth="0.8" />
+        <circle cx="38" cy="24" r="1" fill="#F44336" />
+        {/* Molars */}
+        <circle cx="26" cy="34" r="3" fill="rgba(76,175,80,0.3)" stroke="#4CAF50" strokeWidth="0.8" />
+        <circle cx="26" cy="34" r="1" fill="#4CAF50" />
       </g>
 
-      {/* Heart */}
-      <g>
-        <circle cx="85" cy="95" r="10" fill="#FF4757" stroke="#C2185B" strokeWidth="0.8" />
-        {/* Heart chambers hint */}
-        <line x1="80" y1="90" x2="90" y2="90" stroke="#FFE5E5" strokeWidth="1.5" />
-        <line x1="80" y1="100" x2="90" y2="100" stroke="#FFE5E5" strokeWidth="1.5" />
-        <text x="85" y="98" fontSize="7" fontWeight="bold" textAnchor="middle" fill="white" fontFamily="system-ui">
-          ❤
-        </text>
-      </g>
+      {/* RIGHT SECTION: Internal organs */}
+      <g transform="translate(130, 10)">
+        {/* Body silhouette */}
+        <ellipse cx="50" cy="70" rx="38" ry="55" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="3,3" />
 
-      {/* Teeth diagram */}
-      <g>
-        {/* Incisors (sharp, small) */}
+        {/* Lungs - detailed lobes */}
         <g>
-          <rect x="30" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
-          <rect x="37" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
-          <rect x="8" y="137" width="56" height="12" rx="5" fill="#FFA50022" stroke="#FFA500" strokeWidth="0.8" />
-          <text x="36" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
-            {l.incisors}
-          </text>
+          {/* Left lung */}
+          <path d="M 25,45 Q 18,50 15,65 Q 16,80 22,85 Q 30,88 35,82 Q 38,70 36,55 Q 34,46 25,45 Z" fill="url(#m2_lung)" opacity="0.75" />
+          {/* Bronchi detail */}
+          <path d="M 35,55 Q 30,52 28,55 Q 26,60 24,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
+          <path d="M 28,55 Q 24,58 22,62" stroke="rgba(255,255,255,0.15)" strokeWidth="0.4" fill="none" />
+
+          {/* Right lung */}
+          <path d="M 75,45 Q 82,50 85,65 Q 84,80 78,85 Q 70,88 65,82 Q 62,70 64,55 Q 66,46 75,45 Z" fill="url(#m2_lung)" opacity="0.75" />
+          <path d="M 65,55 Q 70,52 72,55 Q 74,60 76,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
+
+          {/* Trachea */}
+          <rect x="47" y="35" width="6" height="18" rx="3" fill="#E88090" opacity="0.5" />
+          <path d="M 50,52 Q 40,55 35,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
+          <path d="M 50,52 Q 60,55 65,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
         </g>
 
-        {/* Molars (flat, large) */}
-        <g>
-          <rect x="110" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
-          <rect x="120" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
-          <rect x="98" y="137" width="40" height="12" rx="5" fill="#228B2222" stroke="#228B22" strokeWidth="0.8" />
-          <text x="118" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-            {l.molars}
-          </text>
+        {/* Heart - with chambers */}
+        <g transform="translate(50, 72)">
+          <circle cx="0" cy="0" r="14" fill="url(#m2_heart_glow)" />
+          {/* Heart shape */}
+          <path d="M 0,-10 Q -8,-14 -12,-8 Q -14,-2 -8,4 L 0,12 L 8,4 Q 14,-2 12,-8 Q 8,-14 0,-10 Z" fill="url(#m2_heart)" />
+          {/* Chamber dividers */}
+          <line x1="-6" y1="-4" x2="6" y2="-4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
+          <line x1="0" y1="-8" x2="0" y2="4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
+          {/* Vessels */}
+          <path d="M -4,-10 Q -6,-14 -4,-16" stroke="#FF6B6B" strokeWidth="1.2" fill="none" />
+          <path d="M 4,-10 Q 6,-14 4,-16" stroke="#4488FF" strokeWidth="1.2" fill="none" />
         </g>
+
+        {/* Diaphragm */}
+        <path d="M 15,100 Q 30,108 50,110 Q 70,108 85,100" stroke="#06B6D4" strokeWidth="2" strokeDasharray="3,2" fill="none" opacity="0.6" />
       </g>
 
-      {/* Diaphragm line */}
-      <g>
-        <path d="M 50 110 Q 85 125 120 110" fill="none" stroke="#06B6D4" strokeWidth="2" strokeDasharray="4,2" />
-        <rect x="125" y="108" width="50" height="12" rx="5" fill="#06B6D433" stroke="#06B6D4" strokeWidth="0.8" />
-        <text x="150" y="117" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
-          {l.diaphragm}
-        </text>
-      </g>
-
-      {/* Label frame */}
-      <rect x="145" y="50" width="85" height="80" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
-      <text x="187" y="67" fontSize="10" fontWeight="bold" textAnchor="middle" fill="rgba(255,255,255,0.7)" fontFamily="system-ui">
-        Mammal Body Systems
-      </text>
-      <text x="187" y="95" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Lungs for breathing
-      </text>
-      <text x="187" y="107" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Powerful heart
-      </text>
-      <text x="187" y="119" fontSize="7" fill="rgba(255,255,255,0.6)" fontFamily="system-ui" textAnchor="middle">
-        • Specialized teeth
-      </text>
+      {/* Subtle connecting element */}
+      <line x1="110" y1="60" x2="130" y2="60" stroke="rgba(255,255,255,0.06)" strokeWidth="1" strokeDasharray="2,3" />
     </svg>
   );
 }
