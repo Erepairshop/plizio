@@ -325,6 +325,208 @@ export function generateLeverTyping(lang: string = "en", seed: number = 0): Curr
   ];
 }
 
+// ─── 2. PULLEY ────────────────────────────────────────────────────────────
+
+const PULLEY_DATA = {
+  types: [
+    { en: "fixed pulley", de: "feste Rolle", hu: "rögzített csiga", ro: "scripete fix" },
+    { en: "movable pulley", de: "lose Rolle", hu: "mozgatható csiga", ro: "scripete mobil" },
+    { en: "pulley system", de: "Rollensystem", hu: "csigaközpontok", ro: "sistem de scripeți" },
+  ],
+
+  examples: [
+    { en: "a flagpole", de: "eine Fahnenstange", hu: "lobogó tartó", ro: "un stâlp de steag" },
+    { en: "a well bucket system", de: "ein Brunnensystem", hu: "kút vödrös rendszer", ro: "un sistem de găleți de puț" },
+    { en: "an elevator", de: "ein Aufzug", hu: "lift", ro: "un lift" },
+    { en: "a crane", de: "ein Kran", hu: "darú", ro: "o macara" },
+    { en: "a block and tackle", de: "ein Flaschenzug", hu: "dárokszíj", ro: "un scripete compus" },
+    { en: "venetian blinds", de: "Jalousien", hu: "veneziai redőnyök", ro: "jaluzele" },
+  ],
+
+  properties: [
+    { en: "changes direction of force", de: "ändert die Richtung der Kraft", hu: "megváltoztatja az erő irányát", ro: "schimbă direcția forței" },
+    { en: "provides mechanical advantage", de: "bietet mechanischen Vorteil", hu: "mechanikai előnyt biztosít", ro: "oferă avantaj mecanic" },
+    { en: "reduces effort needed", de: "reduziert erforderliche Kraft", hu: "csökkenti szükséges erőt", ro: "reduce efortul necesar" },
+  ],
+};
+
+export function generatePulleyMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is a pulley?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4("Was ist eine Rolle (Flaschenzug)?", "What is a pulley?", "Mi az egy csiga?", "Ce este un scripete?", lang),
+      q4("Ein Rad mit einer Rille, um eine Schnur oder ein Seil zu leiten", "A wheel with a grooved rim used to support movement of a rope or cable", "Egy kerekű eszköz egy hornyolt peremmel, egy kötél vagy kábel mozgatásának támogatásához", "O roată cu o canelură folosită pentru a sprijini mișcarea unei frânghii sau a unui cablu", lang),
+      [
+        q4("Ein Werkzeug zum Schneiden", "A tool for cutting", "Vágó eszköz", "Un instrument de tăiere", lang),
+        q4("Ein einfaches Rad", "A simple wheel", "Egyszerű kerék", "O roată simplă", lang),
+        q4("Ein Seil zum Ziehen", "A rope for pulling", "Kötél húzáshoz", "O frânghie pentru tragere", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of a pulley?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(PULLEY_DATA.examples, rng);
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4(`Welches ist ein Beispiel einer Rolle?`, `Which is an example of a pulley?`, `Melyik egy csiga példája?`, `Care este un exemplu de scripete?`, lang),
+      example[lang as "en"],
+      PULLEY_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What does a fixed pulley do?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4("Was macht eine feste Rolle?", "What does a fixed pulley do?", "Mit csinál egy rögzített csiga?", "Ce face un scripete fix?", lang),
+      q4("Sie ändert die Richtung der Kraft", "It changes the direction of force", "Megváltoztatja az erő irányát", "Schimbă direcția forței", lang),
+      [
+        q4("Sie verringert die Kraft", "It reduces the force needed", "Csökkenti az erőt", "Reduce forța necesară", lang),
+        q4("Sie vermehrt die Kraft", "It multiplies the force", "Megsokszorozza az erőt", "Înmulțește forța", lang),
+        q4("Sie speichert die Energie", "It stores energy", "Tárola az energiát", "Stochează energia", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "What is a movable pulley?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4("Was ist eine lose (bewegliche) Rolle?", "What is a movable pulley?", "Mi az egy mozgatható csiga?", "Ce este un scripete mobil?", lang),
+      q4("Eine Rolle, die sich mit der Last bewegt und mechanischen Vorteil bietet", "A pulley that moves with the load and provides mechanical advantage", "Egy csiga, amely a teherrel mozog és mechanikai előnyt biztosít", "Un scripete care se mișcă cu sarcina și oferă avantaj mecanic", lang),
+      [
+        q4("Eine Rolle, die an einem festen Punkt angebracht ist", "A pulley attached to a fixed point", "Egy rögzített ponthoz rögzített csiga", "Un scripete atașat la un punct fix", lang),
+        q4("Eine Rolle, die sehr schnell dreht", "A pulley that rotates very fast", "Nagyon gyors forgó csiga", "Un scripete care se rotește foarte repede", lang),
+        q4("Eine Rolle ohne Seil", "A pulley without rope", "Csiga kötél nélkül", "Un scripete fără frânghie", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What is the mechanical advantage of a movable pulley?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4("Was ist der mechanische Vorteil einer beweglichen Rolle?", "What is the mechanical advantage of a movable pulley?", "Mi az egy mozgatható csiga mechanikai előnye?", "Care este avantajul mecanic al unui scripete mobil?", lang),
+      q4("2 (die Last wird in zwei Teile geteilt)", "2 (the load is split into two parts)", "2 (a teher két részre van osztva)", "2 (sarcina este împărțită în două)", lang),
+      [
+        q4("1 (kein Vorteil)", "1 (no advantage)", "1 (nincs előny)", "1 (fără avantaj)", lang),
+        q4("4 (vier Teile)", "4 (four parts)", "4 (négy rész)", "4 (patru)", lang),
+        q4("Abhängig von der Größe der Rolle", "Depends on the size of the pulley", "A csiga méretétől függ", "Depinde de dimensiunea scripetei", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "How many ropes support the load in a [system]?"
+  for (let i = 0; i < 4; i++) {
+    const systems = [
+      { name: q4("einfaches Flaschenzug", "simple pulley system", "egyszerű csiga rendszer", "sistem simplu de scripete", lang), ropes: 2 },
+      { name: q4("doppeltes Flaschenzug", "double pulley system", "dupla csiga rendszer", "sistem dublu de scripete", lang), ropes: 4 },
+      { name: q4("dreifaches Flaschenzug", "triple pulley system", "hármas csiga rendszer", "sistem triplu de scripete", lang), ropes: 6 },
+    ];
+    const system = pick(systems, rng);
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4(`Wie viele Seile tragen die Last in einem ${system.name}?`, `How many ropes support the load in a ${system.name}?`, `Hány kötél támogatja a terhet egy ${system.name}-ben?`, `Câte frânghii susțin sarcina într-un ${system.name}?`, lang),
+      system.ropes.toString(),
+      systems
+        .filter(s => s.ropes !== system.ropes)
+        .map(s => s.ropes.toString()),
+      rng
+    ));
+  }
+
+  // Template 7: "The more pulleys in a system..."
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "pulley",
+      q4("Je mehr Rollen in einem System, desto...", "The more pulleys in a system, the...", "Minél több csiga van a rendszerben, annál...", "Cu cât mai mult scripeți sunt în sistem, cu atât mai...", lang),
+      q4("geringer ist die erforderliche Kraft", "less force is required", "kisebb az szükséges erő", "mai puțin efort este necesar", lang),
+      [
+        q4("höher ist die Kraft", "greater the force needed", "nagyobb az szükséges erő", "mai mult efort este necesar", lang),
+        q4("schneller dreht sich die Rolle", "faster the pulley rotates", "gyorsabb a csiga forgása", "mai rapid se rotește scripetele", lang),
+        q4("weniger Gewicht hat die Last", "lighter the load becomes", "kevesebb a terhelés súlya", "mai ușoară devine sarcina", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generatePulleyTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("machines", "pulley",
+      q4("Was ist eine Rolle und wofür wird sie verwendet?", "What is a pulley and what is it used for?", "Mi az egy csiga és mire használják?", "Ce este un scripete și pentru ce este folosit?", lang),
+      ["wheel", "Rad", "kerék", "roată", "groove", "Rille", "horony", "canelură", "rope", "Seil", "kötél", "frânghie", "cable", "Kabel", "kábel", "cablu"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Gib zwei Beispiele für Pulleys im Alltag.", "Give two examples of pulleys in everyday life.", "Add meg két csigapéldát a mindennapi életből.", "Dă două exemple de scripeți în viața de zi cu zi.", lang),
+      ["flagpole", "Fahnenstange", "lobogó", "steag", "elevator", "Aufzug", "lift", "lift", "crane", "Kran", "darú", "macara", "blind", "Jalousie", "redőny", "jaluzea", "well", "Brunnen", "kút", "puț"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Was ist der Unterschied zwischen einer festen und einer beweglichen Rolle?", "What is the difference between a fixed and movable pulley?", "Mi a különbség a rögzített és a mozgatható csiga között?", "Care este diferența dintre un scripete fix și unul mobil?", lang),
+      ["fixed", "fest", "rögzített", "fix", "movable", "beweglich", "mozgatható", "mobil", "direction", "Richtung", "irány", "direcție", "advantage", "Vorteil", "előny", "avantaj"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Was bedeutet mechanischer Vorteil bei einer Rolle?", "What is mechanical advantage in a pulley system?", "Mit jelent a mechanikai előny egy csiga rendszerben?", "Ce înseamnă avantajul mecanic într-un sistem de scripete?", lang),
+      ["less force", "weniger Kraft", "kevesebb erő", "mai puțin efort", "easier", "einfacher", "könnyebb", "mai ușor", "multiply", "vervielfachen", "megsokszorozni", "înmulți"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Eine feste Rolle ändert die... einer Kraft.", "A fixed pulley changes the... of a force.", "Egy rögzített csiga megváltoztatja az erő...ét.", "Un scripete fix schimbă... unei forțe.", lang),
+      ["direction", "Richtung", "irány", "direcție"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Eine bewegliche Rolle bietet einen mechanischen...", "A movable pulley provides a mechanical...", "Egy mozgatható csiga mechanikai...t biztosít.", "Un scripete mobil oferă un... mecanic.", lang),
+      ["advantage", "Vorteil", "előny", "avantaj"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Wie viele Seile unterstützen die Last in einem einfachen Flaschenzug?", "How many ropes support the load in a simple pulley system?", "Hány kötél támogatja a terhet egy egyszerű csiga rendszerben?", "Câte frânghii susțin sarcina într-un sistem simplu de scripete?", lang),
+      ["two", "zwei", "kettő", "doi", "2"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Erkläre, wie ein Flaschenzug einem beim Heben hilft.", "Explain how a pulley system helps with lifting.", "Magyarázd meg, hogyan segít egy csiga rendszer az emelésben.", "Explică cum ajută un sistem de scripete la ridicare.", lang),
+      ["mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "less force", "weniger Kraft", "kevesebb erő", "mai puțin efort", "distribute", "verteilen", "elosztani", "distribui"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("Was passiert mit der Entfernung, die das Seil bewegt, bei mehr Rollen?", "What happens to the distance the rope moves with more pulleys?", "Mi történik az erőkifejtés távolságával több csiga esetén?", "Ce se întâmplă cu distanța de mișcare a frânghiei cu mai mult scripeți?", lang),
+      ["increases", "erhöht", "növekszik", "crește", "longer", "länger", "hosszabb", "mai lung", "more distance", "mehr Entfernung", "több távolság", "mai multă distanță"]
+    ),
+
+    createTyping("machines", "pulley",
+      q4("In einer Maschine ist eine Rolle ein Beispiel für...", "In a machine, a pulley is an example of...", "Egy gépen a csiga egy példa a(z)...-re.", "Într-o mașină, un scripete este un exemplu de...", lang),
+      ["simple machine", "einfache Maschine", "egyszerű gép", "mașină simplă", "tool", "Werkzeug", "szerszám", "instrument"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const MACHINES_GENERATORS = {
@@ -334,6 +536,13 @@ export const MACHINES_GENERATORS = {
   ],
   lever_mcq: (lang: string = "en", seed: number = 0) => generateLeverMCQ(lang, seed),
   lever_typing: (lang: string = "en", seed: number = 0) => generateLeverTyping(lang, seed),
+
+  pulley: (lang: string = "en", seed: number = 0) => [
+    ...generatePulleyMCQ(lang, seed),
+    ...generatePulleyTyping(lang, seed)
+  ],
+  pulley_mcq: (lang: string = "en", seed: number = 0) => generatePulleyMCQ(lang, seed),
+  pulley_typing: (lang: string = "en", seed: number = 0) => generatePulleyTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
