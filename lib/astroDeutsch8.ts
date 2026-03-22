@@ -76,7 +76,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["stilmittel_k8/stilmittel_erkennung_k8", "stilmittel_k8/stilwirkung_k8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "style-device-explorer",  icon: "🎭", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",         en: "Speed Round",         hu: "Gyors kör",          ro: "Rundă rapidă"       } },
     ],
     svgX: 90, svgY: 270,
@@ -88,7 +88,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["textsorten_k8/eroerterung", "textsorten_k8/bericht_erzaehlung"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-analysis-explorer",  icon: "📝", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",    en: "Black Hole",          hu: "Fekete lyuk",        ro: "Gaură neagră"       } },
     ],
     svgX: 220, svgY: 195,
@@ -100,7 +100,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["literatur_k8/erzaehlperspektiven", "literatur_k8/epochen"],
     missions: [
       { id: "m1", category: "explore",   gameType: "style-device-explorer",  icon: "📚", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "black-hole",  icon: "🕳️", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",      en: "Worksheet",           hu: "Feladatlap",         ro: "Fișă de lucru"      } },
     ],
     svgX: 100, svgY: 125,

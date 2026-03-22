@@ -204,11 +204,28 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Find adjectives ─────────────────────────────────────────────────
-function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const adjCount = MIXED_WORDS_POOL.filter(w => w.isAdj).length;
   const tappedAdjCount = [...tapped].filter(i => MIXED_WORDS_POOL[i].isAdj).length;
   const allAdjTapped = tappedAdjCount === adjCount;
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
@@ -242,13 +259,30 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Opposites pairs ─────────────────────────────────────────────────
-function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void }) {
+function Round2({ color, lbl, wrongCountRef, onNext, showTeach, onTeachDone }: { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [pairs] = useState(() => shuffle(OPPOSITE_PAIRS_POOL).slice(0, 4));
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const [feedback, setFeedback] = useState<"correct" | null>(null);
   const pair = pairs[idx];
   const bothTapped = tapped.has(0) && tapped.has(1);
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   const handleTap = (i: number) => {
     if (feedback) return;
@@ -317,9 +351,26 @@ function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
 }
 
 // ─── Round 3: Personal pronouns display ──────────────────────────────────────
-function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ lang, color, lbl, onNext, showTeach, onTeachDone }: { lang: string; color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; onTeachDone: () => void }) {
   const [tapped, setTapped] = useState<Set<number>>(new Set());
   const allTapped = tapped.size === PRONOUNS.length;
+
+  if (showTeach) {
+    return (
+      <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+        className="flex flex-col items-center gap-4 w-full">
+        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
+        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
+        </div>
+        <motion.button onClick={onTeachDone}
+          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+          whileTap={{ scale: 0.97 }}>
+          {lbl.gotIt} <ChevronRight size={16} />
+        </motion.button>
+      </motion.div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center gap-4 w-full">
