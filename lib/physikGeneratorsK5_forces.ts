@@ -644,10 +644,5 @@ export const FORCES_GENERATORS = {
 
 // ─── INTEGRATION WITH physikCurriculum5.ts ────────────────────────────────
 
-export function registerForcesGenerators() {
-  const { K5_GENERATOR_MAP, setK5GeneratorMap } = require("./physikCurriculum5");
-  setK5GeneratorMap({
-    ...K5_GENERATOR_MAP,
-    forces: FORCES_GENERATORS
-  });
-}
+// Registration is done by importing setK5GeneratorMap from physikCurriculum5
+// and calling it externally (e.g. in the test page or astro page)

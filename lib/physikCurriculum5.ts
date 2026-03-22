@@ -107,10 +107,8 @@ export const K5_CURRICULUM = K5;
 
 // ─── GENERATOR MAP & GET QUESTIONS ────────────────────────────────────────
 
-export type PhysikGeneratorMap = Record<
-  string,
-  Record<string, (seed?: number) => PhysikQuestion[]>
->;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export type PhysikGeneratorMap = Record<string, Record<string, (...args: any[]) => PhysikQuestion[]>>;
 
 export let K5_GENERATOR_MAP: PhysikGeneratorMap = {};
 
