@@ -877,6 +877,202 @@ export function generateHydraulicsTyping(lang: string = "en", seed: number = 0):
   ];
 }
 
+// ─── 5. BUOYANCY ──────────────────────────────────────────────────────────
+
+const BUOYANCY_DATA = {
+  examples: [
+    { en: "a ship floating on water", de: "ein Schiff, das auf dem Wasser schwimmt", hu: "hajo az vizen", ro: "o navă plutind pe apă" },
+    { en: "a submarine diving", de: "ein U-Boot taucht ab", hu: "tengeralattjáró merülés", ro: "o submarin care se scufundă" },
+    { en: "a hot air balloon rising", de: "ein Heißluftballon steigt auf", hu: "hőlégballon emelkedik", ro: "un balon cu aer cald care se ridică" },
+    { en: "a fish swimming", de: "ein Fisch schwimmt", hu: "hal úszása", ro: "un pește care înoată" },
+    { en: "a cork floating on water", de: "ein Korken schwimmt auf dem Wasser", hu: "parafa úszása a vizen", ro: "o dop plutind pe apă" },
+    { en: "a rock sinking in water", de: "ein Stein sinkt im Wasser", hu: "kő süllyed a vízben", ro: "o piatră scufundîndu-se în apă" },
+    { en: "ice floating on water", de: "Eis schwimmt auf dem Wasser", hu: "jég az vizen", ro: "gheață plutind pe apă" },
+    { en: "a swimming pool float", de: "eine Schwimmbadflotte", hu: "uszodai úszógumi", ro: "o saltea de piscină" },
+  ],
+
+  densities: [
+    { en: "water (fresh): 1000 kg/m³", de: "Wasser (frisch): 1000 kg/m³", hu: "víz (édes): 1000 kg/m³", ro: "apă (dulce): 1000 kg/m³" },
+    { en: "water (salt): ~1025 kg/m³", de: "Wasser (Salz): ~1025 kg/m³", hu: "víz (só): ~1025 kg/m³", ro: "apă (sare): ~1025 kg/m³" },
+    { en: "air: 1.2 kg/m³", de: "Luft: 1,2 kg/m³", hu: "levegő: 1,2 kg/m³", ro: "aer: 1,2 kg/m³" },
+  ],
+
+  principles: [
+    { en: "Archimedes' Principle", de: "Archimedisches Prinzip", hu: "Arkhimédész törvénye", ro: "Principiul lui Arhimede" },
+    { en: "buoyant force equals weight of displaced fluid", de: "Auftriebskraft entspricht Gewicht der verdängten Flüssigkeit", hu: "felhajtóerő egyenlő a kiszorított folyadék súlyával", ro: "forța de plutire este egală cu greutatea fluidului displasat" },
+  ],
+};
+
+export function generateBuoyancyMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is buoyancy?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Was ist Auftrieb (Buoyancy)?", "What is buoyancy?", "Mit a felhajtóerő?", "Ce este plutirea?", lang),
+      q4("Die aufwärts gerichtete Kraft, die ein Objekt in einer Flüssigkeit erfährt", "The upward force an object experiences in a fluid", "Az felfelé irányított erő, amelyet egy objektum egy folyadékban megtapasztal", "Forța ascendentă pe care o experimentează un obiect într-un fluid", lang),
+      [
+        q4("Die abwärts gerichtete Kraft durch die Schwerkraft", "The downward force of gravity", "A lefelé irányított erő a gravitáció által", "Forța descendentă a gravitației", lang),
+        q4("Die Reibung zwischen Objekt und Flüssigkeit", "The friction between object and liquid", "A súrlódás az objektum és folyadék között", "Fricțiunea dintre obiect și lichid", lang),
+        q4("Die Geschwindigkeit eines sinkenden Objekts", "The speed of a sinking object", "Egy süllyedő objektum sebessége", "Viteza unui obiect care se scufundă", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of buoyancy?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(BUOYANCY_DATA.examples, rng);
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4(`Welches ist ein Beispiel für Auftrieb?`, `Which is an example of buoyancy?`, `Melyik egy felhajtóerő példája?`, `Care este un exemplu de plutire?`, lang),
+      example[lang as "en"],
+      BUOYANCY_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is Archimedes' Principle?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Was ist das archimedische Prinzip?", "What is Archimedes' Principle?", "Mit az Arkhimédész törvénye?", "Ce este Principiul lui Arhimede?", lang),
+      q4("Der Auftrieb entspricht dem Gewicht der verdängten Flüssigkeit", "The buoyant force equals the weight of the displaced fluid", "A felhajtóerő egyenlő a kiszorított folyadék súlyával", "Forța de plutire este egală cu greutatea fluidului displasat", lang),
+      [
+        q4("Der Auftrieb ist halb des Gewichts der Flüssigkeit", "Buoyancy is half the weight of the fluid", "A felhajtóerő a folyadék súlyának fele", "Plutirea este jumătate din greutatea lichidului", lang),
+        q4("Der Auftrieb ist doppelt des Gewichts der Flüssigkeit", "Buoyancy is twice the weight of the fluid", "A felhajtóerő a folyadék súlyának kétszerese", "Plutirea este de două ori greutatea fluidului", lang),
+        q4("Der Auftrieb ist unabhängig von der Flüssigkeit", "Buoyancy is independent of the fluid", "A felhajtóerő független a folyadéktól", "Plutirea este independentă de fluid", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "When does an object float?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Wann schwebt/schwimmt ein Objekt?", "When does an object float?", "Mikor lebeg/úszik egy objektum?", "Când plutește un obiect?", lang),
+      q4("Wenn die Auftriebskraft größer oder gleich dem Gewicht des Objekts ist", "When the buoyant force is greater than or equal to the object's weight", "Ha a felhajtóerő nagyobb vagy egyenlő az objektum súlyával", "Când forța de plutire este mai mare sau egală cu greutatea obiectului", lang),
+      [
+        q4("Wenn die Auftriebskraft kleiner als das Gewicht ist", "When buoyancy is less than weight", "Ha a felhajtóerő kisebb, mint az objektum súlya", "Când plutirea este mai mică decât greutatea", lang),
+        q4("Wenn das Objekt aus Metall ist", "When the object is made of metal", "Ha az objektum fém", "Când obiectul este din metal", lang),
+        q4("Wenn die Flüssigkeit kalt ist", "When the liquid is cold", "Ha a folyadék hideg", "Când lichidul este rece", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What role does density play?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Welche Rolle spielt die Dichte beim Auftrieb?", "What role does density play in buoyancy?", "Milyen szerepet játszik a sűrűség a felhajtóerőben?", "Ce rol joacă densitatea în plutire?", lang),
+      q4("Wenn die Objektdichte kleiner ist als die Flüssigkeitsdichte, schwimmt das Objekt", "If object density is less than fluid density, the object floats", "Ha az objektum sűrűsége kisebb, mint a folyadék sűrűsége, az objektum úszik", "Dacă densitatea obiectului este mai mică decât densitatea fluidului, obiectul plutește", lang),
+      [
+        q4("Die Dichte hat keinen Einfluss", "Density has no effect", "A sűrűségnek nincs hatása", "Densitatea nu are efect", lang),
+        q4("Wenn die Objektdichte größer ist, schwimmt das Objekt", "If density is greater, the object floats", "Ha a sűrűség nagyobb, az objektum úszik", "Dacă densitatea este mai mare, plutește", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "Why can ships float if they're made of steel?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Warum können Schiffe schwimmen, wenn sie aus Stahl sind?", "Why can ships float if they're made of steel?", "Miért úszhatnak hajók, ha acélból vannak?", "De ce pot navele să plutească dacă sunt din oțel?", lang),
+      q4("Weil die Gesamtdichte des Schiffs (mit Luft innen) kleiner ist als Wasser", "Because the average density of the ship (with air inside) is less than water", "Mert a hajó átlagos sűrűsége (levegővel belül) kisebb, mint a víz", "Pentru că densitatea medie a navei (cu aer înăuntru) este mai mică decât apa", lang),
+      [
+        q4("Weil Stahl leichter ist als Wasser", "Because steel is lighter than water", "Mert az acél könnyebb, mint a víz", "Pentru că oțelul este mai ușor decât apa", lang),
+        q4("Weil die Oberfläche hydrophob ist", "Because the surface is hydrophobic", "Mert a felület hidrofób", "Pentru că suprafața este hidrofobă", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "What happens when you increase the weight of a boat?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "buoyancy",
+      q4("Was passiert, wenn du das Gewicht eines Bootes erhöhst?", "What happens when you increase the weight of a boat?", "Mit történik, ha megnövelted egy hajó súlyát?", "Ce se întâmplă când mărești greutatea unei bărci?", lang),
+      q4("Das Boot sinkt tiefer in das Wasser", "The boat sinks deeper into the water", "A hajó mélyebbre süllyed a vízbe", "Barca se scufundă mai adânc în apă", lang),
+      [
+        q4("Das Boot steigt aus dem Wasser", "The boat rises out of the water", "A hajó felfelé jön ki a vízből", "Barca se ridică din apă", lang),
+        q4("Das Boot bleibt gleich", "The boat stays the same", "A hajó ugyanaz marad", "Barca rămâne aceeași", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateBuoyancyTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("pressure", "buoyancy",
+      q4("Definiere Auftrieb und das archimedische Prinzip.", "Define buoyancy and Archimedes' Principle.", "Határozd meg a felhajtóerőt és az Arkhimédész törvényét.", "Definește plutirea și Principiul lui Arhimede.", lang),
+      ["upward force", "aufwärts Kraft", "felfelé erő", "forță ascendentă", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid displasat", "weight equal", "Gewicht gleich", "súly egyenlő", "greutate egală"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Gib drei Beispiele für Auftrieb im Alltag.", "Give three examples of buoyancy in everyday life.", "Add meg három felhajtóerő példát a mindennapi életből.", "Dă trei exemple de plutire în viața de zi cu zi.", lang),
+      ["ship", "Schiff", "hajó", "navă", "submarine", "U-Boot", "tengeralattjáró", "submarin", "balloon", "Ballon", "léggömb", "balon", "fish", "Fisch", "hal", "pește", "cork", "Korken", "parafa", "dop"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Was ist das archimedische Prinzip genau?", "What exactly is Archimedes' Principle?", "Mit pontosan az Arkhimédész törvénye?", "Ce exact este Principiul lui Arhimede?", lang),
+      ["buoyant force", "Auftriebskraft", "felhajtóerő", "forță plutire", "equals weight", "entspricht Gewicht", "megfelel súlynak", "egal greutate", "displaced fluid", "verdrängte Flüssigkeit", "kiszorított folyadék", "fluid displasat"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Wann sinkt ein Objekt und wann schwimmt es?", "When does an object sink and when does it float?", "Mikor süllyed egy objektum és mikor úszik?", "Când se scufundă un obiect și când plutește?", lang),
+      ["float when less dense", "schwimmt wenn weniger dicht", "úszik, ha kevésbé sűrű", "plutește dacă mai puțin dens", "sinks when more dense", "sinkt wenn dichter", "süllyed ha sűrűbb", "se scufundă dacă mai dens", "density", "Dichte", "sűrűség", "densitate"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Was ist die Dichte von Wasser in kg/m³?", "What is the density of water in kg/m³?", "Mi a víz sűrűsége kg/m³-ben?", "Care este densitatea apei în kg/m³?", lang),
+      ["1000", "1000 kg/m³", "fresh water", "édes víz", "apă dulce"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Warum können Schiffe aus Stahl schwimmen?", "Why can steel ships float?", "Miért úszhatnak acél hajók?", "De ce pot navele din oțel să plutească?", lang),
+      ["average density", "Durchschnittsdichte", "átlagos sűrűség", "densitate medie", "less than water", "weniger als Wasser", "kevesebb, mint víz", "mai puțin decât apă", "air inside", "Luft innen", "levegő belül", "aer înăuntru"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Erkläre, warum Eisberge teilweise aus dem Wasser schauen.", "Explain why icebergs stick out of the water.", "Magyarázd meg, miért lóg ki a jég a vízből.", "Explică de ce aisbergurile ies din apă.", lang),
+      ["ice less dense", "Eis weniger dicht", "jég kevésbé sűrű", "gheață mai puțin densă", "floats higher", "schwimmt höher", "magasabban úszik", "plutește mai sus", "some above", "etwas über", "valami fölött", "ceva deasupra"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Was ist der Unterschied zwischen Schwimmen und Schweben?", "What is the difference between floating and hovering?", "Mi a különbség az úszás és a lebegés között?", "Care este diferența dintre plutire și plutire neutră?", lang),
+      ["floating at surface", "schwimmt an Oberfläche", "úszik a felszínen", "plutește la suprafață", "hovering neutral", "schwebt neutral", "lebeg neutrális", "plutire neutră", "buoyancy equal weight", "Auftrieb gleich Gewicht", "felhajtóerő egyenlő súlynak", "forță plutire egală greutate"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Wie kontrolliert ein U-Boot seinen Auftrieb?", "How does a submarine control its buoyancy?", "Hogyan irányít a tengeralattjáró a felhajtóerőjét?", "Cum controlează o submarin plutirea sa?", lang),
+      ["ballast tanks", "Ballasttanks", "súlytartályok", "tancuri balast", "fill with water", "mit Wasser füllen", "vízzel kitöltni", "umple cu apă", "empty air", "leeren Luft", "kiüríteni levegővel", "goli aer"]
+    ),
+
+    createTyping("pressure", "buoyancy",
+      q4("Beschreibe, wie ein Heißluftballon aufsteigt.", "Describe how a hot air balloon rises.", "Írj le, hogyan emelkedik a hőlégballon.", "Descrie cum se ridică un balon cu aer cald.", lang),
+      ["hot air less dense", "warme Luft weniger dicht", "meleg levegő kevésbé sűrű", "aer cald mai puțin dens", "buoyancy greater", "Auftrieb größer", "felhajtóerő nagyobb", "forță plutire mai mare", "rises", "steigt auf", "emelkedik", "se ridică"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -895,6 +1091,10 @@ export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: numbe
   hydraulics: (lang = "en", seed = 0) => [...generateHydraulicsMCQ(lang, seed), ...generateHydraulicsTyping(lang, seed)],
   hydraulics_mcq: (lang = "en", seed = 0) => generateHydraulicsMCQ(lang, seed),
   hydraulics_typing: (lang = "en", seed = 0) => generateHydraulicsTyping(lang, seed),
+
+  buoyancy: (lang = "en", seed = 0) => [...generateBuoyancyMCQ(lang, seed), ...generateBuoyancyTyping(lang, seed)],
+  buoyancy_mcq: (lang = "en", seed = 0) => generateBuoyancyMCQ(lang, seed),
+  buoyancy_typing: (lang = "en", seed = 0) => generateBuoyancyTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
