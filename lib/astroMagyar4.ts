@@ -53,7 +53,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 160, svgY: 530,
+    svgX: 160, svgY: 560,
   },
   {
     id: "i2",
@@ -65,7 +65,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "sentence-builder", icon: "📝", label: { hu: "Mondatépítő", en: "Build",  de: "Satzbau",     ro: "Construcție" } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 80, svgY: 440,
+    svgX: 80, svgY: 470,
   },
   {
     id: "i3",
@@ -77,7 +77,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { hu: "Rendezés", en: "Sort",       de: "Sortierung", ro: "Sortare"   } },
       { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 240, svgY: 360,
+    svgX: 230, svgY: 380,
   },
   {
     id: "i4",
@@ -89,7 +89,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "sentence-builder", icon: "📝", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 90, svgY: 270,
+    svgX: 90, svgY: 290,
   },
   {
     id: "i5",
@@ -101,7 +101,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 220, svgY: 195,
+    svgX: 220, svgY: 200,
   },
   {
     id: "i6",
@@ -113,7 +113,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "category-rush", icon: "🏃", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 100, svgY: 125,
+    svgX: 100, svgY: 110,
   },
   {
     id: "i7",
@@ -125,7 +125,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "category-rush", icon: "🏃", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 200, svgY: 80,
+    svgX: 210, svgY: 20,
   },
   {
     id: "i8",
@@ -137,7 +137,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 150, svgY: 20,
+    svgX: 100, svgY: -60,
   },
   {
     id: "i9",
@@ -149,7 +149,7 @@ export const O4_ISLANDS: IslandDef[] = [
       { id: "m2", category: "build",     gameType: "sentence-builder", icon: "📝", label: { hu: "Rendezés", en: "Practice",   de: "Üben",        ro: "Exersează"   } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { hu: "Rendezés",   en: "Challenge",  de: "Herausforderung", ro: "Provocare"   } },
     ],
-    svgX: 120, svgY: 120,
+    svgX: 200, svgY: -140,
   },
 ];
 
