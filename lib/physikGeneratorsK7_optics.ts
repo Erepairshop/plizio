@@ -550,6 +550,64 @@ function generateReflectionTyping(lang = "en", seed = 0): CurriculumTyping[] {
   return questions;
 }
 
+// ─── REFRACTION ───────────────────────────────────────────────────────────
+
+function generateRefractionMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumMCQ[] = [];
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ("optics", "refraction", q4("Brechung tritt auf wenn Medium wechselt?", "Refraction when light changes medium?", "Fénytörés közegetváltáskor?", "Refracția când lumina schimbă mediul?", lang), q4("Ja, weil Lichtgeschwindigkeit sich ändert", "Yes, light speed changes", "Igen, fénysebessség megváltozik", "Da, viteza luminii se schimbă", lang), [q4("Nein", "No", "Nem", "Nu", lang)], rng));
+  }
+  for (let i = 0; i < 7; i++) {
+    questions.push(createMCQ("optics", "refraction", q4("Snells Gesetz: n₁sin(θ₁) = n₂sin(θ₂)?", "Snell's law: n₁sin(θ₁) = n₂sin(θ₂)?", "Snell törvénye: n₁sin(θ₁) = n₂sin(θ₂)?", "Legea lui Snell: n₁sin(θ₁) = n₂sin(θ₂)?", lang), q4("Ja, beschreibt Brechung", "Yes, describes refraction", "Igen, a fénytörést írja le", "Da, descrie refracția", lang), [q4("Nein", "No", "Nem", "Nu", lang)], rng));
+  }
+  for (let i = 0; i < 6; i++) {
+    const medium = pick([
+      { n: "1,00" }, { n: "1,33" }, { n: "1,5" }, { n: "2,4" }
+    ], rng);
+    questions.push(createMCQ("optics", "refraction", q4(`Brechungsindex?`, `Refractive index?`, `Törésindex?`, `Indice refracție?`, lang), q4(medium.n, medium.n, medium.n, medium.n, lang), [q4("0,5", "0.5", "0,5", "0,5", lang)], rng));
+  }
+  for (let i = 0; i < 7; i++) {
+    questions.push(createMCQ("optics", "refraction", q4("Totale innere Reflexion wenn?", "Total internal reflection when?", "Teljes visszaverődés amikor?", "Reflexie internă totală când?", lang), q4("Kritischer Winkel überschritten", "Critical angle exceeded", "Kritikus szög túllépve", "Unghi critic depășit", lang), [q4("Immer", "Always", "Mindig", "Întotdeauna", lang)], rng));
+  }
+  for (let i = 0; i < 8; i++) {
+    questions.push(createMCQ("optics", "refraction", q4("Kritischer Winkel Definition?", "Critical angle definition?", "Kritikus szög meghatározása?", "Unghi critic definiție?", lang), q4("Winkel wo Licht 90° bricht", "Angle where light bends 90°", "Szög ahol fény 90°-ban hajlik", "Unghi unde lumina 90°", lang), [q4("Andere", "Other", "Más", "Altul", lang)], rng));
+  }
+  return questions;
+}
+
+function generateRefractionTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const questions: CurriculumTyping[] = [];
+  questions.push(createTyping("optics", "refraction", q4("Brechung Definition?", "Refraction definition?", "Fénytörés meghatározása?", "Refracție definiție?", lang), [
+    q4("Richtungswechsel Lichtstrahls beim Medienwechsel, Ursache: Lichtgeschwindigkeit ändert sich", "Light ray bends when changing medium, cause: light speed changes", "Fénysugár irányadása közegetváltáskor, ok: fénysebessség megváltozik", "Rază de lumină se îndoaie la schimbarea mediului, cauză: viteza luminii se schimbă", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Snells Gesetz Formel?", "Snell's law formula?", "Snell törvénye képlet?", "Legea lui Snell formulă?", lang), [
+    q4("n₁sin(θ₁) = n₂sin(θ₂) ahol n=brechungsindex, θ=winkel von normalen", "n₁sin(θ₁) = n₂sin(θ₂) where n=refractive index, θ=angle from normal", "n₁sin(θ₁) = n₂sin(θ₂) ahol n=törésindex, θ=szög a normálistól", "n₁sin(θ₁) = n₂sin(θ₂) unde n=indice refracție, θ=unghi de la normal", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Brechungsindex Beispiele?", "Refractive index examples?", "Törésindex példák?", "Indice refracție exemple?", lang), [
+    q4("Luft≈1,00, Wasser≈1,33, Glas≈1,5, Diamant≈2,4", "Air≈1.00, Water≈1.33, Glass≈1.5, Diamond≈2.4", "Levegő≈1,00, Víz≈1,33, Üveg≈1,5, Gyémánt≈2,4", "Aer≈1.00, Apă≈1.33, Sticlă≈1.5, Diamant≈2.4", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Totale innere Reflexion Bedingung?", "Total internal reflection condition?", "Teljes visszaverődés feltétele?", "Reflexie internă totală condiție?", lang), [
+    q4("Optisch dichter zu optisch weniger dicht UND Einfallswinkel > kritischer Winkel", "Denser to less dense medium AND angle > critical angle", "Sűrűbb → kevésbé sűrű közeg ÉS szög > kritikus szög", "Mediu mai dens → mai puțin dens ȘI unghi > unghi critic", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Kritischer Winkel Formel?", "Critical angle formula?", "Kritikus szög képlet?", "Unghi critic formulă?", lang), [
+    q4("θc = arcsin(n₂/n₁) gdzie n₂ < n₁ (optisch weniger dicht/denser)", "θc = arcsin(n₂/n₁) where n₂ < n₁", "θc = arcsin(n₂/n₁) ahol n₂ < n₁", "θc = arcsin(n₂/n₁) unde n₂ < n₁", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Mirage Erklärung?", "Mirage explanation?", "Mirage magyarázata?", "Mirage explicație?", lang), [
+    q4("Optische Täuschung durch Brechung in warmen Luftschichten; heisse Luft (niedrigerer n) unter kalter Luft → Totalreflexion → inverse Bilder", "Optical illusion from refraction in hot air layers; hot air (lower n) under cool → total reflection → inverted images", "Optikai illúzió a fénytöréstől meleg légrétegekben; meleg levegő (alacsonyabb n) hideg alatt → teljes visszaverődés", "Iluzie optică din refracție în straturi de aer cald; aer cald (n mic) sub aer rece → reflexie totală", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Dispersion in Prisma?", "Dispersion in prism?", "Diszperzió prizmában?", "Dispersie în prismă?", lang), [
+    q4("Különböző színeknek más törésindexei → különböző hajlási szögek → spektrum-felhasadás", "Different colors have different refractive indices → different bending angles → spectrum split", "Különböző szín másik törésmutató → más szög → spektrum felhasadás", "Culori diferite indici refracție diferiți → unghiuri diferite → despărțire spectru", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Lensenbrechung Konvex vs. Konkav?", "Lens refraction convex vs. concave?", "Lencse konvex vs. konkáv?", "Lentilă convexă vs. concavă?", lang), [
+    q4("Konvex: kifelé domborodik, közepen vastag, fényt gyűjti (szűkítő); Konkáv: befelé hajlott, középen vékony, fényt szórja (szétszóró)", "Convex: bulges out, thick middle, converges light; Concave: curves in, thin middle, diverges light", "Konvex: kifelé, közepen vastag, fényt gyűjti; Konkáv: befelé, közepen vékony, szórja", "Convexă: bulge-ază, groasă la mijloc, converge lumina; Concavă: curbe-ază, subțire, dispersează", lang),
+  ]));
+  questions.push(createTyping("optics", "refraction", q4("Lensenhiba Kromatische Aberration?", "Lens error chromatic aberration?", "Lencsehiba kromatikus aberráció?", "Eroare lentilă aberație cromatică?", lang), [
+    q4("Različite boje fokusiraju se na različite točke (zbog disperzije); čini se: obojene fringe na slikama", "Different colors focus at different points (due to dispersion); effect: colored fringes on images", "Különböző színek a különböző pontokra fókuszálódnak (diszperzió miatt); hatás: szín szegélyek a képeken", "Culori diferite se focalizează în puncte diferite (din cauza dispersiei); efect: franje colorate pe imagini", lang),
+  ]));
+  return questions;
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K7_OPTICS_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -560,4 +618,8 @@ export const K7_OPTICS_GENERATORS: Record<string, (lang?: string, seed?: number)
   reflection: (lang = "en", seed = 0) => [...generateReflectionMCQ(lang, seed), ...generateReflectionTyping(lang, seed)],
   reflection_mcq: (lang = "en", seed = 0) => generateReflectionMCQ(lang, seed),
   reflection_typing: (lang = "en", seed = 0) => generateReflectionTyping(lang, seed),
+
+  refraction: (lang = "en", seed = 0) => [...generateRefractionMCQ(lang, seed), ...generateRefractionTyping(lang, seed)],
+  refraction_mcq: (lang = "en", seed = 0) => generateRefractionMCQ(lang, seed),
+  refraction_typing: (lang = "en", seed = 0) => generateRefractionTyping(lang, seed),
 };
