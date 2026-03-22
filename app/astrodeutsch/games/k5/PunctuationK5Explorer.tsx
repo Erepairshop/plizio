@@ -118,7 +118,7 @@ const DEF: ExplorerDef = {
         <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
           <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Aufzählung</p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 4, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div>Äpfel<span style={{ color: '#ef4444', fontWeight: 800 }},</span> Birnen<span style={{ color: '#ef4444', fontWeight: 800 }},</span></div>
+            <div>Äpfel<span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span> Birnen<span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span></div>
             <div>und Bananen</div>
             <div style={{ marginTop: 4, fontSize: 11, color: '#475569' }}>Kein Komma vor «und»!</div>
           </div>
@@ -151,7 +151,7 @@ const DEF: ExplorerDef = {
           <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Direkte Rede</p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 4, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
             <div><span style={{ color: '#3b82f6', fontWeight: 800 }}>«</span>Komm her<span style={{ color: '#ef4444', fontWeight: 800 }}>!</span><span style={{ color: '#3b82f6', fontWeight: 800 }}>»</span></div>
-            <div><span style={{ color: '#ef4444', fontWeight: 800 }},</span> sagte er<span style={{ color: '#10b981', fontWeight: 800 }}>.</span></div>
+            <div><span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span> sagte er<span style={{ color: '#10b981', fontWeight: 800 }}>.</span></div>
             <div style={{ marginTop: 4, fontSize: 10, color: '#475569' }}>Großbuchstaben & Komma</div>
           </div>
         </div>
