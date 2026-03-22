@@ -466,49 +466,108 @@ function SvgRound2(lang: string): React.ReactNode {
 }
 
 function SvgRound3(lang: string): React.ReactNode {
-  const lb = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_mouth" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF9999" />
-          <stop offset="100%" stopColor="#FF6666" />
+        <radialGradient id="bs_r3_bg" cx="50%" cy="50%" r="70%">
+          <stop offset="0%" stopColor="#1a150a" />
+          <stop offset="100%" stopColor="#0a0a14" />
+        </radialGradient>
+        <linearGradient id="bs_r3_mouth" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="100%" stopColor="#E64A19" />
         </linearGradient>
-        <linearGradient id="r3_stomach" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF7733" />
-          <stop offset="100%" stopColor="#FF5500" />
+        <linearGradient id="bs_r3_esoph" x1="50%" y1="0%" x2="50%" y2="100%">
+          <stop offset="0%" stopColor="#FFAB91" />
+          <stop offset="50%" stopColor="#FF7043" />
+          <stop offset="100%" stopColor="#E64A19" />
         </linearGradient>
-        <linearGradient id="r3_intestine" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFB366" />
-          <stop offset="100%" stopColor="#FF9944" />
+        <radialGradient id="bs_r3_stomach" cx="45%" cy="35%" r="60%">
+          <stop offset="0%" stopColor="#FFCC80" />
+          <stop offset="30%" stopColor="#FFA726" />
+          <stop offset="70%" stopColor="#EF6C00" />
+          <stop offset="100%" stopColor="#BF360C" />
+        </radialGradient>
+        <linearGradient id="bs_r3_sm_int" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FFE0B2" />
+          <stop offset="40%" stopColor="#FFB74D" />
+          <stop offset="100%" stopColor="#F57C00" />
         </linearGradient>
+        <linearGradient id="bs_r3_lg_int" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#D7CCC8" />
+          <stop offset="50%" stopColor="#A1887F" />
+          <stop offset="100%" stopColor="#6D4C41" />
+        </linearGradient>
+        <radialGradient id="bs_r3_liver" cx="40%" cy="40%" r="55%">
+          <stop offset="0%" stopColor="#A1887F" />
+          <stop offset="100%" stopColor="#4E342E" />
+        </radialGradient>
+        <filter id="bs_r3_glow">
+          <feGaussianBlur stdDeviation="1" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
       </defs>
 
-      {/* Mouth */}
-      <ellipse cx="120" cy="25" rx="15" ry="12" fill="url(#r3_mouth)" stroke="#FF6666" strokeWidth="1.5" />
-      <text x="120" y="30" fontSize="14" textAnchor="middle">👄</text>
-      <text x="120" y="50" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Mouth</text>
+      <rect width="240" height="160" fill="url(#bs_r3_bg)" />
 
-      {/* Esophagus (tube downward) */}
-      <path d="M120 40 L120 65" stroke="#FF8888" strokeWidth="5" fill="none" strokeLinecap="round" />
+      {/* Body torso silhouette */}
+      <path d="M 88,5 Q 80,8 78,18 L 72,65 Q 68,100 72,135 L 75,155 M 152,5 Q 160,8 162,18 L 168,65 Q 172,100 168,135 L 165,155" stroke="rgba(255,255,255,0.05)" strokeWidth="0.8" fill="none" />
 
-      {/* Stomach (pouch) */}
-      <path d="M100 75 Q90 90 95 105 Q100 115 120 118 Q140 115 145 105 Q150 90 140 75 Z" fill="url(#r3_stomach)" stroke="#FF5500" strokeWidth="1.5" />
-      <text x="120" y="98" fontSize="9" fontWeight="bold" fill="white" textAnchor="middle">Stomach</text>
+      {/* ── MOUTH — open cavity ── */}
+      <path d="M 112,8 Q 108,5 106,10 Q 108,18 114,20 L 126,20 Q 132,18 134,10 Q 132,5 128,8 Z" fill="url(#bs_r3_mouth)" opacity="0.6" />
+      {/* Teeth hint */}
+      <path d="M 110,16 L 114,14 L 118,16 L 122,14 L 126,16 L 130,14" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" fill="none" />
 
-      {/* Small intestines (wavy tube downward) */}
-      <path d="M110 118 Q110 135 120 138 Q130 135 130 118" stroke="url(#r3_intestine)" strokeWidth="6" fill="none" strokeLinecap="round" />
-      <text x="120" y="155" fontSize="8" fontWeight="bold" fill="white" textAnchor="middle">Small Intestines</text>
+      {/* ── ESOPHAGUS — muscular tube ── */}
+      <path d="M 118,20 Q 116,28 115,36 Q 114,44 116,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      <path d="M 122,20 Q 124,28 125,36 Q 126,44 124,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" opacity="0.5" />
+      {/* Peristalsis wave hints */}
+      <path d="M 114,30 Q 120,28 126,30" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
+      <path d="M 113,38 Q 120,36 127,38" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
 
-      {/* Nutrient absorption arrows */}
-      <path d="M135 95 L160 85" stroke="#00FF88" strokeWidth="2" fill="none" markerEnd="url(#arrowgreen)" strokeDasharray="2,2" />
-      <text x="155" y="75" fontSize="9" fontWeight="bold" fill="#00FF88">Nutrients</text>
+      {/* ── STOMACH — J-shaped sac ── */}
+      <path d="M 100,52 Q 92,48 88,55 Q 84,65 86,78 Q 90,92 102,98 Q 115,102 128,96 Q 140,88 142,75 Q 143,62 138,55 Q 134,50 126,52 Z" fill="url(#bs_r3_stomach)" filter="url(#bs_r3_glow)" />
+      {/* Stomach folds (rugae) */}
+      <path d="M 94,60 Q 110,58 130,62" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      <path d="M 90,70 Q 110,68 138,72" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      <path d="M 92,80 Q 112,78 135,82" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
+      {/* Stomach acid dots */}
+      <circle cx="105" cy="72" r="1" fill="rgba(255,235,59,0.3)" />
+      <circle cx="118" cy="68" r="0.8" fill="rgba(255,235,59,0.25)" />
+      <circle cx="125" cy="78" r="1" fill="rgba(255,235,59,0.2)" />
 
-      <defs>
-        <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0,0 10,5 0,10" fill="#00FF88" />
-        </marker>
-      </defs>
+      {/* Liver (behind/above stomach) */}
+      <path d="M 138,48 Q 155,42 168,48 Q 175,55 170,65 Q 165,72 148,70 Q 138,68 135,60 Q 134,52 138,48 Z" fill="url(#bs_r3_liver)" opacity="0.5" />
+
+      {/* ── SMALL INTESTINE — coiled loops ── */}
+      <path d="M 115,98 Q 108,105 100,108 Q 90,112 85,120 Q 82,128 90,132 Q 100,135 110,130 Q 118,125 125,130 Q 135,135 145,130 Q 152,125 148,118 Q 142,112 132,115 Q 122,118 115,112 Q 108,108 112,102" stroke="url(#bs_r3_sm_int)" strokeWidth="4" fill="none" strokeLinecap="round" />
+      {/* Villi texture on small intestine */}
+      {[{x:95,y:116},{x:105,y:128},{x:120,y:128},{x:138,y:128},{x:145,y:120}].map((p,i) => (
+        <g key={`v${i}`} opacity="0.3">
+          <line x1={p.x} y1={p.y-2} x2={p.x} y2={p.y+2} stroke="#FFE0B2" strokeWidth="0.4" />
+          <line x1={p.x-1.5} y1={p.y-1.5} x2={p.x-1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
+          <line x1={p.x+1.5} y1={p.y-1.5} x2={p.x+1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
+        </g>
+      ))}
+
+      {/* ── LARGE INTESTINE — framing the small intestine ── */}
+      <path d="M 155,98 Q 165,100 170,110 Q 175,125 170,140 Q 165,150 150,152 Q 120,155 90,152 Q 75,150 72,140 Q 68,128 72,115 Q 75,108 82,105" stroke="url(#bs_r3_lg_int)" strokeWidth="5" fill="none" strokeLinecap="round" opacity="0.5" />
+      {/* Haustra (pouches) on large intestine */}
+      {[{x:170,y:115},{x:172,y:130},{x:168,y:145},{x:148,y:152},{x:120,y:155},{x:90,y:152},{x:75,y:140},{x:70,y:125}].map((p,i) => (
+        <circle key={`h${i}`} cx={p.x} cy={p.y} r="1" fill="rgba(161,136,127,0.3)" />
+      ))}
+
+      {/* Nutrient absorption arrows (green, from small intestine outward) */}
+      <path d="M 148,125 Q 160,118 172,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="172,112 169,114 170,110" fill="rgba(0,200,83,0.3)" />
+      <path d="M 90,125 Q 78,118 68,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
+      <polygon points="68,112 71,114 70,110" fill="rgba(0,200,83,0.3)" />
+
+      {/* Food particle dots moving through system */}
+      <circle cx="120" cy="32" r="1.5" fill="rgba(255,235,59,0.4)" />
+      <circle cx="118" cy="46" r="1.2" fill="rgba(255,235,59,0.3)" />
+      <circle cx="110" cy="75" r="1.5" fill="rgba(255,235,59,0.25)" />
+      <circle cx="108" cy="110" r="1" fill="rgba(255,235,59,0.2)" />
     </svg>
   );
 }

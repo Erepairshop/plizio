@@ -299,115 +299,203 @@ function SVG_R2(lang: string): React.ReactNode {
 }
 
 function SVG_R3(lang: string): React.ReactNode {
-  const lb: Record<string, { herbivore: string; carnivore: string; omnivore: string; example: string }> = {
-    en: { herbivore: "Herbivore", carnivore: "Carnivore", omnivore: "Omnivore", example: "Examples" },
-    de: { herbivore: "Pflanzenfresser", carnivore: "Fleischfresser", omnivore: "Allesfresser", example: "Beispiele" },
-    hu: { herbivore: "Növényevő", carnivore: "Húsevő", omnivore: "Mindenevő", example: "Példák" },
-    ro: { herbivore: "Erbivor", carnivore: "Carnivor", omnivore: "Omnivor", example: "Exemple" },
-  };
-  const l = lb[lang] || lb.en;
-
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
-        <linearGradient id="r3_herb" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" />
-          <stop offset="100%" stopColor="#228B22" />
+        <linearGradient id="m3_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#1a1a2e" />
+          <stop offset="100%" stopColor="#16213e" />
         </linearGradient>
-        <linearGradient id="r3_carn" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" />
-          <stop offset="100%" stopColor="#C2185B" />
+        <linearGradient id="m3_herb_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#2E7D32" />
+          <stop offset="100%" stopColor="#1B5E20" />
         </linearGradient>
-        <linearGradient id="r3_omni" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFB347" />
-          <stop offset="100%" stopColor="#FF6347" />
+        <linearGradient id="m3_carn_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#C62828" />
+          <stop offset="100%" stopColor="#8E0000" />
+        </linearGradient>
+        <linearGradient id="m3_omni_card" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#E65100" />
+          <stop offset="100%" stopColor="#BF360C" />
+        </linearGradient>
+        <linearGradient id="m3_rabbit" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#C4A882" />
+          <stop offset="100%" stopColor="#A08060" />
+        </linearGradient>
+        <linearGradient id="m3_wolf" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8D8D8D" />
+          <stop offset="50%" stopColor="#6D6D6D" />
+          <stop offset="100%" stopColor="#505050" />
+        </linearGradient>
+        <linearGradient id="m3_bear" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8B5A3C" />
+          <stop offset="100%" stopColor="#5D3A1F" />
         </linearGradient>
       </defs>
 
-      {/* Three panels */}
+      <rect width="240" height="160" fill="url(#m3_bg)" />
 
-      {/* Panel 1: Herbivore (Cow/Rabbit) */}
+      {/* PANEL 1: HERBIVORE — Rabbit */}
       <g>
-        <rect x="8" y="10" width="70" height="145" rx="6" fill="url(#r3_herb)" opacity="0.2" stroke="#228B22" strokeWidth="1.5" />
-        <text x="43" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          {l.herbivore}
-        </text>
+        <rect x="4" y="6" width="74" height="148" rx="8" fill="url(#m3_herb_card)" opacity="0.85" />
+        <rect x="4" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="4" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Simple rabbit/cow head */}
-        <circle cx="43" cy="55" r="12" fill="#D4A574" stroke="#8B6F47" strokeWidth="1" />
-        <circle cx="35" cy="48" r="4" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        <circle cx="51" cy="48" r="4" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        {/* Mouth */}
-        <path d="M 43 62 Q 40 65 43 67 Q 46 65 43 62" fill="#FFB6C1" stroke="#8B6F47" strokeWidth="0.5" />
-
-        {/* Grass below */}
-        <g stroke="#228B22" strokeWidth="1.5" strokeLinecap="round" opacity="0.7">
-          <path d="M 25 80 Q 28 70 30 80" />
-          <path d="M 35 82 Q 38 70 40 82" />
-          <path d="M 50 81 Q 53 71 55 81" />
-          <path d="M 60 80 Q 63 72 65 80" />
+        {/* Rabbit sitting */}
+        <g transform="translate(41, 50)">
+          {/* Body */}
+          <ellipse cx="0" cy="8" rx="12" ry="14" fill="url(#m3_rabbit)" />
+          {/* Belly */}
+          <ellipse cx="1" cy="12" rx="7" ry="8" fill="#E8D8C0" opacity="0.5" />
+          {/* Head */}
+          <circle cx="2" cy="-6" r="9" fill="url(#m3_rabbit)" />
+          {/* Ears - tall */}
+          <path d="M -2,-14 Q -4,-28 -1,-30 Q 2,-28 1,-14 Z" fill="url(#m3_rabbit)" />
+          <path d="M -1,-16 Q -2,-26 0,-28 Z" fill="#E8A0A0" opacity="0.4" />
+          <path d="M 6,-12 Q 8,-26 11,-28 Q 14,-26 12,-12 Z" fill="url(#m3_rabbit)" />
+          <path d="M 8,-14 Q 9,-24 11,-26 Z" fill="#E8A0A0" opacity="0.4" />
+          {/* Eye */}
+          <circle cx="7" cy="-8" r="2.5" fill="#1a1a1a" />
+          <circle cx="7" cy="-8" r="1.8" fill="#2C1810" />
+          <circle cx="8" cy="-9" r="0.7" fill="white" opacity="0.85" />
+          {/* Nose */}
+          <ellipse cx="10" cy="-4" rx="1.5" ry="1" fill="#E88080" />
+          {/* Whiskers */}
+          <g stroke="rgba(255,255,255,0.25)" strokeWidth="0.3" fill="none">
+            <path d="M 11,-5 L 18,-6" /><path d="M 11,-4 L 18,-3" /><path d="M 11,-3 L 17,-1" />
+          </g>
+          {/* Paws */}
+          <ellipse cx="-6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
+          <ellipse cx="6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
+          {/* Fluffy tail */}
+          <circle cx="-10" cy="14" r="4" fill="#E8E0D0" />
+          {/* Fur texture */}
+          <g stroke="rgba(120,90,50,0.15)" strokeWidth="0.5" fill="none">
+            <path d="M -4,2 Q -2,0 0,2" /><path d="M 4,4 Q 6,2 8,4" />
+            <path d="M -6,10 Q -4,8 -2,10" /><path d="M 2,12 Q 4,10 6,12" />
+          </g>
         </g>
 
-        <text x="43" y="105" fontSize="8" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          🐰 🐄
-        </text>
+        {/* Grass/plants below */}
+        <g stroke="#4CAF50" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.6">
+          <path d="M 15 108 Q 17 98 19 108" /><path d="M 25 110 Q 27 100 29 110" />
+          <path d="M 50 108 Q 52 98 54 108" /><path d="M 60 110 Q 62 100 64 110" />
+          <path d="M 35 112 Q 37 104 39 112" />
+        </g>
+        {/* Leaves */}
+        <ellipse cx="20" cy="118" rx="5" ry="3" fill="#66BB6A" opacity="0.5" transform="rotate(-20 20 118)" />
+        <ellipse cx="55" cy="116" rx="4" ry="2.5" fill="#66BB6A" opacity="0.4" transform="rotate(15 55 116)" />
       </g>
 
-      {/* Panel 2: Carnivore (Wolf/Lion) */}
+      {/* PANEL 2: CARNIVORE — Wolf */}
       <g>
-        <rect x="85" y="10" width="70" height="145" rx="6" fill="url(#r3_carn)" opacity="0.2" stroke="#C2185B" strokeWidth="1.5" />
-        <text x="120" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
-          {l.carnivore}
-        </text>
+        <rect x="83" y="6" width="74" height="148" rx="8" fill="url(#m3_carn_card)" opacity="0.85" />
+        <rect x="83" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="83" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Sharp wolf/lion head */}
-        <circle cx="120" cy="55" r="12" fill="#D4A574" stroke="#8B6F47" strokeWidth="1" />
-        {/* Pointed ears */}
-        <path d="M 110 42 Q 108 35 112 42 Z" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        <path d="M 130 42 Q 132 35 128 42 Z" fill="#D4A574" stroke="#8B6F47" strokeWidth="0.8" />
-        {/* Sharp teeth hint */}
-        <line x1="115" y1="63" x2="115" y2="68" stroke="#FF6B6B" strokeWidth="1.5" />
-        <line x1="120" y1="64" x2="120" y2="69" stroke="#FF6B6B" strokeWidth="1.5" />
-        <line x1="125" y1="63" x2="125" y2="68" stroke="#FF6B6B" strokeWidth="1.5" />
-
-        {/* Meat below */}
-        <g opacity="0.8">
-          <circle cx="110" cy="85" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
-          <circle cx="120" cy="88" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
-          <circle cx="130" cy="86" r="3" fill="#FF6B6B" stroke="#C2185B" strokeWidth="0.5" />
+        {/* Wolf head - fierce, side view */}
+        <g transform="translate(120, 50)">
+          {/* Neck fur */}
+          <path d="M -14,8 Q -18,14 -16,22 Q -10,26 -4,22 Q 0,16 -4,8 Z" fill="url(#m3_wolf)" />
+          {/* Head */}
+          <path d="M -8,-4 Q -2,-12 8,-10 Q 16,-6 16,2 Q 14,10 6,12 Q -4,12 -10,6 Q -12,0 -8,-4 Z" fill="url(#m3_wolf)" />
+          {/* Lighter muzzle */}
+          <path d="M 8,-2 Q 14,-4 18,0 Q 16,4 10,4 Q 6,2 8,-2 Z" fill="#9E9E9E" opacity="0.6" />
+          {/* Ears - pointed */}
+          <path d="M -4,-10 Q -8,-22 -2,-18 Q 2,-14 0,-8 Z" fill="url(#m3_wolf)" />
+          <path d="M -3,-12 Q -6,-18 -2,-16 Z" fill="#4A4A4A" opacity="0.4" />
+          <path d="M 6,-8 Q 4,-20 10,-16 Q 14,-12 10,-6 Z" fill="url(#m3_wolf)" />
+          <path d="M 7,-10 Q 5,-16 9,-14 Z" fill="#4A4A4A" opacity="0.4" />
+          {/* Eye - fierce amber */}
+          <circle cx="4" cy="-4" r="3" fill="#FFC107" />
+          <circle cx="4" cy="-4" r="2" fill="#FF8F00" />
+          <circle cx="4" cy="-4" r="1.2" fill="#1a1a00" />
+          <circle cx="5" cy="-5" r="0.6" fill="white" opacity="0.85" />
+          {/* Brow - fierce */}
+          <path d="M 0,-6 Q 3,-8 6,-6" stroke="#3a3a3a" strokeWidth="1" fill="none" />
+          {/* Nose */}
+          <ellipse cx="16" cy="0" rx="2.5" ry="2" fill="#1a1a1a" />
+          {/* Snarl - showing teeth */}
+          <path d="M 10,6 Q 14,4 16,5" stroke="#1a1a1a" strokeWidth="0.6" fill="none" />
+          {/* Fangs */}
+          <path d="M 12,5 L 12,9" stroke="#FFF8E1" strokeWidth="1.2" strokeLinecap="round" />
+          <path d="M 15,4 L 15,8" stroke="#FFF8E1" strokeWidth="1" strokeLinecap="round" />
+          {/* Fur texture */}
+          <g stroke="rgba(60,60,60,0.25)" strokeWidth="0.5" fill="none">
+            <path d="M -6,0 Q -4,-2 -2,0" /><path d="M 0,4 Q 2,2 4,4" />
+            <path d="M -8,6 Q -6,4 -4,6" /><path d="M -12,14 Q -10,12 -8,14" />
+          </g>
         </g>
 
-        <text x="120" y="105" fontSize="8" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
-          🐺 🦁
-        </text>
+        {/* Meat/bone below */}
+        <g transform="translate(110, 105)">
+          {/* Bone */}
+          <path d="M -8,0 L 8,0" stroke="#E8E0D0" strokeWidth="3" strokeLinecap="round" />
+          <circle cx="-10" cy="0" r="2.5" fill="#E8E0D0" />
+          <circle cx="10" cy="0" r="2.5" fill="#E8E0D0" />
+          {/* Meat chunk */}
+          <ellipse cx="0" cy="10" rx="6" ry="4" fill="#D32F2F" opacity="0.7" />
+          <ellipse cx="0" cy="10" rx="4" ry="2.5" fill="#E53935" opacity="0.5" />
+        </g>
       </g>
 
-      {/* Panel 3: Omnivore (Bear/Human) */}
+      {/* PANEL 3: OMNIVORE — Bear */}
       <g>
-        <rect x="162" y="10" width="70" height="145" rx="6" fill="url(#r3_omni)" opacity="0.2" stroke="#FF6347" strokeWidth="1.5" />
-        <text x="197" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
-          {l.omnivore}
-        </text>
+        <rect x="162" y="6" width="74" height="148" rx="8" fill="url(#m3_omni_card)" opacity="0.85" />
+        <rect x="162" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
+        <rect x="162" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
 
-        {/* Bear head */}
-        <circle cx="197" cy="55" r="12" fill="#8B4513" stroke="#654321" strokeWidth="1" />
-        <circle cx="191" cy="48" r="3" fill="#8B4513" stroke="#654321" strokeWidth="0.8" />
-        <circle cx="203" cy="48" r="3" fill="#8B4513" stroke="#654321" strokeWidth="0.8" />
-        <circle cx="197" cy="64" r="3" fill="#4A4A4A" stroke="#654321" strokeWidth="0.5" />
+        {/* Bear - front view sitting */}
+        <g transform="translate(199, 50)">
+          {/* Body */}
+          <ellipse cx="0" cy="12" rx="16" ry="18" fill="url(#m3_bear)" />
+          {/* Belly lighter */}
+          <ellipse cx="0" cy="16" rx="10" ry="12" fill="#A07050" opacity="0.4" />
+          {/* Head */}
+          <circle cx="0" cy="-8" r="12" fill="url(#m3_bear)" />
+          {/* Muzzle */}
+          <ellipse cx="0" cy="-2" rx="6" ry="5" fill="#A07050" opacity="0.5" />
+          {/* Ears */}
+          <circle cx="-9" cy="-16" r="4" fill="url(#m3_bear)" />
+          <circle cx="-9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
+          <circle cx="9" cy="-16" r="4" fill="url(#m3_bear)" />
+          <circle cx="9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
+          {/* Eyes */}
+          <circle cx="-4" cy="-10" r="2.2" fill="#1a1a1a" />
+          <circle cx="-4" cy="-10" r="1.5" fill="#2C1810" />
+          <circle cx="-3.3" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
+          <circle cx="4" cy="-10" r="2.2" fill="#1a1a1a" />
+          <circle cx="4" cy="-10" r="1.5" fill="#2C1810" />
+          <circle cx="4.7" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
+          {/* Nose */}
+          <ellipse cx="0" cy="-3" rx="3" ry="2" fill="#1a1a1a" />
+          <circle cx="-0.5" cy="-3.5" r="0.5" fill="white" opacity="0.15" />
+          {/* Mouth */}
+          <path d="M 0,-1 Q -2,1 -3,0 M 0,-1 Q 2,1 3,0" stroke="rgba(0,0,0,0.2)" strokeWidth="0.5" fill="none" />
+          {/* Paws */}
+          <ellipse cx="-12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
+          <ellipse cx="12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
+          {/* Fur */}
+          <g stroke="rgba(60,40,20,0.15)" strokeWidth="0.5" fill="none">
+            <path d="M -6,4 Q -4,2 -2,4" /><path d="M 2,6 Q 4,4 6,6" />
+            <path d="M -8,14 Q -6,12 -4,14" /><path d="M 4,16 Q 6,14 8,16" />
+          </g>
+        </g>
 
-        {/* Mixed food below */}
-        <g opacity="0.8">
-          {/* Plants */}
-          <path d="M 185 82 Q 188 72 190 82" stroke="#228B22" strokeWidth="1.5" />
-          {/* Meat */}
-          <circle cx="197" cy="85" r="2.5" fill="#FF6B6B" />
+        {/* Mixed food: berries + fish */}
+        <g transform="translate(188, 108)">
+          {/* Berries */}
+          <circle cx="0" cy="0" r="2.5" fill="#E53935" /><circle cx="5" cy="2" r="2" fill="#E53935" />
+          <circle cx="-4" cy="3" r="2" fill="#7B1FA2" opacity="0.8" />
+          {/* Leaf */}
+          <ellipse cx="2" cy="-3" rx="3" ry="1.5" fill="#4CAF50" opacity="0.6" transform="rotate(-30 2 -3)" />
           {/* Fish */}
-          <path d="M 205 80 Q 208 75 210 80" stroke="#3B82F6" strokeWidth="1.5" strokeLinecap="round" />
+          <g transform="translate(16, 2)">
+            <path d="M -6,0 Q 0,-4 6,0 Q 0,4 -6,0 Z" fill="#64B5F6" opacity="0.7" />
+            <path d="M 6,0 L 9,-2 L 9,2 Z" fill="#42A5F5" opacity="0.6" />
+            <circle cx="-3" cy="-1" r="0.6" fill="#1a1a1a" />
+          </g>
         </g>
-
-        <text x="197" y="105" fontSize="8" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
-          🐻 👤
-        </text>
       </g>
     </svg>
   );
