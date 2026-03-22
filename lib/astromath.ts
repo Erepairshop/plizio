@@ -84,7 +84,18 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "o6-spelling-master-explorer" | "o6-composition-explorer" | "o6-review-explorer"
   | "o7-language-history-explorer" | "o7-advanced-rhetoric-explorer" | "o7-advanced-stylistics-explorer"
   | "o7-language-variants-explorer" | "o7-text-composition-explorer" | "o7-advanced-syntax-explorer"
-  | "o7-communication-explorer" | "o7-media-language-explorer" | "o7-review-explorer";
+  | "o7-communication-explorer" | "o7-media-language-explorer" | "o7-review-explorer"
+  | "verb-conjugation-explorer" | "pronouns-o4-explorer" | "adverbials-explorer"
+  | "complex-sentences-explorer" | "word-formation-o4-explorer" | "spelling-mastery-explorer"
+  | "composition-o4-explorer" | "grammar-review-explorer" | "review-o4-explorer"
+  | "o2-word-types-explorer" | "o2-reading-explorer" | "o2-spelling-explorer" | "o2-grammar-explorer"
+  | "o2-compound-words-explorer" | "o2-conjugation-explorer" | "o2-synonyms-explorer" | "o2-vocabulary-explorer" | "o2-review-explorer"
+  | "o3-verb-tenses-explorer" | "o3-noun-declension-explorer" | "o3-compound-words-explorer"
+  | "o3-text-comp-explorer" | "o3-idioms-explorer" | "o3-spelling-explorer"
+  | "o3-composition-explorer" | "o3-sentence-analysis-explorer" | "o3-review-explorer"
+  | "o4-verb-conjugation-explorer" | "o4-pronouns-explorer" | "o4-adverbials-explorer"
+  | "o4-complex-sentences-explorer" | "o4-word-formation-explorer" | "o4-spelling-mastery-explorer"
+  | "o4-composition-explorer" | "o4-grammar-review-explorer" | "o4-review-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

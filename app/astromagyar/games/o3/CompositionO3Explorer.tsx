@@ -4,36 +4,36 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Fogalmazás - Elbeszélés", tx1: "Az elbeszélésben egy eseményt vagy történetet meséltünk el. Van kezdete, közepe és vége.",
-    q1: "Melyik az elbeszélés jellegzetessége?", a1: "időrend szerinti szöveg", b1: "szógyűjtés", c1: "szóképzés", d1: "kérdések felsorolása",
+    t1: "Fogalmazás alapjai", tx1: "A fogalmazás azt jelenti, hogy gondolatainkat írásban kifejezzük. Egy jó fogalmazás világos, érdekes és rendezett.",
+    q1: "Mi a fogalmazás célja?", a1: "Gondolatokat és érzéseket írásban kifejezni", b1: "Gyors írás", c1: "Sok szót használni", d1: "Csak nyelvtant gyakorolni",
 
-    t2: "Fogalmazás - Leírás", tx2: "A leírásban egy dolgot, helyet vagy személyt részletesen írunk le. Az érzékszerveink alapján írjuk le.",
-    q2: "Mit írunk le leírásban?", a2: "eseményt időrendben", b2: "dolog vagy hely jellemzőit", c2: "kérdéseket", d2: "szavak jelentését",
+    t2: "Elbeszélés írása", tx2: "Az elbeszélés egy történet. Egy kezdete, közepe és vége van. Logikus sorrendben történnek az események.",
+    q2: "Mi jellemzi az elbeszélést?", a2: "Van kezdete, közepe és vége, időbeli sorrendben", b2: "Nincs sorrend, véletlenszerű események", c2: "Csak egy mondat lehet", d2: "Nincsenek személyek",
 
-    t3: "Szövegszerkesztés", tx3: "A szöveg összerakása értelmesnek és folytonosnak kell lennie. Össze kell kötni az ötleteket.",
-    q3: "Mit jelent a szövegszerkesztés?", a3: "szavak felsorolása", b3: "ötletek összekötése", c3: "kérdések feltevése", d3: "szavak megismétlése",
+    t3: "Leírás írása", tx3: "A leírás egy tárgy vagy hely jellemzésére szolgál. Érzékek segítségével írjuk le: szín, méret, forma, szag.",
+    q3: "Mit tartalmaz egy jó leírás?", a3: "Részleteket a tárgy vagy hely tulajdonságairól", b3: "Csak a szín", c3: "Csak a méret", d3: "Nincs részlet",
 
-    t4: "Nyelvtani helyes fogalmazás", tx4: "A fogalmazásban ügyelni kell a nyelvtani helyesírásra, szórendjére, ragozásra.",
-    q4: "Melyik fontos a fogalmazásban?", a4: "nyelvtani helyesség", b4: "szavak száma", c4: "betűnagyság", d4: "sorfokozat",
+    t4: "Gondolatok rendezése", tx4: "A fogalmazás írása előtt meg kell tervezni. Gondolatokat csoportosítunk és logikus sorrendbe helyezzük.",
+    q4: "Hogyan kell írni egy fogalmazást?", a4: "Terveket csinálni, gondolatokat rendezni, majd írni", b4: "Azonnal írni gondolkodás nélkül", c4: "Csak egy gondolatot írni", d4: "Nincs szükség tervezésre",
 
-    t5: "Kreatív fogalmazás", tx5: "A jó fogalmazás kreatív, érdekes és személyes. Saját gondolataival írunk.",
-    q5: "Mit jelent a kreatív fogalmazás?", a5: "saját gondolatok leírása", b5: "szavak másolása", c5: "példák felsorolása", d5: "kérdések felvetése",
+    t5: "Fogalmazás gyakorlása", tx5: "A fogalmazás fejlődik az írásgyakorlattal. Rendszeres írás fejleszti a kifejezés képességét.",
+    q5: "Hogyan fejleszthető a fogalmazás?", a5: "Rendszeres írásgyakorlattal és visszajelzésből tanulva", b5: "Nem lehet fejleszteni", c5: "Csak olvasásból tanulható", d5: "Egy történettel elég",
   },
   de: {
-    t1: "Aufsatz - Erzählung", tx1: "In einer Erzählung erzählen wir ein Ereignis oder eine Geschichte. Es hat einen Anfang, eine Mitte und ein Ende.",
-    q1: "Was ist das Merkmal einer Erzählung?", a1: "zeitlich geordneter Text", b1: "Wortsammlung", c1: "Wortbildung", d1: "Aufzählung von Fragen",
+    t1: "Grundlagen der Zusammensetzung", tx1: "Zusammensetzung bedeutet, unsere Gedanken schriftlich auszudrücken. Eine gute Zusammensetzung ist klar, interessant und geordnet.",
+    q1: "Was ist der Zweck der Zusammensetzung?", a1: "Gedanken und Gefühle schriftlich ausdrücken", b1: "Schnell schreiben", c1: "Viele Wörter verwenden", d1: "Nur Grammatik üben",
 
-    t2: "Aufsatz - Beschreibung", tx2: "In einer Beschreibung beschreiben wir etwas, einen Ort oder eine Person im Detail. Wir beschreiben nach unseren Sinnen.",
-    q2: "Was beschreiben wir in einer Beschreibung?", a2: "ein Ereignis zeitlich", b2: "Eigenschaften eines Dinges oder Ortes", c2: "Fragen", d2: "Bedeutung von Wörtern",
+    t2: "Eine Geschichte schreiben", tx2: "Eine Erzählung ist eine Geschichte. Sie hat einen Anfang, eine Mitte und ein Ende. Die Ereignisse folgen in logischer Reihenfolge.",
+    q2: "Was zeichnet eine Erzählung aus?", a2: "Sie hat einen Anfang, eine Mitte und ein Ende in zeitlicher Reihenfolge", b2: "Keine Reihenfolge, zufällige Ereignisse", c2: "Nur ein Satz möglich", d2: "Keine Personen",
 
-    t3: "Textzusammenhang", tx3: "Der Text muss sinnvoll und zusammenhängend sein. Wir müssen die Ideen verbinden.",
-    q3: "Was bedeutet Textzusammenhang?", a3: "Aufzählung von Wörtern", b3: "Verbindung von Ideen", c3: "Stellung von Fragen", d3: "Wiederholung von Wörtern",
+    t3: "Eine Beschreibung schreiben", tx3: "Die Beschreibung dient zur Charakterisierung eines Gegenstands oder Ortes. Wir verwenden Sinne zum Beschreiben: Farbe, Größe, Form, Geruch.",
+    q3: "Was enthält eine gute Beschreibung?", a3: "Details über die Eigenschaften des Gegenstands oder Ortes", b3: "Nur die Farbe", c3: "Nur die Größe", d3: "Keine Details",
 
-    t4: "Sprachlich korrekter Aufsatz", tx4: "Im Aufsatz müssen wir auf grammatikalische Korrektheit, Wortstellung und Deklination achten.",
-    q4: "Was ist wichtig beim Aufsatz?", a4: "sprachliche Korrektheit", b4: "Anzahl der Wörter", c4: "Schriftgröße", d4: "Einrückung",
+    t4: "Gedanken ordnen", tx4: "Vor dem Schreiben einer Zusammensetzung muss man planen. Wir ordnen Gedanken und setzen sie in logische Reihenfolge.",
+    q4: "Wie schreibt man eine Zusammensetzung?", a4: "Pläne machen, Gedanken ordnen, dann schreiben", b4: "Sofort schreiben ohne zu denken", c4: "Nur einen Gedanken schreiben", d4: "Planung ist nicht nötig",
 
-    t5: "Kreativer Aufsatz", tx5: "Ein guter Aufsatz ist kreativ, interessant und persönlich. Wir schreiben mit eigenen Gedanken.",
-    q5: "Was bedeutet kreatives Schreiben?", a5: "Aufzeichnung eigener Gedanken", b5: "Kopieren von Wörtern", c5: "Aufzählung von Beispielen", d5: "Stellung von Fragen",
+    t5: "Zusammensetzung üben", tx5: "Zusammensetzung entwickelt sich durch Schreibpraxis. Regelmäßiges Schreiben verbessert die Ausdrucksfähigkeit.",
+    q5: "Wie kann man Zusammensetzung entwickeln?", a5: "Durch regelmäßiges Schreiben und Lernen aus Feedback", b5: "Kann nicht entwickelt werden", c5: "Nur durch Lesen lernbar", d5: "Eine Geschichte reicht",
   },
 };
 
@@ -47,14 +47,13 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <circle cx="50" cy="50" r="12" fill="#4ECDC4" />
-          <text x="50" y="56" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">1.</text>
-          <circle cx="120" cy="50" r="12" fill="#4ECDC4" />
-          <text x="120" y="56" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">2.</text>
-          <circle cx="190" cy="50" r="12" fill="#4ECDC4" />
-          <text x="190" y="56" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">3.</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="12" fill="#4ECDC4" fontWeight="bold">Elbeszélés</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="white/60">kezdet-közép-vég</text>
+          <rect x="30" y="30" width="180" height="100" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
+          <line x1="40" y1="45" x2="200" y2="45" stroke="#4ECDC4" strokeWidth="1.5" />
+          <line x1="40" y1="60" x2="200" y2="60" stroke="#4ECDC4" strokeWidth="1.5" />
+          <line x1="40" y1="75" x2="200" y2="75" stroke="#4ECDC4" strokeWidth="1.5" />
+          <line x1="40" y1="90" x2="200" y2="90" stroke="#4ECDC4" strokeWidth="1.5" />
+          <line x1="40" y1="105" x2="180" y2="105" stroke="#4ECDC4" strokeWidth="1.5" />
+          <text x="120" y="135" textAnchor="middle" fontSize="12" fill="#4ECDC4" fontWeight="bold">Fogalmazás</text>
         </svg>
       ),
       questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
@@ -66,12 +65,20 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <rect x="40" y="50" width="160" height="60" rx="6" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="13" fill="#FF6B9D" fontWeight="bold">Leírás</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="11" fill="white/60">(részletes jellemzés)</text>
+          <circle cx="60" cy="65" r="14" fill="#B44DFF" opacity="0.8" />
+          <text x="60" y="70" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">1</text>
+          <circle cx="120" cy="65" r="14" fill="#95E1D3" opacity="0.8" />
+          <text x="120" y="70" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">2</text>
+          <circle cx="180" cy="65" r="14" fill="#4ECDC4" opacity="0.8" />
+          <text x="180" y="70" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">3</text>
+          <line x1="75" y1="65" x2="105" y2="65" stroke="#FF6B9D" strokeWidth="2" />
+          <line x1="135" y1="65" x2="165" y2="65" stroke="#FF6B9D" strokeWidth="2" />
+          <text x="60" y="110" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">Kezdet</text>
+          <text x="120" y="110" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">Közepe</text>
+          <text x="180" y="110" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">Vége</text>
         </svg>
       ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
+      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
     },
     {
       type: "mcq",
@@ -80,17 +87,20 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <circle cx="60" cy="80" r="16" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="60" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">ötlet</text>
-          <path d="M 80 80 L 100 80" stroke="#FFD700" strokeWidth="2" />
-          <circle cx="120" cy="80" r="16" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="120" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">ötlet</text>
-          <path d="M 140 80 L 160 80" stroke="#FFD700" strokeWidth="2" />
-          <circle cx="180" cy="80" r="16" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="180" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">ötlet</text>
+          <rect x="60" y="40" width="120" height="80" rx="8" fill="none" stroke="#FF6B9D" strokeWidth="2" />
+          <circle cx="80" cy="60" r="6" fill="#FF6B9D" />
+          <text x="95" y="65" fontSize="9" fill="#FF6B9D">szín</text>
+          <circle cx="80" cy="80" r="6" fill="#FF6B9D" />
+          <text x="95" y="85" fontSize="9" fill="#FF6B9D">méret</text>
+          <circle cx="80" cy="100" r="6" fill="#FF6B9D" />
+          <text x="95" y="105" fontSize="9" fill="#FF6B9D">forma</text>
+          <circle cx="160" cy="70" r="6" fill="#FF6B9D" />
+          <text x="145" y="65" fontSize="9" fill="#FF6B9D" textAnchor="end">tapintás</text>
+          <circle cx="160" cy="100" r="6" fill="#FF6B9D" />
+          <text x="145" y="105" fontSize="9" fill="#FF6B9D" textAnchor="end">szag</text>
         </svg>
       ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
+      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
     },
     {
       type: "mcq",
@@ -99,9 +109,14 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <text x="120" y="60" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">Helyesírás</text>
-          <text x="120" y="80" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">Szórend</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">Ragozás</text>
+          <rect x="40" y="35" width="160" height="30" rx="6" fill="none" stroke="#4ECDC4" strokeWidth="2" />
+          <text x="120" y="56" textAnchor="middle" fontSize="11" fill="#4ECDC4" fontWeight="bold">Tervezés</text>
+          <line x1="120" y1="65" x2="120" y2="80" stroke="#95E1D3" strokeWidth="2" />
+          <rect x="40" y="80" width="160" height="30" rx="6" fill="none" stroke="#95E1D3" strokeWidth="2" />
+          <text x="120" y="101" textAnchor="middle" fontSize="11" fill="#95E1D3" fontWeight="bold">Gondolatok</text>
+          <line x1="120" y1="110" x2="120" y2="125" stroke="#B44DFF" strokeWidth="2" />
+          <rect x="40" y="125" width="160" height="30" rx="6" fill="none" stroke="#B44DFF" strokeWidth="2" />
+          <text x="120" y="146" textAnchor="middle" fontSize="11" fill="#B44DFF" fontWeight="bold">Írás</text>
         </svg>
       ),
       questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
@@ -113,10 +128,12 @@ const DEF: ExplorerDef = {
       svg: () => (
         <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="70" r="40" fill="none" stroke="#FFD700" strokeWidth="2" />
-          <text x="120" y="65" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">💭</text>
-          <text x="120" y="85" textAnchor="middle" fontSize="13" fill="#FFD700" fontWeight="bold">Kreativitás</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="white/60">saját gondolatok</text>
+          <path d="M 40 130 Q 80 30 120 30 Q 160 30 200 130" stroke="#95E1D3" strokeWidth="3" fill="none" />
+          <circle cx="40" cy="130" r="8" fill="#4ECDC4" />
+          <text x="40" y="150" textAnchor="middle" fontSize="9" fill="#4ECDC4" fontWeight="bold">Start</text>
+          <circle cx="200" cy="130" r="8" fill="#FF6B9D" />
+          <text x="200" y="150" textAnchor="middle" fontSize="9" fill="#FF6B9D" fontWeight="bold">Cél</text>
+          <circle cx="120" cy="30" r="6" fill="#B44DFF" />
         </svg>
       ),
       questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
