@@ -1,182 +1,706 @@
 "use client";
 // SkeletonExplorer — Island i6: Skeleton & Muscles (Skelett & Muskeln)
-// 5 rounds: Skeleton functions MCQ, Bone names MCQ, Muscle types order, Skin functions MCQ, Quick review
+// Teaching-first pattern: R1-R4 (info + SVG), R5 (MCQ quiz)
+// Grade 5 biology — skeletal system, bones, muscles, function
 
-import { memo, useState, useCallback, useMemo, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
+import ExplorerEngine from "./ExplorerEngine";
+import type { ExplorerDef, MCQQuestion } from "./ExplorerEngine";
+import React from "react";
 
-interface MCQQuestion { emoji: string; question: string; choices: string[]; answer: string; }
-interface Props { color: string; lang?: string; onDone: (score: number, total: number) => void; }
+// ─────────────────────────────────────────────────────────────────────────────
+// Labels — all content, all 4 languages
+// ─────────────────────────────────────────────────────────────────────────────
 
-const LABELS: Record<string, Record<string, string>> = {
+const LABELS: ExplorerDef["labels"] = {
   en: {
-    next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite — try again",
-    r1Title: "Skeleton Functions", r1Hint: "What does the skeleton do for the body?",
-    r2Title: "Name That Bone", r2Hint: "Which bone is being described?",
-    r3Title: "Muscle Types", r3Hint: "Tap: voluntary muscles first, then involuntary muscles.",
-    r3InProgress: "Keep going!", r3Done: "Correct grouping! ✓",
-    r4Title: "Skin Functions", r4Hint: "What role does the skin play in this situation?",
-    r5Title: "Quick Review", r5Hint: "Mixed questions from all rounds.",
-    support: "Supports the body upright 🏗️", protect: "Protects organs 🛡️", movement: "Enables movement 💪", blood_cells: "Produces blood cells 🩸",
-    q_skel_stand: "🦴 Thanks to the skeleton, we can stand upright. What function is this?",
-    q_skel_brain: "🧠 The skull protects the brain from damage. What function is this?",
-    q_skel_blood: "🩸 Inside bones, red blood cells are produced. What function is this?",
-    skull: "Skull 💀", spine: "Spine 🦴", ribs: "Ribs 🫁", femur: "Femur (thigh bone) 🦵",
-    q_bone_head: "💀 Which bone protects the brain?",
-    q_bone_back: "🦴 Which structure runs down the back and supports the body?",
-    q_bone_chest: "🫁 Which bones protect the heart and lungs?",
-    q_bone_leg: "🦵 Which is the longest and strongest bone in the human body?",
-    bicep: "Bicep (arm) 💪", heart_muscle: "Heart muscle ❤️", stomach_muscle: "Stomach wall muscle 🫙", leg_muscle: "Leg muscle 🦵",
-    r3Hint2: "Voluntary: Bicep, Leg muscle | Involuntary: Heart, Stomach",
-    protection: "Protection from UV and injury 🛡️", temp_reg: "Temperature regulation 🌡️", sensation: "Sense of touch and pain 🤚", waterproof: "Keeps the body waterproof 💧",
-    q_skin_sun: "☀️ What does skin do to protect you from the sun's UV rays?",
-    q_skin_cold: "🥶 When you're cold, your skin helps keep heat in. What function?",
-    q_skin_touch: "🤚 You can feel heat, cold, pain and pressure through the skin. What function?",
+    // Round 1: Skeleton Functions
+    r1Title: "Skeleton Functions",
+    r1Text: "The skeleton is a framework of bones that supports your body. It has four main jobs:",
+    r1B1: "Support: Holds your body upright and gives it shape",
+    r1B2: "Protection: Shields vital organs like the brain (skull), heart (ribs), lungs (ribs)",
+    r1B3: "Movement: Muscles attach to bones and move them, creating motion",
+    r1B4: "Blood Production: Inside bones, red blood cells are made in bone marrow",
+
+    // Round 2: Major Bones
+    r2Title: "Major Bones",
+    r2Text: "These bones are key structures you should know:",
+    r2B1: "Skull: Protects the brain and forms your face shape",
+    r2B2: "Spine (Vertebral Column): Runs down your back, supports your body, protects the spinal cord",
+    r2B3: "Ribs: Cage around chest, protect the heart and lungs",
+    r2B4: "Pelvis: Basin-shaped bone, supports organs and legs",
+    r2B5: "Femur (Thighbone): The longest bone, supports body weight during standing and walking",
+    r2B6: "Humerus (Upper Arm Bone): Allows arm movement at the shoulder",
+
+    // Round 3: Muscles & Movement
+    r3Title: "Muscles & Movement",
+    r3Text: "Three types of muscles work in your body, but only skeletal muscles are under your control:",
+    r3B1: "Skeletal Muscles: Voluntary — you control them. Move your bones. (Example: biceps when you flex your arm)",
+    r3B2: "Smooth Muscles: Involuntary — your body controls them. Found in stomach, intestines, blood vessels",
+    r3B3: "Cardiac Muscle: Involuntary — only in the heart. Beats without you thinking about it",
+    r3B4: "How They Work: Muscles pull on bones in pairs. When one contracts (shortens), it pulls the bone; the other relaxes (lengthens)",
+
+    // Round 4: Joints & Flexibility
+    r4Title: "Joints & Flexibility",
+    r4Text: "Joints are where two bones meet, allowing movement and flexibility:",
+    r4B1: "Fixed Joints (Skull): Bones fused together, no movement. Protects the brain",
+    r4B2: "Hinge Joints (Elbow, Knee): Move back and forth like a door. Controlled by muscle pairs",
+    r4B3: "Ball & Socket Joints (Hip, Shoulder): Move in multiple directions. Give great flexibility",
+    r4B4: "Cartilage: Smooth tissue between bones reduces friction and cushions impacts",
+
+    // Quiz Round 5
+    q1: "Which bone protects the brain?",
+    a1_skull: "Skull",
+    a1_spine: "Spine",
+    a1_ribs: "Ribs",
+    a1_femur: "Femur",
+
+    q2: "What is the main function of ribs?",
+    a2_protect: "Protect the heart and lungs",
+    a2_movement: "Enable movement",
+    a2_support: "Support the head",
+    a2_blood: "Produce blood cells",
+
+    q3: "Which type of muscle do you control voluntarily?",
+    a3_skeletal: "Skeletal muscles",
+    a3_smooth: "Smooth muscles",
+    a3_cardiac: "Cardiac muscles",
+    a3_all: "All three types",
+
+    q4: "What happens when a muscle contracts?",
+    a4_shortens: "It shortens and pulls a bone",
+    a4_lengthens: "It lengthens and pushes a bone",
+    a4_vibrates: "It vibrates rapidly",
+    a4_relaxes: "It relaxes and rests",
+
+    q5: "Which joint allows movement in many directions?",
+    a5_ballsocket: "Ball & socket (hip, shoulder)",
+    a5_hinge: "Hinge joint (elbow, knee)",
+    a5_fixed: "Fixed joint (skull)",
+    a5_pivot: "Pivot joint (neck)",
   },
+
   de: {
-    next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz — versuch es nochmal",
-    r1Title: "Skelettfunktionen", r1Hint: "Was macht das Skelett für den Körper?",
-    r2Title: "Welcher Knochen?", r2Hint: "Welcher Knochen wird beschrieben?",
-    r3Title: "Muskeltypen", r3Hint: "Tippe: zuerst willkürliche, dann unwillkürliche Muskeln.",
-    r3InProgress: "Weiter so!", r3Done: "Richtige Einteilung! ✓",
-    r4Title: "Hautfunktionen", r4Hint: "Welche Rolle spielt die Haut in dieser Situation?",
-    r5Title: "Schnelle Wiederholung", r5Hint: "Gemischte Fragen aus allen Runden.",
-    support: "Stützt den Körper aufrecht 🏗️", protect: "Schützt die Organe 🛡️", movement: "Ermöglicht Bewegung 💪", blood_cells: "Produziert Blutzellen 🩸",
-    q_skel_stand: "🦴 Dank des Skeletts können wir aufrecht stehen. Welche Funktion?",
-    q_skel_brain: "🧠 Der Schädel schützt das Gehirn vor Verletzungen. Welche Funktion?",
-    q_skel_blood: "🩸 Im Inneren der Knochen werden rote Blutkörperchen gebildet. Welche Funktion?",
-    skull: "Schädel 💀", spine: "Wirbelsäule 🦴", ribs: "Rippen 🫁", femur: "Oberschenkelknochen 🦵",
-    q_bone_head: "💀 Welcher Knochen schützt das Gehirn?",
-    q_bone_back: "🦴 Welche Struktur verläuft den Rücken hinunter und stützt den Körper?",
-    q_bone_chest: "🫁 Welche Knochen schützen Herz und Lunge?",
-    q_bone_leg: "🦵 Welches ist der längste und stärkste Knochen im menschlichen Körper?",
-    bicep: "Bizeps (Arm) 💪", heart_muscle: "Herzmuskel ❤️", stomach_muscle: "Magenmuskel 🫙", leg_muscle: "Beinmuskel 🦵",
-    r3Hint2: "Willkürlich: Bizeps, Beinmuskel | Unwillkürlich: Herz, Magen",
-    protection: "Schutz vor UV und Verletzungen 🛡️", temp_reg: "Temperaturregulation 🌡️", sensation: "Tast- und Schmerzempfindung 🤚", waterproof: "Hält den Körper wasserdicht 💧",
-    q_skin_sun: "☀️ Was macht die Haut zum Schutz vor UV-Strahlung?",
-    q_skin_cold: "🥶 Bei Kälte hilft die Haut, Wärme zu behalten. Welche Funktion?",
-    q_skin_touch: "🤚 Durch die Haut fühlt man Wärme, Kälte, Schmerz und Druck. Welche Funktion?",
+    // Round 1: Skeleton Functions
+    r1Title: "Skelettfunktionen",
+    r1Text: "Das Skelett ist ein Gerüst aus Knochen, das deinen Körper stützt. Es hat vier Hauptaufgaben:",
+    r1B1: "Stützen: Hält deinen Körper aufrecht und gibt ihm Form",
+    r1B2: "Schutz: Schützt lebenswichtige Organe wie das Gehirn (Schädel), Herz (Rippen), Lungen (Rippen)",
+    r1B3: "Bewegung: Muskeln sind an Knochen befestigt und bewegen sie, was Bewegung ermöglicht",
+    r1B4: "Blutproduktion: In Knochen werden in Mark rote Blutkörperchen gebildet",
+
+    // Round 2: Major Bones
+    r2Title: "Hauptknochen",
+    r2Text: "Diese Knochen sind wichtige Strukturen, die du kennen solltest:",
+    r2B1: "Schädel: Schützt das Gehirn und formt dein Gesicht",
+    r2B2: "Wirbelsäule: Verläuft den Rücken hinunter, stützt deinen Körper, schützt das Rückenmark",
+    r2B3: "Rippen: Käfig um die Brust, schützen Herz und Lungen",
+    r2B4: "Becken: Beckenförmiger Knochen, stützt Organe und Beine",
+    r2B5: "Oberschenkelknochen: Der längste Knochen, trägt Körpergewicht beim Stehen und Gehen",
+    r2B6: "Oberarmknochen: Ermöglicht Armbewegung an der Schulter",
+
+    // Round 3: Muscles & Movement
+    r3Title: "Muskeln & Bewegung",
+    r3Text: "Drei Arten von Muskeln arbeiten in deinem Körper, aber nur Skelettmuskeln sind unter deiner Kontrolle:",
+    r3B1: "Skelettmuskeln: Willkürlich — du kontrollierst sie. Bewegen deine Knochen. (Beispiel: Bizeps beim Armflexen)",
+    r3B2: "Glatte Muskeln: Unwillkürlich — dein Körper kontrolliert sie. In Magen, Darm, Blutgefäßen",
+    r3B3: "Herzmuskel: Unwillkürlich — nur im Herzen. Schlägt ohne dein Denken",
+    r3B4: "So funktionieren sie: Muskeln ziehen an Knochen paarweise. Wenn einer sich kontrahiert (verkürzt), zieht er; der andere entspannt sich (verlängert)",
+
+    // Round 4: Joints & Flexibility
+    r4Title: "Gelenke & Flexibilität",
+    r4Text: "Gelenke sind Stellen, an denen zwei Knochen treffen, was Bewegung und Flexibilität ermöglicht:",
+    r4B1: "Echte Gelenke (Schädel): Knochen verschmolzen, keine Bewegung. Schützt das Gehirn",
+    r4B2: "Scharniergelenke (Ellbogen, Knie): Bewegen sich vor und zurück wie eine Tür. Von Muskelpaaren gesteuert",
+    r4B3: "Kugelgelenke (Hüfte, Schulter): Bewegen sich in viele Richtungen. Geben große Flexibilität",
+    r4B4: "Knorpel: Glattes Gewebe zwischen Knochen reduziert Reibung und dämpft Stöße",
+
+    // Quiz Round 5
+    q1: "Welcher Knochen schützt das Gehirn?",
+    a1_skull: "Schädel",
+    a1_spine: "Wirbelsäule",
+    a1_ribs: "Rippen",
+    a1_femur: "Oberschenkelknochen",
+
+    q2: "Was ist die Hauptfunktion der Rippen?",
+    a2_protect: "Schützen Herz und Lungen",
+    a2_movement: "Ermöglichen Bewegung",
+    a2_support: "Stützen den Kopf",
+    a2_blood: "Bilden Blutzellen",
+
+    q3: "Welcher Muskeltyp wird willkürlich kontrolliert?",
+    a3_skeletal: "Skelettmuskeln",
+    a3_smooth: "Glatte Muskeln",
+    a3_cardiac: "Herzmuskel",
+    a3_all: "Alle drei Typen",
+
+    q4: "Was passiert, wenn sich ein Muskel kontrahiert?",
+    a4_shortens: "Er verkürzt sich und zieht einen Knochen",
+    a4_lengthens: "Er verlängert sich und drückt einen Knochen",
+    a4_vibrates: "Er vibriert schnell",
+    a4_relaxes: "Er entspannt sich und ruht",
+
+    q5: "Welches Gelenk erlaubt Bewegung in viele Richtungen?",
+    a5_ballsocket: "Kugelgelenk (Hüfte, Schulter)",
+    a5_hinge: "Scharniergelenk (Ellbogen, Knie)",
+    a5_fixed: "Echtes Gelenk (Schädel)",
+    a5_pivot: "Drehgelenk (Nacken)",
   },
+
   hu: {
-    next: "Tovább", finish: "Befejezés", correct: "Helyes! ✓", wrong: "Nem egészen — próbáld újra",
-    r1Title: "A csontváz funkciói", r1Hint: "Mit tesz a csontváz a testért?",
-    r2Title: "Melyik csont?", r2Hint: "Melyik csontot írják le?",
-    r3Title: "Izomtípusok", r3Hint: "Koppints: először akaratlagos, majd nem akaratlagos izmok.",
-    r3InProgress: "Csak így tovább!", r3Done: "Helyes csoportosítás! ✓",
-    r4Title: "A bőr funkciói", r4Hint: "Milyen szerepet játszik a bőr ebben a helyzetben?",
-    r5Title: "Gyors összefoglalás", r5Hint: "Vegyes kérdések az összes körből.",
-    support: "Egyenesen tartja a testet 🏗️", protect: "Megvédi a szerveket 🛡️", movement: "Lehetővé teszi a mozgást 💪", blood_cells: "Vérsejteket termel 🩸",
-    q_skel_stand: "🦴 A csontváz jóvoltából egyenesen állhatunk. Melyik funkció?",
-    q_skel_brain: "🧠 A koponya megvédi az agyat a sérüléstől. Melyik funkció?",
-    q_skel_blood: "🩸 A csontvelőben vörösvérsejtek képződnek. Melyik funkció?",
-    skull: "Koponya 💀", spine: "Gerincoszlop 🦴", ribs: "Bordák 🫁", femur: "Combcsont 🦵",
-    q_bone_head: "💀 Melyik csont védi az agyat?",
-    q_bone_back: "🦴 Melyik struktúra fut le a hátgerincen és tartja a testet?",
-    q_bone_chest: "🫁 Melyik csontok védik a szívet és a tüdőt?",
-    q_bone_leg: "🦵 Melyik az emberi test leghosszabb és legerősebb csontja?",
-    bicep: "Bicepsz (kar) 💪", heart_muscle: "Szívizom ❤️", stomach_muscle: "Gyomorfaliz 🫙", leg_muscle: "Lábizom 🦵",
-    r3Hint2: "Akaratlagos: bicepsz, lábizom | Nem akaratlagos: szívizom, gyomorizom",
-    protection: "Védelem UV és sérülés ellen 🛡️", temp_reg: "Hőszabályozás 🌡️", sensation: "Tapintás és fájdalomérzet 🤚", waterproof: "Vízhatlanná teszi a testet 💧",
-    q_skin_sun: "☀️ Mit tesz a bőr, hogy megvédjen az UV-sugárzástól?",
-    q_skin_cold: "🥶 Hidegben a bőr segít megőrizni a testhőt. Melyik funkció?",
-    q_skin_touch: "🤚 A bőrön át érzed a meleget, hideget, fájdalmat és nyomást. Melyik funkció?",
+    // Round 1: Skeleton Functions
+    r1Title: "A csontváz funkciói",
+    r1Text: "A csontváz csontokból álló váz, amely a tested támogatja. Négy fő feladata van:",
+    r1B1: "Támogatás: Tartja a tested egyenesen és adja meg az alakját",
+    r1B2: "Védelem: Megvédi az élelmes szerveket, mint az agy (koponya), szív (bordák), tüdő (bordák)",
+    r1B3: "Mozgás: Az izmok a csontokra tapadnak és mozgatják őket, mozgást hozva létre",
+    r1B4: "Vértermelés: A csontok belsejében a velőben vörösvérsejtek képződnek",
+
+    // Round 2: Major Bones
+    r2Title: "Fő csontok",
+    r2Text: "Ezek a csontok fontos struktúrák, amelyeket ismernél:",
+    r2B1: "Koponya: Megvédi az agyat és alakítja az arcod",
+    r2B2: "Gerincoszlop: A hátad mentén fut le, támogatja a tested, megvédi a gerincvelőt",
+    r2B3: "Bordák: Ketrecábra a mellkas körül, megvédik a szívet és tüdőt",
+    r2B4: "Medence: Medenceformájú csont, támogatja a szerveket és a lábakat",
+    r2B5: "Combcsont: A leghosszabb csont, hordja a testsúlyod álláskor és járáskor",
+    r2B6: "Felkarcsont: Lehetővé teszi a karmovement a váll mellett",
+
+    // Round 3: Muscles & Movement
+    r3Title: "Izmok & Mozgás",
+    r3Text: "Háromféle izom működik a tested, de csak a vázizmok vannak az irányítás alatt:",
+    r3B1: "Vázizmok: Akaratlagos — te irányítod őket. Mozgatják a csontjaidat. (Például: bicepsz, ha meghajlítod a karod)",
+    r3B2: "Sima izmok: Nem akaratlagos — a tested irányítja őket. A gyomorban, szoros, erekben",
+    r3B3: "Szívizom: Nem akaratlagos — csak a szívben. A gondolatod nélkül ver",
+    r3B4: "Hogyan működnek: Az izmok páros csontokat húznak. Ha az egyik összehúzódik (rövidül), húz; a másik ellazít (meghosszabbodik)",
+
+    // Round 4: Joints & Flexibility
+    r4Title: "Ízületek & Rugalmasság",
+    r4Text: "Az ízületek azok a helyek, ahol két csont találkozik, lehetővé téve a mozgást és rugalmasságot:",
+    r4B1: "Rögzített ízületek (Koponya): Csontok összenőve, mozgás. Megvédi az agyat",
+    r4B2: "Ajtózár ízületek (Könyök, Térd): Előre és hátra mozognak, mint egy ajtó. Az izmok párok irányítják",
+    r4B3: "Gömb ízületek (Csípő, Váll): Sok irányba mozognak. Nagy rugalmasságot adnak",
+    r4B4: "Porc: Sima szövet a csontok között csökkenti a súrlódást és csillapítja az ütéseket",
+
+    // Quiz Round 5
+    q1: "Melyik csont megvédi az agyat?",
+    a1_skull: "Koponya",
+    a1_spine: "Gerincoszlop",
+    a1_ribs: "Bordák",
+    a1_femur: "Combcsont",
+
+    q2: "Mi a bordák fő funkciója?",
+    a2_protect: "Megvédi a szívet és tüdőt",
+    a2_movement: "Lehetővé teszi a mozgást",
+    a2_support: "Támogatja a fejet",
+    a2_blood: "Vérsejteket termel",
+
+    q3: "Melyik izomtípus akaratlagos?",
+    a3_skeletal: "Vázizmok",
+    a3_smooth: "Sima izmok",
+    a3_cardiac: "Szívizom",
+    a3_all: "Mindhárom típus",
+
+    q4: "Mi történik, amikor egy izom összehúzódik?",
+    a4_shortens: "Rövidül és húz egy csontot",
+    a4_lengthens: "Meghosszabbodik és nyom egy csontot",
+    a4_vibrates: "Gyorsan rezeg",
+    a4_relaxes: "Ellazít és pihen",
+
+    q5: "Melyik ízület sokféle irányú mozgást enged?",
+    a5_ballsocket: "Gömb ízület (csípő, váll)",
+    a5_hinge: "Ajtózár ízület (könyök, térd)",
+    a5_fixed: "Rögzített ízület (koponya)",
+    a5_pivot: "Forgó ízület (nyak)",
   },
+
   ro: {
-    next: "Înainte", finish: "Gata", correct: "Corect! ✓", wrong: "Nu chiar — mai încearcă",
-    r1Title: "Funcțiile scheletului", r1Hint: "Ce face scheletul pentru corp?",
-    r2Title: "Ce os este?", r2Hint: "Ce os este descris?",
-    r3Title: "Tipuri de mușchi", r3Hint: "Atinge: întâi mușchi voluntari, apoi involuntari.",
-    r3InProgress: "Continuă!", r3Done: "Grupare corectă! ✓",
-    r4Title: "Funcțiile pielii", r4Hint: "Ce rol joacă pielea în această situație?",
-    r5Title: "Recapitulare rapidă", r5Hint: "Întrebări mixte din toate rundele.",
-    support: "Susține corpul drept 🏗️", protect: "Protejează organele 🛡️", movement: "Permite mișcarea 💪", blood_cells: "Produce celule sanguine 🩸",
-    q_skel_stand: "🦴 Datorită scheletului putem sta drepți. Ce funcție?",
-    q_skel_brain: "🧠 Craniul protejează creierul de daune. Ce funcție?",
-    q_skel_blood: "🩸 În interiorul oaselor se produc globule roșii. Ce funcție?",
-    skull: "Craniu 💀", spine: "Coloana vertebrală 🦴", ribs: "Coaste 🫁", femur: "Femur (os coapsă) 🦵",
-    q_bone_head: "💀 Ce os protejează creierul?",
-    q_bone_back: "🦴 Ce structură coboară pe spate și susține corpul?",
-    q_bone_chest: "🫁 Ce oase protejează inima și plămânii?",
-    q_bone_leg: "🦵 Care este cel mai lung și mai puternic os din corpul uman?",
-    bicep: "Biceps (braț) 💪", heart_muscle: "Mușchiul inimii ❤️", stomach_muscle: "Mușchiul stomacului 🫙", leg_muscle: "Mușchiul piciorului 🦵",
-    r3Hint2: "Voluntar: biceps, mușchi picior | Involuntar: inimă, stomac",
-    protection: "Protecție UV și leziuni 🛡️", temp_reg: "Reglarea temperaturii 🌡️", sensation: "Simțul tactil și durerea 🤚", waterproof: "Impermeabilizează corpul 💧",
-    q_skin_sun: "☀️ Ce face pielea pentru a te proteja de razele UV?",
-    q_skin_cold: "🥶 La frig, pielea ajută la păstrarea căldurii. Ce funcție?",
-    q_skin_touch: "🤚 Prin piele simți căldura, frigul, durerea și presiunea. Ce funcție?",
+    // Round 1: Skeleton Functions
+    r1Title: "Funcțiile scheletului",
+    r1Text: "Scheletul este o structură din oase care susține corpul tău. Are patru sarcini principale:",
+    r1B1: "Suport: Ține corpul drept și îi dă forma",
+    r1B2: "Protecție: Protejează organele vitale precum creierul (craniu), inima (coaste), plămânii (coaste)",
+    r1B3: "Mișcare: Mușchii sunt atașați la oase și le mișcă, creând mișcare",
+    r1B4: "Producție de sânge: În oase, în măduva oaselor se produc globule roșii",
+
+    // Round 2: Major Bones
+    r2Title: "Oase majore",
+    r2Text: "Aceste oase sunt structuri cheie pe care ar trebui să le cunoști:",
+    r2B1: "Craniu: Protejează creierul și formează fața",
+    r2B2: "Coloana vertebrală: Se prelungește pe spate, susține corpul, protejează măduva spinării",
+    r2B3: "Coaste: Cușcă în jurul pieptului, protejează inima și plămânii",
+    r2B4: "Pelvis: Os în formă de bazin, susține organele și picioarele",
+    r2B5: "Femur: Cel mai lung os, suportă greutatea corpului în timp ce stai și mergi",
+    r2B6: "Humerus: Permite mișcarea brațului la umăr",
+
+    // Round 3: Muscles & Movement
+    r3Title: "Mușchi & Mișcare",
+    r3Text: "Trei tipuri de mușchi lucrează în corpul tău, dar doar mușchii scheletici sunt sub control:",
+    r3B1: "Mușchi scheletici: Voluntari — tu îi controlezi. Mișcă oasele. (Exemplu: biceps când îți încrețești brațul)",
+    r3B2: "Mușchi lin: Involuntar — corpul tău îi controlează. În stomac, intestine, vase de sânge",
+    r3B3: "Mușchiul cardiac: Involuntar — doar în inimă. Bate fără să te gândești",
+    r3B4: "Cum funcționează: Mușchii trag pe oase în perechi. Când unul se contractă (se scurtează), trage; celălalt se relaxează (se alungește)",
+
+    // Round 4: Joints & Flexibility
+    r4Title: "Articulații & Flexibilitate",
+    r4Text: "Articulațiile sunt locuri în care doi oase se întâlnesc, permițând mișcare și flexibilitate:",
+    r4B1: "Articulații fixe (Craniu): Oasele fuzionate, fără mișcare. Protejează creierul",
+    r4B2: "Articulații balamale (Cot, Genunchi): Se mișcă înainte și înapoi ca o ușă. Controlate de perechi de mușchi",
+    r4B3: "Articulații sferice (Șold, Umăr): Se mișcă în mai multe direcții. Oferă mare flexibilitate",
+    r4B4: "Cartilaj: Țesut neted între oase reduce fricțiunea și amortizează impacturile",
+
+    // Quiz Round 5
+    q1: "Care os protejează creierul?",
+    a1_skull: "Craniu",
+    a1_spine: "Coloana vertebrală",
+    a1_ribs: "Coaste",
+    a1_femur: "Femur",
+
+    q2: "Care este funcția principală a coastelor?",
+    a2_protect: "Protejează inima și plămânii",
+    a2_movement: "Permit mișcarea",
+    a2_support: "Susțin capul",
+    a2_blood: "Produc celule de sânge",
+
+    q3: "Ce tip de mușchi controlezi voluntar?",
+    a3_skeletal: "Mușchi scheletici",
+    a3_smooth: "Mușchi lin",
+    a3_cardiac: "Mușchiul cardiac",
+    a3_all: "Toate trei tipuri",
+
+    q4: "Ce se întâmplă când un mușchi se contractă?",
+    a4_shortens: "Se scurtează și trage un os",
+    a4_lengthens: "Se alungește și împinge un os",
+    a4_vibrates: "Vibrează rapid",
+    a4_relaxes: "Se relaxează și se odihnește",
+
+    q5: "Care articulație permite mișcarea în mai multe direcții?",
+    a5_ballsocket: "Articulație sferică (șold, umăr)",
+    a5_hinge: "Articulație balamală (cot, genunchi)",
+    a5_fixed: "Articulație fixă (craniu)",
+    a5_pivot: "Articulație pivotantă (gât)",
   },
 };
 
-function shuffle<T>(arr: T[]): T[] { const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a; }
+// ─────────────────────────────────────────────────────────────────────────────
+// SVG Illustrations
+// ─────────────────────────────────────────────────────────────────────────────
 
-const SKEL_POOL: MCQQuestion[] = [
-  { emoji: "🦴", question: "q_skel_stand", choices: shuffle(["support","protect","movement","blood_cells"]), answer: "support" },
-  { emoji: "🧠", question: "q_skel_brain", choices: shuffle(["protect","support","movement","blood_cells"]), answer: "protect" },
-  { emoji: "🩸", question: "q_skel_blood", choices: shuffle(["blood_cells","support","protect","movement"]), answer: "blood_cells" },
-];
-const BONE_POOL: MCQQuestion[] = [
-  { emoji: "💀", question: "q_bone_head", choices: shuffle(["skull","spine","ribs","femur"]), answer: "skull" },
-  { emoji: "🦴", question: "q_bone_back", choices: shuffle(["spine","skull","ribs","femur"]), answer: "spine" },
-  { emoji: "🫁", question: "q_bone_chest", choices: shuffle(["ribs","spine","skull","femur"]), answer: "ribs" },
-  { emoji: "🦵", question: "q_bone_leg", choices: shuffle(["femur","ribs","spine","skull"]), answer: "femur" },
-];
-const SKIN_POOL: MCQQuestion[] = [
-  { emoji: "☀️", question: "q_skin_sun", choices: shuffle(["protection","temp_reg","sensation","waterproof"]), answer: "protection" },
-  { emoji: "🥶", question: "q_skin_cold", choices: shuffle(["temp_reg","protection","sensation","waterproof"]), answer: "temp_reg" },
-  { emoji: "🤚", question: "q_skin_touch", choices: shuffle(["sensation","protection","temp_reg","waterproof"]), answer: "sensation" },
-];
-// Muscle order: voluntary first (bicep, leg), involuntary last (heart, stomach)
-const MUSCLE_ORDER = ["bicep","leg_muscle","heart_muscle","stomach_muscle"] as const;
-const TOTAL_ROUNDS = 5;
+function SVG_R1(lang: string) {
+  const l = LABELS[lang] || LABELS.en;
+  const colors = ["#FF6B6B", "#4ECDC4", "#45B7D1", "#F9CA24"];
+  const badges = [
+    { icon: "🏗️", label: "support", color: colors[0] },
+    { icon: "🛡️", label: "protect", color: colors[1] },
+    { icon: "💪", label: "movement", color: colors[2] },
+    { icon: "🩸", label: "blood_cells", color: colors[3] },
+  ];
 
-function SkeletonExplorer({ color, lang = "de", onDone }: Props) {
-  const t = LABELS[lang] ?? LABELS.de;
-  const r1Qs = useMemo(() => shuffle(SKEL_POOL), []);
-  const r2Qs = useMemo(() => shuffle(BONE_POOL), []);
-  const r4Qs = useMemo(() => shuffle(SKIN_POOL), []);
-  const r5Qs = useMemo(() => shuffle([...SKEL_POOL,...BONE_POOL,...SKIN_POOL]).slice(0,3), []);
-  const [scrambled] = useState(() => shuffle([...MUSCLE_ORDER]));
-  const [round, setRound] = useState(0); const [subIdx, setSubIdx] = useState(0);
-  const [selected, setSelected] = useState<string|null>(null); const [locked, setLocked] = useState(false);
-  const [tapped, setTapped] = useState<string[]>([]); const [orderWrong, setOrderWrong] = useState<string|null>(null);
-  const scoreRef = useRef(0); const totalRef = useRef(0);
-  const resetSub = useCallback(() => { setSelected(null); setLocked(false); }, []);
-  const advanceRound = useCallback(() => { if (round>=TOTAL_ROUNDS-1) onDone(scoreRef.current,totalRef.current); else { setRound(r=>r+1); setSubIdx(0); resetSub(); setTapped([]); setOrderWrong(null); } }, [round,onDone,resetSub]);
-  const advanceSub = useCallback((qs: MCQQuestion[], isLast=false) => { if (subIdx<qs.length-1) { setSubIdx(i=>i+1); resetSub(); } else { if(isLast) onDone(scoreRef.current,totalRef.current); else advanceRound(); } }, [subIdx,advanceRound,onDone,resetSub]);
-  const handleSelect = useCallback((key: string, correct: string) => { if(locked) return; setSelected(key); setLocked(true); totalRef.current+=1; if(key===correct) scoreRef.current+=1; }, [locked]);
-  const handleOrderTap = useCallback((key: string) => { if(tapped.includes(key)) return; const expected=MUSCLE_ORDER[tapped.length]; if(key===expected) { const next=[...tapped,key]; setTapped(next); setOrderWrong(null); if(next.length===MUSCLE_ORDER.length) { totalRef.current+=1; scoreRef.current+=1; setTimeout(()=>advanceRound(),700); } } else { setOrderWrong(key); totalRef.current+=1; setTimeout(()=>setOrderWrong(null),600); } }, [tapped,advanceRound]);
-  const renderNext = (onNext: ()=>void, isFinish=false) => <motion.button onClick={onNext} className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2" style={{background:`linear-gradient(135deg,${color}55,${color}99)`,border:`2px solid ${color}`}} whileTap={{scale:0.97}} initial={{opacity:0,y:6}} animate={{opacity:1,y:0}}>{isFinish?t.finish:t.next} <ChevronRight size={16}/></motion.button>;
-  const renderMCQ = (qs: MCQQuestion[], title: string, hint: string, isLast=false) => { const q=qs[subIdx]; const isCorrect=locked&&selected===q.answer; return (<>
-    {qs.length>1&&<div className="flex gap-1 justify-center mb-1">{qs.map((_,i)=><div key={i} className="w-2 h-2 rounded-full" style={{background:i<subIdx?"#00FF88":i===subIdx?color:"rgba(255,255,255,0.15)"}}/>)}</div>}
-    <p className="text-xl font-black text-white text-center">{title}</p>
-    <p className="text-white/60 text-xs font-bold text-center px-4">{hint}</p>
-    <div className="w-full max-w-xs rounded-2xl px-4 py-4 text-center" style={{background:"rgba(255,255,255,0.06)",border:`1.5px solid ${color}33`}}><p className="text-base font-semibold text-white/90 leading-snug">{t[q.question]}</p></div>
-    <div className="flex flex-col gap-2 w-full max-w-xs">{q.choices.map(k=>{const isThis=selected===k,isRight=k===q.answer; let bg="rgba(255,255,255,0.06)",border="rgba(255,255,255,0.1)",tc="text-white"; if(locked){if(isRight){bg=`${color}33`;border=color;}else if(isThis){bg="#FF2D7833";border="#FF2D78";tc="text-white/70";}}else if(isThis){bg=`${color}22`;border=color;} return <motion.button key={k} onClick={()=>handleSelect(k,q.answer)} disabled={locked} className={`w-full py-3 px-4 rounded-xl font-bold text-sm transition-all ${tc}`} style={{background:bg,border:`2px solid ${border}`}} whileTap={locked?{}:{scale:0.97}}>{t[k]}</motion.button>;})}</div>
-    {locked&&<motion.p initial={{opacity:0,y:4}} animate={{opacity:1,y:0}} className="text-sm font-bold text-center" style={{color:isCorrect?"#00FF88":"#FF2D78"}}>{isCorrect?t.correct:t.wrong}</motion.p>}
-    {locked&&renderNext(()=>advanceSub(qs,isLast),isLast&&subIdx===qs.length-1)}
-  </>); };
-  const renderOrder = () => { const allDone=tapped.length===MUSCLE_ORDER.length; return (<>
-    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
-    <p className="text-white/60 text-xs font-bold text-center px-4">{t.r3Hint}</p>
-    <p className="text-white/40 text-xs text-center px-4">{t.r3Hint2}</p>
-    <div className="flex gap-2 flex-wrap justify-center min-h-[2rem]">{tapped.map((k,i)=><motion.span key={k} initial={{scale:0.7,opacity:0}} animate={{scale:1,opacity:1}} className="px-3 py-1 rounded-full text-xs font-black text-white" style={{background:`${color}55`,border:`1.5px solid ${color}`}}>{i+1}. {t[k]}</motion.span>)}</div>
-    <p className="text-xs font-bold text-center" style={{color:allDone?"#00FF88":"rgba(255,255,255,0.4)"}}>{allDone?t.r3Done:t.r3InProgress}</p>
-    <div className="flex flex-col gap-2 w-full max-w-xs">{scrambled.map(key=>{const done=tapped.includes(key),isWrong=orderWrong===key; return <motion.button key={key} onClick={()=>handleOrderTap(key)} disabled={done} className="w-full py-3 px-4 rounded-xl font-bold text-sm text-white" style={{background:done?`${color}22`:"rgba(255,255,255,0.06)",border:`2px solid ${done?color:isWrong?"#FF2D78":"rgba(255,255,255,0.1)"}`,opacity:done?0.45:1}} animate={isWrong?{x:[-6,6,-4,4,0]}:{}} transition={{duration:0.35}} whileTap={done?{}:{scale:0.97}}>{t[key]}</motion.button>;})}</div>
-  </>); };
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      <div className="flex justify-center gap-1.5 pt-4 pb-2">{Array.from({length:TOTAL_ROUNDS},(_,i)=><div key={i} className="w-2.5 h-2.5 rounded-full" style={{background:i<round?"#00FF88":i===round?color:"rgba(255,255,255,0.15)"}}/>)}</div>
-      <AnimatePresence mode="wait">
-        <motion.div key={`${round}-${subIdx}`} initial={{opacity:0,x:30}} animate={{opacity:1,x:0}} exit={{opacity:0,x:-30}} className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
-          {round===0&&renderMCQ(r1Qs,t.r1Title,t.r1Hint)}
-          {round===1&&renderMCQ(r2Qs,t.r2Title,t.r2Hint)}
-          {round===2&&renderOrder()}
-          {round===3&&renderMCQ(r4Qs,t.r4Title,t.r4Hint)}
-          {round===4&&renderMCQ(r5Qs,t.r5Title,t.r5Hint,true)}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r1_skeleton" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#e8c4a0" />
+          <stop offset="100%" stopColor="#d4a574" />
+        </linearGradient>
+        <filter id="r1_glow">
+          <feGaussianBlur stdDeviation="1" result="coloredBlur" />
+          <feMerge>
+            <feMergeNode in="coloredBlur" />
+            <feMergeNode in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+
+      {/* Dark background */}
+      <rect width="240" height="160" fill="#0a0a14" />
+
+      {/* Center skeleton silhouette */}
+      <g>
+        {/* Head */}
+        <circle cx="120" cy="35" r="12" fill="url(#r1_skeleton)" filter="url(#r1_glow)" />
+        {/* Spine */}
+        <rect x="116" y="48" width="8" height="35" fill="url(#r1_skeleton)" filter="url(#r1_glow)" />
+        {/* Ribcage */}
+        <ellipse cx="120" cy="70" rx="18" ry="14" fill="none" stroke="url(#r1_skeleton)" strokeWidth="2" filter="url(#r1_glow)" />
+        {/* Pelvis */}
+        <ellipse cx="120" cy="95" rx="16" ry="10" fill="none" stroke="url(#r1_skeleton)" strokeWidth="2" filter="url(#r1_glow)" />
+        {/* Left arm */}
+        <line x1="102" y1="60" x2="90" y2="50" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        {/* Right arm */}
+        <line x1="138" y1="60" x2="150" y2="50" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        {/* Left leg */}
+        <line x1="110" y1="105" x2="108" y2="135" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+        {/* Right leg */}
+        <line x1="130" y1="105" x2="132" y2="135" stroke="url(#r1_skeleton)" strokeWidth="3" filter="url(#r1_glow)" />
+      </g>
+
+      {/* Function badges around skeleton */}
+      {badges.map((b, i) => {
+        const angles = [0, 90, 180, 270];
+        const angle = (angles[i] * Math.PI) / 180;
+        const radius = 65;
+        const cx = 120 + radius * Math.cos(angle);
+        const cy = 80 + radius * Math.sin(angle);
+
+        return (
+          <g key={i}>
+            {/* Circle background */}
+            <circle cx={cx} cy={cy} r="18" fill={b.color} opacity="0.2" />
+            <circle cx={cx} cy={cy} r="18" fill="none" stroke={b.color} strokeWidth="1.5" />
+            {/* Badge icon */}
+            <text x={cx} y={cy + 7} textAnchor="middle" fontSize="18" dominantBaseline="middle">
+              {b.icon}
+            </text>
+          </g>
+        );
+      })}
+
+      {/* Legend */}
+      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
+        4 Functions
+      </text>
+    </svg>
   );
 }
-export default memo(SkeletonExplorer);
+
+function SVG_R2(lang: string) {
+  const l = LABELS[lang] || LABELS.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r2_bone" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#f0e6d2" />
+          <stop offset="100%" stopColor="#c9b8a0" />
+        </linearGradient>
+        <filter id="r2_shadow">
+          <feGaussianBlur stdDeviation="1.5" />
+        </filter>
+      </defs>
+
+      <rect width="240" height="160" fill="#0a0a14" />
+
+      {/* Skeleton with labeled bones */}
+      <g>
+        {/* Skull */}
+        <circle cx="120" cy="30" r="10" fill="url(#r2_bone)" />
+        <text x="120" y="52" textAnchor="middle" fontSize="10" fill="#e8c4a0" fontWeight="bold">
+          💀
+        </text>
+        <line x1="120" y1="40" x2="120" y2="48" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="135" y="48" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Skull
+        </text>
+
+        {/* Spine */}
+        <rect x="116" y="45" width="8" height="32" fill="url(#r2_bone)" />
+        <line x1="128" y1="60" x2="150" y2="60" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="155" y="63" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Spine
+        </text>
+
+        {/* Ribs */}
+        <ellipse cx="120" cy="68" rx="16" ry="11" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
+        <line x1="104" y1="68" x2="85" y2="68" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="70" y="71" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Ribs
+        </text>
+
+        {/* Pelvis */}
+        <ellipse cx="120" cy="100" rx="14" ry="8" fill="none" stroke="url(#r2_bone)" strokeWidth="2" />
+        <line x1="134" y1="100" x2="160" y2="100" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="165" y="103" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Pelvis
+        </text>
+
+        {/* Femur (left leg) */}
+        <line x1="110" y1="108" x2="105" y2="135" stroke="url(#r2_bone)" strokeWidth="3" />
+        <line x1="89" y1="125" x2="105" y2="135" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="75" y="128" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Femur
+        </text>
+
+        {/* Humerus (left arm) */}
+        <line x1="104" y1="55" x2="85" y2="38" stroke="url(#r2_bone)" strokeWidth="2.5" />
+        <line x1="75" y1="42" x2="85" y2="38" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="2,2" />
+        <text x="68" y="34" fontSize="9" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Humerus
+        </text>
+      </g>
+
+      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
+        Major Bones
+      </text>
+    </svg>
+  );
+}
+
+function SVG_R3(lang: string) {
+  const l = LABELS[lang] || LABELS.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r3_skeletal" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF6B6B" />
+          <stop offset="100%" stopColor="#cc5555" />
+        </linearGradient>
+        <linearGradient id="r3_smooth" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FFA500" />
+          <stop offset="100%" stopColor="#cc8400" />
+        </linearGradient>
+        <linearGradient id="r3_cardiac" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF1744" />
+          <stop offset="100%" stopColor="#cc1133" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="#0a0a14" />
+
+      {/* Three muscle types */}
+
+      {/* Left: Skeletal (Arm) */}
+      <g>
+        <rect x="20" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
+        <text x="47.5" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
+          Skeletal
+        </text>
+        {/* Bicep */}
+        <ellipse cx="35" cy="70" rx="8" ry="15" fill="url(#r3_skeletal)" />
+        <text x="35" y="72" textAnchor="middle" fontSize="20" dominantBaseline="middle">
+          💪
+        </text>
+        {/* Label */}
+        <text x="47.5" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Voluntary
+        </text>
+        <text x="47.5" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
+          (You control)
+        </text>
+      </g>
+
+      {/* Center: Smooth (Stomach) */}
+      <g>
+        <rect x="92.5" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
+        <text x="120" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
+          Smooth
+        </text>
+        {/* Stomach */}
+        <path
+          d="M 110 65 Q 115 55 125 60 Q 130 70 120 80 Q 110 85 105 75 Z"
+          fill="url(#r3_smooth)"
+        />
+        <text x="120" y="72" textAnchor="middle" fontSize="20" dominantBaseline="middle">
+          🫙
+        </text>
+        {/* Label */}
+        <text x="120" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Involuntary
+        </text>
+        <text x="120" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
+          (Body controls)
+        </text>
+      </g>
+
+      {/* Right: Cardiac (Heart) */}
+      <g>
+        <rect x="165" y="20" width="55" height="120" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="1" />
+        <text x="192.5" y="35" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)" fontWeight="bold">
+          Cardiac
+        </text>
+        {/* Heart */}
+        <path
+          d="M 192 65 L 188 60 Q 185 55 182 60 Q 180 65 185 72 L 192 80 L 199 72 Q 204 65 202 60 Q 199 55 196 60 Z"
+          fill="url(#r3_cardiac)"
+        />
+        <text x="192" y="68" textAnchor="middle" fontSize="20" dominantBaseline="middle">
+          ❤️
+        </text>
+        {/* Label */}
+        <text x="192.5" y="105" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.7)" fontWeight="500">
+          Involuntary
+        </text>
+        <text x="192.5" y="115" textAnchor="middle" fontSize="8" fill="rgba(255,255,255,0.6)">
+          (Always beats)
+        </text>
+      </g>
+    </svg>
+  );
+}
+
+function SVG_R4(lang: string) {
+  const l = LABELS[lang] || LABELS.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="r4_joint" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#45B7D1" />
+          <stop offset="100%" stopColor="#2a7da5" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="#0a0a14" />
+
+      {/* Joint types */}
+
+      {/* Hinge joint (Elbow-like) */}
+      <g>
+        {/* Upper arm */}
+        <line x1="40" y1="40" x2="40" y2="70" stroke="#d4a574" strokeWidth="4" />
+        {/* Joint circle */}
+        <circle cx="40" cy="70" r="5" fill="url(#r4_joint)" />
+        {/* Lower arm */}
+        <line x1="40" y1="70" x2="40" y2="100" stroke="#c9b8a0" strokeWidth="4" />
+        {/* Flex arrow */}
+        <path d="M 50 80 Q 65 75 70 65" fill="none" stroke="rgba(255,200,100,0.6)" strokeWidth="1.5" markerEnd="url(#arrow)" />
+        {/* Label */}
+        <text x="40" y="125" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.8)" fontWeight="bold">
+          Hinge
+        </text>
+        <text x="40" y="135" textAnchor="middle" fontSize="7" fill="rgba(255,255,255,0.5)">
+          (Back/Forth)
+        </text>
+      </g>
+
+      {/* Ball & Socket joint (Hip-like) */}
+      <g>
+        {/* Pelvis */}
+        <ellipse cx="140" cy="50" rx="12" ry="8" fill="none" stroke="#d4a574" strokeWidth="2" />
+        {/* Joint sphere */}
+        <circle cx="140" cy="75" r="7" fill="url(#r4_joint)" />
+        {/* Femur */}
+        <line x1="140" y1="82" x2="140" y2="110" stroke="#c9b8a0" strokeWidth="4" />
+        {/* Multi-direction arrows */}
+        <path d="M 155 75 L 165 75" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
+        <path d="M 125 75 L 115 75" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
+        <path d="M 140 60 L 140 50" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
+        {/* Label */}
+        <text x="140" y="125" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.8)" fontWeight="bold">
+          Ball & Socket
+        </text>
+        <text x="140" y="135" textAnchor="middle" fontSize="7" fill="rgba(255,255,255,0.5)">
+          (Multi-direction)
+        </text>
+      </g>
+
+      {/* Cartilage cushion illustration */}
+      <g>
+        {/* Two bone surfaces */}
+        <rect x="220" y="50" width="8" height="15" fill="#d4a574" rx="1" />
+        <rect x="220" y="70" width="8" height="15" fill="#d4a574" rx="1" />
+        {/* Cartilage between */}
+        <rect x="220" y="65" width="8" height="5" fill="rgba(100,255,200,0.4)" />
+        {/* Label */}
+        <text x="240" y="80" fontSize="7" fill="rgba(255,255,255,0.5)" fontWeight="500">
+          Cartilage
+        </text>
+      </g>
+
+      <text x="120" y="155" textAnchor="middle" fontSize="11" fill="rgba(255,255,255,0.5)" fontWeight="600">
+        Types of Joints
+      </text>
+    </svg>
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Explorer Definition
+// ─────────────────────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    // Round 1: Skeleton Functions (INFO)
+    {
+      type: "info",
+      infoTitle: "r1Title",
+      infoText: "r1Text",
+      svg: SVG_R1,
+      bulletKeys: ["r1B1", "r1B2", "r1B3", "r1B4"],
+    },
+
+    // Round 2: Major Bones (INFO)
+    {
+      type: "info",
+      infoTitle: "r2Title",
+      infoText: "r2Text",
+      svg: SVG_R2,
+      bulletKeys: ["r2B1", "r2B2", "r2B3", "r2B4", "r2B5", "r2B6"],
+    },
+
+    // Round 3: Muscles & Movement (INFO)
+    {
+      type: "info",
+      infoTitle: "r3Title",
+      infoText: "r3Text",
+      svg: SVG_R3,
+      bulletKeys: ["r3B1", "r3B2", "r3B3", "r3B4"],
+    },
+
+    // Round 4: Joints & Flexibility (INFO)
+    {
+      type: "info",
+      infoTitle: "r4Title",
+      infoText: "r4Text",
+      svg: SVG_R4,
+      bulletKeys: ["r4B1", "r4B2", "r4B3", "r4B4"],
+    },
+
+    // Round 5: Quiz (MCQ)
+    {
+      type: "mcq",
+      infoTitle: "r1Title",
+      infoText: "r1Text",
+      svg: () => (
+        <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+          <rect width="240" height="160" fill="#0a0a14" />
+          <text x="120" y="80" textAnchor="middle" fontSize="14" fill="rgba(255,255,255,0.6)" fontWeight="bold">
+            🧠 Time to Review!
+          </text>
+        </svg>
+      ),
+      questions: [
+        {
+          question: "q1",
+          choices: ["a1_skull", "a1_spine", "a1_ribs", "a1_femur"],
+          answer: "a1_skull",
+        },
+        {
+          question: "q2",
+          choices: ["a2_protect", "a2_movement", "a2_support", "a2_blood"],
+          answer: "a2_protect",
+        },
+        {
+          question: "q3",
+          choices: ["a3_skeletal", "a3_smooth", "a3_cardiac", "a3_all"],
+          answer: "a3_skeletal",
+        },
+        {
+          question: "q4",
+          choices: ["a4_shortens", "a4_lengthens", "a4_vibrates", "a4_relaxes"],
+          answer: "a4_shortens",
+        },
+        {
+          question: "q5",
+          choices: ["a5_ballsocket", "a5_hinge", "a5_fixed", "a5_pivot"],
+          answer: "a5_ballsocket",
+        },
+      ],
+    },
+  ],
+};
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Component
+// ─────────────────────────────────────────────────────────────────────────────
+
+interface Props {
+  color?: string;
+  lang?: string;
+  onDone?: (score: number, total: number) => void;
+}
+
+export default function SkeletonExplorer({ color = "#3B82F6", lang = "en", onDone }: Props) {
+  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
+}
