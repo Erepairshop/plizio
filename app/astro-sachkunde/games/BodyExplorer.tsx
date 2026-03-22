@@ -178,14 +178,20 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     round1Title: "Părțile corpului",
     round1Hint: "Atinge partea evidențiată a corpului!",
+    round1Teach: "Corpul nostru are multe părți! Avem o cap, brațe, picioare, mâini și tălpi. Înăuntru avem o inimă care pompează sânge, plămâni pentru respirație și un creier pentru gândire.",
     round2Title: "Care organ?",
     round2Hint: "Care organ folosim pentru asta?",
+    round2Teach: "Avem 5 simțuri pentru a explora lumea! Ochi pentru a vedea, urechi pentru a auzi, nas pentru a mirosi, limbă pentru a gusta și piele pentru a atinge.",
     round3Title: "Ce putem face cu el?",
     round3Hint: "Ce putem face cu acest organ?",
+    round3Teach: "Simțurile noastre ne ajută să experimentăm lumea — ochii ne ajută să vedem culori și forme, urechile ne ajută să auzim sunete și nasul și limba ne ajută să ne bucurăm de mâncare!",
     round4Title: "Obiceiuri sănătoase",
     round4Hint: "Este sănătos sau nesănătos?",
+    round4Teach: "Pentru a rămâne sănătos, trebuie să ne spălăm pe dinți de două ori pe zi, să ne spălăm pe mâini înainte de a mânca, să mâncăm fructe și legume, să dormim suficient și să facem sport în fiecare zi!",
     round5Title: "Recapitulare rapidă",
     round5Hint: "Răspunde la întrebare!",
+    round5Teach: "Să recapitulăm ce ai învățat despre corpul tău, simțurile tale și rămânerea sănătos!",
+    gotIt: "Am înțeles! →",
     next: "Înainte",
     finish: "Gata",
     correct: "Corect!",
@@ -850,6 +856,27 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
 
           {/* ═══ ROUND 4 — Mixed review ═══ */}
           {round === 4 && (() => {
+            if (showTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{lbl.round5Title}</p>
+                    <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
+                  </div>
+                  <motion.button onClick={() => setShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}>
+                    {lbl.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = reviewQuestions[reviewIdx];
             if (!q) return null;
             const opts = useMemo(() => shuffle(q.options), [reviewIdx]); // eslint-disable-line

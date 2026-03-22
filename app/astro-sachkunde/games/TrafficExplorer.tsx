@@ -100,6 +100,7 @@ const L: Record<string, Record<string, string>> = {
     b_crosswalk: "Használd a zebrát az átkeléshez", b_redLight: "Piros jelzésnél kelj át",
     b_holdHand: "Forgalom közelében fogd meg egy felnőtt kezét", b_phoneCross: "Átkelés közben a telefonodat nézd",
     r3Title: "Közlekedési táblák", r3Hint: "Mit jelent ez a tábla?",
+    r3Teach: "A közlekedési táblák fontos dolgokat mondanak el! A STOP tábla azt jelenti, hogy teljesen meg kell állni. A gyalogos tábla azt mutatja, hol lehet járni. A sebességkorlátozó táblák az autóknak mondják meg, milyen gyorsan mehetnek.",
     s_stop: "🛑 Nyolcszögletű piros tábla", s_stopA: "Teljesen megállni",
     s_stopW1: "Gyorsítani", s_stopW2: "Jobbra fordulni", s_stopW3: "Dudálni",
     s_ped: "🚶 Gyalogos jelzés", s_pedA: "Gyalogos átkelőhely",
@@ -109,6 +110,7 @@ const L: Record<string, Record<string, string>> = {
     s_speed: "30 piros körben", s_speedA: "Sebességkorlátozás 30",
     s_speedW1: "Útszám", s_speedW2: "30 perc menetidő", s_speedW3: "Távolságjelzés",
     r4Title: "Gyalogos szabályok", r4Hint: "Mit kell tenned?",
+    r4Teach: "A biztonsági felszerelés megvéd bennünket! Viselj sisakkot kerékpározáskor, használj biztonsági övet az autóban, viselj visszafényes ruházatot, amikor sötét van, és mindig használd az járdát.",
     p1Q: "Át akarsz kelni az úton. Mit csinálsz először?",
     p1A: "Balra, jobbra, majd ismét balra nézel", p1W1: "Egyszerűen átszaladsz", p1W2: "Becsukod a szemed és mész", p1W3: "Megvárod míg egy autó magától megáll",
     p2Q: "A gyalogos lámpa zöldre vált. Mit csinálsz?",
@@ -118,19 +120,24 @@ const L: Record<string, Record<string, string>> = {
     p4Q: "Hol a legbiztonságosabb átkelni?",
     p4A: "Zebrán vagy jelzőlámpánál", p4W1: "Parkoló autók között", p4W2: "Kanyarban", p4W3: "Ahol a legközelebb van",
     r5Title: "Gyors összefoglalás", r5Hint: "Mit tanultál?",
+    r5Teach: "Nézzük meg, mit tanultál a közlekedési biztonsággal és az útszabályokkal!",
+    gotIt: "Értem! →",
     next: "Tovább", finish: "Kész", correct: "Helyes!", wrong: "Sajnos hibás!",
   },
   ro: {
     r1Title: "Semaforul", r1Hint: "Ce înseamnă această culoare?",
+    r1Teach: "Semaforelele ne păstrează în siguranță! 🔴 ROȘU înseamnă STOP — nu traversa niciodată! 🟡 GALBEN înseamnă ASTEAPTA — pregătește-te. 🟢 VERDE înseamnă MERGI — privește în ambele direcții mai întâi, apoi traversează cu grijă.",
     red: "Roșu", yellow: "Galben", green: "Verde",
     stop: "Stop!", caution: "Atenție — pregătește-te", go: "Mergi!",
     r2Title: "Sigur sau periculos?", r2Hint: "Este acest comportament sigur?",
+    r2Teach: "Traversează mereu la trecerea de pietoni sau la semafor! Privește STÂNGA, apoi DREAPTA, apoi STÂNGA din nou. Nu fugi peste drum. Ține mâna unui adult.",
     safe: "Sigur", unsafe: "Periculos",
     b_lookBoth: "Privește în ambele direcții înainte de a traversa", b_runRoad: "Aleargă peste drum fără să te uiți",
     b_helmet: "Poartă cască când mergi cu bicicleta", b_playRoad: "Joacă mingea pe drum",
     b_crosswalk: "Folosește trecerea de pietoni", b_redLight: "Traversează pe roșu",
     b_holdHand: "Ține-te de mâna unui adult lângă trafic", b_phoneCross: "Uită-te la telefon când traversezi",
     r3Title: "Semne de circulație", r3Hint: "Ce înseamnă acest semn?",
+    r3Teach: "Semnele de circulație ne spun lucruri importante! Un semn STOP înseamnă să te oprești complet. Un semn de pieton arată unde poți merge. Semnele de limită de viteză spun mașinilor cât de repede pot merge.",
     s_stop: "🛑 Semn roșu octogonal", s_stopA: "Oprire completă",
     s_stopW1: "Accelerează", s_stopW2: "Virează la dreapta", s_stopW3: "Claxonează",
     s_ped: "🚶 Semn pieton", s_pedA: "Trecere de pietoni",
@@ -140,6 +147,7 @@ const L: Record<string, Record<string, string>> = {
     s_speed: "30 în cerc roșu", s_speedA: "Limită de viteză 30",
     s_speedW1: "Număr de traseu", s_speedW2: "30 minute de mers", s_speedW3: "Indicator distanță",
     r4Title: "Reguli pentru pietoni", r4Hint: "Ce ar trebui să faci?",
+    r4Teach: "Echipamentul de siguranță ne protejează! Poartă cască când mergi cu bicicleta, folosește centura de siguranță în mașină, poartă haine reflectorizante când e întunecat și foloseşte mereu trotuarul.",
     p1Q: "Vrei să traversezi. Ce faci mai întâi?",
     p1A: "Te uiți la stânga, dreapta, apoi iar la stânga", p1W1: "Fugi direct", p1W2: "Închizi ochii și mergi", p1W3: "Aștepți ca o mașină să oprească singură",
     p2Q: "Semaforul de pietoni devine verde. Ce faci?",
@@ -149,6 +157,8 @@ const L: Record<string, Record<string, string>> = {
     p4Q: "Unde este cel mai sigur loc de traversare?",
     p4A: "La trecerea de pietoni sau semafor", p4W1: "Între mașini parcate", p4W2: "Într-o curbă", p4W3: "Oriunde e cel mai aproape",
     r5Title: "Recapitulare rapidă", r5Hint: "Ce ai învățat?",
+    r5Teach: "Să vedem ce ți-ai amintit despre siguranța în trafic și regulile rutiere!",
+    gotIt: "Am înțeles! →",
     next: "Înainte", finish: "Gata", correct: "Corect!", wrong: "Nu chiar!",
   },
 };
@@ -184,6 +194,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ]), []);
   const [r0i, setR0i] = useState(0);
   const [r0a, setR0a] = useState<string | null>(null);
+  const [r0ShowTeach, setR0ShowTeach] = useState(true);
 
   // Round 1: Safe/Unsafe
   type BinQ = { key: string; safe: boolean };
@@ -195,6 +206,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ]).slice(0, 4), []);
   const [r1i, setR1i] = useState(0);
   const [r1a, setR1a] = useState<boolean | null>(null);
+  const [r1ShowTeach, setR1ShowTeach] = useState(true);
 
   // Round 2: Road Signs
   const r2Qs = useMemo<QItem[]>(() => shuffle([
@@ -205,6 +217,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ]).slice(0, 3), []);
   const [r2i, setR2i] = useState(0);
   const [r2a, setR2a] = useState<string | null>(null);
+  const [r2ShowTeach, setR2ShowTeach] = useState(true);
 
   // Round 3: Pedestrian rules
   const r3Qs = useMemo<QItem[]>(() => shuffle([
@@ -215,6 +228,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ]).slice(0, 3), []);
   const [r3i, setR3i] = useState(0);
   const [r3a, setR3a] = useState<string | null>(null);
+  const [r3ShowTeach, setR3ShowTeach] = useState(true);
 
   // Round 4: Review (mixed from all)
   const r4Qs = useMemo<QItem[]>(() => shuffle([
@@ -226,6 +240,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ]).slice(0, 3), []);
   const [r4i, setR4i] = useState(0);
   const [r4a, setR4a] = useState<string | null>(null);
+  const [r4ShowTeach, setR4ShowTeach] = useState(true);
 
   const advance = useCallback(() => {
     if (round >= TOTAL_ROUNDS - 1) { onDone(scoreRef.current, totalRef.current); }
@@ -296,6 +311,29 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
 
           {round === 0 && (() => {
+            if (r0ShowTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r1Title}</p>
+                    <button onClick={() => speak(t.r1Title + ". " + (t as Record<string, string>).r1Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>).r1Teach}</p>
+                  </div>
+                  <motion.button
+                    onClick={() => setR0ShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = r0Qs[r0i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r0i]); // eslint-disable-line
             return (<>
@@ -320,6 +358,29 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           })()}
 
           {round === 1 && (() => {
+            if (r1ShowTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r2Title}</p>
+                    <button onClick={() => speak(t.r2Title + ". " + (t as Record<string, string>).r2Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>).r2Teach}</p>
+                  </div>
+                  <motion.button
+                    onClick={() => setR1ShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = r1Qs[r1i]; if (!q) return null;
             return (<>
               <div className="flex items-center gap-2">
@@ -365,6 +426,29 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           })()}
 
           {round === 2 && (() => {
+            if (r2ShowTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
+                    <button onClick={() => speak(t.r3Title + ". " + (t as Record<string, string>).r3Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>).r3Teach}</p>
+                  </div>
+                  <motion.button
+                    onClick={() => setR2ShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = r2Qs[r2i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r2i]); // eslint-disable-line
             return (<>
@@ -385,6 +469,29 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           })()}
 
           {round === 3 && (() => {
+            if (r3ShowTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r4Title}</p>
+                    <button onClick={() => speak(t.r4Title + ". " + (t as Record<string, string>).r4Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>).r4Teach}</p>
+                  </div>
+                  <motion.button
+                    onClick={() => setR3ShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = r3Qs[r3i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r3i]); // eslint-disable-line
             return (<>
@@ -405,6 +512,29 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
           })()}
 
           {round === 4 && (() => {
+            if (r4ShowTeach) {
+              return (
+                <div className="flex flex-col items-center gap-4 w-full">
+                  <div className="flex items-center gap-2 justify-center">
+                    <p className="text-xl font-black text-white text-center">{t.r5Title}</p>
+                    <button onClick={() => speak(t.r5Title + ". " + (t as Record<string, string>).r5Teach)}
+                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                      <Volume2 size={16} />
+                    </button>
+                  </div>
+                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                    <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>).r5Teach}</p>
+                  </div>
+                  <motion.button
+                    onClick={() => setR4ShowTeach(false)}
+                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                    whileTap={{ scale: 0.97 }}
+                  >
+                    {t.gotIt} <ChevronRight size={16} />
+                  </motion.button>
+                </div>
+              );
+            }
             const q = r4Qs[r4i]; if (!q) return null;
             const opts = useMemo(() => shuffle([q.a, ...q.wrong]), [r4i]); // eslint-disable-line
             return (<>
