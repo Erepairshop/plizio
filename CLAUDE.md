@@ -965,6 +965,10 @@ if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */
    // HIBÁS:  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw'; ...
    ```
    A hibás verzió: dx=0,dy=1 → 'nw' (rossz, kellene 'sw'); dx=0,dy=-1 → 'se' (rossz, kellene 'ne')
+15. **Explorer SVG-kben NE legyen szöveges label** — Az SVG `viewBox="0 0 240 160"` túl kicsi ahhoz, hogy 4 nyelven (en/de/hu/ro) elférjenek a szöveges címkék (pill badge-ek). A német/magyar szavak 30-50%-kal hosszabbak mint az angol → kifutnak, egymásra lógnak.
+   - **Szabály:** Új explorer SVG-ben a címkéket/label-eket a React oldalon kell megjeleníteni (az SVG alatti/melletti HTML elemként), NEM az SVG-n belül `<text>` elemmel.
+   - Az SVG-ben csak a rajz legyen (állat, növény, diagram) — szöveg nélkül.
+   - Ha mégis SVG-n belül kell label → max `fontSize={5}`, és teszteld mentálisan a leghosszabb nyelven (DE/HU).
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |
