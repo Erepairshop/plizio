@@ -98,12 +98,12 @@ const LABELS: Record<string, Record<string, string>> = {
     a5b: "opened",
     b5b: "opening",
     c5b: "opens",
-    d5d: "open",
+    d5b: "open",
     q5c: "Correct case after 'with': 'I play ___ my friend'?",
     a5c: "with",
     b5c: "with the",
     c5c: "with my",
-    d5d: "with mine",
+    d5c: "with mine",
   },
 };
 

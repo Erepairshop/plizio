@@ -580,7 +580,7 @@ const ParticipleExplorer = memo(function ParticipleExplorer({
           {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} setShowTeach={setShowTeach} />}
         </motion.div>
       </AnimatePresence>
     </div>

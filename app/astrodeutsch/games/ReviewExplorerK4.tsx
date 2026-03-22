@@ -174,7 +174,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: Kasus quick match ───────────────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [matched, setMatched] = useState<Record<string, string>>({});
   const [selectedQ, setSelectedQ] = useState<string | null>(null);
   const allMatched = Object.keys(matched).length >= CASE_MATCH.length;
@@ -267,7 +267,7 @@ function Round2({
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -372,7 +372,7 @@ function Round3({
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -484,7 +484,7 @@ function Round4({
   color: string;
   lbl: Record<string, string>;
   wrongCountRef: React.MutableRefObject<number>;
-  onNext, showTeach, setShowTeach: () => void;
+  onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void;
 }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);

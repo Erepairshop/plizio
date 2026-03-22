@@ -558,7 +558,7 @@ const SentenceAnalysisExplorer = memo(function SentenceAnalysisExplorer({
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
           {round === 4 && (
             <div className="w-full flex flex-col items-center gap-4">
-              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} />
+              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} showTeach={showTeach} setShowTeach={setShowTeach} />
               <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
                 className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
                 style={{ background: `${color}22` }}>

@@ -98,12 +98,12 @@ const LABELS: Record<string, Record<string, string>> = {
     a5b: "are, since",
     b5b: "since, are",
     c5b: "have, since",
-    d5d: "are, from",
+    d5b: "are, from",
     q5c: "Which is NOT a compound?",
     a5c: "red",
     b5c: "pencil case",
     c5c: "toothbrush",
-    d5d: "classroom",
+    d5c: "classroom",
   },
 };
 

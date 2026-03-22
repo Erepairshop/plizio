@@ -97,13 +97,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q5b: "Which object answers 'To whom?'?",
     a5b: "Dative object",
     b5b: "Accusative object",
-    c5c: "Prepositional object",
-    d5d: "Subject",
+    c5b: "Prepositional object",
+    d5b: "Subject",
     q5c: "Adverbial phrase of MANNER?",
     a5c: "quickly",
     b5c: "tomorrow",
     c5c: "there",
-    d5d: "because",
+    d5c: "because",
   },
 };
 

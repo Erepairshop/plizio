@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {

@@ -165,7 +165,7 @@ function NextBtn({ onClick, label, color }: { onClick: () => void; label: string
 }
 
 // ─── Round 1: 4 sentence parts overview ──────────────────────────────────────
-function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void }) {
+function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
   const [revealed, setRevealed] = useState<Set<number>>(new Set());
   const allRevealed = revealed.size >= SENTENCE_PARTS.length;
 
@@ -224,7 +224,7 @@ function Round1({ color, lbl, onNext, showTeach, setShowTeach }: { color: string
 }
 
 // ─── Round 2: Find the Subjekt ────────────────────────────────────────────────
-function Round2({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round2({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -288,7 +288,7 @@ function Round2({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: 
 }
 
 // ─── Round 3: Find the Prädikat ───────────────────────────────────────────────
-function Round3({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round3({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [tapped, setTapped] = useState(false);
 
@@ -352,7 +352,7 @@ function Round3({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: 
 }
 
 // ─── Round 4: Object Akk/Dat ──────────────────────────────────────────────────
-function Round4({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext, showTeach, setShowTeach: () => void; wrongCountRef: React.MutableRefObject<number> }) {
+function Round4({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void; wrongCountRef: React.MutableRefObject<number> }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
