@@ -112,7 +112,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["nominalstil_k8/nominalstil_umformung_k8", "sprachebenen_k8/register_k8", "sprachebenen_k8/fachsprache_k8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "voice-transform-explorer",  icon: "📊", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",         en: "Speed Round",         hu: "Gyors kör",          ro: "Rundă rapidă"       } },
     ],
     svgX: 230, svgY: 55,
@@ -124,7 +124,7 @@ export const K8_ISLANDS: IslandDef[] = [
     topicKeys: ["charakterisierung_k8/charakterisierung_methoden_k8", "inhaltsangabe_k8/inhaltsangabe_grundlagen_k8"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-analysis-explorer",  icon: "🧑‍🎓", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "true-false-blitz",  icon: "⚡", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",    en: "Black Hole",          hu: "Fekete lyuk",        ro: "Gaură neagră"       } },
     ],
     svgX: 80, svgY: -20,
@@ -141,7 +141,7 @@ export const K8_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer-k8",  icon: "🌟", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🪐", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "star-match",  icon: "💫", label: { de: "Stern-Paare",       en: "Star Match",          hu: "Csillag párosítás",  ro: "Potrivire stele"    } },
     ],
     svgX: 190, svgY: -90,
