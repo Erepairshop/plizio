@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   turbopack: {
-    root: ".",
+    root: __dirname,
   },
   webpack: (config: unknown) => {
     return config;
