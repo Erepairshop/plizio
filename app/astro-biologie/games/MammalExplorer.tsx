@@ -94,32 +94,32 @@ function SVG_R1(lang: string): React.ReactNode {
         {/* Fur label - top left */}
         <circle cx="25" cy="35" r="2.5" fill="#10B981" />
         <path d="M 28 35 L 60 35" stroke="#10B981" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="14" y="28" width="22" height="14" rx="7" fill="#10B98133" stroke="#10B981" strokeWidth="1" />
-        <text x="25" y="37" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
+        <rect x="10" y="27" width="30" height="14" rx="7" fill="#10B98133" stroke="#10B981" strokeWidth="1" />
+        <text x="25" y="37" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#10B981" fontFamily="system-ui">
           {l.feature1}
         </text>
 
         {/* Warm-blooded label - top right */}
         <circle cx="215" cy="30" r="2.5" fill="#F59E0B" />
         <path d="M 210 30 L 150 40" stroke="#F59E0B" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="195" y="20" width="40" height="14" rx="7" fill="#F59E0B33" stroke="#F59E0B" strokeWidth="1" />
-        <text x="215" y="32" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
+        <rect x="190" y="20" width="50" height="14" rx="7" fill="#F59E0B33" stroke="#F59E0B" strokeWidth="1" />
+        <text x="215" y="32" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#F59E0B" fontFamily="system-ui">
           {l.feature2}
         </text>
 
         {/* Live birth label - bottom left */}
         <circle cx="40" cy="125" r="2.5" fill="#EC4899" />
         <path d="M 45 120 L 75 100" stroke="#EC4899" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="17" y="128" width="46" height="14" rx="7" fill="#EC489933" stroke="#EC4899" strokeWidth="1" />
-        <text x="40" y="138" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
+        <rect x="12" y="128" width="56" height="14" rx="7" fill="#EC489933" stroke="#EC4899" strokeWidth="1" />
+        <text x="40" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#EC4899" fontFamily="system-ui">
           {l.feature3}
         </text>
 
         {/* Milk nursing label - bottom right */}
         <circle cx="200" cy="130" r="2.5" fill="#06B6D4" />
         <path d="M 195 125 L 155 95" stroke="#06B6D4" strokeWidth="1" strokeDasharray="3,2" />
-        <rect x="172" y="128" width="56" height="14" rx="7" fill="#06B6D433" stroke="#06B6D4" strokeWidth="1" />
-        <text x="200" y="138" fontSize="9" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
+        <rect x="168" y="128" width="64" height="14" rx="7" fill="#06B6D433" stroke="#06B6D4" strokeWidth="1" />
+        <text x="200" y="138" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
           {l.feature4}
         </text>
       </g>
@@ -180,7 +180,8 @@ function SVG_R2(lang: string): React.ReactNode {
         <g>
           <rect x="30" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
           <rect x="37" y="125" width="4" height="12" rx="1" fill="#FFD700" stroke="#FFA500" strokeWidth="0.5" />
-          <text x="36" y="145" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
+          <rect x="8" y="137" width="56" height="12" rx="5" fill="#FFA50022" stroke="#FFA500" strokeWidth="0.8" />
+          <text x="36" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
             {l.incisors}
           </text>
         </g>
@@ -189,7 +190,8 @@ function SVG_R2(lang: string): React.ReactNode {
         <g>
           <rect x="110" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
           <rect x="120" y="125" width="6" height="10" rx="1" fill="#90EE90" stroke="#228B22" strokeWidth="0.5" />
-          <text x="118" y="145" fontSize="8" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
+          <rect x="98" y="137" width="40" height="12" rx="5" fill="#228B2222" stroke="#228B22" strokeWidth="0.8" />
+          <text x="118" y="146" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
             {l.molars}
           </text>
         </g>
@@ -198,7 +200,8 @@ function SVG_R2(lang: string): React.ReactNode {
       {/* Diaphragm line */}
       <g>
         <path d="M 50 110 Q 85 125 120 110" fill="none" stroke="#06B6D4" strokeWidth="2" strokeDasharray="4,2" />
-        <text x="130" y="120" fontSize="8" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
+        <rect x="125" y="108" width="50" height="12" rx="5" fill="#06B6D433" stroke="#06B6D4" strokeWidth="0.8" />
+        <text x="150" y="117" fontSize="5" fontWeight="bold" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
           {l.diaphragm}
         </text>
       </g>
@@ -252,7 +255,7 @@ function SVG_R3(lang: string): React.ReactNode {
       {/* Panel 1: Herbivore (Cow/Rabbit) */}
       <g>
         <rect x="8" y="10" width="70" height="145" rx="6" fill="url(#r3_herb)" opacity="0.2" stroke="#228B22" strokeWidth="1.5" />
-        <text x="43" y="28" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
+        <text x="43" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
           {l.herbivore}
         </text>
 
@@ -279,7 +282,7 @@ function SVG_R3(lang: string): React.ReactNode {
       {/* Panel 2: Carnivore (Wolf/Lion) */}
       <g>
         <rect x="85" y="10" width="70" height="145" rx="6" fill="url(#r3_carn)" opacity="0.2" stroke="#C2185B" strokeWidth="1.5" />
-        <text x="120" y="28" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
+        <text x="120" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#C2185B" fontFamily="system-ui">
           {l.carnivore}
         </text>
 
@@ -308,7 +311,7 @@ function SVG_R3(lang: string): React.ReactNode {
       {/* Panel 3: Omnivore (Bear/Human) */}
       <g>
         <rect x="162" y="10" width="70" height="145" rx="6" fill="url(#r3_omni)" opacity="0.2" stroke="#FF6347" strokeWidth="1.5" />
-        <text x="197" y="28" fontSize="10" fontWeight="bold" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
+        <text x="197" y="28" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#FF6347" fontFamily="system-ui">
           {l.omnivore}
         </text>
 
@@ -471,18 +474,18 @@ function SVG_R5(lang: string): React.ReactNode {
       {/* Left column: Mammals */}
       <g>
         <rect x="8" y="10" width="105" height="140" rx="8" fill="url(#r5_mam)" stroke="#06B6D4" strokeWidth="2" />
-        <text x="60" y="32" fontSize="11" fontWeight="black" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
+        <text x="60" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#06B6D4" fontFamily="system-ui">
           {l.mammals}
         </text>
 
         {/* Features list */}
-        <text x="18" y="55" fontSize="8" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
+        <text x="18" y="55" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
           {l.feat1}
         </text>
-        <text x="18" y="72" fontSize="8" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
+        <text x="18" y="72" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
           {l.feat2}
         </text>
-        <text x="18" y="89" fontSize="8" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
+        <text x="18" y="89" fontSize="5.5" fontWeight="bold" fill="#06B6D4" fontFamily="system-ui">
           {l.feat3}
         </text>
 
@@ -495,7 +498,7 @@ function SVG_R5(lang: string): React.ReactNode {
       {/* Right column: Others */}
       <g>
         <rect x="127" y="10" width="105" height="140" rx="8" fill="url(#r5_other)" stroke="#9CA3AF" strokeWidth="2" strokeDasharray="4,3" />
-        <text x="179" y="32" fontSize="11" fontWeight="black" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
+        <text x="179" y="32" fontSize="8" fontWeight="black" textAnchor="middle" fill="#9CA3AF" fontFamily="system-ui">
           {l.others}
         </text>
 
