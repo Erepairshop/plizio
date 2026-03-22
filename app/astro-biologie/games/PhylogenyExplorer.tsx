@@ -72,6 +72,25 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_dam: "Building more dams",
     q4_dev: "Urban development",
     q4_cut: "Cutting down forests",
+
+    // SVG labels
+    phylogeny: "Phylogeny",
+    domain: "Domain",
+    kingdom: "Kingdom",
+    phylum: "Phylum",
+    classLabel: "Class",
+    order: "Order",
+    family: "Family",
+    genus: "Genus",
+    species: "Species",
+    mostRelated: "Most related at bottom",
+    genetic: "Genetic",
+    ecosystem: "Ecosystem",
+    conservation: "Conservation",
+    protectedAreas: "Protected Areas",
+    breedingPrograms: "Breeding Programs",
+    habitatRestoration: "Habitat Restoration",
+    review: "Review",
   },
   de: {
     r1_title: "Phylogenetische Bäume & Evolution",
@@ -127,6 +146,24 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_dam: "Mehr Dämme bauen",
     q4_dev: "Stadtentwicklung",
     q4_cut: "Wälder abholzen",
+
+    phylogeny: "Phylogenie",
+    domain: "Domäne",
+    kingdom: "Reich",
+    phylum: "Stamm",
+    classLabel: "Klasse",
+    order: "Ordnung",
+    family: "Familie",
+    genus: "Gattung",
+    species: "Art",
+    mostRelated: "Am engsten verwandt unten",
+    genetic: "Genetisch",
+    ecosystem: "Ökosystem",
+    conservation: "Naturschutz",
+    protectedAreas: "Schutzgebiete",
+    breedingPrograms: "Zuchtprogramme",
+    habitatRestoration: "Lebensraumwiederherstellung",
+    review: "Wiederholung",
   },
   hu: {
     r1_title: "Filogenetikus fák és evolúció",
@@ -182,6 +219,24 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_dam: "Több gát építése",
     q4_dev: "Városi fejlesztés",
     q4_cut: "Erdők kivágása",
+
+    phylogeny: "Törzsfejlődés",
+    domain: "Domén",
+    kingdom: "Ország",
+    phylum: "Törzs",
+    classLabel: "Osztály",
+    order: "Rend",
+    family: "Család",
+    genus: "Nem",
+    species: "Faj",
+    mostRelated: "Legszorosabb rokonság alul",
+    genetic: "Genetikai",
+    ecosystem: "Ökoszisztéma",
+    conservation: "Természetvédelem",
+    protectedAreas: "Védett területek",
+    breedingPrograms: "Tenyésztési programok",
+    habitatRestoration: "Élőhely-helyreállítás",
+    review: "Áttekintés",
   },
   ro: {
     r1_title: "Arbori filogenetici și evoluție",
@@ -237,6 +292,24 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_dam: "Construire mai multor barajuri",
     q4_dev: "Dezvoltare urbană",
     q4_cut: "Tăierea pădurilor",
+
+    phylogeny: "Filogenie",
+    domain: "Domeniu",
+    kingdom: "Regn",
+    phylum: "Încrengătură",
+    classLabel: "Clasă",
+    order: "Ordin",
+    family: "Familie",
+    genus: "Gen",
+    species: "Specie",
+    mostRelated: "Cele mai înrudite jos",
+    genetic: "Genetic",
+    ecosystem: "Ecosistem",
+    conservation: "Conservare",
+    protectedAreas: "Arii protejate",
+    breedingPrograms: "Programe de reproducere",
+    habitatRestoration: "Restaurarea habitatului",
+    review: "Recapitulare",
   },
 };
 
@@ -245,6 +318,7 @@ const LABELS: Record<string, Record<string, string>> = {
 // ─────────────────────────────────────────────────────────────────────────────
 
 function SvgRound1(lang: string) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto">
       <polyline points="120,20 120,80 60,140 120,140 180,140" fill="none" stroke="#27AE60" strokeWidth="2" />
@@ -252,50 +326,54 @@ function SvgRound1(lang: string) {
       <circle cx="60" cy="140" r="4" fill="#4ECDC4" />
       <circle cx="120" cy="140" r="4" fill="#4ECDC4" />
       <circle cx="180" cy="140" r="4" fill="#4ECDC4" />
-      <text x="120" y="158" textAnchor="middle" fontSize="11" fill="white">Phylogeny</text>
+      <text x="120" y="158" textAnchor="middle" fontSize="11" fill="white">{t.phylogeny}</text>
     </svg>
   );
 }
 
 function SvgRound2(lang: string) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto">
       <rect x="30" y="15" width="180" height="130" rx="8" fill="rgba(39,174,96,0.15)" stroke="#27AE60" strokeWidth="2" />
-      <text x="120" y="35" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Domain</text>
-      <text x="120" y="53" textAnchor="middle" fontSize="9" fill="white/80">↓ Kingdom ↓ Phylum ↓ Class</text>
-      <text x="120" y="68" textAnchor="middle" fontSize="9" fill="white/80">↓ Order ↓ Family ↓ Genus</text>
-      <text x="120" y="83" textAnchor="middle" fontSize="9" fill="white/80">↓ Species</text>
-      <text x="120" y="120" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#27AE60">Most related at bottom</text>
+      <text x="120" y="35" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{t.domain}</text>
+      <text x="120" y="53" textAnchor="middle" fontSize="9" fill="white/80">↓ {t.kingdom} ↓ {t.phylum} ↓ {t.classLabel}</text>
+      <text x="120" y="68" textAnchor="middle" fontSize="9" fill="white/80">↓ {t.order} ↓ {t.family} ↓ {t.genus}</text>
+      <text x="120" y="83" textAnchor="middle" fontSize="9" fill="white/80">↓ {t.species}</text>
+      <text x="120" y="120" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#27AE60">{t.mostRelated}</text>
     </svg>
   );
 }
 
 function SvgRound3(lang: string) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto">
       <circle cx="70" cy="50" r="25" fill="rgba(39,174,96,0.3)" stroke="#27AE60" strokeWidth="2" />
-      <text x="70" y="55" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">Species</text>
+      <text x="70" y="55" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">{t.species}</text>
       <circle cx="170" cy="50" r="25" fill="rgba(78,205,196,0.3)" stroke="#4ECDC4" strokeWidth="2" />
-      <text x="170" y="55" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">Genetic</text>
+      <text x="170" y="55" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">{t.genetic}</text>
       <circle cx="120" cy="120" r="25" fill="rgba(149,225,211,0.3)" stroke="#95E1D3" strokeWidth="2" />
-      <text x="120" y="125" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">Ecosystem</text>
+      <text x="120" y="125" textAnchor="middle" fontSize="11" fontWeight="bold" fill="white">{t.ecosystem}</text>
     </svg>
   );
 }
 
 function SvgRound4(lang: string) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto">
       <rect x="20" y="40" width="200" height="80" rx="8" fill="rgba(255,107,107,0.2)" stroke="#FF6B6B" strokeWidth="2" />
-      <text x="120" y="60" textAnchor="middle" fontSize="12" fontWeight="bold" fill="white">Conservation</text>
-      <text x="120" y="80" textAnchor="middle" fontSize="10" fill="white/80">Protected Areas</text>
-      <text x="120" y="97" textAnchor="middle" fontSize="10" fill="white/80">Breeding Programs</text>
-      <text x="120" y="114" textAnchor="middle" fontSize="10" fill="white/80">Habitat Restoration</text>
+      <text x="120" y="60" textAnchor="middle" fontSize="12" fontWeight="bold" fill="white">{t.conservation}</text>
+      <text x="120" y="80" textAnchor="middle" fontSize="10" fill="white/80">{t.protectedAreas}</text>
+      <text x="120" y="97" textAnchor="middle" fontSize="10" fill="white/80">{t.breedingPrograms}</text>
+      <text x="120" y="114" textAnchor="middle" fontSize="10" fill="white/80">{t.habitatRestoration}</text>
     </svg>
   );
 }
 
 function SvgRound5(lang: string) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto">
       <polyline points="40,120 80,60 120,100 160,40 200,80" fill="none" stroke="#27AE60" strokeWidth="2" />
@@ -304,7 +382,7 @@ function SvgRound5(lang: string) {
       <circle cx="120" cy="100" r="3" fill="#27AE60" />
       <circle cx="160" cy="40" r="3" fill="#27AE60" />
       <circle cx="200" cy="80" r="3" fill="#27AE60" />
-      <text x="120" y="150" textAnchor="middle" fontSize="12" fill="white">Review</text>
+      <text x="120" y="150" textAnchor="middle" fontSize="12" fill="white">{t.review}</text>
     </svg>
   );
 }

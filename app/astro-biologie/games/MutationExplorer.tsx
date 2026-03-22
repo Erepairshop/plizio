@@ -86,6 +86,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_b: "Identical copies of humans",
     q3_c: "New animal species",
     q3_d: "Artificial organs",
+    // SVG labels
+    lbl_normal: "Normal",
+    lbl_point: "Point",
+    lbl_insert: "Insert",
+    lbl_delete: "Delete",
   },
   de: {
     // Round 1: Types of Mutations
@@ -161,6 +166,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_b: "Identischen Kopien von Menschen",
     q3_c: "Neuen Tierarten",
     q3_d: "Künstlichen Organen",
+    // SVG labels
+    lbl_normal: "Normal",
+    lbl_point: "Punkt",
+    lbl_insert: "Einfügung",
+    lbl_delete: "Deletion",
   },
   hu: {
     // Round 1: Types of Mutations
@@ -236,6 +246,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_b: "Emberek azonos másolatainak",
     q3_c: "Új állatfajoknak",
     q3_d: "Mesterséges szerveknek",
+    // SVG labels
+    lbl_normal: "Normál",
+    lbl_point: "Pont",
+    lbl_insert: "Beillesztés",
+    lbl_delete: "Törlés",
   },
   ro: {
     // Round 1: Types of Mutations
@@ -311,6 +326,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_b: "Copiilor identici ai oamenilor",
     q3_c: "Noilor specii de animale",
     q3_d: "Organelor artificiale",
+    // SVG labels
+    lbl_normal: "Normal",
+    lbl_point: "Punct",
+    lbl_insert: "Inserție",
+    lbl_delete: "Ștergere",
   },
 };
 
@@ -318,7 +338,9 @@ const LABELS: Record<string, Record<string, string>> = {
 // SVG Illustrations (simple colored shapes, no text)
 // ─────────────────────────────────────────────────────────────────────────────
 
-const MutationTypes = () => (
+const MutationTypes = ({ lang = "en" }: { lang?: string }) => {
+  const t = LABELS[lang] || LABELS.en;
+  return (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
     {/* Three DNA sequences showing mutations */}
     {/* Normal DNA */}
@@ -357,12 +379,13 @@ const MutationTypes = () => (
       <circle cx="215" cy="45" r="4" fill="#FCD34D" opacity="0.3" />
     </g>
     {/* Legend area */}
-    <text x="20" y="85" fontSize="10" fill="#10B981" fontWeight="bold">Normal</text>
-    <text x="70" y="85" fontSize="10" fill="#EF4444" fontWeight="bold">Point</text>
-    <text x="135" y="85" fontSize="10" fill="#FCD34D" fontWeight="bold">Insert</text>
-    <text x="190" y="85" fontSize="10" fill="#EC4899" fontWeight="bold">Delete</text>
+    <text x="20" y="85" fontSize="10" fill="#10B981" fontWeight="bold">{t.lbl_normal}</text>
+    <text x="70" y="85" fontSize="10" fill="#EF4444" fontWeight="bold">{t.lbl_point}</text>
+    <text x="135" y="85" fontSize="10" fill="#FCD34D" fontWeight="bold">{t.lbl_insert}</text>
+    <text x="190" y="85" fontSize="10" fill="#EC4899" fontWeight="bold">{t.lbl_delete}</text>
   </svg>
-);
+  );
+};
 
 const UVRadiation = () => (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
@@ -452,7 +475,7 @@ const MUTATION_EXPLORER: ExplorerDef = {
       type: "info",
       infoTitle: "r1_title",
       infoText: "r1_text",
-      svg: () => <MutationTypes />,
+      svg: (lang: string) => <MutationTypes lang={lang} />,
       bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
       hintKey: "r1_q",
       questions: [
@@ -509,7 +532,7 @@ const MUTATION_EXPLORER: ExplorerDef = {
       type: "mcq",
       infoTitle: "r5_title",
       infoText: "r5_title",
-      svg: () => <MutationTypes />,
+      svg: (lang: string) => <MutationTypes lang={lang} />,
       questions: [
         {
           question: "q1_q",

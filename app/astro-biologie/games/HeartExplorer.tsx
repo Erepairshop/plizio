@@ -81,6 +81,11 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_heart: "To keep the heart beating",
     r2_brain: "To send it to the brain",
 
+    // SVG labels
+    artery: "Artery",
+    vein: "Vein",
+    capillary: "Capillary",
+
     // Round 3 MCQ
     r3_q: "Where does gas exchange between blood and cells happen?",
     r3_arteries: "In arteries",
@@ -156,6 +161,10 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_heart: "Um das Herz schlagen zu halten",
     r2_brain: "Um es zum Gehirn zu schicken",
 
+    artery: "Arterie",
+    vein: "Vene",
+    capillary: "Kapillare",
+
     r3_q: "Wo findet der Gasaustausch zwischen Blut und Zellen statt?",
     r3_arteries: "In Arterien",
     r3_veins: "In Venen",
@@ -229,6 +238,10 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_heart: "Hogy a szívet verítékezzen tartsa",
     r2_brain: "Hogy az agyba küldje",
 
+    artery: "Artéria",
+    vein: "Véna",
+    capillary: "Hajszálér",
+
     r3_q: "Hol történik a gázcsere a vér és a sejtek között?",
     r3_arteries: "Az artériákban",
     r3_veins: "A vénákban",
@@ -301,6 +314,10 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_body: "Pentru a-l trimite în tot corpul",
     r2_heart: "Pentru a ține inima bătând",
     r2_brain: "Pentru a-l trimite la creier",
+
+    artery: "Arteră",
+    vein: "Venă",
+    capillary: "Capilar",
 
     r3_q: "Unde are loc schimbul de gaze între sânge și celule?",
     r3_arteries: "În artere",
@@ -387,7 +404,9 @@ const R2_HeartDiagram = () => (
   </svg>
 );
 
-const R3_BloodVessels = () => (
+const R3_BloodVessels = ({ lang = "en" }: { lang?: string }) => {
+  const t = LABELS[lang] ?? LABELS.en;
+  return (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
     {/* Artery (left) - thick walls */}
     <g>
@@ -411,12 +430,13 @@ const R3_BloodVessels = () => (
       <circle cx="140" cy="100" r="2" fill="#c084fc" />
     </g>
 
-    {/* Labels area (visual only, no text) */}
-    <text x="50" y="70" fontSize="10" fill="white/60" textAnchor="middle">Artery</text>
-    <text x="190" y="70" fontSize="10" fill="white/60" textAnchor="middle">Vein</text>
-    <text x="120" y="120" fontSize="10" fill="white/60" textAnchor="middle">Capillary</text>
+    {/* Labels */}
+    <text x="50" y="70" fontSize="10" fill="white/60" textAnchor="middle">{t.artery}</text>
+    <text x="190" y="70" fontSize="10" fill="white/60" textAnchor="middle">{t.vein}</text>
+    <text x="120" y="120" fontSize="10" fill="white/60" textAnchor="middle">{t.capillary}</text>
   </svg>
-);
+  );
+};
 
 const R4_BloodTypes = () => (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
@@ -492,7 +512,7 @@ const HEART_EXPLORER_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
-      svg: () => <R3_BloodVessels />,
+      svg: (lang: string) => <R3_BloodVessels lang={lang} />,
       bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
       questions: [
         {

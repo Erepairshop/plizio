@@ -75,6 +75,12 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_oxygen: "Oxygen (O₂)",
     q3_nitrogen: "Nitrogen (N₂)",
     q3_water: "Water vapor",
+
+    // SVG labels
+    svg_plant: "Plant",
+    svg_herbivore: "Herbivore",
+    svg_carnivore: "Carnivore",
+    svg_decomposers: "Decomposers",
   },
   de: {
     r1_title: "Waldschichten",
@@ -134,6 +140,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_oxygen: "Sauerstoff (O₂)",
     q3_nitrogen: "Stickstoff (N₂)",
     q3_water: "Wasserdampf",
+
+    svg_plant: "Pflanze",
+    svg_herbivore: "Pflanzenfresser",
+    svg_carnivore: "Fleischfresser",
+    svg_decomposers: "Zersetzer",
   },
   hu: {
     r1_title: "Az erdő rétegei",
@@ -193,6 +204,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_oxygen: "Oxigén (O₂)",
     q3_nitrogen: "Nitrogén (N₂)",
     q3_water: "Vízpára",
+
+    svg_plant: "Növény",
+    svg_herbivore: "Növényevő",
+    svg_carnivore: "Ragadozó",
+    svg_decomposers: "Lebontók",
   },
   ro: {
     r1_title: "Straturile păderii",
@@ -252,6 +268,11 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_oxygen: "Oxigen (O₂)",
     q3_nitrogen: "Azot (N₂)",
     q3_water: "Vapori de apă",
+
+    svg_plant: "Plantă",
+    svg_herbivore: "Erbivor",
+    svg_carnivore: "Carnivor",
+    svg_decomposers: "Descompunători",
   },
 };
 
@@ -338,7 +359,8 @@ function SVG_R1(): React.ReactNode {
 }
 
 /** Round 2 SVG: Food chain arrow diagram */
-function SVG_R2(): React.ReactNode {
+function SVG_R2(lang: string): React.ReactNode {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -361,7 +383,7 @@ function SVG_R2(): React.ReactNode {
         <ellipse cx="65" cy="70" rx="12" ry="20" fill="#5BA85B" transform="rotate(25 65 70)" />
         <rect x="45" y="105" width="10" height="18" fill="#8B6F47" />
       </g>
-      <text x="50" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">Plant</text>
+      <text x="50" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_plant}</text>
 
       {/* Arrow 1 */}
       <path d="M 75 80 L 95 80" stroke="rgba(255,255,255,0.6)" strokeWidth="2" markerEnd="url(#arrowhead)" />
@@ -374,7 +396,7 @@ function SVG_R2(): React.ReactNode {
         <path d="M 135 65 L 140 60" stroke="#9B7F57" strokeWidth="2" />
         <path d="M 137 65 L 142 60" stroke="#9B7F57" strokeWidth="2" />
       </g>
-      <text x="120" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">Herbivore</text>
+      <text x="120" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_herbivore}</text>
 
       {/* Arrow 2 */}
       <path d="M 145 80 L 165 80" stroke="rgba(255,255,255,0.6)" strokeWidth="2" markerEnd="url(#arrowhead)" />
@@ -388,7 +410,7 @@ function SVG_R2(): React.ReactNode {
         <path d="M 208 67 L 214 62" stroke="#E06D2C" strokeWidth="2" />
         <path d="M 177 75 L 170 80" stroke="#DC5D1C" strokeWidth="3" />
       </g>
-      <text x="190" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">Carnivore</text>
+      <text x="190" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_carnivore}</text>
 
       {/* Arrow from sun to plant */}
       <path d="M 32 32 L 45 60" stroke="rgba(255,215,0,0.5)" strokeWidth="2" strokeDasharray="3,3" markerEnd="url(#arrowhead)" />
@@ -400,7 +422,7 @@ function SVG_R2(): React.ReactNode {
         <circle cx="120" cy="122" r="4" fill="#DC7A1C" />
         <circle cx="135" cy="125" r="4" fill="#DC7A1C" />
       </g>
-      <text x="120" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.6)">Decomposers</text>
+      <text x="120" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.6)">{t.svg_decomposers}</text>
 
       <defs>
         <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
@@ -563,7 +585,7 @@ const FOREST_EXPLORER_DEF: ExplorerDef = {
       infoTitle: "r2_title",
       infoText: "r2_text",
       bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      svg: () => SVG_R2(),
+      svg: (lang: string) => SVG_R2(lang),
     },
     {
       type: "mcq",

@@ -241,7 +241,8 @@ function SVG_R3(): React.ReactNode {
   );
 }
 
-function SVG_R4(): React.ReactNode {
+function SVG_R4(lang: string): React.ReactNode {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
       <defs>
@@ -259,7 +260,7 @@ function SVG_R4(): React.ReactNode {
       <g>
         <ellipse cx="40" cy="50" rx="8" ry="10" fill="#FFD700" stroke="#FFA500" strokeWidth="1" />
         <text x="40" y="72" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
-          EGG
+          {t.svg_egg}
         </text>
       </g>
 
@@ -273,7 +274,7 @@ function SVG_R4(): React.ReactNode {
         <line x1="82" y1="58" x2="78" y2="68" stroke="#228B22" strokeWidth="1" />
         <line x1="98" y1="58" x2="102" y2="68" stroke="#228B22" strokeWidth="1" />
         <text x="90" y="80" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          LARVA
+          {t.svg_larva}
         </text>
       </g>
 
@@ -285,7 +286,7 @@ function SVG_R4(): React.ReactNode {
       <g>
         <ellipse cx="155" cy="50" rx="10" ry="14" fill="#D4A373" stroke="#8B7355" strokeWidth="1" />
         <text x="155" y="75" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#8B7355" fontFamily="system-ui">
-          PUPA
+          {t.svg_pupa}
         </text>
       </g>
 
@@ -300,7 +301,7 @@ function SVG_R4(): React.ReactNode {
         <path d="M 148 110 Q 140 100 135 110" fill="#FFB6C1" stroke="#FF69B4" strokeWidth="1" />
         <path d="M 162 110 Q 170 100 175 110" fill="#FFB6C1" stroke="#FF69B4" strokeWidth="1" />
         <text x="155" y="140" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#FF69B4" fontFamily="system-ui">
-          ADULT
+          {t.svg_adult}
         </text>
       </g>
 
@@ -310,7 +311,7 @@ function SVG_R4(): React.ReactNode {
 
       {/* Center label */}
       <text x="110" y="108" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#5C4033" fontFamily="system-ui" opacity="0.6">
-        Complete
+        {t.svg_complete}
       </text>
     </svg>
   );
@@ -384,6 +385,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_eating: "The larva keeps eating",
     q4_growing: "Just growing bigger",
     q4_dying: "The animal dies",
+
+    // SVG R4 labels
+    svg_egg: "Egg",
+    svg_larva: "Larva",
+    svg_pupa: "Pupa",
+    svg_adult: "Adult",
+    svg_complete: "Complete",
   },
 
   de: {
@@ -449,6 +457,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_eating: "Die Larve frisst weiter",
     q4_growing: "Wird nur größer",
     q4_dying: "Das Tier stirbt",
+
+    // SVG R4 labels
+    svg_egg: "Ei",
+    svg_larva: "Larve",
+    svg_pupa: "Puppe",
+    svg_adult: "Erwachsen",
+    svg_complete: "Vollständig",
   },
 
   hu: {
@@ -514,6 +529,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_eating: "A lárva továbbra is eszik",
     q4_growing: "Csak nagyobbra nő",
     q4_dying: "Az állat meghal",
+
+    // SVG R4 labels
+    svg_egg: "Tojás",
+    svg_larva: "Lárva",
+    svg_pupa: "Báb",
+    svg_adult: "Kifejlett",
+    svg_complete: "Teljes",
   },
 
   ro: {
@@ -579,6 +601,13 @@ const LABELS: Record<string, Record<string, string>> = {
     q4_eating: "Larva continuă să mănânce",
     q4_growing: "Doar devine mai mare",
     q4_dying: "Animalul moare",
+
+    // SVG R4 labels
+    svg_egg: "Ou",
+    svg_larva: "Larvă",
+    svg_pupa: "Pupă",
+    svg_adult: "Adult",
+    svg_complete: "Complet",
   },
 };
 
