@@ -39,6 +39,15 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
+import PronounK4Explorer from "@/app/astroenglish/games/k4/PronounK4Explorer";
+import ModalK4Explorer from "@/app/astroenglish/games/k4/ModalK4Explorer";
+import AdjectiveK4Explorer from "@/app/astroenglish/games/k4/AdjectiveK4Explorer";
+import SentenceK4Explorer from "@/app/astroenglish/games/k4/SentenceK4Explorer";
+import SpeechK4Explorer from "@/app/astroenglish/games/k4/SpeechK4Explorer";
+import CapitalK4Explorer from "@/app/astroenglish/games/k4/CapitalK4Explorer";
+import SynonymK4Explorer from "@/app/astroenglish/games/k4/SynonymK4Explorer";
+import ContextK4Explorer from "@/app/astroenglish/games/k4/ContextK4Explorer";
+import BigTestK4Explorer from "@/app/astroenglish/games/k4/BigTestK4Explorer";
 import { K4_ISLAND_SVGS } from "@/app/astroenglish/islands-k4";
 import {
   K4_ISLANDS, K4_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -119,6 +128,15 @@ type Screen =
   | "word-build"
   | "reading-comp"
   | "tense-explorer"
+  | "pronoun-k4-explorer"
+  | "modal-k4-explorer"
+  | "adjective-k4-explorer"
+  | "sentence-k4-explorer"
+  | "speech-k4-explorer"
+  | "capital-k4-explorer"
+  | "synonym-k4-explorer"
+  | "context-k4-explorer"
+  | "big-test-k4-explorer"
   | "memory-pair"
   | "pronunciation"
   | "island-transition"
@@ -1242,11 +1260,38 @@ export default function AstroEnglishK4Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK4(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "pronoun-k4-explorer" && (
+          <PronounK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "modal-k4-explorer" && (
+          <ModalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "adjective-k4-explorer" && (
+          <AdjectiveK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-k4-explorer" && (
+          <SentenceK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "speech-k4-explorer" && (
+          <SpeechK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "capital-k4-explorer" && (
+          <CapitalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "synonym-k4-explorer" && (
+          <SynonymK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "context-k4-explorer" && (
+          <ContextK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "big-test-k4-explorer" && (
+          <BigTestK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "pronoun-k4-explorer", "modal-k4-explorer", "adjective-k4-explorer", "sentence-k4-explorer", "speech-k4-explorer", "capital-k4-explorer", "synonym-k4-explorer", "context-k4-explorer", "big-test-k4-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
