@@ -25,6 +25,15 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import HumanBodyExplorer from "@/app/astro-sachkunde/games/k4/HumanBodyExplorer";
+import MammalsBirdsExplorer from "@/app/astro-sachkunde/games/k4/MammalsBirdsExplorer";
+import ReptilesInsectsExplorer from "@/app/astro-sachkunde/games/k4/ReptilesInsectsExplorer";
+import EcosystemExplorer from "@/app/astro-sachkunde/games/k4/EcosystemExplorer";
+import WeatherClimateK4Explorer from "@/app/astro-sachkunde/games/k4/WeatherClimateK4Explorer";
+import EarthWaterExplorer from "@/app/astro-sachkunde/games/k4/EarthWaterExplorer";
+import EnergyExplorer from "@/app/astro-sachkunde/games/k4/EnergyExplorer";
+import MapsExplorer from "@/app/astro-sachkunde/games/k4/MapsExplorer";
+import GrandFinaleK4Explorer from "@/app/astro-sachkunde/games/k4/GrandFinaleK4Explorer";
 import {
   SK_G4_ISLANDS, CHECKPOINT_G4_MAP, CHECKPOINT_G4_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadSKG4Progress, saveSKG4Progress, type SachkundeProgress,
@@ -118,6 +127,15 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
+  | "k4-human-body-explorer"
+  | "k4-mammals-birds-explorer"
+  | "k4-reptiles-insects-explorer"
+  | "k4-ecosystem-explorer"
+  | "k4-weather-climate-explorer"
+  | "k4-earth-water-explorer"
+  | "k4-energy-explorer"
+  | "k4-maps-explorer"
+  | "k4-grand-finale-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -812,11 +830,41 @@ export default function AstroSachkundeG4Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
+        {screen === "k4-human-body-explorer" && (
+          <HumanBodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-mammals-birds-explorer" && (
+          <MammalsBirdsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-reptiles-insects-explorer" && (
+          <ReptilesInsectsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-ecosystem-explorer" && (
+          <EcosystemExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-weather-climate-explorer" && (
+          <WeatherClimateK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-earth-water-explorer" && (
+          <EarthWaterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-energy-explorer" && (
+          <EnergyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-maps-explorer" && (
+          <MapsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "k4-grand-finale-explorer" && (
+          <GrandFinaleK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz"].includes(screen)) return (
+  const explorerScreens = ["k4-human-body-explorer", "k4-mammals-birds-explorer", "k4-reptiles-insects-explorer",
+    "k4-ecosystem-explorer", "k4-weather-climate-explorer", "k4-earth-water-explorer", "k4-energy-explorer",
+    "k4-maps-explorer", "k4-grand-finale-explorer"];
+  if ([...explorerScreens, "orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

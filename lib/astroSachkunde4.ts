@@ -639,7 +639,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "star-match",
+        gameType: "k4-grand-finale-explorer",
         icon: "⭐",
         category: "explore",
         label: {
