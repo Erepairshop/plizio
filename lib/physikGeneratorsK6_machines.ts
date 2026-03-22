@@ -747,6 +747,218 @@ export function generateWheelAxleTyping(lang: string = "en", seed: number = 0): 
   ];
 }
 
+// ─── 4. SCREW ─────────────────────────────────────────────────────────────
+
+const SCREW_DATA = {
+  examples: [
+    { en: "a wood screw", de: "eine Holzschraube", hu: "facsavar", ro: "o șurub de lemn" },
+    { en: "a jar lid", de: "ein Glas Deckel", hu: "üveget le", ro: "un capac de borcan" },
+    { en: "a clamp", de: "eine Klemme", hu: "szorító", ro: "o clemă" },
+    { en: "a light bulb", de: "eine Glühbirne", hu: "izzó", ro: "un bec" },
+    { en: "a vise (bench vise)", de: "ein Schraubstock", hu: "fogó", ro: "un menghine" },
+    { en: "a C-clamp", de: "eine C-Klemme", hu: "C csipesz", ro: "o clemă C" },
+    { en: "a bolt and nut", de: "ein Bolzen und eine Mutter", hu: "csap és anya", ro: "o șurub și o piuliță" },
+    { en: "a spiral staircase", de: "eine Wendeltreppe", hu: "spirális lépcsősor", ro: "o scară în spirală" },
+    { en: "a drill bit", de: "ein Bohrer", hu: "fúró", ro: "o broca" },
+    { en: "a corkscrew", de: "ein Korkenzieher", hu: "dugóhúzó", ro: "un tirbușon" },
+  ],
+
+  properties: [
+    { en: "pitch", de: "Steigung", hu: "menetemelkedés", ro: "pasul" },
+    { en: "inclined plane wrapped in a circle", de: "Schiefe Ebene um einen Kreis gewickelt", hu: "lejtő körbe tekercselve", ro: "plan înclinat înfășurat într-un cerc" },
+    { en: "mechanical advantage", de: "mechanischer Vorteil", hu: "mechanikai előny", ro: "avantaj mecanic" },
+    { en: "thread", de: "Gewinde", hu: "menet", ro: "filet" },
+    { en: "rotation to linear motion", de: "Drehung zu linearer Bewegung", hu: "forgatás lineáris mozgássá", ro: "rotație la mișcare liniară" },
+  ],
+};
+
+export function generateScrewMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is a screw?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Was ist eine Schraube?", "What is a screw?", "Mit az egy csavar?", "Ce este o șurub?", lang),
+      q4("Eine einfache Maschine, die eine schiefe Ebene ist, die um eine Achse gewickelt ist", "A simple machine that is an inclined plane wrapped around an axis", "Egy egyszerű gép, amely egy körbe tekercselett lejtő sík", "O mașină simplă care este un plan înclinat înfășurat într-o axă", lang),
+      [
+        q4("Ein Werkzeug zum Festziehen von Bolzen", "A tool for tightening bolts", "Csavarok meghúzására szolgáló eszköz", "Un instrument pentru strângerea șuruburilor", lang),
+        q4("Ein Rad und eine Achse", "A wheel and axle", "Kerék és tengely", "O roată și o axă", lang),
+        q4("Eine Hebelmaschine", "A lever machine", "Emelő gép", "O mașină cu pârghie", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of a screw?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(SCREW_DATA.examples, rng);
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4(`Welches ist ein Beispiel einer Schraube?`, `Which is an example of a screw?`, `Melyik egy csavar példája?`, `Care este un exemplu de șurub?`, lang),
+      example[lang as "en"],
+      SCREW_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is pitch?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Was ist die Steigung (Pitch) einer Schraube?", "What is the pitch of a screw?", "Mit a csavar menetemelkedése?", "Care este pasul unei șuruburi?", lang),
+      q4("Die Entfernung, die die Schraube bei einer vollständigen Drehung eindringt", "The distance the screw advances in one complete rotation", "A távolság, amit a csavar egy teljes fordulat során halad", "Distanța pe care șurubul avanseaza într-o rotație completă", lang),
+      [
+        q4("Die Breite des Fadens", "The width of the thread", "A menet szélessége", "Lățimea filetului", lang),
+        q4("Die Länge der Schraube", "The length of the screw", "A csavar hossza", "Lungimea șurubului", lang),
+        q4("Der Durchmesser der Schraube", "The diameter of the screw", "A csavar átmérője", "Diametrul șurubului", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "How does a screw provide mechanical advantage?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Wie bietet eine Schraube einen mechanischen Vorteil?", "How does a screw provide mechanical advantage?", "Hogyan biztosít mechanikai előnyt a csavar?", "Cum oferă o șurub avantaj mecanic?", lang),
+      q4("Indem sie Rotationsbewegung in eine starke lineare Kraft umwandelt", "By converting rotational motion into a strong linear force", "A forgó mozgást erős lineáris erővé alakítva", "Prin convertirea mișcării de rotație într-o forță liniară puternică", lang),
+      [
+        q4("Indem sie das Gewicht verringert", "By reducing the weight", "A súly csökkentésével", "Prin reducerea greutății", lang),
+        q4("Indem sie die Größe erhöht", "By increasing the size", "A méret növelésével", "Prin mărirea dimensiunii", lang),
+        q4("Indem sie die Geschwindigkeit erhöht", "By increasing speed", "A sebesség növelésével", "Prin mărirea vitezei", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "The smaller the pitch..."
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Je kleiner die Steigung einer Schraube, desto...", "The smaller the pitch of a screw, the...", "Minél kisebb a csavar menetemelkedése, annál...", "Cu cât mai mic este pasul unei șuruburi, cu atât mai...", lang),
+      q4("größer ist der mechanische Vorteil", "greater the mechanical advantage", "nagyobb a mechanikai előny", "mai mare este avantajul mecanic", lang),
+      [
+        q4("kleiner ist der mechanische Vorteil", "smaller the mechanical advantage", "kisebb a mechanikai előny", "mai mic este avantajul mecanic", lang),
+        q4("schneller dreht sich die Schraube", "faster the screw rotates", "gyorsabban fordul a csavar", "mai repede se rotește șurubul", lang),
+        q4("weniger Gewinde hat die Schraube", "fewer threads the screw has", "kevesebb menet van a csavaron", "mai puține filete are șurubul", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "A screw is based on which simple machine?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Eine Schraube basiert auf welcher einfachen Maschine?", "A screw is based on which simple machine?", "A csavar melyik egyszerű gépre alapul?", "O șurub se bazează pe ce mașină simplă?", lang),
+      q4("Eine schiefe Ebene", "An inclined plane", "Lejtő sík", "Un plan înclinat", lang),
+      [
+        q4("Ein Hebel", "A lever", "Emelő", "O pârghie", lang),
+        q4("Ein Rad und eine Achse", "A wheel and axle", "Kerék és tengely", "O roată și o axă", lang),
+        q4("Eine Rolle", "A pulley", "Csiga", "Un scripete", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "What is the relationship between pitch and mechanical advantage?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Was ist das Verhältnis zwischen Steigung und mechanischem Vorteil?", "What is the relationship between pitch and mechanical advantage?", "Mi a menetemelkedés és mechanikai előny közötti kapcsolat?", "Care este relația dintre pas și avantajul mecanic?", lang),
+      q4("Kleinere Steigung = größerer mechanischer Vorteil", "Smaller pitch = greater mechanical advantage", "Kisebb menetemelkedés = nagyobb mechanikai előny", "Pas mai mic = avantaj mecanic mai mare", lang),
+      [
+        q4("Größere Steigung = größerer mechanischer Vorteil", "Larger pitch = greater mechanical advantage", "Nagyobb menetemelkedés = nagyobb mechanikai előny", "Pas mai mare = avantaj mecanic mai mare", lang),
+        q4("Steigung hat keinen Einfluss", "Pitch has no effect", "A menetemelkedésnek nincs hatása", "Pasul nu are efect", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 8: "How do screws differ from nails?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "screw",
+      q4("Wie unterscheiden sich Schrauben von Nägeln?", "How do screws differ from nails?", "Hogyan különböznek a csavarok a szögektől?", "Cum se deosebesc șuruburile de cuie?", lang),
+      q4("Schrauben geben einen mechanischen Vorteil und sind wiederverwendbar", "Screws provide mechanical advantage and are reusable", "A csavarok mechanikai előnyt adnak és újrafelhasználhatók", "Șuruburile oferă avantaj mecanic și sunt reutilizabile", lang),
+      [
+        q4("Nägel sind stärker als Schrauben", "Nails are stronger than screws", "A szögek erősebbek, mint a csavarok", "Cuiele sunt mai puternice decât șuruburile", lang),
+        q4("Schrauben sind schneller zu installieren", "Screws are faster to install", "A csavarok gyorsabban szerelhetők fel", "Șuruburile se instalează mai repede", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateScrewTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("machines", "screw",
+      q4("Was ist eine Schraube und worauf basiert sie?", "What is a screw and what is it based on?", "Mit az egy csavar és mire alapul?", "Ce este o șurub și pe ce se bazează?", lang),
+      ["inclined plane", "schiefe Ebene", "lejtő sík", "plan înclinat", "simple machine", "einfache Maschine", "egyszerű gép", "mașină simplă", "wrapped", "gewickelt", "tekercselett", "înfășurat"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Gib drei Beispiele für Schrauben im Alltag.", "Give three examples of screws in everyday life.", "Add meg három csavar példát a mindennapi életből.", "Dă trei exemple de șuruburi în viața de zi cu zi.", lang),
+      ["wood screw", "Holzschraube", "facsavar", "șurub de lemn", "jar lid", "Glasdeckel", "üvegtető", "capac borcan", "clamp", "Klemme", "szorító", "clemă", "light bulb", "Glühbirne", "izzó", "bec", "vise", "Schraubstock", "satupad", "menghine", "bolt", "Bolzen", "csap"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Was ist die Steigung (Pitch) einer Schraube?", "What is the pitch of a screw?", "Mit a csavar menetemelkedése?", "Care este pasul unei șuruburi?", lang),
+      ["distance per rotation", "Entfernung pro Umdrehung", "távolság fordulatonként", "distanță pe rotație", "thread advance", "Gewindevorlauf", "menet előrehaladás", "avansul filetului", "one complete turn", "eine vollständige Drehung", "egy teljes fordulat", "o rotație completă"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Wie wird der mechanische Vorteil berechnet?", "How is mechanical advantage calculated for a screw?", "Hogyan számolják a mechanikai előnyt a csavarnál?", "Cum se calculează avantajul mecanic pentru o șurub?", lang),
+      ["circumference", "Umfang", "kerület", "circumferință", "pitch", "Steigung", "menetemelkedés", "pas", "circumference divided by pitch"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Eine kleinere Steigung bietet einen... mechanischen Vorteil.", "A smaller pitch provides a... mechanical advantage.", "Egy kisebb menetemelkedés... mechanikai előnyt biztosít.", "Un pas mai mic oferă un... avantaj mecanic.", lang),
+      ["greater", "größer", "nagyobb", "mai mare", "larger"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Warum ist eine Schraube nützlich zum Halten von Objekten?", "Why is a screw useful for holding objects?", "Miért hasznos a csavar az objektumok megtartásához?", "De ce este util o șurub pentru a ține obiectele?", lang),
+      ["mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "strong hold", "starker Halt", "erős rögzítés", "fixare puternică", "rotational to linear", "Rotations zu linear"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Wie verwandelt eine Schraube Rotationsbewegung?", "How does a screw convert rotational motion?", "Hogyan alakít a csavar forgó mozgást?", "Cum transformă o șurub mișcarea de rotație?", lang),
+      ["linear motion", "lineare Bewegung", "lineáris mozgás", "mișcare liniară", "forward motion", "Vorwärtsbewegung", "előre mozgás", "mișcare înainte", "penetration", "Eindringung", "behatolás", "pătrundere"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Erkläre, wie eine Schraube als einfache Maschine wirkt.", "Explain how a screw acts as a simple machine.", "Magyarázd meg, hogyan működik a csavar mint egyszerű gép.", "Explică cum funcționează o șurub ca mașină simplă.", lang),
+      ["inclined plane wrapped", "schiefe Ebene gewickelt", "lejtő körbe tekercselve", "plan înclinat înfășurat", "rotational force", "Drehkraft", "forgási erő", "forță de rotație", "linear force", "lineare Kraft", "lineáris erő", "forță liniară"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Was ist der Unterschied zwischen einer feinen und einer groben Schraube?", "What is the difference between a fine and coarse screw?", "Mi a különbség a finom és durva csavar között?", "Care este diferența dintre o șurub fină și una aspră?", lang),
+      ["pitch", "Steigung", "menetemelkedés", "pas", "fine smaller", "fein kleiner", "finom kisebb", "fină mai mică", "coarse larger", "grob größer", "durva nagyobb", "aspră mai mare", "mechanical advantage"]
+    ),
+
+    createTyping("machines", "screw",
+      q4("Nenne drei Vorteile von Schrauben gegenüber anderen Befestigungsmitteln.", "Name three advantages of screws over other fasteners.", "Nevezz meg három előnyt a csavaroknak más rögzítésekhez képest.", "Numește trei avantaje ale șuruburilor asupra altor sisteme de fixare.", lang),
+      ["reusable", "wiederverwendbar", "újrafelhasználható", "reutilizabil", "removable", "abnehmbar", "eltávolítható", "amovibil", "mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "strong hold", "starker Halt", "erős tartás", "fixare puternică"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const MACHINES_GENERATORS = {
@@ -770,6 +982,13 @@ export const MACHINES_GENERATORS = {
   ],
   wheel_axle_mcq: (lang: string = "en", seed: number = 0) => generateWheelAxleMCQ(lang, seed),
   wheel_axle_typing: (lang: string = "en", seed: number = 0) => generateWheelAxleTyping(lang, seed),
+
+  screw: (lang: string = "en", seed: number = 0) => [
+    ...generateScrewMCQ(lang, seed),
+    ...generateScrewTyping(lang, seed)
+  ],
+  screw_mcq: (lang: string = "en", seed: number = 0) => generateScrewMCQ(lang, seed),
+  screw_typing: (lang: string = "en", seed: number = 0) => generateScrewTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
