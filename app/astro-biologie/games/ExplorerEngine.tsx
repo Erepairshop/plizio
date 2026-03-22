@@ -222,13 +222,30 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en" }
   // Label lookup helper
   const L = (key: string) => t[key] || key;
 
-  // TTS speak helper
+  // TTS speak helper — tries to pick the best available voice
   const speak = useCallback((text: string) => {
     if (typeof window === "undefined") return;
     window.speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
+    const targetLang = langCode === "hu" ? "hu" : langCode === "de" ? "de" : langCode === "ro" ? "ro" : "en";
     u.lang = langCode === "hu" ? "hu-HU" : langCode === "de" ? "de-DE" : langCode === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
+
+    // Try to find a better voice (prefer Google/Microsoft voices over default)
+    const voices = window.speechSynthesis.getVoices();
+    const langVoices = voices.filter(v => v.lang.startsWith(targetLang));
+    const preferred = langVoices.find(v => /google|microsoft|online|natural|neural/i.test(v.name))
+      || langVoices.find(v => !v.localService) // cloud voices are usually better
+      || langVoices[0];
+    if (preferred) u.voice = preferred;
+
+    // Hungarian: slower + higher pitch = less robotic
+    if (langCode === "hu") {
+      u.rate = 0.82;
+      u.pitch = 1.1;
+    } else {
+      u.rate = 0.9;
+      u.pitch = 1.0;
+    }
     window.speechSynthesis.speak(u);
   }, [langCode]);
 
