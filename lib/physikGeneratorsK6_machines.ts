@@ -959,36 +959,235 @@ export function generateScrewTyping(lang: string = "en", seed: number = 0): Curr
   ];
 }
 
+// ─── 5. INCLINED PLANE ────────────────────────────────────────────────────
+
+const INCLINED_PLANE_DATA = {
+  examples: [
+    { en: "a ramp", de: "eine Rampe", hu: "lejtő", ro: "o rampă" },
+    { en: "a ladder leaning against a wall", de: "eine Leiter an der Wand", hu: "létra a fal mellett", ro: "o scară sprijinită de perete" },
+    { en: "a slide", de: "eine Rutsche", hu: "csúszda", ro: "o tobogan" },
+    { en: "a roof", de: "ein Dach", hu: "tető", ro: "un acoperiș" },
+    { en: "a ski slope", de: "eine Skipiste", hu: "síslalom", ro: "o pârtie de schi" },
+    { en: "a staircase", de: "eine Treppe", hu: "lépcsősor", ro: "o scară" },
+    { en: "a wheelchair ramp", de: "eine Rollstuhlrampe", hu: "kerekesszék rámpa", ro: "o rampă pentru cărucior" },
+    { en: "a loading dock", de: "eine Laderampe", hu: "rakodási rámpa", ro: "o rampă de încărcare" },
+  ],
+
+  properties: [
+    { en: "angle", de: "Winkel", hu: "szög", ro: "unghi" },
+    { en: "length", de: "Länge", hu: "hossz", ro: "lungime" },
+    { en: "height", de: "Höhe", hu: "magasság", ro: "înălțime" },
+    { en: "friction", de: "Reibung", hu: "súrlódás", ro: "frecare" },
+  ],
+};
+
+export function generateInclinedPlaneMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is an inclined plane?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Was ist eine schiefe Ebene?", "What is an inclined plane?", "Mit az egy ferde sík?", "Ce este un plan înclinat?", lang),
+      q4("Eine ebene Fläche, die in einem Winkel zur Horizontalen angehoben ist", "A flat surface raised at an angle to the horizontal", "Egy lapos felület, amely szögben van felemelve a vízszinteshez képest", "O suprafață plană ridicată la un unghi orizontal", lang),
+      [
+        q4("Eine gebogene Oberfläche", "A curved surface", "Egy ívelt felület", "O suprafață curbă", lang),
+        q4("Ein rotierendes Rad", "A rotating wheel", "Egy forgó kerék", "O roată rotativă", lang),
+        q4("Eine feste Hebelposition", "A fixed lever position", "Rögzített emelő pozíció", "O poziție fixă a pârghiei", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of an inclined plane?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(INCLINED_PLANE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4(`Welches ist ein Beispiel einer schiefen Ebene?`, `Which is an example of an inclined plane?`, `Melyik egy ferde sík példája?`, `Care este un exemplu de plan înclinat?`, lang),
+      example[lang as "en"],
+      INCLINED_PLANE_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "How does an inclined plane reduce effort?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Wie verringert eine schiefe Ebene den erforderlichen Aufwand?", "How does an inclined plane reduce effort?", "Hogyan csökkenti a ferde sík az erőfeszítést?", "Cum reduce un plan înclinat efortul?", lang),
+      q4("Indem sie die Last über eine längere Strecke verteilt", "By spreading the load over a longer distance", "A teher terhelésének hosszabb távolságra való elosztásával", "Prin răspândirea sarcinii pe o distanță mai lungă", lang),
+      [
+        q4("Indem sie die Schwerkraft aufhebt", "By canceling gravity", "A gravitáció feloldásával", "Prin anularea gravitației", lang),
+        q4("Indem sie das Gewicht verringert", "By reducing weight", "A súly csökkentésével", "Prin reducerea greutății", lang),
+        q4("Indem sie die Reibung beseitigt", "By eliminating friction", "A súrlódás kiküszöbölésével", "Prin eliminarea frecării", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "The steeper the angle..."
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Je steiler der Winkel einer schiefen Ebene, desto...", "The steeper the angle of an inclined plane, the...", "Minél meredekebb a ferde sík szöge, annál...", "Cu cât mai abrupt este unghiul unui plan înclinat, cu atât mai...", lang),
+      q4("mehr Kraft ist erforderlich", "more force is required", "több erő szükséges", "mai multă forță este necesară", lang),
+      [
+        q4("weniger Kraft ist erforderlich", "less force is required", "kevesebb erő szükséges", "mai puțin efort este necesar", lang),
+        q4("gleich viel Kraft ist erforderlich", "the same force is required", "ugyanannyi erő szükséges", "aceeași forță este necesară", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "Mechanical advantage formula for inclined plane:"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Was ist die Formel für den mechanischen Vorteil einer schiefen Ebene?", "What is the formula for mechanical advantage of an inclined plane?", "Mi a ferde sík mechanikai előnyének képlete?", "Care este formula avantajului mecanic al unui plan înclinat?", lang),
+      q4("MA = Länge / Höhe", "MA = Length / Height", "MA = hossz / magasság", "MA = lungime / înălțime", lang),
+      [
+        q4("MA = Höhe / Länge", "MA = Height / Length", "MA = magasság / hossz", "MA = înălțime / lungime", lang),
+        q4("MA = Winkel × Länge", "MA = Angle × Length", "MA = szög × hossz", "MA = unghi × lungime", lang),
+        q4("MA = Gewicht / Länge", "MA = Weight / Length", "MA = súly / hossz", "MA = greutate / lungime", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "A longer inclined plane provides..."
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Eine längere schiefe Ebene bietet...", "A longer inclined plane provides...", "Egy hosszabb ferde sík biztosít...", "Un plan înclinat mai lung oferă...", lang),
+      q4("einen größeren mechanischen Vorteil", "a greater mechanical advantage", "nagyobb mechanikai előnyt", "un avantaj mecanic mai mare", lang),
+      [
+        q4("einen kleineren mechanischen Vorteil", "a smaller mechanical advantage", "kisebb mechanikai előnyt", "un avantaj mecanic mai mic", lang),
+        q4("keinen Unterschied im Vorteil", "no difference in advantage", "nincs különbség az előnyben", "nicio diferență în avantaj", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Why do wheelchair ramps need a gentle slope?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Warum benötigen Rollstuhlrampen einen sanften Hang?", "Why do wheelchair ramps need a gentle slope?", "Miért van szüksége a kerekesszék rámpáján egy szelíd lejtőre?", "De ce au nevoie rampele pentru cărucior de o pantă ușoară?", lang),
+      q4("Um den erforderlichen Aufwand zu verringern und die Sicherheit zu erhöhen", "To reduce effort needed and increase safety", "Az erőfeszítés csökkentésére és a biztonság növelésére", "Pentru a reduce efortul necesar și a crește siguranța", lang),
+      [
+        q4("Um das Gewicht zu verringern", "To reduce weight", "A súly csökkentésére", "Pentru a reduce greutatea", lang),
+        q4("Um die Reibung zu beseitigen", "To eliminate friction", "A súrlódás kiküszöbölésére", "Pentru a elimina frecarea", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 8: "What role does friction play on an inclined plane?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "machines",
+      "inclined_plane",
+      q4("Welche Rolle spielt die Reibung auf einer schiefen Ebene?", "What role does friction play on an inclined plane?", "Milyen szerepet játszik a súrlódás a ferde síkon?", "Ce rol joacă frecarea pe un plan înclinat?", lang),
+      q4("Sie widersetzt sich der Bewegung und erhöht die erforderliche Kraft", "It resists motion and increases required force", "A mozgásnak ellenáll és növeli az szükséges erőt", "Se opune mișcării și crește forța necesară", lang),
+      [
+        q4("Sie verringert die Schwerkraft", "It reduces gravity", "Csökkenti a gravitációt", "Reduce gravitația", lang),
+        q4("Sie hat keine Auswirkung", "It has no effect", "Nincs hatása", "Nu are efect", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateInclinedPlaneTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("machines", "inclined_plane",
+      q4("Was ist eine schiefe Ebene und wie funktioniert sie?", "What is an inclined plane and how does it work?", "Mit az egy ferde sík és hogyan működik?", "Ce este un plan înclinat și cum funcționează?", lang),
+      ["flat surface", "ebene Fläche", "lapos felület", "suprafață plană", "angle", "Winkel", "szög", "unghi", "reduces effort", "verringert Aufwand", "csökkenti erőfeszítést", "reduce efort"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Gib drei Beispiele für schiefe Ebenen im Alltag.", "Give three examples of inclined planes in everyday life.", "Add meg három ferde sík példát a mindennapi életből.", "Dă trei exemple de plane înclinate în viața de zi cu zi.", lang),
+      ["ramp", "Rampe", "lejtő", "rampă", "ladder", "Leiter", "létra", "scară", "slide", "Rutsche", "csúszda", "tobogan", "roof", "Dach", "tető", "acoperiș", "stairs", "Treppen", "lépcsők", "scări"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Was ist die Formel für den mechanischen Vorteil?", "What is the mechanical advantage formula?", "Mi a mechanikai előny képlete?", "Care este formula avantajului mecanic?", lang),
+      ["length divided by height", "Länge durch Höhe", "hossz osztva magassággal", "lungime împărțită la înălțime", "MA = L/H", "MA = length/height"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Wie reduziert eine schiefe Ebene den erforderlichen Aufwand?", "How does an inclined plane reduce effort?", "Hogyan csökkenti a ferde sík az erőfeszítést?", "Cum reduce un plan înclinat efortul?", lang),
+      ["spreads load", "verteilt Last", "terhelést terjeszt", "distribuie sarcina", "longer distance", "längere Strecke", "hosszabb távolság", "distanță mai lungă", "mechanical advantage"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Je steiler der Hang, desto... Kraft ist erforderlich.", "The steeper the slope, the... force is required.", "Minél meredekebb a lejtő, annál... erő szükséges.", "Cu cât mai abrupt panta, cu atât mai... forță este necesară.", lang),
+      ["more", "mehr", "több", "mai multă"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Warum ist die Steigung von Treppen wichtig?", "Why is the slope of stairs important?", "Miért fontos a lépcső lejtése?", "De ce este importantă panta scărilor?", lang),
+      ["safety", "Sicherheit", "biztonság", "siguranță", "effort", "Aufwand", "erőfeszítés", "efort", "climbing", "Klettern", "mászás", "urcarea"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Was ist der Unterschied zwischen einem steilen und einem sanften Hang?", "What is the difference between a steep and gentle slope?", "Mi a különbség egy meredek és szelíd lejtő között?", "Care este diferența dintre o pantă abruptă și una ușoară?", lang),
+      ["steeper requires more force", "steiler mehr Kraft", "meredekebb több erőt", "mai abrupt mai multă forță", "gentle less force", "sanft weniger Kraft", "szelíd kevesebb erő", "ușor mai puțin efort"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Erkläre, wie Reibung eine schiefe Ebene beeinflusst.", "Explain how friction affects an inclined plane.", "Magyarázd meg, hogyan befolyásolja a súrlódás a ferde síkot.", "Explică cum afectează frecarea un plan înclinat.", lang),
+      ["opposes motion", "widersetzt Bewegung", "ellenáll mozgásnak", "se opune mișcării", "increases force needed", "erhöht erforderliche Kraft", "növeli szükséges erőt", "crește forța necesară"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Warum verwenden Lagerhäuser Rampen statt Treppen?", "Why do warehouses use ramps instead of stairs?", "Miért használnak a raktárak rámpákat a lépcső helyett?", "De ce folosesc depozitele rampe în loc de scări?", lang),
+      ["easier to move cargo", "leichter zu bewegen", "könnyebb mozgatni", "mai ușor să mute", "mechanical advantage", "mechanischer Vorteil", "mechanikai előny", "avantaj mecanic", "reduce effort"]
+    ),
+
+    createTyping("machines", "inclined_plane",
+      q4("Welche Faktoren beeinflussen den mechanischen Vorteil?", "What factors influence mechanical advantage?", "Milyen tényezők befolyásolják a mechanikai előnyt?", "Care sunt factorii care influențează avantajul mecanic?", lang),
+      ["length", "Länge", "hossz", "lungime", "height", "Höhe", "magasság", "înălțime", "angle", "Winkel", "szög", "unghi", "ratio"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
-export const MACHINES_GENERATORS = {
-  lever: (lang: string = "en", seed: number = 0) => [
-    ...generateLeverMCQ(lang, seed),
-    ...generateLeverTyping(lang, seed)
-  ],
-  lever_mcq: (lang: string = "en", seed: number = 0) => generateLeverMCQ(lang, seed),
-  lever_typing: (lang: string = "en", seed: number = 0) => generateLeverTyping(lang, seed),
+export const K6_MACHINES_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
+  lever: (lang = "en", seed = 0) => [...generateLeverMCQ(lang, seed), ...generateLeverTyping(lang, seed)],
+  lever_mcq: (lang = "en", seed = 0) => generateLeverMCQ(lang, seed),
+  lever_typing: (lang = "en", seed = 0) => generateLeverTyping(lang, seed),
 
-  pulley: (lang: string = "en", seed: number = 0) => [
-    ...generatePulleyMCQ(lang, seed),
-    ...generatePulleyTyping(lang, seed)
-  ],
-  pulley_mcq: (lang: string = "en", seed: number = 0) => generatePulleyMCQ(lang, seed),
-  pulley_typing: (lang: string = "en", seed: number = 0) => generatePulleyTyping(lang, seed),
+  pulley: (lang = "en", seed = 0) => [...generatePulleyMCQ(lang, seed), ...generatePulleyTyping(lang, seed)],
+  pulley_mcq: (lang = "en", seed = 0) => generatePulleyMCQ(lang, seed),
+  pulley_typing: (lang = "en", seed = 0) => generatePulleyTyping(lang, seed),
 
-  wheel_axle: (lang: string = "en", seed: number = 0) => [
-    ...generateWheelAxleMCQ(lang, seed),
-    ...generateWheelAxleTyping(lang, seed)
-  ],
-  wheel_axle_mcq: (lang: string = "en", seed: number = 0) => generateWheelAxleMCQ(lang, seed),
-  wheel_axle_typing: (lang: string = "en", seed: number = 0) => generateWheelAxleTyping(lang, seed),
+  inclined_plane: (lang = "en", seed = 0) => [...generateInclinedPlaneMCQ(lang, seed), ...generateInclinedPlaneTyping(lang, seed)],
+  inclined_plane_mcq: (lang = "en", seed = 0) => generateInclinedPlaneMCQ(lang, seed),
+  inclined_plane_typing: (lang = "en", seed = 0) => generateInclinedPlaneTyping(lang, seed),
 
-  screw: (lang: string = "en", seed: number = 0) => [
-    ...generateScrewMCQ(lang, seed),
-    ...generateScrewTyping(lang, seed)
-  ],
-  screw_mcq: (lang: string = "en", seed: number = 0) => generateScrewMCQ(lang, seed),
-  screw_typing: (lang: string = "en", seed: number = 0) => generateScrewTyping(lang, seed),
+  wheel_axle: (lang = "en", seed = 0) => [...generateWheelAxleMCQ(lang, seed), ...generateWheelAxleTyping(lang, seed)],
+  wheel_axle_mcq: (lang = "en", seed = 0) => generateWheelAxleMCQ(lang, seed),
+  wheel_axle_typing: (lang = "en", seed = 0) => generateWheelAxleTyping(lang, seed),
+
+  screw: (lang = "en", seed = 0) => [...generateScrewMCQ(lang, seed), ...generateScrewTyping(lang, seed)],
+  screw_mcq: (lang = "en", seed = 0) => generateScrewMCQ(lang, seed),
+  screw_typing: (lang = "en", seed = 0) => generateScrewTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
