@@ -68,6 +68,20 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_co2: "Carbon dioxide",
     q3_nitrogen: "Nitrogen",
     q3_hydrogen: "Hydrogen",
+
+    // Round 3 MCQ (Water Transport)
+    r3_q: "What do stomata do on leaves?",
+    r3_photosynthesis: "Control gas exchange (CO₂ in, O₂ out)",
+    r3_transport: "Transport water upward",
+    r3_stomata: "Protect the leaf surface",
+    r3_root: "Absorb water from soil",
+
+    // Round 4 MCQ (Leaf Structure)
+    r4_q: "Which organelles in leaf cells contain chlorophyll?",
+    r4_stomata: "Chloroplasts",
+    r4_chlorophyll: "Mitochondria",
+    r4_guard_cells: "Vacuoles",
+    r4_cuticle: "Cell membranes",
   },
   de: {
     r1_title: "Pflanzenteile & Funktionen",
@@ -119,6 +133,20 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_co2: "Kohlendioxid",
     q3_nitrogen: "Stickstoff",
     q3_hydrogen: "Wasserstoff",
+
+    // Round 3 MCQ (Wassertransport)
+    r3_q: "Was machen Stomata auf Blättern?",
+    r3_photosynthesis: "Kontrollieren Gasaustausch (CO₂ rein, O₂ raus)",
+    r3_transport: "Transportieren Wasser nach oben",
+    r3_stomata: "Schützen die Blattoberfläche",
+    r3_root: "Nehmen Wasser aus dem Boden auf",
+
+    // Round 4 MCQ (Blattstruktur)
+    r4_q: "Welche Organellen in Blattzellen enthalten Chlorophyll?",
+    r4_stomata: "Chloroplasten",
+    r4_chlorophyll: "Mitochondrien",
+    r4_guard_cells: "Vakuolen",
+    r4_cuticle: "Zellmembranen",
   },
   hu: {
     r1_title: "Növényrészek és funkcióik",
@@ -170,6 +198,20 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_co2: "Szén-dioxid",
     q3_nitrogen: "Nitrogén",
     q3_hydrogen: "Hidrogén",
+
+    // Round 3 MCQ (Vízszállítás)
+    r3_q: "Mit csinálnak a stómák a leveleken?",
+    r3_photosynthesis: "Szabályozzák a gázcserét (CO₂ be, O₂ ki)",
+    r3_transport: "Felfelé szállítanak vizet",
+    r3_stomata: "Védelemben a lev felszínét",
+    r3_root: "Felszívnak vizet a talajból",
+
+    // Round 4 MCQ (Lev szerkezete)
+    r4_q: "Mely organellumok a levelek sejtjeiben tartalmaznak klorofilt?",
+    r4_stomata: "Kloroplasztok",
+    r4_chlorophyll: "Mitokondriók",
+    r4_guard_cells: "Vakuólumok",
+    r4_cuticle: "Sejtmembrának",
   },
   ro: {
     r1_title: "Părți ale plantei și funcții",
@@ -221,6 +263,20 @@ const LABELS: Record<string, Record<string, string>> = {
     q3_co2: "Dioxid de carbon",
     q3_nitrogen: "Azot",
     q3_hydrogen: "Hidrogen",
+
+    // Round 3 MCQ (Transport de apă)
+    r3_q: "Ce fac stomatele pe frunze?",
+    r3_photosynthesis: "Controlează schimbul de gaze (CO₂ in, O₂ out)",
+    r3_transport: "Transportă apa în sus",
+    r3_stomata: "Protejează suprafața frunzei",
+    r3_root: "Absorb apă din sol",
+
+    // Round 4 MCQ (Structura frunzei)
+    r4_q: "Care organele din celulele frunzei conțin clorofil?",
+    r4_stomata: "Cloroplaste",
+    r4_chlorophyll: "Mitocondrii",
+    r4_guard_cells: "Vacuole",
+    r4_cuticle: "Membrane celulare",
   },
 };
 
@@ -581,32 +637,60 @@ const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1_title",
       infoText: "r1_text",
       svg: SVG_R1,
       bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
+      questions: [
+        {
+          question: "q1_q",
+          choices: ["q1_root", "q1_stem", "q1_leaf", "q1_flower"],
+          answer: "q1_root",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2_title",
       infoText: "r2_text",
       svg: SVG_R2,
       bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
+      questions: [
+        {
+          question: "q2_q",
+          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
+          answer: "q2_a",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
       svg: SVG_R3,
       bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3"],
+      questions: [
+        {
+          question: "r3_q",
+          choices: ["r3_photosynthesis", "r3_transport", "r3_stomata", "r3_root"],
+          answer: "r3_photosynthesis",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4_title",
       infoText: "r4_text",
       svg: SVG_R4,
       bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
+      questions: [
+        {
+          question: "r4_q",
+          choices: ["r4_stomata", "r4_chlorophyll", "r4_guard_cells", "r4_cuticle"],
+          answer: "r4_stomata",
+        },
+      ],
     },
     {
       type: "mcq",
@@ -614,11 +698,6 @@ const DEF: ExplorerDef = {
       infoText: "r5_title",
       svg: SVG_R5,
       questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_root", "q1_stem", "q1_leaf", "q1_flower"],
-          answer: "q1_root",
-        },
         {
           question: "q2_q",
           choices: ["q2_a", "q2_b", "q2_c", "q2_d"],

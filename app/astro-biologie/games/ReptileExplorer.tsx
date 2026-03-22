@@ -841,29 +841,31 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
 // Questions
 // ─────────────────────────────────────────────────────────────────────────────
 
+// ─── R1: Identify reptile vs bird (1 question)
 const R1_QUESTIONS: MCQQuestion[] = [
   { question: "q_snake", choices: ["reptile", "bird"], answer: "reptile" },
-  { question: "q_eagle", choices: ["reptile", "bird"], answer: "bird" },
-  { question: "q_crocodile", choices: ["reptile", "bird"], answer: "reptile" },
-  { question: "q_penguin", choices: ["reptile", "bird"], answer: "bird" },
 ];
 
+// ─── R2: Bird features (1 question)
 const R2_QUESTIONS: MCQQuestion[] = [
   { question: "q_bird_fly", choices: ["hollow_bones", "feathers", "beak", "wings"], answer: "hollow_bones" },
-  { question: "q_bird_warm", choices: ["feathers", "wings", "beak", "hollow_bones"], answer: "feathers" },
-  { question: "q_bird_eat", choices: ["beak", "wings", "feathers", "hollow_bones"], answer: "beak" },
 ];
 
-const R4_QUESTIONS: MCQQuestion[] = [
-  { question: "q_reptile_egg", choices: ["leathery", "hard_shell", "live_birth", "no_egg"], answer: "leathery" },
-  { question: "q_bird_egg", choices: ["hard_shell", "leathery", "live_birth", "no_egg"], answer: "hard_shell" },
+// ─── R3: Cold vs warm blooded (1 question)
+const R3_QUESTIONS: MCQQuestion[] = [
   { question: "q_cold_body", choices: ["body_temp_env", "body_temp_fixed", "body_temp_cold", "body_temp_hot"], answer: "body_temp_env" },
 ];
 
-const R5_QUESTIONS: MCQQuestion[] = [
-  { question: "q_snake", choices: ["reptile", "bird"], answer: "reptile" },
-  { question: "q_bird_fly", choices: ["hollow_bones", "feathers", "beak", "wings"], answer: "hollow_bones" },
+// ─── R4: Eggs & reproduction (1 question)
+const R4_QUESTIONS: MCQQuestion[] = [
   { question: "q_reptile_egg", choices: ["leathery", "hard_shell", "live_birth", "no_egg"], answer: "leathery" },
+];
+
+// ─── R5: Review questions from all rounds (2-3 questions)
+const R5_QUESTIONS: MCQQuestion[] = [
+  { question: "q_eagle", choices: ["reptile", "bird"], answer: "bird" },
+  { question: "q_bird_warm", choices: ["feathers", "wings", "beak", "hollow_bones"], answer: "feathers" },
+  { question: "q_bird_egg", choices: ["hard_shell", "leathery", "live_birth", "no_egg"], answer: "hard_shell" },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -888,12 +890,11 @@ const REPTILE_EXPLORER: ExplorerDef = {
       questions: R2_QUESTIONS,
     },
     {
-      type: "order",
+      type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
       svg: SVG_R3,
-      hintKey: "r3_hint",
-      orderSequence: ["snake_lbl", "croc_lbl", "eagle_lbl", "penguin_lbl"] as const,
+      questions: R3_QUESTIONS,
     },
     {
       type: "mcq",

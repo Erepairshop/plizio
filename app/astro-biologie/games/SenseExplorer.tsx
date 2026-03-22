@@ -48,6 +48,34 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_b3: "Signal travels — up the nerve to the brain",
     r4_b4: "Brain response — decides what to do (pull hand away)",
 
+    // Round 1: The 5 Senses — Question
+    r1_q: "Which of these is a sense organ?",
+    r1_q_a: "Eye (sight)",
+    r1_q_b: "Heart (breathing)",
+    r1_q_c: "Muscle (motion)",
+    r1_q_d: "Bone (support)",
+
+    // Round 2: The Eye — Question
+    r2_q: "What does the pupil do?",
+    r2_q_a: "Controls how much light enters the eye",
+    r2_q_b: "Focuses light on the retina",
+    r2_q_c: "Carries signals to the brain",
+    r2_q_d: "Contains light-sensitive cells",
+
+    // Round 3: The Ear — Question
+    r3_q: "Which part of the ear receives sound waves first?",
+    r3_q_a: "Cochlea",
+    r3_q_b: "Eardrum",
+    r3_q_c: "Outer ear",
+    r3_q_d: "Ossicles",
+
+    // Round 4: Reflex Arc — Question
+    r4_q: "In a reflex arc, what happens right after the receptor detects a stimulus?",
+    r4_q_a: "The brain decides what to do",
+    r4_q_b: "A nerve signal travels upward",
+    r4_q_c: "The muscle contracts immediately",
+    r4_q_d: "The stimulus stops",
+
     // Round 5: Quiz
     r5_title: "Sense Organs Quiz",
     r5_text: "Let's check your understanding!",
@@ -58,29 +86,17 @@ const LABELS: Record<string, Record<string, string>> = {
     q1_c: "Nose",
     q1_d: "Tongue",
 
-    q2_q: "What does the pupil do?",
-    q2_a: "Controls how much light enters the eye",
-    q2_b: "Focuses light on the retina",
-    q2_c: "Carries signals to the brain",
-    q2_d: "Contains light-sensitive cells",
+    q2_q: "What do the ossicles do?",
+    q2_a: "Collect sound waves",
+    q2_b: "Amplify vibrations",
+    q2_c: "Convert vibrations to nerve signals",
+    q2_d: "Send signals to the brain",
 
-    q3_q: "Which part of the ear receives sound waves first?",
-    q3_a: "Cochlea",
-    q3_b: "Eardrum",
-    q3_c: "Outer ear",
-    q3_d: "Ossicles",
-
-    q4_q: "What do the ossicles do?",
-    q4_a: "Collect sound waves",
-    q4_b: "Amplify vibrations",
-    q4_c: "Convert vibrations to nerve signals",
-    q4_d: "Send signals to the brain",
-
-    q5_q: "In a reflex arc, what happens right after the receptor detects a stimulus?",
-    q5_a: "The brain decides what to do",
-    q5_b: "A nerve signal travels upward",
-    q5_c: "The muscle contracts immediately",
-    q5_d: "The stimulus stops",
+    q3_q: "How many main senses does the human body have?",
+    q3_a: "Three",
+    q3_b: "Four",
+    q3_c: "Five",
+    q3_d: "Six",
   },
   de: {
     // Round 1: Die 5 Sinne
@@ -117,6 +133,34 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_b2: "Rezeptor — Sinnesorgan erkennt den Reiz",
     r4_b3: "Signal reist — auf dem Nerv zum Gehirn",
     r4_b4: "Gehirnreaktion — entscheidet, was zu tun ist (Hand wegziehen)",
+
+    // Round 1: Die 5 Sinne — Frage
+    r1_q: "Welches ist ein Sinnesorgan?",
+    r1_q_a: "Auge (Sehen)",
+    r1_q_b: "Herz (Atmung)",
+    r1_q_c: "Muskel (Bewegung)",
+    r1_q_d: "Knochen (Unterstützung)",
+
+    // Round 2: Das Auge — Frage
+    r2_q: "Was macht die Pupille?",
+    r2_q_a: "Kontrolliert, wie viel Licht in das Auge eintritt",
+    r2_q_b: "Fokussiert Licht auf die Netzhaut",
+    r2_q_c: "Trägt Signale zum Gehirn",
+    r2_q_d: "Enthält lichtsensitive Zellen",
+
+    // Round 3: Das Ohr — Frage
+    r3_q: "Welcher Teil des Ohrs nimmt Schallwellen zuerst auf?",
+    r3_q_a: "Cochlea",
+    r3_q_b: "Trommelfell",
+    r3_q_c: "Außenohr",
+    r3_q_d: "Gehörknöchelchen",
+
+    // Round 4: Reflex-Bogen — Frage
+    r4_q: "Was passiert im Reflex-Bogen unmittelbar nach der Reizerfassung?",
+    r4_q_a: "Das Gehirn entscheidet, was zu tun ist",
+    r4_q_b: "Ein Nervensignal wandert nach oben",
+    r4_q_c: "Der Muskel zieht sich sofort zusammen",
+    r4_q_d: "Der Reiz stoppt",
 
     // Round 5: Quiz
     r5_title: "Quiz zu Sinnesorganen",
@@ -188,6 +232,34 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_b3: "Jel utazik — az ideget követve az agy felé",
     r4_b4: "Agyi válasz — eldönti, mit kell tenni (kéz húzd vissza)",
 
+    // Round 1: Az 5 érzék — Kérdés
+    r1_q: "Melyik az érzékszerv?",
+    r1_q_a: "Szem (látás)",
+    r1_q_b: "Szív (légzés)",
+    r1_q_c: "Izom (mozgás)",
+    r1_q_d: "Csont (támogatás)",
+
+    // Round 2: A szem — Kérdés
+    r2_q: "Mit csinál a pupilla?",
+    r2_q_a: "Szabályozza, mennyi fény jut a szembe",
+    r2_q_b: "A fényt a retinára fókuszálja",
+    r2_q_c: "Jeleket szállít az agyhoz",
+    r2_q_d: "Fényre érzékeny sejteket tartalmaz",
+
+    // Round 3: A fül — Kérdés
+    r3_q: "A fül melyik része fogad először hanghullámokat?",
+    r3_q_a: "Cochlea",
+    r3_q_b: "Dobhártya",
+    r3_q_c: "Külső fül",
+    r3_q_d: "Hallócsontok",
+
+    // Round 4: Reflex ív — Kérdés
+    r4_q: "Mi történik a reflex ívben közvetlenül az ingerfelfogás után?",
+    r4_q_a: "Az agy eldönti, mit kell tenni",
+    r4_q_b: "Egy idegi jel utazik felfelé",
+    r4_q_c: "Az izom azonnal összehúzódik",
+    r4_q_d: "Az inger megáll",
+
     // Round 5: Quiz
     r5_title: "Érzékszervek kvíz",
     r5_text: "Ellenőrizzük az ismereteidet!",
@@ -257,6 +329,34 @@ const LABELS: Record<string, Record<string, string>> = {
     r4_b2: "Receptor — organul senzorial detectează stimulul",
     r4_b3: "Semnalul călătorește — în sus pe nerv la creier",
     r4_b4: "Răspunsul creierului — decide ce să facă (trage mâna)",
+
+    // Round 1: Cele 5 simțuri — Întrebare
+    r1_q: "Care este un organ senzorial?",
+    r1_q_a: "Ochi (vedere)",
+    r1_q_b: "Inimă (respirație)",
+    r1_q_c: "Mușchi (mișcare)",
+    r1_q_d: "Os (suport)",
+
+    // Round 2: Ochiul — Întrebare
+    r2_q: "Ce face pupila?",
+    r2_q_a: "Controlează cât de mult lumină intră în ochi",
+    r2_q_b: "Focalizează lumina pe retină",
+    r2_q_c: "Transmite semnale la creier",
+    r2_q_d: "Conține celule sensibile la lumină",
+
+    // Round 3: Urechea — Întrebare
+    r3_q: "Care parte a urechii primește prima undele sonore?",
+    r3_q_a: "Cohleă",
+    r3_q_b: "Timpan",
+    r3_q_c: "Urechea externă",
+    r3_q_d: "Oscioare",
+
+    // Round 4: Arc reflex — Întrebare
+    r4_q: "Ce se întâmplă în arcul reflex imediat după detectarea stimulului?",
+    r4_q_a: "Creierul decide ce să facă",
+    r4_q_b: "Un semnal nervos călătorește în sus",
+    r4_q_c: "Mușchiul se contractă imediat",
+    r4_q_d: "Stimulul se oprește",
 
     // Round 5: Quiz
     r5_title: "Chestionar organelor senzoriale",

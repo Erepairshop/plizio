@@ -611,43 +611,71 @@ function SVG_R4(lang: string) {
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
-    // Round 1: Skeleton Functions (INFO)
+    // Round 1: Skeleton Functions (MCQ with 1 question)
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1Title",
       infoText: "r1Text",
       svg: SVG_R1,
       bulletKeys: ["r1B1", "r1B2", "r1B3", "r1B4"],
+      questions: [
+        {
+          question: "q1",
+          choices: ["a1_skull", "a1_spine", "a1_ribs", "a1_femur"],
+          answer: "a1_skull",
+        },
+      ],
     },
 
-    // Round 2: Major Bones (INFO)
+    // Round 2: Major Bones (MCQ with 1 question)
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2Title",
       infoText: "r2Text",
       svg: SVG_R2,
       bulletKeys: ["r2B1", "r2B2", "r2B3", "r2B4", "r2B5", "r2B6"],
+      questions: [
+        {
+          question: "q2",
+          choices: ["a2_protect", "a2_movement", "a2_support", "a2_blood"],
+          answer: "a2_protect",
+        },
+      ],
     },
 
-    // Round 3: Muscles & Movement (INFO)
+    // Round 3: Muscles & Movement (MCQ with 1 question)
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3Title",
       infoText: "r3Text",
       svg: SVG_R3,
       bulletKeys: ["r3B1", "r3B2", "r3B3", "r3B4"],
+      questions: [
+        {
+          question: "q3",
+          choices: ["a3_skeletal", "a3_smooth", "a3_cardiac", "a3_all"],
+          answer: "a3_skeletal",
+        },
+      ],
     },
 
-    // Round 4: Joints & Flexibility (INFO)
+    // Round 4: Joints & Flexibility (MCQ with 1 question)
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4Title",
       infoText: "r4Text",
       svg: SVG_R4,
       bulletKeys: ["r4B1", "r4B2", "r4B3", "r4B4"],
+      questions: [
+        {
+          question: "q5",
+          choices: ["a5_ballsocket", "a5_hinge", "a5_fixed", "a5_pivot"],
+          answer: "a5_ballsocket",
+        },
+      ],
     },
 
-    // Round 5: Quiz (MCQ)
+    // Round 5: Quiz (MCQ with 2 review questions)
     {
       type: "mcq",
       infoTitle: "r1Title",
@@ -662,29 +690,14 @@ const DEF: ExplorerDef = {
       ),
       questions: [
         {
-          question: "q1",
-          choices: ["a1_skull", "a1_spine", "a1_ribs", "a1_femur"],
-          answer: "a1_skull",
-        },
-        {
-          question: "q2",
-          choices: ["a2_protect", "a2_movement", "a2_support", "a2_blood"],
-          answer: "a2_protect",
-        },
-        {
-          question: "q3",
-          choices: ["a3_skeletal", "a3_smooth", "a3_cardiac", "a3_all"],
-          answer: "a3_skeletal",
-        },
-        {
           question: "q4",
           choices: ["a4_shortens", "a4_lengthens", "a4_vibrates", "a4_relaxes"],
           answer: "a4_shortens",
         },
         {
-          question: "q5",
-          choices: ["a5_ballsocket", "a5_hinge", "a5_fixed", "a5_pivot"],
-          answer: "a5_ballsocket",
+          question: "q1",
+          choices: ["a1_skull", "a1_spine", "a1_ribs", "a1_femur"],
+          answer: "a1_skull",
         },
       ],
     },

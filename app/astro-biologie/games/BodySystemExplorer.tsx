@@ -516,39 +516,78 @@ const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r1_title",
       infoText: "r1_text",
       svg: SvgRound1,
       bulletKeys: ["r1_b1", "r1_b2", "r1_b3"],
+      questions: [
+        {
+          question: "q1",
+          choices: ["q1_a", "q1_b", "q1_c"],
+          answer: "q1_a",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r2_title",
       infoText: "r2_text",
       svg: SvgRound2,
       bulletKeys: ["r2_b1", "r2_b2", "r2_b3"],
+      questions: [
+        {
+          question: "q2",
+          choices: ["q2_a", "q2_b", "q2_c"],
+          answer: "q2_a",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
       svg: SvgRound3,
       bulletKeys: ["r3_b1", "r3_b2", "r3_b3"],
+      questions: [
+        {
+          question: "q3",
+          choices: ["q3_a", "q3_b", "q3_c"],
+          answer: "q3_a",
+        },
+      ],
     },
     {
-      type: "info",
+      type: "mcq",
       infoTitle: "r4_title",
       infoText: "r4_text",
       svg: SvgRound4,
       bulletKeys: ["r4_b1", "r4_b2", "r4_b3"],
+      questions: [
+        {
+          question: "q4",
+          choices: ["q4_a", "q4_b", "q4_c"],
+          answer: "q4_a",
+        },
+      ],
     },
     {
       type: "mcq",
       infoTitle: "r1_title",
       infoText: "r1_text",
       svg: SvgRound1,
-      questions: QUIZ_QUESTIONS,
+      questions: [
+        {
+          question: "q5",
+          choices: ["q5_a", "q5_b", "q5_c"],
+          answer: "q5_a",
+        },
+        {
+          question: "q1",
+          choices: ["q1_a", "q1_b", "q1_c"],
+          answer: "q1_a",
+        },
+      ],
       bulletKeys: [],
     },
   ],
