@@ -106,6 +106,11 @@ export interface LanguageTestEngineConfig {
   /** Which grades support visual questions */
   visualGrades?: number[];
 
+  // ── Grade list (optional, defaults to 1-8) ──
+  grades?: number[];
+  /** If true, the Lesetest toggle is hidden from topics screen */
+  hideLesetest?: boolean;
+
   // ── Reading Test (optional) ──
   getReadingPassage?: (grade: number) => ReadingPassage | null;
 

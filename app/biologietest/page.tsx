@@ -32,6 +32,8 @@ const BIO_CONFIG: LanguageTestEngineConfig = {
   ttsPitch: 1.1,
   dateLocale: "de-DE",
   storageKey: "biologietest_country",
+  grades: [5, 6, 7, 8],
+  hideLesetest: true,
 
   bgChars: BIO_CHARS,
   bgColors: BIO_COLORS,

@@ -15,11 +15,11 @@ const K8: BiologieTheme[] = [
     icon: "🧬",
     color: "#9B59B6",
     subtopics: [
-      { id: "dna_struktur", name: "DNA Struktur", questions: [] },
-      { id: "vererbung", name: "Vererbung", questions: [] },
-      { id: "mutation", name: "Mutation", questions: [] },
-      { id: "genetische_technik", name: "Genetische Technik", questions: [] },
-      { id: "genetic_counseling", name: "Genetische Beratung", questions: [] },
+      { id: "dna_struktur", name: "DNA Struktur", questions: [], hasGenerator: true },
+      { id: "vererbung", name: "Vererbung", questions: [], hasGenerator: true },
+      { id: "mutation", name: "Mutation", questions: [], hasGenerator: true },
+      { id: "genetische_technik", name: "Genetische Technik", questions: [], hasGenerator: true },
+      { id: "genetic_counseling", name: "Genetische Beratung", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -28,9 +28,9 @@ const K8: BiologieTheme[] = [
     icon: "⚗️",
     color: "#E74C3C",
     subtopics: [
-      { id: "endokrine_druesen", name: "Endokrine Drüsen", questions: [] },
-      { id: "hormonstoffwechsel", name: "Hormonstoffwechsel", questions: [] },
-      { id: "feedback_mechanismen", name: "Feedback Mechanismen", questions: [] },
+      { id: "endokrine_druesen", name: "Endokrine Drüsen", questions: [], hasGenerator: true },
+      { id: "hormonstoffwechsel", name: "Hormonstoffwechsel", questions: [], hasGenerator: true },
+      { id: "feedback_mechanismen", name: "Feedback Mechanismen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -39,11 +39,11 @@ const K8: BiologieTheme[] = [
     icon: "🍼",
     color: "#F39C12",
     subtopics: [
-      { id: "gametogenese", name: "Gametogenese", questions: [] },
-      { id: "befruchtung", name: "Befruchtung", questions: [] },
-      { id: "embryonalentwicklung", name: "Embryonalentwicklung", questions: [] },
-      { id: "geschlechtsbestimmung", name: "Geschlechtsbestimmung", questions: [] },
-      { id: "contraception", name: "Verhütungsmethoden", questions: [] },
+      { id: "gametogenese", name: "Gametogenese", questions: [], hasGenerator: true },
+      { id: "befruchtung", name: "Befruchtung", questions: [], hasGenerator: true },
+      { id: "embryonalentwicklung", name: "Embryonalentwicklung", questions: [], hasGenerator: true },
+      { id: "geschlechtsbestimmung", name: "Geschlechtsbestimmung", questions: [], hasGenerator: true },
+      { id: "contraception", name: "Verhütungsmethoden", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -52,9 +52,9 @@ const K8: BiologieTheme[] = [
     icon: "🔬",
     color: "#1ABC9C",
     subtopics: [
-      { id: "enzyme", name: "Enzyme", questions: [] },
-      { id: "bioethik", name: "Bioethik", questions: [] },
-      { id: "biotech_anwendungen", name: "Anwendungen", questions: [] },
+      { id: "enzyme", name: "Enzyme", questions: [], hasGenerator: true },
+      { id: "bioethik", name: "Bioethik", questions: [], hasGenerator: true },
+      { id: "biotech_anwendungen", name: "Anwendungen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -63,9 +63,9 @@ const K8: BiologieTheme[] = [
     icon: "🌐",
     color: "#3498DB",
     subtopics: [
-      { id: "integration", name: "Systemintegration", questions: [] },
-      { id: "homeostasis", name: "Homöostase", questions: [] },
-      { id: "stoffwechseltypologie", name: "Stoffwechseltypen", questions: [] },
+      { id: "integration", name: "Systemintegration", questions: [], hasGenerator: true },
+      { id: "homeostasis", name: "Homöostase", questions: [], hasGenerator: true },
+      { id: "stoffwechseltypologie", name: "Stoffwechseltypen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -74,10 +74,10 @@ const K8: BiologieTheme[] = [
     icon: "🧪",
     color: "#D35400",
     subtopics: [
-      { id: "populationsgenetik", name: "Populationsgenetik", questions: [] },
-      { id: "artbildung", name: "Artbildung", questions: [] },
-      { id: "phylogenie", name: "Phylogenie", questions: [] },
-      { id: "conservation_biology", name: "Naturschutzbiologie", questions: [] },
+      { id: "populationsgenetik", name: "Populationsgenetik", questions: [], hasGenerator: true },
+      { id: "artbildung", name: "Artbildung", questions: [], hasGenerator: true },
+      { id: "phylogenie", name: "Phylogenie", questions: [], hasGenerator: true },
+      { id: "conservation_biology", name: "Naturschutzbiologie", questions: [], hasGenerator: true },
     ],
   },
 ];

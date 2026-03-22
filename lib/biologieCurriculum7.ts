@@ -15,11 +15,11 @@ const K7: BiologieTheme[] = [
     icon: "🔬",
     color: "#E67E22",
     subtopics: [
-      { id: "cell_structure", name: "Zellstruktur", questions: [] },
-      { id: "cell_organelles", name: "Organellen", questions: [] },
-      { id: "microscope", name: "Mikroskop", questions: [] },
-      { id: "cell_division", name: "Zellteilung", questions: [] },
-      { id: "cell_cycle", name: "Zellzyklus", questions: [] },
+      { id: "cell_structure", name: "Zellstruktur", questions: [], hasGenerator: true },
+      { id: "cell_organelles", name: "Organellen", questions: [], hasGenerator: true },
+      { id: "microscope", name: "Mikroskop", questions: [], hasGenerator: true },
+      { id: "cell_division", name: "Zellteilung", questions: [], hasGenerator: true },
+      { id: "cell_cycle", name: "Zellzyklus", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -28,9 +28,9 @@ const K7: BiologieTheme[] = [
     icon: "⚡",
     color: "#27AE60",
     subtopics: [
-      { id: "photosynthesis_detail", name: "Fotosynthese Detail", questions: [] },
-      { id: "cellular_respiration", name: "Zellatmung", questions: [] },
-      { id: "energy_transfer", name: "Energieübertrag", questions: [] },
+      { id: "photosynthesis_detail", name: "Fotosynthese Detail", questions: [], hasGenerator: true },
+      { id: "cellular_respiration", name: "Zellatmung", questions: [], hasGenerator: true },
+      { id: "energy_transfer", name: "Energieübertrag", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -39,11 +39,11 @@ const K7: BiologieTheme[] = [
     icon: "🌍",
     color: "#16A085",
     subtopics: [
-      { id: "population", name: "Population", questions: [] },
-      { id: "ecological_niche", name: "Ökologische Nische", questions: [] },
-      { id: "competition", name: "Konkurrenz", questions: [] },
-      { id: "symbiosis", name: "Symbiose", questions: [] },
-      { id: "biogeochemical_cycles", name: "Biogeochemische Kreisläufe", questions: [] },
+      { id: "population", name: "Population", questions: [], hasGenerator: true },
+      { id: "ecological_niche", name: "Ökologische Nische", questions: [], hasGenerator: true },
+      { id: "competition", name: "Konkurrenz", questions: [], hasGenerator: true },
+      { id: "symbiosis", name: "Symbiose", questions: [], hasGenerator: true },
+      { id: "biogeochemical_cycles", name: "Biogeochemische Kreisläufe", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -52,9 +52,9 @@ const K7: BiologieTheme[] = [
     icon: "🛡️",
     color: "#8E44AD",
     subtopics: [
-      { id: "immune_cells", name: "Immunzellen", questions: [] },
-      { id: "immune_response", name: "Immunantwort", questions: [] },
-      { id: "vaccination", name: "Impfung", questions: [] },
+      { id: "immune_cells", name: "Immunzellen", questions: [], hasGenerator: true },
+      { id: "immune_response", name: "Immunantwort", questions: [], hasGenerator: true },
+      { id: "vaccination", name: "Impfung", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -63,11 +63,11 @@ const K7: BiologieTheme[] = [
     icon: "🧠",
     color: "#C0392B",
     subtopics: [
-      { id: "neuron", name: "Neuron", questions: [] },
-      { id: "synapse", name: "Synapse", questions: [] },
-      { id: "reflex", name: "Reflex", questions: [] },
-      { id: "brain", name: "Gehirn", questions: [] },
-      { id: "behavior_learning", name: "Verhalten & Lernen", questions: [] },
+      { id: "neuron", name: "Neuron", questions: [], hasGenerator: true },
+      { id: "synapse", name: "Synapse", questions: [], hasGenerator: true },
+      { id: "reflex", name: "Reflex", questions: [], hasGenerator: true },
+      { id: "brain", name: "Gehirn", questions: [], hasGenerator: true },
+      { id: "behavior_learning", name: "Verhalten & Lernen", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -76,9 +76,9 @@ const K7: BiologieTheme[] = [
     icon: "🧬",
     color: "#D35400",
     subtopics: [
-      { id: "adaptation", name: "Anpassung", questions: [] },
-      { id: "natural_selection", name: "Natürliche Auswahl", questions: [] },
-      { id: "fossils", name: "Fossilien", questions: [] },
+      { id: "adaptation", name: "Anpassung", questions: [], hasGenerator: true },
+      { id: "natural_selection", name: "Natürliche Auswahl", questions: [], hasGenerator: true },
+      { id: "fossils", name: "Fossilien", questions: [], hasGenerator: true },
     ],
   },
 ];
