@@ -645,7 +645,7 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
 
         {/* Label with dashed pointer */}
         <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(0,0,0,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#333">{l.leathery}</text>
+        <text x="0" y="48" textAnchor="middle" fontSize="6" fontWeight="bold" fill="#333">{l.leathery}</text>
       </g>
 
       {/* BIRD EGG (right) - hard shell */}
@@ -666,7 +666,7 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
 
         {/* Label with dashed pointer */}
         <line x1="0" y1="25" x2="0" y2="35" stroke="rgba(255,255,255,0.3)" strokeWidth="1" strokeDasharray="2,2" />
-        <text x="0" y="48" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">{l.hard}</text>
+        <text x="0" y="48" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">{l.hard}</text>
       </g>
 
       {/* HATCHING EGG (center bottom) */}
@@ -688,7 +688,7 @@ function SVG_R4(lang: string = "en"): React.ReactNode {
         <circle cx="2.2" cy="-3.7" r="0.4" fill="white" opacity="0.8" />
 
         {/* Label below */}
-        <text x="0" y="22" textAnchor="middle" fontSize="9" fontWeight="bold" fill="#333">{l.hatching}</text>
+        <text x="0" y="22" textAnchor="middle" fontSize="5.5" fontWeight="bold" fill="#333">{l.hatching}</text>
       </g>
     </svg>
   );
@@ -746,7 +746,7 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       <rect x="8" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
 
       {/* Title */}
-      <text x="60.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">{l.reptiles}</text>
+      <text x="60.5" y="32" textAnchor="middle" fontSize="8" fontWeight="900" fill="white">{l.reptiles}</text>
 
       {/* Lizard illustration */}
       <g transform="translate(35, 58)">
@@ -772,17 +772,17 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       {/* Features list */}
       <g>
         <circle cx="18" cy="98" r="2.5" fill="#9CCC65" />
-        <text x="26" y="102" fontSize="9" fontWeight="bold" fill="white">{l.scales}</text>
+        <text x="26" y="102" fontSize="5.5" fontWeight="bold" fill="white">{l.scales}</text>
       </g>
 
       <g>
         <circle cx="18" cy="116" r="2.5" fill="#9CCC65" />
-        <text x="26" y="120" fontSize="9" fontWeight="bold" fill="white">{l.cold}</text>
+        <text x="26" y="120" fontSize="5.5" fontWeight="bold" fill="white">{l.cold}</text>
       </g>
 
       <g>
         <circle cx="18" cy="134" r="2.5" fill="#9CCC65" />
-        <text x="26" y="138" fontSize="9" fontWeight="bold" fill="white">{l.eggs}</text>
+        <text x="26" y="138" fontSize="5.5" fontWeight="bold" fill="white">{l.eggs}</text>
       </g>
 
       {/* RIGHT CARD - BIRDS */}
@@ -792,7 +792,7 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       <rect x="127" y="12" width="105" height="20" rx="10" fill="white" opacity="0.1" />
 
       {/* Title */}
-      <text x="179.5" y="32" textAnchor="middle" fontSize="13" fontWeight="900" fill="white">{l.birds}</text>
+      <text x="179.5" y="32" textAnchor="middle" fontSize="8" fontWeight="900" fill="white">{l.birds}</text>
 
       {/* Eagle illustration */}
       <g transform="translate(155, 52)">
@@ -821,17 +821,17 @@ function SVG_R5(lang: string = "en"): React.ReactNode {
       {/* Features list */}
       <g>
         <circle cx="137" cy="98" r="2.5" fill="#FFD54F" />
-        <text x="145" y="102" fontSize="9" fontWeight="bold" fill="white">{l.feathers}</text>
+        <text x="145" y="102" fontSize="5.5" fontWeight="bold" fill="white">{l.feathers}</text>
       </g>
 
       <g>
         <circle cx="137" cy="116" r="2.5" fill="#FFD54F" />
-        <text x="145" y="120" fontSize="9" fontWeight="bold" fill="white">{l.warm}</text>
+        <text x="145" y="120" fontSize="5.5" fontWeight="bold" fill="white">{l.warm}</text>
       </g>
 
       <g>
         <circle cx="137" cy="134" r="2.5" fill="#FFD54F" />
-        <text x="145" y="138" fontSize="9" fontWeight="bold" fill="white">{l.eggs}</text>
+        <text x="145" y="138" fontSize="5.5" fontWeight="bold" fill="white">{l.eggs}</text>
       </g>
     </svg>
   );

@@ -456,12 +456,12 @@ function SVG_R3(lang: string): React.ReactNode {
         2. Fertilization
       </text>
       <circle cx="120" cy="50" r="5" fill="#90EE90" stroke="#228B22" strokeWidth="1" />
-      <text x="120" y="52" fontSize="8" fill="white" textAnchor="middle">
+      <text x="120" y="52" fontSize="5.5" fill="white" textAnchor="middle">
         ♀
       </text>
       <circle cx="120" cy="35" r="2.5" fill="#FFD700" />
       <path d="M 120,37.5 L 120,44" stroke="#FFD700" strokeWidth="1" />
-      <text x="120" y="27" fontSize="8" fill="white" textAnchor="middle">
+      <text x="120" y="27" fontSize="5.5" fill="white" textAnchor="middle">
         ♂
       </text>
 
@@ -504,7 +504,7 @@ function SVG_R4(lang: string): React.ReactNode {
       </defs>
 
       {/* Panel 1: Wind dispersal (dandelion) */}
-      <text x="30" y="18" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+      <text x="30" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
         Wind
       </text>
       <circle cx="30" cy="45" r="6" fill="rgba(200,200,200,0.6)" />
@@ -516,7 +516,7 @@ function SVG_R4(lang: string): React.ReactNode {
       <circle cx="30" cy="41" r="2" fill="url(#r4_seed)" />
 
       {/* Panel 2: Water dispersal (coconut) */}
-      <text x="120" y="18" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+      <text x="120" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
         Water
       </text>
       {/* Coconut shape */}
@@ -527,7 +527,7 @@ function SVG_R4(lang: string): React.ReactNode {
       <path d="M 120,68 Q 130,65 140,68" stroke="rgba(100,200,255,0.5)" strokeWidth="1" fill="none" />
 
       {/* Panel 3: Animal dispersal (burrs) */}
-      <text x="210" y="18" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+      <text x="210" y="18" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
         Animal
       </text>
       {/* Spiky seed pod */}
@@ -539,7 +539,7 @@ function SVG_R4(lang: string): React.ReactNode {
       <line x1="202" y1="40" x2="196" y2="33" stroke="#654321" strokeWidth="1.5" />
 
       {/* Bottom panel: Explosion dispersal */}
-      <text x="120" y="125" fontSize="9" fill="white" fontWeight="bold" textAnchor="middle">
+      <text x="120" y="125" fontSize="6" fill="white" fontWeight="bold" textAnchor="middle">
         Explosion
       </text>
       {/* Pod opening */}

@@ -607,22 +607,22 @@ function SVG_R5(lang: string): React.ReactNode {
 
       {/* Function boxes on right */}
       <rect x="140" y="50" width="90" height="16" rx="8" fill="rgba(139,90,60,0.3)" stroke="rgba(139,90,60,0.6)" strokeWidth="1" />
-      <text x="185" y="61" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white">
+      <text x="185" y="61" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
         Absorbs water
       </text>
 
       <rect x="140" y="75" width="90" height="16" rx="8" fill="rgba(74,139,74,0.3)" stroke="rgba(74,139,74,0.6)" strokeWidth="1" />
-      <text x="185" y="86" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white">
+      <text x="185" y="86" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
         Transports water
       </text>
 
       <rect x="140" y="100" width="90" height="16" rx="8" fill="rgba(107,203,119,0.3)" stroke="rgba(107,203,119,0.6)" strokeWidth="1" />
-      <text x="185" y="111" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white">
+      <text x="185" y="111" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
         Captures sunlight
       </text>
 
       <rect x="140" y="125" width="90" height="16" rx="8" fill="rgba(255,131,66,0.3)" stroke="rgba(255,131,66,0.6)" strokeWidth="1" />
-      <text x="185" y="136" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white">
+      <text x="185" y="136" textAnchor="middle" fontSize="6" fontWeight="bold" fill="white">
         Reproduces
       </text>
     </svg>
