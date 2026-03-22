@@ -481,6 +481,204 @@ export function generateLiquidPressureTyping(lang: string = "en", seed: number =
   ];
 }
 
+// ─── 3. ATMOSPHERIC PRESSURE ───────────────────────────────────────────────
+
+const ATMOSPHERIC_PRESSURE_DATA = {
+  examples: [
+    { en: "a barometer", de: "ein Barometer", hu: "barométer", ro: "un barometru" },
+    { en: "weather prediction", de: "Wettervorhersage", hu: "időjárás előrejelzés", ro: "predicție meteo" },
+    { en: "altitude effects on climate", de: "Höheneffekte auf Klima", hu: "magasság hatása az éghajlatra", ro: "efecte altitudinii pe climă" },
+    { en: "airplane cabin pressure", de: "Flugzeugkabinendruck", hu: "repülőgép kabin nyomás", ro: "presiune cabină avion" },
+    { en: "mountain climbing difficulty", de: "Schwierigkeit beim Bergsteigen", hu: "hegymászás nehézsége", ro: "dificultatea alpinismului" },
+    { en: "boiling point of water changing with altitude", de: "Siedepunkt von Wasser ändert sich mit Höhe", hu: "víz forráspontja magassággal változik", ro: "punctul de fierbere al apei se schimbă cu altitudine" },
+    { en: "vacuum experiment", de: "Vakuumexperiment", hu: "vákuum kísérlet", ro: "experiment în vid" },
+    { en: "suction cup on a wall", de: "Saugnapf an der Wand", hu: "szívócsésze a falon", ro: "o ventuză pe perete" },
+  ],
+
+  values: [
+    { en: "101,325 Pa (sea level)", de: "101.325 Pa (Meereshöhe)", hu: "101 325 Pa (tengerszint)", ro: "101.325 Pa (nivel mării)" },
+    { en: "1 atmosphere (atm)", de: "1 Atmosphäre (atm)", hu: "1 légkör (atm)", ro: "1 atmosferă (atm)" },
+    { en: "1 bar ≈ 100,000 Pa", de: "1 bar ≈ 100.000 Pa", hu: "1 bar ≈ 100 000 Pa", ro: "1 bar ≈ 100.000 Pa" },
+  ],
+
+  properties: [
+    { en: "altitude", de: "Höhe", hu: "magasság", ro: "altitudine" },
+    { en: "barometer", de: "Barometer", hu: "barométer", ro: "barometru" },
+    { en: "weather systems", de: "Wettersysteme", hu: "időjárási rendszerek", ro: "sisteme meteo" },
+    { en: "inversely proportional to altitude", de: "umgekehrt proportional zur Höhe", hu: "fordítottan arányos a magassággal", ro: "invers proporțional cu altitudinea" },
+  ],
+};
+
+export function generateAtmosphericPressureMCQ(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const questions: CurriculumQuestion[] = [];
+
+  // Template 1: "What is atmospheric pressure?"
+  for (let i = 0; i < 6; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Was ist Luftdruck (atmosphärischer Druck)?", "What is atmospheric pressure?", "Mit a légnyomás?", "Ce este presiunea atmosferică?", lang),
+      q4("Der Druck, der durch das Gewicht der Luft über uns ausgeübt wird", "The pressure exerted by the weight of air above us", "Az a nyomás, amelyet a felettünk lévő levegő súlya gyakorol", "Presiunea exercitată de greutatea aerului de deasupra noastră", lang),
+      [
+        q4("Der Druck von Wind und Stürmen", "The pressure of wind and storms", "Szél és viharok nyomása", "Presiunea vântului și furtunilor", lang),
+        q4("Der Druck von Wasserdampf in der Atmosphäre", "The pressure of water vapor in the atmosphere", "Gőz nyomása az atmoszférában", "Presiunea vaporilor de apă în atmosferă", lang),
+        q4("Der Druck der Sonne auf die Erde", "The pressure of the sun on Earth", "Nap nyomása a Földre", "Presiunea soarelui pe Pământ", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 2: "Which is an example of atmospheric pressure?"
+  for (let i = 0; i < 8; i++) {
+    const example = pick(ATMOSPHERIC_PRESSURE_DATA.examples, rng);
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4(`Welches ist ein Beispiel für Luftdruck?`, `Which is an example of atmospheric pressure?`, `Melyik egy légnyomás példája?`, `Care este un exemplu de presiune atmosferică?`, lang),
+      example[lang as "en"],
+      ATMOSPHERIC_PRESSURE_DATA.examples
+        .filter(e => e[lang as "en"] !== example[lang as "en"])
+        .slice(0, 3)
+        .map(e => e[lang as "en"]),
+      rng
+    ));
+  }
+
+  // Template 3: "What is the standard atmospheric pressure at sea level?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Was ist der Standard-Luftdruck auf Meereshöhe?", "What is the standard atmospheric pressure at sea level?", "Mi a standard légnyomás tengerszinten?", "Care este presiunea atmosferică standard la nivelul mării?", lang),
+      q4("101,325 Pa oder 1 atm", "101,325 Pa or 1 atm", "101 325 Pa vagy 1 atm", "101.325 Pa sau 1 atm", lang),
+      [
+        q4("50,000 Pa", "50,000 Pa", "50 000 Pa", "50.000 Pa", lang),
+        q4("200,000 Pa", "200,000 Pa", "200 000 Pa", "200.000 Pa", lang),
+        q4("150,000 Pa", "150,000 Pa", "150 000 Pa", "150.000 Pa", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 4: "How does altitude affect atmospheric pressure?"
+  for (let i = 0; i < 5; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Wie beeinflusst die Höhe den Luftdruck?", "How does altitude affect atmospheric pressure?", "Hogyan befolyásolja a magasság a légnyomást?", "Cum afectează altitudinea presiunea atmosferică?", lang),
+      q4("Je höher, desto niedriger der Luftdruck", "The higher, the lower the atmospheric pressure", "Minél magasabb, annál alacsonyabb a légnyomás", "Cu cât mai înalt, cu atât mai mică presiunea", lang),
+      [
+        q4("Je höher, desto höher der Luftdruck", "The higher, the higher the pressure", "Minél magasabb, annál magasabb a légnyomás", "Cu cât mai înalt, cu atât mai mare presiunea", lang),
+        q4("Die Höhe hat keinen Einfluss", "Altitude has no effect", "A magasságnak nincs hatása", "Altitudinea nu are efect", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 5: "What is a barometer used for?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Wofür wird ein Barometer verwendet?", "What is a barometer used for?", "Mire használnak barométert?", "Pentru ce se folosește un barometru?", lang),
+      q4("Um den Luftdruck zu messen", "To measure atmospheric pressure", "A légnyomás mérésére", "Pentru a măsura presiunea atmosferică", lang),
+      [
+        q4("Um die Temperatur zu messen", "To measure temperature", "A hőmérséklet mérésére", "Pentru a măsura temperatura", lang),
+        q4("Um die Windgeschwindigkeit zu messen", "To measure wind speed", "A szél sebességének mérésére", "Pentru a măsura viteza vântului", lang),
+        q4("Um Höhen zu messen", "To measure heights", "A magassági mérésre", "Pentru a măsura înălțimi", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 6: "How does atmospheric pressure relate to weather?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Wie hängt der Luftdruck mit dem Wetter zusammen?", "How does atmospheric pressure relate to weather?", "Hogyan kapcsolódik a légnyomás az időjáráshoz?", "Cum se raportează presiunea atmosferică la vreme?", lang),
+      q4("Niedriger Druck bringt schlechtes Wetter, hoher Druck bringt gutes Wetter", "Low pressure brings bad weather, high pressure brings good weather", "Alacsony nyomás rossz időt hoz, magas nyomás jó időt", "Presiunea scăzută aduce vreme rea, presiunea ridicată aduce vreme bună", lang),
+      [
+        q4("Der Luftdruck hat keinen Einfluss auf das Wetter", "Pressure has no effect on weather", "A légnyomásnak nincs hatása az időjárásra", "Presiunea nu afectează vremea", lang),
+        q4("Nur hoher Druck hat einen Einfluss", "Only high pressure has an effect", "Csak a magas nyomás hat", "Doar presiunea ridicată are efect", lang),
+      ],
+      rng
+    ));
+  }
+
+  // Template 7: "Why is a suction cup effective?"
+  for (let i = 0; i < 4; i++) {
+    questions.push(createMCQ(
+      "pressure",
+      "atmospheric_pressure",
+      q4("Warum ist ein Saugnapf wirksam?", "Why is a suction cup effective?", "Miért hatékony a szívócsésze?", "De ce este eficace o ventuză?", lang),
+      q4("Weil der Luftdruck es gegen die Oberfläche drückt", "Because atmospheric pressure pushes it against the surface", "Mert a légnyomás az felületre nyomja", "Pentru că presiunea atmosferică o apasă pe suprafață", lang),
+      [
+        q4("Weil es eine Klebstoff enthält", "Because it contains adhesive", "Mert ragasztót tartalmaz", "Pentru că conține adeziv", lang),
+        q4("Weil es unter Wasser wirksamer ist", "Because it works better underwater", "Mert jobban működik víz alatt", "Pentru că funcționează mai bine sub apă", lang),
+      ],
+      rng
+    ));
+  }
+
+  return questions;
+}
+
+export function generateAtmosphericPressureTyping(lang: string = "en", seed: number = 0): CurriculumQuestion[] {
+  return [
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Definiere Luftdruck und gib den Standard-Wert an.", "Define atmospheric pressure and give the standard value.", "Határozd meg a légnyomást és add meg a standard értéket.", "Definește presiunea atmosferică și dă valoarea standard.", lang),
+      ["air weight", "Luftgewicht", "levegősúly", "greutate aer", "101,325 Pa", "101325", "1 atm", "atmosphere"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Was ist ein Barometer und wie funktioniert es?", "What is a barometer and how does it work?", "Mit az egy barométer és hogyan működik?", "Ce este un barometru și cum funcționează?", lang),
+      ["measures", "misst", "mér", "măsoară", "pressure", "Druck", "nyomás", "presiune", "atmospheric", "atmosphärisch", "légköri", "atmosferică", "mercury", "Quecksilber", "higanyz", "mercur"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Gib drei Beispiele für Luftdruck im Alltag.", "Give three examples of atmospheric pressure in everyday life.", "Add meg három légnyomás példát a mindennapi életből.", "Dă trei exemple de presiune atmosferică în viața de zi cu zi.", lang),
+      ["barometer", "Barometer", "barométer", "barometru", "weather", "Wetter", "időjárás", "vreme", "altitude", "Höhe", "magasság", "altitudine", "plane", "Flugzeug", "repülőgép", "avion", "mountain", "Berg", "hegy", "munte"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Wie beeinflusst Höhe den Luftdruck?", "How does altitude affect atmospheric pressure?", "Hogyan befolyásolja a magasság a légnyomást?", "Cum afectează altitudinea presiunea atmosferică?", lang),
+      ["decreases", "nimmt ab", "csökken", "scade", "higher", "höher", "magasabb", "mai înalt", "lower pressure", "niedrigerer Druck", "alacsonyabb nyomás", "presiune mai scăzută"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Was ist die Einheit zur Messung von Luftdruck?", "What is the unit for measuring atmospheric pressure?", "Mi a légnyomás mérésének egysége?", "Care este unitatea de măsurare a presiunii atmosferice?", lang),
+      ["pascal", "Pa", "pascal", "Pa", "atm", "atmosphere", "bar", "millibar"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Warum ist das Atmen auf hohen Bergen schwerer?", "Why is breathing harder at high altitudes?", "Miért nehezebb a levegővétel magas hegyen?", "De ce este respirația mai greu la altitudini mari?", lang),
+      ["lower pressure", "niedrigerer Druck", "alacsonyabb nyomás", "presiune mai scăzută", "less oxygen", "weniger Sauerstoff", "kevesebb oxigén", "mai puțin oxigen", "thin air", "dünne Luft", "ritka levegő", "aer rar"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Erkläre, wie ein Barometer funktioniert.", "Explain how a barometer works.", "Magyarázd meg, hogyan működik egy barométer.", "Explică cum funcționează un barometru.", lang),
+      ["mercury", "Quecksilber", "higanyz", "mercur", "rises", "steigt", "emelkedik", "se ridică", "falls", "fällt", "esik", "cade", "pressure", "Druck", "nyomás", "presiune"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Was ist der Zusammenhang zwischen Luftdruck und Wetter?", "What is the relationship between pressure and weather?", "Mi a légnyomás és az időjárás közötti kapcsolat?", "Care este relația dintre presiune și vreme?", lang),
+      ["low pressure", "niedriger Druck", "alacsony nyomás", "presiune scăzută", "bad weather", "schlechtes Wetter", "rossz idő", "vreme rea", "high pressure", "hoher Druck", "magas nyomás", "presiune ridicată", "good weather"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Warum funktioniert ein Saugnapf?", "Why does a suction cup work?", "Miért működik a szívócsésze?", "De ce funcționează o ventuză?", lang),
+      ["atmospheric pressure", "Luftdruck", "légnyomás", "presiune atmosferică", "pushes", "drückt", "nyom", "apasă", "surface", "Oberfläche", "felület", "suprafață"]
+    ),
+
+    createTyping("pressure", "atmospheric_pressure",
+      q4("Beschreibe, wie Flugzeugkabinen druckgekuppelt werden.", "Describe how airplane cabins are pressurized.", "Írj le, hogyan nyomástartóan lezárják a repülőgép kabinit.", "Descrie cum sunt presate cabinele avioanelor.", lang),
+      ["maintain", "bewahren", "fenntartani", "menține", "pressure", "Druck", "nyomás", "presiune", "altitude", "Höhe", "magasság", "altitudine", "passengers", "Passagiere", "utasok", "pasageri", "oxygen", "Sauerstoff", "oxigén"]
+    ),
+  ];
+}
+
 // ─── EXPORT ────────────────────────────────────────────────────────────────
 
 export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
@@ -491,6 +689,10 @@ export const K6_PRESSURE_GENERATORS: Record<string, (lang?: string, seed?: numbe
   liquid_pressure: (lang = "en", seed = 0) => [...generateLiquidPressureMCQ(lang, seed), ...generateLiquidPressureTyping(lang, seed)],
   liquid_pressure_mcq: (lang = "en", seed = 0) => generateLiquidPressureMCQ(lang, seed),
   liquid_pressure_typing: (lang = "en", seed = 0) => generateLiquidPressureTyping(lang, seed),
+
+  atmospheric_pressure: (lang = "en", seed = 0) => [...generateAtmosphericPressureMCQ(lang, seed), ...generateAtmosphericPressureTyping(lang, seed)],
+  atmospheric_pressure_mcq: (lang = "en", seed = 0) => generateAtmosphericPressureMCQ(lang, seed),
+  atmospheric_pressure_typing: (lang = "en", seed = 0) => generateAtmosphericPressureTyping(lang, seed),
 };
 
 // ─── INTEGRATION WITH physikCurriculum6.ts ────────────────────────────────
