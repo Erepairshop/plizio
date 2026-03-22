@@ -284,7 +284,7 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
         `Când doi magneți cu aceiași poli se întâlnesc, se ___.`,
         "de"
       ),
-      ["repel", "abstoßen", "taszítják", "resping"]
+      ["abstoßen", "repel", "taszítják", "respinge"]
     )
   );
 
@@ -383,13 +383,13 @@ function generateMagnetsTyping(seed?: number): CurriculumTyping[] {
       topic,
       subtopic,
       q4(
-        `Magnetische Feldlinien gehen von ___ zu ___ Pol.`,
-        `Magnetic field lines go from ___ to ___ pole.`,
-        `A mágneses térvonalak az ___ pólusról az ___ pólusra mennek.`,
-        `Liniile de câmp magnetic merg de la polul ___ la polul ___.`,
+        `Magnetische Feldlinien gehen von Nordpol zu ___ Pol.`,
+        `Magnetic field lines go from North pole to ___ pole.`,
+        `A mágneses térvonalak az Északi pólusról az ___ pólusra mennek.`,
+        `Liniile de câmp magnetic merg de la polul Nord la polul ___.`,
         "de"
       ),
-      ["Nord", "South"] // Short form
+      ["Südpol", "South pole", "Déli pólus", "polul Sud"]
     )
   );
 
@@ -545,12 +545,12 @@ function generateMagneticFieldTyping(seed?: number): CurriculumTyping[] {
       subtopic,
       q4(
         `Magnetische Feldlinien zeigen vom ___ zum ___ Pol.`,
-        `Magnetic field lines point from ___ to ___ pole.`,
-        `A mágneses térvonalak az ___ pólusról az ___ pólusra mutatnak.`,
-        `Liniile de câmp magnetic arată de la polul ___ la polul ___.`,
+        `Magnetic field lines point from North pole to ___ pole.`,
+        `A mágneses térvonalak az Északi pólusról az ___ pólusra mutatnak.`,
+        `Liniile de câmp magnetic arată de la polul Nord la polul ___.`,
         "de"
       ),
-      ["Nord", "south"] // Multiple accepted answers
+      ["Südpol", "South pole", "Déli pólus", "polul Sud"]
     )
   );
 
