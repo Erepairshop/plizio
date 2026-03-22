@@ -626,32 +626,58 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
 
       <AnimatePresence mode="wait">
         <motion.div
-          key={`${round}-${qIndex}`}
+          key={`${round}-${qIndex}-${showTeach}`}
           initial={{ opacity: 0, x: 30 }}
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -30 }}
           transition={{ duration: 0.22 }}
           className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
         >
-          {/* Round title + TTS button */}
-          <div className="flex items-center gap-2 justify-center">
-            <p className="text-lg font-black text-white text-center" style={{ color }}>
-              {roundTitles[round]}
-            </p>
-            <button
-              onClick={() => speak(roundTitles[round] + ". " + roundHints[round])}
-              className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-lg bg-white/15 text-white/70 hover:bg-white/25 hover:text-white transition-colors"
-            >
-              <Volume2 size={14} />
-            </button>
-          </div>
+          {/* Teaching phase */}
+          {showTeach && (
+            <div className="flex flex-col items-center gap-4 w-full">
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-xl font-black text-white text-center">{roundTitles[round]}</p>
+                <button onClick={() => speak(roundTitles[round] + ". " + (t as Record<string, string>)[`r${round + 1}Teach`])}
+                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
+                  <Volume2 size={16} />
+                </button>
+              </div>
+              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
+                <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>)[`r${round + 1}Teach`]}</p>
+              </div>
+              <motion.button
+                onClick={() => setShowTeach(false)}
+                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
+                whileTap={{ scale: 0.97 }}
+              >
+                {t.gotIt} <ChevronRight size={16} />
+              </motion.button>
+            </div>
+          )}
 
-          {/* Hint — always visible */}
-          <p className="text-white/60 text-xs font-bold text-center px-2">
-            {roundHints[round]}
-          </p>
+          {/* Quiz phase */}
+          {!showTeach && (
+            <>
+              {/* Round title + TTS button */}
+              <div className="flex items-center gap-2 justify-center">
+                <p className="text-lg font-black text-white text-center" style={{ color }}>
+                  {roundTitles[round]}
+                </p>
+                <button
+                  onClick={() => speak(roundTitles[round] + ". " + roundHints[round])}
+                  className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-lg bg-white/15 text-white/70 hover:bg-white/25 hover:text-white transition-colors"
+                >
+                  <Volume2 size={14} />
+                </button>
+              </div>
 
-          {currentQ && (
+              {/* Hint — always visible */}
+              <p className="text-white/60 text-xs font-bold text-center px-2">
+                {roundHints[round]}
+              </p>
+
+              {currentQ && (
             <>
               {/* Question bubble */}
               <div
@@ -717,6 +743,8 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   <ChevronRight size={16} />
                 </motion.button>
               )}
+            </>
+          )}
             </>
           )}
         </motion.div>
