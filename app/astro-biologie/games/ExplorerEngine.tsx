@@ -396,8 +396,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     const topicTitle = L(currentRound.infoTitle);
     try {
       const timeout = new Promise<null>((resolve) => setTimeout(() => resolve(null), 6000));
+      const rng = Math.random().toString(36).slice(2, 6);
       const request = askAITutor({
-        question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
+        question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji. Be creative and pick something different each time (seed: ${rng}).`,
         context: `Grade ${grade || "?"}: ${topicTitle}`,
         lang: langCode,
         maxTokens: 100,
