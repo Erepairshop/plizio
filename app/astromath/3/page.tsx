@@ -31,6 +31,7 @@ import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
 import PlaceValueExplorer3 from "@/app/astromath/games/PlaceValueExplorer3";
 import AdditionExplorer3 from "@/app/astromath/games/AdditionExplorer3";
 import SubtractionExplorer3 from "@/app/astromath/games/SubtractionExplorer3";
+import MultiplicationExplorer3 from "@/app/astromath/games/MultiplicationExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -816,6 +817,8 @@ export default function AstroMathG3Page() {
             <AdditionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
           ) : activeIsland?.id === "i3" ? (
             <SubtractionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : activeIsland?.id === "i4" ? (
+            <MultiplicationExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
           ) : (
             <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
           )
