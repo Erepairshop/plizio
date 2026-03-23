@@ -1,135 +1,138 @@
 "use client";
 // CountingExplorer — Visual counting & comparing for Grade 1 (island i1)
-// Teaches: count objects by tapping, compare two groups.
-// Step-by-step, no wrong answers — pure guided discovery.
+// Now powered by ExplorerEngine v2 — uses tap-count + compare + mcq rounds.
 
-import { memo, useState, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── Translations ────────────────────────────────────────────────────────────
-const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    title: "Counting Explorer",
-    tapToCount: "Tap each one to count!",
-    counted: "counted",
-    great: "Great!",
-    thereAre: "There are",
-    objects: "objects!",
-    compare: "Which group has MORE?",
-    leftHas: "Left has",
-    rightHas: "Right has",
-    isMore: "is more!",
-    isEqual: "They are equal!",
-    tapReveal: "Tap to see the answer",
-    next: "Next",
-    ready: "Well done!",
-  },
-  hu: {
-    title: "Számolás felfedezés",
-    tapToCount: "Koppints mindegyikre a számoláshoz!",
-    counted: "megszámolva",
-    great: "Szuper!",
-    thereAre: "Összesen",
-    objects: "van!",
-    compare: "Melyik csoportban van TÖBB?",
-    leftHas: "Bal oldalon",
-    rightHas: "Jobb oldalon",
-    isMore: "a több!",
-    isEqual: "Egyenlőek!",
-    tapReveal: "Koppints a válaszhoz",
-    next: "Következő",
-    ready: "Ügyes!",
-  },
-  de: {
-    title: "Zählen entdecken",
-    tapToCount: "Tippe auf jedes, um zu zählen!",
-    counted: "gezählt",
-    great: "Super!",
-    thereAre: "Es gibt",
-    objects: "Stück!",
-    compare: "Welche Gruppe hat MEHR?",
-    leftHas: "Links hat",
-    rightHas: "Rechts hat",
-    isMore: "ist mehr!",
-    isEqual: "Sie sind gleich!",
-    tapReveal: "Tippe für die Antwort",
-    next: "Weiter",
-    ready: "Toll gemacht!",
-  },
-  ro: {
-    title: "Explorare numărare",
-    tapToCount: "Atinge fiecare pentru a număra!",
-    counted: "numărate",
-    great: "Super!",
-    thereAre: "Sunt",
-    objects: "obiecte!",
-    compare: "Care grup are MAI MULTE?",
-    leftHas: "Stânga are",
-    rightHas: "Dreapta are",
-    isMore: "este mai mult!",
-    isEqual: "Sunt egale!",
-    tapReveal: "Atinge pentru răspuns",
-    next: "Înainte",
-    ready: "Bravo!",
-  },
-};
+// ─── No-op SVG (interactive rounds don't need an illustration) ───────────────
+const noSvg = () => null;
 
-// ─── Round data ──────────────────────────────────────────────────────────────
-type RoundType = "count" | "compare";
-interface CountRound { type: "count"; emoji: string; count: number }
-interface CompareRound { type: "compare"; leftEmoji: string; leftCount: number; rightEmoji: string; rightCount: number }
-type Round = CountRound | CompareRound;
-
-const ROUNDS: Round[] = [
-  { type: "count", emoji: "🍎", count: 4 },
-  { type: "count", emoji: "⭐", count: 6 },
-  { type: "compare", leftEmoji: "🐱", leftCount: 3, rightEmoji: "🐶", rightCount: 5 },
-  { type: "count", emoji: "🌸", count: 7 },
-  { type: "compare", leftEmoji: "🍊", leftCount: 6, rightEmoji: "🍋", rightCount: 4 },
-  { type: "count", emoji: "🦋", count: 5 },
-];
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-// ─── Emoji Grid ──────────────────────────────────────────────────────────────
-function EmojiGrid({ emoji, count, tapped, onTap, color }: {
-  emoji: string; count: number; tapped: Set<number>; onTap: (i: number) => void; color: string;
-}) {
+// ─── Counting illustration SVG ───────────────────────────────────────────────
+function countingSvg(lang: string) {
+  const lbl = lang === "hu" ? "Számolj!" : lang === "de" ? "Zähle!" : lang === "ro" ? "Numără!" : "Count!";
   return (
-    <div className="flex flex-wrap gap-3 justify-center">
-      {Array.from({ length: count }, (_, i) => (
-        <motion.button key={i} onClick={() => onTap(i)}
-          className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl relative"
-          style={{
-            background: tapped.has(i) ? `${color}33` : "rgba(255,255,255,0.06)",
-            border: `2px solid ${tapped.has(i) ? color : "rgba(255,255,255,0.12)"}`,
-          }}
-          animate={tapped.has(i) ? { scale: [1, 1.15, 1] } : {}}
-          transition={{ duration: 0.2 }}
-        >
-          {emoji}
-          {tapped.has(i) && (
-            <span className="absolute -top-2 -right-2 text-[10px] font-black rounded-full w-5 h-5 flex items-center justify-center"
-              style={{ background: color, color: "white" }}>
-              {i + 1}
-            </span>
-          )}
-        </motion.button>
+    <svg viewBox="0 0 240 100" className="w-full h-auto max-h-28">
+      <rect width="240" height="100" fill="#0a0a1a" rx="12" />
+      {[0, 1, 2, 3, 4].map(i => (
+        <g key={i}>
+          <circle cx={40 + i * 42} cy={40} r={16} fill={`hsl(${i * 60}, 70%, 55%)`} opacity={0.8} />
+          <text x={40 + i * 42} y={45} textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">
+            {i + 1}
+          </text>
+        </g>
       ))}
-    </div>
+      <text x="120" y="85" textAnchor="middle" fontSize="12" fill="rgba(255,255,255,0.5)" fontWeight="bold">
+        {lbl}
+      </text>
+    </svg>
   );
 }
 
-// ─── Main Component ──────────────────────────────────────────────────────────
+// ─── Explorer Definition ─────────────────────────────────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
+  en: {
+    intro_title: "🔢 Let's Count!",
+    intro_text: "In this adventure, you'll learn to count objects by tapping them, and compare groups to find which has more!",
+    intro_b1: "Tap each object to count it",
+    intro_b2: "Compare two groups — which has more?",
+    intro_b3: "Numbers help us understand the world around us!",
+    q1: "You counted 4 apples. Which number comes next?",
+    q1_a: "5", q1_b: "3", q1_c: "6", q1_d: "4",
+    q2: "Which is more: 3 cats or 5 dogs?",
+    q2_a: "5 dogs", q2_b: "3 cats", q2_c: "They are equal", q2_d: "2 cats",
+  },
+  de: {
+    intro_title: "🔢 Lass uns zählen!",
+    intro_text: "In diesem Abenteuer lernst du, Gegenstände durch Antippen zu zählen und Gruppen zu vergleichen!",
+    intro_b1: "Tippe auf jedes Objekt, um es zu zählen",
+    intro_b2: "Vergleiche zwei Gruppen — welche hat mehr?",
+    intro_b3: "Zahlen helfen uns, die Welt zu verstehen!",
+    q1: "Du hast 4 Äpfel gezählt. Welche Zahl kommt als nächstes?",
+    q1_a: "5", q1_b: "3", q1_c: "6", q1_d: "4",
+    q2: "Was ist mehr: 3 Katzen oder 5 Hunde?",
+    q2_a: "5 Hunde", q2_b: "3 Katzen", q2_c: "Sie sind gleich", q2_d: "2 Katzen",
+  },
+  hu: {
+    intro_title: "🔢 Számoljunk!",
+    intro_text: "Ebben a kalandban megtanulod megszámolni a tárgyakat koppintással, és összehasonlítani csoportokat!",
+    intro_b1: "Koppints minden tárgyra a számoláshoz",
+    intro_b2: "Hasonlíts össze két csoportot — melyikben van több?",
+    intro_b3: "A számok segítenek megérteni a világot!",
+    q1: "4 almát számoltál meg. Melyik szám jön ezután?",
+    q1_a: "5", q1_b: "3", q1_c: "6", q1_d: "4",
+    q2: "Melyik több: 3 macska vagy 5 kutya?",
+    q2_a: "5 kutya", q2_b: "3 macska", q2_c: "Egyenlőek", q2_d: "2 macska",
+  },
+  ro: {
+    intro_title: "🔢 Să numărăm!",
+    intro_text: "În această aventură vei învăța să numeri obiectele atingându-le și să compari grupuri!",
+    intro_b1: "Atinge fiecare obiect pentru a-l număra",
+    intro_b2: "Compară două grupuri — care are mai multe?",
+    intro_b3: "Numerele ne ajută să înțelegem lumea!",
+    q1: "Ai numărat 4 mere. Ce număr urmează?",
+    q1_a: "5", q1_b: "3", q1_c: "6", q1_d: "4",
+    q2: "Care sunt mai multe: 3 pisici sau 5 câini?",
+    q2_a: "5 câini", q2_b: "3 pisici", q2_c: "Sunt egale", q2_d: "2 pisici",
+  },
+};
+
+const COUNTING_DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    // R1: Intro — teach what counting is
+    {
+      type: "info",
+      infoTitle: "intro_title",
+      infoText: "intro_text",
+      svg: countingSvg,
+      bulletKeys: ["intro_b1", "intro_b2", "intro_b3"],
+    },
+    // R2: Tap to count 🍎
+    {
+      type: "tap-count",
+      infoTitle: "intro_title",
+      infoText: "intro_text",
+      svg: noSvg,
+      tapCount: { emoji: "🍎", count: 4 },
+    },
+    // R3: Compare two groups
+    {
+      type: "compare",
+      infoTitle: "intro_title",
+      infoText: "intro_text",
+      svg: noSvg,
+      compare: {
+        left: { emoji: "🐱", count: 3 },
+        right: { emoji: "🐶", count: 5 },
+      },
+    },
+    // R4: Tap to count ⭐
+    {
+      type: "tap-count",
+      infoTitle: "intro_title",
+      infoText: "intro_text",
+      svg: noSvg,
+      tapCount: { emoji: "⭐", count: 6 },
+    },
+    // R5: Review quiz
+    {
+      type: "mcq",
+      infoTitle: "intro_title",
+      infoText: "intro_text",
+      svg: noSvg,
+      questions: [
+        { question: "q1", choices: ["q1_a", "q1_b", "q1_c", "q1_d"], answer: "q1_a" },
+        { question: "q2", choices: ["q2_a", "q2_b", "q2_c", "q2_d"], answer: "q2_a" },
+      ],
+    },
+  ],
+};
+
+// ─── Wrapper Component ───────────────────────────────────────────────────────
+
 const CountingExplorer = memo(function CountingExplorer({
   color, onDone, lang = "en",
 }: {
@@ -137,183 +140,14 @@ const CountingExplorer = memo(function CountingExplorer({
   onDone: (score: number, total: number) => void;
   lang?: string;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState(() => shuffle(ROUNDS));
-  const [idx, setIdx] = useState(0);
-  const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const [revealed, setRevealed] = useState(false);
-  // For compare rounds
-  const [chosenSide, setChosenSide] = useState<"left" | "right" | null>(null);
-
-  const round = rounds[idx];
-
-  const handleTap = useCallback((i: number) => {
-    if (revealed) return;
-    setTapped(prev => {
-      const next = new Set(prev);
-      if (!next.has(i)) next.add(i);
-      return next;
-    });
-  }, [revealed]);
-
-  const handleNext = useCallback(() => {
-    if (idx + 1 >= rounds.length) {
-      onDone(rounds.length, rounds.length);
-      return;
-    }
-    setIdx(i => i + 1);
-    setTapped(new Set());
-    setRevealed(false);
-    setChosenSide(null);
-  }, [idx, rounds.length, onDone]);
-
-  const isCountRound = round.type === "count";
-  const allTapped = isCountRound && tapped.size >= (round as CountRound).count;
-
   return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-3">
-      {/* Progress */}
-      <div className="flex gap-1.5 w-full">
-        {rounds.map((_, i) => (
-          <div key={i} className="flex-1 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }} />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div key={idx}
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
-          className="w-full flex flex-col items-center gap-3"
-        >
-          {/* COUNT round */}
-          {isCountRound && (() => {
-            const r = round as CountRound;
-            return (
-              <>
-                <div className="flex items-center justify-center gap-2">
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.tapToCount}</p>
-                  <SpeakButton text={lbl.tapToCount} lang={lang} size={14} />
-                </div>
-                <EmojiGrid emoji={r.emoji} count={r.count} tapped={tapped} onTap={handleTap} color={color} />
-
-                {/* Counter */}
-                <div className="text-center">
-                  <span className="text-2xl font-black" style={{ color: allTapped ? "#00FF88" : color }}>
-                    {tapped.size} / {r.count}
-                  </span>
-                  <span className="text-white/40 text-sm ml-2">{lbl.counted}</span>
-                </div>
-
-                {allTapped && !revealed && (
-                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    onClick={() => setRevealed(true)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapReveal}
-                  </motion.button>
-                )}
-
-                {revealed && (
-                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-                    className="flex flex-col gap-2 items-center w-full">
-                    <div className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
-                      <p className="text-center text-sm font-bold text-white/60">{lbl.great}</p>
-                      <p className="text-center text-2xl font-black" style={{ color: "#00FF88" }}>
-                        {lbl.thereAre} {r.count} {r.emoji} {lbl.objects}
-                      </p>
-                    </div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.ready : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </motion.div>
-                )}
-              </>
-            );
-          })()}
-
-          {/* COMPARE round */}
-          {!isCountRound && (() => {
-            const r = round as CompareRound;
-            const moreIsLeft = r.leftCount > r.rightCount;
-            const isEqual = r.leftCount === r.rightCount;
-            return (
-              <>
-                <div className="flex items-center justify-center gap-2">
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
-                  <SpeakButton text={lbl.compare} lang={lang} size={14} />
-                </div>
-                <div className="flex gap-4 w-full">
-                  {/* Left group */}
-                  <motion.button onClick={() => !revealed && setChosenSide("left")}
-                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
-                    style={{
-                      background: chosenSide === "left" ? `${color}22` : "rgba(255,255,255,0.04)",
-                      border: `2px solid ${chosenSide === "left" ? color : "rgba(255,255,255,0.12)"}`,
-                    }}
-                    whileTap={!revealed ? { scale: 0.97 } : {}}>
-                    <div className="flex flex-wrap gap-1.5 justify-center">
-                      {Array.from({ length: r.leftCount }, (_, i) => (
-                        <span key={i} className="text-xl">{r.leftEmoji}</span>
-                      ))}
-                    </div>
-                  </motion.button>
-                  {/* Right group */}
-                  <motion.button onClick={() => !revealed && setChosenSide("right")}
-                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
-                    style={{
-                      background: chosenSide === "right" ? `${color}22` : "rgba(255,255,255,0.04)",
-                      border: `2px solid ${chosenSide === "right" ? color : "rgba(255,255,255,0.12)"}`,
-                    }}
-                    whileTap={!revealed ? { scale: 0.97 } : {}}>
-                    <div className="flex flex-wrap gap-1.5 justify-center">
-                      {Array.from({ length: r.rightCount }, (_, i) => (
-                        <span key={i} className="text-xl">{r.rightEmoji}</span>
-                      ))}
-                    </div>
-                  </motion.button>
-                </div>
-
-                {chosenSide && !revealed && (
-                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    onClick={() => setRevealed(true)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapReveal}
-                  </motion.button>
-                )}
-
-                {revealed && (
-                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-                    className="flex flex-col gap-2 items-center w-full">
-                    <div className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
-                      <p className="text-center text-sm font-bold text-white/60">
-                        {lbl.leftHas} {r.leftCount} · {lbl.rightHas} {r.rightCount}
-                      </p>
-                      <p className="text-center text-2xl font-black mt-1" style={{ color: "#00FF88" }}>
-                        {isEqual ? lbl.isEqual : `${moreIsLeft ? r.leftCount : r.rightCount} ${lbl.isMore}`}
-                      </p>
-                    </div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.ready : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </motion.div>
-                )}
-              </>
-            );
-          })()}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine
+      def={COUNTING_DEF}
+      color={color}
+      lang={lang}
+      onDone={onDone}
+      explorerId="math_g1_counting"
+    />
   );
 });
 
