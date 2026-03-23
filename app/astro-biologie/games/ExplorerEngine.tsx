@@ -124,6 +124,8 @@ export interface TopicDef {
   interactive: TopicInteractive;
   /** Single quiz question (teaching style) */
   quiz: MCQQuestion;
+  /** Optional SVG for quiz phase (shown above quiz question) */
+  quizSvg?: (lang: string) => React.ReactNode;
 }
 
 /** Interactive activity within a topic */
@@ -989,6 +991,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                     <span className="text-lg">❓</span>
                     <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
                   </div>
+
+                  {/* Quiz SVG illustration (if provided) */}
+                  {topics[topicIdx].quizSvg && (
+                    <div className="w-full bg-white/5 rounded-2xl p-3 border border-white/10">
+                      {topics[topicIdx].quizSvg!(langCode)}
+                    </div>
+                  )}
 
                   {/* Question */}
                   <p className="text-base font-bold text-center text-white/90 px-2">
