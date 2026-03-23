@@ -74,7 +74,8 @@ const ClockSvg = memo(function ClockSvg({ hour = 3 }: { hour?: number }) {
 
 // ─── SVG: Coins ──────────────────────────────────────────────────────────────
 
-const CoinsSvg = memo(function CoinsSvg() {
+const CoinsSvg = memo(function CoinsSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const coins = [
     { value: 5, color: "#F97316", x: 60, y: 45 },
     { value: 5, color: "#F97316", x: 120, y: 45 },
@@ -104,7 +105,7 @@ const CoinsSvg = memo(function CoinsSvg() {
       ))}
       {/* Total label */}
       <text x="120" y="128" fontSize="11" fontWeight="bold" fill="#D97706" textAnchor="middle">
-        = 14¢ total
+        = 14¢ {t.svg_total}
       </text>
     </svg>
   );
@@ -112,7 +113,8 @@ const CoinsSvg = memo(function CoinsSvg() {
 
 // ─── SVG: Comparing Lengths ─────────────────────────────────────────────────
 
-const CompareLengthsSvg = memo(function CompareLengthsSvg() {
+const CompareLengthsSvg = memo(function CompareLengthsSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -127,7 +129,7 @@ const CompareLengthsSvg = memo(function CompareLengthsSvg() {
         <rect x="0" y="0" width="5" height="50" fill="#EC4899" rx="2" opacity="0.85" />
         <polygon points="2.5,-5 0,0 5,0" fill="#FCD34D" opacity="0.9" />
         <text x="5" y="60" fontSize="11" fontWeight="bold" fill="#EC4899" opacity="0.8">
-          Pencil
+          {t.svg_pencil}
         </text>
         <text x="5" y="75" fontSize="10" fontWeight="bold" fill="#EC4899" opacity="0.6">
           15 cm
@@ -138,7 +140,7 @@ const CompareLengthsSvg = memo(function CompareLengthsSvg() {
         <rect x="0" y="0" width="8" height="20" fill="#3B82F6" rx="2" opacity="0.85" />
         <circle cx="4" cy="10" r="1.5" fill="rgba(0,0,0,0.2)" />
         <text x="8" y="35" fontSize="11" fontWeight="bold" fill="#3B82F6" opacity="0.8">
-          Eraser
+          {t.svg_eraser}
         </text>
         <text x="8" y="50" fontSize="10" fontWeight="bold" fill="#3B82F6" opacity="0.6">
           5 cm
@@ -158,6 +160,10 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     // Explorer meta
     explorer_title: "Time & Money Explorer",
+    // SVG labels
+    svg_total: "total",
+    svg_pencil: "Pencil",
+    svg_eraser: "Eraser",
     // Topic 1: Reading the clock
     t1_title: "Reading the Clock",
     t1_text: "The SHORT hand shows the HOUR. When it points to a number, that's the hour! The LONG hand shows the minutes. When it points to 12, it's o'clock!",
@@ -203,6 +209,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Zeit & Geld Entdeckung",
+    svg_total: "gesamt",
+    svg_pencil: "Bleistift",
+    svg_eraser: "Radierer",
     t1_title: "Uhr ablesen",
     t1_text: "Der KURZE Zeiger zeigt die STUNDE. Wenn er auf eine Zahl zeigt, ist das die Stunde! Der LANGE Zeiger zeigt die Minuten. Wenn er auf 12 zeigt, ist es Uhr!",
     t1_b1: "Kurzer Zeiger = Stunde",
@@ -245,6 +254,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Idő & Pénz felfedezés",
+    svg_total: "összesen",
+    svg_pencil: "Ceruza",
+    svg_eraser: "Radír",
     t1_title: "Az óra olvasása",
     t1_text: "A RÖVID mutató mutatja az ÓRÁT. Ha egy számra mutat, az a szám az óra! A HOSSZÚ mutató a perceket mutatja. Ha a 12-re mutat, egész óra van!",
     t1_b1: "Rövid mutató = óra",
@@ -287,6 +299,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Descoperire timp & bani",
+    svg_total: "total",
+    svg_pencil: "Creion",
+    svg_eraser: "Radieră",
     t1_title: "Citirea orei",
     t1_text: "Acul SCURT arată ORA. Când señalează o cifră, aceea este ora! Acul LUNG arată minutele. Când señalează 12, este exact ora!",
     t1_b1: "Ac scurt = oră",
@@ -361,7 +376,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <CoinsSvg />,
+    svg: (lang) => <CoinsSvg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -384,7 +399,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <CompareLengthsSvg />,
+    svg: (lang) => <CompareLengthsSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

@@ -8,8 +8,9 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Sharing (fair distribution) ────────────────────────────────────────
 
-const SharingSvg = memo(function SharingSvg({ total = 12, groups = 3 }: { total?: number; groups?: number }) {
+const SharingSvg = memo(function SharingSvg({ total = 12, groups = 3, lang = "en" }: { total?: number; groups?: number; lang?: string }) {
   const each = total / groups;
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -23,7 +24,7 @@ const SharingSvg = memo(function SharingSvg({ total = 12, groups = 3 }: { total?
       {/* Total items at top */}
       <g transform="translate(50, 15)">
         <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#00FF88" opacity="0.8">
-          Total: {total}
+          {t.svg_total}: {total}
         </text>
       </g>
 
@@ -53,7 +54,7 @@ const SharingSvg = memo(function SharingSvg({ total = 12, groups = 3 }: { total?
 
 // ─── SVG: Grouping (making equal groups) ─────────────────────────────────────
 
-const GroupingSvg = memo(function GroupingSvg({ total = 12, groupSize = 3 }: { total?: number; groupSize?: number }) {
+const GroupingSvg = memo(function GroupingSvg({ total = 12, groupSize = 3, lang = "en" }: { total?: number; groupSize?: number; lang?: string }) {
   const numGroups = total / groupSize;
   return (
     <svg width="100%" viewBox="0 0 240 140">
@@ -92,7 +93,8 @@ const GroupingSvg = memo(function GroupingSvg({ total = 12, groupSize = 3 }: { t
 
 // ─── SVG: Inverse of multiplication ──────────────────────────────────────────
 
-const InverseSvg = memo(function InverseSvg() {
+const InverseSvg = memo(function InverseSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -122,7 +124,7 @@ const InverseSvg = memo(function InverseSvg() {
 
       {/* Connection text */}
       <text x="120" y="128" fontSize="11" fontWeight="bold" fill="#00CC66" textAnchor="middle" opacity="0.7">
-        Multiplication ↔ Division
+        {t.svg_mul_div_connection}
       </text>
     </svg>
   );
@@ -133,6 +135,8 @@ const InverseSvg = memo(function InverseSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Division Explorer",
+    svg_total: "Total",
+    svg_mul_div_connection: "Multiplication ↔ Division",
     // Topic 1: Sharing
     t1_title: "Sharing Equally",
     t1_text: "Division is sharing fairly! If you have 12 items and 3 people, each person gets 4. That's 12 ÷ 3 = 4.",
@@ -178,6 +182,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Division entdecken",
+    svg_total: "Gesamt",
+    svg_mul_div_connection: "Multiplikation ↔ Division",
     t1_title: "Gerecht teilen",
     t1_text: "Division ist gerechtes Teilen! Wenn du 12 Gegenstände und 3 Personen hast, bekommt jede Person 4. Das ist 12 ÷ 3 = 4.",
     t1_b1: "Beginne mit Gesamtgegenständen",
@@ -220,6 +226,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Osztás felfedezés",
+    svg_total: "Összesen",
+    svg_mul_div_connection: "Szorzás ↔ Osztás",
     t1_title: "Igazságos felosztás",
     t1_text: "Az osztás igazságos felosztás! Ha 12 tárgyad van és 3 ember, mindegyik ember 4-et kap. Ez 12 ÷ 3 = 4.",
     t1_b1: "Kezd az összes tárggyal",
@@ -262,6 +270,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare împărțire",
+    svg_total: "Total",
+    svg_mul_div_connection: "Înmulțire ↔ Împărțire",
     t1_title: "Împărțire corectă",
     t1_text: "Împărțirea este distribuirea corectă! Dacă ai 12 obiecte și 3 persoane, fiecare persoană primește 4. Asta e 12 ÷ 3 = 4.",
     t1_b1: "Începe cu obiecte totale",
@@ -316,14 +326,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <SharingSvg total={12} groups={3} />,
+      svg: (lang) => <SharingSvg total={12} groups={3} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <SharingSvg total={12} groups={3} />,
+      svg: (lang) => <SharingSvg total={12} groups={3} lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -338,14 +348,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupingSvg total={16} groupSize={4} />,
+      svg: (lang) => <GroupingSvg total={16} groupSize={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupingSvg total={16} groupSize={4} />,
+      svg: (lang) => <GroupingSvg total={16} groupSize={4} lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -360,14 +370,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <InverseSvg />,
+      svg: (lang) => <InverseSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <InverseSvg />,
+      svg: (lang) => <InverseSvg lang={lang} />,
       questions: [
         {
           question: "t3_q",

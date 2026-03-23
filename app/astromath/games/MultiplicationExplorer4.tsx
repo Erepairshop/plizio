@@ -30,7 +30,8 @@ const ArrayModelSvg = memo(function ArrayModelSvg({ rows = 4, cols = 6 }: { rows
   );
 });
 
-const SkipCountingSvg = memo(function SkipCountingSvg({ start = 5, count = 8 }: { start?: number; count?: number }) {
+const SkipCountingSvg = memo(function SkipCountingSvg({ start = 5, count = 8, lang = "en" }: { start?: number; count?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const sequence = Array.from({ length: count + 1 }, (_, i) => start * i);
   return (
     <svg width="100%" viewBox="0 0 240 140">
@@ -42,7 +43,7 @@ const SkipCountingSvg = memo(function SkipCountingSvg({ start = 5, count = 8 }: 
       </defs>
       <rect width="240" height="140" fill="url(#skipG)" rx="16" />
       <text x="120" y="25" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        Skip count by {start}:
+        {t.skip_count_by} {start}:
       </text>
       <g transform="translate(20, 50)">
         {sequence.map((num, i) => (
@@ -60,13 +61,14 @@ const SkipCountingSvg = memo(function SkipCountingSvg({ start = 5, count = 8 }: 
         ))}
       </g>
       <text x="120" y="125" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        Total: {sequence[sequence.length - 1]}
+        {t.total}: {sequence[sequence.length - 1]}
       </text>
     </svg>
   );
 });
 
-const NumberLineJumpsSvg = memo(function NumberLineJumpsSvg({ groups = 7, size = 4 }: { groups?: number; size?: number }) {
+const NumberLineJumpsSvg = memo(function NumberLineJumpsSvg({ groups = 7, size = 4, lang = "en" }: { groups?: number; size?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const max = groups * size;
   const jumps = Array.from({ length: groups + 1 }, (_, i) => (i * size * 200) / max);
   return (
@@ -99,7 +101,7 @@ const NumberLineJumpsSvg = memo(function NumberLineJumpsSvg({ groups = 7, size =
         </g>
       ))}
       <text x="120" y="110" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {groups} jumps of {size} = {max}
+        {groups} {t.jumps_of} {size} = {max}
       </text>
     </svg>
   );
@@ -108,6 +110,9 @@ const NumberLineJumpsSvg = memo(function NumberLineJumpsSvg({ groups = 7, size =
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Multiplication Explorer",
+    skip_count_by: "Skip count by",
+    total: "Total",
+    jumps_of: "jumps of",
     t1_title: "Arrays and Multiplication",
     t1_text: "An array is a group of objects arranged in rows and columns. When we count all the objects in an array, we multiply rows × columns. For example, 4 rows × 6 columns = 24 objects.",
     t1_b1: "Each row has the same number of objects",
@@ -141,6 +146,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Multiplikations-Entdecker",
+    skip_count_by: "Zähle Sprünge um",
+    total: "Summe",
+    jumps_of: "Sprünge von",
     t1_title: "Arrays und Multiplikation",
     t1_text: "Ein Array ist eine Gruppe von Objekten, die in Reihen und Spalten angeordnet sind. Wenn wir alle Objekte in einem Array zählen, multiplizieren wir Reihen × Spalten. Zum Beispiel: 4 Reihen × 6 Spalten = 24 Objekte.",
     t1_b1: "Jede Reihe hat dieselbe Anzahl von Objekten",
@@ -174,6 +182,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Szorzás-felfedező",
+    skip_count_by: "Számolj ugrásokat",
+    total: "Összesen",
+    jumps_of: "ugrás",
     t1_title: "Tömbök és szorzás",
     t1_text: "A tömb a sorokba és oszlopokba rendezett tárgyak csoportja. Amikor az összes tárgyat számolunk, szorzunk: sorok × oszlopok. Például: 4 sor × 6 oszlop = 24 tárgy.",
     t1_b1: "Minden sornak ugyanannyi tárgya van",
@@ -207,6 +218,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare Înmulțire",
+    skip_count_by: "Numără salturi cu",
+    total: "Total",
+    jumps_of: "salturi de",
     t1_title: "Tablouri și Înmulțire",
     t1_text: "Un tablou este un grup de obiecte aranjate în rânduri și coloane. Pentru a găsi totalul, înmulțim rânduri × coloane. De exemplu: 4 rânduri × 6 coloane = 24 obiecte.",
     t1_b1: "Fiecare rând are același număr de obiecte",
@@ -249,42 +263,42 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <ArrayModelSvg rows={4} cols={6} />,
+      svg: (lang) => <ArrayModelSvg rows={4} cols={6} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <ArrayModelSvg rows={5} cols={8} />,
+      svg: (lang) => <ArrayModelSvg rows={5} cols={8} />,
       questions: [{ question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" }],
     },
     {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SkipCountingSvg start={6} count={7} />,
+      svg: (lang) => <SkipCountingSvg start={6} count={7} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SkipCountingSvg start={8} count={6} />,
+      svg: (lang) => <SkipCountingSvg start={8} count={6} lang={lang} />,
       questions: [{ question: "t2_q", choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"], answer: "t2_q_48" }],
     },
     {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <NumberLineJumpsSvg groups={9} size={5} />,
+      svg: (lang) => <NumberLineJumpsSvg groups={9} size={5} lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <NumberLineJumpsSvg groups={8} size={7} />,
+      svg: (lang) => <NumberLineJumpsSvg groups={8} size={7} lang={lang} />,
       questions: [
         { question: "t3_q", choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"], answer: "t3_q_8" },
         { question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" },

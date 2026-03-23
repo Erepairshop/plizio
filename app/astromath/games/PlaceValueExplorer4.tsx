@@ -3,16 +3,17 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const PlaceValueGridSvg = memo(function PlaceValueGridSvg({ number = 5847 }: { number?: number }) {
+const PlaceValueGridSvg = memo(function PlaceValueGridSvg({ number = 5847, lang = "en" }: { number?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const thousands = Math.floor(number / 1000);
   const hundreds = Math.floor((number % 1000) / 100);
   const tens = Math.floor((number % 100) / 10);
   const ones = number % 10;
   const places = [
-    { value: thousands, label: "thousands", color: "#FF6B9D", abbr: "Th" },
-    { value: hundreds, label: "hundreds", color: "#C44569", abbr: "H" },
-    { value: tens, label: "tens", color: "#F8B195", abbr: "T" },
-    { value: ones, label: "ones", color: "#FFD700", abbr: "O" },
+    { value: thousands, labelKey: "place_thousands", color: "#FF6B9D", abbr: "Th" },
+    { value: hundreds, labelKey: "place_hundreds", color: "#C44569", abbr: "H" },
+    { value: tens, labelKey: "place_tens", color: "#F8B195", abbr: "T" },
+    { value: ones, labelKey: "place_ones", color: "#FFD700", abbr: "O" },
   ];
   return (
     <svg width="100%" viewBox="0 0 240 160">
@@ -33,7 +34,7 @@ const PlaceValueGridSvg = memo(function PlaceValueGridSvg({ number = 5847 }: { n
             <text x="6" y="35" fontSize="9" fill={place.color} opacity="0.8" textAnchor="middle">+{place.value - 3}</text>
           )}
           <text x="25" y="55" fontSize="14" fontWeight="bold" fill={place.color} textAnchor="middle">{place.value}</text>
-          <text x="25" y="68" fontSize="8" fill={place.color} opacity="0.7" textAnchor="middle">{place.label}</text>
+          <text x="25" y="68" fontSize="8" fill={place.color} opacity="0.7" textAnchor="middle">{t[place.labelKey]}</text>
         </g>
       ))}
       <text x="120" y="145" fontSize="18" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">{number}</text>
@@ -41,13 +42,15 @@ const PlaceValueGridSvg = memo(function PlaceValueGridSvg({ number = 5847 }: { n
   );
 });
 
-const DecompositionSvg4 = memo(function DecompositionSvg4({ number = 5847 }: { number?: number }) {
+const DecompositionSvg4 = memo(function DecompositionSvg4({ number = 5847, lang = "en" }: { number?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const thousands = Math.floor(number / 1000);
   const hundreds = Math.floor((number % 1000) / 100);
   const tens = Math.floor((number % 100) / 10);
   const ones = number % 10;
   const parts = [thousands * 1000, hundreds * 100, tens * 10, ones];
   const colors = ["#FF6B9D", "#C44569", "#F8B195", "#FFD700"];
+  const placeKeys = ["place_thousands", "place_hundreds", "place_tens", "place_ones"];
   return (
     <svg width="100%" viewBox="0 0 240 110">
       <text x="120" y="20" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">{number} = {parts.join(" + ")}</text>
@@ -56,7 +59,7 @@ const DecompositionSvg4 = memo(function DecompositionSvg4({ number = 5847 }: { n
           <g key={i} transform={`translate(${i * 55}, 0)`} opacity="1">
             <rect width="48" height="30" fill={colors[i]} opacity="0.15" rx="6" />
             <text x="24" y="12" fontSize="11" fontWeight="bold" fill={colors[i]} textAnchor="middle">{part}</text>
-            <text x="24" y="24" fontSize="8" fill={colors[i]} textAnchor="middle" opacity="0.8">{["thousands", "hundreds", "tens", "ones"][i]}</text>
+            <text x="24" y="24" fontSize="8" fill={colors[i]} textAnchor="middle" opacity="0.8">{t[placeKeys[i]]}</text>
           </g>
         ))}
       </g>
@@ -64,7 +67,8 @@ const DecompositionSvg4 = memo(function DecompositionSvg4({ number = 5847 }: { n
   );
 });
 
-const ExpandedFormSvg = memo(function ExpandedFormSvg({ number = 5847 }: { number?: number }) {
+const ExpandedFormSvg = memo(function ExpandedFormSvg({ number = 5847, lang = "en" }: { number?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const thousands = Math.floor(number / 1000);
   const hundreds = Math.floor((number % 1000) / 100);
   const tens = Math.floor((number % 100) / 10);
@@ -84,7 +88,7 @@ const ExpandedFormSvg = memo(function ExpandedFormSvg({ number = 5847 }: { numbe
         </linearGradient>
       </defs>
       <rect width="240" height="140" fill="url(#expandG)" rx="16" />
-      <text x="120" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">Expanded form:</text>
+      <text x="120" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">{t.expanded_form_label}</text>
       {digits.map((d, i) => (
         <g key={i} transform={`translate(${d.x - 20}, 50)`}>
           <rect width="40" height="50" fill="rgba(255,255,255,0.08)" rx="6" stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
@@ -101,6 +105,11 @@ const ExpandedFormSvg = memo(function ExpandedFormSvg({ number = 5847 }: { numbe
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Place Value Explorer",
+    place_thousands: "thousands",
+    place_hundreds: "hundreds",
+    place_tens: "tens",
+    place_ones: "ones",
+    expanded_form_label: "Expanded form:",
     t1_title: "Thousands, Hundreds, Tens, and Ones",
     t1_text: "A four-digit number is made of four place values: thousands, hundreds, tens, and ones. For example, 5847 = 5 thousands + 8 hundreds + 4 tens + 7 ones.",
     t1_b1: "Each digit tells us how many of that place value",
@@ -134,6 +143,11 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Stellenwert-Entdecker",
+    place_thousands: "Tausender",
+    place_hundreds: "Hunderter",
+    place_tens: "Zehner",
+    place_ones: "Einer",
+    expanded_form_label: "Erweiterte Form:",
     t1_title: "Tausender, Hunderter, Zehner und Einer",
     t1_text: "Eine vierstellige Zahl besteht aus vier Stellenwerten: Tausender, Hunderter, Zehner und Einer. Zum Beispiel: 5847 = 5 Tausender + 8 Hunderter + 4 Zehner + 7 Einer.",
     t1_b1: "Jede Ziffer zeigt, wie viele dieser Stellenwert",
@@ -167,6 +181,11 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Helyiérték-felfedező",
+    place_thousands: "ezres",
+    place_hundreds: "százas",
+    place_tens: "tízes",
+    place_ones: "egyes",
+    expanded_form_label: "Kiterjesztett alak:",
     t1_title: "Ezres, százas, tízes és egyes",
     t1_text: "Egy négyjegyű szám négy helyiértékből áll: ezres, százas, tízes és egyes. Például: 5847 = 5 ezres + 8 százas + 4 tízes + 7 egyes.",
     t1_b1: "Minden számjegy megmutatja az adott helyiérték mennyiségét",
@@ -200,6 +219,11 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare valori poziționale",
+    place_thousands: "mii",
+    place_hundreds: "sute",
+    place_tens: "zeci",
+    place_ones: "unități",
+    expanded_form_label: "Formă expandată:",
     t1_title: "Mii, sute, zeci și unități",
     t1_text: "Un număr cu patru cifre este format din patru valori poziționale: mii, sute, zeci și unități. De exemplu: 5847 = 5 mii + 8 sute + 4 zeci + 7 unități.",
     t1_b1: "Fiecare cifră arată câte sunt din acea valoare pozițională",
@@ -242,42 +266,42 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <PlaceValueGridSvg number={5847} />,
+      svg: (lang) => <PlaceValueGridSvg number={5847} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <PlaceValueGridSvg number={5847} />,
+      svg: (lang) => <PlaceValueGridSvg number={5847} lang={lang} />,
       questions: [{ question: "t1_q", choices: ["t1_q_3625", "t1_q_3265", "t1_q_5623", "t1_q_6325"], answer: "t1_q_3625" }],
     },
     {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <DecompositionSvg4 number={7203} />,
+      svg: (lang) => <DecompositionSvg4 number={7203} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <DecompositionSvg4 number={6040} />,
+      svg: (lang) => <DecompositionSvg4 number={6040} lang={lang} />,
       questions: [{ question: "t2_q", choices: ["t2_q_6040", "t2_q_6400", "t2_q_64", "t2_q_604"], answer: "t2_q_6040" }],
     },
     {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <ExpandedFormSvg number={5847} />,
+      svg: (lang) => <ExpandedFormSvg number={5847} lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <ExpandedFormSvg number={4382} />,
+      svg: (lang) => <ExpandedFormSvg number={4382} lang={lang} />,
       questions: [
         { question: "t3_q", choices: ["t3_q_3", "t3_q_30", "t3_q_300", "t3_q_3000"], answer: "t3_q_300" },
         { question: "t1_q", choices: ["t1_q_3625", "t1_q_3265", "t1_q_5623", "t1_q_6325"], answer: "t1_q_3625" },

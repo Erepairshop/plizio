@@ -8,7 +8,8 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG: Tally Chart ──────────────────────────────────────────────────────
 
-const TallyChartSvg = memo(function TallyChartSvg() {
+const TallyChartSvg = memo(function TallyChartSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -40,15 +41,16 @@ const TallyChartSvg = memo(function TallyChartSvg() {
       <line x1="20" y1="80" x2="220" y2="80" stroke="rgba(255,255,255,0.2)" strokeWidth="2" />
 
       {/* Total */}
-      <text x="120" y="110" fontSize="13" fontWeight="bold" fill="#E879F9" textAnchor="middle">Total: 4 + 3 + 2 = 9 fruits</text>
-      <text x="120" y="145" fontSize="12" fill="#E879F9" textAnchor="middle" opacity="0.7">The favorite is apples (4 tally marks)</text>
+      <text x="120" y="110" fontSize="13" fontWeight="bold" fill="#E879F9" textAnchor="middle">{t.svg_tally_total}</text>
+      <text x="120" y="145" fontSize="12" fill="#E879F9" textAnchor="middle" opacity="0.7">{t.svg_tally_fav}</text>
     </svg>
   );
 });
 
 // ─── SVG: Sequence Pattern ─────────────────────────────────────────────────
 
-const SequenceSvg = memo(function SequenceSvg() {
+const SequenceSvg = memo(function SequenceSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -69,8 +71,8 @@ const SequenceSvg = memo(function SequenceSvg() {
       <text x="210" y="50" fontSize="20" fontWeight="bold" fill="#06B6D4" textAnchor="middle">8</text>
 
       {/* Pattern description */}
-      <text x="120" y="85" fontSize="12" fill="#06B6D4" textAnchor="middle" fontWeight="bold">Pattern Rule: Add 2 each time</text>
-      <text x="120" y="110" fontSize="12" fill="#06B6D4" textAnchor="middle" opacity="0.8">What comes next after 8?</text>
+      <text x="120" y="85" fontSize="12" fill="#06B6D4" textAnchor="middle" fontWeight="bold">{t.svg_seq_rule}</text>
+      <text x="120" y="110" fontSize="12" fill="#06B6D4" textAnchor="middle" opacity="0.8">{t.svg_seq_next}</text>
       <text x="120" y="130" fontSize="13" fontWeight="bold" fill="#06B6D4" textAnchor="middle">? ? ?</text>
     </svg>
   );
@@ -78,7 +80,8 @@ const SequenceSvg = memo(function SequenceSvg() {
 
 // ─── SVG: Sorting & Classifying ────────────────────────────────────────────
 
-const SortingClassSvg = memo(function SortingClassSvg() {
+const SortingClassSvg = memo(function SortingClassSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -90,26 +93,26 @@ const SortingClassSvg = memo(function SortingClassSvg() {
       <rect width="240" height="160" fill="url(#sortG)" rx="16" />
 
       {/* Left group: Big circles */}
-      <text x="60" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">Big</text>
+      <text x="60" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.svg_sort_big}</text>
       <text x="50" y="55" fontSize="18" textAnchor="middle">🔵</text>
       <text x="70" y="55" fontSize="18" textAnchor="middle">🔵</text>
       <text x="50" y="80" fontSize="18" textAnchor="middle">🔵</text>
-      <text x="60" y="105" fontSize="13" fontWeight="bold" fill="#10B981" textAnchor="middle">3 big</text>
+      <text x="60" y="105" fontSize="13" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.svg_sort_3big}</text>
 
       {/* Plus sign */}
       <text x="120" y="65" fontSize="24" fill="#10B981" textAnchor="middle" opacity="0.6">+</text>
 
       {/* Right group: Small circles */}
-      <text x="180" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">Small</text>
+      <text x="180" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.svg_sort_small}</text>
       <text x="165" y="55" fontSize="12" textAnchor="middle">🔵</text>
       <text x="180" y="55" fontSize="12" textAnchor="middle">🔵</text>
       <text x="195" y="55" fontSize="12" textAnchor="middle">🔵</text>
       <text x="175" y="75" fontSize="12" textAnchor="middle">🔵</text>
-      <text x="180" y="105" fontSize="13" fontWeight="bold" fill="#10B981" textAnchor="middle">4 small</text>
+      <text x="180" y="105" fontSize="13" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.svg_sort_4small}</text>
 
       {/* Equals and total */}
       <line x1="30" y1="130" x2="210" y2="130" stroke="rgba(16,185,129,0.3)" strokeWidth="2" />
-      <text x="120" y="155" fontSize="14" fontWeight="bold" fill="#10B981" textAnchor="middle">Total: 3 + 4 = 7 circles</text>
+      <text x="120" y="155" fontSize="14" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.svg_sort_total}</text>
     </svg>
   );
 });
@@ -134,6 +137,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_bananas: "Bananas (3)",
     t1_q_grapes: "Grapes (2)",
     t1_q_all: "All equal",
+    svg_tally_total: "Total: 4 + 3 + 2 = 9 fruits",
+    svg_tally_fav: "The favorite is apples (4 tally marks)",
     // Topic 2: Number sequences & patterns
     t2_title: "Number Sequences & Patterns",
     t2_text: "A pattern is a sequence of numbers or objects that follows a rule. We can find the rule by looking at how numbers change: +2, -1, ×2, etc. Once we know the rule, we can find the next number!",
@@ -148,6 +153,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_20: "20",
     t2_q_25: "25",
     t2_q_16: "16",
+    svg_seq_rule: "Pattern Rule: Add 2 each time",
+    svg_seq_next: "What comes next after 8?",
     // Topic 3: Sorting & classifying
     t3_title: "Sorting and Classifying Objects",
     t3_text: "We can sort objects into groups by different properties: color, size, shape, or type. When we sort, we organize things to make counting easier. We can count each group separately, then add them together!",
@@ -162,6 +169,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_4: "4",
     t3_q_2: "2",
     t3_q_5: "5",
+    svg_sort_big: "Big",
+    svg_sort_3big: "3 big",
+    svg_sort_small: "Small",
+    svg_sort_4small: "4 small",
+    svg_sort_total: "Total: 3 + 4 = 7 circles",
   },
   de: {
     explorer_title: "Daten & Muster entdecken",
@@ -178,6 +190,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_bananas: "Bananen (3)",
     t1_q_grapes: "Trauben (2)",
     t1_q_all: "Alle gleich",
+    svg_tally_total: "Gesamt: 4 + 3 + 2 = 9 Früchte",
+    svg_tally_fav: "Der Favorit sind Äpfel (4 Striche)",
     t2_title: "Zahlenfolgen & Muster",
     t2_text: "Ein Muster ist eine Folge von Zahlen oder Objekten, die einer Regel folgt. Wir können die Regel finden, indem wir schauen, wie sich Zahlen ändern: +2, -1, ×2 usw. Wenn wir die Regel kennen, können wir die nächste Zahl finden!",
     t2_b1: "Schau, was sich von einer Zahl zur nächsten ändert",
@@ -191,6 +205,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_20: "20",
     t2_q_25: "25",
     t2_q_16: "16",
+    svg_seq_rule: "Musterregel: Jedes Mal +2",
+    svg_seq_next: "Was kommt nach der 8?",
     t3_title: "Objekte sortieren und klassifizieren",
     t3_text: "Wir können Objekte nach verschiedenen Eigenschaften in Gruppen sortieren: Farbe, Größe, Form oder Typ. Wenn wir sortieren, organisieren wir Dinge, um das Zählen leichter zu machen. Wir können jede Gruppe einzeln zählen und dann addieren!",
     t3_b1: "Wähle eine Eigenschaft zum Sortieren (Farbe, Größe, Form)",
@@ -204,6 +220,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_4: "4",
     t3_q_2: "2",
     t3_q_5: "5",
+    svg_sort_big: "Groß",
+    svg_sort_3big: "3 große",
+    svg_sort_small: "Klein",
+    svg_sort_4small: "4 kleine",
+    svg_sort_total: "Gesamt: 3 + 4 = 7 Kreise",
   },
   hu: {
     explorer_title: "Adatok & Minták felfedezés",
@@ -220,6 +241,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_bananas: "Banán (3)",
     t1_q_grapes: "Szőlő (2)",
     t1_q_all: "Mindegyik egyenlő",
+    svg_tally_total: "Összesen: 4 + 3 + 2 = 9 gyümölcs",
+    svg_tally_fav: "A kedvenc az alma (4 vonás)",
     t2_title: "Számsorozatok & Minták",
     t2_text: "A minta egy olyan számsor vagy objektumsor, amely egy szabályt követi. Meg tudjuk találni a szabályt, ha megnézzük hogyan változnak a számok: +2, -1, ×2 stb. Amikor ismerjük a szabályt, meg tudjuk találni a következő számot!",
     t2_b1: "Nézd meg, mi változik egyik számról a másikra",
@@ -233,6 +256,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_20: "20",
     t2_q_25: "25",
     t2_q_16: "16",
+    svg_seq_rule: "Minta szabály: Minden alkalommal +2",
+    svg_seq_next: "Mi jön a 8 után?",
     t3_title: "Tárgyak szortírozása és besorolása",
     t3_text: "Tárgyakat különféle tulajdonságok szerint csoportosíthatunk: szín, méret, forma vagy típus. Amikor szortírozunk, rendszereztük a dolgokat, hogy könnyebb legyen a számlálás. Minden csoportot külön számlálhatunk, majd összeadhatjuk!",
     t3_b1: "Válassz egy tulajdonságot szortírózáshoz (szín, méret, forma)",
@@ -246,6 +271,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_4: "4",
     t3_q_2: "2",
     t3_q_5: "5",
+    svg_sort_big: "Nagy",
+    svg_sort_3big: "3 nagy",
+    svg_sort_small: "Kicsi",
+    svg_sort_4small: "4 kicsi",
+    svg_sort_total: "Összesen: 3 + 4 = 7 kör",
   },
   ro: {
     explorer_title: "Explorare date și modele",
@@ -262,6 +292,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_bananas: "Banane (3)",
     t1_q_grapes: "Struguri (2)",
     t1_q_all: "Toate egale",
+    svg_tally_total: "Total: 4 + 3 + 2 = 9 fructe",
+    svg_tally_fav: "Preferatul sunt merele (4 liniuțe)",
     t2_title: "Secvențe de numere și modele",
     t2_text: "Un model este o secvență de numere sau obiecte care urmează o regulă. Putem găsi regula privind cum se schimbă numerele: +2, -1, ×2 etc. Odată ce știm regula, putem găsi următorul număr!",
     t2_b1: "Privește ce se schimbă de la un număr la altul",
@@ -275,6 +307,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_20: "20",
     t2_q_25: "25",
     t2_q_16: "16",
+    svg_seq_rule: "Regula modelului: Adaugă 2 de fiecare dată",
+    svg_seq_next: "Ce vine după 8?",
     t3_title: "Sortarea și clasificarea obiectelor",
     t3_text: "Putem sorta obiecte în grupuri după diferite proprietăți: culoare, mărime, formă sau tip. Când sortăm, organizăm lucrurile pentru a ușura numărarea. Putem număra fiecare grup separat, apoi le adunăm!",
     t3_b1: "Alege o proprietate după care să sortezi (culoare, mărime, formă)",
@@ -288,6 +322,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_4: "4",
     t3_q_2: "2",
     t3_q_5: "5",
+    svg_sort_big: "Mare",
+    svg_sort_3big: "3 mari",
+    svg_sort_small: "Mic",
+    svg_sort_4small: "4 mici",
+    svg_sort_total: "Total: 3 + 4 = 7 cercuri",
   },
 };
 
@@ -298,7 +337,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <TallyChartSvg />,
+    svg: (lang) => <TallyChartSvg lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -321,7 +360,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <SequenceSvg />,
+    svg: (lang) => <SequenceSvg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -347,7 +386,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <SortingClassSvg />,
+    svg: (lang) => <SortingClassSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

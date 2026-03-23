@@ -60,17 +60,20 @@ const PlaceValueSvg = memo(function PlaceValueSvg({ number = 347 }: { number?: n
 const DecompositionSvg = memo(function DecompositionSvg({
   number = 347,
   highlighted = -1,
+  lang = "en",
 }: {
   number?: number;
   highlighted?: number;
+  lang?: string;
 }) {
   const hundreds = Math.floor(number / 100);
   const tens = Math.floor((number % 100) / 10);
   const ones = number % 10;
 
+  const t = LABELS[lang] || LABELS.en;
   const parts = [hundreds * 100, tens * 10, ones];
   const colors = ["#B44DFF", "#FF6B6B", "#FFD700"];
-  const labels = ["hundreds", "tens", "ones"];
+  const labels = [t.decomp_hundreds, t.decomp_tens, t.decomp_ones];
 
   return (
     <svg width="100%" viewBox="0 0 240 100">
@@ -147,6 +150,10 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     // Explorer meta
     explorer_title: "Place Value Explorer",
+    // Decomposition labels
+    decomp_hundreds: "hundreds",
+    decomp_tens: "tens",
+    decomp_ones: "ones",
     // Topic 1: Hundreds-tens-ones
     t1_title: "Hundreds, Tens, and Ones",
     t1_text: "A three-digit number is made of three place values: hundreds, tens, and ones. For example, 347 = 3 hundreds + 4 tens + 7 ones.",
@@ -192,6 +199,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Stellenwert-Entdecker",
+    decomp_hundreds: "Hunderter",
+    decomp_tens: "Zehner",
+    decomp_ones: "Einer",
     t1_title: "Hunderter, Zehner und Einer",
     t1_text: "Eine dreistellige Zahl besteht aus drei Stellenwerten: Hunderter, Zehner und Einer. Zum Beispiel: 347 = 3 Hunderter + 4 Zehner + 7 Einer.",
     t1_b1: "Jede Ziffer hat einen Stellenwert",
@@ -234,6 +244,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Helyiérték-felfedező",
+    decomp_hundreds: "százas",
+    decomp_tens: "tízes",
+    decomp_ones: "egyes",
     t1_title: "Százas, tízes és egyes",
     t1_text: "Egy háromjegyű szám három helyiértékből áll: százas, tízes és egyes. Például: 347 = 3 százas + 4 tízes + 7 egyes.",
     t1_b1: "Minden számjegynek van helyiértéke",
@@ -276,6 +289,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare valori poziționale",
+    decomp_hundreds: "sute",
+    decomp_tens: "zeci",
+    decomp_ones: "unități",
     t1_title: "Sute, zeci și unități",
     t1_text: "Un număr cu trei cifre este format din trei valori poziționale: sute, zeci și unități. De exemplu: 347 = 3 sute + 4 zeci + 7 unități.",
     t1_b1: "Fiecare cifră are o valoare pozițională",
@@ -352,14 +368,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <DecompositionSvg number={534} />,
+      svg: (lang) => <DecompositionSvg number={534} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <DecompositionSvg number={534} />,
+      svg: (lang) => <DecompositionSvg number={534} lang={lang} />,
       questions: [
         {
           question: "t2_q",

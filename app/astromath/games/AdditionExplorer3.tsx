@@ -87,7 +87,8 @@ const DecompositionAddSvg = memo(function DecompositionAddSvg({ total = 500, par
 
 // ─── SVG: Mental math on number line ──────────────────────────────────────────
 
-const MentalMathLineSvg = memo(function MentalMathLineSvg({ start = 234, jump = 100 }: { start?: number; jump?: number }) {
+const MentalMathLineSvg = memo(function MentalMathLineSvg({ start = 234, jump = 100, lang = "en" }: { start?: number; jump?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const end = start + jump;
   const min = Math.floor(start / 100) * 100;
   const max = Math.ceil(end / 100) * 100;
@@ -121,7 +122,7 @@ const MentalMathLineSvg = memo(function MentalMathLineSvg({ start = 234, jump = 
       {/* Start marker */}
       <circle cx={20 + (start / 400) * 200} cy="50" r="5" fill="#FF6B6B" opacity="0.8" />
       <text x={20 + (start / 400) * 200} y="28" fontSize="11" fontWeight="bold" fill="#FF6B6B" textAnchor="middle">
-        Start: {start}
+        {t.numberline_start}: {start}
       </text>
 
       {/* Jump arrow */}
@@ -137,7 +138,7 @@ const MentalMathLineSvg = memo(function MentalMathLineSvg({ start = 234, jump = 
       {/* End marker */}
       <circle cx={20 + (end / 400) * 200} cy="50" r="5" fill="#00FF88" opacity="0.8" />
       <text x={20 + (end / 400) * 200} y="28" fontSize="11" fontWeight="bold" fill="#00FF88" textAnchor="middle">
-        End: {end}
+        {t.numberline_end}: {end}
       </text>
 
       <defs>
@@ -154,6 +155,8 @@ const MentalMathLineSvg = memo(function MentalMathLineSvg({ start = 234, jump = 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Addition Explorer",
+    numberline_start: "Start",
+    numberline_end: "End",
     // Topic 1: Commutative property
     t1_title: "Swap & Still Same",
     t1_text: "When ADDING, order doesn't matter! 200 + 300 = 500 and 300 + 200 = 500. The answer is always the same!",
@@ -199,6 +202,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Addition entdecken",
+    numberline_start: "Start",
+    numberline_end: "Ende",
     t1_title: "Tauschen und gleich",
     t1_text: "Beim ADDIEREN ist die Reihenfolge egal! 200 + 300 = 500 und 300 + 200 = 500. Das Ergebnis bleibt gleich!",
     t1_b1: "Zahlen können Plätze tauschen",
@@ -241,6 +246,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Összeadás felfedezés",
+    numberline_start: "Kezdés",
+    numberline_end: "Vég",
     t1_title: "Cserélj és ugyanaz",
     t1_text: "Az ÖSSZEADÁSNÁL a sorrend nem számít! 200 + 300 = 500 és 300 + 200 = 500. Az eredmény mindig ugyanaz!",
     t1_b1: "Számok helyet cserélhetnek",
@@ -283,6 +290,8 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare adunare",
+    numberline_start: "Start",
+    numberline_end: "Sfârșit",
     t1_title: "Schimbă și rămâi la fel",
     t1_text: "La ADUNARE, ordinea nu contează! 200 + 300 = 500 și 300 + 200 = 500. Răspunsul este întotdeauna același!",
     t1_b1: "Numerele pot schimba locul",
@@ -381,14 +390,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <MentalMathLineSvg start={234} jump={100} />,
+      svg: (lang: string) => <MentalMathLineSvg start={234} jump={100} lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <MentalMathLineSvg start={234} jump={100} />,
+      svg: (lang: string) => <MentalMathLineSvg start={234} jump={100} lang={lang} />,
       questions: [
         {
           question: "t3_q",

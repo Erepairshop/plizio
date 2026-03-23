@@ -8,7 +8,8 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Length comparison ──────────────────────────────────────────────────
 
-const LengthSvg = memo(function LengthSvg() {
+const LengthSvg = memo(function LengthSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -30,15 +31,15 @@ const LengthSvg = memo(function LengthSvg() {
 
       {/* 1 meter = 100 cm explanation */}
       <text x="20" y="75" fontSize="12" fontWeight="bold" fill="#FFD700" opacity="0.8">
-        1 meter = 100 cm
+        {t.len_meter}
       </text>
       <text x="20" y="95" fontSize="12" fontWeight="bold" fill="#FFD700" opacity="0.8">
-        1 km = 1000 m
+        {t.len_km}
       </text>
 
       {/* Info */}
       <text x="20" y="120" fontSize="11" fill="#FFD700" opacity="0.7">
-        Measure length with units
+        {t.len_info}
       </text>
     </svg>
   );
@@ -46,7 +47,8 @@ const LengthSvg = memo(function LengthSvg() {
 
 // ─── SVG: Weight comparison ──────────────────────────────────────────────────
 
-const WeightSvg = memo(function WeightSvg() {
+const WeightSvg = memo(function WeightSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -77,10 +79,10 @@ const WeightSvg = memo(function WeightSvg() {
 
       {/* Info */}
       <text x="20" y="100" fontSize="12" fontWeight="bold" fill="#FFD700" opacity="0.8">
-        1 kg = 1000 g
+        {t.wgt_kg}
       </text>
       <text x="20" y="120" fontSize="11" fill="#FFD700" opacity="0.7">
-        Measure weight with units
+        {t.wgt_info}
       </text>
     </svg>
   );
@@ -88,7 +90,8 @@ const WeightSvg = memo(function WeightSvg() {
 
 // ─── SVG: Time display ───────────────────────────────────────────────────────
 
-const TimeSvg = memo(function TimeSvg() {
+const TimeSvg = memo(function TimeSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -114,7 +117,7 @@ const TimeSvg = memo(function TimeSvg() {
 
       {/* Info */}
       <text x="20" y="125" fontSize="12" fontWeight="bold" fill="#FFD700" opacity="0.8">
-        1 hour = 60 minutes
+        {t.tim_hour}
       </text>
     </svg>
   );
@@ -139,6 +142,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_500: "500 cm",
     t1_q_5000: "5000 cm",
     t1_q_5: "5 cm",
+    len_meter: "1 meter = 100 cm",
+    len_km: "1 km = 1000 m",
+    len_info: "Measure length with units",
     // Topic 2: Weight
     t2_title: "Measuring Weight",
     t2_text: "We measure weight (how heavy) with units! The smallest common unit is gram (g). 1000 g = 1 kilogram (kg). A pencil weighs about 5 grams.",
@@ -153,6 +159,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300 g",
     t2_q_3000: "3000 g",
     t2_q_30: "30 g",
+    wgt_kg: "1 kg = 1000 g",
+    wgt_info: "Measure weight with units",
     // Topic 3: Time
     t3_title: "Telling Time",
     t3_text: "We measure time with hours and minutes! There are 60 minutes in 1 hour. 24 hours in 1 day. An hour has 60 minutes: think of the clock with 12 numbers around it.",
@@ -167,6 +175,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_60: "60 minutes",
     t3_q_120: "120 minutes",
     t3_q_240: "240 minutes",
+    tim_hour: "1 hour = 60 minutes",
   },
   de: {
     explorer_title: "Einheiten & Messung",
@@ -183,6 +192,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_500: "500 cm",
     t1_q_5000: "5000 cm",
     t1_q_5: "5 cm",
+    len_meter: "1 Meter = 100 cm",
+    len_km: "1 km = 1000 m",
+    len_info: "Länge mit Einheiten messen",
     t2_title: "Gewichtsmessung",
     t2_text: "Wir messen Gewicht (wie schwer) mit Einheiten! Die kleinste übliche Einheit ist Gramm (g). 1000 g = 1 Kilogramm (kg). Ein Bleistift wiegt etwa 5 Gramm.",
     t2_b1: "g = Gramm (klein)",
@@ -196,6 +208,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300 g",
     t2_q_3000: "3000 g",
     t2_q_30: "30 g",
+    wgt_kg: "1 kg = 1000 g",
+    wgt_info: "Gewicht mit Einheiten messen",
     t3_title: "Uhrzeit ablesen",
     t3_text: "Wir messen Zeit mit Stunden und Minuten! Es gibt 60 Minuten in 1 Stunde. 24 Stunden in 1 Tag. Eine Stunde hat 60 Minuten: denk an die Uhr mit 12 Zahlen.",
     t3_b1: "1 Stunde = 60 Minuten",
@@ -209,6 +223,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_60: "60 Minuten",
     t3_q_120: "120 Minuten",
     t3_q_240: "240 Minuten",
+    tim_hour: "1 Stunde = 60 Minuten",
   },
   hu: {
     explorer_title: "Egységek & Mérés",
@@ -225,6 +240,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_500: "500 cm",
     t1_q_5000: "5000 cm",
     t1_q_5: "5 cm",
+    len_meter: "1 méter = 100 cm",
+    len_km: "1 km = 1000 m",
+    len_info: "Hossz mérése egységekkel",
     t2_title: "Súlymérés",
     t2_text: "A súlyt (milyen nehéz) egységekkel mérjük! A legkisebb közös egység a gramm (g). 1000 g = 1 kilogramm (kg). Egy ceruza körülbelül 5 gramm.",
     t2_b1: "g = gramm (kicsi)",
@@ -238,6 +256,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300 g",
     t2_q_3000: "3000 g",
     t2_q_30: "30 g",
+    wgt_kg: "1 kg = 1000 g",
+    wgt_info: "Súly mérése egységekkel",
     t3_title: "Idő leolvasása",
     t3_text: "Az időt órákkal és percekkel mérjük! 1 órában 60 perc van. 1 napban 24 óra van. Az óra 60 percből áll: gondolj az órára 12 számmal körül.",
     t3_b1: "1 óra = 60 perc",
@@ -251,6 +271,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_60: "60 perc",
     t3_q_120: "120 perc",
     t3_q_240: "240 perc",
+    tim_hour: "1 óra = 60 perc",
   },
   ro: {
     explorer_title: "Unități & Măsurare",
@@ -267,6 +288,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_500: "500 cm",
     t1_q_5000: "5000 cm",
     t1_q_5: "5 cm",
+    len_meter: "1 metru = 100 cm",
+    len_km: "1 km = 1000 m",
+    len_info: "Măsoară lungimea cu unități",
     t2_title: "Măsurarea greutății",
     t2_text: "Măsurăm greutatea (cât de greu) cu unități! Unitatea obișnuită cea mai mică este gramul (g). 1000 g = 1 kilogram (kg). Un creion cântărește aproximativ 5 grame.",
     t2_b1: "g = gram (mic)",
@@ -280,6 +304,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300 g",
     t2_q_3000: "3000 g",
     t2_q_30: "30 g",
+    wgt_kg: "1 kg = 1000 g",
+    wgt_info: "Măsoară greutatea cu unități",
     t3_title: "Citirea orei",
     t3_text: "Măsurăm timpul cu ore și minute! Sunt 60 de minute într-o oră. 24 de ore într-o zi. O oră are 60 de minute: gândește-te la ceas cu 12 numere în jurul.",
     t3_b1: "1 oră = 60 minute",
@@ -293,6 +319,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_60: "60 minute",
     t3_q_120: "120 minute",
     t3_q_240: "240 minute",
+    tim_hour: "1 oră = 60 minute",
   },
 };
 
@@ -308,14 +335,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <LengthSvg />,
+      svg: (lang) => <LengthSvg lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <LengthSvg />,
+      svg: (lang) => <LengthSvg lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -330,14 +357,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <WeightSvg />,
+      svg: (lang) => <WeightSvg lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <WeightSvg />,
+      svg: (lang) => <WeightSvg lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -352,14 +379,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <TimeSvg />,
+      svg: (lang) => <TimeSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <TimeSvg />,
+      svg: (lang) => <TimeSvg lang={lang} />,
       questions: [
         {
           question: "t3_q",

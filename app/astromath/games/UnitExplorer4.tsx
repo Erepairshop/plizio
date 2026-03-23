@@ -8,7 +8,8 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Ruler with inches and centimeters ──────────────────────────────────
 
-const RulerSvg = memo(function RulerSvg() {
+const RulerSvg = memo(function RulerSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -54,15 +55,16 @@ const RulerSvg = memo(function RulerSvg() {
       </g>
 
       {/* Labels */}
-      <text x="15" y="25" fontSize="10" fontWeight="bold" fill="#3B82F6">Centimeters:</text>
-      <text x="15" y="65" fontSize="10" fontWeight="bold" fill="#EF4444">Inches:</text>
+      <text x="15" y="25" fontSize="10" fontWeight="bold" fill="#3B82F6">{t.ruler_cm}:</text>
+      <text x="15" y="65" fontSize="10" fontWeight="bold" fill="#EF4444">{t.ruler_in}:</text>
     </svg>
   );
 });
 
 // ─── SVG: Conversion chart (length, weight, volume) ────────────────────────────
 
-const ConversionChartSvg = memo(function ConversionChartSvg() {
+const ConversionChartSvg = memo(function ConversionChartSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -75,34 +77,34 @@ const ConversionChartSvg = memo(function ConversionChartSvg() {
 
       {/* Length */}
       <g transform="translate(10, 20)">
-        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#10B981">Length</text>
-        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">12 inches = 1 foot</text>
-        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">100 cm = 1 meter</text>
-        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">1 foot ≈ 30 cm</text>
+        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#10B981">{t.conv_length}</text>
+        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_length_1}</text>
+        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_length_2}</text>
+        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_length_3}</text>
       </g>
 
       {/* Weight */}
       <g transform="translate(130, 20)">
-        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#F59E0B">Weight</text>
-        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">16 ounces = 1 pound</text>
-        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">1000 g = 1 kilogram</text>
-        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">1 lb ≈ 450 g</text>
+        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#F59E0B">{t.conv_weight}</text>
+        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_weight_1}</text>
+        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_weight_2}</text>
+        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_weight_3}</text>
       </g>
 
       {/* Volume */}
       <g transform="translate(10, 90)">
-        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#8B5CF6">Volume</text>
-        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">1000 mL = 1 liter</text>
-        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">16 cups = 1 gallon</text>
-        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">1 liter ≈ 1 quart</text>
+        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#8B5CF6">{t.conv_volume}</text>
+        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_volume_1}</text>
+        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_volume_2}</text>
+        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_volume_3}</text>
       </g>
 
       {/* Time */}
       <g transform="translate(130, 90)">
-        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#EF4444">Time</text>
-        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">60 seconds = 1 minute</text>
-        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">60 minutes = 1 hour</text>
-        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">24 hours = 1 day</text>
+        <text x="0" y="0" fontSize="11" fontWeight="bold" fill="#EF4444">{t.conv_time}</text>
+        <text x="0" y="14" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_time_1}</text>
+        <text x="0" y="26" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_time_2}</text>
+        <text x="0" y="38" fontSize="9" fill="rgba(255,255,255,0.7)">{t.conv_time_3}</text>
       </g>
     </svg>
   );
@@ -110,7 +112,8 @@ const ConversionChartSvg = memo(function ConversionChartSvg() {
 
 // ─── SVG: Real-world measurement examples ─────────────────────────────────────
 
-const RealWorldSvg = memo(function RealWorldSvg() {
+const RealWorldSvg = memo(function RealWorldSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -125,32 +128,32 @@ const RealWorldSvg = memo(function RealWorldSvg() {
       <g transform="translate(20, 30)">
         <rect x="0" y="0" width="4" height="50" fill="#F59E0B" stroke="rgba(255,255,255,0.5)" strokeWidth="1" />
         <circle cx="2" cy="52" r="3" fill="#333" />
-        <text x="20" y="30" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">Pencil</text>
-        <text x="20" y="42" fontSize="8" fill="rgba(255,255,255,0.6)">6 inches</text>
-        <text x="20" y="52" fontSize="8" fill="rgba(255,255,255,0.6)">15 cm</text>
+        <text x="20" y="30" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">{t.rw_pencil}</text>
+        <text x="20" y="42" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_pencil_in}</text>
+        <text x="20" y="52" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_pencil_cm}</text>
       </g>
 
       {/* Milk jug (1 gallon / ~4 liters) */}
       <g transform="translate(100, 20)">
         <rect x="0" y="0" width="25" height="50" fill="rgba(100, 150, 255, 0.3)" stroke="#3B82F6" strokeWidth="2" rx="2" />
         <path d="M 8 0 L 12 -5 L 18 -5 L 22 0" fill="none" stroke="#3B82F6" strokeWidth="1" />
-        <text x="35" y="30" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">Milk Jug</text>
-        <text x="35" y="42" fontSize="8" fill="rgba(255,255,255,0.6)">1 gallon</text>
-        <text x="35" y="52" fontSize="8" fill="rgba(255,255,255,0.6)">~4 liters</text>
+        <text x="35" y="30" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">{t.rw_milkjug}</text>
+        <text x="35" y="42" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_milkjug_gal}</text>
+        <text x="35" y="52" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_milkjug_l}</text>
       </g>
 
       {/* Apple (100-150 grams) */}
       <g transform="translate(170, 30)">
         <circle cx="0" cy="0" r="12" fill="#EF4444" opacity="0.4" stroke="#EF4444" strokeWidth="2" />
         <circle cx="-3" cy="-10" r="2" fill="#8B5CF6" opacity="0.6" />
-        <text x="20" y="0" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">Apple</text>
-        <text x="20" y="12" fontSize="8" fill="rgba(255,255,255,0.6)">~100g</text>
-        <text x="20" y="22" fontSize="8" fill="rgba(255,255,255,0.6)">~3.5 oz</text>
+        <text x="20" y="0" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.8)">{t.rw_apple}</text>
+        <text x="20" y="12" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_apple_g}</text>
+        <text x="20" y="22" fontSize="8" fill="rgba(255,255,255,0.6)">{t.rw_apple_oz}</text>
       </g>
 
       {/* Conversions practice */}
       <text x="120" y="130" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        Master conversions with practice!
+        {t.rw_practice}
       </text>
     </svg>
   );
@@ -161,6 +164,37 @@ const RealWorldSvg = memo(function RealWorldSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Units & Measurement Explorer",
+    // Ruler SVG labels
+    ruler_cm: "Centimeters",
+    ruler_in: "Inches",
+    // Conversion chart labels
+    conv_length: "Length",
+    conv_length_1: "12 inches = 1 foot",
+    conv_length_2: "100 cm = 1 meter",
+    conv_length_3: "1 foot ≈ 30 cm",
+    conv_weight: "Weight",
+    conv_weight_1: "16 ounces = 1 pound",
+    conv_weight_2: "1000 g = 1 kilogram",
+    conv_weight_3: "1 lb ≈ 450 g",
+    conv_volume: "Volume",
+    conv_volume_1: "1000 mL = 1 liter",
+    conv_volume_2: "16 cups = 1 gallon",
+    conv_volume_3: "1 liter ≈ 1 quart",
+    conv_time: "Time",
+    conv_time_1: "60 seconds = 1 minute",
+    conv_time_2: "60 minutes = 1 hour",
+    conv_time_3: "24 hours = 1 day",
+    // Real-world SVG labels
+    rw_pencil: "Pencil",
+    rw_pencil_in: "6 inches",
+    rw_pencil_cm: "15 cm",
+    rw_milkjug: "Milk Jug",
+    rw_milkjug_gal: "1 gallon",
+    rw_milkjug_l: "~4 liters",
+    rw_apple: "Apple",
+    rw_apple_g: "~100g",
+    rw_apple_oz: "~3.5 oz",
+    rw_practice: "Master conversions with practice!",
     // Topic 1: Length conversions (inches, feet, cm, meters)
     t1_title: "Measuring Length",
     t1_text: "Length is how long something is. We measure it in inches, feet, centimeters, and meters. 12 inches = 1 foot. 100 centimeters = 1 meter. Knowing conversions helps us compare measurements!",
@@ -213,6 +247,34 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Einheiten & Messung Entdecker",
+    ruler_cm: "Zentimeter",
+    ruler_in: "Zoll",
+    conv_length: "Länge",
+    conv_length_1: "12 Zoll = 1 Fuß",
+    conv_length_2: "100 cm = 1 Meter",
+    conv_length_3: "1 Fuß ≈ 30 cm",
+    conv_weight: "Gewicht",
+    conv_weight_1: "16 Unzen = 1 Pfund",
+    conv_weight_2: "1000 g = 1 Kilogramm",
+    conv_weight_3: "1 Pfund ≈ 450 g",
+    conv_volume: "Volumen",
+    conv_volume_1: "1000 mL = 1 Liter",
+    conv_volume_2: "16 Tassen = 1 Gallone",
+    conv_volume_3: "1 Liter ≈ 1 Quart",
+    conv_time: "Zeit",
+    conv_time_1: "60 Sekunden = 1 Minute",
+    conv_time_2: "60 Minuten = 1 Stunde",
+    conv_time_3: "24 Stunden = 1 Tag",
+    rw_pencil: "Bleistift",
+    rw_pencil_in: "6 Zoll",
+    rw_pencil_cm: "15 cm",
+    rw_milkjug: "Milchkrug",
+    rw_milkjug_gal: "1 Gallone",
+    rw_milkjug_l: "~4 Liter",
+    rw_apple: "Apfel",
+    rw_apple_g: "~100g",
+    rw_apple_oz: "~3,5 oz",
+    rw_practice: "Beherrschen Sie Umwandlungen durch Üben!",
     t1_title: "Länge messen",
     t1_text: "Länge ist, wie lang etwas ist. Wir messen es in Zoll, Fuß, Zentimetern und Metern. 12 Zoll = 1 Fuß. 100 Zentimeter = 1 Meter. Umwandlungswissen hilft uns, Messungen zu vergleichen!",
     t1_b1: "12 Zoll = 1 Fuß",
@@ -261,6 +323,34 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Egységek & Mérés Felfedező",
+    ruler_cm: "Centiméter",
+    ruler_in: "Hüvelyk",
+    conv_length: "Hossz",
+    conv_length_1: "12 hüvelyk = 1 láb",
+    conv_length_2: "100 cm = 1 méter",
+    conv_length_3: "1 láb ≈ 30 cm",
+    conv_weight: "Tömeg",
+    conv_weight_1: "16 uncia = 1 font",
+    conv_weight_2: "1000 g = 1 kilogramm",
+    conv_weight_3: "1 font ≈ 450 g",
+    conv_volume: "Térfogat",
+    conv_volume_1: "1000 mL = 1 liter",
+    conv_volume_2: "16 csésze = 1 gallon",
+    conv_volume_3: "1 liter ≈ 1 quart",
+    conv_time: "Idő",
+    conv_time_1: "60 másodperc = 1 perc",
+    conv_time_2: "60 perc = 1 óra",
+    conv_time_3: "24 óra = 1 nap",
+    rw_pencil: "Ceruza",
+    rw_pencil_in: "6 hüvelyk",
+    rw_pencil_cm: "15 cm",
+    rw_milkjug: "Tejkanna",
+    rw_milkjug_gal: "1 gallon",
+    rw_milkjug_l: "~4 liter",
+    rw_apple: "Alma",
+    rw_apple_g: "~100g",
+    rw_apple_oz: "~3,5 oz",
+    rw_practice: "Sajátítsd el az átváltásokat gyakorlással!",
     t1_title: "Hossz mérése",
     t1_text: "A hossz azt jelenti, hogy valameddig hosszú. Colláb, láb, centiméterben és méterben mérjük. 12 coll = 1 láb. 100 centiméter = 1 méter. Az átváltási tudás segít az összehasonlításban!",
     t1_b1: "12 coll = 1 láb",
@@ -309,6 +399,34 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare unități și măsurare",
+    ruler_cm: "Centimetri",
+    ruler_in: "Inci",
+    conv_length: "Lungime",
+    conv_length_1: "12 inci = 1 picior",
+    conv_length_2: "100 cm = 1 metru",
+    conv_length_3: "1 picior ≈ 30 cm",
+    conv_weight: "Greutate",
+    conv_weight_1: "16 uncii = 1 livră",
+    conv_weight_2: "1000 g = 1 kilogram",
+    conv_weight_3: "1 livră ≈ 450 g",
+    conv_volume: "Volum",
+    conv_volume_1: "1000 mL = 1 litru",
+    conv_volume_2: "16 căni = 1 galon",
+    conv_volume_3: "1 litru ≈ 1 quart",
+    conv_time: "Timp",
+    conv_time_1: "60 secunde = 1 minut",
+    conv_time_2: "60 minute = 1 oră",
+    conv_time_3: "24 ore = 1 zi",
+    rw_pencil: "Creion",
+    rw_pencil_in: "6 inci",
+    rw_pencil_cm: "15 cm",
+    rw_milkjug: "Ulcior de lapte",
+    rw_milkjug_gal: "1 galon",
+    rw_milkjug_l: "~4 litri",
+    rw_apple: "Măr",
+    rw_apple_g: "~100g",
+    rw_apple_oz: "~3,5 oz",
+    rw_practice: "Stăpânește conversiile prin practică!",
     t1_title: "Măsurarea lungimii",
     t1_text: "Lungimea este cât de lung este ceva. O măsurăm în inci, picioare, centimetri și metri. 12 inci = 1 picior. 100 centimetri = 1 metru. Cunoașterea conversiilor ne ajută să comparăm măsurătorile!",
     t1_b1: "12 inci = 1 picior",
@@ -359,103 +477,105 @@ const LABELS: Record<string, Record<string, string>> = {
 
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
+const buildRounds = (lang: string): ExplorerDef["rounds"] => [
+  // ─ R1: Length conversions ─
+  {
+    type: "info",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <RulerSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+  },
+  {
+    type: "mcq",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <RulerSvg lang={lang} />,
+    questions: [
+      {
+        question: "t1_q",
+        choices: ["t1_q_24", "t1_q_36", "t1_q_30", "t1_q_15"],
+        answer: "t1_q_36",
+      },
+    ],
+  },
+
+  // ─ R2: Weight & volume conversions ─
+  {
+    type: "info",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <ConversionChartSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+  },
+  {
+    type: "mcq",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <ConversionChartSvg lang={lang} />,
+    questions: [
+      {
+        question: "t2_q",
+        choices: ["t2_q_400", "t2_q_4000", "t2_q_40", "t2_q_40000"],
+        answer: "t2_q_4000",
+      },
+    ],
+  },
+
+  // ─ R3: Real-world applications ─
+  {
+    type: "info",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <RealWorldSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+  },
+  {
+    type: "mcq",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <RealWorldSvg lang={lang} />,
+    questions: [
+      {
+        question: "t3_q",
+        choices: ["t3_q_200", "t3_q_500", "t3_q_2000", "t3_q_250"],
+        answer: "t3_q_500",
+      },
+    ],
+  },
+
+  // ─ R5: Review (3 questions) ─
+  {
+    type: "mcq",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <ConversionChartSvg lang={lang} />,
+    questions: [
+      {
+        question: "r5_q1",
+        choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"],
+        answer: "r5_q1_c",
+      },
+      {
+        question: "r5_q2",
+        choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"],
+        answer: "r5_q2_c",
+      },
+      {
+        question: "r5_q3",
+        choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
+        answer: "r5_q3_b",
+      },
+    ],
+  },
+];
+
+const createExplorerDef = (lang: string): ExplorerDef => ({
   labels: LABELS,
   title: "explorer_title",
   icon: "⚖️",
-  rounds: [
-    // ─ R1: Length conversions ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <RulerSvg />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <RulerSvg />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_24", "t1_q_36", "t1_q_30", "t1_q_15"],
-          answer: "t1_q_36",
-        },
-      ],
-    },
-
-    // ─ R2: Weight & volume conversions ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: () => <ConversionChartSvg />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: () => <ConversionChartSvg />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_400", "t2_q_4000", "t2_q_40", "t2_q_40000"],
-          answer: "t2_q_4000",
-        },
-      ],
-    },
-
-    // ─ R3: Real-world applications ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <RealWorldSvg />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <RealWorldSvg />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_200", "t3_q_500", "t3_q_2000", "t3_q_250"],
-          answer: "t3_q_500",
-        },
-      ],
-    },
-
-    // ─ R5: Review (3 questions) ─
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <ConversionChartSvg />,
-      questions: [
-        {
-          question: "r5_q1",
-          choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"],
-          answer: "r5_q1_c",
-        },
-        {
-          question: "r5_q2",
-          choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"],
-          answer: "r5_q2_c",
-        },
-        {
-          question: "r5_q3",
-          choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
-          answer: "r5_q3_b",
-        },
-      ],
-    },
-  ],
-};
+  rounds: buildRounds(lang),
+});
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
 
@@ -466,10 +586,11 @@ interface Props {
   onClose?: () => void;
 }
 
-export default function UnitExplorer4({ color = "#3B82F6", lang, onDone, onClose }: Props) {
+export default function UnitExplorer4({ color = "#3B82F6", lang = "en", onDone, onClose }: Props) {
+  const explorerDef = createExplorerDef(lang);
   return (
     <ExplorerEngine
-      def={EXPLORER_DEF}
+      def={explorerDef}
       color={color}
       lang={lang}
       onDone={onDone}

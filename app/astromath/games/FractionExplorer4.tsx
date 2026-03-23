@@ -3,7 +3,8 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denominator = 2 }: { numerator?: number; denominator?: number }) {
+const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denominator = 2, lang = "en" }: { numerator?: number; denominator?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const angles = Array.from({ length: denominator }, (_, i) => ({
     start: (360 / denominator) * i,
     end: (360 / denominator) * (i + 1),
@@ -36,13 +37,14 @@ const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denom
         {numerator}/{denominator}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({numerator} shaded, {denominator} total)
+        {t.circle_label}
       </text>
     </svg>
   );
 });
 
-const BarFractionSvg = memo(function BarFractionSvg({ numerator = 2, denominator = 4 }: { numerator?: number; denominator?: number }) {
+const BarFractionSvg = memo(function BarFractionSvg({ numerator = 2, denominator = 4, lang = "en" }: { numerator?: number; denominator?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -72,13 +74,14 @@ const BarFractionSvg = memo(function BarFractionSvg({ numerator = 2, denominator
         {numerator}/{denominator}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({numerator} shaded parts)
+        {t.bar_label}
       </text>
     </svg>
   );
 });
 
-const CompareFractionsSvg = memo(function CompareFractionsSvg() {
+const CompareFractionsSvg = memo(function CompareFractionsSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -101,10 +104,10 @@ const CompareFractionsSvg = memo(function CompareFractionsSvg() {
         ))}
       </g>
       <text x="120" y="110" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        2/4 is bigger than 1/4
+        {t.compare_bigger}
       </text>
       <text x="120" y="130" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        More shaded parts = larger fraction
+        {t.compare_explanation}
       </text>
       <text x="120" y="150" fontSize="11" fontWeight="bold" fill="#4ECDC4" textAnchor="middle">
         2/4 {">"}  1/4
@@ -116,6 +119,10 @@ const CompareFractionsSvg = memo(function CompareFractionsSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Fraction Explorer",
+    circle_label: "(shaded, total)",
+    bar_label: "(shaded parts)",
+    compare_bigger: "2/4 is bigger than 1/4",
+    compare_explanation: "More shaded parts = larger fraction",
     t1_title: "Equal Parts of a Whole",
     t1_text: "A fraction shows equal parts of a whole. If we cut a circle into 2 equal parts and color 1, that is 1/2. The bottom number (denominator) tells how many equal parts. The top number (numerator) tells how many colored.",
     t1_b1: "A whole is divided into equal parts",
@@ -149,6 +156,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Bruch-Entdecker",
+    circle_label: "(gefärbt, insgesamt)",
+    bar_label: "(gefärbte Teile)",
+    compare_bigger: "2/4 ist größer als 1/4",
+    compare_explanation: "Mehr gefärbte Teile = größerer Bruch",
     t1_title: "Gleiche Teile eines Ganzen",
     t1_text: "Ein Bruch zeigt gleiche Teile eines Ganzen. Wenn wir einen Kreis in 2 gleiche Teile teilen und 1 färben, ist das 1/2. Die untere Zahl (Nenner) zeigt, wie viele Teile. Die obere Zahl (Zähler) zeigt, wie viele gefärbt sind.",
     t1_b1: "Ein Ganzes wird in gleiche Teile geteilt",
@@ -182,6 +193,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Tört-felfedező",
+    circle_label: "(színezett, összesen)",
+    bar_label: "(színezett rész)",
+    compare_bigger: "2/4 nagyobb, mint 1/4",
+    compare_explanation: "Több színezett rész = nagyobb tört",
     t1_title: "Egész egyenlő részei",
     t1_text: "A tört az egész egyenlő részeit mutatja. Ha egy kört 2 egyenlő részre osztunk és 1-et színezünk, az 1/2. Az alsó szám (nevező) az összes részt mutatja. A felső szám (számláló) a színezett részeket mutatja.",
     t1_b1: "Az egész egyenlő részekre van osztva",
@@ -215,6 +230,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare Fracții",
+    circle_label: "(colorat, total)",
+    bar_label: "(părți colorate)",
+    compare_bigger: "2/4 este mai mare decât 1/4",
+    compare_explanation: "Mai multe părți colorate = fracție mai mare",
     t1_title: "Părți egale ale unui întreg",
     t1_text: "O fracție arată părți egale ale unui întreg. Dacă tăiem un cerc în 2 părți egale și colorăm 1, asta este 1/2. Numărul de jos (numitor) spune câte părți egale. Numărul de sus (numărător) spune câte sunt colorate.",
     t1_b1: "Un întreg este împărțit în părți egale",
@@ -257,42 +276,42 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <CircleFractionSvg numerator={1} denominator={2} />,
+      svg: (lang: string) => <CircleFractionSvg numerator={1} denominator={2} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <CircleFractionSvg numerator={3} denominator={4} />,
+      svg: (lang: string) => <CircleFractionSvg numerator={3} denominator={4} lang={lang} />,
       questions: [{ question: "t1_q", choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"], answer: "t1_q_3_4" }],
     },
     {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <BarFractionSvg numerator={2} denominator={4} />,
+      svg: (lang: string) => <BarFractionSvg numerator={2} denominator={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <BarFractionSvg numerator={6} denominator={8} />,
+      svg: (lang: string) => <BarFractionSvg numerator={6} denominator={8} lang={lang} />,
       questions: [{ question: "t2_q", choices: ["t2_q_2_8", "t2_q_4_8", "t2_q_6_8", "t2_q_7_8"], answer: "t2_q_6_8" }],
     },
     {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <CompareFractionsSvg />,
+      svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <CompareFractionsSvg />,
+      svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
       questions: [
         { question: "t3_q", choices: ["t3_q_2_8", "t3_q_3_8", "t3_q_5_8", "t3_q_6_8"], answer: "t3_q_5_8" },
         { question: "t1_q", choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"], answer: "t1_q_3_4" },

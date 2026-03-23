@@ -8,10 +8,11 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Grid square counting (area) ─────────────────────────────────────────
 
-const GridAreaSvg = memo(function GridAreaSvg({ width = 4, height = 3 }: { width?: number; height?: number }) {
+const GridAreaSvg = memo(function GridAreaSvg({ width = 4, height = 3, lang = "en" }: { width?: number; height?: number; lang?: string }) {
   const cellSize = 30;
   const totalWidth = width * cellSize + 40;
   const totalHeight = height * cellSize + 40;
+  const t = LABELS[lang] || LABELS.en;
 
   return (
     <svg width="100%" viewBox={`0 0 ${totalWidth} ${totalHeight}`}>
@@ -55,7 +56,7 @@ const GridAreaSvg = memo(function GridAreaSvg({ width = 4, height = 3 }: { width
 
         {/* Labels */}
         <text x={width * cellSize / 2} y={height * cellSize + 20} fontSize="13" fontWeight="bold" fill="#10B981" textAnchor="middle">
-          {width} × {height} = {width * height} squares
+          {width} × {height} = {width * height} {t.ga_squares}
         </text>
       </g>
     </svg>
@@ -64,7 +65,7 @@ const GridAreaSvg = memo(function GridAreaSvg({ width = 4, height = 3 }: { width
 
 // ─── SVG: Rectangle perimeter with labeled sides ─────────────────────────────────
 
-const PerimeterSvg = memo(function PerimeterSvg({ width = 6, height = 4 }: { width?: number; height?: number }) {
+const PerimeterSvg = memo(function PerimeterSvg({ width = 6, height = 4, lang = "en" }: { width?: number; height?: number; lang?: string }) {
   const scale = 20;
   const w = width * scale;
   const h = height * scale;
@@ -72,6 +73,7 @@ const PerimeterSvg = memo(function PerimeterSvg({ width = 6, height = 4 }: { wid
   const py = 30;
 
   const perimeter = 2 * (width + height);
+  const t = LABELS[lang] || LABELS.en;
 
   return (
     <svg width="100%" viewBox="0 0 240 160">
@@ -110,7 +112,7 @@ const PerimeterSvg = memo(function PerimeterSvg({ width = 6, height = 4 }: { wid
 
       {/* Perimeter calculation */}
       <text x="120" y="135" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        Perimeter = 2 × ({width} + {height}) = {perimeter}
+        {t.pm_formula} 2 × ({width} + {height}) = {perimeter}
       </text>
     </svg>
   );
@@ -118,7 +120,8 @@ const PerimeterSvg = memo(function PerimeterSvg({ width = 6, height = 4 }: { wid
 
 // ─── SVG: Area vs Perimeter comparison ────────────────────────────────────────────
 
-const AreaVsPerimeterSvg = memo(function AreaVsPerimeterSvg() {
+const AreaVsPerimeterSvg = memo(function AreaVsPerimeterSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 150">
       <defs>
@@ -136,16 +139,16 @@ const AreaVsPerimeterSvg = memo(function AreaVsPerimeterSvg() {
           3×3
         </text>
         <text x="30" y="75" fontSize="10" fill="#8B5CF6" textAnchor="middle">
-          Area=9
+          {t.avp_area}=9
         </text>
         <text x="30" y="88" fontSize="10" fill="#8B5CF6" textAnchor="middle">
-          Perim=12
+          {t.avp_perim}=12
         </text>
       </g>
 
       {/* Arrow */}
       <text x="120" y="65" fontSize="14" fontWeight="bold" fill="rgba(255,255,255,0.5)" textAnchor="middle">
-        vs
+        {t.avp_vs}
       </text>
 
       {/* Rectangle: 5×2 */}
@@ -155,16 +158,16 @@ const AreaVsPerimeterSvg = memo(function AreaVsPerimeterSvg() {
           5×2
         </text>
         <text x="30" y="65" fontSize="10" fill="#8B5CF6" textAnchor="middle">
-          Area=10
+          {t.avp_area}=10
         </text>
         <text x="30" y="78" fontSize="10" fill="#8B5CF6" textAnchor="middle">
-          Perim=14
+          {t.avp_perim}=14
         </text>
       </g>
 
       {/* Explanation */}
       <text x="120" y="130" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        Same area ≠ Same perimeter!
+        {t.avp_explanation}
       </text>
     </svg>
   );
@@ -175,6 +178,13 @@ const AreaVsPerimeterSvg = memo(function AreaVsPerimeterSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Area & Perimeter Explorer",
+    // SVG labels
+    ga_squares: "squares",
+    pm_formula: "Perimeter =",
+    avp_vs: "vs",
+    avp_area: "Area",
+    avp_perim: "Perim",
+    avp_explanation: "Same area ≠ Same perimeter!",
     // Topic 1: Grid area counting
     t1_title: "Counting Square Units (Area)",
     t1_text: "Area is how much space a shape covers. We measure area by counting square units inside. A 4×3 rectangle has 12 square units inside.",
@@ -227,6 +237,12 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Fläche & Umfang Entdecker",
+    ga_squares: "Quadrate",
+    pm_formula: "Umfang =",
+    avp_vs: "vs",
+    avp_area: "Fläche",
+    avp_perim: "Umf",
+    avp_explanation: "Gleiche Fläche ≠ Gleicher Umfang!",
     t1_title: "Quadratische Einheiten zählen (Fläche)",
     t1_text: "Fläche ist der Platz, den eine Form einnimmt. Wir messen Fläche durch das Zählen von Quadrateinheiten. Ein 4×3 Rechteck hat 12 Quadrateinheiten.",
     t1_b1: "Fläche = Länge × Breite",
@@ -275,6 +291,12 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Terület & Kerület Felfedező",
+    ga_squares: "négyzet",
+    pm_formula: "Kerület =",
+    avp_vs: "vs",
+    avp_area: "Terület",
+    avp_perim: "Ker",
+    avp_explanation: "Azonos terület ≠ Azonos kerület!",
     t1_title: "Négyzet egységek számlálása (terület)",
     t1_text: "A terület az az élettér, amit egy forma elfoglal. A területet négyzet egységek számlálásával mérjük. Egy 4×3 téglalap 12 négyzet egységet tartalmaz.",
     t1_b1: "Terület = hosszúság × szélesség",
@@ -323,6 +345,12 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare arie și perimetru",
+    ga_squares: "pătrate",
+    pm_formula: "Perimetru =",
+    avp_vs: "vs",
+    avp_area: "Arie",
+    avp_perim: "Perim",
+    avp_explanation: "Aceeași arie ≠ Același perimetru!",
     t1_title: "Numărarea unităților pătrate (arie)",
     t1_text: "Aria este spațiul pe care o formă îl ocupă. Măsurăm aria prin numărarea unităților pătrate din interior. Un dreptunghi 4×3 are 12 unități pătrate.",
     t1_b1: "Arie = lungime × lățime",
@@ -373,7 +401,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
+const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
   labels: LABELS,
   title: "explorer_title",
   icon: "📏",
@@ -383,14 +411,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <GridAreaSvg width={4} height={3} />,
+      svg: () => <GridAreaSvg width={4} height={3} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <GridAreaSvg width={5} height={4} />,
+      svg: () => <GridAreaSvg width={5} height={4} lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -405,14 +433,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <PerimeterSvg width={6} height={4} />,
+      svg: () => <PerimeterSvg width={6} height={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <PerimeterSvg width={7} height={3} />,
+      svg: () => <PerimeterSvg width={7} height={3} lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -427,14 +455,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <AreaVsPerimeterSvg />,
+      svg: () => <AreaVsPerimeterSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <AreaVsPerimeterSvg />,
+      svg: () => <AreaVsPerimeterSvg lang={lang} />,
       questions: [
         {
           question: "t3_q",
@@ -449,7 +477,7 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <GridAreaSvg width={5} height={5} />,
+      svg: () => <GridAreaSvg width={5} height={5} lang={lang} />,
       questions: [
         {
           question: "r5_q1",
@@ -469,7 +497,7 @@ const EXPLORER_DEF: ExplorerDef = {
       ],
     },
   ],
-};
+});
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
 
@@ -480,10 +508,10 @@ interface Props {
   onClose?: () => void;
 }
 
-export default function AreaExplorer4({ color = "#10B981", lang, onDone, onClose }: Props) {
+export default function AreaExplorer4({ color = "#10B981", lang = "en", onDone, onClose }: Props) {
   return (
     <ExplorerEngine
-      def={EXPLORER_DEF}
+      def={makeExplorerDef(lang)}
       color={color}
       lang={lang}
       onDone={onDone}

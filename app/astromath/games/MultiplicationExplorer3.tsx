@@ -45,7 +45,8 @@ const RepeatedAdditionSvg = memo(function RepeatedAdditionSvg({ groups = 4, each
 
 // ─── SVG: Groups visualization ────────────────────────────────────────────────
 
-const GroupsSvg = memo(function GroupsSvg({ rows = 3, cols = 5 }: { rows?: number; cols?: number }) {
+const GroupsSvg = memo(function GroupsSvg({ rows = 3, cols = 5, lang = "en" }: { rows?: number; cols?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -71,7 +72,7 @@ const GroupsSvg = memo(function GroupsSvg({ rows = 3, cols = 5 }: { rows?: numbe
 
       {/* Labels */}
       <text x="120" y="128" fontSize="13" fontWeight="bold" fill="#8B5FBF" textAnchor="middle" opacity="0.8">
-        {rows} rows × {cols} cols = {rows * cols}
+        {rows} {t.t2_label_rows} × {cols} {t.t2_label_cols} = {rows * cols}
       </text>
     </svg>
   );
@@ -172,6 +173,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_12: "12",
     t2_q_16: "16",
     t2_q_10: "10",
+    t2_label_rows: "rows",
+    t2_label_cols: "cols",
     // Topic 3: Skip counting
     t3_title: "Skip Counting on a Line",
     t3_text: "Use skip counting to multiply! To find 4 × 3, skip count by 3s four times: 3, 6, 9, 12!",
@@ -215,6 +218,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_12: "12",
     t2_q_16: "16",
     t2_q_10: "10",
+    t2_label_rows: "Zeilen",
+    t2_label_cols: "Spalten",
     t3_title: "Zählen in Schritten auf der Linie",
     t3_text: "Benutze Schrittweise zum Multiplizieren! Um 4 × 3 zu finden, zähle in 3er-Schritten viermal: 3, 6, 9, 12!",
     t3_b1: "Starte bei 0",
@@ -257,6 +262,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_12: "12",
     t2_q_16: "16",
     t2_q_10: "10",
+    t2_label_rows: "sorok",
+    t2_label_cols: "oszlopok",
     t3_title: "Lépegető számolás a vonalon",
     t3_text: "Használj lépegető számolást a szorzáshoz! 4 × 3 megtalálásához számolj 3-asával négyszer: 3, 6, 9, 12!",
     t3_b1: "Indulj a 0-tól",
@@ -299,6 +306,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_12: "12",
     t2_q_16: "16",
     t2_q_10: "10",
+    t2_label_rows: "rânduri",
+    t2_label_cols: "coloane",
     t3_title: "Numărare cu salt pe linie",
     t3_text: "Folosește numărarea cu salt pentru înmulțire! Pentru a găsi 4 × 3, numără din 3 în 3 de patru ori: 3, 6, 9, 12!",
     t3_b1: "Început la 0",
@@ -349,14 +358,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupsSvg rows={3} cols={5} />,
+      svg: (lang) => <GroupsSvg rows={3} cols={5} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupsSvg rows={3} cols={5} />,
+      svg: (lang) => <GroupsSvg rows={3} cols={5} lang={lang} />,
       questions: [
         {
           question: "t2_q",

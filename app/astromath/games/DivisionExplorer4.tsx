@@ -3,9 +3,11 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const SharingModelSvg = memo(function SharingModelSvg({ total = 20, groups = 4 }: { total?: number; groups?: number }) {
+const SharingModelSvg = memo(function SharingModelSvg({ total = 20, groups = 4, lang = "en" }: { total?: number; groups?: number; lang?: string }) {
   const perGroup = Math.floor(total / groups);
   const colors = ["#FF6B9D", "#4ECDC4", "#FFD700", "#9B59B6"];
+  const t = LABELS[lang] || LABELS.en;
+  const perGroupLabel = { en: "per group", de: "pro Gruppe", hu: "csoportonként", ro: "per grup" }[lang] || "per group";
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -30,14 +32,16 @@ const SharingModelSvg = memo(function SharingModelSvg({ total = 20, groups = 4 }
         {total} ÷ {groups} = {perGroup}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({total} ÷ {groups} = {perGroup} per group)
+        ({total} ÷ {groups} = {perGroup} {perGroupLabel})
       </text>
     </svg>
   );
 });
 
-const GroupingModelSvg = memo(function GroupingModelSvg({ total = 24, size = 6 }: { total?: number; size?: number }) {
+const GroupingModelSvg = memo(function GroupingModelSvg({ total = 24, size = 6, lang = "en" }: { total?: number; size?: number; lang?: string }) {
   const groups = Math.floor(total / size);
+  const groupsLabel = { en: "groups", de: "Gruppen", hu: "csoport", ro: "grupuri" }[lang] || "groups";
+  const eachLabel = { en: "each", de: "je", hu: "darab", ro: "fiecare" }[lang] || "each";
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -64,15 +68,16 @@ const GroupingModelSvg = memo(function GroupingModelSvg({ total = 24, size = 6 }
         {total} ÷ {size} = {groups}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({groups} groups × {size} each = {total})
+        ({groups} {groupsLabel} × {size} {eachLabel} = {total})
       </text>
     </svg>
   );
 });
 
-const NumberLineSubSvg = memo(function NumberLineSubSvg({ total = 30, size = 5 }: { total?: number; size?: number }) {
+const NumberLineSubSvg = memo(function NumberLineSubSvg({ total = 30, size = 5, lang = "en" }: { total?: number; size?: number; lang?: string }) {
   const groups = Math.floor(total / size);
   const max = total;
+  const jumpsLabel = { en: "jumps", de: "Sprünge", hu: "ugrás", ro: "salturi" }[lang] || "jumps";
   return (
     <svg width="100%" viewBox="0 0 240 130">
       <defs>
@@ -103,7 +108,7 @@ const NumberLineSubSvg = memo(function NumberLineSubSvg({ total = 30, size = 5 }
         </g>
       ))}
       <text x="120" y="115" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {total} ÷ {size} = {groups} jumps
+        {total} ÷ {size} = {groups} {jumpsLabel}
       </text>
     </svg>
   );
@@ -253,42 +258,42 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <SharingModelSvg total={20} groups={4} />,
+      svg: (lang) => <SharingModelSvg total={20} groups={4} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <SharingModelSvg total={24} groups={6} />,
+      svg: (lang) => <SharingModelSvg total={24} groups={6} lang={lang} />,
       questions: [{ question: "t1_q", choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_6"], answer: "t1_q_4" }],
     },
     {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupingModelSvg total={30} size={5} />,
+      svg: (lang) => <GroupingModelSvg total={30} size={5} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <GroupingModelSvg total={48} size={8} />,
+      svg: (lang) => <GroupingModelSvg total={48} size={8} lang={lang} />,
       questions: [{ question: "t2_q", choices: ["t2_q_5", "t2_q_6", "t2_q_7", "t2_q_8"], answer: "t2_q_6" }],
     },
     {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <NumberLineSubSvg total={35} size={5} />,
+      svg: (lang) => <NumberLineSubSvg total={35} size={5} lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <NumberLineSubSvg total={54} size={6} />,
+      svg: (lang) => <NumberLineSubSvg total={54} size={6} lang={lang} />,
       questions: [
         { question: "t3_q", choices: ["t3_q_8", "t3_q_9", "t3_q_10", "t3_q_11"], answer: "t3_q_9" },
         { question: "t1_q", choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_6"], answer: "t1_q_4" },

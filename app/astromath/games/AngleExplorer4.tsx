@@ -8,7 +8,8 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Angle types (right, acute, obtuse) ──────────────────────────────────
 
-const AngleTypesSvg = memo(function AngleTypesSvg() {
+const AngleTypesSvg = memo(function AngleTypesSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -24,7 +25,7 @@ const AngleTypesSvg = memo(function AngleTypesSvg() {
         <line x1="0" y1="40" x2="40" y2="40" stroke="#EF4444" strokeWidth="3" />
         <line x1="40" y1="40" x2="40" y2="0" stroke="#EF4444" strokeWidth="3" />
         <rect x="35" y="35" width="5" height="5" fill="none" stroke="#EF4444" strokeWidth="1" />
-        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#EF4444" textAnchor="middle">Right</text>
+        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#EF4444" textAnchor="middle">{t.at_right}</text>
         <text x="20" y="70" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">90°</text>
       </g>
 
@@ -33,7 +34,7 @@ const AngleTypesSvg = memo(function AngleTypesSvg() {
         <line x1="0" y1="35" x2="35" y2="35" stroke="#10B981" strokeWidth="3" />
         <line x1="0" y1="35" x2="25" y2="10" stroke="#10B981" strokeWidth="3" />
         <path d="M 12 32 Q 15 28 18 24" fill="none" stroke="#10B981" strokeWidth="1" opacity="0.6" />
-        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#10B981" textAnchor="middle">Acute</text>
+        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.at_acute}</text>
         <text x="20" y="70" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">&lt;90°</text>
       </g>
 
@@ -42,7 +43,7 @@ const AngleTypesSvg = memo(function AngleTypesSvg() {
         <line x1="0" y1="45" x2="40" y2="45" stroke="#8B5CF6" strokeWidth="3" />
         <line x1="0" y1="45" x2="15" y2="5" stroke="#8B5CF6" strokeWidth="3" />
         <path d="M 15 35 Q 18 25 22 18" fill="none" stroke="#8B5CF6" strokeWidth="1" opacity="0.6" />
-        <text x="20" y="68" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">Obtuse</text>
+        <text x="20" y="68" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{t.at_obtuse}</text>
         <text x="20" y="80" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">&gt;90°</text>
       </g>
     </svg>
@@ -51,7 +52,8 @@ const AngleTypesSvg = memo(function AngleTypesSvg() {
 
 // ─── SVG: Line of symmetry (mirror line) ───────────────────────────────────────
 
-const SymmetrySvg = memo(function SymmetrySvg() {
+const SymmetrySvg = memo(function SymmetrySvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -87,7 +89,7 @@ const SymmetrySvg = memo(function SymmetrySvg() {
 
       {/* Label */}
       <text x="120" y="130" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        Symmetry: both halves match!
+        {t.sym_label}
       </text>
     </svg>
   );
@@ -95,7 +97,7 @@ const SymmetrySvg = memo(function SymmetrySvg() {
 
 // ─── SVG: Protractor and angle measurement ─────────────────────────────────────
 
-const ProtractorSvg = memo(function ProtractorSvg() {
+const ProtractorSvg = memo(function ProtractorSvg({ lang = "en" }: { lang?: string }) {
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -150,6 +152,11 @@ const ProtractorSvg = memo(function ProtractorSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Angles & Symmetry Explorer",
+    // SVG labels (angle types)
+    at_right: "Right",
+    at_acute: "Acute",
+    at_obtuse: "Obtuse",
+    sym_label: "Symmetry: both halves match!",
     // Topic 1: Angle types
     t1_title: "Three Types of Angles",
     t1_text: "Angles are measured in degrees (°). A right angle is exactly 90° — like a corner of a square. An acute angle is less than 90° — sharp and pointy. An obtuse angle is more than 90° — wide and open.",
@@ -202,6 +209,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Winkel & Symmetrie Entdecker",
+    at_right: "Recht",
+    at_acute: "Spitz",
+    at_obtuse: "Stumpf",
+    sym_label: "Symmetrie: beide Hälften passen!",
     t1_title: "Drei Winkeltypen",
     t1_text: "Winkel werden in Graden (°) gemessen. Ein rechter Winkel ist genau 90° — wie eine Ecke eines Quadrats. Ein spitzer Winkel ist kleiner als 90° — scharf und spitz. Ein stumpfer Winkel ist größer als 90° — breit und offen.",
     t1_b1: "Rechter Winkel = 90°",
@@ -250,6 +261,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Szögek & Szimmetria Felfedező",
+    at_right: "Derék",
+    at_acute: "Hegyes",
+    at_obtuse: "Tompa",
+    sym_label: "Szimmetria: mindkét fél egyezik!",
     t1_title: "Három szögtípus",
     t1_text: "A szögeket fokban (°) mérjük. A derékszög pontosan 90° — mint egy négyzet sarka. Egy hegyesszög kevesebb mint 90° — éles és hegyes. Egy tompaszög több mint 90° — széles és nyitott.",
     t1_b1: "Derékszög = 90°",
@@ -298,6 +313,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare unghiuri și simetrie",
+    at_right: "Drept",
+    at_acute: "Acut",
+    at_obtuse: "Obtuz",
+    sym_label: "Simetrie: ambele jumătăți se potrivesc!",
     t1_title: "Trei tipuri de unghiuri",
     t1_text: "Unghiurile se măsoară în grade (°). Un unghi drept este exact 90° — ca un colț al unui pătrat. Un unghi acut este mai mic de 90° — ascuțit și țintă. Un unghi obtuz este mai mare de 90° — larg și deschis.",
     t1_b1: "Unghi drept = 90°",
@@ -358,14 +377,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <AngleTypesSvg />,
+      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <AngleTypesSvg />,
+      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -380,14 +399,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SymmetrySvg />,
+      svg: (lang: string) => <SymmetrySvg lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SymmetrySvg />,
+      svg: (lang: string) => <SymmetrySvg lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -402,14 +421,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <ProtractorSvg />,
+      svg: (lang: string) => <ProtractorSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <ProtractorSvg />,
+      svg: (lang: string) => <ProtractorSvg lang={lang} />,
       questions: [
         {
           question: "t3_q",
@@ -424,7 +443,7 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <AngleTypesSvg />,
+      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
       questions: [
         {
           question: "r5_q1",

@@ -8,7 +8,8 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG: Addition story visualization ──────────────────────────────────────
 
-const AdditionStorySvg = memo(function AdditionStorySvg() {
+const AdditionStorySvg = memo(function AdditionStorySvg({ lang = "en" }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -24,7 +25,7 @@ const AdditionStorySvg = memo(function AdditionStorySvg() {
         🍎 🍎 🍎
       </text>
       <text x="20" y="60" fontSize="11" fill="#10B981" opacity="0.8">
-        Start: 3 apples
+        {t.add_svg_start}
       </text>
 
       {/* Plus: 2 more */}
@@ -35,7 +36,7 @@ const AdditionStorySvg = memo(function AdditionStorySvg() {
         🍎 🍎
       </text>
       <text x="150" y="60" fontSize="11" fill="#10B981" opacity="0.8">
-        Add: 2 more
+        {t.add_svg_add}
       </text>
 
       {/* Total: 5 apples */}
@@ -43,7 +44,7 @@ const AdditionStorySvg = memo(function AdditionStorySvg() {
         🍎 🍎 🍎 🍎 🍎
       </text>
       <text x="20" y="120" fontSize="11" fontWeight="bold" fill="#10B981">
-        Total: 5 apples
+        {t.add_svg_total}
       </text>
 
       {/* Equation */}
@@ -56,7 +57,8 @@ const AdditionStorySvg = memo(function AdditionStorySvg() {
 
 // ─── SVG: Subtraction story visualization ───────────────────────────────────
 
-const SubtractionStorySvg = memo(function SubtractionStorySvg() {
+const SubtractionStorySvg = memo(function SubtractionStorySvg({ lang = "en" }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -72,7 +74,7 @@ const SubtractionStorySvg = memo(function SubtractionStorySvg() {
         🧸 🧸 🧸 🧸 🧸 🧸 🧸
       </text>
       <text x="15" y="60" fontSize="11" fill="#10B981" opacity="0.8">
-        Start: 7 toys
+        {t.sub_svg_start}
       </text>
 
       {/* Remove: 3 toys */}
@@ -83,7 +85,7 @@ const SubtractionStorySvg = memo(function SubtractionStorySvg() {
         🧸 🧸 🧸
       </text>
       <text x="120" y="60" fontSize="11" fill="#10B981" opacity="0.8">
-        Remove: 3
+        {t.sub_svg_remove}
       </text>
 
       {/* Left: 4 toys */}
@@ -91,7 +93,7 @@ const SubtractionStorySvg = memo(function SubtractionStorySvg() {
         🧸 🧸 🧸 🧸
       </text>
       <text x="15" y="120" fontSize="11" fontWeight="bold" fill="#10B981">
-        Left: 4 toys
+        {t.sub_svg_left}
       </text>
 
       {/* Equation */}
@@ -104,7 +106,8 @@ const SubtractionStorySvg = memo(function SubtractionStorySvg() {
 
 // ─── SVG: Multiplication story visualization ────────────────────────────────
 
-const MultiplicationStorySvg = memo(function MultiplicationStorySvg() {
+const MultiplicationStorySvg = memo(function MultiplicationStorySvg({ lang = "en" }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -117,13 +120,13 @@ const MultiplicationStorySvg = memo(function MultiplicationStorySvg() {
 
       {/* 3 boxes, 4 items each */}
       <text x="15" y="35" fontSize="12" fontWeight="bold" fill="#10B981">
-        Box 1: 🍊 🍊 🍊 🍊
+        {t.mul_svg_box1} 🍊 🍊 🍊 🍊
       </text>
       <text x="15" y="55" fontSize="12" fontWeight="bold" fill="#10B981">
-        Box 2: 🍊 🍊 🍊 🍊
+        {t.mul_svg_box2} 🍊 🍊 🍊 🍊
       </text>
       <text x="15" y="75" fontSize="12" fontWeight="bold" fill="#10B981">
-        Box 3: 🍊 🍊 🍊 🍊
+        {t.mul_svg_box3} 🍊 🍊 🍊 🍊
       </text>
 
       {/* Equation & Total */}
@@ -131,11 +134,11 @@ const MultiplicationStorySvg = memo(function MultiplicationStorySvg() {
         3 × 4 = 12
       </text>
       <text x="150" y="80" fontSize="11" fill="#10B981" opacity="0.8">
-        Total: 12 oranges
+        {t.mul_svg_total}
       </text>
 
       <text x="20" y="125" fontSize="10" fill="#10B981" opacity="0.7" fontWeight="bold">
-        Groups × items per group = total
+        {t.mul_svg_formula}
       </text>
     </svg>
   );
@@ -152,6 +155,9 @@ const LABELS: Record<string, Record<string, string>> = {
     add_story_hint_1: "What do we start with? What do we add?",
     add_story_hint_2: "Start with 3, add 2 more → total is 5",
     add_story_hint_3: "Addition stories put things together",
+    add_svg_start: "Start: 3 apples",
+    add_svg_add: "Add: 2 more",
+    add_svg_total: "Total: 5 apples",
 
     // Topic 2: Subtraction Story
     sub_story_title: "➖ Subtraction Story",
@@ -159,6 +165,9 @@ const LABELS: Record<string, Record<string, string>> = {
     sub_story_hint_1: "What do we start with? What goes away?",
     sub_story_hint_2: "Start with 7, remove 3 → left with 4",
     sub_story_hint_3: "Subtraction stories take things away",
+    sub_svg_start: "Start: 7 toys",
+    sub_svg_remove: "Remove: 3",
+    sub_svg_left: "Left: 4 toys",
 
     // Topic 3: Multiplication Story
     mul_story_title: "✖️ Multiplication Story",
@@ -166,6 +175,11 @@ const LABELS: Record<string, Record<string, string>> = {
     mul_story_hint_1: "How many groups? How many in each?",
     mul_story_hint_2: "3 groups × 4 items = 12 total",
     mul_story_hint_3: "Multiplication stories are repeated groups",
+    mul_svg_box1: "Box 1:",
+    mul_svg_box2: "Box 2:",
+    mul_svg_box3: "Box 3:",
+    mul_svg_total: "Total: 12 oranges",
+    mul_svg_formula: "Groups × items per group = total",
 
     story_q1: "Maya has 5 books. Her friend gives her 3 more. How many books does she have?",
     story_a1: "8 books",
@@ -181,18 +195,29 @@ const LABELS: Record<string, Record<string, string>> = {
     add_story_hint_1: "Womit fangen wir an? Was kommt hinzu?",
     add_story_hint_2: "Anfang 3, dazu 2 → Gesamt 5",
     add_story_hint_3: "Additions-Geschichten fügen Dinge zusammen",
+    add_svg_start: "Start: 3 Äpfel",
+    add_svg_add: "Dazu: 2 mehr",
+    add_svg_total: "Gesamt: 5 Äpfel",
 
     sub_story_title: "➖ Subtraktions-Geschichte",
     sub_story_teach: "Finde die Gesamtzahl und was genommen oder entfernt wird.",
     sub_story_hint_1: "Womit fangen wir an? Was geht weg?",
     sub_story_hint_2: "Anfang 7, wegnehmen 3 → übrig 4",
     sub_story_hint_3: "Subtraktions-Geschichten nehmen weg",
+    sub_svg_start: "Start: 7 Spielzeuge",
+    sub_svg_remove: "Weg: 3",
+    sub_svg_left: "Übrig: 4 Spielzeuge",
 
     mul_story_title: "✖️ Einmaleins-Geschichte",
     mul_story_teach: "Zähle die Gruppen und Gegenstände in jeder Gruppe.",
     mul_story_hint_1: "Wie viele Gruppen? Wie viele in jeder?",
     mul_story_hint_2: "3 Gruppen × 4 Gegenstände = 12 Gesamt",
     mul_story_hint_3: "Einmaleins-Geschichten sind wiederholte Gruppen",
+    mul_svg_box1: "Karton 1:",
+    mul_svg_box2: "Karton 2:",
+    mul_svg_box3: "Karton 3:",
+    mul_svg_total: "Gesamt: 12 Apfelsinen",
+    mul_svg_formula: "Gruppen × Gegenstände pro Gruppe = Gesamt",
 
     story_q1: "Maya hat 5 Bücher. Ihre Freundin gibt ihr 3 mehr. Wie viele Bücher hat sie?",
     story_a1: "8 Bücher",
@@ -208,18 +233,29 @@ const LABELS: Record<string, Record<string, string>> = {
     add_story_hint_1: "Mivel kezdünk? Mit adunk hozzá?",
     add_story_hint_2: "Kezdés 3-mal, hozzáadás 2 → összesen 5",
     add_story_hint_3: "Az összeadás története összerakja a dolgokat",
+    add_svg_start: "Kezdés: 3 alma",
+    add_svg_add: "Hozzáadás: 2 további",
+    add_svg_total: "Összesen: 5 alma",
 
     sub_story_title: "➖ Kivonás történet",
     sub_story_teach: "Keress egy teljes számot és azt, ami elveszik vagy elmarad.",
     sub_story_hint_1: "Mivel kezdünk? Mi tűnik el?",
     sub_story_hint_2: "Kezdés 7-tel, elvesz 3 → marad 4",
     sub_story_hint_3: "A kivonás története elvesz dolgokat",
+    sub_svg_start: "Kezdés: 7 játékszer",
+    sub_svg_remove: "Elvétel: 3",
+    sub_svg_left: "Maradt: 4 játékszer",
 
     mul_story_title: "✖️ Szorzás történet",
     mul_story_teach: "Számolja meg a csoportokat és az elemeket mindegyikben.",
     mul_story_hint_1: "Hány csoport? Hány van mindegyikben?",
     mul_story_hint_2: "3 csoport × 4 elem = 12 összesen",
     mul_story_hint_3: "A szorzás története ismételt csoportok",
+    mul_svg_box1: "Doboz 1:",
+    mul_svg_box2: "Doboz 2:",
+    mul_svg_box3: "Doboz 3:",
+    mul_svg_total: "Összesen: 12 narancs",
+    mul_svg_formula: "Csoportok × elemek csoportonként = összesen",
 
     story_q1: "Mayának 5 könyve van. A barátja 3-at ad neki. Hány könyve van?",
     story_a1: "8 könyv",
@@ -235,18 +271,29 @@ const LABELS: Record<string, Record<string, string>> = {
     add_story_hint_1: "Cu ce începem? Ce adăugăm?",
     add_story_hint_2: "Început 3, adaugă 2 → total 5",
     add_story_hint_3: "Poveștile de adunare pun lucruri împreună",
+    add_svg_start: "Început: 3 mere",
+    add_svg_add: "Adaug: 2 mai mult",
+    add_svg_total: "Total: 5 mere",
 
     sub_story_title: "➖ Povestea scăderii",
     sub_story_teach: "Găsește totalul și ce se ia sau se elimină.",
     sub_story_hint_1: "Cu ce începem? Ce dispare?",
     sub_story_hint_2: "Început 7, ia 3 → rămâne 4",
     sub_story_hint_3: "Poveștile de scădere iau lucruri",
+    sub_svg_start: "Început: 7 jucării",
+    sub_svg_remove: "Scad: 3",
+    sub_svg_left: "Rămase: 4 jucării",
 
     mul_story_title: "✖️ Povestea înmulțirii",
     mul_story_teach: "Numără grupurile și elementele din fiecare.",
     mul_story_hint_1: "Câte grupuri? Câte în fiecare?",
     mul_story_hint_2: "3 grupuri × 4 elemente = 12 total",
     mul_story_hint_3: "Poveștile de înmulțire sunt grupuri repetate",
+    mul_svg_box1: "Cutie 1:",
+    mul_svg_box2: "Cutie 2:",
+    mul_svg_box3: "Cutie 3:",
+    mul_svg_total: "Total: 12 portocale",
+    mul_svg_formula: "Grupuri × elemente per grup = total",
 
     story_q1: "Maya are 5 cărți. Prietenul ei îi dă 3 mai mult. Câte cărți are?",
     story_a1: "8 cărți",
@@ -269,14 +316,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "add_story_title",
       infoText: "add_story_teach",
-      svg: () => <AdditionStorySvg />,
+      svg: (lang) => <AdditionStorySvg lang={lang} />,
       bulletKeys: ["add_story_hint_1", "add_story_hint_2", "add_story_hint_3"],
     },
     {
       type: "mcq",
       infoTitle: "add_story_title",
       infoText: "add_story_teach",
-      svg: () => <AdditionStorySvg />,
+      svg: (lang) => <AdditionStorySvg lang={lang} />,
       questions: [
         {
           question: "story_q1",
@@ -291,14 +338,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "sub_story_title",
       infoText: "sub_story_teach",
-      svg: () => <SubtractionStorySvg />,
+      svg: (lang) => <SubtractionStorySvg lang={lang} />,
       bulletKeys: ["sub_story_hint_1", "sub_story_hint_2", "sub_story_hint_3"],
     },
     {
       type: "mcq",
       infoTitle: "sub_story_title",
       infoText: "sub_story_teach",
-      svg: () => <SubtractionStorySvg />,
+      svg: (lang) => <SubtractionStorySvg lang={lang} />,
       questions: [
         {
           question: "story_q2",
@@ -313,14 +360,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "mul_story_title",
       infoText: "mul_story_teach",
-      svg: () => <MultiplicationStorySvg />,
+      svg: (lang) => <MultiplicationStorySvg lang={lang} />,
       bulletKeys: ["mul_story_hint_1", "mul_story_hint_2", "mul_story_hint_3"],
     },
     {
       type: "mcq",
       infoTitle: "mul_story_title",
       infoText: "mul_story_teach",
-      svg: () => <MultiplicationStorySvg />,
+      svg: (lang) => <MultiplicationStorySvg lang={lang} />,
       questions: [
         {
           question: "story_q1",

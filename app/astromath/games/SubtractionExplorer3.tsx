@@ -8,8 +8,9 @@ import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Part-whole relationship ────────────────────────────────────────────
 
-const PartWholeSvg = memo(function PartWholeSvg({ whole = 700, part = 300 }: { whole?: number; part?: number }) {
+const PartWholeSvg = memo(function PartWholeSvg({ whole = 700, part = 300, lang = "en" }: { whole?: number; part?: number; lang?: string }) {
   const remaining = whole - part;
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -24,7 +25,7 @@ const PartWholeSvg = memo(function PartWholeSvg({ whole = 700, part = 300 }: { w
       <g transform="translate(40, 25)">
         <rect width="160" height="30" fill="#FF6B6B" opacity="0.25" rx="4" />
         <text x="80" y="22" fontSize="16" fontWeight="bold" fill="#FF6B6B" textAnchor="middle">
-          Whole: {whole}
+          {t.pw_whole}: {whole}
         </text>
       </g>
 
@@ -55,8 +56,9 @@ const PartWholeSvg = memo(function PartWholeSvg({ whole = 700, part = 300 }: { w
 
 // ─── SVG: Subtraction decomposition ──────────────────────────────────────────
 
-const SubDecompositionSvg = memo(function SubDecompositionSvg({ total = 600, taken = 200 }: { total?: number; taken?: number }) {
+const SubDecompositionSvg = memo(function SubDecompositionSvg({ total = 600, taken = 200, lang = "en" }: { total?: number; taken?: number; lang?: string }) {
   const left = total - taken;
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -104,8 +106,9 @@ const SubDecompositionSvg = memo(function SubDecompositionSvg({ total = 600, tak
 
 // ─── SVG: Subtraction on number line ─────────────────────────────────────────
 
-const SubtractionLineSvg = memo(function SubtractionLineSvg({ start = 450, step = 150 }: { start?: number; step?: number }) {
+const SubtractionLineSvg = memo(function SubtractionLineSvg({ start = 450, step = 150, lang = "en" }: { start?: number; step?: number; lang?: string }) {
   const end = start - step;
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 100">
       <defs>
@@ -135,7 +138,7 @@ const SubtractionLineSvg = memo(function SubtractionLineSvg({ start = 450, step 
       {/* Start marker */}
       <circle cx={20 + (start / 400) * 200} cy="50" r="5" fill="#FF6B6B" opacity="0.8" />
       <text x={20 + (start / 400) * 200} y="28" fontSize="11" fontWeight="bold" fill="#FF6B6B" textAnchor="middle">
-        Start: {start}
+        {t.nl_start}: {start}
       </text>
 
       {/* Jump arrow backwards */}
@@ -151,7 +154,7 @@ const SubtractionLineSvg = memo(function SubtractionLineSvg({ start = 450, step 
       {/* End marker */}
       <circle cx={20 + (end / 400) * 200} cy="50" r="5" fill="#00FF88" opacity="0.8" />
       <text x={20 + (end / 400) * 200} y="28" fontSize="11" fontWeight="bold" fill="#00FF88" textAnchor="middle">
-        End: {end}
+        {t.nl_end}: {end}
       </text>
 
       <defs>
@@ -168,6 +171,10 @@ const SubtractionLineSvg = memo(function SubtractionLineSvg({ start = 450, step 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Subtraction Explorer",
+    // SVG labels
+    pw_whole: "Whole",
+    nl_start: "Start",
+    nl_end: "End",
     // Topic 1: Part-whole relationship
     t1_title: "Part and Whole",
     t1_text: "Every number can be split into two PARTS. If you know the whole and one part, you can find the other part! 700 = 300 + 400",
@@ -213,6 +220,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Subtraktion entdecken",
+    // SVG labels
+    pw_whole: "Ganzes",
+    nl_start: "Start",
+    nl_end: "Ende",
     t1_title: "Teil und Ganzes",
     t1_text: "Jede Zahl kann man in zwei TEILE spalten. Wenn du das Ganze und einen Teil kennst, kannst du den anderen Teil finden! 700 = 300 + 400",
     t1_b1: "Ganzes = Teil A + Teil B",
@@ -255,6 +266,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Kivonás felfedezés",
+    // SVG labels
+    pw_whole: "Egész",
+    nl_start: "Start",
+    nl_end: "Vég",
     t1_title: "Rész és Egész",
     t1_text: "Minden számot fel lehet osztani két RÉSZRE. Ha ismered az egészet és egy részét, megtalálhatod a másik részt! 700 = 300 + 400",
     t1_b1: "Egész = Rész A + Rész B",
@@ -297,6 +312,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare scădere",
+    // SVG labels
+    pw_whole: "Întreg",
+    nl_start: "Start",
+    nl_end: "Sfârşit",
     t1_title: "Partea și Întregul",
     t1_text: "Fiecare număr se poate împărți în două PĂRTI. Dacă cunoști întregul și o parte, poți găsi cealaltă! 700 = 300 + 400",
     t1_b1: "Întreg = Partea A + Partea B",
@@ -351,14 +370,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <PartWholeSvg whole={700} part={300} />,
+      svg: (lang) => <PartWholeSvg whole={700} part={300} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <PartWholeSvg whole={700} part={300} />,
+      svg: (lang) => <PartWholeSvg whole={700} part={300} lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -373,14 +392,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SubDecompositionSvg total={600} taken={200} />,
+      svg: (lang) => <SubDecompositionSvg total={600} taken={200} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <SubDecompositionSvg total={600} taken={200} />,
+      svg: (lang) => <SubDecompositionSvg total={600} taken={200} lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -395,14 +414,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <SubtractionLineSvg start={450} step={150} />,
+      svg: (lang) => <SubtractionLineSvg start={450} step={150} lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <SubtractionLineSvg start={450} step={150} />,
+      svg: (lang) => <SubtractionLineSvg start={450} step={150} lang={lang} />,
       questions: [
         {
           question: "t3_q",

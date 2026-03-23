@@ -105,8 +105,9 @@ const ClockSvg = memo(function ClockSvg({ hour = 3, minute = 0 }: { hour?: numbe
 
 // ─── SVG: Scale with weights ─────────────────────────────────────────────────
 
-const ScaleSvg = memo(function ScaleSvg({ leftKg = 2, rightKg = 2 }: { leftKg?: number; rightKg?: number }) {
+const ScaleSvg = memo(function ScaleSvg({ leftKg = 2, rightKg = 2, lang = "en" }: { leftKg?: number; rightKg?: number; lang?: string }) {
   const tilt = (rightKg - leftKg) * 8;
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 130">
       <defs>
@@ -134,7 +135,7 @@ const ScaleSvg = memo(function ScaleSvg({ leftKg = 2, rightKg = 2 }: { leftKg?: 
         fill="#10B981" textAnchor="middle" dominantBaseline="middle">{rightKg} kg</text>
       {tilt === 0 && (
         <text x="120" y="55" fontSize="10" fill="#10B981" textAnchor="middle" opacity="0.7">
-          balanced!
+          {t.scale_balanced}
         </text>
       )}
     </svg>
@@ -146,6 +147,7 @@ const ScaleSvg = memo(function ScaleSvg({ leftKg = 2, rightKg = 2 }: { leftKg?: 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Measurement Explorer",
+    scale_balanced: "balanced!",
     t1_title: "Length: Meters and Centimeters",
     t1_text: "We measure length with a RULER. 1 meter = 100 centimeters (cm). Short things: cm (pencil ≈ 17 cm). Long things: m (door ≈ 2 m). 1 m = 100 cm!",
     t1_b1: "cm = centimeter (small things)",
@@ -188,6 +190,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Messen entdecken",
+    scale_balanced: "ausgeglichen!",
     t1_title: "Länge: Meter und Zentimeter",
     t1_text: "Wir messen Längen mit einem LINEAL. 1 Meter = 100 Zentimeter (cm). Kurze Dinge: cm (Bleistift ≈ 17 cm). Lange Dinge: m (Tür ≈ 2 m). 1 m = 100 cm!",
     t1_b1: "cm = Zentimeter (kleine Dinge)",
@@ -230,6 +233,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Mérések felfedezés",
+    scale_balanced: "egyensúly!",
     t1_title: "Hossz: méter és centiméter",
     t1_text: "A hosszt VONALZÓVAL mérjük. 1 méter = 100 centiméter (cm). Kis dolgok: cm (ceruza ≈ 17 cm). Nagy dolgok: m (ajtó ≈ 2 m). 1 m = 100 cm!",
     t1_b1: "cm = centiméter (kis dolgok)",
@@ -272,6 +276,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare măsurători",
+    scale_balanced: "echilibrat!",
     t1_title: "Lungime: metri și centimetri",
     t1_text: "Măsurăm lungimile cu o RIGLĂ. 1 metru = 100 centimetri (cm). Lucruri scurte: cm (creion ≈ 17 cm). Lucruri lungi: m (ușă ≈ 2 m). 1 m = 100 cm!",
     t1_b1: "cm = centimetru (lucruri mici)",
@@ -320,7 +325,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <RulerSvg length={7} />,
+    svg: (lang) => <RulerSvg length={7} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -344,7 +349,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <ClockSvg hour={3} minute={0} />,
+    svg: (lang) => <ClockSvg hour={3} minute={0} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -368,7 +373,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <ScaleSvg leftKg={2} rightKg={2} />,
+    svg: (lang) => <ScaleSvg leftKg={2} rightKg={2} lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

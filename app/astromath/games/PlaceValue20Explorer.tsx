@@ -43,10 +43,13 @@ const NumberLine1120Svg = memo(function NumberLine1120Svg({ highlight = 15 }: { 
 const PlaceValueSvg = memo(function PlaceValueSvg({
   ones = 4,
   label = "14",
+  lang = "en",
 }: {
   ones?: number;
   label?: string;
+  lang?: string;
 }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -74,7 +77,7 @@ const PlaceValueSvg = memo(function PlaceValueSvg({
           />
         ))}
         <text x="0" y="28" fontSize="10" fontWeight="bold" fill="#F59E0B" textAnchor="middle">
-          1 TEN
+          {t.svg_1ten}
         </text>
       </g>
 
@@ -101,7 +104,7 @@ const PlaceValueSvg = memo(function PlaceValueSvg({
           );
         })}
         <text x="0" y="28" fontSize="10" fontWeight="bold" fill="#F59E0B" textAnchor="middle">
-          {ones} ONES
+          {ones} {t.svg_ones}
         </text>
       </g>
 
@@ -116,7 +119,8 @@ const PlaceValueSvg = memo(function PlaceValueSvg({
 
 // ─── SVG: Sequence with gap ──────────────────────────────────────────────────────
 
-const SequenceSvg = memo(function SequenceSvg() {
+const SequenceSvg = memo(function SequenceSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 100">
       <defs>
@@ -160,7 +164,7 @@ const SequenceSvg = memo(function SequenceSvg() {
         );
       })}
       <text x="120" y="82" fontSize="10" fontWeight="bold" fill="#F59E0B" opacity="0.7" textAnchor="middle">
-        Count forward: 12, 13, 14, __, 16
+        {t.svg_count_forward}
       </text>
     </svg>
   );
@@ -172,6 +176,10 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     // Explorer meta
     explorer_title: "Numbers 11-20",
+    // SVG labels
+    svg_1ten: "1 TEN",
+    svg_ones: "ONES",
+    svg_count_forward: "Count forward: 12, 13, 14, __, 16",
     // Topic 1: Numbers 11-20 intro
     t1_title: "Numbers 11-20",
     t1_text: "After 10 comes 11, 12, 13... up to 20! Each number from 11-20 is made of 1 TEN and some ONES. For example: 15 = 1 ten + 5 ones.",
@@ -217,6 +225,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Zahlen 11-20",
+    svg_1ten: "1 ZEHNER",
+    svg_ones: "EINER",
+    svg_count_forward: "Vorwärts zählen: 12, 13, 14, __, 16",
     t1_title: "Zahlen 11-20",
     t1_text: "Nach 10 kommt 11, 12, 13... bis 20! Jede Zahl von 11-20 besteht aus 1 ZEHNER und einigen EINERN. Zum Beispiel: 15 = 1 Zehner + 5 Einer.",
     t1_b1: "Alle Zahlen 11-20 beginnen mit 1 Zehner",
@@ -259,6 +270,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Számok 11-20",
+    svg_1ten: "1 TÍZES",
+    svg_ones: "EGYES",
+    svg_count_forward: "Számolj előre: 12, 13, 14, __, 16",
     t1_title: "Számok 11-20",
     t1_text: "A 10 után jön 11, 12, 13... 20-ig! A 11-20 közötti minden szám 1 TÍZESBŐL és néhány EGYESBŐL áll. Például: 15 = 1 tízes + 5 egyes.",
     t1_b1: "A 11-20 közötti számok mind 1 tízessel kezdődnek",
@@ -301,6 +315,9 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Numere 11-20",
+    svg_1ten: "1 ZECE",
+    svg_ones: "UNITĂȚI",
+    svg_count_forward: "Numără înainte: 12, 13, 14, __, 16",
     t1_title: "Numere 11-20",
     t1_text: "După 10 vin 11, 12, 13... până la 20! Fiecare număr de la 11-20 este format din 1 ZECE și câteva UNITĂȚI. De exemplu: 15 = 1 zece + 5 unități.",
     t1_b1: "Toate numerele 11-20 încep cu 1 zece",
@@ -375,7 +392,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <PlaceValueSvg ones={4} label="14" />,
+    svg: (lang) => <PlaceValueSvg ones={4} label="14" lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -399,7 +416,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <SequenceSvg />,
+    svg: (lang) => <SequenceSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

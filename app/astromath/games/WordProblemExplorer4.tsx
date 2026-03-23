@@ -13,12 +13,15 @@ const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
   initial = 12,
   operation = "remove",
   amount = 5,
+  lang = "en",
 }: {
   scenario?: string;
   initial?: number;
   operation?: string;
   amount?: number;
+  lang?: string;
 }) {
+  const t = LABELS[lang] || LABELS.en;
   let itemColor = "#FFD700";
   let itemShape = "circle";
   if (scenario === "apples") {
@@ -46,7 +49,7 @@ const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
 
       {/* BEFORE: Show initial items */}
       <text x="30" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Start:
+        {t.pv_start}
       </text>
       <g transform="translate(20, 35)">
         {Array.from({ length: Math.min(initial, 10) }, (_, i) => {
@@ -67,12 +70,12 @@ const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
 
       {/* Operation label */}
       <text x="120" y="45" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {operation === "remove" ? `Remove ${amount}` : `Add ${amount}`}
+        {operation === "remove" ? `${t.pv_remove} ${amount}` : `${t.pv_add} ${amount}`}
       </text>
 
       {/* AFTER: Show remaining items */}
       <text x="150" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Now:
+        {t.pv_now}
       </text>
       <g transform="translate(150, 35)">
         {Array.from({ length: Math.min(remainingAfter, 10) }, (_, i) => {
@@ -93,7 +96,7 @@ const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
 
       {/* Answer */}
       <text x="120" y="150" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        Answer: {remainingAfter}
+        {t.pv_answer}: {remainingAfter}
       </text>
     </svg>
   );
@@ -101,7 +104,8 @@ const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
 
 // ─── SVG: Equation format and steps ──────────────────────────────────────────────
 
-const EquationFormatSvg = memo(function EquationFormatSvg() {
+const EquationFormatSvg = memo(function EquationFormatSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -114,50 +118,50 @@ const EquationFormatSvg = memo(function EquationFormatSvg() {
 
       {/* Step 1 */}
       <text x="20" y="30" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 1: Understand
+        {t.ef_step1}
       </text>
       <text x="20" y="45" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        What do we know?
+        {t.ef_know}
       </text>
 
       {/* Step 2 */}
       <text x="20" y="70" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 2: Choose operation
+        {t.ef_step2}
       </text>
       <text x="20" y="85" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Add (+) or Subtract (−)?
+        {t.ef_op}
       </text>
 
       {/* Step 3 */}
       <text x="20" y="110" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 3: Write equation
+        {t.ef_step3}
       </text>
       <text x="20" y="125" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Example: 12 − 5 = 7
+        {t.ef_example}
       </text>
 
       {/* Step 4 */}
       <text x="150" y="30" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 4: Solve
+        {t.ef_step4}
       </text>
       <text x="150" y="45" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Calculate answer
+        {t.ef_calc}
       </text>
 
       {/* Step 5 */}
       <text x="150" y="70" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 5: Check
+        {t.ef_step5}
       </text>
       <text x="150" y="85" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Does answer make sense?
+        {t.ef_sense}
       </text>
 
       {/* Step 6 */}
       <text x="150" y="110" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        Step 6: Answer
+        {t.ef_step6}
       </text>
       <text x="150" y="125" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Write full sentence
+        {t.ef_sentence}
       </text>
     </svg>
   );
@@ -165,7 +169,8 @@ const EquationFormatSvg = memo(function EquationFormatSvg() {
 
 // ─── SVG: Checking work / verification ────────────────────────────────────────────
 
-const CheckWorkSvg = memo(function CheckWorkSvg() {
+const CheckWorkSvg = memo(function CheckWorkSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 160">
       <defs>
@@ -178,13 +183,13 @@ const CheckWorkSvg = memo(function CheckWorkSvg() {
 
       {/* Left side: Solution */}
       <text x="20" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="start">
-        Solution:
+        {t.cw_solution}
       </text>
       <text x="20" y="45" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Had: 20 apples
+        {t.cw_had}
       </text>
       <text x="20" y="62" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        Ate: 7 apples
+        {t.cw_ate}
       </text>
       <text x="20" y="79" fontSize="11" fontWeight="bold" fill="#10B981" textAnchor="start">
         20 − 7 = 13
@@ -192,18 +197,18 @@ const CheckWorkSvg = memo(function CheckWorkSvg() {
 
       {/* Right side: Verification */}
       <text x="130" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="start">
-        Check:
+        {t.cw_check}
       </text>
       <text x="130" y="45" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
         13 + 7 = 20 ✓
       </text>
       <text x="130" y="62" fontSize="10" fill="rgba(255,255,255,0.5)" textAnchor="start">
-        (Inverse operation)
+        {t.cw_inverse}
       </text>
 
       {/* Bottom */}
       <text x="120" y="130" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        Always verify your answer!
+        {t.cw_verify}
       </text>
     </svg>
   );
@@ -214,6 +219,30 @@ const CheckWorkSvg = memo(function CheckWorkSvg() {
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Word Problem Solver",
+    // SVG labels
+    pv_start: "Start:",
+    pv_now: "Now:",
+    pv_remove: "Remove",
+    pv_add: "Add",
+    pv_answer: "Answer",
+    ef_step1: "Step 1: Understand",
+    ef_know: "What do we know?",
+    ef_step2: "Step 2: Choose operation",
+    ef_op: "Add (+) or Subtract (−)?",
+    ef_step3: "Step 3: Write equation",
+    ef_example: "Example: 12 − 5 = 7",
+    ef_step4: "Step 4: Solve",
+    ef_calc: "Calculate answer",
+    ef_step5: "Step 5: Check",
+    ef_sense: "Does answer make sense?",
+    ef_step6: "Step 6: Answer",
+    ef_sentence: "Write full sentence",
+    cw_solution: "Solution:",
+    cw_had: "Had: 20 apples",
+    cw_ate: "Ate: 7 apples",
+    cw_check: "Check:",
+    cw_inverse: "(Inverse operation)",
+    cw_verify: "Always verify your answer!",
     // Topic 1: Understanding the problem
     t1_title: "Reading & Understanding Problems",
     t1_text: "Word problems describe a situation using words. To solve them, first read carefully and understand: What do we know? What are we asked to find? Example: 'Maria has 20 apples. She eats 7. How many are left?'",
@@ -266,6 +295,29 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Sachaufgaben-Löser",
+    pv_start: "Start:",
+    pv_now: "Jetzt:",
+    pv_remove: "Entfernen",
+    pv_add: "Hinzufügen",
+    pv_answer: "Antwort",
+    ef_step1: "Schritt 1: Verstehen",
+    ef_know: "Was wissen wir?",
+    ef_step2: "Schritt 2: Operation wählen",
+    ef_op: "Addieren (+) oder Subtrahieren (−)?",
+    ef_step3: "Schritt 3: Gleichung schreiben",
+    ef_example: "Beispiel: 12 − 5 = 7",
+    ef_step4: "Schritt 4: Lösen",
+    ef_calc: "Antwort berechnen",
+    ef_step5: "Schritt 5: Überprüfen",
+    ef_sense: "Macht die Antwort Sinn?",
+    ef_step6: "Schritt 6: Antwort",
+    ef_sentence: "Schreib einen vollständigen Satz",
+    cw_solution: "Lösung:",
+    cw_had: "Hatte: 20 Äpfel",
+    cw_ate: "Aß: 7 Äpfel",
+    cw_check: "Überprüfung:",
+    cw_inverse: "(Gegenoperation)",
+    cw_verify: "Überprüfe deine Antwort immer!",
     t1_title: "Lesen & Verstehen von Aufgaben",
     t1_text: "Sachaufgaben beschreiben eine Situation in Worten. Um sie zu lösen, lies zuerst sorgfältig und verstehe: Was wissen wir? Was sollen wir finden? Beispiel: 'Maria hat 20 Äpfel. Sie isst 7. Wie viele sind übrig?'",
     t1_b1: "Lies die Aufgabe langsam und sorgfältig",
@@ -314,6 +366,29 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Szövegfeladat-Megoldó",
+    pv_start: "Kezdet:",
+    pv_now: "Most:",
+    pv_remove: "Eltávolít",
+    pv_add: "Hozzáad",
+    pv_answer: "Válasz",
+    ef_step1: "1. lépés: Megértés",
+    ef_know: "Mit tudunk?",
+    ef_step2: "2. lépés: Művelet kiválasztása",
+    ef_op: "Összeadás (+) vagy Kivonás (−)?",
+    ef_step3: "3. lépés: Egyenlet felírása",
+    ef_example: "Példa: 12 − 5 = 7",
+    ef_step4: "4. lépés: Megoldás",
+    ef_calc: "Válasz kiszámítása",
+    ef_step5: "5. lépés: Ellenőrzés",
+    ef_sense: "Értelmes-e a válasz?",
+    ef_step6: "6. lépés: Válasz",
+    ef_sentence: "Írj egy teljes mondatot",
+    cw_solution: "Megoldás:",
+    cw_had: "Volt: 20 alma",
+    cw_ate: "Megevett: 7 almát",
+    cw_check: "Ellenőrzés:",
+    cw_inverse: "(Ellentétes művelet)",
+    cw_verify: "Mindig ellenőrizd a válaszodat!",
     t1_title: "Szövegfeladatok olvasása & megértése",
     t1_text: "A szövegfeladatok szavakkal írják le a helyzetet. A megoldásukhoz először olvasd el gondosan és értsd meg: Mit tudunk? Mit kell találni? Például: 'Mariának 20 almája van. Megeszik 7-et. Hány van hátra?'",
     t1_b1: "Olvasd el a feladatot lassan és gondosan",
@@ -362,6 +437,29 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Rezolvator de probleme cu cuvinte",
+    pv_start: "Început:",
+    pv_now: "Acum:",
+    pv_remove: "Înlătură",
+    pv_add: "Adaug",
+    pv_answer: "Răspuns",
+    ef_step1: "Pasul 1: Înțelege",
+    ef_know: "Ce știm?",
+    ef_step2: "Pasul 2: Alege operația",
+    ef_op: "Adunare (+) sau Scădere (−)?",
+    ef_step3: "Pasul 3: Scrie ecuația",
+    ef_example: "Exemplu: 12 − 5 = 7",
+    ef_step4: "Pasul 4: Rezolvă",
+    ef_calc: "Calculează răspunsul",
+    ef_step5: "Pasul 5: Verifică",
+    ef_sense: "Are sens răspunsul?",
+    ef_step6: "Pasul 6: Răspuns",
+    ef_sentence: "Scrie o propoziție completă",
+    cw_solution: "Soluție:",
+    cw_had: "Avea: 20 mere",
+    cw_ate: "A mâncat: 7 mere",
+    cw_check: "Verificare:",
+    cw_inverse: "(Operație inversă)",
+    cw_verify: "Verifică întotdeauna răspunsul tău!",
     t1_title: "Citirea și înțelegerea problemelor",
     t1_text: "Problemele cu cuvinte descriu o situație folosind cuvinte. Pentru a le rezolva, citește mai întâi atent și înțelege: Ce știm? Ce trebuie să găsim? Exemplu: 'Maria are 20 de mere. Mănâncă 7. Câte au rămas?'",
     t1_b1: "Citește problema lent și atent",
@@ -422,14 +520,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} />,
+      svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} />,
+      svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
       questions: [
         {
           question: "t1_q",
@@ -444,14 +542,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <EquationFormatSvg />,
+      svg: (lang: string) => <EquationFormatSvg lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t2_title",
       infoText: "t2_text",
-      svg: () => <EquationFormatSvg />,
+      svg: (lang: string) => <EquationFormatSvg lang={lang} />,
       questions: [
         {
           question: "t2_q",
@@ -466,14 +564,14 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <CheckWorkSvg />,
+      svg: (lang: string) => <CheckWorkSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     },
     {
       type: "mcq",
       infoTitle: "t3_title",
       infoText: "t3_text",
-      svg: () => <CheckWorkSvg />,
+      svg: (lang: string) => <CheckWorkSvg lang={lang} />,
       questions: [
         {
           question: "t3_q",
@@ -488,7 +586,7 @@ const EXPLORER_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "t1_title",
       infoText: "t1_text",
-      svg: () => <ProblemVisualizationSvg scenario="books" initial={15} operation="add" amount={8} />,
+      svg: (lang: string) => <ProblemVisualizationSvg scenario="books" initial={15} operation="add" amount={8} lang={lang} />,
       questions: [
         {
           question: "r5_q1",

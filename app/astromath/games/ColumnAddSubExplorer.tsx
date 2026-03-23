@@ -9,8 +9,9 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 // ─── SVG: Column layout showing tens and ones separately ─────────────────────
 
 const ColumnSvg = memo(function ColumnSvg({
-  a = 34, b = 25, op = "+" as "+" | "-",
-}: { a?: number; b?: number; op?: "+" | "-" }) {
+  a = 34, b = 25, op = "+" as "+" | "-", lang = "en",
+}: { a?: number; b?: number; op?: "+" | "-"; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const tensA = Math.floor(a / 10); const onesA = a % 10;
   const tensB = Math.floor(b / 10); const onesB = b % 10;
   const result = op === "+" ? a + b : a - b;
@@ -26,9 +27,9 @@ const ColumnSvg = memo(function ColumnSvg({
       <rect width="240" height="150" fill="url(#colG)" rx="16" />
       {/* Column headers */}
       <text x="130" y="26" fontSize="10" fontWeight="700"
-        fill="#06B6D4" textAnchor="middle" opacity="0.8">T</text>
+        fill="#06B6D4" textAnchor="middle" opacity="0.8">{t.col_tens}</text>
       <text x="180" y="26" fontSize="10" fontWeight="700"
-        fill="#FFD700" textAnchor="middle" opacity="0.8">O</text>
+        fill="#FFD700" textAnchor="middle" opacity="0.8">{t.col_ones}</text>
       {/* Divider line */}
       <line x1="100" y1="30" x2="210" y2="30"
         stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
@@ -61,7 +62,8 @@ const ColumnSvg = memo(function ColumnSvg({
 
 // ─── SVG: Visual blocks showing column subtraction ────────────────────────────
 
-const SubColSvg = memo(function SubColSvg({ a = 57, b = 23 }: { a?: number; b?: number }) {
+const SubColSvg = memo(function SubColSvg({ a = 57, b = 23, lang = "en" }: { a?: number; b?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const result = a - b;
   return (
     <svg width="100%" viewBox="0 0 240 130">
@@ -85,9 +87,9 @@ const SubColSvg = memo(function SubColSvg({ a = 57, b = 23 }: { a?: number; b?: 
         fill="#FF6B6B" textAnchor="middle" dominantBaseline="middle">{result}</text>
       {/* Hint row */}
       <text x="120" y="105" fontSize="10" fill="rgba(255,255,255,0.4)" textAnchor="middle">
-        Tens: {Math.floor(a/10)} − {Math.floor(b/10)} = {Math.floor(result/10)}
+        {t.col_tens}: {Math.floor(a/10)} − {Math.floor(b/10)} = {Math.floor(result/10)}
         {"   "}
-        Ones: {a%10} − {b%10} = {result%10}
+        {t.col_ones}: {a%10} − {b%10} = {result%10}
       </text>
     </svg>
   );
@@ -126,6 +128,8 @@ const MissingNumSvg = memo(function MissingNumSvg({ a = 43, b = 21, result = 64,
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
+    col_tens: "T",
+    col_ones: "O",
     explorer_title: "Column Addition & Subtraction",
     t1_title: "Adding in Columns",
     t1_text: "In column addition, we add the ONES first, then the TENS. 34 + 25: ones: 4 + 5 = 9. Tens: 3 + 2 = 5. Answer: 59! Each column stays separate.",
@@ -168,6 +172,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3: "3",
   },
   de: {
+    col_tens: "Z",
+    col_ones: "E",
     explorer_title: "Schriftliches Rechnen",
     t1_title: "Schriftlich addieren",
     t1_text: "Beim schriftlichen Addieren addieren wir zuerst die EINER, dann die ZEHNER. 34 + 25: Einer: 4 + 5 = 9. Zehner: 3 + 2 = 5. Ergebnis: 59! Jede Spalte für sich.",
@@ -210,6 +216,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3: "3",
   },
   hu: {
+    col_tens: "T",
+    col_ones: "E",
     explorer_title: "Oszlopos összeadás és kivonás",
     t1_title: "Oszlopos összeadás",
     t1_text: "Oszlopos összeadáskor először az EGYESEKET adjuk össze, majd a TÍZESEKET. 34 + 25: egyesek: 4 + 5 = 9. Tízesek: 3 + 2 = 5. Eredmény: 59! Minden oszlop külön.",
@@ -252,6 +260,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3: "3",
   },
   ro: {
+    col_tens: "Z",
+    col_ones: "U",
     explorer_title: "Adunare și scădere în coloană",
     t1_title: "Adunare în coloană",
     t1_text: "La adunarea în coloană, adunăm mai întâi UNITĂȚILE, apoi ZECILE. 34 + 25: unități: 4 + 5 = 9. Zeci: 3 + 2 = 5. Rezultat: 59! Fiecare coloană separat.",
@@ -301,7 +311,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <ColumnSvg a={34} b={25} op="+" />,
+    svg: (lang) => <ColumnSvg a={34} b={25} op="+" lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -325,7 +335,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <SubColSvg a={57} b={23} />,
+    svg: (lang) => <SubColSvg a={57} b={23} lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
