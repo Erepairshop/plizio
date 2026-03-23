@@ -126,6 +126,7 @@ const ShapesSvg = memo(function ShapesSvg() {
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
+    explorer_title: "Area & Perimeter Explorer",
     // Topic 1: Rectangle Area
     area_title: "🔲 Rectangle Area",
     area_teach: "Count the square units inside a rectangle. Multiply length × width.",
@@ -155,6 +156,7 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_a3: "16 square units",
   },
   de: {
+    explorer_title: "Fläche & Umfang entdecken",
     area_title: "🔲 Rechteck-Fläche",
     area_teach: "Zähle die Quadrat-Einheiten im Rechteck. Multipliziere Länge × Breite.",
     area_hint_1: "Wie viele Einheits-Quadrate passen hinein?",
@@ -181,6 +183,7 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_a3: "16 Quadrat-Einheiten",
   },
   hu: {
+    explorer_title: "Terület & Kerület felfedezés",
     area_title: "🔲 Téglalap területe",
     area_teach: "Számold meg a négyzet-egységeket a téglalapban. Szorozd a hosszúságot × szélességgel.",
     area_hint_1: "Hány egység-négyzet fér be?",
@@ -207,6 +210,7 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_a3: "16 négyzetegység",
   },
   ro: {
+    explorer_title: "Explorare Arie & Perimetru",
     area_title: "🔲 Aria dreptunghiului",
     area_teach: "Numără unitățile pătrate din dreptunghi. Înmulțește lungimea × lățimea.",
     area_hint_1: "Câte pătrate unitare se potrivesc?",
@@ -238,6 +242,8 @@ const LABELS: Record<string, Record<string, string>> = {
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
+  title: "explorer_title",
+  icon: "📐",
   rounds: [
     // ─ R1: Rectangle Area ─
     {

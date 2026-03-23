@@ -300,6 +300,8 @@ const LABELS: Record<string, Record<string, string>> = {
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
+  title: "explorer_title",
+  icon: "📏",
   rounds: [
     // ─ R1: Length ─
     {

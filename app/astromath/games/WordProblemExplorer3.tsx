@@ -145,6 +145,7 @@ const MultiplicationStorySvg = memo(function MultiplicationStorySvg() {
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
+    explorer_title: "Word Problem Explorer",
     // Topic 1: Addition Story
     add_story_title: "➕ Addition Story",
     add_story_teach: "Read the story carefully. Find the starting number and what you add.",
@@ -174,6 +175,7 @@ const LABELS: Record<string, Record<string, string>> = {
     story_a3: "12 apples",
   },
   de: {
+    explorer_title: "Sachaufgaben entdecken",
     add_story_title: "➕ Additions-Geschichte",
     add_story_teach: "Lies die Geschichte genau. Finde die Startzahl und was hinzukommt.",
     add_story_hint_1: "Womit fangen wir an? Was kommt hinzu?",
@@ -200,6 +202,7 @@ const LABELS: Record<string, Record<string, string>> = {
     story_a3: "12 Äpfel",
   },
   hu: {
+    explorer_title: "Szöveges feladat felfedezés",
     add_story_title: "➕ Összeadás történet",
     add_story_teach: "Olvasd el a történetet figyelmesen. Keress egy kezdőszámot és azt, amit hozzáadsz.",
     add_story_hint_1: "Mivel kezdünk? Mit adunk hozzá?",
@@ -226,6 +229,7 @@ const LABELS: Record<string, Record<string, string>> = {
     story_a3: "12 alma",
   },
   ro: {
+    explorer_title: "Explorare probleme",
     add_story_title: "➕ Povestea adunării",
     add_story_teach: "Citește cu atenție. Găsește numărul de pornire și ce se adaugă.",
     add_story_hint_1: "Cu ce începem? Ce adăugăm?",
@@ -257,6 +261,8 @@ const LABELS: Record<string, Record<string, string>> = {
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
+  title: "explorer_title",
+  icon: "📖",
   rounds: [
     // ─ R1: Addition Story ─
     {
