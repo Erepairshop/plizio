@@ -6,7 +6,90 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Intro ──────────────────────────────────────────────────────────────
+const PlaceValueSvg = memo(function PlaceValueSvg() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      {/* Background gradient */}
+      <defs>
+        <linearGradient id="pvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCDCAC" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#pvGrad)" rx="12" />
+
+      {/* Tens block (vertical rod) — 10 small squares */}
+      <g transform="translate(40, 35)">
+        {/* Outer frame */}
+        <rect x="-8" y="-18" width="16" height="36" fill="none" stroke="#F59E0B" strokeWidth="2" rx="2" />
+
+        {/* 10 unit squares inside */}
+        {Array.from({ length: 10 }, (_, i) => (
+          <rect
+            key={`ten-${i}`}
+            x="-6"
+            y={-16 + i * 3.6}
+            width="12"
+            height="3.2"
+            fill="#FCD34D"
+            stroke="#F59E0B"
+            strokeWidth="0.8"
+            opacity="0.85"
+          />
+        ))}
+
+        {/* Label */}
+        <text x="0" y="28" fontSize="10" fontWeight="bold" fill="#F59E0B" textAnchor="middle">
+          1 TEN
+        </text>
+      </g>
+
+      {/* Plus sign */}
+      <text x="100" y="65" fontSize="20" fontWeight="900" fill="#F59E0B" textAnchor="middle">
+        +
+      </text>
+
+      {/* Ones dots (3 circles) */}
+      <g transform="translate(155, 45)">
+        {/* Layout: 3 dots in a triangle pattern */}
+        {[0, 1, 2].map((i) => {
+          const positions = [[0, -12], [-10, 5], [10, 5]];
+          const [x, y] = positions[i];
+          return (
+            <g key={`one-${i}`}>
+              <circle cx={x} cy={y} r="8" fill="#FBBF24" stroke="#F59E0B" strokeWidth="1.5" />
+              <circle cx={x} cy={y} r="8" fill="#FCD34D" opacity="0.4" filter="url(#starGlow)" />
+              <text x={x} y={y + 3} fontSize="12" fontWeight="900" fill="#F59E0B" textAnchor="middle">
+                1
+              </text>
+            </g>
+          );
+        })}
+
+        {/* Label */}
+        <text x="0" y="32" fontSize="10" fontWeight="bold" fill="#F59E0B" textAnchor="middle">
+          3 ONES
+        </text>
+      </g>
+
+      {/* Equals and result */}
+      <g transform="translate(100, 100)">
+        <line x1="-18" y1="0" x2="18" y2="0" stroke="#F59E0B" strokeWidth="2" />
+        <text x="0" y="12" fontSize="14" fontWeight="900" fill="#FBBF24" textAnchor="middle">
+          13
+        </text>
+      </g>
+
+      {/* SVG filter definition */}
+      <defs>
+        <filter id="starGlow">
+          <feGaussianBlur stdDeviation="1.5" result="coloredBlur" />
+        </filter>
+      </defs>
+    </svg>
+  );
+});
 
 const LABELS = {
   en: {
@@ -58,7 +141,7 @@ const DEF: ExplorerDef = {
       type: "info",
       infoTitle: "title",
       infoText: "intro",
-      svg: noSvg,
+      svg: () => <PlaceValueSvg />,
       bulletKeys: ["num13", "num15"],
     },
     {

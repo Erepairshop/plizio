@@ -6,7 +6,73 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Intro ──────────────────────────────────────────────────────────────
+const AddSubSvg = memo(function AddSubSvg({ isAdd }: { isAdd: boolean }) {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      {/* Background */}
+      <defs>
+        <linearGradient id="addGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor={isAdd ? "#FBBF24" : "#F87171"} stopOpacity="0.15" />
+          <stop offset="100%" stopColor={isAdd ? "#FCD34D" : "#FCA5A5"} stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#addGrad)" rx="12" />
+
+      {/* Apples left group (3 or 7) */}
+      {isAdd
+        ? [0, 1, 2].map((i) => (
+            <g key={`a-${i}`} transform={`translate(${20 + i * 25}, 30)`}>
+              <circle cx="0" cy="0" r="12" fill="#DC2626" />
+              <circle cx="-4" cy="-3" r="2.5" fill="#991B1B" />
+              <circle cx="4" cy="-3" r="2.5" fill="#991B1B" />
+              <path d="M -2 2 Q 0 4 2 2" stroke="#991B1B" strokeWidth="1" fill="none" />
+              <path d="M -1 -8 L -0.5 -12 Q 0.5 -13 1 -12" stroke="#7C2D12" strokeWidth="1.5" fill="none" />
+            </g>
+          ))
+        : [0, 1, 2, 3, 4, 5, 6].map((i) => (
+            <g key={`a-${i}`} transform={`translate(${8 + i * 13}, 35)`}>
+              <circle cx="0" cy="0" r="6" fill="#DC2626" opacity={i < 5 ? 1 : 0.4} />
+              <path d="M -0.5 -4 L 0 -5 Q 0.3 -5.5 0.5 -5" stroke="#7C2D12" strokeWidth="0.8" fill="none" opacity={i < 5 ? 1 : 0.4} />
+            </g>
+          ))}
+
+      {/* Operator symbol */}
+      <g transform="translate(130, 60)">
+        <text x="0" y="8" fontSize="28" fontWeight="900" fill={isAdd ? "#FBBF24" : "#F87171"} textAnchor="middle">
+          {isAdd ? "+" : "−"}
+        </text>
+      </g>
+
+      {/* Apples right group (2 or 3) */}
+      {isAdd
+        ? [0, 1].map((i) => (
+            <g key={`b-${i}`} transform={`translate(${155 + i * 25}, 30)`}>
+              <circle cx="0" cy="0" r="12" fill="#DC2626" />
+              <circle cx="-4" cy="-3" r="2.5" fill="#991B1B" />
+              <circle cx="4" cy="-3" r="2.5" fill="#991B1B" />
+              <path d="M -2 2 Q 0 4 2 2" stroke="#991B1B" strokeWidth="1" fill="none" />
+              <path d="M -1 -8 L -0.5 -12 Q 0.5 -13 1 -12" stroke="#7C2D12" strokeWidth="1.5" fill="none" />
+            </g>
+          ))
+        : [0, 1, 2].map((i) => (
+            <g key={`b-${i}`} transform={`translate(${155 + i * 13}, 35)`}>
+              <circle cx="0" cy="0" r="6" fill="#DC2626" />
+              <path d="M -0.5 -4 L 0 -5 Q 0.3 -5.5 0.5 -5" stroke="#7C2D12" strokeWidth="0.8" fill="none" />
+            </g>
+          ))}
+
+      {/* Equals */}
+      <g transform="translate(100, 90)">
+        <line x1="-12" y1="-2" x2="12" y2="-2" stroke={isAdd ? "#FBBF24" : "#F87171"} strokeWidth="2.5" />
+        <line x1="-12" y1="2" x2="12" y2="2" stroke={isAdd ? "#FBBF24" : "#F87171"} strokeWidth="2.5" />
+      </g>
+      <text x="130" y="100" fontSize="14" fontWeight="bold" fill={isAdd ? "#FBBF24" : "#F87171"} textAnchor="middle">
+        {isAdd ? "5" : "4"}
+      </text>
+    </svg>
+  );
+});
 
 const LABELS = {
   en: {
@@ -66,7 +132,7 @@ const ADD_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "addTitle",
       infoText: "addIntro",
-      svg: noSvg,
+      svg: () => <AddSubSvg isAdd={true} />,
       bulletKeys: ["add3plus2"],
     },
     {
@@ -111,7 +177,7 @@ const SUB_DEF: ExplorerDef = {
       type: "info",
       infoTitle: "subTitle",
       infoText: "subIntro",
-      svg: noSvg,
+      svg: () => <AddSubSvg isAdd={false} />,
       bulletKeys: ["sub7minus3"],
     },
     {
