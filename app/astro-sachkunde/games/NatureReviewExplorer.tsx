@@ -6,6 +6,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const TOTAL_ROUNDS = 5;
 
@@ -450,7 +451,8 @@ function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey, speak }: S
     setSelected(key);
     setLocked(true);
     if (key === q.correctKey) correctRef.current++;
-  }, [locked, q.correctKey]);
+    else fireWrongAnswer({ question: lbl[q.clueKey] ?? q.clueKey, wrongAnswer: lbl[key] ?? key, correctAnswer: lbl[q.correctKey] ?? q.correctKey, topic: "Nature Review", lang: "en" });
+  }, [locked, q.correctKey, q.clueKey, lbl]);
 
   const handleNext = useCallback(() => {
     if (idx < questions.length - 1) {

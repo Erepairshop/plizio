@@ -491,6 +491,7 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ) => (choice: string) => {
     totalRef.current++;
     if (choice === correctAnswer) scoreRef.current++;
+    else fireWrongAnswer({ question: "Body Explorer", wrongAnswer: lbl[choice] ?? choice, correctAnswer: lbl[correctAnswer] ?? correctAnswer, topic: "Body Explorer", lang });
     setAnswer(choice);
   };
 

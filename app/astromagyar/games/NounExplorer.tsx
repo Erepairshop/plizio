@@ -6,6 +6,7 @@ import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -223,7 +224,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Article sorting ─────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const [done, setDone] = useState(false);
@@ -232,6 +233,15 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (art: Article) => {
     if (selected) return;
     setSelected(art);
+    if (art !== item.article) {
+      fireWrongAnswer({
+        question: `___ ${item.word}`,
+        wrongAnswer: art,
+        correctAnswer: item.article,
+        topic: "der/die/das",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= ARTICLE_NOUNS.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
@@ -350,7 +360,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 4: Article quiz (4 nouns, tap correct article) ─────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const items = ARTICLE_QUIZ.slice(0, 3);
@@ -359,6 +369,15 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (art: Article) => {
     if (selected) return;
     setSelected(art);
+    if (art !== item.article) {
+      fireWrongAnswer({
+        question: `___ ${item.word}`,
+        wrongAnswer: art,
+        correctAnswer: item.article,
+        topic: "Article Match",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= items.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -409,7 +428,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Mixed article quiz ──────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<string, string>; lang: string; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<Article | null>(null);
   const items = ARTICLE_QUIZ.slice(3);
@@ -418,6 +437,15 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (art: Article) => {
     if (selected) return;
     setSelected(art);
+    if (art !== item.article) {
+      fireWrongAnswer({
+        question: `___ ${item.word}`,
+        wrongAnswer: art,
+        correctAnswer: item.article,
+        topic: "Noun Challenge",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= items.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -490,10 +518,10 @@ const NounExplorer = memo(function NounExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} lang={lang} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} lang={lang} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

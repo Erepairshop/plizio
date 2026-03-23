@@ -426,7 +426,10 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
-    if (opt !== item.correct) wrongCountRef.current++;
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "German Cases", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PREP_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }

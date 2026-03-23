@@ -322,7 +322,10 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     if (revealed) return;
     setSelected(i);
     setRevealed(true);
-    if (i !== q.correct) wrongCountRef.current++;
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= GAP_ITEMS.length) onNext();
@@ -379,7 +382,10 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     if (revealed) return;
     setSelected(i);
     setRevealed(true);
-    if (i !== q.correct) wrongCountRef.current++;
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= SPELL_QUIZ.length) onDone();

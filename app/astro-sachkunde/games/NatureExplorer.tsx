@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -358,8 +359,10 @@ function NatureExplorer({ color, lang = "de", onDone, onClose }: Props) {
     totalRef.current += 1;
     if (key === correctKey) {
       scoreRef.current += 1;
+    } else {
+      fireWrongAnswer({ question: "Nature Explorer", wrongAnswer: key, correctAnswer: correctKey, topic: "Nature Explorer", lang });
     }
-  }, [locked]);
+  }, [locked, lang]);
 
   // Handle season-order tap
   const handleOrderTap = useCallback((key: string) => {
@@ -380,6 +383,7 @@ function NatureExplorer({ color, lang = "de", onDone, onClose }: Props) {
       setOrderWrong(key);
       totalRef.current += 1;
       // wrong: score not incremented
+      fireWrongAnswer({ question: "Season Order", wrongAnswer: key, correctAnswer: seasonOrder[tapped.length], topic: "Nature Explorer", lang });
       setTimeout(() => setOrderWrong(null), 600);
     }
   }, [tapped, seasonOrder, advanceRound]);

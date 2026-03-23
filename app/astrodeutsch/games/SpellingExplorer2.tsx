@@ -402,7 +402,10 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
   const handleSubmit = () => {
     if (!input.trim() || submitted) return;
     setSubmitted(true);
-    if (!isCorrect) wrongCountRef.current++;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Spelling", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= words.length) onNext();
       else { setIdx(i => i + 1); setInput(""); setSubmitted(false); }
@@ -480,7 +483,10 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     if (selected) return;
     setSelected(opt);
     const isCorrect = opt === item.answer;
-    if (!isCorrect) wrongCountRef.current++;
+    if (!isCorrect) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Spelling", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= quiz.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }

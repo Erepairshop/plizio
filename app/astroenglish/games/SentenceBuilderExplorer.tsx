@@ -140,6 +140,13 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
     } else {
       wrongCountRef.current += 1;
       setFlashWrong(true);
+      fireWrongAnswer({
+        question: t.buildSentence,
+        wrongAnswer: buildSentence(round.words, selectedIndices),
+        correctAnswer: correctSentence,
+        topic: "Sentence Builder",
+        lang: lang as string,
+      });
 
       // Find first wrong position
       let firstWrongIdx = null;

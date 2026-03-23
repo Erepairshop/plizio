@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // Props interface
 interface TenseRound {
@@ -93,6 +94,13 @@ const TenseExplorer = memo(function TenseExplorer({
       } else {
         wrongCountRef.current += 1;
         setFeedbackType("wrong");
+        fireWrongAnswer({
+          question: `${currentRound.tenseLabel}: ${currentRound.sentence}`,
+          wrongAnswer: currentRound.options[index],
+          correctAnswer: currentRound.options[currentRound.correctIndex],
+          topic: "Tense Explorer",
+          lang: lang as string,
+        });
       }
     },
     [currentRound.correctIndex, isAnswered]

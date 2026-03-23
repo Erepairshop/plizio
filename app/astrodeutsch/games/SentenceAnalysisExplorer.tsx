@@ -247,7 +247,10 @@ function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } 
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
-    if (opt !== item.correct) wrongCountRef.current++;
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= ADV_QUIZ.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -452,7 +455,10 @@ function Round5({ color, lbl, onDone, wrongCountRef, lang , showTeach, setShowTe
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
-    if (opt !== item.correct) wrongCountRef.current++;
+    if (opt !== item.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= ANALYSIS_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
