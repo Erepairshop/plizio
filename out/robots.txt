@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-
-Sitemap: https://plizio.com/sitemap-index.xml
-Sitemap: https://plizio.com/sitemap-games.xml
-Sitemap: https://plizio.com/sitemap-education.xml
-Sitemap: https://plizio.com/sitemap-categories.xml
