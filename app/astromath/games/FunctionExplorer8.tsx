@@ -36,8 +36,8 @@ const Topic2Svg = memo(() => (
     <g transform="translate(120, 70)">
       <line x1="-80" y1="30" x2="80" y2="-30" stroke="#10B981" strokeWidth="3" />
       <text x="0" y="-40" fontSize="16" fontWeight="bold" fill="#34D399" textAnchor="middle">f(x) = mx + b</text>
-      <text x="-50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m > 0: Növekvő</text>
-      <text x="50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m < 0: Csökkenő</text>
+      <text x="-50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m {">"} 0: Növekvő</text>
+      <text x="50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m {"<"} 0: Csökkenő</text>
     </g>
   </svg>
 ));

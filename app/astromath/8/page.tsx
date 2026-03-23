@@ -28,16 +28,15 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
-import AlgebraExplorer from "@/app/astromath/games/AlgebraExplorer";
-import StatExplorer from "@/app/astromath/games/StatExplorer";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
-import EquationExplorer from "@/app/astromath/games/EquationExplorer";
-import SqrtExplorer from "@/app/astromath/games/SqrtExplorer";
-import QuadraticExplorer from "@/app/astromath/games/QuadraticExplorer";
-import SystemExplorer from "@/app/astromath/games/SystemExplorer";
-import FunctionExplorer from "@/app/astromath/games/FunctionExplorer";
-import ProbabilityExplorer from "@/app/astromath/games/ProbabilityExplorer";
-import TransformExplorer from "@/app/astromath/games/TransformExplorer";
+import SqrtExplorer8 from "@/app/astromath/games/SqrtExplorer8";
+import QuadraticExplorer8 from "@/app/astromath/games/QuadraticExplorer8";
+import EquationExplorer8 from "@/app/astromath/games/EquationExplorer8";
+import SystemExplorer8 from "@/app/astromath/games/SystemExplorer8";
+import FunctionExplorer8 from "@/app/astromath/games/FunctionExplorer8";
+import ProbabilityExplorer8 from "@/app/astromath/games/ProbabilityExplorer8";
+import StatExplorer8 from "@/app/astromath/games/StatExplorer8";
+import TransformExplorer8 from "@/app/astromath/games/TransformExplorer8";
 import VisualChallenge from "@/app/astromath/games/VisualChallenge";
 import CylinderSurface from "@/components/grade8-visual/CylinderSurface";
 import TransformationGrid from "@/components/grade8-visual/TransformationGrid";
@@ -834,35 +833,32 @@ export default function AstroMathG8Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "algebra-explorer" && (
-          <AlgebraExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
         {screen === "stat-explorer" && (
-          <StatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <StatExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "equation-explorer" && (
-          <EquationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <EquationExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "sqrt-explorer" && (
-          <SqrtExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SqrtExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "quadratic-explorer" && (
-          <QuadraticExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <QuadraticExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "system-explorer" && (
-          <SystemExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SystemExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "function-explorer" && (
-          <FunctionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <FunctionExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "probability-explorer" && (
-          <ProbabilityExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <ProbabilityExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "transform-explorer" && (
-          <TransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <TransformExplorer8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "visual-challenge" && activeMission?.visualType === "cylinder-surface" && (
           <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}

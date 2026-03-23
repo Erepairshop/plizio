@@ -41,9 +41,9 @@ const Topic3Svg = memo(() => (
   <svg width="100%" viewBox="0 0 240 140">
     <rect width="240" height="140" fill="#F0FDF4" rx="24" />
     <g transform="translate(120, 70)">
-      <text x="0" y="-25" fontSize="16" fontWeight="bold" fill="#15803D" textAnchor="middle">-2x < 6</text>
+      <text x="0" y="-25" fontSize="16" fontWeight="bold" fill="#15803D" textAnchor="middle">-2x {"<"} 6</text>
       <path d="M -30,0 L 30,0" stroke="#166534" strokeWidth="2" markerEnd="url(#arrow)" />
-      <text x="0" y="25" fontSize="18" fontWeight="black" fill="#10B981" textAnchor="middle">x > -3</text>
+      <text x="0" y="25" fontSize="18" fontWeight="black" fill="#10B981" textAnchor="middle">x {">"} -3</text>
       <circle cx="0" cy="40" r="3" fill="#DC2626" />
       <text x="0" y="55" fontSize="10" fill="#DC2626" textAnchor="middle">JEL MEGFORDUL!</text>
     </g>

@@ -134,7 +134,7 @@ const TOPICS: TopicDef[] = [
       type: "equation-solver",
       equation: "x + 2x = 6",
       steps: [
-        { instruction: "t2_step1", choices: ["2x", "3x", "4x", "6x"], answer: "3x", equation: "3x = 6" },
+        { instruction: "t2_step1", choices: [2, 3, 4, 6], answer: 3, equation: "3x = 6" },
         { instruction: "t2_step2", choices: [1, 2, 3, 6], answer: 2, equation: "x = 2" }
       ],
       finalAnswer: 2,
