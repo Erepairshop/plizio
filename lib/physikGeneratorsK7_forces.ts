@@ -69,7 +69,11 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   }
 
   for (let i = 0; i < 7; i++) {
-    questions.push(createMCQ("forces", "basics", q4("1 Newton = ?", "1 Newton = ?", "1 Newton = ?", "1 Newton = ?", lang), q4("Kraft um 1 kg um 1 m/s² zu beschleunigen", "Force to accelerate 1 kg by 1 m/s²", "Erő 1 kg 1 m/s² gyorsulásához", "Forța pentru accelera 1 kg cu 1 m/s²", lang), [q4("Dyn (dyne)", "Dyn (dyne)", "Dyn (dyn)", "Dyn (dyn)", lang)], rng));
+    questions.push(createMCQ("forces", "basics", q4("1 Newton = ?", "1 Newton = ?", "1 Newton = ?", "1 Newton = ?", lang), q4("Kraft um 1 kg um 1 m/s² zu beschleunigen", "Force to accelerate 1 kg by 1 m/s²", "Erő 1 kg 1 m/s² gyorsulásához", "Forța pentru accelera 1 kg cu 1 m/s²", lang), [
+      q4("Dyn (dyne)", "Dyn (dyne)", "Dyn (dyn)", "Dyn (dyn)", lang),
+      q4("Joule pro Meter", "Joule per meter", "Joule per méter", "Joule per metru", lang),
+      q4("Kilogramm", "Kilogram", "Kilogramm", "Kilogram", lang),
+    ], rng));
   }
 
   for (let i = 0; i < 7; i++) {

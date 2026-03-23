@@ -281,10 +281,10 @@ function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           "De ce se folosesc lentile divergente în ochelari pentru miopie?",
           lang
         ),
-        q4("Sie verringern die Brechkraft der Augen", "They reduce eye focusing power", "Csökkentik a szem fénytörő képességét", "Ele reduc puterea de focalizare a ochilor", lang),
+        q4("Sie lenken Lichtstrahlen so, dass sie auf der Netzhaut fokussieren", "They bend light rays to focus on the retina", "A fénysugarak eltérítik, hogy a retinán fókuszálódjanak", "Deviează razele de lumină pentru a se focaliza pe retină", lang),
         [
           q4("Sie verstärken die Augenmuskulatur", "They strengthen eye muscles", "Erősítik a szem izmait", "Ele întăresc mușchii ochilor", lang),
-          q4("Sie heilen Astigmatismus", "They cure astigmatism", "Gyógyítják az astigmatizmust", "Vindecă astigmatismul", lang),
+          q4("Sie heilen Astigmatismus vollständig", "They completely cure astigmatism", "Teljesen gyógyítják az astigmatizmust", "Vindecă complet astigmatismul", lang),
           q4("Sie vergrößern die Pupillen", "They enlarge pupils", "Megverőítik a pupillákat", "Ele măresc pupilele", lang),
         ],
         rng

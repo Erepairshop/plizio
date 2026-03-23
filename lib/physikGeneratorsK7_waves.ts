@@ -300,11 +300,11 @@ function generateEMSpectrumMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           "Microundele și undele radio nu sunt vizibile. De ce nu?",
           lang
         ),
-        q4("Ihre Wellenlängen sind viel zu groß für unsere Augen", "Their wavelengths are too large for our eyes", "Hullámhosszuk túl nagy a szemünk számára", "Lungimile lor de undă sunt prea mari pentru ochii noștri", lang),
+        q4("Das menschliche Auge ist nicht empfindlich für diese Wellenlängen", "The human eye is not sensitive to these wavelengths", "Az emberi szem nem érzékeny ezekre a hullámhosszakra", "Ochiul uman nu este sensibil la aceste lungimi de undă", lang),
         [
-          q4("Sie werden durch die Atmosphäre absorbiert", "They are absorbed by the atmosphere", "A légkör felszívja őket", "Sunt absorbite de atmosferă", lang),
-          q4("Sie haben zu wenig Energie", "They have too little energy", "Túl kevés energiájuk van", "Au prea puțină energie", lang),
-          q4("Sie durchdringen undurchsichtige Materialien", "They penetrate opaque materials", "Áthatják az átlátszatlan anyagokat", "Penetrează materialele opace", lang),
+          q4("Sie werden vollständig durch die Atmosphäre absorbiert", "They are completely absorbed by atmosphere", "Teljesen felszívódnak az összes hullámhossz", "Sunt complet absorbite de atmosferă", lang),
+          q4("Sie haben zu wenig Energie für Sichtbarkeit", "They have too little energy to be seen", "Túl kevés energiájuk van a láthatósághoz", "Au prea puțină energie pentru a fi vizibile", lang),
+          q4("Radiowellen sind zu schnell für das Auge", "Radio waves are too fast for the eye", "Rádiohullámok túl gyorsak a szemnek", "Undele radio sunt prea rapide pentru ochi", lang),
         ],
         rng
       ));

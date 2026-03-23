@@ -166,7 +166,7 @@ function generateOrbitsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 7; i++) {
     questions.push(createMCQ("earth_space", "orbits", q4("Keplers 2. Gesetz?", "Kepler's 2nd law?", "Kepler 2. törvénye?", "Legea 2 Kepler?", lang),
-      q4("Linienschwung-Satz: gleiche Flächenfeien in gleicher Zeit → schneller in Perihel, langsamer in Aphel", "Equal areas in equal times → faster at perihelion, slower at aphelion", "Egyenlő területek egyenlő időben → gyorsabb perihelionban, lassabb aphélionban", "Arii egale în timpi egali → mai rapid la periheliu, mai lent la afeliu", lang),
+      q4("Flächensatz: gleiche Flächen in gleicher Zeit → schneller in Perihel, langsamer in Aphel", "Equal areas in equal times → faster at perihelion, slower at aphelion", "Felületi sebesség: egyenlő területek egyenlő időben → gyorsabb perihelionban, lassabb aphelionban", "Viteză areolară: arii egale în timpi egali → mai rapid la periheliu, mai lent la afeliu", lang),
       [q4("Konstante Geschwindigkeit", "Constant velocity", "Állandó sebesség", "Viteză constantă", lang), q4("Keine Sonnennähe-effekt", "No Sun proximity effect", "Nincs Nap közelség hatás", "Fără efect proximitate Soare", lang), q4("Lineare Bewegung", "Linear motion", "Lineáris mozgás", "Mișcare liniară", lang)], rng));
   }
 
