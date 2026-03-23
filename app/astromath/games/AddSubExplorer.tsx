@@ -6,7 +6,217 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Illustrations ──────────────────────────────────────────────────────────────
+
+// R2: Addition 3+2 visualization (apples)
+const AddSvgR2 = memo(function AddSvgR2() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="addGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#addGrad2)" rx="12" />
+      {/* Left group: 3 apples */}
+      {[0, 1, 2].map((i) => (
+        <g key={`a-${i}`} transform={`translate(${25 + i * 20}, 40)`}>
+          <circle cx="0" cy="0" r="10" fill="#DC2626" />
+          <circle cx="-3" cy="-2" r="1.8" fill="#991B1B" />
+          <circle cx="3" cy="-2" r="1.8" fill="#991B1B" />
+          <path d="M -1 1 Q 0 2 1 1" stroke="#991B1B" strokeWidth="0.8" fill="none" />
+          <path d="M -0.5 -6 L 0 -8 Q 0.3 -8.5 0.6 -8" stroke="#7C2D12" strokeWidth="1" fill="none" />
+        </g>
+      ))}
+      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
+      {/* Right group: 2 apples */}
+      {[0, 1].map((i) => (
+        <g key={`b-${i}`} transform={`translate(${140 + i * 20}, 40)`}>
+          <circle cx="0" cy="0" r="10" fill="#DC2626" />
+          <circle cx="-3" cy="-2" r="1.8" fill="#991B1B" />
+          <circle cx="3" cy="-2" r="1.8" fill="#991B1B" />
+          <path d="M -1 1 Q 0 2 1 1" stroke="#991B1B" strokeWidth="0.8" fill="none" />
+          <path d="M -0.5 -6 L 0 -8 Q 0.3 -8.5 0.6 -8" stroke="#7C2D12" strokeWidth="1" fill="none" />
+        </g>
+      ))}
+      <line x1="40" y1="80" x2="160" y2="80" stroke="#FBBF24" strokeWidth="2" />
+      <text x="100" y="105" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 5</text>
+    </svg>
+  );
+});
+
+// R3: Addition 4+3 visualization (stars)
+const AddSvgR3 = memo(function AddSvgR3() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="addGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#addGrad3)" rx="12" />
+      {/* Left: 4 stars */}
+      {[0, 1, 2, 3].map((i) => (
+        <g key={`s-${i}`} transform={`translate(${20 + i * 16}, 35)`}>
+          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
+        </g>
+      ))}
+      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
+      {/* Right: 3 stars */}
+      {[0, 1, 2].map((i) => (
+        <g key={`s2-${i}`} transform={`translate(${130 + i * 16}, 35)`}>
+          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
+        </g>
+      ))}
+      <line x1="40" y1="75" x2="160" y2="75" stroke="#FBBF24" strokeWidth="2" />
+      <text x="100" y="100" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 7</text>
+    </svg>
+  );
+});
+
+// R4: Addition 2+5 visualization (flowers)
+const AddSvgR4 = memo(function AddSvgR4() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="addGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#addGrad4)" rx="12" />
+      {/* Left: 2 flowers */}
+      {[0, 1].map((i) => (
+        <g key={`f-${i}`} transform={`translate(${30 + i * 25}, 40)`}>
+          {/* Stem */}
+          <line x1="0" y1="0" x2="0" y2="15" stroke="#22C55E" strokeWidth="2" />
+          {/* Petals */}
+          {[0, 1, 2, 3, 4].map((p) => {
+            const angle = (p * 72 * Math.PI) / 180;
+            const px = Math.cos(angle) * 8;
+            const py = Math.sin(angle) * 8;
+            return <circle key={p} cx={px} cy={py} r="5" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
+          })}
+          {/* Center */}
+          <circle cx="0" cy="0" r="3" fill="#FBBF24" />
+        </g>
+      ))}
+      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
+      {/* Right: 5 flowers */}
+      {[0, 1, 2, 3, 4].map((i) => (
+        <g key={`f2-${i}`} transform={`translate(${130 + i * 13}, 38)`}>
+          <line x1="0" y1="0" x2="0" y2="12" stroke="#22C55E" strokeWidth="1.5" />
+          {[0, 1, 2, 3, 4].map((p) => {
+            const angle = (p * 72 * Math.PI) / 180;
+            const px = Math.cos(angle) * 5;
+            const py = Math.sin(angle) * 5;
+            return <circle key={p} cx={px} cy={py} r="3" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
+          })}
+          <circle cx="0" cy="0" r="2" fill="#FBBF24" />
+        </g>
+      ))}
+      <line x1="40" y1="75" x2="160" y2="75" stroke="#FBBF24" strokeWidth="2" />
+      <text x="100" y="100" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 7</text>
+    </svg>
+  );
+});
+
+// R2: Subtraction 7-3 visualization (birds)
+const SubSvgR2 = memo(function SubSvgR2() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="subGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#subGrad2)" rx="12" />
+      {/* 7 birds (5 staying, 2 fading) */}
+      {[0, 1, 2, 3, 4, 5, 6].map((i) => {
+        const opacity = i < 5 ? 1 : 0.3;
+        return (
+          <g key={`bird-${i}`} transform={`translate(${20 + i * 22}, 35 - Math.sin(i * 0.5) * 5)`} opacity={opacity}>
+            {/* Body */}
+            <circle cx="0" cy="0" r="5" fill="#1F2937" />
+            {/* Wing */}
+            <ellipse cx="0" cy="0" rx="8" ry="3" fill="#374151" opacity="0.8" />
+            {/* Eye */}
+            <circle cx="3" cy="-2" r="1.2" fill="#FCD34D" />
+            {/* Tail */}
+            <path d="M -4 0 L -10 -2 L -9 0 Z" fill="#1F2937" />
+          </g>
+        );
+      })}
+      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
+      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">3</text>
+      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 4</text>
+    </svg>
+  );
+});
+
+// R3: Subtraction 6-2 visualization (stars removed)
+const SubSvgR3 = memo(function SubSvgR3() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="subGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#subGrad3)" rx="12" />
+      {/* 6 stars (4 full, 2 fading) */}
+      {[0, 1, 2, 3, 4, 5].map((i) => (
+        <g key={`st-${i}`} transform={`translate(${20 + i * 27}, 40)`} opacity={i < 4 ? 1 : 0.3}>
+          <polygon points="0,-7 1.5,-2 6,-1.5 2.5,1.5 3.5,6.5 0,3.5 -3.5,6.5 -2.5,1.5 -6,-1.5 -1.5,-2" fill="#FBBF24" />
+        </g>
+      ))}
+      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
+      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">2</text>
+      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 4</text>
+    </svg>
+  );
+});
+
+// R4: Subtraction 8-5 visualization (flowers removed)
+const SubSvgR4 = memo(function SubSvgR4() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="subGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#subGrad4)" rx="12" />
+      {/* 8 flowers (3 remaining, 5 fading) */}
+      {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => {
+        const opacity = i < 3 ? 1 : 0.25;
+        return (
+          <g key={`fl-${i}`} transform={`translate(${15 + i * 22}, 45)`} opacity={opacity}>
+            <line x1="0" y1="0" x2="0" y2="12" stroke="#22C55E" strokeWidth="1.5" />
+            {[0, 1, 2, 3, 4].map((p) => {
+              const angle = (p * 72 * Math.PI) / 180;
+              const px = Math.cos(angle) * 5;
+              const py = Math.sin(angle) * 5;
+              return <circle key={p} cx={px} cy={py} r="3" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
+            })}
+            <circle cx="0" cy="0" r="2" fill="#FBBF24" />
+          </g>
+        );
+      })}
+      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
+      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">5</text>
+      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 3</text>
+    </svg>
+  );
+});
 
 // ─── SVG Intro ──────────────────────────────────────────────────────────────
 const AddSubSvg = memo(function AddSubSvg({ isAdd }: { isAdd: boolean }) {
@@ -141,28 +351,28 @@ const ADD_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "addTitle",
       infoText: "add3plus2",
-      svg: noSvg,
+      svg: () => <AddSvgR2 />,
       questions: [{ question: "add3plus2", choices: ["5", "3", "6", "2"], answer: "5" }],
     },
     {
       type: "mcq",
       infoTitle: "addTitle",
       infoText: "add4plus3",
-      svg: noSvg,
+      svg: () => <AddSvgR3 />,
       questions: [{ question: "add4plus3", choices: ["7", "5", "8", "6"], answer: "7" }],
     },
     {
       type: "mcq",
       infoTitle: "addTitle",
       infoText: "add2plus5",
-      svg: noSvg,
+      svg: () => <AddSvgR4 />,
       questions: [{ question: "add2plus5", choices: ["7", "5", "8", "6"], answer: "7" }],
     },
     {
       type: "mcq",
       infoTitle: "addTitle",
       infoText: "addIntro",
-      svg: noSvg,
+      svg: () => <AddSubSvg isAdd={true} />,
       questions: [
         { question: "add3plus2", choices: ["5", "3", "6", "2"], answer: "5" },
         { question: "add4plus3", choices: ["7", "5", "8", "6"], answer: "7" },
@@ -186,28 +396,28 @@ const SUB_DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "subTitle",
       infoText: "sub7minus3",
-      svg: noSvg,
+      svg: () => <SubSvgR2 />,
       questions: [{ question: "sub7minus3", choices: ["4", "5", "6", "3"], answer: "4" }],
     },
     {
       type: "mcq",
       infoTitle: "subTitle",
       infoText: "sub6minus2",
-      svg: noSvg,
+      svg: () => <SubSvgR3 />,
       questions: [{ question: "sub6minus2", choices: ["4", "3", "5", "2"], answer: "4" }],
     },
     {
       type: "mcq",
       infoTitle: "subTitle",
       infoText: "sub8minus5",
-      svg: noSvg,
+      svg: () => <SubSvgR4 />,
       questions: [{ question: "sub8minus5", choices: ["3", "4", "5", "2"], answer: "3" }],
     },
     {
       type: "mcq",
       infoTitle: "subTitle",
       infoText: "subIntro",
-      svg: noSvg,
+      svg: () => <AddSubSvg isAdd={false} />,
       questions: [
         { question: "sub7minus3", choices: ["4", "5", "6", "3"], answer: "4" },
         { question: "sub6minus2", choices: ["4", "3", "5", "2"], answer: "4" },

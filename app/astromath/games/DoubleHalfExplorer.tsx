@@ -6,7 +6,134 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Illustrations ──────────────────────────────────────────────────────────────
+
+// R2: Double of 3 (6 stars mirrored)
+const DblSvgR2 = memo(function DblSvgR2() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="dblGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#A78BFA" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#DDD6FE" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#dblGrad2)" rx="12" />
+      {/* Left: 3 stars */}
+      {[0, 1, 2].map((i) => (
+        <g key={`l-${i}`} transform={`translate(${35 + i * 20}, 40)`}>
+          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
+        </g>
+      ))}
+      <line x1="100" y1="20" x2="100" y2="70" stroke="#A78BFA" strokeWidth="2" strokeDasharray="4,3" opacity="0.7" />
+      {/* Right: 3 stars (mirrored) */}
+      {[0, 1, 2].map((i) => (
+        <g key={`r-${i}`} transform={`translate(${165 - i * 20}, 40)`}>
+          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
+        </g>
+      ))}
+      <text x="100" y="95" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.8">DOUBLE</text>
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 6</text>
+    </svg>
+  );
+});
+
+// R3: Double of 4 (8 circles mirrored)
+const DblSvgR3 = memo(function DblSvgR3() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="dblGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#A78BFA" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#DDD6FE" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#dblGrad3)" rx="12" />
+      {/* Left: 4 circles */}
+      {[0, 1, 2, 3].map((i) => (
+        <g key={`l-${i}`} transform={`translate(${28 + i * 14}, 40)`}>
+          <circle cx="0" cy="0" r="6" fill="#A78BFA" />
+        </g>
+      ))}
+      <line x1="100" y1="20" x2="100" y2="70" stroke="#A78BFA" strokeWidth="2" strokeDasharray="4,3" opacity="0.7" />
+      {/* Right: 4 circles (mirrored) */}
+      {[0, 1, 2, 3].map((i) => (
+        <g key={`r-${i}`} transform={`translate(${172 - i * 14}, 40)`}>
+          <circle cx="0" cy="0" r="6" fill="#A78BFA" />
+        </g>
+      ))}
+      <text x="100" y="95" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.8">DOUBLE</text>
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#A78BFA" textAnchor="middle">= 8</text>
+    </svg>
+  );
+});
+
+// R4: Double of 5 (10 squares mirrored)
+const DblSvgR4 = memo(function DblSvgR4() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="dblGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#A78BFA" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#DDD6FE" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#dblGrad4)" rx="12" />
+      {/* Left: 5 squares */}
+      {[0, 1, 2, 3, 4].map((i) => (
+        <g key={`l-${i}`} transform={`translate(${25 + i * 12}, 40)`}>
+          <rect x="-5" y="-5" width="10" height="10" fill="#A78BFA" rx="1" />
+        </g>
+      ))}
+      <line x1="100" y1="20" x2="100" y2="70" stroke="#A78BFA" strokeWidth="2" strokeDasharray="4,3" opacity="0.7" />
+      {/* Right: 5 squares (mirrored) */}
+      {[0, 1, 2, 3, 4].map((i) => (
+        <g key={`r-${i}`} transform={`translate(${175 - i * 12}, 40)`}>
+          <rect x="-5" y="-5" width="10" height="10" fill="#A78BFA" rx="1" />
+        </g>
+      ))}
+      <text x="100" y="95" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.8">DOUBLE</text>
+      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#A78BFA" textAnchor="middle">= 10</text>
+    </svg>
+  );
+});
+
+// R5: Half visualization - 6, 8, 4 circles split
+const HalfSvgR5 = memo(function HalfSvgR5() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="halfGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#34D399" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#A7F3D0" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#halfGrad5)" rx="12" />
+      {/* Top: 6 circles whole */}
+      {[0, 1, 2, 3, 4, 5].map((i) => (
+        <g key={`w-${i}`} transform={`translate(${25 + i * 28}, 25)`}>
+          <circle cx="0" cy="0" r="5" fill="#34D399" opacity="0.6" />
+        </g>
+      ))}
+      {/* Arrow down */}
+      <path d="M 100 45 L 100 65" stroke="#34D399" strokeWidth="2" markerEnd="url(#arrowhead)" />
+      {/* Bottom left: 3 circles */}
+      {[0, 1, 2].map((i) => (
+        <g key={`l-${i}`} transform={`translate(${50 + i * 18}, 85)`}>
+          <circle cx="0" cy="0" r="5" fill="#34D399" />
+        </g>
+      ))}
+      {/* Bottom right: 3 circles */}
+      {[0, 1, 2].map((i) => (
+        <g key={`r-${i}`} transform={`translate(${135 + i * 18}, 85)`}>
+          <circle cx="0" cy="0" r="5" fill="#34D399" />
+        </g>
+      ))}
+      <line x1="100" y1="70" x2="100" y2="105" stroke="#34D399" strokeWidth="1.5" strokeDasharray="3,2" opacity="0.6" />
+      <text x="100" y="115" fontSize="12" fontWeight="bold" fill="#34D399" textAnchor="middle" opacity="0.8">SPLIT</text>
+    </svg>
+  );
+});
 
 // ─── SVG Intro ──────────────────────────────────────────────────────────────
 const DoubleHalfSvg = memo(function DoubleHalfSvg({ isDouble }: { isDouble: boolean }) {
@@ -166,28 +293,28 @@ const DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "title",
       infoText: "dblOf3",
-      svg: noSvg,
+      svg: () => <DblSvgR2 />,
       questions: [{ question: "dblOf3", choices: ["6", "5", "7", "4"], answer: "6" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "dblOf4",
-      svg: noSvg,
+      svg: () => <DblSvgR3 />,
       questions: [{ question: "dblOf4", choices: ["8", "7", "9", "6"], answer: "8" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "dblOf5",
-      svg: noSvg,
+      svg: () => <DblSvgR4 />,
       questions: [{ question: "dblOf5", choices: ["10", "9", "11", "8"], answer: "10" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "halfIntro",
-      svg: noSvg,
+      svg: () => <HalfSvgR5 />,
       questions: [
         { question: "halfOf6", choices: ["3", "2", "4", "5"], answer: "3" },
         { question: "halfOf8", choices: ["4", "5", "3", "6"], answer: "4" },

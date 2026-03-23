@@ -6,7 +6,121 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Illustrations ──────────────────────────────────────────────────────────────
+
+// R2: Anna has 5 apples, gets 3 more = 8
+const WpSvgR2 = memo(function WpSvgR2() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="wpGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EF4444" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FECACA" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#wpGrad2)" rx="12" />
+      {/* Girl with 5 apples */}
+      <g transform="translate(35, 45)">
+        <circle cx="0" cy="-8" r="5" fill="#FCD34D" />
+        <circle cx="-1.5" cy="-9" r="0.8" fill="#1F2937" />
+        <circle cx="1.5" cy="-9" r="0.8" fill="#1F2937" />
+        <path d="M -1 -6 Q 0 -5 1 -6" stroke="#1F2937" strokeWidth="0.6" fill="none" />
+        <rect x="-2.5" y="0" width="5" height="6" fill="#EF4444" rx="1" />
+        <line x1="-2.5" y1="1" x2="-5" y2="0" stroke="#FCD34D" strokeWidth="1.2" />
+        <line x1="2.5" y1="1" x2="5" y2="0" stroke="#FCD34D" strokeWidth="1.2" />
+      </g>
+      {/* 5 apples */}
+      {[0, 1, 2, 3, 4].map((i) => (
+        <g key={`a1-${i}`} transform={`translate(${60 + i * 10}, 35)` }>
+          <circle cx="0" cy="0" r="3.5" fill="#DC2626" />
+          <path d="M 0 -2 L 0.2 -3.5 Q 0.3 -3.8 0.5 -3.5" stroke="#7C2D12" strokeWidth="0.5" fill="none" />
+        </g>
+      ))}
+      {/* Plus sign */}
+      <text x="110" y="50" fontSize="16" fontWeight="900" fill="#EF4444" textAnchor="middle">+</text>
+      {/* 3 arriving apples */}
+      {[0, 1, 2].map((i) => (
+        <g key={`a2-${i}`} transform={`translate(${130 + i * 10}, 30)`}>
+          <circle cx="0" cy="0" r="3.5" fill="#DC2626" opacity="0.7" />
+          <path d="M 0 -2 L 0.2 -3.5 Q 0.3 -3.8 0.5 -3.5" stroke="#7C2D12" strokeWidth="0.5" fill="none" />
+        </g>
+      ))}
+      <line x1="45" y1="75" x2="155" y2="75" stroke="#EF4444" strokeWidth="1.5" />
+      <text x="100" y="95" fontSize="14" fontWeight="900" fill="#EF4444" textAnchor="middle">= 8 🍎</text>
+    </svg>
+  );
+});
+
+// R3: 9 birds, 4 fly away = 5
+const WpSvgR3 = memo(function WpSvgR3() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="wpGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EF4444" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FECACA" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#wpGrad3)" rx="12" />
+      {/* Fence line */}
+      <line x1="20" y1="60" x2="180" y2="60" stroke="#8B6F4E" strokeWidth="3" />
+      {/* 9 birds (5 on fence, 4 flying away) */}
+      {[0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => {
+        const onFence = i < 5;
+        const y = onFence ? 50 : 30 - Math.sin(i * 0.3) * 5;
+        const opacity = onFence ? 1 : 0.4;
+        return (
+          <g key={`b-${i}`} transform={`translate(${25 + i * 19}, ${y})`} opacity={opacity}>
+            <circle cx="0" cy="0" r="3.5" fill="#1F2937" />
+            <ellipse cx="0" cy="0" rx="6" ry="2" fill="#374151" opacity="0.7" />
+            <circle cx="2" cy="-1.5" r="0.8" fill="#FCD34D" />
+          </g>
+        );
+      })}
+      <text x="100" y="80" fontSize="16" fontWeight="900" fill="#EF4444" textAnchor="middle">− 4 ✈️</text>
+      <line x1="45" y1="95" x2="155" y2="95" stroke="#EF4444" strokeWidth="1.5" />
+      <text x="100" y="113" fontSize="14" fontWeight="900" fill="#EF4444" textAnchor="middle">= 5</text>
+    </svg>
+  );
+});
+
+// R4: Tom has 6 stickers, gets 4 more = 10
+const WpSvgR4 = memo(function WpSvgR4() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      <defs>
+        <linearGradient id="wpGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EF4444" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FECACA" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#wpGrad4)" rx="12" />
+      {/* Boy */}
+      <g transform="translate(35, 45)">
+        <circle cx="0" cy="-8" r="5" fill="#FCD34D" />
+        <circle cx="-1.5" cy="-9" r="0.8" fill="#1F2937" />
+        <circle cx="1.5" cy="-9" r="0.8" fill="#1F2937" />
+        <path d="M -1 -6 Q 0 -5 1 -6" stroke="#1F2937" strokeWidth="0.6" fill="none" />
+        <rect x="-2.5" y="0" width="5" height="6" fill="#3B82F6" rx="1" />
+      </g>
+      {/* 6 stickers (star shapes) */}
+      {[0, 1, 2, 3, 4, 5].map((i) => (
+        <g key={`s1-${i}`} transform={`translate(${62 + i * 11}, 36)` }>
+          <polygon points="0,-4 0.8,-1.2 4,-1 1.2,1 2,4 0,2 -2,4 -1.2,1 -4,-1 -0.8,-1.2" fill="#FBBF24" />
+        </g>
+      ))}
+      <text x="110" y="50" fontSize="16" fontWeight="900" fill="#EF4444" textAnchor="middle">+</text>
+      {/* 4 more stickers */}
+      {[0, 1, 2, 3].map((i) => (
+        <g key={`s2-${i}`} transform={`translate(${130 + i * 11}, 32)`}>
+          <polygon points="0,-3.5 0.7,-1 3.5,-0.8 1.2,0.8 1.8,3.2 0,1.8 -1.8,3.2 -1.2,0.8 -3.5,-0.8 -0.7,-1" fill="#FBBF24" opacity="0.7" />
+        </g>
+      ))}
+      <line x1="45" y1="75" x2="155" y2="75" stroke="#EF4444" strokeWidth="1.5" />
+      <text x="100" y="95" fontSize="14" fontWeight="900" fill="#EF4444" textAnchor="middle">= 10 ⭐</text>
+    </svg>
+  );
+});
 
 // ─── SVG Intro ──────────────────────────────────────────────────────────────
 const WordProblemSvg = memo(function WordProblemSvg() {
@@ -134,28 +248,28 @@ const DEF: ExplorerDef = {
       type: "mcq",
       infoTitle: "title",
       infoText: "problem1",
-      svg: noSvg,
+      svg: () => <WpSvgR2 />,
       questions: [{ question: "problem1", choices: ["8", "7", "9", "6"], answer: "8" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "problem2",
-      svg: noSvg,
+      svg: () => <WpSvgR3 />,
       questions: [{ question: "problem2", choices: ["5", "4", "6", "7"], answer: "5" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "problem3",
-      svg: noSvg,
+      svg: () => <WpSvgR4 />,
       questions: [{ question: "problem3", choices: ["10", "9", "11", "8"], answer: "10" }],
     },
     {
       type: "mcq",
       infoTitle: "title",
       infoText: "intro",
-      svg: noSvg,
+      svg: () => <WordProblemSvg />,
       questions: [
         { question: "problem4", choices: ["5", "4", "6", "7"], answer: "5" },
         { question: "problem5", choices: ["12", "11", "13", "10"], answer: "12" },
