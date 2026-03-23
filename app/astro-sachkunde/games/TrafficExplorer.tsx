@@ -251,6 +251,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const handleMCQ = (selected: string, correct: string, setAns: (v: string) => void) => {
     totalRef.current++;
     if (selected === correct) scoreRef.current++;
+    else fireWrongAnswer({ question: "Traffic Explorer", wrongAnswer: t[selected] ?? selected, correctAnswer: t[correct] ?? correct, topic: "Traffic Explorer", lang });
     setAns(selected);
   };
 

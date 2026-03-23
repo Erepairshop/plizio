@@ -29,6 +29,9 @@ const SentenceReorder = memo(function SentenceReorder({ words, correct, color, o
       const ok = newPlaced.every((w, i) => w === correct[i]);
       setIsCorrect(ok);
       setSubmitted(true);
+      if (!ok) {
+        fireWrongAnswer({ question: correct.join(" "), wrongAnswer: newPlaced.join(" "), correctAnswer: correct.join(" "), topic: "Sentence Reorder", lang: "de" });
+      }
       setTimeout(() => onDone(ok), 900);
     }
   };

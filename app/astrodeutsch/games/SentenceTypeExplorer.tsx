@@ -271,7 +271,10 @@ function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.answer) wrongCountRef.current++;
+    if (p !== item.answer) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -467,7 +470,10 @@ function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Rec
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.answer) wrongCountRef.current++;
+    if (p !== item.answer) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }

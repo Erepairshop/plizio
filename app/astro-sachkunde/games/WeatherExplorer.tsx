@@ -429,8 +429,10 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
     totalRef.current += 1;
     if (choiceKey === correctKey) {
       scoreRef.current += 1;
+    } else {
+      fireWrongAnswer({ question: "Weather Explorer", wrongAnswer: (lbl as Record<string, string>)[choiceKey] ?? choiceKey, correctAnswer: (lbl as Record<string, string>)[correctKey] ?? correctKey, topic: "Weather Explorer", lang });
     }
-  }, [locked]);
+  }, [locked, lbl, lang]);
 
   // ── Render helpers ──────────────────────────────────────────────────────────
 

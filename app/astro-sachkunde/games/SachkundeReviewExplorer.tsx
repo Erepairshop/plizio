@@ -539,7 +539,8 @@ function SachkundeReviewExplorer({ color, lang = "de", onDone, onClose }: Props)
     setAnswered(true);
     const isCorrect = currentRound[questionIdx].options[i] === currentRound[questionIdx].correctKey;
     if (isCorrect) scoreRef.current += 1;
-  }, [answered, currentRound, questionIdx]);
+    else fireWrongAnswer({ question: lbl[currentQuestion.qKey], wrongAnswer: lbl[currentRound[questionIdx].options[i]], correctAnswer: lbl[currentQuestion.correctKey], topic: "Sachkunde Review", lang });
+  }, [answered, currentRound, questionIdx, lbl, currentQuestion, lang]);
 
   const handleNext = useCallback(() => {
     if (isDone) {
