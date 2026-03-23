@@ -29,6 +29,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
 import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
 import PlaceValueExplorer3 from "@/app/astromath/games/PlaceValueExplorer3";
+import AdditionExplorer3 from "@/app/astromath/games/AdditionExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -810,7 +811,11 @@ export default function AstroMathG3Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "concept-explorer" && (
-          <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          activeIsland?.id === "i2" ? (
+            <AdditionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          )
         )}
         {screen === "place-value-explorer" && (
           <PlaceValueExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
