@@ -250,6 +250,6 @@ export function calculatePhysikMark(pct: number): TestGradeMark {
   return             { note: "6", label: "Ungenügend",     color: "#FF4444", emoji: "😟" };
 }
 
-// ─── AUTO-INITIALIZE GENERATORS ──────────────────────────────────────────
-// This import triggers setK7GeneratorMap() when curriculum is loaded
-import "@/lib/physikGeneratorsK7_integration";
+// ─── GENERATOR REGISTRATION ──────────────────────────────────────────────
+// K7 generators are registered via physikRegistration.ts (import "@/lib/physikGeneratorsK7_integration")
+// DO NOT auto-import here to avoid circular dependency

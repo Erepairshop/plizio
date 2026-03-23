@@ -109,7 +109,15 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "en7-grammar-explorer" | "en7-sentence-explorer" | "en7-tense-voice-explorer" | "en7-punctuation-explorer"
   | "en7-figurative-explorer" | "en7-academic-explorer" | "en7-argument-explorer" | "en7-clause-explorer" | "en7-verbal-explorer"
   | "en8-verbal-explorer" | "en8-phrase-explorer" | "en8-voice-mood-explorer" | "en8-writing-explorer"
-  | "en8-literature-explorer" | "en8-style-explorer" | "en8-register-explorer" | "en8-punctuation-explorer" | "en8-etymology-explorer";
+  | "en8-literature-explorer" | "en8-style-explorer" | "en8-register-explorer" | "en8-punctuation-explorer" | "en8-etymology-explorer"
+  | "pk5-forces-explorer" | "pk5-gravity-explorer" | "pk5-measurement-explorer" | "pk5-energy-explorer" | "pk5-conversion-explorer"
+  | "pk5-heat-explorer" | "pk5-light-explorer" | "pk5-sound-explorer" | "pk5-magnetism-explorer"
+  | "pk6-machines-explorer" | "pk6-wheel-explorer" | "pk6-pressure-explorer" | "pk6-hydraulics-explorer" | "pk6-circuits-explorer"
+  | "pk6-current-explorer" | "pk6-density-explorer" | "pk6-energytransfer-explorer" | "pk6-waves-explorer"
+  | "pk7-speed-explorer" | "pk7-newton-explorer" | "pk7-work-explorer" | "pk7-energycalc-explorer" | "pk7-lenses-explorer"
+  | "pk7-eye-explorer" | "pk7-thermo-explorer" | "pk7-waves-explorer" | "pk7-space-explorer"
+  | "pk8-ohm-explorer" | "pk8-power-explorer" | "pk8-semiconductor-explorer" | "pk8-electromagnetic-explorer" | "pk8-generators-explorer"
+  | "pk8-atomic-explorer" | "pk8-nuclear-explorer" | "pk8-modern-explorer" | "pk8-environment-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

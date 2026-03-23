@@ -61,9 +61,9 @@ setK6GeneratorMap({
   waves_sound: K6_WAVES_SOUND_GENERATORS,
 });
 
-// ─── K7 (auto-registered via physikCurriculum7 import chain) ──────────
-// physikCurriculum7 → import "@/lib/physikGeneratorsK7_integration"
-// → registers all K7 generators via setK7GeneratorMap()
+// ─── K7 ──────────────────────────────────────────────────────────────────
+// Triggers setK7GeneratorMap() via the integration layer
+import "./physikGeneratorsK7_integration";
 
 // ─── K8 ──────────────────────────────────────────────────────────────────
 import { K8_ELECTRICITY_GENERATORS } from "./physikGeneratorsK8_electricity";

@@ -17,6 +17,7 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { T } from "@/app/astromath/games/translations";
+import "@/lib/physikRegistration";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
 import GravitySort from "@/app/astromath/games/GravitySort";
@@ -35,7 +36,7 @@ import NuclearExplorer from "@/app/astro-physik/games/k8/NuclearExplorer";
 import ModernExplorer from "@/app/astro-physik/games/k8/ModernExplorer";
 import EnvironmentExplorer from "@/app/astro-physik/games/k8/EnvironmentExplorer";
 import {
-  PHYSIK_K5_ISLANDS as ISLANDS, PHYSIK_K5_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K5_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
+  PHYSIK_K8_ISLANDS as ISLANDS, PHYSIK_K8_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K8_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
   type PhysikK8Progress as Progress, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadPhysikK8Progress as loadProgress, savePhysikK8Progress as saveProgress,
   isMissionDonePhysikK8 as isMissionDone, isIslandDonePhysikK8 as isIslandDone,
@@ -295,15 +296,8 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
               strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
             {unlocked && (
-              {}[island.id] ? (
-                <svg x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
-                  overflow="visible" opacity={done ? 0.85 : 1}>
-                  {React.createElement({}[island.id], { size: 60 })}
-                </svg>
-              ) : (
                 <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}
                   opacity={done ? 0.85 : 1}>{island.icon}</text>
-              )
             )}
             {!unlocked && (
               <circle cx={island.svgX} cy={island.svgY} r={24}

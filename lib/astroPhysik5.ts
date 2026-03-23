@@ -5,7 +5,6 @@
 import { type MathQuestion } from "./mathCurriculum";
 import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 import { getK5Questions } from "./physikCurriculum5";
-import "@/lib/physikRegistration";
 
 // Re-export types so page.tsx can import them from one place
 export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
@@ -271,7 +270,7 @@ export function generateIslandQuestionsPhysikK5(island: IslandDef, count = 10): 
   for (const q of curriculumQuestions) {
     if (isMCQQuestion(q) && !seen.has(q.question) && pool.length < count) {
       seen.add(q.question);
-      pool.push(convertMCQToMathQuestion(q));
+      pool.push(convertMCQToMathQuestion(q as any));
     }
   }
 
@@ -288,7 +287,7 @@ export function generateCheckpointQuestionsPhysikK5(testId: string, count = 15):
   for (const q of curriculumQuestions) {
     if (isMCQQuestion(q) && !seen.has(q.question) && pool.length < count) {
       seen.add(q.question);
-      pool.push(convertMCQToMathQuestion(q));
+      pool.push(convertMCQToMathQuestion(q as any));
     }
   }
 
