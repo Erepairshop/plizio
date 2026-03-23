@@ -2,32 +2,154 @@
 // CountingExplorer — Visual counting & comparing for Grade 1 (island i1)
 // Now powered by ExplorerEngine v2 — uses tap-count + compare + mcq rounds.
 
-import { memo } from "react";
+import { memo, useState, useEffect, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── No-op SVG (interactive rounds don't need an illustration) ───────────────
 const noSvg = () => null;
 
-// ─── Counting illustration SVG ───────────────────────────────────────────────
-function countingSvg(lang: string) {
-  const lbl = lang === "hu" ? "Számolj!" : lang === "de" ? "Zähle!" : lang === "ro" ? "Numără!" : "Count!";
+// ─── Animated Counting SVG — step-by-step whiteboard style ───────────────────
+
+const FRUITS = ["🍎", "🍊", "🍋", "🍇", "🍓"];
+const FRUIT_COLORS = ["#ef4444", "#f97316", "#eab308", "#8b5cf6", "#ec4899"];
+
+function AnimatedCountingSvg({ lang }: { lang: string }) {
+  const [step, setStep] = useState(0);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const maxSteps = 7; // 0=empty, 1-5=fruits appear, 6=total, 7=done
+
+  useEffect(() => {
+    timerRef.current = setInterval(() => {
+      setStep(prev => {
+        if (prev >= maxSteps) {
+          if (timerRef.current) clearInterval(timerRef.current);
+          return maxSteps;
+        }
+        return prev + 1;
+      });
+    }, 700);
+    return () => { if (timerRef.current) clearInterval(timerRef.current); };
+  }, []);
+
+  const countLabel = lang === "hu" ? "Összesen:" : lang === "de" ? "Insgesamt:" : lang === "ro" ? "Total:" : "Total:";
+
   return (
-    <svg viewBox="0 0 240 100" className="w-full h-auto max-h-28">
-      <rect width="240" height="100" fill="#0a0a1a" rx="12" />
-      {[0, 1, 2, 3, 4].map(i => (
-        <g key={i}>
-          <circle cx={40 + i * 42} cy={40} r={16} fill={`hsl(${i * 60}, 70%, 55%)`} opacity={0.8} />
-          <text x={40 + i * 42} y={45} textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">
-            {i + 1}
-          </text>
-        </g>
-      ))}
-      <text x="120" y="85" textAnchor="middle" fontSize="12" fill="rgba(255,255,255,0.5)" fontWeight="bold">
-        {lbl}
-      </text>
-    </svg>
+    <div className="relative w-full rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%)" }}>
+      {/* Shelf / table surface */}
+      <div className="relative px-4 pt-6 pb-2">
+        {/* Fruits row */}
+        <div className="flex justify-center gap-3 mb-3 min-h-[56px]">
+          {FRUITS.map((fruit, i) => (
+            <AnimatePresence key={i}>
+              {step > i && (
+                <motion.div
+                  initial={{ scale: 0, y: -30, rotate: -20 }}
+                  animate={{ scale: 1, y: 0, rotate: 0 }}
+                  transition={{ type: "spring", stiffness: 400, damping: 15, delay: 0.05 }}
+                  className="flex flex-col items-center"
+                >
+                  {/* Fruit */}
+                  <motion.span
+                    className="text-3xl block"
+                    animate={{ y: [0, -3, 0] }}
+                    transition={{ duration: 1.5, repeat: Infinity, repeatDelay: i * 0.3 }}
+                  >
+                    {fruit}
+                  </motion.span>
+                  {/* Number badge */}
+                  <motion.span
+                    initial={{ opacity: 0, scale: 0 }}
+                    animate={{ opacity: 1, scale: 1 }}
+                    transition={{ delay: 0.2 }}
+                    className="mt-1 w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-black text-white"
+                    style={{ background: FRUIT_COLORS[i], boxShadow: `0 0 8px ${FRUIT_COLORS[i]}60` }}
+                  >
+                    {i + 1}
+                  </motion.span>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          ))}
+        </div>
+
+        {/* Counting hand pointer animation */}
+        {step > 0 && step <= 5 && (
+          <motion.div
+            className="absolute text-lg pointer-events-none"
+            initial={{ opacity: 0 }}
+            animate={{
+              opacity: [0, 1, 1, 0],
+              x: 38 + (Math.min(step, 5) - 1) * 48,
+              y: 20,
+            }}
+            transition={{ duration: 0.5 }}
+          >
+            👆
+          </motion.div>
+        )}
+
+        {/* Table surface line */}
+        <motion.div
+          className="h-[2px] rounded-full mx-2"
+          style={{ background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent)" }}
+          initial={{ scaleX: 0 }}
+          animate={{ scaleX: step > 0 ? 1 : 0 }}
+          transition={{ duration: 0.5 }}
+        />
+      </div>
+
+      {/* Total counter */}
+      <AnimatePresence>
+        {step >= 6 && (
+          <motion.div
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="flex items-center justify-center gap-2 pb-4 pt-2"
+          >
+            <span className="text-white/50 text-sm font-bold">{countLabel}</span>
+            <motion.span
+              className="text-2xl font-black"
+              style={{ color: "#00FF88", textShadow: "0 0 12px rgba(0,255,136,0.4)" }}
+              initial={{ scale: 2, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              transition={{ type: "spring", stiffness: 300, damping: 12 }}
+            >
+              5
+            </motion.span>
+            <motion.span
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.3 }}
+              className="text-lg"
+            >
+              ✨
+            </motion.span>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Progress dots at bottom */}
+      <div className="flex justify-center gap-1 pb-3">
+        {Array.from({ length: 5 }, (_, i) => (
+          <motion.div
+            key={i}
+            className="w-1.5 h-1.5 rounded-full"
+            animate={{
+              background: step > i ? FRUIT_COLORS[i] : "rgba(255,255,255,0.15)",
+              scale: step === i + 1 ? [1, 1.4, 1] : 1,
+            }}
+            transition={{ duration: 0.3 }}
+          />
+        ))}
+      </div>
+    </div>
   );
+}
+
+function countingSvg(lang: string) {
+  return <AnimatedCountingSvg lang={lang} />;
 }
 
 // ─── Explorer Definition ─────────────────────────────────────────────────────
