@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Problem visualization with objects ─────────────────────────────────────
 
@@ -301,6 +301,16 @@ const LABELS: Record<string, Record<string, string>> = {
     r5_q3_b: "8 dollars",
     r5_q3_c: "12 dollars",
     r5_q3_d: "20 dollars",
+    // Interactive block instructions & hints
+    t1_inst: "Read the problem. Identify what you know and what you need to find. Drag the blocks to match.",
+    t1_h1: "Look for 'action words' in the problem",
+    t1_h2: "Together, altogether = Add; left, remaining = Subtract",
+    t2_inst: "Arrange the steps in the correct order to solve a word problem.",
+    t2_h1: "Always: Read → Understand → Plan → Solve → Check",
+    t2_h2: "Each step builds on the one before",
+    t3_inst: "For each answer, combine the steps to verify your work.",
+    t3_h1: "Use the opposite operation to check",
+    t3_h2: "If you subtracted, add to verify. If you added, subtract to verify.",
   },
   de: {
     explorer_title: "Sachaufgaben-Löser",
@@ -381,6 +391,16 @@ const LABELS: Record<string, Record<string, string>> = {
     r5_q3_b: "8 Euro",
     r5_q3_c: "12 Euro",
     r5_q3_d: "20 Euro",
+    // Interactive block instructions & hints
+    t1_inst: "Lies die Aufgabe. Erkenne, was du weißt und was du finden musst. Verschiebe die Blöcke zum Abgleich.",
+    t1_h1: "Suche nach 'Aktionswörtern' in der Aufgabe",
+    t1_h2: "Zusammen, insgesamt = Addieren; übrig, verbleibend = Subtrahieren",
+    t2_inst: "Ordne die Schritte zur Lösung einer Sachaufgabe in der richtigen Reihenfolge an.",
+    t2_h1: "Immer: Lesen → Verstehen → Planen → Lösen → Überprüfen",
+    t2_h2: "Jeder Schritt baut auf dem vorherigen auf",
+    t3_inst: "Kombiniere für jede Antwort die Schritte, um deine Arbeit zu überprüfen.",
+    t3_h1: "Nutze die Gegenoperation zur Überprüfung",
+    t3_h2: "Wenn du subtrahiert hast, addiere zur Überprüfung. Wenn du addiert hast, subtrahiere zur Überprüfung.",
   },
   hu: {
     explorer_title: "Szövegfeladat-Megoldó",
@@ -461,6 +481,16 @@ const LABELS: Record<string, Record<string, string>> = {
     r5_q3_b: "8 forint",
     r5_q3_c: "12 forint",
     r5_q3_d: "20 forint",
+    // Interactive block instructions & hints
+    t1_inst: "Olvasd el a feladatot. Ismerd fel, amit tudsz és mit kell találni. Húzd a blokkokat az egyezéshez.",
+    t1_h1: "Keress 'cselekvési szavakat' a feladatban",
+    t1_h2: "Összesen, együtt = Összeadás; hátra, marad = Kivonás",
+    t2_inst: "Rendezd a szövegfeladat megoldási lépéseit a helyes sorrendbe!",
+    t2_h1: "Mindig: Olvasd → Értsd meg → Tervezz → Oldd meg → Ellenőrizd",
+    t2_h2: "Minden lépés az előző alapján épül",
+    t3_inst: "Minden válaszhoz kombinálj lépéseket a munkád ellenőrzéséhez.",
+    t3_h1: "Használd az ellentétes műveletet az ellenőrzéshez",
+    t3_h2: "Ha kivontál, összeadással ellenőrizz. Ha összeadtál, kivonással ellenőrizz.",
   },
   ro: {
     explorer_title: "Rezolvator de probleme cu cuvinte",
@@ -541,6 +571,16 @@ const LABELS: Record<string, Record<string, string>> = {
     r5_q3_b: "8 lei",
     r5_q3_c: "12 lei",
     r5_q3_d: "20 lei",
+    // Interactive block instructions & hints
+    t1_inst: "Citește problema. Identifică ce știi și ce trebuie să găsești. Trage blocurile pentru a se potrivi.",
+    t1_h1: "Caută 'cuvinte de acțiune' în problemă",
+    t1_h2: "Total, împreună = Adunare; rămas, rămâne = Scădere",
+    t2_inst: "Ordonează pașii de rezolvare a unei probleme cu cuvinte în ordinea corectă!",
+    t2_h1: "Mereu: Citeste → Înțelege → Planifică → Rezolvă → Verifică",
+    t2_h2: "Fiecare pas se construiește pe cel anterior",
+    t3_inst: "Pentru fiecare răspuns, combină pașii pentru a-ți verifica munca.",
+    t3_h1: "Folosește operația inversă pentru verificare",
+    t3_h2: "Dacă ai scăzut, adună pentru a verifica. Dacă ai adunat, scade pentru a verifica.",
   },
 };
 
