@@ -28,7 +28,7 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
 import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
-import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
+import PlaceValueExplorer3 from "@/app/astromath/games/PlaceValueExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -813,7 +813,7 @@ export default function AstroMathG3Page() {
           <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "place-value-explorer" && (
-          <PlaceValueExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          <PlaceValueExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
           <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
