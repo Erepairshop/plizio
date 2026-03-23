@@ -171,17 +171,7 @@ function generateRadioactivityTyping(lang = "en", seed = 0): CurriculumTyping[] 
   ];
 }
 
-// ─── EXPORT (rövid: atom + radioaktivitás) ────────────────────────────────
-
-export const K8_NUCLEARCLEAR_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
-  atomic_structure: (lang = "en", seed = 0) => [...generateAtomicStructureMCQ(lang, seed), ...generateAtomicStructureTyping(lang, seed)],
-  atomic_structure_mcq: (lang = "en", seed = 0) => generateAtomicStructureMCQ(lang, seed),
-  atomic_structure_typing: (lang = "en", seed = 0) => generateAtomicStructureTyping(lang, seed),
-
-  radioactivity: (lang = "en", seed = 0) => [...generateRadioactivityMCQ(lang, seed), ...generateRadioactivityTyping(lang, seed)],
-  radioactivity_mcq: (lang = "en", seed = 0) => generateRadioactivityMCQ(lang, seed),
-  radioactivity_typing: (lang = "en", seed = 0) => generateRadioactivityTyping(lang, seed),
-};
+// (K8_NUCLEARCLEAR_GENERATORS removed — consolidated into K8_NUCLEAR_MODERN_GENERATORS below)
 
 // ═════════════════════════════════════════════════════════════════════════════
 // 3-7. Nuclear & Modern Physics — Rest (kompakt verzió)
@@ -229,6 +219,23 @@ function generateNuclearReactionsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   }
 
   return qs;
+}
+
+function generateNuclearReactionsTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  return [
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Magfissió Egyenlete (U-235)?", "Fission equation (U-235)?", "Magfissió egyenlete (U-235)?", "Ecuație fisiune (U-235)?", lang),
+      [q4("²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + ~200 MeV; vagy más hasadási termékek (pl. ¹⁴⁴Xe + ⁹⁰Sr + 2n)", "²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + ~200 MeV; or other products (e.g. ¹⁴⁴Xe + ⁹⁰Sr + 2n)", "²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + ~200 MeV; vagy más termékek", "²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + ~200 MeV; sau alte produse", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Magfúzió Egyenlete (D-T)?", "Fusion equation (D-T)?", "Magfúzió egyenlete (D-T)?", "Ecuație fuziune (D-T)?", lang),
+      [q4("²H + ³H → ⁴He + n + 17,6 MeV; deutérium + trícium → hélium-4 + neutron + energia", "²H + ³H → ⁴He + n + 17.6 MeV; deuterium + tritium → helium-4 + neutron + energy", "²H + ³H → ⁴He + n + 17,6 MeV; deutérium + trícium → hélium + neutron", "²H + ³H → ⁴He + n + 17,6 MeV; deuteriu + tritiu → heliu-4 + neutron", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Lánc-reakció Feltételei?", "Chain reaction conditions?", "Lánc-reakció feltételei?", "Condiții reacție în lanț?", lang),
+      [q4("Kritikus tömeg szükséges; k=1: stacionárius (reaktor); k>1: szuperkritikus (bomba); k<1: szubkritikus (leállás)", "Critical mass needed; k=1: steady (reactor); k>1: supercritical (bomb); k<1: subcritical (shutdown)", "Kritikus tömeg kell; k=1: stacionárius; k>1: szuperkritikus; k<1: szubkritikus", "Masă critică necesară; k=1: staționar; k>1: supercritic; k<1: subcritic", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Atomerômû Biztonsági Rendszerei?", "Nuclear power plant safety systems?", "Atomerômû biztonsági rendszerei?", "Sisteme siguranță centrală nucleară?", lang),
+      [q4("Szabályozó rudak (kadmium/bór): neutron-elnyelés → k szabályozás; hûtôrendszer: hô elvezetés; containment: hermetikus burkolat", "Control rods (cadmium/boron): absorb neutrons → regulate k; cooling system: remove heat; containment: hermetic shell", "Szabályozó rudak: neutron-elnyelés; hûtôrendszer: hô elvezetés; containment: hermetikus burkolat", "Bare control (cadmiu/bor): absorbție neutroni; sistem răcire: evacuare căldură; containment: înveliș ermetic", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Maghasadás vs. Magfúzió Összehasonlítás?", "Fission vs. Fusion comparison?", "Maghasadás vs. Magfúzió összehasonlítás?", "Fisiune vs. Fuziune comparație?", lang),
+      [q4("Fissió: nehéz → könnyû magok, reaktorban, radioaktív hulladék; Fúzió: könnyû → nehezebb mag, csillagokban, kevés hulladék, de ~100 millió °C kell", "Fission: heavy → light nuclei, in reactors, radioactive waste; Fusion: light → heavier, in stars, less waste, but ~100M °C needed", "Fissió: nehéz → könnyû, reaktorban, hulladék; Fúzió: könnyû → nehezebb, csillagokban, ~100M °C kell", "Fisiune: greu → ușor, în reactoare, deșeuri; Fuziune: ușor → greu, în stele, ~100M °C necesar", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Nukleáris hulladék kezelése?", "Nuclear waste management?", "Nukleáris hulladék kezelése?", "Gestionare deșeuri nucleare?", lang),
+      [q4("Alacsony/közepes: betonba öntve; Magas szintû (használt üzemanyag): üvegezés + mély geológiai tároló; felezési idô akár 10⁵ év", "Low/medium: concrete encased; High-level (spent fuel): vitrification + deep geological repository; half-life up to 10⁵ years", "Alacsony: betonba; Magas: üvegezés + mély geológiai tároló; felezési idô akár 10⁵ év", "Scăzut: ciment; Înalt: vitrificare + depozit geologic adânc; timp de înjumătățire ~10⁵ ani", lang)]),
+  ];
 }
 
 function generateModernPhysicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
@@ -305,8 +312,9 @@ export const K8_NUCLEAR_MODERN_GENERATORS: Record<string, (lang?: string, seed?:
   radioactivity_mcq: (lang = "en", seed = 0) => generateRadioactivityMCQ(lang, seed),
   radioactivity_typing: (lang = "en", seed = 0) => generateRadioactivityTyping(lang, seed),
 
-  nuclear_reactions: (lang = "en", seed = 0) => [...generateNuclearReactionsMCQ(lang, seed)],
+  nuclear_reactions: (lang = "en", seed = 0) => [...generateNuclearReactionsMCQ(lang, seed), ...generateNuclearReactionsTyping(lang, seed)],
   nuclear_reactions_mcq: (lang = "en", seed = 0) => generateNuclearReactionsMCQ(lang, seed),
+  nuclear_reactions_typing: (lang = "en", seed = 0) => generateNuclearReactionsTyping(lang, seed),
 
   // MODERN (6-9)
   modern_physics: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],

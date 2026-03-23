@@ -2,11 +2,12 @@
 // Maps all K7 generator files to curriculum subtopic IDs
 // This file serves as the single source of truth for K7 generator wiring
 //
-// Curriculum structure (28 subtopics):
+// Curriculum structure (32 subtopics):
 // - mechanics (5): speed_velocity, acceleration, newton_first, newton_second, newton_third
 // - work_power (5): work, power, kinetic_energy_calc, potential_energy_calc, mechanical_advantage
 // - optics (5): lenses_convex, lenses_concave, image_formation, eye_optics, optical_instruments
 // - thermal (4): thermal_expansion, specific_heat, phase_changes, heat_engines
+// - magnetism (4): magnetic_basics, earth_magnetism, electromagnets, electromagnetic_induction
 // - waves (4): wave_equation, electromagnetic_spectrum, infrared_uv, wave_interference
 // - earth_space (5): gravity_universal, solar_system, orbits, seasons_tides, space_exploration
 
@@ -20,6 +21,7 @@ import { K7_THERMO_GENERATORS } from "./physikGeneratorsK7_thermo";
 import { K7_WORK_POWER_GENERATORS } from "./physikGeneratorsK7_workpower";
 import { K7_EARTH_SPACE_GENERATORS } from "./physikGeneratorsK7_earthspace";
 import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves";
+import { K7_MAGNETISM_GENERATORS } from "./physikGeneratorsK7_magnetism";
 
 // ─── TEMPORARY GENERATORS FOR MISSING SUBTOPICS ────────────────────────────
 // These are placeholder implementations - to be replaced with full generators
@@ -46,6 +48,7 @@ const K7_GENERATOR_MAP: PhysikGeneratorMap = {
   work_power: {},
   optics: {},
   thermal: {},
+  magnetism: {},
   waves: {},
   earth_space: {},
 };
@@ -102,8 +105,18 @@ K7_GENERATOR_MAP.thermal["specific_heat"] = (K7_THERMO_GENERATORS.specific_heat?
 K7_GENERATOR_MAP.thermal["specific_heat_typing"] = (K7_THERMO_GENERATORS.specific_heat?._typing) || createPlaceholder("specific_heat_typing");
 K7_GENERATOR_MAP.thermal["phase_changes"] = (K7_THERMO_GENERATORS.states?.combined) || createPlaceholder("phase_changes");
 K7_GENERATOR_MAP.thermal["phase_changes_typing"] = (K7_THERMO_GENERATORS.states?._typing) || createPlaceholder("phase_changes_typing");
-K7_GENERATOR_MAP.thermal["heat_engines"] = createPlaceholder("heat_engines");
-K7_GENERATOR_MAP.thermal["heat_engines_typing"] = createPlaceholder("heat_engines_typing");
+K7_GENERATOR_MAP.thermal["heat_engines"] = (K7_THERMO_GENERATORS.heat_transfer?.combined) || createPlaceholder("heat_engines");
+K7_GENERATOR_MAP.thermal["heat_engines_typing"] = (K7_THERMO_GENERATORS.heat_transfer?._typing) || createPlaceholder("heat_engines_typing");
+
+// MAGNETISM (K7_MAGNETISM_GENERATORS — nested format with .combined and ._typing)
+K7_GENERATOR_MAP.magnetism["magnetic_basics"] = (K7_MAGNETISM_GENERATORS.basics?.combined) || createPlaceholder("magnetic_basics");
+K7_GENERATOR_MAP.magnetism["magnetic_basics_typing"] = (K7_MAGNETISM_GENERATORS.basics?._typing) || createPlaceholder("magnetic_basics_typing");
+K7_GENERATOR_MAP.magnetism["earth_magnetism"] = (K7_MAGNETISM_GENERATORS.earth?.combined) || createPlaceholder("earth_magnetism");
+K7_GENERATOR_MAP.magnetism["earth_magnetism_typing"] = (K7_MAGNETISM_GENERATORS.earth?._typing) || createPlaceholder("earth_magnetism_typing");
+K7_GENERATOR_MAP.magnetism["electromagnets"] = (K7_MAGNETISM_GENERATORS.electromagnets?.combined) || createPlaceholder("electromagnets");
+K7_GENERATOR_MAP.magnetism["electromagnets_typing"] = (K7_MAGNETISM_GENERATORS.electromagnets?._typing) || createPlaceholder("electromagnets_typing");
+K7_GENERATOR_MAP.magnetism["electromagnetic_induction"] = (K7_MAGNETISM_GENERATORS.induction?.combined) || createPlaceholder("electromagnetic_induction");
+K7_GENERATOR_MAP.magnetism["electromagnetic_induction_typing"] = (K7_MAGNETISM_GENERATORS.induction?._typing) || createPlaceholder("electromagnetic_induction_typing");
 
 // WAVES (K7_WAVES_GENERATORS — wave physics, EM spectrum, interference)
 K7_GENERATOR_MAP.waves["wave_equation"] = K7_WAVES_GENERATORS.wave_equation || createPlaceholder("wave_equation");
@@ -131,4 +144,4 @@ K7_GENERATOR_MAP.earth_space["space_exploration_typing"] = K7_EARTH_SPACE_GENERA
 
 setK7GeneratorMap(K7_GENERATOR_MAP);
 
-console.log(`[K7 Integration] Registered ${Object.keys(K7_GENERATOR_MAP).length} generator functions for 28 subtopics`);
+console.log(`[K7 Integration] Registered ${Object.keys(K7_GENERATOR_MAP).length} theme groups for 32 subtopics`);
