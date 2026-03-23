@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, BookOpen } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // LABELS with ALL 4 languages (en, hu, de, ro)
 const LABELS = {
@@ -90,7 +91,16 @@ const ReadingCompExplorer = memo(function ReadingCompExplorer({
       setSelectedIdx(idx);
       const correct = idx === currentRound.correctIndex;
       setFeedback(correct ? "correct" : "incorrect");
-      if (!correct) wrongCountRef.current += 1;
+      if (!correct) {
+        wrongCountRef.current += 1;
+        fireWrongAnswer({
+          question: currentRound.question,
+          wrongAnswer: currentRound.options[idx],
+          correctAnswer: currentRound.options[currentRound.correctIndex],
+          topic: "Reading Comprehension",
+          lang: lang as string,
+        });
+      }
       setTimeout(() => {
         if (currentRound.explanation) {
           setDiscoveryText(currentRound.explanation);

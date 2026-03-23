@@ -2,6 +2,7 @@
 import React, { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 export interface CategoryItem {
   text: string;
@@ -158,6 +159,13 @@ const CategoryRushExplorer = memo(function CategoryRushExplorer({
       } else {
         // Wrong: increment error count and show explanation + discovery
         wrongCountRef.current += 1;
+        fireWrongAnswer({
+          question: currentItem.text,
+          wrongAnswer: categories[categoryIdx].label,
+          correctAnswer: categories[currentItem.categoryIndex].label,
+          topic: "Category Rush",
+          lang: lang as string,
+        });
         setShowExplanation(true);
         if (currentItem.explanation) {
           setCurrentDiscovery(currentItem.explanation);

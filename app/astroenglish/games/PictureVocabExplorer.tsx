@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // LABELS with ALL 4 languages
 const LABELS = {
@@ -113,6 +114,13 @@ const PictureVocabExplorer = memo(function PictureVocabExplorer({
       } else {
         setFeedback("wrong");
         wrongCountRef.current++;
+        fireWrongAnswer({
+          question: `${t.description}: ${currentRound.emoji}`,
+          wrongAnswer: currentRound.options[index],
+          correctAnswer: currentRound.options[currentRound.correctIndex],
+          topic: "Picture Vocabulary",
+          lang: lang as string,
+        });
       }
     },
     [selectedIndex, currentRound.correctIndex]

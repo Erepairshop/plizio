@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const TOTAL_ROUNDS = 5;
 

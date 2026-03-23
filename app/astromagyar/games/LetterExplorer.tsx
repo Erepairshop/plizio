@@ -8,6 +8,7 @@ import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -218,7 +219,7 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 2: Classify letters ────────────────────────────────────────────────
-function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round2({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [choice, setChoice] = useState<string | null>(null);
   const [done, setDone] = useState(false);
@@ -228,6 +229,16 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleChoice = (type: "vokal" | "konsonant") => {
     if (choice) return;
     setChoice(type);
+    const correctType = isVokal ? "vokal" : "konsonant";
+    if (type !== correctType) {
+      fireWrongAnswer({
+        question: `${letter}: ${lbl.round2Hint}`,
+        wrongAnswer: type === "vokal" ? lbl.vokal : lbl.konsonant,
+        correctAnswer: isVokal ? lbl.vokal : lbl.konsonant,
+        topic: "Letter Classification",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= CLASSIFY_LETTERS.length) {
         setDone(true);
@@ -305,7 +316,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Match uppercase to lowercase ────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [pairIdx, setPairIdx] = useState(0);
   const [choices] = useState(() => UPPER_LOWER_PAIRS.map(([, lower]) => {
     const others = UPPER_LOWER_PAIRS.filter(p => p[1] !== lower).slice(0, 2).map(p => p[1]);
@@ -318,6 +329,15 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (lower: string) => {
     if (selected) return;
     setSelected(lower);
+    if (lower !== correct) {
+      fireWrongAnswer({
+        question: `${pair[0]} → ?`,
+        wrongAnswer: lower,
+        correctAnswer: correct,
+        topic: "Uppercase/Lowercase Match",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (pairIdx + 1 >= UPPER_LOWER_PAIRS.length) setDone(true);
       else { setPairIdx(i => i + 1); setSelected(null); }
@@ -553,8 +573,8 @@ const LetterExplorer = memo(function LetterExplorer({
           initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
           {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
         </motion.div>

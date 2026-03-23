@@ -5,6 +5,7 @@ import { motion, AnimatePresence, Reorder } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface SentenceRound {
   words: string[];
