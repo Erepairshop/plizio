@@ -129,8 +129,8 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_title: "Photosynthesis: How Plants Make Food",
     r2_text: "Plants use sunlight, water, and carbon dioxide to make their own food (glucose) and release oxygen.",
     r2_fact1: "Photosynthesis happens mainly in the leaves",
-    r2_fact2: ""Three things needed: sunlight, water, carbon dioxide CO₂"",
-    r2_fact3: "Two things produced: glucose (sugar) , oxygen O₂",
+    r2_fact2: "Three things needed: sunlight, water, carbon dioxide CO₂",
+    r2_fact3: "Two things produced: glucose (sugar), oxygen O₂",
     r2_fact4: "This oxygen is what we breathe — plants give us fresh air!",
 
     // Round 3: Water Transport

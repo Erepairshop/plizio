@@ -320,11 +320,11 @@ function SVG_DUCK(lang: string) {
 function renderAnimal(animal: string, lang: string) {
   const content = (() => {
     switch (animal) {
-      case "dog": return <SVG_DOG lang={lang} />;
-      case "cat": return <SVG_CAT lang={lang} />;
-      case "cow": return <SVG_COW lang={lang} />;
-      case "frog": return <SVG_FROG lang={lang} />;
-      case "duck": return <SVG_DUCK lang={lang} />;
+      case "dog": return SVG_DOG(lang);
+      case "cat": return SVG_CAT(lang);
+      case "cow": return SVG_COW(lang);
+      case "frog": return SVG_FROG(lang);
+      case "duck": return SVG_DUCK(lang);
       default:
         return <span className="text-6xl">{ANIMAL_EMOJI[animal] ?? "🐾"}</span>;
     }
@@ -340,7 +340,6 @@ function renderAnimal(animal: string, lang: string) {
       {content}
     </motion.div>
   );
-}
 }
 const TOTAL_ROUNDS = 5;
 
@@ -976,18 +975,15 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   className="w-full max-w-xs py-6 rounded-2xl text-center"
                   style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}
                 >
-<motion.div
-  className="flex justify-center items-center h-[120px]"
-  whileHover={{ scale: 1.08 }}
-  animate={{ y: [0, -4, 0] }}
-  transition={{ repeat: Infinity, duration: 2 }}
-  style={{
-    filter: "drop-shadow(0 0 10px rgba(0,255,200,0.3))"
-  }}
->
-  {renderAnimal(q.animal, lang)}
-</motion.div>  {renderAnimal(q.animal, lang)}
-</div>
+                  <motion.div
+                    className="flex justify-center items-center h-[120px]"
+                    whileHover={{ scale: 1.08 }}
+                    animate={{ y: [0, -4, 0] }}
+                    transition={{ repeat: Infinity, duration: 2 }}
+                    style={{ filter: "drop-shadow(0 0 10px rgba(0,255,200,0.3))" }}
+                  >
+                    {renderAnimal(q.animal, lang)}
+                  </motion.div>
                   <p className="text-white font-black text-lg">{lbl[q.animal]}</p>
                 </div>
 

@@ -212,7 +212,7 @@ const SVG_R3 = () => (
       <filter id="heatwave">
         <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="2" result="noise" />
         <feDisplacementMap in="SourceGraphic" in2="noise" scale="2" />
-      </gfilter>
+      </filter>
     </defs>
 
     {/* Égbolt */}
@@ -258,6 +258,70 @@ const SVG_R3 = () => (
       <circle cx="40" cy="100" r="1" />
       <circle cx="120" cy="80" r="0.8" />
       <circle cx="200" cy="110" r="1.2" />
+    </g>
+  </svg>
+);
+
+const SVG_R4 = () => (
+  <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+    <defs>
+      <linearGradient id="arctic_sky" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stopColor="#90CAF9" />
+        <stop offset="100%" stopColor="#E1F5FE" />
+      </linearGradient>
+      <linearGradient id="ice_grad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stopColor="#FFFFFF" />
+        <stop offset="100%" stopColor="#B3E5FC" />
+      </linearGradient>
+    </defs>
+
+    {/* Sky */}
+    <rect width="240" height="160" rx="20" fill="url(#arctic_sky)" />
+
+    {/* Distant mountains */}
+    <path d="M0 100 L40 60 L80 90 L120 50 L160 80 L200 55 L240 85 L240 160 L0 160 Z" fill="#B3E5FC" opacity="0.5" />
+
+    {/* Ice shelf */}
+    <path d="M0 120 Q60 110 120 125 T240 115 L240 160 L0 160 Z" fill="url(#ice_grad)" />
+    <path d="M0 135 Q60 130 120 140 T240 132 L240 160 L0 160 Z" fill="white" opacity="0.8" />
+
+    {/* Polar bear */}
+    <g transform="translate(75, 115) scale(0.85)">
+      {/* Body */}
+      <ellipse cx="0" cy="0" rx="20" ry="12" fill="#F5F5F5" />
+      {/* Head */}
+      <circle cx="22" cy="-8" r="9" fill="#EEEEEE" />
+      <circle cx="26" cy="-10" r="1.5" fill="black" />
+      <circle cx="24" cy="-5" r="2" fill="#212121" />
+      {/* Ears */}
+      <circle cx="17" cy="-15" r="3" fill="#E0E0E0" />
+      <circle cx="25" cy="-16" r="3" fill="#E0E0E0" />
+      {/* Legs */}
+      <rect x="-12" y="8" width="6" height="8" rx="2" fill="#EEEEEE" />
+      <rect x="4" y="8" width="6" height="8" rx="2" fill="#EEEEEE" />
+    </g>
+
+    {/* Penguin */}
+    <g transform="translate(170, 118) scale(0.7)">
+      {/* Body */}
+      <ellipse cx="0" cy="0" rx="10" ry="14" fill="#263238" />
+      <ellipse cx="0" cy="2" rx="6" ry="10" fill="white" />
+      {/* Head */}
+      <circle cx="0" cy="-14" r="7" fill="#263238" />
+      <circle cx="3" cy="-15" r="1.2" fill="white" />
+      {/* Beak */}
+      <path d="M5 -12 L10 -11 L5 -9 Z" fill="#FF8F00" />
+      {/* Feet */}
+      <path d="M-5 14 L-10 17 L-3 15 Z" fill="#FF8F00" />
+      <path d="M5 14 L10 17 L3 15 Z" fill="#FF8F00" />
+    </g>
+
+    {/* Snowflakes */}
+    <g fill="white" opacity="0.6">
+      <circle cx="30" cy="30" r="2"><animate attributeName="cy" values="30;50" dur="6s" repeatCount="indefinite" /></circle>
+      <circle cx="100" cy="20" r="1.5"><animate attributeName="cy" values="20;45" dur="5s" repeatCount="indefinite" /></circle>
+      <circle cx="200" cy="25" r="2"><animate attributeName="cy" values="25;55" dur="7s" repeatCount="indefinite" /></circle>
+      <circle cx="150" cy="15" r="1"><animate attributeName="cy" values="15;40" dur="4s" repeatCount="indefinite" /></circle>
     </g>
   </svg>
 );
@@ -335,15 +399,15 @@ const SVG_R5 = () => (
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
-    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <SimpleSvg />, bulletKeys: ["r1_fact1"],
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: SVG_R1, bulletKeys: ["r1_fact1"],
       questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
-    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <SimpleSvg />, bulletKeys: ["r2_fact1"],
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: SVG_R2, bulletKeys: ["r2_fact1"],
       questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
-    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <SimpleSvg />, bulletKeys: ["r3_fact1"],
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: SVG_R3, bulletKeys: ["r3_fact1"],
       questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
-    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <SimpleSvg />, bulletKeys: ["r4_fact1"],
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: SVG_R4, bulletKeys: ["r4_fact1"],
       questions: [{ question: "r4_q", choices: ["r4_a", "r4_b", "r4_c", "r4_d"], answer: "r4_a" }] },
-    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <SimpleSvg />,
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: SVG_R5,
       questions: [
         { question: "r5_q1_q", choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"], answer: "r5_q1_a" },
         { question: "r5_q2_q", choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"], answer: "r5_q2_a" },

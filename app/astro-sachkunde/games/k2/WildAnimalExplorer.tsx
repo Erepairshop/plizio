@@ -388,15 +388,15 @@ const SVG_R5_PRO = () => (
 const DEF: ExplorerDef = {
   labels: LABELS,
   rounds: [
-    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <SimpleSvg />, bulletKeys: ["r1_fact1"],
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: SVG_LION_PRO, bulletKeys: ["r1_fact1"],
       questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
-    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <SimpleSvg />, bulletKeys: ["r2_fact1"],
+    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: SVG_R2_PRO, bulletKeys: ["r2_fact1"],
       questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
-    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <SimpleSvg />, bulletKeys: ["r3_fact1"],
+    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: SVG_R3_PRO, bulletKeys: ["r3_fact1"],
       questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
-    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <SimpleSvg />, bulletKeys: ["r4_fact1"],
+    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: SVG_R4_PRO, bulletKeys: ["r4_fact1"],
       questions: [{ question: "r4_q", choices: ["r4_a", "r4_b", "r4_c", "r4_d"], answer: "r4_a" }] },
-    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <SimpleSvg />,
+    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: SVG_R5_PRO,
       questions: [
         { question: "r5_q1_q", choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"], answer: "r5_q1_a" },
         { question: "r5_q2_q", choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"], answer: "r5_q2_a" },
