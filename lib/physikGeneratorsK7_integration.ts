@@ -19,7 +19,7 @@ import { K7_OPTICS_GENERATORS } from "./physikGeneratorsK7_optics";
 import { K7_THERMO_GENERATORS } from "./physikGeneratorsK7_thermo";
 import { K7_WORK_POWER_GENERATORS } from "./physikGeneratorsK7_workpower";
 import { K7_EARTH_SPACE_GENERATORS } from "./physikGeneratorsK7_earthspace";
-// import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves"; // TODO: Create or rename from magnetism
+import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves";
 
 // ─── TEMPORARY GENERATORS FOR MISSING SUBTOPICS ────────────────────────────
 // These are placeholder implementations - to be replaced with full generators
@@ -83,17 +83,17 @@ K7_GENERATOR_MAP.work_power["potential_energy_calc_typing"] = K7_WORK_POWER_GENE
 K7_GENERATOR_MAP.work_power["mechanical_advantage"] = K7_WORK_POWER_GENERATORS.mechanical_advantage || createPlaceholder("mechanical_advantage");
 K7_GENERATOR_MAP.work_power["mechanical_advantage_typing"] = K7_WORK_POWER_GENERATORS.mechanical_advantage_typing || createPlaceholder("mechanical_advantage_typing");
 
-// OPTICS
-K7_GENERATOR_MAP.optics["lenses_convex"] = K7_OPTICS_GENERATORS.light || createPlaceholder("lenses_convex");
-K7_GENERATOR_MAP.optics["lenses_convex_typing"] = createPlaceholder("lenses_convex_typing");
-K7_GENERATOR_MAP.optics["lenses_concave"] = createPlaceholder("lenses_concave");
-K7_GENERATOR_MAP.optics["lenses_concave_typing"] = createPlaceholder("lenses_concave_typing");
-K7_GENERATOR_MAP.optics["image_formation"] = createPlaceholder("image_formation");
-K7_GENERATOR_MAP.optics["image_formation_typing"] = createPlaceholder("image_formation_typing");
-K7_GENERATOR_MAP.optics["eye_optics"] = createPlaceholder("eye_optics");
-K7_GENERATOR_MAP.optics["eye_optics_typing"] = createPlaceholder("eye_optics_typing");
-K7_GENERATOR_MAP.optics["optical_instruments"] = createPlaceholder("optical_instruments");
-K7_GENERATOR_MAP.optics["optical_instruments_typing"] = createPlaceholder("optical_instruments_typing");
+// OPTICS (K7_OPTICS_GENERATORS — refactored for K7 curriculum)
+K7_GENERATOR_MAP.optics["lenses_convex"] = K7_OPTICS_GENERATORS.lenses_convex || createPlaceholder("lenses_convex");
+K7_GENERATOR_MAP.optics["lenses_convex_typing"] = K7_OPTICS_GENERATORS.lenses_convex_typing || createPlaceholder("lenses_convex_typing");
+K7_GENERATOR_MAP.optics["lenses_concave"] = K7_OPTICS_GENERATORS.lenses_concave || createPlaceholder("lenses_concave");
+K7_GENERATOR_MAP.optics["lenses_concave_typing"] = K7_OPTICS_GENERATORS.lenses_concave_typing || createPlaceholder("lenses_concave_typing");
+K7_GENERATOR_MAP.optics["image_formation"] = K7_OPTICS_GENERATORS.image_formation || createPlaceholder("image_formation");
+K7_GENERATOR_MAP.optics["image_formation_typing"] = K7_OPTICS_GENERATORS.image_formation_typing || createPlaceholder("image_formation_typing");
+K7_GENERATOR_MAP.optics["eye_optics"] = K7_OPTICS_GENERATORS.eye_optics || createPlaceholder("eye_optics");
+K7_GENERATOR_MAP.optics["eye_optics_typing"] = K7_OPTICS_GENERATORS.eye_optics_typing || createPlaceholder("eye_optics_typing");
+K7_GENERATOR_MAP.optics["optical_instruments"] = K7_OPTICS_GENERATORS.optical_instruments || createPlaceholder("optical_instruments");
+K7_GENERATOR_MAP.optics["optical_instruments_typing"] = K7_OPTICS_GENERATORS.optical_instruments_typing || createPlaceholder("optical_instruments_typing");
 
 // THERMAL
 K7_GENERATOR_MAP.thermal["thermal_expansion"] = K7_THERMO_GENERATORS.expansion || createPlaceholder("thermal_expansion");
@@ -105,15 +105,15 @@ K7_GENERATOR_MAP.thermal["phase_changes_typing"] = createPlaceholder("phase_chan
 K7_GENERATOR_MAP.thermal["heat_engines"] = createPlaceholder("heat_engines");
 K7_GENERATOR_MAP.thermal["heat_engines_typing"] = createPlaceholder("heat_engines_typing");
 
-// WAVES (TODO: currently in magnetism file, needs renaming)
-K7_GENERATOR_MAP.waves["wave_equation"] = createPlaceholder("wave_equation");
-K7_GENERATOR_MAP.waves["wave_equation_typing"] = createPlaceholder("wave_equation_typing");
-K7_GENERATOR_MAP.waves["electromagnetic_spectrum"] = createPlaceholder("electromagnetic_spectrum");
-K7_GENERATOR_MAP.waves["electromagnetic_spectrum_typing"] = createPlaceholder("electromagnetic_spectrum_typing");
-K7_GENERATOR_MAP.waves["infrared_uv"] = createPlaceholder("infrared_uv");
-K7_GENERATOR_MAP.waves["infrared_uv_typing"] = createPlaceholder("infrared_uv_typing");
-K7_GENERATOR_MAP.waves["wave_interference"] = createPlaceholder("wave_interference");
-K7_GENERATOR_MAP.waves["wave_interference_typing"] = createPlaceholder("wave_interference_typing");
+// WAVES (K7_WAVES_GENERATORS — wave physics, EM spectrum, interference)
+K7_GENERATOR_MAP.waves["wave_equation"] = K7_WAVES_GENERATORS.wave_equation || createPlaceholder("wave_equation");
+K7_GENERATOR_MAP.waves["wave_equation_typing"] = K7_WAVES_GENERATORS.wave_equation_typing || createPlaceholder("wave_equation_typing");
+K7_GENERATOR_MAP.waves["electromagnetic_spectrum"] = K7_WAVES_GENERATORS.electromagnetic_spectrum || createPlaceholder("electromagnetic_spectrum");
+K7_GENERATOR_MAP.waves["electromagnetic_spectrum_typing"] = K7_WAVES_GENERATORS.electromagnetic_spectrum_typing || createPlaceholder("electromagnetic_spectrum_typing");
+K7_GENERATOR_MAP.waves["infrared_uv"] = K7_WAVES_GENERATORS.infrared_uv || createPlaceholder("infrared_uv");
+K7_GENERATOR_MAP.waves["infrared_uv_typing"] = K7_WAVES_GENERATORS.infrared_uv_typing || createPlaceholder("infrared_uv_typing");
+K7_GENERATOR_MAP.waves["wave_interference"] = K7_WAVES_GENERATORS.wave_interference || createPlaceholder("wave_interference");
+K7_GENERATOR_MAP.waves["wave_interference_typing"] = K7_WAVES_GENERATORS.wave_interference_typing || createPlaceholder("wave_interference_typing");
 
 // EARTH & SPACE (K7_EARTH_SPACE_GENERATORS)
 K7_GENERATOR_MAP.earth_space["gravity_universal"] = K7_EARTH_SPACE_GENERATORS.gravity_universal || createPlaceholder("gravity_universal");

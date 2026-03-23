@@ -1,11 +1,11 @@
-// ─── PHYSICS GENERATORS K7: OPTICS ─────────────────────────────────────────
-// "Optik" theme — Light properties, reflection, refraction, lenses, colors
-// Grade 7 (13-14 years old)
+// ─── K7 PHYSICS GENERATORS: OPTICS ─────────────────────────────────────────
+// "Optik" theme — Lenses, image formation, eye optics, optical instruments
+// Grade 7 (Klasse 7 / 8th grade physics)
 //
-// Generates 32-35 MCQ + 10 Typing questions per subtopic using seeded PRNG
-// Light speed: c = 3×10⁸ m/s
-// Snell's law: n₁sin(θ₁) = n₂sin(θ₂)
+// 5 subtopics × ~70 questions (7 MCQ + 8 typing per subtopic)
 // Lens formula: 1/f = 1/do + 1/di
+// Magnification: M = di/do = hi/ho
+// Power: P = 1/f (in diopters)
 
 import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
@@ -73,553 +73,669 @@ function q4(de: string, en: string, hu: string, ro: string, lang = "en"): string
   return map[lang] || en;
 }
 
-// ─── LIGHT ────────────────────────────────────────────────────────────────
+// ─── LENSES: CONVEX ───────────────────────────────────────────────────────
 
-function generateLightMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+function generateConvexLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
+  const qs: CurriculumMCQ[] = [];
 
-  // Template 1: Light properties (6 questions)
-  for (let i = 0; i < 6; i++) {
-    const property = pick([
-      { de: "Lichtwelle ist elektromagnetisch", en: "Light is electromagnetic wave", hu: "Fényhullám elektromágneses", ro: "Lumina este undă electromagnetică" },
-      { de: "Licht breitet sich mit c = 3×10⁸ m/s aus", en: "Light travels at c = 3×10⁸ m/s", hu: "A fény c = 3×10⁸ m/s-sel terjed", ro: "Lumina se propagă la c = 3×10⁸ m/s" },
-      { de: "Lichtwelle braucht kein Medium", en: "Light needs no medium", hu: "A fény nem igényel közegget", ro: "Lumina nu are nevoie de mediu" },
-      { de: "Licht hat endliche Geschwindigkeit", en: "Light has finite speed", hu: "A fény sebessége véges", ro: "Lumina are viteză finită" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "light",
-        q4("Welche Aussage über Licht ist wahr?", "Which statement about light is true?", "Melyik állítás igaz a fényről?", "Care afirmație despre lumină este adevărată?", lang),
-        q4(property.de, property.en, property.hu, property.ro, lang),
-        [
-          q4("Licht ist nur Welle", "Light is only wave", "A fény csak hullám", "Lumina este doar undă", lang),
-          q4("Licht braucht Medium zum Ausbreiten", "Light needs medium", "A fény közegre van szüksége", "Lumina are nevoie de mediu", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 2: Light speed calculations (6 questions)
-  for (let i = 0; i < 6; i++) {
-    const scenario = pick([
-      { de: "Zeit für Licht Sonne→Erde (150 Mio. km)?", en: "Time for light Sun→Earth (150M km)?", hu: "Fény ideje Nap→Föld (150M km)?", ro: "Timp lumină Soare→Pământ (150M km)?", answer: "~500 s (~8,3 min)" },
-      { de: "Entfernung in 1 Sekunde?", en: "Distance in 1 second?", hu: "Távolság 1 másodperc alatt?", ro: "Distanță în 1 secundă?", answer: "3×10⁸ m = 300.000 km" },
-      { de: "Zeit für Licht Erde→Mond (384.000 km)?", en: "Time light Earth→Moon (384k km)?", hu: "Fény ideje Föld→Hold (384k km)?", ro: "Timp lumină Pământ→Lună (384k km)?", answer: "~1,28 s" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "light",
-        q4(scenario.de, scenario.en, scenario.hu, scenario.ro, lang),
-        q4(scenario.answer, scenario.answer, scenario.answer, scenario.answer, lang),
-        [
-          q4("1 ms", "1 ms", "1 ms", "1 ms", lang),
-          q4("10 s", "10 s", "10 s", "10 s", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 3: Wavelength and frequency (7 questions)
+  // Convex lens properties
   for (let i = 0; i < 7; i++) {
-    const lightType = pick([
-      { de: "Ultraviolettes Licht", en: "Ultraviolet light", hu: "Ultraibolya fény", ro: "Lumina ultravioletă", range: "~10-400 nm" },
-      { de: "Sichtbares Licht", en: "Visible light", hu: "Látható fény", ro: "Lumina vizibilă", range: "~400-700 nm" },
-      { de: "Infrarot Strahlung", en: "Infrared radiation", hu: "Infravörös sugárzás", ro: "Radiația infraroșie", range: "~700 nm - 1 mm" },
-      { de: "Röntgenstrahlung", en: "X-rays", hu: "Röntgensugárzás", ro: "Raze X", range: "~0,01-10 nm" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "light",
+    const idx = i % 5;
+    if (idx === 0) {
+      qs.push(createMCQ(
+        "optics", "lenses_convex",
         q4(
-          `Wellenlängenbereich ${q4(lightType.de, lightType.en, lightType.hu, lightType.ro, lang)}:`,
-          `Wavelength range ${lightType.en}:`,
-          `Hullámhossz tartomány ${q4(lightType.de, lightType.en, lightType.hu, lightType.ro, lang)}:`,
-          `Interval lungime de undă ${q4(lightType.de, lightType.en, lightType.hu, lightType.ro, lang)}:`,
+          "Welche Linsenform ist konvex?",
+          "Which lens shape is convex?",
+          "Melyik lencseforma konvex?",
+          "Ce formă de lentilă este convexă?",
           lang
         ),
-        q4(lightType.range, lightType.range, lightType.range, lightType.range, lang),
+        q4("Nach außen gewölbt", "Bulging outward", "Kifelé domborodó", "Bombată spre exterior", lang),
         [
-          q4("100 nm", "100 nm", "100 nm", "100 nm", lang),
-          q4("1 μm", "1 μm", "1 μm", "1 μm", lang),
+          q4("Nach innen gewölbt", "Caved inward", "Befelé domborodó", "Concavă", lang),
+          q4("Flach", "Flat", "Lapos", "Plană", lang),
+          q4("Unregelmäßig", "Irregular", "Szabálytalan", "Neregulată", lang),
         ],
         rng
-      )
-    );
-  }
-
-  // Template 4: Dispersion and spectrum (7 questions)
-  for (let i = 0; i < 7; i++) {
-    const spectrumFact = pick([
-      q4("Rotes Licht hat längste Wellenlänge im sichtbaren Spektrum", "Red light has longest wavelength in visible spectrum", "A vörös fénynek a leghosszabb hullámhossza a látható spektrumban", "Lumina roșie are cea mai lungă lungime de undă în spectrul vizibil", lang),
-      q4("Violettes Licht hat kürzeste Wellenlänge im sichtbaren Spektrum", "Violet light has shortest wavelength in visible spectrum", "Az ibolya fénynek a legkisebb hullámhossza a látható spektrumban", "Lumina violetă are cea mai scurtă lungime de undă în spectrul vizibil", lang),
-      q4("Dispersion spaltet Licht in Regenbogen", "Dispersion splits light into rainbow", "A diszperzió a fényt szivárvánnyá szétválasztja", "Dispersia desparte lumina în curcubeu", lang),
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "light",
-        q4("Welche Aussage zur Dispersion ist wahr?", "Which statement about dispersion is true?", "Melyik állítás igaz a diszperzióra?", "Care afirmație despre dispersie este adevărată?", lang),
-        spectrumFact,
-        [
-          q4("Grünes Licht hat höchste Frequenz", "Green light has highest frequency", "A zöld fénynek a legmagasabb frekvenciája van", "Lumina verde are cea mai mare frecvență", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 5: Sources of light (6 questions)
-  for (let i = 0; i < 6; i++) {
-    const lightSource = pick([
-      { de: "Sonne", en: "Sun", hu: "Nap", ro: "Soare", type: "Thermalisch" },
-      { de: "Glühbirne", en: "Incandescent bulb", hu: "Izzólámpa", ro: "Bec incandescent", type: "Thermalisch" },
-      { de: "LED", en: "LED", hu: "LED", ro: "LED", type: "Lumineszent" },
-      { de: "Leuchtstoffröhre", en: "Fluorescent tube", hu: "Fénycsöves lámpa", ro: "Tub fluorescent", type: "Lumineszent" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "light",
+      ));
+    } else if (idx === 1) {
+      const f = 10 + Math.floor(rng() * 30);
+      qs.push(createMCQ(
+        "optics", "lenses_convex",
         q4(
-          `Lichtquelle ${q4(lightSource.de, lightSource.en, lightSource.hu, lightSource.ro, lang)}: Typ?`,
-          `Light source ${lightSource.en}: Type?`,
-          `Fényforrás ${q4(lightSource.de, lightSource.en, lightSource.hu, lightSource.ro, lang)}: Típus?`,
-          `Sursă de lumină ${q4(lightSource.de, lightSource.en, lightSource.hu, lightSource.ro, lang)}: Tip?`,
+          `Eine Sammellinse hat Brennweite f = ${f} cm. Wo entsteht ein reelles Bild?`,
+          `A converging lens has focal length f = ${f} cm. Where is a real image formed?`,
+          `Egy gyűjtőlencse gyújtótávolsága f = ${f} cm. Hol képződik valódi kép?`,
+          `O lentilă convergentă are lungimea focală f = ${f} cm. Unde se formează imaginea reală?`,
           lang
         ),
-        q4(lightSource.type, lightSource.type, lightSource.type, lightSource.type, lang),
+        q4("Túl a 2f pontnak", "Beyond 2f point", "A 2f pont túloldalán", "Dincolo de punctul 2f", lang),
         [
-          q4("Radioaktiv", "Radioactive", "Radioaktív", "Radioactiv", lang),
+          q4("Az f és 2f között", "Between f and 2f", "Az f és 2f között", "Între f și 2f", lang),
+          q4("Az f ponton", "At f point", "Az f pontban", "La punctul f", lang),
+          q4("Az objektív előtt", "In front of lens", "A lencse előtt", "În fața lentilei", lang),
         ],
         rng
-      )
-    );
+      ));
+    } else if (idx === 2) {
+      qs.push(createMCQ(
+        "optics", "lenses_convex",
+        q4(
+          "Wie ändert sich die Brennweite einer Linse, wenn die Dicke zunimmt?",
+          "How does focal length change as lens thickness increases?",
+          "Hogyan változik a gyújtótávolság, ha a lencse vastagsága nő?",
+          "Cum se schimbă lungimea focală pe măsură ce grosimea lentilei crește?",
+          lang
+        ),
+        q4("Sie wird kürzer", "It becomes shorter", "Rövidebb lesz", "Se scurtează", lang),
+        [
+          q4("Sie bleibt gleich", "Stays the same", "Ugyanolyan marad", "Rămâne la fel", lang),
+          q4("Sie wird länger", "It becomes longer", "Hosszabb lesz", "Se lungește", lang),
+          q4("Sie wird null", "Becomes zero", "Nullává válik", "Devine zero", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 3) {
+      qs.push(createMCQ(
+        "optics", "lenses_convex",
+        q4(
+          "Eine Sammellinse fokussiert parallele Lichtstrahlen in ihrem Brennpunkt. Was ist die optische Kraft?",
+          "A converging lens focuses parallel light rays at its focal point. What is optical power?",
+          "Egy gyűjtőlencse a párhuzamos sugarakat a gyújtópontjában fókuszálja. Mi a dioptriaérték?",
+          "O lentilă convergentă focalizează razele paralele în punctul focal. Ce este puterea optică?",
+          lang
+        ),
+        q4("P = 1/f (dioptrije)", "P = 1/f (diopters)", "P = 1/f (dioptria)", "P = 1/f (dioptrii)", lang),
+        [
+          q4("P = f (Meter)", "P = f (meters)", "P = f (méter)", "P = f (metri)", lang),
+          q4("P = 2f", "P = 2f", "P = 2f", "P = 2f", lang),
+          q4("P = f²", "P = f²", "P = f²", "P = f²", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 4) {
+      qs.push(createMCQ(
+        "optics", "lenses_convex",
+        q4(
+          "Welcher Ausdruck beschreibt die Linsengleichung?",
+          "Which expression describes the lens equation?",
+          "Melyik kifejezés írja le a lencseegyenletet?",
+          "Care expresie descrie ecuația lentilei?",
+          lang
+        ),
+        q4("1/f = 1/do + 1/di", "1/f = 1/do + 1/di", "1/f = 1/do + 1/di", "1/f = 1/do + 1/di", lang),
+        [
+          q4("f = do + di", "f = do + di", "f = do + di", "f = do + di", lang),
+          q4("1/f = do + di", "1/f = do + di", "1/f = do + di", "1/f = do + di", lang),
+          q4("f = 1/do - 1/di", "f = 1/do - 1/di", "f = 1/do - 1/di", "f = 1/do - 1/di", lang),
+        ],
+        rng
+      ));
+    }
   }
 
-  return questions;
+  return qs;
 }
 
-function generateLightTyping(lang = "en", seed = 0): CurriculumTyping[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumTyping[] = [];
+function generateConvexLensTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const rng = mulberry32(seed + 1000);
+  const qs: CurriculumTyping[] = [];
 
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Was ist Licht? Erkläre als Welle und Partikel", "What is light? Explain as wave and particle", "Mi a fény? Magyarázd meg hullámként és részecskként", "Ce este lumina? Explică ca undă și particulă", lang),
-      [
-        q4("Licht ist elektromagnetische Welle (transversal) die sich mit c=3×10⁸ m/s ausbreitet; auch modelierbar als Photonen (Lichtteilchen)", "Light is EM wave (transverse) traveling at c=3×10⁸ m/s; also photons (light particles)", "A fény elektromágneses hullám (transzverzális) amely c=3×10⁸ m/s-sel terjed; fotonokként (fényrészecskék) is modellezhető", "Lumina este undă EM (transversală) care se propagă la c=3×10⁸ m/s; modelabilă și ca fotoni (particule de lumină)", lang),
-      ]
-    )
-  );
+  const examples = [
+    { do: 30, f: 10, di: 15, ans: "15" },
+    { do: 20, f: 5, di: 6.67, ans: "6.67" },
+    { do: 40, f: 8, di: 10, ans: "10" },
+    { do: 50, f: 10, di: 12.5, ans: "12.5" },
+    { do: 25, f: 5, di: 6.25, ans: "6.25" },
+  ];
 
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Lichtgeschwindigkeit und ihre Bedeutung?", "Light speed and its significance?", "Fénysebessége és jelentősége?", "Viteza luminii și semnificația sa?", lang),
-      [
-        q4("c = 3×10⁸ m/s = 299.792.458 m/s; höchste bekannte Geschwindigkeit, Grenze nach Einstein", "c = 3×10⁸ m/s (exact: 299,792,458 m/s); highest known speed, Einstein limit", "c = 3×10⁸ m/s; a legmagasabb ismert sebesség, Einstein határ", "c = 3×10⁸ m/s; cea mai mare viteză cunoscută, limita Einstein", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Elektromagnetisches Spektrum: Ordnung nach Wellenlänge", "EM spectrum: order by wavelength", "Elektromágneses spektrum: sorrendbe rendezés hullámhossz szerint", "Spectrul EM: ordine după lungime de undă", lang),
-      [
-        q4("Radiowave > Mikrowelle > Infrarot > Sichtbar > Ultraviolett > Röntgen > Gamma; längste bis kürzeste", "Radio > Microwave > Infrared > Visible > UV > X-rays > Gamma; longest to shortest", "Rádió > Mikrohullám > Infravörös > Látható > Ultraibolya > Röntgen > Gamma; leghosszabbtól a legrövidebbre", "Radio > Microundă > Infraroșu > Vizibil > UV > Raze X > Gamma; de la cea mai lungă la cea mai scurtă", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Sichtbares Licht Wellenlängenbereiche und Farben?", "Visible light wavelength ranges and colors?", "Látható fény hullámhosszak és színek?", "Lumina vizibilă interval lungimi de undă și culori?", lang),
-      [
-        q4("Rot ~700 nm, Orange ~620 nm, Gelb ~580 nm, Grün ~530 nm, Blau ~470 nm, Violett ~400 nm", "Red ~700nm, Orange ~620nm, Yellow ~580nm, Green ~530nm, Blue ~470nm, Violet ~400nm", "Vörös ~700 nm, Narancs ~620 nm, Sárga ~580 nm, Zöld ~530 nm, Kék ~470 nm, Ibolya ~400 nm", "Roșu ~700nm, Portocaliu ~620nm, Galben ~580nm, Verde ~530nm, Albastru ~470nm, Violet ~400nm", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Unterschied Wärmestrahlung und Sichtbares Licht?", "Difference heat radiation and visible light?", "Különbség a hősugárzás és a látható fény között?", "Diferența între radiația termică și lumina vizibilă?", lang),
-      [
-        q4("Wärmestrahlung = Infrarotstrahlung (längere Wellenlänge); Sichtbares Licht = 400-700 nm", "Heat = IR radiation (longer wavelength); Visible = 400-700 nm", "Hősugárzás = Infravörös (hosszabb hullámhossz); Látható = 400-700 nm", "Căldură = radiație IR (lungime de undă mai lungă); Vizibil = 400-700 nm", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Zeit für Licht Sonne zu Erde (150 Mio. km) berechnen?", "Calculate light time Sun to Earth?", "Számítsd ki a fény idejét a Naptól a Földig?", "Calculează timp lumină Soare la Pământ?", lang),
-      [
-        q4("t = d/c = 150×10⁹ m / 3×10⁸ m/s = 500 s ≈ 8 min 20 sec", "t = 150×10⁹ m / 3×10⁸ m/s = 500 s ≈ 8m20s", "t = 150×10⁹ m / 3×10⁸ m/s = 500 s ≈ 8 min 20 mp", "t = 150×10⁹ m / 3×10⁸ m/s = 500 s ≈ 8m20s", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Dispersion Definition und Beispiel?", "Dispersion definition and example?", "Diszperzió definiciója és példa?", "Definiția dispersiei și exemplu?", lang),
-      [
-        q4("Dispersion = Aufspaltung von weißem Licht in Spektralfarben durch unterschiedliche Brechung; Beispiel: Prisma, Regenbogen", "Dispersion = splitting white light into spectrum colors by different refraction; Example: prism, rainbow", "Diszperzió = fehér fény spektrumszínekre bontása különböző törés miatt; Példa: prizma, szivárvány", "Dispersie = despărțire a luminii albe în culori spectrale datorită refracției diferite; Exemplu: prismă, curcubeu", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("Warum sehen wir die Sonne nicht wirklich jetzt?", "Why don't we see Sun in real time?", "Miért nem látjuk a Napot valós időben?", "De ce nu vedem Soarele în timp real?", lang),
-      [
-        q4("Weil Licht ~500 s braucht Sonne→Erde; wir sehen die Sonne vor 8+ Minuten (Lichtlaufzeit)", "Light takes ~500s (8m20s) to travel Sun→Earth; we see 8min delayed image", "Mert a fény ~500 s-et igényel Nap→Föld; a Napot 8+ perccel korábbról látjuk (fénylaufzeit)", "Deoarece lumina durează ~500s Soare→Pământ; vedem imaginea cu întârziere de 8+ minute", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "light",
-      q4("UV und IR Strahlung: unsichtbar warum?", "Why can't we see UV and IR radiation?", "Miért nem láthatunk UV és IR sugárzást?", "De ce nu putem vedea radiația UV și IR?", lang),
-      [
-        q4("UV/IR außerhalb sichtbares Spektrum (400-700 nm); Auge nur für diese Wellenlängen empfindlich", "UV/IR outside visible spectrum (400-700nm); eye only sensitive to these wavelengths", "UV/IR kívül esik a látható spektrumon (400-700 nm); szem csak ezekre a hullámhosszakra érzékeny", "UV/IR în afara spectrului vizibil (400-700nm); ochiul sensibil doar la aceste lungimi de undă", lang),
-      ]
-    )
-  );
-
-  return questions;
-}
-
-// ─── REFLECTION ────────────────────────────────────────────────────────────
-
-function generateReflectionMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-
-  // Template 1: Reflection law (6 questions)
-  for (let i = 0; i < 6; i++) {
-    questions.push(
-      createMCQ(
-        "optics",
-        "reflection",
-        q4("Reflexionsgesetz: Einfallswinkel = Reflexionswinkel?", "Law of reflection: incident angle = reflected angle?", "Reflexiós törvény: beesési szög = visszaverődési szög?", "Legea reflexiei: unghi de incidență = unghi de reflexie?", lang),
-        q4("Ja, wenn gemessen gegen Normalen", "Yes, when measured from normal", "Igen, ha a normálishoz mérve", "Da, dacă măsurat de la normală", lang),
-        [
-          q4("Nein, doppelt reflektiert", "No, doubles", "Nem, duplázódik", "Nu, se dublează", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 2: Types of reflection (6 questions)
-  for (let i = 0; i < 6; i++) {
-    const reflectionType = pick([
-      { de: "Spiegelnde Reflexion (spekulativ)", en: "Specular reflection", hu: "Tükrös visszaverődés", ro: "Reflexie speculară", desc: "glatte Oberfläche, klares Bild" },
-      { de: "Diffuse Reflexion", en: "Diffuse reflection", hu: "Szórt visszaverődés", ro: "Reflexie difuză", desc: "raue Oberfläche, zerstreut Licht" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "reflection",
-        q4(
-          `${q4(reflectionType.de, reflectionType.en, reflectionType.hu, reflectionType.ro, lang)}: ${reflectionType.desc}`,
-          `${reflectionType.en}: ${reflectionType.desc}`,
-          `${q4(reflectionType.de, reflectionType.en, reflectionType.hu, reflectionType.ro, lang)}: ${reflectionType.desc}`,
-          `${q4(reflectionType.de, reflectionType.en, reflectionType.hu, reflectionType.ro, lang)}: ${reflectionType.desc}`,
-          lang
-        ),
-        q4("Wahr", "True", "Igaz", "Adevărat", lang),
-        [q4("Falsch", "False", "Hamis", "Fals", lang)],
-        rng
-      )
-    );
-  }
-
-  // Template 3: Mirror types (7 questions)
-  for (let i = 0; i < 7; i++) {
-    const mirror = pick([
-      { de: "Ebenspiegel", en: "Plane mirror", hu: "Sík tükör", ro: "Oglindă plană", focal: "∞", image: "virtuell, aufrecht, gleichgroß" },
-      { de: "Konkavspiegei", en: "Concave mirror", hu: "Homorú tükör", ro: "Oglindă concavă", focal: "real", image: "reell/virtuell je nach Position" },
-      { de: "Konvexspiegei", en: "Convex mirror", hu: "Domború tükör", ro: "Oglindă convexă", focal: "virtuell hinter Spiegel", image: "immer virtuell, verkleinert" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "reflection",
-        q4(
-          `${q4(mirror.de, mirror.en, mirror.hu, mirror.ro, lang)}: Bildtyp?`,
-          `${mirror.en}: Image type?`,
-          `${q4(mirror.de, mirror.en, mirror.hu, mirror.ro, lang)}: Képtípus?`,
-          `${q4(mirror.de, mirror.en, mirror.hu, mirror.ro, lang)}: Tip imagine?`,
-          lang
-        ),
-        q4(mirror.image, mirror.image, mirror.image, mirror.image, lang),
-        [
-          q4("immer reell und vergrößert", "always real and enlarged", "mindig reális és nagyított", "întotdeauna reală și mărită", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 4: Angle of incidence calculations (7 questions)
-  for (let i = 0; i < 7; i++) {
-    const angleScenario = pick([
-      { de: "Einfallswinkel 30°?", en: "Incident angle 30°?", hu: "Beesési szög 30°?", ro: "Unghi de incidență 30°?", reflected: "30°" },
-      { de: "Einfallswinkel 45°?", en: "Incident angle 45°?", hu: "Beesési szög 45°?", ro: "Unghi de incidență 45°?", reflected: "45°" },
-      { de: "Einfallswinkel 0° (senkrecht)?", en: "Incident angle 0° (perpendicular)?", hu: "Beesési szög 0° (merőleges)?", ro: "Unghi de incidență 0° (perpendicular)?", reflected: "0° (zurück)" },
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "reflection",
-        q4(
-          `${q4(angleScenario.de, angleScenario.en, angleScenario.hu, angleScenario.ro, lang)} → Reflexionswinkel?`,
-          `${angleScenario.en} → Reflected angle?`,
-          `${q4(angleScenario.de, angleScenario.en, angleScenario.hu, angleScenario.ro, lang)} → Visszaverődési szög?`,
-          `${q4(angleScenario.de, angleScenario.en, angleScenario.hu, angleScenario.ro, lang)} → Unghi de reflexie?`,
-          lang
-        ),
-        q4(angleScenario.reflected, angleScenario.reflected, angleScenario.reflected, angleScenario.reflected, lang),
-        [
-          q4("90°", "90°", "90°", "90°", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  // Template 5: Real-world reflection (6 questions)
-  for (let i = 0; i < 6; i++) {
-    const reflectionUse = pick([
-      q4("Verkehrsspiegel benutzt Konvexspiegel für großes Sichtfeld", "Traffic mirror uses convex for wide view", "Forgalmi tükör domborúat használ széles látótartományhoz", "Oglinda de trafic folosește convexă pentru vedere largă", lang),
-      q4("Rückspiegel Auto nutzt Ebenspiegel oder leicht konvex", "Car rear mirror uses plane or slightly convex", "Autó visszapillantó tükre sík vagy enyhe domborút használ", "Oglinda retrovizoare auto folosește plană sau ușor convexă", lang),
-      q4("Periscop benutzt zwei Ebenspiegel im 45° Winkel", "Periscope uses two 45° plane mirrors", "Periszkóp két 45°-os síktükröt használ", "Periscopul folosește două oglinzi plane la 45°", lang),
-    ], rng);
-
-    questions.push(
-      createMCQ(
-        "optics",
-        "reflection",
-        q4("Welche Anwendung der Reflexion ist wahr?", "Which reflection application is true?", "Melyik reflexió alkalmazás igaz?", "Care aplicație a reflexiei este adevărată?", lang),
-        reflectionUse,
-        [
-          q4("Lupen nutzen Plankonkavspiegelung", "Magnifiers use planoconcave", "Nagyítóüvegek plankoncávat használnak", "Lupele folosesc planoconcav", lang),
-        ],
-        rng
-      )
-    );
-  }
-
-  return questions;
-}
-
-function generateReflectionTyping(lang = "en", seed = 0): CurriculumTyping[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumTyping[] = [];
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Reflexionsgesetz: Erklärung und Formel?", "Law of reflection: explanation and formula?", "Reflexiós törvény: magyarázat és képlet?", "Legea reflexiei: explicație și formulă?", lang),
-      [
-        q4("θᵢ = θᵣ (Einfallswinkel = Reflexionswinkel, beide von Normalen gemessen)", "θᵢ = θᵣ (incident = reflected angle, both from normal)", "θᵢ = θᵣ (beesési szög = visszaverődési szög, mindkettő a normálistól mérve)", "θᵢ = θᵣ (unghi de incidență = unghi de reflexie, ambele de la normală)", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Ebenspiegel (plane mirror): Bildeigenschaften?", "Plane mirror: image properties?", "Síktükör: képtulajdonságok?", "Oglindă plană: proprietăți imagine?", lang),
-      [
-        q4("Virtuell, aufrecht, gleichgroß wie Objekt, gleiche Tiefe hinter Spiegel", "Virtual, upright, same size as object, same distance behind mirror", "Virtuális, felfelé, egyenlő nagyságú az objektummal, ugyanolyan távolság a tükör mögött", "Virtuală, în sus, aceeași dimensiune ca obiectul, aceeași distanță în spatele oglinzii", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Konkavspiegei (concave mirror): Fokus und Funktion?", "Concave mirror: focal point and function?", "Homorú tükör: fókuszpont és funkció?", "Oglindă concavă: punct focal și funcție?", lang),
-      [
-        q4("Fokus vor Spiegel; sammelt paralleles Licht zu Fokus; verwendet in Teleskopen, Scheinwerfern", "Focal point in front; converges parallel rays; used in telescopes, headlights", "Fókuszpont előtte; párhuzamos sugarakat konvergál a fókuszba; teleszkópokban, fényszórókban használt", "Punct focal în față; converge raze paralele; folosit în telescoape, faruri", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Konvexspiegei (convex mirror): Fokus und Anwendung?", "Convex mirror: focal point and application?", "Domború tükör: fókuszpont és alkalmazás?", "Oglindă convexă: punct focal și aplicație?", lang),
-      [
-        q4("Fokus virtuell hinter Spiegel; divergiert Licht; großes Sichtfeld; verwendet in Rückspiegeln, Verkehrsspiegeln", "Focal point virtual behind; diverges rays; wide field; car mirrors, security mirrors", "Fókuszpont virtuális mögött; szétszórja a sugarakat; széles látótartomány; autó visszapillanó, forgalmi tükrök", "Punct focal virtual în spate; diverge raze; câmp larg; oglinzi retrovizoare, oglinzi de siguranță", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Spiegelgleichung: 1/f = 1/do + 1/di Erklärung?", "Mirror equation: 1/f = 1/do + 1/di explanation?", "Tükörlegyenlet: 1/f = 1/do + 1/di magyarázat?", "Ecuația oglinzii: 1/f = 1/do + 1/di explicație?", lang),
-      [
-        q4("f = brennweite, do = Objektentfernung, di = Bildenfernung; berechnet Bildposition und -größe", "f=focal length, do=object distance, di=image distance; calculates image position and size", "f = gyújtótávolság, do = objektum távolsága, di = kép távolsága; kép pozícióját és méretét számítja", "f = distanță focală, do = distanță obiect, di = distanță imagine; calculează poziția și dimensiunea imaginii", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Spiegelnde vs. diffuse Reflexion: Unterschied?", "Specular vs. diffuse reflection: difference?", "Tükrös vs. szórt visszaverődés: különbség?", "Reflexie speculară vs. difuză: diferență?", lang),
-      [
-        q4("Spiegelnde: glatte Oberfläche, paralleles Licht bleibt parallel, klares Bild (z.B. Spiegel); Diffuse: raue Oberfläche, Licht verteilt sich, kein klares Bild (z.B. Papier)", "Specular: smooth surface, parallel rays stay parallel, clear image (mirror); Diffuse: rough, scattered rays, no clear image (paper)", "Tükrös: sima felület, párhuzamos fény párhuzamos marad, tiszta kép (tükör); Szórt: durva, szóródott sugarak, nincs tiszta kép (papír)", "Speculară: suprafață netedă, raze paralele rămân paralele, imagine clară (oglindă); Difuză: aspră, raze dispersate, fără imagine clară (hârtie)", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Normalen und Winkel in Reflexion erklären?", "Normal and angles in reflection explained?", "Normális és szögek reflexióban magyarázva?", "Normal și unghiuri în reflexie explicate?", lang),
-      [
-        q4("Normalen = unsichtbare Linie senkrecht zur Spiegelfläche; Einfallswinkel und Reflexionswinkel gemessen von Normalen, nicht von Fläche", "Normal = imaginary line perpendicular to mirror surface; angles measured from normal, not surface", "Normális = egy tükörfelületre merőleges képzeletbeli vonal; szögek a normálistól mérve, nem a felületből", "Normală = linie imaginar perpendiculară pe suprafață; unghiuri măsurate de la normală, nu de la suprafață", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Konkavspiegei Bildkonstruktion bei verschiedenen Objektentfernungen?", "Concave mirror image construction at different object distances?", "Homorú tükör képkészítés különböző objektumtávolságoknál?", "Construcția imaginii oglinzii concave la diferite distanțe de obiecte?", lang),
-      [
-        q4("do > 2f: reell, invertiert, verkleiner; do = 2f: reell, invertiert, gleichgroß; f < do < 2f: reell, invertiert, vergrößert; do < f: virtuell, aufrecht, vergrößert", "do>2f: real, inverted, reduced; do=2f: real, inverted, equal; f<do<2f: real, inverted, enlarged; do<f: virtual, upright, enlarged", "do > 2f: valós, invertált, kicsinyített; do = 2f: valós, invertált, egyenlő; f < do < 2f: valós, invertált, nagyított; do < f: virtuális, felfelé, nagyított", "do>2f: real, inversat, micșorat; do=2f: real, inversat, egal; f<do<2f: real, inversat, mărit; do<f: virtual, în sus, mărit", lang),
-      ]
-    )
-  );
-
-  questions.push(
-    createTyping(
-      "optics",
-      "reflection",
-      q4("Periscop: Funktionsweise mit zwei Spiegeln?", "Periscope: how it works with two mirrors?", "Periszkóp: hogyan működik két tükörrel?", "Periscopul: cum funcționează cu două oglinzi?", lang),
-      [
-        q4("Zwei ebene Spiegel im 45° Winkel angeordnet; Licht von oben wird zwei Mal um 45° abgelenkt → Bild nach unten verlagert; erlaubt über Hindernisse schauen", "Two plane mirrors at 45° angles; light deflected twice by 45° → image displaced downward; allows seeing over obstacles", "Két sík tükör 45°-os szögben elrendezve; fény kétszer 45°-ban elhajlva → kép lefelé eltolva; lehetővé teszi az akadályok feletti nézést", "Două oglinzi plane la unghiuri de 45°; lumină deviată de două ori cu 45° → imagine deplasată în jos; permite a vedea peste obstacole", lang),
-      ]
-    )
-  );
-
-  return questions;
-}
-
-// ─── REFRACTION ───────────────────────────────────────────────────────────
-
-function generateRefractionMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
-  const rng = mulberry32(seed);
-  const questions: CurriculumMCQ[] = [];
-  for (let i = 0; i < 6; i++) {
-    questions.push(createMCQ("optics", "refraction", q4("Brechung tritt auf wenn Medium wechselt?", "Refraction when light changes medium?", "Fénytörés közegetváltáskor?", "Refracția când lumina schimbă mediul?", lang), q4("Ja, weil Lichtgeschwindigkeit sich ändert", "Yes, light speed changes", "Igen, fénysebessség megváltozik", "Da, viteza luminii se schimbă", lang), [q4("Nein", "No", "Nem", "Nu", lang)], rng));
-  }
-  for (let i = 0; i < 7; i++) {
-    questions.push(createMCQ("optics", "refraction", q4("Snells Gesetz: n₁sin(θ₁) = n₂sin(θ₂)?", "Snell's law: n₁sin(θ₁) = n₂sin(θ₂)?", "Snell törvénye: n₁sin(θ₁) = n₂sin(θ₂)?", "Legea lui Snell: n₁sin(θ₁) = n₂sin(θ₂)?", lang), q4("Ja, beschreibt Brechung", "Yes, describes refraction", "Igen, a fénytörést írja le", "Da, descrie refracția", lang), [q4("Nein", "No", "Nem", "Nu", lang)], rng));
-  }
-  for (let i = 0; i < 6; i++) {
-    const medium = pick([
-      { n: "1,00" }, { n: "1,33" }, { n: "1,5" }, { n: "2,4" }
-    ], rng);
-    questions.push(createMCQ("optics", "refraction", q4(`Brechungsindex?`, `Refractive index?`, `Törésindex?`, `Indice refracție?`, lang), q4(medium.n, medium.n, medium.n, medium.n, lang), [q4("0,5", "0.5", "0,5", "0,5", lang)], rng));
-  }
-  for (let i = 0; i < 7; i++) {
-    questions.push(createMCQ("optics", "refraction", q4("Totale innere Reflexion wenn?", "Total internal reflection when?", "Teljes visszaverődés amikor?", "Reflexie internă totală când?", lang), q4("Kritischer Winkel überschritten", "Critical angle exceeded", "Kritikus szög túllépve", "Unghi critic depășit", lang), [q4("Immer", "Always", "Mindig", "Întotdeauna", lang)], rng));
-  }
   for (let i = 0; i < 8; i++) {
-    questions.push(createMCQ("optics", "refraction", q4("Kritischer Winkel Definition?", "Critical angle definition?", "Kritikus szög meghatározása?", "Unghi critic definiție?", lang), q4("Winkel wo Licht 90° bricht", "Angle where light bends 90°", "Szög ahol fény 90°-ban hajlik", "Unghi unde lumina 90°", lang), [q4("Andere", "Other", "Más", "Altul", lang)], rng));
+    const ex = pick(examples, rng);
+    qs.push(createTyping(
+      "optics", "lenses_convex",
+      q4(
+        `Objekt bei ${ex.do}cm vor Linse (f=${ex.f}cm). Bildweite? Antwort in cm:`,
+        `Object at ${ex.do}cm from lens (f=${ex.f}cm). Image distance? Answer in cm:`,
+        `Tárgy ${ex.do}cm-re a lencsétől (f=${ex.f}cm). Képtávolság? Válasz cm-ben:`,
+        `Obiect la ${ex.do}cm de lentilă (f=${ex.f}cm). Distanța imaginii? Răspuns în cm:`,
+        lang
+      ),
+      ex.ans
+    ));
   }
-  return questions;
+
+  return qs;
 }
 
-function generateRefractionTyping(lang = "en", seed = 0): CurriculumTyping[] {
-  const questions: CurriculumTyping[] = [];
-  questions.push(createTyping("optics", "refraction", q4("Brechung Definition?", "Refraction definition?", "Fénytörés meghatározása?", "Refracție definiție?", lang), [
-    q4("Richtungswechsel Lichtstrahls beim Medienwechsel, Ursache: Lichtgeschwindigkeit ändert sich", "Light ray bends when changing medium, cause: light speed changes", "Fénysugár irányadása közegetváltáskor, ok: fénysebessség megváltozik", "Rază de lumină se îndoaie la schimbarea mediului, cauză: viteza luminii se schimbă", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Snells Gesetz Formel?", "Snell's law formula?", "Snell törvénye képlet?", "Legea lui Snell formulă?", lang), [
-    q4("n₁sin(θ₁) = n₂sin(θ₂) ahol n=brechungsindex, θ=winkel von normalen", "n₁sin(θ₁) = n₂sin(θ₂) where n=refractive index, θ=angle from normal", "n₁sin(θ₁) = n₂sin(θ₂) ahol n=törésindex, θ=szög a normálistól", "n₁sin(θ₁) = n₂sin(θ₂) unde n=indice refracție, θ=unghi de la normal", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Brechungsindex Beispiele?", "Refractive index examples?", "Törésindex példák?", "Indice refracție exemple?", lang), [
-    q4("Luft≈1,00, Wasser≈1,33, Glas≈1,5, Diamant≈2,4", "Air≈1.00, Water≈1.33, Glass≈1.5, Diamond≈2.4", "Levegő≈1,00, Víz≈1,33, Üveg≈1,5, Gyémánt≈2,4", "Aer≈1.00, Apă≈1.33, Sticlă≈1.5, Diamant≈2.4", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Totale innere Reflexion Bedingung?", "Total internal reflection condition?", "Teljes visszaverődés feltétele?", "Reflexie internă totală condiție?", lang), [
-    q4("Optisch dichter zu optisch weniger dicht UND Einfallswinkel > kritischer Winkel", "Denser to less dense medium AND angle > critical angle", "Sűrűbb → kevésbé sűrű közeg ÉS szög > kritikus szög", "Mediu mai dens → mai puțin dens ȘI unghi > unghi critic", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Kritischer Winkel Formel?", "Critical angle formula?", "Kritikus szög képlet?", "Unghi critic formulă?", lang), [
-    q4("θc = arcsin(n₂/n₁) gdzie n₂ < n₁ (optisch weniger dicht/denser)", "θc = arcsin(n₂/n₁) where n₂ < n₁", "θc = arcsin(n₂/n₁) ahol n₂ < n₁", "θc = arcsin(n₂/n₁) unde n₂ < n₁", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Mirage Erklärung?", "Mirage explanation?", "Mirage magyarázata?", "Mirage explicație?", lang), [
-    q4("Optische Täuschung durch Brechung in warmen Luftschichten; heisse Luft (niedrigerer n) unter kalter Luft → Totalreflexion → inverse Bilder", "Optical illusion from refraction in hot air layers; hot air (lower n) under cool → total reflection → inverted images", "Optikai illúzió a fénytöréstől meleg légrétegekben; meleg levegő (alacsonyabb n) hideg alatt → teljes visszaverődés", "Iluzie optică din refracție în straturi de aer cald; aer cald (n mic) sub aer rece → reflexie totală", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Dispersion in Prisma?", "Dispersion in prism?", "Diszperzió prizmában?", "Dispersie în prismă?", lang), [
-    q4("Különböző színeknek más törésindexei → különböző hajlási szögek → spektrum-felhasadás", "Different colors have different refractive indices → different bending angles → spectrum split", "Különböző szín másik törésmutató → más szög → spektrum felhasadás", "Culori diferite indici refracție diferiți → unghiuri diferite → despărțire spectru", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Lensenbrechung Konvex vs. Konkav?", "Lens refraction convex vs. concave?", "Lencse konvex vs. konkáv?", "Lentilă convexă vs. concavă?", lang), [
-    q4("Konvex: kifelé domborodik, közepen vastag, fényt gyűjti (szűkítő); Konkáv: befelé hajlott, középen vékony, fényt szórja (szétszóró)", "Convex: bulges out, thick middle, converges light; Concave: curves in, thin middle, diverges light", "Konvex: kifelé, közepen vastag, fényt gyűjti; Konkáv: befelé, közepen vékony, szórja", "Convexă: bulge-ază, groasă la mijloc, converge lumina; Concavă: curbe-ază, subțire, dispersează", lang),
-  ]));
-  questions.push(createTyping("optics", "refraction", q4("Lensenhiba Kromatische Aberration?", "Lens error chromatic aberration?", "Lencsehiba kromatikus aberráció?", "Eroare lentilă aberație cromatică?", lang), [
-    q4("Različite boje fokusiraju se na različite točke (zbog disperzije); čini se: obojene fringe na slikama", "Different colors focus at different points (due to dispersion); effect: colored fringes on images", "Különböző színek a különböző pontokra fókuszálódnak (diszperzió miatt); hatás: szín szegélyek a képeken", "Culori diferite se focalizează în puncte diferite (din cauza dispersiei); efect: franje colorate pe imagini", lang),
-  ]));
-  return questions;
+// ─── LENSES: CONCAVE ───────────────────────────────────────────────────────
+
+function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const qs: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 7; i++) {
+    const idx = i % 5;
+    if (idx === 0) {
+      qs.push(createMCQ(
+        "optics", "lenses_concave",
+        q4(
+          "Welche Linsenform ist konkav (Zerstreuungslinse)?",
+          "Which lens shape is concave (diverging lens)?",
+          "Melyik lencseforma konkáv (szórólencsе)?",
+          "Care formă de lentilă este concavă (lentilă divergentă)?",
+          lang
+        ),
+        q4("Nach innen gewölbt", "Caved inward", "Befelé domborodó", "Concavă spre interior", lang),
+        [
+          q4("Nach außen gewölbt", "Bulging outward", "Kifelé domborodó", "Bombată spre exterior", lang),
+          q4("Flach", "Flat", "Lapos", "Plană", lang),
+          q4("Sphärisch", "Spherical", "Gömb alakú", "Sferică", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 1) {
+      qs.push(createMCQ(
+        "optics", "lenses_concave",
+        q4(
+          "Eine Zerstreuungslinse erzeugt immer welche Art von Bild?",
+          "A diverging lens always produces what type of image?",
+          "Egy szórólencsе mindig milyen képet hoz létre?",
+          "O lentilă divergentă produce întotdeauna ce tip de imagine?",
+          lang
+        ),
+        q4("Virtuell, aufrecht, verkleinert", "Virtual, upright, reduced", "Virtuális, felfelé fordított, csökkentett", "Virtuală, dreaptă, redusă", lang),
+        [
+          q4("Reell, umgekehrt, vergrößert", "Real, inverted, magnified", "Valódi, fordított, nagyított", "Reală, inversată, mărită", lang),
+          q4("Reell, aufrecht, verkleinert", "Real, upright, reduced", "Valódi, felfelé fordított, csökkentett", "Reală, dreaptă, redusă", lang),
+          q4("Virtuell, umgekehrt, vergrößert", "Virtual, inverted, enlarged", "Virtuális, fordított, nagyított", "Virtuală, inversată, mărită", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 2) {
+      qs.push(createMCQ(
+        "optics", "lenses_concave",
+        q4(
+          "Wie ist das Vorzeichen der Brennweite einer Zerstreuungslinse?",
+          "What is the sign of focal length for a diverging lens?",
+          "Mi a szórólencsе gyújtótávolságának előjele?",
+          "Care este semnul lungimii focale a unei lentile divergente?",
+          lang
+        ),
+        q4("Negativ", "Negative", "Negatív", "Negativ", lang),
+        [
+          q4("Positiv", "Positive", "Pozitív", "Pozitiv", lang),
+          q4("Null", "Zero", "Nulla", "Zero", lang),
+          q4("Komplex", "Complex", "Komplex", "Complex", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 3) {
+      qs.push(createMCQ(
+        "optics", "lenses_concave",
+        q4(
+          "Warum werden Zerstreuungslinsen in Brillen für Kurzsichtigkeit verwendet?",
+          "Why are diverging lenses used in glasses for myopia (shortsightedness)?",
+          "Miért használnak szórólencsét rövidlátás korrekciójához?",
+          "De ce se folosesc lentile divergente în ochelari pentru miopie?",
+          lang
+        ),
+        q4("Sie verringern die Brechkraft der Augen", "They reduce eye focusing power", "Csökkentik a szem fénytörő képességét", "Ele reduc puterea de focalizare a ochilor", lang),
+        [
+          q4("Sie verstärken die Augenmuskulatur", "They strengthen eye muscles", "Erősítik a szem izmait", "Ele întăresc mușchii ochilor", lang),
+          q4("Sie heilen Astigmatismus", "They cure astigmatism", "Gyógyítják az astigmatizmust", "Vindecă astigmatismul", lang),
+          q4("Sie vergrößern die Pupillen", "They enlarge pupils", "Megverőítik a pupillákat", "Ele măresc pupilele", lang),
+        ],
+        rng
+      ));
+    } else {
+      qs.push(createMCQ(
+        "optics", "lenses_concave",
+        q4(
+          "Die Linsenmacher bezeichnen Zerstreuungslinsen oft als negativ oder minus. Warum?",
+          "Lens makers often call diverging lenses negative or minus. Why?",
+          "Az lencsekészítők a szórólencseket gyakran negatívnak vagy minusznak hívják. Miért?",
+          "Producătorii de lentile numesc adesea lentilele divergente negative sau minus. De ce?",
+          lang
+        ),
+        q4("Weil ihre Brennweite negativ ist", "Because their focal length is negative", "Mert a gyújtótávolságuk negatív", "Pentru că lungimea lor focală este negativă", lang),
+        [
+          q4("Weil sie Licht absorbieren", "Because they absorb light", "Mert felszívják a fényt", "Pentru că absorb lumina", lang),
+          q4("Weil sie Licht streuen", "Because they scatter light", "Mert szóródnak a fényt", "Pentru că împrăștie lumina", lang),
+          q4("Weil sie dunkel gefärbt sind", "Because they are dark colored", "Mert sötéten vannak festve", "Pentru că sunt colorate în negru", lang),
+        ],
+        rng
+      ));
+    }
+  }
+
+  return qs;
 }
 
-// ─── EXPORT ────────────────────────────────────────────────────────────────
+function generateConcaveLensTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const rng = mulberry32(seed + 2000);
+  const qs: CurriculumTyping[] = [];
+
+  for (let i = 0; i < 8; i++) {
+    const f = -(5 + Math.floor(rng() * 20));
+    qs.push(createTyping(
+      "optics", "lenses_concave",
+      q4(
+        `Zerstreuungslinse mit f=${f}cm. Brennweite negativ? (ja/nein)`,
+        `Diverging lens with f=${f}cm. Is focal length negative? (yes/no)`,
+        `Szórólencsе f=${f}cm-vel. Gyújtótávolság negatív? (igen/nem)`,
+        `Lentilă divergentă cu f=${f}cm. Lungimea focală este negativă? (da/nu)`,
+        lang
+      ),
+      ["ja", "yes", "igen", "da"]
+    ));
+  }
+
+  return qs;
+}
+
+// ─── IMAGE FORMATION ───────────────────────────────────────────────────────
+
+function generateImageFormationMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const qs: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 7; i++) {
+    const idx = i % 5;
+    if (idx === 0) {
+      qs.push(createMCQ(
+        "optics", "image_formation",
+        q4(
+          "Wie heißt das Verhältnis von Bildgröße zu Objektgröße?",
+          "What is the ratio of image size to object size called?",
+          "A kép és a tárgy méretének aránya hogyan hívják?",
+          "Cum se numește raportul dintre dimensiunea imaginii și dimensiunea obiectului?",
+          lang
+        ),
+        q4("Vergrößerung / Magnification", "Magnification", "Nagyítás / Magnification", "Mărire / Magnification", lang),
+        [
+          q4("Brechung", "Refraction", "Fénytörés", "Refracție", lang),
+          q4("Reflexion", "Reflection", "Visszaverődés", "Reflexie", lang),
+          q4("Dispersion", "Dispersion", "Diszperzió", "Dispersie", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 1) {
+      qs.push(createMCQ(
+        "optics", "image_formation",
+        q4(
+          "Welche Bedingung führt zu einem reellen, umgekehrten Bild bei einer Sammellinse?",
+          "What condition produces a real, inverted image with a converging lens?",
+          "Milyen feltétel hoz létre valódi, fordított képet gyűjtőlencséve?",
+          "Ce condiție produce o imagine reală, inversată cu o lentilă convergentă?",
+          lang
+        ),
+        q4("Objekt außerhalb von 2f", "Object beyond 2f", "Tárgy a 2f-en kívül", "Obiect dincolo de 2f", lang),
+        [
+          q4("Objekt zwischen f und 2f", "Object between f and 2f", "Tárgy f és 2f között", "Obiect între f și 2f", lang),
+          q4("Objekt in f", "Object at f", "Tárgy az f-ben", "Obiect la f", lang),
+          q4("Objekt vor f", "Object before f", "Tárgy az f előtt", "Obiect înaintea f", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 2) {
+      qs.push(createMCQ(
+        "optics", "image_formation",
+        q4(
+          "Die Magnification ist -2. Was bedeutet das Minuszeichen?",
+          "The magnification is -2. What does the negative sign mean?",
+          "A nagyítás -2. Mit jelent a mínusz jel?",
+          "Mărirea este -2. Ce înseamnă semnul negativ?",
+          lang
+        ),
+        q4("Das Bild ist umgekehrt", "The image is inverted", "A kép fordított", "Imaginea este inversată", lang),
+        [
+          q4("Das Bild ist halb so groß", "The image is half as large", "A kép fele olyan nagy", "Imaginea este jumătate din mărime", lang),
+          q4("Das Bild ist virtuell", "The image is virtual", "A kép virtuális", "Imaginea este virtuală", lang),
+          q4("Das Licht wird absorbiert", "Light is absorbed", "A fény felszívódik", "Lumina este absorbită", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 3) {
+      qs.push(createMCQ(
+        "optics", "image_formation",
+        q4(
+          "Bei einer Zerstreuungslinse entstehen nur welche Art von Bildern?",
+          "With a diverging lens, only what type of images are formed?",
+          "Szórólencsénél csak milyen típusú képek keletkeznek?",
+          "Cu o lentilă divergentă, se formează doar ce tip de imagini?",
+          lang
+        ),
+        q4("Virtuelle, aufrechte, verkleinerte", "Virtual, upright, reduced", "Virtuális, felfelé fordított, csökkentett", "Virtuale, drepte, reduse", lang),
+        [
+          q4("Reelle und virtuelle", "Real and virtual", "Valódi és virtuális", "Reale și virtuale", lang),
+          q4("Reelle, umgekehrte, vergrößerte", "Real, inverted, magnified", "Valódi, fordított, nagyított", "Reale, inverse, mărite", lang),
+          q4("Nur reelle", "Only real", "Csak valódi", "Doar reale", lang),
+        ],
+        rng
+      ));
+    } else {
+      qs.push(createMCQ(
+        "optics", "image_formation",
+        q4(
+          "Die Vergrößerung M = di/do. Wenn di = do, dann M = ?",
+          "Magnification M = di/do. If di = do, then M = ?",
+          "Nagyítás M = di/do. Ha di = do, akkor M = ?",
+          "Mărire M = di/do. Dacă di = do, atunci M = ?",
+          lang
+        ),
+        q4("1", "1", "1", "1", lang),
+        [
+          q4("2", "2", "2", "2", lang),
+          q4("0", "0", "0", "0", lang),
+          q4("-1", "-1", "-1", "-1", lang),
+        ],
+        rng
+      ));
+    }
+  }
+
+  return qs;
+}
+
+function generateImageFormationTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const qs: CurriculumTyping[] = [];
+
+  for (let i = 0; i < 8; i++) {
+    qs.push(createTyping(
+      "optics", "image_formation",
+      q4(
+        `Bild ist real, umgekehrt. Welche Linse? (konvex/konkav)`,
+        `Image is real, inverted. What lens type? (convex/concave)`,
+        `A kép valódi, fordított. Milyen lencsétípus? (konvex/konkáv)`,
+        `Imaginea este reală, inversată. Ce tip de lentilă? (convexă/concavă)`,
+        lang
+      ),
+      ["konvex", "convex", "konvex", "convexă"]
+    ));
+  }
+
+  return qs;
+}
+
+// ─── EYE OPTICS ───────────────────────────────────────────────────────────
+
+function generateEyeOpticsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const qs: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 7; i++) {
+    const idx = i % 5;
+    if (idx === 0) {
+      qs.push(createMCQ(
+        "optics", "eye_optics",
+        q4(
+          "Das Auge ist optisch ähnlich wie welches optisches Gerät?",
+          "The eye is optically similar to which optical device?",
+          "A szem optikai szempontból milyen eszközhöz hasonló?",
+          "Ochiul este optic similar cu ce dispozitiv optic?",
+          lang
+        ),
+        q4("Eine Kamera", "A camera", "Egy fényképezőgép", "O cameră", lang),
+        [
+          q4("Ein Mikroskop", "A microscope", "Egy mikroszkóp", "Un microscop", lang),
+          q4("Ein Teleskop", "A telescope", "Egy távcső", "Un telescop", lang),
+          q4("Eine Lupe", "A magnifying glass", "Egy nagyító", "O lupă", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 1) {
+      qs.push(createMCQ(
+        "optics", "eye_optics",
+        q4(
+          "Welcher Teil des Auges stellt das Licht scharf ein (fokussiert)?",
+          "Which part of the eye adjusts focus (focusing)?",
+          "A szem melyik része állítja be a fókuszt?",
+          "Ce parte a ochiului ajustează focalizarea?",
+          lang
+        ),
+        q4("Die Linse / Crystalline lens", "The lens", "A lencse", "Cristalinul", lang),
+        [
+          q4("Die Hornhaut / Cornea", "The cornea", "A szaruhártya", "Cornea", lang),
+          q4("Die Netzhaut / Retina", "The retina", "A retina", "Retina", lang),
+          q4("Die Iris", "The iris", "Az írisz", "Iris", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 2) {
+      qs.push(createMCQ(
+        "optics", "eye_optics",
+        q4(
+          "Bei Kurzsichtigkeit können Nahgegenstände scharf gesehen werden, aber Fernobjekte sind verschwommen. Wo fokussiert das Licht?",
+          "In myopia (shortsightedness), near objects are clear but distant objects blur. Where does light focus?",
+          "Rövidlátásban a közeli tárgyak élesek, de a távoli elmosódottak. Hol fókuszálódik a fény?",
+          "La miopie, obiectele apropiate sunt clare, dar cele îndepărtate sunt neclar. Unde se focalizează lumina?",
+          lang
+        ),
+        q4("Vor der Netzhaut", "In front of retina", "A retina előtt", "Înainte de retină", lang),
+        [
+          q4("Auf der Netzhaut", "On the retina", "A retinán", "Pe retină", lang),
+          q4("Hinter der Netzhaut", "Behind retina", "A retina mögött", "În spatele retinei", lang),
+          q4("In der Linse", "In the lens", "A lencséban", "În cristaldin", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 3) {
+      qs.push(createMCQ(
+        "optics", "eye_optics",
+        q4(
+          "Wie wird Weitsichtigkeit (Hyperopie) korrigiert?",
+          "How is farsightedness (hyperopia) corrected?",
+          "Hogyan korrigálják a távollátást?",
+          "Cum se corectează prezbiopia (hipermetropia)?",
+          lang
+        ),
+        q4("Mit Sammellinsen (Plus)", "With converging lenses (Plus)", "Gyűjtőlencsékkel (Plus)", "Cu lentile convergente (Plus)", lang),
+        [
+          q4("Mit Zerstreuungslinsen (Minus)", "With diverging lenses (Minus)", "Szórólencsékkel (Minus)", "Cu lentile divergente (Minus)", lang),
+          q4("Mit Zylinderlinsen", "With cylindrical lenses", "Hengeres lencsékkel", "Cu lentile cilindrice", lang),
+          q4("Sie wird nicht korrigiert", "It is not corrected", "Nem korrigálható", "Nu se corectează", lang),
+        ],
+        rng
+      ));
+    } else {
+      qs.push(createMCQ(
+        "optics", "eye_optics",
+        q4(
+          "Die Pupille kontrahiert und dilatiert, um was zu kontrollieren?",
+          "The pupil contracts and dilates to control what?",
+          "A pupilla összehúzódik és tágul, hogy mit szabályozzon?",
+          "Pupila se contractă și se dilatează pentru a controla ce?",
+          lang
+        ),
+        q4("Die Lichtmenge im Auge", "The amount of light entering", "A szemen keresztülható fénymennyi", "Cantitatea de lumină care intră", lang),
+        [
+          q4("Die Fokussierfähigkeit", "The focusing ability", "A fókuszáló képességet", "Capacitatea de focalizare", lang),
+          q4("Die Farberkennung", "Color perception", "A szín felismerést", "Percepția culorilor", lang),
+          q4("Die Bewegung des Auges", "Eye movement", "A szem mozgását", "Mișcarea ochilor", lang),
+        ],
+        rng
+      ));
+    }
+  }
+
+  return qs;
+}
+
+function generateEyeOpticsTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const qs: CurriculumTyping[] = [];
+
+  for (let i = 0; i < 8; i++) {
+    const condition = pick(["Myopie / Myopia", "Hyperopie / Hyperopia", "Astigmatismus / Astigmatism", "Presbyopie / Presbyopia"], mulberry32(seed + i));
+    qs.push(createTyping(
+      "optics", "eye_optics",
+      q4(
+        `Auge fokussiert Licht vor der Netzhaut. Welche Sehstörung? (Myopia/Hyperopia/...)`,
+        `Eye focuses light in front of retina. Which vision defect? (Myopia/Hyperopia/...)`,
+        `A szem a retina előtt fókuszálja a fényt. Milyen látáshiba? (Myopia/Hyperopia/...)`,
+        `Ochiul focalizează lumina în fața retinei. Ce defect de vedere? (Myopia/Hyperopia/...)`,
+        lang
+      ),
+      ["Myopia", "Myopie", "myopia", "miopie"]
+    ));
+  }
+
+  return qs;
+}
+
+// ─── OPTICAL INSTRUMENTS ──────────────────────────────────────────────────
+
+function generateOpticalInstrumentsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
+  const rng = mulberry32(seed);
+  const qs: CurriculumMCQ[] = [];
+
+  for (let i = 0; i < 7; i++) {
+    const idx = i % 5;
+    if (idx === 0) {
+      qs.push(createMCQ(
+        "optics", "optical_instruments",
+        q4(
+          "Ein Mikroskop besteht aus einer Objektiv- und einer Okularlinse. Wie sind sie angeordnet?",
+          "A microscope has objective and eyepiece lenses. How are they arranged?",
+          "Egy mikroszkóp objektív és okulár lencsékből áll. Hogyan vannak elrendezve?",
+          "Un microscop are lentile obiectiv și ocular. Cum sunt dispuse?",
+          lang
+        ),
+        q4("Beide Sammellinsen in Serie", "Both converging lenses in series", "Mindkét gyűjtőlencsе sorban", "Ambele lentile convergente în serie", lang),
+        [
+          q4("Eine Sammel-, eine Zerstreuungslinse", "One converging, one diverging", "Egy gyűjtő-, egy szórólencse", "Una convergentă, una divergentă", lang),
+          q4("Beide Zerstreuungslinsen", "Both diverging lenses", "Mindkét szórólencse", "Ambele lentile divergente", lang),
+          q4("Parallel angeordnet", "Arranged in parallel", "Párhuzamosan elrendezve", "Aranjate în paralel", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 1) {
+      qs.push(createMCQ(
+        "optics", "optical_instruments",
+        q4(
+          "Die Vergrößerung eines Mikroskops ist das Produkt zweier Vergrößerungen. Welcher zwei?",
+          "The magnification of a microscope is the product of two magnifications. Which two?",
+          "A mikroszkóp nagyítása két nagyítás szorzata. Melyik kettő?",
+          "Mărirea unui microscop este produsul a două măriri. Care sunt acelea?",
+          lang
+        ),
+        q4("Objektiv × Okular", "Objective × Eyepiece", "Objektív × Okulár", "Obiectiv × Ocular", lang),
+        [
+          q4("Objektiv + Okular", "Objective + Eyepiece", "Objektív + Okulár", "Obiectiv + Ocular", lang),
+          q4("Objektiv / Okular", "Objective / Eyepiece", "Objektív / Okulár", "Obiectiv / Ocular", lang),
+          q4("Okular / Objektiv", "Eyepiece / Objective", "Okulár / Objektív", "Ocular / Obiectiv", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 2) {
+      qs.push(createMCQ(
+        "optics", "optical_instruments",
+        q4(
+          "Ein Teleskop für die Beobachtung von Objekten im Weltall besteht aus welchen Linsentypen?",
+          "A telescope for observing objects in space consists of what lens types?",
+          "A távcsé az űr megfigyelésére milyen lencsétípusokból áll?",
+          "Un telescop pentru observarea obiectelor din spațiu este format din ce tipuri de lentile?",
+          lang
+        ),
+        q4("Große Objektivlinse + kleine Okularlinse (beide konvex)", "Large objective + small eyepiece (both convex)", "Nagy objektív + kis okulár (mindkettő konvex)", "Obiectiv mare + ocular mic (ambele convexe)", lang),
+        [
+          q4("Beide konkav", "Both concave", "Mindkettő konkáv", "Ambele concave", lang),
+          q4("Konkave Objektiv-, konvexe Okularlinse", "Concave objective, convex eyepiece", "Konkáv objektív, konvex okulár", "Obiectiv concav, ocular convex", lang),
+          q4("Eine Linse + ein Spiegel", "One lens + one mirror", "Egy lencse + egy tükör", "O lentilă + o oglindă", lang),
+        ],
+        rng
+      ));
+    } else if (idx === 3) {
+      qs.push(createMCQ(
+        "optics", "optical_instruments",
+        q4(
+          "Die Brennweite der Okularlinse eines Teleskops ist kurz. Was folgt daraus für die Vergrößerung?",
+          "The focal length of a telescope's eyepiece is short. What does this imply for magnification?",
+          "A távcső okulárjának gyújtótávolsága rövid. Mit jelent ez a nagyításra?",
+          "Lungimea focală a ocularului telescopului este scurtă. Ce implică aceasta pentru mărire?",
+          lang
+        ),
+        q4("Höhere Vergrößerung", "Higher magnification", "Magasabb nagyítás", "Mărire mai mare", lang),
+        [
+          q4("Niedrigere Vergrößerung", "Lower magnification", "Alacsonyabb nagyítás", "Mărire mai mică", lang),
+          q4("Keine Auswirkung", "No effect", "Nincs hatás", "Fără efect", lang),
+          q4("Schlechtere Bildqualität", "Worse image quality", "Rosszabb képminőség", "Calitate imagine mai slabă", lang),
+        ],
+        rng
+      ));
+    } else {
+      qs.push(createMCQ(
+        "optics", "optical_instruments",
+        q4(
+          "Welches optische Instrument wird verwendet, um kleine Gegenstände zu vergrößern?",
+          "Which optical instrument is used to magnify small objects?",
+          "Melyik optikai eszközt használnak a kis tárgyak nagyításához?",
+          "Ce instrument optic se folosește pentru a mări obiectele mici?",
+          lang
+        ),
+        q4("Lupe / Magnifying glass", "Magnifying glass", "Nagyító / Lupe", "Lupă", lang),
+        [
+          q4("Teleskop", "Telescope", "Távcső", "Telescop", lang),
+          q4("Brille", "Glasses", "Szemüveg", "Ochelari", lang),
+          q4("Prisma", "Prism", "Prizma", "Prismă", lang),
+        ],
+        rng
+      ));
+    }
+  }
+
+  return qs;
+}
+
+function generateOpticalInstrumentsTyping(lang = "en", seed = 0): CurriculumTyping[] {
+  const qs: CurriculumTyping[] = [];
+
+  const instruments = ["Mikroskop / Microscope", "Teleskop / Telescope", "Lupe / Magnifying glass", "Prismenglas / Prism binoculars"];
+
+  for (let i = 0; i < 8; i++) {
+    const instr = pick(instruments, mulberry32(seed + i));
+    qs.push(createTyping(
+      "optics", "optical_instruments",
+      q4(
+        `Verwendet Objektiv- und Okularlinsen zur Vergrößerung. Welches Instrument? (Mikroskop/Teleskop)`,
+        `Uses objective and eyepiece lenses for magnification. Which instrument? (Microscope/Telescope)`,
+        `Objektív és okulár lencséket használ nagyításhoz. Melyik eszköz? (Mikroszkóp/Távcső)`,
+        `Folosește lentile obiectiv și ocular pentru mărire. Ce instrument? (Microscop/Telescop)`,
+        lang
+      ),
+      ["Mikroskop", "Microscope", "microscope", "microscop"]
+    ));
+  }
+
+  return qs;
+}
+
+// ─── EXPORT ALL GENERATORS ────────────────────────────────────────────────
 
 export const K7_OPTICS_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
-  light: (lang = "en", seed = 0) => [...generateLightMCQ(lang, seed), ...generateLightTyping(lang, seed)],
-  light_mcq: (lang = "en", seed = 0) => generateLightMCQ(lang, seed),
-  light_typing: (lang = "en", seed = 0) => generateLightTyping(lang, seed),
+  // Convex lenses
+  lenses_convex: (lang = "en", seed = 0) => [...generateConvexLensMCQ(lang, seed), ...generateConvexLensTyping(lang, seed)],
+  lenses_convex_mcq: (lang = "en", seed = 0) => generateConvexLensMCQ(lang, seed),
+  lenses_convex_typing: (lang = "en", seed = 0) => generateConvexLensTyping(lang, seed),
 
-  reflection: (lang = "en", seed = 0) => [...generateReflectionMCQ(lang, seed), ...generateReflectionTyping(lang, seed)],
-  reflection_mcq: (lang = "en", seed = 0) => generateReflectionMCQ(lang, seed),
-  reflection_typing: (lang = "en", seed = 0) => generateReflectionTyping(lang, seed),
+  // Concave lenses
+  lenses_concave: (lang = "en", seed = 0) => [...generateConcaveLensMCQ(lang, seed), ...generateConcaveLensTyping(lang, seed)],
+  lenses_concave_mcq: (lang = "en", seed = 0) => generateConcaveLensMCQ(lang, seed),
+  lenses_concave_typing: (lang = "en", seed = 0) => generateConcaveLensTyping(lang, seed),
 
-  refraction: (lang = "en", seed = 0) => [...generateRefractionMCQ(lang, seed), ...generateRefractionTyping(lang, seed)],
-  refraction_mcq: (lang = "en", seed = 0) => generateRefractionMCQ(lang, seed),
-  refraction_typing: (lang = "en", seed = 0) => generateRefractionTyping(lang, seed),
+  // Image formation
+  image_formation: (lang = "en", seed = 0) => [...generateImageFormationMCQ(lang, seed), ...generateImageFormationTyping(lang, seed)],
+  image_formation_mcq: (lang = "en", seed = 0) => generateImageFormationMCQ(lang, seed),
+  image_formation_typing: (lang = "en", seed = 0) => generateImageFormationTyping(lang, seed),
+
+  // Eye optics
+  eye_optics: (lang = "en", seed = 0) => [...generateEyeOpticsMCQ(lang, seed), ...generateEyeOpticsTyping(lang, seed)],
+  eye_optics_mcq: (lang = "en", seed = 0) => generateEyeOpticsMCQ(lang, seed),
+  eye_optics_typing: (lang = "en", seed = 0) => generateEyeOpticsTyping(lang, seed),
+
+  // Optical instruments
+  optical_instruments: (lang = "en", seed = 0) => [...generateOpticalInstrumentsMCQ(lang, seed), ...generateOpticalInstrumentsTyping(lang, seed)],
+  optical_instruments_mcq: (lang = "en", seed = 0) => generateOpticalInstrumentsMCQ(lang, seed),
+  optical_instruments_typing: (lang = "en", seed = 0) => generateOpticalInstrumentsTyping(lang, seed),
 };
