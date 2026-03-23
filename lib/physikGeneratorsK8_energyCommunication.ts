@@ -74,8 +74,8 @@ function generateRenewableEnergyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Szélenergia: Turbina Működés?", "Wind energy: turbine operation?", "Szélenergia: turbina működés?", "Energie eolian: turbină funcționare?", lang),
       q4("Szél forgat turbinát → generátor → elektromos áram; átlagos szélsebesség 10-15 m/s optimális", "Wind rotates turbine → generator → electricity; average 10-15 m/s optimal", "Szél forgat turbinát → generátor → elektromos áram; 10-15 m/s optimális", "Vânt rotește turbină → generator → curent electric; 10-15 m/s optim", lang),
       [q4("Nem működik változó szélben", "Doesn't work with variable wind", "Nem működik változó szélben", "Nu funcționează cu vânt variabil", lang),
-       q4("Hôtermelés", "Heat generation", "Hôtermelés", "Generare căldură", lang),
-       q4("Mérgez a levegõt", "Poisons air", "Mérgez a levegõt", "Otrăvește aer", lang)], rng));
+       q4("Hőtermelés", "Heat generation", "Hőtermelés", "Generare căldură", lang),
+       q4("Mérgezi a levegőt", "Poisons air", "Mérgezi a levegőt", "Otrăvește aer", lang)], rng));
   }
 
   for (let i = 0; i < 7; i++) {
@@ -84,7 +84,7 @@ function generateRenewableEnergyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Duzzasztógát tározót képez → vízesés → turbinát forgatja → generátor; 100 MWatt+ nagy erômûvek", "Dam creates reservoir → waterfall → rotates turbine → generator; 100+ MW large plants", "Duzzasztógát tározót képez → vízesés → turbina → generátor; 100+ MW", "Baraj creeazǎ rezervor → cădere apă → turbină → generator; 100+ MW", lang),
       [q4("Nincs szükség vízesésre", "No waterfall needed", "Nincs vízesés", "Fără cădere apă", lang),
        q4("Szél hajtja", "Wind driven", "Szél hajtja", "Condus de vânt", lang),
-       q4("Hôbevitel kell", "Heat input needed", "Hôbevitel kell", "Intrare căldură", lang)], rng));
+       q4("Hőbevitel kell", "Heat input needed", "Hőbevitel kell", "Intrare căldură", lang)], rng));
   }
 
   return qs;
@@ -105,10 +105,10 @@ function generateEnergyEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("energy_comm", "energy_efficiency",
-      q4("Hôleadás (Heat loss) vs Hasznos Munka?", "Heat loss vs useful work?", "Hôleadás vs hasznos munka?", "Pierdere căldură vs lucru util?", lang),
-      q4("Legtöbb eszköz hôt termel; motor: ~35% munka, ~65% hô; LED: ~85% fény, ~15% hô", "Most devices produce heat; motors: ~35% work, ~65% heat; LED: ~85% light, ~15% heat", "Legtöbb eszköz hôt termel; motor: ~35% munka, ~65% hô; LED: ~85% fény", "Majoritatea dispozitivelor produc căldură; motor: ~35% lucru, ~65% căldură; LED: ~85% lumină", lang),
-      [q4("Nincs hôleadás ideális motorban", "No heat loss ideal motor", "Nincs hôleadás", "Fără pierdere căldură", lang),
-       q4("Összes munka hô", "All work is heat", "Összes munka hô", "Tot lucrul este căldură", lang),
+      q4("Hőleadás (Heat loss) vs Hasznos Munka?", "Heat loss vs useful work?", "Hőleadás vs hasznos munka?", "Pierdere căldură vs lucru util?", lang),
+      q4("Legtöbb eszköz hőt termel; motor: ~35% munka, ~65% hő; LED: ~85% fény, ~15% hő", "Most devices produce heat; motors: ~35% work, ~65% heat; LED: ~85% light, ~15% heat", "Legtöbb eszköz hőt termel; motor: ~35% munka, ~65% hő; LED: ~85% fény", "Majoritatea dispozitivelor produc căldură; motor: ~35% lucru, ~65% căldură; LED: ~85% lumină", lang),
+      [q4("Nincs hőleadás ideális motorban", "No heat loss ideal motor", "Nincs hőleadás", "Fără pierdere căldură", lang),
+       q4("Összes munka hő", "All work is heat", "Összes munka hő", "Tot lucrul este căldură", lang),
        q4("Nincsen hasznosítható", "Nothing useful", "Nincs hasznos", "Nimic util", lang)], rng));
   }
 
@@ -140,8 +140,8 @@ function generateClimateChangeMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("energy_comm", "climate_change",
       q4("Üvegházhatás (Greenhouse effect)?", "Greenhouse effect?", "Üvegházhatás?", "Efect seră?", lang),
-      q4("CO₂, CH₄, H₂O, N₂O gázok visszatartják a hôsugárzást → bolygó felület melegszik", "CO₂, CH₄, H₂O, N₂O trap heat radiation → planet surface warms", "CO₂, CH₄, H₂O, N₂O gázok visszatartják a hô → bolygó melegszik", "CO₂, CH₄, H₂O, N₂O rețin radiația termică → suprafață planetă se încălzește", lang),
-      [q4("Nincsen hômelegítés", "No heat trapping", "Nincsen hômelegítés", "Fără reținere căldură", lang),
+      q4("CO₂, CH₄, H₂O, N₂O gázok visszatartják a hősugárzást → bolygó felület melegszik", "CO₂, CH₄, H₂O, N₂O trap heat radiation → planet surface warms", "CO₂, CH₄, H₂O, N₂O gázok visszatartják a hő → bolygó melegszik", "CO₂, CH₄, H₂O, N₂O rețin radiația termică → suprafață planetă se încălzește", lang),
+      [q4("Nincsen hőmelegítés", "No heat trapping", "Nincsen hőmelegítés", "Fără reținere căldură", lang),
        q4("Lehûlés okoznak", "Causes cooling", "Lehûlés okoznak", "Cauze răcire", lang),
        q4("Levegô nem jelent", "Air not relevant", "Levegô nem jelent", "Aer nu e relevant", lang)], rng));
   }
@@ -230,7 +230,7 @@ function generateRadioTVWirelessMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 5; i++) {
     qs.push(createMCQ("energy_comm", "radio_tv_wireless",
       q4("WiFi & Bluetooth frekvencia?", "WiFi & Bluetooth frequency?", "WiFi & Bluetooth frekvencia?", "WiFi & Bluetooth frecvență?", lang),
-      q4("Mindkettô 2,4 GHz sávban (ISM); WiFi: nagyobb sávszélesség (típikus 54 Mbps), bluetooth: közelebb (10m)", "Both 2.4 GHz band (ISM); WiFi: wider bandwidth (54 Mbps typ), Bluetooth: closer (10m range)", "Mindkettô 2,4 GHz sávban; WiFi: szélesebb sávszélesség, Bluetooth: közelebbi", "Ambele 2,4 GHz bandă (ISM); WiFi: lărgime bandă mai largă (54 Mbps), Bluetooth: mai aproape", lang),
+      q4("Mindkettő 2,4 GHz sávban (ISM); WiFi: nagyobb sávszélesség (típikus 54 Mbps), Bluetooth: rövidebb hatótáv (~10m)", "Both 2.4 GHz band (ISM); WiFi: wider bandwidth (54 Mbps typ), Bluetooth: shorter range (~10m)", "Mindkettő 2,4 GHz sávban; WiFi: szélesebb sávszélesség, Bluetooth: rövidebb hatótáv", "Ambele 2,4 GHz bandă (ISM); WiFi: lărgime bandă mai largă (54 Mbps), Bluetooth: rază mai scurtă", lang),
       [q4("WiFi csak", "WiFi only", "WiFi csak", "Doar WiFi", lang),
        q4("Eltérô sávok", "Different bands", "Eltérô sávok", "Benzi diferite", lang),
        q4("Nincs frekvencia", "No frequency", "Nincs frekvencia", "Fără frecvență", lang)], rng));
