@@ -249,3 +249,7 @@ export function calculatePhysikMark(pct: number): TestGradeMark {
   if (pct >= 25) return { note: "5", label: "Mangelhaft",  color: "#FF6B00", emoji: "😅" };
   return             { note: "6", label: "Ungenügend",     color: "#FF4444", emoji: "😟" };
 }
+
+// ─── AUTO-INITIALIZE GENERATORS ──────────────────────────────────────────
+// This import triggers setK7GeneratorMap() when curriculum is loaded
+import "@/lib/physikGeneratorsK7_integration";
