@@ -356,7 +356,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(n), correctAnswer: String(item.count), topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {

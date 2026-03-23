@@ -458,7 +458,7 @@ function Round3({
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Letters", lang: "de" });
+      fireWrongAnswer({ question: pair[0], wrongAnswer: lower, correctAnswer: correct, topic: "Letters", lang: "de" });
     }
 
     setTimeout(() => {

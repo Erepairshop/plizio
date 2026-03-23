@@ -540,7 +540,7 @@ const DeutschVisualGame = memo(function DeutschVisualGame({
     setSubmitted(true);
     if (correct) setScore((s) => s + 1);
     else {
-      fireWrongAnswer({ question: task.instruction || task.type, wrongAnswer: userAnswer, correctAnswer: task.correctAnswer, topic: "Deutsch Visual", lang });
+      fireWrongAnswer({ question: task.type, wrongAnswer: userAnswer, correctAnswer: task.correctAnswer, topic: "Deutsch Visual", lang });
     }
 
     // Auto-advance after 1.1s

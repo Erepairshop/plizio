@@ -223,7 +223,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: choice, correctAnswer: item.rhymes, topic: "Rhymes", lang: "de" });
+      fireWrongAnswer({ question: item.word1 + " / " + item.word2, wrongAnswer: String(choice), correctAnswer: String(item.rhymes), topic: "Rhymes", lang: "de" });
     }
 
     setTimeout(() => {

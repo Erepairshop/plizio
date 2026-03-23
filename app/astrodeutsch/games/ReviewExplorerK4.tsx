@@ -285,7 +285,7 @@ function Round2({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -391,7 +391,7 @@ function Round3({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: selected, correctAnswer: item.part, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.part, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -504,7 +504,7 @@ function Round4({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.context, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -607,7 +607,7 @@ function Round5({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {

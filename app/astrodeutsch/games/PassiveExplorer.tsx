@@ -431,7 +431,7 @@ function Round5({ color, lbl, wrongCountRef, onDone, lang , showTeach, setShowTe
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Passive Voice", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Passive Voice", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MIXED_QUIZ.length) onDone();

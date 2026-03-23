@@ -481,7 +481,7 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Spelling", lang: "de" });
+      fireWrongAnswer({ question: item.context, wrongAnswer: opt, correctAnswer: item.correct, topic: "Spelling", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= quiz.length) onDone();

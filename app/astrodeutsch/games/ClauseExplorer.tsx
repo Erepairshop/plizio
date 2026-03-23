@@ -510,7 +510,7 @@ function Round5({
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Clause Structure", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Clause Structure", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= CONJ_QUIZ.length) onDone();

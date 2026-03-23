@@ -507,7 +507,7 @@ function Round5({
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Verb Tenses", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Verb Tenses", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= TENSE_QUIZ.length) onDone();

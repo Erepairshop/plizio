@@ -154,7 +154,7 @@ function MCQRound({
     setFeedback(correct ? "correct" : "wrong");
     if (!correct && wrongCountRef) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= items.length) onDone();

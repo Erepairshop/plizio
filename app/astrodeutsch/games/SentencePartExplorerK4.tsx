@@ -365,7 +365,7 @@ function Round4({ color, lbl, onNext, showTeach, setShowTeach, wrongCountRef }: 
     setSelected(opt);
     if (opt !== item.type) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.type, topic: "Sentence Parts", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.type, topic: "Sentence Parts", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= OBJ_SENTENCES.length) onNext();
@@ -454,7 +454,7 @@ function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lb
     setSelected(opt);
     if (opt !== item.part) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.part, topic: "Sentence Parts", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.part, topic: "Sentence Parts", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= ANALYSIS_QUIZ.length) onDone();
