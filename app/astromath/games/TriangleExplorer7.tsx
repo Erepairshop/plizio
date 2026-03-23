@@ -43,7 +43,7 @@ const Topic3Svg = memo(() => (
     <rect width="240" height="140" fill="#FFF1F2" rx="20" />
     <g transform="translate(60, 80)">
       <line x1="0" y1="0" x2="120" y2="0" stroke="#E11D48" strokeWidth="4" />
-      <text x="60" y="20" fontSize="12" fontWeight="bold" fill="#9F1239" textAnchor="middle">a + b > c</text>
+      <text x="60" y="20" fontSize="12" fontWeight="bold" fill="#9F1239" textAnchor="middle">a + b {">"} c</text>
       <path d="M 0,-10 L 50,-40 L 120,-10" fill="none" stroke="#FB7185" strokeWidth="2" strokeDasharray="4 2" />
     </g>
   </svg>

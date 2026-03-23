@@ -189,7 +189,7 @@ const TOPICS: TopicDef[] = [
       type: "equation-solver",
       equation: "4(x + 3) = ?",
       steps: [
-        { instruction: "t2_step1", choices: ["x", "4x", "4", "3"], answer: "4x", equation: "4x + 4(3)" },
+        { instruction: "t2_step1", choices: [3, 4, 7, 12], answer: 4, equation: "4 · x + 4 · 3" },
         { instruction: "t2_step2", choices: [7, 12, 4, 1], answer: 12, equation: "4x + 12" }
       ],
       finalAnswer: 12,

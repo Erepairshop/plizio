@@ -15,7 +15,7 @@ const Topic1Svg = memo(() => (
       <circle cx="20" cy="0" r="6" fill="white" stroke="#0369A1" strokeWidth="2" />
       <path d="M 26,0 L 100,0" stroke="#0EA5E9" strokeWidth="6" strokeLinecap="round" />
       <text x="20" y="25" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">3</text>
-      <text x="60" y="-15" fontSize="14" fontWeight="bold" fill="#0EA5E9" textAnchor="middle">x > 3</text>
+      <text x="60" y="-15" fontSize="14" fontWeight="bold" fill="#0EA5E9" textAnchor="middle">x {">"} 3</text>
     </g>
   </svg>
 ));
@@ -23,9 +23,9 @@ const Topic1Svg = memo(() => (
 const Topic2Svg = memo(() => (
   <svg width="100%" viewBox="0 0 240 140">
     <rect width="240" height="140" fill="#FFF7ED" rx="16" />
-    <text x="120" y="60" fontSize="20" fontWeight="bold" fill="#C2410C" textAnchor="middle">2x + 4 < 12</text>
+    <text x="120" y="60" fontSize="20" fontWeight="bold" fill="#C2410C" textAnchor="middle">2x + 4 {"<"} 12</text>
     <path d="M 120,70 L 120,90" stroke="#EA580C" strokeWidth="2" markerEnd="url(#arrow)" />
-    <text x="120" y="115" fontSize="18" fontWeight="bold" fill="#9A3412" textAnchor="middle">2x < 8</text>
+    <text x="120" y="115" fontSize="18" fontWeight="bold" fill="#9A3412" textAnchor="middle">2x {"<"} 8</text>
   </svg>
 ));
 
