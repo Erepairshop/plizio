@@ -21,6 +21,9 @@ const FillTheGap = memo(function FillTheGap({ sentence, options, correct, color,
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== correct) {
+      fireWrongAnswer({ question: sentence, wrongAnswer: opt, correctAnswer: correct, topic: "Fill the Gap", lang: "de" });
+    }
     setTimeout(() => onDone(opt === correct), 800);
   };
 

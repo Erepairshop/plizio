@@ -405,6 +405,7 @@ function Feedback({ correct, lbl }: { correct: boolean | null; lbl: (k: string) 
 interface RoundProps {
   color: string;
   t: AnyLangT;
+  lang: string;
   questions: AnyQ[];
   onRoundDone: (score: number, total: number) => void;
   titleKey: string;
@@ -413,7 +414,7 @@ interface RoundProps {
   speak: (text: string) => void;
 }
 
-function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
+function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
   // lbl: safe string lookup that works for all language union members
   const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
 
@@ -430,8 +431,8 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
     setChosen(key);
     setLocked(true);
     if (isCorrect) roundScore.current++;
-    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: lbl(correctKey), topic: "Recycling Explorer", lang: (t as Record<string, string>)._lang ?? "de" });
-  }, [locked, hintKey, correctKey, lbl, t]);
+    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: lbl(correctKey), topic: "Recycling Explorer", lang });
+  }, [locked, hintKey, correctKey, lbl, lang]);
 
   const handleNext = useCallback(() => {
     if (!locked) return;
@@ -699,6 +700,7 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
             key={roundKey}
             color={color}
             t={t}
+            lang={lang}
             questions={current.questions}
             onRoundDone={handleRoundDone}
             titleKey={current.titleKey}

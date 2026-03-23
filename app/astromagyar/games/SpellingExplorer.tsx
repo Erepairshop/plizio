@@ -520,8 +520,8 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 lang={lang} color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} lang={lang} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} lang={lang} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

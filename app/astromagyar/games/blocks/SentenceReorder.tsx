@@ -3,6 +3,7 @@
 // User taps word chips to move them into answer slots in order
 import { memo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface SentenceReorderProps {
   words: string[];       // scrambled word tokens
