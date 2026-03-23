@@ -341,7 +341,6 @@ function renderAnimal(animal: string, lang: string) {
     </motion.div>
   );
 }
-}
 const TOTAL_ROUNDS = 5;
 
 /* ─── i18n labels ─── */
@@ -986,9 +985,9 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
   }}
 >
   {renderAnimal(q.animal, lang)}
-</motion.div>  {renderAnimal(q.animal, lang)}
-</div>
-                  <p className="text-white font-black text-lg">{lbl[q.animal]}</p>
+</motion.div>
+
+<p className="text-white font-black text-lg">{lbl[q.animal]}</p>
                 </div>
 
                 {/* Pet / Wild buttons */}
