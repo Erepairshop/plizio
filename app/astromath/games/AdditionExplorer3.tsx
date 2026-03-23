@@ -341,6 +341,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <CommutativeSvg group1={200} group2={300} />,
       questions: [
         {
           question: "t1_q",
@@ -361,6 +363,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <DecompositionAddSvg total={500} part1={200} />,
       questions: [
         {
           question: "t2_q",
@@ -381,6 +385,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <MentalMathLineSvg start={234} jump={100} />,
       questions: [
         {
           question: "t3_q",

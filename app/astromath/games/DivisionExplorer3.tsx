@@ -320,6 +320,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <SharingSvg total={12} groups={3} />,
       questions: [
         {
           question: "t1_q",
@@ -340,6 +342,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <GroupingSvg total={16} groupSize={4} />,
       questions: [
         {
           question: "t2_q",
@@ -360,6 +364,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <InverseSvg />,
       questions: [
         {
           question: "t3_q",

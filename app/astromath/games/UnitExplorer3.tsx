@@ -312,6 +312,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <LengthSvg />,
       questions: [
         {
           question: "t1_q",
@@ -332,6 +334,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <WeightSvg />,
       questions: [
         {
           question: "t2_q",
@@ -352,6 +356,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <TimeSvg />,
       questions: [
         {
           question: "t3_q",

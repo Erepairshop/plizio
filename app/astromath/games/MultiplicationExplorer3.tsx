@@ -331,6 +331,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
       questions: [
         {
           question: "t1_q",
@@ -351,6 +353,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <GroupsSvg rows={3} cols={5} />,
       questions: [
         {
           question: "t2_q",
@@ -371,6 +375,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <SkipCountingSvg step={3} count={4} />,
       questions: [
         {
           question: "t3_q",

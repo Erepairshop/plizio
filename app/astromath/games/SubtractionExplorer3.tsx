@@ -355,6 +355,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <PartWholeSvg whole={700} part={300} />,
       questions: [
         {
           question: "t1_q",
@@ -375,6 +377,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <SubDecompositionSvg total={600} taken={200} />,
       questions: [
         {
           question: "t2_q",
@@ -395,6 +399,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <SubtractionLineSvg start={450} step={150} />,
       questions: [
         {
           question: "t3_q",
