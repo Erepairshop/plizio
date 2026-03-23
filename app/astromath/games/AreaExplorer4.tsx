@@ -227,22 +227,6 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3x3: "3×3 (area = 9)",
     t3_q_same: "They are the same",
     t3_q_need_info: "Need more information",
-    // Review questions (R5)
-    r5_q1: "A square has sides of 5 cm. What is its area?",
-    r5_q1_20: "20 cm²",
-    r5_q1_25: "25 cm²",
-    r5_q1_10: "10 cm²",
-    r5_q1_15: "15 cm²",
-    r5_q2: "A rectangle is 8 meters long and 5 meters wide. What is its perimeter?",
-    r5_q2_26: "26 meters",
-    r5_q2_40: "40 meters",
-    r5_q2_13: "13 meters",
-    r5_q2_20: "20 meters",
-    r5_q3: "Which pair has the same perimeter?",
-    r5_q3_a: "3×4 and 2×5",
-    r5_q3_b: "2×6 and 3×4",
-    r5_q3_c: "4×4 and 3×5",
-    r5_q3_d: "2×3 and 1×4",
   },
   de: {
     explorer_title: "Fläche & Umfang Entdecker",
@@ -291,21 +275,6 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3x3: "3×3 (Fläche = 9)",
     t3_q_same: "Sie sind gleich",
     t3_q_need_info: "Brauche mehr Information",
-    r5_q1: "Ein Quadrat hat Seiten von 5 cm. Wie groß ist seine Fläche?",
-    r5_q1_20: "20 cm²",
-    r5_q1_25: "25 cm²",
-    r5_q1_10: "10 cm²",
-    r5_q1_15: "15 cm²",
-    r5_q2: "Ein Rechteck ist 8 Meter lang und 5 Meter breit. Wie groß ist sein Umfang?",
-    r5_q2_26: "26 Meter",
-    r5_q2_40: "40 Meter",
-    r5_q2_13: "13 Meter",
-    r5_q2_20: "20 Meter",
-    r5_q3: "Welches Paar hat den gleichen Umfang?",
-    r5_q3_a: "3×4 und 2×5",
-    r5_q3_b: "2×6 und 3×4",
-    r5_q3_c: "4×4 und 3×5",
-    r5_q3_d: "2×3 und 1×4",
   },
   hu: {
     explorer_title: "Terület & Kerület Felfedező",
@@ -354,21 +323,6 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3x3: "3×3 (terület = 9)",
     t3_q_same: "Egyformák",
     t3_q_need_info: "Több információ kell",
-    r5_q1: "Egy négyzet oldala 5 cm. Mekkora a területe?",
-    r5_q1_20: "20 cm²",
-    r5_q1_25: "25 cm²",
-    r5_q1_10: "10 cm²",
-    r5_q1_15: "15 cm²",
-    r5_q2: "Egy téglalap 8 méter hosszú és 5 méter széles. Mekkora a kerülete?",
-    r5_q2_26: "26 méter",
-    r5_q2_40: "40 méter",
-    r5_q2_13: "13 méter",
-    r5_q2_20: "20 méter",
-    r5_q3: "Melyik párosnak van azonos kerülete?",
-    r5_q3_a: "3×4 és 2×5",
-    r5_q3_b: "2×6 és 3×4",
-    r5_q3_c: "4×4 és 3×5",
-    r5_q3_d: "2×3 és 1×4",
   },
   ro: {
     explorer_title: "Explorare arie și perimetru",
@@ -417,21 +371,6 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3x3: "3×3 (arie = 9)",
     t3_q_same: "Sunt identice",
     t3_q_need_info: "Trebuie mai multe informații",
-    r5_q1: "Un pătrat are laturile de 5 cm. Care este aria sa?",
-    r5_q1_20: "20 cm²",
-    r5_q1_25: "25 cm²",
-    r5_q1_10: "10 cm²",
-    r5_q1_15: "15 cm²",
-    r5_q2: "Un dreptunghi este de 8 metri lungime și 5 metri lățime. Care este perimetrul?",
-    r5_q2_26: "26 de metri",
-    r5_q2_40: "40 de metri",
-    r5_q2_13: "13 metri",
-    r5_q2_20: "20 de metri",
-    r5_q3: "Care pereche are același perimetru?",
-    r5_q3_a: "3×4 și 2×5",
-    r5_q3_b: "2×6 și 3×4",
-    r5_q3_c: "4×4 și 3×5",
-    r5_q3_d: "2×3 și 1×4",
   },
 };
 
@@ -631,17 +570,19 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t1_text",
       svg: () => <GridAreaSvg width={4} height={3} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-      interactiveBlock: ({ onValueChange }) => (
-        <GridAreaCounter width={5} height={4} lang={lang} onValueChange={onValueChange} />
-      ),
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_9", "t1_q_20", "t1_q_18", "t1_q_16"],
-          answer: "t1_q_20",
-        },
-      ],
-    } as TopicDef,
+      hintKey: "t1_inst",
+      interactive: {
+        type: "custom",
+        component: ({ lang: cLang }) => (
+          <GridAreaCounter width={5} height={4} lang={cLang} onValueChange={() => {}} />
+        ),
+      },
+      quiz: {
+        question: "t1_q",
+        choices: ["t1_q_9", "t1_q_20", "t1_q_18", "t1_q_16"],
+        answer: "t1_q_20",
+      },
+    },
 
     // ─ Topic 2: Perimeter with labeled sides ─
     {
@@ -649,17 +590,19 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t2_text",
       svg: () => <PerimeterSvg width={6} height={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-      interactiveBlock: ({ onValueChange }) => (
-        <PerimeterAdder width={7} height={3} lang={lang} onValueChange={onValueChange} />
-      ),
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_20", "t2_q_10", "t2_q_21", "t2_q_14"],
-          answer: "t2_q_20",
-        },
-      ],
-    } as TopicDef,
+      hintKey: "t2_inst",
+      interactive: {
+        type: "custom",
+        component: ({ lang: cLang }) => (
+          <PerimeterAdder width={7} height={3} lang={cLang} onValueChange={() => {}} />
+        ),
+      },
+      quiz: {
+        question: "t2_q",
+        choices: ["t2_q_20", "t2_q_10", "t2_q_21", "t2_q_14"],
+        answer: "t2_q_20",
+      },
+    },
 
     // ─ Topic 3: Area vs Perimeter (review) ─
     {
@@ -667,24 +610,22 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t3_text",
       svg: () => <AreaVsPerimeterSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-      questions: [
-        {
-          question: "r5_q1",
-          choices: ["r5_q1_20", "r5_q1_25", "r5_q1_10", "r5_q1_15"],
-          answer: "r5_q1_25",
-        },
-        {
-          question: "r5_q2",
-          choices: ["r5_q2_26", "r5_q2_40", "r5_q2_13", "r5_q2_20"],
-          answer: "r5_q2_26",
-        },
-        {
-          question: "r5_q3",
-          choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
-          answer: "r5_q3_a",
-        },
-      ],
-    } as TopicDef,
+      hintKey: "t3_inst",
+      interactive: {
+        type: "custom",
+        component: ({ lang: cLang }) => (
+          <div className="flex flex-col items-center gap-3 px-4 py-3 bg-gradient-to-br from-purple-600/10 to-violet-600/10 rounded-2xl border border-purple-500/20">
+            <p className="text-xs font-semibold text-center text-purple-300">{LABELS[cLang]?.t3_inst || "Compare the two rectangles."}</p>
+            <p className="text-white/70 text-sm font-medium text-center">4×2 vs 3×3 — Which has larger area?</p>
+          </div>
+        ),
+      },
+      quiz: {
+        question: "t3_q",
+        choices: ["t3_q_4x2", "t3_q_3x3", "t3_q_same", "t3_q_need_info"],
+        answer: "t3_q_3x3",
+      },
+    },
   ],
   rounds: [],
 });

@@ -584,104 +584,90 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+// ─── TOPICS (converted to topic mode) ──────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // Topic 1: Reading & Understanding Problems
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [1, 1, 1],
+      answer: 1,
+      blockIcon: "📖",
+      blockColor: "#FF9A56",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_add", "t1_q_sub", "t1_q_mul", "t1_q_div"],
+      answer: "t1_q_add",
+    },
+  },
+
+  // Topic 2: Problem-Solving Steps
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang: string) => <EquationFormatSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [1, 1, 1, 1, 1],
+      answer: 2,
+      blockIcon: "📝",
+      blockColor: "#8B5CF6",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_calc", "t2_q_read", "t2_q_skip", "t2_q_guess"],
+      answer: "t2_q_read",
+    },
+  },
+
+  // Topic 3: Checking & Verifying
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang: string) => <CheckWorkSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [1, 1, 1],
+      answer: 0,
+      blockIcon: "✓",
+      blockColor: "#10B981",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_mul", "t3_q_div", "t3_q_add", "t3_q_sub"],
+      answer: "t3_q_mul",
+    },
+  },
+];
+
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📖",
-  rounds: [
-    // ─ R1: Understanding problems ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_add", "t1_q_sub", "t1_q_mul", "t1_q_div"],
-          answer: "t1_q_add",
-        },
-      ],
-    },
-
-    // ─ R2: Problem-solving steps ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <EquationFormatSvg lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <EquationFormatSvg lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_calc", "t2_q_read", "t2_q_skip", "t2_q_guess"],
-          answer: "t2_q_read",
-        },
-      ],
-    },
-
-    // ─ R3: Checking work ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <CheckWorkSvg lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <CheckWorkSvg lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_mul", "t3_q_div", "t3_q_add", "t3_q_sub"],
-          answer: "t3_q_mul",
-        },
-      ],
-    },
-
-    // ─ R5: Review (3 questions) ─
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <ProblemVisualizationSvg scenario="books" initial={15} operation="add" amount={8} lang={lang} />,
-      questions: [
-        {
-          question: "r5_q1",
-          choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"],
-          answer: "r5_q1_b",
-        },
-        {
-          question: "r5_q2",
-          choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"],
-          answer: "r5_q2_c",
-        },
-        {
-          question: "r5_q3",
-          choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
-          answer: "r5_q3_b",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
