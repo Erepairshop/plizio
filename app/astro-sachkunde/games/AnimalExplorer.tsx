@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 function SVG_DOG(lang: string) { const labels = { en: { ears: "Ears", nose: "Nose", legs: "4 Legs" }, de: { ears: "Ohren", nose: "Nase", legs: "4 Beine" }, hu: { ears: "Fülek", nose: "Orr", legs: "4 láb" }, ro: { ears: "Urechi", nose: "Nas", legs: "4 picioare" }, }; const l = labels[lang as keyof typeof labels] || labels.en; return ( <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40"> <defs> {/* Background */} <linearGradient id="dogBg" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#1e293b" /> <stop offset="100%" stopColor="#020617" /> </linearGradient> {/* Body gradient */} <linearGradient id="dogBody" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#fbbf24" /> <stop offset="100%" stopColor="#d97706" /> </linearGradient> {/* Belly */} <linearGradient id="dogBelly" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#fde68a" /> <stop offset="100%" stopColor="#fbbf24" stopOpacity="0.2" /> </linearGradient> </defs> {/* Background */} <rect width="240" height="160" fill="url(#dogBg)" /> {/* Body */} <ellipse cx="120" cy="95" rx="55" ry="35" fill="url(#dogBody)" /> {/* Belly highlight */} <ellipse cx="120" cy="105" rx="35" ry="20" fill="url(#dogBelly)" /> {/* Head */} <circle cx="120" cy="55" r="30" fill="url(#dogBody)" /> {/* Ears */} <path d="M 95 40 Q 85 10 110 35 Z" fill="#92400e" /> <path d="M 145 40 Q 155 10 130 35 Z" fill="#92400e" /> {/* Eyes */} <circle cx="110" cy="55" r="4" fill="#000" /> <circle cx="130" cy="55" r="4" fill="#000" /> <circle cx="111" cy="53" r="1" fill="white" /> <circle cx="131" cy="53" r="1" fill="white" /> {/* Nose */} <ellipse cx="120" cy="65" rx="6" ry="4" fill="#000" /> {/* Mouth */} <path d="M 115 70 Q 120 75 125 70" stroke="#000" strokeWidth="1.5" fill="none" /> {/* Legs */} <rect x="90" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="110" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="130" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="150" y="115" width="10" height="25" rx="5" fill="#d97706" /> {/* Tail */} <path d="M 170 90 Q 200 70 185 100" stroke="#d97706" strokeWidth="6" fill="none" /> {/* ─── LABELS ─── */} {/* Ears */} <line x1="95" y1="35" x2="40" y2="20" stroke="#fbbf24" strokeDasharray="3,2" /> <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#fbbf24" /> <text x="40" y="23" fontSize="10" fill="#fbbf24" textAnchor="middle">{l.ears}</text> {/* Nose */} <line x1="120" y1="65" x2="200" y2="40" stroke="#22c55e" strokeDasharray="3,2" /> <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#22c55e" /> <text x="205" y="43" fontSize="10" fill="#22c55e" textAnchor="middle">{l.nose}</text> {/* Legs */} <line x1="120" y1="130" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" /> <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" /> <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text> </svg> ); }
 function SVG_CAT(lang: string) {
@@ -320,11 +321,11 @@ function SVG_DUCK(lang: string) {
 function renderAnimal(animal: string, lang: string) {
   const content = (() => {
     switch (animal) {
-      case "dog": return <SVG_DOG lang={lang} />;
-      case "cat": return <SVG_CAT lang={lang} />;
-      case "cow": return <SVG_COW lang={lang} />;
-      case "frog": return <SVG_FROG lang={lang} />;
-      case "duck": return <SVG_DUCK lang={lang} />;
+      case "dog": return SVG_DOG(lang);
+      case "cat": return SVG_CAT(lang);
+      case "cow": return SVG_COW(lang);
+      case "frog": return SVG_FROG(lang);
+      case "duck": return SVG_DUCK(lang);
       default:
         return <span className="text-6xl">{ANIMAL_EMOJI[animal] ?? "🐾"}</span>;
     }
@@ -340,7 +341,6 @@ function renderAnimal(animal: string, lang: string) {
       {content}
     </motion.div>
   );
-}
 }
 const TOTAL_ROUNDS = 5;
 
@@ -427,7 +427,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round3Teach: "Jedes Tier hat ein besonderes Zuhause! Fische leben im Wasser, Vögel leben in Nestern, Bären schlafen in Höhlen und Hunde leben in Häusern mit ihren Familien.",
     round4Title: "Tierkinder",
     round4Hint: "Wie heißt das Jungtier?",
-    round4Teach: "Tierbabys haben spezielle Namen! Ein Hundebabyheißt Welpe, ein Katzenbaby heißt Kätzchen, ein Kuhbaby heißt Kalb und ein Entenküken heißt Küken.",
+    round4Teach: "Tierbabys haben spezielle Namen! Ein Hundebaby heißt Welpe, ein Katzenbaby heißt Kätzchen, ein Kuhbaby heißt Kalb und ein Entenküken heißt Küken.",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Beantworte die Frage!",
     round5Teach: "Mal sehen, was du über Tiere, Tiergeräusche und Tierbabys gelernt hast!",
@@ -482,7 +482,7 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     round1Title: "Állathangok",
     round1Hint: "Melyik állat adja ezt a hangot?",
-    round1Teach: "Az állatok hangokkal kommunikálnak! A kutyák ugatnak (vau!), a macskák miaunak, a tehenek belegelnek, a békák brekegnek és a kacsák hápnak. Minden állatnak saját hangja van.",
+    round1Teach: "Az állatok hangokkal kommunikálnak! A kutyák ugatnak (vau!), a macskák miaunak, a tehenek bőgnek, a békák brekegnek és a kacsák hápnak. Minden állatnak saját hangja van.",
     round2Title: "Háziállat vagy vadállat?",
     round2Hint: "Ez az állat háziállat vagy vadállat?",
     round2Teach: "A háziállatok otthon élnek az emberekkel — például kutyák, macskák és nyulak. A vadállatok a természetben élnek — például rókák, medvék és sas. Néhány állat mindkettő lehet!",
@@ -742,6 +742,7 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ) => (choice: string) => {
     totalRef.current++;
     if (choice === correctAnswer) scoreRef.current++;
+    else fireWrongAnswer({ question: "Animal Explorer", wrongAnswer: lbl[choice] ?? choice, correctAnswer: lbl[correctAnswer] ?? correctAnswer, topic: "Animal Explorer", lang });
     setAnswer(choice);
   };
 
@@ -976,18 +977,15 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   className="w-full max-w-xs py-6 rounded-2xl text-center"
                   style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}
                 >
-<motion.div
-  className="flex justify-center items-center h-[120px]"
-  whileHover={{ scale: 1.08 }}
-  animate={{ y: [0, -4, 0] }}
-  transition={{ repeat: Infinity, duration: 2 }}
-  style={{
-    filter: "drop-shadow(0 0 10px rgba(0,255,200,0.3))"
-  }}
->
-  {renderAnimal(q.animal, lang)}
-</motion.div>  {renderAnimal(q.animal, lang)}
-</div>
+                  <motion.div
+                    className="flex justify-center items-center h-[120px]"
+                    whileHover={{ scale: 1.08 }}
+                    animate={{ y: [0, -4, 0] }}
+                    transition={{ repeat: Infinity, duration: 2 }}
+                    style={{ filter: "drop-shadow(0 0 10px rgba(0,255,200,0.3))" }}
+                  >
+                    {renderAnimal(q.animal, lang)}
+                  </motion.div>
                   <p className="text-white font-black text-lg">{lbl[q.animal]}</p>
                 </div>
 

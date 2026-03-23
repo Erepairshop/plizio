@@ -7,6 +7,7 @@ import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton, speak } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -192,6 +193,7 @@ const SentenceScramble = memo(function SentenceScramble({
     } else {
       // Wrong word — bounce it back (visual handled below by wrongTile state)
       advance("wrong", false);
+      fireWrongAnswer({ question: currentSentence.words.join(" ") + currentSentence.punct, wrongAnswer: currentSentence.words[wordIdx] || "", correctAnswer: currentSentence.words[nextPos] || "", topic: "Sentence Scramble", lang: "de" });
     }
   }, [phase, placedTiles, currentSentence, advance]);
 

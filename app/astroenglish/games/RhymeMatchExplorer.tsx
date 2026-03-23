@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // LABELS with ALL 4 languages (en, hu, de, ro)
 const LABELS = {
@@ -101,6 +102,13 @@ const RhymeMatchExplorer = memo(function RhymeMatchExplorer({
       } else {
         setFeedbackType("wrong");
         wrongCountRef.current += 1;
+        fireWrongAnswer({
+          question: `${t.question} "${currentRound.targetWord}"?`,
+          wrongAnswer: currentRound.options[index],
+          correctAnswer: currentRound.options[currentRound.correctIndex],
+          topic: "Rhyme Match",
+          lang: lang as string,
+        });
       }
     },
     [selectedIndex, feedbackType, currentRound.correctIndex]

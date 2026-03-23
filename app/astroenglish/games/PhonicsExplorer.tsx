@@ -4,6 +4,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface PhonicsRound {
   sound: string;
@@ -147,6 +148,13 @@ const PhonicsExplorer = memo(function PhonicsExplorer({
       setFlashIndices(new Set(selectedArray));
       setIsCorrect(false);
       wrongCountRef.current += 1;
+      fireWrongAnswer({
+        question: `${t.selectWords} "${round.sound}"`,
+        wrongAnswer: selectedArray.map((i) => round.words[i]).join(", "),
+        correctAnswer: round.correctIndices.map((i) => round.words[i]).join(", "),
+        topic: "Phonics",
+        lang: lang as string,
+      });
       setTimeout(() => setFlashIndices(new Set()), 800);
     }
   }, [confirmed, round, selected]);

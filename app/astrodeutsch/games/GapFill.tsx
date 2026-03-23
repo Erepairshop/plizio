@@ -7,6 +7,7 @@ import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton, speak } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -150,6 +151,9 @@ const GapFill = memo(function GapFill({
     if (correct) {
       setScore(newScore);
       scoreRef.current = newScore;
+    } else {
+      const currentQ = questions[qIdx];
+      fireWrongAnswer({ question: (currentQ.before || "") + "___" + (currentQ.after || ""), wrongAnswer: sel || "—", correctAnswer: currentQ.correct, topic: "Gap Fill", lang: "de" });
     }
 
     setTimeout(() => {

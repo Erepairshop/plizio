@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -255,7 +256,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 3: Akkusativ fill-in-the-blank ─────────────────────────────────────
-function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round3({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -265,6 +266,15 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      fireWrongAnswer({
+        question: item.sentence,
+        wrongAnswer: opt,
+        correctAnswer: item.correct,
+        topic: "Akkusativ",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= AKK_QUIZ.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -362,7 +372,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Mixed Nom/Akk MCQ ───────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<string, string>; lang: string; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -372,6 +382,15 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.correct) {
+      fireWrongAnswer({
+        question: item.sentence,
+        wrongAnswer: opt,
+        correctAnswer: `${item.correct} (${item.case})`,
+        topic: "Mixed Nom/Akk",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= MIXED_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -445,9 +464,9 @@ const KasusExplorer = memo(function KasusExplorer({
           className="w-full flex flex-col items-center gap-4">
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} />}
+          {round === 2 && <Round3 color={color} lbl={lbl} lang={lang} onNext={next} />}
           {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} lang={lang} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

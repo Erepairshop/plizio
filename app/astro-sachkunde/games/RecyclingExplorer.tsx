@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, CheckCircle2, XCircle, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── LABELS ────────────────────────────────────────────────────────────────────
 const LABELS = {
@@ -404,6 +405,7 @@ function Feedback({ correct, lbl }: { correct: boolean | null; lbl: (k: string) 
 interface RoundProps {
   color: string;
   t: AnyLangT;
+  lang: string;
   questions: AnyQ[];
   onRoundDone: (score: number, total: number) => void;
   titleKey: string;
@@ -412,7 +414,7 @@ interface RoundProps {
   speak: (text: string) => void;
 }
 
-function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
+function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
   // lbl: safe string lookup that works for all language union members
   const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
 
@@ -424,12 +426,13 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
 
   const q = questions[qIdx];
 
-  const handleAnswer = useCallback((key: string, isCorrect: boolean) => {
+  const handleAnswer = useCallback((key: string, isCorrect: boolean, correctAns?: string) => {
     if (locked) return;
     setChosen(key);
     setLocked(true);
     if (isCorrect) roundScore.current++;
-  }, [locked]);
+    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: correctAns ? lbl(correctAns) : "", topic: "Recycling Explorer", lang });
+  }, [locked, hintKey, lbl, lang]);
 
   const handleNext = useCallback(() => {
     if (!locked) return;
@@ -465,14 +468,14 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
       const nq = q as NatureQ;
       return nq.choices.map(ch => (
         <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
       ));
     }
     if (kind === "recycle") {
       const rq = q as RecycleQ;
       return rq.choices.map(ch => (
         <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
       ));
     }
     if (kind === "bin") {
@@ -481,7 +484,7 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
         <div key={ch} className="flex items-center gap-2 w-full">
           <div className="w-3 h-3 rounded-full flex-shrink-0" style={{ background: BIN_COLOR[ch] }} />
           <MCQBtn label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
         </div>
       ));
     }
@@ -489,7 +492,7 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
     const mq = q as MaterialQ;
     return mq.choices.map(ch => (
       <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
     ));
   }
 
@@ -697,6 +700,7 @@ function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
             key={roundKey}
             color={color}
             t={t}
+            lang={lang}
             questions={current.questions}
             onRoundDone={handleRoundDone}
             titleKey={current.titleKey}

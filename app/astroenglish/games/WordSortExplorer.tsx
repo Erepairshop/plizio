@@ -4,6 +4,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface WordSortRound {
   categories: { label: string; color: string }[];
@@ -157,6 +158,13 @@ const WordSortExplorer = memo(function WordSortExplorer({
       } else {
         // Wrong, show teaching feedback and flash
         wrongCountRef.current += 1;
+        fireWrongAnswer({
+          question: `Sort: "${round.words[selectedWord].text}"`,
+          wrongAnswer: round.categories[categoryIdx].label,
+          correctAnswer: round.categories[correctCategoryIdx].label,
+          topic: "Word Sort",
+          lang: lang as string,
+        });
         setFlashIdx(categoryIdx);
         setFlashType("wrong");
         setTimeout(() => {

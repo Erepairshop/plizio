@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -284,6 +285,7 @@ function Round3({
     setRevealed(true);
     if (key !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: key, correctAnswer: q.correct, topic: "Verb Tenses", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -398,6 +400,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Verb Tenses", lang: "de" });
     }
   };
   const handleNext = () => {

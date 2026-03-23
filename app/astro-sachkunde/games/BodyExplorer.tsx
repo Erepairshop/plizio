@@ -5,6 +5,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const TOTAL_ROUNDS = 5;
 
@@ -490,6 +491,7 @@ function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
   ) => (choice: string) => {
     totalRef.current++;
     if (choice === correctAnswer) scoreRef.current++;
+    else fireWrongAnswer({ question: "Body Explorer", wrongAnswer: lbl[choice] ?? choice, correctAnswer: lbl[correctAnswer] ?? correctAnswer, topic: "Body Explorer", lang });
     setAnswer(choice);
   };
 

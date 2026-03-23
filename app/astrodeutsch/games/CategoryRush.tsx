@@ -7,6 +7,7 @@ import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton, speak } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -218,6 +219,7 @@ const CategoryRush = memo(function CategoryRush({
     // Highlight correct zone on wrong/missed
     if (!correct) {
       setHighlightCat(currentItem.category);
+      fireWrongAnswer({ question: currentItem.item, wrongAnswer: fb === "missed" ? "—" : currentItem.item, correctAnswer: currentItem.category, topic: "Category Rush", lang: "de" });
     }
 
     const delay = correct ? 700 : 900;

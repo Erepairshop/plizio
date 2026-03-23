@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, Lightbulb } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface GapRound {
   sentence: string;
@@ -105,6 +106,13 @@ const FillGapExplorer = memo(function FillGapExplorer({
       } else {
         wrongCountRef.current += 1;
         setWrongAttempts((prev) => prev + 1);
+        fireWrongAnswer({
+          question: round.sentence,
+          wrongAnswer: round.options[optIdx],
+          correctAnswer: correctAnswer,
+          topic: "Fill in the Gap",
+          lang: lang as string,
+        });
         setFlashIdx(optIdx);
         setTimeout(() => setFlashIdx(null), 800);
       }

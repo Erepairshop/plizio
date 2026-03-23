@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X, RotateCcw } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface SpellRound {
   word: string;
@@ -149,6 +150,13 @@ const SpellRaceExplorer = memo(function SpellRaceExplorer({
         // Wrong letter — red flash + increment wrongCountRef
         wrongCountRef.current += 1;
         setMistakes((prev) => prev + 1);
+        fireWrongAnswer({
+          question: `Spell: "${round.hint}"`,
+          wrongAnswer: letter,
+          correctAnswer: round.word[nextIdx],
+          topic: "Spell Race",
+          lang: lang as string,
+        });
         setFlashWrong(true);
         setTimeout(() => setFlashWrong(false), 800);
       }

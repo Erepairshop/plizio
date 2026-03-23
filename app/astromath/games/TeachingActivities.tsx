@@ -3,6 +3,7 @@ import { useState, useCallback, useMemo, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Shared Types ──────────────────────────────────────────────────────────────
 
@@ -76,9 +77,11 @@ export function ChooseActivity({ round, color, lang, onCorrect }: {
       feedbackTimer.current = setTimeout(onCorrect, 900);
     } else {
       setFeedback("wrong");
+      const correctOpt = round.options.find(o => o.correct);
+      fireWrongAnswer({ question: round.question[lang] ?? round.question.en, wrongAnswer: round.options[idx].label, correctAnswer: correctOpt?.label ?? "", topic: "Teaching Activity", lang });
       feedbackTimer.current = setTimeout(() => { setFeedback(null); setSelected(null); }, 700);
     }
-  }, [round.options, feedback, onCorrect]);
+  }, [round.options, round.question, feedback, onCorrect, lang]);
 
   useEffect(() => () => { if (feedbackTimer.current) clearTimeout(feedbackTimer.current); }, []);
 
@@ -229,9 +232,13 @@ export function OrderActivity({ round, color, lang, onCorrect }: {
       }
     } else {
       setWrongIdx(val);
+      const instr = asc
+        ? (TEACHING_LABELS.orderAsc[lang] ?? TEACHING_LABELS.orderAsc.en)
+        : (TEACHING_LABELS.orderDesc[lang] ?? TEACHING_LABELS.orderDesc.en);
+      fireWrongAnswer({ question: instr, wrongAnswer: String(val), correctAnswer: String(nextExpected), topic: "Order Activity", lang });
       wrongTimer.current = setTimeout(() => setWrongIdx(null), 500);
     }
-  }, [tapped, sorted, onCorrect]);
+  }, [tapped, sorted, onCorrect, asc, lang]);
 
   useEffect(() => () => {
     if (doneTimer.current) clearTimeout(doneTimer.current);
@@ -318,9 +325,10 @@ export function CountTapActivity({ round, color, lang, onCorrect }: {
       feedbackTimer.current = setTimeout(onCorrect, 900);
     } else {
       setFeedback("wrong");
+      fireWrongAnswer({ question: round.instruction[lang] ?? round.instruction.en, wrongAnswer: String(val), correctAnswer: String(round.count), topic: "Count Tap", lang });
       feedbackTimer.current = setTimeout(() => { setFeedback(null); setSelected(null); }, 700);
     }
-  }, [round.count, feedback, onCorrect]);
+  }, [round.count, feedback, onCorrect, lang]);
 
   useEffect(() => () => { if (feedbackTimer.current) clearTimeout(feedbackTimer.current); }, []);
 

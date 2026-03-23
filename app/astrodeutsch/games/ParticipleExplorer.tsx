@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -457,6 +458,7 @@ function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } 
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Participles", lang: "de" });
     }
 
     setTimeout(() => {

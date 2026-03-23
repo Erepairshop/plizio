@@ -6,6 +6,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const TOTAL_ROUNDS = 5;
 
@@ -429,6 +430,7 @@ function makeMixedRound(): MCQ[] {
 interface SubQuizProps {
   color: string;
   lbl: Record<string, string>;
+  lang: string;
   questions: MCQ[];
   onScore: (correct: number, total: number) => void;
   titleKey: string;
@@ -436,7 +438,7 @@ interface SubQuizProps {
   speak: (text: string) => void;
 }
 
-function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey, speak }: SubQuizProps) {
+function SubQuiz({ color, lbl, lang, questions, onScore, titleKey, hintKey, speak }: SubQuizProps) {
   const [idx, setIdx]           = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked]     = useState(false);
@@ -450,7 +452,8 @@ function SubQuiz({ color, lbl, questions, onScore, titleKey, hintKey, speak }: S
     setSelected(key);
     setLocked(true);
     if (key === q.correctKey) correctRef.current++;
-  }, [locked, q.correctKey]);
+    else fireWrongAnswer({ question: lbl[q.clueKey] ?? q.clueKey, wrongAnswer: lbl[key] ?? key, correctAnswer: lbl[q.correctKey] ?? q.correctKey, topic: "Nature Review", lang });
+  }, [locked, q.correctKey, q.clueKey, lbl, lang]);
 
   const handleNext = useCallback(() => {
     if (idx < questions.length - 1) {
@@ -617,6 +620,7 @@ function NatureReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
             key={round}
             color={color}
             lbl={lbl}
+            lang={lang}
             questions={rounds[round]}
             onScore={handleRoundDone}
             titleKey={ROUND_META[round].titleKey}

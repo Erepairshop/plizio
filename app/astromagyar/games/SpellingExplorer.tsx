@@ -6,6 +6,7 @@ import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -352,7 +353,7 @@ function Round3({ lang, color, lbl, onNext }: { lang: string; color: string; lbl
 }
 
 // ─── Round 4: Fill the gap ───────────────────────────────────────────────────
-function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, string>; onNext: () => void }) {
+function Round4({ color, lbl, lang, onNext }: { color: string; lbl: Record<string, string>; lang: string; onNext: () => void }) {
   const [idx, setIdx] = useState(0);
   const [input, setInput] = useState("");
   const [submitted, setSubmitted] = useState(false);
@@ -362,6 +363,15 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const handleSubmit = () => {
     if (!input.trim() || submitted) return;
     setSubmitted(true);
+    if (input.toLowerCase() !== item.answer.toLowerCase()) {
+      fireWrongAnswer({
+        question: item.partial,
+        wrongAnswer: input,
+        correctAnswer: item.answer,
+        topic: "Fill the Gap",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= GAP_WORDS.length) onNext();
       else { setIdx(i => i + 1); setInput(""); setSubmitted(false); }
@@ -429,7 +439,7 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
 }
 
 // ─── Round 5: Spelling quiz II ────────────────────────────────────────────────
-function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, string>; onDone: () => void }) {
+function Round5({ color, lbl, lang, onDone }: { color: string; lbl: Record<string, string>; lang: string; onDone: () => void }) {
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const item = SPELLING2_QUIZ[idx];
@@ -437,6 +447,15 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
+    if (opt !== item.answer) {
+      fireWrongAnswer({
+        question: `${item.emoji} Correct spelling?`,
+        wrongAnswer: opt,
+        correctAnswer: item.answer,
+        topic: "Spelling Challenge",
+        lang,
+      });
+    }
     setTimeout(() => {
       if (idx + 1 >= SPELLING2_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -501,8 +520,8 @@ const SpellingExplorer2 = memo(function SpellingExplorer2({
           {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} />}
           {round === 1 && <Round2 lang={lang} color={color} lbl={lbl} onNext={next} />}
           {round === 2 && <Round3 lang={lang} color={color} lbl={lbl} onNext={next} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} onDone={finish} />}
+          {round === 3 && <Round4 color={color} lbl={lbl} lang={lang} onNext={next} />}
+          {round === 4 && <Round5 color={color} lbl={lbl} lang={lang} onDone={finish} />}
         </motion.div>
       </AnimatePresence>
     </div>

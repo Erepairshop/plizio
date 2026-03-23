@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -270,7 +271,10 @@ function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.answer) wrongCountRef.current++;
+    if (p !== item.answer) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.text || "", wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) onNext();
       else { setIdx(i => i + 1); setSelected(null); }
@@ -382,11 +386,6 @@ function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
 
   const isCorrect = allPlaced && order.map(i => item.words[i]).join(" ") === item.correct.join(" ");
 
-  // Track wrong answer when they submit an incorrect order
-  if (allPlaced && !isCorrect && idx + 1 < WORD_ORDER_SENTENCES.length) {
-    wrongCountRef.current++;
-  }
-
   if (done) return (
     <div className="flex flex-col items-center gap-4 w-full">
       <div className="text-5xl">🏗️</div>
@@ -465,7 +464,10 @@ function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Rec
   const handleSelect = (p: string) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.answer) wrongCountRef.current++;
+    if (p !== item.answer) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.text, wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_QUIZ.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); }

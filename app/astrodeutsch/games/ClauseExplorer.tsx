@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -509,6 +510,7 @@ function Round5({
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Clause Structure", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= CONJ_QUIZ.length) onDone();

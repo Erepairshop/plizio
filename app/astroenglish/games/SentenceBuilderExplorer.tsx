@@ -5,6 +5,7 @@ import { motion, AnimatePresence, Reorder } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface SentenceRound {
   words: string[];
@@ -139,6 +140,13 @@ const SentenceBuilderExplorer = memo(function SentenceBuilderExplorer({
     } else {
       wrongCountRef.current += 1;
       setFlashWrong(true);
+      fireWrongAnswer({
+        question: t.buildSentence,
+        wrongAnswer: buildSentence(round.words, selectedIndices),
+        correctAnswer: correctSentence,
+        topic: "Sentence Builder",
+        lang: lang as string,
+      });
 
       // Find first wrong position
       let firstWrongIdx = null;

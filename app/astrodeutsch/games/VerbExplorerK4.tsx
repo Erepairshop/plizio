@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -434,6 +435,7 @@ function Round5({
     const correct = opt === item.type;
     if (!correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.type, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {
