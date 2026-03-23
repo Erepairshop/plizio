@@ -8,7 +8,8 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG: Carrying (ones overflow into tens) ──────────────────────────────────
 
-const CarrySvg = memo(function CarrySvg({ a = 47, b = 36 }: { a?: number; b?: number }) {
+const CarrySvg = memo(function CarrySvg({ a = 47, b = 36, lang = "en" }: { a?: number; b?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const onesA = a % 10; const onesB = b % 10;
   const onesSum = onesA + onesB;
   const carry = onesSum >= 10 ? 1 : 0;
@@ -29,7 +30,7 @@ const CarrySvg = memo(function CarrySvg({ a = 47, b = 36 }: { a?: number; b?: nu
           <text x="122" y="22" fontSize="13" fontWeight="900"
             fill="#1a1a2e" textAnchor="middle" dominantBaseline="middle">1</text>
           <text x="165" y="22" fontSize="9" fill="#FFD700" opacity="0.7"
-            textAnchor="middle" dominantBaseline="middle">← carry</text>
+            textAnchor="middle" dominantBaseline="middle">← {t.carry_label}</text>
         </g>
       )}
       {/* Column headers */}
@@ -68,7 +69,8 @@ const CarrySvg = memo(function CarrySvg({ a = 47, b = 36 }: { a?: number; b?: nu
 
 // ─── SVG: Borrowing (borrow from tens when ones aren't enough) ────────────────
 
-const BorrowSvg = memo(function BorrowSvg({ a = 62, b = 35 }: { a?: number; b?: number }) {
+const BorrowSvg = memo(function BorrowSvg({ a = 62, b = 35, lang = "en" }: { a?: number; b?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const onesA = a % 10; const onesB = b % 10;
   const needBorrow = onesA < onesB;
   const result = a - b;
@@ -84,10 +86,10 @@ const BorrowSvg = memo(function BorrowSvg({ a = 62, b = 35 }: { a?: number; b?: 
       {needBorrow && (
         <g>
           <text x="120" y="20" fontSize="9" fill="#FF6B6B" opacity="0.8" textAnchor="middle">
-            {onesA} &lt; {onesB} → borrow 1 ten!
+            {onesA} &lt; {onesB} → {t.borrow_action}
           </text>
           <text x="120" y="33" fontSize="9" fill="#FF6B6B" opacity="0.6" textAnchor="middle">
-            {onesA} + 10 = {onesA + 10}  |  tens: {Math.floor(a/10)} − 1 = {Math.floor(a/10) - 1}
+            {onesA} + 10 = {onesA + 10}  |  {t.borrow_tens}: {Math.floor(a/10)} − 1 = {Math.floor(a/10) - 1}
           </text>
         </g>
       )}
@@ -121,7 +123,8 @@ const BorrowSvg = memo(function BorrowSvg({ a = 62, b = 35 }: { a?: number; b?: 
 
 // ─── SVG: Overview both operations ───────────────────────────────────────────
 
-const OverviewSvg = memo(function OverviewSvg() {
+const OverviewSvg = memo(function OverviewSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 120">
       <defs>
@@ -133,26 +136,26 @@ const OverviewSvg = memo(function OverviewSvg() {
       <rect width="240" height="120" fill="url(#ovG)" rx="16" />
       {/* Carry side */}
       <text x="60" y="30" fontSize="10" fontWeight="700"
-        fill="#B44DFF" textAnchor="middle" opacity="0.85">CARRY</text>
+        fill="#B44DFF" textAnchor="middle" opacity="0.85">{t.overview_carry}</text>
       <text x="60" y="60" fontSize="20" fontWeight="900"
         fill="rgba(255,255,255,0.8)" textAnchor="middle">47 + 36</text>
       <text x="60" y="85" fontSize="14" fontWeight="800"
         fill="#B44DFF" textAnchor="middle">= 83</text>
       <text x="60" y="105" fontSize="9" fill="rgba(255,255,255,0.4)" textAnchor="middle">
-        ones overflow → +1 ten
+        {t.overview_carry_desc}
       </text>
       {/* Divider */}
       <line x1="120" y1="20" x2="120" y2="110"
         stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
       {/* Borrow side */}
       <text x="180" y="30" fontSize="10" fontWeight="700"
-        fill="#FF6B6B" textAnchor="middle" opacity="0.85">BORROW</text>
+        fill="#FF6B6B" textAnchor="middle" opacity="0.85">{t.overview_borrow}</text>
       <text x="180" y="60" fontSize="20" fontWeight="900"
         fill="rgba(255,255,255,0.8)" textAnchor="middle">62 − 35</text>
       <text x="180" y="85" fontSize="14" fontWeight="800"
         fill="#FF6B6B" textAnchor="middle">= 27</text>
       <text x="180" y="105" fontSize="9" fill="rgba(255,255,255,0.4)" textAnchor="middle">
-        ones not enough → −1 ten
+        {t.overview_borrow_desc}
       </text>
     </svg>
   );
@@ -202,6 +205,13 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_1013: "1013",
     t3_q_103: "103",
     t3_q_11: "11",
+    carry_label: "carry",
+    borrow_action: "borrow 1 ten!",
+    borrow_tens: "tens",
+    overview_carry: "CARRY",
+    overview_carry_desc: "ones overflow → +1 ten",
+    overview_borrow: "BORROW",
+    overview_borrow_desc: "ones not enough → −1 ten",
   },
   de: {
     explorer_title: "Übertrag & Entbündeln",
@@ -244,6 +254,13 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_1013: "1013",
     t3_q_103: "103",
     t3_q_11: "11",
+    carry_label: "Übertrag",
+    borrow_action: "entbündel 1 Zehner!",
+    borrow_tens: "Zehner",
+    overview_carry: "ÜBERTRAG",
+    overview_carry_desc: "Einer fließen über → +1 Zehner",
+    overview_borrow: "ENTBÜNDELN",
+    overview_borrow_desc: "Einer reichen nicht → −1 Zehner",
   },
   hu: {
     explorer_title: "Átvitel és kölcsönzés",
@@ -286,6 +303,13 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_1013: "1013",
     t3_q_103: "103",
     t3_q_11: "11",
+    carry_label: "átvitel",
+    borrow_action: "kölcsönöz 1 tízest!",
+    borrow_tens: "tízesek",
+    overview_carry: "ÁTVITEL",
+    overview_carry_desc: "egyesek túlfolyása → +1 tízes",
+    overview_borrow: "KÖLCSÖNZÉS",
+    overview_borrow_desc: "születek hiánya → −1 tízes",
   },
   ro: {
     explorer_title: "Transport și împrumut",
@@ -328,6 +352,13 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_1013: "1013",
     t3_q_103: "103",
     t3_q_11: "11",
+    carry_label: "transport",
+    borrow_action: "împrumută 1 zece!",
+    borrow_tens: "zeci",
+    overview_carry: "TRANSPORT",
+    overview_carry_desc: "unități curg peste → +1 zece",
+    overview_borrow: "ÎMPRUMUT",
+    overview_borrow_desc: "unități insuficiente → −1 zece",
   },
 };
 
@@ -337,7 +368,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <CarrySvg a={47} b={36} />,
+    svg: (lang) => <CarrySvg a={47} b={36} lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -361,7 +392,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <BorrowSvg a={62} b={35} />,
+    svg: (lang) => <BorrowSvg a={62} b={35} lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -385,7 +416,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <OverviewSvg />,
+    svg: (lang) => <OverviewSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

@@ -8,7 +8,8 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG: Doubling Concept ───────────────────────────────────────────────────
 
-const DoublingIntroSvg = memo(function DoublingIntroSvg() {
+const DoublingIntroSvg = memo(function DoublingIntroSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -24,7 +25,7 @@ const DoublingIntroSvg = memo(function DoublingIntroSvg() {
           <polygon points="0,-6 1.5,-2 5,-1.5 2,1 3,5 0,3 -3,5 -2,1 -5,-1.5 -1.5,-2" fill="#FBBF24" opacity="0.85" />
         </g>
       ))}
-      <text x="80" y="75" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.7">4 stars</text>
+      <text x="80" y="75" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.7">{t.svg_4stars}</text>
 
       {/* Mirror line */}
       <line x1="120" y1="20" x2="120" y2="90" stroke="#A78BFA" strokeWidth="2" strokeDasharray="4,3" opacity="0.6" />
@@ -35,17 +36,18 @@ const DoublingIntroSvg = memo(function DoublingIntroSvg() {
           <polygon points="0,-6 1.5,-2 5,-1.5 2,1 3,5 0,3 -3,5 -2,1 -5,-1.5 -1.5,-2" fill="#FBBF24" opacity="0.85" />
         </g>
       ))}
-      <text x="160" y="75" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.7">4 stars</text>
+      <text x="160" y="75" fontSize="11" fontWeight="bold" fill="#A78BFA" textAnchor="middle" opacity="0.7">{t.svg_4stars}</text>
 
       {/* Result */}
-      <text x="120" y="120" fontSize="14" fontWeight="900" fill="#FBBF24" textAnchor="middle">4 + 4 = 8 (Double!)</text>
+      <text x="120" y="120" fontSize="14" fontWeight="900" fill="#FBBF24" textAnchor="middle">{t.svg_double}</text>
     </svg>
   );
 });
 
 // ─── SVG: Halving Concept ────────────────────────────────────────────────────
 
-const HalvingIntroSvg = memo(function HalvingIntroSvg() {
+const HalvingIntroSvg = memo(function HalvingIntroSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -65,7 +67,7 @@ const HalvingIntroSvg = memo(function HalvingIntroSvg() {
           </g>
         );
       })}
-      <text x="120" y="80" fontSize="10" fontWeight="bold" fill="#34D399" textAnchor="middle" opacity="0.7">10 cookies (whole)</text>
+      <text x="120" y="80" fontSize="10" fontWeight="bold" fill="#34D399" textAnchor="middle" opacity="0.7">{t.svg_10cookies}</text>
 
       {/* Split arrow */}
       <path d="M 120 85 L 120 95" stroke="#34D399" strokeWidth="2" markerEnd="url(#arrowhead)" />
@@ -83,14 +85,15 @@ const HalvingIntroSvg = memo(function HalvingIntroSvg() {
           <circle cx="0" cy="0" r="4" fill="#34D399" opacity="0.85" />
         </g>
       ))}
-      <text x="120" y="133" fontSize="11" fontWeight="bold" fill="#34D399" textAnchor="middle" opacity="0.8">Split into 2 equal groups = 5 each (Half!)</text>
+      <text x="120" y="133" fontSize="11" fontWeight="bold" fill="#34D399" textAnchor="middle" opacity="0.8">{t.svg_split}</text>
     </svg>
   );
 });
 
 // ─── SVG: Fractions Intro ────────────────────────────────────────────────────
 
-const FractionsIntroSvg = memo(function FractionsIntroSvg() {
+const FractionsIntroSvg = memo(function FractionsIntroSvg({ lang }: { lang: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -107,7 +110,7 @@ const FractionsIntroSvg = memo(function FractionsIntroSvg() {
       {/* Dividing line */}
       <line x1="80" y1="25" x2="80" y2="95" stroke="rgba(255,255,255,0.5)" strokeWidth="2" />
 
-      <text x="80" y="120" fontSize="11" fontWeight="bold" fill="#F59E0B" textAnchor="middle" opacity="0.8">1 of 2 equal parts = 1/2</text>
+      <text x="80" y="120" fontSize="11" fontWeight="bold" fill="#F59E0B" textAnchor="middle" opacity="0.8">{t.svg_fraction}</text>
 
       {/* Right side: fraction example */}
       <g transform="translate(160, 60)">
@@ -169,6 +172,12 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_3: "3",
     t3_q_4: "4",
     t3_q_5: "5",
+    // SVG labels
+    svg_4stars: "4 stars",
+    svg_double: "4 + 4 = 8 (Double!)",
+    svg_10cookies: "10 cookies (whole)",
+    svg_split: "Split into 2 equal groups = 5 each (Half!)",
+    svg_fraction: "1 of 2 equal parts = 1/2",
   },
   de: {
     explorer_title: "Verdoppeln & Halbieren Entdeckung",
@@ -199,6 +208,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_7: "7",
     t2_q_8: "8",
     t2_q_5: "5",
+    svg_4stars: "4 Sterne",
+    svg_double: "4 + 4 = 8 (Doppelt!)",
+    svg_10cookies: "10 Kekse (gesamt)",
+    svg_split: "In 2 gleiche Gruppen = je 5 (Hälfte!)",
+    svg_fraction: "1 von 2 gleichen Teilen = 1/2",
     t3_title: "Einfache Brüche (1/2)",
     t3_text: "Ein Bruch ist ein Teil eines Ganzen. Wenn du etwas in zwei Hälften teilst, hast du zwei gleiche Teile. Ein Teil ist 1/2 (ein Halb) des Ganzen.",
     t3_b1: "1/2 = einer von zwei gleichen Teilen",
@@ -242,6 +256,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_7: "7",
     t2_q_8: "8",
     t2_q_5: "5",
+    svg_4stars: "4 csillag",
+    svg_double: "4 + 4 = 8 (Dupla!)",
+    svg_10cookies: "10 süti (egész)",
+    svg_split: "2 egyenlő csoportra = 5-5 (Fele!)",
+    svg_fraction: "1 a 2 egyenlő részből = 1/2",
     t3_title: "Egyszerű Törtek (1/2)",
     t3_text: "A tört az egész egy része. Amikor valamit két felére osztasz, két egyenlő részed van. Egy rész az 1/2 (egy fél) az egésznek.",
     t3_b1: "1/2 = az egyik a két egyenlő részből",
@@ -285,6 +304,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_7: "7",
     t2_q_8: "8",
     t2_q_5: "5",
+    svg_4stars: "4 stele",
+    svg_double: "4 + 4 = 8 (Dublu!)",
+    svg_10cookies: "10 biscuiți (întreg)",
+    svg_split: "În 2 grupuri egale = câte 5 (Jumătate!)",
+    svg_fraction: "1 din 2 părți egale = 1/2",
     t3_title: "Fracții Simple (1/2)",
     t3_text: "O fracție este o parte a unui întreg. Când împarți ceva în jumătate, ai două părți egale. O parte este 1/2 (o jumătate) din întreg.",
     t3_b1: "1/2 = una din două părți egale",
@@ -308,7 +332,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <DoublingIntroSvg />,
+    svg: (lang) => <DoublingIntroSvg lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -331,7 +355,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <HalvingIntroSvg />,
+    svg: (lang) => <HalvingIntroSvg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -354,16 +378,16 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <FractionsIntroSvg />,
+    svg: (lang) => <FractionsIntroSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
       min: 0,
       max: 10,
       start: 0,
-      target: 5,
+      target: 3,
       showJumps: true,
-      jumpCount: 5,
+      jumpCount: 3,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

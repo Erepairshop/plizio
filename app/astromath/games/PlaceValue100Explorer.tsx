@@ -78,7 +78,8 @@ const NumberLine100Svg = memo(function NumberLine100Svg({ highlight = 60 }: { hi
 
 // ─── SVG: Comparison ──────────────────────────────────────────────────────────
 
-const CompareSvg = memo(function CompareSvg({ a = 34, b = 57 }: { a?: number; b?: number }) {
+const CompareSvg = memo(function CompareSvg({ a = 34, b = 57, lang = "en" }: { a?: number; b?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const sym = a < b ? "<" : a > b ? ">" : "=";
   return (
     <svg width="100%" viewBox="0 0 240 120">
@@ -96,10 +97,10 @@ const CompareSvg = memo(function CompareSvg({ a = 34, b = 57 }: { a?: number; b?
       <text x="180" y="68" fontSize="36" fontWeight="900"
         fill="#F59E0B" textAnchor="middle" dominantBaseline="middle">{b}</text>
       <text x="60" y="100" fontSize="10" fill="#10B981" textAnchor="middle" opacity="0.7">
-        {Math.floor(a/10)} tens {a%10} ones
+        {Math.floor(a/10)} {t.svg_tens} {a%10} {t.svg_ones}
       </text>
       <text x="180" y="100" fontSize="10" fill="#F59E0B" textAnchor="middle" opacity="0.7">
-        {Math.floor(b/10)} tens {b%10} ones
+        {Math.floor(b/10)} {t.svg_tens} {b%10} {t.svg_ones}
       </text>
     </svg>
   );
@@ -149,6 +150,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_gt: "> (greater than)",
     t3_q_eq: "= (equal)",
     t3_q_ne: "≠ (not equal)",
+    svg_tens: "tens",
+    svg_ones: "ones",
   },
   de: {
     explorer_title: "Stellenwerte entdecken",
@@ -191,6 +194,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_gt: "> (größer als)",
     t3_q_eq: "= (gleich)",
     t3_q_ne: "≠ (ungleich)",
+    svg_tens: "Z",
+    svg_ones: "E",
   },
   hu: {
     explorer_title: "Helyiérték felfedezés",
@@ -233,6 +238,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_gt: "> (nagyobb)",
     t3_q_eq: "= (egyenlő)",
     t3_q_ne: "≠ (nem egyenlő)",
+    svg_tens: "tízes",
+    svg_ones: "egyes",
   },
   ro: {
     explorer_title: "Explorare valori poziționale",
@@ -275,6 +282,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_gt: "> (mai mare)",
     t3_q_eq: "= (egal)",
     t3_q_ne: "≠ (diferit)",
+    svg_tens: "zeci",
+    svg_ones: "unit.",
   },
 };
 
@@ -331,7 +340,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <CompareSvg a={34} b={57} />,
+    svg: (lang) => <CompareSvg a={34} b={57} lang={lang as string} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

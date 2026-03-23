@@ -26,6 +26,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Welches Perfekt ist richtig?",
     tapAkkusativ: "Tippe das Akkusativobjekt",
     checkLabel: "Prüfen ✓",
+    gotIt: "Ich verstehe! Weiter →",
     discovery: "💡 Deutsch hat 6 Zeitformen! Präsens (jetzt), Präteritum (einfache Vergangenheit), Perfekt (gesprochene Vergangenheit), Plusquamperfekt (Vorvergangenheit), Futur I (Zukunft), Futur II (Vorzukunft).",
   },
   en: {
@@ -47,6 +48,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Which Perfekt is correct?",
     tapAkkusativ: "Tap the accusative object",
     checkLabel: "Check ✓",
+    gotIt: "I understand! Next →",
     discovery: "💡 German has 6 tenses! Präsens (now), Präteritum (simple past), Perfekt (spoken past), Plusquamperfekt (past perfect), Futur I (future), Futur II (future perfect).",
   },
   hu: {
@@ -68,6 +70,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Melyik Perfekt helyes?",
     tapAkkusativ: "Koppints a tárgyra",
     checkLabel: "Ellenőrzés ✓",
+    gotIt: "Megértettem! Tovább →",
     discovery: "💡 A németnek 6 igeideje van! Präsens (most), Präteritum (egyszerű múlt), Perfekt (beszélt múlt), Plusquamperfekt (előmúlt), Futur I (jövő), Futur II (jövő I előtt).",
   },
   ro: {
@@ -89,6 +92,7 @@ const LABELS: Record<string, Record<string, string>> = {
     pickPerfekt: "Care Perfekt este corect?",
     tapAkkusativ: "Apasă obiectul la acuzativ",
     checkLabel: "Verifică ✓",
+    gotIt: "Am înțeles! Mai departe →",
     discovery: "💡 Germana are 6 timpuri! Präsens (acum), Präteritum (trecut simplu), Perfekt (trecut vorbit), Plusquamperfekt (trecut perfect), Futur I (viitor), Futur II (viitor perfect).",
   },
 };
@@ -146,7 +150,7 @@ function Round1({ color, lbl, onNext, showTeach = false }: { color: string; lbl:
         <motion.button onClick={() => setTeach(false)}
           className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
           whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt || "Ich verstehe! Weiter →"} <ChevronRight size={16} />
+          {lbl.gotIt} <ChevronRight size={16} />
         </motion.button>
       </div>
     );

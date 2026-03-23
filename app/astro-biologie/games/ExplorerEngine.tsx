@@ -124,6 +124,8 @@ export interface TopicDef {
   interactive: TopicInteractive;
   /** Single quiz question (teaching style) */
   quiz: MCQQuestion;
+  /** Optional SVG for quiz phase (shown above quiz question) */
+  quizSvg?: (lang: string) => React.ReactNode;
 }
 
 /** Interactive activity within a topic */
@@ -292,7 +294,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
 
-  const currentRound = rounds[round];
+  // In topic mode rounds[] is empty — use a dummy round to avoid undefined crashes
+  const EMPTY_ROUND: RoundDef = { type: "info", infoTitle: "", infoText: "", svg: () => null };
+  const currentRound = rounds[round] || EMPTY_ROUND;
 
   // Shuffle order sequence once per mount
   const shuffledOrders = useMemo(() => {
@@ -501,9 +505,15 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     if (topicPhase === "topic-teach") {
       setTopicPhase("topic-interact");
       setPhase("topic-interact");
+      // Auto-TTS: read the interactive instruction
+      const inter = topics[topicIdx]?.interactive;
+      if (inter) setTimeout(() => speak(L(inter.instruction)), 400);
     } else if (topicPhase === "topic-interact") {
       setTopicPhase("topic-quiz");
       setPhase("topic-quiz");
+      // Auto-TTS: read the quiz question
+      const quiz = topics[topicIdx]?.quiz;
+      if (quiz) setTimeout(() => speak(L(quiz.question)), 400);
     } else {
       // quiz done → next topic or finish
       if (topicIdx < totalTopics - 1) {
@@ -924,6 +934,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                   <div className="flex items-center justify-center gap-2 mb-4">
                     <span className="text-lg">🎮</span>
                     <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
+                    <button
+                      onClick={() => speak(L(topics[topicIdx].interactive.instruction))}
+                      className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white hover:bg-white/20 transition-colors shrink-0"
+                    >
+                      <Volume2 size={14} />
+                    </button>
                   </div>
 
                   {/* Render interactive component */}
@@ -988,10 +1004,25 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                     <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
                   </div>
 
+                  {/* Quiz SVG illustration (if provided) */}
+                  {topics[topicIdx].quizSvg && (
+                    <div className="w-full bg-white/5 rounded-2xl p-3 border border-white/10">
+                      {topics[topicIdx].quizSvg!(langCode)}
+                    </div>
+                  )}
+
                   {/* Question */}
-                  <p className="text-base font-bold text-center text-white/90 px-2">
-                    {L(topics[topicIdx].quiz.question)}
-                  </p>
+                  <div className="flex items-center justify-center gap-2 px-2">
+                    <p className="text-base font-bold text-center text-white/90">
+                      {L(topics[topicIdx].quiz.question)}
+                    </p>
+                    <button
+                      onClick={() => speak(L(topics[topicIdx].quiz.question))}
+                      className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white hover:bg-white/20 transition-colors shrink-0"
+                    >
+                      <Volume2 size={14} />
+                    </button>
+                  </div>
 
                   {/* Answer options */}
                   <div className="w-full flex flex-col gap-2">

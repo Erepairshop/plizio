@@ -54,7 +54,8 @@ const GroupsSvg = memo(function GroupsSvg({
 
 // ─── SVG: Repeated addition → multiplication ─────────────────────────────────
 
-const RepAddSvg = memo(function RepAddSvg({ groups = 4, perGroup = 3 }: { groups?: number; perGroup?: number }) {
+const RepAddSvg = memo(function RepAddSvg({ groups = 4, perGroup = 3, lang = "en" }: { groups?: number; perGroup?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const result = groups * perGroup;
   return (
     <svg width="100%" viewBox="0 0 240 130">
@@ -80,7 +81,7 @@ const RepAddSvg = memo(function RepAddSvg({ groups = 4, perGroup = 3 }: { groups
         {groups} × {perGroup} = {result}
       </text>
       <text x="120" y="115" fontSize="10" fill="rgba(255,255,255,0.4)" textAnchor="middle">
-        {groups} groups of {perGroup} = {result} total
+        {(t.rep_desc || "").replace("{g}", String(groups)).replace("{p}", String(perGroup)).replace("{r}", String(result))}
       </text>
     </svg>
   );
@@ -134,6 +135,7 @@ const TimesTableSvg = memo(function TimesTableSvg({ table = 3 }: { table?: numbe
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Times Tables Explorer",
+    rep_desc: "{g} groups of {p} = {r} total",
     t1_title: "Groups of Objects",
     t1_text: "Multiplication means EQUAL GROUPS! 3 × 4 means 3 groups, each with 4 objects. We can count them all, or use multiplication as a shortcut!",
     t1_b1: "3 × 4 = 3 groups of 4",
@@ -176,6 +178,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Einmaleins entdecken",
+    rep_desc: "{g} Gruppen zu je {p} = {r} insgesamt",
     t1_title: "Gruppen von Objekten",
     t1_text: "Multiplikation bedeutet GLEICHE GRUPPEN! 3 × 4 bedeutet 3 Gruppen mit je 4 Objekten. Wir können alle zählen oder die Multiplikation als Abkürzung nutzen!",
     t1_b1: "3 × 4 = 3 Gruppen zu je 4",
@@ -218,6 +221,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Szorzótábla felfedezés",
+    rep_desc: "{g} csoport, egyenként {p} = összesen {r}",
     t1_title: "Egyenlő csoportok",
     t1_text: "A szorzás EGYENLŐ CSOPORTOKAT jelent! A 3 × 4 azt jelenti: 3 csoport, mindegyikben 4 tárgy. Megszámolhatjuk mindegyiket, vagy a szorzást használjuk rövidítésként!",
     t1_b1: "3 × 4 = 3 csoport, egyenként 4",
@@ -260,6 +264,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Tabla înmulțirii",
+    rep_desc: "{g} grupe de câte {p} = {r} în total",
     t1_title: "Grupe egale de obiecte",
     t1_text: "Înmulțirea înseamnă GRUPE EGALE! 3 × 4 înseamnă 3 grupe cu câte 4 obiecte. Putem număra toate sau folosim înmulțirea ca scurtătură!",
     t1_b1: "3 × 4 = 3 grupe cu câte 4",
@@ -329,7 +334,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <RepAddSvg groups={4} perGroup={3} />,
+    svg: (lang) => <RepAddSvg groups={4} perGroup={3} lang={lang as string} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",

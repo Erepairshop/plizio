@@ -9,8 +9,9 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 // ─── SVG: Sharing equally ────────────────────────────────────────────────────
 
 const SharingSvg = memo(function SharingSvg({
-  total = 12, people = 3, emoji = "🍪",
-}: { total?: number; people?: number; emoji?: string }) {
+  total = 12, people = 3, emoji = "🍪", lang = "en",
+}: { total?: number; people?: number; emoji?: string; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const perPerson = Math.floor(total / people);
   return (
     <svg width="100%" viewBox="0 0 240 145">
@@ -29,7 +30,7 @@ const SharingSvg = memo(function SharingSvg({
             <rect x={bx} y="16" width={bw} height="90" rx="10"
               fill="rgba(255,255,255,0.07)" stroke="rgba(16,185,129,0.4)" strokeWidth="1.5" />
             <text x={bx + bw / 2} y="30" fontSize="9" fill="#10B981"
-              textAnchor="middle" opacity="0.7">Person {pi + 1}</text>
+              textAnchor="middle" opacity="0.7">{t.svg_person} {pi + 1}</text>
             {Array.from({ length: perPerson }, (_, i) => {
               const ic = i % 3; const ir = Math.floor(i / 3);
               return (
@@ -42,7 +43,7 @@ const SharingSvg = memo(function SharingSvg({
       })}
       <text x="120" y="128" fontSize="11" fontWeight="800"
         fill="#10B981" textAnchor="middle" opacity="0.85">
-        {total} ÷ {people} = {perPerson} each
+        {total} ÷ {people} = {perPerson} {t.svg_each}
       </text>
     </svg>
   );
@@ -50,7 +51,8 @@ const SharingSvg = memo(function SharingSvg({
 
 // ─── SVG: Division on number line ────────────────────────────────────────────
 
-const DivNLSvg = memo(function DivNLSvg({ total = 15, step = 3 }: { total?: number; step?: number }) {
+const DivNLSvg = memo(function DivNLSvg({ total = 15, step = 3, lang = "en" }: { total?: number; step?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const jumps = total / step;
   const max = total + 2;
   return (
@@ -81,7 +83,7 @@ const DivNLSvg = memo(function DivNLSvg({ total = 15, step = 3 }: { total?: numb
       })}
       <text x="120" y="92" fontSize="11" fontWeight="800"
         fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {total} ÷ {step} = {jumps} jumps
+        {total} ÷ {step} = {jumps} {t.svg_jumps}
       </text>
     </svg>
   );
@@ -89,7 +91,8 @@ const DivNLSvg = memo(function DivNLSvg({ total = 15, step = 3 }: { total?: numb
 
 // ─── SVG: Division ↔ Multiplication connection ────────────────────────────────
 
-const DivMulSvg = memo(function DivMulSvg({ a = 4, b = 3 }: { a?: number; b?: number }) {
+const DivMulSvg = memo(function DivMulSvg({ a = 4, b = 3, lang = "en" }: { a?: number; b?: number; lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   const result = a * b;
   return (
     <svg width="100%" viewBox="0 0 240 120">
@@ -109,7 +112,7 @@ const DivMulSvg = memo(function DivMulSvg({ a = 4, b = 3 }: { a?: number; b?: nu
       <text x="75" y="65" fontSize="13" fill="rgba(255,255,255,0.4)"
         textAnchor="middle" dominantBaseline="middle">↕</text>
       <text x="120" y="65" fontSize="10" fill="rgba(255,255,255,0.35)"
-        textAnchor="middle" dominantBaseline="middle">flip!</text>
+        textAnchor="middle" dominantBaseline="middle">{t.svg_flip}</text>
       <text x="165" y="65" fontSize="13" fill="rgba(255,255,255,0.4)"
         textAnchor="middle" dominantBaseline="middle">↕</text>
       {/* Division facts */}
@@ -130,6 +133,10 @@ const DivMulSvg = memo(function DivMulSvg({ a = 4, b = 3 }: { a?: number; b?: nu
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Division Explorer",
+    svg_person: "Person",
+    svg_each: "each",
+    svg_jumps: "jumps",
+    svg_flip: "flip!",
     t1_title: "Sharing Equally",
     t1_text: "Division means SHARING EQUALLY! 12 ÷ 3 means: share 12 between 3 people. Each person gets the same amount. 12 ÷ 3 = 4 each!",
     t1_b1: "÷ means 'shared between'",
@@ -172,6 +179,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Division entdecken",
+    svg_person: "Person",
+    svg_each: "je",
+    svg_jumps: "Sprünge",
+    svg_flip: "Umkehrung!",
     t1_title: "Gleichmäßig aufteilen",
     t1_text: "Division bedeutet GLEICHMÄSSIG AUFTEILEN! 12 ÷ 3 bedeutet: teile 12 auf 3 Personen auf. Jede Person bekommt gleich viel. 12 ÷ 3 = 4 pro Person!",
     t1_b1: "÷ bedeutet 'aufgeteilt auf'",
@@ -214,6 +225,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Osztás felfedezés",
+    svg_person: "Személy",
+    svg_each: "darab",
+    svg_jumps: "ugrás",
+    svg_flip: "fordítsd!",
     t1_title: "Egyenlő elosztás",
     t1_text: "Az osztás EGYENLŐ ELOSZTÁST jelent! A 12 ÷ 3 azt jelenti: ossz el 12-t 3 ember között. Mindenki ugyanannyit kap. 12 ÷ 3 = 4 mindenkinek!",
     t1_b1: "÷ azt jelenti: 'elosztva'",
@@ -256,6 +271,10 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare împărțire",
+    svg_person: "Persoana",
+    svg_each: "fiecare",
+    svg_jumps: "salturi",
+    svg_flip: "inversează!",
     t1_title: "Împărțire egală",
     t1_text: "Împărțirea înseamnă DISTRIBUIRE EGALĂ! 12 ÷ 3 înseamnă: împarte 12 la 3 persoane. Fiecare primește aceeași cantitate. 12 ÷ 3 = 4 fiecare!",
     t1_b1: "÷ înseamnă 'împărțit la'",
@@ -304,7 +323,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <SharingSvg total={12} people={3} emoji="🍪" />,
+    svg: (lang) => <SharingSvg total={12} people={3} emoji="🍪" lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -325,7 +344,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <DivNLSvg total={15} step={3} />,
+    svg: (lang) => <DivNLSvg total={15} step={3} lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -349,7 +368,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <DivMulSvg a={4} b={3} />,
+    svg: (lang) => <DivMulSvg a={4} b={3} lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

@@ -308,6 +308,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_5", "t1_q_6", "t1_q_7", "t1_q_8"],
       answer: "t1_q_7",
     },
+    quizSvg: () => <CountingSvg emoji="⭐" count={7} />,
   },
 
   // Topic 2: Comparing numbers
@@ -333,6 +334,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_cats", "t2_q_dogs", "t2_q_equal", "t2_q_idk"],
       answer: "t2_q_cats",
     },
+    quizSvg: () => <CompareSvg leftEmoji="🐱" leftCount={6} rightEmoji="🐶" rightCount={4} />,
   },
 
   // Topic 3: Number neighbors (before/after)
@@ -358,6 +360,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_6", "t3_q_7", "t3_q_8", "t3_q_9"],
       answer: "t3_q_7",
     },
+    quizSvg: () => <NumberLineSvg highlight={8} />,
   },
 ];
 

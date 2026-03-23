@@ -387,7 +387,7 @@ const MutationTypes = ({ lang = "en" }: { lang?: string }) => {
   );
 };
 
-const UVRadiation = () => (
+const UVRadiation = ({ lang = "en" }: { lang?: string }) => (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
     {/* Sun */}
     <circle cx="120" cy="20" r="15" fill="#FCD34D" />
@@ -407,7 +407,7 @@ const UVRadiation = () => (
   </svg>
 );
 
-const GeneticEngineering = () => (
+const GeneticEngineering = ({ lang = "en" }: { lang?: string }) => (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
     <defs>
       <linearGradient id="enzymGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -442,7 +442,7 @@ const GeneticEngineering = () => (
   </svg>
 );
 
-const Bioethics = () => (
+const Bioethics = ({ lang = "en" }: { lang?: string }) => (
   <svg viewBox="0 0 240 160" className="w-full h-auto">
     {/* Left side - benefits (green) */}
     <circle cx="60" cy="80" r="50" fill="rgba(16,185,129,0.1)" stroke="#10B981" strokeWidth="2" />
@@ -490,7 +490,7 @@ const MUTATION_EXPLORER: ExplorerDef = {
       type: "mcq",
       infoTitle: "r2_title",
       infoText: "r2_text",
-      svg: () => <UVRadiation />,
+      svg: (lang: string) => <UVRadiation lang={lang} />,
       bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
       questions: [
         {
@@ -504,7 +504,7 @@ const MUTATION_EXPLORER: ExplorerDef = {
       type: "mcq",
       infoTitle: "r3_title",
       infoText: "r3_text",
-      svg: () => <GeneticEngineering />,
+      svg: (lang: string) => <GeneticEngineering lang={lang} />,
       bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
       questions: [
         {
@@ -518,7 +518,7 @@ const MUTATION_EXPLORER: ExplorerDef = {
       type: "mcq",
       infoTitle: "r4_title",
       infoText: "r4_text",
-      svg: () => <Bioethics />,
+      svg: (lang: string) => <Bioethics lang={lang} />,
       bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
       questions: [
         {

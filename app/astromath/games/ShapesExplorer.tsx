@@ -8,7 +8,8 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG: Basic Shapes Introduction ──────────────────────────────────────────────
 
-const BasicShapesSvg = memo(function BasicShapesSvg() {
+const BasicShapesSvg = memo(function BasicShapesSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -22,29 +23,30 @@ const BasicShapesSvg = memo(function BasicShapesSvg() {
       {/* Triangle (left) */}
       <g transform="translate(50, 65)">
         <polygon points="0,-20 22,18 -22,18" fill="#EC4899" opacity="0.8" stroke="#BE185D" strokeWidth="2" />
-        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">Triangle</text>
+        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{t.svg_triangle}</text>
       </g>
 
       {/* Square (center) */}
       <g transform="translate(120, 65)">
         <rect x="-15" y="-15" width="30" height="30" fill="#3B82F6" opacity="0.8" stroke="#1E40AF" strokeWidth="2" />
-        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">Square</text>
+        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{t.svg_square}</text>
       </g>
 
       {/* Circle (right) */}
       <g transform="translate(190, 65)">
         <circle cx="0" cy="0" r="18" fill="#F59E0B" opacity="0.8" stroke="#D97706" strokeWidth="2" />
-        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">Circle</text>
+        <text x="0" y="38" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{t.svg_circle}</text>
       </g>
 
-      <text x="120" y="20" fontSize="13" fontWeight="900" fill="#8B5CF6" textAnchor="middle">4 BASIC SHAPES</text>
+      <text x="120" y="20" fontSize="13" fontWeight="900" fill="#8B5CF6" textAnchor="middle">{t.svg_basic_shapes}</text>
     </svg>
   );
 });
 
 // ─── SVG: Spatial Awareness - Positioning ────────────────────────────────────────
 
-const SpatialAwarenessSvg = memo(function SpatialAwarenessSvg() {
+const SpatialAwarenessSvg = memo(function SpatialAwarenessSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -57,19 +59,19 @@ const SpatialAwarenessSvg = memo(function SpatialAwarenessSvg() {
 
       {/* Center reference square */}
       <rect x="105" y="55" width="30" height="30" fill="#10B981" opacity="0.8" stroke="#059669" strokeWidth="2" />
-      <text x="120" y="120" fontSize="11" fontWeight="bold" fill="#0891B2" textAnchor="middle">CENTER</text>
+      <text x="120" y="120" fontSize="11" fontWeight="bold" fill="#0891B2" textAnchor="middle">{t.svg_center}</text>
 
       {/* Above */}
       <circle cx="120" cy="25" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
-      <text x="120" y="8" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">ABOVE</text>
+      <text x="120" y="8" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">{t.svg_above}</text>
 
       {/* Left */}
       <circle cx="60" cy="70" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
-      <text x="38" y="75" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">LEFT</text>
+      <text x="38" y="75" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">{t.svg_left}</text>
 
       {/* Right */}
       <circle cx="180" cy="70" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
-      <text x="202" y="75" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">RIGHT</text>
+      <text x="202" y="75" fontSize="9" fontWeight="bold" fill="#0891B2" textAnchor="middle">{t.svg_right}</text>
 
       {/* Below */}
       <circle cx="120" cy="105" r="8" fill="#06B6D4" opacity="0.7" stroke="#0891B2" strokeWidth="1.5" />
@@ -79,7 +81,8 @@ const SpatialAwarenessSvg = memo(function SpatialAwarenessSvg() {
 
 // ─── SVG: Patterns - Repetition ──────────────────────────────────────────────────
 
-const PatternsSvg = memo(function PatternsSvg() {
+const PatternsSvg = memo(function PatternsSvg({ lang = "en" }: { lang?: string }) {
+  const t = LABELS[lang] || LABELS.en;
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
@@ -112,7 +115,7 @@ const PatternsSvg = memo(function PatternsSvg() {
         <text x="174" y="8" fontSize="24" fontWeight="900" fill="#B45309" textAnchor="middle">?</text>
       </g>
 
-      <text x="120" y="128" fontSize="11" fontWeight="bold" fill="#B45309" textAnchor="middle">WHAT COMES NEXT?</text>
+      <text x="120" y="128" fontSize="11" fontWeight="bold" fill="#B45309" textAnchor="middle">{t.svg_next}</text>
     </svg>
   );
 });
@@ -123,6 +126,16 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     // Explorer meta
     explorer_title: "Shapes Explorer",
+    // SVG labels
+    svg_triangle: "Triangle",
+    svg_square: "Square",
+    svg_circle: "Circle",
+    svg_basic_shapes: "4 BASIC SHAPES",
+    svg_above: "ABOVE",
+    svg_left: "LEFT",
+    svg_right: "RIGHT",
+    svg_center: "CENTER",
+    svg_next: "WHAT COMES NEXT?",
     // Topic 1: Basic shapes
     t1_title: "Basic Shapes",
     t1_text: "There are four basic shapes: triangle (3 sides), square (4 equal sides), circle (round, no sides), and rectangle (4 sides, longer than wide). Each shape has special features!",
@@ -168,6 +181,15 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Formen entdecken",
+    svg_triangle: "Dreieck",
+    svg_square: "Quadrat",
+    svg_circle: "Kreis",
+    svg_basic_shapes: "4 GRUNDFORMEN",
+    svg_above: "OBEN",
+    svg_left: "LINKS",
+    svg_right: "RECHTS",
+    svg_center: "MITTE",
+    svg_next: "WAS KOMMT ALS NÄCHSTES?",
     t1_title: "Grundformen",
     t1_text: "Es gibt vier Grundformen: Dreieck (3 Seiten), Quadrat (4 gleiche Seiten), Kreis (rund, keine Seiten) und Rechteck (4 Seiten, länger als breit). Jede Form hat besondere Merkmale!",
     t1_b1: "Dreieck hat 3 Seiten und 3 Ecken",
@@ -210,6 +232,15 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Alakzatok felfedezése",
+    svg_triangle: "Háromszög",
+    svg_square: "Négyzet",
+    svg_circle: "Kör",
+    svg_basic_shapes: "4 ALAPFORMA",
+    svg_above: "FELÜL",
+    svg_left: "BALRA",
+    svg_right: "JOBBRA",
+    svg_center: "KÖZÉP",
+    svg_next: "MI JÖN LEGKÖZELEBB?",
     t1_title: "Alapalakzatok",
     t1_text: "Négy alapalakzat van: háromszög (3 oldal), négyzet (4 egyenlő oldal), kör (kerek, nincs oldala) és téglalap (4 oldal, hosszabb, mint széles). Minden alakzatnak különleges jellemzői vannak!",
     t1_b1: "Háromszögnek 3 oldala és 3 sarka van",
@@ -252,6 +283,15 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorarea formelor",
+    svg_triangle: "Triunghi",
+    svg_square: "Pătrat",
+    svg_circle: "Cerc",
+    svg_basic_shapes: "4 FORME DE BAZĂ",
+    svg_above: "SUS",
+    svg_left: "STÂNGA",
+    svg_right: "DREAPTA",
+    svg_center: "CENTRU",
+    svg_next: "CE URMEAZĂ?",
     t1_title: "Forme de bază",
     t1_text: "Există patru forme de bază: triunghi (3 laturi), pătrat (4 laturi egale), cerc (rotund, fără laturi) și dreptunghi (4 laturi, mai lung decât larg). Fiecare formă are caracteristici speciale!",
     t1_b1: "Triunghiul are 3 laturi și 3 colțuri",
@@ -301,7 +341,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <BasicShapesSvg />,
+    svg: (lang) => <BasicShapesSvg lang={lang} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -324,7 +364,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <SpatialAwarenessSvg />,
+    svg: (lang) => <SpatialAwarenessSvg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -349,7 +389,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <PatternsSvg />,
+    svg: (lang) => <PatternsSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
