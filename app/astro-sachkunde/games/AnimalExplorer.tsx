@@ -427,7 +427,7 @@ const LABELS: Record<string, Record<string, string>> = {
     round3Teach: "Jedes Tier hat ein besonderes Zuhause! Fische leben im Wasser, Vögel leben in Nestern, Bären schlafen in Höhlen und Hunde leben in Häusern mit ihren Familien.",
     round4Title: "Tierkinder",
     round4Hint: "Wie heißt das Jungtier?",
-    round4Teach: "Tierbabys haben spezielle Namen! Ein Hundebabyheißt Welpe, ein Katzenbaby heißt Kätzchen, ein Kuhbaby heißt Kalb und ein Entenküken heißt Küken.",
+    round4Teach: "Tierbabys haben spezielle Namen! Ein Hundebaby heißt Welpe, ein Katzenbaby heißt Kätzchen, ein Kuhbaby heißt Kalb und ein Entenküken heißt Küken.",
     round5Title: "Schnelle Wiederholung",
     round5Hint: "Beantworte die Frage!",
     round5Teach: "Mal sehen, was du über Tiere, Tiergeräusche und Tierbabys gelernt hast!",
@@ -482,7 +482,7 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     round1Title: "Állathangok",
     round1Hint: "Melyik állat adja ezt a hangot?",
-    round1Teach: "Az állatok hangokkal kommunikálnak! A kutyák ugatnak (vau!), a macskák miaunak, a tehenek belegelnek, a békák brekegnek és a kacsák hápnak. Minden állatnak saját hangja van.",
+    round1Teach: "Az állatok hangokkal kommunikálnak! A kutyák ugatnak (vau!), a macskák miaunak, a tehenek bőgnek, a békák brekegnek és a kacsák hápnak. Minden állatnak saját hangja van.",
     round2Title: "Háziállat vagy vadállat?",
     round2Hint: "Ez az állat háziállat vagy vadállat?",
     round2Teach: "A háziállatok otthon élnek az emberekkel — például kutyák, macskák és nyulak. A vadállatok a természetben élnek — például rókák, medvék és sas. Néhány állat mindkettő lehet!",
