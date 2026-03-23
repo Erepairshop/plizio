@@ -332,7 +332,7 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      type: "coordinate-system",
+      type: "coordinate-picker",
       targetX: 3,
       targetY: 4,
       range: 5, // Grid from -5 to +5
