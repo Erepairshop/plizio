@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Repeated addition (same groups) ────────────────────────────────────
 
@@ -315,102 +315,101 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-// ─── Topic definitions ───────────────────────────────────────────────────────
+// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
-const TOPICS: TopicDef[] = [
-  // Topic 1: Repeated addition
-  {
-    infoTitle: "t1_title",
-    infoText: "t1_text",
-    svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
-    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    interactive: {
-      type: "block-drag",
-      mode: "combine",
-      groups: [4, 4, 4],
-      answer: 12,
-      blockIcon: "🔵",
-      instruction: "t1_inst",
-      hint1: "t1_h1",
-      hint2: "t1_h2",
-    },
-    quiz: {
-      question: "t1_q",
-      choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
-      answer: "t1_q_6",
-    },
-  },
-
-  // Topic 2: Groups/array
-  {
-    infoTitle: "t2_title",
-    infoText: "t2_text",
-    svg: () => <GroupsSvg rows={3} cols={5} />,
-    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    interactive: {
-      type: "block-drag",
-      mode: "combine",
-      groups: [4, 4, 4],
-      answer: 12,
-      blockIcon: "🟣",
-      instruction: "t2_inst",
-      hint1: "t2_h1",
-      hint2: "t2_h2",
-    },
-    quiz: {
-      question: "t2_q",
-      choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
-      answer: "t2_q_12",
-    },
-  },
-
-  // Topic 3: Skip counting
-  {
-    infoTitle: "t3_title",
-    infoText: "t3_text",
-    svg: () => <SkipCountingSvg step={3} count={4} />,
-    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    interactive: {
-      type: "number-line",
-      min: 0,
-      max: 20,
-      start: 0,
-      target: 12,
-      showJumps: false,
-      instruction: "t3_inst",
-      hint1: "t3_h1",
-      hint2: "t3_h2",
-    },
-    quiz: {
-      question: "t3_q",
-      choices: ["t3_q_7", "t3_q_12", "t3_q_15", "t3_q_16"],
-      answer: "t3_q_12",
-    },
-  },
-];
-
-// ─── Explorer definition ─────────────────────────────────────────────────────
-
-const DEF: ExplorerDef = {
+const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
-  title: "explorer_title",
-  icon: "✖️",
-  topics: TOPICS,
-  rounds: [],
+  rounds: [
+    // ─ R1: Repeated addition ─
+    {
+      type: "info",
+      infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
+      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t1_title",
+      questions: [
+        {
+          question: "t1_q",
+          choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
+          answer: "t1_q_6",
+        },
+      ],
+    },
+
+    // ─ R2: Groups/array ─
+    {
+      type: "info",
+      infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <GroupsSvg rows={3} cols={5} />,
+      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t2_title",
+      questions: [
+        {
+          question: "t2_q",
+          choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
+          answer: "t2_q_12",
+        },
+      ],
+    },
+
+    // ─ R3: Skip counting ─
+    {
+      type: "info",
+      infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <SkipCountingSvg step={3} count={4} />,
+      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t3_title",
+      questions: [
+        {
+          question: "t3_q",
+          choices: ["t3_q_7", "t3_q_12", "t3_q_15", "t3_q_16"],
+          answer: "t3_q_12",
+        },
+        {
+          question: "t1_q",
+          choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
+          answer: "t1_q_6",
+        },
+        {
+          question: "t2_q",
+          choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
+          answer: "t2_q_12",
+        },
+      ],
+    },
+  ],
 };
 
-// ─── Export ──────────────────────────────────────────────────────────────────
+// ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
 
-const MultiplicationExplorer3 = memo(function MultiplicationExplorer3({
-  color = "#B44DFF",
-  onDone,
-  lang = "en",
-}: {
+interface Props {
   color?: string;
-  onDone: (s: number, t: number) => void;
   lang?: string;
-}) {
-  return <ExplorerEngine def={DEF} grade={3} explorerId="math_g3_multiplication" color={color} lang={lang} onDone={onDone} />;
-});
+  onDone?: (score: number, total: number) => void;
+  onClose?: () => void;
+}
 
-export default MultiplicationExplorer3;
+export default function MultiplicationExplorer3({ color = "#B44DFF", lang, onDone, onClose }: Props) {
+  return (
+    <ExplorerEngine
+      def={EXPLORER_DEF}
+      color={color}
+      lang={lang}
+      onDone={onDone}
+      onClose={onClose}
+      grade={3}
+    />
+  );
+}

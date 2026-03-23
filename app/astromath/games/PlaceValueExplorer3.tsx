@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Place value visualization (3-digit breakdown) ─────────────────────
 
@@ -318,102 +318,101 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-// ─── Topic definitions ───────────────────────────────────────────────────────
+// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
-const TOPICS: TopicDef[] = [
-  // Topic 1: Hundreds, tens, ones composition (build 305 from 3, 0, 5)
-  {
-    infoTitle: "t1_title",
-    infoText: "t1_text",
-    svg: () => <PlaceValueSvg number={347} />,
-    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    interactive: {
-      type: "block-drag",
-      mode: "place-value",
-      groups: [3, 0, 5],
-      answer: 305,
-      blockIcon: "🔢",
-      instruction: "t1_inst",
-      hint1: "t1_h1",
-      hint2: "t1_h2",
-    },
-    quiz: {
-      question: "t1_q",
-      choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
-      answer: "t1_q_268",
-    },
-  },
-
-  // Topic 2: Decomposing numbers (build 520 from 500 + 20)
-  {
-    infoTitle: "t2_title",
-    infoText: "t2_text",
-    svg: () => <DecompositionSvg number={534} />,
-    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    interactive: {
-      type: "block-drag",
-      mode: "combine",
-      groups: [500, 20],
-      answer: 520,
-      blockIcon: "🧩",
-      instruction: "t2_inst",
-      hint1: "t2_h1",
-      hint2: "t2_h2",
-    },
-    quiz: {
-      question: "t2_q",
-      choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
-      answer: "t2_q_500_20",
-    },
-  },
-
-  // Topic 3: Number line and place values (find 275 on 0-400 line)
-  {
-    infoTitle: "t3_title",
-    infoText: "t3_text",
-    svg: () => <NumberLinePVSvg number={275} />,
-    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    interactive: {
-      type: "number-line",
-      min: 0,
-      max: 400,
-      start: 200,
-      target: 275,
-      showJumps: false,
-      instruction: "t3_inst",
-      hint1: "t3_h1",
-      hint2: "t3_h2",
-    },
-    quiz: {
-      question: "t3_q",
-      choices: ["t3_q_250", "t3_q_350", "t3_q_150", "t3_q_450"],
-      answer: "t3_q_350",
-    },
-  },
-];
-
-// ─── Explorer definition ─────────────────────────────────────────────────────
-
-const DEF: ExplorerDef = {
+const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
-  title: "explorer_title",
-  icon: "🔢",
-  topics: TOPICS,
-  rounds: [],
+  rounds: [
+    // ─ R1: Hundreds-tens-ones composition ─
+    {
+      type: "info",
+      infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <PlaceValueSvg number={347} />,
+      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t1_title",
+      questions: [
+        {
+          question: "t1_q",
+          choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
+          answer: "t1_q_268",
+        },
+      ],
+    },
+
+    // ─ R2: Decomposing numbers ─
+    {
+      type: "info",
+      infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <DecompositionSvg number={534} />,
+      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t2_title",
+      questions: [
+        {
+          question: "t2_q",
+          choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
+          answer: "t2_q_500_20",
+        },
+      ],
+    },
+
+    // ─ R3: Number line and place values ─
+    {
+      type: "info",
+      infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <NumberLinePVSvg number={275} />,
+      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t3_title",
+      questions: [
+        {
+          question: "t3_q",
+          choices: ["t3_q_250", "t3_q_350", "t3_q_150", "t3_q_450"],
+          answer: "t3_q_350",
+        },
+        {
+          question: "t1_q",
+          choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
+          answer: "t1_q_268",
+        },
+        {
+          question: "t2_q",
+          choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
+          answer: "t2_q_500_20",
+        },
+      ],
+    },
+  ],
 };
 
-// ─── Export ──────────────────────────────────────────────────────────────────
+// ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
 
-const PlaceValueExplorer3 = memo(function PlaceValueExplorer3({
-  color = "#4ECDC4",
-  onDone,
-  lang = "en",
-}: {
+interface Props {
   color?: string;
-  onDone: (s: number, t: number) => void;
   lang?: string;
-}) {
-  return <ExplorerEngine def={DEF} grade={3} explorerId="math_g3_placevalue" color={color} lang={lang} onDone={onDone} />;
-});
+  onDone?: (score: number, total: number) => void;
+  onClose?: () => void;
+}
 
-export default PlaceValueExplorer3;
+export default function PlaceValueExplorer3({ color = "#B44DFF", lang, onDone, onClose }: Props) {
+  return (
+    <ExplorerEngine
+      def={EXPLORER_DEF}
+      color={color}
+      lang={lang}
+      onDone={onDone}
+      onClose={onClose}
+      grade={3}
+    />
+  );
+}

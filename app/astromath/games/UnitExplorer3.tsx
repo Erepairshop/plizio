@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Length comparison ──────────────────────────────────────────────────
 
@@ -296,104 +296,101 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-// ─── Topic definitions ───────────────────────────────────────────────────────
+// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
-const TOPICS: TopicDef[] = [
-  // Topic 1: Length
-  {
-    infoTitle: "t1_title",
-    infoText: "t1_text",
-    svg: () => <LengthSvg />,
-    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    interactive: {
-      type: "number-line",
-      min: 0,
-      max: 500,
-      start: 0,
-      target: 500,
-      showJumps: false,
-      instruction: "t1_inst",
-      hint1: "t1_h1",
-      hint2: "t1_h2",
-    },
-    quiz: {
-      question: "t1_q",
-      choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
-      answer: "t1_q_500",
-    },
-  },
-
-  // Topic 2: Weight
-  {
-    infoTitle: "t2_title",
-    infoText: "t2_text",
-    svg: () => <WeightSvg />,
-    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    interactive: {
-      type: "number-line",
-      min: 0,
-      max: 3000,
-      start: 0,
-      target: 3000,
-      showJumps: false,
-      instruction: "t2_inst",
-      hint1: "t2_h1",
-      hint2: "t2_h2",
-    },
-    quiz: {
-      question: "t2_q",
-      choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
-      answer: "t2_q_3000",
-    },
-  },
-
-  // Topic 3: Time
-  {
-    infoTitle: "t3_title",
-    infoText: "t3_text",
-    svg: () => <TimeSvg />,
-    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    interactive: {
-      type: "number-line",
-      min: 0,
-      max: 240,
-      start: 0,
-      target: 120,
-      showJumps: false,
-      instruction: "t3_inst",
-      hint1: "t3_h1",
-      hint2: "t3_h2",
-    },
-    quiz: {
-      question: "t3_q",
-      choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
-      answer: "t3_q_120",
-    },
-  },
-];
-
-// ─── Explorer definition ─────────────────────────────────────────────────────
-
-const DEF: ExplorerDef = {
+const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
-  title: "explorer_title",
-  icon: "📏",
-  topics: TOPICS,
-  rounds: [],
+  rounds: [
+    // ─ R1: Length ─
+    {
+      type: "info",
+      infoTitle: "t1_title",
+      infoText: "t1_text",
+      svg: () => <LengthSvg />,
+      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t1_title",
+      questions: [
+        {
+          question: "t1_q",
+          choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
+          answer: "t1_q_500",
+        },
+      ],
+    },
+
+    // ─ R2: Weight ─
+    {
+      type: "info",
+      infoTitle: "t2_title",
+      infoText: "t2_text",
+      svg: () => <WeightSvg />,
+      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t2_title",
+      questions: [
+        {
+          question: "t2_q",
+          choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
+          answer: "t2_q_3000",
+        },
+      ],
+    },
+
+    // ─ R3: Time ─
+    {
+      type: "info",
+      infoTitle: "t3_title",
+      infoText: "t3_text",
+      svg: () => <TimeSvg />,
+      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    },
+    {
+      type: "mcq",
+      infoTitle: "t3_title",
+      questions: [
+        {
+          question: "t3_q",
+          choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
+          answer: "t3_q_120",
+        },
+        {
+          question: "t1_q",
+          choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
+          answer: "t1_q_500",
+        },
+        {
+          question: "t2_q",
+          choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
+          answer: "t2_q_3000",
+        },
+      ],
+    },
+  ],
 };
 
-// ─── Export ──────────────────────────────────────────────────────────────────
+// ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
 
-const UnitExplorer3 = memo(function UnitExplorer3({
-  color = "#FFD700",
-  onDone,
-  lang = "en",
-}: {
+interface Props {
   color?: string;
-  onDone: (s: number, t: number) => void;
   lang?: string;
-}) {
-  return <ExplorerEngine def={DEF} grade={3} explorerId="math_g3_units" color={color} lang={lang} onDone={onDone} />;
-});
+  onDone?: (score: number, total: number) => void;
+  onClose?: () => void;
+}
 
-export default UnitExplorer3;
+export default function UnitExplorer3({ color = "#FFD700", lang, onDone, onClose }: Props) {
+  return (
+    <ExplorerEngine
+      def={EXPLORER_DEF}
+      color={color}
+      lang={lang}
+      onDone={onDone}
+      onClose={onClose}
+      grade={3}
+    />
+  );
+}
