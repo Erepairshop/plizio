@@ -1,15 +1,13 @@
 "use client";
-// components/interactive/RatioSlider.tsx
-
 import { useState, memo } from "react";
 
 interface RatioSliderProps {
-  baseValue: number;    // Az első csúszka fix értéke (pl. 2 alma)
-  basePrice: number;    // Az elsőhöz tartozó ár (pl. 100 Ft)
-  targetValue: number;  // A kérdéses mennyiség (pl. 5 alma)
-  targetPrice: number;  // A helyes válasz (ezt kell eltalálni: 250 Ft)
-  unitName: string;     // pl. "kg" vagy "pcs"
-  currency: string;     // pl. "Ft" vagy "$"
+  baseValue: number;
+  basePrice: number;
+  targetValue: number;
+  targetPrice: number;
+  unitName: string;
+  currency: string;
   color: string;
   onDone: (correct: boolean) => void;
 }
@@ -26,69 +24,86 @@ const RatioSlider = memo(function RatioSlider({
 }: RatioSliderProps) {
   const [guess, setGuess] = useState(0);
 
-  // Meghatározzuk a csúszka tartományát (a célár köré lőjük be)
+  // Maximum csúszka érték: a cél 150%-a (hogy legyen hova túlhúzni)
   const maxRange = Math.ceil(targetPrice * 1.5);
+  // Az egy darabra eső "egységár" a vizuális kitöltéshez
+  const unitRatio = basePrice / baseValue;
 
   const handleRelease = () => {
-    // 5%-os hibahatáron belül elfogadjuk (vagy legyen tűpontos: guess === targetPrice)
-    if (Math.abs(guess - targetPrice) < (targetPrice * 0.05)) {
+    // Ha pontosan eltalálta
+    if (guess === targetPrice) {
       onDone(true);
     }
   };
 
   return (
-    <div className="flex flex-col items-center w-full space-y-8 p-6 bg-white/5 rounded-2xl border border-white/10">
+    <div className="flex flex-col w-full max-w-lg mx-auto p-6 bg-slate-800/50 rounded-2xl border border-slate-700 shadow-2xl backdrop-blur-md">
       
-      {/* Fix Arány (Példa) */}
-      <div className="w-full space-y-2 opacity-60">
-        <div className="flex justify-between text-sm uppercase tracking-wider font-bold">
-          <span>Example</span>
-          <span>{baseValue} {unitName} = {basePrice} {currency}</span>
+      {/* 1. Bázis Arány (Referencia) */}
+      <div className="mb-6">
+        <div className="flex justify-between items-end mb-2">
+          <span className="text-xs font-bold uppercase tracking-wider text-slate-400">Példa (Bázis)</span>
+          <span className="text-sm font-mono font-bold text-slate-300">
+            {baseValue} {unitName} = {basePrice} {currency}
+          </span>
         </div>
-        <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+        <div className="h-4 bg-slate-900 rounded-full overflow-hidden border border-slate-700">
           <div 
-            className="h-full bg-gray-400" 
-            style={{ width: `${(basePrice / maxRange) * 100}%` }}
+            className="h-full opacity-50 transition-all duration-300"
+            style={{ width: `${(basePrice / maxRange) * 100}%`, backgroundColor: color }}
           />
         </div>
       </div>
 
-      <div className="w-full h-px bg-white/10" />
+      {/* Elválasztó */}
+      <div className="w-full h-px bg-slate-700 my-2" />
 
-      {/* Interaktív rész */}
-      <div className="w-full space-y-6">
-        <div className="flex justify-between items-end">
-          <div className="flex flex-col">
-            <span className="text-xs opacity-50 uppercase font-bold text-left">Task</span>
-            <span className="text-xl font-bold">{targetValue} {unitName} = ?</span>
+      {/* 2. Feladat (Keresett érték) */}
+      <div className="mt-6">
+        <div className="flex justify-between items-end mb-4">
+          <span className="text-xs font-bold uppercase tracking-wider text-slate-400">Feladat</span>
+          <span className="text-xl font-mono font-black" style={{ color }}>
+            {targetValue} {unitName} = {guess} {currency}
+          </span>
+        </div>
+        
+        {/* Egyedi Range Slider */}
+        <div className="relative w-full h-8 flex items-center">
+          <input
+            type="range"
+            min="0"
+            max={maxRange}
+            step="1"
+            value={guess}
+            onChange={(e) => setGuess(Number(e.target.value))}
+            onMouseUp={handleRelease}
+            onTouchEnd={handleRelease}
+            className="absolute z-20 w-full opacity-0 cursor-pointer h-full"
+          />
+          {/* Vizuális Track */}
+          <div className="absolute z-10 w-full h-4 bg-slate-900 rounded-full border border-slate-700 overflow-hidden">
+             <div 
+               className="h-full transition-all duration-75"
+               style={{ width: `${(guess / maxRange) * 100}%`, backgroundColor: color }}
+             />
           </div>
-          <div className="text-2xl font-mono font-black" style={{ color }}>
-            {guess} {currency}
-          </div>
+          {/* Thumb imitáció */}
+          <div 
+            className="absolute z-10 w-6 h-6 bg-white rounded-full shadow-lg border-2 pointer-events-none transition-all duration-75"
+            style={{ 
+              left: `calc(${(guess / maxRange) * 100}% - 12px)`,
+              borderColor: color 
+            }}
+          />
         </div>
 
-        <input
-          type="range"
-          min="0"
-          max={maxRange}
-          step="1"
-          value={guess}
-          onChange={(e) => setGuess(parseInt(e.target.value))}
-          onMouseUp={handleRelease}
-          onTouchEnd={handleRelease}
-          className="w-full h-3 bg-white/20 rounded-lg appearance-none cursor-pointer accent-white"
-          style={{ accentColor: color }}
-        />
-        
-        <div className="flex justify-between text-[10px] opacity-30 font-bold px-1">
+        {/* Min/Max feliratok */}
+        <div className="flex justify-between text-[10px] font-bold text-slate-500 mt-2 px-1">
           <span>0 {currency}</span>
           <span>{maxRange} {currency}</span>
         </div>
       </div>
 
-      <div className="text-center text-sm font-medium animate-pulse italic opacity-80">
-        "Slide to set the correct price!"
-      </div>
     </div>
   );
 });
