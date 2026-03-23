@@ -426,13 +426,13 @@ function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teac
 
   const q = questions[qIdx];
 
-  const handleAnswer = useCallback((key: string, isCorrect: boolean) => {
+  const handleAnswer = useCallback((key: string, isCorrect: boolean, correctAns?: string) => {
     if (locked) return;
     setChosen(key);
     setLocked(true);
     if (isCorrect) roundScore.current++;
-    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: lbl(correctKey), topic: "Recycling Explorer", lang });
-  }, [locked, hintKey, correctKey, lbl, lang]);
+    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: correctAns ? lbl(correctAns) : "", topic: "Recycling Explorer", lang });
+  }, [locked, hintKey, lbl, lang]);
 
   const handleNext = useCallback(() => {
     if (!locked) return;
@@ -468,14 +468,14 @@ function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teac
       const nq = q as NatureQ;
       return nq.choices.map(ch => (
         <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
       ));
     }
     if (kind === "recycle") {
       const rq = q as RecycleQ;
       return rq.choices.map(ch => (
         <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
       ));
     }
     if (kind === "bin") {
@@ -484,7 +484,7 @@ function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teac
         <div key={ch} className="flex items-center gap-2 w-full">
           <div className="w-3 h-3 rounded-full flex-shrink-0" style={{ background: BIN_COLOR[ch] }} />
           <MCQBtn label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
         </div>
       ));
     }
@@ -492,7 +492,7 @@ function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teac
     const mq = q as MaterialQ;
     return mq.choices.map(ch => (
       <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey)} />
+        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
     ));
   }
 
