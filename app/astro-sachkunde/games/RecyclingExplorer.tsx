@@ -430,7 +430,8 @@ function Round({ color, t, questions, onRoundDone, titleKey, hintKey, teachKey, 
     setChosen(key);
     setLocked(true);
     if (isCorrect) roundScore.current++;
-  }, [locked]);
+    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: lbl(correctKey), topic: "Recycling Explorer", lang: (t as Record<string, string>)._lang ?? "de" });
+  }, [locked, hintKey, correctKey, lbl, t]);
 
   const handleNext = useCallback(() => {
     if (!locked) return;

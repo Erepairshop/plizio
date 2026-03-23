@@ -193,6 +193,7 @@ const SentenceScramble = memo(function SentenceScramble({
     } else {
       // Wrong word — bounce it back (visual handled below by wrongTile state)
       advance("wrong", false);
+      fireWrongAnswer({ question: currentSentence.words.join(" ") + currentSentence.punct, wrongAnswer: currentSentence.words[wordIdx] || "", correctAnswer: currentSentence.words[nextPos] || "", topic: "Sentence Scramble", lang: "de" });
     }
   }, [phase, placedTiles, currentSentence, advance]);
 

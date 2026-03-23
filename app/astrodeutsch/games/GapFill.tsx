@@ -151,6 +151,9 @@ const GapFill = memo(function GapFill({
     if (correct) {
       setScore(newScore);
       scoreRef.current = newScore;
+    } else {
+      const currentQ = questions[qIdx];
+      fireWrongAnswer({ question: (currentQ.before || "") + "___" + (currentQ.after || ""), wrongAnswer: sel || "—", correctAnswer: currentQ.correct, topic: "Gap Fill", lang: "de" });
     }
 
     setTimeout(() => {

@@ -141,6 +141,9 @@ const GravitySort = memo(function GravitySort({
       const newCorrect = isCorrect ? correct + 1 : correct;
       setFeedback(isCorrect ? "correct" : "wrong");
       setCorrect(newCorrect);
+      if (!isCorrect) {
+        fireWrongAnswer({ question: roundData.prompt || "Sort the numbers", wrongAnswer: userOrder.join(", "), correctAnswer: roundData.sorted.join(", "), topic: "Gravity Sort", lang: lang || "de" });
+      }
 
       setTimeout(() => {
         const nextRound = round + 1;

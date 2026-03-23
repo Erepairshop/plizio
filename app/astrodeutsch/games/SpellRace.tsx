@@ -206,6 +206,7 @@ const SpellRace = memo(function SpellRace({
       // Wrong letter — flash red then return
       setWrongTile(tileIdx);
       setTimeout(() => setWrongTile(null), 400);
+      fireWrongAnswer({ question: currentWord, wrongAnswer: currentWord[tile.letterIndex] || "", correctAnswer: currentWord[expectedLetterIndex] || "", topic: "Spell Race", lang: "de" });
     }
   }, [phase, tiles, answer, currentWord, advance]);
 

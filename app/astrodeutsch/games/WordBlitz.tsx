@@ -193,6 +193,9 @@ const WordBlitz = memo(function WordBlitz({
     if (answeredRef.current || done || fb !== null) return;
     const stmt = statements[idx];
     const correct = userTrue === stmt.isTrue;
+    if (!correct) {
+      fireWrongAnswer({ question: stmt.text, wrongAnswer: userTrue ? "TRUE" : "FALSE", correctAnswer: stmt.isTrue ? "TRUE" : "FALSE", topic: "Word Blitz", lang: lang || "de" });
+    }
     respond(correct ? "correct" : "wrong", correct);
   };
 

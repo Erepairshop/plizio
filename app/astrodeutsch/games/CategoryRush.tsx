@@ -219,6 +219,7 @@ const CategoryRush = memo(function CategoryRush({
     // Highlight correct zone on wrong/missed
     if (!correct) {
       setHighlightCat(currentItem.category);
+      fireWrongAnswer({ question: currentItem.item, wrongAnswer: fb === "missed" ? "—" : currentItem.item, correctAnswer: currentItem.category, topic: "Category Rush", lang: "de" });
     }
 
     const delay = correct ? 700 : 900;
