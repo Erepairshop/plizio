@@ -1582,6 +1582,7 @@ generateCheckpointQuestions(testId, lang, count)
 1. **G6-G8 oldalak** — `/astromath/6/`, `/astromath/7/`, `/astromath/8/` megvalósítása
 2. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
 3. **Animált pályabejárás** — ✅ KÉSZ (IslandCompleteAnimation + RocketTransition)
+4. **G3/G4 explorerek átírása topic módra** — A G3/G4 explorerek jelenleg régi "flat rounds" módot használnak (info→mcq), míg a G1/G2 explorerek az újabb "topic" módot (topic-teach→topic-interact→topic-quiz). A topic mód jobb: van interaktív elem (block-drag, number-line). ~15 explorer fájl, fájlonként ~50 sor változás. Lépések: `rounds:[...]` → `topics:[...]`, interactive config hozzáadás, +15 sor LABELS/fájl (instruction/hint 4 nyelven).
 
 ### Új Grade (G6/G7/G8) hozzáadása — lépésről lépésre
 
