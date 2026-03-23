@@ -3,6 +3,7 @@
 // Shows sentence with "___" placeholder, user taps an option to fill it
 import { memo, useState } from "react";
 import { motion } from "framer-motion";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface FillTheGapProps {
   sentence: string;   // sentence with "___" placeholder

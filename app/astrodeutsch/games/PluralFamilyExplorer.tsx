@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import TreeBranch from "@/app/astrodeutsch/games/blocks/TreeBranch";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -211,6 +212,7 @@ function Round2({
     const isCorrect = SORT_WORDS.find(w => w.word === selected)?.correct === bucket;
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Plurals", lang: "de" });
     }
     setPlaced(p => ({ ...p, [selected]: bucket }));
     setSelected(null);
@@ -318,6 +320,7 @@ function Round4({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Plurals", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -388,6 +391,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Plurals", lang: "de" });
     }
   };
   const handleNext = () => {

@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -382,6 +383,7 @@ function Round4({ color, lbl, wrongCountRef, onNext, showTeach = false }: { colo
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Comparison", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -464,6 +466,7 @@ function Round5({ color, lbl, wrongCountRef, onDone, showTeach = false }: { colo
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Comparison", lang: "de" });
     }
   };
   const handleNext = () => {

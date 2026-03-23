@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -385,6 +386,7 @@ function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   // Track wrong answer when they submit an incorrect order
   if (allPlaced && !isCorrect && idx + 1 < WORD_ORDER_SENTENCES.length) {
     wrongCountRef.current++;
+    fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Types", lang: "de" });
   }
 
   if (done) return (

@@ -8,6 +8,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: { correct: "Correct! ✅", wrong: "Wrong! Answer:", next: "Next", done: "Done!" },
@@ -44,6 +45,7 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
       onCorrect?.();
     } else {
       onWrong?.();
+      fireWrongAnswer({ question: q.question, wrongAnswer: s, correctAnswer: String(q.correctAnswer), topic: "Equation Drill", lang });
     }
   }, [confirmed, q, onCorrect, onWrong]);
 

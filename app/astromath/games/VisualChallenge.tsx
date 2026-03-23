@@ -1,6 +1,7 @@
 "use client";
 import { memo, useState, useCallback, useRef } from "react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 /**
  * VisualChallenge — wrapper that mounts Math Test visual components
@@ -32,6 +33,7 @@ const VisualChallenge = memo(function VisualChallenge({
 
   const handleAnswer = useCallback((isCorrect: boolean) => {
     if (isCorrect) correctRef.current += 1;
+    else fireWrongAnswer({ question: `Visual Challenge round ${round + 1}`, wrongAnswer: "incorrect", correctAnswer: "correct", topic: "Visual Challenge", lang });
 
     // Wait for visual component's own feedback animation, then advance
     setTimeout(() => {

@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
 import { T } from "@/app/astromath/games/translations";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 function randInt(lo: number, hi: number) { return Math.floor(Math.random() * (hi - lo + 1)) + lo; }
 
@@ -36,6 +37,7 @@ const NumberDuel = memo(function NumberDuel({ sortRange, color, onDone }: {
     const isRight = val === correctAnswer;
     const newCorrect = isRight ? correct + 1 : correct;
     if (isRight) setCorrect(newCorrect);
+    else fireWrongAnswer({ question, wrongAnswer: String(val), correctAnswer: String(correctAnswer), topic: "Number Duel", lang });
     setFeedback(isRight ? "correct" : "wrong");
     setTimeout(() => {
       const nextRound = round + 1;

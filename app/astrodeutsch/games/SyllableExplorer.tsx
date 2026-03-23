@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -355,6 +356,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -487,6 +489,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: d, correctAnswer: item.diphthong, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -618,6 +621,7 @@ function Round4({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: s, correctAnswer: item.start, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -728,6 +732,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {

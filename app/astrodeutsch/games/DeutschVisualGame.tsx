@@ -42,6 +42,7 @@ import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
 import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
 import KasusMarkieren from "@/components/deutsch-visual/KasusMarkieren";
 import AdjektivEndungen from "@/components/deutsch-visual/AdjektivEndungen";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 type VisualType =

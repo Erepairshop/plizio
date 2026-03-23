@@ -7,6 +7,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Translations ─────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -305,6 +306,8 @@ const PercentBar = memo(function PercentBar({
     setSelected(value);
     if (value === round.percent) {
       setScore((s) => s + 1);
+    } else {
+      fireWrongAnswer({ question: round.mode === "read" ? lbl.modeRead : `${lbl.modeFill} ${round.percent}%`, wrongAnswer: `${value}%`, correctAnswer: `${round.percent}%`, topic: "Percent Bar", lang });
     }
     setPhase("feedback");
   }, [phase, round]);

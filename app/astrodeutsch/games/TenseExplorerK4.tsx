@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -414,6 +415,7 @@ function Round4({
     setSelected(aux);
     if (aux !== item.aux) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: selected, correctAnswer: item.aux, topic: "Verb Tenses", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= PERFEKT_SORT.length) onNext();
@@ -505,6 +507,7 @@ function Round5({
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: sel || selected, correctAnswer: item.correct, topic: "Verb Tenses", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= TENSE_QUIZ.length) onDone();

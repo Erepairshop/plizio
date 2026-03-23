@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import FillTheGap from "./blocks/FillTheGap";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -234,6 +235,7 @@ function Round2({
   const handleDone = (correct: boolean) => {
     if (!correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Review", lang: "de" });
     }
     if (idx + 1 >= ITEMS.length) setTimeout(onNext, 800);
     else setTimeout(() => setIdx(i => i + 1), 900);

@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -256,6 +257,7 @@ function Round3({
                       q.correctCommaAfter.every(i => inserted.has(i));
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: size, correctAnswer: q.correctCommaAfter, topic: "Punctuation", lang: "de" });
     }
     setTimeout(() => {
       if (qi + 1 >= COMMA_INSERT.length) onNext();
@@ -343,6 +345,7 @@ function Round4({
     setRevealed(true);
     if (val !== q.needsComma) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Punctuation", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -416,6 +419,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Punctuation", lang: "de" });
     }
   };
   const handleNext = () => {

@@ -8,6 +8,7 @@ import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -176,7 +177,11 @@ const ChainCalc = memo(function ChainCalc({
   const handleSelect = (opt: number) => {
     if (answered) return;
     setSelected(opt);
-    if (opt === chain.result) setScore(s => s + 1);
+    if (opt === chain.result) {
+      setScore(s => s + 1);
+    } else {
+      fireWrongAnswer({ question: `${chain.start} ${chain.op1.sym}${chain.op1.n} → ${chain.mid1} ${chain.op2.sym}${chain.op2.n} → ■ ${chain.op3.sym}${chain.op3.n} → ?`, wrongAnswer: String(opt), correctAnswer: String(chain.result), topic: "Chain Calculation", lang });
+    }
   };
 
   const handleNext = useCallback(() => {
