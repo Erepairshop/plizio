@@ -49,6 +49,34 @@ const L: Record<string, Record<string, string>> = {
   },
 };
 
+/* ── Helpers ────────────────────────────────────────────────── */
+
+/** Format large numbers compactly: 2700000 → "2.7M", 350000 → "350k", 42 → "42" */
+function fmtNum(n: number): string {
+  const abs = Math.abs(n);
+  if (abs >= 1_000_000) {
+    const m = n / 1_000_000;
+    return Number.isInteger(m) ? `${m}M` : `${parseFloat(m.toFixed(1))}M`;
+  }
+  if (abs >= 10_000) {
+    const k = n / 1000;
+    return Number.isInteger(k) ? `${k}k` : `${parseFloat(k.toFixed(1))}k`;
+  }
+  if (abs >= 1000) {
+    return n.toLocaleString("en").replace(/,/g, " ");
+  }
+  return String(n);
+}
+
+/** Decide how many ticks to skip between labels so they don't overlap */
+function labelEvery(tickCount: number, range: number): number {
+  if (range >= 1_000_000 && tickCount > 6) return Math.ceil(tickCount / 5);
+  if (range >= 100_000 && tickCount > 8) return Math.ceil(tickCount / 6);
+  if (tickCount > 15) return Math.ceil(tickCount / 8);
+  if (tickCount > 10) return 2;
+  return 1;
+}
+
 /* ── Component ──────────────────────────────────────────────── */
 
 function NumberLineTap({
@@ -73,6 +101,8 @@ function NumberLineTap({
     for (let i = min; i <= max; i += step) arr.push(i);
     return arr;
   }, [min, max, step]);
+
+  const skipLabel = useMemo(() => labelEvery(ticks.length, max - min), [ticks.length, max, min]);
 
   const [selected, setSelected] = useState<number | null>(null);
   const [wrongCount, setWrongCount] = useState(0);
@@ -195,7 +225,7 @@ function NumberLineTap({
           />
 
           {/* ticks + numbers */}
-          {ticks.map((n) => {
+          {ticks.map((n, idx) => {
             const x = tickX(n);
             const isStart = n === start;
             const isTarget = n === target && solved;
@@ -207,36 +237,46 @@ function NumberLineTap({
             else if (isWrong) tickColor = "#FF4444";
             else if (isStart) tickColor = color;
 
+            // Show label on: first, last, start, target (when solved), every Nth, and wrong tick
+            const isKeyTick = idx === 0 || idx === ticks.length - 1 || isStart || isTarget || isWrong;
+            const showLabel = isKeyTick || (idx % skipLabel === 0);
+
+            // Dynamic font size based on number magnitude
+            const useLargeNums = (max - min) >= 10000;
+            const baseFontSize = useLargeNums ? 7 : ticks.length > 15 ? 7 : 9;
+
             return (
               <g key={n}>
                 {/* tick mark */}
                 <line
                   x1={x}
-                  y1={LINE_Y - 6}
+                  y1={LINE_Y - (showLabel ? 6 : 4)}
                   x2={x}
-                  y2={LINE_Y + 6}
+                  y2={LINE_Y + (showLabel ? 6 : 4)}
                   stroke={tickColor}
-                  strokeWidth={isStart || isTarget ? 2.5 : 1.5}
+                  strokeWidth={isStart || isTarget ? 2.5 : showLabel ? 1.5 : 1}
                 />
-                {/* number label */}
-                <text
-                  x={x}
-                  y={LINE_Y + 18}
-                  textAnchor="middle"
-                  fontSize={ticks.length > 15 ? 7 : 9}
-                  fontWeight={isStart || isTarget ? 800 : 500}
-                  fill={
-                    isTarget
-                      ? "#00FF88"
-                      : isWrong
-                        ? "#FF4444"
-                        : isStart
-                          ? color
-                          : "rgba(255,255,255,0.55)"
-                  }
-                >
-                  {n}
-                </text>
+                {/* number label — only on visible ticks */}
+                {showLabel && (
+                  <text
+                    x={x}
+                    y={LINE_Y + 18}
+                    textAnchor="middle"
+                    fontSize={baseFontSize}
+                    fontWeight={isStart || isTarget ? 800 : 500}
+                    fill={
+                      isTarget
+                        ? "#00FF88"
+                        : isWrong
+                          ? "#FF4444"
+                          : isStart
+                            ? color
+                            : "rgba(255,255,255,0.55)"
+                    }
+                  >
+                    {fmtNum(n)}
+                  </text>
+                )}
                 {/* tap area (invisible larger rect) */}
                 <rect
                   x={x - 12}
