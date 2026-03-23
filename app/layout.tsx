@@ -3,6 +3,7 @@ import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import { LanguageProvider } from "@/components/LanguageProvider";
 import ChallengeOverlay from "@/components/ChallengeOverlay";
+import AITutorOverlay from "@/components/AITutorOverlay";
 import CookieConsent from "@/components/CookieConsent";
 
 export const metadata: Metadata = {
@@ -129,6 +130,7 @@ export default function RootLayout({
         <LanguageProvider>
           {children}
           <ChallengeOverlay />
+          <AITutorOverlay />
         </LanguageProvider>
         <CookieConsent />
         <ServiceWorkerRegister />
