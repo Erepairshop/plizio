@@ -7,6 +7,110 @@ import React from "react";
 import ExplorerEngine from "./ExplorerEngine";
 import type { ExplorerDef } from "./ExplorerEngine";
 
+function SVG_SUN() {
+  return (
+    <svg viewBox="0 0 120 120" className="w-10 h-10">
+      <defs>
+        <radialGradient id="sunCore">
+          <stop offset="0%" stopColor="#fff7cc" />
+          <stop offset="50%" stopColor="#fde047" />
+          <stop offset="100%" stopColor="#f59e0b" />
+        </radialGradient>
+
+        <radialGradient id="sunGlow">
+          <stop offset="0%" stopColor="rgba(253,224,71,0.6)" />
+          <stop offset="100%" stopColor="rgba(253,224,71,0)" />
+        </radialGradient>
+      </defs>
+
+      {/* Glow */}
+      <circle cx="60" cy="60" r="50" fill="url(#sunGlow)" />
+
+      {/* Core */}
+      <circle cx="60" cy="60" r="20" fill="url(#sunCore)" />
+
+      {/* Rays */}
+      <g stroke="#fde047" strokeWidth="3" strokeLinecap="round">
+        <line x1="60" y1="10" x2="60" y2="0" />
+        <line x1="60" y1="120" x2="60" y2="110" />
+        <line x1="10" y1="60" x2="0" y2="60" />
+        <line x1="120" y1="60" x2="110" y2="60" />
+
+        <line x1="20" y1="20" x2="10" y2="10" />
+        <line x1="100" y1="20" x2="110" y2="10" />
+        <line x1="20" y1="100" x2="10" y2="110" />
+        <line x1="100" y1="100" x2="110" y2="110" />
+      </g>
+    </svg>
+  );
+}
+function SVG_WATER() {
+  return (
+    <svg viewBox="0 0 120 120" className="w-10 h-10">
+      <defs>
+        <linearGradient id="waterDrop" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#7dd3fc" />
+          <stop offset="50%" stopColor="#38bdf8" />
+          <stop offset="100%" stopColor="#0284c7" />
+        </linearGradient>
+
+        <radialGradient id="waterGlow">
+          <stop offset="0%" stopColor="rgba(56,189,248,0.4)" />
+          <stop offset="100%" stopColor="rgba(56,189,248,0)" />
+        </radialGradient>
+      </defs>
+
+      {/* Glow */}
+      <circle cx="60" cy="70" r="40" fill="url(#waterGlow)" />
+
+      {/* Drop */}
+      <path
+        d="M60 10 C60 10, 25 55, 25 75 A35 35 0 0 0 95 75 C95 55, 60 10, 60 10 Z"
+        fill="url(#waterDrop)"
+      />
+
+      {/* Highlight */}
+      <ellipse cx="50" cy="65" rx="6" ry="12" fill="rgba(255,255,255,0.25)" />
+    </svg>
+  );
+}
+function SVG_GLUCOSE() {
+  return (
+    <svg viewBox="0 0 120 120" className="w-10 h-10">
+      <defs>
+        <linearGradient id="sugarCube" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#fde68a" />
+          <stop offset="50%" stopColor="#fbbf24" />
+          <stop offset="100%" stopColor="#f59e0b" />
+        </linearGradient>
+
+        <radialGradient id="sugarGlow">
+          <stop offset="0%" stopColor="rgba(251,191,36,0.5)" />
+          <stop offset="100%" stopColor="rgba(251,191,36,0)" />
+        </radialGradient>
+      </defs>
+
+      {/* Glow */}
+      <circle cx="60" cy="60" r="45" fill="url(#sugarGlow)" />
+
+      {/* Cube */}
+      <g transform="translate(60,60)">
+        <polygon points="-20,-10 0,-25 20,-10 0,5" fill="url(#sugarCube)" />
+        <polygon points="-20,-10 -20,15 0,30 0,5" fill="#f59e0b" opacity="0.8" />
+        <polygon points="20,-10 20,15 0,30 0,5" fill="#d97706" opacity="0.8" />
+      </g>
+
+      {/* Sparkles */}
+      <g fill="#fff" opacity="0.7">
+        <circle cx="30" cy="40" r="2" />
+        <circle cx="85" cy="35" r="1.5" />
+        <circle cx="70" cy="90" r="2" />
+      </g>
+    </svg>
+  );
+}
+
+
 // ─────────────────────────────────────────────────────────────────────────────
 // LABELS — all content in 4 languages
 // ─────────────────────────────────────────────────────────────────────────────
@@ -25,8 +129,8 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_title: "Photosynthesis: How Plants Make Food",
     r2_text: "Plants use sunlight, water, and carbon dioxide to make their own food (glucose) and release oxygen.",
     r2_fact1: "Photosynthesis happens mainly in the leaves",
-    r2_fact2: "Three things needed: sunlight ☀️, water 💧, carbon dioxide CO₂",
-    r2_fact3: "Two things produced: glucose (sugar) 🍬, oxygen O₂",
+    r2_fact2: ""Three things needed: sunlight, water, carbon dioxide CO₂"",
+    r2_fact3: "Two things produced: glucose (sugar) , oxygen O₂",
     r2_fact4: "This oxygen is what we breathe — plants give us fresh air!",
 
     // Round 3: Water Transport
@@ -94,8 +198,8 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_title: "Fotosynthese: Wie Pflanzen Nahrung machen",
     r2_text: "Pflanzen nutzen Sonnenlicht, Wasser und Kohlendioxid, um ihre eigene Nahrung (Glukose) herzustellen und Sauerstoff freizusetzen.",
     r2_fact1: "Fotosynthese findet hauptsächlich in den Blättern statt",
-    r2_fact2: "Drei Dinge nötig: Sonnenlicht ☀️, Wasser 💧, Kohlendioxid CO₂",
-    r2_fact3: "Zwei Dinge entstehen: Glukose (Zucker) 🍬, Sauerstoff O₂",
+    r2_fact2: "Drei Dinge nötig: Sonnenlicht , Wasser , Kohlendioxid CO₂",
+    r2_fact3: "Zwei Dinge entstehen: Glukose (Zucker) , Sauerstoff O₂",
     r2_fact4: "Dieser Sauerstoff ist, was wir atmen — Pflanzen geben uns frische Luft!",
 
     r3_title: "Wassertransport: Die Reise",
@@ -159,8 +263,8 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_title: "Fotoszintézis: Hogyan készítik a növények az ételt",
     r2_text: "A növények napfényt, vizet és szén-dioxidot használnak a saját tápanyag (glükóz) előállításához és oxigén felszabadításához.",
     r2_fact1: "A fotoszintézis főleg a levelekben történik",
-    r2_fact2: "Három dolog szükséges: napfény ☀️, víz 💧, szén-dioxid CO₂",
-    r2_fact3: "Két dolog keletkezik: glükóz (cukor) 🍬, oxigén O₂",
+    r2_fact2: "Három dolog szükséges: napfény , víz , szén-dioxid CO₂",
+    r2_fact3: "Két dolog keletkezik: glükóz (cukor) , oxigén O₂",
     r2_fact4: "Ez az oxigén az, amit mi lélegzünk — a növények friss levegőt adnak nekünk!",
 
     r3_title: "Vízszállítás: Az utazás",
@@ -224,8 +328,8 @@ const LABELS: Record<string, Record<string, string>> = {
     r2_title: "Fotosinteza: Cum fac plantele hrana",
     r2_text: "Plantele folosesc lumina soarelui, apa și dioxid de carbon pentru a-și face propria hrană (glucoză) și a elibera oxigen.",
     r2_fact1: "Fotosinteza se întâmplă mai ales în frunze",
-    r2_fact2: "Trei lucruri necesare: lumina soarelui ☀️, apă 💧, dioxid de carbon CO₂",
-    r2_fact3: "Două lucruri produse: glucoză (zahăr) 🍬, oxigen O₂",
+    r2_fact2: "Trei lucruri necesare: lumina soarelui , apă , dioxid de carbon CO₂",
+    r2_fact3: "Două lucruri produse: glucoză (zahăr) , oxigen O₂",
     r2_fact4: "Acest oxigen este ceea ce respirăm — plantele ne dau aer proaspăt!",
 
     r3_title: "Transport de apă: Călătoria",
@@ -527,6 +631,18 @@ function SVG_R2(lang: string): React.ReactNode {
 
       {/* GLUCOSE OUTPUT — exiting downward */}
       <path d="M 120 115 Q 120 130 120 145" stroke="#FFB74D" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_glucose)" />
+      {/* ICON SUMMARY (SUN + WATER → GLUCOSE) */}
+<g transform="translate(120, 150)">
+  <foreignObject x="-70" y="-10" width="140" height="40">
+    <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "6px" }}>
+      <SVG_SUN />
+      <span style={{ color: "white", fontSize: "12px" }}>+</span>
+      <SVG_WATER />
+      <span style={{ color: "white", fontSize: "12px" }}>→</span>
+      <SVG_GLUCOSE />
+    </div>
+  </foreignObject>
+</g>
       {/* Sugar particles */}
       <g fill="rgba(255,183,77,0.4)">
         <circle cx="118" cy="125" r="1.5" /><circle cx="122" cy="135" r="1.2" />
