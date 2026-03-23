@@ -28,13 +28,14 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
-import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
-import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
-import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
-import AreaExplorer from "@/app/astromath/games/AreaExplorer";
-import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
-import UnitExplorer from "@/app/astromath/games/UnitExplorer";
-import AngleExplorer from "@/app/astromath/games/AngleExplorer";
+import MultiplicationExplorer4 from "@/app/astromath/games/MultiplicationExplorer4";
+import PlaceValueExplorer4 from "@/app/astromath/games/PlaceValueExplorer4";
+import DivisionExplorer4 from "@/app/astromath/games/DivisionExplorer4";
+import AreaExplorer4 from "@/app/astromath/games/AreaExplorer4";
+import WordProblemExplorer4 from "@/app/astromath/games/WordProblemExplorer4";
+import UnitExplorer4 from "@/app/astromath/games/UnitExplorer4";
+import AngleExplorer4 from "@/app/astromath/games/AngleExplorer4";
+import FractionExplorer4 from "@/app/astromath/games/FractionExplorer4";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import ChainCalc from "@/app/astromath/games/ChainCalc";
 import MissingNumber from "@/app/astromath/games/MissingNumber";
@@ -829,25 +830,25 @@ export default function AstroMathG4Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "concept-explorer" && (
-          <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <MultiplicationExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "place-value-explorer" && (
-          <PlaceValueExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PlaceValueExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
-          <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <DivisionExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "area-explorer" && (
-          <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <AreaExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-problem-explorer" && (
-          <WordProblemExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <WordProblemExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "unit-explorer" && (
-          <UnitExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <UnitExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "angle-explorer" && (
-          <AngleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <AngleExplorer4 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
