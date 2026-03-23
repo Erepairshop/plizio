@@ -27,11 +27,11 @@ import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves";
 function createPlaceholder(subtopicId: string): (lang?: string, seed?: number) => CurriculumQuestion[] {
   return (lang = "en", seed = 0) => [
     {
-      type: "mcq",
+      type: "mcq" as const,
+      topic: "placeholder",
       question: `[PLACEHOLDER] ${subtopicId} MCQ question`,
       options: ["Option A", "Option B", "Option C", "Option D"],
-      correctAnswer: "Option A",
-      theme: "placeholder",
+      correct: 0,
       subtopic: subtopicId,
     },
   ];
@@ -96,12 +96,12 @@ K7_GENERATOR_MAP.optics["optical_instruments"] = K7_OPTICS_GENERATORS.optical_in
 K7_GENERATOR_MAP.optics["optical_instruments_typing"] = K7_OPTICS_GENERATORS.optical_instruments_typing || createPlaceholder("optical_instruments_typing");
 
 // THERMAL
-K7_GENERATOR_MAP.thermal["thermal_expansion"] = K7_THERMO_GENERATORS.expansion || createPlaceholder("thermal_expansion");
-K7_GENERATOR_MAP.thermal["thermal_expansion_typing"] = createPlaceholder("thermal_expansion_typing");
-K7_GENERATOR_MAP.thermal["specific_heat"] = K7_THERMO_GENERATORS.specific_heat || createPlaceholder("specific_heat");
-K7_GENERATOR_MAP.thermal["specific_heat_typing"] = createPlaceholder("specific_heat_typing");
-K7_GENERATOR_MAP.thermal["phase_changes"] = K7_THERMO_GENERATORS.states || createPlaceholder("phase_changes");
-K7_GENERATOR_MAP.thermal["phase_changes_typing"] = createPlaceholder("phase_changes_typing");
+K7_GENERATOR_MAP.thermal["thermal_expansion"] = (K7_THERMO_GENERATORS.expansion?.combined) || createPlaceholder("thermal_expansion");
+K7_GENERATOR_MAP.thermal["thermal_expansion_typing"] = (K7_THERMO_GENERATORS.expansion?._typing) || createPlaceholder("thermal_expansion_typing");
+K7_GENERATOR_MAP.thermal["specific_heat"] = (K7_THERMO_GENERATORS.specific_heat?.combined) || createPlaceholder("specific_heat");
+K7_GENERATOR_MAP.thermal["specific_heat_typing"] = (K7_THERMO_GENERATORS.specific_heat?._typing) || createPlaceholder("specific_heat_typing");
+K7_GENERATOR_MAP.thermal["phase_changes"] = (K7_THERMO_GENERATORS.states?.combined) || createPlaceholder("phase_changes");
+K7_GENERATOR_MAP.thermal["phase_changes_typing"] = (K7_THERMO_GENERATORS.states?._typing) || createPlaceholder("phase_changes_typing");
 K7_GENERATOR_MAP.thermal["heat_engines"] = createPlaceholder("heat_engines");
 K7_GENERATOR_MAP.thermal["heat_engines_typing"] = createPlaceholder("heat_engines_typing");
 

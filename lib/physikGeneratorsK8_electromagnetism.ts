@@ -181,18 +181,6 @@ function generateElectromagneticInductionTyping(lang = "en", seed = 0): Curricul
   ];
 }
 
-// ─── EXPORT (először 2 subtopic) ────────────────────────────────────────────
-
-export const K8_ELECTROMAGNETISM_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
-  electromagnets: (lang = "en", seed = 0) => [...generateElectromagnetsMCQ(lang, seed), ...generateElectromagnetsTyping(lang, seed)],
-  electromagnets_mcq: (lang = "en", seed = 0) => generateElectromagnetsMCQ(lang, seed),
-  electromagnets_typing: (lang = "en", seed = 0) => generateElectromagnetsTyping(lang, seed),
-
-  electromagnetic_induction: (lang = "en", seed = 0) => [...generateElectromagneticInductionMCQ(lang, seed), ...generateElectromagneticInductionTyping(lang, seed)],
-  electromagnetic_induction_mcq: (lang = "en", seed = 0) => generateElectromagneticInductionMCQ(lang, seed),
-  electromagnetic_induction_typing: (lang = "en", seed = 0) => generateElectromagneticInductionTyping(lang, seed),
-};
-
 // ═════════════════════════════════════════════════════════════════════════════
 // 3. GENERATORS (Generátorok - váltóáram előállítása)
 // ═════════════════════════════════════════════════════════════════════════════

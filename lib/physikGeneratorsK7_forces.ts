@@ -129,14 +129,6 @@ function generateBasicsTyping(lang = "en", seed = 0): CurriculumTyping[] {
   return questions;
 }
 
-// ─── EXPORT ────────────────────────────────────────────────────────────────
-
-export const K7_FORCES_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
-  basics: (lang = "en", seed = 0) => [...generateBasicsMCQ(lang, seed), ...generateBasicsTyping(lang, seed)],
-  basics_mcq: (lang = "en", seed = 0) => generateBasicsMCQ(lang, seed),
-  basics_typing: (lang = "en", seed = 0) => generateBasicsTyping(lang, seed),
-};
-
 // ─── NEWTON'S LAWS ──────────────────────────────────────────────────────────
 
 function generateNewtonMCQ(lang = "en", seed = 0): CurriculumMCQ[] {

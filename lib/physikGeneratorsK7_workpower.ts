@@ -49,12 +49,12 @@ function createMCQ(
     [options[i], options[j]] = [options[j], options[i]];
   }
   return {
-    type: "mcq",
+    type: "mcq" as const,
+    topic,
+    subtopic,
     question,
     options,
-    correctAnswer: correct,
-    theme: topic,
-    subtopic,
+    correct: options.indexOf(correct),
   };
 }
 

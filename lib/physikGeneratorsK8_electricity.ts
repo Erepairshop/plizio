@@ -197,18 +197,6 @@ function generateResistanceCalcTyping(lang = "en", seed = 0): CurriculumTyping[]
   ];
 }
 
-// ─── EXPORT (teraz csak első 2 subtopic) ────────────────────────────────────
-
-export const K8_ELECTRICITY_GENERATORS: Record<string, (lang?: string, seed?: number) => CurriculumQuestion[]> = {
-  ohm_law: (lang = "en", seed = 0) => [...generateOhmLawMCQ(lang, seed), ...generateOhmLawTyping(lang, seed)],
-  ohm_law_mcq: (lang = "en", seed = 0) => generateOhmLawMCQ(lang, seed),
-  ohm_law_typing: (lang = "en", seed = 0) => generateOhmLawTyping(lang, seed),
-
-  resistance_calc: (lang = "en", seed = 0) => [...generateResistanceCalcMCQ(lang, seed), ...generateResistanceCalcTyping(lang, seed)],
-  resistance_calc_mcq: (lang = "en", seed = 0) => generateResistanceCalcMCQ(lang, seed),
-  resistance_calc_typing: (lang = "en", seed = 0) => generateResistanceCalcTyping(lang, seed),
-};
-
 // ═════════════════════════════════════════════════════════════════════════════
 // 3. ELECTRIC POWER (Elektromos teljesítmény: P = U × I)
 // ═════════════════════════════════════════════════════════════════════════════
