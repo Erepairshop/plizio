@@ -1,445 +1,432 @@
 "use client";
-// CarryBorrowExplorer — Addition with carrying / Subtraction with borrowing for Grade 2 (i5, i6)
-// Teaches: what happens when ones overflow (carry) or aren't enough (borrow).
-// Step by step, no wrong answers.
+// CarryBorrowExplorer — Addition with carrying / Subtraction with borrowing for Grade 2 (islands i5, i6)
+// Uses new topic-based ExplorerEngine mode
 
-import { memo, useState, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── Translations ────────────────────────────────────────────────────────────
+// ─── SVG: Carrying (ones overflow into tens) ──────────────────────────────────
+
+const CarrySvg = memo(function CarrySvg({ a = 47, b = 36 }: { a?: number; b?: number }) {
+  const onesA = a % 10; const onesB = b % 10;
+  const onesSum = onesA + onesB;
+  const carry = onesSum >= 10 ? 1 : 0;
+  const result = a + b;
+  return (
+    <svg width="100%" viewBox="0 0 240 160">
+      <defs>
+        <linearGradient id="carryG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#B44DFF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#D88FFF" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="160" fill="url(#carryG)" rx="16" />
+      {/* Carry label */}
+      {carry === 1 && (
+        <g>
+          <circle cx="122" cy="22" r="12" fill="#FFD700" opacity="0.9" />
+          <text x="122" y="22" fontSize="13" fontWeight="900"
+            fill="#1a1a2e" textAnchor="middle" dominantBaseline="middle">1</text>
+          <text x="165" y="22" fontSize="9" fill="#FFD700" opacity="0.7"
+            textAnchor="middle" dominantBaseline="middle">← carry</text>
+        </g>
+      )}
+      {/* Column headers */}
+      <text x="138" y="42" fontSize="10" fontWeight="700"
+        fill="#06B6D4" textAnchor="middle" opacity="0.75">T</text>
+      <text x="185" y="42" fontSize="10" fontWeight="700"
+        fill="#FFD700" textAnchor="middle" opacity="0.75">O</text>
+      <line x1="110" y1="46" x2="210" y2="46"
+        stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+      <line x1="160" y1="44" x2="160" y2="140"
+        stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+      {/* + */}
+      <text x="100" y="78" fontSize="18" fontWeight="900"
+        fill="rgba(255,255,255,0.5)" textAnchor="middle" dominantBaseline="middle">+</text>
+      {/* Row A */}
+      <text x="138" y="78" fontSize="22" fontWeight="900"
+        fill="#06B6D4" textAnchor="middle" dominantBaseline="middle">{Math.floor(a/10)}</text>
+      <text x="185" y="78" fontSize="22" fontWeight="900"
+        fill="#FFD700" textAnchor="middle" dominantBaseline="middle">{onesA}</text>
+      {/* Row B */}
+      <text x="138" y="110" fontSize="22" fontWeight="900"
+        fill="#06B6D4" textAnchor="middle" dominantBaseline="middle">{Math.floor(b/10)}</text>
+      <text x="185" y="110" fontSize="22" fontWeight="900"
+        fill="#FFD700" textAnchor="middle" dominantBaseline="middle">{onesB}</text>
+      {/* Result line */}
+      <line x1="110" y1="122" x2="210" y2="122"
+        stroke="rgba(255,255,255,0.35)" strokeWidth="2" />
+      {/* Result */}
+      <text x="138" y="144" fontSize="22" fontWeight="900"
+        fill="#B44DFF" textAnchor="middle" dominantBaseline="middle">{Math.floor(result/10)}</text>
+      <text x="185" y="144" fontSize="22" fontWeight="900"
+        fill="#B44DFF" textAnchor="middle" dominantBaseline="middle">{result%10}</text>
+    </svg>
+  );
+});
+
+// ─── SVG: Borrowing (borrow from tens when ones aren't enough) ────────────────
+
+const BorrowSvg = memo(function BorrowSvg({ a = 62, b = 35 }: { a?: number; b?: number }) {
+  const onesA = a % 10; const onesB = b % 10;
+  const needBorrow = onesA < onesB;
+  const result = a - b;
+  return (
+    <svg width="100%" viewBox="0 0 240 155">
+      <defs>
+        <linearGradient id="borrowG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FF9B9B" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="155" fill="url(#borrowG)" rx="16" />
+      {needBorrow && (
+        <g>
+          <text x="120" y="20" fontSize="9" fill="#FF6B6B" opacity="0.8" textAnchor="middle">
+            {onesA} &lt; {onesB} → borrow 1 ten!
+          </text>
+          <text x="120" y="33" fontSize="9" fill="#FF6B6B" opacity="0.6" textAnchor="middle">
+            {onesA} + 10 = {onesA + 10}  |  tens: {Math.floor(a/10)} − 1 = {Math.floor(a/10) - 1}
+          </text>
+        </g>
+      )}
+      <text x="138" y="52" fontSize="10" fontWeight="700"
+        fill="#06B6D4" textAnchor="middle" opacity="0.75">T</text>
+      <text x="185" y="52" fontSize="10" fontWeight="700"
+        fill="#FFD700" textAnchor="middle" opacity="0.75">O</text>
+      <line x1="110" y1="56" x2="210" y2="56"
+        stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+      <line x1="160" y1="54" x2="160" y2="135"
+        stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+      <text x="100" y="85" fontSize="18" fontWeight="900"
+        fill="rgba(255,255,255,0.5)" textAnchor="middle" dominantBaseline="middle">−</text>
+      <text x="138" y="85" fontSize="22" fontWeight="900"
+        fill="#06B6D4" textAnchor="middle" dominantBaseline="middle">{Math.floor(a/10)}</text>
+      <text x="185" y="85" fontSize="22" fontWeight="900"
+        fill="#FFD700" textAnchor="middle" dominantBaseline="middle">{onesA}</text>
+      <text x="138" y="115" fontSize="22" fontWeight="900"
+        fill="#06B6D4" textAnchor="middle" dominantBaseline="middle">{Math.floor(b/10)}</text>
+      <text x="185" y="115" fontSize="22" fontWeight="900"
+        fill="#FFD700" textAnchor="middle" dominantBaseline="middle">{onesB}</text>
+      <line x1="110" y1="127" x2="210" y2="127"
+        stroke="rgba(255,255,255,0.35)" strokeWidth="2" />
+      <text x="138" y="147" fontSize="22" fontWeight="900"
+        fill="#FF6B6B" textAnchor="middle" dominantBaseline="middle">{Math.floor(result/10)}</text>
+      <text x="185" y="147" fontSize="22" fontWeight="900"
+        fill="#FF6B6B" textAnchor="middle" dominantBaseline="middle">{result%10}</text>
+    </svg>
+  );
+});
+
+// ─── SVG: Overview both operations ───────────────────────────────────────────
+
+const OverviewSvg = memo(function OverviewSvg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 120">
+      <defs>
+        <linearGradient id="ovG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#6EE7B7" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="120" fill="url(#ovG)" rx="16" />
+      {/* Carry side */}
+      <text x="60" y="30" fontSize="10" fontWeight="700"
+        fill="#B44DFF" textAnchor="middle" opacity="0.85">CARRY</text>
+      <text x="60" y="60" fontSize="20" fontWeight="900"
+        fill="rgba(255,255,255,0.8)" textAnchor="middle">47 + 36</text>
+      <text x="60" y="85" fontSize="14" fontWeight="800"
+        fill="#B44DFF" textAnchor="middle">= 83</text>
+      <text x="60" y="105" fontSize="9" fill="rgba(255,255,255,0.4)" textAnchor="middle">
+        ones overflow → +1 ten
+      </text>
+      {/* Divider */}
+      <line x1="120" y1="20" x2="120" y2="110"
+        stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+      {/* Borrow side */}
+      <text x="180" y="30" fontSize="10" fontWeight="700"
+        fill="#FF6B6B" textAnchor="middle" opacity="0.85">BORROW</text>
+      <text x="180" y="60" fontSize="20" fontWeight="900"
+        fill="rgba(255,255,255,0.8)" textAnchor="middle">62 − 35</text>
+      <text x="180" y="85" fontSize="14" fontWeight="800"
+        fill="#FF6B6B" textAnchor="middle">= 27</text>
+      <text x="180" y="105" fontSize="9" fill="rgba(255,255,255,0.4)" textAnchor="middle">
+        ones not enough → −1 ten
+      </text>
+    </svg>
+  );
+});
+
+// ─── Labels ───────────────────────────────────────────────────────────────────
+
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    introCarry: "When the ones add up to MORE than 9, we CARRY a ten!",
-    introBorrow: "When we can't subtract the ones, we BORROW from the tens!",
-    onesFirst: "First: add the ones!",
-    onesFirstSub: "First: try to subtract the ones!",
-    tooMany: "More than 9! We need to carry!",
-    notEnough: "Not enough! We need to borrow!",
-    carryExplain: "equals 1 ten and",
-    borrowExplain: "Unbundle 1 ten → becomes",
-    nowTens: "Now add the tens (+ the carried 1)!",
-    nowTensSub: "Now subtract the tens (−1 borrowed)!",
-    tapOnes: "Tap to add ones!",
-    tapOnesSub: "Tap to subtract ones!",
-    tapCarry: "Tap to carry!",
-    tapBorrow: "Tap to borrow!",
-    tapTens: "Tap to add tens!",
-    tapTensSub: "Tap to subtract tens!",
-    tapResult: "Tap to see result!",
-    result: "Result:",
-    tens: "T",
-    ones: "O",
-    next: "Next",
-    done: "Amazing!",
-  },
-  hu: {
-    introCarry: "Ha az egyesek összege TÖBB mint 9, ÁTVISZÜNK egy tízest!",
-    introBorrow: "Ha nem tudunk kivonni az egyesekből, KÖLCSÖNZÜNK a tízesekből!",
-    onesFirst: "Először: adjuk össze az egyeseket!",
-    onesFirstSub: "Először: próbáljuk kivonni az egyeseket!",
-    tooMany: "Több mint 9! Át kell vinni!",
-    notEnough: "Nem elég! Kölcsönöznünk kell!",
-    carryExplain: "az 1 tízes és",
-    borrowExplain: "Feltörünk 1 tízest → lesz belőle",
-    nowTens: "Most adjuk össze a tízeseket (+1 átvitt)!",
-    nowTensSub: "Most vonjuk ki a tízeseket (−1 kölcsönzött)!",
-    tapOnes: "Koppints az egyesek összeadásához!",
-    tapOnesSub: "Koppints az egyesek kivonásához!",
-    tapCarry: "Koppints az átvitelhez!",
-    tapBorrow: "Koppints a kölcsönzéshez!",
-    tapTens: "Koppints a tízesek összeadásához!",
-    tapTensSub: "Koppints a tízesek kivonásához!",
-    tapResult: "Koppints az eredményhez!",
-    result: "Eredmény:",
-    tens: "T",
-    ones: "E",
-    next: "Következő",
-    done: "Fantasztikus!",
+    explorer_title: "Carrying & Borrowing",
+    t1_title: "Carrying in Addition",
+    t1_text: "When ones add up to 10 or more, we CARRY 1 ten to the tens column! 47 + 36: ones: 7 + 6 = 13 → write 3, carry 1. Tens: 4 + 3 + 1 (carry) = 8. Answer: 83!",
+    t1_b1: "Ones sum ≥ 10 → carry 1 ten",
+    t1_b2: "Write the ones digit, carry the 1",
+    t1_b3: "Add the carry to the tens column",
+    t1_inst: "Start at 47 and add 36 — watch the carry!",
+    t1_h1: "Ones: 7+6=13. Write 3, carry 1. Tens: 4+3+1=8",
+    t1_h2: "Answer is 83 — tap 83!",
+    t1_q: "What is 58 + 27?",
+    t1_q_85: "85",
+    t1_q_715: "715",
+    t1_q_75: "75",
+    t1_q_80: "80",
+    t2_title: "Borrowing in Subtraction",
+    t2_text: "When we can't subtract ones (top < bottom), we BORROW 1 ten! 62 − 35: ones: 2 < 5 → borrow 1 ten: 12 − 5 = 7. Tens: 6 − 1 (borrowed) − 3 = 2. Answer: 27!",
+    t2_b1: "Ones top < ones bottom → borrow 1 ten",
+    t2_b2: "Top ones gets +10, tens gets −1",
+    t2_b3: "Then subtract normally",
+    t2_inst: "Start at 62 and subtract 35 — watch the borrow!",
+    t2_h1: "Ones: 2<5, borrow: 12−5=7. Tens: 6−1−3=2",
+    t2_h2: "Answer is 27 — tap 27!",
+    t2_q: "What is 74 − 38?",
+    t2_q_36: "36",
+    t2_q_112: "112",
+    t2_q_44: "44",
+    t2_q_46: "46",
+    t3_title: "Carry or Borrow?",
+    t3_text: "How do you know which to use? For ADDITION: if ones ≥ 10, carry. For SUBTRACTION: if top ones < bottom ones, borrow. Check the ones column first!",
+    t3_b1: "Addition: ones ≥ 10 → carry",
+    t3_b2: "Subtraction: top < bottom → borrow",
+    t3_b3: "Always check the ones column first!",
+    t3_inst: "Start at 65 and add 48 — carry the ten!",
+    t3_h1: "Ones: 5+8=13. Write 3, carry 1. Tens: 6+4+1=11",
+    t3_h2: "Answer is 113 — tap 113!",
+    t3_q: "65 + 48 = ?",
+    t3_q_113: "113",
+    t3_q_1013: "1013",
+    t3_q_103: "103",
+    t3_q_11: "11",
   },
   de: {
-    introCarry: "Wenn die Einer zusammen MEHR als 9 ergeben, ÜBERTRAGEN wir einen Zehner!",
-    introBorrow: "Wenn die Einer nicht reichen, ENTBÜNDELN wir einen Zehner!",
-    onesFirst: "Zuerst: Einer addieren!",
-    onesFirstSub: "Zuerst: Einer subtrahieren versuchen!",
-    tooMany: "Mehr als 9! Wir müssen übertragen!",
-    notEnough: "Nicht genug! Wir müssen entbündeln!",
-    carryExplain: "ist 1 Zehner und",
-    borrowExplain: "1 Zehner entbündeln → wird zu",
-    nowTens: "Jetzt Zehner addieren (+1 übertragen)!",
-    nowTensSub: "Jetzt Zehner subtrahieren (−1 entbündelt)!",
-    tapOnes: "Tippe um Einer zu addieren!",
-    tapOnesSub: "Tippe um Einer zu subtrahieren!",
-    tapCarry: "Tippe zum Übertragen!",
-    tapBorrow: "Tippe zum Entbündeln!",
-    tapTens: "Tippe um Zehner zu addieren!",
-    tapTensSub: "Tippe um Zehner zu subtrahieren!",
-    tapResult: "Tippe für das Ergebnis!",
-    result: "Ergebnis:",
-    tens: "Z",
-    ones: "E",
-    next: "Weiter",
-    done: "Super!",
+    explorer_title: "Übertrag & Entbündeln",
+    t1_title: "Übertrag beim Addieren",
+    t1_text: "Wenn die Einer 10 oder mehr ergeben, TRAGEN wir 1 Zehner über! 47 + 36: Einer: 7 + 6 = 13 → schreibe 3, Übertrag 1. Zehner: 4 + 3 + 1 = 8. Ergebnis: 83!",
+    t1_b1: "Einersumme ≥ 10 → 1 Zehner übertragen",
+    t1_b2: "Einerziffer aufschreiben, 1 übertragen",
+    t1_b3: "Übertrag zur Zehnerspalte addieren",
+    t1_inst: "Starte bei 47 und addiere 36 — beachte den Übertrag!",
+    t1_h1: "Einer: 7+6=13. Schreibe 3, Übertrag 1. Zehner: 4+3+1=8",
+    t1_h2: "Ergebnis ist 83 — tippe auf 83!",
+    t1_q: "Was ist 58 + 27?",
+    t1_q_85: "85",
+    t1_q_715: "715",
+    t1_q_75: "75",
+    t1_q_80: "80",
+    t2_title: "Entbündeln beim Subtrahieren",
+    t2_text: "Wenn wir die Einer nicht subtrahieren können (oben < unten), ENTBÜNDELN wir 1 Zehner! 62 − 35: Einer: 2 < 5 → Entbündeln: 12 − 5 = 7. Zehner: 6 − 1 − 3 = 2. Ergebnis: 27!",
+    t2_b1: "Einer oben < Einer unten → Entbündeln",
+    t2_b2: "Einer +10, Zehner −1",
+    t2_b3: "Dann normal subtrahieren",
+    t2_inst: "Starte bei 62 und subtrahiere 35 — beachte das Entbündeln!",
+    t2_h1: "Einer: 2<5, Entbündeln: 12−5=7. Zehner: 6−1−3=2",
+    t2_h2: "Ergebnis ist 27 — tippe auf 27!",
+    t2_q: "Was ist 74 − 38?",
+    t2_q_36: "36",
+    t2_q_112: "112",
+    t2_q_44: "44",
+    t2_q_46: "46",
+    t3_title: "Übertrag oder Entbündeln?",
+    t3_text: "Woran erkennst du es? Bei ADDITION: Einer ≥ 10 → Übertrag. Bei SUBTRAKTION: oben < unten → Entbündeln. Immer zuerst die Einerspalte prüfen!",
+    t3_b1: "Addition: Einer ≥ 10 → Übertrag",
+    t3_b2: "Subtraktion: oben < unten → Entbündeln",
+    t3_b3: "Immer zuerst die Einerspalte prüfen!",
+    t3_inst: "Starte bei 65 und addiere 48 — Übertrag beachten!",
+    t3_h1: "Einer: 5+8=13. Schreibe 3, Übertrag 1. Zehner: 6+4+1=11",
+    t3_h2: "Ergebnis ist 113 — tippe auf 113!",
+    t3_q: "65 + 48 = ?",
+    t3_q_113: "113",
+    t3_q_1013: "1013",
+    t3_q_103: "103",
+    t3_q_11: "11",
+  },
+  hu: {
+    explorer_title: "Átvitel és kölcsönzés",
+    t1_title: "Átvitel az összeadásban",
+    t1_text: "Ha az egyesek összege 10 vagy több, ÁTVISZÜNK 1 tízest a tízesek oszlopba! 47 + 36: egyesek: 7 + 6 = 13 → írj 3-at, vigyél át 1-et. Tízesek: 4 + 3 + 1 = 8. Eredmény: 83!",
+    t1_b1: "Egyesek összege ≥ 10 → 1 tízes átvitele",
+    t1_b2: "Egyes számjegyet leírjuk, az 1-et visszük",
+    t1_b3: "Az átvitt 1-et a tízesek oszlophoz adjuk",
+    t1_inst: "Indulj a 47-ről és add hozzá a 36-ot — figyeld az átvitelt!",
+    t1_h1: "Egyesek: 7+6=13. Írj 3-at, vigy át 1-et. Tízesek: 4+3+1=8",
+    t1_h2: "Az eredmény 83 — koppints a 83-ra!",
+    t1_q: "Mennyi 58 + 27?",
+    t1_q_85: "85",
+    t1_q_715: "715",
+    t1_q_75: "75",
+    t1_q_80: "80",
+    t2_title: "Kölcsönzés a kivonásban",
+    t2_text: "Ha az egyeseket nem tudjuk kivonni (felső < alsó), KÖLCSÖNZÜNK 1 tízest! 62 − 35: egyesek: 2 < 5 → kölcsönzés: 12 − 5 = 7. Tízesek: 6 − 1 − 3 = 2. Eredmény: 27!",
+    t2_b1: "Felső egyes < alsó egyes → kölcsönzés",
+    t2_b2: "Egyesek +10 kapnak, tízesek −1 veszítenek",
+    t2_b3: "Majd normálisan kivonunk",
+    t2_inst: "Indulj a 62-ről és von ki 35-öt — figyeld a kölcsönzést!",
+    t2_h1: "Egyesek: 2<5, kölcsönzés: 12−5=7. Tízesek: 6−1−3=2",
+    t2_h2: "Az eredmény 27 — koppints a 27-re!",
+    t2_q: "Mennyi 74 − 38?",
+    t2_q_36: "36",
+    t2_q_112: "112",
+    t2_q_44: "44",
+    t2_q_46: "46",
+    t3_title: "Átvitel vagy kölcsönzés?",
+    t3_text: "Honnan tudod, melyiket? ÖSSZEADÁSNÁL: ha egyesek ≥ 10, átvitel. KIVONASNÁL: ha felső < alsó, kölcsönzés. Mindig az egyesek oszlopát ellenőrizd először!",
+    t3_b1: "Összeadás: egyesek ≥ 10 → átvitel",
+    t3_b2: "Kivonás: felső < alsó → kölcsönzés",
+    t3_b3: "Mindig az egyesek oszlopát ellenőrizd!",
+    t3_inst: "Indulj a 65-ről és add hozzá a 48-at — vigy át!",
+    t3_h1: "Egyesek: 5+8=13. Írj 3-at, vigy át 1-et. Tízesek: 6+4+1=11",
+    t3_h2: "Az eredmény 113 — koppints a 113-ra!",
+    t3_q: "65 + 48 = ?",
+    t3_q_113: "113",
+    t3_q_1013: "1013",
+    t3_q_103: "103",
+    t3_q_11: "11",
   },
   ro: {
-    introCarry: "Când unitățile depășesc 9, TRANSPORTĂM o zece!",
-    introBorrow: "Când unitățile nu ajung, ÎMPRUMUTĂM de la zeci!",
-    onesFirst: "Mai întâi: adunăm unitățile!",
-    onesFirstSub: "Mai întâi: încercăm să scădem unitățile!",
-    tooMany: "Mai mult de 9! Trebuie să transportăm!",
-    notEnough: "Nu ajunge! Trebuie să împrumutăm!",
-    carryExplain: "egal 1 zece și",
-    borrowExplain: "Desfacem 1 zece → devine",
-    nowTens: "Acum adunăm zecile (+1 transportat)!",
-    nowTensSub: "Acum scădem zecile (−1 împrumutat)!",
-    tapOnes: "Atinge pentru a aduna unitățile!",
-    tapOnesSub: "Atinge pentru a scădea unitățile!",
-    tapCarry: "Atinge pentru transport!",
-    tapBorrow: "Atinge pentru împrumut!",
-    tapTens: "Atinge pentru a aduna zecile!",
-    tapTensSub: "Atinge pentru a scădea zecile!",
-    tapResult: "Atinge pentru rezultat!",
-    result: "Rezultat:",
-    tens: "Z",
-    ones: "U",
-    next: "Înainte",
-    done: "Excelent!",
+    explorer_title: "Transport și împrumut",
+    t1_title: "Transport la adunare",
+    t1_text: "Când unitățile dau 10 sau mai mult, TRANSPORTĂM 1 zece la coloana zecilor! 47 + 36: unități: 7 + 6 = 13 → scriem 3, transport 1. Zeci: 4 + 3 + 1 = 8. Rezultat: 83!",
+    t1_b1: "Suma unităților ≥ 10 → transport 1 zece",
+    t1_b2: "Scriem cifra unităților, transportăm 1",
+    t1_b3: "Adăugăm transportul la coloana zecilor",
+    t1_inst: "Pornește de la 47 și adaugă 36 — urmărește transportul!",
+    t1_h1: "Unități: 7+6=13. Scriem 3, transport 1. Zeci: 4+3+1=8",
+    t1_h2: "Rezultatul este 83 — atinge 83!",
+    t1_q: "Cât este 58 + 27?",
+    t1_q_85: "85",
+    t1_q_715: "715",
+    t1_q_75: "75",
+    t1_q_80: "80",
+    t2_title: "Împrumut la scădere",
+    t2_text: "Când nu putem scădea unitățile (sus < jos), ÎMPRUMUTĂM 1 zece! 62 − 35: unități: 2 < 5 → împrumut: 12 − 5 = 7. Zeci: 6 − 1 − 3 = 2. Rezultat: 27!",
+    t2_b1: "Unități sus < unități jos → împrumut",
+    t2_b2: "Unități primesc +10, zeci pierd −1",
+    t2_b3: "Apoi scădem normal",
+    t2_inst: "Pornește de la 62 și scade 35 — urmărește împrumutul!",
+    t2_h1: "Unități: 2<5, împrumut: 12−5=7. Zeci: 6−1−3=2",
+    t2_h2: "Rezultatul este 27 — atinge 27!",
+    t2_q: "Cât este 74 − 38?",
+    t2_q_36: "36",
+    t2_q_112: "112",
+    t2_q_44: "44",
+    t2_q_46: "46",
+    t3_title: "Transport sau împrumut?",
+    t3_text: "Cum știi care să folosești? La ADUNARE: unități ≥ 10 → transport. La SCĂDERE: sus < jos → împrumut. Verifică întâi coloana unităților!",
+    t3_b1: "Adunare: unități ≥ 10 → transport",
+    t3_b2: "Scădere: sus < jos → împrumut",
+    t3_b3: "Verifică întotdeauna coloana unităților!",
+    t3_inst: "Pornește de la 65 și adaugă 48 — transportă!",
+    t3_h1: "Unități: 5+8=13. Scriem 3, transport 1. Zeci: 6+4+1=11",
+    t3_h2: "Rezultatul este 113 — atinge 113!",
+    t3_q: "65 + 48 = ?",
+    t3_q_113: "113",
+    t3_q_1013: "1013",
+    t3_q_103: "103",
+    t3_q_11: "11",
   },
 };
 
-// ─── Round data ──────────────────────────────────────────────────────────────
-interface Problem { a: number; b: number }
-const CARRY_PROBLEMS: Problem[] = [
-  { a: 17, b: 15 }, { a: 28, b: 35 }, { a: 46, b: 37 }, { a: 19, b: 24 }, { a: 38, b: 47 },
-];
-const BORROW_PROBLEMS: Problem[] = [
-  { a: 42, b: 18 }, { a: 63, b: 28 }, { a: 81, b: 46 }, { a: 52, b: 27 }, { a: 73, b: 38 },
+// ─── Topic definitions ────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <CarrySvg a={47} b={36} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "number-line",
+      min: 78,
+      max: 92,
+      step: 1,
+      start: 58,
+      target: 85,
+      showJumps: true,
+      jumpCount: 27,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_715", "t1_q_75", "t1_q_80", "t1_q_85"],
+      answer: "t1_q_85",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <BorrowSvg a={62} b={35} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "number-line",
+      min: 20,
+      max: 45,
+      step: 1,
+      start: 62,
+      target: 27,
+      showJumps: true,
+      jumpCount: 35,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_112", "t2_q_44", "t2_q_46", "t2_q_36"],
+      answer: "t2_q_36",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <OverviewSvg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [6, 5],
+      answer: 113,
+      blockIcon: "🟣",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_1013", "t3_q_103", "t3_q_11", "t3_q_113"],
+      answer: "t3_q_113",
+    },
+  },
 ];
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+// ─── Explorer definition ──────────────────────────────────────────────────────
 
-// ─── Main Component ──────────────────────────────────────────────────────────
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🔢",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── Export ───────────────────────────────────────────────────────────────────
+
 const CarryBorrowExplorer = memo(function CarryBorrowExplorer({
-  color, onDone, lang = "en", mode = "carry",
+  color = "#B44DFF",
+  onDone,
+  lang = "en",
 }: {
-  color: string;
-  onDone: (score: number, total: number) => void;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  mode?: "carry" | "borrow";
 }) {
-  const lbl = LABELS[lang] ?? LABELS.en;
-  const isCarry = mode === "carry";
-  const [problems] = useState(() => shuffle(isCarry ? CARRY_PROBLEMS : BORROW_PROBLEMS).slice(0, 5));
-  const [idx, setIdx] = useState(0);
-  // Steps: 0=show, 1=ones overflow/underflow, 2=carry/borrow visual, 3=tens, 4=result
-  const [step, setStep] = useState(0);
-
-  const prob = problems[idx];
-  const { a, b } = prob;
-  const tA = Math.floor(a / 10), oA = a % 10;
-  const tB = Math.floor(b / 10), oB = b % 10;
-
-  // Carry: ones sum > 9
-  const onesSum = oA + oB;
-  const carryOnesResult = onesSum % 10;
-  const carryTensResult = tA + tB + 1;
-  const carryFull = a + b;
-
-  // Borrow: oA < oB
-  const borrowedOA = oA + 10;
-  const borrowOnesResult = borrowedOA - oB;
-  const borrowTensResult = (tA - 1) - tB;
-  const borrowFull = a - b;
-
-  const handleNext = useCallback(() => {
-    if (idx + 1 >= problems.length) {
-      onDone(problems.length, problems.length);
-      return;
-    }
-    setIdx(i => i + 1);
-    setStep(0);
-  }, [idx, problems.length, onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-3">
-      {/* Progress */}
-      <div className="flex gap-1.5 w-full">
-        {problems.map((_, i) => (
-          <div key={i} className="flex-1 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }} />
-        ))}
-      </div>
-
-      {idx === 0 && step === 0 && (
-        <p className="text-white/50 text-xs font-medium text-center px-4">
-          {isCarry ? lbl.introCarry : lbl.introBorrow}
-        </p>
-      )}
-
-      <AnimatePresence mode="wait">
-        <motion.div key={`${idx}-${step}`}
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
-          className="w-full flex flex-col items-center gap-3"
-        >
-          {/* ─── CARRY MODE ──────────────────────────── */}
-          {isCarry && (
-            <>
-              {/* Step 0: show problem */}
-              {step === 0 && (
-                <>
-                  <div className="flex items-center justify-center gap-2">
-                    <p className="text-2xl font-black" style={{ color }}>{a} + {b} = ?</p>
-                    <SpeakButton text={`${a} + ${b}`} lang={lang} size={14} />
-                  </div>
-                  <div className="rounded-2xl p-4 w-full max-w-[200px]"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
-                    <div className="grid grid-cols-3 gap-1 text-center font-black">
-                      <div /><span className="text-xs text-white/40">{lbl.tens}</span><span className="text-xs text-white/40">{lbl.ones}</span>
-                      <span /><span className="text-xl" style={{ color }}>{tA}</span><span className="text-xl" style={{ color }}>{oA}</span>
-                      <span className="text-xl text-white/60">+</span><span className="text-xl" style={{ color: `${color}AA` }}>{tB}</span><span className="text-xl" style={{ color: `${color}AA` }}>{oB}</span>
-                    </div>
-                  </div>
-                  <motion.button onClick={() => setStep(1)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapOnes}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 1: ones overflow */}
-              {step === 1 && (
-                <>
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.onesFirst}</p>
-                  <motion.div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}
-                    animate={{ scale: [0.98, 1.02, 1] }}>
-                    <p className="text-center text-2xl font-black" style={{ color }}>
-                      {oA} + {oB} = {onesSum}
-                    </p>
-                    <p className="text-center text-sm font-black mt-2" style={{ color: "#f59e0b" }}>
-                      {onesSum} &gt; 9 — {lbl.tooMany}
-                    </p>
-                  </motion.div>
-                  <motion.button onClick={() => setStep(2)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapCarry}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 2: carry visual */}
-              {step === 2 && (
-                <>
-                  <motion.div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: "rgba(0,255,136,0.06)", border: "1.5px solid rgba(0,255,136,0.25)" }}>
-                    <p className="text-center text-xl font-black text-white/70">
-                      {onesSum} = <span style={{ color: "#00FF88" }}>1</span> × 10 + <span style={{ color: "#00FF88" }}>{carryOnesResult}</span>
-                    </p>
-                    <p className="text-center text-sm font-bold text-white/50 mt-2">
-                      {onesSum} {lbl.carryExplain} {carryOnesResult}
-                    </p>
-                    <div className="flex justify-center mt-3 gap-3">
-                      <motion.div className="px-3 py-1.5 rounded-lg text-sm font-black"
-                        style={{ background: "rgba(0,255,136,0.15)", color: "#00FF88", border: "1px solid rgba(0,255,136,0.3)" }}
-                        animate={{ y: [0, -8, 0] }} transition={{ repeat: 2, duration: 0.5 }}>
-                        ↑ +1 {lbl.tens}
-                      </motion.div>
-                      <div className="px-3 py-1.5 rounded-lg text-sm font-black"
-                        style={{ background: `${color}22`, color, border: `1px solid ${color}44` }}>
-                        {carryOnesResult} {lbl.ones}
-                      </div>
-                    </div>
-                  </motion.div>
-                  <motion.button onClick={() => setStep(3)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapTens}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 3: tens with carry */}
-              {step === 3 && (
-                <>
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.nowTens}</p>
-                  <div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
-                    <p className="text-center text-xl font-black" style={{ color }}>
-                      {tA} + {tB} + <span style={{ color: "#00FF88" }}>1</span> = {carryTensResult}
-                    </p>
-                  </div>
-                  <motion.button onClick={() => setStep(4)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapResult}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 4: result */}
-              {step === 4 && (
-                <>
-                  <motion.div
-                    className="w-full rounded-2xl px-5 py-4"
-                    style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}
-                    animate={{ scale: [0.95, 1.02, 1] }} transition={{ duration: 0.4 }}>
-                    <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.result}</p>
-                    <p className="text-center text-3xl font-black" style={{ color: "#00FF88" }}>
-                      {a} + {b} = {carryFull}
-                    </p>
-                  </motion.div>
-                  <motion.button onClick={handleNext}
-                    className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                    style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {idx + 1 >= problems.length ? lbl.done : lbl.next} <ChevronRight size={16} />
-                  </motion.button>
-                </>
-              )}
-            </>
-          )}
-
-          {/* ─── BORROW MODE ─────────────────────────── */}
-          {!isCarry && (
-            <>
-              {/* Step 0: show problem */}
-              {step === 0 && (
-                <>
-                  <div className="flex items-center justify-center gap-2">
-                    <p className="text-2xl font-black" style={{ color }}>{a} – {b} = ?</p>
-                    <SpeakButton text={`${a} – ${b}`} lang={lang} size={14} />
-                  </div>
-                  <div className="rounded-2xl p-4 w-full max-w-[200px]"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
-                    <div className="grid grid-cols-3 gap-1 text-center font-black">
-                      <div /><span className="text-xs text-white/40">{lbl.tens}</span><span className="text-xs text-white/40">{lbl.ones}</span>
-                      <span /><span className="text-xl" style={{ color }}>{tA}</span><span className="text-xl" style={{ color }}>{oA}</span>
-                      <span className="text-xl text-white/60">–</span><span className="text-xl" style={{ color: `${color}AA` }}>{tB}</span><span className="text-xl" style={{ color: `${color}AA` }}>{oB}</span>
-                    </div>
-                  </div>
-                  <motion.button onClick={() => setStep(1)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapOnesSub}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 1: ones underflow */}
-              {step === 1 && (
-                <>
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.onesFirstSub}</p>
-                  <motion.div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}
-                    animate={{ scale: [0.98, 1.02, 1] }}>
-                    <p className="text-center text-2xl font-black" style={{ color }}>
-                      {oA} – {oB} = ?
-                    </p>
-                    <p className="text-center text-sm font-black mt-2" style={{ color: "#ef4444" }}>
-                      {oA} &lt; {oB} — {lbl.notEnough}
-                    </p>
-                  </motion.div>
-                  <motion.button onClick={() => setStep(2)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapBorrow}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 2: borrow visual */}
-              {step === 2 && (
-                <>
-                  <motion.div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: "rgba(0,255,136,0.06)", border: "1.5px solid rgba(0,255,136,0.25)" }}>
-                    <p className="text-center text-sm font-bold text-white/50 mb-2">
-                      {lbl.borrowExplain} {borrowedOA}
-                    </p>
-                    <div className="flex justify-center gap-4 items-center">
-                      <div className="flex flex-col items-center">
-                        <span className="text-lg font-black" style={{ color: "#ef4444" }}>{tA} → {tA - 1}</span>
-                        <span className="text-xs text-white/40">{lbl.tens}</span>
-                      </div>
-                      <motion.span className="text-2xl" animate={{ x: [0, 10, 0] }} transition={{ repeat: 2, duration: 0.4 }}>→</motion.span>
-                      <div className="flex flex-col items-center">
-                        <span className="text-lg font-black" style={{ color: "#00FF88" }}>{oA} → {borrowedOA}</span>
-                        <span className="text-xs text-white/40">{lbl.ones}</span>
-                      </div>
-                    </div>
-                    <p className="text-center text-xl font-black mt-3" style={{ color: "#00FF88" }}>
-                      {borrowedOA} – {oB} = {borrowOnesResult}
-                    </p>
-                  </motion.div>
-                  <motion.button onClick={() => setStep(3)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapTensSub}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 3: tens with borrow */}
-              {step === 3 && (
-                <>
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.nowTensSub}</p>
-                  <div className="rounded-2xl px-5 py-4 w-full"
-                    style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
-                    <p className="text-center text-xl font-black" style={{ color }}>
-                      ({tA} – <span style={{ color: "#ef4444" }}>1</span>) – {tB} = {borrowTensResult}
-                    </p>
-                  </div>
-                  <motion.button onClick={() => setStep(4)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapResult}
-                  </motion.button>
-                </>
-              )}
-
-              {/* Step 4: result */}
-              {step === 4 && (
-                <>
-                  <motion.div
-                    className="w-full rounded-2xl px-5 py-4"
-                    style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}
-                    animate={{ scale: [0.95, 1.02, 1] }} transition={{ duration: 0.4 }}>
-                    <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.result}</p>
-                    <p className="text-center text-3xl font-black" style={{ color: "#00FF88" }}>
-                      {a} – {b} = {borrowFull}
-                    </p>
-                  </motion.div>
-                  <motion.button onClick={handleNext}
-                    className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                    style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {idx + 1 >= problems.length ? lbl.done : lbl.next} <ChevronRight size={16} />
-                  </motion.button>
-                </>
-              )}
-            </>
-          )}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={2} explorerId="math_g2_carryborrow" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default CarryBorrowExplorer;
