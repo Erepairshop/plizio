@@ -32,6 +32,7 @@ import PlaceValueExplorer3 from "@/app/astromath/games/PlaceValueExplorer3";
 import AdditionExplorer3 from "@/app/astromath/games/AdditionExplorer3";
 import SubtractionExplorer3 from "@/app/astromath/games/SubtractionExplorer3";
 import MultiplicationExplorer3 from "@/app/astromath/games/MultiplicationExplorer3";
+import DivisionExplorer3 from "@/app/astromath/games/DivisionExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -827,7 +828,11 @@ export default function AstroMathG3Page() {
           <PlaceValueExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
-          <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          activeIsland?.id === "i5" ? (
+            <DivisionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          )
         )}
         {screen === "area-explorer" && (
           <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
