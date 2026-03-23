@@ -206,14 +206,14 @@ export function generateDensityBasicsMCQ(lang: string = "en", seed: number = 0):
   // Template 5: "Will it float or sink?"
   for (let i = 0; i < 4; i++) {
     const example = pick(DENSITY_BASICS_DATA.examples, rng);
+    const floats = example.de === "Wasser" || example.de === "Eis" || example.de === "Öl" || example.de === "Kork";
     questions.push(createMCQ(
       "density",
       "density_basics",
-      q4("Wird dieses Material im Wasser schwimmen oder sinken?", "Will this material float or sink in water?", "Fog vagy süllyedni fog ez az anyag a vízben?", "Pluterea sau se va scufunda acest material în apă?", lang),
-      q4(example.de === "Wasser" || example.de === "Eis" || example.de === "Öl" || example.de === "Kork"
-        ? (example.de === "Kork" ? q4("schwimmen", "float", "úszni", "plutea", lang) : q4("schwimmen", "float", "úszni", "plutea", lang))
+      q4(`${example.de}: Schwimmt oder sinkt es im Wasser?`, `${example.en}: Will it float or sink in water?`, `${example.hu}: Úszni vagy süllyedni fog a vízben?`, `${example.ro}: Plutește sau se scufundă în apă?`, lang),
+      floats
+        ? q4("schwimmen", "float", "úszni", "plutea", lang)
         : q4("sinken", "sink", "süllyedni", "se scufunda", lang),
-      example.de,
       [
         q4("Bleibt neutral", "Stays neutral", "Marad semleges", "Rămâne neutru", lang),
         q4("Hängt von der Temperatur ab", "Depends on temperature", "A hőmérséklettől függ", "Depinde de temperatură", lang),

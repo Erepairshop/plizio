@@ -191,26 +191,26 @@ function generateGeneratorsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 8; i++) {
     questions.push(createMCQ("electromagnetism", "generators",
-      q4("AC Generator (Wechselstrom-Generator): Működés?", "AC Generator: operation?", "AC generátor: működés?", "Generator AC: funcționare?", lang),
-      q4("Tekercs mágneses mezőben forog → fluxus harmonikus változás → szinuszos váltóáram indukálódik", "Coil rotates in magnetic field → harmonic flux change → sinusoidal AC induced", "Tekercs mágneses mezőben forog → fluxus harmonikus változása → szinuszos váltóáram", "Bobină se rotește în câmp magnetic → schimbare flux armonică → AC sinusoidal indusă", lang),
-      [q4("Fém csipesz (brush) kapcsol be/ki", "Metal brush switches on/off", "Fém érintkezô be/ki kapcsol", "Perie metal comutare on/off", lang),
-       q4("Csak egyenáram", "Only DC", "Csak egyenáram", "Doar DC", lang),
-       q4("Állandó mágnese kell", "Needs permanent magnet", "Állandó mágnes kell", "Are nevoie de magnet permanent", lang)], rng));
+      q4("Wechselstrom-Generator: Funktionsweise?", "AC Generator: operation?", "AC generátor: működés?", "Generator AC: funcționare?", lang),
+      q4("Spule dreht sich im Magnetfeld → harmonische Flussänderung → sinusförmiger Wechselstrom induziert", "Coil rotates in magnetic field → harmonic flux change → sinusoidal AC induced", "Tekercs mágneses mezőben forog → fluxus harmonikus változása → szinuszos váltóáram", "Bobină se rotește în câmp magnetic → schimbare flux armonică → AC sinusoidal indusă", lang),
+      [q4("Metallbürste schaltet ein/aus", "Metal brush switches on/off", "Fém érintkezô be/ki kapcsol", "Perie metal comutare on/off", lang),
+       q4("Nur Gleichstrom", "Only DC", "Csak egyenáram", "Doar DC", lang),
+       q4("Braucht einen Dauermagneten", "Needs permanent magnet", "Állandó mágnes kell", "Are nevoie de magnet permanent", lang)], rng));
   }
 
   for (let i = 0; i < 8; i++) {
     questions.push(createMCQ("electromagnetism", "generators",
-      q4("Váltóáram (AC) Frekvencia?", "AC frequency?", "Váltóáram frekvenciája?", "Frecvență AC?", lang),
-      q4("f = ω / (2π) = n × rotációszám; Európa: 50 Hz (v = 50 × 2π rad/s)", "f = ω / (2π) = rotation rate × n; Europe: 50 Hz", "f = ω / (2π) = fordulatszám × n; Európa: 50 Hz", "f = ω / (2π) = viteza rotație × n; Europa: 50 Hz", lang),
-      [q4("Csak 60 Hz USA", "Only 60 Hz USA", "Csak 60 Hz USA", "Doar 60 Hz SUA", lang),
-       q4("Nem függ a fordulatszámtól", "Independent of rotation", "Nem függ a fordulatszámtól", "Fără dependență rotație", lang),
-       q4("Állandó érték", "Constant value", "Állandó érték", "Valoare constantă", lang)], rng));
+      q4("Wechselstrom (AC) Frequenz?", "AC frequency?", "Váltóáram frekvenciája?", "Frecvență AC?", lang),
+      q4("f = ω / (2π) = Drehzahl × n; Europa: 50 Hz (ω = 50 × 2π rad/s)", "f = ω / (2π) = rotation rate × n; Europe: 50 Hz", "f = ω / (2π) = fordulatszám × n; Európa: 50 Hz", "f = ω / (2π) = viteza rotație × n; Europa: 50 Hz", lang),
+      [q4("Nur 60 Hz USA", "Only 60 Hz USA", "Csak 60 Hz USA", "Doar 60 Hz SUA", lang),
+       q4("Unabhängig von der Drehzahl", "Independent of rotation", "Nem függ a fordulatszámtól", "Fără dependență rotație", lang),
+       q4("Konstanter Wert", "Constant value", "Állandó érték", "Valoare constantă", lang)], rng));
   }
 
   for (let i = 0; i < 8; i++) {
     questions.push(createMCQ("electromagnetism", "generators",
-      q4("Szinuszos Váltóáram Képlete?", "Sinusoidal AC formula?", "Szinuszos váltóáram képlet?", "Formula AC sinusoidal?", lang),
-      q4("i(t) = I_max × sin(2πft + φ); I_max = csúcsérték, f = frekvencia, φ = fázisszög", "i(t) = I_max × sin(2πft + φ); I_max = peak, f = frequency, φ = phase", "i(t) = I_max × sin(2πft + φ); I_max = csúcsérték, f = frekvencia", "i(t) = I_max × sin(2πft + φ); I_max = vârf, f = frecvență", lang),
+      q4("Formel für sinusförmigen Wechselstrom?", "Sinusoidal AC formula?", "Szinuszos váltóáram képlet?", "Formula AC sinusoidal?", lang),
+      q4("i(t) = I_max × sin(2πft + φ); I_max = Spitzenwert, f = Frequenz, φ = Phasenwinkel", "i(t) = I_max × sin(2πft + φ); I_max = peak, f = frequency, φ = phase", "i(t) = I_max × sin(2πft + φ); I_max = csúcsérték, f = frekvencia", "i(t) = I_max × sin(2πft + φ); I_max = vârf, f = frecvență", lang),
       [q4("i(t) = I_max × cos(t)", "i(t) = I_max × cos(t)", "i(t) = I_max × cos(t)", "i(t) = I_max × cos(t)", lang),
        q4("i(t) = I_max", "i(t) = I_max", "i(t) = I_max", "i(t) = I_max", lang),
        q4("i(t) = I_max × e^(-t)", "i(t) = I_max × e^(-t)", "i(t) = I_max × e^(-t)", "i(t) = I_max × e^(-t)", lang)], rng));
