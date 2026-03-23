@@ -32,9 +32,6 @@ const Topic1Svg = memo(function Topic1Svg() {
         <circle cx="130" cy="10" r="8" fill="#3B82F6" />
         <circle cx="150" cy="10" r="8" fill="#3B82F6" />
         <circle cx="170" cy="10" r="8" fill="#3B82F6" />
-        <text x="140" y="35" fontSize="12" fontWeight="bold" fill="#1D4ED8" textAnchor="middle">4 kék</text>
-        
-        <text x="85" y="70" fontSize="16" fontWeight="bold" fill="#9A3412" textAnchor="middle">Arány = 3 : 4</text>
       </g>
     </svg>
   );
@@ -76,7 +73,6 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="url(#ratGrad3)" rx="16" />
       {/* Proportional Distribution: 20 into 2:3 */}
       <g transform="translate(120, 40)">
-        <text x="0" y="-10" fontSize="16" fontWeight="bold" fill="#047857" textAnchor="middle">20 elosztva 2 : 3 arányban</text>
         
         <rect x="-80" y="10" width="160" height="20" fill="#A7F3D0" rx="4" />
         <line x1="-16" y1="10" x2="-16" y2="30" stroke="#059669" strokeWidth="2" />
@@ -84,13 +80,9 @@ const Topic3Svg = memo(function Topic3Svg() {
         
         {/* 2 parts */}
         <path d="M -80,40 L -80,45 L -16,45 L -16,40" fill="none" stroke="#059669" strokeWidth="2" />
-        <text x="-48" y="60" fontSize="12" fontWeight="bold" fill="#047857" textAnchor="middle">2 rész (8)</text>
 
         {/* 3 parts */}
         <path d="M -16,40 L -16,45 L 80,45 L 80,40" fill="none" stroke="#059669" strokeWidth="2" />
-        <text x="32" y="60" fontSize="12" fontWeight="bold" fill="#047857" textAnchor="middle">3 rész (12)</text>
-        
-        <text x="0" y="85" fontSize="12" fill="#065F46" textAnchor="middle">Összesen: 5 rész. 1 rész = 4</text>
       </g>
     </svg>
   );

@@ -37,7 +37,6 @@ const Topic1Svg = memo(function Topic1Svg() {
         
         {/* Highlight negative zone */}
         <path d="M -100,-15 L -10,-15" stroke="#EF4444" strokeWidth="2" strokeDasharray="4 2" markerEnd="url(#arrow)" />
-        <text x="-55" y="-22" fontSize="10" fontWeight="bold" fill="#DC2626" textAnchor="middle">Negatív tartomány</text>
       </g>
     </svg>
   );
@@ -72,7 +71,6 @@ const Topic2Svg = memo(function Topic2Svg() {
 
         {/* Distance representation */}
         <path d="M -60,5 L -60,0 L 0,0 L 0,5" fill="none" stroke="#6D28D9" strokeWidth="2" />
-        <text x="-30" y="-5" fontSize="10" fontWeight="bold" fill="#5B21B6" textAnchor="middle">Távolság: 4 lépés</text>
       </g>
     </svg>
   );

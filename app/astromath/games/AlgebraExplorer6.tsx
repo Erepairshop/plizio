@@ -31,7 +31,6 @@ const Topic1Svg = memo(function Topic1Svg() {
         <circle cx="140" cy="15" r="8" fill="#F59E0B" />
         <circle cx="160" cy="15" r="8" fill="#F59E0B" />
       </g>
-      <text x="120" y="110" fontSize="18" fontWeight="black" fill="#4C1D95" textAnchor="middle">Kifejezés: 3x + 2</text>
     </svg>
   );
 });
@@ -52,7 +51,6 @@ const Topic2Svg = memo(function Topic2Svg() {
         <text x="0" y="0" fontSize="22" fontWeight="bold" fill="#1E3A8A" textAnchor="middle">=</text>
         <text x="50" y="0" fontSize="18" fontWeight="bold" fill="#1E40AF" textAnchor="middle">12</text>
         <path d="M -80,20 L 80,20" stroke="#1E40AF" strokeWidth="2" />
-        <text x="0" y="45" fontSize="12" fill="#1E40AF" textAnchor="middle">A két oldal egyensúlyban van</text>
       </g>
     </svg>
   );

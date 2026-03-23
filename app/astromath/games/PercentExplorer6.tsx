@@ -249,6 +249,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_inst: "Un preț de 200 lei scade cu 10%. Găsește noul preț pe axă!",
     t3_h1: "10% din 200 este 20.",
     t3_h2: "Scade 20 din 200. Atinge 180.",
+    t3_q: "O cămașă de 50 lei se reduce cu 50%. Care este prețul de vânzare?",
+    t3_q_a: "25 lei",
+    t3_q_b: "10 lei",
+    t3_q_c: "45 lei",
+    t3_q_d: "5 lei",
   },
 };
 

@@ -68,10 +68,9 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="url(#motGrad3)" rx="16" />
       {/* Average speed visual: Total distance / Total time */}
       <g transform="translate(120, 70)">
-        <text x="0" y="-20" fontSize="14" fill="#92400E" textAnchor="middle">Átlagsebesség = </text>
-        <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">Összes út (s)</text>
+        <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">distance</text>
         <line x1="-50" y1="12" x2="50" y2="12" stroke="#B45309" strokeWidth="2" />
-        <text x="0" y="30" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">Összes idő (t)</text>
+        <text x="0" y="30" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">time</text>
       </g>
     </svg>
   );

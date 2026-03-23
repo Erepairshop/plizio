@@ -21,10 +21,7 @@ const Topic1Svg = memo(function Topic1Svg() {
       <g transform="translate(60, 40)">
         <path d="M 0,60 L 80,60 L 110,0 L 30,0 Z" fill="#FCE7F3" stroke="#DB2777" strokeWidth="2" />
         <line x1="30" y1="0" x2="30" y2="60" stroke="#DB2777" strokeWidth="2" strokeDasharray="4 2" />
-        <text x="55" y="75" fontSize="12" fontWeight="bold" fill="#9D174D" textAnchor="middle">alap (a)</text>
-        <text x="25" y="35" fontSize="10" fill="#BE185D" textAnchor="end">magasság (m)</text>
       </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#9D174D" textAnchor="middle">T = a · m</text>
     </svg>
   );
 });
@@ -42,12 +39,8 @@ const Topic2Svg = memo(function Topic2Svg() {
       {/* Trapezoid Area */}
       <g transform="translate(70, 40)">
         <path d="M 0,60 L 100,60 L 80,0 L 20,0 Z" fill="#D1FAE5" stroke="#059669" strokeWidth="2" />
-        <text x="50" y="-5" fontSize="10" fill="#065F46" textAnchor="middle">a</text>
-        <text x="50" y="75" fontSize="10" fill="#065F46" textAnchor="middle">c</text>
         <line x1="20" y1="0" x2="20" y2="60" stroke="#059669" strokeWidth="1" strokeDasharray="3 3" />
-        <text x="15" y="35" fontSize="9" fill="#065F46" textAnchor="end">m</text>
       </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#047857" textAnchor="middle">T = ((a + c) · m) / 2</text>
     </svg>
   );
 });
@@ -67,11 +60,7 @@ const Topic3Svg = memo(function Topic3Svg() {
         <rect x="0" y="20" width="40" height="40" fill="#DBEAFE" stroke="#2563EB" strokeWidth="2" />
         <path d="M 0,20 L 20,0 L 60,0 L 60,40 L 40,60 L 0,60 Z" fill="none" stroke="#2563EB" strokeWidth="2" />
         <path d="M 40,20 L 60,0 M 40,60 L 60,40" stroke="#2563EB" strokeWidth="2" />
-        <text x="20" y="75" fontSize="10" fill="#1E40AF" textAnchor="middle">hossz (a)</text>
-        <text x="65" y="55" fontSize="10" fill="#1E40AF" textAnchor="start">szél. (b)</text>
-        <text x="-5" y="45" fontSize="10" fill="#1E40AF" textAnchor="end" transform="rotate(-90,-5,45)">mag. (c)</text>
       </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#1E3A8A" textAnchor="middle">V = a · b · c</text>
     </svg>
   );
 });
