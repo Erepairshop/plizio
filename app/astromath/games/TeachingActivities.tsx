@@ -78,10 +78,10 @@ export function ChooseActivity({ round, color, lang, onCorrect }: {
     } else {
       setFeedback("wrong");
       const correctOpt = round.options.find(o => o.correct);
-      fireWrongAnswer({ question: q, wrongAnswer: round.options[idx].label, correctAnswer: correctOpt?.label ?? "", topic: "Teaching Activity", lang });
+      fireWrongAnswer({ question: round.question[lang] ?? round.question.en, wrongAnswer: round.options[idx].label, correctAnswer: correctOpt?.label ?? "", topic: "Teaching Activity", lang });
       feedbackTimer.current = setTimeout(() => { setFeedback(null); setSelected(null); }, 700);
     }
-  }, [round.options, feedback, onCorrect, q, lang]);
+  }, [round.options, round.question, feedback, onCorrect, lang]);
 
   useEffect(() => () => { if (feedbackTimer.current) clearTimeout(feedbackTimer.current); }, []);
 
@@ -325,10 +325,10 @@ export function CountTapActivity({ round, color, lang, onCorrect }: {
       feedbackTimer.current = setTimeout(onCorrect, 900);
     } else {
       setFeedback("wrong");
-      fireWrongAnswer({ question: instr, wrongAnswer: String(val), correctAnswer: String(round.count), topic: "Count Tap", lang });
+      fireWrongAnswer({ question: round.instruction[lang] ?? round.instruction.en, wrongAnswer: String(val), correctAnswer: String(round.count), topic: "Count Tap", lang });
       feedbackTimer.current = setTimeout(() => { setFeedback(null); setSelected(null); }, 700);
     }
-  }, [round.count, feedback, onCorrect, instr, lang]);
+  }, [round.count, feedback, onCorrect, lang]);
 
   useEffect(() => () => { if (feedbackTimer.current) clearTimeout(feedbackTimer.current); }, []);
 
