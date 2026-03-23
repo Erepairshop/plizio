@@ -23,8 +23,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <circle cx="10" cy="10" r="8" fill="#EA580C" />
         <circle cx="30" cy="10" r="8" fill="#EA580C" />
         <circle cx="50" cy="10" r="8" fill="#EA580C" />
-        <text x="30" y="35" fontSize="12" fontWeight="bold" fill="#C2410C" textAnchor="middle">3 piros</text>
-        
+
         <text x="80" y="15" fontSize="20" fontWeight="bold" fill="#9A3412" textAnchor="middle">:</text>
 
         {/* 4 Blue Circles */}

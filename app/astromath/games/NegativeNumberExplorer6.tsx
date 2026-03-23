@@ -101,9 +101,7 @@ const Topic3Svg = memo(function Topic3Svg() {
         
         {/* Jump arrow */}
         <path d="M -45,-10 Q -7,-40 30,-10" fill="none" stroke="#059669" strokeWidth="3" markerEnd="url(#arrow)" />
-        <text x="-7" y="-30" fontSize="14" fontWeight="bold" fill="#047857" textAnchor="middle">+5</text>
-        
-        <text x="0" y="-50" fontSize="16" fontWeight="bold" fill="#92400E" textAnchor="middle">-3 + 5 = 2</text>
+        <text x="-7" y="-30" fontSize="14" fontWeight="bold" fill="#047857" textAnchor="middle">{"+"}5</text>
       </g>
     </svg>
   );

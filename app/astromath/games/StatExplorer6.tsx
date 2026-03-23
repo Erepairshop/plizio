@@ -27,7 +27,6 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="25" y="35" fontSize="10" fill="#4338CA" textAnchor="middle">5</text>
         <path d="M 50,0 L 70,0" stroke="#4338CA" strokeWidth="2" markerEnd="url(#arrow)" />
         <text x="95" y="5" fontSize="16" fontWeight="900" fill="#312E81" textAnchor="middle">4</text>
-        <text x="0" y="-45" fontSize="12" fontWeight="bold" fill="#3730A3" textAnchor="middle">Átlag: (4+3+5) / 3 = 4</text>
       </g>
     </svg>
   );
@@ -51,7 +50,6 @@ const Topic2Svg = memo(function Topic2Svg() {
             <text x="12" y="45" fontSize="12" fontWeight="bold" fill="#92400E" textAnchor="middle">{val}</text>
           </g>
         ))}
-        <text x="87" y="-10" fontSize="10" fontWeight="bold" fill="#B45309" textAnchor="middle">Medián (középső)</text>
         <path d="M 87,-5 L 87,5" stroke="#B45309" strokeWidth="1" markerEnd="url(#arrow)" />
       </g>
     </svg>
@@ -73,7 +71,6 @@ const Topic3Svg = memo(function Topic3Svg() {
         <text x="-60" y="0" fontSize="14" fontWeight="bold" fill="#059669" textAnchor="middle">Min: 12</text>
         <text x="60" y="0" fontSize="14" fontWeight="bold" fill="#059669" textAnchor="middle">Max: 45</text>
         <path d="M -40,0 L 40,0" stroke="#059669" strokeWidth="2" strokeDasharray="4 2" />
-        <text x="0" y="30" fontSize="14" fontWeight="black" fill="#047857" textAnchor="middle">Terjedelem: 33</text>
       </g>
     </svg>
   );
@@ -161,6 +158,90 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "Keresd az x=1 oszlopot.",
     t3_h2: "Nézd meg a magasságát az Y tengelyen. 15. Koppints a 15-re.",
     t3_q: "Ha a max érték 50, a min pedig 10, mennyi a terjedelem?",
+    t3_q_a: "40",
+    t3_q_b: "60",
+    t3_q_c: "50",
+    t3_q_d: "10",
+  },
+  de: {
+    explorer_title: "Statistik & Daten",
+    t1_title: "Der Durchschnitt",
+    t1_text: "Der Durchschnitt ist 'gerechte Verteilung'. Addiere alle Zahlen und teile durch die Anzahl. Es ist wie das Ausgleichen von Würfeltürmen!",
+    t1_b1: "Durchschnitt = Summe / Anzahl",
+    t1_b2: "Es zeigt den Mittelwert",
+    t1_b3: "Häufiges Beispiel: Schulnoten",
+    t1_inst: "Berechne den Durchschnitt! Du hast 3 Stapel: 10, 20 und 30. Balanciere die Waage!",
+    t1_h1: "Summe: 10 + 20 + 30 = 60.",
+    t1_h2: "60 geteilt durch 3 ist 20. Stelle die Waage auf 20.",
+    t1_q: "Wie ist der Durchschnitt von 5, 10 und 15?",
+    t1_q_a: "10",
+    t1_q_b: "15",
+    t1_q_c: "30",
+    t1_q_d: "5",
+    t2_title: "Median & Modus",
+    t2_text: "Der Median ist die mittlere Zahl, wenn man sie ordnet. Der Modus ist die am häufigsten auftretende Zahl (die beliebteste!).",
+    t2_b1: "Median: Sortiere zuerst, wähle die Mitte",
+    t2_b2: "Modus: Der häufigste Wert",
+    t2_b3: "Spannweite: Unterschied zwischen Max und Min",
+    t2_inst: "Finde den Median von [2, 8, 3, 5, 8]. Sortiere sie und wähle die mittlere!",
+    t2_h1: "Sortiert: 2, 3, 5, 8, 8.",
+    t2_h2: "Der mittlere Wert ist 5. Ziehe 5 Blöcke.",
+    t2_q: "In der Menge [4, 7, 4, 9, 2], was ist der Modus?",
+    t2_q_a: "4",
+    t2_q_b: "7",
+    t2_q_c: "2",
+    t2_q_d: "9",
+    t3_title: "Graphen lesen",
+    t3_text: "Graphen helfen, Muster zu erkennen. Ein Balkendiagramm vergleicht Kategorien, ein Liniendiagramm zeigt zeitliche Änderungen.",
+    t3_b1: "X-Achse: Kategorien oder Zeit",
+    t3_b2: "Y-Achse: Menge oder Häufigkeit",
+    t3_b3: "Spannweite = Max - Min",
+    t3_inst: "Schau dir das Balkendiagramm der Obstverkäufe an. Wie viele Äpfel (x=1) wurden verkauft?",
+    t3_h1: "Finde den Balken bei x=1.",
+    t3_h2: "Schau die Höhe auf der Y-Achse. Es ist 15. Tippe auf 15.",
+    t3_q: "Wenn der max-Wert 50 und der min-Wert 10 ist, wie groß ist die Spannweite?",
+    t3_q_a: "40",
+    t3_q_b: "60",
+    t3_q_c: "50",
+    t3_q_d: "10",
+  },
+  ro: {
+    explorer_title: "Statistică & Date",
+    t1_title: "Media (Medie)",
+    t1_text: "Media este 'distribuția corectă'. Adună toate numerele și împarte la câte numere sunt. Este ca și cum ai echilibra turnuri de cuburi!",
+    t1_b1: "Media = Suma / Numărul de valori",
+    t1_b2: "Reprezintă valoarea centrală",
+    t1_b3: "Exemplu frecvent: media notelor",
+    t1_inst: "Calculează media! Ai 3 stive: 10, 20 și 30. Echilibrează balanța!",
+    t1_h1: "Suma: 10 + 20 + 30 = 60.",
+    t1_h2: "60 împărțit la 3 este 20. Setează balanța la 20.",
+    t1_q: "Care este media de 5, 10 și 15?",
+    t1_q_a: "10",
+    t1_q_b: "15",
+    t1_q_c: "30",
+    t1_q_d: "5",
+    t2_title: "Mediană & Modă",
+    t2_text: "Mediana este numărul din mijloc când le ordonezi. Moda este numărul care apare cel mai des (cel mai popular!).",
+    t2_b1: "Mediană: Sortează mai întâi, alege mijlocul",
+    t2_b2: "Modă: Valoarea cea mai frecventă",
+    t2_b3: "Amplitudine: Diferența între Max și Min",
+    t2_inst: "Găsește mediana din [2, 8, 3, 5, 8]. Sortează-le și alege cea din mijloc!",
+    t2_h1: "Sortate: 2, 3, 5, 8, 8.",
+    t2_h2: "Valoarea din mijloc este 5. Trage 5 cuburi.",
+    t2_q: "În mulțimea [4, 7, 4, 9, 2], care este moda?",
+    t2_q_a: "4",
+    t2_q_b: "7",
+    t2_q_c: "2",
+    t2_q_d: "9",
+    t3_title: "Citirea Graficelor",
+    t3_text: "Graficele ajută să vedem modele. Un grafic cu bare compară categorii, un grafic liniar arată cum se schimbă lucrurile în timp.",
+    t3_b1: "Axa X: categorii sau timp",
+    t3_b2: "Axa Y: cantitate sau frecvență",
+    t3_b3: "Amplitudine = Max - Min",
+    t3_inst: "Uită-te la graficul cu bare al vânzărilor de fructe. Câte mere (x=1) au fost vândute?",
+    t3_h1: "Găsește bara la x=1.",
+    t3_h2: "Verifică înălțimea pe axa Y. Este 15. Atinge 15.",
+    t3_q: "Dacă valoarea max este 50 și min este 10, care este amplitudinea?",
     t3_q_a: "40",
     t3_q_b: "60",
     t3_q_c: "50",
