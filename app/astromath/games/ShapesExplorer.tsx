@@ -6,7 +6,60 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const noSvg = () => null;
+// ─── SVG Intro ──────────────────────────────────────────────────────────────
+const ShapesSvg = memo(function ShapesSvg() {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      {/* Background gradient */}
+      <defs>
+        <linearGradient id="shGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#DDD6FE" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#shGrad)" rx="12" />
+
+      {/* Triangle (left) */}
+      <g transform="translate(35, 55)">
+        {/* Shape */}
+        <polygon points="0,-18 18,15 -18,15" fill="#EC4899" opacity="0.75" stroke="#8B5CF6" strokeWidth="2" />
+        {/* Label */}
+        <text x="0" y="32" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">
+          TRIANGLE
+        </text>
+      </g>
+
+      {/* Square (center) */}
+      <g transform="translate(100, 55)">
+        {/* Shape */}
+        <rect x="-12" y="-12" width="24" height="24" fill="#3B82F6" opacity="0.75" stroke="#8B5CF6" strokeWidth="2" />
+        {/* Glow */}
+        <rect x="-12" y="-12" width="24" height="24" fill="#60A5FA" opacity="0.2" />
+        {/* Label */}
+        <text x="0" y="32" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">
+          SQUARE
+        </text>
+      </g>
+
+      {/* Circle (right) */}
+      <g transform="translate(165, 55)">
+        {/* Shape */}
+        <circle cx="0" cy="0" r="14" fill="#F59E0B" opacity="0.75" stroke="#8B5CF6" strokeWidth="2" />
+        {/* Highlight */}
+        <circle cx="-5" cy="-6" r="4" fill="#FBBF24" opacity="0.4" />
+        {/* Label */}
+        <text x="0" y="32" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">
+          CIRCLE
+        </text>
+      </g>
+
+      {/* Title at top */}
+      <text x="100" y="18" fontSize="13" fontWeight="900" fill="#8B5CF6" textAnchor="middle">
+        3 SHAPES
+      </text>
+    </svg>
+  );
+});
 
 const LABELS = {
   en: {
