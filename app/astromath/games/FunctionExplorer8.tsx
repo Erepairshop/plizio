@@ -216,7 +216,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: ({ labels }) => <Topic1Svg labels={labels} />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "graph-plotter",
@@ -245,7 +245,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: ({ labels }) => <Topic2Svg labels={labels} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "ratio-slider",
