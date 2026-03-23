@@ -339,13 +339,11 @@ const TOPICS: TopicDef[] = [
       hint2: "t1_h2",
       params: { min: 100, max: 500, step: 100, unit: "cm" },
     },
-    quiz: [
-      {
-        question: "t1_q",
-        choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
-        answer: "t1_q_500",
-      },
-    ],
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
+      answer: "t1_q_500",
+    },
   },
 
   // ─ Topic 2: Weight ─
@@ -361,13 +359,11 @@ const TOPICS: TopicDef[] = [
       hint2: "t2_h2",
       params: { min: 1000, max: 3000, step: 1000, unit: "g" },
     },
-    quiz: [
-      {
-        question: "t2_q",
-        choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
-        answer: "t2_q_3000",
-      },
-    ],
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
+      answer: "t2_q_3000",
+    },
   },
 
   // ─ Topic 3: Time ─
@@ -383,23 +379,11 @@ const TOPICS: TopicDef[] = [
       hint2: "t3_h2",
       params: { min: 60, max: 120, step: 60, unit: "min" },
     },
-    quiz: [
-      {
-        question: "t3_q",
-        choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
-        answer: "t3_q_120",
-      },
-      {
-        question: "t1_q",
-        choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
-        answer: "t1_q_500",
-      },
-      {
-        question: "t2_q",
-        choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
-        answer: "t2_q_3000",
-      },
-    ],
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
+      answer: "t3_q_120",
+    },
   },
 ];
 

@@ -292,55 +292,66 @@ const LABELS: Record<string, Record<string, string>> = {
 
 const TOPICS: TopicDef[] = [
   {
-    title: "t1_title",
-    description: "t1_text",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     svg: (lang) => <ArrayModelSvg rows={4} cols={6} />,
-    interactiveBlock: {
+    interactive: {
       type: "block-drag",
       mode: "combine",
-      instructionKey: "t1_inst",
-      hints: [
-        { label: "t1_h1", hint: "First, drag to select the number of rows." },
-        { label: "t1_h2", hint: "Then, drag to select the number of columns." },
-      ],
+      groups: [4, 6],
+      answer: 24,
+      blockIcon: "🔢",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"],
+      answer: "t1_q_40",
     },
   },
   {
-    title: "t2_title",
-    description: "t2_text",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     svg: (lang) => <SkipCountingSvg start={6} count={7} lang={lang} />,
-    interactiveBlock: {
+    interactive: {
       type: "block-drag",
       mode: "combine",
-      instructionKey: "t2_inst",
-      hints: [
-        { label: "t2_h1", hint: "First, drag to select how many groups." },
-        { label: "t2_h2", hint: "Then, drag to select the skip count number." },
-      ],
+      groups: [6, 7],
+      answer: 42,
+      blockIcon: "🔢",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"],
+      answer: "t2_q_48",
     },
   },
   {
-    title: "t3_title",
-    description: "t3_text",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     svg: (lang) => <NumberLineJumpsSvg groups={9} size={5} lang={lang} />,
-    interactiveBlock: {
+    interactive: {
       type: "block-drag",
       mode: "combine",
-      instructionKey: "t3_inst",
-      hints: [
-        { label: "t3_h1", hint: "First, drag to select how many jumps." },
-        { label: "t3_h2", hint: "Then, drag to select the jump size." },
-      ],
+      groups: [9, 5],
+      answer: 45,
+      blockIcon: "🔢",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
     },
-    mcq: {
-      questions: [
-        { question: "t3_q", choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"], answer: "t3_q_8" },
-        { question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" },
-        { question: "t2_q", choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"], answer: "t2_q_48" },
-      ],
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"],
+      answer: "t3_q_8",
     },
   },
 ];

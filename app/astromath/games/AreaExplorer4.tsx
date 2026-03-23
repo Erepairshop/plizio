@@ -570,12 +570,15 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t1_text",
       svg: () => <GridAreaSvg width={4} height={3} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-      hintKey: "t1_inst",
       interactive: {
-        type: "custom",
-        component: ({ lang: cLang }) => (
-          <GridAreaCounter width={5} height={4} lang={cLang} onValueChange={() => {}} />
-        ),
+        type: "block-drag",
+        mode: "combine",
+        groups: [5, 4],
+        answer: 20,
+        blockIcon: "🟦",
+        instruction: "t1_inst",
+        hint1: "t1_h1",
+        hint2: "t1_h2",
       },
       quiz: {
         question: "t1_q",
@@ -590,12 +593,16 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t2_text",
       svg: () => <PerimeterSvg width={6} height={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-      hintKey: "t2_inst",
       interactive: {
-        type: "custom",
-        component: ({ lang: cLang }) => (
-          <PerimeterAdder width={7} height={3} lang={cLang} onValueChange={() => {}} />
-        ),
+        type: "number-line",
+        min: 0,
+        max: 30,
+        start: 0,
+        target: 20,
+        step: 2,
+        instruction: "t2_inst",
+        hint1: "t2_h1",
+        hint2: "t2_h2",
       },
       quiz: {
         question: "t2_q",
@@ -610,15 +617,15 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
       infoText: "t3_text",
       svg: () => <AreaVsPerimeterSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-      hintKey: "t3_inst",
       interactive: {
-        type: "custom",
-        component: ({ lang: cLang }) => (
-          <div className="flex flex-col items-center gap-3 px-4 py-3 bg-gradient-to-br from-purple-600/10 to-violet-600/10 rounded-2xl border border-purple-500/20">
-            <p className="text-xs font-semibold text-center text-purple-300">{LABELS[cLang]?.t3_inst || "Compare the two rectangles."}</p>
-            <p className="text-white/70 text-sm font-medium text-center">4×2 vs 3×3 — Which has larger area?</p>
-          </div>
-        ),
+        type: "block-drag",
+        mode: "combine",
+        groups: [4, 2],
+        answer: 8,
+        blockIcon: "🟩",
+        instruction: "t3_inst",
+        hint1: "t3_h1",
+        hint2: "t3_h2",
       },
       quiz: {
         question: "t3_q",

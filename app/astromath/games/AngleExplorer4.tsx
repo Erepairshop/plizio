@@ -407,91 +407,73 @@ const LABELS: Record<string, Record<string, string>> = {
 const TOPICS: TopicDef[] = [
   // ─ Topic 1: Angle types ─
   {
-    id: "t1_angles",
-    title: "t1_title",
-    instruction: "t1_inst",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
     svg: (lang: string) => <AngleTypesSvg lang={lang} />,
-    hints: ["t1_h1", "t1_h2"],
-    description: "t1_text",
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    interactiveBlocks: [
-      {
-        type: "comparison",
-        title: "t1_title",
-        items: [
-          { label: "t1_q_right", value: "90°", color: "#EF4444" },
-          { label: "t1_q_acute", value: "<90°", color: "#10B981" },
-          { label: "t1_q_obtuse", value: ">90°", color: "#8B5CF6" },
-        ],
-      },
-      {
-        type: "info-block",
-        content: "t1_text",
-      },
-    ],
-    questions: [
-      {
-        question: "t1_q",
-        choices: ["t1_q_right", "t1_q_acute", "t1_q_obtuse", "t1_q_straight"],
-        answer: "t1_q_acute",
-      },
-    ],
+    interactive: {
+      type: "number-line",
+      min: 0,
+      max: 180,
+      start: 0,
+      target: 90,
+      step: 10,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_right", "t1_q_acute", "t1_q_obtuse", "t1_q_straight"],
+      answer: "t1_q_acute",
+    },
   },
 
   // ─ Topic 2: Symmetry (lines of symmetry) ─
   {
-    id: "t2_symmetry",
-    title: "t2_title",
-    instruction: "t2_inst",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
     svg: (lang: string) => <SymmetrySvg lang={lang} />,
-    hints: ["t2_h1", "t2_h2"],
-    description: "t2_text",
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    interactiveBlocks: [
-      {
-        type: "numbered-list",
-        items: ["t2_b1", "t2_b2", "t2_b3"],
-      },
-      {
-        type: "info-block",
-        content: "t2_text",
-      },
-    ],
-    questions: [
-      {
-        question: "t2_q",
-        choices: ["t2_q_0", "t2_q_1", "t2_q_2", "t2_q_4"],
-        answer: "t2_q_4",
-      },
-    ],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [2, 2],
+      answer: 4,
+      blockIcon: "📐",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_0", "t2_q_1", "t2_q_2", "t2_q_4"],
+      answer: "t2_q_4",
+    },
   },
 
   // ─ Topic 3: Measuring angles with protractor ─
   {
-    id: "t3_protractor",
-    title: "t3_title",
-    instruction: "t3_inst",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
     svg: (lang: string) => <ProtractorSvg lang={lang} />,
-    hints: ["t3_h1", "t3_h2"],
-    description: "t3_text",
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    interactiveBlocks: [
-      {
-        type: "steps",
-        steps: ["t3_b1", "t3_b2", "t3_b3"],
-      },
-      {
-        type: "info-block",
-        content: "t3_text",
-      },
-    ],
-    questions: [
-      {
-        question: "t3_q",
-        choices: ["t3_q_15", "t3_q_45", "t3_q_75", "t3_q_105"],
-        answer: "t3_q_75",
-      },
-    ],
+    interactive: {
+      type: "number-line",
+      min: 0,
+      max: 180,
+      start: 0,
+      target: 75,
+      step: 5,
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_15", "t3_q_45", "t3_q_75", "t3_q_105"],
+      answer: "t3_q_75",
+    },
   },
 ];
 

@@ -379,7 +379,7 @@ const TOPICS: TopicDef[] = [
     quiz: {
       question: "t1_q",
       choices: ["t1_q_200", "t1_q_300", "t1_q_400", "t1_q_500"],
-      answer: "t1_q_300",
+      answer: "t1_q_400",
     },
   },
   // Topic 2: Subtraction decomposition
@@ -399,7 +399,7 @@ const TOPICS: TopicDef[] = [
     },
     quiz: {
       question: "t2_q",
-      choices: ["t2_q_400", "t2_q_500", "t2_q_600", "t2_q_700"],
+      choices: ["t2_q_500", "t2_q_400", "t2_q_600", "t2_q_700"],
       answer: "t2_q_500",
     },
   },
@@ -422,7 +422,7 @@ const TOPICS: TopicDef[] = [
     quiz: {
       question: "t3_q",
       choices: ["t3_q_250", "t3_q_300", "t3_q_350", "t3_q_400"],
-      answer: "t3_q_250",
+      answer: "t3_q_300",
     },
   },
 ];

@@ -302,7 +302,6 @@ const TOPICS: TopicDef[] = [
       hint2: "t1_h2",
     },
     quiz: { question: "t1_q", choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_6"], answer: "t1_q_4" },
-    quizSvg: (lang) => <SharingModelSvg total={24} groups={6} lang={lang} />,
   },
   {
     infoTitle: "t2_title",
@@ -320,7 +319,6 @@ const TOPICS: TopicDef[] = [
       hint2: "t2_h2",
     },
     quiz: { question: "t2_q", choices: ["t2_q_5", "t2_q_6", "t2_q_7", "t2_q_8"], answer: "t2_q_6" },
-    quizSvg: (lang) => <GroupingModelSvg total={48} size={8} lang={lang} />,
   },
   {
     infoTitle: "t3_title",
@@ -341,7 +339,6 @@ const TOPICS: TopicDef[] = [
       hint2: "t3_h2",
     },
     quiz: { question: "t3_q", choices: ["t3_q_8", "t3_q_9", "t3_q_10", "t3_q_11"], answer: "t3_q_9" },
-    quizSvg: (lang) => <NumberLineSubSvg total={54} size={6} lang={lang} />,
   },
 ];
 
