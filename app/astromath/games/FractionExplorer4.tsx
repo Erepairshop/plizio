@@ -1,400 +1,328 @@
 "use client";
+// FractionsExplorer4 — Basic fractions for Grade 4 (island i4)
+
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denominator = 2, lang = "en" }: { numerator?: number; denominator?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const angles = Array.from({ length: denominator }, (_, i) => ({
-    start: (360 / denominator) * i,
-    end: (360 / denominator) * (i + 1),
-    filled: i < numerator,
-  }));
+// ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="circG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B9D" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FFB3D9" stopOpacity="0.04" />
+        <linearGradient id="fracGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FB923C" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#F87171" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#circG)" rx="16" />
-      {angles.map((angle, i) => {
-        const rad1 = ((angle.start - 90) * Math.PI) / 180;
-        const rad2 = ((angle.end - 90) * Math.PI) / 180;
-        const x1 = 120 + 40 * Math.cos(rad1);
-        const y1 = 75 + 40 * Math.sin(rad1);
-        const x2 = 120 + 40 * Math.cos(rad2);
-        const y2 = 75 + 40 * Math.sin(rad2);
-        const largeArc = angle.end - angle.start > 180 ? 1 : 0;
-        const d = `M 120 75 L ${x1} ${y1} A 40 40 0 ${largeArc} 1 ${x2} ${y2} Z`;
-        return (
-          <path key={i} d={d} fill={angle.filled ? "#FF6B9D" : "rgba(255,255,255,0.1)"} stroke="rgba(255,255,255,0.3)" strokeWidth="1" opacity={angle.filled ? 0.8 : 0.4} />
-        );
-      })}
-      <circle cx="120" cy="75" r="40" fill="none" stroke="rgba(255,255,255,0.3)" strokeWidth="2" />
-      <text x="120" y="130" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {numerator}/{denominator}
-      </text>
-      <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {t.circle_label}
-      </text>
+      <rect width="240" height="140" fill="url(#fracGrad1)" rx="16" />
+      {/* Circle divided into 4 parts, 1 shaded */}
+      <g transform="translate(120, 70)">
+        <circle r="40" fill="none" stroke="#FB923C" strokeWidth="2" />
+        <path d="M 0,0 L 40,0 A 40,40 0 0 1 0,40 Z" fill="#FB923C" opacity="0.6" />
+        <line x1="-40" y1="0" x2="40" y2="0" stroke="#FB923C" strokeWidth="1" />
+        <line x1="0" y1="-40" x2="0" y2="40" stroke="#FB923C" strokeWidth="1" />
+      </g>
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">1 / 4</text>
     </svg>
   );
 });
 
-const BarFractionSvg = memo(function BarFractionSvg({ numerator = 2, denominator = 4, lang = "en" }: { numerator?: number; denominator?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
+const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="barG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4ECDC4" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#7FE3DE" stopOpacity="0.04" />
+        <linearGradient id="fracGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#22D3EE" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#barG)" rx="16" />
-      <g transform="translate(30, 50)">
-        {Array.from({ length: denominator }, (_, i) => (
-          <rect
-            key={i}
-            x={i * 35}
-            y="0"
-            width="32"
-            height="32"
-            fill={i < numerator ? "#4ECDC4" : "rgba(255,255,255,0.1)"}
-            stroke="rgba(255,255,255,0.3)"
-            strokeWidth="1"
-            opacity={i < numerator ? 0.8 : 0.4}
-            rx="4"
-          />
-        ))}
+      <rect width="240" height="140" fill="url(#fracGrad2)" rx="16" />
+      {/* Rectangle divided into 3 parts, 2 shaded */}
+      <g transform="translate(70, 45)">
+        <rect width="100" height="50" fill="none" stroke="#0891B2" strokeWidth="2" />
+        <rect width="33.3" height="50" fill="#0891B2" opacity="0.5" />
+        <rect x="33.3" width="33.3" height="50" fill="#0891B2" opacity="0.5" />
+        <line x1="33.3" y1="0" x2="33.3" y2="50" stroke="#0891B2" strokeWidth="1" />
+        <line x1="66.6" y1="0" x2="66.6" y2="50" stroke="#0891B2" strokeWidth="1" />
       </g>
-      <text x="120" y="130" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {numerator}/{denominator}
-      </text>
-      <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {t.bar_label}
-      </text>
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#0E7490" textAnchor="middle">2 / 3</text>
     </svg>
   );
 });
 
-const CompareFractionsSvg = memo(function CompareFractionsSvg({ lang = "en" }: { lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
+const Topic3Svg = memo(function Topic3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="compG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FFE66D" stopOpacity="0.04" />
+        <linearGradient id="fracGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4ADE80" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#2DD4BF" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#compG)" rx="16" />
-      <g transform="translate(20, 30)">
-        <text x="45" y="0" fontSize="11" fontWeight="bold" fill="#FFD700">1/4</text>
-        {Array.from({ length: 4 }, (_, i) => (
-          <rect key={i} x={i * 20} y="10" width="18" height="20" fill={i < 1 ? "#FFD700" : "rgba(255,255,255,0.1)"} stroke="rgba(255,255,255,0.3)" strokeWidth="1" opacity={i < 1 ? 0.8 : 0.4} rx="2" />
-        ))}
+      <rect width="240" height="140" fill="url(#fracGrad3)" rx="16" />
+      {/* Number line with 1/2 marked */}
+      <g transform="translate(20, 70)">
+        <line x1="0" y1="0" x2="200" y2="0" stroke="#059669" strokeWidth="2" />
+        <line x1="0" y1="-5" x2="0" y2="5" stroke="#059669" strokeWidth="2" />
+        <line x1="200" y1="-5" x2="200" y2="5" stroke="#059669" strokeWidth="2" />
+        <line x1="100" y1="-8" x2="100" y2="8" stroke="#059669" strokeWidth="2" />
+        <text x="0" y="25" fontSize="12" fill="#059669" textAnchor="middle">0</text>
+        <text x="100" y="25" fontSize="12" fill="#059669" fontWeight="bold" textAnchor="middle">1/2</text>
+        <text x="200" y="25" fontSize="12" fill="#059669" textAnchor="middle">1</text>
       </g>
-      <g transform="translate(140, 30)">
-        <text x="45" y="0" fontSize="11" fontWeight="bold" fill="#FF6B6B">2/4</text>
-        {Array.from({ length: 4 }, (_, i) => (
-          <rect key={i} x={i * 20} y="10" width="18" height="20" fill={i < 2 ? "#FF6B6B" : "rgba(255,255,255,0.1)"} stroke="rgba(255,255,255,0.3)" strokeWidth="1" opacity={i < 2 ? 0.8 : 0.4} rx="2" />
-        ))}
-      </g>
-      <text x="120" y="110" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {t.compare_bigger}
-      </text>
-      <text x="120" y="130" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {t.compare_explanation}
-      </text>
-      <text x="120" y="150" fontSize="11" fontWeight="bold" fill="#4ECDC4" textAnchor="middle">
-        2/4 {">"}  1/4
-      </text>
     </svg>
   );
 });
 
-const BlockDragComponent = memo(function BlockDragComponent({ color = "#FF6B9D" }: { color?: string }) {
-  return (
-    <div className="flex flex-col gap-4 p-6 bg-white/5 rounded-2xl">
-      <div className="flex gap-2 justify-center">
-        {Array.from({ length: 4 }, (_, i) => (
-          <div
-            key={i}
-            className="w-10 h-10 rounded border-2 cursor-move transition-all"
-            style={{
-              borderColor: i < 3 ? color : "rgba(255,255,255,0.2)",
-              backgroundColor: i < 3 ? `${color}40` : "rgba(255,255,255,0.05)",
-            }}
-          />
-        ))}
-      </div>
-      <p className="text-center text-xs text-white/60 font-medium">
-        Drag to place fractions
-      </p>
-    </div>
-  );
-});
+// ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    explorer_title: "Fraction Explorer",
-    circle_label: "(shaded, total)",
-    bar_label: "(shaded parts)",
-    compare_bigger: "2/4 is bigger than 1/4",
-    compare_explanation: "More shaded parts = larger fraction",
-    t1_title: "Equal Parts of a Whole",
-    t1_inst: "Drag the blocks to show the shaded parts.",
-    t1_h1: "Observe the shaded parts",
-    t1_h2: "Count the total parts",
-    t1_text: "A fraction shows equal parts of a whole. If we cut a circle into 2 equal parts and color 1, that is 1/2. The bottom number (denominator) tells how many equal parts. The top number (numerator) tells how many colored.",
-    t1_b1: "A whole is divided into equal parts",
-    t1_b2: "The denominator is the total parts",
-    t1_b3: "The numerator is the shaded parts",
-    t1_q: "If a circle is cut into 4 equal parts and 3 are shaded, what is the fraction?",
-    t1_q_1_4: "1/4",
-    t1_q_2_4: "2/4",
-    t1_q_3_4: "3/4",
-    t1_q_4_4: "4/4",
-    t2_title: "Naming Fractions",
-    t2_inst: "Arrange the blocks to represent the fraction.",
-    t2_h1: "Look at the bar divided into parts",
-    t2_h2: "Count shaded and total parts",
-    t2_text: "Different shapes can show fractions. A bar divided into 4 equal parts with 2 shaded is 2/4. A circle divided into 8 equal parts with 5 shaded is 5/8. The shape doesn't matter—the fraction just shows parts of a whole.",
-    t2_b1: "Count the total number of parts",
-    t2_b2: "Count how many parts are shaded",
-    t2_b3: "Write numerator over denominator",
-    t2_q: "A rectangle is divided into 8 equal parts, and 6 are shaded. What is the fraction?",
-    t2_q_2_8: "2/8",
-    t2_q_4_8: "4/8",
-    t2_q_6_8: "6/8",
-    t2_q_7_8: "7/8",
+    explorer_title: "Fractions Explorer",
+    t1_title: "Parts of a Whole",
+    t1_text: "A fraction tells us how many equal parts an object is divided into. The top number is the numerator, the bottom is the denominator.",
+    t1_b1: "The denominator shows total parts",
+    t1_b2: "The numerator shows shaded parts",
+    t1_b3: "All parts must be exactly equal",
+    t1_inst: "Combine 3 blocks of 1/4 to make 3/4!",
+    t1_h1: "Each block represents one quarter.",
+    t1_h2: "You need three blocks to reach 3/4.",
+    t1_q: "In the fraction 3/8, what is the denominator?",
+    t1_q_a: "3",
+    t1_q_b: "8",
+    t1_q_c: "11",
+    t1_q_d: "5",
+    t2_title: "Reading Fractions",
+    t2_text: "When you see 2/3, it means you have two out of three equal pieces. It is more than half, but less than a whole!",
+    t2_b1: "2/2 or 4/4 is equal to 1 whole",
+    t2_b2: "Larger denominator means smaller parts",
+    t2_b3: "Fractions can describe shapes or groups",
+    t2_inst: "Find 1/2 on the number line!",
+    t2_h1: "1/2 is exactly in the middle of 0 and 1.",
+    t2_h2: "Look for the mark that splits the line in two.",
+    t2_q: "Which fraction represents a whole?",
+    t2_q_a: "1/2",
+    t2_q_b: "4/4",
+    t2_q_c: "3/4",
+    t2_q_d: "1/4",
     t3_title: "Comparing Fractions",
-    t3_inst: "Group the blocks to compare fractions.",
-    t3_h1: "Compare the shaded parts",
-    t3_h2: "Use the symbols > or <",
-    t3_text: "We can compare fractions by looking at how many parts are shaded. If 2/4 is shaded and 1/4 is shaded, 2/4 is bigger because more parts are shaded. We write: 2/4 > 1/4.",
-    t3_b1: "More shaded parts means a larger fraction",
-    t3_b2: "Fewer shaded parts means a smaller fraction",
-    t3_b3: "Compare the numerators when denominators are the same",
-    t3_q: "Which fraction is larger: 3/8 or 5/8?",
-    t3_q_2_8: "2/8",
-    t3_q_3_8: "3/8",
-    t3_q_5_8: "5/8",
-    t3_q_6_8: "6/8",
+    t3_text: "If the denominators are the same, the fraction with the larger numerator is bigger. 3/4 is more than 1/4!",
+    t3_b1: "Same denominator? Compare the top",
+    t3_b2: "Numerator 0 means nothing",
+    t3_b3: "Fractions live between 0 and 1",
+    t3_inst: "Move blocks to show 2/4 + 1/4 = 3/4!",
+    t3_h1: "Start with 2 blocks and add 1 more.",
+    t3_h2: "The total will be 3 blocks of 1/4.",
+    t3_q: "Which fraction is the smallest?",
+    t3_q_a: "3/4",
+    t3_q_b: "1/4",
+    t3_q_c: "2/4",
+    t3_q_d: "4/4",
   },
   de: {
-    explorer_title: "Bruch-Entdecker",
-    circle_label: "(gefärbt, insgesamt)",
-    bar_label: "(gefärbte Teile)",
-    compare_bigger: "2/4 ist größer als 1/4",
-    compare_explanation: "Mehr gefärbte Teile = größerer Bruch",
-    t1_title: "Gleiche Teile eines Ganzen",
-    t1_inst: "Verschiebe die Blöcke um die gefärbten Teile zu zeigen.",
-    t1_h1: "Beobachte die gefärbten Teile",
-    t1_h2: "Zähle die Gesamtzahl der Teile",
-    t1_text: "Ein Bruch zeigt gleiche Teile eines Ganzen. Wenn wir einen Kreis in 2 gleiche Teile teilen und 1 färben, ist das 1/2. Die untere Zahl (Nenner) zeigt, wie viele Teile. Die obere Zahl (Zähler) zeigt, wie viele gefärbt sind.",
-    t1_b1: "Ein Ganzes wird in gleiche Teile geteilt",
-    t1_b2: "Der Nenner ist die Gesamtzahl der Teile",
-    t1_b3: "Der Zähler ist die Anzahl der gefärbten Teile",
-    t1_q: "Wenn ein Kreis in 4 gleiche Teile geteilt ist und 3 gefärbt sind, welcher Bruch ist das?",
-    t1_q_1_4: "1/4",
-    t1_q_2_4: "2/4",
-    t1_q_3_4: "3/4",
-    t1_q_4_4: "4/4",
-    t2_title: "Brüche benennen",
-    t2_inst: "Ordne die Blöcke an, um den Bruch darzustellen.",
-    t2_h1: "Schau auf den in Teile geteilten Balken",
-    t2_h2: "Zähle gefärbte und Gesamtteile",
-    t2_text: "Verschiedene Formen können Brüche zeigen. Ein Balken, geteilt in 4 gleiche Teile mit 2 gefärbt, ist 2/4. Ein Kreis geteilt in 8 gleiche Teile mit 5 gefärbt, ist 5/8. Die Form ist egal—der Bruch zeigt einfach Teile eines Ganzen.",
-    t2_b1: "Zähle die Gesamtzahl der Teile",
-    t2_b2: "Zähle, wie viele Teile gefärbt sind",
-    t2_b3: "Schreibe Zähler über Nenner",
-    t2_q: "Ein Rechteck ist in 8 gleiche Teile geteilt, und 6 sind gefärbt. Welcher Bruch?",
-    t2_q_2_8: "2/8",
-    t2_q_4_8: "4/8",
-    t2_q_6_8: "6/8",
-    t2_q_7_8: "7/8",
+    explorer_title: "Bruchrechnungs-Entdecker",
+    t1_title: "Teile eines Ganzen",
+    t1_text: "Ein Bruch sagt uns, in wie viele gleiche Teile ein Objekt geteilt ist. Die obere Zahl ist der Zähler, die untere der Nenner.",
+    t1_b1: "Der Nenner zeigt die Gesamtteile",
+    t1_b2: "Der Zähler zeigt die markierten Teile",
+    t1_b3: "Alle Teile müssen exakt gleich groß sein",
+    t1_inst: "Kombiniere 3 Blöcke von 1/4, um 3/4 zu erhalten!",
+    t1_h1: "Jeder Block stellt ein Viertel dar.",
+    t1_h2: "Du brauchst drei Blöcke für 3/4.",
+    t1_q: "Was ist der Nenner im Bruch 3/8?",
+    t1_q_a: "3",
+    t1_q_b: "8",
+    t1_q_c: "11",
+    t1_q_d: "5",
+    t2_title: "Brüche lesen",
+    t2_text: "2/3 bedeutet, dass du zwei von drei gleichen Teilen hast. Das ist mehr als die Hälfte, deaber weniger als ein Ganzes!",
+    t2_b1: "2/2 oder 4/4 entspricht 1 Ganzem",
+    t2_b2: "Größerer Nenner bedeutet kleinere Teile",
+    t2_b3: "Brüche beschreiben Formen oder Gruppen",
+    t2_inst: "Finde 1/2 auf dem Zahlenstrahl!",
+    t2_h1: "1/2 liegt genau in der Mitte zwischen 0 und 1.",
+    t2_h2: "Suche die Markierung, die die Linie halbiert.",
+    t2_q: "Welcher Bruch entspricht einem Ganzen?",
+    t2_q_a: "1/2",
+    t2_q_b: "4/4",
+    t2_q_c: "3/4",
+    t2_q_d: "1/4",
     t3_title: "Brüche vergleichen",
-    t3_inst: "Gruppiere die Blöcke um Brüche zu vergleichen.",
-    t3_h1: "Vergleiche die gefärbten Teile",
-    t3_h2: "Verwende die Symbole > oder <",
-    t3_text: "Wir können Brüche vergleichen, indem wir sehen, wie viele Teile gefärbt sind. Wenn 2/4 gefärbt ist und 1/4 gefärbt ist, ist 2/4 größer weil mehr Teile gefärbt sind. Wir schreiben: 2/4 > 1/4.",
-    t3_b1: "Mehr gefärbte Teile bedeuten ein größerer Bruch",
-    t3_b2: "Weniger gefärbte Teile bedeuten ein kleinerer Bruch",
-    t3_b3: "Vergleiche die Zähler wenn Nenner gleich sind",
-    t3_q: "Welcher Bruch ist größer: 3/8 oder 5/8?",
-    t3_q_2_8: "2/8",
-    t3_q_3_8: "3/8",
-    t3_q_5_8: "5/8",
-    t3_q_6_8: "6/8",
+    t3_text: "Wenn die Nenner gleich sind, ist der Bruch mit dem größeren Zähler größer. 3/4 ist mehr als 1/4!",
+    t3_b1: "Gleicher Nenner? Vergleiche oben",
+    t3_b2: "Zähler 0 bedeutet nichts",
+    t3_b3: "Brüche liegen zwischen 0 und 1",
+    t3_inst: "Bewege Blöcke: 2/4 + 1/4 = 3/4!",
+    t3_h1: "Beginne mit 2 Blöcken und füge 1 hinzu.",
+    t3_h2: "Das Ergebnis sind 3 Blöcke von 1/4.",
+    t3_q: "Welcher Bruch ist am kleinsten?",
+    t3_q_a: "3/4",
+    t3_q_b: "1/4",
+    t3_q_c: "2/4",
+    t3_q_d: "4/4",
   },
   hu: {
-    explorer_title: "Tört-felfedező",
-    circle_label: "(színezett, összesen)",
-    bar_label: "(színezett rész)",
-    compare_bigger: "2/4 nagyobb, mint 1/4",
-    compare_explanation: "Több színezett rész = nagyobb tört",
-    t1_title: "Egész egyenlő részei",
-    t1_inst: "Húzd az elemeket a színezett részek mutatásához.",
-    t1_h1: "Figyeld meg a színezett részeket",
-    t1_h2: "Számlálj össze az összes részt",
-    t1_text: "A tört az egész egyenlő részeit mutatja. Ha egy kört 2 egyenlő részre osztunk és 1-et színezünk, az 1/2. Az alsó szám (nevező) az összes részt mutatja. A felső szám (számláló) a színezett részeket mutatja.",
-    t1_b1: "Az egész egyenlő részekre van osztva",
-    t1_b2: "A nevező az összes rész száma",
-    t1_b3: "A számláló a színezett részek száma",
-    t1_q: "Ha egy kört 4 egyenlő részre osztunk és 3-at színezünk, melyik tört?",
-    t1_q_1_4: "1/4",
-    t1_q_2_4: "2/4",
-    t1_q_3_4: "3/4",
-    t1_q_4_4: "4/4",
-    t2_title: "Törtek elnevezése",
-    t2_inst: "Rendezd az elemeket a tört ábrázolásához.",
-    t2_h1: "Nézd meg az egyenlő részekre osztott sávot",
-    t2_h2: "Számlálj meg színezett és összesen részeket",
-    t2_text: "Különböző formák mutathatnak törteket. Egy 4 egyenlő részre osztott sáv 2 színezett résszel 2/4. Egy 8 egyenlő részre osztott kör 5 színezett résszel 5/8. A forma nem számít—a tört csak az egész részei.",
-    t2_b1: "Számlálj meg az összes részt",
-    t2_b2: "Számlálj meg a színezett részeket",
-    t2_b3: "Írj számlálót a nevező fölé",
-    t2_q: "Egy téglalap 8 egyenlő részre van osztva, 6 van színezve. Melyik tört?",
-    t2_q_2_8: "2/8",
-    t2_q_4_8: "4/8",
-    t2_q_6_8: "6/8",
-    t2_q_7_8: "7/8",
+    explorer_title: "Törtek felfedezése",
+    t1_title: "Az egész részei",
+    t1_text: "A tört megmutatja, hány egyenlő részre osztottunk fel egy egészet. A felső szám a számláló, az alsó a nevező.",
+    t1_b1: "A nevező az összes részt mutatja",
+    t1_b2: "A számláló a kiválasztott részeket",
+    t1_b3: "Minden résznek pontosan egyformának kell lennie",
+    t1_inst: "Vond össze a blokkokat: 3 darab 1/4-est, hogy 3/4 legyen!",
+    t1_h1: "Minden blokk egy negyedet ér.",
+    t1_h2: "Három darab blokkra lesz szükséged.",
+    t1_q: "A 3/8-as törtben melyik szám a nevező?",
+    t1_q_a: "3",
+    t1_q_b: "8",
+    t1_q_c: "11",
+    t1_q_d: "5",
+    t2_title: "Törtek értelmezése",
+    t2_text: "A 2/3 azt jelenti, hogy a három egyenlő részből kettő a tiéd. Ez több, mint a fele, de kevesebb, mint egy egész!",
+    t2_b1: "A 2/2 vagy 4/4 egyenlő 1 egésszel",
+    t2_b2: "A nagyobb nevező kisebb részeket jelent",
+    t2_b3: "A törtek alakzatokat vagy csoportokat írnak le",
+    t2_inst: "Keresd meg az 1/2-et a számegyenesen!",
+    t2_h1: "Az 1/2 pontosan középen van 0 és 1 között.",
+    t2_h2: "Keresd azt a jelet, ami kettéosztja a vonalat.",
+    t2_q: "Melyik tört ér fel egy egésszel?",
+    t2_q_a: "1/2",
+    t2_q_b: "4/4",
+    t2_q_c: "3/4",
+    t2_q_d: "1/4",
     t3_title: "Törtek összehasonlítása",
-    t3_inst: "Csoportosítsd az elemeket a törtek összehasonlításához.",
-    t3_h1: "Hasonlítsd össze a színezett részeket",
-    t3_h2: "Használd a > vagy < szimbólumokat",
-    t3_text: "Összehasonlíthatunk törteket a színezett részek megtekintésével. Ha 2/4 és 1/4 van színezve, 2/4 nagyobb mert több rész van színezve. Ezt írjuk: 2/4 > 1/4.",
-    t3_b1: "Több színezett rész nagyobb törtöt jelent",
-    t3_b2: "Kevesebb színezett rész kisebb törtöt jelent",
-    t3_b3: "Hasonlítsd össze a számlálókat ha a nevezők ugyanazok",
-    t3_q: "Melyik tört nagyobb: 3/8 vagy 5/8?",
-    t3_q_2_8: "2/8",
-    t3_q_3_8: "3/8",
-    t3_q_5_8: "5/8",
-    t3_q_6_8: "6/8",
+    t3_text: "Ha a nevezők megegyeznek, az a tört a nagyobb, amelyiknek a számlálója nagyobb. A 3/4 több, mint az 1/4!",
+    t3_b1: "Azonos nevező? A felsőt hasonlítsd össze",
+    t3_b2: "A 0 számláló semmit sem jelent",
+    t3_b3: "A törtek a 0 és az 1 között laknak",
+    t3_inst: "Húzz be blokkokat: 2/4 + 1/4 = 3/4!",
+    t3_h1: "Kezdj 2 blokkal, majd adj hozzá még egyet.",
+    t3_h2: "Összesen 3 darab 1/4-es blokkod lesz.",
+    t3_q: "Melyik tört a legkisebb?",
+    t3_q_a: "3/4",
+    t3_q_b: "1/4",
+    t3_q_c: "2/4",
+    t3_q_d: "4/4",
   },
   ro: {
-    explorer_title: "Explorare Fracții",
-    circle_label: "(colorat, total)",
-    bar_label: "(părți colorate)",
-    compare_bigger: "2/4 este mai mare decât 1/4",
-    compare_explanation: "Mai multe părți colorate = fracție mai mare",
-    t1_title: "Părți egale ale unui întreg",
-    t1_inst: "Trage blocurile pentru a arăta părțile colorate.",
-    t1_h1: "Observă părțile colorate",
-    t1_h2: "Numără totalul de părți",
-    t1_text: "O fracție arată părți egale ale unui întreg. Dacă tăiem un cerc în 2 părți egale și colorăm 1, asta este 1/2. Numărul de jos (numitor) spune câte părți egale. Numărul de sus (numărător) spune câte sunt colorate.",
-    t1_b1: "Un întreg este împărțit în părți egale",
-    t1_b2: "Numitorul este totalul de părți",
-    t1_b3: "Numărătorul sunt părțile colorate",
-    t1_q: "Dacă un cerc este împărțit în 4 părți egale și 3 sunt colorate, care este fracția?",
-    t1_q_1_4: "1/4",
-    t1_q_2_4: "2/4",
-    t1_q_3_4: "3/4",
-    t1_q_4_4: "4/4",
-    t2_title: "Numiri fracții",
-    t2_inst: "Aranjează blocurile pentru a reprezenta fracția.",
-    t2_h1: "Uită-te la bara împărțită în părți",
-    t2_h2: "Numără părți colorate și total",
-    t2_text: "Diferite forme pot arăta fracții. O bară împărțită în 4 părți egale cu 2 colorate este 2/4. Un cerc împărțit în 8 părți egale cu 5 colorate este 5/8. Forma nu contează—fracția arată doar părți ale unui întreg.",
-    t2_b1: "Numără totalul de părți",
-    t2_b2: "Numără câte părți sunt colorate",
-    t2_b3: "Scrie numărător peste numitor",
-    t2_q: "Un dreptunghi este împărțit în 8 părți egale, și 6 sunt colorate. Care este fracția?",
-    t2_q_2_8: "2/8",
-    t2_q_4_8: "4/8",
-    t2_q_6_8: "6/8",
-    t2_q_7_8: "7/8",
-    t3_title: "Comparare fracții",
-    t3_inst: "Grupează blocurile pentru a compara fracții.",
-    t3_h1: "Compară părțile colorate",
-    t3_h2: "Folosește simbolurile > sau <",
-    t3_text: "Putem compara fracții privind câte părți sunt colorate. Dacă 2/4 este colorat și 1/4 este colorat, 2/4 este mai mare pentru că mai multe părți sunt colorate. Scriem: 2/4 > 1/4.",
-    t3_b1: "Mai multe părți colorate înseamnă fracție mai mare",
-    t3_b2: "Mai puține părți colorate înseamnă fracție mai mică",
-    t3_b3: "Compară numărătorii dacă numitorii sunt egal",
-    t3_q: "Care fracție este mai mare: 3/8 sau 5/8?",
-    t3_q_2_8: "2/8",
-    t3_q_3_8: "3/8",
-    t3_q_5_8: "5/8",
-    t3_q_6_8: "6/8",
+    explorer_title: "Explorator Fracții",
+    t1_title: "Părți dintr-un întreg",
+    t1_text: "O fracție ne spune în câte părți egale este împărțit un obiect. Numărul de sus este numărătorul, cel de jos este numitorul.",
+    t1_b1: "Numitorul arată totalul părților",
+    t1_b2: "Numărătorul arată părțile selectate",
+    t1_b3: "Toate părțile trebuie să fie identice",
+    t1_inst: "Combină 3 blocuri de 1/4 pentru a face 3/4!",
+    t1_h1: "Fiecare bloc reprezintă un sfert.",
+    t1_h2: "Ai nevoie de trei blocuri pentru 3/4.",
+    t1_q: "În fracția 3/8, care este numitorul?",
+    t1_q_a: "3",
+    t1_q_b: "8",
+    t1_q_c: "11",
+    t1_q_d: "5",
+    t2_title: "Citirea fracțiilor",
+    t2_text: "Când vezi 2/3, înseamnă că ai două părți din trei. Este mai mult de jumătate, dar mai puțin de un întreg!",
+    t2_b1: "2/2 sau 4/4 este egal cu un întreg",
+    t2_b2: "Un numitor mai mare înseamnă părți mai mici",
+    t2_b3: "Fracțiile descriu forme sau grupuri",
+    t2_inst: "Găsește 1/2 pe linia numerelor!",
+    t2_h1: "1/2 este exact la mijloc între 0 și 1.",
+    t2_h2: "Caută semnul care împarte linia în două.",
+    t2_q: "Care fracție reprezintă un întreg?",
+    t2_q_a: "1/2",
+    t2_q_b: "4/4",
+    t2_q_c: "3/4",
+    t2_q_d: "1/4",
+    t3_title: "Compararea fracțiilor",
+    t3_text: "Dacă numitorii sunt aceiași, fracția cu numărătorul mai mare este mai mare. 3/4 este mai mult decât 1/4!",
+    t3_b1: "Același numitor? Compară numărul de sus",
+    t3_b2: "Numărătorul 0 înseamnă nimic",
+    t3_b3: "Fracțiile se află între 0 și 1",
+    t3_inst: "Mută blocurile: 2/4 + 1/4 = 3/4!",
+    t3_h1: "Începe cu 2 blocuri și mai adaugă unul.",
+    t3_h2: "Totalul va fi de 3 blocuri de 1/4.",
+    t3_q: "Care fracție este cea mai mică?",
+    t3_q_a: "3/4",
+    t3_q_b: "1/4",
+    t3_q_c: "2/4",
+    t3_q_d: "4/4",
   },
 };
+
+// ─── TOPIC DEFINÍCIÓK ────────────────────────────────────────────────
 
 const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: (lang: string) => <CircleFractionSvg numerator={1} denominator={2} lang={lang} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
-      mode: "place-value",
-      groups: [1, 1],
-      answer: 1,
-      blockIcon: "🔴",
-      blockColor: "#FF6B9D",
+      mode: "combine",
+      groups: [1, 1, 1], // Engine handle fractional parts visually
+      answer: 3,
+      blockIcon: "🍕",
       instruction: "t1_inst",
       hint1: "t1_h1",
       hint2: "t1_h2",
     },
     quiz: {
       question: "t1_q",
-      choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"],
-      answer: "t1_q_3_4",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_b",
     },
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang: string) => <BarFractionSvg numerator={2} denominator={4} lang={lang} />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
-      type: "block-drag",
-      mode: "place-value",
-      groups: [2, 2],
-      answer: 2,
-      blockIcon: "🟦",
-      blockColor: "#4ECDC4",
+      type: "number-line",
+      min: 0,
+      max: 100, // Normalized for precision
+      start: 0,
+      target: 50,
+      step: 10,
+      showJumps: true,
+      jumpCount: 5,
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
     },
     quiz: {
       question: "t2_q",
-      choices: ["t2_q_2_8", "t2_q_4_8", "t2_q_6_8", "t2_q_7_8"],
-      answer: "t2_q_6_8",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_b",
     },
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
+    svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [1, 2, 1],
-      answer: 2,
-      blockIcon: "⭐",
-      blockColor: "#FFD700",
+      groups: [2, 1],
+      answer: 3,
+      blockIcon: "🍫",
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
     },
     quiz: {
       question: "t3_q",
-      choices: ["t3_q_2_8", "t3_q_3_8", "t3_q_5_8", "t3_q_6_8"],
-      answer: "t3_q_5_8",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_b",
     },
   },
 ];
 
-const EXPLORER_DEF: ExplorerDef = {
+// ─── EXPLORER DEFINÍCIÓ ──────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "🍕",
@@ -402,15 +330,18 @@ const EXPLORER_DEF: ExplorerDef = {
   rounds: [],
 };
 
-interface Props {
-  color?: string;
-  lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ──────────────────────────────────────────────────────────
 
-export default function FractionExplorer4({ color = "#FFD700", lang, onDone, onClose }: Props) {
-  return (
-    <ExplorerEngine def={EXPLORER_DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} grade={4} />
-  );
-}
+const FractionsExplorer4 = memo(function FractionsExplorer4({
+  color = "#FB923C",
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={4} explorerId="math_g4_fractions" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default FractionsExplorer4;
