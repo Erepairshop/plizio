@@ -250,6 +250,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "area_title",
+      infoText: "area_teach",
+      svg: () => <RectangleSvg />,
       questions: [
         {
           question: "shapes_q1",
@@ -270,6 +272,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "perim_title",
+      infoText: "perim_teach",
+      svg: () => <PerimeterSvg />,
       questions: [
         {
           question: "shapes_q2",
@@ -290,6 +294,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "shapes_title",
+      infoText: "shapes_teach",
+      svg: () => <ShapesSvg />,
       questions: [
         {
           question: "shapes_q1",

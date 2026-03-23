@@ -269,6 +269,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "add_story_title",
+      infoText: "add_story_teach",
+      svg: () => <AdditionStorySvg />,
       questions: [
         {
           question: "story_q1",
@@ -289,6 +291,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "sub_story_title",
+      infoText: "sub_story_teach",
+      svg: () => <SubtractionStorySvg />,
       questions: [
         {
           question: "story_q2",
@@ -309,6 +313,8 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       type: "mcq",
       infoTitle: "mul_story_title",
+      infoText: "mul_story_teach",
+      svg: () => <MultiplicationStorySvg />,
       questions: [
         {
           question: "story_q1",
