@@ -1,10 +1,11 @@
 "use client";
 // AngleExplorer4 — Angles & Symmetry for Grade 4 (island i8)
 // Uses ExplorerEngine with 3 topics: angle types, symmetry, angle measurement
+// Topic mode: interactive learning blocks + MCQ
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Angle types (right, acute, obtuse) ──────────────────────────────────
 
@@ -159,6 +160,9 @@ const LABELS: Record<string, Record<string, string>> = {
     sym_label: "Symmetry: both halves match!",
     // Topic 1: Angle types
     t1_title: "Three Types of Angles",
+    t1_inst: "Read about three angle types. Click 'Got it!' then answer the question.",
+    t1_h1: "💡 Angles are measured in degrees (°)",
+    t1_h2: "🎯 Identify angle types by their size",
     t1_text: "Angles are measured in degrees (°). A right angle is exactly 90° — like a corner of a square. An acute angle is less than 90° — sharp and pointy. An obtuse angle is more than 90° — wide and open.",
     t1_b1: "Right angle = 90°",
     t1_b2: "Acute angle < 90°",
@@ -170,6 +174,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_straight: "Straight angle",
     // Topic 2: Symmetry (mirror lines)
     t2_title: "Lines of Symmetry",
+    t2_inst: "Learn about mirror lines. Click 'Got it!' then answer the question.",
+    t2_h1: "🪞 A line of symmetry divides shapes into mirror halves",
+    t2_h2: "✨ Both halves must match perfectly",
     t2_text: "A line of symmetry divides a shape into two mirror halves. If you fold along the line, both halves match perfectly! A butterfly has vertical symmetry. A rectangle has 2 lines of symmetry. Understanding symmetry helps us recognize patterns.",
     t2_b1: "A line of symmetry mirrors the shape",
     t2_b2: "Both halves must be identical",
@@ -181,6 +188,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_4: "4 lines",
     // Topic 3: Measuring angles with protractor
     t3_title: "Measuring Angles",
+    t3_inst: "Discover how to use a protractor. Click 'Got it!' then answer the question.",
+    t3_h1: "📐 A protractor measures angles in degrees",
+    t3_h2: "🔍 Center point on corner, align base ray to 0°",
     t3_text: "A protractor is a tool to measure angles in degrees. Place the center of the protractor on the angle's corner. Line up one ray with 0°. Read where the other ray points. That's the angle measurement!",
     t3_b1: "Protractor center goes on the corner",
     t3_b2: "Align one ray with 0°",
@@ -214,6 +224,9 @@ const LABELS: Record<string, Record<string, string>> = {
     at_obtuse: "Stumpf",
     sym_label: "Symmetrie: beide Hälften passen!",
     t1_title: "Drei Winkeltypen",
+    t1_inst: "Lesen Sie über drei Winkeltypen. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
+    t1_h1: "💡 Winkel werden in Graden (°) gemessen",
+    t1_h2: "🎯 Erkenne Winkeltypen nach ihrer Größe",
     t1_text: "Winkel werden in Graden (°) gemessen. Ein rechter Winkel ist genau 90° — wie eine Ecke eines Quadrats. Ein spitzer Winkel ist kleiner als 90° — scharf und spitz. Ein stumpfer Winkel ist größer als 90° — breit und offen.",
     t1_b1: "Rechter Winkel = 90°",
     t1_b2: "Spitzer Winkel < 90°",
@@ -224,6 +237,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_obtuse: "Stumpfer Winkel",
     t1_q_straight: "Gestreckter Winkel",
     t2_title: "Symmetrieachsen",
+    t2_inst: "Erfahren Sie mehr über Spiegellinien. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
+    t2_h1: "🪞 Eine Symmetrieachse teilt Formen in Spiegelhälften",
+    t2_h2: "✨ Beide Hälften müssen perfekt übereinstimmen",
     t2_text: "Eine Symmetrieachse teilt eine Form in zwei gespiegelte Hälften. Wenn du entlang der Linie faltest, passen beide Hälften perfekt! Ein Schmetterling hat vertikale Symmetrie. Ein Rechteck hat 2 Symmetrieachsen. Das Verständnis von Symmetrie hilft uns, Muster zu erkennen.",
     t2_b1: "Eine Symmetrieachse spiegelt die Form",
     t2_b2: "Beide Hälften müssen identisch sein",
@@ -234,6 +250,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_2: "2 Linien",
     t2_q_4: "4 Linien",
     t3_title: "Winkel messen",
+    t3_inst: "Entdecken Sie, wie man einen Winkelmesser verwendet. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
+    t3_h1: "📐 Ein Winkelmesser misst Winkel in Graden",
+    t3_h2: "🔍 Mittelpunkt auf Ecke, Basisstrahl auf 0°",
     t3_text: "Ein Winkelmesser ist ein Werkzeug zum Messen von Winkeln in Grad. Platziere die Mitte des Winkelmessers auf der Ecke des Winkels. Richte einen Strahl mit 0° aus. Lies, wo der andere Strahl zeigt. Das ist die Winkelmessung!",
     t3_b1: "Winkelmesser-Mitte auf die Ecke",
     t3_b2: "Einen Strahl mit 0° ausrichten",
@@ -266,6 +285,9 @@ const LABELS: Record<string, Record<string, string>> = {
     at_obtuse: "Tompa",
     sym_label: "Szimmetria: mindkét fél egyezik!",
     t1_title: "Három szögtípus",
+    t1_inst: "Olvasd el a három szögtípusról. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
+    t1_h1: "💡 A szögeket fokban (°) mérjük",
+    t1_h2: "🎯 Ismerj fel szögtípusokat a méretük szerint",
     t1_text: "A szögeket fokban (°) mérjük. A derékszög pontosan 90° — mint egy négyzet sarka. Egy hegyesszög kevesebb mint 90° — éles és hegyes. Egy tompaszög több mint 90° — széles és nyitott.",
     t1_b1: "Derékszög = 90°",
     t1_b2: "Hegyesszög < 90°",
@@ -276,6 +298,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_obtuse: "Tompaszög",
     t1_q_straight: "Egyenesszög",
     t2_title: "Szimmetriavonalak",
+    t2_inst: "Tanuld meg a tükörvonalakat. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
+    t2_h1: "🪞 A szimmetriavonal az alakzatokat tükörlazákra osztja",
+    t2_h2: "✨ Mindkét félnek tökéletesen egyeznie kell",
     t2_text: "A szimmetriavonal egy alakzatot két tükrözött félre oszt. Ha a vonal mentén összehajtasz, mindkét fél tökéletesen illeszkedik! A lepkének függőleges szimmetriája van. Egy téglalap 2 szimmetriavonallal rendelkezik. A szimmetria megértése segít a minták felismerésében.",
     t2_b1: "A szimmetriavonal tükrözi az alakzatot",
     t2_b2: "Mindkét félnek azonosnak kell lennie",
@@ -286,6 +311,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_2: "2 vonal",
     t2_q_4: "4 vonal",
     t3_title: "Szögek mérése",
+    t3_inst: "Fedezd fel, hogyan kell szögmérőt használni. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
+    t3_h1: "📐 A szögmérő a szögeket fokokban méri",
+    t3_h2: "🔍 Középpont a sarokra, alap sugár 0°-ra",
     t3_text: "A szögmérő a szögek fokban történő mérésére szolgáló eszköz. Helyezd a szögmérő közepét a szög sarkára. Igazíts egy sugarat 0°-hoz. Olvasd, hol mutat a másik sugár. Ez a szög mérése!",
     t3_b1: "Szögmérő közepét a sarokra helyezd",
     t3_b2: "Egy sugarat 0°-hoz igazíts",
@@ -318,6 +346,9 @@ const LABELS: Record<string, Record<string, string>> = {
     at_obtuse: "Obtuz",
     sym_label: "Simetrie: ambele jumătăți se potrivesc!",
     t1_title: "Trei tipuri de unghiuri",
+    t1_inst: "Citește despre trei tipuri de unghiuri. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
+    t1_h1: "💡 Unghiurile se măsoară în grade (°)",
+    t1_h2: "🎯 Identifică tipurile de unghiuri după mărime",
     t1_text: "Unghiurile se măsoară în grade (°). Un unghi drept este exact 90° — ca un colț al unui pătrat. Un unghi acut este mai mic de 90° — ascuțit și țintă. Un unghi obtuz este mai mare de 90° — larg și deschis.",
     t1_b1: "Unghi drept = 90°",
     t1_b2: "Unghi acut < 90°",
@@ -328,6 +359,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_obtuse: "Unghi obtuz",
     t1_q_straight: "Unghi alungit",
     t2_title: "Linii de simetrie",
+    t2_inst: "Afișa despre linii de oglindă. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
+    t2_h1: "🪞 O linie de simetrie împarte formele în jumătăți în oglindă",
+    t2_h2: "✨ Ambele jumătăți trebuie să se potrivească perfect",
     t2_text: "O linie de simetrie împarte o formă în două jumătăți în oglindă. Dacă pliezi de-a lungul liniei, ambele jumătăți se potrivesc perfect! Un fluture are simetrie verticală. Un dreptunghi are 2 linii de simetrie. Înțelegerea simetriei ne ajută să recunoaștem modelele.",
     t2_b1: "O linie de simetrie oglindește forma",
     t2_b2: "Ambele jumătăți trebuie să fie identice",
@@ -338,6 +372,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_2: "2 linii",
     t2_q_4: "4 linii",
     t3_title: "Măsurarea unghiurilor",
+    t3_inst: "Descoperă cum să folosești un raportor. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
+    t3_h1: "📐 Un raportor măsoară unghiurile în grade",
+    t3_h2: "🔍 Punct central pe colț, rază de bază la 0°",
     t3_text: "Un raportor este un instrument pentru măsurarea unghiurilor în grade. Plasează centrul raportorului pe colțul unghiului. Aliniază o rază la 0°. Citește unde indică cealaltă rază. Aceasta este măsura unghiului!",
     t3_b1: "Centrul raportorului pe colț",
     t3_b2: "Aliniază o rază la 0°",
@@ -365,104 +402,107 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+// ─── TOPIC DEFINITIONS ──────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // ─ Topic 1: Angle types ─
+  {
+    id: "t1_angles",
+    title: "t1_title",
+    instruction: "t1_inst",
+    svg: (lang: string) => <AngleTypesSvg lang={lang} />,
+    hints: ["t1_h1", "t1_h2"],
+    description: "t1_text",
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactiveBlocks: [
+      {
+        type: "comparison",
+        title: "t1_title",
+        items: [
+          { label: "t1_q_right", value: "90°", color: "#EF4444" },
+          { label: "t1_q_acute", value: "<90°", color: "#10B981" },
+          { label: "t1_q_obtuse", value: ">90°", color: "#8B5CF6" },
+        ],
+      },
+      {
+        type: "info-block",
+        content: "t1_text",
+      },
+    ],
+    questions: [
+      {
+        question: "t1_q",
+        choices: ["t1_q_right", "t1_q_acute", "t1_q_obtuse", "t1_q_straight"],
+        answer: "t1_q_acute",
+      },
+    ],
+  },
+
+  // ─ Topic 2: Symmetry (lines of symmetry) ─
+  {
+    id: "t2_symmetry",
+    title: "t2_title",
+    instruction: "t2_inst",
+    svg: (lang: string) => <SymmetrySvg lang={lang} />,
+    hints: ["t2_h1", "t2_h2"],
+    description: "t2_text",
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactiveBlocks: [
+      {
+        type: "numbered-list",
+        items: ["t2_b1", "t2_b2", "t2_b3"],
+      },
+      {
+        type: "info-block",
+        content: "t2_text",
+      },
+    ],
+    questions: [
+      {
+        question: "t2_q",
+        choices: ["t2_q_0", "t2_q_1", "t2_q_2", "t2_q_4"],
+        answer: "t2_q_4",
+      },
+    ],
+  },
+
+  // ─ Topic 3: Measuring angles with protractor ─
+  {
+    id: "t3_protractor",
+    title: "t3_title",
+    instruction: "t3_inst",
+    svg: (lang: string) => <ProtractorSvg lang={lang} />,
+    hints: ["t3_h1", "t3_h2"],
+    description: "t3_text",
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactiveBlocks: [
+      {
+        type: "steps",
+        steps: ["t3_b1", "t3_b2", "t3_b3"],
+      },
+      {
+        type: "info-block",
+        content: "t3_text",
+      },
+    ],
+    questions: [
+      {
+        question: "t3_q",
+        choices: ["t3_q_15", "t3_q_45", "t3_q_75", "t3_q_105"],
+        answer: "t3_q_75",
+      },
+    ],
+  },
+];
+
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📐",
-  rounds: [
-    // ─ R1: Angle types ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_right", "t1_q_acute", "t1_q_obtuse", "t1_q_straight"],
-          answer: "t1_q_acute",
-        },
-      ],
-    },
-
-    // ─ R2: Symmetry (lines of symmetry) ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <SymmetrySvg lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <SymmetrySvg lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_0", "t2_q_1", "t2_q_2", "t2_q_4"],
-          answer: "t2_q_4",
-        },
-      ],
-    },
-
-    // ─ R3: Measuring angles with protractor ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <ProtractorSvg lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <ProtractorSvg lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_15", "t3_q_45", "t3_q_75", "t3_q_105"],
-          answer: "t3_q_75",
-        },
-      ],
-    },
-
-    // ─ R5: Review (3 questions) ─
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <AngleTypesSvg lang={lang} />,
-      questions: [
-        {
-          question: "r5_q1",
-          choices: ["r5_q1_a", "r5_q1_b", "r5_q1_c", "r5_q1_d"],
-          answer: "r5_q1_c",
-        },
-        {
-          question: "r5_q2",
-          choices: ["r5_q2_a", "r5_q2_b", "r5_q2_c", "r5_q2_d"],
-          answer: "r5_q2_d",
-        },
-        {
-          question: "r5_q3",
-          choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
-          answer: "r5_q3_c",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

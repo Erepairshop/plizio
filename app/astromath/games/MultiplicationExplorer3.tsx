@@ -1,10 +1,10 @@
 "use client";
 // MultiplicationExplorer3 — Multiplication Island (Repeated Addition, Groups, Times Tables)
-// Uses new topic-based ExplorerEngine mode
+// Uses new topic-based ExplorerEngine mode with interactive block-drag
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Repeated addition (same groups) ────────────────────────────────────
 
@@ -151,7 +151,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Same groups added together",
     t1_b2: "4 × 3 means four groups of 3",
     t1_b3: "Same as 3 + 3 + 3 + 3",
-    t1_inst: "Build 3 groups of 4!",
+    t1_inst: "Combine 3 and 4 to make 3 × 4",
     t1_h1: "You need 3 groups, each with 4 items",
     t1_h2: "Total = 4 + 4 + 4 = 12",
     t1_q: "3 × 2 means how many total?",
@@ -165,7 +165,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Rows go across",
     t2_b2: "Columns go down",
     t2_b3: "Row count × column count = total",
-    t2_inst: "How many dots in a 4 × 3 array?",
+    t2_inst: "Combine 4 and 3 to make 4 × 3",
     t2_h1: "4 rows, 3 dots per row",
     t2_h2: "Total = 4 × 3 = 12",
     t2_q: "A 2 × 6 array has how many dots?",
@@ -181,7 +181,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Start at 0",
     t3_b2: "Jump by the second number",
     t3_b3: "Count the jumps",
-    t3_inst: "What is 5 × 2? Skip count by 2s!",
+    t3_inst: "Combine 5 and 2 to make 5 × 2",
     t3_h1: "Jump by 2 five times: 2, 4, 6, 8, 10",
     t3_h2: "You land at 10",
     t3_q: "4 × 3 = ? (skip count by 3s)",
@@ -197,7 +197,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Gleiche Gruppen addiert",
     t1_b2: "4 × 3 bedeutet vier Gruppen von 3",
     t1_b3: "Gleich wie 3 + 3 + 3 + 3",
-    t1_inst: "Baue 3 Gruppen von 4!",
+    t1_inst: "Kombiniere 3 und 4 um 3 × 4 zu machen",
     t1_h1: "Du brauchst 3 Gruppen, jede mit 4 Gegenständen",
     t1_h2: "Insgesamt = 4 + 4 + 4 = 12",
     t1_q: "3 × 2 bedeutet wie viele insgesamt?",
@@ -210,7 +210,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Zeilen gehen quer",
     t2_b2: "Spalten gehen runter",
     t2_b3: "Zeilenzahl × Spaltenzahl = insgesamt",
-    t2_inst: "Wie viele Punkte in einem 4 × 3 Feld?",
+    t2_inst: "Kombiniere 4 und 3 um 4 × 3 zu machen",
     t2_h1: "4 Zeilen, 3 Punkte pro Zeile",
     t2_h2: "Insgesamt = 4 × 3 = 12",
     t2_q: "Ein 2 × 6 Feld hat wie viele Punkte?",
@@ -225,7 +225,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Starte bei 0",
     t3_b2: "Springe um die zweite Zahl",
     t3_b3: "Zähle die Sprünge",
-    t3_inst: "Was ist 5 × 2? Zähle in 2er-Schritten!",
+    t3_inst: "Kombiniere 5 und 2 um 5 × 2 zu machen",
     t3_h1: "Springe 2er fünfmal: 2, 4, 6, 8, 10",
     t3_h2: "Du landest bei 10",
     t3_q: "4 × 3 = ? (zähle in 3er-Schritten)",
@@ -241,7 +241,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Azonos csoportok összeadva",
     t1_b2: "4 × 3 jelentése: négy csoport 3-ból",
     t1_b3: "Ugyanaz, mint 3 + 3 + 3 + 3",
-    t1_inst: "Építsd meg a 3 csoport 4-ből!",
+    t1_inst: "Összekapcsolódj 3-mal és 4-gyel, hogy 3 × 4 legyen",
     t1_h1: "3 csoportra van szükséged, mindegyikben 4 tárgy",
     t1_h2: "Összesen = 4 + 4 + 4 = 12",
     t1_q: "3 × 2 hány összesen?",
@@ -254,7 +254,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Sorok jobbra mennek",
     t2_b2: "Oszlopok lefelé mennek",
     t2_b3: "Sororszám × oszloposzám = összesen",
-    t2_inst: "Hány pont van egy 4 × 3-as táblában?",
+    t2_inst: "Összekapcsolódj 4-gyel és 3-mal, hogy 4 × 3 legyen",
     t2_h1: "4 sor, 3 pont soronként",
     t2_h2: "Összesen = 4 × 3 = 12",
     t2_q: "Egy 2 × 6-os tábla hány pontot tartalmaz?",
@@ -269,7 +269,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Indulj a 0-tól",
     t3_b2: "Ugorj a második számmal",
     t3_b3: "Számold meg az ugrásokat",
-    t3_inst: "Mi az 5 × 2? Számolj 2-esével!",
+    t3_inst: "Összekapcsolódj 5-tel és 2-vel, hogy 5 × 2 legyen",
     t3_h1: "Ugorj 2-esen ötször: 2, 4, 6, 8, 10",
     t3_h2: "10-nél érsz",
     t3_q: "4 × 3 = ? (számolj 3-asával)",
@@ -285,7 +285,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Aceleași grupuri adunate",
     t1_b2: "4 × 3 înseamnă patru grupuri de 3",
     t1_b3: "La fel ca 3 + 3 + 3 + 3",
-    t1_inst: "Construiește 3 grupuri de 4!",
+    t1_inst: "Combină 3 și 4 pentru a face 3 × 4",
     t1_h1: "Ai nevoie de 3 grupuri, fiecare cu 4 obiecte",
     t1_h2: "Total = 4 + 4 + 4 = 12",
     t1_q: "3 × 2 înseamnă câte total?",
@@ -298,7 +298,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Rândurile merg orizontal",
     t2_b2: "Coloanele merg vertical",
     t2_b3: "Rânduri × coloane = total",
-    t2_inst: "Câte puncte într-un tablou 4 × 3?",
+    t2_inst: "Combină 4 și 3 pentru a face 4 × 3",
     t2_h1: "4 rânduri, 3 puncte pe rând",
     t2_h2: "Total = 4 × 3 = 12",
     t2_q: "Un tablou 2 × 6 are câte puncte?",
@@ -313,7 +313,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Început la 0",
     t3_b2: "Salt după al doilea număr",
     t3_b3: "Numără salturile",
-    t3_inst: "Ce este 5 × 2? Numără din 2 în 2!",
+    t3_inst: "Combină 5 și 2 pentru a face 5 × 2",
     t3_h1: "Sari din 2 în 2 de cinci ori: 2, 4, 6, 8, 10",
     t3_h2: "Aterizezi la 10",
     t3_q: "4 × 3 = ? (numără din 3 în 3)",
@@ -326,87 +326,83 @@ const LABELS: Record<string, Record<string, string>> = {
 
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
+const TOPICS: TopicDef[] = [
+  // Topic 1: Repeated addition
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [3, 4],
+      answer: 12,
+      blockIcon: "🔢",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
+      answer: "t1_q_6",
+    },
+  },
+
+  // Topic 2: Groups and arrays
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <GroupsSvg rows={3} cols={5} lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [4, 3],
+      answer: 12,
+      blockIcon: "🔢",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
+      answer: "t2_q_12",
+    },
+  },
+
+  // Topic 3: Skip counting
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <SkipCountingSvg step={3} count={4} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [5, 2],
+      answer: 10,
+      blockIcon: "🔢",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_7", "t3_q_12", "t3_q_15", "t3_q_16"],
+      answer: "t3_q_12",
+    },
+  },
+];
+
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "✖️",
-  rounds: [
-    // ─ R1: Repeated addition ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <RepeatedAdditionSvg groups={4} each={3} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
-          answer: "t1_q_6",
-        },
-      ],
-    },
-
-    // ─ R2: Groups/array ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <GroupsSvg rows={3} cols={5} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <GroupsSvg rows={3} cols={5} lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
-          answer: "t2_q_12",
-        },
-      ],
-    },
-
-    // ─ R3: Skip counting ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <SkipCountingSvg step={3} count={4} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <SkipCountingSvg step={3} count={4} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_7", "t3_q_12", "t3_q_15", "t3_q_16"],
-          answer: "t3_q_12",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_3", "t1_q_5", "t1_q_6", "t1_q_9"],
-          answer: "t1_q_6",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_8", "t2_q_10", "t2_q_12", "t2_q_16"],
-          answer: "t2_q_12",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

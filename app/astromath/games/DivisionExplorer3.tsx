@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Sharing (fair distribution) ────────────────────────────────────────
 
@@ -143,9 +143,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Start with total items",
     t1_b2: "Share into equal groups",
     t1_b3: "Each gets the same amount",
-    t1_inst: "Share 12 items among 3 friends!",
-    t1_h1: "12 items, 3 friends",
-    t1_h2: "Each friend gets 4 items",
+    t1_inst: "Combine blocks: 12 ÷ 3 = ?",
+    t1_h1: "First block is 12, second is 3",
+    t1_h2: "Drag third block to show the answer",
     t1_q: "If 15 apples are shared by 5 children, how many each?",
     t1_q_3: "3",
     t1_q_4: "4",
@@ -157,9 +157,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Start with total items",
     t2_b2: "Make groups of the same size",
     t2_b3: "Count how many groups",
-    t2_inst: "How many groups of 4 in 16?",
-    t2_h1: "16 items, make groups of 4",
-    t2_h2: "You can make 4 groups",
+    t2_inst: "Combine blocks: 16 ÷ 2 = ?",
+    t2_h1: "First block is 16, second is 2",
+    t2_h2: "Drag third block to show the answer",
     t2_q: "16 ÷ 2 = how many groups of 2?",
     t2_q_6: "6",
     t2_q_8: "8",
@@ -171,9 +171,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Multiplication: 3 × 4 = 12",
     t3_b2: "Division: 12 ÷ 4 = 3",
     t3_b3: "They're connected!",
-    t3_inst: "If 5 × 6 = 30, what is 30 ÷ 6?",
-    t3_h1: "Use multiplication to check division",
-    t3_h2: "If 5 × 6 = 30, then 30 ÷ 6 = 5",
+    t3_inst: "Combine blocks: 24 ÷ 6 = ?",
+    t3_h1: "First block is 24, second is 6",
+    t3_h2: "Drag third block to show the answer",
     t3_q: "If 4 × 8 = 32, what is 32 ÷ 4?",
     t3_q_4: "4",
     t3_q_8: "8",
@@ -189,9 +189,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Beginne mit Gesamtgegenständen",
     t1_b2: "Teile in gleiche Gruppen",
     t1_b3: "Jeder bekommt gleich viel",
-    t1_inst: "Teile 12 Gegenstände unter 3 Freunden!",
-    t1_h1: "12 Gegenstände, 3 Freunde",
-    t1_h2: "Jeder Freund bekommt 4 Gegenstände",
+    t1_inst: "Kombiniere Blöcke: 12 ÷ 3 = ?",
+    t1_h1: "Erster Block ist 12, zweiter ist 3",
+    t1_h2: "Ziehe dritten Block für die Antwort",
     t1_q: "Wenn 15 Äpfel auf 5 Kinder verteilt werden, wie viele jedes?",
     t1_q_3: "3",
     t1_q_4: "4",
@@ -202,9 +202,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Beginne mit Gesamtgegenständen",
     t2_b2: "Mache Gruppen gleicher Größe",
     t2_b3: "Zähle, wie viele Gruppen",
-    t2_inst: "Wie viele Gruppen von 4 in 16?",
-    t2_h1: "16 Gegenstände, mache Gruppen von 4",
-    t2_h2: "Du kannst 4 Gruppen machen",
+    t2_inst: "Kombiniere Blöcke: 16 ÷ 2 = ?",
+    t2_h1: "Erster Block ist 16, zweiter ist 2",
+    t2_h2: "Ziehe dritten Block für die Antwort",
     t2_q: "16 ÷ 2 = wie viele Gruppen von 2?",
     t2_q_6: "6",
     t2_q_8: "8",
@@ -215,9 +215,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Multiplikation: 3 × 4 = 12",
     t3_b2: "Division: 12 ÷ 4 = 3",
     t3_b3: "Sie sind verbunden!",
-    t3_inst: "Wenn 5 × 6 = 30, was ist 30 ÷ 6?",
-    t3_h1: "Benutze Multiplikation, um Division zu überprüfen",
-    t3_h2: "Wenn 5 × 6 = 30, dann 30 ÷ 6 = 5",
+    t3_inst: "Kombiniere Blöcke: 24 ÷ 6 = ?",
+    t3_h1: "Erster Block ist 24, zweiter ist 6",
+    t3_h2: "Ziehe dritten Block für die Antwort",
     t3_q: "Wenn 4 × 8 = 32, was ist 32 ÷ 4?",
     t3_q_4: "4",
     t3_q_8: "8",
@@ -233,9 +233,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Kezd az összes tárggyal",
     t1_b2: "Oszd fel egyenlő csoportokra",
     t1_b3: "Mindenki ugyanannyit kap",
-    t1_inst: "Oszd meg a 12 tárgyat 3 barát között!",
-    t1_h1: "12 tárgy, 3 barát",
-    t1_h2: "Minden barát 4 tárgyat kap",
+    t1_inst: "Kombináld a blokkokat: 12 ÷ 3 = ?",
+    t1_h1: "Első blokk 12, második 3",
+    t1_h2: "Húzd a harmadik blokkot a válaszhoz",
     t1_q: "Ha 15 almát 5 gyerek között osztod, mekkora egy-egy?",
     t1_q_3: "3",
     t1_q_4: "4",
@@ -246,9 +246,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Kezd az összes tárggyal",
     t2_b2: "Készíts egyenlő méretű csoportokat",
     t2_b3: "Számold meg, hány csoport van",
-    t2_inst: "Hány 4-es csoport van 16-ban?",
-    t2_h1: "16 tárgy, készíts 4-es csoportokat",
-    t2_h2: "4 csoportot tudsz készíteni",
+    t2_inst: "Kombináld a blokkokat: 16 ÷ 2 = ?",
+    t2_h1: "Első blokk 16, második 2",
+    t2_h2: "Húzd a harmadik blokkot a válaszhoz",
     t2_q: "16 ÷ 2 = hány 2-es csoport?",
     t2_q_6: "6",
     t2_q_8: "8",
@@ -259,9 +259,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Szorzás: 3 × 4 = 12",
     t3_b2: "Osztás: 12 ÷ 4 = 3",
     t3_b3: "Összekapcsolódnak!",
-    t3_inst: "Ha 5 × 6 = 30, mi az 30 ÷ 6?",
-    t3_h1: "Használd a szorzást az osztás ellenőrzésére",
-    t3_h2: "Ha 5 × 6 = 30, akkor 30 ÷ 6 = 5",
+    t3_inst: "Kombináld a blokkokat: 24 ÷ 6 = ?",
+    t3_h1: "Első blokk 24, második 6",
+    t3_h2: "Húzd a harmadik blokkot a válaszhoz",
     t3_q: "Ha 4 × 8 = 32, mi az 32 ÷ 4?",
     t3_q_4: "4",
     t3_q_8: "8",
@@ -277,9 +277,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Începe cu obiecte totale",
     t1_b2: "Distribuie în grupuri egale",
     t1_b3: "Fiecare primește la fel",
-    t1_inst: "Distribuie 12 obiecte între 3 prieteni!",
-    t1_h1: "12 obiecte, 3 prieteni",
-    t1_h2: "Fiecare prieten primește 4 obiecte",
+    t1_inst: "Combină blocurile: 12 ÷ 3 = ?",
+    t1_h1: "Primul bloc este 12, al doilea este 3",
+    t1_h2: "Trage al treilea bloc pentru răspuns",
     t1_q: "Dacă 15 mere sunt distribuite între 5 copii, câte fiecare?",
     t1_q_3: "3",
     t1_q_4: "4",
@@ -290,9 +290,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Începe cu obiecte totale",
     t2_b2: "Formează grupuri de aceeași dimensiune",
     t2_b3: "Numără câte grupuri",
-    t2_inst: "Câte grupuri de 4 în 16?",
-    t2_h1: "16 obiecte, formează grupuri de 4",
-    t2_h2: "Poți forma 4 grupuri",
+    t2_inst: "Combină blocurile: 16 ÷ 2 = ?",
+    t2_h1: "Primul bloc este 16, al doilea este 2",
+    t2_h2: "Trage al treilea bloc pentru răspuns",
     t2_q: "16 ÷ 2 = câte grupuri de 2?",
     t2_q_6: "6",
     t2_q_8: "8",
@@ -303,9 +303,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Înmulțire: 3 × 4 = 12",
     t3_b2: "Împărțire: 12 ÷ 4 = 3",
     t3_b3: "Sunt conectate!",
-    t3_inst: "Dacă 5 × 6 = 30, ce este 30 ÷ 6?",
-    t3_h1: "Folosește înmulțirea pentru a verifica împărțirea",
-    t3_h2: "Dacă 5 × 6 = 30, atunci 30 ÷ 6 = 5",
+    t3_inst: "Combină blocurile: 24 ÷ 6 = ?",
+    t3_h1: "Primul bloc este 24, al doilea este 6",
+    t3_h2: "Trage al treilea bloc pentru răspuns",
     t3_q: "Dacă 4 × 8 = 32, ce este 32 ÷ 4?",
     t3_q_4: "4",
     t3_q_8: "8",
@@ -314,89 +314,85 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+// ─── TOPIC DEFINITIONS ─────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // Topic 1: Sharing Equally
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <SharingSvg total={12} groups={3} lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [12, 3],
+      answer: 4,
+      blockIcon: "🔢",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_15"],
+      answer: "t1_q_3",
+    },
+  },
+  // Topic 2: Making Equal Groups
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <GroupingSvg total={16} groupSize={4} lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [16, 2],
+      answer: 8,
+      blockIcon: "🔢",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_6", "t2_q_8", "t2_q_14", "t2_q_18"],
+      answer: "t2_q_8",
+    },
+  },
+  // Topic 3: Inverse of Multiplication
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <InverseSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [24, 6],
+      answer: 4,
+      blockIcon: "🔢",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_2", "t3_q_4", "t3_q_8", "t3_q_32"],
+      answer: "t3_q_8",
+    },
+  },
+];
+
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "➗",
-  rounds: [
-    // ─ R1: Sharing ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <SharingSvg total={12} groups={3} lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <SharingSvg total={12} groups={3} lang={lang} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_15"],
-          answer: "t1_q_3",
-        },
-      ],
-    },
-
-    // ─ R2: Grouping ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <GroupingSvg total={16} groupSize={4} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <GroupingSvg total={16} groupSize={4} lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_6", "t2_q_8", "t2_q_14", "t2_q_18"],
-          answer: "t2_q_8",
-        },
-      ],
-    },
-
-    // ─ R3: Inverse of multiplication ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <InverseSvg lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <InverseSvg lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_2", "t3_q_4", "t3_q_8", "t3_q_32"],
-          answer: "t3_q_8",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_3", "t1_q_4", "t1_q_5", "t1_q_15"],
-          answer: "t1_q_3",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_6", "t2_q_8", "t2_q_14", "t2_q_18"],
-          answer: "t2_q_8",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

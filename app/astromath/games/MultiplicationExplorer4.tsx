@@ -1,7 +1,7 @@
 "use client";
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const ArrayModelSvg = memo(function ArrayModelSvg({ rows = 4, cols = 6 }: { rows?: number; cols?: number }) {
   return (
@@ -118,6 +118,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Each row has the same number of objects",
     t1_b2: "Multiply rows by columns to find the total",
     t1_b3: "Arrays help us visualize multiplication",
+    t1_inst: "Build an array by dragging blocks. Drag rows × columns blocks to create a multiplication array.",
+    t1_h1: "How many rows?",
+    t1_h2: "How many columns?",
     t1_q: "How many objects are in a 5 × 8 array?",
     t1_q_40: "40",
     t1_q_45: "45",
@@ -128,6 +131,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Skip counting helps build times tables",
     t2_b2: "Count by the first number as many times as the second",
     t2_b3: "The last number you reach is your answer",
+    t2_inst: "Build a skip counting sequence by dragging the groups and count.",
+    t2_h1: "How many groups?",
+    t2_h2: "Skip count by what number?",
     t2_q: "What is 8 × 6 using skip counting?",
     t2_q_42: "42",
     t2_q_48: "48",
@@ -138,6 +144,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Each jump is the same size",
     t3_b2: "Count the number of jumps and size of each jump",
     t3_b3: "Where you land is the answer",
+    t3_inst: "Build number line jumps by dragging. Create jumps of equal size to see multiplication.",
+    t3_h1: "How many jumps?",
+    t3_h2: "What is the jump size?",
     t3_q: "How many jumps of 7 reach 56?",
     t3_q_7: "7",
     t3_q_8: "8",
@@ -154,6 +163,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Jede Reihe hat dieselbe Anzahl von Objekten",
     t1_b2: "Multipliziere Reihen mit Spalten, um das Total zu finden",
     t1_b3: "Arrays helfen uns, Multiplikation zu verstehen",
+    t1_inst: "Baue ein Array, indem du Blöcke ziehst. Ziehe Reihen × Spalten Blöcke, um ein Multiplikations-Array zu erstellen.",
+    t1_h1: "Wie viele Reihen?",
+    t1_h2: "Wie viele Spalten?",
     t1_q: "Wie viele Objekte sind in einem 5 × 8 Array?",
     t1_q_40: "40",
     t1_q_45: "45",
@@ -164,6 +176,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Zählsprünge helfen Einmaleins zu lernen",
     t2_b2: "Zähle die erste Zahl so oft wie die zweite",
     t2_b3: "Die letzte Zahl ist die Antwort",
+    t2_inst: "Baue eine Zählsprung-Sequenz durch Ziehen. Erstelle eine Reihe von gleichen Schritten.",
+    t2_h1: "Wie viele Gruppen?",
+    t2_h2: "Zähle um welche Zahl?",
     t2_q: "Was ist 8 × 6 mit Zählsprüngen?",
     t2_q_42: "42",
     t2_q_48: "48",
@@ -174,6 +189,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Jeder Sprung ist gleich groß",
     t3_b2: "Zähle Anzahl und Größe der Sprünge",
     t3_b3: "Wo du landest, ist die Antwort",
+    t3_inst: "Baue Zahlenstrahl-Sprünge durch Ziehen. Erstelle gleiche Sprünge auf der Linie.",
+    t3_h1: "Wie viele Sprünge?",
+    t3_h2: "Wie groß ist jeder Sprung?",
     t3_q: "Wie viele Sprünge um 7 erreichen 56?",
     t3_q_7: "7",
     t3_q_8: "8",
@@ -190,6 +208,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Minden sornak ugyanannyi tárgya van",
     t1_b2: "Szorozd a sorokat az oszlopokkal",
     t1_b3: "A tömbök segítenek megérteni a szorzást",
+    t1_inst: "Építs egy tömböt blokkok húzásával. Húzd a sorok × oszlopok blokkokat, hogy szorzás tömböt hozz létre.",
+    t1_h1: "Hány sor?",
+    t1_h2: "Hány oszlop?",
     t1_q: "Hány tárgy van egy 5 × 8 tömbben?",
     t1_q_40: "40",
     t1_q_45: "45",
@@ -200,6 +221,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "A számszámolás segít megtanulni a szorzótáblát",
     t2_b2: "Számolj az első számmal annyiszor, mint a második",
     t2_b3: "Az utolsó szám a válasz",
+    t2_inst: "Építs egy számszámlálási sorozatot a csoportok húzásával.",
+    t2_h1: "Hány csoport?",
+    t2_h2: "Milyen számmal számolj?",
     t2_q: "Mi az 8 × 6 számszámolással?",
     t2_q_42: "42",
     t2_q_48: "48",
@@ -210,6 +234,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Minden ugras ugyanakora",
     t3_b2: "Számláld meg az ugrások számát és méretét",
     t3_b3: "Ahol landolsz, az a válasz",
+    t3_inst: "Építs számegyenes ugrásokat húzással. Hozz létre egyenlő méretű ugrásokat a soron.",
+    t3_h1: "Hány ugrás?",
+    t3_h2: "Mekkora az ugrás mérete?",
     t3_q: "Hány ugrás a 7-essel eléri az 56-ot?",
     t3_q_7: "7",
     t3_q_8: "8",
@@ -226,6 +253,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Fiecare rând are același număr de obiecte",
     t1_b2: "Înmulțește rândurile cu coloanele",
     t1_b3: "Tablourile ajută să vizualizezi înmulțirea",
+    t1_inst: "Construiește un tablou trăgând blocuri. Trage blocurile de rânduri × coloane pentru a crea o tablă de înmulțire.",
+    t1_h1: "Câte rânduri?",
+    t1_h2: "Câte coloane?",
     t1_q: "Câte obiecte sunt într-un tablou 5 × 8?",
     t1_q_40: "40",
     t1_q_45: "45",
@@ -236,6 +266,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Numărarea cu salturi te ajută să înveți tabla",
     t2_b2: "Numără cu primul număr de cât ori al doilea",
     t2_b3: "Ultimul număr este răspunsul",
+    t2_inst: "Construiește o secvență de numărare cu salturi. Trage grupuri pentru a crea pași egali.",
+    t2_h1: "Câte grupuri?",
+    t2_h2: "Numără cu ce număr?",
     t2_q: "Care este 8 × 6 cu numărare cu salturi?",
     t2_q_42: "42",
     t2_q_48: "48",
@@ -246,6 +279,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Fiecare salt este de același mărime",
     t3_b2: "Numără numărul și mărimea săriturii",
     t3_b3: "Unde ajungi este răspunsul",
+    t3_inst: "Construiește sărituri pe linia numerelor. Trage pentru a crea salturi egale.",
+    t3_h1: "Câte salturi?",
+    t3_h2: "Care este dimensiunea săriturii?",
     t3_q: "Câte salturi de 7 ajung la 56?",
     t3_q_7: "7",
     t3_q_8: "8",
@@ -254,58 +290,67 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const EXPLORER_DEF: ExplorerDef = {
-  labels: LABELS,
-  title: "explorer_title",
-  icon: "✖️",
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <ArrayModelSvg rows={4} cols={6} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+const TOPICS: TopicDef[] = [
+  {
+    title: "t1_title",
+    description: "t1_text",
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    svg: (lang) => <ArrayModelSvg rows={4} cols={6} />,
+    interactiveBlock: {
+      type: "block-drag",
+      mode: "combine",
+      instructionKey: "t1_inst",
+      hints: [
+        { label: "t1_h1", hint: "First, drag to select the number of rows." },
+        { label: "t1_h2", hint: "Then, drag to select the number of columns." },
+      ],
     },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <ArrayModelSvg rows={5} cols={8} />,
-      questions: [{ question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" }],
+  },
+  {
+    title: "t2_title",
+    description: "t2_text",
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    svg: (lang) => <SkipCountingSvg start={6} count={7} lang={lang} />,
+    interactiveBlock: {
+      type: "block-drag",
+      mode: "combine",
+      instructionKey: "t2_inst",
+      hints: [
+        { label: "t2_h1", hint: "First, drag to select how many groups." },
+        { label: "t2_h2", hint: "Then, drag to select the skip count number." },
+      ],
     },
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <SkipCountingSvg start={6} count={7} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+  },
+  {
+    title: "t3_title",
+    description: "t3_text",
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    svg: (lang) => <NumberLineJumpsSvg groups={9} size={5} lang={lang} />,
+    interactiveBlock: {
+      type: "block-drag",
+      mode: "combine",
+      instructionKey: "t3_inst",
+      hints: [
+        { label: "t3_h1", hint: "First, drag to select how many jumps." },
+        { label: "t3_h2", hint: "Then, drag to select the jump size." },
+      ],
     },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <SkipCountingSvg start={8} count={6} lang={lang} />,
-      questions: [{ question: "t2_q", choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"], answer: "t2_q_48" }],
-    },
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <NumberLineJumpsSvg groups={9} size={5} lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <NumberLineJumpsSvg groups={8} size={7} lang={lang} />,
+    mcq: {
       questions: [
         { question: "t3_q", choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"], answer: "t3_q_8" },
         { question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" },
         { question: "t2_q", choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"], answer: "t2_q_48" },
       ],
     },
-  ],
+  },
+];
+
+const EXPLORER_DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "✖️",
+  topics: TOPICS,
+  rounds: [],
 };
 
 interface Props {

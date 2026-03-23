@@ -1,7 +1,7 @@
 "use client";
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denominator = 2, lang = "en" }: { numerator?: number; denominator?: number; lang?: string }) {
   const t = LABELS[lang] || LABELS.en;
@@ -116,6 +116,28 @@ const CompareFractionsSvg = memo(function CompareFractionsSvg({ lang = "en" }: {
   );
 });
 
+const BlockDragComponent = memo(function BlockDragComponent({ color = "#FF6B9D" }: { color?: string }) {
+  return (
+    <div className="flex flex-col gap-4 p-6 bg-white/5 rounded-2xl">
+      <div className="flex gap-2 justify-center">
+        {Array.from({ length: 4 }, (_, i) => (
+          <div
+            key={i}
+            className="w-10 h-10 rounded border-2 cursor-move transition-all"
+            style={{
+              borderColor: i < 3 ? color : "rgba(255,255,255,0.2)",
+              backgroundColor: i < 3 ? `${color}40` : "rgba(255,255,255,0.05)",
+            }}
+          />
+        ))}
+      </div>
+      <p className="text-center text-xs text-white/60 font-medium">
+        Drag to place fractions
+      </p>
+    </div>
+  );
+});
+
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Fraction Explorer",
@@ -124,6 +146,9 @@ const LABELS: Record<string, Record<string, string>> = {
     compare_bigger: "2/4 is bigger than 1/4",
     compare_explanation: "More shaded parts = larger fraction",
     t1_title: "Equal Parts of a Whole",
+    t1_inst: "Drag the blocks to show the shaded parts.",
+    t1_h1: "Observe the shaded parts",
+    t1_h2: "Count the total parts",
     t1_text: "A fraction shows equal parts of a whole. If we cut a circle into 2 equal parts and color 1, that is 1/2. The bottom number (denominator) tells how many equal parts. The top number (numerator) tells how many colored.",
     t1_b1: "A whole is divided into equal parts",
     t1_b2: "The denominator is the total parts",
@@ -134,6 +159,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_3_4: "3/4",
     t1_q_4_4: "4/4",
     t2_title: "Naming Fractions",
+    t2_inst: "Arrange the blocks to represent the fraction.",
+    t2_h1: "Look at the bar divided into parts",
+    t2_h2: "Count shaded and total parts",
     t2_text: "Different shapes can show fractions. A bar divided into 4 equal parts with 2 shaded is 2/4. A circle divided into 8 equal parts with 5 shaded is 5/8. The shape doesn't matter—the fraction just shows parts of a whole.",
     t2_b1: "Count the total number of parts",
     t2_b2: "Count how many parts are shaded",
@@ -144,6 +172,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_6_8: "6/8",
     t2_q_7_8: "7/8",
     t3_title: "Comparing Fractions",
+    t3_inst: "Group the blocks to compare fractions.",
+    t3_h1: "Compare the shaded parts",
+    t3_h2: "Use the symbols > or <",
     t3_text: "We can compare fractions by looking at how many parts are shaded. If 2/4 is shaded and 1/4 is shaded, 2/4 is bigger because more parts are shaded. We write: 2/4 > 1/4.",
     t3_b1: "More shaded parts means a larger fraction",
     t3_b2: "Fewer shaded parts means a smaller fraction",
@@ -161,6 +192,9 @@ const LABELS: Record<string, Record<string, string>> = {
     compare_bigger: "2/4 ist größer als 1/4",
     compare_explanation: "Mehr gefärbte Teile = größerer Bruch",
     t1_title: "Gleiche Teile eines Ganzen",
+    t1_inst: "Lerne, wie Brüche Teile eines Ganzen zeigen.",
+    t1_h1: "Beobachte die gefärbten Teile",
+    t1_h2: "Zähle die Gesamtzahl der Teile",
     t1_text: "Ein Bruch zeigt gleiche Teile eines Ganzen. Wenn wir einen Kreis in 2 gleiche Teile teilen und 1 färben, ist das 1/2. Die untere Zahl (Nenner) zeigt, wie viele Teile. Die obere Zahl (Zähler) zeigt, wie viele gefärbt sind.",
     t1_b1: "Ein Ganzes wird in gleiche Teile geteilt",
     t1_b2: "Der Nenner ist die Gesamtzahl der Teile",
@@ -171,6 +205,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_3_4: "3/4",
     t1_q_4_4: "4/4",
     t2_title: "Brüche benennen",
+    t2_inst: "Lerne, wie man Brüche von verschiedenen Formen liest und benennt.",
+    t2_h1: "Schau auf den in Teile geteilten Balken",
+    t2_h2: "Zähle gefärbte und Gesamtteile",
     t2_text: "Verschiedene Formen können Brüche zeigen. Ein Balken, geteilt in 4 gleiche Teile mit 2 gefärbt, ist 2/4. Ein Kreis geteilt in 8 gleiche Teile mit 5 gefärbt, ist 5/8. Die Form ist egal—der Bruch zeigt einfach Teile eines Ganzen.",
     t2_b1: "Zähle die Gesamtzahl der Teile",
     t2_b2: "Zähle, wie viele Teile gefärbt sind",
@@ -181,6 +218,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_6_8: "6/8",
     t2_q_7_8: "7/8",
     t3_title: "Brüche vergleichen",
+    t3_inst: "Lerne, wie man Brüche vergleicht und bestimmt, welcher größer ist.",
+    t3_h1: "Vergleiche die gefärbten Teile",
+    t3_h2: "Verwende die Symbole > oder <",
     t3_text: "Wir können Brüche vergleichen, indem wir sehen, wie viele Teile gefärbt sind. Wenn 2/4 gefärbt ist und 1/4 gefärbt ist, ist 2/4 größer weil mehr Teile gefärbt sind. Wir schreiben: 2/4 > 1/4.",
     t3_b1: "Mehr gefärbte Teile bedeuten ein größerer Bruch",
     t3_b2: "Weniger gefärbte Teile bedeuten ein kleinerer Bruch",
@@ -198,6 +238,9 @@ const LABELS: Record<string, Record<string, string>> = {
     compare_bigger: "2/4 nagyobb, mint 1/4",
     compare_explanation: "Több színezett rész = nagyobb tört",
     t1_title: "Egész egyenlő részei",
+    t1_inst: "Tanulj, hogyan mutatják a törtek az egész részeit.",
+    t1_h1: "Figyeld meg a színezett részeket",
+    t1_h2: "Számlálj össze az összes részt",
     t1_text: "A tört az egész egyenlő részeit mutatja. Ha egy kört 2 egyenlő részre osztunk és 1-et színezünk, az 1/2. Az alsó szám (nevező) az összes részt mutatja. A felső szám (számláló) a színezett részeket mutatja.",
     t1_b1: "Az egész egyenlő részekre van osztva",
     t1_b2: "A nevező az összes rész száma",
@@ -208,6 +251,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_3_4: "3/4",
     t1_q_4_4: "4/4",
     t2_title: "Törtek elnevezése",
+    t2_inst: "Tanulj, hogyan olvasunk és nevezünk meg törteket különböző formákból.",
+    t2_h1: "Nézd meg az egyenlő részekre osztott sávot",
+    t2_h2: "Számlálj meg színezett és összesen részeket",
     t2_text: "Különböző formák mutathatnak törteket. Egy 4 egyenlő részre osztott sáv 2 színezett résszel 2/4. Egy 8 egyenlő részre osztott kör 5 színezett résszel 5/8. A forma nem számít—a tört csak az egész részei.",
     t2_b1: "Számlálj meg az összes részt",
     t2_b2: "Számlálj meg a színezett részeket",
@@ -218,6 +264,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_6_8: "6/8",
     t2_q_7_8: "7/8",
     t3_title: "Törtek összehasonlítása",
+    t3_inst: "Tanulj, hogyan hasonlíthatunk össze törteket és találjuk meg melyik nagyobb.",
+    t3_h1: "Hasonlítsd össze a színezett részeket",
+    t3_h2: "Használd a > vagy < szimbólumokat",
     t3_text: "Összehasonlíthatunk törteket a színezett részek megtekintésével. Ha 2/4 és 1/4 van színezve, 2/4 nagyobb mert több rész van színezve. Ezt írjuk: 2/4 > 1/4.",
     t3_b1: "Több színezett rész nagyobb törtöt jelent",
     t3_b2: "Kevesebb színezett rész kisebb törtöt jelent",
@@ -235,6 +284,9 @@ const LABELS: Record<string, Record<string, string>> = {
     compare_bigger: "2/4 este mai mare decât 1/4",
     compare_explanation: "Mai multe părți colorate = fracție mai mare",
     t1_title: "Părți egale ale unui întreg",
+    t1_inst: "Învață cum arată fracțiile părțile unui întreg.",
+    t1_h1: "Observă părțile colorate",
+    t1_h2: "Numără totalul de părți",
     t1_text: "O fracție arată părți egale ale unui întreg. Dacă tăiem un cerc în 2 părți egale și colorăm 1, asta este 1/2. Numărul de jos (numitor) spune câte părți egale. Numărul de sus (numărător) spune câte sunt colorate.",
     t1_b1: "Un întreg este împărțit în părți egale",
     t1_b2: "Numitorul este totalul de părți",
@@ -245,6 +297,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_3_4: "3/4",
     t1_q_4_4: "4/4",
     t2_title: "Numiri fracții",
+    t2_inst: "Învață să citești și să numești fracții din diferite forme.",
+    t2_h1: "Uită-te la bara împărțită în părți",
+    t2_h2: "Numără părți colorate și total",
     t2_text: "Diferite forme pot arăta fracții. O bară împărțită în 4 părți egale cu 2 colorate este 2/4. Un cerc împărțit în 8 părți egale cu 5 colorate este 5/8. Forma nu contează—fracția arată doar părți ale unui întreg.",
     t2_b1: "Numără totalul de părți",
     t2_b2: "Numără câte părți sunt colorate",
@@ -255,6 +310,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_6_8: "6/8",
     t2_q_7_8: "7/8",
     t3_title: "Comparare fracții",
+    t3_inst: "Învață să compari fracții și să găsești care este mai mare.",
+    t3_h1: "Compară părțile colorate",
+    t3_h2: "Folosește simbolurile > sau <",
     t3_text: "Putem compara fracții privind câte părți sunt colorate. Dacă 2/4 este colorat și 1/4 este colorat, 2/4 este mai mare pentru că mai multe părți sunt colorate. Scriem: 2/4 > 1/4.",
     t3_b1: "Mai multe părți colorate înseamnă fracție mai mare",
     t3_b2: "Mai puține părți colorate înseamnă fracție mai mică",
@@ -267,58 +325,81 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang: string) => <CircleFractionSvg numerator={1} denominator={2} lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "place-value",
+      groups: [1, 1],
+      answer: 1,
+      blockIcon: "🔴",
+      blockColor: "#FF6B9D",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"],
+      answer: "t1_q_3_4",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang: string) => <BarFractionSvg numerator={2} denominator={4} lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "place-value",
+      groups: [2, 2],
+      answer: 2,
+      blockIcon: "🟦",
+      blockColor: "#4ECDC4",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_2_8", "t2_q_4_8", "t2_q_6_8", "t2_q_7_8"],
+      answer: "t2_q_6_8",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [1, 2, 1],
+      answer: 2,
+      blockIcon: "⭐",
+      blockColor: "#FFD700",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_2_8", "t3_q_3_8", "t3_q_5_8", "t3_q_6_8"],
+      answer: "t3_q_5_8",
+    },
+  },
+];
+
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "🍕",
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <CircleFractionSvg numerator={1} denominator={2} lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang: string) => <CircleFractionSvg numerator={3} denominator={4} lang={lang} />,
-      questions: [{ question: "t1_q", choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"], answer: "t1_q_3_4" }],
-    },
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <BarFractionSvg numerator={2} denominator={4} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang: string) => <BarFractionSvg numerator={6} denominator={8} lang={lang} />,
-      questions: [{ question: "t2_q", choices: ["t2_q_2_8", "t2_q_4_8", "t2_q_6_8", "t2_q_7_8"], answer: "t2_q_6_8" }],
-    },
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <CompareFractionsSvg lang={lang} />,
-      questions: [
-        { question: "t3_q", choices: ["t3_q_2_8", "t3_q_3_8", "t3_q_5_8", "t3_q_6_8"], answer: "t3_q_5_8" },
-        { question: "t1_q", choices: ["t1_q_1_4", "t1_q_2_4", "t1_q_3_4", "t1_q_4_4"], answer: "t1_q_3_4" },
-        { question: "t2_q", choices: ["t2_q_2_8", "t2_q_4_8", "t2_q_6_8", "t2_q_7_8"], answer: "t2_q_6_8" },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 interface Props {

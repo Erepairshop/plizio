@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Length comparison ──────────────────────────────────────────────────
 
@@ -134,9 +134,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "cm = centimeter (smallest)",
     t1_b2: "m = meter (100 cm)",
     t1_b3: "km = kilometer (1000 m)",
-    t1_inst: "A notebook is about 20 cm. How many mm is that?",
-    t1_h1: "1 cm = 10 mm",
-    t1_h2: "20 cm × 10 = 200 mm",
+    t1_inst: "Tap the numbers to convert: 5 m = ? cm",
+    t1_h1: "1 meter = 100 cm",
+    t1_h2: "So 5 × 100 = 500 cm",
     t1_q: "How many cm is 5 meters?",
     t1_q_50: "50 cm",
     t1_q_500: "500 cm",
@@ -151,9 +151,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "g = gram (small)",
     t2_b2: "kg = kilogram (1000 g)",
     t2_b3: "1 kg is 1000 grams",
-    t2_inst: "A book weighs 500 g. How much is that in kg?",
-    t2_h1: "1 kg = 1000 g",
-    t2_h2: "500 g = 0.5 kg (half a kilogram)",
+    t2_inst: "Tap the numbers to convert: 3 kg = ? g",
+    t2_h1: "1 kilogram = 1000 grams",
+    t2_h2: "So 3 × 1000 = 3000 grams",
     t2_q: "3 kg = how many grams?",
     t2_q_3: "3 g",
     t2_q_300: "300 g",
@@ -167,9 +167,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "1 hour = 60 minutes",
     t3_b2: "1 day = 24 hours",
     t3_b3: "Read the clock: hour hand + minute hand",
-    t3_inst: "The clock shows 3:00. How many minutes until 4:00?",
-    t3_h1: "From 3:00 to 4:00 is 1 hour",
-    t3_h2: "1 hour = 60 minutes",
+    t3_inst: "Tap the numbers to find: 2 hours = ? minutes",
+    t3_h1: "1 hour = 60 minutes",
+    t3_h2: "So 2 × 60 = 120 minutes",
     t3_q: "How many minutes are in 2 hours?",
     t3_q_2: "2 minutes",
     t3_q_60: "60 minutes",
@@ -184,9 +184,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "cm = Zentimeter (kleinste)",
     t1_b2: "m = Meter (100 cm)",
     t1_b3: "km = Kilometer (1000 m)",
-    t1_inst: "Ein Notizbuch ist etwa 20 cm. Wie viele mm ist das?",
-    t1_h1: "1 cm = 10 mm",
-    t1_h2: "20 cm × 10 = 200 mm",
+    t1_inst: "Tippe die Zahlen an: 5 m = ? cm",
+    t1_h1: "1 Meter = 100 cm",
+    t1_h2: "Also 5 × 100 = 500 cm",
     t1_q: "Wie viele cm sind 5 Meter?",
     t1_q_50: "50 cm",
     t1_q_500: "500 cm",
@@ -200,9 +200,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "g = Gramm (klein)",
     t2_b2: "kg = Kilogramm (1000 g)",
     t2_b3: "1 kg = 1000 Gramm",
-    t2_inst: "Ein Buch wiegt 500 g. Wie viel kg ist das?",
-    t2_h1: "1 kg = 1000 g",
-    t2_h2: "500 g = 0,5 kg (halbes Kilogramm)",
+    t2_inst: "Tippe die Zahlen an: 3 kg = ? g",
+    t2_h1: "1 Kilogramm = 1000 Gramm",
+    t2_h2: "Also 3 × 1000 = 3000 Gramm",
     t2_q: "3 kg = wie viele Gramm?",
     t2_q_3: "3 g",
     t2_q_300: "300 g",
@@ -215,9 +215,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "1 Stunde = 60 Minuten",
     t3_b2: "1 Tag = 24 Stunden",
     t3_b3: "Uhr ablesen: Stundenzeiger + Minutenzeiger",
-    t3_inst: "Die Uhr zeigt 3:00. Wie viele Minuten bis 4:00?",
-    t3_h1: "Von 3:00 bis 4:00 ist 1 Stunde",
-    t3_h2: "1 Stunde = 60 Minuten",
+    t3_inst: "Tippe die Zahlen an: 2 Stunden = ? Minuten",
+    t3_h1: "1 Stunde = 60 Minuten",
+    t3_h2: "Also 2 × 60 = 120 Minuten",
     t3_q: "Wie viele Minuten sind in 2 Stunden?",
     t3_q_2: "2 Minuten",
     t3_q_60: "60 Minuten",
@@ -232,9 +232,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "cm = centiméter (legkisebb)",
     t1_b2: "m = méter (100 cm)",
     t1_b3: "km = kilométer (1000 m)",
-    t1_inst: "Egy notebook körülbelül 20 cm. Ez hány mm?",
-    t1_h1: "1 cm = 10 mm",
-    t1_h2: "20 cm × 10 = 200 mm",
+    t1_inst: "Koppintsd a számokat: 5 m = ? cm",
+    t1_h1: "1 méter = 100 cm",
+    t1_h2: "Tehát 5 × 100 = 500 cm",
     t1_q: "Hány cm az 5 méter?",
     t1_q_50: "50 cm",
     t1_q_500: "500 cm",
@@ -248,9 +248,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "g = gramm (kicsi)",
     t2_b2: "kg = kilogramm (1000 g)",
     t2_b3: "1 kg = 1000 gramm",
-    t2_inst: "Egy könyv súlya 500 g. Ez hány kg?",
-    t2_h1: "1 kg = 1000 g",
-    t2_h2: "500 g = 0,5 kg (fél kilogramm)",
+    t2_inst: "Koppintsd a számokat: 3 kg = ? g",
+    t2_h1: "1 kilogramm = 1000 gramm",
+    t2_h2: "Tehát 3 × 1000 = 3000 gramm",
     t2_q: "3 kg = hány gramm?",
     t2_q_3: "3 g",
     t2_q_300: "300 g",
@@ -263,9 +263,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "1 óra = 60 perc",
     t3_b2: "1 nap = 24 óra",
     t3_b3: "Óra leolvasása: óra mutató + perc mutató",
-    t3_inst: "Az óra 3:00-t mutat. Hány perc van 4:00-ig?",
-    t3_h1: "3:00-tól 4:00-ig 1 óra",
-    t3_h2: "1 óra = 60 perc",
+    t3_inst: "Koppintsd a számokat: 2 óra = ? perc",
+    t3_h1: "1 óra = 60 perc",
+    t3_h2: "Tehát 2 × 60 = 120 perc",
     t3_q: "Hány perc van 2 órában?",
     t3_q_2: "2 perc",
     t3_q_60: "60 perc",
@@ -280,9 +280,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "cm = centimetru (cel mai mic)",
     t1_b2: "m = metru (100 cm)",
     t1_b3: "km = kilometru (1000 m)",
-    t1_inst: "Un caiet are aproximativ 20 cm. Asta e câți mm?",
-    t1_h1: "1 cm = 10 mm",
-    t1_h2: "20 cm × 10 = 200 mm",
+    t1_inst: "Atinge numerele: 5 m = ? cm",
+    t1_h1: "1 metru = 100 cm",
+    t1_h2: "Deci 5 × 100 = 500 cm",
     t1_q: "Câți cm sunt 5 metri?",
     t1_q_50: "50 cm",
     t1_q_500: "500 cm",
@@ -296,9 +296,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "g = gram (mic)",
     t2_b2: "kg = kilogram (1000 g)",
     t2_b3: "1 kg = 1000 grame",
-    t2_inst: "O carte cântărește 500 g. Asta e câți kg?",
-    t2_h1: "1 kg = 1000 g",
-    t2_h2: "500 g = 0,5 kg (jumătate de kilogram)",
+    t2_inst: "Atinge numerele: 3 kg = ? g",
+    t2_h1: "1 kilogram = 1000 grame",
+    t2_h2: "Deci 3 × 1000 = 3000 grame",
     t2_q: "3 kg = câte grame?",
     t2_q_3: "3 g",
     t2_q_300: "300 g",
@@ -311,9 +311,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "1 oră = 60 minute",
     t3_b2: "1 zi = 24 ore",
     t3_b3: "Citire ceas: orar + minutar",
-    t3_inst: "Ceasul arată 3:00. Câte minute până la 4:00?",
-    t3_h1: "De la 3:00 la 4:00 este 1 oră",
-    t3_h2: "1 oră = 60 minute",
+    t3_inst: "Atinge numerele: 2 ore = ? minute",
+    t3_h1: "1 oră = 60 minute",
+    t3_h2: "Deci 2 × 60 = 120 minute",
     t3_q: "Câte minute sunt în 2 ore?",
     t3_q_2: "2 minute",
     t3_q_60: "60 minute",
@@ -323,89 +323,94 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+// ─── TOPICS DEFINITION ───────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // ─ Topic 1: Length ─
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <LengthSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "number-line",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+      params: { min: 100, max: 500, step: 100, unit: "cm" },
+    },
+    quiz: [
+      {
+        question: "t1_q",
+        choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
+        answer: "t1_q_500",
+      },
+    ],
+  },
+
+  // ─ Topic 2: Weight ─
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <WeightSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "number-line",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+      params: { min: 1000, max: 3000, step: 1000, unit: "g" },
+    },
+    quiz: [
+      {
+        question: "t2_q",
+        choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
+        answer: "t2_q_3000",
+      },
+    ],
+  },
+
+  // ─ Topic 3: Time ─
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <TimeSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+      params: { min: 60, max: 120, step: 60, unit: "min" },
+    },
+    quiz: [
+      {
+        question: "t3_q",
+        choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
+        answer: "t3_q_120",
+      },
+      {
+        question: "t1_q",
+        choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
+        answer: "t1_q_500",
+      },
+      {
+        question: "t2_q",
+        choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
+        answer: "t2_q_3000",
+      },
+    ],
+  },
+];
+
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📏",
-  rounds: [
-    // ─ R1: Length ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <LengthSvg lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <LengthSvg lang={lang} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
-          answer: "t1_q_500",
-        },
-      ],
-    },
-
-    // ─ R2: Weight ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <WeightSvg lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <WeightSvg lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
-          answer: "t2_q_3000",
-        },
-      ],
-    },
-
-    // ─ R3: Time ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <TimeSvg lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <TimeSvg lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_2", "t3_q_60", "t3_q_120", "t3_q_240"],
-          answer: "t3_q_120",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_5", "t1_q_50", "t1_q_500", "t1_q_5000"],
-          answer: "t1_q_500",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_3", "t2_q_30", "t2_q_300", "t2_q_3000"],
-          answer: "t2_q_3000",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

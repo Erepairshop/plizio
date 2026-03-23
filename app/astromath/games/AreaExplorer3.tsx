@@ -136,6 +136,9 @@ const LABELS: Record<string, Record<string, string>> = {
     area_hint_1: "How many unit squares fit inside?",
     area_hint_2: "Length 5, Width 3 → Area = 5 × 3 = 15 square units",
     area_hint_3: "Area tells us how much space is inside the shape",
+    t1_inst: "Tap the grid to count squares. What is the area?",
+    t1_h1: "Count: 4 columns × 3 rows",
+    t1_h2: "Area = 4 × 3 = 12 square units",
 
     // SVG: Rectangle
     rect_width: "4 units",
@@ -148,6 +151,9 @@ const LABELS: Record<string, Record<string, string>> = {
     perim_hint_1: "Add all four sides of the rectangle",
     perim_hint_2: "Perimeter = 6 + 4 + 6 + 4 = 20 units",
     perim_hint_3: "Perimeter is the distance around the shape",
+    t2_inst: "Drag markers around the perimeter. Total all four sides.",
+    t2_h1: "Top + Right + Bottom + Left",
+    t2_h2: "Perimeter = 7 + 5 + 7 + 5 = 24 units",
 
     // SVG: Perimeter
     perim_side1: "7 units",
@@ -162,6 +168,9 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_hint_1: "What do area and perimeter measure?",
     shapes_hint_2: "Area = space inside, Perimeter = distance around",
     shapes_hint_3: "Different shapes need different formulas",
+    t3_inst: "Select the correct answer for each shape measurement.",
+    t3_h1: "Remember: Area = length × width",
+    t3_h2: "Perimeter = sum of all sides",
 
     // SVG: Shapes
     shape_square: "Square",
@@ -183,6 +192,9 @@ const LABELS: Record<string, Record<string, string>> = {
     area_hint_1: "Wie viele Einheits-Quadrate passen hinein?",
     area_hint_2: "Länge 5, Breite 3 → Fläche = 5 × 3 = 15 Quadrat-Einheiten",
     area_hint_3: "Fläche zeigt den Platz im Inneren der Form",
+    t1_inst: "Tippe auf das Gitter, um die Quadrate zu zählen. Wie groß ist die Fläche?",
+    t1_h1: "Zähle: 4 Spalten × 3 Reihen",
+    t1_h2: "Fläche = 4 × 3 = 12 Quadrat-Einheiten",
 
     // SVG: Rectangle
     rect_width: "4 Einheiten",
@@ -194,6 +206,9 @@ const LABELS: Record<string, Record<string, string>> = {
     perim_hint_1: "Addiere alle vier Seiten des Rechtecks",
     perim_hint_2: "Umfang = 6 + 4 + 6 + 4 = 20 Einheiten",
     perim_hint_3: "Umfang ist die Entfernung um die Form",
+    t2_inst: "Ziehe Marker um den Umfang. Addiere alle vier Seiten.",
+    t2_h1: "Oben + Rechts + Unten + Links",
+    t2_h2: "Umfang = 7 + 5 + 7 + 5 = 24 Einheiten",
 
     // SVG: Perimeter
     perim_side1: "7 Einheiten",
@@ -207,6 +222,9 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_hint_1: "Was messen Fläche und Umfang?",
     shapes_hint_2: "Fläche = Platz innen, Umfang = Entfernung außen",
     shapes_hint_3: "Verschiedene Formen brauchen verschiedene Formeln",
+    t3_inst: "Wähle die richtige Antwort für jede Formenmessung.",
+    t3_h1: "Denk dran: Fläche = Länge × Breite",
+    t3_h2: "Umfang = Summe aller Seiten",
 
     // SVG: Shapes
     shape_square: "Quadrat",
@@ -228,6 +246,9 @@ const LABELS: Record<string, Record<string, string>> = {
     area_hint_1: "Hány egység-négyzet fér be?",
     area_hint_2: "Hosszúság 5, Szélesség 3 → Terület = 5 × 3 = 15 négyzetegység",
     area_hint_3: "A terület az alakzat belsejének méretét mutatja",
+    t1_inst: "Kattints a rácsra a négyzetek számlálásához. Mekkora a terület?",
+    t1_h1: "Szám: 4 oszlop × 3 sor",
+    t1_h2: "Terület = 4 × 3 = 12 négyzetegység",
 
     // SVG: Rectangle
     rect_width: "4 egység",
@@ -239,6 +260,9 @@ const LABELS: Record<string, Record<string, string>> = {
     perim_hint_1: "Add össze a téglalap mind a négy oldalát",
     perim_hint_2: "Kerület = 6 + 4 + 6 + 4 = 20 egység",
     perim_hint_3: "A kerület az alakzat körüli távolság",
+    t2_inst: "Húzd a markereket a kerület körül. Add össze mind a négy oldalt.",
+    t2_h1: "Fent + Jobb + Lent + Bal",
+    t2_h2: "Kerület = 7 + 5 + 7 + 5 = 24 egység",
 
     // SVG: Perimeter
     perim_side1: "7 egység",
@@ -252,6 +276,9 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_hint_1: "Mit mérnek a terület és kerület?",
     shapes_hint_2: "Terület = belső hely, Kerület = külső távolság",
     shapes_hint_3: "Különböző alakzatok eltérő képleteket igényelnek",
+    t3_inst: "Válaszd ki a helyes választ minden alakzat-mérésnél.",
+    t3_h1: "Emlékezz: Terület = hosszúság × szélesség",
+    t3_h2: "Kerület = összes oldal összege",
 
     // SVG: Shapes
     shape_square: "Négyzet",
@@ -273,6 +300,9 @@ const LABELS: Record<string, Record<string, string>> = {
     area_hint_1: "Câte pătrate unitare se potrivesc?",
     area_hint_2: "Lungimea 5, Lățimea 3 → Aria = 5 × 3 = 15 unități pătrate",
     area_hint_3: "Aria arată spațiul din interiorul formei",
+    t1_inst: "Atinge grila pentru a număra pătratele. Care este aria?",
+    t1_h1: "Numără: 4 coloane × 3 rânduri",
+    t1_h2: "Aria = 4 × 3 = 12 unități pătrate",
 
     // SVG: Rectangle
     rect_width: "4 unități",
@@ -284,6 +314,9 @@ const LABELS: Record<string, Record<string, string>> = {
     perim_hint_1: "Adună toate patru laturi ale dreptunghiului",
     perim_hint_2: "Perimetru = 6 + 4 + 6 + 4 = 20 unități",
     perim_hint_3: "Perimetrul este distanța din jurul formei",
+    t2_inst: "Trage markerii în jurul perimetrului. Adună toate patru laturile.",
+    t2_h1: "Sus + Dreapta + Jos + Stânga",
+    t2_h2: "Perimetru = 7 + 5 + 7 + 5 = 24 unități",
 
     // SVG: Perimeter
     perim_side1: "7 unități",
@@ -297,6 +330,9 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_hint_1: "Ce măsoară aria și perimetrul?",
     shapes_hint_2: "Aria = spațiu interior, Perimetru = distanță exterior",
     shapes_hint_3: "Formele diferite necesită formule diferite",
+    t3_inst: "Selectează răspunsul corect pentru fiecare măsurare de formă.",
+    t3_h1: "Ține minte: Aria = lungime × lățime",
+    t3_h2: "Perimetru = suma tuturor laturilor",
 
     // SVG: Shapes
     shape_square: "Pătrat",
@@ -319,21 +355,20 @@ const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📐",
-  rounds: [
-    // ─ R1: Rectangle Area ─
+  topics: [
+    // ─ Topic 1: Rectangle Area ─
     {
-      type: "info",
       infoTitle: "area_title",
       infoText: "area_teach",
       svg: (lang) => <RectangleSvg lang={lang} />,
       bulletKeys: ["area_hint_1", "area_hint_2", "area_hint_3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "area_title",
-      infoText: "area_teach",
-      svg: (lang) => <RectangleSvg lang={lang} />,
-      questions: [
+      interactive: {
+        type: "grid-count",
+        instruction: "t1_inst",
+        h1: "t1_h1",
+        h2: "t1_h2",
+      },
+      quiz: [
         {
           question: "shapes_q1",
           choices: ["18 square units", "24 square units", "30 square units", "20 square units"],
@@ -342,20 +377,19 @@ const EXPLORER_DEF: ExplorerDef = {
       ],
     },
 
-    // ─ R2: Perimeter ─
+    // ─ Topic 2: Perimeter ─
     {
-      type: "info",
       infoTitle: "perim_title",
       infoText: "perim_teach",
       svg: (lang) => <PerimeterSvg lang={lang} />,
       bulletKeys: ["perim_hint_1", "perim_hint_2", "perim_hint_3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "perim_title",
-      infoText: "perim_teach",
-      svg: (lang) => <PerimeterSvg lang={lang} />,
-      questions: [
+      interactive: {
+        type: "perimeter-drag",
+        instruction: "t2_inst",
+        h1: "t2_h1",
+        h2: "t2_h2",
+      },
+      quiz: [
         {
           question: "shapes_q2",
           choices: ["8 units", "15 units", "16 units", "18 units"],
@@ -364,20 +398,19 @@ const EXPLORER_DEF: ExplorerDef = {
       ],
     },
 
-    // ─ R3: Shapes ─
+    // ─ Topic 3: Shape Quiz (Review) ─
     {
-      type: "info",
       infoTitle: "shapes_title",
       infoText: "shapes_teach",
       svg: (lang) => <ShapesSvg lang={lang} />,
       bulletKeys: ["shapes_hint_1", "shapes_hint_2", "shapes_hint_3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "shapes_title",
-      infoText: "shapes_teach",
-      svg: (lang) => <ShapesSvg lang={lang} />,
-      questions: [
+      interactive: {
+        type: "review-shapes",
+        instruction: "t3_inst",
+        h1: "t3_h1",
+        h2: "t3_h2",
+      },
+      quiz: [
         {
           question: "shapes_q1",
           choices: ["20 square units", "24 square units", "28 square units", "32 square units"],
@@ -396,6 +429,7 @@ const EXPLORER_DEF: ExplorerDef = {
       ],
     },
   ],
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

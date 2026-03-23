@@ -1,10 +1,10 @@
 "use client";
 // AreaExplorer4 — Area & Perimeter for Grade 4 (island i5)
-// Uses ExplorerEngine with 3 topics: grid area, perimeter calculation, area vs perimeter
+// Converted to topic mode: 3 TopicDef objects with interactive blocks
 
-import { memo } from "react";
+import { memo, useState } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Grid square counting (area) ─────────────────────────────────────────
 
@@ -188,6 +188,9 @@ const LABELS: Record<string, Record<string, string>> = {
     // Topic 1: Grid area counting
     t1_title: "Counting Square Units (Area)",
     t1_text: "Area is how much space a shape covers. We measure area by counting square units inside. A 4×3 rectangle has 12 square units inside.",
+    t1_inst: "Tap the squares to count them. The total count is the area!",
+    t1_h1: "Count the squares",
+    t1_h2: "Area = length × width",
     t1_b1: "Area = length × width",
     t1_b2: "Count all the squares inside",
     t1_b3: "Square units could be cm² or m²",
@@ -199,6 +202,9 @@ const LABELS: Record<string, Record<string, string>> = {
     // Topic 2: Perimeter with labeled sides
     t2_title: "Measuring Around the Edge (Perimeter)",
     t2_text: "Perimeter is the distance around a shape. To find the perimeter, add all the side lengths. For a 6×4 rectangle: P = 6 + 4 + 6 + 4 = 20",
+    t2_inst: "Tap each side to add them up. Find the total distance around!",
+    t2_h1: "Add all the sides",
+    t2_h2: "P = 2 × (length + width)",
     t2_b1: "Perimeter = sum of all sides",
     t2_b2: "Rectangle: P = 2 × (length + width)",
     t2_b3: "Walk around the shape to find it",
@@ -210,6 +216,9 @@ const LABELS: Record<string, Record<string, string>> = {
     // Topic 3: Area vs Perimeter
     t3_title: "Area vs Perimeter",
     t3_text: "A shape's area and perimeter are different! Two shapes can have the same area but different perimeters, or vice versa. A 3×3 square and a 4×2 rectangle have different areas AND perimeters.",
+    t3_inst: "Compare the two rectangles. Which has larger area? Which has larger perimeter?",
+    t3_h1: "Compare shapes",
+    t3_h2: "Area and perimeter are different!",
     t3_b1: "Area and perimeter are independent",
     t3_b2: "A bigger area doesn't mean bigger perimeter",
     t3_b3: "Always check what the question asks for",
@@ -245,6 +254,9 @@ const LABELS: Record<string, Record<string, string>> = {
     avp_explanation: "Gleiche Fläche ≠ Gleicher Umfang!",
     t1_title: "Quadratische Einheiten zählen (Fläche)",
     t1_text: "Fläche ist der Platz, den eine Form einnimmt. Wir messen Fläche durch das Zählen von Quadrateinheiten. Ein 4×3 Rechteck hat 12 Quadrateinheiten.",
+    t1_inst: "Tippe auf die Quadrate, um sie zu zählen. Die Gesamtzahl ist die Fläche!",
+    t1_h1: "Zähle die Quadrate",
+    t1_h2: "Fläche = Länge × Breite",
     t1_b1: "Fläche = Länge × Breite",
     t1_b2: "Zähle alle Quadrate innen",
     t1_b3: "Quadrateinheiten können cm² oder m² sein",
@@ -255,6 +267,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_16: "16 Quadrateinheiten",
     t2_title: "Messung um den Rand (Umfang)",
     t2_text: "Der Umfang ist die Entfernung um eine Form. Um den Umfang zu finden, addiere alle Seitenlängen. Für ein 6×4 Rechteck: U = 6 + 4 + 6 + 4 = 20",
+    t2_inst: "Tippe auf jede Seite, um sie zusammenzuzählen. Finde die Gesamtentfernung herum!",
+    t2_h1: "Addiere alle Seiten",
+    t2_h2: "U = 2 × (Länge + Breite)",
     t2_b1: "Umfang = Summe aller Seiten",
     t2_b2: "Rechteck: U = 2 × (Länge + Breite)",
     t2_b3: "Gehe um die Form, um es zu finden",
@@ -265,6 +280,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_14: "14 Einheiten",
     t3_title: "Fläche vs Umfang",
     t3_text: "Fläche und Umfang einer Form sind verschieden! Zwei Formen können die gleiche Fläche aber andere Umfänge haben, oder umgekehrt. Ein 3×3 Quadrat und ein 4×2 Rechteck haben andere Flächen UND Umfänge.",
+    t3_inst: "Vergleiche die beiden Rechtecke. Welches hat größere Fläche? Welches hat größeren Umfang?",
+    t3_h1: "Vergleiche Formen",
+    t3_h2: "Fläche und Umfang sind verschieden!",
     t3_b1: "Fläche und Umfang sind unabhängig",
     t3_b2: "Eine größere Fläche bedeutet nicht größeren Umfang",
     t3_b3: "Überprüfe immer, was die Frage fragt",
@@ -299,6 +317,9 @@ const LABELS: Record<string, Record<string, string>> = {
     avp_explanation: "Azonos terület ≠ Azonos kerület!",
     t1_title: "Négyzet egységek számlálása (terület)",
     t1_text: "A terület az az élettér, amit egy forma elfoglal. A területet négyzet egységek számlálásával mérjük. Egy 4×3 téglalap 12 négyzet egységet tartalmaz.",
+    t1_inst: "Érintsd meg a négyzeteket, hogy számlald meg azokat. Az összesen = terület!",
+    t1_h1: "Számold meg a négyzeteket",
+    t1_h2: "Terület = hosszúság × szélesség",
     t1_b1: "Terület = hosszúság × szélesség",
     t1_b2: "Számold meg az összes négyzetet belül",
     t1_b3: "Négyzet egységek lehetnek cm² vagy m²",
@@ -309,6 +330,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_16: "16 négyzet egység",
     t2_title: "Mérés az él körül (kerület)",
     t2_text: "A kerület az a távolság egy forma körül. A kerület megtalálásához add hozzá az összes oldalhosszat. Egy 6×4 téglalap esetén: K = 6 + 4 + 6 + 4 = 20",
+    t2_inst: "Érintsd meg az egyes oldalakat, hogy összeadhasd őket. Találd meg a teljes távolságot körül!",
+    t2_h1: "Add össze az összes oldalt",
+    t2_h2: "K = 2 × (hosszúság + szélesség)",
     t2_b1: "Kerület = az összes oldal összege",
     t2_b2: "Téglalap: K = 2 × (hosszúság + szélesség)",
     t2_b3: "Járj körbe a forma körül",
@@ -319,6 +343,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_14: "14 egység",
     t3_title: "Terület vs Kerület",
     t3_text: "Egy forma területe és kerülete különbözőek! Két forma lehet ugyanolyan terület de eltérő kerület, vagy fordítva. Egy 3×3 négyzet és egy 4×2 téglalap más területtel ÉS kerülettel rendelkezik.",
+    t3_inst: "Hasonlítsd össze a két téglalapot. Melyiknek van nagyobb terület? Melyiknek van nagyobb kerület?",
+    t3_h1: "Hasonlítsd össze az alakzatokat",
+    t3_h2: "Terület és kerület különbözőek!",
     t3_b1: "Terület és kerület függetlenek",
     t3_b2: "Nagyobb terület nem jelent nagyobb kerületet",
     t3_b3: "Mindig ellenőrizd, mit kérdez a feladat",
@@ -353,6 +380,9 @@ const LABELS: Record<string, Record<string, string>> = {
     avp_explanation: "Aceeași arie ≠ Același perimetru!",
     t1_title: "Numărarea unităților pătrate (arie)",
     t1_text: "Aria este spațiul pe care o formă îl ocupă. Măsurăm aria prin numărarea unităților pătrate din interior. Un dreptunghi 4×3 are 12 unități pătrate.",
+    t1_inst: "Atinge pătratele pentru a le număra. Totalul = aria!",
+    t1_h1: "Numără pătratele",
+    t1_h2: "Arie = lungime × lățime",
     t1_b1: "Arie = lungime × lățime",
     t1_b2: "Numără toate pătratele din interior",
     t1_b3: "Unități pătrate pot fi cm² sau m²",
@@ -363,6 +393,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_16: "16 unități pătrate",
     t2_title: "Măsurarea în jurul marginii (perimetru)",
     t2_text: "Perimetrul este distanța în jurul unei forme. Pentru a găsi perimetrul, adaugă toate lungimile laturilor. Pentru dreptunghi 6×4: P = 6 + 4 + 6 + 4 = 20",
+    t2_inst: "Atinge fiecare latură pentru a le aduna. Găsește distanța totală din jur!",
+    t2_h1: "Adună toate laturile",
+    t2_h2: "P = 2 × (lungime + lățime)",
     t2_b1: "Perimetru = suma tuturor laturilor",
     t2_b2: "Dreptunghi: P = 2 × (lungime + lățime)",
     t2_b3: "Mergi în jurul formei pentru a o găsi",
@@ -373,6 +406,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_14: "14 unități",
     t3_title: "Arie vs Perimetru",
     t3_text: "Aria și perimetrul unei forme sunt diferite! Două forme pot avea aceeași arie dar perimetri diferiți, sau invers. Un pătrat 3×3 și un dreptunghi 4×2 au arii ȘI perimetre diferite.",
+    t3_inst: "Compară cele două dreptunghiuri. Care are arie mai mare? Care are perimetru mai mare?",
+    t3_h1: "Compară formele",
+    t3_h2: "Arie și perimetru sunt diferite!",
     t3_b1: "Arie și perimetru sunt independente",
     t3_b2: "O arie mai mare nu înseamnă perimetru mai mare",
     t3_b3: "Verifică mereu ce întreabă problema",
@@ -399,26 +435,205 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
+// ─── INTERACTIVE BLOCK COMPONENTS ───────────────────────────────────────────
+
+/**
+ * GridAreaCounter — Tap squares to count (interactive block for T1)
+ */
+function GridAreaCounter({ width = 4, height = 3, lang = "en", onValueChange }: {
+  width?: number; height?: number; lang?: string;
+  onValueChange?: (value: string) => void;
+}) {
+  const [counted, setCounted] = useState<Set<number>>(new Set());
+  const totalCells = width * height;
+  const t = LABELS[lang] || LABELS.en;
+
+  const toggle = (idx: number) => {
+    const next = new Set(counted);
+    if (next.has(idx)) next.delete(idx);
+    else next.add(idx);
+    setCounted(next);
+    onValueChange?.(String(next.size));
+  };
+
+  return (
+    <div className="flex flex-col items-center gap-3 px-4 py-4 bg-gradient-to-br from-green-600/10 to-emerald-600/10 rounded-2xl border border-green-500/20">
+      <p className="text-xs font-semibold text-center text-green-300">{t.t1_inst}</p>
+      <svg width="100%" viewBox="0 0 200 150" className="max-w-xs">
+        <g transform="translate(20, 20)">
+          {Array.from({ length: height }, (_, row) =>
+            Array.from({ length: width }, (_, col) => {
+              const idx = row * width + col;
+              const isSelected = counted.has(idx);
+              return (
+                <g
+                  key={idx}
+                  transform={`translate(${col * 32}, ${row * 32})`}
+                  onClick={() => toggle(idx)}
+                  style={{ cursor: "pointer" }}
+                >
+                  <rect
+                    width="28"
+                    height="28"
+                    fill={isSelected ? "#10B981" : "rgba(16, 185, 129, 0.4)"}
+                    stroke="rgba(255,255,255,0.5)"
+                    strokeWidth="1"
+                    rx="2"
+                  />
+                  {isSelected && (
+                    <text x="14" y="18" textAnchor="middle" fontSize="14" fontWeight="bold" fill="white">
+                      ✓
+                    </text>
+                  )}
+                </g>
+              );
+            })
+          )}
+        </g>
+      </svg>
+      <div className="text-center">
+        <p className="text-white/80 font-bold">
+          {counted.size}/{totalCells}
+        </p>
+        <p className="text-xs text-white/50">{t.t1_h2}</p>
+      </div>
+    </div>
+  );
+}
+
+/**
+ * PerimeterAdder — Tap sides to sum perimeter (interactive block for T2)
+ */
+function PerimeterAdder({ width = 6, height = 4, lang = "en", onValueChange }: {
+  width?: number; height?: number; lang?: string;
+  onValueChange?: (value: string) => void;
+}) {
+  const [tappedSides, setTappedSides] = useState<Set<string>>(new Set());
+  const sides = ["top", "right", "bottom", "left"];
+  const values = [width, height, width, height];
+  const t = LABELS[lang] || LABELS.en;
+
+  const toggleSide = (side: string, value: number) => {
+    const next = new Set(tappedSides);
+    if (next.has(side)) {
+      next.delete(side);
+    } else {
+      next.add(side);
+    }
+    setTappedSides(next);
+    const sum = Array.from(next).reduce((acc, s) => {
+      const idx = sides.indexOf(s);
+      return acc + values[idx];
+    }, 0);
+    onValueChange?.(String(sum));
+  };
+
+  const perimeter = 2 * (width + height);
+  const tappedPerimeter = Array.from(tappedSides).reduce((acc, s) => {
+    const idx = sides.indexOf(s);
+    return acc + values[idx];
+  }, 0);
+
+  return (
+    <div className="flex flex-col items-center gap-3 px-4 py-4 bg-gradient-to-br from-amber-600/10 to-yellow-600/10 rounded-2xl border border-amber-500/20">
+      <p className="text-xs font-semibold text-center text-amber-300">{t.t2_inst}</p>
+      <svg width="100%" viewBox="0 0 200 150" className="max-w-xs">
+        <defs>
+          <linearGradient id="pG2">
+            <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.2" />
+            <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.1" />
+          </linearGradient>
+        </defs>
+        <g transform="translate(50, 40)">
+          <rect width={width * 10} height={height * 10} fill="url(#pG2)" stroke="#F59E0B" strokeWidth="2" rx="2" />
+
+          {/* Top */}
+          <rect
+            x="0"
+            y="-20"
+            width={width * 10}
+            height="14"
+            fill={tappedSides.has("top") ? "#F59E0B" : "rgba(245,158,11,0.3)"}
+            onClick={() => toggleSide("top", width)}
+            style={{ cursor: "pointer" }}
+            rx="4"
+          />
+          <text x={width * 5} y="-8" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FCD34D">
+            {width}
+          </text>
+
+          {/* Right */}
+          <rect
+            x={width * 10 + 4}
+            y="0"
+            width="14"
+            height={height * 10}
+            fill={tappedSides.has("right") ? "#F59E0B" : "rgba(245,158,11,0.3)"}
+            onClick={() => toggleSide("right", height)}
+            style={{ cursor: "pointer" }}
+            rx="4"
+          />
+          <text x={width * 10 + 15} y={height * 5} textAnchor="start" dominantBaseline="middle" fontSize="12" fontWeight="bold" fill="#FCD34D">
+            {height}
+          </text>
+
+          {/* Bottom */}
+          <rect
+            x="0"
+            y={height * 10 + 4}
+            width={width * 10}
+            height="14"
+            fill={tappedSides.has("bottom") ? "#F59E0B" : "rgba(245,158,11,0.3)"}
+            onClick={() => toggleSide("bottom", width)}
+            style={{ cursor: "pointer" }}
+            rx="4"
+          />
+          <text x={width * 5} y={height * 10 + 18} textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FCD34D">
+            {width}
+          </text>
+
+          {/* Left */}
+          <rect
+            x="-18"
+            y="0"
+            width="14"
+            height={height * 10}
+            fill={tappedSides.has("left") ? "#F59E0B" : "rgba(245,158,11,0.3)"}
+            onClick={() => toggleSide("left", height)}
+            style={{ cursor: "pointer" }}
+            rx="4"
+          />
+          <text x="-10" y={height * 5} textAnchor="end" dominantBaseline="middle" fontSize="12" fontWeight="bold" fill="#FCD34D">
+            {height}
+          </text>
+        </g>
+      </svg>
+      <div className="text-center">
+        <p className="text-white/80 font-bold">
+          {tappedPerimeter}/{perimeter}
+        </p>
+        <p className="text-xs text-white/50">{t.t2_h2}</p>
+      </div>
+    </div>
+  );
+}
+
+// ─── EXPLORER DEFINITION (TOPIC MODE) ───────────────────────────────────────
 
 const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
   labels: LABELS,
   title: "explorer_title",
   icon: "📏",
-  rounds: [
-    // ─ R1: Grid area counting ─
+  topics: [
+    // ─ Topic 1: Grid area counting ─
     {
-      type: "info",
       infoTitle: "t1_title",
       infoText: "t1_text",
       svg: () => <GridAreaSvg width={4} height={3} lang={lang} />,
       bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <GridAreaSvg width={5} height={4} lang={lang} />,
+      interactiveBlock: ({ onValueChange }) => (
+        <GridAreaCounter width={5} height={4} lang={lang} onValueChange={onValueChange} />
+      ),
       questions: [
         {
           question: "t1_q",
@@ -426,21 +641,17 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
           answer: "t1_q_20",
         },
       ],
-    },
+    } as TopicDef,
 
-    // ─ R2: Perimeter with labeled sides ─
+    // ─ Topic 2: Perimeter with labeled sides ─
     {
-      type: "info",
       infoTitle: "t2_title",
       infoText: "t2_text",
       svg: () => <PerimeterSvg width={6} height={4} lang={lang} />,
       bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: () => <PerimeterSvg width={7} height={3} lang={lang} />,
+      interactiveBlock: ({ onValueChange }) => (
+        <PerimeterAdder width={7} height={3} lang={lang} onValueChange={onValueChange} />
+      ),
       questions: [
         {
           question: "t2_q",
@@ -448,36 +659,14 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
           answer: "t2_q_20",
         },
       ],
-    },
+    } as TopicDef,
 
-    // ─ R3: Area vs Perimeter ─
+    // ─ Topic 3: Area vs Perimeter (review) ─
     {
-      type: "info",
       infoTitle: "t3_title",
       infoText: "t3_text",
       svg: () => <AreaVsPerimeterSvg lang={lang} />,
       bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <AreaVsPerimeterSvg lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_4x2", "t3_q_3x3", "t3_q_same", "t3_q_need_info"],
-          answer: "t3_q_3x3",
-        },
-      ],
-    },
-
-    // ─ R5: Review (2-3 questions) ─
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <GridAreaSvg width={5} height={5} lang={lang} />,
       questions: [
         {
           question: "r5_q1",
@@ -495,8 +684,9 @@ const makeExplorerDef = (lang: string = "en"): ExplorerDef => ({
           answer: "r5_q3_a",
         },
       ],
-    },
+    } as TopicDef,
   ],
+  rounds: [],
 });
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

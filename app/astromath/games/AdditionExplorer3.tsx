@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Commutative property (Tauschaufgabe) ────────────────────────────────
 
@@ -171,6 +171,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_300: "300",
     t1_q_500: "500",
     t1_q_100: "100",
+    t1_inst_interactive: "Drag the blocks to add 300 + 200!",
+    t1_h1_interactive: "300 and 200 together",
+    t1_h2_interactive: "Should equal 500",
     // Topic 2: Decomposition
     t2_title: "Break Apart Numbers",
     t2_text: "Big numbers are made from smaller numbers! 500 breaks into 200 and 300. It can also break into 100 and 400. Same number, different parts!",
@@ -185,6 +188,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300",
     t2_q_100: "100",
     t2_q_400: "400",
+    t2_inst_interactive: "Drag the blocks to complete 500 = 200 + ?",
+    t2_h1_interactive: "500 splits into parts",
+    t2_h2_interactive: "200 and 300 together make 500",
     // Topic 3: Mental math
     t3_title: "Number Line Addition",
     t3_text: "Use a number line to add! Start at 234, jump forward 100. Where do you land? 234 + 100 = 334!",
@@ -199,6 +205,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_355: "355",
     t3_q_345: "345",
     t3_q_435: "435",
+    t3_inst_interactive: "Use the number line: 234 + 100 = ?",
+    t3_h1_interactive: "Start at 234 and jump 100 spaces right",
+    t3_h2_interactive: "You land at 334",
   },
   de: {
     explorer_title: "Addition entdecken",
@@ -217,6 +226,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_300: "300",
     t1_q_500: "500",
     t1_q_100: "100",
+    t1_inst_interactive: "Ziehe die Blöcke, um 300 + 200 zu addieren!",
+    t1_h1_interactive: "300 und 200 zusammen",
+    t1_h2_interactive: "Sollte gleich 500 sein",
     t2_title: "Zahlen auseinander nehmen",
     t2_text: "Große Zahlen bestehen aus kleineren! 500 teilt sich in 200 und 300. Es kann sich auch in 100 und 400 teilen. Gleiche Zahl, verschiedene Teile!",
     t2_b1: "Eine große Zahl teilt sich",
@@ -230,6 +242,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300",
     t2_q_100: "100",
     t2_q_400: "400",
+    t2_inst_interactive: "Ziehe die Blöcke, um 500 = 200 + ? zu vervollständigen",
+    t2_h1_interactive: "500 teilt sich in Teile",
+    t2_h2_interactive: "200 und 300 zusammen machen 500",
     t3_title: "Zahlenstrahl-Addition",
     t3_text: "Benutze einen Zahlenstrahl zum Addieren! Starte bei 234, springe 100 vorwärts. Wo landest du? 234 + 100 = 334!",
     t3_b1: "Starte bei der ersten Zahl",
@@ -243,6 +258,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_355: "355",
     t3_q_345: "345",
     t3_q_435: "435",
+    t3_inst_interactive: "Benutze die Zahlenlinie: 234 + 100 = ?",
+    t3_h1_interactive: "Starte bei 234 und springe 100 Plätze rechts",
+    t3_h2_interactive: "Du landest bei 334",
   },
   hu: {
     explorer_title: "Összeadás felfedezés",
@@ -261,6 +279,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_300: "300",
     t1_q_500: "500",
     t1_q_100: "100",
+    t1_inst_interactive: "Húzd a blokkokat, hogy 300 + 200-at adj össze!",
+    t1_h1_interactive: "300 és 200 együtt",
+    t1_h2_interactive: "Legyen egyenlő 500-zal",
     t2_title: "Számok szétdarabolása",
     t2_text: "A nagy számok kis számokból vannak! Az 500 200-ra és 300-ra bomlik. Bomolódhat 100-ra és 400-ra is. Ugyanaz a szám, más részek!",
     t2_b1: "Egy nagy szám szétválik",
@@ -274,6 +295,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300",
     t2_q_100: "100",
     t2_q_400: "400",
+    t2_inst_interactive: "Húzd a blokkokat, hogy kitöltsd: 500 = 200 + ?",
+    t2_h1_interactive: "500 darabokra bomlik",
+    t2_h2_interactive: "200 és 300 együtt 500-at ad",
     t3_title: "Számegyenes-összeadás",
     t3_text: "Használj számegyenest az összeadáshoz! Indulj 234-ből, ugorj előre 100-at. Hol érsz? 234 + 100 = 334!",
     t3_b1: "Indulj az első számnál",
@@ -287,6 +311,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_355: "355",
     t3_q_345: "345",
     t3_q_435: "435",
+    t3_inst_interactive: "Használd a számegyenest: 234 + 100 = ?",
+    t3_h1_interactive: "Indulj 234-ből és ugorj 100 helyet jobbra",
+    t3_h2_interactive: "334-nél érsz",
   },
   ro: {
     explorer_title: "Explorare adunare",
@@ -305,6 +332,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_300: "300",
     t1_q_500: "500",
     t1_q_100: "100",
+    t1_inst_interactive: "Trage blocurile pentru a aduna 300 + 200!",
+    t1_h1_interactive: "300 și 200 împreună",
+    t1_h2_interactive: "Ar trebui să fie egal cu 500",
     t2_title: "Sparge numerele în bucăți",
     t2_text: "Numerele mari sunt din numere mici! 500 se împarte în 200 și 300. Se poate și în 100 și 400. Același număr, alte bucăți!",
     t2_b1: "Un număr mare se despică",
@@ -318,6 +348,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_300: "300",
     t2_q_100: "100",
     t2_q_400: "400",
+    t2_inst_interactive: "Trage blocurile pentru a completa 500 = 200 + ?",
+    t2_h1_interactive: "500 se împarte în bucăți",
+    t2_h2_interactive: "200 și 300 împreună fac 500",
     t3_title: "Adunare pe linia numerelor",
     t3_text: "Folosește o linie de numere pentru adunare! Începe la 234, sari 100 înainte. Unde aterizezi? 234 + 100 = 334!",
     t3_b1: "Începe la primul număr",
@@ -331,8 +364,82 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_355: "355",
     t3_q_345: "345",
     t3_q_435: "435",
+    t3_inst_interactive: "Folosește linia de numere: 234 + 100 = ?",
+    t3_h1_interactive: "Începe la 234 și sari 100 spații la dreapta",
+    t3_h2_interactive: "Aterizezi la 334",
   },
 };
+
+// ─── TOPICS ARRAY (TOPIC MODE) ────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // Topic 1: Commutative property
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang: string) => <CommutativeSvg group1={200} group2={300} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [200, 300],
+      answer: 500,
+      blockIcon: "🔢",
+      instruction: "t1_inst_interactive",
+      hint1: "t1_h1_interactive",
+      hint2: "t1_h2_interactive",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_100", "t1_q_200", "t1_q_300", "t1_q_500"],
+      answer: "t1_q_200",
+    },
+  },
+  // Topic 2: Decomposition
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang: string) => <DecompositionAddSvg total={500} part1={200} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [200, 300],
+      answer: 500,
+      blockIcon: "🔢",
+      instruction: "t2_inst_interactive",
+      hint1: "t2_h1_interactive",
+      hint2: "t2_h2_interactive",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_100", "t2_q_200", "t2_q_300", "t2_q_400"],
+      answer: "t2_q_200",
+    },
+  },
+  // Topic 3: Mental math on number line
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang: string) => <MentalMathLineSvg start={234} jump={100} lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      min: 200,
+      max: 400,
+      start: 234,
+      target: 334,
+      instruction: "t3_inst_interactive",
+      hint1: "t3_h1_interactive",
+      hint2: "t3_h2_interactive",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_345", "t3_q_355", "t3_q_435", "t3_q_445"],
+      answer: "t3_q_445",
+    },
+  },
+];
 
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
@@ -340,83 +447,8 @@ const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "➕",
-  rounds: [
-    // ─ R1: Commutative property ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <CommutativeSvg group1={200} group2={300} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <CommutativeSvg group1={200} group2={300} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_100", "t1_q_200", "t1_q_300", "t1_q_500"],
-          answer: "t1_q_200",
-        },
-      ],
-    },
-
-    // ─ R2: Decomposition ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: () => <DecompositionAddSvg total={500} part1={200} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: () => <DecompositionAddSvg total={500} part1={200} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_100", "t2_q_200", "t2_q_300", "t2_q_400"],
-          answer: "t2_q_200",
-        },
-      ],
-    },
-
-    // ─ R3: Mental math on number line ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <MentalMathLineSvg start={234} jump={100} lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang: string) => <MentalMathLineSvg start={234} jump={100} lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_345", "t3_q_355", "t3_q_435", "t3_q_445"],
-          answer: "t3_q_445",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_100", "t1_q_200", "t1_q_300", "t1_q_500"],
-          answer: "t1_q_200",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_100", "t2_q_200", "t2_q_300", "t2_q_400"],
-          answer: "t2_q_200",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

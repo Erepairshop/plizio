@@ -4,7 +4,7 @@
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Place value visualization (3-digit breakdown) ─────────────────────
 
@@ -160,9 +160,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Each digit has a place value",
     t1_b2: "The leftmost digit is hundreds",
     t1_b3: "Add the parts together to get the number",
-    t1_inst: "What is 5 hundreds + 3 tens + 2 ones?",
-    t1_h1: "Think: 500 + 30 + 2",
-    t1_h2: "5 hundreds = 500, 3 tens = 30, 2 ones = 2",
+    t1_inst: "Drag the blocks to show 5 hundreds + 3 tens + 2 ones",
+    t1_h1: "Think: 5 purple blocks (hundreds), 3 red blocks (tens), 2 yellow circles (ones)",
+    t1_h2: "The total is 532",
     t1_q: "Which number is 2 hundreds + 6 tens + 8 ones?",
     t1_q_268: "268",
     t1_q_286: "286",
@@ -174,7 +174,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Decomposition shows the place values",
     t2_b2: "Hundreds always go first",
     t2_b3: "Zeros mean 'no tens' or 'no ones'",
-    t2_inst: "Break 407 into hundreds, tens, and ones.",
+    t2_inst: "Click the parts to build 407 = 400 + 0 + 7",
     t2_h1: "407 has 4 hundreds and 7 ones",
     t2_h2: "No tens, so it's 400 + 0 + 7",
     t2_q: "Which decomposition is correct for 520?",
@@ -188,7 +188,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "The number line goes from 0 to 400 (or more)",
     t3_b2: "Hundreds are big jumps (0, 100, 200, 300...)",
     t3_b3: "We can locate any 3-digit number",
-    t3_inst: "Where is 275 on a number line from 0 to 400?",
+    t3_inst: "Tap the correct position of 275 on the number line",
     t3_h1: "275 = 2 hundreds + 75, so it's past 200",
     t3_h2: "It's between 200 and 300, closer to 300",
     t3_q: "Which number is between 300 and 400 on the number line?",
@@ -207,9 +207,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Jede Ziffer hat einen Stellenwert",
     t1_b2: "Die linke Ziffer ist der Hunderter",
     t1_b3: "Addiere die Teile zusammen",
-    t1_inst: "Was ist 5 Hunderter + 3 Zehner + 2 Einer?",
-    t1_h1: "Denk: 500 + 30 + 2",
-    t1_h2: "5 Hunderter = 500, 3 Zehner = 30, 2 Einer = 2",
+    t1_inst: "Ziehe die Blöcke, um 5 Hunderter + 3 Zehner + 2 Einer zu zeigen",
+    t1_h1: "Denk: 5 lila Blöcke (Hunderter), 3 rote Blöcke (Zehner), 2 gelbe Kreise (Einer)",
+    t1_h2: "Die Gesamtzahl ist 532",
     t1_q: "Welche Zahl ist 2 Hunderter + 6 Zehner + 8 Einer?",
     t1_q_268: "268",
     t1_q_286: "286",
@@ -220,7 +220,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Zerlegung zeigt die Stellenwerte",
     t2_b2: "Hunderter kommen immer zuerst",
     t2_b3: "Nullen bedeuten 'keine Zehner' oder 'keine Einer'",
-    t2_inst: "Zerlege 407 in Hunderter, Zehner und Einer.",
+    t2_inst: "Klicke auf die Teile, um 407 = 400 + 0 + 7 zu bauen",
     t2_h1: "407 hat 4 Hunderter und 7 Einer",
     t2_h2: "Keine Zehner, also 400 + 0 + 7",
     t2_q: "Welche Zerlegung ist richtig für 520?",
@@ -233,7 +233,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Der Zahlenstrahl geht von 0 bis 400 (oder mehr)",
     t3_b2: "Hunderter sind große Sprünge (0, 100, 200, 300...)",
     t3_b3: "Wir können jede dreistellige Zahl finden",
-    t3_inst: "Wo ist 275 auf einem Zahlenstrahl von 0 bis 400?",
+    t3_inst: "Tippe auf die richtige Position von 275 auf dem Zahlenstrahl",
     t3_h1: "275 = 2 Hunderter + 75, also nach 200",
     t3_h2: "Es ist zwischen 200 und 300, näher bei 300",
     t3_q: "Welche Zahl liegt zwischen 300 und 400?",
@@ -252,9 +252,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Minden számjegynek van helyiértéke",
     t1_b2: "A bal szélső számjegy a százas",
     t1_b3: "Add össze az részeket",
-    t1_inst: "Mi az 5 százas + 3 tízes + 2 egyes?",
-    t1_h1: "Gondolkozz: 500 + 30 + 2",
-    t1_h2: "5 százas = 500, 3 tízes = 30, 2 egyes = 2",
+    t1_inst: "Húzd a blokkokat az 5 százas + 3 tízes + 2 egyes megmutatásához",
+    t1_h1: "Gondolkozz: 5 lila blokk (százas), 3 piros blokk (tízes), 2 sárga kör (egyes)",
+    t1_h2: "Az összeg 532",
     t1_q: "Melyik szám az 2 százas + 6 tízes + 8 egyes?",
     t1_q_268: "268",
     t1_q_286: "286",
@@ -265,7 +265,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "A szétbontás mutatja a helyiértékeket",
     t2_b2: "A százas mindig az első",
     t2_b3: "A nullák azt jelentik, hogy 'nincsenek tízesek' vagy 'nincsenek egyesek'",
-    t2_inst: "Bontsd szét a 407-et százasra, tízesre és egyesre.",
+    t2_inst: "Kattints a részekre az 407 = 400 + 0 + 7 felépítéséhez",
     t2_h1: "A 407-ben van 4 százas és 7 egyes",
     t2_h2: "Nincsenek tízesek, szóval 400 + 0 + 7",
     t2_q: "Melyik szétbontás helyes az 520-ra?",
@@ -278,7 +278,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "A számegyenes 0-tól 400-ig megy (vagy több)",
     t3_b2: "A százasok nagy ugrások (0, 100, 200, 300...)",
     t3_b3: "Bármelyik háromjegyű számot meg tudjuk találni",
-    t3_inst: "Hol van a 275 a 0-tól 400-ig tartó számegyenesen?",
+    t3_inst: "Kattints a 275 helyes pozíciójára a számegyenesen",
     t3_h1: "275 = 2 százas + 75, szóval a 200 után",
     t3_h2: "A 200 és 300 között van, közelebb a 300-hoz",
     t3_q: "Melyik szám van 300 és 400 között?",
@@ -297,9 +297,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Fiecare cifră are o valoare pozițională",
     t1_b2: "Cifra din stânga sunt sutele",
     t1_b3: "Adaugă părțile pentru a obține numărul",
-    t1_inst: "Ce este 5 sute + 3 zeci + 2 unități?",
-    t1_h1: "Gândește: 500 + 30 + 2",
-    t1_h2: "5 sute = 500, 3 zeci = 30, 2 unități = 2",
+    t1_inst: "Trage blocurile pentru a arăta 5 sute + 3 zeci + 2 unități",
+    t1_h1: "Gândește: 5 blocuri mov (sute), 3 blocuri roșii (zeci), 2 cercuri galbene (unități)",
+    t1_h2: "Totalul este 532",
     t1_q: "Care este numărul cu 2 sute + 6 zeci + 8 unități?",
     t1_q_268: "268",
     t1_q_286: "286",
@@ -310,7 +310,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Descompunerea arată valorile poziționale",
     t2_b2: "Sutele vin întotdeauna primele",
     t2_b3: "Zerourile înseamnă 'fără zeci' sau 'fără unități'",
-    t2_inst: "Descompune 407 în sute, zeci și unități.",
+    t2_inst: "Clic pe părți pentru a construi 407 = 400 + 0 + 7",
     t2_h1: "407 are 4 sute și 7 unități",
     t2_h2: "Fără zeci, deci 400 + 0 + 7",
     t2_q: "Care descompunere este corectă pentru 520?",
@@ -323,7 +323,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Linia numerelor merge de la 0 la 400 (sau mai mult)",
     t3_b2: "Sutele sunt salturi mari (0, 100, 200, 300...)",
     t3_b3: "Putem localiza orice număr cu trei cifre",
-    t3_inst: "Unde este 275 pe o linie de numere de la 0 la 400?",
+    t3_inst: "Apasă pe poziția corectă a 275 pe linia numerelor",
     t3_h1: "275 = 2 sute + 75, deci după 200",
     t3_h2: "Este între 200 și 300, mai aproape de 300",
     t3_q: "Care număr este între 300 și 400?",
@@ -334,26 +334,28 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
+// ─── TOPIC DEFINITIONS ────────────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
-  labels: LABELS,
-  title: "explorer_title",
-  icon: "🔢",
-  rounds: [
-    // ─ R1: Hundreds-tens-ones composition ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <PlaceValueSvg number={347} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+const TOPICS: TopicDef[] = [
+  // Topic 1: Hundreds-tens-ones composition
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <PlaceValueSvg number={347} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      instruction: "t1_inst",
+      hints: ["t1_h1", "t1_h2"],
+      config: {
+        blocks: [
+          { type: "hundred", count: 5, color: "#B44DFF" },
+          { type: "ten", count: 3, color: "#FF6B6B" },
+          { type: "one", count: 2, color: "#FFD700" },
+        ],
+      },
     },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: () => <PlaceValueSvg number={347} />,
+    quiz: {
       questions: [
         {
           question: "t1_q",
@@ -362,20 +364,27 @@ const EXPLORER_DEF: ExplorerDef = {
         },
       ],
     },
+  },
 
-    // ─ R2: Decomposing numbers ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <DecompositionSvg number={534} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+  // Topic 2: Breaking numbers apart (decomposition)
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <DecompositionSvg number={534} lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      instruction: "t2_inst",
+      hints: ["t2_h1", "t2_h2"],
+      config: {
+        blocks: [
+          { type: "hundred", count: 4, color: "#B44DFF" },
+          { type: "ten", count: 0, color: "#FF6B6B" },
+          { type: "one", count: 7, color: "#FFD700" },
+        ],
+      },
     },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <DecompositionSvg number={534} lang={lang} />,
+    quiz: {
       questions: [
         {
           question: "t2_q",
@@ -384,20 +393,26 @@ const EXPLORER_DEF: ExplorerDef = {
         },
       ],
     },
+  },
 
-    // ─ R3: Number line and place values ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <NumberLinePVSvg number={275} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+  // Topic 3: Number line and place values
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <NumberLinePVSvg number={275} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      instruction: "t3_inst",
+      hints: ["t3_h1", "t3_h2"],
+      config: {
+        min: 0,
+        max: 400,
+        target: 275,
+        stepSize: 10,
+      },
     },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: () => <NumberLinePVSvg number={275} />,
+    quiz: {
       questions: [
         {
           question: "t3_q",
@@ -416,7 +431,17 @@ const EXPLORER_DEF: ExplorerDef = {
         },
       ],
     },
-  ],
+  },
+];
+
+// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
+
+const EXPLORER_DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🔢",
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────

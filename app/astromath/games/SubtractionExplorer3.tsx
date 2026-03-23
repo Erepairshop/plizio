@@ -1,10 +1,10 @@
 "use client";
 // SubtractionExplorer3 — Subtraction Island (Part-Whole Relationship, Decomposition, Mental Math to 1000)
-// Uses new topic-based ExplorerEngine mode
+// Topic mode with interactive blocks
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
 // ─── SVG: Part-whole relationship ────────────────────────────────────────────
 
@@ -181,9 +181,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Whole = Part A + Part B",
     t1_b2: "If you know two, find the third",
     t1_b3: "Subtraction is the opposite of addition",
-    t1_inst: "If 700 total and 300 taken, how many are left?",
-    t1_h1: "Start with 700, remove 300",
-    t1_h2: "What's left = 400",
+    t1_inst: "Drag the number to complete the part-whole relationship",
+    t1_h1: "The whole is at the top",
+    t1_h2: "Parts are at the bottom",
     t1_q: "If whole = 500 and part = 200, what is the other part?",
     t1_q_200: "200",
     t1_q_300: "300",
@@ -195,9 +195,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Subtraction breaks into steps",
     t2_b2: "Subtract one part at a time",
     t2_b3: "Same answer, easier to do",
-    t2_inst: "What is 600 − 200?",
-    t2_h1: "Start with 600, take 200",
-    t2_h2: "You have 400 left",
+    t2_inst: "Place numbers on the equation to solve the subtraction",
+    t2_h1: "Start with the top number",
+    t2_h2: "Subtract and find the result",
     t2_q: "800 − 300 = ?",
     t2_q_500: "500",
     t2_q_400: "400",
@@ -209,9 +209,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Start at the first number",
     t3_b2: "Jump backwards by the second",
     t3_b3: "Where you land = answer",
-    t3_inst: "What is 450 − 150?",
-    t3_h1: "Start at 450, move 150 to the left",
-    t3_h2: "You land at 300",
+    t3_inst: "Mark the start and jump point on the number line",
+    t3_h1: "Start position is marked",
+    t3_h2: "Jump backwards to find the answer",
     t3_q: "350 − 100 = ?",
     t3_q_250: "250",
     t3_q_300: "300",
@@ -229,9 +229,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Ganzes = Teil A + Teil B",
     t1_b2: "Wenn du zwei kennst, finde den dritten",
     t1_b3: "Subtraktion ist das Gegenteil von Addition",
-    t1_inst: "Wenn 700 insgesamt und 300 weg, wie viele bleiben?",
-    t1_h1: "Starte mit 700, nimm 300 weg",
-    t1_h2: "Was bleibt = 400",
+    t1_inst: "Ziehe die Zahl, um die Teil-Ganzes-Beziehung zu vervollständigen",
+    t1_h1: "Das Ganze ist oben",
+    t1_h2: "Die Teile sind unten",
     t1_q: "Wenn Ganzes = 500 und Teil = 200, was ist der andere Teil?",
     t1_q_200: "200",
     t1_q_300: "300",
@@ -242,9 +242,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Subtraktion zerlegt sich in Schritte",
     t2_b2: "Ziehe einen Teil nach dem anderen ab",
     t2_b3: "Gleiche Antwort, leichter zu rechnen",
-    t2_inst: "Was ist 600 − 200?",
-    t2_h1: "Starte mit 600, nimm 200 weg",
-    t2_h2: "Du hast 400 übrig",
+    t2_inst: "Platziere Zahlen in der Gleichung, um die Subtraktion zu lösen",
+    t2_h1: "Beginne mit der oberen Zahl",
+    t2_h2: "Subtrahiere und finde das Ergebnis",
     t2_q: "800 − 300 = ?",
     t2_q_500: "500",
     t2_q_400: "400",
@@ -255,9 +255,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Starte bei der ersten Zahl",
     t3_b2: "Springe rückwärts um die zweite",
     t3_b3: "Wo du landest = die Antwort",
-    t3_inst: "Was ist 450 − 150?",
-    t3_h1: "Starte bei 450, gehe 150 nach links",
-    t3_h2: "Du landest bei 300",
+    t3_inst: "Markiere den Start- und Sprungpunkt auf dem Zahlenstrahl",
+    t3_h1: "Startposition ist markiert",
+    t3_h2: "Springe rückwärts, um die Antwort zu finden",
     t3_q: "350 − 100 = ?",
     t3_q_250: "250",
     t3_q_300: "300",
@@ -275,9 +275,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Egész = Rész A + Rész B",
     t1_b2: "Ha kettőt tudsz, megtalálod a harmadikat",
     t1_b3: "A kivonás az összeadás ellenkezője",
-    t1_inst: "Ha 700 az egész és 300 elvett, mennyi marad?",
-    t1_h1: "Indulj 700-ból, vegyél el 300-at",
-    t1_h2: "Mi marad = 400",
+    t1_inst: "Húzd el a számot a rész-egész kapcsolat befejezéséhez",
+    t1_h1: "Az egész felül van",
+    t1_h2: "A részek alul vannak",
     t1_q: "Ha egész = 500 és rész = 200, mi a másik rész?",
     t1_q_200: "200",
     t1_q_300: "300",
@@ -288,9 +288,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "A kivonás lépésekre bomlik",
     t2_b2: "Vegyél el egyenként",
     t2_b3: "Ugyanaz az eredmény, könnyebb",
-    t2_inst: "Mi az 600 − 200?",
-    t2_h1: "Indulj 600-ból, vegyél el 200-at",
-    t2_h2: "Maradt 400",
+    t2_inst: "Helyezd el a számokat az egyenletben a kivonás megoldásához",
+    t2_h1: "Kezd a felső számmal",
+    t2_h2: "Vegyél el és találd meg az eredményt",
     t2_q: "800 − 300 = ?",
     t2_q_500: "500",
     t2_q_400: "400",
@@ -301,9 +301,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Indulj az első számnál",
     t3_b2: "Ugorj vissza a másodikkal",
     t3_b3: "Ahol érsz = a válasz",
-    t3_inst: "Mi az 450 − 150?",
-    t3_h1: "Indulj 450-ből, menj 150-et balra",
-    t3_h2: "300-nál érsz",
+    t3_inst: "Jelöld meg a start- és ugrási pontot a számegyenesen",
+    t3_h1: "A kezdőpozíció meg van jelölve",
+    t3_h2: "Ugorj vissza a válasz megtalálásához",
     t3_q: "350 − 100 = ?",
     t3_q_250: "250",
     t3_q_300: "300",
@@ -321,9 +321,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_b1: "Întreg = Partea A + Partea B",
     t1_b2: "Dacă cunoști două, găsește al treilea",
     t1_b3: "Scăderea este opusul adunării",
-    t1_inst: "Dacă 700 total și 300 luate, câte rămân?",
-    t1_h1: "Începe cu 700, ia 300",
-    t1_h2: "Ce rămâne = 400",
+    t1_inst: "Trage numărul pentru a completa relația parte-întreg",
+    t1_h1: "Întregul este sus",
+    t1_h2: "Părțile sunt jos",
     t1_q: "Dacă întreg = 500 și parte = 200, care este cealaltă parte?",
     t1_q_200: "200",
     t1_q_300: "300",
@@ -334,9 +334,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b1: "Scăderea se sparge în pași",
     t2_b2: "Scazi o parte la o dată",
     t2_b3: "Același răspuns, mai ușor",
-    t2_inst: "Ce este 600 − 200?",
-    t2_h1: "Începe cu 600, ia 200",
-    t2_h2: "Au rămas 400",
+    t2_inst: "Plasează numerele în ecuație pentru a rezolva scăderea",
+    t2_h1: "Începe cu numărul de sus",
+    t2_h2: "Scazi și găsești rezultatul",
     t2_q: "800 − 300 = ?",
     t2_q_500: "500",
     t2_q_400: "400",
@@ -347,9 +347,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Începe la primul număr",
     t3_b2: "Sari înapoi cu al doilea",
     t3_b3: "Unde aterizezi = răspuns",
-    t3_inst: "Ce este 450 − 150?",
-    t3_h1: "Începe la 450, mergi 150 la stânga",
-    t3_h2: "Aterizezi la 300",
+    t3_inst: "Marchează punctul de start și de salt pe linia numerelor",
+    t3_h1: "Poziția de start este marcată",
+    t3_h2: "Sari înapoi pentru a găsi răspunsul",
     t3_q: "350 − 100 = ?",
     t3_q_250: "250",
     t3_q_300: "300",
@@ -358,89 +358,83 @@ const LABELS: Record<string, Record<string, string>> = {
   },
 };
 
+// ─── TOPIC DEFINITIONS ──────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // Topic 1: Part-whole relationship
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <PartWholeSvg whole={700} part={300} lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+      blocks: ["700", "300", "400"],
+      target: "700 = 300 + 400",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_200", "t1_q_300", "t1_q_400", "t1_q_500"],
+      answer: "t1_q_300",
+    },
+  },
+  // Topic 2: Subtraction decomposition
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <SubDecompositionSvg total={600} taken={200} lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "equation",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+      blocks: ["600", "200", "400"],
+      target: "600 − 200 = 400",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_400", "t2_q_500", "t2_q_600", "t2_q_700"],
+      answer: "t2_q_500",
+    },
+  },
+  // Topic 3: Number line subtraction
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <SubtractionLineSvg start={450} step={150} lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+      start: 450,
+      step: 150,
+      min: 0,
+      max: 500,
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_250", "t3_q_300", "t3_q_350", "t3_q_400"],
+      answer: "t3_q_250",
+    },
+  },
+];
+
 // ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
 
 const EXPLORER_DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "➖",
-  rounds: [
-    // ─ R1: Part-whole relationship ─
-    {
-      type: "info",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <PartWholeSvg whole={700} part={300} lang={lang} />,
-      bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: (lang) => <PartWholeSvg whole={700} part={300} lang={lang} />,
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_200", "t1_q_300", "t1_q_400", "t1_q_500"],
-          answer: "t1_q_300",
-        },
-      ],
-    },
-
-    // ─ R2: Subtraction decomposition ─
-    {
-      type: "info",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <SubDecompositionSvg total={600} taken={200} lang={lang} />,
-      bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2_title",
-      infoText: "t2_text",
-      svg: (lang) => <SubDecompositionSvg total={600} taken={200} lang={lang} />,
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_400", "t2_q_500", "t2_q_600", "t2_q_700"],
-          answer: "t2_q_500",
-        },
-      ],
-    },
-
-    // ─ R3: Mental subtraction on number line ─
-    {
-      type: "info",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <SubtractionLineSvg start={450} step={150} lang={lang} />,
-      bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3_title",
-      infoText: "t3_text",
-      svg: (lang) => <SubtractionLineSvg start={450} step={150} lang={lang} />,
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_250", "t3_q_300", "t3_q_350", "t3_q_400"],
-          answer: "t3_q_250",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_200", "t1_q_300", "t1_q_400", "t1_q_500"],
-          answer: "t1_q_300",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_400", "t2_q_500", "t2_q_600", "t2_q_700"],
-          answer: "t2_q_500",
-        },
-      ],
-    },
-  ],
+  topics: TOPICS,
+  rounds: [],
 };
 
 // ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
