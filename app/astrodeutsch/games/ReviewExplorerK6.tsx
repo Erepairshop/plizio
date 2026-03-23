@@ -152,7 +152,10 @@ function MCQRound({
     const correct = opt === item.correct;
     setSelected(opt);
     setFeedback(correct ? "correct" : "wrong");
-    if (!correct && wrongCountRef) wrongCountRef.current++;
+    if (!correct && wrongCountRef) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: displayText, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= items.length) onDone();
       else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
