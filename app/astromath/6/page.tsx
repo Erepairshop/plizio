@@ -30,13 +30,14 @@ import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
 import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
-import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
-import NegativeNumberLine from "@/app/astromath/games/NegativeNumberLine";
-import PercentBar from "@/app/astromath/games/PercentBar";
-import RatioExplorer from "@/app/astromath/games/RatioExplorer";
-import AlgebraExplorer from "@/app/astromath/games/AlgebraExplorer";
-import StatExplorer from "@/app/astromath/games/StatExplorer";
+import NegativeNumbersExplorer6 from "@/app/astromath/games/NegativeNumberExplorer6";
+import PercentExplorer6 from "@/app/astromath/games/PercentExplorer6";
+import RatioExplorer6 from "@/app/astromath/games/RatioExplorer6";
+import AlgebraExplorer6 from "@/app/astromath/games/AlgebraExplorer6";
+import GeometryAreaExplorer6 from "@/app/astromath/games/AreaExplorer6";
+import MotionExplorer6 from "@/app/astromath/games/SpeedExplorer6";
+import DataExplorer6 from "@/app/astromath/games/StatExplorer6";
 import VisualChallenge from "@/app/astromath/games/VisualChallenge";
 import TrapezoidAreaCalc from "@/components/grade6-visual/TrapezoidAreaCalc";
 import PieChartRead from "@/components/grade6-visual/PieChartRead";
@@ -828,28 +829,28 @@ export default function AstroMathG6Page() {
           <ConceptExplorer color={bgColor} lang={lang} grade={6} onDone={handleMissionDone} />
         )}
         {screen === "word-problem-explorer" && (
-          <WordProblemExplorer color={bgColor} lang={lang} grade={6} onDone={handleMissionDone} />
+          <MotionExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "area-explorer" && (
-          <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <GeometryAreaExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "negative-number-line" && (
-          <NegativeNumberLine color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <NegativeNumbersExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "percent-bar" && (
-          <PercentBar color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PercentExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "ratio-explorer" && (
-          <RatioExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <RatioExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "algebra-explorer" && (
-          <AlgebraExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <AlgebraExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "stat-explorer" && (
-          <StatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <DataExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "visual-challenge" && activeMission?.visualType === "trapezoid-area" && (
           <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
