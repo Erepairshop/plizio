@@ -12,6 +12,9 @@ import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
 import { getUsername } from "@/lib/username";
 import BlockDrag from "@/components/interactive/BlockDrag";
 import NumberLineTap from "@/components/interactive/NumberLineTap";
+import BalanceScale from "@/components/interactive/BalanceScale";
+import CoordinatePicker from "@/components/interactive/CoordinatePicker";
+import RatioSlider from "@/components/interactive/RatioSlider";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -155,6 +158,37 @@ export type TopicInteractive =
       instruction: string;  // label key
       hint1: string;        // label key
       hint2: string;        // label key
+    }
+  | {
+      type: "balance-scale";
+      leftWeight: number;
+      rightInitial: number;
+      unitIcon?: string;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "coordinate-picker";
+      targetX: number;
+      targetY: number;
+      range?: number;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "ratio-slider";
+      baseValue: number;
+      basePrice: number;
+      targetValue: number;
+      targetPrice: number;
+      unitName?: string;
+      currency?: string;
+      tolerance?: number;
+      instruction: string;
+      hint1: string;
+      hint2: string;
     };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -974,6 +1008,55 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           step={inter.step}
                           showJumps={inter.showJumps}
                           jumpCount={inter.jumpCount}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "balance-scale") {
+                      return (
+                        <BalanceScale
+                          leftWeight={inter.leftWeight}
+                          rightInitial={inter.rightInitial}
+                          unitIcon={inter.unitIcon}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "coordinate-picker") {
+                      return (
+                        <CoordinatePicker
+                          targetX={inter.targetX}
+                          targetY={inter.targetY}
+                          range={inter.range}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "ratio-slider") {
+                      return (
+                        <RatioSlider
+                          baseValue={inter.baseValue}
+                          basePrice={inter.basePrice}
+                          targetValue={inter.targetValue}
+                          targetPrice={inter.targetPrice}
+                          unitName={inter.unitName}
+                          currency={inter.currency}
+                          tolerance={inter.tolerance}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}
