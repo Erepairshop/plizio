@@ -49,3 +49,4 @@ next-env.d.ts
 # Service account credentials (NEVER commit!)
 scripts/service-account.json
 supabase/.temp/
+.claude/
