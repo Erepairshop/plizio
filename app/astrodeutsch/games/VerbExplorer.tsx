@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -384,6 +385,7 @@ function Round3({
     const isCorrect = opt === item.answer;
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {
@@ -556,6 +558,7 @@ function Round5({
     const isCorrect = opt === item.answer;
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {

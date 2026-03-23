@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
 import DragToBucket from "./blocks/DragToBucket";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -395,6 +396,7 @@ function Round4({ color, lbl, wrongCountRef, onNext , showTeach, setShowTeach } 
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Speech Transform", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MCQ4.length) onNext();
@@ -472,6 +474,7 @@ function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } 
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Speech Transform", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MCQ5.length) onDone();

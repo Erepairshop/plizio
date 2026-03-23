@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─────────────────────────────────────────────────────────────
 // LABELS — ALL 4 LANGUAGES
@@ -121,6 +122,13 @@ const WordBuildExplorer = memo(function WordBuildExplorer({
 
     if (!correct) {
       wrongCountRef.current += 1;
+      fireWrongAnswer({
+        question: `Build: "${currentRound.resultWord}"`,
+        wrongAnswer: selectedOrder.map((i) => currentRound.parts[i]).join(" + "),
+        correctAnswer: currentRound.correctOrder.map((i) => currentRound.parts[i]).join(" + "),
+        topic: "Word Builder",
+        lang: lang as string,
+      });
     }
 
     setIsCorrect(correct);

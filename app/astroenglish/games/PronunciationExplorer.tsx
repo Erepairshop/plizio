@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // Types
 interface PronRound {
@@ -129,6 +130,13 @@ const PronunciationExplorer = memo(function PronunciationExplorer({
 
     if (!isCorrect) {
       wrongCountRef.current += 1;
+      fireWrongAnswer({
+        question: `${questionLabel}: "${currentRound.word}"`,
+        wrongAnswer: currentRound.options[idx],
+        correctAnswer: currentRound.options[currentRound.correctIndex],
+        topic: "Pronunciation",
+        lang: lang as string,
+      });
     }
 
     if (!isCorrect && currentRound.explanation) {

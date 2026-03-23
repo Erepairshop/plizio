@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import { CheckCircle2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 export interface MatchRound {
   pairs: { rule: string; example: string; explanation?: string }[];
@@ -172,6 +173,13 @@ const GrammarMatchExplorer = memo(function GrammarMatchExplorer({
       } else {
         // Wrong match - flash red and increment wrong count
         wrongCountRef.current += 1;
+        fireWrongAnswer({
+          question: `Match: "${pairs[selectedRule].rule}"`,
+          wrongAnswer: pairs[exampleOriginalIdx].example,
+          correctAnswer: pairs[selectedRule].example,
+          topic: "Grammar Match",
+          lang: lang as string,
+        });
         setFlashWrong(true);
         setSelectedExample(exampleOriginalIdx);
 

@@ -2,6 +2,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const TOTAL_ROUNDS = 5;
 
@@ -250,6 +251,7 @@ function TrafficExplorer({ color, lang = "de", onDone, onClose }: Props) {
   const handleMCQ = (selected: string, correct: string, setAns: (v: string) => void) => {
     totalRef.current++;
     if (selected === correct) scoreRef.current++;
+    else fireWrongAnswer({ question: "Traffic Explorer", wrongAnswer: t[selected] ?? selected, correctAnswer: t[correct] ?? correct, topic: "Traffic Explorer", lang });
     setAns(selected);
   };
 

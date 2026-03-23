@@ -7,6 +7,7 @@ import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton, speak } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -205,6 +206,7 @@ const SpellRace = memo(function SpellRace({
       // Wrong letter — flash red then return
       setWrongTile(tileIdx);
       setTimeout(() => setWrongTile(null), 400);
+      fireWrongAnswer({ question: currentWord, wrongAnswer: currentWord[tile.letterIndex] || "", correctAnswer: currentWord[expectedLetterIndex] || "", topic: "Spell Race", lang: "de" });
     }
   }, [phase, tiles, answer, currentWord, advance]);
 

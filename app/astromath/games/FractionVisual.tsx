@@ -8,6 +8,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── SVG Pizza ────────────────────────────────────────────────────────────────
 function pizzaSector(cx: number, cy: number, r: number, startA: number, endA: number): string {
@@ -292,8 +293,9 @@ const FractionVisual = memo(function FractionVisual({ color, onDone, onCorrect, 
       onCorrect?.();
     } else {
       onWrong?.();
+      fireWrongAnswer({ question: lbl.question, wrongAnswer: key, correctAnswer: correctKey, topic: "Fraction Visual", lang });
     }
-  }, [confirmed, correctKey, onCorrect, onWrong]);
+  }, [confirmed, correctKey, onCorrect, onWrong, lbl.question, lang]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) {

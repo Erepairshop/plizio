@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -208,6 +209,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: letter, wrongAnswer: type, correctAnswer: isVokal ? "vokal" : "konsonant", topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -312,6 +314,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: choice, correctAnswer: item.answer, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -402,6 +405,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.word, wrongAnswer: art, correctAnswer: item.article, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -495,6 +499,7 @@ function Round4({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: p, correctAnswer: item.punct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {

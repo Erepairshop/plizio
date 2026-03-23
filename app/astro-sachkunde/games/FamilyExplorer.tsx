@@ -2,6 +2,7 @@
 import { memo, useState, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Interface ───────────────────────────────────────────────────────────────
 interface Props {
@@ -517,9 +518,11 @@ function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
       totalRef.current += 1;
       if (chosenKey === currentQ.correctKey) {
         scoreRef.current += 1;
+      } else {
+        fireWrongAnswer({ question: currentQ.question, wrongAnswer: chosenKey, correctAnswer: currentQ.correctKey, topic: "Family Explorer", lang });
       }
     },
-    [locked, currentQ]
+    [locked, currentQ, lang]
   );
 
   // ─── Advance to next question or next round ─────────────────────────────────

@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -269,6 +270,7 @@ function Round2({
     setSelected(wi);
     if (wi !== item.nounIdx) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Capitalization", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= CAPITAL_SETS.length) onNext();
@@ -367,6 +369,7 @@ function Round4({
     setSelected(wi);
     if (wi !== item.brokenIdx) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Capitalization", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= BROKEN_SENTENCES.length) onNext();
@@ -432,6 +435,7 @@ function Round5({
     setSelected(wi);
     if (wi !== item.answer) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence?.join(" ") || "", wrongAnswer: String(wi), correctAnswer: String(item.answer), topic: "Capitalization", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= CAPITAL_QUIZ.length) onDone();

@@ -8,6 +8,7 @@ import { memo, useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -283,7 +284,11 @@ const MissingNumber = memo(function MissingNumber({
   const handleSelect = (opt: number) => {
     if (answered) return;
     setSelected(opt);
-    if (opt === q.answer) setScore(s => s + 1);
+    if (opt === q.answer) {
+      setScore(s => s + 1);
+    } else {
+      fireWrongAnswer({ question: q.parts.filter(Boolean).join(" "), wrongAnswer: String(opt), correctAnswer: String(q.answer), topic: "Missing Number", lang });
+    }
   };
 
   const handleNext = useCallback(() => {

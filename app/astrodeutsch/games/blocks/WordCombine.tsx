@@ -3,6 +3,7 @@
 // User taps chips (prefix, stem, suffix) in order to assemble a compound word
 import { memo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface WordCombineProps {
   prefix?: string;   // optional prefix (e.g. "be-")

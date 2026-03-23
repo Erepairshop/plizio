@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import TapToHighlight from "@/app/astrodeutsch/games/blocks/TapToHighlight";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -218,7 +219,10 @@ function Round2({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   const subjectColor = "#3b82f6";
   const [si, setSi] = useState(0);
   const handleDone = (correct: boolean) => {
-    if (!correct) wrongCountRef.current++;
+    if (!correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Parts", lang: "de" });
+    }
     if (si + 1 >= SUBJ_SENTENCES.length) onNext();
     else setSi(si + 1);
   };
@@ -252,7 +256,10 @@ function Round3({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   const predicateColor = "#ef4444";
   const [si, setSi] = useState(0);
   const handleDone = (correct: boolean) => {
-    if (!correct) wrongCountRef.current++;
+    if (!correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Parts", lang: "de" });
+    }
     if (si + 1 >= PRED_SENTENCES.length) onNext();
     else setSi(si + 1);
   };
@@ -291,9 +298,12 @@ function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   const [subjDone, setSubjDone] = useState(false);
 
   const q = BOTH_SENTENCES[qi];
-  const handleSubjDone = (c: boolean) => { if (!c) wrongCountRef.current++; setSubjDone(true); setPhase("predicate"); };
+  const handleSubjDone = (c: boolean) => { if (!c) { wrongCountRef.current++; fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Parts", lang: "de" }); } setSubjDone(true); setPhase("predicate"); };
   const handlePredDone = (c: boolean) => {
-    if (!c) wrongCountRef.current++;
+    if (!c) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Parts", lang: "de" });
+    }
     if (qi + 1 >= BOTH_SENTENCES.length) onNext();
     else { setQi(qi + 1); setPhase("subject"); setSubjDone(false); }
   };
@@ -369,7 +379,10 @@ function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lb
     if (revealed) return;
     setSelected(i);
     setRevealed(true);
-    if (i !== q.correct) wrongCountRef.current++;
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: q.sentence, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Sentence Parts", lang: "de" });
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= PART_QUIZ.length) onDone();

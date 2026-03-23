@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -233,7 +234,10 @@ function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
   const handleSelect = (p: Punct) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.punct) wrongCountRef.current++;
+    if (p !== item.punct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
@@ -393,7 +397,10 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
   const handleSelect = (opt: string) => {
     if (selected) return;
     setSelected(opt);
-    if (opt !== item.missing) wrongCountRef.current++;
+    if (opt !== item.missing) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.missing, topic: "Sentences", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= MISSING_WORD.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }
@@ -467,7 +474,10 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
   const handleSelect = (p: Punct) => {
     if (selected) return;
     setSelected(p);
-    if (p !== item.punct) wrongCountRef.current++;
+    if (p !== item.punct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
+    }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_REVIEW.length) setDone(true);
       else { setIdx(i => i + 1); setSelected(null); }

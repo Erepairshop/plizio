@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -321,7 +322,10 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     if (revealed) return;
     setSelected(i);
     setRevealed(true);
-    if (i !== q.correct) wrongCountRef.current++;
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: q.display, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= GAP_ITEMS.length) onNext();
@@ -378,7 +382,10 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     if (revealed) return;
     setSelected(i);
     setRevealed(true);
-    if (i !== q.correct) wrongCountRef.current++;
+    if (i !== q.correct) {
+      wrongCountRef.current++;
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+    }
   };
   const handleNext = () => {
     if (qi + 1 >= SPELL_QUIZ.length) onDone();

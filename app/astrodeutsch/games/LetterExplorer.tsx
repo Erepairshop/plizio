@@ -7,6 +7,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -300,6 +301,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: type, correctAnswer: correctType, topic: "Letters", lang: "de" });
       setWrongLetters(prev => {
         const updated = [...prev, letter];
         // If this is the last letter, report wrong letters immediately
@@ -456,6 +458,7 @@ function Round3({
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: pair[0], wrongAnswer: lower, correctAnswer: correct, topic: "Letters", lang: "de" });
     }
 
     setTimeout(() => {
@@ -582,6 +585,7 @@ function Round4({
   const handleReveal = () => {
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: sorted.join(""), wrongAnswer: tapped.join(""), correctAnswer: sorted.join(""), topic: "Letters", lang: "de" });
     }
     setRevealed(true);
   };
@@ -844,6 +848,7 @@ function Round5({
                   setTapped(prev => new Set([...prev, letter]));
                 } else {
                   wrongCountRef.current++;
+                  fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Letters", lang: "de" });
                 }
               }}
               className="w-14 h-14 rounded-2xl font-black text-3xl flex items-center justify-center"

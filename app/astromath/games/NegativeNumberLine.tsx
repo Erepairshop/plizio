@@ -6,6 +6,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Translations ─────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -214,6 +215,8 @@ const NegativeNumberLine = memo(function NegativeNumberLine({
     setTapped(value);
     if (value === round.target) {
       setScore((s) => s + 1);
+    } else {
+      fireWrongAnswer({ question: `${lbl.place} ${round.target}`, wrongAnswer: String(value), correctAnswer: String(round.target), topic: "Number Line", lang });
     }
     setPhase("feedback");
   }, [phase, round]);

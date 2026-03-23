@@ -3,6 +3,7 @@
 // User taps word chips to move them into answer slots in order
 import { memo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface SentenceReorderProps {
   words: string[];       // scrambled word tokens
@@ -28,6 +29,9 @@ const SentenceReorder = memo(function SentenceReorder({ words, correct, color, o
       const ok = newPlaced.every((w, i) => w === correct[i]);
       setIsCorrect(ok);
       setSubmitted(true);
+      if (!ok) {
+        fireWrongAnswer({ question: correct.join(" "), wrongAnswer: newPlaced.join(" "), correctAnswer: correct.join(" "), topic: "Sentence Reorder", lang: "de" });
+      }
       setTimeout(() => onDone(ok), 900);
     }
   };

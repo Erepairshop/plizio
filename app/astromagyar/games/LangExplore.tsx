@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useCallback } from "react";
 import { motion } from "framer-motion";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 import MondatRendezés from "@/components/magyar-visual/MondatRendezés";
 import SzófajSorter from "@/components/magyar-visual/SzófajSorter";
 import HibaKeresés from "@/components/magyar-visual/HibaKeresés";
@@ -119,6 +120,16 @@ export default function LangExplore({ island, grade, onDone }: LangExploreProps)
     const isAnswerCorrect = userAnswer !== null && userAnswer !== undefined && String(userAnswer).trim() !== "";
     setIsCorrect(isAnswerCorrect);
     setSubmitted(true);
+
+    if (!isAnswerCorrect) {
+      fireWrongAnswer({
+        question: `Task ${taskIndex + 1}`,
+        wrongAnswer: String(userAnswer ?? ""),
+        correctAnswer: "(correct answer)",
+        topic: island.name.hu ?? "Magyar feladat",
+        lang: "hu",
+      });
+    }
 
     setTimeout(() => {
       const newCorrect = isAnswerCorrect ? correct + 1 : correct;

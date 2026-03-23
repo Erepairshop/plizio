@@ -42,6 +42,7 @@ import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
 import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
 import KasusMarkieren from "@/components/deutsch-visual/KasusMarkieren";
 import AdjektivEndungen from "@/components/deutsch-visual/AdjektivEndungen";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 type VisualType =
@@ -538,6 +539,9 @@ const DeutschVisualGame = memo(function DeutschVisualGame({
     setIsCorrect(correct);
     setSubmitted(true);
     if (correct) setScore((s) => s + 1);
+    else {
+      fireWrongAnswer({ question: task.type, wrongAnswer: userAnswer, correctAnswer: task.correctAnswer, topic: "Deutsch Visual", lang });
+    }
 
     // Auto-advance after 1.1s
     setTimeout(advance, 1100);

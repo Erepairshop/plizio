@@ -20,10 +20,45 @@ export interface MCQQuestion {
   answer: string;          // label key (correct choice)
 }
 
+/** Tap-count round: student taps emoji objects to count them */
+export interface TapCountConfig {
+  emoji: string;
+  count: number;
+}
+
+/** Compare round: student picks which group has more */
+export interface CompareConfig {
+  left: { emoji: string; count: number };
+  right: { emoji: string; count: number };
+}
+
+/** Match round: student pairs left items with right items */
+export interface MatchPairConfig {
+  pairs: { left: string; right: string }[];  // label keys
+}
+
+/** Sort round: student sorts items into categories */
+export interface SortConfig {
+  categories: { key: string; label: string }[];  // label keys for category names
+  items: { label: string; category: string }[];   // label key + which category key
+}
+
+/** Fill-in round: student types missing value */
+export interface FillInConfig {
+  prompt: string;          // label key with ___ for blank
+  answer: string;          // label key (correct answer)
+  hint?: string;           // label key
+}
+
+/** Custom round: renders an arbitrary React component */
+export interface CustomRoundConfig {
+  component: (props: { color: string; lang: string; onDone: (score: number, total: number) => void }) => React.ReactNode;
+}
+
 /** A single round definition */
 export interface RoundDef {
-  /** "info" = teach only (no question), "mcq" = multiple choice, "order" = tap-in-order */
-  type: "info" | "mcq" | "order";
+  /** Round type */
+  type: "info" | "mcq" | "order" | "tap-count" | "compare" | "match" | "sort" | "fill-in" | "custom";
   /** Label key for info screen title */
   infoTitle: string;
   /** Label key for info screen text */
@@ -38,13 +73,25 @@ export interface RoundDef {
   hintKey?: string;
   /** Optional extra info text lines (label keys) — shown as bullet points below main text */
   bulletKeys?: string[];
+  /** For "tap-count": emoji counting config */
+  tapCount?: TapCountConfig;
+  /** For "compare": group comparison config */
+  compare?: CompareConfig;
+  /** For "match": pair matching config */
+  matchPairs?: MatchPairConfig;
+  /** For "sort": category sorting config */
+  sortConfig?: SortConfig;
+  /** For "fill-in": text input config */
+  fillIn?: FillInConfig;
+  /** For "custom": renders custom component */
+  custom?: CustomRoundConfig;
 }
 
 /** Full explorer content definition */
 export interface ExplorerDef {
   /** Labels object: Record<langCode, Record<labelKey, string>> */
   labels: Record<string, Record<string, string>>;
-  /** 5 rounds */
+  /** Rounds (typically 5, but flexible) */
   rounds: RoundDef[];
 }
 
@@ -58,6 +105,8 @@ interface Props {
   lang?: string;
   /** Unique ID for tracking play count (e.g. "bio_k5_fish"). If provided, enables AI enhanced mode on 2nd+ play. */
   explorerId?: string;
+  /** Grade level (1-8). Adjusts AI language complexity for the student's age. */
+  grade?: number;
   onDone?: (score: number, total: number) => void;
   onClose?: () => void;
 }
@@ -77,17 +126,17 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Engine Component
 // ─────────────────────────────────────────────────────────────────────────────
 
-type Phase = "info" | "question" | "think-first";
+type Phase = "info" | "question" | "think-first" | "interactive";
 
 // ─── Play count tracking (localStorage) ──────────────────────────────────
 function getPlayCount(id: string): number {
@@ -99,7 +148,7 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
@@ -119,7 +168,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   }, [explorerId]);
 
   const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>(aiEnhanced ? "think-first" : "info");
+  const firstIsInteractive = rounds[0] && (rounds[0].type === "tap-count" || rounds[0].type === "compare" || rounds[0].type === "fill-in" || rounds[0].type === "custom");
+  const [phase, setPhase] = useState<Phase>(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
   const [subIdx, setSubIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked] = useState(false);
@@ -178,8 +228,11 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
   const advanceRound = useCallback(() => {
     if (round < totalRounds - 1) {
+      const nextRound = rounds[round + 1];
+      const nextIsInteractive = nextRound && (nextRound.type === "tap-count" || nextRound.type === "compare" || nextRound.type === "fill-in" || nextRound.type === "custom");
       setRound(round + 1);
-      setPhase(aiEnhanced ? "think-first" : "info");
+      // Interactive rounds skip info phase (they ARE the visual experience)
+      setPhase(nextIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
       setSubIdx(0);
       setSelected(null);
       setLocked(false);
@@ -191,17 +244,37 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       onDone?.(scoreRef.current, totalRef.current);
     }
-  }, [round, totalRounds, onDone, aiEnhanced]);
+  }, [round, totalRounds, rounds, onDone, aiEnhanced]);
+
+  // State for interactive rounds (tap-count, compare, fill-in)
+  const [tapCountSet, setTapCountSet] = useState<Set<number>>(new Set());
+  const [tapCountRevealed, setTapCountRevealed] = useState(false);
+  const [compareSide, setCompareSide] = useState<"left" | "right" | null>(null);
+  const [compareRevealed, setCompareRevealed] = useState(false);
+  const [fillInValue, setFillInValue] = useState("");
+  const [fillInFeedback, setFillInFeedback] = useState<"correct" | "wrong" | null>(null);
+
+  const resetInteractiveState = useCallback(() => {
+    setTapCountSet(new Set());
+    setTapCountRevealed(false);
+    setCompareSide(null);
+    setCompareRevealed(false);
+    setFillInValue("");
+    setFillInFeedback(null);
+  }, []);
 
   const handleNext = useCallback(() => {
     if (currentRound.type === "info") {
       advanceRound();
+    } else if (currentRound.type === "tap-count" || currentRound.type === "compare" || currentRound.type === "fill-in" || currentRound.type === "custom") {
+      resetInteractiveState();
+      setPhase("interactive");
     } else {
       setSelected(null);
       setLocked(false);
       setPhase("question");
     }
-  }, [currentRound, advanceRound]);
+  }, [currentRound, advanceRound, resetInteractiveState]);
 
   const advanceSub = useCallback(() => {
     if (currentRound.type === "mcq" && subIdx < subCount - 1) {
@@ -302,9 +375,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     const topicText = L(currentRound.infoText);
     const result = await askAITutor({
       question: text,
-      context: `The student was asked to think about: "${topicTitle}". The correct info is: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
+      context: `Grade ${grade || "?"} student. Topic: "${topicTitle}". Correct info: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
       lang: langCode,
       maxTokens: 100,
+      grade,
     });
     setAiLoading(false);
     if (result) {
@@ -315,20 +389,27 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     }
   }, [aiLoading, currentRound, langCode, speak, L, ui.goodThought]);
 
-  // ── AI: Fun fact generation (enhanced mode) ────────────────────────────
+  // ── AI: Fun fact generation (enhanced mode) — 6s timeout ───────────────
   const loadFunFact = useCallback(async () => {
     if (!aiEnhanced || funFactLoading) return;
     setFunFactLoading(true);
     const topicTitle = L(currentRound.infoTitle);
-    const result = await askAITutor({
-      question: `Tell me a surprising, fun fact about "${topicTitle}" that a 10-14 year old would find amazing. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
-      context: topicTitle,
-      lang: langCode,
-      maxTokens: 100,
-    });
-    setFunFactLoading(false);
-    if (result) setFunFact(result);
-  }, [aiEnhanced, funFactLoading, currentRound, langCode, L]);
+    try {
+      const timeout = new Promise<null>((resolve) => setTimeout(() => resolve(null), 6000));
+      const request = askAITutor({
+        question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
+        context: `Grade ${grade || "?"}: ${topicTitle}`,
+        lang: langCode,
+        maxTokens: 100,
+        grade,
+      });
+      const result = await Promise.race([request, timeout]);
+      setFunFactLoading(false);
+      if (result) setFunFact(result);
+    } catch {
+      setFunFactLoading(false);
+    }
+  }, [aiEnhanced, funFactLoading, currentRound, langCode, L, grade]);
 
   // Load fun fact when entering info phase in enhanced mode
   useEffect(() => {
@@ -357,6 +438,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       correctAnswer: L(currentQ.answer),
       topic: L(currentRound.infoTitle),
       lang: langCode,
+      grade,
     });
     setAiLoading(false);
     if (result) {
@@ -374,8 +456,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     setAiResponse(null);
     const result = await askAITutor({
       question: text,
-      context: L(currentRound.infoTitle) + " — " + L(currentRound.infoText),
+      context: `Grade ${grade || "?"}: ${L(currentRound.infoTitle)} — ${L(currentRound.infoText)}`,
       lang: langCode,
+      grade,
     });
     setAiLoading(false);
     if (result) {
@@ -864,6 +947,271 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
               </div>
             </motion.div>
           )}
+          {/* ── TAP-COUNT PHASE ── */}
+          {phase === "interactive" && currentRound.type === "tap-count" && currentRound.tapCount && (() => {
+            const tc = currentRound.tapCount;
+            const allTapped = tapCountSet.size >= tc.count;
+            return (
+              <motion.div
+                key={`tapcount-${round}`}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                className="flex flex-col items-center gap-4 w-full"
+              >
+                <div className="flex items-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{ui.tapToCount}</p>
+                  <button onClick={() => speak(ui.tapToCount)}
+                    className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white shrink-0">
+                    <Volume2 size={14} />
+                  </button>
+                </div>
+
+                {/* Emoji grid */}
+                <div className="flex flex-wrap gap-3 justify-center">
+                  {Array.from({ length: tc.count }, (_, i) => (
+                    <motion.button key={i}
+                      onClick={() => { if (!tapCountRevealed) setTapCountSet(prev => { const n = new Set(prev); n.add(i); return n; }); }}
+                      className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl relative"
+                      style={{
+                        background: tapCountSet.has(i) ? `${color}33` : "rgba(255,255,255,0.06)",
+                        border: `2px solid ${tapCountSet.has(i) ? color : "rgba(255,255,255,0.12)"}`,
+                      }}
+                      animate={tapCountSet.has(i) ? { scale: [1, 1.15, 1] } : {}}
+                      transition={{ duration: 0.2 }}
+                    >
+                      {tc.emoji}
+                      {tapCountSet.has(i) && (
+                        <span className="absolute -top-2 -right-2 text-[10px] font-black rounded-full w-5 h-5 flex items-center justify-center"
+                          style={{ background: color, color: "white" }}>
+                          {Array.from(tapCountSet).sort((a, b) => a - b).indexOf(i) + 1}
+                        </span>
+                      )}
+                    </motion.button>
+                  ))}
+                </div>
+
+                {/* Counter */}
+                <div className="text-center">
+                  <span className="text-2xl font-black" style={{ color: allTapped ? "#00FF88" : color }}>
+                    {tapCountSet.size} / {tc.count}
+                  </span>
+                  <span className="text-white/40 text-sm ml-2">{ui.counted}</span>
+                </div>
+
+                {/* Reveal button */}
+                {allTapped && !tapCountRevealed && (
+                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+                    onClick={() => { setTapCountRevealed(true); scoreRef.current += 1; totalRef.current += 1; }}
+                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
+                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+                    whileTap={{ scale: 0.97 }}>
+                    {ui.tapReveal}
+                  </motion.button>
+                )}
+
+                {/* Result + Next */}
+                {tapCountRevealed && (
+                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+                    className="flex flex-col gap-2 items-center w-full">
+                    <div className="w-full rounded-2xl px-5 py-4"
+                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
+                      <p className="text-center text-sm font-bold text-white/60">{ui.great}</p>
+                      <p className="text-center text-2xl font-black" style={{ color: "#00FF88" }}>
+                        {ui.thereAre} {tc.count} {tc.emoji} {ui.objects}
+                      </p>
+                    </div>
+                    <button onClick={() => { resetInteractiveState(); advanceRound(); }}
+                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+                    >
+                      {round + 1 >= totalRounds ? ui.finish : ui.next} <ChevronRight size={16} />
+                    </button>
+                  </motion.div>
+                )}
+              </motion.div>
+            );
+          })()}
+
+          {/* ── COMPARE PHASE ── */}
+          {phase === "interactive" && currentRound.type === "compare" && currentRound.compare && (() => {
+            const c = currentRound.compare;
+            const moreIsLeft = c.left.count > c.right.count;
+            const isEqual = c.left.count === c.right.count;
+            return (
+              <motion.div
+                key={`compare-${round}`}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                className="flex flex-col items-center gap-4 w-full"
+              >
+                <div className="flex items-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{ui.whichMore}</p>
+                  <button onClick={() => speak(ui.whichMore)}
+                    className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white shrink-0">
+                    <Volume2 size={14} />
+                  </button>
+                </div>
+
+                <div className="flex gap-4 w-full">
+                  {/* Left group */}
+                  <motion.button onClick={() => !compareRevealed && setCompareSide("left")}
+                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
+                    style={{
+                      background: compareSide === "left" ? `${color}22` : "rgba(255,255,255,0.04)",
+                      border: `2px solid ${compareSide === "left" ? color : "rgba(255,255,255,0.12)"}`,
+                    }}
+                    whileTap={!compareRevealed ? { scale: 0.97 } : {}}>
+                    <div className="flex flex-wrap gap-1.5 justify-center">
+                      {Array.from({ length: c.left.count }, (_, i) => (
+                        <span key={i} className="text-xl">{c.left.emoji}</span>
+                      ))}
+                    </div>
+                  </motion.button>
+                  {/* Right group */}
+                  <motion.button onClick={() => !compareRevealed && setCompareSide("right")}
+                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
+                    style={{
+                      background: compareSide === "right" ? `${color}22` : "rgba(255,255,255,0.04)",
+                      border: `2px solid ${compareSide === "right" ? color : "rgba(255,255,255,0.12)"}`,
+                    }}
+                    whileTap={!compareRevealed ? { scale: 0.97 } : {}}>
+                    <div className="flex flex-wrap gap-1.5 justify-center">
+                      {Array.from({ length: c.right.count }, (_, i) => (
+                        <span key={i} className="text-xl">{c.right.emoji}</span>
+                      ))}
+                    </div>
+                  </motion.button>
+                </div>
+
+                {/* Reveal button */}
+                {compareSide && !compareRevealed && (
+                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+                    onClick={() => {
+                      setCompareRevealed(true);
+                      totalRef.current += 1;
+                      const correctSide = isEqual ? compareSide : moreIsLeft ? "left" : "right";
+                      if (compareSide === correctSide) scoreRef.current += 1;
+                    }}
+                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
+                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+                    whileTap={{ scale: 0.97 }}>
+                    {ui.tapReveal}
+                  </motion.button>
+                )}
+
+                {/* Result */}
+                {compareRevealed && (
+                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+                    className="flex flex-col gap-2 items-center w-full">
+                    <div className="w-full rounded-2xl px-5 py-4"
+                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
+                      <p className="text-center text-sm font-bold text-white/60">
+                        {ui.leftHas} {c.left.count} · {ui.rightHas} {c.right.count}
+                      </p>
+                      <p className="text-center text-2xl font-black mt-1" style={{ color: "#00FF88" }}>
+                        {isEqual ? ui.isEqual : `${moreIsLeft ? c.left.count : c.right.count} ${ui.isMore}`}
+                      </p>
+                    </div>
+                    <button onClick={() => { resetInteractiveState(); advanceRound(); }}
+                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+                    >
+                      {round + 1 >= totalRounds ? ui.finish : ui.next} <ChevronRight size={16} />
+                    </button>
+                  </motion.div>
+                )}
+              </motion.div>
+            );
+          })()}
+
+          {/* ── FILL-IN PHASE ── */}
+          {phase === "interactive" && currentRound.type === "fill-in" && currentRound.fillIn && (() => {
+            const fi = currentRound.fillIn;
+            return (
+              <motion.div
+                key={`fillin-${round}`}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                className="flex flex-col items-center gap-4 w-full"
+              >
+                <h3 className="text-lg font-bold text-center text-white/80">{L(fi.prompt)}</h3>
+                {fi.hint && <p className="text-xs text-white/40 text-center">{L(fi.hint)}</p>}
+
+                <input
+                  type="text"
+                  value={fillInValue}
+                  onChange={(e) => setFillInValue(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" && fillInValue.trim() && !fillInFeedback) {
+                      totalRef.current += 1;
+                      const correct = fillInValue.trim().toLowerCase() === L(fi.answer).toLowerCase();
+                      if (correct) scoreRef.current += 1;
+                      setFillInFeedback(correct ? "correct" : "wrong");
+                    }
+                  }}
+                  disabled={!!fillInFeedback}
+                  placeholder={ui.typeAnswer}
+                  className="w-full bg-white/10 border-2 rounded-xl px-4 py-3 text-center text-lg font-bold text-white placeholder:text-white/30 focus:outline-none transition-colors"
+                  style={{ borderColor: fillInFeedback === "correct" ? "#00FF88" : fillInFeedback === "wrong" ? "#FF4444" : `${color}40` }}
+                />
+
+                {!fillInFeedback && fillInValue.trim() && (
+                  <button
+                    onClick={() => {
+                      totalRef.current += 1;
+                      const correct = fillInValue.trim().toLowerCase() === L(fi.answer).toLowerCase();
+                      if (correct) scoreRef.current += 1;
+                      setFillInFeedback(correct ? "correct" : "wrong");
+                    }}
+                    className="px-6 py-2.5 rounded-xl font-bold text-sm"
+                    style={{ background: `${color}33`, border: `2px solid ${color}`, color }}
+                  >
+                    {ui.check}
+                  </button>
+                )}
+
+                {fillInFeedback && (
+                  <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col items-center gap-3 w-full">
+                    <span className={`font-bold text-sm ${fillInFeedback === "correct" ? "text-green-400" : "text-red-400"}`}>
+                      {fillInFeedback === "correct" ? ui.correct : `${ui.wrong} → ${L(fi.answer)}`}
+                    </span>
+                    <button onClick={() => { resetInteractiveState(); advanceRound(); }}
+                      className="w-full py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+                    >
+                      {round + 1 >= totalRounds ? ui.finish : ui.next} <ChevronRight size={16} />
+                    </button>
+                  </motion.div>
+                )}
+              </motion.div>
+            );
+          })()}
+
+          {/* ── CUSTOM PHASE ── */}
+          {phase === "interactive" && currentRound.type === "custom" && currentRound.custom && (
+            <motion.div
+              key={`custom-${round}`}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+              className="w-full"
+            >
+              {currentRound.custom.component({
+                color,
+                lang: langCode,
+                onDone: (s, t) => {
+                  scoreRef.current += s;
+                  totalRef.current += t;
+                  resetInteractiveState();
+                  advanceRound();
+                },
+              })}
+            </motion.div>
+          )}
+
         </AnimatePresence>
       </div>
     </div>

@@ -1,320 +1,227 @@
 "use client";
-// CountingExplorer — Visual counting & comparing for Grade 1 (island i1)
-// Teaches: count objects by tapping, compare two groups.
-// Step-by-step, no wrong answers — pure guided discovery.
+// CountingExplorer — Counting & comparing for Grade 1 (island i1)
+// Now powered by ExplorerEngine v2
 
-import { memo, useState, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── Translations ────────────────────────────────────────────────────────────
-const LABELS: Record<string, Record<string, string>> = {
+// ─── SVG Counting Grid ────────────────────────────────────────────────────────────
+const CountingSvg = memo(function CountingSvg({ emoji = "🍎", count = 4 }: { emoji?: string; count?: number }) {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      {/* Background gradient */}
+      <defs>
+        <linearGradient id="countGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#06B6D4" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#countGrad)" rx="12" />
+
+      {/* Emoji grid */}
+      <g transform="translate(100, 55)">
+        {Array.from({ length: count }, (_, i) => {
+          const cols = Math.ceil(Math.sqrt(count));
+          const row = Math.floor(i / cols);
+          const col = i % cols;
+          const x = (col - cols / 2 + 0.5) * 30;
+          const y = (row - Math.ceil(count / cols) / 2 + 0.5) * 30;
+          return (
+            <text
+              key={`emoji-${i}`}
+              x={x}
+              y={y}
+              fontSize="24"
+              textAnchor="middle"
+              dominantBaseline="middle"
+              opacity="0.9"
+            >
+              {emoji}
+            </text>
+          );
+        })}
+      </g>
+
+      {/* Count label */}
+      <text x="100" y="105" fontSize="12" fontWeight="bold" fill="#0891B2" textAnchor="middle">
+        Total: {count}
+      </text>
+    </svg>
+  );
+});
+
+// ─── SVG Comparison ───────────────────────────────────────────────────────────────
+const CompareSvg = memo(function CompareSvg({
+  leftEmoji = "🐱",
+  leftCount = 3,
+  rightEmoji = "🐶",
+  rightCount = 5
+}: {
+  leftEmoji?: string;
+  leftCount?: number;
+  rightEmoji?: string;
+  rightCount?: number;
+}) {
+  return (
+    <svg width={200} height={120} viewBox="0 0 200 120">
+      {/* Background gradient */}
+      <defs>
+        <linearGradient id="cmpGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#6EE7B7" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="120" fill="url(#cmpGrad)" rx="12" />
+
+      {/* Left group */}
+      <g transform="translate(50, 50)">
+        {Array.from({ length: leftCount }, (_, i) => {
+          const row = Math.floor(i / 2);
+          const col = i % 2;
+          const x = (col - 0.5) * 16;
+          const y = (row - Math.ceil(leftCount / 2) / 2 + 0.5) * 18;
+          return (
+            <text
+              key={`left-${i}`}
+              x={x}
+              y={y}
+              fontSize="18"
+              textAnchor="middle"
+              dominantBaseline="middle"
+            >
+              {leftEmoji}
+            </text>
+          );
+        })}
+      </g>
+
+      {/* VS text */}
+      <text x="100" y="55" fontSize="11" fontWeight="bold" fill="#10B981" textAnchor="middle" opacity="0.6">
+        VS
+      </text>
+
+      {/* Right group */}
+      <g transform="translate(150, 50)">
+        {Array.from({ length: rightCount }, (_, i) => {
+          const row = Math.floor(i / 2);
+          const col = i % 2;
+          const x = (col - 0.5) * 16;
+          const y = (row - Math.ceil(rightCount / 2) / 2 + 0.5) * 18;
+          return (
+            <text
+              key={`right-${i}`}
+              x={x}
+              y={y}
+              fontSize="18"
+              textAnchor="middle"
+              dominantBaseline="middle"
+            >
+              {rightEmoji}
+            </text>
+          );
+        })}
+      </g>
+
+      {/* Label: which is more */}
+      <text x="100" y="110" fontSize="10" fontWeight="bold" fill="#059669" textAnchor="middle">
+        {leftCount > rightCount ? "Left more" : rightCount > leftCount ? "Right more" : "Equal"}
+      </text>
+    </svg>
+  );
+});
+
+// ─── Labels ──────────────────────────────────────────────────────────────────────
+const LABELS = {
   en: {
     title: "Counting Explorer",
-    tapToCount: "Tap each one to count!",
-    counted: "counted",
-    great: "Great!",
-    thereAre: "There are",
-    objects: "objects!",
-    compare: "Which group has MORE?",
-    leftHas: "Left has",
-    rightHas: "Right has",
-    isMore: "is more!",
-    isEqual: "They are equal!",
-    tapReveal: "Tap to see the answer",
-    next: "Next",
-    ready: "Well done!",
+    intro: "Let's count and compare groups!",
+    count4: "How many apples are there?",
+    count6: "How many stars?",
+    cmp3v5: "Which group has MORE?",
+    cmp6v4: "Which group has MORE?",
   },
   hu: {
     title: "Számolás felfedezés",
-    tapToCount: "Koppints mindegyikre a számoláshoz!",
-    counted: "megszámolva",
-    great: "Szuper!",
-    thereAre: "Összesen",
-    objects: "van!",
-    compare: "Melyik csoportban van TÖBB?",
-    leftHas: "Bal oldalon",
-    rightHas: "Jobb oldalon",
-    isMore: "a több!",
-    isEqual: "Egyenlőek!",
-    tapReveal: "Koppints a válaszhoz",
-    next: "Következő",
-    ready: "Ügyes!",
+    intro: "Számoljunk és hasonlítsunk össze csoportokat!",
+    count4: "Hány alma van?",
+    count6: "Hány csillag?",
+    cmp3v5: "Melyik csoportban van több?",
+    cmp6v4: "Melyik csoportban van több?",
   },
   de: {
     title: "Zählen entdecken",
-    tapToCount: "Tippe auf jedes, um zu zählen!",
-    counted: "gezählt",
-    great: "Super!",
-    thereAre: "Es gibt",
-    objects: "Stück!",
-    compare: "Welche Gruppe hat MEHR?",
-    leftHas: "Links hat",
-    rightHas: "Rechts hat",
-    isMore: "ist mehr!",
-    isEqual: "Sie sind gleich!",
-    tapReveal: "Tippe für die Antwort",
-    next: "Weiter",
-    ready: "Toll gemacht!",
+    intro: "Zählen und Gruppen vergleichen!",
+    count4: "Wie viele Äpfel sind es?",
+    count6: "Wie viele Sterne?",
+    cmp3v5: "Welche Gruppe hat MEHR?",
+    cmp6v4: "Welche Gruppe hat MEHR?",
   },
   ro: {
     title: "Explorare numărare",
-    tapToCount: "Atinge fiecare pentru a număra!",
-    counted: "numărate",
-    great: "Super!",
-    thereAre: "Sunt",
-    objects: "obiecte!",
-    compare: "Care grup are MAI MULTE?",
-    leftHas: "Stânga are",
-    rightHas: "Dreapta are",
-    isMore: "este mai mult!",
-    isEqual: "Sunt egale!",
-    tapReveal: "Atinge pentru răspuns",
-    next: "Înainte",
-    ready: "Bravo!",
+    intro: "Să numărăm și să comparăm grupuri!",
+    count4: "Câte mere sunt?",
+    count6: "Câte stele?",
+    cmp3v5: "Care grup are MAI MULTE?",
+    cmp6v4: "Care grup are MAI MULTE?",
   },
 };
 
-// ─── Round data ──────────────────────────────────────────────────────────────
-type RoundType = "count" | "compare";
-interface CountRound { type: "count"; emoji: string; count: number }
-interface CompareRound { type: "compare"; leftEmoji: string; leftCount: number; rightEmoji: string; rightCount: number }
-type Round = CountRound | CompareRound;
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  rounds: [
+    {
+      type: "info",
+      infoTitle: "title",
+      infoText: "intro",
+      svg: () => <CountingSvg emoji="🍎" count={4} />,
+      bulletKeys: [],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title",
+      infoText: "count4",
+      svg: () => <CountingSvg emoji="🍎" count={4} />,
+      questions: [{ question: "count4", choices: ["3", "4", "5", "2"], answer: "4" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title",
+      infoText: "count6",
+      svg: () => <CountingSvg emoji="⭐" count={6} />,
+      questions: [{ question: "count6", choices: ["5", "6", "7", "4"], answer: "6" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title",
+      infoText: "cmp3v5",
+      svg: () => <CompareSvg leftEmoji="🐱" leftCount={3} rightEmoji="🐶" rightCount={5} />,
+      questions: [{ question: "cmp3v5", choices: ["Dogs (5)", "Cats (3)", "Equal"], answer: "Dogs (5)" }],
+    },
+    {
+      type: "mcq",
+      infoTitle: "title",
+      infoText: "intro",
+      svg: () => <CompareSvg leftEmoji="🍊" leftCount={6} rightEmoji="🍋" rightCount={4} />,
+      questions: [
+        { question: "count4", choices: ["3", "4", "5", "2"], answer: "4" },
+        { question: "cmp6v4", choices: ["Oranges (6)", "Lemons (4)", "Equal"], answer: "Oranges (6)" },
+        { question: "count6", choices: ["5", "6", "7", "4"], answer: "6" },
+      ],
+    },
+  ],
+};
 
-const ROUNDS: Round[] = [
-  { type: "count", emoji: "🍎", count: 4 },
-  { type: "count", emoji: "⭐", count: 6 },
-  { type: "compare", leftEmoji: "🐱", leftCount: 3, rightEmoji: "🐶", rightCount: 5 },
-  { type: "count", emoji: "🌸", count: 7 },
-  { type: "compare", leftEmoji: "🍊", leftCount: 6, rightEmoji: "🍋", rightCount: 4 },
-  { type: "count", emoji: "🦋", count: 5 },
-];
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-// ─── Emoji Grid ──────────────────────────────────────────────────────────────
-function EmojiGrid({ emoji, count, tapped, onTap, color }: {
-  emoji: string; count: number; tapped: Set<number>; onTap: (i: number) => void; color: string;
-}) {
-  return (
-    <div className="flex flex-wrap gap-3 justify-center">
-      {Array.from({ length: count }, (_, i) => (
-        <motion.button key={i} onClick={() => onTap(i)}
-          className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl relative"
-          style={{
-            background: tapped.has(i) ? `${color}33` : "rgba(255,255,255,0.06)",
-            border: `2px solid ${tapped.has(i) ? color : "rgba(255,255,255,0.12)"}`,
-          }}
-          animate={tapped.has(i) ? { scale: [1, 1.15, 1] } : {}}
-          transition={{ duration: 0.2 }}
-        >
-          {emoji}
-          {tapped.has(i) && (
-            <span className="absolute -top-2 -right-2 text-[10px] font-black rounded-full w-5 h-5 flex items-center justify-center"
-              style={{ background: color, color: "white" }}>
-              {i + 1}
-            </span>
-          )}
-        </motion.button>
-      ))}
-    </div>
-  );
-}
-
-// ─── Main Component ──────────────────────────────────────────────────────────
 const CountingExplorer = memo(function CountingExplorer({
-  color, onDone, lang = "en",
+  color = "#06B6D4",
+  onDone,
+  lang = "en",
 }: {
-  color: string;
-  onDone: (score: number, total: number) => void;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState(() => shuffle(ROUNDS));
-  const [idx, setIdx] = useState(0);
-  const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const [revealed, setRevealed] = useState(false);
-  // For compare rounds
-  const [chosenSide, setChosenSide] = useState<"left" | "right" | null>(null);
-
-  const round = rounds[idx];
-
-  const handleTap = useCallback((i: number) => {
-    if (revealed) return;
-    setTapped(prev => {
-      const next = new Set(prev);
-      if (!next.has(i)) next.add(i);
-      return next;
-    });
-  }, [revealed]);
-
-  const handleNext = useCallback(() => {
-    if (idx + 1 >= rounds.length) {
-      onDone(rounds.length, rounds.length);
-      return;
-    }
-    setIdx(i => i + 1);
-    setTapped(new Set());
-    setRevealed(false);
-    setChosenSide(null);
-  }, [idx, rounds.length, onDone]);
-
-  const isCountRound = round.type === "count";
-  const allTapped = isCountRound && tapped.size >= (round as CountRound).count;
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-3">
-      {/* Progress */}
-      <div className="flex gap-1.5 w-full">
-        {rounds.map((_, i) => (
-          <div key={i} className="flex-1 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }} />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div key={idx}
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
-          className="w-full flex flex-col items-center gap-3"
-        >
-          {/* COUNT round */}
-          {isCountRound && (() => {
-            const r = round as CountRound;
-            return (
-              <>
-                <div className="flex items-center justify-center gap-2">
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.tapToCount}</p>
-                  <SpeakButton text={lbl.tapToCount} lang={lang} size={14} />
-                </div>
-                <EmojiGrid emoji={r.emoji} count={r.count} tapped={tapped} onTap={handleTap} color={color} />
-
-                {/* Counter */}
-                <div className="text-center">
-                  <span className="text-2xl font-black" style={{ color: allTapped ? "#00FF88" : color }}>
-                    {tapped.size} / {r.count}
-                  </span>
-                  <span className="text-white/40 text-sm ml-2">{lbl.counted}</span>
-                </div>
-
-                {allTapped && !revealed && (
-                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    onClick={() => setRevealed(true)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapReveal}
-                  </motion.button>
-                )}
-
-                {revealed && (
-                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-                    className="flex flex-col gap-2 items-center w-full">
-                    <div className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
-                      <p className="text-center text-sm font-bold text-white/60">{lbl.great}</p>
-                      <p className="text-center text-2xl font-black" style={{ color: "#00FF88" }}>
-                        {lbl.thereAre} {r.count} {r.emoji} {lbl.objects}
-                      </p>
-                    </div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.ready : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </motion.div>
-                )}
-              </>
-            );
-          })()}
-
-          {/* COMPARE round */}
-          {!isCountRound && (() => {
-            const r = round as CompareRound;
-            const moreIsLeft = r.leftCount > r.rightCount;
-            const isEqual = r.leftCount === r.rightCount;
-            return (
-              <>
-                <div className="flex items-center justify-center gap-2">
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
-                  <SpeakButton text={lbl.compare} lang={lang} size={14} />
-                </div>
-                <div className="flex gap-4 w-full">
-                  {/* Left group */}
-                  <motion.button onClick={() => !revealed && setChosenSide("left")}
-                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
-                    style={{
-                      background: chosenSide === "left" ? `${color}22` : "rgba(255,255,255,0.04)",
-                      border: `2px solid ${chosenSide === "left" ? color : "rgba(255,255,255,0.12)"}`,
-                    }}
-                    whileTap={!revealed ? { scale: 0.97 } : {}}>
-                    <div className="flex flex-wrap gap-1.5 justify-center">
-                      {Array.from({ length: r.leftCount }, (_, i) => (
-                        <span key={i} className="text-xl">{r.leftEmoji}</span>
-                      ))}
-                    </div>
-                  </motion.button>
-                  {/* Right group */}
-                  <motion.button onClick={() => !revealed && setChosenSide("right")}
-                    className="flex-1 rounded-2xl p-3 flex flex-col items-center gap-2"
-                    style={{
-                      background: chosenSide === "right" ? `${color}22` : "rgba(255,255,255,0.04)",
-                      border: `2px solid ${chosenSide === "right" ? color : "rgba(255,255,255,0.12)"}`,
-                    }}
-                    whileTap={!revealed ? { scale: 0.97 } : {}}>
-                    <div className="flex flex-wrap gap-1.5 justify-center">
-                      {Array.from({ length: r.rightCount }, (_, i) => (
-                        <span key={i} className="text-xl">{r.rightEmoji}</span>
-                      ))}
-                    </div>
-                  </motion.button>
-                </div>
-
-                {chosenSide && !revealed && (
-                  <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    onClick={() => setRevealed(true)}
-                    className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                    style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.tapReveal}
-                  </motion.button>
-                )}
-
-                {revealed && (
-                  <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-                    className="flex flex-col gap-2 items-center w-full">
-                    <div className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
-                      <p className="text-center text-sm font-bold text-white/60">
-                        {lbl.leftHas} {r.leftCount} · {lbl.rightHas} {r.rightCount}
-                      </p>
-                      <p className="text-center text-2xl font-black mt-1" style={{ color: "#00FF88" }}>
-                        {isEqual ? lbl.isEqual : `${moreIsLeft ? r.leftCount : r.rightCount} ${lbl.isMore}`}
-                      </p>
-                    </div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.ready : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </motion.div>
-                )}
-              </>
-            );
-          })()}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={1} explorerId="math_g1_counting" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default CountingExplorer;

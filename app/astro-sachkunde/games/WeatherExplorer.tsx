@@ -7,6 +7,7 @@
 import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface Props {
   color: string;
@@ -428,8 +429,10 @@ function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
     totalRef.current += 1;
     if (choiceKey === correctKey) {
       scoreRef.current += 1;
+    } else {
+      fireWrongAnswer({ question: "Weather Explorer", wrongAnswer: (lbl as Record<string, string>)[choiceKey] ?? choiceKey, correctAnswer: (lbl as Record<string, string>)[correctKey] ?? correctKey, topic: "Weather Explorer", lang });
     }
-  }, [locked]);
+  }, [locked, lbl, lang]);
 
   // ── Render helpers ──────────────────────────────────────────────────────────
 

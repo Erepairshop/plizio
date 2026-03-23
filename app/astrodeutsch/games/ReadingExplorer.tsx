@@ -6,6 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -206,6 +207,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: em, correctAnswer: item.emoji, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -299,6 +301,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: stmt, correctAnswer: item.trueStmt, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -380,6 +383,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.missing, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -553,6 +557,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {

@@ -3,6 +3,7 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { fireWrongAnswer } from "@/components/AITutorOverlay";
 
 interface MemoryPair {
   word: string;
@@ -147,6 +148,13 @@ const MemoryPairExplorer = memo(function MemoryPairExplorer({
       }, 800);
     } else {
       wrongCountRef.current += 1;
+      fireWrongAnswer({
+        question: `Match pair: "${card1.content}"`,
+        wrongAnswer: card2.content,
+        correctAnswer: pairs[card1.pairIndex][card1.type === "word" ? "match" : "word"],
+        topic: "Memory Pairs",
+        lang: lang as string,
+      });
       setFeedback({ type: "wrong", show: true });
       setTimeout(() => setFeedback({ type: null, show: false }), 800);
 
