@@ -17,6 +17,12 @@ import CoordinatePicker from "@/components/interactive/CoordinatePicker";
 import RatioSlider from "@/components/interactive/RatioSlider";
 import EquationSolver from "@/components/interactive/EquationSolver";
 import GraphPlotter from "@/components/interactive/GraphPlotter";
+import WordOrder from "@/components/interactive/WordOrder";
+import GapFill from "@/components/interactive/GapFill";
+import DragToBucket from "@/components/interactive/DragToBucket";
+import SentenceBuild from "@/components/interactive/SentenceBuild";
+import MatchPairsInteractive from "@/components/interactive/MatchPairs";
+import HighlightText from "@/components/interactive/HighlightText";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -214,6 +220,53 @@ export type TopicInteractive =
       xLabel?: string;
       yLabel?: string;
       chartType?: "line" | "bar" | "scatter";
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "word-order";
+      words: string[];          // label keys for words (will be resolved via L())
+      correctOrder: number[];   // correct index order
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "gap-fill";
+      sentence: string;         // label key — sentence with "___" placeholder
+      choices: string[];        // label keys for 4 options
+      correctIndex: number;     // index of correct choice
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "drag-to-bucket";
+      buckets: { id: string; label: string }[];  // label keys for bucket names
+      items: { text: string; bucketId: string }[]; // label keys for item text + correct bucket id
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "sentence-build";
+      fragments: string[];      // label keys for fragments in CORRECT order
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "match-pairs";
+      pairs: { left: string; right: string }[];  // label keys
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "highlight-text";
+      tokens: string[];          // label keys for sentence tokens
+      correctIndices: number[];  // indices of correct tokens to highlight
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1123,6 +1176,89 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           xLabel={inter.xLabel}
                           yLabel={inter.yLabel}
                           chartType={inter.chartType}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "word-order") {
+                      return (
+                        <WordOrder
+                          words={inter.words.map(w => L(w))}
+                          correctOrder={inter.correctOrder}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "gap-fill") {
+                      return (
+                        <GapFill
+                          sentence={L(inter.sentence)}
+                          choices={inter.choices.map(c => L(c))}
+                          correctIndex={inter.correctIndex}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "drag-to-bucket") {
+                      return (
+                        <DragToBucket
+                          buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
+                          items={inter.items.map(i => ({ text: L(i.text), bucketId: i.bucketId }))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "sentence-build") {
+                      return (
+                        <SentenceBuild
+                          fragments={inter.fragments.map(f => L(f))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "match-pairs") {
+                      return (
+                        <MatchPairsInteractive
+                          pairs={inter.pairs.map(p => ({ left: L(p.left), right: L(p.right) }))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "highlight-text") {
+                      return (
+                        <HighlightText
+                          tokens={inter.tokens.map(t => L(t))}
+                          correctIndices={inter.correctIndices}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}

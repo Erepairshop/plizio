@@ -7,40 +7,42 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK (Cyber-Slate precíziós stílus) ──────────────
 
-const Topic1Svg = memo(({ labels }: { labels: Record<string, string> }) => (
-  <svg width="100%" viewBox="0 0 240 160">
-    <defs>
-      <linearGradient id="funcGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.2" />
-        <stop offset="100%" stopColor="#EC4899" stopOpacity="0.1" />
-      </linearGradient>
-    </defs>
-    <rect width="240" height="160" fill="url(#funcGrad1)" rx="24" />
-    <g transform="translate(120, 80)">
-      {/* Koordinátarendszer */}
-      <line x1="-90" y1="0" x2="90" y2="0" stroke="#94A3B8" strokeWidth="1" />
-      <line x1="0" y1="-60" x2="0" y2="60" stroke="#94A3B8" strokeWidth="1" />
-      {/* f(x) = x + 20 */}
-      <line x1="-60" y1="40" x2="60" y2="-80" stroke="#8B5CF6" strokeWidth="3" />
-      <circle cx="0" cy="-20" r="5" fill="#EC4899" />
-      <text x="10" y="-25" fontSize="12" fontWeight="bold" fill="#EC4899">{labels.t1_svg_label}</text>
-      <path d="M 20,-40 L 40,-40 L 40,-60" fill="none" stroke="#F472B6" strokeWidth="2" />
-      <text x="50" y="-45" fontSize="10" fill="#F472B6">{labels.t1_svg_slope}</text>
-    </g>
-  </svg>
-));
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 160">
+      <defs>
+        <linearGradient id="funcGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.2" />
+          <stop offset="100%" stopColor="#EC4899" stopOpacity="0.1" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="160" fill="url(#funcGrad1)" rx="24" />
+      <g transform="translate(120, 80)">
+        <line x1="-90" y1="0" x2="90" y2="0" stroke="#94A3B8" strokeWidth="1" />
+        <line x1="0" y1="-60" x2="0" y2="60" stroke="#94A3B8" strokeWidth="1" />
+        <line x1="-60" y1="40" x2="60" y2="-80" stroke="#8B5CF6" strokeWidth="3" />
+        <circle cx="0" cy="-20" r="5" fill="#EC4899" />
+        <text x="10" y="-25" fontSize="12" fontWeight="bold" fill="#EC4899">b</text>
+        <path d="M 20,-40 L 40,-40 L 40,-60" fill="none" stroke="#F472B6" strokeWidth="2" />
+        <text x="50" y="-45" fontSize="10" fill="#F472B6">m</text>
+      </g>
+    </svg>
+  );
+});
 
-const Topic2Svg = memo(({ labels }: { labels: Record<string, string> }) => (
-  <svg width="100%" viewBox="0 0 240 140">
-    <rect width="240" height="140" fill="#0F172A" rx="24" />
-    <g transform="translate(120, 70)">
-      <line x1="-80" y1="30" x2="80" y2="-30" stroke="#10B981" strokeWidth="3" />
-      <text x="0" y="-40" fontSize="16" fontWeight="bold" fill="#34D399" textAnchor="middle">f(x) = mx + b</text>
-      <text x="-50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">{labels.t2_svg_increasing}</text>
-      <text x="50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">{labels.t2_svg_decreasing}</text>
-    </g>
-  </svg>
-));
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="24" />
+      <g transform="translate(120, 70)">
+        <line x1="-80" y1="30" x2="80" y2="-30" stroke="#10B981" strokeWidth="3" />
+        <text x="0" y="-40" fontSize="16" fontWeight="bold" fill="#34D399" textAnchor="middle">f(x) = mx + b</text>
+        <text x="-50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m {">"} 0 ↗</text>
+        <text x="50" y="45" fontSize="12" fill="#94A3B8" textAnchor="middle">m {"<"} 0 ↘</text>
+      </g>
+    </svg>
+  );
+});
 
 const Topic3Svg = memo(() => (
   <svg width="100%" viewBox="0 0 240 140">
@@ -216,7 +218,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: ({ labels }) => <Topic1Svg labels={labels} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "graph-plotter",
@@ -245,7 +247,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: ({ labels }) => <Topic2Svg labels={labels} />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "ratio-slider",

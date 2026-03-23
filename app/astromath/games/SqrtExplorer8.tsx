@@ -7,48 +7,53 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK (Modern, matematikai precizitás) ─────────────
 
-const Topic1Svg = memo(({ labels }: { labels: Record<string, string> }) => (
-  <svg width="100%" viewBox="0 0 240 160">
-    <defs>
-      <linearGradient id="sqrtGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stopColor="#6366F1" stopOpacity="0.2" />
-        <stop offset="100%" stopColor="#A855F7" stopOpacity="0.05" />
-      </linearGradient>
-    </defs>
-    <rect width="240" height="160" fill="url(#sqrtGrad1)" rx="20" />
-    <g transform="translate(120, 80)">
-      {/* Square and its side */}
-      <rect x="-40" y="-40" width="80" height="80" fill="none" stroke="#6366F1" strokeWidth="3" />
-      <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#4F46E5" textAnchor="middle">{labels.t1_svg_area}</text>
-      <line x1="-40" y1="50" x2="40" y2="50" stroke="#A855F7" strokeWidth="2" />
-      <text x="0" y="65" fontSize="14" fontWeight="black" fill="#9333EA" textAnchor="middle">{labels.t1_svg_side}</text>
-    </g>
-  </svg>
-));
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 160">
+      <defs>
+        <linearGradient id="sqrtGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#6366F1" stopOpacity="0.2" />
+          <stop offset="100%" stopColor="#A855F7" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="160" fill="url(#sqrtGrad1)" rx="20" />
+      <g transform="translate(120, 80)">
+        <rect x="-40" y="-40" width="80" height="80" fill="none" stroke="#6366F1" strokeWidth="3" />
+        <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#4F46E5" textAnchor="middle">64</text>
+        <line x1="-40" y1="50" x2="40" y2="50" stroke="#A855F7" strokeWidth="2" />
+        <text x="0" y="65" fontSize="14" fontWeight="black" fill="#9333EA" textAnchor="middle">√64 = 8</text>
+      </g>
+    </svg>
+  );
+});
 
-const Topic2Svg = memo(({ labels }: { labels: Record<string, string> }) => (
-  <svg width="100%" viewBox="0 0 240 140">
-    <rect width="240" height="140" fill="#F5F3FF" rx="20" />
-    <g transform="translate(120, 70)">
-      <line x1="-100" y1="20" x2="100" y2="20" stroke="#7C3AED" strokeWidth="2" />
-      <text x="-60" y="45" fontSize="12" fontWeight="bold" fill="#6D28D9" textAnchor="middle">{labels.t2_svg_low}</text>
-      <text x="60" y="45" fontSize="12" fontWeight="bold" fill="#6D28D9" textAnchor="middle">{labels.t2_svg_high}</text>
-      <circle cx="-50" cy="20" r="5" fill="#C084FC" />
-      <text x="-50" y="-5" fontSize="14" fontWeight="black" fill="#7C3AED" textAnchor="middle">{labels.t2_svg_est}</text>
-    </g>
-  </svg>
-));
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <line x1="-100" y1="20" x2="100" y2="20" stroke="#7C3AED" strokeWidth="2" />
+        <text x="-60" y="45" fontSize="12" fontWeight="bold" fill="#6D28D9" textAnchor="middle">7 (√49)</text>
+        <text x="60" y="45" fontSize="12" fontWeight="bold" fill="#6D28D9" textAnchor="middle">8 (√64)</text>
+        <circle cx="-50" cy="20" r="5" fill="#C084FC" />
+        <text x="-50" y="-5" fontSize="14" fontWeight="black" fill="#7C3AED" textAnchor="middle">√50 ≈ 7.07</text>
+      </g>
+    </svg>
+  );
+});
 
-const Topic3Svg = memo(({ labels }: { labels: Record<string, string> }) => (
-  <svg width="100%" viewBox="0 0 240 140">
-    <rect width="240" height="140" fill="#FAF5FF" rx="20" />
-    <g transform="translate(120, 60)">
-      <text x="0" y="0" fontSize="22" fontWeight="black" fill="#6B21A8" textAnchor="middle">{labels.t3_svg_simp}</text>
-      <path d="M -40,15 Q 0,40 40,15" fill="none" stroke="#A855F7" strokeWidth="2" strokeDasharray="4 2" markerEnd="url(#arrow)" />
-      <text x="0" y="45" fontSize="12" fill="#7E22CE" textAnchor="middle">{labels.t3_svg_factor}</text>
-    </g>
-  </svg>
-));
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FAF5FF" rx="20" />
+      <g transform="translate(120, 60)">
+        <text x="0" y="0" fontSize="22" fontWeight="black" fill="#6B21A8" textAnchor="middle">√12 = 2√3</text>
+        <path d="M -40,15 Q 0,40 40,15" fill="none" stroke="#A855F7" strokeWidth="2" strokeDasharray="4 2" />
+        <text x="0" y="45" fontSize="12" fill="#7E22CE" textAnchor="middle">√4 · √3</text>
+      </g>
+    </svg>
+  );
+});
 
 // ─── LABELS ──────────────────────────────────────────────────────────
 
@@ -229,7 +234,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: ({ labels }) => <Topic1Svg labels={labels} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "ratio-slider",
@@ -252,7 +257,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: ({ labels }) => <Topic2Svg labels={labels} />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -274,7 +279,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: ({ labels }) => <Topic3Svg labels={labels} />,
+    svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "equation-solver",
