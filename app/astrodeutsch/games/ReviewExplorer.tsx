@@ -209,7 +209,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: type, correctAnswer: (isVokal, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: letter, wrongAnswer: type, correctAnswer: isVokal ? "vokal" : "konsonant", topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {

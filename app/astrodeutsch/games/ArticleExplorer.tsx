@@ -380,7 +380,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: letter, correctAnswer: item.answer, topic: "German Articles", lang: "de" });
+      fireWrongAnswer({ question: item.full, wrongAnswer: letter, correctAnswer: item.answer, topic: "Missing Letter", lang: "de" });
     }
 
     setTimeout(() => {

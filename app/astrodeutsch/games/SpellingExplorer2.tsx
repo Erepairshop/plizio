@@ -404,7 +404,7 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     setSubmitted(true);
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: , correctAnswer: , topic: "Spelling", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: input, correctAnswer: item.answer, topic: "Spelling", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= words.length) onNext();
