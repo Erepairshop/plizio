@@ -17,9 +17,9 @@ import { setK7GeneratorMap, type PhysikGeneratorMap } from "./physikCurriculum7"
 import { K7_FORCES_GENERATORS } from "./physikGeneratorsK7_forces";
 import { K7_OPTICS_GENERATORS } from "./physikGeneratorsK7_optics";
 import { K7_THERMO_GENERATORS } from "./physikGeneratorsK7_thermo";
+import { K7_WORK_POWER_GENERATORS } from "./physikGeneratorsK7_workpower";
+import { K7_EARTH_SPACE_GENERATORS } from "./physikGeneratorsK7_earthspace";
 // import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves"; // TODO: Create or rename from magnetism
-// import { K7_WORK_POWER_GENERATORS } from "./physikGeneratorsK7_workpower"; // TODO: Create
-// import { K7_EARTH_SPACE_GENERATORS } from "./physikGeneratorsK7_earthspace"; // TODO: Create
 
 // ─── TEMPORARY GENERATORS FOR MISSING SUBTOPICS ────────────────────────────
 // These are placeholder implementations - to be replaced with full generators
@@ -42,31 +42,38 @@ function createPlaceholder(subtopicId: string): (lang?: string, seed?: number) =
 const K7_GENERATOR_MAP: PhysikGeneratorMap = {};
 
 // MECHANICS (forces file)
-// Map existing keys to proper subtopic IDs
+// Note: K7_FORCES_GENERATORS has mixed content:
+// - basics: force definitions, types → acceleration foundational content
+// - speed: BOTH speed_velocity AND acceleration (kinematics)
+// - newton: Newton's 1st & 2nd laws → newton_first, newton_second
+// - friction: friction forces → newton_second (F=ma applications)
+// - bernoulli: advanced fluid mechanics → NOT IN K7
+
+// Speed function covers kinematics (speed and acceleration)
 K7_GENERATOR_MAP["speed_velocity"] = K7_FORCES_GENERATORS.speed || createPlaceholder("speed_velocity");
 K7_GENERATOR_MAP["speed_velocity_typing"] = K7_FORCES_GENERATORS.speed_typing || createPlaceholder("speed_velocity_typing");
+K7_GENERATOR_MAP["acceleration"] = K7_FORCES_GENERATORS.speed || createPlaceholder("acceleration");  // Same as speed_velocity
+K7_GENERATOR_MAP["acceleration_typing"] = K7_FORCES_GENERATORS.speed_typing || createPlaceholder("acceleration_typing");
 
-// TODO: newton_first, newton_second, newton_third need to be generated or extracted from forces file
-K7_GENERATOR_MAP["acceleration"] = createPlaceholder("acceleration");
-K7_GENERATOR_MAP["acceleration_typing"] = createPlaceholder("acceleration_typing");
+// Newton's laws
 K7_GENERATOR_MAP["newton_first"] = K7_FORCES_GENERATORS.newton || createPlaceholder("newton_first");
 K7_GENERATOR_MAP["newton_first_typing"] = K7_FORCES_GENERATORS.newton_typing || createPlaceholder("newton_first_typing");
-K7_GENERATOR_MAP["newton_second"] = createPlaceholder("newton_second");
-K7_GENERATOR_MAP["newton_second_typing"] = createPlaceholder("newton_second_typing");
-K7_GENERATOR_MAP["newton_third"] = createPlaceholder("newton_third");
-K7_GENERATOR_MAP["newton_third_typing"] = createPlaceholder("newton_third_typing");
+K7_GENERATOR_MAP["newton_second"] = (K7_FORCES_GENERATORS.friction || K7_FORCES_GENERATORS.newton) || createPlaceholder("newton_second");
+K7_GENERATOR_MAP["newton_second_typing"] = (K7_FORCES_GENERATORS.friction_typing || K7_FORCES_GENERATORS.newton_typing) || createPlaceholder("newton_second_typing");
+K7_GENERATOR_MAP["newton_third"] = K7_FORCES_GENERATORS.newton || createPlaceholder("newton_third");  // Reaction forces
+K7_GENERATOR_MAP["newton_third_typing"] = K7_FORCES_GENERATORS.newton_typing || createPlaceholder("newton_third_typing");
 
-// WORK & POWER (missing file - all placeholders)
-K7_GENERATOR_MAP["work"] = createPlaceholder("work");
-K7_GENERATOR_MAP["work_typing"] = createPlaceholder("work_typing");
-K7_GENERATOR_MAP["power"] = createPlaceholder("power");
-K7_GENERATOR_MAP["power_typing"] = createPlaceholder("power_typing");
-K7_GENERATOR_MAP["kinetic_energy_calc"] = createPlaceholder("kinetic_energy_calc");
-K7_GENERATOR_MAP["kinetic_energy_calc_typing"] = createPlaceholder("kinetic_energy_calc_typing");
-K7_GENERATOR_MAP["potential_energy_calc"] = createPlaceholder("potential_energy_calc");
-K7_GENERATOR_MAP["potential_energy_calc_typing"] = createPlaceholder("potential_energy_calc_typing");
-K7_GENERATOR_MAP["mechanical_advantage"] = createPlaceholder("mechanical_advantage");
-K7_GENERATOR_MAP["mechanical_advantage_typing"] = createPlaceholder("mechanical_advantage_typing");
+// WORK & POWER (K7_WORK_POWER_GENERATORS)
+K7_GENERATOR_MAP["work"] = K7_WORK_POWER_GENERATORS.work || createPlaceholder("work");
+K7_GENERATOR_MAP["work_typing"] = K7_WORK_POWER_GENERATORS.work_typing || createPlaceholder("work_typing");
+K7_GENERATOR_MAP["power"] = K7_WORK_POWER_GENERATORS.power || createPlaceholder("power");
+K7_GENERATOR_MAP["power_typing"] = K7_WORK_POWER_GENERATORS.power_typing || createPlaceholder("power_typing");
+K7_GENERATOR_MAP["kinetic_energy_calc"] = K7_WORK_POWER_GENERATORS.kinetic_energy_calc || createPlaceholder("kinetic_energy_calc");
+K7_GENERATOR_MAP["kinetic_energy_calc_typing"] = K7_WORK_POWER_GENERATORS.kinetic_energy_calc_typing || createPlaceholder("kinetic_energy_calc_typing");
+K7_GENERATOR_MAP["potential_energy_calc"] = K7_WORK_POWER_GENERATORS.potential_energy_calc || createPlaceholder("potential_energy_calc");
+K7_GENERATOR_MAP["potential_energy_calc_typing"] = K7_WORK_POWER_GENERATORS.potential_energy_calc_typing || createPlaceholder("potential_energy_calc_typing");
+K7_GENERATOR_MAP["mechanical_advantage"] = K7_WORK_POWER_GENERATORS.mechanical_advantage || createPlaceholder("mechanical_advantage");
+K7_GENERATOR_MAP["mechanical_advantage_typing"] = K7_WORK_POWER_GENERATORS.mechanical_advantage_typing || createPlaceholder("mechanical_advantage_typing");
 
 // OPTICS
 K7_GENERATOR_MAP["lenses_convex"] = K7_OPTICS_GENERATORS.light || createPlaceholder("lenses_convex");
@@ -100,17 +107,17 @@ K7_GENERATOR_MAP["infrared_uv_typing"] = createPlaceholder("infrared_uv_typing")
 K7_GENERATOR_MAP["wave_interference"] = createPlaceholder("wave_interference");
 K7_GENERATOR_MAP["wave_interference_typing"] = createPlaceholder("wave_interference_typing");
 
-// EARTH & SPACE (missing file - all placeholders)
-K7_GENERATOR_MAP["gravity_universal"] = createPlaceholder("gravity_universal");
-K7_GENERATOR_MAP["gravity_universal_typing"] = createPlaceholder("gravity_universal_typing");
-K7_GENERATOR_MAP["solar_system"] = createPlaceholder("solar_system");
-K7_GENERATOR_MAP["solar_system_typing"] = createPlaceholder("solar_system_typing");
-K7_GENERATOR_MAP["orbits"] = createPlaceholder("orbits");
-K7_GENERATOR_MAP["orbits_typing"] = createPlaceholder("orbits_typing");
-K7_GENERATOR_MAP["seasons_tides"] = createPlaceholder("seasons_tides");
-K7_GENERATOR_MAP["seasons_tides_typing"] = createPlaceholder("seasons_tides_typing");
-K7_GENERATOR_MAP["space_exploration"] = createPlaceholder("space_exploration");
-K7_GENERATOR_MAP["space_exploration_typing"] = createPlaceholder("space_exploration_typing");
+// EARTH & SPACE (K7_EARTH_SPACE_GENERATORS)
+K7_GENERATOR_MAP["gravity_universal"] = K7_EARTH_SPACE_GENERATORS.gravity_universal || createPlaceholder("gravity_universal");
+K7_GENERATOR_MAP["gravity_universal_typing"] = K7_EARTH_SPACE_GENERATORS.gravity_universal_typing || createPlaceholder("gravity_universal_typing");
+K7_GENERATOR_MAP["solar_system"] = K7_EARTH_SPACE_GENERATORS.solar_system || createPlaceholder("solar_system");
+K7_GENERATOR_MAP["solar_system_typing"] = K7_EARTH_SPACE_GENERATORS.solar_system_typing || createPlaceholder("solar_system_typing");
+K7_GENERATOR_MAP["orbits"] = K7_EARTH_SPACE_GENERATORS.orbits || createPlaceholder("orbits");
+K7_GENERATOR_MAP["orbits_typing"] = K7_EARTH_SPACE_GENERATORS.orbits_typing || createPlaceholder("orbits_typing");
+K7_GENERATOR_MAP["seasons_tides"] = K7_EARTH_SPACE_GENERATORS.seasons_tides || createPlaceholder("seasons_tides");
+K7_GENERATOR_MAP["seasons_tides_typing"] = K7_EARTH_SPACE_GENERATORS.seasons_tides_typing || createPlaceholder("seasons_tides_typing");
+K7_GENERATOR_MAP["space_exploration"] = K7_EARTH_SPACE_GENERATORS.space_exploration || createPlaceholder("space_exploration");
+K7_GENERATOR_MAP["space_exploration_typing"] = K7_EARTH_SPACE_GENERATORS.space_exploration_typing || createPlaceholder("space_exploration_typing");
 
 // ─── INITIALIZE CURRICULUM WITH GENERATORS ────────────────────────────────
 
