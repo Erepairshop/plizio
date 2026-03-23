@@ -10,6 +10,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2, Mic, MicOff, MessageCircleQuestion, Loader2 } from "lucide-react";
 import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
 import { getUsername } from "@/lib/username";
+import BlockDrag from "@/components/interactive/BlockDrag";
+import NumberLineTap from "@/components/interactive/NumberLineTap";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -92,13 +94,66 @@ export interface RoundDef {
 export interface ExplorerDef {
   /** Labels object: Record<langCode, Record<labelKey, string>> */
   labels: Record<string, Record<string, string>>;
-  /** Rounds (typically 5, but flexible) */
+  /** Rounds (typically 5, but flexible) — legacy flat mode */
   rounds: RoundDef[];
   /** Optional: explorer title label key (enables welcome screen) */
   title?: string;
   /** Optional: explorer icon emoji (e.g. "🐟") */
   icon?: string;
+  /** Topic-based mode: each topic = teach → interact → quiz (overrides rounds) */
+  topics?: TopicDef[];
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Topic-based explorer (new structured mode)
+// ─────────────────────────────────────────────────────────────────────────────
+
+/** A single topic in the structured teach→interact→quiz flow */
+export interface TopicDef {
+  /** Label key for topic title */
+  infoTitle: string;
+  /** Label key for teaching text */
+  infoText: string;
+  /** SVG illustration for teaching phase */
+  svg: (lang: string) => React.ReactNode;
+  /** Optional bullet point keys for extra info */
+  bulletKeys?: string[];
+  /** Optional hint key */
+  hintKey?: string;
+  /** Interactive activity config */
+  interactive: TopicInteractive;
+  /** Single quiz question (teaching style) */
+  quiz: MCQQuestion;
+}
+
+/** Interactive activity within a topic */
+export type TopicInteractive =
+  | {
+      type: "block-drag";
+      mode: "combine" | "split" | "place-value";
+      groups: number[];
+      answer: number;
+      blockIcon?: string;
+      blockColor?: string;
+      tens?: number;
+      ones?: number;
+      instruction: string;  // label key
+      hint1: string;        // label key
+      hint2: string;        // label key
+    }
+  | {
+      type: "number-line";
+      min: number;
+      max: number;
+      start: number;
+      target: number;
+      step?: number;
+      showJumps?: boolean;
+      jumpCount?: number;
+      instruction: string;  // label key
+      hint1: string;        // label key
+      hint2: string;        // label key
+    };
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Engine Props
@@ -141,7 +196,8 @@ const UI_LABELS: Record<string, Record<string, string>> = {
 // Engine Component
 // ─────────────────────────────────────────────────────────────────────────────
 
-type Phase = "welcome" | "info" | "question" | "think-first" | "interactive";
+type Phase = "welcome" | "info" | "question" | "think-first" | "interactive"
+  | "topic-teach" | "topic-interact" | "topic-quiz";
 
 // ─── Play count tracking (localStorage) ──────────────────────────────────
 function getPlayCount(id: string): number {
@@ -172,10 +228,26 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     }
   }, [explorerId]);
 
+  // ── Topic-based mode detection ──────────────────────────────────────────
+  const isTopicMode = !!(def.topics && def.topics.length > 0);
+  const topics = def.topics || [];
+  const totalTopics = topics.length;
+
   const [round, setRound] = useState(0);
   const hasWelcome = !!(def.title || def.icon);
   const firstIsInteractive = rounds[0] && (rounds[0].type === "tap-count" || rounds[0].type === "compare" || rounds[0].type === "fill-in" || rounds[0].type === "custom");
-  const [phase, setPhase] = useState<Phase>(hasWelcome ? "welcome" : firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+
+  // Topic-based state
+  const [topicIdx, setTopicIdx] = useState(0);
+  const [topicPhase, setTopicPhase] = useState<"topic-teach" | "topic-interact" | "topic-quiz">("topic-teach");
+
+  const [phase, setPhase] = useState<Phase>(
+    hasWelcome ? "welcome"
+    : isTopicMode ? "topic-teach"
+    : firstIsInteractive ? "interactive"
+    : aiEnhanced ? "think-first"
+    : "info"
+  );
 
   // Username for welcome screen
   const username = useMemo(() => {
@@ -183,18 +255,21 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     return getUsername();
   }, []);
 
-  // Topic list derived from round titles (R1-R4 typically, skip duplicates)
+  // Topic list for welcome screen — from topics[] or rounds[]
   const welcomeTopics = useMemo(() => {
+    if (isTopicMode) {
+      return topics.map(t => t.infoTitle).slice(0, 5);
+    }
     const seen = new Set<string>();
-    const topics: string[] = [];
+    const list: string[] = [];
     for (const r of rounds) {
       if (r.infoTitle && !seen.has(r.infoTitle)) {
         seen.add(r.infoTitle);
-        topics.push(r.infoTitle);
+        list.push(r.infoTitle);
       }
     }
-    return topics.slice(0, 5); // max 5
-  }, [rounds]);
+    return list.slice(0, 5);
+  }, [rounds, topics, isTopicMode]);
   const [subIdx, setSubIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked] = useState(false);
@@ -414,8 +489,61 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   // Dismiss welcome → go to first round
   const dismissWelcome = useCallback(() => {
     window.speechSynthesis.cancel();
-    setPhase(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
-  }, [firstIsInteractive, aiEnhanced]);
+    if (isTopicMode) {
+      setPhase("topic-teach");
+    } else {
+      setPhase(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+    }
+  }, [firstIsInteractive, aiEnhanced, isTopicMode]);
+
+  // ── Topic-mode: advance through teach → interact → quiz → next topic ───
+  const advanceTopicPhase = useCallback(() => {
+    if (topicPhase === "topic-teach") {
+      setTopicPhase("topic-interact");
+      setPhase("topic-interact");
+    } else if (topicPhase === "topic-interact") {
+      setTopicPhase("topic-quiz");
+      setPhase("topic-quiz");
+    } else {
+      // quiz done → next topic or finish
+      if (topicIdx < totalTopics - 1) {
+        setTopicIdx(topicIdx + 1);
+        setTopicPhase("topic-teach");
+        setPhase("topic-teach");
+      } else {
+        onDone?.(scoreRef.current, totalRef.current);
+      }
+    }
+  }, [topicPhase, topicIdx, totalTopics, onDone]);
+
+  // Topic interactive done handler
+  const handleTopicInteractiveDone = useCallback((correct: boolean) => {
+    totalRef.current += 1;
+    if (correct) scoreRef.current += 1;
+    setTimeout(() => advanceTopicPhase(), 800);
+  }, [advanceTopicPhase]);
+
+  // Topic quiz answer handler
+  const [topicQuizSelected, setTopicQuizSelected] = useState<string | null>(null);
+  const [topicQuizLocked, setTopicQuizLocked] = useState(false);
+
+  const handleTopicQuizAnswer = useCallback((choice: string) => {
+    if (topicQuizLocked) return;
+    setTopicQuizLocked(true);
+    setTopicQuizSelected(choice);
+    const topic = topics[topicIdx];
+    if (!topic) return;
+    totalRef.current += 1;
+    const isCorrect = choice === topic.quiz.answer;
+    if (isCorrect) scoreRef.current += 1;
+
+    // Auto-advance after feedback
+    setTimeout(() => {
+      setTopicQuizSelected(null);
+      setTopicQuizLocked(false);
+      advanceTopicPhase();
+    }, isCorrect ? 1500 : 2500);
+  }, [topicQuizLocked, topics, topicIdx, advanceTopicPhase]);
 
   // ── AI: "Think first" — constructivist question at round start ──────────
   const handleThinkSubmit = useCallback(async (text: string) => {
@@ -685,28 +813,280 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         </motion.div>
       )}
 
-      {/* Progress dots — filled = done, outlined = current, dim = future */}
-      <div className="flex gap-2 mb-6 items-center">
-        {rounds.map((r, i) => {
-          const done = i < round;
-          const active = i === round;
-          const isQuiz = r.type === "mcq" || r.type === "order";
-          return (
-            <div
-              key={i}
-              className={`rounded-full transition-all flex items-center justify-center text-[8px] font-bold ${
-                done ? "w-3 h-3" : active ? "w-4 h-4" : "w-2.5 h-2.5"
-              }`}
-              style={{
-                backgroundColor: done ? color : active ? color : "rgba(255,255,255,0.15)",
-                opacity: done ? 0.6 : active ? 1 : 0.4,
-              }}
-            >
-              {active && isQuiz ? "?" : ""}
-            </div>
-          );
-        })}
-      </div>
+      {/* ── TOPIC-MODE PROGRESS + RENDER ── */}
+      {isTopicMode && phase !== "welcome" ? (
+        <>
+          {/* Topic progress: grouped dots (teach·interact·quiz) per topic */}
+          <div className="flex gap-3 mb-6 items-center">
+            {topics.map((_, ti) => {
+              const phases = ["topic-teach", "topic-interact", "topic-quiz"] as const;
+              return (
+                <div key={ti} className="flex gap-1 items-center">
+                  {phases.map((p, pi) => {
+                    const globalStep = ti * 3 + pi;
+                    const currentStep = topicIdx * 3 + (topicPhase === "topic-teach" ? 0 : topicPhase === "topic-interact" ? 1 : 2);
+                    const done = globalStep < currentStep;
+                    const active = globalStep === currentStep;
+                    const icon = pi === 0 ? "📖" : pi === 1 ? "🎮" : "❓";
+                    return (
+                      <div
+                        key={pi}
+                        className={`rounded-full transition-all flex items-center justify-center ${
+                          active ? "w-5 h-5 text-[9px]" : "w-3 h-3 text-[7px]"
+                        }`}
+                        style={{
+                          backgroundColor: done ? color : active ? color : "rgba(255,255,255,0.12)",
+                          opacity: done ? 0.5 : active ? 1 : 0.3,
+                        }}
+                      >
+                        {active ? icon : ""}
+                      </div>
+                    );
+                  })}
+                </div>
+              );
+            })}
+          </div>
+
+          {/* Topic mode main content */}
+          <div className="w-full max-w-md">
+            <AnimatePresence mode="wait">
+              {/* ── TOPIC TEACH PHASE ── */}
+              {phase === "topic-teach" && topics[topicIdx] && (
+                <motion.div
+                  key={`topic-teach-${topicIdx}`}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -20 }}
+                  transition={{ duration: 0.35 }}
+                  className="flex flex-col items-center gap-4"
+                >
+                  {/* Topic badge */}
+                  <div className="flex items-center gap-2 mb-1">
+                    <div className="w-6 h-6 rounded-lg flex items-center justify-center text-[10px] font-black text-white" style={{ background: `${color}30` }}>
+                      {topicIdx + 1}
+                    </div>
+                    <span className="text-xs font-bold uppercase tracking-wider" style={{ color }}>{L(topics[topicIdx].infoTitle)}</span>
+                  </div>
+
+                  {/* SVG illustration */}
+                  <div className="w-full rounded-2xl overflow-hidden" style={{ background: `${color}08`, border: `1px solid ${color}15` }}>
+                    {topics[topicIdx].svg(langCode)}
+                  </div>
+
+                  {/* Teaching text */}
+                  <div className="text-center px-2">
+                    <p className="text-sm text-white/80 leading-relaxed">{L(topics[topicIdx].infoText)}</p>
+                  </div>
+
+                  {/* Bullet points */}
+                  {topics[topicIdx].bulletKeys && topics[topicIdx].bulletKeys!.length > 0 && (
+                    <div className="w-full rounded-xl p-3 flex flex-col gap-1.5" style={{ background: `${color}08` }}>
+                      {topics[topicIdx].bulletKeys!.map((bk, bi) => (
+                        <div key={bi} className="flex items-start gap-2">
+                          <span className="text-xs mt-0.5" style={{ color }}>●</span>
+                          <span className="text-xs text-white/65">{L(bk)}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+
+                  {/* TTS + Continue */}
+                  <div className="flex gap-2 w-full">
+                    <button
+                      onClick={() => speak(L(topics[topicIdx].infoText))}
+                      className="w-10 h-10 rounded-xl flex items-center justify-center bg-white/10 text-white/60 hover:bg-white/15 transition-colors shrink-0"
+                    >
+                      <Volume2 size={16} />
+                    </button>
+                    <button
+                      onClick={advanceTopicPhase}
+                      className="flex-1 py-2.5 rounded-xl text-white font-extrabold text-sm"
+                      style={{ background: color, boxShadow: `0 2px 15px ${color}30` }}
+                    >
+                      {ui.gotIt}
+                    </button>
+                  </div>
+                </motion.div>
+              )}
+
+              {/* ── TOPIC INTERACT PHASE ── */}
+              {phase === "topic-interact" && topics[topicIdx] && (
+                <motion.div
+                  key={`topic-interact-${topicIdx}`}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -20 }}
+                  transition={{ duration: 0.35 }}
+                  className="w-full"
+                >
+                  {/* Interactive header */}
+                  <div className="flex items-center justify-center gap-2 mb-4">
+                    <span className="text-lg">🎮</span>
+                    <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
+                  </div>
+
+                  {/* Render interactive component */}
+                  {(() => {
+                    const inter = topics[topicIdx].interactive;
+                    if (inter.type === "block-drag") {
+                      return (
+                        <BlockDrag
+                          mode={inter.mode}
+                          groups={inter.groups}
+                          answer={inter.answer}
+                          tens={inter.tens}
+                          ones={inter.ones}
+                          blockIcon={inter.blockIcon}
+                          blockColor={inter.blockColor}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "number-line") {
+                      return (
+                        <NumberLineTap
+                          min={inter.min}
+                          max={inter.max}
+                          start={inter.start}
+                          target={inter.target}
+                          step={inter.step}
+                          showJumps={inter.showJumps}
+                          jumpCount={inter.jumpCount}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    return null;
+                  })()}
+                </motion.div>
+              )}
+
+              {/* ── TOPIC QUIZ PHASE ── */}
+              {phase === "topic-quiz" && topics[topicIdx] && (
+                <motion.div
+                  key={`topic-quiz-${topicIdx}`}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -20 }}
+                  transition={{ duration: 0.35 }}
+                  className="flex flex-col items-center gap-4"
+                >
+                  {/* Quiz header */}
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-lg">❓</span>
+                    <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
+                  </div>
+
+                  {/* Question */}
+                  <p className="text-base font-bold text-center text-white/90 px-2">
+                    {L(topics[topicIdx].quiz.question)}
+                  </p>
+
+                  {/* Answer options */}
+                  <div className="w-full flex flex-col gap-2">
+                    {topics[topicIdx].quiz.choices.map((choiceKey, ci) => {
+                      const isSelected = topicQuizSelected === choiceKey;
+                      const isCorrect = choiceKey === topics[topicIdx].quiz.answer;
+                      const showCorrect = topicQuizLocked && isCorrect;
+                      const showWrong = topicQuizLocked && isSelected && !isCorrect;
+
+                      let bg = "bg-white/5";
+                      let border = "border-white/10";
+                      let textCol = "text-white/80";
+                      if (showCorrect) { bg = "bg-green-500/20"; border = "border-green-400/50"; textCol = "text-green-300"; }
+                      else if (showWrong) { bg = "bg-red-500/15"; border = "border-red-400/40"; textCol = "text-red-300"; }
+                      else if (isSelected) { bg = `bg-[${color}]/15`; border = `border-[${color}]/40`; }
+
+                      return (
+                        <motion.button
+                          key={choiceKey}
+                          initial={{ opacity: 0, x: -15 }}
+                          animate={{ opacity: 1, x: 0 }}
+                          transition={{ delay: 0.1 + ci * 0.06, type: "spring", stiffness: 300, damping: 25 }}
+                          whileTap={!topicQuizLocked ? { scale: 0.97 } : {}}
+                          onClick={() => handleTopicQuizAnswer(choiceKey)}
+                          disabled={topicQuizLocked}
+                          className={`w-full py-3 px-4 rounded-xl font-bold text-sm text-left border ${bg} ${border} ${textCol} transition-colors`}
+                          style={
+                            showCorrect ? {} :
+                            showWrong ? {} :
+                            isSelected ? { background: `${color}15`, borderColor: `${color}40` } : {}
+                          }
+                        >
+                          <span className="inline-flex items-center gap-2.5">
+                            <span
+                              className="w-6 h-6 rounded-lg flex items-center justify-center text-[10px] font-black shrink-0"
+                              style={{
+                                background: showCorrect ? "rgba(34,197,94,0.3)" : showWrong ? "rgba(239,68,68,0.3)" : `${color}20`,
+                                color: showCorrect ? "#4ade80" : showWrong ? "#f87171" : color,
+                              }}
+                            >
+                              {showCorrect ? "✓" : showWrong ? "✗" : String.fromCharCode(65 + ci)}
+                            </span>
+                            {L(choiceKey)}
+                          </span>
+                        </motion.button>
+                      );
+                    })}
+                  </div>
+
+                  {/* Teaching feedback after answer */}
+                  {topicQuizLocked && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      className={`w-full rounded-xl p-3 text-center text-sm font-bold ${
+                        topicQuizSelected === topics[topicIdx].quiz.answer
+                          ? "bg-green-500/10 text-green-300"
+                          : "bg-red-500/10 text-red-300"
+                      }`}
+                    >
+                      {topicQuizSelected === topics[topicIdx].quiz.answer
+                        ? ui.correct
+                        : `${ui.wrong} → ${L(topics[topicIdx].quiz.answer)}`}
+                    </motion.div>
+                  )}
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </div>
+        </>
+      ) : phase !== "welcome" ? (
+        <>
+          {/* ── LEGACY FLAT ROUNDS MODE ── */}
+          {/* Progress dots — filled = done, outlined = current, dim = future */}
+          <div className="flex gap-2 mb-6 items-center">
+            {rounds.map((r, i) => {
+              const done = i < round;
+              const active = i === round;
+              const isQuiz = r.type === "mcq" || r.type === "order";
+              return (
+                <div
+                  key={i}
+                  className={`rounded-full transition-all flex items-center justify-center text-[8px] font-bold ${
+                    done ? "w-3 h-3" : active ? "w-4 h-4" : "w-2.5 h-2.5"
+                  }`}
+                  style={{
+                    backgroundColor: done ? color : active ? color : "rgba(255,255,255,0.15)",
+                    opacity: done ? 0.6 : active ? 1 : 0.4,
+                  }}
+                >
+                  {active && isQuiz ? "?" : ""}
+                </div>
+              );
+            })}
+          </div>
 
       {/* Main container */}
       <div className="w-full max-w-md">
@@ -1373,6 +1753,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
         </AnimatePresence>
       </div>
+        </>
+      ) : null}
     </div>
   );
 }
