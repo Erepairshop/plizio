@@ -46,7 +46,7 @@ const Topic2Svg = memo(function Topic2Svg() {
           <line key={`r${r}`} x1="0" y1={r * 10} x2="70" y2={r * 10} stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
         ))}
         {Array.from({ length: 7 }).map((_, c) => (
-          <line key={`c${c}`} x1={c * 10} y1="0" x2={c * 10} y2="50} stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
+          <line key={`c${c}`} x1={c * 10} y1="0" x2={c * 10} y2="50" stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
         ))}
         <text x="35" y="-10" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">7</text>
         <text x="-12" y="30" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">5</text>

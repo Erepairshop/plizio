@@ -334,10 +334,10 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
+      min: 100, max: 500, start: 100, target: 300, step: 100,
       instruction: "t1_inst",
       hint1: "t1_h1",
       hint2: "t1_h2",
-      params: { min: 100, max: 500, step: 100, unit: "cm" },
     },
     quiz: {
       question: "t1_q",
@@ -354,10 +354,10 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
+      min: 1000, max: 3000, start: 1000, target: 2000, step: 500,
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
-      params: { min: 1000, max: 3000, step: 1000, unit: "g" },
     },
     quiz: {
       question: "t2_q",
@@ -374,10 +374,10 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
+      min: 60, max: 180, start: 60, target: 120, step: 30,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
-      params: { min: 60, max: 120, step: 60, unit: "min" },
     },
     quiz: {
       question: "t3_q",
