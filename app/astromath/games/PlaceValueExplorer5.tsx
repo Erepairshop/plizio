@@ -291,7 +291,6 @@ const TOPICS: TopicDef[] = [
       type: "balance-scale",
       leftWeight: 1000,       // 1000k (1 Millió)
       rightInitial: 500,      // Kezdő súly a jobb oldalon
-      missingWeight: 500,
       unitIcon: "k",
       instruction: "t2_inst",
       hint1: "t2_h1",
