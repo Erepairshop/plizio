@@ -1,415 +1,256 @@
 "use client";
-// AngleExplorer4 — Angles & Symmetry for Grade 4 (island i8)
-// Uses ExplorerEngine with 3 topics: angle types, symmetry, angle measurement
-// Topic mode: interactive learning blocks + MCQ
+// SymmetryExplorer4 — Angles & Symmetry for Grade 4 (island i8)
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── SVG: Angle types (right, acute, obtuse) ──────────────────────────────────
+// ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const AngleTypesSvg = memo(function AngleTypesSvg({ lang = "en" }: { lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
+const Topic1Svg = memo(function Topic1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="atG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.04" />
+        <linearGradient id="symGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#6366F1" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#atG)" rx="16" />
-
-      {/* Right angle (90°) */}
-      <g transform="translate(25, 40)">
-        <line x1="0" y1="40" x2="40" y2="40" stroke="#EF4444" strokeWidth="3" />
-        <line x1="40" y1="40" x2="40" y2="0" stroke="#EF4444" strokeWidth="3" />
-        <rect x="35" y="35" width="5" height="5" fill="none" stroke="#EF4444" strokeWidth="1" />
-        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#EF4444" textAnchor="middle">{t.at_right}</text>
-        <text x="20" y="70" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">90°</text>
-      </g>
-
-      {/* Acute angle (45°) */}
-      <g transform="translate(105, 45)">
-        <line x1="0" y1="35" x2="35" y2="35" stroke="#10B981" strokeWidth="3" />
-        <line x1="0" y1="35" x2="25" y2="10" stroke="#10B981" strokeWidth="3" />
-        <path d="M 12 32 Q 15 28 18 24" fill="none" stroke="#10B981" strokeWidth="1" opacity="0.6" />
-        <text x="20" y="58" fontSize="10" fontWeight="bold" fill="#10B981" textAnchor="middle">{t.at_acute}</text>
-        <text x="20" y="70" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">&lt;90°</text>
-      </g>
-
-      {/* Obtuse angle (120°) */}
-      <g transform="translate(185, 35)">
-        <line x1="0" y1="45" x2="40" y2="45" stroke="#8B5CF6" strokeWidth="3" />
-        <line x1="0" y1="45" x2="15" y2="5" stroke="#8B5CF6" strokeWidth="3" />
-        <path d="M 15 35 Q 18 25 22 18" fill="none" stroke="#8B5CF6" strokeWidth="1" opacity="0.6" />
-        <text x="20" y="68" fontSize="10" fontWeight="bold" fill="#8B5CF6" textAnchor="middle">{t.at_obtuse}</text>
-        <text x="20" y="80" fontSize="9" fill="rgba(255,255,255,0.6)" textAnchor="middle">&gt;90°</text>
+      <rect width="240" height="140" fill="url(#symGrad1)" rx="16" />
+      {/* Right angle visual */}
+      <g transform="translate(100, 90)">
+        <path d="M 0,-60 L 0,0 L 60,0" fill="none" stroke="#4338CA" strokeWidth="3" strokeLinecap="round" />
+        <rect x="0" y="-10" width="10" height="10" fill="none" stroke="#4338CA" strokeWidth="1" />
+        <circle cx="4" cy="-4" r="1" fill="#4338CA" />
+        <text x="70" y="5" fontSize="12" fontWeight="bold" fill="#4338CA">90°</text>
       </g>
     </svg>
   );
 });
 
-// ─── SVG: Line of symmetry (mirror line) ───────────────────────────────────────
-
-const SymmetrySvg = memo(function SymmetrySvg({ lang = "en" }: { lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
+const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="symG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#F472B6" stopOpacity="0.04" />
+        <linearGradient id="symGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#F472B6" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#symG)" rx="16" />
-
-      {/* Left half of butterfly */}
-      <g transform="translate(30, 40)">
-        {/* Body */}
-        <circle cx="20" cy="30" r="3" fill="#10B981" />
-        {/* Left wing top */}
-        <ellipse cx="10" cy="15" rx="8" ry="12" fill="#10B981" opacity="0.7" />
-        {/* Left wing bottom */}
-        <ellipse cx="8" cy="45" rx="7" ry="11" fill="#10B981" opacity="0.7" />
-      </g>
-
-      {/* Mirror line */}
-      <line x1="60" y1="10" x2="60" y2="130" stroke="rgba(236, 72, 153, 0.8)" strokeWidth="2" strokeDasharray="4,4" />
-
-      {/* Right half of butterfly (mirrored) */}
-      <g transform="translate(60, 40)">
-        {/* Body */}
-        <circle cx="20" cy="30" r="3" fill="#10B981" />
-        {/* Right wing top (mirrored) */}
-        <ellipse cx="30" cy="15" rx="8" ry="12" fill="#10B981" opacity="0.7" />
-        {/* Right wing bottom (mirrored) */}
-        <ellipse cx="32" cy="45" rx="7" ry="11" fill="#10B981" opacity="0.7" />
-      </g>
-
-      {/* Label */}
-      <text x="120" y="130" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {t.sym_label}
-      </text>
-    </svg>
-  );
-});
-
-// ─── SVG: Protractor and angle measurement ─────────────────────────────────────
-
-const ProtractorSvg = memo(function ProtractorSvg({ lang = "en" }: { lang?: string }) {
-  return (
-    <svg width="100%" viewBox="0 0 240 160">
-      <defs>
-        <linearGradient id="protG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#60A5FA" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#protG)" rx="16" />
-
-      {/* Protractor base (semicircle) */}
-      <g transform="translate(120, 90)">
-        {/* Semicircle */}
-        <path d="M -50 0 A 50 50 0 0 1 50 0" fill="none" stroke="#3B82F6" strokeWidth="2" opacity="0.5" />
-
-        {/* Degree marks */}
-        {[0, 30, 60, 90, 120, 150, 180].map((deg) => {
-          const rad = (deg * Math.PI) / 180;
-          const x1 = 45 * Math.cos(rad);
-          const y1 = -45 * Math.sin(rad);
-          const x2 = 50 * Math.cos(rad);
-          const y2 = -50 * Math.sin(rad);
-          return (
-            <g key={`mark-${deg}`}>
-              <line x1={x1} y1={y1} x2={x2} y2={y2} stroke="#3B82F6" strokeWidth="1" opacity="0.6" />
-              <text x={x1 * 1.15} y={-y1 * 1.15} fontSize="8" fill="#3B82F6" textAnchor="middle" dominantBaseline="middle">
-                {deg}°
-              </text>
-            </g>
-          );
-        })}
-
-        {/* Center point */}
-        <circle cx="0" cy="0" r="3" fill="#3B82F6" />
-
-        {/* Angle ray (45°) */}
-        <line x1="0" y1="0" x2={35 * Math.cos((45 * Math.PI) / 180)} y2={-35 * Math.sin((45 * Math.PI) / 180)} stroke="#EF4444" strokeWidth="2" />
-
-        {/* Base ray */}
-        <line x1="0" y1="0" x2="40" y2="0" stroke="#EF4444" strokeWidth="2" />
-
-        {/* Angle arc */}
-        <path d="M 15 0 A 15 15 0 0 1 10.6 -10.6" fill="none" stroke="#EF4444" strokeWidth="1.5" opacity="0.7" />
-        <text x="12" y="-8" fontSize="10" fontWeight="bold" fill="#EF4444">45°</text>
+      <rect width="240" height="140" fill="url(#symGrad2)" rx="16" />
+      {/* Symmetry visual - Butterfly/Shape */}
+      <g transform="translate(120, 70)">
+        <path d="M -40,-30 Q -60,0 -40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
+        <path d="M 40,-30 Q 60,0 40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
+        <line x1="0" y1="-45" x2="0" y2="45" stroke="#BE185D" strokeWidth="2" strokeDasharray="5 3" />
       </g>
     </svg>
   );
 });
 
-// ─── Labels (4 languages) ────────────────────────────────────────────────────
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="symGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#14B8A6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#5EEAD4" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#symGrad3)" rx="16" />
+      {/* Acute vs Obtuse angle visual */}
+      <g transform="translate(70, 90)">
+        <path d="M 0,-40 L 0,0 L 30,0" fill="none" stroke="#0D9488" strokeWidth="3" opacity="0.5" />
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">ACUTE</text>
+      </g>
+      <g transform="translate(170, 90)">
+        <path d="M -30,-30 L 0,0 L 40,0" fill="none" stroke="#0D9488" strokeWidth="3" />
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">OBTUSE</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    explorer_title: "Angles & Symmetry Explorer",
-    // SVG labels (angle types)
-    at_right: "Right",
-    at_acute: "Acute",
-    at_obtuse: "Obtuse",
-    sym_label: "Symmetry: both halves match!",
-    // Topic 1: Angle types
-    t1_title: "Three Types of Angles",
-    t1_inst: "Read about three angle types. Click 'Got it!' then answer the question.",
-    t1_h1: "💡 Angles are measured in degrees (°)",
-    t1_h2: "🎯 Identify angle types by their size",
-    t1_text: "Angles are measured in degrees (°). A right angle is exactly 90° — like a corner of a square. An acute angle is less than 90° — sharp and pointy. An obtuse angle is more than 90° — wide and open.",
-    t1_b1: "Right angle = 90°",
-    t1_b2: "Acute angle < 90°",
-    t1_b3: "Obtuse angle > 90°",
-    t1_q: "Which type of angle is 65°?",
-    t1_q_right: "Right angle",
-    t1_q_acute: "Acute angle",
-    t1_q_obtuse: "Obtuse angle",
-    t1_q_straight: "Straight angle",
-    // Topic 2: Symmetry (mirror lines)
-    t2_title: "Lines of Symmetry",
-    t2_inst: "Learn about mirror lines. Click 'Got it!' then answer the question.",
-    t2_h1: "🪞 A line of symmetry divides shapes into mirror halves",
-    t2_h2: "✨ Both halves must match perfectly",
-    t2_text: "A line of symmetry divides a shape into two mirror halves. If you fold along the line, both halves match perfectly! A butterfly has vertical symmetry. A rectangle has 2 lines of symmetry. Understanding symmetry helps us recognize patterns.",
-    t2_b1: "A line of symmetry mirrors the shape",
-    t2_b2: "Both halves must be identical",
-    t2_b3: "Shapes can have 0, 1, or more lines",
-    t2_q: "How many lines of symmetry does a square have?",
-    t2_q_0: "0 lines",
-    t2_q_1: "1 line",
-    t2_q_2: "2 lines",
-    t2_q_4: "4 lines",
-    // Topic 3: Measuring angles with protractor
-    t3_title: "Measuring Angles",
-    t3_inst: "Discover how to use a protractor. Click 'Got it!' then answer the question.",
-    t3_h1: "📐 A protractor measures angles in degrees",
-    t3_h2: "🔍 Center point on corner, align base ray to 0°",
-    t3_text: "A protractor is a tool to measure angles in degrees. Place the center of the protractor on the angle's corner. Line up one ray with 0°. Read where the other ray points. That's the angle measurement!",
-    t3_b1: "Protractor center goes on the corner",
-    t3_b2: "Align one ray with 0°",
-    t3_b3: "Read the degree where the other ray points",
-    t3_q: "A protractor shows one ray at 0° and the other at 75°. What is the angle?",
-    t3_q_15: "15°",
-    t3_q_45: "45°",
-    t3_q_75: "75°",
-    t3_q_105: "105°",
-    // Review questions (R5)
-    r5_q1: "Is a 125° angle acute, right, or obtuse?",
-    r5_q1_a: "Acute",
-    r5_q1_b: "Right",
-    r5_q1_c: "Obtuse",
-    r5_q1_d: "Straight",
-    r5_q2: "How many lines of symmetry does a circle have?",
-    r5_q2_a: "1 line",
-    r5_q2_b: "2 lines",
-    r5_q2_c: "4 lines",
-    r5_q2_d: "Infinite lines",
-    r5_q3: "Which angle is less than 90°?",
-    r5_q3_a: "95°",
-    r5_q3_b: "90°",
-    r5_q3_c: "88°",
-    r5_q3_d: "100°",
+    explorer_title: "Angles & Symmetry",
+    t1_title: "Types of Angles",
+    t1_text: "An angle is formed where two lines meet. A 'Right Angle' looks like the corner of a square and is exactly 90 degrees.",
+    t1_b1: "Right angle = exactly 90°",
+    t1_b2: "Acute angle = less than 90°",
+    t1_b3: "Obtuse angle = more than 90°",
+    t1_inst: "Find 90 on the number line to mark a right angle!",
+    t1_h1: "A right angle is exactly 90 degrees.",
+    t1_h2: "Tap the number 90.",
+    t1_q: "Which angle is smaller than a right angle?",
+    t1_q_a: "Obtuse angle",
+    t1_q_b: "Acute angle",
+    t1_q_c: "Straight angle",
+    t1_q_d: "Square angle",
+    t2_title: "Line of Symmetry",
+    t2_text: "A shape has symmetry if you can fold it in half and both sides match perfectly. The fold line is called the 'Axis of Symmetry'.",
+    t2_b1: "Both halves are mirror images",
+    t2_b2: "Some shapes have many lines",
+    t2_b3: "Nature is full of symmetry",
+    t2_inst: "Combine blocks to find out: How many lines of symmetry does a square have?",
+    t2_h1: "You can fold a square vertically, horizontally, and diagonally.",
+    t2_h2: "A square has exactly 4 lines of symmetry.",
+    t2_q: "Which of these letters is usually symmetrical?",
+    t2_q_a: "F",
+    t2_q_b: "A",
+    t2_q_c: "P",
+    t2_q_d: "S",
+    t3_title: "Angles in Shapes",
+    t3_text: "Shapes are built using different angles. A rectangle always has four right angles, while a triangle can have acute or obtuse angles too!",
+    t3_b1: "Square: 4 right angles",
+    t3_b2: "Triangle: 3 angles total",
+    t3_b3: "Angles help define the shape",
+    t3_inst: "Use blocks to show the sum of two 45° angles!",
+    t3_h1: "45 + 45 = 90 (a right angle).",
+    t3_h2: "You need two blocks of 45 to reach 90.",
+    t3_q: "How many degrees are in a straight line?",
+    t3_q_a: "90°",
+    t3_q_b: "180°",
+    t3_q_c: "360°",
+    t3_q_d: "45°",
   },
   de: {
-    explorer_title: "Winkel & Symmetrie Entdecker",
-    at_right: "Recht",
-    at_acute: "Spitz",
-    at_obtuse: "Stumpf",
-    sym_label: "Symmetrie: beide Hälften passen!",
-    t1_title: "Drei Winkeltypen",
-    t1_inst: "Lesen Sie über drei Winkeltypen. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
-    t1_h1: "💡 Winkel werden in Graden (°) gemessen",
-    t1_h2: "🎯 Erkenne Winkeltypen nach ihrer Größe",
-    t1_text: "Winkel werden in Graden (°) gemessen. Ein rechter Winkel ist genau 90° — wie eine Ecke eines Quadrats. Ein spitzer Winkel ist kleiner als 90° — scharf und spitz. Ein stumpfer Winkel ist größer als 90° — breit und offen.",
-    t1_b1: "Rechter Winkel = 90°",
-    t1_b2: "Spitzer Winkel < 90°",
-    t1_b3: "Stumpfer Winkel > 90°",
-    t1_q: "Welcher Winkeltyp ist 65°?",
-    t1_q_right: "Rechter Winkel",
-    t1_q_acute: "Spitzer Winkel",
-    t1_q_obtuse: "Stumpfer Winkel",
-    t1_q_straight: "Gestreckter Winkel",
+    explorer_title: "Winkel & Symmetrie",
+    t1_title: "Winkelarten",
+    t1_text: "Ein Winkel entsteht, wo zwei Linien aufeinandertreffen. Ein 'rechter Winkel' sieht aus wie eine Quadratecke und hat genau 90 Grad.",
+    t1_b1: "Rechter Winkel = genau 90°",
+    t1_b2: "Spitzer Winkel = weniger als 90°",
+    t1_b3: "Stumpfer Winkel = mehr als 90°",
+    t1_inst: "Finde 90 auf dem Zahlenstrahl (rechter Winkel)!",
+    t1_h1: "Ein rechter Winkel hat exakt 90 Grad.",
+    t1_h2: "Tippe auf die 90.",
+    t1_q: "Welcher Winkel ist kleiner als ein rechter Winkel?",
+    t1_q_a: "Stumpfer Winkel",
+    t1_q_b: "Spitzer Winkel",
+    t1_q_c: "Gestreckter Winkel",
+    t1_q_d: "Quadratwinkel",
     t2_title: "Symmetrieachsen",
-    t2_inst: "Erfahren Sie mehr über Spiegellinien. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
-    t2_h1: "🪞 Eine Symmetrieachse teilt Formen in Spiegelhälften",
-    t2_h2: "✨ Beide Hälften müssen perfekt übereinstimmen",
-    t2_text: "Eine Symmetrieachse teilt eine Form in zwei gespiegelte Hälften. Wenn du entlang der Linie faltest, passen beide Hälften perfekt! Ein Schmetterling hat vertikale Symmetrie. Ein Rechteck hat 2 Symmetrieachsen. Das Verständnis von Symmetrie hilft uns, Muster zu erkennen.",
-    t2_b1: "Eine Symmetrieachse spiegelt die Form",
-    t2_b2: "Beide Hälften müssen identisch sein",
-    t2_b3: "Formen können 0, 1 oder mehr Achsen haben",
-    t2_q: "Wie viele Symmetrieachsen hat ein Quadrat?",
-    t2_q_0: "0 Linien",
-    t2_q_1: "1 Linie",
-    t2_q_2: "2 Linien",
-    t2_q_4: "4 Linien",
-    t3_title: "Winkel messen",
-    t3_inst: "Entdecken Sie, wie man einen Winkelmesser verwendet. Klicken Sie auf 'Verstanden!' und beantworten Sie die Frage.",
-    t3_h1: "📐 Ein Winkelmesser misst Winkel in Graden",
-    t3_h2: "🔍 Mittelpunkt auf Ecke, Basisstrahl auf 0°",
-    t3_text: "Ein Winkelmesser ist ein Werkzeug zum Messen von Winkeln in Grad. Platziere die Mitte des Winkelmessers auf der Ecke des Winkels. Richte einen Strahl mit 0° aus. Lies, wo der andere Strahl zeigt. Das ist die Winkelmessung!",
-    t3_b1: "Winkelmesser-Mitte auf die Ecke",
-    t3_b2: "Einen Strahl mit 0° ausrichten",
-    t3_b3: "Lies den Grad, wo der andere Strahl zeigt",
-    t3_q: "Ein Winkelmesser zeigt einen Strahl bei 0° und den anderen bei 75°. Welcher Winkel?",
-    t3_q_15: "15°",
-    t3_q_45: "45°",
-    t3_q_75: "75°",
-    t3_q_105: "105°",
-    r5_q1: "Ist ein 125° Winkel spitz, recht oder stumpf?",
-    r5_q1_a: "Spitzer Winkel",
-    r5_q1_b: "Rechter Winkel",
-    r5_q1_c: "Stumpfer Winkel",
-    r5_q1_d: "Gestreckter Winkel",
-    r5_q2: "Wie viele Symmetrieachsen hat ein Kreis?",
-    r5_q2_a: "1 Linie",
-    r5_q2_b: "2 Linien",
-    r5_q2_c: "4 Linien",
-    r5_q2_d: "Unendlich viele Linien",
-    r5_q3: "Welcher Winkel ist kleiner als 90°?",
-    r5_q3_a: "95°",
-    r5_q3_b: "90°",
-    r5_q3_c: "88°",
-    r5_q3_d: "100°",
+    t2_text: "Eine Form ist symmetrisch, wenn man sie falten kann und beide Seiten genau deckungsgleich sind. Die Linie heißt Symmetrieachse.",
+    t2_b1: "Beide Hälften sind Spiegelbilder",
+    t2_b2: "Manche Formen haben viele Achsen",
+    t2_b3: "Symmetrie gibt es oft in der Natur",
+    t2_inst: "Wie viele Symmetrieachsen hat ein Quadrat?",
+    t2_h1: "Du kannst es senkrecht, waagerecht und diagonal falten.",
+    t2_h2: "Ein Quadrat hat genau 4 Achsen.",
+    t2_q: "Welcher dieser Buchstaben ist meist symmetrisch?",
+    t2_q_a: "F",
+    t2_q_b: "A",
+    t2_q_c: "P",
+    t2_q_d: "S",
+    t3_title: "Winkel in Formen",
+    t3_text: "Formen bestehen aus verschiedenen Winkeln. Ein Rechteck hat immer vier rechte Winkel, ein Dreieck kann verschiedene haben!",
+    t3_b1: "Quadrat: 4 rechte Winkel",
+    t3_b2: "Dreieck: insgesamt 3 Winkel",
+    t3_b3: "Winkel bestimmen die Form",
+    t3_inst: "Addiere zwei 45° Winkel mit Blöcken!",
+    t3_h1: "45 + 45 = 90 (ein rechter Winkel).",
+    t3_h2: "Nutze zwei 45er Blöcke, um 90 zu erreichen.",
+    t3_q: "Wie viel Grad hat eine gerade Linie?",
+    t3_q_a: "90°",
+    t3_q_b: "180°",
+    t3_q_c: "360°",
+    t3_q_d: "45°",
   },
   hu: {
-    explorer_title: "Szögek & Szimmetria Felfedező",
-    at_right: "Derék",
-    at_acute: "Hegyes",
-    at_obtuse: "Tompa",
-    sym_label: "Szimmetria: mindkét fél egyezik!",
-    t1_title: "Három szögtípus",
-    t1_inst: "Olvasd el a három szögtípusról. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
-    t1_h1: "💡 A szögeket fokban (°) mérjük",
-    t1_h2: "🎯 Ismerj fel szögtípusokat a méretük szerint",
-    t1_text: "A szögeket fokban (°) mérjük. A derékszög pontosan 90° — mint egy négyzet sarka. Egy hegyesszög kevesebb mint 90° — éles és hegyes. Egy tompaszög több mint 90° — széles és nyitott.",
-    t1_b1: "Derékszög = 90°",
-    t1_b2: "Hegyesszög < 90°",
-    t1_b3: "Tompaszög > 90°",
-    t1_q: "Melyik szögtípus a 65°?",
-    t1_q_right: "Derékszög",
-    t1_q_acute: "Hegyesszög",
-    t1_q_obtuse: "Tompaszög",
-    t1_q_straight: "Egyenesszög",
-    t2_title: "Szimmetriavonalak",
-    t2_inst: "Tanuld meg a tükörvonalakat. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
-    t2_h1: "🪞 A szimmetriavonal az alakzatokat tükörlazákra osztja",
-    t2_h2: "✨ Mindkét félnek tökéletesen egyeznie kell",
-    t2_text: "A szimmetriavonal egy alakzatot két tükrözött félre oszt. Ha a vonal mentén összehajtasz, mindkét fél tökéletesen illeszkedik! A lepkének függőleges szimmetriája van. Egy téglalap 2 szimmetriavonallal rendelkezik. A szimmetria megértése segít a minták felismerésében.",
-    t2_b1: "A szimmetriavonal tükrözi az alakzatot",
-    t2_b2: "Mindkét félnek azonosnak kell lennie",
-    t2_b3: "Az alakzatoknak lehet 0, 1 vagy több vonala",
-    t2_q: "Hány szimmetriavonala van egy négyzetnek?",
-    t2_q_0: "0 vonal",
-    t2_q_1: "1 vonal",
-    t2_q_2: "2 vonal",
-    t2_q_4: "4 vonal",
-    t3_title: "Szögek mérése",
-    t3_inst: "Fedezd fel, hogyan kell szögmérőt használni. Kattints a 'Értettem!' majd válaszolj a kérdésre.",
-    t3_h1: "📐 A szögmérő a szögeket fokokban méri",
-    t3_h2: "🔍 Középpont a sarokra, alap sugár 0°-ra",
-    t3_text: "A szögmérő a szögek fokban történő mérésére szolgáló eszköz. Helyezd a szögmérő közepét a szög sarkára. Igazíts egy sugarat 0°-hoz. Olvasd, hol mutat a másik sugár. Ez a szög mérése!",
-    t3_b1: "Szögmérő közepét a sarokra helyezd",
-    t3_b2: "Egy sugarat 0°-hoz igazíts",
-    t3_b3: "Olvass ahol a másik sugár mutat",
-    t3_q: "Egy szögmérő egy sugarat 0°-nál és a másikat 75°-nál mutat. Melyik a szög?",
-    t3_q_15: "15°",
-    t3_q_45: "45°",
-    t3_q_75: "75°",
-    t3_q_105: "105°",
-    r5_q1: "A 125° szög hegyes, derék vagy tompa?",
-    r5_q1_a: "Hegyesszög",
-    r5_q1_b: "Derékszög",
-    r5_q1_c: "Tompaszög",
-    r5_q1_d: "Egyenesszög",
-    r5_q2: "Hány szimmetriavonala van a körnek?",
-    r5_q2_a: "1 vonal",
-    r5_q2_b: "2 vonal",
-    r5_q2_c: "4 vonal",
-    r5_q2_d: "Végtelen sok vonal",
-    r5_q3: "Melyik szög kevesebb mint 90°?",
-    r5_q3_a: "95°",
-    r5_q3_b: "90°",
-    r5_q3_c: "88°",
-    r5_q3_d: "100°",
+    explorer_title: "Szögek és szimmetria",
+    t1_title: "Szögfajták",
+    t1_text: "Szög ott keletkezik, ahol két vonal találkozik. A 'derékszög' pont olyan, mint egy négyzet sarka, és pontosan 90 fokos.",
+    t1_b1: "Derékszög = pontosan 90°",
+    t1_b2: "Hegyesszög = kisebb, mint 90°",
+    t1_b3: "Tompaszög = nagyobb, mint 90°",
+    t1_inst: "Keresd meg a 90-et a számegyenesen (derékszög)!",
+    t1_h1: "A derékszög pontosan 90 fokos.",
+    t1_h2: "Koppints a 90-es számra.",
+    t1_q: "Melyik szög kisebb a derékszögnél?",
+    t1_q_a: "Tompaszög",
+    t1_q_b: "Hegyesszög",
+    t1_q_c: "Egyenesszög",
+    t1_q_d: "Négyzetszög",
+    t2_title: "Szimmetriatengely",
+    t2_text: "Egy alakzat akkor szimmetrikus, ha félbe tudod hajtani úgy, hogy a két oldal pontosan fedje egymást. A vonalat szimmetriatengelynek hívjuk.",
+    t2_b1: "A két fél egymás tükörképe",
+    t2_b2: "Némely alakzatnak több tengelye is van",
+    t2_b3: "A természet tele van szimmetriával",
+    t2_inst: "Vond össze a blokkokat: hány szimmetriatengelye van a négyzetnek?",
+    t2_h1: "A négyzetet félbehajthatod függőlegesen, vízszintesen és átlósan is.",
+    t2_h2: "A négyzetnek pontosan 4 tengelye van.",
+    t2_q: "Melyik betű szimmetrikus az alábbiak közül?",
+    t2_q_a: "F",
+    t2_q_b: "A",
+    t2_q_c: "P",
+    t2_q_d: "S",
+    t3_title: "Szögek az alakzatokban",
+    t3_text: "Az alakzatokat szögek építik fel. A téglalapnak mindig négy derékszöge van, de egy háromszögnek lehet hegyes- vagy tompaszöge is!",
+    t3_b1: "Négyzet: 4 derékszög",
+    t3_b2: "Háromszög: összesen 3 szög",
+    t3_b3: "A szögek határozzák meg a formát",
+    t3_inst: "Használj blokkokat két 45°-os szög összeadásához!",
+    t3_h1: "45 + 45 = 90 (egy derékszög).",
+    t3_h2: "Két darab 45-ös blokkra lesz szükséged a 90-hez.",
+    t3_q: "Hány fokos az egyenesszög (egy egyenes vonal)?",
+    t3_q_a: "90°",
+    t3_q_b: "180°",
+    t3_q_c: "360°",
+    t3_q_d: "45°",
   },
   ro: {
-    explorer_title: "Explorare unghiuri și simetrie",
-    at_right: "Drept",
-    at_acute: "Acut",
-    at_obtuse: "Obtuz",
-    sym_label: "Simetrie: ambele jumătăți se potrivesc!",
-    t1_title: "Trei tipuri de unghiuri",
-    t1_inst: "Citește despre trei tipuri de unghiuri. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
-    t1_h1: "💡 Unghiurile se măsoară în grade (°)",
-    t1_h2: "🎯 Identifică tipurile de unghiuri după mărime",
-    t1_text: "Unghiurile se măsoară în grade (°). Un unghi drept este exact 90° — ca un colț al unui pătrat. Un unghi acut este mai mic de 90° — ascuțit și țintă. Un unghi obtuz este mai mare de 90° — larg și deschis.",
-    t1_b1: "Unghi drept = 90°",
-    t1_b2: "Unghi acut < 90°",
-    t1_b3: "Unghi obtuz > 90°",
-    t1_q: "Ce tip de unghi este 65°?",
-    t1_q_right: "Unghi drept",
-    t1_q_acute: "Unghi acut",
-    t1_q_obtuse: "Unghi obtuz",
-    t1_q_straight: "Unghi alungit",
-    t2_title: "Linii de simetrie",
-    t2_inst: "Afișa despre linii de oglindă. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
-    t2_h1: "🪞 O linie de simetrie împarte formele în jumătăți în oglindă",
-    t2_h2: "✨ Ambele jumătăți trebuie să se potrivească perfect",
-    t2_text: "O linie de simetrie împarte o formă în două jumătăți în oglindă. Dacă pliezi de-a lungul liniei, ambele jumătăți se potrivesc perfect! Un fluture are simetrie verticală. Un dreptunghi are 2 linii de simetrie. Înțelegerea simetriei ne ajută să recunoaștem modelele.",
-    t2_b1: "O linie de simetrie oglindește forma",
-    t2_b2: "Ambele jumătăți trebuie să fie identice",
-    t2_b3: "Formele pot avea 0, 1 sau mai multe linii",
-    t2_q: "Câte linii de simetrie are un pătrat?",
-    t2_q_0: "0 linii",
-    t2_q_1: "1 linie",
-    t2_q_2: "2 linii",
-    t2_q_4: "4 linii",
-    t3_title: "Măsurarea unghiurilor",
-    t3_inst: "Descoperă cum să folosești un raportor. Fă clic pe 'Am înțeles!' și răspunde la întrebare.",
-    t3_h1: "📐 Un raportor măsoară unghiurile în grade",
-    t3_h2: "🔍 Punct central pe colț, rază de bază la 0°",
-    t3_text: "Un raportor este un instrument pentru măsurarea unghiurilor în grade. Plasează centrul raportorului pe colțul unghiului. Aliniază o rază la 0°. Citește unde indică cealaltă rază. Aceasta este măsura unghiului!",
-    t3_b1: "Centrul raportorului pe colț",
-    t3_b2: "Aliniază o rază la 0°",
-    t3_b3: "Citește gradul unde indică cealaltă rază",
-    t3_q: "Un raportor arată o rază la 0° și cealaltă la 75°. Care este unghiul?",
-    t3_q_15: "15°",
-    t3_q_45: "45°",
-    t3_q_75: "75°",
-    t3_q_105: "105°",
-    r5_q1: "Un unghi de 125° este acut, drept sau obtuz?",
-    r5_q1_a: "Acut",
-    r5_q1_b: "Drept",
-    r5_q1_c: "Obtuz",
-    r5_q1_d: "Alungit",
-    r5_q2: "Câte linii de simetrie are un cerc?",
-    r5_q2_a: "1 linie",
-    r5_q2_b: "2 linii",
-    r5_q2_c: "4 linii",
-    r5_q2_d: "Infinite linii",
-    r5_q3: "Care unghi este mai mic de 90°?",
-    r5_q3_a: "95°",
-    r5_q3_b: "90°",
-    r5_q3_c: "88°",
-    r5_q3_d: "100°",
+    explorer_title: "Unghiuri și simetrie",
+    t1_title: "Tipuri de unghiuri",
+    t1_text: "Un unghi se formează acolo unde se întâlnesc două linii. Un 'unghi drept' arată ca colțul unui pătrat și are exact 90 de grade.",
+    t1_b1: "Unghi drept = exact 90°",
+    t1_b2: "Unghi ascuțit = mai mic de 90°",
+    t1_b3: "Unghi obtuze = mai mare de 90°",
+    t1_inst: "Găsește 90 pe linia numerelor (unghiul drept)!",
+    t1_h1: "Un unghi drept are exact 90 de grade.",
+    t1_h2: "Atinge numărul 90.",
+    t1_q: "Care unghi este mai mic decât unghiul drept?",
+    t1_q_a: "Unghiul obtuz",
+    t1_q_b: "Unghiul ascuțit",
+    t1_q_c: "Unghiul alungit",
+    t1_q_d: "Unghiul pătrat",
+    t2_title: "Axa de simetrie",
+    t2_text: "O formă este simetrică dacă o poți îndoi astfel încât cele două părți să coincidă perfect. Linia de îndoire se numește axă de simetrie.",
+    t2_b1: "Cele două jumătăți sunt în oglindă",
+    t2_b2: "Unele forme au mai multe axe",
+    t2_b3: "Natura este plină de simetrie",
+    t2_inst: "Câte axe de simetrie are un pătrat?",
+    t2_h1: "Poți îndoi pătratul pe verticală, orizontală și diagonală.",
+    t2_h2: "Un pătrat are exact 4 axe de simetrie.",
+    t2_q: "Care dintre aceste litere este de obicei simetrică?",
+    t2_q_a: "F",
+    t2_q_b: "A",
+    t2_q_c: "P",
+    t2_q_d: "S",
+    t3_title: "Unghiuri în forme",
+    t3_text: "Formele sunt construite din unghiuri. Un dreptunghi are patru unghiuri drepte, în timp ce un triunghi poate avea unghiuri ascuțite sau obtuze!",
+    t3_b1: "Pătrat: 4 unghiuri drepte",
+    t3_b2: "Triunghi: 3 unghiuri în total",
+    t3_b3: "Unghiurile definesc forma",
+    t3_inst: "Folosește blocuri pentru a arăta suma a două unghiuri de 45°!",
+    t3_h1: "45 + 45 = 90 (un unghi drept).",
+    t3_h2: "Ai nevoie de două blocuri de 45 pentru a ajunge la 90.",
+    t3_q: "Câte grade are un unghi alungit (o linie dreaptă)?",
+    t3_q_a: "90°",
+    t3_q_b: "180°",
+    t3_q_c: "360°",
+    t3_q_d: "45°",
   },
 };
 
-// ─── TOPIC DEFINITIONS ──────────────────────────────────────────────────
+// ─── TOPIC DEFINÍCIÓK ────────────────────────────────────────────────
 
 const TOPICS: TopicDef[] = [
-  // ─ Topic 1: Angle types ─
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: (lang: string) => <AngleTypesSvg lang={lang} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -417,69 +258,66 @@ const TOPICS: TopicDef[] = [
       max: 180,
       start: 0,
       target: 90,
-      step: 10,
+      step: 15,
+      showJumps: true,
+      jumpCount: 6,
       instruction: "t1_inst",
       hint1: "t1_h1",
       hint2: "t1_h2",
     },
     quiz: {
       question: "t1_q",
-      choices: ["t1_q_right", "t1_q_acute", "t1_q_obtuse", "t1_q_straight"],
-      answer: "t1_q_acute",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_b",
     },
   },
-
-  // ─ Topic 2: Symmetry (lines of symmetry) ─
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang: string) => <SymmetrySvg lang={lang} />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [2, 2],
+      groups: [1, 1, 1, 1], // 4 lines of symmetry
       answer: 4,
-      blockIcon: "📐",
+      blockIcon: "🦋",
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
     },
     quiz: {
       question: "t2_q",
-      choices: ["t2_q_0", "t2_q_1", "t2_q_2", "t2_q_4"],
-      answer: "t2_q_4",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_b",
     },
   },
-
-  // ─ Topic 3: Measuring angles with protractor ─
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang: string) => <ProtractorSvg lang={lang} />,
+    svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      type: "number-line",
-      min: 0,
-      max: 180,
-      start: 0,
-      target: 75,
-      step: 5,
+      type: "block-drag",
+      mode: "combine",
+      groups: [45, 45],
+      answer: 90,
+      blockIcon: "📐",
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
     },
     quiz: {
       question: "t3_q",
-      choices: ["t3_q_15", "t3_q_45", "t3_q_75", "t3_q_105"],
-      answer: "t3_q_75",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_b",
     },
   },
 ];
 
-// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
+// ─── EXPLORER DEFINÍCIÓ ──────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📐",
@@ -487,24 +325,18 @@ const EXPLORER_DEF: ExplorerDef = {
   rounds: [],
 };
 
-// ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
+// ─── EXPORT ──────────────────────────────────────────────────────────
 
-interface Props {
+const SymmetryExplorer4 = memo(function SymmetryExplorer4({
+  color = "#6366F1",
+  onDone,
+  lang = "en",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+}) {
+  return <ExplorerEngine def={DEF} grade={4} explorerId="math_g4_symmetry" color={color} lang={lang} onDone={onDone} />;
+});
 
-export default function AngleExplorer4({ color = "#F59E0B", lang, onDone, onClose }: Props) {
-  return (
-    <ExplorerEngine
-      def={EXPLORER_DEF}
-      color={color}
-      lang={lang}
-      onDone={onDone}
-      onClose={onClose}
-      grade={4}
-    />
-  );
-}
+export default SymmetryExplorer4;
