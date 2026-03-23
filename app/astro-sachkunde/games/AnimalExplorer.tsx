@@ -6,6 +6,342 @@ import { memo, useState, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2 } from "lucide-react";
 
+function SVG_DOG(lang: string) { const labels = { en: { ears: "Ears", nose: "Nose", legs: "4 Legs" }, de: { ears: "Ohren", nose: "Nase", legs: "4 Beine" }, hu: { ears: "Fülek", nose: "Orr", legs: "4 láb" }, ro: { ears: "Urechi", nose: "Nas", legs: "4 picioare" }, }; const l = labels[lang as keyof typeof labels] || labels.en; return ( <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40"> <defs> {/* Background */} <linearGradient id="dogBg" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#1e293b" /> <stop offset="100%" stopColor="#020617" /> </linearGradient> {/* Body gradient */} <linearGradient id="dogBody" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#fbbf24" /> <stop offset="100%" stopColor="#d97706" /> </linearGradient> {/* Belly */} <linearGradient id="dogBelly" x1="0%" y1="0%" x2="0%" y2="100%"> <stop offset="0%" stopColor="#fde68a" /> <stop offset="100%" stopColor="#fbbf24" stopOpacity="0.2" /> </linearGradient> </defs> {/* Background */} <rect width="240" height="160" fill="url(#dogBg)" /> {/* Body */} <ellipse cx="120" cy="95" rx="55" ry="35" fill="url(#dogBody)" /> {/* Belly highlight */} <ellipse cx="120" cy="105" rx="35" ry="20" fill="url(#dogBelly)" /> {/* Head */} <circle cx="120" cy="55" r="30" fill="url(#dogBody)" /> {/* Ears */} <path d="M 95 40 Q 85 10 110 35 Z" fill="#92400e" /> <path d="M 145 40 Q 155 10 130 35 Z" fill="#92400e" /> {/* Eyes */} <circle cx="110" cy="55" r="4" fill="#000" /> <circle cx="130" cy="55" r="4" fill="#000" /> <circle cx="111" cy="53" r="1" fill="white" /> <circle cx="131" cy="53" r="1" fill="white" /> {/* Nose */} <ellipse cx="120" cy="65" rx="6" ry="4" fill="#000" /> {/* Mouth */} <path d="M 115 70 Q 120 75 125 70" stroke="#000" strokeWidth="1.5" fill="none" /> {/* Legs */} <rect x="90" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="110" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="130" y="115" width="10" height="25" rx="5" fill="#d97706" /> <rect x="150" y="115" width="10" height="25" rx="5" fill="#d97706" /> {/* Tail */} <path d="M 170 90 Q 200 70 185 100" stroke="#d97706" strokeWidth="6" fill="none" /> {/* ─── LABELS ─── */} {/* Ears */} <line x1="95" y1="35" x2="40" y2="20" stroke="#fbbf24" strokeDasharray="3,2" /> <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#fbbf24" /> <text x="40" y="23" fontSize="10" fill="#fbbf24" textAnchor="middle">{l.ears}</text> {/* Nose */} <line x1="120" y1="65" x2="200" y2="40" stroke="#22c55e" strokeDasharray="3,2" /> <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#22c55e" /> <text x="205" y="43" fontSize="10" fill="#22c55e" textAnchor="middle">{l.nose}</text> {/* Legs */} <line x1="120" y1="130" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" /> <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" /> <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text> </svg> ); }
+function SVG_CAT(lang: string) {
+  const labels = {
+    en: { ears: "Ears", nose: "Nose", legs: "4 Legs" },
+    de: { ears: "Ohren", nose: "Nase", legs: "4 Beine" },
+    hu: { ears: "Fülek", nose: "Orr", legs: "4 láb" },
+    ro: { ears: "Urechi", nose: "Nas", legs: "4 picioare" },
+  };
+
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="catBg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#1e293b" />
+          <stop offset="100%" stopColor="#020617" />
+        </linearGradient>
+
+        <linearGradient id="catBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#f472b6" />
+          <stop offset="100%" stopColor="#be185d" />
+        </linearGradient>
+
+        <linearGradient id="catBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fbcfe8" />
+          <stop offset="100%" stopColor="#f472b6" stopOpacity="0.2" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="url(#catBg)" />
+
+      <ellipse cx="120" cy="95" rx="55" ry="35" fill="url(#catBody)" />
+      <ellipse cx="120" cy="105" rx="35" ry="20" fill="url(#catBelly)" />
+
+      <circle cx="120" cy="55" r="30" fill="url(#catBody)" />
+
+      {/* Ears */}
+      <path d="M 95 40 L 105 15 L 115 40 Z" fill="#be185d" />
+      <path d="M 145 40 L 135 15 L 125 40 Z" fill="#be185d" />
+
+      {/* Eyes */}
+      <circle cx="110" cy="55" r="4" fill="#000" />
+      <circle cx="130" cy="55" r="4" fill="#000" />
+      <circle cx="111" cy="53" r="1" fill="white" />
+      <circle cx="131" cy="53" r="1" fill="white" />
+
+      {/* Nose */}
+      <polygon points="120,63 116,68 124,68" fill="#000" />
+
+      {/* Mouth */}
+      <path d="M115 72 Q120 76 125 72" stroke="#000" strokeWidth="1.5" fill="none" />
+
+      {/* Legs */}
+      <rect x="90" y="115" width="10" height="25" rx="5" fill="#be185d" />
+      <rect x="110" y="115" width="10" height="25" rx="5" fill="#be185d" />
+      <rect x="130" y="115" width="10" height="25" rx="5" fill="#be185d" />
+      <rect x="150" y="115" width="10" height="25" rx="5" fill="#be185d" />
+
+      {/* Tail */}
+      <path d="M 170 90 Q 200 70 185 100" stroke="#be185d" strokeWidth="6" fill="none" />
+
+      {/* LABELS */}
+      <line x1="95" y1="35" x2="40" y2="20" stroke="#f472b6" strokeDasharray="3,2" />
+      <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#f472b6" />
+      <text x="40" y="23" fontSize="10" fill="#f472b6" textAnchor="middle">{l.ears}</text>
+
+      <line x1="120" y1="65" x2="200" y2="40" stroke="#22c55e" strokeDasharray="3,2" />
+      <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#22c55e" />
+      <text x="205" y="43" fontSize="10" fill="#22c55e" textAnchor="middle">{l.nose}</text>
+
+      <line x1="120" y1="130" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" />
+      <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" />
+      <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text>
+    </svg>
+  );
+}
+function SVG_COW(lang: string) {
+  const labels = {
+    en: { ears: "Ears", nose: "Nose", legs: "4 Legs" },
+    de: { ears: "Ohren", nose: "Nase", legs: "4 Beine" },
+    hu: { ears: "Fülek", nose: "Orr", legs: "4 láb" },
+    ro: { ears: "Urechi", nose: "Nas", legs: "4 picioare" },
+  };
+
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="cowBg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#1e293b" />
+          <stop offset="100%" stopColor="#020617" />
+        </linearGradient>
+
+        <linearGradient id="cowBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#ffffff" />
+          <stop offset="100%" stopColor="#d1d5db" />
+        </linearGradient>
+
+        <linearGradient id="cowBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#f9fafb" />
+          <stop offset="100%" stopColor="#e5e7eb" stopOpacity="0.2" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="url(#cowBg)" />
+
+      {/* Body */}
+      <ellipse cx="120" cy="95" rx="55" ry="35" fill="url(#cowBody)" />
+      <ellipse cx="120" cy="105" rx="35" ry="20" fill="url(#cowBelly)" />
+
+      {/* Spots */}
+      <ellipse cx="100" cy="95" rx="15" ry="10" fill="#000" />
+      <ellipse cx="140" cy="85" rx="12" ry="8" fill="#000" />
+
+      {/* Head */}
+      <circle cx="120" cy="55" r="30" fill="url(#cowBody)" />
+
+      {/* Ears */}
+      <ellipse cx="90" cy="55" rx="10" ry="15" fill="#9ca3af" />
+      <ellipse cx="150" cy="55" rx="10" ry="15" fill="#9ca3af" />
+
+      {/* Eyes */}
+      <circle cx="110" cy="55" r="4" fill="#000" />
+      <circle cx="130" cy="55" r="4" fill="#000" />
+      <circle cx="111" cy="53" r="1" fill="white" />
+      <circle cx="131" cy="53" r="1" fill="white" />
+
+      {/* Nose */}
+      <ellipse cx="120" cy="70" rx="12" ry="8" fill="#fda4af" />
+      <circle cx="115" cy="70" r="2" fill="#000" />
+      <circle cx="125" cy="70" r="2" fill="#000" />
+
+      {/* Legs */}
+      <rect x="90" y="115" width="10" height="25" rx="5" fill="#9ca3af" />
+      <rect x="110" y="115" width="10" height="25" rx="5" fill="#9ca3af" />
+      <rect x="130" y="115" width="10" height="25" rx="5" fill="#9ca3af" />
+      <rect x="150" y="115" width="10" height="25" rx="5" fill="#9ca3af" />
+
+      {/* Tail */}
+      <path d="M 170 90 Q 200 70 185 100" stroke="#9ca3af" strokeWidth="6" fill="none" />
+
+      {/* LABELS */}
+      <line x1="90" y1="55" x2="40" y2="20" stroke="#e5e7eb" strokeDasharray="3,2" />
+      <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#e5e7eb" />
+      <text x="40" y="23" fontSize="10" fill="#e5e7eb" textAnchor="middle">{l.ears}</text>
+
+      <line x1="120" y1="70" x2="200" y2="40" stroke="#22c55e" strokeDasharray="3,2" />
+      <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#22c55e" />
+      <text x="205" y="43" fontSize="10" fill="#22c55e" textAnchor="middle">{l.nose}</text>
+
+      <line x1="120" y1="130" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" />
+      <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" />
+      <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text>
+    </svg>
+  );
+}
+function SVG_FROG(lang: string) {
+  const labels = {
+    en: { ears: "Eyes", nose: "Nose", legs: "4 Legs" },
+    de: { ears: "Augen", nose: "Nase", legs: "4 Beine" },
+    hu: { ears: "Szemek", nose: "Orr", legs: "4 láb" },
+    ro: { ears: "Ochi", nose: "Nas", legs: "4 picioare" },
+  };
+
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="frogBg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#1e293b" />
+          <stop offset="100%" stopColor="#020617" />
+        </linearGradient>
+
+        <linearGradient id="frogBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#4ade80" />
+          <stop offset="100%" stopColor="#15803d" />
+        </linearGradient>
+
+        <linearGradient id="frogBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#bbf7d0" />
+          <stop offset="100%" stopColor="#4ade80" stopOpacity="0.2" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="url(#frogBg)" />
+
+      {/* Body */}
+      <ellipse cx="120" cy="100" rx="55" ry="35" fill="url(#frogBody)" />
+      <ellipse cx="120" cy="110" rx="35" ry="20" fill="url(#frogBelly)" />
+
+      {/* Head */}
+      <circle cx="120" cy="60" r="28" fill="url(#frogBody)" />
+
+      {/* Eyes (big frog eyes) */}
+      <circle cx="100" cy="40" r="12" fill="#bbf7d0" />
+      <circle cx="140" cy="40" r="12" fill="#bbf7d0" />
+      <circle cx="100" cy="40" r="5" fill="#000" />
+      <circle cx="140" cy="40" r="5" fill="#000" />
+
+      {/* Nose */}
+      <circle cx="115" cy="65" r="2" fill="#000" />
+      <circle cx="125" cy="65" r="2" fill="#000" />
+
+      {/* Mouth */}
+      <path d="M110 75 Q120 82 130 75" stroke="#000" strokeWidth="2" fill="none" />
+
+      {/* Legs */}
+      <ellipse cx="90" cy="130" rx="10" ry="18" fill="#15803d" />
+      <ellipse cx="110" cy="130" rx="10" ry="18" fill="#15803d" />
+      <ellipse cx="130" cy="130" rx="10" ry="18" fill="#15803d" />
+      <ellipse cx="150" cy="130" rx="10" ry="18" fill="#15803d" />
+
+      {/* LABELS */}
+
+      {/* Eyes */}
+      <line x1="100" y1="40" x2="40" y2="20" stroke="#4ade80" strokeDasharray="3,2" />
+      <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#4ade80" />
+      <text x="40" y="23" fontSize="10" fill="#4ade80" textAnchor="middle">{l.ears}</text>
+
+      {/* Nose */}
+      <line x1="120" y1="65" x2="200" y2="40" stroke="#22c55e" strokeDasharray="3,2" />
+      <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#22c55e" />
+      <text x="205" y="43" fontSize="10" fill="#22c55e" textAnchor="middle">{l.nose}</text>
+
+      {/* Legs */}
+      <line x1="120" y1="130" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" />
+      <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" />
+      <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text>
+    </svg>
+  );
+}
+function SVG_DUCK(lang: string) {
+  const labels = {
+    en: { ears: "Head", nose: "Beak", legs: "2 Legs" },
+    de: { ears: "Kopf", nose: "Schnabel", legs: "2 Beine" },
+    hu: { ears: "Fej", nose: "Csőr", legs: "2 láb" },
+    ro: { ears: "Cap", nose: "Cioc", legs: "2 picioare" },
+  };
+
+  const l = labels[lang as keyof typeof labels] || labels.en;
+
+  return (
+    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
+      <defs>
+        <linearGradient id="duckBg" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#1e293b" />
+          <stop offset="100%" stopColor="#020617" />
+        </linearGradient>
+
+        <linearGradient id="duckBody" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fde047" />
+          <stop offset="100%" stopColor="#eab308" />
+        </linearGradient>
+
+        <linearGradient id="duckBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#fef9c3" />
+          <stop offset="100%" stopColor="#fde047" stopOpacity="0.2" />
+        </linearGradient>
+      </defs>
+
+      <rect width="240" height="160" fill="url(#duckBg)" />
+
+      {/* Body */}
+      <ellipse cx="120" cy="100" rx="55" ry="35" fill="url(#duckBody)" />
+      <ellipse cx="120" cy="110" rx="35" ry="20" fill="url(#duckBelly)" />
+
+      {/* Head */}
+      <circle cx="120" cy="60" r="28" fill="url(#duckBody)" />
+
+      {/* Eye */}
+      <circle cx="125" cy="60" r="4" fill="#000" />
+      <circle cx="126" cy="58" r="1" fill="#fff" />
+
+      {/* Beak */}
+      <ellipse cx="120" cy="75" rx="14" ry="8" fill="#f97316" />
+      <line x1="106" y1="75" x2="134" y2="75" stroke="#ea580c" strokeWidth="2" />
+
+      {/* Wings */}
+      <ellipse cx="105" cy="100" rx="15" ry="10" fill="#eab308" />
+      <ellipse cx="135" cy="100" rx="15" ry="10" fill="#eab308" />
+
+      {/* Legs */}
+      <rect x="105" y="125" width="6" height="20" rx="3" fill="#f97316" />
+      <rect x="129" y="125" width="6" height="20" rx="3" fill="#f97316" />
+
+      {/* Feet */}
+      <ellipse cx="108" cy="145" rx="8" ry="4" fill="#f97316" />
+      <ellipse cx="132" cy="145" rx="8" ry="4" fill="#f97316" />
+
+      {/* LABELS */}
+
+      {/* Head */}
+      <line x1="120" y1="60" x2="40" y2="20" stroke="#fde047" strokeDasharray="3,2" />
+      <rect x="10" y="10" width="60" height="18" rx="8" fill="black" stroke="#fde047" />
+      <text x="40" y="23" fontSize="10" fill="#fde047" textAnchor="middle">{l.ears}</text>
+
+      {/* Beak */}
+      <line x1="120" y1="75" x2="200" y2="40" stroke="#f97316" strokeDasharray="3,2" />
+      <rect x="180" y="30" width="50" height="18" rx="8" fill="black" stroke="#f97316" />
+      <text x="205" y="43" fontSize="10" fill="#f97316" textAnchor="middle">{l.nose}</text>
+
+      {/* Legs */}
+      <line x1="120" y1="135" x2="120" y2="155" stroke="#38bdf8" strokeDasharray="3,2" />
+      <rect x="90" y="140" width="60" height="18" rx="8" fill="black" stroke="#38bdf8" />
+      <text x="120" y="153" fontSize="10" fill="#38bdf8" textAnchor="middle">{l.legs}</text>
+    </svg>
+  );
+}
+function renderAnimal(animal: string, lang: string) {
+  const content = (() => {
+    switch (animal) {
+      case "dog": return <SVG_DOG lang={lang} />;
+      case "cat": return <SVG_CAT lang={lang} />;
+      case "cow": return <SVG_COW lang={lang} />;
+      case "frog": return <SVG_FROG lang={lang} />;
+      case "duck": return <SVG_DUCK lang={lang} />;
+      default:
+        return <span className="text-6xl">{ANIMAL_EMOJI[animal] ?? "🐾"}</span>;
+    }
+  })();
+
+  return (
+    <motion.div
+      whileTap={{ scale: 0.9, rotate: -2 }}
+      animate={{ rotate: [0, 2, -2, 0] }}
+      transition={{ duration: 0.4 }}
+      className="cursor-pointer"
+    >
+      {content}
+    </motion.div>
+  );
+}
+}
 const TOTAL_ROUNDS = 5;
 
 /* ─── i18n labels ─── */
@@ -640,7 +976,18 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   className="w-full max-w-xs py-6 rounded-2xl text-center"
                   style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}
                 >
-                  <p className="text-6xl mb-2">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+<motion.div
+  className="flex justify-center items-center h-[120px]"
+  whileHover={{ scale: 1.08 }}
+  animate={{ y: [0, -4, 0] }}
+  transition={{ repeat: Infinity, duration: 2 }}
+  style={{
+    filter: "drop-shadow(0 0 10px rgba(0,255,200,0.3))"
+  }}
+>
+  {renderAnimal(q.animal, lang)}
+</motion.div>  {renderAnimal(q.animal, lang)}
+</div>
                   <p className="text-white font-black text-lg">{lbl[q.animal]}</p>
                 </div>
 
@@ -734,7 +1081,7 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   className="w-full max-w-xs py-5 rounded-2xl text-center"
                   style={{ background: `${color}22`, border: `2px solid ${color}55` }}
                 >
-                  <p className="text-5xl mb-1">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+                {renderAnimal(q.animal, lang)}
                   <p className="font-black text-white text-base">{lbl[q.animal]}</p>
                 </div>
 
@@ -795,7 +1142,7 @@ function AnimalExplorer({ color, lang = "de", onDone, onClose }: Props) {
                   className="w-full max-w-xs py-5 rounded-2xl text-center"
                   style={{ background: `${color}22`, border: `2px solid ${color}55` }}
                 >
-                  <p className="text-5xl mb-1">{ANIMAL_EMOJI[q.animal] ?? "🐾"}</p>
+                  {renderAnimal(q.animal, lang)}
                   <p className="font-black text-white text-base">{lbl[q.animal]}</p>
                 </div>
 
