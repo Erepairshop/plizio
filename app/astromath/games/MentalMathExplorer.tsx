@@ -1,454 +1,384 @@
 "use client";
-// MentalMathExplorer — Mental arithmetic with round numbers for Grade 2 (i2)
-// Teaches: adding/subtracting tens, +10 jumps, number sequences.
-// Step by step, no wrong answers.
+// MentalMathExplorer — Mental arithmetic with tens for Grade 2 (island i2)
+// Uses new topic-based ExplorerEngine mode
 
-import { memo, useState, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── Translations ────────────────────────────────────────────────────────────
+// ─── SVG: Ten-bars ────────────────────────────────────────────────────────────
+
+const TenBarsSvg = memo(function TenBarsSvg({ bars = 4, addBars = 2 }: { bars?: number; addBars?: number }) {
+  return (
+    <svg width="100%" viewBox="0 0 240 130">
+      <defs>
+        <linearGradient id="mmG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="130" fill="url(#mmG)" rx="16" />
+      {Array.from({ length: bars }, (_, i) => (
+        <rect key={i} x={14 + i * 20} y="20" width="14" height="70" rx="4"
+          fill="#00D4FF" opacity="0.75" />
+      ))}
+      <text x={14 + bars * 20 + 8} y="62" fontSize="18" fontWeight="900"
+        fill="rgba(255,255,255,0.55)" textAnchor="middle" dominantBaseline="middle">+</text>
+      {Array.from({ length: addBars }, (_, i) => (
+        <rect key={i} x={14 + bars * 20 + 22 + i * 20} y="20" width="14" height="70" rx="4"
+          fill="#10B981" opacity="0.75" />
+      ))}
+      <text x="120" y="112" fontSize="13" fontWeight="800"
+        fill="rgba(255,255,255,0.7)" textAnchor="middle">
+        {bars}×10 + {addBars}×10 = {(bars + addBars) * 10}
+      </text>
+    </svg>
+  );
+});
+
+// ─── SVG: Sequence +10 ───────────────────────────────────────────────────────
+
+const SequenceSvg = memo(function SequenceSvg({ start = 20, count = 5 }: { start?: number; count?: number }) {
+  const nums = Array.from({ length: count }, (_, i) => start + i * 10);
+  return (
+    <svg width="100%" viewBox="0 0 240 100">
+      <defs>
+        <linearGradient id="seqG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#B44DFF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#D88FFF" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="100" fill="url(#seqG)" rx="16" />
+      {nums.map((n, i) => {
+        const x = 24 + i * 48;
+        const isLast = i === count - 1;
+        return (
+          <g key={i}>
+            <rect x={x - 18} y="28" width="36" height="36" rx="8"
+              fill={isLast ? "#B44DFF" : "rgba(255,255,255,0.1)"} opacity="0.9" />
+            <text x={x} y="52" fontSize="14" fontWeight="900"
+              fill={isLast ? "white" : "rgba(255,255,255,0.8)"}
+              textAnchor="middle" dominantBaseline="middle">{n}</text>
+            {i < count - 1 && (
+              <text x={x + 24} y="50" fontSize="11"
+                fill="rgba(255,255,255,0.45)" textAnchor="middle" dominantBaseline="middle">+10</text>
+            )}
+          </g>
+        );
+      })}
+    </svg>
+  );
+});
+
+// ─── SVG: Subtract tens ──────────────────────────────────────────────────────
+
+const SubTensSvg = memo(function SubTensSvg({ start = 80, sub = 30 }: { start?: number; sub?: number }) {
+  const result = start - sub;
+  const ticks = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+  return (
+    <svg width="100%" viewBox="0 0 240 100">
+      <defs>
+        <linearGradient id="subTG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#FF9B9B" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="100" fill="url(#subTG)" rx="16" />
+      <line x1="15" y1="55" x2="225" y2="55"
+        stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round" />
+      {ticks.map((n, i) => {
+        const x = 15 + i * 21;
+        const isKey = n === start || n === result;
+        return (
+          <g key={n}>
+            <line x1={x} y1="49" x2={x} y2="61"
+              stroke={isKey ? "#FF6B6B" : "rgba(255,255,255,0.25)"}
+              strokeWidth={isKey ? 2.5 : 1.5} />
+            <text x={x} y="74" fontSize={isKey ? "10" : "8"} fontWeight={isKey ? "900" : "500"}
+              fill={isKey ? "#FF6B6B" : "rgba(255,255,255,0.45)"} textAnchor="middle">{n}</text>
+          </g>
+        );
+      })}
+      <text x="120" y="92" fontSize="12" fontWeight="800"
+        fill="rgba(255,255,255,0.7)" textAnchor="middle">
+        {start} − {sub} = {result}
+      </text>
+    </svg>
+  );
+});
+
+// ─── Labels ───────────────────────────────────────────────────────────────────
+
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    title: "Mental Math Explorer",
-    intro: "We can add and subtract TENS quickly in our heads!",
-    tapBars: "Tap each ten-bar to count!",
-    weHave: "We have",
-    weAdd: "we add",
-    weRemove: "we remove",
-    result: "Result:",
-    tapAdd: "Tap to add!",
-    tapRemove: "Tap to remove!",
-    tapReveal: "Tap to see!",
-    seqIntro: "Find the pattern!",
-    seqRule: "The rule:",
-    seqEvery: "Every time:",
-    next: "Next",
-    done: "Amazing!",
-  },
-  hu: {
-    title: "Fejszámolás felfedezés",
-    intro: "A TÍZESEKET gyorsan összeadhatjuk és kivonhatjuk fejben!",
-    tapBars: "Koppints minden tízes sávra a számoláshoz!",
-    weHave: "Van",
-    weAdd: "hozzáadunk",
-    weRemove: "elveszünk",
-    result: "Eredmény:",
-    tapAdd: "Koppints a hozzáadáshoz!",
-    tapRemove: "Koppints az elvételhez!",
-    tapReveal: "Koppints a felfedezéshez!",
-    seqIntro: "Találd meg a szabályt!",
-    seqRule: "A szabály:",
-    seqEvery: "Mindig:",
-    next: "Következő",
-    done: "Fantasztikus!",
+    explorer_title: "Mental Math Explorer",
+    t1_title: "Adding Tens in Your Head",
+    t1_text: "Adding tens is easy — just add the tens digits! 40 + 20: four tens + two tens = six tens = 60. No need to count by ones!",
+    t1_b1: "40 + 20 = 4 tens + 2 tens = 6 tens = 60",
+    t1_b2: "Tens numbers always end in 0",
+    t1_b3: "Ask: how many tens in total?",
+    t1_inst: "Start at 40 and add 20 — jump 2 tens forward!",
+    t1_h1: "40 = 4 tens. Add 2 more: 4 + 2 = 6",
+    t1_h2: "6 tens = 60 — tap 60!",
+    t1_q: "What is 30 + 50?",
+    t1_q_80: "80",
+    t1_q_35: "35",
+    t1_q_53: "53",
+    t1_q_8: "8",
+    t2_title: "Counting by Tens",
+    t2_text: "When we count by tens, each next number is exactly 10 more: 20, 30, 40, 50 … The ones digit stays the SAME! Only the tens digit changes by 1.",
+    t2_b1: "Each step forward = +10",
+    t2_b2: "Ones digit stays the same",
+    t2_b3: "Tens digit goes up by 1",
+    t2_inst: "What comes after 60 when counting by tens?",
+    t2_h1: "60, then one more ten...",
+    t2_h2: "60 + 10 = 70 — tap 70!",
+    t2_q: "What number comes next? 45, 55, 65, __",
+    t2_q_75: "75",
+    t2_q_66: "66",
+    t2_q_70: "70",
+    t2_q_56: "56",
+    t3_title: "Subtracting Tens in Your Head",
+    t3_text: "Subtracting tens works the same way — subtract the tens digits! 80 − 30: eight tens − three tens = five tens = 50. Easy!",
+    t3_b1: "80 − 30 = 8 tens − 3 tens = 5 tens = 50",
+    t3_b2: "Jump LEFT on the number line",
+    t3_b3: "Ask: how many tens are left?",
+    t3_inst: "Start at 70 and subtract 20 — jump 2 tens back!",
+    t3_h1: "70 = 7 tens. Take away 2: 7 − 2 = 5",
+    t3_h2: "5 tens = 50 — tap 50!",
+    t3_q: "What is 90 − 40?",
+    t3_q_50: "50",
+    t3_q_94: "94",
+    t3_q_40: "40",
+    t3_q_5: "5",
   },
   de: {
-    title: "Kopfrechnen entdecken",
-    intro: "Wir können ZEHNER schnell im Kopf addieren und subtrahieren!",
-    tapBars: "Tippe auf jeden Zehnerstab zum Zählen!",
-    weHave: "Wir haben",
-    weAdd: "wir addieren",
-    weRemove: "wir subtrahieren",
-    result: "Ergebnis:",
-    tapAdd: "Tippe zum Addieren!",
-    tapRemove: "Tippe zum Subtrahieren!",
-    tapReveal: "Tippe zum Entdecken!",
-    seqIntro: "Finde das Muster!",
-    seqRule: "Die Regel:",
-    seqEvery: "Jedes Mal:",
-    next: "Weiter",
-    done: "Super!",
+    explorer_title: "Kopfrechnen entdecken",
+    t1_title: "Zehner im Kopf addieren",
+    t1_text: "Zehner addieren ist leicht — addiere einfach die Zehnerziffern! 40 + 20: vier Zehner + zwei Zehner = sechs Zehner = 60. Kein Einzelzählen nötig!",
+    t1_b1: "40 + 20 = 4 Zehner + 2 Zehner = 6 Zehner = 60",
+    t1_b2: "Zehnerzahlen enden immer auf 0",
+    t1_b3: "Frage: wie viele Zehner insgesamt?",
+    t1_inst: "Starte bei 40 und addiere 20 — springe 2 Zehner vorwärts!",
+    t1_h1: "40 = 4 Zehner. Noch 2 dazu: 4 + 2 = 6",
+    t1_h2: "6 Zehner = 60 — tippe auf 60!",
+    t1_q: "Was ist 30 + 50?",
+    t1_q_80: "80",
+    t1_q_35: "35",
+    t1_q_53: "53",
+    t1_q_8: "8",
+    t2_title: "In Zehnern zählen",
+    t2_text: "Beim Zählen in Zehnern ist jede nächste Zahl genau 10 mehr: 20, 30, 40, 50 … Die Einerziffer bleibt GLEICH! Nur die Zehnerziffer ändert sich um 1.",
+    t2_b1: "Jeder Schritt = +10",
+    t2_b2: "Einerziffer bleibt gleich",
+    t2_b3: "Zehnerziffer steigt um 1",
+    t2_inst: "Was kommt nach 60, wenn man in Zehnern zählt?",
+    t2_h1: "60, dann noch ein Zehner...",
+    t2_h2: "60 + 10 = 70 — tippe auf 70!",
+    t2_q: "Welche Zahl fehlt? 45, 55, 65, __",
+    t2_q_75: "75",
+    t2_q_66: "66",
+    t2_q_70: "70",
+    t2_q_56: "56",
+    t3_title: "Zehner im Kopf subtrahieren",
+    t3_text: "Zehner subtrahieren funktioniert genauso — subtrahiere die Zehnerziffern! 80 − 30: acht Zehner − drei Zehner = fünf Zehner = 50. Ganz einfach!",
+    t3_b1: "80 − 30 = 8 Zehner − 3 Zehner = 5 Zehner = 50",
+    t3_b2: "Nach links springen auf dem Zahlenstrahl",
+    t3_b3: "Frage: wie viele Zehner bleiben?",
+    t3_inst: "Starte bei 70 und subtrahiere 20 — springe 2 Zehner zurück!",
+    t3_h1: "70 = 7 Zehner. Minus 2: 7 − 2 = 5",
+    t3_h2: "5 Zehner = 50 — tippe auf 50!",
+    t3_q: "Was ist 90 − 40?",
+    t3_q_50: "50",
+    t3_q_94: "94",
+    t3_q_40: "40",
+    t3_q_5: "5",
+  },
+  hu: {
+    explorer_title: "Fejszámolás felfedezés",
+    t1_title: "Tízesek összeadása fejben",
+    t1_text: "A tízeseket könnyű összeadni — csak a tízes számjegyeket add össze! 40 + 20: négy tízes + két tízes = hat tízes = 60. Nem kell egyesenként számolni!",
+    t1_b1: "40 + 20 = 4 tízes + 2 tízes = 6 tízes = 60",
+    t1_b2: "Tízes számok mindig 0-ra végződnek",
+    t1_b3: "Kérdezd: összesen hány tízes?",
+    t1_inst: "Indulj a 40-ről és add hozzá a 20-at — ugorj 2 tízest előre!",
+    t1_h1: "40 = 4 tízes. Még 2 tízes: 4 + 2 = 6",
+    t1_h2: "6 tízes = 60 — koppints a 60-ra!",
+    t1_q: "Mennyi 30 + 50?",
+    t1_q_80: "80",
+    t1_q_35: "35",
+    t1_q_53: "53",
+    t1_q_8: "8",
+    t2_title: "Tízenként számolás",
+    t2_text: "Tízenként számolva minden következő szám pontosan 10-zel több: 20, 30, 40, 50 … Az egyes számjegy UGYANAZ marad! Csak a tízes változik 1-gyel.",
+    t2_b1: "Minden lépés = +10",
+    t2_b2: "Egyes számjegy marad ugyanaz",
+    t2_b3: "Tízes számjegy 1-gyel nő",
+    t2_inst: "Mi jön a 60 után, ha tízenként számolunk?",
+    t2_h1: "60, majd még egy tízes...",
+    t2_h2: "60 + 10 = 70 — koppints a 70-re!",
+    t2_q: "Melyik szám hiányzik? 45, 55, 65, __",
+    t2_q_75: "75",
+    t2_q_66: "66",
+    t2_q_70: "70",
+    t2_q_56: "56",
+    t3_title: "Tízesek kivonása fejben",
+    t3_text: "A tízesek kivonása ugyanúgy működik — von ki a tízes számjegyeket! 80 − 30: nyolc tízes − három tízes = öt tízes = 50. Egyszerű!",
+    t3_b1: "80 − 30 = 8 tízes − 3 tízes = 5 tízes = 50",
+    t3_b2: "A számegyenesen balra ugrás",
+    t3_b3: "Kérdezd: hány tízes marad?",
+    t3_inst: "Indulj a 70-ről és von ki 20-at — ugorj 2 tízest vissza!",
+    t3_h1: "70 = 7 tízes. Minus 2: 7 − 2 = 5",
+    t3_h2: "5 tízes = 50 — koppints az 50-re!",
+    t3_q: "Mennyi 90 − 40?",
+    t3_q_50: "50",
+    t3_q_94: "94",
+    t3_q_40: "40",
+    t3_q_5: "5",
   },
   ro: {
-    title: "Calcul mental",
-    intro: "Putem aduna și scădea ZECILE rapid în minte!",
-    tapBars: "Atinge fiecare bară de zeci pentru a număra!",
-    weHave: "Avem",
-    weAdd: "adunăm",
-    weRemove: "scădem",
-    result: "Rezultat:",
-    tapAdd: "Atinge pentru a aduna!",
-    tapRemove: "Atinge pentru a scădea!",
-    tapReveal: "Atinge pentru a descoperi!",
-    seqIntro: "Găsește regula!",
-    seqRule: "Regula:",
-    seqEvery: "De fiecare dată:",
-    next: "Înainte",
-    done: "Excelent!",
+    explorer_title: "Calcul mental",
+    t1_title: "Adunarea zecilor în minte",
+    t1_text: "Adunarea zecilor este ușoară — aduni doar cifrele zecilor! 40 + 20: patru zeci + două zeci = șase zeci = 60. Nu trebuie să numeri unu câte unu!",
+    t1_b1: "40 + 20 = 4 zeci + 2 zeci = 6 zeci = 60",
+    t1_b2: "Numerele de zeci se termină în 0",
+    t1_b3: "Întreabă: câte zeci în total?",
+    t1_inst: "Pornește de la 40 și adaugă 20 — sari 2 zeci înainte!",
+    t1_h1: "40 = 4 zeci. Încă 2 zeci: 4 + 2 = 6",
+    t1_h2: "6 zeci = 60 — atinge 60!",
+    t1_q: "Cât este 30 + 50?",
+    t1_q_80: "80",
+    t1_q_35: "35",
+    t1_q_53: "53",
+    t1_q_8: "8",
+    t2_title: "Numărare din 10 în 10",
+    t2_text: "Când numărăm din 10 în 10, fiecare următor este cu 10 mai mare: 20, 30, 40, 50 … Cifra unităților rămâne ACEEAȘI! Doar cifra zecilor crește cu 1.",
+    t2_b1: "Fiecare pas = +10",
+    t2_b2: "Cifra unităților rămâne aceeași",
+    t2_b3: "Cifra zecilor crește cu 1",
+    t2_inst: "Ce vine după 60 când numărăm din 10 în 10?",
+    t2_h1: "60, apoi încă o zece...",
+    t2_h2: "60 + 10 = 70 — atinge 70!",
+    t2_q: "Ce număr lipsește? 45, 55, 65, __",
+    t2_q_75: "75",
+    t2_q_66: "66",
+    t2_q_70: "70",
+    t2_q_56: "56",
+    t3_title: "Scăderea zecilor în minte",
+    t3_text: "Scăderea zecilor funcționează la fel — scazi cifrele zecilor! 80 − 30: opt zeci − trei zeci = cinci zeci = 50. Simplu!",
+    t3_b1: "80 − 30 = 8 zeci − 3 zeci = 5 zeci = 50",
+    t3_b2: "Salt la stânga pe dreapta numerelor",
+    t3_b3: "Întreabă: câte zeci rămân?",
+    t3_inst: "Pornește de la 70 și scade 20 — sari 2 zeci înapoi!",
+    t3_h1: "70 = 7 zeci. Minus 2: 7 − 2 = 5",
+    t3_h2: "5 zeci = 50 — atinge 50!",
+    t3_q: "Cât este 90 − 40?",
+    t3_q_50: "50",
+    t3_q_94: "94",
+    t3_q_40: "40",
+    t3_q_5: "5",
   },
 };
 
-// ─── Round data ──────────────────────────────────────────────────────────────
-type RoundType = "add-tens" | "sub-tens" | "sequence";
-interface AddTensRound { type: "add-tens"; a: number; b: number }
-interface SubTensRound { type: "sub-tens"; a: number; b: number }
-interface SequenceRound { type: "sequence"; shown: number[]; step: number; next: number }
-type Round = AddTensRound | SubTensRound | SequenceRound;
+// ─── Topic definitions ────────────────────────────────────────────────────────
 
-const ROUNDS: Round[] = [
-  { type: "add-tens", a: 30, b: 20 },
-  { type: "sub-tens", a: 70, b: 30 },
-  { type: "add-tens", a: 40, b: 50 },
-  { type: "sub-tens", a: 90, b: 60 },
-  { type: "sequence", shown: [10, 20, 30, 40], step: 10, next: 50 },
-  { type: "sequence", shown: [5, 10, 15, 20], step: 5, next: 25 },
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <TenBarsSvg bars={4} addBars={2} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "number-line",
+      min: 0,
+      max: 100,
+      step: 10,
+      start: 40,
+      target: 60,
+      showJumps: true,
+      jumpCount: 2,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_35", "t1_q_8", "t1_q_53", "t1_q_80"],
+      answer: "t1_q_80",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <SequenceSvg start={20} count={5} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "number-line",
+      min: 50,
+      max: 80,
+      step: 10,
+      start: 60,
+      target: 70,
+      showJumps: true,
+      jumpCount: 1,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_66", "t2_q_70", "t2_q_56", "t2_q_75"],
+      answer: "t2_q_75",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <SubTensSvg start={80} sub={30} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      min: 40,
+      max: 80,
+      step: 10,
+      start: 70,
+      target: 50,
+      showJumps: true,
+      jumpCount: 2,
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_94", "t3_q_40", "t3_q_5", "t3_q_50"],
+      answer: "t3_q_50",
+    },
+  },
 ];
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+// ─── Explorer definition ──────────────────────────────────────────────────────
 
-// ─── Ten bar visual ──────────────────────────────────────────────────────────
-function TenBar({ color, dim }: { color: string; dim?: boolean }) {
-  return (
-    <div className="w-5 h-14 rounded-md flex flex-col gap-0.5 p-0.5"
-      style={{
-        background: dim ? "rgba(255,255,255,0.04)" : `${color}33`,
-        border: `1.5px solid ${dim ? "rgba(255,255,255,0.1)" : `${color}66`}`,
-        opacity: dim ? 0.4 : 1,
-      }}>
-      {Array.from({ length: 5 }).map((_, i) => (
-        <div key={i} className="flex-1 rounded-sm"
-          style={{ background: dim ? "rgba(255,255,255,0.08)" : color }} />
-      ))}
-    </div>
-  );
-}
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🧠",
+  topics: TOPICS,
+  rounds: [],
+};
 
-// ─── Main Component ──────────────────────────────────────────────────────────
+// ─── Export ───────────────────────────────────────────────────────────────────
+
 const MentalMathExplorer = memo(function MentalMathExplorer({
-  color, onDone, lang = "en",
+  color = "#00D4FF",
+  onDone,
+  lang = "en",
 }: {
-  color: string;
-  onDone: (score: number, total: number) => void;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState(() => shuffle(ROUNDS));
-  const [idx, setIdx] = useState(0);
-  // Steps: 0=show, 1=action, 2=reveal
-  const [step, setStep] = useState(0);
-
-  const round = rounds[idx];
-
-  const handleNext = useCallback(() => {
-    if (idx + 1 >= rounds.length) {
-      onDone(rounds.length, rounds.length);
-      return;
-    }
-    setIdx(i => i + 1);
-    setStep(0);
-  }, [idx, rounds.length, onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-3">
-      {/* Progress */}
-      <div className="flex gap-1.5 w-full">
-        {rounds.map((_, i) => (
-          <div key={i} className="flex-1 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.12)" }} />
-        ))}
-      </div>
-
-      {idx === 0 && step === 0 && (
-        <p className="text-white/50 text-xs font-medium text-center px-4">{lbl.intro}</p>
-      )}
-
-      <AnimatePresence mode="wait">
-        <motion.div key={`${idx}-${step}`}
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
-          className="w-full flex flex-col items-center gap-3"
-        >
-          {/* ADD TENS */}
-          {round.type === "add-tens" && (() => {
-            const { a, b } = round;
-            const tA = a / 10, tB = b / 10;
-            const result = a + b;
-            return (
-              <>
-                {/* Step 0: show first number */}
-                {step === 0 && (
-                  <>
-                    <div className="flex items-center justify-center gap-2">
-                      <p className="text-white/60 text-xs font-bold text-center">
-                        {lbl.weHave} {a}, {lbl.weAdd} {b}
-                      </p>
-                      <SpeakButton text={`${lbl.weHave} ${a}, ${lbl.weAdd} ${b}`} lang={lang} size={14} />
-                    </div>
-                    <div className="flex gap-1 justify-center">
-                      {Array.from({ length: tA }).map((_, i) => (
-                        <motion.div key={i} initial={{ scale: 0 }} animate={{ scale: 1 }}
-                          transition={{ delay: i * 0.1 }}>
-                          <TenBar color={color} />
-                        </motion.div>
-                      ))}
-                    </div>
-                    <p className="text-lg font-black" style={{ color }}>{a}</p>
-                    <motion.button onClick={() => setStep(1)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapAdd} +{b}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 1: add bars animate in */}
-                {step === 1 && (
-                  <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {a} + {b} = ?
-                    </p>
-                    <div className="flex gap-1 justify-center flex-wrap">
-                      {Array.from({ length: tA }).map((_, i) => (
-                        <TenBar key={`a-${i}`} color={`${color}88`} />
-                      ))}
-                      {Array.from({ length: tB }).map((_, i) => (
-                        <motion.div key={`b-${i}`} initial={{ scale: 0, y: -20 }} animate={{ scale: 1, y: 0 }}
-                          transition={{ delay: i * 0.15 }}>
-                          <TenBar color="#00FF88" />
-                        </motion.div>
-                      ))}
-                    </div>
-                    <motion.button
-                      initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                      transition={{ delay: tB * 0.15 + 0.3 }}
-                      onClick={() => setStep(2)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapReveal}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 2: reveal result */}
-                {step === 2 && (
-                  <>
-                    <motion.div
-                      className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}
-                      animate={{ scale: [0.95, 1.02, 1] }} transition={{ duration: 0.4 }}>
-                      <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.result}</p>
-                      <p className="text-center text-3xl font-black" style={{ color: "#00FF88" }}>
-                        {a} + {b} = {result}
-                      </p>
-                      <p className="text-center text-sm font-bold text-white/50 mt-1">
-                        {tA} + {tB} = {tA + tB} {lbl.tapBars.includes("ten") ? "tens" : lang === "hu" ? "tízes" : lang === "de" ? "Zehner" : lang === "ro" ? "zeci" : "tens"}
-                      </p>
-                    </motion.div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.done : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </>
-                )}
-              </>
-            );
-          })()}
-
-          {/* SUB TENS */}
-          {round.type === "sub-tens" && (() => {
-            const { a, b } = round;
-            const tA = a / 10, tB = b / 10;
-            const result = a - b;
-            return (
-              <>
-                {/* Step 0: show all bars */}
-                {step === 0 && (
-                  <>
-                    <div className="flex items-center justify-center gap-2">
-                      <p className="text-white/60 text-xs font-bold text-center">
-                        {lbl.weHave} {a}, {lbl.weRemove} {b}
-                      </p>
-                      <SpeakButton text={`${lbl.weHave} ${a}, ${lbl.weRemove} ${b}`} lang={lang} size={14} />
-                    </div>
-                    <div className="flex gap-1 justify-center">
-                      {Array.from({ length: tA }).map((_, i) => (
-                        <motion.div key={i} initial={{ scale: 0 }} animate={{ scale: 1 }}
-                          transition={{ delay: i * 0.1 }}>
-                          <TenBar color={color} />
-                        </motion.div>
-                      ))}
-                    </div>
-                    <p className="text-lg font-black" style={{ color }}>{a}</p>
-                    <motion.button onClick={() => setStep(1)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapRemove} –{b}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 1: bars fade out */}
-                {step === 1 && (
-                  <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {a} – {b} = ?
-                    </p>
-                    <div className="flex gap-1 justify-center flex-wrap">
-                      {Array.from({ length: tA }).map((_, i) => {
-                        const removing = i >= tA - tB;
-                        return removing ? (
-                          <motion.div key={i} initial={{ scale: 1, opacity: 1 }}
-                            animate={{ scale: 0, opacity: 0 }}
-                            transition={{ delay: (i - (tA - tB)) * 0.2 }}>
-                            <TenBar color="#ef4444" />
-                          </motion.div>
-                        ) : (
-                          <TenBar key={i} color={color} />
-                        );
-                      })}
-                    </div>
-                    <motion.button
-                      initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                      transition={{ delay: tB * 0.2 + 0.5 }}
-                      onClick={() => setStep(2)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapReveal}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 2: reveal */}
-                {step === 2 && (
-                  <>
-                    <motion.div
-                      className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}
-                      animate={{ scale: [0.95, 1.02, 1] }} transition={{ duration: 0.4 }}>
-                      <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.result}</p>
-                      <p className="text-center text-3xl font-black" style={{ color: "#00FF88" }}>
-                        {a} – {b} = {result}
-                      </p>
-                      <p className="text-center text-sm font-bold text-white/50 mt-1">
-                        {tA} – {tB} = {tA - tB} {lang === "hu" ? "tízes" : lang === "de" ? "Zehner" : lang === "ro" ? "zeci" : "tens"}
-                      </p>
-                    </motion.div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.done : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </>
-                )}
-              </>
-            );
-          })()}
-
-          {/* SEQUENCE */}
-          {round.type === "sequence" && (() => {
-            const { shown, step: seqStep, next: seqNext } = round;
-            return (
-              <>
-                {/* Step 0: show numbers */}
-                {step === 0 && (
-                  <>
-                    <div className="flex items-center justify-center gap-2">
-                      <p className="text-white/60 text-xs font-bold text-center">{lbl.seqIntro}</p>
-                      <SpeakButton text={lbl.seqIntro} lang={lang} size={14} />
-                    </div>
-                    <div className="flex gap-2 justify-center">
-                      {shown.map((n, i) => (
-                        <motion.div key={i}
-                          className="w-12 h-12 rounded-xl flex items-center justify-center text-lg font-black"
-                          style={{ background: `${color}22`, border: `2px solid ${color}55`, color }}
-                          initial={{ scale: 0 }} animate={{ scale: 1 }}
-                          transition={{ delay: i * 0.12 }}>
-                          {n}
-                        </motion.div>
-                      ))}
-                      <div className="w-12 h-12 rounded-xl flex items-center justify-center text-lg font-black"
-                        style={{ background: "rgba(255,255,255,0.04)", border: "2px dashed rgba(255,255,255,0.2)", color: "rgba(255,255,255,0.3)" }}>
-                        ?
-                      </div>
-                    </div>
-                    <motion.button onClick={() => setStep(1)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapReveal}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 1: show pattern rule */}
-                {step === 1 && (
-                  <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.seqRule}</p>
-                    <div className="w-full rounded-2xl p-4"
-                      style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
-                      <div className="flex gap-1.5 justify-center items-center">
-                        {shown.map((n, i) => (
-                          <div key={i} className="flex items-center gap-1">
-                            <span className="text-lg font-black" style={{ color }}>{n}</span>
-                            {i < shown.length - 1 && (
-                              <span className="text-xs font-black" style={{ color: "#00FF88" }}>+{seqStep}</span>
-                            )}
-                          </div>
-                        ))}
-                      </div>
-                      <p className="text-center text-xs font-bold text-white/50 mt-2">
-                        {lbl.seqEvery} +{seqStep}
-                      </p>
-                    </div>
-                    <motion.button onClick={() => setStep(2)}
-                      className="w-full py-3 rounded-2xl font-black text-white text-sm"
-                      style={{ background: `${color}22`, border: `2px solid ${color}55` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {lbl.tapReveal}
-                    </motion.button>
-                  </>
-                )}
-
-                {/* Step 2: reveal next */}
-                {step === 2 && (
-                  <>
-                    <motion.div
-                      className="w-full rounded-2xl px-5 py-4"
-                      style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}
-                      animate={{ scale: [0.95, 1.02, 1] }} transition={{ duration: 0.4 }}>
-                      <div className="flex gap-2 justify-center items-center">
-                        {shown.map((n, i) => (
-                          <span key={i} className="text-lg font-black" style={{ color: "rgba(255,255,255,0.5)" }}>{n}</span>
-                        ))}
-                        <motion.span className="text-3xl font-black" style={{ color: "#00FF88" }}
-                          initial={{ scale: 0 }} animate={{ scale: 1 }}>
-                          {seqNext}
-                        </motion.span>
-                      </div>
-                      <p className="text-center text-sm font-bold text-white/50 mt-2">
-                        {shown[shown.length - 1]} + {seqStep} = {seqNext}
-                      </p>
-                    </motion.div>
-                    <motion.button onClick={handleNext}
-                      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-                      whileTap={{ scale: 0.97 }}>
-                      {idx + 1 >= rounds.length ? lbl.done : lbl.next} <ChevronRight size={16} />
-                    </motion.button>
-                  </>
-                )}
-              </>
-            );
-          })()}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={2} explorerId="math_g2_mentalmath" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default MentalMathExplorer;

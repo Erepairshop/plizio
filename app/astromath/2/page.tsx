@@ -843,14 +843,12 @@ export default function AstroMathG2Page() {
   );
   if (screen === "column-addsub" && activeIsland) return (
     <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <ColumnAddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
-        mode={activeIsland.id === "i4" ? "sub" : "add"} />
+      <ColumnAddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
     </div>
   );
   if (screen === "carry-borrow" && activeIsland) return (
     <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <CarryBorrowExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
-        mode={activeIsland.id === "i6" ? "borrow" : "carry"} />
+      <CarryBorrowExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
     </div>
   );
   if (screen === "multiplication-explorer") return (
