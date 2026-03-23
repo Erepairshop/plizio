@@ -292,7 +292,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
 
-  const currentRound = rounds[round];
+  // In topic mode rounds[] is empty — use a dummy round to avoid undefined crashes
+  const EMPTY_ROUND: RoundDef = { type: "info", infoTitle: "", infoText: "", svg: () => null };
+  const currentRound = rounds[round] || EMPTY_ROUND;
 
   // Shuffle order sequence once per mount
   const shuffledOrders = useMemo(() => {
