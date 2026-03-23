@@ -33,6 +33,7 @@ import AdditionExplorer3 from "@/app/astromath/games/AdditionExplorer3";
 import SubtractionExplorer3 from "@/app/astromath/games/SubtractionExplorer3";
 import MultiplicationExplorer3 from "@/app/astromath/games/MultiplicationExplorer3";
 import DivisionExplorer3 from "@/app/astromath/games/DivisionExplorer3";
+import UnitExplorer3 from "@/app/astromath/games/UnitExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -841,7 +842,11 @@ export default function AstroMathG3Page() {
           <WordProblemExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
         )}
         {screen === "unit-explorer" && (
-          <UnitExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          activeIsland?.id === "i6" ? (
+            <UnitExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <UnitExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          )
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
