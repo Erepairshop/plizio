@@ -9,6 +9,7 @@ import { memo, useState, useCallback, useMemo, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2, Mic, MicOff, MessageCircleQuestion, Loader2 } from "lucide-react";
 import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
+import { getUsername } from "@/lib/username";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -93,6 +94,10 @@ export interface ExplorerDef {
   labels: Record<string, Record<string, string>>;
   /** Rounds (typically 5, but flexible) */
   rounds: RoundDef[];
+  /** Optional: explorer title label key (enables welcome screen) */
+  title?: string;
+  /** Optional: explorer icon emoji (e.g. "🐟") */
+  icon?: string;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -126,17 +131,17 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check", welcomeHi: "Hey", welcomeTopics: "Today we'll explore:", welcomeGo: "Let's go! →" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen", welcomeHi: "Hallo", welcomeTopics: "Heute lernen wir:", welcomeGo: "Los geht's! →" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés", welcomeHi: "Szia", welcomeTopics: "Ma ezeket fedezzük fel:", welcomeGo: "Rajt! →" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică", welcomeHi: "Salut", welcomeTopics: "Azi vom explora:", welcomeGo: "Să începem! →" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Engine Component
 // ─────────────────────────────────────────────────────────────────────────────
 
-type Phase = "info" | "question" | "think-first" | "interactive";
+type Phase = "welcome" | "info" | "question" | "think-first" | "interactive";
 
 // ─── Play count tracking (localStorage) ──────────────────────────────────
 function getPlayCount(id: string): number {
@@ -168,8 +173,28 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   }, [explorerId]);
 
   const [round, setRound] = useState(0);
+  const hasWelcome = !!(def.title || def.icon);
   const firstIsInteractive = rounds[0] && (rounds[0].type === "tap-count" || rounds[0].type === "compare" || rounds[0].type === "fill-in" || rounds[0].type === "custom");
-  const [phase, setPhase] = useState<Phase>(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+  const [phase, setPhase] = useState<Phase>(hasWelcome ? "welcome" : firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+
+  // Username for welcome screen
+  const username = useMemo(() => {
+    if (typeof window === "undefined") return null;
+    return getUsername();
+  }, []);
+
+  // Topic list derived from round titles (R1-R4 typically, skip duplicates)
+  const welcomeTopics = useMemo(() => {
+    const seen = new Set<string>();
+    const topics: string[] = [];
+    for (const r of rounds) {
+      if (r.infoTitle && !seen.has(r.infoTitle)) {
+        seen.add(r.infoTitle);
+        topics.push(r.infoTitle);
+      }
+    }
+    return topics.slice(0, 5); // max 5
+  }, [rounds]);
   const [subIdx, setSubIdx] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [locked, setLocked] = useState(false);
@@ -367,6 +392,31 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     window.speechSynthesis.speak(u);
   }, [langCode]);
 
+  // ── Welcome screen TTS — auto-read greeting + topics on mount ───────────
+  const welcomeSpoken = useRef(false);
+  useEffect(() => {
+    if (phase !== "welcome" || welcomeSpoken.current) return;
+    welcomeSpoken.current = true;
+    // Small delay so voices are loaded
+    const timer = setTimeout(() => {
+      const name = username || "";
+      const greeting = name
+        ? `${ui.welcomeHi}, ${name}!`
+        : `${ui.welcomeHi}!`;
+      const explorerTitle = def.title ? L(def.title) : "";
+      const topicList = welcomeTopics.map(k => L(k)).join(". ");
+      const fullText = [greeting, explorerTitle, ui.welcomeTopics, topicList].filter(Boolean).join(". ");
+      speak(fullText);
+    }, 400);
+    return () => clearTimeout(timer);
+  }, [phase]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Dismiss welcome → go to first round
+  const dismissWelcome = useCallback(() => {
+    window.speechSynthesis.cancel();
+    setPhase(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+  }, [firstIsInteractive, aiEnhanced]);
+
   // ── AI: "Think first" — constructivist question at round start ──────────
   const handleThinkSubmit = useCallback(async (text: string) => {
     if (!text.trim() || aiLoading) return;
@@ -526,6 +576,114 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
         className="absolute top-4 left-4 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold z-10"
       >✕</button>
+
+      {/* ── WELCOME SCREEN ── */}
+      {phase === "welcome" && (
+        <motion.div
+          key="welcome"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          className="fixed inset-0 z-40 flex flex-col items-center justify-center px-6"
+          style={{ background: "linear-gradient(180deg, #060614 0%, #0D0D2B 50%, #060614 100%)" }}
+        >
+          {/* Decorative glow */}
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 rounded-full blur-3xl opacity-20" style={{ background: color }} />
+            {/* Floating small stars */}
+            {[...Array(12)].map((_, i) => (
+              <motion.div
+                key={i}
+                className="absolute w-1 h-1 rounded-full bg-white"
+                style={{ left: `${10 + (i * 7) % 80}%`, top: `${8 + (i * 13) % 75}%` }}
+                animate={{ opacity: [0.1, 0.6, 0.1], scale: [0.8, 1.2, 0.8] }}
+                transition={{ duration: 2 + (i % 3), repeat: Infinity, delay: i * 0.3 }}
+              />
+            ))}
+          </div>
+
+          <div className="relative z-10 flex flex-col items-center gap-5 max-w-sm w-full">
+            {/* Icon with pulsing glow */}
+            {def.icon && (
+              <motion.div
+                initial={{ scale: 0, rotate: -15 }}
+                animate={{ scale: 1, rotate: 0 }}
+                transition={{ type: "spring", stiffness: 300, damping: 18, delay: 0.1 }}
+                className="relative"
+              >
+                <div className="absolute inset-0 rounded-full blur-2xl opacity-30" style={{ background: color }} />
+                <div
+                  className="relative w-20 h-20 rounded-3xl flex items-center justify-center text-4xl shadow-xl"
+                  style={{ background: `${color}20`, border: `2px solid ${color}40` }}
+                >
+                  {def.icon}
+                </div>
+              </motion.div>
+            )}
+
+            {/* Greeting */}
+            <motion.div
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.25 }}
+              className="text-center"
+            >
+              <h1 className="text-2xl font-black text-white/90">
+                {ui.welcomeHi}{username ? `, ${username}` : ""}! 👋
+              </h1>
+              {def.title && (
+                <p className="text-base font-bold mt-1.5" style={{ color }}>{L(def.title)}</p>
+              )}
+            </motion.div>
+
+            {/* Topic list */}
+            <motion.div
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.45 }}
+              className="w-full rounded-2xl p-4"
+              style={{ background: `${color}08`, border: `1px solid ${color}18` }}
+            >
+              <p className="text-xs font-bold text-white/50 mb-3 uppercase tracking-wider">
+                {ui.welcomeTopics}
+              </p>
+              <div className="flex flex-col gap-2">
+                {welcomeTopics.map((key, i) => (
+                  <motion.div
+                    key={key}
+                    initial={{ opacity: 0, x: -12 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.55 + i * 0.1 }}
+                    className="flex items-center gap-2.5"
+                  >
+                    <div
+                      className="w-6 h-6 rounded-lg flex items-center justify-center text-[10px] font-black text-white shrink-0"
+                      style={{ background: `${color}30` }}
+                    >
+                      {i + 1}
+                    </div>
+                    <span className="text-sm font-semibold text-white/75">{L(key)}</span>
+                  </motion.div>
+                ))}
+              </div>
+            </motion.div>
+
+            {/* Go button */}
+            <motion.button
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.7 + welcomeTopics.length * 0.1 }}
+              whileHover={{ scale: 1.03 }}
+              whileTap={{ scale: 0.97 }}
+              onClick={dismissWelcome}
+              className="w-full py-3.5 rounded-2xl text-white font-extrabold text-base shadow-lg mt-1"
+              style={{ background: `linear-gradient(135deg, ${color}, ${color}cc)`, boxShadow: `0 4px 25px ${color}40` }}
+            >
+              {ui.welcomeGo}
+            </motion.button>
+          </div>
+        </motion.div>
+      )}
 
       {/* Progress dots — filled = done, outlined = current, dim = future */}
       <div className="flex gap-2 mb-6 items-center">
