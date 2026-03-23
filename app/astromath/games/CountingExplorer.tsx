@@ -145,6 +145,7 @@ const CountingExplorer = memo(function CountingExplorer({
       def={COUNTING_DEF}
       color={color}
       lang={lang}
+      grade={1}
       onDone={onDone}
       explorerId="math_g1_counting"
     />

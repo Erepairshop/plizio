@@ -105,6 +105,8 @@ interface Props {
   lang?: string;
   /** Unique ID for tracking play count (e.g. "bio_k5_fish"). If provided, enables AI enhanced mode on 2nd+ play. */
   explorerId?: string;
+  /** Grade level (1-8). Adjusts AI language complexity for the student's age. */
+  grade?: number;
   onDone?: (score: number, total: number) => void;
   onClose?: () => void;
 }
@@ -146,7 +148,7 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
@@ -373,9 +375,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     const topicText = L(currentRound.infoText);
     const result = await askAITutor({
       question: text,
-      context: `The student was asked to think about: "${topicTitle}". The correct info is: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
+      context: `Grade ${grade || "?"} student. Topic: "${topicTitle}". Correct info: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
       lang: langCode,
       maxTokens: 100,
+      grade,
     });
     setAiLoading(false);
     if (result) {
@@ -392,10 +395,11 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     setFunFactLoading(true);
     const topicTitle = L(currentRound.infoTitle);
     const result = await askAITutor({
-      question: `Tell me a surprising, fun fact about "${topicTitle}" that a 10-14 year old would find amazing. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
-      context: topicTitle,
+      question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
+      context: `Grade ${grade || "?"}: ${topicTitle}`,
       lang: langCode,
       maxTokens: 100,
+      grade,
     });
     setFunFactLoading(false);
     if (result) setFunFact(result);
@@ -428,6 +432,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       correctAnswer: L(currentQ.answer),
       topic: L(currentRound.infoTitle),
       lang: langCode,
+      grade,
     });
     setAiLoading(false);
     if (result) {
@@ -445,8 +450,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     setAiResponse(null);
     const result = await askAITutor({
       question: text,
-      context: L(currentRound.infoTitle) + " — " + L(currentRound.infoText),
+      context: `Grade ${grade || "?"}: ${L(currentRound.infoTitle)} — ${L(currentRound.infoText)}`,
       lang: langCode,
+      grade,
     });
     setAiLoading(false);
     if (result) {
