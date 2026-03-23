@@ -85,6 +85,8 @@ export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
 
   try {
     const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "";
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 8000); // 8s timeout
 
     const res = await fetch(FUNCTION_URL, {
       method: "POST",
@@ -98,8 +100,10 @@ export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
         messages: [{ role: "user", content: question }],
         maxTokens,
       }),
+      signal: controller.signal,
     });
 
+    clearTimeout(timeoutId);
     if (!res.ok) return null;
 
     const data = await res.json();

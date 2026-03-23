@@ -389,21 +389,27 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     }
   }, [aiLoading, currentRound, langCode, speak, L, ui.goodThought]);
 
-  // ── AI: Fun fact generation (enhanced mode) ────────────────────────────
+  // ── AI: Fun fact generation (enhanced mode) — 6s timeout ───────────────
   const loadFunFact = useCallback(async () => {
     if (!aiEnhanced || funFactLoading) return;
     setFunFactLoading(true);
     const topicTitle = L(currentRound.infoTitle);
-    const result = await askAITutor({
-      question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
-      context: `Grade ${grade || "?"}: ${topicTitle}`,
-      lang: langCode,
-      maxTokens: 100,
-      grade,
-    });
-    setFunFactLoading(false);
-    if (result) setFunFact(result);
-  }, [aiEnhanced, funFactLoading, currentRound, langCode, L]);
+    try {
+      const timeout = new Promise<null>((resolve) => setTimeout(() => resolve(null), 6000));
+      const request = askAITutor({
+        question: `Tell me a surprising, fun fact about "${topicTitle}" that a grade ${grade || "?"} student (age ${grade && grade <= 2 ? "6-7" : grade && grade <= 4 ? "8-10" : "10-14"}) would find amazing and understand. Just the fun fact, 1-2 sentences. Start with a fun emoji.`,
+        context: `Grade ${grade || "?"}: ${topicTitle}`,
+        lang: langCode,
+        maxTokens: 100,
+        grade,
+      });
+      const result = await Promise.race([request, timeout]);
+      setFunFactLoading(false);
+      if (result) setFunFact(result);
+    } catch {
+      setFunFactLoading(false);
+    }
+  }, [aiEnhanced, funFactLoading, currentRound, langCode, L, grade]);
 
   // Load fun fact when entering info phase in enhanced mode
   useEffect(() => {
