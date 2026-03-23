@@ -385,7 +385,7 @@ function Round3({
     const isCorrect = opt === item.answer;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {
@@ -558,7 +558,7 @@ function Round5({
     const isCorrect = opt === item.answer;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {

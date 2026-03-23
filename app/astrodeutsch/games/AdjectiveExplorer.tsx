@@ -442,7 +442,7 @@ function Round4({ color, lbl, wrongCountRef, onNext, showTeach, onTeachDone }: {
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word, wrongAnswer: p, correctAnswer: item.pronoun, topic: "Adjectives & Pronouns", lang: "de" });
+      fireWrongAnswer({ question: item.noun, wrongAnswer: p, correctAnswer: item.pronoun, topic: "Adjectives & Pronouns", lang: "de" });
     }
 
     setTimeout(() => {
@@ -556,7 +556,7 @@ function Round5({ color, lbl, wrongCountRef, onDone, showTeach, onTeachDone }: {
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Adjectives & Pronouns", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.answer, topic: "Adjectives & Pronouns", lang: "de" });
     }
 
     setTimeout(() => {

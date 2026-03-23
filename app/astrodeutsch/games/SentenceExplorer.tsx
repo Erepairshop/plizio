@@ -236,7 +236,7 @@ function Round2({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     setSelected(p);
     if (p !== item.punct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_SENTENCES.length) setDone(true);
@@ -399,7 +399,7 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     setSelected(opt);
     if (opt !== item.missing) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.missing, topic: "Sentences", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.missing, topic: "Sentences", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MISSING_WORD.length) setDone(true);
@@ -476,7 +476,7 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     setSelected(p);
     if (p !== item.punct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.punct, topic: "Sentences", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_REVIEW.length) setDone(true);

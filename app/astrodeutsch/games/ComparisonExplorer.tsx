@@ -383,7 +383,7 @@ function Round4({ color, lbl, wrongCountRef, onNext, showTeach = false }: { colo
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Comparison", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Comparison", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -466,7 +466,7 @@ function Round5({ color, lbl, wrongCountRef, onDone, showTeach = false }: { colo
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Comparison", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Comparison", lang: "de" });
     }
   };
   const handleNext = () => {

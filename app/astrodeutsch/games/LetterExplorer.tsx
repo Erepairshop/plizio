@@ -301,7 +301,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: type, correctAnswer: correctType, topic: "Letters", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: type, correctAnswer: correctType, topic: "Letters", lang: "de" });
       setWrongLetters(prev => {
         const updated = [...prev, letter];
         // If this is the last letter, report wrong letters immediately
@@ -458,7 +458,7 @@ function Round3({
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: selected, correctAnswer: correct, topic: "Letters", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Letters", lang: "de" });
     }
 
     setTimeout(() => {
@@ -585,7 +585,7 @@ function Round4({
   const handleReveal = () => {
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Letters", lang: "de" });
+      fireWrongAnswer({ question: sorted.join(""), wrongAnswer: tapped.join(""), correctAnswer: sorted.join(""), topic: "Letters", lang: "de" });
     }
     setRevealed(true);
   };

@@ -212,7 +212,7 @@ function Round2({
     const isCorrect = SORT_WORDS.find(w => w.word === selected)?.correct === bucket;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Plurals", lang: "de" });
+      fireWrongAnswer({ question: selected, wrongAnswer: bucket, correctAnswer: SORT_WORDS.find(w => w.word === selected)?.correct || "", topic: "Plurals", lang: "de" });
     }
     setPlaced(p => ({ ...p, [selected]: bucket }));
     setSelected(null);
@@ -320,7 +320,7 @@ function Round4({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Plurals", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Plurals", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -391,7 +391,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Plurals", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Plurals", lang: "de" });
     }
   };
   const handleNext = () => {

@@ -324,7 +324,7 @@ function Round4({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
     }
   };
   const handleNext = () => {
@@ -384,7 +384,7 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Spelling", lang: "de" });
     }
   };
   const handleNext = () => {

@@ -458,7 +458,7 @@ function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } 
 
     if (!isCorrectChoice) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: sel || selected, correctAnswer: item.correct, topic: "Participles", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.answer, topic: "Participles", lang: "de" });
     }
 
     setTimeout(() => {

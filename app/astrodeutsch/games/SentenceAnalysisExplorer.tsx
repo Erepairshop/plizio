@@ -249,7 +249,7 @@ function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } 
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= ADV_QUIZ.length) onNext();
@@ -457,7 +457,7 @@ function Round5({ color, lbl, onDone, wrongCountRef, lang , showTeach, setShowTe
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= ANALYSIS_QUIZ.length) onDone();

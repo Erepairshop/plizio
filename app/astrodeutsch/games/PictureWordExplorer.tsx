@@ -216,7 +216,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: name, correctAnswer: item.name, topic: "Picture Words", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: name, correctAnswer: item.name, topic: "Picture Words", lang: "de" });
     }
 
     setTimeout(() => {
@@ -438,7 +438,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: w, correctAnswer: correctWord.word, topic: "Picture Words", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: w, correctAnswer: correctWord.word, topic: "Picture Words", lang: "de" });
     }
 
     setTimeout(() => {

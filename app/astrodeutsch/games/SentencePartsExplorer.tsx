@@ -381,7 +381,7 @@ function Round5({ color, lbl, onDone, wrongCountRef, lang }: { color: string; lb
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Sentence Parts", lang: "de" });
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Sentence Parts", lang: "de" });
     }
   };
   const handleNext = () => {

@@ -207,7 +207,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: em, correctAnswer: item.emoji, topic: "Reading", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: em, correctAnswer: item.emoji, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -301,7 +301,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: stmt, correctAnswer: item.trueStmt, topic: "Reading", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: stmt, correctAnswer: item.trueStmt, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -383,7 +383,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: opt, correctAnswer: item.missing, topic: "Reading", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.missing, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {
@@ -557,7 +557,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Reading", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.answer, topic: "Reading", lang: "de" });
     }
 
     setTimeout(() => {

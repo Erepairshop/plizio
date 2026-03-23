@@ -397,7 +397,7 @@ function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } 
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: opt, correctAnswer: item.correct, topic: "Voice Transform", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Voice Transform", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MCQ5.length) onDone();

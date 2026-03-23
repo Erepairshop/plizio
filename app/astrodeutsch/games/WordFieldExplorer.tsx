@@ -351,7 +351,7 @@ function Round3({
     const isCorrect = idx === q.odd;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: idx, correctAnswer: q.odd, topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: idx, correctAnswer: q.odd, topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
@@ -459,7 +459,7 @@ function Round4({
     const isCorrect = idx === q.correct;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: idx, correctAnswer: q.correct, topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: idx, correctAnswer: q.correct, topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
@@ -562,7 +562,7 @@ function Round5({
     const isCorrect = idx === q.correct;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: idx, correctAnswer: q.correct, topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: idx, correctAnswer: q.correct, topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);

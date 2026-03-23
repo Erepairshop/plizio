@@ -389,7 +389,7 @@ function Round4({ color, lbl, onNext, wrongCountRef }: { color: string; lbl: Rec
   // Track wrong answer when they submit an incorrect order
   if (allPlaced && !isCorrect && idx + 1 < WORD_ORDER_SENTENCES.length) {
     wrongCountRef.current++;
-    fireWrongAnswer({ question: "", wrongAnswer: "", correctAnswer: "", topic: "Sentence Types", lang: "de" });
+    fireWrongAnswer({ question: "", wrongAnswer: , correctAnswer: , topic: "Sentence Types", lang: "de" });
   }
 
   if (done) return (

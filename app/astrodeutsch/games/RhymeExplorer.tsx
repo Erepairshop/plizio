@@ -223,7 +223,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: choice, correctAnswer: item.rhymes, topic: "Rhymes", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: choice, correctAnswer: item.rhymes, topic: "Rhymes", lang: "de" });
     }
 
     setTimeout(() => {
@@ -330,7 +330,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: choice, correctAnswer: item.answer, topic: "Rhymes", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: choice, correctAnswer: item.answer, topic: "Rhymes", lang: "de" });
     }
 
     setTimeout(() => {

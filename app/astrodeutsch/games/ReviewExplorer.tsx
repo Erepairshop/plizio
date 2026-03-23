@@ -209,7 +209,7 @@ function Round1({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: type, correctAnswer: isVokal ? "vokal" : "konsonant", topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: type, correctAnswer: (isVokal, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -314,7 +314,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: choice, correctAnswer: item.answer, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: choice, correctAnswer: item.answer, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -499,7 +499,7 @@ function Round4({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: p, correctAnswer: item.punct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: p, correctAnswer: item.punct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {

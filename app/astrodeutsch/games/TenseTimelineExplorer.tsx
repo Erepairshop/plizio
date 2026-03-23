@@ -400,7 +400,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Verb Tenses", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Verb Tenses", lang: "de" });
     }
   };
   const handleNext = () => {

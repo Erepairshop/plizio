@@ -257,7 +257,7 @@ function Round3({
                       q.correctCommaAfter.every(i => inserted.has(i));
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: q.question || q.verb || q.sentence || "", wrongAnswer: size, correctAnswer: q.correctCommaAfter, topic: "Punctuation", lang: "de" });
+      fireWrongAnswer({ question: q.words.join(" "), wrongAnswer: Array.from(inserted).join(","), correctAnswer: q.correctCommaAfter.join(","), topic: "Punctuation", lang: "de" });
     }
     setTimeout(() => {
       if (qi + 1 >= COMMA_INSERT.length) onNext();
@@ -419,7 +419,7 @@ function Round5({
     setRevealed(true);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Punctuation", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Punctuation", lang: "de" });
     }
   };
   const handleNext = () => {

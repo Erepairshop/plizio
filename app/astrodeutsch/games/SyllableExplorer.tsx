@@ -356,7 +356,7 @@ function Round2({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -489,7 +489,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: d, correctAnswer: item.diphthong, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: d, correctAnswer: item.diphthong, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -621,7 +621,7 @@ function Round4({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: s, correctAnswer: item.start, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: s, correctAnswer: item.start, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {
@@ -732,7 +732,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {

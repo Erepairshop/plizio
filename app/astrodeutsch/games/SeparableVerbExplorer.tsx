@@ -221,7 +221,7 @@ function Round3({ color, lbl, wrongCountRef, onNext }: { color: string; lbl: Rec
     setSelected(i);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Separable Verbs", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Separable Verbs", lang: "de" });
     }
     setRevealed(true);
   };
@@ -383,7 +383,7 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     setSelected(i);
     if (i !== q.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: i, correctAnswer: q.correct, topic: "Separable Verbs", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: String(i), correctAnswer: String(q.correct), topic: "Separable Verbs", lang: "de" });
     }
     setRevealed(true);
   };

@@ -285,7 +285,7 @@ function Round2({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: sel || selected, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -504,7 +504,7 @@ function Round4({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: sel || selected, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {
@@ -607,7 +607,7 @@ function Round5({
 
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.question || "", wrongAnswer: sel || selected, correctAnswer: item.correct, topic: "Review", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: opt, correctAnswer: item.correct, topic: "Review", lang: "de" });
     }
 
     setTimeout(() => {

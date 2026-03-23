@@ -364,7 +364,7 @@ function Round3({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: art, correctAnswer: item.resultArticle, topic: "Compound Words", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: art, correctAnswer: item.resultArticle, topic: "Compound Words", lang: "de" });
     }
 
     setTimeout(() => {
@@ -532,7 +532,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: art, correctAnswer: item.resultArticle, topic: "Compound Words", lang: "de" });
+      fireWrongAnswer({ question: "", wrongAnswer: art, correctAnswer: item.resultArticle, topic: "Compound Words", lang: "de" });
     }
   };
 

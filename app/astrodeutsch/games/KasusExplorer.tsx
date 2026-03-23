@@ -332,7 +332,7 @@ function Round3({ color, lbl, wrongCountRef, onNext, showTeach, setShowTeach }: 
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "German Cases", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "German Cases", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= AKK_QUIZ.length) onNext();
@@ -475,7 +475,7 @@ function Round5({ color, lbl, wrongCountRef, onDone }: { color: string; lbl: Rec
     setSelected(opt);
     if (opt !== item.correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.word || item.sentence || item.question || "", wrongAnswer: opt, correctAnswer: item.correct, topic: "German Cases", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "German Cases", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= MIXED_QUIZ.length) onDone();
