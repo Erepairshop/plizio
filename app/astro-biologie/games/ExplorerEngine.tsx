@@ -15,6 +15,8 @@ import NumberLineTap from "@/components/interactive/NumberLineTap";
 import BalanceScale from "@/components/interactive/BalanceScale";
 import CoordinatePicker from "@/components/interactive/CoordinatePicker";
 import RatioSlider from "@/components/interactive/RatioSlider";
+import EquationSolver from "@/components/interactive/EquationSolver";
+import GraphPlotter from "@/components/interactive/GraphPlotter";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -186,6 +188,32 @@ export type TopicInteractive =
       unitName?: string;
       currency?: string;
       tolerance?: number;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "equation-solver";
+      equation: string;         // initial equation, e.g. "2x + 3 = 11"
+      steps: { instruction: string; choices: number[]; answer: number; equation: string }[];
+      finalAnswer: number;
+      variable?: string;        // default "x"
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "graph-plotter";
+      points: { x: number; y: number }[];
+      targetX: number;
+      targetY: number;
+      xMin?: number;
+      xMax?: number;
+      yMin?: number;
+      yMax?: number;
+      xLabel?: string;
+      yLabel?: string;
+      chartType?: "line" | "bar" | "scatter";
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1057,6 +1085,44 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           unitName={inter.unitName}
                           currency={inter.currency}
                           tolerance={inter.tolerance}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "equation-solver") {
+                      return (
+                        <EquationSolver
+                          equation={inter.equation}
+                          steps={inter.steps.map(s => ({ ...s, instruction: L(s.instruction) }))}
+                          finalAnswer={inter.finalAnswer}
+                          variable={inter.variable}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "graph-plotter") {
+                      return (
+                        <GraphPlotter
+                          points={inter.points}
+                          targetX={inter.targetX}
+                          targetY={inter.targetY}
+                          xMin={inter.xMin}
+                          xMax={inter.xMax}
+                          yMin={inter.yMin}
+                          yMax={inter.yMax}
+                          xLabel={inter.xLabel}
+                          yLabel={inter.yLabel}
+                          chartType={inter.chartType}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}
