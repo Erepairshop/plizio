@@ -6,6 +6,8 @@ import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
+const noSvg = () => null;
+
 // ─── SVG Intro ──────────────────────────────────────────────────────────────
 const AddSubSvg = memo(function AddSubSvg({ isAdd }: { isAdd: boolean }) {
   return (

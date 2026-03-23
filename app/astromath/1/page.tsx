@@ -876,7 +876,7 @@ export default function AstroMathG1Page() {
         )}
         {screen === "addsub-explorer" && activeIsland && (
           <AddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
-            mode={activeIsland.id === "i3" ? "sub" : "add"} />
+            isAdd={activeIsland.id !== "i3"} />
         )}
         {screen === "double-half-explorer" && (
           <DoubleHalfExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
