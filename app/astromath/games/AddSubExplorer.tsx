@@ -1,445 +1,437 @@
 "use client";
-// AddSubExplorer — Addition/Subtraction visualized (G1 i2, i3)
-// Now powered by ExplorerEngine v2
+// AddSubExplorer — Addition Island (Tauschaufgabe, Zahlzerlegung, Addition to 10)
+// Uses new topic-based ExplorerEngine mode
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── SVG Illustrations ──────────────────────────────────────────────────────────────
+// ─── SVG: Tauschaufgabe (Commutative property) ───────────────────────────────
 
-// R2: Addition 3+2 visualization (apples)
-const AddSvgR2 = memo(function AddSvgR2() {
+const TauschSvg = memo(function TauschSvg({ group1 = 4, group2 = 3 }: { group1?: number; group2?: number }) {
   return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="addGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
+        <linearGradient id="taushG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
         </linearGradient>
       </defs>
-      <rect width="200" height="120" fill="url(#addGrad2)" rx="12" />
-      {/* Left group: 3 apples */}
-      {[0, 1, 2].map((i) => (
-        <g key={`a-${i}`} transform={`translate(${25 + i * 20}, 40)`}>
-          <circle cx="0" cy="0" r="10" fill="#DC2626" />
-          <circle cx="-3" cy="-2" r="1.8" fill="#991B1B" />
-          <circle cx="3" cy="-2" r="1.8" fill="#991B1B" />
-          <path d="M -1 1 Q 0 2 1 1" stroke="#991B1B" strokeWidth="0.8" fill="none" />
-          <path d="M -0.5 -6 L 0 -8 Q 0.3 -8.5 0.6 -8" stroke="#7C2D12" strokeWidth="1" fill="none" />
-        </g>
-      ))}
-      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
-      {/* Right group: 2 apples */}
-      {[0, 1].map((i) => (
-        <g key={`b-${i}`} transform={`translate(${140 + i * 20}, 40)`}>
-          <circle cx="0" cy="0" r="10" fill="#DC2626" />
-          <circle cx="-3" cy="-2" r="1.8" fill="#991B1B" />
-          <circle cx="3" cy="-2" r="1.8" fill="#991B1B" />
-          <path d="M -1 1 Q 0 2 1 1" stroke="#991B1B" strokeWidth="0.8" fill="none" />
-          <path d="M -0.5 -6 L 0 -8 Q 0.3 -8.5 0.6 -8" stroke="#7C2D12" strokeWidth="1" fill="none" />
-        </g>
-      ))}
-      <line x1="40" y1="80" x2="160" y2="80" stroke="#FBBF24" strokeWidth="2" />
-      <text x="100" y="105" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 5</text>
-    </svg>
-  );
-});
-
-// R3: Addition 4+3 visualization (stars)
-const AddSvgR3 = memo(function AddSvgR3() {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      <defs>
-        <linearGradient id="addGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#addGrad3)" rx="12" />
-      {/* Left: 4 stars */}
-      {[0, 1, 2, 3].map((i) => (
-        <g key={`s-${i}`} transform={`translate(${20 + i * 16}, 35)`}>
-          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
-        </g>
-      ))}
-      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
-      {/* Right: 3 stars */}
-      {[0, 1, 2].map((i) => (
-        <g key={`s2-${i}`} transform={`translate(${130 + i * 16}, 35)`}>
-          <polygon points="0,-8 2,-2.5 8,-2 3,2 5,8 0,5 -5,8 -3,2 -8,-2 -2,-2.5" fill="#FBBF24" />
-        </g>
-      ))}
-      <line x1="40" y1="75" x2="160" y2="75" stroke="#FBBF24" strokeWidth="2" />
-      <text x="100" y="100" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 7</text>
-    </svg>
-  );
-});
-
-// R4: Addition 2+5 visualization (flowers)
-const AddSvgR4 = memo(function AddSvgR4() {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      <defs>
-        <linearGradient id="addGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FBBF24" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#addGrad4)" rx="12" />
-      {/* Left: 2 flowers */}
-      {[0, 1].map((i) => (
-        <g key={`f-${i}`} transform={`translate(${30 + i * 25}, 40)`}>
-          {/* Stem */}
-          <line x1="0" y1="0" x2="0" y2="15" stroke="#22C55E" strokeWidth="2" />
-          {/* Petals */}
-          {[0, 1, 2, 3, 4].map((p) => {
-            const angle = (p * 72 * Math.PI) / 180;
-            const px = Math.cos(angle) * 8;
-            const py = Math.sin(angle) * 8;
-            return <circle key={p} cx={px} cy={py} r="5" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
-          })}
-          {/* Center */}
-          <circle cx="0" cy="0" r="3" fill="#FBBF24" />
-        </g>
-      ))}
-      <text x="100" y="50" fontSize="22" fontWeight="900" fill="#FBBF24" textAnchor="middle">+</text>
-      {/* Right: 5 flowers */}
-      {[0, 1, 2, 3, 4].map((i) => (
-        <g key={`f2-${i}`} transform={`translate(${130 + i * 13}, 38)`}>
-          <line x1="0" y1="0" x2="0" y2="12" stroke="#22C55E" strokeWidth="1.5" />
-          {[0, 1, 2, 3, 4].map((p) => {
-            const angle = (p * 72 * Math.PI) / 180;
-            const px = Math.cos(angle) * 5;
-            const py = Math.sin(angle) * 5;
-            return <circle key={p} cx={px} cy={py} r="3" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
-          })}
-          <circle cx="0" cy="0" r="2" fill="#FBBF24" />
-        </g>
-      ))}
-      <line x1="40" y1="75" x2="160" y2="75" stroke="#FBBF24" strokeWidth="2" />
-      <text x="100" y="100" fontSize="16" fontWeight="900" fill="#FBBF24" textAnchor="middle">= 7</text>
-    </svg>
-  );
-});
-
-// R2: Subtraction 7-3 visualization (birds)
-const SubSvgR2 = memo(function SubSvgR2() {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      <defs>
-        <linearGradient id="subGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#subGrad2)" rx="12" />
-      {/* 7 birds (5 staying, 2 fading) */}
-      {[0, 1, 2, 3, 4, 5, 6].map((i) => {
-        const opacity = i < 5 ? 1 : 0.3;
-        return (
-          <g key={`bird-${i}`} transform={`translate(${20 + i * 22}, 35 - Math.sin(i * 0.5) * 5)`} opacity={opacity}>
-            {/* Body */}
-            <circle cx="0" cy="0" r="5" fill="#1F2937" />
-            {/* Wing */}
-            <ellipse cx="0" cy="0" rx="8" ry="3" fill="#374151" opacity="0.8" />
-            {/* Eye */}
-            <circle cx="3" cy="-2" r="1.2" fill="#FCD34D" />
-            {/* Tail */}
-            <path d="M -4 0 L -10 -2 L -9 0 Z" fill="#1F2937" />
-          </g>
-        );
-      })}
-      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
-      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">3</text>
-      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
-      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 4</text>
-    </svg>
-  );
-});
-
-// R3: Subtraction 6-2 visualization (stars removed)
-const SubSvgR3 = memo(function SubSvgR3() {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      <defs>
-        <linearGradient id="subGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#subGrad3)" rx="12" />
-      {/* 6 stars (4 full, 2 fading) */}
-      {[0, 1, 2, 3, 4, 5].map((i) => (
-        <g key={`st-${i}`} transform={`translate(${20 + i * 27}, 40)`} opacity={i < 4 ? 1 : 0.3}>
-          <polygon points="0,-7 1.5,-2 6,-1.5 2.5,1.5 3.5,6.5 0,3.5 -3.5,6.5 -2.5,1.5 -6,-1.5 -1.5,-2" fill="#FBBF24" />
-        </g>
-      ))}
-      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
-      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">2</text>
-      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
-      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 4</text>
-    </svg>
-  );
-});
-
-// R4: Subtraction 8-5 visualization (flowers removed)
-const SubSvgR4 = memo(function SubSvgR4() {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      <defs>
-        <linearGradient id="subGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F87171" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FCA5A5" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#subGrad4)" rx="12" />
-      {/* 8 flowers (3 remaining, 5 fading) */}
-      {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => {
-        const opacity = i < 3 ? 1 : 0.25;
-        return (
-          <g key={`fl-${i}`} transform={`translate(${15 + i * 22}, 45)`} opacity={opacity}>
-            <line x1="0" y1="0" x2="0" y2="12" stroke="#22C55E" strokeWidth="1.5" />
-            {[0, 1, 2, 3, 4].map((p) => {
-              const angle = (p * 72 * Math.PI) / 180;
-              const px = Math.cos(angle) * 5;
-              const py = Math.sin(angle) * 5;
-              return <circle key={p} cx={px} cy={py} r="3" fill={p % 2 === 0 ? "#EC4899" : "#F472B6"} />;
-            })}
-            <circle cx="0" cy="0" r="2" fill="#FBBF24" />
-          </g>
-        );
-      })}
-      <text x="100" y="75" fontSize="20" fontWeight="900" fill="#F87171" textAnchor="middle">−</text>
-      <text x="140" y="75" fontSize="18" fontWeight="900" fill="#F87171" textAnchor="middle">5</text>
-      <line x1="40" y1="85" x2="160" y2="85" stroke="#F87171" strokeWidth="2" />
-      <text x="100" y="110" fontSize="16" fontWeight="900" fill="#F87171" textAnchor="middle">= 3</text>
-    </svg>
-  );
-});
-
-// ─── SVG Intro ──────────────────────────────────────────────────────────────
-const AddSubSvg = memo(function AddSubSvg({ isAdd }: { isAdd: boolean }) {
-  return (
-    <svg width={200} height={120} viewBox="0 0 200 120">
-      {/* Background */}
-      <defs>
-        <linearGradient id="addGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor={isAdd ? "#FBBF24" : "#F87171"} stopOpacity="0.15" />
-          <stop offset="100%" stopColor={isAdd ? "#FCD34D" : "#FCA5A5"} stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="200" height="120" fill="url(#addGrad)" rx="12" />
-
-      {/* Apples left group (3 or 7) */}
-      {isAdd
-        ? [0, 1, 2].map((i) => (
-            <g key={`a-${i}`} transform={`translate(${20 + i * 25}, 30)`}>
-              <circle cx="0" cy="0" r="12" fill="#DC2626" />
-              <circle cx="-4" cy="-3" r="2.5" fill="#991B1B" />
-              <circle cx="4" cy="-3" r="2.5" fill="#991B1B" />
-              <path d="M -2 2 Q 0 4 2 2" stroke="#991B1B" strokeWidth="1" fill="none" />
-              <path d="M -1 -8 L -0.5 -12 Q 0.5 -13 1 -12" stroke="#7C2D12" strokeWidth="1.5" fill="none" />
-            </g>
-          ))
-        : [0, 1, 2, 3, 4, 5, 6].map((i) => (
-            <g key={`a-${i}`} transform={`translate(${8 + i * 13}, 35)`}>
-              <circle cx="0" cy="0" r="6" fill="#DC2626" opacity={i < 5 ? 1 : 0.4} />
-              <path d="M -0.5 -4 L 0 -5 Q 0.3 -5.5 0.5 -5" stroke="#7C2D12" strokeWidth="0.8" fill="none" opacity={i < 5 ? 1 : 0.4} />
-            </g>
-          ))}
-
-      {/* Operator symbol */}
-      <g transform="translate(130, 60)">
-        <text x="0" y="8" fontSize="28" fontWeight="900" fill={isAdd ? "#FBBF24" : "#F87171"} textAnchor="middle">
-          {isAdd ? "+" : "−"}
-        </text>
+      <rect width="240" height="140" fill="url(#taushG)" rx="16" />
+      {/* Left group */}
+      <g transform="translate(60, 50)">
+        {Array.from({ length: group1 }, (_, i) => {
+          const cols = Math.min(group1, 4);
+          const row = Math.floor(i / cols);
+          const col = i % cols;
+          const x = (col - (Math.min(group1 - row * cols, cols)) / 2 + 0.5) * 24;
+          const y = (row - Math.ceil(group1 / cols) / 2 + 0.5) * 24;
+          return (
+            <text key={i} x={x} y={y} fontSize="24" textAnchor="middle" dominantBaseline="middle">
+              ⭐
+            </text>
+          );
+        })}
       </g>
-
-      {/* Apples right group (2 or 3) */}
-      {isAdd
-        ? [0, 1].map((i) => (
-            <g key={`b-${i}`} transform={`translate(${155 + i * 25}, 30)`}>
-              <circle cx="0" cy="0" r="12" fill="#DC2626" />
-              <circle cx="-4" cy="-3" r="2.5" fill="#991B1B" />
-              <circle cx="4" cy="-3" r="2.5" fill="#991B1B" />
-              <path d="M -2 2 Q 0 4 2 2" stroke="#991B1B" strokeWidth="1" fill="none" />
-              <path d="M -1 -8 L -0.5 -12 Q 0.5 -13 1 -12" stroke="#7C2D12" strokeWidth="1.5" fill="none" />
-            </g>
-          ))
-        : [0, 1, 2].map((i) => (
-            <g key={`b-${i}`} transform={`translate(${155 + i * 13}, 35)`}>
-              <circle cx="0" cy="0" r="6" fill="#DC2626" />
-              <path d="M -0.5 -4 L 0 -5 Q 0.3 -5.5 0.5 -5" stroke="#7C2D12" strokeWidth="0.8" fill="none" />
-            </g>
-          ))}
-
       {/* Equals */}
-      <g transform="translate(100, 90)">
-        <line x1="-12" y1="-2" x2="12" y2="-2" stroke={isAdd ? "#FBBF24" : "#F87171"} strokeWidth="2.5" />
-        <line x1="-12" y1="2" x2="12" y2="2" stroke={isAdd ? "#FBBF24" : "#F87171"} strokeWidth="2.5" />
+      <text x="120" y="65" fontSize="16" fontWeight="bold" fill="#00D4FF" textAnchor="middle" opacity="0.6">
+        =
+      </text>
+      {/* Right group */}
+      <g transform="translate(180, 50)">
+        {Array.from({ length: group2 }, (_, i) => {
+          const cols = Math.min(group2, 4);
+          const row = Math.floor(i / cols);
+          const col = i % cols;
+          const x = (col - (Math.min(group2 - row * cols, cols)) / 2 + 0.5) * 24;
+          const y = (row - Math.ceil(group2 / cols) / 2 + 0.5) * 24;
+          return (
+            <text key={i} x={x} y={y} fontSize="24" textAnchor="middle" dominantBaseline="middle">
+              ⭐
+            </text>
+          );
+        })}
       </g>
-      <text x="130" y="100" fontSize="14" fontWeight="bold" fill={isAdd ? "#FBBF24" : "#F87171"} textAnchor="middle">
-        {isAdd ? "5" : "4"}
+      <text x="120" y="128" fontSize="13" fontWeight="bold" fill="#0891B2" textAnchor="middle" opacity="0.7">
+        {group1} + {group2} = {group1 + group2}
       </text>
     </svg>
   );
 });
 
-const LABELS = {
+// ─── SVG: Zahlzerlegung (Number decomposition) ────────────────────────────────
+
+const ZahlzerlegungSvg = memo(function ZahlzerlegungSvg({ total = 7, part1 = 3 }: { total?: number; part1?: number }) {
+  const part2 = total - part1;
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="zahlG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#zahlG)" rx="16" />
+      {/* Total group top */}
+      <g transform="translate(120, 30)">
+        {Array.from({ length: total }, (_, i) => {
+          const cols = Math.min(total, 5);
+          const row = Math.floor(i / cols);
+          const col = i % cols;
+          const x = (col - (Math.min(total - row * cols, cols)) / 2 + 0.5) * 20;
+          const y = (row - Math.ceil(total / cols) / 2 + 0.5) * 20;
+          const isFirst = i < part1;
+          return (
+            <text key={i} x={x} y={y} fontSize="20" textAnchor="middle" dominantBaseline="middle" opacity={isFirst ? 1 : 0.5}>
+              🔵
+            </text>
+          );
+        })}
+      </g>
+      <text x="120" y="85" fontSize="14" fontWeight="bold" fill="#00D4FF" textAnchor="middle" opacity="0.7">
+        = {part1} + {part2}
+      </text>
+      {/* Part groups bottom */}
+      <g transform="translate(70, 110)">
+        {Array.from({ length: part1 }, (_, i) => (
+          <text key={i} x={i * 16} y="0" fontSize="18" textAnchor="middle" dominantBaseline="middle">
+            🔵
+          </text>
+        ))}
+      </g>
+      <text x="120" y="120" fontSize="12" fontWeight="bold" fill="#0891B2">
+        +
+      </text>
+      <g transform="translate(150, 110)">
+        {Array.from({ length: part2 }, (_, i) => (
+          <text key={i} x={i * 16} y="0" fontSize="18" textAnchor="middle" dominantBaseline="middle" opacity="0.6">
+            🔵
+          </text>
+        ))}
+      </g>
+    </svg>
+  );
+});
+
+// ─── SVG: Addition to 10 (Number line) ──────────────────────────────────────
+
+const AdditionLineSvg = memo(function AdditionLineSvg({ start = 4, jumps = 3 }: { start?: number; jumps?: number }) {
+  const end = start + jumps;
+  return (
+    <svg width="100%" viewBox="0 0 240 90">
+      <defs>
+        <linearGradient id="addLineG" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="90" fill="url(#addLineG)" rx="16" />
+      {/* Number line */}
+      <line x1="20" y1="45" x2="220" y2="45" stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round" />
+      {Array.from({ length: 11 }, (_, i) => {
+        const x = 20 + i * 20;
+        const isStart = i === start;
+        const isEnd = i === end;
+        return (
+          <g key={i}>
+            <line x1={x} y1="39" x2={x} y2="51" stroke={isStart || isEnd ? "#00D4FF" : "rgba(255,255,255,0.3)"} strokeWidth={isStart || isEnd ? 2.5 : 1.5} />
+            <text x={x} y="67" fontSize={isStart || isEnd ? "12" : "10"} fontWeight={isStart || isEnd ? "800" : "500"} fill={isStart || isEnd ? "#00D4FF" : "rgba(255,255,255,0.5)"} textAnchor="middle">
+              {i}
+            </text>
+            {isStart && <circle cx={x} cy="33" r="5" fill="#00D4FF" opacity="0.8" />}
+            {isEnd && <circle cx={x} cy="33" r="5" fill="#00D4FF" />}
+          </g>
+        );
+      })}
+      {/* Jump arrows */}
+      {Array.from({ length: jumps }, (_, j) => {
+        const fromX = 20 + (start + j) * 20;
+        const toX = 20 + (start + j + 1) * 20;
+        return (
+          <g key={`jump-${j}`}>
+            <path d={`M ${fromX} 20 Q ${(fromX + toX) / 2} 10 ${toX} 20`} stroke="#00D4FF" strokeWidth="1.5" fill="none" />
+            <polygon points={`${toX},20 ${toX - 3},17 ${toX - 2},20`} fill="#00D4FF" />
+          </g>
+        );
+      })}
+    </svg>
+  );
+});
+
+// ─── Labels (4 languages) ────────────────────────────────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
   en: {
-    addTitle: "Addition Explorer",
-    subTitle: "Subtraction Explorer",
-    addIntro: "When we ADD, numbers get BIGGER!",
-    subIntro: "When we SUBTRACT, numbers get SMALLER!",
-    add3plus2: "3 apples + 2 apples = ?",
-    add4plus3: "4 stars + 3 stars = ?",
-    add2plus5: "2 flowers + 5 flowers = ?",
-    sub7minus3: "7 birds - 3 birds = ?",
-    sub6minus2: "6 stars - 2 stars = ?",
-    sub8minus5: "8 flowers - 5 flowers = ?",
-  },
-  hu: {
-    addTitle: "Összeadás felfedezés",
-    subTitle: "Kivonás felfedezés",
-    addIntro: "Ha HOZZÁADUNK, a számok NAGYOBBAK lesznek!",
-    subIntro: "Ha ELVESZÜNK, a számok KISEBBEK lesznek!",
-    add3plus2: "3 alma + 2 alma = ?",
-    add4plus3: "4 csillag + 3 csillag = ?",
-    add2plus5: "2 virág + 5 virág = ?",
-    sub7minus3: "7 madár - 3 madár = ?",
-    sub6minus2: "6 csillag - 2 csillag = ?",
-    sub8minus5: "8 virág - 5 virág = ?",
+    // Explorer meta
+    explorer_title: "Addition Explorer",
+    // Topic 1: Tauschaufgabe (Commutative)
+    t1_title: "Swap Groups",
+    t1_text: "When we ADD, the order doesn't matter! 3 + 5 is the same as 5 + 3. The answer is always the same!",
+    t1_b1: "Groups can swap places",
+    t1_b2: "The answer stays the same",
+    t1_b3: "Try: 4 + 3 and 3 + 4",
+    t1_inst: "Drag the groups together — answer 7!",
+    t1_h1: "4 stars here, 3 stars there",
+    t1_h2: "Put them together = 7 total",
+    t1_q: "4 + 3 = 3 + ?",
+    t1_q_3: "3",
+    t1_q_4: "4",
+    t1_q_7: "7",
+    t1_q_1: "1",
+    // Topic 2: Zahlzerlegung (Decomposition)
+    t2_title: "Break Numbers Apart",
+    t2_text: "Big numbers are made from smaller numbers! 7 can split into 3 and 4. 7 can also split into 5 and 2. Same number, different splits!",
+    t2_b1: "One big number splits",
+    t2_b2: "Into two smaller numbers",
+    t2_b3: "Add them back = original",
+    t2_inst: "Remove 3 from 8 — how many left?",
+    t2_h1: "Start with 8, take away 3",
+    t2_h2: "Count remaining = 5",
+    t2_q: "8 = 3 + ?",
+    t2_q_4: "4",
+    t2_q_5: "5",
+    t2_q_6: "6",
+    t2_q_3: "3",
+    // Topic 3: Addition to 10
+    t3_title: "Adding to 10",
+    t3_text: "Use a number line to add! Start at 4, jump forward 3 steps. Where do you land? 4 + 3 = 7!",
+    t3_b1: "Start at the first number",
+    t3_b2: "Jump forward by the second",
+    t3_b3: "Where you land = the answer",
+    t3_inst: "Tap number 7 on the line!",
+    t3_h1: "Start at 4, jump 3 times",
+    t3_h2: "Count up: 5, 6, 7 — tap 7!",
+    t3_q: "5 + 4 = ?",
+    t3_q_8: "8",
+    t3_q_9: "9",
+    t3_q_10: "10",
+    t3_q_7: "7",
   },
   de: {
-    addTitle: "Addition entdecken",
-    subTitle: "Subtraktion entdecken",
-    addIntro: "Wenn wir ADDIEREN, werden Zahlen GRÖSSER!",
-    subIntro: "Wenn wir SUBTRAHIEREN, werden Zahlen KLEINER!",
-    add3plus2: "3 Äpfel + 2 Äpfel = ?",
-    add4plus3: "4 Sterne + 3 Sterne = ?",
-    add2plus5: "2 Blumen + 5 Blumen = ?",
-    sub7minus3: "7 Vögel - 3 Vögel = ?",
-    sub6minus2: "6 Sterne - 2 Sterne = ?",
-    sub8minus5: "8 Blumen - 5 Blumen = ?",
+    explorer_title: "Addition entdecken",
+    t1_title: "Gruppen tauschen",
+    t1_text: "Beim ADDIEREN ist die Reihenfolge egal! 3 + 5 ist dasselbe wie 5 + 3. Das Ergebnis bleibt gleich!",
+    t1_b1: "Gruppen können Plätze tauschen",
+    t1_b2: "Das Ergebnis bleibt gleich",
+    t1_b3: "Versuche: 4 + 3 und 3 + 4",
+    t1_inst: "Ziehe die Gruppen zusammen — Antwort 7!",
+    t1_h1: "4 Sterne hier, 3 Sterne dort",
+    t1_h2: "Zusammen = 7 insgesamt",
+    t1_q: "4 + 3 = 3 + ?",
+    t1_q_3: "3",
+    t1_q_4: "4",
+    t1_q_7: "7",
+    t1_q_1: "1",
+    t2_title: "Zahlen auseinander nehmen",
+    t2_text: "Große Zahlen bestehen aus kleineren Zahlen! 7 teilt sich in 3 und 4. 7 kann sich auch in 5 und 2 teilen. Gleiche Zahl, unterschiedliche Aufteilungen!",
+    t2_b1: "Eine große Zahl teilt sich auf",
+    t2_b2: "In zwei kleinere Zahlen",
+    t2_b3: "Zusammengezählt = Original",
+    t2_inst: "Nimm 3 von 8 — wie viele bleiben?",
+    t2_h1: "Starte mit 8, nimm 3 weg",
+    t2_h2: "Zähle übrig = 5",
+    t2_q: "8 = 3 + ?",
+    t2_q_4: "4",
+    t2_q_5: "5",
+    t2_q_6: "6",
+    t2_q_3: "3",
+    t3_title: "Addition bis 10",
+    t3_text: "Benutze eine Zahlenlinie zum Addieren! Starte bei 4, springe vorwärts 3 Schritte. Wo landest du? 4 + 3 = 7!",
+    t3_b1: "Starte bei der ersten Zahl",
+    t3_b2: "Springe vorwärts um die zweite",
+    t3_b3: "Wo du landest = die Antwort",
+    t3_inst: "Tippe auf 7 auf der Linie!",
+    t3_h1: "Starte bei 4, springe 3 mal",
+    t3_h2: "Zähle hoch: 5, 6, 7 — tippe 7!",
+    t3_q: "5 + 4 = ?",
+    t3_q_8: "8",
+    t3_q_9: "9",
+    t3_q_10: "10",
+    t3_q_7: "7",
+  },
+  hu: {
+    explorer_title: "Összeadás felfedezés",
+    t1_title: "Csoportok cseréje",
+    t1_text: "Az ÖSSZEADÁSNÁL a sorrend nem számít! 3 + 5 ugyanaz, mint 5 + 3. Az eredmény mindig ugyanaz!",
+    t1_b1: "A csoportok helyet cserélhetnek",
+    t1_b2: "Az eredmény ugyanaz marad",
+    t1_b3: "Próbáld: 4 + 3 és 3 + 4",
+    t1_inst: "Húzd össze a csoportokat — válasz 7!",
+    t1_h1: "4 csillag itt, 3 csillag ott",
+    t1_h2: "Együtt = 7 összesen",
+    t1_q: "4 + 3 = 3 + ?",
+    t1_q_3: "3",
+    t1_q_4: "4",
+    t1_q_7: "7",
+    t1_q_1: "1",
+    t2_title: "Számok szétszedetése",
+    t2_text: "A nagy számok kis számokból vannak! A 7 3-ra és 4-re bomlik. A 7 5-re és 2-re is bomlik. Ugyanaz a szám, más feldarabolás!",
+    t2_b1: "Egy nagy szám felhasználódik",
+    t2_b2: "Két kis számra",
+    t2_b3: "Összeadva = az eredeti",
+    t2_inst: "Vegyél 3-at az 8-ból — mennyi marad?",
+    t2_h1: "Kezdj 8-tól, vegyél el 3-at",
+    t2_h2: "Számold meg a maradékot = 5",
+    t2_q: "8 = 3 + ?",
+    t2_q_4: "4",
+    t2_q_5: "5",
+    t2_q_6: "6",
+    t2_q_3: "3",
+    t3_title: "Összeadás 10-ig",
+    t3_text: "Használj számegyenest az összeadáshoz! Indulj a 4-ből, ugorj előre 3 lépést. Hol érsz? 4 + 3 = 7!",
+    t3_b1: "Indulj az első számnál",
+    t3_b2: "Ugorj előre a másodikkal",
+    t3_b3: "Ahol érsz = a válasz",
+    t3_inst: "Koppints a 7-re a soron!",
+    t3_h1: "Indulj 4-ből, ugorj 3-szor",
+    t3_h2: "Számolj fel: 5, 6, 7 — koppints 7-re!",
+    t3_q: "5 + 4 = ?",
+    t3_q_8: "8",
+    t3_q_9: "9",
+    t3_q_10: "10",
+    t3_q_7: "7",
   },
   ro: {
-    addTitle: "Explorare adunare",
-    subTitle: "Explorare scădere",
-    addIntro: "Când ADUNĂM, numerele devin MAI MARI!",
-    subIntro: "Când SCĂDEM, numerele devin MAI MICI!",
-    add3plus2: "3 mere + 2 mere = ?",
-    add4plus3: "4 stele + 3 stele = ?",
-    add2plus5: "2 flori + 5 flori = ?",
-    sub7minus3: "7 păsări - 3 păsări = ?",
-    sub6minus2: "6 stele - 2 stele = ?",
-    sub8minus5: "8 flori - 5 flori = ?",
+    explorer_title: "Explorare adunare",
+    t1_title: "Schimbă grupurile",
+    t1_text: "La ADUNARE, ordinea nu contează! 3 + 5 este la fel ca 5 + 3. Răspunsul este întotdeauna același!",
+    t1_b1: "Grupurile pot schimba locul",
+    t1_b2: "Răspunsul rămâne același",
+    t1_b3: "Încearcă: 4 + 3 și 3 + 4",
+    t1_inst: "Trage grupurile împreună — răspuns 7!",
+    t1_h1: "4 stele aici, 3 stele acolo",
+    t1_h2: "Împreună = 7 total",
+    t1_q: "4 + 3 = 3 + ?",
+    t1_q_3: "3",
+    t1_q_4: "4",
+    t1_q_7: "7",
+    t1_q_1: "1",
+    t2_title: "Sparge numerele în bucăți",
+    t2_text: "Numerele mari sunt făcute din numere mici! 7 se împarte în 3 și 4. 7 se poate și împărți în 5 și 2. Același număr, alte diviziuni!",
+    t2_b1: "Un număr mare se descompune",
+    t2_b2: "În două numere mici",
+    t2_b3: "Adunate la loc = originalul",
+    t2_inst: "Ia 3 din 8 — câte rămân?",
+    t2_h1: "Începe cu 8, ia 3 deoparte",
+    t2_h2: "Numără rămase = 5",
+    t2_q: "8 = 3 + ?",
+    t2_q_4: "4",
+    t2_q_5: "5",
+    t2_q_6: "6",
+    t2_q_3: "3",
+    t3_title: "Adunare până la 10",
+    t3_text: "Folosește o linie numerică pentru adunare! Începe la 4, sari înainte 3 pași. Unde aterizezi? 4 + 3 = 7!",
+    t3_b1: "Începe la primul număr",
+    t3_b2: "Sari înainte cu al doilea",
+    t3_b3: "Unde aterizezi = răspunsul",
+    t3_inst: "Atingi 7 pe linie!",
+    t3_h1: "Începe la 4, sari 3 ori",
+    t3_h2: "Numără: 5, 6, 7 — atingi 7!",
+    t3_q: "5 + 4 = ?",
+    t3_q_8: "8",
+    t3_q_9: "9",
+    t3_q_10: "10",
+    t3_q_7: "7",
   },
 };
 
-const ADD_DEF: ExplorerDef = {
+// ─── Topic definitions ───────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  // Topic 1: Tauschaufgabe (Commutative property)
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <TauschSvg group1={4} group2={3} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "combine",
+      groups: [4, 3],
+      answer: 7,
+      blockIcon: "⭐",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_1", "t1_q_3", "t1_q_4", "t1_q_7"],
+      answer: "t1_q_4",
+    },
+  },
+
+  // Topic 2: Zahlzerlegung (Number decomposition)
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <ZahlzerlegungSvg total={8} part1={3} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "block-drag",
+      mode: "split",
+      groups: [8, 3],
+      answer: 5,
+      blockIcon: "🔵",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_3", "t2_q_4", "t2_q_5", "t2_q_6"],
+      answer: "t2_q_5",
+    },
+  },
+
+  // Topic 3: Addition to 10
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <AdditionLineSvg start={4} jumps={3} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "number-line",
+      min: 0,
+      max: 10,
+      start: 5,
+      target: 9,
+      showJumps: true,
+      jumpCount: 4,
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"],
+      answer: "t3_q_9",
+    },
+  },
+];
+
+// ─── Explorer definition ─────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "addTitle",
-      infoText: "addIntro",
-      svg: () => <AddSubSvg isAdd={true} />,
-      bulletKeys: ["add3plus2"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "addTitle",
-      infoText: "add3plus2",
-      svg: () => <AddSvgR2 />,
-      questions: [{ question: "add3plus2", choices: ["5", "3", "6", "2"], answer: "5" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "addTitle",
-      infoText: "add4plus3",
-      svg: () => <AddSvgR3 />,
-      questions: [{ question: "add4plus3", choices: ["7", "5", "8", "6"], answer: "7" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "addTitle",
-      infoText: "add2plus5",
-      svg: () => <AddSvgR4 />,
-      questions: [{ question: "add2plus5", choices: ["7", "5", "8", "6"], answer: "7" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "addTitle",
-      infoText: "addIntro",
-      svg: () => <AddSubSvg isAdd={true} />,
-      questions: [
-        { question: "add3plus2", choices: ["5", "3", "6", "2"], answer: "5" },
-        { question: "add4plus3", choices: ["7", "5", "8", "6"], answer: "7" },
-        { question: "add2plus5", choices: ["7", "5", "8", "6"], answer: "7" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "➕",
+  topics: TOPICS,
+  rounds: [], // legacy — not used in topic mode
 };
 
-const SUB_DEF: ExplorerDef = {
-  labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "subTitle",
-      infoText: "subIntro",
-      svg: () => <AddSubSvg isAdd={false} />,
-      bulletKeys: ["sub7minus3"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "subTitle",
-      infoText: "sub7minus3",
-      svg: () => <SubSvgR2 />,
-      questions: [{ question: "sub7minus3", choices: ["4", "5", "6", "3"], answer: "4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "subTitle",
-      infoText: "sub6minus2",
-      svg: () => <SubSvgR3 />,
-      questions: [{ question: "sub6minus2", choices: ["4", "3", "5", "2"], answer: "4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "subTitle",
-      infoText: "sub8minus5",
-      svg: () => <SubSvgR4 />,
-      questions: [{ question: "sub8minus5", choices: ["3", "4", "5", "2"], answer: "3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "subTitle",
-      infoText: "subIntro",
-      svg: () => <AddSubSvg isAdd={false} />,
-      questions: [
-        { question: "sub7minus3", choices: ["4", "5", "6", "3"], answer: "4" },
-        { question: "sub6minus2", choices: ["4", "3", "5", "2"], answer: "4" },
-        { question: "sub8minus5", choices: ["3", "4", "5", "2"], answer: "3" },
-      ],
-    },
-  ],
-};
+// ─── Export ──────────────────────────────────────────────────────────────────
 
 const AddSubExplorer = memo(function AddSubExplorer({
-  color = "#3B82F6",
+  color = "#00D4FF",
   onDone,
   lang = "en",
-  isAdd = true,
 }: {
   color?: string;
   onDone: (s: number, t: number) => void;
   lang?: string;
-  isAdd?: boolean;
 }) {
-  const def = isAdd ? ADD_DEF : SUB_DEF;
-  return <ExplorerEngine def={def} grade={1} explorerId="math_g1_addsub" color={color} lang={lang} onDone={onDone} />;
+  return <ExplorerEngine def={DEF} grade={1} explorerId="math_g1_addsub" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default AddSubExplorer;
