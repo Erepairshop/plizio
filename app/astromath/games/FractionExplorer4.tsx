@@ -36,7 +36,7 @@ const CircleFractionSvg = memo(function CircleFractionSvg({ numerator = 1, denom
         {numerator}/{denominator}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({numerator} out of {denominator} parts)
+        ({numerator} shaded, {denominator} total)
       </text>
     </svg>
   );
@@ -107,7 +107,7 @@ const CompareFractionsSvg = memo(function CompareFractionsSvg() {
         More shaded parts = larger fraction
       </text>
       <text x="120" y="150" fontSize="11" fontWeight="bold" fill="#4ECDC4" textAnchor="middle">
-        2/4 > 1/4
+        2/4 {">"}  1/4
       </text>
     </svg>
   );

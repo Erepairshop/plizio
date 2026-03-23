@@ -30,7 +30,7 @@ const SharingModelSvg = memo(function SharingModelSvg({ total = 20, groups = 4 }
         {total} ÷ {groups} = {perGroup}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        (Share {total} into {groups} equal groups)
+        ({total} ÷ {groups} = {perGroup} per group)
       </text>
     </svg>
   );
@@ -64,7 +64,7 @@ const GroupingModelSvg = memo(function GroupingModelSvg({ total = 24, size = 6 }
         {total} ÷ {size} = {groups}
       </text>
       <text x="120" y="150" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        (Make {groups} groups of {size})
+        ({groups} groups × {size} each = {total})
       </text>
     </svg>
   );

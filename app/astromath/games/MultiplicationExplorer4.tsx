@@ -24,7 +24,7 @@ const ArrayModelSvg = memo(function ArrayModelSvg({ rows = 4, cols = 6 }: { rows
         {rows} × {cols} = {rows * cols}
       </text>
       <text x="120" y="150" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({rows} rows × {cols} columns)
+        ({rows} × {cols} = {rows * cols})
       </text>
     </svg>
   );
