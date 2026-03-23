@@ -464,7 +464,7 @@ const EXPLORER_DEF: ExplorerDef = {
         {
           question: "r5_q3",
           choices: ["r5_q3_a", "r5_q3_b", "r5_q3_c", "r5_q3_d"],
-          answer: "r5_q3_b",
+          answer: "r5_q3_a",
         },
       ],
     },

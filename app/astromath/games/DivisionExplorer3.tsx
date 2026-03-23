@@ -262,7 +262,7 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare împărțire",
-    t1_title: "Sharing Just",
+    t1_title: "Împărțire corectă",
     t1_text: "Împărțirea este distribuirea corectă! Dacă ai 12 obiecte și 3 persoane, fiecare persoană primește 4. Asta e 12 ÷ 3 = 4.",
     t1_b1: "Începe cu obiecte totale",
     t1_b2: "Distribuie în grupuri egale",

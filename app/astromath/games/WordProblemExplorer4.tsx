@@ -318,7 +318,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_text: "A szövegfeladatok szavakkal írják le a helyzetet. A megoldásukhoz először olvasd el gondosan és értsd meg: Mit tudunk? Mit kell találni? Például: 'Mariának 20 almája van. Megeszik 7-et. Hány van hátra?'",
     t1_b1: "Olvasd el a feladatot lassan és gondosan",
     t1_b2: "Ismerd fel, amit tudsz és mit kell találni",
-    t1_b3: "Keress számlaklavekut és cselekvési szavakat",
+    t1_b3: "Keress számkulcsokat és cselekvési szavakat",
     t1_q: "Mit jelent általában az 'összesen'?",
     t1_q_add: "Összeadás (+)",
     t1_q_sub: "Kivonás (−)",
