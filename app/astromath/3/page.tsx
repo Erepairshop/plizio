@@ -28,7 +28,14 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
 import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
-import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
+import PlaceValueExplorer3 from "@/app/astromath/games/PlaceValueExplorer3";
+import AdditionExplorer3 from "@/app/astromath/games/AdditionExplorer3";
+import SubtractionExplorer3 from "@/app/astromath/games/SubtractionExplorer3";
+import MultiplicationExplorer3 from "@/app/astromath/games/MultiplicationExplorer3";
+import DivisionExplorer3 from "@/app/astromath/games/DivisionExplorer3";
+import UnitExplorer3 from "@/app/astromath/games/UnitExplorer3";
+import AreaExplorer3 from "@/app/astromath/games/AreaExplorer3";
+import WordProblemExplorer3 from "@/app/astromath/games/WordProblemExplorer3";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
@@ -810,22 +817,46 @@ export default function AstroMathG3Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "concept-explorer" && (
-          <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          activeIsland?.id === "i2" ? (
+            <AdditionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : activeIsland?.id === "i3" ? (
+            <SubtractionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : activeIsland?.id === "i4" ? (
+            <MultiplicationExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          )
         )}
         {screen === "place-value-explorer" && (
-          <PlaceValueExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          <PlaceValueExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
-          <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          activeIsland?.id === "i5" ? (
+            <DivisionExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          )
         )}
         {screen === "area-explorer" && (
-          <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          activeIsland?.id === "i7" ? (
+            <AreaExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          )
         )}
         {screen === "word-problem-explorer" && (
-          <WordProblemExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          activeIsland?.id === "i8" ? (
+            <WordProblemExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <WordProblemExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          )
         )}
         {screen === "unit-explorer" && (
-          <UnitExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          activeIsland?.id === "i6" ? (
+            <UnitExplorer3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          ) : (
+            <UnitExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
+          )
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
