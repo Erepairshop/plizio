@@ -435,7 +435,7 @@ function Round5({
     const correct = opt === item.type;
     if (!correct) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: selected, correctAnswer: item.type, topic: "German Verbs", lang: "de" });
+      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.type, topic: "German Verbs", lang: "de" });
     }
     setSelected(opt);
     setTimeout(() => {

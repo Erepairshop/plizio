@@ -435,7 +435,7 @@ function Round5({
     setSelected(wi);
     if (wi !== item.answer) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.words?.join(" ") || "", wrongAnswer: String(wi), correctAnswer: String(item.answer), topic: "Capitalization", lang: "de" });
+      fireWrongAnswer({ question: item.sentence?.join(" ") || "", wrongAnswer: String(wi), correctAnswer: String(item.answer), topic: "Capitalization", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= CAPITAL_QUIZ.length) onDone();

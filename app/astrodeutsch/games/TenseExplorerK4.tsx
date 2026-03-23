@@ -415,7 +415,7 @@ function Round4({
     setSelected(aux);
     if (aux !== item.aux) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item?.word || item?.sentence || item?.question || q?.question || q?.verb || "", wrongAnswer: selected, correctAnswer: item.aux, topic: "Verb Tenses", lang: "de" });
+      fireWrongAnswer({ question: item.verb, wrongAnswer: aux, correctAnswer: item.aux, topic: "Verb Tenses", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= PERFEKT_SORT.length) onNext();

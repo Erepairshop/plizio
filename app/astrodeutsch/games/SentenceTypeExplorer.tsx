@@ -466,7 +466,7 @@ function Round5({ color, lbl, onDone, wrongCountRef }: { color: string; lbl: Rec
     setSelected(p);
     if (p !== item.answer) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
+      fireWrongAnswer({ question: item.text, wrongAnswer: p, correctAnswer: item.answer, topic: "Sentence Types", lang: "de" });
     }
     setTimeout(() => {
       if (idx + 1 >= PUNCT_QUIZ.length) onDone();

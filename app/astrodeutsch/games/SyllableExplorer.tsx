@@ -732,7 +732,7 @@ function Round5({
 
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: n, correctAnswer: item.count, topic: "Syllables", lang: "de" });
+      fireWrongAnswer({ question: item.word, wrongAnswer: String(n), correctAnswer: String(item.count), topic: "Syllables", lang: "de" });
     }
 
     setTimeout(() => {

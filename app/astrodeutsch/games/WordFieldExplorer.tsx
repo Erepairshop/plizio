@@ -562,7 +562,7 @@ function Round5({
     const isCorrect = idx === q.correct;
     if (!isCorrect) {
       wrongCountRef.current++;
-      fireWrongAnswer({ question: "", wrongAnswer: idx, correctAnswer: q.correct, topic: "Word Fields", lang: "de" });
+      fireWrongAnswer({ question: q.question, wrongAnswer: String(idx), correctAnswer: String(q.correct), topic: "Word Fields", lang: "de" });
     }
     setSelected(idx);
     setRevealed(true);
