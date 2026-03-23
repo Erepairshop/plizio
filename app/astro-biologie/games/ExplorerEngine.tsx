@@ -681,8 +681,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                 </p>
               )}
 
-              {/* ── Fun Fact (AI enhanced mode) ── */}
-              {aiEnhanced && (funFact || funFactLoading) && (
+              {/* ── Fun Fact (AI enhanced mode, first round only) ── */}
+              {aiEnhanced && round === 0 && (funFact || funFactLoading) && (
                 <motion.div
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
@@ -758,7 +758,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                 onClick={handleNext}
                 className="mt-2 px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2 group"
               >
-                {currentRound.type === "info" ? ui.gotIt : ui.gotIt}
+                {ui.gotIt}
                 <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
               </button>
             </motion.div>
