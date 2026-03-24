@@ -1,1050 +1,365 @@
 "use client";
-// ─────────────────────────────────────────────────────────────────────────────
-// FlowerExplorer — Flowers & Reproduction (Blüte & Fortpflanzung) — Grade 5
-// ExplorerEngine-based: R1-R4 teaching, R5 quiz
-// ─────────────────────────────────────────────────────────────────────────────
+// FlowerExplorer.tsx — Bio Island i5: Virág és Szaporodás (K5)
+// Topics: 1) Virág részei 2) Beporzás 3) Magképzés 4) Termések 5) Review
 
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef, MCQQuestion } from "./ExplorerEngine";
-import React from "react";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { FlowerPartsSvg, PollinationSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Labels — All 4 languages (en/de/hu/ro)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-const LABELS: ExplorerDef["labels"] = {
-  en: {
-    // Round 1: Flower Structure
-    r1Title: "🌺 Flower Structure",
-    r1Text: "Flowers are the reproductive organs of plants. Each part has a special job in making seeds.",
-    r1Bullet1: "Petals attract insects and animals with bright colors and sweet smells",
-    r1Bullet2: "Sepals protect the developing flower bud before it opens",
-    r1Bullet3: "Stamens (male parts) produce tiny pollen grains containing male cells",
-    r1Bullet4: "Pistil (female part) contains the ovary with ovules that become seeds",
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FCE7F3" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="40" textAnchor="middle">🌸</text>
+        <path d="M -15,0 L 15,0" stroke="#DB2777" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="40" y="15" fontSize="40" textAnchor="middle">🌰</text>
+      </g>
+    </svg>
+  );
+});
 
-    // Round 2: Pollination
-    r2Title: "🐝 Pollination",
-    r2Text: "Pollen must travel from a stamen to a pistil. Different plants use different carriers!",
-    r2Bullet1: "Insect pollination: bees, butterflies, and beetles carry pollen on their bodies",
-    r2Bullet2: "Wind pollination: light pollen floats through the air (grasses, trees)",
-    r2Bullet3: "Water pollination: some aquatic plants use water to spread pollen",
-    r2Bullet4: "When pollen lands on the pistil, fertilization begins!",
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFEDD5" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-35" y="15" fontSize="40" textAnchor="middle">🍎</text>
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🍒</text>
+        <text x="35" y="15" fontSize="40" textAnchor="middle">🥜</text>
+      </g>
+    </svg>
+  );
+});
 
-    // Round 3: Seed & Fruit Formation
-    r3Title: "🌱 Fertilization & Growth",
-    r3Text: "After pollination, a pollen tube grows to the ovule. Fertilization creates a new seed!",
-    r3Bullet1: "Pollen grain grows a tube down through the pistil to reach the ovule",
-    r3Bullet2: "Male cells from pollen unite with female cells in ovule (fertilization)",
-    r3Bullet3: "The ovule develops into a seed with embryo and stored food",
-    r3Bullet4: "The ovary expands to become a fruit that protects the seeds",
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌺</text>
+        <text x="20" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
 
-    // Round 4: Seed Dispersal
-    r4Title: "🌍 Seed Dispersal",
-    r4Text: "Seeds must spread far from the parent plant. Nature has amazing ways to do this!",
-    r4Bullet1: "Wind dispersal: light seeds have wings or parachutes to float far",
-    r4Bullet2: "Water dispersal: seeds float on water (coconuts) or sink in water plants",
-    r4Bullet3: "Animal dispersal: sticky/hooked seeds cling to fur; tasty ones eaten & dropped",
-    r4Bullet4: "Explosion dispersal: some plants spring open and shoot seeds far away",
+// ─── LABELS ─────────────────────────────────────────────────────────
 
-    // Round 5: Quiz
-    r5Title: "❓ Review Quiz",
-    r5Text: "Test what you learned about flowers and seed-making!",
-
-    // MCQ questions
-    q_struct_petal: "What do flower petals do?",
-    q_struct_stamen: "Which flower part produces pollen?",
-    q_struct_ovary: "Which part grows into a fruit?",
-    q_poll_insect: "How do bee-pollinated flowers get pollen?",
-    q_poll_method: "How do grass flowers spread their pollen?",
-    q_seed_form: "What does the ovule become after fertilization?",
-    q_disp_wind: "Which type of seed has adaptations for wind dispersal?",
-
-    // MCQ choices
-    attract_pollinators: "Attract pollinators with color and smell",
-    protect_bud: "Protect the flower bud",
-    produce_pollen: "Produce pollen",
-    become_fruit: "Become the fruit",
-    stamen: "Stamen",
-    pistil: "Pistil",
-    sepal: "Sepal",
-    on_insect_bodies: "On the bodies of insects",
-    by_wind: "By wind blowing it",
-    by_water: "By floating water",
-    become_seed: "A seed",
-    become_flower: "Another flower",
-    become_petal: "A petal",
-    disp_wings: "Seeds with wings or parachutes",
-    disp_hooks: "Seeds with hooks or spines",
-    disp_float: "Large floating seeds",
-  },
-
-  de: {
-    // Round 1
-    r1Title: "🌺 Blütenaufbau",
-    r1Text: "Blüten sind die Fortpflanzungsorgane von Pflanzen. Jeder Teil hat eine spezielle Aufgabe.",
-    r1Bullet1: "Blütenblätter locken Insekten und Tiere mit hellen Farben und süßem Duft an",
-    r1Bullet2: "Kelchblätter schützen die entwickelnde Blütenknospe vor dem Öffnen",
-    r1Bullet3: "Staubblätter (männliche Teile) produzieren Pollenkörner mit männlichen Zellen",
-    r1Bullet4: "Stempel (weiblicher Teil) enthält Fruchtknoten mit Samenanlagen, die zu Samen werden",
-
-    // Round 2
-    r2Title: "🐝 Bestäubung",
-    r2Text: "Pollen muss von Staubblatt zu Stempel gelangen. Verschiedene Pflanzen nutzen verschiedene Träger!",
-    r2Bullet1: "Insektenbestäubung: Bienen, Schmetterlinge und Käfer tragen Pollen an ihren Körpern",
-    r2Bullet2: "Windbestäubung: leichter Pollen schwebt durch die Luft (Gräser, Bäume)",
-    r2Bullet3: "Wasserbestäubung: manche Wasserpflanzen nutzen Wasser zum Pollen verbreiten",
-    r2Bullet4: "Wenn Pollen auf dem Stempel landet, beginnt die Befruchtung!",
-
-    // Round 3
-    r3Title: "🌱 Befruchtung & Wachstum",
-    r3Text: "Nach der Bestäubung wächst Pollenschlauch zur Samenanlage. Befruchtung schafft neuen Samen!",
-    r3Bullet1: "Pollenkorn bildet einen Schlauch, der durch Stempel zu Samenanlage wächst",
-    r3Bullet2: "Männliche Zellen aus Pollen vereinigen sich mit weiblichen Zellen (Befruchtung)",
-    r3Bullet3: "Die Samenanlage entwickelt sich zu Samen mit Keimling und Nährspeicher",
-    r3Bullet4: "Der Fruchtknoten dehnt sich aus und wird schützende Frucht",
-
-    // Round 4
-    r4Title: "🌍 Samenverbreitung",
-    r4Text: "Samen müssen weit weg von Mutterpflanze verbreitet werden. Die Natur hat erstaunliche Wege!",
-    r4Bullet1: "Windverbreitung: leichte Samen haben Flügel oder Fallschirme zum Schweben",
-    r4Bullet2: "Wasserverbreitung: Samen treiben auf Wasser (Kokosnüsse) oder sinken in Wasserpflanzen",
-    r4Bullet3: "Tierverbreitung: klebrige/gehäkelte Samen haften am Fell; Schmackhaftes gefressen & fallengelassen",
-    r4Bullet4: "Explosionsverbreitung: manche Pflanzen springen auf und schießen Samen weit weg",
-
-    // Round 5
-    r5Title: "❓ Wiederholungsquiz",
-    r5Text: "Teste dein Wissen über Blüten und Samenbildung!",
-
-    // MCQ questions
-    q_struct_petal: "Was machen Blütenblätter?",
-    q_struct_stamen: "Welcher Blütenteil produziert Pollen?",
-    q_struct_ovary: "Welcher Teil wird zur Frucht?",
-    q_poll_insect: "Wie kommen Pollenkörner bei bienenbestäubten Blüten weg?",
-    q_poll_method: "Wie verbreiten Grasblüten ihren Pollen?",
-    q_seed_form: "Was wird die Samenanlage nach Befruchtung?",
-    q_disp_wind: "Welche Art von Samen hat Anpassungen für Windverbreitung?",
-
-    // MCQ choices
-    attract_pollinators: "Locken Bestäuber mit Farbe und Duft an",
-    protect_bud: "Schützen die Blütenknospe",
-    produce_pollen: "Produzieren Pollen",
-    become_fruit: "Werden die Frucht",
-    stamen: "Staubblatt",
-    pistil: "Stempel",
-    sepal: "Kelchblatt",
-    on_insect_bodies: "Auf den Körpern von Insekten",
-    by_wind: "Durch Wind",
-    by_water: "Durch schwimmen",
-    become_seed: "Ein Samen",
-    become_flower: "Eine andere Blüte",
-    become_petal: "Ein Blütenblatt",
-    disp_wings: "Samen mit Flügeln oder Fallschirmen",
-    disp_hooks: "Samen mit Haken oder Dornen",
-    disp_float: "Große schwimmende Samen",
-  },
-
+const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    // Round 1
-    r1Title: "🌺 Virág szerkezete",
-    r1Text: "A virágok a növények szaporító szervei. Minden résznek speciális feladata van.",
-    r1Bullet1: "Sziromok vonzzák a rovarokat és állatokat élénk színekkel és édes illattal",
-    r1Bullet2: "Csészelevelek védelemben az összedolgozó virágbimbó nyitás előtt",
-    r1Bullet3: "Porzók (hím részek) apró pollenszemcséket termelnek hím sejtekkel",
-    r1Bullet4: "Bibeszál (nőstény rész) beépített petesejt tartalmaz, amely magvá lesz",
+    explorer_title: "Virág és Szaporodás",
+    // T1: Virág részei
+    t1_title: "A virág részei",
+    t1_text: "A virág a növény szaporítószerve. A színes sziromlevelek csalogatják a rovarokat. A porzó a hím ivarszerv, a termő pedig a női ivarszerv.",
+    t1_b1: "Sziromlevél: színes, illatos rovarcsalogató.",
+    t1_b2: "Porzó: itt termelődik a virágpor.",
+    t1_b3: "Termő: aljában található a magház a magkezdeményekkel.",
+    t1_inst: "Hol termelődik a virágpor?",
+    t1_gap_sentence: "A virágpor a virág {gap} termelődik.",
+    t1_c1: "porzójában", t1_c2: "termőjében", t1_c3: "gyökerében",
+    t1_q: "Mi a sziromlevelek fő feladata?",
+    t1_q_a: "A rovarok odacsalogatása", t1_q_b: "A víz felszívása", t1_q_c: "A növény rögzítése", t1_q_d: "A fotoszintézis",
 
-    // Round 2
-    r2Title: "🐝 Porlódás",
-    r2Text: "A virágpor a porzóból a bibeszálra kell jutnia. Különböző növények különböző szállítókat használnak!",
-    r2Bullet1: "Rovar-porlódás: méhek, pillangók és bogarak virágport hordoznak testükön",
-    r2Bullet2: "Szél-porlódás: könnyű virágpor lebeg a levegőben (füvek, fák)",
-    r2Bullet3: "Víz-porlódás: néhány vizes növény vizet használ a virágpor terjesztésére",
-    r2Bullet4: "Amikor virágpor a bibeszálra jut, a megtermékenyítés kezdődik!",
+    // T2: Beporzás
+    t2_title: "A beporzás",
+    t2_text: "A beporzás (megporzás) az a folyamat, amikor a virágpor a porzóról a termő bibéjére jut. Ezt leggyakrabban rovarok vagy a szél végzik.",
+    t2_b1: "Rovarmegporzás: a méhek nektárt gyűjtenek, közben virágport visznek át.",
+    t2_b2: "Szélmegporzás: a szél fújja át a könnyű virágport (pl. fűfélék, fák).",
+    t2_b3: "A sikeres beporzás a magképzés feltétele.",
+    t2_inst: "Tedd sorba a beporzás lépését leíró szavákat!",
+    t2_w1: "A", t2_w2: "rovarok", t2_w3: "virágport", t2_w4: "visznek", t2_w5: "a", t2_w6: "bibére.",
+    t2_q: "Mi vonzza a méheket a virágokhoz a színeken kívül?",
+    t2_q_a: "A nektár és az illat", t2_q_b: "A levelek árnyéka", t2_q_c: "A tövisek", t2_q_d: "A gyökerek",
 
-    // Round 3
-    r3Title: "🌱 Megtermékenyítés és növekedés",
-    r3Text: "A porlódás után virágcső nő az embrióhoz. A megtermékenyítés új magot hoz létre!",
-    r3Bullet1: "Virágporszemcse cső nő bibeszálon keresztül az embrióhoz",
-    r3Bullet2: "Hím sejtek a virágpor egyesülnek nőstény sejtekkel (megtermékenyítés)",
-    r3Bullet3: "Az embrió maggyá fejlődik csírázással és tárolt élelemmel",
-    r3Bullet4: "A petesejt-kocsány kitágul és védő gyümölccsé lesz",
+    // T3: Magképzés
+    t3_title: "Megtermékenyítés és magképzés",
+    t3_text: "Miután a virágpor a bibére jutott, egy pollentömlőt növeszt a magházig. Ott a hímivarsejt egyesül a petesejttel – ez a megtermékenyítés. Ebből fejlődik ki a mag.",
+    t3_b1: "A magkezdeményből mag lesz.",
+    t3_b2: "A mag rejti az új növény embrióját.",
+    t3_b3: "A magházból pedig kialakul a termés.",
+    t3_inst: "Párosítsd a virág részeit azzal, amivé fejlődnek!",
+    t3_l1: "Magkezdemény", t3_r1: "Mag",
+    t3_l2: "Magház", t3_r2: "Termés",
+    t3_l3: "Petesejt + hímivarsejt", t3_r3: "Növényi embrió (csíra)",
+    t3_q: "Mivé fejlődik a magkezdemény a megtermékenyítés után?",
+    t3_q_a: "Maggá", t3_q_b: "Sziromlevéllé", t3_q_c: "Gyökérré", t3_q_d: "Szárrá",
 
-    // Round 4
-    r4Title: "🌍 Magszóródás",
-    r4Text: "A magoknak messze kell terjedniük az anyó-növénytől. A természetnek csodálatos módszerei vannak!",
-    r4Bullet1: "Szélszóródás: könnyű magoknak szárnyaik vagy ernyőjük van",
-    r4Bullet2: "Vízszóródás: magok úsznak vízben (kókusz) vagy süllyednek vizes növénybe",
-    r4Bullet3: "Állatszóródás: ragacsos/horogos magok ragadnak szőrön; ízletesek megevés után leesnek",
-    r4Bullet4: "Robbanásszóródás: néhány növény felrobban és magokat löveti messze",
+    // T4: Termések
+    t4_title: "A termések világa",
+    t4_text: "A termés feladata a magok védelme és elterjesztése. Két fő típusa van: a húsos és a száraz termés.",
+    t4_b1: "Húsos termés: lédús, az állatok megeszik (pl. alma, cseresznye).",
+    t4_b2: "Száraz termés: kemény vagy papírszerű héj (pl. dió, mogyoró, mák).",
+    t4_b3: "A magokat a szél, víz vagy állatok terjesztik.",
+    t4_inst: "Húsos vagy száraz termés? Válogasd szét!",
+    t4_bucket_hus: "Húsos termés",
+    t4_bucket_sza: "Száraz termés",
+    t4_item_h1: "Alma", t4_item_h2: "Cseresznye",
+    t4_item_s1: "Dió", t4_item_s2: "Mogyoró",
+    t4_q: "Mi a termés fő biológiai feladata?",
+    t4_q_a: "A magok védelme és terjesztése", t4_q_b: "A növény rögzítése", t4_q_c: "A fotoszintézis", t4_q_d: "Víz felszívása",
 
-    // Round 5
-    r5Title: "❓ Ismétlés kvíz",
-    r5Text: "Teszeld meg tudásodat virágokról és magképzésről!",
-
-    // MCQ questions
-    q_struct_petal: "Mit csinálnak a sziromok?",
-    q_struct_stamen: "Melyik virág rész termel virágport?",
-    q_struct_ovary: "Melyik rész lesz gyümölcs?",
-    q_poll_insect: "Hogyan jut virágpor a méhek által pollódott virágokba?",
-    q_poll_method: "Hogyan terjednek a fűvirágok virágportjukat?",
-    q_seed_form: "Mi lesz az embrió megtermékenyítés után?",
-    q_disp_wind: "Mely magok vannak szél terjedésre alkalmazkodva?",
-
-    // MCQ choices
-    attract_pollinators: "Vonzzák a porrodókat szín és illat",
-    protect_bud: "Védelemben a virág bimbót",
-    produce_pollen: "Termelnek virágport",
-    become_fruit: "Lesz a gyümölcs",
-    stamen: "Porzó",
-    pistil: "Bibeszál",
-    sepal: "CsészElev",
-    on_insect_bodies: "Rovar testein",
-    by_wind: "Szél által",
-    by_water: "Víz úton",
-    become_seed: "Mag",
-    become_flower: "Egy másik virág",
-    become_petal: "Szirmom",
-    disp_wings: "Magok szárnyakkal vagy ernyőkkel",
-    disp_hooks: "Magok horogokkal vagy tövisekkel",
-    disp_float: "Nagy úszó magok",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod a virágokról és a szaporodásról!",
+    t5_b1: "Porzó = hím, Termő = női ivarszerv.",
+    t5_b2: "Beporzás -> Megtermékenyítés -> Mag -> Termés.",
+    t5_b3: "A termés védi és terjeszti a magot.",
+    t5_inst: "Mi fejlődik a magházból?",
+    t5_gap_sentence2: "A virágzás és megtermékenyítés után a magházból {gap} fejlődik.",
+    t5_c51: "termés", t5_c52: "levél", t5_c53: "gyökér",
+    t5_q: "Melyik állítás IGAZ a beporzásra?",
+    t5_q_a: "A virágpor a porzóról a termő bibéjére jut.", t5_q_b: "A sziromlevelek lehullanak.", t5_q_c: "A gyökér vizet szív fel.", t5_q_d: "A mag kicsírázik.",
   },
+  en: {
+    explorer_title: "Flowers and Reproduction",
+    t1_title: "Parts of a Flower", t1_text: "The flower is the reproductive organ of the plant. Colorful petals attract insects. The stamen is the male part, and the pistil is the female part.",
+    t1_b1: "Petal: colorful and fragrant to attract insects.", t1_b2: "Stamen: produces pollen.", t1_b3: "Pistil: contains the ovary with ovules at its base.",
+    t1_inst: "Where is pollen produced?", t1_gap_sentence: "Pollen is produced in the {gap} of the flower.",
+    t1_c1: "stamen", t1_c2: "pistil", t1_c3: "root",
+    t1_q: "What is the main function of the petals?", t1_q_a: "To attract insects", t1_q_b: "To absorb water", t1_q_c: "To anchor the plant", t1_q_d: "To photosynthesize",
 
+    t2_title: "Pollination", t2_text: "Pollination is the process where pollen is transferred from the stamen to the stigma of the pistil. This is usually done by insects or the wind.",
+    t2_b1: "Insect pollination: bees collect nectar and transfer pollen.", t2_b2: "Wind pollination: the wind blows light pollen (e.g., grasses, trees).", t2_b3: "Successful pollination is needed to make seeds.",
+    t2_inst: "Put the words describing pollination in order!",
+    t2_w1: "Insects", t2_w2: "carry", t2_w3: "pollen", t2_w4: "to", t2_w5: "the", t2_w6: "stigma.",
+    t2_q: "What attracts bees to flowers besides their colors?", t2_q_a: "Nectar and scent", t2_q_b: "The shade of leaves", t2_q_c: "Thorns", t2_q_d: "Roots",
+
+    t3_title: "Fertilization and Seed Formation", t3_text: "After pollen lands on the stigma, it grows a tube down to the ovary. There, the male cell joins the egg cell – this is fertilization. A seed develops from this.",
+    t3_b1: "The ovule becomes the seed.", t3_b2: "The seed hides the embryo of the new plant.", t3_b3: "The ovary develops into the fruit.",
+    t3_inst: "Match the flower parts with what they become!",
+    t3_l1: "Ovule", t3_r1: "Seed", t3_l2: "Ovary", t3_r2: "Fruit", t3_l3: "Egg cell + male cell", t3_r3: "Plant embryo",
+    t3_q: "What does the ovule develop into after fertilization?", t3_q_a: "A seed", t3_q_b: "A petal", t3_q_c: "A root", t3_q_d: "A stem",
+
+    t4_title: "The World of Fruits", t4_text: "The purpose of the fruit is to protect and disperse the seeds. There are two main types: fleshy and dry fruits.",
+    t4_b1: "Fleshy fruit: juicy, eaten by animals (e.g., apple, cherry).", t4_b2: "Dry fruit: hard or papery shell (e.g., walnut, hazelnut).", t4_b3: "Seeds are dispersed by wind, water, or animals.",
+    t4_inst: "Fleshy or dry fruit? Sort them!",
+    t4_bucket_hus: "Fleshy fruit", t4_bucket_sza: "Dry fruit",
+    t4_item_h1: "Apple", t4_item_h2: "Cherry", t4_item_s1: "Walnut", t4_item_s2: "Hazelnut",
+    t4_q: "What is the main biological function of a fruit?", t4_q_a: "To protect and disperse seeds", t4_q_b: "To anchor the plant", t4_q_c: "To perform photosynthesis", t4_q_d: "To absorb water",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about flowers and reproduction!",
+    t5_b1: "Stamen = male, Pistil = female.", t5_b2: "Pollination -> Fertilization -> Seed -> Fruit.", t5_b3: "The fruit protects and spreads the seed.",
+    t5_inst: "What develops from the ovary?", t5_gap_sentence2: "After flowering and fertilization, the ovary develops into a {gap}.",
+    t5_c51: "fruit", t5_c52: "leaf", t5_c53: "root",
+    t5_q: "Which statement is TRUE about pollination?", t5_q_a: "Pollen is transferred from the stamen to the stigma.", t5_q_b: "The petals fall off.", t5_q_c: "The root absorbs water.", t5_q_d: "The seed sprouts.",
+  },
+  de: {
+    explorer_title: "Blüten und Fortpflanzung",
+    t1_title: "Teile einer Blüte", t1_text: "Die Blüte ist das Fortpflanzungsorgan der Pflanze. Bunte Kronblätter locken Insekten an. Das Staubblatt ist der männliche Teil, der Stempel der weibliche.",
+    t1_b1: "Kronblatt: bunt und duftend, lockt Insekten an.", t1_b2: "Staubblatt: hier wird der Pollen (Blütenstaub) gebildet.", t1_b3: "Stempel: enthält den Fruchtknoten mit den Samenanlagen.",
+    t1_inst: "Wo wird der Blütenstaub gebildet?", t1_gap_sentence: "Der Pollen wird im {gap} gebildet.",
+    t1_c1: "Staubblatt", t1_c2: "Stempel", t1_c3: "Wurzel",
+    t1_q: "Was ist die Hauptaufgabe der Kronblätter?", t1_q_a: "Insekten anzulocken", t1_q_b: "Wasser aufzusaugen", t1_q_c: "Die Pflanze zu verankern", t1_q_d: "Fotosynthese zu betreiben",
+
+    t2_title: "Die Bestäubung", t2_text: "Bestäubung ist der Vorgang, bei dem Pollen vom Staubblatt auf die Narbe des Stempels gelangt. Das passiert meist durch Insekten oder den Wind.",
+    t2_b1: "Insektenbestäubung: Bienen sammeln Nektar und übertragen Pollen.", t2_b2: "Windbestäubung: Der Wind weht leichten Pollen (z.B. Gräser, Bäume).", t2_b3: "Erfolgreiche Bestäubung ist nötig für die Samenbildung.",
+    t2_inst: "Bringe die Wörter zur Bestäubung in die richtige Reihenfolge!",
+    t2_w1: "Insekten", t2_w2: "tragen", t2_w3: "den", t2_w4: "Pollen", t2_w5: "zur", t2_w6: "Narbe.",
+    t2_q: "Was lockt Bienen neben den Farben noch zu den Blüten?", t2_q_a: "Nektar und Duft", t2_q_b: "Der Schatten der Blätter", t2_q_c: "Dornen", t2_q_d: "Wurzeln",
+
+    t3_title: "Befruchtung und Samenbildung", t3_text: "Landet der Pollen auf der Narbe, wächst ein Pollenschlauch zum Fruchtknoten. Dort verschmilzt die männliche Zelle mit der Eizelle – die Befruchtung. Daraus entsteht der Same.",
+    t3_b1: "Aus der Samenanlage wird der Same.", t3_b2: "Der Same enthält den Embryo der neuen Pflanze.", t3_b3: "Aus dem Fruchtknoten entwickelt sich die Frucht.",
+    t3_inst: "Verbinde die Blütenteile damit, zu was sie sich entwickeln!",
+    t3_l1: "Samenanlage", t3_r1: "Same", t3_l2: "Fruchtknoten", t3_r2: "Frucht", t3_l3: "Eizelle + männl. Zelle", t3_r3: "Pflanzenembryo",
+    t3_q: "Wozu entwickelt sich die Samenanlage nach der Befruchtung?", t3_q_a: "Zu einem Samen", t3_q_b: "Zu einem Kronblatt", t3_q_c: "Zu einer Wurzel", t3_q_d: "Zu einem Stängel",
+
+    t4_title: "Die Welt der Früchte", t4_text: "Die Frucht schützt den Samen und hilft bei seiner Verbreitung. Es gibt zwei Hauptarten: fleischige Früchte und Trockenfrüchte.",
+    t4_b1: "Fleischige Frucht: saftig, wird von Tieren gefressen (z.B. Apfel, Kirsche).", t4_b2: "Trockenfrucht: harte oder papierartige Schale (z.B. Walnuss, Haselnuss).", t4_b3: "Samen werden durch Wind, Wasser oder Tiere verbreitet.",
+    t4_inst: "Fleischig oder trocken? Sortiere die Früchte!",
+    t4_bucket_hus: "Fleischige Frucht", t4_bucket_sza: "Trockenfrucht",
+    t4_item_h1: "Apfel", t4_item_h2: "Kirsche", t4_item_s1: "Walnuss", t4_item_s2: "Haselnuss",
+    t4_q: "Was ist die wichtigste biologische Aufgabe einer Frucht?", t4_q_a: "Schutz und Verbreitung der Samen", t4_q_b: "Verankerung der Pflanze", t4_q_c: "Fotosynthese", t4_q_d: "Wasseraufnahme",
+
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über Blüten und Fortpflanzung!",
+    t5_b1: "Staubblatt = männlich, Stempel = weiblich.", t5_b2: "Bestäubung -> Befruchtung -> Same -> Frucht.", t5_b3: "Die Frucht schützt und verbreitet den Samen.",
+    t5_inst: "Was entsteht aus dem Fruchtknoten?", t5_gap_sentence2: "Nach Blüte und Befruchtung entwickelt sich aus dem Fruchtknoten die {gap}.",
+    t5_c51: "Frucht", t5_c52: "Blatt", t5_c53: "Wurzel",
+    t5_q: "Welche Aussage über die Bestäubung ist WAHR?", t5_q_a: "Pollen gelangt vom Staubblatt auf die Narbe.", t5_q_b: "Die Kronblätter fallen ab.", t5_q_c: "Die Wurzel saugt Wasser auf.", t5_q_d: "Der Same keimt.",
+  },
   ro: {
-    // Round 1
-    r1Title: "🌺 Structura florii",
-    r1Text: "Florile sunt organele de reproducere ale plantelor. Fiecare parte are o sarcină specială.",
-    r1Bullet1: "Petalele atrag insectele și animalele cu culori strălucitoare și miros dulce",
-    r1Bullet2: "Sepalele protejează ghemul de floare în dezvoltare înainte de deschidere",
-    r1Bullet3: "Staminele (parți mascule) produc boabe mici de polen cu celule mascule",
-    r1Bullet4: "Pistilul (parte feminină) conține ovarul cu ovule care vor deveni semințe",
+    explorer_title: "Flori și Reproducere",
+    t1_title: "Părțile unei Flori", t1_text: "Floarea este organul de reproducere al plantei. Petalele colorate atrag insectele. Staminul este partea masculină, iar pistilul este partea feminină.",
+    t1_b1: "Petala: colorată și parfumată, atrage insectele.", t1_b2: "Stamina: aici se produce polenul.", t1_b3: "Pistilul: conține ovarul cu ovulele la bază.",
+    t1_inst: "Unde este produs polenul?", t1_gap_sentence: "Polenul este produs în {gap} florii.",
+    t1_c1: "stamina", t1_c2: "pistilul", t1_c3: "rădăcina",
+    t1_q: "Care este funcția principală a petalelor?", t1_q_a: "Să atragă insectele", t1_q_b: "Să absoarbă apa", t1_q_c: "Să fixeze planta", t1_q_d: "Să facă fotosinteză",
 
-    // Round 2
-    r2Title: "🐝 Polenizare",
-    r2Text: "Polenul trebuie să ajungă de la stamen la pistil. Plante diferite folosesc purtători diferiți!",
-    r2Bullet1: "Polenizare prin insecte: albine, fluturi și gândaci poartă polen pe corpuri",
-    r2Bullet2: "Polenizare prin vânt: polen ușor plutește prin aer (graminee, copaci)",
-    r2Bullet3: "Polenizare prin apă: unele plante acvatice folosesc apă pentru a răspândi polenul",
-    r2Bullet4: "Când polenul ajunge pe pistil, fertilizarea începe!",
+    t2_title: "Polenizarea", t2_text: "Polenizarea este procesul prin care polenul este transferat de pe stamină pe stigmatul pistilului. Acest lucru este făcut de obicei de insecte sau vânt.",
+    t2_b1: "Polenizare prin insecte: albinele adună nectar și transferă polen.", t2_b2: "Polenizare prin vânt: vântul suflă polenul ușor (ex. ierburi, arbori).", t2_b3: "Polenizarea reușită este necesară pentru a face semințe.",
+    t2_inst: "Pune cuvintele care descriu polenizarea în ordine!",
+    t2_w1: "Insectele", t2_w2: "duc", t2_w3: "polenul", t2_w4: "către", t2_w5: "stigmat.", t2_w6: "",
+    t2_q: "Ce atrage albinele la flori pe lângă culorile lor?", t2_q_a: "Nectarul și parfumul", t2_q_b: "Umbra frunzelor", t2_q_c: "Spinii", t2_q_d: "Rădăcinile",
 
-    // Round 3
-    r3Title: "🌱 Fertilizare și creștere",
-    r3Text: "După polenizare, un tub de polen crește spre ovul. Fertilizarea creează o nouă sămânță!",
-    r3Bullet1: "Boaba de polen formează un tub care crește prin pistil spre ovul",
-    r3Bullet2: "Celulele mascule din polen se unesc cu celulele feminine în ovul (fertilizare)",
-    r3Bullet3: "Ovulul se dezvoltă într-o sămânță cu embrion și hrană depozitată",
-    r3Bullet4: "Ovarul se dilată și devine fruct protector",
+    t3_title: "Fecundarea și Formarea Semințelor", t3_text: "După ce polenul ajunge pe stigmat, îi crește un tub până la ovar. Acolo, celula masculină se unește cu ovulul – aceasta este fecundarea. De aici se dezvoltă sămânța.",
+    t3_b1: "Ovulul devine sămânță.", t3_b2: "Sămânța ascunde embrionul noii plante.", t3_b3: "Ovarul se dezvoltă în fruct.",
+    t3_inst: "Potrivește părțile florii cu ceea ce devin ele!",
+    t3_l1: "Ovul", t3_r1: "Sămânță", t3_l2: "Ovar", t3_r2: "Fruct", t3_l3: "Celula ou + celula masculină", t3_r3: "Embrionul plantei",
+    t3_q: "În ce se transformă ovulul după fecundare?", t3_q_a: "Într-o sămânță", t3_q_b: "Într-o petală", t3_q_c: "Într-o rădăcină", t3_q_d: "Într-o tulpină",
 
-    // Round 4
-    r4Title: "🌍 Dispersia semințelor",
-    r4Text: "Semințele trebuie să se răspândească departe de planta mamă. Natura are moduri uimitoare!",
-    r4Bullet1: "Dispersia prin vânt: semințele ușoare au aripi sau parașute pentru a pluti",
-    r4Bullet2: "Dispersia prin apă: semințele plutesc pe apă (cocos) sau se scufundă în plante acvatice",
-    r4Bullet3: "Dispersia prin animale: semințe lipicioase/cu cârlige se-agață de blană; gustoase mâncate și căzute",
-    r4Bullet4: "Dispersia prin explozie: unele plante se deschid brusc și lansează semințe departe",
+    t4_title: "Lumea Fructelor", t4_text: "Scopul fructului este de a proteja și a răspândi semințele. Există două tipuri principale: fructe cărnoase și fructe uscate.",
+    t4_b1: "Fructe cărnoase: zemoase, mâncate de animale (ex. măr, cireașă).", t4_b2: "Fructe uscate: coajă tare sau ca hârtia (ex. nucă, alună).", t4_b3: "Semințele sunt răspândite de vânt, apă sau animale.",
+    t4_inst: "Fruct cărnos sau uscat? Sortează-le!",
+    t4_bucket_hus: "Fruct cărnos", t4_bucket_sza: "Fruct uscat",
+    t4_item_h1: "Măr", t4_item_h2: "Cireașă", t4_item_s1: "Nucă", t4_item_s2: "Alună",
+    t4_q: "Care este principala funcție biologică a unui fruct?", t4_q_a: "Protejarea și răspândirea semințelor", t4_q_b: "Fixarea plantei", t4_q_c: "Fotosinteza", t4_q_d: "Absorbția apei",
 
-    // Round 5
-    r5Title: "❓ Chestionar de revizuire",
-    r5Text: "Testează-ți cunoștințele despre flori și formarea semințelor!",
-
-    // MCQ questions
-    q_struct_petal: "Ce fac petalele florii?",
-    q_struct_stamen: "Care parte a florii produce polen?",
-    q_struct_ovary: "Care parte devine fruct?",
-    q_poll_insect: "Cum ajunge polenul în florile polenizate de albine?",
-    q_poll_method: "Cum răspândesc florile de iarbă polenul lor?",
-    q_seed_form: "Ce devine ovulul după fertilizare?",
-    q_disp_wind: "Ce tip de semințe sunt adaptate pentru dispersia prin vânt?",
-
-    // MCQ choices
-    attract_pollinators: "Atrag polenizatorii cu culoare și miros",
-    protect_bud: "Protejează ghemul de floare",
-    produce_pollen: "Produc polen",
-    become_fruit: "Devin fruct",
-    stamen: "Stamen",
-    pistil: "Pistil",
-    sepal: "Sepal",
-    on_insect_bodies: "Pe corpurile insectelor",
-    by_wind: "Prin vânt",
-    by_water: "Prin apă",
-    become_seed: "O sămânță",
-    become_flower: "O altă floare",
-    become_petal: "Un petal",
-    disp_wings: "Semințe cu aripi sau parașute",
-    disp_hooks: "Semințe cu cârlige sau spini",
-    disp_float: "Semințe mari plutitoare",
-  },
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre flori și reproducere!",
+    t5_b1: "Stamină = masculin, Pistil = feminin.", t5_b2: "Polenizare -> Fecundare -> Sămânță -> Fruct.", t5_b3: "Fructul protejează și răspândește sămânța.",
+    t5_inst: "Ce se dezvoltă din ovar?", t5_gap_sentence2: "După înflorire și fecundare, ovarul se dezvoltă într-un {gap}.",
+    t5_c51: "fruct", t5_c52: "frunză", t5_c53: "rădăcină",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre polenizare?", t5_q_a: "Polenul este transferat de pe stamină pe stigmat.", t5_q_b: "Petalele cad.", t5_q_c: "Rădăcina absoarbe apa.", t5_q_d: "Sămânța încolțește.",
+  }
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Components for each round
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-function SVG_R1(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="fl_r1_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#1a2a1a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="fl_r1_petal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF8AC5" />
-          <stop offset="30%" stopColor="#FF69B4" />
-          <stop offset="70%" stopColor="#FF1493" />
-          <stop offset="100%" stopColor="#C71076" />
-        </linearGradient>
-        <linearGradient id="fl_r1_petal_vein" x1="0%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FF9ED0" />
-          <stop offset="100%" stopColor="#FF1493" stopOpacity="0" />
-        </linearGradient>
-        <radialGradient id="fl_r1_center" cx="50%" cy="40%" r="50%">
-          <stop offset="0%" stopColor="#FFEE88" />
-          <stop offset="60%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#CC9900" />
-        </radialGradient>
-        <radialGradient id="fl_r1_pollen" cx="40%" cy="30%" r="50%">
-          <stop offset="0%" stopColor="#FFFFAA" />
-          <stop offset="100%" stopColor="#FFD700" />
-        </radialGradient>
-        <linearGradient id="fl_r1_pistil" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" />
-          <stop offset="50%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#1B5E20" />
-        </linearGradient>
-        <linearGradient id="fl_r1_sepal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8BC34A" />
-          <stop offset="50%" stopColor="#558B2F" />
-          <stop offset="100%" stopColor="#33691E" />
-        </linearGradient>
-        <linearGradient id="fl_r1_stem" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <radialGradient id="fl_r1_ovary" cx="50%" cy="40%" r="50%">
-          <stop offset="0%" stopColor="#A5D6A7" />
-          <stop offset="60%" stopColor="#66BB6A" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </radialGradient>
-        <filter id="fl_r1_glow">
-          <feGaussianBlur stdDeviation="2" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-        <filter id="fl_r1_soft">
-          <feGaussianBlur stdDeviation="0.5" />
-        </filter>
-      </defs>
-
-      {/* Background */}
-      <rect width="240" height="160" fill="url(#fl_r1_bg)" />
-
-      {/* Soft glow behind flower */}
-      <ellipse cx="120" cy="72" rx="55" ry="50" fill="#FF69B4" opacity="0.06" filter="url(#fl_r1_soft)" />
-
-      {/* Stem */}
-      <path d="M 120,108 Q 118,125 116,148" stroke="url(#fl_r1_stem)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      {/* Leaf on stem */}
-      <path d="M 117,130 Q 100,122 95,128 Q 102,132 117,130 Z" fill="url(#fl_r1_sepal)" opacity="0.8" />
-      <path d="M 117,130 Q 103,126 95,128" stroke="#33691E" strokeWidth="0.4" fill="none" opacity="0.5" />
-
-      {/* Sepals behind petals */}
-      <path d="M 120,72 Q 80,52 72,68 Q 85,58 100,65 Z" fill="url(#fl_r1_sepal)" opacity="0.85" />
-      <path d="M 120,72 Q 160,52 168,68 Q 155,58 140,65 Z" fill="url(#fl_r1_sepal)" opacity="0.85" />
-      <path d="M 120,72 Q 100,100 108,112 Q 108,98 115,85 Z" fill="url(#fl_r1_sepal)" opacity="0.7" />
-      <path d="M 120,72 Q 140,100 132,112 Q 132,98 125,85 Z" fill="url(#fl_r1_sepal)" opacity="0.7" />
-
-      {/* Petals — 5 overlapping with veins */}
-      {/* Top petal */}
-      <ellipse cx="120" cy="38" rx="20" ry="28" fill="url(#fl_r1_petal)" opacity="0.92" />
-      <path d="M 120,18 Q 118,35 120,58" stroke="url(#fl_r1_petal_vein)" strokeWidth="0.6" fill="none" opacity="0.5" />
-      <path d="M 112,22 Q 115,38 120,50" stroke="url(#fl_r1_petal_vein)" strokeWidth="0.4" fill="none" opacity="0.3" />
-      <path d="M 128,22 Q 125,38 120,50" stroke="url(#fl_r1_petal_vein)" strokeWidth="0.4" fill="none" opacity="0.3" />
-      {/* Top-right petal */}
-      <ellipse cx="146" cy="55" rx="18" ry="26" transform="rotate(35 146 55)" fill="url(#fl_r1_petal)" opacity="0.88" />
-      <path d="M 157,36 Q 150,48 142,65" stroke="url(#fl_r1_petal_vein)" strokeWidth="0.5" fill="none" opacity="0.35" />
-      {/* Top-left petal */}
-      <ellipse cx="94" cy="55" rx="18" ry="26" transform="rotate(-35 94 55)" fill="url(#fl_r1_petal)" opacity="0.88" />
-      <path d="M 83,36 Q 90,48 98,65" stroke="url(#fl_r1_petal_vein)" strokeWidth="0.5" fill="none" opacity="0.35" />
-      {/* Bottom-right petal */}
-      <ellipse cx="140" cy="90" rx="16" ry="24" transform="rotate(20 140 90)" fill="url(#fl_r1_petal)" opacity="0.85" />
-      {/* Bottom-left petal */}
-      <ellipse cx="100" cy="90" rx="16" ry="24" transform="rotate(-20 100 90)" fill="url(#fl_r1_petal)" opacity="0.85" />
-
-      {/* Stamen filaments radiating from center */}
-      <line x1="120" y1="72" x2="108" y2="58" stroke="#CCAA44" strokeWidth="1" opacity="0.7" />
-      <line x1="120" y1="72" x2="132" y2="58" stroke="#CCAA44" strokeWidth="1" opacity="0.7" />
-      <line x1="120" y1="72" x2="120" y2="55" stroke="#CCAA44" strokeWidth="1" opacity="0.7" />
-      <line x1="120" y1="72" x2="110" y2="62" stroke="#CCAA44" strokeWidth="1" opacity="0.6" />
-      <line x1="120" y1="72" x2="130" y2="62" stroke="#CCAA44" strokeWidth="1" opacity="0.6" />
-      {/* Anthers (pollen sacs) at filament tips */}
-      <ellipse cx="108" cy="56" rx="3.5" ry="2.5" fill="url(#fl_r1_pollen)" filter="url(#fl_r1_glow)" />
-      <ellipse cx="132" cy="56" rx="3.5" ry="2.5" fill="url(#fl_r1_pollen)" filter="url(#fl_r1_glow)" />
-      <ellipse cx="120" cy="53" rx="3.5" ry="2.5" fill="url(#fl_r1_pollen)" filter="url(#fl_r1_glow)" />
-      <ellipse cx="110" cy="60" rx="3" ry="2" fill="url(#fl_r1_pollen)" />
-      <ellipse cx="130" cy="60" rx="3" ry="2" fill="url(#fl_r1_pollen)" />
-      {/* Tiny floating pollen grains */}
-      <circle cx="105" cy="50" r="1" fill="#FFEE88" opacity="0.6" />
-      <circle cx="135" cy="52" r="0.8" fill="#FFEE88" opacity="0.5" />
-      <circle cx="118" cy="48" r="0.7" fill="#FFEE88" opacity="0.4" />
-
-      {/* Pistil — stigma, style, ovary */}
-      {/* Style (tube) */}
-      <path d="M 120,72 L 119,95 Q 120,97 121,95 Z" fill="url(#fl_r1_pistil)" />
-      {/* Stigma at top (sticky end) */}
-      <circle cx="120" cy="70" r="3" fill="url(#fl_r1_center)" filter="url(#fl_r1_glow)" />
-      {/* Ovary at base — cross-section showing ovules */}
-      <ellipse cx="120" cy="102" rx="8" ry="6" fill="url(#fl_r1_ovary)" stroke="#1B5E20" strokeWidth="0.5" />
-      {/* Ovules inside ovary */}
-      <circle cx="116" cy="101" r="1.8" fill="#FFCC80" opacity="0.8" />
-      <circle cx="120" cy="103" r="1.8" fill="#FFCC80" opacity="0.8" />
-      <circle cx="124" cy="101" r="1.8" fill="#FFCC80" opacity="0.8" />
-
-      {/* Dashed pointer lines (no text labels) */}
-      <line x1="96" y1="42" x2="42" y2="22" stroke="rgba(255,255,255,0.25)" strokeWidth="0.7" strokeDasharray="2,2" />
-      <circle cx="40" cy="20" r="3" fill="rgba(255,105,180,0.3)" stroke="rgba(255,105,180,0.6)" strokeWidth="0.8" />
-      <line x1="132" y1="56" x2="185" y2="38" stroke="rgba(255,255,255,0.25)" strokeWidth="0.7" strokeDasharray="2,2" />
-      <circle cx="187" cy="37" r="3" fill="rgba(255,215,0,0.3)" stroke="rgba(255,215,0,0.6)" strokeWidth="0.8" />
-      <line x1="120" y1="102" x2="62" y2="130" stroke="rgba(255,255,255,0.25)" strokeWidth="0.7" strokeDasharray="2,2" />
-      <circle cx="60" cy="132" r="3" fill="rgba(144,238,144,0.3)" stroke="rgba(144,238,144,0.6)" strokeWidth="0.8" />
-      <line x1="78" y1="62" x2="42" y2="68" stroke="rgba(255,255,255,0.25)" strokeWidth="0.7" strokeDasharray="2,2" />
-      <circle cx="40" cy="68" r="3" fill="rgba(124,179,66,0.3)" stroke="rgba(124,179,66,0.6)" strokeWidth="0.8" />
-    </svg>
-  );
-}
-
-function SVG_R2(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="fl_r2_bg" cx="50%" cy="50%" r="75%">
-          <stop offset="0%" stopColor="#1a2a1a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="fl_r2_petal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF8AC5" />
-          <stop offset="50%" stopColor="#FF69B4" />
-          <stop offset="100%" stopColor="#C71076" />
-        </linearGradient>
-        <radialGradient id="fl_r2_bee_body" cx="40%" cy="30%" r="60%">
-          <stop offset="0%" stopColor="#FFE082" />
-          <stop offset="50%" stopColor="#FFB300" />
-          <stop offset="100%" stopColor="#E65100" />
-        </radialGradient>
-        <linearGradient id="fl_r2_stem" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <radialGradient id="fl_r2_pollen_glow" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="#FFFF88" stopOpacity="0.8" />
-          <stop offset="100%" stopColor="#FFD700" stopOpacity="0" />
-        </radialGradient>
-        <linearGradient id="fl_r2_wing" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(200,230,255,0.6)" />
-          <stop offset="100%" stopColor="rgba(150,200,255,0.2)" />
-        </linearGradient>
-        <linearGradient id="fl_r2_grass_flower" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#A5D6A7" />
-          <stop offset="100%" stopColor="#558B2F" />
-        </linearGradient>
-        <filter id="fl_r2_glow">
-          <feGaussianBlur stdDeviation="1.5" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#fl_r2_bg)" />
-
-      {/* ── LEFT SIDE: Insect (bee) pollination ── */}
-      {/* Ground */}
-      <ellipse cx="65" cy="148" rx="40" ry="4" fill="#1B5E20" opacity="0.3" />
-
-      {/* Flower stem + leaves */}
-      <path d="M 65,100 Q 63,120 62,148" stroke="url(#fl_r2_stem)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-      <path d="M 63,120 Q 50,115 48,120 Q 54,122 63,120 Z" fill="#4CAF50" opacity="0.7" />
-      <path d="M 64,134 Q 76,130 78,134 Q 72,136 64,134 Z" fill="#4CAF50" opacity="0.6" />
-
-      {/* Flower head — 5 petals */}
-      <ellipse cx="65" cy="68" rx="14" ry="22" fill="url(#fl_r2_petal)" opacity="0.85" />
-      <ellipse cx="45" cy="82" rx="13" ry="20" transform="rotate(-30 45 82)" fill="url(#fl_r2_petal)" opacity="0.80" />
-      <ellipse cx="85" cy="82" rx="13" ry="20" transform="rotate(30 85 82)" fill="url(#fl_r2_petal)" opacity="0.80" />
-      <ellipse cx="50" cy="98" rx="12" ry="18" transform="rotate(-15 50 98)" fill="url(#fl_r2_petal)" opacity="0.75" />
-      <ellipse cx="80" cy="98" rx="12" ry="18" transform="rotate(15 80 98)" fill="url(#fl_r2_petal)" opacity="0.75" />
-      {/* Flower center */}
-      <circle cx="65" cy="88" r="8" fill="#FFB300" />
-      <circle cx="65" cy="88" r="5" fill="#FF8F00" />
-      {/* Petal veins */}
-      <path d="M 65,68 Q 64,78 65,88" stroke="#FF9ED0" strokeWidth="0.4" fill="none" opacity="0.4" />
-      <path d="M 50,78 Q 58,83 65,88" stroke="#FF9ED0" strokeWidth="0.4" fill="none" opacity="0.3" />
-
-      {/* Bee — detailed with stripes, wings, legs */}
-      <g transform="translate(52,58) rotate(-20)">
-        {/* Wings */}
-        <ellipse cx="4" cy="-7" rx="7" ry="4" fill="url(#fl_r2_wing)" stroke="rgba(180,210,255,0.4)" strokeWidth="0.3" />
-        <ellipse cx="-2" cy="-6" rx="6" ry="3.5" fill="url(#fl_r2_wing)" stroke="rgba(180,210,255,0.4)" strokeWidth="0.3" />
-        {/* Body */}
-        <ellipse cx="0" cy="0" rx="5" ry="8" fill="url(#fl_r2_bee_body)" />
-        {/* Stripes */}
-        <path d="M -4,-2 Q 0,-3 4,-2" stroke="#1a0a00" strokeWidth="1.2" fill="none" />
-        <path d="M -4.5,1 Q 0,0 4.5,1" stroke="#1a0a00" strokeWidth="1.2" fill="none" />
-        <path d="M -4,4 Q 0,3 4,4" stroke="#1a0a00" strokeWidth="1.2" fill="none" />
-        {/* Head */}
-        <circle cx="0" cy="-9" r="3.5" fill="#332200" />
-        <circle cx="-1.2" cy="-10" r="0.8" fill="#FFEE88" />
-        <circle cx="1.2" cy="-10" r="0.8" fill="#FFEE88" />
-        {/* Antennae */}
-        <path d="M -1,-12 Q -3,-15 -5,-16" stroke="#332200" strokeWidth="0.5" fill="none" />
-        <path d="M 1,-12 Q 3,-15 5,-16" stroke="#332200" strokeWidth="0.5" fill="none" />
-        {/* Legs */}
-        <line x1="-4" y1="2" x2="-8" y2="5" stroke="#332200" strokeWidth="0.5" />
-        <line x1="4" y1="2" x2="8" y2="5" stroke="#332200" strokeWidth="0.5" />
-        {/* Pollen on legs */}
-        <circle cx="-8" cy="5" r="1.5" fill="#FFD700" opacity="0.7" />
-        <circle cx="8" cy="5" r="1.5" fill="#FFD700" opacity="0.7" />
-      </g>
-
-      {/* Pollen transfer glow */}
-      <circle cx="56" cy="72" r="5" fill="url(#fl_r2_pollen_glow)" />
-      <circle cx="48" cy="65" r="1" fill="#FFEE88" opacity="0.6" />
-      <circle cx="62" cy="62" r="0.8" fill="#FFEE88" opacity="0.5" />
-
-      {/* ── RIGHT SIDE: Wind pollination ── */}
-      {/* Grass stem cluster */}
-      <path d="M 175,148 Q 174,120 175,85" stroke="url(#fl_r2_grass_flower)" strokeWidth="2" fill="none" />
-      <path d="M 185,148 Q 186,125 185,90" stroke="url(#fl_r2_grass_flower)" strokeWidth="1.5" fill="none" opacity="0.8" />
-      <path d="M 195,148 Q 194,130 195,95" stroke="url(#fl_r2_grass_flower)" strokeWidth="1.5" fill="none" opacity="0.7" />
-      {/* Grass flower heads (catkin-like) */}
-      <ellipse cx="175" cy="80" rx="3" ry="6" fill="#C8E6C9" stroke="#81C784" strokeWidth="0.5" />
-      <ellipse cx="185" cy="85" rx="2.5" ry="5" fill="#C8E6C9" stroke="#81C784" strokeWidth="0.5" />
-      <ellipse cx="195" cy="90" rx="2.5" ry="5" fill="#C8E6C9" stroke="#81C784" strokeWidth="0.5" />
-      {/* Dangling anthers */}
-      <line x1="173" y1="78" x2="168" y2="74" stroke="#A5D6A7" strokeWidth="0.5" />
-      <circle cx="168" cy="73" r="1.5" fill="#FFD700" opacity="0.6" />
-      <line x1="177" y1="78" x2="182" y2="74" stroke="#A5D6A7" strokeWidth="0.5" />
-      <circle cx="182" cy="73" r="1.5" fill="#FFD700" opacity="0.6" />
-
-      {/* Wind streaks */}
-      <path d="M 140,55 Q 155,52 170,56" stroke="rgba(140,200,255,0.35)" strokeWidth="1.5" fill="none" />
-      <path d="M 138,68 Q 155,64 175,70" stroke="rgba(140,200,255,0.3)" strokeWidth="1.2" fill="none" />
-      <path d="M 142,80 Q 160,76 180,82" stroke="rgba(140,200,255,0.25)" strokeWidth="1" fill="none" />
-      <path d="M 136,42 Q 152,38 168,44" stroke="rgba(140,200,255,0.2)" strokeWidth="1" fill="none" />
-
-      {/* Pollen grains drifting in wind */}
-      <circle cx="150" cy="58" r="1.2" fill="#FFEE88" opacity="0.6" />
-      <circle cx="158" cy="50" r="1" fill="#FFEE88" opacity="0.5" />
-      <circle cx="163" cy="65" r="0.9" fill="#FFEE88" opacity="0.4" />
-      <circle cx="148" cy="72" r="1.1" fill="#FFEE88" opacity="0.5" />
-      <circle cx="155" cy="78" r="0.8" fill="#FFEE88" opacity="0.35" />
-      <circle cx="143" cy="62" r="0.7" fill="#FFEE88" opacity="0.3" />
-
-      {/* Receiving flower on right side */}
-      <path d="M 210,148 Q 208,125 210,95" stroke="url(#fl_r2_grass_flower)" strokeWidth="1.5" fill="none" />
-      <ellipse cx="210" cy="90" rx="3" ry="6" fill="#C8E6C9" stroke="#81C784" strokeWidth="0.5" />
-      {/* Feathery stigma catching pollen */}
-      <path d="M 207,85 Q 204,80 202,78" stroke="#A5D6A7" strokeWidth="0.5" />
-      <path d="M 210,84 Q 210,79 210,76" stroke="#A5D6A7" strokeWidth="0.5" />
-      <path d="M 213,85 Q 216,80 218,78" stroke="#A5D6A7" strokeWidth="0.5" />
-
-      {/* Divider line */}
-      <line x1="120" y1="20" x2="120" y2="140" stroke="rgba(255,255,255,0.08)" strokeWidth="0.5" strokeDasharray="3,3" />
-
-      {/* Ground line right */}
-      <ellipse cx="190" cy="148" rx="40" ry="4" fill="#1B5E20" opacity="0.3" />
-    </svg>
-  );
-}
-
-function SVG_R3(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="fl_r3_bg" cx="50%" cy="50%" r="75%">
-          <stop offset="0%" stopColor="#1a1a2a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <radialGradient id="fl_r3_pollen" cx="40%" cy="30%" r="50%">
-          <stop offset="0%" stopColor="#FFFFAA" />
-          <stop offset="100%" stopColor="#FFB300" />
-        </radialGradient>
-        <linearGradient id="fl_r3_tube" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFD54F" />
-          <stop offset="50%" stopColor="#FFA726" />
-          <stop offset="100%" stopColor="#EF6C00" />
-        </linearGradient>
-        <radialGradient id="fl_r3_ovule" cx="50%" cy="40%" r="50%">
-          <stop offset="0%" stopColor="#C8E6C9" />
-          <stop offset="60%" stopColor="#66BB6A" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </radialGradient>
-        <linearGradient id="fl_r3_seed" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#A1887F" />
-          <stop offset="40%" stopColor="#795548" />
-          <stop offset="100%" stopColor="#4E342E" />
-        </linearGradient>
-        <linearGradient id="fl_r3_fruit" x1="20%" y1="0%" x2="80%" y2="100%">
-          <stop offset="0%" stopColor="#FF8A65" />
-          <stop offset="30%" stopColor="#FF5722" />
-          <stop offset="70%" stopColor="#E53935" />
-          <stop offset="100%" stopColor="#B71C1C" />
-        </linearGradient>
-        <radialGradient id="fl_r3_fruit_shine" cx="35%" cy="25%" r="40%">
-          <stop offset="0%" stopColor="rgba(255,255,255,0.35)" />
-          <stop offset="100%" stopColor="rgba(255,255,255,0)" />
-        </radialGradient>
-        <linearGradient id="fl_r3_pistil_wall" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" />
-          <stop offset="100%" stopColor="#388E3C" />
-        </linearGradient>
-        <filter id="fl_r3_glow">
-          <feGaussianBlur stdDeviation="1.5" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-        <marker id="fl_r3_arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-          <path d="M0,0 L0,6 L8,3 z" fill="rgba(255,255,255,0.35)" />
-        </marker>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#fl_r3_bg)" />
-
-      {/* ── STAGE 1: Pollen grain lands on stigma, tube grows ── */}
-      {/* Pistil cross-section */}
-      <path d="M 28,20 Q 22,22 20,28 L 20,85 Q 22,95 28,98 L 38,98 Q 44,95 46,85 L 46,28 Q 44,22 38,20 Z" fill="url(#fl_r3_pistil_wall)" opacity="0.4" stroke="#388E3C" strokeWidth="0.5" />
-      {/* Stigma at top */}
-      <ellipse cx="33" cy="22" rx="10" ry="4" fill="#66BB6A" stroke="#2E7D32" strokeWidth="0.5" />
-      {/* Pollen grain on stigma */}
-      <circle cx="33" cy="18" r="3.5" fill="url(#fl_r3_pollen)" filter="url(#fl_r3_glow)" />
-      <circle cx="32" cy="17" r="1" fill="#FFEE88" opacity="0.6" />
-      {/* Pollen tube growing down */}
-      <path d="M 33,22 Q 31,40 32,55 Q 33,70 33,82" stroke="url(#fl_r3_tube)" strokeWidth="1.8" fill="none" strokeLinecap="round" strokeDasharray="2,1.5" />
-      {/* Ovule at bottom of pistil */}
-      <ellipse cx="33" cy="88" rx="7" ry="6" fill="url(#fl_r3_ovule)" stroke="#2E7D32" strokeWidth="0.5" />
-      <circle cx="33" cy="87" r="2.5" fill="#FFCC80" opacity="0.7" />
-
-      {/* Arrow 1 → 2 */}
-      <path d="M 52,55 L 68,55" stroke="rgba(255,255,255,0.3)" strokeWidth="1.2" fill="none" markerEnd="url(#fl_r3_arrow)" />
-
-      {/* ── STAGE 2: Fertilization — cells unite ── */}
-      <ellipse cx="95" cy="55" rx="20" ry="22" fill="rgba(102,187,106,0.15)" stroke="rgba(102,187,106,0.3)" strokeWidth="0.5" />
-      {/* Ovule */}
-      <ellipse cx="95" cy="58" rx="9" ry="8" fill="url(#fl_r3_ovule)" stroke="#2E7D32" strokeWidth="0.5" />
-      {/* Male cell arriving */}
-      <circle cx="88" cy="45" r="3" fill="url(#fl_r3_pollen)" opacity="0.9" />
-      <path d="M 88,48 Q 90,52 92,55" stroke="#FFB300" strokeWidth="1" fill="none" opacity="0.7" />
-      {/* Female cell */}
-      <circle cx="95" cy="58" r="3.5" fill="#A5D6A7" stroke="#2E7D32" strokeWidth="0.4" />
-      {/* Merge spark */}
-      <circle cx="92" cy="54" r="2" fill="#FFEE88" opacity="0.5" filter="url(#fl_r3_glow)" />
-
-      {/* Arrow 2 → 3 */}
-      <path d="M 118,55 L 138,55" stroke="rgba(255,255,255,0.3)" strokeWidth="1.2" fill="none" markerEnd="url(#fl_r3_arrow)" />
-
-      {/* ── STAGE 3: Seed forms — embryo + food store ── */}
-      <ellipse cx="162" cy="55" rx="12" ry="16" fill="url(#fl_r3_seed)" stroke="#4E342E" strokeWidth="0.8" />
-      {/* Seed coat highlight */}
-      <ellipse cx="158" cy="50" rx="5" ry="8" fill="rgba(255,255,255,0.1)" />
-      {/* Embryo inside */}
-      <path d="M 160,48 Q 156,52 158,58 Q 162,62 166,58 Q 168,54 164,48 Z" fill="#A5D6A7" opacity="0.7" />
-      {/* Food store */}
-      <circle cx="160" cy="55" r="3" fill="#FFCC80" opacity="0.5" />
-
-      {/* Arrow 3 → 4 */}
-      <path d="M 178,55" stroke="rgba(255,255,255,0.3)" strokeWidth="1.2" fill="none" />
-      <path d="M 178,55 L 194,55" stroke="rgba(255,255,255,0.3)" strokeWidth="1.2" fill="none" markerEnd="url(#fl_r3_arrow)" />
-
-      {/* ── STAGE 4: Fruit develops — ovary wall swells ── */}
-      {/* Fruit (apple-like) */}
-      <ellipse cx="218" cy="52" rx="16" ry="18" fill="url(#fl_r3_fruit)" />
-      <ellipse cx="218" cy="52" rx="16" ry="18" fill="url(#fl_r3_fruit_shine)" />
-      {/* Stem dimple */}
-      <path d="M 216,34 Q 218,32 220,34" stroke="#795548" strokeWidth="1" fill="none" />
-      <line x1="218" y1="32" x2="218" y2="28" stroke="#795548" strokeWidth="1" />
-      {/* Tiny leaf */}
-      <path d="M 218,28 Q 224,24 226,28 Q 222,28 218,28 Z" fill="#66BB6A" opacity="0.8" />
-      {/* Seeds visible inside (cross-section hint) */}
-      <ellipse cx="213" cy="54" rx="2.5" ry="3.5" fill="url(#fl_r3_seed)" opacity="0.6" />
-      <ellipse cx="223" cy="54" rx="2.5" ry="3.5" fill="url(#fl_r3_seed)" opacity="0.6" />
-      <ellipse cx="218" cy="58" rx="2.5" ry="3.5" fill="url(#fl_r3_seed)" opacity="0.5" />
-
-      {/* Bottom: progression dots */}
-      {[33, 95, 162, 218].map((cx, i) => (
-        <circle key={i} cx={cx} cy="115" r="3" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.25)" strokeWidth="0.5" />
-      ))}
-      <path d="M 36,115 L 92,115" stroke="rgba(255,255,255,0.1)" strokeWidth="0.5" />
-      <path d="M 98,115 L 159,115" stroke="rgba(255,255,255,0.1)" strokeWidth="0.5" />
-      <path d="M 165,115 L 215,115" stroke="rgba(255,255,255,0.1)" strokeWidth="0.5" />
-    </svg>
-  );
-}
-
-function SVG_R4(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="fl_r4_bg" cx="50%" cy="50%" r="75%">
-          <stop offset="0%" stopColor="#141428" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="fl_r4_seed" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#A1887F" />
-          <stop offset="50%" stopColor="#795548" />
-          <stop offset="100%" stopColor="#4E342E" />
-        </linearGradient>
-        <radialGradient id="fl_r4_dandelion" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="rgba(255,255,255,0.8)" />
-          <stop offset="60%" stopColor="rgba(220,220,220,0.5)" />
-          <stop offset="100%" stopColor="rgba(200,200,200,0)" />
-        </radialGradient>
-        <linearGradient id="fl_r4_water" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4FC3F7" />
-          <stop offset="100%" stopColor="#0277BD" />
-        </linearGradient>
-        <linearGradient id="fl_r4_coconut" x1="20%" y1="0%" x2="80%" y2="100%">
-          <stop offset="0%" stopColor="#A1887F" />
-          <stop offset="40%" stopColor="#6D4C41" />
-          <stop offset="100%" stopColor="#3E2723" />
-        </linearGradient>
-        <radialGradient id="fl_r4_coconut_shine" cx="30%" cy="25%" r="40%">
-          <stop offset="0%" stopColor="rgba(255,255,255,0.2)" />
-          <stop offset="100%" stopColor="rgba(255,255,255,0)" />
-        </radialGradient>
-        <linearGradient id="fl_r4_fur" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#D7CCC8" />
-          <stop offset="50%" stopColor="#A1887F" />
-          <stop offset="100%" stopColor="#6D4C41" />
-        </linearGradient>
-        <linearGradient id="fl_r4_pod" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#8BC34A" />
-          <stop offset="50%" stopColor="#558B2F" />
-          <stop offset="100%" stopColor="#33691E" />
-        </linearGradient>
-        <filter id="fl_r4_glow">
-          <feGaussianBlur stdDeviation="1" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#fl_r4_bg)" />
-
-      {/* ── PANEL 1 (top-left): Wind — dandelion ── */}
-      {/* Dandelion stem */}
-      <path d="M 50,95 Q 48,75 50,55" stroke="#558B2F" strokeWidth="1.5" fill="none" strokeLinecap="round" />
-      {/* Dandelion seed head — wispy pappus */}
-      <circle cx="50" cy="48" r="18" fill="url(#fl_r4_dandelion)" opacity="0.15" />
-      {/* Individual parachute seeds radiating out */}
-      {[0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const r = 14 + (i % 3) * 2;
-        const ex = 50 + r * Math.cos(rad);
-        const ey = 48 + r * Math.sin(rad);
-        return (
-          <g key={`d${i}`}>
-            <line x1="50" y1="48" x2={ex} y2={ey} stroke="rgba(220,220,220,0.3)" strokeWidth="0.3" />
-            <circle cx={ex} cy={ey} r="0.8" fill="rgba(255,255,255,0.6)" />
-          </g>
-        );
-      })}
-      {/* Detached seeds floating away */}
-      <g opacity="0.6">
-        <line x1="28" y1="32" x2="22" y2="22" stroke="rgba(220,220,220,0.4)" strokeWidth="0.3" />
-        <circle cx="22" cy="22" r="0.7" fill="white" opacity="0.7" />
-        <circle cx="28" cy="33" r="1" fill="url(#fl_r4_seed)" />
-        <line x1="18" y1="42" x2="12" y2="34" stroke="rgba(220,220,220,0.35)" strokeWidth="0.3" />
-        <circle cx="12" cy="34" r="0.6" fill="white" opacity="0.6" />
-        <circle cx="18" cy="43" r="0.8" fill="url(#fl_r4_seed)" />
-      </g>
-      {/* Wind streaks */}
-      <path d="M 8,28 Q 18,25 28,28" stroke="rgba(140,200,255,0.2)" strokeWidth="0.8" fill="none" />
-      <path d="M 5,38 Q 15,35 25,38" stroke="rgba(140,200,255,0.15)" strokeWidth="0.7" fill="none" />
-
-      {/* ── PANEL 2 (top-right): Water — coconut ── */}
-      {/* Water surface */}
-      <path d="M 130,70 Q 140,66 150,70 Q 160,74 170,70 Q 180,66 190,70 Q 200,74 210,70 Q 220,66 230,70" stroke="url(#fl_r4_water)" strokeWidth="1" fill="none" opacity="0.5" />
-      <path d="M 128,76 Q 138,72 148,76 Q 158,80 168,76 Q 178,72 188,76 Q 198,80 208,76 Q 218,72 228,76" stroke="url(#fl_r4_water)" strokeWidth="0.8" fill="none" opacity="0.3" />
-      {/* Underwater wash */}
-      <ellipse cx="175" cy="78" rx="45" ry="12" fill="rgba(33,150,243,0.08)" />
-      {/* Coconut floating */}
-      <ellipse cx="175" cy="60" rx="14" ry="12" fill="url(#fl_r4_coconut)" />
-      <ellipse cx="175" cy="60" rx="14" ry="12" fill="url(#fl_r4_coconut_shine)" />
-      {/* Three eyes on coconut */}
-      <circle cx="171" cy="56" r="1.5" fill="#3E2723" opacity="0.6" />
-      <circle cx="179" cy="56" r="1.5" fill="#3E2723" opacity="0.6" />
-      <circle cx="175" cy="62" r="1.3" fill="#3E2723" opacity="0.5" />
-      {/* Husk fibers */}
-      <path d="M 168,50 Q 170,46 175,44" stroke="#8D6E63" strokeWidth="0.5" fill="none" opacity="0.5" />
-      <path d="M 182,50 Q 180,46 175,44" stroke="#8D6E63" strokeWidth="0.5" fill="none" opacity="0.5" />
-      {/* Ripples around coconut */}
-      <ellipse cx="175" cy="68" rx="18" ry="3" fill="none" stroke="rgba(79,195,247,0.3)" strokeWidth="0.5" />
-      <ellipse cx="175" cy="70" rx="24" ry="4" fill="none" stroke="rgba(79,195,247,0.2)" strokeWidth="0.4" />
-
-      {/* ── PANEL 3 (bottom-left): Animal — burr on fur ── */}
-      {/* Animal fur patch */}
-      <ellipse cx="50" cy="130" rx="30" ry="18" fill="url(#fl_r4_fur)" opacity="0.25" />
-      {/* Fur texture lines */}
-      {[30, 35, 40, 45, 50, 55, 60, 65, 70].map((x, i) => (
-        <path key={`f${i}`} d={`M ${x},${118 + (i % 2) * 2} Q ${x + 1},${128} ${x - 1},${140}`} stroke="rgba(161,136,127,0.3)" strokeWidth="0.5" fill="none" />
-      ))}
-      {/* Burr seed — spiky ball */}
-      <circle cx="50" cy="126" r="6" fill="url(#fl_r4_seed)" />
-      {/* Hooks/spines radiating out */}
-      {[0, 40, 80, 120, 160, 200, 240, 280, 320].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const sx = 50 + 6 * Math.cos(rad);
-        const sy = 126 + 6 * Math.sin(rad);
-        const ex = 50 + 11 * Math.cos(rad);
-        const ey = 126 + 11 * Math.sin(rad);
-        return <line key={`s${i}`} x1={sx} y1={sy} x2={ex} y2={ey} stroke="#5D4037" strokeWidth="0.8" strokeLinecap="round" />;
-      })}
-      {/* Hook tips */}
-      {[0, 80, 160, 240, 320].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const ex = 50 + 11.5 * Math.cos(rad);
-        const ey = 126 + 11.5 * Math.sin(rad);
-        return <circle key={`h${i}`} cx={ex} cy={ey} r="0.6" fill="#4E342E" />;
-      })}
-
-      {/* ── PANEL 4 (bottom-right): Explosion — pod bursting ── */}
-      {/* Pod halves splitting */}
-      <path d="M 175,135 Q 165,128 170,118 Q 172,112 168,108" fill="none" stroke="url(#fl_r4_pod)" strokeWidth="2.5" strokeLinecap="round" />
-      <path d="M 185,135 Q 195,128 190,118 Q 188,112 192,108" fill="none" stroke="url(#fl_r4_pod)" strokeWidth="2.5" strokeLinecap="round" />
-      {/* Pod interior */}
-      <ellipse cx="180" cy="130" rx="6" ry="3" fill="#8BC34A" opacity="0.3" />
-      {/* Seeds flying outward with motion trails */}
-      <circle cx="155" cy="105" r="2" fill="url(#fl_r4_seed)" />
-      <path d="M 168,112 L 157,106" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
-      <circle cx="205" cy="105" r="2" fill="url(#fl_r4_seed)" />
-      <path d="M 192,112 L 203,106" stroke="rgba(255,255,255,0.15)" strokeWidth="0.5" />
-      <circle cx="160" cy="118" r="1.8" fill="url(#fl_r4_seed)" />
-      <path d="M 170,120 L 162,118" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
-      <circle cx="200" cy="118" r="1.8" fill="url(#fl_r4_seed)" />
-      <path d="M 190,120 L 198,118" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
-      <circle cx="180" cy="100" r="1.5" fill="url(#fl_r4_seed)" />
-      <path d="M 180,110 L 180,102" stroke="rgba(255,255,255,0.12)" strokeWidth="0.4" />
-      {/* Burst energy */}
-      <circle cx="180" cy="122" r="4" fill="rgba(139,195,74,0.15)" filter="url(#fl_r4_glow)" />
-
-      {/* Panel divider lines */}
-      <line x1="120" y1="5" x2="120" y2="95" stroke="rgba(255,255,255,0.05)" strokeWidth="0.5" />
-      <line x1="5" y1="95" x2="235" y2="95" stroke="rgba(255,255,255,0.05)" strokeWidth="0.5" />
-    </svg>
-  );
-}
-
-function SVG_R5(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="fl_r5_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#1a2a1a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="fl_r5_petal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF8AC5" />
-          <stop offset="30%" stopColor="#FF69B4" />
-          <stop offset="70%" stopColor="#FF1493" />
-          <stop offset="100%" stopColor="#C71076" />
-        </linearGradient>
-        <radialGradient id="fl_r5_center" cx="50%" cy="40%" r="50%">
-          <stop offset="0%" stopColor="#FFEE88" />
-          <stop offset="60%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#CC9900" />
-        </radialGradient>
-        <linearGradient id="fl_r5_pistil" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" />
-          <stop offset="50%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#1B5E20" />
-        </linearGradient>
-        <linearGradient id="fl_r5_sepal" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8BC34A" />
-          <stop offset="100%" stopColor="#33691E" />
-        </linearGradient>
-        <linearGradient id="fl_r5_stem" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <filter id="fl_r5_qglow">
-          <feGaussianBlur stdDeviation="2" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#fl_r5_bg)" />
-      <ellipse cx="120" cy="70" rx="55" ry="50" fill="#FF69B4" opacity="0.04" />
-
-      {/* Stem */}
-      <path d="M 120,108 Q 118,125 116,150" stroke="url(#fl_r5_stem)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-      <path d="M 117,130 Q 100,122 95,128 Q 102,132 117,130 Z" fill="url(#fl_r5_sepal)" opacity="0.7" />
-
-      {/* Sepals */}
-      <path d="M 120,72 Q 82,54 74,68 Q 86,58 102,66 Z" fill="url(#fl_r5_sepal)" opacity="0.75" />
-      <path d="M 120,72 Q 158,54 166,68 Q 154,58 138,66 Z" fill="url(#fl_r5_sepal)" opacity="0.75" />
-
-      {/* 5 Petals */}
-      <ellipse cx="120" cy="38" rx="19" ry="27" fill="url(#fl_r5_petal)" opacity="0.88" />
-      <ellipse cx="145" cy="55" rx="17" ry="25" transform="rotate(35 145 55)" fill="url(#fl_r5_petal)" opacity="0.84" />
-      <ellipse cx="95" cy="55" rx="17" ry="25" transform="rotate(-35 95 55)" fill="url(#fl_r5_petal)" opacity="0.84" />
-      <ellipse cx="138" cy="88" rx="15" ry="22" transform="rotate(20 138 88)" fill="url(#fl_r5_petal)" opacity="0.80" />
-      <ellipse cx="102" cy="88" rx="15" ry="22" transform="rotate(-20 102 88)" fill="url(#fl_r5_petal)" opacity="0.80" />
-
-      {/* Center stamens */}
-      <circle cx="120" cy="70" r="8" fill="url(#fl_r5_center)" />
-      <line x1="120" y1="70" x2="112" y2="58" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
-      <line x1="120" y1="70" x2="128" y2="58" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
-      <line x1="120" y1="70" x2="120" y2="56" stroke="#CCAA44" strokeWidth="0.8" opacity="0.6" />
-      <circle cx="112" cy="57" r="2.5" fill="#FFD700" />
-      <circle cx="128" cy="57" r="2.5" fill="#FFD700" />
-      <circle cx="120" cy="55" r="2.5" fill="#FFD700" />
-
-      {/* Pistil */}
-      <path d="M 120,72 L 119,95 Q 120,97 121,95 Z" fill="url(#fl_r5_pistil)" />
-      <ellipse cx="120" cy="100" rx="7" ry="5" fill="#66BB6A" stroke="#2E7D32" strokeWidth="0.4" />
-
-      {/* Question mark indicators — glowing circles with ? shapes */}
-      <circle cx="42" cy="28" r="8" fill="rgba(255,105,180,0.15)" stroke="rgba(255,105,180,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
-      <path d="M 39,25 Q 39,22 42,22 Q 45,22 45,25 Q 45,27 42,28 L 42,30" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
-      <circle cx="42" cy="32" r="0.6" fill="rgba(255,255,255,0.6)" />
-      <line x1="50" y1="28" x2="82" y2="42" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
-
-      <circle cx="195" cy="42" r="8" fill="rgba(255,215,0,0.15)" stroke="rgba(255,215,0,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
-      <path d="M 192,39 Q 192,36 195,36 Q 198,36 198,39 Q 198,41 195,42 L 195,44" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
-      <circle cx="195" cy="46" r="0.6" fill="rgba(255,255,255,0.6)" />
-      <line x1="187" y1="42" x2="140" y2="56" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
-
-      <circle cx="60" cy="118" r="8" fill="rgba(102,187,106,0.15)" stroke="rgba(102,187,106,0.4)" strokeWidth="0.8" filter="url(#fl_r5_qglow)" />
-      <path d="M 57,115 Q 57,112 60,112 Q 63,112 63,115 Q 63,117 60,118 L 60,120" stroke="rgba(255,255,255,0.6)" strokeWidth="1" fill="none" strokeLinecap="round" />
-      <circle cx="60" cy="122" r="0.6" fill="rgba(255,255,255,0.6)" />
-      <line x1="68" y1="118" x2="110" y2="100" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" strokeDasharray="2,2" />
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Questions for Round 5
-// ─────────────────────────────────────────────────────────────────────────────
-
-const QUESTIONS: MCQQuestion[] = [
+const TOPICS: TopicDef[] = [
   {
-    question: "q_struct_petal",
-    choices: ["attract_pollinators", "protect_bud", "produce_pollen"],
-    answer: "attract_pollinators",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <FlowerPartsSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b2",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
   {
-    question: "q_struct_stamen",
-    choices: ["stamen", "pistil", "sepal"],
-    answer: "stamen",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <PollinationSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5", "t2_w6"],
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
   },
   {
-    question: "q_struct_ovary",
-    choices: ["become_fruit", "attract_pollinators", "protect_bud"],
-    answer: "become_fruit",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
   },
   {
-    question: "q_poll_insect",
-    choices: ["on_insect_bodies", "by_wind", "by_water"],
-    answer: "on_insect_bodies",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "hus", label: "t4_bucket_hus" },
+        { id: "sza", label: "t4_bucket_sza" },
+      ],
+      items: [
+        { text: "t4_item_h1", bucketId: "hus" },
+        { text: "t4_item_s1", bucketId: "sza" },
+        { text: "t4_item_h2", bucketId: "hus" },
+        { text: "t4_item_s2", bucketId: "sza" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
   },
   {
-    question: "q_poll_method",
-    choices: ["by_wind", "by_water", "on_insect_bodies"],
-    answer: "by_wind",
-  },
-  {
-    question: "q_seed_form",
-    choices: ["become_seed", "become_flower", "become_petal"],
-    answer: "become_seed",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
   },
 ];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Explorer Definition
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1Title",
-      infoText: "r1Text",
-      bulletKeys: ["r1Bullet1", "r1Bullet2", "r1Bullet3", "r1Bullet4"],
-      svg: (lang) => SVG_R1(lang),
-      questions: [
-        {
-          question: "q_struct_petal",
-          choices: ["attract_pollinators", "protect_bud", "produce_pollen"],
-          answer: "attract_pollinators",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2Title",
-      infoText: "r2Text",
-      bulletKeys: ["r2Bullet1", "r2Bullet2", "r2Bullet3", "r2Bullet4"],
-      svg: (lang) => SVG_R2(lang),
-      questions: [
-        {
-          question: "q_poll_method",
-          choices: ["by_wind", "by_water", "on_insect_bodies"],
-          answer: "by_wind",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3Title",
-      infoText: "r3Text",
-      bulletKeys: ["r3Bullet1", "r3Bullet2", "r3Bullet3", "r3Bullet4"],
-      svg: (lang) => SVG_R3(lang),
-      questions: [
-        {
-          question: "q_seed_form",
-          choices: ["become_seed", "become_flower", "become_petal"],
-          answer: "become_seed",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4Title",
-      infoText: "r4Text",
-      bulletKeys: ["r4Bullet1", "r4Bullet2", "r4Bullet3", "r4Bullet4"],
-      svg: (lang) => SVG_R4(lang),
-      questions: [
-        {
-          question: "q_disp_wind",
-          choices: ["disp_wings", "disp_hooks", "disp_float"],
-          answer: "disp_wings",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5Title",
-      infoText: "r5Text",
-      svg: (lang) => SVG_R5(lang),
-      questions: [
-        {
-          question: "q_struct_stamen",
-          choices: ["stamen", "pistil", "sepal"],
-          answer: "stamen",
-        },
-        {
-          question: "q_poll_insect",
-          choices: ["on_insect_bodies", "by_wind", "by_water"],
-          answer: "on_insect_bodies",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🌸",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const FlowerExplorer = memo(function FlowerExplorer({
+  color = "#DB2777", // Rózsaszín árnyalat a virágokhoz
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="bio_k5_flowers" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function FlowerExplorer({ color = "#FF69B4", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default FlowerExplorer;
