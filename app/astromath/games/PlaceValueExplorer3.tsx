@@ -395,7 +395,7 @@ const TOPICS: TopicDef[] = [
       max: 400,
       start: 0,
       target: 275,
-      step: 10,
+      step: 25,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
