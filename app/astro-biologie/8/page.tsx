@@ -29,8 +29,9 @@ import DNAExplorer from "@/app/astro-biologie/games/DNAExplorer";
 import MutationExplorer from "@/app/astro-biologie/games/MutationExplorer";
 import HormoneExplorer from "@/app/astro-biologie/games/HormoneExplorer";
 import ReproductionExplorer from "@/app/astro-biologie/games/ReproductionExplorer";
+import SexDeterminationExplorer from "@/app/astro-biologie/games/SexDeterminationExplorer";
 import BiotechExplorer from "@/app/astro-biologie/games/BiotechExplorer";
-import SystemsExplorer from "@/app/astro-biologie/games/SystemsExplorer";
+import BioSystemsExplorer from "@/app/astro-biologie/games/BioSystemsExplorer";
 import PopGenExplorer from "@/app/astro-biologie/games/PopGenExplorer";
 import PhylogenyExplorer from "@/app/astro-biologie/games/PhylogenyExplorer";
 import { addSpecialCards } from "@/lib/specialCards";
@@ -109,8 +110,9 @@ type Screen =
   | "mutation-explorer"
   | "hormone-explorer"
   | "reproduction-explorer"
+  | "sexdetermination-explorer"
   | "biotech-explorer"
-  | "systems-explorer"
+  | "biosystems-explorer"
   | "popgen-explorer"
   | "phylogeny-explorer"
   | "island-transition"
@@ -509,7 +511,7 @@ export default function AstroBiologieK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const explorerScreens = ["dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "biotech-explorer", "systems-explorer", "popgen-explorer", "phylogeny-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"];
+    const explorerScreens = ["dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "sexdetermination-explorer", "biotech-explorer", "biosystems-explorer", "popgen-explorer", "phylogeny-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"];
     if (explorerScreens.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -843,11 +845,14 @@ export default function AstroBiologieK8Page() {
         {screen === "reproduction-explorer" && (
           <ReproductionExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
+        {screen === "sexdetermination-explorer" && (
+          <SexDeterminationExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        )}
         {screen === "biotech-explorer" && (
           <BiotechExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
-        {screen === "systems-explorer" && (
-          <SystemsExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
+        {screen === "biosystems-explorer" && (
+          <BioSystemsExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "popgen-explorer" && (
           <PopGenExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
@@ -860,7 +865,7 @@ export default function AstroBiologieK8Page() {
     </div>
   );
 
-  const explorerScreens = ["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "biotech-explorer", "systems-explorer", "popgen-explorer", "phylogeny-explorer"];
+  const explorerScreens = ["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "dna-explorer", "mutation-explorer", "hormone-explorer", "reproduction-explorer", "sexdetermination-explorer", "biotech-explorer", "biosystems-explorer", "popgen-explorer", "phylogeny-explorer"];
   if (explorerScreens.includes(screen)) return (
     <>
       {gameScreen}

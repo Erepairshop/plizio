@@ -89,7 +89,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#E67E22", sortRange: [1, 10],
     topicKeys: ["geschlechtsbestimmung", "contraception"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "reproduction-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "sexdetermination-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -113,7 +113,7 @@ export const BIO_K8_ISLANDS: IslandDef[] = [
     icon: "🌐", color: "#3498DB", sortRange: [1, 10],
     topicKeys: ["integration", "homeostasis", "stoffwechseltypologie"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "systems-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "biosystems-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],

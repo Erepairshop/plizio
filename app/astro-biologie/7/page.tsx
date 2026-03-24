@@ -818,31 +818,31 @@ export default function AstroBiologieK7Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "cell-explorer" && (
-          <CellExplorer onDone={handleMissionDone} />
+          <CellExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
-          <DivisionExplorer onDone={handleMissionDone} />
+          <DivisionExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "photosynthesis-explorer" && (
-          <PhotosynthesisExplorer onDone={handleMissionDone} />
+          <PhotosynthesisExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "respiration-explorer" && (
-          <RespirationExplorer onDone={handleMissionDone} />
+          <RespirationExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "ecology-explorer" && (
-          <EcologyExplorer onDone={handleMissionDone} />
+          <EcologyExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "immune-explorer" && (
-          <ImmuneExplorer onDone={handleMissionDone} />
+          <ImmuneExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "nerve-explorer" && (
-          <NerveExplorer onDone={handleMissionDone} />
+          <NerveExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "evolution-explorer" && (
-          <EvolutionExplorer onDone={handleMissionDone} />
+          <EvolutionExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
         {screen === "symbiosis-explorer" && (
-          <SymbiosisExplorer onDone={handleMissionDone} />
+          <SymbiosisExplorer lang={lang} color={bgColor} onDone={handleMissionDone} />
         )}
 
       </div>

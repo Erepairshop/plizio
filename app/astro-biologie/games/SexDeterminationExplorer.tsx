@@ -5,7 +5,7 @@
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-import { GeneticsBiotechSvg } from "@/app/astro-biologie/svg";
+import { SexDeterminationSvg } from "@/app/astro-biologie/svg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
@@ -268,7 +268,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang) => <GeneticsBiotechSvg lang={lang} />,
+    svg: (lang) => <SexDeterminationSvg lang={lang} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "gap-fill",
@@ -288,7 +288,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang) => <GeneticsBiotechSvg lang={lang} />,
+    svg: (lang) => <SexDeterminationSvg lang={lang} />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "match-pairs",
