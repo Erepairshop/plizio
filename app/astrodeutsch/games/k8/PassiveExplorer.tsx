@@ -1,541 +1,279 @@
 "use client";
-// PassiveExplorer — Island i7: Passiv (Vorgangspassiv) (K5)
-// Teaches: active vs passive transformation, werden+Partizip II, tenses, agent, MCQ
+// PassiveExplorer — Island i2: Passiv Gesamtwiederholung (Comprehensive Passive K8)
+// Topics: 1) Vorgangs- vs Zustandspassiv 2) Passiv alle Zeiten 3) Passiv mit Modalverb 4) Passiversatzformen 5) Mixed Quiz
 
-import { memo, useState, useCallback, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#ECFDF5" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -70,0 L -30,0" stroke="#059669" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="-50" y="-15" fontSize="10" fill="#065F46" textAnchor="middle">Vorgang (werden)</text>
+        <rect x="20" y="-20" width="50" height="40" rx="4" fill="#6EE7B7" stroke="#059669" />
+        <text x="45" y="40" fontSize="10" fill="#065F46" textAnchor="middle">Zustand (sein)</text>
+        <text x="0" y="-45" fontSize="14" fontWeight="bold" fill="#064E3B" textAnchor="middle">Aktion vs. Ergebnis</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-25" width="180" height="50" rx="8" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
+        <text x="0" y="5" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">Modal + Partizip II + werden</text>
+        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">„muss erledigt werden“</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Passiv-Master K8",
+    // T1
+    t1_title: "Vorgang vs. Zustand",
+    t1_text: "Das Vorgangspassiv (werden) beschreibt die Handlung selbst. Das Zustandspassiv (sein) beschreibt das fertige Ergebnis nach der Handlung.",
+    t1_b1: "Vorgang: Das Fenster wird geputzt (Aktion).",
+    t1_b2: "Zustand: Das Fenster ist geputzt (Ergebnis).",
+    t1_b3: "Wichtig: Zustandspassiv hat kein 'worden'.",
+    t1_inst: "Vorgang oder Zustand? Ordne die Sätze zu!",
+    t1_h1: "Suche nach dem Hilfsverb: 'wird' (Aktion) oder 'ist' (Zustand).",
+    t1_bucket_vor: "Vorgangspassiv",
+    t1_bucket_zus: "Zustandspassiv",
+    t1_item_v1: "Das Essen wird gekocht.", t1_item_v2: "Die Tür wird geöffnet.",
+    t1_item_z1: "Das Essen ist gekocht.", t1_item_z2: "Die Tür ist geöffnet.",
+    t1_q: "Welches Passiv betont das fertige Ergebnis?",
+    t1_q_a: "Zustandspassiv", t1_q_b: "Vorgangspassiv", t1_q_c: "Modalpassiv", t1_q_d: "Aktiv",
+
+    // T2
+    t2_title: "Passiv in allen Zeiten",
+    t2_text: "In K8 musst du das Passiv sicher durch alle Zeiten jagen können. Besonders das Perfekt mit 'worden' ist wichtig.",
+    t2_b1: "Präteritum: wurde gemacht.",
+    t2_b2: "Perfekt: ist gemacht worden.",
+    t2_b3: "Futur I: wird gemacht werden.",
+    t2_inst: "Welche Zeitform liegt hier vor? Wähle aus!",
+    t2_h1: "Achte auf 'wurde' (Vergangenheit) oder 'worden' (Perfekt).",
+    t2_gap_sentence: "Die Brücke {gap} letztes Jahr gebaut.",
+    t2_c1: "wurde", t2_c2: "wird", t2_c3: "ist",
+    t2_q: "Wie lautet das Perfekt Passiv von 'fragen'?",
+    t2_q_a: "ist gefragt worden", t2_q_b: "wurde gefragt", t2_q_c: "wird gefragt werden", t2_q_d: "hat gefragt worden",
+
+    // T3
+    t3_title: "Passiv mit Modalverben",
+    t3_text: "Wenn ein Modalverb (können, müssen, sollen...) dazukommt, rutscht das 'werden' als Infinitiv ganz ans Ende hinter das Partizip II.",
+    t3_b1: "muss erledigt werden.",
+    t3_b2: "kann repariert werden.",
+    t3_b3: "Das Modalverb wird konjugiert und steht auf Position 2.",
+    t3_inst: "Bringe den Modal-Passiv-Satz in die richtige Reihenfolge!",
+    t3_h1: "Das konjugierte 'muss' steht an Position 2.",
+    t3_h2: "Die Endung ist immer '... Partizip II + werden.'",
+    t3_w1: "Das", t3_w2: "Auto", t3_w3: "muss", t3_w4: "sofort", t3_w5: "repariert", t3_w6: "werden.",
+    t3_q: "Was steht in einem Modal-Passiv-Satz ganz am Ende?",
+    t3_q_a: "werden (Infinitiv)", t3_q_b: "worden", t3_q_c: "wird", t3_q_d: "ist",
+
+    // T4
+    t4_title: "Passiversatzformen",
+    t4_text: "Anstatt Passiv zu nutzen, kannst du elegantere Formen wählen. Diese drücken oft eine Möglichkeit oder Notwendigkeit aus.",
+    t4_b1: "sein + Adjektiv auf -bar (löslich, machbar).",
+    t4_b2: "sich lassen + Infinitiv (Das lässt sich lösen).",
+    t4_b3: "sein + zu + Infinitiv (Das ist zu lösen).",
+    t4_inst: "Verbinde die Passiv-Bedeutung mit dem passenden Ersatz!",
+    t4_h1: "Etwas, das man essen KANN, ist...",
+    t4_h2: "Repariert werden KÖNNEN = lässt sich reparieren.",
+    t4_l1: "kann gegessen werden", t4_r1: "ist essbar",
+    t4_l2: "kann repariert werden", t4_r2: "lässt sich reparieren",
+    t4_l3: "muss gemacht werden", t4_r3: "ist zu machen",
+    t4_l4: "man macht es", t4_r4: "es wird gemacht",
+    t4_q: "Was bedeutet der Ersatz 'Die Aufgabe ist zu lösen'?",
+    t4_q_a: "Die Aufgabe muss gelöst werden.", t4_q_b: "Die Aufgabe ist schon fertig.", t4_q_c: "Man kann die Aufgabe nicht lösen.", t4_q_d: "Die Aufgabe löst sich von selbst.",
+
+    // T5
+    t5_title: "Mixed Quiz",
+    t5_text: "Bist du ein Passiv-Experte? Teste dein Wissen über Zeiten, Modalverben und Ersatzformen.",
+    t5_b1: "wurde = Präteritum.",
+    t5_b2: "lässt sich = Passiversatz.",
+    t5_b3: "worden = Perfekt.",
+    t5_inst: "Markiere alle Passiversatzformen (sich lassen / -bar / sein+zu)!",
+    t5_h1: "Suche nach Wörtern wie 'machbar' oder 'lässt'.",
+    t5_h2: "Beispiel: 'Das Problem ist lösbar.'",
+    t5_w21: "Das", t5_w22: "Rätsel", t5_w23: "ist", t5_w24: "leider", t5_w25: "nicht", t5_w26: "lösbar", t5_w27: "und", t5_w28: "lässt", t5_w29: "sich", t5_w30: "nicht", t5_w31: "knacken.",
+    t5_q: "Welche Form ist KEIN Passiv und KEIN Passiversatz?",
+    t5_q_a: "Er hat das Buch gelesen.", t5_q_b: "Das Buch wird gelesen.", t5_q_c: "Das Buch lässt sich lesen.", t5_q_d: "Das Buch ist gelesen worden.",
+  },
   en: {
-    title: "Passive Voice Explorer",
-    round1Title: "Active vs. Passive",
-    round1Hint: "Tap to see the transformation from active to passive!",
-    round1Discovery: "💡 Passive voice focuses on WHAT happened, not WHO did it. Active: 'Der Hund frisst den Knochen.' → Passive: 'Der Knochen WIRD gefressen.'",
-    round2Title: "Passive Formation",
-    round2Hint: "Tap each person to reveal the passive form!",
-    round3Title: "Passive in Different Tenses",
-    round3Hint: "Tap to discover how passive changes across tenses!",
-    round4Title: "The Agent — von + Dativ",
-    round4Hint: "Tap to identify the parts of each passive sentence!",
-    round5Title: "Active or Passive?",
-    round5Hint: "Choose the correct passive form or identify passive.",
-    next: "Next",
-    finish: "Finished!",
-    well: "Well done!",
-    tapToReveal: "Tap to reveal",
-    correct: "Correct!",
-    active: "Active",
-    passive: "Passive",
-    agent: "Agent (by whom?)",
-    praesens: "Präsens",
-    praeteritum: "Präteritum",
-    perfekt: "Perfekt",
-    formation: "werden (conjugated) + Partizip II",
+    explorer_title: "Passive Mastery K8",
+    t1_inst: "Process or State? Sort the sentences!",
+    t2_inst: "Which tense is this? Choose!",
+    t3_inst: "Put the modal passive sentence in the correct order!",
+    t4_inst: "Connect the passive meaning with the correct substitute!",
+    t5_inst: "Highlight all passive substitute forms!",
   },
   hu: {
-    title: "Szenvedő szerkezet felfedező",
-    round1Title: "Cselekvő vs. Szenvedő",
-    round1Hint: "Koppints a cselekvőből szenvedőbe való átalakulás megtekintéséhez!",
-    round1Discovery: "💡 A szenvedő szerkezet a TÖRTÉNÉSRE fókuszál, nem arra hogy KI csinálta. Cselekvő: 'Der Hund frisst den Knochen.' → Szenvedő: 'Der Knochen WIRD gefressen.'",
-    round2Title: "Szenvedő képzése",
-    round2Hint: "Koppints minden személyre a szenvedő alak felfedéséhez!",
-    round3Title: "Szenvedő különböző igeidőkben",
-    round3Hint: "Koppints, hogy megtudd hogyan változik a szenvedő igeidőkben!",
-    round4Title: "Az ágens — von + Dativ",
-    round4Hint: "Koppints a szenvedő mondatok részeinek azonosításához!",
-    round5Title: "Cselekvő vagy szenvedő?",
-    round5Hint: "Válaszd ki a helyes szenvedő alakot, vagy azonosítsd a szenvedőt.",
-    next: "Tovább",
-    finish: "Kész!",
-    well: "Remek!",
-    tapToReveal: "Koppints a megjelenítéshez",
-    correct: "Helyes!",
-    active: "Cselekvő",
-    passive: "Szenvedő",
-    agent: "Cselekvő (ki által?)",
-    praesens: "Jelen idő",
-    praeteritum: "Múlt idő",
-    perfekt: "Befejezett múlt",
-    formation: "werden (ragozva) + Partizip II",
-  },
-  de: {
-    title: "Passiv-Entdecker",
-    round1Title: "Aktiv vs. Passiv",
-    round1Hint: "Tippe, um die Umwandlung von Aktiv zu Passiv zu sehen!",
-    round1Discovery: "💡 Das Passiv konzentriert sich auf WAS passiert ist, nicht WER es getan hat. Aktiv: 'Der Hund frisst den Knochen.' → Passiv: 'Der Knochen WIRD gefressen.'",
-    round2Title: "Passivbildung",
-    round2Hint: "Tippe auf jede Person, um die Passivform aufzudecken!",
-    round3Title: "Passiv in verschiedenen Zeiten",
-    round3Hint: "Tippe, um zu entdecken wie sich Passiv in verschiedenen Zeiten verändert!",
-    round4Title: "Das Agens — von + Dativ",
-    round4Hint: "Tippe, um die Teile jedes Passivsatzes zu identifizieren!",
-    round5Title: "Aktiv oder Passiv?",
-    round5Hint: "Wähle die richtige Passivform oder erkenne das Passiv.",
-    next: "Weiter",
-    finish: "Fertig!",
-    well: "Super gemacht!",
-    tapToReveal: "Zum Aufdecken tippen",
-    correct: "Richtig!",
-    active: "Aktiv",
-    passive: "Passiv",
-    agent: "Agens (von wem?)",
-    praesens: "Präsens",
-    praeteritum: "Präteritum",
-    perfekt: "Perfekt",
-    formation: "werden (konjugiert) + Partizip II",
+    explorer_title: "Passzív-mester K8",
+    t1_inst: "Folyamat vagy állapot? Válogasd szét!",
+    t1_bucket_vor: "Folyamat-passzív (werden)",
+    t1_bucket_zus: "Állapot-passzív (sein)",
+    t2_inst: "Melyik igeidő ez? Válaszd ki!",
+    t3_inst: "Tedd a módbeli segédigés passzív mondatot a helyes sorrendbe!",
+    t4_inst: "Kösd össze a passzív jelentést a megfelelő pótszerkezettel!",
+    t5_inst: "Jelöld ki az összes passzív-pótló szerkezetet!",
   },
   ro: {
-    title: "Exploratorul diatezei pasive",
-    round1Title: "Activ vs. Pasiv",
-    round1Hint: "Atinge pentru a vedea transformarea din activ în pasiv!",
-    round1Discovery: "💡 Diateza pasivă se concentrează pe CEEA CE s-a întâmplat, nu pe CINE a făcut-o. Activ: 'Der Hund frisst den Knochen.' → Pasiv: 'Der Knochen WIRD gefressen.'",
-    round2Title: "Formarea pasivului",
-    round2Hint: "Atinge fiecare persoană pentru a dezvălui forma pasivă!",
-    round3Title: "Pasiv în diferite timpuri",
-    round3Hint: "Atinge pentru a descoperi cum se schimbă pasivul în diferite timpuri!",
-    round4Title: "Agentul — von + Dativ",
-    round4Hint: "Atinge pentru a identifica părțile fiecărei propoziții pasive!",
-    round5Title: "Activ sau pasiv?",
-    round5Hint: "Alege forma pasivă corectă sau identifică pasivul.",
-    next: "Înainte",
-    finish: "Gata!",
-    well: "Bravo!",
-    tapToReveal: "Atinge pentru a dezvălui",
-    correct: "Corect!",
-    active: "Activ",
-    passive: "Pasiv",
-    agent: "Agent (de către cine?)",
-    praesens: "Prezent",
-    praeteritum: "Trecut",
-    perfekt: "Perfect compus",
-    formation: "werden (conjugat) + Partizip II",
-  },
+    explorer_title: "Expert Pasiv K8",
+    t1_inst: "Acțiune sau Stare? Sortează propozițiile!",
+    t2_inst: "La ce timp este aceasta? Alege!",
+    t3_inst: "Așază propoziția pasivă cu verb modal în ordinea corectă!",
+    t4_inst: "Leagă înțelesul pasiv de substituentul corect!",
+    t5_inst: "Marchează toate formele de înlocuire a pasivului!",
+  }
 };
 
-const TRANSFORMATIONS = [
-  { active: "Der Hund frisst den Knochen.", passive: "Der Knochen wird vom Hund gefressen.", emoji: "🐕" },
-  { active: "Der Lehrer erklärt die Aufgabe.", passive: "Die Aufgabe wird vom Lehrer erklärt.", emoji: "👨‍🏫" },
-  { active: "Die Mutter backt einen Kuchen.", passive: "Ein Kuchen wird von der Mutter gebacken.", emoji: "🍰" },
-  { active: "Der Schüler liest das Buch.", passive: "Das Buch wird vom Schüler gelesen.", emoji: "📖" },
-  { active: "Die Künstlerin malt ein Gemälde.", passive: "Ein Gemälde wird von der Künstlerin gemalt.", emoji: "🎨" },
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "vor", label: "t1_bucket_vor" },
+        { id: "zus", label: "t1_bucket_zus" },
+      ],
+      items: [
+        { text: "t1_item_v1", bucketId: "vor" },
+        { text: "t1_item_z1", bucketId: "zus" },
+        { text: "t1_item_v2", bucketId: "vor" },
+        { text: "t1_item_z2", bucketId: "zus" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"], // wurde, wird, ist
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6"], // Das Auto muss sofort repariert werden.
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+        { left: "t4_l4", right: "t4_r4" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t5_w21", "t5_w22", "t5_w23", "t5_w24", "t5_w25", "t5_w26", "t5_w27", "t5_w28", "t5_w29", "t5_w30", "t5_w31"],
+      correctIndices: [5, 7, 8], // lösbar, lässt sich
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
 ];
 
-const PASSIVE_CONJUGATION = [
-  { person: "ich", form: "werde gespielt", color: "#3B82F6" },
-  { person: "du", form: "wirst gespielt", color: "#10B981" },
-  { person: "er/sie/es", form: "wird gespielt", color: "#F59E0B" },
-  { person: "wir", form: "werden gespielt", color: "#A855F7" },
-];
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const TENSE_PASSIVE = [
-  { tense: "praesens", example: "Das Haus wird gebaut.", color: "#3B82F6" },
-  { tense: "praeteritum", example: "Das Haus wurde gebaut.", color: "#F59E0B" },
-  { tense: "perfekt", example: "Das Haus ist gebaut worden.", color: "#10B981" },
-];
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "⚙️",
+  topics: TOPICS,
+  rounds: [],
+};
 
-const AGENT_SENTENCES = [
-  { sentence: "Das Buch wird vom Lehrer gelesen.", subject: "Das Buch", verb: "wird ... gelesen", agent: "vom Lehrer" },
-  { sentence: "Die Brücke wurde von den Arbeitern gebaut.", subject: "Die Brücke", verb: "wurde ... gebaut", agent: "von den Arbeitern" },
-];
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-const MIXED_QUIZ = [
-  { sentence: "Das Fenster ___ geöffnet.", options: ["ist", "wird", "hat"], correct: "wird", hint: "Passiv Präsens → wird" },
-  { sentence: "Der Brief ___ gestern geschrieben.", options: ["wird", "wurde", "ist"], correct: "wurde", hint: "Passiv Präteritum → wurde" },
-  { sentence: "Sie isst den Kuchen.", options: ["Aktiv", "Passiv", "Beides"], correct: "Aktiv", hint: "Subjekt handelt selbst → Aktiv" },
-  { sentence: "Das Auto wurde repariert.", options: ["Aktiv", "Passiv", "Beides"], correct: "Passiv", hint: "wurde + Partizip II → Passiv" },
-  { sentence: "Der Film ___ von vielen Menschen gesehen.", options: ["wird", "ist", "hat"], correct: "wird", hint: "Präsens Passiv → wird" },
-  { sentence: "Die Hausaufgaben wurden vergessen.", options: ["Aktiv", "Passiv", "Beides"], correct: "Passiv", hint: "wurden + Partizip II → Passiv" },
-];
-
-function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
-  return (
-    <div className="flex gap-1.5 w-full">
-      {Array.from({ length: total }, (_, i) => (
-        <div key={i} className="flex-1 h-2 rounded-full"
-          style={{ background: i < current ? "#00FF88" : i === current ? color : "rgba(255,255,255,0.12)" }} />
-      ))}
-    </div>
-  );
-}
-
-function NextBtn({ onClick, label, color }: { onClick: () => void; label: string; color: string }) {
-  return (
-    <motion.button onClick={onClick}
-      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}>
-      {label} <ChevronRight size={16} />
-    </motion.button>
-  );
-}
-
-// ─── Round 1: Active vs Passive ───────────────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= TRANSFORMATIONS.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="flex flex-col gap-3 w-full">
-        {TRANSFORMATIONS.map((t, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={t.active}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 text-left"
-              style={{
-                background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <div className="flex items-center gap-2 mb-2">
-                <span className="text-xl">{t.emoji}</span>
-                <span className="text-xs font-bold px-2 py-0.5 rounded-full"
-                  style={{ background: "rgba(255,255,255,0.1)", color: "rgba(255,255,255,0.6)" }}>
-                  {lbl.active}
-                </span>
-              </div>
-              <p className="text-white font-bold text-sm">{t.active}</p>
-              {isOpen && (
-                <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} className="mt-3">
-                  <span className="text-xs font-bold px-2 py-0.5 rounded-full"
-                    style={{ background: `${color}25`, color }}>
-                    {lbl.passive}
-                  </span>
-                  <p className="text-white font-bold text-sm mt-1.5">{t.passive}</p>
-                </motion.div>
-              )}
-              {!isOpen && <p className="text-white/30 text-xs mt-2">{lbl.tapToReveal}</p>}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 2: Passive conjugation ────────────────────────────────────────────
-function Round2({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PASSIVE_CONJUGATION.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
-      <div className="w-full rounded-xl p-2.5 text-center text-xs font-bold"
-        style={{ background: `${color}18`, border: `1px solid ${color}44`, color }}>
-        {lbl.formation}
-      </div>
-      <div className="flex flex-col gap-2 w-full">
-        {PASSIVE_CONJUGATION.map((row, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={row.person}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-xl p-3 flex items-center justify-between"
-              style={{
-                background: isOpen ? `${row.color}18` : "rgba(255,255,255,0.04)",
-                border: `1px solid ${isOpen ? row.color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <span className="font-bold text-sm" style={{ color: row.color }}>{row.person}</span>
-              {isOpen ? (
-                <motion.span initial={{ opacity: 0, x: 8 }} animate={{ opacity: 1, x: 0 }}
-                  className="font-black text-base" style={{ color: row.color }}>
-                  {row.form}
-                </motion.span>
-              ) : (
-                <span className="text-white/25 text-xs">{lbl.tapToReveal}</span>
-              )}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 3: Passive in tenses ───────────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= TENSE_PASSIVE.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
-      <div className="flex flex-col gap-3 w-full">
-        {TENSE_PASSIVE.map((item, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={item.tense}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 text-left"
-              style={{
-                background: isOpen ? `${item.color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? item.color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <span className="font-black text-sm" style={{ color: item.color }}>
-                {lbl[item.tense] ?? item.tense}
-              </span>
-              {isOpen ? (
-                <motion.p initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-                  className="text-white font-bold text-base mt-1">{item.example}</motion.p>
-              ) : (
-                <p className="text-white/30 text-xs mt-1">{lbl.tapToReveal}</p>
-              )}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 4: Agent identification ────────────────────────────────────────────
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= AGENT_SENTENCES.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
-      <div className="flex flex-col gap-3 w-full">
-        {AGENT_SENTENCES.map((s, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={s.sentence}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 text-left"
-              style={{
-                background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <p className="text-white font-bold text-sm">{s.sentence}</p>
-              {isOpen && (
-                <motion.div initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }} className="mt-2 flex flex-col gap-1">
-                  <span className="text-xs font-bold" style={{ color: "#3B82F6" }}>Subjekt: {s.subject}</span>
-                  <span className="text-xs font-bold" style={{ color: "#10B981" }}>Verb: {s.verb}</span>
-                  <span className="text-xs font-bold" style={{ color }}>
-                    {lbl.agent}: {s.agent}
-                  </span>
-                </motion.div>
-              )}
-              {!isOpen && <p className="text-white/30 text-xs mt-1">{lbl.tapToReveal}</p>}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 5: Active or Passive MCQ ───────────────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; lang: string; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const item = MIXED_QUIZ[idx];
-  const isCorrect = selected === item.correct;
-
-  const handleSelect = (opt: string) => {
-    if (selected) return;
-    setSelected(opt);
-    if (opt !== item.correct) {
-      wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Passive Voice", lang: "de" });
-    }
-    setTimeout(() => {
-      if (idx + 1 >= MIXED_QUIZ.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 1000);
-  };
-
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
-      <div className="flex gap-1">
-        {MIXED_QUIZ.map((_, i) => (
-          <div key={i} className="w-2 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-      <AnimatePresence mode="wait">
-        <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4"
-          style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <div className="flex items-center justify-center gap-2">
-            <p className="text-white font-bold text-base">{item.sentence}</p>
-            <SpeakButton text={item.sentence} lang={"de"} size={16} />
-          </div>
-          {selected && (
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF6B6B" }}>
-              {isCorrect ? `✅ ${lbl.correct}` : `❌ → ${item.correct}`} ({item.hint})
-            </motion.p>
-          )}
-        </motion.div>
-      </AnimatePresence>
-      <div className="flex gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="flex-1 py-3 rounded-xl font-black text-sm"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-// ─── Main Component ────────────────────────────────────────────────────────────
 const PassiveExplorer = memo(function PassiveExplorer({
-  color, lang = "de", onDone,
+  color = "#059669",
+  onDone,
+  lang = "de",
 }: {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const TOTAL_ROUNDS = 5;
-  const wrongCountRef = useRef(0);
-
-  const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => {
-    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
-    onDone(score, TOTAL_ROUNDS);
-  }, [onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
-      <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
-      <AnimatePresence mode="wait">
-        <motion.div key={round}
-          initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
-          className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} lang={lang} showTeach={showTeach} setShowTeach={setShowTeach} />}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={8} explorerId="deutsch_k8_passive_overall" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default PassiveExplorer;
