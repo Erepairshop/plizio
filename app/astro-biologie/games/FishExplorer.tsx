@@ -16,7 +16,7 @@ const Topic2Svg = memo(function Topic2Svg() {
       <g transform="translate(120, 70)">
         <text x="-30" y="10" fontSize="40" textAnchor="middle">🐸</text>
         <text x="30" y="10" fontSize="40" textAnchor="middle">🦎</text>
-        <text x="0" y="45" fontSize="14" fontWeight="bold" fill="#3F6212" textAnchor="middle">Amphibia</text>
+        <text x="0" y="45" fontSize="14" fontWeight="bold" fill="#3F6212" textAnchor="middle">🌊 ↔ 🌿</text>
       </g>
     </svg>
   );
@@ -30,7 +30,7 @@ const Topic3Svg = memo(function Topic3Svg() {
         <text x="-40" y="5" fontSize="30" textAnchor="middle">🫧</text>
         <text x="0" y="5" fontSize="20" fill="#0284C7" textAnchor="middle">vs</text>
         <text x="40" y="5" fontSize="30" textAnchor="middle">🫁</text>
-        <text x="0" y="45" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">Kiemen / Lunge</text>
+        <text x="0" y="45" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">🫧 → 🫁</text>
       </g>
     </svg>
   );

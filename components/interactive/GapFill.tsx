@@ -47,6 +47,8 @@ const L: Record<string, Record<string, string>> = {
 
 /* ── helpers: split sentence around "___" ──────────────── */
 function splitSentence(sentence: string): [string, string] {
+  const gapIdx = sentence.indexOf("{gap}");
+  if (gapIdx !== -1) return [sentence.slice(0, gapIdx), sentence.slice(gapIdx + 5)];
   const idx = sentence.indexOf("___");
   if (idx === -1) return [sentence, ""];
   return [sentence.slice(0, idx), sentence.slice(idx + 3)];
