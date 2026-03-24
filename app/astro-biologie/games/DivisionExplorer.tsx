@@ -1,524 +1,358 @@
 "use client";
-// DivisionExplorer — Cell Division (Zellteilung) Grade 7
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topics: Cell cycle, mitosis, why cells divide, DNA and chromosomes
+// CellExplorer.tsx — Bio Island i1: Sejtek & Mikroszkóp (K7)
+// Topics: 1) Sejt felépítése 2) Sejtszervecskék 3) Prokarióta vs Eukarióta 4) Mikroszkóp 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { CellStructureSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="30" textAnchor="middle">🦠</text>
+        <path d="M -10,0 L 10,0" stroke="#15803D" strokeWidth="3" strokeDasharray="4 2" />
+        <text x="40" y="0" fontSize="40" textAnchor="middle">🌿</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F8FAFC" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="-15" r="25" fill="none" stroke="#64748B" strokeWidth="4" />
+        <line x1="0" y1="10" x2="0" y2="40" stroke="#64748B" strokeWidth="6" />
+        <rect x="-20" y="40" width="40" height="8" rx="2" fill="#64748B" />
+        <text x="0" y="-10" fontSize="20" textAnchor="middle">🔬</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🔬</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    // Round 1: Cell Cycle
-    r1_title: "The Cell Cycle",
-    r1_text: "The cell cycle is the process of growth, DNA copying, and division. It has three main phases: G1, S, and G2, followed by mitosis (M phase).",
-    r1_fact1: "G1 phase: Cell grows and performs normal functions",
-    r1_fact2: "S phase: DNA is copied (replication) — each chromosome is duplicated",
-    r1_fact3: "G2 phase: Cell continues to grow and prepares for division",
-    r1_fact4: "M phase: Mitosis — the cell divides into two daughter cells",
-
-    // Round 2: Mitosis
-    r2_title: "The Stages of Mitosis",
-    r2_text: "Mitosis is divided into four stages. Each stage has a specific job in dividing the cell's genetic material equally.",
-    r2_fact1: "Prophase: Chromosomes condense and become visible; spindle fibers form",
-    r2_fact2: "Metaphase: Chromosomes line up in the middle of the cell",
-    r2_fact3: "Anaphase: Sister chromatids separate and move to opposite poles",
-    r2_fact4: "Telophase: Nuclear membranes form and the cell pinches in the middle",
-
-    // Round 3: Why Cells Divide
-    r3_title: "Why Do Cells Divide?",
-    r3_text: "Cells divide for three main reasons: to grow the organism, to repair damaged tissues, and to reproduce asexually.",
-    r3_q: "Which is a reason cells divide?",
-    r3_growth: "Organisms grow by increasing cell number",
-    r3_size: "Cells become larger than normal size",
-    r3_rest: "Cells need time to rest",
-    r3_nutrition: "Cells need more nutrients",
-
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNA and Chromosomes",
-    r4_text: "DNA is coiled tightly into structures called chromosomes. Humans have 46 chromosomes (23 pairs). During mitosis, chromosomes are copied so each daughter cell gets a complete set.",
-    r4_fact1: "DNA carries genetic instructions (genes) for all cell functions",
-    r4_fact2: "Chromosomes are made of tightly coiled DNA",
-    r4_fact3: "When DNA replicates, each chromosome has two identical sister chromatids",
-    r4_fact4: "Sister chromatids separate during anaphase to ensure equal distribution",
-
-    // Round 5: Quiz
-    r5_title: "Cell Division Review",
-
-    // Quiz Questions
-    q1_q: "What is the S phase of the cell cycle?",
-    q1_a: "Synthesis (DNA copying)",
-    q1_b: "Separation of sister chromatids",
-    q1_c: "Spinning of spindle fibers",
-    q1_d: "Shrinking of the nucleus",
-
-    q2_q: "Which stage of mitosis has chromosomes lining up in the middle?",
-    q2_a: "Prophase",
-    q2_b: "Metaphase",
-    q2_c: "Anaphase",
-    q2_d: "Telophase",
-
-    q3_q: "How many chromosomes do humans have?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
-  },
-
-  de: {
-    // Round 1: Cell Cycle
-    r1_title: "Der Zellzyklus",
-    r1_text: "Der Zellzyklus ist der Prozess von Wachstum, DNA-Kopieren und Teilung. Er hat drei Hauptphasen: G1, S und G2, gefolgt von Mitose (M-Phase).",
-    r1_fact1: "G1-Phase: Zelle wächst und erfüllt normale Funktionen",
-    r1_fact2: "S-Phase: DNA wird kopiert (Replikation) — jedes Chromosom wird dupliziert",
-    r1_fact3: "G2-Phase: Zelle wächst weiter und bereitet sich auf Teilung vor",
-    r1_fact4: "M-Phase: Mitose — die Zelle teilt sich in zwei Tochterzellen",
-
-    // Round 2: Mitosis
-    r2_title: "Die Stadien der Mitose",
-    r2_text: "Die Mitose ist in vier Stadien unterteilt. Jedes Stadium hat eine spezifische Aufgabe bei der gleichmäßigen Teilung des genetischen Materials der Zelle.",
-    r2_fact1: "Prophase: Chromosomen kondensieren und werden sichtbar; Spindelfasern bilden sich",
-    r2_fact2: "Metaphase: Chromosomen reihen sich in der Mitte der Zelle auf",
-    r2_fact3: "Anaphase: Schwester-Chromatiden trennen sich und bewegen sich zu entgegengesetzten Polen",
-    r2_fact4: "Telophase: Kernmembranen bilden sich und die Zelle schnürt sich in der Mitte ein",
-
-    // Round 3: Why Cells Divide
-    r3_title: "Warum teilen sich Zellen?",
-    r3_text: "Zellen teilen sich aus drei Hauptgründen: um den Organismus zu vergrößern, um beschädigtes Gewebe zu reparieren und um sich ungeschlechtlich zu vermehren.",
-    r3_q: "Welcher Grund führt zur Zellteilung?",
-    r3_growth: "Organismen wachsen durch Erhöhung der Zellzahl",
-    r3_size: "Zellen werden größer als normal",
-    r3_rest: "Zellen brauchen Zeit zum Ausruhen",
-    r3_nutrition: "Zellen brauchen mehr Nährstoffe",
-
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNA und Chromosomen",
-    r4_text: "DNA ist fest in Strukturen namens Chromosomen aufgewickelt. Menschen haben 46 Chromosomen (23 Paare). Während der Mitose werden Chromosomen kopiert, sodass jede Tochterzelle einen vollständigen Satz erhält.",
-    r4_fact1: "DNA trägt genetische Anweisungen (Gene) für alle Zellfunktionen",
-    r4_fact2: "Chromosomen bestehen aus fest aufgewickelter DNA",
-    r4_fact3: "Bei der DNA-Replikation hat jedes Chromosom zwei identische Schwester-Chromatiden",
-    r4_fact4: "Schwester-Chromatiden trennen sich während der Anaphase, um gleichmäßige Verteilung zu gewährleisten",
-
-    // Round 5: Quiz
-    r5_title: "Zellteilung Übersicht",
-
-    // Quiz Questions
-    q1_q: "Was ist die S-Phase des Zellzyklus?",
-    q1_a: "Synthese (DNA-Kopieren)",
-    q1_b: "Trennung von Schwester-Chromatiden",
-    q1_c: "Spinnen von Spindelfasern",
-    q1_d: "Schrumpfen des Zellkerns",
-
-    q2_q: "Welches Stadium der Mitose hat Chromosomen in der Mitte aufgereiht?",
-    q2_a: "Prophase",
-    q2_b: "Metaphase",
-    q2_c: "Anaphase",
-    q2_d: "Telophase",
-
-    q3_q: "Wie viele Chromosomen haben Menschen?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
-  },
-
   hu: {
-    // Round 1: Cell Cycle
-    r1_title: "A sejt ciklusa",
-    r1_text: "A sejt ciklusa a növekedés, DNS másolása és osztódás folyamata. Három fő szakaszból áll: G1, S és G2, ezt követi a mitózis (M fázis).",
-    r1_fact1: "G1 fázis: A sejt növekszik és normál funkciókat végez",
-    r1_fact2: "S fázis: A DNS másolódik (replikáció) — minden kromoszóma megkettőződik",
-    r1_fact3: "G2 fázis: A sejt tovább növekszik és felkészül az osztódásra",
-    r1_fact4: "M fázis: Mitózis — a sejt két lánysejtré osztódik",
+    explorer_title: "Sejtek és Mikroszkóp",
+    // T1: Sejtstruktúra (Label-diagram)
+    t1_title: "Az eukarióta sejt",
+    t1_text: "Minden összetettebb élőlény sejtje eukarióta. Legfőbb jellemzője a körülhatárolt sejtmag, amely az örökítőanyagot tárolja.",
+    t1_b1: "Sejtmag: az irányító központ (DNS).",
+    t1_b2: "Sejthártya: vékony, rugalmas védőburok.",
+    t1_b3: "Mitokondrium: energiát termel a sejtnek.",
+    t1_inst: "Kattints a pontokra és válaszd ki a sejt megfelelő részét!",
+    t1_area_nucleus: "Sejtmag",
+    t1_area_membrane: "Sejthártya",
+    t1_area_mito: "Mitokondrium",
+    t1_area_cyto: "Sejtplazma",
+    t1_q: "Melyik rész irányítja a sejt életfolyamatait?",
+    t1_q_a: "Sejtmag", t1_q_b: "Vakuólum", t1_q_c: "Sejtfal", t1_q_d: "Csillók",
 
-    // Round 2: Mitosis
-    r2_title: "A mitózis szakaszai",
-    r2_text: "A mitózis négy szakaszra van osztva. Mindegyik szakasznak saját feladata van a sejt genetikai anyagának egyenlő elosztásában.",
-    r2_fact1: "Profázis: A kromoszómák kondenzálódnak és láthatóvá válnak; orsófonalak képződnek",
-    r2_fact2: "Metafázis: A kromoszómák a sejt közepén sorakoznak fel",
-    r2_fact3: "Anafázis: Az iker-kromatidák elválnak és ellentétes pólusok felé mozdulnak",
-    r2_fact4: "Telofázis: Magmembrántartalmak képződnek és a sejt a közepén begörcsölödik",
+    // T2: Sejtszervecskék
+    t2_title: "Sejtszervecskék feladata",
+    t2_text: "A sejt belsejében különböző feladatokra szakosodott egységek, sejtszervecskék találhatók.",
+    t2_b1: "Riboszómák: a fehérjék 'gyárai'.",
+    t2_b2: "Zöld színtest: a fotoszintézis helyszíne (csak növényekben).",
+    t2_b3: "Vakuólum: tápanyagok és víz tárolása.",
+    t2_inst: "Párosítsd a szervecskét a funkciójával!",
+    t2_l1: "Mitokondrium", t2_r1: "Energiatermelés",
+    t2_l2: "Riboszóma", t2_r2: "Fehérje előállítás",
+    t2_l3: "Zöld színtest", t2_r3: "Cukorgyártás fényből",
+    t2_q: "Melyik szervecske felelős a sejt energiájáért?",
+    t2_q_a: "Mitokondrium", t2_q_b: "Sejtmag", t2_q_c: "Riboszóma", t2_q_d: "Vakuólum",
 
-    // Round 3: Why Cells Divide
-    r3_title: "Miért osztódnak a sejtek?",
-    r3_text: "A sejtek három fő okból osztódnak: az organizmus növekedéséhez, a sérült szövetek javításához és az aszexuális szaporodáshoz.",
-    r3_q: "Melyik oka van a sejt osztódásnak?",
-    r3_growth: "Az organizmusok a sejtek számának növekedésével nőnek",
-    r3_size: "A sejtek nagyobbak lesznek, mint a normális méret",
-    r3_rest: "A sejtek pihenésre van szükségük",
-    r3_nutrition: "A sejtek több tápanyagot igényelnek",
+    // T3: Prokarióta vs Eukarióta
+    t3_title: "Egyszerű és összetett sejtek",
+    t3_text: "A prokarióták (pl. baktériumok) ősi, egyszerűbb felépítésű sejtek, míg az eukarióták bonyolult belső hálózattal rendelkeznek.",
+    t3_b1: "Prokarióta: nincs sejtmag, a DNS a plazmában szabadon van.",
+    t3_b2: "Eukarióta: van sejtmag és membránnal határolt szervecskék.",
+    t3_b3: "A baktériumok mindig prokarióták.",
+    t3_inst: "Miben tér el a baktérium sejtje a miénktől?",
+    t3_gap_sentence: "A prokarióta sejteknek nincs körülhatárolt {gap}.",
+    t3_c1: "sejtmagjuk", t3_c2: "plazmájuk", t3_c3: "DNS-ük",
+    t3_q: "Melyik élőlény eukarióta?",
+    t3_q_a: "Gomba", t3_q_b: "Baktérium", t3_q_c: "Kékmoszat", t3_q_d: "Vírus",
 
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNS és kromoszómák",
-    r4_text: "A DNS szorosan összecsavarodott a kromoszómákat nevezett szerkezetekbe. Az emberek 46 kromoszómával rendelkeznek (23 pár). A mitózis során a kromoszómákat másolják, így minden lánysejt teljes készletet kap.",
-    r4_fact1: "A DNS genetikai utasításokat (gének) tartalmaz az összes sejt-funkcióhoz",
-    r4_fact2: "A kromoszómák szorosan csavarodott DNS-ből állnak",
-    r4_fact3: "A DNS replikációja során minden kromoszómának két azonos iker-kromatidja van",
-    r4_fact4: "Az iker-kromatidák az anafázis alatt elválnak az egyenlő elosztás biztosítása érdekében",
+    // T4: Mikroszkóp
+    t4_title: "A mikroszkóp használata",
+    t4_text: "A fénymikroszkóp lencserendszere segít láthatóvá tenni a sejteket. A nagyítás az objektív és az okulár értékétől függ.",
+    t4_b1: "Okulár: a szemhez közeli lencse.",
+    t4_b2: "Objektív: a tárgyhoz közeli lencse.",
+    t4_b3: "Tárgyasztal: ide kerül a vizsgált metszet.",
+    t4_inst: "Tedd sorba a fény útját a mikroszkópban (alulról felfelé)!",
+    t4_w1: "Fényforrás", t4_w2: "Metszet", t4_w3: "Objektív", t4_w4: "Tubus", t4_w5: "Okulár",
+    t4_q: "Mit teszünk a tárgyasztalra a vizsgálathoz?",
+    t4_q_a: "Metszetet (preparátumot)", t4_q_b: "Tükröt", t4_q_c: "Szemüveget", t4_q_d: "Lámpát",
 
-    // Round 5: Quiz
-    r5_title: "Sejt osztódás áttekintés",
-
-    // Quiz Questions
-    q1_q: "Mi a sejt ciklusa S fázisa?",
-    q1_a: "Szintézis (DNS másolás)",
-    q1_b: "Iker-kromatidák elválása",
-    q1_c: "Orsófonalak pörgése",
-    q1_d: "A sejt mag zsugorodása",
-
-    q2_q: "A mitózis mely szakaszában sorakoznak a kromoszómák a közepében?",
-    q2_a: "Profázis",
-    q2_b: "Metafázis",
-    q2_c: "Anafázis",
-    q2_d: "Telofázis",
-
-    q3_q: "Hány kromoszómával rendelkeznek az emberek?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Ellenőrizd a tudásod a sejttan alapjairól!",
+    t5_b1: "Eukarióta = van sejtmag.",
+    t5_b2: "A növényi sejtnek van sejtfala és zöld színtestje.",
+    t5_b3: "A mikroszkóp a láthatatlan világ kapuja.",
+    t5_inst: "Hogyan nevezzük az energiatermelő szervet?",
+    t5_gap_sentence2: "A sejt 'erőműve' a {gap}.",
+    t5_c51: "mitokondrium", t5_c52: "riboszóma", t5_c53: "sejtmag",
+    t5_q: "Melyik állítás IGAZ az eukarióta sejtre?",
+    t5_q_a: "Rendelkezik körülhatárolt sejtmaggal.", t5_q_b: "Nincs benne DNS.", t5_q_c: "Minden esetben baktérium.", t5_q_d: "Csak élettelen dolgokban van.",
   },
+  en: {
+    explorer_title: "Cells and Microscope",
+    t1_title: "Eukaryotic Cell", t1_text: "Every complex organism is made of eukaryotic cells, characterized by a nucleus containing DNA.",
+    t1_b1: "Nucleus: the control center (DNA).", t1_b2: "Membrane: thin, flexible protective layer.", t1_b3: "Mitochondria: produces energy for the cell.",
+    t1_inst: "Click the dots and label the parts of the cell!",
+    t1_area_nucleus: "Nucleus", t1_area_membrane: "Cell membrane", t1_area_mito: "Mitochondria", t1_area_cyto: "Cytoplasm",
+    t1_q: "Which part controls cell activities?", t1_q_a: "Nucleus", t1_q_b: "Vacuole", t1_q_c: "Cell wall", t1_q_d: "Cilia",
 
+    t2_title: "Organelle Functions", t2_text: "Inside the cell, specialized units called organelles perform daily tasks.",
+    t2_b1: "Ribosomes: protein 'factories'.", t2_b2: "Chloroplasts: site of photosynthesis (plants only).", t2_b3: "Vacuole: storage for nutrients and water.",
+    t2_inst: "Match the organelle with its function!",
+    t2_l1: "Mitochondria", t2_r1: "Energy production", t2_l2: "Ribosome", t2_r2: "Protein synthesis", t2_l3: "Chloroplast", t2_r3: "Sugar from light",
+    t2_q: "Which organelle is responsible for cell energy?", t2_q_a: "Mitochondria", t2_q_b: "Nucleus", t2_q_c: "Ribosome", t2_q_d: "Vacuole",
+
+    t3_title: "Prokaryote vs Eukaryote", t3_text: "Prokaryotes (like bacteria) are ancient and simple, while eukaryotes have complex internal networks.",
+    t3_b1: "Prokaryote: no nucleus, DNA is free in cytoplasm.", t3_b2: "Eukaryote: has a nucleus and membrane-bound organelles.", t3_b3: "Bacteria are always prokaryotes.",
+    t3_inst: "How does a bacterium differ from our cells?", t3_gap_sentence: "Prokaryotic cells have no defined {gap}.",
+    t3_c1: "nucleus", t3_c2: "plasma", t3_c3: "DNA",
+    t3_q: "Which organism is eukaryotic?", t3_q_a: "Fungus", t3_q_b: "Bacteria", t3_q_c: "Cyanobacteria", t3_q_d: "Virus",
+
+    t4_title: "Using a Microscope", t4_text: "The lens system of a light microscope makes cells visible. Magnification depends on the objective and ocular lenses.",
+    t4_b1: "Ocular: lens closest to the eye.", t4_b2: "Objective: lens closest to the object.", t4_b3: "Stage: where the slide is placed.",
+    t4_inst: "Put the path of light in order (bottom to top)!",
+    t4_w1: "Light source", t4_w2: "Slide", t4_w3: "Objective", t4_w4: "Tube", t4_w5: "Ocular",
+    t4_q: "What do we place on the stage for observation?", t4_q_a: "A slide", t4_q_b: "A mirror", t4_q_c: "Glasses", t4_q_d: "A lamp",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge of cell biology basics!",
+    t5_b1: "Eukaryote = has nucleus.", t5_b2: "Plant cell = has cell wall and chloroplast.", t5_b3: "Microscope = door to the invisible world.",
+    t5_inst: "What do we call the energy-producing organelle?", t5_gap_sentence2: "The cell's 'power plant' is the {gap}.",
+    t5_c51: "mitochondria", t5_c52: "ribosome", t5_c53: "nucleus",
+    t5_q: "Which statement is TRUE about eukaryotic cells?", t5_q_a: "They have a defined nucleus.", t5_q_b: "They have no DNA.", t5_q_c: "They are always bacteria.", t5_q_d: "They only exist in non-living things.",
+  },
+  de: {
+    explorer_title: "Zellen und Mikroskop",
+    t1_title: "Die eukaryotische Zelle", t1_text: "Alle komplexen Organismen bestehen aus eukaryotischen Zellen, die einen Zellkern mit DNA besitzen.",
+    t1_b1: "Zellkern: Steuerzentrum (DNA).", t1_b2: "Zellmembran: dünne, flexible Schutzhülle.", t1_b3: "Mitochondrium: erzeugt Energie für die Zelle.",
+    t1_inst: "Klicke auf die Punkte und benenne die Zellteile!",
+    t1_area_nucleus: "Zellkern", t1_area_membrane: "Zellmembran", t1_area_mito: "Mitochondrium", t1_area_cyto: "Zellplasma",
+    t1_q: "Welcher Teil steuert die Vorgänge in der Zelle?", t1_q_a: "Zellkern", t1_q_b: "Vakuole", t1_q_c: "Zellwand", t1_q_d: "Geißeln",
+
+    t2_title: "Aufgaben der Organellen", t2_text: "Im Inneren der Zelle erledigen spezialisierte Organellen die täglichen Aufgaben.",
+    t2_b1: "Ribosomen: Fabriken für Proteine.", t2_b2: "Chloroplast: Ort der Fotosynthese (nur Pflanzen).", t2_b3: "Vakuole: Speicher für Nährstoffe und Wasser.",
+    t2_inst: "Verbinde das Organell mit seiner Funktion!",
+    t2_l1: "Mitochondrium", t2_r1: "Energiegewinnung", t2_l2: "Ribosom", t2_r2: "Proteinbildung", t2_l3: "Chloroplast", t2_r3: "Zucker aus Licht",
+    t2_q: "Welches Organell liefert der Zelle Energie?", t2_q_a: "Mitochondrium", t2_q_b: "Zellkern", t2_q_c: "Ribosom", t2_q_d: "Vakuole",
+
+    t3_title: "Prokaryot vs Eukaryot", t3_text: "Prokaryoten (Bakterien) sind einfach aufgebaut, während Eukaryoten komplexe Strukturen besitzen.",
+    t3_b1: "Prokaryot: kein Zellkern, DNA liegt frei im Plasma.", t3_b2: "Eukaryot: besitzt Zellkern und Organellen.", t3_b3: "Bakterien sind immer Prokaryoten.",
+    t3_inst: "Was unterscheidet Bakterien von unseren Zellen?", t3_gap_sentence: "Prokaryotische Zellen haben keinen echten {gap}.",
+    t3_c1: "Zellkern", t3_c2: "Zellsaft", t3_c3: "Farbstoff",
+    t3_q: "Welches Lebewesen ist ein Eukaryot?", t3_q_a: "Pilz", t3_q_b: "Bakterium", t3_q_c: "Blaualge", t3_q_d: "Virus",
+
+    t4_title: "Das Mikroskop", t4_text: "Das Mikroskop macht Zellen sichtbar. Die Vergrößerung wird durch Objektiv und Okular bestimmt.",
+    t4_b1: "Okular: Linse am Auge.", t4_b2: "Objektiv: Linse am Objekt.", t4_b3: "Objekttisch: Platz für das Präparat.",
+    t4_inst: "Bringe den Lichtweg in die richtige Reihenfolge!",
+    t4_w1: "Lichtquelle", t4_w2: "Präparat", t4_w3: "Objektiv", t4_w4: "Tubus", t4_w5: "Okular",
+    t4_q: "Was legen wir zur Untersuchung auf den Objekttisch?", t4_q_a: "Präparat", t4_q_b: "Spiegel", t4_q_c: "Brille", t4_q_d: "Lampe",
+
+    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen über die Grundlagen der Zellbiologie!",
+    t5_b1: "Eukaryot = mit Zellkern.", t5_b2: "Pflanzenzelle = mit Zellwand und Chloroplast.", t5_b3: "Mikroskop = Tor zur unsichtbaren Welt.",
+    t5_inst: "Wie nennt man das Energiekraftwerk der Zelle?", t5_gap_sentence2: "Das Kraftwerk der Zelle ist das {gap}.",
+    t5_c51: "Mitochondrium", t5_c52: "Ribosom", t5_c53: "Zellkern",
+    t5_q: "Was trifft auf eukaryotische Zellen zu?", t5_q_a: "Sie haben einen abgegrenzten Zellkern.", t5_q_b: "Sie haben keine DNA.", t5_q_c: "Es sind immer Bakterien.", t5_q_d: "Sie sind unbelebte Materie.",
+  },
   ro: {
-    // Round 1: Cell Cycle
-    r1_title: "Ciclul celular",
-    r1_text: "Ciclul celular este procesul de creștere, copiere a ADN-ului și diviziune. Are trei faze principale: G1, S și G2, urmate de mitoză (faza M).",
-    r1_fact1: "Faza G1: Celula crește și efectuează funcții normale",
-    r1_fact2: "Faza S: ADN-ul este copiat (replicare) — fiecare cromozom este duplicat",
-    r1_fact3: "Faza G2: Celula continuă să crească și se pregătește pentru diviziune",
-    r1_fact4: "Faza M: Mitoză — celula se divide în două celule fiice",
+    explorer_title: "Celule și Microscop",
+    t1_title: "Celula eucariotă", t1_text: "Toate organismele complexe sunt formate din celule eucariote, caracterizate printr-un nucleu cu ADN.",
+    t1_b1: "Nucleu: centrul de control (ADN).", t1_b2: "Membrană: înveliș subțire și elastic.", t1_b3: "Mitocondrie: produce energie pentru celulă.",
+    t1_inst: "Apasă pe puncte și numește părțile celulei!",
+    t1_area_nucleus: "Nucleu", t1_area_membrane: "Membrană", t1_area_mito: "Mitocondrie", t1_area_cyto: "Citoplasmă",
+    t1_q: "Care parte coordonează viața celulei?", t1_q_a: "Nucleul", t1_q_b: "Vacuola", t1_q_c: "Peretele celular", t1_q_d: "Cilii",
 
-    // Round 2: Mitosis
-    r2_title: "Etapele mitozei",
-    r2_text: "Mitoza este împărțită în patru etape. Fiecare etapă are o sarcină specifică în împărțirea egală a materialului genetic al celulei.",
-    r2_fact1: "Profază: Cromozomii se condensează și devin vizibili; se formează fibre de fus",
-    r2_fact2: "Metafază: Cromozomii se aliniază în mijlocul celulei",
-    r2_fact3: "Anafază: Cromatidele surori se separă și se mută la poli opuși",
-    r2_fact4: "Telofază: Se formează membrane nucleare și celula se strânge în mijloc",
+    t2_title: "Funcțiile organitelor", t2_text: "În interiorul celulei există unități specializate numite organite.",
+    t2_b1: "Ribozomi: 'fabricile' de proteine.", t2_b2: "Cloroplast: locul fotosintezei (doar la plante).", t2_b3: "Vacuolă: depozit de nutrienți și apă.",
+    t2_inst: "Potrivește organitul cu funcția sa!",
+    t2_l1: "Mitocondrie", t2_r1: "Producerea energiei", t2_l2: "Ribozom", t2_r2: "Sinteza proteinelor", t2_l3: "Cloroplast", t2_r3: "Zahăr din lumină",
+    t2_q: "Care organit este responsabil de energia celulei?", t2_q_a: "Mitocondria", t2_q_b: "Nucleul", t2_q_c: "Ribozomul", t2_q_d: "Vacuola",
 
-    // Round 3: Why Cells Divide
-    r3_title: "De ce se divid celulele?",
-    r3_text: "Celulele se divid din trei motive principale: pentru a crește organismul, pentru a repara țesuturile dăunate și pentru a se reproduce asexuat.",
-    r3_q: "Care este un motiv pentru care se divid celulele?",
-    r3_growth: "Organismele cresc prin creșterea numărului de celule",
-    r3_size: "Celulele devin mai mari decât mărimea normală",
-    r3_rest: "Celulele au nevoie de timp pentru a se odihni",
-    r3_nutrition: "Celulele au nevoie de mai mulți nutrienți",
+    t3_title: "Procariote vs Eucariote", t3_text: "Procariotele (ex: bacterii) sunt simple, în timp ce eucariotele au o rețea internă complexă.",
+    t3_b1: "Procariot: fără nucleu, ADN-ul este liber în citoplasmă.", t3_b2: "Eucariot: are nucleu și organite delimitate de membrane.", t3_b3: "Bacteriile sunt întotdeauna procariote.",
+    t3_inst: "Prin ce diferă bacteria de celulele noastre?", t3_gap_sentence: "Celulele procariote nu au un {gap} delimitat.",
+    t3_c1: "nucleu", t3_c2: "plasmă", t3_c3: "ADN",
+    t3_q: "Care organism este eucariot?", t3_q_a: "Ciuperca", t3_q_b: "Bacteria", t3_q_c: "Alga albastră", t3_q_d: "Virusul",
 
-    // Round 4: DNA and Chromosomes
-    r4_title: "ADN și cromozomi",
-    r4_text: "ADN-ul este răsucit strâns în structuri numite cromozomi. Oamenii au 46 de cromozomi (23 de perechi). În timpul mitozei, cromozomii sunt copiați, astfel încât fiecare celulă fiică să primească un set complet.",
-    r4_fact1: "ADN-ul conține instrucțiuni genetice (gene) pentru toate funcțiile celulare",
-    r4_fact2: "Cromozomii sunt formați din ADN răsucit strâns",
-    r4_fact3: "Atunci când ADN-ul se replicază, fiecare cromozom are două cromatide surori identice",
-    r4_fact4: "Cromatidele surori se separă în timpul anafazei pentru a asigura distribuția egală",
+    t4_title: "Utilizarea microscopului", t4_text: "Microscopul optic face celulele vizibile. Mărirea depinde de ocular și obiectiv.",
+    t4_b1: "Ocular: lentila apropiată de ochi.", t4_b2: "Obiectiv: lentila apropiată de obiect.", t4_b3: "Măsuță: locul unde se pune preparatul.",
+    t4_inst: "Pune în ordine drumul luminii (de jos în sus)!",
+    t4_w1: "Sursă lumină", t4_w2: "Preparat", t4_w3: "Obiectiv", t4_w4: "Tub", t4_w5: "Ocular",
+    t4_q: "Ce punem pe măsuța microscopului?", t4_q_a: "Preparatul", t4_q_b: "Oglinda", t4_q_c: "Ochelarii", t4_q_d: "Lampa",
 
-    // Round 5: Quiz
-    r5_title: "Recapitulare diviziune celulară",
+    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele despre bazele citologiei!",
+    t5_b1: "Eucariot = cu nucleu.", t5_b2: "Celulă vegetală = cu perete celular și cloroplast.", t5_b3: "Microscop = ușa către lumea invizibilă.",
+    t5_inst: "Cum numim centrala energetică a celulei?", t5_gap_sentence2: "Centrala energetică a celulei este {gap}.",
+    t5_c51: "mitocondria", t5_c52: "ribozomul", t5_c53: "nucleul",
+    t5_q: "Ce afirmație este ADEVĂRATĂ despre celulele eucariote?", t5_q_a: "Au un nucleu bine definit.", t5_q_b: "Nu au ADN.", t5_q_c: "Sunt întotdeauna bacterii.", t5_q_d: "Sunt materie nevie.",
+  }
+};
 
-    // Quiz Questions
-    q1_q: "Ce este faza S a ciclului celular?",
-    q1_a: "Sinteză (copiere ADN)",
-    q1_b: "Separarea cromatidelor surori",
-    q1_c: "Rotirea fibrelor de fus",
-    q1_d: "Contracția nucleului",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care etapă a mitozei are cromozomii aliniați în mijloc?",
-    q2_a: "Profază",
-    q2_b: "Metafază",
-    q2_c: "Anafază",
-    q2_d: "Telofază",
-
-    q3_q: "Câți cromozomi au oamenii?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <CellStructureSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "nucleus",  x: 50, y: 40, label: "t1_area_nucleus" },
+        { id: "membrane", x: 15, y: 55, label: "t1_area_membrane" },
+        { id: "mito",     x: 75, y: 65, label: "t1_area_mito" },
+        { id: "cyto",     x: 40, y: 20, label: "t1_area_cyto" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <CellStructureSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — Simple colored shapes
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-function CellCycleSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* G1 phase */}
-      <g>
-        <circle cx="50" cy="80" r="25" fill="#A8DADC" opacity="0.6" stroke="#457B9D" strokeWidth="1.5" />
-        <text x="50" y="75" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          G1
-        </text>
-        <text x="50" y="90" textAnchor="middle" fontSize="7" fill="#333">
-          Growth
-        </text>
-      </g>
-      {/* S phase */}
-      <g>
-        <circle cx="120" cy="50" r="25" fill="#F4A261" opacity="0.6" stroke="#D97706" strokeWidth="1.5" />
-        <text x="120" y="45" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          S
-        </text>
-        <text x="120" y="60" textAnchor="middle" fontSize="7" fill="#333">
-          DNA copy
-        </text>
-      </g>
-      {/* G2 phase */}
-      <g>
-        <circle cx="190" cy="80" r="25" fill="#76C893" opacity="0.6" stroke="#2D6A4F" strokeWidth="1.5" />
-        <text x="190" y="75" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          G2
-        </text>
-        <text x="190" y="90" textAnchor="middle" fontSize="7" fill="#333">
-          Prepare
-        </text>
-      </g>
-      {/* M phase (Mitosis) */}
-      <g>
-        <circle cx="120" cy="125" r="25" fill="#E76F51" opacity="0.6" stroke="#D62828" strokeWidth="1.5" />
-        <text x="120" y="120" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          M
-        </text>
-        <text x="120" y="135" textAnchor="middle" fontSize="7" fill="#333">
-          Divide
-        </text>
-      </g>
-      {/* Arrows showing cycle direction */}
-      <path d="M 70 70 L 100 55" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 145 55 L 165 70" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 190 105 L 150 115" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 95 115 L 75 100" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-    </svg>
-  );
-}
-
-function MitosisStageSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Prophase */}
-      <g>
-        <rect x="10" y="30" width="45" height="50" fill="#FFE0E6" opacity="0.5" stroke="#FF6B9D" strokeWidth="1.5" rx="3" />
-        <circle cx="32.5" cy="55" r="12" fill="#FFB6D9" opacity="0.6" stroke="#FF6B9D" strokeWidth="1" />
-        <text x="32.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Prophase
-        </text>
-      </g>
-
-      {/* Metaphase */}
-      <g>
-        <rect x="65" y="30" width="45" height="50" fill="#B7E4C7" opacity="0.5" stroke="#52B788" strokeWidth="1.5" rx="3" />
-        <line x1="70" y1="55" x2="105" y2="55" stroke="#2D6A4F" strokeWidth="2" />
-        <circle cx="75" cy="55" r="4" fill="#2D6A4F" />
-        <circle cx="100" cy="55" r="4" fill="#2D6A4F" />
-        <text x="87.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Metaphase
-        </text>
-      </g>
-
-      {/* Anaphase */}
-      <g>
-        <rect x="120" y="30" width="45" height="50" fill="#FFE5B4" opacity="0.5" stroke="#D97706" strokeWidth="1.5" rx="3" />
-        <circle cx="130" cy="40" r="4" fill="#D97706" />
-        <circle cx="150" cy="40" r="4" fill="#D97706" />
-        <circle cx="130" cy="70" r="4" fill="#D97706" />
-        <circle cx="150" cy="70" r="4" fill="#D97706" />
-        <text x="142.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Anaphase
-        </text>
-      </g>
-
-      {/* Telophase */}
-      <g>
-        <circle cx="175" cy="40" r="12" fill="#E6F3FF" opacity="0.6" stroke="#457B9D" strokeWidth="1" />
-        <circle cx="175" cy="70" r="12" fill="#E6F3FF" opacity="0.6" stroke="#457B9D" strokeWidth="1" />
-        <text x="175" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Telophase
-        </text>
-      </g>
-
-      <defs>
-        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#666" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-function WhyCellsDivideSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Growth */}
-      <g>
-        <circle cx="50" cy="40" r="15" fill="#76C893" opacity="0.5" stroke="#2D6A4F" strokeWidth="1.5" />
-        <text x="50" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          1
-        </text>
-        <text x="50" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Growth
-        </text>
-      </g>
-
-      {/* Repair */}
-      <g>
-        <circle cx="120" cy="40" r="15" fill="#FF9F5A" opacity="0.5" stroke="#D97706" strokeWidth="1.5" />
-        <text x="120" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          2
-        </text>
-        <text x="120" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Repair
-        </text>
-      </g>
-
-      {/* Reproduction */}
-      <g>
-        <circle cx="190" cy="40" r="15" fill="#E76F51" opacity="0.5" stroke="#D62828" strokeWidth="1.5" />
-        <text x="190" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          3
-        </text>
-        <text x="190" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Reproduce
-        </text>
-      </g>
-
-      {/* Parent cell dividing */}
-      <circle cx="120" cy="120" r="20" fill="#A8DADC" opacity="0.5" stroke="#457B9D" strokeWidth="2" />
-      <line x1="120" y1="100" x2="120" y2="140" stroke="#457B9D" strokeWidth="1.5" strokeDasharray="3" />
-      <circle cx="90" cy="120" r="12" fill="#B7E4C7" opacity="0.6" stroke="#52B788" strokeWidth="1" />
-      <circle cx="150" cy="120" r="12" fill="#B7E4C7" opacity="0.6" stroke="#52B788" strokeWidth="1" />
-    </svg>
-  );
-}
-
-function DNAChromosomeSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* DNA double helix */}
-      <g>
-        <path d="M 30 30 Q 40 50 30 70 Q 20 50 30 30" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-        <path d="M 40 35 Q 50 55 40 75 Q 30 55 40 35" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-        <circle cx="30" cy="50" r="3" fill="#FF6B9D" />
-        <circle cx="40" cy="60" r="3" fill="#FF6B9D" />
-        <text x="35" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          DNA
-        </text>
-      </g>
-
-      {/* Condensed chromosome */}
-      <g>
-        <path d="M 100 40 L 110 60 M 110 40 L 100 60" stroke="#FFD93D" strokeWidth="3" strokeLinecap="round" />
-        <text x="105" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Chromosome
-        </text>
-      </g>
-
-      {/* Sister chromatids */}
-      <g>
-        <path d="M 170 40 L 180 60 M 180 40 L 170 60" stroke="#87CEEB" strokeWidth="2.5" strokeLinecap="round" />
-        <path d="M 180 40 L 190 60 M 190 40 L 180 60" stroke="#87CEEB" strokeWidth="2.5" strokeLinecap="round" />
-        <circle cx="180" cy="50" r="2" fill="#333" />
-        <text x="180" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Sister
-        </text>
-        <text x="180" y="107" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Chromatids
-        </text>
-      </g>
-
-      {/* Labels showing progression */}
-      <path d="M 60 50 L 85 50" fill="none" stroke="#999" strokeWidth="1" markerEnd="url(#arrowhead2)" />
-      <path d="M 130 50 L 155 50" fill="none" stroke="#999" strokeWidth="1" markerEnd="url(#arrowhead2)" />
-
-      <defs>
-        <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#999" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const DIVISION_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <CellCycleSVG />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <MitosisStageSVG />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <WhyCellsDivideSVG />,
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_growth", "r3_size", "r3_rest", "r3_nutrition"],
-          answer: "r3_growth",
-        },
-      ],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <DNAChromosomeSVG />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <CellCycleSVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_a",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_b",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_b",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🔬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface DivisionExplorerProps {
+const CellExplorer = memo(function CellExplorer({
+  color = "#10B981", // Emerald-500 a biológiai sejtekhez
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_cells" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function DivisionExplorer({ lang = "en", onDone }: DivisionExplorerProps) {
-  return <ExplorerEngine def={DIVISION_EXPLORER_DEF} color="#E76F51" lang={lang} onDone={onDone} />;
-}
+export default CellExplorer;
