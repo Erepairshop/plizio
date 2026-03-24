@@ -79,7 +79,10 @@ const RatioSlider = memo(function RatioSlider({
   onDone,
 }: Props) {
   const t = L[lang] || L.en;
-  const maxRange = Math.ceil(targetPrice * 1.6);
+  // Auto-detect step: if targetPrice has decimals, use fine step
+  const decimals = String(targetPrice).includes(".") ? String(targetPrice).split(".")[1].length : 0;
+  const step = decimals > 0 ? Math.pow(10, -decimals) : (targetPrice <= 10 ? 1 : Math.max(1, Math.round(targetPrice / 50)));
+  const maxRange = Math.max(Math.ceil(targetPrice * 1.6 / step) * step, step * 10);
   const [guess, setGuess] = useState(0);
   const [solved, setSolved] = useState(false);
   const [wrongCount, setWrongCount] = useState(0);
@@ -139,7 +142,7 @@ const RatioSlider = memo(function RatioSlider({
           <div className="flex justify-between items-end mb-3">
             <span className="text-[10px] font-bold uppercase tracking-wider text-white/40">{t.task}</span>
             <span className="text-lg font-mono font-black" style={{ color }}>
-              {targetValue} {unitName} = {guess} {currency}
+              {targetValue} {unitName} = {parseFloat(guess.toFixed(decimals + 1))} {currency}
             </span>
           </div>
 
@@ -148,7 +151,7 @@ const RatioSlider = memo(function RatioSlider({
               type="range"
               min="0"
               max={maxRange}
-              step="1"
+              step={step}
               value={guess}
               onChange={(e) => { if (!solved) setGuess(Number(e.target.value)); }}
               disabled={solved}
