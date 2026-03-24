@@ -400,8 +400,8 @@ export const SexDeterminationSvg = memo(function SexDeterminationSvg({ lang = "d
         <path d="M 0 5 L 0 20 M -6 14 L 6 14" fill="none" stroke="rgba(236,72,153,0.3)" strokeWidth="3" />
         
         {/* Chromosomes */}
-        <ChromosomeX x="-12" y="5" color="#f472b6" />
-        <ChromosomeX x="12" y="5" color="#f472b6" />
+        <ChromosomeX x={-12} y={5} color="#f472b6" />
+        <ChromosomeX x={12} y={5} color="#f472b6" />
       </g>
 
       {/* ── Male (XY) ── */}
@@ -412,8 +412,8 @@ export const SexDeterminationSvg = memo(function SexDeterminationSvg({ lang = "d
         <path d="M 4 -4 L 14 -14 M 14 -14 L 8 -14 M 14 -14 L 14 -8" fill="none" stroke="rgba(59,130,246,0.3)" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
         
         {/* Chromosomes */}
-        <ChromosomeX x="-10" y="5" color="#60a5fa" />
-        <ChromosomeY x="15" y="10" color="#38bdf8" />
+        <ChromosomeX x={-10} y={5} color="#60a5fa" />
+        <ChromosomeY x={15} y={10} color="#38bdf8" />
       </g>
 
       {/* ── Labels ── */}
