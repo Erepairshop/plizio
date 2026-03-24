@@ -364,9 +364,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_q_355: "355",
     t3_q_345: "345",
     t3_q_435: "435",
-    t3_inst_interactive: "Folosește linia de numere: 234 + 100 = ?",
-    t3_h1_interactive: "Începe la 234 și sari 100 spații la dreapta",
-    t3_h2_interactive: "Aterizezi la 334",
+    t3_inst_interactive: "Folosește linia de numere: 250 + 100 = ?",
+    t3_h1_interactive: "Începe la 250 și sari 100 spații la dreapta",
+    t3_h2_interactive: "Aterizezi la 350",
   },
 };
 
