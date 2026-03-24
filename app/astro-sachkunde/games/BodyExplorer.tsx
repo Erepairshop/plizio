@@ -254,10 +254,10 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "label-diagram",
       areas: [
-        { id: "head",  x: 50, y: 15, label: "t1_area_head" },
-        { id: "arm",   x: 20, y: 40, label: "t1_area_arm" },
-        { id: "tummy", x: 50, y: 55, label: "t1_area_tummy" },
-        { id: "leg",   x: 40, y: 85, label: "t1_area_leg" },
+        { id: "head",  x: 50, y: 28, label: "t1_area_head" },
+        { id: "arm",   x: 35, y: 45, label: "t1_area_arm" },
+        { id: "tummy", x: 50, y: 57, label: "t1_area_tummy" },
+        { id: "leg",   x: 47, y: 80, label: "t1_area_leg" },
       ],
       instruction: "t1_inst",
       hint1: "t1_b1",
