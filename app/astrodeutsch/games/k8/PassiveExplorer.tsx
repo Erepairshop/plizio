@@ -30,7 +30,7 @@ const Topic3Svg = memo(function Topic3Svg() {
       <g transform="translate(120, 70)">
         <rect x="-90" y="-25" width="180" height="50" rx="8" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
         <text x="0" y="5" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">Modal + Partizip II + werden</text>
-        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">„muss erledigt werden“</text>
+        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">'muss erledigt werden'</text>
       </g>
     </svg>
   );

@@ -773,31 +773,31 @@ export default function AstroDeutschK7Page() {
         </div>
         <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
           {screen === "k7-konjunktiv-i-explorer" && (
-            <KonjunktivIExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <KonjunktivIExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-werden-passive-explorer" && (
-            <WerdenPassivExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <WerdenPassivExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-passiv-modal-explorer" && (
-            <PassivModalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <PassivModalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-stilmittel-explorer" && (
-            <StilmittelExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <StilmittelExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-kausal-konditional-explorer" && (
-            <KausalKonditionalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <KausalKonditionalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-konzessiv-final-explorer" && (
-            <KonzessivFinalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <KonzessivFinalExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-temporalsatz-explorer" && (
-            <TemporalsatzExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <TemporalsatzExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-infinitiv-construction-explorer" && (
-            <InfinitivConstructionExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <InfinitivConstructionExplorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
           {screen === "k7-review-explorer" && (
-            <ReviewK7Explorer color={explorerColor} lang={lang} onDone={handleMissionDone} onClose={() => setScreen("mission-select")} />
+            <ReviewK7Explorer color={explorerColor} lang={lang} onDone={handleMissionDone} />
           )}
         </div>
       </div>

@@ -16,7 +16,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="0" y="-30" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">Präsens Passiv</text>
         <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BBF7D0" stroke="#16A34A" strokeWidth="2" />
         <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#14532D" textAnchor="middle">wird + Partizip II</text>
-        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">„Das Auto wird repariert.“</text>
+        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">'Das Auto wird repariert.'</text>
       </g>
     </svg>
   );
@@ -30,7 +30,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <text x="0" y="-30" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Präteritum Passiv</text>
         <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
         <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#0284C7" textAnchor="middle">wurde + Partizip II</text>
-        <text x="0" y="45" fontSize="10" fill="#0369A1" textAnchor="middle">„Das Auto wurde repariert.“</text>
+        <text x="0" y="45" fontSize="10" fill="#0369A1" textAnchor="middle">'Das Auto wurde repariert.'</text>
       </g>
     </svg>
   );
@@ -58,7 +58,7 @@ const Topic4Svg = memo(function Topic4Svg() {
         <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#9D174D" textAnchor="middle">Futur I Passiv</text>
         <rect x="-100" y="-15" width="200" height="40" rx="8" fill="#FBCFE8" stroke="#DB2777" strokeWidth="2" />
         <text x="0" y="10" fontSize="12" fontWeight="bold" fill="#BE185D" textAnchor="middle">wird + Part. II + werden</text>
-        <text x="0" y="45" fontSize="10" fill="#9D174D" textAnchor="middle">„Das Auto wird repariert werden.“</text>
+        <text x="0" y="45" fontSize="10" fill="#9D174D" textAnchor="middle">'Das Auto wird repariert werden.'</text>
       </g>
     </svg>
   );

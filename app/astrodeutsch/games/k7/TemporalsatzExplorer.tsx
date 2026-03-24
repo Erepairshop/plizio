@@ -65,7 +65,7 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "Zeit & Sätze K7",
     // T1
     t1_title: "als oder wenn?",
-    t1_text: "Beide Wörter bedeuten 'mikor', aber die Regel ist streng: 'als' nutzt man für EINMALIGE Ereignisse in der Vergangenheit. 'wenn' nutzt man für wiederholte Ereignisse vagy für Gegenwart und Zukunft.",
+    t1_text: "Beide Wörter bedeuten 'mikor', aber die Regel ist streng: 'als' nutzt man für EINMALIGE Ereignisse in der Vergangenheit. 'wenn' nutzt man für wiederholte Ereignisse oder für Gegenwart und Zukunft.",
     t1_b1: "als: Als ich 6 Jahre alt war (einmalig).",
     t1_b2: "wenn: Immer wenn es regnete (wiederholt).",
     t1_b3: "wenn: Wenn ich Zeit habe (Gegenwart).",
@@ -106,7 +106,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T4
     t4_title: "seit / seitdem",
-    t4_text: "'seit' (Präposition) vagy 'seitdem' (Bindewort) nutzt man für Ereignisse, die in der Vergangenheit begonnen haben und bis JETZT andauern.",
+    t4_text: "'seit' (Präposition) oder 'seitdem' (Bindewort) nutzt man für Ereignisse, die in der Vergangenheit begonnen haben und bis JETZT andauern.",
     t4_b1: "seit: Seit gestern bin ich krank.",
     t4_b2: "seitdem: Seitdem er Sport treibt, ist er fit.",
     t4_b3: "Das Verb steht im Nebensatz am Ende.",
@@ -123,7 +123,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_b1: "als (einmalig Vergangenheit).",
     t5_b2: "nachdem + Plusquamperfekt.",
     t5_b3: "während (parallel).",
-    t5_inst: "Ist es ein Zeitpunkt (als/wenn) vagy eine Abfolge (bevor/nachdem)? Sortiere!",
+    t5_inst: "Ist es ein Zeitpunkt (als/wenn) oder eine Abfolge (bevor/nachdem)? Sortiere!",
     t5_h1: "'als' und 'wenn' fragen nach dem 'Wann'.",
     t5_h2: "'bevor' und 'nachdem' regeln die Reihenfolge.",
     t5_bucket_zp: "Zeitpunkt (Wann?)",
@@ -154,7 +154,7 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     explorer_title: "Timp și Propoziții",
     t1_inst: "Care cuvânt se potrivește pentru acest eveniment unic din trecut?",
-    t2_inst: "Așază propoziția cu „nachdem” în ordinea corectă!",
+    t2_inst: "Așază propoziția cu 'nachdem' în ordinea corectă!",
     t3_inst: "Care cuvânt se potrivește pentru simultaneitate?",
     t4_inst: "Marchează verbul de la finalul propoziției secundare!",
     t5_inst: "Este un moment în timp (als/wenn) sau o succesiune (bevor/nachdem)? Sortează-le!",

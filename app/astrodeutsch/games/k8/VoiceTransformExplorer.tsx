@@ -135,7 +135,7 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     explorer_title: "Maestru în Transformări",
     t1_inst: "Pune pașii transformării în ordinea corectă!",
-    t2_inst: "Transformă în activ: „Das Buch wird von dem Lehrer gelesen.”",
+    t2_inst: "Transformă în activ: 'Das Buch wird von dem Lehrer gelesen.'",
     t3_inst: "Care articol la dativ este corect?",
     t4_inst: "von, durch sau mit? Sortează propozițiile!",
     t5_inst: "Alege transformarea corectă la pasiv!",

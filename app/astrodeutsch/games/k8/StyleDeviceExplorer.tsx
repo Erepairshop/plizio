@@ -6,7 +6,7 @@ import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { SpeakButton } from "@/lib/astromath-tts";
-import MemoryPairCards from "./blocks/MemoryPairCards";
+import MemoryPairCards from "../blocks/MemoryPairCards";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -25,7 +25,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Finished!",
     tapToReveal: "Tap to reveal",
     correct: "Correct!",
-    discovery: "💡 Style devices (Stilmittel) make texts more expressive! Metapher (metaphor), Vergleich (simile), Alliteration, Personifikation — writers use them for effect.",
+    discovery: "💡 Stilmittel machen Texte ausdrucksstärker! Metapher, Vergleich, Alliteration, Personifikation — Autoren setzen sie gezielt ein.",
     definition: "Definition",
     example: "Example",
   },
@@ -65,7 +65,7 @@ const LABELS: Record<string, Record<string, string>> = {
     finish: "Fertig!",
     tapToReveal: "Antippen",
     correct: "Richtig!",
-    discovery: "💡 Style devices (Stilmittel) make texts more expressive! Metapher (metaphor), Vergleich (simile), Alliteration, Personifikation — writers use them for effect.",
+    discovery: "💡 Stilmittel machen Texte ausdrucksstärker! Metapher, Vergleich, Alliteration, Personifikation — Autoren setzen sie gezielt ein.",
     definition: "Definition",
     example: "Beispiel",
   },
@@ -235,7 +235,7 @@ function Round1({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color
                 <motion.div initial={{ opacity: 0, y: 3 }} animate={{ opacity: 1, y: 0 }}>
                   <p className="text-white/60 text-xs">{def}</p>
                   <div className="flex items-center justify-between gap-2 mt-0.5">
-                    <p className="text-white/80 text-sm font-semibold italic">„{sm.example}"</p>
+                    <p className="text-white/80 text-sm font-semibold italic">'{sm.example}"</p>
                     <SpeakButton text={sm.example} lang="de" size={14} />
                   </div>
                 </motion.div>

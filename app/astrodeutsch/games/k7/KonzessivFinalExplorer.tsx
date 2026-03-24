@@ -73,11 +73,11 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T2
     t2_title: "Final: damit vs. um...zu",
-    t2_text: "Finalsätze geben eine Absicht vagy ein Ziel an. 'um...zu' nutzt man bei gleichem Subjekt. 'damit' nutzt man, wenn die Subjekte unterschiedlich sind.",
+    t2_text: "Finalsätze geben eine Absicht oder ein Ziel an. 'um...zu' nutzt man bei gleichem Subjekt. 'damit' nutzt man, wenn die Subjekte unterschiedlich sind.",
     t2_b1: "um...zu: ICH lerne, UM (ich) gute Noten ZU bekommen.",
     t2_b2: "damit: ICH lerne, DAMIT MEINE ELTERN stolz sind.",
     t2_b3: "Beide antworten auf die Frage: Wozu? Zu welchem Zweck?",
-    t2_inst: "Brauchen wir 'damit' vagy 'um...zu'? Sortiere!",
+    t2_inst: "Brauchen wir 'damit' oder 'um...zu'? Sortiere!",
     t2_h1: "Wenn ein neues Subjekt (z.B. 'du', 'er', 'die Leute') kommt, nimm 'damit'.",
     t2_h2: "Bei einer Infinitiv-Konstruktion ohne neues Subjekt nimm 'um...zu'.",
     t2_bucket_um: "um...zu (gleiches Subjekt)",
@@ -92,7 +92,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_text: "Beide Wörter drücken einen Gegensatz aus, aber der Satzbau ist anders! 'obwohl' leitet einen Nebensatz ein (Verb am Ende). 'trotzdem' ist ein Adverb (Verb auf Position 2).",
     t3_b1: "obwohl: OBWOHL es regnet, GEHT er raus.",
     t3_b2: "trotzdem: Es regnet. TROTZDEM GEHT er raus.",
-    t3_b3: "Tipp: 'trotzdem' steht oft nach dem Punkt vagy Komma direkt vor dem Verb.",
+    t3_b3: "Tipp: 'trotzdem' steht oft nach dem Punkt oder Komma direkt vor dem Verb.",
     t3_inst: "Welches Wort verlangt das Verb direkt danach (Position 2)?",
     t3_h1: "Suche das Wort, das kein Nebensatz-Einleiter ist.",
     t3_h2: "Das Wort ist 'trotzdem'.",
@@ -103,7 +103,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T4
     t4_title: "Konsekutiv: sodass",
-    t4_text: "Konsekutivsätze geben eine Folge vagy eine Wirkung an. Das wichtigste Bindewort ist 'sodass' (vagy 'so ..., dass').",
+    t4_text: "Konsekutivsätze geben eine Folge oder eine Wirkung an. Das wichtigste Bindewort ist 'sodass' (oder 'so ..., dass').",
     t4_b1: "Folge: Es hat geschneit, SODASS die Straßen glatt sind.",
     t4_b2: "Trennung: Er schrie SO laut, DASS alle ihn hörten.",
     t4_b3: "Es ist ein Nebensatz (Verb am Ende).",
@@ -121,8 +121,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_b2: "trotzdem = Verb auf Pos. 2.",
     t5_b3: "um...zu = Infinitiv am Ende.",
     t5_inst: "Verbinde die logischen Paare!",
-    t5_h1: "Egy célhoz 'um...zu' vagy 'damit' kell.",
-    t5_h2: "Egy ellentéthez 'obwohl' vagy 'trotzdem'.",
+    t5_h1: "Egy célhoz 'um...zu' oder 'damit' kell.",
+    t5_h2: "Egy ellentéthez 'obwohl' oder 'trotzdem'.",
     t5_l1: "Gegengrund", t5_r1: "obwohl / trotzdem",
     t5_l2: "Absicht / Ziel", t5_r2: "damit / um...zu",
     t5_l3: "Folge / Wirkung", t5_r3: "sodass",
@@ -152,7 +152,7 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     explorer_title: "Opoziții și Scopuri",
     t1_inst: "Care cuvânt se potrivește pentru a numi un motiv contrar?",
-    t2_inst: "Avem nevoie de „damit” sau „um...zu”? Sortează-le!",
+    t2_inst: "Avem nevoie de 'damit' sau 'um...zu'? Sortează-le!",
     t3_inst: "Care cuvânt necesită verbul imediat după (Poziția 2)?",
     t4_inst: "Așază propoziția consecutivă în ordinea corectă!",
     t5_inst: "Conectează perechile logice!",

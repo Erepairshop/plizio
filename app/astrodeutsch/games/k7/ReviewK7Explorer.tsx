@@ -47,6 +47,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_b3: "ist gebaut worden (Perfekt)",
     t2_inst: "Welche Zeitform hat der Satz? Sortiere!",
     t2_h1: "'wird' = jetzt, 'wurde' = damals, 'worden' = abgeschlossen.",
+    t2_h2: "'ist ... worden' = Perfekt Passiv (abgeschlossene Handlung).",
     t2_bucket_prae: "Präsens Passiv",
     t2_bucket_praet: "Präteritum Passiv",
     t2_bucket_perf: "Perfekt Passiv",
@@ -169,7 +170,7 @@ const TOPICS: TopicDef[] = [
       ],
       instruction: "t2_inst",
       hint1: "t2_h1",
-      hint2: "t2_h1",
+      hint2: "t2_h2",
     },
     quiz: {
       question: "t2_q",

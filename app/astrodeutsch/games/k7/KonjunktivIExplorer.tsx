@@ -75,7 +75,7 @@ const LABELS: Record<string, Record<string, string>> = {
     // T2
     t2_title: "Indirekte Rede",
     t2_text: "Wir nutzen den Konjunktiv I, um die Aussagen anderer neutral wiederzugeben (z.B. in der Zeitung). So zeigen wir: Das ist nicht meine Meinung, sondern ein Zitat.",
-    t2_b1: "Direkt: Er sagt: „Ich habe keine Zeit.“",
+    t2_b1: "Direkt: Er sagt: 'Ich habe keine Zeit.'",
     t2_b2: "Indirekt: Er sagt, er habe keine Zeit.",
     t2_b3: "Oft wird 'dass' weggelassen, wenn das Verb im Konjunktiv I steht.",
     t2_inst: "Bringe den Satz in der indirekten Rede in die richtige Reihenfolge!",
@@ -87,7 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T3
     t3_title: "Konjunktiv I vs. Konjunktiv II",
-    t3_text: "Konjunktiv I nutzen wir für Berichte. Konjunktiv II nutzen wir für Wünsche vagy Träume. Aber: Wenn der Konjunktiv I wie der normale Indikativ (Präsens) aussieht, MUSS man den Konjunktiv II als Ersatz nehmen.",
+    t3_text: "Konjunktiv I nutzen wir für Berichte. Konjunktiv II nutzen wir für Wünsche oder Träume. Aber: Wenn der Konjunktiv I wie der normale Indikativ (Präsens) aussieht, MUSS man den Konjunktiv II als Ersatz nehmen.",
     t3_b1: "Konj. I: sie gehen (sieht aus wie Präsens!)",
     t3_b2: "Ersatz: sie gingen (Konjunktiv II)",
     t3_b3: "Konj. I = Distanz / Konj. II = Irrealität",
@@ -103,7 +103,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T4
     t4_title: "Ersatzformen (würde + Infinitiv)",
-    t4_text: "In der modernen Sprache (besonders beim Sprechen) nutzen wir oft 'würde' + Infinitiv, wenn die ragozott Konjunktiv-Formen zu altmodisch vagy kompliziert klingen.",
+    t4_text: "In der modernen Sprache (besonders beim Sprechen) nutzen wir oft 'würde' + Infinitiv, wenn die ragozott Konjunktiv-Formen zu altmodisch oder kompliziert klingen.",
     t4_b1: "alt: er hülfe",
     t4_b2: "modern: er würde helfen",
     t4_b3: "In der indirekten Rede ist Konj. I aber eleganter.",

@@ -16,7 +16,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">können + Passiv</text>
         <rect x="-100" y="-15" width="200" height="40" rx="8" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
         <text x="0" y="10" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">kann + Part. II + werden</text>
-        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">„Das Rätsel kann gelöst werden.“</text>
+        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">'Das Rätsel kann gelöst werden.'</text>
       </g>
     </svg>
   );
@@ -30,7 +30,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#B91C1C" textAnchor="middle">müssen + Passiv</text>
         <rect x="-100" y="-15" width="200" height="40" rx="8" fill="#FECACA" stroke="#EF4444" strokeWidth="2" />
         <text x="0" y="10" fontSize="12" fontWeight="bold" fill="#991B1B" textAnchor="middle">muss + Part. II + werden</text>
-        <text x="0" y="45" fontSize="10" fill="#B91C1C" textAnchor="middle">„Der Müll muss geleert werden.“</text>
+        <text x="0" y="45" fontSize="10" fill="#B91C1C" textAnchor="middle">'Der Müll muss geleert werden.'</text>
       </g>
     </svg>
   );
@@ -43,7 +43,7 @@ const Topic3Svg = memo(function Topic3Svg() {
       <g transform="translate(120, 70)">
         <text x="0" y="-25" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">Passiversatz: man</text>
         <path d="M -40,10 L 40,10" stroke="#22C55E" strokeWidth="2" markerEnd="url(#arrow)" />
-        <text x="0" y="35" fontSize="12" fill="#15803D" textAnchor="middle">Aktiv mit „man“ = Passiv-Sinn</text>
+        <text x="0" y="35" fontSize="12" fill="#15803D" textAnchor="middle">Aktiv mit 'man' = Passiv-Sinn</text>
       </g>
     </svg>
   );
@@ -105,7 +105,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "Suche nach dem Wort 'man' am Satzanfang.",
     t3_h2: "Sätze mit 'wird' sind Passiv.",
     t3_bucket_pas: "Passiv (wird...)",
-    t3_bucket_man: "Ersatz mit „man“",
+    t3_bucket_man: "Ersatz mit 'man'",
     t3_item_p1: "Das Fenster wird geöffnet.", t3_item_p2: "Hier wird getanzt.",
     t3_item_m1: "Man öffnet das Fenster.", t3_item_m2: "Man tanzt hier.",
     t3_q: "Welches Wort kann ein unpersönliches Passiv ersetzen?",
@@ -161,9 +161,9 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "Modale și Substituenți Pasivi",
     t1_inst: "Ce cuvânt auxiliar lipsește la finalul propoziției?",
     t2_inst: "Așază propoziția pasivă cu verb modal în ordinea corectă!",
-    t3_inst: "Este o propoziție la pasiv sau o propoziție cu „man”? Sortează!",
+    t3_inst: "Este o propoziție la pasiv sau o propoziție cu 'man'? Sortează!",
     t4_inst: "Leagă forma pasivă de substituentul ei!",
-    t5_inst: "Care propoziție are același înțeles ca: „Die Tür kann geöffnet werden.”?",
+    t5_inst: "Care propoziție are același înțeles ca: 'Die Tür kann geöffnet werden.'?",
   }
 };
 

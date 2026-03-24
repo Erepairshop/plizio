@@ -30,7 +30,7 @@ const Topic4Svg = memo(function Topic4Svg() {
         <text x="0" y="-30" fontSize="14" fontWeight="bold" fill="#5B21B6" textAnchor="middle">haben/sein + zu</text>
         <rect x="-90" y="0" width="180" height="35" rx="4" fill="#DDD6FE" />
         <text x="0" y="22" fontSize="11" fontWeight="bold" fill="#4C1D95" textAnchor="middle">müssen / können Ersatz</text>
-        <text x="0" y="45" fontSize="9" fill="#6D28D9" textAnchor="middle">„Das ist zu tun.“ = „Das muss getan werden.“</text>
+        <text x="0" y="45" fontSize="9" fill="#6D28D9" textAnchor="middle">'Das ist zu tun.' = 'Das muss getan werden.'</text>
       </g>
     </svg>
   );
@@ -109,7 +109,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_h2: "Der Teil ist 'um gesund zu bleiben'.",
     t5_w21: "Man", t5_w22: "muss", t5_w23: "Sport", t5_w24: "treiben,", t5_w25: "um", t5_w26: "gesund", t5_w27: "zu", t5_w28: "bleiben.",
     t5_q: "Welches Wort leitet eine Alternative ein?",
-    t5_q_a: "anstatt", t1_q_a: "ohne", t3_q_a: "um", t4_q_a: "damit",
+    t5_q_a: "anstatt", t5_q_b: "ohne", t5_q_c: "um", t5_q_d: "damit",
   },
   en: {
     explorer_title: "Infinitive Expert",
@@ -132,7 +132,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_inst: "Așază propoziția în ordinea corectă!",
     t2_inst: "Care cuvânt se potrivește în spațiu?",
     t3_inst: "Conectează părțile de propoziție potrivite!",
-    t4_inst: "Care propoziție are același înțeles ca „Das muss repariert werden.”?",
+    t4_inst: "Care propoziție are același înțeles ca 'Das muss repariert werden.'?",
     t5_inst: "Marchează construcția cu infinitiv din această propoziție!",
   }
 };

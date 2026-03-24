@@ -15,7 +15,7 @@ const Topic1Svg = memo(function Topic1Svg() {
       <g transform="translate(120, 70)">
         <path d="M -80,-20 h 160 v 40 h -160 z" fill="white" stroke="#0284C7" strokeWidth="2" />
         <path d="M -20,20 l 10,15 l 10,-15" fill="white" stroke="#0284C7" strokeWidth="2" />
-        <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">„Ich komme heute.“</text>
+        <text x="0" y="5" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">'Ich komme heute.'</text>
         <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">Direkte Rede (Anführungszeichen)</text>
       </g>
     </svg>
@@ -58,14 +58,14 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "Redewiedergabe K8",
     // T1
     t1_title: "Die direkte Rede",
-    t1_text: "Die direkte Rede gibt Worte genau so wieder, wie sie gesprochen wurden. Sie steht immer in Anführungszeichen. Ein Begleitsatz kann davor, danach vagy mittendrin stehen.",
-    t1_b1: "Vorangestellt: Er sagt: „Ich lerne.“",
-    t1_b2: "Nachgestellt: „Ich lerne“, sagt er.",
-    t1_b3: "Eingeschoben: „Ich“, sagt er, „lerne gerade.“",
+    t1_text: "Die direkte Rede gibt Worte genau so wieder, wie sie gesprochen wurden. Sie steht immer in Anführungszeichen. Ein Begleitsatz kann davor, danach oder mittendrin stehen.",
+    t1_b1: "Vorangestellt: Er sagt: 'Ich lerne.'",
+    t1_b2: "Nachgestellt: 'Ich lerne', sagt er.",
+    t1_b3: "Eingeschoben: 'Ich', sagt er, 'lerne gerade.'",
     t1_inst: "Bringe den Satz mit direkter Rede in die richtige Reihenfolge!",
     t1_h1: "Der Begleitsatz lautet 'Sie antwortete:'.",
-    t1_h2: "Danach kommen die Anführungszeichen unten „...“",
-    t1_w1: "Sie", t1_w2: "antwortete:", t1_w3: "„Das", t1_w4: "weiß", t1_w5: "ich", t1_w6: "nicht.“",
+    t1_h2: "Danach kommen die Anführungszeichen unten '...'",
+    t1_w1: "Sie", t1_w2: "antwortete:", t1_w3: "'Das", t1_w4: "weiß", t1_w5: "ich", t1_w6: "nicht.'",
     t1_q: "Welches Satzzeichen steht nach einem vorangestellten Begleitsatz?",
     t1_q_a: "Doppelpunkt", t1_q_b: "Komma", t1_q_c: "Semikolon", t1_q_d: "Punkt",
 
@@ -125,7 +125,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_h1: "Suche nach dem Verb am Ende.",
     t5_h2: "In der indirekten Rede nach 'dass' muss das Verb im Konjunktiv I stehen.",
     t5_w21: "Er", t5_w22: "erklärte,", t5_w23: "dass", t5_w24: "er", t5_w25: "heute", t5_w26: "keine", t5_w27: "Zeit", t5_w28: "hat.",
-    t5_q: "Wie wandelt man „Ich bin müde“ am besten in die indirekte Rede um?",
+    t5_q: "Wie wandelt man 'Ich bin müde' am besten in die indirekte Rede um?",
     t5_q_a: "Er sagte, er sei müde.", t5_q_b: "Er sagte, ich bin müde.", t5_q_c: "Er sagte: er sei müde.", t5_q_d: "Er sagt, dass er ist müde.",
   },
   en: {
@@ -166,7 +166,7 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "word-order",
-      words: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6"], // Sie antwortete: „Das weiß ich nicht.“
+      words: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6"], // Sie antwortete: 'Das weiß ich nicht.'
       correctOrder: [0, 1, 2, 3, 4, 5],
       instruction: "t1_inst",
       hint1: "t1_h1",

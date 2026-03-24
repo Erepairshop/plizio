@@ -116,7 +116,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_l1: "und / aber", t5_r1: "Satzreihe (HS+HS)",
     t5_l2: "weil / dass", t5_r2: "Satzgefüge (HS+NS)",
     t5_l3: "denn", t5_r3: "Satzreihe (HS+HS)",
-    t5_l4: "relativpronomen", t5_r4: "Satzgefüge (HS+NS)",
+    t5_l4: "Relativpronomen", t5_r4: "Satzgefüge (HS+NS)",
     t5_q: "Welches Satzglied ist 'wegen des Regens'?",
     t5_q_a: "Adverbiale Bestimmung des Grundes", t5_q_b: "Subjekt", t5_q_c: "Prädikat", t5_q_d: "Genitiv-Objekt",
   },

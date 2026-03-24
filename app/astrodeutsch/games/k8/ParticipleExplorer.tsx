@@ -16,7 +16,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#9A3412" textAnchor="middle">Partizip I (aktiv)</text>
         <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#FFEDD5" stroke="#EA580C" strokeWidth="2" />
         <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#9A3412" textAnchor="middle">Infinitiv + -d + Endung</text>
-        <text x="0" y="45" fontSize="10" fill="#C2410C" textAnchor="middle">„der spielende Hund“</text>
+        <text x="0" y="45" fontSize="10" fill="#C2410C" textAnchor="middle">'der spielende Hund'</text>
       </g>
     </svg>
   );
@@ -30,7 +30,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">Partizip II (passiv)</text>
         <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BBF7D0" stroke="#16A34A" strokeWidth="2" />
         <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#14532D" textAnchor="middle">ge...t/en + Endung</text>
-        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">„das verkaufte Auto“</text>
+        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">'das verkaufte Auto'</text>
       </g>
     </svg>
   );
@@ -42,7 +42,7 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     explorer_title: "Partizip-Profi K8",
     // T1
-    t1_title: "Partizip I mint jelző",
+    t1_title: "Partizip I als Attribut",
     t1_text: "Das Partizip I (Präsens) beschreibt eine Handlung, die GLEICHZEITIG und AKTIV passiert. Wir bilden es aus dem Infinitiv + 'd' und hängen die normale Adjektivendung an.",
     t1_b1: "singen + d + -er = der singende Vogel.",
     t1_b2: "laufen + d + -es = das laufende Kind.",
@@ -56,13 +56,13 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_q_a: "Gleichzeitigkeit und Aktivität", t1_q_b: "Abgeschlossenheit und Passivität", t1_q_c: "Die ferne Zukunft", t1_q_d: "Einen Befehl",
 
     // T2
-    t2_title: "Partizip II mint jelző",
+    t2_title: "Partizip II als Attribut",
     t2_text: "Das Partizip II (Perfekt) beschreibt eine Handlung, die ABGESCHLOSSEN ist oder PASSIVisch gemeint ist.",
     t2_b1: "kaufen ➔ das gekaufte Auto (Es wurde gekauft).",
     t2_b2: "öffnen ➔ das geöffnete Fenster (Es ist offen).",
     t2_b3: "Das Nomen 'erleidet' die Handlung.",
     t2_inst: "Partizip I (aktiv) oder Partizip II (passiv)? Sortiere!",
-    t2_h1: "Tut das Ding etwas selbst (I) vagy tettek vele valamit (II)?",
+    t2_h1: "Tut das Ding etwas selbst (I) oder wird etwas damit gemacht (II)?",
     t2_h2: "Ein 'bellender' Hund bellt selbst. Ein 'gekocht' Ei wurde gekocht.",
     t2_bucket_p1: "Partizip I (aktiv/gerade)",
     t2_bucket_p2: "Partizip II (passiv/fertig)",
@@ -102,15 +102,15 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T5
     t5_title: "Mixed Quiz",
-    t5_text: "Bist du bereit? Teste dein Wissen über Partizip I, II és az összetett szerkezetek használatát.",
+    t5_text: "Bist du bereit? Teste dein Wissen über Partizip I, II und die zusammengesetzten Konstruktionen használatát.",
     t5_b1: "-d- = aktiv / gleichzeitig.",
     t5_b2: "ge... = passiv / abgeschlossen.",
     t5_b3: "Großschreibung beachten, wenn das Partizip zum Nomen wird!",
     t5_inst: "Markiere das Partizip I (aktiv) in diesem Satz!",
-    t5_h1: "Suche nach der Endung '-ende' vagy '-ender'.",
+    t5_h1: "Suche nach der Endung '-ende' oder '-ender'.",
     t5_h2: "Das Wort ist 'strahlenden'.",
     t5_w21: "Wir", t5_w22: "genießen", t5_w23: "den", t5_w24: "Anblick", t5_w25: "der", t5_w26: "strahlenden", t5_w27: "Sonne.",
-    t5_q: "Welches Wort ist ein Partizip II, das als jelző (Attribut) verwendet wird?",
+    t5_q: "Welches Wort ist ein Partizip II, das als Attribut verwendet wird?",
     t5_q_a: "versteckt", t5_q_b: "versteckend", t5_q_c: "verstecken", t5_q_d: "versteckd",
   },
   en: {

@@ -1,5 +1,5 @@
 "use client";
-// ReviewExplorerK8 — Island i7: Abschlussprüfung Klasse 8 (Final Review K5)
+// ReviewExplorerK8 — Island i7: Abschlussprüfung Klasse 8 (Final Review K8)
 // Topics: 1) Redewiedergabe 2) Partizipialkonstruktionen 3) Stilmittel 4) Satzanalyse 5) Aktiv/Passiv Transformation
 
 import { memo } from "react";
@@ -77,7 +77,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_b1: "Satzgefüge: Er liest, weil er Zeit hat.",
     t4_b2: "Satzreihe: Er liest und er hört Musik.",
     t4_b3: "Subjekt, Prädikat, Objekt, Adverbiale.",
-    t4_inst: "Ist es ein Satzgefüge vagy eine Satzreihe? Sortiere!",
+    t4_inst: "Ist es ein Satzgefüge oder eine Satzreihe? Sortiere!",
     t4_h1: "'weil' leitet einen Nebensatz ein (Gefüge).",
     t4_h2: "'und' verbindet Hauptsätze (Reihe).",
     t4_bucket_sr: "Satzreihe (HS+HS)",

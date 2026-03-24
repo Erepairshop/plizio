@@ -17,7 +17,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <circle cx="-40" cy="5" r="25" fill="#BAE6FD" opacity="0.6" />
         <circle cx="40" cy="5" r="25" fill="#7DD3FC" opacity="0.6" />
         <path d="M -15,5 L 15,5" stroke="#0EA5E9" strokeWidth="2" markerEnd="url(#arrow)" />
-        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">Ein Bild im Kopf (ohne „wie“)</text>
+        <text x="0" y="45" fontSize="10" fill="#0284C7" textAnchor="middle">Ein Bild im Kopf (ohne 'wie')</text>
       </g>
     </svg>
   );
@@ -60,7 +60,7 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "Stilmittel-Detektiv",
     // T1
     t1_title: "Die Metapher",
-    t1_text: "Eine Metapher ist eine bildliche Ausdrucksweise. Ein Wort wird aus seinem eigentlichen Bereich in einen anderen übertragen. Man sagt nicht „er ist WIE ein Löwe“, sondern nutzt das Bild direkt.",
+    t1_text: "Eine Metapher ist eine bildliche Ausdrucksweise. Ein Wort wird aus seinem eigentlichen Bereich in einen anderen übertragen. Man sagt nicht 'er ist WIE ein Löwe', sondern nutzt das Bild direkt.",
     t1_b1: "Beispiel: Warteschlange (Menschen stehen wie eine Schlange).",
     t1_b2: "Beispiel: Rabenmutter, Mauer des Schweigens.",
     t1_b3: "Metaphern machen Texte lebendig und kreativ.",
@@ -70,11 +70,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_gap_sentence: "Er ist eine fleißige {gap}.",
     t1_c1: "Biene", t1_c2: "Person", t1_c3: "Maschine",
     t1_q: "Was ist das Hauptmerkmal einer Metapher?",
-    t1_q_a: "Ein Bild ohne das Wort „wie“", t1_q_b: "Ein Vergleich mit „wie“", t1_q_c: "Die Wiederholung von Wörtern", t1_q_d: "Ein Reim am Ende",
+    t1_q_a: "Ein Bild ohne das Wort 'wie'", t1_q_b: "Ein Vergleich mit 'wie'", t1_q_c: "Die Wiederholung von Wörtern", t1_q_d: "Ein Reim am Ende",
 
     // T2
     t2_title: "Der Vergleich",
-    t2_text: "Ein Vergleich verbindet zwei Bereiche durch eine Gemeinsamkeit. Das wichtigste Signalwort ist dabei fast immer das Wort „wie“ (oder seltener „als“).",
+    t2_text: "Ein Vergleich verbindet zwei Bereiche durch eine Gemeinsamkeit. Das wichtigste Signalwort ist dabei fast immer das Wort 'wie' (oder seltener 'als').",
     t2_b1: "Beispiel: Stark wie ein Löwe.",
     t2_b2: "Beispiel: Weiß wie Schnee.",
     t2_b3: "Zwei Dinge werden in Bezug gesetzt.",
@@ -91,8 +91,8 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Beispiel: Die Sonne lacht.",
     t3_b2: "Beispiel: Der Wind heult.",
     t3_b3: "Beispiel: Das Glück klopft an die Tür.",
-    t3_inst: "Ist es eine Personifikation vagy eine normale Beschreibung? Sortiere!",
-    t3_h1: "Kann ein Ding wirklich „weinen“ vagy „lachen“? Dann ist es eine Personifikation.",
+    t3_inst: "Ist es eine Personifikation oder eine normale Beschreibung? Sortiere!",
+    t3_h1: "Kann ein Ding wirklich 'weinen' oder 'lachen'? Dann ist es eine Personifikation.",
     t3_h2: "Beispiel: 'Der Himmel weint' bedeutet es regnet.",
     t3_bucket_pers: "Personifikation",
     t3_bucket_norm: "Normal",
@@ -119,7 +119,7 @@ const LABELS: Record<string, Record<string, string>> = {
 
     // T5
     t5_title: "Gemischtes Quiz",
-    t5_text: "Kannst du die Stilmittel im Text erkennen? Achte auf „wie“, auf menschliche Verben und auf Anfangsbuchstaben.",
+    t5_text: "Kannst du die Stilmittel im Text erkennen? Achte auf 'wie', auf menschliche Verben und auf Anfangsbuchstaben.",
     t5_b1: "wie = Vergleich.",
     t5_b2: "Bild = Metapher.",
     t5_b3: "menschlich = Personifikation.",
@@ -127,7 +127,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_h1: "Der Satz lautet: 'Die Blätter tanzten im Wind.'",
     t5_h2: "Können Blätter wirklich tanzen? Nein, das ist eine Personifikation.",
     t5_w21: "Die", t5_w22: "Blätter", t5_w23: "tanzten", t5_w24: "fröhlich", t5_w25: "im", t5_w26: "Wind.",
-    t5_q: "Welches Stilmittel nutzt „Veni, vidi, vici“ (Ich kam, ich sah, ich siegte)?",
+    t5_q: "Welches Stilmittel nutzt 'Veni, vidi, vici' (Ich kam, ich sah, ich siegte)?",
     t5_q_a: "Anapher", t5_q_b: "Metapher", t5_q_c: "Vergleich", t5_q_d: "Alliteration",
   },
   en: {
