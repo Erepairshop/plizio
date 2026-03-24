@@ -1,191 +1,307 @@
 "use client";
+// WerdenPassivExplorer — Island i2: Passiv in verschiedenen Zeiten (K7)
+// Topics: 1) Präsens Passiv 2) Präteritum Passiv 3) Perfekt Passiv 4) Futur I Passiv 5) Mixed Quiz
 
-import React from "react";
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-30" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">Präsens Passiv</text>
+        <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BBF7D0" stroke="#16A34A" strokeWidth="2" />
+        <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#14532D" textAnchor="middle">wird + Partizip II</text>
+        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">„Das Auto wird repariert.“</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-30" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Präteritum Passiv</text>
+        <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
+        <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#0284C7" textAnchor="middle">wurde + Partizip II</text>
+        <text x="0" y="45" fontSize="10" fill="#0369A1" textAnchor="middle">„Das Auto wurde repariert.“</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#9A3412" textAnchor="middle">Perfekt Passiv</text>
+        <rect x="-100" y="-15" width="200" height="40" rx="8" fill="#FFEDD5" stroke="#EA580C" strokeWidth="2" />
+        <text x="0" y="10" fontSize="12" fontWeight="bold" fill="#C2410C" textAnchor="middle">ist + Part. II + worden</text>
+        <text x="0" y="45" fontSize="10" fill="#9A3412" textAnchor="middle">ACHTUNG: worden (nicht geworden!)</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FDF2F8" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#9D174D" textAnchor="middle">Futur I Passiv</text>
+        <rect x="-100" y="-15" width="200" height="40" rx="8" fill="#FBCFE8" stroke="#DB2777" strokeWidth="2" />
+        <text x="0" y="10" fontSize="12" fontWeight="bold" fill="#BE185D" textAnchor="middle">wird + Part. II + werden</text>
+        <text x="0" y="45" fontSize="10" fill="#9D174D" textAnchor="middle">„Das Auto wird repariert werden.“</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
-    r1_info_title: "🔧 Werden-Passiv Basics",
-    r1_info_text: "Das Werden-Passiv wird mit werden + Partizip II gebildet. Es betont den Prozess oder die Aktion. Präsens: 'Das Haus wird gebaut.' Präteritum: 'Das Haus wurde gebaut.' Perfekt: 'Das Haus ist gebaut worden.' Das Werden-Passiv zeigt, dass etwas gerade passiert oder passiert ist.",
-    r1_q: "Welcher Satz ist Werden-Passiv Präsens?",
-    r1_a1: "Der Brief wird geschrieben.",
-    r1_a2: "Der Brief ist geschrieben.",
-    r1_a3: "Der Brief wird schreiben.",
-    r1_a4: "Der Brief schreibt.",
-    r2_info_title: "⏰ Zeitformen des Werden-Passiv",
-    r2_info_text: "Präsens: wird + Partizip II (wird gebaut). Präteritum: wurde + Partizip II (wurde gebaut). Perfekt: ist + Partizip II + worden (ist gebaut worden). Die Formen zeigen, wann der Prozess stattfindet.",
-    r2_q: "Präteritum Werden-Passiv zu 'bauen':?",
-    r2_a1: "wurde gebaut",
-    r2_a2: "wird gebaut",
-    r2_a3: "ist gebaut worden",
-    r2_a4: "baute",
-    r3_info_title: "🔀 Umformung: Aktiv → Werden-Passiv",
-    r3_info_text: "Aktiv: 'Der Schüler schreibt den Aufsatz.' Werden-Passiv: 'Der Aufsatz wird von dem Schüler geschrieben.' Das Objekt wird zum Subjekt, das Subjekt zur von-Phrase, das Verb wird zu werden + Partizip II.",
-    r3_q: "Werden-Passiv zu: 'Ich repariere das Auto.'",
-    r3_a1: "Das Auto wird von mir repariert.",
-    r3_a2: "Das Auto repariert mich.",
-    r3_a3: "Das Auto ist repariert.",
-    r3_a4: "Ich werde das Auto reparieren.",
-    r4_info_title: "✨ Agensangabe: 'von' vs. 'durch'",
-    r4_info_text: "Die Agensangabe zeigt, wer die Handlung macht: 'Das Haus wird von dem Architekten geplant.' (von = Person). 'Das Haus wird durch Sturm beschädigt.' (durch = Kraft/Instrument). 'von' für Personen, 'durch' für Kräfte oder Mittel.",
-    r4_q: "Was ist richtig? 'Das Lied wird ____ Beethoven komponiert.'",
-    r4_a1: "von",
-    r4_a2: "durch",
-    r4_a3: "mit",
-    r4_a4: "zu",
-    r5_info_title: "✅ Wiederholung: Werden-Passiv",
-    r5_info_text: "Teste dein Wissen!",
-    r5_q1: "Präsens Werden-Passiv von 'bringen': Das Paket wird ___.",
-    r5_q1_a1: "gebracht",
-    r5_q1_a2: "brächte",
-    r5_q1_a3: "bringt",
-    r5_q1_a4: "wird bringen",
-    r5_q2: "Welcher Satz ist Werden-Passiv Perfekt?",
-    r5_q2_a1: "Das Fenster ist geputzt worden.",
-    r5_q2_a2: "Das Fenster wird geputzt.",
-    r5_q2_a3: "Das Fenster wurde geputzt.",
-    r5_q2_a4: "Das Fenster putzt sich.",
-    r5_q3: "Agensangabe: 'Das Gemälde wird ___ Picasso gemalt.'",
-    r5_q3_a1: "von",
-    r5_q3_a2: "durch",
-    r5_q3_a3: "mit",
-    r5_q3_a4: "zu",
+    explorer_title: "Passiv-Zeiten K7",
+    // T1
+    t1_title: "Präsens Passiv",
+    t1_text: "Das Präsens Passiv beschreibt, was gerade geschieht. Wir brauchen das Hilfsverb 'werden' im Präsens und das Partizip II am Satzende.",
+    t1_b1: "Formel: wird/werden + Partizip II",
+    t1_b2: "Beispiel: Das Brot wird gebacken.",
+    t1_b3: "Aktiv: Man bäckt das Brot.",
+    t1_inst: "Welches Hilfsverb passt in den Präsens-Satz?",
+    t1_h1: "Das Subjekt 'Die Briefe' ist Plural.",
+    t1_h2: "Wir brauchen 'werden' (Plural).",
+    t1_gap_sentence: "Die Briefe {gap} heute abgeschickt.",
+    t1_c1: "werden", t1_c2: "wird", t1_c3: "wurden",
+    t1_q: "Wie lautet das Präsens Passiv von 'öffnen' (Singular)?",
+    t1_q_a: "wird geöffnet", t1_q_b: "wurde geöffnet", t1_q_c: "ist geöffnet worden", t1_q_d: "wird geöffnet werden",
+
+    // T2
+    t2_title: "Präteritum Passiv",
+    t2_text: "Wenn wir über die Vergangenheit berichten, nutzen wir das Präteritum von 'werden' (wurde).",
+    t2_b1: "Formel: wurde/wurden + Partizip II",
+    t2_b2: "Beispiel: Die Tür wurde geschlossen.",
+    t2_b3: "Wichtig in Berichten und Erzählungen.",
+    t2_inst: "Bringe den Präteritum-Passiv-Satz in die richtige Reihenfolge!",
+    t2_h1: "Beginne mit dem Subjekt 'Das Haus'.",
+    t2_h2: "Danach folgt das Hilfsverb 'wurde' und zuletzt das Partizip.",
+    t2_w1: "Das", t2_w2: "Haus", t2_w3: "wurde", t2_w4: "letztes", t2_w5: "Jahr", t2_w6: "gebaut.",
+    t2_q: "Welches Wort zeigt das Präteritum Passiv an?",
+    t2_q_a: "wurde", t2_q_b: "wird", t2_q_c: "ist", t2_q_d: "werde",
+
+    // T3
+    t3_title: "Perfekt Passiv",
+    t3_text: "Das Perfekt Passiv ist etwas komplizierter. Es nutzt 'sein' + Partizip II + 'worden'. Merke dir: 'worden' (nicht 'geworden')!",
+    t3_b1: "Formel: ist/sind + Partizip II + worden",
+    t3_b2: "Beispiel: Der Brief ist geschrieben worden.",
+    t3_b3: "Perfekt Passiv = Zustand in der Vergangenheit.",
+    t3_inst: "Welches Wort fehlt am Ende des Perfekt-Passiv-Satzes?",
+    t3_h1: "Im Passiv Perfekt nutzen wir nicht 'geworden'.",
+    t3_h2: "Die Kurzform lautet 'worden'.",
+    t3_gap_sentence2: "Das Fenster ist geputzt {gap}.",
+    t3_c1: "worden", t3_c2: "geworden", t3_c3: "werden",
+    t3_q: "Wie lautet die korrekte Formel für das Perfekt Passiv?",
+    t3_q_a: "sein + Partizip II + worden", t3_q_b: "haben + Partizip II + worden", t3_q_c: "werden + Partizip II + sein", t3_q_d: "sein + Partizip II + geworden",
+
+    // T4
+    t4_title: "Futur I Passiv",
+    t4_text: "Wenn etwas in der Zukunft geschehen wird, nutzen wir das Futur I Passiv. Das ist eine 'Doppel-Werden'-Konstruktion.",
+    t4_b1: "Formel: wird/werden + Partizip II + werden",
+    t4_b2: "Beispiel: Die Brücke wird repariert werden.",
+    t4_b3: "Das erste 'wird' steht auf Pos. 2, das 'werden' ganz am Ende.",
+    t4_inst: "Bringe den Futur-Passiv-Satz in die richtige Reihenfolge!",
+    t4_h1: "Das konjugierte 'wird' steht an Position 2.",
+    t4_h2: "Die Verben am Ende lauten: 'geklärt werden.'",
+    t4_w21: "Das", t4_w22: "Problem", t4_w23: "wird", t4_w24: "morgen", t4_w25: "geklärt", t4_w26: "werden.",
+    t4_q: "Was steht ganz am Ende eines Futur I Passiv-Satzes?",
+    t4_q_a: "werden", t4_q_b: "worden", t4_q_c: "wird", t4_q_d: "geworden",
+
+    // T5
+    t5_title: "Mixed Quiz",
+    t5_text: "Erkennst du alle Passiv-Zeiten? Teste dein Wissen über Präsens, Präteritum, Perfekt und Futur.",
+    t5_b1: "wird = Präsens",
+    t5_b2: "wurde = Präteritum",
+    t5_b3: "ist ... worden = Perfekt",
+    t5_inst: "Welche Zeitform hat der Passiv-Satz? Sortiere!",
+    t5_h1: "Suche nach den Signalwörtern (wurde, worden, werden).",
+    t5_h2: "'worden' gehört zum Perfekt.",
+    t5_bucket_prae: "Präsens Passiv",
+    t5_bucket_perf: "Perfekt Passiv",
+    t5_bucket_fut: "Futur Passiv",
+    t5_item_p1: "Es wird gemacht.", t5_item_p2: "Es ist gemacht worden.",
+    t5_item_f1: "Es wird gemacht werden.", t5_item_prae2: "Die Blumen werden gegossen.",
+    t5_q: "Welcher Satz steht im Präteritum Passiv?",
+    t5_q_a: "Die Torte wurde gegessen.", t5_q_b: "Die Torte wird gegessen.", t5_q_c: "Die Torte ist gegessen worden.", t5_q_d: "Die Torte wird gegessen werden.",
   },
   en: {
-    r1_info_title: "🔧 Werden-Passive Basics",
-    r1_info_text: "The werden-passive is formed with werden + past participle. It emphasizes the process or action. Present: 'Das Haus wird gebaut.' Preterite: 'Das Haus wurde gebaut.' Perfect: 'Das Haus ist gebaut worden.' The werden-passive shows something is happening or has happened.",
-    r1_q: "Which sentence is werden-passive present?",
-    r1_a1: "The letter is being written.",
-    r1_a2: "The letter is written.",
-    r1_a3: "The letter will write.",
-    r1_a4: "The letter writes.",
-    r2_info_title: "⏰ Tenses of Werden-Passive",
-    r2_info_text: "Present: wird + past participle (wird gebaut). Preterite: wurde + past participle (wurde gebaut). Perfect: ist + past participle + worden (ist gebaut worden). The forms show when the process occurs.",
-    r2_q: "Preterite werden-passive of 'bauen': ___.",
-    r2_a1: "wurde gebaut",
-    r2_a2: "wird gebaut",
-    r2_a3: "ist gebaut worden",
-    r2_a4: "baute",
-    r3_info_title: "🔀 Converting: Active → Werden-Passive",
-    r3_info_text: "Active: 'The student writes the essay.' Werden-passive: 'The essay is written by the student.' The object becomes the subject, the subject becomes the by-phrase, the verb becomes werden + past participle.",
-    r3_q: "Werden-passive for: 'I repair the car.'",
-    r3_a1: "The car is repaired by me.",
-    r3_a2: "The car repairs me.",
-    r3_a3: "The car is repaired.",
-    r3_a4: "I will repair the car.",
-    r4_info_title: "✨ Agent Phrase: 'von' vs. 'durch'",
-    r4_info_text: "The agent phrase shows who does the action: 'Das Haus wird von dem Architekten geplant.' (von = person). 'Das Haus wird durch Sturm beschädigt.' (durch = force/instrument). Use 'von' for people, 'durch' for forces or means.",
-    r4_q: "What's correct? 'The song is composed ___ Beethoven.'",
-    r4_a1: "by (person)",
-    r4_a2: "through (force)",
-    r4_a3: "with",
-    r4_a4: "to",
-    r5_info_title: "✅ Review: Werden-Passive",
-    r5_info_text: "Test your knowledge!",
-    r5_q1: "Present werden-passive of 'bring': The package is ___.",
-    r5_q1_a1: "brought",
-    r5_q1_a2: "would bring",
-    r5_q1_a3: "brings",
-    r5_q1_a4: "will bring",
-    r5_q2: "Which sentence is werden-passive perfect?",
-    r5_q2_a1: "The window has been cleaned.",
-    r5_q2_a2: "The window is being cleaned.",
-    r5_q2_a3: "The window was cleaned.",
-    r5_q2_a4: "The window cleans itself.",
-    r5_q3: "Agent phrase: 'The painting is painted ___ Picasso.'",
-    r5_q3_a1: "by (person)",
-    r5_q3_a2: "through (force)",
-    r5_q3_a3: "with",
-    r5_q3_a4: "to",
+    explorer_title: "Passive Tenses",
+    t1_inst: "Which auxiliary verb fits in the present passive sentence?",
+    t2_inst: "Put the past passive sentence in the correct order!",
+    t3_inst: "Which word is missing at the end of the perfect passive sentence?",
+    t4_inst: "Put the future passive sentence in the correct order!",
+    t5_inst: "Which tense does the passive sentence have? Sort them!",
   },
+  hu: {
+    explorer_title: "Szenvedő igeidők",
+    t1_inst: "Melyik segédige illik a jelen idejű (Präsens) passzív mondatba?",
+    t2_inst: "Tedd a múlt idejű (Präteritum) passzív mondatot a helyes sorrendbe!",
+    t3_inst: "Melyik szó hiányzik a befejezett múltú (Perfekt) passzív mondat végéről?",
+    t4_inst: "Tedd a jövő idejű (Futur) passzív mondatot a helyes sorrendbe!",
+    t5_inst: "Melyik igeidőben van a passzív mondat? Válogasd szét!",
+    t5_bucket_prae: "Jelen (Präsens)",
+    t5_bucket_perf: "Befejezett múlt (Perfekt)",
+    t5_bucket_fut: "Jövő (Futur)",
+  },
+  ro: {
+    explorer_title: "Timpurile Pasivului",
+    t1_inst: "Ce verb auxiliar se potrivește în propoziția la pasiv prezent?",
+    t2_inst: "Așază propoziția la pasiv preterit în ordinea corectă!",
+    t3_inst: "Ce cuvânt lipsește la finalul propoziției la pasiv perfect?",
+    t4_inst: "Așază propoziția la pasiv viitor în ordinea corectă!",
+    t5_inst: "La ce timp este propoziția pasivă? Sortează-le!",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"], // werden, wird, wurden
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5", "t2_w6"], // Das Haus wurde letztes Jahr gebaut.
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence2",
+      choices: ["t3_c1", "t3_c2", "t3_c3"], // worden, geworden, werden
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w21", "t4_w22", "t4_w23", "t4_w24", "t4_w25", "t4_w26"], // Das Problem wird morgen geklärt werden.
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "prae", label: "t5_bucket_prae" },
+        { id: "perf", label: "t5_bucket_perf" },
+        { id: "fut", label: "t5_bucket_fut" },
+      ],
+      items: [
+        { text: "t5_item_p1", bucketId: "prae" },
+        { text: "t5_item_p2", bucketId: "perf" },
+        { text: "t5_item_f1", bucketId: "fut" },
+        { text: "t5_item_prae2", bucketId: "prae" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_info_title",
-      infoText: "r1_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            🔧
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r1_q", choices: ["r1_a1", "r1_a2", "r1_a3", "r1_a4"], answer: "r1_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_info_title",
-      infoText: "r2_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fed7aa 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ⏰
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r2_q", choices: ["r2_a1", "r2_a2", "r2_a3", "r2_a4"], answer: "r2_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_info_title",
-      infoText: "r3_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e0e7ff 0%, #ddd6fe 100%)" }}>
-          <text x="60" y="85" textAnchor="middle" fontSize="48">
-            ➡️
-          </text>
-          <text x="180" y="85" textAnchor="middle" fontSize="48">
-            🔀
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r3_q", choices: ["r3_a1", "r3_a2", "r3_a3", "r3_a4"], answer: "r3_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_info_title",
-      infoText: "r4_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ✨
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r4_q", choices: ["r4_a1", "r4_a2", "r4_a3", "r4_a4"], answer: "r4_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_info_title",
-      infoText: "r5_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fcd34d 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ✅
-          </text>
-        </svg>
-      ),
-      questions: [
-        { question: "r5_q1", choices: ["r5_q1_a1", "r5_q1_a2", "r5_q1_a3", "r5_q1_a4"], answer: "r5_q1_a1" },
-        { question: "r5_q2", choices: ["r5_q2_a1", "r5_q2_a2", "r5_q2_a3", "r5_q2_a4"], answer: "r5_q2_a1" },
-        { question: "r5_q3", choices: ["r5_q3_a1", "r5_q3_a2", "r5_q3_a3", "r5_q3_a4"], answer: "r5_q3_a1" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "⏳",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color?: string;
-  lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function WerdenPassivExplorer({ color = "#3B82F6", lang = "de", onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const WerdenPassivExplorer = memo(function WerdenPassivExplorer({
+  color = "#16A34A",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={7} explorerId="deutsch_k7_passive_tenses" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default WerdenPassivExplorer;
