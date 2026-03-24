@@ -158,10 +158,10 @@ const RatioSlider = memo(function RatioSlider({
             <div className="absolute z-10 w-full h-3.5 bg-black/20 rounded-full overflow-hidden">
               <div className="h-full transition-all duration-75" style={{ width: `${guessPct}%`, backgroundColor: color }} />
             </div>
-            {/* Thumb */}
+            {/* Thumb — offset compensates for thumb width so it aligns with native range */}
             <div
               className="absolute z-10 w-5 h-5 bg-white rounded-full shadow-lg border-2 pointer-events-none transition-all duration-75"
-              style={{ left: `calc(${guessPct}% - 10px)`, borderColor: color }}
+              style={{ left: `calc(${guessPct}% - ${guessPct * 0.2}px)`, borderColor: color }}
             />
           </div>
 
