@@ -1,401 +1,360 @@
 "use client";
-// NerveExplorer — Klasse 7: Nervous System (Nervensystem)
-// Topics: Neurons, synapses, reflex arc, brain regions, review
-// Teaching-first pattern: R1-R4 info rounds + questions, R5 quiz
+// NerveExplorer.tsx — Bio Island i8: Idegrendszer (K7)
+// Topics: 1) Az idegsejt 2) Szinapszis 3) Az agy felépítése 4) A reflexív 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { NervousSystemSvg, BrainRegionsSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -40,-20 Q -20,0 -40,20" fill="none" stroke="#7C3AED" strokeWidth="6" strokeLinecap="round" />
+        <path d="M 40,-20 Q 20,0 40,20" fill="none" stroke="#A78BFA" strokeWidth="6" strokeLinecap="round" />
+        <circle cx="-15" cy="-5" r="3" fill="#8B5CF6" />
+        <circle cx="-10" cy="5" r="3" fill="#8B5CF6" />
+        <circle cx="-15" cy="15" r="3" fill="#8B5CF6" />
+        <text x="0" y="-40" fontSize="14" fill="#6D28D9" textAnchor="middle">⚡</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-60" y="10" fontSize="30" textAnchor="middle">🔨</text>
+        <path d="M -40,0 L 40,0" stroke="#EF4444" strokeWidth="3" markerEnd="url(#arrow)" strokeDasharray="4 2" />
+        <text x="60" y="10" fontSize="30" textAnchor="middle">🦵</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🧠</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Az Idegrendszer",
+    // T1: Idegsejt (Label-diagram)
+    t1_title: "Az idegsejt (Neuron)",
+    t1_text: "Az idegrendszer alapegysége a neuron. Feladata az ingerek felfogása és elektromos jelekké alakítása, majd továbbítása.",
+    t1_b1: "Sejttest: tartalmazza a sejtmagot.",
+    t1_b2: "Dendritek: rövid nyúlványok, amik fogadják a jeleket.",
+    t1_b3: "Axon: hosszú nyúlvány, ezen halad végig az ingerület.",
+    t1_inst: "Címkézd fel az idegsejt részeit!",
+    t1_area_body: "Sejttest",
+    t1_area_dendrite: "Dendrit",
+    t1_area_axon: "Axon",
+    t1_area_myelin: "Velőshüly (szigetelés)",
+    t1_q: "Melyik rész továbbítja az ingerületet a sejttesttől távolodva?",
+    t1_q_a: "Az axon", t1_q_b: "A dendrit", t1_q_c: "A sejtmag", t1_q_d: "A vakuólum",
+
+    // T2: Szinapszis
+    t2_title: "A szinapszis: Kapcsolódás",
+    t2_text: "Az idegsejtek nem érnek össze közvetlenül. A jelek átadásához egy speciális kapcsolódási pontra, a szinapszisra van szükség.",
+    t2_b1: "Ingerületátvivő anyagok: kémiai hírvivők a sejtek között.",
+    t2_b2: "Szinaptikus rés: az apró hézag a két sejt között.",
+    t2_b3: "Az elektromos jel itt kémiai jellé alakul.",
+    t2_inst: "Hogy nevezzük a sejtek közötti jeleket?",
+    t2_gap_sentence: "A sejtek közötti kommunikációért az {gap} felelősek.",
+    t2_c1: "ingerületátvivő anyagok", t2_c2: "csontsejtek", t2_c3: "vörösvértestek",
+    t2_q: "Mi történik a szinaptikus résben?",
+    t2_q_a: "Kémiai anyagok viszik át az információt", t2_q_b: "Összeolvad a két sejt", t2_q_c: "Elfogy az energia", t2_q_d: "Csont épül",
+
+    // T3: Agy (Label-diagram)
+    t3_title: "Az emberi agy",
+    t3_text: "Az agyunk a test főparancsnoksága. Különböző területei más-más funkciókért felelnek: a mozgástól az emlékezetig.",
+    t3_b1: "Nagyagy: a gondolkodás és tudatos mozgás központja.",
+    t3_b2: "Kisagy: az egyensúly és a mozgás koordinációja.",
+    t3_b3: "Agytörzs: az életfontosságú reflexek (légzés, szívverés) központja.",
+    t3_inst: "Címkézd fel az agy főbb részeit!",
+    t3_area_cerebrum: "Nagyagy",
+    t3_area_cerebellum: "Kisagy",
+    t3_area_brainstem: "Agytörzs",
+    t3_q: "Melyik agyi rész felelős az egyensúlyért és a finom mozgásokért?",
+    t3_q_a: "Kisagy", t3_q_b: "Nagyagy", t3_q_c: "Agytörzs", t3_q_d: "Gerincvelő",
+
+    // T4: Reflexív (Word-order)
+    t4_title: "A reflexív",
+    t4_text: "A reflex egy gyors, automatikus válasz egy ingerre. Az út, amit a jel megtesz a beérkezéstől a válaszig, a reflexív.",
+    t4_b1: "Érzősejt: felfogja az ingert (pl. forró tárgy).",
+    t4_b2: "Központ: feldolgozza az információt (többnyire a gerincvelőben).",
+    t4_b3: "Mozgatósejt: utasítja az izmot a válaszra (pl. rántsd el a kezed).",
+    t4_inst: "Tedd sorrendbe az ingerület útját a reflexívben!",
+    t4_w1: "Inger", t4_w2: "Érzősejt", t4_w3: "Központ", t4_w4: "Mozgatósejt", t4_w5: "Válasz",
+    t4_q: "Melyik reflex-típus segít elrántani a kezünket a forró kályhától?",
+    t4_q_a: "Feltétlen reflex", t4_q_b: "Tanult reflex", t4_q_c: "Lassú reflex", t4_q_d: "Nincs ilyen",
+
+    // T5: Review
+    t5_title: "Idegrendszeri összefoglaló",
+    t5_text: "Az idegrendszer összehangolja a test működését és lehetővé teszi a tanulást.",
+    t5_b1: "Neuron = ingerületvezetés.",
+    t5_b2: "Agy = központi vezérlés.",
+    t5_b3: "Reflex = automatikus védekezés.",
+    t5_inst: "Melyik szervünk a gondolkodás központja?",
+    t5_gap_sentence2: "A tudatos tevékenységeinket a(z) {gap} irányítja.",
+    t5_c51: "agy", t5_c52: "tüdő", t5_c53: "máj",
+    t5_q: "Melyik állítás HAMIS?",
+    t5_q_a: "Az idegsejtek között nincs közvetlen érintkezés.", t5_q_b: "Az agytörzs irányítja a légzést.", t5_q_c: "A neuronok csak a lábunkban vannak.", t5_q_d: "A reflexek gyorsabbak a tudatos döntésnél.",
+  },
   en: {
-    // Round 1: Neurons
-    r1_title: "Neurons: The Brain's Cells",
-    r1_text: "Neurons are specialized cells that send and receive electrical signals. They're the building blocks of the nervous system.",
-    r1_fact1: "Cell body (soma) — contains the nucleus and controls the neuron",
-    r1_fact2: "Dendrites — branching arms that RECEIVE signals from other neurons",
-    r1_fact3: "Axon — long extension that SENDS signals to other neurons",
-    r1_fact4: "Myelin sheath — insulation that speeds up electrical signals",
+    explorer_title: "The Nervous System",
+    t1_title: "The Neuron", t1_text: "The neuron is the basic unit of the nervous system. It captures stimuli, converts them into electrical signals, and transmits them.",
+    t1_b1: "Cell body: contains the nucleus.", t1_b2: "Dendrites: short branches that receive signals.", t1_b3: "Axon: long branch that carries the impulse away.",
+    t1_inst: "Label the parts of the neuron!",
+    t1_area_body: "Cell body", t1_area_dendrite: "Dendrite", t1_area_axon: "Axon", t1_area_myelin: "Myelin sheath",
+    t1_q: "Which part carries the impulse away from the cell body?", t1_q_a: "Axon", t1_q_b: "Dendrite", t1_q_c: "Nucleus", t1_q_d: "Vacuole",
 
-    // Round 2: Synapses
-    r2_title: "Synapses: The Connection Points",
-    r2_text: "Synapses are tiny gaps between neurons where signals jump from one cell to another using chemical messengers.",
-    r2_fact1: "Electrical signal travels down the axon",
-    r2_fact2: "Neurotransmitters (chemical messengers) are released across the gap",
-    r2_fact3: "Neurotransmitters bind to receptors on the next neuron",
-    r2_fact4: "This triggers an electrical signal in the next neuron",
+    t2_title: "The Synapse", t2_text: "Neurons don't touch directly. They use a special connection point called a synapse.",
+    t2_b1: "Neurotransmitters: chemical messengers between cells.", t2_b2: "Synaptic cleft: the tiny gap between two cells.", t2_b3: "Electrical signals turn into chemical signals here.",
+    t2_inst: "What are the chemical messengers called?", t2_gap_sentence: "Communication between cells is done by {gap}.",
+    t2_c1: "neurotransmitters", t2_c2: "bone cells", t2_c3: "red blood cells",
+    t2_q: "What happens in the synaptic cleft?", t2_q_a: "Chemicals transmit information", t2_q_b: "Cells merge", t2_q_c: "Energy is lost", t2_q_d: "Bones grow",
 
-    // Round 3: Reflex Arc
-    r3_title: "Reflex Arc: Quick Reactions",
-    r3_text: "A reflex arc is the fastest way your nervous system responds. Your hand pulls away from a hot stove before you feel pain!",
-    r3_fact1: "Receptor detects stimulus (heat, touch, pain)",
-    r3_fact2: "Sensory nerve sends signal to spinal cord",
-    r3_fact3: "Spinal cord processes and sends signal to motor nerve",
-    r3_fact4: "Motor nerve activates muscle — instant reaction without brain delay!",
+    t3_title: "The Human Brain", t3_text: "The brain is the body's headquarters. Different areas manage different functions.",
+    t3_b1: "Cerebrum: center for thinking and voluntary movement.", t3_b2: "Cerebellum: coordination of balance and movement.", t3_b3: "Brainstem: center for vital reflexes like breathing.",
+    t3_inst: "Label the main regions of the brain!",
+    t3_area_cerebrum: "Cerebrum", t3_area_cerebellum: "Cerebellum", t3_area_brainstem: "Brainstem",
+    t3_q: "Which part of the brain is responsible for balance?", t3_q_a: "Cerebellum", t3_q_b: "Cerebrum", t3_q_c: "Brainstem", t3_q_d: "Spinal cord",
 
-    // Round 4: Brain Regions
-    r4_title: "Brain Regions: The Control Center",
-    r4_text: "The brain has specialized regions. Each controls different functions like thinking, balance, and breathing.",
-    r4_fact1: "Cerebrum — largest part, handles thinking, learning, memory, emotions",
-    r4_fact2: "Cerebellum — coordinates balance and fine motor movements",
-    r4_fact3: "Brain stem — controls vital functions (breathing, heart rate, sleep)",
-    r4_fact4: "All parts work together to control your body",
+    t4_title: "The Reflex Arc", t4_text: "A reflex is a fast, automatic response to a stimulus. The path the signal takes is the reflex arc.",
+    t4_b1: "Sensory neuron: detects the stimulus.", t4_b2: "Center: processes info (usually in spinal cord).", t4_b3: "Motor neuron: commands the muscle to respond.",
+    t4_inst: "Put the impulse path in order!",
+    t4_w1: "Stimulus", t4_w2: "Sensory cell", t4_w3: "Center", t4_w4: "Motor cell", t4_w5: "Response",
+    t4_q: "Which reflex helps you pull your hand away from a hot stove?", t4_q_a: "Innate reflex", t4_q_b: "Learned reflex", t4_q_c: "Slow reflex", t4_q_d: "None",
 
-    // Round 5: Quiz
-    r5_title: "Nervous System Review",
-
-    // Quiz Questions
-    q1_q: "What do dendrites do?",
-    q1_receive: "Receive signals from other neurons",
-    q1_send: "Send signals to other neurons",
-    q1_insulate: "Insulate the axon",
-    q1_process: "Process signals in the brain",
-
-    q2_q: "What crosses the synapse between neurons?",
-    q2_neurotrans: "Neurotransmitters (chemical messengers)",
-    q2_electrical: "Electrical current",
-    q2_myelin: "Myelin sheath",
-    q2_axons: "Axon tips",
-
-    q3_q: "Which brain part controls breathing and heart rate?",
-    q3_stem: "Brain stem",
-    q3_cerebrum: "Cerebrum",
-    q3_cerebellum: "Cerebellum",
-    q3_cortex: "Cortex",
+    t5_title: "Nervous System Summary", t5_text: "The nervous system coordinates body functions and enables learning.",
+    t5_b1: "Neuron = signal transmission.", t5_b2: "Brain = central control.", t5_b3: "Reflex = automatic defense.",
+    t5_inst: "Which organ is the center of thinking?", t5_gap_sentence2: "Our conscious activities are directed by the {gap}.",
+    t5_c51: "brain", t5_c52: "lung", t5_c53: "liver",
+    t5_q: "Which statement is FALSE?", t5_q_a: "There is no direct contact between neurons.", t5_q_b: "Brainstem controls breathing.", t5_q_c: "Neurons are only in our feet.", t5_q_d: "Reflexes are faster than conscious decisions.",
   },
   de: {
-    r1_title: "Neuronen: Die Zellen des Gehirns",
-    r1_text: "Neuronen sind spezialisierte Zellen, die elektrische Signale senden und empfangen. Sie sind die Bausteine des Nervensystems.",
-    r1_fact1: "Zellkörper (Soma) — enthält den Kern und steuert das Neuron",
-    r1_fact2: "Dendriten — verzweigte Arme, die Signale von anderen Neuronen EMPFANGEN",
-    r1_fact3: "Axon — lange Verlängerung, die Signale an andere Neuronen SENDET",
-    r1_fact4: "Myelinscheide — Isolierung, die elektrische Signale beschleunigt",
+    explorer_title: "Das Nervensystem",
+    t1_title: "Das Neuron", t1_text: "Das Neuron ist die Grundeinheit des Nervensystems. Es wandelt Reize in elektrische Signale um.",
+    t1_b1: "Zellkörper: enthält den Zellkern.", t1_b2: "Dendriten: kurze Fortsätze, die Signale empfangen.", t1_b3: "Axon: langer Fortsatz, der den Impuls weiterleitet.",
+    t1_inst: "Beschrifte das Neuron!",
+    t1_area_body: "Zellkörper", t1_area_dendrite: "Dendrit", t1_area_axon: "Axon", t1_area_myelin: "Myelinscheide",
+    t1_q: "Welcher Teil leitet den Impuls vom Zellkörper weg?", t1_q_a: "Axon", t1_q_b: "Dendrit", t1_q_c: "Zellkern", t1_q_d: "Vakuole",
 
-    r2_title: "Synapsen: Die Verbindungspunkte",
-    r2_text: "Synapsen sind winzige Lücken zwischen Neuronen, wo Signale von einer Zelle zur anderen mit chemischen Botenstoffen springen.",
-    r2_fact1: "Elektrisches Signal wandert das Axon hinunter",
-    r2_fact2: "Neurotransmitter (chemische Botenstoffe) werden über die Lücke freigesetzt",
-    r2_fact3: "Neurotransmitter binden an Rezeptoren im nächsten Neuron",
-    r2_fact4: "Dies löst ein elektrisches Signal im nächsten Neuron aus",
+    t2_title: "Die Synapse", t2_text: "Neuronen berühren sich nicht direkt. Sie nutzen Synapsen zur Übertragung.",
+    t2_b1: "Neurotransmitter: chemische Botenstoffe.", t2_b2: "Synaptischer Spalt: die Lücke zwischen den Zellen.", t2_b3: "Elektrische Signale werden hier chemisch.",
+    t2_inst: "Wie heißen die chemischen Botenstoffe?", t2_gap_sentence: "Die Kommunikation erfolgt über {gap}.",
+    t2_c1: "Neurotransmitter", t2_c2: "Knochenzellen", t2_c3: "Blutkörperchen",
+    t2_q: "Was passiert im synaptischen Spalt?", t2_q_a: "Chemische Stoffe übertragen Infos", t2_q_b: "Zellen verschmelzen", t2_q_c: "Energie geht verloren", t2_q_d: "Knochen wachsen",
 
-    r3_title: "Reflexbogen: Schnelle Reaktionen",
-    r3_text: "Ein Reflexbogen ist die schnellste Art, wie dein Nervensystem reagiert. Deine Hand zieht sich von einem heißen Herd weg, bevor du Schmerz spürst!",
-    r3_fact1: "Rezeptor erkennt Reiz (Hitze, Berührung, Schmerz)",
-    r3_fact2: "Sensorneuron sendet Signal zum Rückenmark",
-    r3_fact3: "Rückenmark verarbeitet und sendet Signal an Motorneuron",
-    r3_fact4: "Motorneuron aktiviert Muskel — sofortige Reaktion ohne Gehirnverzögerung!",
+    t3_title: "Das Gehirn", t3_text: "Das Gehirn ist die Zentrale. Verschiedene Bereiche haben verschiedene Aufgaben.",
+    t3_b1: "Großhirn: Zentrum für Denken und Bewusstsein.", t3_b2: "Kleinhirn: Koordination von Gleichgewicht.", t3_b3: "Hirnstamm: Überlebenswichtige Reflexe (Atmung).",
+    t3_inst: "Beschrifte die Gehirnbereiche!",
+    t3_area_cerebrum: "Großhirn", t3_area_cerebellum: "Kleinhirn", t3_area_brainstem: "Hirnstamm",
+    t3_q: "Welcher Teil des Gehirns ist für das Gleichgewicht zuständig?", t3_q_a: "Kleinhirn", t3_q_b: "Großhirn", t3_q_c: "Hirnstamm", t3_q_d: "Rückenmark",
 
-    r4_title: "Gehirnregionen: Das Kontrollzentrum",
-    r4_text: "Das Gehirn hat spezialisierte Regionen. Jede kontrolliert verschiedene Funktionen wie Denken, Gleichgewicht und Atmung.",
-    r4_fact1: "Großhirn — größter Teil, verarbeitet Denken, Lernen, Gedächtnis, Gefühle",
-    r4_fact2: "Kleinhirn — koordiniert Gleichgewicht und feine Bewegungen",
-    r4_fact3: "Hirnstamm — steuert lebensnotwendige Funktionen (Atmung, Herzschlag, Schlaf)",
-    r4_fact4: "Alle Teile arbeiten zusammen, um deinen Körper zu steuern",
+    t4_title: "Der Reflexbogen", t4_text: "Ein Reflex ist eine schnelle, automatische Antwort auf einen Reiz.",
+    t4_b1: "Sinneszelle: nimmt den Reiz wahr.", t4_b2: "Zentrum: verarbeitet die Info (oft im Rückenmark).", t4_b3: "Motorische Zelle: befiehlt dem Muskel die Antwort.",
+    t4_inst: "Bringe den Reizweg in die richtige Reihenfolge!",
+    t4_w1: "Reiz", t4_w2: "Sinneszelle", t4_w3: "Zentrum", t4_w4: "Motorische Zelle", t4_w5: "Antwort",
+    t4_q: "Welcher Reflex hilft, die Hand von einer heißen Herdplatte wegzuziehen?", t4_q_a: "Unbedingter Reflex", t4_q_b: "Erlernter Reflex", t4_q_c: "Langsamer Reflex", t4_q_d: "Keiner",
 
-    r5_title: "Nervensystem Wiederholung",
-
-    q1_q: "Was tun Dendriten?",
-    q1_receive: "Empfangen Signale von anderen Neuronen",
-    q1_send: "Senden Signale an andere Neuronen",
-    q1_insulate: "Isolieren das Axon",
-    q1_process: "Verarbeiten Signale im Gehirn",
-
-    q2_q: "Was kreuzt die Synapse zwischen Neuronen?",
-    q2_neurotrans: "Neurotransmitter (chemische Botenstoffe)",
-    q2_electrical: "Elektrischer Strom",
-    q2_myelin: "Myelinscheide",
-    q2_axons: "Axonspitzen",
-
-    q3_q: "Welches Gehirnteil steuert Atmung und Herzschlag?",
-    q3_stem: "Hirnstamm",
-    q3_cerebrum: "Großhirn",
-    q3_cerebellum: "Kleinhirn",
-    q3_cortex: "Cortex",
-  },
-  hu: {
-    r1_title: "Neuronok: Az Agy Sejtjei",
-    r1_text: "A neuronok speciális sejtek, amelyek elektromos jeleket küldenek és fogadnak. Az idegrendszer építőkövei.",
-    r1_fact1: "Sejttörzs (soma) — tartalmazza az alapvetet és szabályozza a neuront",
-    r1_fact2: "Dendritek — elágazó karok, amelyek más neuronokból FOGADNAK jeleket",
-    r1_fact3: "Axon — hosszú kiterjesztés, amely jeleket KÜLd más neuronoknak",
-    r1_fact4: "Mielinhüvely — szigetelés, amely felgyorsítja az elektromos jeleket",
-
-    r2_title: "Szinapszisok: A Kapcsolódási Pontok",
-    r2_text: "A szinapszisok apró rések a neuronok között, ahol a jelek az egyik sejtből a másikba ugranak kémiai hírnökök segítségével.",
-    r2_fact1: "Az elektromos jel az axon mentén halad",
-    r2_fact2: "A neurotranszmitterek (kémiai hírnökök) a rés között szabadulnak fel",
-    r2_fact3: "A neurotranszmitterek a következő neuron receptoraihoz kötődnek",
-    r2_fact4: "Ez elektromos jelet indít el a következő neuronban",
-
-    r3_title: "Reflex Ív: Gyors Reakciók",
-    r3_text: "A reflex ív az az idegrendszered leggyorsabb módja a reagálásra. A kezed meghúzódik egy forró spórolótól, mielőtt még fájdalmat éreznél!",
-    r3_fact1: "A receptor észleli az ingert (hő, érintés, fájdalom)",
-    r3_fact2: "Az érzékelő idegsejt jelet küld a gerincvelőhöz",
-    r3_fact3: "A gerinc feldolgozza és jelet küld az izmot aktiváló idegsejtre",
-    r3_fact4: "Az izmot aktiváló idegsejt aktiválja az izmot — azonnali reakció agyértékítés nélkül!",
-
-    r4_title: "Agyi Régiók: Az Irányítóközpont",
-    r4_text: "Az agynak speciális régiói vannak. Mindegyik különböző funkciókat irányít, mint gondolkodás, egyensúly és légzés.",
-    r4_fact1: "Nagytekintély (nagyagy) — legnagyobb rész, gondolkodás, tanulás, memória, érzelmek",
-    r4_fact2: "Cerebellum (kisagy) — koordinálja az egyensúlyt és az apró mozgásokat",
-    r4_fact3: "Agytörzs — szabályozza az élettani funkciókat (légzés, szívritmus, alvás)",
-    r4_fact4: "Minden rész együtt dolgozik a tested irányításához",
-
-    r5_title: "Idegrendszer Áttekintés",
-
-    q1_q: "Mit tesznek a dendritek?",
-    q1_receive: "Jeleket fogadnak más neuronokból",
-    q1_send: "Jeleket küldenek más neuronoknak",
-    q1_insulate: "Szigetelésit adnak az axonnak",
-    q1_process: "Az agyban feldolgozzák a jeleket",
-
-    q2_q: "Mi keresztezi a szinapszist neuronok között?",
-    q2_neurotrans: "Neurotranszmitterek (kémiai hírnökök)",
-    q2_electrical: "Elektromos áram",
-    q2_myelin: "Mielinhüvely",
-    q2_axons: "Axon végződések",
-
-    q3_q: "Mely agyrész irányítja a légzést és a szívverést?",
-    q3_stem: "Agytörzs",
-    q3_cerebrum: "Nagytekintély",
-    q3_cerebellum: "Kisagy",
-    q3_cortex: "Cortex",
+    t5_title: "Zusammenfassung", t5_text: "Das Nervensystem steuert den Körper und ermöglicht Lernen.",
+    t5_b1: "Neuron = Signalübertragung.", t5_b2: "Gehirn = Zentrale Steuerung.", t5_b3: "Reflex = automatischer Schutz.",
+    t5_inst: "Welches Organ ist das Denkzentrum?", t5_gap_sentence2: "Bewusste Aktivitäten werden vom {gap} gesteuert.",
+    t5_c51: "Gehirn", t5_c52: "Lunge", t5_c53: "Leber",
+    t5_q: "Welche Aussage ist FALSCH?", t5_q_a: "Neuronen berühren sich direkt.", t5_q_b: "Hirnstamm steuert Atmung.", t5_q_c: "Neuronen sind im ganzen Körper.", t5_q_d: "Reflexe sind sehr schnell.",
   },
   ro: {
-    r1_title: "Neuroni: Celulele Creierului",
-    r1_text: "Neuronii sunt celule specializate care trimit și primesc semnale electrice. Sunt blocurile de construcție ale sistemului nervos.",
-    r1_fact1: "Corp celular (soma) — conține nucleul și controlează neuronul",
-    r1_fact2: "Dendrite — brațe ramificate care PRIMESC semnale de la alți neuroni",
-    r1_fact3: "Axon — extensie lungă care TRIMITE semnale altor neuroni",
-    r1_fact4: "Teacă de mielină — izolare care accelerează semnalele electrice",
+    explorer_title: "Sistemul Nervos",
+    t1_title: "Neuronul", t1_text: "Neuronul este unitatea de bază a sistemului nervos. Captează stimulii și îi transformă în semnale electrice.",
+    t1_b1: "Corp celular: conține nucleul.", t1_b2: "Dendrite: ramificații scurte care primesc semnale.", t1_b3: "Axon: ramificație lungă care transmite impulsul.",
+    t1_inst: "Etichetează părțile neuronului!",
+    t1_area_body: "Corp celular", t1_area_dendrite: "Dendrită", t1_area_axon: "Axon", t1_area_myelin: "Teacă de mielină",
+    t1_q: "Care parte transmite impulsul departe de corpul celular?", t1_q_a: "Axonul", t1_q_b: "Dendrita", t1_q_c: "Nucleul", t1_q_d: "Vacuola",
 
-    r2_title: "Sinapsa: Punctele de Conexiune",
-    r2_text: "Sinapsele sunt mica spații între neuroni unde semnalele sar de la o celulă la alta folosind mesageri chimici.",
-    r2_fact1: "Semnalul electric se deplasează pe axon",
-    r2_fact2: "Neurotransmiții (mesageri chimici) sunt eliberați peste gol",
-    r2_fact3: "Neurotransmiții se leagă de receptori pe neuronul următor",
-    r2_fact4: "Aceasta declanșează un semnal electric în neuronul următor",
+    t2_title: "Sinapsa", t2_text: "Neuronii nu se ating direct. Ei folosesc un punct de conexiune numit sinapsă.",
+    t2_b1: "Neurotransmițători: mesageri chimici între celule.", t2_b2: "Fantă sinaptică: spațiul mic dintre două celule.", t2_b3: "Semnalele electrice devin semnale chimice aici.",
+    t2_inst: "Cum se numesc mesagerii chimici?", t2_gap_sentence: "Comunicarea între celule se face prin {gap}.",
+    t2_c1: "neurotransmițători", t2_c2: "celule osoase", t2_c3: "globule roșii",
+    t2_q: "Ce se întâmplă în fanta sinaptică?", t2_q_a: "Substanțe chimice transmit info", t2_q_b: "Celulele fuzionează", t2_q_c: "Se pierde energia", t2_q_d: "Cresc oasele",
 
-    r3_title: "Arc Reflex: Reacții Rapide",
-    r3_text: "Un arc reflex este cea mai rapidă cale prin care sistemul nervos răspunde. Mâna ta se retrage de la o sobă fierbinte înainte de a simți durerea!",
-    r3_fact1: "Receptorul detectează stimulul (căldură, atingere, durere)",
-    r3_fact2: "Nervul senzorial trimite semnal măduvei spinării",
-    r3_fact3: "Măduva spinării procesează și trimite semnal nervului motor",
-    r3_fact4: "Nervul motor activează musculul — reacție instantanee fără întârziere cerebrală!",
+    t3_title: "Creierul Uman", t3_text: "Creierul este centrul de comandă. Diferite zone gestionează funcții diferite.",
+    t3_b1: "Creierul mare: centrul gândirii și mișcărilor voluntare.", t3_b2: "Creierul mic (Cerebel): coordonarea echilibrului.", t3_b3: "Trunchiul cerebral: centrul reflexelor vitale (respirație).",
+    t3_inst: "Etichetează regiunile principale ale creierului!",
+    t3_area_cerebrum: "Creier mare", t3_area_cerebellum: "Creier mic", t3_area_brainstem: "Trunchi cerebral",
+    t3_q: "Care parte a creierului este responsabilă de echilibru?", t3_q_a: "Creierul mic", t3_q_b: "Creierul mare", t3_q_c: "Trunchiul cerebral", t3_q_d: "Măduva spinării",
 
-    r4_title: "Regiuni Cerebrale: Centrul de Control",
-    r4_text: "Creierul are regiuni specializate. Fiecare controlează funcții diferite, cum ar fi gândirea, echilibrul și respirația.",
-    r4_fact1: "Cerebru — cea mai mare parte, gestionează gândirea, învățarea, memoria, emoțiile",
-    r4_fact2: "Cerebel — coordonează echilibrul și mișcările fine",
-    r4_fact3: "Trunchirul cerebral — controlează funcții vitale (respirație, ritm cardiac, somn)",
-    r4_fact4: "Toate părțile lucrează împreună pentru a controla corpul tău",
+    t4_title: "Arcul Reflex", t4_text: "Reflexul este un răspuns rapid, automat la un stimul. Calea urmată este arcul reflex.",
+    t4_b1: "Neuron senzitiv: detectează stimulul.", t4_b2: "Centru: procesează info (de obicei în măduva spinării).", t4_b3: "Neuron motor: comandă mușchiului răspunsul.",
+    t4_inst: "Pune calea impulsului în ordine!",
+    t4_w1: "Stimul", t4_w2: "Celulă senzitivă", t4_w3: "Centru", t4_w4: "Celulă motorie", t4_w5: "Răspuns",
+    t4_q: "Ce reflex te ajută să tragi mâna de pe o plită fierbinte?", t4_q_a: "Reflex necondiționat", t4_q_b: "Reflex învățat", t4_q_c: "Reflex lent", t4_q_d: "Niciunul",
 
-    r5_title: "Revizuire Sistem Nervos",
+    t5_title: "Recapitulare", t5_text: "Sistemul nervos coordonează corpul și permite învățarea.",
+    t5_b1: "Neuron = transmisie semnal.", t5_b2: "Creier = control central.", t5_b3: "Reflex = apărare automată.",
+    t5_inst: "Care organ este centrul gândirii?", t5_gap_sentence2: "Activitățile conștiente sunt dirijate de {gap}.",
+    t5_c51: "creier", t5_c52: "plămân", t5_c53: "ficat",
+    t5_q: "Care afirmație este FALSĂ?", t5_q_a: "Neuronii se ating direct.", t5_q_b: "Trunchiul cerebral controlează respirația.", t5_q_c: "Neuronii sunt în tot corpul.", t5_q_d: "Reflexele sunt mai rapide decât deciziile.",
+  }
+};
 
-    q1_q: "Ce fac dendritele?",
-    q1_receive: "Primesc semnale de la alți neuroni",
-    q1_send: "Trimit semnale altor neuroni",
-    q1_insulate: "Izolează axonul",
-    q1_process: "Procesează semnale în creier",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Ce traversează sinapsa între neuroni?",
-    q2_neurotrans: "Neurotransmitorii (mesageri chimici)",
-    q2_electrical: "Curent electric",
-    q2_myelin: "Teacă de mielină",
-    q2_axons: "Vârfuri de axon",
-
-    q3_q: "Care parte a creierului controlează respirația și ritmul cardiac?",
-    q3_stem: "Trunchi cerebral",
-    q3_cerebrum: "Cerebru",
-    q3_cerebellum: "Cerebel",
-    q3_cortex: "Cortex",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <NervousSystemSvg lang={lang} />, // Neuron view
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "body",     x: 30, y: 35, label: "t1_area_body" },
+        { id: "dendrite", x: 15, y: 20, label: "t1_area_dendrite" },
+        { id: "axon",     x: 60, y: 55, label: "t1_area_axon" },
+        { id: "myelin",   x: 75, y: 70, label: "t1_area_myelin" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"],
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <BrainRegionsSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "cerebrum",   x: 45, y: 30, label: "t3_area_cerebrum" },
+        { id: "cerebellum", x: 70, y: 70, label: "t3_area_cerebellum" },
+        { id: "brainstem",  x: 45, y: 80, label: "t3_area_brainstem" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — simple colored shapes, NO TEXT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-function R1SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Cell body (soma) */}
-      <circle cx="120" cy="50" r="16" fill="#8B5CF6" />
-      {/* Dendrites (branching) */}
-      <line x1="100" y1="40" x2="70" y2="20" stroke="#A78BFA" strokeWidth="2" />
-      <line x1="100" y1="45" x2="60" y2="35" stroke="#A78BFA" strokeWidth="2" />
-      <line x1="100" y1="50" x2="70" y2="60" stroke="#A78BFA" strokeWidth="2" />
-      <line x1="100" y1="55" x2="60" y2="70" stroke="#A78BFA" strokeWidth="2" />
-      {/* Axon (extending down-right with myelin sheath) */}
-      <line x1="135" y1="60" x2="180" y2="130" stroke="#7C3AED" strokeWidth="3" />
-      {/* Myelin sheath segments */}
-      <rect x="155" y="90" width="12" height="3" fill="#C4B5FD" rx="1" />
-      <rect x="165" y="105" width="12" height="3" fill="#C4B5FD" rx="1" />
-      {/* Axon terminal */}
-      <circle cx="185" cy="135" r="6" fill="#7C3AED" />
-    </svg>
-  );
-}
-
-function R2SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Sending neuron axon terminal (left) */}
-      <circle cx="40" cy="70" r="8" fill="#3B82F6" />
-      {/* Synaptic vesicles (small circles) */}
-      <circle cx="38" cy="65" r="2" fill="#1E40AF" />
-      <circle cx="42" cy="68" r="2" fill="#1E40AF" />
-      {/* Neurotransmitters crossing gap (arrows/dots) */}
-      <circle cx="80" cy="60" r="3" fill="#10B981" opacity="0.7" />
-      <circle cx="90" cy="65" r="3" fill="#10B981" opacity="0.7" />
-      <circle cx="100" cy="70" r="3" fill="#10B981" opacity="0.7" />
-      <circle cx="110" cy="75" r="3" fill="#10B981" opacity="0.7" />
-      {/* Receiving neuron (right) */}
-      <circle cx="150" cy="70" r="8" fill="#10B981" />
-      {/* Receptors on receiving neuron */}
-      <circle cx="145" cy="65" r="2" fill="#047857" />
-      <circle cx="152" cy="68" r="2" fill="#047857" />
-      {/* Signal propagation */}
-      <line x1="150" y1="60" x2="150" y2="20" stroke="#10B981" strokeWidth="2" />
-    </svg>
-  );
-}
-
-function R3SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Receptor (left) — stimulus detection */}
-      <circle cx="30" cy="50" r="10" fill="#F59E0B" />
-      {/* Hot stove stimulus */}
-      <circle cx="30" cy="25" r="8" fill="#EF4444" opacity="0.8" />
-      {/* Sensory nerve (blue line) */}
-      <line x1="30" y1="60" x2="80" y2="80" stroke="#3B82F6" strokeWidth="3" />
-      {/* Spinal cord (gray) */}
-      <rect x="75" y="70" width="20" height="30" fill="#9CA3AF" />
-      {/* Motor nerve (green line) */}
-      <line x1="100" y1="85" x2="180" y2="100" stroke="#10B981" strokeWidth="3" />
-      {/* Muscle (right) */}
-      <rect x="180" y="90" width="30" height="20" fill="#10B981" rx="2" />
-    </svg>
-  );
-}
-
-function R4SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Cerebrum (large, top) — purple */}
-      <ellipse cx="120" cy="55" rx="45" ry="35" fill="#8B5CF6" />
-      {/* Cerebellum (bottom, smaller) — blue */}
-      <ellipse cx="120" cy="110" rx="25" ry="20" fill="#3B82F6" />
-      {/* Brain stem (thin, bottom-center) — red */}
-      <rect x="115" y="125" width="10" height="25" fill="#EF4444" />
-      {/* Region separation lines (subtle) */}
-      <line x1="80" y1="85" x2="160" y2="85" stroke="rgba(255,255,255,0.2)" strokeWidth="1" strokeDasharray="3,3" />
-    </svg>
-  );
-}
-
-function R5SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Neuron (center) */}
-      <circle cx="120" cy="70" r="12" fill="#8B5CF6" />
-      {/* Dendrites (top) */}
-      <line x1="110" y1="60" x2="90" y2="30" stroke="#A78BFA" strokeWidth="2" />
-      <line x1="130" y1="60" x2="150" y2="30" stroke="#A78BFA" strokeWidth="2" />
-      {/* Axon (bottom) */}
-      <line x1="120" y1="82" x2="120" y2="130" stroke="#7C3AED" strokeWidth="2" />
-      {/* Brain regions (right) */}
-      <ellipse cx="200" cy="50" rx="20" ry="15" fill="#8B5CF6" opacity="0.5" />
-      <ellipse cx="200" cy="95" rx="15" ry="12" fill="#3B82F6" opacity="0.5" />
-      <rect x="195" y="115" width="10" height="20" fill="#EF4444" opacity="0.5" />
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const NERVE_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <R1SVG />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <R2SVG />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <R3SVG />,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <R4SVG />,
-      questions: [
-        {
-          question: "q3_q",
-          choices: ["q3_stem", "q3_cerebrum", "q3_cerebellum", "q3_cortex"],
-          answer: "q3_stem",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r1_text",
-      svg: () => <R5SVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_receive", "q1_send", "q1_insulate", "q1_process"],
-          answer: "q1_receive",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_neurotrans", "q2_electrical", "q2_myelin", "q2_axons"],
-          answer: "q2_neurotrans",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_stem", "q3_cerebrum", "q3_cerebellum", "q3_cortex"],
-          answer: "q3_stem",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🧠",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function NerveExplorer({
-  color = "#8B5CF6",
-  lang = "en",
+const NerveExplorer = memo(function NerveExplorer({
+  color = "#7C3AED", // Violet-600 az idegrendszerhez
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={NERVE_EXPLORER_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_nerve" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default NerveExplorer;
