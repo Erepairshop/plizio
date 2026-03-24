@@ -334,7 +334,7 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
-      min: 100, max: 500, start: 100, target: 300, step: 100,
+      min: 100, max: 500, start: 100, target: 500, step: 100,
       instruction: "t1_inst",
       hint1: "t1_h1",
       hint2: "t1_h2",
@@ -354,7 +354,7 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
-      min: 1000, max: 3000, start: 1000, target: 2000, step: 500,
+      min: 1000, max: 3000, start: 1000, target: 3000, step: 500,
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",

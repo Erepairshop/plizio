@@ -1,419 +1,358 @@
 "use client";
-// CellExplorer — Cell Structure (Zellaufbau) Grade 7
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topics: Animal cell, plant cell, organelles, microscope
+// CellExplorer.tsx — Bio Island i1: Sejtek & Mikroszkóp (K7)
+// Topics: 1) Sejt felépítése 2) Sejtszervecskék 3) Prokarióta vs Eukarióta 4) Mikroszkóp 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { CellStructureSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="30" textAnchor="middle">🦠</text>
+        <path d="M -10,0 L 10,0" stroke="#15803D" strokeWidth="3" strokeDasharray="4 2" />
+        <text x="40" y="0" fontSize="40" textAnchor="middle">🌿</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F8FAFC" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="-15" r="25" fill="none" stroke="#64748B" strokeWidth="4" />
+        <line x1="0" y1="10" x2="0" y2="40" stroke="#64748B" strokeWidth="6" />
+        <rect x="-20" y="40" width="40" height="8" rx="2" fill="#64748B" />
+        <text x="0" y="-10" fontSize="20" textAnchor="middle">🔬</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🔬</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    // Round 1: Animal Cell
-    r1_title: "Animal Cell Structure",
-    r1_text: "An animal cell is the smallest unit of life. It has a membrane, nucleus, and cytoplasm with many organelles.",
-    r1_fact1: "Cell membrane controls what enters and leaves the cell",
-    r1_fact2: "Nucleus contains DNA (genetic material) and controls cell activities",
-    r1_fact3: "Cytoplasm is the gel-like substance where organelles are located",
-    r1_fact4: "Mitochondria are the powerhouses — they produce energy (ATP)",
-
-    // Round 2: Plant Cell
-    r2_title: "Plant Cell Structure",
-    r2_text: "Plant cells are similar to animal cells but have extra features: a cell wall, chloroplasts, and a large vacuole.",
-    r2_fact1: "Cell wall is rigid and provides structure and support",
-    r2_fact2: "Chloroplasts contain chlorophyll for photosynthesis",
-    r2_fact3: "Large central vacuole stores water and maintains turgor pressure",
-    r2_fact4: "Plant cells are usually larger and more rectangular than animal cells",
-
-    // Round 3: Cell Organelles
-    r3_title: "What Each Organelle Does",
-    r3_text: "Organelles are tiny structures inside the cell, each with a specific job. Together they keep the cell alive.",
-    r3_q: "What is the function of mitochondria?",
-    r3_energy: "Produce energy (ATP) for the cell",
-    r3_protein: "Synthesize proteins",
-    r3_storage: "Store water and nutrients",
-    r3_support: "Support and protect the cell",
-
-    // Round 4: Microscope
-    r4_title: "Observing Cells with a Microscope",
-    r4_text: "Scientists use microscopes to see cells because they are very small. Different magnifications reveal different levels of detail.",
-    r4_fact1: "Light microscopes use lenses to magnify cells (100x–1000x)",
-    r4_fact2: "The objective lens is closest to the specimen",
-    r4_fact3: "Always start with low magnification, then increase it slowly",
-    r4_fact4: "Cells are typically 10–100 micrometers in diameter (μm)",
-
-    // Round 5: Quiz
-    r5_title: "Cell Structure Review",
-
-    // Quiz Questions (3 questions)
-    q1_q: "Which organelle is found in both animal and plant cells?",
-    q1_a: "Nucleus",
-    q1_b: "Chloroplast",
-    q1_c: "Cell wall",
-    q1_d: "Large vacuole",
-
-    q2_q: "What is the main function of the cell membrane?",
-    q2_a: "Produce energy",
-    q2_b: "Control what enters and leaves the cell",
-    q2_c: "Store water",
-    q2_d: "Synthesize proteins",
-
-    q3_q: "Which structure is unique to plant cells?",
-    q3_a: "Mitochondria",
-    q3_b: "Cell wall and chloroplasts",
-    q3_c: "Nucleus",
-    q3_d: "Ribosomes",
-  },
-
-  de: {
-    // Round 1: Animal Cell
-    r1_title: "Struktur der Tierzelle",
-    r1_text: "Eine Tierzelle ist die kleinste Lebenseinheit. Sie hat eine Membran, einen Kern und Zytoplasma mit vielen Organellen.",
-    r1_fact1: "Zellmembran kontrolliert, was in die Zelle ein- und austritt",
-    r1_fact2: "Zellkern enthält DNA (genetisches Material) und steuert Zellaktivitäten",
-    r1_fact3: "Zytoplasma ist die geleeähnliche Substanz, wo Organellen liegen",
-    r1_fact4: "Mitochondrien sind die Kraftwerke — sie erzeugen Energie (ATP)",
-
-    // Round 2: Plant Cell
-    r2_title: "Struktur der Pflanzenzelle",
-    r2_text: "Pflanzenzellen ähneln Tierzellen, haben aber zusätzliche Merkmale: eine Zellwand, Chloroplasten und eine große Vakuole.",
-    r2_fact1: "Zellwand ist starr und gibt Struktur und Halt",
-    r2_fact2: "Chloroplasten enthalten Chlorophyll für Fotosynthese",
-    r2_fact3: "Große zentrale Vakuole speichert Wasser und erhält Turgor",
-    r2_fact4: "Pflanzenzellen sind meist größer und rechteckiger als Tierzellen",
-
-    // Round 3: Cell Organelles
-    r3_title: "Was jede Organelle tut",
-    r3_text: "Organellen sind winzige Strukturen in der Zelle, jede mit einer speziellen Aufgabe. Zusammen halten sie die Zelle am Leben.",
-    r3_q: "Was ist die Funktion von Mitochondrien?",
-    r3_energy: "Produzieren Energie (ATP) für die Zelle",
-    r3_protein: "Synthetisieren Proteine",
-    r3_storage: "Speichern Wasser und Nährstoffe",
-    r3_support: "Stützen und schützen die Zelle",
-
-    // Round 4: Microscope
-    r4_title: "Zellen mit Mikroskop beobachten",
-    r4_text: "Wissenschaftler verwenden Mikroskope, um Zellen zu sehen, weil sie sehr klein sind. Unterschiedliche Vergrößerungen zeigen verschiedene Detailebenen.",
-    r4_fact1: "Lichtmikroskope verwenden Linsen zur Vergrößerung (100x–1000x)",
-    r4_fact2: "Das Objektiv ist dem Präparat am nächsten",
-    r4_fact3: "Immer mit niedriger Vergrößerung starten, dann langsam erhöhen",
-    r4_fact4: "Zellen sind typischerweise 10–100 Mikrometer groß (μm)",
-
-    // Round 5: Quiz
-    r5_title: "Zellstruktur Übersicht",
-
-    // Quiz Questions
-    q1_q: "Welche Organelle findet sich in Tier- und Pflanzenzellen?",
-    q1_a: "Zellkern",
-    q1_b: "Chloroplast",
-    q1_c: "Zellwand",
-    q1_d: "Große Vakuole",
-
-    q2_q: "Was ist die Hauptfunktion der Zellmembran?",
-    q2_a: "Energie produzieren",
-    q2_b: "Kontrolliert, was in und aus der Zelle geht",
-    q2_c: "Wasser speichern",
-    q2_d: "Proteine synthetisieren",
-
-    q3_q: "Welche Struktur ist einzigartig für Pflanzenzellen?",
-    q3_a: "Mitochondrien",
-    q3_b: "Zellwand und Chloroplasten",
-    q3_c: "Zellkern",
-    q3_d: "Ribosomen",
-  },
-
   hu: {
-    // Round 1: Animal Cell
-    r1_title: "Állatsejtek szerkezete",
-    r1_text: "Az állatsejt az élet legkisebb egysége. Membránnal, maggal és citoplazmával rendelkezik, sok organuluval.",
-    r1_fact1: "A sejthártya szabályozza, mi léphet be és ki a sejtből",
-    r1_fact2: "A sejt magja DNS-t (genetikai anyagot) tartalmaz és irányítja a sejt tevékenységeit",
-    r1_fact3: "A citoplazma zselészerű anyag, ahol az organellumok helyezkednek el",
-    r1_fact4: "A mitokondriumok az erőmüvek — energiát (ATP) termelnek",
+    explorer_title: "Sejtek és Mikroszkóp",
+    // T1: Sejtstruktúra (Label-diagram)
+    t1_title: "Az eukarióta sejt",
+    t1_text: "Minden összetettebb élőlény sejtje eukarióta. Legfőbb jellemzője a körülhatárolt sejtmag, amely az örökítőanyagot tárolja.",
+    t1_b1: "Sejtmag: az irányító központ (DNS).",
+    t1_b2: "Sejthártya: vékony, rugalmas védőburok.",
+    t1_b3: "Mitokondrium: energiát termel a sejtnek.",
+    t1_inst: "Kattints a pontokra és válaszd ki a sejt megfelelő részét!",
+    t1_area_nucleus: "Sejtmag",
+    t1_area_membrane: "Sejthártya",
+    t1_area_mito: "Mitokondrium",
+    t1_area_cyto: "Sejtplazma",
+    t1_q: "Melyik rész irányítja a sejt életfolyamatait?",
+    t1_q_a: "Sejtmag", t1_q_b: "Vakuólum", t1_q_c: "Sejtfal", t1_q_d: "Csillók",
 
-    // Round 2: Plant Cell
-    r2_title: "Növénysejtek szerkezete",
-    r2_text: "A növénysejtek hasonlítanak az állatsejtekre, de extra jellegzetességgel rendelkeznek: sejtfallal, kloroplasztokkal és nagy vakuólummal.",
-    r2_fact1: "A sejtfal merev és szerkezeti támogatást nyújt",
-    r2_fact2: "A kloroplasztok klorofillat tartalmaznak a fotoszintézishez",
-    r2_fact3: "A nagy központi vakuólum vizet tárol és nyomást tartalmaz",
-    r2_fact4: "A növénysejtek általában nagyobbak és téglalap alakúak, mint az állatsejtok",
+    // T2: Sejtszervecskék
+    t2_title: "Sejtszervecskék feladata",
+    t2_text: "A sejt belsejében különböző feladatokra szakosodott egységek, sejtszervecskék találhatók.",
+    t2_b1: "Riboszómák: a fehérjék 'gyárai'.",
+    t2_b2: "Zöld színtest: a fotoszintézis helyszíne (csak növényekben).",
+    t2_b3: "Vakuólum: tápanyagok és víz tárolása.",
+    t2_inst: "Párosítsd a szervecskét a funkciójával!",
+    t2_l1: "Mitokondrium", t2_r1: "Energiatermelés",
+    t2_l2: "Riboszóma", t2_r2: "Fehérje előállítás",
+    t2_l3: "Zöld színtest", t2_r3: "Cukorgyártás fényből",
+    t2_q: "Melyik szervecske felelős a sejt energiájáért?",
+    t2_q_a: "Mitokondrium", t2_q_b: "Sejtmag", t2_q_c: "Riboszóma", t2_q_d: "Vakuólum",
 
-    // Round 3: Cell Organelles
-    r3_title: "Mit csinál az egyes organellum",
-    r3_text: "Az organellumok apró struktúrák a sejtben, mindegyiknek saját feladata. Együtt tartják életben a sejtet.",
-    r3_q: "Mi a mitokondriumok funkciója?",
-    r3_energy: "Energiát (ATP) termelnek a sejtnek",
-    r3_protein: "Fehérjéket szintetizálnak",
-    r3_storage: "Vizet és tápanyagokat tárolnak",
-    r3_support: "Támogatják és védik a sejtet",
+    // T3: Prokarióta vs Eukarióta
+    t3_title: "Egyszerű és összetett sejtek",
+    t3_text: "A prokarióták (pl. baktériumok) ősi, egyszerűbb felépítésű sejtek, míg az eukarióták bonyolult belső hálózattal rendelkeznek.",
+    t3_b1: "Prokarióta: nincs sejtmag, a DNS a plazmában szabadon van.",
+    t3_b2: "Eukarióta: van sejtmag és membránnal határolt szervecskék.",
+    t3_b3: "A baktériumok mindig prokarióták.",
+    t3_inst: "Miben tér el a baktérium sejtje a miénktől?",
+    t3_gap_sentence: "A prokarióta sejteknek nincs körülhatárolt {gap}.",
+    t3_c1: "sejtmagjuk", t3_c2: "plazmájuk", t3_c3: "DNS-ük",
+    t3_q: "Melyik élőlény eukarióta?",
+    t3_q_a: "Gomba", t3_q_b: "Baktérium", t3_q_c: "Kékmoszat", t3_q_d: "Vírus",
 
-    // Round 4: Microscope
-    r4_title: "Sejtek megfigyelése mikroszkóppal",
-    r4_text: "A tudósok mikroszkópot használnak a sejtek megtekintéséhez, mert nagyon kicsik. Különböző nagyítások eltérő részleteket tárnak fel.",
-    r4_fact1: "A fénymikroszkópok lencsék segítségével nagyítanak (100x–1000x)",
-    r4_fact2: "Az objektív lencse a legközelebb van a mintához",
-    r4_fact3: "Mindig alacsony nagyítással kezdj, majd lassan növeld",
-    r4_fact4: "A sejtek általában 10–100 mikrométer átmérőjűek (μm)",
+    // T4: Mikroszkóp
+    t4_title: "A mikroszkóp használata",
+    t4_text: "A fénymikroszkóp lencserendszere segít láthatóvá tenni a sejteket. A nagyítás az objektív és az okulár értékétől függ.",
+    t4_b1: "Okulár: a szemhez közeli lencse.",
+    t4_b2: "Objektív: a tárgyhoz közeli lencse.",
+    t4_b3: "Tárgyasztal: ide kerül a vizsgált metszet.",
+    t4_inst: "Tedd sorba a fény útját a mikroszkópban (alulról felfelé)!",
+    t4_w1: "Fényforrás", t4_w2: "Metszet", t4_w3: "Objektív", t4_w4: "Tubus", t4_w5: "Okulár",
+    t4_q: "Mit teszünk a tárgyasztalra a vizsgálathoz?",
+    t4_q_a: "Metszetet (preparátumot)", t4_q_b: "Tükröt", t4_q_c: "Szemüveget", t4_q_d: "Lámpát",
 
-    // Round 5: Quiz
-    r5_title: "Sejt szerkezet áttekintés",
-
-    // Quiz Questions
-    q1_q: "Melyik organellum található meg az állat- és növénysejt egyaránt?",
-    q1_a: "Sejt magja",
-    q1_b: "Kloroplaszt",
-    q1_c: "Sejtfal",
-    q1_d: "Nagy vakuólum",
-
-    q2_q: "Mi a sejthártya fő funkciója?",
-    q2_a: "Energiatermelés",
-    q2_b: "Szabályozza, mi megy be és ki a sejtből",
-    q2_c: "Vizet tárol",
-    q2_d: "Fehérjéket szintetizál",
-
-    q3_q: "Melyik szerkezet egyedi a növénysejtek számára?",
-    q3_a: "Mitokondriumok",
-    q3_b: "Sejtfal és kloroplasztok",
-    q3_c: "Sejt magja",
-    q3_d: "Riboszómák",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Ellenőrizd a tudásod a sejttan alapjairól!",
+    t5_b1: "Eukarióta = van sejtmag.",
+    t5_b2: "A növényi sejtnek van sejtfala és zöld színtestje.",
+    t5_b3: "A mikroszkóp a láthatatlan világ kapuja.",
+    t5_inst: "Hogyan nevezzük az energiatermelő szervet?",
+    t5_gap_sentence2: "A sejt 'erőműve' a {gap}.",
+    t5_c51: "mitokondrium", t5_c52: "riboszóma", t5_c53: "sejtmag",
+    t5_q: "Melyik állítás IGAZ az eukarióta sejtre?",
+    t5_q_a: "Rendelkezik körülhatárolt sejtmaggal.", t5_q_b: "Nincs benne DNS.", t5_q_c: "Minden esetben baktérium.", t5_q_d: "Csak élettelen dolgokban van.",
   },
+  en: {
+    explorer_title: "Cells and Microscope",
+    t1_title: "Eukaryotic Cell", t1_text: "Every complex organism is made of eukaryotic cells, characterized by a nucleus containing DNA.",
+    t1_b1: "Nucleus: the control center (DNA).", t1_b2: "Membrane: thin, flexible protective layer.", t1_b3: "Mitochondria: produces energy for the cell.",
+    t1_inst: "Click the dots and label the parts of the cell!",
+    t1_area_nucleus: "Nucleus", t1_area_membrane: "Cell membrane", t1_area_mito: "Mitochondria", t1_area_cyto: "Cytoplasm",
+    t1_q: "Which part controls cell activities?", t1_q_a: "Nucleus", t1_q_b: "Vacuole", t1_q_c: "Cell wall", t1_q_d: "Cilia",
 
+    t2_title: "Organelle Functions", t2_text: "Inside the cell, specialized units called organelles perform daily tasks.",
+    t2_b1: "Ribosomes: protein 'factories'.", t2_b2: "Chloroplasts: site of photosynthesis (plants only).", t2_b3: "Vacuole: storage for nutrients and water.",
+    t2_inst: "Match the organelle with its function!",
+    t2_l1: "Mitochondria", t2_r1: "Energy production", t2_l2: "Ribosome", t2_r2: "Protein synthesis", t2_l3: "Chloroplast", t2_r3: "Sugar from light",
+    t2_q: "Which organelle is responsible for cell energy?", t2_q_a: "Mitochondria", t2_q_b: "Nucleus", t2_q_c: "Ribosome", t2_q_d: "Vacuole",
+
+    t3_title: "Prokaryote vs Eukaryote", t3_text: "Prokaryotes (like bacteria) are ancient and simple, while eukaryotes have complex internal networks.",
+    t3_b1: "Prokaryote: no nucleus, DNA is free in cytoplasm.", t3_b2: "Eukaryote: has a nucleus and membrane-bound organelles.", t3_b3: "Bacteria are always prokaryotes.",
+    t3_inst: "How does a bacterium differ from our cells?", t3_gap_sentence: "Prokaryotic cells have no defined {gap}.",
+    t3_c1: "nucleus", t3_c2: "plasma", t3_c3: "DNA",
+    t3_q: "Which organism is eukaryotic?", t3_q_a: "Fungus", t3_q_b: "Bacteria", t3_q_c: "Cyanobacteria", t3_q_d: "Virus",
+
+    t4_title: "Using a Microscope", t4_text: "The lens system of a light microscope makes cells visible. Magnification depends on the objective and ocular lenses.",
+    t4_b1: "Ocular: lens closest to the eye.", t4_b2: "Objective: lens closest to the object.", t4_b3: "Stage: where the slide is placed.",
+    t4_inst: "Put the path of light in order (bottom to top)!",
+    t4_w1: "Light source", t4_w2: "Slide", t4_w3: "Objective", t4_w4: "Tube", t4_w5: "Ocular",
+    t4_q: "What do we place on the stage for observation?", t4_q_a: "A slide", t4_q_b: "A mirror", t4_q_c: "Glasses", t4_q_d: "A lamp",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge of cell biology basics!",
+    t5_b1: "Eukaryote = has nucleus.", t5_b2: "Plant cell = has cell wall and chloroplast.", t5_b3: "Microscope = door to the invisible world.",
+    t5_inst: "What do we call the energy-producing organelle?", t5_gap_sentence2: "The cell's 'power plant' is the {gap}.",
+    t5_c51: "mitochondria", t5_c52: "ribosome", t5_c53: "nucleus",
+    t5_q: "Which statement is TRUE about eukaryotic cells?", t5_q_a: "They have a defined nucleus.", t5_q_b: "They have no DNA.", t5_q_c: "They are always bacteria.", t5_q_d: "They only exist in non-living things.",
+  },
+  de: {
+    explorer_title: "Zellen und Mikroskop",
+    t1_title: "Die eukaryotische Zelle", t1_text: "Alle komplexen Organismen bestehen aus eukaryotischen Zellen, die einen Zellkern mit DNA besitzen.",
+    t1_b1: "Zellkern: Steuerzentrum (DNA).", t1_b2: "Zellmembran: dünne, flexible Schutzhülle.", t1_b3: "Mitochondrium: erzeugt Energie für die Zelle.",
+    t1_inst: "Klicke auf die Punkte und benenne die Zellteile!",
+    t1_area_nucleus: "Zellkern", t1_area_membrane: "Zellmembran", t1_area_mito: "Mitochondrium", t1_area_cyto: "Zellplasma",
+    t1_q: "Welcher Teil steuert die Vorgänge in der Zelle?", t1_q_a: "Zellkern", t1_q_b: "Vakuole", t1_q_c: "Zellwand", t1_q_d: "Geißeln",
+
+    t2_title: "Aufgaben der Organellen", t2_text: "Im Inneren der Zelle erledigen spezialisierte Organellen die täglichen Aufgaben.",
+    t2_b1: "Ribosomen: Fabriken für Proteine.", t2_b2: "Chloroplast: Ort der Fotosynthese (nur Pflanzen).", t2_b3: "Vakuole: Speicher für Nährstoffe und Wasser.",
+    t2_inst: "Verbinde das Organell mit seiner Funktion!",
+    t2_l1: "Mitochondrium", t2_r1: "Energiegewinnung", t2_l2: "Ribosom", t2_r2: "Proteinbildung", t2_l3: "Chloroplast", t2_r3: "Zucker aus Licht",
+    t2_q: "Welches Organell liefert der Zelle Energie?", t2_q_a: "Mitochondrium", t2_q_b: "Zellkern", t2_q_c: "Ribosom", t2_q_d: "Vakuole",
+
+    t3_title: "Prokaryot vs Eukaryot", t3_text: "Prokaryoten (Bakterien) sind einfach aufgebaut, während Eukaryoten komplexe Strukturen besitzen.",
+    t3_b1: "Prokaryot: kein Zellkern, DNA liegt frei im Plasma.", t3_b2: "Eukaryot: besitzt Zellkern und Organellen.", t3_b3: "Bakterien sind immer Prokaryoten.",
+    t3_inst: "Was unterscheidet Bakterien von unseren Zellen?", t3_gap_sentence: "Prokaryotische Zellen haben keinen echten {gap}.",
+    t3_c1: "Zellkern", t3_c2: "Zellsaft", t3_c3: "Farbstoff",
+    t3_q: "Welches Lebewesen ist ein Eukaryot?", t3_q_a: "Pilz", t3_q_b: "Bakterium", t3_q_c: "Blaualge", t3_q_d: "Virus",
+
+    t4_title: "Das Mikroskop", t4_text: "Das Mikroskop macht Zellen sichtbar. Die Vergrößerung wird durch Objektiv und Okular bestimmt.",
+    t4_b1: "Okular: Linse am Auge.", t4_b2: "Objektiv: Linse am Objekt.", t4_b3: "Objekttisch: Platz für das Präparat.",
+    t4_inst: "Bringe den Lichtweg in die richtige Reihenfolge!",
+    t4_w1: "Lichtquelle", t4_w2: "Präparat", t4_w3: "Objektiv", t4_w4: "Tubus", t4_w5: "Okular",
+    t4_q: "Was legen wir zur Untersuchung auf den Objekttisch?", t4_q_a: "Präparat", t4_q_b: "Spiegel", t4_q_c: "Brille", t4_q_d: "Lampe",
+
+    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen über die Grundlagen der Zellbiologie!",
+    t5_b1: "Eukaryot = mit Zellkern.", t5_b2: "Pflanzenzelle = mit Zellwand und Chloroplast.", t5_b3: "Mikroskop = Tor zur unsichtbaren Welt.",
+    t5_inst: "Wie nennt man das Energiekraftwerk der Zelle?", t5_gap_sentence2: "Das Kraftwerk der Zelle ist das {gap}.",
+    t5_c51: "Mitochondrium", t5_c52: "Ribosom", t5_c53: "Zellkern",
+    t5_q: "Was trifft auf eukaryotische Zellen zu?", t5_q_a: "Sie haben einen abgegrenzten Zellkern.", t5_q_b: "Sie haben keine DNA.", t5_q_c: "Es sind immer Bakterien.", t5_q_d: "Sie sind unbelebte Materie.",
+  },
   ro: {
-    // Round 1: Animal Cell
-    r1_title: "Structura celulei animale",
-    r1_text: "O celulă animală este cea mai mică unitate de viață. Are membrană, nucleu și citoplasmă cu multe organele.",
-    r1_fact1: "Membrana celulară controlează ceea ce intră și iese din celulă",
-    r1_fact2: "Nucleul conține ADN (material genetic) și controlează activitățile celulei",
-    r1_fact3: "Citoplasma este substanța asemănătoare gelului unde se află organelele",
-    r1_fact4: "Mitocondriile sunt centrurile energetice — produc energie (ATP)",
+    explorer_title: "Celule și Microscop",
+    t1_title: "Celula eucariotă", t1_text: "Toate organismele complexe sunt formate din celule eucariote, caracterizate printr-un nucleu cu ADN.",
+    t1_b1: "Nucleu: centrul de control (ADN).", t1_b2: "Membrană: înveliș subțire și elastic.", t1_b3: "Mitocondrie: produce energie pentru celulă.",
+    t1_inst: "Apasă pe puncte și numește părțile celulei!",
+    t1_area_nucleus: "Nucleu", t1_area_membrane: "Membrană", t1_area_mito: "Mitocondrie", t1_area_cyto: "Citoplasmă",
+    t1_q: "Care parte coordonează viața celulei?", t1_q_a: "Nucleul", t1_q_b: "Vacuola", t1_q_c: "Peretele celular", t1_q_d: "Cilii",
 
-    // Round 2: Plant Cell
-    r2_title: "Structura celulei vegetale",
-    r2_text: "Celulele vegetale sunt similare cu cele animale, dar au caracteristici suplimentare: perete celular, cloroplaste și o mare vacuolă.",
-    r2_fact1: "Peretele celular este rigid și oferă structură și sprijin",
-    r2_fact2: "Cloroplastele conțin clorofilă pentru fotosinteză",
-    r2_fact3: "Marea vacuolă centrală stochează apă și menține presiunea turgidă",
-    r2_fact4: "Celulele vegetale sunt de obicei mai mari și mai dreptunghiulare decât cele animale",
+    t2_title: "Funcțiile organitelor", t2_text: "În interiorul celulei există unități specializate numite organite.",
+    t2_b1: "Ribozomi: 'fabricile' de proteine.", t2_b2: "Cloroplast: locul fotosintezei (doar la plante).", t2_b3: "Vacuolă: depozit de nutrienți și apă.",
+    t2_inst: "Potrivește organitul cu funcția sa!",
+    t2_l1: "Mitocondrie", t2_r1: "Producerea energiei", t2_l2: "Ribozom", t2_r2: "Sinteza proteinelor", t2_l3: "Cloroplast", t2_r3: "Zahăr din lumină",
+    t2_q: "Care organit este responsabil de energia celulei?", t2_q_a: "Mitocondria", t2_q_b: "Nucleul", t2_q_c: "Ribozomul", t2_q_d: "Vacuola",
 
-    // Round 3: Cell Organelles
-    r3_title: "Ce face fiecare organelă",
-    r3_text: "Organelele sunt structuri mici din celulă, fiecare cu o sarcină specifică. Împreună, ține celula în viață.",
-    r3_q: "Care este funcția mitocondriilor?",
-    r3_energy: "Produc energie (ATP) pentru celulă",
-    r3_protein: "Sintetizează proteine",
-    r3_storage: "Depozitează apă și nutrienți",
-    r3_support: "Sprijin și protejează celula",
+    t3_title: "Procariote vs Eucariote", t3_text: "Procariotele (ex: bacterii) sunt simple, în timp ce eucariotele au o rețea internă complexă.",
+    t3_b1: "Procariot: fără nucleu, ADN-ul este liber în citoplasmă.", t3_b2: "Eucariot: are nucleu și organite delimitate de membrane.", t3_b3: "Bacteriile sunt întotdeauna procariote.",
+    t3_inst: "Prin ce diferă bacteria de celulele noastre?", t3_gap_sentence: "Celulele procariote nu au un {gap} delimitat.",
+    t3_c1: "nucleu", t3_c2: "plasmă", t3_c3: "ADN",
+    t3_q: "Care organism este eucariot?", t3_q_a: "Ciuperca", t3_q_b: "Bacteria", t3_q_c: "Alga albastră", t3_q_d: "Virusul",
 
-    // Round 4: Microscope
-    r4_title: "Observarea celulelor cu microscopul",
-    r4_text: "Oamenii de știință folosesc microscoape pentru a vedea celule deoarece sunt foarte mici. Măriri diferite dezvăluie niveluri diferite de detalii.",
-    r4_fact1: "Microscopele optice folosesc lentile pentru mărire (100x–1000x)",
-    r4_fact2: "Lentila obiectiv este cea mai aproape de specimen",
-    r4_fact3: "Întotdeauna începe cu mărire scăzută, apoi crește treptat",
-    r4_fact4: "Celulele sunt de obicei 10–100 micrometri în diametru (μm)",
+    t4_title: "Utilizarea microscopului", t4_text: "Microscopul optic face celulele vizibile. Mărirea depinde de ocular și obiectiv.",
+    t4_b1: "Ocular: lentila apropiată de ochi.", t4_b2: "Obiectiv: lentila apropiată de obiect.", t4_b3: "Măsuță: locul unde se pune preparatul.",
+    t4_inst: "Pune în ordine drumul luminii (de jos în sus)!",
+    t4_w1: "Sursă lumină", t4_w2: "Preparat", t4_w3: "Obiectiv", t4_w4: "Tub", t4_w5: "Ocular",
+    t4_q: "Ce punem pe măsuța microscopului?", t4_q_a: "Preparatul", t4_q_b: "Oglinda", t4_q_c: "Ochelarii", t4_q_d: "Lampa",
 
-    // Round 5: Quiz
-    r5_title: "Recapitulare structură celulă",
+    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele despre bazele citologiei!",
+    t5_b1: "Eucariot = cu nucleu.", t5_b2: "Celulă vegetală = cu perete celular și cloroplast.", t5_b3: "Microscop = ușa către lumea invizibilă.",
+    t5_inst: "Cum numim centrala energetică a celulei?", t5_gap_sentence2: "Centrala energetică a celulei este {gap}.",
+    t5_c51: "mitocondria", t5_c52: "ribozomul", t5_c53: "nucleul",
+    t5_q: "Ce afirmație este ADEVĂRATĂ despre celulele eucariote?", t5_q_a: "Au un nucleu bine definit.", t5_q_b: "Nu au ADN.", t5_q_c: "Sunt întotdeauna bacterii.", t5_q_d: "Sunt materie nevie.",
+  }
+};
 
-    // Quiz Questions
-    q1_q: "Care organelă se găsește atât în celule animale, cât și vegetale?",
-    q1_a: "Nucleu",
-    q1_b: "Cloroplast",
-    q1_c: "Perete celular",
-    q1_d: "Vacuolă mare",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care este funcția principală a membranei celulare?",
-    q2_a: "Produce energie",
-    q2_b: "Controlează ce intră și iese din celulă",
-    q2_c: "Depozitează apă",
-    q2_d: "Sintetizează proteine",
-
-    q3_q: "Care structură este unică pentru celulele vegetale?",
-    q3_a: "Mitocondriile",
-    q3_b: "Perete celular și cloroplaste",
-    q3_c: "Nucleu",
-    q3_d: "Ribozomi",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <CellStructureSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "nucleus",  x: 50, y: 40, label: "t1_area_nucleus" },
+        { id: "membrane", x: 15, y: 55, label: "t1_area_membrane" },
+        { id: "mito",     x: 75, y: 65, label: "t1_area_mito" },
+        { id: "cyto",     x: 40, y: 20, label: "t1_area_cyto" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <CellStructureSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — Simple colored shapes
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-function AnimalCellSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Outer membrane */}
-      <circle cx="120" cy="80" r="70" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-      {/* Nucleus */}
-      <circle cx="120" cy="80" r="30" fill="#FFB6D9" opacity="0.6" stroke="#FF6B9D" strokeWidth="1.5" />
-      <text x="120" y="85" textAnchor="middle" fontSize="10" fill="#333" fontWeight="bold">
-        Nucleus
-      </text>
-      {/* Mitochondria (2) */}
-      <ellipse cx="65" cy="50" rx="18" ry="12" fill="#FF6B6B" opacity="0.5" stroke="#C92A2A" strokeWidth="1" />
-      <ellipse cx="175" cy="110" rx="18" ry="12" fill="#FF6B6B" opacity="0.5" stroke="#C92A2A" strokeWidth="1" />
-      {/* Cytoplasm background */}
-      <circle cx="120" cy="80" r="68" fill="#E8F4F8" opacity="0.3" />
-    </svg>
-  );
-}
-
-function PlantCellSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Cell wall */}
-      <rect x="20" y="20" width="200" height="120" fill="none" stroke="#90BE6D" strokeWidth="3" rx="5" />
-      {/* Cell membrane */}
-      <rect x="25" y="25" width="190" height="110" fill="none" stroke="#4ECDC4" strokeWidth="1.5" />
-      {/* Nucleus */}
-      <circle cx="120" cy="70" r="25" fill="#FFB6D9" opacity="0.6" stroke="#FF6B9D" strokeWidth="1.5" />
-      {/* Chloroplasts (2) */}
-      <circle cx="60" cy="100" r="20" fill="#76C893" opacity="0.6" stroke="#2D6A4F" strokeWidth="1" />
-      <circle cx="180" cy="100" r="20" fill="#76C893" opacity="0.6" stroke="#2D6A4F" strokeWidth="1" />
-      {/* Large vacuole */}
-      <circle cx="120" cy="110" r="35" fill="#B7E4C7" opacity="0.4" stroke="#52B788" strokeWidth="1" />
-      {/* Cytoplasm */}
-      <rect x="25" y="25" width="190" height="110" fill="#E8F4F8" opacity="0.2" />
-    </svg>
-  );
-}
-
-function OrganellesSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Mitochondria */}
-      <g>
-        <ellipse cx="50" cy="50" rx="25" ry="20" fill="#FF6B6B" opacity="0.5" stroke="#C92A2A" strokeWidth="1.5" />
-        <text x="50" y="55" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Energy
-        </text>
-      </g>
-      {/* Ribosome */}
-      <g>
-        <circle cx="120" cy="40" r="15" fill="#FFD93D" opacity="0.5" stroke="#F0A500" strokeWidth="1.5" />
-        <text x="120" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Protein
-        </text>
-      </g>
-      {/* ER */}
-      <g>
-        <rect x="30" y="100" width="60" height="30" fill="#A8DADC" opacity="0.5" stroke="#457B9D" strokeWidth="1.5" rx="3" />
-        <text x="60" y="120" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Transport
-        </text>
-      </g>
-      {/* Golgi */}
-      <g>
-        <rect x="140" y="100" width="70" height="30" fill="#E1BE63" opacity="0.5" stroke="#D4A574" strokeWidth="1.5" rx="3" />
-        <text x="175" y="120" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Processing
-        </text>
-      </g>
-    </svg>
-  );
-}
-
-function MicroscopeSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Microscope body */}
-      <rect x="90" y="20" width="60" height="100" fill="#B0B0B0" opacity="0.5" stroke="#666" strokeWidth="2" rx="5" />
-      {/* Eyepiece */}
-      <circle cx="120" cy="25" r="12" fill="#87CEEB" opacity="0.6" stroke="#4682B4" strokeWidth="1.5" />
-      {/* Objective lens */}
-      <circle cx="120" cy="130" r="15" fill="#87CEEB" opacity="0.6" stroke="#4682B4" strokeWidth="1.5" />
-      {/* Stage */}
-      <rect x="100" y="115" width="40" height="15" fill="#D3D3D3" opacity="0.7" stroke="#999" strokeWidth="1" />
-      {/* Light */}
-      <circle cx="120" cy="132" r="8" fill="#FFFF99" opacity="0.4" />
-      {/* Focus knob */}
-      <circle cx="165" cy="80" r="8" fill="#8B4513" opacity="0.6" stroke="#654321" strokeWidth="1" />
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const CELL_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <AnimalCellSVG />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <PlantCellSVG />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <OrganellesSVG />,
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_energy", "r3_protein", "r3_storage", "r3_support"],
-          answer: "r3_energy",
-        },
-      ],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <MicroscopeSVG />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <AnimalCellSVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_a",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_b",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_b",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🔬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface CellExplorerProps {
+const CellExplorer = memo(function CellExplorer({
+  color = "#10B981", // Emerald-500 a biológiai sejtekhez
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_cells" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function CellExplorer({ lang = "en", onDone }: CellExplorerProps) {
-  return <ExplorerEngine def={CELL_EXPLORER_DEF} color="#4ECDC4" lang={lang} onDone={onDone} />;
-}
+export default CellExplorer;

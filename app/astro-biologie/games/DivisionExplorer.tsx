@@ -1,524 +1,368 @@
 "use client";
-// DivisionExplorer — Cell Division (Zellteilung) Grade 7
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topics: Cell cycle, mitosis, why cells divide, DNA and chromosomes
+// DivisionExplorer.tsx — Bio Island i2: Sejtoszlás & Ciklus (K7) - JAVÍTOTT
+// Topics: 1) A sejtciklus 2) Kromoszómák 3) A mitózis fázisai 4) Osztódás jelentősége 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { MitosisSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Körkörös nyíl a ciklusnak */}
+        <circle cx="0" cy="0" r="45" fill="none" stroke="#8B5CF6" strokeWidth="6" strokeDasharray="210 70" />
+        <path d="M 40,-15 L 50,0 L 30,0 Z" fill="#8B5CF6" transform="rotate(15, 45, -15)" />
+        <text x="0" y="5" fontSize="30" textAnchor="middle">⏳</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="10" fontSize="35" textAnchor="middle">🩹</text>
+        <path d="M -15,0 L 15,0" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="45" y="10" fontSize="35" textAnchor="middle">💪</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🧬</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    // Round 1: Cell Cycle
-    r1_title: "The Cell Cycle",
-    r1_text: "The cell cycle is the process of growth, DNA copying, and division. It has three main phases: G1, S, and G2, followed by mitosis (M phase).",
-    r1_fact1: "G1 phase: Cell grows and performs normal functions",
-    r1_fact2: "S phase: DNA is copied (replication) — each chromosome is duplicated",
-    r1_fact3: "G2 phase: Cell continues to grow and prepares for division",
-    r1_fact4: "M phase: Mitosis — the cell divides into two daughter cells",
-
-    // Round 2: Mitosis
-    r2_title: "The Stages of Mitosis",
-    r2_text: "Mitosis is divided into four stages. Each stage has a specific job in dividing the cell's genetic material equally.",
-    r2_fact1: "Prophase: Chromosomes condense and become visible; spindle fibers form",
-    r2_fact2: "Metaphase: Chromosomes line up in the middle of the cell",
-    r2_fact3: "Anaphase: Sister chromatids separate and move to opposite poles",
-    r2_fact4: "Telophase: Nuclear membranes form and the cell pinches in the middle",
-
-    // Round 3: Why Cells Divide
-    r3_title: "Why Do Cells Divide?",
-    r3_text: "Cells divide for three main reasons: to grow the organism, to repair damaged tissues, and to reproduce asexually.",
-    r3_q: "Which is a reason cells divide?",
-    r3_growth: "Organisms grow by increasing cell number",
-    r3_size: "Cells become larger than normal size",
-    r3_rest: "Cells need time to rest",
-    r3_nutrition: "Cells need more nutrients",
-
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNA and Chromosomes",
-    r4_text: "DNA is coiled tightly into structures called chromosomes. Humans have 46 chromosomes (23 pairs). During mitosis, chromosomes are copied so each daughter cell gets a complete set.",
-    r4_fact1: "DNA carries genetic instructions (genes) for all cell functions",
-    r4_fact2: "Chromosomes are made of tightly coiled DNA",
-    r4_fact3: "When DNA replicates, each chromosome has two identical sister chromatids",
-    r4_fact4: "Sister chromatids separate during anaphase to ensure equal distribution",
-
-    // Round 5: Quiz
-    r5_title: "Cell Division Review",
-
-    // Quiz Questions
-    q1_q: "What is the S phase of the cell cycle?",
-    q1_a: "Synthesis (DNA copying)",
-    q1_b: "Separation of sister chromatids",
-    q1_c: "Spinning of spindle fibers",
-    q1_d: "Shrinking of the nucleus",
-
-    q2_q: "Which stage of mitosis has chromosomes lining up in the middle?",
-    q2_a: "Prophase",
-    q2_b: "Metaphase",
-    q2_c: "Anaphase",
-    q2_d: "Telophase",
-
-    q3_q: "How many chromosomes do humans have?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
-  },
-
-  de: {
-    // Round 1: Cell Cycle
-    r1_title: "Der Zellzyklus",
-    r1_text: "Der Zellzyklus ist der Prozess von Wachstum, DNA-Kopieren und Teilung. Er hat drei Hauptphasen: G1, S und G2, gefolgt von Mitose (M-Phase).",
-    r1_fact1: "G1-Phase: Zelle wächst und erfüllt normale Funktionen",
-    r1_fact2: "S-Phase: DNA wird kopiert (Replikation) — jedes Chromosom wird dupliziert",
-    r1_fact3: "G2-Phase: Zelle wächst weiter und bereitet sich auf Teilung vor",
-    r1_fact4: "M-Phase: Mitose — die Zelle teilt sich in zwei Tochterzellen",
-
-    // Round 2: Mitosis
-    r2_title: "Die Stadien der Mitose",
-    r2_text: "Die Mitose ist in vier Stadien unterteilt. Jedes Stadium hat eine spezifische Aufgabe bei der gleichmäßigen Teilung des genetischen Materials der Zelle.",
-    r2_fact1: "Prophase: Chromosomen kondensieren und werden sichtbar; Spindelfasern bilden sich",
-    r2_fact2: "Metaphase: Chromosomen reihen sich in der Mitte der Zelle auf",
-    r2_fact3: "Anaphase: Schwester-Chromatiden trennen sich und bewegen sich zu entgegengesetzten Polen",
-    r2_fact4: "Telophase: Kernmembranen bilden sich und die Zelle schnürt sich in der Mitte ein",
-
-    // Round 3: Why Cells Divide
-    r3_title: "Warum teilen sich Zellen?",
-    r3_text: "Zellen teilen sich aus drei Hauptgründen: um den Organismus zu vergrößern, um beschädigtes Gewebe zu reparieren und um sich ungeschlechtlich zu vermehren.",
-    r3_q: "Welcher Grund führt zur Zellteilung?",
-    r3_growth: "Organismen wachsen durch Erhöhung der Zellzahl",
-    r3_size: "Zellen werden größer als normal",
-    r3_rest: "Zellen brauchen Zeit zum Ausruhen",
-    r3_nutrition: "Zellen brauchen mehr Nährstoffe",
-
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNA und Chromosomen",
-    r4_text: "DNA ist fest in Strukturen namens Chromosomen aufgewickelt. Menschen haben 46 Chromosomen (23 Paare). Während der Mitose werden Chromosomen kopiert, sodass jede Tochterzelle einen vollständigen Satz erhält.",
-    r4_fact1: "DNA trägt genetische Anweisungen (Gene) für alle Zellfunktionen",
-    r4_fact2: "Chromosomen bestehen aus fest aufgewickelter DNA",
-    r4_fact3: "Bei der DNA-Replikation hat jedes Chromosom zwei identische Schwester-Chromatiden",
-    r4_fact4: "Schwester-Chromatiden trennen sich während der Anaphase, um gleichmäßige Verteilung zu gewährleisten",
-
-    // Round 5: Quiz
-    r5_title: "Zellteilung Übersicht",
-
-    // Quiz Questions
-    q1_q: "Was ist die S-Phase des Zellzyklus?",
-    q1_a: "Synthese (DNA-Kopieren)",
-    q1_b: "Trennung von Schwester-Chromatiden",
-    q1_c: "Spinnen von Spindelfasern",
-    q1_d: "Schrumpfen des Zellkerns",
-
-    q2_q: "Welches Stadium der Mitose hat Chromosomen in der Mitte aufgereiht?",
-    q2_a: "Prophase",
-    q2_b: "Metaphase",
-    q2_c: "Anaphase",
-    q2_d: "Telophase",
-
-    q3_q: "Wie viele Chromosomen haben Menschen?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
-  },
-
   hu: {
-    // Round 1: Cell Cycle
-    r1_title: "A sejt ciklusa",
-    r1_text: "A sejt ciklusa a növekedés, DNS másolása és osztódás folyamata. Három fő szakaszból áll: G1, S és G2, ezt követi a mitózis (M fázis).",
-    r1_fact1: "G1 fázis: A sejt növekszik és normál funkciókat végez",
-    r1_fact2: "S fázis: A DNS másolódik (replikáció) — minden kromoszóma megkettőződik",
-    r1_fact3: "G2 fázis: A sejt tovább növekszik és felkészül az osztódásra",
-    r1_fact4: "M fázis: Mitózis — a sejt két lánysejtré osztódik",
+    explorer_title: "Sejtoszlás és Ciklus",
+    // T1: Sejtciklus
+    t1_title: "A sejt életútja",
+    t1_text: "A sejtciklus folyamatos körforgás: növekedésből és osztódásból áll. Az osztódás előtt a sejtnek feltétlenül meg kell kettőznie az örökítőanyagát.",
+    t1_b1: "Interfázis: a sejt növekszik és DNS-t másol.",
+    t1_b2: "DNS replikáció: a genetikai kód megduplázódik.",
+    t1_b3: "Osztódás: az anyasejtből két utódsejt lesz.",
+    t1_inst: "Mi történik az osztódás előtti nyugalmi szakaszban?",
+    t1_gap_sentence: "Az osztódás előtt a sejt {gap} a DNS állományát.",
+    t1_c1: "megkettőzi", t1_c2: "elveszíti", t1_c3: "megemészti",
+    t1_q: "Melyik szakaszban tölti a sejt az ideje 90%-át?",
+    t1_q_a: "Interfázis (növekedés)", t1_q_b: "Mitózis (osztódás)", t1_q_c: "Pusztulás", t1_q_d: "Gázcsere",
 
-    // Round 2: Mitosis
-    r2_title: "A mitózis szakaszai",
-    r2_text: "A mitózis négy szakaszra van osztva. Mindegyik szakasznak saját feladata van a sejt genetikai anyagának egyenlő elosztásában.",
-    r2_fact1: "Profázis: A kromoszómák kondenzálódnak és láthatóvá válnak; orsófonalak képződnek",
-    r2_fact2: "Metafázis: A kromoszómák a sejt közepén sorakoznak fel",
-    r2_fact3: "Anafázis: Az iker-kromatidák elválnak és ellentétes pólusok felé mozdulnak",
-    r2_fact4: "Telofázis: Magmembrántartalmak képződnek és a sejt a közepén begörcsölödik",
+    // T2: Kromoszómák (Label-diagram)
+    t2_title: "A DNS csomagolása",
+    t2_text: "Az osztódás során a DNS-szálak szorosan összetekerednek, és mikroszkóppal is látható kromoszómákat alkotnak.",
+    t2_b1: "Kromatida: a kromoszóma két azonos fele.",
+    t2_b2: "Centromer: a középső befűződés, ami összetartja a két felet.",
+    t2_b3: "Gén: a DNS azon szakasza, ami egy tulajdonságot kódol.",
+    t2_inst: "Címkézd fel a kromoszóma részeit!",
+    t2_area_chromatid: "Kromatida",
+    t2_area_centromere: "Centromer",
+    t2_area_gene: "Gén",
+    t2_q: "Hány kromatidából áll egy osztódó kromoszóma?",
+    t2_q_a: "Kettő", t2_q_b: "Négy", t2_q_c: "Egy", t2_q_d: "Nyolc",
 
-    // Round 3: Why Cells Divide
-    r3_title: "Miért osztódnak a sejtek?",
-    r3_text: "A sejtek három fő okból osztódnak: az organizmus növekedéséhez, a sérült szövetek javításához és az aszexuális szaporodáshoz.",
-    r3_q: "Melyik oka van a sejt osztódásnak?",
-    r3_growth: "Az organizmusok a sejtek számának növekedésével nőnek",
-    r3_size: "A sejtek nagyobbak lesznek, mint a normális méret",
-    r3_rest: "A sejtek pihenésre van szükségük",
-    r3_nutrition: "A sejtek több tápanyagot igényelnek",
+    // T3: Mitózis fázisai (Word-order)
+    t3_title: "A mitózis menete",
+    t3_text: "A mitózis (számtartó osztódás) során egy anyasejtből két, genetikailag azonos utódsejt keletkezik. Ennek 4 fő szakasza van.",
+    t3_b1: "Profázis: a kromoszómák láthatóvá válnak.",
+    t3_b2: "Metafázis: a kromoszómák középre rendeződnek.",
+    t3_b3: "Anafázis: a kromatidák szétválnak a pólusok felé.",
+    t3_inst: "Tedd sorrendbe a mitózis fázisait!",
+    t3_w1: "Profázis", t3_w2: "Metafázis", t3_w3: "Anafázis", t3_w4: "Telofázis",
+    t3_q: "Melyik fázisban válnak szét a kromatidák?",
+    t3_q_a: "Anafázis", t3_q_b: "Profázis", t3_q_c: "Metafázis", t3_q_d: "Telofázis",
 
-    // Round 4: DNA and Chromosomes
-    r4_title: "DNS és kromoszómák",
-    r4_text: "A DNS szorosan összecsavarodott a kromoszómákat nevezett szerkezetekbe. Az emberek 46 kromoszómával rendelkeznek (23 pár). A mitózis során a kromoszómákat másolják, így minden lánysejt teljes készletet kap.",
-    r4_fact1: "A DNS genetikai utasításokat (gének) tartalmaz az összes sejt-funkcióhoz",
-    r4_fact2: "A kromoszómák szorosan csavarodott DNS-ből állnak",
-    r4_fact3: "A DNS replikációja során minden kromoszómának két azonos iker-kromatidja van",
-    r4_fact4: "Az iker-kromatidák az anafázis alatt elválnak az egyenlő elosztás biztosítása érdekében",
+    // T4: Osztódás jelentősége
+    t4_title: "Növekedés és gyógyulás",
+    t4_text: "Miért fontos az osztódás? A többsejtű lények ezen keresztül növekednek, és így pótolják az elpusztult sejtjeiket (pl. sebgyógyulás).",
+    t4_b1: "Növekedés: sejtjeink száma nő.",
+    t4_b2: "Regeneráció: elhalt bőrsejtek pótlása.",
+    t4_b3: "Ivartalan szaporodás: egysejtűeknél utódlás.",
+    t4_inst: "Mikor történik mitózis a testünkben? Válogasd szét!",
+    t4_bucket_igen: "Mitózis történik",
+    t4_bucket_nem: "Nem sejtosztódás",
+    t4_item_i1: "Sebgyógyulás", t4_item_i2: "Gyerekek növekedése",
+    t4_item_n1: "Ebéd elfogyasztása", t4_item_n2: "Álmodozás",
+    t4_q: "Az anyasejthez képest milyen az utódsejtek DNS-e mitózis után?",
+    t4_q_a: "Teljesen azonos", t4_q_b: "Fele annyi", t4_q_c: "Dupla annyi", t4_q_d: "Teljesen más",
 
-    // Round 5: Quiz
-    r5_title: "Sejt osztódás áttekintés",
-
-    // Quiz Questions
-    q1_q: "Mi a sejt ciklusa S fázisa?",
-    q1_a: "Szintézis (DNS másolás)",
-    q1_b: "Iker-kromatidák elválása",
-    q1_c: "Orsófonalak pörgése",
-    q1_d: "A sejt mag zsugorodása",
-
-    q2_q: "A mitózis mely szakaszában sorakoznak a kromoszómák a közepében?",
-    q2_a: "Profázis",
-    q2_b: "Metafázis",
-    q2_c: "Anafázis",
-    q2_d: "Telofázis",
-
-    q3_q: "Hány kromoszómával rendelkeznek az emberek?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld, mit tanultál a sejt életciklusáról és az osztódásról!",
+    t5_b1: "Interfázis = DNS másolás.",
+    t5_b2: "Mitózis = 2 azonos utódsejt.",
+    t5_b3: "Kromoszóma = tömörített DNS.",
+    t5_inst: "Hogy hívjuk a sejtosztódás fő típusát a testünkben?",
+    t5_gap_sentence2: "A testünk növekedését a {gap} folyamata biztosítja.",
+    t5_c51: "mitózis", t5_c52: "emésztés", t5_c53: "keringés",
+    t5_q: "Melyik állítás IGAZ a kromoszómákra?",
+    t5_q_a: "Osztódáskor láthatóvá váló örökítőanyag.", t5_q_b: "Csak a vízben találhatók.", t5_q_c: "Azonosak a baktériumokkal.", t5_q_d: "Nincs bennük DNS.",
   },
+  en: {
+    explorer_title: "Cell Division & Cycle",
+    t1_title: "Cell Life Cycle", t1_text: "The cell cycle is a continuous rotation of growth and division. Before dividing, the cell must replicate its DNA.",
+    t1_b1: "Interphase: growth and DNA copying.", t1_b2: "DNA replication: doubling the genetic code.", t1_b3: "Division: one parent cell becomes two daughter cells.",
+    t1_inst: "What happens during the resting phase before division?", t1_gap_sentence: "Before dividing, the cell {gap} its DNA content.",
+    t1_c1: "replicates", t1_c2: "loses", t1_c3: "digests",
+    t1_q: "In which stage does a cell spend 90% of its time?", t1_q_a: "Interphase", t1_q_b: "Mitosis", t1_q_c: "Death", t1_q_d: "Gas exchange",
 
+    t2_title: "Packaging DNA", t2_text: "During division, DNA strands coil tightly to form chromosomes, visible under a microscope.",
+    t2_b1: "Chromatid: two identical halves of a chromosome.", t2_b2: "Centromere: the center part holding them together.", t2_b3: "Gene: segment of DNA coding for a trait.",
+    t2_inst: "Label the parts of the chromosome!",
+    t2_area_chromatid: "Chromatid", t2_area_centromere: "Centromere", t2_area_gene: "Gene",
+    t2_q: "How many chromatids are in a dividing chromosome?", t2_q_a: "Two", t2_q_b: "Four", t2_q_c: "One", t2_q_d: "Eight",
+
+    t3_title: "Process of Mitosis", t3_text: "Mitosis results in two genetically identical daughter cells. It has 4 main phases.",
+    t3_b1: "Prophase: chromosomes become visible.", t3_b2: "Metaphase: chromosomes align in the middle.", t3_b3: "Anaphase: chromatids separate to poles.",
+    t3_inst: "Put the phases of mitosis in order!",
+    t3_w1: "Prophase", t3_w2: "Metaphase", t3_w3: "Anaphase", t3_w4: "Telophase",
+    t3_q: "In which phase do chromatids separate?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metaphase", t3_q_d: "Telophase",
+
+    t4_title: "Growth and Healing", t4_text: "Multicellular organisms grow and replace dead cells through division (e.g., wound healing).",
+    t4_b1: "Growth: increase in cell count.", t4_b2: "Regeneration: replacing skin cells.", t4_b3: "Asexual reproduction: offspring in unicellulars.",
+    t4_inst: "When does mitosis happen? Sort them!",
+    t4_bucket_igen: "Mitosis happens", t4_bucket_nem: "Not division",
+    t4_item_i1: "Wound healing", t4_item_i2: "Kids growing",
+    t4_item_n1: "Eating lunch", t4_item_n2: "Dreaming",
+    t4_q: "How is the daughter cell DNA compared to the parent?", t4_q_a: "Identical", t4_q_b: "Half", t4_q_c: "Double", t4_q_d: "Different",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about cell cycle!",
+    t5_b1: "Interphase = DNA copying.", t5_b2: "Mitosis = 2 identical cells.", t5_b3: "Chromosome = packed DNA.",
+    t5_inst: "What is the main type of cell division in our body?", t5_gap_sentence2: "Our body grows through the process of {gap}.",
+    t5_c51: "mitosis", t5_c52: "digestion", t5_c53: "circulation",
+    t5_q: "Which statement is TRUE about chromosomes?", t5_q_a: "DNA visible during division.", t5_q_b: "Only found in water.", t5_q_c: "Same as bacteria.", t5_q_d: "No DNA inside.",
+  },
+  de: {
+    explorer_title: "Zellteilung & Zyklus",
+    t1_title: "Lebenszyklus der Zelle", t1_text: "Zellteilung ist ein Kreislauf aus Wachstum und Teilung. Vorher muss die DNA verdoppelt werden.",
+    t1_b1: "Interphase: Wachstum und DNA-Kopie.", t1_b2: "DNA-Replikation: Verdopplung des Codes.", t1_b3: "Teilung: Aus einer Zelle werden zwei.",
+    t1_inst: "Was passiert vor der Teilung?", t1_gap_sentence: "Vor der Teilung {gap} die Zelle ihre DNA.",
+    t1_c1: "verdoppelt", t1_c2: "verliert", t1_c3: "frisst",
+    t1_q: "Wo verbringt die Zelle die meiste Zeit?", t1_q_a: "Interphase", t1_q_b: "Mitose", t1_q_c: "Tod", t1_q_d: "Atmung",
+
+    t2_title: "Verpackung der DNA", t2_text: "Während der Teilung rollt sich die DNA zu sichtbaren Chromosomen auf.",
+    t2_b1: "Chromatid: eine der zwei identischen Hälften.", t2_b2: "Centromer: die Haltestelle in der Mitte.", t2_b3: "Gen: DNA-Abschnitt für ein Merkmal.",
+    t2_inst: "Beschrifte das Chromosom!",
+    t2_area_chromatid: "Chromatid", t2_area_centromere: "Centromer", t2_area_gene: "Gen",
+    t2_q: "Aus wie vielen Chromatiden besteht ein Chromosom?", t2_q_a: "Zwei", t2_q_b: "Vier", t2_q_c: "Eins", t2_q_d: "Acht",
+
+    t3_title: "Ablauf der Mitose", t3_text: "Die Mitose erzeugt zwei identische Zellen. Sie hat 4 Phasen.",
+    t3_b1: "Prophase: Kernhülle zerfällt.", t3_b2: "Metaphase: Chromosomen in der Mitte.", t3_b3: "Anaphase: Trennung der Chromatiden.",
+    t3_inst: "Bringe die Mitose-Phasen in Reihenfolge!",
+    t3_w1: "Prophase", t3_w2: "Metaphase", t3_w3: "Anaphase", t3_w4: "Telophase",
+    t3_q: "Wann trennen sich die Chromatiden?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metaphase", t3_q_d: "Telophase",
+
+    t4_title: "Wachstum und Heilung", t4_text: "Zellteilung ermöglicht Wachstum und die Heilung von Wunden.",
+    t4_b1: "Wachstum: Zellzahl steigt.", t4_b2: "Regeneration: Hauterneuerung.", t4_b3: "Vermehrung: bei Einzellern.",
+    t4_inst: "Wann findet Mitose statt?",
+    t4_bucket_igen: "Mitose", t4_bucket_nem: "Keine Teilung",
+    t4_item_i1: "Wundheilung", t4_item_i2: "Größer werden",
+    t4_item_n1: "Essen", t4_item_n2: "Träumen",
+    t4_q: "Wie ist die DNA der Tochterzellen?", t4_q_a: "Identisch", t4_q_b: "Halbiert", t4_q_c: "Verdoppelt", t4_q_d: "Anders",
+
+    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen!",
+    t5_b1: "Interphase = DNA-Kopie.", t5_b2: "Mitose = 2 identische Zellen.", t5_b3: "Chromosom = verpackte DNA.",
+    t5_inst: "Wie heißt die Körperzellteilung?", t5_gap_sentence2: "Körperwachstum geschieht durch {gap}.",
+    t5_c51: "Mitose", t5_c52: "Verdauung", t5_c53: "Laufen",
+    t5_q: "Was sind Chromosomen?", t5_q_a: "Erbgutträger", t5_q_b: "Bakterien", t5_q_c: "Wasserpflanzen", t5_q_d: "Zucker",
+  },
   ro: {
-    // Round 1: Cell Cycle
-    r1_title: "Ciclul celular",
-    r1_text: "Ciclul celular este procesul de creștere, copiere a ADN-ului și diviziune. Are trei faze principale: G1, S și G2, urmate de mitoză (faza M).",
-    r1_fact1: "Faza G1: Celula crește și efectuează funcții normale",
-    r1_fact2: "Faza S: ADN-ul este copiat (replicare) — fiecare cromozom este duplicat",
-    r1_fact3: "Faza G2: Celula continuă să crească și se pregătește pentru diviziune",
-    r1_fact4: "Faza M: Mitoză — celula se divide în două celule fiice",
+    explorer_title: "Diviziune & Ciclu Celular",
+    t1_title: "Ciclul de Viață al Celulei", t1_text: "Ciclul celular este o rotație continuă: creștere și diviziune. Înainte de a se divide, celula trebuie să își replice ADN-ul.",
+    t1_b1: "Interfaza: creștere și copierea ADN-ului.", t1_b2: "Replicarea ADN-ului: dublarea codului genetic.", t1_b3: "Diviziunea: o celulă mamă devine două celule fiice.",
+    t1_inst: "Ce se întâmplă în faza de repaus înainte de diviziune?", t1_gap_sentence: "Înainte de diviziune, celula își {gap} ADN-ul.",
+    t1_c1: "duplică", t1_c2: "pierde", t1_c3: "consumă",
+    t1_q: "În ce etapă își petrece celula 90% din timp?", t1_q_a: "Interfază", t1_q_b: "Mitoză", t1_q_c: "Moarte", t1_q_d: "Respirație",
 
-    // Round 2: Mitosis
-    r2_title: "Etapele mitozei",
-    r2_text: "Mitoza este împărțită în patru etape. Fiecare etapă are o sarcină specifică în împărțirea egală a materialului genetic al celulei.",
-    r2_fact1: "Profază: Cromozomii se condensează și devin vizibili; se formează fibre de fus",
-    r2_fact2: "Metafază: Cromozomii se aliniază în mijlocul celulei",
-    r2_fact3: "Anafază: Cromatidele surori se separă și se mută la poli opuși",
-    r2_fact4: "Telofază: Se formează membrane nucleare și celula se strânge în mijloc",
+    t2_title: "Împachetarea ADN-ului", t2_text: "În timpul diviziunii, firele de ADN se înfășoară strâns și formează cromozomi vizibili la microscop.",
+    t2_b1: "Cromatidă: cele două jumătăți identice ale unui cromozom.", t2_b2: "Centromer: partea centrală care le ține unite.", t2_b3: "Genă: segment de ADN care codifică o trăsătură.",
+    t2_inst: "Etichetează părțile cromozomului!",
+    t2_area_chromatid: "Cromatidă", t2_area_centromere: "Centromer", t2_area_gene: "Genă",
+    t2_q: "Din câte cromatide este format un cromozom aflat în diviziune?", t2_q_a: "Două", t2_q_b: "Patru", t2_q_c: "Una", t2_q_d: "Opt",
 
-    // Round 3: Why Cells Divide
-    r3_title: "De ce se divid celulele?",
-    r3_text: "Celulele se divid din trei motive principale: pentru a crește organismul, pentru a repara țesuturile dăunate și pentru a se reproduce asexuat.",
-    r3_q: "Care este un motiv pentru care se divid celulele?",
-    r3_growth: "Organismele cresc prin creșterea numărului de celule",
-    r3_size: "Celulele devin mai mari decât mărimea normală",
-    r3_rest: "Celulele au nevoie de timp pentru a se odihni",
-    r3_nutrition: "Celulele au nevoie de mai mulți nutrienți",
+    t3_title: "Procesul Mitozei", t3_text: "Mitoza rezultă în două celule fiice identice genetic. Are 4 faze principale.",
+    t3_b1: "Profaza: cromozomii devin vizibili.", t3_b2: "Metafaza: cromozomii se aliniază la mijloc.", t3_b3: "Anafaza: cromatidele se separă spre poli.",
+    t3_inst: "Pune fazele mitozei în ordine!",
+    t3_w1: "Profază", t3_w2: "Metafază", t3_w3: "Anafază", t3_w4: "Telofază",
+    t3_q: "În ce fază se separă cromatidele?", t3_q_a: "Anafază", t3_q_b: "Profază", t3_q_c: "Metafază", t3_q_d: "Telofază",
 
-    // Round 4: DNA and Chromosomes
-    r4_title: "ADN și cromozomi",
-    r4_text: "ADN-ul este răsucit strâns în structuri numite cromozomi. Oamenii au 46 de cromozomi (23 de perechi). În timpul mitozei, cromozomii sunt copiați, astfel încât fiecare celulă fiică să primească un set complet.",
-    r4_fact1: "ADN-ul conține instrucțiuni genetice (gene) pentru toate funcțiile celulare",
-    r4_fact2: "Cromozomii sunt formați din ADN răsucit strâns",
-    r4_fact3: "Atunci când ADN-ul se replicază, fiecare cromozom are două cromatide surori identice",
-    r4_fact4: "Cromatidele surori se separă în timpul anafazei pentru a asigura distribuția egală",
+    t4_title: "Creștere și Vindecare", t4_text: "Organismele multicelulare cresc și înlocuiesc celulele moarte prin diviziune (ex: vindecarea rănilor).",
+    t4_b1: "Creștere: creșterea numărului de celule.", t4_b2: "Regenerare: înlocuirea celulelor pielii.", t4_b3: "Reproducere asexuată: la unicelulare.",
+    t4_inst: "Când are loc mitoza? Sortează-le!",
+    t4_bucket_igen: "Are loc mitoza", t4_bucket_nem: "Nu e diviziune",
+    t4_item_i1: "Vindecarea rănilor", t4_item_i2: "Creșterea copiilor",
+    t4_item_n1: "Mâncatul prânzului", t4_item_n2: "Visatul",
+    t4_q: "Cum este ADN-ul celulei fiice față de cel al mamei?", t4_q_a: "Identic", t4_q_b: "Jumătate", t4_q_c: "Dublu", t4_q_d: "Diferit",
 
-    // Round 5: Quiz
-    r5_title: "Recapitulare diviziune celulară",
+    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele!",
+    t5_b1: "Interfază = copiere ADN.", t5_b2: "Mitoză = 2 celule identice.", t5_b3: "Cromozom = ADN împachetat.",
+    t5_inst: "Cum se numește diviziunea celulelor corpului?", t5_gap_sentence2: "Corpul crește prin procesul de {gap}.",
+    t5_c51: "mitoză", t5_c52: "digestie", t5_c53: "circulație",
+    t5_q: "Ce sunt cromozomii?", t5_q_a: "Purtători ai eredității", t5_q_b: "Bacterii", t5_q_c: "Plante", t5_q_d: "Zahăr",
+  }
+};
 
-    // Quiz Questions
-    q1_q: "Ce este faza S a ciclului celular?",
-    q1_a: "Sinteză (copiere ADN)",
-    q1_b: "Separarea cromatidelor surori",
-    q1_c: "Rotirea fibrelor de fus",
-    q1_d: "Contracția nucleului",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care etapă a mitozei are cromozomii aliniați în mijloc?",
-    q2_a: "Profază",
-    q2_b: "Metafază",
-    q2_c: "Anafază",
-    q2_d: "Telofază",
-
-    q3_q: "Câți cromozomi au oamenii?",
-    q3_a: "23",
-    q3_b: "46",
-    q3_c: "92",
-    q3_d: "184",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b2",
+      hint2: "t1_b1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <MitosisSvg lang={lang} />, // A kromoszóma szerkezete
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "chromatid",  x: 40, y: 30, label: "t2_area_chromatid" },
+        { id: "centromere", x: 50, y: 55, label: "t2_area_centromere" },
+        { id: "gene",       x: 60, y: 75, label: "t2_area_gene" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <MitosisSvg lang={lang} />, // Osztódási fázisok
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "igen", label: "t4_bucket_igen" },
+        { id: "nem", label: "t4_bucket_nem" },
+      ],
+      items: [
+        { text: "t4_item_i1", bucketId: "igen" },
+        { text: "t4_item_n1", bucketId: "nem" },
+        { text: "t4_item_i2", bucketId: "igen" },
+        { text: "t4_item_n2", bucketId: "nem" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — Simple colored shapes
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-function CellCycleSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* G1 phase */}
-      <g>
-        <circle cx="50" cy="80" r="25" fill="#A8DADC" opacity="0.6" stroke="#457B9D" strokeWidth="1.5" />
-        <text x="50" y="75" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          G1
-        </text>
-        <text x="50" y="90" textAnchor="middle" fontSize="7" fill="#333">
-          Growth
-        </text>
-      </g>
-      {/* S phase */}
-      <g>
-        <circle cx="120" cy="50" r="25" fill="#F4A261" opacity="0.6" stroke="#D97706" strokeWidth="1.5" />
-        <text x="120" y="45" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          S
-        </text>
-        <text x="120" y="60" textAnchor="middle" fontSize="7" fill="#333">
-          DNA copy
-        </text>
-      </g>
-      {/* G2 phase */}
-      <g>
-        <circle cx="190" cy="80" r="25" fill="#76C893" opacity="0.6" stroke="#2D6A4F" strokeWidth="1.5" />
-        <text x="190" y="75" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          G2
-        </text>
-        <text x="190" y="90" textAnchor="middle" fontSize="7" fill="#333">
-          Prepare
-        </text>
-      </g>
-      {/* M phase (Mitosis) */}
-      <g>
-        <circle cx="120" cy="125" r="25" fill="#E76F51" opacity="0.6" stroke="#D62828" strokeWidth="1.5" />
-        <text x="120" y="120" textAnchor="middle" fontSize="9" fill="#333" fontWeight="bold">
-          M
-        </text>
-        <text x="120" y="135" textAnchor="middle" fontSize="7" fill="#333">
-          Divide
-        </text>
-      </g>
-      {/* Arrows showing cycle direction */}
-      <path d="M 70 70 L 100 55" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 145 55 L 165 70" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 190 105 L 150 115" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-      <path d="M 95 115 L 75 100" fill="none" stroke="#666" strokeWidth="1" markerEnd="url(#arrowhead)" />
-    </svg>
-  );
-}
-
-function MitosisStageSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Prophase */}
-      <g>
-        <rect x="10" y="30" width="45" height="50" fill="#FFE0E6" opacity="0.5" stroke="#FF6B9D" strokeWidth="1.5" rx="3" />
-        <circle cx="32.5" cy="55" r="12" fill="#FFB6D9" opacity="0.6" stroke="#FF6B9D" strokeWidth="1" />
-        <text x="32.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Prophase
-        </text>
-      </g>
-
-      {/* Metaphase */}
-      <g>
-        <rect x="65" y="30" width="45" height="50" fill="#B7E4C7" opacity="0.5" stroke="#52B788" strokeWidth="1.5" rx="3" />
-        <line x1="70" y1="55" x2="105" y2="55" stroke="#2D6A4F" strokeWidth="2" />
-        <circle cx="75" cy="55" r="4" fill="#2D6A4F" />
-        <circle cx="100" cy="55" r="4" fill="#2D6A4F" />
-        <text x="87.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Metaphase
-        </text>
-      </g>
-
-      {/* Anaphase */}
-      <g>
-        <rect x="120" y="30" width="45" height="50" fill="#FFE5B4" opacity="0.5" stroke="#D97706" strokeWidth="1.5" rx="3" />
-        <circle cx="130" cy="40" r="4" fill="#D97706" />
-        <circle cx="150" cy="40" r="4" fill="#D97706" />
-        <circle cx="130" cy="70" r="4" fill="#D97706" />
-        <circle cx="150" cy="70" r="4" fill="#D97706" />
-        <text x="142.5" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Anaphase
-        </text>
-      </g>
-
-      {/* Telophase */}
-      <g>
-        <circle cx="175" cy="40" r="12" fill="#E6F3FF" opacity="0.6" stroke="#457B9D" strokeWidth="1" />
-        <circle cx="175" cy="70" r="12" fill="#E6F3FF" opacity="0.6" stroke="#457B9D" strokeWidth="1" />
-        <text x="175" y="88" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Telophase
-        </text>
-      </g>
-
-      <defs>
-        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#666" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-function WhyCellsDivideSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Growth */}
-      <g>
-        <circle cx="50" cy="40" r="15" fill="#76C893" opacity="0.5" stroke="#2D6A4F" strokeWidth="1.5" />
-        <text x="50" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          1
-        </text>
-        <text x="50" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Growth
-        </text>
-      </g>
-
-      {/* Repair */}
-      <g>
-        <circle cx="120" cy="40" r="15" fill="#FF9F5A" opacity="0.5" stroke="#D97706" strokeWidth="1.5" />
-        <text x="120" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          2
-        </text>
-        <text x="120" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Repair
-        </text>
-      </g>
-
-      {/* Reproduction */}
-      <g>
-        <circle cx="190" cy="40" r="15" fill="#E76F51" opacity="0.5" stroke="#D62828" strokeWidth="1.5" />
-        <text x="190" y="45" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          3
-        </text>
-        <text x="190" y="75" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Reproduce
-        </text>
-      </g>
-
-      {/* Parent cell dividing */}
-      <circle cx="120" cy="120" r="20" fill="#A8DADC" opacity="0.5" stroke="#457B9D" strokeWidth="2" />
-      <line x1="120" y1="100" x2="120" y2="140" stroke="#457B9D" strokeWidth="1.5" strokeDasharray="3" />
-      <circle cx="90" cy="120" r="12" fill="#B7E4C7" opacity="0.6" stroke="#52B788" strokeWidth="1" />
-      <circle cx="150" cy="120" r="12" fill="#B7E4C7" opacity="0.6" stroke="#52B788" strokeWidth="1" />
-    </svg>
-  );
-}
-
-function DNAChromosomeSVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* DNA double helix */}
-      <g>
-        <path d="M 30 30 Q 40 50 30 70 Q 20 50 30 30" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-        <path d="M 40 35 Q 50 55 40 75 Q 30 55 40 35" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-        <circle cx="30" cy="50" r="3" fill="#FF6B9D" />
-        <circle cx="40" cy="60" r="3" fill="#FF6B9D" />
-        <text x="35" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          DNA
-        </text>
-      </g>
-
-      {/* Condensed chromosome */}
-      <g>
-        <path d="M 100 40 L 110 60 M 110 40 L 100 60" stroke="#FFD93D" strokeWidth="3" strokeLinecap="round" />
-        <text x="105" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Chromosome
-        </text>
-      </g>
-
-      {/* Sister chromatids */}
-      <g>
-        <path d="M 170 40 L 180 60 M 180 40 L 170 60" stroke="#87CEEB" strokeWidth="2.5" strokeLinecap="round" />
-        <path d="M 180 40 L 190 60 M 190 40 L 180 60" stroke="#87CEEB" strokeWidth="2.5" strokeLinecap="round" />
-        <circle cx="180" cy="50" r="2" fill="#333" />
-        <text x="180" y="95" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Sister
-        </text>
-        <text x="180" y="107" textAnchor="middle" fontSize="8" fill="#333" fontWeight="bold">
-          Chromatids
-        </text>
-      </g>
-
-      {/* Labels showing progression */}
-      <path d="M 60 50 L 85 50" fill="none" stroke="#999" strokeWidth="1" markerEnd="url(#arrowhead2)" />
-      <path d="M 130 50 L 155 50" fill="none" stroke="#999" strokeWidth="1" markerEnd="url(#arrowhead2)" />
-
-      <defs>
-        <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#999" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const DIVISION_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <CellCycleSVG />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <MitosisStageSVG />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <WhyCellsDivideSVG />,
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_growth", "r3_size", "r3_rest", "r3_nutrition"],
-          answer: "r3_growth",
-        },
-      ],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <DNAChromosomeSVG />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <CellCycleSVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_a",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_b",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_b",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "⚗️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface DivisionExplorerProps {
+const DivisionExplorer = memo(function DivisionExplorer({
+  color = "#8B5CF6", // Violet-500
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_division" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function DivisionExplorer({ lang = "en", onDone }: DivisionExplorerProps) {
-  return <ExplorerEngine def={DIVISION_EXPLORER_DEF} color="#E76F51" lang={lang} onDone={onDone} />;
-}
+export default DivisionExplorer;

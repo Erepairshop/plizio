@@ -38,3 +38,13 @@ export { CellStructureSvg, MitosisSvg, ChloroplastSvg, MitochondriaSvg, DNAHelix
 
 // ── K7-K8: Rendszerek ──
 export { CirculationSvg, ImmuneSystemSvg, NervousSystemSvg, BrainRegionsSvg, HormoneSvg, ReproductionSvg } from "./SystemsSvg";
+
+// ── K7: Ökológia & Evolúció ──
+export { PopulationEcologySvg, SymbiosisSvg, EvolutionSvg } from "./EcologyEvolutionSvg";
+// Alias for explorers that import the file-level name:
+export { PopulationEcologySvg as EcologyEvolutionSvg } from "./EcologyEvolutionSvg";
+
+// ── K8: Genetika & Biotechnológia ──
+export { MutationSvg, EnzymeSvg, HomeostasisSvg, PopulationGeneticsSvg, PhylogeneticTreeSvg, SexDeterminationSvg } from "./GeneticsBiotechSvg";
+// Alias for explorers that import the file-level name:
+export { EnzymeSvg as GeneticsBiotechSvg } from "./GeneticsBiotechSvg";

@@ -23,6 +23,8 @@ import DragToBucket from "@/components/interactive/DragToBucket";
 import SentenceBuild from "@/components/interactive/SentenceBuild";
 import MatchPairsInteractive from "@/components/interactive/MatchPairs";
 import HighlightText from "@/components/interactive/HighlightText";
+import LabelDiagram from "@/components/interactive/LabelDiagram";
+import type { DiagramArea } from "@/components/interactive/LabelDiagram";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -267,6 +269,13 @@ export type TopicInteractive =
       type: "highlight-text";
       tokens: string[];          // label keys for sentence tokens
       correctIndices: number[];  // indices of correct tokens to highlight
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "label-diagram";
+      areas: { id: string; x: number; y: number; label: string }[];  // x,y in % (0-100), label = label key
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1260,6 +1269,21 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                         <HighlightText
                           tokens={inter.tokens.map(t => L(t))}
                           correctIndices={inter.correctIndices}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "label-diagram") {
+                      const topicSvg = topics[topicIdx]?.svg;
+                      return (
+                        <LabelDiagram
+                          svg={topicSvg ? topicSvg(langCode) : null}
+                          areas={inter.areas.map(a => ({ id: a.id, x: a.x, y: a.y, label: L(a.label) }))}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}

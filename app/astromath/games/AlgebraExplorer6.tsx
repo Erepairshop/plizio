@@ -251,6 +251,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_step2: "Împarte ambele părți la 2 (8 / 2 = ?)",
     t3_h1: "Pas 1: 13 - 5 = 8. Pas 2: 8 împărțit la 2 este 4.",
     t3_h2: "Selectează 8, apoi 4.",
+    t3_q: "Rezolvă pentru x: 3x + 1 = 10",
+    t3_q_a: "3",
+    t3_q_b: "4",
+    t3_q_c: "9",
+    t3_q_d: "2",
   },
 };
 
@@ -265,7 +270,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [1, 1, 1], // Simplified blocks representation
+      groups: [4, 4, 3], // 4+4+3 = 11 blocks (representing 2x+3 when x=4)
       answer: 11,
       blockIcon: "📦",
       instruction: "t1_inst",

@@ -1,536 +1,324 @@
 "use client";
-// SystemsExplorer — Island i9: Systems Biology (Systembbiologie) Grade 8
-// Topics: Homeostasis, Metabolism, Body system integration, Organ system cooperation
-// Teaching-first: R1-R4 info rounds, R5 quiz
+// SystemsExplorer.tsx — Bio Island i9: Összefoglaló (K6)
+// Topics: 1) Ízeltlábúak 2) Erdei ökoszisztéma 3) Szív és Keringés 4) Légzés 5) Szaporodás és Pubertás
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { ArthropodGroupsSvg, ForestLayersSvg, HeartSvg, LungsSvg, ReproductionSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Év Végi Összefoglaló K6",
+    // T1: Ízeltlábúak
+    t1_title: "Az Ízeltlábúak",
+    t1_text: "Az ízeltlábúak a Föld legnagyobb állatcsoportja. Jellemzőjük a külső kitinváz és az ízelt lábak. Legfőbb csoportjaik a rovarok és a pókszabásúak.",
+    t1_b1: "Rovarok: 3 testtáj (fej, tor, potroh), 6 láb, csápok jelenléte.",
+    t1_b2: "Pókszabásúak: 2 testtáj (fejtor, potroh), 8 láb, nincsenek csápjaik.",
+    t1_b3: "Mindkét csoport fejlődése során vedlik (lecseréli a szűk vázat).",
+    t1_inst: "Rovar vagy Pók? Válogasd szét a jellemzőket!",
+    t1_bucket_rov: "Rovarok",
+    t1_bucket_pok: "Pókok",
+    t1_item_r1: "6 láb", t1_item_r2: "Van csápja",
+    t1_item_p1: "8 láb", t1_item_p2: "Nincs csápja",
+    t1_q: "Milyen anyagból áll az ízeltlábúak külső váza?",
+    t1_q_a: "Kitinből", t1_q_b: "Mészből", t1_q_c: "Porcból", t1_q_d: "Csontból",
+
+    // T2: Erdő
+    t2_title: "Az Erdei Ökoszisztéma",
+    t2_text: "Az erdő egy bonyolult életközösség, ahol a növények, állatok és lebontók szigorú táplálékhálózatot alkotnak.",
+    t2_b1: "Termelők: a zöld növények napfényből állítják elő a táplálékot.",
+    t2_b2: "Fogyasztók: növényevő és húsevő állatok, amelyek a termelőket vagy egymást eszik.",
+    t2_b3: "Lebontók: gombák és baktériumok, melyek humusszá alakítják a holt anyagokat.",
+    t2_inst: "Párosítsd a szereplőt a feladatával!",
+    t2_l1: "Növények", t2_r1: "Termelők (táplálékot készít)",
+    t2_l2: "Állatok", t2_r2: "Fogyasztók (másokból él)",
+    t2_l3: "Gombák", t2_r3: "Lebontók (eltakarítják a holt anyagot)",
+    t2_q: "Mit hoznak létre a lebontók az elhalt növényekből a talajban?",
+    t2_q_a: "Humuszt", t2_q_b: "Sziklát", t2_q_c: "Műanyagot", t2_q_d: "Sós vizet",
+
+    // T3: Szív és Keringés
+    t3_title: "Szív és Keringés",
+    t3_text: "A keringési rendszer szállítja a vért a testben. A motorja a szív, amely négy üregből (két pitvar, két kamra) áll.",
+    t3_b1: "Kis vérkör: a tüdőbe szállítja a vért, ahol az felveszi az oxigént.",
+    t3_b2: "Nagy vérkör: az oxigéndús vért a test összes sejtjéhez juttatja.",
+    t3_b3: "A vörösvérsejtek feladata az oxigén szállítása.",
+    t3_inst: "Mik pumpálják a vért a szívből a test és a tüdő felé?",
+    t3_gap_sentence: "A szívből a vért a {gap} pumpálják ki.",
+    t3_c1: "kamrák", t3_c2: "pitvarok", t3_c3: "billentyűk",
+    t3_q: "Milyen erek viszik el a vért a szívből?",
+    t3_q_a: "Artériák (ütőerek)", t3_q_b: "Vénák (gyűjtőerek)", t3_q_c: "Nyirokerek", t3_q_d: "Légcsövek",
+
+    // T4: Légzés
+    t4_title: "A Légzőrendszer",
+    t4_text: "A légzés célja az oxigén felvétele és a szén-dioxid leadása. Ez a gázcsere a tüdőhólyagocskákban történik.",
+    t4_b1: "A levegő az orrüregen, a gégén és a légcsövön át jut a tüdőbe.",
+    t4_b2: "A belégzést a rekeszizom és a mellkasizmok végzik.",
+    t4_b3: "A sejtek az oxigént energiatermelésre használják fel.",
+    t4_inst: "Tedd sorba a mondat szavait!",
+    t4_w1: "Az", t4_w2: "oxigén", t4_w3: "bejut", t4_w4: "a", t4_w5: "vérbe.",
+    t4_q: "Melyik izom játssza a legfőbb szerepet a légzésben?",
+    t4_q_a: "A rekeszizom", t4_q_b: "A szívizom", t4_q_c: "A hasizom", t4_q_d: "A nyelvizom",
+
+    // T5: Szaporodás
+    t5_title: "Szaporodás és Pubertás",
+    t5_text: "A pubertás során a hormonok hatására a test felkészül a felnőttkorra és a szaporodásra.",
+    t5_b1: "A herék termelik a hímivarsejteket (spermiumokat) és a tesztoszteront.",
+    t5_b2: "A petefészkek termelik a petesejteket és az ösztrogént.",
+    t5_b3: "A megtermékenyített petesejt a méhben fejlődik magzattá.",
+    t5_inst: "Hol fejlődik az embrió (magzat) a terhesség alatt?",
+    t5_gap_sentence2: "A magzat a női {gap} fejlődik a kilenc hónap alatt.",
+    t5_c51: "méhben", t5_c52: "petefészekben", t5_c53: "gyomorban",
+    t5_q: "Mik irányítják a serdülőkori testi változásokat?",
+    t5_q_a: "A hormonok", t5_q_b: "A vörösvérsejtek", t5_q_c: "A baktériumok", t5_q_d: "Az ízületek",
+  },
   en: {
-    // Round 1: Homeostasis
-    r1_title: "Homeostasis: Keeping Conditions Stable",
-    r1_text: "Homeostasis is the process by which living organisms maintain a stable internal environment despite changes in the external world.",
-    r1_fact1: "Body temperature: Thermoregulation keeps you at ~37°C (98.6°F) — sweating cools, shivering warms",
-    r1_fact2: "Blood pH: Stays near 7.4 — kidneys and lungs work together to regulate acid-base balance",
-    r1_fact3: "Blood glucose: Insulin (from pancreas) lowers it; glucagon raises it — keeping energy stable",
-    r1_fact4: "Water balance: Kidneys adjust urine production to keep blood osmolarity constant",
+    explorer_title: "Final Review K6",
+    t1_title: "The Arthropods", t1_text: "Arthropods are the largest animal group. They have an external chitin skeleton and jointed legs. The main groups are insects and arachnids.",
+    t1_b1: "Insects: 3 body parts, 6 legs, have antennae.", t1_b2: "Arachnids: 2 body parts, 8 legs, no antennae.", t1_b3: "Both groups molt (shed their skeleton) to grow.",
+    t1_inst: "Insect or Arachnid? Sort the features!",
+    t1_bucket_rov: "Insects", t1_bucket_pok: "Arachnids",
+    t1_item_r1: "6 legs", t1_item_r2: "Has antennae", t1_item_p1: "8 legs", t1_item_p2: "No antennae",
+    t1_q: "What material makes up the external skeleton of arthropods?", t1_q_a: "Chitin", t1_q_b: "Calcium", t1_q_c: "Cartilage", t1_q_d: "Bone",
 
-    // Round 2: Metabolism Types
-    r2_title: "Metabolism: Building & Breaking Down",
-    r2_text: "Metabolism is all the chemical reactions that keep you alive. Two main types work together.",
-    r2_fact1: "Anabolism: Building-up reactions (photosynthesis, protein synthesis, bone growth) — requires energy",
-    r2_fact2: "Catabolism: Breaking-down reactions (digestion, cell respiration) — releases energy (ATP)",
-    r2_fact3: "Basal metabolic rate (BMR): Energy your body needs just to maintain basic functions at rest",
-    r2_fact4: "Exercise increases catabolism: Muscles burn glucose and fats to produce ATP for movement",
+    t2_title: "Forest Ecosystem", t2_text: "The forest is a complex community where plants, animals, and decomposers form a strict food web.",
+    t2_b1: "Producers: green plants make food from sunlight.", t2_b2: "Consumers: herbivores and carnivores that eat producers or each other.", t2_b3: "Decomposers: fungi and bacteria that turn dead matter into humus.",
+    t2_inst: "Match the organism to its role!",
+    t2_l1: "Plants", t2_r1: "Producers (make food)", t2_l2: "Animals", t2_r2: "Consumers (eat others)", t2_l3: "Fungi", t2_r3: "Decomposers (clean up)",
+    t2_q: "What do decomposers create from dead plants in the soil?", t2_q_a: "Humus", t2_q_b: "Rocks", t2_q_c: "Plastic", t2_q_d: "Saltwater",
 
-    // Round 3: Body System Integration
-    r3_title: "How Systems Work Together",
-    r3_text: "Your body is a coordinated team. The nervous, endocrine, and immune systems communicate constantly.",
-    r3_fact1: "Nervous system (brain, spinal cord, nerves): Fast electrical signals — instant responses (reflex arc)",
-    r3_fact2: "Endocrine system (glands, hormones): Slow chemical signals — long-term regulation (growth, metabolism)",
-    r3_fact3: "Immune system (white blood cells, lymph): Defends against pathogens — works with lymphoid organs",
-    r3_fact4: "Example: Stress response — nervous system releases epinephrine → heart rate ↑, blood pressure ↑",
+    t3_title: "Heart and Circulation", t3_text: "The circulatory system transports blood. Its engine is the heart, which has four chambers (two atria, two ventricles).",
+    t3_b1: "Pulmonary loop: takes blood to the lungs to pick up oxygen.", t3_b2: "Systemic loop: delivers oxygen-rich blood to all body cells.", t3_b3: "Red blood cells are responsible for carrying oxygen.",
+    t3_inst: "What pumps blood out of the heart to the body and lungs?", t3_gap_sentence: "Blood is pumped out of the heart by the {gap}.",
+    t3_c1: "ventricles", t3_c2: "atria", t3_c3: "valves",
+    t3_q: "Which blood vessels carry blood away from the heart?", t3_q_a: "Arteries", t3_q_b: "Veins", t3_q_c: "Lymph vessels", t3_q_d: "Windpipes",
 
-    // Round 4: Organ System Cooperation
-    r4_title: "Example: Exercise Calls All Systems",
-    r4_text: "When you exercise, every major system springs into coordinated action to support muscle work.",
-    r4_fact1: "Muscular system: Contracts with ATP energy to generate force and movement",
-    r4_fact2: "Cardiovascular system: Heart pumps faster, blood vessels dilate to deliver O₂ and glucose to muscles",
-    r4_fact3: "Respiratory system: Breathing deepens to increase oxygen uptake and CO₂ removal",
-    r4_fact4: "Nervous & endocrine: Activate fight-or-flight response; regulate lactate, body temp, water loss (sweat)",
+    t4_title: "The Respiratory System", t4_text: "The goal of breathing is to take in oxygen and release carbon dioxide. Gas exchange happens in the alveoli.",
+    t4_b1: "Air goes through the nasal cavity, larynx, and trachea to the lungs.", t4_b2: "Inhalation is driven by the diaphragm and chest muscles.", t4_b3: "Cells use oxygen to produce energy.",
+    t4_inst: "Put the words in order!",
+    t4_w1: "The", t4_w2: "oxygen", t4_w3: "enters", t4_w4: "the", t4_w5: "blood.",
+    t4_q: "Which muscle plays the biggest role in breathing?", t4_q_a: "The diaphragm", t4_q_b: "The heart muscle", t4_q_c: "The abdominal muscle", t4_q_d: "The tongue",
 
-    // Round 5: Quiz
-    r5_title: "Systems Biology Review",
-
-    // Quiz questions
-    q1_q: "What is homeostasis?",
-    q1_a: "The process of digesting food",
-    q1_b: "Maintaining a stable internal environment despite external changes",
-    q1_c: "The movement of molecules across cell membranes",
-    q1_d: "The breakdown of glucose in mitochondria",
-
-    q2_q: "Which process builds up molecules and requires energy?",
-    q2_a: "Catabolism",
-    q2_b: "Respiration",
-    q2_c: "Anabolism",
-    q2_d: "Digestion",
-
-    q3_q: "During exercise, which system delivers oxygen to working muscles?",
-    q3_a: "Digestive system",
-    q3_b: "Nervous system",
-    q3_c: "Cardiovascular system",
-    q3_d: "Endocrine system",
+    t5_title: "Reproduction and Puberty", t5_text: "During puberty, hormones prepare the body for adulthood and reproduction.",
+    t5_b1: "The testes produce sperm cells and testosterone.", t5_b2: "The ovaries produce egg cells and estrogen.", t5_b3: "The fertilized egg develops into a fetus in the uterus.",
+    t5_inst: "Where does the embryo (fetus) develop during pregnancy?", t5_gap_sentence2: "The fetus develops in the female {gap} during pregnancy.",
+    t5_c51: "uterus", t5_c52: "ovary", t5_c53: "stomach",
+    t5_q: "What controls the physical changes during puberty?", t5_q_a: "Hormones", t5_q_b: "Red blood cells", t5_q_c: "Bacteria", t5_q_d: "Joints",
   },
   de: {
-    // Round 1: Homöostase
-    r1_title: "Homöostase: Bedingungen stabil halten",
-    r1_text: "Homöostase ist der Prozess, durch den lebende Organismen eine stabile innere Umgebung trotz Veränderungen in der äußeren Welt aufrechterhalten.",
-    r1_fact1: "Körpertemperatur: Thermoregulation hält dich bei ~37°C (98,6°F) — Schwitzen kühlt, Schüttelfrost wärmt",
-    r1_fact2: "Blut-pH: Bleibt bei ~7,4 — Nieren und Lungen arbeiten zusammen, um das Säure-Basen-Gleichgewicht zu regulieren",
-    r1_fact3: "Blutglukose: Insulin (aus der Bauchspeicheldrüse) senkt es; Glukagon erhöht es — hält Energie stabil",
-    r1_fact4: "Wasserbilanz: Nieren passen die Urinproduktion an, um die Blutosmolarität konstant zu halten",
+    explorer_title: "Jahresrückblick K6",
+    t1_title: "Die Gliederfüßer", t1_text: "Gliederfüßer sind die größte Tiergruppe. Sie haben ein Chitin-Außenskelett und Gliedmaßen. Die Hauptgruppen sind Insekten und Spinnentiere.",
+    t1_b1: "Insekten: 3 Körperteile, 6 Beine, haben Fühler.", t1_b2: "Spinnentiere: 2 Körperteile, 8 Beine, keine Fühler.", t1_b3: "Beide Gruppen häuten sich, um zu wachsen.",
+    t1_inst: "Insekt oder Spinne? Sortiere!",
+    t1_bucket_rov: "Insekten", t1_bucket_pok: "Spinnen",
+    t1_item_r1: "6 Beine", t1_item_r2: "Hat Fühler", t1_item_p1: "8 Beine", t1_item_p2: "Keine Fühler",
+    t1_q: "Woraus besteht das Außenskelett der Gliederfüßer?", t1_q_a: "Aus Chitin", t1_q_b: "Aus Kalk", t1_q_c: "Aus Knorpel", t1_q_d: "Aus Knochen",
 
-    // Round 2: Metabolismus Typen
-    r2_title: "Metabolismus: Aufbau & Abbau",
-    r2_text: "Der Metabolismus umfasst alle chemischen Reaktionen, die dich am Leben erhalten. Zwei Haupttypen arbeiten zusammen.",
-    r2_fact1: "Anabolismus: Aufbau-Reaktionen (Fotosynthese, Proteinsynthese, Knochenwachstum) — benötigen Energie",
-    r2_fact2: "Katabolismus: Abbau-Reaktionen (Verdauung, Zellatmung) — setzen Energie frei (ATP)",
-    r2_fact3: "Basaler Stoffwechsel (BMR): Energie, die dein Körper nur zur Aufrechterhaltung grundlegender Funktionen in Ruhe benötigt",
-    r2_fact4: "Bewegung erhöht den Katabolismus: Muskeln verbrennen Glukose und Fette, um ATP für Bewegung zu produzieren",
+    t2_title: "Ökosystem Wald", t2_text: "Der Wald ist eine komplexe Lebensgemeinschaft aus Produzenten, Konsumenten und Zersetzern in einem Nahrungsnetz.",
+    t2_b1: "Produzenten: Pflanzen stellen aus Sonnenlicht Nahrung her.", t2_b2: "Konsumenten: Tiere, die Pflanzen oder andere Tiere fressen.", t2_b3: "Zersetzer: Pilze und Bakterien, die totes Material abbauen.",
+    t2_inst: "Verbinde das Lebewesen mit seiner Aufgabe!",
+    t2_l1: "Pflanzen", t2_r1: "Produzenten (stellen Nahrung her)", t2_l2: "Tiere", t2_r2: "Konsumenten (fressen andere)", t2_l3: "Pilze", t2_r3: "Zersetzer (bauen ab)",
+    t2_q: "Was erzeugen die Zersetzer aus toten Pflanzen im Boden?", t2_q_a: "Humus", t2_q_b: "Gestein", t2_q_c: "Plastik", t2_q_d: "Salzwasser",
 
-    // Round 3: Körpersystem Integration
-    r3_title: "Wie Systeme zusammenarbeiten",
-    r3_text: "Dein Körper ist ein koordiniertes Team. Das Nervensystem, das endokrine System und das Immunsystem kommunizieren ständig.",
-    r3_fact1: "Nervensystem (Gehirn, Rückenmark, Nerven): Schnelle elektrische Signale — sofortige Reaktionen (Reflexbogen)",
-    r3_fact2: "Endokrines System (Drüsen, Hormone): Langsame chemische Signale — Langzeitregulation (Wachstum, Metabolismus)",
-    r3_fact3: "Immunsystem (weiße Blutkörperchen, Lymphe): Verteidigt gegen Krankheitserreger — arbeitet mit lymphoiden Organen",
-    r3_fact4: "Beispiel: Stressreaktion — Nervensystem setzt Epinephrin frei → Herzfrequenz ↑, Blutdruck ↑",
+    t3_title: "Herz und Kreislauf", t3_text: "Das Kreislaufsystem transportiert Blut. Der Motor ist das Herz mit vier Kammern (2 Vorhöfe, 2 Kammern).",
+    t3_b1: "Lungenkreislauf: bringt Blut zur Lunge für Sauerstoff.", t3_b2: "Körperkreislauf: bringt sauerstoffreiches Blut zu den Zellen.", t3_b3: "Rote Blutkörperchen transportieren den Sauerstoff.",
+    t3_inst: "Was pumpt das Blut aus dem Herzen in Körper und Lunge?", t3_gap_sentence: "Das Blut wird von den {gap} aus dem Herzen gepumpt.",
+    t3_c1: "Kammern", t3_c2: "Vorhöfen", t3_c3: "Herzklappen",
+    t3_q: "Welche Blutgefäße führen das Blut vom Herzen weg?", t3_q_a: "Arterien (Schlagadern)", t3_q_b: "Venen (Blutadern)", t3_q_c: "Lymphgefäße", t3_q_d: "Luftröhren",
 
-    // Round 4: Organsystem Kooperation
-    r4_title: "Beispiel: Bewegung ruft alle Systeme auf",
-    r4_text: "Wenn du trainierst, springt jedes Hauptsystem in koordinierte Aktion, um Muskelarbeit zu unterstützen.",
-    r4_fact1: "Muskelsystem: Kontrahiert mit ATP-Energie, um Kraft und Bewegung zu erzeugen",
-    r4_fact2: "Herz-Kreislauf-System: Herz pumpt schneller, Blutgefäße erweitern sich, um O₂ und Glukose an Muskeln zu liefern",
-    r4_fact3: "Atemwegsystem: Atmung vertieft sich, um die Sauerstoffaufnahme zu erhöhen und CO₂-Entfernung",
-    r4_fact4: "Nervensystem & Endokrin: Aktivieren Kampf-oder-Flucht-Reaktion; regulieren Laktat, Körpertemp, Wasserverlust (Schweiß)",
+    t4_title: "Das Atmungssystem", t4_text: "Ziel der Atmung ist Sauerstoffaufnahme und CO2-Abgabe. Der Gasaustausch findet in den Lungenbläschen statt.",
+    t4_b1: "Luft strömt durch Nase, Kehlkopf und Luftröhre zur Lunge.", t4_b2: "Einatmen wird vom Zwerchfell und Brustmuskeln gesteuert.", t4_b3: "Zellen nutzen Sauerstoff zur Energiegewinnung.",
+    t4_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t4_w1: "Der", t4_w2: "Sauerstoff", t4_w3: "gelangt", t4_w4: "ins", t4_w5: "Blut.",
+    t4_q: "Welcher Muskel spielt die wichtigste Rolle bei der Atmung?", t4_q_a: "Das Zwerchfell", t4_q_b: "Der Herzmuskel", t4_q_c: "Der Bauchmuskel", t4_q_d: "Die Zunge",
 
-    // Round 5: Quiz
-    r5_title: "Systembbiologie Überprüfung",
-
-    q1_q: "Was ist Homöostase?",
-    q1_a: "Der Prozess der Nahrungsverdauung",
-    q1_b: "Aufrechterhaltung einer stabilen inneren Umgebung trotz äußerer Veränderungen",
-    q1_c: "Die Bewegung von Molekülen über Zellmembranen",
-    q1_d: "Der Abbau von Glukose in Mitochondrien",
-
-    q2_q: "Welcher Prozess baut Moleküle auf und benötigt Energie?",
-    q2_a: "Katabolismus",
-    q2_b: "Respiration",
-    q2_c: "Anabolismus",
-    q2_d: "Verdauung",
-
-    q3_q: "Während der Bewegung, welches System liefert Sauerstoff an arbeitende Muskeln?",
-    q3_a: "Verdauungssystem",
-    q3_b: "Nervensystem",
-    q3_c: "Herz-Kreislauf-System",
-    q3_d: "Endokrines System",
-  },
-  hu: {
-    // Round 1: Homeosztázis
-    r1_title: "Homeosztázis: Körülmények stabilak tartása",
-    r1_text: "A homeosztázis az az folyamat, amellyel az élő szervezetek stabil belső környezetet tartanak fenn a külső világ változásai ellenére.",
-    r1_fact1: "Testhőmérséklet: Termoreguláció tartja az ~37°C-on (98,6°F) — az izzadás lehűti, a remegés melegít",
-    r1_fact2: "Vér pH: ~7,4-nél marad — a veseek és a tüdő együtt dolgoznak a savas-bázikus egyensúly szabályozásához",
-    r1_fact3: "Vércukor: Az inzulin (hasnyálmirigy) csökkenti; a glucagon megemeli — energiát tart stabilnak",
-    r1_fact4: "Vízháztartás: A veseek a vizelet termelésre állítanak be, hogy a vér osmolaritása állandó maradjon",
-
-    // Round 2: Anyagcsere típusok
-    r2_title: "Anyagcsere: Építés & Lebontás",
-    r2_text: "Az anyagcsere az összes kémiai reakció, amely téged életben tart. Két fő típus működik együtt.",
-    r2_fact1: "Anabolizmus: Építő reakciók (fotoszintézis, fehérjeszintézis, csonttan) — energiát igényel",
-    r2_fact2: "Katabolizmus: Lebontó reakciók (emésztés, sejtlégzés) — energiát felszabadít (ATP)",
-    r2_fact3: "Alapanyagcsere (BMR): Az a energia, amelyre a szervezetednek szüksége van alapfunkcióinak kiegészítésére",
-    r2_fact4: "A testmozgás növeli a katabolizmust: Az izmok glükózt és zsírokat égetnek el ATP előállításához",
-
-    // Round 3: Testrendszer integráció
-    r3_title: "Hogyan működnek együtt a rendszerek",
-    r3_text: "A tested egy koordinált csapat. Az ideg-, endokrin és immunrendszer folyamatosan kommunikál.",
-    r3_fact1: "Idegrendszer (agy, gerincvelő, idegek): Gyors elektromos jelzések — azonnali válaszok (reflexív)",
-    r3_fact2: "Endokrin rendszer (mirigyek, hormonok): Lassú kémiai jelzések — hosszú távú szabályozás (növekedés, anyagcsere)",
-    r3_fact3: "Immunrendszer (fehér vértest, nyirok): Megvéd a kórokozók ellen — linfoid szervekkel működik",
-    r3_fact4: "Példa: Stresszválasz — idegrendszer felszabadítja az epinefrint → szívütés ↑, vérnyomás ↑",
-
-    // Round 4: Szervrendszer együttműködés
-    r4_title: "Példa: A testmozgás minden rendszert felhív",
-    r4_text: "Amikor edzel, minden fő rendszer koordinált akcióba lendül az izomzat munkájának támogatására.",
-    r4_fact1: "Izomrendszer: ATP energiával kontrahálódik erő és mozgás előállításához",
-    r4_fact2: "Szív- és érrendszer: A szív gyorsabban pumpál, az erek kitágulnak O₂ és glükóz szállítására az izmoknak",
-    r4_fact3: "Légzőrendszer: A légzés mélyül az oxigénfelvétel növeléséhez és a CO₂ eltávolításához",
-    r4_fact4: "Ideg- és endokrin: Aktiválják a harc-vagy-menekülés reakciót; szabályozzák a laktátot, testhőmérsékletet, a vízvesztést",
-
-    // Round 5: Quiz
-    r5_title: "Rendszerbiológia áttekintés",
-
-    q1_q: "Mi a homeosztázis?",
-    q1_a: "Az étel megemésztésének folyamata",
-    q1_b: "Stabil belső környezet fenntartása a külső változások ellenére",
-    q1_c: "Molekulák mozgása a sejthártyák között",
-    q1_d: "A glükóz lebontása a mitokondriákban",
-
-    q2_q: "Mely folyamat építi fel a molekulákat és szükséges az energiára?",
-    q2_a: "Katabolizmus",
-    q2_b: "Légzés",
-    q2_c: "Anabolizmus",
-    q2_d: "Emésztés",
-
-    q3_q: "A testmozgás során mely rendszer szállít oxigént a működő izmoknak?",
-    q3_a: "Emésztőrendszer",
-    q3_b: "Idegrendszer",
-    q3_c: "Szív- és érrendszer",
-    q3_d: "Endokrin rendszer",
+    t5_title: "Fortpflanzung und Pubertät", t5_text: "In der Pubertät bereiten Hormone den Körper auf das Erwachsensein und die Fortpflanzung vor.",
+    t5_b1: "Hoden produzieren Spermien und Testosteron.", t5_b2: "Eierstöcke produzieren Eizellen und Östrogen.", t5_b3: "Das befruchtete Ei wächst in der Gebärmutter heran.",
+    t5_inst: "Wo entwickelt sich der Fötus während der Schwangerschaft?", t5_gap_sentence2: "Der Fötus entwickelt sich in der weiblichen {gap}.",
+    t5_c51: "Gebärmutter", t5_c52: "Eierstock", t5_c53: "Magen",
+    t5_q: "Was steuert die körperlichen Veränderungen in der Pubertät?", t5_q_a: "Die Hormone", t5_q_b: "Die roten Blutkörperchen", t5_q_c: "Die Bakterien", t5_q_d: "Die Gelenke",
   },
   ro: {
-    // Round 1: Homeostază
-    r1_title: "Homeostază: Menținerea condițiilor stabile",
-    r1_text: "Homeostaza este procesul prin care organismele vii mențin un mediu intern stabil în ciuda schimbărilor în lumea externă.",
-    r1_fact1: "Temperatura corpului: Termoregularea te ține la ~37°C (98,6°F) — transpirul răcorește, tremuratul încălzește",
-    r1_fact2: "pH-ul sângelui: Rămâne aproape de 7,4 — rinichii și plămânii lucrează împreună pentru a regula echilibrul acido-bazic",
-    r1_fact3: "Glucoza din sânge: Insulina (din pancreas) o scade; glucagonul o crește — ținând energia stabilă",
-    r1_fact4: "Echilibrul apei: Rinichii ajustează producția de urină pentru a menține osmolaritatea sângelui constantă",
+    explorer_title: "Recapitulare Finală K6",
+    t1_title: "Artropodele", t1_text: "Artropodele sunt cel mai mare grup de animale. Au exoschelet de chitină și picioare articulate. Grupele principale sunt insectele și arahnidele.",
+    t1_b1: "Insecte: 3 părți ale corpului, 6 picioare, au antene.", t1_b2: "Arahnide: 2 părți ale corpului, 8 picioare, fără antene.", t1_b3: "Ambele grupuri năpârlesc pentru a crește.",
+    t1_inst: "Insectă sau Păianjen? Sortează caracteristicile!",
+    t1_bucket_rov: "Insecte", t1_bucket_pok: "Păianjeni",
+    t1_item_r1: "6 picioare", t1_item_r2: "Au antene", t1_item_p1: "8 picioare", t1_item_p2: "Fără antene",
+    t1_q: "Din ce material este format exoscheletul artropodelor?", t1_q_a: "Chitină", t1_q_b: "Calciu", t1_q_c: "Cartilaj", t1_q_d: "Os",
 
-    // Round 2: Tipuri de metabol
-    r2_title: "Metabolism: Construire și dezagregare",
-    r2_text: "Metabolismul este toate reacțiile chimice care te țin viu. Două tipuri principale lucrează împreună.",
-    r2_fact1: "Anabolism: Reacții de construire (fotosinteza, sinteza proteinelor, creșterea oaselor) — necesită energie",
-    r2_fact2: "Catabolism: Reacții de dezagregare (digestie, respirație celulară) — eliberează energie (ATP)",
-    r2_fact3: "Rata metabolică bazală (BMR): Energia de care are nevoie corpul pentru a menține funcțiile de bază în repaus",
-    r2_fact4: "Exercițiul crește catabolismul: Mușchii ard glucoză și grăsimi pentru a produce ATP pentru mișcare",
+    t2_title: "Ecosistemul Pădurii", t2_text: "Pădurea este o comunitate complexă unde plantele, animalele și descompunătorii formează o rețea trofică strictă.",
+    t2_b1: "Producători: plantele verzi fac hrană din lumina soarelui.", t2_b2: "Consumatori: animalele erbivore și carnivore care mănâncă producători sau alte animale.", t2_b3: "Descompunători: ciuperci și bacterii care transformă materia moartă în humus.",
+    t2_inst: "Potrivește organismul cu rolul său!",
+    t2_l1: "Plante", t2_r1: "Producători (fac hrană)", t2_l2: "Animale", t2_r2: "Consumatori (mănâncă pe alții)", t2_l3: "Ciuperci", t2_r3: "Descompunători (curăță)",
+    t2_q: "Ce creează descompunătorii din plantele moarte în sol?", t2_q_a: "Humus", t2_q_b: "Pietre", t2_q_c: "Plastic", t2_q_d: "Apă sărată",
 
-    // Round 3: Integrarea sistemului corpului
-    r3_title: "Cum lucrează sistemele împreună",
-    r3_text: "Corpul tău este o echipă coordonată. Sistemul nervos, endocrin și imunitar comunică constant.",
-    r3_fact1: "Sistemul nervos (creier, măduvă spinării, nervi): Semnale electrice rapide — răspunsuri instantanee (arc reflex)",
-    r3_fact2: "Sistemul endocrin (glande, hormoni): Semnale chimice lente — reglare pe termen lung (creștere, metabol)",
-    r3_fact3: "Sistemul imunitar (celule albe din sânge, limfă): Apără împotriva agenților patogeni — lucrează cu organele limfoide",
-    r3_fact4: "Exemplu: Răspunsul la stres — sistemul nervos eliberează epinefrina → pulsul ↑, presiunea sângelui ↑",
+    t3_title: "Inima și Circulația", t3_text: "Sistemul circulator transportă sângele. Motorul său este inima, care are patru camere (două atrii, două ventricule).",
+    t3_b1: "Circuitul pulmonar: duce sângele la plămâni pentru oxigen.", t3_b2: "Circuitul sistemic: duce sângele bogat în oxigen la celule.", t3_b3: "Globulele roșii sunt responsabile pentru transportul oxigenului.",
+    t3_inst: "Ce pompează sângele din inimă spre corp și plămâni?", t3_gap_sentence: "Sângele este pompat din inimă de către {gap}.",
+    t3_c1: "ventricule", t3_c2: "atrii", t3_c3: "valve",
+    t3_q: "Care vase de sânge transportă sângele de la inimă spre corp?", t3_q_a: "Arterele", t3_q_b: "Venele", t3_q_c: "Vasele limfatice", t3_q_d: "Traheele",
 
-    // Round 4: Cooperare sistemului de organe
-    r4_title: "Exemplu: Exercițiul cheamă toate sistemele",
-    r4_text: "Atunci când te exercițiezi, fiecare sistem major intră în acțiune coordonată pentru a susține munca musculară.",
-    r4_fact1: "Sistemul muscular: Se contractă cu energia ATP pentru a genera forță și mișcare",
-    r4_fact2: "Sistemul cardiovascular: Inima pompează mai rapid, vasele de sânge se dilatează pentru a livra O₂ și glucoză mușchilor",
-    r4_fact3: "Sistemul respirator: Respirația se aprofundează pentru a crește captarea oxigenului și îndepărtarea CO₂",
-    r4_fact4: "Nervos și endocrin: Activează răspunsul de luptă-sau-fug; reglează lactatul, temperatura corpului, pierderea de apă (transpirație)",
+    t4_title: "Sistemul Respirator", t4_text: "Scopul respirației este preluarea oxigenului și eliminarea dioxidului de carbon. Schimbul de gaze are loc în alveole.",
+    t4_b1: "Aerul intră prin cavitatea nazală, laringe și trahee în plămâni.", t4_b2: "Inspirația este condusă de diafragmă și mușchii toracici.", t4_b3: "Celulele folosesc oxigenul pentru a produce energie.",
+    t4_inst: "Pune cuvintele în ordine!",
+    t4_w1: "Oxigenul", t4_w2: "intră", t4_w3: "în", t4_w4: "sângele", t4_w5: "nostru.",
+    t4_q: "Care mușchi are cel mai important rol în respirație?", t4_q_a: "Diafragma", t4_q_b: "Mușchiul cardiac", t4_q_c: "Mușchii abdominali", t4_q_d: "Limba",
 
-    // Round 5: Quiz
-    r5_title: "Revizuire biologie sisteme",
-
-    q1_q: "Ce este homeostaza?",
-    q1_a: "Procesul de digestie a alimentelor",
-    q1_b: "Menținerea unui mediu intern stabil în ciuda schimbărilor externe",
-    q1_c: "Mișcarea moleculelor peste membranele celulare",
-    q1_d: "Descompunerea glucozei în mitocondrii",
-
-    q2_q: "Care proces construiește molecule și necesită energie?",
-    q2_a: "Catabolism",
-    q2_b: "Respirație",
-    q2_c: "Anabolism",
-    q2_d: "Digestie",
-
-    q3_q: "În timpul exercițiului, care sistem furnizează oxigen mușchilor în muncă?",
-    q3_a: "Sistemul digestiv",
-    q3_b: "Sistemul nervos",
-    q3_c: "Sistemul cardiovascular",
-    q3_d: "Sistemul endocrin",
-  },
+    t5_title: "Reproducere și Pubertate", t5_text: "În timpul pubertății, hormonii pregătesc corpul pentru viața de adult și reproducere.",
+    t5_b1: "Testiculele produc spermatozoizi și testosteron.", t5_b2: "Ovarele produc ovule și estrogen.", t5_b3: "Ovulul fecundat se dezvoltă într-un făt în uter.",
+    t5_inst: "Unde se dezvoltă embrionul (fătul) în timpul sarcinii?", t5_gap_sentence2: "Fătul se dezvoltă în {gap} feminin în timpul sarcinii.",
+    t5_c51: "uterul", t5_c52: "ovarul", t5_c53: "stomacul",
+    t5_q: "Ce controlează schimbările fizice din timpul pubertății?", t5_q_a: "Hormonii", t5_q_b: "Globulele roșii", t5_q_c: "Bacteriile", t5_q_d: "Articulațiile",
+  }
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Homeostasis — body with temperature, pH, glucose, water symbols */
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="systems_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E1F5FE" />
-          <stop offset="100%" stopColor="#B3E5FC" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#systems_bg)" />
-
-      {/* Central body outline — simplified */}
-      <ellipse cx="120" cy="80" rx="25" ry="35" fill="rgba(200,150,100,0.2)" stroke="#8B6844" strokeWidth="1.5" />
-
-      {/* TOP LEFT: Temperature/Thermometer */}
-      <g transform="translate(50, 45)">
-        <rect x="-2" y="0" width="4" height="20" fill="rgba(255,100,100,0.4)" stroke="#FF6464" strokeWidth="1" rx="2" />
-        <circle cx="0" cy="22" r="4" fill="#FF6464" opacity="0.5" />
-        <text x="-8" y="-5" fontSize="10" fontWeight="bold" fill="#FF6464">T</text>
-      </g>
-
-      {/* TOP RIGHT: pH scale */}
-      <g transform="translate(190, 45)">
-        <rect x="-12" y="0" width="24" height="3" fill="none" stroke="#2196F3" strokeWidth="1.5" />
-        <circle cx="-6" cy="1.5" r="2" fill="#2196F3" />
-        <circle cx="0" cy="1.5" r="2" fill="#2196F3" />
-        <circle cx="6" cy="1.5" r="2" fill="#2196F3" />
-        <text x="-10" y="-5" fontSize="10" fontWeight="bold" fill="#2196F3">pH</text>
-      </g>
-
-      {/* BOTTOM LEFT: Glucose/Energy molecule */}
-      <g transform="translate(50, 120)">
-        <circle cx="0" cy="0" r="5" fill="#FFD700" opacity="0.6" />
-        <text x="-3" y="3" fontSize="10" fontWeight="bold" fill="#F57F17">G</text>
-      </g>
-
-      {/* BOTTOM RIGHT: Water droplet */}
-      <g transform="translate(190, 120)">
-        <path d="M 0 -5 L -3 0 Q -3 3 0 4 Q 3 3 3 0 Z" fill="#4DB6AC" opacity="0.6" />
-        <text x="-3" y="1" fontSize="9" fontWeight="bold" fill="#00796B">H₂O</text>
-      </g>
-
-      {/* Central arrows showing balance */}
-      <circle cx="120" cy="80" r="8" fill="none" stroke="#999" strokeWidth="0.8" strokeDasharray="1,2" opacity="0.5" />
-      <text x="116" y="84" fontSize="9" fontWeight="bold" fill="#666">BALANCE</text>
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Metabolism — Anabolism (building) vs Catabolism (breaking down) */
-function SVG_R2(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="systems_bg2" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFF3E0" />
-          <stop offset="100%" stopColor="#FFE0B2" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#systems_bg2)" />
-
-      {/* LEFT: Anabolism — building up (green up arrow) */}
-      <g transform="translate(60, 80)">
-        {/* Building blocks stacking */}
-        <rect x="-10" y="15" width="20" height="8" fill="#4CAF50" opacity="0.7" />
-        <rect x="-10" y="3" width="20" height="8" fill="#4CAF50" opacity="0.85" />
-        <rect x="-10" y="-9" width="20" height="8" fill="#4CAF50" opacity="1" />
-        {/* Up arrow */}
-        <path d="M 0 -20 L 0 -14 M -3 -17 L 0 -20 L 3 -17" stroke="#4CAF50" strokeWidth="1.5" fill="none" strokeLinecap="round" />
-        {/* Energy symbol (sun rays) */}
-        <g transform="translate(15, -18)" fill="rgba(255,193,7,0.6)">
-          <circle cx="0" cy="0" r="3" />
-          <line x1="0" y1="-6" x2="0" y2="-8" strokeWidth="1" stroke="#FFC107" />
-          <line x1="6" y1="0" x2="8" y2="0" strokeWidth="1" stroke="#FFC107" />
-        </g>
-      </g>
-
-      {/* RIGHT: Catabolism — breaking down (red down arrow) */}
-      <g transform="translate(180, 80)">
-        {/* Breaking apart molecule */}
-        <circle cx="-8" cy="-5" r="6" fill="#F44336" opacity="0.7" />
-        <circle cx="0" cy="-8" r="6" fill="#F44336" opacity="0.7" />
-        <circle cx="8" cy="-5" r="6" fill="#F44336" opacity="0.7" />
-        {/* Down arrow */}
-        <path d="M 0 10 L 0 4 M -3 7 L 0 10 L 3 7" stroke="#F44336" strokeWidth="1.5" fill="none" strokeLinecap="round" />
-        {/* Energy release symbol (ATP) */}
-        <g transform="translate(0, 20)" fill="#FF9800">
-          <circle cx="0" cy="0" r="2" />
-          <path d="M -1 -3 L 1 -3" strokeWidth="1" stroke="#FF9800" />
-          <path d="M -1 3 L 1 3" strokeWidth="1" stroke="#FF9800" />
-        </g>
-      </g>
-
-      {/* Center separation line */}
-      <line x1="120" y1="30" x2="120" y2="130" stroke="#999" strokeWidth="1" strokeDasharray="2,2" opacity="0.4" />
-
-      {/* Bottom labels as colored boxes */}
-      <rect x="30" y="125" width="60" height="12" fill="rgba(76,175,80,0.2)" rx="2" />
-      <rect x="150" y="125" width="60" height="12" fill="rgba(244,67,54,0.2)" rx="2" />
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Body systems integration — nervous, endocrine, immune symbols */
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="systems_bg3" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#F3E5F5" />
-          <stop offset="100%" stopColor="#E1BEE7" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#systems_bg3)" />
-
-      {/* Central brain symbol */}
-      <g transform="translate(120, 50)">
-        <circle cx="0" cy="0" r="12" fill="#FFB74D" stroke="#FF9800" strokeWidth="1" />
-        <path d="M -8 -8 Q -12 -6 -12 0 M 8 -8 Q 12 -6 12 0 M -6 8 Q -8 12 0 12 Q 8 12 6 8" fill="none" stroke="#FF9800" strokeWidth="1" />
-      </g>
-
-      {/* LEFT: Nervous system — branching nerves (blue) */}
-      <g transform="translate(50, 100)">
-        <line x1="0" y1="0" x2="-12" y2="-15" stroke="#2196F3" strokeWidth="1.5" />
-        <line x1="0" y1="0" x2="0" y2="-18" stroke="#2196F3" strokeWidth="1.5" />
-        <line x1="0" y1="0" x2="12" y2="-15" stroke="#2196F3" strokeWidth="1.5" />
-        <circle cx="0" cy="0" r="3" fill="#2196F3" />
-      </g>
-
-      {/* CENTER: Endocrine system — hormone droplets (orange) */}
-      <g transform="translate(120, 100)">
-        <circle cx="-8" cy="-8" r="4" fill="#FF9800" opacity="0.7" />
-        <circle cx="0" cy="-10" r="4" fill="#FF9800" opacity="0.7" />
-        <circle cx="8" cy="-8" r="4" fill="#FF9800" opacity="0.7" />
-        <circle cx="0" cy="0" r="3" fill="#FF9800" />
-      </g>
-
-      {/* RIGHT: Immune system — antibodies/cells (green) */}
-      <g transform="translate(190, 100)">
-        <circle cx="0" cy="-6" r="5" fill="#4CAF50" opacity="0.7" />
-        <circle cx="-8" cy="2" r="4" fill="#4CAF50" opacity="0.7" />
-        <circle cx="8" cy="2" r="4" fill="#4CAF50" opacity="0.7" />
-        <path d="M 0 -6 L -8 2 M 0 -6 L 8 2" stroke="#4CAF50" strokeWidth="1" opacity="0.5" />
-      </g>
-
-      {/* Connecting arrows from brain to systems */}
-      <path d="M 108 58 L 70 92" stroke="#999" strokeWidth="1" fill="none" opacity="0.4" />
-      <path d="M 120 62 L 120 88" stroke="#999" strokeWidth="1" fill="none" opacity="0.4" />
-      <path d="M 132 58 L 170 92" stroke="#999" strokeWidth="1" fill="none" opacity="0.4" />
-
-      {/* System labels as colored boxes */}
-      <rect x="30" y="125" width="40" height="10" fill="rgba(33,150,243,0.2)" rx="2" />
-      <rect x="100" y="125" width="40" height="10" fill="rgba(255,152,0,0.2)" rx="2" />
-      <rect x="170" y="125" width="40" height="10" fill="rgba(76,175,80,0.2)" rx="2" />
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Exercise — muscles, heart, lungs, nerves all active */
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="systems_bg4" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFEBEE" />
-          <stop offset="100%" stopColor="#FFCDD2" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#systems_bg4)" />
-
-      {/* Central running figure — simplified humanoid */}
-      <g transform="translate(60, 70)">
-        {/* Head */}
-        <circle cx="0" cy="-10" r="5" fill="#D7CCC8" />
-        {/* Body */}
-        <rect x="-3" y="-3" width="6" height="8" fill="#D7CCC8" />
-        {/* Legs (one forward) */}
-        <line x1="-3" y1="5" x2="-6" y2="15" stroke="#D7CCC8" strokeWidth="2" />
-        <line x1="3" y1="5" x2="2" y2="13" stroke="#D7CCC8" strokeWidth="2" />
-        {/* Arms (in motion) */}
-        <line x1="-3" y1="1" x2="-10" y2="-5" stroke="#D7CCC8" strokeWidth="2" />
-        <line x1="3" y1="1" x2="10" y2="5" stroke="#D7CCC8" strokeWidth="2" />
-      </g>
-
-      {/* TOP LEFT: Muscular system — red muscle fibers */}
-      <g transform="translate(30, 30)">
-        <rect x="0" y="0" width="25" height="8" fill="#E53935" opacity="0.7" rx="2" />
-        <path d="M 2 4 Q 5 2 8 4 Q 11 6 14 4 Q 17 2 20 4 Q 23 6 25 4" stroke="#E53935" strokeWidth="1" fill="none" />
-      </g>
-
-      {/* TOP CENTER: Heart — pumping */}
-      <g transform="translate(120, 25)">
-        <path d="M -8 -2 Q -8 -6 -4 -6 Q 0 -2 0 0 Q 0 -2 4 -6 Q 8 -6 8 -2 Q 8 2 0 8 Q -8 2 -8 -2 Z" fill="#E91E63" opacity="0.8" />
-        <circle cx="0" cy="0" r="3" fill="none" stroke="#C2185B" strokeWidth="0.8" />
-      </g>
-
-      {/* TOP RIGHT: Lungs — breathing */}
-      <g transform="translate(190, 30)">
-        <ellipse cx="-6" cy="0" rx="5" ry="7" fill="#4FC3F7" opacity="0.7" />
-        <ellipse cx="6" cy="0" rx="5" ry="7" fill="#4FC3F7" opacity="0.7" />
-        <path d="M -1 -2 L 1 -2 M -1 0 L 1 0 M -1 2 L 1 2" stroke="#0277BD" strokeWidth="0.8" />
-      </g>
-
-      {/* BOTTOM: Metabolic activity — glucose/oxygen arrows */}
-      <g transform="translate(40, 130)">
-        <path d="M 0 0 L 8 0 M 5 -3 L 8 0 L 5 3" stroke="#FF6F00" strokeWidth="1.5" fill="none" strokeLinecap="round" />
-      </g>
-
-      {/* BOTTOM CENTER: Energy ATP */}
-      <g transform="translate(118, 130)">
-        <circle cx="0" cy="0" r="4" fill="#FFD700" />
-        <text x="-3" y="2" fontSize="7" fontWeight="bold" fill="#F57F17">ATP</text>
-      </g>
-
-      {/* BOTTOM RIGHT: Heat/Sweat release */}
-      <g transform="translate(185, 130)">
-        <path d="M 0 0 L 0 -6 M -2 -2 L 2 -2 M -2 -4 L 2 -4" stroke="#FF5252" strokeWidth="1.5" strokeLinecap="round" />
-      </g>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const SYSTEMS_DEF: ExplorerDef = {
-  labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => SVG_R1(),
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => SVG_R2(),
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => SVG_R3(),
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => SVG_R4(),
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => SVG_R4(),
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_b",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_c",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_c",
-        },
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <ArthropodGroupsSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "rov", label: "t1_bucket_rov" },
+        { id: "pok", label: "t1_bucket_pok" },
       ],
+      items: [
+        { text: "t1_item_r1", bucketId: "rov" },
+        { text: "t1_item_p1", bucketId: "pok" },
+        { text: "t1_item_r2", bucketId: "rov" },
+        { text: "t1_item_p2", bucketId: "pok" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
     },
-  ],
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <ForestLayersSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <HeartSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <LungsSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <ReproductionSvg lang={lang} />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🔬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function SystemsExplorer({
-  color = "#1976D2",
-  lang = "en",
+const SystemsExplorer = memo(function SystemsExplorer({
+  color = "#334155", // Komoly palaszürke (Slate-700) az év végi vizsgához
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={SYSTEMS_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_systems_review" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default SystemsExplorer;

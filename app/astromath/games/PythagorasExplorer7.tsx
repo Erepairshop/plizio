@@ -212,8 +212,8 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "ratio-slider",
-      baseValue: 5,
-      basePrice: 25,
+      baseValue: 1,
+      basePrice: 1,
       targetValue: 5,
       targetPrice: 25,
       unitName: "c",

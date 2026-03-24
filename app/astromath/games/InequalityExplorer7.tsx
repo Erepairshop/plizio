@@ -179,7 +179,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Cerc gol: Numărul nu este o soluție",
     t3_b2: "Cerc plin: Numărul este și o soluție",
     t3_b3: "Direcția liniei arată intervalul",
-    t3_inst: "Ábrazold az x ≤ 4 megoldást! Keresd meg a 4-et!",
+    t3_inst: "Reprezintă soluția x ≤ 4! Găsește 4!",
     t3_h1: "Deoarece avem sau egal, este un cerc plin la 4.",
     t3_h2: "Soluțiile merg la stânga. Apasă pe 4 pe axa numerelor.",
     t3_q: "Care semn are un cerc plin pe axa numerelor?",

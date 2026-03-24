@@ -1,1332 +1,353 @@
 "use client";
-// MammalExplorer — Grade 5 Biology: What Makes a Mammal?
-// 5 rounds: R1 (teach features), R2 (teach body parts), R3 (teach diet types),
-//           R4 (order vertebrate classes), R5 (quiz with 4 questions)
+// MammalExplorer.tsx — Bio Island i3: Emlősök (K5)
+// Topics: 1) Emlősök jellemzői 2) Emlős csoportok 3) Táplálkozás és Fogazat 4) Tápláléklánc 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef, MCQQuestion, RoundDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { MammalAnatomySvg, MammalGroupsSvg, FoodChainSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Components (no hardcoded text)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-function SVG_R1(lang: string): React.ReactNode {
+const Topic3Svg = memo(function Topic3Svg() {
   return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="m1_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#1a3a2a" />
-          <stop offset="50%" stopColor="#2a4a3a" />
-          <stop offset="100%" stopColor="#1a2a1a" />
-        </linearGradient>
-        <linearGradient id="m1_fox_body" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#E87A30" />
-          <stop offset="40%" stopColor="#D06A25" />
-          <stop offset="100%" stopColor="#B85A1A" />
-        </linearGradient>
-        <linearGradient id="m1_fox_belly" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFF8E1" />
-          <stop offset="100%" stopColor="#FFECB3" />
-        </linearGradient>
-        <linearGradient id="m1_fox_tail" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#D06A25" />
-          <stop offset="70%" stopColor="#B85A1A" />
-          <stop offset="100%" stopColor="#FFFDE7" />
-        </linearGradient>
-        <linearGradient id="m1_grass" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#4CAF50" />
-          <stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <radialGradient id="m1_glow" cx="50%" cy="40%">
-          <stop offset="0%" stopColor="rgba(255,200,100,0.12)" />
-          <stop offset="100%" stopColor="rgba(255,200,100,0)" />
-        </radialGradient>
-      </defs>
-
-      {/* Background */}
-      <rect width="240" height="160" fill="url(#m1_bg)" />
-      <circle cx="120" cy="75" r="70" fill="url(#m1_glow)" />
-
-      {/* Ground */}
-      <path d="M 0 130 Q 60 125 120 128 Q 180 132 240 128 L 240 160 L 0 160 Z" fill="#2E7D32" opacity="0.3" />
-      {/* Grass tufts */}
-      <g stroke="url(#m1_grass)" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.5">
-        <path d="M 15 135 Q 17 125 19 135" /><path d="M 22 134 Q 24 126 26 134" />
-        <path d="M 195 132 Q 197 122 199 132" /><path d="M 210 134 Q 212 124 214 134" />
-        <path d="M 80 136 Q 82 128 84 136" />
-      </g>
-
-      {/* FOX — detailed side view */}
-      <g transform="translate(70, 60)">
-        {/* Shadow */}
-        <ellipse cx="50" cy="75" rx="45" ry="6" fill="rgba(0,0,0,0.15)" />
-
-        {/* Tail - bushy with white tip */}
-        <path d="M 10,40 Q -15,35 -25,20 Q -30,10 -25,5 Q -20,2 -15,8 Q -5,20 10,35" fill="url(#m1_fox_tail)" />
-        {/* Tail fur detail */}
-        <g stroke="rgba(180,80,20,0.3)" strokeWidth="0.6" fill="none">
-          <path d="M -10,15 Q -8,12 -6,15" /><path d="M -5,20 Q -3,17 -1,20" />
-          <path d="M 0,28 Q 2,25 4,28" />
-        </g>
-        {/* White tail tip */}
-        <path d="M -25,5 Q -28,2 -25,0 Q -22,2 -25,5 Z" fill="#FFF8E1" />
-
-        {/* Hind legs */}
-        <path d="M 20,55 Q 18,62 20,68 Q 22,72 25,70 Q 24,62 22,55 Z" fill="url(#m1_fox_body)" />
-        <path d="M 30,55 Q 28,62 30,68 Q 32,72 35,70 Q 34,62 32,55 Z" fill="url(#m1_fox_body)" />
-        {/* Paws */}
-        <ellipse cx="22" cy="70" rx="3.5" ry="2" fill="#2C1810" />
-        <ellipse cx="33" cy="70" rx="3.5" ry="2" fill="#2C1810" />
-
-        {/* Front legs */}
-        <path d="M 65,50 Q 66,60 64,68 Q 62,72 60,70 Q 60,60 63,50 Z" fill="url(#m1_fox_body)" />
-        <path d="M 75,48 Q 77,58 75,66 Q 73,70 71,68 Q 71,58 73,48 Z" fill="url(#m1_fox_body)" />
-        <ellipse cx="62" cy="70" rx="3" ry="2" fill="#2C1810" />
-        <ellipse cx="73" cy="68" rx="3" ry="2" fill="#2C1810" />
-
-        {/* Body */}
-        <path d="M 20,30 Q 30,22 50,20 Q 70,22 80,32 Q 82,42 78,52 Q 65,58 35,55 Q 18,50 20,30" fill="url(#m1_fox_body)" />
-        {/* Belly white */}
-        <path d="M 30,45 Q 45,50 65,48 Q 75,45 78,40" fill="url(#m1_fox_belly)" opacity="0.7" />
-
-        {/* Fur texture on body */}
-        <g stroke="rgba(160,70,15,0.25)" strokeWidth="0.7" fill="none" strokeLinecap="round">
-          <path d="M 30,28 Q 33,24 36,28" /><path d="M 42,25 Q 45,21 48,25" />
-          <path d="M 55,26 Q 58,22 61,26" /><path d="M 68,30 Q 71,26 74,30" />
-          <path d="M 35,35 Q 38,31 41,35" /><path d="M 50,33 Q 53,29 56,33" />
-          <path d="M 62,35 Q 65,31 68,35" />
-          <path d="M 28,42 Q 31,38 34,42" /><path d="M 45,40 Q 48,36 51,40" />
-        </g>
-
-        {/* Neck */}
-        <path d="M 70,28 Q 78,22 85,25 Q 88,30 85,38 Q 78,40 72,35 Z" fill="url(#m1_fox_body)" />
-        {/* Chest white */}
-        <path d="M 78,32 Q 82,28 85,32 Q 84,36 80,38 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
-
-        {/* Head */}
-        <path d="M 82,15 Q 90,8 100,10 Q 108,14 108,22 Q 106,30 98,34 Q 88,35 82,28 Z" fill="url(#m1_fox_body)" />
-        {/* Face white markings */}
-        <path d="M 92,20 Q 96,16 100,18 Q 102,22 100,28 Q 96,30 92,26 Z" fill="url(#m1_fox_belly)" opacity="0.5" />
-
-        {/* Ears - large pointed */}
-        <path d="M 86,12 Q 82,0 88,4 Q 92,8 89,14 Z" fill="url(#m1_fox_body)" />
-        <path d="M 87,10 Q 84,3 88,6 Z" fill="#1a1a1a" opacity="0.3" />
-        <path d="M 98,8 Q 96,-2 102,2 Q 106,6 102,12 Z" fill="url(#m1_fox_body)" />
-        <path d="M 99,6 Q 97,0 102,4 Z" fill="#1a1a1a" opacity="0.3" />
-
-        {/* Eyes - bright amber */}
-        <circle cx="90" cy="18" r="3.2" fill="#FFF8E1" />
-        <circle cx="90" cy="18" r="2.2" fill="#E8A020" />
-        <circle cx="90" cy="18" r="1.3" fill="#1a1a00" />
-        <circle cx="91" cy="17" r="0.8" fill="white" opacity="0.9" />
-        <circle cx="89" cy="19" r="0.35" fill="white" opacity="0.4" />
-
-        <circle cx="99" cy="17" r="3" fill="#FFF8E1" />
-        <circle cx="99" cy="17" r="2" fill="#E8A020" />
-        <circle cx="99" cy="17" r="1.2" fill="#1a1a00" />
-        <circle cx="100" cy="16" r="0.7" fill="white" opacity="0.9" />
-
-        {/* Nose */}
-        <ellipse cx="105" cy="24" rx="3" ry="2.5" fill="#1a1a1a" />
-        <circle cx="104" cy="23.5" r="0.6" fill="white" opacity="0.2" />
-
-        {/* Whiskers */}
-        <g stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none">
-          <path d="M 106,26 L 115,24" /><path d="M 106,27 L 115,28" /><path d="M 106,28 L 114,31" />
-        </g>
-
-        {/* Mouth line */}
-        <path d="M 105,26 Q 103,28 100,29" stroke="rgba(0,0,0,0.15)" strokeWidth="0.5" fill="none" />
-      </g>
-
-      {/* Feature indicator dots with glow rings */}
-      <g>
-        {/* Fur indicator - on body */}
-        <circle cx="115" cy="92" r="4" fill="rgba(16,185,129,0.3)" stroke="#10B981" strokeWidth="1" />
-        <circle cx="115" cy="92" r="1.5" fill="#10B981" />
-
-        {/* Warm blood indicator - on chest */}
-        <circle cx="155" cy="88" r="4" fill="rgba(245,158,11,0.3)" stroke="#F59E0B" strokeWidth="1" />
-        <circle cx="155" cy="88" r="1.5" fill="#F59E0B" />
-
-        {/* Live birth - near belly */}
-        <circle cx="108" cy="108" r="4" fill="rgba(236,72,153,0.3)" stroke="#EC4899" strokeWidth="1" />
-        <circle cx="108" cy="108" r="1.5" fill="#EC4899" />
-
-        {/* Milk nursing - near belly */}
-        <circle cx="140" cy="112" r="4" fill="rgba(6,182,212,0.3)" stroke="#06B6D4" strokeWidth="1" />
-        <circle cx="140" cy="112" r="1.5" fill="#06B6D4" />
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FCE7F3" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="35" textAnchor="middle">🦷</text>
+        <path d="M -10,-10 L 10,-10" stroke="#DB2777" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="40" y="-15" fontSize="25" textAnchor="middle">🥩</text>
+        <text x="40" y="20" fontSize="25" textAnchor="middle">🌿</text>
       </g>
     </svg>
   );
-}
+});
 
-function SVG_R2(lang: string): React.ReactNode {
+const Topic5Svg = memo(function Topic5Svg() {
   return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="m2_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#1a1a2e" />
-          <stop offset="100%" stopColor="#16213e" />
-        </linearGradient>
-        <linearGradient id="m2_jaw" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E8D8C0" />
-          <stop offset="100%" stopColor="#C4A882" />
-        </linearGradient>
-        <linearGradient id="m2_gum" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF8A8A" />
-          <stop offset="100%" stopColor="#E06060" />
-        </linearGradient>
-        <linearGradient id="m2_tooth" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFFFF0" />
-          <stop offset="40%" stopColor="#F5F0E0" />
-          <stop offset="100%" stopColor="#E8E0C8" />
-        </linearGradient>
-        <linearGradient id="m2_lung" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF8A9E" />
-          <stop offset="100%" stopColor="#E0546A" />
-        </linearGradient>
-        <linearGradient id="m2_heart" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF4757" />
-          <stop offset="100%" stopColor="#C0392B" />
-        </linearGradient>
-        <radialGradient id="m2_heart_glow" cx="50%" cy="50%">
-          <stop offset="0%" stopColor="rgba(255,70,87,0.3)" />
-          <stop offset="100%" stopColor="rgba(255,70,87,0)" />
-        </radialGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#m2_bg)" />
-
-      {/* LEFT SECTION: Teeth diagram — jaw cross-section */}
-      <g transform="translate(10, 8)">
-        {/* Upper jaw arc */}
-        <path d="M 15,55 Q 15,20 55,15 Q 95,20 95,55" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
-        {/* Gum line */}
-        <path d="M 20,50 Q 20,30 55,25 Q 90,30 90,50" fill="url(#m2_gum)" opacity="0.6" />
-
-        {/* Upper teeth */}
-        {/* Incisors - sharp chisel shapes */}
-        <rect x="42" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="48" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="54" y="30" width="5" height="16" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="60" y="32" width="5" height="14" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-
-        {/* Canines - pointed */}
-        <path d="M 35,34 L 38,28 L 41,34 Q 40,48 38,50 Q 36,48 35,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <path d="M 66,34 L 69,28 L 72,34 Q 71,48 69,50 Q 67,48 66,34 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-
-        {/* Premolars & Molars - flat wide */}
-        <rect x="22" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="76" y="38" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        {/* Grinding surface detail on molars */}
-        <path d="M 24,40 L 28,40 M 24,43 L 28,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
-        <path d="M 78,40 L 82,40 M 78,43 L 82,43" stroke="rgba(160,140,100,0.3)" strokeWidth="0.5" />
-
-        {/* Lower jaw (mirror) */}
-        <path d="M 15,60 Q 15,95 55,100 Q 95,95 95,60" fill="url(#m2_jaw)" stroke="#A08060" strokeWidth="1" />
-        <path d="M 20,65 Q 20,85 55,90 Q 90,85 90,65" fill="url(#m2_gum)" opacity="0.6" />
-
-        {/* Lower teeth */}
-        <rect x="44" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="50" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="56" y="66" width="5" height="15" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="62" y="68" width="5" height="13" rx="1" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        {/* Lower canines */}
-        <path d="M 36,70 L 39,82 L 42,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <path d="M 67,70 L 70,82 L 73,70 Z" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        {/* Lower molars */}
-        <rect x="22" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-        <rect x="76" y="66" width="8" height="10" rx="2" fill="url(#m2_tooth)" stroke="rgba(180,170,140,0.4)" strokeWidth="0.5" />
-
-        {/* Color-coded indicator dots */}
-        {/* Incisors */}
-        <circle cx="53" cy="22" r="3" fill="rgba(255,193,7,0.3)" stroke="#FFC107" strokeWidth="0.8" />
-        <circle cx="53" cy="22" r="1" fill="#FFC107" />
-        {/* Canines */}
-        <circle cx="38" cy="24" r="3" fill="rgba(244,67,54,0.3)" stroke="#F44336" strokeWidth="0.8" />
-        <circle cx="38" cy="24" r="1" fill="#F44336" />
-        {/* Molars */}
-        <circle cx="26" cy="34" r="3" fill="rgba(76,175,80,0.3)" stroke="#4CAF50" strokeWidth="0.8" />
-        <circle cx="26" cy="34" r="1" fill="#4CAF50" />
-      </g>
-
-      {/* RIGHT SECTION: Internal organs */}
-      <g transform="translate(130, 10)">
-        {/* Body silhouette */}
-        <ellipse cx="50" cy="70" rx="38" ry="55" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" strokeWidth="1" strokeDasharray="3,3" />
-
-        {/* Lungs - detailed lobes */}
-        <g>
-          {/* Left lung */}
-          <path d="M 25,45 Q 18,50 15,65 Q 16,80 22,85 Q 30,88 35,82 Q 38,70 36,55 Q 34,46 25,45 Z" fill="url(#m2_lung)" opacity="0.75" />
-          {/* Bronchi detail */}
-          <path d="M 35,55 Q 30,52 28,55 Q 26,60 24,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
-          <path d="M 28,55 Q 24,58 22,62" stroke="rgba(255,255,255,0.15)" strokeWidth="0.4" fill="none" />
-
-          {/* Right lung */}
-          <path d="M 75,45 Q 82,50 85,65 Q 84,80 78,85 Q 70,88 65,82 Q 62,70 64,55 Q 66,46 75,45 Z" fill="url(#m2_lung)" opacity="0.75" />
-          <path d="M 65,55 Q 70,52 72,55 Q 74,60 76,65" stroke="rgba(255,255,255,0.2)" strokeWidth="0.6" fill="none" />
-
-          {/* Trachea */}
-          <rect x="47" y="35" width="6" height="18" rx="3" fill="#E88090" opacity="0.5" />
-          <path d="M 50,52 Q 40,55 35,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
-          <path d="M 50,52 Q 60,55 65,58" stroke="#E88090" strokeWidth="1.5" fill="none" opacity="0.5" />
-        </g>
-
-        {/* Heart - with chambers */}
-        <g transform="translate(50, 72)">
-          <circle cx="0" cy="0" r="14" fill="url(#m2_heart_glow)" />
-          {/* Heart shape */}
-          <path d="M 0,-10 Q -8,-14 -12,-8 Q -14,-2 -8,4 L 0,12 L 8,4 Q 14,-2 12,-8 Q 8,-14 0,-10 Z" fill="url(#m2_heart)" />
-          {/* Chamber dividers */}
-          <line x1="-6" y1="-4" x2="6" y2="-4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
-          <line x1="0" y1="-8" x2="0" y2="4" stroke="rgba(255,220,220,0.4)" strokeWidth="0.8" />
-          {/* Vessels */}
-          <path d="M -4,-10 Q -6,-14 -4,-16" stroke="#FF6B6B" strokeWidth="1.2" fill="none" />
-          <path d="M 4,-10 Q 6,-14 4,-16" stroke="#4488FF" strokeWidth="1.2" fill="none" />
-        </g>
-
-        {/* Diaphragm */}
-        <path d="M 15,100 Q 30,108 50,110 Q 70,108 85,100" stroke="#06B6D4" strokeWidth="2" strokeDasharray="3,2" fill="none" opacity="0.6" />
-      </g>
-
-      {/* Subtle connecting element */}
-      <line x1="110" y1="60" x2="130" y2="60" stroke="rgba(255,255,255,0.06)" strokeWidth="1" strokeDasharray="2,3" />
-    </svg>
-  );
-}
-
-function SVG_R3(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="m3_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#1a1a2e" />
-          <stop offset="100%" stopColor="#16213e" />
-        </linearGradient>
-        <linearGradient id="m3_herb_card" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#2E7D32" />
-          <stop offset="100%" stopColor="#1B5E20" />
-        </linearGradient>
-        <linearGradient id="m3_carn_card" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#C62828" />
-          <stop offset="100%" stopColor="#8E0000" />
-        </linearGradient>
-        <linearGradient id="m3_omni_card" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E65100" />
-          <stop offset="100%" stopColor="#BF360C" />
-        </linearGradient>
-        <linearGradient id="m3_rabbit" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#C4A882" />
-          <stop offset="100%" stopColor="#A08060" />
-        </linearGradient>
-        <linearGradient id="m3_wolf" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8D8D8D" />
-          <stop offset="50%" stopColor="#6D6D6D" />
-          <stop offset="100%" stopColor="#505050" />
-        </linearGradient>
-        <linearGradient id="m3_bear" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B5A3C" />
-          <stop offset="100%" stopColor="#5D3A1F" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#m3_bg)" />
-
-      {/* PANEL 1: HERBIVORE — Rabbit */}
-      <g>
-        <rect x="4" y="6" width="74" height="148" rx="8" fill="url(#m3_herb_card)" opacity="0.85" />
-        <rect x="4" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
-        <rect x="4" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
-
-        {/* Rabbit sitting */}
-        <g transform="translate(41, 50)">
-          {/* Body */}
-          <ellipse cx="0" cy="8" rx="12" ry="14" fill="url(#m3_rabbit)" />
-          {/* Belly */}
-          <ellipse cx="1" cy="12" rx="7" ry="8" fill="#E8D8C0" opacity="0.5" />
-          {/* Head */}
-          <circle cx="2" cy="-6" r="9" fill="url(#m3_rabbit)" />
-          {/* Ears - tall */}
-          <path d="M -2,-14 Q -4,-28 -1,-30 Q 2,-28 1,-14 Z" fill="url(#m3_rabbit)" />
-          <path d="M -1,-16 Q -2,-26 0,-28 Z" fill="#E8A0A0" opacity="0.4" />
-          <path d="M 6,-12 Q 8,-26 11,-28 Q 14,-26 12,-12 Z" fill="url(#m3_rabbit)" />
-          <path d="M 8,-14 Q 9,-24 11,-26 Z" fill="#E8A0A0" opacity="0.4" />
-          {/* Eye */}
-          <circle cx="7" cy="-8" r="2.5" fill="#1a1a1a" />
-          <circle cx="7" cy="-8" r="1.8" fill="#2C1810" />
-          <circle cx="8" cy="-9" r="0.7" fill="white" opacity="0.85" />
-          {/* Nose */}
-          <ellipse cx="10" cy="-4" rx="1.5" ry="1" fill="#E88080" />
-          {/* Whiskers */}
-          <g stroke="rgba(255,255,255,0.25)" strokeWidth="0.3" fill="none">
-            <path d="M 11,-5 L 18,-6" /><path d="M 11,-4 L 18,-3" /><path d="M 11,-3 L 17,-1" />
-          </g>
-          {/* Paws */}
-          <ellipse cx="-6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
-          <ellipse cx="6" cy="20" rx="4" ry="2.5" fill="#C4A882" />
-          {/* Fluffy tail */}
-          <circle cx="-10" cy="14" r="4" fill="#E8E0D0" />
-          {/* Fur texture */}
-          <g stroke="rgba(120,90,50,0.15)" strokeWidth="0.5" fill="none">
-            <path d="M -4,2 Q -2,0 0,2" /><path d="M 4,4 Q 6,2 8,4" />
-            <path d="M -6,10 Q -4,8 -2,10" /><path d="M 2,12 Q 4,10 6,12" />
-          </g>
-        </g>
-
-        {/* Grass/plants below */}
-        <g stroke="#4CAF50" strokeWidth="1.5" strokeLinecap="round" fill="none" opacity="0.6">
-          <path d="M 15 108 Q 17 98 19 108" /><path d="M 25 110 Q 27 100 29 110" />
-          <path d="M 50 108 Q 52 98 54 108" /><path d="M 60 110 Q 62 100 64 110" />
-          <path d="M 35 112 Q 37 104 39 112" />
-        </g>
-        {/* Leaves */}
-        <ellipse cx="20" cy="118" rx="5" ry="3" fill="#66BB6A" opacity="0.5" transform="rotate(-20 20 118)" />
-        <ellipse cx="55" cy="116" rx="4" ry="2.5" fill="#66BB6A" opacity="0.4" transform="rotate(15 55 116)" />
-      </g>
-
-      {/* PANEL 2: CARNIVORE — Wolf */}
-      <g>
-        <rect x="83" y="6" width="74" height="148" rx="8" fill="url(#m3_carn_card)" opacity="0.85" />
-        <rect x="83" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
-        <rect x="83" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
-
-        {/* Wolf head - fierce, side view */}
-        <g transform="translate(120, 50)">
-          {/* Neck fur */}
-          <path d="M -14,8 Q -18,14 -16,22 Q -10,26 -4,22 Q 0,16 -4,8 Z" fill="url(#m3_wolf)" />
-          {/* Head */}
-          <path d="M -8,-4 Q -2,-12 8,-10 Q 16,-6 16,2 Q 14,10 6,12 Q -4,12 -10,6 Q -12,0 -8,-4 Z" fill="url(#m3_wolf)" />
-          {/* Lighter muzzle */}
-          <path d="M 8,-2 Q 14,-4 18,0 Q 16,4 10,4 Q 6,2 8,-2 Z" fill="#9E9E9E" opacity="0.6" />
-          {/* Ears - pointed */}
-          <path d="M -4,-10 Q -8,-22 -2,-18 Q 2,-14 0,-8 Z" fill="url(#m3_wolf)" />
-          <path d="M -3,-12 Q -6,-18 -2,-16 Z" fill="#4A4A4A" opacity="0.4" />
-          <path d="M 6,-8 Q 4,-20 10,-16 Q 14,-12 10,-6 Z" fill="url(#m3_wolf)" />
-          <path d="M 7,-10 Q 5,-16 9,-14 Z" fill="#4A4A4A" opacity="0.4" />
-          {/* Eye - fierce amber */}
-          <circle cx="4" cy="-4" r="3" fill="#FFC107" />
-          <circle cx="4" cy="-4" r="2" fill="#FF8F00" />
-          <circle cx="4" cy="-4" r="1.2" fill="#1a1a00" />
-          <circle cx="5" cy="-5" r="0.6" fill="white" opacity="0.85" />
-          {/* Brow - fierce */}
-          <path d="M 0,-6 Q 3,-8 6,-6" stroke="#3a3a3a" strokeWidth="1" fill="none" />
-          {/* Nose */}
-          <ellipse cx="16" cy="0" rx="2.5" ry="2" fill="#1a1a1a" />
-          {/* Snarl - showing teeth */}
-          <path d="M 10,6 Q 14,4 16,5" stroke="#1a1a1a" strokeWidth="0.6" fill="none" />
-          {/* Fangs */}
-          <path d="M 12,5 L 12,9" stroke="#FFF8E1" strokeWidth="1.2" strokeLinecap="round" />
-          <path d="M 15,4 L 15,8" stroke="#FFF8E1" strokeWidth="1" strokeLinecap="round" />
-          {/* Fur texture */}
-          <g stroke="rgba(60,60,60,0.25)" strokeWidth="0.5" fill="none">
-            <path d="M -6,0 Q -4,-2 -2,0" /><path d="M 0,4 Q 2,2 4,4" />
-            <path d="M -8,6 Q -6,4 -4,6" /><path d="M -12,14 Q -10,12 -8,14" />
-          </g>
-        </g>
-
-        {/* Meat/bone below */}
-        <g transform="translate(110, 105)">
-          {/* Bone */}
-          <path d="M -8,0 L 8,0" stroke="#E8E0D0" strokeWidth="3" strokeLinecap="round" />
-          <circle cx="-10" cy="0" r="2.5" fill="#E8E0D0" />
-          <circle cx="10" cy="0" r="2.5" fill="#E8E0D0" />
-          {/* Meat chunk */}
-          <ellipse cx="0" cy="10" rx="6" ry="4" fill="#D32F2F" opacity="0.7" />
-          <ellipse cx="0" cy="10" rx="4" ry="2.5" fill="#E53935" opacity="0.5" />
-        </g>
-      </g>
-
-      {/* PANEL 3: OMNIVORE — Bear */}
-      <g>
-        <rect x="162" y="6" width="74" height="148" rx="8" fill="url(#m3_omni_card)" opacity="0.85" />
-        <rect x="162" y="6" width="74" height="148" rx="8" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="0.8" />
-        <rect x="162" y="6" width="74" height="20" rx="8" fill="rgba(255,255,255,0.06)" />
-
-        {/* Bear - front view sitting */}
-        <g transform="translate(199, 50)">
-          {/* Body */}
-          <ellipse cx="0" cy="12" rx="16" ry="18" fill="url(#m3_bear)" />
-          {/* Belly lighter */}
-          <ellipse cx="0" cy="16" rx="10" ry="12" fill="#A07050" opacity="0.4" />
-          {/* Head */}
-          <circle cx="0" cy="-8" r="12" fill="url(#m3_bear)" />
-          {/* Muzzle */}
-          <ellipse cx="0" cy="-2" rx="6" ry="5" fill="#A07050" opacity="0.5" />
-          {/* Ears */}
-          <circle cx="-9" cy="-16" r="4" fill="url(#m3_bear)" />
-          <circle cx="-9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
-          <circle cx="9" cy="-16" r="4" fill="url(#m3_bear)" />
-          <circle cx="9" cy="-16" r="2.5" fill="#5D3A1F" opacity="0.5" />
-          {/* Eyes */}
-          <circle cx="-4" cy="-10" r="2.2" fill="#1a1a1a" />
-          <circle cx="-4" cy="-10" r="1.5" fill="#2C1810" />
-          <circle cx="-3.3" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
-          <circle cx="4" cy="-10" r="2.2" fill="#1a1a1a" />
-          <circle cx="4" cy="-10" r="1.5" fill="#2C1810" />
-          <circle cx="4.7" cy="-10.8" r="0.5" fill="white" opacity="0.8" />
-          {/* Nose */}
-          <ellipse cx="0" cy="-3" rx="3" ry="2" fill="#1a1a1a" />
-          <circle cx="-0.5" cy="-3.5" r="0.5" fill="white" opacity="0.15" />
-          {/* Mouth */}
-          <path d="M 0,-1 Q -2,1 -3,0 M 0,-1 Q 2,1 3,0" stroke="rgba(0,0,0,0.2)" strokeWidth="0.5" fill="none" />
-          {/* Paws */}
-          <ellipse cx="-12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
-          <ellipse cx="12" cy="26" rx="5" ry="3" fill="#5D3A1F" />
-          {/* Fur */}
-          <g stroke="rgba(60,40,20,0.15)" strokeWidth="0.5" fill="none">
-            <path d="M -6,4 Q -4,2 -2,4" /><path d="M 2,6 Q 4,4 6,6" />
-            <path d="M -8,14 Q -6,12 -4,14" /><path d="M 4,16 Q 6,14 8,16" />
-          </g>
-        </g>
-
-        {/* Mixed food: berries + fish */}
-        <g transform="translate(188, 108)">
-          {/* Berries */}
-          <circle cx="0" cy="0" r="2.5" fill="#E53935" /><circle cx="5" cy="2" r="2" fill="#E53935" />
-          <circle cx="-4" cy="3" r="2" fill="#7B1FA2" opacity="0.8" />
-          {/* Leaf */}
-          <ellipse cx="2" cy="-3" rx="3" ry="1.5" fill="#4CAF50" opacity="0.6" transform="rotate(-30 2 -3)" />
-          {/* Fish */}
-          <g transform="translate(16, 2)">
-            <path d="M -6,0 Q 0,-4 6,0 Q 0,4 -6,0 Z" fill="#64B5F6" opacity="0.7" />
-            <path d="M 6,0 L 9,-2 L 9,2 Z" fill="#42A5F5" opacity="0.6" />
-            <circle cx="-3" cy="-1" r="0.6" fill="#1a1a1a" />
-          </g>
-        </g>
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="10" fontSize="30" textAnchor="middle">🦊</text>
+        <text x="20" y="10" fontSize="30" textAnchor="middle">🐻</text>
       </g>
     </svg>
   );
-}
+});
 
-function SVG_R4(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="m4_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#0a1628" />
-          <stop offset="100%" stopColor="#162040" />
-        </linearGradient>
-        <linearGradient id="m4_timeline" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#3B82F6" />
-          <stop offset="25%" stopColor="#10B981" />
-          <stop offset="50%" stopColor="#F59E0B" />
-          <stop offset="75%" stopColor="#EC4899" />
-          <stop offset="100%" stopColor="#06B6D4" />
-        </linearGradient>
-      </defs>
+// ─── LABELS ─────────────────────────────────────────────────────────
 
-      <rect width="240" height="160" fill="url(#m4_bg)" />
-
-      {/* Timeline path with gradient */}
-      <path d="M 25 55 L 215 55" stroke="url(#m4_timeline)" strokeWidth="2.5" strokeLinecap="round" />
-      <path d="M 25 55 L 215 55" stroke="rgba(255,255,255,0.08)" strokeWidth="6" strokeLinecap="round" />
-
-      {/* Progression arrows on timeline */}
-      <g fill="rgba(255,255,255,0.2)">
-        <polygon points="55,52 60,55 55,58" /><polygon points="100,52 105,55 100,58" />
-        <polygon points="145,52 150,55 145,58" /><polygon points="185,52 190,55 185,58" />
-      </g>
-
-      {/* FISH */}
-      <g transform="translate(25, 55)">
-        <circle cx="0" cy="0" r="10" fill="rgba(59,130,246,0.2)" stroke="#3B82F6" strokeWidth="1.5" />
-        {/* Fish body */}
-        <path d="M -4,0 Q 0,-3 4,0 Q 0,3 -4,0 Z" fill="#64B5F6" />
-        <path d="M 4,0 L 7,-2 L 7,2 Z" fill="#42A5F5" />
-        <circle cx="-2" cy="-0.8" r="0.6" fill="#0a0a0a" />
-        {/* Gills */}
-        <path d="M 0,-1 Q 0.5,0 0,1" stroke="rgba(255,255,255,0.3)" strokeWidth="0.4" fill="none" />
-        {/* Water bubbles */}
-        <circle cx="-8" cy="-6" r="1" fill="rgba(59,130,246,0.3)" />
-        <circle cx="-6" cy="-10" r="0.7" fill="rgba(59,130,246,0.2)" />
-      </g>
-
-      {/* AMPHIBIAN */}
-      <g transform="translate(72, 55)">
-        <circle cx="0" cy="0" r="10" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="1.5" />
-        {/* Frog body */}
-        <ellipse cx="0" cy="1" rx="5" ry="3.5" fill="#34D399" />
-        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#6EE7B7" opacity="0.4" />
-        {/* Head */}
-        <circle cx="3" cy="-2" r="3" fill="#34D399" />
-        {/* Big eyes */}
-        <circle cx="2" cy="-4" r="1.8" fill="#A7F3D0" />
-        <circle cx="2" cy="-4" r="1" fill="#064E3B" />
-        <circle cx="2.5" cy="-4.5" r="0.4" fill="white" opacity="0.8" />
-        <circle cx="5" cy="-4" r="1.5" fill="#A7F3D0" />
-        <circle cx="5" cy="-4" r="0.8" fill="#064E3B" />
-        {/* Legs */}
-        <path d="M -4,3 L -7,5 L -8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
-        <path d="M 4,3 L 7,5 L 8,4" stroke="#34D399" strokeWidth="1" strokeLinecap="round" fill="none" />
-      </g>
-
-      {/* REPTILE */}
-      <g transform="translate(120, 55)">
-        <circle cx="0" cy="0" r="10" fill="rgba(245,158,11,0.2)" stroke="#F59E0B" strokeWidth="1.5" />
-        {/* Lizard body */}
-        <path d="M -3,0 Q 0,-2 3,0 Q 5,1 4,2 Q 1,3 -2,2 Q -4,1 -3,0 Z" fill="#8BC34A" />
-        {/* Head */}
-        <path d="M -3,0 Q -5,-1 -6,1 Q -4,2 -3,0 Z" fill="#8BC34A" />
-        {/* Eye */}
-        <circle cx="-5" cy="0" r="1" fill="#FFEB3B" />
-        <ellipse cx="-5" cy="0" rx="0.3" ry="0.8" fill="#1a1a00" />
-        {/* Tail */}
-        <path d="M 4,1 Q 6,0 8,-1" stroke="#7CB342" strokeWidth="1.2" strokeLinecap="round" fill="none" />
-        {/* Legs */}
-        <path d="M -1,2 L -2,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
-        <path d="M 2,2 L 3,4" stroke="#7CB342" strokeWidth="0.8" strokeLinecap="round" />
-        {/* Scale dots */}
-        <g fill="rgba(100,120,20,0.3)">
-          <circle cx="0" cy="0.5" r="0.4" /><circle cx="2" cy="1" r="0.3" />
-        </g>
-      </g>
-
-      {/* BIRD */}
-      <g transform="translate(168, 55)">
-        <circle cx="0" cy="0" r="10" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="1.5" />
-        {/* Bird body */}
-        <ellipse cx="0" cy="1" rx="5" ry="4" fill="#F06292" />
-        {/* Wing */}
-        <path d="M -3,0 Q -6,-3 -8,-1 Q -6,1 -3,2 Z" fill="#E91E63" opacity="0.7" />
-        {/* Head */}
-        <circle cx="4" cy="-3" r="3" fill="#F06292" />
-        {/* Eye */}
-        <circle cx="5.5" cy="-4" r="1" fill="#0a0a0a" />
-        <circle cx="5.8" cy="-4.3" r="0.35" fill="white" opacity="0.8" />
-        {/* Beak */}
-        <path d="M 6.5,-3 L 9,-3 L 7.5,-1.5 Z" fill="#FFB300" />
-        {/* Tail */}
-        <path d="M -4,3 L -7,5 M -4,3 L -6,6" stroke="#E91E63" strokeWidth="1" strokeLinecap="round" fill="none" />
-        {/* Feather marks */}
-        <path d="M -5,-2 L -6,-4" stroke="#AD1457" strokeWidth="0.5" opacity="0.4" />
-      </g>
-
-      {/* MAMMAL */}
-      <g transform="translate(215, 55)">
-        <circle cx="0" cy="0" r="10" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="1.5" />
-        {/* Fox/dog body */}
-        <ellipse cx="-1" cy="1" rx="5" ry="4" fill="#D4A060" />
-        <ellipse cx="-1" cy="3" rx="3" ry="2" fill="#F0E0C0" opacity="0.4" />
-        {/* Head */}
-        <circle cx="3" cy="-3" r="3.5" fill="#D4A060" />
-        {/* Ear */}
-        <path d="M 1,-5 Q -1,-9 2,-7 Z" fill="#D4A060" />
-        <path d="M 5,-5 Q 4,-9 7,-7 Z" fill="#D4A060" />
-        {/* Eye */}
-        <circle cx="5" cy="-4" r="1.2" fill="#E8A020" />
-        <circle cx="5" cy="-4" r="0.7" fill="#1a1a00" />
-        <circle cx="5.4" cy="-4.4" r="0.3" fill="white" opacity="0.8" />
-        {/* Nose */}
-        <circle cx="6" cy="-2" r="0.8" fill="#1a1a1a" />
-        {/* Tail */}
-        <path d="M -5,0 Q -8,-2 -7,-5" stroke="#C49050" strokeWidth="2" strokeLinecap="round" fill="none" />
-        {/* Fur */}
-        <path d="M -2,-1 Q 0,-2 2,-1" stroke="rgba(160,120,60,0.2)" strokeWidth="0.4" fill="none" />
-      </g>
-
-      {/* Environment bands below each */}
-      {/* Water for fish */}
-      <rect x="15" y="70" width="20" height="80" rx="4" fill="rgba(59,130,246,0.08)" />
-      <g stroke="rgba(59,130,246,0.15)" strokeWidth="0.5" fill="none">
-        <path d="M 18 90 Q 22 88 26 90 Q 30 92 34 90" />
-        <path d="M 18 110 Q 22 108 26 110 Q 30 112 34 110" />
-      </g>
-
-      {/* Water+land for amphibian */}
-      <rect x="62" y="70" width="20" height="80" rx="4" fill="rgba(16,185,129,0.08)" />
-      <path d="M 62 110 Q 67 108 72 110 Q 77 112 82 110 L 82 150 L 62 150 Z" fill="rgba(59,130,246,0.06)" />
-
-      {/* Land for reptile */}
-      <rect x="110" y="70" width="20" height="80" rx="4" fill="rgba(245,158,11,0.08)" />
-
-      {/* Sky+land for bird */}
-      <rect x="158" y="70" width="20" height="80" rx="4" fill="rgba(236,72,153,0.08)" />
-
-      {/* All terrain for mammal */}
-      <rect x="205" y="70" width="20" height="80" rx="4" fill="rgba(6,182,212,0.08)" />
-
-      {/* Connecting dots on each habitat band */}
-      <g opacity="0.4">
-        <circle cx="25" cy="82" r="1.5" fill="#3B82F6" />
-        <circle cx="72" cy="82" r="1.5" fill="#10B981" />
-        <circle cx="120" cy="82" r="1.5" fill="#F59E0B" />
-        <circle cx="168" cy="82" r="1.5" fill="#EC4899" />
-        <circle cx="215" cy="82" r="1.5" fill="#06B6D4" />
-      </g>
-    </svg>
-  );
-}
-
-function SVG_R5(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="m5_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#0a1628" />
-          <stop offset="100%" stopColor="#162040" />
-        </linearGradient>
-        <radialGradient id="m5_center_glow" cx="50%" cy="50%">
-          <stop offset="0%" stopColor="rgba(6,182,212,0.15)" />
-          <stop offset="100%" stopColor="rgba(6,182,212,0)" />
-        </radialGradient>
-        <linearGradient id="m5_fox" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#E87A30" />
-          <stop offset="100%" stopColor="#B85A1A" />
-        </linearGradient>
-        <linearGradient id="m5_whale" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4A7A9A" />
-          <stop offset="100%" stopColor="#2E5A7A" />
-        </linearGradient>
-        <linearGradient id="m5_bat" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#5D4037" />
-          <stop offset="100%" stopColor="#3E2723" />
-        </linearGradient>
-        <linearGradient id="m5_lion" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E8A830" />
-          <stop offset="100%" stopColor="#C08020" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#m5_bg)" />
-      <circle cx="120" cy="80" r="75" fill="url(#m5_center_glow)" />
-
-      {/* Central mammal icon ring */}
-      <circle cx="120" cy="65" r="42" fill="none" stroke="rgba(6,182,212,0.15)" strokeWidth="1" strokeDasharray="4,4" />
-
-      {/* FOX — top center (fur representative) */}
-      <g transform="translate(120, 30)">
-        <circle cx="0" cy="0" r="14" fill="rgba(232,122,48,0.15)" stroke="rgba(232,122,48,0.4)" strokeWidth="0.8" />
-        {/* Fox face */}
-        <path d="M -5,0 Q 0,-6 5,0 Q 3,5 0,6 Q -3,5 -5,0 Z" fill="url(#m5_fox)" />
-        <path d="M 0,2 Q -1,4 0,5 Q 1,4 0,2 Z" fill="#FFF8E1" opacity="0.5" />
-        {/* Ears */}
-        <path d="M -4,-3 Q -5,-8 -2,-6 Z" fill="url(#m5_fox)" />
-        <path d="M 4,-3 Q 5,-8 2,-6 Z" fill="url(#m5_fox)" />
-        {/* Eyes */}
-        <circle cx="-2" cy="-1" r="1.2" fill="#E8A020" />
-        <circle cx="-2" cy="-1" r="0.6" fill="#1a1a00" />
-        <circle cx="2" cy="-1" r="1.2" fill="#E8A020" />
-        <circle cx="2" cy="-1" r="0.6" fill="#1a1a00" />
-        {/* Nose */}
-        <circle cx="0" cy="2" r="0.8" fill="#1a1a1a" />
-      </g>
-
-      {/* WHALE — bottom center */}
-      <g transform="translate(120, 110)">
-        <circle cx="0" cy="0" r="14" fill="rgba(74,122,154,0.15)" stroke="rgba(74,122,154,0.4)" strokeWidth="0.8" />
-        {/* Whale body */}
-        <path d="M -8,0 Q -4,-5 4,-4 Q 10,-2 10,1 Q 8,4 2,5 Q -4,5 -8,2 Z" fill="url(#m5_whale)" />
-        <path d="M -6,1 Q -2,3 4,3" fill="#6A9ABA" opacity="0.3" />
-        {/* Eye */}
-        <circle cx="-5" cy="-1" r="1" fill="#f0f9ff" />
-        <circle cx="-5" cy="-1" r="0.5" fill="#0a0a0a" />
-        {/* Tail */}
-        <path d="M 10,0 Q 12,-3 14,-2 M 10,0 Q 12,3 14,2" stroke="url(#m5_whale)" strokeWidth="1.5" strokeLinecap="round" fill="none" />
-        {/* Water spout */}
-        <path d="M -4,-5 Q -3,-8 -4,-10 M -3,-5 Q -2,-9 -1,-10" stroke="rgba(100,200,255,0.4)" strokeWidth="0.5" fill="none" />
-      </g>
-
-      {/* BAT — left */}
-      <g transform="translate(80, 65)">
-        <circle cx="0" cy="0" r="14" fill="rgba(93,64,55,0.15)" stroke="rgba(93,64,55,0.4)" strokeWidth="0.8" />
-        {/* Body */}
-        <ellipse cx="0" cy="2" rx="3" ry="4" fill="url(#m5_bat)" />
-        {/* Wings spread */}
-        <path d="M -3,0 Q -8,-5 -12,-2 Q -10,2 -6,4 Q -4,3 -3,2 Z" fill="#5D4037" opacity="0.7" />
-        <path d="M 3,0 Q 8,-5 12,-2 Q 10,2 6,4 Q 4,3 3,2 Z" fill="#5D4037" opacity="0.7" />
-        {/* Wing membrane lines */}
-        <path d="M -4,-1 L -9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
-        <path d="M 4,-1 L 9,-3" stroke="#3E2723" strokeWidth="0.3" opacity="0.4" />
-        {/* Head */}
-        <circle cx="0" cy="-2" r="2.5" fill="url(#m5_bat)" />
-        {/* Ears */}
-        <path d="M -1.5,-4 Q -2,-7 -0.5,-5 Z" fill="#5D4037" />
-        <path d="M 1.5,-4 Q 2,-7 0.5,-5 Z" fill="#5D4037" />
-        {/* Eyes */}
-        <circle cx="-1" cy="-2.5" r="0.7" fill="#FFD700" />
-        <circle cx="1" cy="-2.5" r="0.7" fill="#FFD700" />
-      </g>
-
-      {/* LION — right */}
-      <g transform="translate(160, 65)">
-        <circle cx="0" cy="0" r="14" fill="rgba(232,168,48,0.15)" stroke="rgba(232,168,48,0.4)" strokeWidth="0.8" />
-        {/* Mane */}
-        <circle cx="0" cy="-1" r="8" fill="url(#m5_lion)" opacity="0.5" />
-        {/* Head */}
-        <circle cx="0" cy="-1" r="5" fill="url(#m5_lion)" />
-        {/* Muzzle */}
-        <ellipse cx="0" cy="2" rx="3" ry="2" fill="#D4A060" opacity="0.5" />
-        {/* Eyes */}
-        <circle cx="-2" cy="-2" r="1.2" fill="#E8A020" />
-        <circle cx="-2" cy="-2" r="0.6" fill="#1a1a00" />
-        <circle cx="2" cy="-2" r="1.2" fill="#E8A020" />
-        <circle cx="2" cy="-2" r="0.6" fill="#1a1a00" />
-        {/* Nose */}
-        <ellipse cx="0" cy="1" rx="1.2" ry="0.8" fill="#1a1a1a" />
-        {/* Mane fur lines */}
-        <g stroke="rgba(180,120,20,0.3)" strokeWidth="0.5" fill="none">
-          <path d="M -7,-3 Q -6,-5 -5,-3" /><path d="M 5,-3 Q 6,-5 7,-3" />
-          <path d="M -6,3 Q -5,5 -4,3" /><path d="M 6,3 Q 5,5 4,3" />
-          <path d="M -3,-7 Q -2,-8 -1,-7" /><path d="M 1,-7 Q 2,-8 3,-7" />
-        </g>
-      </g>
-
-      {/* Feature indicators around the ring */}
-      {/* Fur */}
-      <g transform="translate(95, 18)">
-        <circle cx="0" cy="0" r="4" fill="rgba(16,185,129,0.2)" stroke="#10B981" strokeWidth="0.8" />
-        <g stroke="#10B981" strokeWidth="0.5" fill="none" opacity="0.8">
-          <path d="M -1.5,-1.5 Q 0,-3 1.5,-1.5" /><path d="M -1.5,0 Q 0,-1.5 1.5,0" /><path d="M -1.5,1.5 Q 0,0 1.5,1.5" />
-        </g>
-      </g>
-
-      {/* Warm blood */}
-      <g transform="translate(145, 18)">
-        <circle cx="0" cy="0" r="4" fill="rgba(255,70,87,0.2)" stroke="#FF4757" strokeWidth="0.8" />
-        <rect x="-0.8" y="-2.5" width="1.6" height="4" rx="0.8" fill="#FF4757" />
-        <circle cx="0" cy="2" r="1.2" fill="#FF4757" />
-      </g>
-
-      {/* Live birth */}
-      <g transform="translate(75, 100)">
-        <circle cx="0" cy="0" r="4" fill="rgba(236,72,153,0.2)" stroke="#EC4899" strokeWidth="0.8" />
-        {/* Mother+baby silhouette */}
-        <circle cx="-1" cy="-0.5" r="2" fill="none" stroke="#EC4899" strokeWidth="0.6" />
-        <circle cx="1.5" cy="1" r="1" fill="#EC4899" opacity="0.5" />
-      </g>
-
-      {/* Milk */}
-      <g transform="translate(165, 100)">
-        <circle cx="0" cy="0" r="4" fill="rgba(6,182,212,0.2)" stroke="#06B6D4" strokeWidth="0.8" />
-        {/* Milk drop */}
-        <path d="M 0,-2 Q -1.5,0 0,2 Q 1.5,0 0,-2 Z" fill="#06B6D4" opacity="0.6" />
-      </g>
-
-      {/* Subtle connecting lines from features to center */}
-      <g stroke="rgba(255,255,255,0.06)" strokeWidth="0.5" strokeDasharray="2,3">
-        <line x1="95" y1="22" x2="110" y2="40" />
-        <line x1="145" y1="22" x2="130" y2="40" />
-        <line x1="79" y1="100" x2="100" y2="85" />
-        <line x1="161" y1="100" x2="140" y2="85" />
-      </g>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Content Definition
-// ─────────────────────────────────────────────────────────────────────────────
-
-const LABELS: ExplorerDef["labels"] = {
-  en: {
-    // Rounds
-    r1_title: "What Makes a Mammal?",
-    r1_text: "Mammals have unique features that set them apart from all other animals. Let's explore what makes them special!",
-    r1_fact1: "All mammals have fur or hair on their bodies",
-    r1_fact2: "Mammals are warm-blooded — they keep their body warm from inside",
-    r1_fact3: "Most mammals give birth to live young, not eggs",
-    r1_fact4: "Mothers feed their babies with milk",
-
-    r2_title: "Mammal Body Systems",
-    r2_text: "Inside every mammal, there are special body systems that help them survive and thrive.",
-    r2_fact1: "Lungs let mammals breathe air anywhere",
-    r2_fact2: "A 4-chamber heart pumps blood efficiently",
-    r2_fact3: "Different teeth for different jobs — sharp ones for tearing, flat ones for grinding",
-    r2_fact4: "A diaphragm muscle helps with breathing",
-
-    r3_title: "What Do Mammals Eat?",
-    r3_text: "Mammals have different diets! Some eat only plants, some eat only meat, and some eat both. Their teeth match their diet!",
-    r3_fact1: "Herbivores eat only plants — like cows and rabbits",
-    r3_fact2: "Carnivores eat only meat — like wolves and lions",
-    r3_fact3: "Omnivores eat both plants and meat — like bears and humans",
-
-    r4_title: "The Five Vertebrate Classes",
-    r4_text: "Mammals are just ONE group of vertebrates! Let's see how they fit in with fish, amphibians, reptiles, and birds.",
-    r4_hint: "Tap the classes in order from simplest to most advanced.",
-    r4_fact1: "Fish came first — they have gills and scales",
-    r4_fact2: "Amphibians can live on land and in water",
-    r4_fact3: "Reptiles have scales and lay eggs",
-    r4_fact4: "Birds have feathers and are warm-blooded",
-    r4_fact5: "Mammals are the most advanced — with fur and milk nursing",
-
-    r5_title: "Mammal Quiz!",
-    r5_text: "Now test what you've learned about mammals!",
-
-    // Quiz questions (R1)
-    q_r1_1: "Which feature do ALL mammals have that fish don't?",
-    q_r1_1_a: "Fur or hair",
-    q_r1_1_b: "Scales",
-    q_r1_1_c: "Gills",
-    q_r1_1_d: "Feathers",
-
-    q_r1_2: "How do mammals stay warm differently from reptiles?",
-    q_r1_2_a: "They sit in the sun",
-    q_r1_2_b: "They generate heat from inside their bodies",
-    q_r1_2_c: "They have thicker fur",
-    q_r1_2_d: "They migrate to warm places",
-
-    q_r1_3: "What is the biggest difference between mammals and birds?",
-    q_r1_3_a: "Mammals have fur; birds have feathers",
-    q_r1_3_b: "Mammals lay eggs; birds don't",
-    q_r1_3_c: "Mammals are cold-blooded; birds are warm-blooded",
-    q_r1_3_d: "Mammals don't have hearts; birds do",
-
-    // Quiz questions (R2)
-    q_r2_1: "Why do mammals have different types of teeth?",
-    q_r2_1_a: "For beauty",
-    q_r2_1_b: "For different jobs — tearing, grinding, crushing",
-    q_r2_1_c: "They just grow randomly",
-    q_r2_1_d: "To make noise",
-
-    q_r2_2: "What do mammal lungs do?",
-    q_r2_2_a: "Make food",
-    q_r2_2_b: "Pump blood",
-    q_r2_2_c: "Breathe air",
-    q_r2_2_d: "Store energy",
-
-    // Quiz questions (R3)
-    q_r3_1: "A rabbit eats only grass and vegetables. What type is it?",
-    q_r3_1_a: "Carnivore",
-    q_r3_1_b: "Omnivore",
-    q_r3_1_c: "Herbivore",
-    q_r3_1_d: "Insectivore",
-
-    q_r3_2: "A wolf hunts and eats only meat. What type is it?",
-    q_r3_2_a: "Herbivore",
-    q_r3_2_b: "Omnivore",
-    q_r3_2_c: "Carnivore",
-    q_r3_2_d: "Frugivore",
-
-    q_r3_3: "A bear eats fish AND berries. What type is it?",
-    q_r3_3_a: "Carnivore",
-    q_r3_3_b: "Omnivore",
-    q_r3_3_c: "Herbivore",
-    q_r3_3_d: "Piscivore",
-
-    // Order questions (R4)
-    fish_cls: "Fish 🐟",
-    amphibian_cls: "Amphibian 🐸",
-    reptile_cls: "Reptile 🦎",
-    bird_cls: "Bird 🐦",
-    mammal_cls: "Mammal 🐾",
-
-    // Quiz questions (R5)
-    q_r5_1: "Is a whale a mammal?",
-    q_r5_1_a: "Yes, it has fur, warm blood, and nurses young",
-    q_r5_1_b: "No, it lives in water so it must be a fish",
-
-    q_r5_2: "Is a platypus a mammal even though it lays eggs?",
-    q_r5_2_a: "Yes, it has fur and is warm-blooded",
-    q_r5_2_b: "No, mammals don't lay eggs",
-
-    q_r5_3: "Is a bat a mammal?",
-    q_r5_3_a: "No, it flies like a bird",
-    q_r5_3_b: "Yes, it has fur, is warm-blooded, and nurses young",
-
-    q_r5_4: "Is a shark a mammal?",
-    q_r5_4_a: "Yes, because it's big and intelligent",
-    q_r5_4_b: "No, it has gills, scales, and is cold-blooded",
-  },
-
-  de: {
-    r1_title: "Was macht ein Säugetier aus?",
-    r1_text: "Säugetiere haben einzigartige Merkmale, die sie von allen anderen Tieren unterscheiden. Lass uns erforschen, was sie besonders macht!",
-    r1_fact1: "Alle Säugetiere haben Fell oder Haare auf ihrem Körper",
-    r1_fact2: "Säugetiere sind warmblütig — sie erzeugen Wärme von innen",
-    r1_fact3: "Die meisten Säugetiere bekommen lebende Junge, keine Eier",
-    r1_fact4: "Mütter füttern ihre Babys mit Milch",
-
-    r2_title: "Körpersysteme von Säugetieren",
-    r2_text: "In jedem Säugetier gibt es spezielle Systeme, die ihm helfen zu überleben.",
-    r2_fact1: "Lungen ermöglichen Säugetieren, überall Luft zu atmen",
-    r2_fact2: "Ein 4-Kammer-Herz pumpt Blut effizient",
-    r2_fact3: "Verschiedene Zähne für verschiedene Aufgaben",
-    r2_fact4: "Ein Zwerchfell hilft beim Atmen",
-
-    r3_title: "Was fressen Säugetiere?",
-    r3_text: "Säugetiere haben unterschiedliche Diäten! Manche essen nur Pflanzen, manche nur Fleisch, manche beides.",
-    r3_fact1: "Pflanzenfresser essen nur Pflanzen — wie Kühe und Kaninchen",
-    r3_fact2: "Fleischfresser essen nur Fleisch — wie Wölfe und Löwen",
-    r3_fact3: "Allesfresser essen Pflanzen UND Fleisch — wie Bären und Menschen",
-
-    r4_title: "Die fünf Wirbeltierklas­sen",
-    r4_text: "Säugetiere sind nur EINE Gruppe von Wirbeltieren! Lass uns sehen, wie sie mit Fischen, Amphibien, Reptilien und Vögeln passen.",
-    r4_hint: "Tippe die Klassen in Reihenfolge an, von einfach zu fortgeschrittener.",
-    r4_fact1: "Fische kamen zuerst — sie haben Kiemen und Schuppen",
-    r4_fact2: "Amphibien können an Land und im Wasser leben",
-    r4_fact3: "Reptilien haben Schuppen und legen Eier",
-    r4_fact4: "Vögel haben Federn und sind warmblütig",
-    r4_fact5: "Säugetiere sind am weitesten entwickelt — mit Fell und Milchernährung",
-
-    r5_title: "Säugetier-Quiz!",
-    r5_text: "Teste jetzt dein Wissen über Säugetiere!",
-
-    q_r1_1: "Welches Merkmal haben ALLE Säugetiere, das Fische nicht haben?",
-    q_r1_1_a: "Fell oder Haare",
-    q_r1_1_b: "Schuppen",
-    q_r1_1_c: "Kiemen",
-    q_r1_1_d: "Federn",
-
-    q_r1_2: "Wie halten Säugetiere sich warm, anders als Reptilien?",
-    q_r1_2_a: "Sie sitzen in der Sonne",
-    q_r1_2_b: "Sie erzeugen Wärme von innen",
-    q_r1_2_c: "Sie haben dickeres Fell",
-    q_r1_2_d: "Sie wandern in warme Orte",
-
-    q_r1_3: "Was ist der größte Unterschied zwischen Säugetieren und Vögeln?",
-    q_r1_3_a: "Säugetiere haben Fell; Vögel haben Federn",
-    q_r1_3_b: "Säugetiere legen Eier; Vögel nicht",
-    q_r1_3_c: "Säugetiere sind kaltblütig; Vögel warmblütig",
-    q_r1_3_d: "Säugetiere haben keine Herzen; Vögel haben welche",
-
-    q_r2_1: "Warum haben Säugetiere verschiedene Zahntypen?",
-    q_r2_1_a: "Zur Schönheit",
-    q_r2_1_b: "Für verschiedene Aufgaben",
-    q_r2_1_c: "Sie wachsen zufällig",
-    q_r2_1_d: "Um Lärm zu machen",
-
-    q_r2_2: "Was tun Säugetierlungen?",
-    q_r2_2_a: "Machen Nahrung",
-    q_r2_2_b: "Pumpen Blut",
-    q_r2_2_c: "Atmen Luft",
-    q_r2_2_d: "Speichern Energie",
-
-    q_r3_1: "Ein Kaninchen isst nur Gras und Gemüse. Was ist es?",
-    q_r3_1_a: "Fleischfresser",
-    q_r3_1_b: "Allesfresser",
-    q_r3_1_c: "Pflanzenfresser",
-    q_r3_1_d: "Insektenfresser",
-
-    q_r3_2: "Ein Wolf jagt und isst nur Fleisch. Was ist er?",
-    q_r3_2_a: "Pflanzenfresser",
-    q_r3_2_b: "Allesfresser",
-    q_r3_2_c: "Fleischfresser",
-    q_r3_2_d: "Fruchtfresser",
-
-    q_r3_3: "Ein Bär isst Fisch UND Beeren. Was ist er?",
-    q_r3_3_a: "Fleischfresser",
-    q_r3_3_b: "Allesfresser",
-    q_r3_3_c: "Pflanzenfresser",
-    q_r3_3_d: "Fischfresser",
-
-    fish_cls: "Fisch 🐟",
-    amphibian_cls: "Amphibie 🐸",
-    reptile_cls: "Reptil 🦎",
-    bird_cls: "Vogel 🐦",
-    mammal_cls: "Säugetier 🐾",
-
-    q_r5_1: "Ist ein Wal ein Säugetier?",
-    q_r5_1_a: "Ja, es hat Fell, warmblütiges Blut und säugt Junge",
-    q_r5_1_b: "Nein, es lebt im Wasser, muss also ein Fisch sein",
-
-    q_r5_2: "Ist ein Schnabeltier ein Säugetier, obwohl es Eier legt?",
-    q_r5_2_a: "Ja, es hat Fell und ist warmblütig",
-    q_r5_2_b: "Nein, Säugetiere legen keine Eier",
-
-    q_r5_3: "Ist eine Fledermaus ein Säugetier?",
-    q_r5_3_a: "Nein, sie fliegt wie ein Vogel",
-    q_r5_3_b: "Ja, sie hat Fell, ist warmblütig und säugt Junge",
-
-    q_r5_4: "Ist ein Hai ein Säugetier?",
-    q_r5_4_a: "Ja, weil es groß und intelligent ist",
-    q_r5_4_b: "Nein, es hat Kiemen, Schuppen und ist kaltblütig",
-  },
-
+const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    r1_title: "Mi tesz valakit emlőssé?",
-    r1_text: "Az emlősök egyedi jellemzőkkel rendelkeznek, amelyek megkülönböztetik őket az összes többi állattól.",
-    r1_fact1: "Minden emlősnek van szőre vagy haja",
-    r1_fact2: "Az emlősök melegvérűek — belülről termelnek hőt",
-    r1_fact3: "A legtöbb emlős elevenen szüli meg fiait, nem tojásként",
-    r1_fact4: "Az anyák tejjel táplálják kicsinyeiket",
+    explorer_title: "Az Emlősök Világa",
+    // T1: Jellemzők
+    t1_title: "Az emlősök jellemzői",
+    t1_text: "Az emlősök a legfejlettebb gerincesek. Kicsinyeiket anyatejjel táplálják, testüket szőrzet borítja, és állandó testhőmérsékletűek (melegvérűek).",
+    t1_b1: "Kültakaró: bőr és szőrzet.",
+    t1_b2: "Légzés: fejlett tüdővel.",
+    t1_b3: "Utódgondozás: a nőstények anyatejjel szoptatnak.",
+    t1_inst: "Mivel táplálják az emlősök a kicsinyeiket?",
+    t1_gap_sentence: "Az emlős anyák {gap} táplálják az utódaikat.",
+    t1_c1: "anyatejjel", t1_c2: "növényekkel", t1_c3: "vízzel",
+    t1_q: "Milyen az emlősök testhőmérséklete?",
+    t1_q_a: "Állandó (melegvérűek)", t1_q_b: "Változó (hidegvérűek)", t1_q_c: "A környezettől függ", t1_q_d: "Mindig fagyos",
 
-    r2_title: "Az emlős test rendszerei",
-    r2_text: "Minden emlősten belül vannak speciális rendszerek, amelyek segítenek túlélni.",
-    r2_fact1: "A tüdő lehetővé teszi az emlősöknek, hogy bárhol lélegezzenek",
-    r2_fact2: "Egy 4 kamrás szív hatékonyan pumpálja a vért",
-    r2_fact3: "Különböző fogak különböző feladatokhoz",
-    r2_fact4: "A rekeszizom segít a légzésben",
+    // T2: Csoportok
+    t2_title: "Emlős csoportok",
+    t2_text: "Az emlősöket szaporodásuk alapján három nagy csoportra osztjuk: méhlepényesek (pl. kutya, ember), erszényesek (pl. kenguru) és tojásrakó emlősök (pl. kacsacsőrű emlős).",
+    t2_b1: "Méhlepényesek: az utód az anyaméhben fejlődik ki.",
+    t2_b2: "Erszényesek: a fejletlen utód az erszényben fejlődik tovább.",
+    t2_b3: "Tojásrakók: tojással szaporodnak, de tejjel táplálnak.",
+    t2_inst: "Válogasd szét az állatokat csoportjuk szerint!",
+    t2_bucket_plac: "Méhlepényesek",
+    t2_bucket_mars: "Erszényesek",
+    t2_item_p1: "Kutya", t2_item_p2: "Ember",
+    t2_item_m1: "Kenguru", t2_item_m2: "Koala",
+    t2_q: "Melyik egy tojásrakó emlős?",
+    t2_q_a: "Kacsacsőrű emlős", t2_q_b: "Kenguru", t2_q_c: "Delfin", t2_q_d: "Denevér",
 
-    r3_title: "Mit esznek az emlősök?",
-    r3_text: "Az emlősöknek különböző étrendjük van! Vannak, akik csak növényt, mások csak húst, megint mások mindkettőt esznek.",
-    r3_fact1: "A növényevők csak növényt esznek — például tehenek és nyulak",
-    r3_fact2: "A húsevők csak húst esznek — például farkasok és oroszlánok",
-    r3_fact3: "A mindenevők növényeket ÉS húst esznek — például medvék és emberek",
+    // T3: Fogazat
+    t3_title: "Fogazat és táplálkozás",
+    t3_text: "Az emlősök fogazata a táplálékukhoz alkalmazkodott. Háromféle foguk van: metszőfog, szemfog és zápfog.",
+    t3_b1: "Ragadozók: nagy szemfogak a zsákmány megragadásához.",
+    t3_b2: "Növényevők: redős zápfogak az őrléshez.",
+    t3_b3: "Mindenevők: gumós zápfogak vegyes táplálékhoz.",
+    t3_inst: "Párosítsd a táplálkozási típust a jellemző fogazattal!",
+    t3_l1: "Ragadozó", t3_r1: "Nagy, hegyes szemfogak",
+    t3_l2: "Növényevő", t3_r2: "Redős zápfogak",
+    t3_l3: "Mindenevő", t3_r3: "Gumós zápfogak",
+    t3_q: "Milyen fogai vannak egy növényevőnek a fű őrlésére?",
+    t3_q_a: "Zápfogak", t3_q_b: "Szemfogak", t3_q_c: "Méregfogak", t3_q_d: "Csőr",
 
-    r4_title: "Az öt gerinces osztály",
-    r4_text: "Az emlősök csak EGY csoportja a gerinceseknek! Lássuk, hogyan illeszkednek a halakhoz, kétéltűekhez, hüllőkhöz és madarakhoz.",
-    r4_hint: "Érintsd meg az osztályokat sorban, az egyszerűtől a fejlettebbig.",
-    r4_fact1: "A halak jöttek először — kopoltyújuk és pikkelyük van",
-    r4_fact2: "A kétéltűek szárazföldön és vízben élhetnek",
-    r4_fact3: "A hüllőknek pikkelyük van és tojást raknak",
-    r4_fact4: "A madarak tollat és meleg vért viselnek",
-    r4_fact5: "Az emlősök a legfejlettebbek — szőrrel és tejjel táplálnak",
+    // T4: Tápláléklánc
+    t4_title: "A tápláléklánc",
+    t4_text: "Az élőlények a természetben táplálkozási kapcsolatban állnak egymással. A növényeket (termelők) megeszik a növényevők, őket pedig a ragadozók.",
+    t4_b1: "Termelők: Növények (napenergiából táplálék).",
+    t4_b2: "Elsődleges fogyasztó: Növényevő állat (pl. nyúl).",
+    t4_b3: "Másodlagos fogyasztó: Ragadozó állat (pl. róka).",
+    t4_inst: "Tedd sorba a tápláléklánc tagjait (kit eszik meg ki)!",
+    t4_w1: "Fű", t4_w2: "Nyúl", t4_w3: "Róka", t4_w4: "Farkas",
+    t4_q: "Kik állnak a tápláléklánc legalján?",
+    t4_q_a: "A növények (termelők)", t4_q_b: "A csúcsragadozók", t4_q_c: "A növényevők", t4_q_d: "A baktériumok",
 
-    r5_title: "Emlős kvíz!",
-    r5_text: "Most teszteld tudásodat az emlősökről!",
-
-    q_r1_1: "Melyik jellemző van meg MINDEN emlősnél, amit a halaknak nincs?",
-    q_r1_1_a: "Szőr vagy haj",
-    q_r1_1_b: "Pikkelyek",
-    q_r1_1_c: "Kopoltyúk",
-    q_r1_1_d: "Tollak",
-
-    q_r1_2: "Hogyan maradnak melegedések az emlősök, másképpen, mint a hüllők?",
-    q_r1_2_a: "A napban ülnek",
-    q_r1_2_b: "Belülről termelnek hőt",
-    q_r1_2_c: "Vastagabb szőrük van",
-    q_r1_2_d: "Meleg helyekre vándorolnak",
-
-    q_r1_3: "Mi a legnagyobb különbség az emlősök és madarak között?",
-    q_r1_3_a: "Az emlősöknek szőrük van; a madaraknak tolluk",
-    q_r1_3_b: "Az emlősök tojást raknak; a madarak nem",
-    q_r1_3_c: "Az emlősök hidegvérűek; a madarak melegvérűek",
-    q_r1_3_d: "Az emlősöknek nincs szívük; a madaraknak van",
-
-    q_r2_1: "Miért van különböző fogak az emlősöknek?",
-    q_r2_1_a: "A szépségért",
-    q_r2_1_b: "Különböző feladatokhoz",
-    q_r2_1_c: "Véletlenül nőnek",
-    q_r2_1_d: "Zajkészítéshez",
-
-    q_r2_2: "Mit csinál az emlős tüdő?",
-    q_r2_2_a: "Táplálékvá alakítja",
-    q_r2_2_b: "Pumpa vérét",
-    q_r2_2_c: "Levegőt lélegzik",
-    q_r2_2_d: "Energiát tárol",
-
-    q_r3_1: "A nyúl csak füvet és zöldséget eszik. Mi az?",
-    q_r3_1_a: "Húsevő",
-    q_r3_1_b: "Mindenevő",
-    q_r3_1_c: "Növényevő",
-    q_r3_1_d: "Rovarévő",
-
-    q_r3_2: "A farkas vadászik és csak húst eszik. Mi az?",
-    q_r3_2_a: "Növényevő",
-    q_r3_2_b: "Mindenevő",
-    q_r3_2_c: "Húsevő",
-    q_r3_2_d: "Gyümölcsevő",
-
-    q_r3_3: "A medve halat ÉS bogyót eszik. Mi az?",
-    q_r3_3_a: "Húsevő",
-    q_r3_3_b: "Mindenevő",
-    q_r3_3_c: "Növényevő",
-    q_r3_3_d: "Halészeti",
-
-    fish_cls: "Hal 🐟",
-    amphibian_cls: "Kétéltű 🐸",
-    reptile_cls: "Hüllő 🦎",
-    bird_cls: "Madár 🐦",
-    mammal_cls: "Emlős 🐾",
-
-    q_r5_1: "Egy bálna emlős?",
-    q_r5_1_a: "Igen, szőre van, melegvérű és szoptató",
-    q_r5_1_b: "Nem, vízben él, így halnak kell lennie",
-
-    q_r5_2: "Egy kacsacsőrű emlős, még ha tojást rak is?",
-    q_r5_2_a: "Igen, szőrös és melegvérű",
-    q_r5_2_b: "Nem, az emlősök nem raknak tojást",
-
-    q_r5_3: "Egy denevér emlős?",
-    q_r5_3_a: "Nem, repül, mint egy madár",
-    q_r5_3_b: "Igen, szőrös, melegvérű és szoptató",
-
-    q_r5_4: "Egy cápa emlős?",
-    q_r5_4_a: "Igen, mert nagy és intelligens",
-    q_r5_4_b: "Nem, kopoltyúja, pikkelye és hidegvérű",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod az emlősökről és a táplálkozásról!",
+    t5_b1: "Szőrzet, anyatej, állandó testhő.",
+    t5_b2: "Három csoport: méhlepényes, erszényes, tojásrakó.",
+    t5_b3: "A fogazat elárulja a táplálkozást.",
+    t5_inst: "Milyen kültakaró jellemző az emlősökre?",
+    t5_gap_sentence2: "Az emlősök testét legtöbbször {gap} borítja.",
+    t5_c51: "szőrzet", t5_c52: "pikkely", t5_c53: "toll",
+    t5_q: "Melyik állítás IGAZ az emlősökre?",
+    t5_q_a: "Kicsinyeiket anyatejjel táplálják.", t5_q_b: "Mindegyikük vízben él.", t5_q_c: "Hidegvérűek.", t5_q_d: "Nincsenek fogaik.",
   },
+  en: {
+    explorer_title: "World of Mammals",
+    t1_title: "Mammal Traits", t1_text: "Mammals are advanced vertebrates. They feed their young with milk, have hair or fur, and are warm-blooded.",
+    t1_b1: "Covering: skin and hair/fur.", t1_b2: "Breathing: developed lungs.", t1_b3: "Care: females produce milk.",
+    t1_inst: "What do mammals feed their young?", t1_gap_sentence: "Mammal mothers feed their babies with {gap}.",
+    t1_c1: "milk", t1_c2: "plants", t1_c3: "water",
+    t1_q: "What is the body temperature of mammals?", t1_q_a: "Constant (warm-blooded)", t1_q_b: "Variable (cold-blooded)", t1_q_c: "Depends on the sun", t1_q_d: "Always freezing",
 
+    t2_title: "Mammal Groups", t2_text: "Mammals are divided into three groups based on reproduction: placentals (dogs, humans), marsupials (kangaroos), and monotremes (platypus).",
+    t2_b1: "Placentals: young develop in the womb.", t2_b2: "Marsupials: undeveloped young grow in a pouch.", t2_b3: "Monotremes: lay eggs but feed with milk.",
+    t2_inst: "Sort the animals by their group!",
+    t2_bucket_plac: "Placentals", t2_bucket_mars: "Marsupials",
+    t2_item_p1: "Dog", t2_item_p2: "Human", t2_item_m1: "Kangaroo", t2_item_m2: "Koala",
+    t2_q: "Which of these is an egg-laying mammal?", t2_q_a: "Platypus", t2_q_b: "Kangaroo", t2_q_c: "Dolphin", t2_q_d: "Bat",
+
+    t3_title: "Teeth and Diet", t3_text: "Mammalian teeth are adapted to their diet. They have incisors, canines, and molars.",
+    t3_b1: "Carnivores: large canines for grabbing prey.", t3_b2: "Herbivores: ridged molars for grinding.", t3_b3: "Omnivores: bumpy molars for a mixed diet.",
+    t3_inst: "Match the diet type with the typical teeth!",
+    t3_l1: "Carnivore", t3_r1: "Large, sharp canines", t3_l2: "Herbivore", t3_r2: "Ridged molars", t3_l3: "Omnivore", t3_r3: "Bumpy molars",
+    t3_q: "What kind of teeth do herbivores use to grind grass?", t3_q_a: "Molars", t3_q_b: "Canines", t3_q_c: "Fangs", t3_q_d: "Beaks",
+
+    t4_title: "The Food Chain", t4_text: "Living things are connected through feeding relationships. Plants are eaten by herbivores, which are eaten by carnivores.",
+    t4_b1: "Producers: Plants (make food from the sun).", t4_b2: "Primary consumer: Herbivore (e.g., rabbit).", t4_b3: "Secondary consumer: Carnivore (e.g., fox).",
+    t4_inst: "Put the food chain in order (who gets eaten by whom)!",
+    t4_w1: "Grass", t4_w2: "Rabbit", t4_w3: "Fox", t4_w4: "Wolf",
+    t4_q: "Who is at the very bottom of the food chain?", t4_q_a: "Plants (producers)", t4_q_b: "Apex predators", t4_q_c: "Herbivores", t4_q_d: "Bacteria",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about mammals and their diets!",
+    t5_b1: "Hair, milk, warm-blooded.", t5_b2: "Three groups: placental, marsupial, monotreme.", t5_b3: "Teeth reveal the diet.",
+    t5_inst: "What covering is typical for mammals?", t5_gap_sentence2: "Mammals' bodies are mostly covered in {gap}.",
+    t5_c51: "hair/fur", t5_c52: "scales", t5_c53: "feathers",
+    t5_q: "Which statement is TRUE about mammals?", t5_q_a: "They feed their young with milk.", t5_q_b: "They all live in water.", t5_q_c: "They are cold-blooded.", t5_q_d: "They have no teeth.",
+  },
+  de: {
+    explorer_title: "Welt der Säugetiere",
+    t1_title: "Merkmale der Säuger", t1_text: "Säugetiere sind hochentwickelte Wirbeltiere. Sie säugen ihren Nachwuchs mit Milch, haben Haare und sind gleichwarm.",
+    t1_b1: "Körperbedeckung: Haut und Haare.", t1_b2: "Atmung: hochentwickelte Lunge.", t1_b3: "Brutpflege: Weibchen produzieren Muttermilch.",
+    t1_inst: "Womit füttern Säugetiere ihren Nachwuchs?", t1_gap_sentence: "Säugetiermütter füttern ihre Babys mit {gap}.",
+    t1_c1: "Milch", t1_c2: "Pflanzen", t1_c3: "Wasser",
+    t1_q: "Wie ist die Körpertemperatur von Säugetieren?", t1_q_a: "Gleichwarm", t1_q_b: "Wechselwarm", t1_q_c: "Abhängig vom Wetter", t1_q_d: "Immer eiskalt",
+
+    t2_title: "Säugetiergruppen", t2_text: "Säugetiere werden nach der Fortpflanzung in drei Gruppen geteilt: Plazentatiere (Hund, Mensch), Beuteltiere (Känguru) und Kloakentiere (Schnabeltier).",
+    t2_b1: "Plazentatiere: Nachwuchs wächst im Mutterleib.", t2_b2: "Beuteltiere: Nachwuchs wächst im Beutel heran.", t2_b3: "Kloakentiere: Legen Eier, geben aber Milch.",
+    t2_inst: "Sortiere die Tiere nach ihrer Gruppe!",
+    t2_bucket_plac: "Plazentatiere", t2_bucket_mars: "Beuteltiere",
+    t2_item_p1: "Hund", t2_item_p2: "Mensch", t2_item_m1: "Känguru", t2_item_m2: "Koala",
+    t2_q: "Welches Tier ist ein eierlegendes Säugetier?", t2_q_a: "Schnabeltier", t2_q_b: "Känguru", t2_q_c: "Delfin", t2_q_d: "Fledermaus",
+
+    t3_title: "Gebiss und Ernährung", t3_text: "Das Gebiss der Säugetiere ist an ihre Nahrung angepasst. Es gibt Schneide-, Eck- und Backenzähne.",
+    t3_b1: "Fleischfresser: große Eckzähne (Fangzähne).", t3_b2: "Pflanzenfresser: breite Backenzähne zum Mahlen.", t3_b3: "Allesfresser: Höckerbackenzähne.",
+    t3_inst: "Verbinde die Ernährungsweise mit dem Gebiss!",
+    t3_l1: "Fleischfresser", t3_r1: "Große Fangzähne", t3_l2: "Pflanzenfresser", t3_r2: "Breite Backenzähne", t3_l3: "Allesfresser", t3_r3: "Höckerbackenzähne",
+    t3_q: "Welche Zähne nutzen Pflanzenfresser zum Zermahlen von Gras?", t3_q_a: "Backenzähne", t3_q_b: "Eckzähne", t3_q_c: "Giftzähne", t3_q_d: "Schnäbel",
+
+    t4_title: "Die Nahrungskette", t4_text: "Lebewesen sind durch ihre Ernährung miteinander verbunden. Pflanzen werden von Pflanzenfressern gefressen, diese wiederum von Fleischfressern.",
+    t4_b1: "Produzenten: Pflanzen (nutzen Sonnenlicht).", t4_b2: "Primärkonsument: Pflanzenfresser (z.B. Hase).", t4_b3: "Sekundärkonsument: Fleischfresser (z.B. Fuchs).",
+    t4_inst: "Bringe die Nahrungskette in die richtige Reihenfolge!",
+    t4_w1: "Gras", t4_w2: "Hase", t4_w3: "Fuchs", t4_w4: "Wolf",
+    t4_q: "Wer steht ganz unten in der Nahrungskette?", t4_q_a: "Pflanzen (Produzenten)", t4_q_b: "Spitzenprädatoren", t4_q_c: "Pflanzenfresser", t4_q_d: "Bakterien",
+
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über Säugetiere und Nahrungsketten!",
+    t5_b1: "Haare, Milch, gleichwarm.", t5_b2: "Drei Gruppen: Plazenta-, Beutel-, Kloakentiere.", t5_b3: "Zähne verraten die Nahrung.",
+    t5_inst: "Welche Körperbedeckung ist typisch für Säugetiere?", t5_gap_sentence2: "Der Körper von Säugetieren ist meist mit {gap} bedeckt.",
+    t5_c51: "Haaren", t5_c52: "Schuppen", t5_c53: "Federn",
+    t5_q: "Welche Aussage über Säugetiere ist WAHR?", t5_q_a: "Sie füttern ihre Jungen mit Milch.", t5_q_b: "Sie leben alle im Wasser.", t5_q_c: "Sie sind wechselwarm.", t5_q_d: "Sie haben keine Zähne.",
+  },
   ro: {
-    r1_title: "Ce face un mamifer?",
-    r1_text: "Mamiferele au caracteristici unice care le deosebesc de toate celelalte animale.",
-    r1_fact1: "Toți mamiferele au blană sau păr",
-    r1_fact2: "Mamiferele au sânge cald — generează căldură din interior",
-    r1_fact3: "Cei mai mulți mamiferi nasc pui vii, nu ouă",
-    r1_fact4: "Mamele hrănesc puii lor cu lapte",
+    explorer_title: "Lumea Mamiferelor",
+    t1_title: "Trăsăturile Mamiferelor", t1_text: "Mamiferele sunt vertebrate superioare. Își hrănesc puii cu lapte, au păr sau blană și sunt animale cu sânge cald.",
+    t1_b1: "Înveliș: piele și păr/blană.", t1_b2: "Respirație: plămâni dezvoltați.", t1_b3: "Îngrijire: femelele produc lapte matern.",
+    t1_inst: "Cu ce își hrănesc mamiferele puii?", t1_gap_sentence: "Mamele mamifere își hrănesc puii cu {gap}.",
+    t1_c1: "lapte", t1_c2: "plante", t1_c3: "apă",
+    t1_q: "Cum este temperatura corpului mamiferelor?", t1_q_a: "Constantă (sânge cald)", t1_q_b: "Variabilă (sânge rece)", t1_q_c: "Depinde de soare", t1_q_d: "Mereu înghețată",
 
-    r2_title: "Sistemele corpului mamiferelor",
-    r2_text: "În fiecare mamifer, există sisteme speciale care ajută la supraviețuire.",
-    r2_fact1: "Plămânii permit mamiferelor să respire aer oriunde",
-    r2_fact2: "O inimă cu 4 camere pompează sângele eficient",
-    r2_fact3: "Dinți diferiți pentru sarcini diferite",
-    r2_fact4: "Diafragma ajută la respirație",
+    t2_title: "Grupuri de Mamifere", t2_text: "Mamiferele se împart în trei grupuri: placentare (câine, om), marsupiale (cangur) și monotreme (ornitorinc).",
+    t2_b1: "Placentare: puii se dezvoltă în uter.", t2_b2: "Marsupiale: puii nedezvoltați cresc în marsupiu.", t2_b3: "Monotreme: depun ouă, dar dau lapte.",
+    t2_inst: "Sortează animalele după grupul lor!",
+    t2_bucket_plac: "Placentare", t2_bucket_mars: "Marsupiale",
+    t2_item_p1: "Câine", t2_item_p2: "Om", t2_item_m1: "Cangur", t2_item_m2: "Koala",
+    t2_q: "Care este un mamifer care depune ouă?", t2_q_a: "Ornitorincul", t2_q_b: "Cangurul", t2_q_c: "Delfinul", t2_q_d: "Liliacul",
 
-    r3_title: "Ce mănâncă mamiferele?",
-    r3_text: "Mamiferele au diete diferite! Unii mănâncă doar plante, alții doar carne, alții amândouă.",
-    r3_fact1: "Erbivorii mănâncă doar plante — ca vacile și iepurii",
-    r3_fact2: "Carnivorii mănâncă doar carne — ca lupii și leii",
-    r3_fact3: "Omnivorii mănâncă plante ȘI carne — ca ursii și oamenii",
+    t3_title: "Dinți și Alimentație", t3_text: "Dentiția mamiferelor este adaptată alimentației. Au incisivi, canini și molari.",
+    t3_b1: "Carnivore: canini mari pentru a prinde prada.", t3_b2: "Erbivore: molari cu creste pentru măcinare.", t3_b3: "Omnivore: molari cu denivelări.",
+    t3_inst: "Potrivește tipul de alimentație cu dentiția!",
+    t3_l1: "Carnivor", t3_r1: "Canini mari și ascuțiți", t3_l2: "Erbivor", t3_r2: "Molari cu creste", t3_l3: "Omnivor", t3_r3: "Molari cu denivelări",
+    t3_q: "Ce dinți folosesc erbivorele pentru a măcina iarba?", t3_q_a: "Măselele (molarii)", t3_q_b: "Caninii", t3_q_c: "Colții de venin", t3_q_d: "Ciocul",
 
-    r4_title: "Cele cinci clase de vertebrate",
-    r4_text: "Mamiferele sunt doar UN grup de vertebrate! Să vedem cum se potrivesc cu peștii, amfibienii, reptilele și păsările.",
-    r4_hint: "Atinge clasele în ordine, de la simplu la avansat.",
-    r4_fact1: "Peștii au venit primii — au branhii și solzi",
-    r4_fact2: "Amfibienii pot trăi pe uscat și în apă",
-    r4_fact3: "Reptilele au solzi și depun ouă",
-    r4_fact4: "Păsările au pene și sânge cald",
-    r4_fact5: "Mamiferele sunt cele mai avansate — cu blană și alăptare",
+    t4_title: "Lanțul Trofic", t4_text: "Viețuitoarele sunt conectate prin relații de hrănire. Plantele sunt mâncate de erbivore, care sunt mâncate de carnivore.",
+    t4_b1: "Producători: Plante (folosesc lumina soarelui).", t4_b2: "Consumator primar: Erbivor (ex: iepure).", t4_b3: "Consumator secundar: Carnivor (ex: vulpe).",
+    t4_inst: "Pune lanțul trofic în ordinea corectă!",
+    t4_w1: "Iarbă", t4_w2: "Iepure", t4_w3: "Vulpe", t4_w4: "Lup",
+    t4_q: "Cine se află la baza lanțului trofic?", t4_q_a: "Plantele (producătorii)", t4_q_b: "Prădătorii de top", t4_q_c: "Erbivorele", t4_q_d: "Bacteriile",
 
-    r5_title: "Chestionar despre mamifere!",
-    r5_text: "Acum testează-ți cunoștințele despre mamifere!",
-
-    q_r1_1: "Care caracteristică au TOȚI mamiferele, pe care peștii nu o au?",
-    q_r1_1_a: "Blană sau păr",
-    q_r1_1_b: "Solzi",
-    q_r1_1_c: "Branhii",
-    q_r1_1_d: "Pene",
-
-    q_r1_2: "Cum rămân caldi mamiferele, diferit de reptile?",
-    q_r1_2_a: "Stau în soare",
-    q_r1_2_b: "Generează căldură din interior",
-    q_r1_2_c: "Au blană mai grea",
-    q_r1_2_d: "Migrează în locuri calde",
-
-    q_r1_3: "Care este cea mai mare diferență între mamifere și păsări?",
-    q_r1_3_a: "Mamiferele au blană; păsările au pene",
-    q_r1_3_b: "Mamiferele depun ouă; păsările nu",
-    q_r1_3_c: "Mamiferele sunt cu sânge rece; păsările cu sânge cald",
-    q_r1_3_d: "Mamiferele nu au inimi; păsările au",
-
-    q_r2_1: "De ce au mamiferele dinți de diferite tipuri?",
-    q_r2_1_a: "Pentru frumusețe",
-    q_r2_1_b: "Pentru sarcini diferite",
-    q_r2_1_c: "Cresc aleator",
-    q_r2_1_d: "Pentru a face zgomot",
-
-    q_r2_2: "Ce fac plămânii mamiferelor?",
-    q_r2_2_a: "Fac hrană",
-    q_r2_2_b: "Pompează sânge",
-    q_r2_2_c: "Respiră aer",
-    q_r2_2_d: "Stochează energie",
-
-    q_r3_1: "Un iepure mănâncă doar iarbă și legume. Ce este?",
-    q_r3_1_a: "Carnivor",
-    q_r3_1_b: "Omnivor",
-    q_r3_1_c: "Erbivor",
-    q_r3_1_d: "Insectivor",
-
-    q_r3_2: "Un leu vânează și mănâncă doar carne. Ce este?",
-    q_r3_2_a: "Erbivor",
-    q_r3_2_b: "Omnivor",
-    q_r3_2_c: "Carnivor",
-    q_r3_2_d: "Fructivor",
-
-    q_r3_3: "Un urs mănâncă pești ȘI fructe de pădure. Ce este?",
-    q_r3_3_a: "Carnivor",
-    q_r3_3_b: "Omnivor",
-    q_r3_3_c: "Erbivor",
-    q_r3_3_d: "Piscivor",
-
-    fish_cls: "Pește 🐟",
-    amphibian_cls: "Amfibian 🐸",
-    reptile_cls: "Reptilă 🦎",
-    bird_cls: "Pasăre 🐦",
-    mammal_cls: "Mamifer 🐾",
-
-    q_r5_1: "Este o balenă mamifer?",
-    q_r5_1_a: "Da, are blană, sânge cald și alăptează",
-    q_r5_1_b: "Nu, trăiește în apă, deci trebuie să fie pește",
-
-    q_r5_2: "Este un ornitorinc mamifer, deși depune ouă?",
-    q_r5_2_a: "Da, are blană și sânge cald",
-    q_r5_2_b: "Nu, mamiferele nu depun ouă",
-
-    q_r5_3: "Este un liliac mamifer?",
-    q_r5_3_a: "Nu, zboară ca o pasăre",
-    q_r5_3_b: "Da, are blană, sânge cald și alăptează",
-
-    q_r5_4: "Este un rechin mamifer?",
-    q_r5_4_a: "Da, pentru că e mare și inteligent",
-    q_r5_4_b: "Nu, are branhii, solzi și sânge rece",
-  },
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre mamifere și lanțuri trofice!",
+    t5_b1: "Păr, lapte, sânge cald.", t5_b2: "Trei grupuri: placentare, marsupiale, monotreme.", t5_b3: "Dinții arată alimentația.",
+    t5_inst: "Ce înveliș este tipic pentru mamifere?", t5_gap_sentence2: "Corpul mamiferelor este acoperit de obicei cu {gap}.",
+    t5_c51: "păr/blană", t5_c52: "solzi", t5_c53: "pene",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre mamifere?", t5_q_a: "Își hrănesc puii cu lapte.", t5_q_b: "Toate trăiesc în apă.", t5_q_c: "Au sânge rece.", t5_q_d: "Nu au dinți.",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <MammalAnatomySvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b3",
+      hint2: "t1_b1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <MammalGroupsSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "plac", label: "t2_bucket_plac" },
+        { id: "mars", label: "t2_bucket_mars" },
+      ],
+      items: [
+        { text: "t2_item_p1", bucketId: "plac" },
+        { text: "t2_item_m1", bucketId: "mars" },
+        { text: "t2_item_p2", bucketId: "plac" },
+        { text: "t2_item_m2", bucketId: "mars" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <FoodChainSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    // Round 1: Teaching - What Makes a Mammal?
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: SVG_R1,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-
-    // Round 2: Teaching - Body Systems
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: SVG_R2,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-
-    // Round 3: Teaching - Diet Types
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: SVG_R3,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3"],
-    },
-
-    // Round 4: Order - Vertebrate Classes
-    {
-      type: "order",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      hintKey: "r4_hint",
-      svg: SVG_R4,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4", "r4_fact5"],
-      orderSequence: ["fish_cls", "amphibian_cls", "reptile_cls", "bird_cls", "mammal_cls"] as const,
-    },
-
-    // Round 5: MCQ Quiz - Mixed questions
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_text",
-      svg: SVG_R5,
-      questions: [
-        {
-          question: "q_r1_1",
-          choices: ["q_r1_1_a", "q_r1_1_b", "q_r1_1_c", "q_r1_1_d"],
-          answer: "q_r1_1_a",
-        },
-        {
-          question: "q_r1_2",
-          choices: ["q_r1_2_a", "q_r1_2_b", "q_r1_2_c", "q_r1_2_d"],
-          answer: "q_r1_2_b",
-        },
-        {
-          question: "q_r3_1",
-          choices: ["q_r3_1_a", "q_r3_1_b", "q_r3_1_c", "q_r3_1_d"],
-          answer: "q_r3_1_c",
-        },
-        {
-          question: "q_r5_1",
-          choices: ["q_r5_1_a", "q_r5_1_b"],
-          answer: "q_r5_1_a",
-        },
-      ] as MCQQuestion[],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🦊",
+  topics: TOPICS,
+  rounds: [], 
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const MammalExplorer = memo(function MammalExplorer({
+  color = "#9D174D", // Sötét rózsaszínes-bordó az emlősökre
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="bio_k5_mammals" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function MammalExplorer({ color = "#06B6D4", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default MammalExplorer;

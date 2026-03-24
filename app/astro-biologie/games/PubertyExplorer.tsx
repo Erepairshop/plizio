@@ -1,616 +1,367 @@
 "use client";
-// PubertyExplorer — Island i5: Puberty (Pubertät) Grade 6
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: What is puberty, hormones, physical changes, hygiene & health (age-appropriate, educational)
+// PubertyExplorer.tsx — Bio Island i8: Pubertás (K6)
+// Topics: 1) Hormonok 2) Férfi szaporító szervrendszer 3) Női szaporító szervrendszer 4) Testi változások 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { HormoneSvg, ReproductionSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FCE7F3" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-30" y="15" fontSize="45" textAnchor="middle">♀️</text>
+        <text x="30" y="15" fontSize="45" textAnchor="middle">🥚</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#E0F2FE" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-45" y="15" fontSize="40" textAnchor="middle">👦</text>
+        <path d="M -20,0 L 20,0" stroke="#0284C7" strokeWidth="4" markerEnd="url(#arrow)" />
+        <text x="45" y="15" fontSize="40" textAnchor="middle">👨</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🧬</text>
+        <text x="25" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "A Serdülőkor",
+    // T1: Hormonok
+    t1_title: "A hormonok szerepe",
+    t1_text: "A pubertás a gyermekkorból a felnőttkorba vezető átmenet. Ezt a hormonok indítják be, melyek a vérben keringő kémiai hírvivők.",
+    t1_b1: "A változásokat az agyalapi mirigy hormonjai indítják el.",
+    t1_b2: "Fiúknál a tesztoszteron felelős a férfias jellegekért.",
+    t1_b3: "Lányoknál az ösztrogén felelős a nőies jellegekért.",
+    t1_inst: "Mik indítják be a test változásait?",
+    t1_gap_sentence: "A hormonok indítják be a {gap} alatti testi változásokat.",
+    t1_c1: "pubertás", t1_c2: "fotoszintézis", t1_c3: "emésztés",
+    t1_q: "Mik azok a hormonok?",
+    t1_q_a: "Kémiai hírvivők a vérben", t1_q_b: "Apró csontok a fejben", t1_q_c: "Izomrostok a karban", t1_q_d: "Baktériumok a gyomorban",
+
+    // T2: Férfi szaporító szervrendszer
+    t2_title: "A férfi szaporító szervrendszer",
+    t2_text: "A férfi szaporító szervrendszer feladata a hímivarsejtek (spermiumok) termelése és célba juttatása.",
+    t2_b1: "A herék termelik a spermiumokat és a tesztoszteron hormont.",
+    t2_b2: "A mellékherékben raktározódnak és érnek a hímivarsejtek.",
+    t2_b3: "Az ondóvezeték szállítja a hímivarsejteket.",
+    t2_inst: "Tedd sorba a mondat szavait!",
+    t2_w1: "A", t2_w2: "herék", t2_w3: "termelik", t2_w4: "a", t2_w5: "hímivarsejteket.",
+    t2_q: "Milyen hormon termelődik nagy mennyiségben a herékben?",
+    t2_q_a: "Tesztoszteron", t2_q_b: "Ösztrogén", t2_q_c: "Inzulin", t2_q_d: "Adrenalin",
+
+    // T3: Női szaporító szervrendszer
+    t3_title: "A női szaporító szervrendszer",
+    t3_text: "A női szaporító szervrendszer feladata a petesejtek termelése és a fejlődő magzat táplálása a terhesség alatt.",
+    t3_b1: "A petefészkek termelik a petesejteket és a női hormonokat.",
+    t3_b2: "A petevezeték vezeti a petesejtet a méh felé.",
+    t3_b3: "A méh vastag izomfalú szerv, itt fejlődik az embrió.",
+    t3_inst: "Párosítsd a szervet a feladatával!",
+    t3_l1: "Petefészek", t3_r1: "Petesejteket termel",
+    t3_l2: "Méh", t3_r2: "Itt fejlődik a magzat",
+    t3_l3: "Here (férfi)", t3_r3: "Hímivarsejteket termel",
+    t3_q: "Hol fejlődik a magzat a terhesség alatt?",
+    t3_q_a: "A méhben", t3_q_b: "A petefészekben", t3_q_c: "A gyomorban", t3_q_d: "A petevezetékben",
+
+    // T4: Testi változások
+    t4_title: "Változások a testben",
+    t4_text: "A pubertás alatt a test drasztikusan megváltozik, hogy felkészüljön a felnőttkorra. Vannak fiúkra és lányokra jellemző változások.",
+    t4_b1: "Mindkét nemnél: hirtelen növekedés, szőrzet megjelenése, izzadás.",
+    t4_b2: "Fiúk: mutálás (mélyülő hang), szakállnövekedés, váll szélesedése.",
+    t4_b3: "Lányok: mellnövekedés, csípő szélesedése, menstruáció kezdete.",
+    t4_inst: "Fiúkra vagy Lányokra jellemző változás? Válogasd szét!",
+    t4_bucket_fiu: "Fiúk",
+    t4_bucket_lan: "Lányok",
+    t4_item_f1: "Szakáll növekedése", t4_item_f2: "Mélyülő hang (mutálás)",
+    t4_item_l1: "Menstruáció", t4_item_l2: "Szélesedő csípő",
+    t4_q: "Melyik változás tapasztalható MIND a fiúknál, MIND a lányoknál?",
+    t4_q_a: "Hirtelen növekedés és szőrzet megjelenése", t4_q_b: "Mélyülő hang", t4_q_c: "Menstruáció", t4_q_d: "Szakállnövekedés",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod a serdülőkor biológiai hátteréről!",
+    t5_b1: "Hormonok irányítják a változásokat.",
+    t5_b2: "Férfi ivarsejt: spermium. Női ivarsejt: petesejt.",
+    t5_b3: "A pubertás a felnőtté válás természetes folyamata.",
+    t5_inst: "Hogy nevezzük a női ivarsejtet?",
+    t5_gap_sentence2: "A női ivarsejt a {gap}, ami a petefészekben érik.",
+    t5_c51: "petesejt", t5_c52: "hímivarsejt", t5_c53: "hormon",
+    t5_q: "Melyik állítás IGAZ a hormonokra?",
+    t5_q_a: "A vérben keringenek és szabályozzák a test működését.", t5_q_b: "A tüdő termeli őket légzéskor.", t5_q_c: "Csak felnőttkorban jelennek meg.", t5_q_d: "Ezek a csontok építőkövei.",
+  },
   en: {
-    // Round 1: What is Puberty
-    r1_title: "What is Puberty?",
-    r1_text: "Puberty is the time when your body changes from childhood to adulthood. It usually starts between ages 8-14. These changes happen to everyone, but at different times.",
-    r1_fact1: "Puberty brings physical growth (you get taller and stronger)",
-    r1_fact2: "Your hormones control these changes—they are chemical messengers in your body",
-    r1_fact3: "Mental and emotional changes happen too—your feelings become more complex",
-    r1_fact4: "Everyone goes through puberty at their own pace—this is completely normal",
+    explorer_title: "Puberty and Growth",
+    t1_title: "The Role of Hormones", t1_text: "Puberty is the transition from childhood to adulthood. It is triggered by hormones, which are chemical messengers in the blood.",
+    t1_b1: "The changes are initiated by hormones from the pituitary gland.", t1_b2: "In boys, testosterone is responsible for male traits.", t1_b3: "In girls, estrogen is responsible for female traits.",
+    t1_inst: "What triggers the changes in the body?", t1_gap_sentence: "Hormones trigger the body changes during {gap}.",
+    t1_c1: "puberty", t1_c2: "photosynthesis", t1_c3: "circulation",
+    t1_q: "What are hormones?", t1_q_a: "Chemical messengers in the blood", t1_q_b: "Tiny bones in the head", t1_q_c: "Muscle fibers in the arm", t1_q_d: "Bacteria in the stomach",
 
-    // Round 2: Hormones
-    r2_title: "Hormones: The Control System",
-    r2_text: "Your brain contains a gland called the pituitary gland. It produces hormones that signal your body to start growing and developing.",
-    r2_fact1: "The pituitary gland is about the size of a pea in your brain",
-    r2_fact2: "It releases hormones like testosterone and estrogen into the bloodstream",
-    r2_fact3: "These hormones travel throughout your body and trigger growth and changes",
-    r2_fact4: "The pituitary gland is called the 'master gland' because it controls many processes",
+    t2_title: "Male Reproductive System", t2_text: "The function of the male reproductive system is to produce and deliver sperm cells.",
+    t2_b1: "The testes produce sperm and the hormone testosterone.", t2_b2: "Sperm cells are stored and mature in the epididymis.", t2_b3: "The vas deferens transports the sperm cells.",
+    t2_inst: "Put the words in order!",
+    t2_w1: "The", t2_w2: "testes", t2_w3: "produce", t2_w4: "sperm", t2_w5: "cells.",
+    t2_q: "Which hormone is produced in large amounts in the testes?", t2_q_a: "Testosterone", t2_q_b: "Estrogen", t2_q_c: "Insulin", t2_q_d: "Adrenaline",
 
-    // Round 3: Physical Changes
-    r3_title: "Physical Changes During Puberty",
-    r3_text: "During puberty, your body grows quickly. You might gain height, develop muscle, and your body shape changes. These physical changes prepare your body for adulthood.",
-    r3_fact1: "Growth spurt: You grow taller, sometimes very quickly over a few months",
-    r3_fact2: "Voice changes: Your voice gets deeper (this happens more noticeably for some people)",
-    r3_fact3: "Body proportions change: Your arms, legs, and head grow at different rates",
-    r3_fact4: "New body features develop: Gradual changes in skin, hair, and body composition",
+    t3_title: "Female Reproductive System", t3_text: "The function of the female reproductive system is to produce egg cells and nourish a developing fetus during pregnancy.",
+    t3_b1: "The ovaries produce egg cells and female hormones.", t3_b2: "The fallopian tube carries the egg to the uterus.", t3_b3: "The uterus is a thick-walled organ where the embryo develops.",
+    t3_inst: "Match the organ with its function!",
+    t3_l1: "Ovary", t3_r1: "Produces egg cells", t3_l2: "Uterus", t3_r2: "Where the fetus develops", t3_l3: "Testis (male)", t3_r3: "Produces sperm cells",
+    t3_q: "Where does the fetus develop during pregnancy?", t3_q_a: "In the uterus", t3_q_b: "In the ovary", t3_q_c: "In the stomach", t3_q_d: "In the fallopian tube",
 
-    // Round 4: Hygiene & Health
-    r4_title: "Staying Healthy During Puberty",
-    r4_text: "During puberty, taking care of your body becomes more important. Good hygiene habits, nutrition, sleep, and exercise help your body grow strong and healthy.",
-    r4_fact1: "Shower or bathe regularly—hormones increase oil and sweat production",
-    r4_fact2: "Eat a balanced diet with fruits, vegetables, proteins, and whole grains",
-    r4_fact3: "Get 8-10 hours of sleep—your body does most of its growing at night",
-    r4_fact4: "Exercise regularly—physical activity builds strong muscles and bones",
+    t4_title: "Changes in the Body", t4_text: "During puberty, the body changes drastically to prepare for adulthood. There are specific changes for boys and girls.",
+    t4_b1: "Both genders: growth spurt, body hair appears, sweating.", t4_b2: "Boys: voice deepens, beard growth, shoulders widen.", t4_b3: "Girls: breast development, hips widen, menstruation begins.",
+    t4_inst: "Typical for Boys or Girls? Sort them!",
+    t4_bucket_fiu: "Boys", t4_bucket_lan: "Girls",
+    t4_item_f1: "Beard growth", t4_item_f2: "Deepening voice",
+    t4_item_l1: "Menstruation", t4_item_l2: "Widening hips",
+    t4_q: "Which change is experienced by BOTH boys and girls?", t4_q_a: "Growth spurt and body hair", t4_q_b: "Deepening voice", t4_q_c: "Menstruation", t4_q_d: "Beard growth",
 
-    // Round 5: Quiz
-    r5_title: "Quick Review",
-
-    // Quiz Questions (3 questions)
-    q1_q: "At what age does puberty usually start?",
-    q1_815: "Between 8-14 years old",
-    q1_1518: "Between 15-18 years old",
-    q1_68: "Between 6-8 years old",
-    q1_1820: "Between 18-20 years old",
-
-    q2_q: "Which gland in your brain produces hormones that start puberty?",
-    q2_pituitary: "The pituitary gland",
-    q2_thyroid: "The thyroid gland",
-    q2_pineal: "The pineal gland",
-    q2_pancreas: "The pancreas",
-
-    q3_q: "Which is an important health habit during puberty?",
-    q3_regular_hygiene: "Regular hygiene, good nutrition, and exercise",
-    q3_skip_sleep: "Skipping sleep to stay awake longer",
-    q3_avoid_food: "Avoiding all sugary foods completely",
-    q3_no_exercise: "Avoiding physical activity",
-
-    // Round 3 MCQ (Physical Changes)
-    r3_q: "Why do physical changes happen during puberty?",
-    r3_q_growth_hormones: "Hormones trigger growth and development toward adulthood",
-    r3_q_diet_change: "Eating different food causes the changes",
-    r3_q_age_number: "They happen because you reached a certain age number",
-    r3_q_weather: "They are caused by weather and seasons",
-
-    // Round 4 MCQ (Health)
-    r4_q: "During puberty, why do you need to shower or bathe more often?",
-    r4_sweat_oil: "Hormones increase sweat and oil production",
-    r4_colder: "The weather gets colder",
-    r4_required_rule: "Because there is a rule you must follow",
-    r4_faster_dirty: "You get dirty faster than before",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about the biology of puberty!",
+    t5_b1: "Hormones control the changes.", t5_b2: "Male cell: sperm. Female cell: egg.", t5_b3: "Puberty is a natural process of growing up.",
+    t5_inst: "What is the female reproductive cell called?", t5_gap_sentence2: "The female reproductive cell is the {gap}.",
+    t5_c51: "egg cell", t5_c52: "sperm cell", t5_c53: "hormone",
+    t5_q: "Which statement is TRUE about hormones?", t5_q_a: "They circulate in the blood and regulate body functions.", t5_q_b: "They are produced by the lungs during breathing.", t5_q_c: "They only appear in adulthood.", t5_q_d: "They are the building blocks of bones.",
   },
   de: {
-    r1_title: "Was ist Pubertät?",
-    r1_text: "Die Pubertät ist die Zeit, in der sich dein Körper von der Kindheit zum Erwachsenenalter verändert. Sie beginnt normalerweise zwischen 8-14 Jahren. Diese Veränderungen passieren jedem, aber zu unterschiedlichen Zeiten.",
-    r1_fact1: "Die Pubertät bringt körperliches Wachstum (du wirst größer und stärker)",
-    r1_fact2: "Deine Hormone kontrollieren diese Veränderungen — sie sind chemische Botenstoffe in deinem Körper",
-    r1_fact3: "Mentale und emotionale Veränderungen passieren auch — deine Gefühle werden komplexer",
-    r1_fact4: "Jeder durchläuft die Pubertät in seinem eigenen Tempo — das ist völlig normal",
+    explorer_title: "Die Pubertät",
+    t1_title: "Die Rolle der Hormone", t1_text: "Die Pubertät ist der Übergang von der Kindheit zum Erwachsensein. Sie wird durch Hormone (chemische Botenstoffe im Blut) ausgelöst.",
+    t1_b1: "Die Veränderungen werden durch Hormone der Hirnanhangdrüse gestartet.", t1_b2: "Bei Jungen ist Testosteron für männliche Merkmale verantwortlich.", t1_b3: "Bei Mädchen ist Östrogen für weibliche Merkmale verantwortlich.",
+    t1_inst: "Was löst die Veränderungen im Körper aus?", t1_gap_sentence: "Hormone lösen die Veränderungen während der {gap} aus.",
+    t1_c1: "Pubertät", t1_c2: "Fotosynthese", t1_c3: "Atmung",
+    t1_q: "Was sind Hormone?", t1_q_a: "Chemische Botenstoffe im Blut", t1_q_b: "Kleine Knochen im Kopf", t1_q_c: "Muskelfasern im Arm", t1_q_d: "Bakterien im Magen",
 
-    r2_title: "Hormone: Das Kontrollsystem",
-    r2_text: "Dein Gehirn enthält eine Drüse namens Hypophyse (Hirnanhangsdrüse). Sie produziert Hormone, die deinen Körper signalisieren, mit dem Wachstum und der Entwicklung zu beginnen.",
-    r2_fact1: "Die Hypophyse ist etwa so groß wie eine Erbse in deinem Gehirn",
-    r2_fact2: "Sie setzt Hormone wie Testosteron und Östrogen in den Blutkreislauf frei",
-    r2_fact3: "Diese Hormone reisen durch deinen Körper und lösen Wachstum und Veränderungen aus",
-    r2_fact4: "Die Hypophyse wird die 'Masterdrüse' genannt, weil sie viele Prozesse kontrolliert",
+    t2_title: "Männliche Fortpflanzungsorgane", t2_text: "Das männliche Fortpflanzungssystem hat die Aufgabe, Spermien (Samenzellen) zu produzieren und zu übertragen.",
+    t2_b1: "Die Hoden produzieren Spermien und das Hormon Testosteron.", t2_b2: "In den Nebenhoden werden die Spermien gespeichert und reifen.", t2_b3: "Der Samenleiter transportiert die Spermien.",
+    t2_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t2_w1: "Die", t2_w2: "Hoden", t2_w3: "produzieren", t2_w4: "die", t2_w5: "Spermien.",
+    t2_q: "Welches Hormon wird in großen Mengen in den Hoden produziert?", t2_q_a: "Testosteron", t2_q_b: "Östrogen", t2_q_c: "Insulin", t2_q_d: "Adrenalin",
 
-    r3_title: "Körperliche Veränderungen während der Pubertät",
-    r3_text: "Während der Pubertät wächst dein Körper schnell. Du könntest größer werden, Muskeln entwickeln, und deine Körperform verändert sich. Diese körperlichen Veränderungen bereiten deinen Körper auf das Erwachsenenalter vor.",
-    r3_fact1: "Wachstumsschub: Du wirst größer, manchmal sehr schnell über ein paar Monate",
-    r3_fact2: "Stimmveränderung: Deine Stimme wird tiefer (das passiert für manche Menschen deutlicher)",
-    r3_fact3: "Körperproportionen ändern sich: Deine Arme, Beine und dein Kopf wachsen mit unterschiedlichen Raten",
-    r3_fact4: "Neue körperliche Merkmale entwickeln sich: Allmähliche Veränderungen in Haut, Haaren und Körperzusammensetzung",
+    t3_title: "Weibliche Fortpflanzungsorgane", t3_text: "Das weibliche Fortpflanzungssystem produziert Eizellen und nährt den sich entwickelnden Fötus während der Schwangerschaft.",
+    t3_b1: "Die Eierstöcke produzieren Eizellen und weibliche Hormone.", t3_b2: "Der Eileiter leitet die Eizelle zur Gebärmutter.", t3_b3: "Die Gebärmutter ist ein starker Muskel, in dem der Fötus wächst.",
+    t3_inst: "Verbinde das Organ mit seiner Aufgabe!",
+    t3_l1: "Eierstock", t3_r1: "Produziert Eizellen", t3_l2: "Gebärmutter", t3_r2: "Hier wächst der Fötus heran", t3_l3: "Hoden (Mann)", t3_r3: "Produziert Spermien",
+    t3_q: "Wo entwickelt sich der Fötus während der Schwangerschaft?", t3_q_a: "In der Gebärmutter", t3_q_b: "Im Eierstock", t3_q_c: "Im Magen", t3_q_d: "Im Eileiter",
 
-    r4_title: "Gesundheit während der Pubertät",
-    r4_text: "Während der Pubertät wird es wichtiger, auf deinen Körper zu achten. Gute Hygienegewohnheiten, Ernährung, Schlaf und Bewegung helfen deinem Körper, stark und gesund zu wachsen.",
-    r4_fact1: "Duschen oder baden Sie regelmäßig — Hormone erhöhen die Öl- und Schweißproduktion",
-    r4_fact2: "Iss eine ausgewogene Ernährung mit Obst, Gemüse, Proteinen und Vollkornprodukten",
-    r4_fact3: "Schlafen Sie 8-10 Stunden — Ihr Körper macht das meiste seines Wachstums nachts",
-    r4_fact4: "Trainieren Sie regelmäßig — körperliche Aktivität baut starke Muskeln und Knochen auf",
+    t4_title: "Veränderungen des Körpers", t4_text: "In der Pubertät verändert sich der Körper stark, um sich auf das Erwachsensein vorzubereiten. Es gibt typische Veränderungen für Jungen und Mädchen.",
+    t4_b1: "Beide Geschlechter: Wachstumsschub, Körperbehaarung, Schwitzen.", t4_b2: "Jungen: Stimmbruch (tiefere Stimme), Bartwuchs, breitere Schultern.", t4_b3: "Mädchen: Brustwachstum, breitere Hüften, Beginn der Menstruation.",
+    t4_inst: "Typisch für Jungen oder Mädchen? Sortiere!",
+    t4_bucket_fiu: "Jungen", t4_bucket_lan: "Mädchen",
+    t4_item_f1: "Bartwuchs", t4_item_f2: "Tiefer werdende Stimme",
+    t4_item_l1: "Menstruation", t4_item_l2: "Breiter werdende Hüften",
+    t4_q: "Welche Veränderung tritt SOWOHL bei Jungen ALS AUCH bei Mädchen auf?", t4_q_a: "Wachstumsschub und Körperbehaarung", t4_q_b: "Stimmbruch", t4_q_c: "Menstruation", t4_q_d: "Bartwuchs",
 
-    r5_title: "Schnelle Wiederholung",
-
-    q1_q: "In welchem Alter beginnt die Pubertät normalerweise?",
-    q1_815: "Zwischen 8-14 Jahren",
-    q1_1518: "Zwischen 15-18 Jahren",
-    q1_68: "Zwischen 6-8 Jahren",
-    q1_1820: "Zwischen 18-20 Jahren",
-
-    q2_q: "Welche Drüse in deinem Gehirn produziert Hormone, die die Pubertät starten?",
-    q2_pituitary: "Die Hypophyse",
-    q2_thyroid: "Die Schilddrüse",
-    q2_pineal: "Die Zirbeldrüse",
-    q2_pancreas: "Die Bauchspeicheldrüse",
-
-    q3_q: "Welche ist eine wichtige Gewohnheit zur Gesundheitserhaltung während der Pubertät?",
-    q3_regular_hygiene: "Regelmäßige Hygiene, gute Ernährung und Bewegung",
-    q3_skip_sleep: "Schlaf überspringen, um länger wach zu bleiben",
-    q3_avoid_food: "Alle zuckerhaltigen Lebensmittel komplett vermeiden",
-    q3_no_exercise: "Körperliche Aktivität vermeiden",
-
-    r3_q: "Warum treten körperliche Veränderungen während der Pubertät auf?",
-    r3_q_growth_hormones: "Hormone lösen Wachstum und Entwicklung zum Erwachsenenalter aus",
-    r3_q_diet_change: "Das Essen verschiedener Lebensmittel verursacht die Veränderungen",
-    r3_q_age_number: "Sie treten auf, weil du ein bestimmtes Alter erreicht hast",
-    r3_q_weather: "Sie werden durch Wetter und Jahreszeiten verursacht",
-
-    r4_q: "Warum musst du dich während der Pubertät häufiger duschen oder baden?",
-    r4_sweat_oil: "Hormone erhöhen die Schweiß- und Ölproduktion",
-    r4_colder: "Das Wetter wird kälter",
-    r4_required_rule: "Weil es eine Regel gibt, der du folgen musst",
-    r4_faster_dirty: "Du wirst schneller schmutzig als zuvor",
-  },
-  hu: {
-    r1_title: "Mi az a pubertás?",
-    r1_text: "A pubertás az az időszak, amikor a tested változik a gyermekkorból a felnőttkorba. Általában 8-14 évesen kezdődik. Ezek a változások mindenkivel megtörténnek, de különböző időpontokban.",
-    r1_fact1: "A pubertás testi növekedést hoz (nagyobb és erősebb leszel)",
-    r1_fact2: "A hormonok irányítják ezeket a változásokat — kémiai hírvivők a tested körül",
-    r1_fact3: "Mentális és érzelmi változások is történnek — az érzéseid bonyolultabbá válnak",
-    r1_fact4: "Mindenki a saját tempójában megy keresztül a pubertáson — ez teljesen normális",
-
-    r2_title: "Hormonok: Az irányítási rendszer",
-    r2_text: "Az agyadban egy hipofízis (agyalapi mirigy) nevű mirigy található. Olyan hormonokat termel, amelyek jelzik testének, hogy kezdjen el nőni és fejlődni.",
-    r2_fact1: "A hipofízis körülbelül olyan nagy, mint egy bors az agyadban",
-    r2_fact2: "Olyan hormonokat bocsát ki, mint a tesztoszteronés az ösztrogén a vérkeringésbe",
-    r2_fact3: "Ezek a hormonok az egész testben keringnek és növekedés és változások váltanak ki",
-    r2_fact4: "A hipofízist 'mestermirigynek' hívják, mert sok folyamatot szabályoz",
-
-    r3_title: "Testi Változások a Pubertás Alatt",
-    r3_text: "A pubertás alatt a tested gyorsan nő. Nagyobb lehetsz, fejleszthetsz izmokat, és a tested alakja megváltozik. Ezek a testi változások az agyadat az felnőttkorhoz készítik elő.",
-    r3_fact1: "Növekedési ugrás: Gyorsabban nőhetsz, néha nagyon gyorsan néhány hónapon keresztül",
-    r3_fact2: "Hangváltozás: A hangod mélyebbre megy (ez néhány embernél szembetűnőbb)",
-    r3_fact3: "A testi arányok megváltoznak: A karod, a lábad és a fejed különböző sebességgel nő",
-    r3_fact4: "Új testi jellemzők fejlődnek: Fokozatos változások a bőr, a haj és a testösszetételben",
-
-    r4_title: "Egészség a Pubertás Alatt",
-    r4_text: "A pubertás alatt fontosabb lett, hogy gondoskodjál a tested körül. Jó higiénikus szokások, táplálkozás, alvás és mozgás segítik a testedet, hogy erősen és egészségesen nőjön.",
-    r4_fact1: "Rendszeresen zuhanyozz vagy fürdj — a hormonok fokozzák az olaj- és izzadságtermelést",
-    r4_fact2: "Egyél egy kiegyensúlyozott étrendet gyümölccsel, zöldséggel, fehérjékkel és teljes gabonákkal",
-    r4_fact3: "Aludj 8-10 órát — a tested az éjszaka nagy részében nő",
-    r4_fact4: "Rendszeresen edzj — a fizikai aktivitás erős izmokat és csontokat épít fel",
-
-    r5_title: "Gyors felülvizsgálat",
-
-    q1_q: "Milyen korban kezdődik általában a pubertás?",
-    q1_815: "8-14 évesen",
-    q1_1518: "15-18 évesen",
-    q1_68: "6-8 évesen",
-    q1_1820: "18-20 évesen",
-
-    q2_q: "Az agyadban mely mirigy termel hormonokat, amelyek a pubertást elindítják?",
-    q2_pituitary: "A hipofízis",
-    q2_thyroid: "A pajzsmirigy",
-    q2_pineal: "A nyakkendőmirigy",
-    q2_pancreas: "A hasnyálmirigy",
-
-    q3_q: "Melyik egy fontos egészségi szokás a pubertás alatt?",
-    q3_regular_hygiene: "Rendszeres higiénia, jó táplálkozás és mozgás",
-    q3_skip_sleep: "Az alvás kihagyása, hogy ébresztkedjél",
-    q3_avoid_food: "Minden cukorral töltött étel teljes elkerülése",
-    q3_no_exercise: "A fizikai aktivitás elkerülése",
-
-    r3_q: "Miért történnek testi változások a pubertás alatt?",
-    r3_q_growth_hormones: "A hormonok megindítják a növekedést és fejlődést a felnőttkor felé",
-    r3_q_diet_change: "Különböző ételek evése okozza a változásokat",
-    r3_q_age_number: "Azért történnek, mert egy bizonyos korot értek el",
-    r3_q_weather: "Az időjárás és az évszakok okozzák",
-
-    r4_q: "Miért kell gyakrabban zuhanyozni vagy fürdeni a pubertás alatt?",
-    r4_sweat_oil: "A hormonok fokozzák az izzadság- és ólajtermelést",
-    r4_colder: "Az időjárás hidegebbé válik",
-    r4_required_rule: "Mert van egy szabály, amelyet követni kell",
-    r4_faster_dirty: "Gyorsabban koszos leszel, mint előtte",
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über die Biologie der Pubertät!",
+    t5_b1: "Hormone steuern die Veränderungen.", t5_b2: "Männliche Zelle: Spermium. Weibliche Zelle: Eizelle.", t5_b3: "Die Pubertät ist ein natürlicher Prozess des Erwachsenwerdens.",
+    t5_inst: "Wie nennt man die weibliche Fortpflanzungszelle?", t5_gap_sentence2: "Die weibliche Keimzelle ist die {gap}.",
+    t5_c51: "Eizelle", t5_c52: "Samenzelle", t5_c53: "Hormon",
+    t5_q: "Welche Aussage über Hormone ist WAHR?", t5_q_a: "Sie kreisen im Blut und regulieren Körperfunktionen.", t5_q_b: "Sie werden beim Atmen in der Lunge produziert.", t5_q_c: "Sie treten erst im Erwachsenenalter auf.", t5_q_d: "Sie sind die Bausteine der Knochen.",
   },
   ro: {
-    r1_title: "Ce este pubertatea?",
-    r1_text: "Pubertatea este perioada în care corpul tău se schimbă din copilărie în vârstă adultă. De obicei începe între 8-14 ani. Aceste schimbări se întâmplă cu toți, dar în momente diferite.",
-    r1_fact1: "Pubertatea aduce creștere fizică (devine mai înalt și mai puternic)",
-    r1_fact2: "Hormonii tăi controlează aceste schimbări — sunt mesageri chimici în corpul tău",
-    r1_fact3: "Schimbări mentale și emoționale se întâmplă și — sentimentele tale devin mai complexe",
-    r1_fact4: "Toți trec prin pubertate în ritmul lor propriu — aceasta este complet normal",
+    explorer_title: "Pubertatea",
+    t1_title: "Rolul Hormonilor", t1_text: "Pubertatea este tranziția de la copilărie la maturitate. Este declanșată de hormoni, care sunt mesageri chimici din sânge.",
+    t1_b1: "Schimbările sunt inițiate de hormonii glandei pituitare.", t1_b2: "La băieți, testosteronul este responsabil pentru trăsăturile masculine.", t1_b3: "La fete, estrogenul este responsabil pentru trăsăturile feminine.",
+    t1_inst: "Ce declanșează schimbările corpului?", t1_gap_sentence: "Hormonii declanșează schimbările corpului din timpul {gap}.",
+    t1_c1: "pubertății", t1_c2: "fotosintezei", t1_c3: "digestiei",
+    t1_q: "Ce sunt hormonii?", t1_q_a: "Mesageri chimici în sânge", t1_q_b: "Oase mici în cap", t1_q_c: "Fibre musculare în braț", t1_q_d: "Bacterii în stomac",
 
-    r2_title: "Hormonii: Sistemul de Control",
-    r2_text: "Creierul tău conține o glandă numită hipofiza (glanda pituitară). Produce hormoni care semnalează corpului tău să înceapă să crească și să se dezvolte.",
-    r2_fact1: "Hipofiza are aproximativ mărimea unui bob de piper în creierul tău",
-    r2_fact2: "Eliberează hormoni precum testosteronul și estrogenul în fluxul sanguin",
-    r2_fact3: "Acești hormoni circulă prin întreg corpul tău și declanșează creștere și schimbări",
-    r2_fact4: "Hipofiza se numește 'glanda principală' pentru că controlează multe procese",
+    t2_title: "Sistemul Reproducător Masculin", t2_text: "Funcția sistemului reproducător masculin este de a produce și elibera celule spermatice (spermatozoizi).",
+    t2_b1: "Testiculele produc spermatozoizii și hormonul testosteron.", t2_b2: "Celulele spermatice se maturizează și sunt stocate în epididim.", t2_b3: "Canalul deferent transportă spermatozoizii.",
+    t2_inst: "Pune cuvintele în ordine!",
+    t2_w1: "Testiculele", t2_w2: "produc", t2_w3: "celulele", t2_w4: "sexuale", t2_w5: "masculine.",
+    t2_q: "Ce hormon se produce în cantități mari în testicule?", t2_q_a: "Testosteron", t2_q_b: "Estrogen", t2_q_c: "Insulină", t2_q_d: "Adrenalină",
 
-    r3_title: "Schimbări Fizice În Timpul Pubertății",
-    r3_text: "Durante pubertății, corpul tău crește repede. S-ar putea să devii mai înalt, să dezvolți mușchi, și forma corpului tău se schimbă. Aceste schimbări fizice pregătesc corpul tău pentru vârstă adultă.",
-    r3_fact1: "Spurt de creștere: Devii mai înalt, uneori foarte repede peste câteva luni",
-    r3_fact2: "Schimbarea vocii: Vocea ți se-adânciți (aceasta se întâmplă mai vizibil pentru unii oameni)",
-    r3_fact3: "Proporțiile corpului se schimbă: Brațele, picioarele și capul tău cresc cu rate diferite",
-    r3_fact4: "Se dezvoltă noi caracteristici fizice: Schimbări treptate în piele, păr și compoziție corporală",
+    t3_title: "Sistemul Reproducător Feminin", t3_text: "Funcția sistemului reproducător feminin este de a produce ovule și de a hrăni fătul în timpul sarcinii.",
+    t3_b1: "Ovarele produc ovulele și hormonii feminini.", t3_b2: "Trompele uterine conduc ovulul spre uter.", t3_b3: "Uterul este organul musculos unde se dezvoltă embrionul.",
+    t3_inst: "Potrivește organul cu funcția sa!",
+    t3_l1: "Ovar", t3_r1: "Produce ovule", t3_l2: "Uter", t3_r2: "Aici se dezvoltă fătul", t3_l3: "Testicul (bărbat)", t3_r3: "Produce celule spermatice",
+    t3_q: "Unde se dezvoltă fătul în timpul sarcinii?", t3_q_a: "În uter", t3_q_b: "În ovar", t3_q_c: "În stomac", t3_q_d: "În trompa uterină",
 
-    r4_title: "Rămâi Sănătos În Timpul Pubertății",
-    r4_text: "În timpul pubertății, devine mai important să ai grijă de corpul tău. Obiceiuri bune de igienă, nutriție, somn și exercițiu ajută corpul tău să crească puternic și sănătos.",
-    r4_fact1: "Duc dus sau baie regulat — hormonii cresc producția de ulei și transpirație",
-    r4_fact2: "Mănâncă o dietă echilibrată cu fructe, legume, proteine și cereale integrale",
-    r4_fact3: "Dormi 8-10 ore — corpul tău face cea mai mare parte a creșterii sale noaptea",
-    r4_fact4: "Exercițiu regulat — activitatea fizică construiește mușchi și oase puternice",
+    t4_title: "Schimbări în Corp", t4_text: "În timpul pubertății, corpul se schimbă drastic pentru a se pregăti de maturitate. Există schimbări specifice pentru băieți și fete.",
+    t4_b1: "Ambele sexe: creștere bruscă, apariția părului pe corp, transpirație.", t4_b2: "Băieți: îngroșarea vocii, creșterea bărbii, umerii se lățesc.", t4_b3: "Fete: dezvoltarea sânilor, șoldurile se lățesc, începe menstruația.",
+    t4_inst: "Specific pentru Băieți sau Fete? Sortează-le!",
+    t4_bucket_fiu: "Băieți", t4_bucket_lan: "Fete",
+    t4_item_f1: "Creșterea bărbii", t4_item_f2: "Îngroșarea vocii",
+    t4_item_l1: "Menstruația", t4_item_l2: "Lățirea șoldurilor",
+    t4_q: "Care schimbare este experimentată ATÂT de băieți CÂT ȘI de fete?", t4_q_a: "Creșterea bruscă și părul pe corp", t4_q_b: "Îngroșarea vocii", t4_q_c: "Menstruația", t4_q_d: "Creșterea bărbii",
 
-    r5_title: "Recapitulare rapidă",
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre biologia pubertății!",
+    t5_b1: "Hormonii controlează schimbările.", t5_b2: "Celula masculină: spermatozoid. Celula feminină: ovul.", t5_b3: "Pubertatea este un proces natural de maturizare.",
+    t5_inst: "Cum se numește celula reproducătoare feminină?", t5_gap_sentence2: "Celula reproducătoare feminină este {gap}.",
+    t5_c51: "ovulul", t5_c52: "spermatozoidul", t5_c53: "hormonul",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre hormoni?", t5_q_a: "Circulă în sânge și reglează funcțiile corpului.", t5_q_b: "Sunt produși de plămâni la respirație.", t5_q_c: "Apar doar la vârsta adultă.", t5_q_d: "Sunt cărămizile de construcție ale oaselor.",
+  }
+};
 
-    q1_q: "La ce vârstă începe de obicei pubertatea?",
-    q1_815: "Între 8-14 ani",
-    q1_1518: "Între 15-18 ani",
-    q1_68: "Între 6-8 ani",
-    q1_1820: "Între 18-20 ani",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Ce glandă din creierul tău produce hormoni care declanșează pubertatea?",
-    q2_pituitary: "Hipofiza",
-    q2_thyroid: "Glanda tiroidă",
-    q2_pineal: "Glanda pineală",
-    q2_pancreas: "Pancreasul",
-
-    q3_q: "Care este un obicei important de sănătate în timpul pubertății?",
-    q3_regular_hygiene: "Igienă regulată, nutriție bună și exercițiu",
-    q3_skip_sleep: "Sărind peste somn pentru a rămâne treaz mai mult",
-    q3_avoid_food: "Evitând complet toate alimentele cu zahăr",
-    q3_no_exercise: "Evitând activitatea fizică",
-
-    r3_q: "De ce se întâmplă schimbări fizice în timpul pubertății?",
-    r3_q_growth_hormones: "Hormonii declanșează creștere și dezvoltare spre vârstă adultă",
-    r3_q_diet_change: "Mâncarea diferită cauzează schimbările",
-    r3_q_age_number: "Se întâmplă pentru că ai atins o anumită vârstă",
-    r3_q_weather: "Sunt cauzate de vreme și anotimpuri",
-
-    r4_q: "De ce trebuie să te duși sub duș mai des în timp ce treci prin pubertate?",
-    r4_sweat_oil: "Hormonii cresc transpirația și producția de ulei",
-    r4_colder: "Vremea devine mai rece",
-    r4_required_rule: "Pentru că există o regulă pe care trebuie s-o urmezi",
-    r4_faster_dirty: "Devii murdar mai repede decât înainte",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <HormoneSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <ReproductionSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "fiu", label: "t4_bucket_fiu" },
+        { id: "lan", label: "t4_bucket_lan" },
+      ],
+      items: [
+        { text: "t4_item_f1", bucketId: "fiu" },
+        { text: "t4_item_l1", bucketId: "lan" },
+        { text: "t4_item_f2", bucketId: "fiu" },
+        { text: "t4_item_l2", bucketId: "lan" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b2",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b2",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Growth Timeline */
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      {/* Title */}
-      <text x="120" y="18" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Childhood to Adulthood
-      </text>
-
-      {/* Timeline base */}
-      <line x1="20" y1="100" x2="220" y2="100" stroke="rgba(150,150,150,0.4)" strokeWidth="2" />
-
-      {/* Child silhouette (stage 1) */}
-      <g>
-        <circle cx="50" cy="65" r="6" fill="rgba(100,150,255,0.6)" />
-        <rect x="47" y="73" width="6" height="15" fill="rgba(100,150,255,0.6)" />
-        <rect x="40" y="78" width="4" height="10" fill="rgba(100,150,255,0.6)" />
-        <rect x="56" y="78" width="4" height="10" fill="rgba(100,150,255,0.6)" />
-        <rect x="44" y="90" width="3" height="8" fill="rgba(100,150,255,0.6)" />
-        <rect x="54" y="90" width="3" height="8" fill="rgba(100,150,255,0.6)" />
-        <text x="50" y="115" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.6)">
-          Child
-        </text>
-        <text x="50" y="130" textAnchor="middle" fontSize="8" fill="rgba(150,150,150,0.5)">
-          (0-8)
-        </text>
-      </g>
-
-      {/* Teen silhouette (stage 2) */}
-      <g>
-        <circle cx="120" cy="55" r="7" fill="rgba(200,150,100,0.6)" />
-        <rect x="116" y="65" width="8" height="20" fill="rgba(200,150,100,0.6)" />
-        <rect x="108" y="72" width="4" height="13" fill="rgba(200,150,100,0.6)" />
-        <rect x="128" y="72" width="4" height="13" fill="rgba(200,150,100,0.6)" />
-        <rect x="112" y="87" width="3" height="11" fill="rgba(200,150,100,0.6)" />
-        <rect x="125" y="87" width="3" height="11" fill="rgba(200,150,100,0.6)" />
-        <text x="120" y="115" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.6)">
-          Teen
-        </text>
-        <text x="120" y="130" textAnchor="middle" fontSize="8" fill="rgba(150,150,150,0.5)">
-          (8-18)
-        </text>
-      </g>
-
-      {/* Adult silhouette (stage 3) */}
-      <g>
-        <circle cx="190" cy="50" r="8" fill="rgba(100,200,100,0.6)" />
-        <rect x="185" y="62" width="10" height="25" fill="rgba(100,200,100,0.6)" />
-        <rect x="175" y="70" width="4" height="16" fill="rgba(100,200,100,0.6)" />
-        <rect x="201" y="70" width="4" height="16" fill="rgba(100,200,100,0.6)" />
-        <rect x="178" y="88" width="3" height="12" fill="rgba(100,200,100,0.6)" />
-        <rect x="199" y="88" width="3" height="12" fill="rgba(100,200,100,0.6)" />
-        <text x="190" y="115" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.6)">
-          Adult
-        </text>
-        <text x="190" y="130" textAnchor="middle" fontSize="8" fill="rgba(150,150,150,0.5)">
-          (18+)
-        </text>
-      </g>
-
-      {/* Arrows connecting stages */}
-      <path d="M 65 100 L 105 100" stroke="rgba(255,200,100,0.5)" strokeWidth="2" markerEnd="url(#arrow_orange)" fill="none" />
-      <path d="M 135 100 L 175 100" stroke="rgba(255,200,100,0.5)" strokeWidth="2" markerEnd="url(#arrow_orange)" fill="none" />
-
-      <defs>
-        <marker id="arrow_orange" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="rgba(255,200,100,0.5)" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Pituitary Gland in Brain */
-function SVG_R2(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="brain_grad" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="#9BA8C4" />
-          <stop offset="100%" stopColor="#5A7BA0" />
-        </radialGradient>
-      </defs>
-
-      {/* Title */}
-      <text x="120" y="18" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Pituitary Gland in Brain
-      </text>
-
-      {/* Brain outline (side view) */}
-      <ellipse cx="85" cy="80" rx="35" ry="40" fill="url(#brain_grad)" opacity="0.8" stroke="rgba(150,150,150,0.5)" strokeWidth="1.5" />
-
-      {/* Folded brain pattern (light lines) */}
-      <path d="M 55 60 Q 60 70 55 80" stroke="rgba(200,200,200,0.2)" strokeWidth="1" fill="none" />
-      <path d="M 65 50 Q 70 70 65 90" stroke="rgba(200,200,200,0.2)" strokeWidth="1" fill="none" />
-      <path d="M 75 45 Q 80 75 75 100" stroke="rgba(200,200,200,0.2)" strokeWidth="1" fill="none" />
-      <path d="M 90 45 Q 95 75 90 105" stroke="rgba(200,200,200,0.2)" strokeWidth="1" fill="none" />
-
-      {/* Pituitary gland (small ball at base) */}
-      <circle cx="85" cy="115" r="6" fill="#FFB366" stroke="rgba(255,180,100,0.8)" strokeWidth="1.5" />
-      <circle cx="85" cy="115" r="3" fill="rgba(255,255,100,0.5)" />
-
-      {/* Label arrow from pituitary */}
-      <line x1="85" y1="122" x2="85" y2="140" stroke="rgba(255,180,100,0.6)" strokeWidth="1.5" strokeDasharray="2,2" />
-      <text x="120" y="145" fontSize="10" fontWeight="bold" fill="#FFB366">
-        Pituitary Gland (Master Gland)
-      </text>
-
-      {/* Hormone arrows spreading from pituitary */}
-      <path d="M 70 115 L 50 115" stroke="#FF6B9D" strokeWidth="2" markerEnd="url(#arrow_hormone)" opacity="0.6" />
-      <path d="M 100 115 L 120 115" stroke="#FF6B9D" strokeWidth="2" markerEnd="url(#arrow_hormone)" opacity="0.6" />
-      <path d="M 80 125 L 70 145" stroke="#FF6B9D" strokeWidth="2" markerEnd="url(#arrow_hormone)" opacity="0.6" />
-      <path d="M 90 125 L 100 145" stroke="#FF6B9D" strokeWidth="2" markerEnd="url(#arrow_hormone)" opacity="0.6" />
-
-      {/* Hormone labels */}
-      <text x="45" y="120" fontSize="8" fill="#FF6B9D" fontWeight="bold">
-        Hormones
-      </text>
-
-      <defs>
-        <marker id="arrow_hormone" markerWidth="8" markerHeight="8" refX="7" refY="2" orient="auto">
-          <polygon points="0 0, 8 2, 0 4" fill="#FF6B9D" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Growth Changes */
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      {/* Title */}
-      <text x="120" y="18" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Physical Growth During Puberty
-      </text>
-
-      {/* Left: Before (shorter) */}
-      <text x="60" y="35" textAnchor="middle" fontSize="10" fill="rgba(100,150,255,0.7)" fontWeight="bold">
-        Before
-      </text>
-
-      {/* Figure 1: child/young teen */}
-      <circle cx="60" cy="50" r="5" fill="rgba(100,150,255,0.6)" />
-      <rect x="57" y="57" width="6" height="18" fill="rgba(100,150,255,0.6)" />
-      <rect x="50" y="63" width="4" height="12" fill="rgba(100,150,255,0.6)" />
-      <rect x="66" y="63" width="4" height="12" fill="rgba(100,150,255,0.6)" />
-      <rect x="53" y="77" width="3" height="9" fill="rgba(100,150,255,0.6)" />
-      <rect x="64" y="77" width="3" height="9" fill="rgba(100,150,255,0.6)" />
-
-      {/* Arrow between */}
-      <text x="120" y="100" textAnchor="middle" fontSize="20" fill="rgba(255,200,100,0.5)">
-        →
-      </text>
-
-      {/* Right: After (taller) */}
-      <text x="180" y="35" textAnchor="middle" fontSize="10" fill="rgba(100,200,100,0.7)" fontWeight="bold">
-        After
-      </text>
-
-      {/* Figure 2: grown teen */}
-      <circle cx="180" cy="45" r="6" fill="rgba(100,200,100,0.6)" />
-      <rect x="176" y="54" width="8" height="25" fill="rgba(100,200,100,0.6)" />
-      <rect x="168" y="62" width="4" height="15" fill="rgba(100,200,100,0.6)" />
-      <rect x="188" y="62" width="4" height="15" fill="rgba(100,200,100,0.6)" />
-      <rect x="171" y="80" width="3" height="10" fill="rgba(100,200,100,0.6)" />
-      <rect x="186" y="80" width="3" height="10" fill="rgba(100,200,100,0.6)" />
-
-      {/* Growth spurt indicator */}
-      <path d="M 130 65 L 150 50" stroke="rgba(255,200,100,0.6)" strokeWidth="2" markerEnd="url(#arrow_growth)" />
-      <text x="145" y="48" fontSize="9" fill="rgba(255,200,100,0.6)" fontWeight="bold">
-        Growth!
-      </text>
-
-      {/* Body changes labels (bottom) */}
-      <g opacity="0.7">
-        <text x="120" y="130" textAnchor="middle" fontSize="8" fill="rgba(200,180,100,0.6)">
-          Height ↑ · Muscles ↑ · Voice Changes · Proportions Shift
-        </text>
-      </g>
-
-      <defs>
-        <marker id="arrow_growth" markerWidth="8" markerHeight="8" refX="7" refY="2" orient="auto">
-          <polygon points="0 0, 8 2, 0 4" fill="rgba(255,200,100,0.6)" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Health Habits */
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      {/* Title */}
-      <text x="120" y="18" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Stay Healthy During Puberty
-      </text>
-
-      {/* Shower icon */}
-      <g>
-        <circle cx="40" cy="50" r="5" fill="none" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
-        <line x1="40" y1="55" x2="40" y2="70" stroke="rgba(100,200,255,0.6)" strokeWidth="2" />
-        <line x1="35" y1="60" x2="45" y2="60" stroke="rgba(100,200,255,0.6)" strokeWidth="1.5" />
-        <circle cx="37" cy="72" r="1.5" fill="rgba(100,200,255,0.5)" />
-        <circle cx="43" cy="75" r="1.5" fill="rgba(100,200,255,0.5)" />
-        <circle cx="40" cy="78" r="1.5" fill="rgba(100,200,255,0.5)" />
-        <text x="40" y="95" textAnchor="middle" fontSize="8" fill="rgba(100,200,255,0.6)" fontWeight="bold">
-          Shower
-        </text>
-      </g>
-
-      {/* Food icon */}
-      <g>
-        <circle cx="100" cy="52" r="6" fill="none" stroke="rgba(100,200,100,0.6)" strokeWidth="1.5" />
-        <path d="M 96 52 L 104 52" stroke="rgba(100,200,100,0.6)" strokeWidth="1" />
-        <path d="M 100 48 L 100 56" stroke="rgba(100,200,100,0.6)" strokeWidth="1" />
-        <rect x="90" y="63" width="20" height="15" rx="2" fill="none" stroke="rgba(100,200,100,0.6)" strokeWidth="1.5" />
-        <text x="100" y="95" textAnchor="middle" fontSize="8" fill="rgba(100,200,100,0.6)" fontWeight="bold">
-          Nutrition
-        </text>
-      </g>
-
-      {/* Sleep icon */}
-      <g>
-        <circle cx="160" cy="55" r="6" fill="none" stroke="rgba(200,150,100,0.6)" strokeWidth="1.5" />
-        <path d="M 157 52 Q 160 48 163 52" fill="rgba(200,150,100,0.3)" stroke="rgba(200,150,100,0.6)" strokeWidth="1" />
-        <path d="M 160 55 L 160 70" stroke="rgba(200,150,100,0.6)" strokeWidth="2" />
-        <path d="M 155 65 L 160 70 L 165 65" stroke="rgba(200,150,100,0.6)" strokeWidth="1.5" fill="none" />
-        <text x="160" y="95" textAnchor="middle" fontSize="8" fill="rgba(200,150,100,0.6)" fontWeight="bold">
-          Sleep
-        </text>
-      </g>
-
-      {/* Exercise icon */}
-      <g>
-        <circle cx="220" cy="50" r="5" fill="none" stroke="rgba(200,100,200,0.6)" strokeWidth="1.5" />
-        <line x1="220" y1="55" x2="220" y2="65" stroke="rgba(200,100,200,0.6)" strokeWidth="2" />
-        <line x1="215" y1="60" x2="225" y2="60" stroke="rgba(200,100,200,0.6)" strokeWidth="1.5" />
-        <line x1="218" y1="65" x2="210" y2="78" stroke="rgba(200,100,200,0.6)" strokeWidth="1.5" />
-        <line x1="222" y1="65" x2="230" y2="78" stroke="rgba(200,100,200,0.6)" strokeWidth="1.5" />
-        <text x="220" y="95" textAnchor="middle" fontSize="8" fill="rgba(200,100,200,0.6)" fontWeight="bold">
-          Exercise
-        </text>
-      </g>
-
-      {/* Center message */}
-      <text x="120" y="125" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.5)" fontStyle="italic">
-        A balanced life helps you grow strong!
-      </text>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const PUBERTY_EXPLORER: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => SVG_R1(),
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => SVG_R2(),
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => SVG_R3(),
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_q_growth_hormones", "r3_q_diet_change", "r3_q_age_number", "r3_q_weather"],
-          answer: "r3_q_growth_hormones",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => SVG_R4(),
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_sweat_oil", "r4_colder", "r4_required_rule", "r4_faster_dirty"],
-          answer: "r4_sweat_oil",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40" />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_815", "q1_1518", "q1_68", "q1_1820"],
-          answer: "q1_815",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_pituitary", "q2_thyroid", "q2_pineal", "q2_pancreas"],
-          answer: "q2_pituitary",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_regular_hygiene", "q3_skip_sleep", "q3_avoid_food", "q3_no_exercise"],
-          answer: "q3_regular_hygiene",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🧬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function PubertyExplorer({
-  color = "#9B59B6",
-  lang = "en",
+const PubertyExplorer = memo(function PubertyExplorer({
+  color = "#9333EA", // Lila árnyalat (Purple-600) a hormonok, biológia és DNS miatt
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={PUBERTY_EXPLORER} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_puberty" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default PubertyExplorer;

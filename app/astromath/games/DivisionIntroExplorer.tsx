@@ -328,7 +328,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "split",
-      groups: [3, 3, 3, 3],
+      groups: [12, 8],
       answer: 4,
       blockIcon: "🍪",
       instruction: "t1_inst",
@@ -349,7 +349,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "number-line",
       min: 0,
-      max: 16,
+      max: 15,
       step: 3,
       start: 15,
       target: 0,
@@ -373,7 +373,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "number-line",
       min: 0,
-      max: 14,
+      max: 12,
       step: 4,
       start: 12,
       target: 0,

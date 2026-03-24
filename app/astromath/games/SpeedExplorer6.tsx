@@ -245,6 +245,11 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_inst: "Uită-te la grafic! Ce distanță (y) a parcurs mașina în x=4 ore?",
     t3_h1: "Verifică valoarea y pentru x=4.",
     t3_h2: "Valoarea y este 200. Atinge 200.",
+    t3_q: "Dacă parcurgi 100 km în 2 ore și 200 km în 3 ore, care este distanța totală?",
+    t3_q_a: "300 km",
+    t3_q_b: "150 km",
+    t3_q_c: "5 h",
+    t3_q_d: "60 km/h",
   },
 };
 

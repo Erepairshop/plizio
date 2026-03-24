@@ -79,7 +79,10 @@ const RatioSlider = memo(function RatioSlider({
   onDone,
 }: Props) {
   const t = L[lang] || L.en;
-  const maxRange = Math.ceil(targetPrice * 1.6);
+  // Auto-detect step: if targetPrice has decimals, use fine step
+  const decimals = String(targetPrice).includes(".") ? String(targetPrice).split(".")[1].length : 0;
+  const step = decimals > 0 ? Math.pow(10, -decimals) : (targetPrice <= 10 ? 1 : Math.max(1, Math.round(targetPrice / 50)));
+  const maxRange = Math.max(Math.ceil(targetPrice * 1.6 / step) * step, step * 10);
   const [guess, setGuess] = useState(0);
   const [solved, setSolved] = useState(false);
   const [wrongCount, setWrongCount] = useState(0);
@@ -139,7 +142,7 @@ const RatioSlider = memo(function RatioSlider({
           <div className="flex justify-between items-end mb-3">
             <span className="text-[10px] font-bold uppercase tracking-wider text-white/40">{t.task}</span>
             <span className="text-lg font-mono font-black" style={{ color }}>
-              {targetValue} {unitName} = {guess} {currency}
+              {targetValue} {unitName} = {parseFloat(guess.toFixed(decimals + 1))} {currency}
             </span>
           </div>
 
@@ -148,7 +151,7 @@ const RatioSlider = memo(function RatioSlider({
               type="range"
               min="0"
               max={maxRange}
-              step="1"
+              step={step}
               value={guess}
               onChange={(e) => { if (!solved) setGuess(Number(e.target.value)); }}
               disabled={solved}
@@ -158,10 +161,10 @@ const RatioSlider = memo(function RatioSlider({
             <div className="absolute z-10 w-full h-3.5 bg-black/20 rounded-full overflow-hidden">
               <div className="h-full transition-all duration-75" style={{ width: `${guessPct}%`, backgroundColor: color }} />
             </div>
-            {/* Thumb */}
+            {/* Thumb — offset compensates for thumb width so it aligns with native range */}
             <div
               className="absolute z-10 w-5 h-5 bg-white rounded-full shadow-lg border-2 pointer-events-none transition-all duration-75"
-              style={{ left: `calc(${guessPct}% - 10px)`, borderColor: color }}
+              style={{ left: `calc(${guessPct}% - ${guessPct * 0.2}px)`, borderColor: color }}
             />
           </div>
 
