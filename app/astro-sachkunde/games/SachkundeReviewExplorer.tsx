@@ -1,661 +1,380 @@
 "use client";
-// SachkundeReviewExplorer — Island i9: Grand Finale Review
-// 5 rounds × 3 MCQ questions covering all Sachkunde topics
+// SachkundeReviewExplorer.tsx — Sachkunde Island i9: Grand Finale (K1)
+// Topics: 1) Érzékszervek 2) Állatok 3) Időjárás 4) Közlekedés 5) Újrahasznosítás
 
-import { memo, useState, useCallback, useRef, useMemo } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, CheckCircle2, XCircle, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+import { FiveSensesSvg } from "@/app/astro-sachkunde/svg/k2/KidsScienceSvg";
+import { WeatherTypesSvg } from "@/app/astro-sachkunde/svg/k1/NatureWeatherSvg";
+import { TrafficLightSvg, RecyclingBinsSvg } from "@/app/astro-sachkunde/svg/k1/TrafficRecyclingSvg";
 
-// ─── Labels ────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-const LABELS = {
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#ECFCCB" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="45" textAnchor="middle">🐕</text>
+        <path d="M -10,0 L 10,0" stroke="#84CC16" strokeWidth="4" strokeDasharray="4 4" />
+        <text x="40" y="15" fontSize="45" textAnchor="middle">🐻</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="45" textAnchor="middle">🏆</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Nagy Sachkunde Kvíz",
+    // T1: Érzékek (Match-pairs)
+    t1_title: "1. Próba: Érzékszervek",
+    t1_text: "Emlékszel még, mivel mit csinálunk? A testünk nagyon okos, mindent érez, lát és hall!",
+    t1_b1: "A szemünkkel látjuk a színeket.",
+    t1_b2: "A fülünkkel halljuk a zenét.",
+    t1_b3: "Az orrunkkal érezzük a finom illatokat.",
+    t1_inst: "Párosítsd az érzékszervet a feladatával!",
+    t1_l1: "Szem 👁️", t1_r1: "Látás",
+    t1_l2: "Fül 👂", t1_r2: "Hallás",
+    t1_l3: "Nyelv 👅", t1_r3: "Ízlelés",
+    t1_q: "Mivel érezzük a fagyi finom ízét?",
+    t1_q_a: "A nyelvünkkel", t1_q_b: "A fülünkkel", t1_q_c: "A szemünkkel", t1_q_d: "A hajunkkal",
+
+    // T2: Állatok (Drag-to-bucket)
+    t2_title: "2. Próba: Állatok",
+    t2_text: "Vannak állatok, akik velünk élnek a házban, és vannak, akik kint a sűrű erdőben.",
+    t2_b1: "A háziállatokat mi etetjük.",
+    t2_b2: "A vadállatok maguknak keresnek élelmet.",
+    t2_b3: "Minden állatra vigyáznunk kell!",
+    t2_inst: "Háziállat vagy Vadállat? Válogasd szét!",
+    t2_bucket_hazi: "Háziállat 🏠",
+    t2_bucket_vad: "Vadállat 🌲",
+    t2_item_h1: "Kutya", t2_item_h2: "Macska",
+    t2_item_v1: "Medve", t2_item_v2: "Szarvas",
+    t2_q: "Hol él a medve és a szarvas?",
+    t2_q_a: "Az erdőben", t2_q_b: "A nappaliban", t2_q_c: "A konyhában", t2_q_d: "Az iskolában",
+
+    // T3: Időjárás (Gap-fill)
+    t3_title: "3. Próba: Időjárás",
+    t3_text: "Mindig úgy kell felöltöznünk, amilyen az időjárás odakint.",
+    t3_b1: "Ha esik, kell a gumicsizma.",
+    t3_b2: "Ha süt a nap, jó a rövidnadrág.",
+    t3_b3: "Télen, ha esik a hó, sapkát és sálat húzunk.",
+    t3_inst: "Egészítsd ki a mondatot!",
+    t3_gap_sentence: "Amikor télen nagyon hideg van és esik a {gap}, hóembert építünk.",
+    t3_c1: "hó", t3_c2: "eső", t3_c3: "falevél",
+    t3_q: "Mit viszünk magunkkal, ha esik az eső?",
+    t3_q_a: "Esernyőt", t3_q_b: "Napszemüveget", t3_q_c: "Fürdőruhát", t3_q_d: "Hálózsákot",
+
+    // T4: Közlekedés (Word-order)
+    t4_title: "4. Próba: Közlekedés",
+    t4_text: "A zebrán való átkelés nagyon fontos szabály! Emlékszel, mit kell tenned, mielőtt lelépsz az útra?",
+    t4_b1: "Mindig állj meg az út szélén.",
+    t4_b2: "Nézz körül balra, aztán jobbra.",
+    t4_b3: "Csak akkor indulj, ha nem jön autó!",
+    t4_inst: "Tedd sorba a zebrán való átkelés lépéseit!",
+    t4_w1: "Megállok", t4_w2: "Balra nézek", t4_w3: "Jobbra nézek", t4_w4: "Átmegyek",
+    t4_q: "Milyen színű lámpánál szabad átmenni az úton?",
+    t4_q_a: "Zöldnél", t4_q_b: "Pirosnál", t4_q_c: "Sárgánál", t4_q_d: "Feketénél",
+
+    // T5: Újrahasznosítás (Label-diagram)
+    t5_title: "5. Próba: Szemétválogatás",
+    t5_text: "Ha szeretjük a természetet, a szemetet a megfelelő színű kukába dobjuk!",
+    t5_b1: "Kék kuka: papír.",
+    t5_b2: "Sárga kuka: műanyag.",
+    t5_b3: "Zöld kuka: üveg.",
+    t5_inst: "Melyik kuka mit rejt? Keresd meg a színeket!",
+    t5_area_blue: "Kék (Papír)",
+    t5_area_yellow: "Sárga (Műanyag)",
+    t5_area_green: "Zöld (Üveg)",
+    t5_q: "Hová dobjuk a kiürült műanyag flakont?",
+    t5_q_a: "A sárga kukába", t5_q_b: "A kék kukába", t5_q_c: "Az erdőbe", t5_q_d: "A zöld kukába",
+  },
   en: {
-    title: "Grand Finale",
-    subtitle: "All Topics Review",
-    // round titles & hints
-    r1Title: "Body & Senses",
-    r1Hint: "Which organ or sense is described?",
-    r2Title: "Seasons & Nature",
-    r2Hint: "What season or nature fact fits?",
-    r3Title: "Traffic Safety",
-    r3Hint: "Choose the correct traffic rule!",
-    r4Title: "Family & Social",
-    r4Hint: "Who is this family member?",
-    r5Title: "Recycling & Environment",
-    r5Hint: "Where does this waste go?",
-    // round progress
-    roundOf: "Round",
-    of: "of",
-    // questions r1: body & senses
-    q_eye_organ: "Which organ do we use to see?",
-    q_ear_organ: "Which organ do we use to hear?",
-    q_nose_organ: "Which organ do we use to smell?",
-    // answers r1
-    a_eye: "Eye",
-    a_ear: "Ear",
-    a_nose: "Nose",
-    a_mouth: "Mouth",
-    a_hand: "Hand",
-    a_knee: "Knee",
-    a_foot: "Foot",
-    a_elbow: "Elbow",
-    // questions r2: seasons & nature
-    q_snow_season: "In which season does it snow?",
-    q_flower_season: "In which season do flowers bloom?",
-    q_leaf_season: "In which season do leaves fall from trees?",
-    // answers r2
-    a_winter: "Winter",
-    a_spring: "Spring",
-    a_summer: "Summer",
-    a_autumn: "Autumn",
-    // questions r3: traffic safety
-    q_red_light: "What does a red traffic light mean?",
-    q_green_light: "What does a green traffic light mean?",
-    q_crosswalk: "Where should pedestrians cross the street?",
-    q_helmet: "What should you wear on your head when riding a bicycle?",
-    // answers r3
-    a_stop: "Stop",
-    a_go: "Go",
-    a_wait: "Wait",
-    a_slow: "Drive slowly",
-    a_crosswalk: "At the crosswalk",
-    a_anywhere: "Anywhere",
-    a_at_corner: "At the street corner",
-    a_in_middle: "In the middle of the road",
-    a_helmet: "Helmet",
-    a_cap: "Cap",
-    a_sunglasses: "Sunglasses",
-    a_scarf: "Scarf",
-    // questions r4: family & social
-    q_grandmother: "Your mother's mother is your…?",
-    q_uncle: "Your father's brother is your…?",
-    q_cousin: "Your aunt's child is your…?",
-    // answers r4
-    a_grandmother: "Grandmother",
-    a_grandfather: "Grandfather",
-    a_aunt: "Aunt",
-    a_sister: "Sister",
-    a_uncle: "Uncle",
-    a_father: "Father",
-    a_brother: "Brother",
-    a_cousin: "Cousin",
-    // questions r5: recycling
-    q_paper: "Where does old newspaper go?",
-    q_glass: "Where does an empty glass bottle go?",
-    q_plastic: "Where does a plastic bottle go?",
-    // answers r5
-    a_paper_bin: "Paper bin (blue)",
-    a_glass_bin: "Glass container",
-    a_plastic_bin: "Yellow bin / plastics",
-    a_organic_bin: "Organic / compost bin",
-    a_residual_bin: "Residual waste bin",
-    a_electronics_bin: "Electronics recycling",
-    a_clothes_bin: "Clothing donation",
-    a_battery_bin: "Battery collection",
-    // feedback
-    correct: "Correct!",
-    wrong: "Not quite!",
-    next: "Next",
-    finish: "Finish!",
-    score: "Score",
+    explorer_title: "Grand Review Quiz",
+    t1_title: "Trial 1: Senses", t1_text: "Do you remember what our body parts do? Our body is very smart!",
+    t1_b1: "We see colors with our eyes.", t1_b2: "We hear music with our ears.", t1_b3: "We smell sweet scents with our nose.",
+    t1_inst: "Match the sense organ with its job!",
+    t1_l1: "Eye 👁️", t1_r1: "Seeing",
+    t1_l2: "Ear 👂", t1_r2: "Hearing",
+    t1_l3: "Tongue 👅", t1_r3: "Tasting",
+    t1_q: "What do we use to taste sweet ice cream?",
+    t1_q_a: "Our tongue", t1_q_b: "Our ears", t1_q_c: "Our eyes", t1_q_d: "Our hair",
+
+    t2_title: "Trial 2: Animals", t2_text: "Some animals live with us in the house, others live out in the deep forest.",
+    t2_b1: "We feed our pets.", t2_b2: "Wild animals find their own food.", t2_b3: "We must protect all animals!",
+    t2_inst: "Pet or Wild Animal? Sort them out!",
+    t2_bucket_hazi: "Pet 🏠", t2_bucket_vad: "Wild Animal 🌲",
+    t2_item_h1: "Dog", t2_item_h2: "Cat",
+    t2_item_v1: "Bear", t2_item_v2: "Deer",
+    t2_q: "Where do bears and deer live?",
+    t2_q_a: "In the forest", t2_q_b: "In the living room", t2_q_c: "In the kitchen", t2_q_d: "In school",
+
+    t3_title: "Trial 3: Weather", t3_text: "We must always dress according to the weather outside.",
+    t3_b1: "If it rains, we need rubber boots.", t3_b2: "If it's sunny, shorts are great.", t3_b3: "In winter, if it snows, we wear a hat and scarf.",
+    t3_inst: "Complete the sentence!", t3_gap_sentence: "When it is very cold in winter and the {gap} falls, we build a snowman.",
+    t3_c1: "snow", t3_c2: "rain", t3_c3: "leaves",
+    t3_q: "What do we take with us when it rains?",
+    t3_q_a: "An umbrella", t3_q_b: "Sunglasses", t3_q_c: "A swimsuit", t3_q_d: "A sleeping bag",
+
+    t4_title: "Trial 4: Traffic", t4_text: "Crossing the zebra is a very important rule! Do you remember what to do before stepping on the road?",
+    t4_b1: "Always stop at the edge of the road.", t4_b2: "Look around: left, then right.", t4_b3: "Only go if no car is coming!",
+    t4_inst: "Put the steps of crossing the zebra in order!",
+    t4_w1: "Stop", t4_w2: "Look left", t4_w3: "Look right", t4_w4: "Cross the road",
+    t4_q: "At which traffic light color is it safe to cross?",
+    t4_q_a: "Green", t4_q_b: "Red", t4_q_c: "Yellow", t4_q_d: "Black",
+
+    t5_title: "Trial 5: Recycling", t5_text: "If we love nature, we throw our trash in the right colored bin!",
+    t5_b1: "Blue bin: paper.", t5_b2: "Yellow bin: plastic.", t5_b3: "Green bin: glass.",
+    t5_inst: "Which bin hides what? Find the colors!",
+    t5_area_blue: "Blue (Paper)", t5_area_yellow: "Yellow (Plastic)", t5_area_green: "Green (Glass)",
+    t5_q: "Where do we throw an empty plastic bottle?",
+    t5_q_a: "In the yellow bin", t5_q_b: "In the blue bin", t5_q_c: "In the forest", t5_q_d: "In the green bin",
   },
   de: {
-    title: "Großes Finale",
-    subtitle: "Alle Themen im Überblick",
-    r1Title: "Körper & Sinne",
-    r1Hint: "Welches Organ oder welcher Sinn ist gemeint?",
-    r2Title: "Jahreszeiten & Natur",
-    r2Hint: "Welche Jahreszeit oder welcher Naturfakt passt?",
-    r3Title: "Verkehrssicherheit",
-    r3Hint: "Wähle die richtige Verkehrsregel!",
-    r4Title: "Familie & Soziales",
-    r4Hint: "Wer ist dieses Familienmitglied?",
-    r5Title: "Recycling & Umwelt",
-    r5Hint: "Wo kommt dieser Abfall hin?",
-    roundOf: "Runde",
-    of: "von",
-    q_eye_organ: "Womit sehen wir?",
-    q_ear_organ: "Womit hören wir?",
-    q_nose_organ: "Womit riechen wir?",
-    a_eye: "Auge",
-    a_ear: "Ohr",
-    a_nose: "Nase",
-    a_mouth: "Mund",
-    a_hand: "Hand",
-    a_knee: "Knie",
-    a_foot: "Fuß",
-    a_elbow: "Ellbogen",
-    q_snow_season: "In welcher Jahreszeit schneit es?",
-    q_flower_season: "In welcher Jahreszeit blühen die Blumen?",
-    q_leaf_season: "In welcher Jahreszeit fallen die Blätter von den Bäumen?",
-    a_winter: "Winter",
-    a_spring: "Frühling",
-    a_summer: "Sommer",
-    a_autumn: "Herbst",
-    q_red_light: "Was bedeutet eine rote Ampel?",
-    q_green_light: "Was bedeutet eine grüne Ampel?",
-    q_crosswalk: "Wo solltest du als Fußgänger die Straße überqueren?",
-    q_helmet: "Was trägst du beim Fahrradfahren auf dem Kopf?",
-    a_stop: "Anhalten",
-    a_go: "Fahren / Gehen",
-    a_wait: "Warten",
-    a_slow: "Langsam fahren",
-    a_crosswalk: "Am Zebrastreifen",
-    a_anywhere: "Irgendwo",
-    a_at_corner: "An der Straßenecke",
-    a_in_middle: "Mitten auf der Straße",
-    a_helmet: "Helm",
-    a_cap: "Mütze",
-    a_sunglasses: "Sonnenbrille",
-    a_scarf: "Schal",
-    q_grandmother: "Die Mutter deiner Mutter ist deine …?",
-    q_uncle: "Der Bruder deines Vaters ist dein …?",
-    q_cousin: "Das Kind deiner Tante ist dein …?",
-    a_grandmother: "Oma",
-    a_grandfather: "Opa",
-    a_aunt: "Tante",
-    a_sister: "Schwester",
-    a_uncle: "Onkel",
-    a_father: "Vater",
-    a_brother: "Bruder",
-    a_cousin: "Cousin / Cousine",
-    q_paper: "Wohin kommt eine alte Zeitung?",
-    q_glass: "Wohin kommt eine leere Glasflasche?",
-    q_plastic: "Wohin kommt eine Plastikflasche?",
-    a_paper_bin: "Papiertonne (blau)",
-    a_glass_bin: "Glascontainer",
-    a_plastic_bin: "Gelbe Tonne / Gelber Sack",
-    a_organic_bin: "Biotonne / Kompost",
-    a_residual_bin: "Restmülltonne",
-    a_electronics_bin: "Elektroschrott",
-    a_clothes_bin: "Kleidercontainer",
-    a_battery_bin: "Batterie-Sammlung",
-    correct: "Richtig!",
-    wrong: "Nicht ganz!",
-    next: "Weiter",
-    finish: "Fertig!",
-    score: "Punkte",
-  },
-  hu: {
-    title: "Nagy Finálé",
-    subtitle: "Összes téma összefoglalója",
-    r1Title: "Test és Érzékszervek",
-    r1Hint: "Melyik szerv vagy érzék van leírva?",
-    r2Title: "Évszakok és Természet",
-    r2Hint: "Melyik évszak vagy természeti tény illik?",
-    r3Title: "Közlekedésbiztonság",
-    r3Hint: "Válaszd a helyes közlekedési szabályt!",
-    r4Title: "Család és Társadalom",
-    r4Hint: "Ki ez a rokonsági viszony?",
-    r5Title: "Újrahasznosítás és Környezet",
-    r5Hint: "Hova kerül ez a szemét?",
-    roundOf: "Forduló",
-    of: "/",
-    q_eye_organ: "Melyik szervünkkel látunk?",
-    q_ear_organ: "Melyik szervünkkel hallunk?",
-    q_nose_organ: "Melyik szervünkkel szagolunk?",
-    a_eye: "Szem",
-    a_ear: "Fül",
-    a_nose: "Orr",
-    a_mouth: "Száj",
-    a_hand: "Kéz",
-    a_knee: "Térd",
-    a_foot: "Láb",
-    a_elbow: "Könyök",
-    q_snow_season: "Melyik évszakban havazik?",
-    q_flower_season: "Melyik évszakban nyílnak a virágok?",
-    q_leaf_season: "Melyik évszakban hullnak le a falevelek?",
-    a_winter: "Tél",
-    a_spring: "Tavasz",
-    a_summer: "Nyár",
-    a_autumn: "Ősz",
-    q_red_light: "Mit jelent a piros közlekedési lámpa?",
-    q_green_light: "Mit jelent a zöld közlekedési lámpa?",
-    q_crosswalk: "Hol kell az úttest gyalogosoknak átkelniük?",
-    q_helmet: "Mit kell viselni a fejeden kerékpározáskor?",
-    a_stop: "Megállj",
-    a_go: "Menj / Haladj",
-    a_wait: "Várj",
-    a_slow: "Lassan haladj",
-    a_crosswalk: "A zebrán",
-    a_anywhere: "Bárhol",
-    a_at_corner: "Az utca sarkán",
-    a_in_middle: "Az út közepén",
-    a_helmet: "Bukósisak",
-    a_cap: "Sapka",
-    a_sunglasses: "Napszemüveg",
-    a_scarf: "Sál",
-    q_grandmother: "Az anyukád anyukája a te …?",
-    q_uncle: "Az apukád fivére a te …?",
-    q_cousin: "A nagynénéd gyereke a te …?",
-    a_grandmother: "Nagymama",
-    a_grandfather: "Nagypapa",
-    a_aunt: "Nagynéni",
-    a_sister: "Nővér / Húg",
-    a_uncle: "Nagybácsi",
-    a_father: "Apa",
-    a_brother: "Fivér / Öcs",
-    a_cousin: "Unokatestvér",
-    q_paper: "Hova kerül egy régi újság?",
-    q_glass: "Hova kerül egy üres üvegpalack?",
-    q_plastic: "Hova kerül egy műanyag palack?",
-    a_paper_bin: "Papír gyűjtő (kék)",
-    a_glass_bin: "Üveg gyűjtő",
-    a_plastic_bin: "Sárga zsák / műanyag",
-    a_organic_bin: "Szerves hulladék / komposzt",
-    a_residual_bin: "Vegyes hulladék",
-    a_electronics_bin: "Elektromos hulladék",
-    a_clothes_bin: "Ruha gyűjtő",
-    a_battery_bin: "Elem gyűjtő",
-    correct: "Helyes!",
-    wrong: "Nem egészen!",
-    next: "Tovább",
-    finish: "Befejezés!",
-    score: "Pont",
+    explorer_title: "Das große Sachkunde-Quiz",
+    t1_title: "1. Prüfung: Die Sinne", t1_text: "Erinnerst du dich, wofür unsere Körperteile da sind? Unser Körper ist sehr schlau!",
+    t1_b1: "Mit den Augen sehen wir Farben.", t1_b2: "Mit den Ohren hören wir Musik.", t1_b3: "Mit der Nase riechen wir Düfte.",
+    t1_inst: "Verbinde das Sinnesorgan mit seiner Aufgabe!",
+    t1_l1: "Auge 👁️", t1_r1: "Sehen",
+    t1_l2: "Ohr 👂", t1_r2: "Hören",
+    t1_l3: "Zunge 👅", t1_r3: "Schmecken",
+    t1_q: "Womit schmecken wir das leckere Eis?",
+    t1_q_a: "Mit der Zunge", t1_q_b: "Mit den Ohren", t1_q_c: "Mit den Augen", t1_q_d: "Mit den Haaren",
+
+    t2_title: "2. Prüfung: Tiere", t2_text: "Manche Tiere leben bei uns im Haus, andere tief im Wald.",
+    t2_b1: "Wir füttern unsere Haustiere.", t2_b2: "Wilde Tiere suchen ihr Futter selbst.", t2_b3: "Wir müssen alle Tiere beschützen!",
+    t2_inst: "Haustier oder Wildtier? Sortiere sie!",
+    t2_bucket_hazi: "Haustier 🏠", t2_bucket_vad: "Wildtier 🌲",
+    t2_item_h1: "Hund", t2_item_h2: "Katze",
+    t2_item_v1: "Bär", t2_item_v2: "Hirsch",
+    t2_q: "Wo leben Bär und Hirsch?",
+    t2_q_a: "Im Wald", t2_q_b: "Im Wohnzimmer", t2_q_c: "In der Küche", t2_q_d: "In der Schule",
+
+    t3_title: "3. Prüfung: Wetter", t3_text: "Wir müssen uns immer passend zum Wetter anziehen.",
+    t3_b1: "Bei Regen brauchen wir Gummistiefel.", t3_b2: "Bei Sonne sind kurze Hosen gut.", t3_b3: "Wenn es schneit, tragen wir Mütze und Schal.",
+    t3_inst: "Ergänze den Satz!", t3_gap_sentence: "Wenn es im Winter sehr kalt ist und der {gap} fällt, bauen wir einen Schneemann.",
+    t3_c1: "Schnee", t3_c2: "Regen", t3_c3: "Blätter",
+    t3_q: "Was nehmen wir mit, wenn es regnet?",
+    t3_q_a: "Einen Regenschirm", t3_q_b: "Eine Sonnenbrille", t3_q_c: "Badesachen", t3_q_d: "Einen Schlafsack",
+
+    t4_title: "4. Prüfung: Verkehr", t4_text: "Der Zebrastreifen ist eine wichtige Regel! Weißt du noch, was du tun musst?",
+    t4_b1: "Bleib immer am Straßenrand stehen.", t4_b2: "Schau nach links, dann nach rechts.", t4_b3: "Geh nur, wenn kein Auto kommt!",
+    t4_inst: "Bringe die Schritte in die richtige Reihenfolge!",
+    t4_w1: "Stehen bleiben", t4_w2: "Nach links schauen", t4_w3: "Nach rechts schauen", t4_w4: "Rübergehen",
+    t4_q: "Bei welcher Ampelfarbe dürfen wir über die Straße gehen?",
+    t4_q_a: "Bei Grün", t4_q_b: "Bei Rot", t4_q_c: "Bei Gelb", t4_q_d: "Bei Schwarz",
+
+    t5_title: "5. Prüfung: Mülltrennung", t5_text: "Wenn wir die Natur lieben, werfen wir den Müll in die richtige Tonne!",
+    t5_b1: "Blaue Tonne: Papier.", t5_b2: "Gelbe Tonne: Plastik.", t5_b3: "Grüne Tonne: Glas.",
+    t5_inst: "Welche Tonne ist wofür? Finde die Farben!",
+    t5_area_blue: "Blau (Papier)", t5_area_yellow: "Gelb (Plastik)", t5_area_green: "Grün (Glas)",
+    t5_q: "Wohin werfen wir eine leere Plastikflasche?",
+    t5_q_a: "In die gelbe Tonne", t5_q_b: "In die blaue Tonne", t5_q_c: "In den Wald", t5_q_d: "In die grüne Tonne",
   },
   ro: {
-    title: "Marea Finală",
-    subtitle: "Recapitulare — toate temele",
-    r1Title: "Corp și Simțuri",
-    r1Hint: "Care organ sau simț este descris?",
-    r2Title: "Anotimpuri și Natură",
-    r2Hint: "Ce anotimp sau fapt din natură se potrivește?",
-    r3Title: "Siguranța în Trafic",
-    r3Hint: "Alege regula de circulație corectă!",
-    r4Title: "Familie și Social",
-    r4Hint: "Cine este acest membru al familiei?",
-    r5Title: "Reciclare și Mediu",
-    r5Hint: "Unde se aruncă acest deșeu?",
-    roundOf: "Runda",
-    of: "din",
-    q_eye_organ: "Cu ce organ vedem?",
-    q_ear_organ: "Cu ce organ auzim?",
-    q_nose_organ: "Cu ce organ mirosim?",
-    a_eye: "Ochi",
-    a_ear: "Ureche",
-    a_nose: "Nas",
-    a_mouth: "Gură",
-    a_hand: "Mână",
-    a_knee: "Genunchi",
-    a_foot: "Picior",
-    a_elbow: "Cot",
-    q_snow_season: "În ce anotimp ninge?",
-    q_flower_season: "În ce anotimp înfloresc florile?",
-    q_leaf_season: "În ce anotimp cad frunzele din copaci?",
-    a_winter: "Iarnă",
-    a_spring: "Primăvară",
-    a_summer: "Vară",
-    a_autumn: "Toamnă",
-    q_red_light: "Ce înseamnă semaforul roșu?",
-    q_green_light: "Ce înseamnă semaforul verde?",
-    q_crosswalk: "Unde trebuie să treacă pietonii strada?",
-    q_helmet: "Ce porți pe cap când mergi cu bicicleta?",
-    a_stop: "Oprește-te",
-    a_go: "Mergi",
-    a_wait: "Așteaptă",
-    a_slow: "Mergi încet",
-    a_crosswalk: "La trecerea de pietoni",
-    a_anywhere: "Oriunde",
-    a_at_corner: "La colțul străzii",
-    a_in_middle: "În mijlocul drumului",
-    a_helmet: "Cască",
-    a_cap: "Șapcă",
-    a_sunglasses: "Ochelari de soare",
-    a_scarf: "Fular",
-    q_grandmother: "Mama mamei tale este…?",
-    q_uncle: "Fratele tatălui tău este…?",
-    q_cousin: "Copilul mătușii tale este…?",
-    a_grandmother: "Bunică",
-    a_grandfather: "Bunic",
-    a_aunt: "Mătușă",
-    a_sister: "Soră",
-    a_uncle: "Unchi",
-    a_father: "Tată",
-    a_brother: "Frate",
-    a_cousin: "Văr / Vară",
-    q_paper: "Unde arunci un ziar vechi?",
-    q_glass: "Unde arunci o sticlă de sticlă goală?",
-    q_plastic: "Unde arunci o sticlă de plastic?",
-    a_paper_bin: "Tomberon hârtie (albastru)",
-    a_glass_bin: "Container sticlă",
-    a_plastic_bin: "Sac galben / plastic",
-    a_organic_bin: "Gunoi organic / compost",
-    a_residual_bin: "Gunoi menajer",
-    a_electronics_bin: "Deșeuri electronice",
-    a_clothes_bin: "Container haine",
-    a_battery_bin: "Colectare baterii",
-    correct: "Corect!",
-    wrong: "Nu chiar!",
-    next: "Înainte",
-    finish: "Gata!",
-    score: "Puncte",
-  },
-} as const;
+    explorer_title: "Marele Test Recapitulativ",
+    t1_title: "Proba 1: Simțurile", t1_text: "Mai ții minte ce fac părțile corpului? Corpul nostru este foarte deștept!",
+    t1_b1: "Cu ochii vedem culorile.", t1_b2: "Cu urechile auzim muzica.", t1_b3: "Cu nasul simțim mirosurile.",
+    t1_inst: "Potrivește organul de simț cu rolul său!",
+    t1_l1: "Ochi 👁️", t1_r1: "Văz",
+    t1_l2: "Ureche 👂", t1_r2: "Auz",
+    t1_l3: "Limbă 👅", t1_r3: "Gust",
+    t1_q: "Cu ce simțim gustul bun al înghețatei?",
+    t1_q_a: "Cu limba", t1_q_b: "Cu urechile", t1_q_c: "Cu ochii", t1_q_d: "Cu părul",
 
-type Lang = keyof typeof LABELS;
-type LabelKey = keyof typeof LABELS.en;
-type Lbl = typeof LABELS.en;
+    t2_title: "Proba 2: Animalele", t2_text: "Unele animale trăiesc cu noi în casă, altele în pădurea deasă.",
+    t2_b1: "Noi hrănim animalele de companie.", t2_b2: "Animalele sălbatice își caută singure hrana.", t2_b3: "Trebuie să protejăm toate animalele!",
+    t2_inst: "De companie sau Sălbatic? Sortează-le!",
+    t2_bucket_hazi: "De companie 🏠", t2_bucket_vad: "Sălbatic 🌲",
+    t2_item_h1: "Câine", t2_item_h2: "Pisică",
+    t2_item_v1: "Urs", t2_item_v2: "Cerb",
+    t2_q: "Unde trăiesc ursul și cerbul?",
+    t2_q_a: "În pădure", t2_q_b: "În sufragerie", t2_q_c: "În bucătărie", t2_q_d: "La școală",
 
-// ─── Question types ─────────────────────────────────────────────────────────
+    t3_title: "Proba 3: Vremea", t3_text: "Trebuie să ne îmbrăcăm mereu în funcție de vremea de afară.",
+    t3_b1: "Dacă plouă, ne trebuie cizme de cauciuc.", t3_b2: "Dacă e soare, e bun un tricou.", t3_b3: "Iarna, dacă ninge, purtăm căciulă și fular.",
+    t3_inst: "Completează propoziția!", t3_gap_sentence: "Când iarna este foarte frig și cade {gap}, facem un om de zăpadă.",
+    t3_c1: "zăpada", t3_c2: "ploaia", t3_c3: "frunza",
+    t3_q: "Ce luăm cu noi dacă plouă?",
+    t3_q_a: "O umbrelă", t3_q_b: "Ochelari de soare", t3_q_c: "Costum de baie", t3_q_d: "Un sac de dormit",
 
-interface Question {
-  emoji: string;
-  qKey: LabelKey;
-  correctKey: LabelKey;
-  wrongKeys: [LabelKey, LabelKey, LabelKey];
-}
+    t4_title: "Proba 4: Traficul", t4_text: "Trecerea pe zebră e o regulă importantă! Mai știi ce faci înainte să pășești pe stradă?",
+    t4_b1: "Mereu oprește-te la marginea drumului.", t4_b2: "Uită-te la stânga, apoi la dreapta.", t4_b3: "Treci doar dacă nu vine nicio mașină!",
+    t4_inst: "Pune pașii în ordine pentru traversare!",
+    t4_w1: "Mă opresc", t4_w2: "Mă uit la stânga", t4_w3: "Mă uit la dreapta", t4_w4: "Traversez strada",
+    t4_q: "La ce culoare a semaforului e sigur să traversăm?",
+    t4_q_a: "La verde", t4_q_b: "La roșu", t4_q_c: "La galben", t4_q_d: "La negru",
 
-// ─── Round question pools ────────────────────────────────────────────────────
-
-const ROUND1_POOL: Question[] = [
-  { emoji: "👁️", qKey: "q_eye_organ",  correctKey: "a_eye",  wrongKeys: ["a_hand",  "a_mouth", "a_knee"] },
-  { emoji: "👂", qKey: "q_ear_organ",  correctKey: "a_ear",  wrongKeys: ["a_eye",   "a_nose",  "a_foot"] },
-  { emoji: "👃", qKey: "q_nose_organ", correctKey: "a_nose", wrongKeys: ["a_ear",   "a_elbow", "a_mouth"] },
-];
-
-const ROUND2_POOL: Question[] = [
-  { emoji: "❄️", qKey: "q_snow_season",   correctKey: "a_winter", wrongKeys: ["a_spring", "a_summer", "a_autumn"] },
-  { emoji: "🌸", qKey: "q_flower_season", correctKey: "a_spring", wrongKeys: ["a_winter", "a_summer", "a_autumn"] },
-  { emoji: "🍂", qKey: "q_leaf_season",   correctKey: "a_autumn", wrongKeys: ["a_spring", "a_summer", "a_winter"] },
-];
-
-const ROUND3_POOL: Question[] = [
-  { emoji: "🔴", qKey: "q_red_light",   correctKey: "a_stop",      wrongKeys: ["a_go",        "a_wait",     "a_slow"] },
-  { emoji: "🟢", qKey: "q_green_light", correctKey: "a_go",        wrongKeys: ["a_stop",       "a_wait",     "a_slow"] },
-  { emoji: "🚶", qKey: "q_crosswalk",   correctKey: "a_crosswalk", wrongKeys: ["a_anywhere",   "a_at_corner","a_in_middle"] },
-  { emoji: "🚲", qKey: "q_helmet",      correctKey: "a_helmet",    wrongKeys: ["a_cap",        "a_sunglasses","a_scarf"] },
-];
-
-const ROUND4_POOL: Question[] = [
-  { emoji: "👵", qKey: "q_grandmother", correctKey: "a_grandmother", wrongKeys: ["a_grandfather", "a_aunt",   "a_sister"] },
-  { emoji: "🧔", qKey: "q_uncle",       correctKey: "a_uncle",       wrongKeys: ["a_grandfather", "a_father", "a_brother"] },
-  { emoji: "🧒", qKey: "q_cousin",      correctKey: "a_cousin",      wrongKeys: ["a_sister",      "a_brother","a_aunt"] },
-];
-
-const ROUND5_POOL: Question[] = [
-  { emoji: "📰", qKey: "q_paper",   correctKey: "a_paper_bin",   wrongKeys: ["a_glass_bin",    "a_organic_bin", "a_residual_bin"] },
-  { emoji: "🍾", qKey: "q_glass",   correctKey: "a_glass_bin",   wrongKeys: ["a_paper_bin",    "a_plastic_bin", "a_residual_bin"] },
-  { emoji: "🥤", qKey: "q_plastic", correctKey: "a_plastic_bin", wrongKeys: ["a_organic_bin",  "a_glass_bin",   "a_battery_bin"] },
-];
-
-const ALL_POOLS = [ROUND1_POOL, ROUND2_POOL, ROUND3_POOL, ROUND4_POOL, ROUND5_POOL];
-
-const ROUND_TITLE_KEYS: LabelKey[] = ["r1Title", "r2Title", "r3Title", "r4Title", "r5Title"];
-const ROUND_HINT_KEYS:  LabelKey[] = ["r1Hint",  "r2Hint",  "r3Hint",  "r4Hint",  "r5Hint"];
-
-const ROUND_BG = [
-  "linear-gradient(135deg, #1a0533 0%, #2d0a4e 100%)",
-  "linear-gradient(135deg, #0a1f0a 0%, #0d3d0d 100%)",
-  "linear-gradient(135deg, #1a1000 0%, #3d2b00 100%)",
-  "linear-gradient(135deg, #00101f 0%, #002240 100%)",
-  "linear-gradient(135deg, #001a10 0%, #003322 100%)",
-];
-
-// ─── Helpers ─────────────────────────────────────────────────────────────────
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
+    t5_title: "Proba 5: Reciclarea", t5_text: "Dacă iubim natura, aruncăm gunoiul în coșul de culoarea potrivită!",
+    t5_b1: "Coșul albastru: hârtie.", t5_b2: "Coșul galben: plastic.", t5_b3: "Coșul verde: sticlă.",
+    t5_inst: "Care coș ce ascunde? Găsește culorile!",
+    t5_area_blue: "Albastru (Hârtie)", t5_area_yellow: "Galben (Plastic)", t5_area_green: "Verde (Sticlă)",
+    t5_q: "Unde aruncăm o sticlă goală de plastic?",
+    t5_q_a: "La coșul galben", t5_q_b: "La coșul albastru", t5_q_c: "În pădure", t5_q_d: "La coșul verde",
   }
-  return a;
-}
+};
 
-function pick3<T>(arr: T[]): [T, T, T] {
-  const s = shuffle(arr);
-  return [s[0], s[1], s[2]];
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-// Build a round: pick 3 questions from pool, shuffle each question's options
-function buildRound(pool: Question[]): Array<Question & { options: LabelKey[] }> {
-  const questions = pick3(pool);
-  return questions.map(q => ({
-    ...q,
-    options: shuffle([q.correctKey, ...q.wrongKeys]),
-  }));
-}
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <FiveSensesSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "hazi", label: "t2_bucket_hazi" },
+        { id: "vad", label: "t2_bucket_vad" },
+      ],
+      items: [
+        { text: "t2_item_h1", bucketId: "hazi" },
+        { text: "t2_item_v1", bucketId: "vad" },
+        { text: "t2_item_h2", bucketId: "hazi" },
+        { text: "t2_item_v2", bucketId: "vad" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <WeatherTypesSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b3",
+      hint2: "t3_b1",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <TrafficLightSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <RecyclingBinsSvg lang={lang} />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "blue",   x: 25, y: 50, label: "t5_area_blue" },
+        { id: "yellow", x: 50, y: 50, label: "t5_area_yellow" },
+        { id: "green",  x: 75, y: 50, label: "t5_area_green" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─── Props ───────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-interface Props {
-  color: string;
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🎉",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const SachkundeReviewExplorer = memo(function SachkundeReviewExplorer({
+  color = "#8B5CF6", // Ünnepi lila a fináléhoz
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
-
-// ─── MCQ Sub-component ───────────────────────────────────────────────────────
-
-interface MCQProps {
-  emoji: string;
-  question: string;
-  options: string[];
-  correctIndex: number;
-  answered: boolean;
-  selected: number | null;
-  onSelect: (i: number) => void;
-  color: string;
-  correctLabel: string;
-  wrongLabel: string;
-}
-
-function MCQ({ emoji, question, options, correctIndex, answered, selected, onSelect, color, correctLabel, wrongLabel }: MCQProps) {
+}) {
   return (
-    <div className="flex flex-col items-center gap-3 w-full">
-      <div className="text-4xl mt-1">{emoji}</div>
-      <div className="bg-white/[0.07] border border-white/10 rounded-2xl px-5 py-4 w-full text-center">
-        <p className="text-white font-bold text-base leading-snug">{question}</p>
-      </div>
-      <div className="flex flex-col gap-2 w-full">
-        {options.map((opt, i) => {
-          const isSelected = selected === i;
-          const isCorrect  = i === correctIndex;
-          let bg = "rgba(255,255,255,0.06)";
-          let border = "rgba(255,255,255,0.15)";
-          let textColor = "rgba(255,255,255,0.85)";
-          if (answered) {
-            if (isCorrect) { bg = "rgba(0,255,136,0.18)"; border = "#00FF88"; textColor = "#00FF88"; }
-            else if (isSelected) { bg = "rgba(255,45,120,0.18)"; border = "#FF2D78"; textColor = "#FF2D78"; }
-          } else if (isSelected) {
-            bg = `${color}22`; border = color; textColor = "#fff";
-          }
-          return (
-            <motion.button
-              key={i}
-              onClick={() => !answered && onSelect(i)}
-              disabled={answered}
-              className="py-3 px-4 rounded-xl font-bold text-sm text-left flex items-center gap-2 transition-colors"
-              style={{ background: bg, border: `2px solid ${border}`, color: textColor }}
-              whileTap={answered ? {} : { scale: 0.97 }}
-            >
-              {answered && isCorrect  && <CheckCircle2 size={15} className="shrink-0" style={{ color: "#00FF88" }} />}
-              {answered && isSelected && !isCorrect && <XCircle size={15} className="shrink-0" style={{ color: "#FF2D78" }} />}
-              {(!answered || (!isCorrect && !isSelected)) && (
-                <span className="w-4 h-4 rounded-full border shrink-0 inline-block"
-                  style={{ borderColor: border, background: isSelected ? color : "transparent" }} />
-              )}
-              {opt}
-            </motion.button>
-          );
-        })}
-      </div>
-      <AnimatePresence>
-        {answered && (
-          <motion.p
-            initial={{ opacity: 0, y: -4 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-            className="text-xs font-bold"
-            style={{ color: selected === correctIndex ? "#00FF88" : "#FF2D78" }}
-          >
-            {selected === correctIndex ? correctLabel : wrongLabel}
-          </motion.p>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_review" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-// ─── Main Component ──────────────────────────────────────────────────────────
-
-function SachkundeReviewExplorer({ color, lang = "de", onDone, onClose }: Props) {
-  const l = lang as Lang;
-  const lbl: Lbl = (LABELS[l] ?? LABELS.de) as Lbl;
-
-  const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
-  }, [lang]);
-
-  // Pre-build all 5 rounds once
-  const rounds = useMemo(() => ALL_POOLS.map(buildRound), []);
-
-  const TOTAL_QUESTIONS = rounds.reduce((s, r) => s + r.length, 0); // 5×3 = 15
-
-  const scoreRef = useRef(0);
-  const totalRef = useRef(TOTAL_QUESTIONS);
-
-  // Navigation state
-  const [roundIdx,    setRoundIdx]    = useState(0);
-  const [questionIdx, setQuestionIdx] = useState(0);
-  const [selected,    setSelected]    = useState<number | null>(null);
-  const [answered,    setAnswered]    = useState(false);
-
-  const currentRound    = rounds[roundIdx];
-  const currentQuestion = currentRound[questionIdx];
-  const correctIndex    = currentRound[questionIdx].options.indexOf(currentQuestion.correctKey);
-
-  const isLastQuestion = questionIdx === currentRound.length - 1;
-  const isLastRound    = roundIdx === rounds.length - 1;
-  const isDone         = isLastRound && isLastQuestion && answered;
-
-  const handleSelect = useCallback((i: number) => {
-    if (answered) return;
-    setSelected(i);
-    setAnswered(true);
-    const isCorrect = currentRound[questionIdx].options[i] === currentRound[questionIdx].correctKey;
-    if (isCorrect) scoreRef.current += 1;
-    else fireWrongAnswer({ question: lbl[currentQuestion.qKey], wrongAnswer: lbl[currentRound[questionIdx].options[i]], correctAnswer: lbl[currentQuestion.correctKey], topic: "Sachkunde Review", lang });
-  }, [answered, currentRound, questionIdx, lbl, currentQuestion, lang]);
-
-  const handleNext = useCallback(() => {
-    if (isDone) {
-      onDone(scoreRef.current, totalRef.current);
-      return;
-    }
-    if (isLastQuestion) {
-      setRoundIdx(r => r + 1);
-      setQuestionIdx(0);
-    } else {
-      setQuestionIdx(q => q + 1);
-    }
-    setSelected(null);
-    setAnswered(false);
-  }, [isDone, isLastQuestion, onDone]);
-
-  // Overall question number (1-based)
-  const globalQNum = rounds.slice(0, roundIdx).reduce((s, r) => s + r.length, 0) + questionIdx + 1;
-
-  const bgStyle = ROUND_BG[roundIdx];
-
-  return (
-    <div className="fixed inset-0 z-50 flex flex-col overflow-auto" style={{ background: bgStyle }}>
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-
-      {/* ── Header ── */}
-      <div className="flex flex-col items-center pt-5 pb-2 px-4 gap-1">
-        <p className="text-white font-black text-lg tracking-wide">{lbl.title}</p>
-        <p className="text-white/50 text-xs font-semibold uppercase tracking-widest">{lbl.subtitle}</p>
-
-        {/* Round progress dots */}
-        <div className="flex gap-1.5 mt-2">
-          {rounds.map((_, i) => (
-            <div key={i} className="w-2.5 h-2.5 rounded-full transition-all duration-300"
-              style={{
-                background: i < roundIdx
-                  ? "#00FF88"
-                  : i === roundIdx
-                    ? color
-                    : "rgba(255,255,255,0.15)",
-                transform: i === roundIdx ? "scale(1.25)" : "scale(1)",
-              }} />
-          ))}
-        </div>
-
-        {/* Round title & hint */}
-        <div className="flex items-center gap-2 justify-center">
-          <p className="text-white font-black text-base mt-3" style={{ color }}>
-            {lbl[ROUND_TITLE_KEYS[roundIdx]]}
-          </p>
-          <button onClick={() => speak(lbl[ROUND_TITLE_KEYS[roundIdx]] + ". " + lbl[ROUND_HINT_KEYS[roundIdx]])}
-            className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-            <Volume2 size={14} />
-          </button>
-        </div>
-        <p className="text-white/55 text-xs font-semibold text-center px-4">
-          {lbl[ROUND_HINT_KEYS[roundIdx]]}
-        </p>
-
-        {/* Question counter */}
-        <p className="text-white/35 text-[11px] font-bold mt-1">
-          {globalQNum} / {TOTAL_QUESTIONS}
-        </p>
-      </div>
-
-      {/* ── Question area ── */}
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={`${roundIdx}-${questionIdx}`}
-          initial={{ opacity: 0, x: 24 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -24 }}
-          transition={{ duration: 0.22 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-4 gap-3"
-        >
-          <MCQ
-            emoji={currentQuestion.emoji}
-            question={lbl[currentQuestion.qKey]}
-            options={currentQuestion.options.map(k => lbl[k])}
-            correctIndex={correctIndex}
-            answered={answered}
-            selected={selected}
-            onSelect={handleSelect}
-            color={color}
-            correctLabel={lbl.correct}
-            wrongLabel={lbl.wrong}
-          />
-        </motion.div>
-      </AnimatePresence>
-
-      {/* ── Next / Finish button ── */}
-      <div className="px-4 pb-8">
-        <motion.button
-          onClick={handleNext}
-          disabled={!answered}
-          className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2 transition-opacity"
-          style={{
-            background: answered
-              ? `linear-gradient(135deg, ${color}77, ${color}bb)`
-              : "rgba(255,255,255,0.08)",
-            border: `2px solid ${answered ? color : "rgba(255,255,255,0.12)"}`,
-            opacity: answered ? 1 : 0.45,
-          }}
-          whileTap={answered ? { scale: 0.97 } : {}}
-        >
-          {isDone ? lbl.finish : lbl.next}
-          {!isDone && <ChevronRight size={16} />}
-        </motion.button>
-      </div>
-    </div>
-  );
-}
-
-export default memo(SachkundeReviewExplorer);
+export default SachkundeReviewExplorer;
