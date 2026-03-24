@@ -5,7 +5,7 @@
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-import { EyeSvg, EarSvg, NoseSvg, SkinSvg } from "@/app/astro-biologie/svg";
+import { EyeSvg, EarSvg } from "@/app/astro-biologie/svg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
