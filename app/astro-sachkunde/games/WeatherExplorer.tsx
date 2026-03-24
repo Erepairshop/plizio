@@ -1,699 +1,381 @@
 "use client";
-// WeatherExplorer — Weather & Seasons (Wetter & Jahreszeiten)
-// 5 rounds: Weather Types MCQ, What to Wear MCQ, Seasons & Weather MCQ,
-//           Hot/Cold binary, Quick Review MCQ
-// All text in LABELS, randomized with useMemo+shuffle, answer lock-out, scoreRef/totalRef
+// WeatherExplorer.tsx — Sachkunde Island i4: Weather & Calendar (K1)
+// Topics: 1) Időjárás típusok 2) Hideg és meleg (Hőmérő) 3) A szivárvány 4) Napszakok és napok 5) Összefoglaló
 
-import { memo, useState, useCallback, useRef, useMemo } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+import { WeatherTypesSvg, ThermometerSvg, RainbowSvg } from "@/app/astro-sachkunde/svg/k1/NatureWeatherSvg";
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-// ─── Labels ─────────────────────────────────────────────────────────────────
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F8FAFC" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-40" y="-30" width="80" height="70" rx="5" fill="#FFFFFF" stroke="#CBD5E1" strokeWidth="2" />
+        <rect x="-40" y="-30" width="80" height="20" rx="5" fill="#EF4444" />
+        <circle cx="-20" cy="-35" r="4" fill="#94A3B8" />
+        <circle cx="20" cy="-35" r="4" fill="#94A3B8" />
+        <text x="0" y="20" fontSize="30" fontWeight="bold" fill="#334155" textAnchor="middle">7</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌧️</text>
+        <text x="25" y="5" fontSize="30" textAnchor="middle">☀️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    title: "Weather Explorer",
-
-    // Round 1 — Weather Types
-    round1Title: "What Weather Is This?",
-    round1Hint: "Look at the emoji and choose the correct weather type!",
-    round1Teach: "There are many types of weather: ☀️ sunny and warm, 🌧️ rainy and wet, ❄️ snowy and cold, 🌤️ cloudy, 💨 windy, and ⛈️ stormy with thunder and lightning. We check the weather to know what to wear!",
-
-    // Round 2 — What to wear
-    round2Title: "What Should You Wear?",
-    round2HintRain: "It's raining outside. What do you need?",
-    round2HintSnow: "It's snowing outside. What should you put on?",
-    round2HintSunny: "It's sunny and hot. What do you wear?",
-    round2Teach: "We dress for the weather! When it rains, we wear a raincoat and boots. When it's cold, we wear a warm jacket, hat and gloves. When it's sunny, we wear sunscreen and light clothes.",
-
-    // Round 3 — Seasons
-    round3Title: "Which Season?",
-    round3HintSnow: "Which season has snow and frost?",
-    round3HintFlowers: "Which season do flowers bloom and birds sing?",
-    round3HintHot: "Which season has the hottest days?",
-    round3HintLeaves: "Which season do leaves turn orange and fall?",
-    round3Teach: "A year has 4 seasons with different weather: 🌸 Spring (warm, flowers bloom), ☀️ Summer (hot, long days), 🍂 Autumn (cool, leaves fall), ❄️ Winter (cold, snow). Each season brings different clothes and activities!",
-
-    // Round 4 — Hot or cold
-    round4Title: "Hot or Cold?",
-    round4HintSnow: "What's the temperature when it's snowing?",
-    round4HintSun: "What's it like on a sunny summer day?",
-    round4HintRain: "What's a rainy autumn day usually like?",
-    round4HintFrost: "What happens to water when it's very cold outside?",
-    round4Teach: "Temperature tells us how hot or cold it is! Water freezes at 0°C and boils at 100°C. A nice day is about 20-25°C. Very hot days are above 30°C, and freezing days are below 0°C.",
-
-    // Round 5 — Quick Review
-    round5Title: "Quick Weather Review",
-    round5Hint: "Show what you know!",
-    round5Teach: "Let's see what you remember about weather, seasons, and temperature!",
-
-    gotIt: "Got it! →",
-
-    // Weather names (answer keys used in code + displayed)
-    sunny: "Sunny ☀️",
-    rainy: "Rainy 🌧️",
-    snowy: "Snowy ❄️",
-    windy: "Windy 💨",
-    cloudy: "Cloudy ☁️",
-    stormy: "Stormy ⛈️",
-
-    // Clothing items
-    umbrella: "Umbrella ☂️",
-    rainCoat: "Rain Coat 🧥",
-    sunglasses: "Sunglasses 🕶️",
-    sunscreen: "Sun Cream 🧴",
-    boots: "Snow Boots 👢",
-    scarf: "Scarf & Gloves 🧤",
-    hat: "Sun Hat 👒",
-
-    // Seasons
-    spring: "Spring 🌸",
-    summer: "Summer ☀️",
-    autumn: "Autumn 🍂",
-    winter: "Winter ⛄",
-
-    // Temp
-    hot: "Hot 🥵",
-    cold: "Cold 🥶",
-    cool: "Cool 🍃",
-    freezing: "Freezing 🧊",
-
-    correct: "Correct! ✓",
-    wrong: "Not quite!",
-    next: "Next",
-    finish: "Finish!",
-  },
-
-  de: {
-    title: "Wetter-Entdecker",
-
-    round1Title: "Welches Wetter ist das?",
-    round1Hint: "Schau dir das Emoji an und wähle den richtigen Wettertyp!",
-    round1Teach: "Es gibt viele Arten von Wetter: ☀️ sonnig und warm, 🌧️ regnerisch und nass, ❄️ verschneit und kalt, 🌤️ bewölkt, 💨 windig und ⛈️ Gewitter mit Donner und Blitzschlag. Wir schauen auf das Wetter, um zu wissen, was wir anziehen!",
-
-    round2Title: "Was ziehst du an?",
-    round2HintRain: "Es regnet draußen. Was brauchst du?",
-    round2HintSnow: "Es schneit draußen. Was ziehst du an?",
-    round2HintSunny: "Die Sonne scheint und es ist heiß. Was trägst du?",
-    round2Teach: "Wir kleiden uns je nach Wetter an! Wenn es regnet, tragen wir einen Regenmantel und Stiefel. Wenn es kalt ist, tragen wir eine warme Jacke, Mütze und Handschuhe. Wenn es sonnig ist, tragen wir Sonnencreme und leichte Kleidung.",
-
-    round3Title: "Welche Jahreszeit?",
-    round3HintSnow: "In welcher Jahreszeit gibt es Schnee und Frost?",
-    round3HintFlowers: "In welcher Jahreszeit blühen Blumen und singen Vögel?",
-    round3HintHot: "Welche Jahreszeit hat die heißesten Tage?",
-    round3HintLeaves: "In welcher Jahreszeit werden die Blätter orange und fallen?",
-    round3Teach: "Ein Jahr hat 4 Jahreszeiten mit unterschiedlichem Wetter: 🌸 Frühling (warm, Blüten), ☀️ Sommer (heiß, lange Tage), 🍂 Herbst (kühl, Blätter fallen), ❄️ Winter (kalt, Schnee). Jede Jahreszeit bringt andere Kleidung und Aktivitäten!",
-
-    round4Title: "Warm oder kalt?",
-    round4HintSnow: "Wie ist die Temperatur, wenn es schneit?",
-    round4HintSun: "Wie ist es an einem sonnigen Sommertag?",
-    round4HintRain: "Wie ist ein regnerischer Herbsttag meistens?",
-    round4HintFrost: "Was passiert mit Wasser, wenn es sehr kalt ist?",
-    round4Teach: "Temperatur sagt uns, wie heiß oder kalt es ist! Wasser gefriert bei 0°C und kocht bei 100°C. Ein schöner Tag ist etwa 20-25°C. Sehr heiße Tage sind über 30°C, und eiskalte Tage sind unter 0°C.",
-
-    round5Title: "Schnelle Wetter-Wiederholung",
-    round5Hint: "Zeig, was du weißt!",
-    round5Teach: "Mal sehen, was du über Wetter, Jahreszeiten und Temperatur gelernt hast!",
-
-    gotIt: "Verstanden! →",
-
-    sunny: "Sonnig ☀️",
-    rainy: "Regnerisch 🌧️",
-    snowy: "Verschneit ❄️",
-    windy: "Windig 💨",
-    cloudy: "Bewölkt ☁️",
-    stormy: "Gewitter ⛈️",
-
-    umbrella: "Regenschirm ☂️",
-    rainCoat: "Regenmantel 🧥",
-    sunglasses: "Sonnenbrille 🕶️",
-    sunscreen: "Sonnencreme 🧴",
-    boots: "Schneestiefel 👢",
-    scarf: "Schal & Handschuhe 🧤",
-    hat: "Sonnenhut 👒",
-
-    spring: "Frühling 🌸",
-    summer: "Sommer ☀️",
-    autumn: "Herbst 🍂",
-    winter: "Winter ⛄",
-
-    hot: "Heiß 🥵",
-    cold: "Kalt 🥶",
-    cool: "Kühl 🍃",
-    freezing: "Eiskalt 🧊",
-
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz!",
-    next: "Weiter",
-    finish: "Fertig!",
-  },
-
   hu: {
-    title: "Időjárás-felfedező",
+    explorer_title: "Időjárás és Naptár",
+    // T1: Időjárás (Match-pairs)
+    t1_title: "Milyen az idő?",
+    t1_text: "Ha kinézel az ablakon, láthatod, milyen az időjárás. Néha süt a nap, máskor esik az eső vagy fúj a szél.",
+    t1_b1: "Napsütésben világos van és meleg.",
+    t1_b2: "Esőben vizesek leszünk, kell az esernyő.",
+    t1_b3: "A szél fújja a faleveleket és a hajunkat.",
+    t1_inst: "Párosítsd a képet az időjárással!",
+    t1_l1: "☀️", t1_r1: "Napsütés",
+    t1_l2: "🌧️", t1_r2: "Eső",
+    t1_l3: "💨", t1_r3: "Szél",
+    t1_q: "Mit viszünk magunkkal, ha esik az eső?",
+    t1_q_a: "Esernyőt", t1_q_b: "Napszemüveget", t1_q_c: "Fürdőruhát", t1_q_d: "Hóembert",
 
-    round1Title: "Milyen időjárás ez?",
-    round1Hint: "Nézd meg az emojit és válaszd a helyes időjárást!",
-    round1Teach: "Sokféle időjárás létezik: ☀️ napos és meleg, 🌧️ esős és nedves, ❄️ havas és hideg, 🌤️ felhős, 💨 szeles és ⛈️ viharos villámlásokkal és dörgésekkel. Az időjárást figyeljük, hogy tudjuk, mit kell felvenni!",
+    // T2: Hőmérő (Drag-to-bucket)
+    t2_title: "Hideg vagy meleg?",
+    t2_text: "A hőmérő mutatja meg nekünk, hogy kint hideg van vagy meleg. Ha a piros csík magasan van, akkor meleg van.",
+    t2_b1: "Nyáron meleg van, a hőmérő sokat mutat.",
+    t2_b2: "Télen hideg van, a hó is eshet.",
+    t2_b3: "Vigyázz a forró teával, mert megégethet!",
+    t2_inst: "Hideg vagy Meleg? Válogasd szét a dolgokat!",
+    t2_bucket_hideg: "Hideg ❄️",
+    t2_bucket_meleg: "Meleg 🔥",
+    t2_item_h1: "Hóember", t2_item_h2: "Jégkrém",
+    t2_item_m1: "Forró tea", t2_item_m2: "Tábortűz",
+    t2_q: "Mivel mérjük meg, hogy milyen meleg van a szobában?",
+    t2_q_a: "Hőmérővel", t2_q_b: "Vonalzóval", t2_q_c: "Órával", t2_q_d: "Mérleggel",
 
-    round2Title: "Mit vegyél fel?",
-    round2HintRain: "Odakint esik az eső. Mire van szükséged?",
-    round2HintSnow: "Odakint havazik. Mit vegyél fel?",
-    round2HintSunny: "Süt a nap és meleg van. Mit viselsz?",
-    round2Teach: "Az időjárásnak megfelelően öltözödünk! Amikor esik, esőkabátot és csizmát viselünk. Amikor hideg van, meleg kabátot, sapkát és kesztyűt viselünk. Amikor napos van, naptejet és könnyű ruhákat viselünk.",
+    // T3: Szivárvány (Gap-fill)
+    t3_title: "A színes szivárvány",
+    t3_text: "Láttál már szivárványt az égen? Nagyon szép és sok színből áll: piros, narancs, sárga, zöld, kék, lila.",
+    t3_b1: "Szivárvány akkor lesz, ha egyszerre esik az eső és süt a nap.",
+    t3_b2: "A vízcseppek bontják fel a fényt színekre.",
+    t3_b3: "Soha nem lehet megfogni a végét!",
+    t3_inst: "Egészítsd ki a mondatot!",
+    t3_gap_sentence: "A szivárványhoz esőre és {gap} van szükség.",
+    t3_c1: "napsütésre", t3_c2: "hóra", t3_c3: "sötétségre",
+    t3_q: "Mikor jelenik meg a szivárvány?",
+    t3_q_a: "Ha esik az eső és közben süt a nap", t3_q_b: "Éjszaka a sötétben", t3_q_c: "Ha nagyon fúj a szél", t3_q_d: "Télen a hóesésben",
 
-    round3Title: "Melyik évszak?",
-    round3HintSnow: "Melyik évszakban van hó és fagy?",
-    round3HintFlowers: "Melyik évszakban nyílnak virágok és énekelnek madarak?",
-    round3HintHot: "Melyik évszaknak vannak a legmelegebb napjai?",
-    round3HintLeaves: "Melyik évszakban sárgulnak és hullanak a levelek?",
-    round3Teach: "Az év 4 évszakból áll különböző időjárással: 🌸 tavasz (meleg, virágok nyílnak), ☀️ nyár (forró, hosszú napok), 🍂 ősz (hűvös, levelek hulnak), ❄️ tél (hideg, hó). Minden évszak más ruhákat és tevékenységeket hoz!",
+    // T4: Naptár (Word-order)
+    t4_title: "Napszakok és napok",
+    t4_text: "Egy nap reggel kezdődik és este ér véget. Hét napból áll egy hét, amit a naptárban tudunk megnézni.",
+    t4_b1: "Reggel felkelünk, délben ebédelünk, este alszunk.",
+    t4_b2: "Egy héten 7 nap van.",
+    t4_b3: "Szombaton és vasárnap nincs iskola, ez a hétvége!",
+    t4_inst: "Tedd sorba a napszakokat, ahogy következnek!",
+    t4_w1: "Reggel", t4_w2: "Dél", t4_w3: "Este", t4_w4: "Éjszaka",
+    t4_q: "Hány napból áll egy teljes hét?",
+    t4_q_a: "Hét napból", t4_q_b: "Öt napból", t4_q_c: "Tíz napból", t4_q_d: "Három napból",
 
-    round4Title: "Meleg vagy hideg?",
-    round4HintSnow: "Milyen a hőmérséklet, amikor havazik?",
-    round4HintSun: "Milyen egy napsütéses nyári napon?",
-    round4HintRain: "Milyen általában egy esős őszi nap?",
-    round4HintFrost: "Mi történik a vízzel, amikor nagyon hideg van odakint?",
-    round4Teach: "A hőmérséklet megmutatja, hogy meleg vagy hideg van! A víz 0°C-nál fagyott és 100°C-nál forr. Egy szép nap körülbelül 20-25°C. Nagyon meleg napok 30°C felett vannak, és fagy napok 0°C alatt.",
-
-    round5Title: "Gyors időjárás-összefoglaló",
-    round5Hint: "Mutasd meg, mit tudsz!",
-    round5Teach: "Nézzük meg, mit tanultál az időjárásról, évszakokról és hőmérsékletről!",
-
-    gotIt: "Értettem! →",
-
-    sunny: "Napos ☀️",
-    rainy: "Esős 🌧️",
-    snowy: "Havas ❄️",
-    windy: "Szeles 💨",
-    cloudy: "Felhős ☁️",
-    stormy: "Viharos ⛈️",
-
-    umbrella: "Esernyő ☂️",
-    rainCoat: "Esőkabát 🧥",
-    sunglasses: "Napszemüveg 🕶️",
-    sunscreen: "Napkrém 🧴",
-    boots: "Hócipő 👢",
-    scarf: "Sál & Kesztyű 🧤",
-    hat: "Napellenző 👒",
-
-    spring: "Tavasz 🌸",
-    summer: "Nyár ☀️",
-    autumn: "Ősz 🍂",
-    winter: "Tél ⛄",
-
-    hot: "Meleg 🥵",
-    cold: "Hideg 🥶",
-    cool: "Hűvös 🍃",
-    freezing: "Fagyos 🧊",
-
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen!",
-    next: "Tovább",
-    finish: "Befejezés!",
+    // T5: Összefoglaló
+    t5_title: "Időjárás mester",
+    t5_text: "Most már tudod, hogyan működik a hőmérő és mit jelent az időjárásjelentés!",
+    t5_b1: "Az esernyő véd az eső ellen.",
+    t5_b2: "A hőmérő méri a meleget.",
+    t5_b3: "A hét 7 napból áll.",
+    t5_inst: "Milyen az idő, ha repülnek a falevelek a fákról?",
+    t5_gap_sentence2: "Ha nagyon fúj a {gap}, a fák ágai is mozognak.",
+    t5_c51: "szél", t5_c52: "nap", t5_c53: "hó",
+    t5_q: "Mit mutat a naptár?",
+    t5_q_a: "A napokat és a hónapokat", t5_q_b: "A pontos időt órában", t5_q_c: "A hőmérsékletet", t5_q_d: "A testsúlyunkat",
   },
+  en: {
+    explorer_title: "Weather & Calendar",
+    t1_title: "How is the weather?", t1_text: "If you look out the window, you can see the weather. Sometimes the sun shines, sometimes it rains or the wind blows.",
+    t1_b1: "In the sunshine, it is bright and warm.", t1_b2: "In the rain, we get wet and need an umbrella.", t1_b3: "The wind blows the leaves and our hair.",
+    t1_inst: "Match the picture with the weather!",
+    t1_l1: "☀️", t1_r1: "Sunshine",
+    t1_l2: "🌧️", t1_r2: "Rain",
+    t1_l3: "💨", t1_r3: "Wind",
+    t1_q: "What do we take with us when it rains?",
+    t1_q_a: "An umbrella", t1_q_b: "Sunglasses", t1_q_c: "A swimsuit", t1_q_d: "A snowman",
 
+    t2_title: "Hot or Cold?", t2_text: "The thermometer shows us if it's hot or cold outside. If the red line is high, it is hot.",
+    t2_b1: "In summer it is hot, the thermometer is high.", t2_b2: "In winter it is cold, and it might snow.", t2_b3: "Be careful with hot tea, it can burn you!",
+    t2_inst: "Hot or Cold? Sort the things!",
+    t2_bucket_hideg: "Cold ❄️", t2_bucket_meleg: "Hot 🔥",
+    t2_item_h1: "Snowman", t2_item_h2: "Ice cream",
+    t2_item_m1: "Hot tea", t2_item_m2: "Campfire",
+    t2_q: "What do we use to measure how hot the room is?",
+    t2_q_a: "A thermometer", t2_q_b: "A ruler", t2_q_c: "A clock", t2_q_d: "A scale",
+
+    t3_title: "The Colorful Rainbow", t3_text: "Have you ever seen a rainbow? It is very beautiful and has many colors: red, orange, yellow, green, blue, purple.",
+    t3_b1: "A rainbow appears when it rains and the sun shines at the same time.", t3_b2: "Water drops split the light into colors.", t3_b3: "You can never touch the end of it!",
+    t3_inst: "Complete the sentence!", t3_gap_sentence: "For a rainbow, you need rain and {gap}.",
+    t3_c1: "sunshine", t3_c2: "snow", t3_c3: "darkness",
+    t3_q: "When does a rainbow appear?",
+    t3_q_a: "When it rains and the sun shines together", t3_q_b: "At night in the dark", t3_q_c: "When the wind blows hard", t3_q_d: "In winter during snow",
+
+    t4_title: "Times of Day & Calendar", t4_text: "A day starts in the morning and ends at night. A week has seven days, which we can see on a calendar.",
+    t4_b1: "We wake up in the morning, eat lunch at noon, sleep at night.", t4_b2: "There are 7 days in a week.", t4_b3: "No school on Saturday and Sunday, that's the weekend!",
+    t4_inst: "Put the times of day in the right order!",
+    t4_w1: "Morning", t4_w2: "Noon", t4_w3: "Evening", t4_w4: "Night",
+    t4_q: "How many days are in a full week?",
+    t4_q_a: "Seven days", t4_q_b: "Five days", t4_q_c: "Ten days", t4_q_d: "Three days",
+
+    t5_title: "Weather Master", t5_text: "Now you know how the thermometer works and what the weather forecast means!",
+    t5_b1: "An umbrella protects from rain.", t5_b2: "A thermometer measures heat.", t5_b3: "A week has 7 days.",
+    t5_inst: "What is the weather like if leaves fly off the trees?",
+    t5_gap_sentence2: "If the {gap} blows hard, the tree branches move.",
+    t5_c51: "wind", t5_c52: "sun", t5_c53: "snow",
+    t5_q: "What does the calendar show?",
+    t5_q_a: "The days and months", t5_q_b: "The exact time in hours", t5_q_c: "The temperature", t5_q_d: "Our body weight",
+  },
+  de: {
+    explorer_title: "Wetter & Kalender",
+    t1_title: "Wie ist das Wetter?", t1_text: "Wenn du aus dem Fenster schaust, siehst du das Wetter. Manchmal scheint die Sonne, mal regnet es oder der Wind weht.",
+    t1_b1: "Bei Sonnenschein ist es hell und warm.", t1_b2: "Beim Regen werden wir nass, wir brauchen einen Schirm.", t1_b3: "Der Wind bläst die Blätter und unsere Haare.",
+    t1_inst: "Verbinde das Bild mit dem Wetter!",
+    t1_l1: "☀️", t1_r1: "Sonnenschein",
+    t1_l2: "🌧️", t1_r2: "Regen",
+    t1_l3: "💨", t1_r3: "Wind",
+    t1_q: "Was nehmen wir mit, wenn es regnet?",
+    t1_q_a: "Einen Regenschirm", t1_q_b: "Eine Sonnenbrille", t1_q_c: "Einen Badeanzug", t1_q_d: "Einen Schneemann",
+
+    t2_title: "Kalt oder warm?", t2_text: "Das Thermometer zeigt uns, ob es draußen kalt oder warm ist. Wenn der rote Strich weit oben ist, ist es warm.",
+    t2_b1: "Im Sommer ist es warm, das Thermometer zeigt viel an.", t2_b2: "Im Winter ist es kalt, es kann schneien.", t2_b3: "Vorsicht bei heißem Tee, er kann dich verbrennen!",
+    t2_inst: "Kalt oder Warm? Sortiere die Dinge!",
+    t2_bucket_hideg: "Kalt ❄️", t2_bucket_meleg: "Warm 🔥",
+    t2_item_h1: "Schneemann", t2_item_h2: "Eiscreme",
+    t2_item_m1: "Heißer Tee", t2_item_m2: "Lagerfeuer",
+    t2_q: "Womit messen wir, wie warm es im Zimmer ist?",
+    t2_q_a: "Mit einem Thermometer", t2_q_b: "Mit einem Lineal", t2_q_c: "Mit einer Uhr", t2_q_d: "Mit einer Waage",
+
+    t3_title: "Der bunte Regenbogen", t3_text: "Hast du schon mal einen Regenbogen gesehen? Er ist sehr schön und hat viele Farben: rot, orange, gelb, grün, blau, lila.",
+    t3_b1: "Ein Regenbogen entsteht, wenn es regnet und gleichzeitig die Sonne scheint.", t3_b2: "Wassertropfen teilen das Licht in Farben.", t3_b3: "Man kann sein Ende nie berühren!",
+    t3_inst: "Ergänze den Satz!", t3_gap_sentence: "Für einen Regenbogen braucht man Regen und {gap}.",
+    t3_c1: "Sonnenschein", t3_c2: "Schnee", t3_c3: "Dunkelheit",
+    t3_q: "Wann erscheint ein Regenbogen?",
+    t3_q_a: "Wenn es regnet und die Sonne scheint", t3_q_b: "Nachts im Dunkeln", t3_q_c: "Wenn der Wind stark weht", t3_q_d: "Im Winter beim Schneien",
+
+    t4_title: "Tageszeiten & Kalender", t4_text: "Ein Tag beginnt am Morgen und endet in der Nacht. Eine Woche hat 7 Tage. Das steht im Kalender.",
+    t4_b1: "Morgens wachen wir auf, mittags essen wir, nachts schlafen wir.", t4_b2: "Eine Woche hat 7 Tage.", t4_b3: "Samstag und Sonntag ist keine Schule, das ist das Wochenende!",
+    t4_inst: "Bringe die Tageszeiten in die richtige Reihenfolge!",
+    t4_w1: "Morgen", t4_w2: "Mittag", t4_w3: "Abend", t4_w4: "Nacht",
+    t4_q: "Wie viele Tage hat eine ganze Woche?",
+    t4_q_a: "Sieben Tage", t4_q_b: "Fünf Tage", t4_q_c: "Zehn Tage", t4_q_d: "Drei Tage",
+
+    t5_title: "Wetter-Meister", t5_text: "Jetzt weißt du, wie ein Thermometer funktioniert und was das Wetter bedeutet!",
+    t5_b1: "Der Schirm schützt vor Regen.", t5_b2: "Das Thermometer misst die Wärme.", t5_b3: "Die Woche hat 7 Tage.",
+    t5_inst: "Wie ist das Wetter, wenn Blätter vom Baum fliegen?",
+    t5_gap_sentence2: "Wenn der {gap} weht, bewegen sich die Äste.",
+    t5_c51: "Wind", t5_c52: "Sonne", t5_c53: "Schnee",
+    t5_q: "Was zeigt der Kalender an?",
+    t5_q_a: "Die Tage und Monate", t5_q_b: "Die genaue Uhrzeit", t5_q_c: "Die Temperatur", t5_q_d: "Unser Gewicht",
+  },
   ro: {
-    title: "Exploratorul vremii",
+    explorer_title: "Vremea și Calendarul",
+    t1_title: "Cum e vremea?", t1_text: "Dacă te uiți pe fereastră, vezi cum este vremea. Uneori e soare, alteori plouă sau bate vântul.",
+    t1_b1: "Când e soare, este lumină și cald.", t1_b2: "Când plouă, ne udăm și avem nevoie de umbrelă.", t1_b3: "Vântul suflă frunzele și părul nostru.",
+    t1_inst: "Potrivește imaginea cu vremea!",
+    t1_l1: "☀️", t1_r1: "Soare",
+    t1_l2: "🌧️", t1_r2: "Ploaie",
+    t1_l3: "💨", t1_r3: "Vânt",
+    t1_q: "Ce luăm cu noi când plouă?",
+    t1_q_a: "O umbrelă", t1_q_b: "Ochelari de soare", t1_q_c: "Costum de baie", t1_q_d: "Un om de zăpadă",
 
-    round1Title: "Ce vreme este aceasta?",
-    round1Hint: "Privește emoji-ul și alege tipul corect de vreme!",
-    round1Teach: "Există multe tipuri de vreme: ☀️ însorit și cald, 🌧️ ploios și umed, ❄️ nins și frig, 🌤️ noros, 💨 vântos și ⛈️ furtunos cu tunet și fulger. Urmărim vremea ca să știm ce să purtăm!",
+    t2_title: "Cald sau rece?", t2_text: "Termometrul ne arată dacă afară este cald sau frig. Dacă linia roșie este sus, atunci e cald.",
+    t2_b1: "Vara este cald, termometrul arată mult.", t2_b2: "Iarna este frig și poate ninge.", t2_b3: "Atenție la ceaiul fierbinte, te poate arde!",
+    t2_inst: "Cald sau Rece? Sortează lucrurile!",
+    t2_bucket_hideg: "Rece ❄️", t2_bucket_meleg: "Cald 🔥",
+    t2_item_h1: "Om de zăpadă", t2_item_h2: "Înghețată",
+    t2_item_m1: "Ceai fierbinte", t2_item_m2: "Foc de tabără",
+    t2_q: "Cu ce măsurăm cât de cald este în cameră?",
+    t2_q_a: "Cu un termometru", t2_q_b: "Cu o riglă", t2_q_c: "Cu un ceas", t2_q_d: "Cu un cântar",
 
-    round2Title: "Ce să îmbraci?",
-    round2HintRain: "Afară plouă. De ce ai nevoie?",
-    round2HintSnow: "Afară ninge. Ce să îmbraci?",
-    round2HintSunny: "Soarele strălucește și e cald. Ce porți?",
-    round2Teach: "Ne îmbrăcăm în funcție de vreme! Când plouă, purtăm impermeabil și cizme. Când e frig, purtăm geacă caldă, pălărie și mănuși. Când e însorit, purtăm cremă de soare și haine ușoare.",
+    t3_title: "Curcubeul colorat", t3_text: "Ai văzut vreodată un curcubeu? Este foarte frumos și are multe culori: roșu, portocaliu, galben, verde, albastru, mov.",
+    t3_b1: "Curcubeul apare când plouă și e soare în același timp.", t3_b2: "Picăturile de apă despart lumina în culori.", t3_b3: "Nu poți atinge niciodată capătul lui!",
+    t3_inst: "Completează propoziția!", t3_gap_sentence: "Pentru un curcubeu, este nevoie de ploaie și de {gap}.",
+    t3_c1: "soare", t3_c2: "zăpadă", t3_c3: "întuneric",
+    t3_q: "Când apare curcubeul?",
+    t3_q_a: "Când plouă și e soare în același timp", t3_q_b: "Noaptea pe întuneric", t3_q_c: "Când bate vântul tare", t3_q_d: "Iarna când ninge",
 
-    round3Title: "Ce anotimp?",
-    round3HintSnow: "În ce anotimp există zăpadă și ger?",
-    round3HintFlowers: "În ce anotimp înfloresc florile și cântă păsurile?",
-    round3HintHot: "Ce anotimp are cele mai călduroase zile?",
-    round3HintLeaves: "În ce anotimp frunzele devin portocalii și cad?",
-    round3Teach: "Anul are 4 anotimpuri cu vremuri diferite: 🌸 primăvara (cald, înfloresc florile), ☀️ vara (fierbinte, zile lungi), 🍂 toamna (răcoare, cad frunzele), ❄️ iarna (frig, zăpadă). Fiecare anotimp aduce alte haine și activități!",
+    t4_title: "Momentele zilei", t4_text: "O zi începe dimineața și se termină noaptea. O săptămână are 7 zile, pe care le vedem în calendar.",
+    t4_b1: "Dimineața ne trezim, la prânz mâncăm, noaptea dormim.", t4_b2: "O săptămână are 7 zile.", t4_b3: "Sâmbăta și duminica nu e școală, e weekend!",
+    t4_inst: "Pune momentele zilei în ordinea corectă!",
+    t4_w1: "Dimineața", t4_w2: "Prânz", t4_w3: "Seara", t4_w4: "Noaptea",
+    t4_q: "Câte zile are o săptămână întreagă?",
+    t4_q_a: "Șapte zile", t4_q_b: "Cinci zile", t4_q_c: "Zece zile", t4_q_d: "Trei zile",
 
-    round4Title: "Cald sau frig?",
-    round4HintSnow: "Ce temperatură este când ninge?",
-    round4HintSun: "Cum este într-o zi însorită de vară?",
-    round4HintRain: "Cum este de obicei o zi ploioasă de toamnă?",
-    round4HintFrost: "Ce se întâmplă cu apa când e foarte frig afară?",
-    round4Teach: "Temperatura ne spune cum de cald sau frig este! Apa se îngheață la 0°C și fierbe la 100°C. O zi frumoasă este aproximativ 20-25°C. Zilele foarte calde sunt peste 30°C, și zilele îngheț sunt sub 0°C.",
-
-    round5Title: "Recapitulare rapidă",
-    round5Hint: "Arată ce știi!",
-    round5Teach: "Hai să vedem ce ai învățat despre vreme, anotimpuri și temperatură!",
-
-    gotIt: "Am înțeles! →",
-
-    sunny: "Însorit ☀️",
-    rainy: "Ploios 🌧️",
-    snowy: "Nins ❄️",
-    windy: "Vântos 💨",
-    cloudy: "Noros ☁️",
-    stormy: "Furtunos ⛈️",
-
-    umbrella: "Umbrelă ☂️",
-    rainCoat: "Impermeabil 🧥",
-    sunglasses: "Ochelari de soare 🕶️",
-    sunscreen: "Cremă de soare 🧴",
-    boots: "Cizme de zăpadă 👢",
-    scarf: "Fular & Mănuși 🧤",
-    hat: "Pălărie de soare 👒",
-
-    spring: "Primăvară 🌸",
-    summer: "Vară ☀️",
-    autumn: "Toamnă 🍂",
-    winter: "Iarnă ⛄",
-
-    hot: "Cald 🥵",
-    cold: "Frig 🥶",
-    cool: "Răcoare 🍃",
-    freezing: "Înghețat 🧊",
-
-    correct: "Corect! ✓",
-    wrong: "Nu chiar!",
-    next: "Înainte",
-    finish: "Gata!",
-  },
+    t5_title: "Maestrul vremii", t5_text: "Acum știi cum funcționează termometrul și cum este vremea!",
+    t5_b1: "Umbrela ne apără de ploaie.", t5_b2: "Termometrul măsoară căldura.", t5_b3: "Săptămâna are 7 zile.",
+    t5_inst: "Cum e vremea când frunzele zboară din copaci?",
+    t5_gap_sentence2: "Când bate {gap} tare, se mișcă și crengile copacilor.",
+    t5_c51: "vântul", t5_c52: "soarele", t5_c53: "zăpada",
+    t5_q: "Ce ne arată calendarul?",
+    t5_q_a: "Zilele și lunile", t5_q_b: "Ora exactă", t5_q_c: "Temperatura", t5_q_d: "Greutatea noastră",
+  }
 };
 
-// ─── Helpers ─────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-function shuffle<T>(arr: T[]): T[] {
-  const copy = [...arr];
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <WeatherTypesSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <ThermometerSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "hideg", label: "t2_bucket_hideg" },
+        { id: "meleg", label: "t2_bucket_meleg" },
+      ],
+      items: [
+        { text: "t2_item_h1", bucketId: "hideg" },
+        { text: "t2_item_m1", bucketId: "meleg" },
+        { text: "t2_item_h2", bucketId: "hideg" },
+        { text: "t2_item_m2", bucketId: "meleg" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <RainbowSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-function pick<T>(arr: T[]): T {
-  return arr[Math.floor(Math.random() * arr.length)];
-}
+// ─── DEF ────────────────────────────────────────────────────────────
 
-// ─── Question types ───────────────────────────────────────────────────────────
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🌧️",
+  topics: TOPICS,
+  rounds: [],
+};
 
-interface MCQQuestion {
-  questionKey: string;     // key into lbl for the question text
-  emoji?: string;          // optional big emoji display
-  correctKey: string;      // language-independent answer key
-  wrongKeys: string[];     // 3 wrong answer keys (from lbl)
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-// ─── Component ───────────────────────────────────────────────────────────────
-
-const TOTAL_ROUNDS = 5;
-
-function WeatherExplorer({ color, lang = "de", onDone, onClose }: Props) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-
-  const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
-  }, [lang]);
-
-  const [round, setRound] = useState(0);
-  const scoreRef = useRef(0);
-  const totalRef = useRef(0);
-
-  // Teaching phase state
-  const [showTeach, setShowTeach] = useState(true);
-
-  // Per-round answer state (reset on advance)
-  const [qIndex, setQIndex] = useState(0);
-  const [selectedKey, setSelectedKey] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-
-  // ── Round 1: Weather Types — show emoji, pick weather name ──────────────────
-  const r1Questions = useMemo<MCQQuestion[]>(() => {
-    const pool: MCQQuestion[] = [
-      { questionKey: "round1Hint", emoji: "☀️", correctKey: "sunny",  wrongKeys: ["rainy", "cloudy", "windy"] },
-      { questionKey: "round1Hint", emoji: "🌧️", correctKey: "rainy",  wrongKeys: ["sunny", "snowy", "stormy"] },
-      { questionKey: "round1Hint", emoji: "❄️", correctKey: "snowy",  wrongKeys: ["cloudy", "windy", "rainy"] },
-      { questionKey: "round1Hint", emoji: "💨", correctKey: "windy",  wrongKeys: ["sunny", "rainy", "cloudy"] },
-      { questionKey: "round1Hint", emoji: "☁️", correctKey: "cloudy", wrongKeys: ["sunny", "windy", "snowy"] },
-      { questionKey: "round1Hint", emoji: "⛈️", correctKey: "stormy", wrongKeys: ["rainy", "cloudy", "windy"] },
-    ];
-    return shuffle(pool).slice(0, 4);
-  }, []);
-
-  // ── Round 2: What to Wear ───────────────────────────────────────────────────
-  const r2Questions = useMemo<MCQQuestion[]>(() => {
-    const pool: MCQQuestion[] = [
-      { questionKey: "round2HintRain",  correctKey: "umbrella",   wrongKeys: ["sunglasses", "hat", "sunscreen"] },
-      { questionKey: "round2HintSnow",  correctKey: "boots",      wrongKeys: ["sunglasses", "hat", "sunscreen"] },
-      { questionKey: "round2HintSnow",  correctKey: "scarf",      wrongKeys: ["umbrella", "sunglasses", "sunscreen"] },
-      { questionKey: "round2HintRain",  correctKey: "rainCoat",   wrongKeys: ["hat", "sunscreen", "sunglasses"] },
-      { questionKey: "round2HintSunny", correctKey: "sunglasses", wrongKeys: ["umbrella", "boots", "scarf"] },
-      { questionKey: "round2HintSunny", correctKey: "hat",        wrongKeys: ["umbrella", "boots", "scarf"] },
-    ];
-    return shuffle(pool).slice(0, 3);
-  }, []);
-
-  // ── Round 3: Seasons & Weather ─────────────────────────────────────────────
-  const r3Questions = useMemo<MCQQuestion[]>(() => {
-    const pool: MCQQuestion[] = [
-      { questionKey: "round3HintSnow",    correctKey: "winter", wrongKeys: ["spring", "summer", "autumn"] },
-      { questionKey: "round3HintFlowers", correctKey: "spring", wrongKeys: ["winter", "summer", "autumn"] },
-      { questionKey: "round3HintHot",     correctKey: "summer", wrongKeys: ["spring", "winter", "autumn"] },
-      { questionKey: "round3HintLeaves",  correctKey: "autumn", wrongKeys: ["spring", "summer", "winter"] },
-    ];
-    return shuffle(pool).slice(0, 3);
-  }, []);
-
-  // ── Round 4: Hot or Cold — binary choice ───────────────────────────────────
-  const r4Questions = useMemo<{ hintKey: string; correctKey: string; wrongKey: string }[]>(() => {
-    const pool = [
-      { hintKey: "round4HintSnow",  correctKey: "cold",     wrongKey: "hot" },
-      { hintKey: "round4HintSun",   correctKey: "hot",      wrongKey: "cold" },
-      { hintKey: "round4HintRain",  correctKey: "cool",     wrongKey: "hot" },
-      { hintKey: "round4HintFrost", correctKey: "freezing", wrongKey: "hot" },
-    ];
-    return shuffle(pool).slice(0, 4);
-  }, []);
-
-  // ── Round 5: Quick Review — mixed ──────────────────────────────────────────
-  const r5Questions = useMemo<MCQQuestion[]>(() => {
-    const pool: MCQQuestion[] = [
-      { questionKey: "round1Hint", emoji: "⛈️", correctKey: "stormy", wrongKeys: ["rainy", "sunny", "windy"] },
-      { questionKey: "round2HintRain",  correctKey: "umbrella", wrongKeys: ["sunglasses", "hat", "boots"] },
-      { questionKey: "round3HintSnow",  correctKey: "winter",   wrongKeys: ["spring", "summer", "autumn"] },
-      { questionKey: "round4HintSun",   correctKey: "hot",      wrongKeys: ["cold", "cool", "freezing"] },
-      { questionKey: "round1Hint", emoji: "🌧️", correctKey: "rainy",  wrongKeys: ["sunny", "snowy", "stormy"] },
-      { questionKey: "round3HintLeaves", correctKey: "autumn",  wrongKeys: ["spring", "summer", "winter"] },
-    ];
-    return shuffle(pool).slice(0, 4);
-  }, []);
-
-  // ── Advance helpers ─────────────────────────────────────────────────────────
-
-  const advanceQuestion = useCallback(() => {
-    const lengths = [r1Questions.length, r2Questions.length, r3Questions.length, r4Questions.length, r5Questions.length];
-    const currentLen = lengths[round] ?? 1;
-    const nextIdx = qIndex + 1;
-    if (nextIdx < currentLen) {
-      setQIndex(nextIdx);
-      setSelectedKey(null);
-      setLocked(false);
-    } else {
-      // end of round
-      if (round >= TOTAL_ROUNDS - 1) {
-        onDone(scoreRef.current, totalRef.current);
-      } else {
-        setRound(r => r + 1);
-        setQIndex(0);
-        setSelectedKey(null);
-        setLocked(false);
-        setShowTeach(true);
-      }
-    }
-  }, [round, qIndex, r1Questions.length, r2Questions.length, r3Questions.length, r4Questions.length, r5Questions.length, onDone]);
-
-  const handleMCQSelect = useCallback((choiceKey: string, correctKey: string) => {
-    if (locked) return;
-    setLocked(true);
-    setSelectedKey(choiceKey);
-    totalRef.current += 1;
-    if (choiceKey === correctKey) {
-      scoreRef.current += 1;
-    } else {
-      fireWrongAnswer({ question: "Weather Explorer", wrongAnswer: (lbl as Record<string, string>)[choiceKey] ?? choiceKey, correctAnswer: (lbl as Record<string, string>)[correctKey] ?? correctKey, topic: "Weather Explorer", lang });
-    }
-  }, [locked, lbl, lang]);
-
-  // ── Render helpers ──────────────────────────────────────────────────────────
-
-  const renderNextBtn = (isLast: boolean) => (
-    <motion.button
-      onClick={advanceQuestion}
-      className="mt-3 w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}
-      initial={{ opacity: 0, y: 8 }}
-      animate={{ opacity: 1, y: 0 }}>
-      {isLast ? lbl.finish : lbl.next} <ChevronRight size={16} />
-    </motion.button>
-  );
-
-  const renderMCQ = (
-    questions: MCQQuestion[],
-    qIdx: number,
-    roundTitle: string,
-    isLastRound: boolean,
-  ) => {
-    const q = questions[qIdx];
-    if (!q) return null;
-    const allChoices = shuffle([q.correctKey, ...q.wrongKeys]);
-    const qText = (lbl as Record<string, string>)[q.questionKey] ?? q.questionKey;
-    const isLastQ = qIdx === questions.length - 1;
-
-    return (
-      <>
-        <p className="text-2xl font-black text-white text-center">{roundTitle}</p>
-
-        {/* Sub-progress dots */}
-        <div className="flex gap-1 justify-center">
-          {questions.map((_, i) => (
-            <div key={i} className="w-2 h-2 rounded-full transition-colors"
-              style={{ background: i < qIdx ? "#00FF88" : i === qIdx ? color : "rgba(255,255,255,0.15)" }} />
-          ))}
-        </div>
-
-        {/* Big emoji if present */}
-        {q.emoji && (
-          <div className="text-6xl select-none">{q.emoji}</div>
-        )}
-
-        <p className="text-white/70 text-sm font-bold text-center px-2">{qText}</p>
-
-        <div className="flex flex-col gap-2 w-full max-w-sm">
-          {allChoices.map(key => {
-            const label = (lbl as Record<string, string>)[key] ?? key;
-            const isSelected = selectedKey === key;
-            const isCorrect = key === q.correctKey;
-            let bg = "rgba(255,255,255,0.06)";
-            let border = "rgba(255,255,255,0.15)";
-            if (locked && isSelected) {
-              bg = isCorrect ? "#00FF8833" : "#FF2D7833";
-              border = isCorrect ? "#00FF88" : "#FF2D78";
-            } else if (locked && isCorrect) {
-              bg = "#00FF8822";
-              border = "#00FF8866";
-            }
-            return (
-              <motion.button key={key}
-                onClick={() => handleMCQSelect(key, q.correctKey)}
-                disabled={locked}
-                className="py-3 px-4 rounded-xl font-bold text-white text-sm transition-colors text-left"
-                style={{ background: bg, border: `2px solid ${border}` }}
-                whileTap={locked ? {} : { scale: 0.97 }}>
-                {label}
-              </motion.button>
-            );
-          })}
-        </div>
-
-        {/* Feedback text */}
-        {locked && (
-          <motion.p
-            initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-            className="text-sm font-black"
-            style={{ color: selectedKey === q.correctKey ? "#00FF88" : "#FF2D78" }}>
-            {selectedKey === q.correctKey ? lbl.correct : lbl.wrong}
-          </motion.p>
-        )}
-
-        {locked && renderNextBtn(isLastRound && isLastQ)}
-      </>
-    );
-  };
-
-  // ── Round 4 binary render ───────────────────────────────────────────────────
-
-  const renderBinary = () => {
-    const q = r4Questions[qIndex];
-    if (!q) return null;
-    const hintText = (lbl as Record<string, string>)[q.hintKey] ?? q.hintKey;
-    const isLastQ = qIndex === r4Questions.length - 1;
-    const choices = shuffle([q.correctKey, q.wrongKey]);
-
-    return (
-      <>
-        <p className="text-2xl font-black text-white text-center">{lbl.round4Title}</p>
-
-        <div className="flex gap-1 justify-center">
-          {r4Questions.map((_, i) => (
-            <div key={i} className="w-2 h-2 rounded-full transition-colors"
-              style={{ background: i < qIndex ? "#00FF88" : i === qIndex ? color : "rgba(255,255,255,0.15)" }} />
-          ))}
-        </div>
-
-        <p className="text-white/70 text-sm font-bold text-center px-2">{hintText}</p>
-
-        <div className="flex gap-3 w-full max-w-sm">
-          {choices.map(key => {
-            const label = (lbl as Record<string, string>)[key] ?? key;
-            const isSelected = selectedKey === key;
-            const isCorrect = key === q.correctKey;
-            let bg = "rgba(255,255,255,0.06)";
-            let border = "rgba(255,255,255,0.15)";
-            if (locked && isSelected) {
-              bg = isCorrect ? "#00FF8833" : "#FF2D7833";
-              border = isCorrect ? "#00FF88" : "#FF2D78";
-            } else if (locked && isCorrect) {
-              bg = "#00FF8822";
-              border = "#00FF8866";
-            }
-            return (
-              <motion.button key={key}
-                onClick={() => handleMCQSelect(key, q.correctKey)}
-                disabled={locked}
-                className="flex-1 py-4 rounded-xl font-black text-white text-base transition-colors"
-                style={{ background: bg, border: `2px solid ${border}` }}
-                whileTap={locked ? {} : { scale: 0.97 }}>
-                {label}
-              </motion.button>
-            );
-          })}
-        </div>
-
-        {locked && (
-          <motion.p
-            initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-            className="text-sm font-black"
-            style={{ color: selectedKey === q.correctKey ? "#00FF88" : "#FF2D78" }}>
-            {selectedKey === q.correctKey ? lbl.correct : lbl.wrong}
-          </motion.p>
-        )}
-
-        {locked && renderNextBtn(round === TOTAL_ROUNDS - 2 && isLastQ)}
-      </>
-    );
-  };
-
-  // ── Main render ─────────────────────────────────────────────────────────────
-
+const WeatherExplorer = memo(function WeatherExplorer({
+  color = "#0EA5E9", // Sky Blue a felhőkhöz és időjáráshoz
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-      {/* Round progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-2">
-        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-          <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"
-            style={{ background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div key={`${round}-${qIndex}-${showTeach}`}
-          initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4">
-
-          {/* Teaching phase for all rounds */}
-          {showTeach && (
-            <div className="flex flex-col items-center gap-4 w-full">
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-xl font-black text-white text-center">{round === 0 ? lbl.round1Title : round === 1 ? lbl.round2Title : round === 2 ? lbl.round3Title : round === 3 ? lbl.round4Title : lbl.round5Title}</p>
-                <button onClick={() => speak((round === 0 ? lbl.round1Title : round === 1 ? lbl.round2Title : round === 2 ? lbl.round3Title : round === 3 ? lbl.round4Title : lbl.round5Title) + ". " + (round === 0 ? lbl.round1Teach : round === 1 ? lbl.round2Teach : round === 2 ? lbl.round3Teach : round === 3 ? lbl.round4Teach : lbl.round5Teach))}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                <p className="text-sm text-white/80 leading-relaxed">{round === 0 ? lbl.round1Teach : round === 1 ? lbl.round2Teach : round === 2 ? lbl.round3Teach : round === 3 ? lbl.round4Teach : lbl.round5Teach}</p>
-              </div>
-              <motion.button onClick={() => setShowTeach(false)}
-                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                whileTap={{ scale: 0.97 }}>
-                {lbl.gotIt} <ChevronRight size={16} />
-              </motion.button>
-            </div>
-          )}
-
-          {!showTeach && round === 0 && (
-            <>
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-2xl font-black text-white text-center">{lbl.round1Title}</p>
-                <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              {renderMCQ(r1Questions, qIndex, lbl.round1Title, false)}
-            </>
-          )}
-          {!showTeach && round === 1 && (
-            <>
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-2xl font-black text-white text-center">{lbl.round2Title}</p>
-                <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              {renderMCQ(r2Questions, qIndex, lbl.round2Title, false)}
-            </>
-          )}
-          {!showTeach && round === 2 && (
-            <>
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-2xl font-black text-white text-center">{lbl.round3Title}</p>
-                <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              {renderMCQ(r3Questions, qIndex, lbl.round3Title, false)}
-            </>
-          )}
-          {!showTeach && round === 3 && (
-            <>
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-2xl font-black text-white text-center">{lbl.round4Title}</p>
-                <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              {renderBinary()}
-            </>
-          )}
-          {!showTeach && round === 4 && (
-            <>
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-2xl font-black text-white text-center">{lbl.round5Title}</p>
-                <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              {renderMCQ(r5Questions, qIndex, lbl.round5Title, true)}
-            </>
-          )}
-
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_weather" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-export default memo(WeatherExplorer);
+export default WeatherExplorer;
