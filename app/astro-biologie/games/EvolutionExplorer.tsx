@@ -1,467 +1,378 @@
 "use client";
-// EvolutionExplorer — Island i9: Evolution Basics (Evolúció alapjai) Grade 7
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Adaptation, natural selection, fossils, behavior & learning
+// EvolutionExplorer.tsx — Bio Island i9: Evolúció alapjai (K7)
+// Topics: 1) A DNS szerkezete 2) Adaptáció 3) Természetes szelekció 4) Tanult viselkedés 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { DNAHelixSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="10" fontSize="40" textAnchor="middle">❄️</text>
+        <path d="M -10,0 L 10,0" stroke="#0EA5E9" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="50" y="15" fontSize="40" textAnchor="middle">🐻‍❄️</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-50" y="10" fontSize="30" textAnchor="middle">🦋</text>
+        <text x="0" y="10" fontSize="30" textAnchor="middle">🦋</text>
+        <text x="50" y="10" fontSize="30" textAnchor="middle">🦅</text>
+        <path d="M 40,-10 L 10,-10" stroke="#EF4444" strokeWidth="2" markerEnd="url(#arrow)" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🧬</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Az Evolúció Alapjai",
+    // T1: DNS Szerkezete (Label-diagram)
+    t1_title: "Az élet kódja: A DNS",
+    t1_text: "A DNS hordozza az összes információt, ami az élőlény felépítéséhez kell. Szerkezete egy megcsavart létrához hasonlít (kettős hélix).",
+    t1_b1: "Cukor-foszfát váz: a létra két szára.",
+    t1_b2: "Bázispárok: a létra fokai, ahol az információ tárolódik.",
+    t1_b3: "Gén: a DNS egy meghatározott szakasza.",
+    t1_inst: "Címkézd fel a DNS hélix részeit!",
+    t1_area_backbone: "Cukor-foszfát váz",
+    t1_area_base: "Bázispár",
+    t1_area_helix: "Kettős hélix",
+    t1_q: "Milyen alakú a DNS molekula?",
+    t1_q_a: "Kettős hélix (csavart létra)", t1_q_b: "Sima kör", t1_q_c: "Kocka", t1_q_d: "Egyetlen hosszú szál",
+
+    // T2: Adaptáció
+    t2_title: "Alkalmazkodás (Adaptáció)",
+    t2_text: "Az élőlények olyan tulajdonságokat fejlesztenek ki, amelyek segítik a túlélésüket az adott környezetben.",
+    t2_b1: "Szín: rejtőzködés (mimikri) a ragadozók elől.",
+    t2_b2: "Alak: pl. a kaktusz levelei tüskévé módosultak a víztakarékosság miatt.",
+    t2_b3: "Viselkedés: vonulás vagy téli álom a hideg ellen.",
+    t2_inst: "Párosítsd az élőlényt az alkalmazkodásával!",
+    t2_l1: "Jegesmedve", t2_r1: "Vastag zsírréteg és fehér bunda",
+    t2_l2: "Kaktusz", t2_r2: "Víztároló szár és tüskék",
+    t2_l3: "Kaméleon", t2_r3: "Színváltoztató képesség",
+    t2_q: "Mi a célja az élőlények alkalmazkodásának?",
+    t2_q_a: "A túlélés és a szaporodás esélyének növelése", t2_q_b: "Hogy szebben nézzenek ki", t2_q_c: "A Nap eloltása", t2_q_d: "A kőzetek lebontása",
+
+    // T3: Természetes szelekció
+    t3_title: "Természetes szelekció",
+    t3_text: "Charles Darwin elmélete szerint azok az egyedek maradnak életben és szaporodnak, akik a legjobban alkalmazkodtak a környezethez.",
+    t3_b1: "Változatosság: egy populáción belül az egyedek eltérnek egymástól.",
+    t3_b2: "Túlszaporodás: több utód születik, mint amennyi életben maradhat.",
+    t3_b3: "Szelekció: a környezet 'kiválogatja' a legrátermettebbeket.",
+    t3_inst: "Tedd sorba a szelekció folyamatának lépéseit!",
+    t3_w1: "Változatosság", t3_w2: "Küzdelem a létért", t3_w3: "Szelekció", t3_w4: "Öröklődés",
+    t3_q: "Ki alkotta meg a természetes szelekció elméletét?",
+    t3_q_a: "Charles Darwin", t3_q_b: "Isaac Newton", t3_q_c: "Albert Einstein", t3_q_d: "Gregor Mendel",
+
+    // T4: Tanult viselkedés
+    t4_title: "Öröklött és tanult viselkedés",
+    t4_text: "Az állatok viselkedése részben a génjeikben van, részben pedig az életük során tanulják meg a tapasztalataikból.",
+    t4_b1: "Öröklött: pl. a pók hálószövése (tudni születik).",
+    t4_b2: "Tanult: pl. a kutyák engedelmessége vagy a vadászat technikája.",
+    t4_b3: "A tanulás segít rugalmasan alkalmazkodni a változó világhoz.",
+    t4_inst: "Öröklött vagy Tanult viselkedés? Válogasd szét!",
+    t4_bucket_oro: "Öröklött (Gének)",
+    t4_bucket_tan: "Tanult (Tapasztalat)",
+    t4_item_o1: "Pókháló szövés", t4_item_o2: "Madárfészek építés",
+    t4_item_t1: "Trükkök bemutatása", t4_item_t2: "Veszélyes ételek elkerülése",
+    t4_q: "Melyik viselkedésformát NEM kell tanulni, mert az állat vele születik?",
+    t4_q_a: "Feltétlen reflex / Öröklött mozgásminta", t4_q_b: "Olvasás", t4_q_c: "Autóvezetés", t4_q_d: "Beszéd",
+
+    // T5: Review
+    t5_title: "Evolúciós összefoglaló",
+    t5_text: "Az élet folyamatosan változik és alkalmazkodik. A DNS a változások alapja.",
+    t5_b1: "A DNS tárolja az örökítőanyagot.",
+    t5_b2: "A szelekció a legrátermettebbek túlélését jelenti.",
+    t5_b3: "Az adaptáció segíti a környezethez való illeszkedést.",
+    t5_inst: "Melyik molekula határozza meg a tulajdonságainkat?",
+    t5_gap_sentence2: "A tulajdonságainkat a sejtmagban lévő {gap} kódolja.",
+    t5_c51: "DNS", t5_c52: "ATP", t5_c53: "H2O",
+    t5_q: "Melyik állítás IGAZ az evolúcióra?",
+    t5_q_a: "Az élőlények tulajdonságai generációkon keresztül változnak.", t5_q_b: "Az evolúció egy hét alatt lezajlik.", t5_q_c: "Minden állat teljesen egyforma.", t5_q_d: "A DNS nem játszik szerepet benne.",
+  },
   en: {
-    // Round 1: Adaptation
-    r1_title: "Adaptation: Survival Tools",
-    r1_text: "Organisms have special features that help them survive in their environment. These are called adaptations.",
-    r1_fact1: "Adaptations are body or behavior features shaped by environment over time",
-    r1_fact2: "Camouflage helps animals hide from predators (tiger stripes, leaf insect)",
-    r1_fact3: "Beak shapes differ in birds—short for seeds, long for insects or flowers",
-    r1_fact4: "Desert plants have thick waxy leaves to conserve water in dry heat",
+    explorer_title: "Basics of Evolution",
+    t1_title: "The Code of Life: DNA", t1_text: "DNA carries all the information needed to build an organism. Its structure is like a twisted ladder (double helix).",
+    t1_b1: "Sugar-phosphate backbone: the sides of the ladder.", t1_b2: "Base pairs: the rungs where info is stored.", t1_b3: "Gene: a specific segment of DNA.",
+    t1_inst: "Label the parts of the DNA helix!",
+    t1_area_backbone: "Sugar-phosphate backbone", t1_area_base: "Base pair", t1_area_helix: "Double helix",
+    t1_q: "What is the shape of the DNA molecule?", t1_q_a: "Double helix", t1_q_b: "Circle", t1_q_c: "Cube", t1_q_d: "Single straight line",
 
-    // Round 2: Natural Selection
-    r2_title: "Natural Selection: Survival of the Fittest",
-    r2_text: "In nature, individuals with helpful traits are more likely to survive and reproduce. This is natural selection.",
-    r2_fact1: "Within a population, there is variation—individuals differ in traits",
-    r2_fact2: "Competition for resources (food, water, space) means not all survive",
-    r2_fact3: "Organisms with helpful traits have better chances to survive and have offspring",
-    r2_fact4: "Over many generations, helpful traits become more common in the population",
+    t2_title: "Adaptation", t2_text: "Organisms develop traits that help them survive in their specific environment.",
+    t2_b1: "Color: camouflage (mimicry) from predators.", t2_b2: "Shape: e.g., cactus spines to save water.", t2_b3: "Behavior: migration or hibernation against the cold.",
+    t2_inst: "Match the organism with its adaptation!",
+    t2_l1: "Polar bear", t2_r1: "Thick fat and white fur",
+    t2_l2: "Cactus", t2_r2: "Water-storing stem and spines",
+    t2_l3: "Chameleon", t2_r3: "Color-changing ability",
+    t2_q: "What is the purpose of adaptation?", t2_q_a: "Increasing chances of survival", t2_q_b: "Looking prettier", t2_q_c: "Turning off the Sun", t2_q_d: "Breaking rocks",
 
-    // Round 3: Fossils
-    r3_title: "Fossils: Windows to the Past",
-    r3_text: "Fossils are preserved remains of ancient organisms. They show us what life was like long ago.",
-    r3_fact1: "Fossils form when organisms are buried in sediment and minerals replace organic material",
-    r3_fact2: "Fossils show sequences of change—species looked different in the distant past",
-    r3_fact3: "Similar bone structures in different animals suggest common ancestors",
-    r3_fact4: "The fossil record is incomplete, but it shows clear patterns of life's history",
+    t3_title: "Natural Selection", t3_text: "Darwin's theory states that individuals best adapted to their environment are more likely to survive and reproduce.",
+    t3_b1: "Variation: individuals in a population differ.", t3_b2: "Overproduction: more offspring are born than can survive.", t3_b3: "Selection: environment 'selects' the fittest.",
+    t3_inst: "Put the steps of natural selection in order!",
+    t3_w1: "Variation", t3_w2: "Struggle for existence", t3_w3: "Selection", t3_w4: "Inheritance",
+    t3_q: "Who formulated the theory of natural selection?", t3_q_a: "Charles Darwin", t3_q_b: "Isaac Newton", t3_q_c: "Albert Einstein", t3_q_d: "Gregor Mendel",
 
-    // Round 4: Behavior & Learning
-    r4_title: "Innate vs. Learned Behavior",
-    r4_text: "Some behaviors are instinctive (inborn), while others are learned through experience.",
-    r4_fact1: "Innate (instinctive) behavior: spider web building, bird migration, reflex responses",
-    r4_fact2: "Learned behavior: using tools, learning from parents, conditioning (reward/punishment)",
-    r4_fact3: "Many behaviors mix innate + learned (birds may inherit song template, then learn details)",
-    r4_fact4: "Learning allows animals to adapt quickly to new challenges in their lifetime",
+    t4_title: "Learned Behavior", t4_text: "Animal behavior is partly in their genes and partly learned from experience.",
+    t4_b1: "Innate: e.g., a spider weaving a web.", t4_b2: "Learned: e.g., dog obedience or hunting techniques.", t4_b3: "Learning allows flexible adaptation to a changing world.",
+    t4_inst: "Innate or Learned? Sort them!",
+    t4_bucket_oro: "Innate (Genes)", t4_bucket_tan: "Learned (Experience)",
+    t4_item_o1: "Web weaving", t4_item_o2: "Nest building",
+    t4_item_t1: "Doing tricks", t4_item_t2: "Avoiding dangerous food",
+    t4_q: "Which behavior does NOT need to be learned?", t4_q_a: "Innate reflex / Instinct", t4_q_b: "Reading", t4_q_c: "Driving", t4_q_d: "Speaking",
 
-    // Round 5: Quiz
-    r5_title: "Quick Review",
-
-    // Quiz Questions
-    q1_q: "What do we call special features that help an organism survive in its environment?",
-    q1_adaptation: "Adaptations",
-    q1_mutation: "Mutations",
-    q1_variation: "Variation",
-    q1_evolution: "Evolution",
-
-    q2_q: "Which process causes helpful traits to become more common in a population?",
-    q2_natural: "Natural selection",
-    q2_migration: "Migration",
-    q2_mutation: "Random mutation",
-    q2_adaptation: "Adaptation",
-
-    q3_q: "What do fossils tell us about the history of life?",
-    q3_sequence: "How species changed over time",
-    q3_climate: "Past climate patterns only",
-    q3_locations: "Where dinosaurs lived",
-    q3_extinction: "Why species went extinct",
+    t5_title: "Evolution Summary", t5_text: "Life is constantly changing. DNA is the basis of these changes.",
+    t5_b1: "DNA stores genetic information.", t5_b2: "Selection means survival of the fittest.", t5_b3: "Adaptation helps fit the environment.",
+    t5_inst: "Which molecule determines our traits?", t5_gap_sentence2: "Our traits are coded by {gap}.",
+    t5_c51: "DNA", t5_c52: "ATP", t5_c53: "Water",
+    t5_q: "Which statement is TRUE about evolution?", t5_q_a: "Traits of organisms change over generations.", t5_q_b: "Evolution happens in one week.", t5_q_c: "All animals are identical.", t5_q_d: "DNA has no role in it.",
   },
   de: {
-    r1_title: "Anpassung: Überlebenswerkzeuge",
-    r1_text: "Organismen haben spezielle Merkmale, die ihnen helfen, in ihrer Umgebung zu überleben. Diese werden Anpassungen genannt.",
-    r1_fact1: "Anpassungen sind Körper- oder Verhaltensmerkmale, die über Zeit durch die Umwelt geprägt werden",
-    r1_fact2: "Tarnung hilft Tieren, sich vor Raubtieren zu verstecken (Tigerstreifen, Stabheuschrecke)",
-    r1_fact3: "Schnabelformen unterscheiden sich bei Vögeln—kurz für Samen, lang für Insekten oder Blumen",
-    r1_fact4: "Wüstenpflanzen haben dicke wachsige Blätter, um Wasser in trockener Hitze zu sparen",
+    explorer_title: "Grundlagen der Evolution",
+    t1_title: "Der Code des Lebens: DNA", t1_text: "Die DNA trägt alle Informationen zum Aufbau eines Lebewesens. Sie sieht aus wie eine verdrehte Strickleiter.",
+    t1_b1: "Zucker-Phosphat-Rückgrat: die Holme der Leiter.", t1_b2: "Basenpaare: die Sprossen der Leiter.", t1_b3: "Gen: ein bestimmter DNA-Abschnitt.",
+    t1_inst: "Beschrifte die Teile der DNA!",
+    t1_area_backbone: "Zucker-Phosphat-Rückgrat", t1_area_base: "Basenpaar", t1_area_helix: "Doppelhelix",
+    t1_q: "Welche Form hat das DNA-Molekül?", t1_q_a: "Doppelhelix", t1_q_b: "Kreis", t1_q_c: "Würfel", t1_q_d: "Einzelstrang",
 
-    r2_title: "Natürliche Auswahl: Überleben der Stärksten",
-    r2_text: "In der Natur haben Individuen mit hilfreichen Merkmalen bessere Chancen zu überleben und sich fortzupflanzen. Das ist natürliche Auswahl.",
-    r2_fact1: "In einer Population gibt es Variation—Individuen unterscheiden sich in Merkmalen",
-    r2_fact2: "Wettbewerb um Ressourcen (Nahrung, Wasser, Raum) bedeutet, dass nicht alle überleben",
-    r2_fact3: "Organismen mit hilfreichen Merkmalen haben bessere Chancen zu überleben und Nachkommen zu bekommen",
-    r2_fact4: "Über viele Generationen hinweg werden hilfreiche Merkmale häufiger in der Population",
+    t2_title: "Anpassung (Adaptation)", t2_text: "Lebewesen entwickeln Merkmale, die ihr Überleben in ihrer Umwelt sichern.",
+    t2_b1: "Farbe: Tarnung (Mimikry).", t2_b2: "Form: z.B. Kakteendornen zum Wassersparen.", t2_b3: "Verhalten: Vogelzug oder Winterschlaf.",
+    t2_inst: "Verbinde Tier und Anpassung!",
+    t2_l1: "Eisbär", t2_r1: "Fettschicht und weißes Fell",
+    t2_l2: "Kaktus", t2_r2: "Wasserspeicher und Dornen",
+    t2_l3: "Chamäleon", t2_r3: "Farbwechsel",
+    t2_q: "Was ist das Ziel der Anpassung?", t2_q_a: "Überlebenschancen erhöhen", t2_q_b: "Schöner aussehen", t2_q_c: "Sonne ausschalten", t2_q_d: "Steine fressen",
 
-    r3_title: "Fossilien: Fenster zur Vergangenheit",
-    r3_text: "Fossilien sind erhaltene Überreste antiker Organismen. Sie zeigen uns, wie das Leben vor langer Zeit aussah.",
-    r3_fact1: "Fossilien entstehen, wenn Organismen in Sediment begraben werden und Mineralien organisches Material ersetzen",
-    r3_fact2: "Fossilien zeigen Veränderungsabläufe—Arten sahen in der fernen Vergangenheit anders aus",
-    r3_fact3: "Ähnliche Knochenstrukturen in verschiedenen Tieren deuten auf gemeinsame Vorfahren hin",
-    r3_fact4: "Das Fossilienarchiv ist unvollständig, zeigt aber klare Muster der Lebensgeschichte",
+    t3_title: "Selektion", t3_text: "Nach Darwin überleben die Individuen, die am besten an ihre Umwelt angepasst sind.",
+    t3_b1: "Variabilität: Unterschiede innerhalb einer Population.", t3_b2: "Überproduktion: mehr Nachkommen als Ressourcen.", t3_b3: "Selektion: die Umwelt 'wählt' die Besten aus.",
+    t3_inst: "Bringe die Schritte der Selektion in Reihenfolge!",
+    t3_w1: "Variabilität", t3_w2: "Kampf ums Dasein", t3_w3: "Selektion", t3_w4: "Vererbung",
+    t3_q: "Wer begründete die Theorie der natürlichen Selektion?", t3_q_a: "Charles Darwin", t3_q_b: "Isaac Newton", t3_q_c: "Gregor Mendel", t3_q_d: "Einstein",
 
-    r4_title: "Angeborenes vs. Erlerntes Verhalten",
-    r4_text: "Manche Verhaltensweisen sind instinktiv (angeboren), während andere durch Erfahrung gelernt werden.",
-    r4_fact1: "Angeborenes Verhalten: Spinnennetzbildung, Vogelzug, Reflexantworten",
-    r4_fact2: "Erlerntes Verhalten: Werkzeuggebrauch, Lernen von Eltern, Konditionierung (Belohnung/Bestrafung)",
-    r4_fact3: "Viele Verhaltensweisen vermischen angeboren + gelernt (Vögel können Gesangsvorlage erben, dann Details lernen)",
-    r4_fact4: "Lernen ermöglicht es Tieren, sich schnell an neue Herausforderungen in ihrem Leben anzupassen",
+    t4_title: "Lernverhalten", t4_text: "Verhalten ist teils angeboren (Gene), teils durch Erfahrung erlernt.",
+    t4_b1: "Angeboren: z.B. Spinnen eines Netzes.", t4_b2: "Erlernt: z.B. Jagdtechniken oder Kommandos.", t4_b3: "Lernen ermöglicht Flexibilität.",
+    t4_inst: "Angeboren oder Erlernt? Sortiere!",
+    t4_bucket_oro: "Angeboren (Gene)", t4_bucket_tan: "Erlernt (Erfahrung)",
+    t4_item_o1: "Netzbau", t4_item_o2: "Nestbau",
+    t4_item_t1: "Tricks machen", t4_item_t2: "Giftiges Essen meiden",
+    t4_q: "Welches Verhalten muss NICHT gelernt werden?", t4_q_a: "Instinkt / Reflex", t4_q_b: "Lesen", t4_q_c: "Radfahren", t4_q_d: "Klavierspielen",
 
-    r5_title: "Schnelle Wiederholung",
-
-    q1_q: "Wie nennen wir spezielle Merkmale, die einem Organismus helfen, in seiner Umgebung zu überleben?",
-    q1_adaptation: "Anpassungen",
-    q1_mutation: "Mutationen",
-    q1_variation: "Variation",
-    q1_evolution: "Evolution",
-
-    q2_q: "Welcher Prozess führt dazu, dass hilfreiche Merkmale in einer Population häufiger werden?",
-    q2_natural: "Natürliche Auswahl",
-    q2_migration: "Migration",
-    q2_mutation: "Zufällige Mutation",
-    q2_adaptation: "Anpassung",
-
-    q3_q: "Was sagen uns Fossilien über die Geschichte des Lebens?",
-    q3_sequence: "Wie sich Arten im Laufe der Zeit verändert haben",
-    q3_climate: "Nur frühere Klimamuster",
-    q3_locations: "Wo Dinosaurier lebten",
-    q3_extinction: "Warum Arten ausstarben",
-  },
-  hu: {
-    r1_title: "Alkalmazkodás: Túlélési Eszközök",
-    r1_text: "Az organizmusok speciális tulajdonságokkal rendelkeznek, amelyek segítenek nekik túlélni környezetükben. Ezeket alkalmazkodásnak nevezzük.",
-    r1_fact1: "Az alkalmazkodások test- vagy viselkedésmódosulások, amelyeket az idő múlásával a környezet alakít",
-    r1_fact2: "A szín- és mintaváltozat segít az állatoknak elbújni a ragadozók elől (tigris csíkok, levél rovar)",
-    r1_fact3: "A csőrök formái különböznek a madaraknál—rövid a magoknál, hosszú a rovaroknál vagy virágoknak",
-    r1_fact4: "A sivatagi növények vastagszélű viaszos levelekkel rendelkeznek, hogy megőrizzék a vizet a száraz melegben",
-
-    r2_title: "Természetes Szelekcó: A Legerősebb Túlélése",
-    r2_text: "A természetben azok az egyedek, amelyek hasznos tulajdonságokkal rendelkeznek, nagyobb valószínűséggel túlélik és szaporodnak. Ez a természetes szelekcó.",
-    r2_fact1: "Egy populáción belül variáció van—az egyedek különböznek a tulajdonságaikban",
-    r2_fact2: "Az erőforrások (táplálék, víz, hely) versenye azt jelenti, hogy nem mindenki túlél",
-    r2_fact3: "Az organizmusok hasznos tulajdonságokkal jobb eséllyel maradnak fenn és szarmaztathetnек utódokat",
-    r2_fact4: "Sok generáció alatt a hasznos tulajdonságok a populációban egyre gyakoribbaká válnak",
-
-    r3_title: "Fosszíliák: Ablakok a Múltba",
-    r3_text: "A fosszíliák az ősi organizmusok megőrzött maradványai. Megmutatják nekünk, hogyan nézett ki az élet régen.",
-    r3_fact1: "A fosszíliák akkor keletkeznek, amikor organizmusokat üledékbe temetik és ásványok helyettesítik az organikus anyagot",
-    r3_fact2: "A fosszíliák változási sorozatokat mutatnak—fajok másként néztek ki a távoli múltban",
-    r3_fact3: "Hasonló csontszerkezetek a különböző állatokban közös ősöket sugallnak",
-    r3_fact4: "A fosszíliarekord hiányos, de az élet történetének egyértelmű mintázatait mutatja",
-
-    r4_title: "Veleszületett vs. Tanult Viselkedés",
-    r4_text: "Néhány viselkedés ösztönös (veleszületett), míg mások tapasztalaton keresztül tanultak.",
-    r4_fact1: "Veleszületett viselkedés: pók háló szövés, madár vándorlás, reflex válaszok",
-    r4_fact2: "Tanult viselkedés: szerszám használat, szülőktől tanulás, kondicionálás (jutalom/büntetés)",
-    r4_fact3: "Sok viselkedés kevered veleszületett + tanult (madarak örökölhetnek dal sablont, majd részleteket tanulnak)",
-    r4_fact4: "A tanulás lehetővé teszi az állatoknak, hogy gyorsan alkalmazkodjanak az élet új kihívásaihoz",
-
-    r5_title: "Gyors Áttekintés",
-
-    q1_q: "Hogyan nevezzük azokat a speciális tulajdonságokat, amelyek segítenek egy organizmusnak túlélni környezetében?",
-    q1_adaptation: "Alkalmazkodások",
-    q1_mutation: "Mutációk",
-    q1_variation: "Variáció",
-    q1_evolution: "Evolúció",
-
-    q2_q: "Melyik folyamat okozza, hogy a hasznos tulajdonságok egy populációban gyakoribbaká válnak?",
-    q2_natural: "Természetes szelekcó",
-    q2_migration: "Migráció",
-    q2_mutation: "Véletlen mutáció",
-    q2_adaptation: "Alkalmazkodás",
-
-    q3_q: "Mit mondanak nekünk a fosszíliák az élet történetéről?",
-    q3_sequence: "Hogyan változtak a fajok az idő múlásával",
-    q3_climate: "Csak korábbi éghajlati minták",
-    q3_locations: "Hol éltek a dinoszauruszok",
-    q3_extinction: "Miért haltak ki a fajok",
+    t5_title: "Zusammenfassung", t5_text: "Das Leben wandelt sich ständig durch Selektion und Anpassung.",
+    t5_b1: "DNA speichert die Information.", t5_b2: "Selektion filtert die Besten.", t5_b3: "Anpassung sichert das Überleben.",
+    t5_inst: "Welches Molekül bestimmt unsere Merkmale?", t5_gap_sentence2: "Merkmale werden durch die {gap} bestimmt.",
+    t5_c51: "DNA", t5_c52: "ATP", t5_c53: "Wasser",
+    t5_q: "Was ist RICHTIG über Evolution?", t5_q_a: "Merkmale ändern sich über Generationen.", t5_q_b: "Passiert in einer Woche.", t5_q_c: "Alle sind gleich.", t5_q_d: "DNA ist egal.",
   },
   ro: {
-    r1_title: "Adaptare: Instrumente de Supraviețuire",
-    r1_text: "Organismele au caracteristici speciale care le ajută să supraviețuiască în mediul lor. Acestea se numesc adaptări.",
-    r1_fact1: "Adaptările sunt caracteristici ale corpului sau comportamentului modelate de mediu în timp",
-    r1_fact2: "Colorația de camuflaj ajută animalele să se ascundă de răpitori (dungi tigru, insecta frunze)",
-    r1_fact3: "Formele ciocurilor diferă la păsări—scurt pentru semințe, lung pentru insecte sau flori",
-    r1_fact4: "Plantele din deșert au frunze groase și ceruase pentru a conserva apa în căldura uscată",
+    explorer_title: "Bazele Evoluției",
+    t1_title: "Codul Vieții: ADN", t1_text: "ADN-ul conține toate informațiile necesare pentru construirea unui organism. Structura sa este ca o scară răsucită.",
+    t1_b1: "Cadru zahăr-fosfat: părțile laterale ale scării.", t1_b2: "Perechi de baze: treptele unde se stochează info.", t1_b3: "Genă: un segment specific de ADN.",
+    t1_inst: "Etichetează părțile hélixului ADN!",
+    t1_area_backbone: "Cadru zahăr-fosfat", t1_area_base: "Pereche de baze", t1_area_helix: "Dublu hélix",
+    t1_q: "Ce formă are molecula de ADN?", t1_q_a: "Dublu hélix", t1_q_b: "Cerc", t1_q_c: "Cub", t1_q_d: "Fir drept",
 
-    r2_title: "Selecția Naturală: Supraviețuirea Celor mai Puternici",
-    r2_text: "În natură, indivizii cu trăsături utile sunt mai ușor să supraviețuiască și să se reproduceă. Aceasta este selecția naturală.",
-    r2_fact1: "Într-o populație, există variație—indivizii diferă în trăsături",
-    r2_fact2: "Competiția pentru resurse (hrană, apă, spațiu) înseamnă că nu toți supraviețuiesc",
-    r2_fact3: "Organismele cu trăsături utile au șanse mai bune să supraviețuiască și să aibă descendenți",
-    r2_fact4: "De-a lungul multor generații, trăsăturile utile devin mai comune în populație",
+    t2_title: "Adaptarea", t2_text: "Organismele dezvoltă trăsături care le ajută să supraviețuiască în mediul lor.",
+    t2_b1: "Culoare: camuflaj (mimicră).", t2_b2: "Formă: ex: spinii cactusului pentru a salva apa.", t2_b3: "Comportament: migrație sau hibernare.",
+    t2_inst: "Potrivește organismul cu adaptarea sa!",
+    t2_l1: "Urs polar", t2_r1: "Strat de grăsime și blană albă",
+    t2_l2: "Cactus", t2_r2: "Tulpină ce stochează apa și spini",
+    t2_l3: "Cameleon", t2_r3: "Schimbarea culorii",
+    t2_q: "Care este scopul adaptării?", t2_q_a: "Creșterea șanselor de supraviețuire", t2_q_b: "Să arate mai bine", t2_q_c: "Să stingă Soarele", t2_q_d: "Să mănânce pietre",
 
-    r3_title: "Fosile: Ferestre în Trecut",
-    r3_text: "Fosilele sunt rămășițe păstrate ale organismelor antice. Ne arată cum arăta viața demult.",
-    r3_fact1: "Fosilele se formează când organismele sunt îngropate în sediment și mineralele înlocuiesc materia organică",
-    r3_fact2: "Fosilele arată secvențe de schimbare—speciile arătau diferit în trecut îndepărtat",
-    r3_fact3: "Structuri osoase similare în animale diferite sugerează strămoși comuni",
-    r3_fact4: "Registrul fosilifer este incomplet, dar arată modele clare ale istoriei vieții",
+    t3_title: "Selecția Naturală", t3_text: "Teoria lui Darwin spune că supraviețuiesc cei mai bine adaptați indivizi.",
+    t3_b1: "Variabilitate: indivizii diferă între ei.", t3_b2: "Suprapopulare: se nasc mai mulți urmași decât pot supraviețui.", t3_b3: "Selecție: mediul îi 'alege' pe cei mai apți.",
+    t3_inst: "Pune pașii selecției în ordine!",
+    t3_w1: "Variabilitate", t3_w2: "Lupta pentru existență", t3_w3: "Selecție", t3_w4: "Ereditate",
+    t3_q: "Cine a formulat teoria selecției naturale?", t3_q_a: "Charles Darwin", t3_q_b: "Isaac Newton", t3_q_c: "Gregor Mendel", t3_q_d: "Einstein",
 
-    r4_title: "Comportament Înnăscut vs. Învățat",
-    r4_text: "Unele comportamente sunt instinctive (înnăscute), în timp ce altele sunt învățate prin experiență.",
-    r4_fact1: "Comportament înnăscut: tesătura pânzei de păianjen, migrația păsărilor, răspunsuri reflexe",
-    r4_fact2: "Comportament învățat: utilizarea uneltelor, învățare de la părinți, condiționare (recompensă/pedeapsă)",
-    r4_fact3: "Multe comportamente amestecă înnăscut + învățat (păsările pot moșteni șablon cântec, apoi invață detaliile)",
-    r4_fact4: "Învățarea permite animalelor să se adapteze rapid la noi provocări în viața lor",
+    t4_title: "Comportament Învățat", t4_text: "Comportamentul este parțial genetic, parțial învățat prin experiență.",
+    t4_b1: "Înnăscut: ex: păianjenul care țese plasa.", t4_b2: "Învățat: ex: dresajul câinilor sau tehnicile de vânătoare.", t4_b3: "Învățarea permite adaptarea la schimbări.",
+    t4_inst: "Înnăscut sau Învățat? Sortează-le!",
+    t4_bucket_oro: "Înnăscut (Gene)", t4_bucket_tan: "Învățat (Experiență)",
+    t4_item_o1: "Țesutul plasei", t4_item_o2: "Construcția cuibului",
+    t4_item_t1: "Executarea trucurilor", t4_item_t2: "Evitarea hranei toxice",
+    t4_q: "Ce comportament NU trebuie învățat?", t4_q_a: "Instinct / Reflex înnăscut", t4_q_b: "Cititul", t4_q_c: "Șofatul", t4_q_d: "Vorbitul",
 
-    r5_title: "Recapitulare Rapidă",
-
-    q1_q: "Cum numim caracteristicile speciale care ajută un organism să supraviețuiască în mediul său?",
-    q1_adaptation: "Adaptări",
-    q1_mutation: "Mutații",
-    q1_variation: "Variație",
-    q1_evolution: "Evoluție",
-
-    q2_q: "Ce proces face ca trăsăturile utile să devină mai comune într-o populație?",
-    q2_natural: "Selecția naturală",
-    q2_migration: "Migrație",
-    q2_mutation: "Mutație aleatorie",
-    q2_adaptation: "Adaptare",
-
-    q3_q: "Ce ne spun fosilele despre istoria vieții?",
-    q3_sequence: "Cum s-au schimbat speciile în timp",
-    q3_climate: "Doar modele climatice anterioare",
-    q3_locations: "Unde au trăit dinozaurii",
-    q3_extinction: "De ce au dispărut speciile",
-  },
+    t5_title: "Recapitulare", t5_text: "Viața se schimbă constant prin selecție și adaptare.",
+    t5_b1: "ADN-ul stochează informația.", t5_b2: "Selecția alege pe cei mai buni.", t5_b3: "Adaptarea asigură supraviețuirea.",
+    t5_inst: "Ce moleculă determină trăsăturile noastre?",
+    t5_gap_sentence2: "Trăsăturile sunt codificate de {gap}.",
+    t5_c51: "ADN", t5_c52: "ATP", t5_c53: "apă",
+    t5_q: "Ce este ADEVĂRAT despre evoluție?", t5_q_a: "Trăsăturile se schimbă de-a lungul generațiilor.", t5_q_b: "Are loc într-o săptămână.", t5_q_c: "Toți sunt identici.", t5_q_d: "ADN-ul nu contează.",
+  }
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS (simple shapes, no text)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Adaptation examples — camouflage, beaks, leaf insect, desert plant */
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="evo_sky" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" /><stop offset="100%" stopColor="#E0F0FF" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#evo_sky)" />
-
-      {/* Tiger stripes (left) */}
-      <g>
-        <ellipse cx="40" cy="60" rx="18" ry="20" fill="#FF8800" />
-        <path d="M 28 45 Q 30 48 28 52 M 32 45 Q 34 48 32 52 M 36 45 Q 38 48 36 52" stroke="#333" strokeWidth="2" fill="none" />
-        <path d="M 50 50 Q 52 55 50 60 M 54 50 Q 56 55 54 60 M 58 50 Q 60 55 58 60" stroke="#333" strokeWidth="2" fill="none" />
-      </g>
-
-      {/* Short beak bird (center-left) */}
-      <g>
-        <circle cx="100" cy="65" r="15" fill="#FFD700" />
-        <polygon points="115,65 125,62 125,68" fill="#FF6600" />
-        <circle cx="108" cy="62" r="2" fill="#333" />
-      </g>
-
-      {/* Leaf insect (center-right) */}
-      <g>
-        <ellipse cx="160" cy="70" rx="16" ry="20" fill="#228B22" transform="rotate(-20 160 70)" />
-        <path d="M 155 60 Q 160 55 165 60" stroke="#1a5c1a" strokeWidth="1" fill="none" />
-        <path d="M 155 80 Q 160 85 165 80" stroke="#1a5c1a" strokeWidth="1" fill="none" />
-      </g>
-
-      {/* Desert plant (right) */}
-      <g>
-        <polygon points="210,120 205,90 215,90" fill="#90EE90" />
-        <rect x="208" y="105" width="4" height="15" fill="#A0826D" />
-        <circle cx="205" cy="100" r="3" fill="#228B22" />
-        <circle cx="215" cy="100" r="3" fill="#228B22" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Natural selection — population with variation, arrows showing selection */
-function SVG_R2(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="evo_land" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" /><stop offset="100%" stopColor="#228B22" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="#DAEAF6" />
-      <rect y="100" width="240" height="60" fill="url(#evo_land)" />
-
-      {/* Population of animals (before) */}
-      <g>
-        {/* Tall one */}
-        <circle cx="50" cy="75" r="8" fill="#FF6B6B" />
-        <rect x="46" y="83" width="8" height="12" fill="#FF6B6B" />
-
-        {/* Medium ones */}
-        <circle cx="80" cy="85" r="6" fill="#4ECDC4" />
-        <rect x="77" y="91" width="6" height="8" fill="#4ECDC4" />
-        <circle cx="110" cy="90" r="6" fill="#4ECDC4" />
-        <rect x="107" y="96" width="6" height="8" fill="#4ECDC4" />
-
-        {/* Short one */}
-        <circle cx="140" cy="100" r="5" fill="#FFD93D" />
-        <rect x="138" y="105" width="5" height="6" fill="#FFD93D" />
-      </g>
-
-      {/* Arrow indicating selection */}
-      <path d="M 160 80 L 180 80" stroke="#333" strokeWidth="2" markerEnd="url(#arrowhead)" fill="none" />
-      <defs>
-        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#333" />
-        </marker>
-      </defs>
-
-      {/* Population after selection (tall ones survive, reproduce) */}
-      <g>
-        <circle cx="190" cy="70" r="8" fill="#FF6B6B" />
-        <rect x="186" y="78" width="8" height="12" fill="#FF6B6B" />
-        <circle cx="210" cy="75" r="8" fill="#FF6B6B" />
-        <rect x="206" y="83" width="8" height="12" fill="#FF6B6B" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Fossils — layers of rock with fossil shapes */
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <pattern id="evo_rock" patternUnits="userSpaceOnUse" width="20" height="20">
-          <rect width="20" height="20" fill="#A9A9A9" />
-          <circle cx="5" cy="5" r="1.5" fill="#696969" />
-          <circle cx="15" cy="10" r="1.5" fill="#696969" />
-          <circle cx="10" cy="17" r="1.5" fill="#696969" />
-        </pattern>
-      </defs>
-
-      {/* Rock layers */}
-      <rect y="0" width="240" height="40" fill="#D3D3D3" />
-      <rect y="40" width="240" height="40" fill="#A9A9A9" />
-      <rect y="80" width="240" height="40" fill="#808080" />
-      <rect y="120" width="240" height="40" fill="#696969" />
-
-      {/* Fossils at different levels */}
-      {/* Top fossil (newer) */}
-      <g>
-        <path d="M 50 15 Q 55 10 60 15 Q 58 20 50 18" fill="none" stroke="#FFD700" strokeWidth="1.5" />
-      </g>
-
-      {/* Middle fossil */}
-      <g>
-        <circle cx="120" cy="100" r="6" fill="none" stroke="#FFD700" strokeWidth="1.5" />
-        <path d="M 115 106 L 120 112" stroke="#FFD700" strokeWidth="1.5" />
-        <path d="M 125 106 L 120 112" stroke="#FFD700" strokeWidth="1.5" />
-      </g>
-
-      {/* Bottom fossil (older, more different) */}
-      <g>
-        <ellipse cx="180" cy="140" rx="8" ry="6" fill="none" stroke="#FFD700" strokeWidth="1.5" />
-        <path d="M 172 140 L 165 145" stroke="#FFD700" strokeWidth="1.5" />
-        <path d="M 188 140 L 195 145" stroke="#FFD700" strokeWidth="1.5" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Behavior — spider web, birds, learning symbols */
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="evo_bg2" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" /><stop offset="100%" stopColor="#E0F0FF" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#evo_bg2)" />
-
-      {/* Spider web (instinctive) */}
-      <g>
-        <circle cx="40" cy="50" r="1" fill="#333" />
-        {/* radial lines */}
-        <path d="M 40 50 L 40 20" stroke="#DCDCDC" strokeWidth="0.8" />
-        <path d="M 40 50 L 60 35" stroke="#DCDCDC" strokeWidth="0.8" />
-        <path d="M 40 50 L 65 50" stroke="#DCDCDC" strokeWidth="0.8" />
-        <path d="M 40 50 L 60 65" stroke="#DCDCDC" strokeWidth="0.8" />
-        <path d="M 40 50 L 40 80" stroke="#DCDCDC" strokeWidth="0.8" />
-        {/* concentric circles */}
-        <circle cx="40" cy="50" r="12" fill="none" stroke="#DCDCDC" strokeWidth="0.8" />
-        <circle cx="40" cy="50" r="8" fill="none" stroke="#DCDCDC" strokeWidth="0.8" />
-      </g>
-
-      {/* Bird flying (migration) */}
-      <g>
-        <ellipse cx="140" cy="50" rx="8" ry="6" fill="#FFB347" />
-        <path d="M 132 55 Q 125 48 120 55" stroke="#FFB347" strokeWidth="1.5" fill="none" />
-        <path d="M 148 55 Q 155 48 160 55" stroke="#FFB347" strokeWidth="1.5" fill="none" />
-        <circle cx="144" cy="48" r="1" fill="#333" />
-      </g>
-
-      {/* Learning symbol (light bulb / question mark) */}
-      <g>
-        <circle cx="210" cy="60" rx="10" ry="12" fill="none" stroke="#FFD700" strokeWidth="2" />
-        <rect x="206" y="72" width="8" height="3" fill="#FFD700" />
-        <line x1="210" y1="48" x2="210" y2="40" stroke="#FFD700" strokeWidth="1" />
-        <line x1="218" y1="55" x2="224" y2="52" stroke="#FFD700" strokeWidth="1" />
-      </g>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Explorer Definition
-// ─────────────────────────────────────────────────────────────────────────────
-
-const evolutionDef: ExplorerDef = {
-  labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => SVG_R1(),
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => SVG_R2(),
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => SVG_R3(),
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => SVG_R4(),
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => null,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_adaptation", "q1_mutation", "q1_variation", "q1_evolution"],
-          answer: "q1_adaptation",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_natural", "q2_migration", "q2_mutation", "q2_adaptation"],
-          answer: "q2_natural",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_sequence", "q3_climate", "q3_locations", "q3_extinction"],
-          answer: "q3_sequence",
-        },
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "backbone", x: 20, y: 50, label: "t1_area_backbone" },
+        { id: "base",     x: 50, y: 50, label: "t1_area_base" },
+        { id: "helix",    x: 80, y: 50, label: "t1_area_helix" },
       ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
     },
-  ],
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "oro", label: "t4_bucket_oro" },
+        { id: "tan", label: "t4_bucket_tan" },
+      ],
+      items: [
+        { text: "t4_item_o1", bucketId: "oro" },
+        { text: "t4_item_t1", bucketId: "tan" },
+        { text: "t4_item_o2", bucketId: "oro" },
+        { text: "t4_item_t2", bucketId: "tan" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🧬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component Export
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function EvolutionExplorer({ onDone }: { onDone?: (score: number, total: number) => void }) {
-  return <ExplorerEngine def={evolutionDef} color="#D35400" lang="en" onDone={onDone} />;
-}
+const EvolutionExplorer = memo(function EvolutionExplorer({
+  color = "#F43F5E", // Rose-500 a DNS-hez és az élet alapjaihoz
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_evolution" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default EvolutionExplorer;
