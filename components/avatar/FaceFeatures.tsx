@@ -31,15 +31,15 @@ export function FaceFeatures({
 
   // ── Eyebrow params ────────────────────────────────────
   const browY =
-    eyeType === 'surprised' ? 0.115 :
-    eyeType === 'angry'     ? 0.096 :
-    eyeType === 'sad'       ? 0.097 : 0.1;
+    eyeType === 'surprised' ? 0.130 :
+    eyeType === 'angry'     ? 0.111 :
+    eyeType === 'sad'       ? 0.112 : 0.115;
 
   const leftBrowRotZ =
-    eyeType === 'angry'     ?  0.40 :
-    eyeType === 'sad'       ? -0.28 :
-    eyeType === 'surprised' ?  0.05 :
-    eyeType === 'happy'     ?  0.04 : 0.07;
+    eyeType === 'angry'     ?  0.22 :
+    eyeType === 'sad'       ? -0.15 :
+    eyeType === 'surprised' ?  0.04 :
+    eyeType === 'happy'     ?  0.03 : 0.05;
   const rightBrowRotZ = -leftBrowRotZ;
 
   const irisSize = eyeType === 'round' ? 0.028 : eyeType === 'dot' ? 0.018 : 0.024;
@@ -188,19 +188,17 @@ export function FaceFeatures({
           <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
         </mesh>
 
-        {/* Eyebrow */}
-        <group ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
-          <mesh scale={[1.0, 1.0, 1.0]}>
-            <boxGeometry args={[0.052, 0.013, 0.007]} />
-            <meshStandardMaterial color="#5a4030" roughness={0.7} />
+        {/* Eyebrow — soft capsule arch */}
+        <group ref={browRef} position={[bx, browY, 0.22]} rotation={[0, 0, browRotZ]}>
+          {/* Main arc — horizontal capsule */}
+          <mesh rotation={[0, 0, Math.PI / 2]}>
+            <capsuleGeometry args={[0.006, 0.038, 2, 8]} />
+            <meshStandardMaterial color="#5a4030" roughness={0.65} />
           </mesh>
-          <mesh position={[side * -0.016, 0.001, 0.001]} scale={[0.35, 1.2, 1.0]}>
-            <boxGeometry args={[0.052, 0.013, 0.007]} />
-            <meshStandardMaterial color="#5a4030" roughness={0.7} />
-          </mesh>
-          <mesh position={[side * 0.020, -0.002, 0.0]} scale={[0.28, 0.55, 0.8]}>
-            <boxGeometry args={[0.052, 0.013, 0.007]} />
-            <meshStandardMaterial color="#6a5040" roughness={0.75} />
+          {/* Inner thicker head (medial end) */}
+          <mesh position={[side * -0.018, 0.001, 0]}>
+            <sphereGeometry args={[0.009, 6, 5]} />
+            <meshStandardMaterial color="#5a4030" roughness={0.65} />
           </mesh>
         </group>
       </>

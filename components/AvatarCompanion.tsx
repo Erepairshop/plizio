@@ -871,15 +871,20 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   <meshStandardMaterial color={actualBodyAccent} roughness={0.65} transparent opacity={0.5} />
 </mesh>
 
-{/* ── Nadrág vonal (derék) ──────────────────────── */}
-<mesh position={[0, -0.26, 0.02]}>
-  <boxGeometry args={[bodyW + 0.02, 0.018, 0.29]} />
-  <meshStandardMaterial color={actualLegColor} roughness={0.82} />
+{/* ── Nadrág öv — henger gyűrű ─────────────────── */}
+<mesh position={[0, -0.26, 0]} rotation={[Math.PI / 2, 0, 0]}>
+  <cylinderGeometry args={[bodyW * 0.52, bodyW * 0.52, 0.018, 16, 1, true]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.78} side={2} />
 </mesh>
-{/* Nadrág öv csat */}
-<mesh position={[0, -0.255, 0.148]}>
-  <boxGeometry args={[0.055, 0.028, 0.008]} />
-  <meshStandardMaterial color="#8a7050" roughness={0.4} metalness={0.5} />
+{/* Övcsat — lekerekített lapos korong */}
+<mesh position={[0, -0.256, bodyW * 0.52]} rotation={[Math.PI / 2, 0, 0]}>
+  <cylinderGeometry args={[0.020, 0.020, 0.006, 12]} />
+  <meshStandardMaterial color="#9a8060" roughness={0.3} metalness={0.6} />
+</mesh>
+{/* Övcsat belső keret (négyzetes torus) */}
+<mesh position={[0, -0.256, bodyW * 0.52 + 0.004]} rotation={[0, 0, Math.PI / 4]}>
+  <torusGeometry args={[0.011, 0.003, 4, 4]} />
+  <meshStandardMaterial color="#d4aa70" roughness={0.2} metalness={0.8} />
 </mesh>
 
       {/* ══ SHOULDERS ══════════════════════════════════════ */}
@@ -1206,7 +1211,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
       {/* ══ LEFT LEG ════════════════════════════════════════ */}
 <mesh ref={leftLegRef} position={[-0.11, -0.52, 0.015]}>
-  <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+  <cylinderGeometry args={[0.068, 0.086, 0.52, 10]} />
   <meshStandardMaterial color={actualLegColor} roughness={0.82} />
 </mesh>
 {/* Bal térd bump */}
@@ -1241,8 +1246,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 </mesh>
 
       {/* ══ RIGHT LEG ═══════════════════════════════════════ */}
- <mesh ref={rightLegRef} position={[0.11, -0.52, -0.015]}>
-  <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+<mesh ref={rightLegRef} position={[0.11, -0.52, -0.015]}>
+  <cylinderGeometry args={[0.068, 0.086, 0.52, 10]} />
   <meshStandardMaterial color={actualLegColor} roughness={0.82} />
 </mesh>
 {/* Jobb térd bump */}
