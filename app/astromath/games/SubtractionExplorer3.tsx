@@ -370,8 +370,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [300, 400],
-      answer: 700,
+      groups: [3, 4],
+      answer: 7,
       blockIcon: "🔢",
       instruction: "t1_inst",
       hint1: "t1_h1",
@@ -392,8 +392,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [200, 400],
-      answer: 600,
+      groups: [2, 4],
+      answer: 6,
       blockIcon: "🔢",
       instruction: "t2_inst",
       hint1: "t2_h1",

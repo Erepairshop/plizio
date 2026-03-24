@@ -282,8 +282,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [500, 500, 500, 500],
-      answer: 2000,
+      groups: [1, 1, 1, 1],
+      answer: 4,
       blockIcon: "⚖️",
       instruction: "t2_inst",
       hint1: "t2_h1",

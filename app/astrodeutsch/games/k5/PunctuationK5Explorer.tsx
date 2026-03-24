@@ -1,204 +1,366 @@
 "use client";
+// PunctuationK5Explorer — Island i5: Zeichensetzung (Punctuation)
+// Topics: 1) Komma bei Aufzählung 2) Komma (Hauptsatz/Nebensatz) 3) Direkte Rede 4) Doppelpunkt & Semikolon 5) Gemischtes Quiz
+
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-15" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Aufzählung</text>
+        <text x="0" y="15" fontSize="14" fill="#0284C7" textAnchor="middle">Äpfel<tspan fill="#E11D48" fontWeight="bold"> , </tspan>Birnen<tspan fill="#16A34A" fontWeight="bold"> und </tspan>Bananen</text>
+        <text x="0" y="40" fontSize="10" fill="#0369A1" textAnchor="middle">Kein Komma vor 'und' / 'oder'!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FDF2F8" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-15" width="70" height="30" rx="4" fill="#FBCFE8" />
+        <text x="-55" y="5" fontSize="12" fontWeight="bold" fill="#BE185D" textAnchor="middle">Hauptsatz</text>
+        
+        <text x="-10" y="8" fontSize="24" fontWeight="black" fill="#E11D48" textAnchor="middle">,</text>
+        
+        <rect x="0" y="-15" width="90" height="30" rx="4" fill="#F9A8D4" />
+        <text x="45" y="5" fontSize="12" fontWeight="bold" fill="#BE185D" textAnchor="middle">weil / dass ...</text>
+        <text x="0" y="45" fontSize="10" fill="#9D174D" textAnchor="middle">Sätze immer trennen!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-50" y="0" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">Er ruft</text>
+        <text x="-20" y="-2" fontSize="20" fontWeight="black" fill="#EA580C" textAnchor="middle">:</text>
+        <text x="30" y="5" fontSize="18" fontWeight="bold" fill="#B45309" textAnchor="middle">„Komm!“</text>
+        <text x="0" y="40" fontSize="10" fill="#9A3412" textAnchor="middle">Doppelpunkt und Anführungszeichen</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="-5" fontSize="30" fontWeight="black" fill="#16A34A" textAnchor="middle">:</text>
+        <text x="-40" y="30" fontSize="10" fill="#15803D" textAnchor="middle">Achtung!</text>
+        
+        <text x="40" y="-5" fontSize="30" fontWeight="black" fill="#16A34A" textAnchor="middle">;</text>
+        <text x="40" y="30" fontSize="10" fill="#15803D" textAnchor="middle">Halber Punkt</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="k5Grad5_5" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.2" />
+          <stop offset="100%" stopColor="#6D28D9" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#k5Grad5_5)" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-5" fontSize="30" textAnchor="middle">✍️</text>
+        <text x="0" y="30" fontSize="16" fontWeight="bold" fill="#4C1D95" textAnchor="middle">Zeichen-Mix</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
-    title1: "Komma bei Aufzählungen",
-    text1: "Wir setzen Kommas zwischen aufgezählte Wörter. Vor dem 'und' kommt KEIN Komma. Beispiel: 'Maria, Peter und Anna gehen ins Kino.'",
-    q1: "Richtig: 'Ich kaufe Äpfel, Bananen ___ Orangen.'?",
-    a1: "und",
-    b1: ", und",
-    c1: "; und",
-    d1: ": und",
+    explorer_title: "Zeichensetzung",
 
-    title2: "Komma bei Nebensätzen",
-    text2: "Wir setzen Kommas vor Nebensätze (mit Konjunktionen wie: weil, dass, wenn, obwohl, nachdem). Beispiel: 'Ich gehe ins Kino, weil der Film interessant ist.'",
-    q2: "Richtig: 'Er schläft schon, ___ es noch früh ist'?",
-    a2: "obwohl",
-    b2: "und",
-    c2: "sondern",
-    d2: "aber",
+    // T1
+    t1_title: "Komma bei Aufzählungen",
+    t1_text: "Wenn wir mehrere Dinge hintereinander nennen, trennen wir sie mit einem Komma. Aber Achtung: Vor den Wörtern 'und' sowie 'oder' steht KEIN Komma!",
+    t1_b1: "Richtig: Ich kaufe Brot, Butter und Milch.",
+    t1_b2: "Falsch: Ich kaufe Brot, Butter, und Milch.",
+    t1_b3: "Das Komma ersetzt quasi das 'und'.",
+    t1_inst: "Wo fehlt das Komma? Markiere das Wort VOR dem fehlenden Komma!",
+    t1_h1: "Wir zählen Tiere auf: Hunde, Katzen, Vögel...",
+    t1_h2: "Zwischen 'Hunde' und 'Katzen' fehlt ein Komma.",
+    t1_w1: "Ich", t1_w2: "mag", t1_w3: "Hunde", t1_w4: "Katzen", t1_w5: "und", t1_w6: "Mäuse.",
+    t1_q: "Vor welchem Wort darf bei einer normalen Aufzählung KEIN Komma stehen?",
+    t1_q_a: "und", t1_q_b: "weil", t1_q_c: "dass", t1_q_d: "aber",
 
-    title3: "Direkte Rede",
-    text3: "Direkte Rede: Wir schreiben Großbuchstaben im Anführungszeichen. Ein Komma trennt den Satz vom Redeverb. Beispiel: 'Maria sagt: \"Ich bin müde.\"'",
-    q3: "Richtig: ___ Maria: \"Ich liebe Sport.\"?",
-    a3: "\"Ich liebe Sport,\" sagt",
-    b3: "\"Ich liebe Sport.\" sagt",
-    c3: "Ich liebe Sport sagt",
-    d3: "sagt: Ich liebe Sport",
+    // T2
+    t2_title: "Haupt- und Nebensatz",
+    t2_text: "Ein Komma trennt immer Hauptsatz und Nebensatz voneinander. Du erkennst den Nebensatz oft an Bindewörtern wie 'weil', 'dass', 'wenn', 'obwohl'.",
+    t2_b1: "Beispiel: Ich gehe schlafen, WEIL ich müde bin.",
+    t2_b2: "Beispiel: Er sagt, DASS er kommt.",
+    t2_b3: "Das Komma steht direkt vor dem Bindewort.",
+    t2_inst: "Welches Zeichen fehlt an der Lücke?",
+    t2_h1: "Wir verbinden einen Hauptsatz mit einem Nebensatz (eingeleitet durch 'dass').",
+    t2_h2: "Vor 'dass' muss ein Komma stehen.",
+    t2_gap_sentence: "Ich hoffe {gap} dass morgen die Sonne scheint.",
+    t2_c1: ",", t2_c2: ".", t2_c3: ":",
+    t2_q: "Wo muss bei diesem Satz ein Komma hin? 'Er lernt viel weil er eine gute Note will.'",
+    t2_q_a: "Vor das Wort 'weil'", t2_q_b: "Vor das Wort 'er'", t2_q_c: "Nach dem Wort 'weil'", t2_q_d: "Es kommt kein Komma in diesen Satz.",
 
-    title4: "Apostroph",
-    text4: "Der Apostroph zeigt den Wegfall von Buchstaben. Beispiele: 's statt 'das' = 's. Aber: Es gibt KEINE deutschen Genitive mit Apostroph (nicht Maria's)!",
-    q4: "Wo ist der Apostroph richtig?",
-    a4: "Es ist 'ne gute Idee",
-    b4: "Hans' Buch",
-    c4: "Maria's Tasche",
-    d4: "Das is' falsch",
+    // T3
+    t3_title: "Die direkte Rede",
+    t3_text: "Wenn jemand spricht, benutzen wir den Doppelpunkt und Anführungszeichen. Das Schlusszeichen (Punkt, Fragezeichen, Ausrufezeichen) steht VOR den oberen Anführungszeichen.",
+    t3_b1: "Er fragt: „Kommst du mit?“",
+    t3_b2: "Sie ruft: „Halt!“",
+    t3_b3: "Der Begleitsatz (Er fragt) endet mit einem Doppelpunkt.",
+    t3_inst: "Bringe den Satz mit direkter Rede in die richtige Reihenfolge!",
+    t3_h1: "Beginne mit dem Begleitsatz: 'Mama sagt:'",
+    t3_h2: "Dann öffne die Anführungszeichen: „Das Essen ist fertig!“",
+    t3_w1: "Mama", t3_w2: "sagt:", t3_w3: "„Das", t3_w4: "Essen", t3_w5: "ist", t3_w6: "fertig!“",
+    t3_q: "Wo steht der Punkt in einem normalen Aussagesatz der direkten Rede?",
+    t3_q_a: "Vor dem abschließenden Anführungszeichen (z.B. ... gut.“)", t3_q_b: "Nach dem Anführungszeichen (z.B. ... gut“.)", t3_q_c: "Es gibt keinen Punkt.", t3_q_d: "Vor dem ersten Anführungszeichen.",
 
-    title5: "Große Prüfung",
-    text5: "Teste dein Wissen über Zeichensetzung!",
-    q5a: "Komma bei Aufzählung: 'Tisch, Stuhl ___ Bett'?",
-    a5a: "und",
-    b5a: ", und",
-    c5a: "; und",
-    d5a: "- und",
-    q5b: "Richtig: 'Komm ___ ich dir alles zeige'?",
-    a5b: ", damit",
-    b5b: "damit",
-    c5b: ", wenn",
-    d5b: "; damit",
-    q5c: "Direkte Rede: Richtig?",
-    a5c: "\"Hallo!\" sagt er.",
-    b5c: "\"Hallo\" sagt er.",
-    c5c: "Hallo,\" sagt er.",
-    d5c: "sagt er: \"Hallo\"",
+    // T4
+    t4_title: "Doppelpunkt & Semikolon",
+    t4_text: "Der Doppelpunkt (:) kündigt etwas an: eine Aufzählung, eine Erklärung oder direkte Rede. Das Semikolon (;) trennt zwei Sätze stärker als ein Komma, aber schwächer als ein Punkt.",
+    t4_b1: "Doppelpunkt: Ich brauche: Mehl, Zucker, Eier.",
+    t4_b2: "Semikolon: Es regnet; wir bleiben drinnen.",
+    t4_b3: "Nach einem Semikolon schreibt man klein weiter!",
+    t4_inst: "Verbinde das Satzzeichen mit seiner Aufgabe!",
+    t4_h1: "Der Doppelpunkt (:) kündigt eine Aufzählung an.",
+    t4_h2: "Das Semikolon (;) trennt Sätze wie ein halber Punkt.",
+    t4_l1: "Doppelpunkt (:)", t4_r1: "kündigt etwas an",
+    t4_l2: "Semikolon (;)", t4_r2: "trennt Sätze (halber Punkt)",
+    t4_l3: "Komma (,)", t4_r3: "trennt Haupt- und Nebensatz",
+    t4_l4: "Punkt (.)", t4_r4: "beendet einen Aussagesatz",
+    t4_q: "Wie schreibt man nach einem Doppelpunkt (:) weiter, wenn ein kompletter Satz folgt?",
+    t4_q_a: "Groß", t4_q_b: "Klein", t4_q_c: "Es kommt darauf an, ob es ein Nomen ist", t4_q_d: "Immer klein",
+
+    // T5
+    t5_title: "Zeichen-Mix",
+    t5_text: "Zeig, was du kannst! Kommas bei Aufzählungen, vor Nebensätzen oder die richtige Setzung bei direkter Rede.",
+    t5_b1: "Komma vor 'dass' und 'weil'.",
+    t5_b2: "Kein Komma vor 'und'.",
+    t5_b3: "Achte auf den Doppelpunkt.",
+    t5_inst: "Ist das Komma in diesem Satz RICHTIG oder FALSCH gesetzt?",
+    t5_h1: "Erinnerung: Vor 'und' kommt kein Komma.",
+    t5_h2: "Vor Nebensätzen (weil, dass) muss ein Komma stehen.",
+    t5_bucket_richtig: "Richtig ✅",
+    t5_bucket_falsch: "Falsch ❌",
+    t5_item_r1: "Ich weiß, dass du kommst.", t5_item_r2: "Brot, Milch und Käse.",
+    t5_item_f1: "Er lacht, und spielt.", t5_item_f2: "Ich denke dass es regnet.",
+    t5_q: "Welcher Satz ist komplett richtig?",
+    t5_q_a: "Sie sagt: „Ich komme gleich.“", t5_q_b: "Sie sagt, „Ich komme gleich“.", t5_q_c: "Sie sagt: Ich komme gleich.", t5_q_d: "Sie sagt „Ich komme gleich“:",
   },
   en: {
-    title1: "Commas in Lists",
-    text1: "We use commas between listed words. Before 'and' there is NO comma. Example: 'Maria, Peter and Anna go to the cinema.'",
-    q1: "Correct: 'I buy apples, bananas ___ oranges.'?",
-    a1: "and",
-    b1: ", and",
-    c1: "; and",
-    d1: ": and",
-
-    title2: "Commas with Subordinate Clauses",
-    text2: "We use commas before subordinate clauses (with conjunctions like: because, that, if, although, after). Example: 'I go to the cinema because the movie is interesting.'",
-    q2: "Correct: 'He sleeps already, ___ it is still early'?",
-    a2: "although",
-    b2: "and",
-    c2: "but",
-    d2: "or",
-
-    title3: "Direct Speech",
-    text3: "Direct speech: We write capital letters inside quotation marks. A comma separates the sentence from the speech verb. Example: 'Maria says: \"I am tired.\"'",
-    q3: "Correct: ___ Maria: \"I love sports.\"?",
-    a3: "\"I love sports,\" says",
-    b3: "\"I love sports.\" says",
-    c3: "I love sports says",
-    d3: "says: I love sports",
-
-    title4: "Apostrophe",
-    text4: "The apostrophe shows omitted letters. Examples: 'tis for 'it is'. But: There are NO English possessives with apostrophe after 's' for plural (not apples')!",
-    q4: "Where is the apostrophe correct?",
-    a4: "It's a good idea",
-    b4: "Johns' book",
-    c4: "Books'",
-    d4: "Dont'",
-
-    title5: "Big Test",
-    text5: "Test your knowledge of punctuation!",
-    q5a: "Comma in list: 'table, chair ___ bed'?",
-    a5a: "and",
-    b5a: ", and",
-    c5a: "; and",
-    d5a: "- and",
-    q5b: "Correct: 'Come ___ I show you everything'?",
-    a5b: ", so",
-    b5b: "so",
-    c5b: ", if",
-    d5b: "; so",
-    q5c: "Direct speech: Correct?",
-    a5c: "\"Hello!\" he said.",
-    b5c: "\"Hello\" he said.",
-    c5c: "Hello,\" he said.",
-    d5c: "he said: \"Hello\"",
+    explorer_title: "Punctuation",
+    t1_inst: "Where is the comma missing? Highlight the word BEFORE the missing comma!",
+    t1_h1: "We are listing animals: Hunde, Katzen, Vögel...",
+    t1_h2: "A comma is missing between 'Hunde' and 'Katzen'.",
+    t2_inst: "Which punctuation mark is missing in the gap?",
+    t2_h1: "We are connecting a main clause with a subordinate clause ('dass').",
+    t2_h2: "There must be a comma before 'dass'.",
+    t3_inst: "Put the sentence with direct speech in the correct order!",
+    t3_h1: "Start with the introductory phrase: 'Mama sagt:'",
+    t3_h2: "Then open the quotes: „Das Essen ist fertig!“",
+    t4_inst: "Match the punctuation mark with its function!",
+    t4_h1: "The colon (:) introduces a list or speech.",
+    t4_h2: "The semicolon (;) separates sentences like a half-period.",
+    t5_inst: "Is the comma usage in the sentence CORRECT or INCORRECT? Sort them!",
+    t5_h1: "Reminder: No comma before 'und'.",
+    t5_h2: "A comma must be placed before subordinate clauses (weil, dass).",
+    t5_bucket_richtig: "Correct ✅",
+    t5_bucket_falsch: "Incorrect ❌",
   },
+  hu: {
+    explorer_title: "Írásjelek",
+    t1_inst: "Hol hiányzik a vessző? Jelöld ki a hiányzó vessző ELŐTTI szót!",
+    t1_h1: "Állatokat sorolunk fel: Hunde, Katzen, Vögel...",
+    t1_h2: "A 'Hunde' és 'Katzen' közé vessző kell.",
+    t2_inst: "Melyik írásjel hiányzik az űrből?",
+    t2_h1: "Egy főmondatot és egy mellékmondatot kötünk össze ('dass').",
+    t2_h2: "A 'dass' elé vessző kell.",
+    t3_inst: "Tedd a mondatot az egyenes beszéddel a helyes sorrendbe!",
+    t3_h1: "Kezdd a felvezetővel: 'Mama sagt:'",
+    t3_h2: "Aztán nyisd meg az idézőjelet: „Das Essen ist fertig!“",
+    t4_inst: "Kösd össze az írásjelet a feladatával!",
+    t4_h1: "A kettőspont (:) felsorolást vagy beszédet vezet be.",
+    t4_h2: "A pontosvessző (;) mondatokat választ el, mint egy fél pont.",
+    t5_inst: "HELYES vagy HELYTELEN a vesszőhasználat? Válogasd szét!",
+    t5_h1: "Emlékeztető: Az 'und' elé nem kell vessző.",
+    t5_h2: "A mellékmondatok (weil, dass) elé vesszőt kell tenni.",
+    t5_bucket_richtig: "Helyes ✅",
+    t5_bucket_falsch: "Helytelen ❌",
+  },
+  ro: {
+    explorer_title: "Punctuație",
+    t1_inst: "Unde lipsește virgula? Marchează cuvântul dinaintea virgulei lipsă!",
+    t1_h1: "Enumerăm animale: Hunde, Katzen, Vögel...",
+    t1_h2: "Lipsește o virgulă între 'Hunde' și 'Katzen'.",
+    t2_inst: "Ce semn de punctuație lipsește în spațiu?",
+    t2_h1: "Conectăm o propoziție principală cu una secundară ('dass').",
+    t2_h2: "Trebuie să fie o virgulă înainte de 'dass'.",
+    t3_inst: "Așază propoziția cu vorbire directă în ordinea corectă!",
+    t3_h1: "Începe cu expresia introductivă: 'Mama sagt:'",
+    t3_h2: "Apoi deschide ghilimelele: „Das Essen ist fertig!“",
+    t4_inst: "Asociază semnul de punctuație cu funcția sa!",
+    t4_h1: "Două puncte (:) introduc o listă sau vorbirea.",
+    t4_h2: "Punct și virgulă (;) separă propozițiile ca un semi-punct.",
+    t5_inst: "Utilizarea virgulei în propoziție este CORECTĂ sau INCORECTĂ? Sortează!",
+    t5_h1: "Reține: Fără virgulă înainte de 'und'.",
+    t5_h2: "Trebuie pusă virgulă înaintea propozițiilor secundare (weil, dass).",
+    t5_bucket_richtig: "Corect ✅",
+    t5_bucket_falsch: "Incorect ❌",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6"], // Ich mag Hunde Katzen und Mäuse.
+      correctIndices: [2], // Hunde (da hier das Komma fehlt)
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"], // , . :
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6"], // Mama sagt: „Das Essen ist fertig!“
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" }, // Doppelpunkt -> kündigt an
+        { left: "t4_l2", right: "t4_r2" }, // Semikolon -> trennt Sätze
+        { left: "t4_l3", right: "t4_r3" }, // Komma -> trennt Haupt/Neben
+        { left: "t4_l4", right: "t4_r4" }, // Punkt -> beendet Aussage
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a", // Groß (wenn ganzer Satz folgt)
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "richtig", label: "t5_bucket_richtig" },
+        { id: "falsch", label: "t5_bucket_falsch" },
+      ],
+      items: [
+        { text: "t5_item_r1", bucketId: "richtig" },
+        { text: "t5_item_f1", bucketId: "falsch" },
+        { text: "t5_item_r2", bucketId: "richtig" },
+        { text: "t5_item_f2", bucketId: "falsch" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "title1",
-      infoText: "text1",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Aufzählung</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 4, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div>Äpfel<span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span> Birnen<span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span></div>
-            <div>und Bananen</div>
-            <div style={{ marginTop: 4, fontSize: 11, color: '#475569' }}>Kein Komma vor «und»!</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title2",
-      infoText: "text2",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Nebensätze</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 4, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
-            <div>Ich gehe ins Kino<span style={{ color: '#ef4444', fontWeight: 800 }}>,</span></div>
-            <div>weil der Film interessant ist<span style={{ color: '#10b981', fontWeight: 800 }}>.</span></div>
-            <div style={{ marginTop: 4, fontSize: 10, color: '#475569' }}>Komma VOR der Konjunktion!</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title3",
-      infoText: "text3",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Direkte Rede</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 4, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
-            <div><span style={{ color: '#3b82f6', fontWeight: 800 }}>«</span>Komm her<span style={{ color: '#ef4444', fontWeight: 800 }}>!</span><span style={{ color: '#3b82f6', fontWeight: 800 }}>»</span></div>
-            <div><span style={{ color: '#ef4444', fontWeight: 800 }}>{","}</span> sagte er<span style={{ color: '#10b981', fontWeight: 800 }}>.</span></div>
-            <div style={{ marginTop: 4, fontSize: 10, color: '#475569' }}>Großbuchstaben & Komma</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title4",
-      infoText: "text4",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Apostroph</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
-            <div style={{ color: '#10b981' }}>✓ Es ist<span style={{ color: '#ef4444' }}>&#39;</span>ne gute Idee</div>
-            <div style={{ color: '#ef4444' }}>✗ Maria<span style={{ color: '#ef4444' }}>&#39;</span>s Tasche</div>
-            <div style={{ marginTop: 4, fontSize: 10, color: '#475569' }}>Nur für fehlende Buchstaben!</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title5",
-      infoText: "text5",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Alle Zeichen</p>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600, textAlign: 'center' }}>
-            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff' }}>Komma ,</div>
-            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff' }}>Punkt .</div>
-            <div style={{ background: '#10b981', borderRadius: 8, padding: 8, color: '#ffffff' }}>Anführungszeichen</div>
-            <div style={{ background: '#f59e0b', borderRadius: 8, padding: 8, color: '#ffffff' }}>Apostroph &#39;</div>
-          </div>
-        </div>
-      ),
-      questions: [
-        { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
-        { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },
-        { question: "q5c", choices: ["a5c", "b5c", "c5c", "d5c"], answer: "a5c" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "✒️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
-export default function PunctuationK5Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const PunctuationK5Explorer = memo(function PunctuationK5Explorer({
+  color = "#6366F1",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={5} explorerId="deutsch_k5_punctuation" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default PunctuationK5Explorer;

@@ -52,7 +52,7 @@ const LABELS: Record<string, Record<string, string>> = {
     a5c: "mit",
     b5c: "mit dem",
     c5c: "mit meinem",
-    d5d: "mit meinen",
+    d5c: "mit meinen",
   },
   en: {
     title1: "Adjectives & Pronouns",

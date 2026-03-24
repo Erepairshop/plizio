@@ -1,188 +1,269 @@
 "use client";
+// ReviewK7Explorer — Island i9: Große K7 Abschlussprüfung (The Big K7 Final Exam)
+// Topics: 1) Konjunktiv I Check 2) Passiv-Zeiten Check 3) Stilmittel 4) Nebensätze 5) Infinitiv & Ersatzformen
 
-import React from "react";
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-15" fontSize="40" textAnchor="middle">🎓</text>
+        <text x="0" y="30" fontSize="18" fontWeight="black" fill="#0369A1" textAnchor="middle">K7 Master</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
-    r1_info_title: "🌟 Große Prüfung: K7 Übersicht",
-    r1_info_text: "Willkommen zur Großen Prüfung! Hier werden alle Themen der 7. Klasse abgefragt. Du wirst Fragen zu Konjunktiv I, Passiv, Stilmitteln, Nebensätzen und Infinitivkonstruktionen beantworten. Jede Frage prüft dein Verständnis dieser wichtigen Grammatikthemen. Viel Erfolg!",
-    r1_q: "Welcher Satz steht in indirekter Rede mit Konjunktiv I?",
-    r1_a1: "Er sagte, er sei glücklich.",
-    r1_a2: "Er sagte, er ist glücklich.",
-    r1_a3: "Er sagte, er war glücklich.",
-    r1_a4: "Er sagte, er wird glücklich sein.",
-    r2_info_title: "🔄 Passiv & Modalverben",
-    r2_info_text: "Du kennst jetzt Werden-Passiv, Sein-Passiv und Passiv mit Modalverben. Erinnere dich: werden + Partizip II = Aktion, sein + Partizip II = Zustand. Modalverben im Passiv: können, müssen, sollen, wollen, dürfen.",
-    r2_q: "Was ist korrekt? 'Das Problem muss gelöst ___.'",
-    r2_a1: "werden",
-    r2_a2: "sein",
-    r2_a3: "haben",
-    r2_a4: "machen",
-    r3_info_title: "🎭 Stilmittel & Nebensätze",
-    r3_info_text: "Stilmittel (Metapher, Vergleich, Personifikation, Alliteration, Hyperbel) machen Texte ausdrucksstärker. Nebensätze (Kausal-, Konditional-, Konzessiv-, Final-, Temporal-) erweitern die Satzstruktur. Beides ist wichtig für gutes Schreiben und Verstehen.",
-    r3_q: "Welches Stilmittel liegt vor? 'Das Herz brach.'",
-    r3_a1: "Metapher",
-    r3_a2: "Vergleich",
-    r3_a3: "Alliteration",
-    r3_a4: "Hyperbel",
-    r4_info_title: "🌿 Infinitivkonstruktionen",
-    r4_info_text: "Infinitivkonstruktionen mit um...zu, ohne...zu und anstatt...zu ersetzen Nebensätze und machen Texte kürzer. Wichtig: Bei um...zu müssen die Subjekte gleich sein. Diese Konstruktionen sind stilistisch besser als lange Nebensätze.",
-    r4_q: "Was ist korrekt? 'Ich gehe zur Schule, ____ zu lernen.'",
-    r4_a1: "um",
-    r4_a2: "ohne",
-    r4_a3: "damit",
-    r4_a4: "obwohl",
-    r5_info_title: "✅ Finale Wiederholung: K7",
-    r5_info_text: "Teste all dein Wissen der 7. Klasse!",
-    r5_q1: "Zeitenfolge nach 'nachdem': 'Nachdem er ___ hatte, ____ er.'",
-    r5_q1_a1: "gegessen / ging spazieren",
-    r5_q1_a2: "isst / ging spazieren",
-    r5_q1_a3: "essen / ging spazieren",
-    r5_q1_a4: "gegessen / geht spazieren",
-    r5_q2: "Korrekt: 'Während ich ___ las, telefonierte __.'",
-    r5_q2_a1: "ein Buch / er",
-    r5_q2_a2: "bücher / ihm",
-    r5_q2_a3: "das Buch / mich",
-    r5_q2_a4: "die Zeitung / sie",
-    r5_q3: "Finalsatz oder Konzessivsatz? 'Ich trainiere, obwohl ich müde bin.'",
-    r5_q3_a1: "Konzessivsatz",
-    r5_q3_a2: "Finalsatz",
-    r5_q3_a3: "Kausalsatz",
-    r5_q3_a4: "Temporalsatz",
+    explorer_title: "Große K7 Prüfung",
+    // T1: Konjunktiv I
+    t1_title: "Indirekte Rede Check",
+    t1_text: "Konjunktiv I wird für neutrale Berichterstattung genutzt. Weißt du noch, wie die Formen von 'sein' und 'haben' lauten?",
+    t1_b1: "er sei (Konj. I) vs. er ist (Ind.)",
+    t1_b2: "er habe (Konj. I) vs. er hat (Ind.)",
+    t1_b3: "Wichtig in Zeitungen!",
+    t1_inst: "Welche Form von Konjunktiv I ist korrekt?",
+    t1_h1: "Der Reporter sagt, der Spieler ___ fit.",
+    t1_h2: "Die Antwort ist 'sei'.",
+    t1_gap_sentence: "Er berichtet, dass alles in Ordnung {gap}.",
+    t1_c1: "sei", t1_c2: "ist", t1_c3: "wäre",
+    t1_q: "Wofür nutzt man den Konjunktiv I primär?",
+    t1_q_a: "Für die indirekte Rede", t1_q_b: "Für irreale Wünsche", t1_q_c: "Für Befehle", t1_q_d: "Für die ferne Zukunft",
+
+    // T2: Passiv Zeiten
+    t2_title: "Passiv durch die Zeiten",
+    t2_text: "Präsens, Präteritum oder Perfekt Passiv? Das Hilfsverb verrät dir die Zeitform.",
+    t2_b1: "wird gebaut (Präsens)",
+    t2_b2: "wurde gebaut (Präteritum)",
+    t2_b3: "ist gebaut worden (Perfekt)",
+    t2_inst: "Welche Zeitform hat der Satz? Sortiere!",
+    t2_h1: "'wird' = jetzt, 'wurde' = damals, 'worden' = abgeschlossen.",
+    t2_h2: "'ist ... worden' = Perfekt Passiv (abgeschlossene Handlung).",
+    t2_bucket_prae: "Präsens Passiv",
+    t2_bucket_praet: "Präteritum Passiv",
+    t2_bucket_perf: "Perfekt Passiv",
+    t2_item_p1: "Der Brief wird gelesen.", t2_item_p2: "Der Brief wurde gelesen.",
+    t2_item_p3: "Der Brief ist gelesen worden.",
+    t2_q: "Wie bildet man das Passiv im Perfekt?",
+    t2_q_a: "sein + Partizip II + worden", t2_q_b: "haben + Partizip II + worden", t2_q_c: "werden + Partizip II + sein", t2_q_d: "ist + Partizip II + geworden",
+
+    // T3: Stilmittel
+    t3_title: "Literarische Bilder",
+    t3_text: "Metapher, Vergleich oder Personifikation? Diese Mittel machen Texte lebendig.",
+    t3_b1: "Metapher: Bild ohne 'wie'.",
+    t3_b2: "Vergleich: Bild mit 'wie'.",
+    t3_b3: "Personifikation: Menschliche Züge.",
+    t3_inst: "Welches Stilmittel liegt vor? Verbinde!",
+    t3_h1: "'Stark wie ein Bär' nutzt ein Vergleichswort.",
+    t3_h2: "'Die Sonne lacht' ist menschlich.",
+    t3_l1: "Stark wie ein Löwe", t3_r1: "Vergleich",
+    t3_l2: "Warteschlange", t3_r2: "Metapher",
+    t3_l3: "Die Mauer schweigt", t3_r3: "Personifikation",
+    t3_l4: "Veni, vidi, vici", t3_r4: "Anapher / Alliteration",
+    t3_q: "Was ist 'Rabenmutter' für ein Stilmittel?",
+    t3_q_a: "Metapher", t3_q_b: "Vergleich", t3_q_c: "Personifikation", t3_q_d: "Alliteration",
+
+    // T4: Nebensätze
+    t4_title: "Logische Verbindungen",
+    t4_text: "Obwohl, damit, falls oder ob? Wähle das richtige Bindewort für den Sinn des Satzes.",
+    t4_b1: "obwohl (Gegengrund)",
+    t4_b2: "damit (Ziel)",
+    t4_b3: "ob (indirekte Frage)",
+    t4_inst: "Welches Bindewort passt in die Lücke?",
+    t4_h1: "Ich gehe raus, ___ es regnet. (Gegengrund!)",
+    t4_h2: "Hier passt nur 'obwohl'.",
+    t4_gap_sentence2: "Ich gehe spazieren, {gap} es regnet.",
+    t4_c1: "obwohl", t4_c2: "weil", t4_c3: "damit",
+    t4_q: "Welches Wort leitet einen Finalsatz (Ziel) ein?",
+    t4_q_a: "damit", t4_q_b: "obwohl", t4_q_c: "trotzdem", t4_q_d: "weil",
+
+    // T5: Infinitiv & Ersatzformen
+    t5_title: "Satzbau-Finale",
+    t5_text: "Infinitivkonstruktionen (um...zu) und Passiversatzformen (sein+zu) sind Zeichen für gehobene Sprache.",
+    t5_b1: "um ... zu (Zweck)",
+    t5_b2: "sein + zu (müssen/können Passiv)",
+    t5_b3: "lässt sich ... (können Passiv)",
+    t5_inst: "Bringe den Satz in die richtige Reihenfolge!",
+    t5_h1: "Der Satz bedeutet: 'This task is to be solved.'",
+    t5_h2: "Start mit 'Diese', Ende mit 'lösen.'",
+    t5_w1: "Diese", t5_w2: "Aufgabe", t5_w3: "ist", t5_w4: "bis", t5_w5: "morgen", t5_w6: "zu", t5_w7: "lösen.",
+    t5_q: "Was bedeutet 'Das lässt sich reparieren'?",
+    t5_q_a: "Das kann repariert werden.", t5_q_b: "Man muss es reparieren.", t5_q_c: "Es ist kaputt.", t5_q_d: "Man repariert es gerade.",
   },
   en: {
-    r1_info_title: "🌟 Big Test: Grade 7 Overview",
-    r1_info_text: "Welcome to the Big Test! All Grade 7 topics will be tested here. You will answer questions about Subjunctive I, passive voice, figures of speech, subordinate clauses, and infinitive constructions. Each question tests your understanding of these important grammar topics. Good luck!",
-    r1_q: "Which sentence is in indirect speech with Subjunctive I?",
-    r1_a1: "He said he be happy.",
-    r1_a2: "He said he is happy.",
-    r1_a3: "He said he was happy.",
-    r1_a4: "He said he will be happy.",
-    r2_info_title: "🔄 Passive & Modal Verbs",
-    r2_info_text: "You now know werden-passive, sein-passive, and passive with modal verbs. Remember: werden + past participle = action, sein + past participle = state. Modal verbs in passive: können, müssen, sollen, wollen, dürfen.",
-    r2_q: "What's correct? 'The problem must be solved ___.'",
-    r2_a1: "be (verb form)",
-    r2_a2: "is",
-    r2_a3: "have",
-    r2_a4: "make",
-    r3_info_title: "🎭 Figures of Speech & Clauses",
-    r3_info_text: "Figures of speech (metaphor, simile, personification, alliteration, hyperbole) make texts more expressive. Subordinate clauses (causal, conditional, concessive, final, temporal) expand sentence structure. Both are important for good writing and understanding.",
-    r3_q: "Which figure of speech is present? 'The heart broke.'",
-    r3_a1: "Metaphor",
-    r3_a2: "Simile",
-    r3_a3: "Alliteration",
-    r3_a4: "Hyperbole",
-    r4_info_title: "🌿 Infinitive Constructions",
-    r4_info_text: "Infinitive constructions with um...zu, ohne...zu, and anstatt...zu replace subordinate clauses and make texts shorter. Important: With um...zu the subjects must be the same. These constructions are stylistically better than long clauses.",
-    r4_q: "What's correct? 'I go to school ____ to learn.'",
-    r4_a1: "in order",
-    r4_a2: "without",
-    r4_a3: "so that",
-    r4_a4: "although",
-    r5_info_title: "✅ Final Review: Grade 7",
-    r5_info_text: "Test all your Grade 7 knowledge!",
-    r5_q1: "Tense sequence after 'after': 'After he ___ had, he ___.'",
-    r5_q1_a1: "eaten / went for walk",
-    r5_q1_a2: "eats / went for walk",
-    r5_q1_a3: "eat / went for walk",
-    r5_q1_a4: "eaten / goes for walk",
-    r5_q2: "Correct: 'While I ___ read, he ___.'",
-    r5_q2_a1: "a book / called",
-    r5_q2_a2: "books / called him",
-    r5_q2_a3: "the book / me",
-    r5_q2_a4: "the newspaper / her",
-    r5_q3: "Final or concessive clause? 'I train although I'm tired.'",
-    r5_q3_a1: "Concessive clause",
-    r5_q3_a2: "Final clause",
-    r5_q3_a3: "Causal clause",
-    r5_q3_a4: "Temporal clause",
+    explorer_title: "Final Exam K7",
+    t1_inst: "Which form of Konjunktiv I is correct?",
+    t2_inst: "Which tense does the sentence have? Sort them!",
+    t3_inst: "Which stylistic device is present? Connect them!",
+    t4_inst: "Which conjunction fits in the gap?",
+    t5_inst: "Put the sentence in the correct order!",
   },
+  hu: {
+    explorer_title: "Záróvizsga K7",
+    t1_inst: "Melyik Konjunktiv I alak a helyes?",
+    t2_inst: "Melyik igeidőben van a mondat? Válogasd szét!",
+    t2_bucket_prae: "Jelen Passzív",
+    t2_bucket_praet: "Múlt (Prät.) Passzív",
+    t2_bucket_perf: "Befejezett (Perf.) Passzív",
+    t3_inst: "Melyik stilisztikai eszközt látod? Kösd össze!",
+    t4_inst: "Melyik kötőszó illik az űrbe?",
+    t5_inst: "Tedd a mondatot a helyes sorrendbe!",
+  },
+  ro: {
+    explorer_title: "Examen Final K7",
+    t1_inst: "Care formă de Konjunktiv I este corectă?",
+    t2_inst: "La ce timp este propoziția? Sortează-le!",
+    t3_inst: "Ce figură de stil este prezentă? Leagă-le!",
+    t4_inst: "Care conjuncție se potrivește în spațiu?",
+    t5_inst: "Așază propoziția în ordinea corectă!",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "prae", label: "t2_bucket_prae" },
+        { id: "praet", label: "t2_bucket_praet" },
+        { id: "perf", label: "t2_bucket_perf" },
+      ],
+      items: [
+        { text: "t2_item_p1", bucketId: "prae" },
+        { text: "t2_item_p2", bucketId: "praet" },
+        { text: "t2_item_p3", bucketId: "perf" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+        { left: "t3_l4", right: "t3_r4" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t4_gap_sentence2",
+      choices: ["t4_c1", "t4_c2", "t4_c3"],
+      correctIndex: 0,
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4", "t5_w5", "t5_w6", "t5_w7"],
+      correctOrder: [0, 1, 2, 3, 4, 5, 6],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_info_title",
-      infoText: "r1_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            🌟
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r1_q", choices: ["r1_a1", "r1_a2", "r1_a3", "r1_a4"], answer: "r1_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_info_title",
-      infoText: "r2_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fed7aa 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            🔄
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r2_q", choices: ["r2_a1", "r2_a2", "r2_a3", "r2_a4"], answer: "r2_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_info_title",
-      infoText: "r3_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #e0e7ff 0%, #ddd6fe 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            🎭
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r3_q", choices: ["r3_a1", "r3_a2", "r3_a3", "r3_a4"], answer: "r3_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_info_title",
-      infoText: "r4_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            🌿
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r4_q", choices: ["r4_a1", "r4_a2", "r4_a3", "r4_a4"], answer: "r4_a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_info_title",
-      infoText: "r5_info_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" style={{ background: "linear-gradient(135deg, #fef3c7 0%, #fcd34d 100%)" }}>
-          <text x="120" y="80" textAnchor="middle" fontSize="60">
-            ✅
-          </text>
-        </svg>
-      ),
-      questions: [
-        { question: "r5_q1", choices: ["r5_q1_a1", "r5_q1_a2", "r5_q1_a3", "r5_q1_a4"], answer: "r5_q1_a1" },
-        { question: "r5_q2", choices: ["r5_q2_a1", "r5_q2_a2", "r5_q2_a3", "r5_q2_a4"], answer: "r5_q2_a1" },
-        { question: "r5_q3", choices: ["r5_q3_a1", "r5_q3_a2", "r5_q3_a3", "r5_q3_a4"], answer: "r5_q3_a1" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "👑",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color?: string;
-  lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function ReviewK7Explorer({ color = "#4ECDC4", lang = "de", onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const ReviewK7Explorer = memo(function ReviewK7Explorer({
+  color = "#A855F7",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={7} explorerId="deutsch_k7_review_final" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default ReviewK7Explorer;

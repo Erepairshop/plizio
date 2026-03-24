@@ -1,92 +1,260 @@
 "use client";
+// ReviewK6Explorer — Island i9: Große K3 Abschlussprüfung (The Big K6 Final Exam)
+// Topics: 1) Passiv-Check 2) Konjunktiv II 3) Infinitiv mit „zu" 4) Wortbildung 5) Zeichensetzung
+
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -60,20 L -20,20 L -20,0 M 20,20 L 60,20 L 60,-20" fill="none" stroke="#0284C7" strokeWidth="3" />
+        <text x="0" y="35" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">K6 Experte</text>
+        <text x="0" y="-15" fontSize="35" textAnchor="middle">🏆</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    r1_title: "⭐ Review: Aktiv & Passiv",
-    r1_text: "Recall: AKTIV = subject acts. PASSIV = subject receives. Transform: 'Die Lehrer korrigieren die Hefte.' → 'Die Hefte werden von den Lehrern korrigiert.'",
-    r1_q: "Transform to passive: 'Der Künstler malt das Gemälde.'",
-    r1_a: "Das Gemälde wird vom Künstler gemalt.",
-    r1_b: "Das Gemälde malt der Künstler.",
-    r1_c: "Der Künstler ist gemalt.",
-    r1_d: "Das Gemälde gemalt wird.",
-    r2_title: "⭐ Review: Konjunktiv II & Modalverben",
-    r2_text: "Recall: Konjunktiv II = unreality. 'würde + Infinitive' for most verbs. Modals use stems: 'könnte', 'hätte', 'wäre', 'müsste'.",
-    r2_q: "Correct form: 'Wenn ich mehr Zeit ___...'",
-    r2_a: "hätte",
-    r2_b: "habe",
-    r2_c: "hatte",
-    r2_d: "hab",
-    r3_title: "⭐ Review: zu + Infinitiv & Relative Clauses",
-    r3_text: "Recall: zu + Infinitive after certain verbs. Relative clauses use relative pronouns (der, die, das). Main clauses use commas before subordinate clauses.",
-    r3_q: "'Ich anfange ___ arbeiten.'",
-    r3_a: "zu",
-    r3_b: "no zu",
-    r3_c: "um zu",
-    r3_d: "ohne zu",
-    r4_title: "⭐ Review: Wortbildung & Zeichensetzung",
-    r4_text: "Recall: Komposita = two words joined. Ableitung = prefixes + suffixes. Kommas before subordinate clauses. Colons before lists.",
-    r4_q1: "Which is a compound word?",
-    r4_ans1: "Schreibtisch",
-    r5_title: "⭐ Final Challenge: Mixed",
-    r5_text: "Test all K6 topics!",
-    r5_q1: "Identify: 'Das ist das Buch, das ich las.' Which clause?",
-    r5_rel: "Relative clause",
-    r5_caus: "Causal clause",
-    r5_q2: "Which prefix means 'wrong'?",
-    r5_ver: "ver-",
-    r5_un: "un-",
-  },
   de: {
-    r1_title: "⭐ Wiederholung: Aktiv & Passiv",
-    r1_text: "Erinnere: AKTIV = Subjekt handelt. PASSIV = Subjekt wird behandelt. Umwandlung: 'Die Lehrer korrigieren die Hefte.' → 'Die Hefte werden von den Lehrern korrigiert.'",
-    r1_q: "Transformiere in Passiv: 'Der Künstler malt das Gemälde.'",
-    r1_a: "Das Gemälde wird vom Künstler gemalt.",
-    r1_b: "Das Gemälde malt der Künstler.",
-    r1_c: "Der Künstler ist gemalt.",
-    r1_d: "Das Gemälde gemalt wird.",
-    r2_title: "⭐ Wiederholung: Konjunktiv II",
-    r2_text: "Konjunktiv II = Irrealität. 'würde + Infinitiv' bei most verben. Modalverben: 'könnte', 'hätte', 'wäre', 'müsste'.",
-    r2_q: "Richtig: 'Wenn ich mehr Zeit ___...'",
-    r2_a: "hätte",
-    r2_b: "habe",
-    r2_c: "hatte",
-    r2_d: "hab",
-    r3_title: "⭐ Wiederholung: zu + Infinitiv",
-    r3_text: "Erinnere: zu + Infinitiv nach bestimmten Verben. Relativsätze mit Relativpronomen. Kommas vor Nebensätzen.",
-    r3_q: "'Ich anfange ___ arbeiten.'",
-    r3_a: "zu",
-    r3_b: "kein zu",
-    r3_c: "um zu",
-    r3_d: "ohne zu",
-    r4_title: "⭐ Wiederholung: Wortbildung",
-    r4_text: "Komposita = zwei Wörter verbunden. Ableitung = Präfixe + Suffixe. Kommas vor Nebensätzen. Doppelpunkt vor Listen.",
-    r4_q1: "Welches ist ein Kompositum?",
-    r4_ans1: "Schreibtisch",
-    r5_title: "⭐ Abschließende Herausforderung",
-    r5_text: "Teste alle K6-Themen!",
-    r5_q1: "Erkenne: 'Das ist das Buch, das ich las.' Welcher Nebensatz?",
-    r5_rel: "Relativsatz",
-    r5_caus: "Kausalsatz",
-    r5_q2: "Welches Präfix bedeutet 'falsch'?",
-    r5_ver: "ver-",
-    r5_un: "un-",
+    explorer_title: "Abschlussprüfung K6",
+    // T1: Passiv
+    t1_title: "Passiv-Profi",
+    t1_text: "Weißt du noch, wie man Vorgangspassiv (werden) und Zustandspassiv (sein) unterscheidet?",
+    t1_b1: "Vorgang: Die Tür wird geschlossen.",
+    t1_b2: "Zustand: Die Tür ist geschlossen.",
+    t1_b3: "Wichtig: Das Partizip II steht am Ende.",
+    t1_inst: "Vorgang vagy Zustand? Sortiere die Sätze!",
+    t1_h1: "Achte auf das Hilfsverb: 'wird' (Vorgang) vagy 'ist' (Zustand).",
+    t1_bucket_vor: "Vorgangspassiv",
+    t1_bucket_zus: "Zustandspassiv",
+    t1_item_v1: "Das Haus wird gebaut.", t1_item_v2: "Der Brief wird geschrieben.",
+    t1_item_z1: "Das Haus ist gebaut.", t1_item_z2: "Der Brief ist geschrieben.",
+    t1_q: "Welches Hilfsverb nutzt man für das Vorgangspassiv?",
+    t1_q_a: "werden", t1_q_b: "sein", t1_q_c: "haben", t1_q_d: "würde",
+
+    // T2: Konjunktiv II
+    t2_title: "Wünsche & Träume",
+    t2_text: "Der Konjunktiv II hilft uns, höflich zu sein oder über Unmögliches zu sprechen.",
+    t2_b1: "wäre, hätte, könnte",
+    t2_b2: "würde + Infinitiv",
+    t2_b3: "Wenn ich Zeit hätte, ...",
+    t2_inst: "Welche Form von Konjunktiv II passt hier?",
+    t2_h1: "Es geht um einen Wunsch für 'ich' (sein).",
+    t2_h2: "Die richtige Form ist 'wäre'.",
+    t2_gap_sentence: "Wenn ich doch bloß am Meer {gap}!",
+    t2_c1: "wäre", t2_c2: "bin", t2_c3: "war",
+    t2_q: "Was drückt 'Ich würde gerne fliegen' aus?",
+    t2_q_a: "Einen Wunsch", t2_q_b: "Einen Befehl", t2_q_c: "Einen Fakt", t2_q_d: "Die Vergangenheit",
+
+    // T3: Infinitiv + zu
+    t3_title: "Satzbau mit „zu“",
+    t3_text: "Infinitivsätze mit 'zu' verbinden zwei Handlungen. Bei um/ohne/statt ist ein Komma Pflicht!",
+    t3_b1: "um ... zu (Zweck)",
+    t3_b2: "ohne ... zu (Art und Weise)",
+    t3_b3: "Ich versuche, die Aufgabe zu lösen.",
+    t3_inst: "Bringe den Infinitivsatz in die richtige Reihenfolge!",
+    t3_h1: "Kezdd a kötőszóval: 'um'.",
+    t3_h2: "A 'zu' és az ige ('bleiben.') a mondat végére kerül.",
+    t3_w1: "um", t3_w2: "gesund", t3_w3: "zu", t3_w4: "bleiben.",
+    t3_q: "Brauchen Modalverben (können, müssen) ein 'zu' beim zweiten Verb?",
+    t3_q_a: "Nein, niemals.", t3_q_b: "Ja, immer.", t3_q_c: "Nur am Satzende.", t3_q_d: "Nur in der Schriftsprache.",
+
+    // T4: Wortbildung
+    t4_title: "Wortbau & Nominalisierung",
+    t4_text: "Nomen entstehen oft aus Verben oder Adjektiven. Achte auf die Großschreibung!",
+    t4_b1: "laufen ➔ das Laufen",
+    t4_b2: "schön ➔ etwas Schönes",
+    t4_b3: "Suffixe: -ung, -heit, -keit",
+    t4_inst: "Markiere das nominalisierte Adjektiv in diesem Satz!",
+    t4_h1: "Suche nach einem Adjektiv, das nach 'etwas' steht.",
+    t4_h2: "Das Wort ist 'Gutes'.",
+    t4_w41: "Ich", t4_w42: "erwarte", t4_w43: "heute", t4_w44: "etwas", t4_w45: "Gutes.",
+    t4_q: "Aus welchem Verb entsteht das Nomen 'Erfindung'?",
+    t4_q_a: "erfinden", t4_q_b: "finden", t4_q_c: "fahren", t4_q_d: "binden",
+
+    // T5: Zeichensetzung
+    t5_title: "Finale: Zeichensetzung",
+    t5_text: "Das Komma trennt Haupt- und Nebensätze, Relativsätze und Infinitivgruppen.",
+    t5_b1: "Komma vor 'weil', 'dass', 'der/die/das'.",
+    t5_b2: "Komma bei 'um...zu'.",
+    t5_b3: "Satzklammern bei eingeschobenen Sätzen.",
+    t5_inst: "Verbinde die Satzteile mit dem richtigen Komma!",
+    t5_h1: "Keresd a mellékmondat határát.",
+    t5_l51: "Ich hoffe", t5_r51: ", dass du kommst.",
+    t5_l52: "Der Mann", t5_r52: ", der dort steht",
+    t5_l53: "Er rennt", t5_r53: ", um zu siegen.",
+    t5_q: "Welcher Satz ist korrekt punktiert?",
+    t5_q_a: "Ich weiß, dass du recht hast.", t5_q_b: "Ich weiß dass du recht hast.", t5_q_c: "Ich weiß, dass, du recht hast.", t5_q_d: "Ich weiß dass, du recht hast.",
   },
+  en: {
+    explorer_title: "Final Exam K6",
+    t1_inst: "Process or State? Sort the sentences!",
+    t2_inst: "Which form of Konjunktiv II fits here?",
+    t3_inst: "Put the infinitive clause in the correct order!",
+    t4_inst: "Highlight the nominalized adjective in this sentence!",
+    t5_inst: "Connect the sentence parts with the correct comma!",
+  },
+  hu: {
+    explorer_title: "Záróvizsga K6",
+    t1_inst: "Folyamat vagy állapot? Válogasd szét a mondatokat!",
+    t2_inst: "Melyik Konjunktiv II alak illik ide?",
+    t3_inst: "Tedd az 'um...zu' szerkezetet a helyes sorrendbe!",
+    t4_inst: "Jelöld ki a főnevesült melléknevet a mondatban!",
+    t5_inst: "Kösd össze a mondatrészeket a megfelelő vesszőhasználattal!",
+  },
+  ro: {
+    explorer_title: "Examen Final K6",
+    t1_inst: "Acțiune sau Stare? Sortează propozițiile!",
+    t2_inst: "Ce formă de Konjunktiv II se potrivește aici?",
+    t3_inst: "Așază propoziția cu infinitiv în ordinea corectă!",
+    t4_inst: "Marchează adjectivul nominalizat în această propoziție!",
+    t5_inst: "Conectează părțile de propoziție cu virgula corectă!",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "vor", label: "t1_bucket_vor" },
+        { id: "zus", label: "t1_bucket_zus" },
+      ],
+      items: [
+        { text: "t1_item_v1", bucketId: "vor" },
+        { text: "t1_item_z1", bucketId: "zus" },
+        { text: "t1_item_v2", bucketId: "vor" },
+        { text: "t1_item_z2", bucketId: "zus" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"],
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // um gesund zu bleiben.
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w41", "t4_w42", "t4_w43", "t4_w44", "t4_w45"],
+      correctIndices: [4],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t5_l51", right: "t5_r51" },
+        { left: "t5_l52", right: "t5_r52" },
+        { left: "t5_l53", right: "t5_r53" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    { type: "mcq", infoTitle: "r1_title", infoText: "r1_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="80" cy="80" r="25" fill="#4ECDC4"/><text x="80" y="90" textAnchor="middle" fontSize="40">→</text><circle cx="160" cy="80" r="25" fill="#4ECDC4" opacity="0.5"/><text x="160" y="90" textAnchor="middle" fontSize="40">←</text></svg>, questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_a" }] },
-    { type: "mcq", infoTitle: "r2_title", infoText: "r2_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="120" y="90" textAnchor="middle" fontSize="24" fill="#4ECDC4" fontWeight="bold">?</text></svg>, questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_a" }] },
-    { type: "mcq", infoTitle: "r3_title", infoText: "r3_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><path d="M 80 60 L 120 100 L 160 60" stroke="#4ECDC4" strokeWidth="2" fill="none"/><text x="120" y="130" textAnchor="middle" fontSize="12" fill="#4ECDC4">zu + Infinitiv</text></svg>, questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_a" }] },
-    { type: "mcq", infoTitle: "r4_title", infoText: "r4_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><text x="60" y="80" fontSize="14" fill="#4ECDC4" fontWeight="bold">Wort</text><text x="110" y="80" fontSize="14" fill="#4ECDC4">+</text><text x="160" y="80" fontSize="14" fill="#4ECDC4" fontWeight="bold">Wort</text></svg>, questions: [{ question: "r4_q1", choices: ["r4_ans1", "schreiben", "Tisch", "schriftig"], answer: "r4_ans1" }] },
-    { type: "mcq", infoTitle: "r5_title", infoText: "r5_text", svg: () => <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="160" rx="16" fill="#1a1a3e"/><circle cx="120" cy="80" r="40" fill="#4ECDC4" opacity="0.4"/><text x="120" y="100" textAnchor="middle" fontSize="50">⭐</text></svg>, questions: [{ question: "r5_q1", choices: ["r5_rel", "r5_caus"], answer: "r5_rel" }, { question: "r5_q2", choices: ["r5_ver", "r5_un"], answer: "r5_ver" }] },
-  ],
+  title: "explorer_title",
+  icon: "👑",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props { color?: string; lang?: string; onDone?: (score: number, total: number) => void; onClose?: () => void; }
-export default function ReviewK6Explorer({ color = "#4ECDC4", lang = "en", onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const ReviewK6Explorer = memo(function ReviewK6Explorer({
+  color = "#C026D3",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={6} explorerId="deutsch_k6_review_final" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default ReviewK6Explorer;

@@ -300,8 +300,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [45, 45],
-      answer: 90,
+      groups: [1, 1],
+      answer: 2,
       blockIcon: "📐",
       instruction: "t3_inst",
       hint1: "t3_h1",

@@ -103,7 +103,7 @@ const LABELS: Record<string, Record<string, string>> = {
     a5c: "by",
     b5c: "through",
     c5c: "from",
-    d5d: "with",
+    d5c: "with",
   },
 };
 

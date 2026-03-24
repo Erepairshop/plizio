@@ -52,7 +52,7 @@ const LABELS: Record<string, Record<string, string>> = {
     a5c: "rot",
     b5c: "Farbstift",
     c5c: "Haarbürste",
-    d5d: "Zahnbürste",
+    d5c: "Zahnbürste",
   },
   en: {
     title1: "that vs. the",
@@ -159,7 +159,7 @@ const DEF: ExplorerDef = {
           <div style={{ fontSize: 12, color: '#1e293b', lineHeight: '1.4' }}>
             <div>• <span style={{ color: '#16a34a', fontWeight: 800 }}>Arbeiter</span></div>
             <div>• <span style={{ color: '#16a34a', fontWeight: 800 }}>arbeiten</span></div>
-            <div>• <span style={{ color: '#16a34a', fontWeight: 800 }}>fleißig</span> (verwandt)</div>
+            <div>• <span style={{ color: '#16a34a', fontWeight: 800 }}>Arbeitgeber</span></div>
           </div>
         </div>
       ),

@@ -980,6 +980,13 @@ if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */
    - **2. fázis (Opus):** SVG-k modernizálása — részletes, tankönyvi minőségű illusztrációk. Opus agentet használj, NEM haiku-t vagy sonnet-et!
    - Opus agent SVG feladatoknál: **1 agent = max 2-3 fájl**, párhuzamosan akár 5-6 agent is futhat.
    - Opus ~10% heti limitet használ 8 explorer SVG modernizálására — ez elfogadható.
+20. **BlockDrag `groups[]` — SOHA ne adj nagy számokat!** — A `components/interactive/BlockDrag.tsx` `groups` tömb minden elemét **blokkszámként** értelmezi (for ciklus `i < g`). Ha `groups: [500, 500, 500, 500]` → **2000 blokk** jön létre a képernyőn, ami használhatatlan. **Szabály:** `groups[]` elemei legyenek kicsik (1-12), ahol minden blokk egy nagyobb értéket **képvisel**. Az `answer` = az elvárt blokkok száma a zónában.
+   - **ROSSZ:** `groups: [500, 500, 500, 500], answer: 2000` → 2000 tap
+   - **JÓ:** `groups: [1, 1, 1, 1], answer: 4` → 4 tap (4 blokk, mindegyik 500g-ot képvisel)
+   - **ROSSZ:** `groups: [200, 300], answer: 500` → 500 tap
+   - **JÓ:** `groups: [2, 3], answer: 5` → 5 tap (blokkonként 100-at képviselnek)
+   - Ellenőrzés új explorer hozzáadásakor: `grep 'groups: \[' fájl.tsx` — ha bármelyik szám > 20, az gyanús!
+21. **Biológia SVG könyvtár kész** — Az `app/astro-biologie/svg/` mappában 9 fájl, 38+ SVG komponens található (FishSvg, PlantSvg, MammalSvg, ReptileBirdSvg, ArthropodSvg, EcosystemSvg, CellSvg, BodySvg, SystemsSvg). Az `index.ts` mindent re-exportál. Új biológia explorerhez INNEN importálj, NE írj új SVG-t ha már van megfelelő!
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |
