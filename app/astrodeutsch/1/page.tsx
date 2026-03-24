@@ -23,7 +23,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LetterExplorer from "@/app/astrodeutsch/games/LetterExplorer";
+import LetterExplorerK1 from "@/app/astrodeutsch/games/k1/LetterExplorerK1";
 import SyllableExplorer from "@/app/astrodeutsch/games/SyllableExplorer";
 import ArticleExplorer from "@/app/astrodeutsch/games/ArticleExplorer";
 import RhymeExplorer from "@/app/astrodeutsch/games/RhymeExplorer";
@@ -738,7 +738,7 @@ export default function AstroDeutschK1Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "letter-explorer" && (
-          <LetterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <LetterExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "syllable-explorer" && (
           <SyllableExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
