@@ -93,7 +93,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_bucket_be: "Bemenet (kell hozzá)",
     t3_bucket_ki: "Kimenet (keletkezik)",
     t3_item_b1: "Szén-dioxid", t3_item_b2: "Fényenergia",
-    t3_item_k1: "Szőlőcukor", t3_item_k2: "Oxigén",
+    t3_item_k1: "Szőlőcukor", t3_item_k2: "Keményítő",
     t3_q: "Hogy hívjuk a fotoszintézis során keletkező tápanyagot?",
     t3_q_a: "Szőlőcukor (Glükóz)", t3_q_b: "Keményítő", t3_q_c: "Zsír", t3_q_d: "Fehérje",
 
@@ -138,7 +138,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Location: the stroma of the chloroplast.", t3_b2: "Input: Carbon dioxide (CO2).", t3_b3: "Result: Glucose (sugar).",
     t3_inst: "What does the plant need for sugar production? Sort them!",
     t3_bucket_be: "Inputs", t3_bucket_ki: "Outputs",
-    t3_item_b1: "Carbon dioxide", t3_item_b2: "Energy (ATP)", t3_item_k1: "Glucose", t3_item_k2: "Water (recycled)",
+    t3_item_b1: "Carbon dioxide", t3_item_b2: "Energy (ATP)", t3_item_k1: "Glucose", t3_item_k2: "Starch",
     t3_q: "What is the nutrient produced during photosynthesis called?", t3_q_a: "Glucose", t3_q_b: "Starch", t3_q_c: "Protein", t3_q_d: "Fat",
 
     t4_title: "Metabolic Equation", t4_text: "Plants turn inorganic materials (water, CO2) into organic matter (sugar) using light.",
@@ -204,7 +204,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Locație: stroma cloroplastului.", t3_b2: "Intrare: Dioxid de carbon (CO2).", t3_b3: "Rezultat: Glucoză (zahăr).",
     t3_inst: "De ce are nevoie planta? Sortează-le!",
     t3_bucket_be: "Intrări", t3_bucket_ki: "Ieșiri",
-    t3_item_b1: "Dioxid de carbon", t3_item_b2: "Energie (ATP)", t3_item_k1: "Glucoză", t3_item_k2: "Oxigen",
+    t3_item_b1: "Dioxid de carbon", t3_item_b2: "Energie (ATP)", t3_item_k1: "Glucoză", t3_item_k2: "Amidon",
     t3_q: "Cum se numește nutrientul produs prin fotosinteză?", t3_q_a: "Glucoză", t3_q_b: "Amidon", t3_q_c: "Proteine", t3_q_d: "Grăsimi",
 
     t4_title: "Ecuația Procesului", t4_text: "Plantele transformă substanțele anorganice (apă, CO2) în substanțe organice (zahăr) folosind lumina.",

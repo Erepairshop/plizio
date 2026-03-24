@@ -115,7 +115,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_b3: "Az energia ATP-ben tárolódik.",
     t5_inst: "Milyen típusú folyamat a sejtlégzés?",
     t5_gap_sentence3: "A sejtlégzés egy {gap} folyamat, mert anyagokat bont le energiáért.",
-    t5_c61: "lebontó", t5_c62: "felépítő", t5_c53: "fényelnyelő",
+    t5_c61: "lebontó", t5_c62: "felépítő", t5_c63: "fényelnyelő",
     t5_q: "Melyik állítás IGAZ?",
     t5_q_a: "A sejtlégzés során szén-dioxid termelődik.", t5_q_b: "Csak a növények lélegeznek.", t5_q_c: "A légzéshez sötét kell.", t5_q_d: "A mitokondrium vizet bont oxigénre.",
   },
@@ -148,7 +148,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_title: "Summary Quiz", t5_text: "Test your knowledge about cell energy!",
     t5_b1: "Mitochondria = energy center.", t5_b2: "Respiration = sugar + O2 -> CO2 + H2O + energy.", t5_b3: "Energy is stored in ATP.",
     t5_inst: "What type of process is respiration?", t5_gap_sentence3: "Respiration is a {gap} process.",
-    t5_c61: "catabolic", t5_c62: "anabolic", t5_c53: "light-absorbing",
+    t5_c61: "catabolic", t5_c62: "anabolic", t5_c63: "light-absorbing",
     t5_q: "Which statement is TRUE?", t5_q_a: "Carbon dioxide is produced during respiration.", t5_q_b: "Only plants breathe.", t5_q_c: "Respiration requires darkness.", t5_q_d: "Mitochondria turn water into oxygen.",
   },
   de: {
@@ -180,7 +180,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen über die Energiegewinnung!",
     t5_b1: "Mitochondrium = Energiezentrum.", t5_b2: "Zellatmung = Zucker + O2 -> CO2 + H2O + Energie.", t5_b3: "Energie wird in ATP gespeichert.",
     t5_inst: "Was für ein Prozess ist die Zellatmung?", t5_gap_sentence3: "Zellatmung ist ein {gap} Prozess.",
-    t5_c61: "abbauender", t5_c62: "aufbauender", t5_c53: "lichtabsorbierender",
+    t5_c61: "abbauender", t5_c62: "aufbauender", t5_c63: "lichtabsorbierender",
     t5_q: "Welche Aussage ist RICHTIG?", t5_q_a: "Bei der Zellatmung entsteht Kohlendioxid.", t5_q_b: "Nur Pflanzen atmen.", t5_q_c: "Atmung braucht Dunkelheit.", t5_q_d: "Mitochondrien spalten Wasser.",
   },
   ro: {
@@ -212,7 +212,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele despre energia celulară!",
     t5_b1: "Mitocondrie = centrul energetic.", t5_b2: "Respirație = zahăr + O2 -> CO2 + apă + energie.", t5_b3: "Energia se stochează în ATP.",
     t5_inst: "Ce fel de proces este respirația?", t5_gap_sentence3: "Respirația celulară este un proces {gap}.",
-    t5_c61: "de descompunere", t5_c62: "de sinteză", t5_c53: "de absorbție a luminii",
+    t5_c61: "de descompunere", t5_c62: "de sinteză", t5_c63: "de absorbție a luminii",
     t5_q: "Care afirmație este ADEVĂRATĂ?", t5_q_a: "În timpul respirației se produce dioxid de carbon.", t5_q_b: "Doar plantele respiră.", t5_q_c: "Respirația necesită întuneric.", t5_q_d: "Mitocondria descompune apa în oxigen.",
   }
 };

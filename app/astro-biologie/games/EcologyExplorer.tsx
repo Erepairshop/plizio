@@ -15,9 +15,9 @@ const Topic1Svg = memo(function Topic1Svg() {
       <rect width="240" height="140" fill="#ECFCCB" rx="20" />
       <g transform="translate(120, 70)">
         <text x="-40" y="0" fontSize="30" textAnchor="middle">🦊</text>
-        <text x="0" y="20" fontSize="30" textAnchor="middle">塑造</text> {/* Abstract group shape */}
+        <text x="0" y="20" fontSize="30" textAnchor="middle">🌿</text>
         <text x="40" y="0" fontSize="30" textAnchor="middle">🦊</text>
-        <text x="0" y="-20" fontSize="30" textAnchor="middle">塑造</text>
+        <text x="0" y="-20" fontSize="30" textAnchor="middle">🐇</text>
         <circle cx="0" cy="0" r="55" fill="none" stroke="#65A30D" strokeWidth="2" strokeDasharray="5 5" />
       </g>
     </svg>

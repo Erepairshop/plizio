@@ -115,7 +115,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_gap_sentence2: "A tudatos tevékenységeinket a(z) {gap} irányítja.",
     t5_c51: "agy", t5_c52: "tüdő", t5_c53: "máj",
     t5_q: "Melyik állítás HAMIS?",
-    t5_q_a: "Az idegsejtek között nincs közvetlen érintkezés.", t5_q_b: "Az agytörzs irányítja a légzést.", t5_q_c: "A neuronok csak a lábunkban vannak.", t5_q_d: "A reflexek gyorsabbak a tudatos döntésnél.",
+    t5_q_a: "Az idegsejtek közvetlenül érintkeznek egymással.", t5_q_b: "Az agytörzs irányítja a légzést.", t5_q_c: "A neuronok csak a lábunkban vannak.", t5_q_d: "A reflexek gyorsabbak a tudatos döntésnél.",
   },
   en: {
     explorer_title: "The Nervous System",
@@ -147,7 +147,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t5_b1: "Neuron = signal transmission.", t5_b2: "Brain = central control.", t5_b3: "Reflex = automatic defense.",
     t5_inst: "Which organ is the center of thinking?", t5_gap_sentence2: "Our conscious activities are directed by the {gap}.",
     t5_c51: "brain", t5_c52: "lung", t5_c53: "liver",
-    t5_q: "Which statement is FALSE?", t5_q_a: "There is no direct contact between neurons.", t5_q_b: "Brainstem controls breathing.", t5_q_c: "Neurons are only in our feet.", t5_q_d: "Reflexes are faster than conscious decisions.",
+    t5_q: "Which statement is FALSE?", t5_q_a: "Neurons touch each other directly.", t5_q_b: "Brainstem controls breathing.", t5_q_c: "Neurons are only in our feet.", t5_q_d: "Reflexes are faster than conscious decisions.",
   },
   de: {
     explorer_title: "Das Nervensystem",
