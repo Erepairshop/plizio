@@ -147,7 +147,7 @@ const MISSING_LETTER_POOL: { partial: string; answer: string; full: string }[] =
   { partial: "Ba_l", answer: "l", full: "Ball" },
   { partial: "_ind", answer: "K", full: "Kind" },
   { partial: "Blu_e", answer: "m", full: "Blume" },
-  { partial: "Schule_", answer: "?", full: "Schule" },
+  { partial: "Vo_el", answer: "g", full: "Vogel" },
   { partial: "B_um", answer: "a", full: "Baum" },
 ];
 
