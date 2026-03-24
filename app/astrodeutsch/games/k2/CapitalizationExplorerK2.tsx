@@ -193,8 +193,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t2_gap_text",
-      options: ["t2_opt_aber", "t2_opt_und", "t2_opt_oder"],
-      answer: "t2_opt_aber", // aber
+      choices: ["t2_opt_aber", "t2_opt_und", "t2_opt_oder"],
+      correctIndex: 0, // aber
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
@@ -214,6 +214,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Am Morgen gehe ich in die Schule.
+      correctOrder: [0, 1, 2, 3],
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

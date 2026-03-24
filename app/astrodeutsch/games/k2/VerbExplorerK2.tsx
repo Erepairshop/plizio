@@ -192,8 +192,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t2_gap_text",
-      options: ["t2_opt_singen", "t2_opt_singt", "t2_opt_singst"],
-      answer: "t2_opt_singen", // singen
+      choices: ["t2_opt_singen", "t2_opt_singt", "t2_opt_singst"],
+      correctIndex: 0, // singen
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
@@ -213,6 +213,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Komm bitte schnell her!
+      correctOrder: [0, 1, 2, 3],
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

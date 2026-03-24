@@ -234,6 +234,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6"], // Der kleine Hund spielt im Garten.
+      correctOrder: [0, 1, 2, 3, 4, 5],
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

@@ -227,6 +227,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"], // Spielt der Hund im Garten?
+      correctOrder: [0, 1, 2, 3, 4],
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
@@ -246,8 +247,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_was", "t3_opt_wer", "t3_opt_wo"],
-      answer: "t3_opt_was", // Was
+      choices: ["t3_opt_was", "t3_opt_wer", "t3_opt_wo"],
+      correctIndex: 0, // Was
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

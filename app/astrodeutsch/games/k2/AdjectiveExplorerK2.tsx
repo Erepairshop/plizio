@@ -243,8 +243,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_gluecklich", "t3_opt_traurig", "t3_opt_wuetend"],
-      answer: "t3_opt_gluecklich", // glücklich
+      choices: ["t3_opt_gluecklich", "t3_opt_traurig", "t3_opt_wuetend"],
+      correctIndex: 0, // glücklich
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
