@@ -1,921 +1,396 @@
 "use client";
-// BodyExplorer — Island i1: Body & Senses (Körper & Sinne)
-// Teaches: body parts, 5 senses, health/hygiene
+// BodyExplorer.tsx — Sachkunde Island i1: Body & Senses (K1)
+// Topics: 1) Testrészek 2) Az öt érzékünk 3) Látás és Hallás 4) Ízlelés és Szaglás 5) Összefoglaló
 
-import { memo, useState, useCallback, useRef, useMemo } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+// Import a táblázat alapján:
+import { FiveSensesSvg } from "@/app/astro-sachkunde/svg/k2/KidsScienceSvg";
 
-const TOTAL_ROUNDS = 5;
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-/* ─── i18n labels ─── */
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FDF4FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="-30" r="20" fill="#FDE047" /> {/* Fej */}
+        <rect x="-10" y="-10" width="20" height="40" rx="5" fill="#3B82F6" /> {/* Test */}
+        <rect x="-35" y="-10" width="20" height="8" rx="4" fill="#FDE047" transform="rotate(-30, -25, -6)" /> {/* Bal kar */}
+        <rect x="15" y="-10" width="20" height="8" rx="4" fill="#FDE047" transform="rotate(30, 25, -6)" /> {/* Jobb kar */}
+        <rect x="-10" y="30" width="8" height="25" rx="4" fill="#FDE047" /> {/* Bal láb */}
+        <rect x="2" y="30" width="8" height="25" rx="4" fill="#FDE047" /> {/* Jobb láb */}
+        <text x="0" y="-25" fontSize="15" textAnchor="middle">😊</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="45" textAnchor="middle">👁️</text>
+        <text x="40" y="15" fontSize="45" textAnchor="middle">👂</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="45" textAnchor="middle">👃</text>
+        <text x="40" y="15" fontSize="45" textAnchor="middle">👅</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="45" textAnchor="middle">🖐️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
+
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Testünk és Érzékeink",
+    // T1: Testrészek (Label-diagram)
+    t1_title: "A testrészeim",
+    t1_text: "Nézd meg jól a testünket! Minden résznek megvan a maga fontos feladata. A lábunkkal futunk, a kezünkkel fogunk.",
+    t1_b1: "Fej: itt van az agyunk és az arcunk.",
+    t1_b2: "Törzs: a hasunk és a hátunk.",
+    t1_b3: "Végtagok: a két karunk és a két lábunk.",
+    t1_inst: "Mutasd meg, hol vannak a testrészek!",
+    t1_area_head: "Fej",
+    t1_area_arm: "Kar",
+    t1_area_tummy: "Has (Törzs)",
+    t1_area_leg: "Láb",
+    t1_q: "Mivel szoktunk futni és ugrálni?",
+    t1_q_a: "A lábunkkal", t1_q_b: "A fejünkkel", t1_q_c: "A hasunkkal", t1_q_d: "A fülünkkel",
+
+    // T2: Az öt érzék (Match-pairs)
+    t2_title: "Az öt érzékünk",
+    t2_text: "A világot ötféleképpen tudjuk megfigyelni. Ezeket az érzékszerveinkkel csináljuk.",
+    t2_b1: "Szememmel látok, fülemmel hallok.",
+    t2_b2: "Orrommal szaglászok, nyelvemmel ízlelek.",
+    t2_b3: "A bőrömmel, a kezemmel pedig tapintok.",
+    t2_inst: "Melyik testrésszel mit csinálunk? Párosítsd össze!",
+    t2_l1: "Szem 👁️", t2_r1: "Látás",
+    t2_l2: "Fül 👂", t2_r2: "Hallás",
+    t2_l3: "Orr 👃", t2_r3: "Szaglás",
+    t2_q: "Melyik testrészünkkel halljuk a madarak énekét?",
+    t2_q_a: "A fülünkkel", t2_q_b: "A szemünkkel", t2_q_c: "A nyelvünkkel", t2_q_d: "Az orrunkkal",
+
+    // T3: Látás és Hallás (Drag-to-bucket)
+    t3_title: "Mit látok? Mit hallok?",
+    t3_text: "A szemünk a színeket és formákat figyeli, a fülünk pedig a hangokat gyűjti össze.",
+    t3_b1: "A naplementét vagy egy szép rajzot látunk.",
+    t3_b2: "A zenét vagy a kutyaugatást halljuk.",
+    t3_b3: "Vigyázzunk rájuk: a túl hangos zene rossz a fülnek!",
+    t3_inst: "Ezt látjuk vagy halljuk? Válogasd szét!",
+    t3_bucket_lat: "Ezt látom 👁️",
+    t3_bucket_hal: "Ezt hallom 👂",
+    t3_item_l1: "Szivárvány az égen", t3_item_l2: "Piros labda",
+    t3_item_h1: "Mentőautó szirénája", t3_item_h2: "Madárcsicsergés",
+    t3_q: "Melyiket tudjuk LÁTNI?",
+    t3_q_a: "A kék eget", t3_q_b: "A zene dallamát", t3_q_c: "A szél zúgását", t3_q_d: "A telefon csörgését",
+
+    // T4: Ízlelés és Szaglás (Gap-fill)
+    t4_title: "Finom illatok és ízek",
+    t4_text: "Amikor eszünk, az orrunk és a nyelvünk együtt dolgozik, hogy érezzük, milyen finom az étel.",
+    t4_b1: "A citrom savanyú, a csoki édes.",
+    t4_b2: "A virágnak jó illata van, a szemétnek büdös.",
+    t4_b3: "A nyelved hegyével érzed az édeset a legjobban!",
+    t4_inst: "Egészítsd ki a mondatot!",
+    t4_gap_sentence: "A fagyit nagyon szeretjük, mert az íze {gap}.",
+    t4_c1: "édes", t4_c2: "sós", t4_c3: "savanyú",
+    t4_q: "Mivel érezzük a frissen sült kalács illatát?",
+    t4_q_a: "Az orrunkkal", t4_q_b: "A fülünkkel", t4_q_c: "A lábunkkal", t4_q_d: "A szemünkkel",
+
+    // T5: Összefoglaló
+    t5_title: "A kezem mindent érez",
+    t5_text: "A tapintás is nagyon fontos! Ezzel érezzük, ha valami hideg, meleg, puha vagy szúrós.",
+    t5_b1: "A jégkrém hideg, a tea meleg.",
+    t5_b2: "A cica bundája puha, a kaktusz szúrós.",
+    t5_b3: "Testünk minden része egy kis csoda!",
+    t5_inst: "Milyen a kismacska bundája?",
+    t5_gap_sentence2: "Ha megsimogatunk egy kiscicát, érezzük, hogy a szőre nagyon {gap}.",
+    t5_c51: "puha", t5_c52: "kemény", t5_c53: "szúrós",
+    t5_q: "Mivel tapintjuk meg legkönnyebben a dolgokat?",
+    t5_q_a: "A kezünkkel", t5_q_b: "A hajunkkal", t5_q_c: "A hátunkkal", t5_q_d: "A szemünkkel",
+  },
   en: {
-    round1Title: "Body Parts",
-    round1Hint: "Tap on the highlighted body part!",
-    round1Teach: "Our body has many parts! We have a head, arms, legs, hands and feet. Inside we have a heart that pumps blood, lungs for breathing, and a brain for thinking.",
-    round2Title: "Match the Sense",
-    round2Hint: "Which organ do we use for this?",
-    round2Teach: "We have 5 senses to explore the world! Eyes for seeing, ears for hearing, nose for smelling, tongue for tasting, and skin for touching.",
-    round3Title: "What Can We Do?",
-    round3Hint: "What can we do with this organ?",
-    round3Teach: "Our senses help us experience the world — eyes help us see colors and shapes, ears help us hear sounds, and our nose and tongue help us enjoy food!",
-    round4Title: "Healthy Habits",
-    round4Hint: "Is this healthy or unhealthy?",
-    round4Teach: "To stay healthy, we should brush our teeth twice a day, wash our hands before eating, eat fruits and vegetables, sleep enough, and exercise every day!",
-    round5Title: "Quick Review",
-    round5Hint: "Answer the question!",
-    round5Teach: "Let's review what you learned about your body, senses, and staying healthy!",
-    gotIt: "Got it! →",
-    next: "Next",
-    finish: "Finish",
-    correct: "Correct!",
-    wrong: "Wrong!",
-    healthy: "Healthy",
-    unhealthy: "Unhealthy",
-    whatIsThis: "What is this?",
-    head: "Head", arm: "Arm", leg: "Leg", hand: "Hand",
-    body: "Body", foot: "Foot",
-    eye: "Eye", ear: "Ear", nose: "Nose", tongue: "Tongue",
-    see: "See", hear: "Hear", smell: "Smell", taste: "Taste",
-    brushTeeth: "Brush teeth every day",
-    washHands: "Wash hands before eating",
-    eatVegetables: "Eat fruits and vegetables",
-    sleepEnough: "Sleep enough hours",
-    drinkWater: "Drink water regularly",
-    eatCandies: "Eat candy all day long",
-    skipWashing: "Never wash your hands",
-    stayUpLate: "Stay up very late every night",
-    noExercise: "Never play outside or exercise",
-    drinkSoda: "Drink only soda, no water",
-    senseForSeeing: "Which organ do we use to see?",
-    senseForHearing: "Which organ do we use to hear?",
-    senseForSmelling: "Which organ do we use to smell?",
-    senseForTasting: "Which organ do we use to taste?",
-    whatCanEyesDo: "What can we do with our eyes?",
-    whatCanEarsDo: "What can we do with our ears?",
-    whatCanNoseDo: "What can we do with our nose?",
-    whatCanTongueDo: "What can we do with our tongue?",
-    howManySenses: "How many senses do humans have?",
-    answerFive: "5",
-    answerThree: "3",
-    answerTen: "10",
-    whereIsHeart: "Where is the heart?",
-    inChest: "In the chest",
-    inHead: "In the head",
-    inLeg: "In the leg",
+    explorer_title: "Our Body & Senses",
+    t1_title: "My Body Parts", t1_text: "Look at our body! Every part has an important job. We run with our legs and grab with our hands.",
+    t1_b1: "Head: holds our brain and face.", t1_b2: "Trunk: our tummy and back.", t1_b3: "Limbs: our two arms and two legs.",
+    t1_inst: "Show where the body parts are!",
+    t1_area_head: "Head", t1_area_arm: "Arm", t1_area_tummy: "Tummy", t1_area_leg: "Leg",
+    t1_q: "What do we use to run and jump?", t1_q_a: "Our legs", t1_q_b: "Our head", t1_q_c: "Our tummy", t1_q_d: "Our ears",
+
+    t2_title: "Our Five Senses", t2_text: "We can observe the world in five ways using our sense organs.",
+    t2_b1: "I see with my eyes, hear with my ears.", t2_b2: "I smell with my nose, taste with my tongue.", t2_b3: "I touch with my skin and hands.",
+    t2_inst: "Match the body part with what it does!",
+    t2_l1: "Eyes 👁️", t2_r1: "Seeing",
+    t2_l2: "Ears 👂", t2_r2: "Hearing",
+    t2_l3: "Nose 👃", t2_r3: "Smelling",
+    t2_q: "Which body part hears the birds singing?", t2_q_a: "Ears", t2_q_b: "Eyes", t2_q_c: "Tongue", t2_q_d: "Nose",
+
+    t3_title: "What do I see? What do I hear?", t3_text: "Our eyes watch colors and shapes, while our ears collect sounds.",
+    t3_b1: "We see a sunset or a pretty drawing.", t3_b2: "We hear music or a dog barking.", t3_b3: "Take care of them: very loud music is bad for ears!",
+    t3_inst: "Do we see it or hear it? Sort them!",
+    t3_bucket_lat: "I see it 👁️", t3_bucket_hal: "I hear it 👂",
+    t3_item_l1: "Rainbow in the sky", t3_item_l2: "Red ball",
+    t3_item_h1: "Ambulance siren", t3_item_h2: "Birds chirping",
+    t3_q: "Which one can we SEE?", t3_q_a: "The blue sky", t3_q_b: "A music melody", t3_q_c: "The wind blowing", t3_q_d: "A ringing phone",
+
+    t4_title: "Yummy Smells and Tastes", t4_text: "When we eat, our nose and tongue work together to feel how yummy the food is.",
+    t4_b1: "Lemons are sour, chocolate is sweet.", t4_b2: "Flowers smell good, trash smells bad.", t4_b3: "You taste sweet things best on the tip of your tongue!",
+    t4_inst: "Fill in the word!", t4_gap_sentence: "We love ice cream because it tastes so {gap}.",
+    t4_c1: "sweet", t4_c2: "salty", t4_c3: "sour",
+    t4_q: "What do we use to smell fresh baked bread?", t4_q_a: "Our nose", t4_q_b: "Our ears", t4_q_c: "Our legs", t4_q_d: "Our eyes",
+
+    t5_title: "My Hands Feel Everything", t5_text: "Touch is very important! We feel if something is hot, cold, soft, or prickly.",
+    t5_b1: "Ice cream is cold, tea is hot.", t5_b2: "A kitty's fur is soft, a cactus is prickly.", t5_b3: "Every part of our body is amazing!",
+    t5_inst: "How does a kitten's fur feel?", t5_gap_sentence2: "When we pet a kitten, we feel its fur is very {gap}.",
+    t5_c51: "soft", t5_c52: "hard", t5_c53: "prickly",
+    t5_q: "What do we use most to touch things?", t5_q_a: "Our hands", t5_q_b: "Our hair", t5_q_c: "Our back", t5_q_d: "Our eyes",
   },
   de: {
-    round1Title: "Körperteile",
-    round1Hint: "Tippe auf den markierten Körperteil!",
-    round1Teach: "Unser Körper hat viele Teile! Wir haben einen Kopf, Arme, Beine, Hände und Füße. Innen haben wir ein Herz, das Blut pumpt, Lungen zum Atmen und ein Gehirn zum Denken.",
-    round2Title: "Welches Organ?",
-    round2Hint: "Welches Organ brauchen wir dafür?",
-    round2Teach: "Wir haben 5 Sinne, um die Welt zu erkunden! Augen zum Sehen, Ohren zum Hören, Nase zum Riechen, Zunge zum Schmecken und Haut zum Anfassen.",
-    round3Title: "Was können wir damit tun?",
-    round3Hint: "Was können wir mit diesem Organ?",
-    round3Teach: "Unsere Sinne helfen uns, die Welt zu erleben — Augen helfen uns Farben und Formen zu sehen, Ohren helfen uns Geräusche zu hören und Nase und Zunge helfen uns Essen zu genießen!",
-    round4Title: "Gesunde Gewohnheiten",
-    round4Hint: "Ist das gesund oder ungesund?",
-    round4Teach: "Um gesund zu bleiben, sollten wir täglich zweimal Zähne putzen, vor dem Essen Hände waschen, Obst und Gemüse essen, genug schlafen und täglich Sport treiben!",
-    round5Title: "Schnelle Wiederholung",
-    round5Hint: "Beantworte die Frage!",
-    round5Teach: "Lass uns überprüfen, was du über deinen Körper, deine Sinne und deine Gesundheit gelernt hast!",
-    gotIt: "Verstanden! →",
-    next: "Weiter",
-    finish: "Fertig",
-    correct: "Richtig!",
-    wrong: "Falsch!",
-    healthy: "Gesund",
-    unhealthy: "Ungesund",
-    whatIsThis: "Was ist das?",
-    head: "Kopf", arm: "Arm", leg: "Bein", hand: "Hand",
-    body: "Körper", foot: "Fuß",
-    eye: "Auge", ear: "Ohr", nose: "Nase", tongue: "Zunge",
-    see: "Sehen", hear: "Hören", smell: "Riechen", taste: "Schmecken",
-    brushTeeth: "Jeden Tag Zähne putzen",
-    washHands: "Vor dem Essen Hände waschen",
-    eatVegetables: "Obst und Gemüse essen",
-    sleepEnough: "Genug Stunden schlafen",
-    drinkWater: "Regelmäßig Wasser trinken",
-    eatCandies: "Den ganzen Tag Süßigkeiten essen",
-    skipWashing: "Nie die Hände waschen",
-    stayUpLate: "Jede Nacht sehr spät aufbleiben",
-    noExercise: "Nie draußen spielen oder Sport machen",
-    drinkSoda: "Nur Limonade trinken, kein Wasser",
-    senseForSeeing: "Welches Organ brauchen wir zum Sehen?",
-    senseForHearing: "Welches Organ brauchen wir zum Hören?",
-    senseForSmelling: "Welches Organ brauchen wir zum Riechen?",
-    senseForTasting: "Welches Organ brauchen wir zum Schmecken?",
-    whatCanEyesDo: "Was können wir mit unseren Augen?",
-    whatCanEarsDo: "Was können wir mit unseren Ohren?",
-    whatCanNoseDo: "Was können wir mit unserer Nase?",
-    whatCanTongueDo: "Was können wir mit unserer Zunge?",
-    howManySenses: "Wie viele Sinne hat der Mensch?",
-    answerFive: "5",
-    answerThree: "3",
-    answerTen: "10",
-    whereIsHeart: "Wo ist das Herz?",
-    inChest: "In der Brust",
-    inHead: "Im Kopf",
-    inLeg: "Im Bein",
-  },
-  hu: {
-    round1Title: "Testrészek",
-    round1Hint: "Koppints a kijelölt testrészre!",
-    round1Teach: "A testünknek sok része van! Van fejünk, karjaink, lábaink, kezünk és lábfejünk. Benne van egy szíve, amely vért pumpál, tüdeje, amely lélegzik, és agya, amely gondolkodik.",
-    round2Title: "Melyik szervünk?",
-    round2Hint: "Melyik szervünkkel érzékeljük?",
-    round2Teach: "5 érzékszerveink vannak a világ felfedezésére! Szemünk a látáshoz, füleink a halláshoz, orrunk a szagláshoz, nyelvünk az ízleléshez és bőrünk az érintéshez.",
-    round3Title: "Mit tehetünk vele?",
-    round3Hint: "Mit tehetünk ezzel a szervünkkel?",
-    round3Teach: "Az érzékszerveink segítenek a világot megtapasztalni — a szemünk segít látni a színeket és formákat, a füleink segítik hallani a hangokat, és az orrunk és nyelvünk élvezni az ételt!",
-    round4Title: "Egészséges szokások",
-    round4Hint: "Ez egészséges vagy egészségtelen?",
-    round4Teach: "Az egészséges maradáshoz naponta kétszer mosni kell a fogainkat, evés előtt kezet mosni, gyümölcsöt és zöldséget enni, eleget aludni és naponta sportolni!",
-    round5Title: "Gyors összefoglalás",
-    round5Hint: "Válaszolj a kérdésre!",
-    round5Teach: "Nézzük meg, mit tanultál a tested, érzékeidről és az egészséged megőrzéséről!",
-    gotIt: "Értem! →",
-    next: "Tovább",
-    finish: "Kész",
-    correct: "Helyes!",
-    wrong: "Hibás!",
-    healthy: "Egészséges",
-    unhealthy: "Egészségtelen",
-    whatIsThis: "Mi ez?",
-    head: "Fej", arm: "Kar", leg: "Láb", hand: "Kéz",
-    body: "Törzs", foot: "Lábfej",
-    eye: "Szem", ear: "Fül", nose: "Orr", tongue: "Nyelv",
-    see: "Látás", hear: "Hallás", smell: "Szaglás", taste: "Ízlelés",
-    brushTeeth: "Minden nap fogat mosni",
-    washHands: "Evés előtt kezet mosni",
-    eatVegetables: "Gyümölcsöt és zöldséget enni",
-    sleepEnough: "Eleget aludni",
-    drinkWater: "Rendszeresen vizet inni",
-    eatCandies: "Egész nap édességet enni",
-    skipWashing: "Soha nem kezet mosni",
-    stayUpLate: "Minden éjjel nagyon későn feküdni",
-    noExercise: "Soha nem sportolni és kint játszani",
-    drinkSoda: "Csak üdítőt inni, vizet soha",
-    senseForSeeing: "Melyik szervünkkel látunk?",
-    senseForHearing: "Melyik szervünkkel hallunk?",
-    senseForSmelling: "Melyik szervünkkel szagolunk?",
-    senseForTasting: "Melyik szervünkkel ízlelünk?",
-    whatCanEyesDo: "Mit tehetünk a szemünkkel?",
-    whatCanEarsDo: "Mit tehetünk a fülünkkel?",
-    whatCanNoseDo: "Mit tehetünk az orrunkkal?",
-    whatCanTongueDo: "Mit tehetünk a nyelvünkkel?",
-    howManySenses: "Hány érzékszerve van az embernek?",
-    answerFive: "5",
-    answerThree: "3",
-    answerTen: "10",
-    whereIsHeart: "Hol van a szív?",
-    inChest: "A mellkasban",
-    inHead: "A fejben",
-    inLeg: "A lábban",
+    explorer_title: "Körper & Sinne",
+    t1_title: "Meine Körperteile", t1_text: "Schau dir unseren Körper an! Jeder Teil hat eine wichtige Aufgabe. Mit den Beinen laufen wir, mit den Händen greifen wir.",
+    t1_b1: "Kopf: hier sind Gehirn und Gesicht.", t1_b2: "Rumpf: unser Bauch und Rücken.", t1_b3: "Gliedmaßen: zwei Arme und zwei Beine.",
+    t1_inst: "Zeige, wo die Körperteile sind!",
+    t1_area_head: "Kopf", t1_area_arm: "Arm", t1_area_tummy: "Bauch (Rumpf)", t1_area_leg: "Bein",
+    t1_q: "Womit können wir laufen und springen?", t1_q_a: "Mit den Beinen", t1_q_b: "Mit dem Kopf", t1_q_c: "Mit dem Bauch", t1_q_d: "Mit den Ohren",
+
+    t2_title: "Unsere fünf Sinne", t2_text: "Wir können die Welt auf fünf Arten erleben. Dafür nutzen wir unsere Sinnesorgane.",
+    t2_b1: "Mit den Augen sehe ich, mit Ohren höre ich.", t2_b2: "Mit der Nase rieche ich, mit der Zunge schmecke ich.", t2_b3: "Mit den Händen fühle ich.",
+    t2_inst: "Verbinde das Körperteil mit dem Sinn!",
+    t2_l1: "Augen 👁️", t2_r1: "Sehen",
+    t2_l2: "Ohren 👂", t2_r2: "Hören",
+    t2_l3: "Nase 👃", t2_r3: "Riechen",
+    t2_q: "Womit hören wir das Vogelgezwitscher?", t2_q_a: "Mit den Ohren", t2_q_b: "Mit den Augen", t2_q_c: "Mit der Zunge", t2_q_d: "Mit der Nase",
+
+    t3_title: "Was sehe ich? Was höre ich?", t3_text: "Unsere Augen sehen Farben und Formen, unsere Ohren fangen Töne ein.",
+    t3_b1: "Wir sehen einen Regenbogen oder ein Bild.", t3_b2: "Wir hören Musik oder einen Hund bellen.", t3_b3: "Zu laute Musik ist schlecht für die Ohren!",
+    t3_inst: "Sehen oder Hören? Sortiere!",
+    t3_bucket_lat: "Das sehe ich 👁️", t3_bucket_hal: "Das höre ich 👂",
+    t3_item_l1: "Regenbogen am Himmel", t3_item_l2: "Roter Ball",
+    t3_item_h1: "Krankenwagensirene", t3_item_h2: "Vogelgesang",
+    t3_q: "Was können wir SEHEN?", t3_q_a: "Den blauen Himmel", t3_q_b: "Eine Melodie", t3_q_c: "Den Wind heulen", t3_q_d: "Das Telefon klingeln",
+
+    t4_title: "Leckere Düfte und Geschmäcker", t4_text: "Beim Essen arbeiten Nase und Zunge zusammen, damit wir schmecken, wie gut es ist.",
+    t4_b1: "Zitronen sind sauer, Schokolade ist süß.", t4_b2: "Blumen duften gut, Müll stinkt.", t4_b3: "Süßes schmeckt man gut an der Zungenspitze!",
+    t4_inst: "Ergänze das Wort!", t4_gap_sentence: "Wir lieben Eiscreme, weil sie so {gap} schmeckt.",
+    t4_c1: "süß", t4_c2: "salzig", t4_c3: "sauer",
+    t4_q: "Womit riechen wir frisches Brot?", t4_q_a: "Mit der Nase", t4_q_b: "Mit den Ohren", t4_q_c: "Mit den Beinen", t4_q_d: "Mit den Augen",
+
+    t5_title: "Ich fühle alles", t5_text: "Fühlen ist sehr wichtig! So merken wir, ob etwas heiß, kalt, weich oder stachelig ist.",
+    t5_b1: "Eis ist kalt, Tee ist heiß.", t5_b2: "Katzenfell ist weich, Kakteen stechen.", t5_b3: "Unser Körper ist ein Wunder!",
+    t5_inst: "Wie fühlt sich ein Kätzchen an?", t5_gap_sentence2: "Wenn wir eine Katze streicheln, ist ihr Fell sehr {gap}.",
+    t5_c51: "weich", t5_c52: "hart", t5_c53: "stachelig",
+    t5_q: "Womit fühlen (tasten) wir Dinge am besten?", t5_q_a: "Mit den Händen", t5_q_b: "Mit den Haaren", t5_q_c: "Mit dem Rücken", t5_q_d: "Mit den Augen",
   },
   ro: {
-    round1Title: "Părțile corpului",
-    round1Hint: "Atinge partea evidențiată a corpului!",
-    round1Teach: "Corpul nostru are multe părți! Avem o cap, brațe, picioare, mâini și tălpi. Înăuntru avem o inimă care pompează sânge, plămâni pentru respirație și un creier pentru gândire.",
-    round2Title: "Care organ?",
-    round2Hint: "Care organ folosim pentru asta?",
-    round2Teach: "Avem 5 simțuri pentru a explora lumea! Ochi pentru a vedea, urechi pentru a auzi, nas pentru a mirosi, limbă pentru a gusta și piele pentru a atinge.",
-    round3Title: "Ce putem face cu el?",
-    round3Hint: "Ce putem face cu acest organ?",
-    round3Teach: "Simțurile noastre ne ajută să experimentăm lumea — ochii ne ajută să vedem culori și forme, urechile ne ajută să auzim sunete și nasul și limba ne ajută să ne bucurăm de mâncare!",
-    round4Title: "Obiceiuri sănătoase",
-    round4Hint: "Este sănătos sau nesănătos?",
-    round4Teach: "Pentru a rămâne sănătos, trebuie să ne spălăm pe dinți de două ori pe zi, să ne spălăm pe mâini înainte de a mânca, să mâncăm fructe și legume, să dormim suficient și să facem sport în fiecare zi!",
-    round5Title: "Recapitulare rapidă",
-    round5Hint: "Răspunde la întrebare!",
-    round5Teach: "Să recapitulăm ce ai învățat despre corpul tău, simțurile tale și rămânerea sănătos!",
-    gotIt: "Am înțeles! →",
-    next: "Înainte",
-    finish: "Gata",
-    correct: "Corect!",
-    wrong: "Greșit!",
-    healthy: "Sănătos",
-    unhealthy: "Nesănătos",
-    whatIsThis: "Ce este asta?",
-    head: "Cap", arm: "Braț", leg: "Picior", hand: "Mână",
-    body: "Trunchi", foot: "Talpă",
-    eye: "Ochi", ear: "Ureche", nose: "Nas", tongue: "Limbă",
-    see: "Vedere", hear: "Auz", smell: "Miros", taste: "Gust",
-    brushTeeth: "Spală-te pe dinți în fiecare zi",
-    washHands: "Spală-te pe mâini înainte de masă",
-    eatVegetables: "Mănâncă fructe și legume",
-    sleepEnough: "Doarme suficiente ore",
-    drinkWater: "Bea apă regulat",
-    eatCandies: "Mănâncă dulciuri toată ziua",
-    skipWashing: "Nu te spăla niciodată pe mâini",
-    stayUpLate: "Stai treaz foarte târziu în fiecare noapte",
-    noExercise: "Nu te juca afară și nu face sport",
-    drinkSoda: "Bea doar suc, niciodată apă",
-    senseForSeeing: "Care organ folosim pentru a vedea?",
-    senseForHearing: "Care organ folosim pentru a auzi?",
-    senseForSmelling: "Care organ folosim pentru a mirosi?",
-    senseForTasting: "Care organ folosim pentru a gusta?",
-    whatCanEyesDo: "Ce putem face cu ochii?",
-    whatCanEarsDo: "Ce putem face cu urechile?",
-    whatCanNoseDo: "Ce putem face cu nasul?",
-    whatCanTongueDo: "Ce putem face cu limba?",
-    howManySenses: "Câte simțuri are omul?",
-    answerFive: "5",
-    answerThree: "3",
-    answerTen: "10",
-    whereIsHeart: "Unde este inima?",
-    inChest: "În piept",
-    inHead: "În cap",
-    inLeg: "În picior",
-  },
+    explorer_title: "Corpul și Simțurile",
+    t1_title: "Părțile corpului", t1_text: "Privește corpul nostru! Fiecare parte are un rol important. Cu picioarele alergăm, cu mâinile prindem.",
+    t1_b1: "Cap: aici este creierul și fața.", t1_b2: "Trunchi: burta și spatele.", t1_b3: "Membre: două brațe și două picioare.",
+    t1_inst: "Arată unde sunt părțile corpului!",
+    t1_area_head: "Cap", t1_area_arm: "Braț", t1_area_tummy: "Burtă (Trunchi)", t1_area_leg: "Picior",
+    t1_q: "Cu ce alergăm și sărim?", t1_q_a: "Cu picioarele", t1_q_b: "Cu capul", t1_q_c: "Cu burta", t1_q_d: "Cu urechile",
+
+    t2_title: "Cele cinci simțuri", t2_text: "Putem descoperi lumea în cinci feluri. Pentru asta folosim organele de simț.",
+    t2_b1: "Cu ochii văd, cu urechile aud.", t2_b2: "Cu nasul miros, cu limba gust.", t2_b3: "Cu pielea și mâinile simt (pipăi).",
+    t2_inst: "Potrivește partea corpului cu ce face!",
+    t2_l1: "Ochi 👁️", t2_r1: "Văz",
+    t2_l2: "Urechi 👂", t2_r2: "Auz",
+    t2_l3: "Nas 👃", t2_r3: "Miros",
+    t2_q: "Cu ce auzim cântecul păsărilor?", t2_q_a: "Cu urechile", t2_q_b: "Cu ochii", t2_q_c: "Cu limba", t2_q_d: "Cu nasul",
+
+    t3_title: "Ce văd? Ce aud?", t3_text: "Ochii noștri văd culori și forme, iar urechile prind sunetele.",
+    t3_b1: "Vedem un apus de soare sau un desen frumos.", t3_b2: "Auzim muzică sau un câine lătrând.", t3_b3: "Atenție: muzica prea tare face rău la urechi!",
+    t3_inst: "Vedem sau auzim? Sortează-le!",
+    t3_bucket_lat: "Asta văd 👁️", t3_bucket_hal: "Asta aud 👂",
+    t3_item_l1: "Curcubeu pe cer", t3_item_l2: "Minge roșie",
+    t3_item_h1: "Sirena salvării", t3_item_h2: "Ciripit de păsări",
+    t3_q: "Ce putem VEDEA?", t3_q_a: "Cerul albastru", t3_q_b: "O melodie", t3_q_c: "Vântul bătând", t3_q_d: "Telefonul sunând",
+
+    t4_title: "Arome și Gusturi", t4_text: "Când mâncăm, nasul și limba lucrează împreună ca să simțim cât de bun e felul de mâncare.",
+    t4_b1: "Lămâia e acră, ciocolata e dulce.", t4_b2: "Florile miros frumos, gunoiul miroase urât.", t4_b3: "Simțim dulcele cel mai bine pe vârful limbii!",
+    t4_inst: "Completează cuvântul!", t4_gap_sentence: "Ne place înghețata pentru că are gust {gap}.",
+    t4_c1: "dulce", t4_c2: "sărat", t4_c3: "acru",
+    t4_q: "Cu ce mirosim pâinea proaspătă?", t4_q_a: "Cu nasul", t4_q_b: "Cu urechile", t4_q_c: "Cu picioarele", t4_q_d: "Cu ochii",
+
+    t5_title: "Mâinile simt tot", t5_text: "Pipăitul este foarte important! Așa ne dăm seama dacă ceva este cald, rece, moale sau înțeapă.",
+    t5_b1: "Înghețata este rece, ceaiul e cald.", t5_b2: "Blana pisicii e moale, cactusul înțeapă.", t5_b3: "Corpul nostru este minunat!",
+    t5_inst: "Cum este blănița unui pui de pisică?", t5_gap_sentence2: "Când mângâiem o pisicuță, simțim că blana ei este foarte {gap}.",
+    t5_c51: "moale", t5_c52: "tare", t5_c53: "aspră",
+    t5_q: "Cu ce pipăim lucrurile cel mai bine?", t5_q_a: "Cu mâinile", t5_q_b: "Cu părul", t5_q_c: "Cu spatele", t5_q_d: "Cu ochii",
+  }
 };
 
-/* ─── helpers ─── */
-function shuffle<T>(arr: T[]): T[] {
-  const copy = [...arr];
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-function pick<T>(arr: T[]): T { return arr[Math.floor(Math.random() * arr.length)]; }
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-/* ─── Interactive Body SVG ─── */
-type BodyPartId = "head" | "arm" | "leg" | "hand" | "body" | "foot";
-
-interface BodyPartZone {
-  id: BodyPartId;
-  paths: string[];  // SVG path data
-  center: [number, number]; // for label positioning
-}
-
-const BODY_ZONES: BodyPartZone[] = [
+const TOPICS: TopicDef[] = [
   {
-    id: "head",
-    paths: ["M 42 12 Q 42 2, 60 2 Q 78 2, 78 28 Q 78 48, 60 48 Q 42 48, 42 28 Z"],
-    center: [60, 25],
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />, // Használjuk az aranyos inline emberkét
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "head",  x: 50, y: 15, label: "t1_area_head" },
+        { id: "arm",   x: 20, y: 40, label: "t1_area_arm" },
+        { id: "tummy", x: 50, y: 55, label: "t1_area_tummy" },
+        { id: "leg",   x: 40, y: 85, label: "t1_area_leg" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
   {
-    id: "body",
-    paths: ["M 44 52 L 76 52 L 76 96 L 44 96 Z"],
-    center: [60, 74],
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <FiveSensesSvg lang={lang} />, // Külső import az 5 érzékhez
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
   },
   {
-    id: "arm",
-    paths: [
-      "M 44 52 L 28 56 L 22 78 L 30 80 L 36 62 L 44 58 Z",
-      "M 76 52 L 92 56 L 98 78 L 90 80 L 84 62 L 76 58 Z",
-    ],
-    center: [24, 66],
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "lat", label: "t3_bucket_lat" },
+        { id: "hal", label: "t3_bucket_hal" },
+      ],
+      items: [
+        { text: "t3_item_l1", bucketId: "lat" },
+        { text: "t3_item_h1", bucketId: "hal" },
+        { text: "t3_item_l2", bucketId: "lat" },
+        { text: "t3_item_h2", bucketId: "hal" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
   },
   {
-    id: "hand",
-    paths: [
-      "M 22 78 Q 18 86, 24 88 Q 30 86, 30 80 Z",
-      "M 98 78 Q 102 86, 96 88 Q 90 86, 90 80 Z",
-    ],
-    center: [96, 83],
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t4_gap_sentence",
+      choices: ["t4_c1", "t4_c2", "t4_c3"],
+      correctIndex: 0,
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
   },
   {
-    id: "leg",
-    paths: [
-      "M 44 96 L 52 96 L 50 140 L 42 140 Z",
-      "M 68 96 L 76 96 L 78 140 L 70 140 Z",
-    ],
-    center: [46, 118],
-  },
-  {
-    id: "foot",
-    paths: [
-      "M 42 140 L 50 140 L 52 150 L 38 150 Z",
-      "M 70 140 L 78 140 L 82 150 L 68 150 Z",
-    ],
-    center: [75, 145],
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b2",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
   },
 ];
 
-function InteractiveBody({
-  color,
-  highlightPart,
-  onTapPart,
-  tappedCorrect,
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🏃",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const BodyExplorer = memo(function BodyExplorer({
+  color = "#F43F5E", // Rose szín a testhez
+  onDone,
+  lang = "hu",
 }: {
-  color: string;
-  highlightPart: BodyPartId | null;
-  onTapPart: (id: BodyPartId) => void;
-  tappedCorrect: boolean | null;
-}) {
-  const skinColor = "#e8c0a0";
-  const skinDark = "#d4a88a";
-
-  return (
-    <svg viewBox="0 0 120 160" className="w-40 h-52 sm:w-48 sm:h-60">
-      {/* Shadow */}
-      <ellipse cx="60" cy="155" rx="30" ry="5" fill="rgba(0,0,0,0.15)" />
-
-      {BODY_ZONES.map((zone) => {
-        const isHighlighted = highlightPart === zone.id;
-        const fillColor = isHighlighted
-          ? tappedCorrect === true
-            ? "#00FF88"
-            : tappedCorrect === false
-              ? "#FF2D78"
-              : color
-          : skinColor;
-        const fillOpacity = isHighlighted ? 0.6 : 0.85;
-        const strokeColor = isHighlighted ? color : skinDark;
-        const strokeW = isHighlighted ? 2.5 : 1;
-
-        return (
-          <g
-            key={zone.id}
-            onClick={() => onTapPart(zone.id)}
-            style={{ cursor: "pointer" }}
-          >
-            {zone.paths.map((d, i) => (
-              <path
-                key={i}
-                d={d}
-                fill={fillColor}
-                fillOpacity={fillOpacity}
-                stroke={strokeColor}
-                strokeWidth={strokeW}
-                strokeLinejoin="round"
-              />
-            ))}
-            {isHighlighted && tappedCorrect === null && (
-              <motion.circle
-                cx={zone.center[0]}
-                cy={zone.center[1]}
-                r={8}
-                fill="transparent"
-                stroke={color}
-                strokeWidth="2"
-                animate={{ scale: [1, 1.4, 1], opacity: [0.8, 0.3, 0.8] }}
-                transition={{ repeat: Infinity, duration: 1.2, ease: "easeInOut" }}
-              />
-            )}
-          </g>
-        );
-      })}
-
-      {/* Eyes */}
-      <circle cx="53" cy="22" r="2.5" fill="#333" />
-      <circle cx="67" cy="22" r="2.5" fill="#333" />
-      <circle cx="54" cy="21" r="0.8" fill="white" />
-      <circle cx="68" cy="21" r="0.8" fill="white" />
-      {/* Mouth */}
-      <path d="M 54 34 Q 60 39 66 34" stroke="#c97a6a" strokeWidth="1.5" fill="none" />
-    </svg>
-  );
-}
-
-/* ─── main component ─── */
-interface Props {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
-
-function BodyExplorer({ color, lang = "de", onDone, onClose }: Props) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const scoreRef = useRef(0);
-  const totalRef = useRef(0);
-
-  const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
-  }, [lang]);
-
-  /* ─── Round 0: Body parts quiz — tap the highlighted part ─── */
-  const bodyQuiz = useMemo(() => {
-    const parts: BodyPartId[] = shuffle(["head", "arm", "leg", "hand", "body", "foot"]);
-    return parts.slice(0, 4);
-  }, []);
-  const [bodyQIdx, setBodyQIdx] = useState(0);
-  const [bodyTapped, setBodyTapped] = useState<boolean | null>(null);
-
-  /* ─── Round 1: Sense → organ quiz ─── */
-  type SenseQ = { questionKey: string; answer: string; options: string[] };
-  const senseQuestions = useMemo<SenseQ[]>(() => shuffle([
-    { questionKey: "senseForSeeing", answer: "eye", options: ["eye", "ear", "nose"] },
-    { questionKey: "senseForHearing", answer: "ear", options: ["eye", "ear", "tongue"] },
-    { questionKey: "senseForSmelling", answer: "nose", options: ["nose", "ear", "eye"] },
-    { questionKey: "senseForTasting", answer: "tongue", options: ["tongue", "nose", "ear"] },
-  ]).slice(0, 3), []);
-  const [senseIdx, setSenseIdx] = useState(0);
-  const [senseAnswer, setSenseAnswer] = useState<string | null>(null);
-
-  /* ─── Round 2: Organ → action quiz ─── */
-  type ActionQ = { questionKey: string; answer: string; options: string[] };
-  const actionQuestions = useMemo<ActionQ[]>(() => shuffle([
-    { questionKey: "whatCanEyesDo", answer: "see", options: ["see", "hear", "smell"] },
-    { questionKey: "whatCanEarsDo", answer: "hear", options: ["hear", "see", "taste"] },
-    { questionKey: "whatCanNoseDo", answer: "smell", options: ["smell", "hear", "taste"] },
-    { questionKey: "whatCanTongueDo", answer: "taste", options: ["taste", "smell", "see"] },
-  ]).slice(0, 3), []);
-  const [actionIdx, setActionIdx] = useState(0);
-  const [actionAnswer, setActionAnswer] = useState<string | null>(null);
-
-  /* ─── Round 3: Healthy / Unhealthy ─── */
-  type HygieneQ = { labelKey: string; healthy: boolean };
-  const hygieneQuestions = useMemo<HygieneQ[]>(() => shuffle([
-    { labelKey: "brushTeeth", healthy: true },
-    { labelKey: "washHands", healthy: true },
-    { labelKey: "eatVegetables", healthy: true },
-    { labelKey: "sleepEnough", healthy: true },
-    { labelKey: "drinkWater", healthy: true },
-    { labelKey: "eatCandies", healthy: false },
-    { labelKey: "skipWashing", healthy: false },
-    { labelKey: "stayUpLate", healthy: false },
-    { labelKey: "noExercise", healthy: false },
-    { labelKey: "drinkSoda", healthy: false },
-  ]).slice(0, 4), []);
-  const [hygieneIdx, setHygieneIdx] = useState(0);
-  const [hygieneAnswer, setHygieneAnswer] = useState<boolean | null>(null);
-
-  /* ─── Round 4: Mixed review ─── */
-  type ReviewQ = { questionKey: string; answer: string; options: string[] };
-  const reviewQuestions = useMemo<ReviewQ[]>(() => shuffle([
-    { questionKey: "howManySenses", answer: "answerFive", options: ["answerFive", "answerThree", "answerTen"] },
-    { questionKey: "senseForSmelling", answer: "nose", options: ["nose", "eye", "tongue"] },
-    { questionKey: "whatCanEyesDo", answer: "see", options: ["see", "taste", "smell"] },
-    { questionKey: "whereIsHeart", answer: "inChest", options: ["inChest", "inHead", "inLeg"] },
-  ]).slice(0, 3), []);
-  const [reviewIdx, setReviewIdx] = useState(0);
-  const [reviewAnswer, setReviewAnswer] = useState<string | null>(null);
-
-  /* ─── helpers ─── */
-  const advance = useCallback(() => {
-    if (round >= TOTAL_ROUNDS - 1) {
-      onDone(scoreRef.current, totalRef.current);
-    } else {
-      setRound(r => r + 1);
-      setShowTeach(true);
-    }
-  }, [round, onDone]);
-
-  /* ─── Body part tap handler ─── */
-  const handleBodyTap = useCallback((part: BodyPartId) => {
-    if (bodyTapped !== null) return; // already answered
-    const correct = part === bodyQuiz[bodyQIdx];
-    totalRef.current++;
-    if (correct) scoreRef.current++;
-    setBodyTapped(correct);
-  }, [bodyQIdx, bodyQuiz, bodyTapped]);
-
-  const advanceBodyQ = useCallback(() => {
-    if (bodyQIdx < bodyQuiz.length - 1) {
-      setBodyQIdx(i => i + 1);
-      setBodyTapped(null);
-    } else {
-      advance();
-    }
-  }, [bodyQIdx, bodyQuiz.length, advance]);
-
-  /* ─── MCQ handler factory ─── */
-  const makeMcqHandler = (
-    correctAnswer: string,
-    setAnswer: (v: string) => void,
-  ) => (choice: string) => {
-    totalRef.current++;
-    if (choice === correctAnswer) scoreRef.current++;
-    else fireWrongAnswer({ question: "Body Explorer", wrongAnswer: lbl[choice] ?? choice, correctAnswer: lbl[correctAnswer] ?? correctAnswer, topic: "Body Explorer", lang });
-    setAnswer(choice);
-  };
-
-  /* ─── Render helpers ─── */
-  const renderMCQ = (
-    options: string[],
-    selected: string | null,
-    correct: string,
-    onSelect: (v: string) => void,
-  ) => (
-    <div className="space-y-2 w-full max-w-xs">
-      {options.map((opt) => {
-        const isSelected = selected === opt;
-        const isCorrect = opt === correct;
-        let bg = "rgba(255,255,255,0.06)";
-        let border = "rgba(255,255,255,0.1)";
-        if (selected !== null) {
-          if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
-          else if (isSelected && !isCorrect) { bg = "#FF2D7833"; border = "#FF2D78"; }
-        }
-        return (
-          <motion.button
-            key={opt}
-            onClick={() => { if (selected === null) onSelect(opt); }}
-            className="w-full py-3 px-4 rounded-xl transition-all font-bold text-white text-sm"
-            whileTap={selected === null ? { scale: 0.97 } : undefined}
-            style={{ background: bg, border: `2px solid ${border}` }}
-          >
-            {lbl[opt] ?? opt}
-          </motion.button>
-        );
-      })}
-    </div>
-  );
-
-  const renderFeedback = (selected: string | null, correct: string) => {
-    if (selected === null) return null;
-    const isCorrect = selected === correct;
-    return (
-      <motion.p
-        initial={{ opacity: 0, y: 5 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="text-sm font-black"
-        style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}
-      >
-        {isCorrect ? lbl.correct : lbl.wrong}
-      </motion.p>
-    );
-  };
-
-  const renderNext = (
-    disabled: boolean,
-    onClick: () => void,
-    label?: string,
-  ) => (
-    <motion.button
-      onClick={onClick}
-      disabled={disabled}
-      className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2 disabled:opacity-30 transition-opacity"
-      style={{
-        background: !disabled ? `linear-gradient(135deg, ${color}55, ${color}99)` : "rgba(255,255,255,0.06)",
-        border: `2px solid ${!disabled ? color : "rgba(255,255,255,0.1)"}`,
-      }}
-    >
-      {label ?? lbl.next} <ChevronRight size={16} />
-    </motion.button>
-  );
-
+}) {
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-      {/* Progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-3">
-        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-          <div
-            key={i}
-            className="w-2.5 h-2.5 rounded-full transition-colors"
-            style={{ background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)" }}
-          />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={round}
-          initial={{ opacity: 0, x: 30 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -30 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
-        >
-          {/* ═══ ROUND 0 — Body parts: tap the highlighted part ═══ */}
-          {round === 0 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{lbl.round1Title}</p>
-                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-                    <button onClick={() => speak(lbl.round1Title + ". " + lbl.round1Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-
-                  <div className="relative">
-                    <InteractiveBody
-                      color={color}
-                      highlightPart={bodyQuiz[bodyQIdx]}
-                      onTapPart={handleBodyTap}
-                      tappedCorrect={bodyTapped}
-                    />
-                  </div>
-
-                  {/* Question + sub-progress */}
-                  <div className="flex items-center gap-2">
-                    <span className="text-white/40 text-xs font-bold">{bodyQIdx + 1}/{bodyQuiz.length}</span>
-                    <span className="text-white/80 text-sm font-bold">
-                      {lbl.whatIsThis} <span style={{ color }}>{lbl[bodyQuiz[bodyQIdx]]}</span>?
-                    </span>
-                  </div>
-
-                  {bodyTapped !== null && renderFeedback(
-                    bodyTapped ? bodyQuiz[bodyQIdx] : "wrong",
-                    bodyQuiz[bodyQIdx],
-                  )}
-
-                  {renderNext(bodyTapped === null, advanceBodyQ)}
-                </>
-              )}
-            </>
-          )}
-
-          {/* ═══ ROUND 1 — Sense → organ ═══ */}
-          {round === 1 && (() => {
-            if (showTeach) {
-              return (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{lbl.round2Title}</p>
-                    <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              );
-            }
-            const q = senseQuestions[senseIdx];
-            if (!q) return null;
-            const opts = useMemo(() => shuffle(q.options), [senseIdx]); // eslint-disable-line
-            return (
-              <>
-                <div className="flex items-center gap-2">
-                  <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-                  <button onClick={() => speak(lbl.round2Title + ". " + lbl.round2Hint)}
-                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                    <Volume2 size={16} />
-                  </button>
-                </div>
-                <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
-                <span className="text-white/40 text-xs font-bold">{senseIdx + 1}/{senseQuestions.length}</span>
-
-                {renderMCQ(
-                  opts,
-                  senseAnswer,
-                  q.answer,
-                  makeMcqHandler(q.answer, setSenseAnswer),
-                )}
-                {renderFeedback(senseAnswer, q.answer)}
-                {renderNext(senseAnswer === null, () => {
-                  if (senseIdx < senseQuestions.length - 1) {
-                    setSenseIdx(i => i + 1);
-                    setSenseAnswer(null);
-                  } else {
-                    advance();
-                  }
-                })}
-              </>
-            );
-          })()}
-
-          {/* ═══ ROUND 2 — Organ → action ═══ */}
-          {round === 2 && (() => {
-            if (showTeach) {
-              return (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{lbl.round3Title}</p>
-                    <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              );
-            }
-            const q = actionQuestions[actionIdx];
-            if (!q) return null;
-            const opts = useMemo(() => shuffle(q.options), [actionIdx]); // eslint-disable-line
-            return (
-              <>
-                <div className="flex items-center gap-2">
-                  <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-                  <button onClick={() => speak(lbl.round3Title + ". " + lbl.round3Hint)}
-                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                    <Volume2 size={16} />
-                  </button>
-                </div>
-                <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
-                <span className="text-white/40 text-xs font-bold">{actionIdx + 1}/{actionQuestions.length}</span>
-
-                {renderMCQ(
-                  opts,
-                  actionAnswer,
-                  q.answer,
-                  makeMcqHandler(q.answer, setActionAnswer),
-                )}
-                {renderFeedback(actionAnswer, q.answer)}
-                {renderNext(actionAnswer === null, () => {
-                  if (actionIdx < actionQuestions.length - 1) {
-                    setActionIdx(i => i + 1);
-                    setActionAnswer(null);
-                  } else {
-                    advance();
-                  }
-                })}
-              </>
-            );
-          })()}
-
-          {/* ═══ ROUND 3 — Healthy habits ═══ */}
-          {round === 3 && (() => {
-            if (showTeach) {
-              return (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{lbl.round4Title}</p>
-                    <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              );
-            }
-            const q = hygieneQuestions[hygieneIdx];
-            if (!q) return null;
-            return (
-              <>
-                <div className="flex items-center gap-2">
-                  <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-                  <button onClick={() => speak(lbl.round4Title + ". " + lbl.round4Hint)}
-                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                    <Volume2 size={16} />
-                  </button>
-                </div>
-                <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
-                <span className="text-white/40 text-xs font-bold">{hygieneIdx + 1}/{hygieneQuestions.length}</span>
-
-                {/* Action card */}
-                <div
-                  className="w-full max-w-xs py-5 px-6 rounded-2xl text-center"
-                  style={{ background: "rgba(255,255,255,0.06)", border: "2px solid rgba(255,255,255,0.1)" }}
-                >
-                  <p className="text-white font-bold text-base">{lbl[q.labelKey]}</p>
-                </div>
-
-                {/* Yes / No buttons */}
-                <div className="flex gap-3 w-full max-w-xs">
-                  {([true, false] as const).map((val) => {
-                    const label = val ? lbl.healthy : lbl.unhealthy;
-                    const isSelected = hygieneAnswer === val;
-                    const isCorrect = val === q.healthy;
-                    let bg = "rgba(255,255,255,0.06)";
-                    let border = "rgba(255,255,255,0.1)";
-                    if (hygieneAnswer !== null) {
-                      if (isCorrect) { bg = "#00FF8833"; border = "#00FF88"; }
-                      else if (isSelected && !isCorrect) { bg = "#FF2D7833"; border = "#FF2D78"; }
-                    }
-                    return (
-                      <motion.button
-                        key={String(val)}
-                        onClick={() => {
-                          if (hygieneAnswer !== null) return;
-                          totalRef.current++;
-                          if (val === q.healthy) scoreRef.current++;
-                          setHygieneAnswer(val);
-                        }}
-                        whileTap={hygieneAnswer === null ? { scale: 0.97 } : undefined}
-                        className="flex-1 py-3 rounded-xl transition-all font-black text-white text-sm"
-                        style={{ background: bg, border: `2px solid ${border}` }}
-                      >
-                        {val ? "👍" : "👎"} {label}
-                      </motion.button>
-                    );
-                  })}
-                </div>
-
-                {hygieneAnswer !== null && renderFeedback(
-                  hygieneAnswer === q.healthy ? "c" : "w",
-                  "c",
-                )}
-
-                {renderNext(hygieneAnswer === null, () => {
-                  if (hygieneIdx < hygieneQuestions.length - 1) {
-                    setHygieneIdx(i => i + 1);
-                    setHygieneAnswer(null);
-                  } else {
-                    advance();
-                  }
-                })}
-              </>
-            );
-          })()}
-
-
-          {/* ═══ ROUND 4 — Mixed review ═══ */}
-          {round === 4 && (() => {
-            if (showTeach) {
-              return (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{lbl.round5Title}</p>
-                    <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {lbl.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              );
-            }
-            const q = reviewQuestions[reviewIdx];
-            if (!q) return null;
-            const opts = useMemo(() => shuffle(q.options), [reviewIdx]); // eslint-disable-line
-            return (
-              <>
-                <div className="flex items-center gap-2">
-                  <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-                  <button onClick={() => speak(lbl.round5Title + ". " + lbl.round5Hint)}
-                    className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors">
-                    <Volume2 size={16} />
-                  </button>
-                </div>
-                <p className="text-white/60 text-sm font-bold text-center">{lbl[q.questionKey]}</p>
-                <span className="text-white/40 text-xs font-bold">{reviewIdx + 1}/{reviewQuestions.length}</span>
-
-                {renderMCQ(
-                  opts,
-                  reviewAnswer,
-                  q.answer,
-                  makeMcqHandler(q.answer, setReviewAnswer),
-                )}
-                {renderFeedback(reviewAnswer, q.answer)}
-                {renderNext(reviewAnswer === null, () => {
-                  if (reviewIdx < reviewQuestions.length - 1) {
-                    setReviewIdx(i => i + 1);
-                    setReviewAnswer(null);
-                  } else {
-                    advance();
-                  }
-                }, lbl.finish)}
-              </>
-            );
-          })()}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_body_senses" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-export default memo(BodyExplorer);
+export default BodyExplorer;
