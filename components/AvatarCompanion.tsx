@@ -278,18 +278,18 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       : 0;
     if (leftLidRef.current) leftLidRef.current.scale.y = 0.01 + lidClose * 1.2;
     if (rightLidRef.current) rightLidRef.current.scale.y = 0.01 + lidClose * 1.2;
-    // Eyebrow raise during blink
-    if (leftBrowRef.current) leftBrowRef.current.position.y = 0.1 + lidClose * 0.025;
-    if (rightBrowRef.current) rightBrowRef.current.position.y = 0.1 + lidClose * 0.025;
+    // Eyebrow raise during blink — brow ref is now at local [0,0,0] inside offset group
+    if (leftBrowRef.current) leftBrowRef.current.position.y = lidClose * 0.025;
+    if (rightBrowRef.current) rightBrowRef.current.position.y = lidClose * 0.025;
 
-    // Gaze
+    // Gaze — iris ref is at local [0,0,z] inside pivot group; move in local X/Y
     if (leftIrisRef.current && rightIrisRef.current) {
       const gazeX = Math.sin(t * 0.4) * 0.008;
       const gazeY = Math.sin(t * 0.3 + 0.7) * 0.005;
-      leftIrisRef.current.position.x = -0.08 + gazeX;
-      leftIrisRef.current.position.y = 0.04 + gazeY;
-      rightIrisRef.current.position.x = 0.08 + gazeX;
-      rightIrisRef.current.position.y = 0.04 + gazeY;
+      leftIrisRef.current.position.x  = gazeX;
+      leftIrisRef.current.position.y  = gazeY;
+      rightIrisRef.current.position.x = gazeX;
+      rightIrisRef.current.position.y = gazeY;
     }
 
     // Mouth reset
@@ -606,8 +606,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       // Brows follow vertical gaze slightly
       if (leftBrowRef.current && rightBrowRef.current) {
         const browLift = my * 0.012;
-        leftBrowRef.current.position.y  = lerp(leftBrowRef.current.position.y,  0.1 + browLift, 0.06);
-        rightBrowRef.current.position.y = lerp(rightBrowRef.current.position.y, 0.1 + browLift, 0.06);
+        leftBrowRef.current.position.y  = lerp(leftBrowRef.current.position.y,  browLift, 0.06);
+        rightBrowRef.current.position.y = lerp(rightBrowRef.current.position.y, browLift, 0.06);
       }
     }
 
