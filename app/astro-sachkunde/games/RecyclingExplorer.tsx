@@ -1,717 +1,363 @@
 "use client";
-// RecyclingExplorer — Island i7: Materials & Recycling
-// 5 randomised rounds, answer lock-out, scoreRef/totalRef, all text in LABELS
+// RecyclingExplorer.tsx — Sachkunde Island i7: Materials & Recycling (K1)
+// Topics: 1) Miből van? 2) Szemétválogatás 3) A kukák színei 4) Újrahasznosítás 5) Vigyázzunk a természetre!
 
-import { memo, useState, useCallback, useRef, useMemo } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, CheckCircle2, XCircle, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+import { 
+  MaterialsSvg, 
+  WasteSeparationSvg, 
+  RecyclingBinsSvg, 
+  WhyRecycleSvg, 
+  ProtectNatureSvg 
+} from "@/app/astro-sachkunde/svg/k1/TrafficRecyclingSvg";
 
-// ─── LABELS ────────────────────────────────────────────────────────────────────
-const LABELS = {
+// ─── LABELS ─────────────────────────────────────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Anyagok és Újrahasznosítás",
+    // T1: Miből van? (Match-pairs)
+    t1_title: "Miből készült?",
+    t1_text: "A körülöttünk lévő tárgyak különböző anyagokból készülnek. Van, ami fából, papírból, műanyagból vagy üvegből van.",
+    t1_b1: "A fákból fát és papírt csinálunk.",
+    t1_b2: "A játékaink sokszor műanyagból vannak, mert az nem törik el könnyen.",
+    t1_b3: "Az ablak és a pohár üvegből készül, ami átlátszó, de törékeny.",
+    t1_inst: "Párosítsd az anyagot a tárggyal!",
+    t1_l1: "Fa 🪵", t1_r1: "Szék és asztal",
+    t1_l2: "Papír 📄", t1_r2: "Könyv és füzet",
+    t1_l3: "Műanyag 🧴", t1_r3: "Játékautó és legó",
+    t1_q: "Miből készül az ablaküveg?",
+    t1_q_a: "Üvegből", t1_q_b: "Papírból", t1_q_c: "Fából", t1_q_d: "Pamutból",
+
+    // T2: Szemétválogatás (Drag-to-bucket)
+    t2_title: "Válogassuk szét a szemetet!",
+    t2_text: "A szemetet nem szabad egyetlen nagy kukába dobni! Szét kell válogatnunk, hogy megvédjük a Földet.",
+    t2_b1: "A papírt a papíros kukába tesszük.",
+    t2_b2: "A műanyag palackot a műanyagos kukába dobjuk.",
+    t2_b3: "Ezt hívjuk szelektív hulladékgyűjtésnek.",
+    t2_inst: "Papír vagy Műanyag? Húzd a megfelelő helyre!",
+    t2_bucket_papir: "Papír kuka 📦",
+    t2_bucket_muanyag: "Műanyag kuka 🧴",
+    t2_item_p1: "Régi újság", t2_item_p2: "Karton doboz",
+    t2_item_m1: "Üres ásványvizes flakon", t2_item_m2: "Joghurtos pohár",
+    t2_q: "Hová kell dobni a kiürült müzlis dobozt?",
+    t2_q_a: "A papírgyűjtőbe", t2_q_b: "A fűbe", t2_q_c: "A műanyagos kukába", t2_q_d: "Az üveges kukába",
+
+    // T3: Kukák színei (Label-diagram)
+    t3_title: "A kukák színei",
+    t3_text: "A szelektív kukák különböző színűek, hogy könnyen tudjuk, mit hová kell dobni.",
+    t3_b1: "A KÉK kukába gyűjtjük a papírt.",
+    t3_b2: "A SÁRGA kukába kerül a műanyag és a fém.",
+    t3_b3: "A ZÖLD kukába dobjuk az üveget.",
+    t3_inst: "Keresd meg, melyik színű kuka mit jelent!",
+    t3_area_blue: "Kék (Papír)",
+    t3_area_yellow: "Sárga (Műanyag)",
+    t3_area_green: "Zöld (Üveg)",
+    t3_q: "Milyen színű kukába dobjuk a műanyag flakont?",
+    t3_q_a: "Sárga", t3_q_b: "Kék", t3_q_c: "Piros", t3_q_d: "Fekete",
+
+    // T4: Újrahasznosítás (Word-order)
+    t4_title: "Régi dologból valami új!",
+    t4_text: "Ha jó helyre dobjuk a szemetet, a gyárakban újrahasznosítják. Vagyis a régi szemétből teljesen új dolgokat készítenek!",
+    t4_b1: "A régi papírból új füzet lesz.",
+    t4_b2: "A műanyag palackokból akár polár pulcsi is készülhet.",
+    t4_b3: "Így kevesebb fát kell kivágni.",
+    t4_inst: "Mi a sorrend? Hogyan lesz az üdítőből új tárgy?",
+    t4_w1: "Megiszom az üdítőt", t4_w2: "Sárga kukába dobom", t4_w3: "Elviszi a kukásautó", t4_w4: "Új játék készül belőle",
+    t4_q: "Mi történik a papírral, ha a kék kukába dobjuk?",
+    t4_q_a: "Új papírt csinálnak belőle", t4_q_b: "Elássák a föld alá", t4_q_c: "Üveg lesz belőle", t4_q_d: "Felgyújtják",
+
+    // T5: Természetvédelem (Gap-fill)
+    t5_title: "Vigyázzunk az erdőre!",
+    t5_text: "A természet az állatok és a növények otthona. Soha ne dobjuk el a szemetet az utcán vagy az erdőben!",
+    t5_b1: "A szemét veszélyes az állatokra.",
+    t5_b2: "Mindig keressünk egy szemeteskukát.",
+    t5_b3: "Ha nincs kuka, vigyük haza a zsebünkben vagy a táskánkban!",
+    t5_inst: "Egészítsd ki a mondatot!",
+    t5_gap_sentence: "Ha kirándulunk az erdőben, a szemetet mindig a {gap} kell dobni.",
+    t5_c51: "kukába", t5_c52: "bokorba", t5_c53: "patakba",
+    t5_q: "Mit csinálj a csokipapírral, ha megetted a csokit a parkban?",
+    t5_q_a: "Keresek egy kukát és beledobom", t5_q_b: "Eldobom a fűbe", t5_q_c: "Otthagyom a padon", t5_q_d: "Bedugom egy fa odvába",
+  },
   en: {
-    title: "Recycling Explorer",
-    // round titles & hints
-    r1Title: "What material is this?",
-    r1Hint: "What is this item made of?",
-    r1Teach: "Things around us are made from different materials: paper (from trees), plastic (man-made), glass (from sand), metal (from the earth), and organic waste (from plants and food). Each material feels and looks different!",
-    r2Title: "Which bin?",
-    r2Hint: "Which bin does this item belong in?",
-    r2Teach: "We sort waste into coloured bins: 🟡 Yellow bin = plastic & packaging, 🔵 Blue bin = paper & cardboard, 🟤 Brown bin = food & garden waste, 🟢 Green/Glass container = glass bottles & jars, ⚫ Gray bin = everything else.",
-    r3Title: "Recyclable?",
-    r3Hint: "Can this item be recycled?",
-    r3Teach: "Recycling means turning old things into new ones! Paper, glass, metal and clean plastic CAN be recycled. But dirty items, broken umbrellas or mixed materials usually CANNOT. Always rinse containers before recycling!",
-    r4Title: "Good for nature?",
-    r4Hint: "Is this behaviour good or bad for nature?",
-    r4Teach: "We can help protect nature every day! Saving water, riding a bike, planting trees and composting are GOOD for nature. Littering, wasting electricity and using single-use plastic are BAD. Small actions make a big difference!",
-    r5Title: "Quick Review",
-    r5Hint: "What have you learned?",
-    r5Teach: "Let's see what you remember! Think about materials, bins, recycling and nature-friendly behaviour.",
-    gotIt: "Got it! →",
-    // materials
-    paper: "Paper",
-    plastic: "Plastic",
-    glass: "Glass",
-    metal: "Metal",
-    organic: "Organic",
-    other: "Other",
-    // bin labels
-    yellowBin: "Yellow bin",
-    blueBin: "Blue bin",
-    brownBin: "Brown bin",
-    greenBin: "Green bin / Glass",
-    grayBin: "Gray bin",
-    // recyclable
-    yes: "Yes, recyclable",
-    no: "Not recyclable",
-    // good / bad
-    good: "Good for nature",
-    bad: "Bad for nature",
-    // feedback
-    correct: "Correct!",
-    wrong: "Not quite — try again!",
-    next: "Next",
-    finish: "Finish",
-    // items (emoji shown, name as label)
-    bottleWater: "Plastic water bottle",
-    newspaper: "Newspaper",
-    bananaPeel: "Banana peel",
-    glassBottle: "Glass bottle",
-    tinCan: "Tin can",
-    cardboardBox: "Cardboard box",
-    plasticBag: "Plastic bag",
-    coffeeCup: "Disposable coffee cup",
-    apple: "Apple core",
-    yogurtCup: "Yogurt cup",
-    aluminumFoil: "Aluminium foil",
-    brokenUmbrella: "Broken umbrella",
-    // behaviours
-    plantTree: "Planting a tree 🌳",
-    littering: "Throwing litter on the ground 🚮",
-    saveWater: "Turning off the tap while brushing teeth 🚿",
-    longShower: "Taking a 30-minute shower 🚿",
-    bikeRide: "Riding a bike instead of driving 🚲",
-    leaveLight: "Leaving lights on in empty rooms 💡",
-    compost: "Composting food scraps 🌱",
-    singleUsePlastic: "Using single-use plastic bags 🛍️",
+    explorer_title: "Materials & Recycling",
+    t1_title: "What is it made of?", t1_text: "Things around us are made of different materials, like wood, paper, plastic, or glass.",
+    t1_b1: "Trees give us wood and paper.", t1_b2: "Our toys are often made of plastic because it doesn't break easily.", t1_b3: "Windows and glasses are made of glass, which is clear but fragile.",
+    t1_inst: "Match the material with the object!",
+    t1_l1: "Wood 🪵", t1_r1: "Chair and table",
+    t1_l2: "Paper 📄", t1_r2: "Book and notebook",
+    t1_l3: "Plastic 🧴", t1_r3: "Toy car and Lego",
+    t1_q: "What is a window made of?",
+    t1_q_a: "Glass", t1_q_b: "Paper", t1_q_c: "Wood", t1_q_d: "Cotton",
+
+    t2_title: "Sorting the Trash", t2_text: "We shouldn't throw everything in one big bin! We sort our trash to protect the Earth.",
+    t2_b1: "Paper goes into the paper bin.", t2_b2: "Plastic bottles go into the plastic bin.", t2_b3: "This is called recycling or waste separation.",
+    t2_inst: "Paper or Plastic? Drag to the right bin!",
+    t2_bucket_papir: "Paper Bin 📦",
+    t2_bucket_muanyag: "Plastic Bin 🧴",
+    t2_item_p1: "Old newspaper", t2_item_p2: "Cardboard box",
+    t2_item_m1: "Empty water bottle", t2_item_m2: "Yogurt cup",
+    t2_q: "Where should you throw an empty cereal box?",
+    t2_q_a: "In the paper bin", t2_q_b: "In the grass", t2_q_c: "In the plastic bin", t2_q_d: "In the glass bin",
+
+    t3_title: "Colors of the Bins", t3_text: "Recycling bins have different colors so we easily know what goes where.",
+    t3_b1: "The BLUE bin is for paper.", t3_b2: "The YELLOW bin is for plastic and metal.", t3_b3: "The GREEN bin is for glass.",
+    t3_inst: "Find what each color means!",
+    t3_area_blue: "Blue (Paper)", t3_area_yellow: "Yellow (Plastic)", t3_area_green: "Green (Glass)",
+    t3_q: "Which bin do we use for plastic bottles?",
+    t3_q_a: "Yellow", t3_q_b: "Blue", t3_q_c: "Red", t3_q_d: "Black",
+
+    t4_title: "Old to New!", t4_text: "If we put trash in the right bin, factories can recycle it. That means making brand new things out of old trash!",
+    t4_b1: "Old paper becomes new notebooks.", t4_b2: "Plastic bottles can become a warm fleece sweater.", t4_b3: "This way, we cut down fewer trees.",
+    t4_inst: "What is the order? How does a bottle become a new toy?",
+    t4_w1: "I drink the water", t4_w2: "Throw it in the yellow bin", t4_w3: "Garbage truck takes it", t4_w4: "It becomes a new toy",
+    t4_q: "What happens to paper when we put it in the blue bin?",
+    t4_q_a: "It is made into new paper", t4_q_b: "It is buried underground", t4_q_c: "It turns into glass", t4_q_d: "It is burned",
+
+    t5_title: "Protect Nature!", t5_text: "Nature is home to animals and plants. Never throw trash on the street or in the forest!",
+    t5_b1: "Trash is dangerous for animals.", t5_b2: "Always look for a trash can.", t5_b3: "If there is no bin, take it home in your bag!",
+    t5_inst: "Fill in the word!",
+    t5_gap_sentence: "When we walk in the forest, we must always throw our trash in the {gap}.",
+    t5_c51: "trash can", t5_c52: "bush", t5_c53: "river",
+    t5_q: "What should you do with your candy wrapper in the park?",
+    t5_q_a: "Find a bin and throw it in", t5_q_b: "Throw it in the grass", t5_q_c: "Leave it on the bench", t5_q_d: "Put it in a tree hole",
   },
   de: {
-    title: "Recycling-Entdecker",
-    r1Title: "Aus welchem Material ist das?",
-    r1Hint: "Erkenne das Material!",
-    r1Teach: "Dinge um uns herum bestehen aus verschiedenen Materialien: Papier (aus Bäumen), Kunststoff (künstlich hergestellt), Glas (aus Sand), Metall (aus der Erde) und Bioabfall (aus Pflanzen und Essen). Jedes Material fühlt sich anders an!",
-    r2Title: "In welche Tonne?",
-    r2Hint: "In welche Tonne gehört das?",
-    r2Teach: "Wir trennen Abfall in farbige Tonnen: 🟡 Gelbe Tonne = Kunststoff & Verpackungen, 🔵 Blaue Tonne = Papier & Karton, 🟤 Braune Tonne = Essens- & Gartenabfälle, 🟢 Glascontainer = Glasflaschen & Gläser, ⚫ Graue Tonne = alles andere.",
-    r3Title: "Recycelbar?",
-    r3Hint: "Kann man das recyceln?",
-    r3Teach: "Recycling bedeutet, aus alten Dingen neue zu machen! Papier, Glas, Metall und sauberer Kunststoff KÖNNEN recycelt werden. Aber schmutzige Sachen, kaputte Regenschirme oder gemischte Materialien meist NICHT. Spüle Behälter immer aus!",
-    r4Title: "Gut für die Natur?",
-    r4Hint: "Ist dieses Verhalten gut oder schlecht für die Natur?",
-    r4Teach: "Wir können jeden Tag die Natur schützen! Wasser sparen, Fahrrad fahren, Bäume pflanzen und kompostieren sind GUT für die Natur. Müll wegwerfen, Strom verschwenden und Einweg-Plastik benutzen sind SCHLECHT. Kleine Taten machen einen großen Unterschied!",
-    r5Title: "Schnell-Wiederholung",
-    r5Hint: "Was hast du gelernt?",
-    r5Teach: "Mal sehen, was du dir gemerkt hast! Denke an Materialien, Tonnen, Recycling und naturfreundliches Verhalten.",
-    gotIt: "Verstanden! →",
-    paper: "Papier",
-    plastic: "Kunststoff",
-    glass: "Glas",
-    metal: "Metall",
-    organic: "Bio",
-    other: "Sonstiges",
-    yellowBin: "Gelbe Tonne",
-    blueBin: "Blaue Tonne",
-    brownBin: "Braune Tonne",
-    greenBin: "Glascontainer",
-    grayBin: "Graue Tonne",
-    yes: "Ja, recycelbar",
-    no: "Nicht recycelbar",
-    good: "Gut für die Natur",
-    bad: "Schlecht für die Natur",
-    correct: "Richtig!",
-    wrong: "Nicht ganz — versuch es nochmal!",
-    next: "Weiter",
-    finish: "Fertig",
-    bottleWater: "Plastikwasserflasche",
-    newspaper: "Zeitung",
-    bananaPeel: "Bananenschale",
-    glassBottle: "Glasflasche",
-    tinCan: "Blechdose",
-    cardboardBox: "Kartonbox",
-    plasticBag: "Plastiktüte",
-    coffeeCup: "Einweg-Kaffeebecher",
-    apple: "Apfelgehäuse",
-    yogurtCup: "Joghurtbecher",
-    aluminumFoil: "Aluminiumfolie",
-    brokenUmbrella: "Kaputt Regenschirm",
-    plantTree: "Einen Baum pflanzen 🌳",
-    littering: "Müll auf den Boden werfen 🚮",
-    saveWater: "Wasserhahn beim Zähneputzen abdrehen 🚿",
-    longShower: "30 Minuten duschen 🚿",
-    bikeRide: "Fahrrad statt Auto fahren 🚲",
-    leaveLight: "Licht in leeren Räumen anlassen 💡",
-    compost: "Küchenabfälle kompostieren 🌱",
-    singleUsePlastic: "Einweg-Plastiktüten benutzen 🛍️",
-  },
-  hu: {
-    title: "Újrahasznosítás felfedező",
-    r1Title: "Milyen anyagból van?",
-    r1Hint: "Miből készült ez a tárgy?",
-    r1Teach: "A körülöttünk lévő dolgok különböző anyagokból készülnek: papír (fából), műanyag (mesterségesen készült), üveg (homokból), fém (a földből) és szerves hulladék (növényekből, ételből). Minden anyag másképp néz ki és érződik!",
-    r2Title: "Melyik kukába?",
-    r2Hint: "Melyik kukába kerül ez a tárgy?",
-    r2Teach: "A hulladékot színes kukákba válogatjuk: 🟡 Sárga kuka = műanyag és csomagolás, 🔵 Kék kuka = papír és karton, 🟤 Barna kuka = étel- és kerti hulladék, 🟢 Üveggyűjtő = üvegpalackok és befőttes üvegek, ⚫ Szürke kuka = minden más.",
-    r3Title: "Újrahasznosítható?",
-    r3Hint: "Ez az anyag újrahasznosítható?",
-    r3Teach: "Az újrahasznosítás azt jelenti, hogy a régi dolgokból újat készítünk! A papír, az üveg, a fém és a tiszta műanyag IGEN, újrahasznosítható. De a koszos dolgok, törött esernyők vagy kevert anyagok általában NEM. Mindig öblítsd ki a tartályokat!",
-    r4Title: "Jó a természetnek?",
-    r4Hint: "Ez a viselkedés jó vagy rossz a természetnek?",
-    r4Teach: "Minden nap segíthetünk a természetnek! Vizet takarítani, kerékpározni, fát ültetni és komposztálni JÓ a természetnek. Szemetet szórni, áramot pazarolni és egyszer használatos műanyagot használni ROSSZ. A kis tettek is sokat számítanak!",
-    r5Title: "Gyors összefoglaló",
-    r5Hint: "Mit tanultál?",
-    r5Teach: "Nézzük meg, mire emlékszel! Gondolj az anyagokra, kukákra, újrahasznosításra és természetbarát viselkedésre.",
-    gotIt: "Értem! →",
-    paper: "Papír",
-    plastic: "Műanyag",
-    glass: "Üveg",
-    metal: "Fém",
-    organic: "Szerves",
-    other: "Egyéb",
-    yellowBin: "Sárga kuka",
-    blueBin: "Kék kuka",
-    brownBin: "Barna kuka",
-    greenBin: "Üveggyűjtő",
-    grayBin: "Szürke kuka",
-    yes: "Igen, újrahasznosítható",
-    no: "Nem újrahasznosítható",
-    good: "Jó a természetnek",
-    bad: "Rossz a természetnek",
-    correct: "Helyes!",
-    wrong: "Nem egészen — próbáld újra!",
-    next: "Tovább",
-    finish: "Befejezés",
-    bottleWater: "Műanyag vizes palack",
-    newspaper: "Újság",
-    bananaPeel: "Banánhéj",
-    glassBottle: "Üvegpalack",
-    tinCan: "Fémdoboz",
-    cardboardBox: "Kartondoboz",
-    plasticBag: "Műanyag szatyor",
-    coffeeCup: "Eldobható kávéspohár",
-    apple: "Almacsutak",
-    yogurtCup: "Joghurtos pohár",
-    aluminumFoil: "Alufólia",
-    brokenUmbrella: "Törött esernyő",
-    plantTree: "Fát ültetni 🌳",
-    littering: "Szemetet dobni a földre 🚮",
-    saveWater: "Fogmosás közben elzárni a csapot 🚿",
-    longShower: "30 percig zuhanyozni 🚿",
-    bikeRide: "Bringával menni autó helyett 🚲",
-    leaveLight: "Üres szobában égve hagyni a villanyt 💡",
-    compost: "Ételmaradékot komposztálni 🌱",
-    singleUsePlastic: "Egyszer használatos szatyrokat használni 🛍️",
+    explorer_title: "Materialien & Recycling",
+    t1_title: "Woraus ist das gemacht?", t1_text: "Die Dinge um uns herum bestehen aus verschiedenen Materialien wie Holz, Papier, Plastik oder Glas.",
+    t1_b1: "Aus Bäumen machen wir Holz und Papier.", t1_b2: "Unsere Spielzeuge sind oft aus Plastik, weil es nicht so schnell kaputtgeht.", t1_b3: "Fenster und Gläser sind aus Glas, das durchsichtig, aber zerbrechlich ist.",
+    t1_inst: "Verbinde das Material mit dem Gegenstand!",
+    t1_l1: "Holz 🪵", t1_r1: "Stuhl und Tisch",
+    t1_l2: "Papier 📄", t1_r2: "Buch und Heft",
+    t1_l3: "Plastik 🧴", t1_r3: "Spielzeugauto",
+    t1_q: "Woraus besteht ein Fenster?",
+    t1_q_a: "Aus Glas", t1_q_b: "Aus Papier", t1_q_c: "Aus Holz", t1_q_d: "Aus Baumwolle",
+
+    t2_title: "Müll trennen", t2_text: "Wir werfen nicht alles in einen großen Eimer! Wir trennen unseren Müll, um die Erde zu schützen.",
+    t2_b1: "Papier kommt in die Papiertonne.", t2_b2: "Plastikflaschen kommen in den Gelben Sack/Tonne.", t2_b3: "Das nennt man Mülltrennung.",
+    t2_inst: "Papier oder Plastik? Sortiere den Müll!",
+    t2_bucket_papir: "Papiertonne 📦",
+    t2_bucket_muanyag: "Gelbe Tonne 🧴",
+    t2_item_p1: "Alte Zeitung", t2_item_p2: "Pappkarton",
+    t2_item_m1: "Leere Wasserflasche", t2_item_m2: "Joghurtbecher",
+    t2_q: "Wohin gehört die leere Müslischachtel?",
+    t2_q_a: "In die Papiertonne", t2_q_b: "Auf die Wiese", t2_q_c: "In die Plastiktonne", t2_q_d: "In den Glascontainer",
+
+    t3_title: "Farben der Mülltonnen", t3_text: "Die Mülltonnen haben verschiedene Farben, damit wir wissen, was wo hinein gehört.",
+    t3_b1: "Die BLAUE Tonne ist für Papier.", t3_b2: "Die GELBE Tonne ist für Plastik und Metall.", t3_b3: "Der GRÜNE (oder weiße) Container ist für Glas.",
+    t3_inst: "Finde heraus, wofür die Farben stehen!",
+    t3_area_blue: "Blau (Papier)", t3_area_yellow: "Gelb (Plastik)", t3_area_green: "Grün/Weiß (Glas)",
+    t3_q: "In welche Tonne werfen wir eine Plastikflasche?",
+    t3_q_a: "Gelb", t3_q_b: "Blau", t3_q_c: "Rot", t3_q_d: "Schwarz",
+
+    t4_title: "Aus Alt mach Neu!", t4_text: "Wenn wir den Müll richtig trennen, wird er recycelt. Das bedeutet, aus altem Müll werden ganz neue Dinge gemacht!",
+    t4_b1: "Aus altem Papier werden neue Hefte.", t4_b2: "Aus Plastikflaschen kann ein warmer Pullover werden.", t4_b3: "So müssen wir weniger Bäume fällen.",
+    t4_inst: "Wie ist die Reihenfolge? Wie wird die Flasche zum Spielzeug?",
+    t4_w1: "Ich trinke das Wasser", t4_w2: "Ich werfe sie in die gelbe Tonne", t4_w3: "Das Müllauto holt sie ab", t4_w4: "Ein neues Spielzeug entsteht",
+    t4_q: "Was passiert mit Papier, wenn wir es in die blaue Tonne werfen?",
+    t4_q_a: "Es wird zu neuem Papier gemacht", t4_q_b: "Es wird vergraben", t4_q_c: "Es wird zu Glas", t4_q_d: "Es wird verbrannt",
+
+    t5_title: "Natur schützen!", t5_text: "Die Natur ist das Zuhause von Tieren und Pflanzen. Wirf niemals Müll auf die Straße oder in den Wald!",
+    t5_b1: "Müll ist gefährlich für Tiere.", t5_b2: "Suche immer einen Mülleimer.", t5_b3: "Wenn es keinen Mülleimer gibt, nimm den Müll mit nach Hause!",
+    t5_inst: "Ergänze den Satz!",
+    t5_gap_sentence: "Wenn wir im Wald spazieren gehen, werfen wir den Müll immer in den {gap}.",
+    t5_c51: "Mülleimer", t5_c52: "Busch", t5_c53: "Bach",
+    t5_q: "Was machst du mit dem Schokoladenpapier im Park?",
+    t5_q_a: "Ich suche einen Mülleimer und werfe es rein", t5_q_b: "Ich werfe es ins Gras", t5_q_c: "Ich lasse es auf der Bank", t5_q_d: "Ich stecke es in ein Baumloch",
   },
   ro: {
-    title: "Exploratorul reciclării",
-    r1Title: "Din ce material este?",
-    r1Hint: "Din ce este făcut acest obiect?",
-    r1Teach: "Lucrurile din jurul nostru sunt făcute din materiale diferite: hârtie (din copaci), plastic (fabricat), sticlă (din nisip), metal (din pământ) și deșeuri organice (din plante și mâncare). Fiecare material arată și se simte diferit!",
-    r2Title: "În ce coș?",
-    r2Hint: "În ce coș se aruncă acest obiect?",
-    r2Teach: "Sortăm deșeurile în coșuri colorate: 🟡 Coș galben = plastic și ambalaje, 🔵 Coș albastru = hârtie și carton, 🟤 Coș maro = resturi alimentare și de grădină, 🟢 Container sticlă = sticle și borcane, ⚫ Coș gri = restul.",
-    r3Title: "Reciclabil?",
-    r3Hint: "Se poate recicla acest obiect?",
-    r3Teach: "Reciclarea înseamnă a transforma lucruri vechi în lucruri noi! Hârtia, sticla, metalul și plasticul curat POT fi reciclate. Dar obiectele murdare, umbrelele rupte sau materialele amestecate de obicei NU. Clătește întotdeauna recipientele!",
-    r4Title: "Bun pentru natură?",
-    r4Hint: "Este acest comportament bun sau rău pentru natură?",
-    r4Teach: "Putem ajuta natura în fiecare zi! Economisirea apei, mersul cu bicicleta, plantarea copacilor și compostarea sunt BUNE pentru natură. Aruncarea gunoiului, risipa de electricitate și plasticul de unică folosință sunt RELE. Acțiunile mici contează!",
-    r5Title: "Recapitulare rapidă",
-    r5Hint: "Ce ai învățat?",
-    r5Teach: "Să vedem ce ți-ai amintit! Gândește-te la materiale, coșuri, reciclare și comportament prietenos cu natura.",
-    gotIt: "Am înțeles! →",
-    paper: "Hârtie",
-    plastic: "Plastic",
-    glass: "Sticlă",
-    metal: "Metal",
-    organic: "Organic",
-    other: "Altele",
-    yellowBin: "Coș galben",
-    blueBin: "Coș albastru",
-    brownBin: "Coș maro",
-    greenBin: "Container sticlă",
-    grayBin: "Coș gri",
-    yes: "Da, reciclabil",
-    no: "Nu este reciclabil",
-    good: "Bun pentru natură",
-    bad: "Rău pentru natură",
-    correct: "Corect!",
-    wrong: "Nu chiar — încearcă din nou!",
-    next: "Înainte",
-    finish: "Gata",
-    bottleWater: "Sticlă de apă din plastic",
-    newspaper: "Ziar",
-    bananaPeel: "Coajă de banană",
-    glassBottle: "Sticlă de sticlă",
-    tinCan: "Cutie de tablă",
-    cardboardBox: "Cutie de carton",
-    plasticBag: "Pungă de plastic",
-    coffeeCup: "Pahar de cafea de unică folosință",
-    apple: "Cotorul unui măr",
-    yogurtCup: "Pahar de iaurt",
-    aluminumFoil: "Folie de aluminiu",
-    brokenUmbrella: "Umbrelă stricată",
-    plantTree: "A planta un copac 🌳",
-    littering: "A arunca gunoi pe jos 🚮",
-    saveWater: "A închide robinetul la periaj 🚿",
-    longShower: "A face duș 30 de minute 🚿",
-    bikeRide: "A merge cu bicicleta în loc de mașină 🚲",
-    leaveLight: "A lăsa lumina aprinsă în camere goale 💡",
-    compost: "A composita resturile de mâncare 🌱",
-    singleUsePlastic: "A folosi pungi de plastic de unică folosință 🛍️",
-  },
-} as const;
+    explorer_title: "Materiale și Reciclare",
+    t1_title: "Din ce este făcut?", t1_text: "Obiectele din jurul nostru sunt făcute din materiale diferite: lemn, hârtie, plastic sau sticlă.",
+    t1_b1: "Din copaci facem lemn și hârtie.", t1_b2: "Jucăriile sunt adesea din plastic, pentru că nu se sparg ușor.", t1_b3: "Fereastra și paharul sunt din sticlă, care e transparentă, dar fragilă.",
+    t1_inst: "Potrivește materialul cu obiectul!",
+    t1_l1: "Lemn 🪵", t1_r1: "Scaun și masă",
+    t1_l2: "Hârtie 📄", t1_r2: "Carte și caiet",
+    t1_l3: "Plastic 🧴", t1_r3: "Mașinuță și lego",
+    t1_q: "Din ce este făcută o fereastră?",
+    t1_q_a: "Din sticlă", t1_q_b: "Din hârtie", t1_q_c: "Din lemn", t1_q_d: "Din bumbac",
 
-type Lang = keyof typeof LABELS;
-type T = typeof LABELS.en;
-type AnyLangT = typeof LABELS[Lang];
+    t2_title: "Sortăm gunoiul", t2_text: "Nu aruncăm totul într-un singur coș mare! Sortăm gunoiul ca să protejăm Pământul.",
+    t2_b1: "Hârtia merge la coșul de hârtie.", t2_b2: "Sticla de plastic merge la coșul de plastic.", t2_b3: "Asta se numește colectare selectivă.",
+    t2_inst: "Hârtie sau Plastic? Trage la coșul corect!",
+    t2_bucket_papir: "Coș de Hârtie 📦",
+    t2_bucket_muanyag: "Coș de Plastic 🧴",
+    t2_item_p1: "Ziar vechi", t2_item_p2: "Cutie de carton",
+    t2_item_m1: "Sticlă de apă goală", t2_item_m2: "Pahar de iaurt",
+    t2_q: "Unde trebuie să arunci cutia goală de cereale?",
+    t2_q_a: "La coșul de hârtie", t2_q_b: "În iarbă", t2_q_c: "La coșul de plastic", t2_q_d: "La coșul de sticlă",
 
-// ─── HELPERS ──────────────────────────────────────────────────────────────────
-function shuffle<X>(arr: X[]): X[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
+    t3_title: "Culorile coșurilor", t3_text: "Coșurile de reciclare au culori diferite, ca să știm ușor ce merge și unde.",
+    t3_b1: "Coșul ALBASTRU este pentru hârtie.", t3_b2: "Coșul GALBEN este pentru plastic și metal.", t3_b3: "Coșul VERDE este pentru sticlă.",
+    t3_inst: "Găsește ce înseamnă fiecare culoare!",
+    t3_area_blue: "Albastru (Hârtie)", t3_area_yellow: "Galben (Plastic)", t3_area_green: "Verde (Sticlă)",
+    t3_q: "În ce coș aruncăm o sticlă de plastic?",
+    t3_q_a: "Galben", t3_q_b: "Albastru", t3_q_c: "Roșu", t3_q_d: "Negru",
+
+    t4_title: "Din vechi facem nou!", t4_text: "Dacă aruncăm gunoiul în coșul corect, fabricile îl reciclează. Asta înseamnă că fac lucruri noi din gunoi vechi!",
+    t4_b1: "Hârtia veche devine caiete noi.", t4_b2: "Sticlele de plastic pot deveni un pulover călduros.", t4_b3: "Așa tăiem mai puțini copaci.",
+    t4_inst: "Care este ordinea? Cum devine sticla o jucărie nouă?",
+    t4_w1: "Beau sucul", t4_w2: "O arunc în coșul galben", t4_w3: "Mașina de gunoi o ia", t4_w4: "Devine o jucărie nouă",
+    t4_q: "Ce se întâmplă cu hârtia dacă o aruncăm în coșul albastru?",
+    t4_q_a: "Se face hârtie nouă din ea", t4_q_b: "Este îngropată în pământ", t4_q_c: "Se transformă în sticlă", t4_q_d: "Se dă foc",
+
+    t5_title: "Să protejăm natura!", t5_text: "Natura este casa animalelor și a plantelor. Nu arunca niciodată gunoi pe stradă sau în pădure!",
+    t5_b1: "Gunoiul este periculos pentru animale.", t5_b2: "Caută mereu un coș de gunoi.", t5_b3: "Dacă nu ai coș, ia-l acasă în buzunar sau ghiozdan!",
+    t5_inst: "Completează cuvântul!",
+    t5_gap_sentence: "Când ne plimbăm prin pădure, aruncăm mereu gunoiul la {gap}.",
+    t5_c51: "coșul de gunoi", t5_c52: "tufiș", t5_c53: "râu",
+    t5_q: "Ce faci cu ambalajul de ciocolată în parc?",
+    t5_q_a: "Găsesc un coș și îl arunc acolo", t5_q_b: "Îl arunc pe iarbă", t5_q_c: "Îl las pe bancă", t5_q_d: "Îl bag într-o scorbură",
   }
-  return a;
-}
-function pick<X>(arr: X[]): X {
-  return arr[Math.floor(Math.random() * arr.length)];
-}
-
-// ─── ITEM DATA (language-independent keys) ────────────────────────────────────
-type BinKey = "yellowBin" | "blueBin" | "brownBin" | "greenBin" | "grayBin";
-type MaterialKey = "paper" | "plastic" | "glass" | "metal" | "organic" | "other";
-
-interface Item {
-  key: keyof T;
-  emoji: string;
-  material: MaterialKey;
-  bin: BinKey;
-  recyclable: boolean;
-}
-
-const ALL_ITEMS: Item[] = [
-  { key: "bottleWater",      emoji: "🍶", material: "plastic",  bin: "yellowBin", recyclable: true  },
-  { key: "newspaper",        emoji: "📰", material: "paper",    bin: "blueBin",   recyclable: true  },
-  { key: "bananaPeel",       emoji: "🍌", material: "organic",  bin: "brownBin",  recyclable: false },
-  { key: "glassBottle",      emoji: "🍾", material: "glass",    bin: "greenBin",  recyclable: true  },
-  { key: "tinCan",           emoji: "🥫", material: "metal",    bin: "yellowBin", recyclable: true  },
-  { key: "cardboardBox",     emoji: "📦", material: "paper",    bin: "blueBin",   recyclable: true  },
-  { key: "plasticBag",       emoji: "🛍️", material: "plastic",  bin: "yellowBin", recyclable: true  },
-  { key: "coffeeCup",        emoji: "☕", material: "other",    bin: "grayBin",   recyclable: false },
-  { key: "apple",            emoji: "🍎", material: "organic",  bin: "brownBin",  recyclable: false },
-  { key: "yogurtCup",        emoji: "🥛", material: "plastic",  bin: "yellowBin", recyclable: true  },
-  { key: "aluminumFoil",     emoji: "✨", material: "metal",    bin: "yellowBin", recyclable: true  },
-  { key: "brokenUmbrella",   emoji: "☂️", material: "other",    bin: "grayBin",   recyclable: false },
-];
-
-type BehaviourGood = true | false;
-interface Behaviour {
-  key: keyof T;
-  good: BehaviourGood;
-}
-
-const ALL_BEHAVIOURS: Behaviour[] = [
-  { key: "plantTree",         good: true  },
-  { key: "littering",         good: false },
-  { key: "saveWater",         good: true  },
-  { key: "longShower",        good: false },
-  { key: "bikeRide",          good: true  },
-  { key: "leaveLight",        good: false },
-  { key: "compost",           good: true  },
-  { key: "singleUsePlastic",  good: false },
-];
-
-const ALL_MATERIALS: MaterialKey[] = ["paper", "plastic", "glass", "metal", "organic", "other"];
-const ALL_BINS: BinKey[]           = ["yellowBin", "blueBin", "brownBin", "greenBin", "grayBin"];
-
-const BIN_COLOR: Record<BinKey, string> = {
-  yellowBin: "#FFD700",
-  blueBin:   "#1E90FF",
-  brownBin:  "#8B4513",
-  greenBin:  "#228B22",
-  grayBin:   "#808080",
 };
 
-// ─── ROUND QUESTION TYPES ─────────────────────────────────────────────────────
-interface MaterialQ { item: Item; choices: MaterialKey[] }
-interface BinQ      { item: Item; choices: BinKey[]      }
-interface RecycleQ  { item: Item; choices: ["yes","no"]  }
-interface NatureQ   { behaviour: Behaviour; choices: ["good","bad"] }
-type AnyQ = MaterialQ | BinQ | RecycleQ | NatureQ;
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-function makeMaterialQ(item: Item): MaterialQ {
-  const correct = item.material;
-  const distractors = shuffle(ALL_MATERIALS.filter(m => m !== correct)).slice(0, 3);
-  return { item, choices: shuffle([correct, ...distractors]) as MaterialKey[] };
-}
-function makeBinQ(item: Item): BinQ {
-  const correct = item.bin;
-  const distractors = shuffle(ALL_BINS.filter(b => b !== correct)).slice(0, 3);
-  return { item, choices: shuffle([correct, ...distractors]) as BinKey[] };
-}
-function makeRecycleQ(item: Item): RecycleQ {
-  return { item, choices: ["yes", "no"] };
-}
-function makeNatureQ(behaviour: Behaviour): NatureQ {
-  return { behaviour, choices: ["good", "bad"] };
-}
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <MaterialsSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <WasteSeparationSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "papir", label: "t2_bucket_papir" },
+        { id: "muanyag", label: "t2_bucket_muanyag" },
+      ],
+      items: [
+        { text: "t2_item_p1", bucketId: "papir" },
+        { text: "t2_item_m1", bucketId: "muanyag" },
+        { text: "t2_item_p2", bucketId: "papir" },
+        { text: "t2_item_m2", bucketId: "muanyag" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <RecyclingBinsSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "blue",   x: 25, y: 50, label: "t3_area_blue" },
+        { id: "yellow", x: 50, y: 50, label: "t3_area_yellow" },
+        { id: "green",  x: 75, y: 50, label: "t3_area_green" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <WhyRecycleSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <ProtectNatureSvg lang={lang} />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b2",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─── SUB-PROGRESS DOTS ────────────────────────────────────────────────────────
-function SubDots({ total, current, color }: { total: number; current: number; color: string }) {
-  return (
-    <div className="flex gap-1.5 justify-center">
-      {Array.from({ length: total }, (_, i) => (
-        <div key={i} className="w-2 h-2 rounded-full transition-colors"
-          style={{ background: i < current ? color : "rgba(255,255,255,0.2)" }} />
-      ))}
-    </div>
-  );
-}
+// ─── DEF ────────────────────────────────────────────────────────────
 
-// ─── MCQ BUTTON ───────────────────────────────────────────────────────────────
-function MCQBtn({
-  label, chosen, correct, locked, onPress,
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "♻️",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const RecyclingExplorer = memo(function RecyclingExplorer({
+  color = "#10B981", // Emerald-500 a környezetvédelemhez
+  onDone,
+  lang = "hu",
 }: {
-  label: string;
-  chosen: boolean;
-  correct: boolean;
-  locked: boolean;
-  onPress: () => void;
-}) {
-  let bg = "rgba(255,255,255,0.06)";
-  let border = "rgba(255,255,255,0.15)";
-  if (chosen && correct)  { bg = "#00FF8822"; border = "#00FF88"; }
-  if (chosen && !correct) { bg = "#FF2D7822"; border = "#FF2D78"; }
-  if (locked && !chosen && correct) { bg = "#00FF8811"; border = "#00FF8866"; }
-
-  return (
-    <motion.button
-      onClick={locked ? undefined : onPress}
-      disabled={locked}
-      className="py-3 px-4 rounded-xl font-bold text-sm text-white text-left transition-colors w-full"
-      style={{ background: bg, border: `2px solid ${border}` }}
-      whileTap={locked ? {} : { scale: 0.97 }}
-    >
-      {label}
-    </motion.button>
-  );
-}
-
-// ─── FEEDBACK LINE ────────────────────────────────────────────────────────────
-function Feedback({ correct, lbl }: { correct: boolean | null; lbl: (k: string) => string }) {
-  if (correct === null) return <div className="h-5" />;
-  return (
-    <div className="flex items-center gap-1.5 justify-center h-5">
-      {correct
-        ? <><CheckCircle2 size={14} className="text-[#00FF88]" /><span className="text-[#00FF88] text-xs font-bold">{lbl("correct")}</span></>
-        : <><XCircle      size={14} className="text-[#FF2D78]" /><span className="text-[#FF2D78] text-xs font-bold">{lbl("wrong")}</span></>
-      }
-    </div>
-  );
-}
-
-// ─── ROUND COMPONENT ─────────────────────────────────────────────────────────
-interface RoundProps {
-  color: string;
-  t: AnyLangT;
-  lang: string;
-  questions: AnyQ[];
-  onRoundDone: (score: number, total: number) => void;
-  titleKey: string;
-  hintKey: string;
-  teachKey: string;
-  speak: (text: string) => void;
-}
-
-function Round({ color, t, lang, questions, onRoundDone, titleKey, hintKey, teachKey, speak }: RoundProps) {
-  // lbl: safe string lookup that works for all language union members
-  const lbl = (key: string): string => (t as Record<string, string>)[key] ?? key;
-
-  const [showTeach, setShowTeach] = useState(true);
-  const [qIdx, setQIdx]     = useState(0);
-  const [chosen, setChosen] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const roundScore           = useRef(0);
-
-  const q = questions[qIdx];
-
-  const handleAnswer = useCallback((key: string, isCorrect: boolean, correctAns?: string) => {
-    if (locked) return;
-    setChosen(key);
-    setLocked(true);
-    if (isCorrect) roundScore.current++;
-    else fireWrongAnswer({ question: lbl(hintKey), wrongAnswer: lbl(key), correctAnswer: correctAns ? lbl(correctAns) : "", topic: "Recycling Explorer", lang });
-  }, [locked, hintKey, lbl, lang]);
-
-  const handleNext = useCallback(() => {
-    if (!locked) return;
-    if (qIdx >= questions.length - 1) {
-      onRoundDone(roundScore.current, questions.length);
-    } else {
-      setQIdx(i => i + 1);
-      setChosen(null);
-      setLocked(false);
-    }
-  }, [locked, qIdx, questions.length, onRoundDone]);
-
-  type QKind = "material" | "bin" | "recycle" | "nature";
-  function kindOf(qq: AnyQ): QKind {
-    if ("behaviour" in qq) return "nature";
-    const r = qq as RecycleQ;
-    if (r.choices[0] === "yes" || r.choices[0] === "no") return "recycle";
-    if ("bin" in (qq as BinQ)) return "bin";
-    return "material";
-  }
-  const kind = kindOf(q);
-
-  let correctKey: string;
-  if (kind === "nature")        correctKey = (q as NatureQ).behaviour.good ? "good" : "bad";
-  else if (kind === "recycle")  correctKey = (q as RecycleQ).item.recyclable ? "yes" : "no";
-  else if (kind === "bin")      correctKey = (q as BinQ).item.bin;
-  else                          correctKey = (q as MaterialQ).item.material;
-
-  const feedbackCorrect = chosen === null ? null : chosen === correctKey;
-
-  function renderChoices() {
-    if (kind === "nature") {
-      const nq = q as NatureQ;
-      return nq.choices.map(ch => (
-        <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
-      ));
-    }
-    if (kind === "recycle") {
-      const rq = q as RecycleQ;
-      return rq.choices.map(ch => (
-        <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-          locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
-      ));
-    }
-    if (kind === "bin") {
-      const bq = q as BinQ;
-      return bq.choices.map(ch => (
-        <div key={ch} className="flex items-center gap-2 w-full">
-          <div className="w-3 h-3 rounded-full flex-shrink-0" style={{ background: BIN_COLOR[ch] }} />
-          <MCQBtn label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-            locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
-        </div>
-      ));
-    }
-    // material
-    const mq = q as MaterialQ;
-    return mq.choices.map(ch => (
-      <MCQBtn key={ch} label={lbl(ch)} chosen={chosen === ch} correct={ch === correctKey}
-        locked={locked} onPress={() => handleAnswer(ch, ch === correctKey, correctKey)} />
-    ));
-  }
-
-  function renderSubject() {
-    if (kind === "nature") {
-      const nq = q as NatureQ;
-      return (
-        <div className="bg-white/[0.07] border border-white/10 rounded-2xl px-5 py-4 text-center w-full">
-          <p className="text-base font-bold text-white leading-snug">{lbl(nq.behaviour.key)}</p>
-        </div>
-      );
-    }
-    const item = (q as MaterialQ | BinQ | RecycleQ).item;
-    return (
-      <div className="flex flex-col items-center gap-1">
-        <span className="text-5xl">{item.emoji}</span>
-        <span className="text-sm font-bold text-white/70">{lbl(item.key)}</span>
-      </div>
-    );
-  }
-
-  // ── Teaching phase ──
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <div className="flex items-center gap-2 justify-center">
-          <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
-          <button onClick={() => speak(lbl(titleKey) + ". " + lbl(teachKey))}
-            className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-            <Volume2 size={16} />
-          </button>
-        </div>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl(teachKey)}</p>
-        </div>
-        <motion.button
-          onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}
-        >
-          {lbl("gotIt")} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-
-  // ── Quiz phase ──
-  return (
-    <div className="flex flex-col items-center gap-3 w-full">
-      <div className="flex items-center gap-2 justify-center">
-        <p className="text-xl font-black text-white text-center">{lbl(titleKey)}</p>
-        <button onClick={() => speak(lbl(titleKey) + ". " + lbl(hintKey))}
-          className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-          <Volume2 size={16} />
-        </button>
-      </div>
-      <p className="text-white/60 text-xs font-semibold text-center">{lbl(hintKey)}</p>
-      <SubDots total={questions.length} current={qIdx + (locked ? 1 : 0)} color={color} />
-
-      {renderSubject()}
-
-      <div className="flex flex-col gap-2 w-full">
-        {renderChoices()}
-      </div>
-
-      <Feedback correct={feedbackCorrect} lbl={lbl} />
-
-      <AnimatePresence>
-        {locked && (
-          <motion.button
-            key="next"
-            initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-            onClick={handleNext}
-            className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-            style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-            whileTap={{ scale: 0.97 }}
-          >
-            {qIdx >= questions.length - 1
-              ? <><CheckCircle2 size={15} /> {lbl("finish")}</>
-              : <>{lbl("next")} <ChevronRight size={15} /></>
-            }
-          </motion.button>
-        )}
-      </AnimatePresence>
-    </div>
-  );
-}
-
-// ─── MAIN COMPONENT ───────────────────────────────────────────────────────────
-interface Props {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
-
-const TOTAL_ROUNDS = 5;
-
-function RecyclingExplorer({ color, lang = "en", onDone, onClose }: Props) {
-  const l = (lang in LABELS ? lang : "en") as Lang;
-  const t = LABELS[l];
-
-  const scoreRef = useRef(0);
-  const totalRef = useRef(0);
-  const [round, setRound] = useState(0);
-  const [roundKey, setRoundKey] = useState(0); // forces remount on advance
-
-  const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
-  }, [lang]);
-
-  // Randomised question pools — stable per mount
-  const r1Questions = useMemo<MaterialQ[]>(() => {
-    const pool = shuffle(ALL_ITEMS).slice(0, 4);
-    return pool.map(makeMaterialQ);
-  }, []);
-
-  const r2Questions = useMemo<BinQ[]>(() => {
-    const pool = shuffle(ALL_ITEMS).slice(0, 4);
-    return pool.map(makeBinQ);
-  }, []);
-
-  const r3Questions = useMemo<RecycleQ[]>(() => {
-    // Ensure mix of recyclable and not
-    const recyclable    = shuffle(ALL_ITEMS.filter(i => i.recyclable)).slice(0, 2);
-    const notRecyclable = shuffle(ALL_ITEMS.filter(i => !i.recyclable)).slice(0, 2);
-    return shuffle([...recyclable, ...notRecyclable]).map(makeRecycleQ);
-  }, []);
-
-  const r4Questions = useMemo<NatureQ[]>(() => {
-    const good = shuffle(ALL_BEHAVIOURS.filter(b => b.good)).slice(0, 2);
-    const bad  = shuffle(ALL_BEHAVIOURS.filter(b => !b.good)).slice(0, 2);
-    return shuffle([...good, ...bad]).map(makeNatureQ);
-  }, []);
-
-  const r5Questions = useMemo<AnyQ[]>(() => {
-    // Mixed: 1 material, 1 bin, 1 recycle, 1 nature — all different items from above
-    const mItem = pick(ALL_ITEMS);
-    const bItem = pick(ALL_ITEMS.filter(i => i.key !== mItem.key));
-    const rItem = pick(ALL_ITEMS.filter(i => i.key !== mItem.key && i.key !== bItem.key));
-    const nBeh  = pick(ALL_BEHAVIOURS);
-    return shuffle<AnyQ>([
-      makeMaterialQ(mItem),
-      makeBinQ(bItem),
-      makeRecycleQ(rItem),
-      makeNatureQ(nBeh),
-    ]);
-  }, []);
-
-  const roundData: Array<{ questions: AnyQ[]; titleKey: string; hintKey: string; teachKey: string }> = [
-    { questions: r1Questions, titleKey: "r1Title", hintKey: "r1Hint", teachKey: "r1Teach" },
-    { questions: r2Questions, titleKey: "r2Title", hintKey: "r2Hint", teachKey: "r2Teach" },
-    { questions: r3Questions, titleKey: "r3Title", hintKey: "r3Hint", teachKey: "r3Teach" },
-    { questions: r4Questions, titleKey: "r4Title", hintKey: "r4Hint", teachKey: "r4Teach" },
-    { questions: r5Questions, titleKey: "r5Title", hintKey: "r5Hint", teachKey: "r5Teach" },
-  ];
-
-  const handleRoundDone = useCallback((score: number, total: number) => {
-    scoreRef.current += score;
-    totalRef.current += total;
-    if (round >= TOTAL_ROUNDS - 1) {
-      onDone(scoreRef.current, totalRef.current);
-    } else {
-      setRound(r => r + 1);
-      setRoundKey(k => k + 1);
-    }
-  }, [round, onDone]);
-
-  const current = roundData[round];
-
+}) {
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-      {/* Round progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-2 flex-shrink-0">
-        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-          <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"
-            style={{
-              background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)",
-            }} />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={roundKey}
-          initial={{ opacity: 0, x: 30 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -30 }}
-          transition={{ duration: 0.22 }}
-          className="flex-1 flex flex-col items-center justify-start px-4 pb-8 pt-2 gap-4 overflow-auto"
-        >
-          <Round
-            key={roundKey}
-            color={color}
-            t={t}
-            lang={lang}
-            questions={current.questions}
-            onRoundDone={handleRoundDone}
-            titleKey={current.titleKey}
-            hintKey={current.hintKey}
-            teachKey={current.teachKey}
-            speak={speak}
-          />
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_recycling" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-export default memo(RecyclingExplorer);
+export default RecyclingExplorer;
