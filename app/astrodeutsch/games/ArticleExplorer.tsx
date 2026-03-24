@@ -147,7 +147,7 @@ const MISSING_LETTER_POOL: { partial: string; answer: string; full: string }[] =
   { partial: "Ba_l", answer: "l", full: "Ball" },
   { partial: "_ind", answer: "K", full: "Kind" },
   { partial: "Blu_e", answer: "m", full: "Blume" },
-  { partial: "Schule_", answer: "?", full: "Schule" },
+  { partial: "Vo_el", answer: "g", full: "Vogel" },
   { partial: "B_um", answer: "a", full: "Baum" },
 ];
 
@@ -157,7 +157,7 @@ const COMPOUND_WORDS_POOL: { part1: string; part2: string; result: string }[] = 
   { part1: "Apfel", part2: "Baum", result: "Apfelbaum" },
   { part1: "Fuß", part2: "Ball", result: "Fußball" },
   { part1: "Nacht", part2: "Tisch", result: "Nachttisch" },
-  { part1: "Schule", part2: "Heft", result: "Schuleheft" },
+  { part1: "Schul", part2: "Heft", result: "Schulheft" },
 ];
 
 // Round 5: article quiz (expanded pool)

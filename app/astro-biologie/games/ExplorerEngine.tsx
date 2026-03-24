@@ -12,6 +12,17 @@ import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
 import { getUsername } from "@/lib/username";
 import BlockDrag from "@/components/interactive/BlockDrag";
 import NumberLineTap from "@/components/interactive/NumberLineTap";
+import BalanceScale from "@/components/interactive/BalanceScale";
+import CoordinatePicker from "@/components/interactive/CoordinatePicker";
+import RatioSlider from "@/components/interactive/RatioSlider";
+import EquationSolver from "@/components/interactive/EquationSolver";
+import GraphPlotter from "@/components/interactive/GraphPlotter";
+import WordOrder from "@/components/interactive/WordOrder";
+import GapFill from "@/components/interactive/GapFill";
+import DragToBucket from "@/components/interactive/DragToBucket";
+import SentenceBuild from "@/components/interactive/SentenceBuild";
+import MatchPairsInteractive from "@/components/interactive/MatchPairs";
+import HighlightText from "@/components/interactive/HighlightText";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -155,6 +166,110 @@ export type TopicInteractive =
       instruction: string;  // label key
       hint1: string;        // label key
       hint2: string;        // label key
+    }
+  | {
+      type: "balance-scale";
+      leftWeight: number;
+      rightInitial: number;
+      unitIcon?: string;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "coordinate-picker";
+      targetX: number;
+      targetY: number;
+      range?: number;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "ratio-slider";
+      baseValue: number;
+      basePrice: number;
+      targetValue: number;
+      targetPrice: number;
+      unitName?: string;
+      currency?: string;
+      tolerance?: number;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "equation-solver";
+      equation: string;         // initial equation, e.g. "2x + 3 = 11"
+      steps: { instruction: string; choices: number[]; answer: number; equation: string }[];
+      finalAnswer: number;
+      variable?: string;        // default "x"
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "graph-plotter";
+      points: { x: number; y: number }[];
+      targetX: number;
+      targetY: number;
+      xMin?: number;
+      xMax?: number;
+      yMin?: number;
+      yMax?: number;
+      xLabel?: string;
+      yLabel?: string;
+      chartType?: "line" | "bar" | "scatter";
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "word-order";
+      words: string[];          // label keys for words (will be resolved via L())
+      correctOrder: number[];   // correct index order
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "gap-fill";
+      sentence: string;         // label key — sentence with "___" placeholder
+      choices: string[];        // label keys for 4 options
+      correctIndex: number;     // index of correct choice
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "drag-to-bucket";
+      buckets: { id: string; label: string }[];  // label keys for bucket names
+      items: { text: string; bucketId: string }[]; // label keys for item text + correct bucket id
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "sentence-build";
+      fragments: string[];      // label keys for fragments in CORRECT order
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "match-pairs";
+      pairs: { left: string; right: string }[];  // label keys
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "highlight-text";
+      tokens: string[];          // label keys for sentence tokens
+      correctIndices: number[];  // indices of correct tokens to highlight
+      instruction: string;
+      hint1: string;
+      hint2: string;
     };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -214,6 +329,7 @@ function incrementPlayCount(id: string): void {
 function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
+  const tDe = def.labels.de;
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
@@ -442,7 +558,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   );
 
   // Label lookup helper
-  const L = (key: string) => t[key] || key;
+  const L = (key: string) => t[key] || (tDe && tDe[key]) || key;
 
   // TTS speak helper — tries to pick the best available voice
   const speak = useCallback((text: string) => {
@@ -974,6 +1090,176 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           step={inter.step}
                           showJumps={inter.showJumps}
                           jumpCount={inter.jumpCount}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "balance-scale") {
+                      return (
+                        <BalanceScale
+                          leftWeight={inter.leftWeight}
+                          rightInitial={inter.rightInitial}
+                          unitIcon={inter.unitIcon}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "coordinate-picker") {
+                      return (
+                        <CoordinatePicker
+                          targetX={inter.targetX}
+                          targetY={inter.targetY}
+                          range={inter.range}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "ratio-slider") {
+                      return (
+                        <RatioSlider
+                          baseValue={inter.baseValue}
+                          basePrice={inter.basePrice}
+                          targetValue={inter.targetValue}
+                          targetPrice={inter.targetPrice}
+                          unitName={inter.unitName}
+                          currency={inter.currency}
+                          tolerance={inter.tolerance}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "equation-solver") {
+                      return (
+                        <EquationSolver
+                          equation={inter.equation}
+                          steps={inter.steps.map(s => ({ ...s, instruction: L(s.instruction) }))}
+                          finalAnswer={inter.finalAnswer}
+                          variable={inter.variable}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "graph-plotter") {
+                      return (
+                        <GraphPlotter
+                          points={inter.points}
+                          targetX={inter.targetX}
+                          targetY={inter.targetY}
+                          xMin={inter.xMin}
+                          xMax={inter.xMax}
+                          yMin={inter.yMin}
+                          yMax={inter.yMax}
+                          xLabel={inter.xLabel}
+                          yLabel={inter.yLabel}
+                          chartType={inter.chartType}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "word-order") {
+                      return (
+                        <WordOrder
+                          words={inter.words.map(w => L(w))}
+                          correctOrder={inter.correctOrder}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "gap-fill") {
+                      return (
+                        <GapFill
+                          sentence={L(inter.sentence)}
+                          choices={inter.choices.map(c => L(c))}
+                          correctIndex={inter.correctIndex}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "drag-to-bucket") {
+                      return (
+                        <DragToBucket
+                          buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
+                          items={inter.items.map(i => ({ text: L(i.text), bucketId: i.bucketId }))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "sentence-build") {
+                      return (
+                        <SentenceBuild
+                          fragments={inter.fragments.map(f => L(f))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "match-pairs") {
+                      return (
+                        <MatchPairsInteractive
+                          pairs={inter.pairs.map(p => ({ left: L(p.left), right: L(p.right) }))}
+                          color={color}
+                          instruction={L(inter.instruction)}
+                          hint1={L(inter.hint1)}
+                          hint2={L(inter.hint2)}
+                          lang={langCode}
+                          onDone={handleTopicInteractiveDone}
+                        />
+                      );
+                    }
+                    if (inter.type === "highlight-text") {
+                      return (
+                        <HighlightText
+                          tokens={inter.tokens.map(t => L(t))}
+                          correctIndices={inter.correctIndices}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}

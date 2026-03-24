@@ -28,15 +28,15 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
-import AlgebraExplorer from "@/app/astromath/games/AlgebraExplorer";
-import StatExplorer from "@/app/astromath/games/StatExplorer";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
-import PowerExplorer from "@/app/astromath/games/PowerExplorer";
-import EquationExplorer from "@/app/astromath/games/EquationExplorer";
-import InequalityExplorer from "@/app/astromath/games/InequalityExplorer";
-import TriangleExplorer from "@/app/astromath/games/TriangleExplorer";
-import PythagorasExplorer from "@/app/astromath/games/PythagorasExplorer";
-import CircleExplorer from "@/app/astromath/games/CircleExplorer";
+import PowerExplorer7 from "@/app/astromath/games/PowerExplorer7";
+import AlgebraExplorer7 from "@/app/astromath/games/AlgebraExplorer7";
+import EquationExplorer7 from "@/app/astromath/games/EquationExplorer7";
+import InequalityExplorer7 from "@/app/astromath/games/InequalityExplorer7";
+import TriangleExplorer7 from "@/app/astromath/games/TriangleExplorer7";
+import PythagorasExplorer7 from "@/app/astromath/games/PythagorasExplorer7";
+import CircleExplorer7 from "@/app/astromath/games/CircleExplorer7";
+import StatExplorer7 from "@/app/astromath/games/StatExplorer7";
 import VisualChallenge from "@/app/astromath/games/VisualChallenge";
 import PythagoreanVisual from "@/components/grade7-visual/PythagoreanVisual";
 import CylinderVolume from "@/components/grade7-visual/CylinderVolume";
@@ -832,31 +832,31 @@ export default function AstroMathG7Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "algebra-explorer" && (
-          <AlgebraExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
+          <AlgebraExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "stat-explorer" && (
-          <StatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <StatExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "power-explorer" && (
-          <PowerExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PowerExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "equation-explorer" && (
-          <EquationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <EquationExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "inequality-explorer" && (
-          <InequalityExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <InequalityExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "triangle-explorer" && (
-          <TriangleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <TriangleExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "pythagoras-explorer" && (
-          <PythagorasExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PythagorasExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "circle-explorer" && (
-          <CircleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <CircleExplorer7 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "visual-challenge" && activeMission?.visualType === "pythagorean" && (
           <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}

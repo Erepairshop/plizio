@@ -350,74 +350,71 @@ const EXPLORER_DEF: ExplorerDef = {
   topics: [
     // ─ Topic 1: Addition Story ─
     {
-      id: "addition_story",
       infoTitle: "t1_title",
       infoText: "t1_teach",
       svg: (lang) => <AdditionStorySvg lang={lang} />,
       bulletKeys: ["t1_bullet_1", "t1_bullet_2", "t1_bullet_3"],
       interactive: {
+        type: "block-drag",
         mode: "combine",
-        blocks: [
-          { label: "t1_h1", value: "3" },
-          { label: "t1_h2", value: "2" },
-        ],
-        instructionKey: "t1_inst",
+        groups: [3, 2],
+        answer: 5,
+        blockIcon: "🔢",
+        instruction: "t1_inst",
+        hint1: "t1_h1",
+        hint2: "t1_h2",
       },
-      quiz: [
-        {
-          question: "story_q1",
-          choices: ["story_a1", "7 books", "9 books", "10 books"],
-          answer: "story_a1",
-        },
-      ],
+      quiz: {
+        question: "story_q1",
+        choices: ["story_a1", "7 books", "9 books", "10 books"],
+        answer: "story_a1",
+      },
     },
 
     // ─ Topic 2: Subtraction Story ─
     {
-      id: "subtraction_story",
       infoTitle: "t2_title",
       infoText: "t2_teach",
       svg: (lang) => <SubtractionStorySvg lang={lang} />,
       bulletKeys: ["t2_bullet_1", "t2_bullet_2", "t2_bullet_3"],
       interactive: {
+        type: "block-drag",
         mode: "combine",
-        blocks: [
-          { label: "t2_h1", value: "7" },
-          { label: "t2_h2", value: "3" },
-        ],
-        instructionKey: "t2_inst",
+        groups: [7, 3],
+        answer: 4,
+        blockIcon: "🔢",
+        instruction: "t2_inst",
+        hint1: "t2_h1",
+        hint2: "t2_h2",
       },
-      quiz: [
-        {
-          question: "story_q2",
-          choices: ["6 cookies", "story_a2", "10 cookies", "12 cookies"],
-          answer: "story_a2",
-        },
-      ],
+      quiz: {
+        question: "story_q2",
+        choices: ["6 cookies", "story_a2", "10 cookies", "12 cookies"],
+        answer: "story_a2",
+      },
     },
 
     // ─ Topic 3: Multiplication Story ─
     {
-      id: "multiplication_story",
       infoTitle: "t3_title",
       infoText: "t3_teach",
       svg: (lang) => <MultiplicationStorySvg lang={lang} />,
       bulletKeys: ["t3_bullet_1", "t3_bullet_2", "t3_bullet_3"],
       interactive: {
+        type: "block-drag",
         mode: "combine",
-        blocks: [
-          { label: "t3_h1", value: "4" },
-          { label: "t3_h2", value: "3" },
-        ],
-        instructionKey: "t3_inst",
+        groups: [4, 3],
+        answer: 12,
+        blockIcon: "🔢",
+        instruction: "t3_inst",
+        hint1: "t3_h1",
+        hint2: "t3_h2",
       },
-      quiz: [
-        {
-          question: "story_q3",
-          choices: ["10 apples", "story_a3", "14 apples", "16 apples"],
-          answer: "story_a3",
-        },
-      ],
+      quiz: {
+        question: "story_q3",
+        choices: ["10 apples", "story_a3", "14 apples", "16 apples"],
+        answer: "story_a3",
+      },
     },
   ],
 };

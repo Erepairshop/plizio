@@ -1,351 +1,330 @@
 "use client";
+// MultiplicationExplorer4 — Multiplication concepts for Grade 4 (island i2)
+
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-const ArrayModelSvg = memo(function ArrayModelSvg({ rows = 4, cols = 6 }: { rows?: number; cols?: number }) {
-  return (
-    <svg width="100%" viewBox="0 0 240 160">
-      <defs>
-        <linearGradient id="arrG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FFB3B3" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#arrG)" rx="16" />
-      <g transform="translate(60, 40)">
-        {Array.from({ length: rows }, (_, r) =>
-          Array.from({ length: cols }, (_, c) => (
-            <circle key={`${r}-${c}`} cx={c * 12} cy={r * 12} r="4" fill="#FF6B6B" opacity="0.8" />
-          ))
-        )}
-      </g>
-      <text x="120" y="130" fontSize="14" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {rows} × {cols} = {rows * cols}
-      </text>
-      <text x="120" y="150" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        ({rows} × {cols} = {rows * cols})
-      </text>
-    </svg>
-  );
-});
+// ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const SkipCountingSvg = memo(function SkipCountingSvg({ start = 5, count = 8, lang = "en" }: { start?: number; count?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const sequence = Array.from({ length: count + 1 }, (_, i) => start * i);
+const Topic1Svg = memo(function Topic1Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="skipG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4ECDC4" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#7FE3DE" stopOpacity="0.04" />
+        <linearGradient id="mulGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FB7185" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="140" fill="url(#skipG)" rx="16" />
-      <text x="120" y="25" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {t.skip_count_by} {start}:
-      </text>
-      <g transform="translate(20, 50)">
-        {sequence.map((num, i) => (
-          <g key={i} transform={`translate(${i * 28}, 0)`}>
-            <circle cx="8" cy="15" r="8" fill="#4ECDC4" opacity="0.6" />
-            <text x="8" y="19" fontSize="10" fontWeight="bold" fill="white" textAnchor="middle">
-              {num}
-            </text>
-            {i < sequence.length - 1 && (
-              <text x="18" y="18" fontSize="10" fill="rgba(255,255,255,0.5)">
-                →
-              </text>
-            )}
-          </g>
-        ))}
-      </g>
-      <text x="120" y="125" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {t.total}: {sequence[sequence.length - 1]}
-      </text>
+      <rect width="240" height="140" fill="url(#mulGrad1)" rx="16" />
+      {/* 3 groups of 4 dots */}
+      {[0, 1, 2].map((g) => (
+        <g key={g} transform={`translate(${60 + g * 60}, 70)`}>
+          <circle r="25" fill="none" stroke="#F59E0B" strokeWidth="2" strokeDasharray="4 2" opacity="0.4" />
+          <circle cx="-8" cy="-8" r="5" fill="#F59E0B" />
+          <circle cx="8" cy="-8" r="5" fill="#F59E0B" />
+          <circle cx="-8" cy="8" r="5" fill="#F59E0B" />
+          <circle cx="8" cy="8" r="5" fill="#F59E0B" />
+        </g>
+      ))}
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">3 × 4 = 12</text>
     </svg>
   );
 });
 
-const NumberLineJumpsSvg = memo(function NumberLineJumpsSvg({ groups = 7, size = 4, lang = "en" }: { groups?: number; size?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const max = groups * size;
-  const jumps = Array.from({ length: groups + 1 }, (_, i) => (i * size * 200) / max);
+const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 120">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="nlG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FFE66D" stopOpacity="0.04" />
+        <linearGradient id="mulGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#3B82F6" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="120" fill="url(#nlG)" rx="16" />
-      <line x1="20" y1="50" x2="220" y2="50" stroke="rgba(255,255,255,0.3)" strokeWidth="2" />
-      {[0, size, size * 2, size * 3, size * 4, size * 5, size * 6, max].filter(v => v <= max).map((val) => {
-        const x = 20 + (val / max) * 200;
-        return (
-          <g key={val}>
-            <line x1={x} y1="45" x2={x} y2="55" stroke="rgba(255,255,255,0.5)" strokeWidth="2" />
-            <text x={x} y="75" fontSize="10" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-              {val}
-            </text>
-          </g>
-        );
-      })}
-      {jumps.map((x, i) => (
-        <g key={i}>
-          <circle cx={20 + x} cy="50" r="5" fill="#FFD700" opacity="0.7" />
-          {i < jumps.length - 1 && (
-            <path d={`M ${20 + x + 5} 48 Q ${20 + (x + jumps[i + 1]) / 2} 30 ${20 + jumps[i + 1] - 5} 48`} stroke="#FFD700" strokeWidth="2" fill="none" opacity="0.5" />
-          )}
-        </g>
-      ))}
-      <text x="120" y="110" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {groups} {t.jumps_of} {size} = {max}
-      </text>
+      <rect width="240" height="140" fill="url(#mulGrad2)" rx="16" />
+      {/* Area model / Grid */}
+      <g transform="translate(85, 35)">
+        {Array.from({ length: 5 }).map((_, r) => 
+          Array.from({ length: 7 }).map((_, c) => (
+            <rect key={`${r}-${c}`} x={c * 10} y={r * 10} width="8" height="8" fill="#10B981" rx="1" opacity={0.6} />
+          ))
+        )}
+        <text x="-15" y="30" fontSize="12" fill="#059669" fontWeight="bold">5</text>
+        <text x="35" y="-10" fontSize="12" fill="#059669" fontWeight="bold">7</text>
+      </g>
     </svg>
   );
 });
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="mulGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#8B5CF6" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#mulGrad3)" rx="16" />
+      {/* 10x logic visual */}
+      <g transform="translate(120, 70)">
+        <text x="-50" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">42</text>
+        <text x="0" y="5" fontSize="20" fontWeight="300" fill="#9CA3AF" textAnchor="middle">×</text>
+        <text x="35" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">10</text>
+        <path d="M 60,0 L 80,0 L 75,-5 M 80,0 L 75,5" stroke="#DB2777" fill="none" strokeWidth="2" />
+        <text x="105" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">420</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Multiplication Explorer",
-    skip_count_by: "Skip count by",
-    total: "Total",
-    jumps_of: "jumps of",
-    t1_title: "Arrays and Multiplication",
-    t1_text: "An array is a group of objects arranged in rows and columns. When we count all the objects in an array, we multiply rows × columns. For example, 4 rows × 6 columns = 24 objects.",
-    t1_b1: "Each row has the same number of objects",
-    t1_b2: "Multiply rows by columns to find the total",
-    t1_b3: "Arrays help us visualize multiplication",
-    t1_inst: "Build an array by dragging blocks. Drag rows × columns blocks to create a multiplication array.",
-    t1_h1: "How many rows?",
-    t1_h2: "How many columns?",
-    t1_q: "How many objects are in a 5 × 8 array?",
-    t1_q_40: "40",
-    t1_q_45: "45",
-    t1_q_48: "48",
-    t1_q_50: "50",
-    t2_title: "Skip Counting",
-    t2_text: "Skip counting is counting by a number over and over. To find 6 × 7, count by 6's seven times: 6, 12, 18, 24, 30, 36, 42. So 6 × 7 = 42.",
-    t2_b1: "Skip counting helps build times tables",
-    t2_b2: "Count by the first number as many times as the second",
-    t2_b3: "The last number you reach is your answer",
-    t2_inst: "Build a skip counting sequence by dragging the groups and count.",
-    t2_h1: "How many groups?",
-    t2_h2: "Skip count by what number?",
-    t2_q: "What is 8 × 6 using skip counting?",
-    t2_q_42: "42",
-    t2_q_48: "48",
-    t2_q_54: "54",
-    t2_q_56: "56",
-    t3_title: "Number Line Jumps",
-    t3_text: "On a number line, multiply by making equal jumps. To find 9 × 5, make 9 jumps of size 5. Each jump lands on 5, 10, 15... up to 45. So 9 × 5 = 45.",
-    t3_b1: "Each jump is the same size",
-    t3_b2: "Count the number of jumps and size of each jump",
-    t3_b3: "Where you land is the answer",
-    t3_inst: "Build number line jumps by dragging. Create jumps of equal size to see multiplication.",
-    t3_h1: "How many jumps?",
-    t3_h2: "What is the jump size?",
-    t3_q: "How many jumps of 7 reach 56?",
-    t3_q_7: "7",
-    t3_q_8: "8",
-    t3_q_9: "9",
-    t3_q_10: "10",
+    t1_title: "Repeated Addition",
+    t1_text: "Multiplication is a shortcut for adding the same number many times. If you have 3 groups of 4, you have 12 in total!",
+    t1_b1: "The numbers multiplied are factors",
+    t1_b2: "The result is called the product",
+    t1_b3: "Order doesn't change the result",
+    t1_inst: "Combine blocks to show 4 groups of 5 (Total: 20)!",
+    t1_h1: "Each block is worth 5 units.",
+    t1_h2: "You need 4 such blocks to reach 20.",
+    t1_q: "What is 6 × 3 equivalent to?",
+    t1_q_a: "6 + 6",
+    t1_q_b: "3 + 3 + 3 + 3 + 3 + 3",
+    t1_q_c: "6 + 3",
+    t1_q_d: "3 × 3",
+    t2_title: "The Area Model",
+    t2_text: "You can imagine multiplication as a rectangle. A 5 by 7 grid contains 35 small squares in total.",
+    t2_b1: "Rows × Columns = Total area",
+    t2_b2: "Great for visualizing larger products",
+    t2_b3: "Length times width equals the product",
+    t2_inst: "Find 24 on the number line by jumping in steps of 6!",
+    t2_h1: "Start at 0 and jump 4 times by 6.",
+    t2_h2: "6, 12, 18... what is the next step?",
+    t2_q: "If a grid has 4 rows and 8 columns, how many squares are there?",
+    t2_q_a: "12",
+    t2_q_b: "32",
+    t2_q_c: "28",
+    t2_q_d: "40",
+    t3_title: "Multiplying by 10 and 100",
+    t3_text: "When you multiply a whole number by 10, every digit moves one place to the left, and a zero fills the ones place.",
+    t3_b1: "× 10: add one zero at the end",
+    t3_b2: "× 100: add two zeros at the end",
+    t3_b3: "The value becomes 10 times larger",
+    t3_inst: "Use 100-value blocks to create 500!",
+    t3_h1: "Each block represents 100.",
+    t3_h2: "Drag 5 blocks into the area.",
+    t3_q: "What is 57 × 100?",
+    t3_q_a: "570",
+    t3_q_b: "5,700",
+    t3_q_c: "5,007",
+    t3_q_d: "57,000",
   },
   de: {
     explorer_title: "Multiplikations-Entdecker",
-    skip_count_by: "Zähle Sprünge um",
-    total: "Summe",
-    jumps_of: "Sprünge von",
-    t1_title: "Arrays und Multiplikation",
-    t1_text: "Ein Array ist eine Gruppe von Objekten, die in Reihen und Spalten angeordnet sind. Wenn wir alle Objekte in einem Array zählen, multiplizieren wir Reihen × Spalten. Zum Beispiel: 4 Reihen × 6 Spalten = 24 Objekte.",
-    t1_b1: "Jede Reihe hat dieselbe Anzahl von Objekten",
-    t1_b2: "Multipliziere Reihen mit Spalten, um das Total zu finden",
-    t1_b3: "Arrays helfen uns, Multiplikation zu verstehen",
-    t1_inst: "Baue ein Array, indem du Blöcke ziehst. Ziehe Reihen × Spalten Blöcke, um ein Multiplikations-Array zu erstellen.",
-    t1_h1: "Wie viele Reihen?",
-    t1_h2: "Wie viele Spalten?",
-    t1_q: "Wie viele Objekte sind in einem 5 × 8 Array?",
-    t1_q_40: "40",
-    t1_q_45: "45",
-    t1_q_48: "48",
-    t1_q_50: "50",
-    t2_title: "Zählsprünge",
-    t2_text: "Zählsprünge sind Zählen in Schritten. Um 6 × 7 zu finden, zähle siebenmal um 6: 6, 12, 18, 24, 30, 36, 42. Also 6 × 7 = 42.",
-    t2_b1: "Zählsprünge helfen Einmaleins zu lernen",
-    t2_b2: "Zähle die erste Zahl so oft wie die zweite",
-    t2_b3: "Die letzte Zahl ist die Antwort",
-    t2_inst: "Baue eine Zählsprung-Sequenz durch Ziehen. Erstelle eine Reihe von gleichen Schritten.",
-    t2_h1: "Wie viele Gruppen?",
-    t2_h2: "Zähle um welche Zahl?",
-    t2_q: "Was ist 8 × 6 mit Zählsprüngen?",
-    t2_q_42: "42",
-    t2_q_48: "48",
-    t2_q_54: "54",
-    t2_q_56: "56",
-    t3_title: "Zahlenstrahlensprünge",
-    t3_text: "Auf einem Zahlenstrahl multipliziert man mit gleichmäßigen Sprüngen. Um 9 × 5 zu finden, mache 9 Sprünge der Größe 5. Jeder Sprung landet auf 5, 10, 15... bis 45. Also 9 × 5 = 45.",
-    t3_b1: "Jeder Sprung ist gleich groß",
-    t3_b2: "Zähle Anzahl und Größe der Sprünge",
-    t3_b3: "Wo du landest, ist die Antwort",
-    t3_inst: "Baue Zahlenstrahl-Sprünge durch Ziehen. Erstelle gleiche Sprünge auf der Linie.",
-    t3_h1: "Wie viele Sprünge?",
-    t3_h2: "Wie groß ist jeder Sprung?",
-    t3_q: "Wie viele Sprünge um 7 erreichen 56?",
-    t3_q_7: "7",
-    t3_q_8: "8",
-    t3_q_9: "9",
-    t3_q_10: "10",
+    t1_title: "Wiederholte Addition",
+    t1_text: "Multiplikation ist eine Abkürzung, um dieselbe Zahl mehrmals zu addieren. 3 Gruppen von 4 ergeben zusammen 12!",
+    t1_b1: "Die Zahlen heißen Faktoren",
+    t1_b2: "Das Ergebnis ist das Produkt",
+    t1_b3: "Reihenfolge ändert nichts am Ergebnis",
+    t1_inst: "Kombiniere Blöcke, um 4 Gruppen von 5 zu zeigen (Gesamt: 20)!",
+    t1_h1: "Jeder Block ist 5 Einheiten wert.",
+    t1_h2: "Du brauchst 4 solche Blöcke.",
+    t1_q: "Was ist das Gleiche wie 6 × 3?",
+    t1_q_a: "6 + 6",
+    t1_q_b: "3 + 3 + 3 + 3 + 3 + 3",
+    t1_q_c: "6 + 3",
+    t1_q_d: "3 × 3",
+    t2_title: "Das Flächenmodell",
+    t2_text: "Multiplikation kann man sich wie ein Rechteck vorstellen. Ein 5x7 Gitter hat insgesamt 35 kleine Quadrate.",
+    t2_b1: "Zeilen × Spalten = Gesamtfläche",
+    t2_b2: "Ideal für große Zahlen",
+    t2_b3: "Länge mal Breite ergibt das Produkt",
+    t2_inst: "Finde 24 auf dem Zahlenstrahl in 6er-Schritten!",
+    t2_h1: "Starte bei 0 und springe 4-mal um 6.",
+    t2_h2: "6, 12, 18... was ist der nächste Schritt?",
+    t2_q: "Ein Gitter hat 4 Zeilen und 8 Spalten. Wie viele Quadrate sind es?",
+    t2_q_a: "12",
+    t2_q_b: "32",
+    t2_q_c: "28",
+    t2_q_d: "40",
+    t3_title: "Multiplizieren mit 10 und 100",
+    t3_text: "Bei der Multiplikation mit 10 rückt jede Ziffer eine Stelle nach links, und eine Null wird hinten angefügt.",
+    t3_b1: "× 10: eine Null anhängen",
+    t3_b2: "× 100: zwei Nullen anhängen",
+    t3_b3: "Der Wert wird 10-mal größer",
+    t3_inst: "Nutze 100er-Blöcke, um 500 zu bilden!",
+    t3_h1: "Jeder Block steht für 100.",
+    t3_h2: "Ziehe 5 Blöcke in den Bereich.",
+    t3_q: "Was ist 57 × 100?",
+    t3_q_a: "570",
+    t3_q_b: "5.700",
+    t3_q_c: "5.007",
+    t3_q_d: "57.000",
   },
   hu: {
-    explorer_title: "Szorzás-felfedező",
-    skip_count_by: "Számolj ugrásokat",
-    total: "Összesen",
-    jumps_of: "ugrás",
-    t1_title: "Tömbök és szorzás",
-    t1_text: "A tömb a sorokba és oszlopokba rendezett tárgyak csoportja. Amikor az összes tárgyat számolunk, szorzunk: sorok × oszlopok. Például: 4 sor × 6 oszlop = 24 tárgy.",
-    t1_b1: "Minden sornak ugyanannyi tárgya van",
-    t1_b2: "Szorozd a sorokat az oszlopokkal",
-    t1_b3: "A tömbök segítenek megérteni a szorzást",
-    t1_inst: "Építs egy tömböt blokkok húzásával. Húzd a sorok × oszlopok blokkokat, hogy szorzás tömböt hozz létre.",
-    t1_h1: "Hány sor?",
-    t1_h2: "Hány oszlop?",
-    t1_q: "Hány tárgy van egy 5 × 8 tömbben?",
-    t1_q_40: "40",
-    t1_q_45: "45",
-    t1_q_48: "48",
-    t1_q_50: "50",
-    t2_title: "Számszámolás",
-    t2_text: "A számszámolás azt jelenti, hogy egy szám után ismételten számolunk. A 6 × 7 megtalálásához hétszer számolunk 6-tal: 6, 12, 18, 24, 30, 36, 42. Tehát 6 × 7 = 42.",
-    t2_b1: "A számszámolás segít megtanulni a szorzótáblát",
-    t2_b2: "Számolj az első számmal annyiszor, mint a második",
-    t2_b3: "Az utolsó szám a válasz",
-    t2_inst: "Építs egy számszámlálási sorozatot a csoportok húzásával.",
-    t2_h1: "Hány csoport?",
-    t2_h2: "Milyen számmal számolj?",
-    t2_q: "Mi az 8 × 6 számszámolással?",
-    t2_q_42: "42",
-    t2_q_48: "48",
-    t2_q_54: "54",
-    t2_q_56: "56",
-    t3_title: "Számegyenes ugrások",
-    t3_text: "A számegyenesen szorzunk egyenlő ugrásokkal. A 9 × 5 megtalálásához 9 ugrást teszel, mindegyik 5-ös. Minden ugráson landol: 5, 10, 15... 45-ig. Tehát 9 × 5 = 45.",
-    t3_b1: "Minden ugras ugyanakora",
-    t3_b2: "Számláld meg az ugrások számát és méretét",
-    t3_b3: "Ahol landolsz, az a válasz",
-    t3_inst: "Építs számegyenes ugrásokat húzással. Hozz létre egyenlő méretű ugrásokat a soron.",
-    t3_h1: "Hány ugrás?",
-    t3_h2: "Mekkora az ugrás mérete?",
-    t3_q: "Hány ugrás a 7-essel eléri az 56-ot?",
-    t3_q_7: "7",
-    t3_q_8: "8",
-    t3_q_9: "9",
-    t3_q_10: "10",
+    explorer_title: "Szorzás felfedezése",
+    t1_title: "Ismételt összeadás",
+    t1_text: "A szorzás nem más, mint ugyanannak a számnak a többszöri összeadása. 3 darab 4-es csoport összesen 12-t ér!",
+    t1_b1: "A szorzásban részt vevő számok a tényezők",
+    t1_b2: "A szorzás eredménye a szorzat",
+    t1_b3: "A tényezők felcserélhetők",
+    t1_inst: "Vond össze a blokkokat: 4 darab 5-ös csoportot hozz létre (Összesen: 20)!",
+    t1_h1: "Minden blokk 5 egységet ér.",
+    t1_h2: "4 darab ilyen blokkra lesz szükséged.",
+    t1_q: "Melyik egyenlő 6 × 3-mal?",
+    t1_q_a: "6 + 6",
+    t1_q_b: "3 + 3 + 3 + 3 + 3 + 3",
+    t1_q_c: "6 + 3",
+    t1_q_d: "3 × 3",
+    t2_title: "A területi modell",
+    t2_text: "A szorzást elképzelheted egy téglalapként is. Egy 5x7-es rács összesen 35 kis négyzetből áll.",
+    t2_b1: "Sorok × Oszlopok = Teljes terület",
+    t2_b2: "Segít a nagyobb szorzatok szemléltetésében",
+    t2_b3: "Hosszúság szorozva szélességgel",
+    t2_inst: "Keresd meg a 24-et a számegyenesen 6-os ugrásokkal!",
+    t2_h1: "Indulj 0-ról és ugorj 4-et hatosával.",
+    t2_h2: "6, 12, 18... mi a következő szám?",
+    t2_q: "Ha egy rács 4 sorból és 8 oszlopból áll, hány négyzet van benne?",
+    t2_q_a: "12",
+    t2_q_b: "32",
+    t2_q_c: "28",
+    t2_q_d: "40",
+    t3_title: "Szorzás 10-zel és 100-zal",
+    t3_text: "Ha egy egész számot megszorzol 10-zel, minden számjegy egy helyiértékkel balra lép, a végére pedig egy nulla kerül.",
+    t3_b1: "× 10: egy nullát írunk a végére",
+    t3_b2: "× 100: két nullát írunk a végére",
+    t3_b3: "Az érték tízszeresére nő",
+    t3_inst: "Használj 100-as blokkokat az 500 létrehozásához!",
+    t3_h1: "Minden blokk 100-at ér.",
+    t3_h2: "Húzz 5 blokkot a területre.",
+    t3_q: "Mennyi 57 × 100?",
+    t3_q_a: "570",
+    t3_q_b: "5700",
+    t3_q_c: "5007",
+    t3_q_d: "57 000",
   },
   ro: {
-    explorer_title: "Explorare Înmulțire",
-    skip_count_by: "Numără salturi cu",
-    total: "Total",
-    jumps_of: "salturi de",
-    t1_title: "Tablouri și Înmulțire",
-    t1_text: "Un tablou este un grup de obiecte aranjate în rânduri și coloane. Pentru a găsi totalul, înmulțim rânduri × coloane. De exemplu: 4 rânduri × 6 coloane = 24 obiecte.",
-    t1_b1: "Fiecare rând are același număr de obiecte",
-    t1_b2: "Înmulțește rândurile cu coloanele",
-    t1_b3: "Tablourile ajută să vizualizezi înmulțirea",
-    t1_inst: "Construiește un tablou trăgând blocuri. Trage blocurile de rânduri × coloane pentru a crea o tablă de înmulțire.",
-    t1_h1: "Câte rânduri?",
-    t1_h2: "Câte coloane?",
-    t1_q: "Câte obiecte sunt într-un tablou 5 × 8?",
-    t1_q_40: "40",
-    t1_q_45: "45",
-    t1_q_48: "48",
-    t1_q_50: "50",
-    t2_title: "Numărare cu salturi",
-    t2_text: "Numărarea cu salturi înseamnă să numeri într-un model repetat. Pentru 6 × 7, numără din 6 de șapte ori: 6, 12, 18, 24, 30, 36, 42. Deci 6 × 7 = 42.",
-    t2_b1: "Numărarea cu salturi te ajută să înveți tabla",
-    t2_b2: "Numără cu primul număr de cât ori al doilea",
-    t2_b3: "Ultimul număr este răspunsul",
-    t2_inst: "Construiește o secvență de numărare cu salturi. Trage grupuri pentru a crea pași egali.",
-    t2_h1: "Câte grupuri?",
-    t2_h2: "Numără cu ce număr?",
-    t2_q: "Care este 8 × 6 cu numărare cu salturi?",
-    t2_q_42: "42",
-    t2_q_48: "48",
-    t2_q_54: "54",
-    t2_q_56: "56",
-    t3_title: "Sărituri pe Linia Numerelor",
-    t3_text: "Pe o linie numerică, faci salturi egale. Pentru 9 × 5, faci 9 salturi de 5. Fiecare salt ajunge la 5, 10, 15... 45. Deci 9 × 5 = 45.",
-    t3_b1: "Fiecare salt este de același mărime",
-    t3_b2: "Numără numărul și mărimea săriturii",
-    t3_b3: "Unde ajungi este răspunsul",
-    t3_inst: "Construiește sărituri pe linia numerelor. Trage pentru a crea salturi egale.",
-    t3_h1: "Câte salturi?",
-    t3_h2: "Care este dimensiunea săriturii?",
-    t3_q: "Câte salturi de 7 ajung la 56?",
-    t3_q_7: "7",
-    t3_q_8: "8",
-    t3_q_9: "9",
-    t3_q_10: "10",
+    explorer_title: "Explorator Înmulțire",
+    t1_title: "Adunarea repetată",
+    t1_text: "Înmulțirea este o metodă rapidă de a aduna același număr de mai multe ori. 3 grupuri de câte 4 fac 12 în total!",
+    t1_b1: "Numerele care se înmulțesc sunt factori",
+    t1_b2: "Rezultatul se numește produs",
+    t1_b3: "Ordinea factorilor nu schimbă produsul",
+    t1_inst: "Combină blocurile pentru a arăta 4 grupuri de 5 (Total: 20)!",
+    t1_h1: "Fiecare bloc valorează 5 unități.",
+    t1_h2: "Ai nevoie de 4 astfel de blocuri.",
+    t1_q: "Cu ce este echivalent 6 × 3?",
+    t1_q_a: "6 + 6",
+    t1_q_b: "3 + 3 + 3 + 3 + 3 + 3",
+    t1_q_c: "6 + 3",
+    t1_q_d: "3 × 3",
+    t2_title: "Modelul ariei",
+    t2_text: "Poți imagina înmulțirea ca pe un dreptunghi. O grilă de 5 pe 7 conține în total 35 de pătrățele.",
+    t2_b1: "Rânduri × Coloane = Aria totală",
+    t2_b2: "Util pentru vizualizarea produselor mari",
+    t2_b3: "Lungimea înmulțită cu lățimea",
+    t2_inst: "Găsește 24 pe linia numerelor sărind din 6 în 6!",
+    t2_h1: "Începe de la 0 și sari de 4 ori câte 6 unități.",
+    t2_h2: "6, 12, 18... care este următorul pas?",
+    t2_q: "Dacă o grilă are 4 rânduri și 8 coloane, câte pătrățele sunt?",
+    t2_q_a: "12",
+    t2_q_b: "32",
+    t2_q_c: "28",
+    t2_q_d: "40",
+    t3_title: "Înmulțirea cu 10 și 100",
+    t3_text: "Când înmulțești un număr cu 10, fiecare cifră se mută cu o poziție la stânga și se adaugă un zero la sfârșit.",
+    t3_b1: "× 10: adaugă un zero la final",
+    t3_b2: "× 100: adaugă două zerouri la final",
+    t3_b3: "Valoarea devine de 10 ori mai mare",
+    t3_inst: "Folosește blocuri de 100 pentru a crea 500!",
+    t3_h1: "Fiecare bloc reprezintă 100.",
+    t3_h2: "Trage 5 blocuri în zonă.",
+    t3_q: "Cât este 57 × 100?",
+    t3_q_a: "570",
+    t3_q_b: "5.700",
+    t3_q_c: "5.007",
+    t3_q_d: "57.000",
   },
 };
 
+// ─── TOPIC DEFINÍCIÓK ────────────────────────────────────────────────
+
 const TOPICS: TopicDef[] = [
   {
-    title: "t1_title",
-    description: "t1_text",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
-    svg: (lang) => <ArrayModelSvg rows={4} cols={6} />,
-    interactiveBlock: {
+    interactive: {
       type: "block-drag",
       mode: "combine",
-      instructionKey: "t1_inst",
-      hints: [
-        { label: "t1_h1", hint: "First, drag to select the number of rows." },
-        { label: "t1_h2", hint: "Then, drag to select the number of columns." },
-      ],
+      groups: [5, 5, 5, 5],
+      answer: 20,
+      blockIcon: "🟡",
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_b",
     },
   },
   {
-    title: "t2_title",
-    description: "t2_text",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
-    svg: (lang) => <SkipCountingSvg start={6} count={7} lang={lang} />,
-    interactiveBlock: {
-      type: "block-drag",
-      mode: "combine",
-      instructionKey: "t2_inst",
-      hints: [
-        { label: "t2_h1", hint: "First, drag to select how many groups." },
-        { label: "t2_h2", hint: "Then, drag to select the skip count number." },
-      ],
+    interactive: {
+      type: "number-line",
+      min: 0,
+      max: 30,
+      start: 0,
+      target: 24,
+      step: 6,
+      showJumps: true,
+      jumpCount: 4,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_b",
     },
   },
   {
-    title: "t3_title",
-    description: "t3_text",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
-    svg: (lang) => <NumberLineJumpsSvg groups={9} size={5} lang={lang} />,
-    interactiveBlock: {
+    interactive: {
       type: "block-drag",
       mode: "combine",
-      instructionKey: "t3_inst",
-      hints: [
-        { label: "t3_h1", hint: "First, drag to select how many jumps." },
-        { label: "t3_h2", hint: "Then, drag to select the jump size." },
-      ],
+      groups: [1, 1, 1, 1, 1], // each block logic handle by engine to represent 100
+      answer: 5,
+      blockIcon: "💎",
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
     },
-    mcq: {
-      questions: [
-        { question: "t3_q", choices: ["t3_q_7", "t3_q_8", "t3_q_9", "t3_q_10"], answer: "t3_q_8" },
-        { question: "t1_q", choices: ["t1_q_40", "t1_q_45", "t1_q_48", "t1_q_50"], answer: "t1_q_40" },
-        { question: "t2_q", choices: ["t2_q_42", "t2_q_48", "t2_q_54", "t2_q_56"], answer: "t2_q_48" },
-      ],
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_b",
     },
   },
 ];
 
-const EXPLORER_DEF: ExplorerDef = {
+// ─── EXPLORER DEFINÍCIÓ ──────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "✖️",
@@ -353,15 +332,18 @@ const EXPLORER_DEF: ExplorerDef = {
   rounds: [],
 };
 
-interface Props {
-  color?: string;
-  lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ──────────────────────────────────────────────────────────
 
-export default function MultiplicationExplorer4({ color = "#FF6B6B", lang, onDone, onClose }: Props) {
-  return (
-    <ExplorerEngine def={EXPLORER_DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} grade={4} />
-  );
-}
+const MultiplicationExplorer4 = memo(function MultiplicationExplorer4({
+  color = "#F59E0B",
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={4} explorerId="math_g4_multiplication" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default MultiplicationExplorer4;

@@ -23,15 +23,15 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LetterExplorer from "@/app/astrodeutsch/games/LetterExplorer";
-import SyllableExplorer from "@/app/astrodeutsch/games/SyllableExplorer";
-import ArticleExplorer from "@/app/astrodeutsch/games/ArticleExplorer";
-import RhymeExplorer from "@/app/astrodeutsch/games/RhymeExplorer";
-import SentenceExplorer from "@/app/astrodeutsch/games/SentenceExplorer";
-import PictureWordExplorer from "@/app/astrodeutsch/games/PictureWordExplorer";
-import CompoundWordExplorer from "@/app/astrodeutsch/games/CompoundWordExplorer";
-import ReadingExplorer from "@/app/astrodeutsch/games/ReadingExplorer";
-import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
+import LetterExplorerK1 from "@/app/astrodeutsch/games/k1/LetterExplorerK1";
+import SyllableExplorerK1 from "@/app/astrodeutsch/games/k1/SyllableExplorerK1";
+import ArticleExplorerK1 from "@/app/astrodeutsch/games/k1/ArticleExplorerK1";
+import RhymeExplorerK1 from "@/app/astrodeutsch/games/k1/RhymeExplorerK1";
+import SentenceExplorerK1 from "@/app/astrodeutsch/games/k1/SentenceExplorerK1";
+import PictureWordExplorerK1 from "@/app/astrodeutsch/games/k1/PictureWordExplorerK1";
+import CompoundWordExplorerK1 from "@/app/astrodeutsch/games/k1/CompoundWordExplorerK1";
+import ReadingExplorerK1 from "@/app/astrodeutsch/games/k1/ReadingExplorerK1";
+import ReviewExplorerK1 from "@/app/astrodeutsch/games/k1/ReviewExplorerK1";
 import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
 import SpellRace from "@/app/astrodeutsch/games/SpellRace";
 import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
@@ -738,31 +738,31 @@ export default function AstroDeutschK1Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "letter-explorer" && (
-          <LetterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <LetterExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "syllable-explorer" && (
-          <SyllableExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SyllableExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "article-explorer" && (
-          <ArticleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <ArticleExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "rhyme-explorer" && (
-          <RhymeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <RhymeExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "sentence-explorer" && (
-          <SentenceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SentenceExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "picture-word-explorer" && (
-          <PictureWordExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PictureWordExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "compound-word-explorer" && (
-          <CompoundWordExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <CompoundWordExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "reading-explorer" && (
-          <ReadingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <ReadingExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "review-explorer" && (
-          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <ReviewExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-blitz" && (
           <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />

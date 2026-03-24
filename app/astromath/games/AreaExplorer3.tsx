@@ -179,10 +179,13 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_info: "Different shapes, different calculations",
 
     shapes_q1: "What is the area of a 6×4 rectangle?",
+    shapes_q1_a: "18", shapes_q1_b: "24", shapes_q1_c: "30", shapes_q1_d: "20",
     shapes_a1: "24 square units",
     shapes_q2: "What is the perimeter of a 5×3 rectangle?",
+    shapes_q2_a: "8", shapes_q2_b: "15", shapes_q2_c: "16", shapes_q2_d: "18",
     shapes_a2: "16 units",
     shapes_q3: "A square has sides of 4 units. What is its area?",
+    shapes_q3_a: "8", shapes_q3_b: "12", shapes_q3_c: "16", shapes_q3_d: "20",
     shapes_a3: "16 square units",
   },
   de: {
@@ -233,10 +236,13 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_info: "Verschiedene Formen, verschiedene Berechnungen",
 
     shapes_q1: "Welche Fläche hat ein 6×4 Rechteck?",
+    shapes_q1_a: "18", shapes_q1_b: "24", shapes_q1_c: "30", shapes_q1_d: "20",
     shapes_a1: "24 Quadrat-Einheiten",
     shapes_q2: "Welcher Umfang hat ein 5×3 Rechteck?",
+    shapes_q2_a: "8", shapes_q2_b: "15", shapes_q2_c: "16", shapes_q2_d: "18",
     shapes_a2: "16 Einheiten",
     shapes_q3: "Ein Quadrat hat Seiten von 4 Einheiten. Welche Fläche?",
+    shapes_q3_a: "8", shapes_q3_b: "12", shapes_q3_c: "16", shapes_q3_d: "20",
     shapes_a3: "16 Quadrat-Einheiten",
   },
   hu: {
@@ -287,10 +293,13 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_info: "Különböző alakzatok, különböző számítások",
 
     shapes_q1: "Mekkora egy 6×4 téglalap területe?",
+    shapes_q1_a: "18", shapes_q1_b: "24", shapes_q1_c: "30", shapes_q1_d: "20",
     shapes_a1: "24 négyzetegység",
     shapes_q2: "Mekkora egy 5×3 téglalap kerülete?",
+    shapes_q2_a: "8", shapes_q2_b: "15", shapes_q2_c: "16", shapes_q2_d: "18",
     shapes_a2: "16 egység",
     shapes_q3: "Egy négyzetnek 4 egység hosszú oldalai vannak. Mekkora a területe?",
+    shapes_q3_a: "8", shapes_q3_b: "12", shapes_q3_c: "16", shapes_q3_d: "20",
     shapes_a3: "16 négyzetegység",
   },
   ro: {
@@ -341,10 +350,13 @@ const LABELS: Record<string, Record<string, string>> = {
     shapes_info: "Forme diferite, calcule diferite",
 
     shapes_q1: "Care este aria unui dreptunghi 6×4?",
+    shapes_q1_a: "18", shapes_q1_b: "24", shapes_q1_c: "30", shapes_q1_d: "20",
     shapes_a1: "24 unități pătrate",
     shapes_q2: "Care este perimetrul unui dreptunghi 5×3?",
+    shapes_q2_a: "8", shapes_q2_b: "15", shapes_q2_c: "16", shapes_q2_d: "18",
     shapes_a2: "16 unități",
     shapes_q3: "Un pătrat are laturi de 4 unități. Care este aria?",
+    shapes_q3_a: "8", shapes_q3_b: "12", shapes_q3_c: "16", shapes_q3_d: "20",
     shapes_a3: "16 unități pătrate",
   },
 };
@@ -363,18 +375,20 @@ const EXPLORER_DEF: ExplorerDef = {
       svg: (lang) => <RectangleSvg lang={lang} />,
       bulletKeys: ["area_hint_1", "area_hint_2", "area_hint_3"],
       interactive: {
-        type: "grid-count",
+        type: "block-drag",
+        mode: "combine",
+        groups: [4, 3],
+        answer: 12,
+        blockIcon: "🟦",
         instruction: "t1_inst",
-        h1: "t1_h1",
-        h2: "t1_h2",
+        hint1: "t1_h1",
+        hint2: "t1_h2",
       },
-      quiz: [
-        {
-          question: "shapes_q1",
-          choices: ["18 square units", "24 square units", "30 square units", "20 square units"],
-          answer: "24 square units",
-        },
-      ],
+      quiz: {
+        question: "shapes_q1",
+        choices: ["shapes_q1_a", "shapes_q1_b", "shapes_q1_c", "shapes_q1_d"],
+        answer: "shapes_q1_b",
+      },
     },
 
     // ─ Topic 2: Perimeter ─
@@ -384,18 +398,21 @@ const EXPLORER_DEF: ExplorerDef = {
       svg: (lang) => <PerimeterSvg lang={lang} />,
       bulletKeys: ["perim_hint_1", "perim_hint_2", "perim_hint_3"],
       interactive: {
-        type: "perimeter-drag",
+        type: "number-line",
+        min: 0,
+        max: 30,
+        start: 0,
+        target: 24,
+        step: 2,
         instruction: "t2_inst",
-        h1: "t2_h1",
-        h2: "t2_h2",
+        hint1: "t2_h1",
+        hint2: "t2_h2",
       },
-      quiz: [
-        {
-          question: "shapes_q2",
-          choices: ["8 units", "15 units", "16 units", "18 units"],
-          answer: "16 units",
-        },
-      ],
+      quiz: {
+        question: "shapes_q2",
+        choices: ["shapes_q2_a", "shapes_q2_b", "shapes_q2_c", "shapes_q2_d"],
+        answer: "shapes_q2_c",
+      },
     },
 
     // ─ Topic 3: Shape Quiz (Review) ─
@@ -405,28 +422,20 @@ const EXPLORER_DEF: ExplorerDef = {
       svg: (lang) => <ShapesSvg lang={lang} />,
       bulletKeys: ["shapes_hint_1", "shapes_hint_2", "shapes_hint_3"],
       interactive: {
-        type: "review-shapes",
+        type: "block-drag",
+        mode: "combine",
+        groups: [4, 4],
+        answer: 16,
+        blockIcon: "🟩",
         instruction: "t3_inst",
-        h1: "t3_h1",
-        h2: "t3_h2",
+        hint1: "t3_h1",
+        hint2: "t3_h2",
       },
-      quiz: [
-        {
-          question: "shapes_q1",
-          choices: ["20 square units", "24 square units", "28 square units", "32 square units"],
-          answer: "24 square units",
-        },
-        {
-          question: "shapes_q2",
-          choices: ["14 units", "16 units", "18 units", "20 units"],
-          answer: "16 units",
-        },
-        {
-          question: "shapes_q3",
-          choices: ["8 square units", "12 square units", "16 square units", "20 square units"],
-          answer: "16 square units",
-        },
-      ],
+      quiz: {
+        question: "shapes_q3",
+        choices: ["shapes_q3_a", "shapes_q3_b", "shapes_q3_c", "shapes_q3_d"],
+        answer: "shapes_q3_c",
+      },
     },
   ],
   rounds: [],

@@ -28,12 +28,13 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
-import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
-import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
-import DecimalExplorer from "@/app/astromath/games/DecimalExplorer";
-import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
-import UnitExplorer from "@/app/astromath/games/UnitExplorer";
-import AngleExplorer from "@/app/astromath/games/AngleExplorer";
+import MulDivExplorer5 from "@/app/astromath/games/MulDivExplorer5";
+import PlaceValueExplorer5 from "@/app/astromath/games/PlaceValueExplorer5";
+import DecimalExplorer5 from "@/app/astromath/games/DecimalExplorer5";
+import WordProblemExplorer5 from "@/app/astromath/games/WordProblemExplorer5";
+import UnitExplorer5 from "@/app/astromath/games/UnitExplorer5";
+import GeometryExplorer5 from "@/app/astromath/games/GeometryExplorer5";
+import FractionExplorer5 from "@/app/astromath/games/FractionExplorer5";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import ChainCalc from "@/app/astromath/games/ChainCalc";
 import { G5_ISLAND_SVGS } from "../islands-g5";
@@ -819,22 +820,22 @@ export default function AstroMathG5Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "concept-explorer" && (
-          <ConceptExplorer color={bgColor} lang={lang} grade={5} onDone={handleMissionDone} />
+          <MulDivExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "place-value-explorer" && (
-          <PlaceValueExplorer color={bgColor} lang={lang} grade={5} onDone={handleMissionDone} />
+          <PlaceValueExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "decimal-explorer" && (
-          <DecimalExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <DecimalExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-problem-explorer" && (
-          <WordProblemExplorer color={bgColor} lang={lang} grade={5} onDone={handleMissionDone} />
+          <WordProblemExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "unit-explorer" && (
-          <UnitExplorer color={bgColor} lang={lang} grade={5} onDone={handleMissionDone} />
+          <UnitExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "angle-explorer" && (
-          <AngleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <GeometryExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />

@@ -1,668 +1,327 @@
 "use client";
-// WordProblemExplorer4 — Multi-step word problems for Grade 4 (island i6)
-// Uses ExplorerEngine with 3 topics: reading problems, solving strategies, checking work
+// WordProblemsExplorer4 — Word Problems & Logic for Grade 4 (island i6)
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 
-// ─── SVG: Problem visualization with objects ─────────────────────────────────────
+// ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const ProblemVisualizationSvg = memo(function ProblemVisualizationSvg({
-  scenario = "apples",
-  initial = 12,
-  operation = "remove",
-  amount = 5,
-  lang = "en",
-}: {
-  scenario?: string;
-  initial?: number;
-  operation?: string;
-  amount?: number;
-  lang?: string;
-}) {
-  const t = LABELS[lang] || LABELS.en;
-  let itemColor = "#FFD700";
-  let itemShape = "circle";
-  if (scenario === "apples") {
-    itemColor = "#EF4444";
-    itemShape = "circle";
-  } else if (scenario === "books") {
-    itemColor = "#3B82F6";
-    itemShape = "rect";
-  } else if (scenario === "balls") {
-    itemColor = "#10B981";
-    itemShape = "circle";
-  }
-
-  const remainingAfter = operation === "remove" ? initial - amount : initial + amount;
-
+const Topic1Svg = memo(function Topic1Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="pvG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FCD34D" stopOpacity="0.04" />
+        <linearGradient id="wpGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#D97706" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#pvG)" rx="16" />
-
-      {/* BEFORE: Show initial items */}
-      <text x="30" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.pv_start}
-      </text>
-      <g transform="translate(20, 35)">
-        {Array.from({ length: Math.min(initial, 10) }, (_, i) => {
-          const row = Math.floor(i / 5);
-          const col = i % 5;
-          return itemShape === "circle" ? (
-            <circle key={i} cx={col * 18 + 9} cy={row * 18 + 9} r="7" fill={itemColor} opacity="0.8" />
-          ) : (
-            <rect key={i} x={col * 18 + 2} y={row * 18 + 2} width="14" height="14" fill={itemColor} opacity="0.8" rx="2" />
-          );
-        })}
-        {initial > 10 && (
-          <text x="95" y="15" fontSize="11" fill="rgba(255,255,255,0.5)">
-            +{initial - 10}
-          </text>
-        )}
+      <rect width="240" height="140" fill="url(#wpGrad1)" rx="16" />
+      {/* Visualizing a story: 3 baskets with 5 apples each */}
+      <g transform="translate(60, 60)">
+        {[0, 1, 2].map((i) => (
+          <g key={i} transform={`translate(${i * 60}, 0)`}>
+            <path d="M -20,0 Q -20,25 0,25 Q 20,25 20,0 L -20,0" fill="#78350F" opacity="0.6" />
+            <circle cx="0" cy="-5" r="6" fill="#EF4444" />
+            <circle cx="-8" cy="-12" r="6" fill="#EF4444" />
+            <circle cx="8" cy="-12" r="6" fill="#EF4444" />
+          </g>
+        ))}
       </g>
+      <text x="120" y="120" fontSize="14" fontWeight="bold" fill="#92400E" textAnchor="middle">3 × 5 = ?</text>
+    </svg>
+  );
+});
 
-      {/* Operation label */}
-      <text x="120" y="45" fontSize="11" fontWeight="bold" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {operation === "remove" ? `${t.pv_remove} ${amount}` : `${t.pv_add} ${amount}`}
-      </text>
-
-      {/* AFTER: Show remaining items */}
-      <text x="150" y="20" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.pv_now}
-      </text>
-      <g transform="translate(150, 35)">
-        {Array.from({ length: Math.min(remainingAfter, 10) }, (_, i) => {
-          const row = Math.floor(i / 5);
-          const col = i % 5;
-          return itemShape === "circle" ? (
-            <circle key={i} cx={col * 18 + 9} cy={row * 18 + 9} r="7" fill={itemColor} opacity="0.8" />
-          ) : (
-            <rect key={i} x={col * 18 + 2} y={row * 18 + 2} width="14" height="14" fill={itemColor} opacity="0.8" rx="2" />
-          );
-        })}
-        {remainingAfter > 10 && (
-          <text x="95" y="15" fontSize="11" fill="rgba(255,255,255,0.5)">
-            +{remainingAfter - 10}
-          </text>
-        )}
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="wpGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#2563EB" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#wpGrad2)" rx="16" />
+      {/* Keywords visual */}
+      <g transform="translate(120, 70)">
+        <rect x="-80" y="-30" width="160" height="60" fill="white" fillOpacity="0.3" rx="8" stroke="#2563EB" strokeDasharray="4 2" />
+        <text x="0" y="-5" fontSize="12" fontWeight="bold" fill="#1E40AF" textAnchor="middle">SUM • TOTAL • ALL</text>
+        <line x1="-60" y1="5" x2="60" y2="5" stroke="#2563EB" strokeWidth="1" opacity="0.5" />
+        <text x="0" y="22" fontSize="16" fontWeight="900" fill="#1E40AF" textAnchor="middle">+</text>
       </g>
-
-      {/* Answer */}
-      <text x="120" y="150" fontSize="13" fontWeight="bold" fill="rgba(255,255,255,0.8)" textAnchor="middle">
-        {t.pv_answer}: {remainingAfter}
-      </text>
     </svg>
   );
 });
 
-// ─── SVG: Equation format and steps ──────────────────────────────────────────────
-
-const EquationFormatSvg = memo(function EquationFormatSvg({ lang = "en" }: { lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
+const Topic3Svg = memo(function Topic3Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 160">
+    <svg width="100%" viewBox="0 0 240 140">
       <defs>
-        <linearGradient id="efG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#C4B5FD" stopOpacity="0.04" />
+        <linearGradient id="wpGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#7C3AED" stopOpacity="0.05" />
         </linearGradient>
       </defs>
-      <rect width="240" height="160" fill="url(#efG)" rx="16" />
-
-      {/* Step 1 */}
-      <text x="20" y="30" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step1}
-      </text>
-      <text x="20" y="45" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_know}
-      </text>
-
-      {/* Step 2 */}
-      <text x="20" y="70" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step2}
-      </text>
-      <text x="20" y="85" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_op}
-      </text>
-
-      {/* Step 3 */}
-      <text x="20" y="110" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step3}
-      </text>
-      <text x="20" y="125" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_example}
-      </text>
-
-      {/* Step 4 */}
-      <text x="150" y="30" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step4}
-      </text>
-      <text x="150" y="45" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_calc}
-      </text>
-
-      {/* Step 5 */}
-      <text x="150" y="70" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step5}
-      </text>
-      <text x="150" y="85" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_sense}
-      </text>
-
-      {/* Step 6 */}
-      <text x="150" y="110" fontSize="11" fontWeight="bold" fill="#8B5CF6" textAnchor="start">
-        {t.ef_step6}
-      </text>
-      <text x="150" y="125" fontSize="10" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.ef_sentence}
-      </text>
+      <rect width="240" height="140" fill="url(#wpGrad3)" rx="16" />
+      {/* Estimation: 48 + 51 -> 50 + 50 */}
+      <g transform="translate(120, 70)">
+        <text x="-50" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">48 + 51</text>
+        <path d="M -10,0 L 10,0" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
+        <path d="M -10,5 L 10,5" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
+        <text x="60" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">≈ 100</text>
+      </g>
     </svg>
   );
 });
 
-// ─── SVG: Checking work / verification ────────────────────────────────────────────
-
-const CheckWorkSvg = memo(function CheckWorkSvg({ lang = "en" }: { lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  return (
-    <svg width="100%" viewBox="0 0 240 160">
-      <defs>
-        <linearGradient id="cwG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#34D399" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#cwG)" rx="16" />
-
-      {/* Left side: Solution */}
-      <text x="20" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="start">
-        {t.cw_solution}
-      </text>
-      <text x="20" y="45" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.cw_had}
-      </text>
-      <text x="20" y="62" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        {t.cw_ate}
-      </text>
-      <text x="20" y="79" fontSize="11" fontWeight="bold" fill="#10B981" textAnchor="start">
-        20 − 7 = 13
-      </text>
-
-      {/* Right side: Verification */}
-      <text x="130" y="25" fontSize="12" fontWeight="bold" fill="#10B981" textAnchor="start">
-        {t.cw_check}
-      </text>
-      <text x="130" y="45" fontSize="11" fill="rgba(255,255,255,0.7)" textAnchor="start">
-        13 + 7 = 20 ✓
-      </text>
-      <text x="130" y="62" fontSize="10" fill="rgba(255,255,255,0.5)" textAnchor="start">
-        {t.cw_inverse}
-      </text>
-
-      {/* Bottom */}
-      <text x="120" y="130" fontSize="11" fill="rgba(255,255,255,0.6)" textAnchor="middle">
-        {t.cw_verify}
-      </text>
-    </svg>
-  );
-});
-
-// ─── Labels (4 languages) ────────────────────────────────────────────────────
+// ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    explorer_title: "Word Problem Solver",
-    // SVG labels
-    pv_start: "Start:",
-    pv_now: "Now:",
-    pv_remove: "Remove",
-    pv_add: "Add",
-    pv_answer: "Answer",
-    ef_step1: "Step 1: Understand",
-    ef_know: "What do we know?",
-    ef_step2: "Step 2: Choose operation",
-    ef_op: "Add (+) or Subtract (−)?",
-    ef_step3: "Step 3: Write equation",
-    ef_example: "Example: 12 − 5 = 7",
-    ef_step4: "Step 4: Solve",
-    ef_calc: "Calculate answer",
-    ef_step5: "Step 5: Check",
-    ef_sense: "Does answer make sense?",
-    ef_step6: "Step 6: Answer",
-    ef_sentence: "Write full sentence",
-    cw_solution: "Solution:",
-    cw_had: "Had: 20 apples",
-    cw_ate: "Ate: 7 apples",
-    cw_check: "Check:",
-    cw_inverse: "(Inverse operation)",
-    cw_verify: "Always verify your answer!",
-    // Topic 1: Understanding the problem
-    t1_title: "Reading & Understanding Problems",
-    t1_text: "Word problems describe a situation using words. To solve them, first read carefully and understand: What do we know? What are we asked to find? Example: 'Maria has 20 apples. She eats 7. How many are left?'",
-    t1_inst: "Read each problem. Identify what number and what action. Tap the matching operation.",
-    t1_b1: "Read the problem slowly and carefully",
-    t1_b2: "Identify what you know and what you need to find",
-    t1_b3: "Look for number clues and action words",
-    t1_h1: "Action words: 'altogether' = add, 'left' = subtract, 'each' = divide",
-    t1_h2: "Number clues: numbers in the sentence tell you what to work with",
-    t1_q: "What operation does 'altogether' usually mean?",
-    t1_q_add: "Addition (+)",
-    t1_q_sub: "Subtraction (−)",
-    t1_q_mul: "Multiplication (×)",
-    t1_q_div: "Division (÷)",
-    // Topic 2: Problem-solving steps
-    t2_title: "Steps to Solve Word Problems",
-    t2_text: "Follow a process: (1) Understand – what's given and what's asked? (2) Plan – which operation? (3) Solve – write equation and calculate. (4) Check – does answer make sense?",
-    t2_inst: "Arrange the problem-solving steps in the correct order.",
-    t2_b1: "Always follow the same steps",
-    t2_b2: "Write down your equation first",
-    t2_b3: "Check by using reverse operation",
-    t2_h1: "The problem-solving method: Read → Understand → Choose → Solve → Check",
-    t2_h2: "Never skip the checking step! This catches your mistakes.",
-    t2_q: "First step when solving a word problem?",
-    t2_q_calc: "Start calculating numbers",
-    t2_q_read: "Read and understand the problem",
-    t2_q_skip: "Skip to the answer",
-    t2_q_guess: "Make a guess",
-    // Topic 3: Checking and verifying
-    t3_title: "Checking Your Work",
-    t3_text: "After solving, verify your answer. Use the opposite operation: If you subtracted, try adding. If you multiplied, try dividing. Does the result match the original information?",
-    t3_inst: "For each answer, use the inverse operation to check. Click or tap to verify.",
-    t3_b1: "Use opposite operation to check",
-    t3_b2: "Ask if the answer makes sense",
-    t3_b3: "Look back at the original problem",
-    t3_h1: "Opposite operations: Addition ↔ Subtraction, Multiplication ↔ Division",
-    t3_h2: "If your check doesn't match, you made an error. Try again!",
-    t3_q: "To check 18 ÷ 3 = 6, which would you do?",
-    t3_q_mul: "Multiply 3 × 6",
-    t3_q_div: "Divide 18 ÷ 6",
-    t3_q_add: "Add 3 + 6",
-    t3_q_sub: "Subtract 18 − 3",
-    // Review questions (R5)
-    r5_q1: "'Sam has 15 toys. He gets 8 more. How many does he have now?' Which equation?",
-    r5_q1_a: "15 − 8",
-    r5_q1_b: "15 + 8",
-    r5_q1_c: "8 × 15",
-    r5_q1_d: "15 ÷ 8",
-    r5_q2: "'There are 24 cookies. 6 friends share equally. How many per friend?' Which operation?",
-    r5_q2_a: "Addition",
-    r5_q2_b: "Subtraction",
-    r5_q2_c: "Division",
-    r5_q2_d: "Multiplication",
-    r5_q3: "'A book costs 12 dollars. You have 20 dollars. How much change?' Answer?",
-    r5_q3_a: "32 dollars",
-    r5_q3_b: "8 dollars",
-    r5_q3_c: "12 dollars",
-    r5_q3_d: "20 dollars",
-    // Interactive block instructions & hints
-    t1_inst: "Read the problem. Identify what you know and what you need to find. Drag the blocks to match.",
-    t1_h1: "Look for 'action words' in the problem",
-    t1_h2: "Together, altogether = Add; left, remaining = Subtract",
-    t2_inst: "Arrange the steps in the correct order to solve a word problem.",
-    t2_h1: "Always: Read → Understand → Plan → Solve → Check",
-    t2_h2: "Each step builds on the one before",
-    t3_inst: "For each answer, combine the steps to verify your work.",
-    t3_h1: "Use the opposite operation to check",
-    t3_h2: "If you subtracted, add to verify. If you added, subtract to verify.",
+    explorer_title: "Word Problems Explorer",
+    t1_title: "Understanding the Story",
+    t1_text: "A word problem is a small story with a hidden math puzzle. To solve it, first identify what information you have and what you need to find out.",
+    t1_b1: "Read the story twice carefully",
+    t1_b2: "Draw a quick picture if it helps",
+    t1_b3: "Look for the final question",
+    t1_inst: "Combine blocks to solve: 4 friends have 6 stickers each. How many in total?",
+    t1_h1: "This is a multiplication problem: 4 groups of 6.",
+    t1_h2: "4 × 6 = 24. Combine four blocks of 6.",
+    t1_q: "Sarah has 50 coins. She spends 12. How many are left?",
+    t1_q_a: "62",
+    t1_q_b: "38",
+    t1_q_c: "40",
+    t1_q_d: "48",
+    t2_title: "Math Keywords",
+    t2_text: "Certain words give you clues about the operation. 'Sum' or 'Total' usually mean addition, while 'Difference' or 'Left' mean subtraction.",
+    t2_b1: "In all / Combined = Addition",
+    t2_b2: "Each / Per = Often Multiplication",
+    t2_b3: "Share / Split = Division",
+    t2_inst: "Find 45 on the number line: A bus had 60 people, 15 got off. How many left?",
+    t2_h1: "Subtract 15 from 60 (60 - 15).",
+    t2_h2: "60 minus 10 is 50, minus 5 more is 45.",
+    t2_q: "Which word usually points to subtraction?",
+    t2_q_a: "Total",
+    t2_q_b: "Difference",
+    t2_q_c: "Times",
+    t2_q_d: "Plus",
+    t3_title: "Checking & Estimation",
+    t3_text: "Before solving exactly, try to estimate. If you buy items for 48 and 51, your answer should be close to 100!",
+    t3_b1: "Round numbers to the nearest 10",
+    t3_b2: "Does the answer make sense?",
+    t3_b3: "Check your work with the opposite operation",
+    t3_inst: "Estimate 19 + 21 + 32 by combining blocks of 10!",
+    t3_h1: "Round them: 20 + 20 + 30 = 70.",
+    t3_h2: "Use seven 10-value blocks to show the estimate.",
+    t3_q: "Estimate 98 + 103. Which is the most sensible answer?",
+    t3_q_a: "100",
+    t3_q_b: "200",
+    t3_q_c: "300",
+    t3_q_d: "150",
   },
   de: {
-    explorer_title: "Sachaufgaben-Löser",
-    pv_start: "Start:",
-    pv_now: "Jetzt:",
-    pv_remove: "Entfernen",
-    pv_add: "Hinzufügen",
-    pv_answer: "Antwort",
-    ef_step1: "Schritt 1: Verstehen",
-    ef_know: "Was wissen wir?",
-    ef_step2: "Schritt 2: Operation wählen",
-    ef_op: "Addieren (+) oder Subtrahieren (−)?",
-    ef_step3: "Schritt 3: Gleichung schreiben",
-    ef_example: "Beispiel: 12 − 5 = 7",
-    ef_step4: "Schritt 4: Lösen",
-    ef_calc: "Antwort berechnen",
-    ef_step5: "Schritt 5: Überprüfen",
-    ef_sense: "Macht die Antwort Sinn?",
-    ef_step6: "Schritt 6: Antwort",
-    ef_sentence: "Schreib einen vollständigen Satz",
-    cw_solution: "Lösung:",
-    cw_had: "Hatte: 20 Äpfel",
-    cw_ate: "Aß: 7 Äpfel",
-    cw_check: "Überprüfung:",
-    cw_inverse: "(Gegenoperation)",
-    cw_verify: "Überprüfe deine Antwort immer!",
-    t1_title: "Lesen & Verstehen von Aufgaben",
-    t1_text: "Sachaufgaben beschreiben eine Situation in Worten. Um sie zu lösen, lies zuerst sorgfältig und verstehe: Was wissen wir? Was sollen wir finden? Beispiel: 'Maria hat 20 Äpfel. Sie isst 7. Wie viele sind übrig?'",
-    t1_inst: "Lies jede Aufgabe. Finde die Zahlen und die Aktion. Tippe die passende Operation.",
-    t1_b1: "Lies die Aufgabe langsam und sorgfältig",
-    t1_b2: "Erkenne, was du weißt und was du finden musst",
-    t1_b3: "Suche nach Zahlenschlüsseln und Aktionswörtern",
-    t1_h1: "Aktionswörter: 'insgesamt' = addieren, 'übrig' = subtrahieren, 'jedes' = teilen",
-    t1_h2: "Zahlenschlüssel: Zahlen im Satz sagen dir, womit du arbeitest",
-    t1_q: "Was bedeutet 'insgesamt' normalerweise?",
-    t1_q_add: "Addition (+)",
-    t1_q_sub: "Subtraktion (−)",
-    t1_q_mul: "Multiplikation (×)",
-    t1_q_div: "Division (÷)",
-    t2_title: "Schritte zum Lösen von Sachaufgaben",
-    t2_text: "Folge einem Prozess: (1) Verstehen – was ist gegeben und was wird gefragt? (2) Planen – welche Operation? (3) Lösen – schreibe Gleichung und berechne. (4) Überprüfen – macht die Antwort Sinn?",
-    t2_inst: "Ordne die Schritte zum Lösen einer Sachaufgabe in der richtigen Reihenfolge an.",
-    t2_b1: "Folge immer den gleichen Schritten",
-    t2_b2: "Schreib deine Gleichung zuerst auf",
-    t2_b3: "Überprüfe durch Gegenoperation",
-    t2_h1: "Die Lösungsmethode: Lesen → Verstehen → Wählen → Lösen → Überprüfen",
-    t2_h2: "Überspringe nie den Überprüfungsschritt! Dieser findet deine Fehler.",
-    t2_q: "Erster Schritt beim Lösen einer Sachaufgabe?",
-    t2_q_calc: "Anfangen zu berechnen",
-    t2_q_read: "Lesen und verstehen der Aufgabe",
-    t2_q_skip: "Zur Antwort springen",
-    t2_q_guess: "Eine Vermutung anstellen",
-    t3_title: "Überprüfung deiner Arbeit",
-    t3_text: "Nach dem Lösen, überprüfe deine Antwort. Nutze die gegenläufige Operation: Wenn du subtrahiert hast, versuche zu addieren. Wenn du multipliziert hast, versuche zu dividieren. Passt das Ergebnis zur ursprünglichen Information?",
-    t3_inst: "Nutze für jede Antwort die inverse Operation zum Überprüfen. Tippe oder klicke zum Verifizieren.",
-    t3_b1: "Nutze gegenläufige Operation zum Überprüfen",
-    t3_b2: "Frage, ob die Antwort Sinn macht",
-    t3_b3: "Schau zurück auf die ursprüngliche Aufgabe",
-    t3_h1: "Gegenoperationen: Addition ↔ Subtraktion, Multiplikation ↔ Division",
-    t3_h2: "Wenn deine Überprüfung nicht passt, hast du einen Fehler gemacht. Versuche nochmal!",
-    t3_q: "Um 18 ÷ 3 = 6 zu überprüfen, was würdest du tun?",
-    t3_q_mul: "Multipliziere 3 × 6",
-    t3_q_div: "Dividiere 18 ÷ 6",
-    t3_q_add: "Addiere 3 + 6",
-    t3_q_sub: "Subtrahiere 18 − 3",
-    r5_q1: "'Sam hat 15 Spielzeuge. Er bekommt 8 mehr. Wie viele hat er jetzt?' Welche Gleichung?",
-    r5_q1_a: "15 − 8",
-    r5_q1_b: "15 + 8",
-    r5_q1_c: "8 × 15",
-    r5_q1_d: "15 ÷ 8",
-    r5_q2: "'Es gibt 24 Kekse. 6 Freunde teilen gleich. Wie viele pro Freund?' Welche Operation?",
-    r5_q2_a: "Addition",
-    r5_q2_b: "Subtraktion",
-    r5_q2_c: "Division",
-    r5_q2_d: "Multiplikation",
-    r5_q3: "'Ein Buch kostet 12 Euro. Du hast 20 Euro. Wie viel Wechselgeld?' Antwort?",
-    r5_q3_a: "32 Euro",
-    r5_q3_b: "8 Euro",
-    r5_q3_c: "12 Euro",
-    r5_q3_d: "20 Euro",
-    // Interactive block instructions & hints
-    t1_inst: "Lies die Aufgabe. Erkenne, was du weißt und was du finden musst. Verschiebe die Blöcke zum Abgleich.",
-    t1_h1: "Suche nach 'Aktionswörtern' in der Aufgabe",
-    t1_h2: "Zusammen, insgesamt = Addieren; übrig, verbleibend = Subtrahieren",
-    t2_inst: "Ordne die Schritte zur Lösung einer Sachaufgabe in der richtigen Reihenfolge an.",
-    t2_h1: "Immer: Lesen → Verstehen → Planen → Lösen → Überprüfen",
-    t2_h2: "Jeder Schritt baut auf dem vorherigen auf",
-    t3_inst: "Kombiniere für jede Antwort die Schritte, um deine Arbeit zu überprüfen.",
-    t3_h1: "Nutze die Gegenoperation zur Überprüfung",
-    t3_h2: "Wenn du subtrahiert hast, addiere zur Überprüfung. Wenn du addiert hast, subtrahiere zur Überprüfung.",
+    explorer_title: "Sachaufgaben-Entdecker",
+    t1_title: "Die Geschichte verstehen",
+    t1_text: "Eine Sachaufgabe ist eine kleine Geschichte mit einem versteckten Mathe-Rätsel. Finde zuerst heraus, welche Informationen du hast.",
+    t1_b1: "Lies den Text zweimal genau durch",
+    t1_b2: "Skizziere die Aufgabe bei Bedarf",
+    t1_b3: "Achte auf die eigentliche Frage",
+    t1_inst: "4 Freunde haben je 6 Sticker. Wie viele sind es insgesamt?",
+    t1_h1: "Das ist eine Malaufgabe: 4 Gruppen von 6.",
+    t1_h2: "4 × 6 = 24. Kombiniere vier 6er-Blöcke.",
+    t1_q: "Sarah hat 50 Münzen. Sie gibt 12 aus. Wie viele bleiben?",
+    t1_q_a: "62",
+    t1_q_b: "38",
+    t1_q_c: "40",
+    t1_q_d: "48",
+    t2_title: "Mathe-Schlüsselwörter",
+    t2_text: "Bestimmte Wörter geben dir Hinweise. 'Insgesamt' bedeutet oft Plus, während 'Unterschied' oder 'Rest' oft Minus bedeutet.",
+    t2_b1: "Zusammen / Gesamt = Addition",
+    t2_b2: "Jeder / Pro = Meist Multiplikation",
+    t2_b3: "Teilen / Verteilen = Division",
+    t2_inst: "Im Bus waren 60 Leute, 15 stiegen aus. Wie viele sind noch da?",
+    t2_h1: "Rechne 60 minus 15.",
+    t2_h2: "60 - 10 = 50, dann noch 5 weg = 45.",
+    t2_q: "Welches Wort deutet auf eine Minusaufgabe hin?",
+    t2_q_a: "Gesamt",
+    t2_q_b: "Unterschied",
+    t2_q_c: "Mal",
+    t2_q_d: "Plus",
+    t3_title: "Schätzen & Prüfen",
+    t3_text: "Bevor du genau rechnest, schätze das Ergebnis. Wenn du Dinge für 48 és 51 kaufst, muss das Ergebnis nah bei 100 liegen!",
+    t3_b1: "Runde Zahlen auf den nächsten Zehner",
+    t3_b2: "Ist das Ergebnis sinnvoll?",
+    t3_b3: "Prüfe mit der Umkehraufgabe",
+    t3_inst: "Schätze 19 + 21 + 32 mit 10er-Blöcken!",
+    t3_h1: "Runde sie: 20 + 20 + 30 = 70.",
+    t3_h2: "Nutze sieben 10er-Blöcke für die Schätzung.",
+    t3_q: "Schätze 98 + 103. Welches Ergebnis ist am sinnvollsten?",
+    t3_q_a: "100",
+    t3_q_b: "200",
+    t3_q_c: "300",
+    t3_q_d: "150",
   },
   hu: {
-    explorer_title: "Szövegfeladat-Megoldó",
-    pv_start: "Kezdet:",
-    pv_now: "Most:",
-    pv_remove: "Eltávolít",
-    pv_add: "Hozzáad",
-    pv_answer: "Válasz",
-    ef_step1: "1. lépés: Megértés",
-    ef_know: "Mit tudunk?",
-    ef_step2: "2. lépés: Művelet kiválasztása",
-    ef_op: "Összeadás (+) vagy Kivonás (−)?",
-    ef_step3: "3. lépés: Egyenlet felírása",
-    ef_example: "Példa: 12 − 5 = 7",
-    ef_step4: "4. lépés: Megoldás",
-    ef_calc: "Válasz kiszámítása",
-    ef_step5: "5. lépés: Ellenőrzés",
-    ef_sense: "Értelmes-e a válasz?",
-    ef_step6: "6. lépés: Válasz",
-    ef_sentence: "Írj egy teljes mondatot",
-    cw_solution: "Megoldás:",
-    cw_had: "Volt: 20 alma",
-    cw_ate: "Megevett: 7 almát",
-    cw_check: "Ellenőrzés:",
-    cw_inverse: "(Ellentétes művelet)",
-    cw_verify: "Mindig ellenőrizd a válaszodat!",
-    t1_title: "Szövegfeladatok olvasása & megértése",
-    t1_text: "A szövegfeladatok szavakkal írják le a helyzetet. A megoldásukhoz először olvasd el gondosan és értsd meg: Mit tudunk? Mit kell találni? Például: 'Mariának 20 almája van. Megeszik 7-et. Hány van hátra?'",
-    t1_inst: "Olvasd el minden feladatot. Keress számokat és cselekvéseket. Kattints a megfelelő műveletre.",
-    t1_b1: "Olvasd el a feladatot lassan és gondosan",
-    t1_b2: "Ismerd fel, amit tudsz és mit kell találni",
-    t1_b3: "Keress számkulcsokat és cselekvési szavakat",
-    t1_h1: "Cselekvési szavak: 'összesen' = összeadás, 'hátra' = kivonás, 'mindegyik' = osztás",
-    t1_h2: "Számkulcsok: A mondatban szereplő számok azt mutatják, mivel kell dolgoznod",
-    t1_q: "Mit jelent általában az 'összesen'?",
-    t1_q_add: "Összeadás (+)",
-    t1_q_sub: "Kivonás (−)",
-    t1_q_mul: "Szorzás (×)",
-    t1_q_div: "Osztás (÷)",
-    t2_title: "Lépések szövegfeladatok megoldásához",
-    t2_text: "Kövesd a folyamatot: (1) Megértés – mit adtak és mit kérdeznek? (2) Terv – melyik művelet? (3) Megoldás – írd fel az egyenletet és számolj. (4) Ellenőrzés – értelmes-e a válasz?",
-    t2_inst: "Rendezd sorba a szövegfeladat megoldási lépéseket a helyes sorrendben!",
-    t2_b1: "Mindig ugyanazokat a lépéseket kövesd",
-    t2_b2: "Írd fel az egyenletedet először",
-    t2_b3: "Ellenőrizd az ellentétes műveletet",
-    t2_h1: "A megoldási módszer: Olvasd → Értsd meg → Válassz → Oldd meg → Ellenőrizd",
-    t2_h2: "Soha ne hagyd ki az ellenőrzési lépést! Ez talál meg a hibákat.",
-    t2_q: "Első lépés szövegfeladat megoldásakor?",
-    t2_q_calc: "Kezdj el számolni",
-    t2_q_read: "Olvasd és értsd meg a feladatot",
-    t2_q_skip: "Ugorj a válaszra",
-    t2_q_guess: "Tippelj",
-    t3_title: "Munkád Ellenőrzése",
-    t3_text: "Megoldás után ellenőrizd a válaszodat. Használd az ellentétes műveletet: Ha kivontál, próbálj összeadni. Ha szoroztál, próbálj osztani. Egyezik az eredmény az eredeti információval?",
-    t3_inst: "Minden válaszhoz használd az inverz műveletet az ellenőrzéshez. Kattints az ellenőrzéshez.",
-    t3_b1: "Ellentétes műveletet használj az ellenőrzéshez",
-    t3_b2: "Kérdezd meg, értelmes-e a válasz",
-    t3_b3: "Nézd vissza az eredeti feladatra",
-    t3_h1: "Ellentétes műveletek: Összeadás ↔ Kivonás, Szorzás ↔ Osztás",
-    t3_h2: "Ha az ellenőrzésed nem egyezik, hibát csináltál. Próbálj újra!",
-    t3_q: "18 ÷ 3 = 6 ellenőrzéséhez mit tennél?",
-    t3_q_mul: "Szorzás 3 × 6",
-    t3_q_div: "Osztás 18 ÷ 6",
-    t3_q_add: "Összeadás 3 + 6",
-    t3_q_sub: "Kivonás 18 − 3",
-    r5_q1: "'Sáminak 15 játéka van. 8-at kap még. Hány játéka van most?' Melyik egyenlet?",
-    r5_q1_a: "15 − 8",
-    r5_q1_b: "15 + 8",
-    r5_q1_c: "8 × 15",
-    r5_q1_d: "15 ÷ 8",
-    r5_q2: "'24 süti van. 6 barát egyenlően osztja meg. Hány mindenkinek?' Melyik művelet?",
-    r5_q2_a: "Összeadás",
-    r5_q2_b: "Kivonás",
-    r5_q2_c: "Osztás",
-    r5_q2_d: "Szorzás",
-    r5_q3: "'Egy könyv 12 forint. Van 20 forintod. Mennyi a visszajáró?' Válasz?",
-    r5_q3_a: "32 forint",
-    r5_q3_b: "8 forint",
-    r5_q3_c: "12 forint",
-    r5_q3_d: "20 forint",
-    // Interactive block instructions & hints
-    t1_inst: "Olvasd el a feladatot. Ismerd fel, amit tudsz és mit kell találni. Húzd a blokkokat az egyezéshez.",
-    t1_h1: "Keress 'cselekvési szavakat' a feladatban",
-    t1_h2: "Összesen, együtt = Összeadás; hátra, marad = Kivonás",
-    t2_inst: "Rendezd a szövegfeladat megoldási lépéseit a helyes sorrendbe!",
-    t2_h1: "Mindig: Olvasd → Értsd meg → Tervezz → Oldd meg → Ellenőrizd",
-    t2_h2: "Minden lépés az előző alapján épül",
-    t3_inst: "Minden válaszhoz kombinálj lépéseket a munkád ellenőrzéséhez.",
-    t3_h1: "Használd az ellentétes műveletet az ellenőrzéshez",
-    t3_h2: "Ha kivontál, összeadással ellenőrizz. Ha összeadtál, kivonással ellenőrizz.",
+    explorer_title: "Szöveges feladatok",
+    t1_title: "Értsd meg a történetet!",
+    t1_text: "A szöveges feladat egy kis történet, amiben egy matekfeladvány bújik meg. Először keresd meg az adatokat és a kérdést!",
+    t1_b1: "Olvasd el kétszer is a szöveget",
+    t1_b2: "Rajzold le, ha az segít",
+    t1_b3: "Keresd meg, mire irányul a kérdés",
+    t1_inst: "4 barátnak fejenként 6 matricája van. Hány matricájuk van összesen?",
+    t1_h1: "Ez egy szorzás: 4-szer a 6.",
+    t1_h2: "4 × 6 = 24. Vond össze a négy darab 6-os blokkot.",
+    t1_q: "Sárának 50 érméje van. Elkölt 12-t. Mennyi maradt neki?",
+    t1_q_a: "62",
+    t1_q_b: "38",
+    t1_q_c: "40",
+    t1_q_d: "48",
+    t2_title: "Matematikai hívószavak",
+    t2_text: "Bizonyos szavak segítenek a művelet kiválasztásában. Az 'összesen' általában összeadást, a 'különbség' vagy 'maradék' kivonást jelent.",
+    t2_b1: "Együtt / Összesen = Összeadás",
+    t2_b2: "Darabonként / Fejenként = Szorzás",
+    t2_b3: "Szétosztunk / Elosztunk = Osztás",
+    t2_inst: "A buszon 60-an voltak, 15-en leszálltak. Hányan maradtak?",
+    t2_h1: "Vond ki a 15-öt a 60-ból (60 - 15).",
+    t2_h2: "60-ból 10 az 50, abból még 5 az 45.",
+    t2_q: "Melyik szó utal általában kivonásra?",
+    t2_q_a: "Összesen",
+    t2_q_b: "Különbség",
+    t2_q_c: "Szorzata",
+    t2_q_d: "Meg",
+    t3_title: "Becslés és ellenőrzés",
+    t3_text: "Mielőtt pontosan számolnál, becsüld meg az eredményt! Ha 48 és 51 forintért veszel valamit, az összeg 100 körül lesz.",
+    t3_b1: "Kerekítsd a számokat a legközelebbi 10-esre",
+    t3_b2: "Reális a kapott eredmény?",
+    t3_b3: "Ellenőrizd a munkád fordított művelettel",
+    t3_inst: "Becsüld meg a 19 + 21 + 32 összeget 10-es blokkokkal!",
+    t3_h1: "Kerekíts: 20 + 20 + 30 = 70.",
+    t3_h2: "Használj hét darab 10-es blokkot a becsléshez.",
+    t3_q: "Becsüld meg: 98 + 103. Melyik a legésszerűbb válasz?",
+    t3_q_a: "100",
+    t3_q_b: "200",
+    t3_q_c: "300",
+    t3_q_d: "150",
   },
   ro: {
-    explorer_title: "Rezolvator de probleme cu cuvinte",
-    pv_start: "Început:",
-    pv_now: "Acum:",
-    pv_remove: "Înlătură",
-    pv_add: "Adaug",
-    pv_answer: "Răspuns",
-    ef_step1: "Pasul 1: Înțelege",
-    ef_know: "Ce știm?",
-    ef_step2: "Pasul 2: Alege operația",
-    ef_op: "Adunare (+) sau Scădere (−)?",
-    ef_step3: "Pasul 3: Scrie ecuația",
-    ef_example: "Exemplu: 12 − 5 = 7",
-    ef_step4: "Pasul 4: Rezolvă",
-    ef_calc: "Calculează răspunsul",
-    ef_step5: "Pasul 5: Verifică",
-    ef_sense: "Are sens răspunsul?",
-    ef_step6: "Pasul 6: Răspuns",
-    ef_sentence: "Scrie o propoziție completă",
-    cw_solution: "Soluție:",
-    cw_had: "Avea: 20 mere",
-    cw_ate: "A mâncat: 7 mere",
-    cw_check: "Verificare:",
-    cw_inverse: "(Operație inversă)",
-    cw_verify: "Verifică întotdeauna răspunsul tău!",
-    t1_title: "Citirea și înțelegerea problemelor",
-    t1_text: "Problemele cu cuvinte descriu o situație folosind cuvinte. Pentru a le rezolva, citește mai întâi atent și înțelege: Ce știm? Ce trebuie să găsim? Exemplu: 'Maria are 20 de mere. Mănâncă 7. Câte au rămas?'",
-    t1_inst: "Citește fiecare problemă. Găsește numerele și acțiunea. Apasă pe operația corectă.",
-    t1_b1: "Citește problema lent și atent",
-    t1_b2: "Identifică ce știi și ce trebuie să găsești",
-    t1_b3: "Caută indicii numerice și cuvinte de acțiune",
-    t1_h1: "Cuvinte de acțiune: 'total' = adunare, 'rămas' = scădere, 'fiecare' = împărțire",
-    t1_h2: "Indicii numerice: Numerele din problemă îți spun cu ce trebuie să lucrezi",
-    t1_q: "Ce înseamnă de obicei 'în total'?",
-    t1_q_add: "Adunare (+)",
-    t1_q_sub: "Scădere (−)",
-    t1_q_mul: "Înmulțire (×)",
-    t1_q_div: "Împărțire (÷)",
-    t2_title: "Pași pentru rezolvarea problemelor cu cuvinte",
-    t2_text: "Urmează un proces: (1) Înțelege – ce este dat și ce se întreabă? (2) Planifică – care operație? (3) Rezolvă – scrie ecuația și calculează. (4) Verifică – are sens răspunsul?",
-    t2_inst: "Ordonează pașii de rezolvare a unei probleme cu cuvinte în ordinea corectă!",
-    t2_b1: "Urmează mereu aceiași pași",
-    t2_b2: "Notează ecuația ta mai întâi",
-    t2_b3: "Verifică folosind operația inversă",
-    t2_h1: "Metoda de rezolvare: Citeste → Înțelege → Alege → Rezolvă → Verifică",
-    t2_h2: "Nu sări niciodată pasul de verificare! Aceasta găsește erorile.",
-    t2_q: "Primul pas la rezolvarea unei probleme cu cuvinte?",
-    t2_q_calc: "Începi să calculezi",
-    t2_q_read: "Citesc și înțeleg problema",
-    t2_q_skip: "Salt la răspuns",
-    t2_q_guess: "Fac o ghicire",
-    t3_title: "Verificarea muncii tale",
-    t3_text: "După rezolvare, verifică răspunsul. Folosește operația opusă: Dacă ai scăzut, încearcă să aduni. Dacă ai înmulțit, încearcă să împarți. Se potrivește rezultatul cu informația originală?",
-    t3_inst: "Pentru fiecare răspuns, folosește operația inversă pentru verificare. Apasă pentru a verifica.",
-    t3_b1: "Folosește operația opusă pentru verificare",
-    t3_b2: "Întreabă-te dacă răspunsul are sens",
-    t3_b3: "Uită-te înapoi la problema originală",
-    t3_h1: "Operații opuse: Adunare ↔ Scădere, Înmulțire ↔ Împărțire",
-    t3_h2: "Dacă verificarea nu se potrivește, ai făcut o greșeală. Încearcă din nou!",
-    t3_q: "Pentru a verifica 18 ÷ 3 = 6, ce ai face?",
-    t3_q_mul: "Înmulțește 3 × 6",
-    t3_q_div: "Împarte 18 ÷ 6",
-    t3_q_add: "Adună 3 + 6",
-    t3_q_sub: "Scade 18 − 3",
-    r5_q1: "'Sam are 15 jucării. Primește 8 mai multe. Câte are acum?' Care ecuație?",
-    r5_q1_a: "15 − 8",
-    r5_q1_b: "15 + 8",
-    r5_q1_c: "8 × 15",
-    r5_q1_d: "15 ÷ 8",
-    r5_q2: "'Sunt 24 de biscuiți. 6 prieteni împart egal. Câți pe prieten?' Care operație?",
-    r5_q2_a: "Adunare",
-    r5_q2_b: "Scădere",
-    r5_q2_c: "Împărțire",
-    r5_q2_d: "Înmulțire",
-    r5_q3: "'O carte costă 12 lei. Ai 20 lei. Cât rest?' Răspuns?",
-    r5_q3_a: "32 lei",
-    r5_q3_b: "8 lei",
-    r5_q3_c: "12 lei",
-    r5_q3_d: "20 lei",
-    // Interactive block instructions & hints
-    t1_inst: "Citește problema. Identifică ce știi și ce trebuie să găsești. Trage blocurile pentru a se potrivi.",
-    t1_h1: "Caută 'cuvinte de acțiune' în problemă",
-    t1_h2: "Total, împreună = Adunare; rămas, rămâne = Scădere",
-    t2_inst: "Ordonează pașii de rezolvare a unei probleme cu cuvinte în ordinea corectă!",
-    t2_h1: "Mereu: Citeste → Înțelege → Planifică → Rezolvă → Verifică",
-    t2_h2: "Fiecare pas se construiește pe cel anterior",
-    t3_inst: "Pentru fiecare răspuns, combină pașii pentru a-ți verifica munca.",
-    t3_h1: "Folosește operația inversă pentru verificare",
-    t3_h2: "Dacă ai scăzut, adună pentru a verifica. Dacă ai adunat, scade pentru a verifica.",
+    explorer_title: "Probleme cu text",
+    t1_title: "Înțelegerea poveștii",
+    t1_text: "O problemă cu text este o mică poveste cu o enigmă matematică. Identifică datele problemei și ce trebuie să afli.",
+    t1_b1: "Citește textul de două ori cu atenție",
+    t1_b2: "Desenează problema dacă te ajută",
+    t1_b3: "Caută întrebarea finală",
+    t1_inst: "4 prieteni au câte 6 stickere. Câte au în total?",
+    t1_h1: "Aceasta este o înmulțire: 4 grupe de 6.",
+    t1_h2: "4 × 6 = 24. Combină patru blocuri de 6.",
+    t1_q: "Sara are 50 de monede. Cheltuiește 12. Câte îi rămân?",
+    t1_q_a: "62",
+    t1_q_b: "38",
+    t1_q_c: "40",
+    t1_q_d: "48",
+    t2_title: "Cuvinte cheie",
+    t2_text: "Anumite cuvinte îți oferă indicii. 'Total' înseamnă adunare, iar 'diferență' sau 'rest' înseamnă scădere.",
+    t2_b1: "În total / Împreună = Adunare",
+    t2_b2: "Fiecare / Per = Deseori înmulțire",
+    t2_b3: "Distribuit / Împărțit = Împărțire",
+    t2_inst: "În autobuz erau 60 de oameni, 15 au coborât. Câți au rămas?",
+    t2_h1: "Scade 15 din 60 (60 - 15).",
+    t2_h2: "60 minus 10 fac 50, minus încă 5 fac 45.",
+    t2_q: "Care cuvânt indică de obicei o scădere?",
+    t2_q_a: "Total",
+    t2_q_b: "Diferență",
+    t2_q_c: "Ori",
+    t2_q_d: "Plus",
+    t3_title: "Estimare și verificare",
+    t3_text: "Înainte de a calcula exact, estimează rezultatul. Dacă cumperi ceva de 48 și 51, rezultatul trebuie să fie aproape de 100!",
+    t3_b1: "Rotunjește numerele la zeci",
+    t3_b2: "Are sens rezultatul obținut?",
+    t3_b3: "Verifică prin operația inversă",
+    t3_inst: "Estimează 19 + 21 + 32 folosind blocuri de 10!",
+    t3_h1: "Rotunjește: 20 + 20 + 30 = 70.",
+    t3_h2: "Folosește șapte blocuri de 10 pentru estimare.",
+    t3_q: "Estimează 98 + 103. Care este cel mai logic răspuns?",
+    t3_q_a: "100",
+    t3_q_b: "200",
+    t3_q_c: "300",
+    t3_q_d: "150",
   },
 };
 
-// ─── TOPICS (converted to topic mode) ──────────────────────────────────────
+// ─── TOPIC DEFINÍCIÓK ────────────────────────────────────────────────
 
 const TOPICS: TopicDef[] = [
-  // Topic 1: Reading & Understanding Problems
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: (lang: string) => <ProblemVisualizationSvg scenario="apples" initial={20} operation="remove" amount={7} lang={lang} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [1, 1, 1],
-      answer: 1,
-      blockIcon: "📖",
-      blockColor: "#FF9A56",
+      groups: [6, 6, 6, 6],
+      answer: 24,
+      blockIcon: "🏷️",
       instruction: "t1_inst",
       hint1: "t1_h1",
       hint2: "t1_h2",
     },
     quiz: {
       question: "t1_q",
-      choices: ["t1_q_add", "t1_q_sub", "t1_q_mul", "t1_q_div"],
-      answer: "t1_q_add",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_b",
     },
   },
-
-  // Topic 2: Problem-Solving Steps
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang: string) => <EquationFormatSvg lang={lang} />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
-      type: "block-drag",
-      mode: "combine",
-      groups: [1, 1, 1, 1, 1],
-      answer: 2,
-      blockIcon: "📝",
-      blockColor: "#8B5CF6",
+      type: "number-line",
+      min: 0,
+      max: 60,
+      start: 60,
+      target: 45,
+      step: 5,
+      showJumps: true,
+      jumpCount: 3,
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
     },
     quiz: {
       question: "t2_q",
-      choices: ["t2_q_calc", "t2_q_read", "t2_q_skip", "t2_q_guess"],
-      answer: "t2_q_read",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_b",
     },
   },
-
-  // Topic 3: Checking & Verifying
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang: string) => <CheckWorkSvg lang={lang} />,
+    svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
       mode: "combine",
-      groups: [1, 1, 1],
-      answer: 0,
-      blockIcon: "✓",
-      blockColor: "#10B981",
+      groups: [2, 2, 3], // Representing rounded 20, 20, 30
+      answer: 7, // 7 blocks of 10
+      blockIcon: "🔟",
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
     },
     quiz: {
       question: "t3_q",
-      choices: ["t3_q_mul", "t3_q_div", "t3_q_add", "t3_q_sub"],
-      answer: "t3_q_mul",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_b",
     },
   },
 ];
 
-// ─── EXPLORER DEFINITION ───────────────────────────────────────────────────
+// ─── EXPLORER DEFINÍCIÓ ──────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
   icon: "📖",
@@ -670,24 +329,18 @@ const EXPLORER_DEF: ExplorerDef = {
   rounds: [],
 };
 
-// ─── WRAPPER COMPONENT ─────────────────────────────────────────────────────
+// ─── EXPORT ──────────────────────────────────────────────────────────
 
-interface Props {
+const WordProblemsExplorer4 = memo(function WordProblemsExplorer4({
+  color = "#F59E0B",
+  onDone,
+  lang = "en",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+}) {
+  return <ExplorerEngine def={DEF} grade={4} explorerId="math_g4_wordproblems" color={color} lang={lang} onDone={onDone} />;
+});
 
-export default function WordProblemExplorer4({ color = "#EF4444", lang, onDone, onClose }: Props) {
-  return (
-    <ExplorerEngine
-      def={EXPLORER_DEF}
-      color={color}
-      lang={lang}
-      onDone={onDone}
-      onClose={onClose}
-      grade={4}
-    />
-  );
-}
+export default WordProblemsExplorer4;

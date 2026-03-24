@@ -345,24 +345,18 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
+      mode: "combine",
+      groups: [3, 4, 7],
+      answer: 347,
+      blockIcon: "🔢",
       instruction: "t1_inst",
-      hints: ["t1_h1", "t1_h2"],
-      config: {
-        blocks: [
-          { type: "hundred", count: 5, color: "#B44DFF" },
-          { type: "ten", count: 3, color: "#FF6B6B" },
-          { type: "one", count: 2, color: "#FFD700" },
-        ],
-      },
+      hint1: "t1_h1",
+      hint2: "t1_h2",
     },
     quiz: {
-      questions: [
-        {
-          question: "t1_q",
-          choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
-          answer: "t1_q_268",
-        },
-      ],
+      question: "t1_q",
+      choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
+      answer: "t1_q_268",
     },
   },
 
@@ -374,24 +368,18 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
+      mode: "combine",
+      groups: [5, 3, 4],
+      answer: 534,
+      blockIcon: "🔢",
       instruction: "t2_inst",
-      hints: ["t2_h1", "t2_h2"],
-      config: {
-        blocks: [
-          { type: "hundred", count: 4, color: "#B44DFF" },
-          { type: "ten", count: 0, color: "#FF6B6B" },
-          { type: "one", count: 7, color: "#FFD700" },
-        ],
-      },
+      hint1: "t2_h1",
+      hint2: "t2_h2",
     },
     quiz: {
-      questions: [
-        {
-          question: "t2_q",
-          choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
-          answer: "t2_q_500_20",
-        },
-      ],
+      question: "t2_q",
+      choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
+      answer: "t2_q_500_20",
     },
   },
 
@@ -403,33 +391,19 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
+      min: 0,
+      max: 400,
+      start: 0,
+      target: 275,
+      step: 10,
       instruction: "t3_inst",
-      hints: ["t3_h1", "t3_h2"],
-      config: {
-        min: 0,
-        max: 400,
-        target: 275,
-        stepSize: 10,
-      },
+      hint1: "t3_h1",
+      hint2: "t3_h2",
     },
     quiz: {
-      questions: [
-        {
-          question: "t3_q",
-          choices: ["t3_q_250", "t3_q_350", "t3_q_150", "t3_q_450"],
-          answer: "t3_q_350",
-        },
-        {
-          question: "t1_q",
-          choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
-          answer: "t1_q_268",
-        },
-        {
-          question: "t2_q",
-          choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
-          answer: "t2_q_500_20",
-        },
-      ],
+      question: "t3_q",
+      choices: ["t3_q_250", "t3_q_350", "t3_q_150", "t3_q_450"],
+      answer: "t3_q_350",
     },
   },
 ];

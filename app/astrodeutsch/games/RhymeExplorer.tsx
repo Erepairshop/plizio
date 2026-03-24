@@ -121,8 +121,8 @@ const RHYME_CHECK_POOL: { word1: string; word2: string; rhymes: boolean }[] = [
   { word1: "Ball", word2: "Baum", rhymes: false },
   { word1: "Nacht", word2: "acht", rhymes: true },
   { word1: "Hose", word2: "Rose", rhymes: true },
-  { word1: "Bett", word2: "Nett", rhymes: true },
-  { word1: "Zeit", word2: "Weit", rhymes: true },
+  { word1: "Bett", word2: "nett", rhymes: true },
+  { word1: "Zeit", word2: "weit", rhymes: true },
   { word1: "Tisch", word2: "Schule", rhymes: false },
   { word1: "Fest", word2: "Rest", rhymes: true },
   { word1: "Fenster", word2: "Hammer", rhymes: false },
@@ -136,9 +136,9 @@ const FIND_RHYME_POOL: { word: string; choices: string[]; answer: string }[] = [
   { word: "Nacht", choices: ["Tag", "acht", "Schule"], answer: "acht" },
   { word: "Hund", choices: ["Maus", "Mund", "Tisch"], answer: "Mund" },
   { word: "Herz", choices: ["Schmerz", "Hand", "Fuß"], answer: "Schmerz" },
-  { word: "Zeit", choices: ["Welt", "Weit", "Freund"], answer: "Weit" },
-  { word: "Licht", choices: ["Nacht", "Lacht", "Hand"], answer: "Lacht" },
-  { word: "Fest", choices: ["Rest", "Fest", "Best"], answer: "Rest" },
+  { word: "Zeit", choices: ["Welt", "weit", "Freund"], answer: "weit" },
+  { word: "Licht", choices: ["Nacht", "nicht", "Hand"], answer: "nicht" },
+  { word: "Fest", choices: ["Rest", "Hund", "Baum"], answer: "Rest" },
 ];
 
 // Round 3: verb + emoji (doubled pool)
