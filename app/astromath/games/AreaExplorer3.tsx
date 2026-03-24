@@ -377,7 +377,7 @@ const EXPLORER_DEF: ExplorerDef = {
       interactive: {
         type: "block-drag",
         mode: "combine",
-        groups: [4, 3],
+        groups: [3, 3, 3, 3],
         answer: 12,
         blockIcon: "🟦",
         instruction: "t1_inst",
@@ -424,7 +424,7 @@ const EXPLORER_DEF: ExplorerDef = {
       interactive: {
         type: "block-drag",
         mode: "combine",
-        groups: [4, 4],
+        groups: [4, 4, 4, 4],
         answer: 16,
         blockIcon: "🟩",
         instruction: "t3_inst",
