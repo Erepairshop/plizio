@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/17wz~ah1ct53v.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"sachkunde-test","param":null,"prefetchHints":0,"slots":{"children":{"name":"klasse-4","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"e-qvYpjpvuICRCay2PiMI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"sachkunde-test","param":null,"prefetchHints":0,"slots":{"children":{"name":"klasse-4","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"1dCfocziQUkGOlr6CRXXN"}
