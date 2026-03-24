@@ -1,608 +1,379 @@
 "use client";
-// RespirationExplorer — Island i2: Respiration (Atmung) Grade 6
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Respiratory organs, alveoli, gas exchange, breathing mechanics
+// RespirationExplorer.tsx — Bio Island i7: Légzés (K6)
+// Topics: 1) Légutak 2) Légzőmozgások 3) Gázcsere 4) Sejtlégzés 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { LungsSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#E0F2FE" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="10" fontSize="35" textAnchor="middle">🌬️</text>
+        <path d="M -20,0 L 20,0" stroke="#0284C7" strokeWidth="4" markerEnd="url(#arrow)" />
+        <text x="40" y="10" fontSize="35" textAnchor="middle">🫁</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FCE7F3" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-30" y="15" fontSize="40" textAnchor="middle">🫧</text>
+        <path d="M -10,-10 Q 0,-30 10,-10" fill="none" stroke="#E11D48" strokeWidth="3" markerEnd="url(#arrow)" />
+        <path d="M 10,10 Q 0,30 -10,10" fill="none" stroke="#64748B" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="30" y="15" fontSize="40" textAnchor="middle">🩸</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF3C7" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="40" textAnchor="middle">🦠</text>
+        <text x="0" y="15" fontSize="30" textAnchor="middle">➕</text>
+        <text x="40" y="15" fontSize="40" textAnchor="middle">⚡</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🫁</text>
+        <text x="25" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "A Légzőrendszer",
+    // T1: Légutak
+    t1_title: "A levegő útja",
+    t1_text: "A légzőrendszer feladata, hogy oxigénben gazdag levegőt juttasson a szervezetbe. A levegő az orrüregtől a tüdőig hosszú utat tesz meg.",
+    t1_b1: "Orrüreg: itt a levegő felmelegszik, párásodik és megtisztul.",
+    t1_b2: "Gége és légcső: a levegőt a tüdő felé vezetik.",
+    t1_b3: "Főhörgők: a légcső két ágra bomlik, bevezetve a két tüdőfélbe.",
+    t1_inst: "Tedd sorba a mondat szavait!",
+    t1_w1: "A", t1_w2: "levegő", t1_w3: "a", t1_w4: "légcsövön", t1_w5: "át", t1_w6: "áramlik.",
+    t1_q: "Miért jobb az orrunkon át lélegezni, mint a szánkon?",
+    t1_q_a: "Mert az orrüreg felmelegíti és megtisztítja a levegőt.", t1_q_b: "Mert gyorsabban jut be az oxigén.", t1_q_c: "Mert a szánkon csak szén-dioxid jön ki.", t1_q_d: "Mert a szájban nincs levegő.",
+
+    // T2: Légzőmozgások
+    t2_title: "Be- és kilégzés",
+    t2_text: "A tüdőnek nincsenek saját izmai. A légzést a mellkas izmai és egy nagy, kupola alakú izom, a rekeszizom végzi.",
+    t2_b1: "Belégzés: a rekeszizom lelapul, a mellkas tágul, levegő áramlik be.",
+    t2_b2: "Kilégzés: a rekeszizom elernyed (feldomborodik), a levegő kipréselődik.",
+    t2_b3: "Percenként átlagosan 14-16 alkalommal veszünk levegőt.",
+    t2_inst: "Belégzés vagy Kilégzés? Válogasd szét a folyamatokat!",
+    t2_bucket_be: "Belégzés",
+    t2_bucket_ki: "Kilégzés",
+    t2_item_b1: "Mellkas tágul", t2_item_b2: "Rekeszizom lelapul",
+    t2_item_k1: "Mellkas szűkül", t2_item_k2: "Levegő távozik",
+    t2_q: "Melyik izom játssza a legfőbb szerepet a légzésben?",
+    t2_q_a: "A rekeszizom", t2_q_b: "A szívizom", t2_q_c: "A hasizom", t2_q_d: "A nyelvizom",
+
+    // T3: Gázcsere
+    t3_title: "Gázcsere a tüdőben",
+    t3_text: "A tüdő belsejében apró léghólyagocskák (alveolusok) találhatók, melyeket hajszálerek vesznek körül. Itt történik a csoda: a gázcsere.",
+    t3_b1: "Az oxigén a hólyagocskákból átlép a vérbe.",
+    t3_b2: "A vérből a szén-dioxid átlép a hólyagocskákba, majd kilélegezzük.",
+    t3_b3: "A tüdő hatalmas belső felülete teszi ezt olyan hatékonnyá.",
+    t3_inst: "Párosítsd az anyagot az irányával a tüdőben!",
+    t3_l1: "Oxigén", t3_r1: "Be a véráramba",
+    t3_l2: "Szén-dioxid", t3_r2: "Ki a tüdőbe (majd a levegőbe)",
+    t3_l3: "Tüdőhólyagocska", t3_r3: "A gázcsere helyszíne",
+    t3_q: "Hol történik a tényleges gázcsere a tüdőben?",
+    t3_q_a: "A tüdőhólyagocskákban", t3_q_b: "A légcsőben", t3_q_c: "A gégében", t3_q_d: "Az orrüregben",
+
+    // T4: Sejtlégzés
+    t4_title: "A sejtlégzés: az élet motorja",
+    t4_text: "Miért van szükségünk oxigénre? A válasz a sejtekben rejlik. A légzés végső célja az energiatermelés.",
+    t4_b1: "A vér az oxigént a test minden sejtjéhez elszállítja.",
+    t4_b2: "A sejtek az oxigént a tápanyagok (cukrok) elégetésére használják.",
+    t4_b3: "Ebből a folyamatból nyer energiát a szervezetünk.",
+    t4_inst: "Mit termelnek a sejtek az oxigén segítségével?",
+    t4_gap_sentence: "A sejtek az oxigén felhasználásával {gap} termelnek az életben maradáshoz.",
+    t4_c1: "energiát", t4_c2: "fényt", t4_c3: "hangot",
+    t4_q: "Mi a légzés végső, legfontosabb célja a szervezetben?",
+    t4_q_a: "Energiatermelés a sejtekben", t4_q_b: "A vér lehűtése", t4_q_c: "A hangképzés", t4_q_d: "A tüdő kitágítása",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod a légzésről és az oxigén útjáról!",
+    t5_b1: "A levegő az orron át jut a légcsőbe, majd a tüdőbe.",
+    t5_b2: "A rekeszizom működteti a tüdőt.",
+    t5_b3: "A cél az oxigén bejuttatása és a CO2 eltávolítása.",
+    t5_inst: "Hová szállítja a vér az oxigént?",
+    t5_gap_sentence2: "A tüdőből felvett oxigént a vér a {gap} szállítja.",
+    t5_c51: "sejtekhez", t5_c52: "gyomorba", t5_c53: "levegőbe",
+    t5_q: "Melyik gázt lélegezzük ki a legnagyobb arányban a felsoroltak közül az oxigénhez képest?",
+    t5_q_a: "Szén-dioxidot", t5_q_b: "Oxigént", t5_q_c: "Héliumot", t5_q_d: "Hidrogént",
+  },
   en: {
-    // Round 1: Respiratory Organs
-    r1_title: "The Respiratory System",
-    r1_text: "Our body needs oxygen to survive. The respiratory system brings oxygen in and removes carbon dioxide out.",
-    r1_fact1: "Nose filters and warms the air before it enters",
-    r1_fact2: "Trachea (windpipe) carries air down into the chest",
-    r1_fact3: "Bronchi branch into the left and right lungs",
-    r1_fact4: "Lungs are spongy organs where gas exchange happens",
+    explorer_title: "The Respiratory System",
+    t1_title: "Path of the Air", t1_text: "The respiratory system brings oxygen-rich air into the body. The air travels a long path from the nasal cavity to the lungs.",
+    t1_b1: "Nasal cavity: warms, moistens, and filters the air.", t1_b2: "Larynx and trachea: guide the air toward the lungs.", t1_b3: "Bronchi: the trachea splits into two branches entering the lungs.",
+    t1_inst: "Put the words in order!", t1_w1: "Air", t1_w2: "flows", t1_w3: "through", t1_w4: "the", t1_w5: "windpipe.", t1_w6: "",
+    t1_q: "Why is it better to breathe through our nose than our mouth?", t1_q_a: "Because the nasal cavity warms and cleans the air.", t1_q_b: "Because oxygen enters faster.", t1_q_c: "Because the mouth only exhales carbon dioxide.", t1_q_d: "Because there is no air in the mouth.",
 
-    // Round 2: Alveoli
-    r2_title: "Alveoli: Tiny Air Sacs",
-    r2_text: "Inside the lungs are millions of tiny air sacs called alveoli. They are surrounded by blood capillaries for gas exchange.",
-    r2_fact1: "Each alveolus is surrounded by a network of tiny blood vessels (capillaries)",
-    r2_fact2: "Alveoli have a very thin wall — only one cell thick — for easy gas exchange",
-    r2_fact3: "The large surface area allows oxygen to pass into the blood efficiently",
-    r2_fact4: "Carbon dioxide from the blood diffuses into the alveoli to be exhaled",
+    t2_title: "Breathing Movements", t2_text: "The lungs don't have their own muscles. Breathing is done by chest muscles and a large, dome-shaped muscle called the diaphragm.",
+    t2_b1: "Inhalation: the diaphragm flattens, chest expands, air rushes in.", t2_b2: "Exhalation: the diaphragm relaxes (domes up), air is pushed out.", t2_b3: "We take about 14-16 breaths per minute on average.",
+    t2_inst: "Inhalation or Exhalation? Sort the processes!",
+    t2_bucket_be: "Inhalation", t2_bucket_ki: "Exhalation",
+    t2_item_b1: "Chest expands", t2_item_b2: "Diaphragm flattens",
+    t2_item_k1: "Chest shrinks", t2_item_k2: "Air leaves",
+    t2_q: "Which muscle plays the biggest role in breathing?", t2_q_a: "The diaphragm", t2_q_b: "The heart muscle", t2_q_c: "The abdominal muscle", t2_q_d: "The tongue muscle",
 
-    // Round 3: Gas Exchange
-    r3_title: "Gas Exchange in the Lungs",
-    r3_text: "When you breathe in, oxygen enters the alveoli and diffuses into the blood. At the same time, carbon dioxide moves from blood to alveoli.",
-    r3_fact1: "Oxygen (O₂) diffuses from alveoli → into capillary blood",
-    r3_fact2: "Carbon dioxide (CO₂) diffuses from capillary blood → into alveoli",
-    r3_fact3: "Red blood cells carry oxygen to body cells and pick up CO₂",
-    r3_fact4: "This exchange happens continuously with every breath",
+    t3_title: "Gas Exchange", t3_text: "Inside the lungs are tiny air sacs (alveoli) surrounded by capillaries. This is where the magic happens: gas exchange.",
+    t3_b1: "Oxygen moves from the air sacs into the blood.", t3_b2: "Carbon dioxide moves from the blood into the air sacs to be exhaled.", t3_b3: "The huge internal surface of the lungs makes this very efficient.",
+    t3_inst: "Match the substance to its direction in the lungs!",
+    t3_l1: "Oxygen", t3_r1: "Into the bloodstream", t3_l2: "Carbon dioxide", t3_r2: "Out into the lungs (then air)", t3_l3: "Alveoli (Air sacs)", t3_r3: "Site of gas exchange",
+    t3_q: "Where does the actual gas exchange happen in the lungs?", t3_q_a: "In the alveoli (air sacs)", t3_q_b: "In the trachea", t3_q_c: "In the larynx", t3_q_d: "In the nasal cavity",
 
-    // Round 4: Breathing Mechanics
-    r4_title: "How Breathing Works",
-    r4_text: "Breathing is controlled by the diaphragm, a muscle below your lungs. When it contracts, it pulls air in. When it relaxes, air goes out.",
-    r4_fact1: "Diaphragm muscle contracts (tightens) → lungs expand → air flows in (inhale)",
-    r4_fact2: "Diaphragm muscle relaxes → lungs shrink → air flows out (exhale)",
-    r4_fact3: "Rib cage muscles also help by lifting the ribs during inhalation",
-    r4_fact4: "We breathe about 15-20 times per minute at rest",
+    t4_title: "Cellular Respiration", t4_text: "Why do we need oxygen? The answer lies in the cells. The ultimate goal of breathing is energy production.",
+    t4_b1: "The blood carries oxygen to every cell in the body.", t4_b2: "Cells use oxygen to 'burn' nutrients (like sugar).", t4_b3: "This process provides energy for our body to live.",
+    t4_inst: "What do cells produce using oxygen?", t4_gap_sentence: "Cells use oxygen to produce {gap} in order to survive.",
+    t4_c1: "energy", t4_c2: "light", t4_c3: "sound",
+    t4_q: "What is the ultimate, most important goal of breathing?", t4_q_a: "Energy production in the cells", t4_q_b: "Cooling down the blood", t4_q_c: "Producing voice", t4_q_d: "Expanding the lungs",
 
-    // Round 5: Quiz
-    r5_title: "Quick Review",
-
-    // Quiz Questions (3 questions)
-    q1_q: "Where is most of the gas exchange in the respiratory system?",
-    q1_lungs: "In the lungs (alveoli)",
-    q1_trachea: "In the trachea",
-    q1_nose: "In the nose",
-    q1_bronchi: "In the bronchi",
-
-    q2_q: "What is the main function of the diaphragm?",
-    q2_contract: "To contract and relax, moving air in and out of lungs",
-    q2_filter: "To filter harmful particles from air",
-    q2_warm: "To warm the incoming air",
-    q2_pump: "To pump blood around the body",
-
-    q3_q: "Which gas do we exhale (breathe out)?",
-    q3_co2: "Mostly carbon dioxide (CO₂)",
-    q3_o2: "Mostly oxygen (O₂)",
-    q3_nitrogen: "Mostly nitrogen",
-    q3_hydrogen: "Mostly hydrogen",
-
-    // Round 3 MCQ (Gas Exchange)
-    r3_q: "In the alveoli, which direction does oxygen move?",
-    r3_q_alveolus_to_blood: "From alveolus into the blood",
-    r3_q_blood_to_alveolus: "From blood into the alveolus",
-    r3_q_stays: "It stays in the alveolus",
-    r3_q_brain: "It goes directly to the brain",
-
-    // Round 4 MCQ (Breathing Mechanics)
-    r4_q: "What happens when the diaphragm contracts?",
-    r4_contract_in: "Lungs expand and air flows in (inhale)",
-    r4_contract_out: "Lungs shrink and air flows out (exhale)",
-    r4_contract_stop: "Breathing stops temporarily",
-    r4_contract_pump: "It pumps blood faster",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about breathing and the path of oxygen!",
+    t5_b1: "Air goes through the nose, windpipe, to the lungs.", t5_b2: "The diaphragm operates the lungs.", t5_b3: "The goal is getting O2 in and CO2 out.",
+    t5_inst: "Where does the blood transport the oxygen?", t5_gap_sentence2: "Oxygen taken from the lungs is carried by the blood to the {gap}.",
+    t5_c51: "cells", t5_c52: "stomach", t5_c53: "air",
+    t5_q: "Which gas do we exhale in a much higher proportion compared to what we inhaled?", t5_q_a: "Carbon dioxide", t5_q_b: "Oxygen", t5_q_c: "Helium", t5_q_d: "Hydrogen",
   },
   de: {
-    r1_title: "Das Atmungssystem",
-    r1_text: "Unser Körper braucht Sauerstoff zum Überleben. Das Atmungssystem bringt Sauerstoff rein und Kohlendioxid raus.",
-    r1_fact1: "Die Nase filtert und wärmt die Luft auf, bevor sie eindringt",
-    r1_fact2: "Luftröhre (Trachea) führt Luft in die Brust",
-    r1_fact3: "Bronchien verzweigen sich in die linke und rechte Lunge",
-    r1_fact4: "Lungen sind schwammige Organe, wo der Gasaustausch stattfindet",
+    explorer_title: "Das Atmungssystem",
+    t1_title: "Weg der Luft", t1_text: "Das Atmungssystem bringt sauerstoffreiche Luft in den Körper. Die Luft legt einen langen Weg von der Nasenhöhle zur Lunge zurück.",
+    t1_b1: "Nasenhöhle: wärmt, befeuchtet und reinigt die Luft.", t1_b2: "Kehlkopf und Luftröhre: leiten die Luft zur Lunge.", t1_b3: "Bronchien: die Luftröhre teilt sich in zwei Äste, die in die Lunge führen.",
+    t1_inst: "Bringe die Wörter in die richtige Reihenfolge!", t1_w1: "Die", t1_w2: "Luft", t1_w3: "strömt", t1_w4: "durch", t1_w5: "die", t1_w6: "Luftröhre.",
+    t1_q: "Warum ist es besser, durch die Nase statt durch den Mund zu atmen?", t1_q_a: "Weil die Nase die Luft wärmt und reinigt.", t1_q_b: "Weil Sauerstoff schneller reinkommt.", t1_q_c: "Weil der Mund nur Kohlendioxid ausatmet.", t1_q_d: "Weil im Mund keine Luft ist.",
 
-    r2_title: "Alveolen: Winzige Luftsäcke",
-    r2_text: "In den Lungen sind Millionen von winzigen Luftsäcken, sogenannte Alveolen. Sie sind von Blutkapillaren für den Gasaustausch umgeben.",
-    r2_fact1: "Jede Alveole ist von einem Netzwerk von winzigen Blutgefäßen (Kapillaren) umgeben",
-    r2_fact2: "Alveolen haben eine sehr dünne Wand — nur eine Zelle dick — für leichten Gasaustausch",
-    r2_fact3: "Die große Oberfläche ermöglicht den effizienten Sauerstoffübergang in das Blut",
-    r2_fact4: "Kohlendioxid aus dem Blut diffundiert in die Alveolen, um ausgeamtet zu werden",
+    t2_title: "Atembewegungen", t2_text: "Die Lunge hat keine eigenen Muskeln. Die Atmung wird durch die Brustmuskulatur und das Zwerchfell (ein großer Kuppelmuskel) gesteuert.",
+    t2_b1: "Einatmen: das Zwerchfell flacht ab, der Brustkorb weitet sich, Luft strömt ein.", t2_b2: "Ausatmen: das Zwerchfell entspannt (wölbt sich), die Luft wird herausgepresst.", t2_b3: "Wir atmen im Durchschnitt 14-16 Mal pro Minute.",
+    t2_inst: "Einatmen oder Ausatmen? Sortiere die Vorgänge!",
+    t2_bucket_be: "Einatmen", t2_bucket_ki: "Ausatmen",
+    t2_item_b1: "Brustkorb weitet sich", t2_item_b2: "Zwerchfell flacht ab",
+    t2_item_k1: "Brustkorb verengt sich", t2_item_k2: "Luft strömt aus",
+    t2_q: "Welcher Muskel spielt die größte Rolle bei der Atmung?", t2_q_a: "Das Zwerchfell", t2_q_b: "Der Herzmuskel", t2_q_c: "Die Bauchmuskeln", t2_q_d: "Der Zungenmuskel",
 
-    r3_title: "Gasaustausch in der Lunge",
-    r3_text: "Wenn du einatmest, tritt Sauerstoff in die Alveolen ein und diffundiert in das Blut. Gleichzeitig bewegt sich Kohlendioxid vom Blut in die Alveolen.",
-    r3_fact1: "Sauerstoff (O₂) diffundiert von Alveolen → in kapillares Blut",
-    r3_fact2: "Kohlendioxid (CO₂) diffundiert von kapillärem Blut → in Alveolen",
-    r3_fact3: "Rote Blutkörperchen transportieren Sauerstoff zu Körperzellen und nehmen CO₂ auf",
-    r3_fact4: "Dieser Austausch findet mit jedem Atemzug kontinuierlich statt",
+    t3_title: "Gasaustausch", t3_text: "In der Lunge befinden sich winzige Lungenbläschen (Alveolen), die von Kapillaren umgeben sind. Hier geschieht der Gasaustausch.",
+    t3_b1: "Sauerstoff wandert aus den Bläschen ins Blut.", t3_b2: "Kohlendioxid wandert aus dem Blut in die Bläschen zum Ausatmen.", t3_b3: "Die riesige innere Oberfläche der Lunge macht dies so effizient.",
+    t3_inst: "Verbinde den Stoff mit seiner Richtung in der Lunge!",
+    t3_l1: "Sauerstoff", t3_r1: "Ins Blut hinein", t3_l2: "Kohlendioxid", t3_r2: "In die Lunge (zum Ausatmen)", t3_l3: "Lungenbläschen", t3_r3: "Ort des Gasaustauschs",
+    t3_q: "Wo findet der eigentliche Gasaustausch in der Lunge statt?", t3_q_a: "In den Lungenbläschen", t3_q_b: "In der Luftröhre", t3_q_c: "Im Kehlkopf", t3_q_d: "In der Nasenhöhle",
 
-    r4_title: "Wie das Atmen funktioniert",
-    r4_text: "Das Atmen wird durch das Zwerchfell kontrolliert, einen Muskel unterhalb der Lungen. Wenn es sich zusammenzieht, zieht es Luft ein. Wenn es sich entspannt, geht Luft aus.",
-    r4_fact1: "Zwerchfell zieht sich zusammen (spannt) → Lungen dehnen sich aus → Luft fließt rein (Einatmen)",
-    r4_fact2: "Zwerchfell entspannt sich → Lungen schrumpfen → Luft fließt raus (Ausatmen)",
-    r4_fact3: "Rippenmuskeln helfen auch, indem sie die Rippen während des Einatmens heben",
-    r4_fact4: "Wir atmen etwa 15-20 Mal pro Minute in Ruhe",
+    t4_title: "Zellatmung", t4_text: "Warum brauchen wir Sauerstoff? Die Antwort liegt in den Zellen. Das ultimative Ziel der Atmung ist die Energiegewinnung.",
+    t4_b1: "Das Blut bringt den Sauerstoff zu jeder Zelle im Körper.", t4_b2: "Die Zellen nutzen Sauerstoff, um Nährstoffe (Zucker) zu 'verbrennen'.", t4_b3: "Aus diesem Prozess gewinnt der Körper Energie zum Leben.",
+    t4_inst: "Was produzieren die Zellen mit Hilfe von Sauerstoff?", t4_gap_sentence: "Zellen nutzen Sauerstoff, um {gap} zum Überleben zu produzieren.",
+    t4_c1: "Energie", t4_c2: "Licht", t4_c3: "Töne",
+    t4_q: "Was ist das wichtigste und letzte Ziel der Atmung im Körper?", t4_q_a: "Energiegewinnung in den Zellen", t4_q_b: "Abkühlung des Blutes", t4_q_c: "Stimmbildung", t4_q_d: "Dehnung der Lunge",
 
-    r5_title: "Schnelle Wiederholung",
-
-    q1_q: "Wo findet der größte Gasaustausch im Atmungssystem statt?",
-    q1_lungs: "In den Lungen (Alveolen)",
-    q1_trachea: "In der Luftröhre",
-    q1_nose: "In der Nase",
-    q1_bronchi: "In den Bronchien",
-
-    q2_q: "Was ist die Hauptfunktion des Zwerchfells?",
-    q2_contract: "Sich zusammenziehen und entspannen, um Luft in und aus der Lunge zu bewegen",
-    q2_filter: "Schädliche Partikel aus der Luft zu filtern",
-    q2_warm: "Die einströmende Luft zu wärmen",
-    q2_pump: "Das Blut um den Körper zu pumpen",
-
-    q3_q: "Welches Gas atmen wir aus (ausatmen)?",
-    q3_co2: "Hauptsächlich Kohlendioxid (CO₂)",
-    q3_o2: "Hauptsächlich Sauerstoff (O₂)",
-    q3_nitrogen: "Hauptsächlich Stickstoff",
-    q3_hydrogen: "Hauptsächlich Wasserstoff",
-
-    r3_q: "In den Alveolen, in welche Richtung bewegt sich Sauerstoff?",
-    r3_q_alveolus_to_blood: "Von der Alveole ins Blut",
-    r3_q_blood_to_alveolus: "Vom Blut in die Alveole",
-    r3_q_stays: "Er bleibt in der Alveole",
-    r3_q_brain: "Er geht direkt ins Gehirn",
-
-    r4_q: "Was passiert, wenn sich das Zwerchfell zusammenzieht?",
-    r4_contract_in: "Lungen dehnen sich aus und Luft fließt rein (Einatmen)",
-    r4_contract_out: "Lungen schrumpfen und Luft fließt raus (Ausatmen)",
-    r4_contract_stop: "Das Atmen stoppt vorübergehend",
-    r4_contract_pump: "Es pumpt das Blut schneller",
-  },
-  hu: {
-    r1_title: "A légzőrendszer",
-    r1_text: "Testünknek szüksége van oxigénre az élethez. A légzőrendszer oxigént szállít be és szén-dioxidot ki.",
-    r1_fact1: "Az orr szűri és bemelegíti a levegőt, mielőtt bejut",
-    r1_fact2: "A légcső lefelé szállítja a levegőt a mellkasba",
-    r1_fact3: "A hörgők az bal és jobb tüdőbe ágaznak el",
-    r1_fact4: "A tüdők szivacsszerű szervek, ahol a gázcsere történik",
-
-    r2_title: "Alveolok: Apró légzsákok",
-    r2_text: "A tüdőkben milliók apró légzsákja vannak, úgynevezett alveolok. Őket vér kapillárisok veszik körül a gázcseréhez.",
-    r2_fact1: "Minden alveol apró vérerek (kapillárisok) hálózatával van körülvéve",
-    r2_fact2: "Az alveoloknak nagyon vékony fala van — csak egy sejt vastagságú — könnyű gázcseréhez",
-    r2_fact3: "A nagy felület lehetővé teszi az oxigén hatékony átjutását a vérbe",
-    r2_fact4: "A szén-dioxid a vérből az alveolokba diffundál, hogy kileheljük",
-
-    r3_title: "Gázcsere a tüdőkben",
-    r3_text: "Amikor belélegzel, az oxigén az alveolokba lép és a vérbe diffundál. Ugyanakkor a szén-dioxid a vérből az alveolokba mozog.",
-    r3_fact1: "Oxigén (O₂) diffundál az alveolokból → a kapilláris vérbe",
-    r3_fact2: "Szén-dioxid (CO₂) diffundál a kapilláris vérből → az alveolokba",
-    r3_fact3: "A vörösvérsejtek oxigént szállítanak a testsejtekbe és CO₂-t vesznek fel",
-    r3_fact4: "Ez a csere folyamatosan történik minden légzéssel",
-
-    r4_title: "Hogyan működik a légzés",
-    r4_text: "A légzést a mirigyek alatt található izom, a rekeszizom szabályozza. Amikor összehúzódik, levegőt húz be. Amikor ellazul, levegő jut ki.",
-    r4_fact1: "Rekeszizom összehúzódik (megfeszül) → tüdők kitágulnak → levegő áramlik be (belélegzés)",
-    r4_fact2: "Rekeszizom ellazul → tüdők zsugorodni → levegő áramlik ki (kilélegzés)",
-    r4_fact3: "A bordák között lévő izmok is segítenek a bordák emelésével a belélegzés alatt",
-    r4_fact4: "Percenként körülbelül 15-20-szor lélegzünk pihenés közben",
-
-    r5_title: "Gyors felülvizsgálat",
-
-    q1_q: "Hol történik a legrészletesebb gázcsere a légzőrendszerben?",
-    q1_lungs: "A tüdőkben (alveolok)",
-    q1_trachea: "A légcsőben",
-    q1_nose: "Az orrban",
-    q1_bronchi: "A hörgőkben",
-
-    q2_q: "Mi a rekeszizom fő funkciója?",
-    q2_contract: "Összehúzódni és ellazulni, hogy levegő mozogjon a tüdőkbe és ki",
-    q2_filter: "Ártalmas részecskéket szűrni a levegőből",
-    q2_warm: "A bejövő levegőt bemelegíteni",
-    q2_pump: "Vért pumpálni a test körül",
-
-    q3_q: "Melyik gázt lélegzünk ki (kilélegzés)?",
-    q3_co2: "Főleg szén-dioxidot (CO₂)",
-    q3_o2: "Főleg oxigént (O₂)",
-    q3_nitrogen: "Főleg nitrogént",
-    q3_hydrogen: "Főleg hidrogént",
-
-    r3_q: "Az alveolokban, milyen irányban mozdul az oxigén?",
-    r3_q_alveolus_to_blood: "Az alveolokból a vérbe",
-    r3_q_blood_to_alveolus: "A vérből az alveolokba",
-    r3_q_stays: "Az alveolban marad",
-    r3_q_brain: "Közvetlenül az agyba megy",
-
-    r4_q: "Mi történik, amikor a rekeszizom összehúzódik?",
-    r4_contract_in: "Tüdők kitágulnak és levegő áramlik be (belélegzés)",
-    r4_contract_out: "Tüdők zsugorodni és levegő áramlik ki (kilélegzés)",
-    r4_contract_stop: "A légzés átmenetileg megáll",
-    r4_contract_pump: "Gyorsabban pumpál vért",
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über die Atmung und den Weg des Sauerstoffs!",
+    t5_b1: "Die Luft strömt durch Nase und Luftröhre in die Lunge.", t5_b2: "Das Zwerchfell steuert die Lunge.", t5_b3: "Das Ziel ist: O2 rein und CO2 raus.",
+    t5_inst: "Wohin transportiert das Blut den Sauerstoff?", t5_gap_sentence2: "Der aus der Lunge aufgenommene Sauerstoff wird zu den {gap} transportiert.",
+    t5_c51: "Zellen", t5_c52: "Magen", t5_c53: "Luft",
+    t5_q: "Welches Gas atmen wir im Vergleich zum Sauerstoff in deutlich größerer Menge aus?", t5_q_a: "Kohlendioxid", t5_q_b: "Sauerstoff", t5_q_c: "Helium", t5_q_d: "Wasserstoff",
   },
   ro: {
-    r1_title: "Sistemul respirator",
-    r1_text: "Corpul nostru are nevoie de oxigen pentru a supraviețui. Sistemul respirator aduce oxigen și elimină dioxidul de carbon.",
-    r1_fact1: "Nasul filtrează și încălzește aerul înainte să intre",
-    r1_fact2: "Traheea transportă aerul în jos în piept",
-    r1_fact3: "Bronhii se divid în plămânii stâng și drept",
-    r1_fact4: "Plămânii sunt organe spongioase unde se întâmplă schimbul de gaze",
+    explorer_title: "Sistemul Respirator",
+    t1_title: "Drumul Aerului", t1_text: "Sistemul respirator aduce aer bogat în oxigen în organism. Aerul parcurge un drum lung de la cavitatea nazală până la plămâni.",
+    t1_b1: "Cavitatea nazală: încălzește, umezește și curăță aerul.", t1_b2: "Laringele și traheea: conduc aerul spre plămâni.", t1_b3: "Bronhiile: traheea se desparte în două ramuri ce intră în plămâni.",
+    t1_inst: "Pune cuvintele în ordine!", t1_w1: "Aerul", t1_w2: "curge", t1_w3: "prin", t1_w4: "trahee", t1_w5: "în", t1_w6: "jos.",
+    t1_q: "De ce este mai bine să respirăm pe nas decât pe gură?", t1_q_a: "Pentru că nasul încălzește și curăță aerul.", t1_q_b: "Pentru că oxigenul intră mai repede.", t1_q_c: "Pentru că gura expiră doar dioxid de carbon.", t1_q_d: "Pentru că în gură nu există aer.",
 
-    r2_title: "Alveolele: Miniușori săculeți de aer",
-    r2_text: "În plămâni sunt milioane de miniușori săculeți de aer numiți alveole. Sunt înconjurați de capilarele de sânge pentru schimbul de gaze.",
-    r2_fact1: "Fiecare alveolă este înconjurată de o rețea de vase de sânge microscopice (capilar)",
-    r2_fact2: "Alveolele au un perete foarte subțire — doar o grosime de celulă — pentru schimb de gaze ușor",
-    r2_fact3: "Aria mare a suprafeței permite oxigenului să intre în sânge eficient",
-    r2_fact4: "Dioxidul de carbon din sânge se difuzează în alveole pentru a fi expulzat",
+    t2_title: "Mișcările Respiratorii", t2_text: "Plămânii nu au mușchi proprii. Respirația este realizată de mușchii cutiei toracice și de un mușchi mare în formă de cupolă, diafragma.",
+    t2_b1: "Inspirația: diafragma se aplatizează, pieptul se extinde, aerul intră.", t2_b2: "Expirația: diafragma se relaxează (se curbează), aerul este împins afară.", t2_b3: "Respirăm în medie de 14-16 ori pe minut.",
+    t2_inst: "Inspirație sau Expirație? Sortează procesele!",
+    t2_bucket_be: "Inspirație", t2_bucket_ki: "Expirație",
+    t2_item_b1: "Pieptul se extinde", t2_item_b2: "Diafragma se aplatizează",
+    t2_item_k1: "Pieptul se micșorează", t2_item_k2: "Aerul iese",
+    t2_q: "Care mușchi are cel mai mare rol în respirație?", t2_q_a: "Diafragma", t2_q_b: "Mușchiul cardiac", t2_q_c: "Mușchii abdominali", t2_q_d: "Mușchiul limbii",
 
-    r3_title: "Schimbul de gaze în plămâni",
-    r3_text: "Când inhalezi, oxigenul intră în alveole și se difuzează în sânge. În același timp, dioxidul de carbon se mișcă din sânge în alveole.",
-    r3_fact1: "Oxigenul (O₂) se difuzează din alveole → în sângele capilar",
-    r3_fact2: "Dioxidul de carbon (CO₂) se difuzează din sângele capilar → în alveole",
-    r3_fact3: "Globulele roșii transportă oxigen la celulele corpului și absorb CO₂",
-    r3_fact4: "Acest schimb se întâmplă continuu cu fiecare respirație",
+    t3_title: "Schimbul de Gaze", t3_text: "În interiorul plămânilor se află mici saci aerieni (alveole) înconjurați de capilare. Aici are loc magia: schimbul de gaze.",
+    t3_b1: "Oxigenul trece din alveole în sânge.", t3_b2: "Dioxidul de carbon trece din sânge în alveole pentru a fi expirat.", t3_b3: "Suprafața internă uriașă a plămânilor face acest lucru foarte eficient.",
+    t3_inst: "Potrivește substanța cu direcția ei în plămâni!",
+    t3_l1: "Oxigen", t3_r1: "Intră în fluxul sanguin", t3_l2: "Dioxid de carbon", t3_r2: "Iese în plămâni (apoi în aer)", t3_l3: "Alveole", t3_r3: "Locul schimbului de gaze",
+    t3_q: "Unde are loc propriu-zis schimbul de gaze în plămâni?", t3_q_a: "În alveole (sacii aerieni)", t3_q_b: "În trahee", t3_q_c: "În laringe", t3_q_d: "În cavitatea nazală",
 
-    r4_title: "Cum funcționează respirația",
-    r4_text: "Respirația este controlată de diafragm, un mușchi sub plămâni. Când se contractă, trage aerul. Când se relaxează, aerul iese.",
-    r4_fact1: "Diafragma se contractă (se întinde) → plămânii se dilatează → aerul intră (inhalare)",
-    r4_fact2: "Diafragma se relaxează → plămânii se micșorează → aerul iese (exhalare)",
-    r4_fact3: "Mușchii din jurul coastelor ajută prin ridicarea coastelor în timpul inhalării",
-    r4_fact4: "Respirăm de aproximativ 15-20 ori pe minut în repaus",
+    t4_title: "Respirația Celulară", t4_text: "De ce avem nevoie de oxigen? Răspunsul se află în celule. Scopul final al respirației este producerea de energie.",
+    t4_b1: "Sângele transportă oxigenul la fiecare celulă din corp.", t4_b2: "Celulele folosesc oxigenul pentru a 'arde' nutrienții (cum ar fi zahărul).", t4_b3: "Acest proces oferă energie organismului pentru a trăi.",
+    t4_inst: "Ce produc celulele folosind oxigenul?", t4_gap_sentence: "Celulele folosesc oxigenul pentru a produce {gap} și a supraviețui.",
+    t4_c1: "energie", t4_c2: "lumină", t4_c3: "sunet",
+    t4_q: "Care este scopul final și cel mai important al respirației?", t4_q_a: "Producerea de energie în celule", t4_q_b: "Răcirea sângelui", t4_q_c: "Producerea vocii", t4_q_d: "Extinderea plămânilor",
 
-    r5_title: "Recapitulare rapidă",
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre respirație și drumul oxigenului!",
+    t5_b1: "Aerul trece prin nas, trahee, până în plămâni.", t5_b2: "Diafragma controlează plămânii.", t5_b3: "Scopul este oxigen înăuntru, CO2 afară.",
+    t5_inst: "Unde transportă sângele oxigenul?", t5_gap_sentence2: "Oxigenul preluat din plămâni este transportat de sânge la {gap}.",
+    t5_c51: "celule", t5_c52: "stomac", t5_c53: "aer",
+    t5_q: "Ce gaz expirăm într-o proporție mult mai mare în comparație cu ceea ce am inspirat?", t5_q_a: "Dioxid de carbon", t5_q_b: "Oxigen", t5_q_c: "Heliu", t5_q_d: "Hidrogen",
+  }
+};
 
-    q1_q: "Unde se întâmplă cea mai mare schimb de gaze în sistemul respirator?",
-    q1_lungs: "În plămâni (alveole)",
-    q1_trachea: "În traheea",
-    q1_nose: "În nas",
-    q1_bronchi: "În bronhii",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care este funcția principală a diafragmei?",
-    q2_contract: "Se contractă și se relaxează, mișcând aerul în și din plămâni",
-    q2_filter: "Filtrează particulele dăunătoare din aer",
-    q2_warm: "Încălzește aerul care intră",
-    q2_pump: "Pompează sânge în jurul corpului",
-
-    q3_q: "Ce gaz exhalezi (respiră afară)?",
-    q3_co2: "În principal dioxid de carbon (CO₂)",
-    q3_o2: "În principal oxigen (O₂)",
-    q3_nitrogen: "În principal azot",
-    q3_hydrogen: "În principal hidrogen",
-
-    r3_q: "În alveole, în ce direcție se mișcă oxigenul?",
-    r3_q_alveolus_to_blood: "Din alveolă în sânge",
-    r3_q_blood_to_alveolus: "Din sânge în alveolă",
-    r3_q_stays: "Rămâne în alveolă",
-    r3_q_brain: "Merge direct la creier",
-
-    r4_q: "Ce se întâmplă când diafragma se contractă?",
-    r4_contract_in: "Plămânii se dilatează și aerul intră (inhalare)",
-    r4_contract_out: "Plămânii se micșorează și aerul iese (exhalare)",
-    r4_contract_stop: "Respirația se oprește temporar",
-    r4_contract_pump: "Pompează sânge mai repede",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <LungsSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6"],
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t1_inst",
+      hint1: "t1_b2",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "be", label: "t2_bucket_be" },
+        { id: "ki", label: "t2_bucket_ki" },
+      ],
+      items: [
+        { text: "t2_item_b1", bucketId: "be" },
+        { text: "t2_item_k1", bucketId: "ki" },
+        { text: "t2_item_b2", bucketId: "be" },
+        { text: "t2_item_k2", bucketId: "ki" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t4_gap_sentence",
+      choices: ["t4_c1", "t4_c2", "t4_c3"],
+      correctIndex: 0,
+      instruction: "t4_inst",
+      hint1: "t4_b3",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Respiratory System Silhouette */
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="resp_lung_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B9DC3" />
-          <stop offset="100%" stopColor="#5A7BA0" />
-        </linearGradient>
-      </defs>
-
-      {/* Head/Neck outline */}
-      <circle cx="120" cy="35" r="14" fill="none" stroke="rgba(200,200,200,0.5)" strokeWidth="2" />
-      <path d="M 120 49 L 120 65" stroke="rgba(200,200,200,0.5)" strokeWidth="2" strokeLinecap="round" />
-
-      {/* Nose opening */}
-      <circle cx="115" cy="32" r="2" fill="rgba(200,200,200,0.5)" />
-      <circle cx="125" cy="32" r="2" fill="rgba(200,200,200,0.5)" />
-
-      {/* Trachea */}
-      <path d="M 120 65 L 120 85" stroke="rgba(150,150,150,0.6)" strokeWidth="5" strokeLinecap="round" />
-
-      {/* Bronchi branching */}
-      <path d="M 120 85 Q 95 95 85 105" stroke="rgba(150,150,150,0.6)" strokeWidth="4" strokeLinecap="round" />
-      <path d="M 120 85 Q 145 95 155 105" stroke="rgba(150,150,150,0.6)" strokeWidth="4" strokeLinecap="round" />
-
-      {/* Left Lung */}
-      <ellipse cx="80" cy="110" rx="28" ry="38" fill="url(#resp_lung_grad)" opacity="0.7" />
-      <path d="M 65 90 Q 70 100 75 110 Q 70 115 65 120" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 75 85 Q 80 95 85 105 Q 80 112 75 120" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 85 88 Q 88 100 90 115" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-
-      {/* Right Lung */}
-      <ellipse cx="160" cy="110" rx="28" ry="38" fill="url(#resp_lung_grad)" opacity="0.7" />
-      <path d="M 145 90 Q 150 100 155 110 Q 150 115 145 120" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 155 85 Q 160 95 165 105 Q 160 112 155 120" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 165 88 Q 168 100 170 115" stroke="rgba(100,150,180,0.4)" strokeWidth="1.5" fill="none" />
-
-      {/* Rib cage outline (light) */}
-      <path d="M 70 80 Q 60 110 70 135" stroke="rgba(150,150,150,0.3)" strokeWidth="2" fill="none" />
-      <path d="M 170 80 Q 180 110 170 135" stroke="rgba(150,150,150,0.3)" strokeWidth="2" fill="none" />
-      <path d="M 70 100 L 170 100" stroke="rgba(150,150,150,0.2)" strokeWidth="1" />
-      <path d="M 70 115 L 170 115" stroke="rgba(150,150,150,0.2)" strokeWidth="1" />
-
-      {/* Diaphragm at bottom */}
-      <path d="M 70 135 Q 120 145 170 135" stroke="rgba(200,100,100,0.5)" strokeWidth="3" strokeLinecap="round" fill="none" />
-      <text x="120" y="155" textAnchor="middle" fontSize="10" fill="rgba(200,100,100,0.6)" fontWeight="bold">
-        Diaphragm
-      </text>
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Alveolus Close-up */
-function SVG_R2(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="alv_grape_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#9BA8C4" />
-          <stop offset="100%" stopColor="#5A7BA0" />
-        </linearGradient>
-        <linearGradient id="alv_cap_grad" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" />
-          <stop offset="100%" stopColor="#CC5555" />
-        </linearGradient>
-      </defs>
-
-      {/* Title label at top */}
-      <text x="120" y="20" textAnchor="middle" fontSize="12" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Alveolus with Capillaries
-      </text>
-
-      {/* Alveoli cluster (grape-like) */}
-      <circle cx="90" cy="70" r="18" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="110" cy="60" r="16" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="130" cy="70" r="18" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="100" cy="85" r="15" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="120" cy="88" r="16" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="105" cy="105" r="14" fill="url(#alv_grape_grad)" opacity="0.8" />
-      <circle cx="125" cy="105" r="14" fill="url(#alv_grape_grad)" opacity="0.8" />
-
-      {/* Capillaries wrapping around (wavy paths) */}
-      <path
-        d="M 75 75 Q 80 55 100 50 Q 120 48 140 55 Q 155 65 160 85 Q 155 105 135 115 Q 110 120 90 115 Q 70 105 75 85 Z"
-        fill="none"
-        stroke="url(#alv_cap_grad)"
-        strokeWidth="4"
-        opacity="0.7"
-        strokeLinecap="round"
-      />
-
-      {/* Additional capillary segments */}
-      <path d="M 85 60 Q 95 50 105 55" fill="none" stroke="url(#alv_cap_grad)" strokeWidth="3" opacity="0.6" />
-      <path d="M 130 75 Q 145 70 155 80" fill="none" stroke="url(#alv_cap_grad)" strokeWidth="3" opacity="0.6" />
-
-      {/* Oxygen molecules (blue circles) entering alveoli */}
-      <circle cx="70" cy="90" r="3" fill="#00D4FF" opacity="0.8" />
-      <circle cx="65" cy="85" r="3" fill="#00D4FF" opacity="0.7" />
-
-      {/* CO2 molecules (orange circles) exiting */}
-      <circle cx="160" cy="100" r="3" fill="#FFA500" opacity="0.8" />
-      <circle cx="165" cy="95" r="3" fill="#FFA500" opacity="0.7" />
-
-      {/* Arrow labels */}
-      <text x="50" y="95" fontSize="11" fill="#00D4FF" fontWeight="bold">
-        O₂ in
-      </text>
-      <text x="175" y="105" fontSize="11" fill="#FFA500" fontWeight="bold">
-        CO₂ out
-      </text>
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Gas Exchange Diagram */
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <marker id="arrow_o2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#00D4FF" />
-        </marker>
-        <marker id="arrow_co2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#FFA500" />
-        </marker>
-      </defs>
-
-      {/* Left side: Alveolus */}
-      <ellipse cx="70" cy="80" rx="28" ry="32" fill="rgba(100,150,180,0.3)" stroke="rgba(100,150,180,0.6)" strokeWidth="2" />
-      <text x="70" y="75" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Alveolus
-      </text>
-
-      {/* Right side: Blood Capillary */}
-      <rect x="150" y="60" width="60" height="40" rx="8" fill="rgba(200,80,80,0.3)" stroke="rgba(200,80,80,0.6)" strokeWidth="2" />
-      <text x="180" y="75" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">
-        Blood
-      </text>
-
-      {/* O2 arrow: Alveolus → Blood (blue) */}
-      <defs>
-        <linearGradient id="o2_grad" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#00D4FF" />
-          <stop offset="100%" stopColor="#0099CC" />
-        </linearGradient>
-      </defs>
-      <path d="M 100 75 L 148 75" stroke="url(#o2_grad)" strokeWidth="3" markerEnd="url(#arrow_o2)" />
-      <circle cx="115" cy="70" r="2.5" fill="#00D4FF" />
-      <circle cx="125" cy="72" r="2.5" fill="#00D4FF" />
-      <circle cx="135" cy="70" r="2.5" fill="#00D4FF" />
-
-      {/* CO2 arrow: Blood → Alveolus (orange) */}
-      <defs>
-        <linearGradient id="co2_grad" x1="100%" y1="0%" x2="0%" y2="0%">
-          <stop offset="0%" stopColor="#FFA500" />
-          <stop offset="100%" stopColor="#FF8C00" />
-        </linearGradient>
-      </defs>
-      <path d="M 148 85 L 100 85" stroke="url(#co2_grad)" strokeWidth="3" markerEnd="url(#arrow_co2)" />
-      <circle cx="135" cy="90" r="2.5" fill="#FFA500" />
-      <circle cx="125" cy="88" r="2.5" fill="#FFA500" />
-      <circle cx="115" cy="90" r="2.5" fill="#FFA500" />
-
-      {/* Labels */}
-      <text x="120" y="65" textAnchor="middle" fontSize="9" fill="#00D4FF" fontWeight="bold">
-        O₂ in
-      </text>
-      <text x="120" y="105" textAnchor="middle" fontSize="9" fill="#FFA500" fontWeight="bold">
-        CO₂ out
-      </text>
-
-      {/* Bottom: Oxygen-carrying blood cell */}
-      <circle cx="180" cy="110" r="8" fill="rgba(255,100,100,0.4)" stroke="rgba(255,100,100,0.7)" strokeWidth="1" />
-      <circle cx="180" cy="110" r="5" fill="rgba(100,100,100,0.3)" />
-      <text x="207" y="116" fontSize="9" fill="rgba(255,255,255,0.6)">
-        Red blood cell
-      </text>
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Breathing Mechanics */
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="breath_lung_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B9DC3" />
-          <stop offset="100%" stopColor="#5A7BA0" />
-        </linearGradient>
-      </defs>
-
-      {/* Left side: Inhale */}
-      <text x="60" y="20" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(100,200,255,0.8)">
-        Inhale
-      </text>
-
-      {/* Lungs expanded */}
-      <ellipse cx="45" cy="75" rx="20" ry="38" fill="url(#breath_lung_grad)" opacity="0.8" />
-      <ellipse cx="75" cy="75" rx="20" ry="38" fill="url(#breath_lung_grad)" opacity="0.8" />
-
-      {/* Diaphragm flattened (inhale) */}
-      <path d="M 30 115 L 90 115" stroke="rgba(200,100,100,0.7)" strokeWidth="4" strokeLinecap="round" />
-
-      {/* Air arrows going in */}
-      <path d="M 30 40 L 30 60" stroke="#00D4FF" strokeWidth="2.5" markerEnd="url(#arrow_down)" />
-      <path d="M 70 40 L 70 60" stroke="#00D4FF" strokeWidth="2.5" markerEnd="url(#arrow_down)" />
-
-      {/* Right side: Exhale */}
-      <text x="180" y="20" textAnchor="middle" fontSize="11" fontWeight="bold" fill="rgba(255,150,100,0.8)">
-        Exhale
-      </text>
-
-      {/* Lungs compressed */}
-      <ellipse cx="165" cy="85" rx="14" ry="28" fill="url(#breath_lung_grad)" opacity="0.6" />
-      <ellipse cx="195" cy="85" rx="14" ry="28" fill="url(#breath_lung_grad)" opacity="0.6" />
-
-      {/* Diaphragm dome (exhale) */}
-      <path d="M 150 115 Q 170 95 190 115" stroke="rgba(200,100,100,0.7)" strokeWidth="4" strokeLinecap="round" fill="none" />
-
-      {/* Air arrows going out */}
-      <path d="M 160 50 L 160 70" stroke="#FFA500" strokeWidth="2.5" markerEnd="url(#arrow_up)" />
-      <path d="M 200 50 L 200 70" stroke="#FFA500" strokeWidth="2.5" markerEnd="url(#arrow_up)" />
-
-      {/* Markers for arrows */}
-      <defs>
-        <marker id="arrow_down" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-          <polygon points="0 0, 10 5, 0 10" fill="#00D4FF" />
-        </marker>
-        <marker id="arrow_up" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start">
-          <polygon points="10 0, 0 5, 10 10" fill="#FFA500" />
-        </marker>
-      </defs>
-
-      {/* Bottom labels */}
-      <text x="60" y="145" textAnchor="middle" fontSize="9" fill="rgba(100,200,255,0.7)">
-        Expand &amp; Fill
-      </text>
-      <text x="180" y="145" textAnchor="middle" fontSize="9" fill="rgba(255,150,100,0.7)">
-        Shrink &amp; Empty
-      </text>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const RESPIRATION_EXPLORER: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => SVG_R1(),
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => SVG_R2(),
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => SVG_R3(),
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_q_alveolus_to_blood", "r3_q_blood_to_alveolus", "r3_q_stays", "r3_q_brain"],
-          answer: "r3_q_alveolus_to_blood",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => SVG_R4(),
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_contract_in", "r4_contract_out", "r4_contract_stop", "r4_contract_pump"],
-          answer: "r4_contract_in",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40" />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_lungs", "q1_trachea", "q1_nose", "q1_bronchi"],
-          answer: "q1_lungs",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_contract", "q2_filter", "q2_warm", "q2_pump"],
-          answer: "q2_contract",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_co2", "q3_o2", "q3_nitrogen", "q3_hydrogen"],
-          answer: "q3_co2",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "💨",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function RespirationExplorer({
-  color = "#3B82F6",
-  lang = "en",
+const RespirationExplorer = memo(function RespirationExplorer({
+  color = "#0284C7", // Égszínkék (Sky-600) a levegőre/oxigénre utalva
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={RESPIRATION_EXPLORER} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_respiration" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default RespirationExplorer;
