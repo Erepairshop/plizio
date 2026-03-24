@@ -65,7 +65,9 @@ const Topic3Svg = memo(function Topic3Svg() {
         <text x="0" y="-10" fontSize="24" fontWeight="black" fill="#7C3AED" textAnchor="middle">
           <tspan fill="#EF4444">S</tspan>chneemann
         </text>
-        <text x="0" y="25" fontSize="14" fill="#6D28D9" textAnchor="middle">Nur der erste Buchstabe ist groß!</text>
+        {/* Arrow pointing to the capital S */}
+        <line x1="-52" y1="-25" x2="-42" y2="-18" stroke="#EF4444" strokeWidth="2" />
+        <text x="-52" y="-30" fontSize="18" textAnchor="middle">✅</text>
       </g>
     </svg>
   );
@@ -324,8 +326,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_c1", "t3_opt_c2", "t3_opt_c3"], // Schneemann, schneemann, SchneeMann
-      answer: "t3_opt_c1", // Schneemann
+      choices: ["t3_opt_c1", "t3_opt_c2", "t3_opt_c3"], // Schneemann, schneemann, SchneeMann
+      correctIndex: 0, // Schneemann
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

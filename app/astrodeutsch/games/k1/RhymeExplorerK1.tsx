@@ -23,7 +23,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="-50" y="25" fontSize="16" fontWeight="bold" fill="#7C3AED" textAnchor="middle">Maus</text>
         
         <path d="M -20,0 Q 0,-20 20,0" fill="none" stroke="#D946EF" strokeWidth="3" strokeDasharray="4 4" />
-        <text x="0" y="-15" fontSize="14" fill="#C084FC" textAnchor="middle">reimt sich</text>
+        <text x="0" y="-15" fontSize="18" textAnchor="middle">🎵</text>
         
         <text x="50" y="-10" fontSize="30" textAnchor="middle">🏠</text>
         <text x="50" y="25" fontSize="16" fontWeight="bold" fill="#7C3AED" textAnchor="middle">Haus</text>
@@ -40,12 +40,12 @@ const Topic2Svg = memo(function Topic2Svg() {
         <g transform="translate(-50, 0)">
           <circle cx="0" cy="0" r="30" fill="#CCFBF1" />
           <text x="0" y="-5" fontSize="20" textAnchor="middle">🐶🐱</text>
-          <text x="0" y="20" fontSize="12" fontWeight="bold" fill="#0F766E" textAnchor="middle">Tiere</text>
+          <text x="0" y="20" fontSize="14" textAnchor="middle">🐾</text>
         </g>
         <g transform="translate(50, 0)">
           <circle cx="0" cy="0" r="30" fill="#E0E7FF" />
           <text x="0" y="-5" fontSize="20" textAnchor="middle">🚗📚</text>
-          <text x="0" y="20" fontSize="12" fontWeight="bold" fill="#4338CA" textAnchor="middle">Sachen</text>
+          <text x="0" y="20" fontSize="14" textAnchor="middle">📦</text>
         </g>
       </g>
     </svg>
@@ -69,7 +69,7 @@ const Topic3Svg = memo(function Topic3Svg() {
         <text x="40" y="-5" fontSize="24" textAnchor="middle">⚽</text>
         <text x="40" y="25" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">spielen</text>
         
-        <text x="0" y="-35" fontSize="16" fontWeight="black" fill="#DC2626" textAnchor="middle">Tunwörter (Verben)</text>
+        <text x="0" y="-35" fontSize="22" textAnchor="middle">💪</text>
       </g>
     </svg>
   );
@@ -321,6 +321,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Der Hund läuft schnell.
+      correctOrder: [0, 1, 2, 3],
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

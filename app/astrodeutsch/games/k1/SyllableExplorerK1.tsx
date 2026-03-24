@@ -24,7 +24,7 @@ const Topic1Svg = memo(function Topic1Svg() {
         <text x="50" y="-10" fontSize="24" fontWeight="bold" fill="#2563EB" textAnchor="middle">ne</text>
         <text x="-50" y="25" fontSize="20" textAnchor="middle">👏</text>
         <text x="50" y="25" fontSize="20" textAnchor="middle">👏</text>
-        <text x="0" y="45" fontSize="12" fontWeight="bold" fill="#1D4ED8" textAnchor="middle">= 2 Silben</text>
+        <text x="0" y="45" fontSize="16" fontWeight="bold" fill="#1D4ED8" textAnchor="middle">= 2 ✂️</text>
       </g>
     </svg>
   );

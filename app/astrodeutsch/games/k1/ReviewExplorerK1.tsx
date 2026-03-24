@@ -68,7 +68,7 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="url(#revGrad3)" rx="20" />
       <g transform="translate(120, 70)">
         <text x="0" y="-10" fontSize="30" textAnchor="middle">🧠</text>
-        <text x="0" y="25" fontSize="16" fontWeight="bold" fill="#047857" textAnchor="middle">Du bist ein Profi!</text>
+        <text x="0" y="25" fontSize="22" textAnchor="middle">⭐🏆⭐</text>
         <circle cx="0" cy="40" r="8" fill="#10B981" />
         <path d="M -3,40 L -1,43 L 4,37" fill="none" stroke="white" strokeWidth="2" />
       </g>
@@ -298,6 +298,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "word-order",
       words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"], // Die Sonne ist gelb.
+      correctOrder: [0, 1, 2, 3],
       instruction: "t2_inst",
       hint1: "t2_h1",
       hint2: "t2_h2",
@@ -317,8 +318,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_tier", "t3_opt_sache", "t3_opt_farbe"],
-      answer: "t3_opt_tier", // Tier
+      choices: ["t3_opt_tier", "t3_opt_sache", "t3_opt_farbe"],
+      correctIndex: 0, // Tier
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

@@ -321,8 +321,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_tisch", "t3_opt_bett", "t3_opt_stuhl"],
-      answer: "t3_opt_tisch",
+      choices: ["t3_opt_tisch", "t3_opt_bett", "t3_opt_stuhl"],
+      correctIndex: 0,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

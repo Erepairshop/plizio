@@ -50,7 +50,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <line x1="-70" y1="15" x2="-30" y2="15" stroke="#3B82F6" strokeWidth="3" />
         <line x1="0" y1="15" x2="55" y2="15" stroke="#3B82F6" strokeWidth="3" />
         
-        <text x="0" y="-30" fontSize="12" fontWeight="bold" fill="#2563EB" textAnchor="middle">Satzanfang & Namen/Dinge = GROSS!</text>
+        <text x="0" y="-30" fontSize="20" textAnchor="middle">⬆️ ABC</text>
       </g>
     </svg>
   );
@@ -324,8 +324,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_esse", "t3_opt_laufe", "t3_opt_spiele"],
-      answer: "t3_opt_esse",
+      choices: ["t3_opt_esse", "t3_opt_laufe", "t3_opt_spiele"],
+      correctIndex: 0,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

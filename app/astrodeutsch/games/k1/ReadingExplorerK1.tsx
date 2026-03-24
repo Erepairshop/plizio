@@ -41,11 +41,11 @@ const Topic2Svg = memo(function Topic2Svg() {
         
         <g transform="translate(-40, 20)">
           <text x="0" y="0" fontSize="24" textAnchor="middle">🍎</text>
-          <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#15803D" textAnchor="middle">Richtig</text>
+          <text x="0" y="25" fontSize="18" textAnchor="middle">✅</text>
         </g>
         <g transform="translate(40, 20)">
           <text x="0" y="0" fontSize="24" textAnchor="middle">🫐</text>
-          <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#DC2626" textAnchor="middle">Falsch</text>
+          <text x="0" y="25" fontSize="18" textAnchor="middle">❌</text>
         </g>
       </g>
     </svg>
@@ -321,8 +321,8 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "gap-fill",
       sentence: "t3_gap_text",
-      options: ["t3_opt_buch", "t3_opt_auto", "t3_opt_apfel"],
-      answer: "t3_opt_buch",
+      choices: ["t3_opt_buch", "t3_opt_auto", "t3_opt_apfel"],
+      correctIndex: 0,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",
