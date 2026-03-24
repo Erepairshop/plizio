@@ -1,530 +1,382 @@
 "use client";
-// DNAExplorer — Klasse 8: DNA & Genetics (DNA und Vererbung)
-// Teaching-first pattern: R1-R4 info rounds with MCQ, R5 review quiz
-// Topic: DNA structure, genes, heredity, DNA replication
+// DNAExplorer.tsx — Bio Island i1: DNS & Genetika (K8)
+// Topics: 1) DNS szerkezete 2) Nukleotidok 3) Bázispárok 4) Mendel törvényei 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { DNAHelixSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Nukleotid absztrakt ábrázolása */}
+        <circle cx="-30" cy="0" r="15" fill="#F87171" /> {/* Foszfát */}
+        <path d="M -15,0 L 15,0" stroke="#94A3B8" strokeWidth="2" />
+        <rect x="15" y="-15" width="30" height="30" fill="#60A5FA" /> {/* Cukor */}
+        <path d="M 45,0 L 75,0" stroke="#94A3B8" strokeWidth="2" />
+        <polygon points="75,-15 105,0 75,15" fill="#34D399" /> {/* Bázis */}
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="10" fontSize="40" textAnchor="middle">🌱</text>
+        <path d="M -15,0 L 15,0" stroke="#8B5CF6" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="50" y="10" fontSize="30" fontWeight="bold" fill="#7C3AED" textAnchor="middle">Aa</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="45" textAnchor="middle">🧬</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "DNS és Genetika",
+    // T1: DNS Szerkezete (Label-diagram)
+    t1_title: "A kettős hélix",
+    t1_text: "A DNS (dezoxiribonukleinsav) az élővilág tervrajza. Szerkezete egy megcsavart létrához hasonlít, ahol az oldalsó váz és a belső bázispárok szigorú rendben követik egymást.",
+    t1_b1: "Cukor-foszfát váz: a molekula stabil oldalsó része.",
+    t1_b2: "Nitrogéntartalmú bázisok: a kód hordozói a szálak között.",
+    t1_b3: "Kettős hélix: a két szál egymás körüli csavarodása.",
+    t1_inst: "Címkézd fel a DNS hélix részeit!",
+    t1_area_backbone: "Cukor-foszfát váz",
+    t1_area_basepair: "Bázispár",
+    t1_area_helix: "Hélix szerkezet",
+    t1_q: "Hogy nevezzük a DNS molekula jellegzetes, csavart alakját?",
+    t1_q_a: "Kettős hélix", t1_q_b: "Sima kör", t1_q_c: "Háromszög", t1_q_d: "Kocka",
+
+    // T2: Nukleotidok
+    t2_title: "Az építőkövek: Nukleotidok",
+    t2_text: "A DNS óriásmolekula kisebb egységekből, nukleotidokból épül fel. Minden nukleotid három részből áll.",
+    t2_b1: "Foszfátcsoport: biztosítja a kapcsolódást a vázban.",
+    t2_b2: "Dezoxiribóz: egy öt szénatomos cukormolekula.",
+    t2_b3: "Bázis: Adenin (A), Timin (T), Citozin (C) vagy Guanin (G).",
+    t2_inst: "Mi alkot egy nukleotidot? Válogasd össze!",
+    t2_bucket_igen: "Nukleotid része",
+    t2_bucket_nem: "Nem része",
+    t2_item_n1: "Foszfátcsoport", t2_item_n2: "Cukor (Dezoxiribóz)", t2_item_n3: "Nitrogénbázis",
+    t2_item_r1: "Klorofill", t2_item_r2: "Vérplazma",
+    t2_q: "Hányféle nitrogéntartalmú bázis fordulhat elő a DNS-ben?",
+    t2_q_a: "Négy", t2_q_b: "Kettő", t2_q_c: "Húsz", t2_q_d: "Végtelen",
+
+    // T3: Bázispárok (Match-pairs)
+    t3_title: "A bázispárosodás szabálya",
+    t3_text: "A DNS két szála között a bázisok nem véletlenszerűen, hanem kiegészítő (komplementer) módon kapcsolódnak össze hidrogénkötésekkel.",
+    t3_b1: "Az Adenin párja mindig a Timin (A-T).",
+    t3_b2: "A Citozin párja mindig a Guanin (C-G).",
+    t3_b3: "Ez a szabály teszi lehetővé a DNS pontos másolódását.",
+    t3_inst: "Párosítsd össze a komplementer bázisokat!",
+    t3_l1: "Adenin (A)", t3_r1: "Timin (T)",
+    t3_l2: "Citozin (C)", t3_r2: "Guanin (G)",
+    t3_l3: "Timin (T)", t3_r3: "Adenin (A)",
+    t3_q: "Milyen kötés tartja össze a bázispárokat a két szál között?",
+    t3_q_a: "Hidrogénkötés", t3_q_b: "Mágneses vonzás", t3_q_c: "Ragasztó", t3_q_d: "Nincs kötés",
+
+    // T4: Mendel törvényei
+    t4_title: "Az öröklődés atyja: Mendel",
+    t4_text: "Gregor Mendel borsókísérleteivel fektette le a genetika alapjait. Rájött, hogy a tulajdonságok meghatározott szabályok szerint öröklődnek.",
+    t4_b1: "Uniformitás törvénye: az első utódnemzedék (F1) minden egyede egyforma.",
+    t4_b2: "Hasadás törvénye: a második nemzedékben (F2) megjelennek a szülői tulajdonságok.",
+    t4_b3: "Domináns-recesszív öröklődés: az egyik gén elnyomhatja a másikat.",
+    t4_inst: "Töltsd ki a hiányzó részt Mendelről!",
+    t4_gap_sentence: "Mendel rájött, hogy a tulajdonságokat {gap} hordozzák az utódokba.",
+    t4_c1: "gének", t4_c2: "vízcseppek", t4_c3: "szélviharok",
+    t4_q: "Melyik növényt használta Mendel a híres kísérleteihez?",
+    t4_q_a: "Borsót", t4_q_b: "Tölgyfát", t4_q_c: "Rózsát", t4_q_d: "Búzát",
+
+    // T5: Review
+    t5_title: "Genetikai összefoglaló",
+    t5_text: "A genetika a biológia egyik leggyorsabban fejlődő ága, az orvostudománytól a mezőgazdaságig mindenhol jelen van.",
+    t5_b1: "DNS = örökítőanyag kettős hélix szerkezettel.",
+    t5_b2: "A-T és C-G bázispárok.",
+    t5_b3: "Gének határozzák meg a tulajdonságainkat.",
+    t5_inst: "Hogyan nevezzük a DNS egy-egy működési egységét?",
+    t5_gap_sentence2: "A tulajdonságokat meghatározó DNS szakasz a {gap}.",
+    t5_c51: "gén", t5_c52: "atom", t5_c53: "sejt",
+    t5_q: "Mi a genetika tudományának fő tárgya?",
+    t5_q_a: "Az öröklődés és a változatosság vizsgálata", t5_q_b: "A kövek osztályozása", t5_q_c: "A felhők mozgása", t5_q_d: "A csillagok fénye",
+  },
   en: {
-    // Round 1: DNA Structure
-    r1_title: "DNA Structure: The Double Helix",
-    r1_text: "DNA is shaped like a twisted ladder called a double helix. It contains genetic information that makes you unique.",
-    r1_fact1: "DNA is made of four nucleotides: Adenine (A), Thymine (T), Guanine (G), Cytosine (C)",
-    r1_fact2: "These nucleotides form base pairs: A pairs with T, G pairs with C",
-    r1_fact3: "The backbone of DNA is made of sugar and phosphate molecules",
-    r1_fact4: "DNA is found in the nucleus of almost every cell in your body",
-    r1_q: "Which base pairs with Adenine (A) in DNA?",
-    r1_t: "Thymine (T)",
-    r1_g: "Guanine (G)",
-    r1_c: "Cytosine (C)",
-    r1_p: "Phosphate",
+    explorer_title: "DNA and Genetics",
+    t1_title: "The Double Helix", t1_text: "DNA is the blueprint of life. It looks like a twisted ladder with a backbone and base pairs.",
+    t1_b1: "Sugar-phosphate backbone: the stable side of the molecule.", t1_b2: "Nitrogenous bases: carriers of the code.", t1_b3: "Double helix: the twisting of the two strands.",
+    t1_inst: "Label the parts of the DNA helix!",
+    t1_area_backbone: "Backbone", t1_area_basepair: "Base pair", t1_area_helix: "Helix structure",
+    t1_q: "What is the shape of the DNA molecule?", t1_q_a: "Double helix", t1_q_b: "Circle", t1_q_c: "Cube", t1_q_d: "Star",
 
-    // Round 2: Genes & Chromosomes
-    r2_title: "Genes & Chromosomes",
-    r2_text: "Genes are segments of DNA that code for specific traits. Chromosomes are packages of DNA that carry many genes.",
-    r2_fact1: "Humans have 46 chromosomes (23 pairs) in most cells",
-    r2_fact2: "One chromosome contains thousands of genes",
-    r2_fact3: "Genes control traits like eye color, height, and hair texture",
-    r2_fact4: "Each parent contributes 23 chromosomes to their child",
-    r2_q: "How many chromosomes do humans typically have?",
-    r2_46: "46 (23 pairs)",
-    r2_23: "23",
-    r2_92: "92",
-    r2_dna: "DNA only (no chromosomes)",
+    t2_title: "Nucleotides", t2_text: "DNA is built from nucleotides. Each has three parts.",
+    t2_b1: "Phosphate group: connects the backbone.", t2_b2: "Deoxyribose: a 5-carbon sugar.", t2_b3: "Base: A, T, C, or G.",
+    t2_inst: "What makes up a nucleotide? Sort them!",
+    t2_bucket_igen: "Part of nucleotide", t2_bucket_nem: "Not a part",
+    t2_item_n1: "Phosphate", t2_item_n2: "Sugar", t2_item_n3: "Base",
+    t2_item_r1: "Chlorophyll", t2_item_r2: "Plasma",
+    t2_q: "How many types of nitrogenous bases are in DNA?", t2_q_a: "Four", t2_q_b: "Two", t2_q_c: "Twenty", t2_q_d: "Infinite",
 
-    // Round 3: Heredity & Traits
-    r3_title: "Heredity: Passing Traits Down",
-    r3_text: "Traits are passed from parents to children through genes. Some traits are dominant; others are recessive.",
-    r3_fact1: "Dominant traits appear if you inherit one dominant gene",
-    r3_fact2: "Recessive traits appear only if you inherit two recessive genes",
-    r3_fact3: "Gregor Mendel studied pea plants to discover heredity laws",
-    r3_fact4: "A Punnett square shows possible genetic combinations from parents",
-    r3_q: "If a dominant trait is D and recessive is d, when does the recessive trait show?",
-    r3_dd: "When a person has dd (two recessive genes)",
-    r3_dd_or_d: "When a person has d (any d gene)",
-    r3_d_only: "When a person has D only",
-    r3_always: "It always shows",
+    t3_title: "Base Pairing Rule", t3_text: "Bases connect in a specific way using hydrogen bonds.",
+    t3_b1: "Adenine pairs with Thymine (A-T).", t3_b2: "Cytosine pairs with Guanine (C-G).", t3_b3: "This allows exact DNA replication.",
+    t3_inst: "Match the complementary bases!",
+    t3_l1: "Adenine (A)", t3_r1: "Thymine (T)",
+    t3_l2: "Cytosine (C)", t3_r2: "Guanine (G)",
+    t3_l3: "Thymine (T)", t3_r3: "Adenine (A)",
+    t3_q: "What bond holds base pairs together?", t3_q_a: "Hydrogen bond", t3_q_b: "Magnetic", t3_q_c: "Glue", t3_q_d: "None",
 
-    // Round 4: DNA Replication
-    r4_title: "DNA Replication: Copying DNA",
-    r4_text: "Before a cell divides, DNA must be copied so each new cell has the same genetic information.",
-    r4_fact1: "The DNA double helix unzips, separating the two strands",
-    r4_fact2: "Each separated strand serves as a template for a new strand",
-    r4_fact3: "Base pairing rules ensure the copy is exact: A with T, G with C",
-    r4_fact4: "The result is two identical DNA molecules with the same genes",
-    r4_q: "What guides the attachment of nucleotides in DNA replication?",
-    r4_bp: "Base pairing rules (A-T, G-C)",
-    r4_sz: "Enzyme size",
-    r4_temp: "Temperature",
-    r4_ph: "pH level",
+    t4_title: "Mendel's Laws", t4_text: "Gregor Mendel founded genetics with his pea experiments.",
+    t4_b1: "Law of Uniformity: F1 generation individuals are identical.", t4_b2: "Law of Segregation: parental traits reappear in F2.", t4_b3: "Dominant-recessive inheritance.",
+    t4_inst: "Complete the sentence about Mendel!", t4_gap_sentence: "Mendel discovered that traits are carried by {gap}.",
+    t4_c1: "genes", t4_c2: "water", t4_c3: "wind",
+    t4_q: "Which plant did Mendel use for his experiments?", t4_q_a: "Pea", t4_q_b: "Oak", t4_q_c: "Rose", t4_q_d: "Wheat",
 
-    // Round 5: Review Quiz
-    r5_title: "DNA & Genetics Review",
-
-    // Quiz questions (3 total)
-    q1_q: "DNA is shaped like a...",
-    q1_a: "Double helix",
-    q1_b: "Circle",
-    q1_c: "Straight line",
-    q1_d: "Triangle",
-
-    q2_q: "A gene codes for a...",
-    q2_a: "Specific trait (like eye color)",
-    q2_b: "Energy source",
-    q2_c: "Cell membrane",
-    q2_d: "Mitochondrion",
-
-    q3_q: "If you inherit a recessive gene from each parent (dd), you...",
-    q3_a: "Show the recessive trait",
-    q3_b: "Show the dominant trait",
-    q3_c: "Show both traits equally",
-    q3_d: "Show no trait",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge of genetics basics!",
+    t5_b1: "DNA = double helix.", t5_b2: "A-T and C-G pairing.", t5_b3: "Genes determine traits.",
+    t5_inst: "What is a segment of DNA that codes for a trait?", t5_gap_sentence2: "The functional unit of DNA is a {gap}.",
+    t5_c51: "gene", t5_c52: "atom", t5_c53: "cell",
+    t5_q: "What is the main subject of genetics?", t5_q_a: "Heredity and variation", t5_q_b: "Rocks", t5_q_c: "Clouds", t5_q_d: "Stars",
   },
   de: {
-    // Round 1: DNA Structure
-    r1_title: "DNA-Struktur: Die Doppelhelix",
-    r1_text: "DNA hat die Form einer verdrehten Leiter, genannt Doppelhelix. Sie enthält genetische Informationen, die dich einzigartig machen.",
-    r1_fact1: "DNA besteht aus vier Basen: Adenin (A), Thymin (T), Guanin (G), Cytosin (C)",
-    r1_fact2: "Diese Basen bilden Basenpaare: A paart sich mit T, G paart sich mit C",
-    r1_fact3: "Das Grundgerüst der DNA besteht aus Zucker- und Phosphatmolekülen",
-    r1_fact4: "DNA befindet sich im Zellkern in fast jeder Zelle deines Körpers",
-    r1_q: "Welche Base paart sich mit Adenin (A) in DNA?",
-    r1_t: "Thymin (T)",
-    r1_g: "Guanin (G)",
-    r1_c: "Cytosin (C)",
-    r1_p: "Phosphat",
+    explorer_title: "DNA und Genetik",
+    t1_title: "Die Doppelhelix", t1_text: "DNA ist der Bauplan des Lebens. Sie sieht aus wie eine verdrehte Strickleiter.",
+    t1_b1: "Zucker-Phosphat-Rückgrat: der stabile äußere Teil.", t1_b2: "Stickstoffbasen: Träger des Codes.", t1_b3: "Doppelhelix: die Windung der zwei Stränge.",
+    t1_inst: "Beschrifte die DNA-Teile!",
+    t1_area_backbone: "Rückgrat", t1_area_basepair: "Basenpaar", t1_area_helix: "Helix-Struktur",
+    t1_q: "Welche Form hat das DNA-Molekül?", t1_q_a: "Doppelhelix", t1_q_b: "Kreis", t1_q_c: "Würfel", t1_q_d: "Stern",
 
-    // Round 2: Genes & Chromosomes
-    r2_title: "Gene & Chromosomen",
-    r2_text: "Gene sind DNA-Abschnitte, die für bestimmte Merkmale kodieren. Chromosomen sind Pakete aus DNA, die viele Gene tragen.",
-    r2_fact1: "Menschen haben 46 Chromosomen (23 Paare) in den meisten Zellen",
-    r2_fact2: "Ein Chromosom enthält tausende von Genen",
-    r2_fact3: "Gene kontrollieren Merkmale wie Augenfarbe, Größe und Haarstruktur",
-    r2_fact4: "Jeder Elternteil trägt 23 Chromosomen zu seinem Kind bei",
-    r2_q: "Wie viele Chromosomen haben Menschen normalerweise?",
-    r2_46: "46 (23 Paare)",
-    r2_23: "23",
-    r2_92: "92",
-    r2_dna: "Nur DNA (keine Chromosomen)",
+    t2_title: "Nukleotide", t2_text: "DNA besteht aus Nukleotiden. Jedes hat drei Teile.",
+    t2_b1: "Phosphatgruppe: verbindet das Rückgrat.", t2_b2: "Desoxyribose: ein Zucker.", t2_b3: "Base: A, T, C oder G.",
+    t2_inst: "Was bildet ein Nukleotid? Sortiere!",
+    t2_bucket_igen: "Teil des Nukleotids", t2_bucket_nem: "Kein Teil",
+    t2_item_n1: "Phosphat", t2_item_n2: "Zucker", t2_item_n3: "Base",
+    t2_item_r1: "Chlorophyll", t2_item_r2: "Plasma",
+    t2_q: "Wie viele Basentypen gibt es in der DNA?", t2_q_a: "Vier", t2_q_b: "Zwei", t2_q_c: "Zwanzig", t2_q_d: "Unendlich",
 
-    // Round 3: Heredity & Traits
-    r3_title: "Vererbung: Merkmale weitergeben",
-    r3_text: "Merkmale werden von Eltern an Kinder durch Gene weitergegeben. Einige Merkmale sind dominant, andere rezessiv.",
-    r3_fact1: "Dominante Merkmale treten auf, wenn du ein dominantes Gen ererbst",
-    r3_fact2: "Rezessive Merkmale treten nur auf, wenn du zwei rezessive Gene ererbst",
-    r3_fact3: "Gregor Mendel studierte Erbsenpflanzen, um Vererbungsgesetze zu entdecken",
-    r3_fact4: "Ein Punnett-Quadrat zeigt mögliche genetische Kombinationen von Eltern",
-    r3_q: "Wenn ein dominantes Merkmal D ist und rezessiv d, wann zeigt sich das rezessive Merkmal?",
-    r3_dd: "Wenn eine Person dd hat (zwei rezessive Gene)",
-    r3_dd_or_d: "Wenn eine Person d hat (irgendein d-Gen)",
-    r3_d_only: "Wenn eine Person nur D hat",
-    r3_always: "Es zeigt sich immer",
+    t3_title: "Basenpaarungsregel", t3_text: "Basen binden sich über Wasserstoffbrücken.",
+    t3_b1: "Adenin paart mit Thymin (A-T).", t3_b2: "Cytosin paart mit Guanin (C-G).", t3_b3: "Ermöglicht exakte Replikation.",
+    t3_inst: "Verbinde die Basenpaare!",
+    t3_l1: "Adenin (A)", t3_r1: "Thymin (T)",
+    t3_l2: "Cytosin (C)", t3_r2: "Guanin (G)",
+    t3_l3: "Thymin (T)", t3_r3: "Adenin (A)",
+    t3_q: "Welche Bindung hält Basenpaare zusammen?", t3_q_a: "Wasserstoffbrücke", t3_q_b: "Magnetismus", t3_q_c: "Kleber", t3_q_d: "Keine",
 
-    // Round 4: DNA Replication
-    r4_title: "DNA-Replikation: DNA kopieren",
-    r4_text: "Bevor sich eine Zelle teilt, muss DNA kopiert werden, damit jede neue Zelle die gleichen genetischen Informationen hat.",
-    r4_fact1: "Die DNA-Doppelhelix entwindet sich und trennt die beiden Stränge",
-    r4_fact2: "Jeder getrennte Strang dient als Vorlage für einen neuen Strang",
-    r4_fact3: "Basenpaarungsregeln stellen sicher, dass die Kopie exakt ist: A mit T, G mit C",
-    r4_fact4: "Das Ergebnis sind zwei identische DNA-Moleküle mit denselben Genen",
-    r4_q: "Was leitet die Bindung von Nukleotiden bei der DNA-Replikation?",
-    r4_bp: "Basenpaarungsregeln (A-T, G-C)",
-    r4_sz: "Enzymgröße",
-    r4_temp: "Temperatur",
-    r4_ph: "pH-Wert",
+    t4_title: "Mendelsche Regeln", t4_text: "Gregor Mendel begründete die Genetik mit Erbsenversuchen.",
+    t4_b1: "Uniformitätsregel: F1-Generation ist gleich.", t4_b2: "Spaltungsregel: Merkmale spalten sich in F2 auf.", t4_b3: "Dominant-rezessive Vererbung.",
+    t4_inst: "Ergänze den Satz über Mendel!", t4_gap_sentence: "Mendel erkannte, dass Merkmale durch {gap} vererbt werden.",
+    t4_c1: "Gene", t4_c2: "Wasser", t4_c3: "Wind",
+    t4_q: "Welche Pflanze nutzte Mendel?", t4_q_a: "Erbse", t4_q_b: "Eiche", t4_q_c: "Rose", t4_q_d: "Weizen",
 
-    // Round 5: Review Quiz
-    r5_title: "DNA & Genetik Wiederholung",
-
-    // Quiz questions (3 total)
-    q1_q: "DNA hat die Form einer...",
-    q1_a: "Doppelhelix",
-    q1_b: "Kreis",
-    q1_c: "Gerade Linie",
-    q1_d: "Dreieck",
-
-    q2_q: "Ein Gen kodiert für...",
-    q2_a: "Ein spezifisches Merkmal (wie Augenfarbe)",
-    q2_b: "Eine Energiequelle",
-    q2_c: "Eine Zellmembran",
-    q2_d: "Ein Mitochondrion",
-
-    q3_q: "Wenn du von jedem Elternteil ein rezessives Gen ererbst (dd), dann...",
-    q3_a: "Zeigst du das rezessive Merkmal",
-    q3_b: "Zeigst du das dominante Merkmal",
-    q3_c: "Zeigst du beide Merkmale gleichermaßen",
-    q3_d: "Zeigst du kein Merkmal",
-  },
-  hu: {
-    // Round 1: DNA Structure
-    r1_title: "A DNS szerkezete: A kettős spirál",
-    r1_text: "A DNS egy csavart létrához hasonló kettős spirál alakú. Genetikai információkat tartalmaz, amelyek egyedivé tesznek.",
-    r1_fact1: "A DNS négy bázisból áll: Adenin (A), Timin (T), Guanin (G), Citozin (C)",
-    r1_fact2: "Ezek a bázisok bázispárokat képeznek: A a T-vel, G a C-vel párosodik",
-    r1_fact3: "A DNS gerincét cukor- és foszfátmolekulák alkotják",
-    r1_fact4: "A DNS az sejtmagban található az emberi test szinte minden sejtjében",
-    r1_q: "Mely bázis párosodik az Adeninnel (A) a DNS-ben?",
-    r1_t: "Timin (T)",
-    r1_g: "Guanin (G)",
-    r1_c: "Citozin (C)",
-    r1_p: "Foszfát",
-
-    // Round 2: Genes & Chromosomes
-    r2_title: "Gének és kromoszómák",
-    r2_text: "A gének a DNS olyan szakaszai, amelyek meghatározott jellegzetes tulajdonságokat kódolnak. A kromoszómák DNS-csomagok, amelyek sok gént tartalmaznak.",
-    r2_fact1: "Az embernek 46 kromoszómája van (23 pár) a legtöbb sejtben",
-    r2_fact2: "Egy kromoszóma több ezer gént tartalmaz",
-    r2_fact3: "A gének olyan tulajdonságokat szabályoznak, mint a szemszín, a magasság és a hajstruktura",
-    r2_fact4: "Mindegyik szülő 23 kromoszómát ad az gyermekének",
-    r2_q: "Hány kromoszómája van az embernek általában?",
-    r2_46: "46 (23 pár)",
-    r2_23: "23",
-    r2_92: "92",
-    r2_dna: "Csak DNS (nincs kromoszóma)",
-
-    // Round 3: Heredity & Traits
-    r3_title: "Örökletes tulajdonságok: Jellegek továbbadása",
-    r3_text: "Az örökletes tulajdonságok szülőtől gyermekhez gének útján továbbadódnak. Egyes jellegek dominánsak, mások recesszívek.",
-    r3_fact1: "A domináns jellegek megjelennek, ha egy domináns gént örököltél",
-    r3_fact2: "A recesszív jellegek csak akkor jelennek meg, ha két recesszív gént örököltél",
-    r3_fact3: "Gregor Mendel borsónovel tanulmányozta az öröklődési törvényeket",
-    r3_fact4: "A Punnett-négyzet a szülőktől lehetséges genetikai kombinációkat mutatja",
-    r3_q: "Ha a domináns jel D és recesszív d, mikor jelenik meg a recesszív jel?",
-    r3_dd: "Ha valakinek dd van (két recesszív gén)",
-    r3_dd_or_d: "Ha valakinek d van (bármilyen d gén)",
-    r3_d_only: "Ha valakinek csak D van",
-    r3_always: "Mindig megjelenik",
-
-    // Round 4: DNA Replication
-    r4_title: "DNS-replikáció: DNS másolás",
-    r4_text: "Egy sejt osztódása előtt a DNS-t meg kell másolni, hogy minden új sejt ugyanazokkal a genetikai információkkal rendelkezzen.",
-    r4_fact1: "A DNS kettős spirál felcsavarodása, és a két szál elválasztódik",
-    r4_fact2: "Minden elválasztott szál sablonként szolgál egy új szálhoz",
-    r4_fact3: "A bázispárosítási szabályok biztosítják a pontos másolatot: A a T-vel, G a C-vel",
-    r4_fact4: "Az eredmény két azonos DNS-molekula, ugyanazzal a génekkel",
-    r4_q: "Mi vezérli a nukleotidok kötődését a DNS-replikációban?",
-    r4_bp: "Bázispárosítási szabályok (A-T, G-C)",
-    r4_sz: "Enzim mérete",
-    r4_temp: "Hőmérséklet",
-    r4_ph: "pH érték",
-
-    // Round 5: Review Quiz
-    r5_title: "DNS és genetika ismétlés",
-
-    // Quiz questions (3 total)
-    q1_q: "A DNS alakja egy...",
-    q1_a: "Kettős spirál",
-    q1_b: "Kör",
-    q1_c: "Egyenes vonal",
-    q1_d: "Háromszög",
-
-    q2_q: "Egy gén egy ... kódol",
-    q2_a: "Meghatározott tulajdonságért (mint például a szemszín)",
-    q2_b: "Energia forrásért",
-    q2_c: "Sejtmembránért",
-    q2_d: "Mitokondrium-ért",
-
-    q3_q: "Ha mindkét szülőtől egy recesszív gént örököltél (dd), akkor...",
-    q3_a: "Megmutatod a recesszív tulajdonságot",
-    q3_b: "Megmutatod a domináns tulajdonságot",
-    q3_c: "Egyenlően mutatod meg mindkét tulajdonságot",
-    q3_d: "Nem mutatod meg a tulajdonságot",
+    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen!",
+    t5_b1: "DNA = Doppelhelix.", t5_b2: "A-T und C-G Paarung.", t5_b3: "Gene bestimmen Merkmale.",
+    t5_inst: "Wie nennt man einen DNA-Abschnitt?", t5_gap_sentence2: "Die Funktionseinheit der DNA ist das {gap}.",
+    t5_c51: "Gen", t5_c52: "Atom", t5_c53: "Zelle",
+    t5_q: "Was ist das Hauptthema der Genetik?", t5_q_a: "Vererbung und Variabilität", t5_q_b: "Steine", t5_q_c: "Wolken", t5_q_d: "Sterne",
   },
   ro: {
-    // Round 1: DNA Structure
-    r1_title: "Structura ADN: Dubla helice",
-    r1_text: "ADN-ul are forma unei scări răsucite numită dubla helice. Conține informații genetice care te fac unic.",
-    r1_fact1: "ADN-ul este alcătuit din patru baze: Adenină (A), Timină (T), Guanină (G), Citozină (C)",
-    r1_fact2: "Aceste baze formează perechi: A se pereează cu T, G se pereează cu C",
-    r1_fact3: "Coloana vertebrală a ADN-ului este făcută din molecule de zahăr și fosfat",
-    r1_fact4: "ADN-ul se găsește în nucleul aproape fiecărei celule a corpului tău",
-    r1_q: "Care bază se pereează cu Adenina (A) în ADN?",
-    r1_t: "Timină (T)",
-    r1_g: "Guanină (G)",
-    r1_c: "Citozină (C)",
-    r1_p: "Fosfat",
+    explorer_title: "ADN și Genetică",
+    t1_title: "Dublul Helix", t1_text: "ADN-ul este planul vieții. Arată ca o scară răsucită.",
+    t1_b1: "Cadru zahăr-fosfat: partea stabilă.", t1_b2: "Baze azotate: purtătoarele codului.", t1_b3: "Dublu helix: răsucirea firelor.",
+    t1_inst: "Etichetează părțile helixului ADN!",
+    t1_area_backbone: "Cadru", t1_area_basepair: "Pereche de baze", t1_area_helix: "Structură helix",
+    t1_q: "Ce formă are molecula de ADN?", t1_q_a: "Dublu helix", t1_q_b: "Cerc", t1_q_c: "Cub", t1_q_d: "Stea",
 
-    // Round 2: Genes & Chromosomes
-    r2_title: "Gene și cromozomi",
-    r2_text: "Genele sunt segmente de ADN care codifică trăsături specifice. Cromozomii sunt pachete de ADN care poartă multe gene.",
-    r2_fact1: "Oamenii au 46 de cromozomi (23 perechi) în majoritatea celulelor",
-    r2_fact2: "Un cromozom conține mii de gene",
-    r2_fact3: "Genele controlează trăsături cum ar fi culoarea ochilor, înălțimea și structura părului",
-    r2_fact4: "Fiecare părinte contribuie 23 de cromozomi copilului lor",
-    r2_q: "Câți cromozomi au oamenii de obicei?",
-    r2_46: "46 (23 perechi)",
-    r2_23: "23",
-    r2_92: "92",
-    r2_dna: "Doar ADN (fără cromozomi)",
+    t2_title: "Nucleotide", t2_text: "ADN-ul este format din nucleotide. Fiecare are trei părți.",
+    t2_b1: "Grup fosfat: conectează cadrul.", t2_b2: "Dezoxiriboză: un zahăr.", t2_b3: "Bază: A, T, C sau G.",
+    t2_inst: "Ce formează un nucleotid? Sortează!",
+    t2_bucket_igen: "Parte din nucleotid", t2_bucket_nem: "Nu face parte",
+    t2_item_n1: "Fosfat", t2_item_n2: "Zahăr", t2_item_n3: "Bază",
+    t2_item_r1: "Clorofilă", t2_item_r2: "Plasmă",
+    t2_q: "Câte tipuri de baze azotate sunt în ADN?", t2_q_a: "Patru", t2_q_b: "Două", t2_q_c: "Douăzeci", t2_q_d: "Infinit",
 
-    // Round 3: Heredity & Traits
-    r3_title: "Moștenire: Transmiterea trăsăturilor",
-    r3_text: "Trăsăturile sunt transmise de la părinți la copii prin gene. Unele trăsături sunt dominante; altele sunt recesive.",
-    r3_fact1: "Trăsăturile dominante apar dacă moștenești un gen dominant",
-    r3_fact2: "Trăsăturile recesive apar doar dacă moștenești două gene recesive",
-    r3_fact3: "Gregor Mendel a studiat plantele de mazăre pentru a descoperi legile moștenirii",
-    r3_fact4: "Un pătrat Punnett arată combinații genetice posibile de la părinți",
-    r3_q: "Dacă un trait dominant este D și recesiv d, când apare traits-ul recesiv?",
-    r3_dd: "Când o persoană are dd (două gene recesive)",
-    r3_dd_or_d: "Când o persoană are d (orice gen d)",
-    r3_d_only: "Când o persoană are doar D",
-    r3_always: "Apare întotdeauna",
+    t3_title: "Regula perechilor de baze", t3_text: "Bazele se leagă prin punți de hidrogen.",
+    t3_b1: "Adenina se leagă cu Timina (A-T).", t3_b2: "Citozina se leagă cu Guanina (C-G).", t3_b3: "Permite replicarea exactă.",
+    t3_inst: "Potrivește bazele complementare!",
+    t3_l1: "Adenină (A)", t3_r1: "Timină (T)",
+    t3_l2: "Citozină (C)", t3_r2: "Guanină (G)",
+    t3_l3: "Timină (T)", t3_r3: "Adenină (A)",
+    t3_q: "Ce legătură ține perechile de baze unite?", t3_q_a: "Legătură de hidrogen", t3_q_b: "Magnetism", t3_q_c: "Lipici", t3_q_d: "Niciuna",
 
-    // Round 4: DNA Replication
-    r4_title: "Replicarea ADN-ului: Copierea ADN",
-    r4_text: "Înainte ca o celulă să se împartă, ADN-ul trebuie copiat, astfel încât fiecare celulă nouă să aibă aceleași informații genetice.",
-    r4_fact1: "Dubla helice a ADN-ului se deșurubează, separând cei doi lanțuri",
-    r4_fact2: "Fiecare lanț separat servește ca șablon pentru un lanț nou",
-    r4_fact3: "Regulile perecherii de baze asigură o copiere exactă: A cu T, G cu C",
-    r4_fact4: "Rezultatul sunt două molecule de ADN identice cu aceleași gene",
-    r4_q: "Ce ghidează atașarea nucleotidelor în replicarea ADN-ului?",
-    r4_bp: "Reguli de perechiere a bazelor (A-T, G-C)",
-    r4_sz: "Dimensiunea enzimei",
-    r4_temp: "Temperatura",
-    r4_ph: "Nivelul pH",
+    t4_title: "Legile lui Mendel", t4_text: "Gregor Mendel a pus bazele geneticii cu experimentele pe mazăre.",
+    t4_b1: "Legea uniformității: prima generație (F1) este identică.", t4_b2: "Legea segregării: trăsăturile reapar în F2.", t4_b3: "Moștenire dominant-recesivă.",
+    t4_inst: "Completează fraza despre Mendel!", t4_gap_sentence: "Mendel a descoperit că trăsăturile sunt purtate de {gap}.",
+    t4_c1: "gene", t4_c2: "apă", t4_c3: "vânt",
+    t4_q: "Ce plantă a folosit Mendel?", t4_q_a: "Mazăre", t4_q_b: "Stejar", t4_q_c: "Trandafir", t4_q_d: "Grâu",
 
-    // Round 5: Review Quiz
-    r5_title: "ADN și genetică - recapitulare",
+    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele!",
+    t5_b1: "ADN = dublu helix.", t5_b2: "Perechi A-T și C-G.", t5_b3: "Genele determină trăsăturile.",
+    t5_inst: "Cum numim o unitate funcțională de ADN?", t5_gap_sentence2: "Secvența de ADN care codifică o trăsătură este o {gap}.",
+    t5_c51: "genă", t5_c52: "atom", t5_c53: "celulă",
+    t5_q: "Care este subiectul principal al geneticii?", t5_q_a: "Ereditatea și variabilitatea", t5_q_b: "Pietrele", t5_q_c: "Norii", t5_q_d: "Stelele",
+  }
+};
 
-    // Quiz questions (3 total)
-    q1_q: "ADN-ul are forma unui...",
-    q1_a: "Dubla helice",
-    q1_b: "Cerc",
-    q1_c: "Linie dreaptă",
-    q1_d: "Triunghi",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Un gen codifică un...",
-    q2_a: "Trait specific (cum ar fi culoarea ochilor)",
-    q2_b: "Sursă de energie",
-    q2_c: "Membrană celulară",
-    q2_d: "Mitocondriu",
-
-    q3_q: "Dacă moștenești un gen recesiv de la fiecare părinte (dd), atunci...",
-    q3_a: "Arăți traits-ul recesiv",
-    q3_b: "Arăți traits-ul dominant",
-    q3_c: "Arăți ambele traits în mod egal",
-    q3_d: "Nu arăți niciun trait",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "backbone", x: 20, y: 50, label: "t1_area_backbone" },
+        { id: "basepair", x: 50, y: 48, label: "t1_area_basepair" },
+        { id: "helix",    x: 80, y: 50, label: "t1_area_helix" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "igen", label: "t2_bucket_igen" },
+        { id: "nem", label: "t2_bucket_nem" },
+      ],
+      items: [
+        { text: "t2_item_n1", bucketId: "igen" },
+        { text: "t2_item_r1", bucketId: "nem" },
+        { text: "t2_item_n2", bucketId: "igen" },
+        { text: "t2_item_r2", bucketId: "nem" },
+        { text: "t2_item_n3", bucketId: "igen" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t4_gap_sentence",
+      choices: ["t4_c1", "t4_c2", "t4_c3"],
+      correctIndex: 0,
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Illustrations (simple colored shapes, no text)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const DNAHelix = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    <defs>
-      <linearGradient id="helixGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stopColor="#3B82F6" />
-        <stop offset="100%" stopColor="#8B5CF6" />
-      </linearGradient>
-    </defs>
-    {/* Backbone - two vertical lines */}
-    <line x1="80" y1="20" x2="80" y2="140" stroke="#E879F9" strokeWidth="6" />
-    <line x1="160" y1="20" x2="160" y2="140" stroke="#E879F9" strokeWidth="6" />
-    {/* Spiral rungs - base pairs */}
-    {[20, 40, 60, 80, 100, 120, 140].map((y) => (
-      <g key={y}>
-        <line x1="80" y1={y} x2="160" y2={y} stroke="url(#helixGrad)" strokeWidth="4" />
-        <circle cx="85" cy={y} r="3" fill="#3B82F6" />
-        <circle cx="155" cy={y} r="3" fill="#3B82F6" />
-      </g>
-    ))}
-    {/* Twisted effect - curved guides */}
-    <path d="M 70 20 Q 60 80 70 140" stroke="rgba(59,130,246,0.2)" strokeWidth="2" fill="none" />
-    <path d="M 170 20 Q 180 80 170 140" stroke="rgba(59,130,246,0.2)" strokeWidth="2" fill="none" />
-  </svg>
-);
-
-const Chromosomes = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    <defs>
-      <linearGradient id="chromGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stopColor="#06B6D4" />
-        <stop offset="100%" stopColor="#0891B2" />
-      </linearGradient>
-    </defs>
-    {/* Nucleus circle */}
-    <circle cx="120" cy="80" r="70" fill="rgba(6,182,212,0.1)" stroke="#06B6D4" strokeWidth="2" />
-    {/* Chromosomes - X shapes */}
-    {[[80, 50], [140, 50], [100, 90], [140, 90], [80, 120]].map(([x, y], i) => (
-      <g key={i}>
-        <line x1={x - 12} y1={y - 12} x2={x + 12} y2={y + 12} stroke="url(#chromGrad)" strokeWidth="3" />
-        <line x1={x - 12} y1={y + 12} x2={x + 12} y2={y - 12} stroke="url(#chromGrad)" strokeWidth="3" />
-      </g>
-    ))}
-    {/* Center nucleus label area */}
-    <circle cx="120" cy="80" r="6" fill="#06B6D4" />
-  </svg>
-);
-
-const TraitInheritance = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    <defs>
-      <linearGradient id="parentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stopColor="#EC4899" />
-        <stop offset="100%" stopColor="#F43F5E" />
-      </linearGradient>
-    </defs>
-    {/* Parent circles */}
-    <circle cx="60" cy="40" r="18" fill="url(#parentGrad)" opacity="0.7" />
-    <circle cx="180" cy="40" r="18" fill="url(#parentGrad)" opacity="0.7" />
-    {/* Lines to offspring */}
-    <line x1="60" y1="58" x2="80" y2="90" stroke="rgba(236,72,153,0.3)" strokeWidth="2" />
-    <line x1="180" y1="58" x2="160" y2="90" stroke="rgba(236,72,153,0.3)" strokeWidth="2" />
-    {/* Offspring squares - 4 combinations */}
-    {[[60, 110], [100, 110], [70, 140], [110, 140]].map(([x, y], i) => (
-      <rect
-        key={i}
-        x={x - 12}
-        y={y - 12}
-        width="24"
-        height="24"
-        fill={i < 2 ? "#3B82F6" : "#8B5CF6"}
-        opacity="0.6"
-        rx="3"
-      />
-    ))}
-  </svg>
-);
-
-const DNAReplication = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    <defs>
-      <linearGradient id="repGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stopColor="#10B981" />
-        <stop offset="100%" stopColor="#059669" />
-      </linearGradient>
-    </defs>
-    {/* Original DNA (left) */}
-    <line x1="40" y1="20" x2="40" y2="100" stroke="#10B981" strokeWidth="5" />
-    <line x1="80" y1="20" x2="80" y2="100" stroke="#10B981" strokeWidth="5" />
-    {[25, 45, 65, 85].map((y) => (
-      <line key={y} x1="40" y1={y} x2="80" y2={y} stroke="rgba(16,185,129,0.4)" strokeWidth="2" />
-    ))}
-    {/* Separation arrows */}
-    <path d="M 90 50 L 120 50" stroke="#FCD34D" strokeWidth="2" markerEnd="url(#arrow)" />
-    {/* New DNA copies (right) */}
-    <line x1="160" y1="20" x2="160" y2="100" stroke="#10B981" strokeWidth="5" />
-    <line x1="200" y1="20" x2="200" y2="100" stroke="#10B981" strokeWidth="5" />
-    {[25, 45, 65, 85].map((y) => (
-      <line key={y} x1="160" y1={y} x2="200" y2={y} stroke="rgba(16,185,129,0.4)" strokeWidth="2" />
-    ))}
-    {/* Equality sign below */}
-    <line x1="160" y1="120" x2="200" y2="120" stroke="#10B981" strokeWidth="2" />
-    <line x1="160" y1="130" x2="200" y2="130" stroke="#10B981" strokeWidth="2" />
-  </svg>
-);
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Explorer Definition
-// ─────────────────────────────────────────────────────────────────────────────
-
-const DNA_EXPLORER: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <DNAHelix />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-      hintKey: "r1_q",
-      questions: [
-        {
-          question: "r1_q",
-          choices: ["r1_t", "r1_g", "r1_c", "r1_p"],
-          answer: "r1_t",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <Chromosomes />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      questions: [
-        {
-          question: "r2_q",
-          choices: ["r2_46", "r2_23", "r2_92", "r2_dna"],
-          answer: "r2_46",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <TraitInheritance />,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_dd", "r3_dd_or_d", "r3_d_only", "r3_always"],
-          answer: "r3_dd",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <DNAReplication />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_bp", "r4_sz", "r4_temp", "r4_ph"],
-          answer: "r4_bp",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <DNAHelix />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_a",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_a",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_a",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🧬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Export
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function DNAExplorer({
-  color = "#3B82F6",
-  lang = "en",
+const DNAExplorer = memo(function DNAExplorer({
+  color = "#2563EB", // Blue-600 a tudomány és genetika színe
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={DNA_EXPLORER} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={8} 
+      explorerId="bio_k8_dna_genetics" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default DNAExplorer;
