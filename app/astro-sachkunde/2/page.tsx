@@ -25,15 +25,15 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import HealthyBodyExplorer from "@/app/astro-sachkunde/games/k2/HealthyBodyExplorer";
-import HabitatExplorer from "@/app/astro-sachkunde/games/k2/HabitatExplorer";
-import WildAnimalExplorer from "@/app/astro-sachkunde/games/k2/WildAnimalExplorer";
-import PlantExplorer from "@/app/astro-sachkunde/games/k2/PlantExplorer";
-import WaterExplorer from "@/app/astro-sachkunde/games/k2/WaterExplorer";
-import JobsExplorer from "@/app/astro-sachkunde/games/k2/JobsExplorer";
-import SafetyExplorer from "@/app/astro-sachkunde/games/k2/SafetyExplorer";
-import ScienceExplorer from "@/app/astro-sachkunde/games/k2/ScienceExplorer";
-import GrandReviewK2Explorer from "@/app/astro-sachkunde/games/k2/GrandReviewK2Explorer";
+import HealthyBodyExplorer from "@/app/astro-sachkunde/games/HealthyBodyExplorer";
+import HabitatExplorer from "@/app/astro-sachkunde/games/HabitatsExplorer";
+import WildAnimalExplorer from "@/app/astro-sachkunde/games/WildAnimalsExplorer";
+import PlantExplorer from "@/app/astro-sachkunde/games/PlantsExplorer";
+import WaterExplorer from "@/app/astro-sachkunde/games/WaterExplorer";
+import JobsExplorer from "@/app/astro-sachkunde/games/JobsCommunityExplorer";
+import SafetyExplorer from "@/app/astro-sachkunde/games/SafetyFirstAidExplorer";
+import ScienceExplorer from "@/app/astro-sachkunde/games/ScienceExperimentsExplorer";
+import GrandReviewK2Explorer from "@/app/astro-sachkunde/games/GrandReviewExplorer";
 import {
   SK_G2_ISLANDS, CHECKPOINT_G2_MAP, CHECKPOINT_G2_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadSKG2Progress, saveSKG2Progress, type SachkundeProgress,
