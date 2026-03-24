@@ -1,715 +1,351 @@
 "use client";
-// ArthropodExplorer — Grade 6 Biology: Arthropods (Gliederfüßer)
-// 5 rounds: R1 (arthropod body plan), R2 (insects), R3 (spiders),
-//           R4 (metamorphosis), R5 (review quiz)
+// ArthropodExplorer.tsx — Bio Island i1: Ízeltlábúak (K6)
+// Topics: 1) Rovarok 2) Pókok 3) Ízeltlábú csoportok 4) Fejlődés 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef, RoundDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { InsectAnatomySvg, SpiderAnatomySvg, ArthropodGroupsSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Components (no hardcoded text inside SVG)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-function SVG_R1(): React.ReactNode {
+const Topic4Svg = memo(function Topic4Svg() {
   return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="arth_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#D4A574" />
-          <stop offset="100%" stopColor="#8B6F47" />
-        </linearGradient>
-        <linearGradient id="arth_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,150,200,0.1)" />
-          <stop offset="100%" stopColor="rgba(150,120,180,0.1)" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#arth_bg)" />
-
-      {/* Generic arthropod - segmented body with jointed legs */}
-      <g>
-        {/* Body segments (3 visible) */}
-        <circle cx="80" cy="70" r="18" fill="url(#arth_body)" stroke="#5C4033" strokeWidth="1" />
-        <circle cx="120" cy="75" r="20" fill="url(#arth_body)" stroke="#5C4033" strokeWidth="1" />
-        <circle cx="160" cy="70" r="18" fill="url(#arth_body)" stroke="#5C4033" strokeWidth="1" />
-
-        {/* Segment divisions - showing segmentation */}
-        <line x1="98" y1="60" x2="98" y2="85" stroke="#5C4033" strokeWidth="1" opacity="0.6" />
-        <line x1="138" y1="60" x2="138" y2="90" stroke="#5C4033" strokeWidth="1" opacity="0.6" />
-
-        {/* Head (antennae) */}
-        <circle cx="50" cy="70" r="14" fill="#A0826D" stroke="#5C4033" strokeWidth="0.8" />
-        <path d="M 45 60 Q 35 45 40 35" stroke="#5C4033" strokeWidth="1.5" fill="none" />
-        <path d="M 55 60 Q 65 45 60 35" stroke="#5C4033" strokeWidth="1.5" fill="none" />
-        <circle cx="48" cy="70" r="2" fill="#2C1810" />
-        <circle cx="52" cy="70" r="2" fill="#2C1810" />
-
-        {/* 6 jointed legs (arthropod characteristic) */}
-        {/* Front left */}
-        <g>
-          <line x1="65" y1="90" x2="50" y2="110" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="50" cy="110" r="2.5" fill="#5C4033" />
-        </g>
-        {/* Front right */}
-        <g>
-          <line x1="95" y1="95" x2="110" y2="120" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="110" cy="120" r="2.5" fill="#5C4033" />
-        </g>
-        {/* Middle left */}
-        <g>
-          <line x1="105" y1="100" x2="85" y2="125" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="85" cy="125" r="2.5" fill="#5C4033" />
-        </g>
-        {/* Middle right */}
-        <g>
-          <line x1="135" y1="100" x2="155" y2="130" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="155" cy="130" r="2.5" fill="#5C4033" />
-        </g>
-        {/* Back left */}
-        <g>
-          <line x1="145" y1="95" x2="125" y2="125" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="125" cy="125" r="2.5" fill="#5C4033" />
-        </g>
-        {/* Back right */}
-        <g>
-          <line x1="175" y1="90" x2="190" y2="120" stroke="#5C4033" strokeWidth="2" />
-          <circle cx="190" cy="120" r="2.5" fill="#5C4033" />
-        </g>
-
-        {/* Exoskeleton shine */}
-        <ellipse cx="80" cy="65" rx="12" ry="10" fill="white" opacity="0.15" />
-        <ellipse cx="120" cy="70" rx="14" ry="12" fill="white" opacity="0.15" />
-        <ellipse cx="160" cy="65" rx="12" ry="10" fill="white" opacity="0.15" />
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#DCFCE7" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-60" y="15" fontSize="30" textAnchor="middle">🥚</text>
+        <path d="M -40,0 L -20,0" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="0" y="15" fontSize="30" textAnchor="middle">🐛</text>
+        <path d="M 20,0 L 40,0" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="60" y="15" fontSize="30" textAnchor="middle">🦋</text>
       </g>
     </svg>
   );
-}
+});
 
-function SVG_R2(): React.ReactNode {
+const Topic5Svg = memo(function Topic5Svg() {
   return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="insect_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFD700" />
-          <stop offset="100%" stopColor="#FFA500" />
-        </linearGradient>
-        <linearGradient id="insect_wing" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="rgba(200,220,255,0.6)" />
-          <stop offset="100%" stopColor="rgba(150,180,255,0.4)" />
-        </linearGradient>
-        <linearGradient id="insect_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(255,200,100,0.1)" />
-          <stop offset="100%" stopColor="rgba(200,150,100,0.1)" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#insect_bg)" />
-
-      {/* Bee/Butterfly-like insect showing 3 body parts */}
-      <g>
-        {/* 1. Head */}
-        <circle cx="80" cy="55" r="12" fill="#FFA500" stroke="#8B5A00" strokeWidth="1" />
-        <circle cx="75" cy="52" r="2" fill="#2C1810" />
-        <circle cx="85" cy="52" r="2" fill="#2C1810" />
-        <path d="M 78 62 Q 80 67 82 62" stroke="#8B5A00" strokeWidth="1" fill="none" />
-
-        {/* 2. Thorax (middle body - where legs & wings attach) */}
-        <ellipse cx="120" cy="75" rx="18" ry="22" fill="url(#insect_body)" stroke="#8B5A00" strokeWidth="1" />
-
-        {/* 3. Abdomen (rear body) */}
-        <ellipse cx="160" cy="85" rx="22" ry="28" fill="#FFD700" stroke="#8B5A00" strokeWidth="1" />
-        {/* Abdominal segments */}
-        <line x1="145" y1="65" x2="175" y2="65" stroke="#8B5A00" strokeWidth="0.8" opacity="0.5" />
-        <line x1="142" y1="78" x2="178" y2="78" stroke="#8B5A00" strokeWidth="0.8" opacity="0.5" />
-        <line x1="140" y1="92" x2="180" y2="92" stroke="#8B5A00" strokeWidth="0.8" opacity="0.5" />
-
-        {/* Wings (2 pairs) - left side */}
-        <path d="M 100 60 Q 70 40 65 70 Q 75 85 105 75 Z" fill="url(#insect_wing)" stroke="#4A90E2" strokeWidth="1" />
-        <path d="M 95 85 Q 60 95 60 130 Q 75 135 100 110 Z" fill="url(#insect_wing)" stroke="#4A90E2" strokeWidth="1" opacity="0.7" />
-
-        {/* Wings - right side */}
-        <path d="M 140 60 Q 170 40 175 70 Q 165 85 135 75 Z" fill="url(#insect_wing)" stroke="#4A90E2" strokeWidth="1" />
-        <path d="M 145 85 Q 180 95 180 130 Q 165 135 140 110 Z" fill="url(#insect_wing)" stroke="#4A90E2" strokeWidth="1" opacity="0.7" />
-
-        {/* 6 Legs (3 pairs from thorax) */}
-        {/* Front pair */}
-        <line x1="105" y1="62" x2="85" y2="45" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="85" cy="45" r="1.5" fill="#5C4033" />
-        <line x1="135" y1="62" x2="155" y2="45" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="155" cy="45" r="1.5" fill="#5C4033" />
-
-        {/* Middle pair */}
-        <line x1="110" y1="80" x2="85" y2="100" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="85" cy="100" r="1.5" fill="#5C4033" />
-        <line x1="130" y1="80" x2="155" y2="100" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="155" cy="100" r="1.5" fill="#5C4033" />
-
-        {/* Back pair */}
-        <line x1="115" y1="92" x2="95" y2="125" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="95" cy="125" r="1.5" fill="#5C4033" />
-        <line x1="125" y1="92" x2="145" y2="125" stroke="#5C4033" strokeWidth="1.5" />
-        <circle cx="145" cy="125" r="1.5" fill="#5C4033" />
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🐜</text>
+        <text x="20" y="5" fontSize="25" textAnchor="middle">❓</text>
       </g>
     </svg>
   );
-}
+});
 
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="spider_body" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B4513" />
-          <stop offset="100%" stopColor="#654321" />
-        </linearGradient>
-        <linearGradient id="spider_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,100,150,0.1)" />
-          <stop offset="100%" stopColor="rgba(150,100,100,0.1)" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#spider_bg)" />
-
-      {/* Spider showing 2 body parts (cephalothorax + abdomen) */}
-      <g>
-        {/* Cephalothorax (head+thorax combined) */}
-        <ellipse cx="100" cy="60" rx="18" ry="16" fill="url(#spider_body)" stroke="#3C2415" strokeWidth="1" />
-
-        {/* Abdomen (large, rear body) */}
-        <ellipse cx="130" cy="90" rx="26" ry="34" fill="#6B4423" stroke="#3C2415" strokeWidth="1" />
-
-        {/* Connection line - thin waist */}
-        <line x1="110" y1="73" x2="120" y2="82" stroke="#3C2415" strokeWidth="2" />
-
-        {/* 8 Legs (spider characteristic - 4 pairs) */}
-        {/* Front left */}
-        <g>
-          <path d="M 85 50 Q 60 35 50 25" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="50" cy="25" r="1.5" fill="#3C2415" />
-        </g>
-        {/* Front right */}
-        <g>
-          <path d="M 115 50 Q 140 35 150 25" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="150" cy="25" r="1.5" fill="#3C2415" />
-        </g>
-
-        {/* Second left */}
-        <g>
-          <path d="M 80 70 Q 50 70 35 80" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="35" cy="80" r="1.5" fill="#3C2415" />
-        </g>
-        {/* Second right */}
-        <g>
-          <path d="M 120 70 Q 150 70 165 80" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="165" cy="80" r="1.5" fill="#3C2415" />
-        </g>
-
-        {/* Third left */}
-        <g>
-          <path d="M 85 95 Q 55 105 45 125" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="45" cy="125" r="1.5" fill="#3C2415" />
-        </g>
-        {/* Third right */}
-        <g>
-          <path d="M 115 95 Q 145 105 155 125" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="155" cy="125" r="1.5" fill="#3C2415" />
-        </g>
-
-        {/* Back left */}
-        <g>
-          <path d="M 100 118 Q 70 135 60 145" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="60" cy="145" r="1.5" fill="#3C2415" />
-        </g>
-        {/* Back right */}
-        <g>
-          <path d="M 130 118 Q 160 135 170 145" stroke="#3C2415" strokeWidth="2" fill="none" strokeLinecap="round" />
-          <circle cx="170" cy="145" r="1.5" fill="#3C2415" />
-        </g>
-
-        {/* Eyes (8 eyes in spider) - simple dots on cephalothorax */}
-        <circle cx="92" cy="55" r="1.2" fill="#FFD700" />
-        <circle cx="108" cy="55" r="1.2" fill="#FFD700" />
-        <circle cx="95" cy="65" r="1" fill="#FFD700" />
-        <circle cx="105" cy="65" r="1" fill="#FFD700" />
-
-        {/* Spinnerets (at abdomen rear) */}
-        <circle cx="125" cy="120" r="2" fill="#A0522D" stroke="#3C2415" strokeWidth="0.5" />
-        <circle cx="135" cy="120" r="2" fill="#A0522D" stroke="#3C2415" strokeWidth="0.5" />
-      </g>
-    </svg>
-  );
-}
-
-function SVG_R4(lang: string): React.ReactNode {
-  const t = LABELS[lang] || LABELS.en;
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="meta_bg" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="rgba(100,200,100,0.1)" />
-          <stop offset="100%" stopColor="rgba(150,100,200,0.1)" />
-        </linearGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#meta_bg)" />
-
-      {/* Circular metamorphosis diagram with arrows */}
-
-      {/* Stage 1: Egg */}
-      <g>
-        <ellipse cx="40" cy="50" rx="8" ry="10" fill="#FFD700" stroke="#FFA500" strokeWidth="1" />
-        <text x="40" y="72" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#FFA500" fontFamily="system-ui">
-          {t.svg_egg}
-        </text>
-      </g>
-
-      {/* Arrow 1 */}
-      <path d="M 50 50 L 70 50" stroke="#4A90E2" strokeWidth="1.5" fill="none" markerEnd="url(#arrowhead)" />
-      <polygon points="72,50 68,48 68,52" fill="#4A90E2" />
-
-      {/* Stage 2: Larva */}
-      <g>
-        <ellipse cx="90" cy="50" rx="10" ry="12" fill="#90EE90" stroke="#228B22" strokeWidth="1" />
-        <line x1="82" y1="58" x2="78" y2="68" stroke="#228B22" strokeWidth="1" />
-        <line x1="98" y1="58" x2="102" y2="68" stroke="#228B22" strokeWidth="1" />
-        <text x="90" y="80" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#228B22" fontFamily="system-ui">
-          {t.svg_larva}
-        </text>
-      </g>
-
-      {/* Arrow 2 */}
-      <path d="M 105 50 L 125 50" stroke="#4A90E2" strokeWidth="1.5" fill="none" markerEnd="url(#arrowhead)" />
-      <polygon points="127,50 123,48 123,52" fill="#4A90E2" />
-
-      {/* Stage 3: Pupa */}
-      <g>
-        <ellipse cx="155" cy="50" rx="10" ry="14" fill="#D4A373" stroke="#8B7355" strokeWidth="1" />
-        <text x="155" y="75" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#8B7355" fontFamily="system-ui">
-          {t.svg_pupa}
-        </text>
-      </g>
-
-      {/* Arrow 3 (down) */}
-      <path d="M 155 65 L 155 90" stroke="#4A90E2" strokeWidth="1.5" fill="none" />
-      <polygon points="155,92 153,88 157,88" fill="#4A90E2" />
-
-      {/* Stage 4: Adult */}
-      <g>
-        {/* Butterfly/Insect adult */}
-        <ellipse cx="155" cy="115" rx="8" ry="10" fill="#FFB6C1" stroke="#FF69B4" strokeWidth="1" />
-        <path d="M 148 110 Q 140 100 135 110" fill="#FFB6C1" stroke="#FF69B4" strokeWidth="1" />
-        <path d="M 162 110 Q 170 100 175 110" fill="#FFB6C1" stroke="#FF69B4" strokeWidth="1" />
-        <text x="155" y="140" fontSize="6" fontWeight="bold" textAnchor="middle" fill="#FF69B4" fontFamily="system-ui">
-          {t.svg_adult}
-        </text>
-      </g>
-
-      {/* Arrow back to egg (circle completes) */}
-      <path d="M 145 105 Q 100 130 50 110" stroke="#4A90E2" strokeWidth="1.5" fill="none" strokeDasharray="3,2" />
-      <polygon points="48,108 50,112 54,110" fill="#4A90E2" />
-
-      {/* Center label */}
-      <text x="110" y="108" fontSize="7" fontWeight="bold" textAnchor="middle" fill="#5C4033" fontFamily="system-ui" opacity="0.6">
-        {t.svg_complete}
-      </text>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
-  en: {
-    // Round 1: Arthropod body plan
-    r1_title: "What Are Arthropods?",
-    r1_text: "Arthropods are animals with exoskeletons (hard outer shells) and segmented bodies with jointed legs. They are the largest group of animals on Earth!",
-    r1_fact1: "Hard exoskeleton protects the body",
-    r1_fact2: "Body divided into segments",
-    r1_fact3: "Jointed legs allow movement",
-    r1_fact4: "Most arthropods are invertebrates (no backbone)",
-
-    // Round 2: Insects
-    r2_title: "Insects: 6 Legs & Wings",
-    r2_text: "Insects have 3 body parts: head, thorax, and abdomen. They have 6 legs (3 pairs) and most have wings. Examples: bees, butterflies, beetles.",
-    r2_fact1: "Exactly 6 legs attached to thorax",
-    r2_fact2: "Most insects have wings for flight",
-    r2_fact3: "3 distinct body sections",
-    r2_fact4: "Insects are the most diverse arthropods",
-
-    // Round 3: Spiders & Arachnids
-    r3_title: "Spiders: 8 Legs & Webs",
-    r3_text: "Spiders have 8 legs (4 pairs) and only 2 body parts: cephalothorax and abdomen. Many spiders spin webs to catch prey. No antennae!",
-    r3_fact1: "8 legs is the key arachnid feature",
-    r3_fact2: "Only 2 body parts (not 3)",
-    r3_fact3: "Many spin silk webs",
-    r3_fact4: "No wings or antennae",
-
-    // Round 4: Metamorphosis
-    r4_title: "Insect Metamorphosis",
-    r4_text: "Insects transform during their life cycle through metamorphosis. Complete metamorphosis has 4 stages: egg → larva → pupa → adult. The pupa stage is where the magic happens!",
-    r4_fact1: "Egg stage: tiny, laid on plants",
-    r4_fact2: "Larva stage: eats and grows, sheds skin",
-    r4_fact3: "Pupa stage: protective case, body rebuilds",
-    r4_fact4: "Adult stage: fully formed, can reproduce",
-
-    // Round 5: Review Quiz
-    r5_title: "Quick Review",
-
-    // Q1
-    q1_q: "How many legs do insects have?",
-    q1_6: "6 legs",
-    q1_8: "8 legs",
-    q1_4: "4 legs",
-    q1_10: "10 legs",
-
-    // Q2
-    q2_q: "What do spiders use 8 legs for?",
-    q2_walking: "Walking and climbing",
-    q2_flying: "Flying",
-    q2_swimming: "Swimming",
-    q2_digging: "Digging",
-
-    // Q3
-    q3_q: "How many body parts does a spider have?",
-    q3_2: "2 body parts",
-    q3_3: "3 body parts",
-    q3_4: "4 body parts",
-    q3_5: "5 body parts",
-
-    // Q4
-    q4_q: "What happens inside the pupa?",
-    q4_body: "Body is rebuilt into an adult",
-    q4_eating: "The larva keeps eating",
-    q4_growing: "Just growing bigger",
-    q4_dying: "The animal dies",
-
-    // SVG R4 labels
-    svg_egg: "Egg",
-    svg_larva: "Larva",
-    svg_pupa: "Pupa",
-    svg_adult: "Adult",
-    svg_complete: "Complete",
-  },
-
-  de: {
-    // Round 1: Arthropod body plan
-    r1_title: "Was sind Gliederfüßer?",
-    r1_text: "Gliederfüßer sind Tiere mit Außenskeletten (harten Schalen) und segmentierten Körpern mit Gelenken. Sie sind die größte Tiergruppe auf der Erde!",
-    r1_fact1: "Hartes Außenskelett schützt den Körper",
-    r1_fact2: "Körper in Segmente unterteilt",
-    r1_fact3: "Gelenkte Beine ermöglichen Bewegung",
-    r1_fact4: "Die meisten sind wirbellos (kein Rückgrat)",
-
-    // Round 2: Insects
-    r2_title: "Insekten: 6 Beine & Flügel",
-    r2_text: "Insekten haben 3 Körperteile: Kopf, Brust und Hinterleib. Sie haben 6 Beine (3 Paare) und die meisten haben Flügel. Beispiele: Bienen, Schmetterlinge, Käfer.",
-    r2_fact1: "Genau 6 Beine an der Brust",
-    r2_fact2: "Die meisten Insekten haben Flügel",
-    r2_fact3: "3 unterschiedliche Körperabschnitte",
-    r2_fact4: "Insekten sind die vielfältigsten Arthropoden",
-
-    // Round 3: Spiders & Arachnids
-    r3_title: "Spinnen: 8 Beine & Netze",
-    r3_text: "Spinnen haben 8 Beine (4 Paare) und nur 2 Körperteile: Kopfbrust und Hinterleib. Viele Spinnen spinnen Netze, um Beute zu fangen. Keine Fühler!",
-    r3_fact1: "8 Beine ist das Erkennungszeichen",
-    r3_fact2: "Nur 2 Körperteile (nicht 3)",
-    r3_fact3: "Viele spinnen Seidennetze",
-    r3_fact4: "Keine Flügel oder Fühler",
-
-    // Round 4: Metamorphosis
-    r4_title: "Insektenverwandlung",
-    r4_text: "Insekten durchlaufen eine Metamorphose - eine Umwandlung! Vollständige Metamorphose hat 4 Stadien: Ei → Larve → Puppe → Erwachsener. In der Puppe geschieht die Magie!",
-    r4_fact1: "Ei-Stadium: klein, auf Pflanzen gelegt",
-    r4_fact2: "Larven-Stadium: frisst und wächst, häutet sich",
-    r4_fact3: "Puppen-Stadium: Schutzkokon, Körper wird umgebaut",
-    r4_fact4: "Erwachsenen-Stadium: vollständig ausgebildet, kann sich fortpflanzen",
-
-    // Round 5: Review Quiz
-    r5_title: "Schnelle Wiederholung",
-
-    // Q1
-    q1_q: "Wie viele Beine haben Insekten?",
-    q1_6: "6 Beine",
-    q1_8: "8 Beine",
-    q1_4: "4 Beine",
-    q1_10: "10 Beine",
-
-    // Q2
-    q2_q: "Wofür nutzen Spinnen 8 Beine?",
-    q2_walking: "Gehen und Klettern",
-    q2_flying: "Fliegen",
-    q2_swimming: "Schwimmen",
-    q2_digging: "Graben",
-
-    // Q3
-    q3_q: "Wie viele Körperteile hat eine Spinne?",
-    q3_2: "2 Körperteile",
-    q3_3: "3 Körperteile",
-    q3_4: "4 Körperteile",
-    q3_5: "5 Körperteile",
-
-    // Q4
-    q4_q: "Was passiert in der Puppe?",
-    q4_body: "Körper wird zu einem Erwachsenen umgebaut",
-    q4_eating: "Die Larve frisst weiter",
-    q4_growing: "Wird nur größer",
-    q4_dying: "Das Tier stirbt",
-
-    // SVG R4 labels
-    svg_egg: "Ei",
-    svg_larva: "Larve",
-    svg_pupa: "Puppe",
-    svg_adult: "Erwachsen",
-    svg_complete: "Vollständig",
-  },
-
   hu: {
-    // Round 1
-    r1_title: "Mit a rovarok?",
-    r1_text: "A rovarok kemény, külső vázazattal rendelkező állatok, szegmentált testtel és ízületes lábakkal. Ők a Föld legnagyobb állatcsoportja!",
-    r1_fact1: "Kemény külső váz védi a testet",
-    r1_fact2: "Test szegmentekre van osztva",
-    r1_fact3: "Ízületes lábak lehetővé teszik a mozgást",
-    r1_fact4: "A legtöbb rovar gerinctelen (nincs gerinca)",
+    explorer_title: "Az Ízeltlábúak",
+    // T1: Rovarok
+    t1_title: "A rovarok felépítése",
+    t1_text: "A rovarok a legnagyobb állatcsoport a Földön. Testük három jól elkülöníthető részre tagolódik: fej, tor és potroh.",
+    t1_b1: "A toron 3 pár (összesen 6) ízelt láb található.",
+    t1_b2: "A legtöbb rovarnak szárnyai is vannak a toron.",
+    t1_b3: "A fejen 1 pár csáp és összetett szemek helyezkednek el.",
+    t1_inst: "Tedd sorba a mondat szavait!",
+    t1_w1: "A", t1_w2: "rovaroknak", t1_w3: "mindig", t1_w4: "hat", t1_w5: "lábuk", t1_w6: "van.",
+    t1_q: "Melyik testtájon találhatók a rovarok lábai és szárnyai?",
+    t1_q_a: "A toron", t1_q_b: "A fejen", t1_q_c: "A potrohon", t1_q_d: "A csápokon",
 
-    // Round 2
-    r2_title: "Rovarok: 6 Láb & Szárnyak",
-    r2_text: "A rovaroknak 3 testrésze van: fej, mellkas és potroh. 6 lábuk (3 pár) és legtöbbjüknek szárnya van. Például: méhek, pillangók, bogarak.",
-    r2_fact1: "Pontosan 6 láb a mellkason",
-    r2_fact2: "A legtöbb rovarnak szárnya van",
-    r2_fact3: "3 különálló testrész",
-    r2_fact4: "A rovarok a legváltozatosabb rovarfajok",
+    // T2: Pókok
+    t2_title: "A pókszabásúak",
+    t2_text: "A pókok nem rovarok! Testfelépítésük teljesen más: testük csak két fő részre tagolódik, és több lábuk van.",
+    t2_b1: "Két testtáj: fejtor és potroh.",
+    t2_b2: "Négy pár (összesen 8) ízelt láb a fejtoron.",
+    t2_b3: "Nincsenek csápjaik és szárnyaik.",
+    t2_inst: "Hány lába van egy póknak?",
+    t2_gap_sentence: "Minden pókszabásúnak {gap} lába van.",
+    t2_c1: "nyolc", t2_c2: "hat", t2_c3: "tíz",
+    t2_q: "Hogy hívják a pókok elülső testtáját?",
+    t2_q_a: "Fejtor", t2_q_b: "Tor", t2_q_c: "Potroh", t2_q_d: "Szívóka",
 
-    // Round 3
-    r3_title: "Pókók: 8 Láb & Hálók",
-    r3_text: "A pókoknak 8 lábuk van (4 pár) és csak 2 testrészük: fejtoráx és potroh. Sok pók készít hálókat, hogy fogjon prédát. Nincsenek csápok!",
-    r3_fact1: "8 láb az arachnidák jellegzetessége",
-    r3_fact2: "Csak 2 testrész (nem 3)",
-    r3_fact3: "Sok pók selyemhálót készít",
-    r3_fact4: "Nincsenek szárnyak vagy csápok",
+    // T3: Ízeltlábú csoportok
+    t3_title: "Az ízeltlábúak csoportjai",
+    t3_text: "Az ízeltlábúak nevüket a külső vázhoz (kitin) kapcsolódó, ízekből álló lábaikról kapták. Három fő csoportjuk van: rovarok, pókszabásúak és rákok.",
+    t3_b1: "Rovarok: 6 láb, 3 testtáj.",
+    t3_b2: "Pókszabásúak: 8 láb, 2 testtáj.",
+    t3_b3: "Rákok: 10 vagy több láb, meszes kitinváz (pl. folyami rák).",
+    t3_inst: "Rovar vagy Pók? Válogasd szét a jellemzőket!",
+    t3_bucket_rov: "Rovarok",
+    t3_bucket_pok: "Pókszabásúak",
+    t3_item_r1: "Hat láb", t3_item_r2: "3 testtáj (fej, tor, potroh)",
+    t3_item_p1: "Nyolc láb", t3_item_p2: "Nincs csáp",
+    t3_q: "Milyen anyagból áll az ízeltlábúak külső váza?",
+    t3_q_a: "Kitinből", t3_q_b: "Csontból", t3_q_c: "Porcból", t3_q_d: "Mészből",
 
-    // Round 4
-    r4_title: "Rovar Metamorfózis",
-    r4_text: "A rovarok metamorfózison mennek keresztül - egy csodálatos átalakuláson! Teljes metamorfózis 4 szakaszból áll: tojás → lárva → báb → felnőtt.",
-    r4_fact1: "Tojás szakasz: kicsi, növényekre rakva",
-    r4_fact2: "Lárva szakasz: eszik és növekszik, pellevel sújt",
-    r4_fact3: "Báb szakasz: védőhüvely, test átépül",
-    r4_fact4: "Felnőtt szakasz: teljesen kialakult, szaporodhat",
+    // T4: Fejlődés
+    t4_title: "A rovarok egyedfejlődése",
+    t4_text: "A rovarok petékkel szaporodnak, és növekedésük során vedleniük kell a merev kitinváz miatt. Fejlődésük lehet teljes vagy átalakulás nélküli (kifejlés).",
+    t4_b1: "Teljes átalakulás: pete -> lárva (hernyó) -> báb -> kifejlett rovar (pl. lepke).",
+    t4_b2: "Kifejlés: pete -> lárva (kicsinyített másolat) -> kifejlett rovar (pl. szöcske).",
+    t4_b3: "A bábállapot a teljes átalakulás jellemzője.",
+    t4_inst: "Párosítsd a fejlődési típust a jellemzőjével!",
+    t4_l1: "Teljes átalakulás", t4_r1: "Van bábállapot (pl. lepke)",
+    t4_l2: "Kifejlés", t4_r2: "Nincs bábállapot (pl. szöcske)",
+    t4_l3: "Vedlés", t4_r3: "A régi külső váz ledobása",
+    t4_q: "Mi hiányzik a kifejlés (hiányos átalakulás) szakaszaiból?",
+    t4_q_a: "A bábállapot", t4_q_b: "A pete", t4_q_c: "A lárva", t4_q_d: "A kifejlett rovar",
 
-    // Round 5
-    r5_title: "Gyors Ismétlés",
-
-    // Q1
-    q1_q: "Hány lábuk van a rovaroknak?",
-    q1_6: "6 láb",
-    q1_8: "8 láb",
-    q1_4: "4 láb",
-    q1_10: "10 láb",
-
-    // Q2
-    q2_q: "Mire használnak a pók 8 lábat?",
-    q2_walking: "Járás és mászás",
-    q2_flying: "Repülés",
-    q2_swimming: "Úszás",
-    q2_digging: "Ásás",
-
-    // Q3
-    q3_q: "Hány testrészből áll egy pók?",
-    q3_2: "2 testrészből",
-    q3_3: "3 testrészből",
-    q3_4: "4 testrészből",
-    q3_5: "5 testrészből",
-
-    // Q4
-    q4_q: "Mi történik a báb szakaszban?",
-    q4_body: "A test felnőttre építődik át",
-    q4_eating: "A lárva továbbra is eszik",
-    q4_growing: "Csak nagyobbra nő",
-    q4_dying: "Az állat meghal",
-
-    // SVG R4 labels
-    svg_egg: "Tojás",
-    svg_larva: "Lárva",
-    svg_pupa: "Báb",
-    svg_adult: "Kifejlett",
-    svg_complete: "Teljes",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod az ízeltlábúak világáról!",
+    t5_b1: "Rovar: 6 láb, csáp. Pók: 8 láb, nincs csáp.",
+    t5_b2: "Külső kitinváz, ízelt lábak.",
+    t5_b3: "Fejlődésük során vedlenek.",
+    t5_inst: "Miből áll az ízeltlábúak váza?",
+    t5_gap_sentence2: "Az ízeltlábúak külső vázát {gap} alkotja.",
+    t5_c51: "kitin", t5_c52: "csont", t5_c53: "mész",
+    t5_q: "Melyik állítás IGAZ a pókokra?",
+    t5_q_a: "Testük két testtájra tagolódik.", t5_q_b: "Három pár lábuk van.", t5_q_c: "Tíz csápjuk van.", t5_q_d: "Szárnyakkal repülnek.",
   },
+  en: {
+    explorer_title: "The Arthropods",
+    t1_title: "Insect Anatomy", t1_text: "Insects are the largest animal group on Earth. Their bodies are divided into three distinct parts: head, thorax, and abdomen.",
+    t1_b1: "The thorax has 3 pairs (6 total) of jointed legs.", t1_b2: "Most insects also have wings on the thorax.", t1_b3: "The head has 1 pair of antennae and compound eyes.",
+    t1_inst: "Put the words in order!", t1_w1: "Insects", t1_w2: "always", t1_w3: "have", t1_w4: "exactly", t1_w5: "six", t1_w6: "legs.",
+    t1_q: "Which body part holds the legs and wings of an insect?", t1_q_a: "The thorax", t1_q_b: "The head", t1_q_c: "The abdomen", t1_q_d: "The antennae",
 
+    t2_title: "Arachnids (Spiders)", t2_text: "Spiders are not insects! Their body structure is completely different: they only have two main body parts and more legs.",
+    t2_b1: "Two body parts: cephalothorax and abdomen.", t2_b2: "Four pairs (8 total) of jointed legs on the cephalothorax.", t2_b3: "They have no antennae and no wings.",
+    t2_inst: "How many legs does a spider have?", t2_gap_sentence: "Every arachnid has {gap} legs.",
+    t2_c1: "eight", t2_c2: "six", t2_c3: "ten",
+    t2_q: "What is the front body part of a spider called?", t2_q_a: "Cephalothorax", t2_q_b: "Thorax", t2_q_c: "Abdomen", t2_q_d: "Proboscis",
+
+    t3_title: "Arthropod Groups", t3_text: "Arthropods get their name from their jointed legs attached to an external skeleton (chitin). The main groups are insects, arachnids, and crustaceans.",
+    t3_b1: "Insects: 6 legs, 3 body parts.", t3_b2: "Arachnids: 8 legs, 2 body parts.", t3_b3: "Crustaceans: 10 or more legs, calcified chitin skeleton (e.g., crabs).",
+    t3_inst: "Insect or Spider? Sort the features!",
+    t3_bucket_rov: "Insects", t3_bucket_pok: "Arachnids",
+    t3_item_r1: "Six legs", t3_item_r2: "3 body parts", t3_item_p1: "Eight legs", t3_item_p2: "No antennae",
+    t3_q: "What material makes up the exoskeleton of arthropods?", t3_q_a: "Chitin", t3_q_b: "Bone", t3_q_c: "Cartilage", t3_q_d: "Keratin",
+
+    t4_title: "Insect Development", t4_text: "Insects reproduce by eggs and must molt their rigid exoskeleton to grow. Their development can be complete or incomplete metamorphosis.",
+    t4_b1: "Complete: egg -> larva (caterpillar) -> pupa -> adult (e.g., butterfly).", t4_b2: "Incomplete: egg -> nymph (mini adult) -> adult (e.g., grasshopper).", t4_b3: "The pupal stage is the hallmark of complete metamorphosis.",
+    t4_inst: "Match the type of development to its feature!",
+    t4_l1: "Complete metamorphosis", t4_r1: "Has a pupa stage (butterfly)", t4_l2: "Incomplete metamorphosis", t4_r2: "No pupa stage (grasshopper)", t4_l3: "Molting", t4_r3: "Shedding the old exoskeleton",
+    t4_q: "What stage is missing in incomplete metamorphosis?", t4_q_a: "The pupa stage", t4_q_b: "The egg", t4_q_c: "The larva", t4_q_d: "The adult",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about the world of arthropods!",
+    t5_b1: "Insect: 6 legs, antennae. Spider: 8 legs, no antennae.", t5_b2: "External chitin skeleton, jointed legs.", t5_b3: "They molt as they grow.",
+    t5_inst: "What is the arthropod skeleton made of?", t5_gap_sentence2: "The exoskeleton of arthropods is made of {gap}.",
+    t5_c51: "chitin", t5_c52: "bone", t5_c53: "calcium",
+    t5_q: "Which statement is TRUE about spiders?", t5_q_a: "Their body is divided into two parts.", t5_q_b: "They have three pairs of legs.", t5_q_c: "They have ten antennae.", t5_q_d: "They fly with wings.",
+  },
+  de: {
+    explorer_title: "Die Gliederfüßer",
+    t1_title: "Aufbau der Insekten", t1_text: "Insekten sind die größte Tiergruppe der Erde. Ihr Körper besteht aus drei deutlich getrennten Teilen: Kopf, Brust und Hinterleib.",
+    t1_b1: "An der Brust befinden sich 3 Paar (insgesamt 6) gegliederte Beine.", t1_b2: "Die meisten Insekten haben auch Flügel an der Brust.", t1_b3: "Am Kopf befinden sich 1 Paar Fühler und Facettenaugen.",
+    t1_inst: "Bringe die Wörter in die richtige Reihenfolge!", t1_w1: "Insekten", t1_w2: "haben", t1_w3: "immer", t1_w4: "genau", t1_w5: "sechs", t1_w6: "Beine.",
+    t1_q: "An welchem Körperteil befinden sich die Beine und Flügel der Insekten?", t1_q_a: "An der Brust", t1_q_b: "Am Kopf", t1_q_c: "Am Hinterleib", t1_q_d: "An den Fühlern",
+
+    t2_title: "Spinnentiere", t2_text: "Spinnen sind keine Insekten! Ihr Körperbau ist völlig anders: Sie bestehen nur aus zwei Hauptteilen und haben mehr Beine.",
+    t2_b1: "Zwei Körperteile: Kopfbrust und Hinterleib.", t2_b2: "Vier Paar (insgesamt 8) gegliederte Beine an der Kopfbrust.", t2_b3: "Sie haben keine Fühler und keine Flügel.",
+    t2_inst: "Wie viele Beine hat eine Spinne?", t2_gap_sentence: "Jedes Spinnentier hat {gap} Beine.",
+    t2_c1: "acht", t2_c2: "sechs", t2_c3: "zehn",
+    t2_q: "Wie nennt man den vorderen Körperteil der Spinne?", t2_q_a: "Kopfbrust", t2_q_b: "Brust", t2_q_c: "Hinterleib", t2_q_d: "Rüssel",
+
+    t3_title: "Gliederfüßer-Gruppen", t3_text: "Gliederfüßer haben ihren Namen von ihren gegliederten Beinen und dem Außenskelett (Chitin). Die Hauptgruppen sind Insekten, Spinnentiere und Krebstiere.",
+    t3_b1: "Insekten: 6 Beine, 3 Körperteile.", t3_b2: "Spinnentiere: 8 Beine, 2 Körperteile.", t3_b3: "Krebstiere: 10 oder mehr Beine, Kalkpanzer (z.B. Flusskrebs).",
+    t3_inst: "Insekt oder Spinne? Sortiere die Merkmale!",
+    t3_bucket_rov: "Insekten", t3_bucket_pok: "Spinnentiere",
+    t3_item_r1: "Sechs Beine", t3_item_r2: "3 Körperteile", t3_item_p1: "Acht Beine", t3_item_p2: "Keine Fühler",
+    t3_q: "Aus welchem Material besteht das Außenskelett der Gliederfüßer?", t3_q_a: "Aus Chitin", t3_q_b: "Aus Knochen", t3_q_c: "Aus Knorpel", t3_q_d: "Aus Kalk",
+
+    t4_title: "Entwicklung der Insekten", t4_text: "Insekten vermehren sich durch Eier. Da ihr Chitinpanzer nicht mitwächst, müssen sie sich häuten. Es gibt vollkommene und unvollkommene Verwandlung.",
+    t4_b1: "Vollkommen: Ei -> Larve (Raupe) -> Puppe -> Insekt (z.B. Schmetterling).", t4_b2: "Unvollkommen: Ei -> Nymphe (kleines Insekt) -> Insekt (z.B. Heuschrecke).", t4_b3: "Das Puppenstadium gibt es nur bei der vollkommenen Verwandlung.",
+    t4_inst: "Verbinde die Entwicklungsart mit ihrem Merkmal!",
+    t4_l1: "Vollkommene Verwandlung", t4_r1: "Mit Puppenstadium (Schmetterling)", t4_l2: "Unvollkommene Verwandlung", t4_r2: "Ohne Puppenstadium (Heuschrecke)", t4_l3: "Häutung", t4_r3: "Abwerfen des alten Panzers",
+    t4_q: "Welches Stadium fehlt bei der unvollkommenen Verwandlung?", t4_q_a: "Das Puppenstadium", t4_q_b: "Das Ei", t4_q_c: "Die Larve", t4_q_d: "Das erwachsene Insekt",
+
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über die Welt der Gliederfüßer!",
+    t5_b1: "Insekt: 6 Beine, Fühler. Spinne: 8 Beine, keine Fühler.", t5_b2: "Außenskelett aus Chitin, gegliederte Beine.", t5_b3: "Sie häuten sich während des Wachstums.",
+    t5_inst: "Woraus besteht das Skelett der Gliederfüßer?", t5_gap_sentence2: "Das Außenskelett der Gliederfüßer besteht aus {gap}.",
+    t5_c51: "Chitin", t5_c52: "Knochen", t5_c53: "Kalk",
+    t5_q: "Welche Aussage über Spinnen ist WAHR?", t5_q_a: "Ihr Körper besteht aus zwei Teilen.", t5_q_b: "Sie haben drei Beinpaare.", t5_q_c: "Sie haben zehn Fühler.", t5_q_d: "Sie fliegen mit Flügeln.",
+  },
   ro: {
-    // Round 1
-    r1_title: "Ce sunt artropozii?",
-    r1_text: "Artropozii sunt animale cu scheletele externe (coji dure) și corpuri segmentate cu picioare articulare. Sunt cel mai mare grup de animale de pe Pământ!",
-    r1_fact1: "Exosqueletul dur protejează corpul",
-    r1_fact2: "Corpul este împărțit în segmente",
-    r1_fact3: "Picioarele articulate permit mișcarea",
-    r1_fact4: "Majoritatea artropozilor sunt nevertebrate",
+    explorer_title: "Artropodele",
+    t1_title: "Anatomia Insectelor", t1_text: "Insectele sunt cel mai mare grup de animale. Corpul lor este format din trei părți distincte: cap, torace și abdomen.",
+    t1_b1: "Toracele are 3 perechi (6 în total) de picioare articulate.", t1_b2: "Majoritatea insectelor au și aripi pe torace.", t1_b3: "Capul are o pereche de antene și ochi compuși.",
+    t1_inst: "Pune cuvintele în ordine!", t1_w1: "Insectele", t1_w2: "au", t1_w3: "întotdeauna", t1_w4: "exact", t1_w5: "șase", t1_w6: "picioare.",
+    t1_q: "Pe ce parte a corpului se află picioarele și aripile insectelor?", t1_q_a: "Pe torace", t1_q_b: "Pe cap", t1_q_c: "Pe abdomen", t1_q_d: "Pe antene",
 
-    // Round 2
-    r2_title: "Insecte: 6 Picioare & Aripi",
-    r2_text: "Insectele au 3 părți ale corpului: cap, torace și abdomen. Au 6 picioare (3 perechi) și majoritatea au aripi. Exemple: albine, fluturi, gândaci.",
-    r2_fact1: "Exact 6 picioare atașate la torace",
-    r2_fact2: "Majoritatea insectelor au aripi",
-    r2_fact3: "3 secțiuni de corp distincte",
-    r2_fact4: "Insectele sunt cel mai divers artropozi",
+    t2_title: "Arahnidele (Păianjenii)", t2_text: "Păianjenii nu sunt insecte! Structura corpului lor este complet diferită: au doar două părți principale și mai multe picioare.",
+    t2_b1: "Două părți ale corpului: cefalotorace și abdomen.", t2_b2: "Patru perechi (8 în total) de picioare pe cefalotorace.", t2_b3: "Nu au antene și nici aripi.",
+    t2_inst: "Câte picioare are un păianjen?", t2_gap_sentence: "Fiecare arahnidă are {gap} picioare.",
+    t2_c1: "opt", t2_c2: "șase", t2_c3: "zece",
+    t2_q: "Cum se numește partea frontală a corpului unui păianjen?", t2_q_a: "Cefalotorace", t2_q_b: "Torace", t2_q_c: "Abdomen", t2_q_d: "Trompă",
 
-    // Round 3
-    r3_title: "Păianjeni: 8 Picioare & Tele",
-    r3_text: "Păianjenii au 8 picioare (4 perechi) și doar 2 părți ale corpului: cefalotorace și abdomen. Mulți păianjeni fac tele pentru a prinde prada. Fără antene!",
-    r3_fact1: "8 picioare este trăsătura caracteristică",
-    r3_fact2: "Doar 2 părți ale corpului (nu 3)",
-    r3_fact3: "Mulți păianjeni fac tele de mătase",
-    r3_fact4: "Fără aripi sau antene",
+    t3_title: "Grupurile de Artropode", t3_text: "Artropodele își iau numele de la picioarele lor articulate atașate unui schelet extern (chitină). Principalele grupuri sunt insectele, arahnidele și crustaceele.",
+    t3_b1: "Insecte: 6 picioare, 3 părți ale corpului.", t3_b2: "Arahnide: 8 picioare, 2 părți ale corpului.", t3_b3: "Crustacee: 10 sau mai multe picioare, schelet calcaros (ex. rac).",
+    t3_inst: "Insectă sau Păianjen? Sortează caracteristicile!",
+    t3_bucket_rov: "Insecte", t3_bucket_pok: "Arahnide",
+    t3_item_r1: "Șase picioare", t3_item_r2: "3 părți ale corpului", t3_item_p1: "Opt picioare", t3_item_p2: "Fără antene",
+    t3_q: "Din ce material este format exoscheletul artropodelor?", t3_q_a: "Din chitină", t3_q_b: "Din os", t3_q_c: "Din cartilaj", t3_q_d: "Din calciu",
 
-    // Round 4
-    r4_title: "Metamorfoza Insectelor",
-    r4_text: "Insectele suferă metamorfoză - o transformare miraculoasă! Metamorfoza completă are 4 stadii: ou → larvă → pupă → adult.",
-    r4_fact1: "Stadium ou: mic, pus pe plante",
-    r4_fact2: "Stadium larvă: mănâncă și crește, schimbă pielea",
-    r4_fact3: "Stadium pupă: cocon protector, corpul se reconstruiește",
-    r4_fact4: "Stadium adult: complet format, poate să se reproduc",
+    t4_title: "Dezvoltarea Insectelor", t4_text: "Insectele se înmulțesc prin ouă și trebuie să năpârlească pentru a crește, deoarece exoscheletul lor este rigid. Metamorfoza poate fi completă sau incompletă.",
+    t4_b1: "Completă: ou -> larvă (omidă) -> pupă -> adult (fluture).", t4_b2: "Incompletă: ou -> nimfă (adult în miniatură) -> adult (lăcustă).", t4_b3: "Stadiul de pupă există doar la metamorfoza completă.",
+    t4_inst: "Potrivește tipul de dezvoltare cu caracteristica sa!",
+    t4_l1: "Metamorfoză completă", t4_r1: "Are stadiu de pupă (fluture)", t4_l2: "Metamorfoză incompletă", t4_r2: "Fără stadiu de pupă (lăcustă)", t4_l3: "Năpârlire", t4_r3: "Înlăturarea vechiului exoschelet",
+    t4_q: "Ce stadiu lipsește în metamorfoza incompletă?", t4_q_a: "Stadiul de pupă", t4_q_b: "Oul", t4_q_c: "Larva", t4_q_d: "Adultul",
 
-    // Round 5
-    r5_title: "Revizuire Rapidă",
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre lumea artropodelor!",
+    t5_b1: "Insectă: 6 picioare, antene. Păianjen: 8 picioare, fără antene.", t5_b2: "Exoschelet din chitină, picioare articulate.", t5_b3: "Ele năpârlesc pentru a crește.",
+    t5_inst: "Din ce este format scheletul artropodelor?", t5_gap_sentence2: "Exoscheletul artropodelor este format din {gap}.",
+    t5_c51: "chitină", t5_c52: "os", t5_c53: "calciu",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre păianjeni?", t5_q_a: "Corpul lor este format din două părți.", t5_q_b: "Au trei perechi de picioare.", t5_q_c: "Au zece antene.", t5_q_d: "Zboară cu aripi.",
+  }
+};
 
-    // Q1
-    q1_q: "Câte picioare au insectele?",
-    q1_6: "6 picioare",
-    q1_8: "8 picioare",
-    q1_4: "4 picioare",
-    q1_10: "10 picioare",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    // Q2
-    q2_q: "Pentru ce folosesc păianjenii 8 picioare?",
-    q2_walking: "Mersul și cățărarea",
-    q2_flying: "Zborând",
-    q2_swimming: "Înot",
-    q2_digging: "Săpat",
-
-    // Q3
-    q3_q: "Câte părți ale corpului are un păianjen?",
-    q3_2: "2 părți ale corpului",
-    q3_3: "3 părți ale corpului",
-    q3_4: "4 părți ale corpului",
-    q3_5: "5 părți ale corpului",
-
-    // Q4
-    q4_q: "Ce se întâmplă în stadium pupă?",
-    q4_body: "Corpul se reconstruiește într-un adult",
-    q4_eating: "Larva continuă să mănânce",
-    q4_growing: "Doar devine mai mare",
-    q4_dying: "Animalul moare",
-
-    // SVG R4 labels
-    svg_egg: "Ou",
-    svg_larva: "Larvă",
-    svg_pupa: "Pupă",
-    svg_adult: "Adult",
-    svg_complete: "Complet",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <InsectAnatomySvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6"],
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <SpiderAnatomySvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"],
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_b2",
+      hint2: "t2_b1",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <ArthropodGroupsSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "rov", label: "t3_bucket_rov" },
+        { id: "pok", label: "t3_bucket_pok" },
+      ],
+      items: [
+        { text: "t3_item_r1", bucketId: "rov" },
+        { text: "t3_item_p1", bucketId: "pok" },
+        { text: "t3_item_r2", bucketId: "rov" },
+        { text: "t3_item_p2", bucketId: "pok" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b2",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Explorer Definition
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: SVG_R1,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_6", "q1_8", "q1_4", "q1_10"],
-          answer: "q1_6",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: SVG_R2,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      questions: [
-        {
-          question: "q2_q",
-          choices: ["q2_walking", "q2_flying", "q2_swimming", "q2_digging"],
-          answer: "q2_walking",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: SVG_R3,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "q3_q",
-          choices: ["q3_2", "q3_3", "q3_4", "q3_5"],
-          answer: "q3_2",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: SVG_R4,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "q4_q",
-          choices: ["q4_body", "q4_eating", "q4_growing", "q4_dying"],
-          answer: "q4_body",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r1_text",
-      svg: SVG_R1,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_6", "q1_8", "q1_4", "q1_10"],
-          answer: "q1_6",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_walking", "q2_flying", "q2_swimming", "q2_digging"],
-          answer: "q2_walking",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_2", "q3_3", "q3_4", "q3_5"],
-          answer: "q3_2",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🐛",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const ArthropodExplorer = memo(function ArthropodExplorer({
+  color = "#CA8A04", // Sárgás-barna kitin/rovar szín
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_arthropods" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function ArthropodExplorer({ color = "#10B981", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={EXPLORER_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default ArthropodExplorer;
