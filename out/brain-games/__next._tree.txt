@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/071gf0l49j23h.css","style"]
+:HL["/_next/static/chunks/17wz~ah1ct53v.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"brain-games","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"vKn_iHWPbc_ARo90vIJp-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"brain-games","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"hQqw69OCG1eNQxsL7k-Qy"}
