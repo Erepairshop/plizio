@@ -1,592 +1,279 @@
 "use client";
-// ParticipleExplorer — Island i6: Partizip I & II (K5)
-// Teaches: Partizip II review, Partizip I discovery, Partizip as adjective (I+II), MCQ
+// ParticipleExplorer — Island i3: Partizipialkonstruktionen (Participles K8)
+// Topics: 1) Partizip I als Attribut 2) Partizip II als Attribut 3) Erweiterte Gruppen 4) Umwandlung in Relativsatz 5) Mixed Quiz
 
-import { memo, useState, useCallback, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#9A3412" textAnchor="middle">Partizip I (aktiv)</text>
+        <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#FFEDD5" stroke="#EA580C" strokeWidth="2" />
+        <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#9A3412" textAnchor="middle">Infinitiv + -d + Endung</text>
+        <text x="0" y="45" fontSize="10" fill="#C2410C" textAnchor="middle">„der spielende Hund“</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-35" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">Partizip II (passiv)</text>
+        <rect x="-80" y="-10" width="160" height="40" rx="8" fill="#BBF7D0" stroke="#16A34A" strokeWidth="2" />
+        <text x="0" y="15" fontSize="14" fontWeight="bold" fill="#14532D" textAnchor="middle">ge...t/en + Endung</text>
+        <text x="0" y="45" fontSize="10" fill="#15803D" textAnchor="middle">„das verkaufte Auto“</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Partizip-Profi K8",
+    // T1
+    t1_title: "Partizip I mint jelző",
+    t1_text: "Das Partizip I (Präsens) beschreibt eine Handlung, die GLEICHZEITIG und AKTIV passiert. Wir bilden es aus dem Infinitiv + 'd' und hängen die normale Adjektivendung an.",
+    t1_b1: "singen + d + -er = der singende Vogel.",
+    t1_b2: "laufen + d + -es = das laufende Kind.",
+    t1_b3: "Bedeutung: Der Vogel singt (aktiv).",
+    t1_inst: "Welches Partizip I passt in den Satz?",
+    t1_h1: "Das Wasser bewegt sich (fließen).",
+    t1_h2: "Wir brauchen 'fließen' + 'd' + Endung.",
+    t1_gap_sentence: "Wir stehen an einem {gap} Bach.",
+    t1_c1: "fließenden", t1_c2: "geflossenen", t1_c3: "fließend",
+    t1_q: "Was drückt das Partizip I in der Regel aus?",
+    t1_q_a: "Gleichzeitigkeit und Aktivität", t1_q_b: "Abgeschlossenheit und Passivität", t1_q_c: "Die ferne Zukunft", t1_q_d: "Einen Befehl",
+
+    // T2
+    t2_title: "Partizip II mint jelző",
+    t2_text: "Das Partizip II (Perfekt) beschreibt eine Handlung, die ABGESCHLOSSEN ist oder PASSIVisch gemeint ist.",
+    t2_b1: "kaufen ➔ das gekaufte Auto (Es wurde gekauft).",
+    t2_b2: "öffnen ➔ das geöffnete Fenster (Es ist offen).",
+    t2_b3: "Das Nomen 'erleidet' die Handlung.",
+    t2_inst: "Partizip I (aktiv) oder Partizip II (passiv)? Sortiere!",
+    t2_h1: "Tut das Ding etwas selbst (I) vagy tettek vele valamit (II)?",
+    t2_h2: "Ein 'bellender' Hund bellt selbst. Ein 'gekocht' Ei wurde gekocht.",
+    t2_bucket_p1: "Partizip I (aktiv/gerade)",
+    t2_bucket_p2: "Partizip II (passiv/fertig)",
+    t2_item_i1: "der schreiende Junge", t2_item_i2: "das lachende Gesicht",
+    t2_item_ii1: "das gelesene Buch", t2_item_ii2: "die reparierte Uhr",
+    t2_q: "Welches Partizip passt zu: 'Das Haus wurde vor 100 Jahren gebaut'?",
+    t2_q_a: "das gebaute Haus", t2_q_b: "das bauende Haus", t2_q_c: "das gebauende Haus", t2_q_d: "das bauen Haus",
+
+    // T3
+    t3_title: "Erweiterte Partizipialgruppen",
+    t3_text: "Jetzt wird es anspruchsvoll! Wir können weitere Informationen (Adverbien, Objekte) vor das Partizip schieben. Das Partizip steht dann direkt vor dem Nomen.",
+    t3_b1: "Einfach: der Junge.",
+    t3_b2: "Mit Partizip: der LACHENDE Junge.",
+    t3_b3: "Erweitert: der LAUT UND FRÖHLICH LACHENDE Junge.",
+    t3_inst: "Bringe die Wörter in die richtige Reihenfolge für das erweiterte Attribut!",
+    t3_h1: "Der Artikel 'Die' steht ganz vorne, das Nomen 'Tür' ganz hinten.",
+    t3_h2: "Das Partizip 'geöffnete' muss direkt vor 'Tür' stehen.",
+    t3_w1: "Die", t3_w2: "leise", t3_w3: "von", t3_w4: "Geisterhand", t3_w5: "geöffnete", t3_w6: "Tür.",
+    t3_q: "Wo steht in einer erweiterten Partizipialgruppe das Partizip?",
+    t3_q_a: "Direkt vor dem Nomen", t3_q_b: "Ganz am Satzanfang", t3_q_c: "Nach dem Nomen", t3_q_d: "Hinter dem Verb",
+
+    // T4
+    t4_title: "Auflösung in Relativsätze",
+    t4_text: "Jede Partizipialkonstruktion lässt sich in einen Relativsatz umwandeln. Das hilft, den Sinn zu verstehen.",
+    t4_b1: "Partizip: der lesende Schüler.",
+    t4_b2: "Relativsatz: der Schüler, der liest.",
+    t4_b3: "Partizip II ➔ Passiv-Relativsatz: das Buch, das gelesen wurde.",
+    t4_inst: "Verbinde das Partizip-Attribut mit dem passenden Relativsatz!",
+    t4_h1: "'Die brennende Kerze' brennt gerade (aktiv).",
+    t4_h2: "'Das gestohlene Geld' wurde gestohlen (passiv).",
+    t4_l1: "die brennende Kerze", t4_r1: "die Kerze, die brennt",
+    t4_l2: "das gestohlene Geld", t4_r2: "das Geld, das gestohlen wurde",
+    t4_l3: "die wartenden Gäste", t4_r3: "die Gäste, die warten",
+    t4_l4: "die gefundene Lösung", t4_r4: "die Lösung, die gefunden wurde",
+    t4_q: "Welcher Relativsatz entspricht 'der singende Mann'?",
+    t4_q_a: "der Mann, der singt", t4_q_b: "der Mann, der gesungen wurde", t4_q_c: "der Mann, der gesungen hat", t4_q_d: "der Mann, der singen wird",
+
+    // T5
+    t5_title: "Mixed Quiz",
+    t5_text: "Bist du bereit? Teste dein Wissen über Partizip I, II és az összetett szerkezetek használatát.",
+    t5_b1: "-d- = aktiv / gleichzeitig.",
+    t5_b2: "ge... = passiv / abgeschlossen.",
+    t5_b3: "Großschreibung beachten, wenn das Partizip zum Nomen wird!",
+    t5_inst: "Markiere das Partizip I (aktiv) in diesem Satz!",
+    t5_h1: "Suche nach der Endung '-ende' vagy '-ender'.",
+    t5_h2: "Das Wort ist 'strahlenden'.",
+    t5_w21: "Wir", t5_w22: "genießen", t5_w23: "den", t5_w24: "Anblick", t5_w25: "der", t5_w26: "strahlenden", t5_w27: "Sonne.",
+    t5_q: "Welches Wort ist ein Partizip II, das als jelző (Attribut) verwendet wird?",
+    t5_q_a: "versteckt", t5_q_b: "versteckend", t5_q_c: "verstecken", t5_q_d: "versteckd",
+  },
   en: {
-    title: "Participle Explorer",
-    round1Title: "Partizip II — Review",
-    round1Hint: "Tap each card to reveal the Partizip II form!",
-    round2Title: "Partizip I — Discovery",
-    round2Hint: "Tap to discover how Partizip I is formed!",
-    round3Title: "Partizip I as Adjective",
-    round3Hint: "Tap to see how Partizip I works as an adjective!",
-    round4Title: "Partizip II as Adjective",
-    round4Hint: "Tap to compare Partizip II adjective endings!",
-    round5Title: "Choose the Partizip",
-    round5Hint: "Select Partizip I or II for each sentence.",
-    next: "Next",
-    finish: "Finished!",
-    well: "Well done!",
-    tapToReveal: "Tap to reveal",
-    correct: "Correct!",
-    regular: "regular",
-    irregular: "irregular",
-    partizip1: "Partizip I",
-    partizip2: "Partizip II",
-    formation: "Formation: Infinitiv + -d",
-    adjEnding: "adjective ending applies!",
-    discovery: "💡 Partizip I = stem + d (spielend = playing). Partizip II = ge- + stem + -t/-en (gespielt = played). Partizip II is used for Perfekt tense!",
+    explorer_title: "Participle Pro",
+    t1_inst: "Which Partizip I fits into the sentence?",
+    t2_inst: "Partizip I (active) or Partizip II (passive)? Sort them!",
+    t3_inst: "Put the words in the correct order for the expanded attribute!",
+    t4_inst: "Connect the participle attribute with the matching relative clause!",
+    t5_inst: "Highlight the Partizip I (active) in this sentence!",
   },
   hu: {
-    title: "Igenév felfedező",
-    round1Title: "Partizip II — ismétlés",
-    round1Hint: "Koppints minden kártyára a Partizip II alak felfedéséhez!",
-    round2Title: "Partizip I — felfedezés",
-    round2Hint: "Koppints, hogy megtudd hogyan képezzük a Partizip I-t!",
-    round3Title: "Partizip I melléknévként",
-    round3Hint: "Koppints, hogy meglásd hogyan működik a Partizip I melléknévként!",
-    round4Title: "Partizip II melléknévként",
-    round4Hint: "Koppints a Partizip II melléknévi végzetek összehasonlításához!",
-    round5Title: "Válaszd ki a Partizip-ot",
-    round5Hint: "Válaszd ki a Partizip I-t vagy II-t a mondathoz.",
-    next: "Tovább",
-    finish: "Kész!",
-    well: "Remek!",
-    tapToReveal: "Koppints a megjelenítéshez",
-    correct: "Helyes!",
-    regular: "szabályos",
-    irregular: "rendhagyó",
-    partizip1: "Partizip I",
-    partizip2: "Partizip II",
-    formation: "Képzés: Főnévi igenév + -d",
-    adjEnding: "melléknévi végzet járul hozzá!",
-    discovery: "💡 Partizip I = tővé + d (spielend = playing). Partizip II = ge- + tő + -t/-en (gespielt = played). A Partizip II a Perfekt igeidőben használatos!",
-  },
-  de: {
-    title: "Partizip-Entdecker",
-    round1Title: "Partizip II — Wiederholung",
-    round1Hint: "Tippe auf jede Karte, um die Partizip-II-Form aufzudecken!",
-    round2Title: "Partizip I — Entdeckung",
-    round2Hint: "Tippe, um zu entdecken wie Partizip I gebildet wird!",
-    round3Title: "Partizip I als Adjektiv",
-    round3Hint: "Tippe, um zu sehen wie Partizip I als Adjektiv verwendet wird!",
-    round4Title: "Partizip II als Adjektiv",
-    round4Hint: "Tippe, um Partizip-II-Adjektivendungen zu vergleichen!",
-    round5Title: "Partizip auswählen",
-    round5Hint: "Wähle Partizip I oder II für jeden Satz.",
-    next: "Weiter",
-    finish: "Fertig!",
-    well: "Super gemacht!",
-    tapToReveal: "Zum Aufdecken tippen",
-    correct: "Richtig!",
-    regular: "regelmäßig",
-    irregular: "unregelmäßig",
-    partizip1: "Partizip I",
-    partizip2: "Partizip II",
-    formation: "Bildung: Infinitiv + -d",
-    adjEnding: "Adjektivendung wird angefügt!",
-    discovery: "💡 Partizip I = Stamm + d (spielend = spielend). Partizip II = ge- + Stamm + -t/-en (gespielt = gespielt). Partizip II wird im Perfekt verwendet!",
+    explorer_title: "Particípium-profiknak",
+    t1_inst: "Melyik folyamatos melléknévi igenév (P.I) illik a mondatba?",
+    t2_inst: "Folyamatos (I - aktív) vagy befejezett (II - passzív)? Válogasd szét!",
+    t3_inst: "Tedd a szavakat a helyes sorrendbe a bővített jelzőhöz!",
+    t4_inst: "Párosítsd az igeneves szerkezetet a megfelelő vonatkozói mellékmondattal!",
+    t5_inst: "Jelöld ki a folyamatos melléknévi igenevet (aktív) a mondatban!",
   },
   ro: {
-    title: "Exploratorul participiului",
-    round1Title: "Partizip II — Recapitulare",
-    round1Hint: "Atinge fiecare carte pentru a dezvălui forma Partizip II!",
-    round2Title: "Partizip I — Descoperire",
-    round2Hint: "Atinge pentru a descoperi cum se formează Partizip I!",
-    round3Title: "Partizip I ca adjectiv",
-    round3Hint: "Atinge pentru a vedea cum funcționează Partizip I ca adjectiv!",
-    round4Title: "Partizip II ca adjectiv",
-    round4Hint: "Atinge pentru a compara terminațiile adjectivale ale Partizip II!",
-    round5Title: "Alege Participiul",
-    round5Hint: "Selectează Partizip I sau II pentru fiecare propoziție.",
-    next: "Înainte",
-    finish: "Gata!",
-    well: "Bravo!",
-    tapToReveal: "Atinge pentru a dezvălui",
-    correct: "Corect!",
-    regular: "regulat",
-    irregular: "neregulat",
-    partizip1: "Partizip I",
-    partizip2: "Partizip II",
-    formation: "Formare: Infinitiv + -d",
-    adjEnding: "se adaugă terminația adjectivală!",
-    discovery: "💡 Partizip I = stem + d (spielend = jucând). Partizip II = ge- + stem + -t/-en (gespielt = jucat). Partizip II se folosește în Perfekt!",
-  },
+    explorer_title: "Expert Participiu",
+    t1_inst: "Care participiu I se potrivește în propoziție?",
+    t2_inst: "Participiu I (activ) sau Participiu II (pasiv)? Sortează-le!",
+    t3_inst: "Pune cuvintele în ordinea corectă pentru atributul extins!",
+    t4_inst: "Conectează atributul participial cu propoziția relativă corespunzătoare!",
+    t5_inst: "Marchează participiul I (activ) în această propoziție!",
+  }
 };
 
-const PART2_CARDS_POOL = [
-  { inf: "spielen", p2: "gespielt", type: "regular", emoji: "⚽" },
-  { inf: "machen", p2: "gemacht", type: "regular", emoji: "🔨" },
-  { inf: "singen", p2: "gesungen", type: "irregular", emoji: "🎵" },
-  { inf: "gehen", p2: "gegangen", type: "irregular", emoji: "🚶" },
-  { inf: "schreiben", p2: "geschrieben", type: "irregular", emoji: "✏️" },
-  { inf: "finden", p2: "gefunden", type: "irregular", emoji: "🔍" },
-  { inf: "arbeiten", p2: "gearbeitet", type: "regular", emoji: "💼" },
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "p1", label: "t2_bucket_p1" },
+        { id: "p2", label: "t2_bucket_p2" },
+      ],
+      items: [
+        { text: "t2_item_i1", bucketId: "p1" },
+        { text: "t2_item_ii1", bucketId: "p2" },
+        { text: "t2_item_i2", bucketId: "p1" },
+        { text: "t2_item_ii2", bucketId: "p2" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6"], // Die leise von Geisterhand geöffnete Tür.
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+        { left: "t4_l4", right: "t4_r4" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t5_w21", "t5_w22", "t5_w23", "t5_w24", "t5_w25", "t5_w26", "t5_w27"], // ... strahlenden ...
+      correctIndices: [5], 
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
 ];
 
-const PART1_EXAMPLES_POOL = [
-  { inf: "spielen", p1: "spielend", example: "das spielende Kind", emoji: "🧒" },
-  { inf: "singen", p1: "singend", example: "die singende Frau", emoji: "🎤" },
-  { inf: "lachen", p1: "lachend", example: "der lachende Mann", emoji: "😄" },
-  { inf: "tanzen", p1: "tanzend", example: "das tanzende Paar", emoji: "💃" },
-];
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const PART1_ADJ_POOL = [
-  { base: "schlafend", nom: "der schlafende Hund", akk: "einen schlafenden Hund" },
-  { base: "laufend", nom: "die laufende Katze", akk: "eine laufende Katze" },
-  { base: "spielend", nom: "das spielende Kind", akk: "ein spielendes Kind" },
-];
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "📜",
+  topics: TOPICS,
+  rounds: [],
+};
 
-const PART2_ADJ_POOL = [
-  { base: "gebrochen", nom: "das gebrochene Glas", akk: "ein gebrochenes Glas" },
-  { base: "geschrieben", nom: "der geschriebene Brief", akk: "einen geschriebenen Brief" },
-  { base: "geöffnet", nom: "die geöffnete Tür", akk: "eine geöffnete Tür" },
-];
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-const MIXED_QUIZ_POOL = [
-  { sentence: "Die ___ Kinder spielen im Garten.", fill: "P1 → spielend → spielenden", options: ["gespielten", "spielenden", "gespielt"], correct: "spielenden", hint: "Partizip I als Adjektiv" },
-  { sentence: "Das ___ Fenster war offen.", fill: "P2 → brechen → gebrochen", options: ["brechende", "gebrochene", "bricht"], correct: "gebrochene", hint: "Partizip II als Adjektiv" },
-  { sentence: "Der ___ Brief liegt auf dem Tisch.", fill: "P2 → schreiben → geschrieben", options: ["schreibende", "schreibenden", "geschriebene"], correct: "geschriebene", hint: "Partizip II als Adjektiv" },
-  { sentence: "Ich sehe den ___ Vogel.", fill: "P1 → singen → singend", options: ["gesungenen", "singenden", "singt"], correct: "singenden", hint: "Partizip I als Adjektiv (Akk)" },
-  { sentence: "Die ___ Tür ist jetzt zu.", fill: "P2 → öffnen → geöffnet", options: ["öffnende", "geöffnete", "öffnet"], correct: "geöffnete", hint: "Partizip II als Adjektiv" },
-];
-
-// Helper: shuffle array
-function shuffle<T>(arr: T[]): T[] {
-  const copy = [...arr];
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-
-function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
-  return (
-    <div className="flex gap-1.5 w-full">
-      {Array.from({ length: total }, (_, i) => (
-        <div key={i} className="flex-1 h-2 rounded-full"
-          style={{ background: i < current ? "#00FF88" : i === current ? color : "rgba(255,255,255,0.12)" }} />
-      ))}
-    </div>
-  );
-}
-
-function NextBtn({ onClick, label, color }: { onClick: () => void; label: string; color: string }) {
-  return (
-    <motion.button onClick={onClick}
-      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}>
-      {label} <ChevronRight size={16} />
-    </motion.button>
-  );
-}
-
-// ─── Round 1: Partizip II flip cards ─────────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [flipped, setFlipped] = useState<Set<number>>(new Set());
-  const allFlipped = flipped.size >= PART2_CARDS_POOL.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="flex flex-col gap-2 w-full">
-        {PART2_CARDS_POOL.map((card, i) => {
-          const isFlipped = flipped.has(i);
-          const typeColor = card.type === "regular" ? "#10B981" : "#F59E0B";
-          return (
-            <motion.button key={card.inf}
-              onClick={() => setFlipped(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-3 flex items-center justify-between"
-              style={{
-                background: isFlipped ? `${typeColor}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isFlipped ? typeColor : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isFlipped ? { scale: 0.98 } : {}}>
-              <div className="flex items-center gap-2">
-                <span className="text-xl">{card.emoji}</span>
-                <span className="text-white font-bold text-base">{card.inf}</span>
-                <span className="text-xs px-1.5 py-0.5 rounded-full font-bold"
-                  style={{ background: `${typeColor}25`, color: typeColor }}>
-                  {lbl[card.type]}
-                </span>
-              </div>
-              {isFlipped ? (
-                <motion.span initial={{ opacity: 0, x: 8 }} animate={{ opacity: 1, x: 0 }}
-                  className="font-black text-base" style={{ color: typeColor }}>
-                  {card.p2}
-                </motion.span>
-              ) : (
-                <span className="text-white/30 text-xs">{lbl.tapToReveal}</span>
-              )}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allFlipped && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 2: Partizip I discovery ───────────────────────────────────────────
-function Round2({ color, lbl, lang, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; lang?: string; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART1_EXAMPLES_POOL.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
-      <div className="w-full rounded-xl p-3 text-center text-xs font-bold"
-        style={{ background: `${color}18`, border: `1px solid ${color}44`, color }}>
-        {lbl.formation}
-      </div>
-      <div className="flex flex-col gap-2 w-full">
-        {PART1_EXAMPLES_POOL.map((ex, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={ex.inf}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="relative w-full rounded-2xl p-4 text-left"
-              style={{
-                background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              {isOpen && (
-                <div className="absolute top-2 right-2">
-                  <SpeakButton text={ex.example} lang={"de"} size={14} />
-                </div>
-              )}
-              <div className="flex items-center gap-2">
-                <span className="text-xl">{ex.emoji}</span>
-                <span className="text-white font-bold">{ex.inf}</span>
-                <span className="text-white/40 text-xs">→</span>
-                {isOpen ? (
-                  <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    className="font-black" style={{ color }}>{ex.p1}</motion.span>
-                ) : (
-                  <span className="text-white/25">?</span>
-                )}
-              </div>
-              {isOpen && (
-                <motion.p initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-                  className="text-white/70 text-sm mt-1 pl-1 italic">{ex.example}</motion.p>
-              )}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 3: Partizip I as adjective ────────────────────────────────────────
-function Round3({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART1_ADJ_POOL.length * 2;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
-      <p className="text-white/50 text-xs text-center italic">
-        {lbl.partizip1}: Infinitiv + -d → {lbl.adjEnding}
-      </p>
-      {PART1_ADJ_POOL.map((item, i) => (
-        <div key={item.base} className="w-full flex flex-col gap-1.5">
-          {[item.nom, item.akk].map((form, j) => {
-            const key = i * 2 + j;
-            const isOpen = revealed.has(key);
-            return (
-              <motion.button key={form}
-                onClick={() => setRevealed(prev => new Set([...prev, key]))}
-                className="w-full rounded-xl p-3 text-left flex items-center justify-between"
-                style={{
-                  background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
-                  border: `1px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
-                }}
-                whileTap={!isOpen ? { scale: 0.98 } : {}}>
-                {isOpen ? (
-                  <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    className="font-bold text-sm" style={{ color }}>{form}</motion.span>
-                ) : (
-                  <span className="text-white/30 text-xs">{lbl.tapToReveal}</span>
-                )}
-              </motion.button>
-            );
-          })}
-        </div>
-      ))}
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 4: Partizip II as adjective ───────────────────────────────────────
-function Round4({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= PART2_ADJ_POOL.length * 2;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
-      <p className="text-white/50 text-xs text-center italic">
-        {lbl.partizip2}: {lbl.adjEnding}
-      </p>
-      {PART2_ADJ_POOL.map((item, i) => (
-        <div key={item.base} className="w-full flex flex-col gap-1.5">
-          {[item.nom, item.akk].map((form, j) => {
-            const key = i * 2 + j;
-            const isOpen = revealed.has(key);
-            return (
-              <motion.button key={form}
-                onClick={() => setRevealed(prev => new Set([...prev, key]))}
-                className="w-full rounded-xl p-3 flex items-center justify-between"
-                style={{
-                  background: isOpen ? `${color}18` : "rgba(255,255,255,0.04)",
-                  border: `1px solid ${isOpen ? color : "rgba(255,255,255,0.1)"}`,
-                }}
-                whileTap={!isOpen ? { scale: 0.98 } : {}}>
-                {isOpen ? (
-                  <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                    className="font-bold text-sm" style={{ color }}>{form}</motion.span>
-                ) : (
-                  <span className="text-white/30 text-xs">{lbl.tapToReveal}</span>
-                )}
-              </motion.button>
-            );
-          })}
-        </div>
-      ))}
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 5: MCQ Partizip I or II ────────────────────────────────────────────
-function Round5({ color, lbl, wrongCountRef, onDone , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; wrongCountRef: React.MutableRefObject<number>; onDone: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [quiz] = useState(() => shuffle(MIXED_QUIZ_POOL).slice(0, 4));
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
-  const item = quiz[idx];
-  const isCorrect = selected === item.correct;
-
-  const handleSelect = (opt: string) => {
-    if (selected || feedback) return;
-    setSelected(opt);
-    const isCorrectChoice = opt === item.correct;
-    setFeedback(isCorrectChoice ? "correct" : "wrong");
-
-    if (!isCorrectChoice) {
-      wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Participles", lang: "de" });
-    }
-
-    setTimeout(() => {
-      if (idx + 1 >= quiz.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); setFeedback(null); }
-    }, 1000);
-  };
-
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
-      <div className="flex gap-1">
-        {quiz.map((_, i) => (
-          <div key={i} className="w-2 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-      <AnimatePresence mode="wait">
-        <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
-          style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">{item.sentence}</p>
-          {feedback && (
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}>
-              {isCorrect ? `✅ ${lbl.correct}` : `❌ → ${item.correct}`} ({item.hint})
-            </motion.p>
-          )}
-        </motion.div>
-      </AnimatePresence>
-      <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => {
-          let bgColor = "rgba(255,255,255,0.06)";
-          let borderColor = "rgba(255,255,255,0.2)";
-          let textColor = "white";
-
-          if (feedback && selected === opt) {
-            if (opt === item.correct) {
-              bgColor = "rgba(0,255,136,0.2)";
-              borderColor = "#00FF88";
-              textColor = "#00FF88";
-            } else {
-              bgColor = "rgba(255,45,120,0.15)";
-              borderColor = "#FF2D78";
-              textColor = "#FF2D78";
-            }
-          } else if (feedback && opt === item.correct && selected !== opt) {
-            bgColor = "rgba(0,255,136,0.2)";
-            borderColor = "#00FF88";
-            textColor = "#00FF88";
-          }
-
-          return (
-            <motion.button key={opt}
-              onClick={() => handleSelect(opt)}
-              className="w-full py-3 rounded-xl font-black text-base"
-              style={{
-                background: bgColor,
-                border: `2px solid ${borderColor}`,
-                color: textColor,
-              }}
-              whileTap={!selected && !feedback ? { scale: 0.97 } : {}}>
-              {opt}
-              {feedback && selected === opt && opt === item.correct && " ✅"}
-              {feedback && selected === opt && opt !== item.correct && " ❌"}
-            </motion.button>
-          );
-        })}
-      </div>
-    </div>
-  );
-}
-
-// ─── Main Component ────────────────────────────────────────────────────────────
 const ParticipleExplorer = memo(function ParticipleExplorer({
-  color, lang = "de", onDone,
+  color = "#F97316",
+  onDone,
+  lang = "de",
 }: {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const TOTAL_ROUNDS = 5;
-
-  // Error tracking
-  const wrongCountRef = useRef(0);
-
-  const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => {
-    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
-    onDone(score, TOTAL_ROUNDS);
-  }, [onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
-      <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
-      <AnimatePresence mode="wait">
-        <motion.div key={round}
-          initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
-          className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} lang={lang} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 4 && <Round5 color={color} lbl={lbl} wrongCountRef={wrongCountRef} onDone={finish} showTeach={showTeach} setShowTeach={setShowTeach} />}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={8} explorerId="deutsch_k8_participle" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default ParticipleExplorer;
