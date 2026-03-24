@@ -1,411 +1,389 @@
 "use client";
-// ImmuneExplorer — Klasse 7: Immune System (Immunsystem)
-// Topics: Immune cells, immune response, vaccination, antibodies, review
-// Teaching-first pattern: R1-R4 info rounds + questions, R5 quiz
+// ImmuneExplorer.tsx — Bio Island i7: Immunrendszer (K7)
+// Topics: 1) Immunsejtek 2) Immunválasz 3) Védőoltások 4) Specifikus védekezés 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { ImmuneSystemSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEE2E2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="30" textAnchor="middle">🦠</text>
+        <path d="M -10,0 L 20,0" stroke="#EF4444" strokeWidth="4" markerEnd="url(#arrow)" />
+        <text x="50" y="10" fontSize="40" textAnchor="middle">💥</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#E0F2FE" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-30" y="15" fontSize="45" textAnchor="middle">💉</text>
+        <path d="M 10,0 L 40,0" stroke="#0284C7" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="60" y="15" fontSize="30" textAnchor="middle">🛡️</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🛡️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Az Immunrendszer",
+    // T1: Immunsejtek (Label-diagram)
+    t1_title: "A testünk katonái",
+    t1_text: "Az immunrendszer feladata megvédeni a testet a kórokozóktól (baktériumok, vírusok). Különböző sejtek dolgoznak együtt a védelemben.",
+    t1_b1: "Falósejtek: bekebelezik és megemésztik az idegen anyagokat.",
+    t1_b2: "Nyiroksejtek (Limfociták): felismerik a specifikus ellenséget.",
+    t1_b3: "Ellenanyagok: Y-alakú fehérjék, amik hatástalanítják a betolakodókat.",
+    t1_inst: "Címkézd fel az immunrendszer szereplőit!",
+    t1_area_phago: "Falósejt",
+    t1_area_lympho: "Nyiroksejt",
+    t1_area_antibody: "Ellenanyag",
+    t1_area_pathogen: "Kórokozó",
+    t1_q: "Melyik sejt 'eszi meg' szó szerint a baktériumokat?",
+    t1_q_a: "A falósejt", t1_q_b: "A vörösvérsejt", t1_q_c: "A vérlemezke", t1_q_d: "Az idegsejt",
+
+    // T2: Immunválasz
+    t2_title: "Harc a betolakodók ellen",
+    t2_text: "Amikor kórokozó jut a szervezetbe, beindul az immunválasz. A test riadót fúj, megindul a védekezés.",
+    t2_b1: "Gyulladás: a terület vérellátása nő (pirosság, duzzanat).",
+    t2_b2: "Láz: a magasabb hőmérséklet gátolja a baktériumok szaporodását.",
+    t2_b3: "Genny: elpusztult falósejtek és kórokozók tömege.",
+    t2_inst: "Melyik tünet segíti a védekezést?",
+    t2_gap_sentence: "A {gap} segít elpusztítani a kórokozókat a magas hőmérséklettel.",
+    t2_c1: "láz", t2_c2: "alvás", t2_c3: "evés",
+    t2_q: "Mi a genny tulajdonképpen?",
+    t2_q_a: "Elpusztult sejtek és kórokozók maradványa", t2_q_b: "Tiszta vérplazma", t2_q_c: "Vitaminraktár", t2_q_d: "Izomszövet",
+
+    // T3: Védőoltások
+    t3_title: "A megelőzés: Oltások",
+    t3_text: "A védőoltások felkészítik az immunrendszert egy későbbi valódi fertőzésre. Két fő típusuk van.",
+    t3_b1: "Aktív oltás: legyengített kórokozót kapunk, a test maga gyárt ellenanyagot.",
+    t3_b2: "Passzív oltás: kész ellenanyagot kapunk (azonnali segítség).",
+    t3_b3: "Emlékezősejtek: évekig 'emlékeznek' az ellenségre.",
+    t3_inst: "Aktív vagy Passzív oltás? Válogasd szét!",
+    t3_bucket_akt: "Aktív oltás",
+    t3_bucket_pas: "Passzív oltás",
+    t3_item_a1: "Legyengített kórokozó", t3_item_a2: "Saját ellenanyag-gyártás",
+    t3_item_p1: "Kész ellenanyag", t3_item_p2: "Azonnali segítség",
+    t3_q: "Hogyan működik az aktív védőoltás?",
+    t3_q_a: "A testet saját ellenanyag termelésére készteti", t3_q_b: "Kipucolja a beleket", t3_q_c: "Lelkileg nyugtat meg", t3_q_d: "Vörösvérsejteket termel",
+
+    // T4: Specifikus védekezés
+    t4_title: "Célzott védelem",
+    t4_text: "Míg a falósejtek mindent megesznek, ami idegen, a nyiroksejtek pontosan azonosítják a betolakodót az antigének alapján.",
+    t4_b1: "Antigén: a kórokozó felszínén lévő egyedi jelzőmolekula.",
+    t4_b2: "Az ellenanyag pontosan illeszkedik az antigénhez.",
+    t4_b3: "Zár-kulcs kapcsolat: csak a megfelelő kulcs nyitja a zárat.",
+    t4_inst: "Párosítsd a fogalmakat!",
+    t4_l1: "Antigén", t4_r1: "A kórokozó 'rendszámtáblája'",
+    t4_l2: "Ellenanyag", t4_r2: "A sejt által gyártott 'fegyver'",
+    t4_l3: "Emlékezősejt", t4_r3: "Tárolja az ellenség képét",
+    t4_q: "Mihez hasonlítható az ellenanyag és az antigén kapcsolata?",
+    t4_q_a: "Zár és kulcs", t4_q_b: "Kalapács és szög", t4_q_c: "Víz és olaj", t4_q_d: "Tű és cérna",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Készen állsz megvédeni a várad? Ellenőrizzük a tudást!",
+    t5_b1: "Falósejtek és nyiroksejtek a fő katonák.",
+    t5_b2: "Az ellenanyagok specifikusak.",
+    t5_b3: "Az oltás életmentő védekezési módszer.",
+    t5_inst: "Miket termelnek a nyiroksejtek a vírusok ellen?",
+    t5_gap_sentence2: "A nyiroksejtek speciális {gap} gyártanak a védelemhez.",
+    t5_c51: "ellenanyagokat", t5_c52: "cukrokat", t5_c53: "hormonokat",
+    t5_q: "Melyik állítás IGAZ az immunrendszerre?",
+    t5_q_a: "Képes felismerni és megjegyezni a kórokozókat.", t5_q_b: "Csak akkor működik, ha fáj valamink.", t5_q_c: "A szívben termeli az oxigént.", t5_q_d: "A csontok mozgatásáért felelős.",
+  },
   en: {
-    // Round 1: Immune Cells
-    r1_title: "Immune Cells: The Body's Defenders",
-    r1_text: "White blood cells are specialized defenders that protect your body from harmful invaders.",
-    r1_fact1: "T-cells attack infected cells directly",
-    r1_fact2: "B-cells produce antibodies (protein weapons)",
-    r1_fact3: "Macrophages engulf and destroy pathogens",
-    r1_fact4: "Each cell type has a unique role in defense",
+    explorer_title: "The Immune System",
+    t1_title: "Body's Soldiers", t1_text: "The immune system's job is to protect the body from pathogens. Different cells work together for defense.",
+    t1_b1: "Phagocytes: engulf and digest foreign materials.", t1_b2: "Lymphocytes: recognize specific enemies.", t1_b3: "Antibodies: Y-shaped proteins that neutralize invaders.",
+    t1_inst: "Label the players of the immune system!",
+    t1_area_phago: "Phagocyte", t1_area_lympho: "Lymphocyte", t1_area_antibody: "Antibody", t1_area_pathogen: "Pathogen",
+    t1_q: "Which cell literally 'eats' bacteria?", t1_q_a: "Phagocyte", t1_q_b: "Red blood cell", t1_q_c: "Platelet", t1_q_d: "Neuron",
 
-    // Round 2: Immune Response
-    r2_title: "Immune Response: The Defense Chain",
-    r2_text: "When a pathogen invades, your body triggers a coordinated response to eliminate the threat.",
-    r2_fact1: "Pathogen detected → immune system activated",
-    r2_fact2: "White blood cells attack and destroy the invader",
-    r2_fact3: "Memory cells remember the pathogen for future protection",
-    r2_fact4: "This memory is why you don't get the same illness twice!",
+    t2_title: "Immune Response", t2_text: "When a pathogen enters, the immune response starts. The body sounds an alarm.",
+    t2_b1: "Inflammation: blood flow increases (redness, swelling).", t2_b2: "Fever: higher temperature inhibits bacterial growth.", t2_b3: "Pus: mass of dead phagocytes and pathogens.",
+    t2_inst: "Which symptom helps the defense?", t2_gap_sentence: "{gap} helps kill pathogens with high temperature.",
+    t2_c1: "Fever", t2_c2: "Sleep", t2_c3: "Eating",
+    t2_q: "What is pus actually?", t2_q_a: "Remnants of dead cells and pathogens", t2_q_b: "Pure plasma", t2_q_c: "Vitamin storage", t2_q_d: "Muscle tissue",
 
-    // Round 3: Vaccination
-    r3_title: "Vaccination: Training the Immune System",
-    r3_text: "Vaccines contain weakened or dead pathogens to teach your immune system without causing disease.",
-    r3_fact1: "Vaccine contains harmless version of a pathogen",
-    r3_fact2: "Immune system learns to recognize the real pathogen",
-    r3_fact3: "Memory cells are created for long-term protection",
-    r3_fact4: "If real pathogen invades later, body is ready!",
+    t3_title: "Prevention: Vaccines", t3_text: "Vaccines prepare the immune system for a future infection. There are two main types.",
+    t3_b1: "Active vaccine: contains weakened pathogens, body makes its own antibodies.", t3_b2: "Passive vaccine: ready-made antibodies (immediate help).", t3_b3: "Memory cells: 'remember' the enemy for years.",
+    t3_inst: "Active or Passive vaccine? Sort them!",
+    t3_bucket_akt: "Active vaccine", t3_bucket_pas: "Passive vaccine",
+    t3_item_a1: "Weakened pathogen", t3_item_a2: "Body makes antibodies",
+    t3_item_p1: "Ready-made antibodies", t3_item_p2: "Immediate help",
+    t3_q: "How does an active vaccine work?",
+    t3_q_a: "It triggers the body to produce its own antibodies", t3_q_b: "It cleans the intestines", t3_q_c: "It calms the mind", t3_q_d: "It makes red blood cells",
 
-    // Round 4: Antibodies
-    r4_title: "Antibodies: Molecular Weapons",
-    r4_text: "Antibodies are Y-shaped proteins made by B-cells. Each antibody targets a specific antigen.",
-    r4_fact1: "Antibodies have binding sites that fit antigens like a key in a lock",
-    r4_fact2: "One antibody type targets one pathogen type",
-    r4_fact3: "Antibodies neutralize toxins and mark pathogens for destruction",
-    r4_fact4: "Your body produces thousands of different antibodies",
+    t4_title: "Specific Defense", t4_text: "While phagocytes eat everything foreign, lymphocytes identify invaders exactly using antigens.",
+    t4_b1: "Antigen: unique marker molecule on the pathogen surface.", t4_b2: "Antibodies fit antigens exactly.", t4_b3: "Lock-and-key relationship.",
+    t4_inst: "Match the concepts!",
+    t4_l1: "Antigen", t4_r1: "The pathogen's 'license plate'",
+    t4_l2: "Antibody", t4_r2: "The 'weapon' produced by the cell",
+    t4_l3: "Memory cell", t4_r3: "Stores the enemy's image",
+    t4_q: "What is the antibody-antigen relationship like?",
+    t4_q_a: "Lock and key", t4_q_b: "Hammer and nail", t4_q_c: "Water and oil", t4_q_d: "Needle and thread",
 
-    // Round 5: Quiz
-    r5_title: "Immune System Review",
-
-    // Quiz Questions
-    q1_q: "Which white blood cell produces antibodies?",
-    q1_bcell: "B-cell",
-    q1_tcell: "T-cell",
-    q1_macro: "Macrophage",
-    q1_neutr: "Neutrophil",
-
-    q2_q: "What does a vaccine contain?",
-    q2_weak: "Weakened or dead pathogen",
-    q2_antibody: "Ready-made antibodies",
-    q2_active: "Active disease",
-    q2_memory: "Memory cells only",
-
-    q3_q: "Why are antibodies Y-shaped?",
-    q3_specific: "To bind specific antigens like a lock and key",
-    q3_strength: "To be stronger",
-    q3_move: "To move faster",
-    q3_immune: "To signal immune cells",
+    t5_title: "Summary Quiz", t5_text: "Ready to defend your castle?",
+    t5_b1: "Phagocytes and lymphocytes are the main soldiers.", t5_b2: "Antibodies are specific.", t5_b3: "Vaccination is a life-saving method.",
+    t5_inst: "What do lymphocytes produce against viruses?", t5_gap_sentence2: "Lymphocytes produce special {gap} for defense.",
+    t5_c51: "antibodies", t5_c52: "sugars", t5_c53: "hormones",
+    t5_q: "Which statement is TRUE about the immune system?",
+    t5_q_a: "It can recognize and remember pathogens.", t5_q_b: "It only works when we are in pain.", t5_q_c: "It produces oxygen in the heart.", t5_q_d: "It's responsible for moving bones.",
   },
   de: {
-    r1_title: "Immunzellen: Die Verteidiger des Körpers",
-    r1_text: "Weiße Blutkörperchen sind spezialisierte Verteidiger, die deinen Körper vor schädlichen Eindringlingen schützen.",
-    r1_fact1: "T-Zellen greifen infizierte Zellen direkt an",
-    r1_fact2: "B-Zellen produzieren Antikörper (Proteinwaffen)",
-    r1_fact3: "Makrophagen verschlingen und zerstören Pathogene",
-    r1_fact4: "Jeder Zelltyp hat eine einzigartige Abwehrrolle",
+    explorer_title: "Das Immunsystem",
+    t1_title: "Soldaten des Körpers", t1_text: "Das Immunsystem schützt den Körper vor Krankheitserregern. Verschiedene Zellen arbeiten zusammen.",
+    t1_b1: "Fresszellen: umschließen und verdauen Fremdstoffe.", t1_b2: "Lymphozyten: erkennen spezifische Feinde.", t1_b3: "Antikörper: Y-förmige Proteine, die Eindringlinge ausschalten.",
+    t1_inst: "Beschrifte die Akteure des Immunsystems!",
+    t1_area_phago: "Fresszelle", t1_area_lympho: "Lymphozyt", t1_area_antibody: "Antikörper", t1_area_pathogen: "Erreger",
+    t1_q: "Welche Zelle 'frisst' Bakterien buchstäblich?", t1_q_a: "Die Fresszelle", t1_q_b: "Rotes Blutkörperchen", t1_q_c: "Blutplättchen", t1_q_d: "Nervenzelle",
 
-    r2_title: "Immunantwort: Die Verteidigungskette",
-    r2_text: "Wenn ein Pathogen eindringt, löst dein Körper eine koordinierte Reaktion aus, um die Bedrohung zu beseitigen.",
-    r2_fact1: "Pathogen erkannt → Immunsystem aktiviert",
-    r2_fact2: "Weiße Blutkörperchen greifen an und zerstören den Eindringling",
-    r2_fact3: "Gedächtniszellen merken sich den Pathogen zur zukünftigen Abwehr",
-    r2_fact4: "Deshalb bekommst du dieselbe Krankheit nicht zweimal!",
+    t2_title: "Immunantwort", t2_text: "Dringt ein Erreger ein, startet die Immunantwort. Der Körper schlägt Alarm.",
+    t2_b1: "Entzündung: Durchblutung steigt (Rötung, Schwellung).", t2_b2: "Fieber: höhere Temperatur hemmt Bakterienwachstum.", t2_b3: "Eiter: tote Fresszellen und Erreger.",
+    t2_inst: "Welches Symptom hilft bei der Abwehr?", t2_gap_sentence: "{gap} hilft durch Hitze, Erreger zu töten.",
+    t2_c1: "Fieber", t2_c2: "Schlaf", t2_c3: "Essen",
+    t2_q: "Was ist Eiter eigentlich?", t2_q_a: "Reste toter Zellen und Erreger", t2_q_b: "Reines Plasma", t2_q_c: "Vitaminspeicher", t2_q_d: "Muskelgewebe",
 
-    r3_title: "Impfung: Training des Immunsystems",
-    r3_text: "Impfstoffe enthalten geschwächte oder tote Pathogene, um dein Immunsystem ohne Krankheit zu trainieren.",
-    r3_fact1: "Impfstoff enthält harmlose Version eines Pathogens",
-    r3_fact2: "Immunsystem lernt, den echten Pathogen zu erkennen",
-    r3_fact3: "Gedächtniszellen werden für langfristigen Schutz geschaffen",
-    r3_fact4: "Wenn echter Pathogen später eindringt, ist der Körper bereit!",
+    t3_title: "Vorsorge: Impfungen", t3_text: "Impfungen bereiten das System auf Infektionen vor. Es gibt zwei Arten.",
+    t3_b1: "Aktive Impfung: abgeschwächte Erreger, Körper macht selbst Antikörper.", t3_b2: "Passive Impfung: fertige Antikörper (Soforthilfe).", t3_b3: "Gedächtniszellen: 'erinnern' sich jahrelang.",
+    t3_inst: "Aktiv oder Passiv? Sortiere!",
+    t3_bucket_akt: "Aktive Impfung", t3_bucket_pas: "Passive Impfung",
+    t3_item_a1: "Abgeschwächter Erreger", t3_item_a2: "Eigene Antikörperbildung",
+    t3_item_p1: "Fertige Antikörper", t3_item_p2: "Soforthilfe",
+    t3_q: "Wie wirkt die aktive Impfung?",
+    t3_q_a: "Sie regt den Körper zur eigenen Antikörperbildung an", t3_q_b: "Sie reinigt den Darm", t3_q_c: "Sie beruhigt den Geist", t3_q_d: "Sie macht rote Blutzellen",
 
-    r4_title: "Antikörper: Molekulare Waffen",
-    r4_text: "Antikörper sind Y-förmige Proteine von B-Zellen gemacht. Jeder Antikörper zielt auf ein bestimmtes Antigen.",
-    r4_fact1: "Antikörper haben Bindungsstellen, die zu Antigenen passen wie ein Schlüssel",
-    r4_fact2: "Ein Antikörpertyp zielt auf einen Pathogentyp",
-    r4_fact3: "Antikörper neutralisieren Gifte und markieren Pathogene zur Zerstörung",
-    r4_fact4: "Dein Körper produziert Tausende verschiedener Antikörper",
+    t4_title: "Spezifische Abwehr", t4_text: "Während Fresszellen alles Fremde fressen, identifizieren Lymphozyten Erreger genau über Antigene.",
+    t4_b1: "Antigen: einzigartiges Molekül auf dem Erreger.", t4_b2: "Antikörper passen genau zum Antigen.", t4_b3: "Schlüssel-Schloss-Prinzip.",
+    t4_inst: "Verbinde die Begriffe!",
+    t4_l1: "Antigen", t4_r1: "Das 'Kennzeichen' des Erregers",
+    t4_l2: "Antikörper", t4_r2: "Die gebaute 'Waffe'",
+    t4_l3: "Gedächtniszelle", t4_r3: "Speichert das Bild des Feindes",
+    t4_q: "Wie nennt man die Verbindung von Antikörper und Antigen?",
+    t4_q_a: "Schlüssel-Schloss-Prinzip", t4_q_b: "Hammer und Nagel", t4_q_c: "Wasser und Öl", t4_q_d: "Nadel und Faden",
 
-    r5_title: "Immunsystem Wiederholung",
-
-    q1_q: "Welche weiße Blutkörperchen produzieren Antikörper?",
-    q1_bcell: "B-Zelle",
-    q1_tcell: "T-Zelle",
-    q1_macro: "Makrophage",
-    q1_neutr: "Neutrophil",
-
-    q2_q: "Was enthält ein Impfstoff?",
-    q2_weak: "Geschwächtes oder totes Pathogen",
-    q2_antibody: "Fertige Antikörper",
-    q2_active: "Aktive Krankheit",
-    q2_memory: "Nur Gedächtniszellen",
-
-    q3_q: "Warum sind Antikörper Y-förmig?",
-    q3_specific: "Um spezifische Antigene wie ein Schlüssel zu binden",
-    q3_strength: "Um stärker zu sein",
-    q3_move: "Um schneller zu bewegen",
-    q3_immune: "Um Immunzellen zu signalisieren",
-  },
-  hu: {
-    r1_title: "Immunsejtek: A Test Védelmezői",
-    r1_text: "A fehér vér sejtek speciális védelmezők, amelyek megvédik a testedet a kártékony behatolóktól.",
-    r1_fact1: "T-sejtek közvetlenül támadják meg az fertőzött sejteket",
-    r1_fact2: "B-sejtek antitesteket termelnek (fehérje fegyverek)",
-    r1_fact3: "Makrofágok felfalják és elpusztítják a kórokozókat",
-    r1_fact4: "Minden sejtfajta egyedi szerepe van a védelemben",
-
-    r2_title: "Immun Válasz: A Védelmi Lánc",
-    r2_text: "Ha egy kórokozó betolakodik, a tested koordinált választ indít a fenyegetés elhárítására.",
-    r2_fact1: "Kórokozó felismerve → immunrendszer aktiválva",
-    r2_fact2: "Fehér vér sejtek támadnak és elpusztítják a behatolót",
-    r2_fact3: "Memória sejtek emlékeznek a kórokozóra a jövőbeli védelemhez",
-    r2_fact4: "Ezért nem kapod meg kétszer ugyanazt a betegséget!",
-
-    r3_title: "Oltás: Az Immunrendszer Képzése",
-    r3_text: "Az oltások gyenge vagy halott kórokozókat tartalmaznak, hogy betanítsd az immunrendszeredet betegség nélkül.",
-    r3_fact1: "Oltás egy kórokozó ártalmatlan verzióját tartalmazza",
-    r3_fact2: "Az immunrendszer megtanul felismerni az igazi kórokozót",
-    r3_fact3: "Memória sejtek jönnek létre hosszú távú védelemhez",
-    r3_fact4: "Ha az igazi kórokozó később betolakodik, a tested készen áll!",
-
-    r4_title: "Antitestek: Molekuláris Fegyverek",
-    r4_text: "Az antitestek Y-alakú fehérjék, amelyeket B-sejtek készítenek. Minden antitest egy konkrét antigént céloz meg.",
-    r4_fact1: "Az antitesteknek vannak kötőhelyek, amelyek az antigénekhez illeszkednek, mint egy kulcs a zárba",
-    r4_fact2: "Egy antitest típus egy kórokozó típust céloz meg",
-    r4_fact3: "Az antitestek semlegesítik a toxinokat és megjelölik a kórokozókat az elpusztításhoz",
-    r4_fact4: "A tested több ezer különböző antitestet termel",
-
-    r5_title: "Immun Rendszer Áttekintés",
-
-    q1_q: "Melyik fehér vér sejt termel antitesteket?",
-    q1_bcell: "B-sejt",
-    q1_tcell: "T-sejt",
-    q1_macro: "Makrofág",
-    q1_neutr: "Neutrofil",
-
-    q2_q: "Mit tartalmaz egy oltás?",
-    q2_weak: "Gyenge vagy halott kórokozó",
-    q2_antibody: "Kész antitestek",
-    q2_active: "Aktív betegség",
-    q2_memory: "Csak memória sejtek",
-
-    q3_q: "Miért Y-alakúak az antitestek?",
-    q3_specific: "Hogy konkrét antigéneket köthessenek meg, mint egy kulcs a zárba",
-    q3_strength: "Hogy erősebbek legyenek",
-    q3_move: "Hogy gyorsabban mozognak",
-    q3_immune: "Hogy jelezzék az immunsejteket",
+    t5_title: "Zusammenfassung", t5_text: "Bereit für den Abwehr-Check?",
+    t5_b1: "Fress- und Lymphzellen sind die Soldaten.", t5_b2: "Antikörper sind spezifisch.", t5_b3: "Impfung ist lebensrettend.",
+    t5_inst: "Was produzieren Lymphozyten gegen Viren?", t5_gap_sentence2: "Lymphozyten bilden spezielle {gap}.",
+    t5_c51: "Antikörper", t5_c52: "Zucker", t5_c53: "Hormone",
+    t5_q: "Was ist WAHR über das Immunsystem?",
+    t5_q_a: "Es kann Erreger erkennen und sich an sie erinnern.", t5_q_b: "Es arbeitet nur bei Schmerzen.", t5_q_c: "Es macht Sauerstoff im Herz.", t5_q_d: "Es bewegt die Knochen.",
   },
   ro: {
-    r1_title: "Celule Imunitare: Apărătorii Corpului",
-    r1_text: "Globulele albe de sânge sunt apărători specializați care vă protejează corpul de invadatorii dăunători.",
-    r1_fact1: "Celulele T atacă direct celulele infectate",
-    r1_fact2: "Celulele B produc anticorpi (proteine arme)",
-    r1_fact3: "Macrofagele înghit și distrug agenții patogeni",
-    r1_fact4: "Fiecare tip de celulă are un rol unic în apărare",
+    explorer_title: "Sistemul Imunitar",
+    t1_title: "Soldații corpului", t1_text: "Rolul sistemului imunitar este de a proteja corpul de agenți patogeni. Diferite celule colaborează.",
+    t1_b1: "Fagocite: înglobează și digeră materialele străine.", t1_b2: "Limfocite: recunosc inamici specifici.", t1_b3: "Anticorpi: proteine în formă de Y care neutralizează invadatorii.",
+    t1_inst: "Etichetează actorii sistemului imunitar!",
+    t1_area_phago: "Fagocită", t1_area_lympho: "Limfocită", t1_area_antibody: "Anticorp", t1_area_pathogen: "Agent patogen",
+    t1_q: "Care celulă 'mănâncă' la propriu bacteriile?", t1_q_a: "Fagocita", t1_q_b: "Globula roșie", t1_q_c: "Trombocita", t1_q_d: "Neuronul",
 
-    r2_title: "Răspunsul Imunitar: Lanțul de Apărare",
-    r2_text: "Când un agent patogen invadează, corpul declanșează un răspuns coordonat pentru a elimina amenința.",
-    r2_fact1: "Agent patogen detectat → sistem imunitar activat",
-    r2_fact2: "Globulele albe atacă și distrug invadatorul",
-    r2_fact3: "Celulele de memorie se amintesc de agent patogen pentru protecție viitoare",
-    r2_fact4: "De aceea nu contragi aceeași boală de două ori!",
+    t2_title: "Răspunsul Imun", t2_text: "Când un agent patogen intră în corp, pornește răspunsul imun.",
+    t2_b1: "Inflamație: fluxul de sânge crește (roșeață, umflare).", t2_b2: "Febră: temperatura ridicată oprește înmulțirea bacteriilor.", t2_b3: "Puroi: masă de fagocite și agenți patogeni morți.",
+    t2_inst: "Ce simptom ajută apărarea?", t2_gap_sentence: "{gap} ajută la uciderea agenților patogeni prin căldură.",
+    t2_c1: "Febra", t2_c2: "Somnul", t2_c3: "Mâncatul",
+    t2_q: "Ce este puroiul de fapt?", t2_q_a: "Rămășițe de celule moarte și agenți patogeni", t2_q_b: "Plasmă pură", t2_q_c: "Depozit de vitamine", t2_q_d: "Țesut muscular",
 
-    r3_title: "Vaccinare: Antrenamentul Sistemului Imunitar",
-    r3_text: "Vaccinurile conțin agenți patogeni slăbiți sau morți pentru a instrui sistemul imunitar fără boală.",
-    r3_fact1: "Vaccinul conține versiune inofensivă a unui agent patogen",
-    r3_fact2: "Sistemul imunitar învață să recunoască agenții patogeni reali",
-    r3_fact3: "Celulele de memorie sunt create pentru protecție pe termen lung",
-    r3_fact4: "Dacă agenții patogeni reali invadează mai târziu, corpul este gata!",
+    t3_title: "Prevenție: Vaccinuri", t3_text: "Vaccinurile pregătesc sistemul imunitar pentru o infecție viitoare.",
+    t3_b1: "Vaccin activ: conține agenți patogeni slăbiți, corpul face singur anticorpi.", t3_b2: "Vaccin pasiv: anticorpi gata făcuți (ajutor imediat).", t3_b3: "Celule cu memorie: 'țin minte' inamicul ani de zile.",
+    t3_inst: "Vaccin activ sau pasiv? Sortează-le!",
+    t3_bucket_akt: "Vaccin activ", t3_bucket_pas: "Vaccin pasiv",
+    t3_item_a1: "Agent patogen slăbit", t3_item_a2: "Producție proprie de anticorpi",
+    t3_item_p1: "Anticorpi gata făcuți", t3_item_p2: "Ajutor imediat",
+    t3_q: "Cum funcționează un vaccin activ?",
+    t3_q_a: "Determină corpul să producă proprii anticorpi", t3_q_b: "Curăță intestinele", t3_q_c: "Calmează mintea", t3_q_d: "Produce globule roșii",
 
-    r4_title: "Anticorpi: Arme Moleculare",
-    r4_text: "Anticorpii sunt proteine în formă de Y fabricate de celulele B. Fiecare antiorp vizează un antigen specific.",
-    r4_fact1: "Anticorpii au situri de legare care se potrivesc antigenilor ca o cheie într-un zăvor",
-    r4_fact2: "Un tip de antiorp vizează un tip de agent patogen",
-    r4_fact3: "Anticorpii neutralizează toxinele și marchează agenții patogeni pentru distrugere",
-    r4_fact4: "Corpul produce mii de anticorpi diferiți",
+    t4_title: "Apărarea Specifică", t4_text: "În timp ce fagocitele mănâncă tot ce e străin, limfocitele identifică invadatorii prin antigene.",
+    t4_b1: "Antigen: moleculă unică de marcaj pe suprafața patogenului.", t4_b2: "Anticorpii se potrivesc exact pe antigene.", t4_b3: "Relație cheie-broască.",
+    t4_inst: "Potrivește conceptele!",
+    t4_l1: "Antigen", t4_r1: "Numărul de înmatriculare al patogenului",
+    t4_l2: "Anticorp", t4_r2: "Arma produsă de celulă",
+    t4_l3: "Celulă cu memorie", t4_r3: "Stochează imaginea inamicului",
+    t4_q: "Cum este relația anticorp-antigen?",
+    t4_q_a: "Cheie și broască", t4_q_b: "Ciocan și cui", t4_q_c: "Apă și ulei", t4_q_d: "Ac și ață",
 
-    r5_title: "Revizuire Sistem Imunitar",
+    t5_title: "Recapitulare", t5_text: "Ești gata să îți aperi castelul?",
+    t5_b1: "Fagocitele și limfocitele sunt soldații principali.", t5_b2: "Anticorpii sunt specifici.", t5_b3: "Vaccinarea este o metodă vitală de apărare.",
+    t5_inst: "Ce produc limfocitele împotriva virusurilor?", t5_gap_sentence2: "Limfocitele produc {gap} speciale pentru apărare.",
+    t5_c51: "anticorpi", t5_c52: "zaharuri", t5_c53: "hormoni",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre sistemul imunitar?",
+    t5_q_a: "Poate recunoaște și memora agenții patogeni.", t5_q_b: "Funcționează doar când avem dureri.", t5_q_c: "Produce oxigen în inimă.", t5_q_d: "Este responsabil de mișcarea oaselor.",
+  }
+};
 
-    q1_q: "Care globulă albă produce anticorpi?",
-    q1_bcell: "Celulă B",
-    q1_tcell: "Celulă T",
-    q1_macro: "Macrofag",
-    q1_neutr: "Neutrofil",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Ce conține un vaccin?",
-    q2_weak: "Agent patogen slăbit sau mort",
-    q2_antibody: "Anticorpi gata",
-    q2_active: "Boală activă",
-    q2_memory: "Doar celule de memorie",
-
-    q3_q: "De ce sunt anticorpii în formă de Y?",
-    q3_specific: "Pentru a se lega de antigenuri specifice ca o cheie în zăvor",
-    q3_strength: "Pentru a fi mai puternici",
-    q3_move: "Pentru a se deplasa mai repede",
-    q3_immune: "Pentru a semnala celulele imunitare",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <ImmuneSystemSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "phago",  x: 25, y: 55, label: "t1_area_phago" },
+        { id: "lympho", x: 75, y: 55, label: "t1_area_lympho" },
+        { id: "anti",   x: 50, y: 30, label: "t1_area_antibody" },
+        { id: "path",   x: 50, y: 75, label: "t1_area_pathogen" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"],
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_b2",
+      hint2: "t2_b1",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "akt", label: "t3_bucket_akt" },
+        { id: "pas", label: "t3_bucket_pas" },
+      ],
+      items: [
+        { text: "t3_item_a1", bucketId: "akt" },
+        { text: "t3_item_p1", bucketId: "pas" },
+        { text: "t3_item_a2", bucketId: "akt" },
+        { text: "t3_item_p2", bucketId: "pas" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <ImmuneSystemSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — simple colored shapes, NO TEXT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-function R1SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* T-cell (left) — blue */}
-      <circle cx="50" cy="60" r="18" fill="#3B82F6" />
-      <circle cx="50" cy="80" r="12" fill="#1E40AF" />
-      {/* B-cell (center) — green */}
-      <circle cx="120" cy="60" r="18" fill="#10B981" />
-      <circle cx="120" cy="80" r="12" fill="#047857" />
-      {/* Macrophage (right) — orange */}
-      <circle cx="190" cy="60" r="18" fill="#F59E0B" />
-      <circle cx="190" cy="80" r="12" fill="#D97706" />
-      {/* Pathogen representation (red) */}
-      <circle cx="120" cy="130" r="10" fill="#EF4444" opacity="0.7" />
-    </svg>
-  );
-}
-
-function R2SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Detection arrow */}
-      <line x1="30" y1="40" x2="80" y2="40" stroke="#3B82F6" strokeWidth="3" markerEnd="url(#arrowblue)" />
-      {/* Immune response — attacking cells */}
-      <circle cx="100" cy="50" r="12" fill="#10B981" />
-      <circle cx="120" cy="50" r="12" fill="#10B981" />
-      <circle cx="140" cy="50" r="12" fill="#10B981" />
-      {/* Pathogen (red) being attacked */}
-      <circle cx="180" cy="50" r="15" fill="#EF4444" opacity="0.6" />
-      {/* Memory cell formation (bottom) */}
-      <circle cx="120" cy="120" r="14" fill="#F59E0B" />
-      <text x="120" y="125" textAnchor="middle" fontSize="20" fill="white" fontWeight="bold">✓</text>
-      <defs>
-        <marker id="arrowblue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-          <path d="M0,0 L0,6 L9,3 z" fill="#3B82F6" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-function R3SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Vaccine vial (left) */}
-      <rect x="20" y="50" width="20" height="40" fill="#E5E7EB" stroke="#9CA3AF" strokeWidth="2" />
-      <circle cx="30" cy="50" r="10" fill="#D1D5DB" />
-      {/* Weakened pathogen in vial */}
-      <circle cx="30" cy="75" r="6" fill="#FCA5A5" opacity="0.8" />
-      {/* Arrow to immune system */}
-      <line x1="50" y1="70" x2="90" y2="70" stroke="#3B82F6" strokeWidth="3" markerEnd="url(#arrowblue2)" />
-      {/* Immune cells learning */}
-      <circle cx="120" cy="60" r="12" fill="#10B981" />
-      <circle cx="120" cy="90" r="12" fill="#10B981" />
-      {/* Memory cell formation */}
-      <circle cx="190" cy="75" r="14" fill="#F59E0B" />
-      <defs>
-        <marker id="arrowblue2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-          <path d="M0,0 L0,6 L9,3 z" fill="#3B82F6" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-function R4SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Y-shaped antibody (left) */}
-      <line x1="60" y1="40" x2="60" y2="70" stroke="#8B5CF6" strokeWidth="4" />
-      <line x1="60" y1="70" x2="45" y2="100" stroke="#8B5CF6" strokeWidth="4" />
-      <line x1="60" y1="70" x2="75" y2="100" stroke="#8B5CF6" strokeWidth="4" />
-      <circle cx="60" cy="40" r="6" fill="#A78BFA" />
-      <circle cx="45" cy="100" r="6" fill="#A78BFA" />
-      <circle cx="75" cy="100" r="6" fill="#A78BFA" />
-      {/* Antigens (red) being bound */}
-      <circle cx="45" cy="110" r="8" fill="#EF4444" opacity="0.8" />
-      <circle cx="75" cy="110" r="8" fill="#EF4444" opacity="0.8" />
-      {/* Multiple antibodies (right side) */}
-      <circle cx="160" cy="60" r="14" fill="#8B5CF6" opacity="0.6" />
-      <circle cx="180" cy="80" r="14" fill="#8B5CF6" opacity="0.6" />
-      <circle cx="200" cy="100" r="14" fill="#8B5CF6" opacity="0.6" />
-    </svg>
-  );
-}
-
-function R5SVG() {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto">
-      {/* Summary: immune cells, pathogen, shield */}
-      <circle cx="50" cy="50" r="12" fill="#3B82F6" />
-      <circle cx="80" cy="50" r="12" fill="#10B981" />
-      <circle cx="110" cy="50" r="12" fill="#F59E0B" />
-      {/* Pathogen under attack */}
-      <circle cx="150" cy="70" r="15" fill="#EF4444" opacity="0.5" />
-      {/* Shield symbol (right) */}
-      <path
-        d="M 200 40 L 220 55 L 220 95 Q 210 115 200 125 Q 190 115 190 95 L 190 55 Z"
-        fill="#10B981"
-        opacity="0.6"
-        stroke="#047857"
-        strokeWidth="2"
-      />
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const IMMUNE_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <R1SVG />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <R1SVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_bcell", "q1_tcell", "q1_macro", "q1_neutr"],
-          answer: "q1_bcell",
-        },
-      ],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <R2SVG />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <R3SVG />,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r1_text",
-      svg: () => <R5SVG />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_bcell", "q1_tcell", "q1_macro", "q1_neutr"],
-          answer: "q1_bcell",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_weak", "q2_antibody", "q2_active", "q2_memory"],
-          answer: "q2_weak",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_specific", "q3_strength", "q3_move", "q3_immune"],
-          answer: "q3_specific",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🛡️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function ImmuneExplorer({
-  color = "#EF4444",
-  lang = "en",
+const ImmuneExplorer = memo(function ImmuneExplorer({
+  color = "#6366F1", // Indigo-500 a védekezéshez
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={IMMUNE_EXPLORER_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_immune" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default ImmuneExplorer;
