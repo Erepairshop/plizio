@@ -1,199 +1,258 @@
 "use client";
+// ReviewK5Explorer — Island i9: Abschlussprüfung Klasse 5 (Final Review K5)
+// Topics: 1) Steigerung 2) Pronomen 3) Präpositionen 4) Satzanalyse 5) Passiv-Finale
+
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -60,20 L -20,20 L -20,0 M 20,20 L 60,20 L 60,-20" fill="none" stroke="#0284C7" strokeWidth="3" />
+        <text x="0" y="35" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">K5 Profi</text>
+        <text x="0" y="-15" fontSize="30" textAnchor="middle">🥇</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
-    title1: "Adjektive & Pronomen",
-    text1: "Adjektive beschreiben Eigenschaften (groß, schnell). Pronomen ersetzen Nomen (ich, du, unser). Beide ändern ihre Form nach Kasus.",
-    q1: "Komparativ von 'schnell'?",
-    a1: "schneller",
-    b1: "schnellst",
-    c1: "mehr schnell",
-    d1: "schnellem",
+    explorer_title: "Abschlussprüfung K5",
 
-    title2: "Präpositionen & Konjunktionen",
-    text2: "Präpositionen zeigen räumliche Beziehungen (in, auf, bei). Konjunktionen verbinden Sätze (und, weil, dass). Präpositionen brauchen Kasus.",
-    q2: "Welche ist eine reine Dativ-Präposition?",
-    a2: "mit",
-    b2: "in",
-    c2: "auf",
-    d2: "durch",
+    // T1: Steigerung
+    t1_title: "Fokozás-Check",
+    t1_text: "Erinnerst du dich an die unregelmäßigen Adjektive? Gut, viel und gern verändern sich komplett.",
+    t1_b1: "gut ➔ besser ➔ am besten",
+    t1_b2: "viel ➔ mehr ➔ am meisten",
+    t1_b3: "gern ➔ lieber ➔ am liebsten",
+    t1_inst: "Bringe die Steigerung von 'gut' in die richtige Reihenfolge!",
+    t1_h1: "Beginne mit der Grundform.",
+    t1_h2: "Dann kommt der Komparativ und zuletzt der Superlativ.",
+    t1_w1: "gut", t1_w2: "besser", t1_w3: "am", t1_w4: "besten",
+    t1_q: "Was ist der Komparativ von 'viel'?",
+    t1_q_a: "mehr", t1_q_b: "vieler", t1_q_c: "am meisten", t1_q_d: "viele",
 
-    title3: "Satzglieder & Wortstellung",
-    text3: "Subjekt (Wer?), Prädikat (Verb), Objekt (Wen/Was/Wem?), Adverbiale. Die Wortstellung zeigt Sinn: Hauptsatz vs. Nebensatz.",
-    q3: "Subjekt in 'Die Katze schläft'?",
-    a3: "Die Katze",
-    b3: "schläft",
-    c3: "Der Schlaf",
-    d3: "Die",
+    // T2: Pronomen
+    t2_title: "Pronomen-Check",
+    t2_text: "Personal-, Possessiv- oder Reflexivpronomen? Sie alle ersetzen oder begleiten Nomen.",
+    t2_b1: "ich/du = Personal",
+    t2_b2: "mein/dein = Possessiv",
+    t2_b3: "mich/sich = Reflexiv",
+    t2_inst: "Welches Pronomen passt? 'Ich freue ___ auf die Ferien.'",
+    t2_h1: "Es ist ein Rückbezug auf 'ich'.",
+    t2_h2: "Wir brauchen das Reflexivpronomen 'mich'.",
+    t2_gap_sentence: "Ich freue {gap} auf die Ferien.",
+    t2_c1: "mich", t2_c2: "dich", t2_c3: "sich",
+    t2_q: "Welches Wort ist ein Possessivpronomen (Besitz)?",
+    t2_q_a: "unser", t2_q_b: "wir", t2_q_c: "uns", t2_q_d: "euch",
 
-    title4: "Partizipien & Passiv",
-    text4: "Partizip I (-end) und Partizip II (-t/-en) sind Verbformen. Passiv: werden + Partizip II (Vorgangspassiv) oder sein + Partizip II (Zustandspassiv).",
-    q4: "Partizip II von 'sehen'?",
-    a4: "gesehen",
-    b4: "sehend",
-    c4: "sehe",
-    d4: "gezehnt",
+    // T3: Präpositionen
+    t3_title: "Präpositions-Check",
+    t3_text: "Wechselpräpositionen sind tückisch! Wo? verlangt Dativ. Wohin? verlangt Akkusativ.",
+    t3_b1: "in, an, auf, unter...",
+    t3_b2: "Wo? (Ort) ➔ Dativ",
+    t3_b3: "Wohin? (Richtung) ➔ Akkusativ",
+    t3_inst: "Dativ (Ort) oder Akkusativ (Richtung)? Sortiere!",
+    t3_h1: "'ins Kino' ist eine Bewegung (Wohin?).",
+    t3_h2: "'im Garten' ist ein Ort (Wo?).",
+    t3_bucket_dat: "Wo? (Dativ)",
+    t3_bucket_akk: "Wohin? (Akkusativ)",
+    t3_item_d1: "im Haus", t3_item_d2: "auf dem Tisch",
+    t3_item_a1: "ins Kino", t3_item_a2: "unter den Stuhl",
+    t3_q: "Welchen Fall verlangt 'mit' immer?",
+    t3_q_a: "Dativ", t3_q_b: "Akkusativ", t3_q_c: "Genitiv", t3_q_d: "Nominativ",
 
-    title5: "Große Finale-Prüfung",
-    text5: "Teste dein komplettes Deutschwissen der Klasse 5!",
-    q5a: "Welches Pronomen ersetzt 'die Frau'?",
-    a5a: "sie",
-    b5a: "er",
-    c5a: "es",
-    d5a: "du",
-    q5b: "Richtiges Passiv: 'Das Fenster wird ___'?",
-    a5b: "geöffnet",
-    b5b: "öffnend",
-    c5b: "geöffnenden",
-    d5b: "öffnet",
-    q5c: "Richtiger Kasus nach 'mit': 'Ich spiele ___ meinem Freund'?",
-    a5c: "mit",
-    b5c: "mit dem",
-    c5c: "mit meinem",
-    d5d: "mit meinen",
+    // T4: Satzanalyse
+    t4_title: "Satzbau-Check",
+    t4_text: "Subjekt, Prädikat, Objekt. Kannst du die Satzglieder in einem langen Satz finden?",
+    t4_b1: "Subjekt (Wer/Was?)",
+    t4_b2: "Prädikat (Verb)",
+    t4_b3: "Akkusativ-Objekt (Wen/Was?)",
+    t4_inst: "Markiere das Akkusativ-Objekt in diesem Satz!",
+    t4_h1: "Frage: Wen oder was liest der Junge?",
+    t4_h2: "Die Antwort ist 'ein spannendes Buch'.",
+    t4_w1: "Der", t4_w2: "Junge", t4_w3: "liest", t4_w4: "ein", t4_w5: "spannendes", t4_w6: "Buch.",
+    t4_q: "Welches Satzglied ist 'morgen' im Satz: 'Morgen fahren wir.'?",
+    t4_q_a: "Adverbiale Bestimmung (Zeit)", t4_q_b: "Subjekt", t4_q_c: "Objekt", t4_q_d: "Prädikat",
+
+    // T5: Passiv
+    t5_title: "Passiv-Finale",
+    t5_text: "Das Passiv betont die Handlung. 'werden' + Partizip II. Das ist die Königsdisziplin!",
+    t5_b1: "Aktiv: Er baut ein Haus.",
+    t5_b2: "Passiv: Ein Haus wird gebaut.",
+    t5_b3: "werden (konjugiert) + ge...t/en",
+    t5_inst: "Bringe den Passivsatz in die richtige Reihenfolge!",
+    t5_h1: "Das neue Subjekt ist 'Die Tür'.",
+    t5_h2: "Dann kommt 'wird' und am Ende 'geöffnet.'",
+    t5_w1: "Die", t5_w2: "Tür", t5_w3: "wird", t5_w4: "leise", t5_w5: "geöffnet.",
+    t5_q: "Wie heißt das Passiv von: 'Sie isst den Apfel.'?",
+    t5_q_a: "Der Apfel wird gegessen.", t5_q_b: "Der Apfel wurde gegessen.", t5_q_c: "Den Apfel wird gegessen.", t5_q_d: "Sie wird den Apfel essen.",
   },
   en: {
-    title1: "Adjectives & Pronouns",
-    text1: "Adjectives describe properties (big, fast). Pronouns replace nouns (I, you, our). Both change form by case.",
-    q1: "Comparative of 'fast'?",
-    a1: "faster",
-    b1: "fastest",
-    c1: "more fast",
-    d1: "fastly",
-
-    title2: "Prepositions & Conjunctions",
-    text2: "Prepositions show relationships (in, on, at, by). Conjunctions connect sentences (and, because, that). Prepositions require cases.",
-    q2: "Which is a pure dative preposition?",
-    a2: "with",
-    b2: "in",
-    c2: "on",
-    d2: "through",
-
-    title3: "Sentence Parts & Word Order",
-    text3: "Subject (Who?), Predicate (Verb), Object (Whom/What/To whom?), Adverbial. Word order shows meaning: main clause vs. subordinate clause.",
-    q3: "Subject in 'The cat sleeps'?",
-    a3: "The cat",
-    b3: "sleeps",
-    c3: "The sleep",
-    d3: "The",
-
-    title4: "Participles & Passive",
-    text4: "Participle I (-ing) and Participle II (-ed/-en) are verb forms. Passive: be + Participle II (process) or be + Participle II (state).",
-    q4: "Participle II of 'see'?",
-    a4: "seen",
-    b4: "seeing",
-    c4: "sees",
-    d4: "seeeth",
-
-    title5: "Big Final Test",
-    text5: "Test your complete German knowledge of Grade 5!",
-    q5a: "Which pronoun replaces 'the woman'?",
-    a5a: "she",
-    b5a: "he",
-    c5a: "it",
-    d5a: "you",
-    q5b: "Correct passive: 'The window is ___'?",
-    a5b: "opened",
-    b5b: "opening",
-    c5b: "opens",
-    d5b: "open",
-    q5c: "Correct case after 'with': 'I play ___ my friend'?",
-    a5c: "with",
-    b5c: "with the",
-    c5c: "with my",
-    d5c: "with mine",
+    explorer_title: "Final Exam K5",
+    t1_inst: "Put the comparison of 'gut' in the correct order!",
+    t2_inst: "Which pronoun fits? 'Ich freue ___ auf die Ferien.'",
+    t3_inst: "Dative (Location) or Accusative (Direction)? Sort!",
+    t4_inst: "Highlight the Accusative object in this sentence!",
+    t5_inst: "Put the passive sentence in the correct order!",
   },
+  hu: {
+    explorer_title: "Záróvizsga K5",
+    t1_inst: "Tedd a 'gut' fokozását a helyes sorrendbe!",
+    t2_inst: "Melyik névmás illik ide? 'Ich freue ___ auf die Ferien.'",
+    t3_inst: "Részeseset (Hely) vagy Tárgyeset (Irány)? Válogasd szét!",
+    t4_inst: "Jelöld ki a tárgyat (Akkusativ) a mondatban!",
+    t5_inst: "Tedd a passzív mondatot a helyes sorrendbe!",
+  },
+  ro: {
+    explorer_title: "Examen Final K5",
+    t1_inst: "Pune gradele de comparație pentru 'gut' în ordinea corectă!",
+    t2_inst: "Ce pronume se potrivește? 'Ich freue ___ auf die Ferien.'",
+    t3_inst: "Dativ (Locație) sau Acuzativ (Direcție)? Sortează!",
+    t4_inst: "Marchează obiectul în acuzativ în această propoziție!",
+    t5_inst: "Așază propoziția pasivă în ordinea corectă!",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t1_w1", "t1_w2", "t1_w3", "t1_w4"], // gut besser am besten
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />, // Reusing or create unique ones
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"], // mich, dich, sich
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "dat", label: "t3_bucket_dat" },
+        { id: "akk", label: "t3_bucket_akk" },
+      ],
+      items: [
+        { text: "t3_item_d1", bucketId: "dat" },
+        { text: "t3_item_a1", bucketId: "akk" },
+        { text: "t3_item_d2", bucketId: "dat" },
+        { text: "t3_item_a2", bucketId: "akk" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6"], // Der Junge liest ein spannendes Buch.
+      correctIndices: [3, 4, 5], // ein spannendes Buch.
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4", "t5_w5"], // Die Tür wird leise geöffnet.
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "title1",
-      infoText: "text1",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #fef3c7 0%, #fde68a 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#92400e', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Adjektive</p>
-          <p style={{ fontSize: 13, color: '#1e293b', marginBottom: 6 }}>groß, schnell, schön</p>
-          <p style={{ fontSize: 13, color: '#1e293b', marginBottom: 6, fontWeight: 600 }}>Positiv: <span style={{ color: '#16a34a' }}>schnell</span></p>
-          <p style={{ fontSize: 13, color: '#1e293b' }}>Komparativ: <span style={{ color: '#16a34a' }}>schneller</span></p>
-        </div>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title2",
-      infoText: "text2",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#1e40af', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Präpositionen</p>
-          <div style={{ fontSize: 12, color: '#1e293b', lineHeight: '1.6' }}>
-            <p><span style={{ color: '#2563eb', fontWeight: 800 }}>in</span>, <span style={{ color: '#2563eb', fontWeight: 800 }}>auf</span>, <span style={{ color: '#2563eb', fontWeight: 800 }}>bei</span></p>
-            <p style={{ fontSize: 11, color: '#6b7280', marginTop: 4 }}>zeigen räumliche Beziehungen</p>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title3",
-      infoText: "text3",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#166534', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Satzglieder</p>
-          <div style={{ fontSize: 12, color: '#1e293b', lineHeight: '1.6' }}>
-            <p><span style={{ color: '#dc2626', fontWeight: 800 }}>Subj.</span> <span style={{ color: '#2563eb', fontWeight: 800 }}>Präd.</span> <span style={{ color: '#16a34a', fontWeight: 800 }}>Obj.</span></p>
-            <p style={{ fontSize: 11, color: '#6b7280', marginTop: 4 }}>Wer? Was? Wem?</p>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title4",
-      infoText: "text4",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #e9d5ff 0%, #f3e8ff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#581c87', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Partizipien</p>
-          <div style={{ fontSize: 12, color: '#1e293b', lineHeight: '1.6' }}>
-            <p>P.I: -<span style={{ color: '#dc2626', fontWeight: 800 }}>d</span> (spielend)</p>
-            <p>P.II: <span style={{ color: '#dc2626', fontWeight: 800 }}>ge-</span>...-<span style={{ color: '#dc2626', fontWeight: 800 }}>t</span> (gespielt)</p>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title5",
-      infoText: "text5",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #fee2e2 0%, #fecaca 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#991b1b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Final Review</p>
-          <div style={{ fontSize: 12, color: '#1e293b', lineHeight: '1.6' }}>
-            <p>✓ Adjektive & Vergleich</p>
-            <p>✓ Pronomen & Präpositionen</p>
-            <p>✓ Partizipien & Passiv</p>
-            <p>✓ Satzglieder & Wortstellung</p>
-          </div>
-        </div>
-      ),
-      questions: [
-        { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
-        { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },
-        { question: "q5c", choices: ["a5c", "b5c", "c5c", "d5c"], answer: "c5c" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🏆",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
-export default function ReviewK5Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const ReviewK5Explorer = memo(function ReviewK5Explorer({
+  color = "#C026D3",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={5} explorerId="deutsch_k5_review" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default ReviewK5Explorer;
