@@ -1,207 +1,370 @@
 "use client";
+// PronounExplorerK5 — Island i2: Pronomen (Pronouns)
+// Topics: 1) Personalpronomen 2) Possessivpronomen 3) Reflexivpronomen 4) Demonstrativpronomen 5) Gemischtes Quiz
+
+import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#EEF2FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="-10" fontSize="24" textAnchor="middle">🙋‍♂️</text>
+        <text x="-40" y="20" fontSize="14" fontWeight="bold" fill="#4338CA" textAnchor="middle">ich</text>
+        
+        <text x="0" y="-10" fontSize="24" textAnchor="middle">👉</text>
+        <text x="0" y="20" fontSize="14" fontWeight="bold" fill="#4338CA" textAnchor="middle">du</text>
+        
+        <text x="40" y="-10" fontSize="24" textAnchor="middle">👨</text>
+        <text x="40" y="20" fontSize="14" fontWeight="bold" fill="#4338CA" textAnchor="middle">er</text>
+        
+        <text x="0" y="45" fontSize="10" fill="#312E81" textAnchor="middle">Personalpronomen</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="-10" fontSize="24" textAnchor="middle">🎒</text>
+        <text x="0" y="15" fontSize="16" fontWeight="bold" fill="#15803D" textAnchor="middle">MEIN Rucksack</text>
+        <text x="0" y="35" fontSize="12" fill="#166534" textAnchor="middle">(Besitz / Ownership)</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FDF2F8" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-30" y="-30" width="60" height="50" rx="4" fill="#FBCFE8" stroke="#DB2777" strokeWidth="2" />
+        <text x="0" y="0" fontSize="24" textAnchor="middle">🪞</text>
+        <text x="0" y="35" fontSize="14" fontWeight="bold" fill="#BE185D" textAnchor="middle">Ich freue MICH.</text>
+        <text x="0" y="50" fontSize="10" fill="#9D174D" textAnchor="middle">Reflexiv = Spiegel</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="30" textAnchor="middle">👇</text>
+        <text x="20" y="-5" fontSize="16" fontWeight="bold" fill="#C2410C" textAnchor="middle">DIESER</text>
+        <text x="20" y="15" fontSize="14" fontWeight="bold" fill="#EA580C" textAnchor="middle">Hund</text>
+        <text x="0" y="40" fontSize="10" fill="#9A3412" textAnchor="middle">Zeigt genau auf etwas!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="k5Grad2_5" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#8B5CF6" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#k5Grad2_5)" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-20" y="0" fontSize="24" textAnchor="middle">❓</text>
+        <text x="20" y="0" fontSize="24" textAnchor="middle">❗</text>
+        <text x="0" y="30" fontSize="16" fontWeight="bold" fill="#4C1D95" textAnchor="middle">Pronomen-Quiz</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   de: {
-    title1: "Personalpronomen (Nominativ)",
-    text1: "Personalpronomen ersetzen Nomen. Im Nominativ: ich, du, er, sie, es, wir, ihr, sie.",
-    q1: "Welches Pronomen ersetzt 'Maria'?",
-    a1: "sie",
-    b1: "er",
-    c1: "es",
-    d1: "du",
+    explorer_title: "Pronomen",
 
-    title2: "Akkusativ & Dativ",
-    text2: "Der Kasus bestimmt die Form: mich, dich, ihn, sie, es, uns, euch, sie (Akkusativ). mir, dir, ihm, ihr, ihm, uns, euch, ihnen (Dativ).",
-    q2: "Welche Form passt: 'Ich sehe ___'?",
-    a2: "ihn",
-    b2: "ihm",
-    c2: "er",
-    d2: "he",
+    // T1
+    t1_title: "Personalpronomen",
+    t1_text: "Personalpronomen stehen oft für Personen oder Dinge, damit wir nicht immer denselben Namen sagen müssen (ich, du, er, sie, es, wir, ihr, sie/Sie).",
+    t1_b1: "Singular: ich, du, er, sie, es",
+    t1_b2: "Plural: wir, ihr, sie",
+    t1_b3: "Höflichkeitsform: Sie (immer groß!)",
+    t1_inst: "Wo ist das Personalpronomen? Markiere es!",
+    t1_h1: "Wir suchen das Wort, das für 'die Kinder' (Plural) steht.",
+    t1_h2: "Das gesuchte Wort ist 'sie'.",
+    t1_w1: "Die", t1_w2: "Kinder", t1_w3: "spielen,", t1_w4: "denn", t1_w5: "sie", t1_w6: "haben", t1_w7: "Zeit.",
+    t1_q: "Welches Personalpronomen benutzt man, wenn man höflich mit einem Erwachsenen spricht?",
+    t1_q_a: "Sie", t1_q_b: "du", t1_q_c: "ihr", t1_q_d: "er",
 
-    title3: "Possessivpronomen",
-    text3: "Possessivpronomen zeigen Besitz. Beispiele: mein, dein, sein, ihr, unser, euer, ihr.",
-    q3: "Welches Wort gehört zu 'wir'?",
-    a3: "unser",
-    b3: "sein",
-    c3: "dein",
-    d3: "euer",
+    // T2
+    t2_title: "Possessivpronomen",
+    t2_text: "Possessivpronomen zeigen an, wem etwas gehört (Besitz). Sie passen sich an das Nomen an, das danach kommt.",
+    t2_b1: "ich ➔ mein(e)",
+    t2_b2: "du ➔ dein(e)",
+    t2_b3: "er/es ➔ sein(e), sie ➔ ihr(e)",
+    t2_inst: "Welches Possessivpronomen passt in die Lücke?",
+    t2_h1: "Es gehört dir (du). Das Auto ist sächlich (das Auto).",
+    t2_h2: "Wir brauchen 'dein'.",
+    t2_gap_sentence: "Gehört {gap} Auto zu dir?",
+    t2_c1: "dein", t2_c2: "deine", t2_c3: "deinen",
+    t2_q: "Welches Possessivpronomen gehört zu 'wir'?",
+    t2_q_a: "unser(e)", t2_q_b: "euer(e)", t2_q_c: "ihr(e)", t2_q_d: "sein(e)",
 
-    title4: "Reflexivpronomen",
-    text4: "Reflexivpronomen beziehen sich zurück auf das Subjekt. Beispiel: 'Ich wasche mich' - sich für 3. Person.",
-    q4: "Welches ist das Reflexivpronomen für 'er'?",
-    a4: "sich",
-    b4: "ihm",
-    c4: "sein",
-    d4: "ihn",
+    // T3
+    t3_title: "Reflexivpronomen",
+    t3_text: "Reflexivpronomen beziehen sich immer auf das Subjekt zurück. Es ist wie ein Spiegel. Manche Verben verlangen immer ein Reflexivpronomen (sich freuen, sich waschen).",
+    t3_b1: "ich freue MICH, du freust DICH",
+    t3_b2: "er/sie/es freut SICH",
+    t3_b3: "wir freuen UNS, ihr freut EUCH",
+    t3_inst: "Verbinde das Personalpronomen mit seinem Reflexivpronomen!",
+    t3_h1: "'ich' passt zu 'mich'. 'du' passt zu 'dich'.",
+    t3_h2: "Für 'er' und 'sie' (Plural) benutzt man immer 'sich'.",
+    t3_l1: "ich", t3_r1: "mich",
+    t3_l2: "du", t3_r2: "dich",
+    t3_l3: "wir", t3_r3: "uns",
+    t3_l4: "er", t3_r4: "sich",
+    t3_q: "Wie heißt das Reflexivpronomen für die 3. Person (er/sie/es) im Akkusativ?",
+    t3_q_a: "sich", t3_q_b: "mich", t3_q_c: "ihn", t3_q_d: "uns",
 
-    title5: "Große Prüfung",
-    text5: "Teste dein Wissen über Pronomen!",
-    q5a: "Nominativ von 'ich'?",
-    a5a: "ich",
-    b5a: "mich",
-    c5a: "mir",
-    d5a: "meinen",
-    q5b: "Akkusativ von 'wir'?",
-    a5b: "uns",
-    b5b: "wir",
-    c5b: "unser",
-    d5b: "unseren",
-    q5c: "Possessivpronomen für 'ihr'?",
-    a5c: "euer",
-    b5c: "ihr",
-    c5c: "sie",
-    d5c: "euere",
+    // T4
+    t4_title: "Demonstrativpronomen",
+    t4_text: "Demonstrativpronomen zeigen ganz genau auf eine bestimmte Person oder Sache. Man betont sie beim Sprechen stärker. Die wichtigsten sind: dieser/diese/dieses und jener/jene/jenes.",
+    t4_b1: "Dieser Hund (hier bei mir).",
+    t4_b2: "Jener Hund (dort drüben).",
+    t4_b3: "Sie werden wie bestimmte Artikel dekliniert.",
+    t4_inst: "Bringe den Satz mit dem Demonstrativpronomen in die richtige Reihenfolge!",
+    t4_h1: "Beginne mit 'Dieser'.",
+    t4_h2: "Der Satz lautet: Dieser Baum ist sehr hoch.",
+    t4_w1: "Dieser", t4_w2: "Baum", t4_w3: "ist", t4_w4: "sehr", t4_w5: "hoch.",
+    t4_q: "Welches Wort ist ein Demonstrativpronomen?",
+    t4_q_a: "dieser", t4_q_b: "ich", t4_q_c: "mein", t4_q_d: "sich",
+
+    // T5
+    t5_title: "Gemischtes Quiz",
+    t5_text: "Weißt du noch, welches Pronomen was macht? Personalpronomen ersetzen Namen. Possessivpronomen zeigen Besitz.",
+    t5_b1: "ich/du/er = Personal",
+    t5_b2: "mein/dein/sein = Possessiv",
+    t5_b3: "mich/dich = Reflexiv",
+    t5_inst: "Ist es ein Personalpronomen oder ein Possessivpronomen? Sortiere!",
+    t5_h1: "Wörter, die Besitz zeigen (mein, unser), sind Possessivpronomen.",
+    t5_h2: "Wörter wie 'wir' oder 'sie' sind Personalpronomen.",
+    t5_bucket_pers: "Personal",
+    t5_bucket_poss: "Possessiv",
+    t5_item_ich: "ich", t5_item_wir: "wir", t5_item_sie: "sie",
+    t5_item_mein: "mein", t5_item_unser: "unser", t5_item_dein: "dein",
+    t5_q: "Welcher Satz enthält ein Reflexivpronomen?",
+    t5_q_a: "Ich wasche mich.", t5_q_b: "Ich wasche das Auto.", t5_q_c: "Das ist mein Auto.", t5_q_d: "Dieser Mann ist nett.",
   },
   en: {
-    title1: "Personal Pronouns (Nominative)",
-    text1: "Personal pronouns replace nouns. In nominative: I, you, he, she, it, we, you, they.",
-    q1: "Which pronoun replaces 'Maria'?",
-    a1: "she",
-    b1: "he",
-    c1: "it",
-    d1: "you",
-
-    title2: "Accusative & Dative",
-    text2: "The case determines the form: me, you, him, her, it, us, you, them (accusative). Changes in dative case too.",
-    q2: "Which form fits: 'I see ___'?",
-    a2: "him",
-    b2: "to him",
-    c2: "he",
-    d2: "it",
-
-    title3: "Possessive Pronouns",
-    text3: "Possessive pronouns show possession. Examples: my, your, his, her, our, your, their.",
-    q3: "Which word belongs to 'we'?",
-    a3: "our",
-    b3: "his",
-    c3: "your",
-    d3: "their",
-
-    title4: "Reflexive Pronouns",
-    text4: "Reflexive pronouns refer back to the subject. Example: 'He washes himself'.",
-    q4: "What is the reflexive pronoun for 'he'?",
-    a4: "himself",
-    b4: "to him",
-    c4: "his",
-    d4: "him",
-
-    title5: "Big Test",
-    text5: "Test your knowledge of pronouns!",
-    q5a: "Nominative of 'I'?",
-    a5a: "I",
-    b5a: "me",
-    c5a: "to me",
-    d5a: "mine",
-    q5b: "Accusative of 'we'?",
-    a5b: "us",
-    b5b: "we",
-    c5b: "our",
-    d5b: "ours",
-    q5c: "Possessive pronoun for 'you'?",
-    a5c: "your",
-    b5c: "you",
-    c5c: "yours",
-    d5c: "yourselves",
+    explorer_title: "Pronouns",
+    t1_inst: "Where is the personal pronoun? Highlight it!",
+    t1_h1: "We are looking for the word that stands for 'die Kinder' (plural).",
+    t1_h2: "The requested word is 'sie' (they).",
+    t2_inst: "Which possessive pronoun fits in the gap?",
+    t2_h1: "It belongs to you (du). The car is neuter (das Auto).",
+    t2_h2: "We need 'dein'.",
+    t3_inst: "Connect the personal pronoun with its reflexive pronoun!",
+    t3_h1: "'ich' goes with 'mich'. 'du' goes with 'dich'.",
+    t3_h2: "For 'er' and 'sie' (plural) you always use 'sich'.",
+    t4_inst: "Put the sentence with the demonstrative pronoun in the correct order!",
+    t4_h1: "Start with 'Dieser'.",
+    t4_h2: "The sentence is: Dieser Baum ist sehr hoch. (This tree is very tall.)",
+    t5_inst: "Is it a personal pronoun or a possessive pronoun? Sort!",
+    t5_h1: "Words showing ownership (mein, unser) are Possessive pronouns.",
+    t5_h2: "Words like 'wir' or 'sie' are Personal pronouns.",
+    t5_bucket_pers: "Personal",
+    t5_bucket_poss: "Possessive",
   },
+  hu: {
+    explorer_title: "Névmások",
+    t1_inst: "Hol van a személyes névmás? Jelöld ki!",
+    t1_h1: "Azt a szót keressük, amelyik a 'die Kinder' (gyerekek) helyett áll.",
+    t1_h2: "A keresett szó a 'sie' (ők).",
+    t2_inst: "Melyik birtokos névmás illik az űrbe?",
+    t2_h1: "A tied (du). Az autó semlegesnemű (das Auto).",
+    t2_h2: "A 'dein'-re van szükségünk.",
+    t3_inst: "Kösd össze a személyes névmást a visszaható névmásával!",
+    t3_h1: "Az 'ich'-hez a 'mich' tartozik. A 'du'-hoz a 'dich'.",
+    t3_h2: "Az 'er' (ő) és 'sie' (ők) esetében mindig a 'sich'-et használjuk.",
+    t4_inst: "Tedd a mutató névmást tartalmazó mondatot a helyes sorrendbe!",
+    t4_h1: "Kezdd a 'Dieser'-rel.",
+    t4_h2: "A mondat: Dieser Baum ist sehr hoch. (Ez a fa nagyon magas.)",
+    t5_inst: "Ez egy személyes vagy birtokos névmás? Válogasd szét!",
+    t5_h1: "A birtoklást kifejező szavak (mein, unser) birtokos névmások.",
+    t5_h2: "A 'wir' vagy 'sie' jellegű szavak személyes névmások.",
+    t5_bucket_pers: "Személyes",
+    t5_bucket_poss: "Birtokos",
+  },
+  ro: {
+    explorer_title: "Pronumele",
+    t1_inst: "Unde este pronumele personal? Marchează-l!",
+    t1_h1: "Căutăm cuvântul care înlocuiește 'die Kinder' (copiii).",
+    t1_h2: "Cuvântul căutat este 'sie' (ei).",
+    t2_inst: "Ce pronume posesiv se potrivește în spațiu?",
+    t2_h1: "Îți aparține ție (du). Mașina este neutră (das Auto).",
+    t2_h2: "Avem nevoie de 'dein'.",
+    t3_inst: "Leagă pronumele personal de pronumele său reflexiv!",
+    t3_h1: "'ich' se potrivește cu 'mich'. 'du' se potrivește cu 'dich'.",
+    t3_h2: "Pentru 'er' și 'sie' (plural) folosești mereu 'sich'.",
+    t4_inst: "Așază propoziția cu pronumele demonstrativ în ordinea corectă!",
+    t4_h1: "Începe cu 'Dieser'.",
+    t4_h2: "Propoziția este: Dieser Baum ist sehr hoch. (Acest copac este foarte înalt.)",
+    t5_inst: "Este un pronume personal sau un pronume posesiv? Sortează!",
+    t5_h1: "Cuvintele care arată posesia (mein, unser) sunt pronume posesive.",
+    t5_h2: "Cuvinte ca 'wir' sau 'sie' sunt pronume personale.",
+    t5_bucket_pers: "Personal",
+    t5_bucket_poss: "Posesiv",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5", "t1_w6", "t1_w7"], // Die Kinder spielen, denn sie haben Zeit.
+      correctIndices: [4], // sie
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"], // dein, deine, deinen
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" }, // ich -> mich
+        { left: "t3_l2", right: "t3_r2" }, // du -> dich
+        { left: "t3_l3", right: "t3_r3" }, // wir -> uns
+        { left: "t3_l4", right: "t3_r4" }, // er -> sich
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"], // Dieser Baum ist sehr hoch.
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "pers", label: "t5_bucket_pers" },
+        { id: "poss", label: "t5_bucket_poss" },
+      ],
+      items: [
+        { text: "t5_item_ich", bucketId: "pers" },
+        { text: "t5_item_mein", bucketId: "poss" },
+        { text: "t5_item_wir", bucketId: "pers" },
+        { text: "t5_item_unser", bucketId: "poss" },
+        { text: "t5_item_sie", bucketId: "pers" },
+        { text: "t5_item_dein", bucketId: "poss" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "title1",
-      infoText: "text1",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Nominativ</p>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div>Singular</div>
-            <div>Plural</div>
-            <div style={{ color: '#3b82f6' }}>ich, du</div>
-            <div style={{ color: '#3b82f6' }}>wir, ihr</div>
-            <div style={{ color: '#8b5cf6' }}>er, sie, es</div>
-            <div style={{ color: '#8b5cf6' }}>sie</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title2",
-      infoText: "text2",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Kasus-Änderung</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div><span style={{ color: '#94a3b8' }}>Nominativ:</span> ich</div>
-            <div><span style={{ color: '#3b82f6' }}>Akkusativ:</span> <span style={{ color: '#3b82f6', fontWeight: 800 }}>mich</span></div>
-            <div><span style={{ color: '#8b5cf6' }}>Dativ:</span> <span style={{ color: '#8b5cf6', fontWeight: 800 }}>mir</span></div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title3",
-      infoText: "text3",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Possessiv</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div><span style={{ color: '#94a3b8' }}>ich</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>mein</span></div>
-            <div><span style={{ color: '#94a3b8' }}>wir</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>unser</span></div>
-            <div><span style={{ color: '#94a3b8' }}>ihr</span> → <span style={{ color: '#10b981', fontWeight: 800 }}>euer</span></div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title4",
-      infoText: "text4",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Reflexiv</p>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: '#1e293b', fontWeight: 600 }}>
-            <div>«Ich wasche <span style={{ color: '#ef4444', fontWeight: 800 }}>mich</span>»</div>
-            <div>«Er wäscht <span style={{ color: '#ef4444', fontWeight: 800 }}>sich</span>»</div>
-            <div style={{ marginTop: 4, fontSize: 12, color: '#475569' }}>Aktion bezieht sich auf das Subjekt</div>
-          </div>
-        </div>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "title5",
-      infoText: "text5",
-      svg: () => (
-        <div style={{ background: 'linear-gradient(135deg, #f0f4ff 0%, #e8ecff 100%)', borderRadius: 16, padding: '16px 20px' }}>
-          <p style={{ fontSize: 11, color: '#64748b', fontWeight: 700, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 1 }}>Alle Pronomen</p>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontSize: 12, color: '#1e293b', fontWeight: 600 }}>
-            <div style={{ background: '#3b82f6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Personal</div>
-            <div style={{ background: '#8b5cf6', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Possessiv</div>
-            <div style={{ background: '#10b981', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Reflexiv</div>
-            <div style={{ background: '#f59e0b', borderRadius: 8, padding: 8, color: '#ffffff', textAlign: 'center' }}>Kasus</div>
-          </div>
-        </div>
-      ),
-      questions: [
-        { question: "q5a", choices: ["a5a", "b5a", "c5a", "d5a"], answer: "a5a" },
-        { question: "q5b", choices: ["a5b", "b5b", "c5b", "d5b"], answer: "a5b" },
-        { question: "q5c", choices: ["a5c", "b5c", "c5c", "d5c"], answer: "a5c" },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🙋‍♂️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
-export default function PronounExplorerK5({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const PronounExplorerK5 = memo(function PronounExplorerK5({
+  color = "#4338CA",
+  onDone,
+  lang = "de",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return <ExplorerEngine def={DEF} grade={5} explorerId="deutsch_k5_pronoun" color={color} lang={lang} onDone={onDone} />;
+});
+
+export default PronounExplorerK5;
