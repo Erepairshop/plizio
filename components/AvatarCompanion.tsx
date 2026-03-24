@@ -47,7 +47,8 @@ export interface AvatarCompanionProps {
 }
 
 function nextBlink() {
-  return 3 + Math.random() * 4;
+  // Occasionally blink twice: short gap before the second blink
+  return Math.random() < 0.15 ? 0.4 + Math.random() * 0.6 : 2 + Math.random() * 5;
 }
 
 // ── MAIN CHARACTER ────────────────────────────────────────
@@ -148,7 +149,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
     }
   }, [jumpTrigger?.timestamp]);
 
-  useFrame((_state, delta) => {
+  useFrame((state, delta) => {
     if (!groupRef.current || !headRef.current || !bodyRef.current) return;
 
     tRef.current += delta;
@@ -471,6 +472,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         groupRef.current.rotation.z = Math.sin(t * 0.65) * 0.035;
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
+        headRef.current.rotation.x = Math.sin(t * 0.38 + 2.1) * 0.016;
         if (leftArmRef.current && rightArmRef.current) {
           leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.045;
           rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.045;
@@ -593,6 +595,20 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
     if (m !== 'disappointed') {
       groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, 0, 0.1);
+    }
+
+    // Mouse tracking — head softly follows cursor (idle/focused only, no reactions)
+    if (jumpTimer.current < 0 && (m === 'idle' || m === 'focused')) {
+      const mx = THREE.MathUtils.clamp(state.mouse.x, -1, 1);
+      const my = THREE.MathUtils.clamp(state.mouse.y, -1, 1);
+      headRef.current.rotation.y = lerp(headRef.current.rotation.y, mx * 0.28, 0.06);
+      headRef.current.rotation.x = lerp(headRef.current.rotation.x, -my * 0.10, 0.06);
+      // Brows follow vertical gaze slightly
+      if (leftBrowRef.current && rightBrowRef.current) {
+        const browLift = my * 0.012;
+        leftBrowRef.current.position.y  = lerp(leftBrowRef.current.position.y,  0.1 + browLift, 0.06);
+        rightBrowRef.current.position.y = lerp(rightBrowRef.current.position.y, 0.1 + browLift, 0.06);
+      }
     }
 
     // ── Ambient idle behaviors ─────────────────────────────
