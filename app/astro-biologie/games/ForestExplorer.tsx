@@ -1,650 +1,354 @@
 "use client";
-// ForestExplorer — Grade 6 Biology: Forest Ecosystem (Waldökosystem)
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Forest layers, food chains, decomposition, ecosystem functions
+// ForestExplorer.tsx — Bio Island i3: Erdei ökoszisztéma (K6)
+// Topics: 1) Erdő szintjei 2) Táplálékhálózat 3) Lebontók 4) Az erdő egyensúlya 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { ForestLayersSvg, FoodWebSvg, DecomposerSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#DCFCE7" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-50" y="10" fontSize="35" textAnchor="middle">🌲</text>
+        <path d="M -25,-10 Q 0,-25 25,-10" fill="none" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <path d="M 25,10 Q 0,25 -25,10" fill="none" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="50" y="10" fontSize="35" textAnchor="middle">🦌</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌳</text>
+        <text x="25" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Erdei Ökoszisztéma",
+    // T1: Erdő szintjei
+    t1_title: "Az erdő szintjei",
+    t1_text: "Az erdő egy emeletes házhoz hasonlít. A növények magasságuk és fényigényük alapján különböző szinteket alkotnak, melyek mindegyikének megvan a maga állatvilága.",
+    t1_b1: "Lombkoronaszint: a fák koronája, itt éri a legtöbb fény az erdőt (madarak, mókusok).",
+    t1_b2: "Cserjeszint és gyepszint: kevesebb fény jut ide (bokrok, páfrányok, rovarok, őzek).",
+    t1_b3: "Avar- és talajszint: sötét és nedves (gombák, férgek).",
+    t1_inst: "Hogy hívják az erdő legfelső szintjét?",
+    t1_gap_sentence: "Az erdő legfelső, napfényes emelete a {gap}.",
+    t1_c1: "lombkoronaszint", t1_c2: "cserjeszint", t1_c3: "talajszint",
+    t1_q: "Melyik szinten jut a legkevesebb fény a növényeknek?",
+    t1_q_a: "A gyep- és talajszinten", t1_q_b: "A lombkoronaszinten", t1_q_c: "A cserjeszinten", t1_q_d: "A fák csúcsán",
+
+    // T2: Táplálékhálózat
+    t2_title: "A táplálékhálózat",
+    t2_text: "Az erdőben az élőlények bonyolult táplálékhálózatot alkotnak. Mindenki eszik valakit, és mindenkit megeszik valaki (kivéve a csúcsragadozókat).",
+    t2_b1: "Termelők: a zöld növények, amelyek napfényből állítanak elő táplálékot.",
+    t2_b2: "Fogyasztók: az állatok (növényevők és húsevők).",
+    t2_b3: "Csúcsragadozók: a táplálékhálózat csúcsán állnak (pl. farkas, sas).",
+    t2_inst: "Termelő vagy Fogyasztó? Válogasd szét!",
+    t2_bucket_ter: "Termelők",
+    t2_bucket_fog: "Fogyasztók",
+    t2_item_t1: "Tölgyfa", t2_item_t2: "Páfrány",
+    t2_item_f1: "Róka", t2_item_f2: "Szarvas",
+    t2_q: "Kik állnak a táplálékhálózat legalapvetőbb szintjén (a bázison)?",
+    t2_q_a: "A termelők (zöld növények)", t2_q_b: "A csúcsragadozók", t2_q_c: "A növényevő állatok", t2_q_d: "A lebontók",
+
+    // T3: Lebontók
+    t3_title: "A lebontók szerepe",
+    t3_text: "A lebontók (gombák, baktériumok, férgek) az erdő takarítói. Ők bontják le az elhalt növényeket és állatokat, visszajuttatva a tápanyagokat a talajba.",
+    t3_b1: "Az elhalt avar és fatörzsek a gombák táplálékai.",
+    t3_b2: "A folyamat végén humusz keletkezik, ami táplálja a növényeket.",
+    t3_b3: "Lebontók nélkül az erdő megfulladna a saját hulladékában.",
+    t3_inst: "Párosítsd az élőlényt a szerepével az erdőben!",
+    t3_l1: "Fa (Növény)", t3_r1: "Termelő (táplálékot készít)",
+    t3_l2: "Szarvas (Állat)", t3_r2: "Fogyasztó (növényt eszik)",
+    t3_l3: "Gomba (Lebontó)", t3_r3: "Elhalt anyagokat bont le",
+    t3_q: "Mi keletkezik a lebontók munkája nyomán a talajban?",
+    t3_q_a: "Humusz (tápanyagdús talaj)", t3_q_b: "Mészkő", t3_q_c: "Műanyag", t3_q_d: "Üveg",
+
+    // T4: Az erdő egyensúlya
+    t4_title: "Az ökoszisztéma egyensúlya",
+    t4_text: "Az erdő egy zárt, önfenntartó rendszer. Ha egyetlen faj eltűnik (pl. kiirtják a farkasokat), az egész rendszer egyensúlya felborulhat.",
+    t4_b1: "Növények oxigént termelnek az állatoknak.",
+    t4_b2: "Az állatok szén-dioxidot lélegeznek ki a növényeknek.",
+    t4_b3: "A ragadozók szabályozzák a növényevők számát, védve az erdőt.",
+    t4_inst: "Tedd sorba a mondat szavait!",
+    t4_w1: "Az", t4_w2: "erdő", t4_w3: "egy", t4_w4: "bonyolult", t4_w5: "és", t4_w6: "érzékeny", t4_w7: "ökoszisztéma.",
+    t4_q: "Mi történik, ha egy erdőből eltűnnek a ragadozók?",
+    t4_q_a: "Túlszaporodnak a növényevők, és lelegelik az erdőt.", t4_q_b: "Több lesz a növény.", t4_q_c: "A fák gyorsabban nőnek.", t4_q_d: "Semmi sem változik.",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod az erdei ökoszisztémáról!",
+    t5_b1: "Szintek: lombkorona, cserje, gyep, talaj.",
+    t5_b2: "Hálózat: termelők -> fogyasztók -> lebontók.",
+    t5_b3: "A gombák és baktériumok bontják le az avart.",
+    t5_inst: "Kik juttatják vissza a tápanyagokat a talajba?",
+    t5_gap_sentence2: "Az elhalt anyagokat a {gap} alakítják humusszá.",
+    t5_c51: "lebontók", t5_c52: "termelők", t5_c53: "csúcsragadozók",
+    t5_q: "Melyik állítás IGAZ az erdei ökoszisztémára?",
+    t5_q_a: "A növények, állatok és lebontók szorosan együttműködnek.", t5_q_b: "A gombák a táplálékhálózat csúcsán állnak.", t5_q_c: "Az erdő talajszintjén van a legtöbb fény.", t5_q_d: "A fák fogyasztók.",
+  },
   en: {
-    // Round 1: Forest Layers
-    r1_title: "Forest Layers",
-    r1_text: "A forest has several layers stacked on top of each other, like a cake. Each layer has different plants and animals.",
-    r1_fact1: "Canopy: The tallest trees that catch sunlight ☀️",
-    r1_fact2: "Understory: Smaller trees and shrubs in the shade 🌳",
-    r1_fact3: "Herb Layer: Low plants, ferns, and flowers 🌿",
-    r1_fact4: "Forest Floor: Moss, mushrooms, and dead leaves 🍄",
+    explorer_title: "Forest Ecosystem",
+    t1_title: "Forest Layers", t1_text: "A forest is like a multi-story building. Plants form different layers based on their height and light needs, each with its own wildlife.",
+    t1_b1: "Canopy: the treetops, gets the most sunlight (birds, squirrels).", t1_b2: "Understory and Shrub layer: less light reaches here (bushes, ferns, deer).", t1_b3: "Forest floor: dark and damp (fungi, worms).",
+    t1_inst: "What is the highest layer of the forest called?", t1_gap_sentence: "The highest, sunniest level of the forest is the {gap}.",
+    t1_c1: "canopy", t1_c2: "shrub layer", t1_c3: "forest floor",
+    t1_q: "Which layer gets the least amount of light?", t1_q_a: "The forest floor", t1_q_b: "The canopy", t1_q_c: "The shrub layer", t1_q_d: "The treetops",
 
-    // Round 2: Food Chains
-    r2_title: "Food Chains in the Forest",
-    r2_text: "Energy flows through the forest in a food chain. Plants make food from sunlight, animals eat plants, and bigger animals eat smaller animals.",
-    r2_fact1: "Producers: Plants and trees make food from sunlight (plants don't eat anything)",
-    r2_fact2: "Primary Consumers: Herbivores eat plants (deer, rabbits, insects)",
-    r2_fact3: "Secondary Consumers: Carnivores eat herbivores (birds, foxes)",
-    r2_fact4: "Decomposers: Break down dead things (bacteria, fungi) 🍄",
+    t2_title: "The Food Web", t2_text: "Living things in the forest form a complex food web. Everything eats something, and everything is eaten by something (except apex predators).",
+    t2_b1: "Producers: green plants that make food from sunlight.", t2_b2: "Consumers: animals (herbivores and carnivores).", t2_b3: "Apex predators: at the top of the food web (e.g., wolves, eagles).",
+    t2_inst: "Producer or Consumer? Sort them!",
+    t2_bucket_ter: "Producers", t2_bucket_fog: "Consumers",
+    t2_item_t1: "Oak tree", t2_item_t2: "Fern", t2_item_f1: "Fox", t2_item_f2: "Deer",
+    t2_q: "Who is at the most basic level (the base) of the food web?", t2_q_a: "Producers (green plants)", t2_q_b: "Apex predators", t2_q_c: "Herbivores", t2_q_d: "Decomposers",
 
-    // Round 3: Decomposition
-    r3_title: "Decomposition & Nutrient Cycle",
-    r3_text: "When plants and animals die, decomposers break them down. The nutrients return to the soil, and new plants grow.",
-    r3_fact1: "Fungi and bacteria break down dead leaves, wood, and animals 🍄",
-    r3_fact2: "Earthworms mix the soil and help decompose organic matter 🪱",
-    r3_fact3: "Decomposition releases nutrients back into the soil",
-    r3_fact4: "Plants absorb these nutrients to grow, completing the nutrient cycle",
-    r3_q: "What happens to nutrients when decomposers break down dead plants?",
-    r3_nutrients: "Nutrients return to the soil",
-    r3_disappear: "Nutrients disappear completely",
-    r3_pollute: "Nutrients pollute the water",
-    r3_escape: "Nutrients escape into the air",
+    t3_title: "Role of Decomposers", t3_text: "Decomposers (fungi, bacteria, worms) are the forest's cleaners. They break down dead plants and animals, returning nutrients to the soil.",
+    t3_b1: "Dead leaves and logs are food for fungi.", t3_b2: "The process creates humus, which feeds the plants.", t3_b3: "Without decomposers, the forest would choke on its own waste.",
+    t3_inst: "Match the living thing to its role in the forest!",
+    t3_l1: "Tree (Plant)", t3_r1: "Producer (makes food)", t3_l2: "Deer (Animal)", t3_r2: "Consumer (eats plants)", t3_l3: "Fungus (Decomposer)", t3_r3: "Breaks down dead matter",
+    t3_q: "What is created in the soil by the work of decomposers?", t3_q_a: "Humus (nutrient-rich soil)", t3_q_b: "Limestone", t3_q_c: "Plastic", t3_q_d: "Glass",
 
-    // Round 4: Forest as Ecosystem
-    r4_title: "Forest Ecosystem Functions",
-    r4_text: "Forests are vital ecosystems. They produce oxygen, absorb carbon dioxide, store water, and provide homes for millions of organisms.",
-    r4_fact1: "Forests produce oxygen that we breathe 💨",
-    r4_fact2: "Forests absorb carbon dioxide from the atmosphere (CO₂ ↓)",
-    r4_fact3: "Roots and soil store water, preventing floods 💧",
-    r4_fact4: "Forests are home to biodiversity: thousands of species live there 🦌🐿️🦅",
-    r4_q: "Which gas do forests remove from the atmosphere?",
-    r4_co2: "Carbon dioxide (CO₂)",
-    r4_o2: "Oxygen (O₂)",
-    r4_n2: "Nitrogen (N₂)",
-    r4_ch4: "Methane (CH₄)",
+    t4_title: "Ecosystem Balance", t4_text: "The forest is a closed, self-sustaining system. If a single species disappears (e.g., wolves are hunted), the entire balance can collapse.",
+    t4_b1: "Plants produce oxygen for animals.", t4_b2: "Animals exhale carbon dioxide for plants.", t4_b3: "Predators control herbivore numbers, protecting the forest.",
+    t4_inst: "Put the words in order!",
+    t4_w1: "The", t4_w2: "forest", t4_w3: "is", t4_w4: "a", t4_w5: "complex", t4_w6: "ecosystem.", t4_w7: "",
+    t4_q: "What happens if predators disappear from a forest?", t4_q_a: "Herbivores overpopulate and overgraze the forest.", t4_q_b: "There will be more plants.", t4_q_c: "Trees grow faster.", t4_q_d: "Nothing changes.",
 
-    // Round 5: Quiz
-    r5_title: "Forest Quiz",
-
-    q1_q: "What is the topmost layer of a forest called?",
-    q1_canopy: "Canopy",
-    q1_understory: "Understory",
-    q1_herbLayer: "Herb layer",
-    q1_floor: "Forest floor",
-
-    q2_q: "Which organisms break down dead wood and leaves?",
-    q2_decomposers: "Decomposers (fungi, bacteria)",
-    q2_herbivores: "Herbivores",
-    q2_producers: "Producers",
-    q2_carnivores: "Carnivores",
-
-    q3_q: "What does a forest absorb from the air to help fight climate change?",
-    q3_co2: "Carbon dioxide (CO₂)",
-    q3_oxygen: "Oxygen (O₂)",
-    q3_nitrogen: "Nitrogen (N₂)",
-    q3_water: "Water vapor",
-
-    // SVG labels
-    svg_plant: "Plant",
-    svg_herbivore: "Herbivore",
-    svg_carnivore: "Carnivore",
-    svg_decomposers: "Decomposers",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about the forest ecosystem!",
+    t5_b1: "Layers: canopy, shrub, herb, forest floor.", t5_b2: "Web: producers -> consumers -> decomposers.", t5_b3: "Fungi and bacteria break down dead leaves.",
+    t5_inst: "Who returns nutrients to the soil?", t5_gap_sentence2: "Dead materials are turned into humus by {gap}.",
+    t5_c51: "decomposers", t5_c52: "producers", t5_c53: "apex predators",
+    t5_q: "Which statement is TRUE about the forest ecosystem?", t5_q_a: "Plants, animals, and decomposers work closely together.", t5_q_b: "Fungi are at the top of the food web.", t5_q_c: "The forest floor gets the most light.", t5_q_d: "Trees are consumers.",
   },
   de: {
-    r1_title: "Waldschichten",
-    r1_text: "Ein Wald hat mehrere Schichten übereinander, wie ein Kuchen. Jede Schicht hat unterschiedliche Pflanzen und Tiere.",
-    r1_fact1: "Kronenschicht: Die höchsten Bäume, die Sonnenlicht einfangen ☀️",
-    r1_fact2: "Strauchschicht: Kleinere Bäume und Sträucher im Schatten 🌳",
-    r1_fact3: "Krautschicht: Niedrige Pflanzen, Farne und Blumen 🌿",
-    r1_fact4: "Waldboden: Moos, Pilze und abgestorbene Blätter 🍄",
+    explorer_title: "Ökosystem Wald",
+    t1_title: "Stockwerke des Waldes", t1_text: "Ein Wald ist wie ein mehrstöckiges Haus. Pflanzen bilden je nach Höhe und Lichtbedarf Schichten, jede mit ihrer eigenen Tierwelt.",
+    t1_b1: "Baumschicht (Kronendach): bekommt am meisten Licht (Vögel, Eichhörnchen).", t1_b2: "Strauch- und Krautschicht: weniger Licht (Sträucher, Farne, Rehe).", t1_b3: "Bodenschicht: dunkel und feucht (Pilze, Würmer).",
+    t1_inst: "Wie nennt man die oberste Schicht des Waldes?", t1_gap_sentence: "Das oberste, sonnige Stockwerk ist die {gap}.",
+    t1_c1: "Baumschicht", t1_c2: "Strauchschicht", t1_c3: "Bodenschicht",
+    t1_q: "Welche Schicht bekommt am wenigsten Licht?", t1_q_a: "Die Bodenschicht", t1_q_b: "Die Baumschicht", t1_q_c: "Die Strauchschicht", t1_q_d: "Die Baumkronen",
 
-    r2_title: "Nahrungsketten im Wald",
-    r2_text: "Energie fließt durch den Wald in einer Nahrungskette. Pflanzen machen Nahrung aus Sonnenlicht, Tiere essen Pflanzen, und größere Tiere essen kleinere Tiere.",
-    r2_fact1: "Produzenten: Pflanzen und Bäume machen Nahrung aus Sonnenlicht (Pflanzen essen nichts)",
-    r2_fact2: "Primäre Konsumenten: Herbivoren essen Pflanzen (Hirsche, Kaninchen, Insekten)",
-    r2_fact3: "Sekundäre Konsumenten: Fleischfresser essen Pflanzenfresser (Vögel, Füchse)",
-    r2_fact4: "Zersetzer: Bauen tote Dinge ab (Bakterien, Pilze) 🍄",
+    t2_title: "Das Nahrungsnetz", t2_text: "Im Wald bilden Lebewesen ein komplexes Nahrungsnetz. Jeder frisst jemanden und wird gefressen (außer Spitzenprädatoren).",
+    t2_b1: "Produzenten: grüne Pflanzen, die aus Sonnenlicht Nahrung herstellen.", t2_b2: "Konsumenten: Tiere (Pflanzenfresser und Fleischfresser).", t2_b3: "Spitzenprädatoren: stehen an der Spitze des Nahrungsnetzes (z.B. Wolf, Adler).",
+    t2_inst: "Produzent oder Konsument? Sortiere!",
+    t2_bucket_ter: "Produzenten", t2_bucket_fog: "Konsumenten",
+    t2_item_t1: "Eiche", t2_item_t2: "Farn", t2_item_f1: "Fuchs", t2_item_f2: "Reh",
+    t2_q: "Wer steht auf der untersten Stufe (der Basis) des Nahrungsnetzes?", t2_q_a: "Die Produzenten (Pflanzen)", t2_q_b: "Die Spitzenprädatoren", t2_q_c: "Die Pflanzenfresser", t2_q_d: "Die Zersetzer",
 
-    r3_title: "Zersetzung & Nährstoffkreislauf",
-    r3_text: "Wenn Pflanzen und Tiere sterben, bauen Zersetzer sie ab. Die Nährstoffe kehren in den Boden zurück, und neue Pflanzen wachsen.",
-    r3_fact1: "Pilze und Bakterien bauen tote Blätter, Holz und Tiere ab 🍄",
-    r3_fact2: "Regenwürmer lockern den Boden auf und helfen beim Abbau organischer Stoffe 🪱",
-    r3_fact3: "Zersetzung setzt Nährstoffe in den Boden frei",
-    r3_fact4: "Pflanzen nehmen diese Nährstoffe auf, um zu wachsen, was den Nährstoffkreislauf abschließt",
-    r3_q: "Was passiert mit Nährstoffen, wenn Zersetzer tote Pflanzen abbauen?",
-    r3_nutrients: "Nährstoffe kehren in den Boden zurück",
-    r3_disappear: "Nährstoffe verschwinden vollständig",
-    r3_pollute: "Nährstoffe verschmutzen das Wasser",
-    r3_escape: "Nährstoffe entweichen in die Luft",
+    t3_title: "Die Zersetzer", t3_text: "Zersetzer (Pilze, Bakterien, Würmer) sind die Müllabfuhr des Waldes. Sie bauen tote Pflanzen und Tiere ab und geben Nährstoffe an den Boden zurück.",
+    t3_b1: "Totes Laub und Holz sind Nahrung für Pilze.", t3_b2: "Dabei entsteht Humus, der die Pflanzen ernährt.", t3_b3: "Ohne Zersetzer würde der Wald im eigenen Müll ersticken.",
+    t3_inst: "Verbinde das Lebewesen mit seiner Rolle im Wald!",
+    t3_l1: "Baum (Pflanze)", t3_r1: "Produzent (stellt Nahrung her)", t3_l2: "Reh (Tier)", t3_r2: "Konsument (frisst Pflanzen)", t3_l3: "Pilz (Zersetzer)", t3_r3: "Baut totes Material ab",
+    t3_q: "Was entsteht im Boden durch die Arbeit der Zersetzer?", t3_q_a: "Humus (nährstoffreiche Erde)", t3_q_b: "Kalkstein", t3_q_c: "Plastik", t3_q_d: "Glas",
 
-    r4_title: "Waldökosystem-Funktionen",
-    r4_text: "Wälder sind lebenswichtige Ökosysteme. Sie produzieren Sauerstoff, absorbieren Kohlendioxid, speichern Wasser und bieten Lebensraum für Millionen von Organismen.",
-    r4_fact1: "Wälder produzieren Sauerstoff, den wir atmen 💨",
-    r4_fact2: "Wälder absorbieren Kohlendioxid aus der Atmosphäre (CO₂ ↓)",
-    r4_fact3: "Wurzeln und Boden speichern Wasser und verhindern Überschwemmungen 💧",
-    r4_fact4: "Wälder sind Lebensraum für Millionen: Tausende von Arten leben dort 🦌🐿️🦅",
-    r4_q: "Welches Gas entfernen Wälder aus der Atmosphäre?",
-    r4_co2: "Kohlendioxid (CO₂)",
-    r4_o2: "Sauerstoff (O₂)",
-    r4_n2: "Stickstoff (N₂)",
-    r4_ch4: "Methan (CH₄)",
+    t4_title: "Gleichgewicht des Ökosystems", t4_text: "Der Wald ist ein geschlossenes System. Wenn eine Art verschwindet (z.B. Wölfe), kann das ganze Gleichgewicht kippen.",
+    t4_b1: "Pflanzen produzieren Sauerstoff für Tiere.", t4_b2: "Tiere atmen Kohlendioxid für Pflanzen aus.", t4_b3: "Raubtiere kontrollieren die Zahl der Pflanzenfresser.",
+    t4_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t4_w1: "Der", t4_w2: "Wald", t4_w3: "ist", t4_w4: "ein", t4_w5: "komplexes", t4_w6: "Ökosystem.", t4_w7: "",
+    t4_q: "Was passiert, wenn Raubtiere aus einem Wald verschwinden?", t4_q_a: "Pflanzenfresser vermehren sich zu stark und fressen den Wald kahl.", t4_q_b: "Es gibt mehr Pflanzen.", t4_q_c: "Bäume wachsen schneller.", t4_q_d: "Nichts verändert sich.",
 
-    r5_title: "Waldquiz",
-
-    q1_q: "Wie heißt die oberste Schicht eines Waldes?",
-    q1_canopy: "Kronenschicht",
-    q1_understory: "Strauchschicht",
-    q1_herbLayer: "Krautschicht",
-    q1_floor: "Waldboden",
-
-    q2_q: "Welche Organismen bauen totes Holz und Blätter ab?",
-    q2_decomposers: "Zersetzer (Pilze, Bakterien)",
-    q2_herbivores: "Pflanzenfresser",
-    q2_producers: "Produzenten",
-    q2_carnivores: "Fleischfresser",
-
-    q3_q: "Was absorbiert ein Wald aus der Luft, um den Klimawandel zu bekämpfen?",
-    q3_co2: "Kohlendioxid (CO₂)",
-    q3_oxygen: "Sauerstoff (O₂)",
-    q3_nitrogen: "Stickstoff (N₂)",
-    q3_water: "Wasserdampf",
-
-    svg_plant: "Pflanze",
-    svg_herbivore: "Pflanzenfresser",
-    svg_carnivore: "Fleischfresser",
-    svg_decomposers: "Zersetzer",
-  },
-  hu: {
-    r1_title: "Az erdő rétegei",
-    r1_text: "Az erdőnek több rétege van egymás felett, mint egy torta. Mindegyik rétegnek más-más növényi és állati élete van.",
-    r1_fact1: "Lombkoronaszint: A legmagasabb fák, amelyek napfényt fognak ☀️",
-    r1_fact2: "Cserjeszint: Kisebb fák és cserjék az árnyékban 🌳",
-    r1_fact3: "Fűszint: Alacsony növények, páfrányfélék és virágok 🌿",
-    r1_fact4: "Erdőtalaj: Moha, gombák és elhalt levelek 🍄",
-
-    r2_title: "Táplálékláncok az erdőben",
-    r2_text: "Az energia az erdőben egy táplálékláncban áramlik. A növények napfényből készítik az ételt, az állatok a növényeket eszik, és a nagyobb állatok a kisebbeket.",
-    r2_fact1: "Termelők: Növények és fák napfényből készítik az ételt (a növények nem esznek)",
-    r2_fact2: "Elsődleges fogyasztók: Herbivórák esznek növényt (szarvas, nyúl, rovarok)",
-    r2_fact3: "Másodlagos fogyasztók: Carnivórák esznek herbivórákat (madarak, rókák)",
-    r2_fact4: "Lebontók: Elpusztulhat dolgok lebontása (baktériumok, gombák) 🍄",
-
-    r3_title: "Lebontás és tápanyagkör",
-    r3_text: "Amikor növények és állatok meghalnak, a lebontók lebontják őket. A tápanyagok visszatérnek a talajba, és új növények nőnek.",
-    r3_fact1: "Gombák és baktériumok lebontják az elhalt leveleket, a fát és az állatokat 🍄",
-    r3_fact2: "A földigiliszták fellazítják a talajt és segítik az szerves anyag lebontását 🪱",
-    r3_fact3: "A lebontás felszabadítja a tápanyagokat a talajba",
-    r3_fact4: "A növények felszívják ezeket a tápanyagokat a növekedéshez, ami befejezi a tápanyagkört",
-    r3_q: "Mi történik a tápanyagokkal, amikor a lebontók elpusztult növényeket lebontanak?",
-    r3_nutrients: "A tápanyagok visszatérnek a talajba",
-    r3_disappear: "A tápanyagok teljesen eltűnnek",
-    r3_pollute: "A tápanyagok szennyezik a vizet",
-    r3_escape: "A tápanyagok szöknek a levegőbe",
-
-    r4_title: "Erdőökoszisztéma funkciók",
-    r4_text: "Az erdők létfontosságú ökoszisztémák. Oxigént termelnek, felszívják a szén-dioxidot, vizet tárolnak, és otthont nyújtanak millió organizmusnak.",
-    r4_fact1: "Az erdők oxigént termelnek, amit lélegzünk 💨",
-    r4_fact2: "Az erdők felszívják a szén-dioxidot az atmoszkférából (CO₂ ↓)",
-    r4_fact3: "A gyökerek és talaj vizet tárolnak, megakadályozva az áradásokat 💧",
-    r4_fact4: "Az erdők az biodiverzitás otthona: millió faj él ott 🦌🐿️🦅",
-    r4_q: "Melyik gázt távolítják el az erdők a légkörből?",
-    r4_co2: "Szén-dioxid (CO₂)",
-    r4_o2: "Oxigén (O₂)",
-    r4_n2: "Nitrogén (N₂)",
-    r4_ch4: "Metán (CH₄)",
-
-    r5_title: "Erdőkvíz",
-
-    q1_q: "Hogyan hívják az erdő legfelső rétegét?",
-    q1_canopy: "Lombkoronaszint",
-    q1_understory: "Cserjeszint",
-    q1_herbLayer: "Fűszint",
-    q1_floor: "Erdőtalaj",
-
-    q2_q: "Mely organizmusok lebontják az elhalt fát és leveleket?",
-    q2_decomposers: "Lebontók (gombák, baktériumok)",
-    q2_herbivores: "Herbivórák",
-    q2_producers: "Termelők",
-    q2_carnivores: "Carnivórák",
-
-    q3_q: "Mit szív fel az erdő a levegőből az éghajlatváltozás elleni küzdelemhez?",
-    q3_co2: "Szén-dioxid (CO₂)",
-    q3_oxygen: "Oxigén (O₂)",
-    q3_nitrogen: "Nitrogén (N₂)",
-    q3_water: "Vízpára",
-
-    svg_plant: "Növény",
-    svg_herbivore: "Növényevő",
-    svg_carnivore: "Ragadozó",
-    svg_decomposers: "Lebontók",
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über das Ökosystem Wald!",
+    t5_b1: "Schichten: Baum, Strauch, Kraut, Boden.", t5_b2: "Netz: Produzent -> Konsument -> Zersetzer.", t5_b3: "Pilze und Bakterien bauen das Laub ab.",
+    t5_inst: "Wer gibt die Nährstoffe an den Boden zurück?", t5_gap_sentence2: "Totes Material wird durch {gap} zu Humus.",
+    t5_c51: "Zersetzer", t5_c52: "Produzenten", t5_c53: "Spitzenprädatoren",
+    t5_q: "Welche Aussage über das Ökosystem Wald ist WAHR?", t5_q_a: "Pflanzen, Tiere und Zersetzer arbeiten eng zusammen.", t5_q_b: "Pilze stehen an der Spitze des Nahrungsnetzes.", t5_q_c: "Die Bodenschicht hat das meiste Licht.", t5_q_d: "Bäume sind Konsumenten.",
   },
   ro: {
-    r1_title: "Straturile păderii",
-    r1_text: "O pădure are mai multe straturi suprapuse, ca un tort. Fiecare strat are plante și animale diferite.",
-    r1_fact1: "Coronament: Cei mai înalți copaci care captează lumina soarelui ☀️",
-    r1_fact2: "Stratul arborescent: Copaci mai mici și arbuști la umbră 🌳",
-    r1_fact3: "Stratul ierburos: Plante mici, ferigile și flori 🌿",
-    r1_fact4: "Tapisul păderii: Mușchi, ciuperci și frunze moarte 🍄",
+    explorer_title: "Ecosistemul Pădurii",
+    t1_title: "Nivelurile Pădurii", t1_text: "O pădure este ca o clădire cu mai multe etaje. Plantele formează straturi pe baza înălțimii și a nevoii de lumină, fiecare cu propria faună.",
+    t1_b1: "Coronamentul: vârfurile copacilor, primește cea mai multă lumină (păsări, veverițe).", t1_b2: "Stratul arbustiv și erbaceu: ajunge mai puțină lumină (tufișuri, ferigi, căprioare).", t1_b3: "Litiera: întunecat și umed (ciuperci, viermi).",
+    t1_inst: "Cum se numește cel mai înalt strat al pădurii?", t1_gap_sentence: "Cel mai înalt și însorit etaj al pădurii este {gap}.",
+    t1_c1: "coronamentul", t1_c2: "stratul arbustiv", t1_c3: "litiera",
+    t1_q: "Care strat primește cel mai puțină lumină?", t1_q_a: "Litiera și solul", t1_q_b: "Coronamentul", t1_q_c: "Stratul arbustiv", t1_q_d: "Vârfurile copacilor",
 
-    r2_title: "Lanțuri trofice în pădure",
-    r2_text: "Energia curge prin pădure într-un lanț trofic. Plantele fac mâncare din lumina soarelui, animalele mănâncă plante, și animalele mai mari mănâncă pe cele mai mici.",
-    r2_fact1: "Producători: Plante și copaci fac mâncare din lumina soarelui (plantele nu mănâncă nimic)",
-    r2_fact2: "Consumatori primari: Erbivori mănâncă plante (cerbi, iepuri, insecte)",
-    r2_fact3: "Consumatori secundari: Carnivori mănâncă erbivori (păsări, vulpi)",
-    r2_fact4: "Descompozitori: Descompun lucruri moarte (bacterii, ciuperci) 🍄",
+    t2_title: "Rețeaua Trofică", t2_text: "În pădure, viețuitoarele formează o rețea trofică complexă. Totul mănâncă ceva și este mâncat de altceva (cu excepția prădătorilor de top).",
+    t2_b1: "Producători: plante verzi care fac hrană din lumina soarelui.", t2_b2: "Consumatori: animale (erbivore și carnivore).", t2_b3: "Prădători de top: în vârful rețelei trofice (ex. lup, vultur).",
+    t2_inst: "Producător sau Consumator? Sortează-le!",
+    t2_bucket_ter: "Producători", t2_bucket_fog: "Consumatori",
+    t2_item_t1: "Stejar", t2_item_t2: "Ferigă", t2_item_f1: "Vulpe", t2_item_f2: "Căprioară",
+    t2_q: "Cine se află la nivelul cel mai de bază al rețelei trofice?", t2_q_a: "Producătorii (plantele verzi)", t2_q_b: "Prădătorii de top", t2_q_c: "Animalele erbivore", t2_q_d: "Descompunătorii",
 
-    r3_title: "Descompunere și ciclul nutrienților",
-    r3_text: "Când plantele și animalele mor, descompoziitorii le descompun. Nutrienții se întorc în sol, și cresc plante noi.",
-    r3_fact1: "Ciupercile și bacteriile descompun frunzele moarte, lemnul și animalele 🍄",
-    r3_fact2: "Viermii de pământ amestecă solul și ajută la descompunerea materiei organice 🪱",
-    r3_fact3: "Descompunerea eliberează nutrienți în sol",
-    r3_fact4: "Plantele absorb acești nutrienți pentru a crește, completând ciclul nutrienților",
-    r3_q: "Ce se întâmplă cu nutrienții când descompoziitorii descompun plantele moarte?",
-    r3_nutrients: "Nutrienții se întorc în sol",
-    r3_disappear: "Nutrienții dispar complet",
-    r3_pollute: "Nutrienții poluează apa",
-    r3_escape: "Nutrienții se scapă în aer",
+    t3_title: "Rolul Descompunătorilor", t3_text: "Descompunătorii (ciuperci, bacterii, viermi) sunt gunoierii pădurii. Ei descompun plantele și animalele moarte, returnând nutrienții în sol.",
+    t3_b1: "Frunzele moarte și trunchiurile sunt hrana ciupercilor.", t3_b2: "Procesul creează humus, care hrănește plantele.", t3_b3: "Fără descompunători, pădurea s-ar sufoca în propriile deșeuri.",
+    t3_inst: "Potrivește viețuitoarea cu rolul ei în pădure!",
+    t3_l1: "Copac (Plantă)", t3_r1: "Producător (face hrană)", t3_l2: "Căprioară (Animal)", t3_r2: "Consumator (mănâncă plante)", t3_l3: "Ciupercă (Descompunător)", t3_r3: "Descompune materia moartă",
+    t3_q: "Ce se creează în sol prin munca descompunătorilor?", t3_q_a: "Humus (sol bogat în nutrienți)", t3_q_b: "Calcar", t3_q_c: "Plastic", t3_q_d: "Sticlă",
 
-    r4_title: "Funcțiile ecosistemului păderii",
-    r4_text: "Pădurile sunt ecosisteme vitale. Produc oxigen, absorb dioxid de carbon, stochează apă și oferă acasă pentru milioane de organisme.",
-    r4_fact1: "Pădurile produc oxigen pe care îl respirăm 💨",
-    r4_fact2: "Pădurile absorb dioxid de carbon din atmosferă (CO₂ ↓)",
-    r4_fact3: "Rădăcinile și solul stochează apă, prevenind inundațiile 💧",
-    r4_fact4: "Pădurile sunt acasă pentru biodiversitate: mii de specii trăiesc acolo 🦌🐿️🦅",
-    r4_q: "Ce gaz elimină pădurile din atmosferă?",
-    r4_co2: "Dioxid de carbon (CO₂)",
-    r4_o2: "Oxigen (O₂)",
-    r4_n2: "Azot (N₂)",
-    r4_ch4: "Metan (CH₄)",
+    t4_title: "Echilibrul Ecosistemului", t4_text: "Pădurea este un sistem închis, care se auto-susține. Dacă o singură specie dispare (ex. lupii), întregul echilibru se poate prăbuși.",
+    t4_b1: "Plantele produc oxigen pentru animale.", t4_b2: "Animalele expiră dioxid de carbon pentru plante.", t4_b3: "Prădătorii controlează numărul erbivorelor, protejând pădurea.",
+    t4_inst: "Pune cuvintele în ordine!",
+    t4_w1: "Pădurea", t4_w2: "este", t4_w3: "un", t4_w4: "ecosistem", t4_w5: "complex.", t4_w6: "", t4_w7: "",
+    t4_q: "Ce se întâmplă dacă prădătorii dispar dintr-o pădure?", t4_q_a: "Erbivorele se înmulțesc prea mult și distrug pădurea.", t4_q_b: "Vor fi mai multe plante.", t4_q_c: "Copacii cresc mai repede.", t4_q_d: "Nu se schimbă nimic.",
 
-    r5_title: "Quiz despre pădure",
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre ecosistemul pădurii!",
+    t5_b1: "Straturi: coronament, arbustiv, erbaceu, litieră.", t5_b2: "Rețea: producători -> consumatori -> descompunători.", t5_b3: "Ciupercile și bacteriile descompun frunzele.",
+    t5_inst: "Cine returnează nutrienții în sol?", t5_gap_sentence2: "Materialele moarte sunt transformate în humus de către {gap}.",
+    t5_c51: "descompunători", t5_c52: "producători", t5_c53: "prădătorii de top",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre ecosistemul pădurii?", t5_q_a: "Plantele, animalele și descompunătorii colaborează strâns.", t5_q_b: "Ciupercile sunt în vârful rețelei trofice.", t5_q_c: "Stratul solului primește cea mai multă lumină.", t5_q_d: "Copacii sunt consumatori.",
+  }
+};
 
-    q1_q: "Cum se numește cea mai de sus strat a unei păduri?",
-    q1_canopy: "Coronament",
-    q1_understory: "Stratul arborescent",
-    q1_herbLayer: "Stratul ierburos",
-    q1_floor: "Tapisul păderii",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care organisme descompun lemnul și frunzele moarte?",
-    q2_decomposers: "Descompozitori (ciuperci, bacterii)",
-    q2_herbivores: "Erbivori",
-    q2_producers: "Producători",
-    q2_carnivores: "Carnivori",
-
-    q3_q: "Ce absorbe pădurile din aer pentru a lupta împotriva schimbărilor climatice?",
-    q3_co2: "Dioxid de carbon (CO₂)",
-    q3_oxygen: "Oxigen (O₂)",
-    q3_nitrogen: "Azot (N₂)",
-    q3_water: "Vapori de apă",
-
-    svg_plant: "Plantă",
-    svg_herbivore: "Erbivor",
-    svg_carnivore: "Carnivor",
-    svg_decomposers: "Descompunători",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <ForestLayersSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <FoodWebSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "ter", label: "t2_bucket_ter" },
+        { id: "fog", label: "t2_bucket_fog" },
+      ],
+      items: [
+        { text: "t2_item_t1", bucketId: "ter" },
+        { text: "t2_item_f1", bucketId: "fog" },
+        { text: "t2_item_t2", bucketId: "ter" },
+        { text: "t2_item_f2", bucketId: "fog" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <DecomposerSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6", "t4_w7"], 
+      // max 7 words mapping for languages like HU
+      correctOrder: [0, 1, 2, 3, 4, 5, 6],
+      instruction: "t4_inst",
+      hint1: "t4_b3",
+      hint2: "t4_b1",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS (NO TEXT INSIDE SVG)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Forest layers cross-section */
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="forestSky" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" />
-          <stop offset="100%" stopColor="#E0F6FF" />
-        </linearGradient>
-        <linearGradient id="forestSoil" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B6F47" />
-          <stop offset="100%" stopColor="#5D4A2A" />
-        </linearGradient>
-      </defs>
-
-      {/* Sky background */}
-      <rect width="240" height="160" fill="url(#forestSky)" />
-
-      {/* Sun */}
-      <circle cx="200" cy="20" r="12" fill="#FFD700" opacity="0.9" />
-
-      {/* Canopy layer — tall trees */}
-      <g id="canopy">
-        <rect x="0" y="0" width="240" height="35" fill="#2D5016" opacity="0.85" />
-        <circle cx="40" cy="35" r="22" fill="#3D7C1C" />
-        <circle cx="60" cy="28" r="25" fill="#3D7C1C" />
-        <circle cx="85" cy="30" r="24" fill="#4A9B3D" />
-        <circle cx="120" cy="25" r="26" fill="#3D7C1C" />
-        <circle cx="155" cy="32" r="25" fill="#4A9B3D" />
-        <circle cx="180" cy="28" r="23" fill="#3D7C1C" />
-        <circle cx="210" cy="35" r="22" fill="#4A9B3D" />
-      </g>
-
-      {/* Understory layer — shrubs */}
-      <g id="understory">
-        <rect x="0" y="35" width="240" height="30" fill="#5A7D4D" opacity="0.7" />
-        <polygon points="30,65 20,50 40,50" fill="#6B9D5C" />
-        <polygon points="70,65 60,50 80,50" fill="#6B9D5C" />
-        <polygon points="110,65 100,50 120,50" fill="#7AB26D" />
-        <polygon points="160,65 150,50 170,50" fill="#6B9D5C" />
-        <polygon points="210,65 200,50 220,50" fill="#7AB26D" />
-      </g>
-
-      {/* Herb layer — low plants */}
-      <g id="herbLayer">
-        <rect x="0" y="65" width="240" height="25" fill="#6FA86F" opacity="0.6" />
-        <circle cx="25" cy="75" r="6" fill="#7DB87D" />
-        <circle cx="50" cy="78" r="5" fill="#7DB87D" />
-        <circle cx="75" cy="76" r="6" fill="#8DCC8D" />
-        <circle cx="100" cy="77" r="5" fill="#7DB87D" />
-        <circle cx="135" cy="75" r="6" fill="#8DCC8D" />
-        <circle cx="160" cy="78" r="5" fill="#7DB87D" />
-        <circle cx="190" cy="76" r="6" fill="#8DCC8D" />
-        <circle cx="220" cy="77" r="5" fill="#7DB87D" />
-      </g>
-
-      {/* Forest floor — moss and decomposition */}
-      <g id="floor">
-        <rect x="0" y="90" width="240" height="70" fill="url(#forestSoil)" />
-        {/* Mushrooms */}
-        <circle cx="40" cy="105" r="4" fill="#DC7A1C" />
-        <ellipse cx="40" cy="108" rx="7" ry="4" fill="#D47A1C" opacity="0.8" />
-        <circle cx="120" cy="108" r="4" fill="#DC7A1C" />
-        <ellipse cx="120" cy="111" rx="7" ry="4" fill="#D47A1C" opacity="0.8" />
-        <circle cx="200" cy="106" r="4" fill="#DC7A1C" />
-        <ellipse cx="200" cy="109" rx="7" ry="4" fill="#D47A1C" opacity="0.8" />
-        {/* Dead leaves scattered */}
-        <ellipse cx="60" cy="130" rx="8" ry="5" fill="#8B4513" opacity="0.6" transform="rotate(-20 60 130)" />
-        <ellipse cx="100" cy="140" rx="8" ry="5" fill="#9B5624" opacity="0.6" transform="rotate(30 100 140)" />
-        <ellipse cx="160" cy="135" rx="8" ry="5" fill="#8B4513" opacity="0.6" transform="rotate(-40 160 135)" />
-      </g>
-
-      {/* Vertical arrows showing layer structure */}
-      <line x1="15" y1="10" x2="15" y2="150" stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Food chain arrow diagram */
-function SVG_R2(lang: string): React.ReactNode {
-  const t = LABELS[lang] || LABELS.en;
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="chainBg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgba(135,206,235,0.3)" />
-          <stop offset="100%" stopColor="rgba(139,90,60,0.3)" />
-        </linearGradient>
-      </defs>
-
-      {/* Background */}
-      <rect width="240" height="160" fill="url(#chainBg)" />
-
-      {/* Sun */}
-      <circle cx="20" cy="20" r="12" fill="#FFD700" />
-
-      {/* Producer: Plant */}
-      <g id="plant">
-        <ellipse cx="50" cy="80" rx="15" ry="28" fill="#4A8B4A" />
-        <ellipse cx="35" cy="70" rx="12" ry="20" fill="#5BA85B" transform="rotate(-25 35 70)" />
-        <ellipse cx="65" cy="70" rx="12" ry="20" fill="#5BA85B" transform="rotate(25 65 70)" />
-        <rect x="45" y="105" width="10" height="18" fill="#8B6F47" />
-      </g>
-      <text x="50" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_plant}</text>
-
-      {/* Arrow 1 */}
-      <path d="M 75 80 L 95 80" stroke="rgba(255,255,255,0.6)" strokeWidth="2" markerEnd="url(#arrowhead)" />
-
-      {/* Primary Consumer: Rabbit/Herbivore */}
-      <g id="herbivore">
-        <ellipse cx="120" cy="80" rx="14" ry="16" fill="#8B6F47" />
-        <circle cx="130" cy="70" r="9" fill="#9B7F57" />
-        <circle cx="128" cy="68" r="3" fill="black" />
-        <path d="M 135 65 L 140 60" stroke="#9B7F57" strokeWidth="2" />
-        <path d="M 137 65 L 142 60" stroke="#9B7F57" strokeWidth="2" />
-      </g>
-      <text x="120" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_herbivore}</text>
-
-      {/* Arrow 2 */}
-      <path d="M 145 80 L 165 80" stroke="rgba(255,255,255,0.6)" strokeWidth="2" markerEnd="url(#arrowhead)" />
-
-      {/* Secondary Consumer: Fox/Carnivore */}
-      <g id="carnivore">
-        <ellipse cx="190" cy="80" rx="16" ry="14" fill="#DC5D1C" />
-        <circle cx="202" cy="72" r="9" fill="#E06D2C" />
-        <circle cx="200" cy="70" r="3" fill="black" />
-        <path d="M 206 67 L 212 62" stroke="#E06D2C" strokeWidth="2" />
-        <path d="M 208 67 L 214 62" stroke="#E06D2C" strokeWidth="2" />
-        <path d="M 177 75 L 170 80" stroke="#DC5D1C" strokeWidth="3" />
-      </g>
-      <text x="190" y="140" textAnchor="middle" fontSize="10" fontWeight="bold" fill="rgba(255,255,255,0.7)">{t.svg_carnivore}</text>
-
-      {/* Arrow from sun to plant */}
-      <path d="M 32 32 L 45 60" stroke="rgba(255,215,0,0.5)" strokeWidth="2" strokeDasharray="3,3" markerEnd="url(#arrowhead)" />
-
-      {/* Decomposer at bottom */}
-      <g id="decomposer">
-        <ellipse cx="120" cy="130" rx="20" ry="10" fill="#8B6F47" opacity="0.6" />
-        <circle cx="105" cy="125" r="4" fill="#DC7A1C" />
-        <circle cx="120" cy="122" r="4" fill="#DC7A1C" />
-        <circle cx="135" cy="125" r="4" fill="#DC7A1C" />
-      </g>
-      <text x="120" y="155" textAnchor="middle" fontSize="9" fontWeight="bold" fill="rgba(255,255,255,0.6)">{t.svg_decomposers}</text>
-
-      <defs>
-        <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="rgba(255,255,255,0.6)" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Decomposition cycle with dead log */
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="decomposeBg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E0F0FF" />
-          <stop offset="100%" stopColor="#A0804A" />
-        </linearGradient>
-      </defs>
-
-      {/* Background */}
-      <rect width="240" height="160" fill="url(#decomposeBg)" />
-
-      {/* Dead log */}
-      <g id="deadLog">
-        <ellipse cx="120" cy="70" rx="50" ry="16" fill="#6B4423" />
-        <rect x="70" y="55" width="100" height="15" fill="#8B5A2B" opacity="0.8" />
-        {/* Cracks in wood */}
-        <path d="M 85 65 Q 95 70 105 65" stroke="#5D3A1F" strokeWidth="1" fill="none" opacity="0.6" />
-        <path d="M 110 68 Q 120 72 130 68" stroke="#5D3A1F" strokeWidth="1" fill="none" opacity="0.6" />
-        <path d="M 135 66 Q 145 70 155 65" stroke="#5D3A1F" strokeWidth="1" fill="none" opacity="0.6" />
-      </g>
-
-      {/* Mushrooms on log */}
-      <g id="fungi">
-        <circle cx="85" cy="50" r="5" fill="#DC7A1C" />
-        <ellipse cx="85" cy="56" rx="9" ry="5" fill="#CD6A0C" />
-        <circle cx="120" cy="48" r="6" fill="#DC7A1C" />
-        <ellipse cx="120" cy="55" rx="10" ry="5" fill="#CD6A0C" />
-        <circle cx="155" cy="50" r="5" fill="#DC7A1C" />
-        <ellipse cx="155" cy="56" rx="9" ry="5" fill="#CD6A0C" />
-      </g>
-
-      {/* Earthworm */}
-      <path d="M 100 90 Q 110 95 120 90 Q 130 85 140 90" stroke="#8B6F47" strokeWidth="6" fill="none" strokeLinecap="round" />
-      <circle cx="100" cy="90" r="3" fill="#5D3A1F" />
-
-      {/* Soil below */}
-      <rect x="0" y="110" width="240" height="50" fill="#8B6F47" />
-
-      {/* Nutrients returning to soil (arrows) */}
-      <path d="M 110 85 L 110 105" stroke="rgba(100,200,100,0.7)" strokeWidth="2" markerEnd="url(#arrowgreen)" />
-      <path d="M 130 85 L 130 105" stroke="rgba(100,200,100,0.7)" strokeWidth="2" markerEnd="url(#arrowgreen)" />
-
-      {/* New plant growing from soil */}
-      <g id="newPlant">
-        <line x1="60" y1="110" x2="60" y2="80" stroke="#4A8B4A" strokeWidth="4" />
-        <ellipse cx="50" cy="75" rx="8" ry="12" fill="#5BA85B" transform="rotate(-30 50 75)" />
-        <ellipse cx="70" cy="75" rx="8" ry="12" fill="#5BA85B" transform="rotate(30 70 75)" />
-      </g>
-
-      {/* Cycle arrows */}
-      <path d="M 70 70 Q 40 40 60 30" stroke="rgba(200,200,200,0.4)" strokeWidth="1.5" fill="none" strokeDasharray="2,2" />
-      <path d="M 180 90 Q 210 90 200 60" stroke="rgba(200,200,200,0.4)" strokeWidth="1.5" fill="none" strokeDasharray="2,2" />
-
-      <defs>
-        <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="rgba(100,200,100,0.7)" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Forest ecosystem functions */
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="ecosystemSky" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" />
-          <stop offset="100%" stopColor="#E0F6FF" />
-        </linearGradient>
-      </defs>
-
-      {/* Background */}
-      <rect width="240" height="160" fill="url(#ecosystemSky)" />
-
-      {/* Sun */}
-      <circle cx="210" cy="15" r="10" fill="#FFD700" />
-
-      {/* Rain clouds */}
-      <path d="M 30 25 Q 25 15 35 10 Q 45 8 50 15 Q 60 10 65 20" fill="#C0C0C0" opacity="0.7" />
-
-      {/* Raindrops */}
-      <line x1="35" y1="25" x2="33" y2="35" stroke="#87CEEB" strokeWidth="1.5" opacity="0.6" />
-      <line x1="50" y1="28" x2="48" y2="38" stroke="#87CEEB" strokeWidth="1.5" opacity="0.6" />
-      <line x1="55" y1="25" x2="53" y2="35" stroke="#87CEEB" strokeWidth="1.5" opacity="0.6" />
-
-      {/* Forest trees */}
-      <g id="trees">
-        <polygon points="50,90 30,130 70,130" fill="#2D5016" />
-        <rect x="45" y="130" width="10" height="15" fill="#8B6F47" />
-
-        <polygon points="130,85 110,130 150,130" fill="#3D7C1C" />
-        <rect x="125" y="130" width="10" height="15" fill="#8B6F47" />
-
-        <polygon points="200,95 180,135 220,135" fill="#2D5016" />
-        <rect x="195" y="135" width="10" height="10" fill="#8B6F47" />
-      </g>
-
-      {/* O2 arrows going up (green oxygen) */}
-      <path d="M 60 80 L 60 40" stroke="#00FF00" strokeWidth="2" opacity="0.7" markerEnd="url(#arrowO2)" />
-      <path d="M 140 75 L 140 35" stroke="#00FF00" strokeWidth="2" opacity="0.7" markerEnd="url(#arrowO2)" />
-
-      {/* O2 labels */}
-      <text x="75" y="55" fontSize="9" fontWeight="bold" fill="#00FF00" opacity="0.8">O₂</text>
-      <text x="155" y="50" fontSize="9" fontWeight="bold" fill="#00FF00" opacity="0.8">O₂</text>
-
-      {/* CO2 arrows going down (red) */}
-      <path d="M 100 35 L 100 75" stroke="#FF6B6B" strokeWidth="2" opacity="0.7" markerEnd="url(#arrowCO2)" />
-      <path d="M 180 40 L 180 85" stroke="#FF6B6B" strokeWidth="2" opacity="0.7" markerEnd="url(#arrowCO2)" />
-
-      {/* CO2 labels */}
-      <text x="105" y="45" fontSize="9" fontWeight="bold" fill="#FF6B6B" opacity="0.8">CO₂</text>
-      <text x="185" y="50" fontSize="9" fontWeight="bold" fill="#FF6B6B" opacity="0.8">CO₂</text>
-
-      {/* Water cycle - cloud to roots */}
-      <path d="M 45 30 Q 70 60 60 130" stroke="#4DB8FF" strokeWidth="1.5" fill="none" strokeDasharray="2,2" opacity="0.6" />
-
-      <defs>
-        <marker id="arrowO2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#00FF00" opacity="0.7" />
-        </marker>
-        <marker id="arrowCO2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-          <polygon points="0 0, 10 3, 0 6" fill="#FF6B6B" opacity="0.7" />
-        </marker>
-      </defs>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const FOREST_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-      svg: () => SVG_R1(),
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      svg: (lang: string) => SVG_R2(lang),
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      svg: () => SVG_R3(),
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_nutrients", "r3_disappear", "r3_pollute", "r3_escape"],
-          answer: "r3_nutrients",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      svg: () => SVG_R4(),
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_co2", "r4_o2", "r4_n2", "r4_ch4"],
-          answer: "r4_co2",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <div />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_canopy", "q1_understory", "q1_herbLayer", "q1_floor"],
-          answer: "q1_canopy",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_decomposers", "q2_herbivores", "q2_producers", "q2_carnivores"],
-          answer: "q2_decomposers",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_co2", "q3_oxygen", "q3_nitrogen", "q3_water"],
-          answer: "q3_co2",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🌲",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPORT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function ForestExplorer({ color = "#2D5016", lang = "en", onDone }: { color?: string; lang?: string; onDone?: (score: number, total: number) => void }) {
-  return <ExplorerEngine def={FOREST_EXPLORER_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+const ForestExplorer = memo(function ForestExplorer({
+  color = "#15803D", // Erdőzöld (Green-700)
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_forest" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default ForestExplorer;
