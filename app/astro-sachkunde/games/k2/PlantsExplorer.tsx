@@ -345,7 +345,7 @@ const TOPICS: TopicDef[] = [
     interactive: {
       type: "label-diagram",
       areas: [
-        { id: "flower", x: 50, y: 15, label: "t1_area_flower" },
+        { id: "flower", x: 50, y: 25, label: "t1_area_flower" },
         { id: "leaf",   x: 35, y: 45, label: "t1_area_leaf" },
         { id: "stem",   x: 50, y: 60, label: "t1_area_stem" },
         { id: "root",   x: 50, y: 85, label: "t1_area_root" },
