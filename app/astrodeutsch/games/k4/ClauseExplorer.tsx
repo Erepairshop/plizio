@@ -13,14 +13,9 @@ const Topic1Svg = memo(function Topic1Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#EEF2FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-60" y="-10" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">.</text>
-        <text x="-60" y="25" fontSize="10" fill="#4338CA" textAnchor="middle">Aussage</text>
-        
-        <text x="0" y="-10" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">?</text>
-        <text x="0" y="25" fontSize="10" fill="#4338CA" textAnchor="middle">Frage</text>
-        
-        <text x="60" y="-10" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">!</text>
-        <text x="60" y="25" fontSize="10" fill="#4338CA" textAnchor="middle">Aufforderung</text>
+        <text x="-60" y="0" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">.</text>
+        <text x="0" y="0" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">?</text>
+        <text x="60" y="0" fontSize="24" fontWeight="bold" fill="#312E81" textAnchor="middle">!</text>
       </g>
     </svg>
   );
@@ -32,13 +27,8 @@ const Topic2Svg = memo(function Topic2Svg() {
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-90" y="-15" width="80" height="30" rx="4" fill="#86EFAC" />
-        <text x="-50" y="5" fontSize="12" fontWeight="bold" fill="#14532D" textAnchor="middle">Hauptsatz</text>
-        
         <circle cx="-5" cy="0" r="4" fill="#16A34A" />
-        <text x="-5" y="15" fontSize="14" fontWeight="bold" fill="#166534" textAnchor="middle">,</text>
-        
         <rect x="5" y="-15" width="80" height="30" rx="4" fill="#BBF7D0" stroke="#22C55E" strokeDasharray="2 2" />
-        <text x="45" y="5" fontSize="12" fontWeight="bold" fill="#14532D" textAnchor="middle">Nebensatz</text>
       </g>
     </svg>
   );
@@ -49,11 +39,10 @@ const Topic3Svg = memo(function Topic3Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FFF7ED" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-50" y="-5" fontSize="16" fontWeight="bold" fill="#C2410C" textAnchor="middle">weil</text>
-        <text x="0" y="-5" fontSize="16" fontWeight="bold" fill="#C2410C" textAnchor="middle">dass</text>
-        <text x="50" y="-5" fontSize="16" fontWeight="bold" fill="#C2410C" textAnchor="middle">wenn</text>
+        <circle cx="-50" cy="-5" r="3" fill="#C2410C" />
+        <circle cx="0" cy="-5" r="3" fill="#C2410C" />
+        <circle cx="50" cy="-5" r="3" fill="#C2410C" />
         <path d="M -70,10 L 70,10" stroke="#FB923C" strokeWidth="2" strokeDasharray="4 2" />
-        <text x="0" y="30" fontSize="12" fill="#9A3412" textAnchor="middle">Einleitewörter (Konjunktionen)</text>
       </g>
     </svg>
   );
@@ -64,15 +53,9 @@ const Topic4Svg = memo(function Topic4Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FEF2F2" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-60" y="0" fontSize="14" fill="#B91C1C" textAnchor="middle">..., weil er</text>
         <rect x="-20" y="-15" width="50" height="20" fill="#FECACA" rx="4" />
-        <text x="5" y="0" fontSize="14" fill="#B91C1C" textAnchor="middle">heute</text>
-        
         <rect x="40" y="-15" width="50" height="20" fill="#F87171" rx="4" />
-        <text x="65" y="0" fontSize="14" fontWeight="bold" fill="white" textAnchor="middle">kommt.</text>
-        
         <path d="M 0,20 L 65,20 L 65,10" fill="none" stroke="#DC2626" strokeWidth="2" markerEnd="url(#arrow)" />
-        <text x="32" y="35" fontSize="10" fill="#991B1B" textAnchor="middle">Verb ans Ende!</text>
       </g>
     </svg>
   );
@@ -89,8 +72,7 @@ const Topic5Svg = memo(function Topic5Svg() {
       </defs>
       <rect width="240" height="140" fill="url(#k4Grad6_5)" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-10" fontSize="30" textAnchor="middle">🔗</text>
-        <text x="0" y="25" fontSize="16" fontWeight="bold" fill="#1D4ED8" textAnchor="middle">Satz-Puzzle</text>
+        <text x="0" y="0" fontSize="30" textAnchor="middle">🔗</text>
       </g>
     </svg>
   );

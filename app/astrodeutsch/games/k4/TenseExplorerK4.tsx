@@ -34,12 +34,9 @@ const Topic2Svg = memo(function Topic2Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-40" y="-10" fontSize="18" fontWeight="bold" fill="#15803D" textAnchor="middle">spiel</text>
         <text x="0" y="-10" fontSize="18" fontWeight="bold" fill="#166534" textAnchor="middle">+</text>
         <rect x="20" y="-25" width="40" height="25" rx="4" fill="#BBF7D0" />
-        <text x="40" y="-8" fontSize="16" fontWeight="bold" fill="#166534" textAnchor="middle">te</text>
         <path d="M -30,10 L 30,10" stroke="#22C55E" strokeWidth="2" strokeDasharray="4 2" />
-        <text x="0" y="30" fontSize="16" fontWeight="black" fill="#14532D" textAnchor="middle">spielte</text>
       </g>
     </svg>
   );
@@ -50,10 +47,7 @@ const Topic3Svg = memo(function Topic3Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FFF1F2" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-40" y="0" fontSize="20" fontWeight="bold" fill="#BE123C" textAnchor="middle">gehen</text>
         <path d="M -10,-5 L 10,-5" stroke="#F43F5E" strokeWidth="2" markerEnd="url(#arrow)" />
-        <text x="40" y="0" fontSize="20" fontWeight="bold" fill="#E11D48" textAnchor="middle">ging</text>
-        <text x="0" y="35" fontSize="12" fill="#9F1239" textAnchor="middle">Vokalwechsel! (Unregelmäßig)</text>
       </g>
     </svg>
   );
@@ -65,13 +59,13 @@ const Topic4Svg = memo(function Topic4Svg() {
       <rect width="240" height="140" fill="#F0F9FF" rx="20" />
       <g transform="translate(120, 70)">
         <text x="-40" y="-10" fontSize="30" textAnchor="middle">🪑</text>
-        <text x="-40" y="25" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">haben</text>
+        <circle cx="-40" cy="25" r="6" fill="#0369A1" />
         <text x="-40" y="40" fontSize="10" fill="#0284C7" textAnchor="middle">(gesessen)</text>
 
         <path d="M -10,0 L 10,0" stroke="#38BDF8" strokeWidth="2" strokeDasharray="2 2" />
 
         <text x="40" y="-10" fontSize="30" textAnchor="middle">🏃‍♂️</text>
-        <text x="40" y="25" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">sein</text>
+        <circle cx="40" cy="25" r="6" fill="#0369A1" />
         <text x="40" y="40" fontSize="10" fill="#0284C7" textAnchor="middle">(gerannt)</text>
       </g>
     </svg>
@@ -89,8 +83,7 @@ const Topic5Svg = memo(function Topic5Svg() {
       </defs>
       <rect width="240" height="140" fill="url(#k4Grad3_5)" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-10" fontSize="30" textAnchor="middle">⏳</text>
-        <text x="0" y="25" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">Zeitformen-Quiz</text>
+        <text x="0" y="0" fontSize="30" textAnchor="middle">⏳</text>
       </g>
     </svg>
   );

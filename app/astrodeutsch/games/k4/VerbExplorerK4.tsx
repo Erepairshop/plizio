@@ -14,12 +14,12 @@ const Topic1Svg = memo(function Topic1Svg() {
       <rect width="240" height="140" fill="#FFF1F2" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-80" y="-20" width="50" height="30" rx="4" fill="#FECACA" />
-        <text x="-55" y="0" fontSize="14" fontWeight="bold" fill="#B91C1C" textAnchor="middle">auf</text>
+        <circle cx="-55" cy="0" r="6" fill="#B91C1C" />
         <text x="-15" y="0" fontSize="18" fontWeight="bold" fill="#E11D48" textAnchor="middle">+</text>
         <rect x="0" y="-20" width="80" height="30" rx="4" fill="#FCA5A5" />
-        <text x="40" y="0" fontSize="14" fontWeight="bold" fill="#991B1B" textAnchor="middle">stehen</text>
+        <circle cx="40" cy="0" r="6" fill="#991B1B" />
         <path d="M -55,15 Q 0,40 40,15" fill="none" stroke="#E11D48" strokeWidth="2" strokeDasharray="4 2" markerEnd="url(#arrow)" />
-        <text x="0" y="45" fontSize="12" fill="#9F1239" textAnchor="middle">Ich stehe ... auf.</text>
+        <path d="M 0,38 L 0,52" stroke="#9F1239" strokeWidth="2" />
       </g>
     </svg>
   );
@@ -31,8 +31,8 @@ const Topic2Svg = memo(function Topic2Svg() {
       <rect width="240" height="140" fill="#F0F9FF" rx="20" />
       <g transform="translate(120, 70)">
         <text x="0" y="-20" fontSize="30" textAnchor="middle">🚀</text>
-        <text x="0" y="15" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Zukunft (Futur)</text>
-        <text x="0" y="35" fontSize="12" fill="#0284C7" textAnchor="middle">werden + Infinitiv</text>
+        <circle cx="0" cy="15" r="5" fill="#0369A1" />
+        <path d="M 0,33 L 0,37" stroke="#0284C7" strokeWidth="2" />
       </g>
     </svg>
   );
@@ -46,8 +46,6 @@ const Topic3Svg = memo(function Topic3Svg() {
         <text x="-50" y="-10" fontSize="24" textAnchor="middle">🏠</text>
         <path d="M -20,-15 L 20,-15" stroke="#22C55E" strokeWidth="2" markerEnd="url(#arrow)" />
         <text x="50" y="-10" fontSize="24" textAnchor="middle">🏗️</text>
-        <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#15803D" textAnchor="middle">Das Haus WIRD GEBAUT.</text>
-        <text x="0" y="45" fontSize="10" fill="#166534" textAnchor="middle">(Wer es baut, ist unwichtig)</text>
       </g>
     </svg>
   );
@@ -80,7 +78,6 @@ const Topic5Svg = memo(function Topic5Svg() {
       <g transform="translate(120, 70)">
         <text x="-40" y="0" fontSize="30" textAnchor="middle">⏳</text>
         <text x="40" y="0" fontSize="30" textAnchor="middle">🛠️</text>
-        <text x="0" y="35" fontSize="16" fontWeight="bold" fill="#5B21B6" textAnchor="middle">Verben-Quiz</text>
       </g>
     </svg>
   );

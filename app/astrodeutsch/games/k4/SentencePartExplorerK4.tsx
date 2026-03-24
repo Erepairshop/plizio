@@ -50,13 +50,8 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="#F0FDFA" rx="20" />
       <g transform="translate(120, 70)">
         <text x="-60" y="0" fontSize="24" textAnchor="middle">⏰</text>
-        <text x="-60" y="25" fontSize="12" fontWeight="bold" fill="#0F766E" textAnchor="middle">wann?</text>
-        
         <text x="0" y="0" fontSize="24" textAnchor="middle">🌍</text>
-        <text x="0" y="25" fontSize="12" fontWeight="bold" fill="#0F766E" textAnchor="middle">wo?</text>
-        
         <text x="60" y="0" fontSize="24" textAnchor="middle">⚡</text>
-        <text x="60" y="25" fontSize="12" fontWeight="bold" fill="#0F766E" textAnchor="middle">wie?</text>
       </g>
     </svg>
   );

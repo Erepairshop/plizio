@@ -30,9 +30,7 @@ const Topic2Svg = memo(function Topic2Svg() {
         <text x="-30" y="-10" fontSize="24" textAnchor="middle">🚗</text>
         <path d="M -10,-15 L 10,-15" stroke="#F87171" strokeWidth="2" strokeDasharray="2 2" />
         <text x="30" y="-10" fontSize="24" textAnchor="middle">👨</text>
-        <text x="0" y="20" fontSize="16" fontWeight="bold" fill="#B91C1C" textAnchor="middle">Der Genitiv</text>
-        <rect x="-60" y="30" width="120" height="20" rx="4" fill="#FECACA" />
-        <text x="0" y="44" fontSize="12" fontWeight="bold" fill="#991B1B" textAnchor="middle">Wessen?</text>
+        <circle cx="0" cy="40" r="3" fill="#991B1B" />
       </g>
     </svg>
   );
@@ -44,12 +42,10 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-80" y="-25" width="70" height="30" rx="4" fill="#BBF7D0" />
-        <text x="-45" y="-5" fontSize="14" fontWeight="bold" fill="#15803D" textAnchor="middle">mit</text>
-        <text x="-45" y="20" fontSize="12" fill="#166534" textAnchor="middle">+ Dativ</text>
+        <circle cx="-45" cy="20" r="3" fill="#166534" />
 
         <rect x="10" y="-25" width="70" height="30" rx="4" fill="#BBF7D0" />
-        <text x="45" y="-5" fontSize="14" fontWeight="bold" fill="#15803D" textAnchor="middle">wegen</text>
-        <text x="45" y="20" fontSize="12" fill="#166534" textAnchor="middle">+ Genitiv</text>
+        <circle cx="45" cy="20" r="3" fill="#166534" />
       </g>
     </svg>
   );
@@ -60,12 +56,11 @@ const Topic4Svg = memo(function Topic4Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FFFBEB" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-50" y="-20" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">Dativ (m/n)</text>
-        <text x="-50" y="10" fontSize="20" fontWeight="black" fill="#D97706" textAnchor="middle">de<tspan fill="#DC2626">m</tspan></text>
-        
-        <text x="50" y="-20" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">Genitiv (m/n)</text>
-        <text x="50" y="10" fontSize="20" fontWeight="black" fill="#D97706" textAnchor="middle">de<tspan fill="#DC2626">s</tspan></text>
-        <text x="50" y="30" fontSize="10" fill="#B45309" textAnchor="middle">+ s am Nomen!</text>
+        <circle cx="-50" cy="-20" r="4" fill="#D97706" />
+        <circle cx="-50" cy="10" r="4" fill="#DC2626" />
+
+        <circle cx="50" cy="-20" r="4" fill="#D97706" />
+        <circle cx="50" cy="10" r="4" fill="#DC2626" />
       </g>
     </svg>
   );
@@ -83,7 +78,6 @@ const Topic5Svg = memo(function Topic5Svg() {
       <rect width="240" height="140" fill="url(#k4Grad2_5)" rx="20" />
       <g transform="translate(120, 70)">
         <text x="0" y="-10" fontSize="30" textAnchor="middle">🧩</text>
-        <text x="0" y="25" fontSize="16" fontWeight="bold" fill="#1D4ED8" textAnchor="middle">Dativ oder Genitiv?</text>
       </g>
     </svg>
   );

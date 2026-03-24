@@ -13,9 +13,7 @@ const Topic1Svg = memo(function Topic1Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F0F9FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-15" fontSize="24" textAnchor="middle">🕵️‍♂️</text>
-        <text x="0" y="15" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Kasus-Check</text>
-        <text x="0" y="35" fontSize="10" fill="#0284C7" textAnchor="middle">Nom, Gen, Dat, Akk</text>
+        <text x="0" y="0" fontSize="24" textAnchor="middle">🕵️‍♂️</text>
       </g>
     </svg>
   );
@@ -60,10 +58,9 @@ const Topic4Svg = memo(function Topic4Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FFF7ED" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-40" y="0" fontSize="20" fontWeight="bold" fill="#C2410C" textAnchor="middle">dass</text>
+        <circle cx="-40" cy="0" r="8" fill="#C2410C" />
         <text x="0" y="0" fontSize="20" fontWeight="bold" fill="#EA580C" textAnchor="middle">|</text>
-        <text x="40" y="0" fontSize="20" fontWeight="bold" fill="#C2410C" textAnchor="middle">ß / ss</text>
-        <text x="0" y="35" fontSize="14" fontWeight="bold" fill="#9A3412" textAnchor="middle">Rechtschreibung</text>
+        <circle cx="40" cy="0" r="8" fill="#C2410C" />
       </g>
     </svg>
   );
@@ -80,8 +77,7 @@ const Topic5Svg = memo(function Topic5Svg() {
       </defs>
       <rect width="240" height="140" fill="url(#k4Grad9_5)" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-10" fontSize="45" textAnchor="middle">👑</text>
-        <text x="0" y="30" fontSize="18" fontWeight="black" fill="#B45309" textAnchor="middle">Klasse 4 gemeistert!</text>
+        <text x="0" y="0" fontSize="45" textAnchor="middle">👑</text>
       </g>
     </svg>
   );

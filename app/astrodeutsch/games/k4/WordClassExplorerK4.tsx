@@ -36,13 +36,13 @@ const Topic2Svg = memo(function Topic2Svg() {
       <g transform="translate(120, 70)">
         <text x="-40" y="-5" fontSize="30" textAnchor="middle">👦</text>
         <text x="-40" y="25" fontSize="14" fontWeight="bold" fill="#9A3412" textAnchor="middle">Peter</text>
-        
+
         <path d="M -15,5 L 15,5" stroke="#F97316" strokeWidth="2" strokeDasharray="4 2" markerEnd="url(#arrow)" />
-        
+
         <rect x="25" y="-15" width="40" height="30" rx="4" fill="#FED7AA" />
-        <text x="45" y="5" fontSize="16" fontWeight="bold" fill="#C2410C" textAnchor="middle">er</text>
-        
-        <text x="0" y="45" fontSize="10" fill="#9A3412" textAnchor="middle">Pronomen ersetzen Nomen!</text>
+        <circle cx="45" cy="5" r="5" fill="#C2410C" />
+
+        <path d="M 0,38 L 0,52" stroke="#9A3412" strokeWidth="2" />
       </g>
     </svg>
   );
@@ -54,13 +54,8 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-80" y="10" width="30" height="20" fill="#86EFAC" rx="2" />
-        <text x="-65" y="45" fontSize="10" fontWeight="bold" fill="#15803D" textAnchor="middle">groß</text>
-        
         <rect x="-20" y="-10" width="30" height="40" fill="#4ADE80" rx="2" />
-        <text x="-5" y="45" fontSize="10" fontWeight="bold" fill="#15803D" textAnchor="middle">größer</text>
-        
         <rect x="40" y="-30" width="30" height="60" fill="#22C55E" rx="2" />
-        <text x="55" y="45" fontSize="10" fontWeight="bold" fill="#15803D" textAnchor="middle">am größten</text>
       </g>
     </svg>
   );
@@ -71,13 +66,8 @@ const Topic4Svg = memo(function Topic4Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#EEF2FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-60" y="-5" fontSize="14" fontWeight="bold" fill="#4338CA" textAnchor="middle">das Haus</text>
         <text x="0" y="-5" fontSize="14" fontWeight="bold" fill="#312E81" textAnchor="middle">+</text>
-        <text x="60" y="-5" fontSize="14" fontWeight="bold" fill="#4338CA" textAnchor="middle">die Tür</text>
-        
         <path d="M 60,10 L 60,25 L 10,25" fill="none" stroke="#4338CA" strokeWidth="2" markerEnd="url(#arrow)" />
-        
-        <text x="0" y="40" fontSize="16" fontWeight="black" fill="#312E81" textAnchor="middle">DIE Haustür</text>
       </g>
     </svg>
   );
@@ -96,7 +86,6 @@ const Topic5Svg = memo(function Topic5Svg() {
       <g transform="translate(120, 70)">
         <text x="-40" y="0" fontSize="30" textAnchor="middle">🧩</text>
         <text x="30" y="0" fontSize="30" textAnchor="middle">🧠</text>
-        <text x="0" y="35" fontSize="16" fontWeight="bold" fill="#9D174D" textAnchor="middle">Wortarten-Mix</text>
       </g>
     </svg>
   );

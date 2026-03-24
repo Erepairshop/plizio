@@ -13,15 +13,14 @@ const Topic1Svg = memo(function Topic1Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F0F9FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-30" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">Die 4 Fälle</text>
         <rect x="-80" y="-10" width="70" height="25" rx="4" fill="#BAE6FD" />
-        <text x="-45" y="7" fontSize="10" fontWeight="bold" fill="#0284C7" textAnchor="middle">1. Nominativ</text>
+        <circle cx="-45" cy="7" r="4" fill="#0284C7" />
         <rect x="10" y="-10" width="70" height="25" rx="4" fill="#BAE6FD" />
-        <text x="45" y="7" fontSize="10" fontWeight="bold" fill="#0284C7" textAnchor="middle">2. Genitiv</text>
+        <circle cx="45" cy="7" r="4" fill="#0284C7" />
         <rect x="-80" y="25" width="70" height="25" rx="4" fill="#BAE6FD" />
-        <text x="-45" y="42" fontSize="10" fontWeight="bold" fill="#0284C7" textAnchor="middle">3. Dativ</text>
+        <circle cx="-45" cy="42" r="4" fill="#0284C7" />
         <rect x="10" y="25" width="70" height="25" rx="4" fill="#BAE6FD" />
-        <text x="45" y="42" fontSize="10" fontWeight="bold" fill="#0284C7" textAnchor="middle">4. Akkusativ</text>
+        <circle cx="45" cy="42" r="4" fill="#0284C7" />
       </g>
     </svg>
   );
@@ -33,9 +32,7 @@ const Topic2Svg = memo(function Topic2Svg() {
       <rect width="240" height="140" fill="#FDF2F8" rx="20" />
       <g transform="translate(120, 70)">
         <text x="0" y="-20" fontSize="24" textAnchor="middle">👤</text>
-        <text x="0" y="10" fontSize="16" fontWeight="bold" fill="#9D174D" textAnchor="middle">Nominativ</text>
-        <rect x="-60" y="20" width="120" height="20" rx="4" fill="#FBCFE8" />
-        <text x="0" y="34" fontSize="12" fontWeight="bold" fill="#BE185D" textAnchor="middle">Wer oder was?</text>
+        <circle cx="0" cy="25" r="3" fill="#BE185D" />
       </g>
     </svg>
   );
@@ -47,9 +44,7 @@ const Topic3Svg = memo(function Topic3Svg() {
       <rect width="240" height="140" fill="#F0FDFA" rx="20" />
       <g transform="translate(120, 70)">
         <text x="0" y="-20" fontSize="24" textAnchor="middle">🎁</text>
-        <text x="0" y="10" fontSize="16" fontWeight="bold" fill="#0F766E" textAnchor="middle">Akkusativ</text>
-        <rect x="-60" y="20" width="120" height="20" rx="4" fill="#99F6E4" />
-        <text x="0" y="34" fontSize="12" fontWeight="bold" fill="#0D9488" textAnchor="middle">Wen oder was?</text>
+        <circle cx="0" cy="25" r="3" fill="#0D9488" />
       </g>
     </svg>
   );
@@ -61,11 +56,8 @@ const Topic4Svg = memo(function Topic4Svg() {
       <rect width="240" height="140" fill="#FFF7ED" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-80" y="-15" width="60" height="30" rx="4" fill="#FED7AA" />
-        <text x="-50" y="5" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">der</text>
-        <path d="M -10,0 L 10,0" stroke="#F97316" strokeWidth="2" markerEnd="url(#arrow)" />
         <rect x="20" y="-15" width="60" height="30" rx="4" fill="#F97316" />
-        <text x="50" y="5" fontSize="14" fontWeight="bold" fill="white" textAnchor="middle">den</text>
-        <text x="0" y="40" fontSize="12" fill="#9A3412" textAnchor="middle">Nur männlich ändert sich!</text>
+        <path d="M -10,0 L 10,0" stroke="#F97316" strokeWidth="2" markerEnd="url(#arrow)" />
       </g>
     </svg>
   );

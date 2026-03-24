@@ -14,14 +14,7 @@ const Topic1Svg = memo(function Topic1Svg() {
       <rect width="240" height="140" fill="#F0F9FF" rx="20" />
       <g transform="translate(120, 70)">
         <rect x="-80" y="-20" width="60" height="30" rx="4" fill="#BAE6FD" />
-        <text x="-50" y="0" fontSize="16" fontWeight="bold" fill="#0284C7" textAnchor="middle">das</text>
-        <text x="-50" y="25" fontSize="10" fill="#0369A1" textAnchor="middle">Artikel</text>
-
         <rect x="20" y="-20" width="60" height="30" rx="4" fill="#7DD3FC" />
-        <text x="50" y="0" fontSize="16" fontWeight="bold" fill="#0284C7" textAnchor="middle">dass</text>
-        <text x="50" y="25" fontSize="10" fill="#0369A1" textAnchor="middle">Bindewort</text>
-
-        <text x="0" y="45" fontSize="12" fontWeight="bold" fill="#0369A1" textAnchor="middle">dieses, jenes, welches?</text>
       </g>
     </svg>
   );
@@ -32,15 +25,9 @@ const Topic2Svg = memo(function Topic2Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FEF2F2" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-50" y="-10" fontSize="24" fontWeight="bold" fill="#B91C1C" textAnchor="middle">ss</text>
-        <text x="-50" y="15" fontSize="10" fill="#991B1B" textAnchor="middle">kurzer Vokal</text>
-        <text x="-50" y="30" fontSize="12" fontWeight="bold" fill="#7F1D1D" textAnchor="middle">(Fluss)</text>
-
+        <circle cx="-50" cy="-10" r="4" fill="#B91C1C" />
         <path d="M -15,0 L 15,0" stroke="#FCA5A5" strokeWidth="2" strokeDasharray="2 2" />
-
-        <text x="50" y="-10" fontSize="24" fontWeight="bold" fill="#B91C1C" textAnchor="middle">ß</text>
-        <text x="50" y="15" fontSize="10" fill="#991B1B" textAnchor="middle">langer Vokal</text>
-        <text x="50" y="30" fontSize="12" fontWeight="bold" fill="#7F1D1D" textAnchor="middle">(Fuß)</text>
+        <circle cx="50" cy="-10" r="4" fill="#B91C1C" />
       </g>
     </svg>
   );
@@ -51,9 +38,7 @@ const Topic3Svg = memo(function Topic3Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-20" fontSize="16" fontWeight="bold" fill="#15803D" textAnchor="middle">Dehnungs-h</text>
-        <text x="0" y="15" fontSize="30" fontWeight="black" fill="#166534" textAnchor="middle">U<tspan fill="#4ADE80">h</tspan>r</text>
-        <text x="0" y="40" fontSize="10" fill="#14532D" textAnchor="middle">Macht den Vokal lang!</text>
+        <circle cx="0" cy="0" r="5" fill="#166534" />
       </g>
     </svg>
   );
@@ -64,10 +49,7 @@ const Topic4Svg = memo(function Topic4Svg() {
     <svg width="100%" viewBox="0 0 240 140">
       <rect width="240" height="140" fill="#FFFBEB" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">Großschreibung</text>
         <rect x="-80" y="5" width="160" height="25" rx="4" fill="#FDE68A" />
-        <text x="0" y="22" fontSize="14" fontWeight="bold" fill="#92400E" textAnchor="middle">das Lesen, etwas Gutes</text>
-        <text x="0" y="45" fontSize="10" fill="#B45309" textAnchor="middle">Verben & Adjektive als Nomen!</text>
       </g>
     </svg>
   );
@@ -84,8 +66,7 @@ const Topic5Svg = memo(function Topic5Svg() {
       </defs>
       <rect width="240" height="140" fill="url(#k4Grad8_5)" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="0" y="-10" fontSize="30" textAnchor="middle">✍️</text>
-        <text x="0" y="25" fontSize="16" fontWeight="bold" fill="#BE185D" textAnchor="middle">Rechtschreib-Mix</text>
+        <text x="0" y="0" fontSize="30" textAnchor="middle">✍️</text>
       </g>
     </svg>
   );
