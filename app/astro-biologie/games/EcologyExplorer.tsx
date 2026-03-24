@@ -1,353 +1,408 @@
 "use client";
-// EcologyExplorer — Ecology & Symbiosis (Ökologie & Symbiose) Grade 7
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Population, ecological niche, competition, symbiosis, biogeochemical cycles
+// EcologyExplorer.tsx — Bio Island i5: Ökológia (K7)
+// Topics: 1) Populáció 2) Táplálékhálózat 3) Ökológiai fülke 4) Versengés 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { FoodWebSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#ECFCCB" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="0" fontSize="30" textAnchor="middle">🦊</text>
+        <text x="0" y="20" fontSize="30" textAnchor="middle">塑造</text> {/* Abstract group shape */}
+        <text x="40" y="0" fontSize="30" textAnchor="middle">🦊</text>
+        <text x="0" y="-20" fontSize="30" textAnchor="middle">塑造</text>
+        <circle cx="0" cy="0" r="55" fill="none" stroke="#65A30D" strokeWidth="2" strokeDasharray="5 5" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF9C3" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-50" y="-30" width="100" height="60" fill="none" stroke="#CA8A04" strokeWidth="2" />
+        <text x="0" y="10" fontSize="40" textAnchor="middle">🏘️</text>
+        <text x="0" y="-40" fontSize="20" textAnchor="middle">📍</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEE2E2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="10" fontSize="40" textAnchor="middle">🦅</text>
+        <text x="40" y="10" fontSize="40" textAnchor="middle">🦅</text>
+        <text x="0" y="10" fontSize="30" textAnchor="middle">🍖</text>
+        <path d="M -20,-10 L 20,-10" stroke="#EF4444" strokeWidth="3" markerEnd="url(#arrow)" />
+        <path d="M 20,-10 L -20,-10" stroke="#EF4444" strokeWidth="3" markerEnd="url(#arrow)" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌍</text>
+        <text x="25" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Ökológia Alapjai",
+    // T1: Populáció
+    t1_title: "A populáció fogalma",
+    t1_text: "Az ökológia az élőlények és környezetük kapcsolatát vizsgálja. A legalapvetőbb egység a populáció: az egy fajba tartozó, egy időben és egy helyen élő egyedek összessége.",
+    t1_b1: "Azonos faj: az egyedek képesek egymással szaporodni.",
+    t1_b2: "Tér és idő: csak akkor alkotnak populációt, ha ténylegesen találkozhatnak.",
+    t1_b3: "Példa: egy erdőben élő összes erdei egér egy populációt alkot.",
+    t1_inst: "Egészítsd ki a populáció meghatározását!",
+    t1_gap_sentence: "A populáció az {gap} fajba tartozó, egy helyen élő egyedek csoportja.",
+    t1_c1: "azonos", t1_c2: "különböző", t1_c3: "kihalt",
+    t1_q: "Mikor beszélhetünk egy populációról?",
+    t1_q_a: "Ha azonos faj egyedei élnek egy helyen, egy időben", t1_q_b: "Ha sok különböző állat él az állatkertben", t1_q_c: "Ha egy állat egyedül él a szigeten", t1_q_d: "Ha csak növények vannak egy réten",
+
+    // T2: Táplálékhálózat
+    t2_title: "Összetett táplálékhálózatok",
+    t2_text: "A természetben a táplálékláncok nem különülnek el, hanem bonyolult hálózatot alkotnak. Egy élőlény több mást is ehet, és őt is több ragadozó vadászhatja.",
+    t2_b1: "Termelők: növények, a hálózat alapjai.",
+    t2_b2: "Fogyasztók: növényevők, húsevők és mindenevők.",
+    t2_b3: "Energiaáramlás: a napfény energiája vándorol élőlényről élőlényre.",
+    t2_inst: "Termelő vagy Fogyasztó? Válogasd szét őket!",
+    t2_bucket_ter: "Termelők",
+    t2_bucket_fog: "Fogyasztók",
+    t2_item_t1: "Fű", t2_item_t2: "Tölgyfa",
+    t2_item_f1: "Róka", t2_item_f2: "Szarvas",
+    t2_q: "Kik alkotják a táplálékhálózat legalsó szintjét?",
+    t2_q_a: "A termelők (zöld növények)", t2_q_b: "A csúcsragadozók", t2_q_c: "A lebontók", t2_q_d: "A vírusok",
+
+    // T3: Ökológiai fülke
+    t3_title: "Az ökológiai fülke (niche)",
+    t3_text: "Az ökológiai fülke nem egy fizikai hely, hanem az élőlény 'szerepköre' az ökoszisztémában: mit eszik, mikor aktív, hol fészkel.",
+    t3_b1: "A 'lakhely' a környezet, a 'fülke' a foglalkozás.",
+    t3_b2: "Két faj nem töltheti be ugyanazt a fülkét tartósan egy helyen.",
+    t3_b3: "Példa: a bagoly és az egerészölyv ugyanazt eszi, de az egyik éjjel, a másik nappal vadászik.",
+    t3_inst: "Párosítsd a fogalmakat!",
+    t3_l1: "Élőhely", t3_r1: "Ahol az élőlény él (a címe)",
+    t3_l2: "Ökológiai fülke", t3_r2: "Az élőlény szerepe (a munkája)",
+    t3_l3: "Niche-szegregáció", t3_r3: "Eltérő vadászati időpontok",
+    t3_q: "Hogyan tud egy erdőben megélni a bagoly és az ölyv, ha mindkettő egérre vadászik?",
+    t3_q_a: "Eltérő az ökológiai fülkéjük (időbeli elkülönülés)", t3_q_b: "Összebarátkoznak", t3_q_c: "Ugyanazon a fán fészkelnek", t3_q_d: "Nem élnek meg egy helyen",
+
+    // T4: Versengés
+    t4_title: "Versengés a forrásokért",
+    t4_text: "Ha a környezeti erőforrások (táplálék, fény, fészkelőhely) korlátozottak, az élőlények között versengés (konkurrencia) alakul ki.",
+    t4_b1: "Fajon belüli: pl. hímek küzdelme a nőstényekért.",
+    t4_b2: "Fajok közötti: pl. két növény küzdelme a fényért.",
+    t4_b3: "A gyengébb fél gyakran kiszorul a területről.",
+    t4_inst: "Miért versenghetnek az élőlények? Válaszd ki a helyes okokat!",
+    t4_bucket_ver: "Versengés oka",
+    t4_bucket_nem: "Nem okoz versengést",
+    t4_item_v1: "Kevés táplálék", t4_item_v2: "Fészkelőhely",
+    t4_item_n1: "Végtelen oxigén", t4_item_n2: "Barátság",
+    t4_q: "Mi történik a versengés során a gyengébbik populációval?",
+    t4_q_a: "Létszáma csökken vagy kiszorul", t4_q_b: "Hirtelen növekedésnek indul", t4_q_c: "Átváltozik a másik fajjá", t4_q_d: "Semmi nem változik",
+
+    // T5: Review
+    t5_title: "Ökológiai összefoglaló",
+    t5_text: "Minden élőlény része a nagy egésznek. A populációk hálózatokat alkotnak, versengenek és alkalmazkodnak.",
+    t5_b1: "Populáció = azonos faj, közös terület.",
+    t5_b2: "Hálózat = ki kit eszik.",
+    t5_b3: "Versengés = küzdelem a szűkös javakért.",
+    t5_inst: "Hogy hívjuk a táplálékláncok összességét?",
+    t5_gap_sentence2: "A természetben az élőlények bonyolult {gap} alkotnak.",
+    t5_c51: "táplálékhálózatot", t5_c52: "várost", t5_c53: "iskolát",
+    t5_q: "Melyik állítás IGAZ az ökológiára?",
+    t5_q_a: "Minden populáció függ a környezetétől.", t5_q_b: "A ragadozóknak nincs szükségük táplálékra.", t5_q_c: "Az élőlények csak magányosan élnek.", t5_q_d: "A Nap nem fontos az ökoszisztémának.",
+  },
   en: {
-    // Round 1: Population
-    r1_title: "Population: Living Together",
-    r1_text: "A population is all the members of one species living in the same area. Populations have birth rates, death rates, and can grow or shrink.",
-    r1_fact1: "Population size depends on available resources (food, water, shelter, space)",
-    r1_fact2: "Birth rate is how many new individuals are born in a population",
-    r1_fact3: "Death rate is how many individuals die in a population",
-    r1_fact4: "When births > deaths, population grows; when deaths > births, population shrinks",
+    explorer_title: "Basics of Ecology",
+    t1_title: "The Population", t1_text: "Ecology studies the relationship between organisms and their environment. A population is a group of individuals of the same species living in the same area at the same time.",
+    t1_b1: "Same species: individuals can interbreed.", t1_b2: "Space and time: they must be able to interact.", t1_b3: "Example: all field mice in a specific forest.",
+    t1_inst: "Complete the definition of population!", t1_gap_sentence: "A population is a group of individuals of the {gap} species.",
+    t1_c1: "same", t1_c2: "different", t1_c3: "extinct",
+    t1_q: "What defines a population?", t1_q_a: "Same species, same place, same time", t1_q_b: "Different animals in a zoo", t1_q_c: "One animal alone on an island", t1_q_d: "Only plants in a meadow",
 
-    // Round 2: Competition & Niche
-    r2_title: "Competition & Ecological Niche",
-    r2_text: "Organisms compete for the same resources. An ecological niche is the specific role and place of an organism in its habitat.",
-    r2_fact1: "Competition for food, water, light, and space shapes populations",
-    r2_fact2: "Organisms with better traits are more likely to win competition (survival of the fittest)",
-    r2_fact3: "A niche includes what the organism eats, where it lives, and how it behaves",
-    r2_fact4: "Reducing competition helps different species coexist in the same habitat",
+    t2_title: "Food Webs", t2_text: "In nature, food chains are interlinked into complex webs. One organism can eat many others and be preyed upon by multiple predators.",
+    t2_b1: "Producers: plants, the foundation of the web.", t2_b2: "Consumers: herbivores, carnivores, and omnivores.", t2_b3: "Energy flow: solar energy moves from organism to organism.",
+    t2_inst: "Producer or Consumer? Sort them!",
+    t2_bucket_ter: "Producers", t2_bucket_fog: "Consumers",
+    t2_item_t1: "Grass", t2_item_t2: "Oak tree", t2_item_f1: "Fox", t2_item_f2: "Deer",
+    t2_q: "Who is at the base of the food web?", t2_q_a: "Producers", t2_q_b: "Apex predators", t2_q_c: "Decomposers", t2_q_d: "Viruses",
 
-    // Round 3: Symbiosis
-    r3_title: "Symbiosis: Living Together",
-    r3_text: "Symbiosis means two different species live together closely. There are three types: mutualism, commensalism, and parasitism.",
-    r3_fact1: "Mutualism: both species benefit (clownfish protect anemone, anemone protects fish)",
-    r3_fact2: "Commensalism: one benefits, one not harmed (remora fish stuck to shark)",
-    r3_fact3: "Parasitism: one benefits, one harmed (tapeworm inside host, lice on animals)",
-    r3_fact4: "Symbiosis allows species to survive in harsh environments",
+    t3_title: "Ecological Niche", t3_text: "A niche is not a place, but an organism's 'role' or 'job': what it eats, when it's active, where it nests.",
+    t3_b1: "Habitat is the address, niche is the profession.", t3_b2: "Two species cannot occupy the exact same niche for long.", t3_b3: "Example: owls (night) and hawks (day) hunting the same prey.",
+    t3_inst: "Match the concepts!",
+    t3_l1: "Habitat", t3_r1: "Where it lives (address)",
+    t3_l2: "Ecological Niche", t3_r2: "Its role (profession)",
+    t3_l3: "Niche segregation", t3_r3: "Different hunting times",
+    t3_q: "How can owls and hawks live in the same forest if they both hunt mice?", t3_q_a: "They have different niches (time of day)", t3_q_b: "They become friends", t3_q_c: "They nest in the same spot", t3_q_d: "They cannot coexist",
 
-    // Round 4: Biogeochemical Cycles
-    r4_title: "Carbon & Nitrogen Cycles",
-    r4_text: "Nutrients cycle between the biotic (living) and abiotic (non-living) parts of ecosystems. Two key cycles are carbon and nitrogen.",
-    r4_fact1: "Carbon cycle: CO₂ in atmosphere → plants absorb → animals eat plants → respiration returns CO₂",
-    r4_fact2: "Nitrogen cycle: N₂ in atmosphere → bacteria convert to usable forms → plants absorb → animals eat → decomposers return N₂",
-    r4_fact3: "Decomposers (bacteria, fungi) break down dead matter and return nutrients to soil",
-    r4_fact4: "Without these cycles, life would not have a continuous supply of essential elements",
+    t4_title: "Competition", t4_text: "When resources (food, light, nesting space) are limited, competition occurs between organisms.",
+    t4_b1: "Intraspecific: between the same species (e.g., for mates).", t4_b2: "Interspecific: between different species (e.g., for light).", t4_b3: "The weaker often gets displaced.",
+    t4_inst: "What causes competition? Sort them!",
+    t4_bucket_ver: "Cause of competition", t4_bucket_nem: "Not a cause",
+    t4_item_v1: "Limited food", t4_item_v2: "Nesting sites",
+    t4_item_n1: "Abundant oxygen", t4_item_n2: "Friendship",
+    t4_q: "What happens to the weaker population in competition?", t4_q_a: "It decreases or gets displaced", t4_q_b: "It grows suddenly", t4_q_c: "It turns into the other species", t4_q_d: "Nothing changes",
 
-    // Round 5: Quiz
-    r5_title: "Ecology Review",
-
-    // Quiz Questions
-    q1_q: "What do we call all members of one species living in the same area?",
-    q1_population: "Population",
-    q1_community: "Community",
-    q1_ecosystem: "Ecosystem",
-    q1_biome: "Biome",
-
-    q2_q: "Which type of symbiosis benefits both species?",
-    q2_mutualism: "Mutualism",
-    q2_parasitism: "Parasitism",
-    q2_commensalism: "Commensalism",
-    q2_predation: "Predation",
-
-    q3_q: "Which organisms break down dead matter and return nutrients to soil?",
-    q3_decomposers: "Decomposers",
-    q3_producers: "Producers",
-    q3_consumers: "Consumers",
-    q3_herbivores: "Herbivores",
+    t5_title: "Ecology Summary", t5_text: "Every living being is part of a whole. Populations form webs, compete, and adapt.",
+    t5_b1: "Population = same species, same area.", t5_b2: "Web = who eats whom.", t5_b3: "Competition = struggle for scarce resources.",
+    t5_inst: "What do we call the sum of food chains?", t5_gap_sentence2: "In nature, organisms form complex {gap}.",
+    t5_c51: "food webs", t5_c52: "cities", t5_c53: "schools",
+    t5_q: "Which statement is TRUE about ecology?", t5_q_a: "Every population depends on its environment.", t5_q_b: "Predators don't need food.", t5_q_c: "Organisms only live alone.", t5_q_d: "The Sun is not important.",
   },
   de: {
-    r1_title: "Population: Zusammenleben",
-    r1_text: "Eine Population ist alle Mitglieder einer Art, die im gleichen Gebiet leben. Populationen haben Geburtsraten, Sterblichkeitsraten und können wachsen oder schrumpfen.",
-    r1_fact1: "Populationsgröße hängt von verfügbaren Ressourcen ab (Nahrung, Wasser, Unterkunft, Platz)",
-    r1_fact2: "Geburtenrate ist, wie viele neue Personen in einer Population geboren werden",
-    r1_fact3: "Sterblichkeitsrate ist, wie viele Personen in einer Population sterben",
-    r1_fact4: "Wenn Geburten > Todesfälle, wächst die Population; wenn Todesfälle > Geburten, schrumpft sie",
+    explorer_title: "Grundlagen der Ökologie",
+    t1_title: "Die Population", t1_text: "Ökologie untersucht die Beziehung zwischen Lebewesen und Umwelt. Eine Population besteht aus Individuen derselben Art am selben Ort zur selben Zeit.",
+    t1_b1: "Gleiche Art: können sich untereinander fortpflanzen.", t1_b2: "Raum und Zeit: müssen interagieren können.", t1_b3: "Beispiel: alle Mäuse in einem Wald.",
+    t1_inst: "Ergänze die Definition!", t1_gap_sentence: "Eine Population besteht aus Individuen der {gap} Art.",
+    t1_c1: "gleichen", t1_c2: "verschiedenen", t1_c3: "ausgestorbenen",
+    t1_q: "Was definiert eine Population?", t1_q_a: "Gleiche Art, gleicher Ort, gleiche Zeit", t1_q_b: "Verschiedene Tiere im Zoo", t1_q_c: "Ein Einzeltier", t1_q_d: "Nur Pflanzen",
 
-    r2_title: "Wettbewerb & Ökologische Nische",
-    r2_text: "Organismen konkurrieren um die gleichen Ressourcen. Eine ökologische Nische ist die spezifische Rolle und der Ort eines Organismus in seinem Lebensraum.",
-    r2_fact1: "Wettbewerb um Nahrung, Wasser, Licht und Platz formt Populationen",
-    r2_fact2: "Organismen mit besseren Merkmalen gewinnen eher Wettbewerb (Überleben der Stärksten)",
-    r2_fact3: "Eine Nische umfasst, was der Organismus isst, wo er lebt und wie er sich verhält",
-    r2_fact4: "Verringerung von Wettbewerb hilft verschiedenen Arten, im gleichen Lebensraum zusammenzuleben",
+    t2_title: "Nahrungsnetze", t2_text: "In der Natur bilden Nahrungsketten komplexe Netze. Ein Tier kann vieles fressen und von vielen gefressen werden.",
+    t2_b1: "Produzenten: Pflanzen, die Basis.", t2_b2: "Konsumenten: Pflanzen- und Fleischfresser.", t2_b3: "Energiefluss: Sonnenenergie wandert durch das Netz.",
+    t2_inst: "Produzent oder Konsument?",
+    t2_bucket_ter: "Produzenten", t2_bucket_fog: "Konsumenten",
+    t2_item_t1: "Gras", t2_item_t2: "Eiche", t2_item_f1: "Fuchs", t2_item_f2: "Reh",
+    t2_q: "Wer steht an der Basis des Nahrungsnetzes?", t2_q_a: "Produzenten", t2_q_b: "Spitzenprädatoren", t2_q_c: "Zersetzer", t2_q_d: "Viren",
 
-    r3_title: "Symbiose: Zusammenleben",
-    r3_text: "Symbiose bedeutet, dass zwei verschiedene Arten eng zusammenleben. Es gibt drei Typen: Mutualismus, Kommensalismus und Parasitismus.",
-    r3_fact1: "Mutualismus: beide Arten profitieren (Clownfisch schützt Seeanemone, Anemone schützt Fisch)",
-    r3_fact2: "Kommensalismus: eine profitiert, eine ist nicht geschädigt (Schiffshalter am Hai)",
-    r3_fact3: "Parasitismus: eine profitiert, eine ist geschädigt (Bandwurm im Host, Läuse auf Tieren)",
-    r3_fact4: "Symbiose ermöglicht Arten, in rauen Umgebungen zu überleben",
+    t3_title: "Ökologische Nische", t3_text: "Die Nische ist kein Ort, sondern die 'Rolle' eines Lebewesens: was es frisst, wann es jagt, wo es brütet.",
+    t3_b1: "Lebensraum ist die Adresse, Nische der Beruf.", t3_b2: "Zwei Arten können nicht dauerhaft dieselbe Nische besetzen.", t3_b3: "Beispiel: Eule (Nacht) und Bussard (Tag) fressen dasselbe.",
+    t3_inst: "Verbinde die Begriffe!",
+    t3_l1: "Habitat", t3_r1: "Wo es lebt (Adresse)",
+    t3_l2: "Ökologische Nische", t3_r2: "Rolle (Beruf)",
+    t3_l3: "Nischentrennung", t3_r3: "Unterschiedliche Jagdzeiten",
+    t3_q: "Wie können Eule und Bussard im selben Wald leben?", t3_q_a: "Sie haben unterschiedliche Nischen", t3_q_b: "Sie sind Freunde", t3_q_c: "Sie teilen das Nest", t3_q_d: "Sie können es nicht",
 
-    r4_title: "Kohlenstoff- & Stickstoffzyklen",
-    r4_text: "Nährstoffe zirkulieren zwischen den biotischen (lebenden) und abiotischen (nicht-lebenden) Teilen von Ökosystemen. Zwei wichtige Zyklen sind Kohlenstoff und Stickstoff.",
-    r4_fact1: "Kohlenstoffzyklus: CO₂ in Atmosphäre → Pflanzen nehmen auf → Tiere essen Pflanzen → Respiration gibt CO₂ zurück",
-    r4_fact2: "Stickstoffzyklus: N₂ in Atmosphäre → Bakterien konvertieren zu nutzbaren Formen → Pflanzen nehmen auf → Tiere essen → Zersetzer geben N₂ zurück",
-    r4_fact3: "Zersetzer (Bakterien, Pilze) bauen tote Materie ab und geben Nährstoffe an Boden zurück",
-    r4_fact4: "Ohne diese Zyklen hätte das Leben keine kontinuierliche Versorgung mit essentiellen Elementen",
+    t4_title: "Konkurrenz", t4_text: "Wenn Ressourcen (Nahrung, Licht) knapp sind, entsteht Konkurrenz.",
+    t4_b1: "Innerartlich: Kampf um Partner.", t4_b2: "Zwischenartlich: Kampf um Licht oder Raum.", t4_b3: "Der Schwächere wird oft verdrängt.",
+    t4_inst: "Gründe für Konkurrenz?",
+    t4_bucket_ver: "Grund", t4_bucket_nem: "Kein Grund",
+    t4_item_v1: "Wenig Nahrung", t4_item_v2: "Brutplätze",
+    t4_item_n1: "Viel Sauerstoff", t4_item_n2: "Freundschaft",
+    t4_q: "Was passiert mit dem Schwächeren bei Konkurrenz?", t4_q_a: "Wird verdrängt", t4_q_b: "Wächst schneller", t4_q_c: "Wird zur anderen Art", t4_q_d: "Nichts",
 
-    r5_title: "Ökologie-Übersicht",
-
-    q1_q: "Wie nennen wir alle Mitglieder einer Art, die im gleichen Gebiet leben?",
-    q1_population: "Population",
-    q1_community: "Gemeinschaft",
-    q1_ecosystem: "Ökosystem",
-    q1_biome: "Biom",
-
-    q2_q: "Welche Art von Symbiose kommt beiden Arten zugute?",
-    q2_mutualism: "Mutualismus",
-    q2_parasitism: "Parasitismus",
-    q2_commensalism: "Kommensalismus",
-    q2_predation: "Raubtierschaft",
-
-    q3_q: "Welche Organismen bauen tote Materie ab und geben Nährstoffe an den Boden zurück?",
-    q3_decomposers: "Zersetzer",
-    q3_producers: "Produzenten",
-    q3_consumers: "Verbraucher",
-    q3_herbivores: "Herbivoren",
-  },
-  hu: {
-    r1_title: "Populáció: Együttélés",
-    r1_text: "Egy populáció egy faj összes tagja, akik ugyanabban a terülteben élnek. A populációknak születési és halálozási rátáik vannak, és növekedhetnek vagy csökkenhetnek.",
-    r1_fact1: "Populáció mérete az elérhető erőforrásoktól függ (étel, víz, búvóhely, tér)",
-    r1_fact2: "Születési ráta az, hogy hány új egyed születik a populációban",
-    r1_fact3: "Halálozási ráta az, hogy hány egyed hal meg a populációban",
-    r1_fact4: "Ha születések > halálozások, a populáció nő; ha halálozások > születések, csökken",
-
-    r2_title: "Verseny & Ökológiai Niches",
-    r2_text: "Az organizmusok ugyanazokért az erőforrásokért versenyeznek. Az ökológiai niches egy organizmus specifikus szerepe és helye a biotópjában.",
-    r2_fact1: "Az élelmiszer, víz, fény és hely versengése alakítja a populációkat",
-    r2_fact2: "Az olyan organizmusok, amelyeknek jobb tulajdonságai vannak, nagyobb valószínűséggel nyerik meg a versenyt (a legalkalmasabbak túlélése)",
-    r2_fact3: "A niches magában foglal, hogy az organizmus mit eszik, hol él és hogyan viselkedik",
-    r2_fact4: "A verseny csökkentése segít a különböző fajoknak ugyanabban a biotópban együttélni",
-
-    r3_title: "Szimbiózis: Együttélés",
-    r3_text: "A szimbiózis azt jelenti, hogy két különböző faj szorosan együtt él. Három típus van: mutualitás, kommenzalizmus és parazitizmus.",
-    r3_fact1: "Mutualitás: mindkét faj előnyt lát (bohóchal védi a tengerimagonemót, anemón védi a halat)",
-    r3_fact2: "Kommenzalizmus: egyik előnyt lát, egy nem sérült (remora hal a cápa mellett)",
-    r3_fact3: "Parazitizmus: egyik előnyt lát, egy sérült (poloska a hostban, lények az állatokon)",
-    r3_fact4: "A szimbiózis lehetővé teszi a fajoknak, hogy kemény környezetben megéljenek",
-
-    r4_title: "Szén- & Nitrogén-ciklus",
-    r4_text: "A tápanyagok ciklizálnak az ökoszisztémák biotikus (élő) és abiotikus (élettelen) részei között. Két fő ciklus a szén és a nitrogén.",
-    r4_fact1: "Szén-ciklus: CO₂ a légkörben → növények felszívnak → állatok megeszik a növényeket → légzés visszatér CO₂-t",
-    r4_fact2: "Nitrogén-ciklus: N₂ a légkörben → baktériumok használható formákra konvertálnak → növények felszívnak → állatok megeszik → bomlasztók N₂-t adnak vissza",
-    r4_fact3: "Bomlasztók (baktériumok, gombák) feldarabolják a halott anyagot és tápanyagokat adnak a talajnak",
-    r4_fact4: "Ezek nélkül a ciklus az élet nem lenne folyamatos ellátása az essentia elemekből",
-
-    r5_title: "Ökológia-áttekintés",
-
-    q1_q: "Mit hívunk egy faj összes tagjának, akik ugyanabban a terülteben élnek?",
-    q1_population: "Populáció",
-    q1_community: "Közösség",
-    q1_ecosystem: "Ökoszisztéma",
-    q1_biome: "Biom",
-
-    q2_q: "Melyik szimbiózis típus előnyös mindkét fajra?",
-    q2_mutualism: "Mutualitás",
-    q2_parasitism: "Parazitizmus",
-    q2_commensalism: "Kommenzalizmus",
-    q2_predation: "Ragadozás",
-
-    q3_q: "Mely organizmusok bontanak le halott anyagot és adnak vissza tápanyagokat a talajnak?",
-    q3_decomposers: "Bomlasztók",
-    q3_producers: "Termelők",
-    q3_consumers: "Fogyasztók",
-    q3_herbivores: "Herbivórák",
+    t5_title: "Zusammenfassung", t5_text: "Alles hängt zusammen. Populationen bilden Netze und konkurrieren.",
+    t5_b1: "Population = gleiche Art, gleiches Gebiet.", t5_b2: "Netz = wer frisst wen.", t5_b3: "Konkurrenz = Kampf um Ressourcen.",
+    t5_inst: "Wie nennt man die Summe der Nahrungsketten?",
+    t5_gap_sentence2: "In der Natur bilden Lebewesen ein {gap}.",
+    t5_c51: "Nahrungsnetz", t5_c52: "Stadtnetz", t5_c53: "Schulnetz",
+    t5_q: "Was ist WAHR?", t5_q_a: "Jede Population hängt von der Umwelt ab.", t5_q_b: "Raubtiere brauchen kein Essen.", t5_q_c: "Sonne ist egal.", t5_q_d: "Tiere leben nur allein.",
   },
   ro: {
-    r1_title: "Populație: Trăind Împreună",
-    r1_text: "O populație este toți membrii unei specii care trăiesc în aceeași zonă. Populațiile au rate de natalitate și mortalitate și pot crește sau micșora.",
-    r1_fact1: "Dimensiunea populației depinde de resursele disponibile (hrană, apă, adăpost, spațiu)",
-    r1_fact2: "Rata natalității este câte indivizi noi se nasc într-o populație",
-    r1_fact3: "Rata mortalității este câți indivizi mor într-o populație",
-    r1_fact4: "Când nașteri > decese, populația crește; când decese > nașteri, scade",
+    explorer_title: "Bazele Ecologiei",
+    t1_title: "Populația", t1_text: "Ecologia studiază relația dintre organisme și mediu. O populație este un grup de indivizi din aceeași specie care trăiesc în același loc, în același timp.",
+    t1_b1: "Aceeași specie: se pot reproduce între ei.", t1_b2: "Spațiu și timp: trebuie să poată interacționa.", t1_b3: "Exemplu: toți șoarecii de câmp dintr-o pădure specifică.",
+    t1_inst: "Completează definiția!", t1_gap_sentence: "O populație este un grup de indivizi din {gap} specie.",
+    t1_c1: "aceeași", t1_c2: "altă", t1_c3: "specie moartă",
+    t1_q: "Ce definește o populație?", t1_q_a: "Aceeași specie, loc și timp", t1_q_b: "Animale diferite la zoo", t1_q_c: "Un animal singur", t1_q_d: "Doar plante",
 
-    r2_title: "Competiție & Nișă Ecologică",
-    r2_text: "Organismele concurează pentru aceleași resurse. O nișă ecologică este rolul și locul specific al unui organism în habitatul său.",
-    r2_fact1: "Competiția pentru hrană, apă, lumină și spațiu modelează populațiile",
-    r2_fact2: "Organismele cu trăsături mai bune sunt mai susceptibile să câștige competiția (supraviețuirea celor mai potriviți)",
-    r2_fact3: "O nișă include ceea ce mănâncă organismul, unde trăiește și cum se comportă",
-    r2_fact4: "Reducerea competiției ajută speciile diferite să coexiste în același habitat",
+    t2_title: "Rețele Trofice", t2_text: "În natură, lanțurile trofice formează rețele complexe. Un organism poate mânca mai multe specii și poate fi vânat de mai mulți prădători.",
+    t2_b1: "Producători: plantele, baza rețelei.", t2_b2: "Consumatori: erbivore, carnivore, omnivore.", t2_b3: "Fluxul de energie: energia solară circulă între organisme.",
+    t2_inst: "Producător sau Consumator?",
+    t2_bucket_ter: "Producători", t2_bucket_fog: "Consumatori",
+    t2_item_t1: "Iarbă", t2_item_t2: "Stejar",
+    t2_item_f1: "Vulpe", t2_item_f2: "Căprioară",
+    t2_q: "Cine se află la baza rețelei trofice?", t2_q_a: "Producătorii", t2_q_b: "Prădătorii de top", t2_q_c: "Descompunătorii", t2_q_d: "Virușii",
 
-    r3_title: "Simbiază: Trăind Împreună",
-    r3_text: "Simbiaza înseamnă că două specii diferite trăiesc împreună. Există trei tipuri: mutualism, comensalism și parazitism.",
-    r3_fact1: "Mutualism: ambele specii beneficiază (pești clovn protejează anemona, anemona protejează peștele)",
-    r3_fact2: "Comensalism: unul beneficiază, altul nu este prejudiciat (peștele remora lipit de cărările de rechin)",
-    r3_fact3: "Parazitism: unul beneficiază, altul este rănit (tenioida în gazdă, păduchi pe animale)",
-    r3_fact4: "Simbiaza permite speciilor să supraviețuiască în medii grele",
+    t3_title: "Nișa Ecologică", t3_text: "Nișa nu este un loc, ci 'rolul' organismului: ce mănâncă, când e activ, unde cuibărește.",
+    t3_b1: "Habitatul este adresa, nișa este profesia.", t3_b2: "Două specii nu pot ocupa aceeași nișă mult timp.", t3_b3: "Exemplu: bufnița (noaptea) și uliul (ziua) vânează aceeași pradă.",
+    t3_inst: "Potrivește conceptele!",
+    t3_l1: "Habitat", t3_r1: "Unde trăiește (adresa)",
+    t3_l2: "Nișă ecologică", t3_r2: "Rolul său (profesia)",
+    t3_l3: "Segregarea nișelor", t3_r3: "Ore de vânătoare diferite",
+    t3_q: "Cum pot bufnița și uliul să trăiască în aceeași pădure?", t3_q_a: "Au nișe diferite (timp diferit)", t3_q_b: "Sunt prieteni", t3_q_c: "Stau în același cuib", t3_q_d: "Nu pot",
 
-    r4_title: "Cicluri de Carbon și Azot",
-    r4_text: "Nutrienții ciclează între părțile biotice (vii) și abiotice (nevii) ale ecosistemelor. Două cicluri cheie sunt carbonul și azotul.",
-    r4_fact1: "Ciclu de carbon: CO₂ în atmosferă → plante absorb → animale mănâncă plante → respirație returnează CO₂",
-    r4_fact2: "Ciclu de azot: N₂ în atmosferă → bacteriile convertesc în forme utilizabile → plante absorb → animale mănâncă → descompozitori returnează N₂",
-    r4_fact3: "Descompozitorii (bacterii, ciuperci) descompun materia moartă și returnează nutrienți solului",
-    r4_fact4: "Fără aceste cicluri, viața nu ar avea o aprovizionare continuă cu elemente esențiale",
+    t4_title: "Competiția", t4_text: "Când resursele (hrana, lumina) sunt limitate, apare competiția între organisme.",
+    t4_b1: "Intraspecifică: între aceeași specie (ex: pentru parteneri).", t4_b2: "Interspecifică: între specii diferite (ex: pentru lumină).", t4_b3: "Cea mai slabă specie este adesea eliminată.",
+    t4_inst: "Cauze de competiție?",
+    t4_bucket_ver: "Cauză", t4_bucket_nem: "Nu e cauză",
+    t4_item_v1: "Hrană puțină", t4_item_v2: "Locuri de cuibărit",
+    t4_item_n1: "Oxigen din abundență", t4_item_n2: "Prietenie",
+    t4_q: "Ce se întâmplă cu populația mai slabă în competiție?", t4_q_a: "Scade sau este eliminată", t4_q_b: "Crește brusc", t4_q_c: "Se transformă", t4_q_d: "Nimic",
 
-    r5_title: "Recapitulare Ecologie",
+    t5_title: "Recapitulare", t5_text: "Totul este conectat. Populațiile formează rețele și concurează.",
+    t5_b1: "Populație = aceeași specie, aceeași zonă.", t5_b2: "Rețea = cine pe cine mănâncă.", t5_b3: "Competiție = lupta pentru resurse.",
+    t5_inst: "Cum numim suma lanțurilor trofice?",
+    t5_gap_sentence2: "În natură, organismele formează o {gap} complexă.",
+    t5_c51: "rețea trofică", t5_c52: "rețea urbană", t5_c53: "școală",
+    t5_q: "Ce este ADEVĂRAT?", t5_q_a: "Fiecare populație depinde de mediu.", t5_q_b: "Prădătorii nu mănâncă.", t5_q_c: "Soarele nu contează.", t5_q_d: "Trăiesc doar singuri.",
+  }
+};
 
-    q1_q: "Cum numim toți membrii unei specii care trăiesc în aceeași zonă?",
-    q1_population: "Populație",
-    q1_community: "Comunitate",
-    q1_ecosystem: "Ecosistem",
-    q1_biome: "Biom",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Ce tip de simbiază beneficiază ambelor specii?",
-    q2_mutualism: "Mutualism",
-    q2_parasitism: "Parazitism",
-    q2_commensalism: "Comensalism",
-    q2_predation: "Prădare",
-
-    q3_q: "Ce organisme descompun materia moartă și returnează nutrienți solului?",
-    q3_decomposers: "Descompozitori",
-    q3_producers: "Producători",
-    q3_consumers: "Consumatori",
-    q3_herbivores: "Erbivori",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
-
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS (simple shapes, no text)
-// ─────────────────────────────────────────────────────────────────────────────
-
-function SVG_R1(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="eco_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" /><stop offset="100%" stopColor="#E0F0FF" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#eco_bg)" />
-      <rect x="30" y="110" width="20" height="30" fill="#4CAF50" />
-      <rect x="65" y="100" width="20" height="40" fill="#4CAF50" />
-      <rect x="100" y="80" width="20" height="60" fill="#4CAF50" />
-      <rect x="135" y="50" width="20" height="90" fill="#FF9800" />
-      <rect x="170" y="70" width="20" height="70" fill="#F44336" />
-    </svg>
-  );
-}
-
-function SVG_R2(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="eco_land" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#90EE90" /><stop offset="100%" stopColor="#228B22" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="#DAEAF6" />
-      <rect y="80" width="240" height="80" fill="url(#eco_land)" />
-      <rect x="110" y="40" width="8" height="40" fill="#8B4513" />
-      <circle cx="114" cy="35" r="20" fill="#228B22" />
-      <circle cx="50" cy="70" r="8" fill="#8B4513" />
-      <circle cx="114" cy="50" r="5" fill="#FFB347" />
-      <ellipse cx="180" cy="75" rx="10" ry="8" fill="#A0826D" />
-    </svg>
-  );
-}
-
-function SVG_R3(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <rect width="240" height="160" fill="#E8F5FF" />
-      <circle cx="35" cy="80" r="15" fill="#FF6B6B" />
-      <circle cx="50" cy="85" r="8" fill="#FFB347" />
-      <ellipse cx="130" cy="80" rx="18" ry="10" fill="#4A90E2" />
-      <polygon points="148,80 155,75 155,85" fill="#4A90E2" />
-      <circle cx="105" cy="85" r="6" fill="#777" />
-      <ellipse cx="200" cy="80" rx="15" ry="12" fill="#8B7355" />
-      <circle cx="195" cy="70" r="5" fill="#8B7355" />
-      <circle cx="210" cy="75" r="4" fill="#C70039" />
-    </svg>
-  );
-}
-
-function SVG_R4(): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="eco_sky2" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" /><stop offset="100%" stopColor="#E8F5FF" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="160" fill="url(#eco_sky2)" />
-      <circle cx="120" cy="80" r="35" fill="none" stroke="#4CAF50" strokeWidth="2" strokeDasharray="5,5" opacity="0.6" />
-      <polygon points="80,100 70,120 90,120" fill="#228B22" />
-      <rect x="75" y="115" width="10" height="10" fill="#8B4513" />
-      <circle cx="120" cy="130" r="8" fill="#FFB347" />
-      <circle cx="160" cy="100" r="6" fill="#A0522D" />
-    </svg>
-  );
-}
-
-const ecologyDef: ExplorerDef = {
-  labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => SVG_R1(),
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => SVG_R2(),
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => SVG_R3(),
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => SVG_R4(),
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => null,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_population", "q1_community", "q1_ecosystem", "q1_biome"],
-          answer: "q1_population",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_mutualism", "q2_parasitism", "q2_commensalism", "q2_predation"],
-          answer: "q2_mutualism",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_decomposers", "q3_producers", "q3_consumers", "q3_herbivores"],
-          answer: "q3_decomposers",
-        },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <FoodWebSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "ter", label: "t2_bucket_ter" },
+        { id: "fog", label: "t2_bucket_fog" },
       ],
+      items: [
+        { text: "t2_item_t1", bucketId: "ter" },
+        { text: "t2_item_f1", bucketId: "fog" },
+        { text: "t2_item_t2", bucketId: "ter" },
+        { text: "t2_item_f2", bucketId: "fog" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
     },
-  ],
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "ver", label: "t4_bucket_ver" },
+        { id: "nem", label: "t4_bucket_nem" },
+      ],
+      items: [
+        { text: "t4_item_v1", bucketId: "ver" },
+        { text: "t4_item_n1", bucketId: "nem" },
+        { text: "t4_item_v2", bucketId: "ver" },
+        { text: "t4_item_n2", bucketId: "nem" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🌍",
+  topics: TOPICS,
+  rounds: [],
 };
 
-export default function EcologyExplorer({ onDone }: { onDone?: (score: number, total: number) => void }) {
-  return <ExplorerEngine def={ecologyDef} color="#2980B9" lang="en" onDone={onDone} />;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const EcologyExplorer = memo(function EcologyExplorer({
+  color = "#15803D", // Zöld (Green-700) az ökoszisztémákhoz
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="bio_k7_ecology" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default EcologyExplorer;
