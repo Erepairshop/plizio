@@ -1,359 +1,267 @@
 "use client";
-// ReviewExplorerK8 — Island i9: Große Prüfung (K8)
-// Teaches: mixed review of all K8 topics: Konjunktiv, Passiv, Partizipien, Stilmittel, Literaturepochen
+// ReviewExplorerK8 — Island i7: Abschlussprüfung Klasse 8 (Final Review K5)
+// Topics: 1) Redewiedergabe 2) Partizipialkonstruktionen 3) Stilmittel 4) Satzanalyse 5) Aktiv/Passiv Transformation
 
-import { memo, useState, useCallback, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -60,20 L -20,20 L -20,0 M 20,20 L 60,20 L 60,-20" fill="none" stroke="#0284C7" strokeWidth="3" />
+        <text x="0" y="35" fontSize="16" fontWeight="bold" fill="#0369A1" textAnchor="middle">K8 Master</text>
+        <text x="0" y="-15" fontSize="40" textAnchor="middle">🎓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Abschlussprüfung K8",
+
+    // T1: Redewiedergabe
+    t1_title: "Indirekte Rede",
+    t1_text: "In der indirekten Rede nutzen wir den Konjunktiv I. Wenn dieser mit dem Indikativ gleich ist, weichen wir auf den Konjunktiv II aus.",
+    t1_b1: "er sagt, er komme",
+    t1_b2: "sie sagen, sie kämen (Ersatzform)",
+    t1_b3: "Konjunktiv I = Distanz zum Gesagten.",
+    t1_inst: "Welche Form von 'sein' ist der korrekte Konjunktiv I für die 3. Person?",
+    t1_h1: "Es ist die kurze Form, die oft in Nachrichten genutzt wird.",
+    t1_h2: "Die Form lautet 'sei'.",
+    t1_gap_sentence: "Der Zeuge behauptet, er {gap} unschuldig.",
+    t1_c1: "sei", t1_c2: "ist", t1_c3: "wäre",
+    t1_q: "Wann nutzt man Konjunktiv II in der indirekten Rede?",
+    t1_q_a: "Wenn Konjunktiv I und Indikativ identisch sind", t1_q_b: "Niemals", t1_q_c: "Nur bei Fragen", t1_q_d: "Immer",
+
+    // T2: Partizipien
+    t2_title: "Partizipialgruppen",
+    t2_text: "Partizipien können als Adjektive vor dem Nomen stehen. Partizip I ist aktiv/gleichzeitig, Partizip II ist passiv/abgeschlossen.",
+    t2_b1: "Partizip I: der lachende Junge",
+    t2_b2: "Partizip II: die geöffnete Tür",
+    t2_b3: "Erweiterte Attribute: der laut lachende Junge.",
+    t2_inst: "Welches Partizip passt hier? 'Das ___ Auto muss in die Werkstatt.'",
+    t2_h1: "Das Auto wurde beschädigt (passiv/abgeschlossen).",
+    t2_h2: "Wir brauchen das Partizip II von 'beschädigen'.",
+    t2_gap_sentence2: "Das {gap} Auto steht am Straßenrand.",
+    t2_c21: "beschädigte", t2_c22: "beschädigende", t2_c23: "beschädigen",
+    t2_q: "Was bedeutet 'die singende Frau'?",
+    t2_q_a: "Die Frau, die gerade singt", t2_q_b: "Die Frau, die gesungen wurde", t2_q_c: "Die Frau, die singen wird", t2_q_d: "Die Frau, die nicht singt",
+
+    // T3: Stilmittel
+    t3_title: "Stilmittel-Check",
+    t3_text: "Klimax, Antithese, Ironie oder Hyperbel? Diese Mittel verleihen Texten Tiefe.",
+    t3_b1: "Klimax: Steigerung (Tage, Wochen, Jahre).",
+    t3_b2: "Antithese: Gegensatz (Himmel und Hölle).",
+    t3_b3: "Hyperbel: Übertreibung (Bärenhunger).",
+    t3_inst: "Welches Stilmittel liegt vor? Verbinde!",
+    t3_h1: "'Todmüde' ist eine starke Übertreibung.",
+    t3_h2: "'Ich kam, sah und siegte' ist eine Steigerung.",
+    t3_l1: "todmüde", t3_r1: "Hyperbel",
+    t3_l2: "gut, besser, am besten", t3_r2: "Klimax",
+    t3_l3: "Jung und Alt", t3_r3: "Antithese",
+    t3_l4: "Toll gemacht! (bei Fehler)", t3_r4: "Ironie",
+    t3_q: "Was ist ein 'Euphemismus'?",
+    t3_q_a: "Eine Beschönigung", t3_q_b: "Eine Beleidigung", t3_q_c: "Eine Frage", t3_q_d: "Ein Reim",
+
+    // T4: Satzanalyse
+    t4_title: "Satzbau-Analyse",
+    t4_text: "Satzgefüge (HS+NS) oder Satzreihe (HS+HS)? Kennst du die Satzglieder?",
+    t4_b1: "Satzgefüge: Er liest, weil er Zeit hat.",
+    t4_b2: "Satzreihe: Er liest und er hört Musik.",
+    t4_b3: "Subjekt, Prädikat, Objekt, Adverbiale.",
+    t4_inst: "Ist es ein Satzgefüge vagy eine Satzreihe? Sortiere!",
+    t4_h1: "'weil' leitet einen Nebensatz ein (Gefüge).",
+    t4_h2: "'und' verbindet Hauptsätze (Reihe).",
+    t4_bucket_sr: "Satzreihe (HS+HS)",
+    t4_bucket_sg: "Satzgefüge (HS+NS)",
+    t4_item_sr1: "Ich kam und sah.", t4_item_sr2: "Er spielt, aber sie liest.",
+    t4_item_sg1: "Ich kam, damit ich helfe.", t4_item_sg2: "Der Mann, den ich sah.",
+    t4_q: "Wo steht das Verb im Nebensatz?",
+    t4_q_a: "Ganz am Ende", t4_q_b: "An Position 2", t4_q_c: "Am Anfang", t4_q_d: "Hinter dem Subjekt",
+
+    // T5: Aktiv/Passiv
+    t5_title: "Transformation",
+    t5_text: "Die Verwandlung von Aktiv in Passiv ist die Königsdisziplin. Achte auf den Täter (von/durch)!",
+    t5_b1: "Aktiv: Sie liest das Buch.",
+    t5_b2: "Passiv: Das Buch wird gelesen.",
+    t5_b3: "Passiversatz: Das Buch lässt sich lesen.",
+    t5_inst: "Wandle den Satz ins Passiv um!",
+    t5_h1: "Das Objekt 'den Film' wird zum Subjekt 'Der Film'.",
+    t5_h2: "Hilfsverb 'wird' + Partizip II 'gesehen'.",
+    t5_w1: "Der", t5_w2: "Film", t5_w3: "wird", t5_w4: "heute", t5_w5: "gesehen.",
+    t5_q: "Welche Präposition nutzt man für eine unpersönliche Ursache (z.B. Wind)?",
+    t5_q_a: "durch", t5_q_b: "von", t5_q_c: "mit", t5_q_d: "zu",
+  },
   en: {
-    title: "K8 Big Review",
-    round1Title: "Konjunktiv I & II",
-    round1Hint: "Choose the correct subjunctive form.",
-    round2Title: "Passive & Alternatives",
-    round2Hint: "Identify the passive type or its replacement.",
-    round3Title: "Partizipialkonstruktionen",
-    round3Hint: "Transform between participle attributes and relative clauses.",
-    round4Title: "Stilmittel & Rhetorik",
-    round4Hint: "Which stylistic device is used?",
-    round5Title: "Literaturepochen",
-    round5Hint: "Match the work or feature to the literary epoch.",
-    next: "Next",
-    finish: "Finished!",
-    correct: "Correct!",
-    discovery: "💡 At this level, you can analyze texts like a pro! Style devices, sentence analysis, and advanced grammar are your tools.",
+    explorer_title: "Final Exam K8",
+    t1_inst: "Which form of 'sein' is the correct Konjunktiv I for the 3rd person?",
+    t2_inst: "Which participle fits here?",
+    t3_inst: "Which stylistic device is present? Connect them!",
+    t4_inst: "Is it a complex or a compound sentence? Sort them!",
+    t5_inst: "Transform the sentence into passive!",
   },
   hu: {
-    title: "8. osztály összefoglalás",
-    round1Title: "Konjunktív I & II",
-    round1Hint: "Válaszd ki a helyes kötőmód-alakot.",
-    round2Title: "Szenvedő szerkezet & alternatívák",
-    round2Hint: "Azonosítsd a szenvedő típust vagy kiváltóját.",
-    round3Title: "Melléknévi igeneves szerkezetek",
-    round3Hint: "Alakítsd át igeneves szerkezet és vonatkozói mondat között.",
-    round4Title: "Stíluseszközök & Retorika",
-    round4Hint: "Milyen stíluseszközt használnak?",
-    round5Title: "Irodalmi korszakok",
-    round5Hint: "Párosítsd a művet vagy jellemzőt a korszakkal.",
-    next: "Tovább",
-    finish: "Kész!",
-    correct: "Helyes!",
-    discovery: "💡 Ezen a szinten profi szövegelemző lehetsz! A stíluseszközök, mondatelemzés és fejlett nyelvtan az eszközeid.",
-  },
-  de: {
-    title: "K8 Große Wiederholung",
-    round1Title: "Konjunktiv I & II",
-    round1Hint: "Wähle die richtige Konjunktivform.",
-    round2Title: "Passiv & Passiversatz",
-    round2Hint: "Erkenne den Passivtyp oder seine Alternative.",
-    round3Title: "Partizipialkonstruktionen",
-    round3Hint: "Wandle zwischen Partizipialattribut und Relativsatz um.",
-    round4Title: "Stilmittel & Rhetorik",
-    round4Hint: "Welches Stilmittel wird verwendet?",
-    round5Title: "Literaturepochen",
-    round5Hint: "Ordne das Werk oder Merkmal der Epoche zu.",
-    next: "Weiter",
-    finish: "Fertig!",
-    correct: "Richtig!",
-    discovery: "💡 Auf dieser Stufe kannst du Texte wie ein Profi analysieren! Stilmittel, Satzanalyse und fortgeschrittene Grammatik sind deine Werkzeuge.",
+    explorer_title: "Záróvizsga K8",
+    t1_inst: "A 'sein' melyik alakja a helyes Konjunktiv I (E/3)?",
+    t2_inst: "Melyik melléknévi igenév illik ide?",
+    t3_inst: "Melyik stilisztikai eszközt látod? Kösd össze!",
+    t4_inst: "Mellérendelő (Satzreihe) vagy Alárendelő (Satzgefüge)? Válogasd szét!",
+    t5_inst: "Alakítsd át a mondatot szenvedő szerkezetbe (Passiv)!",
   },
   ro: {
-    title: "Recapitulare K8",
-    round1Title: "Conjunctiv I & II",
-    round1Hint: "Alege forma corectă de conjunctiv.",
-    round2Title: "Pasiv & Alternative",
-    round2Hint: "Identifică tipul de pasiv sau înlocuitorul lui.",
-    round3Title: "Construcții participiale",
-    round3Hint: "Transformă între atribut participial și propoziție relativă.",
-    round4Title: "Figuri de stil & Retorică",
-    round4Hint: "Ce figură de stil este folosită?",
-    round5Title: "Epoci literare",
-    round5Hint: "Asociază opera sau trăsătura cu epoca literară.",
-    next: "Înainte",
-    finish: "Gata!",
-    correct: "Corect!",
-    discovery: "💡 La acest nivel, poți analiza texte ca un profesionist! Figurile de stil, analiza propoziției și gramatica avansată sunt instrumentele tale.",
-  },
+    explorer_title: "Examen Final K8",
+    t1_inst: "Care formă a lui 'sein' este corectul Konjunktiv I pentru persoana a 3-a?",
+    t2_inst: "Ce participiu se potrivește aici?",
+    t3_inst: "Ce figură de stil este prezentă? Leagă-le!",
+    t4_inst: "Este o propoziție coordonată sau subordonată? Sortează-le!",
+    t5_inst: "Transformă propoziția la pasiv!",
+  }
 };
 
-// Round 1: Konjunktiv I & II mixed
-const MCQ1 = [
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
   {
-    sentence: 'Er sagt, er ___ keine Zeit.',
-    options: ["hat", "habe", "hätte", "hatte"],
-    correct: "habe",
-    label: "Konjunktiv I (indirekte Rede)",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
   {
-    sentence: 'Wenn ich reich ___, würde ich reisen.',
-    options: ["bin", "sei", "wäre", "war"],
-    correct: "wäre",
-    label: "Konjunktiv II (irrealer Wunsch)",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_gap_sentence2",
+      choices: ["t2_c21", "t2_c22", "t2_c23"],
+      correctIndex: 0,
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
   },
   {
-    sentence: 'Sie berichtet, sie ___ den Film gesehen.',
-    options: ["hat", "habe", "hätte", "hatte"],
-    correct: "habe",
-    label: "Konjunktiv I (indirekte Rede, Perfekt)",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+        { left: "t3_l4", right: "t3_r4" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
   },
   {
-    sentence: 'An deiner Stelle ___ ich zum Arzt gehen.',
-    options: ["werde", "wäre", "würde", "wollte"],
-    correct: "würde",
-    label: "Konjunktiv II (höflicher Ratschlag)",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "sr", label: "t4_bucket_sr" },
+        { id: "sg", label: "t4_bucket_sg" },
+      ],
+      items: [
+        { text: "t4_item_sr1", bucketId: "sr" },
+        { text: "t4_item_sg1", bucketId: "sg" },
+        { text: "t4_item_sr2", bucketId: "sr" },
+        { text: "t4_item_sg2", bucketId: "sg" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4", "t5_w5"], // Der Film wird heute gesehen.
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
   },
 ];
 
-// Round 2: Passiv & Passiversatz
-const MCQ2 = [
-  {
-    sentence: "Das Buch wird von vielen gelesen.",
-    options: ["Vorgangspassiv", "Zustandspassiv", "Passiversatz"],
-    correct: "Vorgangspassiv",
-    label: "werden + Part. II = Vorgang",
-  },
-  {
-    sentence: "Das Problem ist gelöst.",
-    options: ["Vorgangspassiv", "Zustandspassiv", "Passiversatz"],
-    correct: "Zustandspassiv",
-    label: "sein + Part. II = Zustand",
-  },
-  {
-    sentence: "Dieses Buch lässt sich leicht lesen.",
-    options: ["Vorgangspassiv", "Zustandspassiv", "Passiversatz"],
-    correct: "Passiversatz",
-    label: "sich lassen + Inf. = Passiversatz",
-  },
-  {
-    sentence: "Die Aufgabe ist zu erledigen.",
-    options: ["Vorgangspassiv", "Zustandspassiv", "Passiversatz"],
-    correct: "Passiversatz",
-    label: "sein + zu + Inf. = Passiversatz",
-  },
-];
+// ─── DEF ────────────────────────────────────────────────────────────
 
-// Round 3: Partizipialkonstruktionen
-const MCQ3 = [
-  {
-    sentence: '"der im Park spielende Junge" — Was ist das?',
-    options: ["Partizip I (Attribut)", "Partizip II (Attribut)", "Relativsatz"],
-    correct: "Partizip I (Attribut)",
-    label: "spielend → aktiv, gleichzeitig",
-  },
-  {
-    sentence: '"das geschriebene Buch" — Welches Partizip?',
-    options: ["Partizip I", "Partizip II", "Infinitiv"],
-    correct: "Partizip II",
-    label: "geschrieben → abgeschlossen, passiv",
-  },
-  {
-    sentence: '"die zu erledigende Aufgabe" — Was drückt das aus?',
-    options: ["Abgeschlossene Handlung", "Möglichkeit/Notwendigkeit", "Gegenwart"],
-    correct: "Möglichkeit/Notwendigkeit",
-    label: "zu + Part. I = Gerundivum",
-  },
-  {
-    sentence: 'Wandle um: "das reparierte Auto" → ?',
-    options: ["das Auto, das repariert wurde", "das Auto, das repariert", "das Auto repariert"],
-    correct: "das Auto, das repariert wurde",
-    label: "Part. II → Relativsatz (Passiv)",
-  },
-];
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🏆",
+  topics: TOPICS,
+  rounds: [],
+};
 
-// Round 4: Stilmittel & Rhetorik
-const MCQ4 = [
-  {
-    sentence: '"Ist das nicht wunderbar?" (keine echte Frage)',
-    options: ["Rhetorische Frage", "Klimax", "Ellipse"],
-    correct: "Rhetorische Frage",
-  },
-  {
-    sentence: '"Er kam, sah, siegte."',
-    options: ["Parallelismus", "Klimax", "Anapher"],
-    correct: "Klimax",
-    label: "Steigerung: kommen → sehen → siegen",
-  },
-  {
-    sentence: '"Arm und reich, jung und alt."',
-    options: ["Metapher", "Antithese", "Alliteration"],
-    correct: "Antithese",
-    label: "Gegensatzpaare = Antithese",
-  },
-  {
-    sentence: '"Heute nicht. Morgen auch nicht."',
-    options: ["Ellipse", "Ironie", "Hyperbel"],
-    correct: "Ellipse",
-    label: "Unvollständiger Satz = Ellipse",
-  },
-];
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-// Round 5: Literaturepochen
-const MCQ5 = [
-  {
-    sentence: 'Gefühl, Natur, Sehnsucht — welche Epoche?',
-    options: ["Aufklärung", "Romantik", "Realismus"],
-    correct: "Romantik",
-    label: "Romantik (~1795–1848)",
-  },
-  {
-    sentence: '"Sturm und Drang" betont...',
-    options: ["Vernunft und Ordnung", "Gefühl und Rebellion", "Sachlichkeit"],
-    correct: "Gefühl und Rebellion",
-    label: "Sturm und Drang (~1765–1790)",
-  },
-  {
-    sentence: 'Welche Epoche betont Vernunft und Rationalität?',
-    options: ["Barock", "Aufklärung", "Expressionismus"],
-    correct: "Aufklärung",
-    label: "Aufklärung (~1720–1800)",
-  },
-  {
-    sentence: '"Die Verwandlung" (Kafka) gehört zum...',
-    options: ["Naturalismus", "Expressionismus", "Romantik"],
-    correct: "Expressionismus",
-    label: "Expressionismus (~1910–1925)",
-  },
-];
-
-function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
-  return (
-    <div className="flex gap-1.5 w-full">
-      {Array.from({ length: total }, (_, i) => (
-        <div key={i} className="flex-1 h-2 rounded-full"
-          style={{ background: i < current ? "#00FF88" : i === current ? color : "rgba(255,255,255,0.12)" }} />
-      ))}
-    </div>
-  );
-}
-
-function NextBtn({ onClick, label, color }: { onClick: () => void; label: string; color: string }) {
-  return (
-    <motion.button onClick={onClick}
-      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}>
-      {label} <ChevronRight size={16} />
-    </motion.button>
-  );
-}
-
-function MCQRound({
-  title, hint, items, color, lbl, onDone, lang,
-}: {
-  title: string;
-  hint: string;
-  items: { sentence: string; options: string[]; correct: string; label?: string }[];
-  color: string;
-  lbl: Record<string, string>;
-  onDone: () => void;
-  lang?: string;
-}) {
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const item = items[idx];
-  const handleSelect = (opt: string) => {
-    if (selected) return;
-    setSelected(opt);
-    setTimeout(() => {
-      if (idx + 1 >= items.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 800);
-  };
-  return (
-    <div className="flex flex-col gap-4 w-full">
-      <p className="text-2xl font-black text-white text-center">{title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{hint}</p>
-      <div className="flex gap-1 justify-center">
-        {items.map((_, i) => (
-          <div key={i} className="w-2 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-      <AnimatePresence mode="wait">
-        <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
-          style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <div className="flex items-center justify-center gap-2">
-            <p className="text-white font-bold text-lg">{item.sentence}</p>
-            <SpeakButton text={item.sentence} lang={"de"} size={16} />
-          </div>
-          {selected && (
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2"
-              style={{ color: selected === item.correct ? "#00FF88" : "#FF6B6B" }}>
-              {selected === item.correct
-                ? `✅ ${item.label ?? lbl.correct}`
-                : `❌ → ${item.correct}${item.label ? ` (${item.label})` : ""}`}
-            </motion.p>
-          )}
-        </motion.div>
-      </AnimatePresence>
-      <div className="flex gap-2 w-full flex-wrap justify-center">
-        {item.options.map(opt => (
-          <motion.button key={opt} onClick={() => handleSelect(opt)}
-            className="flex-1 min-w-20 py-3 rounded-xl font-black text-sm"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.2)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.93 } : {}}>
-            {opt}
-          </motion.button>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-// ─── Main Component ────────────────────────────────────────────────────────────
 const ReviewExplorerK8 = memo(function ReviewExplorerK8({
-  color, lang = "de", onDone,
+  color = "#6366F1",
+  onDone,
+  lang = "de",
 }: {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const TOTAL_ROUNDS = 5;
-  const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => onDone(TOTAL_ROUNDS, TOTAL_ROUNDS), [onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
-      <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
-      <AnimatePresence mode="wait">
-        <motion.div key={round}
-          initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
-          className="w-full flex flex-col items-center gap-4">
-          {round === 0 && (
-            <MCQRound title={lbl.round1Title} hint={lbl.round1Hint}
-              items={MCQ1} color={color} lbl={lbl} onDone={next} lang={lang} />
-          )}
-          {round === 1 && (
-            <MCQRound title={lbl.round2Title} hint={lbl.round2Hint}
-              items={MCQ2} color={color} lbl={lbl} onDone={next} lang={lang} />
-          )}
-          {round === 2 && (
-            <MCQRound title={lbl.round3Title} hint={lbl.round3Hint}
-              items={MCQ3} color={color} lbl={lbl} onDone={next} lang={lang} />
-          )}
-          {round === 3 && (
-            <MCQRound title={lbl.round4Title} hint={lbl.round4Hint}
-              items={MCQ4} color={color} lbl={lbl} onDone={next} lang={lang} />
-          )}
-          {round === 4 && (
-            <MCQRound title={lbl.round5Title} hint={lbl.round5Hint}
-              items={MCQ5} color={color} lbl={lbl} onDone={finish} lang={lang} />
-          )}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={8} explorerId="deutsch_k8_final_review" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default ReviewExplorerK8;
