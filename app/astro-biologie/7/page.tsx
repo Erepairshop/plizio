@@ -29,6 +29,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import CellExplorer from "@/app/astro-biologie/games/CellExplorer";
 import DivisionExplorer from "@/app/astro-biologie/games/DivisionExplorer";
 import PhotosynthesisExplorer from "@/app/astro-biologie/games/PhotosynthesisExplorer";
+import CellRespirationExplorer from "@/app/astro-biologie/games/CellRespirationExplorer";
 import EcologyExplorer from "@/app/astro-biologie/games/EcologyExplorer";
 import ImmuneExplorer from "@/app/astro-biologie/games/ImmuneExplorer";
 import NerveExplorer from "@/app/astro-biologie/games/NerveExplorer";
@@ -107,6 +108,7 @@ type Screen =
   | "cell-explorer"
   | "division-explorer"
   | "photosynthesis-explorer"
+  | "cell-respiration-explorer"
   | "ecology-explorer"
   | "immune-explorer"
   | "nerve-explorer"
@@ -493,7 +495,7 @@ export default function AstroBiologieK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "cell-respiration-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -822,6 +824,9 @@ export default function AstroBiologieK7Page() {
         {screen === "photosynthesis-explorer" && (
           <PhotosynthesisExplorer onDone={handleMissionDone} />
         )}
+        {screen === "cell-respiration-explorer" && (
+          <CellRespirationExplorer onDone={handleMissionDone} />
+        )}
         {screen === "ecology-explorer" && (
           <EcologyExplorer onDone={handleMissionDone} />
         )}
@@ -839,7 +844,7 @@ export default function AstroBiologieK7Page() {
     </div>
   );
 
-  const explorerScreens = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer"];
+  const explorerScreens = ["cell-explorer", "division-explorer", "photosynthesis-explorer", "cell-respiration-explorer", "ecology-explorer", "immune-explorer", "nerve-explorer", "evolution-explorer"];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
