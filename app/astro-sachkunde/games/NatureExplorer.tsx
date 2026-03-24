@@ -1,744 +1,396 @@
 "use client";
-// NatureExplorer — Island i3: Seasons & Nature (Jahreszeiten & Natur)
-// 5 rounds: Season MCQ, Plants MCQ, Season Order, Nature Sounds MCQ, Quick Review MCQ
+// NatureExplorer.tsx — Sachkunde Island i3: Seasons & Nature (K1)
+// Topics: 1) A négy évszak 2) Téli és nyári ruhák 3) Nappal és éjszaka 4) Fényforrások 5) Összefoglaló
 
-import { memo, useState, useCallback, useMemo, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+import { SeasonsSvg, LightSourcesSvg } from "@/app/astro-sachkunde/svg/k1/NatureWeatherSvg";
 
-// ─── Types ────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-interface MCQQuestion {
-  emoji: string;
-  question: string; // key into LABELS
-  choices: string[]; // language-independent keys into LABELS
-  answer: string;   // language-independent key
-}
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#E0F2FE" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-45" y="15" fontSize="45" textAnchor="middle">☀️</text>
+        <path d="M -15,0 L 15,0" stroke="#0284C7" strokeWidth="4" strokeDasharray="4 4" markerEnd="url(#arrow)" />
+        <text x="45" y="15" fontSize="45" textAnchor="middle">⛄</text>
+      </g>
+    </svg>
+  );
+});
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="45" textAnchor="middle">🌞</text>
+        <text x="40" y="15" fontSize="45" textAnchor="middle">🌙</text>
+        <circle cx="20" cy="-20" r="2" fill="#FFF" />
+        <circle cx="50" cy="-30" r="3" fill="#FFF" />
+        <circle cx="60" cy="10" r="2" fill="#FFF" />
+      </g>
+    </svg>
+  );
+});
 
-// ─── Labels (ALL user-visible text here, 4 languages) ─────────────────────────
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌳</text>
+        <text x="25" y="5" fontSize="30" textAnchor="middle">☀️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Évszakok és Természet",
+    // T1: Évszakok (Match-pairs)
+    t1_title: "A négy évszak",
+    t1_text: "Egy évben négy évszak van: tavasz, nyár, ősz és tél. Mindegyik évszak más és más, a természet folyamatosan változik.",
+    t1_b1: "Tavasszal nyílnak a virágok.",
+    t1_b2: "Nyáron nagyon meleg van, lehet fürdeni.",
+    t1_b3: "Ősszel hullanak a falevelek, télen pedig esik a hó.",
+    t1_inst: "Párosítsd az évszakot ahhoz, ami történik benne!",
+    t1_l1: "Tél ❄️", t1_r1: "Hóember építés",
+    t1_l2: "Tavasz 🌷", t1_r2: "Virágok nyílása",
+    t1_l3: "Nyár ☀️", t1_r3: "Fürdés a strandon",
+    t1_q: "Melyik évszakban hullanak le a sárga és piros falevelek?",
+    t1_q_a: "Ősszel", t1_q_b: "Tavasszal", t1_q_c: "Télen", t1_q_d: "Nyáron",
+
+    // T2: Ruhák (Drag-to-bucket)
+    t2_title: "Hideg van vagy meleg?",
+    t2_text: "Ahogy változik az időjárás, úgy kell felöltöznünk is, hogy ne fázzunk meg, vagy ne legyen túl melegünk.",
+    t2_b1: "Nyáron rövidnadrágot és pólót hordunk.",
+    t2_b2: "Télen vastag kabát, sapka és sál kell.",
+    t2_b3: "Ha esik az eső, gumicsizmát húzunk.",
+    t2_inst: "Mit mikor veszünk fel? Válogasd szét!",
+    t2_bucket_nyar: "Nyár ☀️",
+    t2_bucket_tel: "Tél ⛄",
+    t2_item_n1: "Póló", t2_item_n2: "Napszemüveg",
+    t2_item_t1: "Vastag kabát", t2_item_t2: "Kötött sapka",
+    t2_q: "Mit húzunk a lábunkra, ha nagy a sár és esik az eső?",
+    t2_q_a: "Gumicsizmát", t2_q_b: "Szandált", t2_q_c: "Zoknit", t2_q_d: "Semmit",
+
+    // T3: Nappal és éjjel (Gap-fill)
+    t3_title: "Nappal és Éjszaka",
+    t3_text: "Minden nap nappalból és éjszakából áll. Nappal világos van, éjjel pedig sötét.",
+    t3_b1: "Nappal a Nap világít az égen.",
+    t3_b2: "Éjszaka a Holdat és a csillagokat látjuk.",
+    t3_b3: "Éjszaka alszunk és pihenünk.",
+    t3_inst: "Egészítsd ki a mondatot!",
+    t3_gap_sentence: "Amikor sötét van és alszunk, olyankor az égen a {gap} világít.",
+    t3_c1: "Hold", t3_c2: "Nap", t3_c3: "felhő",
+    t3_q: "Mit csinálunk általában éjszaka?",
+    t3_q_a: "Alszunk", t3_q_b: "Iskolába megyünk", t3_q_c: "Ebédelünk", t3_q_d: "A strandon játszunk",
+
+    // T4: Fényforrások (Label-diagram)
+    t4_title: "Fény és sötétség",
+    t4_text: "Hogy lássunk a sötétben, fényre van szükségünk. Sok dolog adhat fényt a természetben és a házban is.",
+    t4_b1: "A legnagyobb természetes fényforrásunk a Nap.",
+    t4_b2: "A szobában a lámpa ad nekünk fényt.",
+    t4_b3: "Régen a tűz és a gyertya világított a sötétben.",
+    t4_inst: "Keresd meg, mik adnak fényt a képen!",
+    t4_area_sun: "Nap",
+    t4_area_lamp: "Lámpa",
+    t4_area_fire: "Tűz",
+    t4_q: "Melyik az a fényforrás, amit mi kapcsolunk fel a szobában?",
+    t4_q_a: "A lámpa", t4_q_b: "A Nap", t4_q_c: "A csillagok", t4_q_d: "A Hold",
+
+    // T5: Összefoglaló
+    t5_title: "A természet csodái",
+    t5_text: "A természet mindig gondoskodik rólunk. Fényt ad, meleget és hideget is, hogy minden élőlény jól érezze magát.",
+    t5_b1: "A Nap adja a fényt és a meleget.",
+    t5_b2: "Négy évszak váltja egymást sorban.",
+    t5_b3: "Minden évszaknak megvan a maga szépsége.",
+    t5_inst: "Melyik évszak jön a tél után?",
+    t5_gap_sentence2: "Amikor elolvad a hó, megérkezik a {gap}.",
+    t5_c51: "tavasz", t5_c52: "nyár", t5_c53: "ősz",
+    t5_q: "Ki adja nekünk a természetben a legtöbb fényt és meleget?",
+    t5_q_a: "A Nap", t5_q_b: "A Hold", t5_q_c: "A zseblámpa", t5_q_d: "A hóember",
+  },
   en: {
-    // Progress
-    next: "Next",
-    finish: "Finish",
-    correct: "Correct! ✓",
-    wrong: "Not quite — try again",
-    // Round titles & hints
-    r1Title: "Which Season?",
-    r1Hint: "Look at the clue and pick the right season.",
-    r2Title: "Plants & Trees",
-    r2Hint: "What happens to trees in this season?",
-    r3Title: "Season Order",
-    r3Hint: "Tap the four seasons in the correct order.",
-    r3InProgress: "Keep going!",
-    r3Done: "Perfect order! ✓",
-    r4Title: "Nature Sounds",
-    r4Hint: "Which animal do you hear in this season?",
-    r5Title: "Quick Review",
-    r5Hint: "Mixed questions from all rounds.",
-    // Season keys
-    spring: "Spring",
-    summer: "Summer",
-    autumn: "Autumn",
-    winter: "Winter",
-    // Season clue descriptions (question keys)
-    clue_spring: "🌸 Flowers bloom, birds return, it gets warmer. Which season?",
-    clue_summer: "☀️ Hot days, long evenings, children play outside. Which season?",
-    clue_autumn: "🍂 Leaves turn red and fall, harvest time begins. Which season?",
-    clue_winter: "❄️ Snow falls, days are short, breath is visible. Which season?",
-    // Plant/tree event keys
-    evt_leaves_fall: "Leaves fall from the trees",
-    evt_flowers_bloom: "Flowers bloom on the branches",
-    evt_snow_covers: "Snow covers the bare branches",
-    evt_fruits_grow: "Fruits ripen and grow",
-    // Plant question prompts
-    q_autumn_tree: "🍂 What happens to a deciduous tree in autumn?",
-    q_spring_tree: "🌸 What happens to trees in spring?",
-    q_winter_tree: "❄️ What happens to a tree in winter?",
-    // Nature sounds keys
-    bird: "Birds singing 🐦",
-    cricket: "Crickets chirping 🦗",
-    frog: "Frogs croaking 🐸",
-    owl: "Owls hooting 🦉",
-    // Nature sound question prompts
-    q_sound_spring: "🌿 It's spring. Which sound fills the forest at dawn?",
-    q_sound_summer: "☀️ It's a warm summer night. What do you hear outside?",
-    q_sound_autumn: "🍂 It's autumn evening. Which animal calls from the pond?",
+    explorer_title: "Seasons & Nature",
+    t1_title: "The Four Seasons", t1_text: "There are four seasons in a year: spring, summer, autumn, and winter. The nature changes in each one.",
+    t1_b1: "In spring, flowers bloom.", t1_b2: "In summer, it's very hot, we can swim.", t1_b3: "In autumn, leaves fall. In winter, it snows.",
+    t1_inst: "Match the season with what happens!",
+    t1_l1: "Winter ❄️", t1_r1: "Building a snowman",
+    t1_l2: "Spring 🌷", t1_r2: "Flowers blooming",
+    t1_l3: "Summer ☀️", t1_r3: "Swimming at the beach",
+    t1_q: "In which season do yellow and red leaves fall from trees?",
+    t1_q_a: "Autumn", t1_q_b: "Spring", t1_q_c: "Winter", t1_q_d: "Summer",
+
+    t2_title: "Hot or Cold?", t2_text: "As the weather changes, we must wear different clothes to stay warm or cool.",
+    t2_b1: "In summer, we wear t-shirts and shorts.", t2_b2: "In winter, we need a thick coat and a hat.", t2_b3: "If it rains, we put on rubber boots.",
+    t2_inst: "What do we wear when? Sort them!",
+    t2_bucket_nyar: "Summer ☀️", t2_bucket_tel: "Winter ⛄",
+    t2_item_n1: "T-shirt", t2_item_n2: "Sunglasses",
+    t2_item_t1: "Thick coat", t2_item_t2: "Knitted hat",
+    t2_q: "What do we put on our feet when it rains and is muddy?",
+    t2_q_a: "Rubber boots", t2_q_b: "Sandals", t2_q_c: "Socks", t2_q_d: "Nothing",
+
+    t3_title: "Day and Night", t3_text: "Every day has daytime and nighttime. It's bright during the day and dark at night.",
+    t3_b1: "During the day, the Sun shines.", t3_b2: "At night, we see the Moon and stars.", t3_b3: "At night, we sleep and rest.",
+    t3_inst: "Fill in the missing word!", t3_gap_sentence: "When it is dark and we sleep, the {gap} shines in the sky.",
+    t3_c1: "Moon", t3_c2: "Sun", t3_c3: "cloud",
+    t3_q: "What do we usually do at night?",
+    t3_q_a: "We sleep", t3_q_b: "We go to school", t3_q_c: "We eat lunch", t3_q_d: "We play at the beach",
+
+    t4_title: "Sources of Light", t4_text: "To see in the dark, we need light. Many things can give us light.",
+    t4_b1: "Our biggest natural light source is the Sun.", t4_b2: "In our room, a lamp gives us light.", t4_b3: "Long ago, fire and candles gave light.",
+    t4_inst: "Find what gives light in the picture!",
+    t4_area_sun: "Sun", t4_area_lamp: "Lamp", t4_area_fire: "Fire",
+    t4_q: "Which light source do we turn on in our room?",
+    t4_q_a: "The lamp", t4_q_b: "The Sun", t4_q_c: "The stars", t4_q_d: "The Moon",
+
+    t5_title: "Wonders of Nature", t5_text: "Nature always takes care of us. It gives light, warmth, and cold so every living thing is happy.",
+    t5_b1: "The Sun gives light and warmth.", t5_b2: "Four seasons follow each other.", t5_b3: "Every season is beautiful.",
+    t5_inst: "Which season comes after winter?", t5_gap_sentence2: "When the snow melts, {gap} arrives.",
+    t5_c51: "spring", t5_c52: "summer", t5_c53: "autumn",
+    t5_q: "Who gives us the most light and warmth in nature?",
+    t5_q_a: "The Sun", t5_q_b: "The Moon", t5_q_c: "A flashlight", t5_q_d: "A snowman",
   },
   de: {
-    next: "Weiter",
-    finish: "Fertig",
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz — versuch es nochmal",
-    r1Title: "Welche Jahreszeit?",
-    r1Hint: "Schau dir den Hinweis an und wähle die richtige Jahreszeit.",
-    r2Title: "Pflanzen & Bäume",
-    r2Hint: "Was passiert mit den Bäumen in dieser Jahreszeit?",
-    r3Title: "Reihenfolge der Jahreszeiten",
-    r3Hint: "Tippe die vier Jahreszeiten in der richtigen Reihenfolge.",
-    r3InProgress: "Weiter so!",
-    r3Done: "Perfekte Reihenfolge! ✓",
-    r4Title: "Naturgeräusche",
-    r4Hint: "Welches Tier hörst du in dieser Jahreszeit?",
-    r5Title: "Schnelle Wiederholung",
-    r5Hint: "Gemischte Fragen aus allen Runden.",
-    spring: "Frühling",
-    summer: "Sommer",
-    autumn: "Herbst",
-    winter: "Winter",
-    clue_spring: "🌸 Blumen blühen, Vögel kehren zurück, es wird wärmer. Welche Jahreszeit?",
-    clue_summer: "☀️ Heiße Tage, lange Abende, Kinder spielen draußen. Welche Jahreszeit?",
-    clue_autumn: "🍂 Blätter werden rot und fallen, die Ernte beginnt. Welche Jahreszeit?",
-    clue_winter: "❄️ Schnee fällt, Tage sind kurz, Atemwolken sind sichtbar. Welche Jahreszeit?",
-    evt_leaves_fall: "Blätter fallen von den Bäumen",
-    evt_flowers_bloom: "Blüten öffnen sich an den Ästen",
-    evt_snow_covers: "Schnee bedeckt die kahlen Äste",
-    evt_fruits_grow: "Früchte reifen und wachsen",
-    q_autumn_tree: "🍂 Was passiert mit einem Laubbaum im Herbst?",
-    q_spring_tree: "🌸 Was passiert mit Bäumen im Frühling?",
-    q_winter_tree: "❄️ Was passiert mit einem Baum im Winter?",
-    bird: "Vögel singen 🐦",
-    cricket: "Grillen zirpen 🦗",
-    frog: "Frösche quaken 🐸",
-    owl: "Eulen rufen 🦉",
-    q_sound_spring: "🌿 Es ist Frühling. Welches Geräusch erfüllt den Wald im Morgengrauen?",
-    q_sound_summer: "☀️ Es ist eine warme Sommernacht. Was hörst du draußen?",
-    q_sound_autumn: "🍂 Es ist ein Herbstabend. Welches Tier ruft vom Teich?",
-  },
-  hu: {
-    next: "Tovább",
-    finish: "Befejezés",
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen — próbáld újra",
-    r1Title: "Melyik évszak?",
-    r1Hint: "Nézd meg a tippet, és válaszd ki a helyes évszakot.",
-    r2Title: "Növények és fák",
-    r2Hint: "Mi történik a fákkal ebben az évszakban?",
-    r3Title: "Évszakok sorrendje",
-    r3Hint: "Koppints az évszakokra a helyes sorrendben.",
-    r3InProgress: "Csak így tovább!",
-    r3Done: "Tökéletes sorrend! ✓",
-    r4Title: "Természet hangjai",
-    r4Hint: "Melyik állatot hallod ebben az évszakban?",
-    r5Title: "Gyors összefoglalás",
-    r5Hint: "Vegyes kérdések az összes körből.",
-    spring: "Tavasz",
-    summer: "Nyár",
-    autumn: "Ősz",
-    winter: "Tél",
-    clue_spring: "🌸 Virágok nyílnak, madarak visszatérnek, melegszik az idő. Melyik évszak?",
-    clue_summer: "☀️ Forró napok, hosszú esték, gyerekek játszanak kint. Melyik évszak?",
-    clue_autumn: "🍂 A levelek elvörösödnek és lehullanak, megkezdődik az aratás. Melyik évszak?",
-    clue_winter: "❄️ Hó esik, rövidek a nappalok, látható a lehellet. Melyik évszak?",
-    evt_leaves_fall: "Lehullanak a levelek a fákról",
-    evt_flowers_bloom: "Virágok nyílnak az ágakon",
-    evt_snow_covers: "Hó takarja a csupasz ágakat",
-    evt_fruits_grow: "Gyümölcsök érnek és növekednek",
-    q_autumn_tree: "🍂 Mi történik egy lombhullató fával ősszel?",
-    q_spring_tree: "🌸 Mi történik a fákkal tavasszal?",
-    q_winter_tree: "❄️ Mi történik egy fával télen?",
-    bird: "Madarak énekelnek 🐦",
-    cricket: "Tücskök ciripelnek 🦗",
-    frog: "Békák brekegnek 🐸",
-    owl: "Baglyok huhognak 🦉",
-    q_sound_spring: "🌿 Tavasz van. Melyik hang tölti meg az erdőt hajnalban?",
-    q_sound_summer: "☀️ Meleg nyári éjszaka van. Mit hallasz odakint?",
-    q_sound_autumn: "🍂 Őszi este van. Melyik állat szól a tóból?",
+    explorer_title: "Jahreszeiten & Natur",
+    t1_title: "Die vier Jahreszeiten", t1_text: "Ein Jahr hat vier Jahreszeiten: Frühling, Sommer, Herbst und Winter. Die Natur verändert sich ständig.",
+    t1_b1: "Im Frühling blühen die Blumen.", t1_b2: "Im Sommer ist es heiß, wir können baden.", t1_b3: "Im Herbst fallen Blätter, im Winter schneit es.",
+    t1_inst: "Verbinde die Jahreszeit mit dem, was passiert!",
+    t1_l1: "Winter ❄️", t1_r1: "Schneemann bauen",
+    t1_l2: "Frühling 🌷", t1_r2: "Blumen blühen",
+    t1_l3: "Sommer ☀️", t1_r3: "Baden gehen",
+    t1_q: "In welcher Jahreszeit fallen gelbe und rote Blätter vom Baum?",
+    t1_q_a: "Im Herbst", t1_q_b: "Im Frühling", t1_q_c: "Im Winter", t1_q_d: "Im Sommer",
+
+    t2_title: "Heiß oder kalt?", t2_text: "Wenn sich das Wetter ändert, müssen wir andere Kleidung tragen, damit uns nicht kalt oder zu warm wird.",
+    t2_b1: "Im Sommer tragen wir T-Shirts und kurze Hosen.", t2_b2: "Im Winter brauchen wir dicke Jacken und Mützen.", t2_b3: "Bei Regen ziehen wir Gummistiefel an.",
+    t2_inst: "Was ziehen wir wann an? Sortiere!",
+    t2_bucket_nyar: "Sommer ☀️", t2_bucket_tel: "Winter ⛄",
+    t2_item_n1: "T-Shirt", t2_item_n2: "Sonnenbrille",
+    t2_item_t1: "Dicke Jacke", t2_item_t2: "Wollmütze",
+    t2_q: "Was ziehen wir bei Regen und Matsch an die Füße?",
+    t2_q_a: "Gummistiefel", t2_q_b: "Sandalen", t2_q_c: "Socken", t2_q_d: "Nichts",
+
+    t3_title: "Tag und Nacht", t3_text: "Jeder Tag besteht aus Tag und Nacht. Am Tag ist es hell, in der Nacht ist es dunkel.",
+    t3_b1: "Am Tag scheint die Sonne.", t3_b2: "In der Nacht sehen wir den Mond und Sterne.", t3_b3: "In der Nacht schlafen wir.",
+    t3_inst: "Ergänze das Wort!", t3_gap_sentence: "Wenn es dunkel ist und wir schlafen, leuchtet der {gap} am Himmel.",
+    t3_c1: "Mond", t3_c2: "Sonne", t3_c3: "Wolke",
+    t3_q: "Was machen wir normalerweise in der Nacht?",
+    t3_q_a: "Wir schlafen", t3_q_b: "Wir gehen in die Schule", t3_q_c: "Wir essen zu Mittag", t3_q_d: "Wir spielen am Strand",
+
+    t4_title: "Lichtquellen", t4_text: "Um im Dunkeln zu sehen, brauchen wir Licht. Viele Dinge können uns Licht geben.",
+    t4_b1: "Unsere größte Lichtquelle ist die Sonne.", t4_b2: "Im Zimmer gibt uns die Lampe Licht.", t4_b3: "Früher gaben Feuer und Kerzen Licht.",
+    t4_inst: "Finde, was auf dem Bild Licht gibt!",
+    t4_area_sun: "Sonne", t4_area_lamp: "Lampe", t4_area_fire: "Feuer",
+    t4_q: "Welche Lichtquelle schalten wir im Zimmer ein?",
+    t4_q_a: "Die Lampe", t4_q_b: "Die Sonne", t4_q_c: "Die Sterne", t4_q_d: "Den Mond",
+
+    t5_title: "Wunder der Natur", t5_text: "Die Natur sorgt immer für uns. Sie gibt Licht, Wärme und Kälte.",
+    t5_b1: "Die Sonne gibt Licht und Wärme.", t5_b2: "Vier Jahreszeiten wechseln sich ab.", t5_b3: "Jede Jahreszeit ist schön.",
+    t5_inst: "Welche Jahreszeit kommt nach dem Winter?", t5_gap_sentence2: "Wenn der Schnee schmilzt, kommt der {gap}.",
+    t5_c51: "Frühling", t5_c52: "Sommer", t5_c53: "Herbst",
+    t5_q: "Wer gibt uns am meisten Licht und Wärme?",
+    t5_q_a: "Die Sonne", t5_q_b: "Der Mond", t5_q_c: "Eine Taschenlampe", t5_q_d: "Ein Schneemann",
   },
   ro: {
-    next: "Înainte",
-    finish: "Gata",
-    correct: "Corect! ✓",
-    wrong: "Nu chiar — mai încearcă",
-    r1Title: "Care anotimp?",
-    r1Hint: "Privește indiciul și alege anotimpul corect.",
-    r2Title: "Plante și copaci",
-    r2Hint: "Ce se întâmplă cu copacii în acest anotimp?",
-    r3Title: "Ordinea anotimpurilor",
-    r3Hint: "Atinge cele patru anotimpuri în ordinea corectă.",
-    r3InProgress: "Continuă!",
-    r3Done: "Ordine perfectă! ✓",
-    r4Title: "Sunete din natură",
-    r4Hint: "Ce animal auzi în acest anotimp?",
-    r5Title: "Recapitulare rapidă",
-    r5Hint: "Întrebări mixte din toate rundele.",
-    spring: "Primăvară",
-    summer: "Vară",
-    autumn: "Toamnă",
-    winter: "Iarnă",
-    clue_spring: "🌸 Florile înfloresc, păsările se întorc, se încălzește. Care anotimp?",
-    clue_summer: "☀️ Zile calde, seri lungi, copiii se joacă afară. Care anotimp?",
-    clue_autumn: "🍂 Frunzele se înroșesc și cad, începe recolta. Care anotimp?",
-    clue_winter: "❄️ Ninge, zilele sunt scurte, respirația e vizibilă. Care anotimp?",
-    evt_leaves_fall: "Frunzele cad din copaci",
-    evt_flowers_bloom: "Florile înfloresc pe crengi",
-    evt_snow_covers: "Zăpada acoperă crengile goale",
-    evt_fruits_grow: "Fructele se coc și cresc",
-    q_autumn_tree: "🍂 Ce se întâmplă cu un copac foios toamna?",
-    q_spring_tree: "🌸 Ce se întâmplă cu copacii primăvara?",
-    q_winter_tree: "❄️ Ce se întâmplă cu un copac iarna?",
-    bird: "Păsări cântând 🐦",
-    cricket: "Greieri cântând 🦗",
-    frog: "Broaște orăcăind 🐸",
-    owl: "Bufnițe strigând 🦉",
-    q_sound_spring: "🌿 E primăvară. Ce sunet umple pădurea la răsărit?",
-    q_sound_summer: "☀️ E o noapte caldă de vară. Ce auzi afară?",
-    q_sound_autumn: "🍂 E o seară de toamnă. Ce animal se aude de la iaz?",
-  },
+    explorer_title: "Anotimpuri și Natură",
+    t1_title: "Cele patru anotimpuri", t1_text: "Un an are patru anotimpuri: primăvara, vara, toamna și iarna. Natura se schimbă mereu.",
+    t1_b1: "Primăvara înfloresc florile.", t1_b2: "Vara este cald și putem face baie.", t1_b3: "Toamna cad frunzele, iarna ninge.",
+    t1_inst: "Potrivește anotimpul cu ce se întâmplă!",
+    t1_l1: "Iarna ❄️", t1_r1: "Facem om de zăpadă",
+    t1_l2: "Primăvara 🌷", t1_r2: "Înfloresc florile",
+    t1_l3: "Vara ☀️", t1_r3: "Facem baie în mare",
+    t1_q: "În ce anotimp cad frunzele galbene și roșii?",
+    t1_q_a: "Toamna", t1_q_b: "Primăvara", t1_q_c: "Iarna", t1_q_d: "Vara",
+
+    t2_title: "Cald sau frig?", t2_text: "Când vremea se schimbă, trebuie să ne îmbrăcăm diferit ca să nu ne fie frig sau cald.",
+    t2_b1: "Vara purtăm tricou și pantaloni scurți.", t2_b2: "Iarna avem nevoie de geacă groasă și căciulă.", t2_b3: "Dacă plouă, purtăm cizme de cauciuc.",
+    t2_inst: "Ce purtăm și când? Sortează!",
+    t2_bucket_nyar: "Vara ☀️", t2_bucket_tel: "Iarna ⛄",
+    t2_item_n1: "Tricou", t2_item_n2: "Ochelari de soare",
+    t2_item_t1: "Geacă groasă", t2_item_t2: "Căciulă",
+    t2_q: "Ce încălțăm când plouă și e noroi?",
+    t2_q_a: "Cizme de cauciuc", t2_q_b: "Sandale", t2_q_c: "Șosete", t2_q_d: "Nimic",
+
+    t3_title: "Zi și Noapte", t3_text: "Fiecare zi are zi și noapte. Ziua este lumină, iar noaptea este întuneric.",
+    t3_b1: "Ziua Soarele strălucește.", t3_b2: "Noaptea vedem Luna și stelele.", t3_b3: "Noaptea dormim și ne odihnim.",
+    t3_inst: "Completează propoziția!", t3_gap_sentence: "Când e întuneric și dormim, pe cer strălucește {gap}.",
+    t3_c1: "Luna", t3_c2: "Soarele", t3_c3: "norul",
+    t3_q: "Ce facem de obicei noaptea?",
+    t3_q_a: "Dormim", t3_q_b: "Mergem la școală", t3_q_c: "Mâncăm prânzul", t3_q_d: "Ne jucăm la plajă",
+
+    t4_title: "Surse de lumină", t4_text: "Ca să vedem pe întuneric, avem nevoie de lumină. Multe lucruri pot da lumină.",
+    t4_b1: "Cea mai mare sursă de lumină este Soarele.", t4_b2: "În cameră, lampa ne dă lumină.", t4_b3: "Demult, focul și lumânarea dădeau lumină.",
+    t4_inst: "Găsește sursele de lumină în imagine!",
+    t4_area_sun: "Soare", t4_area_lamp: "Lampă", t4_area_fire: "Foc",
+    t4_q: "Ce sursă de lumină aprindem în cameră?",
+    t4_q_a: "Lampa", t4_q_b: "Soarele", t4_q_c: "Stelele", t4_q_d: "Luna",
+
+    t5_title: "Minunile Naturii", t5_text: "Natura are grijă de noi. Ne dă lumină, căldură și frig.",
+    t5_b1: "Soarele ne dă lumină și căldură.", t5_b2: "Patru anotimpuri vin unul după altul.", t5_b3: "Fiecare anotimp e frumos.",
+    t5_inst: "Ce anotimp vine după iarnă?", t5_gap_sentence2: "Când zăpada se topește, vine {gap}.",
+    t5_c51: "primăvara", t5_c52: "vara", t5_c53: "toamna",
+    t5_q: "Cine ne dă cea mai multă lumină și căldură?",
+    t5_q_a: "Soarele", t5_q_b: "Luna", t5_q_c: "Lanterna", t5_q_d: "Omul de zăpadă",
+  }
 };
 
-// ─── Helpers ──────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-function pick<T>(arr: T[]): T {
-  return arr[Math.floor(Math.random() * arr.length)];
-}
-
-// ─── Question pools ───────────────────────────────────────────────────────────
-
-// Round 1 — Seasons MCQ pool (one per season, shuffle order)
-const SEASON_CLUE_POOL: MCQQuestion[] = [
-  { emoji: "🌸", question: "clue_spring", choices: shuffle(["spring", "summer", "autumn", "winter"]), answer: "spring" },
-  { emoji: "☀️", question: "clue_summer", choices: shuffle(["spring", "summer", "autumn", "winter"]), answer: "summer" },
-  { emoji: "🍂", question: "clue_autumn", choices: shuffle(["spring", "summer", "autumn", "winter"]), answer: "autumn" },
-  { emoji: "❄️", question: "clue_winter", choices: shuffle(["spring", "summer", "autumn", "winter"]), answer: "winter" },
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <SeasonsSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "nyar", label: "t2_bucket_nyar" },
+        { id: "tel", label: "t2_bucket_tel" },
+      ],
+      items: [
+        { text: "t2_item_n1", bucketId: "nyar" },
+        { text: "t2_item_t1", bucketId: "tel" },
+        { text: "t2_item_n2", bucketId: "nyar" },
+        { text: "t2_item_t2", bucketId: "tel" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b2",
+      hint2: "t3_b1",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <LightSourcesSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "sun",  x: 20, y: 30, label: "t4_area_sun" },
+        { id: "lamp", x: 75, y: 30, label: "t4_area_lamp" },
+        { id: "fire", x: 50, y: 70, label: "t4_area_fire" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b2",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
 ];
 
-// Round 2 — Plants MCQ pool
-const PLANT_POOL: MCQQuestion[] = [
-  {
-    emoji: "🍂",
-    question: "q_autumn_tree",
-    choices: shuffle(["evt_leaves_fall", "evt_flowers_bloom", "evt_snow_covers", "evt_fruits_grow"]),
-    answer: "evt_leaves_fall",
-  },
-  {
-    emoji: "🌸",
-    question: "q_spring_tree",
-    choices: shuffle(["evt_flowers_bloom", "evt_leaves_fall", "evt_snow_covers", "evt_fruits_grow"]),
-    answer: "evt_flowers_bloom",
-  },
-  {
-    emoji: "❄️",
-    question: "q_winter_tree",
-    choices: shuffle(["evt_snow_covers", "evt_leaves_fall", "evt_flowers_bloom", "evt_fruits_grow"]),
-    answer: "evt_snow_covers",
-  },
-];
+// ─── DEF ────────────────────────────────────────────────────────────
 
-// Round 4 — Nature sounds MCQ pool
-const SOUND_POOL: MCQQuestion[] = [
-  {
-    emoji: "🌿",
-    question: "q_sound_spring",
-    choices: shuffle(["bird", "cricket", "frog", "owl"]),
-    answer: "bird",
-  },
-  {
-    emoji: "☀️",
-    question: "q_sound_summer",
-    choices: shuffle(["cricket", "bird", "frog", "owl"]),
-    answer: "cricket",
-  },
-  {
-    emoji: "🍂",
-    question: "q_sound_autumn",
-    choices: shuffle(["frog", "bird", "cricket", "owl"]),
-    answer: "frog",
-  },
-];
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🌳",
+  topics: TOPICS,
+  rounds: [],
+};
 
-// Round 5 — Quick review: pick 3 random from r1+r2+r4 pools
-function buildReviewPool(): MCQQuestion[] {
-  const all: MCQQuestion[] = [
-    ...SEASON_CLUE_POOL,
-    ...PLANT_POOL,
-    ...SOUND_POOL,
-  ];
-  return shuffle(all).slice(0, 3);
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-// ─── Sub-round state ──────────────────────────────────────────────────────────
-
-const TOTAL_ROUNDS = 5;
-
-// ─── Component ────────────────────────────────────────────────────────────────
-
-function NatureExplorer({ color, lang = "de", onDone, onClose }: Props) {
-  const t = LABELS[lang] ?? LABELS.de;
-
-  const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
-  }, [lang]);
-
-  // Randomized question lists — stable across renders
-  const r1Questions = useMemo(() => shuffle(SEASON_CLUE_POOL), []);
-  const r2Questions = useMemo(() => shuffle(PLANT_POOL), []);
-  const r4Questions = useMemo(() => shuffle(SOUND_POOL), []);
-  const r5Questions = useMemo(() => buildReviewPool(), []);
-
-  // Round index (0–4) and sub-question index within rounds that have multiple Qs
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const [subIdx, setSubIdx] = useState(0);
-
-  // Per-question answer state
-  const [selected, setSelected] = useState<string | null>(null); // language-independent key
-  const [locked, setLocked] = useState(false);
-
-  // Round 3 (season order) state
-  const seasonOrder = useMemo(() => (["spring", "summer", "autumn", "winter"] as const), []);
-  const [scrambled] = useState<string[]>(() => shuffle(["spring", "summer", "autumn", "winter"]));
-  const [tapped, setTapped] = useState<string[]>([]);
-  const [orderWrong, setOrderWrong] = useState<string | null>(null); // key that flashed wrong
-
-  // Scoring
-  const scoreRef = useRef(0);
-  const totalRef = useRef(0);
-
-  // ── helpers ─────────────────────────────────────────────────────────────────
-
-  const resetSubState = useCallback(() => {
-    setSelected(null);
-    setLocked(false);
-  }, []);
-
-  const advanceRound = useCallback(() => {
-    if (round >= TOTAL_ROUNDS - 1) {
-      onDone(scoreRef.current, totalRef.current);
-    } else {
-      setRound(r => r + 1);
-      setShowTeach(true);
-      setSubIdx(0);
-      resetSubState();
-      setTapped([]);
-      setOrderWrong(null);
-    }
-  }, [round, onDone, resetSubState]);
-
-  const advanceSub = useCallback((questions: MCQQuestion[], isLastRound = false) => {
-    if (subIdx < questions.length - 1) {
-      setSubIdx(i => i + 1);
-      resetSubState();
-    } else {
-      if (isLastRound) {
-        onDone(scoreRef.current, totalRef.current);
-      } else {
-        advanceRound();
-      }
-    }
-  }, [subIdx, advanceRound, onDone, resetSubState]);
-
-  // Handle MCQ answer tap
-  const handleSelect = useCallback((key: string, correctKey: string) => {
-    if (locked) return;
-    setSelected(key);
-    setLocked(true);
-    totalRef.current += 1;
-    if (key === correctKey) {
-      scoreRef.current += 1;
-    } else {
-      fireWrongAnswer({ question: "Nature Explorer", wrongAnswer: key, correctAnswer: correctKey, topic: "Nature Explorer", lang });
-    }
-  }, [locked, lang]);
-
-  // Handle season-order tap
-  const handleOrderTap = useCallback((key: string) => {
-    if (tapped.includes(key)) return;
-    const expected = seasonOrder[tapped.length];
-    if (key === expected) {
-      const next = [...tapped, key];
-      setTapped(next);
-      setOrderWrong(null);
-      if (next.length === 4) {
-        // count as 1 question correct
-        totalRef.current += 1;
-        scoreRef.current += 1;
-        setTimeout(() => advanceRound(), 700);
-      }
-    } else {
-      // wrong tap — flash red, count penalty
-      setOrderWrong(key);
-      totalRef.current += 1;
-      // wrong: score not incremented
-      fireWrongAnswer({ question: "Season Order", wrongAnswer: key, correctAnswer: seasonOrder[tapped.length], topic: "Nature Explorer", lang });
-      setTimeout(() => setOrderWrong(null), 600);
-    }
-  }, [tapped, seasonOrder, advanceRound]);
-
-  // ── render helpers ───────────────────────────────────────────────────────────
-
-  const renderMCQ = (
-    questions: MCQQuestion[],
-    roundTitle: string,
-    roundHint: string,
-    isLastRound = false,
-  ) => {
-    const q = questions[subIdx];
-    const isCorrect = locked && selected === q.answer;
-    const subTotal = questions.length;
-
-    return (
-      <>
-        {/* Sub-progress */}
-        {subTotal > 1 && (
-          <div className="flex gap-1 justify-center mb-1">
-            {Array.from({ length: subTotal }, (_, i) => (
-              <div key={i} className="w-2 h-2 rounded-full transition-colors"
-                style={{
-                  background: i < subIdx ? "#00FF88" : i === subIdx ? color : "rgba(255,255,255,0.15)",
-                }} />
-            ))}
-          </div>
-        )}
-
-        <p className="text-xl font-black text-white text-center">{roundTitle}</p>
-        <p className="text-white/60 text-xs font-bold text-center px-4">{roundHint}</p>
-
-        {/* Question card */}
-        <div className="w-full max-w-xs rounded-2xl px-4 py-4 text-center"
-          style={{ background: "rgba(255,255,255,0.06)", border: `1.5px solid ${color}33` }}>
-          <p className="text-base font-semibold text-white/90 leading-snug">{t[q.question]}</p>
-        </div>
-
-        {/* Choices */}
-        <div className="flex flex-col gap-2 w-full max-w-xs">
-          {q.choices.map(choiceKey => {
-            const isThis = selected === choiceKey;
-            const isRight = choiceKey === q.answer;
-            let bg = "rgba(255,255,255,0.06)";
-            let border = "rgba(255,255,255,0.1)";
-            let textColor = "text-white";
-            if (locked) {
-              if (isRight) { bg = `${color}33`; border = color; }
-              else if (isThis && !isRight) { bg = "#FF2D7833"; border = "#FF2D78"; textColor = "text-white/70"; }
-            } else if (isThis) {
-              bg = `${color}22`; border = color;
-            }
-            return (
-              <motion.button
-                key={choiceKey}
-                onClick={() => handleSelect(choiceKey, q.answer)}
-                disabled={locked}
-                className={`w-full py-3 px-4 rounded-xl font-bold text-sm transition-all ${textColor}`}
-                style={{ background: bg, border: `2px solid ${border}` }}
-                whileTap={locked ? {} : { scale: 0.97 }}
-              >
-                {t[choiceKey]}
-              </motion.button>
-            );
-          })}
-        </div>
-
-        {/* Feedback */}
-        {locked && (
-          <motion.p
-            initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-            className="text-sm font-bold text-center"
-            style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}
-          >
-            {isCorrect ? t.correct : t.wrong}
-          </motion.p>
-        )}
-
-        {/* Next button */}
-        {locked && renderNext(() => advanceSub(questions, isLastRound), isLastRound && subIdx === subTotal - 1)}
-      </>
-    );
-  };
-
-  const renderNext = (onNext: () => void, isFinish = false) => (
-    <motion.button
-      onClick={onNext}
-      className="w-full max-w-xs py-3 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}
-      initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
-    >
-      {isFinish ? t.finish : t.next} <ChevronRight size={16} />
-    </motion.button>
-  );
-
-  // ── Season order round ────────────────────────────────────────────────────────
-
-  const renderOrderRound = () => {
-    const allDone = tapped.length === 4;
-    return (
-      <>
-        <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
-        <p className="text-white/60 text-xs font-bold text-center px-4">{t.r3Hint}</p>
-
-        {/* Tapped so far — show as chips */}
-        <div className="flex gap-2 flex-wrap justify-center min-h-[2rem]">
-          {tapped.map((k, i) => (
-            <motion.span
-              key={k}
-              initial={{ scale: 0.7, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
-              className="px-3 py-1 rounded-full text-xs font-black text-white"
-              style={{ background: `${color}55`, border: `1.5px solid ${color}` }}
-            >
-              {i + 1}. {t[k]}
-            </motion.span>
-          ))}
-        </div>
-
-        {/* Status line */}
-        <p className="text-xs font-bold text-center"
-          style={{ color: allDone ? "#00FF88" : "rgba(255,255,255,0.4)" }}>
-          {allDone ? t.r3Done : t.r3InProgress}
-        </p>
-
-        {/* Scrambled buttons — NO pre-labeled numbers */}
-        <div className="flex flex-col gap-2 w-full max-w-xs">
-          {scrambled.map(key => {
-            const done = tapped.includes(key);
-            const isWrong = orderWrong === key;
-            let bg = done ? `${color}22` : "rgba(255,255,255,0.06)";
-            let border = done ? color : isWrong ? "#FF2D78" : "rgba(255,255,255,0.1)";
-            let opacity = done ? 0.45 : 1;
-            return (
-              <motion.button
-                key={key}
-                onClick={() => handleOrderTap(key)}
-                disabled={done}
-                className="w-full py-3 px-4 rounded-xl font-bold text-sm text-white transition-all"
-                style={{ background: bg, border: `2px solid ${border}`, opacity }}
-                animate={isWrong ? { x: [-6, 6, -4, 4, 0] } : {}}
-                transition={{ duration: 0.35 }}
-                whileTap={done ? {} : { scale: 0.97 }}
-              >
-                {t[key]}
-              </motion.button>
-            );
-          })}
-        </div>
-      </>
-    );
-  };
-
-  // ── Main render ───────────────────────────────────────────────────────────────
-
+const NatureExplorer = memo(function NatureExplorer({
+  color = "#84CC16", // Lime zöld a természethez
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-      {/* Round progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-2">
-        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-          <div key={i} className="w-2.5 h-2.5 rounded-full transition-colors"
-            style={{
-              background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.15)",
-            }} />
-        ))}
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={`${round}-${subIdx}`}
-          initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
-        >
-          {round === 0 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{t.r1Title}</p>
-                    <button onClick={() => speak(t.r1Title + ". " + t.r1Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{t.r1Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {t.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-xl font-black text-white text-center">{t.r1Title}</p>
-                    <button onClick={() => speak(t.r1Title + ". " + t.r1Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  {renderMCQ(r1Questions, t.r1Title, t.r1Hint)}
-                </>
-              )}
-            </>
-          )}
-          {round === 1 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{t.r2Title}</p>
-                    <button onClick={() => speak(t.r2Title + ". " + t.r2Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{t.r2Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {t.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-xl font-black text-white text-center">{t.r2Title}</p>
-                    <button onClick={() => speak(t.r2Title + ". " + t.r2Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  {renderMCQ(r2Questions, t.r2Title, t.r2Hint)}
-                </>
-              )}
-            </>
-          )}
-          {round === 2 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
-                    <button onClick={() => speak(t.r3Title + ". " + t.r3Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{t.r3Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {t.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-xl font-black text-white text-center">{t.r3Title}</p>
-                    <button onClick={() => speak(t.r3Title + ". " + t.r3Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  {renderOrderRound()}
-                </>
-              )}
-            </>
-          )}
-          {round === 3 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{t.r4Title}</p>
-                    <button onClick={() => speak(t.r4Title + ". " + t.r4Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{t.r4Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {t.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-xl font-black text-white text-center">{t.r4Title}</p>
-                    <button onClick={() => speak(t.r4Title + ". " + t.r4Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  {renderMCQ(r4Questions, t.r4Title, t.r4Hint)}
-                </>
-              )}
-            </>
-          )}
-          {round === 4 && (
-            <>
-              {showTeach ? (
-                <div className="flex flex-col items-center gap-4 w-full">
-                  <div className="flex items-center gap-2 justify-center">
-                    <p className="text-xl font-black text-white text-center">{t.r5Title}</p>
-                    <button onClick={() => speak(t.r5Title + ". " + t.r5Teach)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                    <p className="text-sm text-white/80 leading-relaxed">{t.r5Teach}</p>
-                  </div>
-                  <motion.button onClick={() => setShowTeach(false)}
-                    className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                    whileTap={{ scale: 0.97 }}>
-                    {t.gotIt} <ChevronRight size={16} />
-                  </motion.button>
-                </div>
-              ) : (
-                <>
-                  <div className="flex items-center gap-2">
-                    <p className="text-xl font-black text-white text-center">{t.r5Title}</p>
-                    <button onClick={() => speak(t.r5Title + ". " + t.r5Hint)}
-                      className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                      <Volume2 size={16} />
-                    </button>
-                  </div>
-                  {renderMCQ(r5Questions, t.r5Title, t.r5Hint, true)}
-                </>
-              )}
-            </>
-          )}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_nature" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-export default memo(NatureExplorer);
+export default NatureExplorer;

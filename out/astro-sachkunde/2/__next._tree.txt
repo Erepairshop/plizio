@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/07ww144e7~lj4.css","style"]
+:HL["/_next/static/chunks/0e_.8v88qhv.0.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"astro-sachkunde","param":null,"prefetchHints":0,"slots":{"children":{"name":"2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"T0URO38JOITRgoml-pgtu"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"astro-sachkunde","param":null,"prefetchHints":0,"slots":{"children":{"name":"2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xUI-6q7B2F9-rxEcAyE_j"}

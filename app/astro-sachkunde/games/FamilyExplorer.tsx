@@ -1,759 +1,398 @@
 "use client";
-import { memo, useState, useCallback, useMemo, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2 } from "lucide-react";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+// FamilyExplorer.tsx — Sachkunde Island i5: Family & Home (K1)
+// Topics: 1) A családtagok 2) Szobák a házban 3) Segítünk otthon 4) Reggeli készülődés 5) Összefoglaló
 
-// ─── Interface ───────────────────────────────────────────────────────────────
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+import { FamilyTreeSvg, HouseRoomsSvg } from "@/app/astro-sachkunde/svg/k2/EverydayLifeSvg";
 
-// ─── LABELS (ALL text, 4 languages) ─────────────────────────────────────────
-const LABELS = {
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="45" textAnchor="middle">🧸</text>
+        <path d="M -10,0 L 10,0" stroke="#16A34A" strokeWidth="4" markerEnd="url(#arrow)" />
+        <text x="40" y="15" fontSize="45" textAnchor="middle">📦</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#EFF6FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-60" y="15" fontSize="40" textAnchor="middle">🛏️</text>
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🪥</text>
+        <text x="60" y="15" fontSize="40" textAnchor="middle">🎒</text>
+        <path d="M -30,0 L -20,0 M 20,0 L 30,0" stroke="#3B82F6" strokeWidth="3" markerEnd="url(#arrow)" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">👨‍👩‍👧‍👦</text>
+        <text x="25" y="5" fontSize="30" textAnchor="middle">❤️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Család és Otthon",
+    // T1: Család (Match-pairs)
+    t1_title: "A családom",
+    t1_text: "A családunk azokból az emberekből áll, akik a legjobban szeretnek minket. Együtt élünk, vagy gyakran meglátogatjuk egymást.",
+    t1_b1: "Anya és apa a szüleink.",
+    t1_b2: "A testvérünk lehet lány (húg, nővér) vagy fiú (öccs, báty).",
+    t1_b3: "A nagyszülők (nagyi és nagypapa) anya és apa szülei.",
+    t1_inst: "Párosítsd össze a családtagokat!",
+    t1_l1: "Anya és Apa", t1_r1: "A szüleim 👩‍❤️‍👨",
+    t1_l2: "Nagymama", t1_r2: "Anya vagy apa anyukája 👵",
+    t1_l3: "Testvér", t1_r3: "Velem együtt nő fel 👧👦",
+    t1_q: "Kik a nagyszüleink?",
+    t1_q_a: "A szüleink szülei", t1_q_b: "A szomszédok", t1_q_c: "Az osztálytársak", t1_q_d: "A tanító nénik",
+
+    // T2: Szobák (Label-diagram)
+    t2_title: "Szobák a házban",
+    t2_text: "Az otthonunkban különböző szobák vannak. Minden szobát másra használunk.",
+    t2_b1: "A konyhában főzünk és eszünk.",
+    t2_b2: "A fürdőszobában mosdunk meg.",
+    t2_b3: "A hálószobában alszunk és pihenünk.",
+    t2_inst: "Keresd meg, melyik szoba hol van a házban!",
+    t2_area_kitchen: "Konyha",
+    t2_area_bedroom: "Hálószoba",
+    t2_area_bathroom: "Fürdőszoba",
+    t2_area_livingroom: "Nappali",
+    t2_q: "Melyik szobában van a hűtőszekrény és a tűzhely?",
+    t2_q_a: "A konyhában", t2_q_b: "A fürdőszobában", t2_q_c: "A hálószobában", t2_q_d: "A gyerekszobában",
+
+    // T3: Segítés (Drag-to-bucket)
+    t3_title: "Segítünk otthon",
+    t3_text: "Otthon mindenki segít egy kicsit, hogy szép tiszta és rendes legyen a ház. Te is tudsz segíteni!",
+    t3_b1: "Elpakolhatod a játékaidat, ha már nem játszol velük.",
+    t3_b2: "Segíthetsz megteríteni az asztalt.",
+    t3_b3: "Ha rendet tartunk, sokkal jobb otthon lenni.",
+    t3_inst: "Melyik jó dolog és melyik nem? Válogasd szét!",
+    t3_bucket_jo: "Jó dolog (Segítség) 👍",
+    t3_bucket_rossz: "Nem jó dolog 👎",
+    t3_item_j1: "Játékok elpakolása", t3_item_j2: "Asztal megterítése",
+    t3_item_r1: "Ruhák szétdobálása", t3_item_r2: "Morzsázás a szőnyegen",
+    t3_q: "Mit csinálj a játékaiddal, miután befejezted a játékot?",
+    t3_q_a: "Elpakolom a helyükre", t3_q_b: "A földön hagyom őket", t3_q_c: "Kidobom őket", t3_q_d: "Elrejtem az ágy alá",
+
+    // T4: Reggeli rutin (Word-order)
+    t4_title: "Reggeli készülődés",
+    t4_text: "Minden reggel ugyanazokat a dolgokat csináljuk, hogy időben elkészüljünk az iskolába.",
+    t4_b1: "Először felébredünk és kikelünk az ágyból.",
+    t4_b2: "Aztán megmossuk az arcunkat és a fogunkat.",
+    t4_b3: "Felöltözünk, megreggelizünk, és indulunk!",
+    t4_inst: "Tedd sorba a reggeli teendőket!",
+    t4_w1: "Felkelés", t4_w2: "Fogmosás", t4_w3: "Öltözködés", t4_w4: "Indulás a suliba",
+    t4_q: "Mit csinálunk rögtön azután, hogy felkeltünk az ágyból?",
+    t4_q_a: "Megmosakszunk és fogat mosunk", t4_q_b: "Megyünk aludni", t4_q_c: "Tévét nézünk", t4_q_d: "Hazajövünk a suliból",
+
+    // T5: Összefoglaló
+    t5_title: "Az én otthonom",
+    t5_text: "A családunk és az otthonunk nagyon fontos. Itt érezzük magunkat a legnagyobb biztonságban.",
+    t5_b1: "A családdal jó együtt lenni.",
+    t5_b2: "Minden szobának megvan a maga célja.",
+    t5_b3: "Vigyázzunk a rendre otthon!",
+    t5_inst: "Kikkel élünk együtt az otthonunkban?",
+    t5_gap_sentence2: "Otthon a {gap} élünk együtt, akik nagyon szeretnek minket.",
+    t5_c51: "családunkkal", t5_c52: "szomszédokkal", t5_c53: "mókusokkal",
+    t5_q: "Miért fontos a család?",
+    t5_q_a: "Mert szeretjük és segítjük egymást", t5_q_b: "Hogy legyen kivel veszekedni", t5_q_c: "Mert mindenki egyforma", t5_q_d: "Nincs semmi haszna",
+  },
   en: {
-    // Round titles & hints
-    r1Title: "Family Members",
-    r1Hint: "Who is this? Pick the right family member.",
-    r1Teach: "A family has many members! Mother, father, brothers, sisters, grandparents, aunts, uncles, and cousins. Every family is different and special.",
-    r2Title: "Family Relationships",
-    r2Hint: "Choose the correct answer.",
-    r2Teach: "Your mother's mother is your grandmother. Your father's brother is your uncle. Your aunt's children are your cousins. These are family relationships!",
-    r3Title: "Polite or Rude?",
-    r3Hint: "Is this behavior polite or rude?",
-    r3Teach: "Good manners are important! We say 'please' when asking, 'thank you' when receiving, 'sorry' when we make a mistake, and 'excuse me' when we interrupt.",
-    r4Title: "Where Does It Happen?",
-    r4Hint: "Where do we do this? Pick the right room.",
-    r4Teach: "A home has different rooms! The kitchen is for cooking, the bedroom for sleeping, the bathroom for washing, and the living room for relaxing together.",
-    r5Title: "Quick Review",
-    r5Hint: "Answer the question.",
-    r5Teach: "Let's review what you learned about family, manners, and home!",
-    gotIt: "Got it! →",
-    // Family member names (keys used as answer values)
-    mother: "Mother",
-    father: "Father",
-    sister: "Sister",
-    brother: "Brother",
-    grandma: "Grandma",
-    grandpa: "Grandpa",
-    aunt: "Aunt",
-    uncle: "Uncle",
-    // Polite/Rude labels
-    polite: "Polite",
-    rude: "Rude",
-    // Room names
-    kitchen: "Kitchen",
-    bedroom: "Bedroom",
-    livingRoom: "Living Room",
-    bathroom: "Bathroom",
-    // Round 1 — who is this? descriptions
-    descMother: "She takes care of you at home and is your female parent.",
-    descFather: "He goes to work and is your male parent.",
-    descSister: "She lives with you and is a girl in your family.",
-    descBrother: "He lives with you and is a boy in your family.",
-    descGrandma: "She is your mother's or father's mother.",
-    descGrandpa: "He is your mother's or father's father.",
-    // Round 2 — relationship questions
-    relQ1: "Your mother's mother is your…",
-    relQ2: "Your father's brother is your…",
-    relQ3: "Your parents' daughter is your…",
-    relA1Correct: "Grandma",
-    relA1W1: "Aunt",
-    relA1W2: "Sister",
-    relA2Correct: "Uncle",
-    relA2W1: "Grandpa",
-    relA2W2: "Brother",
-    relA3Correct: "Sister",
-    relA3W1: "Grandma",
-    relA3W2: "Mother",
-    // Round 3 — polite behaviors (key = "polite" or "rude")
-    bhv1Text: "You say 'please' when asking for something.",
-    bhv1Answer: "polite",
-    bhv2Text: "You interrupt someone while they are talking.",
-    bhv2Answer: "rude",
-    bhv3Text: "You share your toys with a friend.",
-    bhv3Answer: "polite",
-    bhv4Text: "You leave a big mess and don't clean it up.",
-    bhv4Answer: "rude",
-    bhv5Text: "You hold the door open for someone.",
-    bhv5Answer: "polite",
-    bhv6Text: "You shout and scream inside the house.",
-    bhv6Answer: "rude",
-    // Round 4 — room questions
-    roomQ1: "Where do we cook food?",
-    roomA1: "kitchen",
-    roomQ2: "Where do we sleep at night?",
-    roomA2: "bedroom",
-    roomQ3: "Where do we watch TV together?",
-    roomA3: "livingRoom",
-    roomQ4: "Where do we take a bath or shower?",
-    roomA4: "bathroom",
-    // Feedback
-    correct: "Correct!",
-    wrong: "Not quite!",
-    next: "Next",
-    finish: "Finish",
+    explorer_title: "Family & Home",
+    t1_title: "My Family", t1_text: "Our family is made up of people who love us the most. We live together or visit each other.",
+    t1_b1: "Mom and Dad are our parents.", t1_b2: "Our siblings can be sisters or brothers.", t1_b3: "Grandparents (grandma and grandpa) are our parents' parents.",
+    t1_inst: "Match the family members!",
+    t1_l1: "Mom and Dad", t1_r1: "My parents 👩‍❤️‍👨",
+    t1_l2: "Grandma", t1_r2: "Mom or Dad's mother 👵",
+    t1_l3: "Sibling", t1_r3: "Grows up with me 👧👦",
+    t1_q: "Who are our grandparents?",
+    t1_q_a: "Our parents' parents", t1_q_b: "The neighbors", t1_q_c: "Classmates", t1_q_d: "The teachers",
+
+    t2_title: "Rooms in the House", t2_text: "There are different rooms in our home. We use each room for something else.",
+    t2_b1: "We cook and eat in the kitchen.", t2_b2: "We wash in the bathroom.", t2_b3: "We sleep and rest in the bedroom.",
+    t2_inst: "Find where the rooms are in the house!",
+    t2_area_kitchen: "Kitchen", t2_area_bedroom: "Bedroom", t2_area_bathroom: "Bathroom", t2_area_livingroom: "Living room",
+    t2_q: "In which room is the fridge and the stove?",
+    t2_q_a: "In the kitchen", t2_q_b: "In the bathroom", t2_q_c: "In the bedroom", t2_q_d: "In the kid's room",
+
+    t3_title: "Helping at Home", t3_text: "Everyone helps a little at home to keep the house clean and tidy. You can help too!",
+    t3_b1: "You can pack away your toys when you are done playing.", t3_b2: "You can help set the table.", t3_b3: "If we keep it tidy, it's much better to be home.",
+    t3_inst: "Which is a good thing and which is not? Sort them!",
+    t3_bucket_jo: "Good thing (Helping) 👍", t3_bucket_rossz: "Not a good thing 👎",
+    t3_item_j1: "Packing away toys", t3_item_j2: "Setting the table",
+    t3_item_r1: "Throwing clothes around", t3_item_r2: "Making crumbs on the rug",
+    t3_q: "What should you do with your toys after playing?",
+    t3_q_a: "Pack them away", t3_q_b: "Leave them on the floor", t3_q_c: "Throw them away", t3_q_d: "Hide them under the bed",
+
+    t4_title: "Morning Routine", t4_text: "Every morning we do the same things to get ready for school on time.",
+    t4_b1: "First, we wake up and get out of bed.", t4_b2: "Then we wash our face and brush our teeth.", t4_b3: "We get dressed, eat breakfast, and go!",
+    t4_inst: "Put the morning tasks in order!",
+    t4_w1: "Waking up", t4_w2: "Brushing teeth", t4_w3: "Getting dressed", t4_w4: "Going to school",
+    t4_q: "What do we do right after we get out of bed?",
+    t4_q_a: "Wash and brush our teeth", t4_q_b: "Go to sleep", t4_q_c: "Watch TV", t4_q_d: "Come home from school",
+
+    t5_title: "My Home", t5_text: "Our family and home are very important. This is where we feel the safest.",
+    t5_b1: "It's good to be with family.", t5_b2: "Every room has its purpose.", t5_b3: "Let's keep our home tidy!",
+    t5_inst: "Who do we live with in our home?",
+    t5_gap_sentence2: "At home we live with our {gap}, who love us very much.",
+    t5_c51: "family", t5_c52: "neighbors", t5_c53: "squirrels",
+    t5_q: "Why is family important?",
+    t5_q_a: "Because we love and help each other", t5_q_b: "To have someone to argue with", t5_q_c: "Because everyone is exactly the same", t5_q_d: "It has no use",
   },
   de: {
-    r1Title: "Familienmitglieder",
-    r1Hint: "Wer ist das? Wähle das richtige Familienmitglied.",
-    r1Teach: "Eine Familie hat viele Mitglieder! Mutter, Vater, Brüder, Schwestern, Großeltern, Tanten, Onkel und Cousins/Cousinen. Jede Familie ist unterschiedlich und besonders.",
-    r2Title: "Verwandtschaft",
-    r2Hint: "Wähle die richtige Antwort.",
-    r2Teach: "Die Mutter deiner Mutter ist deine Großmutter. Der Bruder deines Vaters ist dein Onkel. Die Kinder deiner Tante sind deine Cousins/Cousinen. Das sind Verwandtschaftsbeziehungen!",
-    r3Title: "Höflich oder unhöflich?",
-    r3Hint: "Ist dieses Verhalten höflich oder unhöflich?",
-    r3Teach: "Gute Manieren sind wichtig! Wir sagen 'bitte' beim Fragen, 'danke' beim Bekommen, 'entschuldigung' bei einem Fehler und 'Entschuldigung' wenn wir unterbrechen.",
-    r4Title: "Wo passiert das?",
-    r4Hint: "Wo machen wir das? Wähle das richtige Zimmer.",
-    r4Teach: "Ein Zuhause hat verschiedene Zimmer! Die Küche ist zum Kochen, das Schlafzimmer zum Schlafen, das Badezimmer zum Waschen und das Wohnzimmer zum gemeinsamen Entspannen.",
-    r5Title: "Schnelle Wiederholung",
-    r5Hint: "Beantworte die Frage.",
-    r5Teach: "Lass uns zusammenfassen, was du über Familie, Manieren und Zuhause gelernt hast!",
-    gotIt: "Verstanden! →",
-    mother: "Mutter",
-    father: "Vater",
-    sister: "Schwester",
-    brother: "Bruder",
-    grandma: "Oma",
-    grandpa: "Opa",
-    aunt: "Tante",
-    uncle: "Onkel",
-    polite: "Höflich",
-    rude: "Unhöflich",
-    kitchen: "Küche",
-    bedroom: "Schlafzimmer",
-    livingRoom: "Wohnzimmer",
-    bathroom: "Badezimmer",
-    descMother: "Sie kümmert sich um dich und ist dein weiblicher Elternteil.",
-    descFather: "Er geht arbeiten und ist dein männlicher Elternteil.",
-    descSister: "Sie wohnt bei dir und ist ein Mädchen in deiner Familie.",
-    descBrother: "Er wohnt bei dir und ist ein Junge in deiner Familie.",
-    descGrandma: "Sie ist die Mutter von deiner Mama oder deinem Papa.",
-    descGrandpa: "Er ist der Vater von deiner Mama oder deinem Papa.",
-    relQ1: "Die Mutter deiner Mutter ist deine…",
-    relQ2: "Der Bruder deines Vaters ist dein…",
-    relQ3: "Die Tochter deiner Eltern ist deine…",
-    relA1Correct: "Oma",
-    relA1W1: "Tante",
-    relA1W2: "Schwester",
-    relA2Correct: "Onkel",
-    relA2W1: "Opa",
-    relA2W2: "Bruder",
-    relA3Correct: "Schwester",
-    relA3W1: "Oma",
-    relA3W2: "Mutter",
-    bhv1Text: "Du sagst 'bitte', wenn du um etwas bittest.",
-    bhv1Answer: "polite",
-    bhv2Text: "Du unterbrichst jemanden beim Reden.",
-    bhv2Answer: "rude",
-    bhv3Text: "Du teilst dein Spielzeug mit einem Freund.",
-    bhv3Answer: "polite",
-    bhv4Text: "Du hinterlässt Unordnung und räumst nicht auf.",
-    bhv4Answer: "rude",
-    bhv5Text: "Du hältst jemandem die Tür auf.",
-    bhv5Answer: "polite",
-    bhv6Text: "Du schreist und tobst im Haus.",
-    bhv6Answer: "rude",
-    roomQ1: "Wo kochen wir das Essen?",
-    roomA1: "kitchen",
-    roomQ2: "Wo schlafen wir nachts?",
-    roomA2: "bedroom",
-    roomQ3: "Wo schauen wir zusammen fern?",
-    roomA3: "livingRoom",
-    roomQ4: "Wo duschen oder baden wir?",
-    roomA4: "bathroom",
-    correct: "Richtig!",
-    wrong: "Nicht ganz!",
-    next: "Weiter",
-    finish: "Fertig",
-  },
-  hu: {
-    r1Title: "Családtagok",
-    r1Hint: "Ki ez? Válaszd a helyes családtagot!",
-    r1Teach: "Egy családnak sok tagja van! Anya, apa, testvérek, nagyszülők, nagynénik, nagybácsik és unokatestvérek. Minden család különböző és különleges.",
-    r2Title: "Rokoni kapcsolatok",
-    r2Hint: "Válaszd a helyes választ!",
-    r2Teach: "Az anyád anyja a nagymamád. Az apád fivére a nagybácsid. A nagynénid gyermekei az unokatestvéreid. Ezek a rokoni kapcsolatok!",
-    r3Title: "Udvarias vagy durva?",
-    r3Hint: "Ez a viselkedés udvarias vagy durva?",
-    r3Teach: "A jó mód fontos! Azt mondjuk 'kérem' ha kérünk, 'köszönöm' ha kapunk, 'elnézést' ha hibázunk és 'elnézést' ha félbeszakítunk.",
-    r4Title: "Hol történik?",
-    r4Hint: "Hol tesszük ezt? Válaszd a helyes szobát!",
-    r4Teach: "Az otthonnak különböző szobái vannak! A konyha a főzéshez, a hálószoba az alváshoz, a fürdőszoba a mosáshoz és a nappali a közös pihenéshez.",
-    r5Title: "Gyors ismétlés",
-    r5Hint: "Válaszolj a kérdésre!",
-    r5Teach: "Nézzük meg, mit tanultál a családról, a jó modorról és az otthonról!",
-    gotIt: "Értettem! →",
-    mother: "Anya",
-    father: "Apa",
-    sister: "Nővér",
-    brother: "Testvér (fiú)",
-    grandma: "Nagymama",
-    grandpa: "Nagypapa",
-    aunt: "Nagynéni",
-    uncle: "Nagybácsi",
-    polite: "Udvarias",
-    rude: "Durva",
-    kitchen: "Konyha",
-    bedroom: "Hálószoba",
-    livingRoom: "Nappali",
-    bathroom: "Fürdőszoba",
-    descMother: "Ő gondoskodik rólad otthon, és a te édesanyád.",
-    descFather: "Ő dolgozni jár és a te édesapád.",
-    descSister: "Veled él és lány a családban.",
-    descBrother: "Veled él és fiú a családban.",
-    descGrandma: "Ő az édesanyád vagy édesapád édesanyja.",
-    descGrandpa: "Ő az édesanyád vagy édesapád édesapja.",
-    relQ1: "Az édesanyád anyja a te…",
-    relQ2: "Az édesapád fivére a te…",
-    relQ3: "A szüleid lánya a te…",
-    relA1Correct: "Nagymamád",
-    relA1W1: "Nagynénid",
-    relA1W2: "Nővéred",
-    relA2Correct: "Nagybácsid",
-    relA2W1: "Nagypapád",
-    relA2W2: "Fivéred",
-    relA3Correct: "Nővéred",
-    relA3W1: "Nagymamád",
-    relA3W2: "Édesanyád",
-    bhv1Text: "Azt mondod: 'kérem', amikor kérsz valamit.",
-    bhv1Answer: "polite",
-    bhv2Text: "Félbeszakítod, amikor valaki éppen beszél.",
-    bhv2Answer: "rude",
-    bhv3Text: "Megosztod a játékaidat a barátaiddal.",
-    bhv3Answer: "polite",
-    bhv4Text: "Nagy rendetlenséget hagysz magad után és nem takarítod fel.",
-    bhv4Answer: "rude",
-    bhv5Text: "Kinyitod és tartod az ajtót valakinek.",
-    bhv5Answer: "polite",
-    bhv6Text: "Kiabálsz és lármázol a házban.",
-    bhv6Answer: "rude",
-    roomQ1: "Hol főzzük az ételt?",
-    roomA1: "kitchen",
-    roomQ2: "Hol alszunk éjszaka?",
-    roomA2: "bedroom",
-    roomQ3: "Hol nézünk együtt tévét?",
-    roomA3: "livingRoom",
-    roomQ4: "Hol fürödünk vagy zuhanyozunk?",
-    roomA4: "bathroom",
-    correct: "Helyes!",
-    wrong: "Nem egészen!",
-    next: "Tovább",
-    finish: "Kész",
+    explorer_title: "Familie & Zuhause",
+    t1_title: "Meine Familie", t1_text: "Unsere Familie besteht aus den Menschen, die uns am meisten lieben. Wir leben zusammen.",
+    t1_b1: "Mama und Papa sind unsere Eltern.", t1_b2: "Wir können Schwestern oder Brüder haben.", t1_b3: "Die Großeltern (Oma und Opa) sind die Eltern von Mama und Papa.",
+    t1_inst: "Verbinde die Familienmitglieder!",
+    t1_l1: "Mama und Papa", t1_r1: "Meine Eltern 👩‍❤️‍👨",
+    t1_l2: "Oma", t1_r2: "Mamas oder Papas Mama 👵",
+    t1_l3: "Geschwister", t1_r3: "Wachsen mit mir auf 👧👦",
+    t1_q: "Wer sind unsere Großeltern?",
+    t1_q_a: "Die Eltern unserer Eltern", t1_q_b: "Die Nachbarn", t1_q_c: "Die Mitschüler", t1_q_d: "Die Lehrer",
+
+    t2_title: "Zimmer im Haus", t2_text: "In unserem Zuhause gibt es verschiedene Zimmer. Jedes Zimmer wird für etwas anderes genutzt.",
+    t2_b1: "In der Küche kochen und essen wir.", t2_b2: "Im Badezimmer waschen wir uns.", t2_b3: "Im Schlafzimmer schlafen wir.",
+    t2_inst: "Zeige, wo die Zimmer im Haus sind!",
+    t2_area_kitchen: "Küche", t2_area_bedroom: "Schlafzimmer", t2_area_bathroom: "Badezimmer", t2_area_livingroom: "Wohnzimmer",
+    t2_q: "In welchem Zimmer stehen der Kühlschrank und der Herd?",
+    t2_q_a: "In der Küche", t2_q_b: "Im Badezimmer", t2_q_c: "Im Schlafzimmer", t2_q_d: "Im Kinderzimmer",
+
+    t3_title: "Wir helfen zu Hause", t3_text: "Jeder hilft zu Hause ein bisschen mit, damit es schön sauber und ordentlich ist.",
+    t3_b1: "Du kannst deine Spielsachen aufräumen.", t3_b2: "Du kannst beim Tischdecken helfen.", t3_b3: "Wenn wir aufräumen, ist es viel schöner zu Hause.",
+    t3_inst: "Was ist gut und was nicht? Sortiere!",
+    t3_bucket_jo: "Gute Sache (Helfen) 👍", t3_bucket_rossz: "Nicht gut 👎",
+    t3_item_j1: "Spielzeug aufräumen", t3_item_j2: "Tisch decken",
+    t3_item_r1: "Kleidung herumwerfen", t3_item_r2: "Auf den Teppich krümeln",
+    t3_q: "Was machst du mit dem Spielzeug, wenn du fertig bist?",
+    t3_q_a: "Ich räume es auf", t3_q_b: "Ich lasse es auf dem Boden", t3_q_c: "Ich werfe es weg", t3_q_d: "Ich verstecke es",
+
+    t4_title: "Am Morgen", t4_text: "Jeden Morgen machen wir dasselbe, um pünktlich zur Schule zu kommen.",
+    t4_b1: "Zuerst wachen wir auf und stehen auf.", t4_b2: "Dann waschen wir unser Gesicht und putzen die Zähne.", t4_b3: "Wir ziehen uns an, frühstücken und gehen los!",
+    t4_inst: "Bringe die Aufgaben in die richtige Reihenfolge!",
+    t4_w1: "Aufwachen", t4_w2: "Zähne putzen", t4_w3: "Anziehen", t4_w4: "Zur Schule gehen",
+    t4_q: "Was machen wir, direkt nachdem wir aufgestanden sind?",
+    t4_q_a: "Wir waschen uns und putzen die Zähne", t4_q_b: "Wir gehen schlafen", t4_q_c: "Wir schauen fern", t4_q_d: "Wir kommen nach Hause",
+
+    t5_title: "Mein Zuhause", t5_text: "Unsere Familie und unser Zuhause sind sehr wichtig. Hier fühlen wir uns sicher.",
+    t5_b1: "Es ist schön, mit der Familie zusammen zu sein.", t5_b2: "Jedes Zimmer hat einen Zweck.", t5_b3: "Wir halten unser Zuhause ordentlich!",
+    t5_inst: "Mit wem leben wir in unserem Zuhause?",
+    t5_gap_sentence2: "Zu Hause leben wir mit unserer {gap}, die uns sehr liebt.",
+    t5_c51: "Familie", t5_c52: "Nachbarn", t5_c53: "Eichhörnchen",
+    t5_q: "Warum ist die Familie wichtig?",
+    t5_q_a: "Weil wir uns lieben und helfen", t5_q_b: "Um jemanden zum Streiten zu haben", t5_q_c: "Weil alle gleich aussehen", t5_q_d: "Es gibt keinen Grund",
   },
   ro: {
-    r1Title: "Membrii familiei",
-    r1Hint: "Cine este acesta? Alege membrul corect al familiei.",
-    r1Teach: "O familie are mulți membri! Mamă, tată, frați, surori, bunici, mătuși, unchi și veri. Fiecare familie este diferită și deosebită.",
-    r2Title: "Relații de familie",
-    r2Hint: "Alege răspunsul corect.",
-    r2Teach: "Mama mamei tale este bunica ta. Fratele tatălui tău este unchiul tău. Copiii mătușei tale sunt verilor tăi. Acestea sunt relații de familie!",
-    r3Title: "Politicos sau nepoliticos?",
-    r3Hint: "Este acest comportament politicos sau nepoliticos?",
-    r3Teach: "Bunele maniere sunt importante! Spunem 'te rog' când cerem, 'mulțumesc' când primim, 'scuze' când greșim și 'scuze' când întrerupem.",
-    r4Title: "Unde se întâmplă?",
-    r4Hint: "Unde facem asta? Alege camera potrivită.",
-    r4Teach: "O casă are camere diferite! Bucătăria este pentru gătit, dormitorul pentru dormit, baia pentru spălat și livingul pentru relaxare împreună.",
-    r5Title: "Recapitulare rapidă",
-    r5Hint: "Răspunde la întrebare.",
-    r5Teach: "Hai să recapitulăm ce ai învățat despre familie, maniere și casă!",
-    gotIt: "Am înțeles! →",
-    mother: "Mamă",
-    father: "Tată",
-    sister: "Soră",
-    brother: "Frate",
-    grandma: "Bunică",
-    grandpa: "Bunic",
-    aunt: "Mătușă",
-    uncle: "Unchi",
-    polite: "Politicos",
-    rude: "Nepoliticos",
-    kitchen: "Bucătărie",
-    bedroom: "Dormitor",
-    livingRoom: "Living",
-    bathroom: "Baie",
-    descMother: "Ea are grijă de tine acasă și este părintele tău de sex feminin.",
-    descFather: "El merge la serviciu și este părintele tău de sex masculin.",
-    descSister: "Ea locuiește cu tine și este o fată în familia ta.",
-    descBrother: "El locuiește cu tine și este un băiat în familia ta.",
-    descGrandma: "Ea este mama mamei sau a tatălui tău.",
-    descGrandpa: "El este tatăl mamei sau al tatălui tău.",
-    relQ1: "Mama mamei tale este…",
-    relQ2: "Fratele tatălui tău este…",
-    relQ3: "Fiica părinților tăi este…",
-    relA1Correct: "Bunica",
-    relA1W1: "Mătușa",
-    relA1W2: "Sora",
-    relA2Correct: "Unchiul",
-    relA2W1: "Bunicul",
-    relA2W2: "Fratele",
-    relA3Correct: "Sora",
-    relA3W1: "Bunica",
-    relA3W2: "Mama",
-    bhv1Text: "Spui 'te rog' când ceri ceva.",
-    bhv1Answer: "polite",
-    bhv2Text: "Întrerupi pe cineva când vorbește.",
-    bhv2Answer: "rude",
-    bhv3Text: "Împarți jucăriile tale cu un prieten.",
-    bhv3Answer: "polite",
-    bhv4Text: "Lași o dezordine mare și nu o cureți.",
-    bhv4Answer: "rude",
-    bhv5Text: "Ții ușa deschisă pentru cineva.",
-    bhv5Answer: "polite",
-    bhv6Text: "Strigi și faci gălăgie în casă.",
-    bhv6Answer: "rude",
-    roomQ1: "Unde gătim mâncarea?",
-    roomA1: "kitchen",
-    roomQ2: "Unde dormim noaptea?",
-    roomA2: "bedroom",
-    roomQ3: "Unde ne uităm împreună la televizor?",
-    roomA3: "livingRoom",
-    roomQ4: "Unde facem baie sau duș?",
-    roomA4: "bathroom",
-    correct: "Corect!",
-    wrong: "Nu chiar!",
-    next: "Înainte",
-    finish: "Gata",
-  },
-} as const;
+    explorer_title: "Familia și Casa",
+    t1_title: "Familia mea", t1_text: "Familia noastră este formată din oamenii care ne iubesc cel mai mult. Trăim împreună.",
+    t1_b1: "Mama și tata sunt părinții noștri.", t1_b2: "Frații noștri pot fi surori sau frați.", t1_b3: "Bunicii (bunica și bunicul) sunt părinții părinților noștri.",
+    t1_inst: "Potrivește membrii familiei!",
+    t1_l1: "Mama și tata", t1_r1: "Părinții mei 👩‍❤️‍👨",
+    t1_l2: "Bunica", t1_r2: "Mama mamei sau a tatei 👵",
+    t1_l3: "Frate/Soră", t1_r3: "Crește împreună cu mine 👧👦",
+    t1_q: "Cine sunt bunicii noștri?",
+    t1_q_a: "Părinții părinților noștri", t1_q_b: "Vecinii", t1_q_c: "Colegii de clasă", t1_q_d: "Profesorii",
 
-type Lang = keyof typeof LABELS;
-// Use a widened record type so any language variant is assignable
-type LabelMap = Record<string, string>;
+    t2_title: "Camerele casei", t2_text: "În casa noastră există diferite camere. Folosim fiecare cameră pentru altceva.",
+    t2_b1: "În bucătărie gătim și mâncăm.", t2_b2: "În baie ne spălăm.", t2_b3: "În dormitor dormim și ne odihnim.",
+    t2_inst: "Arată unde sunt camerele în casă!",
+    t2_area_kitchen: "Bucătărie", t2_area_bedroom: "Dormitor", t2_area_bathroom: "Baie", t2_area_livingroom: "Sufragerie",
+    t2_q: "În ce cameră se află frigiderul și aragazul?",
+    t2_q_a: "În bucătărie", t2_q_b: "În baie", t2_q_c: "În dormitor", t2_q_d: "În camera copiilor",
 
-// ─── Helpers ─────────────────────────────────────────────────────────────────
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
+    t3_title: "Ajutăm acasă", t3_text: "Fiecare ajută puțin acasă pentru ca locuința să fie curată și ordonată.",
+    t3_b1: "Poți să-ți strângi jucăriile când termini de jucat.", t3_b2: "Poți să ajuți la așezarea mesei.", t3_b3: "Dacă facem ordine, e mult mai frumos acasă.",
+    t3_inst: "Ce este bine și ce nu? Sortează!",
+    t3_bucket_jo: "Lucru bun (Ajutor) 👍", t3_bucket_rossz: "Lucru rău 👎",
+    t3_item_j1: "Strângerea jucăriilor", t3_item_j2: "Așezarea mesei",
+    t3_item_r1: "Aruncarea hainelor", t3_item_r2: "Firimituri pe covor",
+    t3_q: "Ce faci cu jucăriile după ce te joci?",
+    t3_q_a: "Le pun la locul lor", t3_q_b: "Le las pe jos", t3_q_c: "Le arunc", t3_q_d: "Le ascund sub pat",
+
+    t4_title: "Rutina de dimineață", t4_text: "În fiecare dimineață facem aceleași lucruri pentru a ajunge la timp la școală.",
+    t4_b1: "Mai întâi ne trezim și ne dăm jos din pat.", t4_b2: "Apoi ne spălăm pe față și pe dinți.", t4_b3: "Ne îmbrăcăm, mâncăm și plecăm!",
+    t4_inst: "Pune sarcinile de dimineață în ordine!",
+    t4_w1: "Trezirea", t4_w2: "Spălatul pe dinți", t4_w3: "Îmbrăcarea", t4_w4: "Plecarea la școală",
+    t4_q: "Ce facem imediat după ce ne dăm jos din pat?",
+    t4_q_a: "Ne spălăm pe față și pe dinți", t4_q_b: "Mergem la culcare", t4_q_c: "Ne uităm la TV", t4_q_d: "Venim de la școală",
+
+    t5_title: "Casa mea", t5_text: "Familia și casa sunt foarte importante. Aici ne simțim cel mai în siguranță.",
+    t5_b1: "Este bine să fim cu familia.", t5_b2: "Fiecare cameră are un scop.", t5_b3: "Păstrăm ordinea acasă!",
+    t5_inst: "Cu cine locuim în casa noastră?",
+    t5_gap_sentence2: "Acasă locuim cu {gap} noastră, care ne iubește foarte mult.",
+    t5_c51: "familia", t5_c52: "vecinii", t5_c53: "veverițele",
+    t5_q: "De ce este importantă familia?",
+    t5_q_a: "Pentru că ne iubim și ne ajutăm", t5_q_b: "Ca să avem cu cine să ne certăm", t5_q_c: "Pentru că toți arată la fel", t5_q_d: "Nu are nicio importanță",
   }
-  return a;
-}
-function pick<T>(arr: T[], n: number): T[] {
-  return shuffle(arr).slice(0, n);
-}
+};
 
-// ─── Question types ───────────────────────────────────────────────────────────
-interface MCQItem {
-  question: string;      // display text
-  options: string[];     // shuffled display labels
-  correctKey: string;    // language-independent key
-  optionKeys: string[];  // keys parallel to options[]
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-// ─── FamilyExplorer ───────────────────────────────────────────────────────────
-const TOTAL_ROUNDS = 5;
-// questions per round
-const R1_COUNT = 4;
-const R2_COUNT = 3;
-const R3_COUNT = 4;
-const R4_COUNT = 3;
-const R5_COUNT = 4;
-const TOTAL_Q = R1_COUNT + R2_COUNT + R3_COUNT + R4_COUNT + R5_COUNT;
-
-function FamilyExplorer({ color, lang = "de", onDone, onClose }: Props) {
-  const t: LabelMap = LABELS[(lang as Lang) in LABELS ? (lang as Lang) : "de"];
-
-  // ── Score tracking ──
-  const scoreRef = useRef(0);
-  const totalRef = useRef(0);
-
-  // ── Round index ──
-  const [round, setRound] = useState(0);
-
-  // ── Teaching phase state ──
-  const [showTeach, setShowTeach] = useState(true);
-
-  // ── Per-question state ──
-  const [qIndex, setQIndex] = useState(0);
-  const [chosen, setChosen] = useState<string | null>(null); // chosen key
-  const [locked, setLocked] = useState(false);
-
-  // ─── TTS helper ─────────────────────────────────────────────────────────────
-  const speak = useCallback((text: string) => {
-    if (!window.speechSynthesis) return;
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
-    const langMap: Record<string, string> = { en: "en-US", de: "de-DE", hu: "hu-HU", ro: "ro-RO" };
-    utterance.lang = langMap[lang as string] || "de-DE";
-    utterance.rate = 0.9;
-    window.speechSynthesis.speak(utterance);
-  }, [lang]);
-
-  // ─────────────────────────────────────────────────────────────────────────
-  // Build randomized question pools (once, stable via useMemo)
-  // ─────────────────────────────────────────────────────────────────────────
-
-  // Round 1: Family Members MCQ
-  const r1Questions = useMemo((): MCQItem[] => {
-    const pool: Array<{ key: string; emoji: string; descKey: keyof LabelMap }> = [
-      { key: "mother", emoji: "👩", descKey: "descMother" },
-      { key: "father", emoji: "👨", descKey: "descFather" },
-      { key: "sister", emoji: "👧", descKey: "descSister" },
-      { key: "brother", emoji: "👦", descKey: "descBrother" },
-      { key: "grandma", emoji: "👵", descKey: "descGrandma" },
-      { key: "grandpa", emoji: "👴", descKey: "descGrandpa" },
-    ];
-    const selected = pick(pool, R1_COUNT);
-    const allKeys = pool.map((p) => p.key);
-    return selected.map((item) => {
-      const correctKey = item.key;
-      // wrong options: 3 other members
-      const wrongKeys = shuffle(allKeys.filter((k) => k !== correctKey)).slice(0, 3);
-      const optionKeys = shuffle([correctKey, ...wrongKeys]);
-      return {
-        question: `${item.emoji}  ${t[item.descKey]}`,
-        options: optionKeys.map((k) => t[k as keyof LabelMap] as string),
-        correctKey,
-        optionKeys,
-      };
-    });
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Round 2: Relationships MCQ
-  const r2Questions = useMemo((): MCQItem[] => {
-    const pool: Array<{ question: string; correctDisplay: string; wrongDisplays: string[]; correctKey: string }> = [
-      {
-        question: t.relQ1,
-        correctDisplay: t.relA1Correct,
-        wrongDisplays: [t.relA1W1, t.relA1W2],
-        correctKey: "grandma",
-      },
-      {
-        question: t.relQ2,
-        correctDisplay: t.relA2Correct,
-        wrongDisplays: [t.relA2W1, t.relA2W2],
-        correctKey: "uncle",
-      },
-      {
-        question: t.relQ3,
-        correctDisplay: t.relA3Correct,
-        wrongDisplays: [t.relA3W1, t.relA3W2],
-        correctKey: "sister",
-      },
-    ];
-    const selected = pick(pool, R2_COUNT);
-    return selected.map((item) => {
-      const allDisplays = shuffle([item.correctDisplay, ...item.wrongDisplays]);
-      return {
-        question: item.question,
-        options: allDisplays,
-        correctKey: item.correctKey,
-        // option keys: map display back to correct key only for the correct one, others are "wrong_N"
-        optionKeys: allDisplays.map((d, i) =>
-          d === item.correctDisplay ? item.correctKey : `wrong_${i}`
-        ),
-      };
-    });
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Round 3: Polite or Rude — binary choice
-  const r3Questions = useMemo((): MCQItem[] => {
-    const pool = [
-      { text: t.bhv1Text, answer: t.bhv1Answer },
-      { text: t.bhv2Text, answer: t.bhv2Answer },
-      { text: t.bhv3Text, answer: t.bhv3Answer },
-      { text: t.bhv4Text, answer: t.bhv4Answer },
-      { text: t.bhv5Text, answer: t.bhv5Answer },
-      { text: t.bhv6Text, answer: t.bhv6Answer },
-    ];
-    const selected = pick(pool, R3_COUNT);
-    return selected.map((item) => ({
-      question: item.text,
-      // always show Polite first, Rude second (binary binary)
-      options: [t.polite, t.rude],
-      correctKey: item.answer, // "polite" or "rude" — language-independent
-      optionKeys: ["polite", "rude"],
-    }));
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Round 4: Room MCQ
-  const r4Questions = useMemo((): MCQItem[] => {
-    const pool: Array<{ question: string; correctRoomKey: string }> = [
-      { question: t.roomQ1, correctRoomKey: t.roomA1 },
-      { question: t.roomQ2, correctRoomKey: t.roomA2 },
-      { question: t.roomQ3, correctRoomKey: t.roomA3 },
-      { question: t.roomQ4, correctRoomKey: t.roomA4 },
-    ];
-    const selected = pick(pool, R4_COUNT);
-    const allRoomKeys: string[] = ["kitchen", "bedroom", "livingRoom", "bathroom"];
-    return selected.map((item) => {
-      const correctKey = item.correctRoomKey;
-      const wrongKeys = shuffle(allRoomKeys.filter((k) => k !== correctKey)).slice(0, 3);
-      const optionKeys = shuffle([correctKey, ...wrongKeys]);
-      return {
-        question: item.question,
-        options: optionKeys.map((k) => t[k as keyof LabelMap] as string),
-        correctKey,
-        optionKeys,
-      };
-    });
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Round 5: Mixed quick review — pick R5_COUNT questions from rounds 1-4
-  const r5Questions = useMemo((): MCQItem[] => {
-    const allPool = [...r1Questions, ...r2Questions, ...r3Questions, ...r4Questions];
-    return pick(allPool, R5_COUNT);
-  }, [r1Questions, r2Questions, r3Questions, r4Questions]);
-
-  // ─── Current round question list ───────────────────────────────────────────
-  const questionLists = [r1Questions, r2Questions, r3Questions, r4Questions, r5Questions];
-  const roundTitles = [t.r1Title, t.r2Title, t.r3Title, t.r4Title, t.r5Title];
-  const roundHints = [t.r1Hint, t.r2Hint, t.r3Hint, t.r4Hint, t.r5Hint];
-  const currentList = questionLists[round] ?? [];
-  const currentQ: MCQItem | undefined = currentList[qIndex];
-  const totalQInRound = currentList.length;
-
-  // ─── Handle answer ──────────────────────────────────────────────────────────
-  const handleAnswer = useCallback(
-    (chosenKey: string) => {
-      if (locked || !currentQ) return;
-      setChosen(chosenKey);
-      setLocked(true);
-      totalRef.current += 1;
-      if (chosenKey === currentQ.correctKey) {
-        scoreRef.current += 1;
-      } else {
-        fireWrongAnswer({ question: currentQ.question, wrongAnswer: chosenKey, correctAnswer: currentQ.correctKey, topic: "Family Explorer", lang });
-      }
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <FamilyTreeSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
     },
-    [locked, currentQ, lang]
-  );
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <HouseRoomsSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "label-diagram",
+      areas: [
+        { id: "kitchen",     x: 30, y: 70, label: "t2_area_kitchen" },
+        { id: "livingroom",  x: 70, y: 70, label: "t2_area_livingroom" },
+        { id: "bedroom",     x: 70, y: 30, label: "t2_area_bedroom" },
+        { id: "bathroom",    x: 30, y: 30, label: "t2_area_bathroom" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "jo", label: "t3_bucket_jo" },
+        { id: "rossz", label: "t3_bucket_rossz" },
+      ],
+      items: [
+        { text: "t3_item_j1", bucketId: "jo" },
+        { text: "t3_item_r1", bucketId: "rossz" },
+        { text: "t3_item_j2", bucketId: "jo" },
+        { text: "t3_item_r2", bucketId: "rossz" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  // ─── Advance to next question or next round ─────────────────────────────────
-  const handleNext = useCallback(() => {
-    if (qIndex + 1 < totalQInRound) {
-      setQIndex((i) => i + 1);
-      setChosen(null);
-      setLocked(false);
-    } else {
-      // end of round
-      if (round + 1 < TOTAL_ROUNDS) {
-        setRound((r) => r + 1);
-        setQIndex(0);
-        setChosen(null);
-        setLocked(false);
-      } else {
-        onDone(scoreRef.current, TOTAL_Q);
-      }
-    }
-  }, [qIndex, totalQInRound, round, onDone]);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  // ─── Helpers for rendering ──────────────────────────────────────────────────
-  const isCorrect = locked && chosen === currentQ?.correctKey;
-  const isWrong = locked && chosen !== currentQ?.correctKey;
-  const isLastQ = round === TOTAL_ROUNDS - 1 && qIndex + 1 >= totalQInRound;
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "👨‍👩‍👧‍👦",
+  topics: TOPICS,
+  rounds: [],
+};
 
-  // ─── Option button style ────────────────────────────────────────────────────
-  function optionStyle(optKey: string) {
-    if (!locked) {
-      return {
-        background: "rgba(255,255,255,0.06)",
-        border: "2px solid rgba(255,255,255,0.15)",
-        color: "#fff",
-      };
-    }
-    if (optKey === currentQ?.correctKey) {
-      return {
-        background: "rgba(0,255,136,0.18)",
-        border: "2px solid #00FF88",
-        color: "#fff",
-      };
-    }
-    if (optKey === chosen) {
-      return {
-        background: "rgba(255,45,120,0.18)",
-        border: "2px solid #FF2D78",
-        color: "#fff",
-      };
-    }
-    return {
-      background: "rgba(255,255,255,0.04)",
-      border: "2px solid rgba(255,255,255,0.08)",
-      color: "rgba(255,255,255,0.4)",
-    };
-  }
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-  // ─── Render ─────────────────────────────────────────────────────────────────
+const FamilyExplorer = memo(function FamilyExplorer({
+  color = "#F97316", // Narancssárga (Orange-500) az otthon melegéért
+  onDone,
+  lang = "hu",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="fixed inset-0 z-50 flex flex-col bg-[#060614] overflow-auto">
-      {/* Close button */}
-      {onClose && (
-        <button
-          onClick={onClose}
-          className="absolute top-3 right-3 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
-        >✕</button>
-      )}
-      {/* Round progress dots */}
-      <div className="flex justify-center gap-1.5 pt-4 pb-1">
-        {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-          <div
-            key={i}
-            className="w-2.5 h-2.5 rounded-full transition-colors"
-            style={{
-              background:
-                i < round
-                  ? "#00FF88"
-                  : i === round
-                  ? color
-                  : "rgba(255,255,255,0.15)",
-            }}
-          />
-        ))}
-      </div>
-
-      {/* Sub-progress within round */}
-      {totalQInRound > 1 && (
-        <div className="flex justify-center gap-1 pb-1">
-          {Array.from({ length: totalQInRound }, (_, i) => (
-            <div
-              key={i}
-              className="w-1.5 h-1.5 rounded-full transition-colors"
-              style={{
-                background:
-                  i < qIndex
-                    ? "rgba(255,255,255,0.50)"
-                    : i === qIndex
-                    ? "rgba(255,255,255,0.85)"
-                    : "rgba(255,255,255,0.12)",
-              }}
-            />
-          ))}
-        </div>
-      )}
-
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={`${round}-${qIndex}-${showTeach}`}
-          initial={{ opacity: 0, x: 30 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -30 }}
-          transition={{ duration: 0.22 }}
-          className="flex-1 flex flex-col items-center justify-center px-4 pb-8 gap-4"
-        >
-          {/* Teaching phase */}
-          {showTeach && (
-            <div className="flex flex-col items-center gap-4 w-full">
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-xl font-black text-white text-center">{roundTitles[round]}</p>
-                <button onClick={() => speak(roundTitles[round] + ". " + (t as Record<string, string>)[`r${round + 1}Teach`])}
-                  className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:text-white hover:bg-white/20 transition-colors flex-shrink-0">
-                  <Volume2 size={16} />
-                </button>
-              </div>
-              <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-                <p className="text-sm text-white/80 leading-relaxed">{(t as Record<string, string>)[`r${round + 1}Teach`]}</p>
-              </div>
-              <motion.button
-                onClick={() => setShowTeach(false)}
-                className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-                whileTap={{ scale: 0.97 }}
-              >
-                {t.gotIt} <ChevronRight size={16} />
-              </motion.button>
-            </div>
-          )}
-
-          {/* Quiz phase */}
-          {!showTeach && (
-            <>
-              {/* Round title + TTS button */}
-              <div className="flex items-center gap-2 justify-center">
-                <p className="text-lg font-black text-white text-center" style={{ color }}>
-                  {roundTitles[round]}
-                </p>
-                <button
-                  onClick={() => speak(roundTitles[round] + ". " + roundHints[round])}
-                  className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-lg bg-white/15 text-white/70 hover:bg-white/25 hover:text-white transition-colors"
-                >
-                  <Volume2 size={14} />
-                </button>
-              </div>
-
-              {/* Hint — always visible */}
-              <p className="text-white/60 text-xs font-bold text-center px-2">
-                {roundHints[round]}
-              </p>
-
-              {currentQ && (
-            <>
-              {/* Question bubble */}
-              <div
-                className="w-full max-w-sm rounded-2xl px-5 py-4 text-center"
-                style={{
-                  background: `linear-gradient(135deg, rgba(255,255,255,0.07), rgba(255,255,255,0.03))`,
-                  border: `1.5px solid rgba(255,255,255,0.12)`,
-                }}
-              >
-                <p className="text-white text-base font-bold leading-snug whitespace-pre-wrap">
-                  {currentQ.question}
-                </p>
-              </div>
-
-              {/* Answer options */}
-              <div className="flex flex-col gap-2 w-full max-w-sm">
-                {currentQ.options.map((label, idx) => {
-                  const optKey = currentQ.optionKeys[idx];
-                  return (
-                    <motion.button
-                      key={optKey + idx}
-                      onClick={() => handleAnswer(optKey)}
-                      disabled={locked}
-                      className="py-3.5 px-4 rounded-xl font-bold text-sm text-left transition-colors"
-                      style={optionStyle(optKey)}
-                      whileTap={locked ? {} : { scale: 0.97 }}
-                    >
-                      {label}
-                    </motion.button>
-                  );
-                })}
-              </div>
-
-              {/* Feedback label */}
-              <AnimatePresence>
-                {locked && (
-                  <motion.p
-                    initial={{ opacity: 0, y: -6 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0 }}
-                    className="text-sm font-black"
-                    style={{ color: isCorrect ? "#00FF88" : "#FF2D78" }}
-                  >
-                    {isCorrect ? t.correct : t.wrong}
-                  </motion.p>
-                )}
-              </AnimatePresence>
-
-              {/* Next / Finish button */}
-              {locked && (
-                <motion.button
-                  onClick={handleNext}
-                  className="w-full max-w-sm py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-                  style={{
-                    background: `linear-gradient(135deg, ${color}55, ${color}99)`,
-                    border: `2px solid ${color}`,
-                  }}
-                  initial={{ opacity: 0, y: 8 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  whileTap={{ scale: 0.97 }}
-                >
-                  {isLastQ ? t.finish : t.next}
-                  <ChevronRight size={16} />
-                </motion.button>
-              )}
-            </>
-          )}
-            </>
-          )}
-        </motion.div>
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="sachkunde_k1_family" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
   );
-}
+});
 
-export default memo(FamilyExplorer);
+export default FamilyExplorer;
