@@ -52,7 +52,7 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     title: "Komposita-Entdecker",
     round1Title: "Artikel-Wiederholung",
-    round1Hint: "Merke dir: Das Artikel eines Kompositums kommt immer vom LETZTEN Wort!",
+    round1Hint: "Merke dir: Der Artikel eines Kompositums kommt immer vom LETZTEN Wort!",
     round2Title: "Baue zusammengesetzte Wörter!",
     round2Hint: "Tippe auf die zwei Teile, um ein zusammengesetztes Wort zu bauen!",
     round3Title: "Welcher Artikel?",
@@ -87,7 +87,7 @@ const LABELS: Record<string, Record<string, string>> = {
     correct: "Corect!",
     lastPartRule: "ULTIMA parte dă articolul!",
     hint: "Cuvinte compuse!",
-    discovery: "💡 Germana iubește cuvintele compuse! Două cuvinte se conectează: Schul + Tasche = Schultasche. ULTIMA cuvânt determină articolul!",
+    discovery: "💡 Germana iubește cuvintele compuse! Două cuvinte se conectează: Schul + Tasche = Schultasche. ULTIMUL cuvânt determină articolul!",
   },
 };
 
@@ -139,9 +139,9 @@ const COMPOUND_DATA_POOL: {
   { part1: "Tisch", article1: "der", part2: "lampe", article2: "die", result: "Tischlampe", resultArticle: "die" },
   { part1: "Telefon", article1: "das", part2: "nummer", article2: "die", result: "Telefonnummer", resultArticle: "die" },
   { part1: "Fenster", article1: "das", part2: "bank", article2: "die", result: "Fensterbank", resultArticle: "die" },
-  { part1: "Blatt", article1: "das", part2: "stift", article2: "der", result: "Blattstift", resultArticle: "der" },
+  { part1: "Blei", article1: "das", part2: "stift", article2: "der", result: "Bleistift", resultArticle: "der" },
   { part1: "Schrank", article1: "der", part2: "tür", article2: "die", result: "Schranktür", resultArticle: "die" },
-  { part1: "Bett", article1: "das", part2: "zimmer", article2: "das", result: "Bettzimmer", resultArticle: "das" },
+  { part1: "Schlaf", article1: "der", part2: "zimmer", article2: "das", result: "Schlafzimmer", resultArticle: "das" },
 ];
 
 function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {

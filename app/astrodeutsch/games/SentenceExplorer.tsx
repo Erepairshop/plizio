@@ -36,7 +36,7 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     title: "Mondat felfedező",
     round1Title: "Mondatvégi írásjelek",
-    round1Hint: "Tanulj meg három írásjelőt! Koppints mindegyikre.",
+    round1Hint: "Tanulj meg három írásjelet! Koppints mindegyikre.",
     round2Title: "Melyik írásjel illik?",
     round2Hint: "Melyik írásjel kerül a mondat végére?",
     round3Title: "Rakj össze egy mondatot!",
@@ -125,14 +125,8 @@ const PUNCT_SENTENCES: { sentence: string; punct: Punct }[] = [
 ];
 
 // Round 3: word order
-const WORD_ORDER: { words: string[]; correct: string[] }[] = [
-  { words: ["Anna", "ist", "Ich"], correct: ["Ich", "bin", "Anna"] },
-  { words: ["spielt", "Hund", "Der"], correct: ["Der", "Hund", "spielt"] },
-  { words: ["Katze", "Die", "schläft"], correct: ["Die", "Katze", "schläft"] },
-];
-// Fix - adjust so words match correct
 const WORD_ORDER_FIXED = [
-  { words: ["Ich", "Anna", "ist"], correct: ["Ich", "bin", "Anna"], hint: "Ich bin Anna." },
+  { words: ["Ich", "Anna", "bin"], correct: ["Ich", "bin", "Anna"], hint: "Ich bin Anna." },
   { words: ["Hund", "Der", "spielt"], correct: ["Der", "Hund", "spielt"], hint: "Der Hund spielt." },
   { words: ["schläft", "Die", "Katze"], correct: ["Die", "Katze", "schläft"], hint: "Die Katze schläft." },
 ];
