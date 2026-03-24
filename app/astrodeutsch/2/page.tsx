@@ -26,15 +26,15 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
-import NounExplorer from "@/app/astrodeutsch/games/NounExplorer";
-import VerbExplorer from "@/app/astrodeutsch/games/VerbExplorer";
-import AdjectiveExplorer from "@/app/astrodeutsch/games/AdjectiveExplorer";
-import SentenceTypeExplorer from "@/app/astrodeutsch/games/SentenceTypeExplorer";
-import CapitalizationExplorer from "@/app/astrodeutsch/games/CapitalizationExplorer";
-import SpellingRuleExplorer from "@/app/astrodeutsch/games/SpellingRuleExplorer";
-import SpellingExplorer2 from "@/app/astrodeutsch/games/SpellingExplorer2";
-import WordFieldExplorer from "@/app/astrodeutsch/games/WordFieldExplorer";
-import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
+import NounExplorerK2 from "@/app/astrodeutsch/games/k2/NounExplorerK2";
+import VerbExplorerK2 from "@/app/astrodeutsch/games/k2/VerbExplorerK2";
+import AdjectiveExplorerK2 from "@/app/astrodeutsch/games/k2/AdjectiveExplorerK2";
+import SentenceTypeExplorerK2 from "@/app/astrodeutsch/games/k2/SentenceTypeExplorerK2";
+import CapitalizationExplorerK2 from "@/app/astrodeutsch/games/k2/CapitalizationExplorerK2";
+import SpellingRuleExplorerK2 from "@/app/astrodeutsch/games/k2/SpellingRuleExplorerK2";
+import SpellingExplorer2K2 from "@/app/astrodeutsch/games/k2/SpellingExplorer2K2";
+import WordFieldExplorerK2 from "@/app/astrodeutsch/games/k2/WordFieldExplorerK2";
+import ReviewExplorerK2 from "@/app/astrodeutsch/games/k2/ReviewExplorerK2";
 import CategoryRush from "@/app/astrodeutsch/games/CategoryRush";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
@@ -739,31 +739,31 @@ export default function AstroDeutschK2Page() {
           <DeutschVisualGame klasse={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "noun-explorer" && (
-          <NounExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <NounExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "verb-explorer" && (
-          <VerbExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <VerbExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "adjective-explorer" && (
-          <AdjectiveExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <AdjectiveExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "sentence-type-explorer" && (
-          <SentenceTypeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SentenceTypeExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "capitalization-explorer" && (
-          <CapitalizationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <CapitalizationExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "spelling-rule-explorer" && (
-          <SpellingRuleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SpellingRuleExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "spelling-explorer-2" && (
-          <SpellingExplorer2 color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <SpellingExplorer2K2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-field-explorer" && (
-          <WordFieldExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <WordFieldExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "review-explorer" && (
-          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <ReviewExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "category-rush" && (
           <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />
