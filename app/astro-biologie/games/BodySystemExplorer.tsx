@@ -1,852 +1,353 @@
 "use client";
-// BodySystemExplorer — Island i7: Body Systems (Körpersysteme)
-// Teaching pattern: R1-R4 = info + SVG, R5 = MCQ quiz
+// BodySystemExplorer.tsx — Bio Island i7: Testrendszerek (K5)
+// Topics: 1) Emésztés 2) Keringés 3) Légzés 4) Rendszerek együttműködése 5) Review
 
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef, MCQQuestion } from "./ExplorerEngine";
-import React from "react";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { DigestiveSvg, HeartSvg, LungsSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// All multilingual labels (en/de/hu/ro)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-const LABELS: ExplorerDef["labels"] = {
-  en: {
-    // Round 1: Circulatory System
-    r1_title: "Circulatory System ❤️",
-    r1_text: "The heart pumps blood through the body, delivering oxygen and removing waste. Arteries carry oxygen-rich blood away from the heart, while veins return oxygen-poor blood back.",
-    r1_b1: "Heart: 4 chambers pump blood throughout the body",
-    r1_b2: "Arteries: carry oxygen-rich blood (shown in red)",
-    r1_b3: "Veins: carry oxygen-poor blood back to heart (shown in blue)",
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F3E8FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-45" y="10" fontSize="35" textAnchor="middle">🫁</text>
+        <text x="0" y="10" fontSize="35" textAnchor="middle">🫀</text>
+        <text x="45" y="10" fontSize="35" textAnchor="middle">🥪</text>
+        <path d="M -25,0 L -15,0 M 15,0 L 25,0" stroke="#9333EA" strokeWidth="4" strokeDasharray="3 3" />
+      </g>
+    </svg>
+  );
+});
 
-    // Round 2: Respiratory System
-    r2_title: "Respiratory System 🫁",
-    r2_text: "You breathe in oxygen-rich air through the nose and mouth. The lungs absorb oxygen into the blood and release carbon dioxide, which you breathe out.",
-    r2_b1: "Nose & mouth: filter and warm air before it enters",
-    r2_b2: "Trachea: windpipe carries air to the lungs",
-    r2_b3: "Lungs & alveoli: where oxygen and CO₂ exchange happens",
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🧠</text>
+        <text x="20" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
 
-    // Round 3: Digestive System
-    r3_title: "Digestive System 🫙",
-    r3_text: "Your digestive system breaks down food into nutrients your body can use. The food travels from mouth to stomach to intestines, where nutrients are absorbed.",
-    r3_b1: "Mouth: breaks down food with chewing and saliva",
-    r3_b2: "Stomach: churns food and mixes with stomach acid",
-    r3_b3: "Small intestines: absorb nutrients into the bloodstream",
+// ─── LABELS ─────────────────────────────────────────────────────────
 
-    // Round 4: Excretory System
-    r4_title: "Excretory System 🚽",
-    r4_text: "The excretory system removes waste from the body. Kidneys filter the blood to remove waste as urine, and the skin removes waste as sweat.",
-    r4_b1: "Kidneys: filter waste from the blood into urine",
-    r4_b2: "Bladder: stores urine until it's ready to leave",
-    r4_b3: "Skin: releases waste through sweat glands",
-
-    // Round 5: Quiz questions
-    q1: "Which system pumps blood throughout the body?",
-    q1_a: "Circulatory system",
-    q1_b: "Respiratory system",
-    q1_c: "Digestive system",
-
-    q2: "Where does oxygen enter the blood from the air?",
-    q2_a: "In the lungs",
-    q2_b: "In the stomach",
-    q2_c: "In the heart",
-
-    q3: "Which organ breaks down food with acid?",
-    q3_a: "Stomach",
-    q3_b: "Liver",
-    q3_c: "Pancreas",
-
-    q4: "What do the kidneys filter from the blood?",
-    q4_a: "Waste (urine)",
-    q4_b: "Oxygen",
-    q4_c: "Glucose",
-
-    q5: "Which system removes waste through sweat?",
-    q5_a: "Excretory system",
-    q5_b: "Immune system",
-    q5_c: "Nervous system",
-  },
-
-  de: {
-    // Round 1: Kreislaufsystem
-    r1_title: "Kreislaufsystem ❤️",
-    r1_text: "Das Herz pumpt Blut durch den Körper und transportiert Sauerstoff. Arterien tragen sauerstoffreiches Blut vom Herzen weg, Venen bringen sauerstoffarmes Blut zurück.",
-    r1_b1: "Herz: 4 Kammern pumpen Blut durch den ganzen Körper",
-    r1_b2: "Arterien: transportieren sauerstoffreiches Blut (rot dargestellt)",
-    r1_b3: "Venen: bringen sauerstoffarmes Blut zurück zum Herzen (blau dargestellt)",
-
-    // Round 2: Atmungssystem
-    r2_title: "Atmungssystem 🫁",
-    r2_text: "Du atmest sauerstoffreiche Luft durch Nase und Mund ein. Die Lungen nehmen Sauerstoff ins Blut auf und geben Kohlendioxid ab, das du ausatmest.",
-    r2_b1: "Nase & Mund: filtern und wärmen die Luft",
-    r2_b2: "Luftröhre: leitet Luft zu den Lungen",
-    r2_b3: "Lungen & Alveolen: Austausch von Sauerstoff und CO₂",
-
-    // Round 3: Verdauungssystem
-    r3_title: "Verdauungssystem 🫙",
-    r3_text: "Dein Verdauungssystem zerlegt Nahrung in Nährstoffe, die dein Körper nutzen kann. Das Essen reist vom Mund in den Magen und die Darmschlingen.",
-    r3_b1: "Mund: zerlegt Nahrung durch Kauen und Speichel",
-    r3_b2: "Magen: zerquetscht Nahrung und mischt mit Magensäure",
-    r3_b3: "Dünndarm: nimmt Nährstoffe ins Blut auf",
-
-    // Round 4: Ausscheidungssystem
-    r4_title: "Ausscheidungssystem 🚽",
-    r4_text: "Das Ausscheidungssystem entfernt Abfallstoffe aus dem Körper. Nieren filtern das Blut, um Urin zu bilden, und die Haut entfernt Schweiß.",
-    r4_b1: "Nieren: filtern Abfallstoffe aus dem Blut zu Urin",
-    r4_b2: "Blase: speichert Urin bis zum Ausscheiden",
-    r4_b3: "Haut: gibt Abfallstoffe durch Schweißdrüsen ab",
-
-    // Round 5: Quiz questions
-    q1: "Welches System pumpt Blut durch den Körper?",
-    q1_a: "Kreislaufsystem",
-    q1_b: "Atmungssystem",
-    q1_c: "Verdauungssystem",
-
-    q2: "Wo gelangt Sauerstoff aus der Luft ins Blut?",
-    q2_a: "In den Lungen",
-    q2_b: "Im Magen",
-    q2_c: "Im Herzen",
-
-    q3: "Welches Organ baut Nahrung mit Säure ab?",
-    q3_a: "Magen",
-    q3_b: "Leber",
-    q3_c: "Bauchspeicheldrüse",
-
-    q4: "Welche Abfallstoffe filtern die Nieren aus dem Blut?",
-    q4_a: "Urin",
-    q4_b: "Sauerstoff",
-    q4_c: "Glukose",
-
-    q5: "Welches System entfernt Abfallstoffe durch Schweiß?",
-    q5_a: "Ausscheidungssystem",
-    q5_b: "Immunsystem",
-    q5_c: "Nervensystem",
-  },
-
+const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    // Round 1: Keringési rendszer
-    r1_title: "Keringési rendszer ❤️",
-    r1_text: "A szív vért pumpál végig a testen, oxigént és tápanyagokat szállít. Az artériák oxigénben gazdag vért szállítanak el a szívtől, a vénák oxigénben szegény vért hoznak vissza.",
-    r1_b1: "Szív: 4 kamra pumpálja a vért az egész testen",
-    r1_b2: "Artériák: oxigénben gazdag vér szállítása (piros)",
-    r1_b3: "Vénák: oxigénben szegény vér visszaszállítása (kék)",
+    explorer_title: "Testünk Rendszerei",
+    // T1: Emésztés
+    t1_title: "Az emésztőrendszer",
+    t1_text: "Az emésztőrendszer feladata, hogy a táplálékot lebontsa, és a szervezet számára hasznosítható tápanyagokká alakítsa.",
+    t1_b1: "Szájüreg: a fogak felaprítják az ételt.",
+    t1_b2: "Gyomor: a gyomorsav elkezdi a fehérjék emésztését.",
+    t1_b3: "Vékonybél: itt szívódnak fel a tápanyagok a vérbe.",
+    t1_inst: "Hol szívódnak fel a tápanyagok?",
+    t1_gap_sentence: "A tápanyagok a {gap} szívódnak fel a véráramba.",
+    t1_c1: "vékonybélben", t1_c2: "vastagbélben", t1_c3: "nyelőcsőben",
+    t1_q: "Mi a gyomor fő feladata?",
+    t1_q_a: "Az étel lebontása a gyomornedvekkel", t1_q_b: "A levegő szűrése", t1_q_c: "A vér pumpálása", t1_q_d: "A salakanyagok ürítése",
 
-    // Round 2: Légzőrendszer
-    r2_title: "Légzőrendszer 🫁",
-    r2_text: "Oxigénben gazdag levegőt szívasz be az orron és szájra keresztül. A tüdő felveszi az oxigént a vérbe és kibocsátja a szén-dioxidot.",
-    r2_b1: "Orr & száj: szűri és melegíti a levegőt",
-    r2_b2: "Légcső: levegőt szállít a tüdőbe",
-    r2_b3: "Tüdő & alveoluszok: oxigén és CO₂ cseréje",
+    // T2: Keringés
+    t2_title: "A keringési rendszer",
+    t2_text: "A keringési rendszer szállítja a tápanyagokat és az oxigént a test minden sejtjéhez, és elszállítja a salakanyagokat.",
+    t2_b1: "Szív: az izmos pumpa, amely keringeti a vért.",
+    t2_b2: "Artériák (ütőerek): a szívből viszik a vért a testbe.",
+    t2_b3: "Vénák (gyűjtőerek): a testből viszik vissza a vért a szívbe.",
+    t2_inst: "Tedd sorba a mondat szavait!",
+    t2_w1: "A", t2_w2: "szív", t2_w3: "pumpálja", t2_w4: "a", t2_w5: "vért.",
+    t2_q: "Milyen erek viszik a vért a szívből a test felé?",
+    t2_q_a: "Artériák (ütőerek)", t2_q_b: "Vénák", t2_q_c: "Hajszálerek", t2_q_d: "Nyirokerek",
 
-    // Round 3: Emésztőrendszer
-    r3_title: "Emésztőrendszer 🫙",
-    r3_text: "Az emésztőrendszer az ételt olyan tápanyagokra bontja, amelyeket a tested használni tud. Az étel szájon keresztül a gyomorba, majd a belekbe jut.",
-    r3_b1: "Száj: étel ledarálása rágcsipen és nyállal",
-    r3_b2: "Gyomor: étel keverése gyomorsavval",
-    r3_b3: "Vékonybél: tápanyagok felszívódása a vérbe",
+    // T3: Légzés
+    t3_title: "A légzőrendszer",
+    t3_text: "A légzőrendszer biztosítja a szervezet számára szükséges oxigént, és eltávolítja a felesleges szén-dioxidot.",
+    t3_b1: "Orr- és szájüreg: itt áramlik be a levegő.",
+    t3_b2: "Légcső: csővezeték a tüdő felé.",
+    t3_b3: "Tüdő: itt történik a gázcsere (oxigén be, szén-dioxid ki).",
+    t3_inst: "Párosítsd a fogalmakat!",
+    t3_l1: "Belégzés", t3_r1: "Oxigén felvétele",
+    t3_l2: "Kilégzés", t3_r2: "Szén-dioxid leadása",
+    t3_l3: "Tüdő", t3_r3: "A gázcsere szerve",
+    t3_q: "Melyik gázt lélegezzük ki nagyobb mennyiségben?",
+    t3_q_a: "Szén-dioxidot", t3_q_b: "Oxigént", t3_q_c: "Nitrogént", t3_q_d: "Héliumot",
 
-    // Round 4: Kiválasztási rendszer
-    r4_title: "Kiválasztási rendszer 🚽",
-    r4_text: "A kiválasztási rendszer eltávolítja az hulladékot a testből. A vesék szűrik ki az elhulladékodott anyagokat vizeletté, a bőr pedig izzadságot bocsát ki.",
-    r4_b1: "Vesék: hulladék szűrése vizeletté",
-    r4_b2: "Hólyag: vizeletet tárol az ürítésig",
-    r4_b3: "Bőr: hulladék eltávolítása izzadság útján",
+    // T4: Rendszerek együttműködése
+    t4_title: "Hogyan dolgoznak együtt?",
+    t4_text: "A test rendszerei nem működhetnek egymás nélkül. A keringési rendszer szállítja a tüdőből az oxigént és a bélből a tápanyagot a sejtekhez.",
+    t4_b1: "A tüdő oxigént ad a vérnek.",
+    t4_b2: "A vékonybél tápanyagot ad a vérnek.",
+    t4_b3: "A szív mindezt elpumpálja a test minden pontjára.",
+    t4_inst: "Légzőrendszer vagy Emésztőrendszer? Válogasd szét a szerveket!",
+    t4_bucket_leg: "Légzőrendszer",
+    t4_bucket_eme: "Emésztőrendszer",
+    t4_item_l1: "Tüdő", t4_item_l2: "Légcső",
+    t4_item_e1: "Gyomor", t4_item_e2: "Vékonybél",
+    t4_q: "Melyik rendszer juttatja el a tápanyagokat a sejtekhez?",
+    t4_q_a: "A keringési rendszer", t4_q_b: "A légzőrendszer", t4_q_c: "Az emésztőrendszer", t4_q_d: "A csontvázrendszer",
 
-    // Round 5: Quiz questions
-    q1: "Melyik rendszer pumpálja a vért a testen?",
-    q1_a: "Keringési rendszer",
-    q1_b: "Légzőrendszer",
-    q1_c: "Emésztőrendszer",
-
-    q2: "Hol jut az oxigén a levegőből a vérbe?",
-    q2_a: "A tüdőben",
-    q2_b: "A gyomorban",
-    q2_c: "A szívben",
-
-    q3: "Melyik szerv bont le ételt savval?",
-    q3_a: "Gyomor",
-    q3_b: "Máj",
-    q3_c: "Hasnyálmirigy",
-
-    q4: "Mit szűrnek ki a vesék a vérből?",
-    q4_a: "Vizeletet",
-    q4_b: "Oxigént",
-    q4_c: "Glükózt",
-
-    q5: "Melyik rendszer távolít el hulladékot izzadság útján?",
-    q5_a: "Kiválasztási rendszer",
-    q5_b: "Immunrendszer",
-    q5_c: "Idegrendszer",
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod az emberi test csodálatos rendszereiről!",
+    t5_b1: "Emésztés: táplálék lebontása.",
+    t5_b2: "Légzés: oxigén felvétele.",
+    t5_b3: "Keringés: szállítás a szív segítségével.",
+    t5_inst: "Hogyan működnek a testrendszerek?",
+    t5_gap_sentence2: "A testrendszerek szorosan {gap} működnek a túlélésért.",
+    t5_c51: "együtt", t5_c52: "külön", t5_c53: "egymás ellen",
+    t5_q: "Melyik szerv NEM a légzőrendszer része?",
+    t5_q_a: "A szív", t5_q_b: "A tüdő", t5_q_c: "A légcső", t5_q_d: "Az orrüreg",
   },
+  en: {
+    explorer_title: "Body Systems",
+    t1_title: "The Digestive System", t1_text: "The digestive system breaks down food and turns it into nutrients the body can use.",
+    t1_b1: "Mouth: teeth chew and crush the food.", t1_b2: "Stomach: stomach acid starts digesting proteins.", t1_b3: "Small intestine: nutrients are absorbed into the blood here.",
+    t1_inst: "Where are nutrients absorbed?", t1_gap_sentence: "Nutrients are absorbed into the blood in the {gap}.",
+    t1_c1: "small intestine", t1_c2: "large intestine", t1_c3: "esophagus",
+    t1_q: "What is the main job of the stomach?", t1_q_a: "Breaking down food with juices", t1_q_b: "Filtering air", t1_q_c: "Pumping blood", t1_q_d: "Removing waste",
 
+    t2_title: "The Circulatory System", t2_text: "The circulatory system transports nutrients and oxygen to every cell in the body and carries away waste products.",
+    t2_b1: "Heart: the muscular pump that circulates blood.", t2_b2: "Arteries: carry blood away from the heart.", t2_b3: "Veins: carry blood back to the heart.",
+    t2_inst: "Put the words in order!",
+    t2_w1: "The", t2_w2: "heart", t2_w3: "pumps", t2_w4: "the", t2_w5: "blood.",
+    t2_q: "Which blood vessels carry blood away from the heart?", t2_q_a: "Arteries", t2_q_b: "Veins", t2_q_c: "Capillaries", t2_q_d: "Lymph vessels",
+
+    t3_title: "The Respiratory System", t3_text: "The respiratory system provides the body with necessary oxygen and removes excess carbon dioxide.",
+    t3_b1: "Nose and mouth: where air enters.", t3_b2: "Trachea: the windpipe leading to the lungs.", t3_b3: "Lungs: where gas exchange happens (oxygen in, CO2 out).",
+    t3_inst: "Match the concepts!",
+    t3_l1: "Inhalation", t3_r1: "Taking in oxygen", t3_l2: "Exhalation", t3_r2: "Releasing carbon dioxide", t3_l3: "Lungs", t3_r3: "Organ of gas exchange",
+    t3_q: "Which gas do we exhale in larger amounts?", t3_q_a: "Carbon dioxide", t3_q_b: "Oxygen", t3_q_c: "Nitrogen", t3_q_d: "Helium",
+
+    t4_title: "How They Work Together", t4_text: "Body systems cannot work without each other. The circulatory system carries oxygen from the lungs and nutrients from the intestines to the cells.",
+    t4_b1: "Lungs give oxygen to the blood.", t4_b2: "Small intestine gives nutrients to the blood.", t4_b3: "The heart pumps all of this throughout the body.",
+    t4_inst: "Respiratory or Digestive System? Sort the organs!",
+    t4_bucket_leg: "Respiratory System", t4_bucket_eme: "Digestive System",
+    t4_item_l1: "Lungs", t4_item_l2: "Trachea", t4_item_e1: "Stomach", t4_item_e2: "Small Intestine",
+    t4_q: "Which system delivers nutrients to the cells?", t4_q_a: "The circulatory system", t4_q_b: "The respiratory system", t4_q_c: "The digestive system", t4_q_d: "The skeletal system",
+
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about the amazing systems of the human body!",
+    t5_b1: "Digestion: breaking down food.", t5_b2: "Respiration: taking in oxygen.", t5_b3: "Circulation: transport using the heart.",
+    t5_inst: "How do body systems function?", t5_gap_sentence2: "Body systems work closely {gap} for survival.",
+    t5_c51: "together", t5_c52: "apart", t5_c53: "against each other",
+    t5_q: "Which organ is NOT part of the respiratory system?", t5_q_a: "The heart", t5_q_b: "The lungs", t5_q_c: "The trachea", t5_q_d: "The nasal cavity",
+  },
+  de: {
+    explorer_title: "Körpersysteme",
+    t1_title: "Das Verdauungssystem", t1_text: "Das Verdauungssystem zerkleinert die Nahrung und wandelt sie in verwertbare Nährstoffe um.",
+    t1_b1: "Mundhöhle: Zähne zerkleinern das Essen.", t1_b2: "Magen: Magensäure beginnt mit der Verdauung von Proteinen.", t1_b3: "Dünndarm: Hier werden Nährstoffe ins Blut aufgenommen.",
+    t1_inst: "Wo werden Nährstoffe aufgenommen?", t1_gap_sentence: "Nährstoffe werden im {gap} ins Blut aufgenommen.",
+    t1_c1: "Dünndarm", t1_c2: "Dickdarm", t1_c3: "Speiseröhre",
+    t1_q: "Was ist die Hauptaufgabe des Magens?", t1_q_a: "Nahrung mit Säure zersetzen", t1_q_b: "Luft filtern", t1_q_c: "Blut pumpen", t1_q_d: "Abfall ausscheiden",
+
+    t2_title: "Das Herz-Kreislauf-System", t2_text: "Das Kreislaufsystem transportiert Nährstoffe und Sauerstoff zu allen Zellen und transportiert Abfallstoffe ab.",
+    t2_b1: "Herz: der muskulöse Antrieb, der das Blut pumpt.", t2_b2: "Arterien (Schlagadern): führen Blut vom Herzen weg.", t2_b3: "Venen: führen Blut zum Herzen zurück.",
+    t2_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t2_w1: "Das", t2_w2: "Herz", t2_w3: "pumpt", t2_w4: "das", t2_w5: "Blut.",
+    t2_q: "Welche Blutgefäße führen das Blut vom Herzen in den Körper?", t2_q_a: "Arterien", t2_q_b: "Venen", t2_q_c: "Kapillaren", t2_q_d: "Lymphgefäße",
+
+    t3_title: "Das Atmungssystem", t3_text: "Das Atmungssystem versorgt den Körper mit Sauerstoff und entfernt überschüssiges Kohlendioxid.",
+    t3_b1: "Nase und Mund: hier strömt die Luft ein.", t3_b2: "Luftröhre: das Rohr zur Lunge.", t3_b3: "Lunge: hier findet der Gasaustausch statt.",
+    t3_inst: "Verbinde die Begriffe!",
+    t3_l1: "Einatmen", t3_r1: "Sauerstoff aufnehmen", t3_l2: "Ausatmen", t3_r2: "Kohlendioxid abgeben", t3_l3: "Lunge", t3_r3: "Organ des Gasaustauschs",
+    t3_q: "Welches Gas atmen wir in größeren Mengen aus?", t3_q_a: "Kohlendioxid", t3_q_b: "Sauerstoff", t3_q_c: "Stickstoff", t3_q_d: "Helium",
+
+    t4_title: "Zusammenwirken der Systeme", t4_text: "Die Körpersysteme können nicht ohne einander arbeiten. Der Kreislauf bringt Sauerstoff aus der Lunge und Nährstoffe aus dem Darm zu den Zellen.",
+    t4_b1: "Die Lunge gibt dem Blut Sauerstoff.", t4_b2: "Der Dünndarm gibt dem Blut Nährstoffe.", t4_b3: "Das Herz pumpt alles durch den ganzen Körper.",
+    t4_inst: "Atmungssystem oder Verdauungssystem? Sortiere die Organe!",
+    t4_bucket_leg: "Atmungssystem", t4_bucket_eme: "Verdauungssystem",
+    t4_item_l1: "Lunge", t4_item_l2: "Luftröhre", t4_item_e1: "Magen", t4_item_e2: "Dünndarm",
+    t4_q: "Welches System transportiert die Nährstoffe zu den Zellen?", t4_q_a: "Kreislaufsystem", t4_q_b: "Atmungssystem", t4_q_c: "Verdauungssystem", t4_q_d: "Skelettsystem",
+
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über die erstaunlichen Systeme des menschlichen Körpers!",
+    t5_b1: "Verdauung: Nahrung zerlegen.", t5_b2: "Atmung: Sauerstoff aufnehmen.", t5_b3: "Kreislauf: Transport durch das Herz.",
+    t5_inst: "Wie funktionieren die Körpersysteme?", t5_gap_sentence2: "Die Körpersysteme arbeiten eng {gap}.",
+    t5_c51: "zusammen", t5_c52: "getrennt", t5_c53: "gegeneinander",
+    t5_q: "Welches Organ ist KEIN Teil des Atmungssystems?", t5_q_a: "Das Herz", t5_q_b: "Die Lunge", t5_q_c: "Die Luftröhre", t5_q_d: "Die Nasenhöhle",
+  },
   ro: {
-    // Round 1: Sistemul circulator
-    r1_title: "Sistemul circulator ❤️",
-    r1_text: "Inima pompează sânge prin corp, transportând oxigen și nutrienți. Arterele transportă sânge bogat în oxigen departe de inimă, venele readuc sângele sărac în oxigen.",
-    r1_b1: "Inima: 4 camere pompează sânge prin tot corpul",
-    r1_b2: "Arterele: transportă sânge bogat în oxigen (roșu)",
-    r1_b3: "Venele: readuc sânge sărac în oxigen la inimă (albastru)",
+    explorer_title: "Sistemele Corpului",
+    t1_title: "Sistemul Digestiv", t1_text: "Sistemul digestiv descompune hrana și o transformă în nutrienți pe care corpul îi poate folosi.",
+    t1_b1: "Cavitatea bucală: dinții mărunțesc mâncarea.", t1_b2: "Stomacul: acidul gastric începe digestia proteinelor.", t1_b3: "Intestinul subțire: aici nutrienții sunt absorbiți în sânge.",
+    t1_inst: "Unde sunt absorbiți nutrienții?", t1_gap_sentence: "Nutrienții sunt absorbiți în sânge în {gap}.",
+    t1_c1: "intestinul subțire", t1_c2: "intestinul gros", t1_c3: "esofag",
+    t1_q: "Care este principala sarcină a stomacului?", t1_q_a: "Să descompună hrana cu sucuri", t1_q_b: "Să filtreze aerul", t1_q_c: "Să pompeze sângele", t1_q_d: "Să elimine deșeurile",
 
-    // Round 2: Sistemul respirator
-    r2_title: "Sistemul respirator 🫁",
-    r2_text: "Inspiri aer bogat în oxigen prin nas și gură. Plămânii absorb oxigenul în sânge și eliberează dioxidul de carbon, pe care îl expiri.",
-    r2_b1: "Nas & gură: filtrează și încălzesc aerul",
-    r2_b2: "Traheea: duce aerul la plămâni",
-    r2_b3: "Plămâni & alveolele: schimb de oxigen și CO₂",
+    t2_title: "Sistemul Circulator", t2_text: "Sistemul circulator transportă nutrienți și oxigen la fiecare celulă și elimină deșeurile.",
+    t2_b1: "Inima: pompa musculară care pune sângele în mișcare.", t2_b2: "Arterele: duc sângele de la inimă în corp.", t2_b3: "Venele: aduc sângele înapoi la inimă.",
+    t2_inst: "Pune cuvintele în ordine!",
+    t2_w1: "Inima", t2_w2: "pompează", t2_w3: "sângele", t2_w4: "în", t2_w5: "corp.",
+    t2_q: "Ce vase de sânge duc sângele de la inimă către corp?", t2_q_a: "Arterele", t2_q_b: "Venele", t2_q_c: "Capilarele", t2_q_d: "Vasele limfatice",
 
-    // Round 3: Sistemul digestiv
-    r3_title: "Sistemul digestiv 🫙",
-    r3_text: "Sistemul tău digestiv descompune mâncarea în nutrienți pe care corpul tău îi poate folosi. Mâncarea trece din gură în stomac și apoi în intestine.",
-    r3_b1: "Gură: descompune mâncarea prin mestecarea și salivă",
-    r3_b2: "Stomac: sfărâmă mâncarea cu acid gastric",
-    r3_b3: "Intestinul subțire: absorbe nutrienți în sânge",
+    t3_title: "Sistemul Respirator", t3_text: "Sistemul respirator asigură organismului oxigenul necesar și elimină dioxidul de carbon.",
+    t3_b1: "Nas și gură: pe aici intră aerul.", t3_b2: "Traheea: tubul care duce la plămâni.", t3_b3: "Plămânii: aici are loc schimbul de gaze.",
+    t3_inst: "Potrivește conceptele!",
+    t3_l1: "Inspirație", t3_r1: "Preluarea oxigenului", t3_l2: "Expirație", t3_r2: "Eliminarea dioxidului de carbon", t3_l3: "Plămâni", t3_r3: "Organul schimbului de gaze",
+    t3_q: "Ce gaz expirăm în cantități mai mari?", t3_q_a: "Dioxid de carbon", t3_q_b: "Oxigen", t3_q_c: "Azot", t3_q_d: "Heliu",
 
-    // Round 4: Sistemul excretor
-    r4_title: "Sistemul excretor 🚽",
-    r4_text: "Sistemul excretor elimină deșeurile din corp. Rinichii filtrează deșeurile din sânge ca urină, iar pielea elimină deșeuri prin transpirație.",
-    r4_b1: "Rinichi: filtrează deșeuri din sânge în urină",
-    r4_b2: "Vezica: depozitează urină până la eliminare",
-    r4_b3: "Piele: elimină deșeuri prin glandele de transpirație",
+    t4_title: "Cooperarea Sistemelor", t4_text: "Sistemele corpului nu pot funcționa unele fără altele. Sistemul circulator transportă oxigen de la plămâni și nutrienți de la intestine la celule.",
+    t4_b1: "Plămânii dau oxigen sângelui.", t4_b2: "Intestinul subțire dă nutrienți sângelui.", t4_b3: "Inima pompează toate acestea prin corp.",
+    t4_inst: "Sistem respirator sau digestiv? Sortează organele!",
+    t4_bucket_leg: "Sistemul Respirator", t4_bucket_eme: "Sistemul Digestiv",
+    t4_item_l1: "Plămâni", t4_item_l2: "Trahee", t4_item_e1: "Stomac", t4_item_e2: "Intestin subțire",
+    t4_q: "Care sistem livrează nutrienți celulelor?", t4_q_a: "Sistemul circulator", t4_q_b: "Sistemul respirator", t4_q_c: "Sistemul digestiv", t4_q_d: "Sistemul scheletic",
 
-    // Round 5: Quiz questions
-    q1: "Ce sistem pompează sânge prin corp?",
-    q1_a: "Sistemul circulator",
-    q1_b: "Sistemul respirator",
-    q1_c: "Sistemul digestiv",
-
-    q2: "Unde intră oxigenul din aer în sânge?",
-    q2_a: "În plămâni",
-    q2_b: "În stomac",
-    q2_c: "În inimă",
-
-    q3: "Ce organ descompune mâncarea cu acid?",
-    q3_a: "Stomac",
-    q3_b: "Ficat",
-    q3_c: "Pancreas",
-
-    q4: "Ce deșeuri filtrează rinichii din sânge?",
-    q4_a: "Urină",
-    q4_b: "Oxigen",
-    q4_c: "Glucoză",
-
-    q5: "Ce sistem elimină deșeuri prin transpirație?",
-    q5_a: "Sistemul excretor",
-    q5_b: "Sistemul imunitar",
-    q5_c: "Sistemul nervos",
-  },
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre sistemele uimitoare ale corpului uman!",
+    t5_b1: "Digestie: descompunerea hranei.", t5_b2: "Respirație: asimilarea oxigenului.", t5_b3: "Circulație: transport folosind inima.",
+    t5_inst: "Cum funcționează sistemele corpului?", t5_gap_sentence2: "Sistemele corpului lucrează strâns {gap}.",
+    t5_c51: "împreună", t5_c52: "separat", t5_c53: "unele împotriva altora",
+    t5_q: "Care organ NU face parte din sistemul respirator?", t5_q_a: "Inima", t5_q_b: "Plămânii", t5_q_c: "Traheea", t5_q_d: "Cavitatea nazală",
+  }
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Components (R1-R4 teaching visuals)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-function SvgRound1(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="bs_r1_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#1a0a14" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <radialGradient id="bs_r1_heart" cx="45%" cy="35%" r="55%">
-          <stop offset="0%" stopColor="#FF5252" />
-          <stop offset="40%" stopColor="#D32F2F" />
-          <stop offset="80%" stopColor="#B71C1C" />
-          <stop offset="100%" stopColor="#7f0000" />
-        </radialGradient>
-        <linearGradient id="bs_r1_artery" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#FF5252" />
-          <stop offset="50%" stopColor="#EF5350" />
-          <stop offset="100%" stopColor="#E53935" />
-        </linearGradient>
-        <linearGradient id="bs_r1_vein" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#5C6BC0" />
-          <stop offset="50%" stopColor="#3F51B5" />
-          <stop offset="100%" stopColor="#283593" />
-        </linearGradient>
-        <radialGradient id="bs_r1_aorta" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="#FF8A80" />
-          <stop offset="100%" stopColor="#D32F2F" />
-        </radialGradient>
-        <filter id="bs_r1_glow">
-          <feGaussianBlur stdDeviation="2" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-        <filter id="bs_r1_pulse">
-          <feGaussianBlur stdDeviation="4" />
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#bs_r1_bg)" />
-
-      {/* Heart glow */}
-      <ellipse cx="120" cy="68" rx="30" ry="28" fill="#FF5252" opacity="0.06" filter="url(#bs_r1_pulse)" />
-
-      {/* ── HEART — anatomical shape with 4 chambers ── */}
-      <g filter="url(#bs_r1_glow)">
-        {/* Heart outer shape */}
-        <path d="M 120,40 Q 108,30 100,38 Q 92,48 98,60 L 120,88 L 142,60 Q 148,48 140,38 Q 132,30 120,40 Z" fill="url(#bs_r1_heart)" />
-        {/* Heart highlight */}
-        <path d="M 106,40 Q 100,46 102,54" stroke="rgba(255,255,255,0.12)" strokeWidth="1.5" fill="none" strokeLinecap="round" />
-
-        {/* Chamber dividers */}
-        <line x1="98" y1="58" x2="142" y2="58" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
-        <line x1="120" y1="42" x2="120" y2="82" stroke="rgba(127,0,0,0.5)" strokeWidth="0.8" />
-
-        {/* Chamber coloring — left side (oxygenated=brighter red) */}
-        <path d="M 120,42 Q 108,34 102,40 Q 96,48 98,58 L 120,58 Z" fill="rgba(255,130,130,0.15)" />
-        <path d="M 98,58 L 120,58 L 120,82 L 107,68 Q 98,60 98,58 Z" fill="rgba(255,130,130,0.1)" />
-        {/* Right side (deoxygenated=bluer) */}
-        <path d="M 120,42 Q 132,34 138,40 Q 144,48 142,58 L 120,58 Z" fill="rgba(100,120,200,0.12)" />
-        <path d="M 142,58 L 120,58 L 120,82 L 133,68 Q 142,60 142,58 Z" fill="rgba(100,120,200,0.08)" />
-      </g>
-
-      {/* ── AORTA (main artery) arching up from heart ── */}
-      <path d="M 118,42 Q 118,28 130,22 Q 145,18 155,25" stroke="url(#bs_r1_artery)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Branching arteries */}
-      <path d="M 155,25 Q 168,20 185,18" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <path d="M 140,20 Q 148,12 160,10" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
-      {/* Left-side arteries */}
-      <path d="M 100,42 Q 88,30 70,22" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <path d="M 78,26 Q 65,18 50,15" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
-      {/* Descending aorta */}
-      <path d="M 120,85 Q 120,100 118,115 Q 116,128 110,140" stroke="url(#bs_r1_artery)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <path d="M 118,115 Q 125,128 132,140" stroke="url(#bs_r1_artery)" strokeWidth="2" fill="none" strokeLinecap="round" />
-
-      {/* ── VEINS returning to heart ── */}
-      <path d="M 50,145 Q 70,130 90,120 Q 100,115 102,100 Q 100,90 100,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      <path d="M 190,145 Q 170,130 150,120 Q 140,115 138,100 Q 140,90 140,78" stroke="url(#bs_r1_vein)" strokeWidth="3" fill="none" strokeLinecap="round" />
-      {/* Superior vena cava */}
-      <path d="M 185,10 Q 170,15 155,25 Q 145,32 140,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-      <path d="M 50,10 Q 70,18 85,30 Q 95,38 100,42" stroke="url(#bs_r1_vein)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-
-      {/* Tiny capillary network at extremities */}
-      {[{x:40,y:148},{x:195,y:148},{x:45,y:8},{x:195,y:8}].map((p,i) => (
-        <g key={i} opacity="0.3">
-          <circle cx={p.x} cy={p.y} r="5" fill="none" stroke={i<2?"#E53935":"#3F51B5"} strokeWidth="0.4" />
-          <path d={`M ${p.x-4},${p.y} Q ${p.x},${p.y-3} ${p.x+4},${p.y}`} stroke="rgba(200,150,200,0.4)" strokeWidth="0.4" fill="none" />
-        </g>
-      ))}
-
-      {/* Directional flow arrows on arteries */}
-      <polygon points="70,22 66,20 68,24" fill="#E53935" opacity="0.6" />
-      <polygon points="185,18 181,16 183,20" fill="#E53935" opacity="0.6" />
-      <polygon points="110,140 108,136 112,137" fill="#E53935" opacity="0.6" />
-      {/* Flow arrows on veins */}
-      <polygon points="90,120 88,116 92,117" fill="#3F51B5" opacity="0.6" />
-      <polygon points="150,120 148,116 152,117" fill="#3F51B5" opacity="0.6" />
-
-      {/* Color-coded indicator dots */}
-      <circle cx="22" cy="22" r="4" fill="rgba(229,57,53,0.2)" stroke="#E53935" strokeWidth="0.7" />
-      <circle cx="22" cy="22" r="1.5" fill="#E53935" opacity="0.5" />
-      <circle cx="22" cy="140" r="4" fill="rgba(63,81,181,0.2)" stroke="#3F51B5" strokeWidth="0.7" />
-      <circle cx="22" cy="140" r="1.5" fill="#3F51B5" opacity="0.5" />
-    </svg>
-  );
-}
-
-function SvgRound2(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="bs_r2_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#0a1420" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="bs_r2_trachea" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#80DEEA" />
-          <stop offset="50%" stopColor="#4DD0E1" />
-          <stop offset="100%" stopColor="#00ACC1" />
-        </linearGradient>
-        <radialGradient id="bs_r2_lung_l" cx="45%" cy="40%" r="55%">
-          <stop offset="0%" stopColor="#FF8A80" />
-          <stop offset="40%" stopColor="#EF5350" />
-          <stop offset="80%" stopColor="#C62828" />
-          <stop offset="100%" stopColor="#8E0000" />
-        </radialGradient>
-        <radialGradient id="bs_r2_lung_r" cx="55%" cy="40%" r="55%">
-          <stop offset="0%" stopColor="#FF8A80" />
-          <stop offset="40%" stopColor="#EF5350" />
-          <stop offset="80%" stopColor="#C62828" />
-          <stop offset="100%" stopColor="#8E0000" />
-        </radialGradient>
-        <radialGradient id="bs_r2_alveoli" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="#FFCDD2" />
-          <stop offset="100%" stopColor="#EF9A9A" />
-        </radialGradient>
-        <linearGradient id="bs_r2_nose" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFCCBC" />
-          <stop offset="100%" stopColor="#FFAB91" />
-        </linearGradient>
-        <filter id="bs_r2_glow">
-          <feGaussianBlur stdDeviation="1.5" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#bs_r2_bg)" />
-
-      {/* Body silhouette outline */}
-      <path d="M 90,8 Q 80,5 75,10 Q 70,18 78,28 L 78,35 Q 65,42 55,60 Q 48,75 50,95 Q 52,120 60,140 L 60,155 M 150,8 Q 160,5 165,10 Q 170,18 162,28 L 162,35 Q 175,42 185,60 Q 192,75 190,95 Q 188,120 180,140 L 180,155" stroke="rgba(255,255,255,0.06)" strokeWidth="0.8" fill="none" />
-
-      {/* Nose/nasal passage */}
-      <path d="M 116,10 Q 112,8 110,12 Q 108,18 112,22 L 120,22 Q 128,18 130,12 Q 128,8 124,10 Z" fill="url(#bs_r2_nose)" opacity="0.5" />
-      {/* Nasal cavity inside */}
-      <path d="M 114,14 Q 116,18 118,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
-      <path d="M 126,14 Q 124,18 122,20" stroke="rgba(200,100,80,0.3)" strokeWidth="0.5" fill="none" />
-
-      {/* Pharynx */}
-      <path d="M 116,22 Q 118,28 120,32" stroke="url(#bs_r2_trachea)" strokeWidth="3.5" fill="none" strokeLinecap="round" opacity="0.6" />
-
-      {/* Trachea — ring segments */}
-      {[0, 1, 2, 3, 4, 5, 6].map((i) => (
-        <g key={`tr${i}`}>
-          <path d={`M 116,${34 + i * 5} Q 120,${36 + i * 5} 124,${34 + i * 5}`} stroke="url(#bs_r2_trachea)" strokeWidth="2.5" fill="none" />
-          {/* Cartilage ring */}
-          <path d={`M 115,${34 + i * 5} Q 120,${32 + i * 5} 125,${34 + i * 5}`} stroke="rgba(77,208,225,0.3)" strokeWidth="1" fill="none" />
-        </g>
-      ))}
-
-      {/* Bronchi branching */}
-      <path d="M 118,68 Q 105,75 90,82 Q 78,88 72,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
-      <path d="M 122,68 Q 135,75 150,82 Q 162,88 168,95" stroke="url(#bs_r2_trachea)" strokeWidth="2" fill="none" strokeLinecap="round" />
-      {/* Secondary bronchi */}
-      <path d="M 85,86 Q 75,92 68,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
-      <path d="M 90,84 Q 85,95 82,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
-      <path d="M 155,86 Q 165,92 172,100" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
-      <path d="M 150,84 Q 155,95 158,108" stroke="rgba(77,208,225,0.5)" strokeWidth="1.2" fill="none" />
-
-      {/* Left lung */}
-      <path d="M 96,78 Q 58,82 48,105 Q 42,125 50,142 Q 58,152 80,154 Q 100,152 108,140 Q 115,125 112,105 Q 108,88 96,78 Z" fill="url(#bs_r2_lung_l)" opacity="0.7" />
-      {/* Lung lobe division */}
-      <path d="M 60,110 Q 80,108 105,115" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
-
-      {/* Right lung */}
-      <path d="M 144,78 Q 182,82 192,105 Q 198,125 190,142 Q 182,152 160,154 Q 140,152 132,140 Q 125,125 128,105 Q 132,88 144,78 Z" fill="url(#bs_r2_lung_r)" opacity="0.7" />
-      {/* Lung lobe divisions (right has 3 lobes) */}
-      <path d="M 135,105 Q 160,102 188,108" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
-      <path d="M 138,125 Q 160,122 185,128" stroke="rgba(127,0,0,0.3)" strokeWidth="0.8" fill="none" />
-
-      {/* Alveoli clusters */}
-      {[{x:68,y:98},{x:78,y:115},{x:65,y:128},{x:85,y:135},{x:72,y:142},
-        {x:165,y:98},{x:158,y:115},{x:175,y:128},{x:155,y:135},{x:168,y:142}].map((p,i) => (
-        <g key={`a${i}`}>
-          <circle cx={p.x} cy={p.y} r="4" fill="url(#bs_r2_alveoli)" opacity="0.4" />
-          <circle cx={p.x-2} cy={p.y-1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
-          <circle cx={p.x+2} cy={p.y+1} r="2.5" fill="url(#bs_r2_alveoli)" opacity="0.3" />
-        </g>
-      ))}
-
-      {/* O2 flow arrows (blue, incoming) */}
-      <path d="M 30,15 Q 60,12 110,14" stroke="rgba(100,181,246,0.35)" strokeWidth="1.2" fill="none" />
-      <polygon points="108,14 104,12 104,16" fill="rgba(100,181,246,0.4)" />
-      <path d="M 25,22 Q 55,20 108,18" stroke="rgba(100,181,246,0.25)" strokeWidth="0.8" fill="none" />
-      {/* O2 dots */}
-      <circle cx="40" cy="14" r="1.5" fill="rgba(100,181,246,0.4)" />
-      <circle cx="55" cy="16" r="1.2" fill="rgba(100,181,246,0.3)" />
-      <circle cx="70" cy="12" r="1" fill="rgba(100,181,246,0.25)" />
-
-      {/* CO2 flow arrows (orange, outgoing) */}
-      <path d="M 130,14 Q 170,12 210,18" stroke="rgba(255,167,38,0.35)" strokeWidth="1.2" fill="none" />
-      <polygon points="210,18 206,16 207,20" fill="rgba(255,167,38,0.4)" />
-      {/* CO2 dots */}
-      <circle cx="175" cy="12" r="1.5" fill="rgba(255,167,38,0.35)" />
-      <circle cx="190" cy="14" r="1.2" fill="rgba(255,167,38,0.25)" />
-      <circle cx="200" cy="16" r="1" fill="rgba(255,167,38,0.2)" />
-
-      {/* Gas exchange zoomed hint (bottom right) */}
-      <circle cx="218" cy="130" r="12" fill="rgba(255,205,210,0.08)" stroke="rgba(255,205,210,0.15)" strokeWidth="0.5" />
-      <circle cx="215" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
-      <circle cx="221" cy="128" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
-      <circle cx="218" cy="133" r="3" fill="url(#bs_r2_alveoli)" opacity="0.4" />
-      <path d="M 212,126 L 208,122" stroke="rgba(100,181,246,0.3)" strokeWidth="0.5" />
-      <path d="M 224,126 L 228,122" stroke="rgba(255,167,38,0.3)" strokeWidth="0.5" />
-    </svg>
-  );
-}
-
-function SvgRound3(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="bs_r3_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#1a150a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <linearGradient id="bs_r3_mouth" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFAB91" />
-          <stop offset="100%" stopColor="#E64A19" />
-        </linearGradient>
-        <linearGradient id="bs_r3_esoph" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFAB91" />
-          <stop offset="50%" stopColor="#FF7043" />
-          <stop offset="100%" stopColor="#E64A19" />
-        </linearGradient>
-        <radialGradient id="bs_r3_stomach" cx="45%" cy="35%" r="60%">
-          <stop offset="0%" stopColor="#FFCC80" />
-          <stop offset="30%" stopColor="#FFA726" />
-          <stop offset="70%" stopColor="#EF6C00" />
-          <stop offset="100%" stopColor="#BF360C" />
-        </radialGradient>
-        <linearGradient id="bs_r3_sm_int" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FFE0B2" />
-          <stop offset="40%" stopColor="#FFB74D" />
-          <stop offset="100%" stopColor="#F57C00" />
-        </linearGradient>
-        <linearGradient id="bs_r3_lg_int" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#D7CCC8" />
-          <stop offset="50%" stopColor="#A1887F" />
-          <stop offset="100%" stopColor="#6D4C41" />
-        </linearGradient>
-        <radialGradient id="bs_r3_liver" cx="40%" cy="40%" r="55%">
-          <stop offset="0%" stopColor="#A1887F" />
-          <stop offset="100%" stopColor="#4E342E" />
-        </radialGradient>
-        <filter id="bs_r3_glow">
-          <feGaussianBlur stdDeviation="1" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#bs_r3_bg)" />
-
-      {/* Body torso silhouette */}
-      <path d="M 88,5 Q 80,8 78,18 L 72,65 Q 68,100 72,135 L 75,155 M 152,5 Q 160,8 162,18 L 168,65 Q 172,100 168,135 L 165,155" stroke="rgba(255,255,255,0.05)" strokeWidth="0.8" fill="none" />
-
-      {/* ── MOUTH — open cavity ── */}
-      <path d="M 112,8 Q 108,5 106,10 Q 108,18 114,20 L 126,20 Q 132,18 134,10 Q 132,5 128,8 Z" fill="url(#bs_r3_mouth)" opacity="0.6" />
-      {/* Teeth hint */}
-      <path d="M 110,16 L 114,14 L 118,16 L 122,14 L 126,16 L 130,14" stroke="rgba(255,255,255,0.2)" strokeWidth="0.5" fill="none" />
-
-      {/* ── ESOPHAGUS — muscular tube ── */}
-      <path d="M 118,20 Q 116,28 115,36 Q 114,44 116,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      <path d="M 122,20 Q 124,28 125,36 Q 126,44 124,50" stroke="url(#bs_r3_esoph)" strokeWidth="4" fill="none" strokeLinecap="round" opacity="0.5" />
-      {/* Peristalsis wave hints */}
-      <path d="M 114,30 Q 120,28 126,30" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
-      <path d="M 113,38 Q 120,36 127,38" stroke="rgba(255,171,145,0.2)" strokeWidth="0.5" fill="none" />
-
-      {/* ── STOMACH — J-shaped sac ── */}
-      <path d="M 100,52 Q 92,48 88,55 Q 84,65 86,78 Q 90,92 102,98 Q 115,102 128,96 Q 140,88 142,75 Q 143,62 138,55 Q 134,50 126,52 Z" fill="url(#bs_r3_stomach)" filter="url(#bs_r3_glow)" />
-      {/* Stomach folds (rugae) */}
-      <path d="M 94,60 Q 110,58 130,62" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
-      <path d="M 90,70 Q 110,68 138,72" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
-      <path d="M 92,80 Q 112,78 135,82" stroke="rgba(191,54,12,0.3)" strokeWidth="0.6" fill="none" />
-      {/* Stomach acid dots */}
-      <circle cx="105" cy="72" r="1" fill="rgba(255,235,59,0.3)" />
-      <circle cx="118" cy="68" r="0.8" fill="rgba(255,235,59,0.25)" />
-      <circle cx="125" cy="78" r="1" fill="rgba(255,235,59,0.2)" />
-
-      {/* Liver (behind/above stomach) */}
-      <path d="M 138,48 Q 155,42 168,48 Q 175,55 170,65 Q 165,72 148,70 Q 138,68 135,60 Q 134,52 138,48 Z" fill="url(#bs_r3_liver)" opacity="0.5" />
-
-      {/* ── SMALL INTESTINE — coiled loops ── */}
-      <path d="M 115,98 Q 108,105 100,108 Q 90,112 85,120 Q 82,128 90,132 Q 100,135 110,130 Q 118,125 125,130 Q 135,135 145,130 Q 152,125 148,118 Q 142,112 132,115 Q 122,118 115,112 Q 108,108 112,102" stroke="url(#bs_r3_sm_int)" strokeWidth="4" fill="none" strokeLinecap="round" />
-      {/* Villi texture on small intestine */}
-      {[{x:95,y:116},{x:105,y:128},{x:120,y:128},{x:138,y:128},{x:145,y:120}].map((p,i) => (
-        <g key={`v${i}`} opacity="0.3">
-          <line x1={p.x} y1={p.y-2} x2={p.x} y2={p.y+2} stroke="#FFE0B2" strokeWidth="0.4" />
-          <line x1={p.x-1.5} y1={p.y-1.5} x2={p.x-1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
-          <line x1={p.x+1.5} y1={p.y-1.5} x2={p.x+1.5} y2={p.y+1.5} stroke="#FFE0B2" strokeWidth="0.4" />
-        </g>
-      ))}
-
-      {/* ── LARGE INTESTINE — framing the small intestine ── */}
-      <path d="M 155,98 Q 165,100 170,110 Q 175,125 170,140 Q 165,150 150,152 Q 120,155 90,152 Q 75,150 72,140 Q 68,128 72,115 Q 75,108 82,105" stroke="url(#bs_r3_lg_int)" strokeWidth="5" fill="none" strokeLinecap="round" opacity="0.5" />
-      {/* Haustra (pouches) on large intestine */}
-      {[{x:170,y:115},{x:172,y:130},{x:168,y:145},{x:148,y:152},{x:120,y:155},{x:90,y:152},{x:75,y:140},{x:70,y:125}].map((p,i) => (
-        <circle key={`h${i}`} cx={p.x} cy={p.y} r="1" fill="rgba(161,136,127,0.3)" />
-      ))}
-
-      {/* Nutrient absorption arrows (green, from small intestine outward) */}
-      <path d="M 148,125 Q 160,118 172,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
-      <polygon points="172,112 169,114 170,110" fill="rgba(0,200,83,0.3)" />
-      <path d="M 90,125 Q 78,118 68,112" stroke="rgba(0,200,83,0.3)" strokeWidth="0.8" fill="none" />
-      <polygon points="68,112 71,114 70,110" fill="rgba(0,200,83,0.3)" />
-
-      {/* Food particle dots moving through system */}
-      <circle cx="120" cy="32" r="1.5" fill="rgba(255,235,59,0.4)" />
-      <circle cx="118" cy="46" r="1.2" fill="rgba(255,235,59,0.3)" />
-      <circle cx="110" cy="75" r="1.5" fill="rgba(255,235,59,0.25)" />
-      <circle cx="108" cy="110" r="1" fill="rgba(255,235,59,0.2)" />
-    </svg>
-  );
-}
-
-function SvgRound4(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="bs_r4_bg" cx="50%" cy="50%" r="70%">
-          <stop offset="0%" stopColor="#14100a" />
-          <stop offset="100%" stopColor="#0a0a14" />
-        </radialGradient>
-        <radialGradient id="bs_r4_kidney_l" cx="40%" cy="35%" r="55%">
-          <stop offset="0%" stopColor="#EF9A9A" />
-          <stop offset="30%" stopColor="#E57373" />
-          <stop offset="70%" stopColor="#C62828" />
-          <stop offset="100%" stopColor="#7f0000" />
-        </radialGradient>
-        <radialGradient id="bs_r4_kidney_r" cx="60%" cy="35%" r="55%">
-          <stop offset="0%" stopColor="#EF9A9A" />
-          <stop offset="30%" stopColor="#E57373" />
-          <stop offset="70%" stopColor="#C62828" />
-          <stop offset="100%" stopColor="#7f0000" />
-        </radialGradient>
-        <radialGradient id="bs_r4_bladder" cx="50%" cy="40%" r="55%">
-          <stop offset="0%" stopColor="#FFF9C4" />
-          <stop offset="30%" stopColor="#FFF176" />
-          <stop offset="70%" stopColor="#FBC02D" />
-          <stop offset="100%" stopColor="#F57F17" />
-        </radialGradient>
-        <linearGradient id="bs_r4_ureter" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFAB91" />
-          <stop offset="100%" stopColor="#BF360C" />
-        </linearGradient>
-        <linearGradient id="bs_r4_skin" x1="50%" y1="0%" x2="50%" y2="100%">
-          <stop offset="0%" stopColor="#FFCCBC" />
-          <stop offset="50%" stopColor="#FFAB91" />
-          <stop offset="100%" stopColor="#D7CCC8" />
-        </linearGradient>
-        <radialGradient id="bs_r4_sweat" cx="50%" cy="30%" r="50%">
-          <stop offset="0%" stopColor="#B3E5FC" />
-          <stop offset="100%" stopColor="#0288D1" />
-        </radialGradient>
-        <filter id="bs_r4_glow">
-          <feGaussianBlur stdDeviation="1.5" result="blur" />
-          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-        </filter>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#bs_r4_bg)" />
-
-      {/* ── LEFT: Urinary system ── */}
-
-      {/* Spine hint (center) */}
-      {[0,1,2,3,4,5,6].map(i => (
-        <rect key={`sp${i}`} x="78" y={18+i*8} width="4" height="6" rx="1" fill="rgba(200,180,150,0.1)" />
-      ))}
-
-      {/* Left kidney — bean shape */}
-      <path d="M 42,28 Q 30,32 26,45 Q 24,58 28,68 Q 34,78 48,80 Q 58,78 62,68 Q 66,55 60,42 Q 56,32 48,28 Z" fill="url(#bs_r4_kidney_l)" filter="url(#bs_r4_glow)" />
-      {/* Kidney hilum (indentation) */}
-      <path d="M 56,48 Q 50,52 50,58 Q 50,64 56,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
-      {/* Internal structure — medulla/cortex hint */}
-      <ellipse cx="42" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
-      <path d="M 38,42 L 42,50" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
-      <path d="M 36,50 L 42,54" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
-      <path d="M 38,62 L 42,58" stroke="rgba(200,100,100,0.15)" strokeWidth="0.5" />
-      {/* Renal pelvis */}
-      <path d="M 50,54 Q 55,54 58,52" stroke="rgba(255,171,145,0.4)" strokeWidth="1.5" fill="none" />
-
-      {/* Right kidney */}
-      <path d="M 118,28 Q 130,32 134,45 Q 136,58 132,68 Q 126,78 112,80 Q 102,78 98,68 Q 94,55 100,42 Q 104,32 112,28 Z" fill="url(#bs_r4_kidney_r)" filter="url(#bs_r4_glow)" />
-      <path d="M 104,48 Q 110,52 110,58 Q 110,64 104,68" stroke="rgba(127,0,0,0.4)" strokeWidth="1" fill="none" />
-      <ellipse cx="118" cy="54" rx="10" ry="16" fill="none" stroke="rgba(200,100,100,0.2)" strokeWidth="0.8" />
-
-      {/* Blood supply to kidneys (renal arteries/veins) */}
-      <path d="M 80,42 Q 68,44 58,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 80,42 Q 92,44 102,48" stroke="rgba(229,57,53,0.4)" strokeWidth="1.5" fill="none" />
-      <path d="M 58,60 Q 68,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
-      <path d="M 102,60 Q 92,58 80,56" stroke="rgba(63,81,181,0.35)" strokeWidth="1.2" fill="none" />
-
-      {/* Ureters — tubes from kidneys to bladder */}
-      <path d="M 52,78 Q 55,95 62,105 Q 68,112 72,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-      <path d="M 108,78 Q 105,95 98,105 Q 92,112 88,118" stroke="url(#bs_r4_ureter)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-
-      {/* Bladder — balloon shape */}
-      <path d="M 68,120 Q 62,122 58,130 Q 56,140 62,148 Q 70,155 80,156 Q 90,155 98,148 Q 104,140 102,130 Q 98,122 92,120 Z" fill="url(#bs_r4_bladder)" filter="url(#bs_r4_glow)" />
-      {/* Bladder wall folds */}
-      <path d="M 65,130 Q 80,128 95,132" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
-      <path d="M 62,140 Q 80,138 98,142" stroke="rgba(245,127,23,0.2)" strokeWidth="0.5" fill="none" />
-      {/* Urethra */}
-      <path d="M 80,156 L 80,158" stroke="rgba(251,192,45,0.4)" strokeWidth="2" strokeLinecap="round" />
-
-      {/* Waste flow indicators */}
-      <circle cx="55" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
-      <circle cx="58" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
-      <circle cx="65" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
-      <circle cx="105" cy="88" r="1.2" fill="rgba(255,235,59,0.4)" />
-      <circle cx="102" cy="98" r="1" fill="rgba(255,235,59,0.3)" />
-      <circle cx="95" cy="110" r="1" fill="rgba(255,235,59,0.25)" />
-
-      {/* ── RIGHT: Skin cross-section with sweat glands ── */}
-      <g>
-        {/* Skin layers */}
-        {/* Epidermis */}
-        <path d="M 148,20 L 232,20 L 232,35 L 148,35 Z" fill="url(#bs_r4_skin)" opacity="0.6" />
-        {/* Dermis */}
-        <path d="M 148,35 L 232,35 L 232,65 L 148,65 Z" fill="rgba(255,171,145,0.15)" />
-        {/* Subcutaneous */}
-        <path d="M 148,65 L 232,65 L 232,85 L 148,85 Z" fill="rgba(255,224,178,0.08)" />
-
-        {/* Hair follicles */}
-        <line x1="162" y1="12" x2="162" y2="45" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
-        <line x1="195" y1="14" x2="195" y2="48" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
-        <line x1="218" y1="11" x2="218" y2="42" stroke="rgba(100,80,60,0.3)" strokeWidth="0.8" />
-
-        {/* Sweat glands (coiled tubes in dermis) */}
-        <path d="M 175,55 Q 172,50 175,45 Q 178,42 175,38" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
-        <circle cx="175" cy="58" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
-        <circle cx="175" cy="58" r="1.5" fill="rgba(2,136,209,0.2)" />
-
-        <path d="M 205,52 Q 202,47 205,42 Q 208,39 205,35" stroke="rgba(2,136,209,0.5)" strokeWidth="1" fill="none" />
-        <circle cx="205" cy="55" r="3" fill="none" stroke="rgba(2,136,209,0.4)" strokeWidth="0.8" />
-        <circle cx="205" cy="55" r="1.5" fill="rgba(2,136,209,0.2)" />
-
-        {/* Sweat pore openings on skin surface */}
-        <circle cx="175" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
-        <circle cx="205" cy="20" r="1" fill="rgba(2,136,209,0.4)" />
-
-        {/* Sweat droplets rising from skin */}
-        {[{x:170,y:12},{x:178,y:8},{x:200,y:10},{x:208,y:6},{x:190,y:4}].map((p,i) => (
-          <path key={`sw${i}`} d={`M ${p.x},${p.y+3} Q ${p.x-1},${p.y} ${p.x},${p.y-1} Q ${p.x+1},${p.y} ${p.x},${p.y+3} Z`} fill="url(#bs_r4_sweat)" opacity={0.5 - i * 0.06} />
-        ))}
-
-        {/* Blood capillary in dermis */}
-        <path d="M 155,48 Q 165,45 175,48 Q 185,51 195,48 Q 205,45 215,48 Q 225,51 230,48" stroke="rgba(229,57,53,0.25)" strokeWidth="0.8" fill="none" />
-
-        {/* Layer separation lines */}
-        <line x1="148" y1="35" x2="232" y2="35" stroke="rgba(255,255,255,0.1)" strokeWidth="0.4" />
-        <line x1="148" y1="65" x2="232" y2="65" stroke="rgba(255,255,255,0.06)" strokeWidth="0.4" />
-      </g>
-
-      {/* Skin section — waste arrow */}
-      <path d="M 190,100 Q 190,92 190,88" stroke="rgba(2,136,209,0.3)" strokeWidth="0.8" fill="none" />
-      <polygon points="190,88 188,91 192,91" fill="rgba(2,136,209,0.3)" />
-
-      {/* Connecting concept — kidney filters blood, skin sweats */}
-      <path d="M 135,54 Q 142,54 148,48" stroke="rgba(255,255,255,0.08)" strokeWidth="0.5" strokeDasharray="2,2" fill="none" />
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Quiz Questions for Round 5
-// ─────────────────────────────────────────────────────────────────────────────
-
-const QUIZ_QUESTIONS: MCQQuestion[] = [
+const TOPICS: TopicDef[] = [
   {
-    question: "q1",
-    choices: ["q1_a", "q1_b", "q1_c"],
-    answer: "q1_a",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <DigestiveSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b3",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
   {
-    question: "q2",
-    choices: ["q2_a", "q2_b", "q2_c"],
-    answer: "q2_a",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <HeartSvg lang={lang} />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
   },
   {
-    question: "q3",
-    choices: ["q3_a", "q3_b", "q3_c"],
-    answer: "q3_a",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <LungsSvg lang={lang} />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b3",
+      hint2: "t3_b1",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
   },
   {
-    question: "q4",
-    choices: ["q4_a", "q4_b", "q4_c"],
-    answer: "q4_a",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "leg", label: "t4_bucket_leg" },
+        { id: "eme", label: "t4_bucket_eme" },
+      ],
+      items: [
+        { text: "t4_item_l1", bucketId: "leg" },
+        { text: "t4_item_e1", bucketId: "eme" },
+        { text: "t4_item_l2", bucketId: "leg" },
+        { text: "t4_item_e2", bucketId: "eme" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
   },
   {
-    question: "q5",
-    choices: ["q5_a", "q5_b", "q5_c"],
-    answer: "q5_a",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b3",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
   },
 ];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// ExplorerDef Definition
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: SvgRound1,
-      bulletKeys: ["r1_b1", "r1_b2", "r1_b3"],
-      questions: [
-        {
-          question: "q1",
-          choices: ["q1_a", "q1_b", "q1_c"],
-          answer: "q1_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: SvgRound2,
-      bulletKeys: ["r2_b1", "r2_b2", "r2_b3"],
-      questions: [
-        {
-          question: "q2",
-          choices: ["q2_a", "q2_b", "q2_c"],
-          answer: "q2_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: SvgRound3,
-      bulletKeys: ["r3_b1", "r3_b2", "r3_b3"],
-      questions: [
-        {
-          question: "q3",
-          choices: ["q3_a", "q3_b", "q3_c"],
-          answer: "q3_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: SvgRound4,
-      bulletKeys: ["r4_b1", "r4_b2", "r4_b3"],
-      questions: [
-        {
-          question: "q4",
-          choices: ["q4_a", "q4_b", "q4_c"],
-          answer: "q4_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: SvgRound1,
-      questions: [
-        {
-          question: "q5",
-          choices: ["q5_a", "q5_b", "q5_c"],
-          answer: "q5_a",
-        },
-        {
-          question: "q1",
-          choices: ["q1_a", "q1_b", "q1_c"],
-          answer: "q1_a",
-        },
-      ],
-      bulletKeys: [],
-    },
-  ],
+  title: "explorer_title",
+  icon: "💪",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Component Export
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const BodySystemExplorer = memo(function BodySystemExplorer({
+  color = "#E11D48", // Sötétvörös a vérkeringés és szervek miatt
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="bio_k5_bodysystems" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function BodySystemExplorer({ color = "#FF6B9D", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default BodySystemExplorer;
