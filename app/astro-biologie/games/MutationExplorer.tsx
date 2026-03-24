@@ -1,571 +1,377 @@
 "use client";
-// MutationExplorer — Klasse 8: Mutation & Gene Technology (Mutation & Gentechnologie)
-// Teaching-first pattern: R1-R4 info rounds with MCQ, R5 review quiz
-// Topic: Types of mutations, causes, genetic engineering basics, bioethics
+// MutationExplorer.tsx — Bio Island i2: Mutáció & Géntechnika (K8)
+// Topics: 1) Mutáció típusok 2) Géntechnológia 3) Genetikai tanácsadás 4) Környezeti hatások 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { DNAHelixSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0FDFA" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="40" textAnchor="middle">🌽</text>
+        <path d="M -10,0 L 10,0" stroke="#0D9488" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="30" y="15" fontSize="35" textAnchor="middle">⚙️</text>
+        <text x="60" y="15" fontSize="30" textAnchor="middle">🧬</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#EFF6FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-40" y="15" fontSize="40" textAnchor="middle">🩺</text>
+        <text x="40" y="15" fontSize="40" textAnchor="middle">👨‍👩‍👧</text>
+        <circle cx="0" cy="-20" r="20" fill="none" stroke="#2563EB" strokeWidth="2" strokeDasharray="4 2" />
+        <text x="0" y="-13" fontSize="20" textAnchor="middle">🧬</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FFF7ED" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-50" y="0" fontSize="40" textAnchor="middle">☀️</text>
+        <path d="M -20,-10 L 20,10" stroke="#EA580C" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="40" y="20" fontSize="30" textAnchor="middle">🧬</text>
+        <text x="55" y="0" fontSize="25" textAnchor="middle">⚠️</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Mutáció és Géntechnika",
+    // T1: Mutáció típusok (Drag-to-bucket)
+    t1_title: "Hiba a kódban: A mutáció",
+    t1_text: "A mutáció a DNS szerkezetének hirtelen, maradandó megváltozása. Ez érinthet csupán egyetlen bázist, vagy akár egész kromoszómaszakaszokat is.",
+    t1_b1: "Pontmutáció: egyetlen bázis kicserélődése (pl. A helyett C).",
+    t1_b2: "Kromoszóma-mutáció: nagy szakaszok törlése vagy megduplázódása.",
+    t1_b3: "A mutációk lehetnek károsak, közömbösek vagy ritkán hasznosak.",
+    t1_inst: "Pontmutáció vagy Kromoszóma-mutáció? Válogasd szét a példákat!",
+    t1_bucket_pont: "Pontmutáció",
+    t1_bucket_kromo: "Kromoszóma-mutáció",
+    t1_item_p1: "Egy bázis csere", t1_item_p2: "Betűhiba a DNS-ben",
+    t1_item_k1: "Szakaszvesztés", t1_item_k2: "Megduplázott génsor",
+    t1_q: "Mi a mutáció definíciója?",
+    t1_q_a: "A DNS tartós megváltozása", t1_q_b: "A DNS ideiglenes lehűlése", t1_q_c: "A sejtplazma mozgása", t1_q_d: "A növények öntözése",
+
+    // T2: Géntechnológia (Match-pairs)
+    t2_title: "Géntechnológia és GMO",
+    t2_text: "A géntechnológia során a tudósok célzottan változtatják meg az élőlények DNS-ét, hogy hasznos tulajdonságokat érjenek el.",
+    t2_b1: "GMO: Genetikailag Módosított Organizmus.",
+    t2_b2: "Alkalmazás: kártevőnek ellenálló növények, gyógyszertermelés.",
+    t2_b3: "Bioetika: fontos kérdés, hogyan és mire szabad használni a technológiát.",
+    t2_inst: "Párosítsd a fogalmat a jelentésével!",
+    t2_l1: "GMO", t2_r1: "Módosított élőlény",
+    t2_l2: "Génsebészet", t2_r2: "DNS darabolás és ragasztás",
+    t2_l3: "Inzulin gyártás", t2_r3: "Baktériumokba ültetett emberi gén",
+    t2_q: "Mit jelent a GMO rövidítés?",
+    t2_q_a: "Genetikailag Módosított Organizmus", t2_q_b: "Gyorsan Mozgó Osztódás", t2_q_c: "Géntechnológiai Magas Osztály", t2_q_d: "Gyakori Mutációs Ok",
+
+    // T3: Genetikai tanácsadás (Gap-fill)
+    t3_title: "Genetikai tanácsadás",
+    t3_text: "A genetikai tanácsadás segít a családoknak megérteni az öröklődő betegségek kockázatát, és felkészülni a jövőre.",
+    t3_b1: "Családfaelemzés: a betegségek előfordulásának követése a rokonoknál.",
+    t3_b2: "Kromoszómavizsgálat: a szerkezet és a szám ellenőrzése.",
+    t3_b3: "Segít a megelőzésben és a korai diagnózisban.",
+    t3_inst: "Egészítsd ki a mondatot!",
+    t3_gap_sentence: "A genetikai tanácsadás célja az {gap} betegségek kockázatának kiszámítása.",
+    t3_c1: "öröklődő", t3_c2: "fertőző", t3_c3: "gyógyíthatatlan",
+    t3_q: "Milyen módszerrel vizsgálják a felmenők betegségeit?",
+    t3_q_a: "Családfaelemzéssel", t3_q_b: "Vérnyomásméréssel", t3_q_c: "Látásvizsgálattal", t3_q_d: "Röntgennel",
+
+    // T4: Környezeti hatások (Word-order)
+    t4_title: "Mutagén hatások",
+    t4_text: "A mutációk egy része véletlen, de sok környezeti tényező (mutagének) jelentősen növelheti a DNS-hibák számát.",
+    t4_b1: "Fizikai: UV-sugárzás, röntgensugárzás, radioaktivitás.",
+    t4_b2: "Kémiai: dohányfüst, vegyszerek, tartósítószerek.",
+    t4_b3: "Biológiai: bizonyos vírusok is károsíthatják a DNS-t.",
+    t4_inst: "Tedd sorba a folyamatot (Ok -> Következmény)!",
+    t4_w1: "Mutagén hatás", t4_w2: "DNS sérülés", t4_w3: "Hibás fehérje", t4_w4: "Betegség",
+    t4_q: "Melyik sugárzás okozhat bőrrákot a DNS károsításával?",
+    t4_q_a: "UV-sugárzás", t4_q_b: "Infravörös fény", t4_q_c: "Látható fény", t4_q_d: "Rádióhullámok",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Mennyire ismered a genetika modern eszközeit és veszélyeit?",
+    t5_b1: "Mutáció = hiba a bázissorrendben.",
+    t5_b2: "Géntechnika = célzott DNS módosítás.",
+    t5_b3: "Mutagének = DNS károsító tényezők.",
+    t5_inst: "Hogy hívjuk a nagy mennyiségű DNS-károsodást okozó anyagokat?",
+    t5_gap_sentence2: "A környezetünkben lévő {gap} növelik a mutációk esélyét.",
+    t5_c51: "mutagének", t5_c52: "vitaminok", t5_c53: "cukrok",
+    t5_q: "Melyik állítás IGAZ a pontmutációra?",
+    t5_q_a: "Csak egyetlen bázist érint a DNS-ben.", t5_q_b: "Egész szerveket tüntet el.", t5_q_c: "Mindig hasznos a szervezetnek.", t5_q_d: "Nem öröklődhet tovább.",
+  },
   en: {
-    // Round 1: Types of Mutations
-    r1_title: "Types of Mutations",
-    r1_text: "A mutation is a change in DNA sequence. There are different types, each affecting genes differently.",
-    r1_fact1: "Point mutation: A single nucleotide is replaced with a different one",
-    r1_fact2: "Insertion: Extra nucleotides are added to the DNA sequence",
-    r1_fact3: "Deletion: Nucleotides are removed from the DNA sequence",
-    r1_fact4: "Some mutations have no effect; others change proteins and affect traits",
-    r1_q: "What happens in a point mutation?",
-    r1_a: "A single nucleotide is replaced",
-    r1_b: "Multiple nucleotides are added",
-    r1_c: "Nucleotides are removed",
-    r1_d: "DNA strands are separated",
+    explorer_title: "Mutation & Gene Tech",
+    t1_title: "Errors in the Code: Mutation", t1_text: "A mutation is a sudden, permanent change in DNA structure. It can affect a single base or entire chromosome segments.",
+    t1_b1: "Point mutation: replacement of a single base (e.g., A to C).", t1_b2: "Chromosome mutation: deletion or duplication of large segments.", t1_b3: "Mutations can be harmful, neutral, or rarely beneficial.",
+    t1_inst: "Point or Chromosome mutation? Sort them!",
+    t1_bucket_pont: "Point Mutation", t1_bucket_kromo: "Chromosome Mutation",
+    t1_item_p1: "Single base swap", t1_item_p2: "Typos in DNA",
+    t1_item_k1: "Segment loss", t1_item_k2: "Duplicated gene sequence",
+    t1_q: "What is the definition of mutation?", t1_q_a: "Permanent change in DNA", t1_q_b: "Temporary cooling of DNA", t1_q_c: "Cytoplasm movement", t1_q_d: "Watering plants",
 
-    // Round 2: Causes of Mutations
-    r2_title: "What Causes Mutations?",
-    r2_text: "Mutations can happen naturally or be caused by environmental factors. Some are harmful; others may be beneficial.",
-    r2_fact1: "UV radiation from the sun can damage DNA in skin cells",
-    r2_fact2: "Chemical substances (like tobacco smoke) can cause DNA damage",
-    r2_fact3: "Errors in DNA replication can introduce mutations",
-    r2_fact4: "Most mutations are harmless; some are beneficial; a few are harmful",
-    r2_q: "Which is NOT a common cause of mutations?",
-    r2_uv: "UV radiation",
-    r2_chem: "Chemical damage",
-    r2_rep: "DNA replication errors",
-    r2_gravity: "Gravity",
+    t2_title: "Genetic Engineering & GMO", t2_text: "In genetic engineering, scientists purposefully change organisms' DNA to achieve useful traits.",
+    t2_b1: "GMO: Genetically Modified Organism.", t2_b2: "Application: pest-resistant plants, medicine production.", t2_b3: "Bioethics: how and for what should we use this tech?",
+    t2_inst: "Match the concept to its meaning!",
+    t2_l1: "GMO", t2_r1: "Modified organism",
+    t2_l2: "Genetic surgery", t2_r2: "Cutting and pasting DNA",
+    t2_l3: "Insulin production", t2_r3: "Human gene in bacteria",
+    t2_q: "What does GMO stand for?", t2_q_a: "Genetically Modified Organism", t2_q_b: "Great Mutation Order", t2_q_c: "General Medical Organization", t2_q_d: "Growth Molecule Unit",
 
-    // Round 3: Genetic Engineering Basics
-    r3_title: "Genetic Engineering: Cutting & Inserting Genes",
-    r3_text: "Scientists can now cut DNA and insert it into organisms. This technology creates GMOs (genetically modified organisms).",
-    r3_fact1: "Restriction enzymes (scissors) cut DNA at specific locations",
-    r3_fact2: "A desired gene can be inserted into another organism's DNA",
-    r3_fact3: "Examples: herbicide-resistant crops, disease-resistant plants",
-    r3_fact4: "Genetic engineering is used to improve crop yields and create medicines",
-    r3_q: "What do restriction enzymes do?",
-    r3_scissors: "Cut DNA at specific locations",
-    r3_copy: "Copy DNA strands",
-    r3_repair: "Repair damaged DNA",
-    r3_merge: "Merge two organisms",
+    t3_title: "Genetic Counseling", t3_text: "Genetic counseling helps families understand the risk of hereditary diseases and prepare for the future.",
+    t3_b1: "Pedigree analysis: tracking diseases in relatives.", t3_b2: "Chromosome analysis: checking structure and number.", t3_b3: "Helps with prevention and early diagnosis.",
+    t3_inst: "Fill in the gap!", t3_gap_sentence: "Genetic counseling aims to calculate the risk of {gap} diseases.",
+    t3_c1: "hereditary", t3_c2: "infectious", t3_c3: "curable",
+    t3_q: "Which method studies ancestral diseases?", t3_q_a: "Pedigree analysis", t3_q_b: "Blood pressure test", t3_q_c: "Vision test", t3_q_d: "X-ray",
 
-    // Round 4: Bioethics & Gene Technology
-    r4_title: "Bioethics: Benefits & Risks",
-    r4_text: "Genetic technology offers great benefits but also raises important ethical questions.",
-    r4_fact1: "Benefits: disease resistance, increased food production, new medicines",
-    r4_fact2: "Risks: unknown environmental effects, lab safety concerns, ethical questions",
-    r4_fact3: "Cloning raises questions about identity and consent",
-    r4_fact4: "Scientists and society must decide how to use this powerful technology responsibly",
-    r4_q: "Which is a potential benefit of genetic engineering?",
-    r4_res: "Disease-resistant crops",
-    r4_unknown: "Unknown mutations everywhere",
-    r4_loss: "Loss of all crops",
-    r4_harm: "Guaranteed harmful effects",
+    t4_title: "Mutagenic Effects", t4_text: "Some mutations are random, but environmental factors (mutagens) can significantly increase DNA errors.",
+    t4_b1: "Physical: UV rays, X-rays, radioactivity.", t4_b2: "Chemical: tobacco smoke, preservatives.", t4_b3: "Biological: certain viruses can damage DNA.",
+    t4_inst: "Put the process in order (Cause -> Consequence)!",
+    t4_w1: "Mutagen effect", t4_w2: "DNA damage", t4_w3: "Faulty protein", t4_w4: "Disease",
+    t4_q: "Which radiation can cause skin cancer by damaging DNA?", t4_q_a: "UV radiation", t4_q_b: "Infrared", t4_q_c: "Visible light", t4_q_d: "Radio waves",
 
-    // Round 5: Review Quiz
-    r5_title: "Mutations & Gene Technology Review",
-
-    // Quiz questions (3 total)
-    q1_q: "An insertion mutation means...",
-    q1_a: "Extra nucleotides are added to DNA",
-    q1_b: "A nucleotide is replaced",
-    q1_c: "Nucleotides are removed",
-    q1_d: "DNA is copied",
-
-    q2_q: "Which environmental factor can cause mutations?",
-    q2_a: "UV radiation from the sun",
-    q2_b: "Loud noise",
-    q2_c: "Exercise",
-    q2_d: "Eating fruits",
-
-    q3_q: "Genetic engineering is useful for creating...",
-    q3_a: "Disease-resistant plants and new medicines",
-    q3_b: "Identical copies of humans",
-    q3_c: "New animal species",
-    q3_d: "Artificial organs",
-    // SVG labels
-    lbl_normal: "Normal",
-    lbl_point: "Point",
-    lbl_insert: "Insert",
-    lbl_delete: "Delete",
+    t5_title: "Summary Quiz", t5_text: "How well do you know modern genetic tools and dangers?",
+    t5_b1: "Mutation = error in base sequence.", t5_b2: "Gene tech = targeted DNA modification.", t5_b3: "Mutagens = DNA damaging factors.",
+    t5_inst: "What do we call substances that cause high DNA damage?", t5_gap_sentence2: "{gap} in our environment increase the chance of mutations.",
+    t5_c51: "Mutagens", t5_c52: "Vitamins", t5_c53: "Sugars",
+    t5_q: "Which statement is TRUE about point mutations?", t5_q_a: "They affect a single base in DNA.", t5_q_b: "They remove entire organs.", t5_q_c: "They are always beneficial.", t5_q_d: "They cannot be inherited.",
   },
   de: {
-    // Round 1: Types of Mutations
-    r1_title: "Arten von Mutationen",
-    r1_text: "Eine Mutation ist eine Veränderung in der DNA-Sequenz. Es gibt verschiedene Arten, von denen jede Gene unterschiedlich beeinflusst.",
-    r1_fact1: "Punktmutation: Ein einzelnes Nukleotid wird durch ein anderes ersetzt",
-    r1_fact2: "Insertion: Zusätzliche Nukleotide werden zur DNA-Sequenz hinzugefügt",
-    r1_fact3: "Deletion: Nukleotide werden aus der DNA-Sequenz entfernt",
-    r1_fact4: "Einige Mutationen haben keine Auswirkung; andere verändern Proteine und beeinflussen Merkmale",
-    r1_q: "Was passiert bei einer Punktmutation?",
-    r1_a: "Ein einzelnes Nukleotid wird ersetzt",
-    r1_b: "Mehrere Nukleotide werden hinzugefügt",
-    r1_c: "Nukleotide werden entfernt",
-    r1_d: "DNA-Stränge werden getrennt",
+    explorer_title: "Mutation & Gentechnik",
+    t1_title: "Fehler im Code: Mutation", t1_text: "Eine Mutation ist eine plötzliche, dauerhafte Veränderung der DNA-Struktur.",
+    t1_b1: "Punktmutation: Austausch einer Base.", t1_b2: "Chromosomenmutation: Verlust oder Verdopplung großer Abschnitte.", t1_b3: "Mutationen können schädlich, neutral oder nützlich sein.",
+    t1_inst: "Punkt- oder Chromosomenmutation? Sortiere!",
+    t1_bucket_pont: "Punktmutation", t1_bucket_kromo: "Chromosomenmutation",
+    t1_item_p1: "Einzelner Basentausch", t1_item_p2: "Tippfehler in DNA",
+    t1_item_k1: "Abschnittsverlust", t1_item_k2: "Verdoppelte Gensequenz",
+    t1_q: "Was ist eine Mutation?", t1_q_a: "Dauerhafte DNA-Veränderung", t1_q_b: "Abkühlung der DNA", t1_q_c: "Zellbewegung", t1_q_d: "Bewässerung",
 
-    // Round 2: Causes of Mutations
-    r2_title: "Was verursacht Mutationen?",
-    r2_text: "Mutationen können natürlich auftreten oder durch Umweltfaktoren verursacht werden. Einige sind schädlich; andere können vorteilhaft sein.",
-    r2_fact1: "UV-Strahlung der Sonne kann DNA in Hautzellen beschädigen",
-    r2_fact2: "Chemische Stoffe (wie Tabakrauch) können DNA-Schäden verursachen",
-    r2_fact3: "Fehler bei der DNA-Replikation können Mutationen einführen",
-    r2_fact4: "Die meisten Mutationen sind harmlos; einige sind vorteilhaft; einige sind schädlich",
-    r2_q: "Welches ist KEIN häufiger Grund für Mutationen?",
-    r2_uv: "UV-Strahlung",
-    r2_chem: "Chemischer Schaden",
-    r2_rep: "DNA-Replikationsfehler",
-    r2_gravity: "Schwerkraft",
+    t2_title: "Gentechnik & GMO", t2_text: "Wissenschaftler verändern gezielt DNA, um nützliche Eigenschaften zu erreichen.",
+    t2_b1: "GMO: Gentechnisch veränderter Organismus.", t2_b2: "Anwendung: resistente Pflanzen, Medikamente.", t2_b3: "Bioethik: Was ist erlaubt?",
+    t2_inst: "Verbinde Begriff und Bedeutung!",
+    t2_l1: "GMO", t2_r1: "Verändertes Lebewesen",
+    t2_l2: "Genchirurgie", t2_r2: "Schneiden und Kleben von DNA",
+    t2_l3: "Insulinherstellung", t2_r3: "Menschliches Gen in Bakterien",
+    t2_q: "Wofür steht GMO?", t2_q_a: "Genetisch modifizierter Organismus", t2_q_b: "Große Mutations-Ordnung", t2_q_c: "Ganz moderne Optik", t2_q_d: "Grund-Molekül-Osten",
 
-    // Round 3: Genetic Engineering Basics
-    r3_title: "Gentechnik: Gene schneiden und einsetzen",
-    r3_text: "Wissenschaftler können jetzt DNA schneiden und in Organismen einsetzen. Diese Technologie erzeugt gentechnisch veränderte Organismen.",
-    r3_fact1: "Restriktionsendonukleasen (Scheren) schneiden DNA an bestimmten Stellen",
-    r3_fact2: "Ein gewünschtes Gen kann in die DNA eines anderen Organismus eingefügt werden",
-    r3_fact3: "Beispiele: herbizidresistente Nutzpflanzen, krankheitsresistente Pflanzen",
-    r3_fact4: "Gentechnik wird verwendet, um Ernteerträge zu verbessern und Medikamente herzustellen",
-    r3_q: "Was tun Restriktionsendonukleasen?",
-    r3_scissors: "Schneiden DNA an bestimmten Stellen",
-    r3_copy: "Kopieren DNA-Stränge",
-    r3_repair: "Reparieren beschädigte DNA",
-    r3_merge: "Fusionieren zwei Organismen",
+    t3_title: "Genetische Beratung", t3_text: "Hilft Familien, Risiken für Erbkrankheiten zu verstehen.",
+    t3_b1: "Stammbaumanalyse: Verfolgung von Krankheiten.", t3_b2: "Chromosomenanalyse: Prüfung der Struktur.", t3_b3: "Dient der Vorsorge.",
+    t3_inst: "Ergänze den Satz!", t3_gap_sentence: "Genetische Beratung berechnet das Risiko für {gap} Krankheiten.",
+    t3_c1: "erbliche", t3_c2: "infektiöse", t3_c3: "heilbare",
+    t3_q: "Wie untersucht man Krankheiten der Vorfahren?", t3_q_a: "Stammbaumanalyse", t3_q_b: "Blutdruckmessen", t3_q_c: "Sehtest", t3_q_d: "Röntgen",
 
-    // Round 4: Bioethics & Gene Technology
-    r4_title: "Bioethik: Nutzen & Risiken",
-    r4_text: "Gentechnologie bietet große Vorteile, wirft aber auch wichtige ethische Fragen auf.",
-    r4_fact1: "Vorteile: Krankheitsresistenz, erhöhte Lebensmittelproduktion, neue Medikamente",
-    r4_fact2: "Risiken: unbekannte Umwelteffekte, Laborsicherheitsbedenken, ethische Fragen",
-    r4_fact3: "Das Klonen wirft Fragen zu Identität und Zustimmung auf",
-    r4_fact4: "Wissenschaftler und Gesellschaft müssen entscheiden, wie diese mächtige Technologie verantwortungsvoll eingesetzt wird",
-    r4_q: "Welcher ist ein potenzieller Vorteil der Gentechnik?",
-    r4_res: "Krankheitsresistente Nutzpflanzen",
-    r4_unknown: "Überall unbekannte Mutationen",
-    r4_loss: "Verlust aller Nutzpflanzen",
-    r4_harm: "Garantiert schädliche Auswirkungen",
+    t4_title: "Mutagene Wirkungen", t4_text: "Umweltfaktoren (Mutagene) erhöhen die Zahl der DNA-Fehler.",
+    t4_b1: "Physikalisch: UV-Strahlen, Röntgen, Radioaktivität.", t4_b2: "Chemisch: Tabakrauch, Konservierungsstoffe.", t4_b3: "Biologisch: Viren.",
+    t4_inst: "Bringe den Ablauf in Reihenfolge!",
+    t4_w1: "Mutagen", t4_w2: "DNA-Schaden", t4_w3: "Defektes Protein", t4_w4: "Krankheit",
+    t4_q: "Welche Strahlung verursacht Hautkrebs?", t4_q_a: "UV-Strahlung", t4_q_b: "Infrarot", t4_q_c: "Licht", t4_q_d: "Funkwellen",
 
-    // Round 5: Review Quiz
-    r5_title: "Mutationen & Gentechnologie Wiederholung",
-
-    // Quiz questions (3 total)
-    q1_q: "Eine Insertionsmutation bedeutet...",
-    q1_a: "Zusätzliche Nukleotide werden zu DNA hinzugefügt",
-    q1_b: "Ein Nukleotid wird ersetzt",
-    q1_c: "Nukleotide werden entfernt",
-    q1_d: "DNA wird kopiert",
-
-    q2_q: "Welcher Umweltfaktor kann Mutationen verursachen?",
-    q2_a: "UV-Strahlung der Sonne",
-    q2_b: "Laute Geräusche",
-    q2_c: "Bewegung",
-    q2_d: "Obst essen",
-
-    q3_q: "Gentechnik ist nützlich für die Schaffung von...",
-    q3_a: "Krankheitsresistenten Pflanzen und neuen Medikamenten",
-    q3_b: "Identischen Kopien von Menschen",
-    q3_c: "Neuen Tierarten",
-    q3_d: "Künstlichen Organen",
-    // SVG labels
-    lbl_normal: "Normal",
-    lbl_point: "Punkt",
-    lbl_insert: "Einfügung",
-    lbl_delete: "Deletion",
-  },
-  hu: {
-    // Round 1: Types of Mutations
-    r1_title: "A mutációk típusai",
-    r1_text: "A mutáció a DNS-szekvencia megváltozása. Különböző típusok vannak, amelyek mindegyike másként befolyásolja a géneket.",
-    r1_fact1: "Pontmutáció: Egy DNS bázist másikkal helyettesítenek",
-    r1_fact2: "Inserció: További nukleotidok kerülnek a DNS-szekvenciához",
-    r1_fact3: "Deléció: Nukleotidok kerülnek eltávolításra a DNS-szekvenciából",
-    r1_fact4: "Egyes mutációknak nincs hatása; mások a fehérjéket megváltoztatják és a tulajdonságokat befolyásolják",
-    r1_q: "Mi történik egy pontmutációban?",
-    r1_a: "Egy nukleotid helyettesítésre kerül",
-    r1_b: "Több nukleotid kerül hozzáadásra",
-    r1_c: "Nukleotidok kerülnek eltávolításra",
-    r1_d: "A DNS szálak szétválnak",
-
-    // Round 2: Causes of Mutations
-    r2_title: "Mi okoz mutációkat?",
-    r2_text: "A mutációk természetesen fordulhatnak elő vagy környezeti tényezők okozhatják azokat. Néhány ártalmas; más hasznos lehet.",
-    r2_fact1: "A nap UV-sugárzása a bőrsejtekben a DNS-t sértheti",
-    r2_fact2: "A kémiai anyagok (például a dohányfüst) DNS-sérüléseket okozhatnak",
-    r2_fact3: "A DNS-replikáció során fellépő hibák mutációkat vezethetnek be",
-    r2_fact4: "A legtöbb mutáció ártalmatlan; néhány hasznos; egy kevés ártalmas",
-    r2_q: "Mely NEM a mutációk gyakori oka?",
-    r2_uv: "UV-sugárzás",
-    r2_chem: "Kémiai sérülés",
-    r2_rep: "DNS-replikáció hibák",
-    r2_gravity: "Gravitáció",
-
-    // Round 3: Genetic Engineering Basics
-    r3_title: "Genetikai mérnökség: Gének vágása és beszúrása",
-    r3_text: "A tudósok most már képesek DNS-t vágni és szervezetekbe beszúrni. Ez a technológia genetikailag módosított szervezeteket hoz létre.",
-    r3_fact1: "Korlátozó enzimek (olló) a DNS-t meghatározott helyeken vágják",
-    r3_fact2: "Egy kívánt gén egy másik szervezet DNS-ébe illeszthető",
-    r3_fact3: "Példák: herbicidrezisztens termények, betegségrezisztens növények",
-    r3_fact4: "A genetikai mérnökséget a terméshozam növelésére és az orvosságok létrehozására használják",
-    r3_q: "Mit teszik a korlátozó enzimek?",
-    r3_scissors: "A DNS-t meghatározott helyeken vágják",
-    r3_copy: "DNS-szálakat másolnak",
-    r3_repair: "Sérült DNS-t javítanak",
-    r3_merge: "Két szervezetet egyesítenek",
-
-    // Round 4: Bioethics & Gene Technology
-    r4_title: "Bioetika: Előnyök és kockázatok",
-    r4_text: "A genetikai technológia nagy előnyöket kínál, de fontos etikai kérdéseket is felvet.",
-    r4_fact1: "Előnyök: betegségrezisztencia, megnövekedett élelmiszer-termelés, új gyógyszerek",
-    r4_fact2: "Kockázatok: ismeretlen környezeti hatások, laboratóriumi biztonsági aggályok, etikai kérdések",
-    r4_fact3: "A klónozás identitás és hozzájárulás kérdéseit veti fel",
-    r4_fact4: "A tudósoknak és a társadalomnak el kell dönteniük, hogyan használják ezt az erőteljes technológiát felelősen",
-    r4_q: "Mely a genetikai mérnökség potenciális előnye?",
-    r4_res: "Betegségrezisztens termények",
-    r4_unknown: "Mindenhol ismeretlen mutációk",
-    r4_loss: "Összes termény elvesztése",
-    r4_harm: "Garantáltan ártalmas hatások",
-
-    // Round 5: Review Quiz
-    r5_title: "Mutációk és genetikai technológia ismétlés",
-
-    // Quiz questions (3 total)
-    q1_q: "Egy inzerciós mutáció azt jelenti, hogy...",
-    q1_a: "További nukleotidok adódnak a DNS-hez",
-    q1_b: "Egy nukleotid helyettesítésre kerül",
-    q1_c: "Nukleotidok kerülnek eltávolításra",
-    q1_d: "A DNS másolódik",
-
-    q2_q: "Mely környezeti tényező okozhat mutációkat?",
-    q2_a: "A nap UV-sugárzása",
-    q2_b: "Hangos zaj",
-    q2_c: "Mozgás",
-    q2_d: "Gyümölcsök fogyasztása",
-
-    q3_q: "A genetikai mérnökség hasznos a... létrehozásához",
-    q3_a: "Betegségrezisztens növények és új gyógyszerek",
-    q3_b: "Emberek azonos másolatainak",
-    q3_c: "Új állatfajoknak",
-    q3_d: "Mesterséges szerveknek",
-    // SVG labels
-    lbl_normal: "Normál",
-    lbl_point: "Pont",
-    lbl_insert: "Beillesztés",
-    lbl_delete: "Törlés",
+    t5_title: "Abschluss-Quiz", t5_text: "Kennst du die moderne Genetik?",
+    t5_b1: "Mutation = Fehler in Basenfolge.", t5_b2: "Gentechnik = DNA-Modifikation.", t5_b3: "Mutagene = DNA-Schädiger.",
+    t5_inst: "Wie nennt man DNA-schädigende Stoffe?", t5_gap_sentence2: "{gap} erhöhen das Mutationsrisiko.",
+    t5_c51: "Mutagene", t5_c52: "Vitamine", t5_c53: "Zucker",
+    t5_q: "Was ist wahr für Punktmutationen?", t5_q_a: "Betreffen nur eine Base.", t5_q_b: "Löschen ganze Organe.", t5_q_c: "Sind immer gut.", t5_q_d: "Nicht vererbbar.",
   },
   ro: {
-    // Round 1: Types of Mutations
-    r1_title: "Tipuri de mutații",
-    r1_text: "O mutație este o schimbare în secvența ADN. Există diferite tipuri, fiecare afectând genele în mod diferit.",
-    r1_fact1: "Mutație punctiformă: Un singur nucleotid este înlocuit cu altul",
-    r1_fact2: "Inserție: Nucleotidele suplimentare sunt adăugate secvenței ADN",
-    r1_fact3: "Ștergere: Nucleotidele sunt îndepărtate din secvența ADN",
-    r1_fact4: "Unele mutații nu au efect; altele schimbă proteinele și afectează trăsăturile",
-    r1_q: "Ce se întâmplă în cazul unei mutații punctiforme?",
-    r1_a: "Un nucleotid singular este înlocuit",
-    r1_b: "Nucleotidele multiple sunt adăugate",
-    r1_c: "Nucleotidele sunt îndepărtate",
-    r1_d: "Lanțurile ADN sunt separate",
+    explorer_title: "Mutații și Genetică",
+    t1_title: "Erori în Cod: Mutația", t1_text: "Mutația este o schimbare bruscă și permanentă în structura ADN-ului.",
+    t1_b1: "Mutație punctiformă: înlocuirea unei singure baze.", t1_b2: "Mutație cromozomială: pierderea sau dublarea unor segmente mari.", t1_b3: "Mutațiile pot fi dăunătoare, neutre sau utile.",
+    t1_inst: "Punctiformă sau Cromozomială? Sortează!",
+    t1_bucket_pont: "Mutație punctiformă", t1_bucket_kromo: "Mutație cromozomială",
+    t1_item_p1: "Schimb de o bază", t1_item_p2: "Greșeală de tipar în ADN",
+    t1_item_k1: "Pierdere de segment", t1_item_k2: "Secvență genică dublată",
+    t1_q: "Ce este o mutație?", t1_q_a: "O schimbare permanentă a ADN-ului", t1_q_b: "Răcirea temporară a ADN-ului", t1_q_c: "Mişcarea citoplasmei", t1_q_d: "Udarea plantelor",
 
-    // Round 2: Causes of Mutations
-    r2_title: "Ce cauzeaza mutații?",
-    r2_text: "Mutațiile pot apărea natural sau pot fi cauzate de factori de mediu. Unele sunt dăunătoare; altele pot fi benefice.",
-    r2_fact1: "Radiația UV de la soare poate deteriora ADN-ul din celulele pielii",
-    r2_fact2: "Substanțele chimice (cum ar fi fumul de tutun) pot cauza daune ADN-ului",
-    r2_fact3: "Erorile în replicarea ADN-ului pot introduce mutații",
-    r2_fact4: "Majoritatea mutațiilor sunt inofensive; unele sunt benefice; unele sunt dăunătoare",
-    r2_q: "Care NU este o cauză comună a mutațiilor?",
-    r2_uv: "Radiația UV",
-    r2_chem: "Dauna chimică",
-    r2_rep: "Erori de replicare ADN",
-    r2_gravity: "Gravitație",
+    t2_title: "Tehnologie Genetică", t2_text: "Oamenii de știință modifică ADN-ul pentru a obține trăsături utile.",
+    t2_b1: "OMG: Organism Modificat Genetic.", t2_b2: "Aplicații: plante rezistente, producție de medicamente.", t2_b3: "Bioetica: ce este permis?",
+    t2_inst: "Potrivește conceptul cu sensul său!",
+    t2_l1: "OMG", t2_r1: "Organism modificat",
+    t2_l2: "Inginerie genică", t2_r2: "Tăierea și lipirea ADN-ului",
+    t2_l3: "Producția de insulină", t2_r3: "Genă umană în bacterii",
+    t2_q: "Ce înseamnă OMG?", t2_q_a: "Organism Modificat Genetic", t2_q_b: "Ordine de Mutație Grea", t2_q_c: "Optică Modernă Generală", t2_q_d: "Unitate de Creștere",
 
-    // Round 3: Genetic Engineering Basics
-    r3_title: "Ingineria genetică: Tăierea și inserarea genelor",
-    r3_text: "Oamenii de știință pot acum tăia ADN-ul și să-l insereze în organisme. Această tehnologie creează organisme modificate genetic.",
-    r3_fact1: "Enzimele de restricție (foarfeci) taie ADN-ul la locuri specifice",
-    r3_fact2: "Un gen dorit poate fi inserat în ADN-ul unui alt organism",
-    r3_fact3: "Exemple: culturi rezistente la erbicide, plante rezistente la boli",
-    r3_fact4: "Ingineria genetică este utilizată pentru a îmbunătăți randamentul culturilor și a crea medicamente",
-    r3_q: "Ce fac enzimele de restricție?",
-    r3_scissors: "Taie ADN-ul la locuri specifice",
-    r3_copy: "Copiază lanțurile ADN",
-    r3_repair: "Repară ADN-ul deteriorat",
-    r3_merge: "Fuzionează doi organisme",
+    t3_title: "Sfatul Genetic", t3_text: "Ajută familiile să înțeleagă riscul bolilor ereditare.",
+    t3_b1: "Analiza arborelui genealogic: urmărirea bolilor la rude.", t3_b2: "Analiza cromozomială: verificarea numărului.", t3_b3: "Ajută la prevenție.",
+    t3_inst: "Completează fraza!", t3_gap_sentence: "Sfatul genetic calculează riscul bolilor {gap}.",
+    t3_c1: "ereditare", t3_c2: "infecțioase", t3_c3: "curabile",
+    t3_q: "Cum se investighează bolile strămoșilor?", t3_q_a: "Analiza arborelui genealogic", t3_q_b: "Tensiunea arterială", t3_q_c: "Test de vedere", t3_q_d: "Radiografie",
 
-    // Round 4: Bioethics & Gene Technology
-    r4_title: "Bioetică: Beneficii și riscuri",
-    r4_text: "Tehnologia genetică oferă beneficii mari, dar ridică și întrebări etice importante.",
-    r4_fact1: "Beneficii: rezistență la boli, producție alimentară crescută, noi medicamente",
-    r4_fact2: "Riscuri: efecte de mediu necunoscute, preocupări de siguranță în laborator, întrebări etice",
-    r4_fact3: "Clonarea ridică întrebări despre identitate și consimțământ",
-    r4_fact4: "Oamenii de știință și societatea trebuie să decidă cum să utilizeze responsabil această tehnologie puternică",
-    r4_q: "Care este un beneficiu potențial al ingineriei genetice?",
-    r4_res: "Culturi rezistente la boli",
-    r4_unknown: "Mutații necunoscute peste tot",
-    r4_loss: "Pierderea tuturor culturilor",
-    r4_harm: "Efecte garantat dăunătoare",
+    t4_title: "Efecte Mutagene", t4_text: "Factorii de mediu (mutageni) cresc numărul erorilor ADN.",
+    t4_b1: "Fizici: raze UV, raze X, radioactivitate.", t4_b2: "Chimici: fum de tutun, conservanți.", t4_b3: "Biologici: virusuri.",
+    t4_inst: "Pune procesul în ordine!",
+    t4_w1: "Efect mutagen", t4_w2: "Leziune ADN", t4_w3: "Proteină defectă", t4_w4: "Boală",
+    t4_q: "Ce radiație poate cauza cancer de piele?", t4_q_a: "Radiația UV", t4_q_b: "Infraroșu", t4_q_c: "Lumină vizibilă", t4_q_d: "Unde radio",
 
-    // Round 5: Review Quiz
-    r5_title: "Mutații și ingineria genetică - recapitulare",
+    t5_title: "Recapitulare", t5_text: "Cunoști genetica modernă?",
+    t5_b1: "Mutație = eroare în secvență.", t5_b2: "Tehnologie = modificare ADN.", t5_b3: "Mutageni = factori nocivi.",
+    t5_inst: "Cum numim substanțele care distrug ADN-ul?", t5_gap_sentence2: "{gap} din mediu cresc șansa mutațiilor.",
+    t5_c51: "Mutagenii", t5_c52: "Vitaminele", t5_c53: "Zaharurile",
+    t5_q: "Ce este adevărat despre mutația punctiformă?", t5_q_a: "Afectează o singură bază.", t5_q_b: "Șterge organe întregi.", t5_q_c: "E mereu utilă.", t5_q_d: "Nu se moștenește.",
+  }
+};
 
-    // Quiz questions (3 total)
-    q1_q: "O mutație de inserție înseamnă...",
-    q1_a: "Nucleotidele suplimentare sunt adăugate la ADN",
-    q1_b: "Un nucleotid este înlocuit",
-    q1_c: "Nucleotidele sunt îndepărtate",
-    q1_d: "ADN-ul este copiat",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Care factor de mediu poate causa mutații?",
-    q2_a: "Radiația UV de la soare",
-    q2_b: "Zgomot puternic",
-    q2_c: "Exercițiu fizic",
-    q2_d: "Mâncatul de fructe",
-
-    q3_q: "Ingineria genetică este utilă pentru crearea...",
-    q3_a: "Plantelor rezistente la boli și noilor medicamente",
-    q3_b: "Copiilor identici ai oamenilor",
-    q3_c: "Noilor specii de animale",
-    q3_d: "Organelor artificiale",
-    // SVG labels
-    lbl_normal: "Normal",
-    lbl_point: "Punct",
-    lbl_insert: "Inserție",
-    lbl_delete: "Ștergere",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "pont", label: "t1_bucket_pont" },
+        { id: "kromo", label: "t1_bucket_kromo" },
+      ],
+      items: [
+        { text: "t1_item_p1", bucketId: "pont" },
+        { text: "t1_item_k1", bucketId: "kromo" },
+        { text: "t1_item_p2", bucketId: "pont" },
+        { text: "t1_item_k2", bucketId: "kromo" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_gap_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <DNAHelixSvg lang={lang} />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG Illustrations (simple colored shapes, no text)
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const MutationTypes = ({ lang = "en" }: { lang?: string }) => {
-  const t = LABELS[lang] || LABELS.en;
-  return (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Three DNA sequences showing mutations */}
-    {/* Normal DNA */}
-    <g>
-      <line x1="20" y1="30" x2="20" y2="60" stroke="#10B981" strokeWidth="4" />
-      <line x1="50" y1="30" x2="50" y2="60" stroke="#10B981" strokeWidth="4" />
-      {[35, 45, 55].map((y) => (
-        <line key={y} x1="20" y1={y} x2="50" y2={y} stroke="rgba(16,185,129,0.3)" strokeWidth="2" />
-      ))}
-    </g>
-    {/* Point mutation (one replaced) */}
-    <g>
-      <line x1="80" y1="30" x2="80" y2="60" stroke="#3B82F6" strokeWidth="4" />
-      <line x1="110" y1="30" x2="110" y2="60" stroke="#3B82F6" strokeWidth="4" />
-      {[35, 45].map((y) => (
-        <line key={y} x1="80" y1={y} x2="110" y2={y} stroke="rgba(59,130,246,0.3)" strokeWidth="2" />
-      ))}
-      <circle cx="95" cy="55" r="4" fill="#EF4444" />
-    </g>
-    {/* Insertion (extra added) */}
-    <g>
-      <line x1="140" y1="30" x2="140" y2="60" stroke="#8B5CF6" strokeWidth="4" />
-      <line x1="175" y1="30" x2="175" y2="60" stroke="#8B5CF6" strokeWidth="4" />
-      {[35, 45, 55].map((y) => (
-        <line key={y} x1="140" y1={y} x2="175" y2={y} stroke="rgba(139,92,246,0.3)" strokeWidth="2" />
-      ))}
-      <circle cx="157.5" cy="45" r="4" fill="#FCD34D" />
-    </g>
-    {/* Deletion (one missing) */}
-    <g>
-      <line x1="200" y1="30" x2="200" y2="60" stroke="#EC4899" strokeWidth="4" />
-      <line x1="230" y1="30" x2="230" y2="60" stroke="#EC4899" strokeWidth="4" />
-      {[35, 55].map((y) => (
-        <line key={y} x1="200" y1={y} x2="230" y2={y} stroke="rgba(236,72,153,0.3)" strokeWidth="2" />
-      ))}
-      <circle cx="215" cy="45" r="4" fill="#FCD34D" opacity="0.3" />
-    </g>
-    {/* Legend area */}
-    <text x="20" y="85" fontSize="10" fill="#10B981" fontWeight="bold">{t.lbl_normal}</text>
-    <text x="70" y="85" fontSize="10" fill="#EF4444" fontWeight="bold">{t.lbl_point}</text>
-    <text x="135" y="85" fontSize="10" fill="#FCD34D" fontWeight="bold">{t.lbl_insert}</text>
-    <text x="190" y="85" fontSize="10" fill="#EC4899" fontWeight="bold">{t.lbl_delete}</text>
-  </svg>
-  );
-};
-
-const UVRadiation = ({ lang = "en" }: { lang?: string }) => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Sun */}
-    <circle cx="120" cy="20" r="15" fill="#FCD34D" />
-    {/* UV rays */}
-    {[90, 105, 120, 135, 150].map((x) => (
-      <line key={x} x1={x} y1="35" x2={x - 5} y2="85" stroke="#FCD34D" strokeWidth="2" opacity="0.6" />
-    ))}
-    {/* DNA in cell getting hit */}
-    <circle cx="110" cy="120" r="30" fill="rgba(59,130,246,0.1)" stroke="#3B82F6" strokeWidth="2" />
-    <line x1="95" y1="110" x2="95" y2="130" stroke="#3B82F6" strokeWidth="3" />
-    <line x1="125" y1="110" x2="125" y2="130" stroke="#3B82F6" strokeWidth="3" />
-    {[115, 125].map((y) => (
-      <line key={y} x1="95" y1={y} x2="125" y2={y} stroke="rgba(59,130,246,0.4)" strokeWidth="2" />
-    ))}
-    {/* Damage mark */}
-    <circle cx="110" cy="120" r="12" fill="none" stroke="#EF4444" strokeWidth="2" strokeDasharray="3,2" />
-  </svg>
-);
-
-const GeneticEngineering = ({ lang = "en" }: { lang?: string }) => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    <defs>
-      <linearGradient id="enzymGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stopColor="#06B6D4" />
-        <stop offset="100%" stopColor="#0891B2" />
-      </linearGradient>
-    </defs>
-    {/* Original DNA */}
-    <line x1="30" y1="30" x2="30" y2="70" stroke="#3B82F6" strokeWidth="4" />
-    <line x1="60" y1="30" x2="60" y2="70" stroke="#3B82F6" strokeWidth="4" />
-    {[40, 50, 60].map((y) => (
-      <line key={y} x1="30" y1={y} x2="60" y2={y} stroke="rgba(59,130,246,0.3)" strokeWidth="2" />
-    ))}
-    {/* Scissors cutting */}
-    <g transform="translate(75, 50)">
-      <circle cx="0" cy="-8" r="6" fill="url(#enzymGrad)" />
-      <circle cx="0" cy="8" r="6" fill="url(#enzymGrad)" />
-      <line x1="-2" y1="-8" x2="-2" y2="8" stroke="url(#enzymGrad)" strokeWidth="1" />
-    </g>
-    {/* Gene to insert (shown as box) */}
-    <rect x="100" y="40" width="30" height="20" fill="#10B981" opacity="0.6" rx="2" />
-    {/* New DNA with inserted gene */}
-    <line x1="150" y1="30" x2="150" y2="70" stroke="#8B5CF6" strokeWidth="4" />
-    <line x1="200" y1="30" x2="200" y2="70" stroke="#8B5CF6" strokeWidth="4" />
-    {[40, 50, 60].map((y) => (
-      <line key={y} x1="150" y1={y} x2="200" y2={y} stroke="rgba(139,92,246,0.3)" strokeWidth="2" />
-    ))}
-    {/* Inserted segment highlighted */}
-    <rect x="165" y="38" width="20" height="24" fill="none" stroke="#10B981" strokeWidth="2" />
-    {/* Arrow */}
-    <path d="M 135 50 L 145 50" stroke="rgba(100,116,139,0.5)" strokeWidth="2" markerEnd="url(#arrowhead)" />
-  </svg>
-);
-
-const Bioethics = ({ lang = "en" }: { lang?: string }) => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Left side - benefits (green) */}
-    <circle cx="60" cy="80" r="50" fill="rgba(16,185,129,0.1)" stroke="#10B981" strokeWidth="2" />
-    {/* Icons for benefits */}
-    <circle cx="45" cy="60" r="8" fill="#10B981" opacity="0.6" />
-    <circle cx="75" cy="60" r="8" fill="#10B981" opacity="0.6" />
-    <circle cx="45" cy="100" r="8" fill="#10B981" opacity="0.6" />
-    <circle cx="75" cy="100" r="8" fill="#10B981" opacity="0.6" />
-    {/* Right side - risks (red) */}
-    <circle cx="180" cy="80" r="50" fill="rgba(239,68,68,0.1)" stroke="#EF4444" strokeWidth="2" />
-    {/* Icons for risks */}
-    <circle cx="165" cy="60" r="8" fill="#EF4444" opacity="0.6" />
-    <circle cx="195" cy="60" r="8" fill="#EF4444" opacity="0.6" />
-    <circle cx="165" cy="100" r="8" fill="#EF4444" opacity="0.6" />
-    <circle cx="195" cy="100" r="8" fill="#EF4444" opacity="0.6" />
-    {/* Center balance scale */}
-    <line x1="120" y1="140" x2="120" y2="20" stroke="rgba(100,116,139,0.4)" strokeWidth="1" />
-    <rect x="115" y="20" width="10" height="8" fill="rgba(100,116,139,0.3)" />
-  </svg>
-);
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Explorer Definition
-// ─────────────────────────────────────────────────────────────────────────────
-
-const MUTATION_EXPLORER: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: (lang: string) => <MutationTypes lang={lang} />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-      hintKey: "r1_q",
-      questions: [
-        {
-          question: "r1_q",
-          choices: ["r1_a", "r1_b", "r1_c", "r1_d"],
-          answer: "r1_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: (lang: string) => <UVRadiation lang={lang} />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      questions: [
-        {
-          question: "r2_q",
-          choices: ["r2_uv", "r2_chem", "r2_rep", "r2_gravity"],
-          answer: "r2_gravity",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: (lang: string) => <GeneticEngineering lang={lang} />,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_scissors", "r3_copy", "r3_repair", "r3_merge"],
-          answer: "r3_scissors",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: (lang: string) => <Bioethics lang={lang} />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_res", "r4_unknown", "r4_loss", "r4_harm"],
-          answer: "r4_res",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: (lang: string) => <MutationTypes lang={lang} />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_a", "q1_b", "q1_c", "q1_d"],
-          answer: "q1_a",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_a",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_a", "q3_b", "q3_c", "q3_d"],
-          answer: "q3_a",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🔬",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Export
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function MutationExplorer({
-  color = "#8B5CF6",
-  lang = "en",
+const MutationExplorer = memo(function MutationExplorer({
+  color = "#DC2626", // Erős vörös (Red-600) a mutációk és figyelmeztető jelek miatt
   onDone,
+  lang = "hu",
 }: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
 }) {
-  return <ExplorerEngine def={MUTATION_EXPLORER} color={color} lang={lang} onDone={onDone} />;
-}
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={8} 
+      explorerId="bio_k8_mutation_genetech" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default MutationExplorer;
