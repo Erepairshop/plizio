@@ -1,582 +1,291 @@
 "use client";
-// SentenceAnalysisExplorer — Island i4: Satzglieder (K5 advanced)
-// Teaches: 5 sentence parts incl. Adverbiale types, word order flexibility, adjective declension preview, MCQ
+// SentenceAnalysisExplorer — Island i5: Satzanalyse (Sentence Analysis K8)
+// Topics: 1) Satzgefüge vs. Satzreihe 2) Haupt- & Nebensatz 3) Satzglieder bestimmen 4) Umstell- & Ersatzprobe 5) Mixed Quiz
 
-import { memo, useState, useCallback, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight } from "lucide-react";
-import { SpeakButton } from "@/lib/astromath-tts";
-import { fireWrongAnswer } from "@/components/AITutorOverlay";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+
+// ─── SVG ILLUSTRATIONS ──────────────────────────────────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F0F9FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-20" width="80" height="30" rx="4" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
+        <text x="-50" y="0" fontSize="10" fontWeight="bold" fill="#0369A1" textAnchor="middle">HS</text>
+        <text x="0" y="0" fontSize="14" fill="#0EA5E9" textAnchor="middle">+</text>
+        <rect x="10" y="-20" width="80" height="30" rx="4" fill="#BAE6FD" stroke="#0EA5E9" strokeWidth="2" />
+        <text x="50" y="0" fontSize="10" fontWeight="bold" fill="#0369A1" textAnchor="middle">HS</text>
+        <text x="0" y="40" fontSize="12" fontWeight="bold" fill="#0284C7" textAnchor="middle">Satzreihe (Parataxe)</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-100" y="-30" width="60" height="30" rx="4" fill="#DDD6FE" />
+        <text x="-70" y="-10" fontSize="10" fill="#4C1D95" textAnchor="middle">Subjekt</text>
+        <rect x="-30" y="-30" width="60" height="30" rx="4" fill="#C4B5FD" />
+        <text x="0" y="-10" fontSize="10" fill="#4C1D95" textAnchor="middle">Prädikat</text>
+        <rect x="40" y="-30" width="60" height="30" rx="4" fill="#A78BFA" />
+        <text x="70" y="-10" fontSize="10" fill="#4C1D95" textAnchor="middle">Objekt</text>
+        <text x="0" y="30" fontSize="12" fontWeight="bold" fill="#5B21B6" textAnchor="middle">Satzglieder</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Satzanalyse-Profi K8",
+    // T1
+    t1_title: "Satzgefüge vs. Satzreihe",
+    t1_text: "Eine Satzreihe (Parataxe) besteht aus mindestens zwei gleichrangigen Hauptsätzen. Ein Satzgefüge (Hypotaxe) besteht aus einem Hauptsatz und mindestens einem untergeordneten Nebensatz.",
+    t1_b1: "Satzreihe: HS + HS (verbunden durch: und, oder, aber, denn...).",
+    t1_b2: "Satzgefüge: HS + NS (verbunden durch: weil, dass, wenn, Relativpronomen...).",
+    t1_b3: "Wichtig: Im NS steht das Verb am Ende, im HS auf Position 2.",
+    t1_inst: "Satzreihe (HS+HS) oder Satzgefüge (HS+NS)? Sortiere!",
+    t1_h1: "Prüfe die Bindewörter. 'und' verbindet Hauptsätze.",
+    t1_h2: "'weil' leitet immer einen Nebensatz ein.",
+    t1_bucket_sr: "Satzreihe (Parataxe)",
+    t1_bucket_sg: "Satzgefüge (Hypotaxe)",
+    t1_item_sr1: "Ich kam heim und ich aß.", t1_item_sr2: "Die Sonne scheint, aber es ist kalt.",
+    t1_item_sg1: "Ich aß, weil ich Hunger hatte.", t1_item_sg2: "Er sagt, dass er kommt.",
+    t1_q: "Wie nennt man die Verbindung von Hauptsatz und Nebensatz?",
+    t1_q_a: "Satzgefüge", t1_q_b: "Satzreihe", t1_q_c: "Wortgruppe", t1_q_d: "Aussagesatz",
+
+    // T2
+    t2_title: "Haupt- & Nebensatz erkennen",
+    t2_text: "Der Hauptsatz kann alleine stehen, das Verb steht auf Position 2. Der Nebensatz kann nicht alleine stehen, er wird durch ein Komma abgetrennt und das Verb 'rutscht' ganz ans Ende.",
+    t2_b1: "HS: Er GEHT heute in die Schule.",
+    t2_b2: "NS: ..., weil er heute in die Schule GEHT.",
+    t2_b3: "Nebensätze ergänzen den Hauptsatz (Objekt-, Kausal-, Relativsätze).",
+    t2_inst: "Welcher Teil ist der Nebensatz? Markiere ihn!",
+    t2_h1: "Suche den Teil, der nach dem Komma steht und das Verb am Ende hat.",
+    t2_h2: "Der Teil beginnt mit 'obwohl'.",
+    t2_w1: "Wir", t2_w2: "gehen", t2_w3: "spazieren,", t2_w4: "obwohl", t2_w5: "es", t2_w6: "stark", t2_w7: "regnet.",
+    t2_q: "Wo steht das konjugierte Verb in einem deutschen Nebensatz?",
+    t2_q_a: "Ganz am Ende", t2_q_b: "An Position 2", t2_q_c: "Ganz am Anfang", t2_q_d: "Nach dem Subjekt",
+
+    // T3
+    t3_title: "Satzglieder bestimmen",
+    t3_text: "Satzglieder sind die Bausteine eines Satzes. Sie können aus einem oder mehreren Wörtern bestehen. Die wichtigsten sind Subjekt, Prädikat, Objekte und adverbiale Bestimmungen.",
+    t3_b1: "Subjekt: Wer oder was? / Prädikat: Was geschieht?",
+    t3_b2: "Akkusativ-Objekt: Wen oder was? / Dativ-Objekt: Wem?",
+    t3_b3: "Adverbiale: Wann? (Zeit), Wo? (Ort), Wie? (Art), Warum? (Grund).",
+    t3_inst: "Welches Satzglied ist das markierte Wort? Verbinde!",
+    t3_h1: "'Mein Bruder' antwortet auf die Frage 'Wer?'.",
+    t3_h2: "'In den Park' antwortet auf die Frage 'Wohin?'.",
+    t3_l1: "Mein Bruder", t3_r1: "Subjekt",
+    t3_l2: "schenkt", t3_r2: "Prädikat",
+    t3_l3: "mir", t3_r3: "Dativ-Objekt",
+    t3_l4: "einen Ball", t3_r4: "Akkusativ-Objekt",
+    t3_q: "Mit welcher Frage findet man die adverbiale Bestimmung des Ortes?",
+    t3_q_a: "Wo? / Wohin?", t3_q_b: "Wann?", t3_q_c: "Wie?", t3_q_d: "Warum?",
+
+    // T4
+    t4_title: "Umstell- & Ersatzprobe",
+    t4_text: "Mit der Umstellprobe findest du heraus, welche Wörter zusammen ein Satzglied bilden (alles, was man gemeinsam vor das Prädikat stellen kann). Die Ersatzprobe hilft, den Kasus zu bestimmen.",
+    t4_b1: "Umstellprobe: [Mein kleiner Bruder] [schenkt] [mir] [heute] [einen Apfel].",
+    t4_b2: "[Heue] [schenkt] [mir] [mein kleiner Bruder] [einen Apfel].",
+    t4_b3: "Ersatzprobe: Ersetze Pronomen durch Nomen, um den Fall zu prüfen.",
+    t4_inst: "Bringe die Satzglieder in eine neue Reihenfolge (Umstellprobe)!",
+    t4_h1: "Das Prädikat 'liest' muss an Position 2 bleiben.",
+    t4_h2: "Stelle 'Das spannende Buch' an den Anfang.",
+    t4_w21: "Das", t4_w22: "spannende", t4_w23: "Buch", t4_w24: "liest", t4_w25: "der", t4_w26: "Schüler", t4_w27: "heute.",
+    t4_q: "Was findet man mit der Umstellprobe heraus?",
+    t4_q_a: "Welche Wörter zusammen ein Satzglied bilden", t4_q_b: "Ob der Satz wahr ist", t4_q_c: "Die korrekte Rechtschreibung", t4_q_d: "Das Alter des Autors",
+
+    // T5
+    t5_title: "Mixed Quiz",
+    t5_text: "Bist du bereit für die Analyse? Teste dein Wissen über Satzgefüge, Satzglieder und die Proben.",
+    t5_b1: "Hauptsatz (V2) vs. Nebensatz (Vend).",
+    t5_b2: "Satzglieder durch Umstellen finden.",
+    t5_b3: "Bindewörter bestimmen die Satzart.",
+    t5_inst: "Verbinde das Bindewort mit der korrekten Satzart!",
+    t5_h1: "'und' und 'aber' verbinden Hauptsätze (Satzreihe).",
+    t5_h2: "'dass' und 'obwohl' leiten Nebensätze ein (Satzgefüge).",
+    t5_l1: "und / aber", t5_r1: "Satzreihe (HS+HS)",
+    t5_l2: "weil / dass", t5_r2: "Satzgefüge (HS+NS)",
+    t5_l3: "denn", t5_r3: "Satzreihe (HS+HS)",
+    t5_l4: "relativpronomen", t5_r4: "Satzgefüge (HS+NS)",
+    t5_q: "Welches Satzglied ist 'wegen des Regens'?",
+    t5_q_a: "Adverbiale Bestimmung des Grundes", t5_q_b: "Subjekt", t5_q_c: "Prädikat", t5_q_d: "Genitiv-Objekt",
+  },
   en: {
-    title: "Sentence Analysis",
-    round1Title: "5 Sentence Parts",
-    round1Hint: "Tap each part to see its role and an example!",
-    round2Title: "Adverbiale Types",
-    round2Hint: "Tap the highlighted word — what kind of Adverbiale is it?",
-    round3Title: "Moveable Adverbiale",
-    round3Hint: "Both sentences mean the same! Tap each to compare.",
-    round4Title: "Adjective Declension",
-    round4Hint: "Tap to reveal how the adjective ending changes!",
-    round5Title: "Sentence Part Challenge",
-    round5Hint: "Identify the role of the highlighted word.",
-    next: "Next",
-    finish: "Finished!",
-    well: "Well done!",
-    tapToReveal: "Tap to reveal",
-    correct: "Correct!",
-    subjekt: "Subjekt",
-    praedikat: "Prädikat",
-    akkObj: "Akkusativobjekt",
-    datObj: "Dativobjekt",
-    adverbiale: "Adverbiale",
-    lokaladv: "Lokaladverbiale (wo?)",
-    temporaladv: "Temporaladverbiale (wann?)",
-    modaladv: "Modaladverbiale (wie?)",
-    kausaladv: "Kausaladverbiale (warum?)",
-    discovery: "💡 Sentence analysis (Satzgliedbestimmung) means identifying each part's role. Ask questions: Wer? Was? Wem? Wo? Wann? to find each part!",
+    explorer_title: "Sentence Analysis Pro",
+    t1_inst: "Compound sentence (HS+HS) or complex sentence (HS+NS)? Sort them!",
+    t2_inst: "Which part is the subordinate clause? Highlight it!",
+    t3_inst: "Which sentence part is the highlighted word? Connect them!",
+    t4_inst: "Put the sentence parts in a new order (Rearrangement test)!",
+    t5_inst: "Connect the conjunction with the correct sentence type!",
   },
   hu: {
-    title: "Mondatelemzés",
-    round1Title: "5 mondatrész",
-    round1Hint: "Koppints minden mondatrészre a szerepük és egy példa megtekintéséhez!",
-    round2Title: "Határozói típusok",
-    round2Hint: "Koppints a kiemelt szóra — milyen határozó ez?",
-    round3Title: "Mozgatható határozó",
-    round3Hint: "Mindkét mondat ugyanazt jelenti! Koppints mindkettőre az összehasonlításhoz.",
-    round4Title: "Melléknév ragozása",
-    round4Hint: "Koppints, hogy meglásd hogyan változik a melléknév végzete!",
-    round5Title: "Mondatrész kihívás",
-    round5Hint: "Azonosítsd a kiemelt szó szerepét.",
-    next: "Tovább",
-    finish: "Kész!",
-    well: "Remek!",
-    tapToReveal: "Koppints a megjelenítéshez",
-    correct: "Helyes!",
-    subjekt: "Alany",
-    praedikat: "Állítmány",
-    akkObj: "Tárgy (Akkusativ)",
-    datObj: "Részestárgy (Dativ)",
-    adverbiale: "Határozó",
-    lokaladv: "Helyhatározó (hol?)",
-    temporaladv: "Időhatározó (mikor?)",
-    modaladv: "Módhatározó (hogyan?)",
-    kausaladv: "Okhatározó (miért?)",
-    discovery: "💡 A mondatelemzés (Satzgliedbestimmung) az egyes részek szerepének azonosítása. Kérdezz: Wer? Was? Wem? Wo? Wann? hogy megtaláld az egyes részeket!",
-  },
-  de: {
-    title: "Satzgliederanalyse",
-    round1Title: "5 Satzglieder",
-    round1Hint: "Tippe auf jedes Satzglied, um seine Funktion und ein Beispiel zu sehen!",
-    round2Title: "Adverbiale-Typen",
-    round2Hint: "Tippe auf das hervorgehobene Wort — welches Adverbial ist es?",
-    round3Title: "Verschiebbare Adverbiale",
-    round3Hint: "Beide Sätze haben dieselbe Bedeutung! Tippe zum Vergleichen.",
-    round4Title: "Adjektivdeklination",
-    round4Hint: "Tippe, um zu sehen wie sich die Adjektivendung verändert!",
-    round5Title: "Satzglieder-Herausforderung",
-    round5Hint: "Bestimme die Funktion des hervorgehobenen Wortes.",
-    next: "Weiter",
-    finish: "Fertig!",
-    well: "Super gemacht!",
-    tapToReveal: "Zum Aufdecken tippen",
-    correct: "Richtig!",
-    subjekt: "Subjekt",
-    praedikat: "Prädikat",
-    akkObj: "Akkusativobjekt",
-    datObj: "Dativobjekt",
-    adverbiale: "Adverbiale",
-    lokaladv: "Lokaladverbiale (wo?)",
-    temporaladv: "Temporaladverbiale (wann?)",
-    modaladv: "Modaladverbiale (wie?)",
-    kausaladv: "Kausaladverbiale (warum?)",
-    discovery: "💡 Satzgliedbestimmung bedeutet, die Funktion jedes Teils zu identifizieren. Stelle Fragen: Wer? Was? Wem? Wo? Wann? um die Teile zu finden!",
+    explorer_title: "Mondatelemző profi K8",
+    t1_inst: "Mellérendelő (HS+HS) vagy alárendelő (HS+NS) mondat? Válogasd szét!",
+    t1_bucket_sr: "Mellérendelő (Satzreihe)",
+    t1_bucket_sg: "Alárendelő (Satzgefüge)",
+    t2_inst: "Melyik rész a mellékmondat? Jelöld ki!",
+    t3_inst: "Melyik mondatrész a kijelölt szó? Kösd össze!",
+    t4_inst: "Tedd a mondatrészeket új sorrendbe (áthelyezési próba)!",
+    t5_inst: "Kösd össze a kötőszót a megfelelő mondattípussal!",
   },
   ro: {
-    title: "Analiza propoziției",
-    round1Title: "5 părți de propoziție",
-    round1Hint: "Atinge fiecare parte pentru a vedea rolul și un exemplu!",
-    round2Title: "Tipuri de circumstanțiale",
-    round2Hint: "Atinge cuvântul evidențiat — ce tip de circumstanțial este?",
-    round3Title: "Circumstanțiale deplasabile",
-    round3Hint: "Ambele propoziții au același sens! Atinge pentru comparație.",
-    round4Title: "Declinarea adjectivului",
-    round4Hint: "Atinge pentru a vedea cum se schimbă terminația adjectivului!",
-    round5Title: "Provocare — analiza propoziției",
-    round5Hint: "Identifică rolul cuvântului evidențiat.",
-    next: "Înainte",
-    finish: "Gata!",
-    well: "Bravo!",
-    tapToReveal: "Atinge pentru a dezvălui",
-    correct: "Corect!",
-    subjekt: "Subiect",
-    praedikat: "Predicat",
-    akkObj: "Complement direct",
-    datObj: "Complement indirect",
-    adverbiale: "Circumstanțial",
-    lokaladv: "Circumstanțial de loc (unde?)",
-    temporaladv: "Circumstanțial de timp (când?)",
-    modaladv: "Circumstanțial de mod (cum?)",
-    kausaladv: "Circumstanțial de cauză (de ce?)",
-    discovery: "💡 Analiza propoziției (Satzgliedbestimmung) înseamnă identificarea rolului fiecărei părți. Pune întrebări: Wer? Was? Wem? Wo? Wann? pentru a găsi fiecare parte!",
-  },
+    explorer_title: "Expert Analiza Frazei",
+    t1_inst: "Propoziție coordonată (PP+PP) sau subordonată (PP+PS)? Sortează-le!",
+    t2_inst: "Care parte este propoziția subordonată? Marchează-o!",
+    t3_inst: "Ce parte de propoziție este cuvântul marcat? Leagă-le!",
+    t4_inst: "Așază părțile de propoziție într-o ordine nouă (testul permutării)!",
+    t5_inst: "Conectează conjuncția cu tipul de propoziție corect!",
+  }
 };
 
-const SENTENCE_PARTS = [
-  { key: "subjekt", question: "Wer?", color: "#3B82F6", emoji: "👤", example: "Der Hund bellt.", highlight: "Der Hund" },
-  { key: "praedikat", question: "Was tut er?", color: "#10B981", emoji: "⚡", example: "Der Hund bellt laut.", highlight: "bellt" },
-  { key: "akkObj", question: "Wen?/Was?", color: "#EF4444", emoji: "🎯", example: "Er isst den Kuchen.", highlight: "den Kuchen" },
-  { key: "datObj", question: "Wem?", color: "#F59E0B", emoji: "🤝", example: "Ich helfe dem Freund.", highlight: "dem Freund" },
-  { key: "adverbiale", question: "Wo?/Wann?/Wie?/Warum?", color: "#A855F7", emoji: "📍", example: "Er läuft schnell.", highlight: "schnell" },
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "sr", label: "t1_bucket_sr" },
+        { id: "sg", label: "t1_bucket_sg" },
+      ],
+      items: [
+        { text: "t1_item_sr1", bucketId: "sr" },
+        { text: "t1_item_sg1", bucketId: "sg" },
+        { text: "t1_item_sr2", bucketId: "sr" },
+        { text: "t1_item_sg2", bucketId: "sg" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5", "t2_w6", "t2_w7"],
+      correctIndices: [3, 4, 5, 6], 
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+        { left: "t3_l4", right: "t3_r4" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w21", "t4_w22", "t4_w23", "t4_w24", "t4_w25", "t4_w26", "t4_w27"],
+      correctOrder: [0, 1, 2, 3, 4, 5, 6],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t5_l1", right: "t5_r1" },
+        { left: "t5_l2", right: "t5_r2" },
+        { left: "t5_l3", right: "t5_r3" },
+        { left: "t5_l4", right: "t5_r4" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
 ];
 
-const ADV_QUIZ = [
-  { sentence: "Er schläft", highlight: "im Bett", sentence2: ".", advType: "lokal", options: ["lokal", "temporal", "modal", "kausal"], correct: "lokal" },
-  { sentence: "Sie singt", highlight: "laut", sentence2: ".", advType: "modal", options: ["lokal", "temporal", "modal", "kausal"], correct: "modal" },
-  { sentence: "Gestern", highlight: "gestern", sentence2: "kam er nach Hause.", advType: "temporal", options: ["lokal", "temporal", "modal", "kausal"], correct: "temporal" },
-];
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const ADJ_DECL = [
-  { form: "der alte Mann", case: "Nom. m.", color: "#3B82F6" },
-  { form: "den alten Mann", case: "Akk. m.", color: "#EF4444" },
-  { form: "dem alten Mann", case: "Dat. m.", color: "#10B981" },
-];
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🔍",
+  topics: TOPICS,
+  rounds: [],
+};
 
-const ANALYSIS_QUIZ = [
-  { sentence: "Der Lehrer erklärt die Aufgabe.", highlight: "Der Lehrer", options: ["subjekt", "praedikat", "akkObj", "adverbiale"], correct: "subjekt" },
-  { sentence: "Er kauft das Buch.", highlight: "das Buch", options: ["subjekt", "praedikat", "akkObj", "datObj"], correct: "akkObj" },
-  { sentence: "Sie hilft dem Schüler.", highlight: "dem Schüler", options: ["subjekt", "akkObj", "datObj", "adverbiale"], correct: "datObj" },
-  { sentence: "Er läuft schnell.", highlight: "schnell", options: ["subjekt", "praedikat", "akkObj", "adverbiale"], correct: "adverbiale" },
-];
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-function ProgressBar({ current, total, color }: { current: number; total: number; color: string }) {
-  return (
-    <div className="flex gap-1.5 w-full">
-      {Array.from({ length: total }, (_, i) => (
-        <div key={i} className="flex-1 h-2 rounded-full"
-          style={{ background: i < current ? "#00FF88" : i === current ? color : "rgba(255,255,255,0.12)" }} />
-      ))}
-    </div>
-  );
-}
-
-function NextBtn({ onClick, label, color }: { onClick: () => void; label: string; color: string }) {
-  return (
-    <motion.button onClick={onClick}
-      className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
-      style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
-      whileTap={{ scale: 0.97 }}>
-      {label} <ChevronRight size={16} />
-    </motion.button>
-  );
-}
-
-// ─── Round 1: 5 sentence parts overview ───────────────────────────────────────
-function Round1({ color, lbl, onNext , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= SENTENCE_PARTS.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round1Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round1Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round1Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round1Hint}</p>
-      <div className="flex flex-col gap-2 w-full">
-        {SENTENCE_PARTS.map((p, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={p.key}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-3 text-left"
-              style={{
-                background: isOpen ? `${p.color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? p.color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <div className="flex items-center gap-2">
-                <span>{p.emoji}</span>
-                <span className="font-black text-sm" style={{ color: p.color }}>{lbl[p.key] ?? p.key}</span>
-                <span className="text-white/40 text-xs">— {p.question}</span>
-              </div>
-              {isOpen && (
-                <motion.p initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-                  className="text-white/70 text-sm mt-1 pl-1">
-                  {p.example.split(p.highlight).map((part, j, arr) => (
-                    <span key={j}>{part}{j < arr.length - 1 && <span className="font-black" style={{ color: p.color }}>{p.highlight}</span>}</span>
-                  ))}
-                </motion.p>
-              )}
-              {!isOpen && <p className="text-white/30 text-xs pl-1">{lbl.tapToReveal}</p>}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 2: Adverbiale types MCQ ────────────────────────────────────────────
-function Round2({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const item = ADV_QUIZ[idx];
-  const isCorrect = selected === item.correct;
-  const advColors: Record<string, string> = { lokal: "#3B82F6", temporal: "#F59E0B", modal: "#10B981", kausal: "#EF4444" };
-  const advLblKeys: Record<string, string> = { lokal: "lokaladv", temporal: "temporaladv", modal: "modaladv", kausal: "kausaladv" };
-
-  const handleSelect = (opt: string) => {
-    if (selected) return;
-    setSelected(opt);
-    if (opt !== item.correct) {
-      wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
-    }
-    setTimeout(() => {
-      if (idx + 1 >= ADV_QUIZ.length) onNext();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 900);
-  };
-
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round2Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round2Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round2Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round2Hint}</p>
-      <div className="flex gap-1">
-        {ADV_QUIZ.map((_, i) => (
-          <div key={i} className="w-2 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-      <AnimatePresence mode="wait">
-        <motion.div key={idx} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4 text-center"
-          style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <p className="text-white font-bold text-base">
-            {item.sentence}{" "}
-            <span className="font-black px-1 rounded" style={{ background: `${color}33`, color }}>{item.highlight}</span>
-            {item.sentence2}
-          </p>
-          {selected && (
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF6B6B" }}>
-              {isCorrect ? `✅ ${lbl.correct}` : `❌ → ${lbl[advLblKeys[item.correct]] ?? item.correct}`}
-            </motion.p>
-          )}
-        </motion.div>
-      </AnimatePresence>
-      <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => {
-          const optColor = advColors[opt] ?? color;
-          return (
-            <motion.button key={opt}
-              onClick={() => handleSelect(opt)}
-              className="w-full py-2.5 rounded-xl font-bold text-sm text-left px-4"
-              style={{
-                background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : `${optColor}11`,
-                border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : `${optColor}44`}`,
-                color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : optColor,
-              }}
-              whileTap={!selected ? { scale: 0.97 } : {}}>
-              {lbl[advLblKeys[opt]] ?? opt}
-            </motion.button>
-          );
-        })}
-      </div>
-    </div>
-  );
-}
-
-// ─── Round 3: Moveable Adverbiale ─────────────────────────────────────────────
-function Round3({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const EXAMPLES = [
-    { a: "Er kam gestern nach Hause.", b: "Gestern kam er nach Hause.", highlight: "gestern" },
-    { a: "Sie schläft immer früh.", b: "Immer schläft sie früh.", highlight: "immer" },
-  ];
-  const allTapped = tapped.size >= EXAMPLES.length * 2;
-
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round3Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round3Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round3Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round3Hint}</p>
-      {EXAMPLES.map((ex, i) => (
-        <div key={i} className="w-full flex flex-col gap-2">
-          {[ex.a, ex.b].map((sent, j) => {
-            const key = i * 2 + j;
-            const isTapped = tapped.has(key);
-            return (
-              <motion.button key={key}
-                onClick={() => setTapped(prev => new Set([...prev, key]))}
-                className="w-full rounded-2xl p-3 text-left"
-                style={{
-                  background: isTapped ? `${color}18` : "rgba(255,255,255,0.04)",
-                  border: `2px solid ${isTapped ? color : "rgba(255,255,255,0.1)"}`,
-                }}
-                whileTap={!isTapped ? { scale: 0.98 } : {}}>
-                <p className="text-white font-bold text-sm">
-                  {sent.split(ex.highlight).map((part, k, arr) => (
-                    <span key={k}>{part}{k < arr.length - 1 && (
-                      <span className="font-black" style={{ color }}>{ex.highlight}</span>
-                    )}</span>
-                  ))}
-                </p>
-                {!isTapped && <p className="text-white/30 text-xs mt-1">{lbl.tapToReveal}</p>}
-              </motion.button>
-            );
-          })}
-        </div>
-      ))}
-      {allTapped && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 4: Adjective declension table ──────────────────────────────────────
-function Round4({ color, lbl, onNext, wrongCountRef , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onNext: () => void; wrongCountRef: React.MutableRefObject<number>; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [revealed, setRevealed] = useState<Set<number>>(new Set());
-  const allRevealed = revealed.size >= ADJ_DECL.length;
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round4Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round4Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round4Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round4Hint}</p>
-      <div className="w-full flex flex-col gap-2">
-        {ADJ_DECL.map((row, i) => {
-          const isOpen = revealed.has(i);
-          return (
-            <motion.button key={row.case}
-              onClick={() => setRevealed(prev => new Set([...prev, i]))}
-              className="w-full rounded-2xl p-4 flex items-center justify-between"
-              style={{
-                background: isOpen ? `${row.color}18` : "rgba(255,255,255,0.04)",
-                border: `2px solid ${isOpen ? row.color : "rgba(255,255,255,0.1)"}`,
-              }}
-              whileTap={!isOpen ? { scale: 0.98 } : {}}>
-              <span className="text-white/50 text-xs font-bold uppercase">{row.case}</span>
-              {isOpen ? (
-                <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-                  className="font-black text-base" style={{ color: row.color }}>
-                  {row.form}
-                </motion.span>
-              ) : (
-                <span className="text-white/25 text-xs">{lbl.tapToReveal}</span>
-              )}
-            </motion.button>
-          );
-        })}
-      </div>
-      {allRevealed && (
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="w-full">
-          <NextBtn onClick={onNext} label={lbl.next} color={color} />
-        </motion.div>
-      )}
-    </div>
-  );
-}
-
-// ─── Round 5: Full sentence analysis MCQ ─────────────────────────────────────
-function Round5({ color, lbl, onDone, wrongCountRef, lang , showTeach, setShowTeach } : { color: string; lbl: Record<string, string>; onDone: () => void; wrongCountRef: React.MutableRefObject<number>; lang: string; showTeach: boolean; setShowTeach: (v: boolean) => void }) {
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const item = ANALYSIS_QUIZ[idx];
-  const isCorrect = selected === item.correct;
-
-  const handleSelect = (opt: string) => {
-    if (selected) return;
-    setSelected(opt);
-    if (opt !== item.correct) {
-      wrongCountRef.current++;
-      fireWrongAnswer({ question: item.sentence, wrongAnswer: opt, correctAnswer: item.correct, topic: "Sentence Analysis", lang: "de" });
-    }
-    setTimeout(() => {
-      if (idx + 1 >= ANALYSIS_QUIZ.length) onDone();
-      else { setIdx(i => i + 1); setSelected(null); }
-    }, 900);
-  };
-
-
-  if (showTeach) {
-    return (
-      <div className="flex flex-col items-center gap-4 w-full">
-        <p className="text-xl font-black text-white">{lbl.round5Title}</p>
-        <div className="w-full bg-white/[0.06] border border-white/10 rounded-2xl px-5 py-4">
-          <p className="text-sm text-white/80 leading-relaxed">{lbl.round5Teach}</p>
-        </div>
-        <motion.button onClick={() => setShowTeach(false)}
-          className="px-6 py-3 bg-white/10 border border-white/20 rounded-xl font-bold text-white hover:bg-white/20 transition-all flex items-center gap-2"
-          whileTap={{ scale: 0.97 }}>
-          {lbl.gotIt} <ChevronRight size={16} />
-        </motion.button>
-      </div>
-    );
-  }
-  return (
-    <div className="flex flex-col items-center gap-4 w-full">
-      <p className="text-2xl font-black text-white">{lbl.round5Title}</p>
-      <p className="text-white/60 text-xs font-bold text-center">{lbl.round5Hint}</p>
-      <div className="flex gap-1">
-        {ANALYSIS_QUIZ.map((_, i) => (
-          <div key={i} className="w-2 h-2 rounded-full"
-            style={{ background: i < idx ? "#00FF88" : i === idx ? color : "rgba(255,255,255,0.15)" }} />
-        ))}
-      </div>
-      <AnimatePresence mode="wait">
-        <motion.div key={item.sentence} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
-          className="w-full rounded-2xl p-4"
-          style={{ background: "rgba(255,255,255,0.04)", border: `2px solid ${color}33` }}>
-          <div className="flex items-center justify-center gap-2">
-            <p className="text-white font-bold text-base">
-              {item.sentence.split(item.highlight).map((part, j, arr) => (
-                <span key={j}>{part}{j < arr.length - 1 && (
-                  <span className="font-black px-1 rounded" style={{ background: `${color}33`, color }}>{item.highlight}</span>
-                )}</span>
-              ))}
-            </p>
-            <SpeakButton text={item.sentence} lang={"de"} size={16} />
-          </div>
-          {selected && (
-            <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-              className="text-xs font-bold mt-2" style={{ color: isCorrect ? "#00FF88" : "#FF6B6B" }}>
-              {isCorrect ? `✅ ${lbl.correct}` : `❌ → ${lbl[item.correct] ?? item.correct}`}
-            </motion.p>
-          )}
-        </motion.div>
-      </AnimatePresence>
-      <div className="flex flex-col gap-2 w-full">
-        {item.options.map(opt => (
-          <motion.button key={opt}
-            onClick={() => handleSelect(opt)}
-            className="w-full py-2.5 rounded-xl font-bold text-sm text-left px-4"
-            style={{
-              background: selected === opt ? (opt === item.correct ? "rgba(0,255,136,0.2)" : "rgba(255,107,107,0.15)") : "rgba(255,255,255,0.06)",
-              border: `2px solid ${selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "rgba(255,255,255,0.15)"}`,
-              color: selected === opt ? (opt === item.correct ? "#00FF88" : "#FF6B6B") : "white",
-            }}
-            whileTap={!selected ? { scale: 0.97 } : {}}>
-            {lbl[opt] ?? opt}
-          </motion.button>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-// ─── Main Component ────────────────────────────────────────────────────────────
 const SentenceAnalysisExplorer = memo(function SentenceAnalysisExplorer({
-  color, lang = "de", onDone,
+  color = "#8B5CF6",
+  onDone,
+  lang = "de",
 }: {
-  color: string;
+  color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone: (score: number, total: number) => void;
 }) {
-  const lbl = LABELS[lang] ?? LABELS.de;
-  const [round, setRound] = useState(0);
-  const [showTeach, setShowTeach] = useState(true);
-  const TOTAL_ROUNDS = 5;
-  const wrongCountRef = useRef(0);
-
-  const next = useCallback(() => setRound(r => r + 1), []);
-  const finish = useCallback(() => {
-    const score = Math.max(1, TOTAL_ROUNDS - Math.min(wrongCountRef.current, TOTAL_ROUNDS - 1));
-    onDone(score, TOTAL_ROUNDS);
-  }, [onDone]);
-
-  return (
-    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-4 px-1">
-      <ProgressBar current={round} total={TOTAL_ROUNDS} color={color} />
-      <AnimatePresence mode="wait">
-        <motion.div key={round}
-          initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
-          className="w-full flex flex-col items-center gap-4">
-          {round === 0 && <Round1 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} />}
-          {round === 1 && <Round2 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
-          {round === 2 && <Round3 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
-          {round === 3 && <Round4 color={color} lbl={lbl} onNext={next} showTeach={showTeach} setShowTeach={setShowTeach} wrongCountRef={wrongCountRef} />}
-          {round === 4 && (
-            <div className="w-full flex flex-col items-center gap-4">
-              <Round5 color={color} lbl={lbl} onDone={finish} wrongCountRef={wrongCountRef} lang={lang} showTeach={showTeach} setShowTeach={setShowTeach} />
-              <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
-                className="w-full px-4 py-3 rounded-2xl text-sm font-bold text-white/80 text-center"
-                style={{ background: `${color}22` }}>
-                {lbl.discovery}
-              </motion.div>
-            </div>
-          )}
-        </motion.div>
-      </AnimatePresence>
-    </div>
-  );
+  return <ExplorerEngine def={DEF} grade={8} explorerId="deutsch_k8_sentence_analysis" color={color} lang={lang} onDone={onDone} />;
 });
 
 export default SentenceAnalysisExplorer;
