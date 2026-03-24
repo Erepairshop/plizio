@@ -279,6 +279,13 @@ export type TopicInteractive =
       instruction: string;
       hint1: string;
       hint2: string;
+    }
+  | {
+      type: "tap-count";
+      tapCount: TapCountConfig;
+      instruction: string;
+      hint1: string;
+      hint2: string;
     };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -1291,6 +1298,57 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
+                      );
+                    }
+                    if (inter.type === "tap-count") {
+                      const tc = inter.tapCount;
+                      const allTapped = tapCountSet.size >= tc.count;
+                      return (
+                        <div className="flex flex-col items-center gap-4 w-full">
+                          <p className="text-white/60 text-xs font-bold text-center">{ui.tapToCount}</p>
+                          <div className="flex flex-wrap gap-3 justify-center">
+                            {Array.from({ length: tc.count }, (_, i) => (
+                              <motion.button key={i}
+                                onClick={() => { if (!tapCountRevealed) setTapCountSet(prev => { const n = new Set(prev); n.add(i); return n; }); }}
+                                className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl relative"
+                                style={{ background: tapCountSet.has(i) ? `${color}33` : "rgba(255,255,255,0.06)", border: `2px solid ${tapCountSet.has(i) ? color : "rgba(255,255,255,0.12)"}` }}
+                                animate={tapCountSet.has(i) ? { scale: [1, 1.15, 1] } : {}}
+                                transition={{ duration: 0.2 }}
+                              >
+                                {tc.emoji}
+                                {tapCountSet.has(i) && (
+                                  <span className="absolute -top-2 -right-2 text-[10px] font-black rounded-full w-5 h-5 flex items-center justify-center" style={{ background: color, color: "white" }}>
+                                    {Array.from(tapCountSet).sort((a, b) => a - b).indexOf(i) + 1}
+                                  </span>
+                                )}
+                              </motion.button>
+                            ))}
+                          </div>
+                          <span className="text-2xl font-black" style={{ color: allTapped ? "#00FF88" : color }}>{tapCountSet.size} / {tc.count}</span>
+                          {allTapped && !tapCountRevealed && (
+                            <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+                              onClick={() => setTapCountRevealed(true)}
+                              className="w-full py-3 rounded-2xl font-black text-white text-sm"
+                              style={{ background: `${color}22`, border: `2px solid ${color}55` }}>
+                              {ui.tapReveal}
+                            </motion.button>
+                          )}
+                          {tapCountRevealed && (
+                            <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+                              className="flex flex-col gap-2 items-center w-full">
+                              <div className="w-full rounded-2xl px-5 py-4" style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
+                                <p className="text-center text-2xl font-black" style={{ color: "#00FF88" }}>
+                                  {ui.thereAre} {tc.count} {tc.emoji} {ui.objects}
+                                </p>
+                              </div>
+                              <button onClick={() => { setTapCountSet(new Set()); setTapCountRevealed(false); handleTopicInteractiveDone(true); }}
+                                className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+                                style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}>
+                                {ui.next} <ChevronRight size={16} />
+                              </button>
+                            </motion.div>
+                          )}
+                        </div>
                       );
                     }
                     return null;
