@@ -1,4 +1,4 @@
-"use "client";
+"use client";
 // PlantsExplorer.tsx — Sachkunde Island i4: Plants (K2)
 // Topics: 1) Növényi részek 2) Magtól virágig 3) Mire van szüksége? 4) Fák és bokrok 5) Összefoglaló
 
