@@ -1,11 +1,11 @@
 "use client";
-// BodySystemExplorer.tsx — Bio Island i7: Testrendszerek (K5)
-// Topics: 1) Emésztés 2) Keringés 3) Légzés 4) Rendszerek együttműködése 5) Review
+// SenseExplorer.tsx — Bio Island i8: Érzékszervek (K5)
+// Topics: 1) Látás 2) Hallás 3) Szag és Ízlelés 4) Tapintás 5) Review
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-import { DigestiveSvg, HeartSvg, LungsSvg } from "@/app/astro-biologie/svg";
+import { EyeSvg, EarSvg, NoseSvg, SkinSvg } from "@/app/astro-biologie/svg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
@@ -329,8 +329,8 @@ const DEF: ExplorerDef = {
 
 // ─── EXPORT ─────────────────────────────────────────────────────────
 
-const BodySystemExplorer = memo(function BodySystemExplorer({
-  color = "#E11D48", // Sötétvörös a vérkeringés és szervek miatt
+const SenseExplorer = memo(function SenseExplorer({
+  color = "#8B5CF6", // Lila az érzékszervek nyitott szenvediléhez
   onDone,
   lang = "hu",
 }: {
@@ -339,15 +339,15 @@ const BodySystemExplorer = memo(function BodySystemExplorer({
   lang?: string;
 }) {
   return (
-    <ExplorerEngine 
-      def={DEF} 
-      grade={5} 
-      explorerId="bio_k5_bodysystems" 
-      color={color} 
-      lang={lang} 
-      onDone={onDone} 
+    <ExplorerEngine
+      def={DEF}
+      grade={5}
+      explorerId="bio_k5_senses"
+      color={color}
+      lang={lang}
+      onDone={onDone}
     />
   );
 });
 
-export default BodySystemExplorer;
+export default SenseExplorer;

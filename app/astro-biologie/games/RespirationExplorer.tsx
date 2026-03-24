@@ -133,7 +133,7 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "The Respiratory System",
     t1_title: "Path of the Air", t1_text: "The respiratory system brings oxygen-rich air into the body. The air travels a long path from the nasal cavity to the lungs.",
     t1_b1: "Nasal cavity: warms, moistens, and filters the air.", t1_b2: "Larynx and trachea: guide the air toward the lungs.", t1_b3: "Bronchi: the trachea splits into two branches entering the lungs.",
-    t1_inst: "Put the words in order!", t1_w1: "Air", t1_w2: "flows", t1_w3: "through", t1_w4: "the", t1_w5: "windpipe.", t1_w6: "",
+    t1_inst: "Put the words in order!", t1_w1: "Air", t1_w2: "flows", t1_w3: "through", t1_w4: "the", t1_w5: "trachea.",
     t1_q: "Why is it better to breathe through our nose than our mouth?", t1_q_a: "Because the nasal cavity warms and cleans the air.", t1_q_b: "Because oxygen enters faster.", t1_q_c: "Because the mouth only exhales carbon dioxide.", t1_q_d: "Because there is no air in the mouth.",
 
     t2_title: "Breathing Movements", t2_text: "The lungs don't have their own muscles. Breathing is done by chest muscles and a large, dome-shaped muscle called the diaphragm.",
@@ -199,7 +199,7 @@ const LABELS: Record<string, Record<string, string>> = {
     explorer_title: "Sistemul Respirator",
     t1_title: "Drumul Aerului", t1_text: "Sistemul respirator aduce aer bogat în oxigen în organism. Aerul parcurge un drum lung de la cavitatea nazală până la plămâni.",
     t1_b1: "Cavitatea nazală: încălzește, umezește și curăță aerul.", t1_b2: "Laringele și traheea: conduc aerul spre plămâni.", t1_b3: "Bronhiile: traheea se desparte în două ramuri ce intră în plămâni.",
-    t1_inst: "Pune cuvintele în ordine!", t1_w1: "Aerul", t1_w2: "curge", t1_w3: "prin", t1_w4: "trahee", t1_w5: "în", t1_w6: "jos.",
+    t1_inst: "Pune cuvintele în ordine!", t1_w1: "Aerul", t1_w2: "curge", t1_w3: "prin", t1_w4: "trahee", t1_w5: "spre", t1_w6: "plămâni.",
     t1_q: "De ce este mai bine să respirăm pe nas decât pe gură?", t1_q_a: "Pentru că nasul încălzește și curăță aerul.", t1_q_b: "Pentru că oxigenul intră mai repede.", t1_q_c: "Pentru că gura expiră doar dioxid de carbon.", t1_q_d: "Pentru că în gură nu există aer.",
 
     t2_title: "Mișcările Respiratorii", t2_text: "Plămânii nu au mușchi proprii. Respirația este realizată de mușchii cutiei toracice și de un mușchi mare în formă de cupolă, diafragma.",

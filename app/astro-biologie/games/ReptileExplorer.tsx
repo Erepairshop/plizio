@@ -233,8 +233,8 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "word-order",
-      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5", "t2_w6"], // 6 words available in some langs, mapped safely
-      correctOrder: [0, 1, 2, 3, 4, 5], 
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
       instruction: "t2_inst",
       hint1: "t2_b1",
       hint2: "t2_b2",

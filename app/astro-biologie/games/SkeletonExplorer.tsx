@@ -274,9 +274,8 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "word-order",
-      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], 
-      // 7 items mapping (used mostly in DE/RO/EN depending on sentence structure, safe to map max length)
-      correctOrder: [0, 1, 2, 3, 4, 5, 6], 
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6"],
+      correctOrder: [0, 1, 2, 3, 4, 5], 
       instruction: "t3_inst",
       hint1: "t3_b1",
       hint2: "t3_b2",

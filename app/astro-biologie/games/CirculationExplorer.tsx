@@ -222,7 +222,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Grupe de Sânge și Donare", t4_text: "Pe baza proteinelor din sânge, există 4 grupe principale: A, B, AB și O (zero). O potrivire exactă salvează vieți la transfuzii.",
     t4_b1: "Dacă cineva primește sânge greșit, acesta se coagulează (se strânge).", t4_b2: "Grupa O este 'donatorul universal' (poate da oricui).", t4_b3: "Grupa AB este 'primitorul universal' (poate primi de la oricine).",
     t4_inst: "Pune cuvintele în ordine!",
-    t4_w1: "Grupa", t4_w2: "O", t4_w3: "este", t4_w4: "donatorul", t4_w5: "universal", t4_w6: "general.",
+    t4_w1: "Grupa", t4_w2: "O", t4_w3: "este", t4_w4: "donatorul", t4_w5: "universal", t4_w6: ".",
     t4_q: "Care grupă de sânge poate fi donată tuturor celorlalte grupe?", t4_q_a: "Grupa O (Zero)", t4_q_b: "Grupa A", t4_q_c: "Grupa B", t4_q_d: "Grupa AB",
 
     t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre circulația sângelui și vasele de sânge!",
@@ -312,7 +312,7 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "word-order",
-      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6"], 
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6"],
       correctOrder: [0, 1, 2, 3, 4, 5],
       instruction: "t4_inst",
       hint1: "t4_b2",

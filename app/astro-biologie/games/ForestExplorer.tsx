@@ -127,7 +127,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Ecosystem Balance", t4_text: "The forest is a closed, self-sustaining system. If a single species disappears (e.g., wolves are hunted), the entire balance can collapse.",
     t4_b1: "Plants produce oxygen for animals.", t4_b2: "Animals exhale carbon dioxide for plants.", t4_b3: "Predators control herbivore numbers, protecting the forest.",
     t4_inst: "Put the words in order!",
-    t4_w1: "The", t4_w2: "forest", t4_w3: "is", t4_w4: "a", t4_w5: "complex", t4_w6: "ecosystem.", t4_w7: "",
+    t4_w1: "The", t4_w2: "forest", t4_w3: "is", t4_w4: "a", t4_w5: "complex", t4_w6: "ecosystem.",
     t4_q: "What happens if predators disappear from a forest?", t4_q_a: "Herbivores overpopulate and overgraze the forest.", t4_q_b: "There will be more plants.", t4_q_c: "Trees grow faster.", t4_q_d: "Nothing changes.",
 
     t5_title: "Summary Quiz", t5_text: "Test your knowledge about the forest ecosystem!",
@@ -160,7 +160,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Gleichgewicht des Ökosystems", t4_text: "Der Wald ist ein geschlossenes System. Wenn eine Art verschwindet (z.B. Wölfe), kann das ganze Gleichgewicht kippen.",
     t4_b1: "Pflanzen produzieren Sauerstoff für Tiere.", t4_b2: "Tiere atmen Kohlendioxid für Pflanzen aus.", t4_b3: "Raubtiere kontrollieren die Zahl der Pflanzenfresser.",
     t4_inst: "Bringe die Wörter in die richtige Reihenfolge!",
-    t4_w1: "Der", t4_w2: "Wald", t4_w3: "ist", t4_w4: "ein", t4_w5: "komplexes", t4_w6: "Ökosystem.", t4_w7: "",
+    t4_w1: "Der", t4_w2: "Wald", t4_w3: "ist", t4_w4: "ein", t4_w5: "komplexes", t4_w6: "Ökosystem.",
     t4_q: "Was passiert, wenn Raubtiere aus einem Wald verschwinden?", t4_q_a: "Pflanzenfresser vermehren sich zu stark und fressen den Wald kahl.", t4_q_b: "Es gibt mehr Pflanzen.", t4_q_c: "Bäume wachsen schneller.", t4_q_d: "Nichts verändert sich.",
 
     t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über das Ökosystem Wald!",
@@ -193,7 +193,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Echilibrul Ecosistemului", t4_text: "Pădurea este un sistem închis, care se auto-susține. Dacă o singură specie dispare (ex. lupii), întregul echilibru se poate prăbuși.",
     t4_b1: "Plantele produc oxigen pentru animale.", t4_b2: "Animalele expiră dioxid de carbon pentru plante.", t4_b3: "Prădătorii controlează numărul erbivorelor, protejând pădurea.",
     t4_inst: "Pune cuvintele în ordine!",
-    t4_w1: "Pădurea", t4_w2: "este", t4_w3: "un", t4_w4: "ecosistem", t4_w5: "complex.", t4_w6: "", t4_w7: "",
+    t4_w1: "Pădurea", t4_w2: "este", t4_w3: "un", t4_w4: "ecosistem", t4_w5: "complex.",
     t4_q: "Ce se întâmplă dacă prădătorii dispar dintr-o pădure?", t4_q_a: "Erbivorele se înmulțesc prea mult și distrug pădurea.", t4_q_b: "Vor fi mai multe plante.", t4_q_c: "Copacii cresc mai repede.", t4_q_d: "Nu se schimbă nimic.",
 
     t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre ecosistemul pădurii!",
@@ -283,12 +283,11 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "word-order",
-      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6", "t4_w7"], 
-      // max 7 words mapping for languages like HU
-      correctOrder: [0, 1, 2, 3, 4, 5, 6],
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6"],
+      correctOrder: [0, 1, 2, 3, 4, 5],
       instruction: "t4_inst",
       hint1: "t4_b3",
-      hint2: "t4_b1",
+      hint2: "t4_b2",
     },
     quiz: {
       question: "t4_q",
