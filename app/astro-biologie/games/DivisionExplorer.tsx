@@ -1,22 +1,23 @@
 "use client";
-// CellExplorer.tsx — Bio Island i1: Sejtek & Mikroszkóp (K7)
-// Topics: 1) Sejt felépítése 2) Sejtszervecskék 3) Prokarióta vs Eukarióta 4) Mikroszkóp 5) Review
+// DivisionExplorer.tsx — Bio Island i2: Sejtoszlás & Ciklus (K7) - JAVÍTOTT
+// Topics: 1) A sejtciklus 2) Kromoszómák 3) A mitózis fázisai 4) Osztódás jelentősége 5) Review
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-import { CellStructureSvg } from "@/app/astro-biologie/svg";
+import { MitosisSvg } from "@/app/astro-biologie/svg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
-const Topic3Svg = memo(function Topic3Svg() {
+const Topic1Svg = memo(function Topic1Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
+      <rect width="240" height="140" fill="#F5F3FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-40" y="0" fontSize="30" textAnchor="middle">🦠</text>
-        <path d="M -10,0 L 10,0" stroke="#15803D" strokeWidth="3" strokeDasharray="4 2" />
-        <text x="40" y="0" fontSize="40" textAnchor="middle">🌿</text>
+        {/* Körkörös nyíl a ciklusnak */}
+        <circle cx="0" cy="0" r="45" fill="none" stroke="#8B5CF6" strokeWidth="6" strokeDasharray="210 70" />
+        <path d="M 40,-15 L 50,0 L 30,0 Z" fill="#8B5CF6" transform="rotate(15, 45, -15)" />
+        <text x="0" y="5" fontSize="30" textAnchor="middle">⏳</text>
       </g>
     </svg>
   );
@@ -25,12 +26,11 @@ const Topic3Svg = memo(function Topic3Svg() {
 const Topic4Svg = memo(function Topic4Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#F8FAFC" rx="20" />
+      <rect width="240" height="140" fill="#F0FDF4" rx="20" />
       <g transform="translate(120, 70)">
-        <circle cx="0" cy="-15" r="25" fill="none" stroke="#64748B" strokeWidth="4" />
-        <line x1="0" y1="10" x2="0" y2="40" stroke="#64748B" strokeWidth="6" />
-        <rect x="-20" y="40" width="40" height="8" rx="2" fill="#64748B" />
-        <text x="0" y="-10" fontSize="20" textAnchor="middle">🔬</text>
+        <text x="-40" y="10" fontSize="35" textAnchor="middle">🩹</text>
+        <path d="M -15,0 L 15,0" stroke="#16A34A" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="45" y="10" fontSize="35" textAnchor="middle">💪</text>
       </g>
     </svg>
   );
@@ -42,7 +42,7 @@ const Topic5Svg = memo(function Topic5Svg() {
       <rect width="240" height="140" fill="#FEF08A" rx="20" />
       <g transform="translate(120, 70)">
         <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
-        <text x="0" y="15" fontSize="40" textAnchor="middle">🔬</text>
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🧬</text>
       </g>
     </svg>
   );
@@ -52,164 +52,170 @@ const Topic5Svg = memo(function Topic5Svg() {
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    explorer_title: "Sejtek és Mikroszkóp",
-    // T1: Sejtstruktúra (Label-diagram)
-    t1_title: "Az eukarióta sejt",
-    t1_text: "Minden összetettebb élőlény sejtje eukarióta. Legfőbb jellemzője a körülhatárolt sejtmag, amely az örökítőanyagot tárolja.",
-    t1_b1: "Sejtmag: az irányító központ (DNS).",
-    t1_b2: "Sejthártya: vékony, rugalmas védőburok.",
-    t1_b3: "Mitokondrium: energiát termel a sejtnek.",
-    t1_inst: "Kattints a pontokra és válaszd ki a sejt megfelelő részét!",
-    t1_area_nucleus: "Sejtmag",
-    t1_area_membrane: "Sejthártya",
-    t1_area_mito: "Mitokondrium",
-    t1_area_cyto: "Sejtplazma",
-    t1_q: "Melyik rész irányítja a sejt életfolyamatait?",
-    t1_q_a: "Sejtmag", t1_q_b: "Vakuólum", t1_q_c: "Sejtfal", t1_q_d: "Csillók",
+    explorer_title: "Sejtoszlás és Ciklus",
+    // T1: Sejtciklus
+    t1_title: "A sejt életútja",
+    t1_text: "A sejtciklus folyamatos körforgás: növekedésből és osztódásból áll. Az osztódás előtt a sejtnek feltétlenül meg kell kettőznie az örökítőanyagát.",
+    t1_b1: "Interfázis: a sejt növekszik és DNS-t másol.",
+    t1_b2: "DNS replikáció: a genetikai kód megduplázódik.",
+    t1_b3: "Osztódás: az anyasejtből két utódsejt lesz.",
+    t1_inst: "Mi történik az osztódás előtti nyugalmi szakaszban?",
+    t1_gap_sentence: "Az osztódás előtt a sejt {gap} a DNS állományát.",
+    t1_c1: "megkettőzi", t1_c2: "elveszíti", t1_c3: "megemészti",
+    t1_q: "Melyik szakaszban tölti a sejt az ideje 90%-át?",
+    t1_q_a: "Interfázis (növekedés)", t1_q_b: "Mitózis (osztódás)", t1_q_c: "Pusztulás", t1_q_d: "Gázcsere",
 
-    // T2: Sejtszervecskék
-    t2_title: "Sejtszervecskék feladata",
-    t2_text: "A sejt belsejében különböző feladatokra szakosodott egységek, sejtszervecskék találhatók.",
-    t2_b1: "Riboszómák: a fehérjék 'gyárai'.",
-    t2_b2: "Zöld színtest: a fotoszintézis helyszíne (csak növényekben).",
-    t2_b3: "Vakuólum: tápanyagok és víz tárolása.",
-    t2_inst: "Párosítsd a szervecskét a funkciójával!",
-    t2_l1: "Mitokondrium", t2_r1: "Energiatermelés",
-    t2_l2: "Riboszóma", t2_r2: "Fehérje előállítás",
-    t2_l3: "Zöld színtest", t2_r3: "Cukorgyártás fényből",
-    t2_q: "Melyik szervecske felelős a sejt energiájáért?",
-    t2_q_a: "Mitokondrium", t2_q_b: "Sejtmag", t2_q_c: "Riboszóma", t2_q_d: "Vakuólum",
+    // T2: Kromoszómák (Label-diagram)
+    t2_title: "A DNS csomagolása",
+    t2_text: "Az osztódás során a DNS-szálak szorosan összetekerednek, és mikroszkóppal is látható kromoszómákat alkotnak.",
+    t2_b1: "Kromatida: a kromoszóma két azonos fele.",
+    t2_b2: "Centromer: a középső befűződés, ami összetartja a két felet.",
+    t2_b3: "Gén: a DNS azon szakasza, ami egy tulajdonságot kódol.",
+    t2_inst: "Címkézd fel a kromoszóma részeit!",
+    t2_area_chromatid: "Kromatida",
+    t2_area_centromere: "Centromer",
+    t2_area_gene: "Gén",
+    t2_q: "Hány kromatidából áll egy osztódó kromoszóma?",
+    t2_q_a: "Kettő", t2_q_b: "Négy", t2_q_c: "Egy", t2_q_d: "Nyolc",
 
-    // T3: Prokarióta vs Eukarióta
-    t3_title: "Egyszerű és összetett sejtek",
-    t3_text: "A prokarióták (pl. baktériumok) ősi, egyszerűbb felépítésű sejtek, míg az eukarióták bonyolult belső hálózattal rendelkeznek.",
-    t3_b1: "Prokarióta: nincs sejtmag, a DNS a plazmában szabadon van.",
-    t3_b2: "Eukarióta: van sejtmag és membránnal határolt szervecskék.",
-    t3_b3: "A baktériumok mindig prokarióták.",
-    t3_inst: "Miben tér el a baktérium sejtje a miénktől?",
-    t3_gap_sentence: "A prokarióta sejteknek nincs körülhatárolt {gap}.",
-    t3_c1: "sejtmagjuk", t3_c2: "plazmájuk", t3_c3: "DNS-ük",
-    t3_q: "Melyik élőlény eukarióta?",
-    t3_q_a: "Gomba", t3_q_b: "Baktérium", t3_q_c: "Kékmoszat", t3_q_d: "Vírus",
+    // T3: Mitózis fázisai (Word-order)
+    t3_title: "A mitózis menete",
+    t3_text: "A mitózis (számtartó osztódás) során egy anyasejtből két, genetikailag azonos utódsejt keletkezik. Ennek 4 fő szakasza van.",
+    t3_b1: "Profázis: a kromoszómák láthatóvá válnak.",
+    t3_b2: "Metafázis: a kromoszómák középre rendeződnek.",
+    t3_b3: "Anafázis: a kromatidák szétválnak a pólusok felé.",
+    t3_inst: "Tedd sorrendbe a mitózis fázisait!",
+    t3_w1: "Profázis", t3_w2: "Metafázis", t3_w3: "Anafázis", t3_w4: "Telofázis",
+    t3_q: "Melyik fázisban válnak szét a kromatidák?",
+    t3_q_a: "Anafázis", t3_q_b: "Profázis", t3_q_c: "Metafázis", t3_q_d: "Telofázis",
 
-    // T4: Mikroszkóp
-    t4_title: "A mikroszkóp használata",
-    t4_text: "A fénymikroszkóp lencserendszere segít láthatóvá tenni a sejteket. A nagyítás az objektív és az okulár értékétől függ.",
-    t4_b1: "Okulár: a szemhez közeli lencse.",
-    t4_b2: "Objektív: a tárgyhoz közeli lencse.",
-    t4_b3: "Tárgyasztal: ide kerül a vizsgált metszet.",
-    t4_inst: "Tedd sorba a fény útját a mikroszkópban (alulról felfelé)!",
-    t4_w1: "Fényforrás", t4_w2: "Metszet", t4_w3: "Objektív", t4_w4: "Tubus", t4_w5: "Okulár",
-    t4_q: "Mit teszünk a tárgyasztalra a vizsgálathoz?",
-    t4_q_a: "Metszetet (preparátumot)", t4_q_b: "Tükröt", t4_q_c: "Szemüveget", t4_q_d: "Lámpát",
+    // T4: Osztódás jelentősége
+    t4_title: "Növekedés és gyógyulás",
+    t4_text: "Miért fontos az osztódás? A többsejtű lények ezen keresztül növekednek, és így pótolják az elpusztult sejtjeiket (pl. sebgyógyulás).",
+    t4_b1: "Növekedés: sejtjeink száma nő.",
+    t4_b2: "Regeneráció: elhalt bőrsejtek pótlása.",
+    t4_b3: "Ivartalan szaporodás: egysejtűeknél utódlás.",
+    t4_inst: "Mikor történik mitózis a testünkben? Válogasd szét!",
+    t4_bucket_igen: "Mitózis történik",
+    t4_bucket_nem: "Nem sejtosztódás",
+    t4_item_i1: "Sebgyógyulás", t4_item_i2: "Gyerekek növekedése",
+    t4_item_n1: "Ebéd elfogyasztása", t4_item_n2: "Álmodozás",
+    t4_q: "Az anyasejthez képest milyen az utódsejtek DNS-e mitózis után?",
+    t4_q_a: "Teljesen azonos", t4_q_b: "Fele annyi", t4_q_c: "Dupla annyi", t4_q_d: "Teljesen más",
 
     // T5: Review
     t5_title: "Összefoglaló Kvíz",
-    t5_text: "Ellenőrizd a tudásod a sejttan alapjairól!",
-    t5_b1: "Eukarióta = van sejtmag.",
-    t5_b2: "A növényi sejtnek van sejtfala és zöld színtestje.",
-    t5_b3: "A mikroszkóp a láthatatlan világ kapuja.",
-    t5_inst: "Hogyan nevezzük az energiatermelő szervet?",
-    t5_gap_sentence2: "A sejt 'erőműve' a {gap}.",
-    t5_c51: "mitokondrium", t5_c52: "riboszóma", t5_c53: "sejtmag",
-    t5_q: "Melyik állítás IGAZ az eukarióta sejtre?",
-    t5_q_a: "Rendelkezik körülhatárolt sejtmaggal.", t5_q_b: "Nincs benne DNS.", t5_q_c: "Minden esetben baktérium.", t5_q_d: "Csak élettelen dolgokban van.",
+    t5_text: "Teszteld, mit tanultál a sejt életciklusáról és az osztódásról!",
+    t5_b1: "Interfázis = DNS másolás.",
+    t5_b2: "Mitózis = 2 azonos utódsejt.",
+    t5_b3: "Kromoszóma = tömörített DNS.",
+    t5_inst: "Hogy hívjuk a sejtosztódás fő típusát a testünkben?",
+    t5_gap_sentence2: "A testünk növekedését a {gap} folyamata biztosítja.",
+    t5_c51: "mitózis", t5_c52: "emésztés", t5_c53: "keringés",
+    t5_q: "Melyik állítás IGAZ a kromoszómákra?",
+    t5_q_a: "Osztódáskor láthatóvá váló örökítőanyag.", t5_q_b: "Csak a vízben találhatók.", t5_q_c: "Azonosak a baktériumokkal.", t5_q_d: "Nincs bennük DNS.",
   },
   en: {
-    explorer_title: "Cells and Microscope",
-    t1_title: "Eukaryotic Cell", t1_text: "Every complex organism is made of eukaryotic cells, characterized by a nucleus containing DNA.",
-    t1_b1: "Nucleus: the control center (DNA).", t1_b2: "Membrane: thin, flexible protective layer.", t1_b3: "Mitochondria: produces energy for the cell.",
-    t1_inst: "Click the dots and label the parts of the cell!",
-    t1_area_nucleus: "Nucleus", t1_area_membrane: "Cell membrane", t1_area_mito: "Mitochondria", t1_area_cyto: "Cytoplasm",
-    t1_q: "Which part controls cell activities?", t1_q_a: "Nucleus", t1_q_b: "Vacuole", t1_q_c: "Cell wall", t1_q_d: "Cilia",
+    explorer_title: "Cell Division & Cycle",
+    t1_title: "Cell Life Cycle", t1_text: "The cell cycle is a continuous rotation of growth and division. Before dividing, the cell must replicate its DNA.",
+    t1_b1: "Interphase: growth and DNA copying.", t1_b2: "DNA replication: doubling the genetic code.", t1_b3: "Division: one parent cell becomes two daughter cells.",
+    t1_inst: "What happens during the resting phase before division?", t1_gap_sentence: "Before dividing, the cell {gap} its DNA content.",
+    t1_c1: "replicates", t1_c2: "loses", t1_c3: "digests",
+    t1_q: "In which stage does a cell spend 90% of its time?", t1_q_a: "Interphase", t1_q_b: "Mitosis", t1_q_c: "Death", t1_q_d: "Gas exchange",
 
-    t2_title: "Organelle Functions", t2_text: "Inside the cell, specialized units called organelles perform daily tasks.",
-    t2_b1: "Ribosomes: protein 'factories'.", t2_b2: "Chloroplasts: site of photosynthesis (plants only).", t2_b3: "Vacuole: storage for nutrients and water.",
-    t2_inst: "Match the organelle with its function!",
-    t2_l1: "Mitochondria", t2_r1: "Energy production", t2_l2: "Ribosome", t2_r2: "Protein synthesis", t2_l3: "Chloroplast", t2_r3: "Sugar from light",
-    t2_q: "Which organelle is responsible for cell energy?", t2_q_a: "Mitochondria", t2_q_b: "Nucleus", t2_q_c: "Ribosome", t2_q_d: "Vacuole",
+    t2_title: "Packaging DNA", t2_text: "During division, DNA strands coil tightly to form chromosomes, visible under a microscope.",
+    t2_b1: "Chromatid: two identical halves of a chromosome.", t2_b2: "Centromere: the center part holding them together.", t2_b3: "Gene: segment of DNA coding for a trait.",
+    t2_inst: "Label the parts of the chromosome!",
+    t2_area_chromatid: "Chromatid", t2_area_centromere: "Centromere", t2_area_gene: "Gene",
+    t2_q: "How many chromatids are in a dividing chromosome?", t2_q_a: "Two", t2_q_b: "Four", t2_q_c: "One", t2_q_d: "Eight",
 
-    t3_title: "Prokaryote vs Eukaryote", t3_text: "Prokaryotes (like bacteria) are ancient and simple, while eukaryotes have complex internal networks.",
-    t3_b1: "Prokaryote: no nucleus, DNA is free in cytoplasm.", t3_b2: "Eukaryote: has a nucleus and membrane-bound organelles.", t3_b3: "Bacteria are always prokaryotes.",
-    t3_inst: "How does a bacterium differ from our cells?", t3_gap_sentence: "Prokaryotic cells have no defined {gap}.",
-    t3_c1: "nucleus", t3_c2: "plasma", t3_c3: "DNA",
-    t3_q: "Which organism is eukaryotic?", t3_q_a: "Fungus", t3_q_b: "Bacteria", t3_q_c: "Cyanobacteria", t3_q_d: "Virus",
+    t3_title: "Process of Mitosis", t3_text: "Mitosis results in two genetically identical daughter cells. It has 4 main phases.",
+    t3_b1: "Prophase: chromosomes become visible.", t3_b2: "Metaphase: chromosomes align in the middle.", t3_b3: "Anaphase: chromatids separate to poles.",
+    t3_inst: "Put the phases of mitosis in order!",
+    t3_w1: "Prophase", t3_w2: "Metaphase", t3_w3: "Anaphase", t3_w4: "Telophase",
+    t3_q: "In which phase do chromatids separate?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metafase", t3_q_d: "Telophase",
 
-    t4_title: "Using a Microscope", t4_text: "The lens system of a light microscope makes cells visible. Magnification depends on the objective and ocular lenses.",
-    t4_b1: "Ocular: lens closest to the eye.", t4_b2: "Objective: lens closest to the object.", t4_b3: "Stage: where the slide is placed.",
-    t4_inst: "Put the path of light in order (bottom to top)!",
-    t4_w1: "Light source", t4_w2: "Slide", t4_w3: "Objective", t4_w4: "Tube", t4_w5: "Ocular",
-    t4_q: "What do we place on the stage for observation?", t4_q_a: "A slide", t4_q_b: "A mirror", t4_q_c: "Glasses", t4_q_d: "A lamp",
+    t4_title: "Growth and Healing", t4_text: "Multicellular organisms grow and replace dead cells through division (e.g., wound healing).",
+    t4_b1: "Growth: increase in cell count.", t4_b2: "Regeneration: replacing skin cells.", t4_b3: "Asexual reproduction: offspring in unicellulars.",
+    t4_inst: "When does mitosis happen? Sort them!",
+    t4_bucket_igen: "Mitosis happens", t4_bucket_nem: "Not division",
+    t4_item_i1: "Wound healing", t4_item_i2: "Kids growing",
+    t4_item_n1: "Eating lunch", t4_item_n2: "Dreaming",
+    t4_q: "How is the daughter cell DNA compared to the parent?", t4_q_a: "Identical", t4_q_b: "Half", t4_q_c: "Double", t4_q_d: "Different",
 
-    t5_title: "Summary Quiz", t5_text: "Test your knowledge of cell biology basics!",
-    t5_b1: "Eukaryote = has nucleus.", t5_b2: "Plant cell = has cell wall and chloroplast.", t5_b3: "Microscope = door to the invisible world.",
-    t5_inst: "What do we call the energy-producing organelle?", t5_gap_sentence2: "The cell's 'power plant' is the {gap}.",
-    t5_c51: "mitochondria", t5_c52: "ribosome", t5_c53: "nucleus",
-    t5_q: "Which statement is TRUE about eukaryotic cells?", t5_q_a: "They have a defined nucleus.", t5_q_b: "They have no DNA.", t5_q_c: "They are always bacteria.", t5_q_d: "They only exist in non-living things.",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about cell cycle!",
+    t5_b1: "Interphase = DNA copying.", t5_b2: "Mitosis = 2 identical cells.", t5_b3: "Chromosome = packed DNA.",
+    t5_inst: "What is the main type of cell division in our body?", t5_gap_sentence2: "Our body grows through the process of {gap}.",
+    t5_c51: "mitosis", t5_c52: "digestion", t5_c53: "circulation",
+    t5_q: "Which statement is TRUE about chromosomes?", t5_q_a: "DNA visible during division.", t5_q_b: "Only found in water.", t5_q_c: "Same as bacteria.", t5_q_d: "No DNA inside.",
   },
   de: {
-    explorer_title: "Zellen und Mikroskop",
-    t1_title: "Die eukaryotische Zelle", t1_text: "Alle komplexen Organismen bestehen aus eukaryotischen Zellen, die einen Zellkern mit DNA besitzen.",
-    t1_b1: "Zellkern: Steuerzentrum (DNA).", t1_b2: "Zellmembran: dünne, flexible Schutzhülle.", t1_b3: "Mitochondrium: erzeugt Energie für die Zelle.",
-    t1_inst: "Klicke auf die Punkte und benenne die Zellteile!",
-    t1_area_nucleus: "Zellkern", t1_area_membrane: "Zellmembran", t1_area_mito: "Mitochondrium", t1_area_cyto: "Zellplasma",
-    t1_q: "Welcher Teil steuert die Vorgänge in der Zelle?", t1_q_a: "Zellkern", t1_q_b: "Vakuole", t1_q_c: "Zellwand", t1_q_d: "Geißeln",
+    explorer_title: "Zellteilung & Zyklus",
+    t1_title: "Lebenszyklus der Zelle", t1_text: "Zellteilung ist ein Kreislauf aus Wachstum und Teilung. Vorher muss die DNA verdoppelt werden.",
+    t1_b1: "Interphase: Wachstum und DNA-Kopie.", t1_b2: "DNA-Replikation: Verdopplung des Codes.", t1_b3: "Teilung: Aus einer Zelle werden zwei.",
+    t1_inst: "Was passiert vor der Teilung?", t1_gap_sentence: "Vor der Teilung {gap} die Zelle ihre DNA.",
+    t1_c1: "verdoppelt", t1_c2: "verliert", t1_c3: "frisst",
+    t1_q: "Wo verbringt die Zelle die meiste Zeit?", t1_q_a: "Interphase", t1_q_b: "Mitose", t1_q_c: "Tod", t1_q_d: "Atmung",
 
-    t2_title: "Aufgaben der Organellen", t2_text: "Im Inneren der Zelle erledigen spezialisierte Organellen die täglichen Aufgaben.",
-    t2_b1: "Ribosomen: Fabriken für Proteine.", t2_b2: "Chloroplast: Ort der Fotosynthese (nur Pflanzen).", t2_b3: "Vakuole: Speicher für Nährstoffe und Wasser.",
-    t2_inst: "Verbinde das Organell mit seiner Funktion!",
-    t2_l1: "Mitochondrium", t2_r1: "Energiegewinnung", t2_l2: "Ribosom", t2_r2: "Proteinbildung", t2_l3: "Chloroplast", t2_r3: "Zucker aus Licht",
-    t2_q: "Welches Organell liefert der Zelle Energie?", t2_q_a: "Mitochondrium", t2_q_b: "Zellkern", t2_q_c: "Ribosom", t2_q_d: "Vakuole",
+    t2_title: "Verpackung der DNA", t2_text: "Während der Teilung rollt sich die DNA zu sichtbaren Chromosomen auf.",
+    t2_b1: "Chromatid: eine der zwei identischen Hälften.", t2_b2: "Centromer: die Haltestelle in der Mitte.", t2_b3: "Gen: DNA-Abschnitt für ein Merkmal.",
+    t2_inst: "Beschrifte das Chromosom!",
+    t2_area_chromatid: "Chromatid", t2_area_centromere: "Centromer", t2_area_gene: "Gen",
+    t2_q: "Aus wie vielen Chromatiden besteht ein Chromosom?", t2_q_a: "Zwei", t2_q_b: "Vier", t2_q_c: "Eins", t2_q_d: "Acht",
 
-    t3_title: "Prokaryot vs Eukaryot", t3_text: "Prokaryoten (Bakterien) sind einfach aufgebaut, während Eukaryoten komplexe Strukturen besitzen.",
-    t3_b1: "Prokaryot: kein Zellkern, DNA liegt frei im Plasma.", t3_b2: "Eukaryot: besitzt Zellkern und Organellen.", t3_b3: "Bakterien sind immer Prokaryoten.",
-    t3_inst: "Was unterscheidet Bakterien von unseren Zellen?", t3_gap_sentence: "Prokaryotische Zellen haben keinen echten {gap}.",
-    t3_c1: "Zellkern", t3_c2: "Zellsaft", t3_c3: "Farbstoff",
-    t3_q: "Welches Lebewesen ist ein Eukaryot?", t3_q_a: "Pilz", t3_q_b: "Bakterium", t3_q_c: "Blaualge", t3_q_d: "Virus",
+    t3_title: "Ablauf der Mitose", t3_text: "Die Mitose erzeugt zwei identische Zellen. Sie hat 4 Phasen.",
+    t3_b1: "Prophase: Kernhülle zerfällt.", t3_b2: "Metaphase: Chromosomen in der Mitte.", t3_b3: "Anaphase: Trennung der Chromatiden.",
+    t3_inst: "Bringe die Mitose-Phasen in Reihenfolge!",
+    t3_w1: "Prophase", t3_w2: "Metaphase", t3_w3: "Anaphase", t3_w4: "Telophase",
+    t3_q: "Wann trennen sich die Chromatiden?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metaphase", t3_q_d: "Telophase",
 
-    t4_title: "Das Mikroskop", t4_text: "Das Mikroskop macht Zellen sichtbar. Die Vergrößerung wird durch Objektiv und Okular bestimmt.",
-    t4_b1: "Okular: Linse am Auge.", t4_b2: "Objektiv: Linse am Objekt.", t4_b3: "Objekttisch: Platz für das Präparat.",
-    t4_inst: "Bringe den Lichtweg in die richtige Reihenfolge!",
-    t4_w1: "Lichtquelle", t4_w2: "Präparat", t4_w3: "Objektiv", t4_w4: "Tubus", t4_w5: "Okular",
-    t4_q: "Was legen wir zur Untersuchung auf den Objekttisch?", t4_q_a: "Präparat", t4_q_b: "Spiegel", t4_q_c: "Brille", t4_q_d: "Lampe",
+    t4_title: "Wachstum und Heilung", t4_text: "Zellteilung ermöglicht Wachstum und die Heilung von Wunden.",
+    t4_b1: "Wachstum: Zellzahl steigt.", t4_b2: "Regeneration: Hauterneuerung.", t4_b3: "Vermehrung: bei Einzellern.",
+    t4_inst: "Wann findet Mitose statt?",
+    t4_bucket_igen: "Mitose", t4_bucket_nem: "Keine Teilung",
+    t4_item_i1: "Wundheilung", t4_item_i2: "Größer werden",
+    t4_item_n1: "Essen", t4_item_n2: "Träumen",
+    t4_q: "Wie ist die DNA der Tochterzellen?", t4_q_a: "Identisch", t4_q_b: "Halbiert", t4_q_c: "Verdoppelt", t4_q_d: "Anders",
 
-    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen über die Grundlagen der Zellbiologie!",
-    t5_b1: "Eukaryot = mit Zellkern.", t5_b2: "Pflanzenzelle = mit Zellwand und Chloroplast.", t5_b3: "Mikroskop = Tor zur unsichtbaren Welt.",
-    t5_inst: "Wie nennt man das Energiekraftwerk der Zelle?", t5_gap_sentence2: "Das Kraftwerk der Zelle ist das {gap}.",
-    t5_c51: "Mitochondrium", t5_c52: "Ribosom", t5_c53: "Zellkern",
-    t5_q: "Was trifft auf eukaryotische Zellen zu?", t5_q_a: "Sie haben einen abgegrenzten Zellkern.", t5_q_b: "Sie haben keine DNA.", t5_q_c: "Es sind immer Bakterien.", t5_q_d: "Sie sind unbelebte Materie.",
+    t5_title: "Zusammenfassung", t5_text: "Teste dein Wissen!",
+    t5_b1: "Interphase = DNA-Kopie.", t5_b2: "Mitose = 2 identische Zellen.", t5_b3: "Chromosom = verpackte DNA.",
+    t5_inst: "Wie heißt die Körperzellteilung?", t5_gap_sentence2: "Körperwachstum geschieht durch {gap}.",
+    t5_c51: "Mitose", t5_c52: "Verdauung", t5_c53: "Laufen",
+    t5_q: "Was sind Chromosomen?", t5_q_a: "Erbgutträger", t5_q_b: "Bakterien", t5_q_c: "Wasserpflanzen", t5_q_d: "Zucker",
   },
   ro: {
-    explorer_title: "Celule și Microscop",
-    t1_title: "Celula eucariotă", t1_text: "Toate organismele complexe sunt formate din celule eucariote, caracterizate printr-un nucleu cu ADN.",
-    t1_b1: "Nucleu: centrul de control (ADN).", t1_b2: "Membrană: înveliș subțire și elastic.", t1_b3: "Mitocondrie: produce energie pentru celulă.",
-    t1_inst: "Apasă pe puncte și numește părțile celulei!",
-    t1_area_nucleus: "Nucleu", t1_area_membrane: "Membrană", t1_area_mito: "Mitocondrie", t1_area_cyto: "Citoplasmă",
-    t1_q: "Care parte coordonează viața celulei?", t1_q_a: "Nucleul", t1_q_b: "Vacuola", t1_q_c: "Peretele celular", t1_q_d: "Cilii",
+    explorer_title: "Diviziune & Ciclu Celular",
+    t1_title: "Ciclul de Viață al Celulei", t1_text: "Ciclul celular este o rotație continuă: creștere și diviziune. Înainte de a se divide, celula trebuie să își replice ADN-ul.",
+    t1_b1: "Interfaza: creștere și copierea ADN-ului.", t1_b2: "Replicarea ADN-ului: dublarea codului genetic.", t1_b3: "Diviziunea: o celulă mamă devine două celule fiice.",
+    t1_inst: "Ce se întâmplă în faza de repaus înainte de diviziune?", t1_gap_sentence: "Înainte de diviziune, celula își {gap} ADN-ul.",
+    t1_c1: "duplică", t1_c2: "pierde", t1_c3: "consumă",
+    t1_q: "În ce etapă își petrece celula 90% din timp?", t1_q_a: "Interfază", t1_q_b: "Mitoză", t1_q_c: "Moarte", t1_q_d: "Respirație",
 
-    t2_title: "Funcțiile organitelor", t2_text: "În interiorul celulei există unități specializate numite organite.",
-    t2_b1: "Ribozomi: 'fabricile' de proteine.", t2_b2: "Cloroplast: locul fotosintezei (doar la plante).", t2_b3: "Vacuolă: depozit de nutrienți și apă.",
-    t2_inst: "Potrivește organitul cu funcția sa!",
-    t2_l1: "Mitocondrie", t2_r1: "Producerea energiei", t2_l2: "Ribozom", t2_r2: "Sinteza proteinelor", t2_l3: "Cloroplast", t2_r3: "Zahăr din lumină",
-    t2_q: "Care organit este responsabil de energia celulei?", t2_q_a: "Mitocondria", t2_q_b: "Nucleul", t2_q_c: "Ribozomul", t2_q_d: "Vacuola",
+    t2_title: "Împachetarea ADN-ului", t2_text: "În timpul diviziunii, firele de ADN se înfășoară strâns și formează cromozomi vizibili la microscop.",
+    t2_b1: "Cromatidă: cele două jumătăți identice ale unui cromozom.", t2_b2: "Centromer: partea centrală care le ține unite.", t2_b3: "Genă: segment de ADN care codifică o trăsătură.",
+    t2_inst: "Etichetează părțile cromozomului!",
+    t2_area_chromatid: "Cromatidă", t2_area_centromere: "Centromer", t2_area_gene: "Genă",
+    t2_q: "Din câte cromatide este format un cromozom aflat în diviziune?", t2_q_a: "Două", t2_q_b: "Patru", t2_q_c: "Una", t2_q_d: "Opt",
 
-    t3_title: "Procariote vs Eucariote", t3_text: "Procariotele (ex: bacterii) sunt simple, în timp ce eucariotele au o rețea internă complexă.",
-    t3_b1: "Procariot: fără nucleu, ADN-ul este liber în citoplasmă.", t3_b2: "Eucariot: are nucleu și organite delimitate de membrane.", t3_b3: "Bacteriile sunt întotdeauna procariote.",
-    t3_inst: "Prin ce diferă bacteria de celulele noastre?", t3_gap_sentence: "Celulele procariote nu au un {gap} delimitat.",
-    t3_c1: "nucleu", t3_c2: "plasmă", t3_c3: "ADN",
-    t3_q: "Care organism este eucariot?", t3_q_a: "Ciuperca", t3_q_b: "Bacteria", t3_q_c: "Alga albastră", t3_q_d: "Virusul",
+    t3_title: "Procesul Mitozei", t3_text: "Mitoza rezultă în două celule fiice identice genetic. Are 4 faze principale.",
+    t3_b1: "Profaza: cromozomii devin vizibili.", t3_b2: "Metafaza: cromozomii se aliniază la mijloc.", t3_b3: "Anafaza: cromatidele se separă spre poli.",
+    t3_inst: "Pune fazele mitozei în ordine!",
+    t3_w1: "Profază", t3_w2: "Metafază", t3_w3: "Anafază", t3_w4: "Telofază",
+    t3_q: "În ce fază se separă cromatidele?", t3_q_a: "Anafază", t3_q_b: "Profază", t3_q_c: "Metafază", t3_q_d: "Telofază",
 
-    t4_title: "Utilizarea microscopului", t4_text: "Microscopul optic face celulele vizibile. Mărirea depinde de ocular și obiectiv.",
-    t4_b1: "Ocular: lentila apropiată de ochi.", t4_b2: "Obiectiv: lentila apropiată de obiect.", t4_b3: "Măsuță: locul unde se pune preparatul.",
-    t4_inst: "Pune în ordine drumul luminii (de jos în sus)!",
-    t4_w1: "Sursă lumină", t4_w2: "Preparat", t4_w3: "Obiectiv", t4_w4: "Tub", t4_w5: "Ocular",
-    t4_q: "Ce punem pe măsuța microscopului?", t4_q_a: "Preparatul", t4_q_b: "Oglinda", t4_q_c: "Ochelarii", t4_q_d: "Lampa",
+    t4_title: "Creștere și Vindecare", t4_text: "Organismele multicelulare cresc și înlocuiesc celulele moarte prin diviziune (ex: vindecarea rănilor).",
+    t4_b1: "Creștere: creșterea numărului de celule.", t4_b2: "Regenerare: înlocuirea celulelor pielii.", t4_b3: "Reproducere asexuată: la unicelulare.",
+    t4_inst: "Când are loc mitoza? Sortează-le!",
+    t4_bucket_igen: "Are loc mitoza", t4_bucket_nem: "Nu e diviziune",
+    t4_item_i1: "Vindecarea rănilor", t4_item_i2: "Creșterea copiilor",
+    t4_item_n1: "Mâncatul prânzului", t4_item_n2: "Visatul",
+    t4_q: "Cum este ADN-ul celulei fiice față de cel al mamei?", t4_q_a: "Identic", t4_q_b: "Jumătate", t4_q_c: "Dublu", t4_q_d: "Diferit",
 
-    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele despre bazele citologiei!",
-    t5_b1: "Eucariot = cu nucleu.", t5_b2: "Celulă vegetală = cu perete celular și cloroplast.", t5_b3: "Microscop = ușa către lumea invizibilă.",
-    t5_inst: "Cum numim centrala energetică a celulei?", t5_gap_sentence2: "Centrala energetică a celulei este {gap}.",
-    t5_c51: "mitocondria", t5_c52: "ribozomul", t5_c53: "nucleul",
-    t5_q: "Ce afirmație este ADEVĂRATĂ despre celulele eucariote?", t5_q_a: "Au un nucleu bine definit.", t5_q_b: "Nu au ADN.", t5_q_c: "Sunt întotdeauna bacterii.", t5_q_d: "Sunt materie nevie.",
+    t5_title: "Recapitulare", t5_text: "Testează-ți cunoștințele!",
+    t5_b1: "Interfază = copiere ADN.", t5_b2: "Mitoză = 2 celule identice.", t5_b3: "Cromozom = ADN împachetat.",
+    t5_inst: "Cum se numește diviziunea celulelor corpului?", t5_gap_sentence2: "Corpul crește prin procesul de {gap}.",
+    t5_c51: "mitoză", t5_c52: "digestie", t5_c53: "circulație",
+    t5_q: "Ce sunt cromozomii?", t5_q_a: "Purtători ai eredității", t5_q_b: "Bacterii", t5_q_c: "Plante", t5_q_d: "Zahăr",
   }
 };
 
@@ -219,19 +225,16 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: (lang) => <CellStructureSvg lang={lang} />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
-      type: "label-diagram",
-      areas: [
-        { id: "nucleus",  x: 50, y: 40, label: "t1_area_nucleus" },
-        { id: "membrane", x: 15, y: 55, label: "t1_area_membrane" },
-        { id: "mito",     x: 75, y: 65, label: "t1_area_mito" },
-        { id: "cyto",     x: 40, y: 20, label: "t1_area_cyto" },
-      ],
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
       instruction: "t1_inst",
-      hint1: "t1_b1",
-      hint2: "t1_b2",
+      hint1: "t1_b2",
+      hint2: "t1_b1",
     },
     quiz: {
       question: "t1_q",
@@ -242,14 +245,14 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang) => <CellStructureSvg lang={lang} />,
+    svg: (lang) => <MitosisSvg lang={lang} />, // A kromoszóma szerkezete
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
-      type: "match-pairs",
-      pairs: [
-        { left: "t2_l1", right: "t2_r1" },
-        { left: "t2_l2", right: "t2_r2" },
-        { left: "t2_l3", right: "t2_r3" },
+      type: "label-diagram",
+      areas: [
+        { id: "chromatid",  x: 40, y: 30, label: "t2_area_chromatid" },
+        { id: "centromere", x: 50, y: 55, label: "t2_area_centromere" },
+        { id: "gene",       x: 60, y: 75, label: "t2_area_gene" },
       ],
       instruction: "t2_inst",
       hint1: "t2_b1",
@@ -264,13 +267,12 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: (lang) => <MitosisSvg lang={lang} />, // Osztódási fázisok
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      type: "gap-fill",
-      sentence: "t3_gap_sentence",
-      choices: ["t3_c1", "t3_c2", "t3_c3"],
-      correctIndex: 0,
+      type: "word-order",
+      words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"],
+      correctOrder: [0, 1, 2, 3],
       instruction: "t3_inst",
       hint1: "t3_b1",
       hint2: "t3_b2",
@@ -287,9 +289,17 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic4Svg />,
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
-      type: "word-order",
-      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5"],
-      correctOrder: [0, 1, 2, 3, 4],
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "igen", label: "t4_bucket_igen" },
+        { id: "nem", label: "t4_bucket_nem" },
+      ],
+      items: [
+        { text: "t4_item_i1", bucketId: "igen" },
+        { text: "t4_item_n1", bucketId: "nem" },
+        { text: "t4_item_i2", bucketId: "igen" },
+        { text: "t4_item_n2", bucketId: "nem" },
+      ],
       instruction: "t4_inst",
       hint1: "t4_b1",
       hint2: "t4_b2",
@@ -311,8 +321,8 @@ const TOPICS: TopicDef[] = [
       choices: ["t5_c51", "t5_c52", "t5_c53"],
       correctIndex: 0,
       instruction: "t5_inst",
-      hint1: "t5_b1",
-      hint2: "t5_b3",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
     },
     quiz: {
       question: "t5_q",
@@ -327,15 +337,15 @@ const TOPICS: TopicDef[] = [
 const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
-  icon: "🔬",
+  icon: "⚗️",
   topics: TOPICS,
   rounds: [],
 };
 
 // ─── EXPORT ─────────────────────────────────────────────────────────
 
-const CellExplorer = memo(function CellExplorer({
-  color = "#10B981", // Emerald-500 a biológiai sejtekhez
+const DivisionExplorer = memo(function DivisionExplorer({
+  color = "#8B5CF6", // Violet-500
   onDone,
   lang = "hu",
 }: {
@@ -347,7 +357,7 @@ const CellExplorer = memo(function CellExplorer({
     <ExplorerEngine 
       def={DEF} 
       grade={7} 
-      explorerId="bio_k7_cells" 
+      explorerId="bio_k7_division" 
       color={color} 
       lang={lang} 
       onDone={onDone} 
@@ -355,4 +365,4 @@ const CellExplorer = memo(function CellExplorer({
   );
 });
 
-export default CellExplorer;
+export default DivisionExplorer;
