@@ -133,7 +133,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Prophase: chromosomes become visible.", t3_b2: "Metaphase: chromosomes align in the middle.", t3_b3: "Anaphase: chromatids separate to poles.",
     t3_inst: "Put the phases of mitosis in order!",
     t3_w1: "Prophase", t3_w2: "Metaphase", t3_w3: "Anaphase", t3_w4: "Telophase",
-    t3_q: "In which phase do chromatids separate?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metafase", t3_q_d: "Telophase",
+    t3_q: "In which phase do chromatids separate?", t3_q_a: "Anaphase", t3_q_b: "Prophase", t3_q_c: "Metaphase", t3_q_d: "Telophase",
 
     t4_title: "Growth and Healing", t4_text: "Multicellular organisms grow and replace dead cells through division (e.g., wound healing).",
     t4_b1: "Growth: increase in cell count.", t4_b2: "Regeneration: replacing skin cells.", t4_b3: "Asexual reproduction: offspring in unicellulars.",
