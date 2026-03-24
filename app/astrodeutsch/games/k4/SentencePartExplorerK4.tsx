@@ -369,7 +369,7 @@ const SentencePartExplorerK4 = memo(function SentencePartExplorerK4({
   lang = "de",
 }: {
   color?: string;
-  onDone: (s: number, t: number) => void;
+  onDone?: (s: number, t: number) => void;
   lang?: string;
 }) {
   return <ExplorerEngine def={DEF} grade={4} explorerId="deutsch_k4_sentencepart" color={color} lang={lang} onDone={onDone} />;

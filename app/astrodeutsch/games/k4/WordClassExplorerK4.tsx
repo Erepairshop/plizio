@@ -383,7 +383,7 @@ const WordClassExplorerK4 = memo(function WordClassExplorerK4({
   lang = "de",
 }: {
   color?: string;
-  onDone: (s: number, t: number) => void;
+  onDone?: (s: number, t: number) => void;
   lang?: string;
 }) {
   return <ExplorerEngine def={DEF} grade={4} explorerId="deutsch_k4_wordclass" color={color} lang={lang} onDone={onDone} />;

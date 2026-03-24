@@ -366,7 +366,7 @@ const ReviewExplorerK4 = memo(function ReviewExplorerK4({
   lang = "de",
 }: {
   color?: string;
-  onDone: (s: number, t: number) => void;
+  onDone?: (s: number, t: number) => void;
   lang?: string;
 }) {
   return <ExplorerEngine def={DEF} grade={4} explorerId="deutsch_k4_review" color={color} lang={lang} onDone={onDone} />;

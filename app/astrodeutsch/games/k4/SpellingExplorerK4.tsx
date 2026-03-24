@@ -359,7 +359,7 @@ const SpellingExplorerK4 = memo(function SpellingExplorerK4({
   lang = "de",
 }: {
   color?: string;
-  onDone: (s: number, t: number) => void;
+  onDone?: (s: number, t: number) => void;
   lang?: string;
 }) {
   return <ExplorerEngine def={DEF} grade={4} explorerId="deutsch_k4_spelling" color={color} lang={lang} onDone={onDone} />;
