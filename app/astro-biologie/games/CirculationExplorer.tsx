@@ -1,618 +1,382 @@
 "use client";
-// CirculationExplorer — Island: Blood Circulation (Blutkreislauf) Grade 6
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Pulmonary circulation, systemic circulation, blood pressure, heart health
+// CirculationExplorer.tsx — Bio Island i6: Keringés (K6)
+// Topics: 1) Kis vérkör 2) Nagy vérkör 3) Vérerek 4) Vércsoportok 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { CirculationSvg } from "@/app/astro-biologie/svg";
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEE2E2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="5" fontSize="40" textAnchor="middle">🫀</text>
+        <path d="M -20,15 Q -40,40 0,45 Q 40,40 20,15" fill="none" stroke="#E11D48" strokeWidth="3" markerEnd="url(#arrow)" />
+        <path d="M -20,-15 Q -40,-40 0,-45 Q 40,-40 20,-15" fill="none" stroke="#3B82F6" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="0" y="60" fontSize="20" textAnchor="middle">🏃</text>
+        <text x="0" y="-50" fontSize="20" textAnchor="middle">🫁</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#F3F4F6" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -60,0 L -20,0" stroke="#E11D48" strokeWidth="8" />
+        <path d="M 20,0 L 60,0" stroke="#2563EB" strokeWidth="8" />
+        <path d="M -20,0 Q 0,-20 20,0 M -20,0 Q 0,0 20,0 M -20,0 Q 0,20 20,0" fill="none" stroke="#9CA3AF" strokeWidth="2" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-35" y="15" fontSize="40" textAnchor="middle">🩸</text>
+        <text x="35" y="15" fontSize="40" textAnchor="middle">💉</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🔄</text>
+        <text x="25" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "A Keringési Rendszer",
+    // T1: Kis vérkör
+    t1_title: "A kis vérkör (Tüdővérkör)",
+    t1_text: "A vérkeringésünk két nagy körből áll. A kis vérkör a szív jobb kamrájából indul, és a tüdőbe szállítja a szén-dioxidban gazdag vért.",
+    t1_b1: "A tüdőben a vér leadja a szén-dioxidot és felveszi az oxigént.",
+    t1_b2: "A friss, oxigéndús vér ezután visszatér a szív bal pitvarába.",
+    t1_b3: "A kis vérkör feladata tehát a vér 'felfrissítése'.",
+    t1_inst: "Hová pumpálja a szív a vért a kis vérkörben?",
+    t1_gap_sentence: "A kis vérkör a szívből a {gap} szállítja a vért oxigénért.",
+    t1_c1: "tüdőbe", t1_c2: "agyba", t1_c3: "gyomorba",
+    t1_q: "Milyen vér tér vissza a tüdőből a szív bal pitvarába?",
+    t1_q_a: "Oxigénben gazdag vér", t1_q_b: "Szén-dioxidban gazdag vér", t1_q_c: "Vérsejtek nélküli plazma", t1_q_d: "Tápanyagokban gazdag vér",
+
+    // T2: Nagy vérkör
+    t2_title: "A nagy vérkör (Testvérkör)",
+    t2_text: "A nagy vérkör a szív bal kamrájából indul. Hatalmas erővel pumpálja ki az oxigéndús vért, hogy az eljusson a test minden egyes sejtjéhez.",
+    t2_b1: "A vér leadja az oxigént a sejteknek, és felveszi a szén-dioxidot.",
+    t2_b2: "A beleknél felveszi a tápanyagokat is.",
+    t2_b3: "Az elhasznált, oxigénszegény vér visszatér a szív jobb pitvarába.",
+    t2_inst: "Kis vérkör vagy Nagy vérkör? Válogasd szét a jellemzőket!",
+    t2_bucket_kis: "Kis vérkör",
+    t2_bucket_nag: "Nagy vérkör",
+    t2_item_k1: "A tüdőbe vezet", t2_item_k2: "A jobb kamrából indul",
+    t2_item_n1: "Az egész testbe vezet", t2_item_n2: "A bal kamrából indul",
+    t2_q: "Melyik szívüregből indul ki a testet ellátó nagy vérkör?",
+    t2_q_a: "A bal kamrából", t2_q_b: "A jobb kamrából", t2_q_c: "A jobb pitvarból", t2_q_d: "A bal pitvarból",
+
+    // T3: Vérerek
+    t3_title: "Az erek hálózata",
+    t3_text: "A vér zárt csőrendszerben, az erekben kering. Három fő típusuk van, melyek felépítése a feladatukhoz igazodik.",
+    t3_b1: "Artériák (ütőerek): elviszik a vért a szívből (vastag, rugalmas fal).",
+    t3_b2: "Vénák (gyűjtőerek): visszaviszik a vért a szívbe (vékonyabb fal, billentyűk).",
+    t3_b3: "Hajszálerek (kapillárisok): itt történik a gáz- és tápanyagcsere a sejtekkel.",
+    t3_inst: "Párosítsd az eret a feladatával!",
+    t3_l1: "Artéria (Ütőér)", t3_r1: "Elviszi a vért a szívből",
+    t3_l2: "Véna (Gyűjtőér)", t3_r2: "Visszaviszi a vért a szívbe",
+    t3_l3: "Hajszálér", t3_r3: "Anyagkicserélődés a sejteknél",
+    t3_q: "Milyen erekben történik az oxigén és a tápanyagok átadása a sejteknek?",
+    t3_q_a: "A hajszálerekben", t3_q_b: "Az artériákban", t3_q_c: "A vénákban", t3_q_d: "A nyirokerekben",
+
+    // T4: Vércsoportok
+    t4_title: "Vércsoportok és véradás",
+    t4_text: "Az emberek vérében lévő fehérjék alapján 4 fő vércsoportot különböztetünk meg: A, B, AB és 0 (nullás). Véradáskor életmentő a pontos egyezés.",
+    t4_b1: "Ha valaki nem megfelelő vért kap, a vére kicsapódik (rögösödik).",
+    t4_b2: "A 0-s vércsoport 'általános adó', mindenkinek adhat vért.",
+    t4_b3: "Az AB-s vércsoport 'általános kapó', mindenkitől kaphat vért.",
+    t4_inst: "Tedd sorba a mondat szavait!",
+    t4_w1: "A", t4_w2: "nullás", t4_w3: "vércsoport", t4_w4: "az", t4_w5: "általános", t4_w6: "adó.",
+    t4_q: "Melyik vércsoportú ember adhat vért az összes többi vércsoportnak?",
+    t4_q_a: "A 0-s (nullás)", t4_q_b: "Az A-s", t4_q_c: "A B-s", t4_q_d: "Az AB-s",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod a vérkeringésről és az erekről!",
+    t5_b1: "Kis vérkör: tüdő (oxigénfelvétel).",
+    t5_b2: "Nagy vérkör: test (oxigén leadás).",
+    t5_b3: "Artériák viszik el, vénák hozzák vissza a vért.",
+    t5_inst: "Melyik éren át távozik a vér a szívből?",
+    t5_gap_sentence2: "A vért a szívből az {gap} szállítják el.",
+    t5_c51: "artériák", t5_c52: "vénák", t5_c53: "hajszálerek",
+    t5_q: "Melyik állítás IGAZ a vénákra (gyűjtőerekre)?",
+    t5_q_a: "A testből a szív felé szállítják a vért.", t5_q_b: "A szívből indulnak ki.", t5_q_c: "Ezekben történik a sejtek oxigénellátása.", t5_q_d: "Nincsenek bennük billentyűk.",
+  },
   en: {
-    // Round 1: Pulmonary Circulation
-    r1_title: "Pulmonary Circulation",
-    r1_text: "This loop brings blood to the lungs to pick up oxygen and drop off carbon dioxide.",
-    r1_fact1: "Oxygen-poor blood leaves the right ventricle toward the lungs",
-    r1_fact2: "Pulmonary arteries carry dark blue blood (low oxygen) to both lungs",
-    r1_fact3: "In the lungs, blood picks up fresh oxygen and releases CO₂",
-    r1_fact4: "Pulmonary veins return bright red blood (oxygen-rich) back to the heart",
+    explorer_title: "The Circulatory System",
+    t1_title: "The Pulmonary Circulation", t1_text: "Our blood circulation consists of two main loops. The pulmonary circulation starts from the right ventricle and carries carbon dioxide-rich blood to the lungs.",
+    t1_b1: "In the lungs, the blood releases CO2 and picks up oxygen.", t1_b2: "Fresh, oxygen-rich blood then returns to the left atrium.", t1_b3: "Its main purpose is to 'refresh' the blood.",
+    t1_inst: "Where does the heart pump blood in the pulmonary circulation?", t1_gap_sentence: "The pulmonary circulation carries blood to the {gap} for oxygen.",
+    t1_c1: "lungs", t1_c2: "brain", t1_c3: "stomach",
+    t1_q: "What kind of blood returns from the lungs to the left atrium?", t1_q_a: "Oxygen-rich blood", t1_q_b: "Carbon dioxide-rich blood", t1_q_c: "Plasma without cells", t1_q_d: "Nutrient-rich blood",
 
-    // Round 2: Systemic Circulation
-    r2_title: "Systemic Circulation",
-    r2_text: "This loop delivers oxygen-rich blood to every part of your body and returns used blood.",
-    r2_fact1: "Oxygen-rich blood leaves the left ventricle through the aorta",
-    r2_fact2: "Arteries branch and deliver oxygen to the brain, heart, organs, and muscles",
-    r2_fact3: "Cells use oxygen and produce carbon dioxide as waste",
-    r2_fact4: "Oxygen-poor blood returns to the right atrium via the vena cava",
+    t2_title: "The Systemic Circulation", t2_text: "The systemic circulation starts from the left ventricle. It pumps oxygen-rich blood with immense force to reach every cell in the body.",
+    t2_b1: "Blood delivers oxygen to the cells and picks up CO2.", t2_b2: "It also picks up nutrients at the intestines.", t2_b3: "Used, oxygen-poor blood returns to the right atrium.",
+    t2_inst: "Pulmonary or Systemic? Sort the features!",
+    t2_bucket_kis: "Pulmonary (Lungs)", t2_bucket_nag: "Systemic (Body)",
+    t2_item_k1: "Leads to the lungs", t2_item_k2: "Starts from right ventricle",
+    t2_item_n1: "Leads to the whole body", t2_item_n2: "Starts from left ventricle",
+    t2_q: "Which heart chamber pumps blood into the systemic circulation?", t2_q_a: "Left ventricle", t2_q_b: "Right ventricle", t2_q_c: "Right atrium", t2_q_d: "Left atrium",
 
-    // Round 3: Blood Pressure
-    r3_title: "Blood Pressure: Keeping the Flow",
-    r3_text: "Blood pressure is the force of blood pushing against artery walls. It changes with each heartbeat.",
-    r3_fact1: "Systole is when the heart contracts and pushes blood out (higher number)",
-    r3_fact2: "Diastole is when the heart relaxes and fills with blood (lower number)",
-    r3_fact3: "Normal blood pressure is around 120/80 mmHg",
-    r3_fact4: "Your pulse is the beating of blood through arteries — you can feel it on your wrist",
+    t3_title: "Network of Blood Vessels", t3_text: "Blood circulates in a closed network of tubes called blood vessels. There are three main types, built for their specific tasks.",
+    t3_b1: "Arteries: carry blood away from the heart (thick, elastic walls).", t3_b2: "Veins: carry blood back to the heart (thinner walls, valves).", t3_b3: "Capillaries: where gas and nutrient exchange happens with cells.",
+    t3_inst: "Match the blood vessel with its function!",
+    t3_l1: "Artery", t3_r1: "Carries blood away from the heart", t3_l2: "Vein", t3_r2: "Carries blood back to the heart", t3_l3: "Capillary", t3_r3: "Exchange of materials at cells",
+    t3_q: "In which vessels are oxygen and nutrients delivered to the cells?", t3_q_a: "In the capillaries", t3_q_b: "In the arteries", t3_q_c: "In the veins", t3_q_d: "In the lymph vessels",
 
-    // Round 4: Heart Health
-    r4_title: "Keeping Your Heart Healthy",
-    r4_text: "A healthy heart works efficiently and lasts a lifetime with good habits.",
-    r4_fact1: "Regular exercise strengthens the heart and improves circulation",
-    r4_fact2: "Eating healthy foods (fruits, vegetables, whole grains) provides good nutrition",
-    r4_fact3: "Smoking damages blood vessels and increases heart disease risk",
-    r4_fact4: "Staying active, reducing stress, and getting sleep are all good for your heart",
+    t4_title: "Blood Types and Donation", t4_text: "Based on proteins in the blood, there are 4 main blood types: A, B, AB, and O. An exact match is life-saving during transfusions.",
+    t4_b1: "If someone gets the wrong blood, it clots (clumps together).", t4_b2: "Type O is the 'universal donor' (can give to anyone).", t4_b3: "Type AB is the 'universal recipient' (can receive from anyone).",
+    t4_inst: "Put the words in order!",
+    t4_w1: "Type", t4_w2: "O", t4_w3: "is", t4_w4: "the", t4_w5: "universal", t4_w6: "donor.",
+    t4_q: "Which blood type can be given to all other blood types?", t4_q_a: "Type O", t4_q_b: "Type A", t4_q_c: "Type B", t4_q_d: "Type AB",
 
-    // Round 5: Quiz
-    r5_title: "Circulation Review",
-
-    // Quiz Questions (3 questions)
-    q1_q: "What is the purpose of pulmonary circulation?",
-    q1_oxygen_pickup: "To pick up oxygen in the lungs",
-    q1_deliver: "To deliver oxygen to the body",
-    q1_filter: "To filter waste from blood",
-    q1_store: "To store oxygen",
-
-    q2_q: "The aorta is part of which circulation?",
-    q2_pulmonary: "Pulmonary circulation",
-    q2_systemic: "Systemic circulation",
-    q2_coronary: "Coronary circulation",
-    q2_both: "Both pulmonary and systemic",
-
-    q3_q: "What is the lower number in a blood pressure reading?",
-    q3_systole: "Systole",
-    q3_diastole: "Diastole",
-    q3_pulse: "Pulse",
-    q3_heartbeat: "Heartbeat",
-
-    // Round 1 MCQ
-    r1_q: "What happens to blood in the lungs?",
-    r1_gains_o2: "Picks up oxygen",
-    r1_loses_o2: "Loses oxygen",
-    r1_gains_co2: "Picks up carbon dioxide",
-    r1_gains_nutrients: "Gains nutrients",
-
-    // Round 2 MCQ
-    r2_q: "Which blood vessel carries oxygen-rich blood away from the heart?",
-    r2_vena_cava: "Vena cava",
-    r2_pulmonary_artery: "Pulmonary artery",
-    r2_aorta: "Aorta",
-    r2_pulmonary_vein: "Pulmonary vein",
-
-    // Round 3 MCQ
-    r3_q: "What does the top number in blood pressure (120) represent?",
-    r3_diastole: "Diastole (relaxing)",
-    r3_systole: "Systole (contracting)",
-    r3_pulse: "Pulse rate",
-    r3_heart_rate: "Heart rate",
-
-    // Round 4 MCQ
-    r4_q: "Which habit is best for heart health?",
-    r4_exercise: "Regular exercise",
-    r4_stress: "Being stressed",
-    r4_smoking: "Smoking",
-    r4_inactivity: "Staying still",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about blood circulation and vessels!",
+    t5_b1: "Pulmonary loop: lungs (getting oxygen).", t5_b2: "Systemic loop: body (delivering oxygen).", t5_b3: "Arteries take blood away, veins bring it back.",
+    t5_inst: "Which vessels carry blood away from the heart?", t5_gap_sentence2: "Blood is carried away from the heart by {gap}.",
+    t5_c51: "arteries", t5_c52: "veins", t5_c53: "capillaries",
+    t5_q: "Which statement is TRUE about veins?", t5_q_a: "They carry blood from the body back to the heart.", t5_q_b: "They originate directly from the heart.", t5_q_c: "They supply cells with oxygen.", t5_q_d: "They do not have any valves.",
   },
   de: {
-    r1_title: "Lungenkreislauf",
-    r1_text: "Diese Schleife bringt Blut in die Lunge, um Sauerstoff aufzunehmen und Kohlendioxid abzugeben.",
-    r1_fact1: "Sauerstoffarmes Blut verlässt die rechte Herzkammer Richtung Lunge",
-    r1_fact2: "Lungenarterien transportieren dunkelblaues Blut (sauerstoffarm) zu beiden Lungen",
-    r1_fact3: "In der Lunge nimmt Blut frischen Sauerstoff auf und setzt CO₂ frei",
-    r1_fact4: "Lungenvenen bringen hellrotes Blut (sauerstoffreich) zurück zum Herzen",
+    explorer_title: "Der Blutkreislauf",
+    t1_title: "Der Lungenkreislauf", t1_text: "Unser Blutkreislauf besteht aus zwei großen Kreisläufen. Der Lungenkreislauf beginnt in der rechten Herzkammer und pumpt sauerstoffarmes Blut zur Lunge.",
+    t1_b1: "In der Lunge gibt das Blut CO2 ab und nimmt Sauerstoff auf.", t1_b2: "Das frische, sauerstoffreiche Blut kehrt in den linken Vorhof zurück.", t1_b3: "Seine Hauptaufgabe ist die 'Erfrischung' des Blutes.",
+    t1_inst: "Wohin pumpt das Herz das Blut im kleinen Kreislauf?", t1_gap_sentence: "Der Lungenkreislauf transportiert Blut zur {gap}.",
+    t1_c1: "Lunge", t1_c2: "Gehirn", t1_c3: "Magen",
+    t1_q: "Welches Blut kehrt aus der Lunge in den linken Vorhof zurück?", t1_q_a: "Sauerstoffreiches Blut", t1_q_b: "Kohlendioxidreiches Blut", t1_q_c: "Blutplasma ohne Zellen", t1_q_d: "Nährstoffreiches Blut",
 
-    r2_title: "Großer Kreislauf",
-    r2_text: "Diese Schleife liefert sauerstoffreiches Blut zu jedem Teil deines Körpers und bringt verbrauchtes Blut zurück.",
-    r2_fact1: "Sauerstoffreiches Blut verlässt die linke Herzkammer durch die Aorta",
-    r2_fact2: "Arterien verzweigen sich und liefern Sauerstoff an Gehirn, Herz, Organe und Muskeln",
-    r2_fact3: "Zellen nutzen Sauerstoff und produzieren Kohlendioxid als Abfallprodukt",
-    r2_fact4: "Sauerstoffarmes Blut kehrt zur rechten Vorhof über die untere Hohlvene zurück",
+    t2_title: "Der Körperkreislauf", t2_text: "Der Körperkreislauf beginnt in der linken Herzkammer. Er pumpt sauerstoffreiches Blut mit enormer Kraft zu jeder Zelle des Körpers.",
+    t2_b1: "Das Blut gibt Sauerstoff an die Zellen ab und nimmt CO2 auf.", t2_b2: "Es nimmt auch Nährstoffe im Darm auf.", t2_b3: "Sauerstoffarmes Blut kehrt in den rechten Vorhof zurück.",
+    t2_inst: "Lungenkreislauf oder Körperkreislauf? Sortiere!",
+    t2_bucket_kis: "Lungenkreislauf", t2_bucket_nag: "Körperkreislauf",
+    t2_item_k1: "Führt zur Lunge", t2_item_k2: "Startet rechte Kammer",
+    t2_item_n1: "Führt in ganzen Körper", t2_item_n2: "Startet linke Kammer",
+    t2_q: "Aus welcher Herzkammer beginnt der große Körperkreislauf?", t2_q_a: "Aus der linken Kammer", t2_q_b: "Aus der rechten Kammer", t2_q_c: "Aus dem rechten Vorhof", t2_q_d: "Aus dem linken Vorhof",
 
-    r3_title: "Blutdruck: Den Fluss halten",
-    r3_text: "Blutdruck ist die Kraft des Blutes, das gegen Arterienwände drückt. Er ändert sich mit jedem Herzschlag.",
-    r3_fact1: "Systole ist, wenn das Herz sich zusammenzieht und Blut ausstößt (höhere Zahl)",
-    r3_fact2: "Diastole ist, wenn das Herz sich entspannt und mit Blut füllt (niedrigere Zahl)",
-    r3_fact3: "Der normale Blutdruck liegt bei etwa 120/80 mmHg",
-    r3_fact4: "Dein Puls ist das Pochen des Blutes durch Arterien — du kannst es am Handgelenk spüren",
+    t3_title: "Das Netz der Blutgefäße", t3_text: "Blut fließt in einem geschlossenen Röhrensystem. Es gibt drei Hauptarten, die an ihre Aufgaben angepasst sind.",
+    t3_b1: "Arterien (Schlagadern): führen Blut vom Herzen weg (dicke, elastische Wände).", t3_b2: "Venen: führen Blut zum Herzen zurück (dünnere Wände, Venenklappen).", t3_b3: "Kapillaren (Haargefäße): hier findet der Stoffaustausch an den Zellen statt.",
+    t3_inst: "Verbinde das Blutgefäß mit seiner Aufgabe!",
+    t3_l1: "Arterie", t3_r1: "Führt Blut vom Herzen weg", t3_l2: "Vene", t3_r2: "Führt Blut zum Herzen zurück", t3_l3: "Kapillare", t3_r3: "Stoffaustausch an den Zellen",
+    t3_q: "In welchen Gefäßen werden Sauerstoff und Nährstoffe an die Zellen abgegeben?", t3_q_a: "In den Kapillaren", t3_q_b: "In den Arterien", t3_q_c: "In den Venen", t3_q_d: "In den Lymphgefäßen",
 
-    r4_title: "Dein Herz gesund halten",
-    r4_text: "Ein gesundes Herz arbeitet effizient und hält ein Leben lang mit guten Gewohnheiten.",
-    r4_fact1: "Regelmäßiges Training stärkt das Herz und verbessert die Durchblutung",
-    r4_fact2: "Gesunde Ernährung (Obst, Gemüse, Vollkornprodukte) sorgt für gute Ernährung",
-    r4_fact3: "Rauchen schädigt Blutgefäße und erhöht das Herzerkrankungsrisiko",
-    r4_fact4: "Aktiv bleiben, Stress abbauen und ausreichend Schlaf sind alle gut für dein Herz",
+    t4_title: "Blutgruppen und Blutspende", t4_text: "Anhand von Proteinen im Blut unterscheiden wir 4 Hauptblutgruppen: A, B, AB und 0 (Null). Bei Blutspenden ist die richtige Gruppe lebensrettend.",
+    t4_b1: "Bekommt jemand falsches Blut, verklumpt es.", t4_b2: "Blutgruppe 0 ist der 'Universalspender' (kann jedem spenden).", t4_b3: "Blutgruppe AB ist der 'Universalempfänger' (kann von jedem empfangen).",
+    t4_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t4_w1: "Blutgruppe", t4_w2: "Null", t4_w3: "ist", t4_w4: "der", t4_w5: "universelle", t4_w6: "Spender.",
+    t4_q: "Welche Blutgruppe kann allen anderen Blutgruppen spenden?", t4_q_a: "Blutgruppe 0 (Null)", t4_q_b: "Blutgruppe A", t4_q_c: "Blutgruppe B", t4_q_d: "Blutgruppe AB",
 
-    r5_title: "Kreislauf Wiederholung",
-
-    q1_q: "Was ist der Zweck des Lungenkreislaufs?",
-    q1_oxygen_pickup: "Sauerstoff in der Lunge aufzunehmen",
-    q1_deliver: "Sauerstoff an den Körper zu liefern",
-    q1_filter: "Abfallstoffe aus dem Blut zu filtern",
-    q1_store: "Sauerstoff zu speichern",
-
-    q2_q: "Die Aorta ist Teil welcher Zirkulation?",
-    q2_pulmonary: "Lungenkreislauf",
-    q2_systemic: "Großer Kreislauf",
-    q2_coronary: "Koronarer Kreislauf",
-    q2_both: "Beide Kreisläufe",
-
-    q3_q: "Was ist die untere Zahl in einer Blutdruckmessung?",
-    q3_systole: "Systole",
-    q3_diastole: "Diastole",
-    q3_pulse: "Puls",
-    q3_heartbeat: "Herzschlag",
-
-    r1_q: "Was passiert mit Blut in der Lunge?",
-    r1_gains_o2: "Nimmt Sauerstoff auf",
-    r1_loses_o2: "Verliert Sauerstoff",
-    r1_gains_co2: "Nimmt Kohlendioxid auf",
-    r1_gains_nutrients: "Nimmt Nährstoffe auf",
-
-    r2_q: "Welches Blutgefäß transportiert sauerstoffreiches Blut vom Herzen weg?",
-    r2_vena_cava: "Untere Hohlvene",
-    r2_pulmonary_artery: "Lungenarterie",
-    r2_aorta: "Aorta",
-    r2_pulmonary_vein: "Lungenvene",
-
-    r3_q: "Was stellt die obere Zahl im Blutdruck (120) dar?",
-    r3_diastole: "Diastole (entspannend)",
-    r3_systole: "Systole (zusammenziehend)",
-    r3_pulse: "Pulsfrequenz",
-    r3_heart_rate: "Herzfrequenz",
-
-    r4_q: "Welche Gewohnheit ist am besten für die Herzgesundheit?",
-    r4_exercise: "Regelmäßiges Training",
-    r4_stress: "Gestresst sein",
-    r4_smoking: "Rauchen",
-    r4_inactivity: "Stillsitzen",
-  },
-  hu: {
-    r1_title: "Tüdőkeringés",
-    r1_text: "Ez a kör oxigént vesz fel a tüdőben és szén-dioxidot enged ki.",
-    r1_fact1: "Oxigénszegény vér elhagyja a jobb kamrát a tüdő felé",
-    r1_fact2: "A tüdőartériák sötétkék vért (oxigénszegény) szállítanak mindkét tüdőhöz",
-    r1_fact3: "A tüdőben a vér friss oxigént vesz fel és CO₂-t enged ki",
-    r1_fact4: "A tüdővénák világos vöröset (oxigénben gazdag) vért szállítanak vissza a szívhez",
-
-    r2_title: "Nagy keringés",
-    r2_text: "Ez a kör oxigénben gazdag vért szállít a tested minden részéhez és használt vért szállít vissza.",
-    r2_fact1: "Az oxigénben gazdag vér elhagyja a bal kamrát az aorta által",
-    r2_fact2: "Az artériák elágaznak és oxigént szállítanak az agyhoz, szívhez, szervekhez és izomhoz",
-    r2_fact3: "A sejtek oxigént használnak és szén-dioxidot termelnek hulladékként",
-    r2_fact4: "Az oxigénszegény vér a felső üres vénán keresztül visszatér a jobb pitvarra",
-
-    r3_title: "Vérnyomás: Az áramlás megtartása",
-    r3_text: "A vérnyomás az a erő, amellyel a vér az artéria falainak ellenében nyomódik. Minden szívveréshez változik.",
-    r3_fact1: "A szisztolé az, amikor a szív összehúzódik és kidobja a vért (magasabb szám)",
-    r3_fact2: "A diasztolé az, amikor a szív ellazul és vérkkel telik meg (alacsonyabb szám)",
-    r3_fact3: "A normális vérnyomás körülbelül 120/80 mmHg",
-    r3_fact4: "A pulzusod az a vér verése az artériákon - érezheted a csuklódon",
-
-    r4_title: "Szíved egészségesnek tartása",
-    r4_text: "Az egészséges szív hatékonyan működik és jó szokásokkal egész életen át tart.",
-    r4_fact1: "A rendszeres testmozgás erősíti a szívet és javítja a keringést",
-    r4_fact2: "Az egészséges táplálkozás (gyümölcs, zöldség, teljes kiőrlésű gabona) jó tápanyagot biztosít",
-    r4_fact3: "A dohányzás károsítja az ereket és növeli a szívbetegség kockázatát",
-    r4_fact4: "Aktív maradás, stressz csökkentés és megfelelő alvás mind jó a szívedhez",
-
-    r5_title: "Keringés Áttekintés",
-
-    q1_q: "Mi a tüdőkeringés célja?",
-    q1_oxygen_pickup: "Oxigén felvétele a tüdőben",
-    q1_deliver: "Oxigén szállítása a testbe",
-    q1_filter: "Hulladék szűrése a vérből",
-    q1_store: "Oxigén tárolása",
-
-    q2_q: "Az aorta melyik keringés része?",
-    q2_pulmonary: "Tüdőkeringés",
-    q2_systemic: "Nagy keringés",
-    q2_coronary: "Koszorúer keringés",
-    q2_both: "Mindkét keringés",
-
-    q3_q: "Mi az alsó szám a vérnyomásmérésnél?",
-    q3_systole: "Szisztolé",
-    q3_diastole: "Diasztolé",
-    q3_pulse: "Pulzus",
-    q3_heartbeat: "Szívverés",
-
-    r1_q: "Mi történik a vérrel a tüdőben?",
-    r1_gains_o2: "Oxigént vesz fel",
-    r1_loses_o2: "Oxigént veszít",
-    r1_gains_co2: "Szén-dioxidot vesz fel",
-    r1_gains_nutrients: "Tápanyagokat vesz fel",
-
-    r2_q: "Melyik vérszállító edény szállít oxigénben gazdag vért a szívtől?",
-    r2_vena_cava: "Felső üres véna",
-    r2_pulmonary_artery: "Tüdőartéria",
-    r2_aorta: "Aorta",
-    r2_pulmonary_vein: "Tüdővéna",
-
-    r3_q: "Mit jelent a vérnyomás felső száma (120)?",
-    r3_diastole: "Diasztolé (lazító)",
-    r3_systole: "Szisztolé (összehúzódó)",
-    r3_pulse: "Pulzusfrekvencia",
-    r3_heart_rate: "Szívfrekvencia",
-
-    r4_q: "Melyik szokás a legjobb a szív egészségéhez?",
-    r4_exercise: "Rendszeres testmozgás",
-    r4_stress: "Stresszben lenni",
-    r4_smoking: "Dohányzás",
-    r4_inactivity: "Mozdulatlanul maradás",
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über den Blutkreislauf und die Gefäße!",
+    t5_b1: "Kleiner Kreislauf: Lunge (Sauerstoffaufnahme).", t5_b2: "Großer Kreislauf: Körper (Sauerstoffabgabe).", t5_b3: "Arterien vom Herzen weg, Venen zum Herzen hin.",
+    t5_inst: "Durch welche Gefäße verlässt das Blut das Herz?", t5_gap_sentence2: "Das Blut wird durch {gap} vom Herzen weggeleitet.",
+    t5_c51: "Arterien", t5_c52: "Venen", t5_c53: "Kapillaren",
+    t5_q: "Welche Aussage über Venen ist WAHR?", t5_q_a: "Sie transportieren das Blut aus dem Körper zum Herzen zurück.", t5_q_b: "Sie beginnen direkt am Herzen.", t5_q_c: "Sie versorgen die Zellen direkt mit Sauerstoff.", t5_q_d: "Sie haben keine Klappen.",
   },
   ro: {
-    r1_title: "Circulația pulmonară",
-    r1_text: "Această buclă aduce sânge la plămâni pentru a ridica oxigenul și a elibera dioxidul de carbon.",
-    r1_fact1: "Sângele sărac în oxigen părăsește ventriculul drept către plămâni",
-    r1_fact2: "Arterele pulmonare transportă sânge albastru închis (sărac în oxigen) la ambii plămâni",
-    r1_fact3: "În plămâni, sângele ridică oxigen proaspăt și eliberează CO₂",
-    r1_fact4: "Venele pulmonare aduc sânge roșu închis (bogat în oxigen) înapoi la inimă",
+    explorer_title: "Sistemul Circulator",
+    t1_title: "Mica Circulație (Pulmonară)", t1_text: "Circulația sângelui are două circuite principale. Mica circulație începe din ventriculul drept și duce sângele încărcat cu dioxid de carbon la plămâni.",
+    t1_b1: "În plămâni, sângele eliberează CO2 și preia oxigen.", t1_b2: "Sângele proaspăt oxigenat se întoarce în atriul stâng.", t1_b3: "Scopul său este de a 'împrospăta' sângele.",
+    t1_inst: "Unde pompează inima sângele în mica circulație?", t1_gap_sentence: "Mica circulație transportă sângele la {gap} pentru oxigen.",
+    t1_c1: "plămâni", t1_c2: "creier", t1_c3: "stomac",
+    t1_q: "Ce fel de sânge se întoarce de la plămâni în atriul stâng?", t1_q_a: "Sânge bogat în oxigen", t1_q_b: "Sânge bogat în dioxid de carbon", t1_q_c: "Plasmă fără celule", t1_q_d: "Sânge bogat în nutrienți",
 
-    r2_title: "Circulația sistemică",
-    r2_text: "Această buclă livrează sânge bogat în oxigen la fiecare parte a corpului tău și returnează sângele folosit.",
-    r2_fact1: "Sângele bogat în oxigen pleacă din ventriculul stâng prin aortă",
-    r2_fact2: "Arterele se ramifică și livrează oxigen la creier, inimă, organe și mușchi",
-    r2_fact3: "Celulele folosesc oxigenul și produc dioxid de carbon ca deșeu",
-    r2_fact4: "Sângele sărac în oxigen se întoarce la atriul drept prin vena cava",
+    t2_title: "Marea Circulație (Sistemică)", t2_text: "Marea circulație începe din ventriculul stâng. Pompează sânge bogat în oxigen cu o forță uriașă pentru a ajunge la fiecare celulă.",
+    t2_b1: "Sângele dă oxigen celulelor și preia CO2.", t2_b2: "Preia și nutrienți de la intestine.", t2_b3: "Sângele folosit se întoarce în atriul drept.",
+    t2_inst: "Mica sau Marea Circulație? Sortează-le!",
+    t2_bucket_kis: "Mica Circulație (Plămâni)", t2_bucket_nag: "Marea Circulație (Corp)",
+    t2_item_k1: "Duce la plămâni", t2_item_k2: "Începe în ventriculul drept",
+    t2_item_n1: "Duce la tot corpul", t2_item_n2: "Începe în ventriculul stâng",
+    t2_q: "Din ce cameră a inimii începe marea circulație?", t2_q_a: "Din ventriculul stâng", t2_q_b: "Din ventriculul drept", t2_q_c: "Din atriul drept", t2_q_d: "Din atriul stâng",
 
-    r3_title: "Tensiunea arterială: Menținerea fluxului",
-    r3_text: "Tensiunea arterială este forța cu care sângele împinge împotriva pereților arteriali. Se schimbă cu fiecare bătaie.",
-    r3_fact1: "Sistola este când inima se contractă și împinge sângele (număr mai mare)",
-    r3_fact2: "Diastola este când inima se relaxează și se umple cu sânge (număr mai mic)",
-    r3_fact3: "Tensiunea arterială normală este de aproximativ 120/80 mmHg",
-    r3_fact4: "Pulsul tău este bătaia sangelui prin artere — poți să-l simți la încheietura mâinii",
+    t3_title: "Rețeaua de Vase de Sânge", t3_text: "Sângele circulă într-o rețea închisă de tuburi. Există trei tipuri principale, construite pentru sarcinile lor.",
+    t3_b1: "Artere: duc sângele de la inimă (pereți groși, elastici).", t3_b2: "Vene: aduc sângele înapoi la inimă (pereți mai subțiri, valve).", t3_b3: "Capilare: aici are loc schimbul de gaze și nutrienți la celule.",
+    t3_inst: "Potrivește vasul de sânge cu funcția sa!",
+    t3_l1: "Arteră", t3_r1: "Duce sângele de la inimă", t3_l2: "Venă", t3_r2: "Aduce sângele la inimă", t3_l3: "Capilar", t3_r3: "Schimb de substanțe la celule",
+    t3_q: "În ce vase se dau oxigenul și nutrienții celulelor?", t3_q_a: "În capilare", t3_q_b: "În artere", t3_q_c: "În vene", t3_q_d: "În vasele limfatice",
 
-    r4_title: "Menținerea unei inimi sănătoase",
-    r4_text: "O inimă sănătoasă funcționează eficient și durează o viață cu obiceiuri bune.",
-    r4_fact1: "Exercițiul regulat întărește inima și îmbunătățește circulația",
-    r4_fact2: "Alimentele sănătoase (fructe, legume, cereale integrale) oferă o nutriție bună",
-    r4_fact3: "Fumatul deteriorează vasele de sânge și crește riscul bolii de inimă",
-    r4_fact4: "Rămânerea activ, reducerea stresului și obținerea de somn sunt bune pentru inima ta",
+    t4_title: "Grupe de Sânge și Donare", t4_text: "Pe baza proteinelor din sânge, există 4 grupe principale: A, B, AB și O (zero). O potrivire exactă salvează vieți la transfuzii.",
+    t4_b1: "Dacă cineva primește sânge greșit, acesta se coagulează (se strânge).", t4_b2: "Grupa O este 'donatorul universal' (poate da oricui).", t4_b3: "Grupa AB este 'primitorul universal' (poate primi de la oricine).",
+    t4_inst: "Pune cuvintele în ordine!",
+    t4_w1: "Grupa", t4_w2: "O", t4_w3: "este", t4_w4: "donatorul", t4_w5: "universal", t4_w6: "general.",
+    t4_q: "Care grupă de sânge poate fi donată tuturor celorlalte grupe?", t4_q_a: "Grupa O (Zero)", t4_q_b: "Grupa A", t4_q_c: "Grupa B", t4_q_d: "Grupa AB",
 
-    r5_title: "Recapitulare Circulație",
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre circulația sângelui și vasele de sânge!",
+    t5_b1: "Micul circuit: plămâni (preluare oxigen).", t5_b2: "Marele circuit: corp (predare oxigen).", t5_b3: "Arterele pleacă de la inimă, venele se întorc.",
+    t5_inst: "Prin ce vase părăsește sângele inima?", t5_gap_sentence2: "Sângele este transportat de la inimă prin {gap}.",
+    t5_c51: "artere", t5_c52: "vene", t5_c53: "capilare",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre vene?", t5_q_a: "Transportă sângele din corp înapoi la inimă.", t5_q_b: "Pornesc direct din inimă.", t5_q_c: "Furnizează oxigen celulelor direct.", t5_q_d: "Nu au niciun fel de valve.",
+  }
+};
 
-    q1_q: "Care este scopul circulației pulmonare?",
-    q1_oxygen_pickup: "Pentru a ridica oxigen în plămâni",
-    q1_deliver: "Pentru a livra oxigen corpului",
-    q1_filter: "Pentru a filtra deșeurile din sânge",
-    q1_store: "Pentru a stoca oxigen",
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-    q2_q: "Aorta face parte din care circulație?",
-    q2_pulmonary: "Circulația pulmonară",
-    q2_systemic: "Circulația sistemică",
-    q2_coronary: "Circulația coronariană",
-    q2_both: "Ambele circulații",
-
-    q3_q: "Care este numărul inferior în citirea tensiunii arteriale?",
-    q3_systole: "Sistola",
-    q3_diastole: "Diastola",
-    q3_pulse: "Pulsul",
-    q3_heartbeat: "Bătaia inimii",
-
-    r1_q: "Ce se întâmplă cu sângele în plămâni?",
-    r1_gains_o2: "Ridică oxigen",
-    r1_loses_o2: "Pierde oxigen",
-    r1_gains_co2: "Ridică dioxid de carbon",
-    r1_gains_nutrients: "Ridică nutrienți",
-
-    r2_q: "Care vas de sânge transportă sânge bogat în oxigen departe de inimă?",
-    r2_vena_cava: "Vena cava inferioară",
-    r2_pulmonary_artery: "Artera pulmonară",
-    r2_aorta: "Aorta",
-    r2_pulmonary_vein: "Vena pulmonară",
-
-    r3_q: "Ce reprezintă numărul superior în tensiunea arterială (120)?",
-    r3_diastole: "Diastola (relaxare)",
-    r3_systole: "Sistola (contracție)",
-    r3_pulse: "Rata pulsului",
-    r3_heart_rate: "Frecvența cardiacă",
-
-    r4_q: "Care obicei este cel mai bun pentru sănătatea inimii?",
-    r4_exercise: "Exercițiu regulat",
-    r4_stress: "A fi stresat",
-    r4_smoking: "Fumatul",
-    r4_inactivity: "A sta pe loc",
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <CirculationSvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
   },
-};
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "kis", label: "t2_bucket_kis" },
+        { id: "nag", label: "t2_bucket_nag" },
+      ],
+      items: [
+        { text: "t2_item_k1", bucketId: "kis" },
+        { text: "t2_item_n1", bucketId: "nag" },
+        { text: "t2_item_k2", bucketId: "kis" },
+        { text: "t2_item_n2", bucketId: "nag" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6"], 
+      correctOrder: [0, 1, 2, 3, 4, 5],
+      instruction: "t4_inst",
+      hint1: "t4_b2",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b1",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS — viewBox="0 0 240 160", NO text inside
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
-const R1_PulmonaryCirculation = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Heart simplified */}
-    <circle cx="60" cy="80" r="18" fill="#e74c3c" opacity="0.6" stroke="white" strokeWidth="1" />
-
-    {/* Lungs */}
-    <circle cx="150" cy="60" r="20" fill="#f0ad4e" opacity="0.5" stroke="white" strokeWidth="1" />
-    <circle cx="170" cy="60" r="20" fill="#f0ad4e" opacity="0.5" stroke="white" strokeWidth="1" />
-
-    {/* Pulmonary arteries (dark blue going to lungs) */}
-    <path
-      d="M 75 75 Q 110 60 130 50"
-      stroke="#3b82f6"
-      strokeWidth="3"
-      fill="none"
-      markerEnd="url(#arrowhead1)"
-    />
-    <path
-      d="M 75 85 Q 110 95 170 100"
-      stroke="#3b82f6"
-      strokeWidth="3"
-      fill="none"
-      markerEnd="url(#arrowhead1)"
-    />
-
-    {/* Pulmonary veins (red coming from lungs) */}
-    <path
-      d="M 140 75 Q 100 90 75 100"
-      stroke="#e74c3c"
-      strokeWidth="3"
-      fill="none"
-      markerEnd="url(#arrowhead2)"
-    />
-
-    {/* Arrows */}
-    <defs>
-      <marker id="arrowhead1" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-        <polygon points="0 0, 10 3, 0 6" fill="#3b82f6" />
-      </marker>
-      <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-        <polygon points="0 0, 10 3, 0 6" fill="#e74c3c" />
-      </marker>
-    </defs>
-  </svg>
-);
-
-const R2_SystemicCirculation = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Heart center */}
-    <circle cx="50" cy="80" r="15" fill="#e74c3c" opacity="0.7" stroke="white" strokeWidth="1" />
-
-    {/* Body silhouette (simplified) */}
-    <ellipse cx="160" cy="70" rx="50" ry="60" fill="rgba(100,200,255,0.1)" stroke="white" strokeWidth="1" />
-
-    {/* Brain */}
-    <circle cx="160" cy="35" r="10" fill="rgba(200,200,200,0.3)" />
-
-    {/* Heart organ */}
-    <circle cx="145" cy="75" r="8" fill="rgba(255,100,100,0.3)" />
-
-    {/* Aorta going right (red) */}
-    <path
-      d="M 65 75 Q 100 70 120 60"
-      stroke="#e74c3c"
-      strokeWidth="2.5"
-      fill="none"
-      markerEnd="url(#arrowhead3)"
-    />
-
-    {/* Arteries to organs */}
-    <path d="M 125 60 L 160 35" stroke="#e74c3c" strokeWidth="1.5" fill="none" />
-    <path d="M 120 65 L 145 75" stroke="#e74c3c" strokeWidth="1.5" fill="none" />
-    <path d="M 120 85 L 160 110" stroke="#e74c3c" strokeWidth="1.5" fill="none" />
-
-    {/* Return vein (blue) */}
-    <path
-      d="M 130 110 Q 100 95 65 90"
-      stroke="#3b82f6"
-      strokeWidth="2.5"
-      fill="none"
-      markerEnd="url(#arrowhead4)"
-    />
-
-    {/* Arrows */}
-    <defs>
-      <marker id="arrowhead3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-        <polygon points="0 0, 10 3, 0 6" fill="#e74c3c" />
-      </marker>
-      <marker id="arrowhead4" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-        <polygon points="0 0, 10 3, 0 6" fill="#3b82f6" />
-      </marker>
-    </defs>
-  </svg>
-);
-
-const R3_BloodPressure = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Artery cross-section */}
-    <circle cx="80" cy="80" r="35" fill="none" stroke="white" strokeWidth="1" />
-    <circle cx="80" cy="80" r="28" fill="#e74c3c" opacity="0.5" />
-    <circle cx="80" cy="80" r="20" fill="#dc2626" opacity="0.6" />
-
-    {/* Blood pressure wave visualization */}
-    <text x="80" y="85" fontSize="14" fontWeight="bold" fill="white" textAnchor="middle">
-      120/80
-    </text>
-
-    {/* Pressure wave lines */}
-    <path
-      d="M 140 60 Q 145 50 150 60 T 160 60"
-      stroke="#ffeb3b"
-      strokeWidth="2"
-      fill="none"
-      opacity="0.8"
-    />
-    <path
-      d="M 140 90 Q 145 95 150 90 T 160 90"
-      stroke="#90caf9"
-      strokeWidth="2"
-      fill="none"
-      opacity="0.8"
-    />
-
-    {/* Pulse point (wrist) */}
-    <circle cx="180" cy="120" r="8" fill="white" opacity="0.3" />
-    <circle cx="180" cy="120" r="6" fill="none" stroke="white" strokeWidth="1" />
-    <text x="180" y="140" fontSize="9" fill="white/60" textAnchor="middle">
-      Pulse
-    </text>
-  </svg>
-);
-
-const R4_HeartHealth = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Heart outline */}
-    <path
-      d="M 120 140 C 60 100, 40 75, 40 55 C 40 40, 50 30, 65 30 C 80 30, 95 40, 120 60 C 145 40, 160 30, 175 30 C 190 30, 200 40, 200 55 C 200 75, 180 100, 120 140 Z"
-      fill="#e74c3c"
-      opacity="0.5"
-      stroke="white"
-      strokeWidth="1"
-    />
-
-    {/* Exercise checkmark ✓ */}
-    <circle cx="60" cy="40" r="12" fill="#10b981" opacity="0.6" />
-    <polyline points="55,42 58,45 65,38" stroke="white" strokeWidth="2" fill="none" />
-
-    {/* Healthy food checkmark ✓ */}
-    <circle cx="180" cy="40" r="12" fill="#10b981" opacity="0.6" />
-    <polyline points="175,42 178,45 185,38" stroke="white" strokeWidth="2" fill="none" />
-
-    {/* Smoking X mark */}
-    <circle cx="60" cy="130" r="12" fill="#ef4444" opacity="0.6" />
-    <line x1="54" y1="124" x2="66" y2="136" stroke="white" strokeWidth="2" />
-    <line x1="66" y1="124" x2="54" y2="136" stroke="white" strokeWidth="2" />
-
-    {/* Sleep checkmark ✓ */}
-    <circle cx="180" cy="130" r="12" fill="#10b981" opacity="0.6" />
-    <polyline points="175,132 178,135 185,128" stroke="white" strokeWidth="2" fill="none" />
-  </svg>
-);
-
-const R5_ReviewIcon = () => (
-  <svg viewBox="0 0 240 160" className="w-full h-auto">
-    {/* Circular flow diagram */}
-    <circle cx="120" cy="80" r="50" fill="none" stroke="#3b82f6" strokeWidth="2" strokeDasharray="5,5" />
-
-    {/* Heart */}
-    <circle cx="120" cy="30" r="10" fill="#e74c3c" opacity="0.7" />
-
-    {/* Lungs */}
-    <circle cx="170" cy="80" r="10" fill="#f0ad4e" opacity="0.6" />
-
-    {/* Body */}
-    <circle cx="70" cy="80" r="10" fill="#8b5cf6" opacity="0.6" />
-
-    {/* Arrows showing circular flow */}
-    <path
-      d="M 130 35 Q 160 50 165 75"
-      stroke="white"
-      strokeWidth="1.5"
-      fill="none"
-      markerEnd="url(#arrowhead5)"
-    />
-    <path
-      d="M 160 85 Q 120 120 75 100"
-      stroke="white"
-      strokeWidth="1.5"
-      fill="none"
-      markerEnd="url(#arrowhead5)"
-    />
-    <path
-      d="M 75 70 Q 100 40 110 35"
-      stroke="white"
-      strokeWidth="1.5"
-      fill="none"
-      markerEnd="url(#arrowhead5)"
-    />
-
-    {/* Arrows */}
-    <defs>
-      <marker id="arrowhead5" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-        <polygon points="0 0, 10 3, 0 6" fill="white" />
-      </marker>
-    </defs>
-  </svg>
-);
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
-
-const CIRCULATION_EXPLORER_DEF: ExplorerDef = {
+const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "info",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => <R1_PulmonaryCirculation />,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-    },
-    {
-      type: "info",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => <R2_SystemicCirculation />,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => <R3_BloodPressure />,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3", "r3_fact4"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_diastole", "r3_systole", "r3_pulse", "r3_heart_rate"],
-          answer: "r3_systole",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => <R4_HeartHealth />,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_exercise", "r4_stress", "r4_smoking", "r4_inactivity"],
-          answer: "r4_exercise",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: () => <R5_ReviewIcon />,
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_oxygen_pickup", "q1_deliver", "q1_filter", "q1_store"],
-          answer: "q1_oxygen_pickup",
-        },
-        {
-          question: "q2_q",
-          choices: ["q2_pulmonary", "q2_systemic", "q2_coronary", "q2_both"],
-          answer: "q2_systemic",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_systole", "q3_diastole", "q3_pulse", "q3_heartbeat"],
-          answer: "q3_diastole",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🩸",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const CirculationExplorer = memo(function CirculationExplorer({
+  color = "#BE123C", // Erős kárminpiros (Rose-700) az artériás vérre utalva
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="bio_k6_circulation" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function CirculationExplorer({ color = "#3b82f6", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={CIRCULATION_EXPLORER_DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default CirculationExplorer;
