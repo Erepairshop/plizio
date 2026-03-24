@@ -1,1119 +1,365 @@
 "use client";
-// PlantExplorer — Island i4: Plant Organs (Pflanzenorgane) Grade 5
-// Teaching-first pattern: R1-R4 info rounds, R5 quiz
-// Topic: Plant parts, photosynthesis, water transport, leaf function
+// PlantExplorer.tsx — Bio Island i4: Növényi szervek (K5)
+// Topics: 1) Gyökér 2) Szár 3) Levél 4) Fotoszintézis 5) Review
 
-import React from "react";
-import ExplorerEngine from "./ExplorerEngine";
-import type { ExplorerDef } from "./ExplorerEngine";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { PlantAnatomySvg, PhotosynthesisSvg } from "@/app/astro-biologie/svg";
 
-function SVG_SUN() {
+// ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
+
+const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <svg viewBox="0 0 120 120" className="w-10 h-10">
-      <defs>
-        <radialGradient id="sunCore">
-          <stop offset="0%" stopColor="#fff7cc" />
-          <stop offset="50%" stopColor="#fde047" />
-          <stop offset="100%" stopColor="#f59e0b" />
-        </radialGradient>
-
-        <radialGradient id="sunGlow">
-          <stop offset="0%" stopColor="rgba(253,224,71,0.6)" />
-          <stop offset="100%" stopColor="rgba(253,224,71,0)" />
-        </radialGradient>
-      </defs>
-
-      {/* Glow */}
-      <circle cx="60" cy="60" r="50" fill="url(#sunGlow)" />
-
-      {/* Core */}
-      <circle cx="60" cy="60" r="20" fill="url(#sunCore)" />
-
-      {/* Rays */}
-      <g stroke="#fde047" strokeWidth="3" strokeLinecap="round">
-        <line x1="60" y1="10" x2="60" y2="0" />
-        <line x1="60" y1="120" x2="60" y2="110" />
-        <line x1="10" y1="60" x2="0" y2="60" />
-        <line x1="120" y1="60" x2="110" y2="60" />
-
-        <line x1="20" y1="20" x2="10" y2="10" />
-        <line x1="100" y1="20" x2="110" y2="10" />
-        <line x1="20" y1="100" x2="10" y2="110" />
-        <line x1="100" y1="100" x2="110" y2="110" />
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#ECFCCB" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-10" y="-40" width="20" height="80" fill="#65A30D" rx="4" />
+        <path d="M -20,10 L -20,-20 L -25,-15 M -20,-20 L -15,-15" fill="none" stroke="#3F6212" strokeWidth="3" />
+        <path d="M 20,-10 L 20,20 L 15,15 M 20,20 L 25,15" fill="none" stroke="#3F6212" strokeWidth="3" />
       </g>
     </svg>
   );
-}
-function SVG_WATER() {
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
   return (
-    <svg viewBox="0 0 120 120" className="w-10 h-10">
-      <defs>
-        <linearGradient id="waterDrop" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#7dd3fc" />
-          <stop offset="50%" stopColor="#38bdf8" />
-          <stop offset="100%" stopColor="#0284c7" />
-        </linearGradient>
-
-        <radialGradient id="waterGlow">
-          <stop offset="0%" stopColor="rgba(56,189,248,0.4)" />
-          <stop offset="100%" stopColor="rgba(56,189,248,0)" />
-        </radialGradient>
-      </defs>
-
-      {/* Glow */}
-      <circle cx="60" cy="70" r="40" fill="url(#waterGlow)" />
-
-      {/* Drop */}
-      <path
-        d="M60 10 C60 10, 25 55, 25 75 A35 35 0 0 0 95 75 C95 55, 60 10, 60 10 Z"
-        fill="url(#waterDrop)"
-      />
-
-      {/* Highlight */}
-      <ellipse cx="50" cy="65" rx="6" ry="12" fill="rgba(255,255,255,0.25)" />
-    </svg>
-  );
-}
-function SVG_GLUCOSE() {
-  return (
-    <svg viewBox="0 0 120 120" className="w-10 h-10">
-      <defs>
-        <linearGradient id="sugarCube" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#fde68a" />
-          <stop offset="50%" stopColor="#fbbf24" />
-          <stop offset="100%" stopColor="#f59e0b" />
-        </linearGradient>
-
-        <radialGradient id="sugarGlow">
-          <stop offset="0%" stopColor="rgba(251,191,36,0.5)" />
-          <stop offset="100%" stopColor="rgba(251,191,36,0)" />
-        </radialGradient>
-      </defs>
-
-      {/* Glow */}
-      <circle cx="60" cy="60" r="45" fill="url(#sugarGlow)" />
-
-      {/* Cube */}
-      <g transform="translate(60,60)">
-        <polygon points="-20,-10 0,-25 20,-10 0,5" fill="url(#sugarCube)" />
-        <polygon points="-20,-10 -20,15 0,30 0,5" fill="#f59e0b" opacity="0.8" />
-        <polygon points="20,-10 20,15 0,30 0,5" fill="#d97706" opacity="0.8" />
-      </g>
-
-      {/* Sparkles */}
-      <g fill="#fff" opacity="0.7">
-        <circle cx="30" cy="40" r="2" />
-        <circle cx="85" cy="35" r="1.5" />
-        <circle cx="70" cy="90" r="2" />
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#DCFCE7" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="0" y="15" fontSize="50" textAnchor="middle">🍃</text>
+        <text x="-40" y="-15" fontSize="25" textAnchor="middle">☀️</text>
+        <text x="40" y="25" fontSize="20" textAnchor="middle">💧</text>
       </g>
     </svg>
   );
-}
+});
 
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF08A" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
+        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌱</text>
+        <text x="20" y="5" fontSize="25" textAnchor="middle">❓</text>
+      </g>
+    </svg>
+  );
+});
 
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS — all content in 4 languages
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── LABELS ─────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Növényi Szervek",
+    // T1: Gyökér
+    t1_title: "A gyökér szerepe",
+    t1_text: "A gyökér a növény föld alatti része. Rögzíti a növényt a talajban, és felszívja a vizet, valamint az abban oldott ásványi anyagokat.",
+    t1_b1: "Rögzítés: tartja a növényt a széllel szemben.",
+    t1_b2: "Felszívás: a gyökérszőrök veszik fel a vizet.",
+    t1_b3: "Raktározás: egyes növények (pl. répa) itt tárolják a tápanyagot.",
+    t1_inst: "Mit szív fel a gyökér a talajból?",
+    t1_gap_sentence: "A gyökér felszívja a {gap} és az ásványi anyagokat.",
+    t1_c1: "vizet", t1_c2: "fényt", t1_c3: "levegőt",
+    t1_q: "Melyik NEM a gyökér feladata?",
+    t1_q_a: "Fotoszintézis", t1_q_b: "Víz felszívása", t1_q_c: "Rögzítés a talajban", t1_q_d: "Tápanyag raktározása",
+
+    // T2: Szár
+    t2_title: "A szár feladata",
+    t2_text: "A szár köti össze a gyökeret a levelekkel. Szállítócsöveiben áramlik a víz felfelé, és az elkészült tápanyag lefelé.",
+    t2_b1: "Tartás: a leveleket a fény felé emeli.",
+    t2_b2: "Vízszállítás: a gyökértől a levelekig.",
+    t2_b3: "Tápanyagszállítás: a levelektől a többi szervhez.",
+    t2_inst: "Tedd sorba a mondat szavait!",
+    t2_w1: "A", t2_w2: "szár", t2_w3: "szállítja", t2_w4: "a", t2_w5: "vizet.",
+    t2_q: "Mi áramlik a szárban lévő csövekben?",
+    t2_q_a: "Víz és tápanyagok", t2_q_b: "Csak levegő", t2_q_c: "Vér", t2_q_d: "Föld",
+
+    // T3: Levél
+    t3_title: "A levél, a növény 'konyhája'",
+    t3_text: "A levelek laposak és zöldek, hogy minél több napfényt fogjanak fel. Itt készül a növény tápláléka, és itt lélegzik a gázcserenyílásokon át.",
+    t3_b1: "Zöld szín: a klorofill (zöld színtest) okozza.",
+    t3_b2: "Táplálékkészítés: itt zajlik a fotoszintézis.",
+    t3_b3: "Gázcsere: szén-dioxidot vesz fel, oxigént ad le.",
+    t3_inst: "Párosítsd a szervet a fő feladatával!",
+    t3_l1: "Gyökér", t3_r1: "Víz felszívása",
+    t3_l2: "Szár", t3_r2: "Anyagok szállítása",
+    t3_l3: "Levél", t3_r3: "Táplálék készítése",
+    t3_q: "Milyen anyag adja a levelek zöld színét?",
+    t3_q_a: "Klorofill", t3_q_b: "Víz", t3_q_c: "Nektár", t3_q_d: "Cukor",
+
+    // T4: Fotoszintézis
+    t4_title: "A csodálatos fotoszintézis",
+    t4_text: "A fotoszintézis során a növény napfény, víz és szén-dioxid segítségével cukrot (táplálékot) és oxigént állít elő.",
+    t4_b1: "Szükséges: Napfény, víz (H2O), szén-dioxid (CO2).",
+    t4_b2: "Eredmény: Szőlőcukor (táplálék) és Oxigén (O2).",
+    t4_b3: "E nélkül nem lenne élet a Földön!",
+    t4_inst: "Mire van szüksége a növénynek, és mi keletkezik? Válogasd szét!",
+    t4_bucket_kell: "Szükséges (bemenet)",
+    t4_bucket_lesz: "Keletkezik (kimenet)",
+    t4_item_k1: "Napfény", t4_item_k2: "Szén-dioxid",
+    t4_item_l1: "Oxigén", t4_item_l2: "Cukor",
+    t4_q: "Milyen gázt bocsátanak ki a növények a fotoszintézis során?",
+    t4_q_a: "Oxigént", t4_q_b: "Szén-dioxidot", t4_q_c: "Nitrogént", t4_q_d: "Héliumot",
+
+    // T5: Review
+    t5_title: "Összefoglaló Kvíz",
+    t5_text: "Teszteld a tudásod a növények szerveiről és a fotoszintézisről!",
+    t5_b1: "Gyökér szív, szár szállít, levél termel.",
+    t5_b2: "A fotoszintézishez fény, víz és CO2 kell.",
+    t5_b3: "Eredménye: oxigén és cukor.",
+    t5_inst: "Milyen gázt termelnek a növények?",
+    t5_gap_sentence2: "A növények a fotoszintézis során {gap} termelnek.",
+    t5_c51: "oxigént", t5_c52: "szén-dioxidot", t5_c53: "vizet",
+    t5_q: "Melyik állítás IGAZ a szárra?",
+    t5_q_a: "Összeköti a gyökeret a levelekkel.", t5_q_b: "Itt szívódik fel a víz a talajból.", t5_q_c: "Itt történik a megporzás.", t5_q_d: "Rögzíti a növényt a földben.",
+  },
   en: {
-    // Round 1: Plant Parts
-    r1_title: "Plant Parts & Functions",
-    r1_text: "Plants have four main organs that work together. Each part has a special job.",
-    r1_fact1: "Roots absorb water and minerals from the soil",
-    r1_fact2: "Stems support the plant and transport water upward",
-    r1_fact3: "Leaves capture sunlight to make food (photosynthesis)",
-    r1_fact4: "Flowers are for reproduction (making seeds)",
+    explorer_title: "Plant Organs",
+    t1_title: "Role of the Root", t1_text: "The root is the underground part of the plant. It anchors the plant and absorbs water and minerals.",
+    t1_b1: "Anchorage: holds the plant against the wind.", t1_b2: "Absorption: root hairs take up water.", t1_b3: "Storage: some plants store food here (e.g., carrots).",
+    t1_inst: "What does the root absorb from the soil?", t1_gap_sentence: "The root absorbs {gap} and minerals.",
+    t1_c1: "water", t1_c2: "light", t1_c3: "air",
+    t1_q: "Which of these is NOT a function of the root?", t1_q_a: "Photosynthesis", t1_q_b: "Absorbing water", t1_q_c: "Anchoring in the soil", t1_q_d: "Storing nutrients",
 
-    // Round 2: Photosynthesis
-    r2_title: "Photosynthesis: How Plants Make Food",
-    r2_text: "Plants use sunlight, water, and carbon dioxide to make their own food (glucose) and release oxygen.",
-    r2_fact1: "Photosynthesis happens mainly in the leaves",
-    r2_fact2: "Three things needed: sunlight, water, carbon dioxide CO₂",
-    r2_fact3: "Two things produced: glucose (sugar), oxygen O₂",
-    r2_fact4: "This oxygen is what we breathe — plants give us fresh air!",
+    t2_title: "Function of the Stem", t2_text: "The stem connects the roots to the leaves. Its tubes transport water upwards and food downwards.",
+    t2_b1: "Support: lifts leaves toward the light.", t2_b2: "Water transport: from roots to leaves.", t2_b3: "Nutrient transport: from leaves to the rest of the plant.",
+    t2_inst: "Put the words in order!",
+    t2_w1: "The", t2_w2: "stem", t2_w3: "transports", t2_w4: "the", t2_w5: "water.",
+    t2_q: "What flows inside the tubes of the stem?", t2_q_a: "Water and nutrients", t2_q_b: "Only air", t2_q_c: "Blood", t2_q_d: "Soil",
 
-    // Round 3: Water Transport
-    r3_title: "Water Transport: The Journey",
-    r3_text: "Water travels through a plant from root to leaf in a process called transpiration.",
-    r3_fact1: "Water enters through root hairs in the soil",
-    r3_fact2: "The stem acts like a highway, moving water upward",
-    r3_fact3: "Leaves use water for photosynthesis and release extra water vapor",
-    r3_root: "Root absorbs water",
-    r3_stem: "Stem transports water",
-    r3_leaf: "Leaf uses & transpires",
+    t3_title: "The Leaf: The Plant's Kitchen", t3_text: "Leaves are flat and green to catch sunlight. They make the plant's food and breathe through tiny pores.",
+    t3_b1: "Green color: caused by chlorophyll.", t3_b2: "Food production: photosynthesis happens here.", t3_b3: "Gas exchange: takes in CO2, releases O2.",
+    t3_inst: "Match the organ with its main function!",
+    t3_l1: "Root", t3_r1: "Absorbing water", t3_l2: "Stem", t3_r2: "Transporting materials", t3_l3: "Leaf", t3_r3: "Making food",
+    t3_q: "What substance gives leaves their green color?", t3_q_a: "Chlorophyll", t3_q_b: "Water", t3_q_c: "Nectar", t3_q_d: "Sugar",
 
-    // Round 4: Leaf Structure
-    r4_title: "Inside a Leaf",
-    r4_text: "Leaves have a special structure for photosynthesis. Stomata are tiny pores that control gas exchange.",
-    r4_fact1: "Stomata are pores on the leaf's underside for gas exchange",
-    r4_fact2: "Chloroplasts inside leaf cells contain chlorophyll (green pigment)",
-    r4_fact3: "CO₂ enters through stomata; O₂ exits through stomata",
-    r4_fact4: "Guard cells open and close stomata to conserve water",
+    t4_title: "Amazing Photosynthesis", t4_text: "Through photosynthesis, a plant uses sunlight, water, and carbon dioxide to create sugar (food) and oxygen.",
+    t4_b1: "Needs: Sunlight, water (H2O), carbon dioxide (CO2).", t4_b2: "Result: Glucose (sugar) and Oxygen (O2).", t4_b3: "Life on Earth depends on this process!",
+    t4_inst: "What does the plant need, and what does it produce? Sort them!",
+    t4_bucket_kell: "Needed (Input)", t4_bucket_lesz: "Produced (Output)",
+    t4_item_k1: "Sunlight", t4_item_k2: "Carbon dioxide", t4_item_l1: "Oxygen", t4_item_l2: "Sugar",
+    t4_q: "What gas do plants release during photosynthesis?", t4_q_a: "Oxygen", t4_q_b: "Carbon dioxide", t4_q_c: "Nitrogen", t4_q_d: "Helium",
 
-    // Round 5: Quiz
-    r5_title: "Quick Review",
-
-    // Quiz Questions (3 questions)
-    q1_q: "Which plant part absorbs water and minerals from soil?",
-    q1_root: "Root",
-    q1_stem: "Stem",
-    q1_leaf: "Leaf",
-    q1_flower: "Flower",
-
-    q2_q: "What three things does a plant need for photosynthesis?",
-    q2_a: "Sunlight, water, CO₂",
-    q2_b: "Sunlight, oxygen, nitrogen",
-    q2_c: "Water, glucose, oxygen",
-    q2_d: "Soil, air, sunlight",
-
-    q3_q: "Which gas do plants release during photosynthesis?",
-    q3_oxygen: "Oxygen",
-    q3_co2: "Carbon dioxide",
-    q3_nitrogen: "Nitrogen",
-    q3_hydrogen: "Hydrogen",
-
-    // Round 3 MCQ (Water Transport)
-    r3_q: "What do stomata do on leaves?",
-    r3_q_photosynthesis: "Control gas exchange (CO₂ in, O₂ out)",
-    r3_q_transport: "Transport water upward",
-    r3_q_stomata: "Protect the leaf surface",
-    r3_q_root: "Absorb water from soil",
-
-    // Round 4 MCQ (Leaf Structure)
-    r4_q: "Which organelles in leaf cells contain chlorophyll?",
-    r4_chloroplasts: "Chloroplasts",
-    r4_mitochondria: "Mitochondria",
-    r4_vacuoles: "Vacuoles",
-    r4_membranes: "Cell membranes",
+    t5_title: "Summary Quiz", t5_text: "Test your knowledge about plant organs and photosynthesis!",
+    t5_b1: "Root absorbs, stem transports, leaf produces.", t5_b2: "Photosynthesis needs light, water, CO2.", t5_b3: "Result: oxygen and sugar.",
+    t5_inst: "What gas do plants produce?", t5_gap_sentence2: "During photosynthesis, plants produce {gap}.",
+    t5_c51: "oxygen", t5_c52: "carbon dioxide", t5_c53: "water",
+    t5_q: "Which statement is TRUE about the stem?", t5_q_a: "It connects the roots to the leaves.", t5_q_b: "It absorbs water from the soil.", t5_q_c: "Pollination happens here.", t5_q_d: "It anchors the plant in the ground.",
   },
   de: {
-    r1_title: "Pflanzenteile & Funktionen",
-    r1_text: "Pflanzen haben vier Hauptorgane, die zusammenarbeiten. Jeder Teil hat eine spezielle Aufgabe.",
-    r1_fact1: "Wurzeln nehmen Wasser und Mineralstoffe aus dem Boden auf",
-    r1_fact2: "Stängel stützen die Pflanze und transportieren Wasser nach oben",
-    r1_fact3: "Blätter fangen Sonnenlicht ein, um Nahrung herzustellen (Fotosynthese)",
-    r1_fact4: "Blüten dienen der Fortpflanzung (Samenbildung)",
+    explorer_title: "Pflanzenorgane",
+    t1_title: "Rolle der Wurzel", t1_text: "Die Wurzel ist der unterirdische Teil der Pflanze. Sie verankert die Pflanze und nimmt Wasser und Mineralien auf.",
+    t1_b1: "Verankerung: hält die Pflanze im Boden.", t1_b2: "Aufnahme: Wurzelhaare saugen Wasser auf.", t1_b3: "Speicher: manche Pflanzen speichern hier Nahrung (z.B. Karotte).",
+    t1_inst: "Was nimmt die Wurzel aus dem Boden auf?", t1_gap_sentence: "Die Wurzel nimmt {gap} und Mineralien auf.",
+    t1_c1: "Wasser", t1_c2: "Licht", t1_c3: "Luft",
+    t1_q: "Was ist KEINE Aufgabe der Wurzel?", t1_q_a: "Fotosynthese", t1_q_b: "Wasseraufnahme", t1_q_c: "Verankerung im Boden", t1_q_d: "Nährstoffspeicherung",
 
-    r2_title: "Fotosynthese: Wie Pflanzen Nahrung machen",
-    r2_text: "Pflanzen nutzen Sonnenlicht, Wasser und Kohlendioxid, um ihre eigene Nahrung (Glukose) herzustellen und Sauerstoff freizusetzen.",
-    r2_fact1: "Fotosynthese findet hauptsächlich in den Blättern statt",
-    r2_fact2: "Drei Dinge nötig: Sonnenlicht , Wasser , Kohlendioxid CO₂",
-    r2_fact3: "Zwei Dinge entstehen: Glukose (Zucker) , Sauerstoff O₂",
-    r2_fact4: "Dieser Sauerstoff ist, was wir atmen — Pflanzen geben uns frische Luft!",
+    t2_title: "Aufgabe der Sprossachse", t2_text: "Die Sprossachse (Stängel) verbindet Wurzeln und Blätter. In ihren Leitbündeln fließt Wasser nach oben und Nahrung nach unten.",
+    t2_b1: "Stütze: hebt die Blätter zum Licht.", t2_b2: "Wassertransport: von der Wurzel zu den Blättern.", t2_b3: "Nährstofftransport: von den Blättern zum Rest der Pflanze.",
+    t2_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t2_w1: "Der", t2_w2: "Stängel", t2_w3: "transportiert", t2_w4: "das", t2_w5: "Wasser.",
+    t2_q: "Was fließt in den Röhren der Sprossachse?", t2_q_a: "Wasser und Nährstoffe", t2_q_b: "Nur Luft", t2_q_c: "Blut", t2_q_d: "Erde",
 
-    r3_title: "Wassertransport: Die Reise",
-    r3_text: "Wasser wandert durch eine Pflanze von der Wurzel zum Blatt in einem Prozess namens Transpiration.",
-    r3_fact1: "Wasser dringt durch Wurzelhaar in den Boden ein",
-    r3_fact2: "Der Stängel fungiert wie eine Autobahn und transportiert Wasser nach oben",
-    r3_fact3: "Blätter nutzen Wasser für die Fotosynthese und geben überschüssigen Wasserdampf ab",
-    r3_root: "Wurzel nimmt Wasser auf",
-    r3_stem: "Stängel transportiert Wasser",
-    r3_leaf: "Blatt nutzt & verdunstet",
+    t3_title: "Das Blatt: Die Küche der Pflanze", t3_text: "Blätter sind flach und grün, um Sonnenlicht einzufangen. Hier entsteht die Nahrung, und hier atmet die Pflanze durch Spaltöffnungen.",
+    t3_b1: "Grüne Farbe: durch Chlorophyll (Blattgrün).", t3_b2: "Nahrungsproduktion: hier findet die Fotosynthese statt.", t3_b3: "Gasaustausch: nimmt CO2 auf, gibt O2 ab.",
+    t3_inst: "Verbinde das Organ mit seiner Hauptaufgabe!",
+    t3_l1: "Wurzel", t3_r1: "Wasser aufnehmen", t3_l2: "Sprossachse", t3_r2: "Stoffe transportieren", t3_l3: "Blatt", t3_r3: "Nahrung herstellen",
+    t3_q: "Welcher Stoff verleiht den Blättern ihre grüne Farbe?", t3_q_a: "Chlorophyll", t3_q_b: "Wasser", t3_q_c: "Nektar", t3_q_d: "Zucker",
 
-    r4_title: "Im Inneren eines Blattes",
-    r4_text: "Blätter haben eine spezielle Struktur für die Fotosynthese. Stomata sind winzige Poren, die den Gasaustausch kontrollieren.",
-    r4_fact1: "Stomata sind Poren auf der Blattunterseite für den Gasaustausch",
-    r4_fact2: "Chloroplasten in Blattzellen enthalten Chlorophyll (grüner Farbstoff)",
-    r4_fact3: "CO₂ tritt durch Stomata ein; O₂ tritt durch Stomata aus",
-    r4_fact4: "Schließzellen öffnen und schließen Stomata, um Wasser zu sparen",
+    t4_title: "Die Fotosynthese", t4_text: "Bei der Fotosynthese erzeugt die Pflanze mit Hilfe von Sonnenlicht, Wasser und Kohlendioxid Zucker (Nahrung) und Sauerstoff.",
+    t4_b1: "Benötigt: Sonnenlicht, Wasser (H2O), Kohlendioxid (CO2).", t4_b2: "Ergebnis: Traubenzucker und Sauerstoff (O2).", t4_b3: "Ohne diesen Prozess gäbe es kein Leben auf der Erde!",
+    t4_inst: "Was braucht die Pflanze, und was entsteht? Sortiere!",
+    t4_bucket_kell: "Wird benötigt", t4_bucket_lesz: "Entsteht",
+    t4_item_k1: "Sonnenlicht", t4_item_k2: "Kohlendioxid", t4_item_l1: "Sauerstoff", t4_item_l2: "Zucker",
+    t4_q: "Welches Gas geben Pflanzen bei der Fotosynthese ab?", t4_q_a: "Sauerstoff", t4_q_b: "Kohlendioxid", t4_q_c: "Stickstoff", t4_q_d: "Helium",
 
-    r5_title: "Schnelle Wiederholung",
-
-    q1_q: "Welcher Pflanzenteil nimmt Wasser und Mineralstoffe aus dem Boden auf?",
-    q1_root: "Wurzel",
-    q1_stem: "Stängel",
-    q1_leaf: "Blatt",
-    q1_flower: "Blüte",
-
-    q2_q: "Welche drei Dinge braucht eine Pflanze für die Fotosynthese?",
-    q2_a: "Sonnenlicht, Wasser, CO₂",
-    q2_b: "Sonnenlicht, Sauerstoff, Stickstoff",
-    q2_c: "Wasser, Glukose, Sauerstoff",
-    q2_d: "Boden, Luft, Sonnenlicht",
-
-    q3_q: "Welches Gas geben Pflanzen während der Fotosynthese ab?",
-    q3_oxygen: "Sauerstoff",
-    q3_co2: "Kohlendioxid",
-    q3_nitrogen: "Stickstoff",
-    q3_hydrogen: "Wasserstoff",
-
-    // Round 3 MCQ (Wassertransport)
-    r3_q: "Was machen Stomata auf Blättern?",
-    r3_q_photosynthesis: "Kontrollieren Gasaustausch (CO₂ rein, O₂ raus)",
-    r3_q_transport: "Transportieren Wasser nach oben",
-    r3_q_stomata: "Schützen die Blattoberfläche",
-    r3_q_root: "Nehmen Wasser aus dem Boden auf",
-
-    // Round 4 MCQ (Blattstruktur)
-    r4_q: "Welche Organellen in Blattzellen enthalten Chlorophyll?",
-    r4_chloroplasts: "Chloroplasten",
-    r4_mitochondria: "Mitochondrien",
-    r4_vacuoles: "Vakuolen",
-    r4_membranes: "Zellmembranen",
-  },
-  hu: {
-    r1_title: "Növényrészek és funkcióik",
-    r1_text: "A növényeknek négy fő szerve van, amelyek együttműködnek. Mindegyik résznek speciális feladata van.",
-    r1_fact1: "A gyökerek felszívják a vizet és ásványi anyagokat a talajból",
-    r1_fact2: "A szár támogatja a növényt és felfelé szállítja a vizet",
-    r1_fact3: "A levelek megkötik a napfényt az élelmiszer-készítéshez (fotoszintézis)",
-    r1_fact4: "A virágok a szaporodásra szolgálnak (magképzés)",
-
-    r2_title: "Fotoszintézis: Hogyan készítik a növények az ételt",
-    r2_text: "A növények napfényt, vizet és szén-dioxidot használnak a saját tápanyag (glükóz) előállításához és oxigén felszabadításához.",
-    r2_fact1: "A fotoszintézis főleg a levelekben történik",
-    r2_fact2: "Három dolog szükséges: napfény , víz , szén-dioxid CO₂",
-    r2_fact3: "Két dolog keletkezik: glükóz (cukor) , oxigén O₂",
-    r2_fact4: "Ez az oxigén az, amit mi lélegzünk — a növények friss levegőt adnak nekünk!",
-
-    r3_title: "Vízszállítás: Az utazás",
-    r3_text: "A víz a növényen keresztül a gyökérzettől a levélig utazik egy transzpirációnak nevezett folyamatban.",
-    r3_fact1: "A víz a talajban lévő gyökérszőrön keresztül lép be",
-    r3_fact2: "A szár olyan, mint egy autópálya, felfelé szállítja a vizet",
-    r3_fact3: "A levelek vizet használnak a fotoszintézishez és felszabadítanak felesleges vízgőzt",
-    r3_root: "Gyökér felszívja a vizet",
-    r3_stem: "Szár szállítja a vizet",
-    r3_leaf: "Levél használja és elpárolog",
-
-    r4_title: "Egy levél belseje",
-    r4_text: "A leveleknek speciális szerkezete van a fotoszintézishez. A stómák apró pórusok, amelyek szabályozzák a gázcsere.",
-    r4_fact1: "A stómák a levél alsó felén található pórusok a gázcseréhez",
-    r4_fact2: "A levelekben lévő kloroplasztok klorofill (zöld pigment) tartalmaz",
-    r4_fact3: "CO₂ a stómákon keresztül jut be; O₂ a stómákon keresztül jut ki",
-    r4_fact4: "Őrzőcellák nyitják és zárják a stómákat a víz megtakarítása érdekében",
-
-    r5_title: "Gyors felülvizsgálat",
-
-    q1_q: "Mely növényrész szívja fel a vizet és ásványi anyagokat a talajból?",
-    q1_root: "Gyökér",
-    q1_stem: "Szár",
-    q1_leaf: "Levél",
-    q1_flower: "Virág",
-
-    q2_q: "Mely három dolog szükséges egy növénynek a fotoszintézishez?",
-    q2_a: "Napfény, víz, CO₂",
-    q2_b: "Napfény, oxigén, nitrogén",
-    q2_c: "Víz, glükóz, oxigén",
-    q2_d: "Talaj, levegő, napfény",
-
-    q3_q: "Mely gázt bocsátanak ki a növények a fotoszintézis során?",
-    q3_oxygen: "Oxigén",
-    q3_co2: "Szén-dioxid",
-    q3_nitrogen: "Nitrogén",
-    q3_hydrogen: "Hidrogén",
-
-    // Round 3 MCQ (Vízszállítás)
-    r3_q: "Mit csinálnak a stómák a leveleken?",
-    r3_q_photosynthesis: "Szabályozzák a gázcserét (CO₂ be, O₂ ki)",
-    r3_q_transport: "Felfelé szállítanak vizet",
-    r3_q_stomata: "Védelemben a lev felszínét",
-    r3_q_root: "Felszívnak vizet a talajból",
-
-    // Round 4 MCQ (Lev szerkezete)
-    r4_q: "Mely organellumok a levelek sejtjeiben tartalmaznak klorofilt?",
-    r4_chloroplasts: "Kloroplasztok",
-    r4_mitochondria: "Mitokondriók",
-    r4_vacuoles: "Vakuólumok",
-    r4_membranes: "Sejtmembranak",
+    t5_title: "Abschluss-Quiz", t5_text: "Teste dein Wissen über Pflanzenorgane und Fotosynthese!",
+    t5_b1: "Wurzel saugt, Stängel transportiert, Blatt produziert.", t5_b2: "Fotosynthese braucht Licht, Wasser, CO2.", t5_b3: "Ergebnis: Sauerstoff und Zucker.",
+    t5_inst: "Welches Gas produzieren Pflanzen?", t5_gap_sentence2: "Pflanzen produzieren bei der Fotosynthese {gap}.",
+    t5_c51: "Sauerstoff", t5_c52: "Kohlendioxid", t5_c53: "Wasser",
+    t5_q: "Welche Aussage über die Sprossachse ist WAHR?", t5_q_a: "Sie verbindet die Wurzel mit den Blättern.", t5_q_b: "Sie nimmt Wasser aus dem Boden auf.", t5_q_c: "Hier findet die Bestäubung statt.", t5_q_d: "Sie verankert die Pflanze im Boden.",
   },
   ro: {
-    r1_title: "Părți ale plantei și funcții",
-    r1_text: "Plantele au patru organe principale care funcționează împreună. Fiecare parte are o sarcină specială.",
-    r1_fact1: "Rădăcinile absorb apă și minerale din sol",
-    r1_fact2: "Tulpina susține planta și transportă apa în sus",
-    r1_fact3: "Frunzele captează lumina soarelui pentru a face hrana (fotosinteza)",
-    r1_fact4: "Florile sunt pentru reproducție (producerea semințelor)",
+    explorer_title: "Organele Plantelor",
+    t1_title: "Rolul Rădăcinii", t1_text: "Rădăcina este partea subterană a plantei. Fixează planta și absoarbe apa și mineralele.",
+    t1_b1: "Fixare: susține planta împotriva vântului.", t1_b2: "Absorbție: perii radiculari preiau apa.", t1_b3: "Depozitare: unele plante stochează hrana aici (ex. morcovul).",
+    t1_inst: "Ce absoarbe rădăcina din sol?", t1_gap_sentence: "Rădăcina absoarbe {gap} și minerale.",
+    t1_c1: "apă", t1_c2: "lumină", t1_c3: "aer",
+    t1_q: "Care dintre acestea NU este o funcție a rădăcinii?", t1_q_a: "Fotosinteza", t1_q_b: "Absorbția apei", t1_q_c: "Fixarea în sol", t1_q_d: "Depozitarea nutrienților",
 
-    r2_title: "Fotosinteza: Cum fac plantele hrana",
-    r2_text: "Plantele folosesc lumina soarelui, apa și dioxid de carbon pentru a-și face propria hrană (glucoză) și a elibera oxigen.",
-    r2_fact1: "Fotosinteza se întâmplă mai ales în frunze",
-    r2_fact2: "Trei lucruri necesare: lumina soarelui , apă , dioxid de carbon CO₂",
-    r2_fact3: "Două lucruri produse: glucoză (zahăr) , oxigen O₂",
-    r2_fact4: "Acest oxigen este ceea ce respirăm — plantele ne dau aer proaspăt!",
+    t2_title: "Funcția Tulpinii", t2_text: "Tulpina conectează rădăcina cu frunzele. Vasele ei transportă apa în sus și hrana în jos.",
+    t2_b1: "Susținere: ridică frunzele spre lumină.", t2_b2: "Transportul apei: de la rădăcini la frunze.", t2_b3: "Transportul nutrienților: de la frunze la restul plantei.",
+    t2_inst: "Pune cuvintele în ordine!",
+    t2_w1: "Tulpina", t2_w2: "transportă", t2_w3: "apa", t2_w4: "către", t2_w5: "frunze.",
+    t2_q: "Ce circulă prin vasele tulpinii?", t2_q_a: "Apă și nutrienți", t2_q_b: "Doar aer", t2_q_c: "Sânge", t2_q_d: "Pământ",
 
-    r3_title: "Transport de apă: Călătoria",
-    r3_text: "Apa se deplasează prin plantă de la rădăcină la frunză într-un proces numit transpiație.",
-    r3_fact1: "Apa intră prin părul rădăcinii din sol",
-    r3_fact2: "Tulpina acționează ca o autostradă, transportând apa în sus",
-    r3_fact3: "Frunzele folosesc apa pentru fotosinteza și eliberează vaporii de apă în exces",
-    r3_root: "Rădăcina absoarbe apa",
-    r3_stem: "Tulpina transportă apa",
-    r3_leaf: "Frunza folosește și transpiră",
+    t3_title: "Frunza: Bucătăria Plantei", t3_text: "Frunzele sunt plate și verzi pentru a prinde lumina soarelui. Aici se produce hrana și tot aici planta respiră prin pori mici.",
+    t3_b1: "Culoare verde: cauzată de clorofilă.", t3_b2: "Producerea hranei: aici are loc fotosinteza.", t3_b3: "Schimb de gaze: preia CO2, eliberează O2.",
+    t3_inst: "Potrivește organul cu funcția sa principală!",
+    t3_l1: "Rădăcină", t3_r1: "Absoarbe apa", t3_l2: "Tulpină", t3_r2: "Transportă substanțe", t3_l3: "Frunză", t3_r3: "Produce hrana",
+    t3_q: "Ce substanță dă frunzelor culoarea verde?", t3_q_a: "Clorofila", t3_q_b: "Apa", t3_q_c: "Nectarul", t3_q_d: "Zahărul",
 
-    r4_title: "În interiorul unei frunze",
-    r4_text: "Frunzele au o structură specială pentru fotosinteza. Stomatele sunt pori microscopici care controlează schimbul de gaze.",
-    r4_fact1: "Stomatele sunt pori pe partea inferioară a frunzei pentru schimbul de gaze",
-    r4_fact2: "Cloroplastele din celulele frunzei conțin clorofil (pigment verde)",
-    r4_fact3: "CO₂ intră prin stomatele; O₂ iese prin stomatele",
-    r4_fact4: "Celulele de pază deschid și închid stomatele pentru a conserva apa",
+    t4_title: "Uimitoarea Fotosinteză", t4_text: "Prin fotosinteză, planta folosește lumina soarelui, apa și dioxidul de carbon pentru a crea zahăr (hrană) și oxigen.",
+    t4_b1: "Necesită: Lumină solară, apă (H2O), dioxid de carbon (CO2).", t4_b2: "Rezultat: Zahăr (glucoză) și Oxigen (O2).", t4_b3: "Fără acest proces nu ar exista viață pe Pământ!",
+    t4_inst: "De ce are nevoie planta și ce produce? Sortează-le!",
+    t4_bucket_kell: "Necesar (Intrare)", t4_bucket_lesz: "Produs (Ieșire)",
+    t4_item_k1: "Lumină solară", t4_item_k2: "Dioxid de carbon", t4_item_l1: "Oxigen", t4_item_l2: "Zahăr",
+    t4_q: "Ce gaz eliberează plantele în timpul fotosintezei?", t4_q_a: "Oxigen", t4_q_b: "Dioxid de carbon", t4_q_c: "Azot", t4_q_d: "Heliu",
 
-    r5_title: "Recapitulare rapidă",
-
-    q1_q: "Care parte a plantei absoarbe apa și mineralele din sol?",
-    q1_root: "Rădăcină",
-    q1_stem: "Tulpină",
-    q1_leaf: "Frunză",
-    q1_flower: "Floare",
-
-    q2_q: "Care trei lucruri sunt necesare unei plante pentru fotosinteza?",
-    q2_a: "Lumina soarelui, apa, CO₂",
-    q2_b: "Lumina soarelui, oxigen, azot",
-    q2_c: "Apă, glucoză, oxigen",
-    q2_d: "Sol, aer, lumina soarelui",
-
-    q3_q: "Care gaz eliberează plantele în timpul fotosintezei?",
-    q3_oxygen: "Oxigen",
-    q3_co2: "Dioxid de carbon",
-    q3_nitrogen: "Azot",
-    q3_hydrogen: "Hidrogen",
-
-    // Round 3 MCQ (Transport de apă)
-    r3_q: "Ce fac stomatele pe frunze?",
-    r3_q_photosynthesis: "Controlează schimbul de gaze (CO₂ in, O₂ out)",
-    r3_q_transport: "Transportă apa în sus",
-    r3_q_stomata: "Protejează suprafața frunzei",
-    r3_q_root: "Absorb apă din sol",
-
-    // Round 4 MCQ (Structura frunzei)
-    r4_q: "Care organele din celulele frunzei conțin clorofil?",
-    r4_chloroplasts: "Cloroplaste",
-    r4_mitochondria: "Mitocondrii",
-    r4_vacuoles: "Vacuole",
-    r4_membranes: "Membrane celulare",
-  },
+    t5_title: "Test Recapitulativ", t5_text: "Testează-ți cunoștințele despre organele plantelor și fotosinteză!",
+    t5_b1: "Rădăcina absoarbe, tulpina transportă, frunza produce.", t5_b2: "Fotosinteza necesită lumină, apă, CO2.", t5_b3: "Rezultat: oxigen și zahăr.",
+    t5_inst: "Ce gaz produc plantele?", t5_gap_sentence2: "În timpul fotosintezei, plantele produc {gap}.",
+    t5_c51: "oxigen", t5_c52: "dioxid de carbon", t5_c53: "apă",
+    t5_q: "Care afirmație este ADEVĂRATĂ despre tulpină?", t5_q_a: "Conectează rădăcinile cu frunzele.", t5_q_b: "Absoarbe apa din sol.", t5_q_c: "Aici are loc polenizarea.", t5_q_d: "Fixează planta în pământ.",
+  }
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SVG ILLUSTRATIONS
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-/** Round 1 SVG: Full plant with labeled parts (root, stem, leaf, flower) */
-function SVG_R1(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="p1_sky" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#87CEEB" /><stop offset="100%" stopColor="#E0F0FF" />
-        </linearGradient>
-        <linearGradient id="p1_soil" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#8B6E50" /><stop offset="40%" stopColor="#6B4E30" /><stop offset="100%" stopColor="#4A3520" />
-        </linearGradient>
-        <linearGradient id="p1_root" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#A07050" /><stop offset="100%" stopColor="#6B4530" />
-        </linearGradient>
-        <linearGradient id="p1_stem" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#2E7D32" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#388E3C" />
-        </linearGradient>
-        <linearGradient id="p1_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <linearGradient id="p1_petal" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFD54F" /><stop offset="50%" stopColor="#FFB74D" /><stop offset="100%" stopColor="#FF8A65" />
-        </linearGradient>
-        <radialGradient id="p1_sun" cx="80%" cy="15%">
-          <stop offset="0%" stopColor="rgba(255,235,150,0.4)" /><stop offset="100%" stopColor="rgba(255,235,150,0)" />
-        </radialGradient>
-      </defs>
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <PlantAnatomySvg lang={lang} />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t1_gap_sentence",
+      choices: ["t1_c1", "t1_c2", "t1_c3"],
+      correctIndex: 0,
+      instruction: "t1_inst",
+      hint1: "t1_b2",
+      hint2: "t1_b1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"],
+      correctOrder: [0, 1, 2, 3, 4],
+      instruction: "t2_inst",
+      hint1: "t2_b2",
+      hint2: "t2_b1",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b2",
+      hint2: "t3_b1",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <PhotosynthesisSvg lang={lang} />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "kell", label: "t4_bucket_kell" },
+        { id: "lesz", label: "t4_bucket_lesz" },
+      ],
+      items: [
+        { text: "t4_item_k1", bucketId: "kell" },
+        { text: "t4_item_l1", bucketId: "lesz" },
+        { text: "t4_item_k2", bucketId: "kell" },
+        { text: "t4_item_l2", bucketId: "lesz" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t5_gap_sentence2",
+      choices: ["t5_c51", "t5_c52", "t5_c53"],
+      correctIndex: 0,
+      instruction: "t5_inst",
+      hint1: "t5_b3",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-      {/* Sky */}
-      <rect width="240" height="105" fill="url(#p1_sky)" />
-      <circle cx="200" cy="20" r="40" fill="url(#p1_sun)" />
-
-      {/* Soil cross-section */}
-      <rect x="0" y="105" width="240" height="55" fill="url(#p1_soil)" />
-      {/* Soil layers */}
-      <path d="M 0 115 Q 60 112 120 115 Q 180 118 240 115" stroke="rgba(255,255,255,0.06)" strokeWidth="0.8" fill="none" />
-      <path d="M 0 130 Q 60 128 120 131 Q 180 134 240 130" stroke="rgba(255,255,255,0.04)" strokeWidth="0.8" fill="none" />
-      {/* Soil particles */}
-      <g fill="rgba(0,0,0,0.08)">
-        <circle cx="40" cy="125" r="1.5" /><circle cx="80" cy="135" r="1" /><circle cx="150" cy="128" r="1.2" />
-        <circle cx="190" cy="140" r="0.8" /><circle cx="100" cy="145" r="1" /><circle cx="170" cy="118" r="0.7" />
-      </g>
-
-      {/* ROOTS — branching system underground */}
-      <g>
-        {/* Main taproot */}
-        <path d="M 120 105 Q 118 120 120 140 Q 121 148 120 155" stroke="url(#p1_root)" strokeWidth="5" fill="none" strokeLinecap="round" />
-        {/* Lateral roots */}
-        <path d="M 120 115 Q 105 120 90 130 Q 80 136 72 140" stroke="url(#p1_root)" strokeWidth="3" fill="none" strokeLinecap="round" />
-        <path d="M 120 115 Q 135 120 150 128 Q 160 134 168 138" stroke="url(#p1_root)" strokeWidth="3" fill="none" strokeLinecap="round" />
-        <path d="M 120 125 Q 110 132 98 140" stroke="url(#p1_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
-        <path d="M 120 125 Q 130 130 142 138" stroke="url(#p1_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
-        {/* Root hairs */}
-        <g stroke="#A08060" strokeWidth="0.6" opacity="0.5" strokeLinecap="round" fill="none">
-          <path d="M 85 133 L 80 136" /><path d="M 90 128 L 86 132" /><path d="M 95 136 L 90 140" />
-          <path d="M 155 130 L 160 134" /><path d="M 148 135 L 152 139" /><path d="M 145 125 L 150 128" />
-          <path d="M 118 138 L 114 142" /><path d="M 122 145 L 126 148" />
-        </g>
-        {/* Water absorption arrows (blue dots moving toward roots) */}
-        <g fill="rgba(100,180,255,0.4)">
-          <circle cx="68" cy="142" r="1.5" /><circle cx="75" cy="138" r="1.2" /><circle cx="82" cy="134" r="1" />
-          <circle cx="172" cy="140" r="1.5" /><circle cx="165" cy="136" r="1.2" /><circle cx="158" cy="132" r="1" />
-        </g>
-      </g>
-
-      {/* STEM — with xylem suggestion */}
-      <path d="M 120 105 Q 119 85 120 55" stroke="url(#p1_stem)" strokeWidth="8" fill="none" strokeLinecap="round" />
-      {/* Internal transport lines */}
-      <path d="M 118 105 Q 117 85 118 55" stroke="rgba(100,180,255,0.2)" strokeWidth="1.5" fill="none" />
-      <path d="M 122 105 Q 121 85 122 55" stroke="rgba(100,180,255,0.2)" strokeWidth="1.5" fill="none" />
-      {/* Stem highlight */}
-      <path d="M 116 105 Q 115 85 116 55" stroke="rgba(255,255,255,0.1)" strokeWidth="1" fill="none" />
-
-      {/* LEAVES — with veins */}
-      {/* Left leaf */}
-      <g transform="translate(80, 70) rotate(-30)">
-        <ellipse cx="0" cy="0" rx="15" ry="24" fill="url(#p1_leaf)" />
-        {/* Midrib */}
-        <path d="M 0,-22 L 0,22" stroke="rgba(30,80,30,0.3)" strokeWidth="0.8" fill="none" />
-        {/* Veins */}
-        <g stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none">
-          <path d="M 0,-14 Q 6,-10 12,-8" /><path d="M 0,-6 Q 6,-2 12,0" />
-          <path d="M 0,4 Q 6,8 12,10" /><path d="M 0,12 Q 6,16 11,18" />
-          <path d="M 0,-14 Q -6,-10 -12,-8" /><path d="M 0,-6 Q -6,-2 -12,0" />
-          <path d="M 0,4 Q -6,8 -12,10" /><path d="M 0,12 Q -6,16 -11,18" />
-        </g>
-        {/* Highlight */}
-        <ellipse cx="-3" cy="-5" rx="5" ry="10" fill="rgba(255,255,255,0.08)" />
-      </g>
-
-      {/* Right leaf */}
-      <g transform="translate(160, 75) rotate(30)">
-        <ellipse cx="0" cy="0" rx="15" ry="24" fill="url(#p1_leaf)" />
-        <path d="M 0,-22 L 0,22" stroke="rgba(30,80,30,0.3)" strokeWidth="0.8" fill="none" />
-        <g stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none">
-          <path d="M 0,-14 Q 6,-10 12,-8" /><path d="M 0,-6 Q 6,-2 12,0" />
-          <path d="M 0,4 Q 6,8 12,10" /><path d="M 0,12 Q 6,16 11,18" />
-          <path d="M 0,-14 Q -6,-10 -12,-8" /><path d="M 0,-6 Q -6,-2 -12,0" />
-          <path d="M 0,4 Q -6,8 -12,10" /><path d="M 0,12 Q -6,16 -11,18" />
-        </g>
-        <ellipse cx="-3" cy="-5" rx="5" ry="10" fill="rgba(255,255,255,0.08)" />
-      </g>
-
-      {/* FLOWER — detailed petals */}
-      <g transform="translate(120, 35)">
-        {/* Petals - 5 overlapping */}
-        <ellipse cx="0" cy="-10" rx="6" ry="10" fill="url(#p1_petal)" opacity="0.9" />
-        <ellipse cx="0" cy="-10" rx="6" ry="10" fill="url(#p1_petal)" opacity="0.85" transform="rotate(72)" />
-        <ellipse cx="0" cy="-10" rx="6" ry="10" fill="url(#p1_petal)" opacity="0.8" transform="rotate(144)" />
-        <ellipse cx="0" cy="-10" rx="6" ry="10" fill="url(#p1_petal)" opacity="0.85" transform="rotate(216)" />
-        <ellipse cx="0" cy="-10" rx="6" ry="10" fill="url(#p1_petal)" opacity="0.9" transform="rotate(288)" />
-        {/* Center - pistil */}
-        <circle cx="0" cy="0" r="4" fill="#FFD700" />
-        <circle cx="0" cy="0" r="2.5" fill="#FFA000" />
-        {/* Pollen dots */}
-        <g fill="#FFE082" opacity="0.7">
-          <circle cx="-1" cy="-1" r="0.6" /><circle cx="1" cy="0.5" r="0.5" /><circle cx="0" cy="1.5" r="0.4" />
-        </g>
-      </g>
-
-      {/* Color-coded section indicators */}
-      <circle cx="120" cy="148" r="3" fill="rgba(139,90,60,0.4)" stroke="#A07050" strokeWidth="0.8" />
-      <circle cx="120" cy="80" r="3" fill="rgba(74,175,74,0.4)" stroke="#4CAF50" strokeWidth="0.8" />
-      <circle cx="80" cy="55" r="3" fill="rgba(107,203,119,0.4)" stroke="#6BCB77" strokeWidth="0.8" />
-      <circle cx="120" cy="20" r="3" fill="rgba(255,183,77,0.4)" stroke="#FFB74D" strokeWidth="0.8" />
-    </svg>
-  );
-}
-
-/** Round 2 SVG: Photosynthesis diagram with arrows and inputs/outputs */
-function SVG_R2(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <radialGradient id="p2_sun" cx="50%" cy="50%">
-          <stop offset="0%" stopColor="#FFF8E1" /><stop offset="40%" stopColor="#FFD54F" /><stop offset="100%" stopColor="#FF8F00" />
-        </radialGradient>
-        <radialGradient id="p2_sun_glow" cx="50%" cy="50%">
-          <stop offset="0%" stopColor="rgba(255,235,100,0.4)" /><stop offset="100%" stopColor="rgba(255,235,100,0)" />
-        </radialGradient>
-        <linearGradient id="p2_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" /><stop offset="30%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <linearGradient id="p2_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#1a2a1a" /><stop offset="100%" stopColor="#0a1a0a" />
-        </linearGradient>
-        <marker id="p2_arr_sun" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#FFD54F" />
-        </marker>
-        <marker id="p2_arr_water" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#64B5F6" />
-        </marker>
-        <marker id="p2_arr_co2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#B0BEC5" />
-        </marker>
-        <marker id="p2_arr_o2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#4FC3F7" />
-        </marker>
-        <marker id="p2_arr_glucose" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#FFB74D" />
-        </marker>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#p2_bg)" />
-
-      {/* SUN — top left with rays */}
-      <circle cx="30" cy="30" r="30" fill="url(#p2_sun_glow)" />
-      <circle cx="30" cy="30" r="14" fill="url(#p2_sun)" />
-      {/* Rays */}
-      <g stroke="#FFD54F" strokeWidth="2" strokeLinecap="round" opacity="0.6">
-        <line x1="30" y1="8" x2="30" y2="2" /><line x1="30" y1="52" x2="30" y2="58" />
-        <line x1="8" y1="30" x2="2" y2="30" /><line x1="52" y1="30" x2="58" y2="30" />
-        <line x1="15" y1="15" x2="10" y2="10" /><line x1="45" y1="15" x2="50" y2="10" />
-        <line x1="15" y1="45" x2="10" y2="50" /><line x1="45" y1="45" x2="50" y2="50" />
-      </g>
-
-      {/* CLOUD — water source top right */}
-      <g transform="translate(200, 25)">
-        <ellipse cx="0" cy="0" rx="22" ry="10" fill="rgba(100,180,255,0.25)" />
-        <ellipse cx="8" cy="-5" rx="14" ry="8" fill="rgba(100,180,255,0.2)" />
-        <ellipse cx="-8" cy="-3" rx="12" ry="7" fill="rgba(100,180,255,0.18)" />
-        {/* Rain drops */}
-        <g fill="rgba(100,180,255,0.4)">
-          <path d="M -8,12 Q -7,10 -6,12 Q -7,14 -8,12 Z" />
-          <path d="M 2,14 Q 3,12 4,14 Q 3,16 2,14 Z" />
-          <path d="M 10,11 Q 11,9 12,11 Q 11,13 10,11 Z" />
-        </g>
-      </g>
-
-      {/* CENTRAL LEAF — large with chloroplasts */}
-      <g transform="translate(120, 82)">
-        {/* Leaf shape */}
-        <path d="M -45,0 Q -40,-28 0,-32 Q 40,-28 45,0 Q 40,28 0,32 Q -40,28 -45,0 Z" fill="url(#p2_leaf)" />
-        {/* Midrib */}
-        <path d="M -42,0 L 42,0" stroke="rgba(30,80,30,0.3)" strokeWidth="1" fill="none" />
-        {/* Veins */}
-        <g stroke="rgba(30,80,30,0.2)" strokeWidth="0.6" fill="none">
-          <path d="M -30,0 Q -25,-10 -15,-16" /><path d="M -15,0 Q -10,-8 0,-12" />
-          <path d="M 0,0 Q 10,-8 20,-12" /><path d="M 15,0 Q 25,-10 35,-14" />
-          <path d="M -30,0 Q -25,10 -15,16" /><path d="M -15,0 Q -10,8 0,12" />
-          <path d="M 0,0 Q 10,8 20,12" /><path d="M 15,0 Q 25,10 35,14" />
-        </g>
-        {/* Chloroplasts (green dots inside) */}
-        <g fill="#2E7D32" opacity="0.4">
-          <ellipse cx="-25" cy="-8" rx="3" ry="2" /><ellipse cx="-10" cy="-14" rx="3" ry="2" />
-          <ellipse cx="8" cy="-10" rx="3" ry="2" /><ellipse cx="25" cy="-6" rx="3" ry="2" />
-          <ellipse cx="-20" cy="8" rx="3" ry="2" /><ellipse cx="-5" cy="12" rx="3" ry="2" />
-          <ellipse cx="15" cy="10" rx="3" ry="2" /><ellipse cx="30" cy="6" rx="3" ry="2" />
-        </g>
-        {/* Glucose symbol in center */}
-        <circle cx="0" cy="0" r="8" fill="rgba(255,183,77,0.3)" stroke="#FFB74D" strokeWidth="1" />
-        <circle cx="0" cy="0" r="3" fill="#FFB74D" opacity="0.6" />
-      </g>
-
-      {/* SUNLIGHT ARROW — sun to leaf */}
-      <path d="M 50 42 Q 70 55 80 65" stroke="#FFD54F" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_sun)" strokeDasharray="4,2" />
-      {/* Light ray particles */}
-      <g fill="#FFD54F" opacity="0.4">
-        <circle cx="55" cy="45" r="1.5" /><circle cx="65" cy="52" r="1.2" /><circle cx="75" cy="60" r="1" />
-      </g>
-
-      {/* WATER ARROW — cloud to leaf */}
-      <path d="M 185 40 Q 165 55 155 65" stroke="#64B5F6" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_water)" strokeDasharray="4,2" />
-      <g fill="#64B5F6" opacity="0.4">
-        <circle cx="180" cy="42" r="1.5" /><circle cx="170" cy="50" r="1.2" /><circle cx="160" cy="60" r="1" />
-      </g>
-
-      {/* CO2 ARROW — entering from below left */}
-      <path d="M 30 130 Q 55 110 80 95" stroke="#B0BEC5" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_co2)" strokeDasharray="4,2" />
-      {/* CO2 molecule hint */}
-      <g transform="translate(25, 135)" opacity="0.5">
-        <circle cx="0" cy="0" r="3" fill="#90A4AE" /><circle cx="5" cy="-2" r="2" fill="#B0BEC5" /><circle cx="-5" cy="-2" r="2" fill="#B0BEC5" />
-      </g>
-
-      {/* O2 OUTPUT — exiting to top right */}
-      <path d="M 155 65 Q 180 45 210 30" stroke="#4FC3F7" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_o2)" />
-      {/* O2 bubbles */}
-      <g fill="rgba(79,195,247,0.3)">
-        <circle cx="165" cy="58" r="2" /><circle cx="175" cy="50" r="2.5" /><circle cx="190" cy="40" r="2" />
-      </g>
-
-      {/* GLUCOSE OUTPUT — exiting downward */}
-      <path d="M 120 115 Q 120 130 120 145" stroke="#FFB74D" strokeWidth="2" fill="none" markerEnd="url(#p2_arr_glucose)" />
-      {/* ICON SUMMARY (SUN + WATER → GLUCOSE) */}
-<g transform="translate(120, 150)">
-  <foreignObject x="-70" y="-10" width="140" height="40">
-    <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "6px" }}>
-      <SVG_SUN />
-      <span style={{ color: "white", fontSize: "12px" }}>+</span>
-      <SVG_WATER />
-      <span style={{ color: "white", fontSize: "12px" }}>→</span>
-      <SVG_GLUCOSE />
-    </div>
-  </foreignObject>
-</g>
-      {/* Sugar particles */}
-      <g fill="rgba(255,183,77,0.4)">
-        <circle cx="118" cy="125" r="1.5" /><circle cx="122" cy="135" r="1.2" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 3 SVG: Water transport (root → stem → leaf) with order sequence */
-function SVG_R3(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="p3_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E0F0FF" /><stop offset="65%" stopColor="#E0F0FF" /><stop offset="65%" stopColor="#8B6E50" /><stop offset="100%" stopColor="#4A3520" />
-        </linearGradient>
-        <linearGradient id="p3_root" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#A07050" /><stop offset="100%" stopColor="#6B4530" />
-        </linearGradient>
-        <linearGradient id="p3_stem" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#2E7D32" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#388E3C" />
-        </linearGradient>
-        <linearGradient id="p3_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <marker id="p3_arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-          <polygon points="0 0.5, 6 3, 0 5.5" fill="#42A5F5" />
-        </marker>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#p3_bg)" />
-
-      {/* Soil surface line */}
-      <path d="M 0 104 Q 60 100 120 104 Q 180 108 240 104" fill="none" stroke="rgba(100,80,50,0.3)" strokeWidth="1" />
-
-      {/* ROOT ZONE — underground */}
-      <g transform="translate(50, 120)">
-        {/* Root system */}
-        <path d="M 0,-16 Q -2,-8 0,0 Q 1,8 0,14" stroke="url(#p3_root)" strokeWidth="4" fill="none" strokeLinecap="round" />
-        <path d="M 0,-5 Q -10,0 -18,8" stroke="url(#p3_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-        <path d="M 0,-5 Q 10,0 18,8" stroke="url(#p3_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-        <path d="M 0,5 Q -8,10 -14,16" stroke="url(#p3_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
-        <path d="M 0,5 Q 8,10 14,16" stroke="url(#p3_root)" strokeWidth="2" fill="none" strokeLinecap="round" />
-        {/* Root hairs */}
-        <g stroke="#A08060" strokeWidth="0.5" opacity="0.5">
-          <path d="M -15,6 L -18,8" /><path d="M -12,3 L -15,5" />
-          <path d="M 15,6 L 18,8" /><path d="M 12,3 L 15,5" />
-        </g>
-        {/* Water arrows entering roots */}
-        <g fill="rgba(66,165,245,0.4)">
-          <circle cx="-22" cy="10" r="2" /><circle cx="-20" cy="6" r="1.5" />
-          <circle cx="22" cy="10" r="2" /><circle cx="20" cy="6" r="1.5" />
-          <circle cx="-16" cy="18" r="1.5" /><circle cx="16" cy="18" r="1.5" />
-        </g>
-        {/* Step number */}
-        <circle cx="0" cy="-16" r="8" fill="rgba(139,90,60,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
-      </g>
-
-      {/* STEM — vertical xylem tube */}
-      <g transform="translate(115, 15)">
-        {/* Stem */}
-        <rect x="0" y="0" width="10" height="88" rx="4" fill="url(#p3_stem)" />
-        {/* Xylem channels */}
-        <line x1="3" y1="88" x2="3" y2="0" stroke="rgba(66,165,245,0.3)" strokeWidth="1.5" />
-        <line x1="7" y1="88" x2="7" y2="0" stroke="rgba(66,165,245,0.3)" strokeWidth="1.5" />
-        {/* Water flowing UP - animated-look dots */}
-        <g fill="rgba(66,165,245,0.5)">
-          <circle cx="3" cy="80" r="1.5" /><circle cx="7" cy="72" r="1.5" />
-          <circle cx="3" cy="60" r="1.5" /><circle cx="7" cy="50" r="1.5" />
-          <circle cx="3" cy="38" r="1.5" /><circle cx="7" cy="28" r="1.5" />
-          <circle cx="3" cy="16" r="1.5" /><circle cx="7" cy="8" r="1.5" />
-        </g>
-        {/* Stem highlight */}
-        <rect x="0" y="0" width="3" height="88" rx="1.5" fill="rgba(255,255,255,0.08)" />
-        {/* Step number */}
-        <circle cx="5" cy="55" r="8" fill="rgba(74,139,74,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
-      </g>
-
-      {/* LEAF — transpiration */}
-      <g transform="translate(175, 40)">
-        {/* Leaf */}
-        <path d="M -20,0 Q 0,-25 20,0 Q 0,25 -20,0 Z" fill="url(#p3_leaf)" />
-        {/* Veins */}
-        <path d="M -18,0 L 18,0" stroke="rgba(30,80,30,0.3)" strokeWidth="0.6" fill="none" />
-        <path d="M -10,0 Q -5,-8 5,-12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none" />
-        <path d="M -10,0 Q -5,8 5,12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none" />
-        {/* Stomata (bottom) */}
-        <ellipse cx="-6" cy="12" rx="2" ry="3" fill="rgba(0,0,0,0.15)" />
-        <ellipse cx="6" cy="12" rx="2" ry="3" fill="rgba(0,0,0,0.15)" />
-        {/* Transpiration vapor */}
-        <g fill="rgba(135,206,235,0.35)">
-          <circle cx="0" cy="-28" r="2" /><circle cx="-8" cy="-30" r="1.5" /><circle cx="8" cy="-32" r="1.8" />
-          <circle cx="-4" cy="-35" r="1.2" /><circle cx="4" cy="-37" r="1" />
-        </g>
-        {/* Step number */}
-        <circle cx="0" cy="0" r="8" fill="rgba(107,203,119,0.6)" stroke="rgba(255,255,255,0.3)" strokeWidth="1" />
-      </g>
-
-      {/* WATER FLOW ARROWS (root → stem → leaf) */}
-      <path d="M 58 104 Q 80 90 110 80" stroke="#42A5F5" strokeWidth="2.5" fill="none" markerEnd="url(#p3_arr)" strokeDasharray="4,3" />
-      <path d="M 130 20 Q 145 22 158 30" stroke="#42A5F5" strokeWidth="2.5" fill="none" markerEnd="url(#p3_arr)" strokeDasharray="4,3" />
-
-      {/* Small additional water dots along path */}
-      <g fill="rgba(66,165,245,0.3)">
-        <circle cx="70" cy="95" r="2" /><circle cx="85" cy="88" r="1.5" /><circle cx="98" cy="82" r="1.2" />
-        <circle cx="138" cy="22" r="1.5" /><circle cx="148" cy="26" r="1.2" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 4 SVG: Leaf cross-section with stomata, chloroplasts, gas exchange */
-function SVG_R4(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="p4_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#1a2a1a" /><stop offset="100%" stopColor="#0a150a" />
-        </linearGradient>
-        <linearGradient id="p4_upper_epi" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#66BB6A" />
-        </linearGradient>
-        <linearGradient id="p4_mesophyll" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#A5D6A7" /><stop offset="100%" stopColor="#81C784" />
-        </linearGradient>
-        <linearGradient id="p4_lower_epi" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#66BB6A" /><stop offset="100%" stopColor="#4CAF50" />
-        </linearGradient>
-        <linearGradient id="p4_chloro" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#1B5E20" />
-        </linearGradient>
-        <marker id="p4_arr_co2" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto">
-          <polygon points="0 0, 5 2.5, 0 5" fill="#B0BEC5" />
-        </marker>
-        <marker id="p4_arr_o2" markerWidth="5" markerHeight="5" refX="0" refY="2.5" orient="auto">
-          <polygon points="5 0, 0 2.5, 5 5" fill="#4FC3F7" />
-        </marker>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#p4_bg)" />
-
-      {/* LEAF CROSS-SECTION — layered structure */}
-
-      {/* Cuticle (waxy top layer) */}
-      <path d="M 20 28 Q 60 24 120 22 Q 180 24 220 28" stroke="rgba(255,255,200,0.3)" strokeWidth="2" fill="none" />
-
-      {/* Upper epidermis */}
-      <path d="M 20 28 Q 60 24 120 22 Q 180 24 220 28 L 220 38 Q 180 36 120 34 Q 60 36 20 38 Z" fill="url(#p4_upper_epi)" opacity="0.8" />
-      {/* Cell outlines in upper epidermis */}
-      <g stroke="rgba(30,80,30,0.2)" strokeWidth="0.5" fill="none">
-        <rect x="30" y="26" width="15" height="10" rx="3" /><rect x="50" y="25" width="16" height="10" rx="3" />
-        <rect x="72" y="24" width="15" height="10" rx="3" /><rect x="92" y="23" width="16" height="10" rx="3" />
-        <rect x="114" y="23" width="15" height="10" rx="3" /><rect x="134" y="23" width="16" height="10" rx="3" />
-        <rect x="156" y="24" width="15" height="10" rx="3" /><rect x="176" y="25" width="16" height="10" rx="3" />
-        <rect x="197" y="26" width="15" height="10" rx="3" />
-      </g>
-
-      {/* Palisade mesophyll (tall columnar cells) */}
-      <rect x="20" y="38" width="200" height="35" fill="url(#p4_mesophyll)" opacity="0.6" />
-      <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.5" fill="none">
-        <rect x="25" y="39" width="10" height="33" rx="3" /><rect x="40" y="39" width="10" height="33" rx="3" />
-        <rect x="55" y="39" width="10" height="33" rx="3" /><rect x="70" y="39" width="10" height="33" rx="3" />
-        <rect x="85" y="39" width="10" height="33" rx="3" /><rect x="100" y="39" width="10" height="33" rx="3" />
-        <rect x="115" y="39" width="10" height="33" rx="3" /><rect x="130" y="39" width="10" height="33" rx="3" />
-        <rect x="145" y="39" width="10" height="33" rx="3" /><rect x="160" y="39" width="10" height="33" rx="3" />
-        <rect x="175" y="39" width="10" height="33" rx="3" /><rect x="190" y="39" width="10" height="33" rx="3" />
-      </g>
-
-      {/* Chloroplasts inside palisade cells */}
-      <g fill="url(#p4_chloro)" opacity="0.7">
-        <ellipse cx="30" cy="48" rx="3" ry="2" /><ellipse cx="30" cy="58" rx="3" ry="2" />
-        <ellipse cx="45" cy="50" rx="3" ry="2" /><ellipse cx="45" cy="62" rx="3" ry="2" />
-        <ellipse cx="60" cy="46" rx="3" ry="2" /><ellipse cx="60" cy="56" rx="3" ry="2" />
-        <ellipse cx="75" cy="50" rx="3" ry="2" /><ellipse cx="75" cy="64" rx="3" ry="2" />
-        <ellipse cx="90" cy="48" rx="3" ry="2" /><ellipse cx="90" cy="60" rx="3" ry="2" />
-        <ellipse cx="105" cy="46" rx="3" ry="2" /><ellipse cx="105" cy="58" rx="3" ry="2" />
-        <ellipse cx="120" cy="50" rx="3" ry="2" /><ellipse cx="120" cy="62" rx="3" ry="2" />
-        <ellipse cx="135" cy="48" rx="3" ry="2" /><ellipse cx="135" cy="58" rx="3" ry="2" />
-        <ellipse cx="150" cy="46" rx="3" ry="2" /><ellipse cx="150" cy="60" rx="3" ry="2" />
-        <ellipse cx="165" cy="50" rx="3" ry="2" /><ellipse cx="165" cy="64" rx="3" ry="2" />
-        <ellipse cx="180" cy="48" rx="3" ry="2" /><ellipse cx="180" cy="58" rx="3" ry="2" />
-        <ellipse cx="195" cy="50" rx="3" ry="2" /><ellipse cx="195" cy="62" rx="3" ry="2" />
-      </g>
-
-      {/* Spongy mesophyll (irregular cells with air spaces) */}
-      <rect x="20" y="73" width="200" height="25" fill="url(#p4_mesophyll)" opacity="0.4" />
-      <g fill="rgba(150,200,150,0.3)" stroke="rgba(30,80,30,0.1)" strokeWidth="0.5">
-        <ellipse cx="35" cy="82" rx="8" ry="5" /><ellipse cx="60" cy="80" rx="7" ry="6" />
-        <ellipse cx="85" cy="84" rx="9" ry="5" /><ellipse cx="110" cy="81" rx="8" ry="6" />
-        <ellipse cx="140" cy="83" rx="7" ry="5" /><ellipse cx="165" cy="80" rx="8" ry="6" />
-        <ellipse cx="195" cy="82" rx="7" ry="5" />
-      </g>
-      {/* Air spaces between spongy cells */}
-      <g fill="rgba(255,255,255,0.05)">
-        <circle cx="48" cy="82" r="3" /><circle cx="73" cy="84" r="2.5" />
-        <circle cx="98" cy="81" r="3" /><circle cx="125" cy="83" r="2.5" />
-        <circle cx="153" cy="82" r="3" /><circle cx="180" cy="84" r="2.5" />
-      </g>
-
-      {/* Lower epidermis */}
-      <path d="M 20 98 Q 60 100 120 102 Q 180 100 220 98 L 220 108 Q 180 110 120 112 Q 60 110 20 108 Z" fill="url(#p4_lower_epi)" opacity="0.7" />
-
-      {/* STOMATA — pores in lower epidermis */}
-      <g>
-        {/* Stoma 1 */}
-        <g transform="translate(65, 105)">
-          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
-        </g>
-        {/* Stoma 2 */}
-        <g transform="translate(120, 107)">
-          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
-        </g>
-        {/* Stoma 3 */}
-        <g transform="translate(175, 105)">
-          <ellipse cx="-4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="4" cy="0" rx="3" ry="6" fill="#4CAF50" opacity="0.7" />
-          <ellipse cx="0" cy="0" rx="2.5" ry="5" fill="rgba(0,0,0,0.3)" />
-        </g>
-      </g>
-
-      {/* CO2 entering arrows */}
-      <g>
-        <path d="M 65 140 L 65 118" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
-        <path d="M 120 142 L 120 120" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
-        <path d="M 175 140 L 175 118" stroke="#B0BEC5" strokeWidth="1.5" markerEnd="url(#p4_arr_co2)" strokeDasharray="3,2" />
-        {/* CO2 molecule hints */}
-        <g opacity="0.4">
-          <circle cx="65" cy="145" r="2" fill="#90A4AE" /><circle cx="68" cy="143" r="1.2" fill="#B0BEC5" /><circle cx="62" cy="143" r="1.2" fill="#B0BEC5" />
-          <circle cx="120" cy="147" r="2" fill="#90A4AE" /><circle cx="123" cy="145" r="1.2" fill="#B0BEC5" /><circle cx="117" cy="145" r="1.2" fill="#B0BEC5" />
-        </g>
-      </g>
-
-      {/* O2 exiting arrows */}
-      <g>
-        <path d="M 50 112 L 35 130" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
-        <polygon points="33,128 35,134 38,127" fill="#4FC3F7" />
-        <path d="M 135 115 L 145 133" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
-        <polygon points="143,131 147,135 148,129" fill="#4FC3F7" />
-        <path d="M 190 112 L 205 130" stroke="#4FC3F7" strokeWidth="1.5" fill="none" />
-        <polygon points="203,128 207,133 208,127" fill="#4FC3F7" />
-        {/* O2 bubbles */}
-        <g fill="rgba(79,195,247,0.3)">
-          <circle cx="30" cy="135" r="2" /><circle cx="148" cy="138" r="1.8" /><circle cx="210" cy="135" r="2" />
-        </g>
-      </g>
-
-      {/* Vein/vascular bundle in center */}
-      <g transform="translate(120, 78)">
-        <ellipse cx="0" cy="0" rx="4" ry="8" fill="rgba(100,180,255,0.3)" stroke="rgba(100,180,255,0.4)" strokeWidth="0.5" />
-        <ellipse cx="0" cy="3" rx="2" ry="3" fill="rgba(200,100,100,0.3)" />
-      </g>
-    </svg>
-  );
-}
-
-/** Round 5 SVG: Plant parts matching chart (MCQ review) */
-function SVG_R5(lang: string): React.ReactNode {
-  return (
-    <svg viewBox="0 0 240 160" className="w-full h-auto max-h-40">
-      <defs>
-        <linearGradient id="p5_bg" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#E8F5E9" /><stop offset="55%" stopColor="#C8E6C9" />
-          <stop offset="55%" stopColor="#8B6E50" /><stop offset="100%" stopColor="#5D4037" />
-        </linearGradient>
-        <linearGradient id="p5_root" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#A07050" /><stop offset="100%" stopColor="#6B4530" />
-        </linearGradient>
-        <linearGradient id="p5_stem" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#2E7D32" /><stop offset="50%" stopColor="#4CAF50" /><stop offset="100%" stopColor="#388E3C" />
-        </linearGradient>
-        <linearGradient id="p5_leaf" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#81C784" /><stop offset="100%" stopColor="#2E7D32" />
-        </linearGradient>
-        <linearGradient id="p5_petal" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#FFD54F" /><stop offset="100%" stopColor="#FF8A65" />
-        </linearGradient>
-        <radialGradient id="p5_sun_glow" cx="80%" cy="15%">
-          <stop offset="0%" stopColor="rgba(255,235,100,0.3)" /><stop offset="100%" stopColor="rgba(255,235,100,0)" />
-        </radialGradient>
-      </defs>
-
-      <rect width="240" height="160" fill="url(#p5_bg)" />
-      <circle cx="200" cy="15" r="35" fill="url(#p5_sun_glow)" />
-
-      {/* Beautiful detailed plant - center */}
-      <g transform="translate(120, 0)">
-        {/* Roots underground */}
-        <path d="M 0,88 Q -2,95 0,108 Q 1,115 0,125" stroke="url(#p5_root)" strokeWidth="4" fill="none" strokeLinecap="round" />
-        <path d="M 0,95 Q -12,102 -22,112" stroke="url(#p5_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-        <path d="M 0,95 Q 12,102 22,112" stroke="url(#p5_root)" strokeWidth="2.5" fill="none" strokeLinecap="round" />
-        <path d="M 0,102 Q -8,108 -15,118" stroke="url(#p5_root)" strokeWidth="1.8" fill="none" strokeLinecap="round" />
-        <path d="M 0,102 Q 8,108 15,118" stroke="url(#p5_root)" strokeWidth="1.8" fill="none" strokeLinecap="round" />
-        {/* Root hairs */}
-        <g stroke="#A08060" strokeWidth="0.5" opacity="0.4">
-          <path d="M -18,108 L -22,112" /><path d="M 18,108 L 22,112" />
-          <path d="M -12,114 L -16,118" /><path d="M 12,114 L 16,118" />
-        </g>
-        {/* Water dots near roots */}
-        <g fill="rgba(66,165,245,0.3)">
-          <circle cx="-25" cy="114" r="1.5" /><circle cx="25" cy="114" r="1.5" />
-          <circle cx="-18" cy="120" r="1" /><circle cx="18" cy="120" r="1" />
-        </g>
-
-        {/* Stem */}
-        <path d="M 0,88 Q -1,70 0,35" stroke="url(#p5_stem)" strokeWidth="7" fill="none" strokeLinecap="round" />
-        {/* Xylem hint */}
-        <path d="M -1.5,88 Q -2,70 -1.5,35" stroke="rgba(66,165,245,0.15)" strokeWidth="1.5" fill="none" />
-        <path d="M 1.5,88 Q 1,70 1.5,35" stroke="rgba(66,165,245,0.15)" strokeWidth="1.5" fill="none" />
-
-        {/* Left leaf */}
-        <g transform="translate(-35, 55) rotate(-25)">
-          <ellipse cx="0" cy="0" rx="12" ry="20" fill="url(#p5_leaf)" />
-          <path d="M 0,-18 L 0,18" stroke="rgba(30,80,30,0.25)" strokeWidth="0.6" fill="none" />
-          <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.4" fill="none">
-            <path d="M 0,-10 Q 5,-7 9,-4" /><path d="M 0,0 Q 5,3 9,6" /><path d="M 0,8 Q 5,11 9,14" />
-            <path d="M 0,-10 Q -5,-7 -9,-4" /><path d="M 0,0 Q -5,3 -9,6" /><path d="M 0,8 Q -5,11 -9,14" />
-          </g>
-        </g>
-
-        {/* Right leaf */}
-        <g transform="translate(35, 60) rotate(25)">
-          <ellipse cx="0" cy="0" rx="12" ry="20" fill="url(#p5_leaf)" />
-          <path d="M 0,-18 L 0,18" stroke="rgba(30,80,30,0.25)" strokeWidth="0.6" fill="none" />
-          <g stroke="rgba(30,80,30,0.15)" strokeWidth="0.4" fill="none">
-            <path d="M 0,-10 Q 5,-7 9,-4" /><path d="M 0,0 Q 5,3 9,6" /><path d="M 0,8 Q 5,11 9,14" />
-            <path d="M 0,-10 Q -5,-7 -9,-4" /><path d="M 0,0 Q -5,3 -9,6" /><path d="M 0,8 Q -5,11 -9,14" />
-          </g>
-        </g>
-
-        {/* Small upper leaf */}
-        <g transform="translate(-20, 42) rotate(-40)">
-          <ellipse cx="0" cy="0" rx="8" ry="14" fill="url(#p5_leaf)" opacity="0.9" />
-          <path d="M 0,-12 L 0,12" stroke="rgba(30,80,30,0.2)" strokeWidth="0.4" fill="none" />
-        </g>
-
-        {/* Flower */}
-        <g transform="translate(0, 20)">
-          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.9" />
-          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.85" transform="rotate(72)" />
-          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.8" transform="rotate(144)" />
-          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.85" transform="rotate(216)" />
-          <ellipse cx="0" cy="-8" rx="5" ry="8" fill="url(#p5_petal)" opacity="0.9" transform="rotate(288)" />
-          <circle cx="0" cy="0" r="3.5" fill="#FFD700" />
-          <circle cx="0" cy="0" r="2" fill="#FFA000" />
-        </g>
-      </g>
-
-      {/* Color-coded part indicators with glow */}
-      {/* Root */}
-      <circle cx="120" cy="110" r="5" fill="rgba(160,112,80,0.4)" stroke="#A07050" strokeWidth="1" />
-      <circle cx="120" cy="110" r="2" fill="#A07050" />
-
-      {/* Stem */}
-      <circle cx="120" cy="75" r="5" fill="rgba(76,175,80,0.3)" stroke="#4CAF50" strokeWidth="1" />
-      <circle cx="120" cy="75" r="2" fill="#4CAF50" />
-
-      {/* Leaf */}
-      <circle cx="85" cy="52" r="5" fill="rgba(129,199,132,0.3)" stroke="#81C784" strokeWidth="1" />
-      <circle cx="85" cy="52" r="2" fill="#81C784" />
-
-      {/* Flower */}
-      <circle cx="120" cy="22" r="5" fill="rgba(255,183,77,0.3)" stroke="#FFB74D" strokeWidth="1" />
-      <circle cx="120" cy="22" r="2" fill="#FFB74D" />
-
-      {/* Photosynthesis hint (sun ray to leaf) */}
-      <g opacity="0.3">
-        <line x1="200" y1="15" x2="160" y2="48" stroke="#FFD54F" strokeWidth="0.8" strokeDasharray="2,3" />
-        <line x1="195" y1="18" x2="155" y2="55" stroke="#FFD54F" strokeWidth="0.6" strokeDasharray="2,3" />
-      </g>
-    </svg>
-  );
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// EXPLORER DEFINITION
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: SVG_R1,
-      bulletKeys: ["r1_fact1", "r1_fact2", "r1_fact3", "r1_fact4"],
-      questions: [
-        {
-          question: "q1_q",
-          choices: ["q1_root", "q1_stem", "q1_leaf", "q1_flower"],
-          answer: "q1_root",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: SVG_R2,
-      bulletKeys: ["r2_fact1", "r2_fact2", "r2_fact3", "r2_fact4"],
-      questions: [
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_a",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: SVG_R3,
-      bulletKeys: ["r3_fact1", "r3_fact2", "r3_fact3"],
-      questions: [
-        {
-          question: "r3_q",
-          choices: ["r3_q_photosynthesis", "r3_q_transport", "r3_q_stomata", "r3_q_root"],
-          answer: "r3_q_photosynthesis",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: SVG_R4,
-      bulletKeys: ["r4_fact1", "r4_fact2", "r4_fact3", "r4_fact4"],
-      questions: [
-        {
-          question: "r4_q",
-          choices: ["r4_chloroplasts", "r4_mitochondria", "r4_vacuoles", "r4_membranes"],
-          answer: "r4_chloroplasts",
-        },
-      ],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_title",
-      svg: SVG_R5,
-      questions: [
-        {
-          question: "q2_q",
-          choices: ["q2_a", "q2_b", "q2_c", "q2_d"],
-          answer: "q2_a",
-        },
-        {
-          question: "q3_q",
-          choices: ["q3_oxygen", "q3_co2", "q3_nitrogen", "q3_hydrogen"],
-          answer: "q3_oxygen",
-        },
-      ],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🌱",
+  topics: TOPICS,
+  rounds: [],
 };
 
-// ─────────────────────────────────────────────────────────────────────────────
-// COMPONENT
-// ─────────────────────────────────────────────────────────────────────────────
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-interface Props {
+const PlantExplorer = memo(function PlantExplorer({
+  color = "#16A34A", // Élénkzöld a növények miatt
+  onDone,
+  lang = "hu",
+}: {
   color?: string;
+  onDone: (s: number, t: number) => void;
   lang?: string;
-  onDone?: (score: number, total: number) => void;
-}
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="bio_k5_plants" 
+      color={color} 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+});
 
-export default function PlantExplorer({ color = "#6BCB77", lang = "en", onDone }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} />;
-}
+export default PlantExplorer;
