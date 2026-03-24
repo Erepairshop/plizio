@@ -1080,7 +1080,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       <group ref={leftArmRef} position={[-0.28, 0.22, 0]} rotation={[0.12, 0, -0.15]}>
 {/* Upper arm */}
 <mesh position={[0, -0.12, 0]}>
-  <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
+  <cylinderGeometry args={[0.045, 0.052, 0.24, 10]} />
   <meshStandardMaterial
     color={actualLimbColor}
     emissive={skinEmissive || '#000000'}
@@ -1103,7 +1103,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         {/* Forearm + hand (pivot = elbow at y=-0.24) */}
         <group ref={leftForearmRef} position={[0, -0.24, 0]}>
           <mesh position={[0, -0.09, 0]}>
-            <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
+            <cylinderGeometry args={[0.04, 0.045, 0.18, 10]} />
             <meshStandardMaterial
               color={actualLimbColor}
               emissive={skinEmissive || '#000000'}
@@ -1121,28 +1121,28 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   </mesh>
   {/* Mutatóujj */}
   <mesh position={[-0.030, -0.062, 0.008]} rotation={[0.15, 0, 0.08]}>
-    <cylinderGeometry args={[0.013, 0.016, 0.072, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.050, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Középső ujj */}
   <mesh position={[-0.010, -0.068, 0.008]} rotation={[0.12, 0, 0.02]}>
-    <cylinderGeometry args={[0.014, 0.016, 0.078, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.012, 0.054, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Gyűrűsujj */}
   <mesh position={[0.012, -0.064, 0.008]} rotation={[0.14, 0, -0.05]}>
-    <cylinderGeometry args={[0.013, 0.015, 0.072, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.050, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Kisujj */}
   <mesh position={[0.032, -0.056, 0.006]} rotation={[0.18, 0, -0.12]}>
-    <cylinderGeometry args={[0.011, 0.013, 0.058, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.009, 0.038, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Hüvelykujj */}
   <mesh position={[-0.052, -0.022, 0.010]} rotation={[0.1, 0, -0.75]}>
-    <cylinderGeometry args={[0.013, 0.016, 0.056, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.034, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
 </group>
         </group>
@@ -1152,7 +1152,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       <group ref={rightArmRef} position={[0.28, 0.22, 0]} rotation={[0.12, 0, 0.15]}>
         {/* Upper arm */}
         <mesh position={[0, -0.12, 0]}>
-          <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
+          <cylinderGeometry args={[0.045, 0.052, 0.24, 10]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -1164,7 +1164,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         {/* Forearm + hand (pivot = elbow at y=-0.24) */}
         <group ref={rightForearmRef} position={[0, -0.24, 0]}>
           <mesh position={[0, -0.09, 0]}>
-            <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
+            <cylinderGeometry args={[0.04, 0.045, 0.18, 10]} />
             <meshStandardMaterial
               color={actualLimbColor}
               emissive={skinEmissive || '#000000'}
@@ -1182,28 +1182,28 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   </mesh>
   {/* Mutatóujj */}
   <mesh position={[-0.030, -0.062, 0.008]} rotation={[0.15, 0, 0.08]}>
-    <cylinderGeometry args={[0.013, 0.016, 0.072, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.050, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Középső ujj */}
   <mesh position={[-0.010, -0.068, 0.008]} rotation={[0.12, 0, 0.02]}>
-    <cylinderGeometry args={[0.014, 0.016, 0.078, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.012, 0.054, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Gyűrűsujj */}
   <mesh position={[0.012, -0.064, 0.008]} rotation={[0.14, 0, -0.05]}>
-    <cylinderGeometry args={[0.013, 0.015, 0.072, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.050, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Kisujj */}
   <mesh position={[0.032, -0.056, 0.006]} rotation={[0.18, 0, -0.12]}>
-    <cylinderGeometry args={[0.011, 0.013, 0.058, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.009, 0.038, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
   {/* Hüvelykujj — tükrözve */}
   <mesh position={[0.052, -0.022, 0.010]} rotation={[0.1, 0, 0.75]}>
-    <cylinderGeometry args={[0.013, 0.016, 0.056, 5]} />
-    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+    <capsuleGeometry args={[0.011, 0.034, 3, 8]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.55} />
   </mesh>
 </group>
         </group>
@@ -1219,9 +1219,9 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   <sphereGeometry args={[0.075, 8, 6]} />
   <meshStandardMaterial color={actualLegColor} roughness={0.85} />
 </mesh>
-   {/* Bal talp */}
-<mesh position={[-0.11, -0.795, 0.05]}>
-  <boxGeometry args={[0.13, 0.055, 0.22]} />
+   {/* Bal talp — lekerekített talpgumó */}
+<mesh position={[-0.11, -0.800, 0.048]} rotation={[Math.PI / 2, 0, 0]} scale={[2.55, 1, 1]}>
+  <capsuleGeometry args={[0.026, 0.164, 3, 10]} />
   <meshStandardMaterial color={activeShoe?.sole || '#222222'} roughness={0.95} />
 </mesh>
 {/* Bal cipőfelsőrész */}
@@ -1255,9 +1255,9 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   <sphereGeometry args={[0.075, 8, 6]} />
   <meshStandardMaterial color={actualLegColor} roughness={0.85} />
 </mesh>
-{/* Jobb talp */}
-<mesh position={[0.11, -0.795, 0.05]}>
-  <boxGeometry args={[0.13, 0.055, 0.22]} />
+{/* Jobb talp — lekerekített talpgumó */}
+<mesh position={[0.11, -0.800, 0.048]} rotation={[Math.PI / 2, 0, 0]} scale={[2.55, 1, 1]}>
+  <capsuleGeometry args={[0.026, 0.164, 3, 10]} />
   <meshStandardMaterial color={activeShoe?.sole || '#222222'} roughness={0.95} />
 </mesh>
 {/* Jobb cipőfelsőrész */}
