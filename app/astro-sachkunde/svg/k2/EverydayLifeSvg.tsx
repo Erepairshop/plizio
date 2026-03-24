@@ -71,11 +71,11 @@ export const FamilyTreeSvg = memo(function FamilyTreeSvg({ lang = "de" }: { lang
       <path d="M 100 40 L 120 60 L 140 40 M 120 60 L 120 90 L 100 110 M 120 90 L 140 110" fill="none" stroke="#fff" strokeWidth="2" />
 
       {/* Family Nodes */}
-      <Node x="100" y="40" icon="👵" />
-      <Node x="140" y="40" icon="👴" />
-      <Node x="120" y="65" icon="👩‍❤️‍👨" />
-      <Node x="100" y="110" icon="👧" />
-      <Node x="140" y="110" icon="👦" />
+      <Node x={100} y={40} icon="👵" />
+      <Node x={140} y={40} icon="👴" />
+      <Node x={120} y={65} icon="👩‍❤️‍👨" />
+      <Node x={100} y={110} icon="👧" />
+      <Node x={140} y={110} icon="👦" />
 
       {/* Labels */}
       <rect x="15" y="34" width="60" height="12" rx="6" fill="#fff" filter="url(#labelBg)" />

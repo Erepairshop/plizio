@@ -309,9 +309,9 @@ export const RecyclingBinsSvg = memo(function RecyclingBinsSvg({ lang = "de" }: 
       <SharedDefs />
       <PlayfulBackground />
       
-      <Bin x="50" color="#3b82f6" icon="📰" />
-      <Bin x="120" color="#22c55e" icon="🍾" />
-      <Bin x="190" color="#eab308" icon="🥤" />
+      <Bin x={50} color="#3b82f6" icon="📰" />
+      <Bin x={120} color="#22c55e" icon="🍾" />
+      <Bin x={190} color="#eab308" icon="🥤" />
 
       {/* Labels */}
       <rect x="20" y="115" width="60" height="12" rx="6" fill="#fff" filter="url(#labelBg)" />
