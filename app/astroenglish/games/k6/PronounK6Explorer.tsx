@@ -1,6 +1,6 @@
 "use client";
-// PronounK6Explorer.tsx — AstroEnglish Grade 6: i1 Pronoun Peninsula
-// Topics: 1) Subject vs Object Pronouns 2) Possessive Pronouns 3) Reflexive Pronouns 4) Antecedent Agreement 5) Pronoun Catch
+// PronounPrecisionK6Explorer.tsx — AstroEnglish Grade 6: i2 Pronoun Precision
+// Topics: 1) Reflexive vs Intensive 2) Relative Pronouns 3) Demonstrative Pronouns 4) Interrogative 5) Precision Catch
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
@@ -11,15 +11,14 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/Explorer
 const Topic1Svg = memo(function Topic1Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#2E1065" rx="20" />
-      {/* Subject vs Object scales */}
-      <g transform="translate(120, 90)">
-        <polygon points="-40,0 40,0 0,-20" fill="#7E22CE" />
-        <rect x="-60" y="-30" width="40" height="30" fill="#FBBF24" rx="4" />
-        <text x="-40" y="-10" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#78350F">SHE</text>
-        <rect x="20" y="-30" width="40" height="30" fill="#F59E0B" rx="4" />
-        <text x="40" y="-10" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#78350F">HER</text>
-        <rect x="-10" y="0" width="20" height="40" fill="#581C87" />
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* Reflexive Mirror Concept */}
+      <g transform="translate(120, 70)">
+        <path d="M -50,0 Q 0,-40 50,0 T -50,0" fill="none" stroke="#818CF8" strokeWidth="3" />
+        <circle cx="0" cy="0" r="20" fill="#4338CA" />
+        <text x="0" y="5" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">SELF</text>
+        <path d="M -30,25 L 30,25" stroke="#FBBF24" strokeWidth="2" markerEnd="url(#arrow)" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#A5B4FC">Action reflects back</text>
       </g>
     </svg>
   );
@@ -28,29 +27,14 @@ const Topic1Svg = memo(function Topic1Svg() {
 const Topic2Svg = memo(function Topic2Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
-      {/* Possession Rings */}
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Relative Pronoun Linker */}
       <g transform="translate(120, 70)">
-        <ellipse cx="0" cy="0" rx="60" ry="20" fill="none" stroke="#A855F7" strokeWidth="4" />
-        <ellipse cx="0" cy="0" rx="40" ry="10" fill="none" stroke="#D8B4FE" strokeWidth="2" />
-        <circle cx="0" cy="0" r="15" fill="#FBBF24" />
-        <text x="0" y="45" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FDE68A">MINE / YOURS</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#4C1D95" rx="20" />
-      {/* Mirror (Reflexive) */}
-      <g transform="translate(120, 70)">
-        <rect x="-40" y="-30" width="80" height="60" fill="#C084FC" rx="10" />
-        <rect x="-35" y="-25" width="70" height="50" fill="#FAF5FF" rx="5" />
-        <text x="-10" y="5" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#7E22CE">I</text>
-        <path d="M 0,0 L 20,0" stroke="#9333EA" strokeWidth="2" markerEnd="url(#arrow)" />
-        <text x="15" y="20" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#9333EA">MYSELF</text>
+        <rect x="-80" y="-15" width="60" height="30" fill="#334155" rx="4" />
+        <rect x="20" y="-15" width="60" height="30" fill="#334155" rx="4" />
+        <circle cx="0" cy="0" r="15" fill="#F59E0B" />
+        <text x="0" y="4" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#451A03">THAT</text>
+        <path d="M -20,0 L 20,0" stroke="#FDE047" strokeWidth="2" strokeDasharray="4,2" />
       </g>
     </svg>
   );
@@ -59,13 +43,13 @@ const Topic3Svg = memo(function Topic3Svg() {
 const Topic5Svg = memo(function Topic5Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#020617" rx="20" />
-      {/* Saturnia rings */}
-      <circle cx="120" cy="70" r="30" fill="#6B21A8" />
-      <path d="M 60,70 Q 120,100 180,70 Q 120,40 60,70" fill="none" stroke="#FDE047" strokeWidth="4" />
-      <path d="M 40,70 Q 120,110 200,70 Q 120,30 40,70" fill="none" stroke="#FBBF24" strokeWidth="2" opacity="0.6" />
-      <circle cx="120" cy="70" r="30" fill="#7E22CE" clipPath="url(#top-half)" opacity="0.8" />
-      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#D8B4FE">Tap the floating pronouns!</text>
+      <rect width="240" height="140" fill="#171717" rx="20" />
+      {/* Precision Crosshair */}
+      <circle cx="120" cy="70" r="40" fill="none" stroke="#F43F5E" strokeWidth="1" />
+      <line x1="80" y1="70" x2="160" y2="70" stroke="#F43F5E" strokeWidth="1" />
+      <line x1="120" y1="30" x2="120" y2="110" stroke="#F43F5E" strokeWidth="1" />
+      <circle cx="120" cy="70" r="2" fill="#F43F5E" />
+      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FB7185">Tap the targets!</text>
     </svg>
   );
 });
@@ -74,68 +58,68 @@ const Topic5Svg = memo(function Topic5Svg() {
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    explorer_title: "Pronoun Peninsula",
+    explorer_title: "Pronoun Precision",
     
-    // T1: Subject vs Object
-    t1_title: "Subject vs. Object",
-    t1_text: "Pronouns change their form based on their job! SUBJECT pronouns do the action (I, He, She, We, They). OBJECT pronouns receive the action (Me, Him, Her, Us, Them).",
-    t1_b1: "Subject: 'She' threw the ball.",
-    t1_b2: "Object: The ball hit 'her'.",
-    t1_b3: "Sort them before they hit the ground!",
-    t1_inst: "Catch the falling words! Are they Subject (doers) or Object (receivers) pronouns?",
-    t1_bucket_subj: "Subject (He/They)",
-    t1_bucket_obj: "Object (Him/Them)",
-    t1_item_s1: "She", t1_item_s2: "We", t1_item_s3: "They",
-    t1_item_o1: "Her", t1_item_o2: "Us", t1_item_o3: "Them",
-    t1_q: "Which of the following is an OBJECT pronoun?",
-    t1_q_a: "him", t1_q_b: "he", t1_q_c: "they", t1_q_d: "we",
+    // T1: Reflexive & Intensive (PHYSICS BUCKET)
+    t1_title: "Reflexive vs. Intensive",
+    t1_text: "Both end in -self or -selves. REFLEXIVE is necessary for the sentence to make sense (The pilot saw himself). INTENSIVE is just for emphasis and can be removed (I built it myself).",
+    t1_b1: "Reflexive: He hurt himself.",
+    t1_b2: "Intensive: She herself made it.",
+    t1_b3: "If you can remove it, it's intensive!",
+    t1_inst: "Sort the pronouns into the correct gravity bucket!",
+    t1_bucket_ref: "Reflexive (Needed)",
+    t1_bucket_int: "Intensive (Extra)",
+    t1_item_r1: "I bought myself a gift.", t1_item_r2: "They taught themselves.",
+    t1_item_i1: "The King himself came.", t1_item_i2: "I'll do it myself.",
+    t1_q: "In 'He corrected the error himself', what type of pronoun is 'himself'?",
+    t1_q_a: "Intensive", t1_q_b: "Reflexive", t1_q_c: "Relative", t1_q_d: "Demonstrative",
 
-    // T2: Possessive Pronouns
-    t2_title: "Showing Ownership",
-    t2_text: "Possessive pronouns show that something belongs to someone. Independent possessives stand alone (mine, yours, hers, theirs) without a noun after them.",
-    t2_b1: "Adjective: That is 'my' ship.",
-    t2_b2: "Pronoun: That ship is 'mine'.",
-    t2_b3: "No apostrophes are used in theirs or hers!",
-    t2_inst: "Match the Subject pronoun to its absolute Possessive form!",
-    t2_l1: "I", t2_r1: "mine",
-    t2_l2: "They", t2_r2: "theirs",
-    t2_l3: "She", t2_r3: "hers",
-    t2_q: "Which word correctly completes: 'The victory is ___'?",
-    t2_q_a: "ours", t2_q_b: "our", t2_q_c: "we", t2_q_d: "us",
+    // T2: Relative Pronouns (MAGNET MATCH)
+    t2_title: "Relative Connections",
+    t2_text: "Relative pronouns (who, whom, whose, which, that) connect a dependent clause to a noun. 'Who' is for people, 'Which' is for things.",
+    t2_b1: "The girl WHO won is my friend.",
+    t2_b2: "The ship WHICH landed is huge.",
+    t2_b3: "Match the person or thing to the right relative pronoun!",
+    t2_inst: "Magnet Match: Connect the noun to its correct relative pronoun!",
+    t2_l1: "The scientist...", t2_r1: "...who found the moon.",
+    t2_l2: "The telescope...", t2_r2: "...which is very old.",
+    t2_l3: "The book...", t2_r3: "...that I read.",
+    t2_q: "Which relative pronoun is used ONLY for people?",
+    t2_q_a: "Who", t2_q_b: "Which", t2_q_c: "That", t2_q_d: "It",
 
-    // T3: Reflexive Pronouns (SLINGSHOT JÁTÉK)
-    t3_title: "The Mirror Pronouns",
-    t3_text: "Reflexive pronouns end in -self or -selves. We use them when the subject and the object are the SAME person. (e.g., I saw myself in the mirror).",
-    t3_b1: "Singular: myself, yourself, himself.",
-    t3_b2: "Plural: ourselves, yourselves, themselves.",
-    t3_b3: "Shoot the correct pronoun to complete the sentence!",
-    t3_inst: "The robot repaired ___.", // A kérdés a csúzlihoz
-    t3_target_1: "itself", // Helyes
-    t3_target_2: "him",
-    t3_target_3: "themselves",
-    t3_q: "What is the plural of 'yourself'?",
-    t3_q_a: "yourselves", t3_q_b: "yourselfs", t3_q_c: "ourselves", t3_q_d: "themself",
+    // T3: Demonstrative Pronouns (SLINGSHOT)
+    t3_title: "Pointing Pronouns",
+    t3_text: "Demonstrative pronouns point to specific things. THIS/THESE are for things near you. THAT/THOSE are for things far away.",
+    t3_b1: "Near: This is my desk.",
+    t3_b2: "Far: Those are the stars.",
+    t3_b3: "Shoot the correct pronoun based on distance!",
+    t3_inst: "Look at the distant stars! Shoot the pronoun for something FAR AWAY and PLURAL.",
+    t3_target_1: "Those", // Correct
+    t3_target_2: "These",
+    t3_target_3: "This",
+    t3_q: "Which word is the plural of 'that'?",
+    t3_q_a: "Those", t3_q_b: "These", t3_q_c: "They", t3_q_d: "Them",
 
-    // T4: Antecedent Agreement
-    t4_title: "Pronoun Agreement",
-    t4_text: "The 'antecedent' is the noun the pronoun replaces. The pronoun MUST agree with its antecedent in number (singular/plural) and gender.",
-    t4_b1: "Correct: 'John' brought 'his' bag.",
-    t4_b2: "Incorrect: 'The astronauts' lost 'his' map.",
-    t4_b3: "Match plural nouns with plural pronouns (they/their).",
-    t4_inst: "Highlight the correct pronoun that agrees with 'the team'!",
-    t4_tok0: "The", t4_tok1: "team", t4_tok2: "of", t4_tok3: "scientists", t4_tok4: "packed", t4_tok5: "their", t4_tok6: "equipment.",
-    t4_q: "What is wrong with: 'Every student must bring their own pencil' in strict formal writing?",
-    t4_q_a: "'Student' is singular, but 'their' is plural.", t4_q_b: "Nothing is wrong.", t4_q_c: "It needs a comma.", t4_q_d: "Pencil is misspelled.",
+    // T4: Interrogative Pronouns (HIGHLIGHT)
+    t4_title: "Asking Questions",
+    t4_text: "Interrogative pronouns (who, whom, whose, which, what) are used to ask questions. They stand in for the answer you are looking for.",
+    t4_b1: "WHO is the captain?",
+    t4_b2: "WHICH do you prefer?",
+    t4_b3: "They always lead the inquiry.",
+    t4_inst: "Highlight the Interrogative Pronoun in this question!",
+    t4_tok0: "Whose", t4_tok1: "is", t4_tok2: "this", t4_tok3: "broken", t4_tok4: "robot", t4_tok5: "lying", t4_tok6: "on", t4_tok7: "the", t4_tok8: "floor?",
+    t4_q: "What type of pronoun is used to start a question?",
+    t4_q_a: "Interrogative", t4_q_b: "Reflexive", t4_q_c: "Intensive", t4_q_d: "Relative",
 
     // T5: Fun Catch
-    t5_title: "Pronoun Orbit",
-    t5_text: "Excellent job navigating the Pronoun Peninsula! Collect the glowing spheres to power the Saturnia hyperdrive.",
-    t5_b1: "Pronouns replace nouns.",
-    t5_b2: "Keep your antecedents clear.",
-    t5_b3: "Catch 6 spheres!",
-    t5_inst: "Tap the 6 purple spheres (🟣) orbiting the planet!",
-    t5_q: "Which word is a Subject Pronoun?",
-    t5_q_a: "We", t5_q_b: "Us", t5_q_c: "Our", t5_q_d: "Ourselves",
+    t5_title: "Precision Complete",
+    t5_text: "Your pronoun precision is unmatched! You have navigated the ice rings of Saturnia with perfect accuracy.",
+    t5_b1: "Use -self for reflection.",
+    t5_b2: "Point clearly with demonstratives.",
+    t5_b3: "Catch 5 targets!",
+    t5_inst: "Tap the 5 red targeting markers (🎯) appearing in your visor!",
+    t5_q: "Which pronoun is Reflexive?",
+    t5_q_a: "Ourselves", t5_q_b: "Them", t5_q_c: "We", t5_q_d: "Those",
   }
 };
 
@@ -148,25 +132,20 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
-      // FIGYELEM: ITT A JELENLEG BEÉPÍTETT ÚJ FIZIKA MOTOR (GRAVITY DROP)
-      // Ha az ExplorerEngine még nem ismeri a "physics-bucket" típust, 
-      // cseréld "drag-to-bucket"-re a teszteléshez!
-      type: "physics-bucket", 
+      type: "physics-bucket",
       buckets: [
-        { id: "subj", label: "t1_bucket_subj" },
-        { id: "obj", label: "t1_bucket_obj" },
+        { id: "ref", label: "t1_bucket_ref" },
+        { id: "int", label: "t1_bucket_int" },
       ],
       items: [
-        { text: "t1_item_s1", bucketId: "subj" },
-        { text: "t1_item_o1", bucketId: "obj" },
-        { text: "t1_item_s2", bucketId: "subj" },
-        { text: "t1_item_o2", bucketId: "obj" },
-        { text: "t1_item_s3", bucketId: "subj" },
-        { text: "t1_item_o3", bucketId: "obj" },
+        { text: "t1_item_r1", bucketId: "ref" },
+        { text: "t1_item_i1", bucketId: "int" },
+        { text: "t1_item_r2", bucketId: "ref" },
+        { text: "t1_item_i2", bucketId: "int" },
       ],
       instruction: "t1_inst",
       hint1: "t1_b1",
-      hint2: "t1_b2",
+      hint2: "t1_b3",
     },
     quiz: {
       question: "t1_q",
@@ -180,15 +159,15 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
-      type: "match-pairs",
+      type: "physics-magnet",
       pairs: [
         { left: "t2_l1", right: "t2_r1" },
         { left: "t2_l2", right: "t2_r2" },
         { left: "t2_l3", right: "t2_r3" },
       ],
       instruction: "t2_inst",
-      hint1: "t2_b2",
-      hint2: "t2_b3",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
     },
     quiz: {
       question: "t2_q",
@@ -199,20 +178,19 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: () => <Topic1Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      // FIGYELEM: ITT A JELENLEG BEÉPÍTETT ÚJ FIZIKA MOTOR (SLINGSHOT)
       type: "physics-slingshot",
-      question: "t3_inst", // Ideális esetben kiírjuk a kérdést
+      question: "t3_inst",
       targets: [
-        { id: "t1", text: "t3_target_1", isCorrect: true }, // itself
-        { id: "t2", text: "t3_target_2", isCorrect: false }, // him
-        { id: "t3", text: "t3_target_3", isCorrect: false }, // themselves
+        { id: "tar1", text: "t3_target_1", isCorrect: true }, // Those
+        { id: "tar2", text: "t3_target_2", isCorrect: false },
+        { id: "tar3", text: "t3_target_3", isCorrect: false },
       ],
       instruction: "t3_inst",
-      hint1: "t3_b1",
-      hint2: "t3_b2",
+      hint1: "t3_b2",
+      hint2: "t3_b3",
     },
     quiz: {
       question: "t3_q",
@@ -223,15 +201,15 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: () => <Topic1Svg />,
+    svg: () => <Topic2Svg />,
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "highlight-text",
-      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5", "t4_tok6"],
-      correctIndices: [5], // "their"
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5", "t4_tok6", "t4_tok7", "t4_tok8"],
+      correctIndices: [0], // "Whose"
       instruction: "t4_inst",
-      hint1: "t4_b3",
-      hint2: "t4_b1",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
     },
     quiz: {
       question: "t4_q",
@@ -246,7 +224,7 @@ const TOPICS: TopicDef[] = [
     bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
     interactive: {
       type: "tap-count",
-      tapCount: { emoji: "🟣", count: 6 }, 
+      tapCount: { emoji: "🎯", count: 5 }, 
       instruction: "t5_inst",
       hint1: "t5_b1",
       hint2: "t5_b2",
@@ -264,15 +242,15 @@ const TOPICS: TopicDef[] = [
 const DEF: ExplorerDef = {
   labels: LABELS,
   title: "explorer_title",
-  icon: "👤",
+  icon: "🎯",
   topics: TOPICS,
   rounds: [],
 };
 
 // ─── EXPORT ─────────────────────────────────────────────────────────
 
-const PronounK6Explorer = memo(function PronounK6Explorer({
-  color = "#9333EA", // Purple-600 for the Saturnia gas giant theme
+const PronounPrecisionK6Explorer = memo(function PronounPrecisionK6Explorer({
+  color = "#6366F1", // Indigo-500
   onDone,
   lang = "en",
 }: {
@@ -284,7 +262,7 @@ const PronounK6Explorer = memo(function PronounK6Explorer({
     <ExplorerEngine 
       def={DEF} 
       grade={6} 
-      explorerId="english_k6_pronoun_peninsula" 
+      explorerId="english_k6_pronoun_precision" 
       color={color} 
       lang="en" // Forcing English ELA
       onDone={onDone} 
@@ -292,4 +270,4 @@ const PronounK6Explorer = memo(function PronounK6Explorer({
   );
 });
 
-export default PronounK6Explorer;
+export default PronounPrecisionK6Explorer;
