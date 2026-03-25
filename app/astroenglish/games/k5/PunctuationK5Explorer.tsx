@@ -1,331 +1,316 @@
 "use client";
+// PunctuationK5Explorer.tsx — AstroEnglish Grade 5: i5 Punctuation Port
+// Topics: 1) The Comma Review 2) The Colon (:) 3) The Semicolon (;) 4) The Dash (—) 5) Anchor Catch
 
-import React, { useState, useMemo, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
 
-type Phase = "info" | "question";
-type Lang = "en" | "de" | "hu" | "ro";
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
 
-interface Props {
-  color?: string;
-  onDone?: (score: number, total: number) => void;
-  lang?: Lang;
-}
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Commas sorting cargo */}
+      <g transform="translate(120, 70)">
+        <rect x="-80" y="-15" width="40" height="30" fill="#3B82F6" rx="4" />
+        <text x="-25" y="10" fontSize="30" fontWeight="black" fill="#FDE047">,</text>
+        <rect x="-10" y="-15" width="40" height="30" fill="#3B82F6" rx="4" />
+        <text x="45" y="10" fontSize="30" fontWeight="black" fill="#FDE047">,</text>
+        <rect x="60" y="-15" width="40" height="30" fill="#3B82F6" rx="4" />
+        <text x="10" y="40" textAnchor="middle" fontSize="10" fill="#93C5FD">Separating the cargo</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#164E63" rx="20" />
+      {/* The Colon Opening a Gate */}
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-15" width="60" height="30" fill="#0891B2" rx="4" />
+        <text x="-60" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">I need:</text>
+        
+        <circle cx="-10" cy="-10" r="5" fill="#FDE047" />
+        <circle cx="-10" cy="10" r="5" fill="#FDE047" />
+        
+        <path d="M 0,0 L 20,-20 L 20,20 Z" fill="#22D3EE" />
+        
+        <rect x="30" y="-25" width="60" height="10" fill="#06B6D4" rx="2" />
+        <rect x="30" y="-5" width="50" height="10" fill="#06B6D4" rx="2" />
+        <rect x="30" y="15" width="40" height="10" fill="#06B6D4" rx="2" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* The Semicolon Bridge */}
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-20" width="70" height="40" fill="#6366F1" rx="5" />
+        <text x="-55" y="4" textAnchor="middle" fontSize="10" fill="white">Idea 1</text>
+        
+        <circle cx="0" cy="-10" r="4" fill="#F43F5E" />
+        <path d="M 0,10 A 4,4 0 1,1 0,2 L 0,15 L -3,15 A 4,4 0 0,1 0,10" fill="#F43F5E" />
+        
+        <rect x="20" y="-20" width="70" height="40" fill="#8B5CF6" rx="5" />
+        <text x="55" y="4" textAnchor="middle" fontSize="10" fill="white">Idea 2</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#312E81" rx="20" />
+      {/* The Dash for emphasis */}
+      <g transform="translate(120, 70)">
+        <rect x="-80" y="-10" width="60" height="20" fill="#4F46E5" rx="4" />
+        <rect x="-10" y="-3" width="40" height="6" fill="#F59E0B" />
+        <rect x="40" y="-15" width="50" height="30" fill="#FDE68A" rx="4" />
+        <text x="65" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#78350F">SURPRISE!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#082F49" rx="20" />
+      {/* Port background with anchors */}
+      <rect x="0" y="100" width="240" height="40" fill="#0284C7" />
+      <path d="M 0,100 Q 30,90 60,100 T 120,100 T 180,100 T 240,100 L 240,140 L 0,140 Z" fill="#0369A1" />
+      <g transform="translate(120, 60)">
+        <circle cx="0" cy="-15" r="5" fill="none" stroke="#FDE047" strokeWidth="2" />
+        <line x1="0" y1="-10" x2="0" y2="15" stroke="#FDE047" strokeWidth="2" />
+        <path d="M -15,5 Q 0,20 15,5" fill="none" stroke="#FDE047" strokeWidth="2" />
+        <polygon points="-15,5 -18,0 -12,0" fill="#FDE047" />
+        <polygon points="15,5 12,0 18,0" fill="#FDE047" />
+        <line x1="-10" y1="0" x2="10" y2="0" stroke="#FDE047" strokeWidth="2" />
+      </g>
+      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#E0F2FE">Tap the space anchors!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    gotIt: "Got it! →",
-    next: "Next",
-    finish: "Finish",
-    correct: "Correct! ✓",
-    wrong: "Not quite!",
+    explorer_title: "Punctuation Port",
+    
+    // T1: The Comma Review
+    t1_title: "Comma Cargo",
+    t1_text: "Let's review the comma (,). We use it to separate items in a list, to connect independent clauses (with a FANBOYS word), and when directly addressing someone.",
+    t1_b1: "List: We need fuel, food, and water.",
+    t1_b2: "Address: Houston, we have a problem.",
+    t1_b3: "Compound: We ran, but we were late.",
+    t1_inst: "Highlight the comma in the sentence!",
+    t1_tok0: "Captain,", t1_tok1: "the", t1_tok2: "engines", t1_tok3: "are", t1_tok4: "ready", t1_tok5: "for", t1_tok6: "launch.",
+    t1_q: "Why is there a comma in 'John, please sit down'?",
+    t1_q_a: "Because someone is being directly addressed.", t1_q_b: "Because it's a list.", t1_q_c: "Because it connects two long sentences.", t1_q_d: "It's a mistake.",
 
-    r1_title: "Colons (:)",
-    r1_text: "Use a colon to introduce a list, explanation, or quote. Example: 'I need three things: milk, bread, and eggs.'",
-    r1_q: "Which sentence uses a colon correctly?",
-    r1_a: "I need three things: apples, oranges, and bananas.",
-    r1_b: "I need: three things apples oranges and bananas.",
-    r1_c: "I need three things, apples, oranges, and bananas.",
-    r1_d: "I need three things apples oranges and bananas.",
+    // T2: The Colon
+    t2_title: "The Colon Gate (:)",
+    t2_text: "A colon (:) looks like two dots stacked up. It is used to introduce a list of items or to give a strong explanation. It acts like a gate opening up to new information.",
+    t2_b1: "Rule 1: Use it before a list.",
+    t2_b2: "Example: I have three favorite planets: Mars, Venus, and Earth.",
+    t2_b3: "Rule 2: The sentence before the colon must be complete.",
+    t2_inst: "Fill in the gap to properly introduce the list!",
+    t2_sentence: "The astronaut packed her bag ___ a helmet, gloves, and boots.",
+    t2_c1: ":", t2_c2: ";", t2_c3: ",",
+    t2_q: "Which punctuation mark is used to introduce a list?",
+    t2_q_a: "Colon (:)", t2_q_b: "Semicolon (;)", t2_q_c: "Comma (,)", t2_q_d: "Period (.)",
 
-    r2_title: "Semicolons (;)",
-    r2_text: "Use a semicolon to join two independent clauses. Example: 'She wanted to go; however, it was raining.'",
-    r2_q: "Which sentence uses a semicolon correctly?",
-    r2_a: "She wanted to go; however it was raining.",
-    r2_b: "She wanted to go; but she stayed home.",
-    r2_c: "She wanted to go because; it was raining.",
-    r2_d: "She wanted to go; however, it was raining.",
+    // T3: The Semicolon
+    t3_title: "The Semicolon Bridge (;)",
+    t3_text: "A semicolon (;) looks like a dot over a comma. It links TWO independent clauses that are closely related, without using a joining word (like 'and' or 'but').",
+    t3_b1: "Sentence 1 ; Sentence 2.",
+    t3_b2: "Example: The stars are bright; the moon is full.",
+    t3_b3: "It is stronger than a comma, but softer than a period.",
+    t3_inst: "Match the closely related sentences to join them with a semicolon!",
+    t3_l1: "It is freezing outside;", t3_r1: "you must wear a spacesuit.",
+    t3_l2: "The engine is broken;", t3_r2: "we cannot launch today.",
+    t3_l3: "Mars is red;", t3_r3: "Neptune is blue.",
+    t3_q: "What does a semicolon connect?",
+    t3_q_a: "Two complete, related sentences.", t3_q_b: "A subject and a verb.", t3_q_c: "Items in a simple list.", t3_q_d: "A prefix and a root word.",
 
-    r3_title: "Apostrophes for Possession",
-    r3_text: "Add 's to show who owns something. Example: 'The cat's toy' or 'The boys' room'. Watch singular vs. plural!",
-    r3_q: "Which shows correct possession?",
-    r3_a: "The teachers book is here.",
-    r3_b: "The teacher's book is here.",
-    r3_c: "The teachers' book is here.",
-    r3_d: "The teacher book's is here.",
+    // T4: The Dash
+    t4_title: "The Dramatic Dash (—)",
+    t4_text: "A dash (—) is a long line used to show a sudden break in thought, or to add extra emphasis to the end of a sentence.",
+    t4_b1: "It creates drama or surprise!",
+    t4_b2: "Example: We opened the cargo bay—it was completely empty!",
+    t4_b3: "Don't confuse it with a short hyphen (-).",
+    t4_inst: "Sort the sentences: Do they use a Colon (List) or a Dash (Surprise/Emphasis)?",
+    t4_bucket_colon: "Colon (:)",
+    t4_bucket_dash: "Dash (—)",
+    t4_item_c1: "We need: air, food, and water.", t4_item_c2: "He saw two things: a star and a comet.",
+    t4_item_d1: "I looked up—a UFO was there!", t4_item_d2: "We won the race—barely.",
+    t4_q: "Which mark is best to show a sudden break in thought?",
+    t4_q_a: "Dash (—)", t4_q_b: "Colon (:)", t4_q_c: "Period (.)", t4_q_d: "Comma (,)",
 
-    r4_title: "Apostrophes for Contractions",
-    r4_text: "Use an apostrophe in contractions: don't, can't, it's, they're, won't. Example: 'I don't have time.'",
-    r4_q: "Which contraction is spelled correctly?",
-    r4_a: "She doesnt like swimming.",
-    r4_b: "She do'nt like swimming.",
-    r4_c: "She doesn't like swimming.",
-    r4_d: "She does'nt like swimming.",
-
-    r5_title: "⭐ Review Questions",
-    r5_text: "Let's check what you learned!",
-    r5_q1: "When do you use a colon?",
-    r5_op1: "Before a dependent clause",
-    r5_op2: "To introduce a list or explanation",
-    r5_op3: "To replace commas",
-    r5_op4: "Never",
-    r5_q2: "Which is a contraction?",
-    r5_op5: "Teachers' room",
-    r5_op6: "Can't",
-    r5_op7: "Book: pen",
-    r5_op8: "Very; happy",
-  },
-  de: {
-    gotIt: "Verstanden! →",
-    next: "Weiter",
-    finish: "Fertig",
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz!",
-
-    r1_title: "Doppelpunkt (:)",
-    r1_text: "Verwende einen Doppelpunkt um eine Liste oder Erklärung einzuleiten. Beispiel: 'Ich brauche drei Dinge: Milch, Brot und Eier.'",
-    r1_q: "Welcher Satz verwendet einen Doppelpunkt richtig?",
-    r1_a: "Ich brauche drei Dinge: Äpfel, Orangen und Bananen.",
-    r1_b: "Ich brauche: drei Dinge Äpfel Orangen und Bananen.",
-    r1_c: "Ich brauche drei Dinge, Äpfel, Orangen, und Bananen.",
-    r1_d: "Ich brauche drei Dinge Äpfel Orangen und Bananen.",
-
-    r2_title: "Semikolon (;)",
-    r2_text: "Verwende ein Semikolon um zwei Hauptsätze zu verbinden. Beispiel: 'Sie wollte gehen; jedoch regnete es.'",
-    r2_q: "Welcher Satz verwendet ein Semikolon richtig?",
-    r2_a: "Sie wollte gehen; aber sie blieb zu Hause.",
-    r2_b: "Sie wollte gehen; weil es regnete.",
-    r2_c: "Sie wollte gehen, jedoch; es regnete.",
-    r2_d: "Sie wollte gehen; jedoch regnete es.",
-
-    r3_title: "Apostroph für Besitz",
-    r3_text: "Füge 's hinzu um zu zeigen wem etwas gehört. Beispiel: 'Das Spielzeug der Katze' oder 'Das Zimmer der Jungen'.",
-    r3_q: "Welcher zeigt korrekten Besitz?",
-    r3_a: "Das Buch des Lehrers ist hier.",
-    r3_b: "Das Lehrer Buch ist hier.",
-    r3_c: "Das Lehrer's Buch ist hier.",
-    r3_d: "Das Buch's des Lehrers ist hier.",
-
-    r4_title: "Apostroph für Kontraktionen",
-    r4_text: "Verwende einen Apostroph in Kontraktionen: don't, can't, it's, they're, won't. Beispiel: 'Ich habe keine Zeit.'",
-    r4_q: "Welche Kontraktion ist richtig?",
-    r4_a: "Sie mag nicht schwimmen.",
-    r4_b: "Sie mag'nicht Schwimmen.",
-    r4_c: "She doesn't like swimming.",
-    r4_d: "Sie mag'n't Schwimmen.",
-
-    r5_title: "⭐ Wiederholungsfragen",
-    r5_text: "Lass uns überprüfen was du gelernt hast!",
-    r5_q1: "Wann verwendest du einen Doppelpunkt?",
-    r5_op1: "Vor einem Nebensatz",
-    r5_op2: "Um eine Liste oder Erklärung einzuleiten",
-    r5_op3: "Um Kommas zu ersetzen",
-    r5_op4: "Nie",
-    r5_q2: "Welches ist eine Kontraktion?",
-    r5_op5: "Das Zimmer der Lehrer",
-    r5_op6: "Don't",
-    r5_op7: "Buch: Stift",
-    r5_op8: "Sehr; glücklich",
-  },
-  hu: {
-    gotIt: "Értem! →",
-    next: "Tovább",
-    finish: "Kész",
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen!",
-
-    r1_title: "Kettőspont (:)",
-    r1_text: "Kettőspontot használj lista vagy magyarázat bevezetéséhez. Példa: 'Három dologra van szükségem: tej, kenyér és tojás.'",
-    r1_q: "Melyik mondat használja helyesen a kettőspontot?",
-    r1_a: "Szükségem van három dologra: alma, narancs és banán.",
-    r1_b: "Szükségem van: három dolog alma narancs és banán.",
-    r1_c: "Szükségem van három dologra, alma, narancs, és banán.",
-    r1_d: "Szükségem van három dolog alma narancs és banán.",
-
-    r2_title: "Pont-vesszős (;)",
-    r2_text: "Pont-vesszőt használj két független záradék összekapcsolásához. Példa: 'Menni akart; azonban esett az eső.'",
-    r2_q: "Melyik mondat használja helyesen a pont-vesszőst?",
-    r2_a: "Menni akart; de otthon maradt.",
-    r2_b: "Menni akart; mert esett az eső.",
-    r2_c: "Menni akart, azonban; esett az eső.",
-    r2_d: "Menni akart; azonban esett az eső.",
-
-    r3_title: "Aposztróf a Birtokláshoz",
-    r3_text: "Adj hozzá 's-t annak mutatására, hogy kié valamit. Példa: 'A macska játéka' vagy 'A fiúk szobája'.",
-    r3_q: "Melyik mutatja helyesen a birtoklást?",
-    r3_a: "A tanár könyve itt van.",
-    r3_b: "A tanár könyv itt van.",
-    r3_c: "A tanár's könyve itt van.",
-    r3_d: "A könyv's tanáré itt van.",
-
-    r4_title: "Aposztróf a Szóösszevonásokhoz",
-    r4_text: "Aposztróf használ szóösszevonásokban: don't, can't, it's, they're, won't. Példa: 'Nincs időm.'",
-    r4_q: "Melyik szóösszevonás helyes?",
-    r4_a: "Nem szereti az úszást.",
-    r4_b: "Nem'szereti az úszást.",
-    r4_c: "She doesn't like swimming.",
-    r4_d: "Nem'szereti az úszást.",
-
-    r5_title: "⭐ Ismétlő Kérdések",
-    r5_text: "Ellenőrizzük mit tanultál!",
-    r5_q1: "Mikor használsz kettőspontot?",
-    r5_op1: "Egy függő záradék előtt",
-    r5_op2: "Lista vagy magyarázat bevezetéséhez",
-    r5_op3: "Vesszők helyettesítéséhez",
-    r5_op4: "Soha",
-    r5_q2: "Melyik szóösszevonás?",
-    r5_op5: "A tanárok szobája",
-    r5_op6: "Can't",
-    r5_op7: "Könyv: toll",
-    r5_op8: "Nagyon; boldog",
-  },
-  ro: {
-    gotIt: "Înțeles! →",
-    next: "Următorul",
-    finish: "Gata",
-    correct: "Corect! ✓",
-    wrong: "Nu tocmai!",
-
-    r1_title: "Două Puncte (:)",
-    r1_text: "Folosește două puncte pentru a introduce o listă sau explicație. Exemplu: 'Am nevoie de trei lucruri: lapte, pâine și ouă.'",
-    r1_q: "Care propoziție folosește corect două puncte?",
-    r1_a: "Am nevoie de trei lucruri: mere, portocale și banane.",
-    r1_b: "Am nevoie: de trei lucruri mere portocale și banane.",
-    r1_c: "Am nevoie de trei lucruri, mere, portocale, și banane.",
-    r1_d: "Am nevoie de trei lucruri mere portocale și banane.",
-
-    r2_title: "Punct-Virgulă (;)",
-    r2_text: "Folosește punct-virgulă pentru a uni două clauze independente. Exemplu: 'Voia să meargă; totuși, ploua.'",
-    r2_q: "Care propoziție folosește corect punct-virgula?",
-    r2_a: "Voia să meargă; dar a rămas acasă.",
-    r2_b: "Voia să meargă; pentru că ploua.",
-    r2_c: "Voia să meargă, totuși; ploua.",
-    r2_d: "Voia să meargă; totuși, ploua.",
-
-    r3_title: "Apostrof pentru Posesie",
-    r3_text: "Adaugă 's pentru a arăta cui îi aparține ceva. Exemplu: 'Jucăria pisicii' sau 'Camera băieților'.",
-    r3_q: "Care arată corect posesia?",
-    r3_a: "Cartea profesorului este aici.",
-    r3_b: "Cartea profesor' este aici.",
-    r3_c: "Cartea profesor's este aici.",
-    r3_d: "Cartea's profesorului este aici.",
-
-    r4_title: "Apostrof pentru Contracții",
-    r4_text: "Folosește apostrof în contracții: don't, can't, it's, they're, won't. Exemplu: 'Nu am timp.'",
-    r4_q: "Care contracție este scrisă corect?",
-    r4_a: "Ea nu-i place inot.",
-    r4_b: "Ea nu'i place inot.",
-    r4_c: "She doesn't like swimming.",
-    r4_d: "Ea nu's place inot.",
-
-    r5_title: "⭐ Întrebări de Repetiție",
-    r5_text: "Să verificăm ce ai învățat!",
-    r5_q1: "Când folosești două puncte?",
-    r5_op1: "Înainte de o clauză dependentă",
-    r5_op2: "Pentru a introduce o listă sau explicație",
-    r5_op3: "Pentru a înlocui virgulele",
-    r5_op4: "Niciodată",
-    r5_q2: "Care este o contracție?",
-    r5_op5: "Camera profesorilor",
-    r5_op6: "Can't",
-    r5_op7: "Carte: pix",
-    r5_op8: "Foarte; fericit",
-  },
+    // T5: Fun Catch
+    t5_title: "Anchor Catch",
+    t5_text: "You have securely docked at the Punctuation Port! Now, help the space-ships drop their anchors.",
+    t5_b1: "Colons point forward.",
+    t5_b2: "Semicolons bridge the gap.",
+    t5_b3: "Catch 6 anchors!",
+    t5_inst: "Tap the 6 golden space anchors (⚓) in the port!",
+    t5_q: "Which punctuation mark is made of a dot above a comma?",
+    t5_q_a: "Semicolon", t5_q_b: "Colon", t5_q_c: "Dash", t5_q_d: "Apostrophe",
+  }
 };
 
-interface MCQQuestion {
-  question: string;
-  choices: string[];
-  answer: string;
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-export default function PunctuationK5Explorer({ color = "#EC4899", onDone, lang = "en" }: Props) {
-  const langCode = lang || "en";
-  const t = LABELS[langCode] || LABELS.en;
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_tok0", "t1_tok1", "t1_tok2", "t1_tok3", "t1_tok4", "t1_tok5", "t1_tok6"],
+      correctIndices: [0], // "Captain,"
+      instruction: "t1_inst",
+      hint1: "t1_b2",
+      hint2: "t1_b1",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t2_sentence",
+      choices: ["t2_c1", "t2_c2", "t2_c3"],
+      correctIndex: 0, // ":"
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b2",
+      hint2: "t3_b1",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "colon", label: "t4_bucket_colon" },
+        { id: "dash", label: "t4_bucket_dash" },
+      ],
+      items: [
+        { text: "t4_item_c1", bucketId: "colon" },
+        { text: "t4_item_d1", bucketId: "dash" },
+        { text: "t4_item_c2", bucketId: "colon" },
+        { text: "t4_item_d2", bucketId: "dash" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b2",
+      hint2: "t4_b1",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "⚓", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
-  const [selected, setSelected] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const [score, setScore] = useState(0);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  const questionsPerRound = useMemo(() => {
-    if (round < 4) return [{ question: `r${round + 1}_q`, choices: [`r${round + 1}_a`, `r${round + 1}_b`, `r${round + 1}_c`, `r${round + 1}_d`], answer: `r${round + 1}_a` }];
-    return [
-      { question: "r5_q1", choices: ["r5_op1", "r5_op2", "r5_op3", "r5_op4"], answer: "r5_op2" },
-      { question: "r5_q2", choices: ["r5_op5", "r5_op6", "r5_op7", "r5_op8"], answer: "r5_op6" },
-    ];
-  }, [round]);
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "✏️",
+  topics: TOPICS,
+  rounds: [],
+};
 
-  const handleAnswer = useCallback((choice: string) => {
-    if (locked) return;
-    setSelected(choice);
-    setLocked(true);
-    if (choice === questionsPerRound[0].answer) {
-      setScore(s => s + 1);
-    }
-    setTimeout(() => {
-      if (round < 4) {
-        setRound(r => r + 1);
-        setPhase("info");
-        setSelected(null);
-        setLocked(false);
-      } else {
-        onDone?.(score + (choice === questionsPerRound[0].answer ? 1 : 0), 5);
-      }
-    }, 1200);
-  }, [locked, round, questionsPerRound, score, onDone]);
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-  const infoBgs: Record<number, string> = {
-    0: "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)",
-    1: "linear-gradient(135deg, #e0e7ff 0%, #ddd6fe 100%)",
-    2: "linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%)",
-    3: "linear-gradient(135deg, #fef3c7 0%, #fde68a 100%)",
-    4: "linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)",
-  };
-
+const PunctuationK5Explorer = memo(function PunctuationK5Explorer({
+  color = "#0891B2", // Cyan-600 for the Port/Nautical tech vibe
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {phase === "info" && (
-        <motion.div className="bg-white/95 rounded-3xl p-8 text-center"
-          style={{ background: infoBgs[round] }}
-          initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-          <h2 className="text-2xl font-black text-slate-800 mb-4">{t[`r${round + 1}_title`] || "Punctuation"}</h2>
-          <p className="text-slate-700 text-sm leading-relaxed mb-4">{t[`r${round + 1}_text`] || ""}</p>
-          <motion.button
-            onClick={() => setPhase("question")}
-            className="px-6 py-3 rounded-full font-bold text-white transition-all"
-            style={{ background: color }}
-            whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            {t.gotIt}
-          </motion.button>
-        </motion.div>
-      )}
-
-      <AnimatePresence mode="wait">
-        {phase === "question" && (
-          <motion.div key={`q-${round}`} className="bg-white/95 rounded-3xl p-8"
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-            <p className="text-lg font-bold text-center mb-6 text-slate-800">{t[questionsPerRound[0].question] || ""}</p>
-            <div className="grid grid-cols-1 gap-3">
-              {questionsPerRound[0].choices.map((ch) => (
-                <motion.button
-                  key={ch}
-                  onClick={() => handleAnswer(ch)}
-                  className={`py-4 px-4 rounded-2xl font-bold text-sm transition-all border-2 ${
-                    selected === ch
-                      ? ch === questionsPerRound[0].answer
-                        ? "bg-green-500 border-green-500 text-white"
-                        : "bg-red-100 border-red-300 text-red-600 opacity-70"
-                      : "bg-white border-slate-200 text-slate-700 hover:border-slate-400"
-                  }`}
-                  disabled={locked}
-                  whileHover={!locked ? { scale: 1.02 } : {}}>
-                  {t[ch] || ""}
-                </motion.button>
-              ))}
-            </div>
-            {locked && (
-              <motion.div className="mt-4 text-center font-bold"
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <span className={selected === questionsPerRound[0].answer ? "text-green-600" : "text-red-600"}>
-                  {selected === questionsPerRound[0].answer ? t.correct : t.wrong}
-                </span>
-              </motion.div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="english_k5_punctuation_port" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
   );
-}
+});
+
+export default PunctuationK5Explorer;
