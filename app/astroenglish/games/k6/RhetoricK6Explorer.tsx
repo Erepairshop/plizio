@@ -1,323 +1,280 @@
 "use client";
+// RhetoricK6Explorer.tsx — AstroEnglish Grade 6: i9 Rhetoric Reef
+// Topics: 1) Ethos, Pathos, Logos 2) Formal vs Informal 3) Claims & Evidence 4) Logical Fallacies 5) Megaphone Catch
 
-import React, { useState, useMemo, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
 
-type Phase = "info" | "question";
-type Lang = "en" | "de" | "hu" | "ro";
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
 
-interface Props {
-  color?: string;
-  onDone?: (score: number, total: number) => void;
-  lang?: Lang;
-}
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* The Triangle of Persuasion */}
+      <g transform="translate(120, 75)">
+        <polygon points="0,-45 45,35 -45,35" fill="none" stroke="#FDE047" strokeWidth="3" />
+        <circle cx="0" cy="-45" r="8" fill="#F43F5E" /> {/* Pathos - Heart/Top */}
+        <circle cx="45" cy="35" r="8" fill="#3B82F6" />  {/* Logos - Brain/Right */}
+        <circle cx="-45" cy="35" r="8" fill="#10B981" /> {/* Ethos - Shield/Left */}
+        <text x="0" y="-55" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#F43F5E">PATHOS</text>
+        <text x="55" y="50" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#3B82F6">LOGOS</text>
+        <text x="-55" y="50" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#10B981">ETHOS</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Rhetorical Waves (Speaker/Mic) */}
+      <g transform="translate(120, 70)">
+        <rect x="-10" y="-20" width="20" height="40" fill="#94A3B8" rx="10" />
+        <path d="M 15,-15 Q 30,0 15,15" fill="none" stroke="#38BDF8" strokeWidth="3" />
+        <path d="M 25,-25 Q 45,0 25,25" fill="none" stroke="#38BDF8" strokeWidth="2" opacity="0.6" />
+        <text x="0" y="45" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#BAE6FD">Choose your words!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#4C1D95" rx="20" />
+      {/* Megaphones / Communication */}
+      <g transform="translate(120, 70)">
+        <path d="M -20,0 L 20,-20 L 20,20 L -20,0" fill="#FBBF24" />
+        <rect x="-25" y="-5" width="10" height="15" fill="#F59E0B" />
+        <circle cx="25" cy="0" r="10" fill="none" stroke="#FDE047" strokeWidth="2" />
+        <text x="0" y="55" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FDE68A">Tap the Megaphones!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    gotIt: "Got it! →",
-    correct: "Correct! ✓",
-    wrong: "Not quite!",
+    explorer_title: "Rhetoric Reef",
+    
+    // T1: Ethos, Pathos, Logos (PHYSICS BUCKET)
+    t1_title: "The Pillars of Persuasion",
+    t1_text: "To convince an audience, you need three things: ETHOS (trust/authority), PATHOS (feelings/emotion), and LOGOS (facts/logic).",
+    t1_b1: "Ethos: 'As a doctor with 20 years of experience...'",
+    t1_b2: "Pathos: 'Think of the poor, hungry puppies...'",
+    t1_b3: "Logos: 'Data shows that 80% of orbits are safe.'",
+    t1_inst: "Catch the arguments and drop them into the correct pillar!",
+    t1_bucket_eth: "Ethos (Trust)",
+    t1_bucket_pat: "Pathos (Emotion)",
+    t1_bucket_log: "Logos (Logic)",
+    t1_item_e1: "Trust me, I'm an expert.", t1_item_e2: "The Captain recommends it.",
+    t1_item_p1: "Your family will be proud.", t1_item_p2: "Don't let them suffer.",
+    t1_item_l1: "9 out of 10 stars agree.", t1_item_l2: "It costs 50% less fuel.",
+    t1_q: "Which pillar uses statistics and facts to persuade?",
+    t1_q_a: "Logos", t1_q_b: "Ethos", t1_q_c: "Pathos", t1_q_d: "Apostrophe",
 
-    r1_title: "Ethos (Credibility)",
-    r1_text: "Ethos persuades through credibility and authority. Example: A doctor arguing about health uses their expertise. 'As a medical professional with 20 years of experience, I...'",
-    r1_q: "Which uses ETHOS?",
-    r1_a: "Everyone loves ice cream, so buy this brand!",
-    r1_b: "As a nutrition expert, I recommend this product.",
-    r1_c: "This ice cream will make you happy!",
-    r1_d: "Ice cream is delicious.",
+    // T2: Formal vs Informal (MAGNET MATCH)
+    t2_title: "Tone & Audience",
+    t2_text: "Rhetoric is about choosing the right tone for your audience. Formal language is precise and respectful. Informal language is casual and uses slang.",
+    t2_b1: "Formal: 'I apologize for the delay.'",
+    t2_b2: "Informal: 'Sorry I'm late!'",
+    t2_b3: "Match the pairs to see the difference.",
+    t2_inst: "Magnet Match: Connect the informal phrase to its formal professional version!",
+    t2_l1: "Hey, what's up?", t2_r1: "Greetings, how are you?",
+    t2_l2: "This is cool.", t2_r2: "This is remarkable.",
+    t2_l3: "Thanks a lot!", t2_r3: "I appreciate your help.",
+    t2_q: "When would you use a FORMAL tone?",
+    t2_q_a: "In a letter to a Principal.", t2_q_b: "Texting a friend.", t2_q_c: "At a birthday party.", t2_q_d: "Playing video games.",
 
-    r2_title: "Pathos (Emotion)",
-    r2_text: "Pathos persuades through emotion and personal connection. Example: 'Imagine your child's smile when they get this gift.' It appeals to feelings, not logic.",
-    r2_q: "Which uses PATHOS?",
-    r2_a: "Research shows 90% prefer this.",
-    r2_b: "I've been using this for 5 years.",
-    r2_c: "Picture families playing together, laughing without worry.",
-    r2_d: "This costs $50.",
+    // T3: Claims & Evidence (HIGHLIGHT)
+    t3_title: "Claims & Evidence",
+    t3_text: "A 'Claim' is your main argument. 'Evidence' is the proof that supports your claim. Without evidence, a claim is just an opinion!",
+    t3_b1: "Claim: Space travel is important.",
+    t3_b2: "Evidence: It leads to new technology like GPS.",
+    t3_b3: "Always back up your words with facts.",
+    t3_inst: "Highlight the sentence that represents the MAIN CLAIM of the paragraph!",
+    t3_tok0: "Mars", t3_tok1: "is", t3_tok2: "the", t3_tok3: "best", t3_tok4: "place", t3_tok5: "to", t3_tok6: "live.", t3_tok7: "It", t3_tok8: "has", t3_tok9: "frozen", t3_tok10: "water", t3_tok11: "and", t3_tok12: "rocks.",
+    t3_q: "What do you call a statement that tells the reader your position on an issue?",
+    t3_q_a: "Claim", t3_q_b: "Evidence", t3_q_c: "Greeting", t3_q_d: "Climax",
 
-    r3_title: "Logos (Logic)",
-    r3_text: "Logos persuades through facts, data, and logical reasoning. Example: 'Studies show that 95% of dentists recommend this toothpaste.' It uses evidence.",
-    r3_q: "Which uses LOGOS?",
-    r3_a: "Everyone will love you if you buy this!",
-    r3_b: "This makes you feel powerful and confident.",
-    r3_c: "Research from Harvard shows this reduces risk by 40%.",
-    r3_d: "Famous celebrities use this product.",
+    // T4: Logical Fallacies (SLINGSHOT)
+    t4_title: "Weak Arguments",
+    t4_text: "A logical fallacy is a mistake in reasoning. Some people use them to trick you! For example, the 'Bandwagon' fallacy says you should do something just because everyone else is doing it.",
+    t4_b1: "Avoid 'hasty generalizations'.",
+    t4_b2: "Don't attack the person, attack the idea.",
+    t4_b3: "Shoot the fallacy to clear the air!",
+    t4_inst: "Shoot the asteroid that contains a LOGICAL FALLACY (a weak argument)!",
+    t4_target_1: "Everyone loves it, so it's good!", // Bandwagon Fallacy
+    t4_target_2: "Studies show it is safe.",
+    t4_target_3: "I saw the evidence myself.",
+    t4_q: "What is a 'Logical Fallacy'?",
+    t4_q_a: "A flaw or error in reasoning.", t4_q_b: "A very strong fact.", t4_q_c: "A beautiful poem.", t4_q_d: "A type of punctuation.",
 
-    r4_title: "Combining Ethos, Pathos, Logos",
-    r4_text: "Good arguments often mix all three. Example: 'As a coach (ethos), I understand your desire to be fit (pathos), and studies prove this method works (logos).'",
-    r4_q: "Which sentence uses ETHOS + PATHOS + LOGOS?",
-    r4_a: "Buy this now because it's on sale.",
-    r4_b: "As a teacher, I know learning is hard, and research shows this helps.",
-    r4_c: "Everyone wants to be healthy.",
-    r4_d: "This product is amazing.",
-
-    r5_title: "⭐ Review Questions",
-    r5_text: "Let's check what you learned!",
-    r5_q1: "Which persuades through EMOTION?",
-    r5_op1: "Ethos",
-    r5_op2: "Logos",
-    r5_op3: "Pathos",
-    r5_op4: "Rhetoric",
-    r5_q2: "Which uses evidence and facts?",
-    r5_op5: "Ethos",
-    r5_op6: "Pathos",
-    r5_op7: "Logos",
-    r5_op8: "Tone",
-  },
-  de: {
-    gotIt: "Verstanden! →",
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz!",
-
-    r1_title: "Ethos (Glaubwürdigkeit)",
-    r1_text: "Ethos überzeugt durch Glaubwürdigkeit und Autorität. Beispiel: Ein Arzt argumentiert über Gesundheit mit Fachwissen. 'Als Mediziner mit 20 Jahren Erfahrung...'",
-    r1_q: "Welcher nutzt ETHOS?",
-    r1_a: "Jeder mag Eis, also kaufe diese Marke!",
-    r1_b: "Als Ernährungsexperte empfehle ich dieses Produkt.",
-    r1_c: "Dieses Eis macht dich glücklich!",
-    r1_d: "Eis ist köstlich.",
-
-    r2_title: "Pathos (Emotion)",
-    r2_text: "Pathos überzeugt durch Emotion und persönliche Verbindung. Beispiel: 'Stell dir das Lächeln deines Kindes vor.' Es spricht Gefühle an, nicht Logik.",
-    r2_q: "Welcher nutzt PATHOS?",
-    r2_a: "Forschung zeigt 90% bevorzugen dieses.",
-    r2_b: "Ich nutze dieses 5 Jahre.",
-    r2_c: "Stell dir Familien vor, gemeinsam lachend ohne Sorge.",
-    r2_d: "Dies kostet 50 Euro.",
-
-    r3_title: "Logos (Logik)",
-    r3_text: "Logos überzeugt durch Fakten, Daten und logisches Denken. Beispiel: 'Studien zeigen 95% der Zahnärzte empfehlen dies.' Es nutzt Beweise.",
-    r3_q: "Welcher nutzt LOGOS?",
-    r3_a: "Jeder wird dich lieben wenn du dies kaufst!",
-    r3_b: "Dies macht dich stark und zuversichtlich.",
-    r3_c: "Harvard-Forschung zeigt das reduziert Risiko um 40%.",
-    r3_d: "Berühmte Prominente nutzen dieses Produkt.",
-
-    r4_title: "Ethos, Pathos, Logos Kombinieren",
-    r4_text: "Gute Argumente mischen oft alle drei. Beispiel: 'Als Trainer (ethos) verstehe ich dein Ziel (pathos), und Studien zeigen dies funktioniert (logos).'",
-    r4_q: "Welcher nutzt ETHOS + PATHOS + LOGOS?",
-    r4_a: "Kaufe dies jetzt weil es Rabatt gibt.",
-    r4_b: "Als Lehrer weiß ich Lernen ist schwer, und Forschung zeigt dies hilft.",
-    r4_c: "Jeder will gesund sein.",
-    r4_d: "Dieses Produkt ist fantastisch.",
-
-    r5_title: "⭐ Wiederholungsfragen",
-    r5_text: "Lass uns überprüfen was du gelernt hast!",
-    r5_q1: "Welcher überzeugt durch EMOTION?",
-    r5_op1: "Ethos",
-    r5_op2: "Logos",
-    r5_op3: "Pathos",
-    r5_op4: "Rhetorik",
-    r5_q2: "Welcher nutzt Beweise und Fakten?",
-    r5_op5: "Ethos",
-    r5_op6: "Pathos",
-    r5_op7: "Logos",
-    r5_op8: "Ton",
-  },
-  hu: {
-    gotIt: "Értem! →",
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen!",
-
-    r1_title: "Ethos (Hitelesség)",
-    r1_text: "Az ethos hitelesség és tekintély segítségével persuadál. Példa: Egy orvos egészségről érvel szakértelmével. 'Mint orvos 20 éves tapasztalattal...'",
-    r1_q: "Melyik használ ETHOS-t?",
-    r1_a: "Mindenki szereti a fagylaltot, tehát vedd ezt a márkát!",
-    r1_b: "Mint táplálkozási szakértő, ezt ajánlom.",
-    r1_c: "Ez a fagylalt boldoggá tesz!",
-    r1_d: "A fagylalt finom.",
-
-    r2_title: "Pathos (Érzelem)",
-    r2_text: "A pathos érzelem és személyes kapcsolat segítségével persuadál. Példa: 'Képzeld el gyermeked mosolyát.' Az érzelmi szinttel szól, nem logikával.",
-    r2_q: "Melyik használ PATHOS-t?",
-    r2_a: "Kutatás mutatja 90% ezt szereti.",
-    r2_b: "5 éve ezt használom.",
-    r2_c: "Képzeld el az családokat együtt nevetni, gondnélkül.",
-    r2_d: "Ez 50 forint.",
-
-    r3_title: "Logos (Logika)",
-    r3_text: "A logos tények, adatok és logikus érvelés segítségével persuadál. Példa: 'Tanulmányok mutatják 95% fogorvos ezt ajánlja.' Bizonyítékot használ.",
-    r3_q: "Melyik használ LOGOS-t?",
-    r3_a: "Mindenki szeretni fog ha ezt veszed!",
-    r3_b: "Ez erőssé és magabiztossá tesz.",
-    r3_c: "Harvard kutatás mutatja ez 40%-kal csökkenti a kockázatot.",
-    r3_d: "Híres celebek ezt a terméket használják.",
-
-    r4_title: "Ethos, Pathos, Logos Kombinálása",
-    r4_text: "Jó érvelések szokják mind a hármat keverni. Példa: 'Mint edző (ethos) értem célod (pathos), és tanulmányok mutatják ez működik (logos).'",
-    r4_q: "Melyik használ ETHOS + PATHOS + LOGOS-t?",
-    r4_a: "Vedd ezt most mert akción van.",
-    r4_b: "Mint tanár tudom a tanulás nehéz, és kutatás mutatja ez segít.",
-    r4_c: "Mindenki egészséges lenni akar.",
-    r4_d: "Ez a termék nagyszerű.",
-
-    r5_title: "⭐ Ismétlő Kérdések",
-    r5_text: "Ellenőrizzük mit tanultál!",
-    r5_q1: "Melyik persuadál ÉRZELEM segítségével?",
-    r5_op1: "Ethos",
-    r5_op2: "Logos",
-    r5_op3: "Pathos",
-    r5_op4: "Retorika",
-    r5_q2: "Melyik használ bizonyítékot és tényeket?",
-    r5_op5: "Ethos",
-    r5_op6: "Pathos",
-    r5_op7: "Logos",
-    r5_op8: "Hang",
-  },
-  ro: {
-    gotIt: "Înțeles! →",
-    correct: "Corect! ✓",
-    wrong: "Nu tocmai!",
-
-    r1_title: "Ethos (Credibilitate)",
-    r1_text: "Ethos persuadează prin credibilitate și autoritate. Exemplu: Un doctor argumentând despre sănătate folosind expertiza. 'Ca profesionist medical cu 20 ani de experiență...'",
-    r1_q: "Care folosește ETHOS?",
-    r1_a: "Toată lumea iubește inghetata, deci cumpără această marcă!",
-    r1_b: "Ca expert în nutriție, recomand acest produs.",
-    r1_c: "Această inghetata te va face fericit!",
-    r1_d: "Inghetata este delicioasă.",
-
-    r2_title: "Pathos (Emoție)",
-    r2_text: "Pathos persuadează prin emoție și conexiune personală. Exemplu: 'Imaginează-ți zâmbetul copilului tău.' Apelează la sentimente, nu la logică.",
-    r2_q: "Care folosește PATHOS?",
-    r2_a: "Cercetarea arată 90% preferă aceasta.",
-    r2_b: "Folosesc aceasta de 5 ani.",
-    r2_c: "Imaginează-ți familiile jucând împreună, rând fără griji.",
-    r2_d: "Aceasta costă 50 lei.",
-
-    r3_title: "Logos (Logică)",
-    r3_text: "Logos persuadează prin fapte, date și raționament logic. Exemplu: 'Studiile arată că 95% din stomatologi recomandă aceasta.' Folosește dovezi.",
-    r3_q: "Care folosește LOGOS?",
-    r3_a: "Toată lumea te va iubi dacă cumperi aceasta!",
-    r3_b: "Aceasta te face puternic și încrezător.",
-    r3_c: "Cercetarea Harvard arată aceasta reduce riscul cu 40%.",
-    r3_d: "Celebritati celebre folosesc acest produs.",
-
-    r4_title: "Combinând Ethos, Pathos, Logos",
-    r4_text: "Argumentele bune adesea amestecă toate trei. Exemplu: 'Ca antrenor (ethos), înțeleg dorința ta (pathos), și studiile arată aceasta funcționează (logos).'",
-    r4_q: "Care propoziție folosește ETHOS + PATHOS + LOGOS?",
-    r4_a: "Cumpără aceasta acum pentru că e în ofertă.",
-    r4_b: "Ca profesor, știu că învățarea e grea, și cercetarea arată aceasta ajută.",
-    r4_c: "Toată lumea vrea să fie sănătoasă.",
-    r4_d: "Acest produs este minunat.",
-
-    r5_title: "⭐ Întrebări de Repetiție",
-    r5_text: "Să verificăm ce ai învățat!",
-    r5_q1: "Care persuadează prin EMOȚIE?",
-    r5_op1: "Ethos",
-    r5_op2: "Logos",
-    r5_op3: "Pathos",
-    r5_op4: "Retorică",
-    r5_q2: "Care folosește dovezi și fapte?",
-    r5_op5: "Ethos",
-    r5_op6: "Pathos",
-    r5_op7: "Logos",
-    r5_op8: "Ton",
-  },
+    // T5: Fun Catch
+    t5_title: "Great Orator",
+    t5_text: "You've mastered the Rhetoric Reef! You can now speak with the authority of a Saturnian Senator.",
+    t5_b1: "Ethos, Pathos, Logos.",
+    t5_b2: "Mind your tone.",
+    t5_b3: "Catch 6 Megaphones!",
+    t5_inst: "Tap the 6 golden megaphones (📢) floating in the reef!",
+    t5_q: "Which pillar of rhetoric appeals to the audience's emotions?",
+    t5_q_a: "Pathos", t5_q_b: "Ethos", t5_q_c: "Logos", t5_q_d: "Chronos",
+  }
 };
 
-interface MCQQuestion {
-  question: string;
-  choices: string[];
-  answer: string;
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-export default function RhetoricK6Explorer({ color = "#F59E0B", onDone, lang = "en" }: Props) {
-  const langCode = lang || "en";
-  const t = LABELS[langCode] || LABELS.en;
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket", // GRAVITÁCIÓS SZÓ-ESÉS
+      buckets: [
+        { id: "eth", label: "t1_bucket_eth" },
+        { id: "pat", label: "t1_bucket_pat" },
+        { id: "log", label: "t1_bucket_log" },
+      ],
+      items: [
+        { text: "t1_item_e1", bucketId: "eth" },
+        { text: "t1_item_p1", bucketId: "pat" },
+        { text: "t1_item_l1", bucketId: "log" },
+        { text: "t1_item_e2", bucketId: "eth" },
+        { text: "t1_item_p2", bucketId: "pat" },
+        { text: "t1_item_l2", bucketId: "log" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet", // MÁGNESES PÁROSÍTÓ
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6"],
+      correctIndices: [0, 1, 2, 3, 4, 5, 6], // "Mars is the best place to live."
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot", // ASZTEROIDA CSÚZLI
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📢", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
-  const [selected, setSelected] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const [score, setScore] = useState(0);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  const questionsPerRound = useMemo(() => {
-    if (round < 4) return [{ question: `r${round + 1}_q`, choices: [`r${round + 1}_a`, `r${round + 1}_b`, `r${round + 1}_c`, `r${round + 1}_d`], answer: `r${round + 1}_b` }];
-    return [
-      { question: "r5_q1", choices: ["r5_op1", "r5_op2", "r5_op3", "r5_op4"], answer: "r5_op3" },
-      { question: "r5_q2", choices: ["r5_op5", "r5_op6", "r5_op7", "r5_op8"], answer: "r5_op7" },
-    ];
-  }, [round]);
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🗣️",
+  topics: TOPICS,
+  rounds: [],
+};
 
-  const handleAnswer = useCallback((choice: string) => {
-    if (locked) return;
-    setSelected(choice);
-    setLocked(true);
-    if (choice === questionsPerRound[0].answer) {
-      setScore(s => s + 1);
-    }
-    setTimeout(() => {
-      if (round < 4) {
-        setRound(r => r + 1);
-        setPhase("info");
-        setSelected(null);
-        setLocked(false);
-      } else {
-        onDone?.(score + (choice === questionsPerRound[0].answer ? 1 : 0), 5);
-      }
-    }, 1200);
-  }, [locked, round, questionsPerRound, score, onDone]);
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-  const infoBgs: Record<number, string> = {
-    0: "linear-gradient(135deg, #fef3c7 0%, #fde68a 100%)",
-    1: "linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)",
-    2: "linear-gradient(135deg, #fecdd3 0%, #fca5a5 100%)",
-    3: "linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%)",
-    4: "linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%)",
-  };
-
+const RhetoricK6Explorer = memo(function RhetoricK6Explorer({
+  color = "#C026D3", // Fuchsia-600
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {phase === "info" && (
-        <motion.div className="bg-white/95 rounded-3xl p-8 text-center"
-          style={{ background: infoBgs[round] }}
-          initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-          <h2 className="text-2xl font-black text-slate-800 mb-4">{t[`r${round + 1}_title`] || "Rhetoric"}</h2>
-          <p className="text-slate-700 text-sm leading-relaxed mb-4">{t[`r${round + 1}_text`] || ""}</p>
-          <motion.button
-            onClick={() => setPhase("question")}
-            className="px-6 py-3 rounded-full font-bold text-white transition-all"
-            style={{ background: color }}
-            whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            {t.gotIt}
-          </motion.button>
-        </motion.div>
-      )}
-
-      <AnimatePresence mode="wait">
-        {phase === "question" && (
-          <motion.div key={`q-${round}`} className="bg-white/95 rounded-3xl p-8"
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-            <p className="text-lg font-bold text-center mb-6 text-slate-800">{t[questionsPerRound[0].question] || ""}</p>
-            <div className="grid grid-cols-1 gap-3">
-              {questionsPerRound[0].choices.map((ch) => (
-                <motion.button
-                  key={ch}
-                  onClick={() => handleAnswer(ch)}
-                  className={`py-4 px-4 rounded-2xl font-bold text-sm transition-all border-2 ${
-                    selected === ch
-                      ? ch === questionsPerRound[0].answer
-                        ? "bg-green-500 border-green-500 text-white"
-                        : "bg-red-100 border-red-300 text-red-600 opacity-70"
-                      : "bg-white border-slate-200 text-slate-700 hover:border-slate-400"
-                  }`}
-                  disabled={locked}
-                  whileHover={!locked ? { scale: 1.02 } : {}}>
-                  {t[ch] || ""}
-                </motion.button>
-              ))}
-            </div>
-            {locked && (
-              <motion.div className="mt-4 text-center font-bold"
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <span className={selected === questionsPerRound[0].answer ? "text-green-600" : "text-red-600"}>
-                  {selected === questionsPerRound[0].answer ? t.correct : t.wrong}
-                </span>
-              </motion.div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="english_k6_rhetoric_reef" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
   );
-}
+});
+
+export default RhetoricK6Explorer;
