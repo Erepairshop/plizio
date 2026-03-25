@@ -267,3 +267,57 @@ const TOPICS: TopicDef[] = [
       answer: "t4_q_a",
     },
   },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "💧", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🌿",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const WordFamilyExplorer = memo(function WordFamilyExplorer({
+  color = "#14B8A6",
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine
+      def={DEF}
+      grade={3}
+      explorerId="english_k3_word_family_falls"
+      color={color}
+      lang="en"
+      onDone={onDone}
+    />
+  );
+});
+
+export default WordFamilyExplorer;

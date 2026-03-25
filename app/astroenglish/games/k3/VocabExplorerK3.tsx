@@ -284,4 +284,42 @@ const TOPICS: TopicDef[] = [
     quiz: {
       question: "t5_q",
       choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
-      answer: "t5_q
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "📖",
+  topics: TOPICS,
+  rounds: [],
+};
+
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const VocabExplorerK3 = memo(function VocabExplorerK3({
+  color = "#A855F7",
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine
+      def={DEF}
+      grade={3}
+      explorerId="english_k3_vocabulary_valley"
+      color={color}
+      lang="en"
+      onDone={onDone}
+    />
+  );
+});
+
+export default VocabExplorerK3;

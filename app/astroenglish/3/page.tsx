@@ -41,6 +41,7 @@ import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import TenseExplorerK3 from "@/app/astroenglish/games/k3/TenseExplorerK3";
 import AdverbExplorerK3 from "@/app/astroenglish/games/k3/AdverbExplorerK3";
+import SubjectExplorerK3 from "@/app/astroenglish/games/k3/SubjectExplorerK3";
 import QuotationExplorerK3 from "@/app/astroenglish/games/k3/QuotationExplorerK3";
 import PrefixK3Explorer from "@/app/astroenglish/games/k3/PrefixK3Explorer";
 import WordFamilyExplorer from "@/app/astroenglish/games/k3/WordFamilyExplorer";
@@ -1182,6 +1183,9 @@ export default function AstroEnglishK3Page() {
         )}
         {screen === "en3-adverb-explorer" && (
           <AdverbExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en3-subject-explorer" && (
+          <SubjectExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "en3-quotation-explorer" && (
           <QuotationExplorerK3 color={bgColor} lang={lang} onDone={handleMissionDone} />
