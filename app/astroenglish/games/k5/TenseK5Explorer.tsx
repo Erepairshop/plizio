@@ -1,188 +1,311 @@
 "use client";
+// TenseK5Explorer.tsx — AstroEnglish Grade 5: i3 Tense Temple
+// Topics: 1) Simple Tenses 2) Progressive Tenses 3) Perfect Tenses 4) Tense Consistency 5) Hourglass Catch
 
-import React, { useState, useMemo, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
 
-type Phase = "info" | "question";
-type Lang = "en" | "de" | "hu" | "ro";
-interface Props { color?: string; onDone?: (score: number, total: number) => void; lang?: Lang; }
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#2E1065" rx="20" />
+      {/* 3 Time Pillars */}
+      <g transform="translate(40, 60)">
+        <rect x="-20" y="0" width="40" height="60" fill="#8B5CF6" />
+        <polygon points="-25,0 25,0 0,-20" fill="#A855F7" />
+        <text x="0" y="30" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">PAST</text>
+      </g>
+      <g transform="translate(120, 50)">
+        <rect x="-20" y="0" width="40" height="70" fill="#10B981" />
+        <polygon points="-25,0 25,0 0,-20" fill="#34D399" />
+        <text x="0" y="35" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">PRESENT</text>
+      </g>
+      <g transform="translate(200, 60)">
+        <rect x="-20" y="0" width="40" height="60" fill="#F59E0B" />
+        <polygon points="-25,0 25,0 0,-20" fill="#FBBF24" />
+        <text x="0" y="30" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">FUTURE</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Progressive Wave (Ongoing Action) */}
+      <g transform="translate(120, 70)">
+        <path d="M -80,0 Q -40,-30 0,0 T 80,0" fill="none" stroke="#38BDF8" strokeWidth="6" />
+        <circle cx="0" cy="0" r="15" fill="#0284C7" />
+        <text x="0" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">ING</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="10" fill="#BAE6FD">Ongoing Action</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#450A0A" rx="20" />
+      {/* Perfect Tense (Completed before another point) */}
+      <g transform="translate(120, 70)">
+        <line x1="-80" y1="0" x2="80" y2="0" stroke="#FCA5A5" strokeWidth="3" markerEnd="url(#arrow)" />
+        <circle cx="-30" cy="0" r="10" fill="#FBBF24" />
+        <path d="M -35,0 L -30,5 L -20,-5" fill="none" stroke="#78350F" strokeWidth="3" strokeLinecap="round" />
+        <line x1="30" y1="-15" x2="30" y2="15" stroke="#F87171" strokeWidth="4" />
+        <text x="-30" y="25" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#FDE047">HAD FINISHED</text>
+        <text x="30" y="30" textAnchor="middle" fontSize="10" fill="#FECACA">By the time...</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#064E3B" rx="20" />
+      {/* Tense Consistency Scale */}
+      <g transform="translate(120, 70)">
+        <line x1="-40" y1="-10" x2="40" y2="-10" stroke="#D1FAE5" strokeWidth="4" />
+        <polygon points="0,-10 -10,20 10,20" fill="#10B981" />
+        <rect x="-50" y="-30" width="20" height="20" fill="#3B82F6" rx="3" />
+        <text x="-40" y="-16" textAnchor="middle" fontSize="8" fontWeight="bold" fill="white">PAST</text>
+        <rect x="30" y="-30" width="20" height="20" fill="#3B82F6" rx="3" />
+        <text x="40" y="-16" textAnchor="middle" fontSize="8" fontWeight="bold" fill="white">PAST</text>
+        <text x="0" y="40" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#A7F3D0">Keep it Balanced!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#171717" rx="20" />
+      {/* Temple Altar with Hourglasses */}
+      <polygon points="60,120 180,120 150,80 90,80" fill="#44403C" />
+      <rect x="100" y="60" width="40" height="20" fill="#78716C" />
+      <polygon points="120,30 140,60 100,60" fill="#FDE047" opacity="0.8" />
+      <polygon points="120,30 130,0 110,0" fill="#FDE047" opacity="0.4" />
+      <text x="120" y="135" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#D6D3D1">Tap the hourglasses!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!",
-    r1_title: "Present Perfect",
-    r1_text: "Present Perfect = have/has + past participle. Shows action starting in the past and continuing/affecting now. Example: 'I have studied French for 3 years.'",
-    r1_q: "Which is present perfect?",
-    r1_a: "I have eaten", r1_b: "I eat", r1_c: "I ate", r1_d: "I will eat",
-    r2_title: "Past Continuous",
-    r2_text: "Past Continuous = was/were + -ing. Shows action happening at a specific time in the past. Example: 'She was reading when I called.'",
-    r2_q: "Which is past continuous?",
-    r2_a: "She was reading", r2_b: "She reads", r2_c: "She read", r2_d: "She will read",
-    r3_title: "Present Perfect vs. Simple Past",
-    r3_text: "Present Perfect: 'I have lived here for 5 years' (still here). Simple Past: 'I lived in Paris for 2 years' (not anymore). Different focus!",
-    r3_q: "Use present perfect for ___?",
-    r3_a: "Action from past to now", r3_b: "Completed past action", r3_c: "Future plan", r3_d: "Present habit",
-    r4_title: "Past Continuous Interrupted",
-    r4_text: "Past Continuous can be interrupted by simple past: 'I was sleeping when the phone rang.' Longer action (was sleeping) interrupted by shorter action (rang).",
-    r4_q: "Which shows interruption?",
-    r4_a: "I was studying + he arrived", r4_b: "I studied", r4_c: "I study", r4_d: "I will study",
-    r5_title: "⭐ Review",
-    r5_text: "Let's check what you learned!",
-    r5_q1: "Choose: 'I ___ French for 5 years.'",
-    r5_op1: "have studied", r5_op2: "studied", r5_op3: "study", r5_op4: "will study",
-    r5_q2: "Which shows an interrupted action?",
-    r5_op5: "He reads", r5_op6: "He was reading + she called", r5_op7: "He will read", r5_op8: "He reads daily",
-  },
-  de: {
-    gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!",
-    r1_title: "Present Perfect",
-    r1_text: "Present Perfect (Perfekt) = have/has + Partizip. Zeigt Handlung von Vergangenheit bis jetzt. Beispiel: 'Ich habe 3 Jahre Französisch gelernt.'",
-    r1_q: "Welches ist Present Perfect?",
-    r1_a: "Ich habe gegessen", r1_b: "Ich esse", r1_c: "Ich aß", r1_d: "Ich werde essen",
-    r2_title: "Vergangenheit durchgehend",
-    r2_text: "Past Continuous (Präteritum Progressiv) = war + -ing. Zeigt Handlung zu bestimmtem Zeitpunkt. Beispiel: 'Sie las, als ich anrief.'",
-    r2_q: "Welches zeigt durchgehende Vergangenheit?",
-    r2_a: "Sie war am Lesen", r2_b: "Sie liest", r2_c: "Sie las", r2_d: "Sie wird lesen",
-    r3_title: "Perfect vs. Simple Past",
-    r3_text: "Perfect: 'Ich lebe hier 5 Jahre' (noch da). Simple Past: 'Ich wohnte in Paris 2 Jahre' (nicht mehr). Unterschiedlicher Fokus!",
-    r3_q: "Benutze Present Perfect für ___?",
-    r3_a: "Handlung bis jetzt", r3_b: "Vergangenheit beendet", r3_c: "Zukünftiges Plan", r3_d: "Gegenwärtige Gewohnheit",
-    r4_title: "Unterbrochene Vergangenheit",
-    r4_text: "Durchgehend kann unterbrochen werden: 'Ich schlief, als das Telefon klingelte.' Längere Handlung (schlief) unterbrochen durch kürzere (klingelte).",
-    r4_q: "Welche zeigt Unterbrechung?",
-    r4_a: "Ich studierte + er kam", r4_b: "Ich studierte", r4_c: "Ich studiere", r4_d: "Ich werde studieren",
-    r5_title: "⭐ Wiederholung",
-    r5_text: "Lass uns überprüfen was du gelernt hast!",
-    r5_q1: "Wähle: 'Ich ___ 5 Jahre Deutsch.'",
-    r5_op1: "habe gelernt", r5_op2: "lernte", r5_op3: "lerne", r5_op4: "werde lernen",
-    r5_q2: "Welches zeigt unterbrochene Handlung?",
-    r5_op5: "Er liest", r5_op6: "Er las + sie kam", r5_op7: "Er wird lesen", r5_op8: "Er liest täglich",
-  },
-  hu: {
-    gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!",
-    r1_title: "Present Perfect",
-    r1_text: "Present Perfect (Befejezetlen múlt) = have/has + múlt részesülő. Múltban kezdődött és most is folyik. Példa: '3 éve tanulom a franciát.'",
-    r1_q: "Melyik Present Perfect?",
-    r1_a: "Ettem", r1_b: "Eszem", r1_c: "Ettelem", r1_d: "Eszem majd",
-    r2_title: "Past Continuous",
-    r2_text: "Past Continuous (Múlt folyamatos) = was/were + -ing. Múltban történő folyamatot mutat. Példa: 'Olvasott, amikor telefonáltam.'",
-    r2_q: "Melyik Past Continuous?",
-    r2_a: "Olvasott éppen", r2_b: "Olvas", r2_c: "Olvasott", r2_d: "Olvasni fog",
-    r3_title: "Perfect vs. Simple Past",
-    r3_text: "Perfect: '5 éve élek itt' (még itt). Simple Past: '2 évet laktam Párizsban' (már nem). Más a hangsúly!",
-    r3_q: "Perfect-et használj ___?",
-    r3_a: "Múltból jelenig", r3_b: "Befejezett múlt", r3_c: "Jövőbeli terv", r3_d: "Jelenlegi szokás",
-    r4_title: "Megszakított Past Continuous",
-    r4_text: "Past Continuous lehet unterbricht: 'Aludtam, amikor csengett a telefon.' Hosszabb cselekmény (aludtam) rövid által (csengett).",
-    r4_q: "Melyik mutat szakítást?",
-    r4_a: "Tanultam + érkezett", r4_b: "Tanultam", r4_c: "Tanulok", r4_d: "Tanulni fogok",
-    r5_title: "⭐ Ismétlés",
-    r5_text: "Ellenőrizzük mit tanultál!",
-    r5_q1: "Válassz: '5 éve ___ a magyart.'",
-    r5_op1: "tanulom", r5_op2: "tanultam", r5_op3: "tanulok", r5_op4: "tanulni fogom",
-    r5_q2: "Melyik mutat szakított cselekmét?",
-    r5_op5: "Olvas", r5_op6: "Olvasott + jött", r5_op7: "Olvasni fog", r5_op8: "Napi olvas",
-  },
-  ro: {
-    gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!",
-    r1_title: "Perfect Prezent",
-    r1_text: "Perfect Prezent = have/has + participiu. Acțiune din trecut care durează/afectează prezentul. Exemplu: 'Am studiat franceză 3 ani.'",
-    r1_q: "Care este Perfect Prezent?",
-    r1_a: "Am mâncat", r1_b: "Mănânc", r1_c: "Am mâncat", r1_d: "Voi mânca",
-    r2_title: "Trecut Continuu",
-    r2_text: "Trecut Continuu = was/were + -ing. Arată acțiune în desfășurare într-un moment din trecut. Exemplu: 'Citea când am sunat.'",
-    r2_q: "Care este Trecut Continuu?",
-    r2_a: "Citeam", r2_b: "Citesc", r2_c: "Citisem", r2_d: "Voi citi",
-    r3_title: "Perfect vs. Trecut Simplu",
-    r3_text: "Perfect: 'Locuiesc aici 5 ani' (inca). Trecut Simplu: 'Am locuit în Paris 2 ani' (nu mai). Accent diferit!",
-    r3_q: "Folosește Perfect pentru ___?",
-    r3_a: "Acțiune din trecut la prezent", r3_b: "Trecut complet", r3_c: "Plan viitor", r3_d: "Obicei prezent",
-    r4_title: "Trecut Continuu Întrerupt",
-    r4_text: "Trecut Continuu se întrerupe: 'Dormeam când a sunat telefonul.' Acțiune mai lungă (dormeam) întreruptă de una scurtă (a sunat).",
-    r4_q: "Care arată întrerupere?",
-    r4_a: "Studiam + a venit", r4_b: "Am studiat", r4_c: "Studiez", r4_d: "Voi studia",
-    r5_title: "⭐ Repetiție",
-    r5_text: "Să verificăm ce ai învățat!",
-    r5_q1: "Alege: 'Am studiat limba engleză ___ ani.'",
-    r5_op1: "5", r5_op2: "de 5", r5_op3: "pentru 5", r5_op4: "la 5",
-    r5_q2: "Care arată acțiune întreruptă?",
-    r5_op5: "Citește", r5_op6: "Citeam + a venit", r5_op7: "Va citi", r5_op8: "Citește zilnic",
-  },
+    explorer_title: "Tense Temple",
+    
+    // T1: Simple Tenses
+    t1_title: "The Pillars of Time",
+    t1_text: "Let's review the Simple Tenses. PAST means it already happened (usually '-ed'). PRESENT happens now or usually (often '-s'). FUTURE will happen later ('will').",
+    t1_b1: "Past: We jumped.",
+    t1_b2: "Present: He jumps.",
+    t1_b3: "Future: I will jump.",
+    t1_inst: "Match the verb to its correct pillar of time!",
+    t1_l1: "played", t1_r1: "Past",
+    t1_l2: "plays", t1_r2: "Present",
+    t1_l3: "will play", t1_r3: "Future",
+    t1_q: "Which verb is in the Simple Future tense?",
+    t1_q_a: "will travel", t1_q_b: "traveled", t1_q_c: "travels", t1_q_d: "is traveling",
+
+    // T2: Progressive Tenses
+    t2_title: "Progressive (Continuous) Tenses",
+    t2_text: "Progressive tenses show an ONGOING action. We build them using a form of 'to be' (am/is/are/was/were) plus a verb ending in '-ing'.",
+    t2_b1: "Present Progressive: I am working right now.",
+    t2_b2: "Past Progressive: I was working yesterday at noon.",
+    t2_b3: "Look for the '-ing' ending!",
+    t2_inst: "Highlight the progressive verb phrase in the sentence!",
+    t2_tok0: "The", t2_tok1: "captain", t2_tok2: "was", t2_tok3: "steering", t4_tok4: "the", t2_tok5: "ship", t2_tok6: "carefully.",
+    t2_q: "Which of these is a Past Progressive verb?",
+    t2_q_a: "were flying", t2_q_b: "flew", t2_q_c: "will fly", t2_q_d: "are flying",
+
+    // T3: Perfect Tenses
+    t3_title: "Perfect Tenses",
+    t3_text: "Perfect tenses show that an action was COMPLETED before another point in time. We use 'have/has/had' plus a past participle.",
+    t3_b1: "Present Perfect: I have finished (before now).",
+    t3_b2: "Past Perfect: I had finished (before something else in the past).",
+    t3_b3: "Look for have, has, or had!",
+    t3_inst: "Fill in the gap to complete the Past Perfect sentence!",
+    t3_sentence: "The rocket launched after we ___ checked the engines.",
+    t3_c1: "had", t3_c2: "have", t3_c3: "was",
+    t3_q: "What helping verb is used to make the Past Perfect tense?",
+    t3_q_a: "had", t3_q_b: "will", t3_q_c: "am", t3_q_d: "did",
+
+    // T4: Tense Consistency
+    t4_title: "Tense Consistency",
+    t4_text: "When writing a story, don't time travel without a reason! If you start in the PAST tense, keep all your verbs in the PAST tense. Keep it balanced.",
+    t4_b1: "Bad: We flew (past) to Mars and look (present) around.",
+    t4_b2: "Good: We flew (past) to Mars and looked (past) around.",
+    t4_b3: "Make sure the verbs match.",
+    t4_inst: "Sort the sentences: Are the verbs Consistent (Good) or Mixed Up (Bad)?",
+    t4_bucket_good: "Consistent (Good)",
+    t4_bucket_bad: "Mixed Up (Bad)",
+    t4_item_g1: "I ran outside and saw the UFO.", t4_item_g2: "He eats lunch and drinks water.",
+    t4_item_b1: "I sit down and opened my book.", t4_item_b2: "She will sing and danced all night.",
+    t4_q: "How would you fix this: 'The alien smiled and waves at us'?",
+    t4_q_a: "Change 'waves' to 'waved'.", t4_q_b: "Change 'smiled' to 'will smile'.", t4_q_c: "Add a comma.", t4_q_d: "It is already correct.",
+
+    // T5: Fun Catch
+    t5_title: "Time Keeper",
+    t5_text: "You have restored the balance of time in the Tense Temple! Catch the golden hourglasses to lock the timeline.",
+    t5_b1: "Time flows continuously.",
+    t5_b2: "Master your verbs.",
+    t5_b3: "Catch 5 hourglasses!",
+    t5_inst: "Tap the 5 golden hourglasses (⏳) inside the temple!",
+    t5_q: "What ending do progressive tenses always use?",
+    t5_q_a: "-ing", t5_q_b: "-ed", t5_q_c: "-s", t5_q_d: "-ly",
+  }
 };
 
-export default function TenseK5Explorer({ color = "#A78BFA", onDone, lang = "en" }: Props) {
-  const langCode = lang || "en";
-  const t = LABELS[langCode] || LABELS.en;
-  const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
-  const [selected, setSelected] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const [score, setScore] = useState(0);
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-  const questionsPerRound = useMemo(() => {
-    if (round < 4) return [{ question: `r${round + 1}_q`, choices: [`r${round + 1}_a`, `r${round + 1}_b`, `r${round + 1}_c`, `r${round + 1}_d`], answer: `r${round + 1}_a` }];
-    return [
-      { question: "r5_q1", choices: ["r5_op1", "r5_op2", "r5_op3", "r5_op4"], answer: "r5_op1" },
-      { question: "r5_q2", choices: ["r5_op5", "r5_op6", "r5_op7", "r5_op8"], answer: "r5_op6" },
-    ];
-  }, [round]);
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" }, // played -> Past
+        { left: "t1_l2", right: "t1_r2" }, // plays -> Present
+        { left: "t1_l3", right: "t1_r3" }, // will play -> Future
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_tok0", "t2_tok1", "t2_tok2", "t2_tok3", "t2_tok4", "t2_tok5", "t2_tok6"],
+      correctIndices: [2, 3], // "was steering"
+      instruction: "t2_inst",
+      hint1: "t2_b2",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0, // "had"
+      instruction: "t3_inst",
+      hint1: "t3_b2",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "good", label: "t4_bucket_good" },
+        { id: "bad", label: "t4_bucket_bad" },
+      ],
+      items: [
+        { text: "t4_item_g1", bucketId: "good" },
+        { text: "t4_item_b1", bucketId: "bad" },
+        { text: "t4_item_g2", bucketId: "good" },
+        { text: "t4_item_b2", bucketId: "bad" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "⏳", count: 5 }, // Hourglasses
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  const handleAnswer = useCallback((choice: string) => {
-    if (locked) return;
-    setSelected(choice);
-    setLocked(true);
-    if (choice === questionsPerRound[0].answer) setScore(s => s + 1);
-    setTimeout(() => {
-      if (round < 4) { setRound(r => r + 1); setPhase("info"); setSelected(null); setLocked(false); }
-      else { onDone?.(score + (choice === questionsPerRound[0].answer ? 1 : 0), 5); }
-    }, 1200);
-  }, [locked, round, questionsPerRound, score, onDone]);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  const infoBgs: Record<number, string> = {
-    0: "linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)",
-    1: "linear-gradient(135deg, #c7d2fe 0%, #a5b4fc 100%)",
-    2: "linear-gradient(135deg, #fecdd3 0%, #fca5a5 100%)",
-    3: "linear-gradient(135deg, #fdf4ff 0%, #f3e8ff 100%)",
-    4: "linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%)",
-  };
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "⏰",
+  topics: TOPICS,
+  rounds: [],
+};
 
+// ─── EXPORT ─────────────────────────────────────────────────────────
+
+const TenseK5Explorer = memo(function TenseK5Explorer({
+  color = "#D97706", // Amber-600 for the Temple/Time/Sand vibe
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {phase === "info" && (
-        <motion.div className="bg-white/95 rounded-3xl p-8 text-center" style={{ background: infoBgs[round] }}
-          initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-          <h2 className="text-2xl font-black text-slate-800 mb-4">{t[`r${round + 1}_title`]}</h2>
-          <p className="text-slate-700 text-sm leading-relaxed mb-4">{t[`r${round + 1}_text`]}</p>
-          <motion.button onClick={() => setPhase("question")} className="px-6 py-3 rounded-full font-bold text-white transition-all"
-            style={{ background: color }} whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>{t.gotIt}</motion.button>
-        </motion.div>
-      )}
-      <AnimatePresence mode="wait">
-        {phase === "question" && (
-          <motion.div key={`q-${round}`} className="bg-white/95 rounded-3xl p-8"
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-            <p className="text-xl font-bold text-center mb-6 text-slate-800">{t[questionsPerRound[0].question]}</p>
-            <div className="grid grid-cols-1 gap-3">
-              {questionsPerRound[0].choices.map((ch) => (
-                <motion.button key={ch} onClick={() => handleAnswer(ch)}
-                  className={`py-4 px-4 rounded-2xl font-bold text-base transition-all border-2 ${
-                    selected === ch ? ch === questionsPerRound[0].answer
-                      ? "bg-green-500 border-green-500 text-white"
-                      : "bg-red-100 border-red-300 text-red-600 opacity-70"
-                      : "bg-white border-slate-200 text-slate-700 hover:border-slate-400"
-                  }`} disabled={locked} whileHover={!locked ? { scale: 1.02 } : {}}>{t[ch]}</motion.button>
-              ))}
-            </div>
-            {locked && (
-              <motion.div className="mt-4 text-center font-bold" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <span className={selected === questionsPerRound[0].answer ? "text-green-600" : "text-red-600"}>
-                  {selected === questionsPerRound[0].answer ? t.correct : t.wrong}
-                </span>
-              </motion.div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="english_k5_tense_temple" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
   );
-}
+});
+
+export default TenseK5Explorer;
