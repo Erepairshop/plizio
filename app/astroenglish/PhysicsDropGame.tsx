@@ -105,11 +105,12 @@ export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsD
     });
     Matter.World.add(world, mouseConstraint);
 
-    // Dinamikus skálázás: minden frame előtt újraszámolva (reszponzív konténernél kritikus)
+    // Dinamikus skálázás: X és Y külön, mert a konténer nem fix arányú
     Matter.Events.on(engine, "beforeUpdate", () => {
       if (sceneRef.current) {
-        const scale = width / sceneRef.current.clientWidth;
-        Matter.Mouse.setScale(mouse, { x: scale, y: scale });
+        const scaleX = width / sceneRef.current.clientWidth;
+        const scaleY = height / sceneRef.current.clientHeight;
+        Matter.Mouse.setScale(mouse, { x: scaleX, y: scaleY });
       }
     });
 
@@ -176,20 +177,20 @@ export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsD
   }, []); // Csak egyszer fut le
 
   return (
-    <div className="w-full flex flex-col items-center select-none touch-none">
-      <div 
-        ref={sceneRef} 
-        className="relative w-full max-w-2xl bg-slate-900 rounded-xl overflow-hidden shadow-2xl border-4 border-slate-700"
-        style={{ aspectRatio: "8/5" }}
+    <div className="w-full flex flex-col items-center select-none touch-none px-2">
+      <div
+        ref={sceneRef}
+        className="relative w-full bg-slate-900 rounded-xl overflow-hidden shadow-2xl border-2 border-slate-700"
+        style={{ minHeight: "58vh" }}
       >
         {/* Vödrök renderelése az alján */}
-        <div className="absolute bottom-0 w-full h-[80px] flex">
+        <div className="absolute bottom-0 w-full h-[90px] flex">
           {buckets.map((bucket, i) => (
-            <div 
-              key={bucket.id} 
+            <div
+              key={bucket.id}
               className="flex-1 border-t-4 border-slate-600 border-x border-slate-700/50 flex items-center justify-center bg-slate-800/80"
             >
-              <span className="text-white font-bold text-sm tracking-wider uppercase opacity-50">
+              <span className="text-white font-bold text-xs tracking-wider uppercase text-center px-1" style={{ opacity: 0.7 }}>
                 {bucket.label}
               </span>
             </div>
@@ -201,14 +202,14 @@ export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsD
           <div
             key={item.id}
             ref={(el) => { itemNodesRef.current[item.id] = el; }}
-            className="absolute pointer-events-none select-none flex items-center justify-center w-[120px] h-[40px] bg-sky-500 text-white font-black rounded-lg shadow-lg border-b-4 border-sky-700"
-            style={{ left: "-100%", top: "-100%" }}
+            className="absolute pointer-events-none select-none flex items-center justify-center bg-sky-500 text-white font-black rounded-lg shadow-lg border-b-4 border-sky-700 text-sm px-3 py-2"
+            style={{ left: "-100%", top: "-100%", minWidth: "80px" }}
           >
             {item.text}
           </div>
         ))}
       </div>
-      <p className="mt-4 text-slate-400 font-bold text-sm">Drag and drop the blocks into the correct zones!</p>
+      <p className="mt-3 text-slate-400 font-bold text-xs text-center">Drag and drop the blocks into the correct zones!</p>
     </div>
   );
 }
