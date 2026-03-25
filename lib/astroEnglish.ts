@@ -242,7 +242,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🔤", color: "#FF2D78", sortRange: [1, 20],
     topicKeys: ["phonics_g1/short_long_vowels_g1", "phonics_g1/digraphs_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "word-sort" as any, icon: "🪐", label: { en: "Vowel Sort",     hu: "Magánhangzó rendezés", de: "Vokal-Sortierung", ro: "Sortare vocale" } },
+      { id: "m1", category: "explore",   gameType: "phonics-island" as any, icon: "🪐", label: { en: "Vowel Sort",     hu: "Magánhangzó rendezés", de: "Vokal-Sortierung", ro: "Sortare vocale" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -254,7 +254,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🅰️", color: "#00D4FF", sortRange: [1, 20],
     topicKeys: ["phonics_g1/uppercase_lowercase_g1", "phonics_g1/syllables_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "spell-race" as any, icon: "🪐", label: { en: "Letter Spell",   hu: "Betű helyesírás", de: "Buchstaben-Schreib", ro: "Literare litere" } },
+      { id: "m1", category: "explore",   gameType: "letter-land" as any, icon: "🪐", label: { en: "Letter Spell",   hu: "Betű helyesírás", de: "Buchstaben-Schreib", ro: "Literare litere" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
@@ -266,7 +266,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🌊", color: "#00FF88", sortRange: [1, 20],
     topicKeys: ["phonics_g1/blends_g1", "phonics_g1/rhyming_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "spell-race" as any, icon: "🪐", label: { en: "Blend Spell",    hu: "Blend helyesírás", de: "Blend-Schreib",    ro: "Literare combinații" } },
+      { id: "m1", category: "explore",   gameType: "blend-bay" as any, icon: "🪐", label: { en: "Blend Spell",    hu: "Blend helyesírás", de: "Blend-Schreib",    ro: "Literare combinații" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🪐", label: { en: "Orbit Quiz",    hu: "Pálya kvíz",        de: "Umlaufbahn-Quiz",      ro: "Quiz orbital"      } },
     ],
@@ -278,7 +278,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "📝", color: "#FFD700", sortRange: [1, 20],
     topicKeys: ["words_g1/sight_words_g1", "words_g1/nouns_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "word-sort",    icon: "🪐", label: { en: "Word Sort",     hu: "Szó rendezés",     de: "Wort-Sortierung", ro: "Sortare cuvinte" } },
+      { id: "m1", category: "explore",   gameType: "word-world" as any, icon: "🪐", label: { en: "Word Sort",     hu: "Szó rendezés",     de: "Wort-Sortierung", ro: "Sortare cuvinte" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round",  icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",       de: "Blitzrunde",  ro: "Rundă rapidă"      } },
     ],
@@ -290,7 +290,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🏃", color: "#B44DFF", sortRange: [1, 20],
     topicKeys: ["words_g1/verbs_g1", "words_g1/articles_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "category-rush" as any, icon: "🪐", label: { en: "Verb Rush",     hu: "Ige roham",        de: "Verb-Ansturm",    ro: "Asalt verbe" } },
+      { id: "m1", category: "explore",   gameType: "action-cove" as any, icon: "🪐", label: { en: "Verb Rush",     hu: "Ige roham",        de: "Verb-Ansturm",    ro: "Asalt verbe" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",        de: "Schwarzes Loch",      ro: "Gaură neagră"      } },
     ],
@@ -302,7 +302,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🔗", color: "#10B981", sortRange: [1, 20],
     topicKeys: ["words_g1/compound_words_g1", "words_g1/adjectives_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sentence-builder" as any, icon: "🪐", label: { en: "Build Words",   hu: "Szó építés",       de: "Wort-Bau",        ro: "Construire cuvinte" } },
+      { id: "m1", category: "explore",   gameType: "compound-cape" as any, icon: "🪐", label: { en: "Build Words",   hu: "Szó építés",       de: "Wort-Bau",        ro: "Construire cuvinte" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",  icon: "🪐", label: { en: "Orbit Quiz",    hu: "Pálya kvíz",       de: "Umlaufbahn-Quiz",  ro: "Quiz orbital"      } },
     ],
@@ -314,7 +314,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "💬", color: "#FF9500", sortRange: [1, 20],
     topicKeys: ["sentences_g1/end_punctuation_g1", "sentences_g1/capitalization_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sentence-builder" as any, icon: "🪐", label: { en: "Build Sent.",   hu: "Mondat építés",   de: "Satz-Bau",        ro: "Construire propoziții" } },
+      { id: "m1", category: "explore",   gameType: "sentence-shore" as any, icon: "🪐", label: { en: "Build Sent.",   hu: "Mondat építés",   de: "Satz-Bau",        ro: "Construire propoziții" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidă"      } },
     ],
@@ -326,7 +326,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#E879F9", sortRange: [1, 20],
     topicKeys: ["sentences_g1/sentence_vs_not_g1", "sentences_g1/declarative_interrogative_g1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "grammar-match" as any, icon: "🪐", label: { en: "Match Rules",    hu: "Szabály párosítás", de: "Regel-Match",      ro: "Potrivire reguli" } },
+      { id: "m1", category: "explore",   gameType: "grammar-gulf" as any, icon: "🪐", label: { en: "Match Rules",    hu: "Szabály párosítás", de: "Regel-Match",      ro: "Potrivire reguli" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagră"      } },
     ],
@@ -341,7 +341,7 @@ export const K1_ISLANDS: IslandDef[] = [
       "phonics_g1/short_long_vowels_g1", "words_g1/sight_words_g1",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "category-rush" as any, icon: "🪐", label: { en: "Story Rush",    hu: "Mese roham",       de: "Geschichten-Ansturm", ro: "Asalt povești" } },
+      { id: "m1", category: "explore",   gameType: "story-summit" as any, icon: "🪐", label: { en: "Story Rush",    hu: "Mese roham",       de: "Geschichten-Ansturm", ro: "Asalt povești" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🪨", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés",        de: "Schwerkraft-Sortierung",      ro: "Sortare gravitațională"      } },
     ],
