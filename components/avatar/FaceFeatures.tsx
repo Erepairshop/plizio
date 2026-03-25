@@ -75,9 +75,12 @@ export function FaceFeatures({
       // ── Pivot group: rotate outward along sphere surface ──
       <group position={[0, EYE_PIVOT_Y, 0]} rotation={[0, rotY, 0]}>
 
-        {/* Eye white — embedded slightly inside sphere (z < sphere radius) */}
+        {/* Eye white — z_local must be > 0.1755 to stay outside head sphere.
+            At rotY=0.44: head_z = cos(0.44)*z_local = 0.905*z_local
+            Sphere surface at eye x: z_surf ≈ 0.159.
+            Eye white at z_local=0.182 → head_z=0.165 (0.006 in front of surface) ✓ */}
         {!specialEye && !isWinkClosed && (
-          <group position={[0, 0, 0.160]}>
+          <group position={[0, 0, 0.182]}>
             <mesh scale={[0.72, 0.44, 0.14]} position={[0, -0.002, -0.001]}>
               <sphereGeometry args={[0.048, 10, 8]} />
               <meshStandardMaterial color={skinDark} roughness={0.8} />
@@ -105,15 +108,16 @@ export function FaceFeatures({
           </mesh>
         )}
 
-        {/* Iris — at sphere surface (gaze animation moves .x/.y in local space) */}
-        <mesh ref={irisRef} position={[0, 0, 0.176]}>
+        {/* Iris — in front of eye white (which ends at ~0.182+0.008=0.190).
+            z_local=0.196 → head_z=0.177, safely in front of sphere surface. */}
+        <mesh ref={irisRef} position={[0, 0, 0.196]}>
           <sphereGeometry args={[specialEye || isWinkClosed ? 0.001 : irisSize, 8, 8]} />
           <meshStandardMaterial color={eyeCol} roughness={0.3} />
         </mesh>
 
-        {/* Pupil */}
+        {/* Pupil — in front of iris */}
         {!specialEye && !isWinkClosed && (
-          <mesh position={[0, 0, 0.183]}>
+          <mesh position={[0, 0, 0.203]}>
             <sphereGeometry args={[irisSize * 0.45, 6, 6]} />
             <meshStandardMaterial color="#0a0a0a" roughness={0.4} />
           </mesh>
@@ -121,7 +125,7 @@ export function FaceFeatures({
 
         {/* Happy arc — ^‿^ style eyes */}
         {eyeType === 'happy' && (
-          <mesh position={[0, 0, 0.197]}>
+          <mesh position={[0, 0, 0.200]}>
             <torusGeometry args={[0.027, 0.009, 6, 12, Math.PI]} />
             <meshStandardMaterial color={eyeCol} roughness={0.35} />
           </mesh>
@@ -129,7 +133,7 @@ export function FaceFeatures({
 
         {/* Wink closed — horizontal line */}
         {isWinkClosed && (
-          <mesh position={[0, 0, 0.197]}>
+          <mesh position={[0, 0, 0.200]}>
             <boxGeometry args={[0.068, 0.011, 0.006]} />
             <meshStandardMaterial color={eyeCol} roughness={0.4} />
           </mesh>
@@ -138,11 +142,11 @@ export function FaceFeatures({
         {/* X eyes */}
         {eyeType === 'x' && (
           <>
-            <mesh position={[0, 0, 0.190]} rotation={[0, 0,  Math.PI / 4]}>
+            <mesh position={[0, 0, 0.200]} rotation={[0, 0,  Math.PI / 4]}>
               <boxGeometry args={[0.058, 0.013, 0.005]} />
               <meshStandardMaterial color={eyeCol} roughness={0.4} />
             </mesh>
-            <mesh position={[0, 0, 0.190]} rotation={[0, 0, -Math.PI / 4]}>
+            <mesh position={[0, 0, 0.200]} rotation={[0, 0, -Math.PI / 4]}>
               <boxGeometry args={[0.058, 0.013, 0.005]} />
               <meshStandardMaterial color={eyeCol} roughness={0.4} />
             </mesh>
@@ -152,15 +156,15 @@ export function FaceFeatures({
         {/* Heart eyes */}
         {eyeType === 'heart' && (
           <>
-            <mesh position={[-0.011, 0.010, 0.194]}>
+            <mesh position={[-0.011, 0.010, 0.200]}>
               <sphereGeometry args={[0.019, 8, 6]} />
               <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
             </mesh>
-            <mesh position={[0.011, 0.010, 0.194]}>
+            <mesh position={[0.011, 0.010, 0.200]}>
               <sphereGeometry args={[0.019, 8, 6]} />
               <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
             </mesh>
-            <mesh position={[0, -0.008, 0.191]} scale={[1.4, 1.15, 1]}>
+            <mesh position={[0, -0.008, 0.197]} scale={[1.4, 1.15, 1]}>
               <sphereGeometry args={[0.020, 8, 6]} />
               <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
             </mesh>
@@ -171,12 +175,12 @@ export function FaceFeatures({
         {eyeType === 'star' && (
           <>
             {([0, Math.PI / 4, Math.PI / 2, Math.PI * 3 / 4] as number[]).map((rot, i) => (
-              <mesh key={i} position={[0, 0, 0.192]} rotation={[0, 0, rot]}>
+              <mesh key={i} position={[0, 0, 0.200]} rotation={[0, 0, rot]}>
                 <boxGeometry args={[0.064, 0.013, 0.005]} />
                 <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={1.0} roughness={0.1} />
               </mesh>
             ))}
-            <mesh position={[0, 0, 0.196]}>
+            <mesh position={[0, 0, 0.205]}>
               <sphereGeometry args={[0.011, 6, 6]} />
               <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={1.5} roughness={0.05} />
             </mesh>
@@ -186,11 +190,11 @@ export function FaceFeatures({
         {/* Specular highlights */}
         {!isWinkClosed && eyeType !== 'happy' && eyeType !== 'x' && (
           <>
-            <mesh position={[sxLocal, 0.008, 0.190]}>
+            <mesh position={[sxLocal, 0.008, 0.208]}>
               <sphereGeometry args={[0.008, 6, 6]} />
               <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.8} />
             </mesh>
-            <mesh position={[sxLocal * 0.5, -0.008, 0.188]}>
+            <mesh position={[sxLocal * 0.5, -0.008, 0.205]}>
               <sphereGeometry args={[0.004, 5, 5]} />
               <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.5} />
             </mesh>
@@ -198,13 +202,13 @@ export function FaceFeatures({
         )}
 
         {/* Eyelid (blink target) — scale.y driven by animation */}
-        <mesh ref={lidRef} position={[0, 0.025, 0.178]} scale={[1, 0.01, 1]}>
+        <mesh ref={lidRef} position={[0, 0.025, 0.190]} scale={[1, 0.01, 1]}>
           <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
           <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
         </mesh>
 
         {/* Eyebrow — outer group positions on sphere, inner ref driven by animation */}
-        <group position={[0, browY_local, 0.182]}>
+        <group position={[0, browY_local, 0.196]}>
           {/* browRef.position.y is animated for blink lift and mouse tracking */}
           <group ref={browRef} rotation={[0, 0, browRotZ]}>
             <mesh rotation={[0, 0, Math.PI / 2]}>
@@ -386,11 +390,13 @@ export function FaceFeatures({
       {/* Blush — pivot-rotated to conform to sphere curvature at x=±0.12 */}
       {face?.blush && (
         <>
+          {/* rotY=0.72 → min z_local = 0.18/cos(0.72)=0.18/0.752=0.240 to be outside sphere.
+              Actually: condition z_local > sqrt(r²) = 0.18 → use 0.190 + transparency hides any edge */}
           {([-1, 1] as const).map((side, i) => (
             <group key={i} position={[0, 0, 0]} rotation={[0, side * 0.72, 0]}>
-              <mesh position={[0, 0, 0.152]}>
+              <mesh position={[0, 0, 0.186]}>
                 <sphereGeometry args={[0.042, 8, 6]} />
-                <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.42} roughness={0.9} />
+                <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.38} roughness={0.9} />
               </mesh>
             </group>
           ))}
