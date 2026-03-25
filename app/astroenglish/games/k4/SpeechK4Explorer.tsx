@@ -1,157 +1,276 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// SpeechK4Explorer.tsx — AstroEnglish Grade 4: i5 Speech Spiral
+// Topics: 1) Direct vs Indirect 2) Affect vs Effect 3) Its vs It's 4) There, Their, They're 5) Soundwave Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Direct vs Indirect bubbles */}
+      <g transform="translate(60, 60)">
+        <path d="M -40,-15 L 40,-15 L 40,15 L -20,15 L -40,30 Z" fill="#D946EF" />
+        <text x="0" y="3" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">"I am here"</text>
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#F5D0FE">Direct</text>
+      </g>
+      <path d="M 100,60 L 130,60" stroke="#475569" strokeWidth="2" markerEnd="url(#arrow)" />
+      <g transform="translate(180, 60)">
+        <rect x="-45" y="-15" width="90" height="30" fill="#701A75" rx="5" />
+        <text x="0" y="3" textAnchor="middle" fontSize="9" fontWeight="bold" fill="white">He said he was there</text>
+        <text x="0" y="30" textAnchor="middle" fontSize="10" fill="#F5D0FE">Indirect</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* Affect (Action) vs Effect (End result) */}
+      <g transform="translate(70, 70)">
+        <path d="M -20,-10 L 10,-10 L 25,0 L 10,10 L -20,10 Z" fill="#F43F5E" />
+        <text x="-5" y="4" textAnchor="middle" fontSize="10" fontWeight="black" fill="white">AFFECT</text>
+        <text x="0" y="30" textAnchor="middle" fontSize="10" fill="#FDA4AF">The Action</text>
+      </g>
+      <text x="120" y="75" textAnchor="middle" fontSize="14" fill="#6366F1">➜</text>
+      <g transform="translate(175, 70)">
+        <circle cx="0" cy="0" r="25" fill="#10B981" />
+        <text x="0" y="4" textAnchor="middle" fontSize="10" fontWeight="black" fill="white">EFFECT</text>
+        <text x="0" y="40" textAnchor="middle" fontSize="10" fill="#6EE7B7">The Result</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#171717" rx="20" />
+      {/* Spiral / Soundwave background */}
+      <path d="M 40,70 Q 60,30 80,70 T 120,70 T 160,70 T 200,70" fill="none" stroke="#D946EF" strokeWidth="2" opacity="0.6" />
+      <path d="M 40,80 Q 60,40 80,80 T 120,80 T 160,80 T 200,80" fill="none" stroke="#8B5CF6" strokeWidth="2" opacity="0.4" />
+      <circle cx="120" cy="70" r="5" fill="#FDF4FF" />
+      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#F0ABFC">Tap the voice waves!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    r1_title: "Direct Speech",
-    r1_text: "DIRECT SPEECH shows the EXACT words someone said. Use quotation marks and report verbs like 'said,' 'asked,' 'replied.' Example: She said, \"I am happy.\"",
-    r1_q: "Which is DIRECT speech?",
-    r1_a: "She said that she is happy.",
-    r1_b: "\"I am happy,\" she said.",
-    r1_c: "She is very happy.",
-    r1_d: "She said happiness is good.",
-    r2_title: "Indirect Speech",
-    r2_text: "INDIRECT SPEECH reports what someone said WITHOUT quotation marks. Use 'that'. Example: She said that she was happy. (Tense often changes!)",
-    r2_q: "Which is INDIRECT speech?",
-    r2_a: "\"I will go,\" he said.",
-    r2_b: "He said, \"I will go.\"",
-    r2_c: "He said that he would go.",
-    r2_d: "He said I will go.",
-    r3_title: "Reporting Verbs",
-    r3_text: "Use different reporting verbs: said, asked, answered, replied, explained, insisted, whispered, shouted, complained. Example: \"Hello!\" she whispered.",
-    r3_q: "Which reporting verb fits? '_____ ?' he asked.",
-    r3_a: "said",
-    r3_b: "replied",
-    r3_c: "\"Where is the book\"",
-    r3_d: "explained",
-    r4_title: "Converting Speech",
-    r4_text: "When converting direct to indirect, the tense changes: is→was, will→would, can→could. Example: 'I am tired'→She said she was tired.",
-    r4_q: "Convert to indirect: 'I will help you,' she said.",
-    r4_a: "She said she helps you.",
-    r4_b: "She said she would help me.",
-    r4_c: "She said she will help me.",
-    r4_d: "She would help you.",
-    r5_title: "⭐ Speech Expert",
-    r5_text: "Excellent! You can use direct and indirect speech!",
-  },
-  de: {
-    r1_title: "Direkte Rede",
-    r1_text: "DIREKTE REDE zeigt die GENAUEN WORTE, die jemand sagte. Nutze Anführungszeichen und Berichtsverben wie 'sagte', 'fragte', 'antwortete'. Beispiel: Sie sagte, \"Ich bin glücklich.\"",
-    r1_q: "Welches ist DIREKTE Rede?",
-    r1_a: "Sie sagte, dass sie glücklich ist.",
-    r1_b: "\"Ich bin glücklich,\" sagte sie.",
-    r1_c: "Sie ist sehr glücklich.",
-    r1_d: "Sie sagte, Glück ist gut.",
-    r2_title: "Indirekte Rede",
-    r2_text: "INDIREKTE REDE berichtet, was jemand sagte, OHNE Anführungszeichen. Nutze 'dass'. Beispiel: Sie sagte, dass sie glücklich war. (Die Zeit ändert sich oft!)",
-    r2_q: "Welches ist INDIREKTE Rede?",
-    r2_a: "\"Ich werde gehen,\" sagte er.",
-    r2_b: "Er sagte, \"Ich werde gehen.\"",
-    r2_c: "Er sagte, dass er gehen würde.",
-    r2_d: "Er sagte, ich werde gehen.",
-    r3_title: "Berichtsverben",
-    r3_text: "Nutze verschiedene Berichtsverben: sagte, fragte, antwortete, erwiderte, erklärte, behauptete, flüsterte, schrie, beschwerte sich. Beispiel: \"Hallo!\" flüsterte sie.",
-    r3_q: "Welches Berichtsverb passt? '_____ ?' fragte er.",
-    r3_a: "sagte",
-    r3_b: "erwiderte",
-    r3_c: "\"Wo ist das Buch\"",
-    r3_d: "erklärte",
-    r4_title: "Rede konvertieren",
-    r4_text: "Beim Konvertieren von direkt zu indirekt, ändert sich die Zeit: bin→war, werde→würde, kann→könnte. Beispiel: 'Ich bin müde'→Sie sagte, sie wäre müde.",
-    r4_q: "Konvertiere zu indirekt: 'Ich werde dir helfen,' sagte sie.",
-    r4_a: "Sie sagte, sie hilft mir.",
-    r4_b: "Sie sagte, sie würde mir helfen.",
-    r4_c: "Sie sagte, sie wird mir helfen.",
-    r4_d: "Sie würde dir helfen.",
-    r5_title: "⭐ Rede-Experte",
-    r5_text: "Ausgezeichnet! Du kannst direkte und indirekte Rede verwenden!",
-  },
+    explorer_title: "Speech Spiral",
+    
+    // T1: Direct vs Indirect
+    t1_title: "Reported Speech",
+    t1_text: "Direct speech uses quotation marks to show exact words. Indirect (Reported) speech tells what someone said without using their exact words. Usually, the tense 'steps back' into the past.",
+    t1_b1: "Direct: 'I am happy,' she said.",
+    t1_b2: "Indirect: She said that she WAS happy.",
+    t1_b3: "Indirect speech doesn't need quotation marks.",
+    t1_inst: "Is the sentence Direct Speech or Indirect (Reported) Speech?",
+    t1_bucket_dir: "Direct (\"\")",
+    t1_bucket_ind: "Indirect (Reported)",
+    t1_item_d1: "He said, \"I like space.\"", t1_item_d2: "\"Look!\" she yelled.",
+    t1_item_i1: "He said that he liked space.", t1_item_i2: "She told us to look.",
+    t1_q: "Which word is often used to join a reported speech sentence?",
+    t1_q_a: "that", t1_q_b: "and", t1_q_c: "but", t1_q_d: "because",
+
+    // T2: Affect vs Effect
+    t2_title: "Affect or Effect?",
+    t2_text: "These two are very tricky! 'Affect' is usually a VERB (the action). 'Effect' is usually a NOUN (the result).",
+    t2_b1: "The cold will AFFECT (verb) the engine.",
+    t2_b2: "The cold had a bad EFFECT (noun) on the engine.",
+    t2_b3: "Remember: A is for Action (Affect), E is for End Result (Effect).",
+    t2_inst: "Match the word to its correct usage in the sentence!",
+    t2_l1: "How will the sun ___ us?", t2_r1: "affect",
+    t2_l2: "The sound ___ was loud.", t2_r2: "effect",
+    t2_l3: "Sunlight can ___ your skin.", t2_r3: "affect",
+    t2_q: "In 'The moon's gravity has an effect on tides', what is 'effect'?",
+    t2_q_a: "A noun (the result)", t2_q_b: "A verb (the action)", t2_q_c: "An adjective", t2_q_d: "A pronoun",
+
+    // T3: Its vs It's
+    t3_title: "Its and It's",
+    t3_text: "'Its' (no apostrophe) shows that something belongs to it. 'It's' (with apostrophe) is short for 'It is' or 'It has'.",
+    t3_b1: "The rocket lost ITS fuel. (Belongs to it).",
+    t3_b2: "IT'S a long way home. (It is).",
+    t3_b3: "Try saying 'it is'—if it sounds right, use the apostrophe!",
+    t3_inst: "Fill in the gap with the correct spelling!",
+    t3_sentence: "The planet is far away, and ___ atmosphere is thin.",
+    t3_c1: "its", t3_c2: "it's", t3_c3: "its'",
+    t3_q: "What is 'It's' short for?",
+    t3_q_a: "It is", t3_q_b: "Its own", t3_q_c: "In the", t3_q_d: "It was",
+
+    // T4: There, Their, They're
+    t4_title: "The Triple Trouble",
+    t4_text: "Let's master the most famous homophones one more time for Grade 4. Place, Possession, or 'They are'?",
+    t4_b1: "There = Place (over there).",
+    t4_b2: "Their = Belonging to them (their ship).",
+    t4_b3: "They're = They are (they're ready).",
+    t4_inst: "Highlight the correct word in the sentence!",
+    t4_tok0: "The", t4_tok1: "astronauts", t4_tok2: "said", t4_tok3: "that", t4_tok4: "they're", t4_tok5: "going", t4_tok6: "outside.",
+    t4_q: "Which word means 'belongs to them'?",
+    t4_q_a: "their", t4_q_b: "there", t4_q_c: "they're", t4_q_d: "they",
+
+    // T5: Fun Catch
+    t5_title: "Voice Waves",
+    t5_text: "Communication is key in the Speech Spiral! Catch the voice waves to send your message back to Earth.",
+    t5_b1: "Direct speech uses quotes.",
+    t5_b2: "Indirect speech uses 'that'.",
+    t5_b3: "Catch 6 voice waves!",
+    t5_inst: "Tap the 6 voice waves (〰️) before they disappear!",
+    t5_q: "What does the 'A' in Affect stand for to help you remember?",
+    t5_q_a: "Action", t5_q_b: "Apple", t5_q_c: "After", t5_q_d: "Always",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "dir", label: "t1_bucket_dir" },
+        { id: "ind", label: "t1_bucket_ind" },
+      ],
+      items: [
+        { text: "t1_item_d1", bucketId: "dir" },
+        { text: "t1_item_i1", bucketId: "ind" },
+        { text: "t1_item_d2", bucketId: "dir" },
+        { text: "t1_item_i2", bucketId: "ind" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_c1", "t3_c2", "t3_c3"],
+      correctIndex: 0, // "its"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5", "t4_tok6"],
+      correctIndices: [4], // "they're"
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "〰️", count: 6 }, // Voice waves
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "r1_title",
-      infoText: "r1_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" className="w-full">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="48" fill="#6366F1">
-            💬
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r1_q", choices: ["r1_a", "r1_b", "r1_c", "r1_d"], answer: "r1_b" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r2_title",
-      infoText: "r2_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" className="w-full">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="48" fill="#EC4899">
-            🗣️
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r2_q", choices: ["r2_a", "r2_b", "r2_c", "r2_d"], answer: "r2_c" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r3_title",
-      infoText: "r3_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" className="w-full">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="48" fill="#F59E0B">
-            🔊
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r3_q", choices: ["r3_a", "r3_b", "r3_c", "r3_d"], answer: "r3_b" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r4_title",
-      infoText: "r4_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" className="w-full">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="48" fill="#10B981">
-            ↔️
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r4_q", choices: ["r4_a", "r4_b", "r4_c", "r4_d"], answer: "r4_b" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "r5_title",
-      infoText: "r5_text",
-      svg: () => (
-        <svg viewBox="0 0 240 160" className="w-full">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a3e" />
-          <text x="120" y="90" textAnchor="middle" fontSize="48" fill="#FBBF24">
-            ⭐
-          </text>
-        </svg>
-      ),
-      questions: [{ question: "r4_q", choices: ["r4_a", "r4_b", "r4_c", "r4_d"], answer: "r4_b" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🗣️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (score: number, total: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function SpeechK4Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const SpeechK4Explorer = memo(function SpeechK4Explorer({
+  color = "#D946EF", 
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={4} 
+      explorerId="english_k4_speech_spiral" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
+  );
+});
+
+export default SpeechK4Explorer;
