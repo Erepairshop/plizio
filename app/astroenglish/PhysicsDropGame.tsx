@@ -93,32 +93,25 @@ export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsD
 
     // 5. Egér / Érintés vezérlés — koordináta skálázással
     const mouse = Matter.Mouse.create(sceneRef.current);
-    // Skálázás: a fizikai világ 800×500, a konténer ennél kisebb
-    const rect = sceneRef.current.getBoundingClientRect();
-    Matter.Mouse.setScale(mouse, {
-      x: width / rect.width,
-      y: height / rect.height,
-    });
-    // Touch események forwarding Matter.js-nek
-    sceneRef.current.addEventListener("touchstart", (e) => {
-      const touch = e.touches[0];
-      mouse.position.x = (touch.clientX - rect.left) * (width / rect.width);
-      mouse.position.y = (touch.clientY - rect.top) * (height / rect.height);
-      mouse.button = 0;
-    }, { passive: true });
-    sceneRef.current.addEventListener("touchmove", (e) => {
-      const touch = e.touches[0];
-      mouse.position.x = (touch.clientX - rect.left) * (width / rect.width);
-      mouse.position.y = (touch.clientY - rect.top) * (height / rect.height);
-    }, { passive: true });
-    sceneRef.current.addEventListener("touchend", () => {
-      mouse.button = -1;
-    }, { passive: true });
+    // Scroll hijacking megakadályozása (Matter.js alapból elkapja)
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    mouse.element.removeEventListener("mousewheel", (mouse as any).mousewheel);
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    mouse.element.removeEventListener("DOMMouseScroll", (mouse as any).mousewheel);
+
     const mouseConstraint = Matter.MouseConstraint.create(engine, {
       mouse: mouse,
       constraint: { stiffness: 0.2, render: { visible: false } },
     });
     Matter.World.add(world, mouseConstraint);
+
+    // Dinamikus skálázás: minden frame előtt újraszámolva (reszponzív konténernél kritikus)
+    Matter.Events.on(engine, "beforeUpdate", () => {
+      if (sceneRef.current) {
+        const scale = width / sceneRef.current.clientWidth;
+        Matter.Mouse.setScale(mouse, { x: scale, y: scale });
+      }
+    });
 
     // 6. Ütközések figyelése (Szó beleesik a vödörbe)
     Matter.Events.on(engine, "collisionStart", (event) => {
@@ -208,14 +201,8 @@ export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsD
           <div
             key={item.id}
             ref={(el) => { itemNodesRef.current[item.id] = el; }}
-            className="absolute flex items-center justify-center w-[120px] h-[40px] bg-sky-500 text-white font-black rounded-lg shadow-lg border-b-4 border-sky-700"
-            style={{
-              left: "-100%", top: "-100%",
-              transitionProperty: "background-color",
-              // pointer-events: none — Matter.js kapja az eseményeket, nem a div
-              pointerEvents: "none",
-              userSelect: "none",
-            }}
+            className="absolute pointer-events-none select-none flex items-center justify-center w-[120px] h-[40px] bg-sky-500 text-white font-black rounded-lg shadow-lg border-b-4 border-sky-700"
+            style={{ left: "-100%", top: "-100%" }}
           >
             {item.text}
           </div>
