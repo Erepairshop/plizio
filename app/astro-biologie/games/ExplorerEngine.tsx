@@ -1390,7 +1390,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       return (
                         <PhysicsDropGame
                           buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
-                          items={inter.items.map((item, idx) => ({ id: `item_${idx}`, text: L(item.text), bucketId: item.bucketId }))}
+                          items={inter.items.map((item, idx) => ({ id: String(idx), text: L(item.text), bucketId: item.bucketId }))}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );
