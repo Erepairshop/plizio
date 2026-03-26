@@ -1,6 +1,6 @@
 "use client";
-import React, { useEffect, useRef, useState } from "react";
-import Matter from "matter-js";
+import React, { useState, useCallback, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 
 export type BucketDef = {
   id: string;
@@ -20,196 +20,144 @@ interface PhysicsDropGameProps {
   onComplete: () => void;
 }
 
+const BUCKET_COLORS = ["#3b82f6", "#10b981", "#f59e0b", "#ef4444", "#8b5cf6", "#ec4899"];
+
 export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsDropGameProps) {
-  const sceneRef = useRef<HTMLDivElement>(null);
-  const engineRef = useRef<Matter.Engine | null>(null);
-  const runnerRef = useRef<Matter.Runner | null>(null);
-  
-  // React állapot a még pályán lévő szavak követésére
-  const [activeItems, setActiveItems] = useState<ItemDef[]>(items);
-  // Refek a DOM elemekhez, hogy szinkronizáljuk őket a fizikával
-  const itemNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
+  const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [placed, setPlaced] = useState<Map<string, string>>(new Map());
+  const [wrongFlash, setWrongFlash] = useState<string | null>(null);
+  const [correctFlash, setCorrectFlash] = useState<string | null>(null);
+  const completedRef = useRef(false);
 
-  useEffect(() => {
-    if (!sceneRef.current) return;
+  const unplaced = items.filter(i => !placed.has(i.id));
 
-    // 1. Fizikai motor inicializálása
-    const engine = Matter.Engine.create();
-    engineRef.current = engine;
-    const world = engine.world;
+  const handleItemTap = useCallback((itemId: string) => {
+    if (placed.has(itemId)) return;
+    setSelectedId(prev => prev === itemId ? null : itemId);
+  }, [placed]);
 
-    // A pálya méretei (belső felbontás, a CSS fogja méretezni)
-    const width = 800;
-    const height = 500;
+  const handleBucketTap = useCallback((bucketId: string) => {
+    if (!selectedId) return;
+    const item = items.find(i => i.id === selectedId);
+    if (!item) return;
 
-    // 2. Falak létrehozása (láthatatlan határok)
-    const wallOptions = { isStatic: true, render: { visible: false } };
-    Matter.World.add(world, [
-      Matter.Bodies.rectangle(width / 2, -50, width, 100, wallOptions), // Plafon
-      Matter.Bodies.rectangle(width / 2, height + 50, width, 100, wallOptions), // Padló (végső leesés ellen)
-      Matter.Bodies.rectangle(-50, height / 2, 100, height, wallOptions), // Bal fal
-      Matter.Bodies.rectangle(width + 50, height / 2, 100, height, wallOptions), // Jobb fal
-    ]);
-
-    // 3. Vödrök (Szenzorok) létrehozása az alján
-    const bucketWidth = width / buckets.length;
-    const bucketBodies: Matter.Body[] = [];
-
-    buckets.forEach((bucket, index) => {
-      const x = index * bucketWidth + bucketWidth / 2;
-      const y = height - 40;
-      
-      // Maga a vödör egy "szenzor" (át lehet rajta esni, de érzékeli az ütközést)
-      const sensor = Matter.Bodies.rectangle(x, y, bucketWidth - 20, 80, {
-        isStatic: true,
-        isSensor: true,
-        label: `bucket_${bucket.id}`,
-      });
-      bucketBodies.push(sensor);
-      
-      // Fizikai "elválasztó falak" a vödrök közé, hogy bepattanjanak a szavak
-      if (index > 0) {
-        Matter.World.add(world, 
-          Matter.Bodies.rectangle(index * bucketWidth, height - 60, 20, 120, { isStatic: true })
-        );
-      }
-    });
-    Matter.World.add(world, bucketBodies);
-
-    // 4. Szavak (Dobozok) létrehozása fentről bedobva
-    const itemBodies: Matter.Body[] = [];
-    activeItems.forEach((item, index) => {
-      const x = 100 + Math.random() * (width - 200); // Random X pozíció
-      const y = 50 + Math.random() * 100; // Fent
-      
-      const body = Matter.Bodies.rectangle(x, y, 120, 40, {
-        restitution: 0.6, // Visszapattanás
-        friction: 0.1,
-        label: `item_${item.id}_${item.bucketId}`,
-      });
-      itemBodies.push(body);
-    });
-    Matter.World.add(world, itemBodies);
-
-    // 5. Egér / Érintés vezérlés — koordináta skálázással
-    const mouse = Matter.Mouse.create(sceneRef.current);
-    // Scroll hijacking megakadályozása (Matter.js alapból elkapja)
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    mouse.element.removeEventListener("mousewheel", (mouse as any).mousewheel);
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    mouse.element.removeEventListener("DOMMouseScroll", (mouse as any).mousewheel);
-
-    const mouseConstraint = Matter.MouseConstraint.create(engine, {
-      mouse: mouse,
-      constraint: { stiffness: 0.2, render: { visible: false } },
-    });
-    Matter.World.add(world, mouseConstraint);
-
-    // Dinamikus skálázás: X és Y külön, mert a konténer nem fix arányú
-    Matter.Events.on(engine, "beforeUpdate", () => {
-      if (sceneRef.current) {
-        const scaleX = width / sceneRef.current.clientWidth;
-        const scaleY = height / sceneRef.current.clientHeight;
-        Matter.Mouse.setScale(mouse, { x: scaleX, y: scaleY });
-      }
-    });
-
-    // 6. Ütközések figyelése (Szó beleesik a vödörbe)
-    Matter.Events.on(engine, "collisionStart", (event) => {
-      event.pairs.forEach((pair) => {
-        const bodyA = pair.bodyA;
-        const bodyB = pair.bodyB;
-
-        const checkMatch = (itemBody: Matter.Body, bucketBody: Matter.Body) => {
-          if (itemBody.label.startsWith("item_") && bucketBody.label.startsWith("bucket_")) {
-            const [, itemId, expectedBucketId] = itemBody.label.split("_");
-            const actualBucketId = bucketBody.label.split("_")[1];
-
-            if (expectedBucketId === actualBucketId) {
-              // HELYES! Eltávolítjuk a fizikai testet
-              Matter.World.remove(world, itemBody);
-              // Eltávolítjuk a React állapotból is
-              setActiveItems((prev) => {
-                const newItems = prev.filter((i) => i.id !== itemId);
-                if (newItems.length === 0) {
-                  setTimeout(onComplete, 500); // Ha elfogyott, kész!
-                }
-                return newItems;
-              });
-            } else {
-              // ROSSZ VÖDÖR! Kilökjük a szót (felfelé irányuló erő)
-              Matter.Body.applyForce(itemBody, itemBody.position, { x: (Math.random() - 0.5) * 0.05, y: -0.15 });
-            }
-          }
-        };
-
-        checkMatch(bodyA, bodyB);
-        checkMatch(bodyB, bodyA);
-      });
-    });
-
-    // 7. Render Ciklus: A fizikai testek pozíciójának átmásolása a HTML elemekre
-    const runner = Matter.Runner.create();
-    runnerRef.current = runner;
-    Matter.Runner.run(runner, engine);
-
-    Matter.Events.on(engine, "afterUpdate", () => {
-      itemBodies.forEach((body) => {
-        // Kiszedjük az ID-t a címkéből: "item_XYZ_bucket"
-        const id = body.label.split("_")[1];
-        const domNode = itemNodesRef.current[id];
-        if (domNode && body.position) {
-          // Százalékos pozicionálás, hogy reszponzív legyen
-          const px = (body.position.x / width) * 100;
-          const py = (body.position.y / height) * 100;
-          domNode.style.left = `${px}%`;
-          domNode.style.top = `${py}%`;
-          domNode.style.transform = `translate(-50%, -50%) rotate(${body.angle}rad)`;
+    if (item.bucketId === bucketId) {
+      setCorrectFlash(selectedId);
+      setTimeout(() => setCorrectFlash(null), 400);
+      setPlaced(prev => {
+        const next = new Map(prev);
+        next.set(item.id, bucketId);
+        if (next.size === items.length && !completedRef.current) {
+          completedRef.current = true;
+          setTimeout(onComplete, 600);
         }
+        return next;
       });
-    });
+      setSelectedId(null);
+    } else {
+      setWrongFlash(selectedId);
+      setTimeout(() => setWrongFlash(null), 600);
+    }
+  }, [selectedId, items, onComplete]);
 
-    // CLEANUP
-    return () => {
-      Matter.Runner.stop(runner);
-      Matter.Engine.clear(engine);
-    };
-  }, []); // Csak egyszer fut le
+  const getBucketItems = (bucketId: string) =>
+    items.filter(i => placed.get(i.id) === bucketId);
 
   return (
-    <div className="w-full flex flex-col items-center select-none touch-none px-2">
-      <div
-        ref={sceneRef}
-        className="relative w-full bg-slate-900 rounded-xl overflow-hidden shadow-2xl border-2 border-slate-700"
-        style={{ minHeight: "58vh" }}
-      >
-        {/* Vödrök renderelése az alján */}
-        <div className="absolute bottom-0 w-full h-[90px] flex">
-          {buckets.map((bucket, i) => (
-            <div
+    <div className="w-full flex flex-col items-center gap-3 select-none px-1">
+      {/* Word chips */}
+      <div className="w-full max-w-lg min-h-[80px] bg-slate-800/60 rounded-2xl p-3 border border-slate-700/50">
+        <div className="flex flex-wrap gap-2 justify-center">
+          <AnimatePresence mode="popLayout">
+            {unplaced.map(item => {
+              const isSelected = selectedId === item.id;
+              const isWrong = wrongFlash === item.id;
+              const isCorrect = correctFlash === item.id;
+              return (
+                <motion.button
+                  key={item.id}
+                  layout
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{
+                    opacity: 1,
+                    scale: isWrong ? [1, 1.1, 0.95, 1] : 1,
+                    x: isWrong ? [0, -6, 6, -4, 4, 0] : 0,
+                  }}
+                  exit={{ opacity: 0, scale: 0.5, transition: { duration: 0.2 } }}
+                  transition={{ duration: isWrong ? 0.5 : 0.3 }}
+                  onClick={() => handleItemTap(item.id)}
+                  className="px-3.5 py-2 rounded-xl font-bold text-sm border-2 transition-colors duration-150"
+                  style={{
+                    backgroundColor: isCorrect ? "#10b981" : isWrong ? "#ef4444" : isSelected ? "#0ea5e9" : "#334155",
+                    borderColor: isCorrect ? "#059669" : isWrong ? "#dc2626" : isSelected ? "#0284c7" : "#475569",
+                    color: "#fff",
+                    boxShadow: isSelected ? "0 0 12px rgba(14,165,233,0.4)" : "none",
+                  }}
+                >
+                  {item.text}
+                </motion.button>
+              );
+            })}
+          </AnimatePresence>
+          {unplaced.length === 0 && (
+            <span className="text-green-400 font-bold text-sm py-2">✓</span>
+          )}
+        </div>
+      </div>
+
+      {/* Bucket zones */}
+      <div className="w-full max-w-lg grid gap-2" style={{ gridTemplateColumns: `repeat(${buckets.length}, 1fr)` }}>
+        {buckets.map((bucket, idx) => {
+          const color = bucket.color || BUCKET_COLORS[idx % BUCKET_COLORS.length];
+          const bucketItems = getBucketItems(bucket.id);
+          const isTarget = selectedId !== null;
+          return (
+            <motion.button
               key={bucket.id}
-              className="flex-1 border-t-4 border-slate-600 border-x border-slate-700/50 flex items-center justify-center bg-slate-800/80"
+              onClick={() => handleBucketTap(bucket.id)}
+              whileTap={isTarget ? { scale: 0.97 } : {}}
+              className="flex flex-col items-center rounded-2xl border-2 p-2 min-h-[100px] transition-all duration-200"
+              style={{
+                borderColor: isTarget ? color : `${color}44`,
+                backgroundColor: isTarget ? `${color}15` : `${color}08`,
+                boxShadow: isTarget ? `0 0 16px ${color}30` : "none",
+                cursor: isTarget ? "pointer" : "default",
+              }}
             >
-              <span className="text-white font-bold text-xs tracking-wider uppercase text-center px-1" style={{ opacity: 0.7 }}>
+              <span
+                className="font-black text-[10px] sm:text-xs uppercase tracking-wider mb-2 text-center leading-tight"
+                style={{ color: `${color}cc` }}
+              >
                 {bucket.label}
               </span>
-            </div>
-          ))}
-        </div>
-
-        {/* Fizikai Szavak renderelése */}
-        {activeItems.map((item) => (
-          <div
-            key={item.id}
-            ref={(el) => { itemNodesRef.current[item.id] = el; }}
-            className="absolute pointer-events-none select-none flex items-center justify-center bg-sky-500 text-white font-black rounded-lg shadow-lg border-b-4 border-sky-700 text-sm px-3 py-2"
-            style={{ left: "-100%", top: "-100%", minWidth: "80px" }}
-          >
-            {item.text}
-          </div>
-        ))}
+              <div className="flex flex-wrap gap-1.5 justify-center w-full">
+                <AnimatePresence>
+                  {bucketItems.map(item => (
+                    <motion.span
+                      key={item.id}
+                      initial={{ opacity: 0, y: -10, scale: 0.8 }}
+                      animate={{ opacity: 1, y: 0, scale: 1 }}
+                      className="px-2.5 py-1.5 rounded-lg font-bold text-xs text-white border"
+                      style={{
+                        backgroundColor: `${color}88`,
+                        borderColor: color,
+                      }}
+                    >
+                      {item.text}
+                    </motion.span>
+                  ))}
+                </AnimatePresence>
+              </div>
+            </motion.button>
+          );
+        })}
       </div>
-      <p className="mt-3 text-slate-400 font-bold text-xs text-center">Drag and drop the blocks into the correct zones!</p>
+
+      <p className="text-slate-500 font-bold text-xs text-center">
+        {selectedId
+          ? "👆 Now tap the correct category!"
+          : "👇 Tap a word, then tap its category"}
+      </p>
     </div>
   );
 }
