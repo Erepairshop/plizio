@@ -1,130 +1,250 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// ConjugationO2Explorer.tsx — AstroMagyar Grade 2: i6 Ragozás Szigete
+// Témák: 1) Igeragozás (Én, Te, Ő) 2) Tárgy ragja (-t) 3) Birtoklás (Enyém, tiéd) 4) Helyhatározó ragok (Hol? Hová?) 5) Könyv-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#064E3B" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Igeragozás: Én, Te, Ő */}
+        <circle cx="-50" cy="0" r="15" fill="#34D399" />
+        <text x="-50" y="5" textAnchor="middle" fontSize="10" fill="#064E3B" fontWeight="bold">ÉN</text>
+        
+        <circle cx="0" cy="0" r="15" fill="#10B981" />
+        <text x="0" y="5" textAnchor="middle" fontSize="10" fill="#064E3B" fontWeight="bold">TE</text>
+
+        <circle cx="50" cy="0" r="15" fill="#059669" />
+        <text x="50" y="5" textAnchor="middle" fontSize="10" fill="#A7F3D0" fontWeight="bold">Ő</text>
+
+        <path d="M -30,0 L -20,0 M 20,0 L 30,0" stroke="#6EE7B7" strokeWidth="2" strokeDasharray="2,2" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#065F46" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Házban vs Házba (Hol? Hová?) */}
+        <path d="M -40,-10 L -20,-30 L 0,-10 L 0,20 L -40,20 Z" fill="#10B981" />
+        <circle cx="-20" cy="0" r="4" fill="#FEF08A" />
+        <text x="-20" y="-35" textAnchor="middle" fontSize="10" fill="#6EE7B7" fontWeight="bold">HOL? (-ban)</text>
+        
+        <path d="M 15,-10 L 35,-30 L 55,-10 L 55,20 L 15,20 Z" fill="#10B981" opacity="0.5" />
+        <circle cx="5" cy="5" r="4" fill="#FEF08A" />
+        <path d="M 10,5 L 30,5" stroke="#FEF08A" strokeWidth="2" strokeLinecap="round" />
+        <polygon points="25,0 35,5 25,10" fill="#FEF08A" />
+        <text x="35" y="-35" textAnchor="middle" fontSize="10" fill="#6EE7B7" fontWeight="bold">HOVÁ? (-ba)</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Igék ragozása", tx1: "Az igéket ragozni kell a személyhez. Például: én futok, te futsz, ő fut.",
-    q1: "Az 'ő fut' mely személy?", a1: "harmadik személyt fejezi ki", b1: "első személyt fejezi ki", c1: "második személyt fejezi ki", d1: "többes számot fejezi ki",
+    explorer_title: "Ragozás Szigete",
+    
+    // T1: Igeragozás (Magnet)
+    t1_title: "Ki csinálja?",
+    t1_text: "Az igék vége megváltozik aszerint, hogy ki cselekszik. Ezt hívjuk igeragozásnak. Például: Én olvasOK, te olvasOL, ő olvas.",
+    t1_b1: "Én: -k vagy -m a vége (futok, látom).",
+    t1_b2: "Te: -l, -sz vagy -d a vége (futsz, látod).",
+    t1_inst: "Párosítsd a személyt a hozzá illő igével!",
+    t1_l1: "Én", t1_r1: "írok",
+    t1_l2: "Te", t1_r2: "írsz",
+    t1_l3: "Ő", t1_r3: "ír",
+    t1_q: "Hogyan mondjuk helyesen, ha ÉN csinálom?",
+    t1_q_a: "én játszom", t1_q_b: "én játszol", t1_q_c: "én játszik", t1_q_d: "én játszanak",
 
-    t2: "Első személy", tx2: "Az első személyű igealak az azt fejezi ki, hogy a beszélő teszi a cselekvést. Például: én futok, én olvasok.",
-    q2: "Melyik az első személyű igealak?", a2: "futok", b2: "futsz", c2: "futnak", d2: "fut",
+    // T2: Tárgyeset (Slingshot)
+    t2_title: "A tárgy ragja: -t",
+    t2_text: "Ha valamire a 'Mit?' vagy 'Kitet?' kérdéssel kérdezünk rá, akkor a szó végére egy '-t' betűt teszünk. Ezt hívjuk tárgyesetnek.",
+    t2_b1: "Például: Mit eszel? Az almáT.",
+    t2_b2: "Néha kell elé egy kötőhang: könyv -> könyvET.",
+    t2_inst: "Lődd le az aszteroidát, amin a TÁRGY (-t ragos szó) van!",
+    t2_target_1: "kiflit", // Helyes
+    t2_target_2: "kifli",
+    t2_target_3: "kiflivel",
+    t2_q: "Melyik szó válaszol a 'Mit?' kérdésre?",
+    t2_q_a: "ceruzát", t2_q_b: "ceruza", t2_q_c: "ceruzák", t2_q_d: "ceruzában",
 
-    t3: "Második személy", tx3: "A második személyű igealak az azt fejezi ki, hogy az a személy teszi a cselekvést, akivel beszélünk. Például: te futsz, te olvasol.",
-    q3: "Melyik az második személyű igealak?", a3: "futok", b3: "futsz", c3: "futnak", d3: "fut",
+    // T3: Birtokos személyjelek (Gap Fill)
+    t3_title: "Kinek a mije?",
+    t3_text: "Ha valami a miénk, azt a szó végén lévő jellel (birtokos személyjel) mutatjuk meg. Például: az én kutyáM, a te kutyáD, az ő kutyáJA.",
+    t3_b1: "Enyém: -m (könyvem).",
+    t3_b2: "Tiéd: -d (könyved).",
+    t3_inst: "Válaszd ki a mondatba illő helyes szót!",
+    t3_sentence: "Ez itt a te ___, vigyázz rá nagyon!",
+    t3_opt1: "játékod", t3_opt2: "játékom", t3_opt3: "játéka", t3_opt4: "játék",
+    t3_q: "Hogyan mondod, ha a táska a TIÉD?",
+    t3_q_a: "táskád", t3_q_b: "táskám", t3_q_c: "táskája", t3_q_d: "táskánk",
 
-    t4: "Harmadik személy", tx4: "A harmadik személyű igealak az azt fejezi ki, hogy az a személy teszi a cselekvést, aki nincs jelen a beszélgetésben. Például: ő fut, ő olvas.",
-    q4: "Melyik az harmadik személyű igealak?", a4: "futok", b4: "futsz", c4: "fut", d4: "futunk",
+    // T4: Helyhatározók - Hol? Hová? (Bucket)
+    t4_title: "Hol vagy Hová?",
+    t4_text: "Nem mindegy, hogy valahol már ott vagyunk (HOL? -> -ban, -ben), vagy éppen oda tartunk (HOVÁ? -> -ba, -be).",
+    t4_b1: "HOL? -> a szobáBAN, a kertBEN.",
+    t4_b2: "HOVÁ? -> a szobáBA, a kertBE.",
+    t4_inst: "Válogasd szét a szavakat: HOL? (-ban/-ben) vagy HOVÁ? (-ba/-be)",
+    t4_bucket_hol: "Hol? (-ban, -ben)",
+    t4_bucket_hova: "Hová? (-ba, -be)",
+    t4_item_h1: "erdőben", t4_item_h2: "házban",
+    t4_item_o1: "erdőbe", t4_item_o2: "házba",
+    t4_q: "Melyik szó válaszol a 'Hová?' kérdésre?",
+    t4_q_a: "iskolába", t4_q_b: "iskolában", t4_q_c: "iskolából", t4_q_d: "iskoláig",
 
-    t5: "Igék ragozása összefoglalása", tx5: "A ragozás alapvető a magyar nyelvben. Segít megérteni, hogy ki végzi a cselekvést.",
-    q5: "Válassz igealakot! Mely szó fejezi ki az 'ő játszik' jelentést?", a5: "játszik", b5: "játszol", c5: "játszunk", d5: "játszom",
-  },
-  de: {
-    t1: "Verbkonjugation", tx1: "Verben müssen nach der Person konjugiert werden. Zum Beispiel: ich laufe, du läufst, er läuft.",
-    q1: "Was bedeutet 'ő fut'?", a1: "dritte Person Singular", b1: "erste Person Singular", c1: "zweite Person Singular", d1: "Plural",
-
-    t2: "Erste Person", tx2: "Die erste Person drückt aus, dass der Sprecher die Aktion ausführt. Zum Beispiel: ich laufe, ich lese.",
-    q2: "Welche ist die erste Person Singular?", a2: "futok", b2: "futsz", c2: "futnak", d2: "fut",
-
-    t3: "Zweite Person", tx3: "Die zweite Person drückt aus, dass die Person, mit der man spricht, die Aktion ausführt. Zum Beispiel: du läufst, du liest.",
-    q3: "Welche ist die zweite Person Singular?", a3: "futok", b3: "futsz", c3: "futnak", d3: "fut",
-
-    t4: "Dritte Person", tx4: "Die dritte Person drückt aus, dass jemand anderes die Aktion ausführt. Zum Beispiel: er läuft, sie liest.",
-    q4: "Welche ist die dritte Person Singular?", a4: "futok", b4: "futsz", c4: "fut", d4: "futunk",
-
-    t5: "Verbkonjugation zusammengefasst", tx5: "Die Konjugation ist grundlegend im Ungarischen. Sie zeigt, wer die Aktion ausführt.",
-    q5: "Wähle die richtige Verbform aus! Welches Wort bedeutet 'er/sie spielt'?", a5: "játszik", b5: "játszol", c5: "játszunk", d5: "játszom",
-  },
+    // T5: Fun Catch
+    t5_title: "Ragozás Bajnoka",
+    t5_text: "Zseniális! A toldalékok (ragok és jelek) a magyar nyelv legfontosabb építőkockái, és te már kiválóan ismered őket.",
+    t5_b1: "Tudod, ki cselekszik (igeragozás).",
+    t5_b2: "Tudod, hol történik (helyhatározók).",
+    t5_inst: "Kapj el 6 könyvet (📚), amik tele vannak ragozott szavakkal!",
+    t5_q: "Melyik egy helyesen ragozott ige (TE csinálod)?",
+    t5_q_a: "te futsz", t5_q_b: "te futok", t5_q_c: "te fut", t5_q_d: "te futnak",
+  }
 };
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <Topic2Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_opt1", "t3_opt2", "t3_opt3", "t3_opt4"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "hol", label: "t4_bucket_hol" },
+        { id: "hova", label: "t4_bucket_hova" },
+      ],
+      items: [
+        { text: "t4_item_h1", bucketId: "hol" },
+        { text: "t4_item_o1", bucketId: "hova" },
+        { text: "t4_item_h2", bucketId: "hol" },
+        { text: "t4_item_o2", bucketId: "hova" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📚", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <circle cx="60" cy="80" r="28" fill="#B44DFF" opacity="0.3" stroke="#B44DFF" strokeWidth="2" />
-          <text x="60" y="95" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">én futok</text>
-          <circle cx="180" cy="80" r="28" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="180" y="95" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">ő fut</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="80" r="35" fill="#FF6B9D" opacity="0.2" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="18" fill="#FF6B9D" fontWeight="bold">én</text>
-          <text x="120" y="95" textAnchor="middle" fontSize="24" fill="white" fontWeight="bold">-ok</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <circle cx="120" cy="80" r="35" fill="#95E1D3" opacity="0.2" stroke="#95E1D3" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="18" fill="#95E1D3" fontWeight="bold">te</text>
-          <text x="120" y="95" textAnchor="middle" fontSize="24" fill="white" fontWeight="bold">-sz</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <circle cx="120" cy="80" r="35" fill="#4ECDC4" opacity="0.2" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="18" fill="#4ECDC4" fontWeight="bold">ő</text>
-          <text x="120" y="95" textAnchor="middle" fontSize="24" fill="white" fontWeight="bold">∅</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "c4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="50" cy="60" r="16" fill="#FF6B9D" />
-          <text x="50" y="67" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">1</text>
-          <circle cx="120" cy="60" r="16" fill="#95E1D3" />
-          <text x="120" y="67" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">2</text>
-          <circle cx="190" cy="60" r="16" fill="#4ECDC4" />
-          <text x="190" y="67" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">3</text>
-          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Személyek</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "📚",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function ConjugationO2Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function ConjugationO2Explorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={2} 
+      explorerId="magyar_o2_i6" 
+      color="#10B981" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
 }
