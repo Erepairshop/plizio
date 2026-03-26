@@ -399,7 +399,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
   // ── Topic-based mode detection ──────────────────────────────────────────
   const isTopicMode = !!(def.topics && def.topics.length > 0);
-  const topics = def.topics || [];
+  // Shuffle topic quiz choices so the correct answer isn't always first
+  const topics = useMemo(() => {
+    if (!def.topics) return [];
+    return def.topics.map(t => {
+      if (!t.quiz || !t.quiz.choices) return t;
+      return { ...t, quiz: { ...t.quiz, choices: shuffle([...t.quiz.choices]) } };
+    });
+  }, []);  // eslint-disable-line react-hooks/exhaustive-deps
   const totalTopics = topics.length;
 
   const [round, setRound] = useState(0);
@@ -475,10 +482,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   }, []);  // eslint-disable-line react-hooks/exhaustive-deps
 
   // Shuffle MCQ pools for review rounds (rounds with multiple questions)
+  // Also shuffle each question's choices so the correct answer isn't always first
   const shuffledQuestions = useMemo(() => {
-    return rounds.map((r) =>
-      r.questions && r.questions.length > 1 ? shuffle(r.questions) : r.questions || []
-    );
+    return rounds.map((r) => {
+      const pool = r.questions && r.questions.length > 1 ? shuffle(r.questions) : r.questions || [];
+      return pool.map(q => ({ ...q, choices: shuffle([...q.choices]) }));
+    });
   }, []);  // eslint-disable-line react-hooks/exhaustive-deps
 
   // Get current MCQ question
