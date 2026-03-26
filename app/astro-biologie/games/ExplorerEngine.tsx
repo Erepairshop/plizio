@@ -1396,15 +1396,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-magnet") {
-                      // Convert pairs (left=bucket label key, right=item label key) to buckets+items
-                      const seenBuckets = new Map<string, string>();
-                      inter.pairs.forEach((p) => { if (!seenBuckets.has(p.left)) seenBuckets.set(p.left, `b${seenBuckets.size}`); });
-                      const magnetBuckets = Array.from(seenBuckets.entries()).map(([key, id]) => ({ id, label: L(key) }));
-                      const magnetItems = inter.pairs.map((p, idx) => ({ id: String(idx), text: L(p.right), bucketId: seenBuckets.get(p.left)! }));
+                      const magnetPairs = inter.pairs.map((p: { left: string; right: string }, idx: number) => ({
+                        id: String(idx),
+                        left: L(p.left),
+                        right: L(p.right),
+                      }));
                       return (
                         <PhysicsMagnetGame
-                          buckets={magnetBuckets}
-                          items={magnetItems}
+                          pairs={magnetPairs}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );
@@ -1419,10 +1418,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-stacker") {
-                      const sentence = inter.correctOrder.map((origIdx, pos) => ({ id: `word_${origIdx}`, text: L(inter.words[origIdx]), index: pos }));
                       return (
                         <PhysicsStackerGame
-                          sentence={sentence}
+                          words={inter.words.map((w: string) => L(w))}
+                          correctOrder={inter.correctOrder}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );

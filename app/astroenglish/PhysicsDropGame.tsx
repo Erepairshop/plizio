@@ -93,7 +93,7 @@ export default function PhysicsDropGame({
       setWrongFlash(selectedId);
       setTimeout(() => {
         setWrongFlash(null);
-        setSelectedLeft(null); // Opcionális: törli a kijelölést hiba esetén
+        setSelectedId(null);
       }, 500);
     }
   }, [selectedId, items, isComplete, onComplete]);
