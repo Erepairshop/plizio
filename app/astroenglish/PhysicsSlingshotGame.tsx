@@ -1,226 +1,112 @@
 "use client";
-import React, { useEffect, useRef, useState } from "react";
-import Matter from "matter-js";
+import React, { useState, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 
-export type TargetDef = {
+export type ShootTarget = {
   id: string;
   text: string;
   isCorrect: boolean;
 };
 
-interface PhysicsSlingshotGameProps {
+interface MotionShootGameProps {
   question: string;
-  targets: TargetDef[];
+  targets: ShootTarget[];
   onComplete: () => void;
 }
 
-export default function PhysicsSlingshotGame({ question, targets, onComplete }: PhysicsSlingshotGameProps) {
-  const sceneRef = useRef<HTMLDivElement>(null);
-  const engineRef = useRef<Matter.Engine | null>(null);
-  const runnerRef = useRef<Matter.Runner | null>(null);
+export default function PhysicsSlingshotGame({ question, targets, onComplete }: MotionShootGameProps) {
+  const [wrongTarget, setWrongTarget] = useState<string | null>(null);
+  const [correctTarget, setCorrectTarget] = useState<string | null>(null);
+  const completedRef = useRef(false);
 
-  const [activeTargets, setActiveTargets] = useState<TargetDef[]>(targets);
-  const targetNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
-  const projectileNodeRef = useRef<HTMLDivElement | null>(null);
+  const handleShoot = (target: ShootTarget) => {
+    if (completedRef.current || correctTarget) return;
 
-  useEffect(() => {
-    if (!sceneRef.current) return;
-
-    const engine = Matter.Engine.create();
-    engineRef.current = engine;
-    const world = engine.world;
-
-    // Normál gravitáció
-    world.gravity.y = 1;
-
-    const width = 800;
-    const height = 500;
-
-    // Falak létrehozása (a plafont kivéve, hogy kirepülhessen, ha mellélő)
-    const wallOpts = { isStatic: true, render: { visible: false } };
-    Matter.World.add(world, [
-      Matter.Bodies.rectangle(-50, height / 2, 100, height, wallOpts), // Bal
-      Matter.Bodies.rectangle(width + 50, height / 2, 100, height, wallOpts), // Jobb
-      Matter.Bodies.rectangle(width / 2, height + 50, width, 100, wallOpts), // Padló
-    ]);
-
-    // 1. Célpontok (Aszteroidák) generálása a tetőn
-    const targetBodies: Matter.Body[] = [];
-    const spacing = width / (activeTargets.length + 1);
-    
-    activeTargets.forEach((target, index) => {
-      const x = spacing * (index + 1);
-      const y = 80 + Math.random() * 40; // Kicsit cikk-cakkos magasság
-
-      const body = Matter.Bodies.circle(x, y, 40, {
-        isStatic: true, // Nem esnek le
-        isSensor: true, // Át lehet rajtuk repülni, de érzékelik az ütközést
-        label: `target_${target.id}_${target.isCorrect}`,
-      });
-      targetBodies.push(body);
-    });
-    Matter.World.add(world, targetBodies);
-
-    // 2. A kilövőállomás és a lövedék
-    const anchorPoint = { x: width / 2, y: height - 100 };
-    
-    let projectile = Matter.Bodies.circle(anchorPoint.x, anchorPoint.y, 25, {
-      restitution: 0.5,
-      frictionAir: 0.02,
-      density: 0.05,
-      label: "projectile",
-    });
-
-    // A csúzli "gumija"
-    let sling = Matter.Constraint.create({
-      pointA: anchorPoint,
-      bodyB: projectile,
-      stiffness: 0.05, // Mennyire feszüljön (Angry Birds feeling)
-      damping: 0.01,
-      length: 10,
-      render: { visible: false },
-    });
-
-    Matter.World.add(world, [projectile, sling]);
-
-    // Egér vezérlés
-    const mouse = Matter.Mouse.create(sceneRef.current);
-    const mouseConstraint = Matter.MouseConstraint.create(engine, {
-      mouse: mouse,
-      constraint: { stiffness: 0.2, render: { visible: false } },
-    });
-    Matter.World.add(world, mouseConstraint);
-
-    // 3. Kilövés érzékelése
-    Matter.Events.on(engine, "afterUpdate", () => {
-      // Ha a lövedék elhagyta a csúzlit (feljebb repült) és elengedtük az egeret
-      if (projectile.position.y < anchorPoint.y - 30 && mouseConstraint.mouse.button === -1) {
-        // Elvágjuk a kötelet!
-        if (sling.bodyB) {
-          sling.bodyB = null; 
-        }
-      }
-
-      // Ha kirepült a képernyőről (mellélőtt), hozzunk létre egy újat!
-      if (projectile.position.y < -100 || projectile.position.x < -100 || projectile.position.x > width + 100) {
-        resetProjectile();
-      }
-    });
-
-    const resetProjectile = () => {
-      Matter.World.remove(world, projectile);
-      projectile = Matter.Bodies.circle(anchorPoint.x, anchorPoint.y, 25, {
-        restitution: 0.5,
-        frictionAir: 0.02,
-        density: 0.05,
-        label: "projectile",
-      });
-      sling.bodyB = projectile;
-      Matter.World.add(world, projectile);
-    };
-
-    // 4. Ütközés a célpontokkal
-    Matter.Events.on(engine, "collisionStart", (event) => {
-      event.pairs.forEach((pair) => {
-        const bodyA = pair.bodyA;
-        const bodyB = pair.bodyB;
-
-        const checkHit = (proj: Matter.Body, tgt: Matter.Body) => {
-          if (proj.label === "projectile" && tgt.label.startsWith("target_")) {
-            const [, targetId, isCorrectStr] = tgt.label.split("_");
-            const isCorrect = isCorrectStr === "true";
-
-            if (isCorrect) {
-              // TALÁLAT! Eltüntetjük a jó célpontot
-              Matter.World.remove(world, tgt);
-              // Kivesszük a UI-ból is, és vége a játéknak
-              setActiveTargets((prev) => prev.filter((t) => t.id !== targetId));
-              setTimeout(onComplete, 800);
-            } else {
-              // ROSSZ TALÁLAT! Csak visszapattan (nem tűnik el)
-              Matter.Body.setVelocity(proj, { x: proj.velocity.x * -1, y: 5 }); 
-              setTimeout(resetProjectile, 1000); // Kicsit később újratöltjük
-            }
-          }
-        };
-
-        checkHit(bodyA, bodyB);
-        checkHit(bodyB, bodyA);
-      });
-    });
-
-    const runner = Matter.Runner.create();
-    runnerRef.current = runner;
-    Matter.Runner.run(runner, engine);
-
-    // Szinkronizáció a DOM elemekkel
-    Matter.Events.on(engine, "afterUpdate", () => {
-      // Célpontok frissítése
-      targetBodies.forEach((body) => {
-        const id = body.label.split("_")[1];
-        const domNode = targetNodesRef.current[id];
-        if (domNode && body.position) {
-          const px = (body.position.x / width) * 100;
-          const py = (body.position.y / height) * 100;
-          domNode.style.left = `${px}%`;
-          domNode.style.top = `${py}%`;
-        }
-      });
-
-      // Lövedék frissítése
-      if (projectileNodeRef.current && projectile.position) {
-        const px = (projectile.position.x / width) * 100;
-        const py = (projectile.position.y / height) * 100;
-        projectileNodeRef.current.style.left = `${px}%`;
-        projectileNodeRef.current.style.top = `${py}%`;
-      }
-    });
-
-    return () => {
-      Matter.Runner.stop(runner);
-      Matter.Engine.clear(engine);
-    };
-  }, []);
+    if (target.isCorrect) {
+      // HELYES TALÁLAT!
+      setCorrectTarget(target.id);
+      completedRef.current = true;
+      setTimeout(onComplete, 1200); // Várunk picit, hogy lássa a "robbanást"
+    } else {
+      // ROSSZ TALÁLAT! (Rázkódás)
+      setWrongTarget(target.id);
+      setTimeout(() => setWrongTarget(null), 500);
+    }
+  };
 
   return (
-    <div className="w-full flex flex-col items-center select-none touch-none">
-      {/* Kérdés kijelzése */}
-      <div className="mb-4 text-center">
-        <h3 className="text-xl font-black text-slate-100">{question}</h3>
+    <div className="w-full flex flex-col items-center justify-between min-h-[300px] select-none px-2 gap-6 relative">
+      
+      {/* ŰR / ASZTEROIDA MEZŐ (Válaszok) */}
+      <div className="w-full max-w-2xl flex flex-wrap justify-center gap-4 pt-4">
+        <AnimatePresence>
+          {targets.map((target) => {
+            // Ha már van helyes válasz, és ez NEM az, akkor eltüntetjük (mintha megsemmisült volna)
+            if (correctTarget && correctTarget !== target.id) return null;
+
+            const isWrong = wrongTarget === target.id;
+            const isCorrect = correctTarget === target.id;
+
+            return (
+              <motion.button
+                key={target.id}
+                layout
+                // Alap lebegő animáció (y tengelyen picit mozog fel-le)
+                animate={
+                  isWrong 
+                    ? { x: [-10, 10, -10, 10, 0], backgroundColor: "#ef4444", borderColor: "#b91c1c" } 
+                    : isCorrect 
+                      ? { scale: [1, 1.2, 1], backgroundColor: "#10b981", borderColor: "#047857", y: 0 }
+                      : { y: [0, -5, 0], transition: { repeat: Infinity, duration: 2 + Math.random(), ease: "easeInOut" } }
+                }
+                exit={{ opacity: 0, scale: 0, transition: { duration: 0.3 } }}
+                onClick={() => handleShoot(target)}
+                className="relative px-5 py-4 rounded-3xl font-bold text-sm sm:text-base border-4 shadow-xl transition-shadow duration-300"
+                style={{
+                  backgroundColor: "#334155", // Aszteroida szürke
+                  borderColor: "#475569",
+                  color: "#f8fafc",
+                  boxShadow: isCorrect ? "0 0 30px rgba(16, 185, 129, 0.8)" : "0 10px 15px -3px rgba(0, 0, 0, 0.5)",
+                }}
+              >
+                {/* Kis kráter dizájn elemek */}
+                {!isCorrect && !isWrong && (
+                  <>
+                    <div className="absolute top-2 left-3 w-2 h-2 rounded-full bg-slate-600 opacity-50" />
+                    <div className="absolute bottom-2 right-4 w-3 h-3 rounded-full bg-slate-600 opacity-50" />
+                  </>
+                )}
+                <span className="relative z-10">{target.text}</span>
+              </motion.button>
+            );
+          })}
+        </AnimatePresence>
       </div>
 
-      <div 
-        ref={sceneRef} 
-        className="relative w-full max-w-2xl bg-slate-950 rounded-xl overflow-hidden shadow-2xl border-4 border-slate-800"
-        style={{ aspectRatio: "8/5" }}
-      >
-        {/* Aszteroidák (Válaszok) */}
-        {activeTargets.map((target) => (
-          <div
-            key={target.id}
-            ref={(el) => { targetNodesRef.current[target.id] = el; }}
-            className="absolute flex items-center justify-center w-[80px] h-[80px] bg-amber-600 text-white font-bold rounded-full shadow-[0_0_15px_rgba(217,119,6,0.5)] border-4 border-amber-400"
-            style={{ left: "-100%", top: "-100%", transform: "translate(-50%, -50%)" }}
-          >
-            <span className="text-center text-sm drop-shadow-md">{target.text}</span>
-          </div>
-        ))}
+      {/* CÉLZÓKERESZT VAGY LÉZER (Vizuális extra helyes válasznál) */}
+      <AnimatePresence>
+        {correctTarget && (
+          <motion.div
+            initial={{ height: 0, opacity: 0 }}
+            animate={{ height: "100px", opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="absolute bottom-[100px] w-1 bg-emerald-400 rounded-full shadow-[0_0_15px_#34d399]"
+            style={{ zIndex: 0 }}
+          />
+        )}
+      </AnimatePresence>
 
-        {/* Kilövőállomás bázisa (vizuális elem csak) */}
-        <div className="absolute left-1/2 bottom-0 w-8 h-24 bg-slate-600 rounded-t-lg -translate-x-1/2 opacity-50"></div>
-
-        {/* A lövedék (Űrhajó) */}
-        <div
-          ref={projectileNodeRef}
-          className="absolute flex items-center justify-center w-[50px] h-[50px] bg-rose-500 text-white text-2xl rounded-full shadow-[0_0_20px_rgba(225,29,72,0.8)] border-2 border-rose-300 cursor-grab active:cursor-grabbing z-10"
-          style={{ left: "-100%", top: "-100%", transform: "translate(-50%, -50%)" }}
-        >
-          🚀
-        </div>
+      {/* VEZÉRLŐPULT (Kérdés) */}
+      <div className="w-full max-w-lg bg-slate-900 border-t-4 border-slate-700 rounded-t-3xl p-5 shadow-[0_-10px_20px_rgba(0,0,0,0.3)] z-10 text-center">
+        <p className="text-slate-400 font-bold text-xs uppercase tracking-widest mb-2">Target Scanner</p>
+        <p className="text-white font-bold text-base sm:text-lg">
+          {question}
+        </p>
+        <p className="text-sky-400 font-bold text-xs mt-3 animate-pulse">
+          {correctTarget ? "TARGET DESTROYED! 💥" : "Tap an asteroid to shoot! 🎯"}
+        </p>
       </div>
-      <p className="mt-4 text-rose-300 font-bold text-sm">
-        Drag the rocket down and release to shoot the correct asteroid! 🎯
-      </p>
+
     </div>
   );
 }
