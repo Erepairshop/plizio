@@ -12,12 +12,46 @@ interface MotionShootGameProps {
   question: string;
   targets: ShootTarget[];
   onComplete: () => void;
+  lang?: string; // Nyelvi kód (de, hu, ro, en)
 }
 
-export default function PhysicsSlingshotGame({ question, targets, onComplete }: MotionShootGameProps) {
+// UI szótár a felülethez
+const UI_LABELS = {
+  en: {
+    scanner: "Target Scanner",
+    destroyed: "TARGET DESTROYED! 💥",
+    tapToShoot: "Tap an asteroid to shoot! 🎯",
+  },
+  hu: {
+    scanner: "Célpont Szkenner",
+    destroyed: "CÉLPONT MEGSEMMISÍTVE! 💥",
+    tapToShoot: "Koppints egy aszteroidára a lövéshez! 🎯",
+  },
+  de: {
+    scanner: "Ziel-Scanner",
+    destroyed: "ZIEL ZERSTÖRT! 💥",
+    tapToShoot: "Tippe auf einen Asteroiden zum Schießen! 🎯",
+  },
+  ro: {
+    scanner: "Scanner de Ținte",
+    destroyed: "ȚINTĂ DISTRUSĂ! 💥",
+    tapToShoot: "Apasă pe un asteroid pentru a trage! 🎯",
+  },
+};
+
+export default function PhysicsSlingshotGame({ 
+  question, 
+  targets, 
+  onComplete, 
+  lang = "en" 
+}: MotionShootGameProps) {
+  
   const [wrongTarget, setWrongTarget] = useState<string | null>(null);
   const [correctTarget, setCorrectTarget] = useState<string | null>(null);
   const completedRef = useRef(false);
+
+  // Kikeressük az aktuális nyelv szótárát (ha nincs, angol lesz)
+  const t = UI_LABELS[lang as keyof typeof UI_LABELS] || UI_LABELS.en;
 
   const handleShoot = (target: ShootTarget) => {
     if (completedRef.current || correctTarget) return;
@@ -67,6 +101,7 @@ export default function PhysicsSlingshotGame({ question, targets, onComplete }: 
                   borderColor: "#475569",
                   color: "#f8fafc",
                   boxShadow: isCorrect ? "0 0 30px rgba(16, 185, 129, 0.8)" : "0 10px 15px -3px rgba(0, 0, 0, 0.5)",
+                  cursor: isCorrect ? "default" : "pointer"
                 }}
               >
                 {/* Kis kráter dizájn elemek */}
@@ -98,12 +133,14 @@ export default function PhysicsSlingshotGame({ question, targets, onComplete }: 
 
       {/* VEZÉRLŐPULT (Kérdés) */}
       <div className="w-full max-w-lg bg-slate-900 border-t-4 border-slate-700 rounded-t-3xl p-5 shadow-[0_-10px_20px_rgba(0,0,0,0.3)] z-10 text-center">
-        <p className="text-slate-400 font-bold text-xs uppercase tracking-widest mb-2">Target Scanner</p>
+        <p className="text-slate-400 font-bold text-xs uppercase tracking-widest mb-2">
+          {t.scanner}
+        </p>
         <p className="text-white font-bold text-base sm:text-lg">
           {question}
         </p>
         <p className="text-sky-400 font-bold text-xs mt-3 animate-pulse">
-          {correctTarget ? "TARGET DESTROYED! 💥" : "Tap an asteroid to shoot! 🎯"}
+          {correctTarget ? t.destroyed : t.tapToShoot}
         </p>
       </div>
 
