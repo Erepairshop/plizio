@@ -1,124 +1,145 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// SpellingO3Explorer.tsx — AstroMagyar Grade 3: i6 Helyesírás haladó szigete
+// Témák: Egybeírás/Különírás, Ikes igék, Mássalhangzótörvények
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── PLACEHOLDER (SVG helyett) ───────────────────
+const PlaceholderSvg = memo(({ emoji, color }: { emoji: string; color: string }) => (
+  <svg width="100%" viewBox="0 0 240 140">
+    <rect width="240" height="140" fill={color} rx="20" opacity="0.2" />
+    <text x="50%" y="60%" textAnchor="middle" fontSize="60">{emoji}</text>
+  </svg>
+));
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Egybe-különírás", tx1: "Néhány szó egybeírható vagy különírható. Például: 'visszajött' vagy 'vissza jött'.",
-    q1: "Melyik helyes?", a1: "visszajött", b1: "vissza jött", c1: "visszajöt", d1: "vissza joett",
+    explorer_title: "Helyesírás haladó szigete",
+    
+    // T1: Egybe vagy külön? (Bucket)
+    t1_title: "Egybe vagy külön?",
+    t1_text: "Ha két szó egy új, közös jelentést kap, egybeírjuk (összetett szó). Ha csak az egyik szó jellemzi a másikat (milyen?), akkor különírjuk.",
+    t1_inst: "Válogasd szét: Egybeírjuk vagy Különírjuk?",
+    t1_bucket_egy: "Egybe",
+    t1_bucket_kul: "Külön",
+    t1_item_e1: "hóember", t1_item_e2: "vasút",
+    t1_item_k1: "piros alma", t1_item_k2: "fa asztal",
+    
+    // T2: Ikes igék (Slingshot)
+    t2_title: "Az -ik végű igék",
+    t2_text: "Vannak igék, amik szótári alakban '-ik' végződést kapnak (pl. eszik, iszik, alszik). Ezeket E/1 személyben (Én) '-m' raggal mondjuk helyesen!",
+    t2_inst: "Lődd le az aszteroidát a HELYES igealakkal! (Én...)",
+    t2_target_1: "eszem", // Helyes
+    t2_target_2: "eszek",
+    t2_target_3: "eszelek",
 
-    t2: "Szóösszetételek helyesírása", tx2: "Az összetett szavakat általában egybeírjuk. Például: 'ceruzatartó', 'könyvespolc'.",
-    q2: "Melyik összetett szó jó?", a2: "ceruza tartó", b2: "ceruzatartó", c2: "ceruza-tartó", d2: "Ceruza Tartó",
-
-    t3: "Kötőjeles írás", tx3: "Néha kötőjellel írunk szavakat, különösen ha nehéz az olvasás. Például: 'közép-iskolai'.",
-    q3: "Melyik igaz?", a3: "középiskola", b3: "közép iskola", c3: "közép-iskolai", d3: "Közép Iskola",
-
-    t4: "Ékezetek helyes használata", tx4: "Az ékezetek fontos részei a helyesírásnak. Például: 'kép', 'könyv', 'iskola'.",
-    q4: "Melyik szó jó ékezettel?", a4: "konyv", b4: "könyv", c4: "kőnyv", d4: "könyv",
-
-    t5: "Helyesírás összefoglalása", tx5: "A helyes helyesírás fontos a tiszta és érthető írásban.",
-    q5: "Melyik mondat helyes?", a5: "A ceruzatartó asztalon van.", b5: "A ceruza tartó asztalon van.", c5: "A ceruzatartó asztalon van", d5: "a ceruzatartó asztalon van",
-  },
-  de: {
-    t1: "Getrennt- oder Zusammenschreibung", tx1: "Manche Wörter können zusammen oder getrennt geschrieben werden. Zum Beispiel: 'zurückgekommen' oder 'zurück gekommen'.",
-    q1: "Welches ist richtig?", a1: "zurückgekommen", b1: "zurück gekommen", c1: "zurückgekomen", d1: "zurück geckommen",
-
-    t2: "Schreibung zusammengesetzter Wörter", tx2: "Zusammengesetzte Wörter werden in der Regel zusammengeschrieben. Zum Beispiel: 'Stifthalter', 'Bücherstapel'.",
-    q2: "Welches zusammengesetzte Wort ist richtig?", a2: "Stift Halter", b2: "Stifthalter", c2: "Stift-Halter", d2: "Stift halter",
-
-    t3: "Bindestrich-Schreibung", tx3: "Manchmal schreiben wir Wörter mit Bindestrich, besonders wenn es schwer zu lesen ist.",
-    q3: "Welches ist richtig?", a3: "Hauptschule", b3: "Haupt Schule", c3: "Haupt-Schuler", d3: "Haupt schule",
-
-    t4: "Diakritika-Verwendung", tx4: "Diakritika sind wichtige Teile der Rechtschreibung. Zum Beispiel: 'Bild', 'Buch', 'Schule'.",
-    q4: "Welches Wort hat die richtige Diakritika?", a4: "Buch", b4: "Buch", c4: "Buch", d4: "Buch",
-
-    t5: "Rechtschreibung zusammengefasst", tx5: "Die richtige Rechtschreibung ist wichtig für klares und verständliches Schreiben.",
-    q5: "Welcher Satz ist richtig?", a5: "Der Stifthalter steht auf dem Tisch.", b5: "Der Stift Halter steht auf dem Tisch.", c5: "Der Stifthalter steht auf dem Tisch", d5: "der Stifthalter steht auf dem Tisch",
-  },
+    // T3: Mássalhangzótörvények (Gap Fill)
+    t3_title: "Összeolvadó hangok",
+    t3_text: "Néha a szavak végén lévő hang összeolvad a toldalék első hangjával. Például a '-val/-vel' rag 'v' betűje átalakul: kéz + vel = kézzel.",
+    t3_inst: "Hogyan írjuk helyesen a toldalékos szót?",
+    t3_sentence: "A fát a favágó egy éles ___ vágta ki.",
+    t3_opt1: "fejszével", t3_opt2: "fejszéval", t3_opt3: "fejszevel", t3_opt4: "fejszévvel",
+  }
 };
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <PlaceholderSvg emoji="🧩" color="#10B981" />,
+    // imageUrl: "/images/islands/k3_i6_robot_pencil.webp",
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "egybe", label: "t1_bucket_egy" },
+        { id: "kulon", label: "t1_bucket_kul" },
+      ],
+      items: [
+        { text: "t1_item_e1", bucketId: "egybe" },
+        { text: "t1_item_k1", bucketId: "kulon" },
+        { text: "t1_item_e2", bucketId: "egybe" },
+        { text: "t1_item_k2", bucketId: "kulon" },
+      ],
+      instruction: "t1_inst",
+      hint1: "Ha egy új dolog = egybe.",
+      hint2: "Ha tulajdonság = külön.",
+    },
+    quiz: {
+      question: "Hogyan írjuk helyesen: jég + krém?",
+      choices: ["jégkrém", "jég krém", "jég-krém", "jégk rém"],
+      answer: "jégkrém",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <PlaceholderSvg emoji="🍽️" color="#10B981" />,
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "Emlékezz az -m ragra!",
+      hint2: "Nem -k a vége!",
+    },
+    quiz: {
+      question: "Hogyan mondjuk helyesen, ha ÉN iszom?",
+      choices: ["iszom", "iszok", "iszik", "iszunk"],
+      answer: "iszom",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <PlaceholderSvg emoji="🧲" color="#10B981" />,
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_opt1", "t3_opt2", "t3_opt3", "t3_opt4"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "Fejsze + vel",
+      hint2: "Figyelj a magánhangzóra!",
+    },
+    quiz: {
+      question: "Hogyan írjuk helyesen: gép + pel?",
+      choices: ["géppel", "gépel", "gépvel", "géppvel"],
+      answer: "géppel",
+    },
+  },
+  {
+    infoTitle: "Helyesírási bajnok",
+    infoText: "Kiválóan ismered a helyesírási szabályokat! Gyűjts be 6 aranyceruzát a továbbjutáshoz!",
+    svg: () => <PlaceholderSvg emoji="✏️" color="#10B981" />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "✏️", count: 6 },
+      instruction: "Kapd el a ceruzákat!",
+      hint1: "Kattints rájuk!",
+      hint2: "Már csak egy kis türelem!",
+    },
+    quiz: {
+      question: "Melyik szót írtuk helyesen?",
+      choices: ["vasút", "vas út", "vassút", "vas ut"],
+      answer: "vasút",
+    }
+  }
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="20" y="55" width="90" height="50" rx="4" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="65" y="85" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">visszajött</text>
-          <text x="130" y="85" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">vs</text>
-          <rect x="150" y="55" width="70" height="50" rx="4" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="185" y="85" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">vissza jött</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <rect x="30" y="55" width="180" height="50" rx="4" fill="none" stroke="#95E1D3" strokeWidth="2" />
-          <text x="120" y="85" textAnchor="middle" fontSize="14" fill="#95E1D3" fontWeight="bold">ceruzatartó</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <text x="80" y="85" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">közép-iskola</text>
-          <text x="150" y="85" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">-</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "c3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <text x="60" y="70" textAnchor="middle" fontSize="20" fill="#FFD700" fontWeight="bold">á é í ó ú ő ű</text>
-          <text x="120" y="120" textAnchor="middle" fontSize="11" fill="white/60">ékezetes magánhangzók</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="70" r="35" fill="none" stroke="#FFD700" strokeWidth="2" />
-          <text x="120" y="78" textAnchor="middle" fontSize="14" fill="#FFD700" fontWeight="bold">helyesírás</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="white/60">tiszta írás</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "✏️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function SpellingO3Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function SpellingO3Explorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return <ExplorerEngine def={DEF} grade={3} explorerId="magyar_o3_i6" color="#10B981" lang={lang} onDone={onDone} />;
 }
