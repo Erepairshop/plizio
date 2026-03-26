@@ -1,0 +1,231 @@
+"use client";
+// WordExplorer.tsx — AstroMagyar Grade 1: i4 Szósziget
+// Témák: 1) Ki ez? Mi ez? (Főnevek) 2) Mit csinál? (Igék) 3) Milyen? (Melléknevek) 4) Szókereső 5) Jegyzet-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#78350F" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Ember (Ki ez?) és Tárgy (Mi ez?) */}
+        <circle cx="-30" cy="-10" r="12" fill="#FBBF24" />
+        <path d="M -45,20 Q -30,0 -15,20" fill="#F59E0B" />
+        <text x="-30" y="35" textAnchor="middle" fontSize="10" fill="#FDE68A">KI EZ?</text>
+        
+        <rect x="20" y="-20" width="20" height="30" fill="#B45309" rx="2" />
+        <polygon points="15,-20 45,-20 30,-35" fill="#D97706" />
+        <text x="30" y="35" textAnchor="middle" fontSize="10" fill="#FDE68A">MI EZ?</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#064E3B" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Mozgás / Mit csinál? */}
+        <circle cx="-30" cy="10" r="10" fill="#10B981" />
+        <path d="M -20,10 Q 0,-20 20,10" fill="none" stroke="#34D399" strokeWidth="4" strokeDasharray="4,4" />
+        <polygon points="15,10 25,10 20,20" fill="#34D399" />
+        <text x="0" y="35" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#A7F3D0">MIT CSINÁL?</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
+
+const LABELS: Record<string, Record<string, string>> = {
+  hu: {
+    explorer_title: "Szósziget",
+    
+    // T1: Ki ez? Mi ez? (Főnevek)
+    t1_title: "Szavak, amik megneveznek",
+    t1_text: "Vannak szavak, amik megmondják, hogy valami kicsoda vagy micsoda. Embereknél és állatoknál azt kérdezzük: KI EZ? A tárgyaknál pedig azt: MI EZ?",
+    t1_b1: "Ki ez? -> fiú, kutya, anya.",
+    t1_b2: "Mi ez? -> asztal, könyv, ház.",
+    t1_inst: "Válogasd szét a szavakat: Élőlény (Ki ez?) vagy Tárgy (Mi ez?)!",
+    t1_bucket_ki: "Ki ez? (Élő)",
+    t1_bucket_mi: "Mi ez? (Tárgy)",
+    t1_item_k1: "macska", t1_item_k2: "tanító",
+    t1_item_m1: "ceruza", t1_item_m2: "autó",
+    t1_q: "Melyik szóra kérdezünk rá úgy, hogy 'Mi ez?'",
+    t1_q_a: "szék", t1_q_b: "nagypapa", t1_q_c: "kislány", t1_q_d: "mókus",
+
+    // T2: Mit csinál? (Igék)
+    t2_title: "A cselekvés szavai",
+    t2_text: "Amikor valaki vagy valami mozog, cselekszik, azt kérdezzük: MIT CSINÁL? Mi történik?",
+    t2_b1: "Például: fut, ugrik, olvas.",
+    t2_b2: "A cselekvés nagyon fontos egy mondatban!",
+    t2_inst: "Lődd le az aszteroidát, amelyik cselekvést (Mit csinál?) jelent!",
+    t2_target_1: "alszik", // Helyes
+    t2_target_2: "ágy",
+    t2_target_3: "puha",
+    t2_q: "Melyik szó fejez ki cselekvést (Mit csinál?)?",
+    t2_q_a: "játszik", t2_q_b: "játék", t2_q_c: "vidám", t2_q_d: "labda",
+
+    // T3: Milyen? (Melléknevek)
+    t3_title: "Milyen tulajdonságú?",
+    t3_text: "Ha el akarjuk mondani, hogy valami hogy néz ki, a MILYEN? kérdést tesszük fel. Ezek a tulajdonság szavai.",
+    t3_b1: "Lehet szín: piros, zöld.",
+    t3_b2: "Lehet méret vagy alak: nagy, kerek, szép.",
+    t3_inst: "Párosítsd a tárgyat a hozzá illő tulajdonsággal (Milyen?)!",
+    t3_l1: "Nap", t3_r1: "fényes",
+    t3_l2: "Fű", t3_r2: "zöld",
+    t3_l3: "Elefánt", t3_r3: "nagy",
+    t3_q: "Melyik szó felel a 'Milyen?' kérdésre?",
+    t3_q_a: "gyors", t3_q_b: "fut", t3_q_c: "cipő", t3_q_d: "fiú",
+
+    // T4: Szókereső
+    t4_title: "Keresd a cselekvést!",
+    t4_text: "Egy igazi mondatban mindig van valaki, aki csinál valamit, és egy cselekvés, ami történik.",
+    t4_b1: "A kutya ugat. (Mit csinál? Ugat.)",
+    t4_b2: "Péter olvas. (Mit csinál? Olvas.)",
+    t4_inst: "Keresd meg és jelöld ki a CSELEKVÉST a mondatban!",
+    t4_tok0: "A", t4_tok1: "kicsi", t4_tok2: "madár", t4_tok3: "énekel", t4_tok4: "a", t4_tok5: "fán.",
+    t4_q: "A mondatban ('A madár énekel') melyik a 'Ki ez/Mi ez?' szavunk?",
+    t4_q_a: "madár", t4_q_b: "énekel", t4_q_c: "A", t4_q_d: "fán",
+
+    // T5: Fun Catch
+    t5_title: "Szavak Bajnoka",
+    t5_text: "Szuper! Most már tudod, hogy a szavak jelenthetnek tárgyat, cselekvést vagy tulajdonságot.",
+    t5_b1: "Ki ez? Mi ez?",
+    t5_b2: "Mit csinál? Milyen?",
+    t5_inst: "Kapj el 5 jegyzettömböt (📝), hogy mindent leírhass!",
+    t5_q: "Melyik egy tulajdonság (Milyen?)",
+    t5_q_a: "ügyes", t5_q_b: "tanul", t5_q_c: "iskola", t5_q_d: "könyv",
+  }
+};
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "ki", label: "t1_bucket_ki" },
+        { id: "mi", label: "t1_bucket_mi" },
+      ],
+      items: [
+        { text: "t1_item_k1", bucketId: "ki" },
+        { text: "t1_item_m1", bucketId: "mi" },
+        { text: "t1_item_k2", bucketId: "ki" },
+        { text: "t1_item_m2", bucketId: "mi" },
+      ],
+      instruction: "t1_inst",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5"],
+      correctIndices: [3], // "énekel"
+      instruction: "t4_inst",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📝", count: 5 },
+      instruction: "t5_inst",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "📝",
+  topics: TOPICS,
+  rounds: [],
+};
+
+export default function WordExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={1} 
+      explorerId="magyar_o1_i4" 
+      color="#FFD700" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
+}
