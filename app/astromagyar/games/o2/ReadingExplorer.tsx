@@ -1,132 +1,215 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// ReadingExplorer.tsx — AstroMagyar Grade 2: i2 Olvasás Szigete
+// Témák: 1) Szókincs 2) Mondatértés 3) Lyukas szöveg 4) Szövegkörnyezet 5) Könyv-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#082F49" rx="20" />
+      <g transform="translate(120, 70)">
+        <path d="M -40,20 Q -20,10 0,20 L 0,-20 Q -20,-30 -40,-20 Z" fill="#F8FAFC" />
+        <path d="M 40,20 Q 20,10 0,20 L 0,-20 Q 20,-30 40,-20 Z" fill="#E2E8F0" />
+        <line x1="0" y1="-20" x2="0" y2="20" stroke="#94A3B8" strokeWidth="2" />
+        <rect x="-30" y="-10" width="20" height="2" fill="#CBD5E1" />
+        <rect x="-30" y="-5" width="20" height="2" fill="#CBD5E1" />
+        <rect x="10" y="-10" width="20" height="2" fill="#CBD5E1" />
+        <rect x="10" y="-5" width="20" height="2" fill="#CBD5E1" />
+        <text x="0" y="45" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#BAE6FD">ÉRTŐ OLVASÁS</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Szövegértés alapok", tx1: "Az olvasás során figyeljünk az történetre és a szereplőkre. Ez segít megérteni a szöveg lényegét.",
-    q1: "Milyen képesség szükséges ahhoz, hogy megértsük az olvasott szöveget?", a1: "Figyelem", b1: "Tempó", c1: "Hangerő", d1: "Méret",
+    explorer_title: "Olvasás Szigete",
+    
+    // T1: Szókincs (Match)
+    t1_title: "Miről olvasunk?",
+    t1_text: "Ahhoz, hogy jól értsük a meséket, ismernünk kell a szavak jelentését. Ha tudod, mi a különbség egy 'kunyhó' és egy 'palota' között, máris jobban látod magad előtt a történetet!",
+    t1_b1: "A szavak képeket alkotnak a fejünkben.",
+    t1_b2: "Figyeld a leírásokat!",
+    t1_inst: "Párosítsd a szót a jelentésével!",
+    t1_l1: "Kunyhó", t1_r1: "Kicsi, egyszerű házikó",
+    t1_l2: "Palota", t1_r2: "Hatalmas, díszes épület",
+    t1_l3: "Vándor", t1_r3: "Úton lévő utazó",
+    t1_q: "Mit jelent a 'vándor' szó?",
+    t1_q_a: "Olyan ember, aki sokat utazik.", t1_q_b: "Egy fajta sütemény.", t1_q_c: "Egy erdei állat.", t1_q_d: "Egy kerti szerszám.",
 
-    t2: "Kulcsszavak", tx2: "A kulcsszavak a szöveg legfontosabb szavai. Ezek segítik a fő gondolat megértését.",
-    q2: "Mi a kulcsszó egy szövegben?", a2: "A legfontosabb szó", b2: "Az első szó", c2: "A leghosszabb szó", d2: "Az utolsó szó",
+    // T2: Mondatértés (Slingshot)
+    t2_title: "Érted a mondatot?",
+    t2_text: "Olvasás közben fontos, hogy ne csak a betűket lásd, hanem tudd is, mi történik. 'A cica a kerítésen ücsörög.' - Hol van a cica?",
+    t2_b1: "Keresd a választ a mondatban!",
+    t2_inst: "Lődd le a helyes választ: 'A barna mackó mézet eszik a barlangban.' Mit eszik a mackó?",
+    t2_target_1: "mézet", // Helyes
+    t2_target_2: "almát",
+    t2_target_3: "halat",
+    t2_q: "A mondat alapján hol van a mackó? ('A barna mackó mézet eszik a barlangban.')",
+    t2_q_a: "a barlangban", t2_q_b: "a fán", t2_q_c: "a folyóban", t2_q_d: "az erdőben",
 
-    t3: "Kérdések megválaszolása", tx3: "Amikor kérdéseket kapunk a szövegről, vissza kell gondolnunk az olvasott részletekre.",
-    q3: "Mit tehetünk, ha nem emlékszünk a szöveg tartalmára?", a3: "Újra elolvasni a szöveget", b3: "Feladni", c3: "Tippelni", d3: "Másodtól kérdezni",
+    // T3: Lyukas szöveg (Gap Fill)
+    t3_title: "Hiányzó szavak",
+    t3_text: "Néha kitalálhatjuk a hiányzó szót abból, amiről a mondat többi része szól. Ezt hívjuk szövegkörnyezetnek.",
+    t3_b1: "Olvasd el az egész mondatot!",
+    t3_b2: "Melyik szó illik oda a legjobban?",
+    t3_inst: "Válaszd ki a mondatba illő szót!",
+    t3_sentence: "A kisfiú felvette a ___ és kiment a hóba játszani.",
+    t3_opt1: "kabátját", t3_opt2: "papucsát", t3_opt3: "fürdőruháját", t3_opt4: "pizsamáját",
+    t3_q: "Miért a 'kabátját' a jó megoldás?",
+    t3_q_a: "Mert kiment a hóba, ott pedig hideg van.", t3_q_b: "Mert az a leghosszabb szó.", t3_q_c: "Mert szeret öltözködni.", t3_q_d: "Csak úgy.",
 
-    t4: "Helyesírás az olvasásban", tx4: "A helyesen írt szavak könnyebben olvashatóak és megérthetőek.",
-    q4: "Melyik szó van helyesen írva?", a4: "házban", b4: "házbán", c4: "házban", d4: "házaban",
+    // T4: Szórend és értelem (Word Order)
+    t4_title: "Zűrös mondatok",
+    t4_text: "Ha a szavak összekeverednek, a mondat elveszíti az értelmét. Rakjuk őket helyes sorrendbe!",
+    t4_b1: "Keresd a nagybetűt a kezdéshez!",
+    t4_b2: "Az írásjel legyen a végén!",
+    t4_inst: "Tedd sorrendbe a szavakat, hogy értelmes legyen!",
+    t4_w1: "A", t4_w2: "gyerekek", t4_w3: "vidáman", t4_w4: "játszanak.",
+    t4_q: "Mi segített elindítani a mondatot?",
+    t4_q_a: "A nagybetűs szó.", t4_q_b: "A legrövidebb szó.", t4_q_c: "A pont.", t4_q_d: "A középső szó.",
 
-    t5: "Összefoglaló olvasás", tx5: "Az olvasott szöveg lényegét néhány mondatban össze tudjuk foglalni.",
-    q5: "Hogyan tudjuk még jobban megérteni a szöveget?", a5: "Újra elolvasni", b5: "Gyorsabban olvasni", c5: "Halkan olvasni", d5: "Hangosan olvasni",
-  },
-  de: {
-    t1: "Leseverständnis-Grundlagen", tx1: "Während des Lesens sollten wir auf die Geschichte und die Charaktere achten. Dies hilft, den Sinn des Textes zu verstehen.",
-    q1: "Welche Fähigkeit ist notwendig, um einen gelesenen Text zu verstehen?", a1: "Aufmerksamkeit", b1: "Tempo", c1: "Lautstärke", d1: "Größe",
-
-    t2: "Schlüsselwörter", tx2: "Schlüsselwörter sind die wichtigsten Wörter im Text. Sie helfen, die Hauptidee zu verstehen.",
-    q2: "Was ist ein Schlüsselwort in einem Text?", a2: "Das wichtigste Wort", b2: "Das erste Wort", c2: "Das längste Wort", d2: "Das letzte Wort",
-
-    t3: "Fragen beantworten", tx3: "Wenn wir Fragen zum Text bekommen, müssen wir an die gelesenen Details zurückdenken.",
-    q3: "Was können wir tun, wenn wir uns nicht an den Inhalt erinnern?", a3: "Den Text erneut lesen", b3: "Aufgeben", c3: "Raten", d3: "Jemanden fragen",
-
-    t4: "Rechtschreibung beim Lesen", tx4: "Korrekt geschriebene Wörter sind leichter zu lesen und zu verstehen.",
-    q4: "Welches Wort ist korrekt geschrieben?", a4: "házban", b4: "házbán", c4: "házban", d4: "házaban",
-
-    t5: "Zusammenfassendes Lesen", tx5: "Den Inhalt eines gelesenen Textes können wir in wenigen Sätzen zusammenfassen.",
-    q5: "Wie können wir den Text besser verstehen?", a5: "Erneut lesen", b5: "Schneller lesen", c5: "Leise lesen", d5: "Laut lesen",
-  },
+    // T5: Fun Catch
+    t5_title: "Olvasó Bajnok",
+    t5_text: "Gratulálok! Te már nem csak olvasol, hanem érted is, amit látsz. Ez a tudás kaput nyit a mesék világára.",
+    t5_b1: "Ismered a szavak jelentését.",
+    t5_b2: "Tudsz a sorok között olvasni.",
+    t5_inst: "Kapj el 6 varázskönyvet (📖) a győzelemhez!",
+    t5_q: "Mi a legfontosabb az olvasásnál?",
+    t5_q_a: "Hogy értsük, miről szól a szöveg.", b: "Hogy nagyon gyorsan daráljuk a betűket.", c: "Hogy csak a képeket nézzük.", d: "Hogy minden oldalt kiszínezzünk.",
+  }
 };
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b1",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_opt1", "t3_opt2", "t3_opt3", "t3_opt4"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📖", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="20" y="30" width="200" height="100" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="30" y="55" fontSize="11" fill="#4ECDC4">Egy szép reggel Anna az</text>
-          <text x="30" y="72" fontSize="11" fill="#4ECDC4">erdőbe ment, ahol sok</text>
-          <text x="30" y="89" fontSize="11" fill="#4ECDC4">virág virított...</text>
-          <circle cx="210" cy="120" r="8" fill="#FFD700" />
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="80" r="40" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="88" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">LÉNYEG</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <path d="M 120 30 L 120 100" stroke="#FF6B9D" strokeWidth="3" />
-          <circle cx="120" cy="30" r="8" fill="#FF6B9D" />
-          <text x="120" y="50" textAnchor="middle" fontSize="12" fill="#FF6B9D" fontWeight="bold">?</text>
-          <path d="M 80 100 L 160 100" stroke="#FF6B9D" strokeWidth="3" />
-          <circle cx="80" cy="100" r="6" fill="#FF6B9D" />
-          <circle cx="160" cy="100" r="6" fill="#FF6B9D" />
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <text x="60" y="95" textAnchor="middle" fontSize="20" fill="#4ECDC4" fontWeight="bold">házban</text>
-          <circle cx="60" cy="125" r="5" fill="#4ECDC4" />
-          <text x="180" y="95" textAnchor="middle" fontSize="20" fill="#FF6B9D" fontWeight="bold">házbán</text>
-          <circle cx="180" cy="125" r="5" fill="#FF6B9D" />
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <path d="M 30 40 L 210 40" stroke="#95E1D3" strokeWidth="2" strokeDasharray="5,5" />
-          <path d="M 30 70 L 210 70" stroke="#95E1D3" strokeWidth="2" strokeDasharray="5,5" />
-          <path d="M 30 100 L 210 100" stroke="#95E1D3" strokeWidth="2" strokeDasharray="5,5" />
-          <path d="M 30 130 L 210 130" stroke="#95E1D3" strokeWidth="2" strokeDasharray="5,5" />
-          <circle cx="50" cy="70" r="4" fill="#95E1D3" />
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "📖",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function ReadingExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function ReadingExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={2} 
+      explorerId="magyar_o2_i2" 
+      color="#00D4FF" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
 }
