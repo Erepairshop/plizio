@@ -1,127 +1,283 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// FigurativeK7Explorer.tsx — AstroEnglish Grade 7: i5 Figurative Frontier
+// Topics: 1) Simile vs Metaphor 2) Figurative Match 3) Spot Personification 4) Hyperbole Hunt 5) Mask Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#4A044E" rx="20" />
+      {/* Simile vs Metaphor Balance */}
+      <g transform="translate(120, 70)">
+        <path d="M -60,20 L 60,20" stroke="#FDF4FF" strokeWidth="2" />
+        <polygon points="0,20 -10,40 10,40" fill="#E879F9" />
+        
+        {/* Left: Simile (Like/As) */}
+        <rect x="-70" y="-10" width="30" height="20" fill="#C026D3" rx="4" />
+        <text x="-55" y="5" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">AS</text>
+        
+        {/* Right: Metaphor (IS) */}
+        <circle cx="55" cy="0" r="12" fill="#D946EF" />
+        <text x="55" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">IS</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#171717" rx="20" />
+      {/* Abstract Theater Masks */}
+      <g transform="translate(90, 70)">
+        <path d="M -15,-20 Q 0,-25 15,-20 Q 20,0 0,20 Q -20,0 -15,-20" fill="#F43F5E" />
+        <circle cx="-5" cy="-5" r="3" fill="#171717" />
+        <circle cx="5" cy="-5" r="3" fill="#171717" />
+        <path d="M -5,5 Q 0,10 5,5" fill="none" stroke="#171717" strokeWidth="2" />
+      </g>
+      <g transform="translate(150, 70)">
+        <path d="M -15,-20 Q 0,-25 15,-20 Q 20,0 0,20 Q -20,0 -15,-20" fill="#3B82F6" />
+        <circle cx="-5" cy="-5" r="3" fill="#171717" />
+        <circle cx="5" cy="-5" r="3" fill="#171717" />
+        <path d="M -5,8 Q 0,3 5,8" fill="none" stroke="#171717" strokeWidth="2" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Hyperbole Starburst */}
+      <g transform="translate(120, 70)">
+        <polygon points="0,-40 10,-10 40,0 10,10 0,40 -10,10 -40,0 -10,-10" fill="#FBBF24" />
+        <circle cx="0" cy="0" r="15" fill="#EF4444" />
+        <text x="0" y="55" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FCA5A5">Tap the Masks!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Irony & Sarcasm", tx1: "Irony: a contradiction between expectation and reality. Sarcasm: bitter, cutting irony meant to mock.",
-    q1: "Which sentence shows irony?", a1: "The Titanic was unsinkable; it sank on its maiden voyage", b1: "He is very tall", c1: "The sky is blue", d1: "She ran very fast",
-    t2: "Hyperbole", tx2: "Extreme exaggeration for effect or emphasis. 'I'm so tired I could sleep for a year.' Not meant literally.",
-    q2: "Which is a hyperbole?", a2: "She was very angry", b2: "He had a million things to do", c2: "The weather was bad", d2: "They went to the store",
-    t3: "Oxymoron & Paradox", tx3: "Oxymoron: 'bittersweet,' 'deafening silence' (contradictory terms together). Paradox: a statement that seems false but contains truth.",
-    q3: "Which is an oxymoron?", a3: "She seemed happy", b3: "The silence was peaceful", c3: "Living dead", d3: "He was thoughtful",
-    t4: "Allusion & Reference", tx4: "Indirect reference to another work, person, or event. Example: 'He's no Shakespeare' alludes to the playwright.",
-    q4: "Which is an allusion?", a4: "She was very smart", b4: "He faced his Waterloo at the tournament", c4: "The teacher was strict", d4: "The book was long",
-    t5: "Metonymy & Synecdoche", tx5: "Metonymy: substitute the name of something with something associated (crown for king). Synecdoche: part represents whole or vice versa.",
-    q5: "Which is metonymy?", a5: "The White House announced a new policy", b5: "All hands on deck", c5: "The bright sun", d5: "Green fields",
-  },
-  de: {
-    t1: "Ironie & Sarkasmus", tx1: "Ironie: Widerspruch zwischen Erwartung und Wirklichkeit.",
-    q1: "Welcher Satz zeigt Ironie?", a1: "The Titanic was unsinkable; it sank on its maiden voyage", b1: "He is very tall", c1: "The sky is blue", d1: "She ran fast",
-    t2: "Hyperbel", tx2: "Extreme Übertreibung für Wirkung. 'Ich bin so müde, ich könnte ein Jahr schlafen.'",
-    q2: "Welche ist eine Hyperbel?", a2: "She was very angry", b2: "He had a million things to do", c2: "The weather was bad", d2: "They went store",
-    t3: "Oxymoron & Paradoxon", tx3: "Oxymoron: 'süßbitter,' 'lärmende Stille' (widersprechende Begriffe zusammen).",
-    q3: "Welches ist ein Oxymoron?", a3: "She seemed happy", b3: "The silence was peaceful", c3: "Living dead", d3: "He was thoughtful",
-    t4: "Anspielung & Referenz", tx4: "Indirekte Bezugnahme auf ein anderes Werk oder eine Person.",
-    q4: "Welcher ist eine Anspielung?", a4: "She was very smart", b4: "He faced his Waterloo at tournament", c4: "The teacher was strict", d4: "The book was long",
-    t5: "Metonymie & Synekdoche", tx5: "Metonymie: Ersatz eines Namens durch etwas Zugeordnetes (Krone für König).",
-    q5: "Welcher ist Metonymie?", a5: "The White House announced a policy", b5: "All hands on deck", c5: "The bright sun", d5: "Green fields",
-  },
+    explorer_title: "Figurative Frontier",
+    
+    // T1: Simile vs Metaphor (DROP GAME)
+    t1_title: "Simile or Metaphor?",
+    t1_text: "A SIMILE compares two things using 'like' or 'as' (e.g., 'Cold as ice'). A METAPHOR says one thing IS another without using 'like' or 'as' (e.g., 'The world is a stage').",
+    t1_b1: "Simile: Uses 'like' or 'as'.",
+    t1_b2: "Metaphor: Direct comparison (is, was, are).",
+    t1_b3: "Both create vivid pictures in your mind.",
+    t1_inst: "Sort the poetic phrases into the correct buckets!",
+    t1_bucket_sim: "Simile (Like/As)",
+    t1_bucket_met: "Metaphor (Direct)",
+    t1_item_s1: "Fast as a rocket.", t1_item_s2: "Shining like a star.",
+    t1_item_m1: "His heart is stone.", t1_item_m2: "The sun was a furnace.",
+    t1_q: "Which of these is a METAPHOR?",
+    t1_q_a: "Her smile is the sun.", t1_q_b: "She smiled like the sun.", t1_q_c: "She is as bright as the sun.", t1_q_d: "The sun is hot.",
+
+    // T2: Figurative Match (MAGNET MATCH)
+    t2_title: "Language Lab",
+    t2_text: "Let's learn two more tools! PERSONIFICATION gives human traits to non-human things (The wind howled). HYPERBOLE is an extreme exaggeration used for effect (I'm so hungry I could eat a horse).",
+    t2_b1: "Personification: Non-humans acting human.",
+    t2_b2: "Hyperbole: Extreme, impossible exaggeration.",
+    t2_b3: "Idiom: A phrase that doesn't mean exactly what it says ('Piece of cake').",
+    t2_inst: "Magnet Match: Connect the term to its definition!",
+    t2_l1: "Personification", t2_r1: "Giving human traits to objects",
+    t2_l2: "Hyperbole", t2_r2: "An extreme exaggeration",
+    t2_l3: "Idiom", t2_r3: "A common saying with a hidden meaning",
+    t2_q: "What type of figurative language is 'I have a million things to do'?",
+    t2_q_a: "Hyperbole", t2_q_b: "Simile", t2_q_c: "Personification", t2_q_d: "Metaphor",
+
+    // T3: Spot Personification (HIGHLIGHT)
+    t3_title: "Radar Scan: Personification",
+    t3_text: "When an author writes that the stars 'danced' or the camera 'loved' someone, they are using personification to make the description come alive.",
+    t3_b1: "Find the non-human object.",
+    t3_b2: "Find the human action it is doing.",
+    t3_b3: "Highlight the object and the human action!",
+    t3_inst: "Highlight the PERSONIFICATION (Noun + Verb) in this sentence!",
+    t3_tok0: "At", t3_tok1: "night,", t3_tok2: "the", t3_tok3: "angry", t3_tok4: "storm", t3_tok5: "swallowed", t3_tok6: "the", t3_tok7: "tiny", t3_tok8: "ship.",
+    t3_q: "What is being personified in the sentence above?",
+    t3_q_a: "The storm", t3_q_b: "The night", t3_q_c: "The ship", t3_q_d: "The tiny",
+
+    // T4: Hyperbole Hunt (SLINGSHOT)
+    t4_title: "Hyperbole Hunter",
+    t4_text: "Hyperbole isn't meant to be taken literally. It's used to show strong emotion or make a point. If it could actually be true, it's not a hyperbole!",
+    t4_b1: "Is it literally impossible?",
+    t4_b2: "Is it an exaggeration?",
+    t4_b3: "Shoot the impossible statement!",
+    t4_inst: "Shoot the asteroid that contains a HYPERBOLE!",
+    t4_target_1: "My backpack weighs a ton!", // Correct
+    t4_target_2: "My backpack is very heavy.",
+    t4_target_3: "I have five books in my bag.",
+    t4_q: "Which sentence contains a hyperbole?",
+    t4_q_a: "This line is taking forever.", t4_q_b: "This line is moving slowly.", t4_q_c: "I have been in line for ten minutes.", t4_q_d: "The line is outside.",
+
+    // T5: Fun Catch
+    t5_title: "Master of Words",
+    t5_text: "Bravo! You have navigated the Figurative Frontier. You can now understand the hidden meanings and beautiful imagery in literature.",
+    t5_b1: "Similes use like/as.",
+    t5_b2: "Hyperboles exaggerate.",
+    t5_b3: "Catch 6 Masks!",
+    t5_inst: "Tap the 6 theater masks (🎭) to celebrate your victory!",
+    t5_q: "What is the main purpose of figurative language?",
+    t5_q_a: "To make writing more vivid and interesting.", t5_q_b: "To confuse the reader.", t5_q_c: "To state boring facts.", t5_q_d: "To make sentences shorter.",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "sim", label: "t1_bucket_sim" },
+        { id: "met", label: "t1_bucket_met" },
+      ],
+      items: [
+        { text: "t1_item_s1", bucketId: "sim" },
+        { text: "t1_item_m1", bucketId: "met" },
+        { text: "t1_item_s2", bucketId: "sim" },
+        { text: "t1_item_m2", bucketId: "met" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6", "t3_tok7", "t3_tok8"],
+      correctIndices: [4, 5], // "storm swallowed"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🎭", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e"/>
-          <circle cx="60" cy="80" r="20" fill="#f59e0b" opacity="0.6"/>
-          <text x="60" y="88" textAnchor="middle" fontSize="16" fill="white" fontWeight="bold">😏</text>
-          <circle cx="180" cy="80" r="20" fill="#f87171" opacity="0.6"/>
-          <text x="180" y="88" textAnchor="middle" fontSize="16" fill="white" fontWeight="bold">🙃</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="12" fill="#fca5a5">Contradiction</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <text x="120" y="100" textAnchor="middle" fontSize="32" fill="#ff6b6b" fontWeight="bold">∞</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="12" fill="#fca5a5">Extreme Exaggeration</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <circle cx="60" cy="80" r="16" fill="#ec4899" opacity="0.7"/>
-          <text x="60" y="85" textAnchor="middle" fontSize="18" fill="white">⊕</text>
-          <text x="60" y="125" textAnchor="middle" fontSize="10" fill="#f472b6">Oxymoron</text>
-          <circle cx="180" cy="80" r="16" fill="#a855f7" opacity="0.7"/>
-          <text x="180" y="87" textAnchor="middle" fontSize="18" fill="white">⚡</text>
-          <text x="180" y="125" textAnchor="middle" fontSize="10" fill="#d8b4fe">Paradox</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "c3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e3a8a"/>
-          <circle cx="120" cy="60" r="14" fill="#3b82f6" opacity="0.7"/>
-          <text x="120" y="65" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">Ref</text>
-          <path d="M110,74 L60,110" stroke="#3b82f6" strokeWidth="2"/>
-          <path d="M130,74 L180,110" stroke="#3b82f6" strokeWidth="2"/>
-          <circle cx="60" cy="120" r="8" fill="#3b82f6" opacity="0.5"/>
-          <circle cx="180" cy="120" r="8" fill="#3b82f6" opacity="0.5"/>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2d1b69"/>
-          <rect x="30" y="50" width="85" height="50" rx="4" fill="#ddd6fe" opacity="0.8"/>
-          <text x="73" y="75" textAnchor="middle" fontSize="12" fill="#6d28d9" fontWeight="bold">Metonymy</text>
-          <text x="73" y="92" textAnchor="middle" fontSize="9" fill="#8b5cf6">crown = king</text>
-          <rect x="125" y="50" width="85" height="50" rx="4" fill="#d8b4fe" opacity="0.8"/>
-          <text x="168" y="75" textAnchor="middle" fontSize="11" fill="#6d28d9" fontWeight="bold">Synecdoche</text>
-          <text x="168" y="92" textAnchor="middle" fontSize="9" fill="#8b5cf6">part = whole</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🎭",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function FigurativeK7Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const FigurativeK7Explorer = memo(function FigurativeK7Explorer({
+  color = "#D946EF", // Fuchsia-500 (Kreatív, drámai szín)
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="english_k7_figurative_frontier" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default FigurativeK7Explorer;
