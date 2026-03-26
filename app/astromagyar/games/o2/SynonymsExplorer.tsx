@@ -1,134 +1,229 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// SynonymsExplorer.tsx — AstroMagyar Grade 2: i7 Szinonimák Szigete
+// Témák: 1) Szinonimák (Rokon értelmű szavak) 2) Újabb ellentétek 3) Árnyalt kifejezések 4) Szövegkörnyezet 5) Maszk-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#7C2D12" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Két maszk, amik ugyanazt az érzelmet fejezik ki */}
+        <circle cx="-40" cy="0" r="25" fill="#FDBA74" />
+        <circle cx="40" cy="0" r="25" fill="#FB923C" />
+        {/* Szemek és mosoly mindkettőnek */}
+        <circle cx="-50" cy="-5" r="3" fill="#7C2D12" />
+        <circle cx="-30" cy="-5" r="3" fill="#7C2D12" />
+        <path d="M -50,10 Q -40,20 -30,10" fill="none" stroke="#7C2D12" strokeWidth="2" />
+        
+        <circle cx="30" cy="-5" r="3" fill="#7C2D12" />
+        <circle cx="50" cy="-5" r="3" fill="#7C2D12" />
+        <path d="M 30,10 Q 40,20 50,10" fill="none" stroke="#7C2D12" strokeWidth="2" />
+        
+        <text x="0" y="55" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FFEDD5">Különböző szavak, ugyanaz a jelentés!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Szinonimák", tx1: "A szinonimák olyan szavak, amelyeknek ugyanaz vagy nagyon hasonló a jelentésük. Például: kutya - eb, nagy - óriási.",
-    q1: "Mi a szónima az 'okos' szóhoz?", a1: "értelmes", b1: "gyors", c1: "rossz", d1: "kicsi",
+    explorer_title: "Szinonimák Szigete",
+    
+    // T1: Szinonimák (Magnet)
+    t1_title: "Rokon értelmű szavak",
+    t1_text: "A szinonimák olyan szavak, amiket máshogy írunk, de a jelentésük majdnem ugyanaz. Segítenek, hogy ne ismételjük magunkat!",
+    t1_b1: "Például: szalad - fut - robog.",
+    t1_b2: "Például: szép - gyönyörű - csodás.",
+    t1_inst: "Párosítsd össze az egymáshoz illő rokon értelmű szavakat!",
+    t1_l1: "beszél", t1_r1: "mond",
+    t1_l2: "kutya", t1_r2: "ebb",
+    t1_l3: "vidám", t1_r3: "boldog",
+    t1_q: "Melyik szó szinonimája az 'autó' szónak?",
+    t1_q_a: "gépkocsi", t1_q_b: "bicikli", t1_q_c: "repülő", t1_q_d: "kerék",
 
-    t2: "Rokon értelmű szavak", tx2: "A rokon értelmű szavak szinte ugyanazt fejezik ki, de lehetnek árnyalat-beli különbségek. Például: szép - gyönyörű, fáradt - kimerült.",
-    q2: "Mely szó rokon értelmű a 'vidám'-mal?", a2: "szomorú", b2: "jókedvű", c2: "álmos", d2: "ideges",
+    // T2: Ellentétek 2 (Slingshot)
+    t2_title: "Ellentétek párbaja",
+    t2_text: "Az ellentéteket már ismered, de most nehezebb párokat nézünk. Ezek a szavak segítenek leírni a különbségeket a világban.",
+    t2_b1: "Bátor ellentéte a gyáva.",
+    t2_b2: "Halk ellentéte a hangos.",
+    t2_inst: "Lődd le az aszteroidát, ami a 'BÁTOR' szó ellentéte!",
+    t2_target_1: "gyáva", // Helyes
+    t2_target_2: "erős",
+    t2_target_3: "hős",
+    t2_q: "Mi a 'szorgalmas' szó ellentéte?",
+    t2_q_a: "lusta", t2_q_b: "ügyes", t2_q_c: "gyors", t2_q_d: "okos",
 
-    t3: "Szavak közötti hasonlóság", tx3: "Sok szópárnak nincs teljesen azonos, de hasonló jelentésük van. Például: kicsi - apró, fényes - világos.",
-    q3: "Mely szó a leginkább hasonló az 'erős' szóhoz?", a3: "gyenge", b3: "erőteljes", c3: "hosszú", d3: "sötét",
+    // T3: Árnyalt jelentés (Bucket)
+    t3_title: "Melyik illik oda?",
+    t3_text: "Bár a szinonimák hasonlóak, néha az egyik jobban illik a helyzethez. Ha egy pici állatról beszélünk, 'kicsi', ha egy óriásról, akkor 'hatalmas'.",
+    t3_b1: "Kicsi: apró, pöttöm.",
+    t3_b2: "Nagy: óriási, hatalmas.",
+    t3_inst: "Válogasd szét a szavakat: a KICSI vagy a NAGY rokonai?",
+    t3_bucket_kicsi: "KICSI",
+    t3_bucket_nagy: "NAGY",
+    t3_item_k1: "apró", t3_item_k2: "parányi",
+    t3_item_n1: "óriási", t3_item_n2: "termetes",
+    t3_q: "Ha valami nagyon-nagyon kicsi, melyik szót használjuk?",
+    t3_q_a: "parányi", t3_q_b: "méretes", t3_q_c: "széles", t3_q_d: "magas",
 
-    t4: "Szinonimák az irodalomban", tx4: "Az írók szinonimákat használnak az ismétlés elkerülésére. Például: szép - gyönyörű, házat - otthont.",
-    q4: "Melyik szó használható a 'tiszta' szó helyett?", a4: "szennyes", b4: "ragyogó", c4: "igénytelen", d4: "sötét",
+    // T4: Szinonima a mondatban (Highlight)
+    t4_title: "Változatos beszéd",
+    t4_text: "Próbáljunk meg egy mondatban kicserélni egy egyszerű szót egy szebbre! Ez teszi az olvasást élvezetessé.",
+    t4_b1: "A 'szép' helyett használhatunk mást is.",
+    t4_inst: "Jelöld ki a mondatban a 'SZÉP' szó szinonimáját!",
+    t4_tok0: "A", t4_tok1: "kertben", t4_tok2: "egy", t4_tok3: "gyönyörű", t4_tok4: "virág", t4_tok5: "nyílik.",
+    t4_q: "Melyik szóval helyettesíthettük a 'gyönyörű' szót?",
+    t4_q_a: "pompás", t4_q_b: "csúnya", t4_q_c: "vizes", t4_q_d: "hangos",
 
-    t5: "Szinonimák összefoglalása", tx5: "A szinonimák gazdagabbá teszik a szövegeket és segítenek az ismétlés elkerülésében.",
-    q5: "Mely szó a szónima az 'barát'-nak?", a5: "ellenfél", b5: "társa", c5: "tanár", d5: "szomszéd",
-  },
-  de: {
-    t1: "Synonyme", tx1: "Synonyme sind Wörter mit gleicher oder sehr ähnlicher Bedeutung. Zum Beispiel: Hund - Köter, groß - riesig.",
-    q1: "Was ist ein Synonym zu 'klug'?", a1: "verständig", b1: "schnell", c1: "schlecht", d1: "klein",
-
-    t2: "Bedeutungsähnliche Wörter", tx2: "Bedeutungsähnliche Wörter drücken beinahe dasselbe aus, können aber Nuancen haben. Zum Beispiel: schön - wunderbar, müde - erschöpft.",
-    q2: "Welches Wort bedeutet fast dasselbe wie 'fröhlich'?", a2: "traurig", b2: "vergnügt", c2: "schläfrig", d2: "reizbar",
-
-    t3: "Ähnlichkeit zwischen Wörtern", tx3: "Viele Wortpaare haben keine exakte, aber eine ähnliche Bedeutung. Zum Beispiel: klein - winzig, hell - leuchtend.",
-    q3: "Welches Wort ist 'stark' am ähnlichsten?", a3: "schwach", b3: "kräftig", c3: "lang", d3: "dunkel",
-
-    t4: "Synonyme in der Literatur", tx4: "Schriftsteller verwenden Synonyme, um Wiederholungen zu vermeiden. Zum Beispiel: schön - herrlich, Haus - Heim.",
-    q4: "Welches Wort kann 'sauber' ersetzen?", a4: "schmutzig", b4: "glänzend", c4: "anspruchslos", d4: "dunkel",
-
-    t5: "Synonyme zusammengefasst", tx5: "Synonyme machen Texte reicher und helfen, Wiederholungen zu vermeiden.",
-    q5: "Welches Wort ist ein Synonym zu 'Freund'?", a5: "Feind", b5: "Gefährte", c5: "Lehrer", d5: "Nachbar",
-  },
+    // T5: Fun Catch
+    t5_title: "Szómágus",
+    t5_text: "Fantasztikus! Most már igazi szómágus vagy, aki ezerféleképpen tudja kifejezni magát.",
+    t5_b1: "Ismered a rokon értelmű szavakat.",
+    t5_b2: "Tudod az ellentéteket is.",
+    t5_inst: "Kapj el 6 színházi maszkot (🎭) a végső győzelemhez!",
+    t5_q: "Mire jók a szinonimák?",
+    t5_q_a: "Hogy választékosabban beszéljünk.", t5_q_b: "Hogy nehezebb legyen az írás.", t5_q_c: "Hogy hosszabb legyen a házi feladat.", t5_q_d: "Semmire.",
+  }
 };
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "kic", label: "t3_bucket_kicsi" },
+        { id: "nag", label: "t3_bucket_nagy" },
+      ],
+      items: [
+        { text: "t3_item_k1", bucketId: "kic" },
+        { text: "t3_item_n1", bucketId: "nag" },
+        { text: "t3_item_k2", bucketId: "kic" },
+        { text: "t3_item_n2", bucketId: "nag" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t4_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5"],
+      correctIndices: [3], // "gyönyörű"
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b1",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🎭", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="30" y="50" width="70" height="60" rx="8" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="65" y="90" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">okos</text>
-          <text x="120" y="85" textAnchor="middle" fontSize="18" fill="#FFD700" fontWeight="bold">=</text>
-          <rect x="140" y="50" width="70" height="60" rx="8" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="175" y="90" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">értelmes</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="80" cy="80" r="25" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="80" y="88" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">vidám</text>
-          <path d="M 115 80 L 140 80" stroke="#FFD700" strokeWidth="2" />
-          <circle cx="170" cy="80" r="25" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="170" y="88" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">vidám</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="20" y="50" width="60" height="60" rx="6" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="50" y="88" textAnchor="middle" fontSize="16" fill="#95E1D3" fontWeight="bold">erős</text>
-          <path d="M 90 80 Q 110 60 130 80" stroke="#FFD700" strokeWidth="2" fill="none" />
-          <rect x="160" y="50" width="60" height="60" rx="6" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="190" y="88" textAnchor="middle" fontSize="14" fill="#95E1D3" fontWeight="bold">erős</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <text x="30" y="70" textAnchor="middle" fontSize="16" fill="white" fontWeight="bold">A ház</text>
-          <text x="30" y="90" textAnchor="middle" fontSize="16" fill="white" fontWeight="bold">tiszta.</text>
-          <text x="150" y="70" textAnchor="middle" fontSize="16" fill="#4ECDC4" fontWeight="bold">Az otthon</text>
-          <text x="150" y="90" textAnchor="middle" fontSize="16" fill="#4ECDC4" fontWeight="bold">ragyogó.</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="60" cy="80" r="20" fill="#B44DFF" opacity="0.4" stroke="#B44DFF" strokeWidth="2" />
-          <text x="60" y="88" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szó</text>
-          <path d="M 85 80 L 115 80" stroke="#FFD700" strokeWidth="2" />
-          <circle cx="150" cy="80" r="20" fill="#B44DFF" opacity="0.4" stroke="#B44DFF" strokeWidth="2" />
-          <text x="150" y="88" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szó</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🎭",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function SynonymsExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function SynonymsExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={2} 
+      explorerId="magyar_o2_i7" 
+      color="#FF9500" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
 }
