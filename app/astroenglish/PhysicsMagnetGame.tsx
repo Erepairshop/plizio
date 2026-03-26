@@ -2,168 +2,176 @@
 import React, { useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-export type BucketDef = {
+export type MatchPair = {
   id: string;
-  label: string;
-  color?: string;
+  left: string;
+  right: string;
 };
 
-export type ItemDef = {
-  id: string;
-  text: string;
-  bucketId: string;
-};
-
-interface PhysicsMagnetGameProps {
-  buckets: BucketDef[];
-  items: ItemDef[];
+interface MotionMatchGameProps {
+  pairs: MatchPair[];
   onComplete: () => void;
+  lang?: string;
 }
 
-const BUCKET_COLORS = ["#3b82f6", "#10b981", "#f59e0b", "#ef4444", "#8b5cf6", "#ec4899"];
+// Többnyelvű UI szótár
+const UI_LABELS = {
+  en: {
+    step1: "👈 Tap a word on the left first.",
+    step2: "✨ Now find its matching pair on the right!",
+  },
+  hu: {
+    step1: "👈 Válassz egy szót a bal oldalon!",
+    step2: "✨ Most keresd meg a párját a jobb oldalon!",
+  },
+  de: {
+    step1: "👈 Wähle zuerst ein Wort links.",
+    step2: "✨ Finde nun das passende Paar rechts!",
+  },
+  ro: {
+    step1: "👈 Alege un cuvânt din stânga mai întâi.",
+    step2: "✨ Acum găsește perechea potrivită în dreapta!",
+  },
+};
 
-export default function PhysicsMagnetGame({ buckets, items, onComplete }: PhysicsMagnetGameProps) {
-  const [selectedId, setSelectedId] = useState<string | null>(null);
-  const [placed, setPlaced] = useState<Map<string, string>>(new Map()); // itemId → bucketId
-  const [wrongFlash, setWrongFlash] = useState<string | null>(null);
-  const [correctFlash, setCorrectFlash] = useState<string | null>(null);
+export default function PhysicsMagnetGame({ 
+  pairs, 
+  onComplete, 
+  lang = "en" 
+}: MotionMatchGameProps) {
+  
+  // Állapotok
+  const [selectedLeft, setSelectedLeft] = useState<string | null>(null);
+  const [matchedIds, setMatchedIds] = useState<Set<string>>(new Set());
+  const [wrongLeft, setWrongLeft] = useState<string | null>(null);
+  const [wrongRight, setWrongRight] = useState<string | null>(null);
+  
   const completedRef = useRef(false);
+  const t = UI_LABELS[lang as keyof typeof UI_LABELS] || UI_LABELS.en;
 
-  // Items not yet placed
-  const unplaced = items.filter(i => !placed.has(i.id));
+  // Keverjük meg a jobb oldali oszlopot (csak egyszer rendereléskor)
+  const [shuffledRights] = useState(() => [...pairs].sort(() => Math.random() - 0.5));
 
-  const handleItemTap = useCallback((itemId: string) => {
-    if (placed.has(itemId)) return;
-    setSelectedId(prev => prev === itemId ? null : itemId);
-  }, [placed]);
+  const handleLeftTap = useCallback((id: string) => {
+    if (matchedIds.has(id)) return;
+    // Ha már ki volt választva, kikapcsoljuk. Ha nem, kiválasztjuk.
+    setSelectedLeft(prev => prev === id ? null : id);
+  }, [matchedIds]);
 
-  const handleBucketTap = useCallback((bucketId: string) => {
-    if (!selectedId) return;
-    const item = items.find(i => i.id === selectedId);
-    if (!item) return;
+  const handleRightTap = useCallback((id: string) => {
+    if (matchedIds.has(id) || !selectedLeft) return;
 
-    if (item.bucketId === bucketId) {
-      // Correct!
-      setCorrectFlash(selectedId);
-      setTimeout(() => setCorrectFlash(null), 400);
-      setPlaced(prev => {
-        const next = new Map(prev);
-        next.set(item.id, bucketId);
-        // Check completion
-        if (next.size === items.length && !completedRef.current) {
+    if (selectedLeft === id) {
+      // HELYES PÁROSÍTÁS!
+      setMatchedIds(prev => {
+        const next = new Set(prev);
+        next.add(id);
+        
+        // Ellenőrizzük a győzelmet
+        if (next.size === pairs.length && !completedRef.current) {
           completedRef.current = true;
           setTimeout(onComplete, 600);
         }
         return next;
       });
-      setSelectedId(null);
+      setSelectedLeft(null);
     } else {
-      // Wrong!
-      setWrongFlash(selectedId);
-      setTimeout(() => setWrongFlash(null), 600);
+      // ROSSZ PÁROSÍTÁS! (Rázkódás animáció)
+      setWrongLeft(selectedLeft);
+      setWrongRight(id);
+      setTimeout(() => {
+        setWrongLeft(null);
+        setWrongRight(null);
+        setSelectedLeft(null); // Hibánál töröljük a kijelölést
+      }, 500);
     }
-  }, [selectedId, items, onComplete]);
-
-  // Items placed in each bucket
-  const getBucketItems = (bucketId: string) =>
-    items.filter(i => placed.get(i.id) === bucketId);
+  }, [selectedLeft, matchedIds, pairs.length, onComplete]);
 
   return (
-    <div className="w-full flex flex-col items-center gap-3 select-none px-1">
-      {/* Word chips area */}
-      <div className="w-full max-w-lg min-h-[80px] bg-slate-800/60 rounded-2xl p-3 border border-slate-700/50">
-        <div className="flex flex-wrap gap-2 justify-center">
-          <AnimatePresence mode="popLayout">
-            {unplaced.map(item => {
-              const isSelected = selectedId === item.id;
-              const isWrong = wrongFlash === item.id;
-              const isCorrect = correctFlash === item.id;
+    <div className="w-full flex flex-col items-center gap-4 select-none px-2 min-h-[300px]">
+      <div className="w-full max-w-2xl flex justify-between gap-3 md:gap-6">
+        
+        {/* BAL OLDALI OSZLOP */}
+        <div className="flex-1 flex flex-col gap-3">
+          <AnimatePresence>
+            {pairs.map((pair) => {
+              if (matchedIds.has(pair.id)) return null; // Ha kitalálta, eltüntetjük
+              
+              const isSelected = selectedLeft === pair.id;
+              const isWrong = wrongLeft === pair.id;
+
               return (
                 <motion.button
-                  key={item.id}
+                  key={`l-${pair.id}`}
                   layout
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{
-                    opacity: 1,
-                    scale: isWrong ? [1, 1.1, 0.95, 1] : 1,
-                    x: isWrong ? [0, -6, 6, -4, 4, 0] : 0,
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ 
+                    opacity: 1, x: isWrong ? [-5, 5, -5, 5, 0] : 0,
+                    scale: isSelected ? 1.05 : 1
                   }}
-                  exit={{ opacity: 0, scale: 0.5, transition: { duration: 0.2 } }}
-                  transition={{ duration: isWrong ? 0.5 : 0.3 }}
-                  onClick={() => handleItemTap(item.id)}
-                  className="px-3.5 py-2 rounded-xl font-bold text-sm border-2 transition-colors duration-150"
+                  exit={{ opacity: 0, scale: 0.8, x: 50, transition: { duration: 0.3 } }}
+                  transition={{ duration: isWrong ? 0.4 : 0.2 }}
+                  onClick={() => handleLeftTap(pair.id)}
+                  className="w-full py-3 px-3 md:px-4 rounded-xl font-bold text-xs md:text-sm lg:text-base border-2 transition-colors duration-200"
                   style={{
-                    backgroundColor: isCorrect ? "#10b981" : isWrong ? "#ef4444" : isSelected ? "#0ea5e9" : "#334155",
-                    borderColor: isCorrect ? "#059669" : isWrong ? "#dc2626" : isSelected ? "#0284c7" : "#475569",
-                    color: "#fff",
-                    boxShadow: isSelected ? "0 0 12px rgba(14,165,233,0.4)" : "none",
+                    backgroundColor: isWrong ? "#ef4444" : isSelected ? "#0ea5e9" : "#1e293b",
+                    borderColor: isWrong ? "#dc2626" : isSelected ? "#38bdf8" : "#334155",
+                    color: "#f8fafc",
+                    boxShadow: isSelected ? "0 0 15px rgba(14,165,233,0.5)" : "none",
                   }}
                 >
-                  {item.text}
+                  {pair.left}
                 </motion.button>
               );
             })}
           </AnimatePresence>
-          {unplaced.length === 0 && (
-            <span className="text-green-400 font-bold text-sm py-2">✓</span>
-          )}
         </div>
+
+        {/* JOBB OLDALI OSZLOP */}
+        <div className="flex-1 flex flex-col gap-3">
+          <AnimatePresence>
+            {shuffledRights.map((pair) => {
+              if (matchedIds.has(pair.id)) return null;
+              
+              const isWrong = wrongRight === pair.id;
+              const isValidTarget = selectedLeft !== null; // Csak akkor kattintható, ha balról már választott
+
+              return (
+                <motion.button
+                  key={`r-${pair.id}`}
+                  layout
+                  initial={{ opacity: 0, x: 20 }}
+                  animate={{ 
+                    opacity: 1, 
+                    x: isWrong ? [-5, 5, -5, 5, 0] : 0,
+                  }}
+                  exit={{ opacity: 0, scale: 0.8, x: -50, transition: { duration: 0.3 } }}
+                  transition={{ duration: isWrong ? 0.4 : 0.2 }}
+                  onClick={() => handleRightTap(pair.id)}
+                  className="w-full py-3 px-3 md:px-4 rounded-xl font-bold text-xs md:text-sm lg:text-base border-2 transition-colors duration-200"
+                  style={{
+                    backgroundColor: isWrong ? "#ef4444" : "#312e81", 
+                    borderColor: isWrong ? "#dc2626" : isValidTarget ? "#6366f1" : "#4338ca",
+                    color: "#f8fafc",
+                    cursor: isValidTarget ? "pointer" : "default",
+                    opacity: isValidTarget ? 1 : 0.6 // Halványabb, ha még nem lehet rákattintani
+                  }}
+                >
+                  {pair.right}
+                </motion.button>
+              );
+            })}
+          </AnimatePresence>
+        </div>
+
       </div>
 
-      {/* Bucket zones */}
-      <div className="w-full max-w-lg grid gap-2" style={{ gridTemplateColumns: `repeat(${buckets.length}, 1fr)` }}>
-        {buckets.map((bucket, idx) => {
-          const color = bucket.color || BUCKET_COLORS[idx % BUCKET_COLORS.length];
-          const bucketItems = getBucketItems(bucket.id);
-          const isTarget = selectedId !== null;
-          return (
-            <motion.button
-              key={bucket.id}
-              onClick={() => handleBucketTap(bucket.id)}
-              whileTap={isTarget ? { scale: 0.97 } : {}}
-              className="flex flex-col items-center rounded-2xl border-2 p-2 min-h-[100px] transition-all duration-200"
-              style={{
-                borderColor: isTarget ? color : `${color}44`,
-                backgroundColor: isTarget ? `${color}15` : `${color}08`,
-                boxShadow: isTarget ? `0 0 16px ${color}30` : "none",
-                cursor: isTarget ? "pointer" : "default",
-              }}
-            >
-              <span
-                className="font-black text-[10px] sm:text-xs uppercase tracking-wider mb-2 text-center leading-tight"
-                style={{ color: `${color}cc` }}
-              >
-                {bucket.label}
-              </span>
-              <div className="flex flex-wrap gap-1.5 justify-center w-full">
-                <AnimatePresence>
-                  {bucketItems.map(item => (
-                    <motion.span
-                      key={item.id}
-                      initial={{ opacity: 0, y: -10, scale: 0.8 }}
-                      animate={{ opacity: 1, y: 0, scale: 1 }}
-                      className="px-2.5 py-1.5 rounded-lg font-bold text-xs text-white border"
-                      style={{
-                        backgroundColor: `${color}88`,
-                        borderColor: color,
-                      }}
-                    >
-                      {item.text}
-                    </motion.span>
-                  ))}
-                </AnimatePresence>
-              </div>
-            </motion.button>
-          );
-        })}
+      {/* SEGÍTŐ SZÖVEG ALUL */}
+      <div className="h-8 mt-2 flex items-center justify-center">
+        <p className="text-slate-400 font-bold text-xs sm:text-sm text-center">
+          {selectedLeft ? t.step2 : t.step1}
+        </p>
       </div>
-
-      {/* Hint text */}
-      <p className="text-slate-500 font-bold text-xs text-center">
-        {selectedId
-          ? "👆 Now tap the correct category!"
-          : "👇 Tap a word, then tap its category"}
-      </p>
     </div>
   );
 }
