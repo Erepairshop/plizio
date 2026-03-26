@@ -1,132 +1,149 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// CompoundWordsExplorer.tsx — AstroMagyar Grade 3: i3 Összetett szavak szigete
+// POOL-Powered ⚡: SZÓCSALÁD_POOL és MONDATOK_POOL használatával
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+// IMPORTÁLJUK A POOL-OKAT
+import { SZÓCSALÁD_POOL, MONDATOK_POOL } from "@/lib/visualGenerators";
+
+// ─── EGYEDI ILUSZTRÁCIÓK ───────────────────
+
+const FamilyTreeSvg = memo(() => (
+  <svg width="100%" viewBox="0 0 240 140">
+    <rect width="240" height="140" fill="#064E3B" rx="20" />
+    <g transform="translate(120, 80)">
+      {/* Szócsalád fa szimbólum */}
+      <path d="M -5,20 L -5,-10 L -30,-30 M 5,20 L 5,-10 L 30,-30 M 0,-10 L 0,-40" stroke="#00FF88" strokeWidth="6" strokeLinecap="round" />
+      <circle cx="-30" cy="-35" r="12" fill="#059669" />
+      <circle cx="30" cy="-35" r="12" fill="#059669" />
+      <circle cx="0" cy="-45" r="15" fill="#10B981" />
+      <text x="0" y="45" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#D1FAE5">SZÓCSALÁDOK</text>
+    </g>
+  </svg>
+));
+
+const PuzzleChainSvg = memo(() => (
+  <svg width="100%" viewBox="0 0 240 140">
+    <rect width="240" height="140" fill="#065F46" rx="20" />
+    <g transform="translate(120, 70)">
+      {/* Összekapcsolódó szavak (Puzzle) */}
+      <rect x="-60" y="-15" width="50" height="30" fill="#10B981" rx="4" />
+      <rect x="10" y="-15" width="50" height="30" fill="#34D399" rx="4" />
+      <circle cx="5" cy="0" r="8" fill="#065F46" /> {/* A kivágás a puzzle-höz */}
+      <circle cx="10" cy="0" r="8" fill="#10B981" /> {/* A fül */}
+      <text x="0" y="40" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#D1FAE5">SZÓÖSSZETÉTEL</text>
+    </g>
+  </svg>
+));
+
+// ─── ADATOK ELŐKÉSZÍTÉSE ───────────────────
+
+const csalad1 = SZÓCSALÁD_POOL[0]; // pl. "szép"
+const mondat1 = MONDATOK_POOL[0]; // pl. "A macska alszik..."
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Összetett szavak", tx1: "Az összetett szavak két vagy több szó összekapcsolódásából keletkeznek. Az első szó általában jelzőként működik.",
-    q1: "Melyik szó összetett?", a1: "ceruzatartó", b1: "ceruza", c1: "tartó", d1: "ceruzásan",
-
-    t2: "Szóösszetétel szabályai", tx2: "Az összetett szó jelentése az összetevő szavakból jön létre. Például: szakácskönyv = szakács + könyv.",
-    q2: "Mit jelent az 'asztalláb'?", a2: "az asztal mellett", b2: "az asztal lábát", c2: "az asztal egyik lábáról", d2: "az asztal lábával",
-
-    t3: "Szóösszetételes kép", tx3: "Közös összetett szavak: tájkép, képeslap, levélváltás, szóösszetétel.",
-    q3: "Melyik összetett szó jó?", a3: "tájkép", b3: "táj-kép", c3: "kép-táj", d3: "képtáj",
-
-    t4: "Összetett szavak felismerése", tx4: "Az összetett szavakat az összeadódó szavak alapján tudjuk megérteni és helyesen írni.",
-    q4: "Melyik szó nem összetett?", a4: "napló", b4: "könyvtár", c4: "szék", d4: "ceruzatartó",
-
-    t5: "Szóösszetételek gyakorlása", tx5: "Az összetett szavak használata az írás és az olvasás alapja.",
-    q5: "Válassz összetett szót! Mely szó képzett: 'nap' + 'ló'?", a5: "napló", b5: "napról", c5: "napi", d5: "naplóban",
-  },
-  de: {
-    t1: "Zusammengesetzte Wörter", tx1: "Zusammengesetzte Wörter entstehen aus zwei oder mehr Wörtern. Das erste Wort funktioniert oft als Attribut.",
-    q1: "Welches Wort ist zusammengesetzt?", a1: "Stifthalter", b1: "Stift", c1: "Halter", d1: "Stiftweise",
-
-    t2: "Regeln der Wortkomposition", tx2: "Die Bedeutung eines zusammengesetzten Wortes ergibt sich aus seinen Komponenten. Zum Beispiel: Kochbuch = Koch + Buch.",
-    q2: "Was bedeutet 'Tischbein'?", a2: "neben dem Tisch", b2: "das Bein des Tisches", c2: "vom Tischbein", d2: "mit dem Tischbein",
-
-    t3: "Zusammengesetzte Wörter", tx3: "Häufige zusammengesetzte Wörter: Landschaft, Bildpostkarte, Briefwechsel, Wortbildung.",
-    q3: "Welches ist richtig?", a3: "Landschaft", b3: "Land-schaft", c3: "Schaft-Land", d3: "Schaftland",
-
-    t4: "Erkennung zusammengesetzter Wörter", tx4: "Zusammengesetzte Wörter können wir anhand ihrer Komponenten verstehen und richtig schreiben.",
-    q4: "Welches Wort ist nicht zusammengesetzt?", a4: "Tagebuch", b4: "Bücherei", c4: "Stuhl", d4: "Stifthalter",
-
-    t5: "Übung der Wortkomposition", tx5: "Die Verwendung zusammengesetzter Wörter ist grundlegend für Schreiben und Lesen.",
-    q5: "Wähle ein zusammengesetztes Wort! Welches ist aus 'Tag' + 'Buch'?", a5: "Tagebuch", b5: "vom Tagbuch", c5: "täglich", d5: "Tagebuch-weise",
-  },
+    explorer_title: "Összetett szavak szigete",
+    t1_title: "A Szócsaládok",
+    t1_text: "A szócsaládba olyan szavak tartoznak, amiknek ugyanaz a töve, és a jelentésük is összefügg. Mint egy igazi család!",
+    t1_inst: "Válaszd ki a szótövet és a hozzá tartozó családtagokat!",
+    
+    t2_title: "Hosszú mondatok",
+    t2_text: "Az összetett szavak segítenek, hogy pontosabban fogalmazzunk. Nézzük, fel tudod-e ismerni őket a mondatban!",
+    t2_inst: "Rakd sorba a szavakat, hogy megkapd a mondatot!",
+  }
 };
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <FamilyTreeSvg />, // EGYEDI ÁBRA
+    bulletKeys: [],
+    interactive: {
+      type: "highlight-text",
+      // A POOL-ból vesszük a szavakat
+      tokens: [csalad1.root, ...csalad1.words],
+      correctIndices: [1, 2, 3], // Az első 3 származék
+      instruction: `Jelöld ki a(z) '${csalad1.root}' szó rokonait!`,
+      hint1: "Keresd a közös szótövet!",
+      hint2: "Amik hasonlóan kezdődnek...",
+    },
+    quiz: {
+      question: `Mi a közös szótő ebben a csoportban: sétál, sétány, séta?`,
+      choices: ["sét", "séta", "sétál", "tál"],
+      answer: "sét",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <PuzzleChainSvg />, // EGYEDI ÁBRA
+    interactive: {
+      type: "word-order",
+      // Mondatrendezés POOL-ból
+      words: mondat1.words,
+      correctOrder: mondat1.words.map((_, i) => i),
+      instruction: "t2_inst",
+      hint1: "Keresd a nagybetűt!",
+      hint2: "A pont a végén legyen!",
+    },
+    quiz: {
+      question: "Hány szóból állt az előző mondat?",
+      choices: [String(mondat1.words.length), "3", "10", "1"],
+      answer: String(mondat1.words.length),
+    },
+  },
+  {
+    infoTitle: "Memória-torna",
+    infoText: "Az összetett szavak két szóból állnak. Pl: vas + út = vasút.",
+    svg: () => <PuzzleChainSvg />,
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "vas", right: "út" },
+        { left: "hó", right: "ember" },
+        { left: "fali", right: "óra" },
+      ],
+      instruction: "Kapcsold össze a szópárokat!",
+      hint1: "Mi jön ki belőlük?",
+      hint2: "Értelmes szót keress!",
+    },
+    quiz: {
+      question: "Melyik egy összetett szó?",
+      choices: ["hóember", "futás", "piros", "asztal"],
+      answer: "hóember",
+    },
+  },
+  {
+    infoTitle: "Siker!",
+    infoText: "Már mestere vagy a szavak építésének! Gyűjts be 6 tollat az íráshoz!",
+    svg: () => <FamilyTreeSvg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📝", count: 6 },
+      instruction: "Kapd el a füzeteket!",
+      hint1: "Már csak pár darab!",
+      hint2: "Ügyes!",
+    },
+    quiz: {
+      question: "Szereted a magyar nyelvtant?",
+      choices: ["Igen!", "Nagyon!", "Persze!", "Imádom!"],
+      answer: "Igen!",
+    }
+  }
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="20" y="50" width="50" height="60" rx="4" fill="#4ECDC4" opacity="0.4" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="45" y="85" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">ceruza</text>
-          <text x="95" y="85" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">+</text>
-          <rect x="125" y="50" width="50" height="60" rx="4" fill="#4ECDC4" opacity="0.4" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="150" y="85" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">tartó</text>
-          <text x="190" y="85" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">=</text>
-          <text x="220" y="85" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold" display="none">összetett</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="60" cy="80" r="25" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="60" y="88" textAnchor="middle" fontSize="12" fill="#FF6B9D" fontWeight="bold">szakács</text>
-          <text x="105" y="85" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">+</text>
-          <circle cx="170" cy="80" r="25" fill="none" stroke="#95E1D3" strokeWidth="2" />
-          <text x="170" y="88" textAnchor="middle" fontSize="12" fill="#95E1D3" fontWeight="bold">könyv</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="30" y="60" width="180" height="50" rx="6" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">tájkép</text>
-          <text x="120" y="95" textAnchor="middle" fontSize="12" fill="white/60">összetett szó</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <circle cx="60" cy="80" r="22" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="60" y="88" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">összetett</text>
-          <circle cx="150" cy="80" r="22" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="150" y="88" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">szék</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "c4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <text x="120" y="70" textAnchor="middle" fontSize="16" fill="#B44DFF" fontWeight="bold">szóösszetételek</text>
-          <path d="M 30 100 L 210 100" stroke="white/30" strokeWidth="1" />
-          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">alapja az írásnak</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "📝",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function CompoundWordsO3Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function CompoundWordsExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return <ExplorerEngine def={DEF} grade={3} explorerId="magyar_o3_i3" color="#00FF88" lang={lang} onDone={onDone} />;
 }
