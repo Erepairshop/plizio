@@ -2,26 +2,36 @@
 import React, { useEffect, useRef, useState } from "react";
 import Matter from "matter-js";
 
-export type MatchPair = {
+export type BucketDef = {
   id: string;
-  left: string;
-  right: string;
+  label: string;
+  color?: string;
 };
 
-interface PhysicsMagnetGameProps {
-  pairs: MatchPair[];
+export type ItemDef = {
+  id: string;
+  text: string;
+  bucketId: string;
+};
+
+interface PhysicsDropGameProps {
+  buckets: BucketDef[];
+  items: ItemDef[];
   onComplete: () => void;
 }
 
-export default function PhysicsMagnetGame({ pairs, onComplete }: PhysicsMagnetGameProps) {
+export default function PhysicsDropGame({ buckets, items, onComplete }: PhysicsDropGameProps) {
   const sceneRef = useRef<HTMLDivElement>(null);
   const engineRef = useRef<Matter.Engine | null>(null);
   const runnerRef = useRef<Matter.Runner | null>(null);
-
-  const [activePairs, setActivePairs] = useState<MatchPair[]>(pairs);
   
-  const leftNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
-  const rightNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
+  const [activeItems, setActiveItems] = useState<ItemDef[]>(items);
+  const itemNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
+
+  const WORLD_W = 800;
+  const WORLD_H = 500;
+  const BOX_W = 160; 
+  const BOX_H = 50;
 
   useEffect(() => {
     if (!sceneRef.current) return;
@@ -30,64 +40,68 @@ export default function PhysicsMagnetGame({ pairs, onComplete }: PhysicsMagnetGa
     engineRef.current = engine;
     const world = engine.world;
 
-    world.gravity.y = 0;
-    world.gravity.x = 0;
-
-    const width = 800;
-    const height = 500;
-
-    const wallOpts = { isStatic: true, restitution: 1, render: { visible: false } };
+    // Falak (magas plafon, hogy ne repüljenek ki végleg, szilárd padló)
+    const wallOptions = { isStatic: true, render: { visible: false } };
     Matter.World.add(world, [
-      Matter.Bodies.rectangle(width / 2, -50, width, 100, wallOpts),
-      Matter.Bodies.rectangle(width / 2, height + 50, width, 100, wallOpts),
-      Matter.Bodies.rectangle(-50, height / 2, 100, height, wallOpts),
-      Matter.Bodies.rectangle(width + 50, height / 2, 100, height, wallOpts),
+      Matter.Bodies.rectangle(WORLD_W / 2, -300, WORLD_W, 100, wallOptions), // Plafon
+      Matter.Bodies.rectangle(WORLD_W / 2, WORLD_H + 50, WORLD_W * 2, 100, wallOptions), // Padló
+      Matter.Bodies.rectangle(-50, WORLD_H / 2, 100, WORLD_H * 2, wallOptions), // Bal
+      Matter.Bodies.rectangle(WORLD_W + 50, WORLD_H / 2, 100, WORLD_H * 2, wallOptions), // Jobb
     ]);
 
-    const leftBodies: Matter.Body[] = [];
-    const rightBodies: Matter.Body[] = [];
-
-    activePairs.forEach((pair) => {
-      const lx = 100 + Math.random() * 200;
-      const ly = 100 + Math.random() * 300;
-      const leftBody = Matter.Bodies.rectangle(lx, ly, 100, 40, {
-        restitution: 0.8,
-        frictionAir: 0.05,
-        label: `left_${pair.id}`,
-      });
-      // Létrehozunk egy egyedi mezőt a vizuális státusznak
-      (leftBody as any).magnetState = "neutral";
+    // 1. SZILÁRD VÖDRÖK LÉTREHOZÁSA
+    const bucketWidth = WORLD_W / buckets.length;
+    
+    buckets.forEach((bucket, index) => {
+      const x = index * bucketWidth + bucketWidth / 2;
+      const y = WORLD_H - 40;
       
-      Matter.Body.setVelocity(leftBody, { x: (Math.random() - 0.5) * 4, y: (Math.random() - 0.5) * 4 });
-      leftBodies.push(leftBody);
-
-      const rx = 500 + Math.random() * 200;
-      const ry = 100 + Math.random() * 300;
-      const rightBody = Matter.Bodies.rectangle(rx, ry, 100, 40, {
-        restitution: 0.8,
-        frictionAir: 0.05,
-        label: `right_${pair.id}`,
+      // isSensor: false -> Most már rá tudnak esni a szilárd vödörre!
+      const sensor = Matter.Bodies.rectangle(x, y, bucketWidth, 80, {
+        isStatic: true,
+        isSensor: false, 
+        label: "bucket",
+        plugin: { bucketId: bucket.id } // Biztonságos adattárolás!
       });
-      (rightBody as any).magnetState = "neutral";
+      Matter.World.add(world, sensor);
       
-      Matter.Body.setVelocity(rightBody, { x: (Math.random() - 0.5) * 4, y: (Math.random() - 0.5) * 4 });
-      rightBodies.push(rightBody);
+      // Elválasztó falak a vödrök közé
+      if (index > 0) {
+        Matter.World.add(world, 
+          Matter.Bodies.rectangle(index * bucketWidth, WORLD_H - 60, 20, 120, { isStatic: true })
+        );
+      }
     });
 
-    Matter.World.add(world, [...leftBodies, ...rightBodies]);
+    // 2. SZAVAK (DOBOZOK) LÉTREHOZÁSA
+    const itemBodies: Matter.Body[] = [];
+    activeItems.forEach((item) => {
+      const x = 100 + Math.random() * (WORLD_W - 200);
+      const y = 20 + Math.random() * 80;
+      
+      const body = Matter.Bodies.rectangle(x, y, BOX_W, BOX_H, {
+        restitution: 0.5,
+        friction: 0.2,
+        label: "item",
+        plugin: { 
+          id: item.id, 
+          bucketId: item.bucketId,
+          matchState: "neutral" // vizuális állapottároló
+        }
+      });
+      itemBodies.push(body);
+    });
+    Matter.World.add(world, itemBodies);
 
-    // EGÉR LÉTREHOZÁSA ÉS SKÁLÁZÁSA (EZ JAVÍTJA MEG A MEGFOGÁST!)
+    // 3. EGÉR SKÁLÁZÁS (HOGY MOBILON IS MEGFOGHASD)
     const mouse = Matter.Mouse.create(sceneRef.current);
-    
-    // Kikapcsoljuk az egérgörgő tiltását, hogy lehessen görgetni a weblapon
     mouse.element.removeEventListener("mousewheel", (mouse as any).mousewheel);
     mouse.element.removeEventListener("DOMMouseScroll", (mouse as any).mousewheel);
 
     const updateMouseScale = () => {
       if (sceneRef.current) {
         const rect = sceneRef.current.getBoundingClientRect();
-        // Kiszámoljuk az arányt a 800x500 és a valós CSS méret között
-        Matter.Mouse.setScale(mouse, { x: 800 / rect.width, y: 500 / rect.height });
+        Matter.Mouse.setScale(mouse, { x: WORLD_W / rect.width, y: WORLD_H / rect.height });
       }
     };
     updateMouseScale();
@@ -99,66 +113,50 @@ export default function PhysicsMagnetGame({ pairs, onComplete }: PhysicsMagnetGa
     });
     Matter.World.add(world, mouseConstraint);
 
-    // MÁGNESES LOGIKA
-    Matter.Events.on(engine, "beforeUpdate", () => {
-      // Alapértelmezett állapot visszaállítása minden frame-ben
-      [...leftBodies, ...rightBodies].forEach(b => {
-        (b as any).magnetState = "neutral";
-      });
+    // 4. PONTOS ÜTKÖZÉSDETEKTÁLÁS (Nincs több string-darabolás!)
+    Matter.Events.on(engine, "collisionStart", (event) => {
+      event.pairs.forEach((pair) => {
+        const bodyA = pair.bodyA;
+        const bodyB = pair.bodyB;
 
-      leftBodies.forEach((lBody) => {
-        rightBodies.forEach((rBody) => {
-          const lId = lBody.label.split("_")[1];
-          const rId = rBody.label.split("_")[1];
+        const itemBody = bodyA.label === "item" ? bodyA : (bodyB.label === "item" ? bodyB : null);
+        const bucketBody = bodyA.label === "bucket" ? bodyA : (bodyB.label === "bucket" ? bodyB : null);
 
-          const dx = rBody.position.x - lBody.position.x;
-          const dy = rBody.position.y - lBody.position.y;
-          const distance = Math.sqrt(dx * dx + dy * dy);
+        if (itemBody && bucketBody) {
+          // Ha épp fogjuk az egeret, ne történjen semmi, várjuk meg míg elengedi
+          if (mouseConstraint.body === itemBody) return;
 
-          // Megnövelt hatósugár (200px), hogy jobban érezhető legyen
-          if (distance < 200 && distance > 0) {
-            const forceX = dx / distance;
-            const forceY = dy / distance;
+          const expectedBucketId = itemBody.plugin.bucketId;
+          const actualBucketId = bucketBody.plugin.bucketId;
 
-            if (lId === rId) {
-              // HELYES PÁR: Zöld szín és Vonzás
-              (lBody as any).magnetState = "good";
-              (rBody as any).magnetState = "good";
-              
-              const strength = 0.0006 * (200 - distance);
-              Matter.Body.applyForce(lBody, lBody.position, { x: forceX * strength, y: forceY * strength });
-              Matter.Body.applyForce(rBody, rBody.position, { x: -forceX * strength, y: -forceY * strength });
+          if (expectedBucketId === actualBucketId) {
+            // HELYES VÖDÖR!
+            itemBody.plugin.matchState = "correct";
+            
+            // Kivesszük a fizikából és a frissítési ciklusból
+            Matter.World.remove(world, itemBody);
+            const index = itemBodies.indexOf(itemBody);
+            if (index > -1) itemBodies.splice(index, 1);
 
-              // Ha összeértek
-              if (distance < 50) {
-                Matter.World.remove(world, lBody);
-                Matter.World.remove(world, rBody);
-                leftBodies.splice(leftBodies.indexOf(lBody), 1);
-                rightBodies.splice(rightBodies.indexOf(rBody), 1);
-                
-                setActivePairs((prev) => {
-                  const newPairs = prev.filter((p) => p.id !== lId);
-                  if (newPairs.length === 0) {
-                    setTimeout(onComplete, 600);
-                  }
-                  return newPairs;
-                });
+            // Kivesszük a React állapotból, és ellenőrizzük a győzelmet
+            setActiveItems((prev) => {
+              const newItems = prev.filter((i) => i.id !== itemBody.plugin.id);
+              if (newItems.length === 0) {
+                setTimeout(onComplete, 500); // GYŐZELEM!
               }
-            } else {
-              // ROSSZ PÁR: Piros szín és ERŐS Taszítás
-              // Csak akkor taszít, ha nagyon közel érnek (pl. 120px)
-              if (distance < 120) {
-                (lBody as any).magnetState = "bad";
-                (rBody as any).magnetState = "bad";
-                
-                // Erősebb taszítás, hogy tényleg elrepüljenek egymástól
-                const strength = 0.0015 * (120 - distance); 
-                Matter.Body.applyForce(lBody, lBody.position, { x: -forceX * strength, y: -forceY * strength });
-                Matter.Body.applyForce(rBody, rBody.position, { x: forceX * strength, y: forceY * strength });
-              }
-            }
+              return newItems;
+            });
+          } else {
+            // ROSSZ VÖDÖR!
+            itemBody.plugin.matchState = "wrong";
+            // Ellökjük felfelé
+            Matter.Body.setVelocity(itemBody, { x: (Math.random() - 0.5) * 8, y: -20 });
+            
+            setTimeout(() => {
+              if (itemBody) itemBody.plugin.matchState = "neutral";
+            }, 1000);
           }
-        });
+        }
       });
     });
 
@@ -166,31 +164,29 @@ export default function PhysicsMagnetGame({ pairs, onComplete }: PhysicsMagnetGa
     runnerRef.current = runner;
     Matter.Runner.run(runner, engine);
 
-    // Szinkronizáció a DOM elemekkel
+    // 5. SZINKRONIZÁCIÓ A HTML ELEMEKKEL
     Matter.Events.on(engine, "afterUpdate", () => {
-      [...leftBodies, ...rightBodies].forEach((body) => {
-        const [type, id] = body.label.split("_");
-        const domNode = type === "left" ? leftNodesRef.current[id] : rightNodesRef.current[id];
+      itemBodies.forEach((body) => {
+        const id = body.plugin.id;
+        const domNode = itemNodesRef.current[id];
         
         if (domNode && body.position) {
-          const px = (body.position.x / width) * 100;
-          const py = (body.position.y / height) * 100;
+          const px = (body.position.x / WORLD_W) * 100;
+          const py = (body.position.y / WORLD_H) * 100;
           domNode.style.left = `${px}%`;
           domNode.style.top = `${py}%`;
           domNode.style.transform = `translate(-50%, -50%) rotate(${body.angle}rad)`;
 
-          // VIZUÁLIS VISSZAJELZÉS (Színváltás az interakció alapján)
-          const state = (body as any).magnetState;
-          if (state === "good") {
-            domNode.style.backgroundColor = "#10B981"; // Emerald-500 (Zöld)
+          const state = body.plugin.matchState;
+          if (state === "correct") {
+            domNode.style.backgroundColor = "#10B981"; // Zöld
             domNode.style.borderColor = "#047857";
-          } else if (state === "bad") {
-            domNode.style.backgroundColor = "#EF4444"; // Red-500 (Piros)
+          } else if (state === "wrong") {
+            domNode.style.backgroundColor = "#EF4444"; // Piros
             domNode.style.borderColor = "#B91C1C";
           } else {
-            // Vissza az eredeti színre
-            domNode.style.backgroundColor = type === "left" ? "#3B82F6" : "#D946EF";
-            domNode.style.borderColor = type === "left" ? "#93C5FD" : "#F87171";
+            domNode.style.backgroundColor = "#0EA5E9"; // Kék
+            domNode.style.borderColor = "#0369A1";
           }
         }
       });
@@ -203,40 +199,51 @@ export default function PhysicsMagnetGame({ pairs, onComplete }: PhysicsMagnetGa
     };
   }, []);
 
+  const boxWidthPercent = (BOX_W / WORLD_W) * 100;
+  const boxHeightPercent = (BOX_H / WORLD_H) * 100;
+
   return (
     <div className="w-full flex flex-col items-center select-none touch-none">
-      {/* A szülő konténer kapta meg a cursor-grab osztályokat! */}
       <div 
         ref={sceneRef} 
-        className="relative w-full max-w-2xl bg-indigo-950 rounded-xl overflow-hidden shadow-2xl border-4 border-indigo-500 cursor-grab active:cursor-grabbing"
+        className="relative w-full max-w-2xl bg-slate-900 rounded-xl overflow-hidden shadow-2xl border-4 border-slate-700 cursor-grab active:cursor-grabbing"
         style={{ aspectRatio: "8/5" }}
       >
-        {/* Bal oldali szavak - POINTER-EVENTS-NONE HOZZÁADVA! */}
-        {activePairs.map((pair) => (
-          <div
-            key={`left_${pair.id}`}
-            ref={(el) => { leftNodesRef.current[pair.id] = el; }}
-            className="absolute flex items-center justify-center w-[100px] h-[40px] text-white font-bold rounded-l-2xl shadow-lg border-2 transition-colors duration-200 pointer-events-none"
-            style={{ left: "-100%", top: "-100%" }}
-          >
-            {pair.left}
-          </div>
-        ))}
+        {/* Vödrök a háttérben */}
+        <div className="absolute bottom-0 w-full h-[80px] flex pointer-events-none">
+          {buckets.map((bucket, i) => (
+            <div 
+              key={bucket.id} 
+              className="flex-1 border-t-4 border-slate-600 border-x border-slate-700/50 flex items-center justify-center bg-slate-800/80"
+            >
+              <span className="text-slate-300 font-black text-[10px] md:text-sm tracking-widest uppercase opacity-70 text-center px-2">
+                {bucket.label}
+              </span>
+            </div>
+          ))}
+        </div>
 
-        {/* Jobb oldali szavak - POINTER-EVENTS-NONE HOZZÁADVA! */}
-        {activePairs.map((pair) => (
+        {/* Fizikai Szavak (POINTER-EVENTS-NONE kötelező!) */}
+        {activeItems.map((item) => (
           <div
-            key={`right_${pair.id}`}
-            ref={(el) => { rightNodesRef.current[pair.id] = el; }}
-            className="absolute flex items-center justify-center w-[100px] h-[40px] text-white font-bold rounded-r-2xl shadow-lg border-2 transition-colors duration-200 pointer-events-none"
-            style={{ left: "-100%", top: "-100%" }}
+            key={item.id}
+            ref={(el) => { itemNodesRef.current[item.id] = el; }}
+            className="absolute flex items-center justify-center text-white font-bold rounded-md shadow-lg border-b-4 transition-colors duration-300 pointer-events-none p-2"
+            style={{ 
+              width: `${boxWidthPercent}%`, 
+              height: `${boxHeightPercent}%`, 
+              left: "-100%", top: "-100%",
+              fontSize: "clamp(0.6rem, 2vw, 1rem)",
+              lineHeight: "1.1",
+              textAlign: "center"
+            }}
           >
-            {pair.right}
+            {item.text}
           </div>
         ))}
       </div>
-      <p className="mt-4 text-indigo-300 font-bold text-sm">
-        Drag the words together! Green = Match, Red = Repel! 🧲
+      <p className="mt-4 text-slate-400 font-bold text-sm text-center">
+        Drag and drop the blocks! Wrong buckets will reject them! 🪣
       </p>
     </div>
   );
