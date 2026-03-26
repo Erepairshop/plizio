@@ -1,241 +1,158 @@
 "use client";
-import React, { useEffect, useRef, useState } from "react";
-import Matter from "matter-js";
+import React, { useState, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 
-export type WordBlock = {
-  id: string;
-  text: string;
-  index: number; // A helyes sorrend (0, 1, 2...)
-};
-
-interface PhysicsStackerGameProps {
-  sentence: WordBlock[]; // A teljes mondat helyes sorrendben
+interface MotionStackGameProps {
+  words: string[];
+  correctOrder: number[]; // Pl. [0, 1, 2] -> index 0 a legalsó, utána 1, a teteje a 2.
   onComplete: () => void;
+  lang?: string;
 }
 
-export default function PhysicsStackerGame({ sentence, onComplete }: PhysicsStackerGameProps) {
-  const sceneRef = useRef<HTMLDivElement>(null);
-  const engineRef = useRef<Matter.Engine | null>(null);
-  const runnerRef = useRef<Matter.Runner | null>(null);
+// UI szótár a felülethez
+const UI_LABELS = {
+  en: {
+    zone: "CONSTRUCTION ZONE",
+    hint: "Tap blocks to build from BOTTOM to TOP! 🏗️",
+    complete: "TOWER COMPLETE! 🏆",
+  },
+  hu: {
+    zone: "ÉPÍTÉSI TERÜLET",
+    hint: "Koppints a blokkokra lentről felfelé haladva! 🏗️",
+    complete: "TORONY KÉSZ! 🏆",
+  },
+  de: {
+    zone: "BAUSTELLE",
+    hint: "Tippe auf die Blöcke, um von UNTEN nach OBEN zu bauen! 🏗️",
+    complete: "TURM FERTIG! 🏆",
+  },
+  ro: {
+    zone: "ZONĂ DE CONSTRUCȚIE",
+    hint: "Apasă blocurile pentru a construi de JOS în SUS! 🏗️",
+    complete: "TURN FINALIZAT! 🏆",
+  },
+};
 
-  // Összekeverjük a szavakat a kezdéshez
-  const [shuffledWords] = useState<WordBlock[]>(() => 
-    [...sentence].sort(() => Math.random() - 0.5)
-  );
+export default function PhysicsStackerGame({ 
+  words, 
+  correctOrder, 
+  onComplete, 
+  lang = "en" 
+}: MotionStackGameProps) {
   
-  const wordNodesRef = useRef<{ [id: string]: HTMLDivElement | null }>({});
+  // Állapotok
+  const [stackedIndices, setStackedIndices] = useState<number[]>([]);
+  const [wrongIndex, setWrongIndex] = useState<number | null>(null);
+  const completedRef = useRef(false);
 
-  useEffect(() => {
-    if (!sceneRef.current) return;
+  // Keverjük meg a kezdő blokkokat (csak egyszer fut le)
+  const [shuffledIndices] = useState(() => 
+    Array.from({ length: words.length }, (_, i) => i).sort(() => Math.random() - 0.5)
+  );
 
-    const engine = Matter.Engine.create();
-    engineRef.current = engine;
-    const world = engine.world;
+  const t = UI_LABELS[lang as keyof typeof UI_LABELS] || UI_LABELS.en;
+  const isComplete = stackedIndices.length === correctOrder.length;
 
-    // Erős gravitáció, hogy nehéznek érezzük a blokkokat
-    world.gravity.y = 1.2;
+  const handleTap = (index: number) => {
+    if (completedRef.current || stackedIndices.includes(index)) return;
 
-    const width = 800;
-    const height = 500;
+    // Melyik a KÖVETKEZŐ elvárt elem a helyes sorrendben?
+    const expectedNextIndex = correctOrder[stackedIndices.length];
 
-    // 1. Padló és Falak (Nagy súrlódással, hogy ne csússzon el a torony alapja)
-    const groundOpts = { isStatic: true, friction: 1, render: { visible: false } };
-    const wallOpts = { isStatic: true, render: { visible: false } };
-    
-    // Egy kis "platform" a toronyépítéshez középen
-    const ground = Matter.Bodies.rectangle(width / 2, height - 20, 300, 40, { 
-      isStatic: true, friction: 1, label: "ground" 
-    });
-    
-    Matter.World.add(world, [
-      ground,
-      Matter.Bodies.rectangle(-50, height / 2, 100, height, wallOpts), // Bal
-      Matter.Bodies.rectangle(width + 50, height / 2, 100, height, wallOpts), // Jobb
-      Matter.Bodies.rectangle(width / 2, height + 50, width, 100, wallOpts), // Padló (végső leesés ellen)
-    ]);
-
-    // 2. Szó-blokkok generálása (A képernyő két oldalára szórva)
-    const wordBodies: Matter.Body[] = [];
-    const blockWidth = 150;
-    const blockHeight = 50;
-
-    shuffledWords.forEach((word, i) => {
-      // Bal vagy jobb oldalra szórjuk őket
-      const x = i % 2 === 0 ? 100 + Math.random() * 100 : width - 200 + Math.random() * 100;
-      const y = height - 100 - i * 20; // Egymás felett kicsivel
-
-      const body = Matter.Bodies.rectangle(x, y, blockWidth, blockHeight, {
-        restitution: 0.1, // Ne pattogjanak
-        friction: 0.8,    // Alapból jó súrlódás
-        frictionStatic: 1,
-        density: 0.01,
-        label: `word_${word.id}_${word.index}`, // Label: word_ID_HELYESINDEX
-      });
-      
-      // Egyedi tulajdonság a motoron belül a státusz követésére
-      (body as any).isCorrectInStack = false;
-      wordBodies.push(body);
-    });
-    Matter.World.add(world, wordBodies);
-
-    // 3. Egér vezérlés
-    const mouse = Matter.Mouse.create(sceneRef.current);
-    const mouseConstraint = Matter.MouseConstraint.create(engine, {
-      mouse: mouse,
-      constraint: { stiffness: 0.2, render: { visible: false } },
-    });
-    Matter.World.add(world, mouseConstraint);
-
-    // 4. NYELVTANI FIZIKA LOGIKA (Ütközésdetektálás)
-    Matter.Events.on(engine, "collisionActive", (event) => {
-      event.pairs.forEach((pair) => {
-        const bodyA = pair.bodyA;
-        const bodyB = pair.bodyB;
-
-        // Függvény a blokkok nyelvtani ellenőrzésére
-        const checkStack = (topBody: Matter.Body, bottomBody: Matter.Body) => {
-          if (topBody.label.startsWith("word_") && (bottomBody.label.startsWith("word_") || bottomBody.label === "ground")) {
-            
-            // Ha a felső blokkot épp fogja a gyerek, ne bántsuk a fizikáját
-            if (mouseConstraint.body === topBody) return;
-
-            const [, topId, topIndexStr] = topBody.label.split("_");
-            const topIndex = parseInt(topIndexStr);
-
-            // SCENARIO A: A legalsó szó (Index 0) a földre kerül
-            if (bottomBody.label === "ground") {
-              if (topIndex === 0) {
-                // Helyes alap! Stabilizáljuk.
-                topBody.friction = 1;
-                (topBody as any).isCorrectInStack = true;
-              } else if (topIndex > 0) {
-                // ROSSZ ALAP! Csúszóssá tesszük, hogy leessen.
-                topBody.friction = 0;
-                topBody.frictionStatic = 0;
-                (topBody as any).isCorrectInStack = false;
-                // Egy kis oldalirányú lökés
-                Matter.Body.applyForce(topBody, topBody.position, { x: 0.02, y: 0 });
-              }
-              return;
-            }
-
-            // SCENARIO B: Szót rakunk szóra
-            const [, bottomId, bottomIndexStr] = bottomBody.label.split("_");
-            const bottomIndex = parseInt(bottomIndexStr);
-            const isBottomCorrect = (bottomBody as any).isCorrectInStack;
-
-            // Ha az alsó blokk jó helyen van, ÉS a felső a következő a sorban
-            if (isBottomCorrect && topIndex === bottomIndex + 1) {
-              // HELYES SORREND! Stabil torony.
-              topBody.friction = 1;
-              (topBody as any).isCorrectInStack = true;
-            } else if (topIndex > 0) {
-              // ROSSZ SORREND (vagy az alatta lévő is rossz)! Összeomlás.
-              topBody.friction = 0;
-              topBody.frictionStatic = 0;
-              (topBody as any).isCorrectInStack = false;
-              // Ellökjük, hogy leessen
-              Matter.Body.applyForce(topBody, topBody.position, { x: (Math.random() - 0.5) * 0.03, y: 0 });
-            }
-          }
-        };
-
-        // Kiderítjük melyik van felül (kisebb Y koordináta)
-        if (bodyA.position.y < bodyB.position.y) {
-          checkStack(bodyA, bodyB);
-        } else {
-          checkStack(bodyB, bodyA);
+    if (index === expectedNextIndex) {
+      // HELYES ÉPÍTŐELEM!
+      setStackedIndices((prev) => {
+        const next = [...prev, index];
+        
+        // Ha minden a helyére került
+        if (next.length === correctOrder.length && !completedRef.current) {
+          completedRef.current = true;
+          setTimeout(onComplete, 1200); // Késleltetés, hogy lássa a kész tornyot
         }
+        return next;
       });
-    });
-
-    // Győzelem ellenőrzése (minden frame után)
-    Matter.Events.on(engine, "afterUpdate", () => {
-      // Megszámoljuk hány blokk van helyesen a toronyban
-      const correctCount = wordBodies.filter((body) => (body as any).isCorrectInStack).length;
-      
-      // Ha az összes szó a helyén van
-      if (correctCount === sentence.length) {
-        // Ellenőrizzük, hogy stabil-e a torony (alig mozog)
-        const totalVelocity = wordBodies.reduce((sum, body) => sum + body.speed, 0);
-        if (totalVelocity < 0.5) {
-          // GYŐZELEM!
-          // Kikapcsoljuk a fizikát a blokkokon, hogy ne dőljenek el a végén
-          wordBodies.forEach(body => Matter.Body.setStatic(body, true));
-          setTimeout(onComplete, 1000);
-        }
-      }
-    });
-
-    const runner = Matter.Runner.create();
-    runnerRef.current = runner;
-    Matter.Runner.run(runner, engine);
-
-    // Szinkronizáció a DOM elemekkel
-    Matter.Events.on(engine, "afterUpdate", () => {
-      wordBodies.forEach((body) => {
-        const id = body.label.split("_")[1];
-        const domNode = wordNodesRef.current[id];
-        if (domNode && body.position) {
-          const px = (body.position.x / width) * 100;
-          const py = (body.position.y / height) * 100;
-          domNode.style.left = `${px}%`;
-          domNode.style.top = `${py}%`;
-          // Forgás szinkronizálása
-          domNode.style.transform = `translate(-50%, -50%) rotate(${body.angle}rad)`;
-          
-          // Vizuális visszajelzés: ha csúszós (rossz), pirosabb
-          if (body.friction === 0 && (body.label.split('_')[2] !== '0' || body.position.y < height - 100)) {
-            domNode.style.backgroundColor = "#ef4444"; // red-500
-            domNode.style.borderColor = "#b91c1c";
-          } else if ((body as any).isCorrectInStack) {
-            domNode.style.backgroundColor = "#10b981"; // emerald-500 (stabil)
-            domNode.style.borderColor = "#047857";
-          } else {
-            domNode.style.backgroundColor = "#f59e0b"; // amber-500 (alap)
-            domNode.style.borderColor = "#b45309";
-          }
-        }
-      });
-    });
-
-    return () => {
-      Matter.Runner.stop(runner);
-      Matter.Engine.clear(engine);
-    };
-  }, []);
+    } else {
+      // ROSSZ ÉPÍTŐELEM! (Csak rázkódik, nem megy fel)
+      setWrongIndex(index);
+      setTimeout(() => setWrongIndex(null), 500);
+    }
+  };
 
   return (
-    <div className="w-full flex flex-col items-center select-none touch-none">
-      <div 
-        ref={sceneRef} 
-        className="relative w-full max-w-2xl bg-stone-900 rounded-xl overflow-hidden shadow-2xl border-4 border-stone-700"
-        style={{ aspectRatio: "8/5" }}
-      >
-        {/* Építő Platform (vizuális) */}
-        <div className="absolute left-1/2 bottom-0 w-[300px] h-[40px] bg-stone-700 rounded-t-lg -translate-x-1/2 border-t-4 border-stone-500 z-0">
-            <span className="absolute inset-0 flex items-center justify-center text-stone-400 font-bold text-xs uppercase tracking-widest">Build Tower Here</span>
+    <div className="w-full flex flex-col items-center select-none px-2 gap-4">
+      
+      {/* ÉPÍTÉSI TERÜLET (Torony) */}
+      <div className="w-full max-w-lg bg-slate-900 border-4 border-slate-700 rounded-2xl flex flex-col overflow-hidden shadow-2xl">
+        
+        {/* Fejléc */}
+        <div className="bg-slate-800 border-b-2 border-slate-700 py-2 px-4 text-center">
+          <p className="text-amber-400 font-black text-xs uppercase tracking-widest">
+            {t.zone}
+          </p>
         </div>
 
-        {/* Szó-blokkok (Jenga) */}
-        {shuffledWords.map((word) => (
-          <div
-            key={word.id}
-            ref={(el) => { wordNodesRef.current[word.id] = el; }}
-            className="absolute flex items-center justify-center w-[150px] h-[50px] text-white font-black rounded-md shadow-md border-b-4 cursor-grab active:cursor-grabbing transition-colors duration-300 z-10"
-            style={{ 
-              left: "-100%", top: "-100%", 
-              fontSize: word.text.length > 10 ? "12px" : "16px",
-              transitionProperty: "background-color, border-color" 
-            }}
-          >
-            <span className="text-center px-2 drop-shadow-md">{word.text}</span>
-          </div>
-        ))}
+        {/* Torony megjelenítése (flex-col-reverse = lentről felfelé épül!) */}
+        <div className="flex flex-col-reverse items-center justify-start min-h-[220px] w-full bg-slate-900/50 p-4 gap-2">
+          <AnimatePresence>
+            {stackedIndices.map((idx) => (
+              <motion.div
+                key={`stacked-${idx}`}
+                layoutId={`block-${idx}`} // EZ A VARÁZSLAT: Ugyanaz a layoutId, így felrepül!
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="w-[90%] md:w-[80%] py-3 px-4 bg-amber-500 border-b-4 border-amber-700 rounded-lg shadow-md flex justify-center items-center z-10"
+              >
+                <span className="text-amber-950 font-bold text-sm md:text-base text-center">
+                  {words[idx]}
+                </span>
+              </motion.div>
+            ))}
+          </AnimatePresence>
+          
+          {/* Halvány segédvonalak, ha még üres a torony */}
+          {stackedIndices.length === 0 && (
+            <div className="w-[90%] md:w-[80%] h-[50px] border-2 border-dashed border-slate-700 rounded-lg flex items-center justify-center opacity-50">
+              <span className="text-slate-500 font-bold text-xs uppercase">1. Base</span>
+            </div>
+          )}
+        </div>
       </div>
-      <p className="mt-4 text-amber-300 font-bold text-sm text-center max-w-md">
-        Build a stable tower by stacking the words in the correct order from bottom to top! Incorrect words will slip and make the tower collapse! 🏗️🧱
+
+      {/* JELZŐ SZÖVEG */}
+      <p className={`font-bold text-sm animate-pulse ${isComplete ? "text-emerald-400" : "text-slate-400"}`}>
+        {isComplete ? t.complete : t.hint}
       </p>
+
+      {/* ÖSSZEKEVERT ALAPANYAGOK (Lent) */}
+      <div className="w-full max-w-lg flex flex-wrap justify-center gap-3 p-2">
+        <AnimatePresence>
+          {shuffledIndices.map((idx) => {
+            // Ha már beépítettük a toronyba, lentről eltűnik
+            if (stackedIndices.includes(idx)) return null;
+
+            const isWrong = wrongIndex === idx;
+
+            return (
+              <motion.button
+                key={`pool-${idx}`}
+                layoutId={`block-${idx}`} // Kapcsolat a fenti elemmel
+                animate={isWrong ? { x: [-5, 5, -5, 5, 0] } : {}}
+                transition={{ duration: isWrong ? 0.4 : 0.2 }}
+                onClick={() => handleTap(idx)}
+                className="py-3 px-5 rounded-lg font-bold text-sm md:text-base border-b-4 transition-all duration-200"
+                style={{
+                  backgroundColor: isWrong ? "#ef4444" : "#475569", // Piros, ha rossz, szürke ha még vár
+                  borderColor: isWrong ? "#b91c1c" : "#334155",
+                  color: "#f8fafc",
+                }}
+              >
+                {words[idx]}
+              </motion.button>
+            );
+          })}
+        </AnimatePresence>
+      </div>
+
     </div>
   );
 }
