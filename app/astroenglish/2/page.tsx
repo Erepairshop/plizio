@@ -43,6 +43,10 @@ import VerbExplorer from "@/app/astroenglish/games/k2/VerbExplorer";
 import AdjectiveExplorer from "@/app/astroenglish/games/k2/AdjectiveExplorer";
 import SentenceExplorerK2 from "@/app/astroenglish/games/k2/SentenceExplorer";
 import VowelExplorer from "@/app/astroenglish/games/k2/VowelExplorer";
+import PrefixExplorer from "@/app/astroenglish/games/k2/PrefixExplorer";
+import MeaningExplorer from "@/app/astroenglish/games/k2/MeaningExplorer";
+import GrammarExplorer from "@/app/astroenglish/games/k2/GrammarExplorer";
+import BigTestExplorer from "@/app/astroenglish/games/k2/BigTestExplorer";
 import {
   K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS,
   type IslandDef, type MissionDef, type Lang, type MissionCategory, type EnglishProgress,
@@ -1090,6 +1094,18 @@ export default function AstroEnglishK2Page() {
         )}
         {screen === "en2-vowel-explorer" && (
           <VowelExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-prefix-explorer" && (
+          <PrefixExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-meaning-explorer" && (
+          <MeaningExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-grammar-review-explorer" && (
+          <GrammarExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en2-big-test-explorer" && (
+          <BigTestExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>

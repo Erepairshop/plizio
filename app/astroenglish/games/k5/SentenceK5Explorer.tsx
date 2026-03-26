@@ -1,331 +1,321 @@
 "use client";
+// SentenceK5Explorer.tsx — AstroEnglish Grade 5: i4 Sentence Summit
+// Topics: 1) Independent vs Dependent 2) Building Complex Sentences 3) The Comma Rule 4) Compound-Complex Sentences 5) Flag Catch
 
-import React, { useState, useMemo, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
 
-type Phase = "info" | "question";
-type Lang = "en" | "de" | "hu" | "ro";
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
 
-interface Props {
-  color?: string;
-  onDone?: (score: number, total: number) => void;
-  lang?: Lang;
-}
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Mountain representing sentence clauses */}
+      <g transform="translate(70, 90)">
+        <polygon points="-30,30 30,30 0,-40" fill="#3B82F6" />
+        <polygon points="-30,30 0,30 0,-40" fill="#2563EB" />
+        <polygon points="-15,-5 15,-5 0,-40" fill="#EFF6FF" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#93C5FD">Independent</text>
+      </g>
+      <g transform="translate(170, 90)">
+        <polygon points="-25,30 25,30 0,-20" fill="#64748B" opacity="0.8" />
+        <polygon points="-25,30 0,30 0,-20" fill="#475569" opacity="0.8" />
+        <polygon points="-10,5 10,5 0,-20" fill="#F1F5F9" />
+        <line x1="-25" y1="30" x2="-60" y2="30" stroke="#94A3B8" strokeWidth="2" strokeDasharray="3,3" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#CBD5E1">Dependent</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* Linking independent and dependent clauses */}
+      <g transform="translate(120, 70)">
+        <rect x="-90" y="-15" width="80" height="30" fill="#10B981" rx="5" />
+        <text x="-50" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Dependent</text>
+        
+        <rect x="10" y="-15" width="80" height="30" fill="#3B82F6" rx="5" />
+        <text x="50" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">Independent</text>
+        
+        <circle cx="0" cy="0" r="15" fill="#F43F5E" />
+        <text x="0" y="5" textAnchor="middle" fontSize="16" fontWeight="bold" fill="white">+</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="10" fill="#A78BFA">Complex Sentence</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic3Svg = memo(function Topic3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#082F49" rx="20" />
+      {/* Comma Rule Visualization */}
+      <g transform="translate(120, 50)">
+        <rect x="-80" y="-10" width="60" height="20" fill="#64748B" rx="4" />
+        <rect x="20" y="-10" width="60" height="20" fill="#0EA5E9" rx="4" />
+        <text x="0" y="5" textAnchor="middle" fontSize="24" fontWeight="black" fill="#FDE047">,</text>
+        <text x="0" y="30" textAnchor="middle" fontSize="10" fill="#BAE6FD">Dependent first? Use a comma!</text>
+      </g>
+      <g transform="translate(120, 100)">
+        <rect x="-80" y="-10" width="60" height="20" fill="#0EA5E9" rx="4" />
+        <rect x="20" y="-10" width="60" height="20" fill="#64748B" rx="4" />
+        <text x="0" y="5" textAnchor="middle" fontSize="14" fontWeight="bold" fill="#EF4444">X</text>
+        <text x="0" y="25" textAnchor="middle" fontSize="10" fill="#BAE6FD">Independent first? NO comma!</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#312E81" rx="20" />
+      {/* Compound-Complex structure (3 blocks) */}
+      <g transform="translate(120, 70)">
+        <rect x="-95" y="-15" width="50" height="30" fill="#3B82F6" rx="4" />
+        <text x="-70" y="4" textAnchor="middle" fontSize="8" fill="white">Indep.</text>
+        
+        <rect x="-35" y="-15" width="50" height="30" fill="#3B82F6" rx="4" />
+        <text x="-10" y="4" textAnchor="middle" fontSize="8" fill="white">Indep.</text>
+        
+        <rect x="25" y="-15" width="70" height="30" fill="#64748B" rx="4" />
+        <text x="60" y="4" textAnchor="middle" fontSize="8" fill="white">Dependent</text>
+        
+        <text x="-40" y="4" textAnchor="middle" fontSize="10" fill="#FBBF24">+</text>
+        <text x="20" y="4" textAnchor="middle" fontSize="10" fill="#FBBF24">+</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="10" fill="#A78BFA">Compound-Complex</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#020617" rx="20" />
+      {/* Snowy Summit and Flags */}
+      <polygon points="20,140 220,140 120,40" fill="#1E293B" />
+      <polygon points="120,40 160,80 80,80" fill="#F8FAFC" />
+      <line x1="120" y1="40" x2="120" y2="10" stroke="#94A3B8" strokeWidth="2" />
+      <polygon points="120,10 140,15 120,20" fill="#EF4444" />
+      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#CBD5E1">Tap the summit flags!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    gotIt: "Got it! →",
-    next: "Next",
-    finish: "Finish",
-    correct: "Correct! ✓",
-    wrong: "Not quite!",
+    explorer_title: "Sentence Summit",
+    
+    // T1: Independent vs Dependent
+    t1_title: "Types of Clauses",
+    t1_text: "A clause is a group of words with a subject and a verb. An INDEPENDENT clause can stand alone as a sentence. A DEPENDENT clause starts with a subordinating conjunction (like 'because') and cannot stand alone.",
+    t1_b1: "Independent: The rocket launched.",
+    t1_b2: "Dependent: Because the weather was clear.",
+    t1_b3: "Dependent clauses need help to make sense!",
+    t1_inst: "Is the phrase Independent (Stands alone) or Dependent (Needs help)?",
+    t1_bucket_ind: "Independent",
+    t1_bucket_dep: "Dependent",
+    t1_item_i1: "The stars are bright.", t1_item_i2: "We landed safely.",
+    t1_item_d1: "Because it was dark.", t1_item_d2: "Although I was tired.",
+    t1_q: "Why is 'When the sun sets' a dependent clause?",
+    t1_q_a: "It does not express a complete thought.", t1_q_b: "It is missing a subject.", t1_q_c: "It is missing a verb.", t1_q_d: "It is a complete sentence.",
 
-    r1_title: "Simple Sentences",
-    r1_text: "A simple sentence has one independent clause (subject + verb). Example: 'The cat sleeps.' It expresses one complete thought.",
-    r1_q: "Which is a simple sentence?",
-    r1_a: "The dog runs.",
-    r1_b: "The dog runs, but the cat sleeps.",
-    r1_c: "Although the dog runs, the cat sleeps.",
-    r1_d: "The dog, which runs fast, is happy.",
+    // T2: Complex Sentences
+    t2_title: "Complex Sentences",
+    t2_text: "When you join one independent clause and one dependent clause together, you build a COMPLEX sentence. It's like adding a side-peak to the main mountain.",
+    t2_b1: "Independent + Dependent = Complex Sentence.",
+    t2_b2: "Example: I cheered [because we won].",
+    t2_b3: "Match the clauses to make a complete thought.",
+    t2_inst: "Match the dependent clause to the independent clause that makes the most sense!",
+    t2_l1: "Because he was tired,", t2_r1: "the pilot went to sleep.",
+    t2_l2: "If the fuel is low,", t2_r2: "we must return to base.",
+    t2_l3: "Although it was cold,", t2_r3: "she walked outside.",
+    t2_q: "A complex sentence MUST have...",
+    t2_q_a: "One independent and one dependent clause.", t2_q_b: "Two independent clauses.", t2_q_c: "No verbs.", t2_q_d: "Only adjectives.",
 
-    r2_title: "Compound Sentences",
-    r2_text: "A compound sentence has two independent clauses joined by a conjunction (and, but, or, so). Example: 'She studied hard, and she passed the test.'",
-    r2_q: "Which is a compound sentence?",
-    r2_a: "The student studied.",
-    r2_b: "The student studied, and the teacher helped.",
-    r2_c: "The student studied because the test was hard.",
-    r2_d: "The student who studied passed.",
+    // T3: The Comma Rule
+    t3_title: "The Golden Comma Rule",
+    t3_text: "Here is a strict rule for complex sentences: If the DEPENDENT clause comes first, use a comma. If the INDEPENDENT clause comes first, DO NOT use a comma.",
+    t3_b1: "[Because it rained], we stayed inside. (Comma!)",
+    t3_b2: "We stayed inside [because it rained]. (No comma!)",
+    t3_b3: "Look at the first word of the sentence.",
+    t3_inst: "Highlight the sentence that uses the comma CORRECTLY!",
+    t3_tok0: "Since", t3_tok1: "it", t3_tok2: "is", t3_tok3: "late,", t3_tok4: "I", t3_tok5: "will", t3_tok6: "sleep.", // Correct
+    t3_q: "Does this sentence need a comma? 'I wore my spacesuit because it was freezing.'",
+    t3_q_a: "No, the independent clause is first.", t3_q_b: "Yes, before 'because'.", t3_q_c: "Yes, after 'spacesuit'.", t3_q_d: "Yes, at the very beginning.",
 
-    r3_title: "Complex Sentences",
-    r3_text: "A complex sentence has one independent clause + one or more dependent clauses. Example: 'She smiled because she won the game.'",
-    r3_q: "Which is a complex sentence?",
-    r3_a: "The team won.",
-    r3_b: "The team won, and they celebrated.",
-    r3_c: "The team won because they practiced hard.",
-    r3_d: "The team won and they were happy.",
+    // T4: Compound-Complex Sentences
+    t4_title: "The Ultimate Climb",
+    t4_text: "A Compound-Complex sentence is the highest peak! It has TWO independent clauses (joined by and/but/so) AND at least ONE dependent clause.",
+    t4_b1: "[I like stars], and [he likes moons], [because they glow].",
+    t4_b2: "Two main ideas + one extra detail.",
+    t4_b3: "Put the sentence in the right order to reach the summit.",
+    t4_inst: "Drag the blocks to build a Compound-Complex sentence!",
+    t4_w1: "We", t4_w2: "won", t4_w3: "the", t4_w4: "race,", t4_w5: "and", t4_w6: "we", t4_w7: "cheered", t4_w8: "because", t4_w9: "it", t4_w10: "was", t4_w11: "hard.",
+    t4_q: "How many independent clauses are in a Compound-Complex sentence?",
+    t4_q_a: "At least two.", t4_q_b: "Exactly one.", t4_q_c: "Zero.", t4_q_d: "Only dependent clauses.",
 
-    r4_title: "Compound-Complex Sentences",
-    r4_text: "These have two or more independent clauses + one or more dependent clauses. Example: 'She studied hard, and she passed the test because she prepared well.'",
-    r4_q: "Which is compound-complex?",
-    r4_a: "She studied hard.",
-    r4_b: "She studied hard and she passed.",
-    r4_c: "She studied hard because she wanted to pass.",
-    r4_d: "She studied hard, and she passed because she prepared well.",
-
-    r5_title: "⭐ Review Questions",
-    r5_text: "Let's check what you learned!",
-    r5_q1: "How many independent clauses does a compound sentence have?",
-    r5_op1: "One",
-    r5_op2: "Two",
-    r5_op3: "Three",
-    r5_op4: "Four",
-    r5_q2: "Which shows two independent clauses?",
-    r5_op5: "She ran fast because she was late.",
-    r5_op6: "She ran fast, and she arrived on time.",
-    r5_op7: "She ran fast, arriving on time.",
-    r5_op8: "She ran, and she ran fast.",
-  },
-  de: {
-    gotIt: "Verstanden! →",
-    next: "Weiter",
-    finish: "Fertig",
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz!",
-
-    r1_title: "Einfache Sätze",
-    r1_text: "Ein einfacher Satz hat eine unabhängige Klausel (Subjekt + Verb). Beispiel: 'Die Katze schläft.' Er drückt einen Gedanken aus.",
-    r1_q: "Welcher ist ein einfacher Satz?",
-    r1_a: "Der Hund läuft.",
-    r1_b: "Der Hund läuft, aber die Katze schläft.",
-    r1_c: "Obwohl der Hund läuft, schläft die Katze.",
-    r1_d: "Der Hund, der schnell läuft, ist glücklich.",
-
-    r2_title: "Zusammengesetzte Sätze",
-    r2_text: "Ein zusammengesetzter Satz hat zwei unabhängige Klauseln mit einer Konjunktion. Beispiel: 'Sie studierte hart, und sie bestand die Prüfung.'",
-    r2_q: "Welcher ist zusammengesetzt?",
-    r2_a: "Der Schüler studierte.",
-    r2_b: "Der Schüler studierte, und der Lehrer half.",
-    r2_c: "Der Schüler studierte, weil die Prüfung schwer war.",
-    r2_d: "Der Schüler, der studierte, bestand.",
-
-    r3_title: "Komplexe Sätze",
-    r3_text: "Ein komplexer Satz hat eine unabhängige Klausel + abhängige Klauseln. Beispiel: 'Sie lächelte, weil sie das Spiel gewann.'",
-    r3_q: "Welcher ist ein komplexer Satz?",
-    r3_a: "Das Team gewann.",
-    r3_b: "Das Team gewann, und sie feierten.",
-    r3_c: "Das Team gewann, weil sie hart trainierten.",
-    r3_d: "Das Team gewann und sie waren glücklich.",
-
-    r4_title: "Zusammengesetzt-komplexe Sätze",
-    r4_text: "Diese haben zwei+ unabhängige Klauseln + abhängige Klauseln. Beispiel: 'Sie studierte hart, und sie bestand, weil sie sich vorbereitete.'",
-    r4_q: "Welcher ist zusammengesetzt-komplex?",
-    r4_a: "Sie studierte hart.",
-    r4_b: "Sie studierte hart und sie bestand.",
-    r4_c: "Sie studierte hart, weil sie bestehen wollte.",
-    r4_d: "Sie studierte hart, und sie bestand, weil sie sich vorbereitete.",
-
-    r5_title: "⭐ Wiederholungsfragen",
-    r5_text: "Lass uns überprüfen was du gelernt hast!",
-    r5_q1: "Wie viele unabhängige Klauseln hat ein zusammengesetzter Satz?",
-    r5_op1: "Eine",
-    r5_op2: "Zwei",
-    r5_op3: "Drei",
-    r5_op4: "Vier",
-    r5_q2: "Welcher zeigt zwei unabhängige Klauseln?",
-    r5_op5: "Sie lief schnell, weil sie spät war.",
-    r5_op6: "Sie lief schnell, und sie kam rechtzeitig an.",
-    r5_op7: "Sie lief schnell, um rechtzeitig anzukommen.",
-    r5_op8: "Sie lief, und sie lief schnell.",
-  },
-  hu: {
-    gotIt: "Értem! →",
-    next: "Tovább",
-    finish: "Kész",
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen!",
-
-    r1_title: "Egyszerű Mondatok",
-    r1_text: "Az egyszerű mondat egy független záradékból áll (alany + ige). Példa: 'A macska alszik.' Egy gondolatot fejez ki.",
-    r1_q: "Melyik az egyszerű mondat?",
-    r1_a: "A kutya fut.",
-    r1_b: "A kutya fut, de a macska alszik.",
-    r1_c: "Bár a kutya fut, a macska alszik.",
-    r1_d: "A kutya, amely gyorsan fut, boldog.",
-
-    r2_title: "Összetett Mondatok",
-    r2_text: "Az összetett mondat két független záradékot tartalmaz kötőszóval. Példa: 'Keményen tanult, és sikeresen vizsgázott.'",
-    r2_q: "Melyik az összetett mondat?",
-    r2_a: "A diák tanult.",
-    r2_b: "A diák tanult, és a tanár segített.",
-    r2_c: "A diák tanult, mert nehéz volt a vizsga.",
-    r2_d: "A diák, aki tanult, sikerült.",
-
-    r3_title: "Bonyolult Mondatok",
-    r3_text: "A bonyolult mondatnak egy független záradéka van + egy vagy több függő záradék. Példa: 'Mosolygott, mert megnyerte a játékot.'",
-    r3_q: "Melyik a bonyolult mondat?",
-    r3_a: "A csapat nyert.",
-    r3_b: "A csapat nyert, és ünnepeltek.",
-    r3_c: "A csapat nyert, mert keményen edzett.",
-    r3_d: "A csapat nyert és boldogok voltak.",
-
-    r4_title: "Összetett-Bonyolult Mondatok",
-    r4_text: "Ezek két+ független záradékot + függő záradékokat tartalmaznak. Példa: 'Keményen tanult, és sikerült, mert készült.'",
-    r4_q: "Melyik összetett-bonyolult?",
-    r4_a: "Keményen tanult.",
-    r4_b: "Keményen tanult és sikerült.",
-    r4_c: "Keményen tanult, mert sikerülni akart.",
-    r4_d: "Keményen tanult, és sikerült, mert készült.",
-
-    r5_title: "⭐ Ismétlő Kérdések",
-    r5_text: "Ellenőrizzük mit tanultál!",
-    r5_q1: "Hány független záradéka van az összetett mondatnak?",
-    r5_op1: "Egy",
-    r5_op2: "Kettő",
-    r5_op3: "Három",
-    r5_op4: "Négy",
-    r5_q2: "Melyik mutat két független záradékot?",
-    r5_op5: "Gyorsan futott, mert késett.",
-    r5_op6: "Gyorsan futott, és időben érkezett.",
-    r5_op7: "Gyorsan futott, hogy időben érjen.",
-    r5_op8: "Futott, és gyorsan futott.",
-  },
-  ro: {
-    gotIt: "Înțeles! →",
-    next: "Următorul",
-    finish: "Gata",
-    correct: "Corect! ✓",
-    wrong: "Nu tocmai!",
-
-    r1_title: "Propoziții Simple",
-    r1_text: "O propoziție simplă are o clauză independentă (subiect + verb). Exemplu: 'Pisica doarme.' Exprimă un gând complet.",
-    r1_q: "Care este o propoziție simplă?",
-    r1_a: "Câinele aleargă.",
-    r1_b: "Câinele aleargă, dar pisica doarme.",
-    r1_c: "Deși câinele aleargă, pisica doarme.",
-    r1_d: "Câinele, care aleargă repede, este fericit.",
-
-    r2_title: "Propoziții Compuse",
-    r2_text: "O propoziție compusă are două clauze independente cu o conjuncție. Exemplu: 'A studiat din greu, și a trecut testul.'",
-    r2_q: "Care este o propoziție compusă?",
-    r2_a: "Elevul a studiat.",
-    r2_b: "Elevul a studiat, și profesorul a ajutat.",
-    r2_c: "Elevul a studiat pentru că testul era greu.",
-    r2_d: "Elevul care a studiat a trecut.",
-
-    r3_title: "Propoziții Complexe",
-    r3_text: "O propoziție complexă are o clauză independentă + clauze dependente. Exemplu: 'A zâmbit pentru că a câștigat jocul.'",
-    r3_q: "Care este o propoziție complexă?",
-    r3_a: "Echipa a câștigat.",
-    r3_b: "Echipa a câștigat, și au sărbătorit.",
-    r3_c: "Echipa a câștigat pentru că au antrenat din greu.",
-    r3_d: "Echipa a câștigat și au fost fericiți.",
-
-    r4_title: "Propoziții Compus-Complexe",
-    r4_text: "Acestea au două+ clauze independente + clauze dependente. Exemplu: 'A studiat din greu, și a trecut pentru că s-a pregătit.'",
-    r4_q: "Care este compus-complexă?",
-    r4_a: "A studiat din greu.",
-    r4_b: "A studiat din greu și a trecut.",
-    r4_c: "A studiat din greu pentru că voia să treacă.",
-    r4_d: "A studiat din greu, și a trecut pentru că s-a pregătit.",
-
-    r5_title: "⭐ Întrebări de Repetiție",
-    r5_text: "Să verificăm ce ai învățat!",
-    r5_q1: "Câte clauze independente are o propoziție compusă?",
-    r5_op1: "Una",
-    r5_op2: "Două",
-    r5_op3: "Trei",
-    r5_op4: "Patru",
-    r5_q2: "Care arată două clauze independente?",
-    r5_op5: "A alergat repede pentru că era târziu.",
-    r5_op6: "A alergat repede, și a ajuns la timp.",
-    r5_op7: "A alergat repede, ca să ajungă la timp.",
-    r5_op8: "A alergat, și a alergat repede.",
-  },
+    // T5: Fun Catch
+    t5_title: "Summit Flags",
+    t5_text: "You have reached the top of the Sentence Summit! Plant your flags and celebrate your grammar mastery.",
+    t5_b1: "Watch your commas.",
+    t5_b2: "Know your clauses.",
+    t5_b3: "Tap 5 summit flags!",
+    t5_inst: "Tap the 5 red flags (🚩) on top of the mountain peaks!",
+    t5_q: "Which word starts a dependent clause?",
+    t5_q_a: "Although", t5_q_b: "The", t5_q_c: "Rocket", t5_q_d: "Jumped",
+  }
 };
 
-interface MCQQuestion {
-  question: string;
-  choices: string[];
-  answer: string;
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-export default function SentenceK5Explorer({ color = "#06B6D4", onDone, lang = "en" }: Props) {
-  const langCode = lang || "en";
-  const t = LABELS[langCode] || LABELS.en;
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [
+        { id: "ind", label: "t1_bucket_ind" },
+        { id: "dep", label: "t1_bucket_dep" },
+      ],
+      items: [
+        { text: "t1_item_i1", bucketId: "ind" },
+        { text: "t1_item_d1", bucketId: "dep" },
+        { text: "t1_item_i2", bucketId: "ind" },
+        { text: "t1_item_d2", bucketId: "dep" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b2",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic3Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6"],
+      correctIndices: [3], // The comma
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4", "t4_w5", "t4_w6", "t4_w7", "t4_w8", "t4_w9", "t4_w10", "t4_w11"],
+      correctOrder: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], // We won the race, and we cheered because it was hard.
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🚩", count: 5 }, // Flags
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
-  const [selected, setSelected] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const [score, setScore] = useState(0);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  const questionsPerRound = useMemo(() => {
-    if (round < 4) return [{ question: `r${round + 1}_q`, choices: [`r${round + 1}_a`, `r${round + 1}_b`, `r${round + 1}_c`, `r${round + 1}_d`], answer: `r${round + 1}_a` }];
-    return [
-      { question: "r5_q1", choices: ["r5_op1", "r5_op2", "r5_op3", "r5_op4"], answer: "r5_op2" },
-      { question: "r5_q2", choices: ["r5_op5", "r5_op6", "r5_op7", "r5_op8"], answer: "r5_op6" },
-    ];
-  }, [round]);
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🏔️",
+  topics: TOPICS,
+  rounds: [],
+};
 
-  const handleAnswer = useCallback((choice: string) => {
-    if (locked) return;
-    setSelected(choice);
-    setLocked(true);
-    if (choice === questionsPerRound[0].answer) {
-      setScore(s => s + 1);
-    }
-    setTimeout(() => {
-      if (round < 4) {
-        setRound(r => r + 1);
-        setPhase("info");
-        setSelected(null);
-        setLocked(false);
-      } else {
-        onDone?.(score + (choice === questionsPerRound[0].answer ? 1 : 0), 5);
-      }
-    }, 1200);
-  }, [locked, round, questionsPerRound, score, onDone]);
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-  const infoBgs: Record<number, string> = {
-    0: "linear-gradient(135deg, #cffafe 0%, #a5f3fc 100%)",
-    1: "linear-gradient(135deg, #fef08a 0%, #fde047 100%)",
-    2: "linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%)",
-    3: "linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%)",
-    4: "linear-gradient(135deg, #fed7aa 0%, #fdba74 100%)",
-  };
-
+const SentenceK5Explorer = memo(function SentenceK5Explorer({
+  color = "#2563EB", // Blue-600 for the icy mountain theme
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {phase === "info" && (
-        <motion.div className="bg-white/95 rounded-3xl p-8 text-center"
-          style={{ background: infoBgs[round] }}
-          initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-          <h2 className="text-2xl font-black text-slate-800 mb-4">{t[`r${round + 1}_title`] || "Sentence Types"}</h2>
-          <p className="text-slate-700 text-sm leading-relaxed mb-4">{t[`r${round + 1}_text`] || ""}</p>
-          <motion.button
-            onClick={() => setPhase("question")}
-            className="px-6 py-3 rounded-full font-bold text-white transition-all"
-            style={{ background: color }}
-            whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            {t.gotIt}
-          </motion.button>
-        </motion.div>
-      )}
-
-      <AnimatePresence mode="wait">
-        {phase === "question" && (
-          <motion.div key={`q-${round}`} className="bg-white/95 rounded-3xl p-8"
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-            <p className="text-lg font-bold text-center mb-6 text-slate-800">{t[questionsPerRound[0].question] || ""}</p>
-            <div className="grid grid-cols-1 gap-3">
-              {questionsPerRound[0].choices.map((ch) => (
-                <motion.button
-                  key={ch}
-                  onClick={() => handleAnswer(ch)}
-                  className={`py-4 px-4 rounded-2xl font-bold text-sm transition-all border-2 ${
-                    selected === ch
-                      ? ch === questionsPerRound[0].answer
-                        ? "bg-green-500 border-green-500 text-white"
-                        : "bg-red-100 border-red-300 text-red-600 opacity-70"
-                      : "bg-white border-slate-200 text-slate-700 hover:border-slate-400"
-                  }`}
-                  disabled={locked}
-                  whileHover={!locked ? { scale: 1.02 } : {}}>
-                  {t[ch] || ""}
-                </motion.button>
-              ))}
-            </div>
-            {locked && (
-              <motion.div className="mt-4 text-center font-bold"
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <span className={selected === questionsPerRound[0].answer ? "text-green-600" : "text-red-600"}>
-                  {selected === questionsPerRound[0].answer ? t.correct : t.wrong}
-                </span>
-              </motion.div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={5} 
+      explorerId="english_k5_sentence_summit" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
   );
-}
+});
+
+export default SentenceK5Explorer;

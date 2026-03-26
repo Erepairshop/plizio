@@ -25,6 +25,10 @@ import MatchPairsInteractive from "@/components/interactive/MatchPairs";
 import HighlightText from "@/components/interactive/HighlightText";
 import LabelDiagram from "@/components/interactive/LabelDiagram";
 import type { DiagramArea } from "@/components/interactive/LabelDiagram";
+import PhysicsDropGame from "@/app/astroenglish/PhysicsDropGame";
+import PhysicsMagnetGame from "@/app/astroenglish/PhysicsMagnetGame";
+import PhysicsSlingshotGame from "@/app/astroenglish/PhysicsSlingshotGame";
+import PhysicsStackerGame from "@/app/astroenglish/PhysicsStackerGame";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Public Types (used by content files)
@@ -283,6 +287,37 @@ export type TopicInteractive =
   | {
       type: "tap-count";
       tapCount: TapCountConfig;
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "physics-bucket";
+      buckets: { id: string; label: string }[];  // label keys
+      items: { text: string; bucketId: string }[]; // label keys
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "physics-magnet";
+      pairs: { left: string; right: string }[];  // label keys — left=bucket, right=item
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "physics-slingshot";
+      question: string;  // label key
+      targets: { id: string; text: string; isCorrect: boolean }[];  // text = label key
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "physics-stacker";
+      words: string[];        // label keys
+      correctOrder: number[]; // correct index order
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1349,6 +1384,47 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                             </motion.div>
                           )}
                         </div>
+                      );
+                    }
+                    if (inter.type === "physics-bucket") {
+                      return (
+                        <PhysicsDropGame
+                          buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
+                          items={inter.items.map((item, idx) => ({ id: String(idx), text: L(item.text), bucketId: item.bucketId }))}
+                          onComplete={() => handleTopicInteractiveDone(true)}
+                        />
+                      );
+                    }
+                    if (inter.type === "physics-magnet") {
+                      // Convert pairs (left=bucket label key, right=item label key) to buckets+items
+                      const seenBuckets = new Map<string, string>();
+                      inter.pairs.forEach((p) => { if (!seenBuckets.has(p.left)) seenBuckets.set(p.left, `b${seenBuckets.size}`); });
+                      const magnetBuckets = Array.from(seenBuckets.entries()).map(([key, id]) => ({ id, label: L(key) }));
+                      const magnetItems = inter.pairs.map((p, idx) => ({ id: String(idx), text: L(p.right), bucketId: seenBuckets.get(p.left)! }));
+                      return (
+                        <PhysicsMagnetGame
+                          buckets={magnetBuckets}
+                          items={magnetItems}
+                          onComplete={() => handleTopicInteractiveDone(true)}
+                        />
+                      );
+                    }
+                    if (inter.type === "physics-slingshot") {
+                      return (
+                        <PhysicsSlingshotGame
+                          question={L(inter.question)}
+                          targets={inter.targets.map(tgt => ({ id: tgt.id, text: L(tgt.text), isCorrect: tgt.isCorrect }))}
+                          onComplete={() => handleTopicInteractiveDone(true)}
+                        />
+                      );
+                    }
+                    if (inter.type === "physics-stacker") {
+                      const sentence = inter.correctOrder.map((origIdx, pos) => ({ id: `word_${origIdx}`, text: L(inter.words[origIdx]), index: pos }));
+                      return (
+                        <PhysicsStackerGame
+                          sentence={sentence}
+                          onComplete={() => handleTopicInteractiveDone(true)}
+                        />
                       );
                     }
                     return null;

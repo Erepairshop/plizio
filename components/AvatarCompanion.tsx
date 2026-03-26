@@ -777,6 +777,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   // Body shape: boy slightly wider, girl default — human proportions
   const bodyW = isGirl ? 0.40 : 0.43;
   const bodyH = isGirl ? 0.58 : 0.60;
+  const totalBodyH = isGirl ? 0.60 : 0.65; // segmented torso total height
 
   return (
     <group ref={groupRef} position={[0, -0.05, 0]} scale={0.78}>
@@ -790,9 +791,9 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* CSS drop-shadow filter (which handles the outer glow / soft halo).     */}
       {/* Head outline — moved to headRef group below so it follows breathing */}
       {/* (was here as a sibling, caused forehead bump during breathing)      */}
-      {/* Torso */}
-      <mesh scale={[1.08, 1.06, 1.09]}>
-        <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
+      {/* Torso outline — single approximate cylinder for glow effect */}
+      <mesh position={[0, totalBodyH * 0.08, 0]} scale={[1.08, 1.06, 1.00]}>
+        <cylinderGeometry args={[bodyW * 0.52, bodyW * 0.56, totalBodyH * 0.95, 12]} />
         <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
       </mesh>
       {/* Left leg */}
@@ -811,11 +812,17 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
       </group>
 
-      {/* ══ BODY — rounded torso ═══════════════════════ */}
-<group ref={bodyRef} position={[0, 0, 0]}>
-  {/* Main torso cylinder — rounded sides */}
-  <mesh>
-    <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
+      {/* ══ BODY — humanized 3-segment torso ══════════════ */}
+      {/* Z-scale 0.9 flattens from cylinder to oval cross-section */}
+<group ref={bodyRef} position={[0, 0, 0]} scale={[1, 1, 0.9]}>
+  {/* SEGMENT 1: Shoulder / Chest — tapers outward downward */}
+  <mesh position={[0, totalBodyH * 0.25, 0]}>
+    <cylinderGeometry args={[
+      bodyW * 0.45,       // radiusTop  (shoulder width)
+      bodyW * 0.48,       // radiusBottom (chest — widest)
+      totalBodyH * 0.40,  // height: 40% of torso
+      12, 1, false
+    ]} />
     <meshStandardMaterial
       color={actualBodyColor}
       emissive={skinEmissive || '#000000'}
@@ -824,9 +831,14 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       metalness={0.04}
     />
   </mesh>
-  {/* Chest — subtle forward volume */}
-  <mesh position={[0, 0.08, 0.04]} scale={[bodyW * 2.2, 0.70, 0.85]}>
-    <sphereGeometry args={[0.14, 10, 8]} />
+  {/* SEGMENT 2: Waist / Belly — narrows toward waist */}
+  <mesh position={[0, 0, 0]}>
+    <cylinderGeometry args={[
+      bodyW * 0.48,       // radiusTop  (chest bottom — seamless join)
+      bodyW * 0.42,       // radiusBottom (waist — narrowest)
+      totalBodyH * 0.35,  // height: 35% of torso
+      12, 1, false
+    ]} />
     <meshStandardMaterial
       color={actualBodyColor}
       emissive={skinEmissive || '#000000'}
@@ -835,9 +847,14 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       metalness={0.04}
     />
   </mesh>
-  {/* Hip area — slightly wider at bottom */}
-  <mesh position={[0, -0.18, 0]} scale={[bodyW * 2.4, 0.55, 0.92]}>
-    <sphereGeometry args={[0.14, 10, 8]} />
+  {/* SEGMENT 3: Hips / Pelvis — widens again */}
+  <mesh position={[0, -totalBodyH * 0.28, 0]}>
+    <cylinderGeometry args={[
+      bodyW * 0.42,       // radiusTop  (waist bottom — seamless join)
+      bodyW * 0.46,       // radiusBottom (hip — wider than waist)
+      totalBodyH * 0.25,  // height: 25% of torso
+      12, 1, false
+    ]} />
     <meshStandardMaterial
       color={actualBodyColor}
       emissive={skinEmissive || '#000000'}

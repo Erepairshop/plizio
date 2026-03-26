@@ -1,323 +1,273 @@
 "use client";
+// PronounPrecisionK6Explorer.tsx — AstroEnglish Grade 6: i2 Pronoun Precision
+// Topics: 1) Reflexive vs Intensive 2) Relative Pronouns 3) Demonstrative Pronouns 4) Interrogative 5) Precision Catch
 
-import React, { useState, useMemo, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
 
-type Phase = "info" | "question";
-type Lang = "en" | "de" | "hu" | "ro";
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
 
-interface Props {
-  color?: string;
-  onDone?: (score: number, total: number) => void;
-  lang?: Lang;
-}
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      {/* Reflexive Mirror Concept */}
+      <g transform="translate(120, 70)">
+        <path d="M -50,0 Q 0,-40 50,0 T -50,0" fill="none" stroke="#818CF8" strokeWidth="3" />
+        <circle cx="0" cy="0" r="20" fill="#4338CA" />
+        <text x="0" y="5" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white">SELF</text>
+        <path d="M -30,25 L 30,25" stroke="#FBBF24" strokeWidth="2" markerEnd="url(#arrow)" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#A5B4FC">Action reflects back</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Relative Pronoun Linker */}
+      <g transform="translate(120, 70)">
+        <rect x="-80" y="-15" width="60" height="30" fill="#334155" rx="4" />
+        <rect x="20" y="-15" width="60" height="30" fill="#334155" rx="4" />
+        <circle cx="0" cy="0" r="15" fill="#F59E0B" />
+        <text x="0" y="4" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#451A03">THAT</text>
+        <path d="M -20,0 L 20,0" stroke="#FDE047" strokeWidth="2" strokeDasharray="4,2" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#171717" rx="20" />
+      {/* Precision Crosshair */}
+      <circle cx="120" cy="70" r="40" fill="none" stroke="#F43F5E" strokeWidth="1" />
+      <line x1="80" y1="70" x2="160" y2="70" stroke="#F43F5E" strokeWidth="1" />
+      <line x1="120" y1="30" x2="120" y2="110" stroke="#F43F5E" strokeWidth="1" />
+      <circle cx="120" cy="70" r="2" fill="#F43F5E" />
+      <text x="120" y="125" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FB7185">Tap the targets!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    gotIt: "Got it! →",
-    correct: "Correct! ✓",
-    wrong: "Not quite!",
+    explorer_title: "Pronoun Precision",
+    
+    // T1: Reflexive & Intensive (PHYSICS BUCKET)
+    t1_title: "Reflexive vs. Intensive",
+    t1_text: "Both end in -self or -selves. REFLEXIVE is necessary for the sentence to make sense (The pilot saw himself). INTENSIVE is just for emphasis and can be removed (I built it myself).",
+    t1_b1: "Reflexive: He hurt himself.",
+    t1_b2: "Intensive: She herself made it.",
+    t1_b3: "If you can remove it, it's intensive!",
+    t1_inst: "Sort the pronouns into the correct gravity bucket!",
+    t1_bucket_ref: "Reflexive (Needed)",
+    t1_bucket_int: "Intensive (Extra)",
+    t1_item_r1: "I bought myself a gift.", t1_item_r2: "They taught themselves.",
+    t1_item_i1: "The King himself came.", t1_item_i2: "I'll do it myself.",
+    t1_q: "In 'He corrected the error himself', what type of pronoun is 'himself'?",
+    t1_q_a: "Intensive", t1_q_b: "Reflexive", t1_q_c: "Relative", t1_q_d: "Demonstrative",
 
-    r1_title: "Relative Pronouns (Who/Which/That)",
-    r1_text: "Relative pronouns introduce adjective clauses. WHO (people), WHICH (things), THAT (people/things). Example: 'The student who studied hard passed.'",
-    r1_q: "Which relative pronoun is correct?",
-    r1_a: "The book which I read was interesting.",
-    r1_b: "The book who I read was interesting.",
-    r1_c: "The book that I read was boring.",
-    r1_d: "Both A and C are correct.",
+    // T2: Relative Pronouns (MAGNET MATCH)
+    t2_title: "Relative Connections",
+    t2_text: "Relative pronouns (who, whom, whose, which, that) connect a dependent clause to a noun. 'Who' is for people, 'Which' is for things.",
+    t2_b1: "The girl WHO won is my friend.",
+    t2_b2: "The ship WHICH landed is huge.",
+    t2_b3: "Match the person or thing to the right relative pronoun!",
+    t2_inst: "Magnet Match: Connect the noun to its correct relative pronoun!",
+    t2_l1: "The scientist...", t2_r1: "...who found the moon.",
+    t2_l2: "The telescope...", t2_r2: "...which is very old.",
+    t2_l3: "The book...", t2_r3: "...that I read.",
+    t2_q: "Which relative pronoun is used ONLY for people?",
+    t2_q_a: "Who", t2_q_b: "Which", t2_q_c: "That", t2_q_d: "It",
 
-    r2_title: "Reflexive Pronouns",
-    r2_text: "Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Use when subject = object. Example: 'I taught myself.'",
-    r2_q: "Which sentence uses a reflexive pronoun correctly?",
-    r2_a: "He gave it to myself.",
-    r2_b: "She hurt herself while playing.",
-    r2_c: "I like him himself.",
-    r2_d: "They enjoyed ourselves at the party.",
+    // T3: Demonstrative Pronouns (SLINGSHOT)
+    t3_title: "Pointing Pronouns",
+    t3_text: "Demonstrative pronouns point to specific things. THIS/THESE are for things near you. THAT/THOSE are for things far away.",
+    t3_b1: "Near: This is my desk.",
+    t3_b2: "Far: Those are the stars.",
+    t3_b3: "Shoot the correct pronoun based on distance!",
+    t3_inst: "Look at the distant stars! Shoot the pronoun for something FAR AWAY and PLURAL.",
+    t3_target_1: "Those", // Correct
+    t3_target_2: "These",
+    t3_target_3: "This",
+    t3_q: "Which word is the plural of 'that'?",
+    t3_q_a: "Those", t3_q_b: "These", t3_q_c: "They", t3_q_d: "Them",
 
-    r3_title: "Relative Pronouns (Whose)",
-    r3_text: "WHOSE shows possession in relative clauses. Example: 'The girl whose book was lost cried.' (NOT: The girl who's book...)",
-    r3_q: "Which uses WHOSE correctly?",
-    r3_a: "The student whose test was hard complained.",
-    r3_b: "The student who's test was hard complained.",
-    r3_c: "The student that's book was lost.",
-    r3_d: "The student whose he lost his book.",
+    // T4: Interrogative Pronouns (HIGHLIGHT)
+    t4_title: "Asking Questions",
+    t4_text: "Interrogative pronouns (who, whom, whose, which, what) are used to ask questions. They stand in for the answer you are looking for.",
+    t4_b1: "WHO is the captain?",
+    t4_b2: "WHICH do you prefer?",
+    t4_b3: "They always lead the inquiry.",
+    t4_inst: "Highlight the Interrogative Pronoun in this question!",
+    t4_tok0: "Whose", t4_tok1: "is", t4_tok2: "this", t4_tok3: "broken", t4_tok4: "robot", t4_tok5: "lying", t4_tok6: "on", t4_tok7: "the", t4_tok8: "floor?",
+    t4_q: "What type of pronoun is used to start a question?",
+    t4_q_a: "Interrogative", t4_q_b: "Reflexive", t4_q_c: "Intensive", t4_q_d: "Relative",
 
-    r4_title: "Intensive Pronouns",
-    r4_text: "Intensive pronouns emphasize the subject: 'I myself saw it!' or 'The president himself spoke.' They look like reflexive pronouns but work differently!",
-    r4_q: "Which uses an intensive pronoun correctly?",
-    r4_a: "The teacher myself graded the test.",
-    r4_b: "The teacher herself graded the test.",
-    r4_c: "The teacher himself is tall.",
-    r4_d: "Both B and C are correct.",
-
-    r5_title: "⭐ Review Questions",
-    r5_text: "Let's check what you learned!",
-    r5_q1: "Which pronoun introduces a clause about a person?",
-    r5_op1: "Which",
-    r5_op2: "That",
-    r5_op3: "Who",
-    r5_op4: "Whose",
-    r5_q2: "What's the difference between reflexive and intensive pronouns?",
-    r5_op5: "No difference—they're the same",
-    r5_op6: "Reflexive: subject=object; Intensive: emphasizes",
-    r5_op7: "Reflexive: things only; Intensive: people only",
-    r5_op8: "Intensive: must follow a verb",
-  },
-  de: {
-    gotIt: "Verstanden! →",
-    correct: "Richtig! ✓",
-    wrong: "Nicht ganz!",
-
-    r1_title: "Relativpronomen (Who/Which/That)",
-    r1_text: "Relativpronomen leiten Relativsätze ein. WHO (Personen), WHICH (Dinge), THAT (Personen/Dinge). Beispiel: 'Der Schüler, der hart studiert, bestand.'",
-    r1_q: "Welches Relativpronomen ist korrekt?",
-    r1_a: "The book which I read was interesting.",
-    r1_b: "The book who I read was interesting.",
-    r1_c: "The book that I read was boring.",
-    r1_d: "Both A and C are correct.",
-
-    r2_title: "Reflexive Pronomen",
-    r2_text: "Reflexive Pronomen: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Verwende wenn Subjekt = Objekt. Beispiel: 'I taught myself.'",
-    r2_q: "Welcher Satz verwendet ein reflexives Pronomen korrekt?",
-    r2_a: "He gave it to myself.",
-    r2_b: "She hurt herself while playing.",
-    r2_c: "I like him himself.",
-    r2_d: "They enjoyed ourselves at the party.",
-
-    r3_title: "Relativpronomen (Whose)",
-    r3_text: "WHOSE zeigt Besitz in Relativsätzen. Beispiel: 'Das Mädchen, dessen Buch verloren war, weinte.'",
-    r3_q: "Welcher verwendet WHOSE korrekt?",
-    r3_a: "The student whose test was hard complained.",
-    r3_b: "The student who's test was hard complained.",
-    r3_c: "The student that's book was lost.",
-    r3_d: "The student whose he lost his book.",
-
-    r4_title: "Intensive Pronomen",
-    r4_text: "Intensive Pronomen betonen das Subjekt: 'I myself saw it!' oder 'Der Präsident selbst sprach.' Sie sehen wie reflexive Pronomen aus, funktionieren aber anders!",
-    r4_q: "Welcher verwendet ein intensives Pronomen korrekt?",
-    r4_a: "The teacher myself graded the test.",
-    r4_b: "The teacher herself graded the test.",
-    r4_c: "The teacher himself is tall.",
-    r4_d: "Both B and C are correct.",
-
-    r5_title: "⭐ Wiederholungsfragen",
-    r5_text: "Lass uns überprüfen was du gelernt hast!",
-    r5_q1: "Welches Pronomen leitet einen Satz über eine Person ein?",
-    r5_op1: "Which",
-    r5_op2: "That",
-    r5_op3: "Who",
-    r5_op4: "Whose",
-    r5_q2: "Was ist der Unterschied zwischen reflexiv und intensiv?",
-    r5_op5: "Kein Unterschied—gleich",
-    r5_op6: "Reflexiv: Subjekt=Objekt; Intensiv: betont",
-    r5_op7: "Reflexiv: nur Dinge; Intensiv: nur Personen",
-    r5_op8: "Intensiv: muss einem Verb folgen",
-  },
-  hu: {
-    gotIt: "Értem! →",
-    correct: "Helyes! ✓",
-    wrong: "Nem egészen!",
-
-    r1_title: "Relatív Névmások (Who/Which/That)",
-    r1_text: "A relatív névmások bevezetik a relatív záradékokat. WHO (személyek), WHICH (dolgok), THAT (személyek/dolgok). Példa: 'A diák, aki keményen tanult, sikerült.'",
-    r1_q: "Melyik relatív névmás helyes?",
-    r1_a: "The book which I read was interesting.",
-    r1_b: "The book who I read was interesting.",
-    r1_c: "The book that I read was boring.",
-    r1_d: "Both A and C are correct.",
-
-    r2_title: "Visszaható Névmások",
-    r2_text: "Visszaható névmások: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Akkor használj amikor alany = tárgy. Példa: 'I taught myself.'",
-    r2_q: "Melyik mondat használja helyesen a visszaható névmást?",
-    r2_a: "He gave it to myself.",
-    r2_b: "She hurt herself while playing.",
-    r2_c: "I like him himself.",
-    r2_d: "They enjoyed ourselves at the party.",
-
-    r3_title: "Relatív Névmások (Whose)",
-    r3_text: "WHOSE mutatja a birtoklást relatív záradékban. Példa: 'A lány, akinek a könyve elveszett, sírva fakadt.'",
-    r3_q: "Melyik használja helyesen a WHOSE-t?",
-    r3_a: "The student whose test was hard complained.",
-    r3_b: "The student who's test was hard complained.",
-    r3_c: "The student that's book was lost.",
-    r3_d: "The student whose he lost his book.",
-
-    r4_title: "Fokozó Névmások",
-    r4_text: "A fokozó névmások hangsúlyozzák az alanytagot: 'I myself saw it!' vagy 'Az elnök maga beszélt.' Az visszaható névmásokhoz hasonlóan néznek ki, de másként működnek!",
-    r4_q: "Melyik használja helyesen a fokozó névmást?",
-    r4_a: "The teacher myself graded the test.",
-    r4_b: "The teacher herself graded the test.",
-    r4_c: "The teacher himself is tall.",
-    r4_d: "Both B and C are correct.",
-
-    r5_title: "⭐ Ismétlő Kérdések",
-    r5_text: "Ellenőrizzük mit tanultál!",
-    r5_q1: "Melyik névmás vezet be egy személyről szóló záradékot?",
-    r5_op1: "Which",
-    r5_op2: "That",
-    r5_op3: "Who",
-    r5_op4: "Whose",
-    r5_q2: "Mi a különbség visszaható és fokozó név mások között?",
-    r5_op5: "Nincs különbség—ugyanazok",
-    r5_op6: "Visszaható: alany=tárgy; Fokozó: hangsúlyoz",
-    r5_op7: "Visszaható: csak dolgok; Fokozó: csak személyek",
-    r5_op8: "Fokozó: igét követnie kell",
-  },
-  ro: {
-    gotIt: "Înțeles! →",
-    correct: "Corect! ✓",
-    wrong: "Nu tocmai!",
-
-    r1_title: "Pronume Relative (Who/Which/That)",
-    r1_text: "Pronumele relative introduc clauze relative. WHO (persoane), WHICH (lucruri), THAT (persoane/lucruri). Exemplu: 'Elevul care a studiat din greu a trecut.'",
-    r1_q: "Care pronume relativ este corect?",
-    r1_a: "The book which I read was interesting.",
-    r1_b: "The book who I read was interesting.",
-    r1_c: "The book that I read was boring.",
-    r1_d: "Both A and C are correct.",
-
-    r2_title: "Pronume Reflexive",
-    r2_text: "Pronume reflexive: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Folosește când subiect = obiect. Exemplu: 'I taught myself.'",
-    r2_q: "Care propoziție folosește corect un pronume reflexiv?",
-    r2_a: "He gave it to myself.",
-    r2_b: "She hurt herself while playing.",
-    r2_c: "I like him himself.",
-    r2_d: "They enjoyed ourselves at the party.",
-
-    r3_title: "Pronume Relative (Whose)",
-    r3_text: "WHOSE arată posesia în clauze relative. Exemplu: 'Fata a cărei carte a fost pierdută a plâns.'",
-    r3_q: "Care folosește WHOSE corect?",
-    r3_a: "The student whose test was hard complained.",
-    r3_b: "The student who's test was hard complained.",
-    r3_c: "The student that's book was lost.",
-    r3_d: "The student whose he lost his book.",
-
-    r4_title: "Pronume Intensive",
-    r4_text: "Pronumele intensive pun accent pe subiect: 'I myself saw it!' sau 'Președintele însuși a vorbit.' Arată ca pronume reflexive dar funcționează diferit!",
-    r4_q: "Care folosește corect un pronume intensiv?",
-    r4_a: "The teacher myself graded the test.",
-    r4_b: "The teacher herself graded the test.",
-    r4_c: "The teacher himself is tall.",
-    r4_d: "Both B and C are correct.",
-
-    r5_title: "⭐ Întrebări de Repetiție",
-    r5_text: "Să verificăm ce ai învățat!",
-    r5_q1: "Care pronume introduce o clauză despre o persoană?",
-    r5_op1: "Which",
-    r5_op2: "That",
-    r5_op3: "Who",
-    r5_op4: "Whose",
-    r5_q2: "Care este diferența între pronume reflexive și intensive?",
-    r5_op5: "Fără diferență—sunt la fel",
-    r5_op6: "Reflexiv: subiect=obiect; Intensiv: pune accent",
-    r5_op7: "Reflexiv: doar lucruri; Intensiv: doar persoane",
-    r5_op8: "Intensiv: trebuie să urmeze un verb",
-  },
+    // T5: Fun Catch
+    t5_title: "Precision Complete",
+    t5_text: "Your pronoun precision is unmatched! You have navigated the ice rings of Saturnia with perfect accuracy.",
+    t5_b1: "Use -self for reflection.",
+    t5_b2: "Point clearly with demonstratives.",
+    t5_b3: "Catch 5 targets!",
+    t5_inst: "Tap the 5 red targeting markers (🎯) appearing in your visor!",
+    t5_q: "Which pronoun is Reflexive?",
+    t5_q_a: "Ourselves", t5_q_b: "Them", t5_q_c: "We", t5_q_d: "Those",
+  }
 };
 
-interface MCQQuestion {
-  question: string;
-  choices: string[];
-  answer: string;
-}
+// ─── TOPICS ─────────────────────────────────────────────────────────
 
-export default function PronounK6Explorer({ color = "#8B5CF6", onDone, lang = "en" }: Props) {
-  const langCode = lang || "en";
-  const t = LABELS[langCode] || LABELS.en;
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "ref", label: "t1_bucket_ref" },
+        { id: "int", label: "t1_bucket_int" },
+      ],
+      items: [
+        { text: "t1_item_r1", bucketId: "ref" },
+        { text: "t1_item_i1", bucketId: "int" },
+        { text: "t1_item_r2", bucketId: "ref" },
+        { text: "t1_item_i2", bucketId: "int" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t3_inst",
+      targets: [
+        { id: "tar1", text: "t3_target_1", isCorrect: true }, // Those
+        { id: "tar2", text: "t3_target_2", isCorrect: false },
+        { id: "tar3", text: "t3_target_3", isCorrect: false },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b2",
+      hint2: "t3_b3",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5", "t4_tok6", "t4_tok7", "t4_tok8"],
+      correctIndices: [0], // "Whose"
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🎯", count: 5 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
-  const [round, setRound] = useState(0);
-  const [phase, setPhase] = useState<Phase>("info");
-  const [selected, setSelected] = useState<string | null>(null);
-  const [locked, setLocked] = useState(false);
-  const [score, setScore] = useState(0);
+// ─── DEF ────────────────────────────────────────────────────────────
 
-  const questionsPerRound = useMemo(() => {
-    if (round < 4) return [{ question: `r${round + 1}_q`, choices: [`r${round + 1}_a`, `r${round + 1}_b`, `r${round + 1}_c`, `r${round + 1}_d`], answer: `r${round + 1}_a` }];
-    return [
-      { question: "r5_q1", choices: ["r5_op1", "r5_op2", "r5_op3", "r5_op4"], answer: "r5_op3" },
-      { question: "r5_q2", choices: ["r5_op5", "r5_op6", "r5_op7", "r5_op8"], answer: "r5_op6" },
-    ];
-  }, [round]);
+const DEF: ExplorerDef = {
+  labels: LABELS,
+  title: "explorer_title",
+  icon: "🎯",
+  topics: TOPICS,
+  rounds: [],
+};
 
-  const handleAnswer = useCallback((choice: string) => {
-    if (locked) return;
-    setSelected(choice);
-    setLocked(true);
-    if (choice === questionsPerRound[0].answer) {
-      setScore(s => s + 1);
-    }
-    setTimeout(() => {
-      if (round < 4) {
-        setRound(r => r + 1);
-        setPhase("info");
-        setSelected(null);
-        setLocked(false);
-      } else {
-        onDone?.(score + (choice === questionsPerRound[0].answer ? 1 : 0), 5);
-      }
-    }, 1200);
-  }, [locked, round, questionsPerRound, score, onDone]);
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-  const infoBgs: Record<number, string> = {
-    0: "linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%)",
-    1: "linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%)",
-    2: "linear-gradient(135deg, #fef3c7 0%, #fde68a 100%)",
-    3: "linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%)",
-    4: "linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%)",
-  };
-
+const PronounPrecisionK6Explorer = memo(function PronounPrecisionK6Explorer({
+  color = "#6366F1", // Indigo-500
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {phase === "info" && (
-        <motion.div className="bg-white/95 rounded-3xl p-8 text-center"
-          style={{ background: infoBgs[round] }}
-          initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-          <h2 className="text-2xl font-black text-slate-800 mb-4">{t[`r${round + 1}_title`] || "Pronouns"}</h2>
-          <p className="text-slate-700 text-sm leading-relaxed mb-4">{t[`r${round + 1}_text`] || ""}</p>
-          <motion.button
-            onClick={() => setPhase("question")}
-            className="px-6 py-3 rounded-full font-bold text-white transition-all"
-            style={{ background: color }}
-            whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            {t.gotIt}
-          </motion.button>
-        </motion.div>
-      )}
-
-      <AnimatePresence mode="wait">
-        {phase === "question" && (
-          <motion.div key={`q-${round}`} className="bg-white/95 rounded-3xl p-8"
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }}>
-            <p className="text-lg font-bold text-center mb-6 text-slate-800">{t[questionsPerRound[0].question] || ""}</p>
-            <div className="grid grid-cols-1 gap-3">
-              {questionsPerRound[0].choices.map((ch) => (
-                <motion.button
-                  key={ch}
-                  onClick={() => handleAnswer(ch)}
-                  className={`py-4 px-4 rounded-2xl font-bold text-sm transition-all border-2 ${
-                    selected === ch
-                      ? ch === questionsPerRound[0].answer
-                        ? "bg-green-500 border-green-500 text-white"
-                        : "bg-red-100 border-red-300 text-red-600 opacity-70"
-                      : "bg-white border-slate-200 text-slate-700 hover:border-slate-400"
-                  }`}
-                  disabled={locked}
-                  whileHover={!locked ? { scale: 1.02 } : {}}>
-                  {t[ch] || ""}
-                </motion.button>
-              ))}
-            </div>
-            {locked && (
-              <motion.div className="mt-4 text-center font-bold"
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                <span className={selected === questionsPerRound[0].answer ? "text-green-600" : "text-red-600"}>
-                  {selected === questionsPerRound[0].answer ? t.correct : t.wrong}
-                </span>
-              </motion.div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </div>
+    <ExplorerEngine 
+      def={DEF} 
+      grade={6} 
+      explorerId="english_k6_pronoun_precision" 
+      color={color} 
+      lang="en" // Forcing English ELA
+      onDone={onDone} 
+    />
   );
-}
+});
+
+export default PronounPrecisionK6Explorer;

@@ -45,6 +45,9 @@ import TenseK5Explorer from "@/app/astroenglish/games/k5/TenseK5Explorer";
 import SentenceK5Explorer from "@/app/astroenglish/games/k5/SentenceK5Explorer";
 import PunctuationK5Explorer from "@/app/astroenglish/games/k5/PunctuationK5Explorer";
 import SpellingK5Explorer from "@/app/astroenglish/games/k5/SpellingK5Explorer";
+import RootWordExplorer from "@/app/astroenglish/games/k5/RootWordExplorer";
+import FigurativeExplorer from "@/app/astroenglish/games/k5/FigurativeExplorer";
+import AcademicAtollExplorer from "@/app/astroenglish/games/k5/AcademicAtollExplorer";
 import { K5_ISLAND_SVGS } from "@/app/astroenglish/islands-k5";
 import {
   K5_ISLANDS, K5_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -1219,6 +1222,15 @@ export default function AstroEnglishK5Page() {
         )}
         {screen === "en5-spelling-k5-explorer" && (
           <SpellingK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-root-word-explorer" && (
+          <RootWordExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-figurative-explorer" && (
+          <FigurativeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en5-academic-explorer" && (
+          <AcademicAtollExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
