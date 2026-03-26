@@ -212,7 +212,7 @@ const TOPICS: TopicDef[] = [
       question: "t4_inst",
       targets: [
         { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
-        { id: "tgt2", text: "t4_target_2", is   Correct: false },
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
         { id: "tgt3", text: "t4_target_3", isCorrect: false },
       ],
       instruction: "t4_inst",

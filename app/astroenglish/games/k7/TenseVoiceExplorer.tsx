@@ -17,12 +17,12 @@ const Topic1Svg = memo(function Topic1Svg() {
         {/* Active: Left to Right */}
         <path d="M -60,-15 L 40,-15" stroke="#10B981" strokeWidth="4" />
         <polygon points="40,-25 55,-15 40,-5" fill="#10B981" />
-        <text x="-10" y="-25" textAnchor="middle" fontSize="10" fill="#6EE7B7">Actor -> Action</text>
+        <text x="-10" y="-25" textAnchor="middle" fontSize="10" fill="#6EE7B7">Actor → Action</text>
         
         {/* Passive: Right to Left */}
         <path d="M 60,25 L -40,25" stroke="#F43F5E" strokeWidth="4" />
         <polygon points="-40,15 -55,25 -40,35" fill="#F43F5E" />
-        <text x="10" y="15" textAnchor="middle" fontSize="10" fill="#FDA4AF">Action <- Receiver</text>
+        <text x="10" y="15" textAnchor="middle" fontSize="10" fill="#FDA4AF">Action ← Receiver</text>
       </g>
     </svg>
   );
