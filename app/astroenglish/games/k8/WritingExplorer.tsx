@@ -1,133 +1,279 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// WritingExplorer.tsx — AstroEnglish Grade 8: i4 Writing Workshop
+// Topics: 1) Hook vs Thesis 2) Claim, Evidence, Reasoning 3) Spot the Turn 4) Call to Action 5) Pencil Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#451A03" rx="20" />
+      {/* Introduction Triangle (Funnel) */}
+      <g transform="translate(120, 70)">
+        <polygon points="-50,-30 50,-30 0,30" fill="#B45309" stroke="#FDE047" strokeWidth="2" />
+        <path d="M 0,-40 Q 15,-50 20,-30" fill="none" stroke="#FBBF24" strokeWidth="3" markerEnd="url(#arrow)" />
+        <text x="0" y="-15" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#FEF3C7">HOOK</text>
+        <text x="0" y="15" textAnchor="middle" fontSize="8" fontWeight="bold" fill="#FEF3C7">THESIS</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E3A8A" rx="20" />
+      {/* C-E-R Building Blocks */}
+      <g transform="translate(120, 80)">
+        <rect x="-40" y="-60" width="80" height="20" fill="#3B82F6" rx="2" />
+        <text x="0" y="-46" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#EFF6FF">CLAIM</text>
+        
+        <rect x="-40" y="-35" width="80" height="20" fill="#2563EB" rx="2" />
+        <text x="0" y="-21" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#EFF6FF">EVIDENCE</text>
+        
+        <rect x="-40" y="-10" width="80" height="20" fill="#1D4ED8" rx="2" />
+        <text x="0" y="4" textAnchor="middle" fontSize="10" fontWeight="bold" fill="#EFF6FF">REASONING</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0F172A" rx="20" />
+      {/* Pencil Writing */}
+      <g transform="translate(120, 70) rotate(-45)">
+        <rect x="-10" y="-30" width="20" height="40" fill="#FBBF24" />
+        <rect x="-10" y="-40" width="20" height="10" fill="#94A3B8" />
+        <rect x="-10" y="-50" width="20" height="10" fill="#F43F5E" rx="2" />
+        <polygon points="-10,10 10,10 0,30" fill="#FDE047" />
+        <polygon points="-3,24 3,24 0,30" fill="#1E293B" />
+      </g>
+      <path d="M 120,100 Q 140,120 170,90 T 210,100" fill="none" stroke="#FDE047" strokeWidth="3" strokeDasharray="4,4" />
+      <text x="60" y="110" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FDE047">Tap to Write!</text>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Voice in Writing", tx1: "Author's PERSONALITY in writing. Strong voice = readers hear the author's thoughts. Your voice is UNIQUE—use it! Don't copy others.",
-    q1: "Which has a strong personal voice?", a1: "Writing is good for learning", b1: "Every day I wake up and wish I could fly—not in dreams, but actually soar", c1: "One should write often", d1: "Writing improves skill",
-    t2: "Choosing Audience", tx2: "Who are you writing for? Teacher = formal. Friend = casual. Blog = engaging. Purpose changes EVERYTHING. Know your reader!",
-    q2: "What's the BEST approach?", a2: "Write the same way for everyone", b2: "Match writing style to your audience", c2: "Always be formal", d2: "Always be casual",
-    t3: "Purpose Affects Style", tx3: "INFORM = clear facts. PERSUADE = convince. ENTERTAIN = engage. INSPIRE = motivate. Your PURPOSE shapes word choice, tone, structure!",
-    q3: "Which is PERSUASIVE?", a3: "Homework takes time and effort", b3: "Homework teaches responsibility, builds discipline, and prepares you for success—do it!", c3: "Many students do homework", d3: "Homework exists in schools",
-    t4: "Revising & Editing", tx4: "FIRST draft = messy! Revise: big changes (move paragraphs). Edit: small fixes (grammar, spelling). Good writing = multiple drafts!",
-    q4: "What's the correct order?", a4: "Edit, then revise", b4: "Revise (big), then edit (small)", c4: "Just write once", d4: "Only edit grammar",
-    t5: "Crafting Meaningful Writing", tx5: "Combine voice + audience + purpose + revision. Write from your perspective. Say something worth reading. Be authentic!",
-    q5: "Which shows strong craft?", a5: "I wrote a five-paragraph essay", b5: "I rewrote three times, matching each audience, using my voice to convey my unique perspective", c5: "I used big words", d5: "I wrote a lot",
-  },
-  de: {
-    t1: "Stimme im Schreiben", tx1: "Die PERSÖNLICHKEIT des Autors. Starke Stimme = der Leser hört den Autor. Deine Stimme ist EINZIGARTIG—nutze sie!",
-    q1: "Welcher hat eine starke persönliche Stimme?", a1: "Schreiben ist gut zum Lernen", b1: "Jeden Tag wache ich auf und wünsche mir, fliegen zu können—nicht im Traum, sondern wirklich", c1: "Man sollte oft schreiben", d1: "Schreiben verbessert Fähigkeit",
-    t2: "Publikum wählen", tx2: "Für wen schreibst du? Lehrer = formal. Freund = locker. Blog = ansprechend.",
-    q2: "Was ist der BESTE Ansatz?", a2: "Schreibe für alle gleich", b2: "Passe Stil an dein Publikum an", c2: "Sei immer formal", d2: "Sei immer locker",
-    t3: "Zweck formt Stil", tx3: "INFORMIEREN = klare Fakten. ÜBERZEUG = überreden. UNTERHALTEN = engagieren.",
-    q3: "Welcher ist ÜBERZEUGEND?", a3: "Hausaufgaben brauchen Zeit und Mühe", b3: "Hausaufgaben lehren Verantwortung, bauen Disziplin auf, und bereiten auf Erfolg vor—mach sie!", c3: "Viele Schüler machen Hausaufgaben", d3: "Hausaufgaben existieren in Schulen",
-    t4: "Überarbeiten & Editieren", tx4: "ERSTE Fassung = chaotisch! Überarbeitung: große Änderungen. Editieren: kleine Fixes.",
-    q4: "Was ist die richtige Reihenfolge?", a4: "Editieren, dann überarbeiten", b4: "Überarbeiten (groß), dann editieren (klein)", c4: "Nur einmal schreiben", d4: "Nur Grammatik editieren",
-    t5: "Sinnvolles Schreiben", tx5: "Kombiniere Stimme + Publikum + Zweck + Überarbeitung. Schreibe aus deiner Perspektive. Sag etwas Wertvolles!",
-    q5: "Welcher zeigt starkes Handwerk?", a5: "Ich schrieb einen fünf-Absatz-Aufsatz", b5: "Ich schrieb dreimal um, passte jedes Publikum an, nutzte meine Stimme", c5: "Ich nutzte große Wörter", d5: "Ich schrieb viel",
-  },
+    explorer_title: "Writing Workshop",
+    
+    // T1: Hook vs Thesis (DROP GAME)
+    t1_title: "The Introduction",
+    t1_text: "An introduction paragraph looks like an upside-down triangle. It starts broad with a HOOK to grab the reader's attention (a question, quote, or shocking fact). It ends narrow with your THESIS, the main argument of your essay.",
+    t1_b1: "Hook: First sentence, grabs attention.",
+    t1_b2: "Thesis: Last sentence of intro, states your claim.",
+    t1_b3: "Don't mix them up!",
+    t1_inst: "Sort the sentences! Are they meant to be a Hook or a Thesis statement?",
+    t1_bucket_hok: "The Hook",
+    t1_bucket_the: "The Thesis",
+    t1_item_h1: "Did you know ocean levels are rising?", t1_item_h2: "Imagine waking up on Mars.",
+    t1_item_t1: "We must reduce carbon emissions.", t1_item_t2: "Space travel is vital for humanity.",
+    t1_q: "Where does the Thesis Statement usually go?",
+    t1_q_a: "At the end of the introduction paragraph.", t1_q_b: "As the very first sentence.", t1_q_c: "In the conclusion only.", t1_q_d: "In the middle of a body paragraph.",
+
+    // T2: C-E-R (MAGNET MATCH)
+    t2_title: "Body Paragraphs (C.E.R.)",
+    t2_text: "A strong body paragraph follows the C.E.R. structure. CLAIM (the point you are making), EVIDENCE (the quote or fact proving it), and REASONING (your explanation of WHY the evidence proves the claim).",
+    t2_b1: "Claim = The 'What'.",
+    t2_b2: "Evidence = The 'Proof'.",
+    t2_b3: "Reasoning = The 'Why'.",
+    t2_inst: "Magnet Match: Connect the C.E.R. part to its definition!",
+    t2_l1: "Claim", t2_r1: "Your specific point or argument",
+    t2_l2: "Evidence", t2_r2: "Data, facts, or quotes",
+    t2_l3: "Reasoning", t2_r3: "Explaining how the proof supports your point",
+    t2_q: "Which part of C.E.R. is usually a direct quote from a text?",
+    t2_q_a: "Evidence", t2_q_b: "Reasoning", t2_q_c: "Claim", t2_q_d: "Hook",
+
+    // T3: Spot the Turn (HIGHLIGHT)
+    t3_title: "Radar Scan: The Turn",
+    t3_text: "In an argumentative essay, you must acknowledge the counterclaim. We use 'Turn' words (like 'However', 'On the other hand', or 'Admittedly') to shift from our argument to the opposing view, or back to our rebuttal.",
+    t3_b1: "Look for the transition word that shows contrast.",
+    t3_b2: "Highlight the contrast word.",
+    t3_b3: "This marks the 'Turn' in the argument.",
+    t3_inst: "Highlight the TRANSITION WORD that signals a contrast (a turn) in this argument!",
+    t3_tok0: "Schools", t3_tok1: "need", t3_tok2: "funding;", t3_tok3: "however,", t3_tok4: "taxes", t3_tok5: "are", t3_tok6: "already", t3_tok7: "too", t3_tok8: "high.",
+    t3_q: "Why is it important to include a counterclaim?",
+    t3_q_a: "It shows you understand the whole issue and can defend against it.", t3_q_b: "To make the essay longer.", t3_q_c: "Because you agree with the other side.", t3_q_d: "To confuse the reader.",
+
+    // T4: Call to Action (SLINGSHOT)
+    t4_title: "Call to Action",
+    t4_text: "The Conclusion paragraph restates your thesis in a new way and ends with a 'Call to Action' (CTA). A CTA tells the reader exactly what they should DO or THINK now that they have read your essay.",
+    t4_b1: "It leaves a lasting impression.",
+    t4_b2: "It uses strong, imperative verbs (Donate, Vote, Think).",
+    t4_b3: "Shoot the sentence that demands action!",
+    t4_inst: "Shoot the asteroid that contains a strong CALL TO ACTION for a conclusion!",
+    t4_target_1: "Sign the petition to save the parks today!", // Correct
+    t4_target_2: "In conclusion, parks are very important.",
+    t4_target_3: "This essay showed why parks matter.",
+    t4_q: "What should you NEVER do in a conclusion paragraph?",
+    t4_q_a: "Introduce a completely new claim or topic.", t4_q_b: "Restate your thesis.", t4_q_c: "Include a call to action.", t4_q_d: "Summarize your main points.",
+
+    // T5: Fun Catch
+    t5_title: "Master Author",
+    t5_text: "Your writing skills are razor-sharp! You know how to structure an essay from the opening hook to the final call to action.",
+    t5_b1: "Hook them in.",
+    t5_b2: "Prove it with C.E.R.",
+    t5_b3: "Catch 6 Pencils!",
+    t5_inst: "Tap the 6 golden pencils (✍️) to publish your essay!",
+    t5_q: "What does C.E.R. stand for in writing?",
+    t5_q_a: "Claim, Evidence, Reasoning", t5_q_b: "Count, Edit, Read", t5_q_c: "Create, Evaluate, Revise", t5_q_d: "Cats Eat Rats",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "hok", label: "t1_bucket_hok" },
+        { id: "the", label: "t1_bucket_the" },
+      ],
+      items: [
+        { text: "t1_item_h1", bucketId: "hok" },
+        { text: "t1_item_t1", bucketId: "the" },
+        { text: "t1_item_h2", bucketId: "hok" },
+        { text: "t1_item_t2", bucketId: "the" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6", "t3_tok7", "t3_tok8"],
+      correctIndices: [3], // "however,"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "✍️", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e1b4b"/>
-          <text x="120" y="60" textAnchor="middle" fontSize="13" fill="#a855f7">YOUR</text>
-          <rect x="40" y="70" width="160" height="40" rx="4" fill="#9333ea" opacity="0.3"/>
-          <text x="120" y="98" textAnchor="middle" fontSize="12" fill="#e9d5ff">Unique Voice</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "b1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f1f3a"/>
-          <text x="60" y="70" textAnchor="middle" fontSize="11" fill="#93c5fd">Teacher</text>
-          <circle cx="60" cy="90" r="12" fill="#60a5fa" opacity="0.5"/>
-          <path d="M72,90 L108,90" stroke="#0ea5e9" strokeWidth="2"/>
-          <text x="180" y="70" textAnchor="middle" fontSize="11" fill="#93c5fd">Friend</text>
-          <circle cx="180" cy="90" r="12" fill="#60a5fa" opacity="0.5"/>
-          <text x="120" y="135" textAnchor="middle" fontSize="10" fill="#bfdbfe">Adjust Style</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <text x="50" y="50" textAnchor="middle" fontSize="10" fill="#d1d5db">Inform</text>
-          <circle cx="50" cy="70" r="10" fill="#10b981" opacity="0.5"/>
-          <text x="120" y="50" textAnchor="middle" fontSize="10" fill="#d1d5db">Persuade</text>
-          <circle cx="120" cy="70" r="10" fill="#f97316" opacity="0.5"/>
-          <text x="190" y="50" textAnchor="middle" fontSize="10" fill="#d1d5db">Entertain</text>
-          <circle cx="190" cy="70" r="10" fill="#60a5fa" opacity="0.5"/>
-          <text x="85" y="130" textAnchor="middle" fontSize="10" fill="#a7f3d0">Purpose Shapes Style</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2d3d"/>
-          <text x="60" y="50" textAnchor="middle" fontSize="11" fill="#cbd5e1">1. Draft</text>
-          <rect x="35" y="60" width="50" height="30" rx="3" fill="#f97316" opacity="0.4"/>
-          <path d="M85,75 L125,75" stroke="#60a5fa" strokeWidth="2" markerEnd="url(#arrowhead)"/>
-          <text x="160" y="50" textAnchor="middle" fontSize="11" fill="#cbd5e1">2. Revise</text>
-          <rect x="135" y="60" width="50" height="30" rx="3" fill="#10b981" opacity="0.5"/>
-          <path d="M185,75 L215,75" stroke="#60a5fa" strokeWidth="2" markerEnd="url(#arrowhead)"/>
-          <text x="120" y="110" textAnchor="middle" fontSize="11" fill="#cbd5e1">3. Edit</text>
-          <rect x="95" y="120" width="50" height="30" rx="3" fill="#60a5fa" opacity="0.5"/>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <rect x="20" y="45" width="200" height="80" rx="4" fill="#1e293b" opacity="0.6"/>
-          <text x="130" y="70" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Voice</text>
-          <text x="130" y="90" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Audience</text>
-          <text x="130" y="110" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Purpose</text>
-          <text x="40" y="70" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Authentic</text>
-          <text x="40" y="90" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Revised</text>
-          <text x="40" y="110" textAnchor="start" fontSize="10" fill="#93c5fd">✓ Meaningful</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "✍️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function WritingExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const WritingExplorer = memo(function WritingExplorer({
+  color = "#B45309", // Amber-700 (Fa ceruza / asztal szín)
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={8} 
+      explorerId="english_k8_writing_workshop" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default WritingExplorer;
