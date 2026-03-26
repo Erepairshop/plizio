@@ -301,7 +301,7 @@ export type TopicInteractive =
     }
   | {
       type: "physics-magnet";
-      pairs: { left: string; right: string }[];  // label keys
+      pairs: { left: string; right: string }[];  // label keys — left=bucket, right=item
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1396,9 +1396,15 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-magnet") {
+                      // Convert pairs (left=bucket label key, right=item label key) to buckets+items
+                      const seenBuckets = new Map<string, string>();
+                      inter.pairs.forEach((p) => { if (!seenBuckets.has(p.left)) seenBuckets.set(p.left, `b${seenBuckets.size}`); });
+                      const magnetBuckets = Array.from(seenBuckets.entries()).map(([key, id]) => ({ id, label: L(key) }));
+                      const magnetItems = inter.pairs.map((p, idx) => ({ id: String(idx), text: L(p.right), bucketId: seenBuckets.get(p.left)! }));
                       return (
                         <PhysicsMagnetGame
-                          pairs={inter.pairs.map((p, idx) => ({ id: `pair_${idx}`, left: L(p.left), right: L(p.right) }))}
+                          buckets={magnetBuckets}
+                          items={magnetItems}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );
