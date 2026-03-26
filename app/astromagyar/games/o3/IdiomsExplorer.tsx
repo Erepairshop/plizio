@@ -1,130 +1,139 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// IdiomsExplorer.tsx — AstroMagyar Grade 3: i5 Szólások szigete
+// Témák: Szólások, Közmondások, Érzelmek, Időkifejezések
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── PLACEHOLDER (SVG helyett) ───────────────────
+const PlaceholderSvg = memo(({ emoji, color }: { emoji: string; color: string }) => (
+  <svg width="100%" viewBox="0 0 240 140">
+    <rect width="240" height="140" fill={color} rx="20" opacity="0.2" />
+    <text x="50%" y="60%" textAnchor="middle" fontSize="60">{emoji}</text>
+  </svg>
+));
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Szólások és közmondások", tx1: "A szólások rövid kifejezések, amelyeknek a szó szerinti jelentésén túl jelent még van. Például: 'Vékony a jég'.",
-    q1: "Mit jelent a 'Hideg a szél' szólás?", a1: "az időjárás hideg", b1: "nagyon fázni", c1: "nem egyezünk véleményen", d1: "messze van",
+    explorer_title: "Szólások szigete",
+    
+    // T1: Szólások
+    t1_title: "Mit jelent valójában?",
+    t1_text: "A szólásokat nem szabad szó szerint érteni! Ha valaki 'itatja az egereket', az valójában azt jelenti, hogy sír.",
+    t1_inst: "Párosítsd a szólást a valódi jelentésével!",
+    t1_l1: "Kereket old", t1_r1: "Elmenekül",
+    t1_l2: "Csapja a szelet", t1_r2: "Udvarol",
+    t1_l3: "Farkasszemet néz", t1_r3: "Bátran szembenéz",
+    
+    // T2: Közmondások
+    t2_title: "Régi bölcsességek",
+    t2_text: "A közmondások rövid, tanító célú mondatok. Pl: 'Sok lúd disznót győz.' Ez azt jelenti, hogy a sok gyengébb legyőzheti az erősebbet.",
+    t2_inst: "Lődd le a közmondás hiányzó szavát!",
+    t2_target_1: "arany", // Aki korán kel, aranyat lel.
+    t2_target_2: "ezüst",
+    t2_target_3: "gyémánt",
 
-    t2: "Közmondások", tx2: "A közmondások dolgokra vonatkozó bölcs megjegyzések, amely az emberek tapasztalatait tükrözik. Például: 'Sok csatornának nem folyik a vize.'",
-    q2: "Mi a mondás tanulsága: 'Aki sokat igér, sokat tartozik'?", a2: "Az igéretek fontosak", b2: "szándék és valóság közti különbség", c2: "az adósságok fizetendőek", d2: "a szavak értékesek",
-
-    t3: "Figyelmes olvasás", tx3: "A szólások és közmondások megértéséhez óvatosan kell olvasni és a szövegből értelmezni.",
-    q3: "Mit jelent: 'Szűk az időnk'?", a3: "fizikai szűk hely", b3: "kevés idő van", c3: "szűk a szoba", d3: "idő múlik",
-
-    t4: "Szólások és költészet", tx4: "Az írók gyakran használnak szólásokat és közmondásokat az írásaik szépségéhez.",
-    q4: "Melyik az igaz szólás?", a4: "Fekete a remény", b4: "Fehér a remény", c4: "Zöld a remény", d4: "Piros a remény",
-
-    t5: "Szólások gyakorlása", tx5: "A szólások és közmondások megismerése segít az irodalom megértésében.",
-    q5: "Mit jelent: 'Aranyból a szív'?", a5: "szív fájdalma", b5: "nagyon jó szív", c5: "drága szív", d5: "fizikai szív",
-  },
-  de: {
-    t1: "Redewendungen und Sprichwörter", tx1: "Redewendungen sind kurze Ausdrücke mit einer Bedeutung über ihren wörtlichen Sinn hinaus. Zum Beispiel: 'Dünnes Eis'.",
-    q1: "Was bedeutet 'Kalter Wind'?", a1: "das Wetter ist kalt", b1: "stark frieren", c1: "wir sind uneinig", d1: "weit weg",
-
-    t2: "Sprichwörter", tx2: "Sprichwörter sind weise Bemerkungen über Dinge, die menschliche Erfahrungen widerspiegeln.",
-    q2: "Was lehrt: 'Wer viel verspricht, schuldet viel'?", a2: "Versprechungen sind wichtig", b2: "Unterschied zwischen Absicht und Wirklichkeit", c2: "Schulden müssen gezahlt werden", d2: "Worte sind wertvoll",
-
-    t3: "Aufmerksames Lesen", tx3: "Um Redewendungen und Sprichwörter zu verstehen, muss man sorgfältig lesen und interpretieren.",
-    q3: "Was bedeutet: 'Unsere Zeit ist knapp'?", a3: "physischer enger Platz", b3: "wir haben wenig Zeit", c3: "das Zimmer ist eng", d3: "Zeit vergeht",
-
-    t4: "Redewendungen und Poesie", tx4: "Schriftsteller verwenden häufig Redewendungen und Sprichwörter zur Verschönerung ihrer Werke.",
-    q4: "Welches ist ein echtes Sprichwort?", a4: "Schwarz ist die Hoffnung", b4: "Weiß ist die Hoffnung", c4: "Grün ist die Hoffnung", d4: "Rot ist die Hoffnung",
-
-    t5: "Redewendungen üben", tx5: "Das Kennen von Redewendungen und Sprichwörtern hilft beim Verstehen von Literatur.",
-    q5: "Was bedeutet: 'Gold ist das Herz'?", a5: "Herzschmerz", b5: "ein sehr gutes Herz", c5: "teures Herz", d5: "physisches Herz",
-  },
+    // T3: Érzelmek
+    t3_title: "Hogy érzi magát?",
+    t3_text: "Az érzelmeket is ki lehet fejezni szólásokkal. Ha valaki nagyon dühös, arra azt mondjuk: 'Majd szétveti a méreg'.",
+    t3_inst: "Melyik szólás illik a mondatba?",
+    t3_sentence: "Amikor a kisfiú megkapta az ajándékot, a fülig ért a ___.",
+    t3_opt1: "szája", t3_opt2: "keze", t3_opt3: "füle", t3_opt4: "orra",
+  }
 };
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <PlaceholderSvg emoji="🎭" color="#B44DFF" />,
+    // imageUrl: "/images/islands/k3_i5_robot_mask.webp", 
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "Gondolj a jelentésére!",
+      hint2: "Nem szó szerint értjük!",
+    },
+    quiz: {
+      question: "Mit jelent: 'Köpni-nyelni nem tud'?",
+      choices: ["Nagyon meglepődik", "Éhes", "Szomjas", "Beteg"],
+      answer: "Nagyon meglepődik",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <PlaceholderSvg emoji="🦉" color="#B44DFF" />,
+    interactive: {
+      type: "physics-slingshot",
+      question: "Aki korán kel, ___at lel.",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "Értékes fém.",
+      hint2: "Sárgán csillog.",
+    },
+    quiz: {
+      question: "Hogyan fejeződik be: 'Aki mer, az...'?",
+      choices: ["nyer", "fut", "alszik", "veszít"],
+      answer: "nyer",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <PlaceholderSvg emoji="❤️" color="#B44DFF" />,
+    interactive: {
+      type: "gap-fill",
+      sentence: "t3_sentence",
+      choices: ["t3_opt1", "t3_opt2", "t3_opt3", "t3_opt4"],
+      correctIndex: 0,
+      instruction: "t3_inst",
+      hint1: "Testrész.",
+      hint2: "Amivel mosolygunk.",
+    },
+    quiz: {
+      question: "Melyik érzelmet fejezi ki: 'Kiborult a bili'?",
+      choices: ["Düh / Harag", "Öröm", "Félelem", "Bánat"],
+      answer: "Düh / Harag",
+    },
+  },
+  {
+    infoTitle: "Színházi bemutató",
+    infoText: "Szuper! Már te is érted a magyar nyelv titkos kódjait.",
+    svg: () => <PlaceholderSvg emoji="🎫" color="#B44DFF" />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🎭", count: 6 },
+      instruction: "Gyűjts össze 6 színházi maszkot!",
+      hint1: "Kattints rájuk gyorsan!",
+      hint2: "Még egy kicsit!",
+    },
+    quiz: {
+      question: "Mire tanítanak a közmondások?",
+      choices: ["Élettapasztalatra, bölcsességre", "Helyesírásra", "Számolásra", "Főzésre"],
+      answer: "Élettapasztalatra, bölcsességre",
+    }
+  }
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="40" y="50" width="160" height="60" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="120" y="80" textAnchor="middle" fontSize="14" fill="#4ECDC4" fontWeight="bold">Szólás</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="11" fill="white/60">(más jelentés)</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "c1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="60" r="20" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="68" textAnchor="middle" fontSize="20" fill="#FF6B9D" fontWeight="bold">💡</text>
-          <text x="120" y="110" textAnchor="middle" fontSize="12" fill="#FF6B9D" fontWeight="bold">Közmondás</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="white/60">bölcsesség</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <path d="M 40 80 L 210 80" stroke="#95E1D3" strokeWidth="2" />
-          <text x="60" y="60" textAnchor="middle" fontSize="12" fill="#95E1D3" fontWeight="bold">szó szerinti</text>
-          <path d="M 130 65 L 150 95" stroke="#FFD700" strokeWidth="2" />
-          <text x="180" y="100" textAnchor="middle" fontSize="12" fill="#95E1D3" fontWeight="bold">valódi értelme</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <rect x="20" y="50" width="200" height="60" rx="8" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="75" textAnchor="middle" fontSize="13" fill="#B44DFF" fontWeight="bold">Szólások az irodalomban</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="11" fill="white/60">szépség és tartalom</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="60" cy="80" r="18" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="60" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">szólás</text>
-          <circle cx="120" cy="80" r="18" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">értelmez</text>
-          <circle cx="180" cy="80" r="18" fill="#95E1D3" opacity="0.3" stroke="#95E1D3" strokeWidth="2" />
-          <text x="180" y="88" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">tanul</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🎭",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function IdiomsExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function IdiomsExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+  return <ExplorerEngine def={DEF} grade={3} explorerId="magyar_o3_i5" color="#B44DFF" lang={lang} onDone={onDone} />;
 }
