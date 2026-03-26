@@ -1,122 +1,281 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// ArgumentExplorer.tsx — AstroEnglish Grade 7: i7 Argument Archipelago
+// Topics: 1) Thesis vs Evidence 2) Argument Anatomy 3) Spot the Counterclaim 4) Relevant Evidence 5) Island Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#065F46" rx="20" />
+      {/* Scales of Justice / Argument */}
+      <g transform="translate(120, 70)">
+        <path d="M 0,-30 L 0,30" stroke="#D1FAE5" strokeWidth="4" />
+        <path d="M -40,-10 L 40,-10" stroke="#A7F3D0" strokeWidth="4" />
+        <polygon points="-40,-10 -50,10 -30,10" fill="#10B981" />
+        <polygon points="40,-10 30,10 50,10" fill="#10B981" />
+        <polygon points="-10,30 10,30 0,10" fill="#047857" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#6EE7B7">Balance your Argument</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E3A8A" rx="20" />
+      {/* Target/Thesis */}
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="30" fill="none" stroke="#60A5FA" strokeWidth="4" />
+        <circle cx="0" cy="0" r="15" fill="#3B82F6" />
+        <circle cx="0" cy="0" r="5" fill="#DBEAFE" />
+        <path d="M 40,-40 L 5,-5" stroke="#FDE047" strokeWidth="3" />
+        <polygon points="5,-5 15,-10 10,-15" fill="#FDE047" />
+        <text x="0" y="50" textAnchor="middle" fontSize="10" fill="#93C5FD">Hit the Main Point</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#0EA5E9" rx="20" />
+      {/* Tropical Island */}
+      <g transform="translate(120, 90)">
+        {/* Island */}
+        <ellipse cx="0" cy="10" rx="40" ry="15" fill="#FDE047" />
+        {/* Palm Tree Trunk */}
+        <path d="M -10,10 Q -5,-10 10,-30" fill="none" stroke="#78350F" strokeWidth="4" />
+        {/* Palm Leaves */}
+        <path d="M 10,-30 Q 0,-40 -10,-30" fill="none" stroke="#15803D" strokeWidth="4" />
+        <path d="M 10,-30 Q 20,-40 30,-30" fill="none" stroke="#15803D" strokeWidth="4" />
+        <path d="M 10,-30 Q 30,-20 20,-10" fill="none" stroke="#15803D" strokeWidth="4" />
+        <text x="0" y="40" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#0C4A6E">Tap the Islands!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Logical Fallacies", tx1: "Errors in reasoning that weaken arguments. Ad hominem attacks the person, not the idea. Straw man misrepresents opponent.",
-    q1: "Which is an ad hominem fallacy?", a1: "Your argument uses weak evidence", b1: "You're wrong because you're stupid", c1: "Your data contradicts the conclusion", d1: "This source is outdated",
-    t2: "Appeal to Authority", tx2: "Using credible experts strengthens arguments. But relying on unqualified 'authorities' is a fallacy.",
-    q2: "Which appeals to valid authority?", a2: "A movie star says diets work", b2: "A nutritionist cites 50 studies on balanced diets", c2: "My mom thinks it's true", d2: "Someone online recommended it",
-    t3: "Evidence Quality", tx3: "Peer-reviewed sources > anecdotes. Statistics from reputable institutions > rumors. Primary sources > hearsay.",
-    q3: "What's the strongest evidence?", a3: "My friend got better", b3: "A journal published peer-reviewed research", c3: "I read it online", d3: "It feels true",
-    t4: "Hasty Generalization", tx4: "Reaching conclusions from too few examples. One case doesn't prove a rule. Use representative samples.",
-    q4: "Which avoids hasty generalization?", a4: "All dogs are friendly because my dog is", b4: "A study of 10,000 dogs shows 73% are friendly", c4: "Dogs usually like people", d4: "One aggressive dog exists",
-    t5: "Circular Reasoning", tx5: "Using the conclusion as proof. Avoid restating the same idea with different words. Add new supporting logic.",
-    q5: "Which has circular reasoning?", a5: "TikTok is bad because it's harmful", b5: "TikTok affects focus: studies show users average 4.25 minutes per post", c5: "TikTok wastes time", d5: "Social media is popular",
-  },
-  de: {
-    t1: "Logische Fehlschlüsse", tx1: "Fehler im Denken, die Argumente schwächen. Ad hominem greift die Person an, nicht die Idee.",
-    q1: "Welcher ist ein Ad-hominem-Fehlschluss?", a1: "Dein Argument nutzt schwache Belege", b1: "Du hast Unrecht, weil du dumm bist", c1: "Deine Daten widersprechen der Folgerung", d1: "Diese Quelle ist veraltet",
-    t2: "Appell an Autorität", tx2: "Glaubwürdige Experten stärken Argumente. Unqualifizierte 'Autoritäten' sind ein Fehlschluss.",
-    q2: "Welcher Appell ist gültig?", a2: "Ein Filmstar sagt, Diäten wirken", b2: "Ein Ernährungsberater zitiert 50 Studien", c2: "Meine Mutter denkt, es ist wahr", d2: "Jemand online empfahl es",
-    t3: "Beweis-Qualität", tx3: "Begutachtete Quellen > Anekdoten. Statistiken von seriösen Institutionen > Gerüchte.",
-    q3: "Welcher Beleg ist am stärksten?", a3: "Mein Freund wurde besser", b3: "Ein Journal veröffentlichte Peer-Review-Forschung", c3: "Ich las es online", d3: "Es fühlt sich wahr an",
-    t4: "Vorschnelle Verallgemeinerung", tx4: "Folgerungen aus zu wenigen Beispielen. Ein Fall bewies keine Regel.",
-    q4: "Was vermeidet Verallgemeinerung?", a4: "Alle Hunde sind freundlich, weil meiner es ist", b4: "Eine Studie von 10.000 Hunden zeigt 73% sind freundlich", c4: "Hunde mögen meist Menschen", d4: "Ein aggressiver Hund existiert",
-    t5: "Zirkelschluss", tx5: "Die Folgerung als Beweis nutzen. Vermeide, dieselbe Idee in anderen Worten zu wiederholen.",
-    q5: "Welcher hat einen Zirkelschluss?", a5: "TikTok ist schlecht, weil es schädlich ist", b5: "TikTok beeinträchtigt Fokus: Nutzer geben ø 4,25 min pro Post aus", c5: "TikTok verschwendet Zeit", d5: "Soziale Medien sind beliebt",
-  },
+    explorer_title: "Argument Archipelago",
+    
+    // T1: Thesis vs Evidence (DROP GAME)
+    t1_title: "Thesis or Evidence?",
+    t1_text: "A THESIS is your main claim or argument (e.g., 'Space travel is important'). EVIDENCE is the fact, data, or quote that proves your thesis is true (e.g., 'NASA reported a 20% increase in tech').",
+    t1_b1: "Thesis: Your main opinion/claim.",
+    t1_b2: "Evidence: Facts and data to support it.",
+    t1_b3: "You can't have a strong thesis without evidence!",
+    t1_inst: "Sort the sentences into the Thesis or Evidence buckets!",
+    t1_bucket_the: "Thesis (Claim)",
+    t1_bucket_evi: "Evidence (Fact)",
+    t1_item_t1: "Mars is the best planet to colonize.", t1_item_t2: "Schools should start later.",
+    t1_item_e1: "Mars has frozen water.", t1_item_e2: "Teens need 9 hours of sleep.",
+    t1_q: "What is a 'Thesis Statement'?",
+    t1_q_a: "The main claim or argument of an essay.", t1_q_b: "A random fact.", t1_q_c: "The concluding sentence.", t1_q_d: "A type of punctuation.",
+
+    // T2: Argument Anatomy (MAGNET MATCH)
+    t2_title: "Argument Anatomy",
+    t2_text: "A strong argument also addresses the other side! A COUNTERCLAIM is what the opposing side believes. A REBUTTAL is your response proving why the counterclaim is wrong.",
+    t2_b1: "Counterclaim: 'Some people argue that...'",
+    t2_b2: "Rebuttal: 'However, they are incorrect because...'",
+    t2_b3: "Addressing the other side makes you look smarter.",
+    t2_inst: "Magnet Match: Connect the argument term to its definition!",
+    t2_l1: "Thesis", t2_r1: "Your main argument",
+    t2_l2: "Counterclaim", t2_r2: "The opposing side's view",
+    t2_l3: "Rebuttal", t2_r3: "Your proof that the other side is wrong",
+    t2_q: "Why do writers include a counterclaim?",
+    t2_q_a: "To show they understand both sides and can defeat the opposing view.", t2_q_b: "To confuse the reader.", t2_q_c: "To make the essay shorter.", t2_q_d: "To change their own mind.",
+
+    // T3: Spot the Counterclaim (HIGHLIGHT)
+    t3_title: "Radar Scan: Opposing Views",
+    t3_text: "Counterclaims often start with transition phrases like 'Critics argue that', 'Others may say', or 'Some believe'.",
+    t3_b1: "Look for the sentence that disagrees with the main point.",
+    t3_b2: "Highlight the transition and the opposing view.",
+    t3_b3: "Be precise!",
+    t3_inst: "Highlight the COUNTERCLAIM in this text!",
+    t3_tok0: "We", t3_tok1: "must", t3_tok2: "explore", t3_tok3: "Mars.", t3_tok4: "Critics", t3_tok5: "argue", t3_tok6: "that", t3_tok7: "it", t3_tok8: "is", t3_tok9: "too", t3_tok10: "expensive,", t3_tok11: "but", t3_tok12: "the", t3_tok13: "science", t3_tok14: "is", t3_tok15: "worth", t3_tok16: "it.",
+    t3_q: "What word signals the rebuttal (the writer's defense) in the sentence above?",
+    t3_q_a: "but", t3_q_b: "argue", t3_q_c: "explore", t3_q_d: "expensive",
+
+    // T4: Relevant Evidence (SLINGSHOT)
+    t4_title: "Laser Focus",
+    t4_text: "Not all evidence is good evidence! It must be RELEVANT. If your thesis is about healthy eating, an interesting fact about baseball is irrelevant.",
+    t4_b1: "Read the Thesis.",
+    t4_b2: "Find the evidence that directly supports it.",
+    t4_b3: "Ignore true but unrelated facts.",
+    t4_inst: "Shoot the asteroid that has the RELEVANT evidence for the Thesis: 'Solar power is the best energy source.'",
+    t4_target_1: "Solar panels reduce emissions by 80%.", // Correct
+    t4_target_2: "The sun is very hot in the summer.",
+    t4_target_3: "Wind turbines are also used for energy.",
+    t4_q: "What does 'relevant' mean in writing?",
+    t4_q_a: "Directly connected to the topic.", t4_q_b: "Very long and detailed.", t4_q_c: "A fact with numbers.", t4_q_d: "Written by a famous person.",
+
+    // T5: Fun Catch
+    t5_title: "Master Debater",
+    t5_text: "You have conquered the Argument Archipelago! You know how to build a claim, support it with hard evidence, and crush the counterclaims.",
+    t5_b1: "Thesis = Claim.",
+    t5_b2: "Evidence = Proof.",
+    t5_b3: "Catch 6 Islands!",
+    t5_inst: "Tap the 6 tropical islands (🏝️) to claim your territory!",
+    t5_q: "Which element is the foundation of a persuasive essay?",
+    t5_q_a: "The Thesis Statement", t5_q_b: "The title page", t5_q_c: "The font size", t5_q_d: "The author's photo",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "the", label: "t1_bucket_the" },
+        { id: "evi", label: "t1_bucket_evi" },
+      ],
+      items: [
+        { text: "t1_item_t1", bucketId: "the" },
+        { text: "t1_item_e1", bucketId: "evi" },
+        { text: "t1_item_t2", bucketId: "the" },
+        { text: "t1_item_e2", bucketId: "evi" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6", "t3_tok7", "t3_tok8", "t3_tok9", "t3_tok10", "t3_tok11", "t3_tok12", "t3_tok13", "t3_tok14", "t3_tok15", "t3_tok16"],
+      correctIndices: [4, 5, 6, 7, 8, 9, 10], // "Critics argue that it is too expensive,"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🏝️", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e1b4b"/>
-          <text x="60" y="90" textAnchor="middle" fontSize="24" fill="#9333ea">💭</text>
-          <path d="M90,80 L150,80" stroke="#a855f7" strokeWidth="2"/>
-          <text x="180" y="90" textAnchor="middle" fontSize="20" fill="#e9d5ff">✗</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "b1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <text x="60" y="80" textAnchor="middle" fontSize="32" fill="#10b981">✓</text>
-          <text x="120" y="80" textAnchor="middle" fontSize="32" fill="#ef4444">✗</text>
-          <text x="60" y="130" textAnchor="middle" fontSize="10" fill="#a7f3d0">Expert</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="#fca5a5">Non-Expert</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f1f3a"/>
-          <text x="50" y="65" textAnchor="middle" fontSize="14" fill="#e0f2fe">Peer Review</text>
-          <text x="190" y="65" textAnchor="middle" fontSize="14" fill="#fed7aa">Anecdote</text>
-          <rect x="30" y="75" width="40" height="40" rx="4" fill="#0ea5e9" opacity="0.5"/>
-          <rect x="160" y="75" width="40" height="40" rx="4" fill="#f97316" opacity="0.3"/>
-          <path d="M70,95 L150,95" stroke="#60a5fa" strokeWidth="2" markerEnd="url(#arrowhead)"/>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "b3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2d3d"/>
-          <text x="50" y="70" textAnchor="middle" fontSize="12" fill="#cbd5e1">1 example</text>
-          <rect x="30" y="75" width="40" height="30" rx="3" fill="#f97316" opacity="0.4"/>
-          <path d="M75,90 L155,90" stroke="#60a5fa" strokeWidth="2"/>
-          <text x="190" y="70" textAnchor="middle" fontSize="12" fill="#cbd5e1">10,000 sample</text>
-          <rect x="170" y="75" width="40" height="30" rx="3" fill="#10b981" opacity="0.6"/>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <circle cx="120" cy="80" r="30" fill="none" stroke="#f472b6" strokeWidth="2"/>
-          <path d="M120,50 Q150,80 120,110" stroke="#f472b6" strokeWidth="2"/>
-          <text x="120" y="150" textAnchor="middle" fontSize="11" fill="#fbcfe8">Circular Logic</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🏝️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function ArgumentExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const ArgumentExplorer = memo(function ArgumentExplorer({
+  color = "#047857", // Emerald-700
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="english_k7_argument_archipelago" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default ArgumentExplorer;
