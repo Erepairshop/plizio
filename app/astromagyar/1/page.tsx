@@ -24,28 +24,8 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import LangExplore from "@/app/astromagyar/games/LangExplore";
-import LetterExplorer from "@/app/astromagyar/games/LetterExplorer";
-import SyllableExplorer from "@/app/astromagyar/games/SyllableExplorer";
-import SpellingExplorer from "@/app/astromagyar/games/SpellingExplorer";
-import NounExplorer from "@/app/astromagyar/games/NounExplorer";
-import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
-import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
-import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
-import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
-import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
-import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
-import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
-import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
-import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import {
-  generateO1SentenceBuilderContent,
-  generateO1PictureWordContent,
-  generateO1ReadingCompContent,
-  generateO1MemoryPairContent,
-  generateO1CategoryRushContent,
-} from "@/app/astromagyar/contentGenerators";
 import {
   O1_ISLANDS, O1_CHECKPOINT_MAP, O1_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO1Progress, saveO1Progress, type MagyarProgress,
@@ -79,19 +59,6 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
-  | "letter-explorer"
-  | "syllable-explorer"
-  | "spelling-explorer"
-  | "noun-explorer"
-  | "verb-explorer"
-  | "sentence-explorer"
-  | "eset-explorer"
-  | "review-explorer-hu"
-  | "sentence-builder"
-  | "memory-pair"
-  | "picture-word"
-  | "category-rush"
-  | "reading-comp"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -343,19 +310,6 @@ export default function AstroMagyarO1Page() {
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
-      return;
-    }
-    // Explorer/content components: self-contained or use contentGenerators
-    const explorerTypes = [
-      "letter-explorer", "syllable-explorer", "spelling-explorer",
-      "noun-explorer", "verb-explorer", "sentence-explorer",
-      "eset-explorer", "review-explorer-hu",
-      "sentence-builder", "memory-pair", "picture-word",
-      "category-rush", "reading-comp",
-    ];
-    if (explorerTypes.includes(gameType)) {
-      setMissionScore({ score: 0, total: 0 });
-      setScreen(gameType as Screen);
       return;
     }
     // Standard quiz games
@@ -643,140 +597,6 @@ export default function AstroMagyarO1Page() {
           <LangExplore
             island={activeIsland}
             grade={1}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {/* ─── Explorer Screens ─────────────────────────────────────────────────── */}
-
-      {screen === "letter-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <LetterExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "syllable-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <SyllableExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "spelling-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <SpellingExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "noun-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <NounExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "verb-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <VerbExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "sentence-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <SentenceExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "eset-explorer" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <EsetExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {screen === "review-explorer-hu" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <ReviewExplorer lang={lang as Lang} color={color}
-            onDone={(s, t) => handleMissionSuccess(s, t)} />
-        </div>
-      )}
-
-      {/* ─── New Explorer Screens ─────────────────────────────────────────────── */}
-
-      {screen === "sentence-builder" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <SentenceBuilderExplorer
-            rounds={generateO1SentenceBuilderContent()}
-            color={color}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "memory-pair" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <MemoryPairExplorer
-            pairs={generateO1MemoryPairContent()}
-            color={color}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "picture-word" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <PictureVocabExplorer
-            rounds={generateO1PictureWordContent()}
-            color={color}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "category-rush" && (
-        <div className="relative">
-          {(() => {
-            const data = generateO1CategoryRushContent();
-            return (
-              <CategoryRushExplorer
-                categories={data.categories}
-                items={data.items}
-                color={color}
-                lang={lang}
-                onDone={(s, t) => handleMissionSuccess(s, t)}
-              />
-            );
-          })()}
-          <ExitButton onExit={() => setScreen("mission-select")} />
-        </div>
-      )}
-
-      {screen === "reading-comp" && (
-        <div className="relative">
-          <ExitButton onExit={() => setScreen("mission-select")} />
-          <ReadingCompExplorer
-            rounds={generateO1ReadingCompContent()}
-            color={color}
-            lang={lang}
             onDone={(s, t) => handleMissionSuccess(s, t)}
           />
         </div>
