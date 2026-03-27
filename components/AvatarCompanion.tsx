@@ -256,7 +256,7 @@ function RobotCharacter({
   });
 
   return (
-    <group ref={groupRef} position={[0, -1.05, 0]} scale={0.85}>
+    <group ref={groupRef} position={[0, -1.55, 0]} scale={0.85}>
       <primitive object={scene} />
       {activeHat && headBone && <HatAttachment headBone={headBone} />}
     </group>
@@ -324,7 +324,7 @@ export default function AvatarCompanion({
       onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
-        camera={{ position: [0, 0.8, 3.2], fov: 44 }}
+        camera={{ position: [0, 0.3, 3.5], fov: 50 }}
         frameloop="always"
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
