@@ -23,7 +23,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K1Explorer = dynamic(() => import("@/app/astrodeutsch/games/k1/K1Explorer"), { ssr: false });
 import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
 import SpellRace from "@/app/astrodeutsch/games/SpellRace";
 import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
@@ -726,7 +726,7 @@ export default function AstroDeutschK1Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={1} onDone={handleMissionDone} />
+          <K1Explorer island={activeIsland} grade={1} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-blitz" && (
           <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />
