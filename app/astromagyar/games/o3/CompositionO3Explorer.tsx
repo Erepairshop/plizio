@@ -127,6 +127,6 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function CompositionExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function CompositionExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return <ExplorerEngine def={DEF} grade={3} explorerId="magyar_o3_i7" color="#FF9500" lang={lang} onDone={onDone} />;
 }

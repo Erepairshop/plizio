@@ -231,7 +231,7 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function CompoundWordsExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function CompoundWordsExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return (
     <ExplorerEngine 
       def={DEF} 

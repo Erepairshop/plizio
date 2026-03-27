@@ -119,6 +119,8 @@ const TOPICS: TopicDef[] = [
         { text: "t1_item_c", bucketId: "oth" },
       ],
       instruction: "t1_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t1_q",
@@ -139,6 +141,8 @@ const TOPICS: TopicDef[] = [
         { left: "t2_l3", right: "t2_r3" },
       ],
       instruction: "t2_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t2_q",
@@ -160,6 +164,8 @@ const TOPICS: TopicDef[] = [
         { id: "tgt3", text: "t3_target_3", isCorrect: false },
       ],
       instruction: "t3_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t3_q",
@@ -180,6 +186,8 @@ const TOPICS: TopicDef[] = [
         { left: "t4_l_c", right: "t4_r_c" },
       ],
       instruction: "t4_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t4_q",
@@ -196,6 +204,8 @@ const TOPICS: TopicDef[] = [
       type: "tap-count",
       tapCount: { emoji: "⭐", count: 5 },
       instruction: "t5_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t5_q",
@@ -213,14 +223,14 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function LetterExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function LetterExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return (
-    <ExplorerEngine 
-      def={DEF} 
-      grade={1} 
-      explorerId="magyar_o1_i1" 
-      color="#FF2D78" 
-      lang={lang} 
+    <ExplorerEngine
+      def={DEF}
+      grade={1}
+      explorerId="magyar_o1_i1"
+      color={color || "#FF2D78"}
+      lang={lang}
       onDone={onDone} 
     />
   );

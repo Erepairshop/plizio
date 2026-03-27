@@ -126,6 +126,8 @@ const TOPICS: TopicDef[] = [
         { text: "t1_item_m2", bucketId: "mi" },
       ],
       instruction: "t1_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t1_q",
@@ -147,6 +149,8 @@ const TOPICS: TopicDef[] = [
         { id: "tgt3", text: "t2_target_3", isCorrect: false },
       ],
       instruction: "t2_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t2_q",
@@ -167,6 +171,8 @@ const TOPICS: TopicDef[] = [
         { left: "t3_l3", right: "t3_r3" },
       ],
       instruction: "t3_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t3_q",
@@ -184,6 +190,8 @@ const TOPICS: TopicDef[] = [
       tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5"],
       correctIndices: [3], // "énekel"
       instruction: "t4_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t4_q",
@@ -200,6 +208,8 @@ const TOPICS: TopicDef[] = [
       type: "tap-count",
       tapCount: { emoji: "📝", count: 5 },
       instruction: "t5_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t5_q",
@@ -217,7 +227,7 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function WordExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function WordExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return (
     <ExplorerEngine 
       def={DEF} 

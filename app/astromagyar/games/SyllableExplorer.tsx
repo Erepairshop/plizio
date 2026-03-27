@@ -125,6 +125,8 @@ const TOPICS: TopicDef[] = [
         { text: "t1_item_d2", bucketId: "2" },
       ],
       instruction: "t1_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t1_q",
@@ -146,6 +148,8 @@ const TOPICS: TopicDef[] = [
         { id: "tgt3", text: "t2_target_3", isCorrect: false },
       ],
       instruction: "t2_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t2_q",
@@ -166,6 +170,8 @@ const TOPICS: TopicDef[] = [
         { left: "t3_l3", right: "t3_r3" },
       ],
       instruction: "t3_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t3_q",
@@ -182,6 +188,8 @@ const TOPICS: TopicDef[] = [
       type: "tap-count",
       tapCount: { emoji: "👏", count: 3 }, // KÉ-PES-KÖNYV
       instruction: "t4_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t4_q",
@@ -198,6 +206,8 @@ const TOPICS: TopicDef[] = [
       type: "tap-count",
       tapCount: { emoji: "✂️", count: 6 },
       instruction: "t5_inst",
+      hint1: "",
+      hint2: "",
     },
     quiz: {
       question: "t5_q",
@@ -215,7 +225,7 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function SyllableExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function SyllableExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return (
     <ExplorerEngine 
       def={DEF} 

@@ -215,7 +215,7 @@ const DEF: ExplorerDef = {
   rounds: [],
 };
 
-export default function SynonymsExplorer({ onDone, lang = "hu" }: { onDone: (s: number, t: number) => void; lang?: string }) {
+export default function SynonymsExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
   return (
     <ExplorerEngine 
       def={DEF} 
