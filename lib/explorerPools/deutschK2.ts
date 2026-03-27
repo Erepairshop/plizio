@@ -80,6 +80,40 @@
 //
 // TIPP: Egy island 7-10 topicjában legalább 3 különböző interactive type legyen!
 //
+// ── QUIZ MEZŐ — VEGYES MÓD (generator ajánlott!) ─────────────────────────────
+//
+// A quiz mező kétféleképpen írható:
+//
+// 1) GENERATOR (ajánlott — nem kell kézileg kérdéseket írni!):
+//    quiz: { generate: "artikel_k2" }
+//    → minden session-induláskor új véletlenszerű kérdést kap a generátortól
+//
+//    Elérhető K2 generátorok (deutschGenerators.ts → GENERATORS map):
+//      "artikel_k2"       → der/die/das felismerés (Hund, Katze, Haus...)
+//      "nomen_k2"         → Nomen felismerés mondatban
+//      "verben_k2"        → Verb felismerés mondatban
+//      "zahlen_k2"        → Számok (1-100)
+//      "farben_k2"        → Színek
+//      "zeit_k2"          → Napszakok, napok, évszakok
+//      "berufe_k2"        → Berufe (Lehrer, Arzt...)
+//      "gegensaetze_k2"   → Gegensätze (groß↔klein, schnell↔langsam)
+//      "plural"           → Singular→Plural
+//      "adjektive_gegenteil" → Adjektiv ellentétje
+//
+//    Elérhető K1 generátorok (K2-ben is használható könnyű témákhoz):
+//      "artikel_k1"       → egyszerűbb artikel kérdések
+//      "silben"           → szótagolás
+//      "satzzeichen_k1"   → írásjelek (. ? !)
+//      "tiere_k1"         → állatok szókincse
+//      "farben_k2"        → színek
+//
+// 2) KÉZI (ha nincs megfelelő generátor a témához):
+//    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" }
+//    → a label key-eket a LABELS objektumban kell definiálni
+//
+// SZABÁLY: Használj generátort ahol csak lehet! Kézi quiz csak akkor kell,
+//          ha a téma nagyon specifikus (pl. összetett szavak, helyesírási szabályok).
+//
 // ═══════════════════════════════════════════════════════════════════════════════
 
 import type { PoolTopicDef } from "./types";

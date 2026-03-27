@@ -111,12 +111,19 @@ export interface PoolTopicDef {
   hintKey?: string;
   /** Interactive activity config (same type as ExplorerEngine) */
   interactive: TopicInteractive;
-  /** Single MCQ quiz question after the interactive */
-  quiz: {
-    question: string;          // label key
-    choices: string[];         // label keys (4 options)
-    answer: string;            // label key of the correct choice
-  };
+  /**
+   * Quiz question — two modes:
+   *
+   * A) Manual (label keys):
+   *    { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" }
+   *
+   * B) Generator (auto — recommended!):
+   *    { generate: "artikel_k2" }  ← key from deutschGenerators.ts GENERATORS map
+   *    → every session mount picks a fresh random question from the generator pool
+   */
+  quiz:
+    | { question: string; choices: string[]; answer: string }
+    | { generate: string };
   /** Optional difficulty tag for structured picking */
   difficulty?: "easy" | "medium" | "hard";
 }
