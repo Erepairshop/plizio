@@ -107,13 +107,11 @@ import type { PoolTopicDef } from "./types";
 // ASTRODEUTSCH K5 — Klasse 5 (10-11 Jahre)
 // ─────────────────────────────────────────────────────────────────────────────
 
-import type { PoolTopicDef } from "./types";
 
 // ── i1 — Adjektive & Steigerung (📊, #3B82F6) ───────────────────────────────
 // Thema: Komparativ, Superlativ, attributive Adjektive
 // ─────────────────────────────────────────────────────────────────────────────
 
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i1 — Adjektive & Steigerung (📊, #3B82F6)
@@ -213,7 +211,7 @@ export const ADJEKTIV5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "two-groups", left: { items: ["der gute..."], bg: "#DBEAFE" }, right: { items: ["er isst gut"], bg: "#EFF6FF" } },
+    svg: { type: "two-groups", left: { items: ["der gute..."], bg: "#DBEAFE", border: "#DBEAFE" }, right: { items: ["er isst gut"], bg: "#EFF6FF", border: "#EFF6FF" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "n", label: "t5_b1" }, { id: "v", label: "t5_b2" }], items: [{ text: "t5_i1", bucketId: "n" }, { text: "t5_i2", bucketId: "v" }, { text: "t5_i3", bucketId: "n" }, { text: "t5_i4", bucketId: "v" }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "steigerung" }
   },
@@ -231,7 +229,7 @@ export const ADJEKTIV5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "easy", infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "text-bubbles", items: [{ text: "so ... wie", bg: "#DBEAFE" }] },
+    svg: { type: "text-bubbles", items: [{ text: "so ... wie", bg: "#DBEAFE", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent_w", choices: ["t8_cw1", "t8_cw2", "t8_cw3", "t8_cw4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "steigerung" }
   }
@@ -312,7 +310,7 @@ export const PRONOMEN_LABELS: Record<string, Record<string, string>> = {
 export const PRONOMEN_POOL: PoolTopicDef[] = [
   {
     difficulty: "easy", infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "article-noun", article: "Er", noun: "Vater", emoji: "👨" },
+    svg: { type: "article-noun", article: "Er", articleColor: "#065F46", noun: "Vater", emoji: "👨" },
     interactive: { type: "gap-fill", sentence: "t1_sent", choices: ["t1_c1", "t1_c2", "t1_c3", "t1_c4"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "nominativ" }
   },
@@ -324,7 +322,7 @@ export const PRONOMEN_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "easy", infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "text-bubbles", items: [{ text: "mein / dein", bg: "#FEE2E2" }] },
+    svg: { type: "text-bubbles", items: [{ text: "mein / dein", bg: "#FEE2E2", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t3_sent_p", choices: ["t3_cp1", "t3_cp2", "t3_cp3", "t3_cp4"], correctIndex: 0, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "nominativ" }
   },
@@ -336,7 +334,7 @@ export const PRONOMEN_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "two-groups", left: { items: ["ich", "du"], bg: "#FEE2E2" }, right: { items: ["mein", "sein"], bg: "#FEF2F2" } },
+    svg: { type: "two-groups", left: { items: ["ich", "du"], bg: "#FEE2E2", border: "#FEE2E2" }, right: { items: ["mein", "sein"], bg: "#FEF2F2", border: "#FEF2F2" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "per", label: "t5_b1" }, { id: "pos", label: "t5_b2" }], items: [{ text: "t5_i1", bucketId: "per" }, { text: "t5_i2", bucketId: "pos" }, { text: "t5_i3", bucketId: "per" }, { text: "t5_i4", bucketId: "pos" }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "nominativ" }
   },
@@ -354,7 +352,7 @@ export const PRONOMEN_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "easy", infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "text-bubbles", items: [{ text: "ihr lernt", bg: "#FEE2E2" }] },
+    svg: { type: "text-bubbles", items: [{ text: "ihr lernt", bg: "#FEE2E2", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent_v", choices: ["t8_cv1", "t8_cv2", "t8_cv3", "t8_cv4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "verben_k3" }
   }
@@ -458,7 +456,7 @@ export const PRAEP_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "text-bubbles", items: [{ text: "aber / denn", bg: "#D1FAE5" }] },
+    svg: { type: "text-bubbles", items: [{ text: "aber / denn", bg: "#D1FAE5", color: "#1e293b" }] },
     interactive: { type: "match-pairs", pairs: [{ left: "t3_l1", right: "t3_r1" }, { left: "t3_l2", right: "t3_r2" }, { left: "t3_l3", right: "t3_r3" }, { left: "t3_l4", right: "t3_r4" }], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "satzzeichen_k1" }
   },
@@ -470,7 +468,7 @@ export const PRAEP_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "text-bubbles", items: [{ text: "dass", bg: "#D1FAE5" }] },
+    svg: { type: "text-bubbles", items: [{ text: "dass", bg: "#D1FAE5", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t5_sent_d", choices: ["t5_cd1", "t5_cd2", "t5_cd3", "t5_cd4"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "satzzeichen_k1" }
   },
@@ -488,13 +486,13 @@ export const PRAEP_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "two-groups", left: { items: ["im Garten"], bg: "#D1FAE5" }, right: { items: ["in den Garten"], bg: "#DBEAFE" } },
+    svg: { type: "two-groups", left: { items: ["im Garten"], bg: "#D1FAE5", border: "#D1FAE5" }, right: { items: ["in den Garten"], bg: "#DBEAFE", border: "#DBEAFE" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "d", label: "t8_b1" }, { id: "a", label: "t8_b2" }], items: [{ text: "t8_i1", bucketId: "d" }, { text: "t8_i2", bucketId: "a" }, { text: "t8_i3", bucketId: "d" }, { text: "t8_i4", bucketId: "a" }], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "dativ" }
   },
   {
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
-    svg: { type: "text-bubbles", items: [{ text: "obwohl", bg: "#D1FAE5" }] },
+    svg: { type: "text-bubbles", items: [{ text: "obwohl", bg: "#D1FAE5", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_o", choices: ["t9_co1", "t9_co2", "t9_co3", "t9_co4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "satzzeichen_k1" }
   }
@@ -628,7 +626,7 @@ export const SATZGLIED5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
-    svg: { type: "two-groups", left: { items: ["Wie?"], bg: "#FFFBEB" }, right: { items: ["Warum?"], bg: "#FEF3C7" } },
+    svg: { type: "two-groups", left: { items: ["Wie?"], bg: "#FFFBEB", border: "#FFFBEB" }, right: { items: ["Warum?"], bg: "#FEF3C7", border: "#FEF3C7" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "m", label: "t9_b1" }, { id: "k", label: "t9_b2" }], items: [{ text: "t9_i1", bucketId: "m" }, { text: "t9_i2", bucketId: "k" }, { text: "t9_i3", bucketId: "m" }, { text: "t9_i4", bucketId: "k" }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "genitiv" }
   }
@@ -720,7 +718,7 @@ export const ZEICHEN5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "easy", infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "text-bubbles", items: [{ text: "A, B und C", bg: "#EEF2FF" }] },
+    svg: { type: "text-bubbles", items: [{ text: "A, B und C", bg: "#EEF2FF", color: "#1e293b" }] },
     interactive: { type: "highlight-text", tokens: ["t2_w2_1", "t2_w2_2", "t2_w2_3", "t2_w2_4"], correctIndices: [1], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "satzzeichen_k1" }
   },
@@ -744,7 +742,7 @@ export const ZEICHEN5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "two-groups", left: { items: [","], bg: "#E0E7FF" }, right: { items: ["X"], bg: "#EEF2FF" } },
+    svg: { type: "two-groups", left: { items: [","], bg: "#E0E7FF", border: "#E0E7FF" }, right: { items: ["X"], bg: "#EEF2FF", border: "#EEF2FF" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "y", label: "t6_b1" }, { id: "n", label: "t6_b2" }], items: [{ text: "t6_i1", bucketId: "y" }, { text: "t6_i2", bucketId: "y" }, { text: "t6_i3", bucketId: "n" }, { text: "t6_i4", bucketId: "n" }], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "satzzeichen_k1" }
   },
@@ -850,13 +848,13 @@ export const PARTIZIP_LABELS: Record<string, Record<string, string>> = {
 export const PARTIZIP_POOL: PoolTopicDef[] = [
   {
     difficulty: "easy", infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "text-bubbles", items: [{ text: "hatte", bg: "#FDF2F8" }] },
+    svg: { type: "text-bubbles", items: [{ text: "hatte", bg: "#FDF2F8", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t1_sent", choices: ["t1_c1", "t1_c2", "t1_c3", "t1_c4"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "perfekt" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "text-bubbles", items: [{ text: "waren", bg: "#FCE7F3" }] },
+    svg: { type: "text-bubbles", items: [{ text: "waren", bg: "#FCE7F3", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent_w", choices: ["t2_cw1", "t2_cw2", "t2_cw3", "t2_cw4"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "perfekt" }
   },
@@ -874,7 +872,7 @@ export const PARTIZIP_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "two-groups", left: { items: ["-d"], bg: "#FDF2F8" }, right: { items: ["ge-"], bg: "#FCE7F3" } },
+    svg: { type: "two-groups", left: { items: ["-d"], bg: "#FDF2F8", border: "#FDF2F8" }, right: { items: ["ge-"], bg: "#FCE7F3", border: "#FCE7F3" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "p1", label: "t5_b1" }, { id: "p2", label: "t5_b2" }], items: [{ text: "t5_i1", bucketId: "p1" }, { text: "t5_i2", bucketId: "p2" }, { text: "t5_i3", bucketId: "p1" }, { text: "t5_i4", bucketId: "p2" }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "perfekt" }
   },
@@ -989,19 +987,19 @@ export const PASSIV_LABELS: Record<string, Record<string, string>> = {
 export const PASSIV_POOL: PoolTopicDef[] = [
   {
     difficulty: "medium", infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "text-bubbles", items: [{ text: "wird ... ge-", bg: "#CCFBF1" }] },
+    svg: { type: "text-bubbles", items: [{ text: "wird ... ge-", bg: "#CCFBF1", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t1_sent", choices: ["t1_c1", "t1_c2", "t1_c3", "t1_c4"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "verben_k3" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "text-bubbles", items: [{ text: "ist ... ge-", bg: "#F0FDFA" }] },
+    svg: { type: "text-bubbles", items: [{ text: "ist ... ge-", bg: "#F0FDFA", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent_z", choices: ["t2_cz1", "t2_cz2", "t2_cz3", "t2_cz4"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "verben_k3" }
   },
   {
     difficulty: "easy", infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "two-groups", left: { items: ["Aktiv"], bg: "#F0FDFA" }, right: { items: ["Passiv"], bg: "#CCFBF1" } },
+    svg: { type: "two-groups", left: { items: ["Aktiv"], bg: "#F0FDFA", border: "#F0FDFA" }, right: { items: ["Passiv"], bg: "#CCFBF1", border: "#CCFBF1" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t3_b1" }, { id: "p", label: "t3_b2" }], items: [{ text: "t3_i1", bucketId: "a" }, { text: "t3_i2", bucketId: "p" }, { text: "t3_i3", bucketId: "a" }, { text: "t3_i4", bucketId: "p" }], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "verben_k3" }
   },
@@ -1037,7 +1035,7 @@ export const PASSIV_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t9_title", infoText: "t9_text",
-    svg: { type: "text-bubbles", items: [{ text: "wurde", bg: "#CCFBF1" }] },
+    svg: { type: "text-bubbles", items: [{ text: "wurde", bg: "#CCFBF1", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_p", choices: ["t9_cp1", "t9_cp2", "t9_cp3", "t9_cp4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "praeteritum" }
   }
@@ -1153,7 +1151,7 @@ export const WORTSCHATZ5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "two-groups", left: { items: ["fahr-"], bg: "#F5F3FF" }, right: { items: ["geh-"], bg: "#EDE9FE" } },
+    svg: { type: "two-groups", left: { items: ["fahr-"], bg: "#F5F3FF", border: "#F5F3FF" }, right: { items: ["geh-"], bg: "#EDE9FE", border: "#EDE9FE" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "f", label: "t6_b1" }, { id: "g", label: "t6_b2" }], items: [{ text: "t6_i1", bucketId: "f" }, { text: "t6_i2", bucketId: "f" }, { text: "t6_i3", bucketId: "g" }, { text: "t6_i4", bucketId: "g" }], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1165,7 +1163,7 @@ export const WORTSCHATZ5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "text-bubbles", items: [{ text: "Nomen!", bg: "#F5F3FF" }] },
+    svg: { type: "text-bubbles", items: [{ text: "Nomen!", bg: "#F5F3FF", color: "#1e293b" }] },
     interactive: { type: "highlight-text", tokens: ["t8_w8_1", "t8_w8_2", "t8_w8_3", "t8_w8_4"], correctIndices: [1], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1266,13 +1264,13 @@ export const EXAM5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "text-bubbles", items: [{ text: "euch", bg: "#D1FAE5" }] },
+    svg: { type: "text-bubbles", items: [{ text: "euch", bg: "#D1FAE5", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent", choices: ["t2_c1", "t2_c2", "t2_c3", "t2_c4"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "nominativ" }
   },
   {
     difficulty: "medium", infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "two-groups", left: { items: ["Dat"], bg: "#F0FDFA" }, right: { items: ["Akk"], bg: "#CCFBF1" } },
+    svg: { type: "two-groups", left: { items: ["Dat"], bg: "#F0FDFA", border: "#F0FDFA" }, right: { items: ["Akk"], bg: "#CCFBF1", border: "#CCFBF1" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "d", label: "t3_b1" }, { id: "a", label: "t3_b2" }], items: [{ text: "t3_i1", bucketId: "d" }, { text: "t3_i2", bucketId: "a" }, { text: "t3_i3", bucketId: "d" }, { text: "t3_i4", bucketId: "a" }], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "dativ" }
   },
@@ -1290,7 +1288,7 @@ export const EXAM5_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "hard", infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "text-bubbles", items: [{ text: "hatte / war", bg: "#FDF2F8" }] },
+    svg: { type: "text-bubbles", items: [{ text: "hatte / war", bg: "#FDF2F8", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t6_sent_p", choices: ["t6_cp1", "t6_cp2", "t6_cp3", "t6_cp4"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "perfekt" }
   },
