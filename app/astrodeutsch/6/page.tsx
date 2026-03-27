@@ -24,6 +24,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K6Explorer = dynamic(() => import("@/app/astrodeutsch/games/k6/K6Explorer"), { ssr: false });
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -721,7 +722,7 @@ export default function AstroDeutschK6Page() {
           <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={6} onDone={handleMissionDone} />
+          <K6Explorer island={activeIsland} grade={6} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
