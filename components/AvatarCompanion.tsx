@@ -256,7 +256,7 @@ function RobotCharacter({
   });
 
   return (
-    <group ref={groupRef} position={[0, -1.55, 0]} scale={0.85}>
+    <group ref={groupRef} position={[0, -1.85, 0]} scale={0.85}>
       <primitive object={scene} />
       {activeHat && headBone && <HatAttachment headBone={headBone} />}
     </group>
