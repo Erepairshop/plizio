@@ -324,7 +324,7 @@ export default function AvatarCompanion({
       onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
-        camera={{ position: [0, 0.3, 3.5], fov: 50 }}
+        camera={{ position: [0, 1.2, 4.0], fov: 50 }}
         frameloop="always"
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
