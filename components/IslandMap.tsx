@@ -606,11 +606,9 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const svgRef = useRef<SVGSVGElement | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  // Avatar tap → wave reaction
+  // Avatar tap state (handler defined after targetIsland below)
   const [avatarJump, setAvatarJump] = useState<{ reaction: "wave" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
-  const handleAvatarTap = useCallback(() => {
-    setAvatarJump({ reaction: "wave", timestamp: Date.now() });
-  }, []);
+  const [interacting, setInteracting] = useState(false);
 
   // Mouse/touch parallax
   const [mouseOffset, setMouseOffset] = useState({ x: 0, y: 0 });
@@ -642,6 +640,14 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const avatarSvgX = targetIsland?.cx ?? 0;
   const avatarSvgY = targetIsland ? targetIsland.cy + R - 18 : 0; // sit on top of planet
   const avatarPos = useSvgToDOM(svgRef, avatarSvgX, avatarSvgY);
+
+  // Avatar tap → wave reaction + open planet panel (defined after targetIsland)
+  const handleAvatarTap = useCallback(() => {
+    setAvatarJump({ reaction: "wave", timestamp: Date.now() });
+    setInteracting(true);
+    setTimeout(() => setInteracting(false), 2000);
+    if (targetIsland) setSelectedId(targetIsland.id);
+  }, [targetIsland]);
 
   // Track previous position for smooth movement
   useEffect(() => {
@@ -772,6 +778,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
           style={{
             width: AVATAR_SIZE,
             height: AVATAR_SIZE,
+            pointerEvents: "none",
           }}
           initial={{ opacity: 0, left: avatarPos.left - AVATAR_SIZE / 2, top: avatarPos.top - AVATAR_SIZE * 0.75 }}
           animate={{
@@ -783,15 +790,22 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             ? { left: { duration: 0.8, ease: "easeInOut" }, top: { duration: 0.8, ease: [0.4, 0, 0.2, 1] }, opacity: { delay: 1.2, duration: 0.5 } }
             : { opacity: { delay: 1.2, duration: 0.5 } }
           }
-          onClick={handleAvatarTap}
         >
-          <AvatarCompanion
-            fixed={false}
-            mood={avatarAnimating ? "happy" : "idle"}
-            jumpTrigger={avatarJump}
-            passThrough={true}
-            {...avatarProps}
-          />
+          {/* Inner div: continuous floating animation + tap handler */}
+          <motion.div
+            style={{ width: "100%", height: "100%", pointerEvents: "auto" }}
+            animate={{ y: [0, -12, 0] }}
+            transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+            onClick={handleAvatarTap}
+          >
+            <AvatarCompanion
+              fixed={false}
+              mood={interacting ? "happy" : (avatarAnimating ? "happy" : "idle")}
+              jumpTrigger={avatarJump}
+              passThrough={true}
+              {...avatarProps}
+            />
+          </motion.div>
         </motion.div>
       )}
 
