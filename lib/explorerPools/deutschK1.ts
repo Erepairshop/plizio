@@ -293,13 +293,1826 @@ export const LETTER_POOL: PoolTopicDef[] = [
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i2 — Silbeninsel (Syllables)
-// TODO: Add SYLLABLE_LABELS + SYLLABLE_POOL (friend fills this in)
-// Pattern: copy LETTER section above, rename t1_… → t1_…, content = syllables topic
 // ─────────────────────────────────────────────────────────────────────────────
 
-// export const SYLLABLE_LABELS: Record<string, Record<string, string>> = { ... };
-// export const SYLLABLE_POOL: PoolTopicDef[] = [ ... ];
+export const SYLLABLE_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Silben Klatschen",
 
+    t1_title: "Was ist eine Silbe?",
+    t1_text: "Wörter kann man in Stücke teilen. Jedes Stück ist eine Silbe. Wir können Silben klatschen! 👏 To-ma-te hat drei Silben.",
+    t1_b1: "Wörter bestehen aus Silben.",
+    t1_b2: "Klatsche beim Sprechen mit!",
+    t1_inst: "Wie viele Silben hat das Wort 'Banane'?",
+    t1_h1: "Klatsche: Ba - na - ne.",
+    t1_h2: "Es sind 3 Klatscher.",
+    t1_q: "Wie viele Silben hat 'Banane'?",
+    t1_qa: "3", t1_qb: "2", t1_qc: "4", t1_qd: "1",
+
+    t2_title: "Kurze Wörter",
+    t2_text: "Manche Wörter sind ganz kurz. Man klatscht nur einmal. Das sind einsilbige Wörter, wie 'Hund', 'Maus' oder 'Baum'.",
+    t2_b1: "Einmal klatschen = 1 Silbe.",
+    t2_inst: "Welches Wort hat nur 1 Silbe?",
+    t2_h1: "Sprich die Wörter laut und klatsche.",
+    t2_h2: "A-pfel (2), Scho-ko-la-de (4), Haus (1).",
+    t2_w1: "Apfel", t2_w2: "Haus", t2_w3: "Katze", t2_w4: "Schokolade",
+    t2_q: "Welches Wort hat nur EINE Silbe?",
+    t2_qa: "Haus", t2_qb: "Hase", t2_qc: "Banane", t2_qd: "Blume",
+
+    t3_title: "Zweisilbige Wörter",
+    t3_text: "Viele Wörter haben zwei Silben. Klatsche zweimal: Blu-me 🌸, Au-to 🚗, Vo-gel 🐦.",
+    t3_b1: "Zweimal klatschen = 2 Silben.",
+    t3_inst: "Sortiere die Wörter nach Silben!",
+    t3_h1: "Klatsche: Baum (1), Au-to (2).",
+    t3_h2: "Hund(1), Maus(1) → 1 Silbe. Kat-ze(2), Blu-me(2) → 2 Silben.",
+    t3_b1l: "1 Silbe 👏", t3_b2l: "2 Silben 👏👏",
+    t3_i1: "Baum", t3_i2: "Katze", t3_i3: "Hund", t3_i4: "Auto",
+    t3_q: "Wie viele Silben hat 'Vogel'?",
+    t3_qa: "2", t3_qb: "1", t3_qc: "3", t3_qd: "4",
+
+    t4_title: "Silbenkönige (Vokale)",
+    t4_text: "Jede Silbe braucht einen 'Silbenkönig'! Das ist immer ein Vokal (A, E, I, O, U) oder ein Umlaut (Ä, Ö, Ü). Ohne Vokal gibt es keine Silbe!",
+    t4_b1: "Jede Silbe hat einen Vokal.",
+    t4_b2: "Vokale sind die Könige der Wörter 👑.",
+    t4_inst: "Finde die Silbenkönige im Wort 'Ro-se'!",
+    t4_h1: "Suche die Vokale (A,E,I,O,U) im Wort R-O-S-E.",
+    t4_h2: "O und E sind die Könige.",
+    t4_w1: "R", t4_w2: "O", t4_w3: "S", t4_w4: "E",
+    t4_q: "Was braucht jede Silbe?",
+    t4_qa: "Einen Vokal", t4_qb: "Einen Konsonanten", t4_qc: "Ein großes R", t4_qd: "Zwei Buchstaben",
+
+    t5_title: "Lange Wörter",
+    t5_text: "Einige Wörter sind sehr lang! Man muss oft klatschen. E-le-fant 🐘 hat drei Silben. Scho-ko-la-de 🍫 hat sogar vier!",
+    t5_b1: "Dreimal klatschen = 3 Silben.",
+    t5_b2: "E-le-fant, To-ma-te, Scho-ko-la-de.",
+    t5_inst: "Verbinde das Bild mit der richtigen Silbenzahl!",
+    t5_h1: "Klatsche die Wörter: Haus, Apfel, Tomate.",
+    t5_h2: "Haus (1), Apfel (2), Tomate (3).",
+    t5_l1: "🏠 Haus", t5_r1: "1 👏",
+    t5_l2: "🍎 Apfel", t5_r2: "2 👏👏",
+    t5_l3: "🍅 Tomate", t5_r3: "3 👏👏👏",
+    t5_l4: "🍫 Schokolade", t5_r4: "4 👏👏👏👏",
+    t5_q: "Wie viele Silben hat 'Schokolade'?",
+    t5_qa: "4", t5_qb: "3", t5_qc: "2", t5_qd: "5",
+
+    t6_title: "Silbenpuzzle",
+    t6_text: "Wir können Silben zusammensetzen, um neue Wörter zu bauen. Aus 'Au' und 'to' wird 'Auto'!",
+    t6_b1: "Silben bauen Wörter.",
+    t6_inst: "Welche Silbe fehlt? 'Kat - ...'",
+    t6_h1: "Das Wort heißt 'Katze'.",
+    t6_h2: "Die fehlende Silbe ist 'ze'.",
+    t6_w1: "ze", t6_w2: "to", t6_w3: "me", t6_w4: "ma",
+    t6_q: "Aus welchen Silben besteht 'Hose'?",
+    t6_qa: "Ho - se", t6_qb: "H - ose", t6_qc: "Hos - e", t6_qd: "Ho - s - e",
+
+    t7_title: "Trennung am Zeilenende",
+    t7_text: "Wenn der Platz in der Zeile nicht reicht, trennen wir Wörter. Aber Achtung: Wir trennen immer genau zwischen den Silben! ✂️",
+    t7_b1: "Trennen geht nur nach Silben.",
+    t7_b2: "Blu-me ist richtig. Bl-ume ist falsch.",
+    t7_inst: "Welche Trennung ist richtig?",
+    t7_h1: "Klatsche das Wort 'Schule': Schu - le.",
+    t7_h2: "Die Trennung 'Schu-le' ist richtig.",
+    t7_w1: "Schu-le", t7_w2: "Sch-ule", t7_w3: "Schul-e", t7_w4: "S-chule",
+    t7_q: "Wie trennt man 'Sonne' richtig?",
+    t7_qa: "Son - ne", t7_qb: "So - nne", t7_qc: "Sonn - e", t7_qd: "S - onne",
+  }
+};
+
+export const SYLLABLE_POOL: PoolTopicDef[] = [
+  // ── 1. Was ist eine Silbe? — highlight text ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "text-bubbles", items: [ { text: "Ba", color: "#B45309", bg: "#FEF3C7" }, { text: "na", color: "#047857", bg: "#D1FAE5" }, { text: "ne", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["3"], // Simplest representation
+      correctIndices: [0],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Kurze Wörter — highlight 1 syllable word ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🍎", label: "A-pfel" }, { emoji: "🏠", label: "Haus" }, { emoji: "🍫", label: "Scho-ko-la-de" } ] },
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"],
+      correctIndices: [1], // Haus is 1 syllable
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Zweisilbige Wörter — drag-to-bucket ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "two-groups", left: { items: ["Baum", "Hund"], bg: "#FEE2E2", border: "#EF4444" }, right: { items: ["Kat-ze", "Au-to"], bg: "#DBEAFE", border: "#3B82F6" } },
+    bulletKeys: ["t3_b1"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "1", label: "t3_b1l" }, { id: "2", label: "t3_b2l" }],
+      items: [
+        { text: "t3_i1", bucketId: "1" }, // Baum
+        { text: "t3_i2", bucketId: "2" }, // Katze
+        { text: "t3_i3", bucketId: "1" }, // Hund
+        { text: "t3_i4", bucketId: "2" }, // Auto
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Silbenkönige — highlight vowels ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "letter-circles", letters: ["R", "O", "S", "E"], color: "#F59E0B" },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"], // R O S E
+      correctIndices: [1, 3], // O and E
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Lange Wörter — match-pairs ────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🏠", label: "Haus" }, { emoji: "🍅", label: "To-ma-te" }, { emoji: "🐘", label: "E-le-fant" } ] },
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t5_l1", right: "t5_r1" },
+        { left: "t5_l2", right: "t5_r2" },
+        { left: "t5_l3", right: "t5_r3" },
+        { left: "t5_l4", right: "t5_r4" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Silbenpuzzle — highlight correct missing syllable ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "text-bubbles", items: [ { text: "Kat", emoji: "🐱", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "...", emoji: "❓", color: "#B45309", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t6_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t6_w1", "t6_w2", "t6_w3", "t6_w4"], // ze, to, me, ma
+      correctIndices: [0], // ze
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Trennung am Zeilenende — highlight correct separation ─────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "two-groups", left: { items: ["Schu-le", "Son-ne"], bg: "#D1FAE5", border: "#059669" }, right: { items: ["Sch-ule", "Sonn-e"], bg: "#FEE2E2", border: "#EF4444" } },
+    bulletKeys: ["t7_b1", "t7_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], // Schu-le is correct
+      correctIndices: [0],
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i3 — Wörterinsel (Words)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const WORD_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Wörterinsel",
+
+    t1_title: "Buchstaben und Wörter",
+    t1_text: "Buchstaben allein bedeuten meistens nichts. Aber zusammen bilden sie Wörter! Aus 'B-A-U-M' wird ein 'Baum' 🌳.",
+    t1_b1: "Buchstaben = A, B, C",
+    t1_b2: "Wort = Auto, Katze",
+    t1_inst: "Sortiere: Ist es ein Buchstabe oder ein Wort?",
+    t1_h1: "Ein Wort besteht aus mehreren Buchstaben.",
+    t1_h2: "'M' ist ein Buchstabe. 'Maus' ist ein Wort.",
+    t1_bw: "Wort 📝", t1_bb: "Buchstabe 🔤",
+    t1_i1: "A", t1_i2: "Hund", t1_i3: "O", t1_i4: "Sonne",
+    t1_q: "Was ist 'Katze'?",
+    t1_qa: "Ein Wort", t1_qb: "Ein Buchstabe", t1_qc: "Eine Zahl", t1_qd: "Eine Silbe",
+
+    t2_title: "Namenwörter (Nomen)",
+    t2_text: "Wörter für Menschen, Tiere und Dinge nennen wir Namenwörter (oder Nomen). Namenwörter schreiben wir am Anfang immer GROSS!",
+    t2_b1: "Menschen, Tiere, Dinge = Nomen.",
+    t2_b2: "Nomen schreibt man GROSS.",
+    t2_inst: "Welches Wort ist ein Namenwort (Tier)?",
+    t2_h1: "Suche das Tier. Es wird großgeschrieben.",
+    t2_h2: "Der 'Vogel' ist ein Tier.",
+    t2_w1: "und", t2_w2: "Vogel", t2_w3: "klein", t2_w4: "schnell",
+    t2_q: "Wie schreiben wir Namenwörter (Nomen)?",
+    t2_qa: "Am Anfang groß", t2_qb: "Am Anfang klein", t2_qc: "Alles groß", t2_qd: "Alles klein",
+
+    t3_title: "Die drei Fahnen (Artikel)",
+    t3_text: "Jedes Namenwort hat eine kleine Fahne, die davor steht: der Begleiter (Artikel). Es gibt drei wichtige Begleiter: DER, DIE und DAS.",
+    t3_b1: "der (männlich) 🔵",
+    t3_b2: "die (weiblich) 🔴",
+    t3_b3: "das (sächlich) 🟢",
+    t3_inst: "Finde den Begleiter (Artikel) im Text!",
+    t3_h1: "Suche das Wörtchen 'der', 'die' oder 'das'.",
+    t3_h2: "'das' ist der Begleiter von Auto.",
+    t3_w1: "Hier", t3_w2: "fährt", t3_w3: "das", t3_w4: "Auto",
+    t3_q: "Welches Wort ist ein Begleiter (Artikel)?",
+    t3_qa: "die", t3_qb: "Haus", t3_qc: "und", t3_qd: "ich",
+
+    t4_title: "Wörter verbinden",
+    t4_text: "Manchmal können sich zwei Namenwörter an den Händen halten und ein neues Wort bilden! Baum 🌳 + Haus 🏠 = Baumhaus.",
+    t4_b1: "Zwei Wörter werden zu einem.",
+    t4_b2: "Hund + Hütte = Hundehütte.",
+    t4_inst: "Verbinde die Wörter richtig!",
+    t4_h1: "Welches Tier passt zu welchem Haus?",
+    t4_h2: "Vogel + Haus = Vogelhaus.",
+    t4_l1: "Baum", t4_r1: "Haus",
+    t4_l2: "Hund", t4_r2: "Hütte",
+    t4_l3: "Eis", t4_r3: "Bär",
+    t4_l4: "Schnee", t4_r4: "Mann",
+    t4_q: "Aus welchen Wörtern besteht 'Regenschirm'?",
+    t4_qa: "Regen + Schirm", t4_qb: "Re + Gen + Schirm", t4_qc: "Reg + Enschirm", t4_qd: "Regen + Sonne",
+
+    t5_title: "Menschen, Tiere, Dinge",
+    t5_text: "Namenwörter können Menschen (Oma), Tiere (Hund) oder Dinge (Tisch) sein. Kannst du sie richtig einordnen?",
+    t5_b1: "Mensch: Opa, Baby",
+    t5_b2: "Tier: Katze, Maus",
+    t5_b3: "Ding: Stuhl, Ball",
+    t5_inst: "Ist es ein Tier oder ein Ding?",
+    t5_h1: "Lebt es oder ist es ein Gegenstand?",
+    t5_h2: "Hase und Bär sind Tiere. Ball und Auto sind Dinge.",
+    t5_bt: "Tier 🐾", t5_bd: "Ding 📦",
+    t5_i1: "Hase", t5_i2: "Ball", t5_i3: "Bär", t5_i4: "Auto",
+    t5_q: "Was ist ein 'Apfel'?",
+    t5_qa: "Ein Ding (Pflanze)", t5_qb: "Ein Tier", t5_qc: "Ein Mensch", t5_qd: "Ein Begleiter",
+
+    t6_title: "Wörter zählen",
+    t6_text: "Wörter in einem Satz stehen nie direkt zusammen. Zwischen jedem Wort ist eine kleine Pause: das Leerzeichen! So können wir sie zählen.",
+    t6_b1: "Zwischen Wörtern ist Platz (Leerzeichen).",
+    t6_b2: "'Der Hund bellt.' = 3 Wörter.",
+    t6_inst: "Wie viele Wörter hat dieser Satz: 'Ich sehe den Mond.'?",
+    t6_h1: "Zähle jedes Wort einzeln: Ich (1) sehe (2)...",
+    t6_h2: "Es sind genau 4 Wörter.",
+    t6_w1: "Ich", t6_w2: "sehe", t6_w3: "den", t6_w4: "Mond",
+    t6_q: "Wie viele Wörter hat der Satz: 'Die Katze schläft.'?",
+    t6_qa: "3", t6_qb: "2", t6_qc: "4", t6_qd: "5",
+
+    t7_title: "Sinnvolle Wörter",
+    t7_text: "Nicht jede Buchstabenreihe ist ein Wort. 'Blu-me' bedeutet etwas. 'Xy-lo-pff' ist Quatsch!",
+    t7_b1: "Echte Wörter haben eine Bedeutung.",
+    t7_b2: "Quatschwörter bedeuten nichts.",
+    t7_inst: "Finde das Quatschwort!",
+    t7_h1: "Welches Wort gibt es nicht in echt?",
+    t7_h2: "'Blork' ist kein echtes Wort.",
+    t7_w1: "Hund", t7_w2: "Blork", t7_w3: "Baum", t7_w4: "Haus",
+    t7_q: "Welches ist ein echtes Wort?",
+    t7_qa: "Sonne", t7_qb: "Rmpf", t7_qc: "Lululu", t7_qd: "Ktz",
+  }
+};
+
+export const WORD_POOL: PoolTopicDef[] = [
+  // ── 1. Buchstaben vs Wörter — drag-to-bucket ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "two-groups", left: { items: ["A", "O"], bg: "#FEF3C7", border: "#D97706" }, right: { items: ["Auto", "Oma"], bg: "#D1FAE5", border: "#059669" } },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "w", label: "t1_bw" }, { id: "b", label: "t1_bb" }],
+      items: [
+        { text: "t1_i1", bucketId: "b" }, // A
+        { text: "t1_i2", bucketId: "w" }, // Hund
+        { text: "t1_i3", bucketId: "b" }, // O
+        { text: "t1_i4", bucketId: "w" }, // Sonne
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Namenwörter (Großschreibung) — highlight text ───────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "text-bubbles", items: [ { text: "und", color: "#6B7280", bg: "#F3F4F6" }, { text: "Vogel", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "klein", color: "#6B7280", bg: "#F3F4F6" } ] },
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"],
+      correctIndices: [1], // Vogel
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Die drei Fahnen (Artikel) — highlight text ─────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔵", label: "der" }, { emoji: "🔴", label: "die" }, { emoji: "🟢", label: "das" } ] },
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Hier fährt das Auto
+      correctIndices: [2], // das
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Wörter verbinden — match-pairs ──────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "letter-pairs", pairs: [["Baum", "Haus"], ["Eis", "Bär"]], color: "#059669", dimColor: "#A7F3D0" },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+        { left: "t4_l4", right: "t4_r4" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Tier oder Ding? — drag-to-bucket ────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "two-groups", left: { items: ["Katze", "Hund"], bg: "#FEF3C7", border: "#D97706" }, right: { items: ["Tisch", "Buch"], bg: "#E0E7FF", border: "#4F46E5" } },
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "t", label: "t5_bt" }, { id: "d", label: "t5_bd" }],
+      items: [
+        { text: "t5_i1", bucketId: "t" }, // Hase
+        { text: "t5_i2", bucketId: "d" }, // Ball
+        { text: "t5_i3", bucketId: "t" }, // Bär
+        { text: "t5_i4", bucketId: "d" }, // Auto
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Wörter zählen — highlight text ─────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "letter-circles", letters: ["1", "2", "3", "4"], color: "#8B5CF6" },
+    bulletKeys: ["t6_b1", "t6_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t6_w1", "t6_w2", "t6_w3", "t6_w4"], // Ich sehe den Mond
+      correctIndices: [0, 1, 2, 3], // highlight all to "count" them
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Quatschwörter — highlight text ──────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "text-bubbles", items: [ { text: "Baum", color: "#047857", bg: "#D1FAE5" }, { text: "Blork", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t7_b1", "t7_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], // Hund, Blork, Baum, Haus
+      correctIndices: [1], // Blork is fake
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i4 — Reiminsel (Rhymes)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const RHYME_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Reiminsel",
+
+    t1_title: "Was ist ein Reim?",
+    t1_text: "Wenn zwei Wörter am Ende genau gleich klingen, dann reimen sie sich! Maus 🐭 und Haus 🏠 reimen sich. Höre genau hin!",
+    t1_b1: "Reimwörter klingen am Ende gleich.",
+    t1_b2: "Maus - Haus, Hund - Mund.",
+    t1_inst: "Welches Wort reimt sich auf 'Maus'?",
+    t1_h1: "Es muss am Ende wie '-aus' klingen.",
+    t1_h2: "Maus reimt sich auf Haus.",
+    t1_w1: "Haus", t1_w2: "Katze", t1_w3: "Käse", t1_w4: "Baum",
+    t1_q: "Was machen Reimwörter?",
+    t1_qa: "Sie klingen am Ende gleich", t1_qb: "Sie haben dieselbe Farbe", t1_qc: "Sie fangen mit dem gleichen Buchstaben an", t1_qd: "Sie sind immer Tiere",
+
+    t2_title: "Reim-Paare finden",
+    t2_text: "Ein Reim-Paar sind zwei Wörter, die dicke Freunde sind, weil sie so ähnlich klingen. Hase und Nase sind ein tolles Paar!",
+    t2_b1: "Hase reimt sich auf Nase.",
+    t2_b2: "Baum reimt sich auf Traum.",
+    t2_inst: "Verbinde die Wörter, die sich reimen!",
+    t2_h1: "Sprich die Wörter laut.",
+    t2_h2: "Hase-Nase, Baum-Traum, Hund-Mund.",
+    t2_l1: "Hase", t2_r1: "Nase",
+    t2_l2: "Baum", t2_r2: "Traum",
+    t2_l3: "Hund", t2_r3: "Mund",
+    t2_l4: "Tanne", t2_r4: "Kanne",
+    t2_q: "Welches Wort reimt sich auf 'Hund'?",
+    t2_qa: "Mund", t2_qb: "Katze", t2_qc: "Knochen", t2_qd: "Wald",
+
+    t3_title: "Das passt nicht!",
+    t3_text: "Manchmal versteckt sich ein Wort, das überhaupt nicht reimt. Das ist der Quatschmacher in der Gruppe!",
+    t3_b1: "Drei Wörter reimen sich.",
+    t3_b2: "Ein Wort klingt ganz anders.",
+    t3_inst: "Finde das Wort, das sich NICHT reimt!",
+    t3_h1: "Drei Wörter enden auf '-ose'.",
+    t3_h2: "'Baum' reimt sich nicht auf Hose, Rose und Dose.",
+    t3_w1: "Hose", t3_w2: "Rose", t3_w3: "Baum", t3_w4: "Dose",
+    t3_q: "Warum passt 'Baum' nicht zu 'Rose'?",
+    t3_qa: "Es klingt am Ende anders", t3_qb: "Es ist zu groß", t3_qc: "Es hat weniger Buchstaben", t3_qd: "Es ist ein Ding",
+
+    t4_title: "Tier-Reime",
+    t4_text: "Auch unsere Lieblingstiere können reimen! Weißt du, was sich auf 'Bär' reimt? Oder auf 'Schwein'?",
+    t4_b1: "Bär reimt sich auf schwer.",
+    t4_b2: "Schwein reimt sich auf klein.",
+    t4_inst: "Verbinde das Tier mit dem passenden Reim!",
+    t4_h1: "Was reimt sich auf Bär? Schwer!",
+    t4_h2: "Schwein-klein, Kuh-Schuh.",
+    t4_l1: "Bär", t4_r1: "schwer",
+    t4_l2: "Schwein", t4_r2: "klein",
+    t4_l3: "Kuh", t4_r3: "Schuh",
+    t4_l4: "Maus", t4_r4: "Haus",
+    t4_q: "Was reimt sich auf 'Kuh'?",
+    t4_qa: "Schuh", t4_qb: "Milch", t4_qc: "Gras", t4_qd: "Muuuh",
+
+    t5_title: "Kurze Reime",
+    t5_text: "Kleine Wörter können auch reimen! Tee ☕ und See 🌊 sind nur drei Buchstaben lang, aber ein perfektes Reim-Paar.",
+    t5_b1: "See reimt sich auf Tee.",
+    t5_b2: "Eis reimt sich auf heiß.",
+    t5_inst: "Welches Wort reimt sich auf 'Eis'?",
+    t5_h1: "Es endet auf den gleichen Klang.",
+    t5_h2: "Eis - heiß.",
+    t5_w1: "kalt", t5_w2: "heiß", t5_w3: "Schnee", t5_w4: "Winter",
+    t5_q: "Welches Wort reimt sich auf 'See'?",
+    t5_qa: "Tee", t5_qb: "Wasser", t5_qc: "Boot", t5_qd: "Fisch",
+
+    t6_title: "Bilder-Reime",
+    t6_text: "Manchmal haben wir keine Buchstaben, sondern nur Bilder. Aber wenn wir sie laut aussprechen, hören wir den Reim!",
+    t6_b1: "Sprich das Bild laut aus.",
+    t6_b2: "👑 (Krone) reimt sich auf 🍋 (Zitrone).",
+    t6_inst: "Verbinde die Bilder, die sich reimen!",
+    t6_h1: "Krone - Zitrone, Haus - Maus.",
+    t6_h2: "Stern - Laterne (Nein!), Stern - gern.",
+    t6_l1: "👑 Krone", t6_r1: "🍋 Zitrone",
+    t6_l2: "🏠 Haus", t6_r2: "🐭 Maus",
+    t6_l3: "👻 Geist", t6_r3: "🍦 Eis",
+    t6_l4: "🔥 Feuer", t6_r4: "👹 Ungeheuer",
+    t6_q: "Was reimt sich auf das Bild 🏠 (Haus)?",
+    t6_qa: "🐭 Maus", t6_qb: "🌳 Baum", t6_qc: "🚗 Auto", t6_qd: "☀️ Sonne",
+
+    t7_title: "Reime sortieren",
+    t7_text: "Können wir Wörter in Reim-Familien sortieren? Alle Wörter, die auf '-aus' enden, gehören in ein Haus. Alle, die auf '-und' enden, zum Hund!",
+    t7_b1: "Familie '-aus': Maus, Raus.",
+    t7_b2: "Familie '-und': Mund, Rund.",
+    t7_inst: "Sortiere die Wörter in die richtige Reim-Familie!",
+    t7_h1: "Hört es sich an wie Maus oder wie Hund?",
+    t7_h2: "Mund und rund gehören zum Hund.",
+    t7_ba: "Wie Haus 🏠", t7_bb: "Wie Hund 🐶",
+    t7_i1: "Maus", t7_i2: "Mund", t7_i3: "raus", t7_i4: "rund",
+    t7_q: "In welche Familie gehört 'Applaus'?",
+    t7_qa: "Wie Haus", t7_qb: "Wie Hund", t7_qc: "Wie Baum", t7_qd: "Wie Katze",
+  }
+};
+
+export const RHYME_POOL: PoolTopicDef[] = [
+  // ── 1. Was ist ein Reim? — highlight text ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "text-bubbles", items: [ { text: "Maus", emoji: "🐭", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "Haus", emoji: "🏠", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4"], // Haus, Katze, Käse, Baum
+      correctIndices: [0], // Haus
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Reim-Paare finden — match-pairs ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "letter-pairs", pairs: [["Hase", "Nase"], ["Hund", "Mund"]], color: "#D97706", dimColor: "#FDE68A" },
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+        { left: "t2_l4", right: "t2_r4" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Das passt nicht! — highlight text (Odd one out) ────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "letter-circles", letters: ["Hose", "Rose", "Dose", "Baum"], color: "#EF4444" },
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Hose, Rose, Baum, Dose
+      correctIndices: [2], // Baum does not rhyme
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Tier-Reime — match-pairs ───────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🐻", label: "Bär" }, { emoji: "🐷", label: "Schwein" }, { emoji: "🐮", label: "Kuh" } ] },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+        { left: "t4_l4", right: "t4_r4" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Kurze Reime — highlight text ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "text-bubbles", items: [ { text: "Eis", emoji: "🍦", color: "#0EA5E9", bg: "#E0F2FE" }, { text: "heiß", emoji: "🔥", color: "#DC2626", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], // kalt, heiß, Schnee, Winter
+      correctIndices: [1], // heiß
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Bilder-Reime — match-pairs ──────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "icon-grid", items: [ { emoji: "👑", label: "Krone" }, { emoji: "🍋", label: "Zitrone" } ] },
+    bulletKeys: ["t6_b1", "t6_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t6_l1", right: "t6_r1" },
+        { left: "t6_l2", right: "t6_r2" },
+        { left: "t6_l3", right: "t6_r3" },
+        { left: "t6_l4", right: "t6_r4" },
+      ],
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Reime sortieren — drag-to-bucket ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "two-groups", left: { items: ["Haus", "aus"], bg: "#FEF3C7", border: "#D97706" }, right: { items: ["Hund", "rund"], bg: "#E0E7FF", border: "#4F46E5" } },
+    bulletKeys: ["t7_b1", "t7_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "a", label: "t7_ba" }, { id: "u", label: "t7_bb" }],
+      items: [
+        { text: "t7_i1", bucketId: "a" }, // Maus -> Haus
+        { text: "t7_i2", bucketId: "u" }, // Mund -> Hund
+        { text: "t7_i3", bucketId: "a" }, // raus -> Haus
+        { text: "t7_i4", bucketId: "u" }, // rund -> Hund
+      ],
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i5 — Satzinsel (Sentences)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const SENTENCE_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Satzinsel",
+
+    t1_title: "Was ist ein Satz?",
+    t1_text: "Ein Satz ist wie eine kleine Geschichte. Er fängt immer mit einem GROSSEN Buchstaben an und hört meistens mit einem Punkt (.) auf.",
+    t1_b1: "Satzanfang = Großbuchstabe",
+    t1_b2: "Satzende = Punkt (.)",
+    t1_inst: "Finde den Satzanfang!",
+    t1_h1: "Der erste Buchstabe im Satz muss groß sein.",
+    t1_h2: "Das 'D' in 'Der' ist groß.",
+    t1_w1: "Der", t1_w2: "Hund", t1_w3: "spielt", t1_w4: "im", t1_w5: "Garten.",
+    t1_q: "Wie endet ein normaler Erzählsatz?",
+    t1_qa: "Mit einem Punkt (.)", t1_qb: "Mit einem Komma (,)", t1_qc: "Mit einer Zahl", t1_qd: "Gar nicht",
+
+    t2_title: "Das Satzende (Punkt)",
+    t2_text: "Der Punkt (.) sagt uns: 'Hier ist der Satz fertig. Mach eine kleine Pause beim Lesen!'",
+    t2_b1: "Der Punkt (.) schließt den Satz ab.",
+    t2_inst: "Wo gehört der Punkt hin?",
+    t2_h1: "Der Punkt kommt immer ganz ans Ende.",
+    t2_h2: "Nach dem Wort 'schläft' ist der Satz zu Ende.",
+    t2_w1: "Die", t2_w2: "Katze", t2_w3: "schläft", t2_w4: ".",
+    t2_q: "Wo steht das Satzzeichen?",
+    t2_qa: "Am Ende des Satzes", t2_qb: "Am Anfang", t2_qc: "In der Mitte", t2_qd: "Unter dem Wort",
+
+    t3_title: "Fragesätze (?)",
+    t3_text: "Wenn wir etwas wissen wollen, stellen wir eine Frage. Dann benutzen wir ein Fragezeichen (?). Die Stimme geht am Ende nach oben!",
+    t3_b1: "Fragen enden mit (?)",
+    t3_b2: "Wer? Wie? Was? Wo?",
+    t3_inst: "Welches Satzzeichen passt hier: 'Wie geht es dir'?",
+    t3_h1: "Das ist eine Frage, also brauchen wir das Fragezeichen.",
+    t3_h2: "Das Zeichen (?) ist richtig.",
+    t3_w1: ".", t3_w2: "?", t3_w3: "!", t3_w4: ",",
+    t3_q: "Welches Wort leitet oft eine Frage ein?",
+    t3_qa: "Wer", t3_qb: "und", t3_qc: "ist", t3_qd: "nicht",
+
+    t4_title: "Wörter ordnen",
+    t4_text: "In einem Satz dürfen die Wörter nicht purzeln! Sie müssen in der richtigen Reihenfolge stehen, damit wir sie verstehen.",
+    t4_b1: "Die Reihenfolge ist wichtig.",
+    t4_b2: "Ich - esse - Apfel (Richtig!). Apfel - ich - esse (Falsch!).",
+    t4_inst: "Welcher Satz ist richtig gebaut?",
+    t4_h1: "Wer macht was? 'Ich spiele Ball.'",
+    t4_h2: "'Ich spiele Ball' ergibt Sinn.",
+    t4_w1: "Ich spiele Ball.", t4_w2: "Ball spiele Ich.", t4_w3: "Spiele Ball Ich.", t4_w4: "Ich Ball spiele.",
+    t4_q: "Was passiert, wenn man Wörter im Satz vertauscht?",
+    t4_qa: "Der Satz ist schwer zu verstehen", t4_qb: "Nichts passiert", t4_qc: "Die Buchstaben werden kleiner", t4_qd: "Der Punkt verschwindet",
+
+    t5_title: "Punkt oder Fragezeichen?",
+    t5_text: "Erzählen wir etwas (Punkt) oder fragen wir etwas (Fragezeichen)? Du musst entscheiden!",
+    t5_b1: "Aussage = Punkt (.)",
+    t5_b2: "Frage = Fragezeichen (?)",
+    t5_inst: "Sortiere: Gehört ein Punkt vagy Fragezeichen am Ende?",
+    t5_h1: "Ist es eine Information oder eine Frage?",
+    t5_h2: "'Ich bin groß.' (Punkt). 'Bist du groß?' (Fragezeichen).",
+    t5_bp: "Punkt (.) 🔵", t5_bf: "Fragezeichen (?) 🔴",
+    t5_i1: "Ich heiße Tim.", t5_i2: "Wie heißt du?", t5_i3: "Es regnet.", t5_i4: "Regnet es?",
+    t5_q: "Was kommt nach 'Wo ist mein Teddy'?",
+    t5_qa: "Ein Fragezeichen (?)", t5_qb: "Ein Punkt (.)", t5_qc: "Ein Ausrufezeichen (!)", t5_qd: "Nichts",
+
+    t6_title: "Ausrufezeichen (!)",
+    t6_text: "Das Ausrufezeichen (!) benutzen wir, wenn wir etwas laut rufen, befehlen oder wenn etwas ganz wichtig ist: 'Stopp!' 🛑 vagy 'Hilfe!' 🆘",
+    t6_b1: "Rufen oder Befehlen.",
+    t6_b2: "Wichtiges hervorheben.",
+    t6_inst: "Welches Wort braucht ein Ausrufezeichen!",
+    t6_h1: "Suche das Wort, das man laut ruft.",
+    t6_h2: "'Halt!' ruft man laut.",
+    t6_w1: "und", t6_w2: "Halt", t6_w3: "leise", t6_w4: "vielleicht",
+    t6_q: "Was zeigt ein Ausrufezeichen (!) an?",
+    t6_qa: "Dass man laut ruft oder befiehlt", t6_qb: "Dass man eine Frage stellt", t6_qc: "Dass der Satz ganz lang ist", t6_qd: "Dass man flüstert",
+
+    t7_title: "Satz-Detektiv",
+    t7_text: "Ein echter Satz-Detektiv sieht sofort, ob ein Satz gesund ist (Groß am Anfang, Zeichen am Ende) oder ob er Hilfe braucht!",
+    t7_b1: "Anfang groß?",
+    t7_b2: "Ende mit Zeichen?",
+    t7_inst: "Finde den fehlerfreien Satz!",
+    t7_h1: "Achte auf den großen Buchstaben am Anfang.",
+    t7_h2: "'Die Sonne scheint.' ist perfekt.",
+    t7_w1: "die Sonne scheint.", t7_w2: "Die Sonne scheint", t7_w3: "Die Sonne scheint.", t7_w4: "die sonne scheint",
+    t7_q: "Was fehlt hier: 'ich gehe nach hause'?",
+    t7_qa: "Großbuchstabe und Punkt", t7_qb: "Nur der Punkt", t7_qc: "Nur der Großbuchstabe", t7_qd: "Nichts fehlt",
+  }
+};
+
+export const SENTENCE_POOL: PoolTopicDef[] = [
+  // ── 1. Was ist ein Satz? — highlight sentence start ──────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "text-bubbles", items: [ { text: "ABC...", emoji: "✍️", color: "#1D4ED8", bg: "#DBEAFE" }, { text: ".", emoji: "🏁", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4", "t1_w5"], // Der Hund spielt im Garten.
+      correctIndices: [0], // Der
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Das Satzende — highlight punctuation ─────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🛑", label: "Punkt = Stopp" } ] },
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"], // Die Katze schläft .
+      correctIndices: [3], // .
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Fragesätze (?) — highlight correct sign ──────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "letter-circles", letters: ["?", ".", "!"], color: "#EF4444" },
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // . ? ! ,
+      correctIndices: [1], // ?
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Wörter ordnen — highlight correct sentence ───────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "two-groups", left: { items: ["Ich", "spiele", "Ball"], bg: "#D1FAE5", border: "#059669" }, right: { items: ["Ball", "Ich", "spiele"], bg: "#FEE2E2", border: "#EF4444" } },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctIndices: [0],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Punkt vagy Fragezeichen? — drag-to-bucket ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "icon-grid", items: [ { emoji: "💬", label: "." }, { emoji: "❓", label: "?" } ] },
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "p", label: "t5_bp" }, { id: "f", label: "t5_bf" }],
+      items: [
+        { text: "t5_i1", bucketId: "p" },
+        { text: "t5_i2", bucketId: "f" },
+        { text: "t5_i3", bucketId: "p" },
+        { text: "t5_i4", bucketId: "f" },
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Ausrufezeichen (!) — highlight text ─────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "text-bubbles", items: [ { text: "Stopp!", emoji: "🛑", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t6_b1", "t6_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t6_w1", "t6_w2", "t6_w3", "t6_w4"], // und, Halt, leise, vielleicht
+      correctIndices: [1], // Halt
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Satz-Detektiv — highlight correct option ────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "letter-pairs", pairs: [["A", "."], ["a", "X"]], color: "#7C3AED", dimColor: "#C4B5FD" },
+    bulletKeys: ["t7_b1", "t7_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"],
+      correctIndices: [2], // Die Sonne scheint.
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i6 — Bilderinsel (Vocabulary)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const BILDER_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Bilderinsel",
+
+    t1_title: "Wörter für Dinge",
+    t1_text: "Alles, was wir sehen können, hat einen Namen! 🍎 Apfel, 🚗 Auto, 🏠 Haus. Diese Wörter helfen uns, die Welt zu beschreiben.",
+    t1_b1: "Dinge haben Namen.",
+    t1_b2: "Schau dir das Bild genau an.",
+    t1_inst: "Welches Wort passt zum Bild 🍎?",
+    t1_h1: "Das Bild zeigt eine Frucht.",
+    t1_h2: "Es ist ein Apfel.",
+    t1_w1: "Apfel", t1_w2: "Auto", t1_w3: "Hund", t1_w4: "Buch",
+    t1_q: "Was zeigt das Bild 🏠?",
+    t1_qa: "Haus", t1_qb: "Baum", t1_qc: "Schule", t1_qd: "Mond",
+
+    t2_title: "Wörter für Tiere",
+    t2_text: "Tiere sind lebendige Wesen. Jedes Tier hat seinen eigenen Namen: 🐱 Katze, 🐶 Hund, 🐭 Maus. Kannst du sie alle erkennen?",
+    t2_b1: "Tiere erkennen und benennen.",
+    t2_inst: "Verbinde das Tier mit seinem Namen!",
+    t2_h1: "Miau macht die Katze, Wuff macht der Hund.",
+    t2_h2: "🐱-Katze, 🐶-Hund, 🐭-Maus.",
+    t2_l1: "🐱 Katze", t2_r1: "Katze",
+    t2_l2: "🐶 Hund",  t2_r2: "Hund",
+    t2_l3: "🐭 Maus",  t2_r3: "Maus",
+    t2_l4: "🐘 Elefant", t2_r4: "Elefant",
+    t2_q: "Welches Tier macht 'Miau'?",
+    t2_qa: "Katze", t2_qb: "Hund", t2_qc: "Maus", t2_qd: "Elefant",
+
+    t3_title: "Was machen wir? (Verben)",
+    t3_text: "Bilder können uns auch zeigen, was jemand gerade macht. Wir nennen diese Wörter Tunwörter: 🏃 rennen, 😴 schlafen, 🎨 malen.",
+    t3_b1: "Tunwörter zeigen Aktionen.",
+    t3_b2: "Was macht das Kind auf dem Bild?",
+    t3_inst: "Welches Wort passt zur Aktion 🏃?",
+    t3_h1: "Das Kind bewegt sich sehr schnell.",
+    t3_h2: "Das Wort ist 'rennen'.",
+    t3_w1: "schlafen", t3_w2: "rennen", t3_w3: "essen", t3_w4: "lesen",
+    t3_q: "Was zeigt das Bild 😴?",
+    t3_qa: "schlafen", t3_qb: "laufen", t3_qc: "singen", t3_qd: "lachen",
+
+    t4_title: "Farben entdecken",
+    t4_text: "Die Welt ist bunt! ❤️ Rot wie eine Erdbeere, 💙 Blau wie das Meer, 💛 Gelb wie die Sonne. Kennst du alle Farben?",
+    t4_b1: "Farben benennen.",
+    t4_b2: "Rot, Blau, Gelb, Grün.",
+    t4_inst: "Verbinde die Farbe mit dem passenden Ding!",
+    t4_h1: "Was ist rot? Eine Erdbeere!",
+    t4_h2: "❤️-Erdbeere, 💙-Meer, 💛-Sonne.",
+    t4_l1: "❤️ Rot", t4_r1: "Erdbeere",
+    t4_l2: "💙 Blau", t4_r2: "Meer",
+    t4_l3: "💛 Gelb", t4_r3: "Sonne",
+    t4_l4: "💚 Grün", t4_r4: "Gras",
+    t4_q: "Welche Farbe hat eine Banane?",
+    t4_qa: "Gelb", t4_qb: "Rot", t4_qc: "Blau", t4_qd: "Schwarz",
+
+    t5_title: "Was passt zusammen?",
+    t5_text: "Einige Dinge gehören einfach zusammen. 🧤 Handschuhe passen zu den Händen, 👞 Schuhe zu den Füßen.",
+    t5_b1: "Dinge kombinieren.",
+    t5_b2: "Was braucht man wofür?",
+    t5_inst: "Sortiere: Was gehört zum Kopf und was zu den Füßen?",
+    t5_h1: "Eine Mütze trägt man oben.",
+    t5_h2: "Mütze/Brille -> Kopf. Socken/Schuhe -> Füße.",
+    t5_bk: "Kopf 👤", t5_bf: "Füße 👣",
+    t5_i1: "Mütze", t5_i2: "Socke", t5_i3: "Brille", t5_i4: "Schuh",
+    t5_q: "Was trägt man an den Händen?",
+    t5_qa: "Handschuhe", t5_qb: "Hut", t5_qc: "Hose", t5_qd: "Schal",
+
+    t6_title: "Oberbegriffe finden",
+    t6_text: "Wir können Dinge in Gruppen ordnen. 🍎 Apfel és 🍌 Banane sind beides 'Obst'. 🚗 Auto és 🚲 Fahrrad sind 'Fahrzeuge'.",
+    t6_b1: "Gruppen bilden.",
+    t6_inst: "Welches Wort passt NICHT in die Gruppe 'Obst'?",
+    t6_h1: "Drei Wörter sind Früchte.",
+    t6_h2: "'Hund' ist ein Tier, kein Obst.",
+    t6_w1: "Apfel", t6_w2: "Banane", t3_w3: "Hund", t4_w4: "Birne",
+    t6_q: "Was ist ein Oberbegriff für 'Auto, Bus, LKW'?",
+    t6_qa: "Fahrzeuge", t6_qb: "Tiere", t6_qc: "Essen", t6_qd: "Möbel",
+
+    t7_title: "Gegenteile",
+    t7_text: "Manche Bilder zeigen genau das Gegenteil: ☀️ Tag und 🌙 Nacht, 🐘 groß und 🐭 klein.",
+    t7_b1: "Gegenteile erkennen.",
+    t7_inst: "Verbinde die Gegenteile!",
+    t7_h1: "Was ist das Gegenteil von 'groß'?",
+    t7_h2: "Groß - klein, Tag - Nacht.",
+    t7_l1: "groß 🐘", t7_r1: "klein 🐭",
+    t7_l2: "Tag ☀️",  t7_r2: "Nacht 🌙",
+    t7_l3: "heiß 🔥", t7_r3: "kalt ❄️",
+    t7_l4: "lachen 😄", t7_r4: "weinen 😢",
+    t7_q: "Was ist das Gegenteil von 'kalt'?",
+    t7_qa: "heiß", t7_qb: "nass", t7_qc: "dunkel", t7_qd: "klein",
+  }
+};
+
+export const BILDER_POOL: PoolTopicDef[] = [
+  // ── 1. Wörter für Dinge — highlight text ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🍎", label: "Apfel" }, { emoji: "🚗", label: "Auto" }, { emoji: "🏠", label: "Haus" } ] },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4"], // Apfel, Auto, Hund, Buch
+      correctIndices: [0], // Apfel
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Wörter für Tiere — match-pairs ────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🐱", label: "Katze" }, { emoji: "🐶", label: "Hund" }, { emoji: "🐘", label: "Elefant" } ] },
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+        { left: "t2_l4", right: "t2_r4" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Was machen wir? (Verben) — highlight text ──────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "text-bubbles", items: [ { text: "rennen", emoji: "🏃", color: "#B91C1C", bg: "#FEE2E2" }, { text: "schlafen", emoji: "😴", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // schlafen, rennen, essen, lesen
+      correctIndices: [1], // rennen
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Farben entdecken — match-pairs ────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "letter-circles", letters: ["R", "B", "G"], color: "#EF4444" },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t4_l1", right: "t4_r1" },
+        { left: "t4_l2", right: "t4_r2" },
+        { left: "t4_l3", right: "t4_r3" },
+        { left: "t4_l4", right: "t4_r4" },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Was passt zusammen? — drag-to-bucket ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "two-groups", left: { items: ["Hut", "Brille"], bg: "#E0F2FE", border: "#0EA5E9" }, right: { items: ["Socke", "Schuh"], bg: "#FEF3C7", border: "#D97706" } },
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "k", label: "t5_bk" }, { id: "f", label: "t5_bf" }],
+      items: [
+        { text: "t5_i1", bucketId: "k" }, // Mütze -> Kopf
+        { text: "t5_i2", bucketId: "f" }, // Socke -> Füße
+        { text: "t5_i3", bucketId: "k" }, // Brille -> Kopf
+        { text: "t5_i4", bucketId: "f" }, // Schuh -> Füße
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Oberbegriffe (Odd one out) — highlight text ─────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🍎", label: "Obst" }, { emoji: "🐶", label: "Tier" } ] },
+    bulletKeys: ["t6_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t6_w1", "t6_w2", "t3_w3", "t4_w4"], // Apfel, Banane, Hund, Birne
+      correctIndices: [2], // Hund is not fruit
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Gegenteile — match-pairs ───────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "letter-pairs", pairs: [["☀️", "🌙"], ["🐘", "🐭"]], color: "#10B981", dimColor: "#D1FAE5" },
+    bulletKeys: ["t7_b1"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t7_l1", right: "t7_r1" },
+        { left: "t7_l2", right: "t7_r2" },
+        { left: "t7_l3", right: "t7_r3" },
+        { left: "t7_l4", right: "t7_r4" },
+      ],
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i7 — Artikelinsel (Articles: der, die, das)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const ARTIKEL_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Artikelinsel",
+
+    t1_title: "Die drei Begleiter",
+    t1_text: "Namenwörter (Nomen) haben fast immer einen kleinen Begleiter bei sich. Wir nennen sie Artikel. Es gibt drei: DER, DIE und DAS.",
+    t1_b1: "der (männlich) — blau 🔵",
+    t1_b2: "die (weiblich) — rot 🔴",
+    t1_b3: "das (sächlich) — grün 🟢",
+    t1_inst: "Welcher Artikel ist blau (männlich)?",
+    t1_h1: "Blau gehört immer zu 'der'.",
+    t1_h2: "Das Wort ist 'der'.",
+    t1_w1: "der", t1_w2: "die", t1_w3: "das", t1_w4: "ein",
+    t1_q: "Welche Farbe hat der Artikel 'die'?",
+    t1_qa: "Rot", t1_qb: "Blau", t1_qc: "Grün", t1_qd: "Gelb",
+
+    t2_title: "Der — Der blaue Turm",
+    t2_text: "Viele Wörter gehören zum blauen Turm (der). Zum Beispiel: der Hund 🐶, der Mond 🌙, der Tisch 🪑.",
+    t2_b1: "Begleiter: der",
+    t2_b2: "Farbe: blau",
+    t2_inst: "Welches Wort passt zu 'der'?",
+    t2_h1: "Sprich es laut: 'der ...'",
+    t2_h2: "Es heißt 'der Hund'.",
+    t2_w1: "Haus", t2_w2: "Hund", t2_w3: "Sonne", t2_w4: "Auto",
+    t2_q: "Was ist richtig?",
+    t2_qa: "der Mond", t2_qb: "die Mond", t2_qc: "das Mond", t2_qd: "den Mond",
+
+    t3_title: "Die — Der rote Turm",
+    t3_text: "Wörter im roten Turm (die) sind oft weiblich. Zum Beispiel: die Katze 🐱, die Sonne ☀️, die Blume 🌸.",
+    t3_b1: "Begleiter: die",
+    t3_b2: "Farbe: rot",
+    t3_inst: "Welches Wort passt zu 'die'?",
+    t3_h1: "Sprich es laut: 'die ...'",
+    t3_h2: "Es heißt 'die Blume'.",
+    t3_w1: "Baum", t3_w2: "Blume", t3_w3: "Kind", t3_w4: "Apfel",
+    t3_q: "Was ist richtig?",
+    t3_qa: "die Sonne", t3_qb: "der Sonne", t3_qc: "das Sonne", t3_qd: "die Sonnen",
+
+    t4_title: "Das — Der grüne Turm",
+    t4_text: "Zum grünen Turm (das) gehören Wörter wie: das Haus 🏠, das Auto 🚗, das Kind 👶.",
+    t4_b1: "Begleiter: das",
+    t4_b2: "Farbe: grün",
+    t4_inst: "Welches Wort passt zu 'das'?",
+    t4_h1: "Sprich es laut: 'das ...'",
+    t4_h2: "Es heißt 'das Haus'.",
+    t4_w1: "Tisch", t4_w2: "Haus", t4_w3: "Maus", t4_w4: "Stuhl",
+    t4_q: "Was ist richtig?",
+    t4_qa: "das Buch", t4_qb: "der Buch", t4_qc: "die Buch", t4_qd: "das Bücher",
+
+    t5_title: "Die drei Türme (Sortieren)",
+    t5_text: "Kannst du die Wörter in die richtigen Türme sortieren? Achte auf die Begleiter!",
+    t5_b1: "der = blau 🔵",
+    t5_b2: "die = rot 🔴",
+    t5_b3: "das = grün 🟢",
+    t5_inst: "Sortiere die Wörter in die richtigen Türme!",
+    t5_h1: "Überlege: der, die oder das?",
+    t5_h2: "der Hund, die Katze, das Auto.",
+    t5_b_der: "der 🔵", t5_b_die: "die 🔴", t5_b_das: "das 🟢",
+    t5_i1: "Hund", t5_i2: "Katze", t5_i3: "Auto", t5_i4: "Apfel", t5_i5: "Blume", t5_i6: "Haus",
+    t5_q: "In welchen Turm gehört 'Ball'?",
+    t5_qa: "der 🔵", t5_qb: "die 🔴", t5_qc: "das 🟢", t5_qd: "In keinen",
+
+    t6_title: "Bilder und Begleiter",
+    t6_text: "Schau dir das Bild an. Welchen Begleiter hörst du in deinem Kopf, wenn du den Namen sagst?",
+    t6_b1: "Bild ansehen.",
+    t6_b2: "Artikel zuordnen.",
+    t6_inst: "Verbinde das Bild mit dem richtigen Artikel!",
+    t6_h1: "🍎 Apfel ist 'der'. 🚗 Auto ist 'das'.",
+    t6_h2: "🍎-der, 🏠-das, ☀️-die.",
+    t6_l1: "🍎 Apfel", t6_r1: "der",
+    t6_l2: "☀️ Sonne", t6_r2: "die",
+    t6_l3: "🏠 Haus",  t6_r3: "das",
+    t6_l4: "🌳 Baum",  t6_r4: "der",
+    t6_q: "Welches Bild passt zu 'die'?",
+    t6_qa: "🌸 Blume", t6_qb: "🚗 Auto", t6_qc: "🌙 Mond", t6_qd: "⚽ Ball",
+
+    t7_title: "Artikel-Check",
+    t7_text: "Ein Satz-Detektiv prüft auch die Begleiter. Wenn jemand 'das Katze' sagt, klingt das lustig, ist de aber falsch!",
+    t7_b1: "Jedes Nomen hat nur einen richtigen Artikel.",
+    t7_b2: "Lerne die Wörter immer mit ihrem Artikel.",
+    t7_inst: "Welcher Artikel passt in die Lücke: '... Maus rennt.'?",
+    t7_h1: "Es heißt 'die Maus'.",
+    t7_h2: "Wähle 'die'.",
+    t7_w1: "der", t7_w2: "die", t7_w3: "das", t7_w4: "ein",
+    t7_q: "Was ist falsch?",
+    t7_qa: "das Katze", t7_qb: "der Hund", t7_qc: "das Haus", t7_qd: "die Sonne",
+  }
+};
+
+export const ARTIKEL_POOL: PoolTopicDef[] = [
+  // ── 1. Die drei Begleiter — highlight text ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔵", label: "der" }, { emoji: "🔴", label: "die" }, { emoji: "🟢", label: "das" } ] },
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4"], 
+      correctIndices: [0], // der
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Der (männlich) — highlight correct word ────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "text-bubbles", items: [ { text: "der Hund", emoji: "🐶", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"], // Haus, Hund, Sonne, Auto
+      correctIndices: [1], // Hund
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Die (weiblich) — highlight correct word ───────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "text-bubbles", items: [ { text: "die Blume", emoji: "🌸", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], // Baum, Blume, Kind, Apfel
+      correctIndices: [1], // Blume
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Das (sächlich) — highlight correct word ───────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "text-bubbles", items: [ { text: "das Haus", emoji: "🏠", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"], // Tisch, Haus, Maus, Stuhl
+      correctIndices: [1], // Haus
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Die drei Türme — drag-to-bucket ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔵", label: "der" }, { emoji: "🔴", label: "die" }, { emoji: "🟢", label: "das" } ] },
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "der", label: "t5_b_der" }, { id: "die", label: "t5_b_die" }, { id: "das", label: "t5_b_das" }],
+      items: [
+        { text: "t5_i1", bucketId: "der" }, // Hund
+        { text: "t5_i2", bucketId: "die" }, // Katze
+        { text: "t5_i3", bucketId: "das" }, // Auto
+        { text: "t5_i4", bucketId: "der" }, // Apfel
+        { text: "t5_i5", bucketId: "die" }, // Blume
+        { text: "t5_i6", bucketId: "das" }, // Haus
+      ],
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Bilder und Begleiter — match-pairs ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "letter-pairs", pairs: [["der", "🍎"], ["die", "☀️"], ["das", "🏠"]], color: "#0EA5E9", dimColor: "#BAE6FD" },
+    bulletKeys: ["t6_b1", "t6_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t6_l1", right: "t6_r1" },
+        { left: "t6_l2", right: "t6_r2" },
+        { left: "t6_l3", right: "t6_r3" },
+        { left: "t6_l4", right: "t6_r4" },
+      ],
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Artikel-Check — highlight correct article ───────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "text-bubbles", items: [ { text: "die Maus", emoji: "🐭", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t7_b1", "t7_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], // der, die, das, ein
+      correctIndices: [1], // die
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i8 — Leseinsel (Reading)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const LESE_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Leseinsel",
+
+    t1_title: "Buchstaben verbinden",
+    t1_text: "Wenn wir Buchstaben hintereinander sagen, entstehen Wörter. Sag sie erst langsam, dann immer schneller: L-E-S-E-N... Lesen!",
+    t1_b1: "Buchstaben zusammenziehen.",
+    t1_b2: "Vom Laut zum Wort.",
+    t1_inst: "Welches Wort hörst du: M-A-M-A?",
+    t1_h1: "Sag die Buchstaben laut: M... A... M... A...",
+    t1_h2: "Das Wort ist 'Mama'.",
+    t1_w1: "Mama", t1_w2: "Oma", t1_w3: "Papa", t1_w4: "Haus",
+    t1_q: "Was wird aus H-A-U-S?",
+    t1_qa: "Haus", t1_qb: "Hase", t1_qc: "Hose", t1_qd: "Hand",
+
+    t2_title: "Blitzlesen (Kurze Wörter)",
+    t2_text: "Manche Wörter sind so kurz, die können wir wie ein Blitz lesen! ⚡️ Eis, Ast, Tor, Uhr. Probier es mal ganz schnell!",
+    t2_b1: "Kurze Wörter schnell erkennen.",
+    t2_inst: "Welches Wort heißt 'Eis'?",
+    t2_h1: "Suche das Wort mit drei Buchstaben: E-I-S.",
+    t2_h2: "Da steht 'Eis'.",
+    t2_w1: "Haus", t2_w2: "Eis", t2_w3: "Apfel", t2_w4: "Auto",
+    t2_q: "Welches Wort hat nur 3 Buchstaben?",
+    t2_qa: "Uhr", t2_qb: "Mond", t2_qc: "Sonne", t2_qd: "Blume",
+
+    t3_title: "Wort-Bild-Check",
+    t3_text: "Lies das Wort und schau dir die Bilder an. Findest du das passende Bild zum Wort?",
+    t3_b1: "Genau lesen.",
+    t3_b2: "Bedeutung verstehen.",
+    t3_inst: "Wo ist die 'Sonne'?",
+    t3_h1: "Lies das Wort: S-O-N-N-E.",
+    t3_h2: "Das Bild mit der Sonne ☀️ ist richtig.",
+    t3_w1: "☀️", t3_w2: "🌙", t3_w3: "⭐", t3_w4: "☁️",
+    t3_q: "Welches Bild passt zum Wort 'Baum'?",
+    t3_qa: "🌳", t3_qb: "🌸", t3_qc: "🍎", t3_qd: "🏠",
+
+    t4_title: "Lies und male (Farben)",
+    t4_text: "In der Schule musst du oft Aufgaben lesen. Zum Beispiel: 'Male den Apfel rot.' Kannst du die Farben schon lesen?",
+    t4_b1: "Farben lesen: rot, blau, gelb, grün.",
+    t4_inst: "Welches Wort heißt 'gelb'?",
+    t4_h1: "Es fängt mit G an.",
+    t4_h2: "Dort steht 'gelb'.",
+    t4_w1: "blau", t4_w2: "rot", t4_w3: "gelb", t4_w4: "grün",
+    t4_q: "Wie schreibt man die Farbe der Wiese?",
+    t4_qa: "grün", t4_qb: "gelb", t4_qc: "blau", t4_qd: "rot",
+
+    t5_title: "Sätze lesen",
+    t5_text: "Jetzt wird es spannend! Wir lesen einen ganzen Satz. Was macht der Hund? 'Der Hund bellt.'",
+    t5_b1: "Wort für Wort lesen.",
+    t5_b2: "Den ganzen Sinn verstehen.",
+    t5_inst: "Lies: 'Die Katze schläft.' Was macht die Katze?",
+    t5_h1: "Lies das letzte Wort im Satz.",
+    t5_h2: "Sie schläft.",
+    t5_w1: "essen", t5_w2: "laufen", t5_w3: "schlafen", t5_w4: "spielen",
+    t5_q: "Was macht das Kind in: 'Das Kind liest.'?",
+    t5_qa: "Es liest", t5_qb: "Es schläft", t5_qc: "Es lacht", t5_qd: "Es rennt",
+
+    t6_title: "Was fehlt im Satz?",
+    t6_text: "Hier ist ein Satz mit einer Lücke. Welches Wort passt hinein, damit der Satz Sinn ergibt?",
+    t6_b1: "Den Satz im Kopf fertigstellen.",
+    t6_inst: "Lies: 'Ich trinke ...' - Welches Wort passt?",
+    t6_h1: "Was kann man trinken?",
+    t6_h2: "Man kann 'Milch' trinken.",
+    t6_w1: "Pizza", t6_w2: "Milch", t3_w3: "Brot", t4_w4: "Apfel",
+    t6_q: "Ergänze: 'Der Vogel ...'",
+    t6_qa: "fliegt", t6_qb: "schwimmt", t6_qc: "fährt", t6_qd: "liest",
+
+    t7_title: "Kleine Geschichten",
+    t7_text: "Du kannst schon kurze Texte lesen! 'Das ist Tim. Tim hat einen Ball. Der Ball ist blau.'",
+    t7_b1: "Mehrere Sätze verstehen.",
+    t7_inst: "Welche Farbe hat Tims Ball?",
+    t7_h1: "Lies den letzten Satz noch einmal.",
+    t7_h2: "Der Ball ist blau.",
+    t7_w1: "rot", t7_w2: "gelb", t7_w3: "blau", t7_w4: "grün",
+    t7_q: "Wer hat den Ball?",
+    t7_qa: "Tim", t7_qb: "Oma", t7_qc: "Leo", t7_qd: "Max",
+  }
+};
+
+export const LESE_POOL: PoolTopicDef[] = [
+  // ── 1. Buchstaben verbinden — highlight text ──────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "text-bubbles", items: [ { text: "M", color: "#B91C1C", bg: "#FEE2E2" }, { text: "A", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "M", color: "#B91C1C", bg: "#FEE2E2" }, { text: "A", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3", "t1_w4"], 
+      correctIndices: [0], // Mama
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Blitzlesen — highlight 3-letter word ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "letter-circles", letters: ["E", "I", "S"], color: "#0EA5E9" },
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4"], 
+      correctIndices: [1], // Eis
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Wort-Bild-Check — match-pairs ──────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "icon-grid", items: [ { emoji: "☀️", label: "Sonne" }, { emoji: "🌙", label: "Mond" } ] },
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"], 
+      correctIndices: [0], // ☀️
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Lies und male (Farben) — match-pairs ─────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "two-groups", left: { items: ["rot", "blau"], bg: "#F3F4F6", border: "#D1D5DB" }, right: { items: ["🍎", "🌊"], bg: "#F3F4F6", border: "#D1D5DB" } },
+    bulletKeys: ["t4_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"], 
+      correctIndices: [2], // gelb
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Sätze lesen — highlight correct action ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "text-bubbles", items: [ { text: "Die Katze schläft.", emoji: "🐱", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t5_b1", "t5_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], 
+      correctIndices: [2], // schlafen
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Lückentext — highlight correct word ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "letter-pairs", pairs: [["Trinken", "🥛"], ["Essen", "🍕"]], color: "#F59E0B", dimColor: "#FEF3C7" },
+    bulletKeys: ["t6_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t6_w1", "t6_w2", "t6_w3", "t6_w4"], 
+      correctIndices: [1], // Milch
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Kleine Geschichten — highlight correct answer ─────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "icon-grid", items: [ { emoji: "👦", label: "Tim" }, { emoji: "🔵", label: "blau" } ] },
+    bulletKeys: ["t7_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], 
+      correctIndices: [2], // blau
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ISLAND i9 — Große Prüfung (Final Review)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const EXAM_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Große Prüfung K1",
+
+    t1_title: "Das Buchstaben-Quiz",
+    t1_text: "Erinnerst du dich an die Vokale? Sie sind die wichtigsten Bausteine unserer Wörter.",
+    t1_b1: "A, E, I, O, U sind Vokale.",
+    t1_inst: "Finde den Vokal im Wort 'BUS'!",
+    t1_h1: "Suche nach A, E, I, O vagy U.",
+    t1_h2: "Das 'U' ist der Vokal.",
+    t1_w1: "B", t1_w2: "U", t1_w3: "S",
+    t1_q: "Welcher Buchstabe fehlt in 'H_nd'?",
+    t1_qa: "u", t1_qb: "e", t1_qc: "i", t1_qd: "o",
+
+    t2_title: "Silben-Meister",
+    t2_text: "Kannst du Wörter noch immer richtig klatschen? Testen wir ein langes Wort!",
+    t2_b1: "To-ma-te = 3 Silben.",
+    t2_inst: "Wie viele Silben hat das Wort 'Elefant'?",
+    t2_h1: "Klatsche: E - le - fant.",
+    t2_h2: "Es sind 3 Silben.",
+    t2_q: "Welches Wort hat 2 Silben?",
+    t2_qa: "Auto", t2_qb: "Haus", t2_qc: "Banane", t2_qd: "Bus",
+
+    t3_title: "Artikel-Profi",
+    t3_text: "Der, die oder das? Welcher Begleiter passt zu welchem Wort? Zeig es uns!",
+    t3_b1: "der 🔵, die 🔴, das 🟢",
+    t3_inst: "Sortiere: der vagy das?",
+    t3_h1: "der Apfel, das Haus.",
+    t3_h2: "Mond ist 'der', Auto ist 'das'.",
+    t3_b_der: "der 🔵", t3_b_das: "das 🟢",
+    t3_i1: "Mond", t3_i2: "Auto", t3_i3: "Tisch", t3_i4: "Kind",
+    t3_q: "Was ist richtig?",
+    t3_qa: "die Sonne", t3_qb: "der Sonne", t3_qc: "das Sonne", t3_qd: "die Sonnen",
+
+    t4_title: "Reim-Detektiv",
+    t4_text: "Findest du die Wörter, die am Ende gleich klingen? Reim-Paare gesucht!",
+    t4_b1: "Haus - Maus.",
+    t4_inst: "Welches Wort reimt sich auf 'Hund'?",
+    t4_h1: "Es muss wie '-und' klingen.",
+    t4_h2: "Hund reimt sich auf Mund.",
+    t4_w1: "Mund", t4_w2: "Katze", t4_w3: "Ball", t4_w4: "Eis",
+    t4_q: "Reimt sich 'Hase' auf 'Nase'?",
+    t4_qa: "Ja", t4_qb: "Nein", t4_qc: "Nur manchmal", t4_qd: "Weiß nicht",
+
+    t5_title: "Satz-Experte",
+    t5_text: "Ein Satz braucht Ordnung. Groß am Anfang, Zeichen am Ende!",
+    t5_b1: "Satzanfang groß schreiben.",
+    t5_inst: "Welches Satzzeichen gehört hier hin: 'Wo ist der Ball'?",
+    t5_h1: "Es ist eine Frage.",
+    t5_h2: "Du brauchst ein Fragezeichen (?).",
+    t5_w1: ".", t5_w2: "?", t5_w3: "!", t5_w4: ",",
+    t5_q: "Wie fängt jeder Satz an?",
+    t5_qa: "Mit einem Großbuchstaben", t5_qb: "Mit einer Zahl", t5_qc: "Mit einem Punkt", t5_qd: "Mit einem Bild",
+
+    t6_title: "Wort-Bild-Meister",
+    t6_text: "Kannst du das Wort lesen und dem richtigen Bild zuordnen?",
+    t6_b1: "Lesen und verstehen.",
+    t6_inst: "Verbinde das Wort mit dem Bild!",
+    t6_h1: "Lies: Blume, Baum, Apfel.",
+    t6_h2: "🌸-Blume, 🌳-Baum, 🍎-Apfel.",
+    t6_l1: "Blume", t6_r1: "🌸",
+    t6_l2: "Baum",  t6_r2: "🌳",
+    t6_l3: "Apfel", t6_r3: "🍎",
+    t6_l4: "Fisch", t6_r4: "🐟",
+    t6_q: "Was ist ein 'Hund'?",
+    t6_qa: "🐶", t6_qb: "🐱", t6_qc: "🐭", t6_qd: "🐻",
+
+    t7_title: "Der K1 Champion",
+    t7_text: "Du hast es fast geschafft! Ein letzter Check: Kannst du diesen kurzen Text verstehen?",
+    t7_b1: "Du bist ein Lese-Profi!",
+    t7_inst: "Lies: 'Der Apfel ist rot.' Welche Farbe hat der Apfel?",
+    t7_h1: "Schau auf das letzte Wort im Satz.",
+    t7_h2: "Er ist rot.",
+    t7_w1: "blau", t7_w2: "grün", t7_w3: "rot", t7_w4: "gelb",
+    t7_q: "Bist du bereit für K2?",
+    t7_qa: "Ja, ich bin bereit!", t7_qb: "Noch nicht", t7_qc: "Was ist K2?", t7_qd: "Vielleicht",
+  }
+};
+
+export const EXAM_POOL: PoolTopicDef[] = [
+  // ── 1. Vokale — highlight text ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "letter-circles", letters: ["B", "U", "S"], color: "#FF2D78" },
+    bulletKeys: ["t1_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t1_w1", "t1_w2", "t1_w3"], 
+      correctIndices: [1], // U
+      instruction: "t1_inst",
+      hint1: "t1_h1",
+      hint2: "t1_h2",
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa","t1_qb","t1_qc","t1_qd"], answer: "t1_qa" },
+  },
+
+  // ── 2. Silben zählen — highlight correct index ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "text-bubbles", items: [ { text: "E-le-fant", emoji: "🐘", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t2_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["1", "2", "3", "4"], 
+      correctIndices: [2], // 3
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h2",
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
+  },
+
+  // ── 3. Artikel sortieren — drag-to-bucket ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔵", label: "der" }, { emoji: "🟢", label: "das" } ] },
+    bulletKeys: ["t3_b1"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "der", label: "t3_b_der" }, { id: "das", label: "t3_b_das" }],
+      items: [
+        { text: "t3_i1", bucketId: "der" }, // Mond
+        { text: "t3_i2", bucketId: "das" }, // Auto
+        { text: "t3_i3", bucketId: "der" }, // Tisch
+        { text: "t3_i4", bucketId: "das" }, // Kind
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa","t3_qb","t3_qc","t3_qd"], answer: "t3_qa" },
+  },
+
+  // ── 4. Reime finden — highlight text ───────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "letter-pairs", pairs: [["Hund", "Mund"]], color: "#F59E0B" },
+    bulletKeys: ["t4_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"], 
+      correctIndices: [0], // Mund
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h2",
+    },
+    quiz: { question: "t4_q", choices: ["t4_qa","t4_qb","t4_qc","t4_qd"], answer: "t4_qa" },
+  },
+
+  // ── 5. Satzzeichen (?) — highlight correct ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "icon-grid", items: [ { emoji: "❓", label: "Frage" } ] },
+    bulletKeys: ["t5_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], 
+      correctIndices: [1], // ?
+      instruction: "t5_inst",
+      hint1: "t5_h1",
+      hint2: "t5_h2",
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" },
+  },
+
+  // ── 6. Wort-Bild-Check — match-pairs ───────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🌸", label: "Blume" }, { emoji: "🌳", label: "Baum" } ] },
+    bulletKeys: ["t6_b1"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t6_l1", right: "t6_r1" },
+        { left: "t6_l2", right: "t6_r2" },
+        { left: "t6_l3", right: "t6_r3" },
+        { left: "t6_l4", right: "t6_r4" },
+      ],
+      instruction: "t6_inst",
+      hint1: "t6_h1",
+      hint2: "t6_h2",
+    },
+    quiz: { question: "t6_q", choices: ["t6_qa","t6_qb","t6_qc","t6_qd"], answer: "t6_qa" },
+  },
+
+  // ── 7. Lese-Check Champion — highlight text ────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "text-bubbles", items: [ { text: "Champion!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t7_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], 
+      correctIndices: [2], // rot
+      instruction: "t7_inst",
+      hint1: "t7_h1",
+      hint2: "t7_h2",
+    },
+    quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+];
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLANDS i3-i9 — same pattern
 // ─────────────────────────────────────────────────────────────────────────────
