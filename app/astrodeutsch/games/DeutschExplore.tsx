@@ -162,120 +162,124 @@ function getTaskConfig(topicKey: string): TaskConfig {
   const topic = topicKey.split("/")[0];
   const subtopic = topicKey.split("/")[1] || "";
 
-  // Artikel / genus (K1-K3)
-  if (
-    topic === "woerter" && (subtopic === "artikel_k1" || subtopic === "artikel_k2" || subtopic === "artikel_k3") ||
-    topic === "wortarten_k2" && subtopic === "artikel_k2"
-  ) {
-    return { type: "genus-sort", Component: GenusSortierung, generator: () => genGenusSortierung(1)[0] };
+  // ── KASUS (K4) — legyen legelöl, mert "kasus" topic neve egyértelmű ──────────
+  if (topic === "kasus") {
+    return { type: "kasus-markieren", Component: KasusMarkieren, generator: () => genKasusMarkieren(1)[0] };
   }
 
-  // Bild beschriften (K1-K2)
-  if (
-    topic === "woerter" && (subtopic === "wortschatz_k1" || subtopic === "wortschatz_k2") ||
-    topic === "farben_k1" ||
-    topic === "zahlen_woerter_k1"
-  ) {
-    return { type: "bild-beschriften", Component: BildBeschriften, generator: () => genBildBeschriften(1)[0] };
+  // ── SATZGLIEDER (K3-K5) ───────────────────────────────────────────────────
+  if (topic === "satzglieder_k3" || topic === "satzglieder_k4" || topic === "satzglieder_k5") {
+    return { type: "satzglied-markieren", Component: SatzgliedMarkieren, generator: () => genSatzgliedMarkieren(1)[0] };
   }
 
-  // Fehler finden / Großschreibung / Rechtschreibung
+  // ── ZEITFORMEN (K3-K5) ────────────────────────────────────────────────────
   if (
-    topic === "buchstaben" && subtopic === "gross_klein" ||
-    topic === "rechtschreibung" ||
-    topic === "rechtschreibung_k5" ||
-    subtopic === "gross_klein" ||
-    subtopic === "fehlende_buchstaben"
-  ) {
-    return { type: "fehler-finden", Component: FehlerFinden, generator: () => genFehlerFinden(1)[0] };
-  }
-
-  // Wortarten sortieren (K3+)
-  if (
-    topic === "wortarten_k3" ||
-    topic === "wortarten_k2" && subtopic !== "artikel_k2" ||
-    topic === "wortarten_k5"
-  ) {
-    return { type: "wortarten-sortieren", Component: WortartenSortieren, generator: () => genWortartenSortieren(1)[0] };
-  }
-
-  // Wortfamilien
-  if (subtopic === "wortfamilien" || subtopic === "wortfamilien_k3" || subtopic === "szocsaladok") {
-    return { type: "wortfamilien-baum", Component: WortfamilienBaum, generator: () => genWortfamilienBaum(1)[0] };
-  }
-
-  // Zeitformen / Tenses (K3-K5)
-  if (
-    topic === "zeitformen_k3" ||
-    topic === "zeitformen_k4" ||
-    topic === "zeitformen_k5"
+    topic === "zeitformen_k3" || topic === "zeitformen_k4" || topic === "zeitformen_k5" ||
+    subtopic === "zeitformen_komplett_k3" || subtopic === "praeteritum_k3"
   ) {
     return { type: "zeitformen-zuordnen", Component: ZeitformenZuordnen, generator: () => genZeitformenZuordnen(1)[0] };
   }
 
-  // Satzglieder (K3-K5)
+  // ── ADJEKTIV-ENDUNGEN (K4-K5) ─────────────────────────────────────────────
   if (
-    topic === "satzglieder_k3" ||
-    topic === "satzglieder_k4" ||
-    topic === "satzglieder_k5"
+    topic === "adjektiv" || topic === "adjektiv_k5" ||
+    subtopic === "adjektivendungen_k4" || subtopic === "adjektivdeklination_k5"
   ) {
-    return { type: "satzglied-markieren", Component: SatzgliedMarkieren, generator: () => genSatzgliedMarkieren(1)[0] };
-  }
-
-  // Kasus (K4)
-  if (topic === "kasus_k4" || topic === "kasus") {
-    return { type: "kasus-markieren", Component: KasusMarkieren, generator: () => genKasusMarkieren(1)[0] };
-  }
-
-  // Adjektiv-Endungen (K5+)
-  if (topic === "adjektiv" || topic === "adjektiv_k5" || subtopic === "adjektivdeklination_k5" || subtopic === "steigerung") {
     return { type: "adjektiv-endungen", Component: AdjektivEndungen, generator: () => genAdjektivEndungen(1)[0] };
   }
 
-  // Lückentext / fehlende Wörter
+  // ── ARTIKEL / GENUS (K1-K4) ───────────────────────────────────────────────
   if (
-    subtopic === "fehlende_woerter_k1" ||
-    subtopic === "fehlende_woerter_k2" ||
-    subtopic === "lueckentext" ||
-    topic === "saetze_k1" ||
-    topic === "saetze_k2"
+    (topic === "woerter" && (subtopic === "artikel_k1" || subtopic === "artikel_k2" || subtopic === "artikel_k3")) ||
+    (topic === "wortarten_k2" && subtopic === "artikel_k2") ||
+    (topic === "wortarten_k2" && subtopic === "nomen_k2") ||
+    (topic === "wortarten_k2" && subtopic === "plural_k2")
+  ) {
+    return { type: "genus-sort", Component: GenusSortierung, generator: () => genGenusSortierung(1)[0] };
+  }
+
+  // ── WORTARTEN SORTIEREN (K2-K5) ───────────────────────────────────────────
+  if (
+    topic === "wortarten_k3" ||
+    topic === "wortarten_k4" ||
+    topic === "wortarten_k5" ||
+    (topic === "wortarten_k2" && subtopic !== "artikel_k2" && subtopic !== "nomen_k2" && subtopic !== "plural_k2") ||
+    topic === "eigenschafte_adjektive" ||
+    topic === "synonyme_antonyme" ||
+    topic === "wortschatz_expansion_k2" ||
+    topic === "verben_k4"
+  ) {
+    return { type: "wortarten-sortieren", Component: WortartenSortieren, generator: () => genWortartenSortieren(1)[0] };
+  }
+
+  // ── WORTFAMILIEN (K2-K3) ─────────────────────────────────────────────────
+  if (
+    subtopic === "wortfamilien_k2" || subtopic === "wortfamilien_k3" ||
+    subtopic === "komposita_k1" || subtopic === "komposita_k2" ||
+    (topic === "wortarten_k3" && subtopic === "wortfamilien_k3")
+  ) {
+    return { type: "wortfamilien-baum", Component: WortfamilienBaum, generator: () => genWortfamilienBaum(1)[0] };
+  }
+
+  // ── RECHTSCHREIBUNG / BUCHSTABEN / GROSSSCHREIBUNG → FehlerFinden ─────────
+  if (
+    topic === "buchstaben" ||
+    topic === "rechtschreibung" ||
+    topic === "rechtschreibung_k2" ||
+    topic === "rechtschreibung_k3" ||
+    topic === "rechtschreibung_k4" ||
+    topic === "rechtschreibung_k5"
+  ) {
+    return { type: "fehler-finden", Component: FehlerFinden, generator: () => genFehlerFinden(1)[0] };
+  }
+
+  // ── BILD BESCHRIFTEN — Wortschatz / Farben / Zahlen (K1-K3) ──────────────
+  if (
+    topic === "farben_k1" || topic === "zahlen_woerter_k1" ||
+    topic === "kleidung" ||
+    (topic === "woerter" && (subtopic === "wortschatz_k1" || subtopic === "wortschatz_k2")) ||
+    topic === "wortschatz_alltag_k3"
+  ) {
+    return { type: "bild-beschriften", Component: BildBeschriften, generator: () => genBildBeschriften(1)[0] };
+  }
+
+  // ── LÜCKENTEXT — fehlende Wörter / Satzzeichen (K1-K2) ───────────────────
+  if (
+    topic === "saetze_k1" || topic === "saetze_k2" ||
+    subtopic === "fehlende_buchstaben" || subtopic === "fehlende_woerter_k1" ||
+    subtopic === "lueckentext"
   ) {
     return { type: "luecken-text", Component: LueckenText, generator: () => genLueckenText(1)[0] };
   }
 
-  // Satzgefüge / Nebensätze (K5+)
+  // ── GESCHICHTE SORTIEREN — Texte (K2-K3) ─────────────────────────────────
   if (
-    topic === "satzgefuge" ||
-    topic === "zeichensetzung_k5" ||
-    topic === "nebensatz"
+    topic === "texte" || subtopic === "textarbeit" ||
+    subtopic === "geschichten_k2" || subtopic === "direkte_rede_k3"
   ) {
+    return { type: "geschichte-sortieren", Component: GeschichteSortieren, generator: () => genGeschichteSortieren(1)[0] };
+  }
+
+  // ── SATZGEFÜGE / NEBENSÄTZE (K4-K5) ─────────────────────────────────────
+  if (topic === "satzgefuge" || topic === "zeichensetzung_k5" || topic === "nebensatz") {
     return { type: "satzgefuge", Component: SatzgefugeDiagram, generator: () => genSatzgefuge(1)[0] };
   }
 
-  // Literaturepochen / Autoren (K6-K8)
+  // ── LITERATUREPOCHEN (K6-K8) ──────────────────────────────────────────────
   if (topic === "literatur" || topic === "epochen" || subtopic === "epochen") {
     return { type: "epochen-zeitstrahl", Component: EpochenZeitstrahl, generator: () => genEpochenZeitstrahl(1)[0] };
   }
 
-  // Geschichte sortieren / Texte
-  if (topic === "texte" || subtopic === "textarbeit" || subtopic === "geschichten_k2") {
-    return { type: "geschichte-sortieren", Component: GeschichteSortieren, generator: () => genGeschichteSortieren(1)[0] };
-  }
-
-  // Satz ordnen / Satzstruktur (default for sentence-related topics)
+  // ── SATZ ORDNEN — Satzstruktur / Satzarten (K2-K4) ───────────────────────
   if (
-    topic === "saetze" ||
-    topic === "saetze_k3" ||
-    topic === "saetze_k4" ||
-    topic === "wortstellung" ||
-    subtopic === "wortstellung" ||
-    subtopic === "satzzeichen_k1" ||
-    subtopic === "satzzeichen_k2"
+    topic === "saetze" || topic === "saetze_k3" || topic === "saetze_k4" ||
+    subtopic === "wortstellung_k2" || subtopic === "satzarten" ||
+    subtopic === "fragewörter_k2" || subtopic === "satzbau_k3"
   ) {
     return { type: "satz-ordnen", Component: SatzOrdnen, generator: () => genSatzOrdnen(1)[0] };
   }
 
-  // Default: genus sort (common for K1-K2 vocabulary topics)
+  // ── DEFAULT: genus sort ────────────────────────────────────────────────────
   return { type: "genus-sort", Component: GenusSortierung, generator: () => genGenusSortierung(1)[0] };
 }
 

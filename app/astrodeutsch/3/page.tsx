@@ -24,15 +24,7 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
-import PluralFamilyExplorer from "@/app/astrodeutsch/games/k3/PluralFamilyExplorerK3";
-import SeparableVerbExplorer from "@/app/astrodeutsch/games/k3/SeparableVerbExplorerK3";
-import ComparisonExplorer from "@/app/astrodeutsch/games/k3/ComparisonExplorerK3";
-import SentencePartsExplorer from "@/app/astrodeutsch/games/k3/SentencePartsExplorerK3";
-import TenseTimelineExplorer from "@/app/astrodeutsch/games/k3/TenseTimelineExplorerK3";
-import PastSpeechExplorer from "@/app/astrodeutsch/games/k3/PastSpeechExplorerK3";
-import SpellingK3Explorer from "@/app/astrodeutsch/games/k3/SpellingK3ExplorerK3";
-import PunctuationExplorer from "@/app/astrodeutsch/games/k3/PunctuationExplorerK3";
-import ReviewExplorer from "@/app/astrodeutsch/games/k3/ReviewExplorerK3";
+const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -97,9 +89,7 @@ const K3_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
-  | "plural-family-explorer" | "separable-verb-explorer" | "comparison-explorer"
-  | "sentence-parts-explorer" | "tense-timeline-explorer" | "past-speech-explorer"
-  | "spelling-k3-explorer" | "punctuation-explorer" | "review-explorer"
+  | "deutsch-explore"
   | "sentence-scramble"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -441,9 +431,7 @@ export default function AstroDeutschK3Page() {
 
   const noQuestionsTypes = new Set([
     "deutsch-visual",
-    "plural-family-explorer", "separable-verb-explorer", "comparison-explorer",
-    "sentence-parts-explorer", "tense-timeline-explorer", "past-speech-explorer",
-    "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
+    "deutsch-explore",
     "sentence-scramble",
   ]);
 
@@ -738,32 +726,8 @@ export default function AstroDeutschK3Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={3} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "plural-family-explorer" && (
-          <PluralFamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "separable-verb-explorer" && (
-          <SeparableVerbExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "comparison-explorer" && (
-          <ComparisonExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "sentence-parts-explorer" && (
-          <SentencePartsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "tense-timeline-explorer" && (
-          <TenseTimelineExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "past-speech-explorer" && (
-          <PastSpeechExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "spelling-k3-explorer" && (
-          <SpellingK3Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "punctuation-explorer" && (
-          <PunctuationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "review-explorer" && (
-          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "deutsch-explore" && activeIsland && (
+          <DeutschExplore island={activeIsland} grade={3} onDone={handleMissionDone} />
         )}
         {screen === "sentence-scramble" && (
           <SentenceScramble color={bgColor} lang={lang} onDone={handleMissionDone} />
@@ -772,13 +736,7 @@ export default function AstroDeutschK3Page() {
     </div>
   );
 
-  const explorerScreens = [
-    "plural-family-explorer", "separable-verb-explorer", "comparison-explorer",
-    "sentence-parts-explorer", "tense-timeline-explorer", "past-speech-explorer",
-    "spelling-k3-explorer", "punctuation-explorer", "review-explorer",
-  ];
-
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "sentence-scramble", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "deutsch-explore", "sentence-scramble"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
