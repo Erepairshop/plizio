@@ -908,10 +908,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
           key="welcome"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          exit={{ opacity: 0, pointerEvents: "none" }}
-          transition={{ exit: { duration: 0 } }}
+          exit={{ opacity: 0 }}
+          transition={{ duration: 0.15 }}
           className="fixed inset-0 z-40 flex flex-col items-center justify-center px-6"
-          style={{ background: "linear-gradient(180deg, #060614 0%, #0D0D2B 50%, #060614 100%)" }}
+          style={{ background: "linear-gradient(180deg, #060614 0%, #0D0D2B 50%, #060614 100%)", pointerEvents: phase === "welcome" ? "auto" : "none" }}
         >
           {/* Decorative glow */}
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
