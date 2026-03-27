@@ -45,26 +45,40 @@
 // { type: "simple-icon", icon: "🏆", title: "Große Prüfung!", bg: "#FEF3C7" }
 //   → Nagy emoji + opcionális cím. Jó: review, záróvizsga, intro képernyő.
 //
-// ── INTERACTIVE TYPES ─────────────────────────────────────────────────────────
+// ── INTERACTIVE TYPES — K2 AJÁNLOTT KOMBINÁCIÓ ────────────────────────────────
+//
+// K2-ben (7-8 évesek) ezeket használd — variáld témánként!
 //
 // highlight-text: szavak/tokenek kiemelése (kattintással)
+//   → Jó: Nomen keresés mondatban, igék megjelölése, helyesírás
 //   tokens: ["t_w1","t_w2",...] — label key-ek
 //   correctIndices: [0, 2] — melyik indexek helyesek
 //
 // drag-to-bucket: elemek húzása vödrökbe
+//   → Jó: der/die/das szétválasztás, Nomen/Verb/Adjektiv, nagy/kisbetű
 //   buckets: [{ id: "noun", label: "t_b_noun" }, { id: "verb", label: "t_b_verb" }]
 //   items: [{ text: "t_i1", bucketId: "noun" }, ...]
 //
 // match-pairs: bal-jobb párosítás
+//   → Jó: szó↔kép, singular↔plural, Infinitiv↔konjugiert
 //   pairs: [{ left: "t_l1", right: "t_r1" }, ...]
 //
-// gap-fill: mondatkiegészítés (4 opció)
+// gap-fill: mondatkiegészítés (4 opció) ← ÚJ K2-BEN!
+//   → Jó: névelő-kiegészítés (Der ___ läuft.), írásjel, ragozás
 //   sentence: "t_sent" — label key, a mondatban "___" a lyuk
 //   choices: ["t_c1","t_c2","t_c3","t_c4"]
 //   correctIndex: 0
 //
-// sentence-build: szavak helyes sorrendbe rakása
+// sentence-build: szavak helyes sorrendbe rakása ← ÚJ K2-BEN!
+//   → Jó: mondatszerkezet, Verb an zweiter Stelle szabály
 //   fragments: ["t_f1","t_f2","t_f3"] — helyes sorrendben!
+//
+// word-order: szavak drag-drop sorrendbe rakása ← ÚJ K2-BEN!
+//   → Jó: összetett szavak, mondatrészek
+//   words: ["t_w1","t_w2","t_w3"] — label key-ek
+//   correctOrder: [2, 0, 1] — melyik sorrend helyes
+//
+// TIPP: Egy island 7-10 topicjában legalább 3 különböző interactive type legyen!
 //
 // ═══════════════════════════════════════════════════════════════════════════════
 
