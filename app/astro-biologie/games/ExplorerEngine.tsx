@@ -2256,7 +2256,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         initial={{ opacity: 0, scale: 0.75, y: 12 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
         transition={{ duration: 0.4, ease: "easeOut" }}
-        className="absolute bottom-3 right-3 w-20 h-20 object-contain pointer-events-none z-10 select-none"
+        className="absolute bottom-3 left-3 w-20 h-20 object-contain pointer-events-none z-10 select-none"
         style={{ filter: "drop-shadow(0 4px 14px rgba(0,0,0,0.45))" }}
       />
     </div>
