@@ -880,7 +880,7 @@ export default function AstroMathG1Page() {
           <AddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "subtraction-explorer" && activeIsland && (
-          <SubtractionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} bgImage="/images/explorer/bg-default.webp" />
+          <SubtractionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "double-half-explorer" && (
           <DoubleHalfExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />

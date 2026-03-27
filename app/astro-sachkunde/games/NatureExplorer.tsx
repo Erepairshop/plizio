@@ -333,7 +333,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: (lang) => <LightSourcesSvg lang={lang} />,
+    svg: () => <Topic4Svg />,
     bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
     interactive: {
       type: "label-diagram",
