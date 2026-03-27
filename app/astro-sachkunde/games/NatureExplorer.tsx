@@ -1,22 +1,22 @@
 "use client";
 // NatureExplorer.tsx — Sachkunde Island i3: Seasons & Nature (K1)
-// Topics: 1) A négy évszak 2) Téli és nyári ruhák 3) Nappal és éjszaka 4) Fényforrások 5) Összefoglaló
+// Topics: 1) A négy évszak (jahreszeiten_natur) 2) Fák (bäume) 3) Virágok és Termések (blueten_fruechte) 4) Természet körforgása 5) Összefoglaló
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
-import { SeasonsSvg, LightSourcesSvg } from "@/app/astro-sachkunde/svg/k1/NatureWeatherSvg";
+import { SeasonsSvg } from "@/app/astro-sachkunde/svg/k1/NatureWeatherSvg";
 
 // ─── INLINE SVG ILLUSTRATIONS ───────────────────────────────────────
 
 const Topic2Svg = memo(function Topic2Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#E0F2FE" rx="20" />
+      <rect width="240" height="140" fill="#ECFCCB" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-45" y="15" fontSize="45" textAnchor="middle">☀️</text>
-        <path d="M -15,0 L 15,0" stroke="#0284C7" strokeWidth="4" strokeDasharray="4 4" markerEnd="url(#arrow)" />
-        <text x="45" y="15" fontSize="45" textAnchor="middle">⛄</text>
+        <text x="-60" y="15" fontSize="45" textAnchor="middle">🌲</text>
+        <text x="0" y="15" fontSize="45" textAnchor="middle">🌳</text>
+        <text x="60" y="15" fontSize="45" textAnchor="middle">🍂</text>
       </g>
     </svg>
   );
@@ -25,13 +25,26 @@ const Topic2Svg = memo(function Topic2Svg() {
 const Topic3Svg = memo(function Topic3Svg() {
   return (
     <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#1E1B4B" rx="20" />
+      <rect width="240" height="140" fill="#FDF4FF" rx="20" />
       <g transform="translate(120, 70)">
-        <text x="-40" y="15" fontSize="45" textAnchor="middle">🌞</text>
-        <text x="40" y="15" fontSize="45" textAnchor="middle">🌙</text>
-        <circle cx="20" cy="-20" r="2" fill="#FFF" />
-        <circle cx="50" cy="-30" r="3" fill="#FFF" />
-        <circle cx="60" cy="10" r="2" fill="#FFF" />
+        <text x="-60" y="15" fontSize="40" textAnchor="middle">🌸</text>
+        <text x="0" y="15" fontSize="40" textAnchor="middle">🌼</text>
+        <text x="60" y="15" fontSize="40" textAnchor="middle">🍎</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#FEF3C7" rx="20" />
+      <g transform="translate(120, 70)">
+        <text x="-50" y="5" fontSize="32" textAnchor="middle">🌱</text>
+        <text x="0" y="5" fontSize="32" textAnchor="middle">🌳</text>
+        <text x="50" y="5" fontSize="32" textAnchor="middle">🍂</text>
+        <text x="-25" y="40" fontSize="22" textAnchor="middle">→</text>
+        <text x="25" y="40" fontSize="22" textAnchor="middle">→</text>
       </g>
     </svg>
   );
@@ -43,8 +56,9 @@ const Topic5Svg = memo(function Topic5Svg() {
       <rect width="240" height="140" fill="#FEF08A" rx="20" />
       <g transform="translate(120, 70)">
         <circle cx="0" cy="0" r="45" fill="#FDE047" stroke="#CA8A04" strokeWidth="3" />
-        <text x="-15" y="15" fontSize="35" textAnchor="middle">🌳</text>
-        <text x="25" y="5" fontSize="30" textAnchor="middle">☀️</text>
+        <text x="-15" y="10" fontSize="30" textAnchor="middle">🌳</text>
+        <text x="20" y="-5" fontSize="25" textAnchor="middle">🌸</text>
+        <text x="10" y="30" fontSize="20" textAnchor="middle">🍎</text>
       </g>
     </svg>
   );
