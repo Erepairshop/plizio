@@ -37,7 +37,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🔄", color: "#FF9500", sortRange: [1, 10],
     topicKeys: ["grammatik_k6/passiv"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-active-passive-explorer",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidá"      } },
     ],
@@ -49,7 +49,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🌀", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["grammatik_k6/konjunktiv_2", "grammatik_k6/modalverben_k6"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-konjunktiv-ii-explorer",  icon: "🪐", label: { de: "Konjunktiv-Quiz",   en: "Subjunctive Quiz", hu: "Kötőmód kvíz",      ro: "Quiz conjunctiv"   } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Konjunktiv-Quiz",   en: "Subjunctive Quiz", hu: "Kötőmód kvíz",      ro: "Quiz conjunctiv"   } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -61,7 +61,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "∞", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["grammatik_k6/infinitiv_zu"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-infinitiv-zu-explorer",  icon: "🪐", label: { de: "Infinitiv-Quiz",    en: "Infinitive Quiz",  hu: "Infinitív kvíz",    ro: "Quiz infinitiv"    } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Infinitiv-Quiz",    en: "Infinitive Quiz",  hu: "Infinitív kvíz",    ro: "Quiz infinitiv"    } },
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
@@ -73,7 +73,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🔀", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["wortschatz_k6/synonyme", "wortschatz_k6/antonyme"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-synonym-antonym-explorer",  icon: "🪐", label: { de: "Synonyme-Quiz",     en: "Synonym Quiz",     hu: "Szinonima kvíz",    ro: "Quiz sinonime"     } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Synonyme-Quiz",     en: "Synonym Quiz",     hu: "Szinonima kvíz",    ro: "Quiz sinonime"     } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
@@ -85,7 +85,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🌐", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["wortschatz_k6/fremdwoerter"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-fremdwoerter-explorer",  icon: "🪐", label: { de: "Fremdwörter-Quiz",  en: "Foreign Words Quiz", hu: "Idegen szó kvíz",  ro: "Quiz cuvinte"      } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Fremdwörter-Quiz",  en: "Foreign Words Quiz", hu: "Idegen szó kvíz",  ro: "Quiz cuvinte"      } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",         hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
     ],
@@ -97,7 +97,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🔗", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["satzstrukturen_k6/relativsatz", "satzstrukturen_k6/kausalsatz"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-relativsatz-kausalsatz-explorer",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "word-blitz", icon: "💬", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
@@ -109,7 +109,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🧩", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["wortbildung_k6/komposita_k6", "wortbildung_k6/derivation_k6"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-wortbildung-explorer",  icon: "🪐", label: { de: "Wortbildung-Quiz",  en: "Word Formation Quiz", hu: "Szóalkotás kvíz",  ro: "Quiz formare"      } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Wortbildung-Quiz",  en: "Word Formation Quiz", hu: "Szóalkotás kvíz",  ro: "Quiz formare"      } },
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",         hu: "Gyors kör",         ro: "Rundă rapidă"    } },
     ],
@@ -121,7 +121,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "📌", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["zeichensetzung_k6/doppelpunkt_k6", "zeichensetzung_k6/gedankenstrich_k6"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-punctuation-explorer",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -137,7 +137,7 @@ export const K6_ISLANDS: IslandDef[] = [
       "wortbildung_k6/komposita_k6", "zeichensetzung_k6/doppelpunkt_k6",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "k6-review-explorer",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitaționale" } },
       { id: "m3", category: "challenge", gameType: "word-blitz",  icon: "💬", label: { de: "Wort-Blitz", en: "Word Blitz", hu: "Szóvillám", ro: "Blitz cuvinte" } },
     ],
