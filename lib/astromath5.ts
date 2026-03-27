@@ -53,7 +53,7 @@ export const G5_ISLANDS: IslandDef[] = [
     icon: "➕", color: "#EF4444", sortRange: [10000, 99999],
     topicKeys: ["g5_add_mental", "g5_add_written", "g5_sub_mental", "g5_sub_written"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "chain-calc",       icon: "🔗", label: { en: "Chain Calculation",  hu: "Láncszámítás",          de: "Kettenrechnen",       ro: "Calcul în lanț"     } },
+      { id: "m1", category: "explore",   gameType: "addsub-explorer",  icon: "🔍", label: { en: "Mental Math",        hu: "Fejszámolás",           de: "Kopfrechnen",         ro: "Calcul mental"      } },
       { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",     hu: "Egyenlet drill",        de: "Gleichungs-Drill",    ro: "Ecuații"            } },
       { id: "m3", category: "challenge", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",          hu: "Csillagpárosítás",      de: "Sternenpaare",        ro: "Perechi stele"      } },
     ],
@@ -77,7 +77,7 @@ export const G5_ISLANDS: IslandDef[] = [
     icon: "🍕", color: "#6366F1", sortRange: [1, 20],
     topicKeys: ["g5_frac_addsub", "g5_frac_compare", "g5_frac_mixed"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "fraction-visual", icon: "🍕", label: { en: "Fraction Pizza",  hu: "Tört pizza",      de: "Bruchpizza",       ro: "Pizza fracții"  } },
+      { id: "m1", category: "explore",   gameType: "fraction-explorer-5", icon: "🔍", label: { en: "Discover Fractions",  hu: "Törtek felfedezése",      de: "Brüche entdecken",       ro: "Descoperă fracțiile"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",      icon: "🚀", label: { en: "Fraction Quiz",   hu: "Törtek kvíz",     de: "Bruchquiz",        ro: "Quiz fracții"   } },
       { id: "m3", category: "challenge", gameType: "star-match",      icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
     ],

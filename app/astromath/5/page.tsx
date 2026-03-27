@@ -37,6 +37,7 @@ import GeometryExplorer5 from "@/app/astromath/games/GeometryExplorer5";
 import FractionExplorer5 from "@/app/astromath/games/FractionExplorer5";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import ChainCalc from "@/app/astromath/games/ChainCalc";
+import AddSubExplorer5 from "@/app/astromath/games/AddSubExplorer5";
 import { G5_ISLAND_SVGS } from "../islands-g5";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -116,6 +117,8 @@ type Screen =
   | "angle-explorer"
   | "true-false-blitz"
   | "chain-calc"
+  | "addsub-explorer"
+  | "fraction-explorer-5"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -495,7 +498,7 @@ export default function AstroMathG5Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "place-value-explorer", "decimal-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "place-value-explorer", "decimal-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "addsub-explorer", "fraction-explorer-5"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -843,11 +846,17 @@ export default function AstroMathG5Page() {
         {screen === "chain-calc" && activeIsland && (
           <ChainCalc topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "addsub-explorer" && (
+          <AddSubExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "fraction-explorer-5" && (
+          <FractionExplorer5 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "decimal-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "decimal-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "addsub-explorer", "fraction-explorer-5"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

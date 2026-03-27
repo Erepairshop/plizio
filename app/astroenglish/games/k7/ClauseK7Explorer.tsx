@@ -1,123 +1,286 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// ClauseK7Explorer.tsx — AstroEnglish Grade 7: i8 Clause Kingdom
+// Topics: 1) Independent vs Dependent 2) Clause Types 3) Relative Pronouns 4) Clause Hunt 5) Crown Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#4C1D95" rx="20" />
+      {/* King and Peasant / Independent and Dependent */}
+      <g transform="translate(70, 70)">
+        <polygon points="0,-20 15,10 -15,10" fill="#FBBF24" />
+        <rect x="-10" y="10" width="20" height="20" fill="#D97706" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#FDE68A">Independent</text>
+      </g>
+      <g transform="translate(170, 70)">
+        <polygon points="0,-10 10,10 -10,10" fill="#9CA3AF" />
+        <rect x="-5" y="10" width="10" height="15" fill="#4B5563" />
+        <text x="0" y="45" textAnchor="middle" fontSize="10" fill="#E5E7EB">Dependent</text>
+        <path d="M -20,15 Q -40,-20 -80,0" fill="none" stroke="#A78BFA" strokeWidth="2" strokeDasharray="4,4" />
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#1E3A8A" rx="20" />
+      {/* Three Towers for Noun, Adj, Adv Clauses */}
+      <g transform="translate(120, 80)">
+        <rect x="-50" y="-30" width="20" height="50" fill="#3B82F6" />
+        <polygon points="-50,-30 -40,-50 -30,-30" fill="#FBBF24" />
+        <text x="-40" y="-10" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white" transform="rotate(-90, -40, -10)">ADJ</text>
+
+        <rect x="-10" y="-40" width="20" height="60" fill="#2563EB" />
+        <polygon points="-10,-40 0,-60 10,-40" fill="#FBBF24" />
+        <text x="0" y="-10" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white" transform="rotate(-90, 0, -10)">ADV</text>
+
+        <rect x="30" y="-20" width="20" height="40" fill="#1D4ED8" />
+        <polygon points="30,-20 40,-40 50,-20" fill="#FBBF24" />
+        <text x="40" y="-5" textAnchor="middle" fontSize="10" fontWeight="bold" fill="white" transform="rotate(-90, 40, -5)">NOUN</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#020617" rx="20" />
+      {/* Golden Crown */}
+      <g transform="translate(120, 70)">
+        <polygon points="-30,-10 -20,20 20,20 30,-10 10,0 0,-20 -10,0" fill="#FBBF24" />
+        <circle cx="-30" cy="-10" r="4" fill="#FDE047" />
+        <circle cx="0" cy="-20" r="4" fill="#FDE047" />
+        <circle cx="30" cy="-10" r="4" fill="#FDE047" />
+        <circle cx="0" cy="10" r="4" fill="#EF4444" />
+        <text x="0" y="50" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FDE68A">Tap the Crowns!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Independent Clauses", tx1: "A clause with a subject and verb that can stand alone. 'The cat sleeps.' 'She ran fast.' Complete thoughts!",
-    q1: "Which is an independent clause?", a1: "Although the storm", b1: "If you finish early", c1: "The bell rang loudly", d1: "Which caused the crash",
-    t2: "Dependent Clauses", tx2: "Needs an independent clause to be complete. Starts with: because, when, if, although, while, since, unless. They modify or explain!",
-    q2: "Which is a dependent clause?", a2: "I love pizza", b2: "Although the rain fell", c2: "Dogs bark loudly", d2: "She finished her homework",
-    t3: "Restrictive vs Non-Restrictive", tx3: "Restrictive: essential info (no commas). Non-restrictive: extra info (with commas). 'The girl who won' vs 'Sarah, who won, smiled.'",
-    q3: "Which needs commas?", a3: "The student who studied passed", b3: "The student named Alex who always studies well passed", c3: "The student, who always studies, passed", d3: "All students who pass graduate",
-    t4: "Reduced Clauses", tx4: "Clause shortened by removing relative pronoun/helping verb. 'The girl running away' = 'The girl who was running away.'",
-    q4: "Which is a reduced clause?", a4: "The person who enjoys reading", b4: "The person enjoys reading", c4: "The person enjoying reading", d4: "The person has enjoyed reading",
-    t5: "Clause Combination", tx5: "Combine independent + dependent clauses with conjunctions: and, but, or, so, because, when, if, although.",
-    q5: "What combines these best?", a5: "The sun sets. The sky darkens.", b5: "When the sun sets, the sky darkens", c5: "The sun sets and the sky darkens or nothing", d5: "The sun, sets, sky darkens",
-  },
-  de: {
-    t1: "Hauptsätze", tx1: "Ein Satz mit Subjekt und Verb, kann allein stehen. 'Die Katze schläft.' Vollständige Gedanken!",
-    q1: "Welcher ist ein Hauptsatz?", a1: "Obwohl der Sturm", b1: "Wenn du früh fertig bist", c1: "Die Glocke läutete laut", d1: "Das den Crash verursachte",
-    t2: "Nebensätze", tx2: "Braucht einen Hauptsatz. Beginnt mit: weil, wenn, obwohl, während, falls. Sie modifizieren!",
-    q2: "Welcher ist ein Nebensatz?", a2: "Ich liebe Pizza", b2: "Obwohl der Regen fiel", c2: "Hunde bellen laut", d2: "Sie machte ihre Hausaufgaben",
-    t3: "Einleitend vs Zusätzlich", tx3: "Einleitend: wesentliche Info (keine Kommas). Zusätzlich: extra Info (mit Kommas).",
-    q3: "Welcher braucht Kommas?", a3: "Der Student, der studierte, bestand", b3: "Der Student der lernte bestand", c3: "Der Student, der lernt, bestand", d3: "Alle Studenten die bestehen graduieren",
-    t4: "Reduzierte Sätze", tx4: "Satz verkürzt. 'Das Mädchen läuft weg' = 'Das Mädchen, das weg läuft.'",
-    q4: "Welcher ist ein reduzierter Satz?", a4: "Die Person, die liest", b4: "Die Person liest", c4: "Die Person lesend", d4: "Die Person hat gelesen",
-    t5: "Satz-Kombination", tx5: "Hauptsatz + Nebensatz mit Konjunktionen verbinden.",
-    q5: "Was verbindet am besten?", a5: "Die Sonne setzt. Der Himmel wird dunkel.", b5: "Wenn die Sonne setzt, wird der Himmel dunkel", c5: "Die Sonne setzt und Himmel dunkel", d5: "Die Sonne setzt Himmel dunkel",
-  },
+    explorer_title: "Clause Kingdom",
+    
+    // T1: Independent vs Dependent (DROP GAME)
+    t1_title: "The Royal Clauses",
+    t1_text: "An INDEPENDENT clause is the King: it has a subject, a verb, and makes a complete thought. A DEPENDENT clause has a subject and a verb, but it starts with a word like 'because' or 'when', so it cannot stand alone.",
+    t1_b1: "Independent: Can be its own sentence.",
+    t1_b2: "Dependent: Needs an Independent clause to make sense.",
+    t1_b3: "Watch out for subordinating conjunctions (AWUBIS)!",
+    t1_inst: "Sort the clauses into the Independent or Dependent buckets!",
+    t1_bucket_ind: "Independent",
+    t1_bucket_dep: "Dependent",
+    t1_item_i1: "The king ruled wisely.", t1_item_i2: "The castle is huge.",
+    t1_item_d1: "Because it rained,", t1_item_d2: "When the dragon attacked,",
+    t1_q: "Which clause can stand alone as a complete sentence?",
+    t1_q_a: "Independent Clause", t1_q_b: "Dependent Clause", t1_q_c: "Subordinate Clause", t1_q_d: "Santa Clause",
+
+    // T2: Clause Types (MAGNET MATCH)
+    t2_title: "Towers of Grammar",
+    t2_text: "Dependent clauses do specific jobs. An ADJECTIVE clause describes a noun. An ADVERB clause tells how, when, or why. A NOUN clause acts like a person, place, or thing.",
+    t2_b1: "Adjective clause: Starts with who, whose, which, that.",
+    t2_b2: "Adverb clause: Starts with although, because, since, if.",
+    t2_b3: "Noun clause: Often acts as the subject or object.",
+    t2_inst: "Magnet Match: Connect the clause to its job!",
+    t2_l1: "...who wore a red cape.", t2_r1: "Adjective Clause",
+    t2_l2: "...because he was tired.", t2_r2: "Adverb Clause",
+    t2_l3: "Whoever wins the race...", t2_r3: "Noun Clause",
+    t2_q: "In the sentence 'I know what you did', the phrase 'what you did' is a:",
+    t2_q_a: "Noun Clause", t2_q_b: "Adverb Clause", t2_q_c: "Adjective Clause", t2_q_d: "Independent Clause",
+
+    // T3: Relative Pronouns (HIGHLIGHT)
+    t3_title: "Radar Scan: Relative Pronouns",
+    t3_text: "Adjective clauses are usually introduced by RELATIVE PRONOUNS: who, whom, whose, which, or that. They connect the clause to the noun it describes.",
+    t3_b1: "Find the noun being described.",
+    t3_b2: "Look for the relative pronoun right after it.",
+    t3_b3: "Highlight only the relative pronoun!",
+    t3_inst: "Highlight the RELATIVE PRONOUN in this sentence!",
+    t3_tok0: "The", t3_tok1: "knight", t3_tok2: "who", t3_tok3: "saved", t3_tok4: "the", t3_tok5: "village", t3_tok6: "was", t3_tok7: "brave.",
+    t3_q: "Which word is NOT a relative pronoun?",
+    t3_q_a: "Because", t3_q_b: "Who", t3_q_c: "Which", t3_q_d: "That",
+
+    // T4: Clause Hunt (SLINGSHOT)
+    t4_title: "The Royal Hunt",
+    t4_text: "Can you identify sentences based on their clause structure? Remember, a Complex sentence has one independent clause and at least one dependent clause.",
+    t4_b1: "Simple: One independent clause.",
+    t4_b2: "Compound: Two independent clauses.",
+    t4_b3: "Complex: One independent + one dependent.",
+    t4_inst: "Shoot the asteroid that contains a COMPLEX sentence!",
+    t4_target_1: "When it rained, we went inside.", // Correct (Complex)
+    t4_target_2: "It rained, and we went inside.", // Compound
+    t4_target_3: "We went inside the castle.", // Simple
+    t4_q: "A sentence with two independent clauses joined by 'and' is called:",
+    t4_q_a: "A Compound Sentence", t4_q_b: "A Complex Sentence", t4_q_c: "A Simple Sentence", t4_q_d: "A Fragment",
+
+    // T5: Fun Catch
+    t5_title: "Ruler of Clauses",
+    t5_text: "You are now the absolute ruler of the Clause Kingdom! You command simple, compound, and complex sentences with royal ease.",
+    t5_b1: "Independent = King.",
+    t5_b2: "Dependent = Loyal subject.",
+    t5_b3: "Catch 6 Crowns!",
+    t5_inst: "Tap the 6 golden crowns (👑) to claim your throne!",
+    t5_q: "Which word often starts a dependent Adverb clause?",
+    t5_q_a: "Although", t5_q_b: "Who", t5_q_c: "Which", t5_q_d: "That",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "ind", label: "t1_bucket_ind" },
+        { id: "dep", label: "t1_bucket_dep" },
+      ],
+      items: [
+        { text: "t1_item_i1", bucketId: "ind" },
+        { text: "t1_item_d1", bucketId: "dep" },
+        { text: "t1_item_i2", bucketId: "ind" },
+        { text: "t1_item_d2", bucketId: "dep" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6", "t3_tok7"],
+      correctIndices: [2], // "who"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b2",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "👑", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e293b"/>
-          <rect x="40" y="60" width="160" height="50" rx="4" fill="#0ea5e9" opacity="0.5"/>
-          <text x="120" y="95" textAnchor="middle" fontSize="14" fill="#e0f2fe" fontWeight="bold">Complete Thought</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "c1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <rect x="40" y="55" width="160" height="25" rx="3" fill="#6366f1" opacity="0.5"/>
-          <text x="120" y="72" textAnchor="middle" fontSize="12" fill="#c7d2fe">Incomplete Thought</text>
-          <path d="M120,85 L120,125" stroke="#818cf8" strokeWidth="2" markerEnd="url(#arrowhead)"/>
-          <text x="120" y="140" textAnchor="middle" fontSize="10" fill="#a5b4fc">Needs Main Clause</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f1f3a"/>
-          <text x="60" y="70" textAnchor="middle" fontSize="12" fill="#dbeafe">No Commas</text>
-          <rect x="30" y="75" width="60" height="35" rx="3" fill="#0ea5e9" opacity="0.5"/>
-          <text x="60" y="100" textAnchor="middle" fontSize="10" fill="#bfdbfe">Essential</text>
-          <text x="180" y="70" textAnchor="middle" fontSize="12" fill="#dbeafe">With Commas</text>
-          <rect x="150" y="75" width="60" height="35" rx="3" fill="#fbbf24" opacity="0.5"/>
-          <text x="180" y="100" textAnchor="middle" fontSize="10" fill="#f59e0b">Extra</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "c3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2d3d"/>
-          <text x="120" y="50" textAnchor="middle" fontSize="13" fill="#cbd5e1">Original: who/which/that</text>
-          <path d="M120,60 L120,75" stroke="#60a5fa" strokeWidth="2" markerEnd="url(#arrowhead)"/>
-          <text x="120" y="110" textAnchor="middle" fontSize="13" fill="#93c5fd">Reduced: -ing or -ed form</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "c4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <circle cx="70" cy="80" r="20" fill="#10b981" opacity="0.5"/>
-          <text x="70" y="85" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Ind.</text>
-          <text x="110" y="85" textAnchor="middle" fontSize="16" fill="#60a5fa">+</text>
-          <circle cx="150" cy="80" r="20" fill="#6366f1" opacity="0.5"/>
-          <text x="150" y="85" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Dep.</text>
-          <text x="120" y="135" textAnchor="middle" fontSize="11" fill="#cbd5e1">= Complex Sentence</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "👑",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function ClauseK7Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const ClauseK7Explorer = memo(function ClauseK7Explorer({
+  color = "#6B21A8", // Purple-800 (Royal Purple)
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="english_k7_clause_kingdom" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default ClauseK7Explorer;

@@ -86,15 +86,18 @@ const Topic3Svg = memo(function Topic3Svg() {
         </linearGradient>
       </defs>
       <rect width="240" height="140" fill="url(#wpGrad3)" rx="16" />
-      {/* Scaling a recipe */}
-      <g transform="translate(120, 70)">
-        <text x="-60" y="-10" fontSize="14" fill="#047857" textAnchor="middle">1 Torta</text>
-        <text x="-60" y="15" fontSize="20" fontWeight="bold" fill="#065F46" textAnchor="middle">2.5 L</text>
-        
-        <text x="0" y="0" fontSize="24" fill="#059669" textAnchor="middle">→</text>
-        
-        <text x="60" y="-10" fontSize="14" fill="#047857" textAnchor="middle">3 Torta</text>
-        <text x="60" y="15" fontSize="20" fontWeight="bold" fill="#065F46" textAnchor="middle">?</text>
+      {/* Mean / Average bar chart */}
+      <g transform="translate(30, 25)">
+        {/* Bars representing test scores */}
+        {[70, 90, 80, 60].map((val, i) => (
+          <g key={i} transform={`translate(${i * 42}, 0)`}>
+            <rect x="0" y={90 - val * 0.8} width="30" height={val * 0.8} fill="#059669" rx="3" opacity={0.7 + i * 0.05} />
+            <text x="15" y={85 - val * 0.8} fontSize="10" fontWeight="bold" fill="#065F46" textAnchor="middle">{val}</text>
+          </g>
+        ))}
+        {/* Average line */}
+        <line x1="0" y1={90 - 75 * 0.8} x2="168" y2={90 - 75 * 0.8} stroke="#047857" strokeWidth="2" strokeDasharray="6 3" />
+        <text x="180" y={90 - 75 * 0.8 + 4} fontSize="12" fontWeight="900" fill="#047857">75</text>
       </g>
     </svg>
   );
@@ -131,19 +134,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "5",
     t2_q_c: "6",
     t2_q_d: "3",
-    t3_title: "Scaling Up",
-    t3_text: "We often use ratios to scale things up. If one cake recipe needs 2.5 cups of flour, how much do you need for 3 cakes? Just multiply the ingredients!",
-    t3_b1: "Find the unit rate (for 1 item)",
-    t3_b2: "Multiply by the number you need",
-    t3_b3: "1 cake = 2.5 cups → 3 cakes = 7.5 cups",
-    t3_inst: "Use the slider! If 1 cake needs 2.5 cups of flour, find the flour needed for 3 cakes.",
-    t3_h1: "Multiply 2.5 by 3.",
-    t3_h2: "2.5 + 2.5 + 2.5 = 7.5. Set the slider to 7.5.",
-    t3_q: "If 2 tickets cost 18 dollars, how much do 5 tickets cost?",
-    t3_q_a: "45 dollars",
-    t3_q_b: "36 dollars",
-    t3_q_c: "40 dollars",
-    t3_q_d: "50 dollars",
+    t3_title: "Mean (Average)",
+    t3_text: "The mean is the average value. Add all the numbers together, then divide by how many numbers there are. It tells you what each person would get if everything was shared equally.",
+    t3_b1: "Mean = Sum of all values / Count",
+    t3_b2: "Example: (70 + 90 + 80 + 60) / 4 = 75",
+    t3_b3: "The mean helps summarize data with one number",
+    t3_inst: "Find the mean of 4 test scores: 70, 90, 80, 60. Balance the scale to the average!",
+    t3_h1: "First add: 70 + 90 + 80 + 60 = 300.",
+    t3_h2: "Then divide by 4: 300 / 4 = 75. Add weights to reach 75.",
+    t3_q: "What is the mean of 10, 20, and 30?",
+    t3_q_a: "20",
+    t3_q_b: "30",
+    t3_q_c: "15",
+    t3_q_d: "60",
   },
   de: {
     explorer_title: "Sachaufgaben Entdecker",
@@ -173,19 +176,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "5",
     t2_q_c: "6",
     t2_q_d: "3",
-    t3_title: "Mengen hochrechnen",
-    t3_text: "Oft müssen wir Dinge hochrechnen. Wenn 1 Kuchen 2,5 Tassen Mehl braucht, wie viel brauchst du für 3 Kuchen? Multipliziere einfach die Zutaten!",
-    t3_b1: "Finde den Wert für 1 Stück",
-    t3_b2: "Multipliziere mit der gesuchten Menge",
-    t3_b3: "1 Kuchen = 2.5 Tassen → 3 Kuchen = 7.5 Tassen",
-    t3_inst: "Nutze den Regler! 1 Kuchen braucht 2.5 Tassen Mehl. Wie viel für 3 Kuchen?",
-    t3_h1: "Multipliziere 2.5 mit 3.",
-    t3_h2: "2.5 + 2.5 + 2.5 = 7.5. Stelle den Regler auf 7.5.",
-    t3_q: "Wenn 2 Tickets 18 Euro kosten, wie viel kosten dann 5 Tickets?",
-    t3_q_a: "45 Euro",
-    t3_q_b: "36 Euro",
-    t3_q_c: "40 Euro",
-    t3_q_d: "50 Euro",
+    t3_title: "Durchschnitt (Mittelwert)",
+    t3_text: "Der Durchschnitt ist der Mittelwert. Addiere alle Zahlen und teile durch die Anzahl. So siehst du, was jeder bekommen würde, wenn alles gleichmäßig verteilt wäre.",
+    t3_b1: "Durchschnitt = Summe aller Werte / Anzahl",
+    t3_b2: "Beispiel: (70 + 90 + 80 + 60) / 4 = 75",
+    t3_b3: "Der Durchschnitt fasst Daten in einer Zahl zusammen",
+    t3_inst: "Finde den Durchschnitt von 4 Testnoten: 70, 90, 80, 60. Balanciere die Waage!",
+    t3_h1: "Zuerst addieren: 70 + 90 + 80 + 60 = 300.",
+    t3_h2: "Dann durch 4 teilen: 300 / 4 = 75. Lege Gewichte bis 75.",
+    t3_q: "Wie ist der Durchschnitt von 10, 20 und 30?",
+    t3_q_a: "20",
+    t3_q_b: "30",
+    t3_q_c: "15",
+    t3_q_d: "60",
   },
   hu: {
     explorer_title: "Szöveges feladatok",
@@ -215,19 +218,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "5",
     t2_q_c: "6",
     t2_q_d: "3",
-    t3_title: "Arányosítás és receptek",
-    t3_text: "Ha 1 tortához 2,5 pohár liszt kell, mennyi kell 3 tortához? Ilyenkor egyszerűen felszorozzuk a hozzávalókat a kívánt mennyiséggel!",
-    t3_b1: "Keresd meg az egységre (1 darabra) eső értéket",
-    t3_b2: "Szorozd meg a kívánt darabszámmal",
-    t3_b3: "1 torta = 2,5 pohár → 3 torta = 7,5 pohár",
-    t3_inst: "Használd a csúszkát! 1 tortához 2,5 pohár liszt kell. Állítsd be, mennyi kell 3-hoz!",
-    t3_h1: "Szorozd meg a 2,5-öt 3-mal.",
-    t3_h2: "2,5 + 2,5 + 2,5 = 7,5. Húzd a csúszkát 7,5-re.",
-    t3_q: "Ha 2 jegy 18 dollárba kerül, mennyibe kerül 5 jegy?",
-    t3_q_a: "45 dollár",
-    t3_q_b: "36 dollár",
-    t3_q_c: "40 dollár",
-    t3_q_d: "50 dollár",
+    t3_title: "Átlag (Középérték)",
+    t3_text: "Az átlag megmutatja az adatok középső értékét. Add össze az összes számot, aztán oszd el a darabszámmal. Így kiderül, mennyit kapna mindenki, ha egyenlően osztanánk el.",
+    t3_b1: "Átlag = Összeg / Darabszám",
+    t3_b2: "Példa: (70 + 90 + 80 + 60) / 4 = 75",
+    t3_b3: "Az átlag egyetlen számmal foglalja össze az adatokat",
+    t3_inst: "Számold ki 4 teszteredmény átlagát: 70, 90, 80, 60. Egyenlítsd ki a mérleget!",
+    t3_h1: "Először add össze: 70 + 90 + 80 + 60 = 300.",
+    t3_h2: "Majd oszd el 4-gyel: 300 / 4 = 75. Tégy rá súlyokat 75-ig.",
+    t3_q: "Mennyi a 10, 20 és 30 átlaga?",
+    t3_q_a: "20",
+    t3_q_b: "30",
+    t3_q_c: "15",
+    t3_q_d: "60",
   },
   ro: {
     explorer_title: "Probleme cu Text",
@@ -257,19 +260,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "5",
     t2_q_c: "6",
     t2_q_d: "3",
-    t3_title: "Proporții și Rețete",
-    t3_text: "Deseori mărim cantitățile. Dacă 1 prăjitură necesită 2.5 căni de făină, cât ai nevoie pentru 3 prăjituri? Înmulțești pur și simplu ingredientele!",
-    t3_b1: "Află cantitatea pentru o singură unitate",
-    t3_b2: "Înmulțește cu numărul dorit",
-    t3_b3: "1 tort = 2.5 căni → 3 torturi = 7.5 căni",
-    t3_inst: "Folosește cursorul! 1 tort necesită 2.5 căni de făină. Setează pentru 3 torturi.",
-    t3_h1: "Înmulțește 2.5 cu 3.",
-    t3_h2: "2.5 + 2.5 + 2.5 = 7.5. Trage cursorul la 7.5.",
-    t3_q: "Dacă 2 bilete costă 18 dolari, cât costă 5 bilete?",
-    t3_q_a: "45 dolari",
-    t3_q_b: "36 dolari",
-    t3_q_c: "40 dolari",
-    t3_q_d: "50 dolari",
+    t3_title: "Media (Medie Aritmetică)",
+    t3_text: "Media arată valoarea centrală a datelor. Aduni toate numerele, apoi împarți la câte numere sunt. Așa afli cât ar primi fiecare dacă totul ar fi împărțit egal.",
+    t3_b1: "Media = Suma valorilor / Numărul de valori",
+    t3_b2: "Exemplu: (70 + 90 + 80 + 60) / 4 = 75",
+    t3_b3: "Media rezumă datele într-un singur număr",
+    t3_inst: "Calculează media a 4 note: 70, 90, 80, 60. Echilibrează balanța la medie!",
+    t3_h1: "Mai întâi adună: 70 + 90 + 80 + 60 = 300.",
+    t3_h2: "Apoi împarte la 4: 300 / 4 = 75. Adaugă greutăți până la 75.",
+    t3_q: "Care este media de 10, 20 și 30?",
+    t3_q_a: "20",
+    t3_q_b: "30",
+    t3_q_c: "15",
+    t3_q_d: "60",
   },
 };
 
@@ -326,13 +329,10 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      type: "ratio-slider",
-      baseValue: 1,      // 1 cake
-      basePrice: 2.5,    // 2.5 cups
-      targetValue: 3,    // 3 cakes
-      targetPrice: 7.5,  // 7.5 cups
-      unitName: "cake",
-      currency: "cups",
+      type: "balance-scale",
+      leftWeight: 75, // Mean of 70, 90, 80, 60 = 300/4 = 75
+      rightInitial: 0,
+      unitIcon: "📊",
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

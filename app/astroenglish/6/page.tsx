@@ -41,7 +41,11 @@ import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import PronounK6Explorer from "@/app/astroenglish/games/k6/PronounK6Explorer";
 import SentenceStructureK6Explorer from "@/app/astroenglish/games/k6/SentenceStructureK6Explorer";
+import ComplexClauseK6Explorer from "@/app/astroenglish/games/k6/ComplexClauseK6Explorer";
+import WordBuilderK6Explorer from "@/app/astroenglish/games/k6/WordBuilderK6Explorer";
 import VocabularyK6Explorer from "@/app/astroenglish/games/k6/VocabularyK6Explorer";
+import AcademicHarborK6Explorer from "@/app/astroenglish/games/k6/AcademicHarborK6Explorer";
+import PunctuationPeakK6Explorer from "@/app/astroenglish/games/k6/PunctuationPeakK6Explorer";
 import RhetoricK6Explorer from "@/app/astroenglish/games/k6/RhetoricK6Explorer";
 import { K6_ISLAND_SVGS } from "@/app/astroenglish/islands-k6";
 import {
@@ -1115,11 +1119,26 @@ export default function AstroEnglishK6Page() {
         {screen === "en6-pronoun-k6-explorer" && (
           <PronounK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "en6-pronoun-precision-explorer" && (
+          <PronounK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
         {screen === "en6-sentence-structure-explorer" && (
           <SentenceStructureK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "en6-complex-clause-explorer" && (
+          <ComplexClauseK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en6-word-builder-explorer" && (
+          <WordBuilderK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
         {screen === "en6-vocabulary-explorer" && (
           <VocabularyK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en6-academic-k6-explorer" && (
+          <AcademicHarborK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "en6-punctuation-k6-explorer" && (
+          <PunctuationPeakK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "en6-rhetoric-explorer" && (
           <RhetoricK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />

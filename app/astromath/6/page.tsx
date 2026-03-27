@@ -36,6 +36,7 @@ import PercentExplorer6 from "@/app/astromath/games/PercentExplorer6";
 import RatioExplorer6 from "@/app/astromath/games/RatioExplorer6";
 import AlgebraExplorer6 from "@/app/astromath/games/AlgebraExplorer6";
 import GeometryAreaExplorer6 from "@/app/astromath/games/AreaExplorer6";
+import FractionProExplorer6 from "@/app/astromath/games/FractionProExplorer6";
 import MotionExplorer6 from "@/app/astromath/games/SpeedExplorer6";
 import DataExplorer6 from "@/app/astromath/games/StatExplorer6";
 import VisualChallenge from "@/app/astromath/games/VisualChallenge";
@@ -111,6 +112,7 @@ type Screen =
   | "number-duel"
   | "speed-round"
   | "fraction-visual"
+  | "fraction-pro-explorer"
   | "equation-drill"
   | "concept-explorer"
   | "word-problem-explorer"
@@ -501,7 +503,7 @@ export default function AstroMathG6Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "fraction-pro-explorer", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -825,6 +827,9 @@ export default function AstroMathG6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "fraction-pro-explorer" && (
+          <FractionProExplorer6 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
         {screen === "concept-explorer" && (
           <ConceptExplorer color={bgColor} lang={lang} grade={6} onDone={handleMissionDone} />
         )}
@@ -864,7 +869,7 @@ export default function AstroMathG6Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "fraction-pro-explorer", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

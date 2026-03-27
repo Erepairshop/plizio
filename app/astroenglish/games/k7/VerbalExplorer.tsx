@@ -1,124 +1,275 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// VerbalExplorer.tsx — AstroEnglish Grade 7: i9 Verbal Valley
+// Topics: 1) Gerunds vs Verbs 2) Infinitives 3) Participles 4) Verbal Hunt 5) Valley Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#064E3B" rx="20" />
+      {/* Gerund vs Verb Action */}
+      <g transform="translate(120, 70)">
+        <rect x="-60" y="-20" width="40" height="40" fill="#10B981" rx="8" />
+        <text x="-40" y="5" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#022C22">-ING</text>
+        <text x="-40" y="35" textAnchor="middle" fontSize="10" fill="#6EE7B7">Noun (Gerund)</text>
+
+        <rect x="20" y="-20" width="40" height="40" fill="#3B82F6" rx="8" />
+        <text x="40" y="5" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#EFF6FF">-ING</text>
+        <text x="40" y="35" textAnchor="middle" fontSize="10" fill="#93C5FD">Action (Verb)</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#78350F" rx="20" />
+      {/* Infinitive Bridge */}
+      <g transform="translate(120, 70)">
+        <path d="M -50,20 Q 0,-30 50,20" fill="none" stroke="#FBBF24" strokeWidth="6" />
+        <rect x="-20" y="-20" width="40" height="20" fill="#B45309" rx="4" />
+        <text x="0" y="-6" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FEF3C7">TO + VERB</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="10" fill="#FDE68A">The Infinitive</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#020617" rx="20" />
+      {/* Sunrise over Valley */}
+      <g transform="translate(120, 90)">
+        <circle cx="0" cy="0" r="30" fill="#F59E0B" />
+        <polygon points="-80,20 -30,-20 0,20" fill="#047857" />
+        <polygon points="-10,20 40,-30 80,20" fill="#065F46" />
+        <text x="0" y="40" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FDE68A">Tap the Sunrise!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Gerunds", tx1: "Verbs ending in -ING used as NOUNS. 'Running is fun.' 'She loves swimming.' Gerunds can be subjects, objects, or follow prepositions.",
-    q1: "Which word is a gerund?", a1: "He was running", b1: "Running in the park", c1: "Running makes me happy", d1: "She runs",
-    t2: "Participles", tx2: "Verb forms ending in -ING or -ED used as ADJECTIVES. 'The running horse' (present). 'The finished project' (past). They describe nouns!",
-    q2: "Which is a participle?", a2: "The student studies", b2: "The studying student", c2: "To study hard", d2: "She is studying",
-    t3: "Infinitives", tx3: "Verb form: TO + base verb. 'To run, to sing, to dance.' Used as nouns, adjectives, or adverbs. 'I want to sleep.'",
-    q3: "Which is an infinitive?", a3: "He ran fast", b3: "He was running", c3: "He wants to run", d3: "He runs every day",
-    t4: "Dangling Modifiers", tx4: "A verbal phrase that doesn't clearly modify the intended noun. WRONG: 'Running through the park, the trees were beautiful.' (trees don't run!)",
-    q4: "Which has NO dangling modifier?", a4: "Singing loudly, the concert was amazing", b4: "After finishing homework, I felt relieved", c4: "Driving to school, the weather changed", d4: "Walking into class, the quiz started",
-    t5: "Verbal Phrases", tx5: "Groups of words: gerund phrase, participle phrase, infinitive phrase. 'Playing in the rain' is a gerund phrase. 'To write well' is an infinitive phrase.",
-    q5: "Which is a verbal phrase?", a5: "The cat sleeps", b5: "Running around the field", c5: "She runs quickly", d5: "Run!",
-  },
-  de: {
-    t1: "Gerundium", tx1: "Verben mit -ING als SUBSTANTIVE. 'Laufen ist Spaß.' 'Sie liebt Schwimmen.' Gerundien als Subjekte oder Objekte.",
-    q1: "Welches Wort ist ein Gerundium?", a1: "Er lief", b1: "Im Park laufen", c1: "Laufen macht mir Spaß", d1: "Sie läuft",
-    t2: "Partizipien", tx2: "Verbformen als ADJEKTIVE. 'Das laufende Pferd' (present). 'Das fertige Projekt' (past).",
-    q2: "Welches ist ein Partizip?", a2: "Der Student studiert", b2: "Der studierende Student", c2: "Um hart zu studieren", d2: "Er studiert",
-    t3: "Infinitive", tx3: "Verb-Form: ZU + Grundform. 'Zu laufen, zu singen, zu tanzen.'",
-    q3: "Welches ist ein Infinitiv?", a3: "Er lief schnell", b3: "Er war am Laufen", c3: "Er will laufen", d3: "Er läuft täglich",
-    t4: "Hängende Modifizierer", tx4: "Ein Partizip-Ausdruck, der nicht klar das beabsichtigte Nomen modifiziert. FALSCH: 'Im Park laufend, waren die Bäume schön.'",
-    q4: "Welcher hat KEINEN hängenden Modifizierer?", a4: "Laut singend, war das Konzert toll", b4: "Nach den Hausaufgaben fühlte ich mich erleichtert", c4: "Zur Schule fahrend, änderte sich das Wetter", d4: "Ins Klassenzimmer gehend, begann das Quiz",
-    t5: "Verbale Phrasen", tx5: "Wortgruppen: Gerundium-Phrase, Partizip-Phrase, Infinitiv-Phrase.",
-    q5: "Welcher ist eine verbale Phrase?", a5: "Die Katze schläft", b5: "Um das Feld laufen", c5: "Sie läuft schnell", d5: "Lauf!",
-  },
+    explorer_title: "Verbal Valley",
+    
+    // T1: Gerunds vs Verbs (DROP GAME)
+    t1_title: "Gerund or Action Verb?",
+    t1_text: "A GERUND is a verb ending in '-ing' that acts like a NOUN (e.g., 'Flying is fun'). If the '-ing' word is doing the action with a helping verb (e.g., 'He is flying'), it's just a regular verb.",
+    t1_b1: "Gerund: Acts as a subject or object.",
+    t1_b2: "Verb: Needs a helper (am, is, are, was).",
+    t1_b3: "Both end in -ing!",
+    t1_inst: "Sort the sentences into the Gerund or Action Verb buckets!",
+    t1_bucket_ger: "Gerund (Noun)",
+    t1_bucket_vrb: "Action Verb",
+    t1_item_g1: "Reading is my hobby.", t1_item_g2: "I enjoy swimming.",
+    t1_item_v1: "She is reading a book.", t1_item_v2: "They are swimming now.",
+    t1_q: "In the sentence 'Walking is good exercise', what is 'Walking'?",
+    t1_q_a: "A Gerund", t1_q_b: "An Action Verb", t1_q_c: "An Infinitive", t1_q_d: "A Preposition",
+
+    // T2: Infinitives (MAGNET MATCH)
+    t2_title: "The Infinitive Bridge",
+    t2_text: "An INFINITIVE is the base form of a verb preceded by the word 'to' (e.g., 'to jump', 'to explore'). It can act as a noun, adjective, or adverb. Don't confuse it with a prepositional phrase starting with 'to'!",
+    t2_b1: "Infinitive: 'To' + Action Verb.",
+    t2_b2: "Preposition: 'To' + Noun/Place.",
+    t2_b3: "Example: 'I want to sleep.'",
+    t2_inst: "Magnet Match: Connect the phrase to what it is!",
+    t2_l1: "...to win the game.", t2_r1: "Infinitive Phrase",
+    t2_l2: "...to the store.", t2_r2: "Prepositional Phrase",
+    t2_l3: "...is sleeping.", t2_r3: "Verb Phrase",
+    t2_q: "Which of the following contains an INFINITIVE?",
+    t2_q_a: "She loves to sing.", t2_q_b: "She went to the park.", t2_q_c: "She gave it to him.", t2_q_d: "She is singing.",
+
+    // T3: Participles (HIGHLIGHT)
+    t3_title: "Radar Scan: Participles",
+    t3_text: "A PARTICIPLE is a verb form that acts like an ADJECTIVE to describe a noun. Present participles end in '-ing' (the falling snow). Past participles end in '-ed' or '-en' (the broken window).",
+    t3_b1: "Find the noun in the sentence.",
+    t3_b2: "Find the action word that describes it.",
+    t3_b3: "Highlight only the participle!",
+    t3_inst: "Highlight the PARTICIPLE (the verb acting as an adjective)!",
+    t3_tok0: "The", t3_tok1: "exhausted", t3_tok2: "astronaut", t3_tok3: "slept", t3_tok4: "in", t3_tok5: "the", t3_tok6: "shuttle.",
+    t3_q: "In 'the crying baby', what is the word 'crying'?",
+    t3_q_a: "A Participle", t3_q_b: "A Gerund", t3_q_c: "An Infinitive", t3_q_d: "A Noun",
+
+    // T4: Verbal Hunt (SLINGSHOT)
+    t4_title: "The Verbal Hunt",
+    t4_text: "You now know all three verbals: Gerunds (nouns), Infinitives (to+verb), and Participles (adjectives). Time to prove your skills!",
+    t4_b1: "Gerund = Noun.",
+    t4_b2: "Infinitive = To + Verb.",
+    t4_b3: "Participle = Adjective.",
+    t4_inst: "Shoot the asteroid that contains a GERUND!",
+    t4_target_1: "Running takes a lot of energy.", // Correct (Gerund)
+    t4_target_2: "I want to run away.", // Infinitive
+    t4_target_3: "The running water was cold.", // Participle
+    t4_q: "Which verbal always begins with the word 'to'?",
+    t4_q_a: "Infinitive", t4_q_b: "Gerund", t4_q_c: "Participle", t4_q_d: "Preposition",
+
+    // T5: Fun Catch
+    t5_title: "Valley Explorer",
+    t5_text: "Incredible! You have reached the end of Verbal Valley. You can now bend verbs to your will, using them as nouns, adjectives, or adverbs.",
+    t5_b1: "Gerunds end in -ing.",
+    t5_b2: "Infinitives use 'to'.",
+    t5_b3: "Catch 6 Sunrises!",
+    t5_inst: "Tap the 6 beautiful sunrises (🌄) over the valley!",
+    t5_q: "What do we call a verb that acts like a different part of speech?",
+    t5_q_a: "A Verbal", t5_q_b: "A Clause", t5_q_c: "A Phrase", t5_q_d: "A Conjunction",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "ger", label: "t1_bucket_ger" },
+        { id: "vrb", label: "t1_bucket_vrb" },
+      ],
+      items: [
+        { text: "t1_item_g1", bucketId: "ger" },
+        { text: "t1_item_v1", bucketId: "vrb" },
+        { text: "t1_item_g2", bucketId: "ger" },
+        { text: "t1_item_v2", bucketId: "vrb" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6"],
+      correctIndices: [1], // "exhausted"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b3",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🌄", count: 6 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e1b4b"/>
-          <text x="120" y="60" textAnchor="middle" fontSize="28" fill="#a855f7">-ing</text>
-          <rect x="50" y="75" width="140" height="35" rx="4" fill="#9333ea" opacity="0.3"/>
-          <text x="120" y="100" textAnchor="middle" fontSize="12" fill="#e9d5ff">Used as Noun</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "c1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <text x="60" y="70" textAnchor="middle" fontSize="11" fill="#d1d5db">-ING Participle</text>
-          <rect x="30" y="75" width="60" height="35" rx="3" fill="#f97316" opacity="0.5"/>
-          <text x="60" y="100" textAnchor="middle" fontSize="10" fill="#fed7aa">Active</text>
-          <text x="180" y="70" textAnchor="middle" fontSize="11" fill="#d1d5db">-ED Participle</text>
-          <rect x="150" y="75" width="60" height="35" rx="3" fill="#06b6d4" opacity="0.5"/>
-          <text x="180" y="100" textAnchor="middle" fontSize="10" fill="#cffafe">Past</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f1f3a"/>
-          <text x="120" y="60" textAnchor="middle" fontSize="24" fill="#38bdf8">to</text>
-          <text x="120" y="95" textAnchor="middle" fontSize="13" fill="#e0f2fe">+ Base Verb</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="#bfdbfe">to run, to sing, to dance</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "c3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2d3d"/>
-          <circle cx="80" cy="80" r="25" fill="#ef4444" opacity="0.3"/>
-          <text x="80" y="85" textAnchor="middle" fontSize="11" fill="#fee2e2">WRONG</text>
-          <path d="M105,80 L135,80" stroke="#60a5fa" strokeWidth="2"/>
-          <circle cx="160" cy="80" r="25" fill="#10b981" opacity="0.5"/>
-          <text x="160" y="85" textAnchor="middle" fontSize="11" fill="#dcfce7">CLEAR</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <rect x="40" y="55" width="160" height="25" rx="4" fill="#6366f1" opacity="0.5"/>
-          <text x="120" y="73" textAnchor="middle" fontSize="12" fill="#c7d2fe">Verbal Phrase</text>
-          <text x="40" y="100" textAnchor="middle" fontSize="10" fill="#a5b4fc">Gerund: running</text>
-          <text x="120" y="100" textAnchor="middle" fontSize="10" fill="#a5b4fc">Participle: passed</text>
-          <text x="200" y="100" textAnchor="middle" fontSize="10" fill="#a5b4fc">Infinitive: to jump</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🌄",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function VerbalExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const VerbalExplorer = memo(function VerbalExplorer({
+  color = "#D97706", // Amber-600 (Napfelkelte narancs)
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="english_k7_verbal_valley" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default VerbalExplorer;

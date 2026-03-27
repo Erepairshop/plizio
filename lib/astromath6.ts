@@ -54,7 +54,7 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "🍕", color: "#8B5CF6", sortRange: [1, 20],
     topicKeys: ["g6_frac_mul", "g6_frac_div", "g6_frac_diff", "g6_frac_pct"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "fraction-visual",  icon: "🍕", label: { en: "Fraction Pizza",    hu: "Tört pizza",          de: "Bruchpizza",         ro: "Pizza fracții"    } },
+      { id: "m1", category: "explore",   gameType: "fraction-pro-explorer",  icon: "🔍", label: { en: "Fraction Pro",    hu: "Törtek Profi",          de: "Bruchrechnung Profi",         ro: "Fracții Pro"    } },
       { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",      de: "Gleichungs-Drill",   ro: "Ecuații"          } },
       { id: "m3", category: "challenge", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",    de: "Sternenpaare",       ro: "Perechi stele"    } },
     ],

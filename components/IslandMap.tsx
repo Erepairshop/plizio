@@ -606,6 +606,12 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const svgRef = useRef<SVGSVGElement | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // Avatar tap → wave reaction
+  const [avatarJump, setAvatarJump] = useState<{ reaction: "wave" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
+  const handleAvatarTap = useCallback(() => {
+    setAvatarJump({ reaction: "wave", timestamp: Date.now() });
+  }, []);
+
   // Mouse/touch parallax
   const [mouseOffset, setMouseOffset] = useState({ x: 0, y: 0 });
   useEffect(() => {
@@ -651,7 +657,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     }
   }, [targetIsland?.cx, targetIsland?.cy]);
 
-  const AVATAR_SIZE = 52;
+  const AVATAR_SIZE = 156;
 
   // Card flash
   const flashGame = useCardFlash();
@@ -762,7 +768,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
       {/* DOM overlay: real 3D avatar on the planet */}
       {avatarProps && targetIsland && avatarPos && (
         <motion.div
-          className="fixed pointer-events-none z-20"
+          className="fixed z-20"
           style={{
             width: AVATAR_SIZE,
             height: AVATAR_SIZE,
@@ -777,11 +783,13 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             ? { left: { duration: 0.8, ease: "easeInOut" }, top: { duration: 0.8, ease: [0.4, 0, 0.2, 1] }, opacity: { delay: 1.2, duration: 0.5 } }
             : { opacity: { delay: 1.2, duration: 0.5 } }
           }
+          onClick={handleAvatarTap}
         >
           <AvatarCompanion
             fixed={false}
             mood={avatarAnimating ? "happy" : "idle"}
-            passThrough={true}
+            jumpTrigger={avatarJump}
+            passThrough={false}
             {...avatarProps}
           />
         </motion.div>

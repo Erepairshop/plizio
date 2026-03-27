@@ -1,141 +1,245 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// CompoundWordsExplorer.tsx — AstroMagyar Grade 2: i5 Szóösszetétel Szigete
+// Témák: 1) Szóösszetétel 2) Többes szám 3) Képzők 4) Keresd az összetett szót 5) Láncszem-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#4C1D95" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Két szó összeforrad (Puzzle) */}
+        <path d="M -50,-15 L -20,-15 L -15,-5 L -20,5 L -50,5 Z" fill="#C026D3" />
+        <path d="M -15,-15 L 15,-15 L 15,5 L -15,5 L -10,-5 Z" fill="#E879F9" />
+        <text x="-35" y="-1" textAnchor="middle" fontSize="10" fill="#FFF" fontWeight="bold">HÓ</text>
+        <text x="2" y="-1" textAnchor="middle" fontSize="10" fill="#4C1D95" fontWeight="bold">EMBER</text>
+        <path d="M 25,-5 L 35,-5 M 30,-10 L 30,0" stroke="#FDE047" strokeWidth="3" />
+        <rect x="45" y="-15" width="45" height="20" fill="#FDE047" rx="4" />
+        <text x="67" y="-1" textAnchor="middle" fontSize="9" fill="#4C1D95" fontWeight="bold">HÓEMBER</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#3B0764" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Egy alma vs Több alma (Többes szám) */}
+        <circle cx="-40" cy="0" r="15" fill="#EF4444" />
+        <text x="-40" y="25" textAnchor="middle" fontSize="10" fill="#D8B4FE">ALMA</text>
+        
+        <path d="M -15,0 L 5,0" stroke="#D8B4FE" strokeWidth="2" strokeDasharray="2,2" />
+        
+        <circle cx="30" cy="5" r="10" fill="#EF4444" />
+        <circle cx="45" cy="-5" r="10" fill="#EF4444" />
+        <circle cx="55" cy="8" r="10" fill="#EF4444" />
+        <text x="42" y="25" textAnchor="middle" fontSize="10" fill="#D8B4FE">ALMÁK</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Mi a szóösszetétel?", tx1: "Ha két vagy több szó összekapcsolódik, szóösszetétel keletkezik. Például: nap + ló = napló.",
-    q1: "Melyik a szóösszetétel?", a1: "napló", b1: "szarka", c1: "játszik", d1: "gyors",
+    explorer_title: "Szóösszetétel Szigete",
+    
+    // T1: Szóösszetétel (Magnet)
+    t1_title: "Szavak összerakása",
+    t1_text: "Két értelmes szóból gyakran egy új, harmadik szót építhetünk. Ezt hívjuk szóösszetételnek. Az első fele az előtag, a második az utótag.",
+    t1_b1: "Például: nap + raforgó = napraforgó.",
+    t1_b2: "Például: jég + krém = jégkrém.",
+    t1_inst: "Párosítsd össze a szavakat, hogy értelmes összetett szót kapj!",
+    t1_l1: "Rend", t1_r1: "őr",
+    t1_l2: "Szem", t1_r2: "üveg",
+    t1_l3: "Hó", t1_r3: "ember",
+    t1_q: "Melyik egy összetett szó az alábbiak közül?",
+    t1_q_a: "faház", t1_q_b: "piros", t1_q_c: "gyorsan", t1_q_d: "alszik",
 
-    t2: "Szóösszetételek a környezetben", tx2: "Szóösszetételek mindenhol körülöttünk vannak. Például: ceruzatartó, virágváza, háztartás.",
-    q2: "Az alábbiak közül melyik szóösszetétel?", a2: "ceruzatartó", b2: "virág", c2: "ház", d2: "játék",
+    // T2: Többes szám (Bucket)
+    t2_title: "Egy vagy több?",
+    t2_text: "Ha valamiből több van, a szó végére a többes szám jelét, egy '-k' betűt teszünk. (Gyakran egy kis kötőhang is kell elé, pl. a, e, o, ö).",
+    t2_b1: "Egyes szám: autó. Többes szám: autók.",
+    t2_b2: "Egyes szám: ember. Többes szám: emberek.",
+    t2_inst: "Válogasd szét a szavakat: Egyes szám (egy van) vagy Többes szám (több van)?",
+    t2_bucket_egy: "Egyes szám (1)",
+    t2_bucket_tobb: "Többes szám (Több)",
+    t2_item_e1: "kutya", t2_item_e2: "ceruza",
+    t2_item_t1: "fák", t2_item_t2: "könyvek",
+    t2_q: "Mi a többes szám jele a magyar nyelvben?",
+    t2_q_a: "-k", t2_q_b: "-t", t2_q_c: "-m", t2_q_d: "-ban",
 
-    t3: "Szóösszetételek felismerése", tx3: "A szóösszetételeket úgy ismerjük fel, hogy felbontjuk őket az eredeti szavakra.",
-    q3: "Melyik szóösszetétel bontható fel így: szék + szín?", a3: "székszín", b3: "szék", c3: "szín", d3: "szépszín",
+    // T3: Képzők (Slingshot)
+    t3_title: "Új szavak alkotása (Képzők)",
+    t3_text: "A szavak végére olyan toldalékokat is tehetünk, amik teljesen új jelentést adnak a szónak. Ezek a KÉPZŐK. Például a 'hal' szóból 'halász' lesz.",
+    t3_b1: "Foglalkozás képző: asztal -> asztalos.",
+    t3_b2: "Kicsinyítő képző: cica -> cicus.",
+    t3_inst: "Lődd le az aszteroidát, ami a 'kert' szóból FOGLALKOZÁST csinál!",
+    t3_target_1: "kertész", // Helyes
+    t3_target_2: "kertben",
+    t3_target_3: "kertek",
+    t3_q: "Melyik szó jött létre kicsinyítő képzővel?",
+    t3_q_a: "kutyus", t3_q_b: "kutyák", t3_q_c: "kutyát", t3_q_d: "kutyával",
 
-    t4: "Szóösszetételek értelme", tx4: "A szóösszetétel értelme az eredeti szavak egyesítésének logikájából adódik.",
-    q4: "Mit jelent a 'ceruzatartó'?", a4: "Amit ceruzák tárolásához használunk", b4: "Ami ceruzával van", c4: "Amit ceruzák után keresünk", d4: "Ami ceruzát tart",
+    // T4: Keresd az összetett szót (Highlight)
+    t4_title: "Keresd a hosszú szót!",
+    t4_text: "Az összetett szavak általában hosszabbak, hiszen két külön szóból állnak össze. Vajon megtalálod a mondatban?",
+    t4_b1: "Keresd azt a szót, amit kétfelé tudsz vágni!",
+    t4_b2: "Például: nap-raforgó, madár-etető.",
+    t4_inst: "Jelöld ki a mondatban az ÖSSZETETT szót!",
+    t4_tok0: "A", t4_tok1: "nagypapa", t4_tok2: "egy", t4_tok3: "szép", t4_tok4: "madáretetőt", t4_tok5: "készített.",
+    t4_q: "Melyik két szóból áll a 'madáretető'?",
+    t4_q_a: "madár + etető", t4_q_b: "ma + dáretető", t4_q_c: "madáre + tető", t4_q_d: "madár + tető",
 
-    t5: "Szóösszetételek gyakorlása", tx5: "Szóösszetételeket alkothatunk és bonthatunk felhasználva szókincsünket.",
-    q5: "Melyik szóösszetétel van helyesen felírva?", a5: "teacsészé", b5: "teacsészé", c5: "tea-csészé", d5: "tea csészé",
-  },
-  de: {
-    t1: "Was ist ein zusammengesetztes Wort?", tx1: "Wenn zwei oder mehr Wörter verbunden werden, entsteht ein zusammengesetztes Wort. Zum Beispiel: nap + ló = napló.",
-    q1: "Welches ist ein zusammengesetztes Wort?", a1: "napló", b1: "szarka", c1: "játszik", d1: "gyors",
-
-    t2: "Zusammengesetzte Wörter überall", tx2: "Zusammengesetzte Wörter sind überall um uns herum. Zum Beispiel: Stifthalter, Blumenvase, Haushalt.",
-    q2: "Welches ist ein zusammengesetztes Wort?", a2: "Stifthalter", b2: "Blume", c2: "Haus", d2: "Spiel",
-
-    t3: "Zusammengesetzte Wörter erkennen", tx3: "Wir erkennen zusammengesetzte Wörter, indem wir sie in ihre Originalwörter zerlegen.",
-    q3: "Welches zusammengesetzte Wort kann so zerlegt werden: szék + szín?", a3: "székszín", b3: "szék", c3: "szín", d3: "szépszín",
-
-    t4: "Bedeutung zusammengesetzter Wörter", tx4: "Die Bedeutung eines zusammengesetzten Wortes ergibt sich aus der Logik der Vereinigung der ursprünglichen Wörter.",
-    q4: "Was bedeutet 'ceruzatartó'?", a4: "Etwas, das zum Lagern von Stiften verwendet wird", b4: "Etwas mit Bleistift", c4: "Etwas, das nach Stiften sucht", d4: "Etwas, das Stifte hält",
-
-    t5: "Üben mit zusammengesetzten Wörtern", tx5: "Wir können zusammengesetzte Wörter bilden und zerlegen, indem wir unseren Wortschatz nutzen.",
-    q5: "Welches zusammengesetzte Wort ist korrekt geschrieben?", a5: "teacsészé", b5: "teacsészé", c5: "tea-csészé", d5: "tea csészé",
-  },
+    // T5: Fun Catch
+    t5_title: "Szóépítő Mester",
+    t5_text: "Ügyes vagy! Már úgy rakod össze a szavakat, mint a legprofibb építőmesterek.",
+    t5_b1: "Tudod, mi az összetett szó.",
+    t5_b2: "Ismered a többes számot (-k).",
+    t5_inst: "Kapj el 6 összekötő láncszemet (🔗) a győzelemhez!",
+    t5_q: "Hogy hívjuk a szóösszetétel első felét?",
+    t5_q_a: "Előtag", t5_q_b: "Utótag", t5_q_c: "Képző", t5_q_d: "Toldalék",
+  }
 };
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "egy", label: "t2_bucket_egy" },
+        { id: "tobb", label: "t2_bucket_tobb" },
+      ],
+      items: [
+        { text: "t2_item_e1", bucketId: "egy" },
+        { text: "t2_item_t1", bucketId: "tobb" },
+        { text: "t2_item_e2", bucketId: "egy" },
+        { text: "t2_item_t2", bucketId: "tobb" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t3_inst",
+      targets: [
+        { id: "tgt1", text: "t3_target_1", isCorrect: true },
+        { id: "tgt2", text: "t3_target_2", isCorrect: false },
+        { id: "tgt3", text: "t3_target_3", isCorrect: false },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5"],
+      correctIndices: [4], // "madáretetőt"
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🔗", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="20" y="50" width="50" height="50" rx="4" fill="#4ECDC4" opacity="0.4" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="45" y="82" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">nap</text>
-          <text x="100" y="82" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">+</text>
-          <rect x="130" y="50" width="50" height="50" rx="4" fill="#4ECDC4" opacity="0.4" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="155" y="82" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">ló</text>
-          <text x="220" y="82" textAnchor="middle" fontSize="14" fill="#FFD700" fontWeight="bold">=</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="60" cy="80" r="25" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="60" y="85" textAnchor="middle" fontSize="20" fill="#B44DFF" fontWeight="bold">🖊️</text>
-          <circle cx="120" cy="80" r="25" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="85" textAnchor="middle" fontSize="20" fill="#B44DFF" fontWeight="bold">📦</text>
-          <circle cx="180" cy="80" r="25" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="180" y="85" textAnchor="middle" fontSize="20" fill="#B44DFF" fontWeight="bold">🏠</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="20" y="50" width="45" height="50" rx="4" fill="#FF6B9D" opacity="0.4" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="42" y="82" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">szék</text>
-          <text x="75" y="82" textAnchor="middle" fontSize="14" fill="#FFD700" fontWeight="bold">+</text>
-          <rect x="95" y="50" width="45" height="50" rx="4" fill="#FF6B9D" opacity="0.4" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="117" y="82" textAnchor="middle" fontSize="11" fill="white" fontWeight="bold">szín</text>
-          <text x="150" y="82" textAnchor="middle" fontSize="14" fill="#FFD700" fontWeight="bold">=</text>
-          <rect x="160" y="50" width="60" height="50" rx="4" fill="#FF6B9D" opacity="0.4" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="190" y="82" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">székszín</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <text x="120" y="45" textAnchor="middle" fontSize="12" fill="#4ECDC4" fontWeight="bold">ceruzatartó =</text>
-          <rect x="30" y="55" width="180" height="85" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="45" y="80" fontSize="11" fill="#4ECDC4">ceruza (szín írás eszköz)</text>
-          <text x="45" y="100" fontSize="11" fill="#4ECDC4">tartó (tárol, megőriz)</text>
-          <text x="45" y="120" fontSize="11" fill="#4ECDC4">= Amit ceruzák tárolásához használunk</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <rect x="30" y="40" width="180" height="100" rx="8" fill="none" stroke="#95E1D3" strokeWidth="2" />
-          <text x="40" y="65" fontSize="11" fill="#95E1D3">1. teacsészé (❌)</text>
-          <text x="40" y="85" fontSize="11" fill="#95E1D3">2. tea csészé (❌)</text>
-          <text x="40" y="105" fontSize="11" fill="#95E1D3">3. tea-csészé (❌)</text>
-          <text x="40" y="125" fontSize="11" fill="#95E1D3">4. teáscsésze (✓)</text>
-          <circle cx="220" cy="125" r="6" fill="#95E1D3" />
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🔗",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function CompoundWordsExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function CompoundWordsExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={2} 
+      explorerId="magyar_o2_i5" 
+      color="#B44DFF" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
 }

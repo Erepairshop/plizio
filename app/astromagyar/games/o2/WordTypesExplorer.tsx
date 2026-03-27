@@ -1,135 +1,239 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// WordTypesExplorer.tsx — AstroMagyar Grade 2: i1 Szófajok Szigete
+// Témák: 1) Főnév (Ki? Mi?) 2) Ige (Mit csinál?) 3) Melléknév (Milyen?) 4) Nevelők és Névutók 5) Tallér-kapó
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── ILUSZTRÁCIÓK (Geometrikus SVG) ───────────────────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#4C0519" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Főnév szimbólum: Ház és Alma */}
+        <rect x="-50" y="-10" width="30" height="30" fill="#E11D48" rx="2" />
+        <polygon points="-55,-10 -20,-10 -37,-30" fill="#FB7185" />
+        <circle cx="40" cy="5" r="15" fill="#F43F5E" />
+        <path d="M 40,-10 L 40,-18" stroke="#4C0519" strokeWidth="3" />
+        <text x="0" y="45" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#FECDD3">FŐNÉV (Tárgyak, élőlények)</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic4Svg = memo(function Topic4Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#881337" rx="20" />
+      <g transform="translate(120, 70)">
+        {/* Névutó ábrázolás: Doboz és labda (alatt/felett) */}
+        <rect x="-20" y="0" width="40" height="30" fill="#FB7185" opacity="0.5" stroke="#FFF" strokeWidth="2" />
+        <circle cx="0" cy="-20" r="8" fill="#FFF" /> {/* felett */}
+        <circle cx="0" cy="40" r="8" fill="#FFF" opacity="0.3" /> {/* alatt */}
+        <text x="0" y="-35" textAnchor="middle" fontSize="10" fill="#FFF">felett</text>
+        <text x="0" y="55" textAnchor="middle" fontSize="10" fill="#FFF" opacity="0.6">alatt</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── CÍMKÉK (MAGYAR NYELVEN) ──────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Főnevek", tx1: "A főnév dolog, személy vagy lény neve. Például: kutya, szék, Péter, város.",
-    q1: "Melyik a főnév?", a1: "kutya", b1: "szép", c1: "fut", d1: "nagyon",
+    explorer_title: "Szófajok Szigete",
+    
+    // T1: Főnév (Bucket)
+    t1_title: "A Főnév",
+    t1_text: "A főnevek embereket, állatokat, tárgyakat vagy helyszíneket neveznek meg. Kérdései: Ki ez? Mi ez?",
+    t1_b1: "Élőlények: fiú, kislány, kutya.",
+    t1_b2: "Élettelen dolgok: asztal, vár, erdő.",
+    t1_inst: "Válogasd szét a főneveket: Élőlény (Ki?) vagy Tárgy (Mi?)!",
+    t1_bucket_ki: "Ki? (Élő)",
+    t1_bucket_mi: "Mi? (Élettelen)",
+    t1_item_k1: "orvos", t1_item_k2: "medve",
+    t1_item_m1: "könyv", t1_item_m2: "felhő",
+    t1_q: "Melyik szó FŐNÉV az alábbiak közül?",
+    t1_q_a: "iskola", t1_q_b: "olvas", t1_q_c: "gyors", t1_q_d: "tegnap",
 
-    t2: "Igék", tx2: "Az ige cselekvést, történést vagy állapotot kifejez. Például: fut, olvas, alszik, játszik.",
-    q2: "Melyik az ige?", a2: "szarka", b2: "szépen", c2: "sétál", d2: "gyors",
+    // T2: Ige (Slingshot)
+    t2_title: "Az Ige",
+    t2_text: "Az igék cselekvést, történést vagy létezést fejeznek ki. Azt mondják meg, hogy valaki mit csinál, vagy mi történik vele.",
+    t2_b1: "Cselekvés: fut, ír, tanul.",
+    t2_b2: "Történés: esik az eső, virágzik.",
+    t2_inst: "Lődd le az aszteroidát, ami IGÉT (cselekvést) tartalmaz!",
+    t2_target_1: "énekel", // Helyes
+    t2_target_2: "dal",
+    t2_target_3: "szép",
+    t2_q: "Mi az IGE kérdése?",
+    t2_q_a: "Mit csinál?", t2_q_b: "Milyen?", t2_q_c: "Hány?", t2_q_d: "Mikor?",
 
-    t3: "Melléknevek", tx3: "A melléknév a főnevet jellemzi. Például: piros, nagy, szép, hideg.",
-    q3: "Melyik a melléknév?", a3: "okos", b3: "szeretni", c3: "szobában", d3: "valamikor",
+    // T3: Melléknév (Magnet)
+    t3_title: "A Melléknév",
+    t3_text: "A melléknevek tulajdonságokat fejeznek ki. Megmutatják, hogy egy főnév milyen színű, alakú, mekkora vagy milyen belső tulajdonsága van.",
+    t3_b1: "Kérdése: Milyen?",
+    t3_b2: "Például: okos, kék, hatalmas.",
+    t3_inst: "Párosítsd a főnevet egy hozzá illő melléknévvel!",
+    t3_l1: "Citrom", t3_r1: "savanyú",
+    t3_l2: "Róka", t3_r2: "ravasz",
+    t3_l3: "Hegy", t3_r3: "magas",
+    t3_q: "Melyik szó MELLÉKNÉV?",
+    t3_q_a: "szorgalmas", t3_q_b: "tanuló", t3_q_c: "tanul", t3_q_d: "toll",
 
-    t4: "Szóösszetételek", tx4: "Két vagy több szó összekapcsolódásakor szóösszetétel keletkezik. Például: napló = nap + ló.",
-    q4: "Az alábbiak közül melyik szóösszetétel?", a4: "ceruzatartó", b4: "szarka", c4: "játszik", d4: "meleg",
+    // T4: Nevelő és Névutó (Highlight)
+    t4_title: "Pici, de fontos szavak",
+    t4_text: "A NEVELŐK (a, az, egy) a főnevek előtt állnak. A NÉVUTÓK (alatt, felett, mellett) pedig megmutatják, hol helyezkedik el valami.",
+    t4_b1: "Nevelő: a ház, az alma.",
+    t4_b2: "Névutó: a ház MÖGÖTT.",
+    t4_inst: "Jelöld ki a mondatban a NÉVUTÓT (ami megmutatja a helyet)!",
+    t4_tok0: "A", t4_tok1: "kismacska", t4_tok2: "az", t4_tok3: "asztal", t4_tok4: "alatt", t4_tok5: "alszik.",
+    t4_q: "Melyik egy NÉVUTÓ az alábbiak közül?",
+    t4_q_a: "mellett", t4_q_b: "piros", t4_q_c: "szalad", t4_q_d: "asztal",
 
-    t5: "Szófajok összefoglalása", tx5: "A szófajok segítik a szöveg megértését és helyes felépítését.",
-    q5: "Válassz ki egy főnevet az alábbiak közül!", a5: "virág", b5: "zöld", c5: "szikra", d5: "szalad",
-  },
-  de: {
-    t1: "Hauptwörter", tx1: "Das Hauptwort (Substantiv) ist der Name eines Gegenstandes, einer Person oder eines Wesens. Zum Beispiel: Hund, Stuhl, Péter, Stadt.",
-    q1: "Welches ist ein Hauptwort?", a1: "Hund", b1: "schön", c1: "läuft", d1: "sehr",
-
-    t2: "Verben", tx2: "Das Verb drückt eine Handlung, ein Geschehen oder einen Zustand aus. Zum Beispiel: läuft, liest, schläft, spielt.",
-    q2: "Welches ist ein Verb?", a2: "Elster", b2: "schön", c2: "spaziert", d2: "schnell",
-
-    t3: "Adjektive", tx3: "Das Adjektiv beschreibt das Hauptwort. Zum Beispiel: rot, groß, schön, kalt.",
-    q3: "Welches ist ein Adjektiv?", a3: "weise", b3: "lieben", c3: "im Zimmer", d3: "irgendwann",
-
-    t4: "Zusammengesetzte Wörter", tx4: "Wenn zwei oder mehr Wörter verbunden werden, entsteht ein zusammengesetztes Wort.",
-    q4: "Welches ist ein zusammengesetztes Wort?", a4: "Stifthalter", b4: "Elster", c4: "spielt", d4: "warm",
-
-    t5: "Wortarten zusammengefasst", tx5: "Die Wortarten helfen uns, den Text zu verstehen und richtig zu schreiben.",
-    q5: "Wähle ein Hauptwort aus!", a5: "Blume", b5: "grün", c5: "Funke", d5: "läuft",
-  },
+    // T5: Fun Catch
+    t5_title: "Szófaj-szakértő",
+    t5_text: "Gratulálok! Már felismered a legfontosabb szófajokat: a főnevet, az igét és a melléknevet is.",
+    t5_b1: "Tudod a kérdéseiket.",
+    t5_b2: "Ismered a névutókat is.",
+    t5_inst: "Kapj el 6 aranytallért a győzelemhez!",
+    t5_q: "Hány nevelő van ebben a mondatban: 'A kutya és egy cica játszik.'",
+    t5_q_a: "2", t5_q_b: "1", t5_q_c: "3", t5_q_d: "0",
+  }
 };
+
+// ─── TOPICS ──────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "ki", label: "t1_bucket_ki" },
+        { id: "mi", label: "t1_bucket_mi" },
+      ],
+      items: [
+        { text: "t1_item_k1", bucketId: "ki" },
+        { text: "t1_item_m1", bucketId: "mi" },
+        { text: "t1_item_k2", bucketId: "ki" },
+        { text: "t1_item_m2", bucketId: "mi" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b2",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t2_inst",
+      targets: [
+        { id: "tgt1", text: "t2_target_1", isCorrect: true },
+        { id: "tgt2", text: "t2_target_2", isCorrect: false },
+        { id: "tgt3", text: "t2_target_3", isCorrect: false },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b2",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: (lang) => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t3_l1", right: "t3_r1" },
+        { left: "t3_l2", right: "t3_r2" },
+        { left: "t3_l3", right: "t3_r3" },
+      ],
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: (lang) => <Topic4Svg />,
+    bulletKeys: ["t4_b1", "t4_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t4_tok0", "t4_tok1", "t4_tok2", "t4_tok3", "t4_tok4", "t4_tok5"],
+      correctIndices: [4], // "alatt"
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: (lang) => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "💰", count: 6 },
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <circle cx="60" cy="80" r="30" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="60" y="85" textAnchor="middle" fontSize="36" fill="#4ECDC4">🐕</text>
-          <circle cx="180" cy="80" r="30" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="180" y="85" textAnchor="middle" fontSize="36" fill="#4ECDC4">🪑</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <text x="120" y="50" textAnchor="middle" fontSize="20" fill="#B44DFF" fontWeight="bold">futás</text>
-          <path d="M 60 100 L 180 100" stroke="#B44DFF" strokeWidth="3" />
-          <circle cx="80" cy="100" r="4" fill="#B44DFF" />
-          <circle cx="120" cy="100" r="4" fill="#B44DFF" />
-          <circle cx="160" cy="100" r="4" fill="#B44DFF" />
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "c2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="30" y="40" width="80" height="80" rx="8" fill="#FF6B9D" opacity="0.3" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="70" y="85" textAnchor="middle" fontSize="28" fill="#FF6B9D" fontWeight="bold">piros</text>
-          <rect x="130" y="40" width="80" height="80" rx="8" fill="#4ECDC4" opacity="0.3" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="170" y="85" textAnchor="middle" fontSize="28" fill="#4ECDC4" fontWeight="bold">nagy</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <rect x="20" y="50" width="50" height="50" rx="4" fill="#95E1D3" opacity="0.4" stroke="#95E1D3" strokeWidth="2" />
-          <text x="45" y="82" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">ceruza</text>
-          <text x="120" y="82" textAnchor="middle" fontSize="16" fill="#FFD700" fontWeight="bold">+</text>
-          <rect x="150" y="50" width="50" height="50" rx="4" fill="#95E1D3" opacity="0.4" stroke="#95E1D3" strokeWidth="2" />
-          <text x="175" y="82" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">tartó</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="60" cy="50" r="12" fill="#4ECDC4" />
-          <text x="60" y="60" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">F</text>
-          <circle cx="120" cy="50" r="12" fill="#B44DFF" />
-          <text x="120" y="60" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">I</text>
-          <circle cx="180" cy="50" r="12" fill="#FF6B9D" />
-          <text x="180" y="60" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">M</text>
-          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="white/60">Szófajok</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🔤",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function WordTypesExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function WordTypesExplorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={2} 
+      explorerId="magyar_o2_i1" 
+      color="#FF2D78" 
+      lang={lang} 
+      onDone={onDone} 
+    />
+  );
 }

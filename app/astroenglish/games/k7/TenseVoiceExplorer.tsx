@@ -1,129 +1,283 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// TenseVoiceExplorer.tsx — AstroEnglish Grade 7: i3 Tense & Voice
+// Topics: 1) Active vs Passive 2) Tense Identification 3) Spot the Passive Verb 4) Active Shift 5) Time Catch
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── INLINE SVG ILLUSTRATIONS (Strictly Geometric) ───────
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#020617" rx="20" />
+      {/* Active vs Passive Arrows */}
+      <g transform="translate(120, 70)">
+        {/* Active: Left to Right */}
+        <path d="M -60,-15 L 40,-15" stroke="#10B981" strokeWidth="4" />
+        <polygon points="40,-25 55,-15 40,-5" fill="#10B981" />
+        <text x="-10" y="-25" textAnchor="middle" fontSize="10" fill="#6EE7B7">Actor → Action</text>
+        
+        {/* Passive: Right to Left */}
+        <path d="M 60,25 L -40,25" stroke="#F43F5E" strokeWidth="4" />
+        <polygon points="-40,15 -55,25 -40,35" fill="#F43F5E" />
+        <text x="10" y="15" textAnchor="middle" fontSize="10" fill="#FDA4AF">Action ← Receiver</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#172554" rx="20" />
+      {/* Timeline Clock */}
+      <g transform="translate(120, 70)">
+        <path d="M -80,0 L 80,0" stroke="#3B82F6" strokeWidth="2" strokeDasharray="5,5" />
+        <circle cx="-50" cy="0" r="15" fill="#1E3A8A" stroke="#60A5FA" strokeWidth="2" />
+        <text x="-50" y="4" textAnchor="middle" fontSize="10" fill="#BFDBFE">PAST</text>
+        
+        <circle cx="0" cy="0" r="20" fill="#1D4ED8" stroke="#93C5FD" strokeWidth="2" />
+        <text x="0" y="4" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#EFF6FF">NOW</text>
+        
+        <circle cx="50" cy="0" r="15" fill="#1E3A8A" stroke="#60A5FA" strokeWidth="2" />
+        <text x="50" y="4" textAnchor="middle" fontSize="10" fill="#BFDBFE">FUT</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic5Svg = memo(function Topic5Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#082F49" rx="20" />
+      {/* Time Vortex */}
+      <g transform="translate(120, 70)">
+        <circle cx="0" cy="0" r="40" fill="none" stroke="#0284C7" strokeWidth="2" opacity="0.4" />
+        <circle cx="0" cy="0" r="25" fill="none" stroke="#38BDF8" strokeWidth="2" opacity="0.6" />
+        <circle cx="0" cy="0" r="10" fill="#7DD3FC" />
+        <path d="M 0,0 L 0,-15 M 0,0 L 10,10" stroke="#0C4A6E" strokeWidth="2" strokeLinecap="round" />
+        <text x="0" y="55" textAnchor="middle" fontSize="12" fontWeight="bold" fill="#BAE6FD">Tap the Clocks!</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── LABELS (100% ENGLISH) ──────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    t1: "Perfect Tenses", tx1: "Present Perfect: 'I have finished' (action started in past, continues now). Past Perfect: 'I had finished' (before another past action).",
-    q1: "Which uses present perfect correctly?", a1: "I have finished my homework", b1: "I finish my homework yesterday", c1: "I finished already homework", d1: "I am finished since 2 hours",
-    t2: "Active vs Passive Voice", tx2: "Active: The dog chased the cat. Passive: The cat was chased by the dog. Passive emphasizes the receiver of the action.",
-    q2: "Which is passive voice?", a2: "She wrote the letter", b2: "The letter was written by her", c2: "She is writing letters", d2: "The letter writes itself",
-    t3: "Voice Consistency", tx3: "Keep the same voice within a sentence for clarity. Switching voices can confuse readers.",
-    q3: "Which sentence maintains consistent voice?", a3: "The teacher explained the lesson, and the students understood it", b3: "The lesson was explained by the teacher, and the students understood it", c3: "The teacher explained, and it was understood", d3: "Explaining happened by the teacher",
-    t4: "Conditional Tenses", tx4: "First conditional (real): If I go, I will see. Second conditional (unreal): If I went, I would see.",
-    q4: "Which shows correct conditional tense?", a4: "If I will go, I will see", b4: "If I go, I will see", c4: "If I would go, I see", d4: "If I went, I will see",
-    t5: "Reported Speech & Tense Shift", tx5: "When reporting what someone said, tense usually shifts back: 'He said he is happy' → 'He said he was happy'.",
-    q5: "Which correctly reports the speech?", a5: "She said that she will come tomorrow", b5: "She said that she would come the next day", c5: "She said that she is coming next day", d5: "She said that she is come tomorrow",
-  },
-  de: {
-    t1: "Perfekt-Tempora", tx1: "Präsens Perfekt: 'Ich habe fertig gemacht' (in der Vergangenheit begonnen, jetzt noch relevant).",
-    q1: "Welcher nutzt Präsens Perfekt richtig?", a1: "I have finished my homework", b1: "I finish homework yesterday", c1: "I finished homework already", d1: "I am finished since hours",
-    t2: "Aktiv vs Passiv", tx2: "Aktiv: Der Hund jagte die Katze. Passiv: Die Katze wurde vom Hund gejagt.",
-    q2: "Welcher ist Passiv?", a2: "She wrote the letter", b2: "The letter was written by her", c2: "She is writing letters", d2: "The letter writes",
-    t3: "Stimm-Konsistenz", tx3: "Halte die gleiche Stimme innerhalb eines Satzes.",
-    q3: "Welcher Satz hat konsistente Stimme?", a3: "Der Lehrer erklärte die Lektion, Schüler verstanden", b3: "Die Lektion wurde erklärt, Schüler verstanden", c3: "Der Lehrer erklärte, es wurde verstanden", d3: "Erklären geschah vom Lehrer",
-    t4: "Bedingte Tempora", tx4: "Erste Bedingung: Wenn ich gehe, werde ich sehen. Zweite: Wenn ich ginge, würde ich sehen.",
-    q4: "Welcher zeigt richtige bedingte Form?", a4: "If I will go, I will see", b4: "If I go, I will see", c4: "If I would go, I see", d4: "If I went, I will see",
-    t5: "Indirekte Rede", tx5: "Tense-Verschiebung: 'Er sagte, er ist glücklich' → 'Er sagte, er war glücklich'.",
-    q5: "Welcher berichtet die Rede korrekt?", a5: "She said that she will come tomorrow", b5: "She said that she would come next day", c5: "She said that she is coming", d5: "She said she comes tomorrow",
-  },
+    explorer_title: "Tense & Voice",
+    
+    // T1: Active vs Passive (DROP GAME)
+    t1_title: "Active or Passive?",
+    t1_text: "In the ACTIVE voice, the subject performs the action (The pilot flew the ship). In the PASSIVE voice, the subject receives the action (The ship was flown by the pilot).",
+    t1_b1: "Active: Subject -> Verb -> Object.",
+    t1_b2: "Passive: Object -> 'to be' + Past Participle -> (by Subject).",
+    t1_b3: "Passive often uses the word 'by'.",
+    t1_inst: "Sort the transmission logs into Active or Passive buckets!",
+    t1_bucket_act: "Active Voice",
+    t1_bucket_pas: "Passive Voice",
+    t1_item_a1: "The robot fixed the engine.", t1_item_a2: "We explored Mars.",
+    t1_item_p1: "The engine was fixed by the robot.", t1_item_p2: "Mars was explored by us.",
+    t1_q: "Which voice focuses on WHO is doing the action?",
+    t1_q_a: "Active Voice", t1_q_b: "Passive Voice", t1_q_c: "Future Voice", t1_q_d: "Silent Voice",
+
+    // T2: Tense Identification (MAGNET MATCH)
+    t2_title: "The Timeline",
+    t2_text: "Verbs tell us WHEN an action happens. English has simple tenses (Past, Present, Future), continuous tenses (is happening right now), and perfect tenses (had happened before something else).",
+    t2_b1: "Present Continuous: I am flying.",
+    t2_b2: "Future Simple: I will fly.",
+    t2_b3: "Past Perfect: I had flown.",
+    t2_inst: "Magnet Match: Connect the sentence to its correct tense!",
+    t2_l1: "I am repairing the hull.", t2_r1: "Present Continuous",
+    t2_l2: "We will launch tomorrow.", t2_r2: "Future Simple",
+    t2_l3: "She had already left.", t2_r3: "Past Perfect",
+    t2_q: "What tense is 'They walked to the station'?",
+    t2_q_a: "Past Simple", t2_q_b: "Present Simple", t2_q_c: "Future Simple", t2_q_d: "Past Continuous",
+
+    // T3: Spot the Passive Verb (HIGHLIGHT)
+    t3_title: "Radar Scan: Passive Verbs",
+    t3_text: "A passive verb phrase ALWAYS includes a form of the 'to be' verb (am, is, are, was, were, be, being, been) plus a past participle (like 'seen', 'built', 'discovered').",
+    t3_b1: "Find the 'to be' helper verb.",
+    t3_b2: "Find the main action verb ending in -ed, -en, etc.",
+    t3_b3: "Highlight both words!",
+    t3_inst: "Highlight the PASSIVE VERB PHRASE in the sentence below!",
+    t3_tok0: "The", t3_tok1: "alien", t3_tok2: "artifact", t3_tok3: "was", t3_tok4: "discovered", t3_tok5: "in", t3_tok6: "the", t3_tok7: "crater.",
+    t3_q: "What is the 'to be' verb in the sentence above?",
+    t3_q_a: "was", t3_q_b: "discovered", t3_q_c: "alien", t3_q_d: "in",
+
+    // T4: Shifting to Active (SLINGSHOT)
+    t4_title: "Active Shift",
+    t4_text: "Strong writing often prefers the active voice. To change a passive sentence to active, find who did the action and make them the subject of the sentence.",
+    t4_b1: "Passive: The alert was sounded by the captain.",
+    t4_b2: "Active: The captain sounded the alert.",
+    t4_b3: "Make the 'doer' the boss of the sentence.",
+    t4_inst: "Shoot the asteroid that correctly changes this passive sentence to ACTIVE: 'The laser was fired by the pilot.'",
+    t4_target_1: "The pilot fired the laser.", // Correct
+    t4_target_2: "The laser fired the pilot.",
+    t4_target_3: "The pilot is firing the laser.",
+    t4_q: "Why is active voice usually better in writing?",
+    t4_q_a: "It is more direct and energetic.", t4_q_b: "It is longer and more complicated.", t4_q_c: "It uses more 'to be' verbs.", t4_q_d: "It hides the subject.",
+
+    // T5: Fun Catch
+    t5_title: "Time Commander",
+    t5_text: "You have mastered the flow of time and action! You know when to use active power and when to use passive observation.",
+    t5_b1: "Active = Subject does it.",
+    t5_b2: "Passive = Subject receives it.",
+    t5_b3: "Catch 5 Time Clocks!",
+    t5_inst: "Tap the 5 time clocks (⏱️) to synchronize the engines!",
+    t5_q: "Which word is the Past Participle of 'write'?",
+    t5_q_a: "written", t5_q_b: "wrote", t5_q_c: "writing", t5_q_d: "writes",
+  }
 };
+
+// ─── TOPICS ─────────────────────────────────────────────────────────
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "act", label: "t1_bucket_act" },
+        { id: "pas", label: "t1_bucket_pas" },
+      ],
+      items: [
+        { text: "t1_item_a1", bucketId: "act" },
+        { text: "t1_item_p1", bucketId: "pas" },
+        { text: "t1_item_a2", bucketId: "act" },
+        { text: "t1_item_p2", bucketId: "pas" },
+      ],
+      instruction: "t1_inst",
+      hint1: "t1_b1",
+      hint2: "t1_b3",
+    },
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_q_a", "t1_q_b", "t1_q_c", "t1_q_d"],
+      answer: "t1_q_a",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "t2_l1", right: "t2_r1" },
+        { left: "t2_l2", right: "t2_r2" },
+        { left: "t2_l3", right: "t2_r3" },
+      ],
+      instruction: "t2_inst",
+      hint1: "t2_b1",
+      hint2: "t2_b3",
+    },
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_q_a", "t2_q_b", "t2_q_c", "t2_q_d"],
+      answer: "t2_q_a",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5", "t3_tok6", "t3_tok7"],
+      correctIndices: [3, 4], // "was discovered"
+      instruction: "t3_inst",
+      hint1: "t3_b1",
+      hint2: "t3_b2",
+    },
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_q_a", "t3_q_b", "t3_q_c", "t3_q_d"],
+      answer: "t3_q_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t4_b1", "t4_b2", "t4_b3"],
+    interactive: {
+      type: "physics-slingshot",
+      question: "t4_inst",
+      targets: [
+        { id: "tgt1", text: "t4_target_1", isCorrect: true }, 
+        { id: "tgt2", text: "t4_target_2", isCorrect: false },
+        { id: "tgt3", text: "t4_target_3", isCorrect: false },
+      ],
+      instruction: "t4_inst",
+      hint1: "t4_b1",
+      hint2: "t4_b2",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_q_a", "t4_q_b", "t4_q_c", "t4_q_d"],
+      answer: "t4_q_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic5Svg />,
+    bulletKeys: ["t5_b1", "t5_b2", "t5_b3"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "⏱️", count: 5 }, 
+      instruction: "t5_inst",
+      hint1: "t5_b1",
+      hint2: "t5_b2",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_q_a", "t5_q_b", "t5_q_c", "t5_q_d"],
+      answer: "t5_q_a",
+    },
+  },
+];
+
+// ─── DEF ────────────────────────────────────────────────────────────
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1f2937"/>
-          <path d="M30,80 L120,80" stroke="#f59e0b" strokeWidth="3"/>
-          <circle cx="30" cy="80" r="8" fill="#f59e0b"/>
-          <text x="75" y="75" textAnchor="middle" fontSize="11" fill="#fcd34d" fontWeight="bold">Perfect</text>
-          <circle cx="120" cy="80" r="8" fill="#f59e0b"/>
-          <text x="120" y="140" textAnchor="middle" fontSize="12" fill="#fcd34d">have + past participle</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1e3a8a"/>
-          <rect x="30" y="50" width="80" height="50" rx="4" fill="#0ea5e9" opacity="0.7"/>
-          <text x="70" y="80" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">Active</text>
-          <path d="M110,75 L130,75" stroke="#0ea5e9" strokeWidth="2" markerEnd="url(#arrow)"/>
-          <rect x="130" y="50" width="80" height="50" rx="4" fill="#06b6d4" opacity="0.7"/>
-          <text x="170" y="80" textAnchor="middle" fontSize="12" fill="white" fontWeight="bold">Passive</text>
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2d1b69"/>
-          <circle cx="50" cy="80" r="18" fill="#10b981" opacity="0.7"/>
-          <text x="50" y="85" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">A</text>
-          <circle cx="120" cy="80" r="18" fill="#10b981" opacity="0.7"/>
-          <text x="120" y="85" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">C</text>
-          <circle cx="190" cy="80" r="18" fill="#10b981" opacity="0.7"/>
-          <text x="190" y="85" textAnchor="middle" fontSize="14" fill="white" fontWeight="bold">A</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="12" fill="#6ee7b7">Consistent Voice</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f172a"/>
-          <rect x="20" y="40" width="95" height="70" rx="4" fill="rgba(34,197,94,0.3)" stroke="#22c55e" strokeWidth="2"/>
-          <text x="68" y="65" textAnchor="middle" fontSize="11" fill="#86efac" fontWeight="bold">1st: Real</text>
-          <text x="68" y="85" textAnchor="middle" fontSize="10" fill="#d1fae5">If... will...</text>
-          <rect x="125" y="40" width="95" height="70" rx="4" fill="rgba(139,92,246,0.3)" stroke="#a855f7" strokeWidth="2"/>
-          <text x="173" y="65" textAnchor="middle" fontSize="11" fill="#e9d5ff" fontWeight="bold">2nd: Unreal</text>
-          <text x="173" y="85" textAnchor="middle" fontSize="10" fill="#f3e8ff">If... would...</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "b4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a1a2e"/>
-          <text x="30" y="70" fontSize="14" fill="#f87171" fontStyle="italic">"I am happy"</text>
-          <path d="M140,60 L180,60" stroke="#f87171" strokeWidth="2"/>
-          <text x="190" y="70" fontSize="13" fill="#fbcfe8" fontWeight="bold">→</text>
-          <text x="30" y="120" fontSize="13" fill="#60a5fa" fontStyle="italic">"She said she was happy"</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "b5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "⏱️",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+// ─── EXPORT ─────────────────────────────────────────────────────────
 
-export default function TenseVoiceExplorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
-}
+const TenseVoiceExplorer = memo(function TenseVoiceExplorer({
+  color = "#0369A1", // Sky-700 (időgép kék)
+  onDone,
+  lang = "en",
+}: {
+  color?: string;
+  onDone: (s: number, t: number) => void;
+  lang?: string;
+}) {
+  return (
+    <ExplorerEngine 
+      def={DEF} 
+      grade={7} 
+      explorerId="english_k7_tense_voice" 
+      color={color} 
+      lang="en" 
+      onDone={onDone} 
+    />
+  );
+});
+
+export default TenseVoiceExplorer;

@@ -35,6 +35,12 @@ import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
 import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
 import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
 import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
+import PhoneticsO5Explorer from "@/app/astromagyar/games/o5/PhoneticsExplorer";
+import TextScienceO5Explorer from "@/app/astromagyar/games/o5/TextScienceExplorer";
+import StyleBasicsO5Explorer from "@/app/astromagyar/games/o5/StyleBasicsExplorer";
+import SpellingO5Explorer from "@/app/astromagyar/games/o5/SpellingExplorer";
+import LiteratureO5Explorer from "@/app/astromagyar/games/o5/LiteratureExplorer";
+import ReviewO5Explorer from "@/app/astromagyar/games/o5/ReviewO5Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -784,6 +790,53 @@ export default function AstroMagyarO5Page() {
         </div>
       )}
 
+      {screen === "phonetics-explorer-o5" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <PhoneticsO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "textscience-explorer-o5" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <TextScienceO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "stylebasics-explorer-o5" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <StyleBasicsO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "o5spelling-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <SpellingO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "literature-explorer-o5" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <LiteratureO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "revieo5-explorer" && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <ReviewO5Explorer color={color} lang={lang}
+            onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
 
       {/* Reward */}
       {screen === "reward" && earnedCard && (

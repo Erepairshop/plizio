@@ -119,6 +119,8 @@ export interface ExplorerDef {
   icon?: string;
   /** Topic-based mode: each topic = teach → interact → quiz (overrides rounds) */
   topics?: TopicDef[];
+  /** Optional background image URL (e.g. "/images/explorer/bg-default.webp") */
+  bgImage?: string;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -335,6 +337,8 @@ interface Props {
   explorerId?: string;
   /** Grade level (1-8). Adjusts AI language complexity for the student's age. */
   grade?: number;
+  /** Override background image (takes precedence over def.bgImage) */
+  bgImage?: string;
   onDone?: (score: number, total: number) => void;
   onClose?: () => void;
 }
@@ -377,7 +381,7 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade, bgImage }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const tDe = def.labels.de;
@@ -399,7 +403,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
   // ── Topic-based mode detection ──────────────────────────────────────────
   const isTopicMode = !!(def.topics && def.topics.length > 0);
-  const topics = def.topics || [];
+  // Shuffle topic quiz choices so the correct answer isn't always first
+  const topics = useMemo(() => {
+    if (!def.topics) return [];
+    return def.topics.map(t => {
+      if (!t.quiz || !t.quiz.choices) return t;
+      return { ...t, quiz: { ...t.quiz, choices: shuffle([...t.quiz.choices]) } };
+    });
+  }, []);  // eslint-disable-line react-hooks/exhaustive-deps
   const totalTopics = topics.length;
 
   const [round, setRound] = useState(0);
@@ -475,10 +486,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   }, []);  // eslint-disable-line react-hooks/exhaustive-deps
 
   // Shuffle MCQ pools for review rounds (rounds with multiple questions)
+  // Also shuffle each question's choices so the correct answer isn't always first
   const shuffledQuestions = useMemo(() => {
-    return rounds.map((r) =>
-      r.questions && r.questions.length > 1 ? shuffle(r.questions) : r.questions || []
-    );
+    return rounds.map((r) => {
+      const pool = r.questions && r.questions.length > 1 ? shuffle(r.questions) : r.questions || [];
+      return pool.map(q => ({ ...q, choices: shuffle([...q.choices]) }));
+    });
   }, []);  // eslint-disable-line react-hooks/exhaustive-deps
 
   // Get current MCQ question
@@ -876,6 +889,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
+      {/* Background image */}
+      {(bgImage || def.bgImage) && (
+        <div className="absolute inset-0 z-0">
+          <img src={bgImage || def.bgImage} alt="" className="w-full h-full object-cover opacity-30" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#060614]/60 via-transparent to-[#060614]/80" />
+        </div>
+      )}
       {/* Close button */}
       <button
         onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
@@ -1396,15 +1416,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-magnet") {
-                      // Convert pairs (left=bucket label key, right=item label key) to buckets+items
-                      const seenBuckets = new Map<string, string>();
-                      inter.pairs.forEach((p) => { if (!seenBuckets.has(p.left)) seenBuckets.set(p.left, `b${seenBuckets.size}`); });
-                      const magnetBuckets = Array.from(seenBuckets.entries()).map(([key, id]) => ({ id, label: L(key) }));
-                      const magnetItems = inter.pairs.map((p, idx) => ({ id: String(idx), text: L(p.right), bucketId: seenBuckets.get(p.left)! }));
+                      const magnetPairs = inter.pairs.map((p: { left: string; right: string }, idx: number) => ({
+                        id: String(idx),
+                        left: L(p.left),
+                        right: L(p.right),
+                      }));
                       return (
                         <PhysicsMagnetGame
-                          buckets={magnetBuckets}
-                          items={magnetItems}
+                          pairs={magnetPairs}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );
@@ -1419,10 +1438,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-stacker") {
-                      const sentence = inter.correctOrder.map((origIdx, pos) => ({ id: `word_${origIdx}`, text: L(inter.words[origIdx]), index: pos }));
                       return (
                         <PhysicsStackerGame
-                          sentence={sentence}
+                          words={inter.words.map((w: string) => L(w))}
+                          correctOrder={inter.correctOrder}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );

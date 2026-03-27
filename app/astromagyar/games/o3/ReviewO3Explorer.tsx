@@ -1,154 +1,169 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// ReviewO3Explorer.tsx — AstroMagyar Grade 3: i9 Nagy Próba
+// Összefoglaló: Igeidők, Helyesírás, Ragozás, Mondatelemzés
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+// ─── PLACEHOLDER (SVG helyett) ───────────────────
+const PlaceholderSvg = memo(({ emoji, color }: { emoji: string; color: string }) => (
+  <svg width="100%" viewBox="0 0 240 140">
+    <rect width="240" height="140" fill={color} rx="20" opacity="0.2" />
+    <text x="50%" y="60%" textAnchor="middle" fontSize="60">{emoji}</text>
+  </svg>
+));
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Igeidők ismétlése", tx1: "Az igeidők (múlt, jelen, jövő) alapvető a nyelvtanban. Fontos az igeidőket helyesen használni.",
-    q1: "Melyik ige van jelen időben?", a1: "Olvasok", b1: "Olvastam", c1: "Olvasni fogok", d1: "Olvastál",
+    explorer_title: "Nagy Próba (3. Osztály)",
+    
+    // T1: Igeidők (Slingshot)
+    t1_title: "Időutazás",
+    t1_text: "Emlékszel az igeidőkre? A múlt már megtörtént (-t, -tt), a jelen most történik, a jövő pedig ezután fog bekövetkezni (fog).",
+    t1_inst: "Lődd le a JÖVŐ idejű igét!",
+    t1_target_1: "olvasni fog", // Helyes
+    t1_target_2: "olvasott",
+    t1_target_3: "olvas",
+    
+    // T2: Helyesírás (Bucket)
+    t2_title: "Egybe vagy Külön?",
+    t2_text: "Teszteljük a helyesírásodat! Vajon a szavakat egybe kell írni (összetett szó), vagy külön (tulajdonság)?",
+    t2_inst: "Válogasd szét a szavakat a helyesírásuk szerint!",
+    t2_bucket_egy: "Egybe",
+    t2_bucket_kul: "Külön",
+    t2_item_e1: "napraforgó", t2_item_e2: "rendőr",
+    t2_item_k1: "sárga virág", t2_item_k2: "okos diák",
 
-    t2: "Ragozás és szócsaládok", tx2: "A szavak ragozásai és a szócsaládok összekapcsolódnak. Ugyanabból a szóból sok szó születik.",
-    q2: "Melyik szó tartozik a 'szín' szócsaládba?", a2: "Sárga", b2: "Futni", c2: "Asztal", d2: "Szomorú",
+    // T3: Mondatelemzés (Highlight)
+    t3_title: "A Mondat Nyomozója",
+    t3_text: "Keresd meg a mondatban a kért mondatrészt! Emlékezz: az Alany a cselekvő, az Állítmány a cselekvés, a Tárgy (-t) az, amire irányul.",
+    t3_inst: "Jelöld ki a mondatban a TÁRGYAT (Mit?)!",
+    t3_tok0: "A", t3_tok1: "kislány", t3_tok2: "egy", t3_tok3: "piros", t3_tok4: "almát", t3_tok5: "eszik.",
 
-    t3: "Helyesírás gyakorlása", tx3: "A helyesírás szabályai segítik az érthető írást. Az egybe- és különírás fontos összetevője.",
-    q3: "Melyik szó helyesen van írva?", a3: "Autóval jöttem", b3: "Autóvaljöttem", c3: "Auto val jöttem", d3: "Autó val jöttem",
-
-    t4: "Szövegértés feladatok", tx4: "A szövegértés fejlesztése a rendszeres olvasással lehetséges. Meg kell érteni az olvasott szöveg lényegét.",
-    q4: "Mi szükséges a szövegértéshez?", a4: "Gondos olvasás és a gondolatok megértése", b4: "Gyors olvasás", c4: "Az összes szó megjegyzése", d4: "Nincs szükség erre",
-
-    t5: "Nagy Próba - Vegyes ismétlés", tx5: "A nagy próba az összes tanult anyagot lefedi. Tedd össze a tudásod és jelöld a helyes választ!",
-    q5: "Melyik nem nyelvtani kategória?", a5: "Az asztal", b5: "Az ige", c5: "Az mellékév", d5: "Az névelő",
-  },
-  de: {
-    t1: "Wiederholung der Zeiten", tx1: "Die Zeiten (Vergangenheit, Gegenwart, Zukunft) sind grundlegend in der Grammatik. Es ist wichtig, die Zeiten richtig zu verwenden.",
-    q1: "Welches Verb ist in der Gegenwart?", a1: "Ich lese", b1: "Ich las", c1: "Ich werde lesen", d1: "Ich laßt",
-
-    t2: "Flexion und Wortfamilien", tx2: "Die Flexionen von Wörtern und Wortfamilien sind miteinander verbunden. Aus einem Wort entstehen viele Wörter.",
-    q2: "Welches Wort gehört zur Wortfamilie 'Farbe'?", a2: "Gelb", b2: "Laufen", c2: "Tisch", d2: "Traurig",
-
-    t3: "Rechtschreibung üben", tx3: "Die Rechtschreibregeln unterstützen das verständliche Schreiben. Zusammenschreibung und Trennung sind wichtig.",
-    q3: "Welches Wort ist richtig geschrieben?", a3: "Ich bin mit dem Auto gekommen", b3: "Ichbinmitdemautogekommen", c3: "Ich bin mit dem Auto gekommen", d3: "Ichbin mit dem Auto gekommen",
-
-    t4: "Textverständnis-Aufgaben", tx4: "Die Entwicklung des Textverständnisses ist durch regelmäßiges Lesen möglich. Die Idee des Textes muss verstanden werden.",
-    q4: "Was ist für das Textverständnis notwendig?", a4: "Sorgfältiges Lesen und Verständnis der Gedanken", b4: "Schnelles Lesen", c4: "Merken aller Wörter", d4: "Nicht nötig",
-
-    t5: "Große Prüfung - Wiederholung gemischt", tx5: "Die große Prüfung deckt das gesamte Lernstoff ab. Nutze dein Wissen und markiere die richtige Antwort!",
-    q5: "Welches ist keine grammatikalische Kategorie?", a5: "Der Tisch", b5: "Das Verb", c5: "Das Adjektiv", d5: "Der Artikel",
-  },
+    // T4: Ragozás (Gap-fill)
+    t4_title: "Ravasz Ragok",
+    t4_text: "A toldalékokat mindig a szó hangrendjéhez (magas vagy mély) kell igazítani, és figyelni kell a mássalhangzótörvényekre is!",
+    t4_inst: "Válaszd ki a helyesen ragozott szót a mondatba!",
+    t4_sentence: "A füzetemet otthon hagytam az asztal___.",
+    t4_opt1: "on", t4_opt2: "en", t4_opt3: "ön", t4_opt4: "ba",
+  }
 };
+
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <PlaceholderSvg emoji="⏳" color="#4ECDC4" />,
+    // imageUrl: "/images/islands/k3_i9_robot_star.webp",
+    interactive: {
+      type: "physics-slingshot",
+      question: "t1_inst",
+      targets: [
+        { id: "tgt1", text: "t1_target_1", isCorrect: true },
+        { id: "tgt2", text: "t1_target_2", isCorrect: false },
+        { id: "tgt3", text: "t1_target_3", isCorrect: false },
+      ],
+      instruction: "t1_inst",
+      hint1: "Keresd a 'fog' segédigét!",
+      hint2: "Ezután történik.",
+    },
+    quiz: {
+      question: "Melyik igeidő jele a '-t, -tt'?",
+      choices: ["Múlt idő", "Jelen idő", "Jövő idő", "Nincs ilyen"],
+      answer: "Múlt idő",
+    },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <PlaceholderSvg emoji="🧩" color="#4ECDC4" />,
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "egybe", label: "t2_bucket_egy" },
+        { id: "kulon", label: "t2_bucket_kul" },
+      ],
+      items: [
+        { text: "t2_item_e1", bucketId: "egybe" },
+        { text: "t2_item_k1", bucketId: "kulon" },
+        { text: "t2_item_e2", bucketId: "egybe" },
+        { text: "t2_item_k2", bucketId: "kulon" },
+      ],
+      instruction: "t2_inst",
+      hint1: "Egy új dolog = egybe.",
+      hint2: "Egy tulajdonság = külön.",
+    },
+    quiz: {
+      question: "Hogyan írjuk helyesen a madár nevét?",
+      choices: ["jégmadár", "jég madár", "jégg madár", "jég-madár"],
+      answer: "jégmadár",
+    },
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <PlaceholderSvg emoji="🔍" color="#4ECDC4" />,
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t3_tok0", "t3_tok1", "t3_tok2", "t3_tok3", "t3_tok4", "t3_tok5"],
+      correctIndices: [4], // "almát"
+      instruction: "t3_inst",
+      hint1: "Keresd a '-t' betűt a végén!",
+      hint2: "Mit eszik a kislány?",
+    },
+    quiz: {
+      question: "Milyen mondatrész a 'kislány' az előző mondatban?",
+      choices: ["Alany", "Tárgy", "Határozó", "Jelző"],
+      answer: "Alany",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <PlaceholderSvg emoji="🧲" color="#4ECDC4" />,
+    interactive: {
+      type: "gap-fill",
+      sentence: "t4_sentence",
+      choices: ["t4_opt1", "t4_opt2", "t4_opt3", "t4_opt4"],
+      correctIndex: 0,
+      instruction: "t4_inst",
+      hint1: "Asztal... milyen hangrendű szó?",
+      hint2: "Mély hangrendű.",
+    },
+    quiz: {
+      question: "Hogyan írjuk helyesen: kéz + vel?",
+      choices: ["kézzel", "kézvel", "kézel", "kéz-vel"],
+      answer: "kézzel",
+    },
+  },
+  {
+    infoTitle: "Galaktikus Bajnok",
+    infoText: "Hihetetlen vagy! Befejezted a 3. osztályt! Bebizonyítottad, hogy igazi mestere vagy a magyar nyelvnek.",
+    svg: () => <PlaceholderSvg emoji="🌟" color="#4ECDC4" />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "🏆", count: 6 },
+      instruction: "Gyűjts be 6 bajnoki trófeát!",
+      hint1: "Kattints gyorsan!",
+      hint2: "Minden trófea a tiéd!",
+    },
+    quiz: {
+      question: "Készen állsz a 4. osztályos kalandokra?",
+      choices: ["Igen, indulhatunk!", "Még szép!", "Mindig készen állok!", "Alig várom!"],
+      answer: "Igen, indulhatunk!",
+    }
+  }
+];
 
 const DEF: ExplorerDef = {
   labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <text x="50" y="55" textAnchor="middle" fontSize="12" fill="#4ECDC4" fontWeight="bold">Múlt</text>
-          <text x="120" y="55" textAnchor="middle" fontSize="12" fill="#95E1D3" fontWeight="bold">Jelen</text>
-          <text x="190" y="55" textAnchor="middle" fontSize="12" fill="#B44DFF" fontWeight="bold">Jövő</text>
-          <circle cx="50" cy="80" r="12" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <circle cx="120" cy="80" r="12" fill="none" stroke="#95E1D3" strokeWidth="2" />
-          <circle cx="190" cy="80" r="12" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <line x1="70" y1="80" x2="100" y2="80" stroke="#FF6B9D" strokeWidth="2" />
-          <line x1="140" y1="80" x2="170" y2="80" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="130" textAnchor="middle" fontSize="11" fill="#4ECDC4" fontWeight="bold">Igeidők</text>
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="120" cy="65" r="20" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="72" textAnchor="middle" fontSize="11" fill="#B44DFF" fontWeight="bold">szín</text>
-          <circle cx="70" cy="100" r="12" fill="#4ECDC4" opacity="0.7" />
-          <text x="70" y="107" textAnchor="middle" fontSize="8" fill="white">sárga</text>
-          <circle cx="120" cy="110" r="12" fill="#95E1D3" opacity="0.7" />
-          <text x="120" y="117" textAnchor="middle" fontSize="8" fill="white">piros</text>
-          <circle cx="170" cy="100" r="12" fill="#FF6B9D" opacity="0.7" />
-          <text x="170" y="107" textAnchor="middle" fontSize="8" fill="white">kék</text>
-          <line x1="100" y1="85" x2="80" y2="95" stroke="#95E1D3" strokeWidth="1" opacity="0.5" />
-          <line x1="120" y1="85" x2="120" y2="98" stroke="#95E1D3" strokeWidth="1" opacity="0.5" />
-          <line x1="140" y1="85" x2="160" y2="95" stroke="#95E1D3" strokeWidth="1" opacity="0.5" />
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "a2" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="30" y="40" width="180" height="80" rx="8" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="60" textAnchor="middle" fontSize="10" fill="#FF6B9D" fontWeight="bold">Helyesírás</text>
-          <line x1="40" y1="70" x2="200" y2="70" stroke="#FF6B9D" strokeWidth="1" opacity="0.5" />
-          <text x="60" y="90" fontSize="9" fill="#FF6B9D">Egybe</text>
-          <text x="120" y="90" fontSize="9" fill="#FF6B9D">Külön</text>
-          <text x="180" y="90" fontSize="9" fill="#FF6B9D">Kötőjel</text>
-          <text x="120" y="130" textAnchor="middle" fontSize="10" fill="white" fontWeight="bold">Helyes írás</text>
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "a3" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <rect x="40" y="30" width="160" height="100" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <line x1="45" y1="45" x2="195" y2="45" stroke="#4ECDC4" strokeWidth="1" opacity="0.4" />
-          <line x1="45" y1="60" x2="195" y2="60" stroke="#4ECDC4" strokeWidth="1" opacity="0.4" />
-          <line x1="45" y1="75" x2="195" y2="75" stroke="#4ECDC4" strokeWidth="1" opacity="0.4" />
-          <line x1="45" y1="90" x2="195" y2="90" stroke="#4ECDC4" strokeWidth="1" opacity="0.4" />
-          <line x1="45" y1="105" x2="195" y2="105" stroke="#4ECDC4" strokeWidth="1" opacity="0.4" />
-          <text x="120" y="135" textAnchor="middle" fontSize="11" fill="#4ECDC4" fontWeight="bold">Szövegértés</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
-    },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <circle cx="50" cy="50" r="14" fill="#4ECDC4" opacity="0.8" />
-          <text x="50" y="57" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">1</text>
-          <circle cx="100" cy="80" r="14" fill="#95E1D3" opacity="0.8" />
-          <text x="100" y="87" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">2</text>
-          <circle cx="150" cy="60" r="14" fill="#B44DFF" opacity="0.8" />
-          <text x="150" y="67" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">3</text>
-          <circle cx="190" cy="90" r="14" fill="#FF6B9D" opacity="0.8" />
-          <text x="190" y="97" textAnchor="middle" fontSize="9" fill="white" fontWeight="bold">4</text>
-          <path d="M 50 50 L 100 80 L 150 60 L 190 90" stroke="#FFD700" strokeWidth="2" fill="none" opacity="0.6" />
-          <text x="120" y="135" textAnchor="middle" fontSize="11" fill="#FFD700" fontWeight="bold">Vegyes Próba</text>
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "a5" }],
-    },
-  ],
+  title: "explorer_title",
+  icon: "🌟",
+  topics: TOPICS,
+  rounds: [],
 };
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
-
-export default function ReviewO3Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function ReviewO3Explorer({ onDone, lang = "hu", color }: { onDone: (s: number, t: number) => void; lang?: string; color?: string }) {
+  return <ExplorerEngine def={DEF} grade={3} explorerId="magyar_o3_i9" color="#4ECDC4" lang={lang} onDone={onDone} />;
 }

@@ -1,133 +1,184 @@
 "use client";
-import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+// GrammarO2Explorer.tsx — AstroMagyar Grade 2: Nyelvtan alapok
+
+import { memo } from "react";
+import ExplorerEngine from "@/app/astro-sachkunde/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-sachkunde/games/ExplorerEngine";
+
+const Topic1Svg = memo(function Topic1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#064E3B" rx="20" />
+      <g transform="translate(120, 70)">
+        <rect x="-50" y="-20" width="40" height="28" fill="#10B981" rx="6" />
+        <rect x="10" y="-20" width="40" height="28" fill="#34D399" rx="6" />
+        <text x="-30" y="0" textAnchor="middle" fontSize="14" fill="#fff" fontWeight="bold">Fő</text>
+        <text x="30" y="0" textAnchor="middle" fontSize="14" fill="#fff" fontWeight="bold">Ige</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="11" fill="#A7F3D0" fontWeight="bold">MONDATRÉSZEK</text>
+      </g>
+    </svg>
+  );
+});
+
+const Topic2Svg = memo(function Topic2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#065F46" rx="20" />
+      <g transform="translate(120, 70)">
+        <circle cx="-30" cy="-10" r="18" fill="#10B981" />
+        <circle cx="30" cy="-10" r="18" fill="#34D399" />
+        <text x="-30" y="-5" textAnchor="middle" fontSize="10" fill="#fff" fontWeight="bold">Ki?</text>
+        <text x="30" y="-5" textAnchor="middle" fontSize="10" fill="#fff" fontWeight="bold">Mit?</text>
+        <text x="0" y="35" textAnchor="middle" fontSize="11" fill="#A7F3D0" fontWeight="bold">KÉRDŐSZAVAK</text>
+      </g>
+    </svg>
+  );
+});
 
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
-    t1: "Kijelentő mondat", tx1: "A kijelentő mondat egy állítást fejez ki, és ponttal végződik. Például: Anna szép virágokat szedett.",
-    q1: "Melyik a kijelentő mondat?", a1: "Anna szép virágokat szedett.", b1: "Anna szép virágokat szedett?", c1: "Anna szép virágokat szedett!", d1: "Anna szép virágokat szedett.",
-
-    t2: "Kérdő mondat", tx2: "A kérdő mondat egy kérdést fejez ki, és kérdőjellel végződik. Például: Merre mész?",
-    q2: "Melyik a kérdő mondat?", a2: "Hol lakol.", b2: "Hol lakol?", c2: "Hol lakol!", d2: "Hol lakol,",
-
-    t3: "Felszólító mondat", tx3: "A felszólító mondat egy parancsot vagy kérést fejez ki, és felkiáltójellel végződik. Például: Ülj le!",
-    q3: "Melyik a felszólító mondat?", a3: "Menj el", b3: "Menj el.", c3: "Menj el?", d3: "Menj el!",
-
-    t4: "Mondatok pontosítása", tx4: "Az interpunkció (pont, kérdőjel, felkiáltójel) segít a mondatok helyes értelmezésében.",
-    q4: "Mi a különbség a mondat típusok között?", a4: "A végzet interpunkció", b4: "A szavak", c4: "A hossz", d4: "A szín",
-
-    t5: "Mondattan gyakorlása", tx5: "A helyes mondattan használatával tisztábban tudjuk kifejezni gondolatainkat.",
-    q5: "Melyik mondatpár helyesen írva?", a5: "Mit csináltál? Tudok játszani.", b5: "Mit csináltál. Tudok játszani!", c5: "Mit csináltál? Tudok játszani!", d5: "Mit csináltál! Tudok játszani?",
-  },
-  de: {
-    t1: "Aussagesatz", tx1: "Der Aussagesatz drückt eine Aussage aus und endet mit einem Punkt. Zum Beispiel: Anna hat schöne Blumen gepflückt.",
-    q1: "Welcher ist ein Aussagesatz?", a1: "Anna hat schöne Blumen gepflückt.", b1: "Anna hat schöne Blumen gepflückt?", c1: "Anna hat schöne Blumen gepflückt!", d1: "Anna hat schöne Blumen gepflückt.",
-
-    t2: "Fragesatz", tx2: "Der Fragesatz drückt eine Frage aus und endet mit einem Fragezeichen. Zum Beispiel: Wohin gehst du?",
-    q2: "Welcher ist ein Fragesatz?", a2: "Wo wohnst du.", b2: "Wo wohnst du?", c2: "Wo wohnst du!", d2: "Wo wohnst du,",
-
-    t3: "Aufforderungssatz", tx3: "Der Aufforderungssatz drückt einen Befehl oder eine Bitte aus und endet mit einem Ausrufezeichen. Zum Beispiel: Sitz hin!",
-    q3: "Welcher ist ein Aufforderungssatz?", a3: "Geh weg", b3: "Geh weg.", c3: "Geh weg?", d3: "Geh weg!",
-
-    t4: "Satzzeichen Klarstellung", tx4: "Die Satzzeichen (Punkt, Fragezeichen, Ausrufezeichen) helfen bei der korrekten Interpretation von Sätzen.",
-    q4: "Was ist der Unterschied zwischen den Satztypen?", a4: "Das Satzzeichen am Ende", b4: "Die Wörter", c4: "Die Länge", d4: "Die Farbe",
-
-    t5: "Satzlehre üben", tx5: "Mit korrekter Satzlehre können wir unsere Gedanken klarer ausdrücken.",
-    q5: "Welches Satzpaar ist korrekt geschrieben?", a5: "Was hast du gemacht? Ich kann spielen.", b5: "Was hast du gemacht. Ich kann spielen!", c5: "Was hast du gemacht? Ich kann spielen!", d5: "Was hast du gemacht! Ich kann spielen?",
+    explorer_title: "Nyelvtan alapok",
+    t1_title: "Mondatrészek",
+    t1_text: "Minden mondatnak van alanya (Ki? Mi?) és állítmánya (Mit csinál?). Az alany a főszereplő, az állítmány pedig az, amit csinál.",
+    t1_b1: "Az alany kérdése: Ki? Mi?",
+    t1_b2: "Az állítmány kérdése: Mit csinál?",
+    t1_inst: "Válaszd szét az alanyokat és az állítmányokat!",
+    t2_title: "Kérdőszavak",
+    t2_text: "A kérdőszavak segítenek megtalálni a mondatrészeket. Ki? Mi? Mit csinál? Hol? Mikor?",
+    t2_b1: "Ki? Mi? → alany",
+    t2_b2: "Mit csinál? → állítmány",
+    t2_inst: "Párosítsd a kérdést a mondatrésszel!",
+    t3_title: "Mondat felépítése",
+    t3_text: "A magyar mondatban a szórend rugalmas, de az alany és az állítmány mindig megvan.",
+    t3_inst: "Rakd össze a mondatot!",
+    t4_title: "Felszólító mondat",
+    t4_text: "Ha kérünk vagy parancsolunk, felszólító mondatot használunk. A végén felkiáltójel áll!",
+    t4_inst: "Találd meg a felszólító mondatokat!",
+    t5_title: "Ismétlés",
+    t5_text: "Gyakoroljuk, amit tanultunk a mondatokról!",
+    // quiz keys
+    t1_q: "Mi az alany kérdése?",
+    t1_c1: "Ki? Mi?", t1_c2: "Mit csinál?", t1_c3: "Hol?", t1_c4: "Mikor?", t1_a: "Ki? Mi?",
+    t2_q: "Melyik a mondat állítmánya: 'A kutya fut.'?",
+    t2_c1: "kutya", t2_c2: "fut", t2_c3: "A", t2_c4: "a mondat", t2_a: "fut",
+    t3_q: "Hány fő mondatrész van?",
+    t3_c1: "1", t3_c2: "2", t3_c3: "3", t3_c4: "4", t3_a: "2",
+    t4_q: "Mi áll a felszólító mondat végén?",
+    t4_c1: "Pont", t4_c2: "Kérdőjel", t4_c3: "Felkiáltójel", t4_c4: "Vessző", t4_a: "Felkiáltójel",
+    t5_q: "Melyik az alany ebben: 'Anna olvas.'?",
+    t5_c1: "Anna", t5_c2: "olvas", t5_c3: "mindkettő", t5_c4: "egyik sem", t5_a: "Anna",
   },
 };
 
-const DEF: ExplorerDef = {
-  labels: LABELS,
-  rounds: [
-    {
-      type: "mcq",
-      infoTitle: "t1",
-      infoText: "tx1",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a3a52" />
-          <rect x="30" y="40" width="180" height="50" rx="8" fill="none" stroke="#4ECDC4" strokeWidth="2" />
-          <text x="120" y="70" textAnchor="middle" fontSize="14" fill="#4ECDC4" fontWeight="bold">Anna játszik.</text>
-          <circle cx="210" cy="70" r="8" fill="#4ECDC4" />
-        </svg>
-      ),
-      questions: [{ question: "q1", choices: ["a1", "b1", "c1", "d1"], answer: "a1" }],
+const TOPICS: TopicDef[] = [
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: () => <Topic1Svg />,
+    bulletKeys: ["t1_b1", "t1_b2"],
+    interactive: {
+      type: "physics-bucket",
+      buckets: [
+        { id: "alany", label: "Alany" },
+        { id: "allit", label: "Állítmány" },
+      ],
+      items: [
+        { text: "kutya", bucketId: "alany" },
+        { text: "fut", bucketId: "allit" },
+        { text: "madár", bucketId: "alany" },
+        { text: "énekel", bucketId: "allit" },
+        { text: "gyerek", bucketId: "alany" },
+        { text: "játszik", bucketId: "allit" },
+      ],
+      instruction: "t1_inst",
+      hint1: "Ki? Mi? → Alany",
+      hint2: "Mit csinál? → Állítmány",
     },
-    {
-      type: "mcq",
-      infoTitle: "t2",
-      infoText: "tx2",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <rect x="30" y="40" width="180" height="50" rx="8" fill="none" stroke="#B44DFF" strokeWidth="2" />
-          <text x="120" y="70" textAnchor="middle" fontSize="14" fill="#B44DFF" fontWeight="bold">Hol vagy?</text>
-          <circle cx="210" cy="70" r="8" fill="#B44DFF" />
-        </svg>
-      ),
-      questions: [{ question: "q2", choices: ["a2", "b2", "c2", "d2"], answer: "b2" }],
+    quiz: {
+      question: "t1_q",
+      choices: ["t1_c1", "t1_c2", "t1_c3", "t1_c4"],
+      answer: "t1_a",
     },
-    {
-      type: "mcq",
-      infoTitle: "t3",
-      infoText: "tx3",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#0f3460" />
-          <rect x="30" y="40" width="180" height="50" rx="8" fill="none" stroke="#FF6B9D" strokeWidth="2" />
-          <text x="120" y="70" textAnchor="middle" fontSize="14" fill="#FF6B9D" fontWeight="bold">Ülj le!</text>
-          <circle cx="210" cy="70" r="8" fill="#FF6B9D" />
-        </svg>
-      ),
-      questions: [{ question: "q3", choices: ["a3", "b3", "c3", "d3"], answer: "d3" }],
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: () => <Topic2Svg />,
+    bulletKeys: ["t2_b1", "t2_b2"],
+    interactive: {
+      type: "physics-magnet",
+      pairs: [
+        { left: "Ki?", right: "Alany" },
+        { left: "Mit csinál?", right: "Állítmány" },
+        { left: "Hol?", right: "Helyhatározó" },
+        { left: "Mikor?", right: "Időhatározó" },
+      ],
+      instruction: "t2_inst",
+      hint1: "Kérdés → mondatrész",
+      hint2: "Gondolj a tanult szabályra!",
     },
-    {
-      type: "mcq",
-      infoTitle: "t4",
-      infoText: "tx4",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#1a2e4e" />
-          <circle cx="60" cy="50" r="10" fill="#4ECDC4" opacity="0.3" />
-          <text x="60" y="55" textAnchor="middle" fontSize="16" fill="#4ECDC4" fontWeight="bold">.</text>
-          <circle cx="120" cy="50" r="10" fill="#FF9500" opacity="0.3" />
-          <text x="120" y="55" textAnchor="middle" fontSize="16" fill="#FF9500" fontWeight="bold">?</text>
-          <circle cx="180" cy="50" r="10" fill="#FF6B9D" opacity="0.3" />
-          <text x="180" y="55" textAnchor="middle" fontSize="16" fill="#FF6B9D" fontWeight="bold">!</text>
-          <text x="60" y="120" textAnchor="middle" fontSize="10" fill="white/60">Kijelentő</text>
-          <text x="120" y="120" textAnchor="middle" fontSize="10" fill="white/60">Kérdő</text>
-          <text x="180" y="120" textAnchor="middle" fontSize="10" fill="white/60">Felszólító</text>
-        </svg>
-      ),
-      questions: [{ question: "q4", choices: ["a4", "b4", "c4", "d4"], answer: "a4" }],
+    quiz: {
+      question: "t2_q",
+      choices: ["t2_c1", "t2_c2", "t2_c3", "t2_c4"],
+      answer: "t2_a",
     },
-    {
-      type: "mcq",
-      infoTitle: "t5",
-      infoText: "tx5",
-      svg: () => (
-        <svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg">
-          <rect x="0" y="0" width="240" height="160" rx="16" fill="#2a1f3d" />
-          <rect x="20" y="30" width="200" height="100" rx="8" fill="none" stroke="#95E1D3" strokeWidth="2" />
-          <text x="30" y="55" fontSize="11" fill="#95E1D3">1. Mit csináltál?</text>
-          <text x="30" y="75" fontSize="11" fill="#95E1D3">2. Tudok játszani!</text>
-          <text x="30" y="95" fontSize="11" fill="#95E1D3">3. Merre mentek.</text>
-          <circle cx="220" cy="55" r="6" fill="#4ECDC4" />
-        </svg>
-      ),
-      questions: [{ question: "q5", choices: ["a5", "b5", "c5", "d5"], answer: "c5" }],
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: () => <Topic1Svg />,
+    interactive: {
+      type: "sentence-build",
+      fragments: ["A", "kutya", "a", "kertben", "játszik."],
+      instruction: "t3_inst",
+      hint1: "A nagybetű az eleje!",
+      hint2: "A pont a végén!",
     },
-  ],
-};
+    quiz: {
+      question: "t3_q",
+      choices: ["t3_c1", "t3_c2", "t3_c3", "t3_c4"],
+      answer: "t3_a",
+    },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: () => <Topic2Svg />,
+    interactive: {
+      type: "highlight-text",
+      tokens: ["Gyere", "ide!", "A", "kutya", "alszik.", "Ülj", "le!"],
+      correctIndices: [0, 5],
+      instruction: "t4_inst",
+      hint1: "Melyik mondat parancsol?",
+      hint2: "A felkiáltójel segít!",
+    },
+    quiz: {
+      question: "t4_q",
+      choices: ["t4_c1", "t4_c2", "t4_c3", "t4_c4"],
+      answer: "t4_a",
+    },
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: () => <Topic1Svg />,
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "📝", count: 5 },
+      instruction: "Gyűjts össze 5 ceruzát!",
+      hint1: "Kattints rájuk!",
+      hint2: "Már majdnem kész!",
+    },
+    quiz: {
+      question: "t5_q",
+      choices: ["t5_c1", "t5_c2", "t5_c3", "t5_c4"],
+      answer: "t5_a",
+    },
+  },
+];
 
-interface Props {
-  color: string;
-  lang?: string;
-  onDone: (s: number, t: number) => void;
-  onClose?: () => void;
-}
+const DEF: ExplorerDef = { labels: LABELS, topics: TOPICS, rounds: [] };
 
-export default function GrammarO2Explorer({ color, lang, onDone, onClose }: Props) {
-  return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
+export default function GrammarO2Explorer({ color, lang, onDone }: { color?: string; lang?: string; onDone?: (s: number, t: number) => void }) {
+  return <ExplorerEngine def={DEF} color={color || "#10B981"} lang={lang} onDone={onDone} />;
 }
