@@ -657,7 +657,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     }
   }, [targetIsland?.cx, targetIsland?.cy]);
 
-  const AVATAR_SIZE = 52;
+  const AVATAR_SIZE = 156;
 
   // Card flash
   const flashGame = useCardFlash();
