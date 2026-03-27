@@ -893,7 +893,7 @@ export const RHYME_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "letter-circles", letters: ["Hose", "Rose", "Dose", "Baum"], color: "#EF4444" },
+    svg: { type: "text-bubbles", items: [{ text: "Hose", emoji: "👖", color: "#B91C1C", bg: "#FEE2E2" }, { text: "Rose", emoji: "🌹", color: "#B91C1C", bg: "#FEE2E2" }, { text: "Dose", emoji: "🥫", color: "#B91C1C", bg: "#FEE2E2" }] },
     bulletKeys: ["t3_b1", "t3_b2"],
     interactive: {
       type: "highlight-text",
