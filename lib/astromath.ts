@@ -169,7 +169,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "spelling-summary-explorer" | "style-devices-explorer" | "text-analysis-explorer"
   | "phonics-island" | "letter-land" | "word-world" | "sentence-shore" | "reading-comp"
   | "grammar-gulf" | "story-summit" | "blend-bay" | "compound-cape" | "action-cove"
-  | "picture-word" | "memory-pair";
+  | "picture-word" | "memory-pair"
+  | "deutsch-explore";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

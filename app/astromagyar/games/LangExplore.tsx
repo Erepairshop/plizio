@@ -89,10 +89,57 @@ function getTaskConfig(topicKey: string): TaskConfig {
   return { Component: HiányosSzöveg, generator: () => genHiányosSzöveg(1)[0] };
 }
 
+// ─── Correctness checker ──────────────────────────────────────────────────────
+function checkCorrect(task: any, userAnswer: string): boolean {
+  if (!userAnswer || userAnswer.trim() === "") return false;
+
+  switch (task.type) {
+    case "mondat-rendezés":
+      // MondatRendezés sends built.join(" ") → compare to task.answer
+      return userAnswer === task.answer;
+
+    case "hiba-keresés":
+      // HibaKeresés sends String(errorIndex)
+      return userAnswer === String(task.errorIndex);
+
+    case "szófaj-sorter":
+      // SzófajSorter sends the category key ('F'|'I'|'M') → compare to task.correct
+      return userAnswer === task.correct;
+
+    case "mondatrész-jelölés":
+      // MondatrészJelölés sends roles.join(",") (e.g. "A,Á,T")
+      return userAnswer === task.roles.join(",");
+
+    case "hiányos-szöveg":
+      // HiányosSzöveg sends String(selectedIndex) → compare to correctIndex
+      return userAnswer === String(task.correctIndex);
+
+    case "szócsalád-fa":
+      // SzócsaládFa sends sorted selected indices joined: "0,1,3"
+      return userAnswer === [...task.correctIndices].sort((a: number, b: number) => a - b).join(",");
+
+    case "történet-rendezés":
+      // TörténetRendezés sends built.join(" | ") → compare to task.answer
+      return userAnswer === task.answer;
+
+    case "toldalék-választó":
+      // ToldalékVálasztó sends String(selectedIndex) → compare to correctIndex
+      return userAnswer === String(task.correctIndex);
+
+    case "kép-felismerés":
+      // KépFelismerés sends String(selectedIndex) → compare to correctIndex
+      return userAnswer === String(task.correctIndex);
+
+    default:
+      // Fallback: non-empty answer counts (for unknown types)
+      return userAnswer.trim() !== "";
+  }
+}
+
 // ─── Main component ───────────────────────────────────────────────────────────
 export default function LangExplore({ island, grade, onDone }: LangExploreProps) {
   const [taskIndex, setTaskIndex] = useState(0);
-  const [userAnswer, setUserAnswer] = useState<any>(null);
+  const [userAnswer, setUserAnswer] = useState<string>("");
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
   const [tasks, setTasks] = useState<any[]>([]);
@@ -110,14 +157,14 @@ export default function LangExplore({ island, grade, onDone }: LangExploreProps)
     setTasks(generatedTasks);
   }, [island]);
 
-  if (tasks.length === 0) return <div className="flex items-center justify-center min-h-screen text-white">Betöltés...</div>;
-
-  const currentTask = tasks[taskIndex];
+  // Derive topic config (stable — depends only on island)
   const topicKey = island.topicKeys[0] || "szavak/fonevek";
   const { Component } = getTaskConfig(topicKey);
+  const currentTask = tasks[taskIndex] ?? null;
 
   const handleCheck = useCallback(() => {
-    const isAnswerCorrect = userAnswer !== null && userAnswer !== undefined && String(userAnswer).trim() !== "";
+    if (!currentTask) return;
+    const isAnswerCorrect = checkCorrect(currentTask, userAnswer);
     setIsCorrect(isAnswerCorrect);
     setSubmitted(true);
 
@@ -125,7 +172,7 @@ export default function LangExplore({ island, grade, onDone }: LangExploreProps)
       fireWrongAnswer({
         question: `Task ${taskIndex + 1}`,
         wrongAnswer: String(userAnswer ?? ""),
-        correctAnswer: "(correct answer)",
+        correctAnswer: "(helyes válasz)",
         topic: island.name.hu ?? "Magyar feladat",
         lang: "hu",
       });
@@ -139,16 +186,20 @@ export default function LangExplore({ island, grade, onDone }: LangExploreProps)
 
       if (taskIndex < 7) {
         setTaskIndex((prev) => prev + 1);
-        setUserAnswer(null);
+        setUserAnswer("");
         setSubmitted(false);
         setIsCorrect(false);
       } else {
         onDone(newCorrect, 8);
       }
     }, 1200);
-  }, [userAnswer, taskIndex, correct, onDone]);
+  }, [userAnswer, taskIndex, correct, onDone, currentTask]);
 
   const isLastTask = taskIndex === 7;
+
+  if (tasks.length === 0 || !currentTask) {
+    return <div className="flex items-center justify-center min-h-screen text-white">Betöltés...</div>;
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#0A0A1A] via-[#12122A] to-[#0A0A1A] relative overflow-hidden">
@@ -194,27 +245,27 @@ export default function LangExplore({ island, grade, onDone }: LangExploreProps)
           key={taskIndex}
         >
           <Component
-            task={currentTask}
+            {...currentTask}
+            correct={currentTask.correct ?? currentTask.correctIndex}
             userAnswer={userAnswer}
-            onUserAnswer={setUserAnswer}
+            onAnswer={setUserAnswer}
             submitted={submitted}
-            isCorrect={isCorrect}
           />
         </motion.div>
 
         {/* Button */}
         <motion.button
           onClick={handleCheck}
-          disabled={submitted || userAnswer === null}
+          disabled={submitted || userAnswer === ""}
           className={`px-8 py-3 rounded-xl font-extrabold text-lg transition-all ${
             submitted
               ? "opacity-50 cursor-wait"
-              : userAnswer === null
+              : userAnswer === ""
                 ? "bg-white/20 text-white/40 cursor-not-allowed"
                 : "bg-blue-500 hover:bg-blue-600 text-white shadow-lg hover:shadow-xl"
           }`}
-          whileHover={userAnswer !== null && !submitted ? { scale: 1.05 } : {}}
-          whileTap={userAnswer !== null && !submitted ? { scale: 0.95 } : {}}
+          whileHover={userAnswer !== "" && !submitted ? { scale: 1.05 } : {}}
+          whileTap={userAnswer !== "" && !submitted ? { scale: 0.95 } : {}}
         >
           {isLastTask ? "Befejezés" : submitted ? "Betöltés..." : "Ellenőrzés ✓"}
         </motion.button>

@@ -38,16 +38,7 @@ import {
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
-// K5 Explorer imports
-const AdjectiveComparisonExplorerK5 = dynamic(() => import("./../../astrodeutsch/games/k5/AdjectiveComparisonExplorerK5"), { ssr: false });
-const PronounExplorerK5 = dynamic(() => import("./../../astrodeutsch/games/k5/PronounExplorerK5"), { ssr: false });
-const PrepositionExplorerK5 = dynamic(() => import("./../../astrodeutsch/games/k5/PrepositionExplorerK5"), { ssr: false });
-const SentenceAnalysisK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/SentenceAnalysisK5Explorer"), { ssr: false });
-const PunctuationK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/PunctuationK5Explorer"), { ssr: false });
-const ParticipleK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/ParticipleK5Explorer"), { ssr: false });
-const PassiveK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/PassiveK5Explorer"), { ssr: false });
-const SpellingVocabK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/SpellingVocabK5Explorer"), { ssr: false });
-const ReviewK5Explorer = dynamic(() => import("./../../astrodeutsch/games/k5/ReviewK5Explorer"), { ssr: false });
+const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 
 // ─── Category card config ─────────────────────────────────────────────────────
 const CATEGORY_CONFIG: Record<string, {
@@ -98,15 +89,7 @@ type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
   | "spell-race"
-  | "k5-adjective-comparison-explorer"
-  | "k5-pronoun-explorer"
-  | "k5-preposition-explorer"
-  | "k5-sentence-analysis-explorer"
-  | "k5-punctuation-explorer"
-  | "k5-participle-explorer"
-  | "k5-passive-explorer"
-  | "k5-spelling-vocab-explorer"
-  | "k5-review-explorer"
+  | "deutsch-explore"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -447,15 +430,7 @@ export default function AstroDeutschK5Page() {
 
   const noQuestionsTypes = new Set([
     "spell-race",
-    "k5-adjective-comparison-explorer",
-    "k5-pronoun-explorer",
-    "k5-preposition-explorer",
-    "k5-sentence-analysis-explorer",
-    "k5-punctuation-explorer",
-    "k5-participle-explorer",
-    "k5-passive-explorer",
-    "k5-spelling-vocab-explorer",
-    "k5-review-explorer",
+    "deutsch-explore",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -749,42 +724,15 @@ export default function AstroDeutschK5Page() {
         {screen === "spell-race" && (
           <SpellRace color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "k5-adjective-comparison-explorer" && (
-          <AdjectiveComparisonExplorerK5 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-pronoun-explorer" && (
-          <PronounExplorerK5 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-preposition-explorer" && (
-          <PrepositionExplorerK5 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-sentence-analysis-explorer" && (
-          <SentenceAnalysisK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-punctuation-explorer" && (
-          <PunctuationK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-participle-explorer" && (
-          <ParticipleK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-passive-explorer" && (
-          <PassiveK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-spelling-vocab-explorer" && (
-          <SpellingVocabK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k5-review-explorer" && (
-          <ReviewK5Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "deutsch-explore" && activeIsland && (
+          <DeutschExplore island={activeIsland} grade={5} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
   if ([
-    "orbit-quiz", "black-hole", "star-match", "speed-round", "spell-race",
-    "k5-adjective-comparison-explorer", "k5-pronoun-explorer", "k5-preposition-explorer",
-    "k5-sentence-analysis-explorer", "k5-punctuation-explorer", "k5-participle-explorer",
-    "k5-passive-explorer", "k5-spelling-vocab-explorer", "k5-review-explorer"
+    "orbit-quiz", "black-hole", "star-match", "speed-round", "spell-race", "deutsch-explore",
   ].includes(screen)) return (
     <>
       {gameScreen}

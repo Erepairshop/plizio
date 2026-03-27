@@ -26,15 +26,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
-import NounExplorerK2 from "@/app/astrodeutsch/games/k2/NounExplorerK2";
-import VerbExplorerK2 from "@/app/astrodeutsch/games/k2/VerbExplorerK2";
-import AdjectiveExplorerK2 from "@/app/astrodeutsch/games/k2/AdjectiveExplorerK2";
-import SentenceTypeExplorerK2 from "@/app/astrodeutsch/games/k2/SentenceTypeExplorerK2";
-import CapitalizationExplorerK2 from "@/app/astrodeutsch/games/k2/CapitalizationExplorerK2";
-import SpellingRuleExplorerK2 from "@/app/astrodeutsch/games/k2/SpellingRuleExplorerK2";
-import SpellingExplorer2K2 from "@/app/astrodeutsch/games/k2/SpellingExplorer2K2";
-import WordFieldExplorerK2 from "@/app/astrodeutsch/games/k2/WordFieldExplorerK2";
-import ReviewExplorerK2 from "@/app/astrodeutsch/games/k2/ReviewExplorerK2";
+const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 import CategoryRush from "@/app/astrodeutsch/games/CategoryRush";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
@@ -97,9 +89,7 @@ const K2_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
-  | "noun-explorer" | "verb-explorer" | "adjective-explorer" | "sentence-type-explorer"
-  | "capitalization-explorer" | "spelling-rule-explorer" | "spelling-explorer-2"
-  | "word-field-explorer" | "review-explorer"
+  | "deutsch-explore"
   | "category-rush"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -441,9 +431,7 @@ export default function AstroDeutschK2Page() {
 
   const noQuestionsTypes = new Set([
     "deutsch-visual",
-    "noun-explorer", "verb-explorer", "adjective-explorer", "sentence-type-explorer",
-    "capitalization-explorer", "spelling-rule-explorer", "spelling-explorer-2",
-    "word-field-explorer", "review-explorer",
+    "deutsch-explore",
     "category-rush",
   ]);
 
@@ -738,32 +726,8 @@ export default function AstroDeutschK2Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "noun-explorer" && (
-          <NounExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "verb-explorer" && (
-          <VerbExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "adjective-explorer" && (
-          <AdjectiveExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "sentence-type-explorer" && (
-          <SentenceTypeExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "capitalization-explorer" && (
-          <CapitalizationExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "spelling-rule-explorer" && (
-          <SpellingRuleExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "spelling-explorer-2" && (
-          <SpellingExplorer2K2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "word-field-explorer" && (
-          <WordFieldExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "review-explorer" && (
-          <ReviewExplorerK2 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "deutsch-explore" && activeIsland && (
+          <DeutschExplore island={activeIsland} grade={2} onDone={handleMissionDone} />
         )}
         {screen === "category-rush" && (
           <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />
@@ -772,13 +736,7 @@ export default function AstroDeutschK2Page() {
     </div>
   );
 
-  const explorerScreens = [
-    "noun-explorer", "verb-explorer", "adjective-explorer", "sentence-type-explorer",
-    "capitalization-explorer", "spelling-rule-explorer", "spelling-explorer-2",
-    "word-field-explorer", "review-explorer",
-  ];
-
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "category-rush", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "category-rush", "deutsch-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

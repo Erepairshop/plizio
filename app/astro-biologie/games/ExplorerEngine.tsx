@@ -119,8 +119,6 @@ export interface ExplorerDef {
   icon?: string;
   /** Topic-based mode: each topic = teach → interact → quiz (overrides rounds) */
   topics?: TopicDef[];
-  /** Optional background image URL (e.g. "/images/explorer/bg-default.webp") */
-  bgImage?: string;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -337,8 +335,6 @@ interface Props {
   explorerId?: string;
   /** Grade level (1-8). Adjusts AI language complexity for the student's age. */
   grade?: number;
-  /** Override background image (takes precedence over def.bgImage) */
-  bgImage?: string;
   onDone?: (score: number, total: number) => void;
   onClose?: () => void;
 }
@@ -381,7 +377,7 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade, bgImage = "/images/explorer/bg-default.webp" }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const tDe = def.labels.de;
@@ -428,6 +424,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     : aiEnhanced ? "think-first"
     : "info"
   );
+
+  // Mascot image — changes based on current phase
+  const mascotSrc =
+    phase === "welcome"
+      ? "/images/explorer/robot-reading.webp"
+      : phase === "info" || phase === "topic-teach" || phase === "think-first"
+      ? "/images/explorer/robot-scroll.webp"
+      : "/images/explorer/robot-magnifier.webp";
 
   // Username for welcome screen
   const username = useMemo(() => {
@@ -889,14 +893,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
   return (
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
-      {/* Background image */}
-      {(bgImage || def.bgImage) && (
-        <div className="absolute inset-0 z-0 pointer-events-none">
-          <img src={bgImage || def.bgImage} alt="" className="w-full h-full object-cover opacity-50" />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#060614]/40 via-transparent to-[#060614]/60" />
-        </div>
-      )}
-
       {/* Close button */}
       <button
         onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
@@ -2251,6 +2247,18 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       </div>
         </>
       ) : null}
+
+      {/* ── MASCOT ── phase-aware robot character, bottom-right corner */}
+      <motion.img
+        key={mascotSrc}
+        src={mascotSrc}
+        alt=""
+        initial={{ opacity: 0, scale: 0.75, y: 12 }}
+        animate={{ opacity: 1, scale: 1, y: 0 }}
+        transition={{ duration: 0.4, ease: "easeOut" }}
+        className="absolute bottom-3 left-3 w-20 h-20 object-contain pointer-events-none z-10 select-none"
+        style={{ filter: "drop-shadow(0 4px 14px rgba(0,0,0,0.45))" }}
+      />
     </div>
   );
 }

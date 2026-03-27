@@ -24,15 +24,7 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
-import KasusExplorer from "@/app/astrodeutsch/games/k4/KasusExplorer";
-import KasusExplorer2 from "@/app/astrodeutsch/games/k4/KasusExplorer2";
-import TenseExplorerK4 from "@/app/astrodeutsch/games/k4/TenseExplorerK4";
-import WordClassExplorerK4 from "@/app/astrodeutsch/games/k4/WordClassExplorerK4";
-import SentencePartExplorerK4 from "@/app/astrodeutsch/games/k4/SentencePartExplorerK4";
-import ClauseExplorer from "@/app/astrodeutsch/games/k4/ClauseExplorer";
-import VerbExplorerK4 from "@/app/astrodeutsch/games/k4/VerbExplorerK4";
-import SpellingExplorerK4 from "@/app/astrodeutsch/games/k4/SpellingExplorerK4";
-import ReviewExplorerK4 from "@/app/astrodeutsch/games/k4/ReviewExplorerK4";
+const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 import GapFill from "@/app/astrodeutsch/games/GapFill";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -97,9 +89,7 @@ const K4_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
-  | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
-  | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
-  | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4"
+  | "deutsch-explore"
   | "gap-fill"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -441,9 +431,7 @@ export default function AstroDeutschK4Page() {
 
   const noQuestionsTypes = new Set([
     "deutsch-visual",
-    "kasus-explorer", "kasus2-explorer", "tense-explorer-k4",
-    "word-class-explorer-k4", "sentence-part-explorer-k4", "clause-explorer",
-    "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
+    "deutsch-explore",
     "gap-fill",
   ]);
 
@@ -738,32 +726,8 @@ export default function AstroDeutschK4Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "kasus-explorer" && (
-          <KasusExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "kasus2-explorer" && (
-          <KasusExplorer2 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "tense-explorer-k4" && (
-          <TenseExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "word-class-explorer-k4" && (
-          <WordClassExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "sentence-part-explorer-k4" && (
-          <SentencePartExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "clause-explorer" && (
-          <ClauseExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "verb-explorer-k4" && (
-          <VerbExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "spelling-explorer-k4" && (
-          <SpellingExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "review-explorer-k4" && (
-          <ReviewExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "deutsch-explore" && activeIsland && (
+          <DeutschExplore island={activeIsland} grade={4} onDone={handleMissionDone} />
         )}
         {screen === "gap-fill" && (
           <GapFill color={bgColor} lang={lang} onDone={handleMissionDone} />
@@ -772,13 +736,7 @@ export default function AstroDeutschK4Page() {
     </div>
   );
 
-  const explorerScreensK4 = [
-    "kasus-explorer", "kasus2-explorer", "tense-explorer-k4",
-    "word-class-explorer-k4", "sentence-part-explorer-k4", "clause-explorer",
-    "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
-  ];
-
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "gap-fill", ...explorerScreensK4].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "gap-fill", "deutsch-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -39,7 +39,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "🏷️", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["wortarten_k2/nomen_k2", "wortarten_k2/artikel_k2", "wortarten_k2/plural_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "noun-explorer", icon: "🏷️", label: { de: "Nomen entdecken",  en: "Noun Explorer",    hu: "Főnév felfedező",   ro: "Explorare substantive" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🏷️", label: { de: "Nomen entdecken",  en: "Noun Explorer",    hu: "Főnév felfedező",   ro: "Explorare substantive" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
@@ -51,7 +51,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "🏃", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["wortarten_k2/verben_k2", "wortarten_k2/konjugation_k2", "wortarten_k2/imperativ_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "verb-explorer", icon: "🏃", label: { de: "Verben entdecken",  en: "Verb Explorer",    hu: "Ige felfedező",     ro: "Explorare verbe"   } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🏃", label: { de: "Verben entdecken",  en: "Verb Explorer",    hu: "Ige felfedező",     ro: "Explorare verbe"   } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
@@ -63,7 +63,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "🎨", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["wortarten_k2/adjektive_k2", "wortarten_k2/personalpronomen_k2", "wortschatz_expansion_k2/gegensaetze_k2", "wortschatz_expansion_k2/synonyme_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "adjective-explorer", icon: "🎨", label: { de: "Adjektive entdecken", en: "Adjective Explorer", hu: "Melléknév felfedező", ro: "Explorare adjective" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🎨", label: { de: "Adjektive entdecken", en: "Adjective Explorer", hu: "Melléknév felfedező", ro: "Explorare adjective" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -75,7 +75,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "❓", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["saetze_k2/satzarten", "saetze_k2/wortstellung_k2", "saetze_k2/fragewörter_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sentence-type-explorer", icon: "❓", label: { de: "Satzarten entdecken", en: "Sentence Explorer", hu: "Mondat felfedező",  ro: "Explorare propoziții" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "❓", label: { de: "Satzarten entdecken", en: "Sentence Explorer", hu: "Mondat felfedező",  ro: "Explorare propoziții" } },
       { id: "m2", category: "build",     gameType: "speed-round", icon: "⚡", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
@@ -87,7 +87,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "🅰️", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["saetze_k2/grossschreibung_k2", "saetze_k2/verbindungswoerter_k2", "wortschatz_expansion_k2/ortsangaben_k2", "wortschatz_expansion_k2/tagesablauf_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "capitalization-explorer", icon: "🅰️", label: { de: "Großschreibung entdecken", en: "Capital Explorer", hu: "Nagybetű felfedező", ro: "Explorare majuscule" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🅰️", label: { de: "Großschreibung entdecken", en: "Capital Explorer", hu: "Nagybetű felfedező", ro: "Explorare majuscule" } },
       { id: "m2", category: "build",     gameType: "black-hole", icon: "🕳️", label: { de: "Planetenquiz",     en: "Orbit Quiz",          hu: "Bolygó kvíz",       ro: "Quiz planetar"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
@@ -99,7 +99,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "✍️", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["rechtschreibung_k2/tz_z", "rechtschreibung_k2/ck_k", "rechtschreibung_k2/doppelvokal"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "spelling-rule-explorer", icon: "✍️", label: { de: "tz/ck entdecken",   en: "Spelling Explorer", hu: "Helyesírás felfedező", ro: "Explorare ortografie" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "✍️", label: { de: "tz/ck entdecken",   en: "Spelling Explorer", hu: "Helyesírás felfedező", ro: "Explorare ortografie" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -111,7 +111,7 @@ export const K2_ISLANDS: IslandDef[] = [
     icon: "🔡", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["rechtschreibung_k2/doppelkonsonanten_k2", "rechtschreibung_k2/dehnungs_h", "rechtschreibung_k2/wortfamilien_k2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "spelling-explorer-2", icon: "🔡", label: { de: "Dehnungs-h entdecken", en: "Spelling Explorer II", hu: "Helyesírás II felfedező", ro: "Ortografie II" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🔡", label: { de: "Dehnungs-h entdecken", en: "Spelling Explorer II", hu: "Helyesírás II felfedező", ro: "Ortografie II" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",      en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
@@ -129,7 +129,7 @@ export const K2_ISLANDS: IslandDef[] = [
       "wortschatz_expansion_k2/hobbies_sport_k2",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "word-field-explorer", icon: "🌍", label: { de: "Wortfelder entdecken", en: "Word Field Explorer", hu: "Szócsoport felfedező", ro: "Explorare vocabular" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🌍", label: { de: "Wortfelder entdecken", en: "Word Field Explorer", hu: "Szócsoport felfedező", ro: "Explorare vocabular" } },
       { id: "m2", category: "build",     gameType: "category-rush", icon: "🏃", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "🎨", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
@@ -146,7 +146,7 @@ export const K2_ISLANDS: IslandDef[] = [
       "wortschatz_expansion_k2/zeit_k2", "wortschatz_expansion_k2/berufe_k2",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "review-explorer", icon: "🌟", label: { de: "Große Entdeckung",  en: "Big Review",       hu: "Nagy áttekintés",   ro: "Recapitulare mare" } },
+      { id: "m1", category: "explore",   gameType: "deutsch-explore", icon: "🌟", label: { de: "Große Entdeckung",  en: "Big Review",       hu: "Nagy áttekintés",   ro: "Recapitulare mare" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { de: "Planetenquiz",     en: "Orbit Quiz",       hu: "Bolygó kvíz",       ro: "Quiz planetar"     } },
       { id: "m3", category: "challenge", gameType: "category-rush", icon: "🗂️", label: { de: "Kategorie-Rush", en: "Category Rush", hu: "Kategória roham", ro: "Categorie rapidă" } },
     ],
