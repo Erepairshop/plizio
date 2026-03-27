@@ -27,6 +27,7 @@ import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K2Explorer = dynamic(() => import("@/app/astrodeutsch/games/k2/K2Explorer"), { ssr: false });
 import CategoryRush from "@/app/astrodeutsch/games/CategoryRush";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
@@ -727,7 +728,7 @@ export default function AstroDeutschK2Page() {
           <DeutschVisualGame klasse={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={2} onDone={handleMissionDone} />
+          <K2Explorer island={activeIsland} grade={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "category-rush" && (
           <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />

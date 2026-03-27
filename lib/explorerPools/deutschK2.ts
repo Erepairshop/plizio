@@ -1888,7 +1888,7 @@ export const EXAM2_POOL: PoolTopicDef[] = [
         { text: "t2_i3", bucketId: "das" }, // Haus
         { text: "t2_i4", bucketId: "der" }, // Baum (Wait, in K1 it's already there, keep it consistent)
       ],
-      instruction: "t2_inst", hint1: "t2_h1",
+      instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2",
     },
     quiz: { generate: "artikel_k2" },
   },
@@ -1924,7 +1924,7 @@ export const EXAM2_POOL: PoolTopicDef[] = [
         { left: "t4_l2", right: "t4_r2" },
         { left: "t4_l3", right: "t4_r3" },
       ],
-      instruction: "t4_inst", hint1: "t4_h1",
+      instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2",
     },
     quiz: { generate: "gegensaetze_k2" },
   },
@@ -1940,7 +1940,7 @@ export const EXAM2_POOL: PoolTopicDef[] = [
       type: "highlight-text",
       tokens: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"],
       correctIndices: [0], // Katze
-      instruction: "t5_inst", hint1: "t5_h1",
+      instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2",
     },
     quiz: { generate: "satzzeichen_k1" },
   },
@@ -1959,7 +1959,7 @@ export const EXAM2_POOL: PoolTopicDef[] = [
         { left: "t6_l2", right: "t6_r2" },
         { left: "t6_l3", right: "t6_r3" },
       ],
-      instruction: "t6_inst",
+      instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2",
     },
     quiz: { generate: "plural" },
   },
@@ -1974,7 +1974,7 @@ export const EXAM2_POOL: PoolTopicDef[] = [
     interactive: {
       type: "sentence-build",
       fragments: ["t7_f1", "t7_f2", "t7_f3", "t7_f4"], // Ich, bin, ein, Champion!
-      instruction: "t7_inst",
+      instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "zeit_k2" },
   },
