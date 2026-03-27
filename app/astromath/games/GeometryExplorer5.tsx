@@ -81,26 +81,23 @@ const Topic3Svg = memo(function Topic3Svg() {
         </linearGradient>
       </defs>
       <rect width="240" height="140" fill="url(#geoGrad3)" rx="16" />
-      {/* Coordinate System Grid */}
-      <g transform="translate(120, 70)">
-        {/* Grid lines */}
-        {[-40, -20, 20, 40].map((pos) => (
-          <g key={pos}>
-            <line x1={pos} y1="-50" x2={pos} y2="50" stroke="#A7F3D0" strokeWidth="1" />
-            <line x1="-50" y1={pos} x2="50" y2={pos} stroke="#A7F3D0" strokeWidth="1" />
-          </g>
+      {/* Area & Perimeter of a Rectangle */}
+      <g transform="translate(40, 30)">
+        {/* Rectangle with grid */}
+        <rect x="0" y="0" width="80" height="50" fill="#D1FAE5" stroke="#059669" strokeWidth="2.5" />
+        {/* Grid lines inside */}
+        {[16, 32, 48, 64].map((x) => (
+          <line key={`v${x}`} x1={x} y1="0" x2={x} y2="50" stroke="#A7F3D0" strokeWidth="1" />
         ))}
-        {/* Axes */}
-        <line x1="0" y1="-50" x2="0" y2="50" stroke="#059669" strokeWidth="2" />
-        <line x1="-50" y1="0" x2="50" y2="0" stroke="#059669" strokeWidth="2" />
-        
-        {/* Point at (2, 3) where 1 unit = 10px */}
-        <circle cx="20" cy="-30" r="4" fill="#047857" />
-        <text x="25" y="-35" fontSize="12" fontWeight="bold" fill="#065F46">(2, 3)</text>
-        
-        {/* Axis labels */}
-        <text x="45" y="-5" fontSize="10" fontWeight="bold" fill="#059669">x</text>
-        <text x="-5" y="-45" fontSize="10" fontWeight="bold" fill="#059669">y</text>
+        {[10, 20, 30, 40].map((y) => (
+          <line key={`h${y}`} x1="0" y1={y} x2="80" y2={y} stroke="#A7F3D0" strokeWidth="1" />
+        ))}
+        {/* Dimension labels */}
+        <text x="40" y="68" fontSize="12" fontWeight="bold" fill="#065F46" textAnchor="middle">8 cm</text>
+        <text x="95" y="28" fontSize="12" fontWeight="bold" fill="#065F46" textAnchor="middle">5 cm</text>
+        {/* Formulas */}
+        <text x="40" y="90" fontSize="11" fontWeight="bold" fill="#047857" textAnchor="middle">A = 8 × 5 = 40 cm²</text>
+        <text x="40" y="105" fontSize="11" fontWeight="bold" fill="#047857" textAnchor="middle">P = 2 × (8 + 5) = 26 cm</text>
       </g>
     </svg>
   );
@@ -137,19 +134,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "90°",
     t2_q_c: "60°",
     t2_q_d: "180°",
-    t3_title: "The Coordinate Plane",
-    t3_text: "The coordinate system is like a map. The horizontal line is the X-axis (left/right), and the vertical line is the Y-axis (up/down). We write points as (X, Y).",
-    t3_b1: "Always go along the X-axis first",
-    t3_b2: "Then go up or down the Y-axis",
-    t3_b3: "The center point (0, 0) is the Origin",
-    t3_inst: "Plot the point (3, 4) on the coordinate grid!",
-    t3_h1: "Move 3 steps to the right on the horizontal (X) axis.",
-    t3_h2: "Then move 4 steps UP on the vertical (Y) axis.",
-    t3_q: "In the coordinates (5, 2), which number is the Y-axis?",
-    t3_q_a: "5",
-    t3_q_b: "2",
-    t3_q_c: "7",
-    t3_q_d: "0",
+    t3_title: "Area & Perimeter",
+    t3_text: "Area tells us how much space a shape covers (measured in cm²). Perimeter tells us how far it is around the edge. For rectangles: Area = length x width, and Perimeter = 2 x (length + width).",
+    t3_b1: "Area = length × width (e.g. 8 × 5 = 40 cm²)",
+    t3_b2: "Perimeter = 2 × (length + width)",
+    t3_b3: "Area uses square units (cm²), perimeter uses cm",
+    t3_inst: "A rectangle is 6 cm long and 4 cm wide. Find the perimeter on the number line!",
+    t3_h1: "Perimeter = 2 × (6 + 4) = 2 × 10.",
+    t3_h2: "The perimeter is 20. Find 20 on the line.",
+    t3_q: "A rectangle is 9 cm long and 3 cm wide. What is the area?",
+    t3_q_a: "27 cm²",
+    t3_q_b: "24 cm²",
+    t3_q_c: "12 cm²",
+    t3_q_d: "30 cm²",
   },
   de: {
     explorer_title: "Geometrie & Winkel",
@@ -179,19 +176,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "90°",
     t2_q_c: "60°",
     t2_q_d: "180°",
-    t3_title: "Das Koordinatensystem",
-    t3_text: "Das Koordinatensystem ist wie eine Karte. Die waagerechte Linie ist die X-Achse (links/rechts), die senkrechte die Y-Achse (oben/unten). Ein Punkt ist (X, Y).",
-    t3_b1: "Gehe immer zuerst entlang der X-Achse",
-    t3_b2: "Gehe dann die Y-Achse hoch oder runter",
-    t3_b3: "Der Mittelpunkt (0, 0) heißt Ursprung",
-    t3_inst: "Markiere den Punkt (3, 4) im Koordinatensystem!",
-    t3_h1: "Gehe 3 Schritte nach rechts auf der waagerechten (X) Achse.",
-    t3_h2: "Gehe dann 4 Schritte NACH OBEN auf der senkrechten (Y) Achse.",
-    t3_q: "Welche Zahl ist bei (5, 2) die Y-Koordinate?",
-    t3_q_a: "5",
-    t3_q_b: "2",
-    t3_q_c: "7",
-    t3_q_d: "0",
+    t3_title: "Fläche & Umfang",
+    t3_text: "Die Fläche sagt, wie viel Platz eine Form bedeckt (in cm²). Der Umfang sagt, wie lang der Rand ist. Bei Rechtecken: Fläche = Länge × Breite, und Umfang = 2 × (Länge + Breite).",
+    t3_b1: "Fläche = Länge × Breite (z.B. 8 × 5 = 40 cm²)",
+    t3_b2: "Umfang = 2 × (Länge + Breite)",
+    t3_b3: "Fläche in cm², Umfang in cm",
+    t3_inst: "Ein Rechteck ist 6 cm lang und 4 cm breit. Finde den Umfang auf dem Zahlenstrahl!",
+    t3_h1: "Umfang = 2 × (6 + 4) = 2 × 10.",
+    t3_h2: "Der Umfang ist 20. Finde 20.",
+    t3_q: "Ein Rechteck ist 9 cm lang und 3 cm breit. Wie groß ist die Fläche?",
+    t3_q_a: "27 cm²",
+    t3_q_b: "24 cm²",
+    t3_q_c: "12 cm²",
+    t3_q_d: "30 cm²",
   },
   hu: {
     explorer_title: "Geometria és szögek",
@@ -221,19 +218,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "90°",
     t2_q_c: "60°",
     t2_q_d: "180°",
-    t3_title: "A koordináta-rendszer",
-    t3_text: "A koordináta-rendszer olyan, mint egy térkép. A vízszintes vonal az X-tengely (jobbra/balra), a függőleges az Y-tengely (fel/le). Egy pontot (X, Y) formában írunk le.",
-    t3_b1: "Mindig az X-tengelyen indulj el először",
-    t3_b2: "Aztán menj fel vagy le az Y-tengelyen",
-    t3_b3: "A középpont (0, 0) az Origó",
-    t3_inst: "Keresd meg a (3, 4) pontot a koordináta-rácson!",
-    t3_h1: "Lépj 3-at jobbra a vízszintes (X) tengelyen.",
-    t3_h2: "Aztán lépj 4-et FELFELÉ a függőleges (Y) tengelyen.",
-    t3_q: "Az (5, 2) koordinátában melyik szám az Y érték?",
-    t3_q_a: "5",
-    t3_q_b: "2",
-    t3_q_c: "7",
-    t3_q_d: "0",
+    t3_title: "Terület és kerület",
+    t3_text: "A terület megmutatja, mekkora helyet foglal el egy alakzat (cm²-ben). A kerület azt mondja meg, milyen hosszú a széle. Téglalapoknál: Terület = hossz × szélesség, Kerület = 2 × (hossz + szélesség).",
+    t3_b1: "Terület = hossz × szélesség (pl. 8 × 5 = 40 cm²)",
+    t3_b2: "Kerület = 2 × (hossz + szélesség)",
+    t3_b3: "Terület cm²-ben, kerület cm-ben",
+    t3_inst: "Egy téglalap 6 cm hosszú és 4 cm széles. Keresd a kerületet a számegyenesen!",
+    t3_h1: "Kerület = 2 × (6 + 4) = 2 × 10.",
+    t3_h2: "A kerület 20. Keresd a 20-at.",
+    t3_q: "Egy téglalap 9 cm hosszú és 3 cm széles. Mennyi a területe?",
+    t3_q_a: "27 cm²",
+    t3_q_b: "24 cm²",
+    t3_q_c: "12 cm²",
+    t3_q_d: "30 cm²",
   },
   ro: {
     explorer_title: "Geometrie și Unghiuri",
@@ -263,19 +260,19 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_q_b: "90°",
     t2_q_c: "60°",
     t2_q_d: "180°",
-    t3_title: "Sistemul de Coordonate",
-    t3_text: "Sistemul de coordonate este ca o hartă. Linia orizontală este axa X (stânga/dreapta), iar cea verticală axa Y (sus/jos). Punctele se scriu (X, Y).",
-    t3_b1: "Mergi mereu mai întâi pe axa X",
-    t3_b2: "Apoi urcă sau coboară pe axa Y",
-    t3_b3: "Punctul central (0, 0) este Originea",
-    t3_inst: "Marchează punctul (3, 4) pe grila de coordonate!",
-    t3_h1: "Mergi 3 pași la dreapta pe axa orizontală (X).",
-    t3_h2: "Apoi mergi 4 pași ÎN SUS pe axa verticală (Y).",
-    t3_q: "În coordonatele (5, 2), care număr este axa Y?",
-    t3_q_a: "5",
-    t3_q_b: "2",
-    t3_q_c: "7",
-    t3_q_d: "0",
+    t3_title: "Arie și Perimetru",
+    t3_text: "Aria ne spune cât spațiu acoperă o formă (în cm²). Perimetrul ne spune cât de lung este conturul. La dreptunghiuri: Aria = lungime × lățime, Perimetru = 2 × (lungime + lățime).",
+    t3_b1: "Aria = lungime × lățime (ex. 8 × 5 = 40 cm²)",
+    t3_b2: "Perimetru = 2 × (lungime + lățime)",
+    t3_b3: "Aria în cm², perimetrul în cm",
+    t3_inst: "Un dreptunghi are 6 cm lungime și 4 cm lățime. Găsește perimetrul pe axă!",
+    t3_h1: "Perimetru = 2 × (6 + 4) = 2 × 10.",
+    t3_h2: "Perimetrul este 20. Găsește 20.",
+    t3_q: "Un dreptunghi are 9 cm lungime și 3 cm lățime. Care este aria?",
+    t3_q_a: "27 cm²",
+    t3_q_b: "24 cm²",
+    t3_q_c: "12 cm²",
+    t3_q_d: "30 cm²",
   },
 };
 
@@ -332,10 +329,14 @@ const TOPICS: TopicDef[] = [
     svg: () => <Topic3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
-      type: "coordinate-picker",
-      targetX: 3,
-      targetY: 4,
-      range: 5, // Grid from -5 to +5
+      type: "number-line",
+      min: 0,
+      max: 30,
+      start: 0,
+      target: 20, // 2 * (6 + 4) = 20
+      step: 2,
+      showJumps: true,
+      jumpCount: 10,
       instruction: "t3_inst",
       hint1: "t3_h1",
       hint2: "t3_h2",

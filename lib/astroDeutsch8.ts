@@ -99,7 +99,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["literatur_k8/erzaehlperspektiven", "literatur_k8/epochen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "style-device-explorer",  icon: "📚", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "literature-epoch-explorer",  icon: "📚", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "black-hole",  icon: "🕳️", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { de: "Übungsblatt",      en: "Worksheet",           hu: "Feladatlap",         ro: "Fișă de lucru"      } },
     ],
@@ -123,7 +123,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🧑‍🎓", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["charakterisierung_k8/charakterisierung_methoden_k8", "inhaltsangabe_k8/inhaltsangabe_grundlagen_k8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sentence-analysis-explorer",  icon: "🧑‍🎓", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "characterization-explorer",  icon: "🧑‍🎓", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "speed-round",  icon: "⚡", label: { de: "Planetenquiz",       en: "Orbit Quiz",          hu: "Bolygó kvíz",        ro: "Quiz planetar"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",    en: "Black Hole",          hu: "Fekete lyuk",        ro: "Gaură neagră"       } },
     ],

@@ -30,6 +30,8 @@ import ParticipleExplorer from "@/app/astrodeutsch/games/k8/ParticipleExplorer";
 import StyleDeviceExplorer from "@/app/astrodeutsch/games/k8/StyleDeviceExplorer";
 import SentenceAnalysisExplorer from "@/app/astrodeutsch/games/k8/SentenceAnalysisExplorer";
 import VoiceTransformExplorer from "@/app/astrodeutsch/games/k8/VoiceTransformExplorer";
+import CharacterizationK8Explorer from "@/app/astrodeutsch/games/k8/CharacterizationK8Explorer";
+import LiteratureEpochK8Explorer from "@/app/astrodeutsch/games/k8/LiteratureEpochK8Explorer";
 import ReviewExplorerK8 from "@/app/astrodeutsch/games/k8/ReviewExplorerK8";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
@@ -98,7 +100,8 @@ type Screen =
   | "rocket-launch"
   | "speech-transform-explorer" | "passive-explorer" | "participle-explorer"
   | "style-device-explorer" | "sentence-analysis-explorer"
-  | "voice-transform-explorer" | "review-explorer-k8";
+  | "voice-transform-explorer" | "review-explorer-k8"
+  | "literature-epoch-explorer" | "characterization-explorer";
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -744,6 +747,12 @@ export default function AstroDeutschK8Page() {
         {screen === "voice-transform-explorer" && (
           <VoiceTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "literature-epoch-explorer" && (
+          <LiteratureEpochK8Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "characterization-explorer" && (
+          <CharacterizationK8Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
         {screen === "review-explorer-k8" && (
           <ReviewExplorerK8 color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -755,6 +764,7 @@ export default function AstroDeutschK8Page() {
     "speech-transform-explorer", "passive-explorer", "participle-explorer",
     "style-device-explorer", "sentence-analysis-explorer",
     "voice-transform-explorer", "review-explorer-k8",
+    "literature-epoch-explorer", "characterization-explorer",
   ].includes(screen)) return (
     <>
       {gameScreen}

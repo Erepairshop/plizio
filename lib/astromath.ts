@@ -13,7 +13,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "g2-teaching"
   | "negative-number-line" | "percent-bar"
   | "ratio-explorer" | "algebra-explorer" | "stat-explorer"
-  | "counting-explorer" | "addsub-explorer" | "double-half-explorer"
+  | "counting-explorer" | "addsub-explorer" | "subtraction-explorer" | "double-half-explorer"
   | "place-value-20" | "word-problem-intro" | "shapes-explorer"
   | "clock-coins-explorer" | "pattern-explorer"
   | "place-value-100" | "mental-math-explorer" | "column-addsub"
@@ -45,7 +45,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "word-net-explorer" | "clause-connector-explorer" | "word-build-explorer"
   | "review-explorer-k6"
   | "speech-transform-explorer" | "style-device-explorer" | "review-explorer-k7"
-  | "review-explorer-k8"
+  | "review-explorer-k8" | "literature-epoch-explorer" | "characterization-explorer"
+  | "fraction-explorer-5"
   | "review-explorer-hu"
   | "word-sort" | "sentence-builder" | "fill-gap" | "grammar-match" | "spell-race" | "category-rush"
   | "lang-explore"
@@ -119,7 +120,56 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "pk8-ohm-explorer" | "pk8-power-explorer" | "pk8-semiconductor-explorer" | "pk8-electromagnetic-explorer" | "pk8-generators-explorer"
   | "pk8-atomic-explorer" | "pk8-nuclear-explorer" | "pk8-modern-explorer" | "pk8-environment-explorer"
   | "symbiosis-explorer"
-  | "sexdetermination-explorer" | "biosystems-explorer";
+  | "sexdetermination-explorer" | "biosystems-explorer"
+  | "fraction-pro-explorer" | "grand-final-explorer"
+  | "k5-adjective-comparison-explorer" | "k5-pronoun-explorer" | "k5-preposition-explorer"
+  | "k5-sentence-analysis-explorer" | "k5-participle-explorer" | "k5-passive-explorer"
+  | "k5-punctuation-explorer" | "k5-review-explorer" | "k5-spelling-vocab-explorer"
+  | "k6-active-passive-explorer" | "k6-konjunktiv-ii-explorer" | "k6-infinitiv-zu-explorer"
+  | "k6-synonym-antonym-explorer" | "k6-fremdwoerter-explorer" | "k6-relativsatz-kausalsatz-explorer"
+  | "k6-wortbildung-explorer" | "k6-punctuation-explorer" | "k6-review-explorer"
+  | "k7-konjunktiv-i-explorer" | "k7-werden-passive-explorer" | "k7-passiv-modal-explorer"
+  | "k7-stilmittel-explorer" | "k7-kausal-konditional-explorer" | "k7-konzessiv-final-explorer"
+  | "k7-temporalsatz-explorer" | "k7-infinitiv-construction-explorer" | "k7-review-explorer"
+  | "literature-epoch-explorer" | "characterization-explorer" | "fraction-explorer-5"
+  | "en2-adjective-explorer" | "en2-big-test-explorer" | "en2-grammar-review-explorer"
+  | "en2-meaning-explorer" | "en2-noun-explorer" | "en2-prefix-explorer"
+  | "en2-sentence-explorer" | "en2-verb-explorer" | "en2-vowel-explorer"
+  | "en3-adverb-explorer" | "en3-big-test-explorer" | "en3-plural-explorer"
+  | "en3-prefix-k3-explorer" | "en3-quotation-explorer" | "en3-subject-explorer"
+  | "en3-tense-explorer" | "en3-vocab-explorer" | "en3-word-family-explorer"
+  | "en4-adjective-k4-explorer" | "en4-big-test-explorer" | "en4-capital-explorer"
+  | "en4-context-explorer" | "en4-modal-explorer" | "en4-pronoun-explorer"
+  | "en4-sentence-k4-explorer" | "en4-speech-explorer" | "en4-synonym-explorer"
+  | "en5-academic-explorer" | "en5-conjunction-explorer" | "en5-figurative-explorer"
+  | "en5-interjection-explorer" | "en5-punctuation-k5-explorer" | "en5-root-word-explorer"
+  | "en5-sentence-k5-explorer" | "en5-spelling-k5-explorer" | "en5-tense-k5-explorer"
+  | "en6-academic-k6-explorer" | "en6-complex-clause-explorer" | "en6-pronoun-k6-explorer"
+  | "en6-pronoun-precision-explorer" | "en6-punctuation-k6-explorer" | "en6-rhetoric-explorer"
+  | "en6-sentence-structure-explorer" | "en6-vocabulary-explorer" | "en6-word-builder-explorer"
+  | "en7-academic-explorer" | "en7-argument-explorer" | "en7-clause-explorer"
+  | "en7-figurative-explorer" | "en7-grammar-explorer" | "en7-punctuation-explorer"
+  | "en7-sentence-explorer" | "en7-tense-voice-explorer" | "en7-verbal-explorer"
+  | "en8-etymology-explorer" | "en8-literature-explorer" | "en8-phrase-explorer"
+  | "en8-punctuation-explorer" | "en8-register-explorer" | "en8-style-explorer"
+  | "en8-verbal-explorer" | "en8-voice-mood-explorer" | "en8-writing-explorer"
+  | "o2-compound-words-explorer" | "o2-conjugation-explorer" | "o2-grammar-explorer"
+  | "o2-reading-explorer" | "o2-review-explorer" | "o2-spelling-explorer"
+  | "o2-synonyms-explorer" | "o2-vocabulary-explorer" | "o2-word-types-explorer"
+  | "o3-composition-explorer" | "o3-compound-words-explorer" | "o3-idioms-explorer"
+  | "o3-noun-declension-explorer" | "o3-review-explorer" | "o3-sentence-analysis-explorer"
+  | "o3-spelling-explorer" | "o3-text-comp-explorer" | "o3-verb-tenses-explorer"
+  | "o4-adverbials-explorer" | "o4-complex-sentences-explorer" | "o4-composition-explorer"
+  | "o4-grammar-review-explorer" | "o4-pronouns-explorer" | "o4-review-explorer"
+  | "o4-spelling-mastery-explorer" | "o4-verb-conjugation-explorer" | "o4-word-formation-explorer"
+  | "o5spelling-explorer" | "old-hungarian-explorer" | "phonetics-explorer-o5"
+  | "literature-explorer-o5" | "revieo5-explorer" | "stylebasics-explorer-o5"
+  | "textscience-explorer-o5" | "comprehensive-test-explorer"
+  | "debate-culture-explorer" | "language-norm-explorer" | "scientific-text-explorer"
+  | "spelling-summary-explorer" | "style-devices-explorer" | "text-analysis-explorer"
+  | "phonics-island" | "letter-land" | "word-world" | "sentence-shore" | "reading-comp"
+  | "grammar-gulf" | "story-summit" | "blend-bay" | "compound-cape" | "action-cove"
+  | "picture-word" | "memory-pair";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
@@ -215,7 +265,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "➖", color: "#FF6B6B", sortRange: [1, 10],
     topicKeys: ["sub10", "g1_ergaenzen"],
     missions: [
-      { id: "m1", gameType: "addsub-explorer", category: "explore",   icon: "🔭", label: { en: "Subtraction Explorer", hu: "Kivonás felfedezés", de: "Subtraktion entdecken", ro: "Explorare scădere" } },
+      { id: "m1", gameType: "subtraction-explorer", category: "explore",   icon: "🔭", label: { en: "Subtraction Explorer", hu: "Kivonás felfedezés", de: "Subtraktion entdecken", ro: "Explorare scădere" } },
       { id: "m2", gameType: "black-hole",    category: "build",     icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"   } },
       { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",       ro: "Ce lipsește?"   } },
     ],
@@ -265,7 +315,7 @@ export const G1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", gameType: "shapes-explorer", category: "explore", icon: "🔭", label: { en: "Shapes Explorer", hu: "Alakzatok felfedezés", de: "Formen entdecken", ro: "Explorare forme" } },
       { id: "m2", gameType: "star-match",   category: "build",     icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",     ro: "Perechi stele"  } },
-      { id: "m3", gameType: "gravity-sort", category: "challenge", icon: "🌪️", label: { en: "Sort Numbers",  hu: "Számrendezés",     de: "Zahlen sortieren", ro: "Sortează"       } },
+      { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 230, svgY: 55,
   },

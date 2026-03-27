@@ -28,6 +28,7 @@ import MissingNumber from "@/app/astromath/games/MissingNumber";
 import G1TeachingSlide from "@/app/astromath/games/G1TeachingSlide";
 import CountingExplorer from "@/app/astromath/games/CountingExplorer";
 import AddSubExplorer from "@/app/astromath/games/AddSubExplorer";
+import SubtractionExplorer from "@/app/astromath/games/SubtractionExplorer";
 import DoubleHalfExplorer from "@/app/astromath/games/DoubleHalfExplorer";
 import PlaceValue20Explorer from "@/app/astromath/games/PlaceValue20Explorer";
 import WordProblemIntro from "@/app/astromath/games/WordProblemIntro";
@@ -110,6 +111,7 @@ type Screen =
   | "teaching-slide"
   | "counting-explorer"
   | "addsub-explorer"
+  | "subtraction-explorer"
   | "double-half-explorer"
   | "place-value-20"
   | "word-problem-intro"
@@ -529,7 +531,7 @@ export default function AstroMathG1Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
     const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "true-false-blitz", "missing-number",
-      "counting-explorer", "addsub-explorer", "double-half-explorer", "place-value-20",
+      "counting-explorer", "addsub-explorer", "subtraction-explorer", "double-half-explorer", "place-value-20",
       "word-problem-intro", "shapes-explorer", "clock-coins-explorer", "pattern-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -877,6 +879,9 @@ export default function AstroMathG1Page() {
         {screen === "addsub-explorer" && activeIsland && (
           <AddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "subtraction-explorer" && activeIsland && (
+          <SubtractionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
         {screen === "double-half-explorer" && (
           <DoubleHalfExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -914,7 +919,7 @@ export default function AstroMathG1Page() {
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel",
     "true-false-blitz", "missing-number",
-    "counting-explorer", "addsub-explorer", "double-half-explorer", "place-value-20",
+    "counting-explorer", "addsub-explorer", "subtraction-explorer", "double-half-explorer", "place-value-20",
     "word-problem-intro", "shapes-explorer", "clock-coins-explorer", "pattern-explorer"].includes(screen)) return (
     <>
       {gameScreen}
