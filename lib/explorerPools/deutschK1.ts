@@ -1287,7 +1287,7 @@ export const BILDER_LABELS: Record<string, Record<string, string>> = {
     t6_inst: "Welches Wort passt NICHT in die Gruppe 'Obst'?",
     t6_h1: "Drei Wörter sind Früchte.",
     t6_h2: "'Hund' ist ein Tier, kein Obst.",
-    t6_w1: "Apfel", t6_w2: "Banane", t3_w3: "Hund", t4_w4: "Birne",
+    t6_w1: "Apfel", t6_w2: "Banane", t6_w3: "Hund", t6_w4: "Birne",
     t6_q: "Was ist ein Oberbegriff für 'Auto, Bus, LKW'?",
     t6_qa: "Fahrzeuge", t6_qb: "Tiere", t6_qc: "Essen", t6_qd: "Möbel",
 
@@ -1750,7 +1750,7 @@ export const LESE_LABELS: Record<string, Record<string, string>> = {
     t6_inst: "Lies: 'Ich trinke ...' - Welches Wort passt?",
     t6_h1: "Was kann man trinken?",
     t6_h2: "Man kann 'Milch' trinken.",
-    t6_w1: "Pizza", t6_w2: "Milch", t3_w3: "Brot", t4_w4: "Apfel",
+    t6_w1: "Pizza", t6_w2: "Milch", t6_w3: "Brot", t6_w4: "Apfel",
     t6_q: "Ergänze: 'Der Vogel ...'",
     t6_qa: "fliegt", t6_qb: "schwimmt", t6_qc: "fährt", t6_qd: "liest",
 
