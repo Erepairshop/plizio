@@ -782,7 +782,7 @@ export default function AstroEnglishK1Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation", "phonics-island", "letter-land", "blend-bay", "word-world", "action-cove", "compound-cape", "sentence-shore", "grammar-gulf", "story-summit"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

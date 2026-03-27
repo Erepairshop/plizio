@@ -404,12 +404,14 @@ const SubtractionExplorer = memo(function SubtractionExplorer({
   color = "#FF6B6B",
   onDone,
   lang = "en",
+  bgImage,
 }: {
   color?: string;
   onDone: (s: number, t: number) => void;
   lang?: string;
+  bgImage?: string;
 }) {
-  return <ExplorerEngine def={DEF} grade={1} explorerId="math_g1_subtraction" color={color} lang={lang} onDone={onDone} />;
+  return <ExplorerEngine def={DEF} grade={1} explorerId="math_g1_subtraction" color={color} lang={lang} onDone={onDone} bgImage={bgImage} />;
 });
 
 export default SubtractionExplorer;
