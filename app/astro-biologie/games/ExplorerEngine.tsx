@@ -891,11 +891,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     <div className="min-h-screen bg-[#060614] text-white px-4 py-6 flex flex-col items-center justify-center relative overflow-hidden">
       {/* Background image */}
       {(bgImage || def.bgImage) && (
-        <div className="absolute inset-0 z-0">
-          <img src={bgImage || def.bgImage} alt="" className="w-full h-full object-cover opacity-30" />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#060614]/60 via-transparent to-[#060614]/80" />
+        <div className="absolute inset-0 z-0 pointer-events-none">
+          <img src={bgImage || def.bgImage} alt="" className="w-full h-full object-cover opacity-50" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#060614]/40 via-transparent to-[#060614]/60" />
         </div>
       )}
+
       {/* Close button */}
       <button
         onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
