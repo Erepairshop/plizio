@@ -23,15 +23,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LetterExplorerK1 from "@/app/astrodeutsch/games/k1/LetterExplorerK1";
-import SyllableExplorerK1 from "@/app/astrodeutsch/games/k1/SyllableExplorerK1";
-import ArticleExplorerK1 from "@/app/astrodeutsch/games/k1/ArticleExplorerK1";
-import RhymeExplorerK1 from "@/app/astrodeutsch/games/k1/RhymeExplorerK1";
-import SentenceExplorerK1 from "@/app/astrodeutsch/games/k1/SentenceExplorerK1";
-import PictureWordExplorerK1 from "@/app/astrodeutsch/games/k1/PictureWordExplorerK1";
-import CompoundWordExplorerK1 from "@/app/astrodeutsch/games/k1/CompoundWordExplorerK1";
-import ReadingExplorerK1 from "@/app/astrodeutsch/games/k1/ReadingExplorerK1";
-import ReviewExplorerK1 from "@/app/astrodeutsch/games/k1/ReviewExplorerK1";
+const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
 import SpellRace from "@/app/astrodeutsch/games/SpellRace";
 import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
@@ -100,9 +92,7 @@ const K1_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
-  | "letter-explorer" | "syllable-explorer" | "article-explorer" | "rhyme-explorer"
-  | "sentence-explorer" | "picture-word-explorer" | "compound-word-explorer"
-  | "reading-explorer" | "review-explorer"
+  | "deutsch-explore"
   | "word-blitz" | "spell-race" | "sentence-scramble" | "gap-fill" | "category-rush"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -443,9 +433,7 @@ export default function AstroDeutschK1Page() {
   }, []);
 
   const noQuestionsTypes: string[] = [
-    "letter-explorer", "syllable-explorer", "article-explorer", "rhyme-explorer",
-    "sentence-explorer", "picture-word-explorer", "compound-word-explorer",
-    "reading-explorer", "review-explorer",
+    "deutsch-explore",
     "word-blitz", "spell-race", "sentence-scramble", "gap-fill", "category-rush",
   ];
 
@@ -737,32 +725,8 @@ export default function AstroDeutschK1Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "letter-explorer" && (
-          <LetterExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "syllable-explorer" && (
-          <SyllableExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "article-explorer" && (
-          <ArticleExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "rhyme-explorer" && (
-          <RhymeExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "sentence-explorer" && (
-          <SentenceExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "picture-word-explorer" && (
-          <PictureWordExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "compound-word-explorer" && (
-          <CompoundWordExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "reading-explorer" && (
-          <ReadingExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "review-explorer" && (
-          <ReviewExplorerK1 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "deutsch-explore" && activeIsland && (
+          <DeutschExplore island={activeIsland} grade={1} onDone={handleMissionDone} />
         )}
         {screen === "word-blitz" && (
           <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />
@@ -784,9 +748,7 @@ export default function AstroDeutschK1Page() {
   );
 
   const EXPLORER_SCREENS: Screen[] = [
-    "letter-explorer", "syllable-explorer", "article-explorer", "rhyme-explorer",
-    "sentence-explorer", "picture-word-explorer", "compound-word-explorer",
-    "reading-explorer", "review-explorer",
+    "deutsch-explore",
   ];
   const CHALLENGE_SCREENS: Screen[] = [
     "word-blitz", "spell-race", "sentence-scramble", "gap-fill", "category-rush",
