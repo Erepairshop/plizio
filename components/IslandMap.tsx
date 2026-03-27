@@ -606,13 +606,10 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const svgRef = useRef<SVGSVGElement | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  // Avatar tap → wave mood
-  const [avatarMood, setAvatarMood] = useState<"idle" | "wave" | "happy">("idle");
-  const waveTmr = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Avatar tap → wave reaction
+  const [avatarJump, setAvatarJump] = useState<{ reaction: "wave" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const handleAvatarTap = useCallback(() => {
-    if (waveTmr.current) clearTimeout(waveTmr.current);
-    setAvatarMood("wave");
-    waveTmr.current = setTimeout(() => setAvatarMood("idle"), 1500);
+    setAvatarJump({ reaction: "wave", timestamp: Date.now() });
   }, []);
 
   // Mouse/touch parallax
@@ -790,7 +787,8 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         >
           <AvatarCompanion
             fixed={false}
-            mood={avatarAnimating ? "happy" : avatarMood}
+            mood={avatarAnimating ? "happy" : "idle"}
+            jumpTrigger={avatarJump}
             passThrough={false}
             {...avatarProps}
           />
