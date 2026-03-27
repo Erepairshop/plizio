@@ -657,7 +657,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     }
   }, [targetIsland?.cx, targetIsland?.cy]);
 
-  const AVATAR_SIZE = 156;
+  const AVATAR_SIZE = 90;
 
   // Card flash
   const flashGame = useCardFlash();
@@ -789,7 +789,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             fixed={false}
             mood={avatarAnimating ? "happy" : "idle"}
             jumpTrigger={avatarJump}
-            passThrough={false}
+            passThrough={true}
             {...avatarProps}
           />
         </motion.div>

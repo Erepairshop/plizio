@@ -22,28 +22,6 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import LangExplore from "@/app/astromagyar/games/LangExplore";
-import LetterExplorer from "@/app/astromagyar/games/LetterExplorer";
-import SyllableExplorer from "@/app/astromagyar/games/SyllableExplorer";
-import SpellingExplorer from "@/app/astromagyar/games/SpellingExplorer";
-import NounExplorer from "@/app/astromagyar/games/NounExplorer";
-import VerbExplorer from "@/app/astromagyar/games/VerbExplorer";
-import SentenceExplorer from "@/app/astromagyar/games/SentenceExplorer";
-import EsetExplorer from "@/app/astromagyar/games/EsetExplorer";
-import ReviewExplorer from "@/app/astromagyar/games/ReviewExplorer";
-import SentenceBuilderExplorer from "@/app/astromagyar/games/SentenceBuilderExplorer";
-import MemoryPairExplorer from "@/app/astromagyar/games/MemoryPairExplorer";
-import PictureVocabExplorer from "@/app/astromagyar/games/PictureWordExplorer";
-import CategoryRushExplorer from "@/app/astromagyar/games/CategoryRushExplorer";
-import ReadingCompExplorer from "@/app/astromagyar/games/ReadingCompExplorer";
-import LanguageHistoryK7Explorer from "@/app/astromagyar/games/o7/LanguageHistoryK7Explorer";
-import AdvancedRhetoricExplorer from "@/app/astromagyar/games/o7/AdvancedRhetoricExplorer";
-import AdvancedStylisticsExplorer from "@/app/astromagyar/games/o7/AdvancedStylisticsExplorer";
-import LanguageVariantsExplorer from "@/app/astromagyar/games/o7/LanguageVariantsExplorer";
-import TextCompositionExplorer from "@/app/astromagyar/games/o7/TextCompositionExplorer";
-import AdvancedSyntaxExplorer from "@/app/astromagyar/games/o7/AdvancedSyntaxExplorer";
-import CommunicationExplorer from "@/app/astromagyar/games/o7/CommunicationExplorer";
-import MediaLanguageExplorer from "@/app/astromagyar/games/o7/MediaLanguageExplorer";
-import ReviewO7Explorer from "@/app/astromagyar/games/o7/ReviewO7Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -54,13 +32,6 @@ import {
   completeMissionO7, completeTestO7, islandTotalStarsO7,
 } from "@/lib/astroMagyar7";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type Lang, type IslandDef, type MissionDef, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
-import {
-  generateO7CategoryRushContent,
-  generateO7SentenceBuilderContent,
-  generateO7PictureWordContent,
-  generateO7ReadingCompContent,
-  generateO7MemoryPairContent,
-} from "@/app/astromagyar/contentGenerators";
 import { O7_ISLAND_SVGS } from "@/app/astromagyar/islands-o7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -85,28 +56,6 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
-  | "letter-explorer"
-  | "syllable-explorer"
-  | "spelling-explorer"
-  | "noun-explorer"
-  | "verb-explorer"
-  | "sentence-explorer"
-  | "eset-explorer"
-  | "review-explorer-hu"
-  | "sentence-builder"
-  | "memory-pair"
-  | "picture-word"
-  | "category-rush"
-  | "reading-comp"
-  | "language-history-k7"
-  | "advanced-rhetoric"
-  | "advanced-stylistics"
-  | "language-variants"
-  | "text-composition"
-  | "advanced-syntax"
-  | "communication"
-  | "media-language"
-  | "review-o7"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -339,19 +288,6 @@ export default function AstroMagyarO7Page() {
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
-      return;
-    }
-    // Explorer components: self-contained, no questions needed
-    const explorerTypes = [
-      "letter-explorer", "syllable-explorer", "spelling-explorer",
-      "noun-explorer", "verb-explorer", "sentence-explorer",
-      "eset-explorer", "review-explorer-hu",
-      "sentence-builder", "memory-pair", "picture-word",
-      "category-rush", "reading-comp",
-    ];
-    if (explorerTypes.includes(gameType)) {
-      setMissionScore({ score: 0, total: 0 });
-      setScreen(gameType as Screen);
       return;
     }
     const qs = generateMagyarIslandQuestions(activeIsland!, 7, gameType === "star-match" ? 20 : 10);
@@ -611,101 +547,6 @@ export default function AstroMagyarO7Page() {
           grade={7}
           onDone={(s, t) => handleMissionSuccess(s, t)}
         />
-      )}
-
-      {/* Explorer Components */}
-      {screen === "letter-explorer" && (
-        <LetterExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "syllable-explorer" && (
-        <SyllableExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "spelling-explorer" && (
-        <SpellingExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "noun-explorer" && (
-        <NounExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "verb-explorer" && (
-        <VerbExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "sentence-explorer" && (
-        <SentenceExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "eset-explorer" && (
-        <EsetExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-      {screen === "review-explorer-hu" && (
-        <ReviewExplorer lang={lang as Lang} color={activeIsland?.color || "#FF2D78"}
-          onDone={(s, t) => handleMissionSuccess(s, t)} />
-      )}
-
-      {screen === "sentence-builder" && (
-        <div className="relative">
-          <SentenceBuilderExplorer
-            rounds={generateO7SentenceBuilderContent()}
-            color={activeIsland?.color || "#FF2D78"}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "memory-pair" && (
-        <div className="relative">
-          <MemoryPairExplorer
-            pairs={generateO7MemoryPairContent()}
-            color={activeIsland?.color || "#FF2D78"}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "picture-word" && (
-        <div className="relative">
-          <PictureVocabExplorer
-            rounds={generateO7PictureWordContent()}
-            color={activeIsland?.color || "#FF2D78"}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
-      )}
-
-      {screen === "category-rush" && (
-        <div className="relative">
-          {(() => {
-            const data = generateO7CategoryRushContent();
-            return (
-              <CategoryRushExplorer
-                categories={data.categories}
-                items={data.items}
-                color={activeIsland?.color || "#FF2D78"}
-                lang={lang}
-                onDone={(s, t) => handleMissionSuccess(s, t)}
-              />
-            );
-          })()}
-        </div>
-      )}
-
-      {screen === "reading-comp" && (
-        <div className="relative">
-          <ReadingCompExplorer
-            rounds={generateO7ReadingCompContent()}
-            color={activeIsland?.color || "#FF2D78"}
-            lang={lang}
-            onDone={(s, t) => handleMissionSuccess(s, t)}
-          />
-        </div>
       )}
 
       {screen === "reward" && earnedCard && (
