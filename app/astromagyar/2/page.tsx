@@ -21,7 +21,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O2Explorer from "@/app/astromagyar/games/o2/O2Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import { O2_ISLAND_SVGS } from "@/app/astromagyar/islands-o2";
@@ -563,7 +563,7 @@ export default function AstroMagyar2() {
       {screen === "lang-explore" && activeIsland && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
-          <LangExplore
+          <O2Explorer
             island={activeIsland}
             grade={2}
             onDone={(s, t) => handleMissionComplete(s, t)}

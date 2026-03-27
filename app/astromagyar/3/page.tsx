@@ -23,7 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O3Explorer from "@/app/astromagyar/games/o3/O3Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -628,7 +628,7 @@ export default function AstroMagyarO3Page() {
           onDone={(s, t) => handleMissionComplete(s, t)} />
       )}
       {screen === "lang-explore" && activeIsland && (
-        <LangExplore
+        <O3Explorer
           island={activeIsland}
           grade={3}
           onDone={(s, t) => handleMissionComplete(s, t)}

@@ -23,7 +23,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O1Explorer from "@/app/astromagyar/games/O1Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -594,7 +594,7 @@ export default function AstroMagyarO1Page() {
       {screen === "lang-explore" && activeIsland && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
-          <LangExplore
+          <O1Explorer
             island={activeIsland}
             grade={1}
             onDone={(s, t) => handleMissionSuccess(s, t)}
