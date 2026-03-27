@@ -892,10 +892,22 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       {/* Background image */}
       {(bgImage || def.bgImage) && (
         <div className="absolute inset-0 z-0 pointer-events-none">
-          <img src={bgImage || def.bgImage} alt="" className="w-full h-full object-cover opacity-30" />
+          <img
+            src={bgImage || def.bgImage}
+            alt=""
+            className="w-full h-full object-cover opacity-30"
+            onLoad={() => console.log("[ExplorerEngine] bgImage LOADED:", bgImage || def.bgImage)}
+            onError={(e) => console.error("[ExplorerEngine] bgImage FAILED:", bgImage || def.bgImage, e)}
+          />
           <div className="absolute inset-0 bg-gradient-to-b from-[#060614]/60 via-transparent to-[#060614]/80" />
         </div>
       )}
+
+      {/* DEBUG overlay — remove after fixing */}
+      <div className="fixed top-0 left-0 right-0 z-[9999] bg-red-600 text-white text-[10px] p-1 pointer-events-none font-mono">
+        phase={phase} | topicIdx={isTopicMode ? topicIdx : "N/A"} | topicPhase={isTopicMode ? topicPhase : "N/A"} | round={round}/{totalRounds} | bgImg={bgImage || def.bgImage || "NONE"}
+      </div>
+
       {/* Close button */}
       <button
         onClick={() => onClose ? onClose() : onDone?.(scoreRef.current, totalRef.current)}
