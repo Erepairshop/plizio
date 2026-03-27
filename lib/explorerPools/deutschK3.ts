@@ -1,3 +1,5 @@
+import type { PoolTopicDef } from "./types";
+
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i1 — Pluralinsel
 // Thema: Pluralformen (-e, -er, -en, -s, Umlaut)

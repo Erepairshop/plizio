@@ -25,6 +25,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K3Explorer = dynamic(() => import("@/app/astrodeutsch/games/k3/K3Explorer"), { ssr: false });
 import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -727,7 +728,7 @@ export default function AstroDeutschK3Page() {
           <DeutschVisualGame klasse={3} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={3} onDone={handleMissionDone} />
+          <K3Explorer island={activeIsland} grade={3} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "sentence-scramble" && (
           <SentenceScramble color={bgColor} lang={lang} onDone={handleMissionDone} />
