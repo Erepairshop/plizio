@@ -381,7 +381,7 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade, bgImage }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade, bgImage = "/images/explorer/bg-default.webp" }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.en;
   const tDe = def.labels.de;
