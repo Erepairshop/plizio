@@ -99,7 +99,6 @@ import type { PoolTopicDef } from "./types";
 // export const EXAM4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
 // export const EXAM4_POOL: PoolTopicDef[] = [ ... ];
 
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i1 — Kasusinsel (Nominativ & Akkusativ)
@@ -295,13 +294,7 @@ export const KASUS_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-magnet",
-      targetLabel: "t7_target",
-      items: [
-        { text: "t7_m1", isCorrect: true },
-        { text: "t7_m2", isCorrect: true },
-        { text: "t7_m3", isCorrect: false },
-        { text: "t7_m4", isCorrect: true },
-      ],
+      pairs: [{ left: "t7_m1", right: "t7_m3" }, { left: "t7_m2", right: "t7_m3" }, { left: "t7_m4", right: "t7_m3" }],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "akkusativ" },
@@ -713,11 +706,12 @@ export const ZEITFORM4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-slingshot",
-      items: [
-        { text: "t7_m1", isCorrect: true },
-        { text: "t7_m2", isCorrect: true },
-        { text: "t7_m3", isCorrect: false },
-        { text: "t7_m4", isCorrect: false },
+      question: "t_q",
+      targets: [
+        { id: "t7_id1", text: "t7_m1", isCorrect: true },
+        { id: "t7_id2", text: "t7_m2", isCorrect: true },
+        { id: "t7_id3", text: "t7_m3", isCorrect: false },
+        { id: "t7_id4", text: "t7_m4", isCorrect: false },
       ],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
@@ -918,13 +912,8 @@ export const WORTART_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-stacker",
-      targetLabel: "t7_target",
-      items: [
-        { text: "t7_s1", isCorrect: true },
-        { text: "t7_s2", isCorrect: true },
-        { text: "t7_s3", isCorrect: true },
-        { text: "t7_s4", isCorrect: false },
-      ],
+      words: ["t7_s1", "t7_s2", "t7_s3", "t7_s4"],
+      correctOrder: [0, 1, 2],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "verben_k3" },
@@ -1123,13 +1112,8 @@ export const SATZGLIED4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-stacker",
-      targetLabel: "t7_target",
-      items: [
-        { text: "t7_s1", isCorrect: true },
-        { text: "t7_s2", isCorrect: true },
-        { text: "t7_s3", isCorrect: true },
-        { text: "t7_s4", isCorrect: false },
-      ],
+      words: ["t7_s1", "t7_s2", "t7_s3", "t7_s4"],
+      correctOrder: [0, 1, 2],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
@@ -1302,11 +1286,12 @@ export const SATZART4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t5_b1"],
     interactive: {
       type: "physics-slingshot",
-      items: [
-        { text: "t5_m1", isCorrect: true },
-        { text: "t5_m2", isCorrect: true },
-        { text: "t5_m3", isCorrect: true },
-        { text: "t5_m4", isCorrect: false },
+      question: "t_q",
+      targets: [
+        { id: "t5_id1", text: "t5_m1", isCorrect: true },
+        { id: "t5_id2", text: "t5_m2", isCorrect: true },
+        { id: "t5_id3", text: "t5_m3", isCorrect: true },
+        { id: "t5_id4", text: "t5_m4", isCorrect: false },
       ],
       instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2",
     },
@@ -1538,11 +1523,12 @@ export const VERB4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-slingshot",
-      items: [
-        { text: "t7_m1", isCorrect: true },
-        { text: "t7_m2", isCorrect: true },
-        { text: "t7_m3", isCorrect: true },
-        { text: "t7_m4", isCorrect: false },
+      question: "t_q",
+      targets: [
+        { id: "t7_id1", text: "t7_m1", isCorrect: true },
+        { id: "t7_id2", text: "t7_m2", isCorrect: true },
+        { id: "t7_id3", text: "t7_m3", isCorrect: true },
+        { id: "t7_id4", text: "t7_m4", isCorrect: false },
       ],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
@@ -1739,13 +1725,8 @@ export const RECHT4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-stacker",
-      targetLabel: "t7_target",
-      items: [
-        { text: "t7_s1", isCorrect: true },
-        { text: "t7_s2", isCorrect: true },
-        { text: "t7_s3", isCorrect: true },
-        { text: "t7_s4", isCorrect: false },
-      ],
+      words: ["t7_s1", "t7_s2", "t7_s3", "t7_s4"],
+      correctOrder: [0, 1, 2],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "satzzeichen_k1" },
@@ -1951,13 +1932,7 @@ export const EXAM4_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "physics-magnet",
-      targetLabel: "t7_target",
-      items: [
-        { text: "t7_m1", isCorrect: true },
-        { text: "t7_m2", isCorrect: true },
-        { text: "t7_m3", isCorrect: true },
-        { text: "t7_m4", isCorrect: false },
-      ],
+      pairs: [{ left: "t7_m1", right: "t7_m4" }, { left: "t7_m2", right: "t7_m4" }, { left: "t7_m3", right: "t7_m4" }],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "nominativ" }, // Final mix check
