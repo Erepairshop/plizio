@@ -85,14 +85,38 @@ export default function DynamicExplorer({
   // useMemo with [] → randomised once per mount, different each visit
   const def = useMemo<ExplorerDef>(() => {
     const selected = getRandomTopics(pool, count, mix);
-    const topics: TopicDef[] = selected.map(p => ({
+
+    // Deduplicate by resolved question TEXT (generator variety is limited,
+    // same generator can produce identical question strings in one session).
+    const usedTitles = new Set(selected.map(p => p.infoTitle));
+    const usedQuestions = new Set<string>();
+    const deduped = selected.map(p => {
+      const quiz = resolveQuiz(p);
+      if (usedQuestions.has(quiz.question)) {
+        // Try to find a replacement from pool with a unique question text
+        const replacement = pool
+          .filter(t => !usedTitles.has(t.infoTitle))
+          .map(t => ({ t, quiz: resolveQuiz(t) }))
+          .find(({ quiz: rq }) => !usedQuestions.has(rq.question));
+        if (replacement) {
+          usedTitles.delete(p.infoTitle);
+          usedTitles.add(replacement.t.infoTitle);
+          usedQuestions.add(replacement.quiz.question);
+          return { p: replacement.t, quiz: replacement.quiz };
+        }
+      }
+      usedQuestions.add(quiz.question);
+      return { p, quiz };
+    });
+
+    const topics: TopicDef[] = deduped.map(({ p, quiz }) => ({
       infoTitle:   p.infoTitle,
       infoText:    p.infoText,
       svg:         () => <TopicSvgRenderer config={p.svg} />,
       bulletKeys:  p.bulletKeys,
       hintKey:     p.hintKey,
       interactive: p.interactive,
-      quiz:        resolveQuiz(p),
+      quiz,
     }));
     return { labels, title, icon, topics, rounds: [] };
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
