@@ -331,7 +331,22 @@ const KASUS_SAETZE: { satz: string; kasus: string; r: string; f: string[] }[] = 
   { satz: "Er folgt ___ Katze.",            kasus: "Dativ",      r: "der", f: ["die", "das", "den"] },
   { satz: "___ Kind spielt im Garten.",     kasus: "Nominativ",  r: "Das", f: ["Den", "Die", "Des"] },
   { satz: "Das Auto ___ Vaters ist rot.",   kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
-  // TODO: add more ↓
+  // K2-K4 expansion: 14 neue Einträge für mehr Vielfalt
+  { satz: "Ich kaufe ___ Brot.",            kasus: "Akkusativ",  r: "das", f: ["der", "den", "dem"] },
+  { satz: "___ Lehrer erklärt die Aufgabe.",kasus: "Nominativ",  r: "Der", f: ["Den", "Dem", "Das"] },
+  { satz: "Sie spricht mit ___ Mann.",      kasus: "Dativ",      r: "dem", f: ["den", "der", "das"] },
+  { satz: "Das Buch ___ Schülers ist alt.", kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
+  { satz: "___ Katze ist schwarz.",         kasus: "Nominativ",  r: "Die", f: ["Den", "Dem", "Das"] },
+  { satz: "Ich helfe ___ Freund.",          kasus: "Dativ",      r: "dem", f: ["den", "der", "das"] },
+  { satz: "Wir sehen ___ Vogel.",           kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Das Haus ___ Familie ist groß.", kasus: "Genitiv",    r: "der", f: ["den", "dem", "des"] },
+  { satz: "___ Baum ist hoch.",             kasus: "Nominativ",  r: "Der", f: ["Den", "Dem", "Das"] },
+  { satz: "Ich gebe ___ Mädchen ein Buch.", kasus: "Dativ",      r: "dem", f: ["die", "der", "den"] },
+  { satz: "Wir essen ___ Apfel.",           kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Die Tür ___ Hauses ist blau.",   kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
+  { satz: "___ Hose ist rot.",              kasus: "Nominativ",  r: "Die", f: ["Den", "Dem", "Das"] },
+  { satz: "Er liest ___ Brief.",            kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Wir gratulieren ___ Mutter.",    kasus: "Dativ",      r: "der", f: ["die", "den", "das"] },
 ];
 
 // Adjektiv-Gegenteilpaare für K3
@@ -349,7 +364,21 @@ const GEGENTEIL_PAARE: { w: string; g: string; f1: string; f2: string }[] = [
   { w: "schön",   g: "hässlich",  f1: "unschön",  f2: "grau"     },
   { w: "früh",    g: "spät",      f1: "pünktlich",f2: "langsam"  },
   { w: "lang",    g: "kurz",      f1: "eng",      f2: "schmal"   },
-  // TODO: add more ↓
+  // K3-K4 expansion: 13 neue Paare für mehr Vielfalt
+  { w: "hoch",    g: "tief",      f1: "oben",     f2: "unten"    },
+  { w: "dick",    g: "dünn",      f1: "fett",     f2: "mager"    },
+  { w: "oben",    g: "unten",     f1: "über",     f2: "darunter" },
+  { w: "vorne",   g: "hinten",    f1: "links",    f2: "rechts"   },
+  { w: "sauber",  g: "schmutzig", f1: "rein",     f2: "dreckig"  },
+  { w: "neu",     g: "alt",       f1: "jung",     f2: "abgenutzt"},
+  { w: "offen",   g: "geschlossen",f1:"aufs",     f2: "zu"       },
+  { w: "dünn",    g: "dick",      f1: "schlank",  f2: "breit"    },
+  { w: "süß",     g: "sauer",     f1: "bitter",   f2: "würzig"   },
+  { w: "glatt",   g: "rauh",      f1: "eben",     f2: "holprig"  },
+  { w: "arm",     g: "reich",     f1: "dürftig",  f2: "vermögend"},
+  { w: "leicht",  g: "schwer",    f1: "mühelos",  f2: "anstrengend"},
+  { w: "links",   g: "rechts",    f1: "west",     f2: "ost"      },
+  { w: "innen",   g: "außen",     f1: "drinnen",  f2: "draußen"  },
 ];
 
 // Satzzeichen-Templates für K1
@@ -662,8 +691,17 @@ function genNomenErkennen(): DeutschQuestion {
   const opts = shuffle([pick(NOMEN_WA), pick(VERBEN_WA), pick(ADJ_WA), pick(ANDERE_WA)]);
   // Sicherstellen dass der richtige wirklich ein Nomen ist
   const correct = opts.find((o) => NOMEN_WA.includes(o)) ?? opts[0];
+  // Vary question text to avoid repetition
+  const questions = [
+    `Welches Wort ist ein Nomen?`,
+    `Welches Wort ist ein Substantiv?`,
+    `Das Nomen ist:`,
+    `Welches ist das Nomen?`,
+    `Finde das Nomen:`,
+  ];
+  const questionText = pick(questions);
   return mkMCQ("wortarten_k2", "nomen_k2",
-    "Welches Wort ist ein Nomen?", correct,
+    questionText, correct,
     opts.filter((o) => o !== correct));
 }
 
@@ -671,8 +709,17 @@ function genNomenErkennen(): DeutschQuestion {
 function genVerbErkennen(): DeutschQuestion {
   const opts = shuffle([pick(VERBEN_WA), pick(NOMEN_WA), pick(ADJ_WA), pick(ANDERE_WA)]);
   const correct = opts.find((o) => VERBEN_WA.includes(o)) ?? opts[0];
+  // Vary question text to avoid repetition
+  const questions = [
+    `Welches Wort ist ein Verb?`,
+    `Welches ist das Verb?`,
+    `Das Verb ist:`,
+    `Welches Wort ist ein Tätigkeitswort?`,
+    `Finde das Verb:`,
+  ];
+  const questionText = pick(questions);
   return mkMCQ("wortarten_k2", "verben_k2",
-    "Welches Wort ist ein Verb?", correct,
+    questionText, correct,
     opts.filter((o) => o !== correct));
 }
 
