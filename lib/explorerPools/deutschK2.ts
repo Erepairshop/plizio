@@ -1469,8 +1469,101 @@ export const SATZART_LABELS: Record<string, Record<string, string>> = {
     t7_inst: "Baue eine Frage aus diesen Wörtern!",
     t7_h1: "Bei der Frage ohne Fragewort steht das Verb (Tunwort) ganz vorne.",
     t7_h2: "Kommst du heute?",
-    t7_o1: "Kommst", t7_o2: "du", t7_o3: "heute?",
+        t7_o1: "Kommst", t7_o2: "du", t7_o3: "heute?",
     // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T8: Das Komma im Satz
+    t8_title: "Das Komma (,)",
+    t8_text: "Das Komma ist wie eine kleine Pause beim Sprechen. Es hilft, Sätze zu teilen: 'Ich esse Apfel, Banane und Orange.' Das Komma trennt die Wörter.",
+    t8_b1: "Komma = kleine Pause",
+    t8_b2: "Es trennt Wörter und Teile.",
+    t8_inst: "Wo kommt das Komma hin?",
+    t8_h1: "Das Komma steht zwischen Wörtern in einer Liste.",
+    t8_h2: "'Rot, Blau und Grün' -> Komma nach Rot und Blau.",
+    t8_sent: "Ich sehe einen Hund ___ eine Katze und einen Vogel.",
+    t8_c1: ",", t8_c2: ".", t8_c3: "?", t8_c4: "!",
+    t8_q: "Wann brauchen wir ein Komma?",
+    t8_qa: "Um Wörter in einer Liste zu trennen", t8_qb: "Am Ende von jedem Satz", t8_qc: "Vor dem ersten Wort", t8_qd: "Nie in Deutsch",
+
+    // T9: Welches Satzzeichen passt?
+    t9_title: "Das richtige Zeichen finden",
+    t9_text: "Schau auf den Satz und denk: Ist es eine Aussage (.), eine Frage (?) oder ein Befehl (!)? Die Wörter verraten dir, welches Zeichen du brauchst!",
+    t9_b1: "Aussage -> Punkt",
+    t9_b2: "Frage -> Fragezeichen",
+    t9_b3: "Befehl -> Ausrufezeichen",
+    t9_inst: "Wähle das richtige Satzzeichen!",
+    t9_h1: "Liest sich das wie Erzählung, Frage oder Befehl?",
+    t9_h2: "'Komm her!' ist ein Befehl, also brauchen wir '!'",
+    t9_sent: "Der Himmel ist blau ___",
+    t9_c1: ".", t9_c2: "?", t9_c3: "!", t9_c4: ",",
+
+    // T10: Mehrere Sätze verbinden
+    t10_title: "Zwei Sätze verbinden",
+    t10_text: "Wir können zwei Sätze verbinden mit 'und', 'aber', 'oder'. 'Der Hund spielt. Die Katze schläft.' wird zu 'Der Hund spielt und die Katze schläft.'",
+    t10_b1: "Und = zusammen",
+    t10_b2: "Aber = Gegensatz",
+    t10_b3: "Oder = Wahl",
+    t10_inst: "Welches Wort verbindet die Sätze?",
+    t10_h1: "Denk: Geht es um Zusammengehöriges (und), einen Gegensatz (aber) oder eine Wahl (oder)?",
+    t10_h2: "'Der Hund ist groß und die Katze ist klein.' = aber es passt auch.",
+    t10_sent: "Ich mag Äpfel ___ Orangen.",
+    t10_c1: "und", t10_c2: "aber", t10_c3: "oder", t10_c4: "weil",
+
+    // T11: Satzzeichenmeister
+    t11_title: "Satzzeichenmeister",
+    t11_text: "Du kennst jetzt alle Satzzeichen: Punkt, Fragezeichen, Ausrufezeichen, Komma! Lass sie alle arbeiten!",
+    t11_b1: "Punkt, Fragezeichen, Ausrufezeichen, Komma.",
+    t11_inst: "Schreib das richtige Zeichen!",
+    t11_h1: "Schau: Aussage? Frage? Befehl? Liste?",
+    t11_h2: "Hier ist eine Antwort -> Punkt.",
+    t11_sent: "Wie heißt du ___",
+    t11_c1: "?", t11_c2: ".", t11_c3: "!", t11_c4: ",",
+    t11_q: "Welches Satzzeichen steht am Ende einer Frage?",
+    t11_qa: "Fragezeichen (?)", t11_qb: "Punkt (.)", t11_qc: "Ausrufezeichen (!)", t11_qd: "Komma (,)",
+
+    // T12: Fragen und Befehle unterscheiden
+    t12_title: "Frage oder Befehl?",
+    t12_text: "Manche Sätze fangen mit einem Verb an und sehen aus wie Fragen. Aber wenn wir jemanden befehlen, ist es ein Befehl! 'Kommst du?' ist Frage (?). 'Komm!' ist Befehl (!).",
+    t12_b1: "Frage: Kommst du? (?)",
+    t12_b2: "Befehl: Komm! (!)",
+    t12_inst: "Ist es eine Frage oder ein Befehl?",
+    t12_h1: "Wollen wir etwas wissen (Frage) oder befehlen wir (Befehl)?",
+    t12_h2: "'Hilf mir!' ist ein Befehl -> Ausrufezeichen.",
+    t12_sent: "Schließ bitte die Tür ___",
+    t12_c1: "!", t12_c2: "?", t12_c3: ".", t12_c4: ",",
+
+    // T13: Schreib das Gespräch auf
+    t13_title: "Dialog richtig schreiben",
+    t13_text: "Wenn zwei Personen sprechen, schreiben wir jede Rede in einen neuen Satz. Am Ende jeder Rede kommt das richtige Satzzeichen!",
+    t13_b1: "Jede Rede = neuer Satz.",
+    t13_b2: "Jede Rede hat das richtige Zeichen.",
+    t13_inst: "Welches Zeichen fehlt?",
+    t13_h1: "Anna fragt: also brauchen wir ein Fragezeichen oder Ausrufezeichen?",
+    t13_h2: "'Wie geht es dir' ist eine Frage -> '?'",
+    t13_w1: "Anna", t13_w2: "fragt", t13_w3: "Wie", t13_w4: "geht", t13_w5: "es", t13_w6: "dir",
+    t13_q: "Paul sagt 'Ich spiele gern Fußball'. Was kommt am Ende?",
+    t13_qa: "Punkt (.)", t13_qb: "Fragezeichen (?)", t13_qc: "Ausrufezeichen (!)", t13_qd: "Komma (,)",
+
+    // T14: Listenmeister mit Kommas
+    t14_title: "Listen mit Kommas schreiben",
+    t14_text: "Wenn wir viele Dinge aufzählen, setzen wir überall Kommas hin! Aber VOR dem letzten 'und' kommt kein Komma mehr. 'Äpfel, Birnen, Orangen und Bananen' - KEIN Komma vor 'und'!",
+    t14_b1: "Komma, Komma... und (KEIN Komma vor 'und')",
+    t14_inst: "Wo kommt das Komma hin?",
+    t14_h1: "Zähle: 1, 2, 3, und 4. Vor 'und' KEIN Komma!",
+    t14_h2: "'Rot, Blau, Grün und Gelb' - kein Komma vor 'und'.",
+    t14_sent: "Ich mag Schokolade ___ Gummibärchen und Bonbons.",
+    t14_c1: ",", t14_c2: ".", t14_c3: "!", t14_c4: "?",
+
+    // T15: Satzzeichen Champion!
+    t15_title: "Satzzeichen Champion!",
+    t15_text: "Gratulieren! Du bist jetzt Meister aller Satzzeichen! Du kennst Punkt, Fragezeichen, Ausrufezeichen und Komma. Das ist großartig!",
+    t15_b1: "Du kennst: . ? ! ,",
+    t15_b2: "Du weißt, wann du sie brauchst!",
+    t15_inst: "Champion-Test: Welches Zeichen?",
+    t15_h1: "Denk an alle Regeln!",
+    t15_h2: "Aussage=Punkt, Frage=Fragezeichen, Befehl=Ausrufezeichen, Liste=Komma.",
+    t15_sent: "Was ist dein Lieblingsspiel ___",
+    t15_c1: "?", t15_c2: ".", t15_c3: "!", t15_c4: ",",
   }
 };
 
@@ -1687,6 +1780,95 @@ export const GROSS_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "'Die Katze spielt.' ist richtig.",
     t7_s1: "Die Katze spielt.", t7_s2: "die katze spielt.", t7_s3: "Die katze spielt.", t7_s4: "die Katze spielt.",
     // Quiz: GENERATOR (nomen_k2)
+
+    // T8: Großbuchstaben in Namen
+    t8_title: "Eigennamen schreiben",
+    t8_text: "Namen von Personen, Orten und besondere Dinge schreiben wir GROSS! Beispiele: Anna, Berlin, Montag, Ostern. Diese Wörter sind etwas Besonderes!",
+    t8_b1: "Eigennamen = Personen, Orte, Tage, Feste",
+    t8_b2: "Alle Eigennamen schreiben wir GROSS!",
+    t8_inst: "Welches Wort ist ein Eigenname und muss groß sein?",
+    t8_h1: "Was ist ein spezieller Name einer Person oder eines Ortes?",
+    t8_h2: "'Berlin' ist ein Ort, also schreiben wir es groß.",
+    t8_w1: "anna", t8_w2: "Anna", t8_w3: "mädchen", t8_w4: "AnNA",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T9: Wochentage und Monate
+    t9_title: "Wochentage und Monate",
+    t9_text: "Montag, Freitag, Januar, Juli - diese schreiben wir immer GROSS! Sie sind Eigennamen.",
+    t9_b1: "Montag, Dienstag, Mittwoch...",
+    t9_b2: "Januar, Februar, März... alle groß!",
+    t9_inst: "Sortiere: Welche Wörter sind Wochentage oder Monate?",
+    t9_h1: "Was sind Tage der Woche?",
+    t9_h2: "Montag und Juni sind Eigennamen - groß!",
+    t9_btime: "Wochentag/Monat", t9_bother: "Anderes",
+    t9_i1: "Montag", t9_i2: "spielen", t9_i3: "Juni", t9_i4: "lachen",
+    // Quiz: GENERATOR (zeit_k2)
+
+    // T10: Artikel und Nomen Zusammenspiel
+    t10_title: "Artikel und Nomen",
+    t10_text: "Der Artikel (der, die, das) ist immer klein, aber das Nomen dahinter ist GROSS! Ein Nomen ist Teil einer Nominalgruppe.",
+    t10_b1: "Artikel = klein (der, die, das)",
+    t10_b2: "Nomen = GROSS (Hund, Katze, Haus)",
+    t10_inst: "Finde das großgeschriebene Nomen!",
+    t10_h1: "Nach dem Artikel kommt das Nomen - und es ist groß!",
+    t10_h2: "'der Hund' - Hund ist groß!",
+    t10_w1: "der", t10_w2: "Hund", t10_w3: "spielt", t10_w4: "glücklich",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T11: Satzanfang und Großschreibung kombiniert
+    t11_title: "Satzanfang und Nomen",
+    t11_text: "Der Satzanfang ist groß UND die Nomen sind groß! Das bedeutet: Manche Großbuchstaben kommen vom Satzanfang, andere vom Nomen!",
+    t11_b1: "Satzanfang = groß (ist Regel 1)",
+    t11_b2: "Nomen = groß (ist Regel 2)",
+    t11_inst: "Welcher Satz ist perfekt geschrieben?",
+    t11_h1: "Zwei Regeln: Anfang UND Nomen!",
+    t11_h2: "'Der Hund spielt.' - Der (Anfang) und Hund (Nomen) sind groß.",
+    t11_sent1: "Der Hund spielt.", t11_sent2: "der Hund Spielt.", t11_sent3: "Der hund spielt.", t11_sent4: "der hund spielt.",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T12: Adjektive in der Nominalgruppe
+    t12_title: "Adjektive in Nominalgruppen",
+    t12_text: "Wenn ein Adjektiv direkt VOR einem Nomen steht, bleibt es klein! 'Der schöne Garten' - 'schöne' ist klein, 'Garten' ist groß!",
+    t12_b1: "Adjektiv vor Nomen = klein (schöne)",
+    t12_b2: "Nomen bleibt GROSS (Garten)",
+    t12_inst: "Schreib das Adjektiv richtig: klein atau groß?",
+    t12_h1: "Das Adjektiv steht VOR dem Nomen - es bleibt klein!",
+    t12_h2: "'der grüne Baum' - grüne ist klein, Baum ist groß.",
+    t12_sent: "Ich mag den ___ Apfel.",
+    t12_c1: "roten", t12_c2: "Roten", t12_c3: "ROTEN", t12_c4: "Rot",
+    // Quiz: GENERATOR (farben_k2)
+
+    // T13: Großschreibung-Fehler finden
+    t13_title: "Fehler-Jäger",
+    t13_text: "Schau genau hin: Welches Wort ist falsch geschrieben?",
+    t13_b1: "Finde die Großschreibungs-Fehler!",
+    t13_inst: "Klicke auf das falsch geschriebene Wort!",
+    t13_h1: "Welches Nomen wurde klein geschrieben?",
+    t13_h2: "'spielen' ist ein Verb, also klein. 'Hund' ist ein Nomen, also groß!",
+    t13_w1: "Der", t13_w2: "kleine", t13_w3: "hund", t13_w4: "spielt", t13_w5: ".",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T14: Großschreibung im Satzgefüge
+    t14_title: "Mehrere Sätze verbinden",
+    t14_text: "Jeder Satz fängt neu groß an! 'Der Hund spielt. Die Katze schläft.' - Beide Anfänge sind groß!",
+    t14_b1: "Jeder Satz = neuer Anfang = groß",
+    t14_inst: "Welcher Satz hat beide Anfänge richtig geschrieben?",
+    t14_h1: "Prüfe beide Satzanfänge: groß?",
+    t14_h2: "'Die Katze schläft. Der Vogel singt.' - beide groß!",
+    t14_sent1: "Der Hund bellt. die Katze schläft.", t14_sent2: "Der Hund bellt. Die Katze schläft.", t14_sent3: "der Hund bellt. Die Katze schläft.", t14_sent4: "der Hund bellt. die Katze schläft.",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T15: Großschreibungs-Champion!
+    t15_title: "Großschreibungs-Champion!",
+    t15_text: "Du bist jetzt Großschreibungs-Expert! Du weißt: Nomen groß, Satzanfang groß, Verben und Adjektive klein!",
+    t15_b1: "Nomen = GROSS",
+    t15_b2: "Satzanfang = groß",
+    t15_b3: "Verben/Adjektive = klein",
+    t15_inst: "Champion-Test: Schreib den Satz richtig!",
+    t15_h1: "Nutze alle drei Regeln!",
+    t15_h2: "'Der schnelle Hund spielt gern.' - Der & Hund & Hund groß, schnelle & spielt & gern klein.",
+    t15_sent: "Der große Hund spielt im Garten.",
+    // Quiz: GENERATOR (nomen_k2)
   }
 };
 
@@ -1807,6 +1989,140 @@ export const GROSS_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "nomen_k2" }, // ❤️ GENERATOR
   },
+
+  // ── 8. Großbuchstaben in Namen (highlight-text) ──────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "Anna", emoji: "👤", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "Berlin", emoji: "🏛️", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [1],
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 9. Wochentage und Monate (drag-to-bucket) ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: "Mo", emoji: "📅", color: "#F59E0B", bg: "#FEF3C7" }, { text: "Ja", emoji: "🗓️", color: "#10B981", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "time", label: "t9_btime" }, { id: "other", label: "t9_bother" }],
+      items: [
+        { text: "t9_i1", bucketId: "time" },
+        { text: "t9_i2", bucketId: "other" },
+        { text: "t9_i3", bucketId: "time" },
+        { text: "t9_i4", bucketId: "other" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "zeit_k2" },
+  },
+
+  // ── 10. Artikel und Nomen (highlight-text) ──────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "word-display", word: "der Hund", highlightChars: ["H"], color: "#047857" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [1],
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 11. Satzanfang und Nomen (highlight-text) ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "sentence-display", words: ["Der", "Hund", "spielt"], highlightIndices: [0, 1], color: "#1D4ED8" },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_sent1", "t11_sent2", "t11_sent3", "t11_sent4"],
+      correctIndices: [0],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 12. Adjektive in Nominalgruppen (gap-fill) ──────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "sentence-display", words: ["der", "grüne", "Baum"], highlightIndices: [0, 2], color: "#10B981" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent",
+      choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 13. Fehler-Jäger (highlight-text) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "X", emoji: "❌", color: "#EF4444", bg: "#FEE2E2" }, { text: "Fehler!", emoji: "🔍", color: "#EF4444", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t13_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4", "t13_w5"],
+      correctIndices: [2],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 14. Großschreibung im Satzgefüge (highlight-text) ── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "Satz 1", emoji: "1️⃣", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "Satz 2", emoji: "2️⃣", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t14_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_sent1", "t14_sent2", "t14_sent3", "t14_sent4"],
+      correctIndices: [1],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Großschreibungs-Champion! (sentence-build) ──── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "Champion!", bg: "#FCD34D" },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["Der", "große", "Hund", "spielt", "im", "Garten", "."],
+      correctIndices: [0, 2],
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -1905,6 +2221,98 @@ export const RECHT1_LABELS: Record<string, Record<string, string>> = {
     // Quiz: MANUAL
     t7_q: "Welches Wort im Satz 'Der Bäcker backt.' hat ein 'ck'?",
     t7_qa: "Beide (Bäcker und backt)", t7_qb: "Nur Bäcker", t7_qc: "Nur backt", t7_qd: "Keines",
+
+    // T8: Konsonanten-Verdopplung
+    t8_title: "Konsonanten verdoppeln sich",
+    t8_text: "Nach einem kurzen Vokal verdoppeln wir oft den nächsten Buchstaben! Kopf, Stoff, Ball. Das ist eine wichtige Regel!",
+    t8_b1: "Kurzer Vokal ➔ Konsonant doppelt (Ball, Stoff).",
+    t8_b2: "Langer Vokal ➔ Konsonant einfach (Bald, Stuhl).",
+    t8_inst: "Welches Wort hat einen verdoppelten Konsonanten?",
+    t8_h1: "Höre auf die Vokale: kurz vagy lang?",
+    t8_h2: "Koff hat ein kurzes O, also KOpp. Kaff hat ein kurzes A, also KAff.",
+    t8_w1: "Kaffe", t8_w2: "Kaffee", t8_w3: "Kafe", t8_w4: "KAffee",
+    // Quiz: MANUAL
+    t8_q: "Wann verdoppeln wir Konsonanten?",
+    t8_qa: "Nach einem kurzen Vokal", t8_qb: "Nach einem langen Vokal", t8_qc: "Immer!", t8_qd: "Nur am Wortanfang",
+
+    // T9: Doppelkonsonanten erkennen
+    t9_title: "Doppelkonsonanten oder nicht?",
+    t9_text: "Hörst du: 'fall' (ein L) vagy 'fall' (zwei L)? Es klingt fast gleich, aber es ist SEHR wichtig!",
+    t9_b1: "fallen ➔ LL (kurzes A)",
+    t9_b2: "fallen ➔ aber vorsicht: beide fallen sind richtig!",
+    t9_inst: "Sortiere die Doppelkonsonanten-Wörter!",
+    t9_h1: "Kurzer Vokal davor = wahrscheinlich doppelt!",
+    t9_h2: "'Apfel' hat ein kurzes A, also AP-p-el.",
+    t9_bdouble: "Mit Verdopplung", t9_bsingle: "Ohne Verdopplung",
+    t9_i1: "Apfel", t9_i2: "Hobel", t9_i3: "Koffer", t9_i4: "Ofen",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T10: Double Check (Vokal hören)
+    t10_title: "Hör auf den Vokal!",
+    t10_text: "Sprich diese Wörter laut: 'LiNNe' oder 'LiNe'? Das 'i' ist KURZ, also brauchen wir zwei N!",
+    t10_b1: "Kurzer Vokal = Konsonant doppelt",
+    t10_inst: "Ist der Vokal kurz oder lang? Wähle richtig!",
+    t10_h1: "Sprich das Wort laut: Wie klingt das Vokal davor?",
+    t10_h2: "'Linie' - das i ist LANG, also nur ein N.",
+    t10_sent: "Das ist eine Li___e auf der Straße.",
+    t10_c1: "ni", t10_c2: "nni", t10_c3: "nne", t10_c4: "n",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T11: ck, tz und Doppelkonsonanten kombiniert
+    t11_title: "Alles durcheinander",
+    t11_text: "Ck, tz, Doppelkonsonanten - immer kurzer Vokal! Backe, Katze, Kaffee - alles folgt der gleichen Regel!",
+    t11_b1: "KURZER VOKAL ➔ ck, tz, oder Doppel",
+    t11_inst: "Welches Wort passt NICHT zur Regel?",
+    t11_h1: "Alle haben einen kurzen Vokal und verdoppeln deshalb!",
+    t11_h2: "'Sack' = kurz A, 'Katze' = kurz A, 'Gasse' = kurz A - alle folgen der Regel!",
+    t11_w1: "Sack", t11_w2: "Katze", t11_w3: "Gasse", t11_w4: "Sate",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T12: Sp und st - auch am Ende!
+    t12_title: "Sp und st am Wortende",
+    t12_text: "Nicht nur am Anfang - auch am Ende bleiben sp und st! 'Gast', 'Nest', 'Obst'. Wir schreiben Buchstabe für Buchstabe!",
+    t12_b1: "Gast, Nest, Obst ➔ st am Ende",
+    t12_inst: "Welches Wort endet mit 'st' oder 'sp'?",
+    t12_h1: "Höre das Ende: '-st' vagy '-sp'?",
+    t12_h2: "'Gast' = G-A-ST, 'Nest' = N-E-ST.",
+    t12_w1: "Gast", t12_w2: "Gasse", t12_w3: "Nest", t12_w4: "Nesse",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T13: ie und ei nochmal
+    t13_title: "ie oder ei? (Wiederholung)",
+    t13_text: "Noch eine Wiederholung: Lange i-Laute = 'ie'. Lange e-Laute = 'ei'. Biene und Reifen!",
+    t13_b1: "ie = langes i-Laut",
+    t13_b2: "ei = langes e-Laut",
+    t13_inst: "Welches Wort ist richtig geschrieben?",
+    t13_h1: "Sprich laut: Welcher Vokal ist lang?",
+    t13_h2: "'Biene' = Bi-e, 'Reifen' = Re-fen.",
+    t13_w1: "Biene", t13_w2: "Biene", t13_w3: "Reifen", t13_w4: "Reifen",
+    // Quiz: MANUAL
+    t13_q: "Wie schreiben wir 'Schuh' mit lang-I Sound?",
+    t13_qa: "Schieh", t13_qb: "Schiee", t13_qc: "Schuh", t13_qd: "Schieh (mit 'ie')",
+
+    // T14: Regel-Mix (alle zusammen)
+    t14_title: "Das große Rechtschreibungs-Mix",
+    t14_text: "Ck, tz, Doppelkonsonanten, sp/st, ie/ei - jetzt kombinieren wir alles! Satzmeister-Prüfung!",
+    t14_b1: "Alle Regeln kombiniert!",
+    t14_inst: "Schreib das Wort richtig!",
+    t14_h1: "Denk an ALLE Regeln: Vokal kurz? sp/st? ie/ei?",
+    t14_h2: "'Bienenstich' - Biene (ie), nenstich (st)!",
+    t14_sent: "Der Spi___ fängt mit 'sp' an.",
+    t14_c1: "el", t14_c2: "ell", t14_c3: "ehl", t14_c4: "e",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T15: Rechtschreibungs-Champion!
+    t15_title: "Rechtschreibungs-Champion!",
+    t15_text: "Gratulieren! Du beherschst ck, tz, sp/st, Doppelkonsonanten und ie/ei! Du bist ein Super-Speller!",
+    t15_b1: "Du kennst: ck, tz, Doppel, sp/st, ie/ei",
+    t15_b2: "Kurzer Vokal ➔ Regel gilt!",
+    t15_inst: "Final Test: Schreib perfekt!",
+    t15_h1: "Nutze dein Wissen!",
+    t15_h2: "Alle Regeln zusammen: kurz=verdoppel, sp/st bleibt!",
+    t15_sent: "Der nasse Spie___ ist fertig.",
+    t15_c1: "l", t15_c2: "ll", t15_c3: "lh", t15_c4: "le",
+    // Quiz: GENERATOR (nomen_k2)
   }
 };
 
@@ -2149,6 +2557,8 @@ export const RECHT2_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Das 'a' in Straße ist lang.",
     t9_h2: "Straße hat ß, Klasse hat ss.",
     t9_w1: "Straße", t9_w2: "Klasse", t9_w3: "Essen", t9_w4: "Spiel",
+    t9_sent: "Die Stra_e ist lang.",
+    t9_c1: "ße", t9_c2: "be", t9_c3: "ße", t9_c4: "se",
     // Quiz: MANUAL
     t9_q: "Wann schreiben wir 'ß'?",
     t9_qa: "Nach langem Vokal", t9_qb: "Nach kurzem Vokal", t9_qc: "Am Wortanfang", t9_qd: "Immer zwischen Vokalen",
@@ -2563,6 +2973,95 @@ export const WORTFELD_LABELS: Record<string, Record<string, string>> = {
     // Quiz: MANUAL
     t7_q: "Aus welchen Wörtern besteht 'Haustür'?",
     t7_qa: "Haus + Tür", t7_qb: "Hau + Stür", t7_qc: "Hau + s + tür", t7_qd: "Hau + stür",
+
+    // T8: Körperteile (body parts)
+    t8_title: "Der Körper hat viele Teile",
+    t8_text: "Unser Körper hat viele verschiedene Teile: Kopf, Arm, Bein, Auge, Ohr, Nase, Mund, Hand, Fuß und vieles mehr!",
+    t8_b1: "Körperteile sind eine Wortfamilie.",
+    t8_b2: "Zum Beispiel: Kopf, Auge, Nase.",
+    t8_inst: "Welches Wort gehört zur Familie 'Körperteile'?",
+    t8_h1: "Was hat jeder Mensch oben am Körper?",
+    t8_h2: "Der Kopf ist ein Körperteil.",
+    t8_w1: "Kopf", t8_w2: "Tisch", t8_w3: "Schuh", t8_w4: "Fenster",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T9: Kleidung und Mode
+    t9_title: "Kleidung - Was wir tragen",
+    t9_text: "Kleider, Schuhe, Hosen, Hemden - das alles ist Kleidung. Diese Wörter bilden eine große Wortfamilie!",
+    t9_b1: "Kleidung = Dinge, die wir anziehen.",
+    t9_inst: "Sortiere: Was ist Kleidung?",
+    t9_h1: "Mit Kleidung wärmen wir uns warm.",
+    t9_h2: "Mantel, Hemd und Hose sind Kleidung.",
+    t9_bo: "Kleidung", t9_bg: "Nicht Kleidung",
+    t9_i1: "Hemd", t9_i2: "Stuhl", t9_i3: "Schuh", t9_i4: "Baum",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T10: Speisen - Was wir essen
+    t10_title: "Speisen und Getränke",
+    t10_text: "Apfel, Brot, Käse, Milch - das sind Speisen! Sie sind zum Essen. Und dann gibt es noch Getränke wie Wasser, Saft und Tee.",
+    t10_b1: "Oberbegriff: Essen und Trinken.",
+    t10_inst: "Welches Wort gehört nicht zum Wortfeld Speisen?",
+    t10_h1: "Was würde man essen? Was nicht?",
+    t10_h2: "Brot und Käse isst man. Ein Stuhl isst man nicht!",
+    t10_w1: "Brot", t10_w2: "Käse", t10_w3: "Stuhl", t10_w4: "Apfel",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T11: Farben (colors)
+    t11_title: "Die Welt der Farben",
+    t11_text: "Rot, blau, grün, gelb - das sind Farben! Jede Farbe hat eine eigene Familie von Dingen in dieser Farbe.",
+    t11_b1: "Farben: rot, blau, grün, gelb, weiß, schwarz...",
+    t11_inst: "Welche Farbe passt nicht zum Set?",
+    t11_h1: "Sind das alles Farben?",
+    t11_h2: "Rot, Blau und Grün sind Farben. Tisch ist keine Farbe.",
+    t11_w1: "rot", t11_w2: "blau", t11_w3: "Stuhl", t11_w4: "grün",
+    // Quiz: GENERATOR (farben_k2)
+
+    // T12: Tiere im Wortfeld
+    t12_title: "Wilde Tiere und Haustiere",
+    t12_text: "Manche Tiere leben wild in der Natur (Löwe, Tiger), und manche sind Haustiere (Hund, Katze). Sie bilden zusammen ein Wortfeld!",
+    t12_b1: "Haustiere: Hund, Katze, Vogel.",
+    t12_b2: "Wilde Tiere: Löwe, Tiger, Bär.",
+    t12_inst: "Verbinde Tier und Oberbegriff!",
+    t12_h1: "Welche Tiere leben bei Menschen?",
+    t12_h2: "Hunde sind Haustiere. Löwen sind wilde Tiere.",
+    t12_l1: "Hund", t12_r1: "Haustier",
+    t12_l2: "Löwe", t12_r2: "Wild",
+    t12_l3: "Schmetterling", t12_r3: "Insekt",
+    t12_l4: "Adler", t12_r4: "Vogel",
+    // Quiz: GENERATOR (tiere_k1)
+
+    // T13: Das Haus und Raum
+    t13_title: "Im Haus - Räume und Möbel",
+    t13_text: "Ein Haus hat viele Räume: Wohnzimmer, Schlafzimmer, Küche, Bad. In jedem Raum stehen Möbel wie Tisch, Stuhl, Bett.",
+    t13_b1: "Räume: Wohnzimmer, Küche, Schlafzimmer.",
+    t13_b2: "Möbel: Tisch, Stuhl, Bett, Schrank.",
+    t13_inst: "Welches Wort gehört nicht zum Wortfeld Haus?",
+    t13_h1: "Was ist im Haus? Was nicht?",
+    t13_h2: "Ein Tisch ist Möbel. Ein Auto ist nicht im Haus (meistens).",
+    t13_w1: "Tisch", t13_w2: "Stuhl", t13_w3: "Auto", t13_w4: "Bett",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T14: Menschen und Beziehungen
+    t14_title: "Familie und Menschen",
+    t14_text: "Mutter, Vater, Schwester, Bruder - das ist Familie! Auch Oma, Opa und Cousine gehören dazu. Sie sind alle Verwandte.",
+    t14_b1: "Familie: Mutter, Vater, Geschwister.",
+    t14_b2: "Verwandte: Großeltern, Cousine, Onkel, Tante.",
+    t14_inst: "Welches Wort gehört zur Familie?",
+    t14_h1: "Wer ist deine Familie?",
+    t14_h2: "Mutter, Vater, Bruder sind Familie. Der Lehrer ist nicht in deiner Familie.",
+    t14_w1: "Mutter", t14_w2: "Lehrer", t14_w3: "Opa", t14_w4: "Freund",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T15: Jahreszeiten und Wetter
+    t15_title: "Jahreszeiten und Wetter",
+    t15_text: "Frühling, Sommer, Herbst, Winter - das sind Jahreszeiten. Im Sommer ist es warm und sonnig. Im Winter ist es kalt und es schneit!",
+    t15_b1: "Jahreszeiten: Frühling, Sommer, Herbst, Winter.",
+    t15_b2: "Wetter: sonnig, regnerisch, windig, schneien.",
+    t15_inst: "Welches Wort gehört zum Wortfeld Jahreszeiten?",
+    t15_h1: "Wann ist es kalt? Wann warm?",
+    t15_h2: "Winter ist die kalte Jahreszeit. Sommer ist die warme Jahreszeit.",
+    t15_w1: "Winter", t15_w2: "Stuhl", t15_w3: "Sommer", t15_w4: "Auto",
+    // Quiz: GENERATOR (zeit_k2)
   }
 };
 
@@ -2688,6 +3187,143 @@ export const WORTFELD_POOL: PoolTopicDef[] = [
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
   },
+
+  // ── 8. Körperteile (highlight-text) ────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "icon-grid", items: [{ emoji: "👁️", label: "Auge" }, { emoji: "👂", label: "Ohr" }] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [0], // Kopf
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 9. Kleidung (drag-to-bucket) ────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "two-groups", left: { items: ["👕"], bg: "#E0F2FE", border: "#0284C7" }, right: { items: ["🪑"], bg: "#FEE2E2", border: "#DC2626" } },
+    bulletKeys: ["t9_b1"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "kl", label: "t9_bo" }, { id: "nkl", label: "t9_bg" }],
+      items: [
+        { text: "t9_i1", bucketId: "kl" }, // Hemd
+        { text: "t9_i2", bucketId: "nkl" }, // Stuhl
+        { text: "t9_i3", bucketId: "kl" }, // Schuh
+        { text: "t9_i4", bucketId: "nkl" }, // Baum
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 10. Speisen (highlight-text) ────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "🍞", emoji: "Brot", color: "#92400E", bg: "#FEF3C7" }, { text: "🧀", emoji: "Käse", color: "#D97706", bg: "#FFEDD5" } ] },
+    bulletKeys: ["t10_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [2], // Stuhl - the one that DOESN'T belong
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 11. Farben (match-pairs) ────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "rot", emoji: "🔴", color: "#DC2626", bg: "#FEE2E2" }, { text: "blau", emoji: "🔵", color: "#2563EB", bg: "#DBEAFE" }, { text: "grün", emoji: "🟢", color: "#16A34A", bg: "#DCFCE7" } ] },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [2], // Stuhl
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 12. Tiere (match-pairs) ────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🐕", label: "Haustier" }, { emoji: "🦁", label: "Wild" }] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t12_l1", right: "t12_r1" },
+        { left: "t12_l2", right: "t12_r2" },
+        { left: "t12_l3", right: "t12_r3" },
+        { left: "t12_l4", right: "t12_r4" },
+      ],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "tiere_k1" },
+  },
+
+  // ── 13. Haus und Räume (highlight-text) ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🛋️", label: "Möbel" }, { emoji: "🏠", label: "Haus" }] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [2], // Auto
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 14. Familie und Menschen (gap-fill) ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "👨‍👩‍👧‍👦", emoji: "Familie", color: "#EC4899", bg: "#FCE7F3" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [1], // Lehrer - doesn't belong
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Jahreszeiten (drag-to-bucket) ────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "☀️", emoji: "Sommer", color: "#EAB308", bg: "#FEFCE8" }, { text: "❄️", emoji: "Winter", color: "#0EA5E9", bg: "#E0F2FE" } ] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [1], // Stuhl
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "zeit_k2" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -2767,6 +3403,91 @@ export const EXAM2_LABELS: Record<string, Record<string, string>> = {
     t7_inst: "Bringe die Wörter in die richtige Reihenfolge!",
     t7_f1: "Ich", t7_f2: "bin", t7_f3: "ein", t7_f4: "Champion!",
     // Quiz: GENERATOR (zeit_k2 - napszakok review)
+
+    // T8: ie, ei, äu, eu - Der große Mix
+    t8_title: "Der große Zwielaut-Mix",
+    t8_text: "ie, ei, äu, eu - das sind schwierige Zwielaute. Hörst du: ie und ei klingen SEHR ähnlich! Ebenso äu und eu. Aber geschrieben sind sie unterschiedlich!",
+    t8_b1: "ie vs ei vs äu vs eu.",
+    t8_b2: "Aussprache kann täuschen!",
+    t8_inst: "Welches Wort hat 'ie'?",
+    t8_h1: "ie = langes I. ei = wie 'ai'.",
+    t8_h2: "Lied hat 'ie'. Wein hat 'ei'.",
+    t8_w1: "Lied", t8_w2: "Wein", t8_w3: "Haus", t8_w4: "Zeit",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T9: Wortstamm-Champion
+    t9_title: "Wortstamm-Meister",
+    t9_text: "Jedes Wort hat einen Kern - den Wortstamm! In 'arbeiten', 'Arbeiter', 'Arbeit' steckt überall 'arb' und 'eit'.",
+    t9_b1: "Wortstamm = Kern des Wortes.",
+    t9_inst: "Welches Wort hat den gleichen Wortstamm?",
+    t9_h1: "Welcher Teil ist bei allen Wörtern gleich?",
+    t9_h2: "fahren, Fahrer, Fahrt - alle haben 'fahr'.",
+    t9_w1: "Fahren", t9_w2: "Fahrer", t9_w3: "Fahr-zeug", t9_w4: "Haus",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T10: Nomen in der Praxis
+    t10_title: "Nomen überall",
+    t10_text: "Nomen sind überall - im Satz, im Text, in Geschichten. Wir brauchen sie, um über Dinge, Tiere und Menschen zu sprechen.",
+    t10_b1: "Nomen großgeschrieben.",
+    t10_b2: "Mit Artikel: der, die, das.",
+    t10_inst: "Wieviele Nomen sind im Satz?",
+    t10_h1: "Zähle die Großbuchstaben!",
+    t10_h2: "'Die Katze spielt mit dem Ball.' - 3 Nomen.",
+    t10_q: "Der Hund spielt Ball. Wieviele Nomen?",
+    t10_qa: "2", t10_qb: "3", t10_qc: "1", t10_qd: "4",
+
+    // T11: Adjektiv-Gegenteile Master
+    t11_title: "Adjektiv-Gegensätze",
+    t11_text: "Gegensätze (Gegensatzwörter) helfen uns, Dinge besser zu beschreiben. Groß und klein. Hell und dunkel. Schnell und langsam.",
+    t11_b1: "Gegensätze sind Antonyme.",
+    t11_inst: "Finde das Gegenteil!",
+    t11_h1: "Was ist das Gegenteil von 'alt'?",
+    t11_h2: "Alt - neu. Groß - klein.",
+    t11_w1: "groß", t11_w2: "klein", t11_w3: "Tisch", t11_w4: "alt",
+    // Quiz: GENERATOR (gegensaetze_k2)
+
+    // T12: Plural Überraschungen
+    t12_title: "Plural - Überraschungen",
+    t12_text: "Singular wird zu Plural - aber wie? Manche bekommen -e, manche -en, manche -er, und manche haben Umlaute!",
+    t12_b1: "Singular -> Plural.",
+    t12_b2: "Regeln: -e, -en, -er, -Umlaut.",
+    t12_inst: "Was ist der Plural von 'Baum'?",
+    t12_h1: "Mehrere Bäume.",
+    t12_h2: "Baum -> Bäume. Das 'a' wird zu 'ä'!",
+    t12_q: "Was ist die Mehrzahl von 'Hand'?",
+    t12_qa: "Hände", t12_qb: "Hands", t12_qc: "Hande", t12_qd: "Handte",
+
+    // T13: Satzzeichen-Profi
+    t13_title: "Satzzeichen nicht vergessen!",
+    t13_text: "Ein Satz braucht drei Dinge: GROSS am Anfang, Sinn in der Mitte und PUNKT am Ende!",
+    t13_b1: "Punkt (.) endet den Satz.",
+    t13_b2: "Frage? mit Fragezeichen.",
+    t13_inst: "Wem gehört welches Satzzeichen?",
+    t13_h1: "Ist es eine Frage? Dann: ?",
+    t13_h2: "'Was ist das?' <- Fragezeichen. 'Das ist schön.' <- Punkt.",
+    t13_w1: "Das ist schön", t13_w2: "Was ist das", t13_w3: "Wie geht es dir", t13_w4: "Das ist toll",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T14: Großschreibung von A bis Z
+    t14_title: "Großschreibung - Die Regel",
+    t14_text: "Satzanfang, Nomen und Eigennamen schreiben wir GROSS! Der Name Anna, das Nomen Elefant, der Anfang: 'Die Schule...'",
+    t14_b1: "Nomen = GROSS.",
+    t14_b2: "Satzanfang = GROSS. Eigennamen = GROSS.",
+    t14_inst: "Welches Wort muss groß sein?",
+    t14_h1: "Ist es ein Nomen? Dann GROSS!",
+    t14_h2: "Anna ist groß. Tag ist groß. Die ist groß (Satzanfang).",
+    t14_w1: "Schule", t14_w2: "laufen", t14_w3: "schnell", t14_w4: "spielen",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T15: Prüfungs-Champion-Final
+    t15_title: "Die Abschlussprüfung",
+    t15_text: "Du hast alles gelernt! Nomen, Verben, Adjektive, Rechtschreibung, Artikel, Plural und Wortstämme. Das ist die GROSSE PRÜFUNG!",
+    t15_b1: "Alle Themen von K1-K2.",
+    t15_inst: "Welches Wort ist FALSCH geschrieben?",
+    t15_h1: "Überlege: Ist das großgeschrieben? Passt die Endung?",
+    t15_h2: "'Katze' ist richtig. 'katze' ist falsch. 'Katzen' ist auch richtig (Plural).",
+    t15_w1: "Katze", t15_w2: "katze", t15_w3: "Auto", t15_w4: "auto",
+    // Quiz: GENERATOR (verben_k2)
   }
 };
 
@@ -2896,5 +3617,133 @@ export const EXAM2_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "zeit_k2" },
+  },
+
+  // ── 8. Zwielaut-Mix (highlight-text) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-pairs", pairs: [["ie", "ei"], ["äu", "eu"]], color: "#7C3AED" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [0],
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 9. Wortstamm (gap-fill) ────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "word-display", word: "Fahren", highlightChars: ["Fahr"], color: "#3B82F6" },
+    bulletKeys: ["t9_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t9_w1", "t9_w2", "t9_w3", "t9_w4"],
+      correctIndices: [3],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 10. Nomen in Sätzen (match-pairs) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "🐱", emoji: "Nomen", color: "#2563EB", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [],
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Gegensätze (match-pairs) ────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "letter-pairs", pairs: [["groß", "klein"], ["hell", "dunkel"]], color: "#F59E0B" },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [1],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "gegensaetze_k2" },
+  },
+
+  // ── 12. Plural-Master (gap-fill) ────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🌳", label: "Baum" }, { emoji: "🌲🌳🌴", label: "Bäume" }] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Satzzeichen (gap-fill) ──────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: ".", color: "#6366F1", bg: "#E0E7FF" }, { text: "?", color: "#EC4899", bg: "#FCE7F3" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [0],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 14. Großschreibung (highlight-text) ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "A", emoji: "Groß", color: "#7C3AED", bg: "#F3E8FF" }, { text: "a", emoji: "Klein", color: "#64748B", bg: "#F1F5F9" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [0],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Große Prüfung Final (sentence-build) ─────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "FINAL", bg: "#FEF3C7" },
+    bulletKeys: ["t15_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [1],
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "verben_k2" },
   },
 ];
