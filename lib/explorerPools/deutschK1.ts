@@ -1161,9 +1161,9 @@ export const WORD_LABELS: Record<string, Record<string, string>> = {
     t12_text: "Jeder Gegenstand hat einen Namen! Ein Stuhl ist zum Sitzen, ein Tisch zum Essen. Kannst du die Gegenstände richtig benennen?",
     t12_b1: "Gegenstände haben Namen",
     t12_b2: "Wir können Gegenstände beschreiben und benennen",
-    t12_inst: "Welcher Name passt?",
-    t12_h1: "Wofür brauchen wir den Gegenstand?",
-    t12_h2: "Ein Stuhl ist zum Sitzen — es ist ein Stuhl!",
+    t12_inst: "Tippe auf jeden Gegenstand!",
+    t12_h1: "Zähle die Gegenstände im Bild.",
+    t12_h2: "Tippe auf jedes Bild einzeln.",
     t12_q: "Worauf sitzt man?",
     t12_qa: "auf einem Stuhl", t12_qb: "auf einem Tisch", t12_qc: "auf der Straße", t12_qd: "auf dem Dach",
 
