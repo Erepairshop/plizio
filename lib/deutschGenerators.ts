@@ -440,13 +440,26 @@ const KONJ1: { v: string; er: string }[] = [
 // Passiv-Sätze für K7
 // aktiv=Ausgangssatz  passiv=richtiges Passiv  f1/f2=Falschformen
 const PASSIV_SAETZE: { aktiv: string; passiv: string; f1: string; f2: string }[] = [
-  { aktiv: "Man öffnet das Fenster.",   passiv: "Das Fenster wird geöffnet.",  f1: "Das Fenster wurde geöffnet.",  f2: "Das Fenster ist geöffnet."  },
-  { aktiv: "Man backt den Kuchen.",     passiv: "Der Kuchen wird gebacken.",   f1: "Der Kuchen wurde gebacken.",   f2: "Der Kuchen ist gebacken."   },
-  { aktiv: "Man renoviert das Haus.",   passiv: "Das Haus wird renoviert.",    f1: "Das Haus wurde renoviert.",    f2: "Das Haus ist renoviert."    },
-  { aktiv: "Man schreibt den Brief.",   passiv: "Der Brief wird geschrieben.", f1: "Der Brief wurde geschrieben.", f2: "Der Brief ist geschrieben." },
-  { aktiv: "Man liest das Buch.",       passiv: "Das Buch wird gelesen.",      f1: "Das Buch wurde gelesen.",      f2: "Das Buch ist gelesen."      },
-  { aktiv: "Man repariert das Auto.",   passiv: "Das Auto wird repariert.",    f1: "Das Auto wurde repariert.",    f2: "Das Auto ist repariert."    },
-  // TODO: add more ↓
+  { aktiv: "Man öffnet das Fenster.",    passiv: "Das Fenster wird geöffnet.",    f1: "Das Fenster wurde geöffnet.",    f2: "Das Fenster ist geöffnet."    },
+  { aktiv: "Man backt den Kuchen.",      passiv: "Der Kuchen wird gebacken.",     f1: "Der Kuchen wurde gebacken.",     f2: "Der Kuchen ist gebacken."     },
+  { aktiv: "Man renoviert das Haus.",    passiv: "Das Haus wird renoviert.",      f1: "Das Haus wurde renoviert.",      f2: "Das Haus ist renoviert."      },
+  { aktiv: "Man schreibt den Brief.",    passiv: "Der Brief wird geschrieben.",   f1: "Der Brief wurde geschrieben.",   f2: "Der Brief ist geschrieben."   },
+  { aktiv: "Man liest das Buch.",        passiv: "Das Buch wird gelesen.",        f1: "Das Buch wurde gelesen.",        f2: "Das Buch ist gelesen."        },
+  { aktiv: "Man repariert das Auto.",    passiv: "Das Auto wird repariert.",      f1: "Das Auto wurde repariert.",      f2: "Das Auto ist repariert."      },
+  { aktiv: "Man singt das Lied.",        passiv: "Das Lied wird gesungen.",       f1: "Das Lied wurde gesungen.",       f2: "Das Lied ist gesungen."       },
+  { aktiv: "Man malt das Bild.",         passiv: "Das Bild wird gemalt.",         f1: "Das Bild wurde gemalt.",         f2: "Das Bild ist gemalt."         },
+  { aktiv: "Man kocht die Suppe.",       passiv: "Die Suppe wird gekocht.",       f1: "Die Suppe wurde gekocht.",       f2: "Die Suppe ist gekocht."       },
+  { aktiv: "Man reinigt das Zimmer.",    passiv: "Das Zimmer wird gereinigt.",    f1: "Das Zimmer wurde gereinigt.",    f2: "Das Zimmer ist gereinigt."    },
+  { aktiv: "Man baut die Brücke.",       passiv: "Die Brücke wird gebaut.",       f1: "Die Brücke wurde gebaut.",       f2: "Die Brücke ist gebaut."       },
+  { aktiv: "Man druckt das Dokument.",   passiv: "Das Dokument wird gedruckt.",   f1: "Das Dokument wurde gedruckt.",   f2: "Das Dokument ist gedruckt."   },
+  { aktiv: "Man pflanzt den Baum.",      passiv: "Der Baum wird gepflanzt.",      f1: "Der Baum wurde gepflanzt.",      f2: "Der Baum ist gepflanzt."      },
+  { aktiv: "Man verkauft das Haus.",     passiv: "Das Haus wird verkauft.",       f1: "Das Haus wurde verkauft.",       f2: "Das Haus ist verkauft."       },
+  { aktiv: "Man untersucht den Patient.",passiv: "Der Patient wird untersucht.",  f1: "Der Patient wurde untersucht.",  f2: "Der Patient ist untersucht."  },
+  { aktiv: "Man erklärt die Aufgabe.",   passiv: "Die Aufgabe wird erklärt.",     f1: "Die Aufgabe wurde erklärt.",     f2: "Die Aufgabe ist erklärt."     },
+  { aktiv: "Man fotografiert das Tier.", passiv: "Das Tier wird fotografiert.",   f1: "Das Tier wurde fotografiert.",   f2: "Das Tier ist fotografiert."   },
+  { aktiv: "Man übersetzt den Text.",    passiv: "Der Text wird übersetzt.",      f1: "Der Text wurde übersetzt.",      f2: "Der Text ist übersetzt."      },
+  { aktiv: "Man organisiert das Fest.",  passiv: "Das Fest wird organisiert.",    f1: "Das Fest wurde organisiert.",    f2: "Das Fest ist organisiert."    },
+  { aktiv: "Man schneidet das Gras.",    passiv: "Das Gras wird geschnitten.",    f1: "Das Gras wurde geschnitten.",    f2: "Das Gras ist geschnitten."    },
 ];
 
 // Nebensatztypen für K8
