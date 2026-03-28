@@ -39,14 +39,7 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
-import PronounK6Explorer from "@/app/astroenglish/games/k6/PronounK6Explorer";
-import SentenceStructureK6Explorer from "@/app/astroenglish/games/k6/SentenceStructureK6Explorer";
-import ComplexClauseK6Explorer from "@/app/astroenglish/games/k6/ComplexClauseK6Explorer";
-import WordBuilderK6Explorer from "@/app/astroenglish/games/k6/WordBuilderK6Explorer";
-import VocabularyK6Explorer from "@/app/astroenglish/games/k6/VocabularyK6Explorer";
-import AcademicHarborK6Explorer from "@/app/astroenglish/games/k6/AcademicHarborK6Explorer";
-import PunctuationPeakK6Explorer from "@/app/astroenglish/games/k6/PunctuationPeakK6Explorer";
-import RhetoricK6Explorer from "@/app/astroenglish/games/k6/RhetoricK6Explorer";
+import K6Explorer from "@/app/astroenglish/games/k6/K6Explorer";
 import { K6_ISLAND_SVGS } from "@/app/astroenglish/islands-k6";
 import {
   K6_ISLANDS, K6_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -129,15 +122,7 @@ type Screen =
   | "tense-explorer"
   | "memory-pair"
   | "pronunciation"
-  | "en6-pronoun-k6-explorer"
-  | "en6-pronoun-precision-explorer"
-  | "en6-sentence-structure-explorer"
-  | "en6-complex-clause-explorer"
-  | "en6-word-builder-explorer"
-  | "en6-vocabulary-explorer"
-  | "en6-academic-k6-explorer"
-  | "en6-punctuation-k6-explorer"
-  | "en6-rhetoric-explorer"
+  | "english-k6-explore"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -756,7 +741,7 @@ export default function AstroEnglishK6Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en6-pronoun-k6-explorer", "en6-pronoun-precision-explorer", "en6-sentence-structure-explorer", "en6-complex-clause-explorer", "en6-word-builder-explorer", "en6-vocabulary-explorer", "en6-academic-k6-explorer", "en6-punctuation-k6-explorer", "en6-rhetoric-explorer"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k6-explore"].includes(mission.gameType);
 
     if (isExplorer) {
       setQuestions([]);
@@ -1116,38 +1101,14 @@ export default function AstroEnglishK6Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK6(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
-        {screen === "en6-pronoun-k6-explorer" && (
-          <PronounK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-pronoun-precision-explorer" && (
-          <PronounK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-sentence-structure-explorer" && (
-          <SentenceStructureK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-complex-clause-explorer" && (
-          <ComplexClauseK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-word-builder-explorer" && (
-          <WordBuilderK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-vocabulary-explorer" && (
-          <VocabularyK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-academic-k6-explorer" && (
-          <AcademicHarborK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-punctuation-k6-explorer" && (
-          <PunctuationPeakK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en6-rhetoric-explorer" && (
-          <RhetoricK6Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "english-k6-explore" && activeIsland && (
+          <K6Explorer island={activeIsland} grade={6} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en6-pronoun-k6-explorer", "en6-pronoun-precision-explorer", "en6-sentence-structure-explorer", "en6-complex-clause-explorer", "en6-word-builder-explorer", "en6-vocabulary-explorer", "en6-academic-k6-explorer", "en6-punctuation-k6-explorer", "en6-rhetoric-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k6-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
