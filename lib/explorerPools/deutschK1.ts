@@ -546,8 +546,7 @@ export const LETTER_POOL: PoolTopicDef[] = [
     bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
     interactive: {
       type: "tap-count",
-      items: ["t15_w1","t15_w2","t15_w3","t15_w4"],  // O A E U
-      targetCount: 1,
+      tapCount: { emoji: "🔤", count: 4 },
       instruction: "t15_inst",
       hint1: "t15_h1",
       hint2: "t15_h2",
@@ -976,8 +975,7 @@ export const SYLLABLE_POOL: PoolTopicDef[] = [
     bulletKeys: ["t13_b1", "t13_b2"],
     interactive: {
       type: "tap-count",
-      items: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
-      targetCount: 4,
+      tapCount: { emoji: "👏", count: 4 },
       instruction: "t13_inst",
       hint1: "t13_h1",
       hint2: "t13_h2",
@@ -1441,8 +1439,7 @@ export const WORD_POOL: PoolTopicDef[] = [
     bulletKeys: ["t12_b1", "t12_b2"],
     interactive: {
       type: "tap-count",
-      items: ["Stuhl", "Tisch", "Bett", "Schrank"],
-      targetCount: 3,
+      tapCount: { emoji: "🛋️", count: 3 },
       instruction: "t12_inst",
       hint1: "t12_h1",
       hint2: "t12_h2",

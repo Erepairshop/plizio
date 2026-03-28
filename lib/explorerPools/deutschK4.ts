@@ -3775,7 +3775,7 @@ export const EXAM4_POOL: PoolTopicDef[] = [
         { id: "a3", text: "t15_qc", isCorrect: false },
         { id: "a4", text: "t15_qd", isCorrect: false },
       ],
-      hint1: "t15_h1", hint2: "t15_h2",
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
     },
     quiz: { generate: "perfekt" },
   },
