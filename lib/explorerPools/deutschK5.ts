@@ -522,6 +522,59 @@ export const PRAEP_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Es regnet, aber wir spielen trotzdem.", t9_h2: "Wähle 'obwohl'.",
     t9_sent_o: "___ es regnet, gehen wir raus.",
     t9_co1: "Obwohl", t9_co2: "Weil", t9_co3: "Dass", t9_co4: "Damit",
+
+    // T10: Präpositionen mit Akkusativ
+    t10_title: "Akkusativ-Präpositionen",
+    t10_text: "Nach den Akkusativ-Präpositionen (durch, für, gegen, ohne, um) folgt immer der Akkusativ.",
+    t10_sent: "___ das Geld haben wir ein Geschenk gekauft.",
+    t10_inst: "Welche Präposition passt?",
+    t10_h1: "Frage: Für wen oder wofür?", t10_h2: "Für einen Freund.",
+    t10_c1: "Für", t10_c2: "Von", t10_c3: "Mit", t10_c4: "Zu",
+
+    // T11: Räumliche Wechselpräpositionen
+    t11_title: "Vor, nach, zwischen",
+    t11_text: "Die Präpositionen 'vor', 'nach', 'zwischen' brauchen Dativ (Wo?) oder Akkusativ (Wohin?).",
+    t11_sent: "Der Hund sitzt ___ dem Sofa.",
+    t11_inst: "Wähle den richtigen Fall!",
+    t11_h1: "Wo sitzt der Hund? (Dativ)",
+    t11_h2: "zwischen + Dativ",
+    t11_c1: "zwischen dem", t11_c2: "zwischen den", t11_c3: "unter dem", t11_c4: "auf dem",
+
+    // T12: Temporale Konjunktionen
+    t12_title: "Zeit-Sätze (Wenn, während)",
+    t12_text: "Konjunktionen wie 'wenn' und 'während' leiten Nebensätze ein und zeigen Zeit.",
+    t12_sent: "___ es Nacht wird, gehen wir schlafen.",
+    t12_inst: "Welche Zeit-Konjunktion passt?",
+    t12_h1: "Es wird Nacht, dann schlafen wir.",
+    t12_h2: "wenn/während",
+    t12_c1: "Wenn", t12_c2: "Während", t12_c3: "Weil", t12_c4: "Damit",
+
+    // T13: Präpositionen mit Genitiv
+    t13_title: "Genitiv-Präpositionen",
+    t13_text: "Einige Präpositionen (trotz, während, wegen) brauchen immer den Genitiv.",
+    t13_sent: "___ des Regens bleiben wir zu Hause.",
+    t13_inst: "Genitiv ist der 'von-Kasus'.",
+    t13_h1: "Frage: Wegen wen/wessen?",
+    t13_h2: "wegen des Regens",
+    t13_c1: "des Regens", t13_c2: "dem Regen", t13_c3: "den Regen", t13_c4: "der Regen",
+
+    // T14: Damit und Damit-Sätze
+    t14_title: "Der Zweck-Satz (Damit)",
+    t14_text: "Die Konjunktion 'damit' zeigt einen Zweck oder eine Absicht.",
+    t14_sent: "Ich lerne hart, ___ ich gute Noten bekomme.",
+    t14_inst: "Was ist die Absicht?",
+    t14_h1: "Wozu lerne ich? Um gute Noten zu bekommen.",
+    t14_h2: "damit ich...",
+    t14_c1: "damit", t14_c2: "weil", t14_c3: "obwohl", t14_c4: "wenn",
+
+    // T15: Kommas bei Nebensätzen
+    t15_title: "Komma-Regel: Nebensätze",
+    t15_text: "Vor einer Konjunktion (wenn, weil, während) steht immer ein Komma.",
+    t15_sent: "Der Hund bellt___ er einen Fremden sieht.",
+    t15_inst: "Wo muss das Komma stehen?",
+    t15_h1: "Nebensätze mit Komma trennen.",
+    t15_h2: "Der Hund bellt, weil er einen Fremden sieht.",
+    t15_c1: "nach 'bellt'", t15_c2: "nach 'Fremden'", t15_c3: "nach 'Hund'", t15_c4: "kein Komma nötig",
   }
 };
 
@@ -578,6 +631,42 @@ export const PRAEP_POOL: PoolTopicDef[] = [
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "text-bubbles", items: [{ text: "obwohl", bg: "#D1FAE5", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_o", choices: ["t9_co1", "t9_co2", "t9_co3", "t9_co4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "➡️", title: "Akkusativ", bg: "#D1FAE5" },
+    interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "akkusativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "two-groups", left: { items: ["vor dem"], bg: "#D1FAE5", border: "#D1FAE5" }, right: { items: ["vor den"], bg: "#DBEAFE", border: "#DBEAFE" } },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "dativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [{ text: "wenn / während", bg: "#D1FAE5", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "👑", title: "Genitiv", bg: "#D1FAE5" },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "genitiv" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [{ text: "damit", bg: "#D1FAE5", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t14_sent", choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "sentence-display", words: ["bellt,", "weil"], color: "#059669" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "satzzeichen_k1" }
   }
 ];
@@ -656,6 +745,59 @@ export const SATZGLIED5_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Fröhlich = Wie? Wegen des Regens = Warum?",
     t9_b1: "Wie? (Modal)", t9_b2: "Warum? (Kausal)",
     t9_i1: "fröhlich", t9_i2: "wegen der Kälte", t9_i3: "mit dem Rad", t9_i4: "aus Angst",
+
+    // T10: Prädikat in Nebensätzen
+    t10_title: "Pradikatsbestimmung & Attribut",
+    t10_text: "Das Prädikat wird durch Adverbien näher bestimmt; das Attribut beschreibt ein Nomen.",
+    t10_sent: "Der mutige Mann hilft ___.",
+    t10_inst: "Was beschreibt das Nomen 'Mann'?",
+    t10_h1: "Welches Wort beschreibt das Nomen näher?", t10_h2: "Das Attribut 'mutig'.",
+    t10_c1: "tapfer", t10_c2: "ganz", t10_c3: "schnell", t10_c4: "sonst",
+
+    // T11: Präpositionales Objekt
+    t11_title: "Auf wen? Vor wem?",
+    t11_text: "Ein präpositionales Objekt besteht aus einer Präposition und einem Nomen.",
+    t11_sent: "Der Lehrer wartet ___.",
+    t11_inst: "Präposition + Fall?",
+    t11_h1: "Vor wem wartet er?",
+    t11_h2: "auf die Schüler.",
+    t11_c1: "auf die Schüler", t11_c2: "mit den Schülern", t11_c3: "ohne die Schüler", t11_c4: "unter den Schülern",
+
+    // T12: Adverbiale Begleitumstände
+    t12_title: "Mit wem? Womit?",
+    t12_text: "Die adverbiale Bestimmung der Begleitumstände antwortet auf 'Mit wem?' oder 'Womit?'",
+    t12_sent: "Er kommt ___ zur Schule.",
+    t12_inst: "Wie oder womit kommt er?",
+    t12_h1: "Mit dem Fahrrad = Womit?",
+    t12_h2: "mit dem Fahrrad.",
+    t12_c1: "mit dem Fahrrad", t12_c2: "im Fahrrad", t12_c3: "unter dem Fahrrad", t12_c4: "dem Fahrrad",
+
+    // T13: Konjunktionale Adverbiale
+    t13_title: "Konditionale & Konzessive",
+    t13_text: "Bedingtheit (Bedingung) und Konzessivität (Einwand) sind spezielle Adverbiale.",
+    t13_sent: "___ es regnet, gehen wir spazieren.",
+    t13_inst: "Bedingung oder Einwand?",
+    t13_h1: "Wenn es die Bedingung ist, dann gehen wir.",
+    t13_h2: "Obwohl es regnet, gehen wir.",
+    t13_c1: "Obwohl", t13_c2: "Wenn", t13_c3: "Weil", t13_c4: "Damit",
+
+    // T14: Substantivischer Satzteil (Attribut)
+    t14_title: "Mehrwort-Attribute",
+    t14_text: "Ein Attribut kann aus mehreren Wörtern bestehen: 'das große, rote Haus'.",
+    t14_sent: "Das ___ Haus gehört dem Bürgermeister.",
+    t14_inst: "Welche Wörter sind Attribute?",
+    t14_h1: "Mehrere Adjektive können ein Nomen beschreiben.",
+    t14_h2: "das große, rote Haus.",
+    t14_c1: "große, rote", t14_c2: "Haus", t14_c3: "Bürgermeister", t14_c4: "das",
+
+    // T15: Satzglieder in Nebensätzen
+    t15_title: "Komplexe Satzstrukturen",
+    t15_text: "In Nebensätzen können die Satzglieder in anderer Reihenfolge stehen.",
+    t15_sent: "Das Mädchen weiß, ___ der Lehrer sagt.",
+    t15_inst: "Was fehlt im Nebensatz?",
+    t15_h1: "Der Lehrer sagt etwas.",
+    t15_h2: "... dass der Lehrer ...",
+    t15_c1: "dass", t15_c2: "weil", t15_c3: "wenn", t15_c4: "obwohl",
   }
 };
 
@@ -713,6 +855,42 @@ export const SATZGLIED5_POOL: PoolTopicDef[] = [
     svg: { type: "two-groups", left: { items: ["Wie?"], bg: "#FFFBEB", border: "#FFFBEB" }, right: { items: ["Warum?"], bg: "#FEF3C7", border: "#FEF3C7" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "m", label: "t9_b1" }, { id: "k", label: "t9_b2" }], items: [{ text: "t9_i1", bucketId: "m" }, { text: "t9_i2", bucketId: "k" }, { text: "t9_i3", bucketId: "m" }, { text: "t9_i4", bucketId: "k" }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "genitiv" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "sentence-display", words: ["mutige", "Mann"], color: "#F59E0B" },
+    interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Präposition", bg: "#FEF3C7" },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "dativ" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [{ text: "mit wem?", bg: "#FEF3C7", color: "#92400E" }] },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "dativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "bedingung", bg: "#FEF3C7", color: "#92400E" }] },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 1, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [{ text: "groß + rot", bg: "#FEF3C7", color: "#92400E" }] },
+    interactive: { type: "gap-fill", sentence: "t14_sent", choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌳", title: "Nebensatz", bg: "#FEF3C7" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "satzzeichen_k1" }
   }
 ];
 // ─────────────────────────────────────────────────────────────────────────────
@@ -790,6 +968,60 @@ export const ZEICHEN5_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Ha 'azt' vagy 'hogy' a jelentése, akkor 'dass'.", t9_h2: "Ich hoffe, dass...",
     t9_sent_gap: "Ich hoffe, ___ du heute kommst.",
     t9_cg1: "dass", t9_cg2: "das", t9_cg3: "daß", t9_cg4: "des",
+
+    // T10: Doppelpunkt bei Aufzählungen
+    t10_title: "Kettőspont a felsorolás előtt",
+    t10_text: "Ein Doppelpunkt steht vor einer Aufzählung: 'Wir brauchen: Apfel, Birne, Orange.'",
+    t10_sent: "Die Farben sind___ rot, gelb, blau.",
+    t10_inst: "Welches Zeichen passt?",
+    t10_h1: "Vor einer Aufzählung kommt ein Doppelpunkt.",
+    t10_h2: "Die Farben sind : rot, gelb, blau.",
+    t10_c1: ":", t10_c2: ",", t10_c3: ";", t10_c4: ".",
+
+    // T11: Ausrufezeichen bei Befehlen
+    t11_title: "Ausrufezeichen (!)",
+    t11_text: "Das Ausrufezeichen steht bei Befehlen, Rufen und starken Gefühlen.",
+    t11_sent: "Komm schnell___",
+    t11_inst: "Welches Satzzeichen passt hier?",
+    t11_h1: "Das ist ein Befehl oder Ruf.",
+    t11_h2: "Komm schnell!",
+    t11_c1: "!", t11_c2: ".", t11_c3: "?", t11_c4: ",",
+
+    // T12: Gedankenstrich (–)
+    t12_title: "Gedankenstrich (–)",
+    t12_text: "Der Gedankenstrich (-) wird für Pausen, Einschübe oder Überraschungen verwendet.",
+    t12_sent: "Ich dachte__ sie kommt nie___",
+    t12_inst: "Wo kommt der Gedankenstrich hin?",
+    t12_h1: "Eine Pause oder Überraschung.",
+    t12_h2: "Ich dachte – sie kommt – nie.",
+    t12_c1: "– ... –", t12_c2: ", ... ,", t12_c3: "; ... ;", t12_c4: ": ... :",
+
+    // T13: Fragezeichen (?) bei Fragen
+    t13_title: "Fragezeichen (?)",
+    t13_text: "Das Fragezeichen steht am Ende einer Frage.",
+    t13_sent: "Wie heißt du___",
+    t13_inst: "Was ist das richtige Endsatz zeichen?",
+    t13_h1: "Das ist eine Frage.",
+    t13_h2: "Wie heißt du?",
+    t13_c1: "?", t13_c2: "!", t13_c3: ".", t13_c4: ",",
+
+    // T14: Klammern und Komma
+    t14_title: "Klammern ()",
+    t14_text: "Runde Klammern setzen einen Zusatz oder eine Erklärung.",
+    t14_sent: "Der Lehrer (Herr Müller) kommt morgen.",
+    t14_inst: "Wo gehören die Klammern hin?",
+    t14_h1: "Ein Zusatz wird in Klammern geschrieben.",
+    t14_h2: "Der Lehrer (Herr Müller) kommt.",
+    t14_c1: "( )", t14_c2: "[ ]", t14_c3: "{ }", t14_c4: "< >",
+
+    // T15: Satzzeichen-Schildkröte
+    t15_title: "Satzbau mit allen Zeichen",
+    t15_text: "Ein komplexer Satz mit Kommas, Klammern, Fragezeichen und Doppelpunkt.",
+    t15_sent: "Sie fragte___ \"Kommst du morgen___\" Er sagte___ \"Ja, aber spät.\"",
+    t15_inst: "Setze alle Satzzeichen richtig ein!",
+    t15_h1: "Frage, Aussage, direkter Dialog.",
+    t15_h2: "Sie fragte: \"Kommst du morgen?\" Er sagte: \"Ja, aber spät.\"",
+    t15_c1: "?, :, \"...\"", t15_c2: "!, :, \"...\"", t15_c3: "., :, \"...\"", t15_c4: "?, !, \"...\"",
   }
 };
 
@@ -846,6 +1078,42 @@ export const ZEICHEN5_POOL: PoolTopicDef[] = [
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "word-display", word: "dass", color: "#4338CA" },
     interactive: { type: "gap-fill", sentence: "t9_sent_gap", choices: ["t9_cg1", "t9_cg2", "t9_cg3", "t9_cg4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [{ text: ":", bg: "#EEF2FF", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "simple-icon", icon: "❗", title: "Ausruf", bg: "#EEF2FF" },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "➖", title: "Gedankenstrich", bg: "#E0E7FF" },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Frage", bg: "#EEF2FF" },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "( )", title: "Klammern", bg: "#E0E7FF" },
+    interactive: { type: "highlight-text", tokens: ["Der", "Lehrer", "(Herr Müller)", "kommt", "morgen"], correctIndices: [2], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "satzzeichen_k1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "sentence-display", words: ["Sie fragte:", "\"...?\"", "Er sagte:"], color: "#4338CA" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "satzzeichen_k1" }
   }
 ];
@@ -926,6 +1194,54 @@ export const PARTIZIP_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Építsd fel az idővonalat!",
     t9_h1: "Präsens (ma) -> Perfekt (múlt) -> Plusquamperfekt (régebbi múlt).", t9_h2: "Jelen -> Múlt -> Múlt előtti múlt.",
     t9_sw1: "Präsens (heute)", t9_sw2: "Perfekt (gestern)", t9_sw3: "Plusquamperfekt (davor)",
+
+    // T10: Starke Partizipien
+    t10_title: "Starke Verben (Partizip II)",
+    t10_text: "Starke Verben ändern ihren Stamm im Partizip II: sing-sang-gesungen.",
+    t10_sent: "Das Kind hat ein Lied ___.",
+    t10_inst: "Wähle das richtige starke Partizip!",
+    t10_h1: "sing -> gesungen.", t10_h2: "Das Kind hat ... gesungen.",
+    t10_c1: "gesungen", t10_c2: "singt", t10_c3: "sang", t10_c4: "singend",
+
+    // T11: Schwache Partizipien
+    t11_title: "Schwache Verben (Partizip II)",
+    t11_text: "Schwache Verben bilden das Partizip II mit -t: mach-mach-gemacht.",
+    t11_sent: "Wir haben die Hausaufgaben ___.",
+    t11_inst: "Wähle das richtige schwache Partizip!",
+    t11_h1: "machen -> gemacht.", t11_h2: "Wir haben ... gemacht.",
+    t11_c1: "gemacht", t11_c2: "machen", t11_c3: "machte", t11_c4: "machend",
+
+    // T12: Unregelmäßige Partizipien
+    t12_title: "Unregelmäßige Partizipien",
+    t12_text: "Einige Verben haben unregelmäßige Partizip-II-Formen: gehen-ging-gegangen.",
+    t12_sent: "Er ist zum Markt ___.",
+    t12_inst: "Welches unregelmäßige Partizip passt?",
+    t12_h1: "gehen -> gegangen.", t12_h2: "Er ist ... gegangen.",
+    t12_c1: "gegangen", t12_c2: "gehen", t12_c3: "ging", t12_c4: "gehend",
+
+    // T13: Partizip I als Adjektiv
+    t13_title: "Partizip I als Adjektiv",
+    t13_text: "Das Partizip I (Präsenspartizip) kann wie ein Adjektiv verwendet werden: der spielende Junge.",
+    t13_sent: "Das ___ Mädchen tanzt schön.",
+    t13_inst: "Welches ist das richtige Partizip I?",
+    t13_h1: "tanzen -> tanzend.", t13_h2: "Das tanzende Mädchen.",
+    t13_c1: "tanzende", t13_c2: "getanzte", t13_c3: "tanzte", t13_c4: "tanzt",
+
+    // T14: Partizip II als Adjektiv
+    t14_title: "Partizip II als Adjektiv",
+    t14_text: "Das Partizip II (Perfektpartizip) kann auch wie ein Adjektiv verwendet werden: das bemalte Haus.",
+    t14_sent: "Das ___ Auto ist schnell.",
+    t14_inst: "Welches ist das richtige Partizip II?",
+    t14_h1: "malen -> gemalt.", t14_h2: "Das gemalte Auto.",
+    t14_c1: "gemalte", t14_c2: "malend", t14_c3: "malte", t14_c4: "malt",
+
+    // T15: Partizip in Sätzen
+    t15_title: "Partizipien im Kontext",
+    t15_text: "Partizipien können eigenständige Partizipialgruppen bilden: Nachdem er gelernt hatte, spielte er.",
+    t15_sent: "___ ___e Schüler singen das Lied.",
+    t15_inst: "Welche Partizipien fehlen?",
+    t15_h1: "konzentriert = Partizip I / geübt = Partizip II.", t15_h2: "Die konzentriert übenden Schüler.",
+    t15_c1: "konzentriert, übende", t15_c2: "konzentriert, geübte", t15_c3: "konzentrierend, übend", t15_c4: "konzentrierte, üben",
   }
 };
 
@@ -982,6 +1298,42 @@ export const PARTIZIP_POOL: PoolTopicDef[] = [
     difficulty: "easy", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "simple-icon", icon: "🧱", title: "Timeline", bg: "#FCE7F3" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [{ text: "sing-sang-gesungen", bg: "#FDF2F8", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "mach-mach-gemacht", bg: "#FCE7F3", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Unregelmäßig", bg: "#FDF2F8" },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "word-display", word: "spielend", color: "#DB2777" },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "verben_k3" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "word-display", word: "gemalt", color: "#BE185D" },
+    interactive: { type: "gap-fill", sentence: "t14_sent", choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "sentence-display", words: ["konzentriert", "übende"], color: "#9D174D" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 1, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "perfekt" }
   }
 ];
@@ -1065,6 +1417,55 @@ export const PASSIV_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Használd a 'wurde' alakot.", t9_h2: "Das Haus wurde gebaut.",
     t9_sent_p: "Das Haus ___ im letzten Jahr gebaut.",
     t9_cp1: "wurde", t9_cp2: "wird", t9_cp3: "ist", t9_cp4: "war",
+
+    // T10: Passiv mit verschiedenen Zeitformen
+    t10_title: "Passiv in Präsens, Perfekt und Präteritum",
+    t10_text: "Das Passiv kann in verschiedenen Zeitformen verwendet werden: wird, ist, wurde.",
+    t10_sent: "Der Brief ___ gestern geschrieben.",
+    t10_inst: "Welche Passiv-Form passt zum Präteritum?",
+    t10_h1: "Präteritum = wurde.", t10_h2: "Der Brief wurde geschrieben.",
+    t10_c1: "wurde", t10_c2: "wird", t10_c3: "ist", t10_c4: "war",
+
+    // T11: Passiv mit Agent (von-Phrase)
+    t11_title: "Passiv mit von oder durch",
+    t11_text: "Im Passiv können wir den Verursacher mit 'von' oder 'durch' nennen: Das Haus wurde von Handwerkern gebaut.",
+    t11_sent: "Das Lied wird ___ der Sängerin gesungen.",
+    t11_inst: "Welche Präposition zeigt den Verursacher?",
+    t11_h1: "'von' oder 'durch' zeigen, wer es tut.", t11_h2: "Das Lied wird von der Sängerin gesungen.",
+    t11_c1: "von", t11_c2: "mit", t11_c3: "durch", t11_c4: "auf",
+
+    // T12: Passiv Perfekt
+    t12_title: "Passiv Perfekt",
+    t12_text: "Passiv Perfekt: sein + Partizip II + worden. 'Das Haus ist gebaut worden.'",
+    t12_sent: "Das Fenster ___ geputzt ___.",
+    t12_inst: "Welche beiden Formen braucht Passiv Perfekt?",
+    t12_h1: "sein + Partizip II + worden.", t12_h2: "Das Fenster ist geputzt worden.",
+    t12_c1: "ist ... worden", t12_c2: "wird ... gebaut", t12_c3: "hat ... geputzt", t12_c4: "war ... worden",
+
+    // T13: Umwandlung Passiv zu Aktiv
+    t13_title: "Passiv -> Aktiv umwandeln",
+    t13_text: "Wandle Passiv-Sätze wieder zu Aktiv um: Das Haus wird gebaut. -> Jemand baut das Haus.",
+    t13_sent: "Das Essen wird von Mama gekocht. -> Mama ___ das Essen.",
+    t13_inst: "Welches Verb passt zum Aktiv?",
+    t13_h1: "wurde/wird passt zu gekocht -> kocht/kochte.", t13_h2: "Mama kocht das Essen.",
+    t13_c1: "kocht", t13_c2: "kochte", t13_c3: "wurde gekocht", t13_c4: "ist gekocht",
+
+    // T14: Slingshot: Alle Passiv-Formen
+    t14_title: "Passiv erkennen",
+    t14_text: "Erkenne alle Sätze, die im Passiv sind!",
+    t14_sent: "Triff alle Passiv-Sätze!",
+    t14_inst: "Lőj alle Passivsätze!",
+    t14_h1: "wird/wurde/ist + Partizip II.", t14_h2: "Das Buch wird gelesen.",
+    t14_q: "Welche Sätze sind Passiv?",
+    t14_t1: "Das Buch wird gelesen.", t14_t2: "Der Film ist gesehen worden.", t14_t3: "Ich lese das Buch.", t14_t4: "Sie spielen Fußball.",
+
+    // T15: Passiv-Satz konstruieren
+    t15_title: "Passiv-Konstruktion",
+    t15_text: "Baue korrekte Passiv-Sätze mit allen notwendigen Teilen zusammen!",
+    t15_sent: "___ ___ ___ Buch liest.",
+    t15_inst: "Baue einen Passiv-Satz!",
+    t15_h1: "Wer? (Nominativ) + wird + Partizip II.", t15_h2: "Das Buch wird gelesen.",
+    t15_c1: "Das / wird / das", t15_c2: "Das / ist / gelesen", t15_c3: "Es / wird / lesen", t15_c4: "Das / wird / gelesen",
   }
 };
 
@@ -1122,6 +1523,42 @@ export const PASSIV_POOL: PoolTopicDef[] = [
     svg: { type: "text-bubbles", items: [{ text: "wurde", bg: "#CCFBF1", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_p", choices: ["t9_cp1", "t9_cp2", "t9_cp3", "t9_cp4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "praeteritum" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "⏰", title: "Zeitformen", bg: "#CCFBF1" },
+    interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "praeteritum" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "von / durch", bg: "#F0FDFA", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "dativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "sentence-display", words: ["ist", "...", "worden"], color: "#14B8A6" },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "perfekt" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "🔄", title: "Umwandlung", bg: "#CCFBF1" },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "verben_k3" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "🎯", title: "Passiv erkennen", bg: "#F0FDFA" },
+    interactive: { type: "physics-slingshot", question: "t14_q", targets: [{ id: "1", text: "t14_t1", isCorrect: true }, { id: "2", text: "t14_t2", isCorrect: true }, { id: "3", text: "t14_t3", isCorrect: false }, { id: "4", text: "t14_t4", isCorrect: false }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "verben_k3" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "sentence-display", words: ["wird", "gelesen"], color: "#0D9488" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 3, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "werden_passiv" }
   }
 ];
 
@@ -1199,6 +1636,53 @@ export const WORTSCHATZ5_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Építs tornyot a szavakból!",
     t9_h1: "Tag -> Tabelle -> Teleskop.",
     t9_sw1: "Tag", t9_sw2: "Tabelle", t9_sw3: "Teleskop",
+
+    // T10: Fremdwörter-Magnet
+    t10_title: "Idegen szavak",
+    t10_text: "Párositsd az idegen szavakat a német fordítások/jelentéseikkel!",
+    t10_inst: "Húzd össze a párokat!",
+    t10_h1: "Komputer = Computer, Telefon = Telefon.", t10_h2: "Restaurant = Restaurant.",
+    t10_m1: "Computer", t10_n1: "der Rechner", t10_m2: "Restaurant", t10_n2: "das Gasthaus", t10_m3: "Telefon", t10_n3: "das Ferngespräch",
+
+    // T11: Komposita (zusammengesetzte Wörter)
+    t11_title: "Zusammengesetzte Wörter",
+    t11_text: "Verbinde zwei Wörter, um ein Kompositum zu bilden!",
+    t11_sent: "Das ___ ist ein Ort zum Schlafen.",
+    t11_inst: "Welches ist das richtige Kompositum?",
+    t11_h1: "Schlaf + Zimmer = Schlafzimmer.", t11_h2: "Haus + Tür = Haustür.",
+    t11_c1: "Schlafzimmer", t11_c2: "Schlaf-Zimmer", t11_c3: "Schlaf", t11_c4: "Zimmer",
+
+    // T12: Diminutive (-chen, -lein)
+    t12_title: "Verkleinerungsform",
+    t12_text: "Mit -chen oder -lein können wir Wörter verkleinern: Tisch -> Tischchen.",
+    t12_sent: "Das ___ ist sehr süß.",
+    t12_inst: "Welche Verkleinerungsform passt?",
+    t12_h1: "-chen oder -lein anhängen.", t12_h2: "Hund -> Hündchen.",
+    t12_c1: "Kätzchen", t12_c2: "Katze", t12_c3: "Kätze", t12_c4: "Katzchen",
+
+    // T13: Augmentative (-mann, -frau)
+    t13_title: "Suffixe für Berufe",
+    t13_text: "Mit -mann oder -frau bilden wir Berufsbezeichnungen: Lehrer + mann -> Lehrer.",
+    t13_sent: "Eine ___ unterrichtet in der Schule.",
+    t13_inst: "Welches Berufssuffix brauchen wir?",
+    t13_h1: "Frau = -in; Mann = -∅.", t13_h2: "Lehrerin / Lehrer.",
+    t13_c1: "Lehrerin", t13_c2: "Lehrer-in", t13_c3: "Lehr-frau", t13_c4: "Lehrenin",
+
+    // T14: Wortschatzbereiche (Themenfelder)
+    t14_title: "Wortfelder",
+    t14_text: "Sortiere Wörter nach ihrem Themenbereich: Natur, Schule, Essen.",
+    t14_sent: "Kategorisiere diese Wörter nach Themen!",
+    t14_inst: "Welches Wort passt nicht in die Kategorie?",
+    t14_h1: "Apfel, Birne, Tomate = Lebensmittel.", t14_h2: "Aber nicht Bleistift!",
+    t14_c1: "Blatt, Wald, Baum", t14_c2: "Tisch, Stuhl, Bleistift", t14_c3: "Schwimmen, Laufen, Apfel", t14_c4: "Mathematik, Deutsch, Musik",
+
+    // T15: Slang vs. Standarddeutsch
+    t15_title: "Umgangssprache vs. Standarddeutsch",
+    t15_text: "Der Unterschied zwischen Alltagssprache (Slang) und formaler Sprache.",
+    t15_sent: "Welches ist die formale Variante?",
+    t15_inst: "Wähle die Standard-Variante!",
+    t15_h1: "'Cool' ist Slang, 'schön' ist Standard.", t15_h2: "'Keine Ahnung' vs. 'Ich weiß nicht.'",
+    t15_c1: "Ich weiß nicht.", t15_c2: "Keine Ahnung.", t15_c3: "Kein Plan.", t15_c4: "Weiß ich nicht.",
   }
 };
 
@@ -1256,6 +1740,42 @@ export const WORTSCHATZ5_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧱", title: "Stacker", bg: "#EDE9FE" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🌍", title: "Fremdwort", bg: "#F5F3FF" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t10_m1", right: "t10_n1" }, { left: "t10_m2", right: "t10_n2" }, { left: "t10_m3", right: "t10_n3" }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "synonyme_k7" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "Schlaf+Zimmer", bg: "#F5F3FF", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "👶", title: "Diminutive", bg: "#EDE9FE" },
+    interactive: { type: "gap-fill", sentence: "t12_sent", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "word-display", word: "-in / -er", color: "#A855F7" },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "📚", title: "Wortfeld", bg: "#F5F3FF" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "n", label: "Natur" }, { id: "s", label: "Schule" }, { id: "e", label: "Essen" }], items: [{ text: "t14_c1", bucketId: "n" }, { text: "t14_c2", bucketId: "s" }, { text: "t14_c3", bucketId: "e" }, { text: "t14_c4", bucketId: "s" }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [{ text: "Formal vs. Slang", bg: "#EDE9FE", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "nominativ" }
   }
 ];
 // ─────────────────────────────────────────────────────────────────────────────
