@@ -13,6 +13,7 @@
 
 import type { DeutschQuestion } from "./deutschCurriculum";
 import { getDeutschQuestions } from "./deutschCurriculum";
+import { getEnglishQuestions } from "./englishCurriculum";
 
 // ─── HILFSFUNKTIONEN ──────────────────────────────────────────────────────────
 
@@ -995,6 +996,27 @@ function pickFromStatic(grade: number, subtopicIds: string[]): DeutschQuestion {
   return mcqs[Math.floor(Math.random() * mcqs.length)];
 }
 
+/** Bridge: pull a random MCQ from the English static curriculum */
+function pickFromEnglish(grade: number, subtopicIds: string[]): DeutschQuestion {
+  const pool = getEnglishQuestions(grade, subtopicIds, 60);
+  const mcqs = pool.filter(
+    q => q.type === "mcq" && Array.isArray((q as { options?: unknown }).options) &&
+      ((q as { options: unknown[] }).options).length >= 2
+  );
+  if (mcqs.length === 0) return genArtikel("wortarten", "artikel");
+  const q = mcqs[Math.floor(Math.random() * mcqs.length)] as {
+    type: string; question: string; options: (string | number)[]; correct: number;
+  };
+  return {
+    type: "mcq",
+    topic: subtopicIds[0] ?? "english_k1",
+    subtopic: subtopicIds[0] ?? "english_k1",
+    question: q.question,
+    options: q.options,
+    correct: q.correct,
+  } as unknown as DeutschQuestion;
+}
+
 // ─── K5 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
 function genVorgangspassivK5(): DeutschQuestion  { return pickFromStatic(5, ["vorgangspassiv_k5"]); }
 function genPassivPraeteritumK5(): DeutschQuestion { return pickFromStatic(5, ["passiv_praeteritum_k5"]); }
@@ -1136,6 +1158,34 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   nominalstil_k8:        genNominalstilK8,
   eroerterung_k8:        genEroerterungK8,
   register_k8:           genRegisterK8,
+
+  // ─── K1 ENGLISH BRIDGE ───────────────────────────────────────────────────
+  short_long_vowels_k1:  () => pickFromEnglish(1, ["short_long_vowels_g1"]),
+  digraphs_k1:           () => pickFromEnglish(1, ["digraphs_g1"]),
+  uppercase_k1:          () => pickFromEnglish(1, ["uppercase_lowercase_g1"]),
+  syllables_k1:          () => pickFromEnglish(1, ["syllables_g1"]),
+  blends_k1:             () => pickFromEnglish(1, ["blends_g1"]),
+  rhyming_k1:            () => pickFromEnglish(1, ["rhyming_g1"]),
+  sight_words_k1:        () => pickFromEnglish(1, ["sight_words_g1"]),
+  nouns_k1:              () => pickFromEnglish(1, ["nouns_g1"]),
+  verbs_k1:              () => pickFromEnglish(1, ["verbs_g1"]),
+  articles_k1:           () => pickFromEnglish(1, ["articles_g1"]),
+  compound_words_k1:     () => pickFromEnglish(1, ["compound_words_g1"]),
+  adjectives_k1:         () => pickFromEnglish(1, ["adjectives_g1"]),
+  end_punctuation_k1:    () => pickFromEnglish(1, ["end_punctuation_g1"]),
+  capitalization_k1:     () => pickFromEnglish(1, ["capitalization_g1"]),
+  sentence_vs_not_k1:    () => pickFromEnglish(1, ["sentence_vs_not_g1"]),
+  declarative_k1:        () => pickFromEnglish(1, ["declarative_interrogative_g1"]),
+  imperative_k1:         () => pickFromEnglish(1, ["imperative_exclamatory_g1"]),
+  story_k1:              () => pickFromEnglish(1, ["story_comprehension_g1"]),
+  colors_k1:             () => pickFromEnglish(1, ["colors_g1"]),
+  numbers_words_k1:      () => pickFromEnglish(1, ["numbers_words_g1"]),
+  days_months_k1:        () => pickFromEnglish(1, ["days_months_g1"]),
+  animals_k1:            () => pickFromEnglish(1, ["animals_g1"]),
+  body_parts_k1:         () => pickFromEnglish(1, ["body_parts_g1"]),
+  family_k1:             () => pickFromEnglish(1, ["family_g1"]),
+  food_k1:               () => pickFromEnglish(1, ["food_g1"]),
+  classroom_k1:          () => pickFromEnglish(1, ["classroom_g1"]),
 };
 
 /**

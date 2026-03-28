@@ -25,15 +25,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import PhonicsIslandExplorer from "@/app/astroenglish/games/PhonicsIslandExplorer";
-import LetterLandExplorer from "@/app/astroenglish/games/LetterLandExplorer";
-import BlendBayExplorer from "@/app/astroenglish/games/BlendBayExplorer";
-import WordWorldExplorer from "@/app/astroenglish/games/WordWorldExplorer";
-import ActionCoveExplorer from "@/app/astroenglish/games/ActionCoveExplorer";
-import CompoundCapeExplorer from "@/app/astroenglish/games/CompoundCapeExplorer";
-import SentenceShoreExplorer from "@/app/astroenglish/games/SentenceShoreExplorer";
-import GrammarGulfExplorer from "@/app/astroenglish/games/GrammarGulfExplorer";
-import StorySummitExplorer from "@/app/astroenglish/games/StorySummitExplorer";
+import K1Explorer from "@/app/astroenglish/games/k1/K1Explorer";
 
 import {
   K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -67,15 +59,7 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
-  | "phonics-island"
-  | "letter-land"
-  | "blend-bay"
-  | "word-world"
-  | "action-cove"
-  | "compound-cape"
-  | "sentence-shore"
-  | "grammar-gulf"
-  | "story-summit"
+  | "english-k1-explore"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -457,7 +441,7 @@ export default function AstroEnglishK1Page() {
     // For explorer games, we don't use questions array - content is generated per game
     if (["phonics-island", "letter-land", "blend-bay", "word-world", "action-cove", "compound-cape", "sentence-shore", "grammar-gulf", "story-summit"].includes(mission.gameType)) {
       setQuestions([]);
-      setScreen(mission.gameType as Screen);
+      setScreen("english-k1-explore");
     } else {
       const qCount = mission.gameType === "star-match" ? 20 : 10;
       const qs = generateEnglishIslandQuestions(activeIsland, 1, qCount);
@@ -751,38 +735,14 @@ export default function AstroEnglishK1Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "phonics-island" && (
-          <PhonicsIslandExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "letter-land" && (
-          <LetterLandExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "blend-bay" && (
-          <BlendBayExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "word-world" && (
-          <WordWorldExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "action-cove" && (
-          <ActionCoveExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "compound-cape" && (
-          <CompoundCapeExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "sentence-shore" && (
-          <SentenceShoreExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "grammar-gulf" && (
-          <GrammarGulfExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
-        )}
-        {screen === "story-summit" && (
-          <StorySummitExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
+        {screen === "english-k1-explore" && activeIsland && (
+          <K1Explorer island={activeIsland} grade={1} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation", "phonics-island", "letter-land", "blend-bay", "word-world", "action-cove", "compound-cape", "sentence-shore", "grammar-gulf", "story-summit"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation", "english-k1-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
