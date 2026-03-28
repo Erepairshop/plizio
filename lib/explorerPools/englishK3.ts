@@ -1282,11 +1282,10 @@ export const BIGTEST3_LABELS: Record<string, Record<string, string>> = {
     t8_qd: "so",
 
     t9_title: "Subject and Predicate",
-    t9_text: "Every sentence has a subject (who or what it's about) and a predicate (what the subject does or is).";
+    t9_text: "Every sentence has a subject (who or what it's about) and a predicate (what the subject does or is).",
     t9_inst: "Identify the subject of the sentence.",
     t9_h1: "The subject is usually a noun or pronoun.",
-    t9_h2: "The boy ran. ('The boy' is the subject).";
-    t9_q: "What is the subject: 'The tall tree swayed in the wind.'",
+    t9_h2: "The boy ran. ('The boy' is the subject).",    t9_q: "What is the subject: 'The tall tree swayed in the wind.'",
     t9_qa: "The tall tree",
     t9_qb: "swayed in the wind",
     t9_qc: "tree",
