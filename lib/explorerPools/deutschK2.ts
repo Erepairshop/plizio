@@ -96,6 +96,103 @@ export const NOMEN_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Der Hund bellt.",
     t7_s1: "Der", t7_s2: "Hund", t7_s3: "bellt.",
     // Quiz: GENERATOR (nomen_k2) - teszteljük, felismeri-e a főnevet a kirakott mondatban
+
+    // T8: Nomen im Nominativ
+    t8_title: "Nomen im Nominativ",
+    t8_text: "Der Nominativ antwortet auf 'Wer oder was?' Das ist die erste und wichtigste Fall. Das Nomen steht direkt nach dem Artikel und ist das Subjekt des Satzes.",
+    t8_b1: "Nominativ = Wer oder was?",
+    t8_b2: "Das Nomen ist das Subjekt.",
+    t8_b3: "Beispiel: Der Hund schläft.",
+    t8_inst: "Finde den Nominativ!",
+    t8_h1: "Das Nomen nach dem Artikel.",
+    t8_h2: "Der Hund, die Katze, das Haus.",
+    t8_i1: "Hund", t8_i2: "schläft", t8_i3: "Katze", t8_i4: "Tag",
+
+    // T9: Nomen im Akkusativ
+    t9_title: "Nomen im Akkusativ",
+    t9_text: "Der Akkusativ antwortet auf 'Wen oder was?' Das ist das Objekt der Aktion. Der Hund frisst das Futter. 'Das Futter' ist Akkusativ.",
+    t9_b1: "Akkusativ = Wen oder was?",
+    t9_b2: "Das ist das direkte Objekt.",
+    t9_b3: "Nach Aktion kommt das Akkusativ-Objekt.",
+    t9_inst: "Was wird gemacht?",
+    t9_h1: "Finde das Objekt der Aktion!",
+    t9_h2: "Der Junge sieht die Blume.",
+    t9_c1: "einen", t9_c2: "einen", t9_c3: "ein", t9_c4: "eine",
+    t9_sent: "___ Apfel esse ich gern.",
+
+    // T10: Nomen mit Umlaut in Mehrzahl
+    t10_title: "Nomen mit Umlaut in Mehrzahl",
+    t10_text: "Manche Nomen bekommen einen Umlaut (ä, ö, ü) in der Mehrzahl. Der Apfel → die Äpfel. Das Haus → die Häuser. Das ist eine wichtige Regel!",
+    t10_b1: "Umlaut in Mehrzahl: ä, ö, ü",
+    t10_b2: "Der Apfel → die Äpfel",
+    t10_b3: "Das Haus → die Häuser",
+    t10_inst: "Verbinde Singular und Plural!",
+    t10_h1: "Welcher Plural hat einen Umlaut?",
+    t10_h2: "Apfel wird zu Äpfel.",
+    t10_l1: "Apfel", t10_r1: "Äpfel",
+    t10_l2: "Haus", t10_r2: "Häuser",
+    t10_l3: "Baum", t10_r3: "Bäume",
+    t10_l4: "Mutter", t10_r4: "Mütter",
+
+    // T11: Nomen kategorisieren
+    t11_title: "Nomen kategorisieren",
+    t11_text: "Nomen können in Kategorien eingeteilt werden: Menschen (Vater, Lehrer), Tiere (Hund, Vogel), Orte (Schule, Park) und Dinge (Tisch, Auto). Das hilft beim Lernen!",
+    t11_b1: "Menschen: Vater, Lehrer, Kind, Freund",
+    t11_b2: "Tiere: Hund, Katze, Vogel, Fisch",
+    t11_b3: "Dinge: Auto, Tisch, Tasse, Ball",
+    t11_inst: "Sortiere nach Kategorien!",
+    t11_h1: "Ist es Mensch, Tier oder Ding?",
+    t11_h2: "Der Lehrer ist ein Mensch.",
+    t11_bm: "Menschen 👤", t11_bt: "Tiere 🐾", t11_bd: "Dinge 📦",
+    t11_i1: "Lehrer", t11_i2: "Hund", t11_i3: "Stuhl", t11_i4: "Adler",
+
+    // T12: Artikel & Nomen perfekt
+    t12_title: "Artikel & Nomen perfekt",
+    t12_text: "Der Artikel und das Nomen sind ein Paar. Sie gehören zusammen. Der Artikel gibt die Information: der (männlich), die (weiblich) oder das (sächlich). Diese Paare muss man immer zusammen lernen!",
+    t12_b1: "Artikel + Nomen = Ein Paar!",
+    t12_b2: "Der Artikel ist immer dabei.",
+    t12_b3: "Zusammen lernen, zusammen sprechen!",
+    t12_inst: "Verbinde Artikel und Nomen!",
+    t12_h1: "Welcher Artikel passt?",
+    t12_h2: "der Hund, die Katze, das Haus",
+    t12_l1: "der", t12_r1: "Hund",
+    t12_l2: "die", t12_r2: "Katze",
+    t12_l3: "das", t12_r3: "Haus",
+    t12_l4: "die", t12_r4: "Blume",
+
+    // T13: Konkrete vs. abstrakte Nomen
+    t13_title: "Konkrete vs. abstrakte Nomen",
+    t13_text: "Es gibt zwei Arten von Nomen: Konkrete Nomen (man kann sehen/anfassen): Tisch, Stuhl, Hund. Abstrakte Nomen (man kann nicht anfassen): Freundschaft, Liebe, Angst, Freude.",
+    t13_b1: "Konkret = sehen/anfassen (Tisch, Stuhl)",
+    t13_b2: "Abstrakt = nicht anfassen (Liebe, Angst)",
+    t13_b3: "Beide Arten sind wichtig!",
+    t13_inst: "Sortiere: Konkret oder Abstrakt?",
+    t13_h1: "Kann man das anfassen?",
+    t13_h2: "Liebe kann man nicht anfassen.",
+    t13_bc: "Konkret 👉", t13_ba: "Abstrakt 💭",
+    t13_i1: "Tisch", t13_i2: "Liebe", t13_i3: "Freude", t13_i4: "Hund",
+
+    // T14: Nomen-Detektiv spielen
+    t14_title: "Nomen-Detektiv spielen",
+    t14_text: "Kannst du alle Nomen in einem Text finden? Halte Ausschau nach Großbuchstaben! Aber Vorsicht: Auch das erste Wort eines Satzes ist groß. Du musst aufmerksam sein!",
+    t14_b1: "Alle Nomen sind großgeschrieben.",
+    t14_b2: "Achte auf Großbuchstaben!",
+    t14_b3: "Der Satzanfang ist auch groß!",
+    t14_inst: "Finde alle Nomen!",
+    t14_h1: "Welche Wörter sind großgeschrieben?",
+    t14_h2: "Das Kind spielt im Garten mit dem Hund.",
+    t14_w1: "Das", t14_w2: "Kind", t14_w3: "spielt", t14_w4: "im", t14_w5: "Garten", t14_w6: ".",
+
+    // T15: Nomen Champion Finale!
+    t15_title: "Nomen Champion Finale!",
+    t15_text: "Gratulieren! Du hast alle Nomen-Lektionen gelernt! Jetzt bist du ein Nomen-Champion. Du kennst die Artikel, die Mehrzahlen und die Fälle. Das ist Klasse 2 Mastery!",
+    t15_b1: "Du kennst: der, die, das",
+    t15_b2: "Du kannst Mehrzahlen bilden",
+    t15_b3: "Du erkennst Nomen überall!",
+    t15_inst: "Champion-Herausforderung!",
+    t15_h1: "Baue den perfekten Satz!",
+    t15_h2: "Der Hund frisst das Futter.",
+    t15_f1: "Das", t15_f2: "Futter", t15_f3: "frisst", t15_f4: "der Hund", t15_f5: ".",
   }
 };
 
@@ -225,6 +322,158 @@ export const NOMEN_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "nomen_k2" },
   },
+
+  // ── 8. Nomen im Nominativ (drag-to-bucket) ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [{ text: "Der Nominativ", emoji: "❓", color: "#1E40AF", bg: "#DBEAFE" }] },
+    bulletKeys: ["t8_b1", "t8_b2", "t8_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "nominativ", label: "t8_inst" }],
+      items: [
+        { text: "t8_i1", bucketId: "nominativ" },
+        { text: "t8_i2", bucketId: "nominativ" },
+        { text: "t8_i3", bucketId: "nominativ" },
+        { text: "t8_i4", bucketId: "nominativ" },
+      ],
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "artikel_k2" },
+  },
+
+  // ── 9. Nomen im Akkusativ (gap-fill) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "word-display", word: "Akkusativ", highlightChars: ["A"], color: "#EF4444" },
+    bulletKeys: ["t9_b1", "t9_b2", "t9_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "zahlen_k2" },
+  },
+
+  // ── 10. Nomen mit Umlaut (match-pairs) ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "letter-pairs", pairs: [["Apfel", "Äpfel"], ["Haus", "Häuser"]], color: "#10B981" },
+    bulletKeys: ["t10_b1", "t10_b2", "t10_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t10_l1", right: "t10_r1" },
+        { left: "t10_l2", right: "t10_r2" },
+        { left: "t10_l3", right: "t10_r3" },
+        { left: "t10_l4", right: "t10_r4" },
+      ],
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 11. Nomen kategorisieren (drag-to-bucket) ──────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "icon-grid", items: [{ emoji: "👤", label: "Menschen" }, { emoji: "🐾", label: "Tiere" }, { emoji: "📦", label: "Dinge" }] },
+    bulletKeys: ["t11_b1", "t11_b2", "t11_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "mensch", label: "t11_bm" }, { id: "tier", label: "t11_bt" }, { id: "ding", label: "t11_bd" }],
+      items: [
+        { text: "t11_i1", bucketId: "mensch" },
+        { text: "t11_i2", bucketId: "tier" },
+        { text: "t11_i3", bucketId: "ding" },
+        { text: "t11_i4", bucketId: "tier" },
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "berufe_k2" },
+  },
+
+  // ── 12. Artikel & Nomen perfekt (match-pairs) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [{ text: "Artikel + Nomen = Paar", emoji: "💑", color: "#EC4899", bg: "#FCE7F3" }] },
+    bulletKeys: ["t12_b1", "t12_b2", "t12_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t12_l1", right: "t12_r1" },
+        { left: "t12_l2", right: "t12_r2" },
+        { left: "t12_l3", right: "t12_r3" },
+        { left: "t12_l4", right: "t12_r4" },
+      ],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 13. Konkrete vs. abstrakte Nomen (drag-to-bucket) ───── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "Konkret", emoji: "👉", color: "#10B981", bg: "#D1FAE5" }, { text: "Abstrakt", emoji: "💭", color: "#8B5CF6", bg: "#EDE9FE" }] },
+    bulletKeys: ["t13_b1", "t13_b2", "t13_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "konkret", label: "t13_bc" }, { id: "abstrakt", label: "t13_ba" }],
+      items: [
+        { text: "t13_i1", bucketId: "konkret" },
+        { text: "t13_i2", bucketId: "abstrakt" },
+        { text: "t13_i3", bucketId: "abstrakt" },
+        { text: "t13_i4", bucketId: "konkret" },
+      ],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "gegensaetze_k2" },
+  },
+
+  // ── 14. Nomen-Detektiv (highlight-text) ─────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["Das", "Kind", "spielt", "im", "Garten", "."], highlightIndices: [0, 1, 4], color: "#F59E0B" },
+    bulletKeys: ["t14_b1", "t14_b2", "t14_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4", "t14_w5", "t14_w6"],
+      correctIndices: [0, 1, 4],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "zeit_k2" },
+  },
+
+  // ── 15. Nomen Champion Finale! (word-order) ────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "Nomen Master!", bg: "#FEF3C7" },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t15_f3", "t15_f2", "t15_f1", "t15_f4", "t15_f5"], // Kevert: frisst, Futter, Das, der Hund, .
+      correctOrder: [2, 3, 0, 1, 4], // Das -> der Hund -> frisst -> Futter -> .
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "plural" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -324,6 +573,96 @@ export const VERB_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Das Verb ist 'spielt'. Es steht an 2. Stelle.",
     t7_w1: "Das Kind", t7_w2: "spielt", t7_w3: "Ball", t7_w4: ".",
     // Quiz: GENERATOR (verben_k2)
+
+    // T8-T15: Erweiterte Verbenlektionen
+    t8_title: "Verben im Präsens",
+    t8_text: "Das Präsens ist die Gegenwart. Es ist die Zeit, in der etwas gerade jetzt passiert. Beispiele: Ich spiele, du lachst, sie tanzt. Diese Zeit benutzen wir am meisten!",
+    t8_b1: "Präsens = Gegenwart",
+    t8_b2: "Das Verb beschreibt, was jetzt passiert.",
+    t8_b3: "Beispiel: Der Hund rennt schnell.",
+    t8_inst: "Finde das Verb im Präsens!",
+    t8_h1: "Was passiert gerade jetzt?",
+    t8_h2: "laufen, spielen, lachen sind im Präsens.",
+    t8_i1: "rennt", t8_i2: "rannte", t8_i3: "springt", t8_i4: "sprang",
+
+    t9_title: "Verben im Präteritum",
+    t9_text: "Das Präteritum ist die Vergangenheit. Es beschreibt, was schon vorbei ist. Der Hund rannte schnell. Ich spielte gestern. Diese Zeit nutzen wir für Geschichten!",
+    t9_b1: "Präteritum = Vergangenheit",
+    t9_b2: "Das Verb endet oft auf -te oder -ete.",
+    t9_b3: "Beispiel: Ich spielte einen Satz Tennis.",
+    t9_inst: "Welches Verb ist Vergangenheit?",
+    t9_h1: "Was ist schon vorbei?",
+    t9_h2: "spielte, lachte, tanzte sind Vergangenheit.",
+    t9_c1: "spielte", t9_c2: "spielen", t9_c3: "spielst", t9_c4: "spiels",
+    t9_sent: "Gestern ___ ich mit meinem Freund.",
+
+    t10_title: "Unregelmäßige Verben",
+    t10_text: "Manche Verben sind unregelmäßig oder 'stark'. Sie verändern sich auf besondere Weise. Beispiel: sein → bin, bist, ist. oder: gehen → gehe, gehst, geht. Diese Verben muss man auswendig lernen!",
+    t10_b1: "Unregelmäßig = ändert sich besonders",
+    t10_b2: "sein, haben, gehen sind unregelmäßig.",
+    t10_b3: "Diese Verben muss man auswendig lernen!",
+    t10_inst: "Verbinde Infinitiv und Präsens!",
+    t10_h1: "Wie sind die verschiedenen Formen?",
+    t10_h2: "sein → bin, bist, ist. gehen → gehe, gehst, geht.",
+    t10_l1: "sein", t10_r1: "bin",
+    t10_l2: "gehen", t10_r2: "gehe",
+    t10_l3: "haben", t10_r3: "habe",
+    t10_l4: "kommen", t10_r4: "komme",
+
+    t11_title: "Verb + Akkusativ (Objekt)",
+    t11_text: "Manche Verben brauchen ein Objekt im Akkusativ. Beispiel: 'Ich esse einen Apfel.' Das Verb 'essen' braucht das Objekt 'einen Apfel' (Akkusativ). Ohne Objekt ist der Satz unvollständig!",
+    t11_b1: "Verb + Akkusativ-Objekt",
+    t11_b2: "Beispiel: Ich esse einen Apfel.",
+    t11_b3: "Das Objekt antwortet auf: Wen oder was?",
+    t11_inst: "Finde das Objekt!",
+    t11_h1: "Wen oder was macht das Verb?",
+    t11_h2: "Ich sehe die Katze. Die Katze ist das Objekt.",
+    t11_bv: "Verb 🎬", t11_bo: "Objekt 📦",
+    t11_i1: "essen", t11_i2: "einen Apfel", t11_i3: "laufen", t11_i4: "das Haus",
+
+    t12_title: "Verben im Imperativ",
+    t12_text: "Der Imperativ ist Befehl oder Bitte. Beispiel: 'Laufe schnell!' oder 'Bitte komm her!' Wir brauchen das -e am Anfang nicht. Die Form ist ganz einfach!",
+    t12_b1: "Imperativ = Befehl oder Bitte",
+    t12_b2: "Beispiel: Spielen! Laufen! Komm!",
+    t12_b3: "Oft brauchen wir das -e nicht.",
+    t12_inst: "Verbinde Infinitiv und Imperativ!",
+    t12_h1: "Wie sagt man einen Befehl?",
+    t12_h2: "spielen → Spiel! laufen → Lauf!",
+    t12_l1: "spielen", t12_r1: "Spiel!",
+    t12_l2: "laufen", t12_r2: "Lauf!",
+    t12_l3: "lachen", t12_r3: "Lach!",
+    t12_l4: "kommen", t12_r4: "Komm!",
+
+    t13_title: "Verb + Dativ (indirektes Objekt)",
+    t13_text: "Manche Verben brauchen ein Dativ-Objekt. Beispiel: 'Ich helfe dem Hund.' Das Verb 'helfen' braucht Dativ (dem, der, dem). Diese Verben sind wichtig!",
+    t13_b1: "Verb + Dativ-Objekt",
+    t13_b2: "Beispiel: Ich helfe dem Hund.",
+    t13_b3: "Das Dativ-Objekt antwortet auf: Wem?",
+    t13_inst: "Sortiere: Akkusativ oder Dativ?",
+    t13_h1: "Antwortet das Objekt auf Wen/Was oder Wem?",
+    t13_h2: "Ich sehe den Hund (Akkusativ). Ich helfe dem Hund (Dativ).",
+    t13_ba: "Akkusativ 📦", t13_bd: "Dativ 🤝",
+    t13_i1: "Ich liebe dich", t13_i2: "Ich helfe dir", t13_i3: "Ich sehe ihn", t13_i4: "Ich vertraue dir",
+
+    t14_title: "Verb-Familien",
+    t14_text: "Verben können Familien bilden! Beispiel: spielen, abspielen, vorspielen, mitspielen. Sie haben alle das Verb 'spielen' als Basis, aber unterschiedliche Vorsilben (Präfixe). Das hilft neue Verben zu verstehen!",
+    t14_b1: "Verb + Präfix = Neue Verben",
+    t14_b2: "Beispiel: spielen → abspielen, vorspielen",
+    t14_b3: "Das Basis-Verb ist immer dabei!",
+    t14_inst: "Finde die Verb-Familie!",
+    t14_h1: "Welche Wörter gehören zur Familie?",
+    t14_h2: "spielen, abspielen, vorspielen, Mitspieler.",
+    t14_w1: "spielen", t14_w2: "abspielen", t14_w3: "Musik", t14_w4: ".",
+
+    t15_title: "Verb Champion Finale!",
+    t15_text: "Gratulieren! Du kennst jetzt viele Verben und ihre Besonderheiten. Du verstehst Präsens, Präteritum, Imperativ und die Objekte. Du bist ein echter Verb-Master!",
+    t15_b1: "Du kennst Präsens und Präteritum",
+    t15_b2: "Du verstehst Akkusativ und Dativ",
+    t15_b3: "Du erkennst Verben überall!",
+    t15_inst: "Verb-Champion-Herausforderung!",
+    t15_h1: "Baue einen perfekten Satz mit Verb!",
+    t15_h2: "Der Hund rennt schnell.",
+    t15_f1: "Der Hund", t15_f2: "rennt", t15_f3: "schnell", t15_f4: ".",
   }
 };
 
@@ -442,11 +781,158 @@ export const VERB_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "highlight-text",
-      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], 
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"],
       correctIndices: [1], // spielt (in der Ansicht ist es Platz 2, da "Das Kind" ein Token ist)
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "verben_k2" }, // ❤️ GENERATOR HASZNÁLATA
+  },
+
+  // ── 8. Verben im Präsens (highlight-text) ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "icon-grid", items: [{ emoji: "⏰", label: "Jetzt" }, { emoji: "🏃", label: "Präsens" }] },
+    bulletKeys: ["t8_b1", "t8_b2", "t8_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_i1", "t8_i2", "t8_i3", "t8_i4"],
+      correctIndices: [0, 2], // rennt, springt
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "zahlen_k2" },
+  },
+
+  // ── 9. Verben im Präteritum (gap-fill) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "word-display", word: "Präteritum", highlightChars: ["P"], color: "#EC4899" },
+    bulletKeys: ["t9_b1", "t9_b2", "t9_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0, // spielte
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "zeit_k2" },
+  },
+
+  // ── 10. Unregelmäßige Verben (match-pairs) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "letter-pairs", pairs: [["sein", "bin"], ["gehen", "gehe"]], color: "#3B82F6" },
+    bulletKeys: ["t10_b1", "t10_b2", "t10_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t10_l1", right: "t10_r1" },
+        { left: "t10_l2", right: "t10_r2" },
+        { left: "t10_l3", right: "t10_r3" },
+        { left: "t10_l4", right: "t10_r4" },
+      ],
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 11. Verb + Akkusativ (drag-to-bucket) ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "Verb + Akkusativ", emoji: "📦", color: "#D97706", bg: "#FEF3C7" }] },
+    bulletKeys: ["t11_b1", "t11_b2", "t11_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "verb", label: "t11_bv" }, { id: "objekt", label: "t11_bo" }],
+      items: [
+        { text: "t11_i1", bucketId: "verb" },
+        { text: "t11_i2", bucketId: "objekt" },
+        { text: "t11_i3", bucketId: "verb" },
+        { text: "t11_i4", bucketId: "objekt" },
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "berufe_k2" },
+  },
+
+  // ── 12. Verben im Imperativ (match-pairs) ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [{ text: "Befehl!", emoji: "💬", color: "#DC2626", bg: "#FEE2E2" }] },
+    bulletKeys: ["t12_b1", "t12_b2", "t12_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t12_l1", right: "t12_r1" },
+        { left: "t12_l2", right: "t12_r2" },
+        { left: "t12_l3", right: "t12_r3" },
+        { left: "t12_l4", right: "t12_r4" },
+      ],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "artikel_k2" },
+  },
+
+  // ── 13. Verb + Dativ (drag-to-bucket) ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "Akkusativ vs. Dativ", emoji: "🤔", color: "#8B5CF6", bg: "#EDE9FE" }] },
+    bulletKeys: ["t13_b1", "t13_b2", "t13_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "akk", label: "t13_ba" }, { id: "dat", label: "t13_bd" }],
+      items: [
+        { text: "t13_i1", bucketId: "akk" },
+        { text: "t13_i2", bucketId: "dat" },
+        { text: "t13_i3", bucketId: "akk" },
+        { text: "t13_i4", bucketId: "dat" },
+      ],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "gegensaetze_k2" },
+  },
+
+  // ── 14. Verb-Familien (highlight-text) ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "word-display", word: "spielen", highlightChars: ["s", "p", "i", "e", "l"], color: "#065F46" },
+    bulletKeys: ["t14_b1", "t14_b2", "t14_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [0, 1], // spielen, abspielen
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "verben_k2" },
+  },
+
+  // ── 15. Verb Champion Finale! (word-order) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "Verb Master!", bg: "#FEF3C7" },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t15_f3", "t15_f2", "t15_f1", "t15_f4"], // schnell, rennt, Hund, .
+      correctOrder: [2, 1, 0, 3], // Hund -> rennt -> schnell -> .
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "plural" },
   },
 ];
 
@@ -547,6 +1033,95 @@ export const ADJEKTIV_LABELS: Record<string, Record<string, string>> = {
     t7_sent: "Das Gegenteil von alt ist ___.",
     t7_c1: "jung", t7_c2: "groß", t7_c3: "schwer", t7_c4: "bunt",
     // Quiz: GENERATOR (adjektive_gegenteil)
+
+    // T8-T15: Erweiterte Adjektivlektionen
+    t8_title: "Adjektive mit Steigerung",
+    t8_text: "Viele Adjektive haben eine Steigerungsform. Basis: schnell → Vergleich: schneller → Superlativ: am schnellsten. Das macht Vergleiche möglich!",
+    t8_b1: "Basis → Vergleich → Superlativ",
+    t8_b2: "schnell → schneller → am schnellsten",
+    t8_b3: "Diese Formen muss man kennen!",
+    t8_inst: "Finde alle Formen!",
+    t8_h1: "Basis ist die einfache Form.",
+    t8_h2: "schnell, schneller, am schnellsten.",
+    t8_l1: "schnell", t8_r1: "schneller", t8_l2: "groß", t8_r2: "größer",
+
+    t9_title: "Umlaut in Steigerung",
+    t9_text: "Manche Adjektive bekommen einen Umlaut bei der Steigerung. Beispiel: alt → älter → am ältesten. Das ist eine spezielle Regel!",
+    t9_b1: "Umlaut in Steigerung: ä, ö, ü",
+    t9_b2: "alt → älter → am ältesten",
+    t9_b3: "Diese Adjektive muss man lernen!",
+    t9_inst: "Verbinde Basis und Superlativ!",
+    t9_h1: "Welcher Superlativ hat einen Umlaut?",
+    t9_h2: "alt → am ältesten. jung → am jüngsten.",
+    t9_l1: "alt", t9_r1: "am ältesten",
+    t9_l2: "jung", t9_r2: "am jüngsten",
+    t9_l3: "kurz", t9_r3: "am kürzesten",
+    t9_l4: "oft", t9_r4: "am öftesten",
+
+    t10_title: "Unregelmäßige Adjektive",
+    t10_text: "Manche Adjektive sind unregelmäßig. Sie ändern sich völlig: gut → besser → am besten. viel → mehr → am meisten. Diese Adjektive muss man auswendig lernen!",
+    t10_b1: "Unregelmäßig = ändert sich völlig",
+    t10_b2: "gut → besser → am besten",
+    t10_b3: "Diese Adjektive muss man auswendig lernen!",
+    t10_inst: "Finde die unregelmäßige Form!",
+    t10_h1: "Wie ist die Superlativ-Form?",
+    t10_h2: "gut → am besten. viel → am meisten.",
+    t10_c1: "besser", t10_c2: "gut", t10_c3: "guten", t10_c4: "gu",
+    t10_sent: "Das ist ___ als das andere.",
+
+    t11_title: "Adjektive beschreiben Nomen",
+    t11_text: "Adjektive stehen neben Nomen und machen sie interessanter! Der rote Ball, die schnelle Katze, das schöne Haus. Das Adjektiv passt sich an das Nomen an!",
+    t11_b1: "Adjektiv + Nomen",
+    t11_b2: "Das Adjektiv beschreibt das Nomen.",
+    t11_b3: "Beispiel: der rote Ball, die schnelle Katze",
+    t11_inst: "Sortiere Adjektive und Nomen!",
+    t11_h1: "Welches Wort ist das Adjektiv?",
+    t11_h2: "Das rote Haus: 'rot' ist das Adjektiv.",
+    t11_ba: "Adjektiv 🎨", t11_bn: "Nomen 📦",
+    t11_i1: "schnell", t11_i2: "Katze", t11_i3: "groß", t11_i4: "Baum",
+
+    t12_title: "Farbwörter sind Adjektive",
+    t12_text: "Farben sind spezielle Adjektive! Rot, blau, gelb, grün... Wir benutzen sie, um Dinge zu beschreiben. Der rote Apfel, das blaue Haus, die grüne Wiese.",
+    t12_b1: "Farben = Adjektive",
+    t12_b2: "rot, blau, gelb, grün, orange, rosa",
+    t12_b3: "Wir benutzen sie täglich!",
+    t12_inst: "Verbinde Farben und Objekte!",
+    t12_h1: "Welche Farbe hat das Objekt normalerweise?",
+    t12_h2: "Die Sonne ist gelb. Das Meer ist blau.",
+    t12_l1: "Apfel", t12_r1: "rot",
+    t12_l2: "Schnee", t12_r2: "weiß",
+    t12_l3: "Gras", t12_r3: "grün",
+    t12_l4: "Himmel", t12_r4: "blau",
+
+    t13_title: "Persönlichkeits-Adjektive",
+    t13_text: "Mit Adjektiven beschreiben wir Menschen und ihre Persönlichkeit! Mutig, ängstlich, freundlich, böse... Diese Adjektive helfen uns Charaktere zu verstehen.",
+    t13_b1: "Persönlichkeits-Adjektive",
+    t13_b2: "mutig, ängstlich, freundlich, böse",
+    t13_b3: "Mit diesen beschreiben wir Menschen!",
+    t13_inst: "Finde die Persönlichkeit!",
+    t13_h1: "Welches Adjektiv passt?",
+    t13_h2: "Der mutige Held kämpft gegen das Böse.",
+    t13_w1: "Der", t13_w2: "mutige", t13_w3: "Held", t13_w4: ".",
+
+    t14_title: "Adjektive als Prädikativ",
+    t14_text: "Adjektive können nach dem Verb stehen: 'Der Apfel ist rot.' 'Die Katze ist schnell.' Hier beschreiben sie das Nomen und hängen vom Verb ab!",
+    t14_b1: "Verb + Adjektiv (Prädikativ)",
+    t14_b2: "Beispiel: Der Apfel ist rot.",
+    t14_b3: "Das Adjektiv sitzt NACH dem Verb!",
+    t14_inst: "Baue den Satz richtig!",
+    t14_h1: "Welches Adjektiv passt?",
+    t14_h2: "Der Himmel ist blau.",
+    t14_f1: "Der Himmel", t14_f2: "ist", t14_f3: "blau", t14_f4: ".",
+
+    t15_title: "Adjektiv Champion Finale!",
+    t15_text: "Gratulieren! Du kennst jetzt alles über Adjektive! Steigerung, Farben, Persönlichkeit... Du bist ein echter Adjektiv-Meister!",
+    t15_b1: "Du kennst Basis und Steigerung",
+    t15_b2: "Du verstehst Farben und Eigenschaften",
+    t15_b3: "Du beschreibst Dinge perfekt!",
+    t15_inst: "Adjektiv-Champion-Herausforderung!",
+    t15_h1: "Beschreibe etwas mit mehreren Adjektiven!",
+    t15_h2: "Das große rote Haus ist sehr schön!",
+    t15_w1: "Das", t15_w2: "schöne", t15_w3: "Haus", t15_w4: ".",
   }
 };
 
@@ -671,6 +1246,131 @@ export const ADJEKTIV_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "adjektive_gegenteil" }, // ❤️ GENERATOR HASZNÁLATA
+  },
+
+  // ── 8. Adjektive mit Steigerung (match-pairs) ──────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-pairs", pairs: [["schnell", "schneller"]], color: "#3B82F6" },
+    bulletKeys: ["t8_b1", "t8_b2", "t8_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [{ left: "t8_l1", right: "t8_r1" }, { left: "t8_l2", right: "t8_r2" }],
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "zahlen_k2" },
+  },
+
+  // ── 9. Umlaut in Steigerung (match-pairs) ────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["alt", "älter"]], color: "#EF4444" },
+    bulletKeys: ["t9_b1", "t9_b2", "t9_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [{ left: "t9_l1", right: "t9_r1" }, { left: "t9_l2", right: "t9_r2" }, { left: "t9_l3", right: "t9_r3" }, { left: "t9_l4", right: "t9_r4" }],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 10. Unregelmäßige Adjektive (gap-fill) ──────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [{ text: "Unregelmäßig", emoji: "🎲", color: "#8B5CF6", bg: "#EDE9FE" }] },
+    bulletKeys: ["t10_b1", "t10_b2", "t10_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "berufe_k2" },
+  },
+
+  // ── 11. Adjektive beschreiben Nomen (drag-to-bucket) ───── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🎨", label: "Adjektiv" }, { emoji: "📦", label: "Nomen" }] },
+    bulletKeys: ["t11_b1", "t11_b2", "t11_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "adj", label: "t11_ba" }, { id: "nom", label: "t11_bn" }],
+      items: [{ text: "t11_i1", bucketId: "adj" }, { text: "t11_i2", bucketId: "nom" }, { text: "t11_i3", bucketId: "adj" }, { text: "t11_i4", bucketId: "nom" }],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "gegensaetze_k2" },
+  },
+
+  // ── 12. Farbwörter sind Adjektive (match-pairs) ──────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [{ text: "Rot", emoji: "🔴", color: "#DC2626", bg: "#FEE2E2" }] },
+    bulletKeys: ["t12_b1", "t12_b2", "t12_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [{ left: "t12_l1", right: "t12_r1" }, { left: "t12_l2", right: "t12_r2" }, { left: "t12_l3", right: "t12_r3" }, { left: "t12_l4", right: "t12_r4" }],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "farben_k2" },
+  },
+
+  // ── 13. Persönlichkeits-Adjektive (highlight-text) ──── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "word-display", word: "mutig", highlightChars: ["m"], color: "#059669" },
+    bulletKeys: ["t13_b1", "t13_b2", "t13_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [1, 2],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "zeit_k2" },
+  },
+
+  // ── 14. Adjektive als Prädikativ (sentence-build) ────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🍎", label: "ist rot" }] },
+    bulletKeys: ["t14_b1", "t14_b2", "t14_b3"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t14_f1", "t14_f2", "t14_f3", "t14_f4"],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Adjektiv Champion Finale! (word-order) ────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "Adjektiv Master!", bg: "#FEF3C7" },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "word-order",
+      words: ["t15_w4", "t15_w3", "t15_w2", "t15_w1"],
+      correctOrder: [3, 2, 1, 0],
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "artikel_k2" },
   },
 ];
 
