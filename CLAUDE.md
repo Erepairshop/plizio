@@ -2714,6 +2714,28 @@ const K5Explorer = dynamic(() => import("@/app/astrodeutsch/games/k5/K5Explorer"
 5. **Duplikált `import type { PoolTopicDef }`** — csak egyszer, a fájl elején
 6. **Physics rossz mező nevek** — lásd fenti physics típusok táblázat
 
+### Quiz ismétlés elkerülő rendszer (2026-03-28)
+
+Három rétegű védelem a kérdés ismétlések ellen:
+
+**1. Generator-key dedup** (`lib/explorerUtils.ts` — `deduplicateGenerators`):
+- Ugyanaz a `generate:` kulcs nem kerülhet 2× ugyanabba a sessionbe
+- Ha mégis bekerülne, lecseréli egy másik pool topikra
+
+**2. Question-text dedup** (`components/DynamicExplorer.tsx` — `useMemo` blokk):
+- `resolveQuiz()` után szöveg szinten is ellenőriz
+- Ha ugyanaz a kérdés szöveg kétszer szerepelne → kicseréli pool-ból
+
+**3. Session history** (`lib/explorerUtils.ts` — `getRandomTopicsWithHistory`):
+- `localStorage` kulcs: `plizio_seen_<explorerId>` — utolsó ~10 látott topik title-je (max 2 session)
+- Következő sessionben a "friss" topikokból választ először
+- Fallback: ha nincs elég friss → teljes pool-ból választ
+- `DynamicExplorer` ezt hívja `getRandomTopics` helyett
+
+**Eredmény:** `belső ismétlés: 0` minden poolban, cross-run ismétlés ~2-3 session védelmi ablakkal.
+
+**⚠️ Szabály:** Ha új tantárgyhoz (pl. AstroEnglish, AstroMagyar) is pool-alapú explorert hozol létre, ugyanez a rendszer automatikusan működik — `DynamicExplorer`-t kell használni és az `explorerId` prop egyedi legyen pool-onként.
+
 ### Új grade hozzáadása — checklist
 
 ```
