@@ -141,55 +141,55 @@ export const PASSIV6_POOL: PoolTopicDef[] = [
     difficulty: "easy", infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "two-groups", left: { items: ["t1_i1"], bg: "#DBEAFE", border: "#1D4ED8" }, right: { items: ["t1_i2"], bg: "#FEE2E2", border: "#B91C1C" } },
     interactive: { type: "drag-to-bucket", buckets: [{ id: "ak", label: "t1_b1" }, { id: "pa", label: "t1_b2" }], items: [{ text: "t1_i1", bucketId: "ak" }, { text: "t1_i2", bucketId: "pa" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "text-bubbles", items: [{ text: "werden", color: "#14B8A6", bg: "#F0FDFA" }, { text: "Partizip II", color: "#14B8A6", bg: "#F0FDFA" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent", choices: ["t2_c1", "t2_c2", "t2_c3", "t2_c4"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "sentence-display", words: ["von", "dem", "Lehrer"], color: "#14B8A6" },
     interactive: { type: "highlight-text", tokens: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4", "t3_w3_5"], correctIndices: [2], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "word-display", word: "wurde", color: "#14B8A6" },
     interactive: { type: "gap-fill", sentence: "t4_sent_p", choices: ["t4_cp1", "t4_cp2", "t4_cp3", "t4_cp4"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🎯", title: "Passiv", bg: "#F0FDFA" },
     interactive: { type: "physics-slingshot", question: "t5_q", targets: [{ id: "1", text: "t5_t1", isCorrect: true }, { id: "2", text: "t5_t2", isCorrect: true }, { id: "3", text: "t5_t3", isCorrect: false }, { id: "4", text: "t5_t4", isCorrect: false }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "two-groups", left: { items: ["Aktiv", "Junge"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["Passiv", "Ball"], bg: "#fdf4ff", border: "#e9d5ff" } },
     interactive: { type: "sentence-build", fragments: ["t6_o1", "t6_o2", "t6_o3"], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🧲", title: "Magnet", bg: "#F0FDFA" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t7_ml1", right: "t7_mr1" }, { left: "t7_ml2", right: "t7_mr2" }, { left: "t7_ml3", right: "t7_mr3" }], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "text-bubbles", items: [{ text: "gesehen", color: "#14B8A6", bg: "#F0FDFA" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent_part", choices: ["t8_cpart1", "t8_cpart2", "t8_cpart3", "t8_cpart4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "simple-icon", icon: "🧱", title: "Stack", bg: "#F0FDFA" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",
@@ -330,55 +330,55 @@ export const KONJ2_POOL: PoolTopicDef[] = [
     difficulty: "easy", infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "two-groups", left: { items: ["t1_w1"], bg: "#F1F5F9", border: "#64748B" }, right: { items: ["t1_w2"], bg: "#EEF2FF", border: "#6366F1" } },
     interactive: { type: "highlight-text", tokens: ["t1_w1", "t1_w2"], correctIndices: [1], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "sentence-display", words: ["würde", "gern", "fliegen"], color: "#6366F1" },
     interactive: { type: "sentence-build", fragments: ["t2_f2_1", "t2_f2_2", "t2_f2_3", "t2_f2_4"], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "wäre", color: "#6366F1" },
     interactive: { type: "gap-fill", sentence: "t3_sent_hw", choices: ["t3_chw1", "t3_chw2", "t3_chw3", "t3_chw4"], correctIndex: 0, instruction: "t2_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "text-bubbles", items: [{ text: "Könntest du...?", color: "#6366F1", bg: "#EEF2FF" }] },
     interactive: { type: "gap-fill", sentence: "t4_sent_h", choices: ["t4_chh1", "t4_chh2", "t4_chh3", "t4_chh4"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "word-display", word: "hätte", color: "#6366F1" },
     interactive: { type: "gap-fill", sentence: "t5_sent_wenn", choices: ["t5_cw1", "t5_cw2", "t5_cw3", "t5_cw4"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🧱", title: "Wunsch", bg: "#EEF2FF" },
     interactive: { type: "physics-stacker", words: ["t6_sw6_1", "t6_sw6_2", "t6_sw6_3"], correctOrder: [0, 1, 2], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🎯", title: "Traum", bg: "#EEF2FF" },
     interactive: { type: "physics-slingshot", question: "t7_q", targets: [{ id: "1", text: "t7_t1", isCorrect: true }, { id: "2", text: "t7_t2", isCorrect: true }, { id: "3", text: "t7_t3", isCorrect: false }, { id: "4", text: "t7_t4", isCorrect: false }], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "two-groups", left: { items: ["t8_i8_1"], bg: "#F1F5F9", border: "#64748B" }, right: { items: ["t8_i8_2"], bg: "#EEF2FF", border: "#6366F1" } },
     interactive: { type: "drag-to-bucket", buckets: [{ id: "re", label: "t8_b8_1" }, { id: "tr", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "re" }, { text: "t8_i8_2", bucketId: "tr" }], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "text-bubbles", items: [{ text: "könnten", color: "#6366F1", bg: "#EEF2FF" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_mod", choices: ["t9_cm1", "t9_cm2", "t9_cm3", "t9_cm4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",
@@ -522,55 +522,55 @@ export const INFINITIV6_POOL: PoolTopicDef[] = [
     difficulty: "easy", infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "text-bubbles", items: [{ text: "zu essen", color: "#059669", bg: "#DCFCE7" }] },
     interactive: { type: "gap-fill", sentence: "t1_sent", choices: ["t1_c1", "t1_c2", "t1_c3", "t1_c4"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "verben_k3" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "word-display", word: "auf-zu-stehen", color: "#10B981" },
     interactive: { type: "highlight-text", tokens: ["t2_w2_1", "t2_w2_2", "t2_w2_3", "t2_w2_4"], correctIndices: [0], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "verben_k3" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "sentence-display", words: ["um", "...", "zu"], color: "#10B981" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "word-display", word: "ohne... zu", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t4_sent_ohne", choices: ["t4_co1", "t4_co2", "t4_co3", "t4_co4"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "text-bubbles", items: [{ text: "Anstatt zu...", color: "#059669", bg: "#DCFCE7" }] },
     interactive: { type: "gap-fill", sentence: "t5_sent_statt", choices: ["t5_cs1", "t5_cs2", "t5_cs3", "t5_cs4"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🎯", title: "Infinitiv", bg: "#DCFCE7" },
     interactive: { type: "physics-slingshot", question: "t6_q", targets: [{ id: "1", text: "t6_t1", isCorrect: true }, { id: "2", text: "t6_t2", isCorrect: true }, { id: "3", text: "t6_t3", isCorrect: false }, { id: "4", text: "t6_t4", isCorrect: false }], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🧲", title: "Magnet", bg: "#DCFCE7" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t7_ml1", right: "t7_mr1" }, { left: "t7_ml2", right: "t7_mr2" }, { left: "t7_ml3", right: "t7_mr3" }], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🧱", title: "Stack", bg: "#DCFCE7" },
     interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "easy", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "two-groups", left: { items: ["können"], bg: "#F1F5F9", border: "#64748B" }, right: { items: ["laufen"], bg: "#DCFCE7", border: "#10B981" } },
     interactive: { type: "gap-fill", sentence: "t9_sent_mod", choices: ["t9_cm1", "t9_cm2", "t9_cm3", "t9_cm4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "verben_k3" }
+    quiz: { generate: "infinitiv_zu_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",

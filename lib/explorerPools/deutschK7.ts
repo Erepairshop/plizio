@@ -599,25 +599,25 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "compound-word", word1: "Partizip II", word2: "werden", result: "Partizip II+werden", color: "#6366F1" },
     interactive: { type: "word-order", words: ["t1_w2", "t1_w1"], correctOrder: [0, 1], instruction: "t1_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "muss", color: "#F59E0B", bg: "#FEF3C7" }, { text: "werden", color: "#F59E0B", bg: "#FEF3C7" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "word-display", word: "kann ... werden", color: "#D97706" },
     interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🚭" },
     interactive: { type: "physics-slingshot", question: "t4_q4", targets: [{ id: "1", text: "t4_t4_1", isCorrect: true }, { id: "2", text: "t4_t4_2", isCorrect: false }, { id: "3", text: "t4_t4_3", isCorrect: false }], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
@@ -629,19 +629,19 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "word-order", words: ["t6_w6_1", "t6_w6_2", "t6_w6_3", "t6_w6_4"], correctOrder: [0, 1, 2, 3], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t7_sw7_1", "t7_sw7_2", "t7_sw7_3"], correctOrder: [0, 1, 2], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["man lüftet"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["wird gelüftet"], bg: "#FEF3C7", border: "#D97706" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t8_b8_1" }, { id: "p", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "a" }, { text: "t8_i8_2", bucketId: "p" }, { text: "t8_i8_3", bucketId: "a" }, { text: "t8_i8_4", bucketId: "p" }], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "easy",
@@ -653,25 +653,25 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
     svg: { type: "word-display", word: "nicht", color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "letter-circles", letters: ["z", "u"], color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t12_w12_1", "t12_w12_2", "t12_w12_3", "t12_w12_4", "t12_w12_5", "t12_w12_6"], correctIndices: [2], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "⏱️" },
     interactive: { type: "gap-fill", sentence: "t13_q13", choices: ["t13_ans13", "t13_ans13_2", "t13_ans13_3", "t13_ans13_4"], correctIndex: 0, instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
@@ -683,7 +683,7 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
     interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3", "t15_sw15_4"], correctOrder: [0, 1, 2, 3], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_modal_k7" }
   }
 ];
 
@@ -818,13 +818,13 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "rhyme-pair", word1: "Fischers", word2: "Fritz", color: "#6366F1" },
     interactive: { type: "physics-slingshot", question: "t1_inst", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans1_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🐱", label: "Rabenmutter" }, { emoji: "🐍", label: "Warteschlange" }] },
     interactive: { type: "match-pairs", pairs: [{ left: "t2_ml2_1", right: "t2_mr2_1" }, { left: "t2_ml2_2", right: "t2_mr2_2" }, { left: "t2_ml2_3", right: "t2_mr2_3" }], instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "easy",
@@ -836,31 +836,31 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Sonne lacht", color: "#F59E0B", bg: "#FEF3C7" }, { text: "Wind singt", color: "#F59E0B", bg: "#FEF3C7" }] },
     interactive: { type: "physics-bucket", buckets: [{ id: "p", label: "t4_b4_1" }, { id: "r", label: "t4_b4_2" }], items: [{ text: "t4_i4_1", bucketId: "p" }, { text: "t4_i4_2", bucketId: "r" }, { text: "t4_i4_3", bucketId: "p" }, { text: "t4_i4_4", bucketId: "r" }], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📈" },
     interactive: { type: "physics-stacker", words: ["t5_sw5_1", "t5_sw5_2", "t5_sw5_3"], correctOrder: [0, 1, 2], instruction: "t5_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "steigerung" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "❓" },
     interactive: { type: "physics-slingshot", question: "t6_q6", targets: [{ id: "1", text: "t6_t6_1", isCorrect: true }, { id: "2", text: "t6_t6_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_4"], correctIndices: [0, 3], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
@@ -872,25 +872,25 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "word-syllables", parts: ["Ku", "ckuck"], color: "#6366F1" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "✂️" },
     interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "akkusativ" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🕊️", label: "Frieden" }, { emoji: "❤️", label: "Liebe" }] },
     interactive: { type: "match-pairs", pairs: [{ left: "t12_ml12_1", right: "t12_mr12_1" }, { left: "t12_ml12_2", right: "t12_mr12_2" }, { left: "t12_ml12_3", right: "t12_mr12_3" }], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["Euphemismus"], bg: "#F0FDF4", border: "#22C55E" }, right: { items: ["Direkt"], bg: "#FEF2F2", border: "#EF4444" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "e", label: "t13_b13_1" }, { id: "d", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "e" }, { text: "t13_i13_2", bucketId: "d" }, { text: "t13_i13_3", bucketId: "e" }, { text: "t13_i13_4", bucketId: "d" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
@@ -902,7 +902,7 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "sentence-build", fragments: ["t15_f15_1", "t15_f15_2", "t15_f15_3", "t15_f15_4"], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "stilmittel_k7" }
   }
 ];
 
