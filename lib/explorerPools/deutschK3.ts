@@ -1856,110 +1856,111 @@ export const ZEITFORM_LABELS: Record<string, Record<string, string>> = {
     t7_w7_1: "Präsens", t7_w7_2: "Präteritum", t7_w7_3: "Perfekt",
     // Quiz: GENERATOR (praeteritum)
 
-    // T8: Regelmäßige Verben im Präteritum
-    t8_title: "Regelmäßige Verben im Präteritum",
-    t8_text: "Regelmäßige Verben bekommen im Präteritum einfach ein '-te' oder '-ete' vor der Endung. 'spielen' wird zu 'ich spielte'. Das ist einfach!",
-    t8_b1: "Präteritum mit -te/-ete",
-    t8_b2: "machen -> machte, lernen -> lernte",
-    t8_inst: "Finde das richtige Präteritum!",
-    t8_h1: "Denk an die -te Endung.",
-    t8_h2: "Ich spielte Fußball.",
-    t8_sent: "Lisa ___ in der Schule.",
-    t8_c1: "lernte", t8_c2: "lernete", t8_c3: "lerne", t8_c4: "gelernt",
-    t8_q: "Was ist das Präteritum von 'machen'?",
-    t8_qa: "machte", t8_qb: "gemacht", t8_qc: "mache", t8_qd: "machtest",
+    // T8: Futur I - Zukunftsform
+    t8_title: "Futur I - Die Zukunft",
+    t8_text: "Futur I ist die Zukunftsform. Wir bauen sie mit 'werden' + Infinitiv. 'Ich WERDE spielen.' Das ist ganz einfach!",
+    t8_b1: "Futur I = werden + Infinitiv",
+    t8_b2: "Ich werde, du wirst, er wird.",
+    t8_inst: "Finde das Futur I!",
+    t8_h1: "Suche das Wort 'werden' + Verb.",
+    t8_h2: "Ich werde morgen spielen.",
+    t8_sent: "Wir ___ nächste Woche fahren.",
+    t8_c1: "werden", t8_c2: "werden fahren", t8_c3: "fahren werden", t8_c4: "werde fahren",
+    t8_q: "Was ist Futur I?",
+    t8_qa: "werden + Infinitiv", t8_qb: "haben + Partizip", t8_qc: "bin + Partizip", t8_qd: "werden + Partizip",
 
-    // T9: Unregelmäßige Verben im Präteritum
-    t9_title: "Unregelmäßige Verben im Präteritum",
-    t9_text: "Unregelmäßige Verben ändern ihren Stammvokal im Präteritum. 'singen' wird zu 'sang', 'nehmen' wird zu 'nahm'. Du musst diese auswendig lernen!",
-    t9_b1: "Stammvokal ändert sich.",
-    t9_b2: "singen -> sang, fahren -> fuhr",
-    t9_inst: "Verbinde Präsens mit Präteritum!",
-    t9_h1: "Der Vokal ändert sich: singe -> sang",
-    t9_h2: "Das nennt man Ablaut.",
-    t9_l1: "singen", t9_r1: "sang",
-    t9_l2: "nehmen", t9_r2: "nahm",
-    t9_l3: "fahren", t9_r3: "fuhr",
-    t9_l4: "schreiben", t9_r4: "schrieb",
-    t9_q: "Welches ist das Präteritum von 'sprechen'?",
-    t9_qa: "sprach", t9_qb: "sprechte", t9_qc: "gesprochen", t9_qd: "spreche",
+    // T9: Konjunktiv II - Der 'Wunsch-Modus'
+    t9_title: "Konjunktiv II - Wünsche und Träume",
+    t9_text: "Konjunktiv II zeigt, was nicht real ist. Wenn ich könnte, würde ich fliegen! 'wäre', 'hätte', 'würde' sind die wichtigsten Formen.",
+    t9_b1: "Konjunktiv II = würde + Infinitiv",
+    t9_b2: "Auch: wäre, hätte, könnte, möchte",
+    t9_inst: "Verbinde die Formen!",
+    t9_h1: "Das ist nicht real, sondern ein Wunsch.",
+    t9_h2: "Ich würde fliegen (wenn ich könnte).",
+    t9_l1: "ich bin", t9_r1: "ich wäre",
+    t9_l2: "ich habe", t9_r2: "ich hätte",
+    t9_l3: "ich spiele", t9_r3: "ich würde spielen",
+    t9_l4: "ich kann", t9_r4: "ich könnte",
+    t9_q: "Was zeigt Konjunktiv II?",
+    t9_qa: "Wünsche und Vorstellungen", t9_qb: "Was gerade passiert", t9_qc: "Was gestern war", t9_qd: "Was morgen kommt",
 
-    // T10: Präsens und Präteritum mit "sein"
-    t10_title: "'sein' im Präsens und Präteritum",
-    t10_text: "'Sein' ist ganz unregelmäßig! Im Präsens: ich bin, du bist. Im Präteritum: ich war, du warst. Das wichtigste Verb!",
-    t10_b1: "Präsens: bin, bist, ist",
-    t10_b2: "Präteritum: war, warst, waren",
-    t10_inst: "Wähle die richtige Form!",
-    t10_h1: "Im Präteritum: 'war'",
-    t10_h2: "Ich war glücklich.",
-    t10_sent: "Gestern ___ ich krank.",
-    t10_c1: "war", t10_c2: "bin", t10_c3: "werde", t10_c4: "gewesen",
-    t10_q: "Was ist das Präteritum von 'ich bin'?",
-    t10_qa: "ich war", t10_qb: "ich werde", t10_qc: "ich bin gewesen", t10_qd: "ich bist",
+    // T10: Plusquamperfekt - Die 'Vor-Vergangenheit'
+    t10_title: "Plusquamperfekt - Die älteste Vergangenheit",
+    t10_text: "Plusquamperfekt zeigt, welche Handlung ZUERST in der Vergangenheit passiert ist. Ich hatte gegessen, BEVOR ich ging. 'hatte' oder 'war' + Partizip.",
+    t10_b1: "hatte/war + Partizip II",
+    t10_b2: "Das älteste in der Geschichte.",
+    t10_inst: "Was passierte zuerst?",
+    t10_h1: "Die Vor-Vergangenheit ist noch älter!",
+    t10_h2: "Sie hatte gegessen (zuerst), dann verließ sie (später).",
+    t10_sent: "Bevor ich kam, ___ er bereits angekommen.",
+    t10_c1: "war", t10_c2: "ist", t10_c3: "wird", t10_c4: "wäre",
+    t10_q: "Was zeigt Plusquamperfekt?",
+    t10_qa: "Was zuerst passiert ist", t10_qb: "Was jetzt passiert", t10_qc: "Was später passiert", t10_qd: "Was immer passiert",
 
-    // T11: Hilfsverben im Perfekt (haben/sein)
-    t11_title: "Hilfsverben: haben und sein im Perfekt",
-    t11_text: "Für das Perfekt brauchen wir Hilfsverben. Bei den meisten Verben benutzen wir 'haben': 'Ich habe gespielt.' Bei Bewegungsverben nutzen wir 'sein': 'Ich bin gelaufen.'",
-    t11_b1: "Haben = Normalfall",
-    t11_b2: "Sein = Bewegung oder Zustandsänderung",
-    t11_inst: "Sortiere: haben oder sein?",
-    t11_h1: "Bewegung = sein. Alles andere = haben.",
-    t11_h2: "Ich bin gesprungen (Bewegung!), ich habe gegessen (keine Bewegung).",
-    t11_bh: "haben 🤝", t11_bs: "sein 🏃",
-    t11_i1: "habe gespielt", t11_i2: "bin gelaufen", t11_i3: "habe gegessen", t11_i4: "bin gekommen",
-    t11_q: "Welches Hilfsverb passt? 'Ich ___ gerannt.'",
-    t11_qa: "bin", t11_qb: "habe", t11_qc: "werde", t11_qd: "waren",
+    // T11: Passiv Präsens - Wer tut es?
+    t11_title: "Passiv Präsens",
+    t11_text: "Im Passiv ist nicht wichtig, WER etwas tut, sondern WAS getan wird. 'Der Brief wird geschrieben' (Passiv) vs 'Ich schreibe einen Brief' (Aktiv).",
+    t11_b1: "werden + Partizip II",
+    t11_b2: "Fokus auf die Handlung, nicht die Person.",
+    t11_inst: "Sortiere: Aktiv oder Passiv?",
+    t11_h1: "Wird etwas GETAN oder TUST du es?",
+    t11_h2: "Passiv: Das Essen wird gekocht. Aktiv: Mama kocht das Essen.",
+    t11_ba: "Aktiv (wer tut)", t11_bp: "Passiv (wird getan)",
+    t11_i1: "Der Film wird gezeigt", t11_i2: "Ich zeige den Film", t11_i3: "Die Stadt wird gebaut", t11_i4: "Der Lehrer erklart das",
+    t11_q: "Was ist ein Passivsatz?",
+    t11_qa: "werden + Partizip", t11_qb: "sein + Partizip", t11_qc: "haben + Partizip", t11_qd: "nur mit Verben",
 
-    // T12: Partizip II bilden
-    t12_title: "Das Partizip II",
-    t12_text: "Das Partizip II ist die dritte Form des Verbs. Im Perfekt brauchen wir diese Form. 'spielen' -> 'gespielt', 'laufen' -> 'gelaufen'.",
-    t12_b1: "ge- am Anfang, -t oder -en am Ende",
-    t12_b2: "machen -> gemacht, geben -> gegeben",
-    t12_inst: "Finde das Partizip II!",
-    t12_h1: "Denk an 'ge...t' oder 'ge...en'",
-    t12_h2: "Ich habe gemacht.",
-    t12_sent2: "Du hast ___.",
-    t12_c1: "gelacht", t12_c2: "gelache", t12_c3: "lache", t12_c4: "gelachte",
-    t12_q: "Was ist das Partizip II von 'schreiben'?",
-    t12_qa: "geschrieben", t12_qb: "geschreiben", t12_qc: "schreiben", t12_qd: "schreibe",
+    // T12: Zeitformen-Durcheinander
+    t12_title: "Alle Zeitformen mischen",
+    t12_text: "Jetzt wird es knifflig! Findest du alle Zeitformen durcheinander? Präsens, Präteritum, Perfekt, Futur, Konjunktiv - alles gemischt!",
+    t12_b1: "6 Zeitformen total.",
+    t12_b2: "Achte auf die Verb-Struktur!",
+    t12_inst: "Welche Zeitform ist das?",
+    t12_h1: "Denke an die Hilfsverben und Strukturen.",
+    t12_h2: "haben/sein + Partizip = Perfekt. werden + Infinitiv = Futur.",
+    t12_sent: "Der Hund ___ das ganze Tag gegeben.",
+    t12_c1: "hat", t12_c2: "hatte", t12_c3: "ist", t12_c4: "wird",
+    t12_q: "Was ist 'Ich werde spielen'?",
+    t12_qa: "Futur I", t12_qb: "Präteritum", t12_qc: "Konjunktiv", t12_qd: "Perfekt",
 
-    // T13: Plusquamperfekt Überblick
-    t13_title: "Das Plusquamperfekt",
-    t13_text: "Das Plusquamperfekt ist die 'Vorvergangenheit'. Wenn zwei Dinge in der Vergangenheit passieren, zeigt Plusquamperfekt, welches zuerst passiert ist. 'Ich hatte gegessen, bevor ich ging.'",
-    t13_b1: "Plusquamperfekt = noch älter!",
-    t13_b2: "Hilfsverb im Präteritum + Partizip II",
-    t13_inst: "Was passierte zuerst?",
-    t13_h1: "Plusquamperfekt = die älteste Vergangenheit.",
-    t13_h2: "Ich hatte gegessen (zuerst), dann ging ich (später).",
-    t13_sent3: "Bevor ich schwimmen ging, ___ ich bereits geduscht.",
-    t13_c1: "hatte", t13_c2: "habe", t13_c3: "werde", t13_c4: "bin",
-    t13_q: "Was ist die 'Vorvergangenheit'?",
-    t13_qa: "Das Plusquamperfekt", t13_qb: "Das Präteritum", t13_qc: "Das Präsens", t13_qd: "Das Perfekt",
+    // T13: Tempus-Wechsel in Sätzen
+    t13_title: "Wechsel der Zeitformen",
+    t13_text: "Manchmal wechselt die Zeit im Satz! 'Wenn ich könnte, würde ich fliegen.' Oder: 'Bevor ich kam, war er da.' Der Zeitwechsel hat eine Grund!",
+    t13_b1: "Zwei Zeitformen in einem Satz.",
+    t13_b2: "Grund: zeitliche Reihenfolge oder Bedingung.",
+    t13_inst: "Finde den Zeitwechsel!",
+    t13_h1: "Was passiert zuerst, was danach?",
+    t13_h2: "Er ist schon weg, bevor sie kommt.",
+    t13_sent2: "Wenn ich Geld hätte, ___ ich reisen.",
+    t13_c1: "würde", t13_c2: "werde", t13_c3: "bin", t13_c4: "habe",
+    t13_q: "Warum wechseln die Zeitformen in einem Satz?",
+    t13_qa: "Zu zeigen, was zuerst/später ist", t13_qb: "Zufällig", t13_qc: "Um zu verwirren", t13_qd: "Es ist ein Fehler",
 
-    // T14: Alle Zeitformen überblicken
-    t14_title: "Alle Zeitformen im Überblick",
-    t14_text: "Präsens (jetzt) → Perfekt (gerade vorbei) → Präteritum (früher erzählt) → Plusquamperfekt (noch früher). Jede Zeitform hat ihren Platz!",
-    t14_b1: "6 Zeitformen insgesamt.",
-    t14_b2: "Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I, Futur II.",
-    t14_inst: "Ordne die Zeitformen chronologisch!",
-    t14_h1: "Was ist am ältesten? Plusquamperfekt!",
-    t14_h2: "Plusquamperfekt → Präteritum → Perfekt → Präsens → Futur",
-    t14_o1: "Präsens", t14_o2: "Perfekt", t14_o3: "Präteritum",
-    t14_q: "Welche Zeitform beschreibt etwas, das gerade vorbei ist?",
-    t14_qa: "Das Perfekt", t14_qb: "Das Präteritum", t14_qc: "Das Präsens", t14_qd: "Das Plusquamperfekt",
+    // T14: Erzählzeit vs. Berichtszeit
+    t14_title: "Erzählung vs. Bericht",
+    t14_text: "Im Märchen nutzt man Präteritum (Erzählzeit). Im Bericht nutzt man Präsens oder Perfekt (Berichtszeit). 'Es war einmal...' vs 'Heute ist...'",
+    t14_b1: "Erzählung: Präteritum",
+    t14_b2: "Bericht: Präsens / Perfekt",
+    t14_inst: "Ist das eine Erzählung oder ein Bericht?",
+    t14_h1: "Märchen = Präteritum. Nachrichten = Präsens.",
+    t14_h2: "Es war einmal = Erzählung. Der Fußball ist rund = Bericht.",
+    t14_be: "Erzahlung", t14_bb: "Bericht",
+    t14_i1: "Es war einmal ein Prinz.", t14_i2: "Der Baum hat gruene Blatter.", t14_i3: "Die Sonne scheint hell.", t14_i4: "Der Konig rief seinen Sohn.",
+    t14_q: "Welche Zeit nutzen Märchen?",
+    t14_qa: "Präteritum", t14_qb: "Präsens", t14_qc: "Perfekt", t14_qd: "Futur",
 
-    // T15: Zeit-Meister-Finale
-    t15_title: "Du bist ein Zeit-Profi!",
-    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Zeitformen und weißt, wann du sie benutzt. Du bist bereit, zeitlich richtig zu erzählen!",
-    t15_b1: "Alle Zeitformen gelernt.",
-    t15_b2: "Du schaffst jedes Verb!",
-    t15_inst: "Was ist das Präteritum von 'geben'?",
-    t15_h1: "Das ist ein unregelmäßiges Verb.",
-    t15_h2: "geben → gab (Vokalwechsel!)",
-    t15_sent4: "Der Lehrer ___ mir ein Buch.",
-    t15_c1: "gab", t15_c2: "gibt", t15_c3: "gegeben", t15_c4: "gabt",
-    t15_q: "Welche Zeitform zeigt die älteste Vergangenheit?",
-    t15_qa: "Das Plusquamperfekt", t15_qb: "Das Präteritum", t15_qc: "Das Perfekt", t15_qd: "Die Vorzeit",
+    // T15: Der Zeit-Champion!
+    t15_title: "Der Zeit-Champion!",
+    t15_text: "Herzlichen Glückwunsch! Du hast alle Zeitformen gelernt. Du kannst jetzt in jede Zeit reisen und jede Geschichte erzählen!",
+    t15_b1: "Alle 6 Zeitformen perfekt!",
+    t15_b2: "Du schaffst jede Zeitaufgabe!",
+    t15_inst: "Welche Form zeigt die Zukunft?",
+    t15_h1: "Morgen, nächste Woche, später...",
+    t15_h2: "Futur I: werden + Infinitiv",
+    t15_sent3: "Ich ___ dich besuchen, wenn ich Zeit habe.",
+    t15_c1: "werde", t15_c2: "bin", t15_c3: "war", t15_c4: "habe",
+    t15_q: "Wie heißt die älteste Vergangenheit?",
+    t15_qa: "Plusquamperfekt", t15_qb: "Präteritum", t15_qc: "Perfekt", t15_qd: "Präsens",
   }
 };
 
@@ -2079,6 +2080,153 @@ export const ZEITFORM_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "praeteritum" },
+  },
+
+  // ── 8. Futur I - Die Zukunft (gap-fill) ───────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "werden", emoji: "🔮", color: "#10B981", bg: "#D1FAE5" }, { text: "spielen", emoji: "⚽", color: "#0EA5E9", bg: "#CFFAFE" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 1, // werden fahren
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Konjunktiv II - Wünsche (match-pairs) ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["bin", "wäre"], ["habe", "hätte"]], color: "#EC4899" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_l1", right: "t9_r1" },
+        { left: "t9_l2", right: "t9_r2" },
+        { left: "t9_l3", right: "t9_r3" },
+        { left: "t9_l4", right: "t9_r4" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Plusquamperfekt - Vor-Vergangenheit (gap-fill) ──────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "compound-word", word1: "hatte", word2: "gegessen", result: "Plusquamperfekt", color: "#8B5CF6" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0, // war
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Passiv Präsens (drag-to-bucket) ───────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "two-groups", left: { items: ["Die Stadt", "wird", "gebaut"], bg: "#FEE2E2", border: "#EF4444" }, right: { items: ["Der Arbeiter", "baut", "die Stadt"], bg: "#DBEAFE", border: "#3B82F6" } },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "active", label: "t11_ba" }, { id: "passive", label: "t11_bp" }],
+      items: [
+        { text: "t11_i1", bucketId: "passive" },
+        { text: "t11_i2", bucketId: "active" },
+        { text: "t11_i3", bucketId: "passive" },
+        { text: "t11_i4", bucketId: "active" },
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Alle Zeitformen durcheinander (highlight-text) ────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🌀", label: "Alle Zeiten!" }] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent",
+      choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"],
+      correctIndex: 0, // hat
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Zeitwechsel in Sätzen (sentence-build) ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [{ emoji: "⏰", label: "Zeitwechsel" }] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t13_sent2",
+      choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"],
+      correctIndex: 0, // würde
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Erzählung vs. Bericht (drag-to-bucket) ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "two-groups", left: { items: ["Es war einmal"], bg: "#FEF3C7", border: "#D97706" }, right: { items: ["Der Baum ist gruen"], bg: "#DBEAFE", border: "#3B82F6" } },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "erzahl", label: "t14_be" }, { id: "bericht", label: "t14_bb" }],
+      items: [
+        { text: "t14_i1", bucketId: "erzahl" },
+        { text: "t14_i2", bucketId: "bericht" },
+        { text: "t14_i3", bucketId: "bericht" },
+        { text: "t14_i4", bucketId: "erzahl" },
+      ],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Der Zeit-Champion! (word-order) ─────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Zeit-Champion" }] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent3",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0, // werde
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
   },
 ];
 
