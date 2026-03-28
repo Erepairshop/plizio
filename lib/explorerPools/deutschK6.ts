@@ -127,9 +127,12 @@ export const PASSIV6_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Passiv Perfekt", t10_text: "sein + Partizip II + worden.", t10_inst: "Richtig?", t10_h1: "ist geworden.", t10_h2: "Das Auto ist repariert worden.", t10_q: "Perfekt Passiv?", t10_c1: "ja", t10_c2: "nein",
     t11_title: "Passiv + Modalverb", t11_text: "Modalverb + Partizip II + werden.", t11_inst: "Modalverb?", t11_h1: "muss, kann, darf.", t11_h2: "Das muss gemacht werden.", t11_q: "Welches?", t11_c1: "muss", t11_c2: "ist",
     t12_title: "Vorgangs vs Zustands", t12_text: "wird = Aktion, ist = Zustand.", t12_inst: "Welche Art?", t12_h1: "Der Tisch wird gedeckt (Aktion).", t12_h2: "Der Tisch ist gedeckt (Zustand).", t12_b1: "Aktion", t12_b2: "Zustand", t12_i1: "wird", t12_i2: "ist",
+    t12_q: "Was zeigt Vorgangspassiv?", t12_c1: "Aktion", t12_c2: "Zustand",
     t13_title: "Agensangabe", t13_text: "Die 'von'-Angabe zeigt den Täter.", t13_inst: "Mit oder ohne?", t13_h1: "Das Auto wird repariert (ohne).", t13_h2: "Das Auto wird vom Mechaniker repariert (mit).", t13_q: "Besser?", t13_c1: "ohne", t13_c2: "mit",
     t14_title: "Infinitiv Passiv", t14_text: "zu + Partizip II + werden.", t14_inst: "Ordne!",  t14_h1: "Das Haus ist zu renovieren.", t14_h2: "zu + Partizip.", t14_o1: "Das", t14_o2: "Haus", t14_o3: "ist", t14_o4: "zu",
+    t14_q: "Infinitiv Passiv Form?", t14_c1: "zu + Partizip", t14_c2: "werden + Infinitiv",
     t15_title: "Aktiv statt Passiv", t15_text: "Aktiv ist oft klarer.", t15_inst: "Besser?", t15_h1: "Aktiv: Ich erkläre.", t15_h2: "Passiv: Es wird erklärt.", t15_b1: "Aktiv", t15_b2: "Passiv", t15_i1: "Der Lehrer erklärt.", t15_i2: "Der Stoff wird erklärt.",
+    t15_q: "Was ist oft klarer?", t15_c1: "Aktiv", t15_c2: "Passiv",
   }
 };
 
@@ -314,9 +317,11 @@ export const KONJ2_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Konditionale", t10_text: "wenn...würde...dann.", t10_inst: "Ergänze!",  t10_h1: "würde = Konjunktiv II.", t10_h2: "Wenn ich Zeit hätte, würde ich reisen.", t10_q: "Welches Form?", t10_c1: "würde", t10_c2: "wird",
     t11_title: "Höfliche Bitte", t11_text: "Konjunktiv II = höflicher.", t11_inst: "Höflicher machen!", t11_h1: "Könntest du...?", t11_h2: "würdest / könntest.", t11_q: "Welches?", t11_c1: "könntest", t11_c2: "kannst",
     t12_title: "Ach wenn...", t12_text: "Wünsche mit Konjunktiv II.", t12_inst: "Welche ist Wunsch?", t12_h1: "Ach wenn ich fliegen könnte!", t12_h2: "Wunsch = hätte, wäre, würde.", t12_b1: "Wunsch", t12_b2: "Realität", t12_i1: "Ach wenn...", t12_i2: "Ich bin.",
+    t12_q: "Was ist ein Konjunktiv II Wunsch?", t12_c1: "hätte", t12_c2: "hat",
     t13_title: "Vorschlag machen", t13_text: "würde = Vorschlag.", t13_inst: "Welcher Vorschlag?", t13_h1: "Ich würde vorschlagen.", t13_h2: "würde + Infinitiv.", t13_q: "Welches?", t13_c1: "würde", t13_c2: "will",
     t14_title: "Irreale Gegenwart", t14_text: "würde + Infinitiv = jetzt nicht möglich.", t14_inst: "Richtig?", t14_h1: "Ich würde gern schlafen.", t14_h2: "würde = nicht möglich.", t14_q: "Korrekt?", t14_c1: "ja", t14_c2: "nein",
     t15_title: "Konjunktiv Perfekt", t15_text: "hätte / wäre + Partizip II.", t15_inst: "Ordne!", t15_h1: "Wenn ich das gewusst hätte.", t15_h2: "hätte + Partizip.", t15_o1: "Hätte", t15_o2: "ich", t15_o3: "das", t15_o4: "gewusst",
+    t15_q: "Konjunktiv Perfekt mit was?", t15_c1: "hätte/wäre", t15_c2: "wurde",
   }
 };
 
@@ -503,9 +508,12 @@ export const INFINITIV6_LABELS: Record<string, Record<string, string>> = {
     t10_title: "gehen zu + Infinitiv", t10_text: "'gehen zu' = nahe Zukunft.", t10_inst: "Zeitform?", t10_h1: "gehe zu machen.", t10_h2: "Das bedeutet: bald.", t10_q: "Zeitform?", t10_c1: "zukunft", t10_c2: "vergangenheit",
     t11_title: "haben/sein zu", t11_text: "'haben/sein zu' = Notwendigkeit.", t11_inst: "Bedeutung?", t11_h1: "Das ist zu essen.", t11_h2: "Muss / darf / kann.", t11_q: "Was?", t11_c1: "notwendig", t11_c2: "unmöglich",
     t12_title: "statt/anstatt zu", t12_text: "'Anstatt zu' = anstelle von.", t12_inst: "Welcher?", t12_h1: "Anstatt zu schlafen spielte er.", t12_h2: "statt zu = nicht zu.", t12_b1: "anstatt", t12_b2: "normal", t12_i1: "spielen statt lernen", t12_i2: "lernen",
+    t12_q: "Was bedeutet 'anstatt zu'?", t12_c1: "anstelle von", t12_c2: "zusätzlich",
     t13_title: "drohen/pflegen zu", t13_text: "'drohen zu' = Gefahr; 'pflegen zu' = gewöhnlich.", t13_inst: "Welcher Sinn?", t13_h1: "Das Haus droht einzubrechen.", t13_h2: "Gefahr / gewöhnlich.", t13_q: "Welcher?", t13_c1: "droht", t13_c2: "pflegt",
     t14_title: "Partizip + zu", t14_text: "'Das ist zu sehen' = kann gesehen werden.", t14_inst: "Ordne!", t14_h1: "Das Buch ist zu lesen.", t14_h2: "sein + Partizip + zu.", t14_o1: "Das", t14_o2: "ist", t14_o3: "zu", t14_o4: "lesen",
+    t14_q: "'Das ist zu lesen' bedeutet?", t14_c1: "kann gelesen werden", t14_c2: "wird gelesen",
     t15_title: "Präposition + zu + Infinitiv", t15_text: "'beim Lesen', 'zum Spielen'.", t15_inst: "Richtig?", t15_h1: "beim Lesen, zum Schreiben.", t15_h2: "Präposition + zu + Infinitiv.", t15_b1: "mit zu", t15_b2: "ohne zu", t15_i1: "beim laufen", t15_i2: "laufen",
+    t15_q: "Welche Form ist korrekt?", t15_c1: "beim Laufen", t15_c2: "beim laufen",
   }
 };
 
@@ -694,9 +702,12 @@ export const SYN_ANT_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Metaphern", t10_text: "Bildhafte Wörter.", t10_inst: "Bild?", t10_h1: "Ohne 'wie'.", t10_h2: "Das Herz des Waldes.", t10_q: "Metapher?", t10_c1: "ja", t10_c2: "nein",
     t11_title: "Syn. im Kontext", t11_text: "Nuancen.", t11_inst: "Besser?", t11_h1: "groß / riesig.", t11_h2: "Kontext.", t11_q: "Passt?", t11_c1: "riesig", t11_c2: "groß",
     t12_title: "Ant. erweitert", t12_text: "Mehr Gegenteile.", t12_inst: "Gegenteil?", t12_h1: "Tag - Nacht.", t12_h2: "Gegensatz.", t12_b1: "Gegenteil", t12_b2: "Normal", t12_i1: "Licht", t12_i2: "Hell",
+    t12_q: "Was ist das Gegenteil von 'Licht'?", t12_c1: "Dunkel", t12_c2: "Hell",
     t13_title: "Bedeutungs-Nuancen", t13_text: "Gefühlsunterschiede.", t13_inst: "Gefühl?", t13_h1: "billig vs günstig.", t13_h2: "Schatten.", t13_q: "Gefühl?", t13_c1: "negativ", t13_c2: "positiv",
     t14_title: "Wortfamilienvergleich", t14_text: "Verwandte Synonyme.", t14_inst: "Ordne!", t14_h1: "lachen - lächeln.", t14_h2: "Familie.", t14_o1: "lachen", t14_o2: "lächeln", t14_o3: "grinsen", t14_o4: "",
+    t14_q: "Welche Wörter sind verwandt?", t14_c1: "lachen/lächeln", t14_c2: "laufen/sitzen",
     t15_title: "Kontrastive Analyse", t15_text: "Unterschiede klar.", t15_inst: "Unterschied?", t15_h1: "alt: Mensch vs Zeit.", t15_h2: "Kontext.", t15_b1: "Mensch", t15_b2: "Zeit", t15_i1: "alt", t15_i2: "antik",
+    t15_q: "Was passt eher für einen alten Menschen?", t15_c1: "alt", t15_c2: "antik",
   }
 };
 
@@ -842,9 +853,12 @@ export const FREMD5_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Lat. Präfixe", t10_text: "Latin prefixes.", t10_inst: "Prefix?", t10_h1: "pre-, post-, super-.", t10_h2: "Before, after, above.", t10_q: "Meaning?", t10_c1: "before", t10_c2: "after",
     t11_title: "Gr. Suffixe", t11_text: "Greek suffixes.", t11_inst: "Suffix?", t11_h1: "-log, -phon, -scope.", t11_h2: "Word, sound, view.", t11_q: "What?", t11_c1: "sound", t11_c2: "view",
     t12_title: "Akronyme", t12_text: "Abbreviated words.", t12_inst: "Acronym?", t12_h1: "NATO, RADAR.", t12_h2: "Short forms.", t12_b1: "Acronym", t12_b2: "Normal", t12_i1: "NATO", t12_i2: "Organization",
+    t12_q: "Was ist ein Akronym?", t12_c1: "Abkürzung", t12_c2: "Fremdwort",
     t13_title: "Fremdwort-Ursprung", t13_text: "Word origins.", t13_inst: "From where?", t13_h1: "From Latin / Greek.", t13_h2: "Origins matter.", t13_q: "Origin?", t13_c1: "latin", t13_c2: "greek",
     t14_title: "Assimilation", t14_text: "Words change in new language.", t14_inst: "Order!", t14_h1: "English, Latin, French.", t14_h2: "Language change.", t14_o1: "Fremd", t14_o2: "Wort", t14_o3: "Anpassung", t14_o4: "",
+    t14_q: "Was ist Assimilation bei Fremdwörtern?", t14_c1: "Anpassung", t14_c2: "Übersetzung",
     t15_title: "Stil-Register", t15_text: "Formal vs informal.", t15_inst: "Register?", t15_h1: "Fremdwörter = formal.", t15_h2: "Context matters.", t15_b1: "Formal", t15_b2: "Informal", t15_i1: "Automobile", t15_i2: "Auto",
+    t15_q: "Welches ist formaler?", t15_c1: "Automobile", t15_c2: "Auto",
   }
 };
 
@@ -1443,12 +1457,27 @@ export const EXAM6_LABELS: Record<string, Record<string, string>> = {
     t9_ml9: "Vorgänger", t9_mr9: "Nachfolger",
     t9_ml10: "Aktiv", t9_mr10: "Passiv",
     t9_ml11: "Realität", t9_mr11: "Wunsch",
-    t10_title: "Exam Mix 10", t10_text: "Zusammenfassung.", t10_inst: "Frage?", t10_h1: "K6.", t10_h2: "Exam.", t10_q: "Richtig?", t10_c1: "ja", t10_c2: "nein",
-    t11_title: "Exam Mix 11", t11_text: "Review.", t11_inst: "Test?", t11_h1: "K6.", t11_h2: "Review.", t11_q: "Correct?", t11_c1: "yes", t11_c2: "no",
-    t12_title: "Exam Mix 12", t12_text: "Final Test.", t12_inst: "Question?", t12_h1: "K6.", t12_h2: "Final.", t12_b1: "Option 1", t12_b2: "Option 2", t12_i1: "A", t12_i2: "B",
-    t13_title: "Exam Mix 13", t13_text: "Test.", t13_inst: "Q?", t13_h1: "Final.", t13_h2: "Test.", t13_q: "Q?", t13_c1: "A", t13_c2: "B",
-    t14_title: "Exam Mix 14", t14_text: "Order.", t14_inst: "Sort!",  t14_h1: "Order.", t14_h2: "Test.", t14_o1: "A", t14_o2: "B", t14_o3: "C", t14_o4: "",
-    t15_title: "Exam Mix 15", t15_text: "Final.", t15_inst: "Last?", t15_h1: "K6.", t15_h2: "Final.", t15_b1: "Option 1", t15_b2: "Option 2", t15_i1: "A", t15_i2: "B",
+    t10_title: "Aktiv-Passiv Wiederholung", t10_text: "Sortiere die Sätze in Aktiv und Passiv.", t10_inst: "Ziehe in den richtigen Eimer!", t10_h1: "Aktiv: Jemand tut etwas.", t10_h2: "Passiv: Etwas passiert (wird ...).",
+    t10_b1: "Aktiv 🏃", t10_b2: "Passiv 📦",
+    t10_i1: "Der Schüler löst die Aufgabe.", t10_i2: "Die Aufgabe wird gelöst.",
+    t10_q: "Was ist Passiv?", t10_c1: "wird + Partizip II", t10_c2: "Subjekt + Verb", t10_c3: "nur Infinitiv", t10_c4: "haben + Partizip II",
+    t11_title: "Konjunktiv II Erkennen", t11_text: "Treffe die Konjunktiv-II-Formen!", t11_inst: "Schieße auf die Konjunktiv-II-Wörter!", t11_h1: "Wünsche und Irreales: wäre, hätte, würde.", t11_h2: "Indikativ: hat, ist – Konjunktiv: hätte, wäre.",
+    t11_q: "Welche Wörter stehen im Konjunktiv II?",
+    t11_t1: "würde", t11_t2: "könnte", t11_t3: "hat", t11_t4: "macht",
+    t11_c1: "würde", t11_c2: "könnte", t11_c3: "hat", t11_c4: "macht",
+    t12_title: "Finalsatz mit damit", t12_text: "Verbinde Hauptsatz und Ziel mit 'damit'.", t12_inst: "Bringe die Satzteile in die richtige Reihenfolge!", t12_h1: "Ich lerne, damit ich gute Noten bekomme.", t12_h2: "'damit' leitet den Finalsatz ein.",
+    t12_f1: "Ich übe,", t12_f2: "damit", t12_f3: "ich besser", t12_f4: "werde.",
+    t12_q: "Was leitet einen Finalsatz ein?", t12_c1: "damit", t12_c2: "weil", t12_c3: "obwohl", t12_c4: "wenn",
+    t13_title: "Synonyme nach Stärke", t13_text: "Ordne die Wörter von schwach nach stark.", t13_inst: "Staple die Synonyme in der richtigen Reihenfolge!", t13_h1: "lächeln → lachen → brüllen.", t13_h2: "Achte auf die Intensität.",
+    t13_w1: "lächeln", t13_w2: "lachen", t13_w3: "brüllen",
+    t13_q: "Welches Wort ist am intensivsten?", t13_c1: "lächeln", t13_c2: "lachen", t13_c3: "brüllen", t13_c4: "schweigen",
+    t14_title: "Fremdwörter mit qu", t14_text: "Erkenne das Wort mit der lateinischen Schreibweise.", t14_inst: "Markiere das Fremdwort mit 'qu'!", t14_h1: "Qualität schreibt man mit qu.", t14_h2: "Suche nach qu, nicht kw.",
+    t14_w1: "Das", t14_w2: "Ergebnis", t14_w3: "hat", t14_w4: "hohe", t14_w5: "Qualität.",
+    t14_q: "Welche Schreibweise ist korrekt?", t14_c1: "Kwalität", t14_c2: "Qualität", t14_c3: "Qualiteet", t14_c4: "Qualitaet",
+    t15_title: "Relativsatz mit die", t15_text: "Wähle das passende Relativpronomen für ein feminines Nomen.", t15_inst: "Ergänze das Relativpronomen!", t15_h1: "Die Erde (feminin) → die.", t15_h2: "'die' als Relativpronomen steht nach femininen Nomen.",
+    t15_sent: "Das ist die Erde, ___ sich dreht.",
+    t15_cr1: "der", t15_cr2: "die", t15_cr3: "das", t15_cr4: "den",
+    t15_q: "Welches Relativpronomen passt zu 'die Erde'?", t15_c1: "der", t15_c2: "das", t15_c3: "den", t15_c4: "die",
   }
 };
 
