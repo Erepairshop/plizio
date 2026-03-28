@@ -1422,6 +1422,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       return (
                         <PhysicsMagnetGame
                           pairs={magnetPairs}
+                          lang={langCode}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );

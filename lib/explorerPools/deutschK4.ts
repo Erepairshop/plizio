@@ -182,11 +182,12 @@ export const KASUS_LABELS: Record<string, Record<string, string>> = {
     // T7: Magnet-Challenge (Physics!)
     t7_title: "Magnet-Jagd",
     t7_text: "Bist du bereit für die Physik-Challenge? Ziehe alle Wörter, die im Akkusativ stehen, in das Ziel!",
-    t7_b1: "Suche nach 'den', 'die' vagy 'das' als Objekt.",
-    t7_inst: "Sammle die Akkusativ-Objekte mit dem Magneten!",
+    t7_b1: "Suche nach 'den', 'die' oder 'das' als Objekt.",
+    t7_inst: "Ziehe die Akkusativ-Wörter in die richtige Box!",
     t7_h1: "Frage 'Wen oder was?'.",
     t7_h2: "den Ball, den Brief, die Blume.",
     t7_target: "Akkusativ 🧲",
+    t7_nom: "Nominativ",
     t7_m1: "den Ball", t7_m2: "den Brief", t7_m3: "der Hund", t7_m4: "das Haus (Akk)",
     // Quiz: GENERATOR (akkusativ)
   }
@@ -262,12 +263,12 @@ export const KASUS_POOL: PoolTopicDef[] = [
     bulletKeys: ["t5_b1", "t5_b2"],
     interactive: {
       type: "drag-to-bucket",
-      buckets: [{ id: "n", label: "t5_h2" }, { id: "a", label: "t5_h2" }], // simplified labels
+      buckets: [{ id: "n", label: "t5_b1" }, { id: "a", label: "t5_b2" }],
       items: [
-        { text: "t5_i1", bucketId: "n" },
-        { text: "t5_i2", bucketId: "a" },
-        { text: "t5_i3", bucketId: "n" },
-        { text: "t5_i4", bucketId: "a" },
+        { text: "t5_i5_1", bucketId: "n" },
+        { text: "t5_i5_2", bucketId: "a" },
+        { text: "t5_i5_3", bucketId: "n" },
+        { text: "t5_i5_4", bucketId: "a" },
       ],
       instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2",
     },
@@ -293,8 +294,14 @@ export const KASUS_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧲", title: "Akkusativ-Suche", bg: "#F1F5F9" },
     bulletKeys: ["t7_b1"],
     interactive: {
-      type: "physics-magnet",
-      pairs: [{ left: "t7_m1", right: "t7_m3" }, { left: "t7_m2", right: "t7_m3" }, { left: "t7_m4", right: "t7_m3" }],
+      type: "drag-to-bucket",
+      buckets: [{ id: "akk", label: "t7_target" }, { id: "nom", label: "t7_nom" }],
+      items: [
+        { text: "t7_m1", bucketId: "akk" },
+        { text: "t7_m2", bucketId: "akk" },
+        { text: "t7_m3", bucketId: "nom" },
+        { text: "t7_m4", bucketId: "akk" },
+      ],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "akkusativ" },
