@@ -401,6 +401,92 @@ export const DATIV_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Achte auf die typischen Dativ-Endungen.",
     t7_h2: "dem Baum, der Frau, mir.",
     t7_i1: "dem Baum", t7_i2: "der Frau", t7_i3: "mir", t7_i4: "den Hund (Akk)",
+
+    // T8: Dativ-Präpositionen (mit, bei, nach)
+    t8_title: "Dativ-Präpositionen",
+    t8_text: "Mit, bei, nach, von, zu brauchen immer Dativ! mit meinem Freund, bei meiner Oma, nach der Schule.",
+    t8_b1: "Mit, bei, nach + Dativ",
+    t8_b2: "Präposition zeigt den Fall",
+    t8_inst: "Wähle die richtige Dativ-Form!",
+    t8_h1: "Nach welcher Präposition kommt Dativ?",
+    t8_h2: "Nach der Schule, bei dem Arzt",
+    t8_sent8: "Ich treffe mich ___ meinen Freunden.",
+    t8_c8_1: "mit den", t8_c8_2: "mit den", t8_c8_3: "den", t8_c8_4: "zu den",
+
+    // T9: Dativ-Pronomen
+    t9_title: "Dativ-Pronomen (mir, dir, ihm, ihr)",
+    t9_text: "Pronomen verändern sich auch im Dativ! ich➔mir, du➔dir, er➔ihm, sie➔ihr, es➔ihm.",
+    t9_b1: "Pronomen ändern sich im Dativ",
+    t9_b2: "mir, dir, ihm, ihr, uns, euch",
+    t9_inst: "Welches Pronomen passt?",
+    t9_h1: "Ich danke DIR (nicht dich!)",
+    t9_h2: "Mir ist kalt.",
+    t9_sent9: "Ich helfe ___.",
+    t9_c9_1: "dir", t9_c9_2: "dich", t9_c9_3: "du", t9_c9_4: "dein",
+
+    // T10: Wo? Dativ des Ortes
+    t10_title: "Wo? (Dativ des Ortes)",
+    t10_text: "Wenn wir fragen 'Wo?' (Ort), benutzen wir Dativ. Auf dem Tisch (Wo?), neben dem Baum (Wo?).",
+    t10_b1: "Wo? ➔ Dativ (fester Ort)",
+    t10_b2: "Wohin? ➔ Akkusativ (Richtung/Ziel)",
+    t10_inst: "Wähle die Dativ-Form!",
+    t10_h1: "Wo sitzt die Katze?",
+    t10_h2: "Auf dem Sofa",
+    t10_sent10: "Das Bild hängt ___ Wand.",
+    t10_c10_1: "an der", t10_c10_2: "an die", t10_c10_3: "auf der", t10_c10_4: "in der",
+
+    // T11: Verben mit Dativ
+    t11_title: "Verben mit Dativ",
+    t11_text: "Manche Verben brauchen ein Dativ-Objekt! danken, helfen, geben, zeigen. 'Ich danke DIR.'",
+    t11_b1: "danken, helfen, geben brauchen Dativ",
+    t11_b2: "nicht Akkusativ!",
+    t11_inst: "Finde das Dativ-Objekt!",
+    t11_h1: "Welches Verb braucht Dativ?",
+    t11_h2: "Ich helfe dem Lehrer.",
+    t11_w1: "Die Lehrerin", t11_w2: "hilft", t11_w3: "dem Schüler", t11_w4: ".",
+
+    // T12: Dativ-Sätze bauen
+    t12_title: "Sätze mit Dativ",
+    t12_text: "Sätze mit Dativ-Objekten: 'Anna gibt IHRER FREUNDIN ein Buch.' Wem? Der Freundin (Dativ).",
+    t12_b1: "Nominativ + Verb + Dativ",
+    t12_b2: "Normale Satzstruktur mit Dativ",
+    t12_inst: "Baue den Satz im Dativ zusammen!",
+    t12_h1: "Wem? Das ist Dativ!",
+    t12_h2: "Der Junge zeigt dem Mädchen sein Spielzeug.",
+    t12_f1: "Der Junge", t12_f2: "zeigt", t12_f3: "dem Mädchen", t12_f4: "sein Spielzeug.",
+
+    // T13: Dativ oder Akkusativ?
+    t13_title: "Dativ vs. Akkusativ",
+    t13_text: "Manche Präpositionen sind flexibel! 'auf' kann beides sein: Wo? (Dativ) oder Wohin? (Akkusativ). auf dem Stuhl (Dativ) vs. auf den Stuhl (Akkusativ).",
+    t13_b1: "in, auf, unter sind flexibel",
+    t13_b2: "Wo? Dativ / Wohin? Akkusativ",
+    t13_inst: "Ist es Dativ oder Akkusativ?",
+    t13_h1: "Frag: Wo oder Wohin?",
+    t13_h2: "Auf dem Stuhl = Wo = Dativ",
+    t13_sent13: "Der Hund springt ___ das Sofa.",
+    t13_c13_1: "auf das", t13_c13_2: "auf dem", t13_c13_3: "in das", t13_c13_4: "in dem",
+
+    // T14: Dativ-Spezialfall Pronomen
+    t14_title: "Dativ-Pronomen auswendig",
+    t14_text: "Dativ-Pronomen sind wichtig! ich→mir, du→dir, er→ihm, sie→ihr, es→ihm, wir→uns, ihr→euch, sie→ihnen.",
+    t14_b1: "Alle Dativ-Pronomen lernen",
+    t14_b2: "Nicht mit Nominativ verwechseln",
+    t14_inst: "Welches Pronomen ist im Dativ?",
+    t14_h1: "Dativ = mir, dir, ihm, ihr, uns, euch, ihnen",
+    t14_h2: "Ich danke IHNEN (nicht sie!)",
+    t14_sent14: "Der Lehrer erklärt ___ den Stoff.",
+    t14_c14_1: "uns", t14_c14_2: "wir", t14_c14_3: "unsere", t14_c14_4: "unse",
+
+    // T15: Dativ-Profi
+    t15_title: "Du bist ein Dativ-Profi!",
+    t15_text: "Du kennst Dativ-Artikel, Dativ-Pronomen, Dativ-Präpositionen und Dativ-Verben. Du beherrschst den Dativ komplett!",
+    t15_b1: "Alle Dativ-Regeln gelernt",
+    t15_b2: "Artikel, Pronomen, Präpositionen, Verben",
+    t15_inst: "Zeige dein Dativ-Wissen!",
+    t15_h1: "Wem? Das ist immer Dativ!",
+    t15_h2: "dem Mann, mir, mit dir, helfen",
+    t15_sent15: "Anna schenkt ___ eine Kette.",
+    t15_c15_1: "ihrer Mutter", t15_c15_2: "ihre Mutter", t15_c15_3: "ihren Mutter", t15_c15_4: "ihr Mutter",
   }
 };
 
@@ -518,6 +604,139 @@ export const DATIV_POOL: PoolTopicDef[] = [
         { text: "t7_i4", bucketId: "wrong" },
       ],
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 8. Dativ-Präpositionen (gap-fill) ──────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [{ text: "mit, bei, nach + Dativ", color: "#1D4ED8", bg: "#DBEAFE" }] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent8",
+      choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 9. Dativ-Pronomen (gap-fill) ───────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["ich", "mir"], ["du", "dir"], ["er", "ihm"]], color: "#10B981" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent9",
+      choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 10. Wo? Dativ-Ort (gap-fill) ───────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "📍", title: "Wo? (Dativ)", bg: "#FEE2E2" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent10",
+      choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 11. Verben mit Dativ (highlight-text) ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "danken, helfen, geben", color: "#8B5CF6", bg: "#EDE9FE" }] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [2], // dem Schüler
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 12. Dativ-Sätze (sentence-build) ───────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "👤➡️👤", title: "Dativ-Satz", bg: "#E0F2FE" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t12_f1", "t12_f2", "t12_f3", "t12_f4"],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 13. Dativ vs. Akkusativ (gap-fill) ─────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "word-display", word: "Wo? (Dat) Wohin? (Akk)", highlightChars: ["W"], color: "#F59E0B" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t13_sent13",
+      choices: ["t13_c13_1", "t13_c13_2", "t13_c13_3", "t13_c13_4"],
+      correctIndex: 0,
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 14. Dativ-Pronomen Vertiefung (gap-fill) ───────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "🎯", title: "mir, dir, ihm...", bg: "#FEFCE8" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent14",
+      choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 15. Dativ-Profi (gap-fill) ────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent15",
+      choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
     },
     quiz: { generate: "dativ" },
   },
