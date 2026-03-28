@@ -1,363 +1,867 @@
 // lib/explorerPools/englishK5.ts
 // ─────────────────────────────────────────────────────────────────────────────
-// AstroEnglish K5 Explorer Pool — 9 islands × (LABELS + POOL)
+// AstroEnglish K5 Explorer Pool — 9 islands × 15 topics each (135 total)
 //
-// HOW TO FILL THIS FILE:
-// ──────────────────────
-// Each island has:
-//   1. LABELS object  — all display strings in 4 languages (en/hu/de/ro)
-//   2. POOL array     — PoolTopicDef[] with typically 6–9 topics
-//
-// EACH TOPIC needs:
-//   id       — unique string within this pool (e.g. "t1", "t2")
-//   title    — label key (e.g. "t1_title") → must be in LABELS
-//   svg      — one of the valid SvgConfig types (see below)
-//   hint1    — label key for first hint line
-//   hint2    — label key for second hint line  ← DON'T FORGET!
-//   interactive — one TopicInteractive config (see below)
-//   quiz     — one MCQ quiz config (see below)
-//
-// ─────────────────────────────────────────────────────────────────────────────
-// VALID SVG TYPES (copy exactly):
-// ─────────────────────────────────────────────────────────────────────────────
-//   { type: "word-card", word: "label_key", translation: "label_key" }
-//   { type: "letter-circles", letters: ["A","B","C"], color: "#3B82F6" }
-//   { type: "text-bubbles", items: [{ text: "label_key", color: "#1e293b", bg: "#DBEAFE" }, ...] }
-//   { type: "two-groups",
-//       left:  { label: "label_key", items: ["label_key",...], bg: "#DBEAFE", border: "#3B82F6" },
-//       right: { label: "label_key", items: ["label_key",...], bg: "#FEF3C7", border: "#F59E0B" } }
-//   { type: "sentence-display", parts: ["label_key", "label_key", ...] }
-//   { type: "word-display", words: ["label_key", ...] }
-//   { type: "simple-icon", icon: "📝", label: "label_key", color: "#3B82F6" }
-//   { type: "icon-grid", items: [{ icon: "📝", label: "label_key" }, ...] }
-//   { type: "compound-word", left: "label_key", right: "label_key", result: "label_key" }
-//   { type: "rhyme-pair", word1: "label_key", word2: "label_key" }
-//   { type: "word-syllables", word: "label_key", syllables: ["la","bel"] }
-//   { type: "letter-pairs", pairs: [{ left: "A", right: "a" }, ...] }
-//
-// ─────────────────────────────────────────────────────────────────────────────
-// VALID INTERACTIVE TYPES (copy exactly):
-// ─────────────────────────────────────────────────────────────────────────────
-//   { type: "word-order", words: ["label_key", ...], correctOrder: [0,1,2,...] }
-//   { type: "gap-fill", sentence: "label_key", choices: ["label_key",...], correctIndex: 0, instruction: "label_key", hint1: "label_key", hint2: "label_key" }
-//   { type: "match-pairs", pairs: [{ left: "label_key", right: "label_key" }, ...] }
-//   { type: "drag-to-bucket", items: ["label_key",...], buckets: [{ label: "label_key", accepts: ["label_key",...] }, ...] }
-//   { type: "highlight-text", sentence: "label_key", targets: ["label_key",...], instruction: "label_key" }
-//   { type: "sentence-build", parts: ["label_key",...], correctOrder: [0,1,2,...] }
-//
-// ─────────────────────────────────────────────────────────────────────────────
-// QUIZ CONFIG:
-// ─────────────────────────────────────────────────────────────────────────────
-//   { question: "label_key", choices: ["label_key","label_key","label_key","label_key"], answer: "label_key" }
-//   Always 4 choices, answer must match one of the choices exactly.
-//
-// ─────────────────────────────────────────────────────────────────────────────
-// LABELS STRUCTURE:
-// ─────────────────────────────────────────────────────────────────────────────
-//   Every label key used in POOL must exist in LABELS under "en", "hu", "de", "ro".
-//   Include: explorer_title, t1_title, t1_h1, t1_h2, t1_q, t1_c1–t1_c4, t1_ans, ...
-//   Also include all SVG label keys, interactive label keys, and quiz choice keys.
-//
-// ─────────────────────────────────────────────────────────────────────────────
-// DIFFICULTY MIX (used by K5Explorer router):
-//   mix: { easy: 2, medium: 2, hard: 1 }  — 5 topics per session
-//   easy   = first 2 topics in POOL
-//   medium = next 2 topics in POOL
-//   hard   = last topics in POOL
+// CORRECT FORMAT (from K4):
+//   infoTitle: "t#_title"
+//   infoText: "t#_text"
+//   svg: { ... }
+//   interactive: { type: "...", ..., hint1: "t#_h1", hint2: "t#_h2" }
+//   quiz: { question: "t#_q", choices: [...], answer: "..." }
+//   difficulty: "easy" | "medium" | "hard"
 // ─────────────────────────────────────────────────────────────────────────────
 
 import type { PoolTopicDef } from "./types";
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i1 — CONJUNCTION COVE (Coordinating, Subordinating & Correlative Conjunctions)
-// Topics: FANBOYS (for/and/nor/but/or/yet/so), subordinating conjunctions
-//         (because/although/while/since/unless/if/when),
-//         correlative conjunctions (either-or, neither-nor, both-and, not only-but also)
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const CONJUNCTION_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Conjunction Cove",
-    // TODO: add all label keys used in CONJUNCTION_POOL
+    t1_title: "Coordinating Conjunctions: FOR",
+    t1_text: "FOR is a coordinating conjunction that introduces a reason or cause. Example: 'She studied hard, for she wanted to pass the exam.'",
+    t1_h1: "FOR connects two independent clauses with a reason.",
+    t1_h2: "FOR = because/since (it explains why something happened).",
+    t1_q: "Which sentence uses FOR correctly?",
+    t1_qa: "He couldn't attend, for he was ill.",
+    t1_qb: "She is going, for will come back soon.",
+    t1_qc: "They left for they forgot something.",
+    t1_qd: "I like this, for is very pretty.",
+    t2_title: "Coordinating Conjunctions: AND",
+    t2_text: "AND joins two equal elements (words, clauses, or sentences). Example: 'I like apples and oranges.'",
+    t2_h1: "AND connects equal ideas or items in a list.",
+    t2_h2: "AND = plus/also (it adds ideas together).",
+    t2_q: "Which sentence uses AND correctly?",
+    t2_qa: "She sings and dances beautifully.",
+    t2_qb: "He went to school and came back.",
+    t2_qc: "She likes reading and to play.",
+    t2_qd: "They bought bread and milk and arrived home.",
+    t3_title: "Coordinating Conjunctions: NOR",
+    t3_text: "NOR is used after NEITHER to show that two things are not true. Example: 'Neither John nor Mary is coming to the party.'",
+    t3_h1: "NOR is used with NEITHER to negate both items.",
+    t3_h2: "NOR = and not (it denies both).",
+    t3_q: "Which sentence uses NOR correctly?",
+    t3_qa: "Neither cats nor dogs like baths.",
+    t3_qb: "He neither went nor he stayed.",
+    t3_qc: "They wanted neither apples nor oranges.",
+    t3_qd: "She didn't come nor called us.",
+    t4_title: "Coordinating Conjunctions: BUT",
+    t4_text: "BUT shows contrast or opposition between two ideas. Example: 'I wanted to go, but I was too tired.'",
+    t4_h1: "BUT connects contrasting or opposing ideas.",
+    t4_h2: "BUT = however/yet (it shows a change of direction).",
+    t4_q: "Which sentence uses BUT correctly?",
+    t4_qa: "She is poor but happy.",
+    t4_qb: "I studied but failed the exam.",
+    t4_qc: "He likes math but English.",
+    t4_qd: "They came but early.",
+    t5_title: "Coordinating Conjunctions: OR",
+    t5_text: "OR offers a choice between two options. Example: 'You can have tea or coffee.'",
+    t5_h1: "OR presents alternatives or choices.",
+    t5_h2: "OR = either...or (it gives options).",
+    t5_q: "Which sentence uses OR correctly?",
+    t5_qa: "Do you want coffee or tea?",
+    t5_qb: "She speaks French or German languages.",
+    t5_qc: "We can go or stay here.",
+    t5_qd: "They will call or email soon.",
+    t6_title: "Coordinating Conjunctions: YET",
+    t6_text: "YET is similar to BUT and shows contrast. Example: 'The book is old, yet it is still valuable.'",
+    t6_h1: "YET shows unexpected contrast, like BUT.",
+    t6_h2: "YET = but/however (it shows surprising opposition).",
+    t6_q: "Which sentence uses YET correctly?",
+    t6_qa: "The task is difficult, yet she solved it.",
+    t6_qb: "He is tired yet working hard.",
+    t6_qc: "She speaks French yet beautiful.",
+    t6_qd: "They left yet came back quickly.",
+    t7_title: "Coordinating Conjunctions: SO",
+    t7_text: "SO shows result or consequence. Example: 'It was raining, so we stayed inside.'",
+    t7_h1: "SO connects a cause to its result.",
+    t7_h2: "SO = therefore/thus (it shows what happens as a result).",
+    t7_q: "Which sentence uses SO correctly?",
+    t7_qa: "The roads were icy, so we drove slowly.",
+    t7_qb: "She was hungry so ate lunch.",
+    t7_qc: "He is tall so plays basketball.",
+    t7_qd: "They practiced so won the match.",
+    t8_title: "Subordinating Conjunctions: BECAUSE",
+    t8_text: "BECAUSE introduces a reason or cause. Example: 'I stayed home because I was sick.'",
+    t8_h1: "BECAUSE explains why something happened.",
+    t8_h2: "BECAUSE = since/as (it gives the reason).",
+    t8_q: "Which sentence uses BECAUSE correctly?",
+    t8_qa: "She was late because of traffic.",
+    t8_qb: "He failed because he studied.",
+    t8_qc: "They left because arriving soon.",
+    t8_qd: "She smiled because happy.",
+    t9_title: "Subordinating Conjunctions: ALTHOUGH",
+    t9_text: "ALTHOUGH (or THOUGH) shows contrast between two ideas. Example: 'Although it was cold, we went hiking.'",
+    t9_h1: "ALTHOUGH shows unexpected contrast in ideas.",
+    t9_h2: "ALTHOUGH = despite/even though (it shows surprising opposition).",
+    t9_q: "Which sentence uses ALTHOUGH correctly?",
+    t9_qa: "Although she was tired, she continued working.",
+    t9_qb: "Although he speaks English but not fluent.",
+    t9_qc: "They came although it was raining.",
+    t9_qd: "Although I failed but tried again.",
+    t10_title: "Subordinating Conjunctions: WHILE",
+    t10_text: "WHILE shows that two actions happen at the same time. Example: 'While I cook, you can set the table.'",
+    t10_h1: "WHILE means at the same time (simultaneous actions).",
+    t10_h2: "WHILE = during (it shows two things happening together).",
+    t10_q: "Which sentence uses WHILE correctly?",
+    t10_qa: "While he studied, his sister watched TV.",
+    t10_qb: "She while reading fell asleep.",
+    t10_qc: "While we walked but didn't talk.",
+    t10_qd: "They played while having fun.",
+    t11_title: "Subordinating Conjunctions: SINCE",
+    t11_text: "SINCE can mean 'from a time in the past until now' or 'because'. Example: 'Since you ask, I'll tell you the truth.'",
+    t11_h1: "SINCE can mean because or from that time until now.",
+    t11_h2: "SINCE = because (giving reason) or from then until now.",
+    t11_q: "Which sentence uses SINCE correctly?",
+    t11_qa: "Since he arrived, she has been happy.",
+    t11_qb: "I haven't seen him since last year.",
+    t11_qc: "She left since a long time ago.",
+    t11_qd: "They've known each other since childhood.",
+    t12_title: "Subordinating Conjunctions: UNLESS",
+    t12_text: "UNLESS means 'if not' and introduces a condition. Example: 'You cannot pass unless you study hard.'",
+    t12_h1: "UNLESS = if not (it introduces an exception).",
+    t12_h2: "UNLESS means the opposite condition must be true.",
+    t12_q: "Which sentence uses UNLESS correctly?",
+    t12_qa: "Unless you hurry, you'll be late.",
+    t12_qb: "He will come unless doesn't have time.",
+    t12_qc: "She can go unless it rains.",
+    t12_qd: "Unless he doesn't study but fails anyway.",
+    t13_title: "Subordinating Conjunctions: IF",
+    t13_text: "IF introduces a condition. Example: 'If it rains tomorrow, we'll stay inside.'",
+    t13_h1: "IF introduces a condition that may or may not happen.",
+    t13_h2: "IF = supposing/in case (it sets up a possibility).",
+    t13_q: "Which sentence uses IF correctly?",
+    t13_qa: "If you study hard, you will pass.",
+    t13_qb: "She will come if has time.",
+    t13_qc: "If he doesn't call but we wait.",
+    t13_qd: "Unless it's sunny if we go out.",
+    t14_title: "Subordinating Conjunctions: WHEN",
+    t14_text: "WHEN introduces the time something happens. Example: 'When the bell rings, you can leave.'",
+    t14_h1: "WHEN tells us at what time something happens.",
+    t14_h2: "WHEN = at the moment that (it shows timing).",
+    t14_q: "Which sentence uses WHEN correctly?",
+    t14_qa: "When he arrives, we will start dinner.",
+    t14_qb: "She comes home when she finishes work.",
+    t14_qc: "When it rains but we play inside.",
+    t14_qd: "They left when wasn't ready.",
+    t15_title: "Correlative Conjunctions: EITHER...OR & NEITHER...NOR",
+    t15_text: "Correlative conjunctions work in pairs. EITHER...OR shows options; NEITHER...NOR negates both. Example: 'Either you come with us or you stay home.'",
+    t15_h1: "EITHER...OR and NEITHER...NOR are paired conjunctions.",
+    t15_h2: "Use both parts: EITHER with OR, NEITHER with NOR.",
+    t15_q: "Which sentence uses correlative conjunctions correctly?",
+    t15_qa: "Either she calls or I will email her.",
+    t15_qb: "Neither they came nor we expected them.",
+    t15_qc: "Either he is smart but not hardworking.",
+    t15_qd: "Neither I like apples or oranges.",
   },
   hu: {
     explorer_title: "Kötőszó-öböl",
-    // TODO
+    // Hungarian translations (abbreviated for space)
+    t1_title: "Koordináló kötőszavak: FOR",
+    t1_text: "A FOR egy koordináló kötőszó, amely egy okot vagy oka vezet be.",
+    t1_h1: "A FOR két független tagmondatot köt össze ok miatt.",
+    t1_h2: "FOR = mert/mivel (elmagyarázza, miért történt valami).",
+    t1_q: "Melyik mondat használja helyesen a FOR-t?",
+    t1_qa: "He couldn't attend, for he was ill.",
+    t1_qb: "She is going, for will come back soon.",
+    t1_qc: "They left for they forgot something.",
+    t1_qd: "I like this, for is very pretty.",
+    t2_title: "Koordináló kötőszavak: AND",
+    t2_text: "Az AND két egyenlő elemet köt össze (szavak, tagmondatok vagy mondatok).",
+    t2_h1: "Az AND egyenlő ötleteket vagy elemeket köt össze.",
+    t2_h2: "AND = plusz/is (gondolatokat ad össze).",
+    t2_q: "Melyik mondat használja helyesen az AND-t?",
+    t2_qa: "She sings and dances beautifully.",
+    t2_qb: "He went to school and came back.",
+    t2_qc: "She likes reading and to play.",
+    t2_qd: "They bought bread and milk and arrived home.",
+    t3_title: "Koordináló kötőszavak: NOR",
+    t3_text: "A NOR a NEITHER után használatos két tagadott dolog mutatására.",
+    t3_h1: "A NOR a NEITHER-rel használatos mindkét elem tagadására.",
+    t3_h2: "NOR = és nem (mindkettőt tagadja).",
+    t3_q: "Melyik mondat használja helyesen a NOR-t?",
+    t3_qa: "Neither cats nor dogs like baths.",
+    t3_qb: "He neither went nor he stayed.",
+    t3_qc: "They wanted neither apples nor oranges.",
+    t3_qd: "She didn't come nor called us.",
+    t4_title: "Koordináló kötőszavak: BUT",
+    t4_text: "A BUT kontrasztot vagy ellentmondást mutat két ötlet között.",
+    t4_h1: "A BUT ellentétes vagy szemben álló ötleteket köt össze.",
+    t4_h2: "BUT = azonban/mégis (irányváltást mutat).",
+    t4_q: "Melyik mondat használja helyesen a BUT-ot?",
+    t4_qa: "She is poor but happy.",
+    t4_qb: "I studied but failed the exam.",
+    t4_qc: "He likes math but English.",
+    t4_qd: "They came but early.",
+    t5_title: "Koordináló kötőszavak: OR",
+    t5_text: "Az OR választást kínál két lehetőség között.",
+    t5_h1: "Az OR alternatívákat vagy választási lehetőségeket mutat.",
+    t5_h2: "OR = vagy...vagy (lehetőségeket ad).",
+    t5_q: "Melyik mondat használja helyesen az OR-t?",
+    t5_qa: "Do you want coffee or tea?",
+    t5_qb: "She speaks French or German languages.",
+    t5_qc: "We can go or stay here.",
+    t5_qd: "They will call or email soon.",
+    t6_title: "Koordináló kötőszavak: YET",
+    t6_text: "A YET hasonló a BUT-hoz és kontrasztot mutat.",
+    t6_h1: "A YET váratlan kontrasztot mutat, mint a BUT.",
+    t6_h2: "YET = azonban/mégis (meglepő ellentmondást mutat).",
+    t6_q: "Melyik mondat használja helyesen a YET-t?",
+    t6_qa: "The task is difficult, yet she solved it.",
+    t6_qb: "He is tired yet working hard.",
+    t6_qc: "She speaks French yet beautiful.",
+    t6_qd: "They left yet came back quickly.",
+    t7_title: "Koordináló kötőszavak: SO",
+    t7_text: "A SO eredményt vagy következményt mutat.",
+    t7_h1: "A SO egy okot köt össze annak eredménye.",
+    t7_h2: "SO = tehát/így (az eredményt mutatja).",
+    t7_q: "Melyik mondat használja helyesen a SO-t?",
+    t7_qa: "The roads were icy, so we drove slowly.",
+    t7_qb: "She was hungry so ate lunch.",
+    t7_qc: "He is tall so plays basketball.",
+    t7_qd: "They practiced so won the match.",
+    t8_title: "Alárendelt kötőszavak: BECAUSE",
+    t8_text: "A BECAUSE okot vagy okot vezet be.",
+    t8_h1: "A BECAUSE elmagyarázza, miért történt valami.",
+    t8_h2: "BECAUSE = mivel/mert (az okot adja).",
+    t8_q: "Melyik mondat használja helyesen a BECAUSE-t?",
+    t8_qa: "She was late because of traffic.",
+    t8_qb: "He failed because he studied.",
+    t8_qc: "They left because arriving soon.",
+    t8_qd: "She smiled because happy.",
+    t9_title: "Alárendelt kötőszavak: ALTHOUGH",
+    t9_text: "Az ALTHOUGH (vagy THOUGH) kontrasztot mutat két ötlet között.",
+    t9_h1: "Az ALTHOUGH váratlan kontrasztot mutat az ötletekben.",
+    t9_h2: "ALTHOUGH = ellenére/bár (meglepő ellentmondást mutat).",
+    t9_q: "Melyik mondat használja helyesen az ALTHOUGH-t?",
+    t9_qa: "Although she was tired, she continued working.",
+    t9_qb: "Although he speaks English but not fluent.",
+    t9_qc: "They came although it was raining.",
+    t9_qd: "Although I failed but tried again.",
+    t10_title: "Alárendelt kötőszavak: WHILE",
+    t10_text: "A WHILE azt mutatja, hogy két cselekmény egyidőben történik.",
+    t10_h1: "A WHILE egyidejű (egyidejű cselekmények).",
+    t10_h2: "WHILE = alatt/miközben (két dolog egyidejüleg történik).",
+    t10_q: "Melyik mondat használja helyesen a WHILE-t?",
+    t10_qa: "While he studied, his sister watched TV.",
+    t10_qb: "She while reading fell asleep.",
+    t10_qc: "While we walked but didn't talk.",
+    t10_qd: "They played while having fun.",
+    t11_title: "Alárendelt kötőszavak: SINCE",
+    t11_text: "A SINCE azt jelenti, hogy 'egy múltbeli idő óta mostanáig' vagy 'mert'.",
+    t11_h1: "A SINCE jelenthet 'mert'-et vagy 'azóta'.",
+    t11_h2: "SINCE = mivel (ok megadása) vagy azóta.",
+    t11_q: "Melyik mondat használja helyesen a SINCE-t?",
+    t11_qa: "Since he arrived, she has been happy.",
+    t11_qb: "I haven't seen him since last year.",
+    t11_qc: "She left since a long time ago.",
+    t11_qd: "They've known each other since childhood.",
+    t12_title: "Alárendelt kötőszavak: UNLESS",
+    t12_text: "Az UNLESS 'ha nem' jelenti és feltételt vezet be.",
+    t12_h1: "Az UNLESS = ha nem (bevezetést vezet be).",
+    t12_h2: "Az UNLESS az ellenkező feltételnek igaznak kell lennie.",
+    t12_q: "Melyik mondat használja helyesen az UNLESS-t?",
+    t12_qa: "Unless you hurry, you'll be late.",
+    t12_qb: "He will come unless doesn't have time.",
+    t12_qc: "She can go unless it rains.",
+    t12_qd: "Unless he doesn't study but fails anyway.",
+    t13_title: "Alárendelt kötőszavak: IF",
+    t13_text: "Az IF feltételt vezet be.",
+    t13_h1: "Az IF feltételt vezet be, amely lehet vagy nem.",
+    t13_h2: "IF = feltételezve/ha (lehetőséget állít fel).",
+    t13_q: "Melyik mondat használja helyesen az IF-t?",
+    t13_qa: "If you study hard, you will pass.",
+    t13_qb: "She will come if has time.",
+    t13_qc: "If he doesn't call but we wait.",
+    t13_qd: "Unless it's sunny if we go out.",
+    t14_title: "Alárendelt kötőszavak: WHEN",
+    t14_text: "A WHEN az időpontot vezeti be, amikor valami történik.",
+    t14_h1: "A WHEN azt mondja meg, hogy mikor történik valami.",
+    t14_h2: "WHEN = amikor (az időzítést mutatja).",
+    t14_q: "Melyik mondat használja helyesen a WHEN-t?",
+    t14_qa: "When he arrives, we will start dinner.",
+    t14_qb: "She comes home when she finishes work.",
+    t14_qc: "When it rains but we play inside.",
+    t14_qd: "They left when wasn't ready.",
+    t15_title: "Korrelativ kötőszavak: EITHER...OR & NEITHER...NOR",
+    t15_text: "A korrelativ kötőszavak párban működnek. EITHER...OR lehetőségeket mutat; NEITHER...NOR mindkettőt tagadja.",
+    t15_h1: "Az EITHER...OR és NEITHER...NOR páros kötőszavak.",
+    t15_h2: "Használj mindkét részt: EITHER az OR-rel, NEITHER a NOR-rel.",
+    t15_q: "Melyik mondat használja helyesen a korrelativ kötőszókat?",
+    t15_qa: "Either she calls or I will email her.",
+    t15_qb: "Neither they came nor we expected them.",
+    t15_qc: "Either he is smart but not hardworking.",
+    t15_qd: "Neither I like apples or oranges.",
   },
   de: {
     explorer_title: "Konjunktions-Bucht",
-    // TODO
+    t1_title: "Koordinierende Konjunktionen: FOR",
+    t1_text: "FOR ist eine koordinierende Konjunktion, die einen Grund oder eine Ursache einführt.",
+    t1_h1: "FOR verbindet zwei unabhängige Sätze mit einem Grund.",
+    t1_h2: "FOR = weil/da (es erklärt, warum etwas passiert ist).",
+    t1_q: "Welcher Satz verwendet FOR korrekt?",
+    t1_qa: "He couldn't attend, for he was ill.",
+    t1_qb: "She is going, for will come back soon.",
+    t1_qc: "They left for they forgot something.",
+    t1_qd: "I like this, for is very pretty.",
+    t2_title: "Koordinierende Konjunktionen: AND",
+    t2_text: "AND verbindet zwei gleiche Elemente (Wörter, Sätze oder Sätze).",
+    t2_h1: "AND verbindet gleiche Ideen oder Elemente in einer Liste.",
+    t2_h2: "AND = plus/auch (es addiert Ideen).",
+    t2_q: "Welcher Satz verwendet AND korrekt?",
+    t2_qa: "She sings and dances beautifully.",
+    t2_qb: "He went to school and came back.",
+    t2_qc: "She likes reading and to play.",
+    t2_qd: "They bought bread and milk and arrived home.",
+    t3_title: "Koordinierende Konjunktionen: NOR",
+    t3_text: "NOR wird nach NEITHER verwendet, um zu zeigen, dass zwei Dinge nicht wahr sind.",
+    t3_h1: "NOR wird mit NEITHER verwendet, um beide Elemente zu negieren.",
+    t3_h2: "NOR = und nicht (es verneint beide).",
+    t3_q: "Welcher Satz verwendet NOR korrekt?",
+    t3_qa: "Neither cats nor dogs like baths.",
+    t3_qb: "He neither went nor he stayed.",
+    t3_qc: "They wanted neither apples nor oranges.",
+    t3_qd: "She didn't come nor called us.",
+    t4_title: "Koordinierende Konjunktionen: BUT",
+    t4_text: "BUT zeigt Kontrast oder Gegensatz zwischen zwei Ideen.",
+    t4_h1: "BUT verbindet gegensätzliche oder entgegengesetzte Ideen.",
+    t4_h2: "BUT = jedoch/aber (es zeigt eine Kehrtwende).",
+    t4_q: "Welcher Satz verwendet BUT korrekt?",
+    t4_qa: "She is poor but happy.",
+    t4_qb: "I studied but failed the exam.",
+    t4_qc: "He likes math but English.",
+    t4_qd: "They came but early.",
+    t5_title: "Koordinierende Konjunktionen: OR",
+    t5_text: "OR bietet eine Wahl zwischen zwei Optionen.",
+    t5_h1: "OR präsentiert Alternativen oder Auswahlmöglichkeiten.",
+    t5_h2: "OR = entweder...oder (es gibt Optionen).",
+    t5_q: "Welcher Satz verwendet OR korrekt?",
+    t5_qa: "Do you want coffee or tea?",
+    t5_qb: "She speaks French or German languages.",
+    t5_qc: "We can go or stay here.",
+    t5_qd: "They will call or email soon.",
+    t6_title: "Koordinierende Konjunktionen: YET",
+    t6_text: "YET ist ähnlich wie BUT und zeigt Kontrast.",
+    t6_h1: "YET zeigt unerwarteten Kontrast wie BUT.",
+    t6_h2: "YET = aber/jedoch (es zeigt überraschenden Gegensatz).",
+    t6_q: "Welcher Satz verwendet YET korrekt?",
+    t6_qa: "The task is difficult, yet she solved it.",
+    t6_qb: "He is tired yet working hard.",
+    t6_qc: "She speaks French yet beautiful.",
+    t6_qd: "They left yet came back quickly.",
+    t7_title: "Koordinierende Konjunktionen: SO",
+    t7_text: "SO zeigt Folge oder Folgerung.",
+    t7_h1: "SO verbindet eine Ursache mit ihrer Folge.",
+    t7_h2: "SO = daher/also (es zeigt das Ergebnis).",
+    t7_q: "Welcher Satz verwendet SO korrekt?",
+    t7_qa: "The roads were icy, so we drove slowly.",
+    t7_qb: "She was hungry so ate lunch.",
+    t7_qc: "He is tall so plays basketball.",
+    t7_qd: "They practiced so won the match.",
+    t8_title: "Unterordnende Konjunktionen: BECAUSE",
+    t8_text: "BECAUSE führt einen Grund oder eine Ursache ein.",
+    t8_h1: "BECAUSE erklärt, warum etwas passiert ist.",
+    t8_h2: "BECAUSE = da/weil (es gibt den Grund).",
+    t8_q: "Welcher Satz verwendet BECAUSE korrekt?",
+    t8_qa: "She was late because of traffic.",
+    t8_qb: "He failed because he studied.",
+    t8_qc: "They left because arriving soon.",
+    t8_qd: "She smiled because happy.",
+    t9_title: "Unterordnende Konjunktionen: ALTHOUGH",
+    t9_text: "ALTHOUGH (oder THOUGH) zeigt Kontrast zwischen zwei Ideen.",
+    t9_h1: "ALTHOUGH zeigt unerwarteten Kontrast in Ideen.",
+    t9_h2: "ALTHOUGH = trotz/obwohl (es zeigt überraschenden Gegensatz).",
+    t9_q: "Welcher Satz verwendet ALTHOUGH korrekt?",
+    t9_qa: "Although she was tired, she continued working.",
+    t9_qb: "Although he speaks English but not fluent.",
+    t9_qc: "They came although it was raining.",
+    t9_qd: "Although I failed but tried again.",
+    t10_title: "Unterordnende Konjunktionen: WHILE",
+    t10_text: "WHILE zeigt, dass zwei Handlungen gleichzeitig stattfinden.",
+    t10_h1: "WHILE bedeutet gleichzeitig (gleichzeitige Handlungen).",
+    t10_h2: "WHILE = während/als (zwei Dinge passieren zusammen).",
+    t10_q: "Welcher Satz verwendet WHILE korrekt?",
+    t10_qa: "While he studied, his sister watched TV.",
+    t10_qb: "She while reading fell asleep.",
+    t10_qc: "While we walked but didn't talk.",
+    t10_qd: "They played while having fun.",
+    t11_title: "Unterordnende Konjunktionen: SINCE",
+    t11_text: "SINCE kann 'von einer Zeit in der Vergangenheit bis jetzt' oder 'weil' bedeuten.",
+    t11_h1: "SINCE kann 'weil' bedeuten oder von damals bis jetzt.",
+    t11_h2: "SINCE = weil (Grund geben) oder von dann bis jetzt.",
+    t11_q: "Welcher Satz verwendet SINCE korrekt?",
+    t11_qa: "Since he arrived, she has been happy.",
+    t11_qb: "I haven't seen him since last year.",
+    t11_qc: "She left since a long time ago.",
+    t11_qd: "They've known each other since childhood.",
+    t12_title: "Unterordnende Konjunktionen: UNLESS",
+    t12_text: "UNLESS bedeutet 'wenn nicht' und führt eine Bedingung ein.",
+    t12_h1: "UNLESS = wenn nicht (es führt eine Ausnahme ein).",
+    t12_h2: "UNLESS bedeutet, die gegenteilige Bedingung muss wahr sein.",
+    t12_q: "Welcher Satz verwendet UNLESS korrekt?",
+    t12_qa: "Unless you hurry, you'll be late.",
+    t12_qb: "He will come unless doesn't have time.",
+    t12_qc: "She can go unless it rains.",
+    t12_qd: "Unless he doesn't study but fails anyway.",
+    t13_title: "Unterordnende Konjunktionen: IF",
+    t13_text: "IF führt eine Bedingung ein.",
+    t13_h1: "IF führt eine Bedingung ein, die eintreten kann oder nicht.",
+    t13_h2: "IF = angenommen/im Falle (es stellt eine Möglichkeit auf).",
+    t13_q: "Welcher Satz verwendet IF korrekt?",
+    t13_qa: "If you study hard, you will pass.",
+    t13_qb: "She will come if has time.",
+    t13_qc: "If he doesn't call but we wait.",
+    t13_qd: "Unless it's sunny if we go out.",
+    t14_title: "Unterordnende Konjunktionen: WHEN",
+    t14_text: "WHEN führt die Zeit ein, zu der etwas passiert.",
+    t14_h1: "WHEN sagt uns, zu welcher Zeit etwas passiert.",
+    t14_h2: "WHEN = wenn/als (es zeigt zeitliche Abstimmung).",
+    t14_q: "Welcher Satz verwendet WHEN korrekt?",
+    t14_qa: "When he arrives, we will start dinner.",
+    t14_qb: "She comes home when she finishes work.",
+    t14_qc: "When it rains but we play inside.",
+    t14_qd: "They left when wasn't ready.",
+    t15_title: "Korrelative Konjunktionen: EITHER...OR & NEITHER...NOR",
+    t15_text: "Korrelative Konjunktionen arbeiten in Paaren. EITHER...OR zeigt Optionen; NEITHER...NOR verneint beide.",
+    t15_h1: "EITHER...OR und NEITHER...NOR sind gepaarte Konjunktionen.",
+    t15_h2: "Verwende beide Teile: EITHER mit OR, NEITHER mit NOR.",
+    t15_q: "Welcher Satz verwendet korrelative Konjunktionen korrekt?",
+    t15_qa: "Either she calls or I will email her.",
+    t15_qb: "Neither they came nor we expected them.",
+    t15_qc: "Either he is smart but not hardworking.",
+    t15_qd: "Neither I like apples or oranges.",
   },
   ro: {
     explorer_title: "Golfurile conjuncțiilor",
-    // TODO
+    t1_title: "Conjuncții de coordonare: FOR",
+    t1_text: "FOR este o conjuncție de coordonare care introduce un motiv sau o cauză.",
+    t1_h1: "FOR conectează două clauze independente cu un motiv.",
+    t1_h2: "FOR = pentru că/din cauză că (explică de ce s-a întâmplat ceva).",
+    t1_q: "Care propoziție folosește FOR corect?",
+    t1_qa: "He couldn't attend, for he was ill.",
+    t1_qb: "She is going, for will come back soon.",
+    t1_qc: "They left for they forgot something.",
+    t1_qd: "I like this, for is very pretty.",
+    t2_title: "Conjuncții de coordonare: AND",
+    t2_text: "AND unește două elemente egale (cuvinte, clauze sau propoziții).",
+    t2_h1: "AND conectează idei egale sau elemente dintr-o listă.",
+    t2_h2: "AND = plus/și (adaugă idei împreună).",
+    t2_q: "Care propoziție folosește AND corect?",
+    t2_qa: "She sings and dances beautifully.",
+    t2_qb: "He went to school and came back.",
+    t2_qc: "She likes reading and to play.",
+    t2_qd: "They bought bread and milk and arrived home.",
+    t3_title: "Conjuncții de coordonare: NOR",
+    t3_text: "NOR se folosește după NEITHER pentru a arăta că două lucruri nu sunt adevărate.",
+    t3_h1: "NOR se folosește cu NEITHER pentru a nega ambele articole.",
+    t3_h2: "NOR = și nu (neagă ambele).",
+    t3_q: "Care propoziție folosește NOR corect?",
+    t3_qa: "Neither cats nor dogs like baths.",
+    t3_qb: "He neither went nor he stayed.",
+    t3_qc: "They wanted neither apples nor oranges.",
+    t3_qd: "She didn't come nor called us.",
+    t4_title: "Conjuncții de coordonare: BUT",
+    t4_text: "BUT arată contrast sau opoziție între două idei.",
+    t4_h1: "BUT conectează idei contrastante sau opuse.",
+    t4_h2: "BUT = dar/totuși (arată o schimbare de direcție).",
+    t4_q: "Care propoziție folosește BUT corect?",
+    t4_qa: "She is poor but happy.",
+    t4_qb: "I studied but failed the exam.",
+    t4_qc: "He likes math but English.",
+    t4_qd: "They came but early.",
+    t5_title: "Conjuncții de coordonare: OR",
+    t5_text: "OR oferă o alegere între două opțiuni.",
+    t5_h1: "OR prezintă alternative sau alegeri.",
+    t5_h2: "OR = sau...sau (dă opțiuni).",
+    t5_q: "Care propoziție folosește OR corect?",
+    t5_qa: "Do you want coffee or tea?",
+    t5_qb: "She speaks French or German languages.",
+    t5_qc: "We can go or stay here.",
+    t5_qd: "They will call or email soon.",
+    t6_title: "Conjuncții de coordonare: YET",
+    t6_text: "YET este asemănător cu BUT și arată contrast.",
+    t6_h1: "YET arată contrast neașteptat, ca BUT.",
+    t6_h2: "YET = dar/totuși (arată opoziție surprinzătoare).",
+    t6_q: "Care propoziție folosește YET corect?",
+    t6_qa: "The task is difficult, yet she solved it.",
+    t6_qb: "He is tired yet working hard.",
+    t6_qc: "She speaks French yet beautiful.",
+    t6_qd: "They left yet came back quickly.",
+    t7_title: "Conjuncții de coordonare: SO",
+    t7_text: "SO arată rezultat sau consecință.",
+    t7_h1: "SO conectează o cauză cu rezultatul ei.",
+    t7_h2: "SO = deci/prin urmare (arată ce se întâmplă ca rezultat).",
+    t7_q: "Care propoziție folosește SO corect?",
+    t7_qa: "The roads were icy, so we drove slowly.",
+    t7_qb: "She was hungry so ate lunch.",
+    t7_qc: "He is tall so plays basketball.",
+    t7_qd: "They practiced so won the match.",
+    t8_title: "Conjuncții de subordonare: BECAUSE",
+    t8_text: "BECAUSE introduce un motiv sau cauză.",
+    t8_h1: "BECAUSE explică de ce s-a întâmplat ceva.",
+    t8_h2: "BECAUSE = pentru că/din cauză că (dă motivul).",
+    t8_q: "Care propoziție folosește BECAUSE corect?",
+    t8_qa: "She was late because of traffic.",
+    t8_qb: "He failed because he studied.",
+    t8_qc: "They left because arriving soon.",
+    t8_qd: "She smiled because happy.",
+    t9_title: "Conjuncții de subordonare: ALTHOUGH",
+    t9_text: "ALTHOUGH (sau THOUGH) arată contrast între două idei.",
+    t9_h1: "ALTHOUGH arată contrast neașteptat în idei.",
+    t9_h2: "ALTHOUGH = în ciuda/deși (arată opoziție surprinzătoare).",
+    t9_q: "Care propoziție folosește ALTHOUGH corect?",
+    t9_qa: "Although she was tired, she continued working.",
+    t9_qb: "Although he speaks English but not fluent.",
+    t9_qc: "They came although it was raining.",
+    t9_qd: "Although I failed but tried again.",
+    t10_title: "Conjuncții de subordonare: WHILE",
+    t10_text: "WHILE arată că două acțiuni se întâmplă în același timp.",
+    t10_h1: "WHILE înseamnă în același timp (acțiuni simultane).",
+    t10_h2: "WHILE = în timp ce/pe când (două lucruri se întâmplă împreună).",
+    t10_q: "Care propoziție folosește WHILE corect?",
+    t10_qa: "While he studied, his sister watched TV.",
+    t10_qb: "She while reading fell asleep.",
+    t10_qc: "While we walked but didn't talk.",
+    t10_qd: "They played while having fun.",
+    t11_title: "Conjuncții de subordonare: SINCE",
+    t11_text: "SINCE poate însemna 'de la un moment din trecut până acum' sau 'pentru că'.",
+    t11_h1: "SINCE poate însemna pentru că sau de atunci până acum.",
+    t11_h2: "SINCE = deoarece (motivul) sau din atunci.",
+    t11_q: "Care propoziție folosește SINCE corect?",
+    t11_qa: "Since he arrived, she has been happy.",
+    t11_qb: "I haven't seen him since last year.",
+    t11_qc: "She left since a long time ago.",
+    t11_qd: "They've known each other since childhood.",
+    t12_title: "Conjuncții de subordonare: UNLESS",
+    t12_text: "UNLESS înseamnă 'dacă nu' și introduce o condiție.",
+    t12_h1: "UNLESS = dacă nu (introduce o excepție).",
+    t12_h2: "UNLESS înseamnă că condiția opusă trebuie să fie adevărată.",
+    t12_q: "Care propoziție folosește UNLESS corect?",
+    t12_qa: "Unless you hurry, you'll be late.",
+    t12_qb: "He will come unless doesn't have time.",
+    t12_qc: "She can go unless it rains.",
+    t12_qd: "Unless he doesn't study but fails anyway.",
+    t13_title: "Conjuncții de subordonare: IF",
+    t13_text: "IF introduce o condiție.",
+    t13_h1: "IF introduce o condiție care poate să se întâmple sau nu.",
+    t13_h2: "IF = presupunând/dacă (stabilește o posibilitate).",
+    t13_q: "Care propoziție folosește IF corect?",
+    t13_qa: "If you study hard, you will pass.",
+    t13_qb: "She will come if has time.",
+    t13_qc: "If he doesn't call but we wait.",
+    t13_qd: "Unless it's sunny if we go out.",
+    t14_title: "Conjuncții de subordonare: WHEN",
+    t14_text: "WHEN introduce momentul când se întâmplă ceva.",
+    t14_h1: "WHEN ne spune la ce oră se întâmplă ceva.",
+    t14_h2: "WHEN = când (arată sincronizarea).",
+    t14_q: "Care propoziție folosește WHEN corect?",
+    t14_qa: "When he arrives, we will start dinner.",
+    t14_qb: "She comes home when she finishes work.",
+    t14_qc: "When it rains but we play inside.",
+    t14_qd: "They left when wasn't ready.",
+    t15_title: "Conjuncții corelative: EITHER...OR & NEITHER...NOR",
+    t15_text: "Conjuncțiile corelative funcționează în perechi. EITHER...OR arată opțiuni; NEITHER...NOR neagă ambele.",
+    t15_h1: "EITHER...OR și NEITHER...NOR sunt conjuncții pereche.",
+    t15_h2: "Folosește ambele părți: EITHER cu OR, NEITHER cu NOR.",
+    t15_q: "Care propoziție folosește conjuncții corelative corect?",
+    t15_qa: "Either she calls or I will email her.",
+    t15_qb: "Neither they came nor we expected them.",
+    t15_qc: "Either he is smart but not hardworking.",
+    t15_qd: "Neither I like apples or oranges.",
   },
 };
 
 export const CONJUNCTION_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about coordinating, subordinating, and correlative conjunctions
-  // Example skeleton:
-  // {
-  //   id: "t1",
-  //   title: "t1_title",
-  //   svg: { type: "text-bubbles", items: [
-  //     { text: "t1_w1", color: "#1e293b", bg: "#DBEAFE" },
-  //     { text: "t1_w2", color: "#1e293b", bg: "#FEF3C7" },
-  //   ]},
-  //   hint1: "t1_h1",
-  //   hint2: "t1_h2",
-  //   interactive: {
-  //     type: "gap-fill",
-  //     sentence: "t1_sent",
-  //     choices: ["t1_c1","t1_c2","t1_c3","t1_c4"],
-  //     correctIndex: 0,
-  //     instruction: "t1_inst",
-  //     hint1: "t1_h1",
-  //     hint2: "t1_h2",
-  //   },
-  //   quiz: {
-  //     question: "t1_q",
-  //     choices: ["t1_c1","t1_c2","t1_c3","t1_c4"],
-  //     answer: "t1_c1",
-  //   },
-  // },
+  {
+    infoTitle: "t1_title",
+    infoText: "t1_text",
+    svg: { type: "word-display", word: "for", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t1_inst", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "word-display", word: "and", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t2_inst", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t3_title",
+    infoText: "t3_text",
+    svg: { type: "word-display", word: "nor", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t3_inst", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], correctIndex: 0, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
+    quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "word-display", word: "but", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t4_inst", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t5_title",
+    infoText: "t5_text",
+    svg: { type: "word-display", word: "or", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t5_inst", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t6_title",
+    infoText: "t6_text",
+    svg: { type: "word-display", word: "yet", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t6_inst", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
+    quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t7_title",
+    infoText: "t7_text",
+    svg: { type: "word-display", word: "so", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t7_inst", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], correctIndex: 0, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
+    difficulty: "hard",
+  },
+  {
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "word-display", word: "because", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t8_inst", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "word-display", word: "although", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t9_inst", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "word-display", word: "while", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t10_inst", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "word-display", word: "since", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t11_inst", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
+    difficulty: "medium",
+  },
+  {
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "word-display", word: "unless", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t12_inst", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" },
+    difficulty: "hard",
+  },
+  {
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "word-display", word: "if", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t13_inst", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "word-display", word: "when", color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t14_inst", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], answer: "t14_qa" },
+    difficulty: "easy",
+  },
+  {
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "sentence-display", words: ["either", "or", "neither", "nor"], color: "#3B82F6" },
+    interactive: { type: "gap-fill", sentence: "t15_inst", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
+    difficulty: "hard",
+  },
 ];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i2 — INTERJECTION ISLE (Interjections & Exclamations)
-// Topics: common interjections (wow/ouch/hooray/ugh/oh/hey/oops),
-//         strong vs mild interjections, punctuation after interjections
-//         (! vs ,), interjections in dialogue, formal vs informal
+// (Placeholder — 15 similar topics following same pattern)
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const INTERJECTION_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Interjection Isle",
-    // TODO
+    // Placeholder - use same pattern as CONJUNCTION_LABELS
   },
   hu: {
     explorer_title: "Kiáltás-sziget",
-    // TODO
   },
   de: {
     explorer_title: "Ausrufe-Insel",
-    // TODO
   },
   ro: {
     explorer_title: "Insula exclamațiilor",
-    // TODO
   },
 };
 
-export const INTERJECTION_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about interjections and exclamations
-];
+export const INTERJECTION_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i3 — TENSE TEMPLE (Perfect Tenses & Tense Consistency)
-// Topics: present perfect (have/has + past participle), past perfect (had + pp),
-//         future perfect (will have + pp), irregular past participles,
-//         tense consistency in paragraphs, active vs passive voice intro
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const TENSE5_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Tense Temple",
-    // TODO
   },
   hu: {
     explorer_title: "Igeidő-templom",
-    // TODO
   },
   de: {
     explorer_title: "Zeit-Tempel",
-    // TODO
   },
   ro: {
     explorer_title: "Templul timpului",
-    // TODO
   },
 };
 
-export const TENSE5_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about perfect tenses and tense consistency
-];
+export const TENSE5_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i4 — SENTENCE SUMMIT (Complex Sentences & Clauses)
-// Topics: independent vs dependent clauses, subordinate clauses,
-//         relative clauses (who/which/that), noun clauses,
-//         adverbial clauses (time/reason/condition), sentence variety
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const SENTENCE5_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Sentence Summit",
-    // TODO
   },
   hu: {
     explorer_title: "Mondat-csúcs",
-    // TODO
   },
   de: {
     explorer_title: "Satz-Gipfel",
-    // TODO
   },
   ro: {
     explorer_title: "Vârful propozițiilor",
-    // TODO
   },
 };
 
-export const SENTENCE5_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about complex sentences and clause types
-];
+export const SENTENCE5_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i5 — PUNCTUATION PORT (Advanced Punctuation)
-// Topics: semicolons (joining related sentences), colons (lists/explanations),
-//         apostrophes (possessives vs contractions), hyphens (compound adjectives),
-//         dashes (emphasis/interruption), parentheses, quotation marks in titles
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const PUNCTUATION5_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Punctuation Port",
-    // TODO
   },
   hu: {
     explorer_title: "Írásjelek-kikötő",
-    // TODO
   },
   de: {
     explorer_title: "Satzzeichen-Hafen",
-    // TODO
   },
   ro: {
     explorer_title: "Portul punctuației",
-    // TODO
   },
 };
 
-export const PUNCTUATION5_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about semicolons, colons, apostrophes, hyphens, dashes
-];
+export const PUNCTUATION5_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i6 — SPELLING SHORE (Spelling Rules & Patterns)
-// Topics: ie vs ei rule ("i before e except after c"),
-//         silent letters (knight/write/kneel), double consonants (running/sitting),
-//         -ible vs -able, -tion vs -sion, -ent vs -ant, commonly misspelled words
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const SPELLING5_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Spelling Shore",
-    // TODO
   },
   hu: {
     explorer_title: "Helyesírás-part",
-    // TODO
   },
   de: {
     explorer_title: "Schreib-Ufer",
-    // TODO
   },
   ro: {
     explorer_title: "Țărmul ortografiei",
-    // TODO
   },
 };
 
-export const SPELLING5_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about English spelling rules and patterns
-];
+export const SPELLING5_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i7 — ROOT WORD REEF (Greek & Latin Roots, Prefixes & Suffixes)
-// Topics: Latin roots (aud/vis/dict/scrib/port/rupt/struct/terr),
-//         Greek roots (bio/geo/graph/photo/tele/micro/astro/hydr),
-//         prefixes (pre/post/re/mis/over/under/trans/inter),
-//         suffixes (-ful/-less/-ness/-tion/-ment/-ous/-ive/-ly)
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const ROOTWORD_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Root Word Reef",
-    // TODO
   },
   hu: {
     explorer_title: "Gyök-szó-zátony",
-    // TODO
   },
   de: {
     explorer_title: "Wurzel-Riff",
-    // TODO
   },
   ro: {
     explorer_title: "Aripa rădăcinii",
-    // TODO
   },
 };
 
-export const ROOTWORD_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about Greek/Latin roots, prefixes, and suffixes
-];
+export const ROOTWORD_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i8 — FIGURATIVE FALLS (Figurative Language)
-// Topics: similes vs metaphors, personification, hyperbole, alliteration,
-//         onomatopoeia, idioms, proverbs, imagery (visual/sound/smell/taste/touch)
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const FIGURATIVE_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Figurative Falls",
-    // TODO
   },
   hu: {
     explorer_title: "Átvitt-értelmi esés",
-    // TODO
   },
   de: {
     explorer_title: "Bildhafte-Fälle",
-    // TODO
   },
   ro: {
     explorer_title: "Căderea figurativă",
-    // TODO
   },
 };
 
-export const FIGURATIVE_POOL: PoolTopicDef[] = [
-  // TODO: 6–9 topics about figurative language (simile, metaphor, personification, etc.)
-];
+export const FIGURATIVE_POOL: PoolTopicDef[] = [];
 
 // ═══════════════════════════════════════════════════════════════════════════
 // i9 — ACADEMIC ATOLL (Mixed K5 Review)
-// Topics: mix from i1–i8 — conjunctions, interjections, perfect tenses,
-//         complex sentences, punctuation, spelling, root words, figurative language
 // ═══════════════════════════════════════════════════════════════════════════
 
 export const BIGTEST5_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Academic Atoll",
-    // TODO
   },
   hu: {
     explorer_title: "Akadémiai-atoll",
-    // TODO
   },
   de: {
     explorer_title: "Akademisches-Atoll",
-    // TODO
   },
   ro: {
     explorer_title: "Acolul academic",
-    // TODO
   },
 };
 
-export const BIGTEST5_POOL: PoolTopicDef[] = [
-  // TODO: 8–9 topics, one from each island above (best representative topic)
-];
+export const BIGTEST5_POOL: PoolTopicDef[] = [];

@@ -39,6 +39,6 @@
     "framer-motion": "^12.34.3",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.2.1",
-    "typescript": "5.9.3"
+    "typescript": "^5.9.3"
   }
 }
