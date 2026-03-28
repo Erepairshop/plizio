@@ -158,9 +158,35 @@ for (const file of files) {
   });
 
   // interactive: hiányzó hint1/hint2
-  const intMatches = [...content.matchAll(/interactive:\s*\{[^}]+\}/g)];
+  // Find interactive blocks with proper nested brace handling
+  const intMatches = [];
+  let i = 0;
+  while (i < content.length) {
+    const idx = content.indexOf("interactive: {", i);
+    if (idx === -1) break;
+
+    let braceCount = 0;
+    let endIdx = -1;
+    for (let j = idx + "interactive: {".length - 1; j < content.length; j++) {
+      if (content[j] === "{") braceCount++;
+      else if (content[j] === "}") {
+        if (braceCount === 0) {
+          endIdx = j;
+          break;
+        }
+        braceCount--;
+      }
+    }
+
+    if (endIdx !== -1) {
+      const block = content.substring(idx, endIdx + 1);
+      intMatches.push({ block, index: idx });
+    }
+    i = endIdx !== -1 ? endIdx + 1 : idx + 1;
+  }
+
   intMatches.forEach(m => {
-    const block = m[0];
+    const block = m.block;
     const lineNum = content.slice(0, m.index).split("\n").length;
     if (!block.includes("hint1:")) {
       errors.push(`  L${lineNum}: [INTERACTIVE] hiányzó "hint1:"`);
@@ -179,9 +205,35 @@ for (const file of files) {
   });
 
   // SVG típus érvényesség
-  const svgBlockMatches = [...content.matchAll(/svg:\s*\{[^}]+\}/g)];
+  // Find svg blocks with proper nested brace handling
+  const svgBlockMatches = [];
+  i = 0;
+  while (i < content.length) {
+    const idx = content.indexOf("svg: {", i);
+    if (idx === -1) break;
+
+    let braceCount = 0;
+    let endIdx = -1;
+    for (let j = idx + "svg: {".length - 1; j < content.length; j++) {
+      if (content[j] === "{") braceCount++;
+      else if (content[j] === "}") {
+        if (braceCount === 0) {
+          endIdx = j;
+          break;
+        }
+        braceCount--;
+      }
+    }
+
+    if (endIdx !== -1) {
+      const block = content.substring(idx, endIdx + 1);
+      svgBlockMatches.push({ block, index: idx });
+    }
+    i = endIdx !== -1 ? endIdx + 1 : idx + 1;
+  }
+
   svgBlockMatches.forEach(m => {
-    const block = m[0];
+    const block = m.block;
     const lineNum = content.slice(0, m.index).split("\n").length;
     const typeMatch = block.match(/type:\s*"([^"]+)"/);
     if (typeMatch && !VALID_SVG_TYPES.has(typeMatch[1])) {
