@@ -181,6 +181,65 @@ export const ADJEKTIV5_LABELS: Record<string, Record<string, string>> = {
     t8_h1: "Benutze 'so' und 'wie'.", t8_h2: "Ich bin so groß wie du.",
     t8_sent_w: "Ich bin ___ ___ du.",
     t8_cw1: "so groß wie", t8_cw2: "größer als", t8_cw3: "am größten", t8_cw4: "groß",
+
+    // T9: Verstärker
+    t9_title: "Noch stärker!",
+    t9_text: "Mit Verstärkerwörtern wie 'äußerst', 'besonders' oder 'sehr' macht man Adjektive intensiver.",
+    t9_inst: "Ergänze den Satz mit dem passenden Verstärker!",
+    t9_h1: "Welches Wort verstärkt das Adjektiv?", t9_h2: "äußerst, besonders, sehr.",
+    t9_sent: "Das Ergebnis ist ___ gut.",
+    t9_c1: "besonders", t9_c2: "nicht", t9_c3: "wenig", t9_c4: "kaum",
+
+    // T10: Farbadjektive Match
+    t10_title: "Farben vergleichen",
+    t10_text: "Viele Farbadjektive haben Steigerungsformen. Helles Blau ist heller als dunkles Blau.",
+    t10_inst: "Verbinde die Farbe mit ihrer Beschreibung!",
+    t10_h1: "Dunkel ist das Gegenteil von hell.", t10_h2: "Rot ist intensiver als Rosa.",
+    t10_l1: "hell", t10_r1: "dunkel",
+    t10_l2: "kräftig", t10_r2: "blass",
+    t10_l3: "strahlend", t10_r3: "matt",
+    t10_l4: "knallrot", t10_r4: "rosa",
+
+    // T11: Attributive Adjektivendungen nach bestimmtem Artikel
+    t11_title: "Endung nach 'der'",
+    t11_text: "Nach dem bestimmten Artikel (der, die, das) bekommt das Adjektiv bestimmte Endungen: der alte Mann.",
+    t11_inst: "Welche Adjektivendung passt?",
+    t11_h1: "Nach 'der' (Maskulinum Nom.) endet das Adjektiv auf -e.", t11_h2: "der alt-E Mann.",
+    t11_sent: "Ich sehe den ___ Mann.",
+    t11_c1: "alten", t11_c2: "alter", t11_c3: "alte", t11_c4: "altem",
+
+    // T12: Gegensatz-Magnet
+    t12_title: "Gegenteil-Magnet",
+    t12_text: "Adjektive haben oft ein genaues Gegenteil. Diese Antonyme sind wichtig für gute Texte.",
+    t12_inst: "Paare mit dem Magneten bilden!",
+    t12_h1: "Was ist das Gegenteil von froh?", t12_h2: "Froh und traurig sind Gegenteile.",
+    t12_l1: "froh", t12_r1: "traurig",
+    t12_l2: "mutig", t12_r2: "ängstlich",
+    t12_l3: "fleißig", t12_r3: "faul",
+    t12_l4: "freundlich", t12_r4: "unfreundlich",
+
+    // T13: Personenbeschreibung
+    t13_title: "Wie sieht er aus?",
+    t13_text: "Adjektive für Personenbeschreibungen: groß, klein, schlank, dünn, kräftig, freundlich.",
+    t13_inst: "Wähle das passende Adjektiv für die Beschreibung!",
+    t13_h1: "Eine schlanke Person ist nicht dick.", t13_h2: "Groß beschreibt die Körpergröße.",
+    t13_sent: "Mein Freund ist sehr ___ und sportlich.",
+    t13_c1: "schlank", t13_c2: "traurig", t13_c3: "laut", t13_c4: "langweilig",
+
+    // T14: Adjektiv in Satz markieren
+    t14_title: "Adjektiv finden",
+    t14_text: "In einem Satz kann man das Adjektiv finden, das ein Nomen oder eine Stimmung beschreibt.",
+    t14_inst: "Markiere das Adjektiv im Satz!",
+    t14_h1: "Adjektive beschreiben Nomen oder Zustände.", t14_h2: "traurig beschreibt den Zustand.",
+    t14_w1: "Das", t14_w2: "Kind", t14_w3: "war", t14_w4: "traurig", t14_w5: ".",
+
+    // T15: Charakter-Schleuder
+    t15_title: "Charakter-Schleuder",
+    t15_text: "Schieße auf alle Adjektive, die eine Charaktereigenschaft beschreiben!",
+    t15_inst: "Triff nur die Charakteradjektive!",
+    t15_h1: "Charaktereigenschaften beschreiben, wie jemand ist.", t15_h2: "mutig, ehrlich, neugierig.",
+    t15_q: "Welche Wörter beschreiben einen Charakter?",
+    t15_t1: "mutig", t15_t2: "ehrlich", t15_t3: "Tisch", t15_t4: "laufen",
   }
 };
 
@@ -346,6 +405,62 @@ export const PRONOMEN_LABELS: Record<string, Record<string, string>> = {
     t8_h1: "Bei 'ihr' endet das Verb auf -t.", t8_h2: "Ihr lernT.",
     t8_sent_v: "Ihr ___ heute viel.",
     t8_cv1: "lernt", t8_cv2: "lernen", t8_cv3: "lernst", t8_cv4: "lerne",
+
+    // T9: Pronomen im Akkusativ/Dativ (Fallformen)
+    t9_title: "Wen oder Wem?",
+    t9_text: "Personalpronomen ändern sich im Akkusativ (Wen?) und Dativ (Wem?): mich/mir, dich/dir.",
+    t9_inst: "Wähle das richtige Pronomen für den Satz!",
+    t9_h1: "Frage: Wen sieht er? → Mich (Akkusativ).", t9_h2: "Frage: Wem gibt er? → Mir (Dativ).",
+    t9_sent_f: "Er gibt ___ das Buch.",
+    t9_cf1: "mir", t9_cf2: "mich", t9_cf3: "ich", t9_cf4: "meiner",
+
+    // T10: Fragewörter für Pronomen (match-pairs)
+    t10_title: "Wer? Was? Wem?",
+    t10_text: "Fragewörter helfen den richtigen Kasus zu bestimmen: Wer? (Nom), Wen/Was? (Akk), Wem? (Dat).",
+    t10_inst: "Verbinde den Kasus mit seiner Frage!",
+    t10_h1: "Nominativ fragt nach dem Subjekt.", t10_h2: "Akkusativ: Wen oder Was?",
+    t10_l1: "Nominativ", t10_r1: "Wer?",
+    t10_l2: "Akkusativ", t10_r2: "Wen? Was?",
+    t10_l3: "Dativ", t10_r3: "Wem?",
+
+    // T11: Indefinitpronomen
+    t11_title: "Unbestimmt-Wörter",
+    t11_text: "Indefinitpronomen bezeichnen unbekannte Mengen oder Personen: ein, kein, welch-, jemand, niemand.",
+    t11_inst: "Welches Pronomen passt in den Satz?",
+    t11_h1: "Kein verneint den Besitz.", t11_h2: "Ich habe keinen Stift.",
+    t11_sent_indef: "Ich habe ___ Stift dabei.",
+    t11_c1indef: "einen", t11_c2indef: "welcher", t11_c3indef: "keinen", t11_c4indef: "jemanden",
+
+    // T12: Genitiv-Pronomen markieren
+    t12_title: "Wessen? Genitiv",
+    t12_text: "Das Genitiv-Pronomen zeigt Zugehörigkeit: seines, meiner, ihres...",
+    t12_inst: "Markiere das Genitiv-Pronomen im Satz!",
+    t12_h1: "Suche nach 'seines', 'meiner' usw.", t12_h2: "Das ist das Buch seines Vaters.",
+    t12_w1: "Das", t12_w2: "ist", t12_w3: "das", t12_w4: "seines", t12_w5: "Vaters",
+
+    // T13: Reziprokpronomen
+    t13_title: "Gegenseitig!",
+    t13_text: "Das Reziprokpronomen 'einander' oder 'sich' zeigt eine gegenseitige Handlung.",
+    t13_inst: "Ergänze den Satz mit dem Reziprokpronomen!",
+    t13_h1: "Wir helfen einander = wir helfen uns gegenseitig.", t13_h2: "Sie lieben sich.",
+    t13_sent_recip: "Die Kinder helfen ___ bei den Hausaufgaben.",
+    t13_c1recip: "einander", t13_c2recip: "mich", t13_c3recip: "ihn", t13_c4recip: "euch",
+
+    // T14: Pronominaladverbien
+    t14_title: "Darin, darauf, darunter",
+    t14_text: "Pronominaladverbien ersetzen Präposition + Pronomen: darin (in ihm/ihr), darauf (auf ihm/ihr).",
+    t14_inst: "Wähle das passende Pronominaladverb!",
+    t14_h1: "Worauf steht der Becher? → Darauf.", t14_h2: "Worin ist der Stift? → Darin.",
+    t14_sent_prep: "Der Becher steht auf dem Tisch. Er steht ___ .",
+    t14_cprep1: "darauf", t14_cprep2: "darin", t14_cprep3: "darunter", t14_cprep4: "dahinter",
+
+    // T15: Pronomen Mix Schleuder
+    t15_title: "Pronomen-Schleuder",
+    t15_text: "Schieße auf alle Reflexivpronomen in der Runde!",
+    t15_inst: "Triff nur die Reflexivpronomen!",
+    t15_h1: "Reflexivpronomen enden oft auf -sich, -mich, -dich.", t15_h2: "sich, mich, dich, uns.",
+    t15_q: "Welche sind Reflexivpronomen?",
+    t15_t1: "sich", t15_t2: "mich", t15_t3: "Tisch", t15_t4: "Haus",
   }
 };
 
