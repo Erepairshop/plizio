@@ -2519,6 +2519,157 @@ export const ARTIKEL_POOL: PoolTopicDef[] = [
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
   },
+
+  // ── 8. Der Alltag mit Artikeln — highlight text ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "Alltag", emoji: "🏠", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t8_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [2],
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Farben-Artikel-Paare — match-pairs ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: "blau", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "rot", color: "#B91C1C", bg: "#FEE2E2" }, { text: "gruen", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t9_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t9_w1", "t9_w2", "t9_w3", "t9_w4"],
+      correctIndices: [1],
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Zahlen und Artikel — highlight text ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "icon-grid", items: [ { emoji: "1", label: "ein" }, { emoji: "2", label: "zwei" }, { emoji: "3", label: "drei" } ] },
+    bulletKeys: ["t10_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [1],
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Artikel vor Adjektiven — highlight text ────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "der rote Apfel", emoji: "🍎", color: "#DC2626", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [0],
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Akkusativ — drag-to-bucket ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "icon-grid", items: [ { emoji: "📍", label: "Nominativ" }, { emoji: "👉", label: "Akkusativ" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "nom", label: "t12_inst" }, { id: "akk", label: "t12_h2" }],
+      items: [
+        { text: "t12_w1", bucketId: "nom" },
+        { text: "t12_w2", bucketId: "akk" },
+        { text: "t12_w3", bucketId: "nom" },
+        { text: "t12_w4", bucketId: "akk" },
+      ],
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Artikel-Ratespiel — highlight text ───────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🪟", label: "Fenster" }, { emoji: "⛰️", label: "Berg" } ] },
+    bulletKeys: ["t13_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [2],
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Dialog-Check — match-pairs ──────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "Guten Morgen!", emoji: "🌅", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t14_inst", right: "t14_w3" },
+        { left: "t14_h2", right: "t14_w1" },
+      ],
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Artikel-Quiz (gemischt) — highlight text ───────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "Zusammenfassung", emoji: "🎓", color: "#7C3AED", bg: "#EDE9FE" } ] },
+    bulletKeys: ["t15_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [2],
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
