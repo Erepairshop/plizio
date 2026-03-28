@@ -158,7 +158,6 @@ import type { PoolTopicDef } from "./types";
 // ──────────────────────────────────────────────────────────────────────────────
 
 
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i1 — Noun Nebula (🏷️, #3B82F6)
@@ -398,7 +397,6 @@ export const NOUN_POOL: PoolTopicDef[] = [
   }
 ];
 
-    import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i2 — Verb Vortex (⚡, #EF4444)
@@ -637,7 +635,6 @@ export const VERB_POOL: PoolTopicDef[] = [
     quiz: { generate: "verbs_k2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i3 — Adjective Asteroid (🎨, #10B981)
@@ -881,7 +878,6 @@ export const ADJ_POOL: PoolTopicDef[] = [
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i4 — Sentence Station (💬, #F59E0B)
@@ -1118,7 +1114,6 @@ export const SENTENCE2_POOL: PoolTopicDef[] = [
     quiz: { generate: "expanding_k2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i5 — Vowel Valley (🌈, #6366F1)
@@ -1358,7 +1353,6 @@ export const VOWEL_POOL: PoolTopicDef[] = [
     quiz: { generate: "vowel_teams_k2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i6 — Prefix Planet (🔡, #EC4899)
@@ -1597,7 +1591,6 @@ export const PREFIX_POOL: PoolTopicDef[] = [
     quiz: { generate: "prefixes_suffixes_k2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i7 — Meaning Moon (🌙, #14B8A6)
@@ -1835,7 +1828,6 @@ export const MEANING_POOL: PoolTopicDef[] = [
     quiz: { generate: "context_clues_k2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i8 — Grammar Galaxy (🌌, #A855F7)
@@ -2046,7 +2038,7 @@ export const GRAMMAR2_POOL: PoolTopicDef[] = [
   },
   {
     difficulty: "hard", infoTitle: "t11_title", infoText: "t11_text",
-    svg: { type: "word-order", words: ["behind"], color: "#A855F7" },
+    svg: { type: "text-bubbles", items: [{ text: "behind", color: "#1e293b", bg: "#F3E8FF" }] },
     interactive: { type: "word-order", words: ["t11_sw11_1", "t11_sw11_2", "t11_sw11_3", "t11_sw11_4"], correctOrder: [0, 1, 2, 3], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "locations_g2" }
   },
