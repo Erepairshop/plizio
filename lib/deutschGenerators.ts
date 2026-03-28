@@ -183,7 +183,20 @@ const SYNONYME: { w: string; syn: string; f1: string; f2: string }[] = [
   { w: "helfen",   syn: "unterstützen", f1: "behindern", f2: "schaden"  },
   { w: "wütend",   syn: "zornig",       f1: "fröhlich",  f2: "ruhig"    },
   { w: "schauen",  syn: "blicken",      f1: "hören",     f2: "riechen"  },
-  // TODO: add more ↓
+  { w: "traurig",  syn: "betrübt",      f1: "fröhlich",  f2: "müde"     },
+  { w: "tapfer",   syn: "mutig",        f1: "feige",     f2: "traurig"  },
+  { w: "gehen",    syn: "laufen",       f1: "sitzen",    f2: "schlafen" },
+  { w: "kaufen",   syn: "erwerben",     f1: "verkaufen", f2: "geben"    },
+  { w: "groß",     syn: "riesig",       f1: "klein",     f2: "kurz"     },
+  { w: "lachen",   syn: "kichern",      f1: "weinen",    f2: "schlafen" },
+  { w: "alt",      syn: "betagt",       f1: "jung",      f2: "neu"      },
+  { w: "falsch",   syn: "unrichtig",    f1: "richtig",   f2: "gut"      },
+  { w: "schwierig",syn: "kompliziert",  f1: "einfach",   f2: "leicht"   },
+  { w: "freundlich",syn: "nett",        f1: "böse",      f2: "traurig"  },
+  { w: "wichtig",  syn: "bedeutsam",    f1: "unwichtig", f2: "klein"    },
+  { w: "sagen",    syn: "mitteilen",    f1: "schweigen", f2: "hören"    },
+  { w: "suchen",   syn: "fahnden",      f1: "finden",    f2: "verlieren"},
+  { w: "springen", syn: "hüpfen",       f1: "fallen",    f2: "liegen"   },
 ];
 
 // ─── K1 EXPANSION: Körperteile (Bodyparts) ─────────────────────────────────
@@ -289,7 +302,20 @@ const ANTONYME: { w: string; ant: string; f1: string; f2: string }[] = [
   { w: "kaufen",    ant: "verkaufen",   f1: "lernen",    f2: "sehen"   },
   { w: "öffnen",    ant: "schließen",   f1: "gehen",     f2: "trinken" },
   { w: "arm",       ant: "reich",       f1: "klein",     f2: "alt"     },
-  // TODO: add more ↓
+  { w: "stark",     ant: "schwach",     f1: "groß",      f2: "hart"    },
+  { w: "schnell",   ant: "langsam",     f1: "laut",      f2: "warm"    },
+  { w: "groß",      ant: "klein",       f1: "lang",      f2: "schwer"  },
+  { w: "jung",      ant: "alt",         f1: "neu",       f2: "frisch"  },
+  { w: "gut",       ant: "schlecht",    f1: "klein",     f2: "langsam" },
+  { w: "geben",     ant: "nehmen",      f1: "kaufen",    f2: "suchen"  },
+  { w: "lieben",    ant: "hassen",      f1: "mögen",     f2: "suchen"  },
+  { w: "kommen",    ant: "gehen",       f1: "laufen",    f2: "springen"},
+  { w: "antworten", ant: "fragen",      f1: "reden",     f2: "hören"   },
+  { w: "winter",    ant: "sommer",      f1: "herbst",    f2: "frühling"},
+  { w: "nördlich",  ant: "südlich",     f1: "östlich",   f2: "westlich"},
+  { w: "anfang",    ant: "ende",        f1: "mitte",     f2: "beginn"  },
+  { w: "drinnen",   ant: "draußen",     f1: "oben",      f2: "unten"   },
+  { w: "ankommen",  ant: "abfahren",    f1: "laufen",    f2: "gehen"   },
 ];
 
 // Kasus-Sätze: satz=Lückentext  kasus=Kasusname  r=richtig  f=Falschoptionen[]
@@ -338,6 +364,20 @@ const SATZZEICHEN_TEMPLATES: { satz: string; zz: string; f: string[] }[] = [
   { satz: "Ich bin müde",     zz: ".", f: ["?", "!"] },
   { satz: "Vorsicht",         zz: "!", f: [".", "?"] },
   { satz: "Wann kommst du",   zz: "?", f: [".", "!"] },
+  { satz: "Das Wetter ist toll",     zz: ".", f: ["?", "!"] },
+  { satz: "Gib mir das Buch",        zz: "!", f: [".", "?"] },
+  { satz: "Wer bist du",             zz: "?", f: [".", "!"] },
+  { satz: "Ich gehe nach Hause",     zz: ".", f: ["?", "!"] },
+  { satz: "Feuer",                   zz: "!", f: [".", "?"] },
+  { satz: "Wie alt bist du",         zz: "?", f: [".", "!"] },
+  { satz: "Das Buch ist interessant",zz: ".", f: ["?", "!"] },
+  { satz: "Halt",                    zz: "!", f: [".", "?"] },
+  { satz: "Woher kommst du",         zz: "?", f: [".", "!"] },
+  { satz: "Ich lerne Deutsch",       zz: ".", f: ["?", "!"] },
+  { satz: "Komm her",                zz: "!", f: [".", "?"] },
+  { satz: "Warum weinst du",         zz: "?", f: [".", "!"] },
+  { satz: "Die Katze schläft",       zz: ".", f: ["?", "!"] },
+  { satz: "Lass mich durch",         zz: "!", f: [".", "?"] },
   // TODO: add more ↓
 ];
 
@@ -434,7 +474,29 @@ const KONJ1: { v: string; er: string }[] = [
   { v: "wohnen",   er: "wohne"   },
   { v: "arbeiten", er: "arbeite" },
   { v: "sprechen", er: "spreche" },
-  // TODO: add more ↓
+  { v: "sagen",    er: "sage"    },
+  { v: "denken",   er: "denke"   },
+  { v: "glauben",  er: "glaube"  },
+  { v: "sehen",    er: "sehe"    },
+  { v: "hören",    er: "höre"    },
+  { v: "schreiben",er: "schreibe"},
+  { v: "kaufen",   er: "kaufe"   },
+  { v: "schlafen", er: "schlafe" },
+  { v: "helfen",   er: "helfe"   },
+  { v: "fahren",   er: "fahre"   },
+  { v: "essen",    er: "esse"    },
+  { v: "trinken",  er: "trinke"  },
+  { v: "fragen",   er: "frage"   },
+  { v: "antworten",er: "antworte"},
+  { v: "wissen",   er: "wisse"   },
+  { v: "können",   er: "könne"   },
+  { v: "müssen",   er: "müsse"   },
+  { v: "wollen",   er: "wolle"   },
+  { v: "dürfen",   er: "dürfe"   },
+  { v: "verstehen",er: "verstehe"},
+  { v: "erklären", er: "erkläre" },
+  { v: "nehmen",   er: "nehme"   },
+  { v: "bringen",  er: "bringe"  },
 ];
 
 // Passiv-Sätze für K7
@@ -471,7 +533,18 @@ const NEBENSATZ_TYPEN: { satz: string; typ: string; f: string[] }[] = [
   { satz: "Er lernte, als er jung war.",       typ: "Temporalsatz",    f: ["Kausalsatz",    "Konditionalsatz","Konzessivsatz"] },
   { satz: "Er lernte, da er Prüfung hatte.",   typ: "Kausalsatz",      f: ["Konzessivsatz", "Temporalsatz", "Finalsatz"]      },
   { satz: "Er lernte, falls es nötig ist.",    typ: "Konditionalsatz", f: ["Kausalsatz",    "Temporalsatz", "Konzessivsatz"]  },
-  // TODO: add more ↓
+  { satz: "Sie sang, während sie kochte.",    typ: "Temporalsatz",    f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Er schrieb, obwohl er müde war.",  typ: "Konzessivsatz",   f: ["Kausalsatz",    "Temporalsatz", "Finalsatz"]       },
+  { satz: "Sie rief an, damit er Bescheid weiß.", typ: "Finalsatz",   f: ["Kausalsatz",    "Konzessivsatz","Temporalsatz"]    },
+  { satz: "Er blieb zu Hause, weil es regnete.", typ: "Kausalsatz",   f: ["Konzessivsatz", "Finalsatz",    "Temporalsatz"]    },
+  { satz: "Wenn es schneit, bleiben wir drin.", typ: "Konditionalsatz",f: ["Kausalsatz",   "Temporalsatz", "Konzessivsatz"]   },
+  { satz: "Er half ihr, nachdem sie fragte.",  typ: "Temporalsatz",   f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Sie las, da sie neugierig war.",    typ: "Kausalsatz",     f: ["Konzessivsatz", "Temporalsatz", "Konditionalsatz"] },
+  { satz: "Er feierte, obwohl er krank war.",  typ: "Konzessivsatz",  f: ["Kausalsatz",    "Finalsatz",    "Temporalsatz"]    },
+  { satz: "Er rannte, damit er den Bus erwischt.", typ: "Finalsatz",  f: ["Kausalsatz",    "Konzessivsatz","Konditionalsatz"] },
+  { satz: "Falls du kommst, freue ich mich.",  typ: "Konditionalsatz",f: ["Kausalsatz",    "Temporalsatz", "Finalsatz"]       },
+  { satz: "Bevor sie schlief, las sie ein Buch.", typ: "Temporalsatz",f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Er lachte, weil der Film lustig war.", typ: "Kausalsatz",  f: ["Konzessivsatz", "Finalsatz",    "Konditionalsatz"] },
 ];
 
 // Wortarten-Erkennungslisten (K2) — TODO: füllen
