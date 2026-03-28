@@ -124,6 +124,12 @@ export const PASSIV6_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Staple die Bausteine korrekt!",
     t9_h1: "Subjekt -> werden -> Partizip II.",
     t9_sw1: "Das Fenster", t9_sw2: "wird", t9_sw3: "geputzt.",
+    t10_title: "Passiv Perfekt", t10_text: "sein + Partizip II + worden.", t10_inst: "Richtig?", t10_h1: "ist geworden.", t10_h2: "Das Auto ist repariert worden.", t10_q: "Perfekt Passiv?", t10_c1: "ja", t10_c2: "nein",
+    t11_title: "Passiv + Modalverb", t11_text: "Modalverb + Partizip II + werden.", t11_inst: "Modalverb?", t11_h1: "muss, kann, darf.", t11_h2: "Das muss gemacht werden.", t11_q: "Welches?", t11_c1: "muss", t11_c2: "ist",
+    t12_title: "Vorgangs vs Zustands", t12_text: "wird = Aktion, ist = Zustand.", t12_inst: "Welche Art?", t12_h1: "Der Tisch wird gedeckt (Aktion).", t12_h2: "Der Tisch ist gedeckt (Zustand).", t12_b1: "Aktion", t12_b2: "Zustand", t12_i1: "wird", t12_i2: "ist",
+    t13_title: "Agensangabe", t13_text: "Die 'von'-Angabe zeigt den Täter.", t13_inst: "Mit oder ohne?", t13_h1: "Das Auto wird repariert (ohne).", t13_h2: "Das Auto wird vom Mechaniker repariert (mit).", t13_q: "Besser?", t13_c1: "ohne", t13_c2: "mit",
+    t14_title: "Infinitiv Passiv", t14_text: "zu + Partizip II + werden.", t14_inst: "Ordne!",  t14_h1: "Das Haus ist zu renovieren.", t14_h2: "zu + Partizip.", t14_o1: "Das", t14_o2: "Haus", t14_o3: "ist", t14_o4: "zu",
+    t15_title: "Aktiv statt Passiv", t15_text: "Aktiv ist oft klarer.", t15_inst: "Besser?", t15_h1: "Aktiv: Ich erkläre.", t15_h2: "Passiv: Es wird erklärt.", t15_b1: "Aktiv", t15_b2: "Passiv", t15_i1: "Der Lehrer erklärt.", t15_i2: "Der Stoff wird erklärt.",
   }
 };
 
@@ -181,6 +187,42 @@ export const PASSIV6_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧱", title: "Stack", bg: "#F0FDFA" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "werden_passiv" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [{ text: "sein", color: "#14B8A6", bg: "#F0FDFA" }, { text: "worden", color: "#14B8A6", bg: "#F0FDFA" }] },
+    interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "word-display", word: "Modalverb", color: "#14B8A6" },
+    interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#F0FDFA", border: "#14B8A6" }, right: { items: ["t12_i2"], bg: "#FCE7F3", border: "#EC4899" } },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "a", label: "t12_b1" }, { id: "z", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "a" }, { text: "t12_i2", bucketId: "z" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "🎭", title: "Täter", bg: "#F0FDFA" },
+    interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["zu", "Partizip", "werden"], color: "#14B8A6" },
+    interactive: { type: "word-order", words: ["t14_o1", "t14_o2", "t14_o3", "t14_o4"], correctOrder: [0, 1, 2, 3], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#F0FDFA", border: "#10B981" }, right: { items: ["t15_i2"], bg: "#FEE2E2", border: "#B91C1C" } },
+    interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" }
   }
 ];
 
@@ -269,6 +311,12 @@ export const KONJ2_LABELS: Record<string, Record<string, string>> = {
     t9_h2: "Wir 'könnten' gewinnen.",
     t9_sent_mod: "Wir ___ gewinnen, wenn wir trainieren.",
     t9_cm1: "könnten", t9_cm2: "können", t9_cm3: "konnten", t9_cm4: "müssen",
+    t10_title: "Konditionale", t10_text: "wenn...würde...dann.", t10_inst: "Ergänze!",  t10_h1: "würde = Konjunktiv II.", t10_h2: "Wenn ich Zeit hätte, würde ich reisen.", t10_q: "Welches Form?", t10_c1: "würde", t10_c2: "wird",
+    t11_title: "Höfliche Bitte", t11_text: "Konjunktiv II = höflicher.", t11_inst: "Höflicher machen!", t11_h1: "Könntest du...?", t11_h2: "würdest / könntest.", t11_q: "Welches?", t11_c1: "könntest", t11_c2: "kannst",
+    t12_title: "Ach wenn...", t12_text: "Wünsche mit Konjunktiv II.", t12_inst: "Welche ist Wunsch?", t12_h1: "Ach wenn ich fliegen könnte!", t12_h2: "Wunsch = hätte, wäre, würde.", t12_b1: "Wunsch", t12_b2: "Realität", t12_i1: "Ach wenn...", t12_i2: "Ich bin.",
+    t13_title: "Vorschlag machen", t13_text: "würde = Vorschlag.", t13_inst: "Welcher Vorschlag?", t13_h1: "Ich würde vorschlagen.", t13_h2: "würde + Infinitiv.", t13_q: "Welches?", t13_c1: "würde", t13_c2: "will",
+    t14_title: "Irreale Gegenwart", t14_text: "würde + Infinitiv = jetzt nicht möglich.", t14_inst: "Richtig?", t14_h1: "Ich würde gern schlafen.", t14_h2: "würde = nicht möglich.", t14_q: "Korrekt?", t14_c1: "ja", t14_c2: "nein",
+    t15_title: "Konjunktiv Perfekt", t15_text: "hätte / wäre + Partizip II.", t15_inst: "Ordne!", t15_h1: "Wenn ich das gewusst hätte.", t15_h2: "hätte + Partizip.", t15_o1: "Hätte", t15_o2: "ich", t15_o3: "das", t15_o4: "gewusst",
   }
 };
 
@@ -326,6 +374,42 @@ export const KONJ2_POOL: PoolTopicDef[] = [
     svg: { type: "text-bubbles", items: [{ text: "könnten", color: "#6366F1", bg: "#EEF2FF" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent_mod", choices: ["t9_cm1", "t9_cm2", "t9_cm3", "t9_cm4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "konjunktiv_1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "sentence-display", words: ["wenn", "würde", "dann"], color: "#6366F1" },
+    interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "Könntest du...?", color: "#6366F1", bg: "#EEF2FF" }] },
+    interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#EEF2FF", border: "#6366F1" }, right: { items: ["t12_i2"], bg: "#F1F5F9", border: "#64748B" } },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "w", label: "t12_b1" }, { id: "r", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "w" }, { text: "t12_i2", bucketId: "r" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "💡", title: "Vorschlag", bg: "#EEF2FF" },
+    interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "word-display", word: "würde", color: "#6366F1" },
+    interactive: { type: "gap-fill", sentence: "t14_q", choices: ["t14_c1", "t14_c2"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [{ text: "hätte", color: "#6366F1", bg: "#EEF2FF" }, { text: "Partizip II", color: "#6366F1", bg: "#EEF2FF" }] },
+    interactive: { type: "word-order", words: ["t15_o1", "t15_o2", "t15_o3", "t15_o4"], correctOrder: [0, 1, 2, 3], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" }
   }
 ];
 
@@ -416,6 +500,12 @@ export const INFINITIV6_LABELS: Record<string, Record<string, string>> = {
     t9_h2: "Nach Modalverben kommt KEIN 'zu'.",
     t9_sent_mod: "Ich kann sehr schnell ___ .",
     t9_cm1: "laufen", t9_cm2: "zu laufen", t9_cm3: "gelaufen", t9_cm4: "lief",
+    t10_title: "gehen zu + Infinitiv", t10_text: "'gehen zu' = nahe Zukunft.", t10_inst: "Zeitform?", t10_h1: "gehe zu machen.", t10_h2: "Das bedeutet: bald.", t10_q: "Zeitform?", t10_c1: "zukunft", t10_c2: "vergangenheit",
+    t11_title: "haben/sein zu", t11_text: "'haben/sein zu' = Notwendigkeit.", t11_inst: "Bedeutung?", t11_h1: "Das ist zu essen.", t11_h2: "Muss / darf / kann.", t11_q: "Was?", t11_c1: "notwendig", t11_c2: "unmöglich",
+    t12_title: "statt/anstatt zu", t12_text: "'Anstatt zu' = anstelle von.", t12_inst: "Welcher?", t12_h1: "Anstatt zu schlafen spielte er.", t12_h2: "statt zu = nicht zu.", t12_b1: "anstatt", t12_b2: "normal", t12_i1: "spielen statt lernen", t12_i2: "lernen",
+    t13_title: "drohen/pflegen zu", t13_text: "'drohen zu' = Gefahr; 'pflegen zu' = gewöhnlich.", t13_inst: "Welcher Sinn?", t13_h1: "Das Haus droht einzubrechen.", t13_h2: "Gefahr / gewöhnlich.", t13_q: "Welcher?", t13_c1: "droht", t13_c2: "pflegt",
+    t14_title: "Partizip + zu", t14_text: "'Das ist zu sehen' = kann gesehen werden.", t14_inst: "Ordne!", t14_h1: "Das Buch ist zu lesen.", t14_h2: "sein + Partizip + zu.", t14_o1: "Das", t14_o2: "ist", t14_o3: "zu", t14_o4: "lesen",
+    t15_title: "Präposition + zu + Infinitiv", t15_text: "'beim Lesen', 'zum Spielen'.", t15_inst: "Richtig?", t15_h1: "beim Lesen, zum Schreiben.", t15_h2: "Präposition + zu + Infinitiv.", t15_b1: "mit zu", t15_b2: "ohne zu", t15_i1: "beim laufen", t15_i2: "laufen",
   }
 };
 
@@ -473,6 +563,42 @@ export const INFINITIV6_POOL: PoolTopicDef[] = [
     svg: { type: "two-groups", left: { items: ["können"], bg: "#F1F5F9", border: "#64748B" }, right: { items: ["laufen"], bg: "#DCFCE7", border: "#10B981" } },
     interactive: { type: "gap-fill", sentence: "t9_sent_mod", choices: ["t9_cm1", "t9_cm2", "t9_cm3", "t9_cm4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "verben_k3" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "gehen zu", color: "#10B981" },
+    interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "haben/sein", color: "#10B981", bg: "#DCFCE7" }, { text: "zu", color: "#10B981", bg: "#DCFCE7" }] },
+    interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#DCFCE7", border: "#10B981" }, right: { items: ["t12_i2"], bg: "#F1F5F9", border: "#64748B" } },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "s", label: "t12_b1" }, { id: "n", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "s" }, { text: "t12_i2", bucketId: "n" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "⚠️", title: "drohen", bg: "#DCFCE7" },
+    interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["sein", "zu", "Partizip"], color: "#10B981" },
+    interactive: { type: "word-order", words: ["t14_o1", "t14_o2", "t14_o3", "t14_o4"], correctOrder: [0, 1, 2, 3], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#DCFCE7", border: "#10B981" }, right: { items: ["t15_i2"], bg: "#F1F5F9", border: "#64748B" } },
+    interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" }
   }
 ];
 
@@ -565,6 +691,12 @@ export const SYN_ANT_LABELS: Record<string, Record<string, string>> = {
     t9_ml9_1: "neu", t9_mr9_1: "alt",
     t9_ml9_2: "hell", t9_mr9_2: "dunkel",
     t9_ml9_3: "hart", t9_mr9_3: "weich",
+    t10_title: "Metaphern", t10_text: "Bildhafte Wörter.", t10_inst: "Bild?", t10_h1: "Ohne 'wie'.", t10_h2: "Das Herz des Waldes.", t10_q: "Metapher?", t10_c1: "ja", t10_c2: "nein",
+    t11_title: "Syn. im Kontext", t11_text: "Nuancen.", t11_inst: "Besser?", t11_h1: "groß / riesig.", t11_h2: "Kontext.", t11_q: "Passt?", t11_c1: "riesig", t11_c2: "groß",
+    t12_title: "Ant. erweitert", t12_text: "Mehr Gegenteile.", t12_inst: "Gegenteil?", t12_h1: "Tag - Nacht.", t12_h2: "Gegensatz.", t12_b1: "Gegenteil", t12_b2: "Normal", t12_i1: "Licht", t12_i2: "Hell",
+    t13_title: "Bedeutungs-Nuancen", t13_text: "Gefühlsunterschiede.", t13_inst: "Gefühl?", t13_h1: "billig vs günstig.", t13_h2: "Schatten.", t13_q: "Gefühl?", t13_c1: "negativ", t13_c2: "positiv",
+    t14_title: "Wortfamilienvergleich", t14_text: "Verwandte Synonyme.", t14_inst: "Ordne!", t14_h1: "lachen - lächeln.", t14_h2: "Familie.", t14_o1: "lachen", t14_o2: "lächeln", t14_o3: "grinsen", t14_o4: "",
+    t15_title: "Kontrastive Analyse", t15_text: "Unterschiede klar.", t15_inst: "Unterschied?", t15_h1: "alt: Mensch vs Zeit.", t15_h2: "Kontext.", t15_b1: "Mensch", t15_b2: "Zeit", t15_i1: "alt", t15_i2: "antik",
   }
 };
 
@@ -622,7 +754,13 @@ export const SYN_ANT_POOL: PoolTopicDef[] = [
     svg: { type: "two-groups", left: { items: ["neu", "alt"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["hell", "dunkel"], bg: "#fdf4ff", border: "#e9d5ff" } },
     interactive: { type: "match-pairs", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "antonyme" }
-  }
+  },
+  { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "🎨", title: "T10", bg: "#FEE2E2" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
+  { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "simple-icon", icon: "📚", title: "T11", bg: "#FEE2E2" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
+  { difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text", svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#FEE2E2", border: "#EF4444" }, right: { items: ["t12_i2"], bg: "#F1F5F9", border: "#64748B" } }, interactive: { type: "drag-to-bucket", buckets: [{ id: "a", label: "t12_b1" }, { id: "n", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "a" }, { text: "t12_i2", bucketId: "n" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" }, quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" } },
+  { difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text", svg: { type: "simple-icon", icon: "💭", title: "T13", bg: "#FEE2E2" }, interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" }, quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" } },
+  { difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text", svg: { type: "sentence-display", words: ["lachen", "lächeln", "grinsen"], color: "#EF4444" }, interactive: { type: "word-order", words: ["t14_o1", "t14_o2", "t14_o3"], correctOrder: [0, 1, 2], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" }, quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" } },
+  { difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text", svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#FEE2E2", border: "#EF4444" }, right: { items: ["t15_i2"], bg: "#FCE7F3", border: "#EC4899" } }, interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" }, quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" } }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -701,6 +839,12 @@ export const FREMD5_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "In einem Konzert spielt das...?", t9_h2: "Orchester.",
     t9_sent: "Das ___ spielt eine schöne Sinfonie.",
     t9_c1: "Orchester", t9_c2: "Orkester", t9_c3: "Orchester h", t9_c4: "Orkestar",
+    t10_title: "Lat. Präfixe", t10_text: "Latin prefixes.", t10_inst: "Prefix?", t10_h1: "pre-, post-, super-.", t10_h2: "Before, after, above.", t10_q: "Meaning?", t10_c1: "before", t10_c2: "after",
+    t11_title: "Gr. Suffixe", t11_text: "Greek suffixes.", t11_inst: "Suffix?", t11_h1: "-log, -phon, -scope.", t11_h2: "Word, sound, view.", t11_q: "What?", t11_c1: "sound", t11_c2: "view",
+    t12_title: "Akronyme", t12_text: "Abbreviated words.", t12_inst: "Acronym?", t12_h1: "NATO, RADAR.", t12_h2: "Short forms.", t12_b1: "Acronym", t12_b2: "Normal", t12_i1: "NATO", t12_i2: "Organization",
+    t13_title: "Fremdwort-Ursprung", t13_text: "Word origins.", t13_inst: "From where?", t13_h1: "From Latin / Greek.", t13_h2: "Origins matter.", t13_q: "Origin?", t13_c1: "latin", t13_c2: "greek",
+    t14_title: "Assimilation", t14_text: "Words change in new language.", t14_inst: "Order!", t14_h1: "English, Latin, French.", t14_h2: "Language change.", t14_o1: "Fremd", t14_o2: "Wort", t14_o3: "Anpassung", t14_o4: "",
+    t15_title: "Stil-Register", t15_text: "Formal vs informal.", t15_inst: "Register?", t15_h1: "Fremdwörter = formal.", t15_h2: "Context matters.", t15_b1: "Formal", t15_b2: "Informal", t15_i1: "Automobile", t15_i2: "Auto",
   }
 };
 
@@ -758,7 +902,13 @@ export const FREMD5_POOL: PoolTopicDef[] = [
     svg: { type: "text-bubbles", items: [{ text: "Orchester", color: "#A855F7", bg: "#F5F3FF" }] },
     interactive: { type: "gap-fill", sentence: "t9_sent", choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
-  }
+  },
+  { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "🏛️", title: "Latin", bg: "#F5F3FF" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
+  { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "simple-icon", icon: "🏛️", title: "Greek", bg: "#F5F3FF" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
+  { difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text", svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#F5F3FF", border: "#A855F7" }, right: { items: ["t12_i2"], bg: "#FCE7F3", border: "#EC4899" } }, interactive: { type: "drag-to-bucket", buckets: [{ id: "a", label: "t12_b1" }, { id: "n", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "a" }, { text: "t12_i2", bucketId: "n" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" }, quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" } },
+  { difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text", svg: { type: "simple-icon", icon: "📜", title: "Origin", bg: "#F5F3FF" }, interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" }, quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" } },
+  { difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text", svg: { type: "sentence-display", words: ["Fremd", "Wort", "Form"], color: "#A855F7" }, interactive: { type: "word-order", words: ["t14_o1", "t14_o2"], correctOrder: [0, 1], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" }, quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" } },
+  { difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text", svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#F5F3FF", border: "#A855F7" }, right: { items: ["t15_i2"], bg: "#F0FDFA", border: "#10B981" } }, interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" }, quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" } }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -838,6 +988,12 @@ export const SATZ6_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Wo fehlt das Komma?",
     t9_h1: "Suche die Stelle vor dem Relativpronomen 'das'.", t9_h2: "Das Buch, das...",
     t9_w9_1: "Das Buch", t9_w9_2: "das ich lese", t9_w9_3: "ist", t9_w9_4: "gut", t9_w9_5: ".",
+    t10_title: "Indefinit-Pronomen", t10_text: "Wer, was, welcher.", t10_inst: "Richtig?", t10_h1: "welcher = welches.", t10_h2: "Genus muss passen.", t10_q: "Pronomen?", t10_c1: "welcher", t10_c2: "was",
+    t11_title: "Relativsatz-Genus", t11_text: "Artikel bestimmt Genus.", t11_inst: "Welcher?", t11_h1: "Das Mädchen, das...", t11_h2: "das = neutral.", t11_q: "Genus?", t11_c1: "neutral", t11_c2: "weiblich",
+    t12_title: "Kausalsatz erweitert", t12_text: "weil / da / denn unterscheiden.", t12_inst: "Unterschied?", t12_h1: "weil = Verbende, denn = Pos 2.", t12_h2: "Word order matters.", t12_b1: "weil/da", t12_b2: "denn", t12_i1: "Satz mit weil.", t12_i2: "Satz mit denn",
+    t13_title: "Relativsatz-Übung", t13_text: "Komplexere Relativsätze.", t13_inst: "Richtig?", t13_h1: "Der Mann, dem du hilfst.", t13_h2: "Kasus muss passen.", t13_q: "Kasus?", t13_c1: "dativ", t13_c2: "nominativ",
+    t14_title: "Satz-Bindung", t14_text: "Mehrere Sätze verbinden.", t14_inst: "Ordne!", t14_h1: "Hauptsatz + Relativsatz.", t14_h2: "Struktur.", t14_o1: "Hauptsatz", t14_o2: "Bindewort", t14_o3: "Relativsatz", t14_o4: "",
+    t15_title: "Satz-Stil", t15_text: "Kurz vs lang Sätze.", t15_inst: "Besser?", t15_h1: "Kurze Sätze = klar.", t15_h2: "Stil.", t15_b1: "Kurz", t15_b2: "Lang", t15_i1: "Das Buch ist gut.", t15_i2: "Das Buch, welches ich las, war wirklich sehr gut.",
   }
 };
 
@@ -895,7 +1051,13 @@ export const SATZ6_POOL: PoolTopicDef[] = [
     svg: { type: "sentence-display", words: ["Das Buch", ",", "das..."], highlightIndices: [1], color: "#F59E0B" },
     interactive: { type: "highlight-text", tokens: ["t9_w9_1", "t9_w9_2", "t9_w9_3", "t9_w9_4", "t9_w9_5"], correctIndices: [0], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "satzzeichen_k1" }
-  }
+  },
+  { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "❓", title: "T10", bg: "#FFFBEB" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
+  { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "article-noun", article: "Das", articleColor: "#065F46", noun: "Mädchen", emoji: "👧" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
+  { difficulty: "hard", infoTitle: "t12_title", infoText: "t12_text", svg: { type: "two-groups", left: { items: ["weil/da"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["denn"], bg: "#FCE7F3", border: "#EC4899" } }, interactive: { type: "drag-to-bucket", buckets: [{ id: "wd", label: "t12_b1" }, { id: "d", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "wd" }, { text: "t12_i2", bucketId: "d" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" }, quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" } },
+  { difficulty: "hard", infoTitle: "t13_title", infoText: "t13_text", svg: { type: "simple-icon", icon: "🔗", title: "Complex", bg: "#FFFBEB" }, interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" }, quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" } },
+  { difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text", svg: { type: "sentence-display", words: ["Haupt", "+", "Relativ"], color: "#F59E0B" }, interactive: { type: "word-order", words: ["t14_o1", "t14_o2"], correctOrder: [0, 1], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" }, quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" } },
+  { difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text", svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["t15_i2"], bg: "#FDF4FF", border: "#9333EA" } }, interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" }, quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" } }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -977,6 +1139,12 @@ export const WORT6_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Staple von kurz nach lang!",
     t9_h1: "Haus -> Haustür -> Haustürschlüssel.",
     t9_sw1: "Haus", t9_sw2: "Haustür", t9_sw3: "Haustürschlüssel",
+    t10_title: "Be-/Entpräfixe", t10_text: "More prefixes.", t10_inst: "Prefix?", t10_h1: "be-, ent-.", t10_h2: "Making words.", t10_q: "Function?", t10_c1: "prefix", t10_c2: "suffix",
+    t11_title: "-ung, -nis Suffixe", t11_text: "More suffixes.", t11_inst: "Suffix?", t11_h1: "-ung, -nis.", t11_h2: "Making nouns.", t11_q: "Type?", t11_c1: "suffix", t11_c2: "prefix",
+    t12_title: "Getrenntschreibung", t12_text: "Space between words.", t12_inst: "Together or separate?", t12_h1: "Sometimes two words.", t12_h2: "Rules.", t12_b1: "Together", t12_b2: "Separate", t12_i1: "hineinlaufen", t12_i2: "hin ein laufen",
+    t13_title: "Zusammengesetzte", t13_text: "Compound words.", t13_inst: "Compound?", t13_h1: "Tisch + Tuch = Tischtuch.", t13_h2: "Two words into one.", t13_q: "Correct?", t13_c1: "ja", t13_c2: "nein",
+    t14_title: "Wort-Aussprache", t14_text: "How to pronounce.", t14_inst: "Order!", t14_h1: "Betonung matters.", t14_h2: "Accent.", t14_o1: "Über", t14_o2: "Set", t14_o3: "Ung", t14_o4: "",
+    t15_title: "Wort-Varianten", t15_text: "Same word, different forms.", t15_inst: "Variant?", t15_h1: "laufen - läuft.", t15_h2: "Change.", t15_b1: "Stamm", t15_b2: "Variation", t15_i1: "lauf-", t15_i2: "lauf-en",
   }
 };
 
@@ -1034,7 +1202,13 @@ export const WORT6_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧱", title: "Stapler", bg: "#FDF2F8" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
-  }
+  },
+  { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "📝", title: "T10", bg: "#FDF2F8" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
+  { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "simple-icon", icon: "📚", title: "T11", bg: "#FDF2F8" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
+  { difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text", svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#FDF2F8", border: "#EC4899" }, right: { items: ["t12_i2"], bg: "#FCE7F3", border: "#DB2777" } }, interactive: { type: "drag-to-bucket", buckets: [{ id: "t", label: "t12_b1" }, { id: "s", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "t" }, { text: "t12_i2", bucketId: "s" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" }, quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" } },
+  { difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text", svg: { type: "simple-icon", icon: "🔤", title: "Compound", bg: "#FDF2F8" }, interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" }, quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" } },
+  { difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text", svg: { type: "sentence-display", words: ["Betonung", "matters"], color: "#EC4899" }, interactive: { type: "word-order", words: ["t14_o1", "t14_o2"], correctOrder: [0, 1], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" }, quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" } },
+  { difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text", svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#FDF2F8", border: "#EC4899" }, right: { items: ["t15_i2"], bg: "#FCE7F3", border: "#DB2777" } }, interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" }, quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" } }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -1114,6 +1288,12 @@ export const ZEICHEN6_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Staple die Zeichen!",
     t9_h1: "Komma -> Semikolon -> Punkt.",
     t9_sw1: "Komma (,)", t9_sw2: "Semikolon (;)", t9_sw3: "Punkt (.)",
+    t10_title: "Bindestrich Regeln", t10_text: "Hyphen usage.", t10_inst: "Hyphen here?", t10_h1: "Bindestrich.", t10_h2: "Compound.", t10_q: "Use?", t10_c1: "ja", t10_c2: "nein",
+    t11_title: "Gedankenstrich", t11_text: "Em dash.", t11_inst: "Where?", t11_h1: "Break.", t11_h2: "Pause.", t11_q: "Use?", t11_c1: "pause", t11_c2: "list",
+    t12_title: "Ellipse ... Regeln", t12_text: "Three dots.", t12_inst: "Ellipse?", t12_h1: "Unfinished.", t12_h2: "...", t12_b1: "Ellipse", t12_b2: "Period", t12_i1: "Und dann...", t12_i2: "Dann.",
+    t13_title: "Klammer ()", t13_text: "Parentheses.", t13_inst: "Where?", t13_h1: "Extra info.", t13_h2: "(info).", t13_q: "Use?", t13_c1: "ja", t13_c2: "nein",
+    t14_title: "Ausrufezeichen!", t14_text: "Exclamation.", t14_inst: "Order!", t14_h1: "Strong.", t14_h2: "!.", t14_o1: "Hurra", t14_o2: "!", t14_o3: "Ja", t14_o4: "",
+    t15_title: "Semikolon Einsatz", t15_text: "Semicolon.", t15_inst: "Use?", t15_h1: "Between.", t15_h2: ";.", t15_b1: "Semikolon", t15_b2: "Komma", t15_i1: "A; B.", t15_i2: "A, B.",
   }
 };
 
@@ -1171,7 +1351,13 @@ export const ZEICHEN6_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧱", title: "Hierarchie", bg: "#EEF2FF" },
     interactive: { type: "physics-stacker", words: ["t9_sw1", "t9_sw2", "t9_sw3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "satzzeichen_k1" }
-  }
+  },
+  { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "📝", title: "T10", bg: "#EEF2FF" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
+  { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "simple-icon", icon: "📚", title: "T11", bg: "#EEF2FF" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
+  { difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text", svg: { type: "two-groups", left: { items: ["t12_i1"], bg: "#EEF2FF", border: "#4338CA" }, right: { items: ["t12_i2"], bg: "#FCE7F3", border: "#EC4899" } }, interactive: { type: "drag-to-bucket", buckets: [{ id: "e", label: "t12_b1" }, { id: "p", label: "t12_b2" }], items: [{ text: "t12_i1", bucketId: "e" }, { text: "t12_i2", bucketId: "p" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" }, quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2"], answer: "t12_c1" } },
+  { difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text", svg: { type: "simple-icon", icon: "🔤", title: "Bracket", bg: "#EEF2FF" }, interactive: { type: "gap-fill", sentence: "t13_q", choices: ["t13_c1", "t13_c2"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" }, quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2"], answer: "t13_c1" } },
+  { difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text", svg: { type: "sentence-display", words: ["Hurra", "!"], color: "#4338CA" }, interactive: { type: "word-order", words: ["t14_o1", "t14_o2"], correctOrder: [0, 1], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" }, quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2"], answer: "t14_c1" } },
+  { difficulty: "easy", infoTitle: "t15_title", infoText: "t15_text", svg: { type: "two-groups", left: { items: ["t15_i1"], bg: "#EEF2FF", border: "#4338CA" }, right: { items: ["t15_i2"], bg: "#FCE7F3", border: "#EC4899" } }, interactive: { type: "highlight-text", tokens: ["t15_b1", "t15_b2"], correctIndices: [0], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" }, quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2"], answer: "t15_c1" } }
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -1257,6 +1443,12 @@ export const EXAM6_LABELS: Record<string, Record<string, string>> = {
     t9_ml9: "Vorgänger", t9_mr9: "Nachfolger",
     t9_ml10: "Aktiv", t9_mr10: "Passiv",
     t9_ml11: "Realität", t9_mr11: "Wunsch",
+    t10_title: "Exam Mix 10", t10_text: "Zusammenfassung.", t10_inst: "Frage?", t10_h1: "K6.", t10_h2: "Exam.", t10_q: "Richtig?", t10_c1: "ja", t10_c2: "nein",
+    t11_title: "Exam Mix 11", t11_text: "Review.", t11_inst: "Test?", t11_h1: "K6.", t11_h2: "Review.", t11_q: "Correct?", t11_c1: "yes", t11_c2: "no",
+    t12_title: "Exam Mix 12", t12_text: "Final Test.", t12_inst: "Question?", t12_h1: "K6.", t12_h2: "Final.", t12_b1: "Option 1", t12_b2: "Option 2", t12_i1: "A", t12_i2: "B",
+    t13_title: "Exam Mix 13", t13_text: "Test.", t13_inst: "Q?", t13_h1: "Final.", t13_h2: "Test.", t13_q: "Q?", t13_c1: "A", t13_c2: "B",
+    t14_title: "Exam Mix 14", t14_text: "Order.", t14_inst: "Sort!",  t14_h1: "Order.", t14_h2: "Test.", t14_o1: "A", t14_o2: "B", t14_o3: "C", t14_o4: "",
+    t15_title: "Exam Mix 15", t15_text: "Final.", t15_inst: "Last?", t15_h1: "K6.", t15_h2: "Final.", t15_b1: "Option 1", t15_b2: "Option 2", t15_i1: "A", t15_i2: "B",
   }
 };
 
@@ -1314,5 +1506,41 @@ export const EXAM6_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧲", title: "Magnet-Diplom", bg: "#4ECDC4" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9", right: "t9_mr9" }, { left: "t9_ml10", right: "t9_mr10" }, { left: "t9_ml11", right: "t9_mr11" }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "antonyme" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "two-groups", left: { items: ["Aktiv"], bg: "#DBEAFE", border: "#1D4ED8" }, right: { items: ["Passiv"], bg: "#FEE2E2", border: "#B91C1C" } },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "a", label: "t10_b1" }, { id: "p", label: "t10_b2" }], items: [{ text: "t10_i1", bucketId: "a" }, { text: "t10_i2", bucketId: "p" }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], answer: "t10_c1" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "würde", color: "#6366F1", bg: "#EEF2FF" }, { text: "könnte", color: "#6366F1", bg: "#EEF2FF" }] },
+    interactive: { type: "physics-slingshot", question: "t11_q", targets: [{ id: "1", text: "t11_t1", isCorrect: true }, { id: "2", text: "t11_t2", isCorrect: true }, { id: "3", text: "t11_t3", isCorrect: false }, { id: "4", text: "t11_t4", isCorrect: false }], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], answer: "t11_c2" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "sentence-display", words: ["damit", "...", "Ziel"], color: "#10B981" },
+    interactive: { type: "sentence-build", fragments: ["t12_f1", "t12_f2", "t12_f3", "t12_f4"], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], answer: "t12_c1" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "two-groups", left: { items: ["gleich", "ähnlich"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["unterschiedlich", "anders"], bg: "#fdf4ff", border: "#e9d5ff" } },
+    interactive: { type: "physics-stacker", words: ["t13_w1", "t13_w2", "t13_w3"], correctOrder: [0, 1, 2], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], answer: "t13_c3" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "word-display", word: "Qualität", color: "#A855F7" },
+    interactive: { type: "highlight-text", tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4", "t14_w5"], correctIndices: [2], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"], answer: "t14_c2" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "article-noun", article: "Die", articleColor: "#B91C1C", noun: "Erde", emoji: "🌍" },
+    interactive: { type: "gap-fill", sentence: "t15_sent", choices: ["t15_cr1", "t15_cr2", "t15_cr3", "t15_cr4"], correctIndex: 1, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], answer: "t15_c4" }
   }
 ];
