@@ -41,7 +41,6 @@ import type { PoolTopicDef } from "./types";
 // Ziel: 15-20 Topics pro Pool!  LABELS nur "de"!
 // ──────────────────────────────────────────────────────────────────────────────
 
-import type { PoolTopicDef } from "./types";
 
 export const KONJUNKTIV_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -210,7 +209,7 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "konjunktiv2" }
   },
@@ -222,7 +221,7 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "medium",
-    svg: { type: "sentence-flow", steps: ["würde", "gerne", "reisen"], color: "#6366F1" },
+    svg: { type: "sentence-display", words: ["würde", "gerne", "reisen"], color: "#6366F1" },
     interactive: { type: "sentence-build", fragments: ["t5_f5_1", "t5_f5_2", "t5_f5_3", "t5_f5_4"], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "konjunktiv2" }
   },
@@ -282,13 +281,13 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["be", "haup", "te"], color: "#3B82F6" },
+    svg: { type: "word-syllables", parts: ["be", "haup", "te"], color: "#3B82F6" },
     interactive: { type: "word-order", words: ["t15_w15_1", "t15_w15_2", "t15_w15_3"], correctOrder: [0, 1, 2], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Behaupt", word2: "ung" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Behaupt", word2: "ung", result: "Behauptung" },
     interactive: { type: "match-pairs", pairs: [{ left: "t16_w16_1", right: "t16_w16_2" }], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "konjunktiv2" }
   },
@@ -299,7 +298,6 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "konjunktiv2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const PASSIV_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -467,7 +465,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
-    svg: { type: "sentence-flow", steps: ["ist", "worden"], color: "#F59E0B" },
+    svg: { type: "sentence-display", words: ["ist", "worden"], color: "#F59E0B" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "perfekt" }
   },
@@ -491,7 +489,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "ess", word2: "bar" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "ess", word2: "bar", result: "essbar" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t7_ml7_1", right: "t7_mr7_1" }, { left: "t7_ml7_2", right: "t7_mr7_2" }, { left: "t7_ml7_3", right: "t7_mr7_3" }], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -515,7 +513,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t11_w11_1", "t11_w11_2", "t11_w11_3", "t11_w11_4", "t11_w11_5"], correctIndices: [4], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "passiv" }
   },
@@ -545,7 +543,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["wor", "den"], color: "#F59E0B" },
+    svg: { type: "word-syllables", parts: ["wor", "den"], color: "#F59E0B" },
     interactive: { type: "word-order", words: ["t16_w16_1", "t16_w16_2"], correctOrder: [0, 1], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "perfekt" }
   },
@@ -556,7 +554,6 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "passiv" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const NEBEN_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -731,7 +728,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "physics-slingshot", question: "t5_q5", targets: [{ id: "1", text: "t5_t5_1", isCorrect: true }, { id: "2", text: "t5_t5_2", isCorrect: false }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "passiv" }
   },
@@ -761,7 +758,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "hard",
-    svg: { type: "sentence-flow", steps: ["Grund", "sodass", "Folge"], color: "#10B981" },
+    svg: { type: "sentence-display", words: ["Grund", "sodass", "Folge"], color: "#10B981" },
     interactive: { type: "sentence-build", fragments: ["t10_f10_1", "t10_f10_2", "t10_f10_3", "t10_f10_4"], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -779,13 +776,13 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6", "t13_w13_7"], correctIndices: [4], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { generate: "dativ" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["ent", "schei", "dend"], color: "#10B981" },
+    svg: { type: "word-syllables", parts: ["ent", "schei", "dend"], color: "#10B981" },
     interactive: { type: "word-order", words: ["t14_w14_1", "t14_w14_2", "t14_w14_3"], correctOrder: [0, 1, 2], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -797,7 +794,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Kausal", word2: "satz" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Kausal", word2: "satz", result: "Kausalsatz" },
     interactive: { type: "match-pairs", pairs: [{ left: "Kausal", right: "satz" }], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -808,7 +805,6 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "passiv" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const STIL_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -971,7 +967,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "sentence-build", fragments: ["t2_f2_1", "t2_f2_2", "t2_f2_3", "t2_f2_4"], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1007,7 +1003,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t8_w8_1", "t8_w8_4"], correctIndices: [0, 1], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1037,13 +1033,13 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "sentence-build", fragments: ["t13_f13_1", "t13_f13_2", "t13_f13_3", "t13_f13_4"], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Knis", "tern"], color: "#9333EA" },
+    svg: { type: "word-syllables", parts: ["Knis", "tern"], color: "#9333EA" },
     interactive: { type: "highlight-text", tokens: ["t14_w14_1"], correctIndices: [0], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1066,7 +1062,6 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "synonyme" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const TEXTSORTEN_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1233,7 +1228,7 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4", "t3_w3_5", "t3_w3_6"], correctIndices: [3, 4, 5], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1287,7 +1282,7 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "gap-fill", sentence: "t12_sent12", choices: ["t12_c12_1", "t12_c12_2", "t12_c12_3"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1299,13 +1294,13 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Glos", "se"], color: "#EF4444" },
+    svg: { type: "word-syllables", parts: ["Glos", "se"], color: "#EF4444" },
     interactive: { type: "word-order", words: ["t14_w14_1", "t14_w14_2"], correctOrder: [0, 1], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Text", word2: "analyse" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Text", word2: "analyse", result: "Textanalyse" },
     interactive: { type: "match-pairs", pairs: [{ left: "Text", right: "analyse" }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1322,7 +1317,6 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "synonyme" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const EPOCHEN_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1489,7 +1483,7 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4", "t3_w3_5", "t3_w3_6", "t3_w3_7"], correctIndices: [6], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1555,13 +1549,13 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Auf", "klä", "rung"], color: "#F59E0B" },
+    svg: { type: "word-syllables", parts: ["Auf", "klä", "rung"], color: "#F59E0B" },
     interactive: { type: "word-order", words: ["t14_w14_1", "t14_w14_2", "t14_w14_3"], correctOrder: [0, 1, 2], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Dicht", word2: "kunst" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Dicht", word2: "kunst", result: "Dichtkunst" },
     interactive: { type: "match-pairs", pairs: [{ left: "Dicht", right: "kunst" }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1578,7 +1572,6 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "synonyme" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const NOM_SPRACH_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1794,7 +1787,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_3", isCorrect: true }, { id: "3", text: "t11_t11_2", isCorrect: false }], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1806,13 +1799,13 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Or", "tho", "gra", "phie"], color: "#3B82F6" },
+    svg: { type: "word-syllables", parts: ["Or", "tho", "gra", "phie"], color: "#3B82F6" },
     interactive: { type: "word-order", words: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4"], correctOrder: [0, 1, 2, 3], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Nominal", word2: "isierung" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Nominal", word2: "isierung", result: "Nominalisierung" },
     interactive: { type: "match-pairs", pairs: [{ left: "Nominal", right: "isierung" }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1824,7 +1817,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t16_w16_1", "t16_w16_2", "t16_w16_3", "t16_w16_4", "t16_w16_5", "t16_w16_6"], correctIndices: [1], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1835,7 +1828,6 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "synonyme" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const ANALYSE_K8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -2032,7 +2024,7 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "highlight-text", tokens: ["t9_w9_5", "t9_w9_6"], correctIndices: [4, 5], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2056,13 +2048,13 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Cha", "rak", "te", "ri", "sie", "rung"], color: "#3B82F6" },
+    svg: { type: "word-syllables", parts: ["Cha", "rak", "te", "ri", "sie", "rung"], color: "#3B82F6" },
     interactive: { type: "word-order", words: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6"], correctOrder: [0, 1, 2, 3, 4, 5], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Handlungs", word2: "verlauf" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Handlungs", word2: "verlauf", result: "Handlungsverlauf" },
     interactive: { type: "match-pairs", pairs: [{ left: "Handlungs", right: "verlauf" }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2085,7 +2077,6 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
     quiz: { generate: "synonyme" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const EXAM8_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -2254,7 +2245,7 @@ export const EXAM8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
+    svg: { type: "sentence-display", words: ["Beispiel", "Satz"], color: "#1e293b" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "passiv" }
   },
@@ -2320,13 +2311,13 @@ export const EXAM8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["In", "ter", "pre", "ta", "ti", "on"], color: "#3B82F6" },
+    svg: { type: "word-syllables", parts: ["In", "ter", "pre", "ta", "ti", "on"], color: "#3B82F6" },
     interactive: { type: "word-order", words: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6"], correctOrder: [0, 1, 2, 3, 4, 5], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Abschluss", word2: "zeugnis" },
+    svg: { type: "compound-word", color: "#1e293b", word1: "Abschluss", word2: "zeugnis", result: "Abschlusszeugnis" },
     interactive: { type: "match-pairs", pairs: [{ left: "Abschluss", right: "zeugnis" }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "synonyme" }
   },

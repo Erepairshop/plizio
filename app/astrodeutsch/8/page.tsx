@@ -25,6 +25,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K8Explorer = dynamic(() => import("@/app/astrodeutsch/games/k8/K8Explorer"), { ssr: false });
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -717,7 +718,7 @@ export default function AstroDeutschK8Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={8} onDone={handleMissionDone} />
+          <K8Explorer island={activeIsland} grade={8} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
