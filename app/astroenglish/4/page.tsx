@@ -39,15 +39,7 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
-import PronounK4Explorer from "@/app/astroenglish/games/k4/PronounK4Explorer";
-import ModalK4Explorer from "@/app/astroenglish/games/k4/ModalK4Explorer";
-import AdjectiveK4Explorer from "@/app/astroenglish/games/k4/AdjectiveK4Explorer";
-import SentenceK4Explorer from "@/app/astroenglish/games/k4/SentenceK4Explorer";
-import SpeechK4Explorer from "@/app/astroenglish/games/k4/SpeechK4Explorer";
-import CapitalK4Explorer from "@/app/astroenglish/games/k4/CapitalK4Explorer";
-import SynonymK4Explorer from "@/app/astroenglish/games/k4/SynonymK4Explorer";
-import ContextK4Explorer from "@/app/astroenglish/games/k4/ContextK4Explorer";
-import BigTestK4Explorer from "@/app/astroenglish/games/k4/BigTestK4Explorer";
+import K4Explorer from "@/app/astroenglish/games/k4/K4Explorer";
 import { K4_ISLAND_SVGS } from "@/app/astroenglish/islands-k4";
 import {
   K4_ISLANDS, K4_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -128,15 +120,7 @@ type Screen =
   | "word-build"
   | "reading-comp"
   | "tense-explorer"
-  | "en4-pronoun-explorer"
-  | "en4-modal-explorer"
-  | "en4-adjective-k4-explorer"
-  | "en4-sentence-k4-explorer"
-  | "en4-speech-explorer"
-  | "en4-capital-explorer"
-  | "en4-synonym-explorer"
-  | "en4-context-explorer"
-  | "en4-big-test-explorer"
+  | "english-k4-explore"
   | "memory-pair"
   | "pronunciation"
   | "island-transition"
@@ -900,7 +884,7 @@ export default function AstroEnglishK4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const explorerTypes = ["grammar-match", "fill-gap", "category-rush", "sentence-builder", "word-sort", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en4-pronoun-explorer", "en4-modal-explorer", "en4-adjective-k4-explorer", "en4-sentence-k4-explorer", "en4-speech-explorer", "en4-capital-explorer", "en4-synonym-explorer", "en4-context-explorer", "en4-big-test-explorer"];
+    const explorerTypes = ["grammar-match", "fill-gap", "category-rush", "sentence-builder", "word-sort", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k4-explore"];
     const noQuestionsTypes: string[] = ["gravity-sort", ...explorerTypes];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -1260,38 +1244,14 @@ export default function AstroEnglishK4Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK4(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
-        {screen === "en4-pronoun-explorer" && (
-          <PronounK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-modal-explorer" && (
-          <ModalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-adjective-k4-explorer" && (
-          <AdjectiveK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-sentence-k4-explorer" && (
-          <SentenceK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-speech-explorer" && (
-          <SpeechK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-capital-explorer" && (
-          <CapitalK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-synonym-explorer" && (
-          <SynonymK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-context-explorer" && (
-          <ContextK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en4-big-test-explorer" && (
-          <BigTestK4Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "english-k4-explore" && activeIsland && (
+          <K4Explorer island={activeIsland} grade={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "en4-pronoun-explorer", "en4-modal-explorer", "en4-adjective-k4-explorer", "en4-sentence-k4-explorer", "en4-speech-explorer", "en4-capital-explorer", "en4-synonym-explorer", "en4-context-explorer", "en4-big-test-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "english-k4-explore", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
