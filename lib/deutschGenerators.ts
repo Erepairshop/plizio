@@ -12,6 +12,7 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 
 import type { DeutschQuestion } from "./deutschCurriculum";
+import { getDeutschQuestions } from "./deutschCurriculum";
 
 // ─── HILFSFUNKTIONEN ──────────────────────────────────────────────────────────
 
@@ -979,6 +980,66 @@ function genNebensatztyp(): DeutschQuestion {
     `Welcher Nebensatztyp? '${satz}'`, typ, f);
 }
 
+// ─── STATIC CURRICULUM BRIDGE ─────────────────────────────────────────────────
+// Véletlenszerűen választ egy MCQ-t a DeutschTest statikus adatbázisából.
+// Fallback: ha nincs MCQ az adott subtopicban, generált kérdést ad vissza.
+
+function pickFromStatic(grade: number, subtopicIds: string[]): DeutschQuestion {
+  const pool = getDeutschQuestions(grade, subtopicIds, 60);
+  const mcqs = pool.filter(
+    (q): q is Extract<DeutschQuestion, { type: "mcq" }> =>
+      q.type === "mcq" && Array.isArray((q as { options?: unknown }).options) &&
+      ((q as { options: unknown[] }).options).length >= 2
+  );
+  if (mcqs.length === 0) return genArtikel("wortarten", "artikel");
+  return mcqs[Math.floor(Math.random() * mcqs.length)];
+}
+
+// ─── K5 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genVorgangspassivK5(): DeutschQuestion  { return pickFromStatic(5, ["vorgangspassiv_k5"]); }
+function genPassivPraeteritumK5(): DeutschQuestion { return pickFromStatic(5, ["passiv_praeteritum_k5"]); }
+function genRelativsaetzeK5(): DeutschQuestion   { return pickFromStatic(5, ["relativsaetze_k5"]); }
+function genSynonymeK5(): DeutschQuestion        { return pickFromStatic(5, ["synonyme_k5"]); }
+function genPlusquamperfektK5(): DeutschQuestion { return pickFromStatic(5, ["plusquamperfekt_k5"]); }
+function genKommaNebensatzK5(): DeutschQuestion  { return pickFromStatic(5, ["komma_nebensatz"]); }
+function genPartizipK5(): DeutschQuestion        { return pickFromStatic(5, ["partizip_1_k5", "partizip_2_k5"]); }
+function genPronomenK5(): DeutschQuestion        { return pickFromStatic(5, ["pronomen", "relativpronomen"]); }
+function genAdjektivdeklK5(): DeutschQuestion    { return pickFromStatic(5, ["adjektivdeklination_k5"]); }
+
+// ─── K6 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genPassivK6(): DeutschQuestion          { return pickFromStatic(6, ["passiv"]); }
+function genKonjunktiv2K6(): DeutschQuestion     { return pickFromStatic(6, ["konjunktiv_2", "konjunktiv2_formen_k6", "konjunktiv2_hoeflichkeit_k6"]); }
+function genRelativsatzK6(): DeutschQuestion     { return pickFromStatic(6, ["relativsatz", "erweiterte_relativsaetze_k6"]); }
+function genModalverbenK6(): DeutschQuestion     { return pickFromStatic(6, ["modalverben_k6", "verben_modal_k6"]); }
+function genKausalsatzK6(): DeutschQuestion      { return pickFromStatic(6, ["kausalsatz"]); }
+function genInfinitivZuK6(): DeutschQuestion     { return pickFromStatic(6, ["infinitiv_zu"]); }
+function genRedewendungenK6(): DeutschQuestion   { return pickFromStatic(6, ["redewendungen_k6"]); }
+function genSatzverbindungenK6(): DeutschQuestion { return pickFromStatic(6, ["satzverbindungen_k6", "satzbau_k6"]); }
+
+// ─── K7 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genSeinPassivK7(): DeutschQuestion      { return pickFromStatic(7, ["sein_passiv"]); }
+function genPassivModalK7(): DeutschQuestion     { return pickFromStatic(7, ["passiv_modal"]); }
+function genKausalsatzK7(): DeutschQuestion      { return pickFromStatic(7, ["kausalsatz_k7"]); }
+function genKonditionalsatzK7(): DeutschQuestion { return pickFromStatic(7, ["konditionalsatz_k7"]); }
+function genKonzessivsatzK7(): DeutschQuestion   { return pickFromStatic(7, ["konzessivsatz_k7"]); }
+function genFinalsatzK7(): DeutschQuestion       { return pickFromStatic(7, ["finalsatz_k7"]); }
+function genTemporalsatzK7(): DeutschQuestion    { return pickFromStatic(7, ["temporalsatz_k7"]); }
+function genUmZuK7(): DeutschQuestion            { return pickFromStatic(7, ["um_zu_k7", "statt_ohne_zu_k7"]); }
+function genStilmittelK7(): DeutschQuestion      { return pickFromStatic(7, ["metapher_vergleich", "alliteration_personifikation"]); }
+function genFachspracheK7(): DeutschQuestion     { return pickFromStatic(7, ["fachsprache_k7"]); }
+function genInhaltsangabeK7(): DeutschQuestion   { return pickFromStatic(7, ["inhaltsangabe_k7"]); }
+
+// ─── K8 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genPartizipialK8(): DeutschQuestion     { return pickFromStatic(8, ["partizipial"]); }
+function genNebensatztypenK8(): DeutschQuestion  { return pickFromStatic(8, ["nebensatztypen"]); }
+function genKonjunktivIK8(): DeutschQuestion     { return pickFromStatic(8, ["konjunktiv_i_k8"]); }
+function genKonjunktivIIK8(): DeutschQuestion    { return pickFromStatic(8, ["konjunktiv_ii_k8"]); }
+function genPassivK8(): DeutschQuestion          { return pickFromStatic(8, ["passiv_bildung_k8", "passiversatz_k8"]); }
+function genStilmittelK8(): DeutschQuestion      { return pickFromStatic(8, ["stilmittel_erkennung_k8", "stilwirkung_k8"]); }
+function genNominalstilK8(): DeutschQuestion     { return pickFromStatic(8, ["nominalstil_umformung_k8"]); }
+function genEroerterungK8(): DeutschQuestion     { return pickFromStatic(8, ["eroerterung", "eroerterung_vertieft_k8"]); }
+function genRegisterK8(): DeutschQuestion        { return pickFromStatic(8, ["register_k8", "fachsprache_k8"]); }
+
 // ─── GENERATOR-MAP ────────────────────────────────────────────────────────────
 // subtopicId → Generator-Funktion
 // Wird in page.tsx mit getDeutschQuestions() kombiniert
@@ -1030,6 +1091,51 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   relativsatz_k7:      genRelativsatzK7,
   // K8
   nebensatztypen:      genNebensatztyp,
+
+  // ─── K5 STATIC BRIDGE ────────────────────────────────────────────────────
+  vorgangspassiv_k5:     genVorgangspassivK5,
+  passiv_praeteritum_k5: genPassivPraeteritumK5,
+  relativsaetze_k5:      genRelativsaetzeK5,
+  synonyme_k5:           genSynonymeK5,
+  plusquamperfekt_k5:    genPlusquamperfektK5,
+  komma_nebensatz_k5:    genKommaNebensatzK5,
+  partizip_k5:           genPartizipK5,
+  pronomen_k5:           genPronomenK5,
+  adjektivdekl_k5:       genAdjektivdeklK5,
+
+  // ─── K6 STATIC BRIDGE ────────────────────────────────────────────────────
+  passiv_k6:             genPassivK6,
+  konjunktiv2_k6:        genKonjunktiv2K6,
+  relativsatz_k6:        genRelativsatzK6,
+  modalverben_k6:        genModalverbenK6,
+  kausalsatz_k6:         genKausalsatzK6,
+  infinitiv_zu_k6:       genInfinitivZuK6,
+  redewendungen_k6:      genRedewendungenK6,
+  satzverbindungen_k6:   genSatzverbindungenK6,
+
+  // ─── K7 STATIC BRIDGE ────────────────────────────────────────────────────
+  sein_passiv_k7:        genSeinPassivK7,
+  passiv_modal_k7:       genPassivModalK7,
+  kausalsatz_k7:         genKausalsatzK7,
+  konditionalsatz_k7:    genKonditionalsatzK7,
+  konzessivsatz_k7:      genKonzessivsatzK7,
+  finalsatz_k7:          genFinalsatzK7,
+  temporalsatz_k7:       genTemporalsatzK7,
+  um_zu_k7:              genUmZuK7,
+  stilmittel_k7:         genStilmittelK7,
+  fachsprache_k7:        genFachspracheK7,
+  inhaltsangabe_k7:      genInhaltsangabeK7,
+
+  // ─── K8 STATIC BRIDGE ────────────────────────────────────────────────────
+  partizipial_k8:        genPartizipialK8,
+  nebensatztypen_k8:     genNebensatztypenK8,
+  konjunktiv_i_k8:       genKonjunktivIK8,
+  konjunktiv_ii_k8:      genKonjunktivIIK8,
+  passiv_k8:             genPassivK8,
+  stilmittel_k8:         genStilmittelK8,
+  nominalstil_k8:        genNominalstilK8,
+  eroerterung_k8:        genEroerterungK8,
+  register_k8:           genRegisterK8,
 };
 
 /**
