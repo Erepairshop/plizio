@@ -1688,7 +1688,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "word-display", words: ["Sarah", "London", "March"], color: "#EC4899" },
+    svg: { type: "word-display", word: "names", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t1_inst", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy",
@@ -1696,7 +1696,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🎓", label: "Titles & Abbreviations", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "🎓", title: "Titles & Abbreviations", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t2_inst", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "easy",
@@ -1704,7 +1704,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "📝", label: "Sentence Start", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "📝", title: "Sentence Start", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t3_inst", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], correctIndex: 0, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "easy",
@@ -1728,7 +1728,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🎬", label: "Intro Phrases", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "🎬", title: "Intro Phrases", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t6_inst", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "medium",
@@ -1736,7 +1736,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🏷️", label: "Appositives", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "🏷️", title: "Appositives", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t7_inst", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], correctIndex: 0, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "hard",
@@ -1744,7 +1744,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "👥", label: "Direct Address", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "👥", title: "Direct Address", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t8_inst", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "hard",
@@ -1752,7 +1752,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "📖", label: "Book Titles", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "📖", title: "Book Titles", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t9_inst", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
     difficulty: "hard",
@@ -1760,7 +1760,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "📅", label: "Dates & Addresses", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "📅", title: "Dates & Addresses", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t10_inst", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "medium",
@@ -1768,7 +1768,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t11_title",
     infoText: "t11_text",
-    svg: { type: "word-display", words: ["Monday", "October", "Christmas"], color: "#EC4899" },
+    svg: { type: "word-display", word: "timewords", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t11_inst", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
     difficulty: "easy",
@@ -1784,7 +1784,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t13_title",
     infoText: "t13_text",
-    svg: { type: "simple-icon", icon: "🔀", label: "Complex Sentences", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "🔀", title: "Complex Sentences", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t13_inst", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" },
     difficulty: "hard",
@@ -1792,7 +1792,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t14_title",
     infoText: "t14_text",
-    svg: { type: "simple-icon", icon: "💬", label: "Dialogue", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "💬", title: "Dialogue", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t14_inst", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { question: "t14_q", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], answer: "t14_qa" },
     difficulty: "medium",
@@ -1800,7 +1800,7 @@ export const CAPITAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t15_title",
     infoText: "t15_text",
-    svg: { type: "simple-icon", icon: "🎓", label: "Complete Review", color: "#EC4899" },
+    svg: { type: "simple-icon", icon: "🎓", title: "Complete Review", color: "#EC4899" },
     interactive: { type: "gap-fill", sentence: "t15_inst", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
     difficulty: "hard",
@@ -1996,7 +1996,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "word-display", words: ["happy", "joyful", "cheerful"], color: "#8B5CF6" },
+    svg: { type: "word-display", word: "synonyms", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t1_inst", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy",
@@ -2020,7 +2020,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "word-display", words: ["un-", "dis-", "im-", "non-"], color: "#8B5CF6" },
+    svg: { type: "word-display", word: "prefixes", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t4_inst", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "medium",
@@ -2028,7 +2028,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🔗", label: "Simile: like/as...as", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "🔗", title: "Simile: like/as...as", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t5_inst", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "medium",
@@ -2036,7 +2036,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🎨", label: "Metaphor: IS", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "🎨", title: "Metaphor: IS", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t6_inst", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "medium",
@@ -2052,7 +2052,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "💭", label: "Figurative vs Literal", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "💭", title: "Figurative vs Literal", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t8_inst", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "hard",
@@ -2068,7 +2068,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "🎭", label: "Idioms", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "🎭", title: "Idioms", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t10_inst", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "medium",
@@ -2076,7 +2076,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t11_title",
     infoText: "t11_text",
-    svg: { type: "word-display", words: ["think", "thought", "thinking"], color: "#8B5CF6" },
+    svg: { type: "word-display", word: "wordforms", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t11_inst", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
     difficulty: "easy",
@@ -2092,7 +2092,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t13_title",
     infoText: "t13_text",
-    svg: { type: "simple-icon", icon: "🔍", label: "Context Clues", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "🔍", title: "Context Clues", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t13_inst", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" },
     difficulty: "hard",
@@ -2108,7 +2108,7 @@ export const SYNONYM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t15_title",
     infoText: "t15_text",
-    svg: { type: "simple-icon", icon: "🎓", label: "Complete Review", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "🎓", title: "Complete Review", color: "#8B5CF6" },
     interactive: { type: "gap-fill", sentence: "t15_inst", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
     difficulty: "hard",
@@ -2305,7 +2305,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🔍", label: "Definition Clues", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "🔍", title: "Definition Clues", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t1_inst", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy",
@@ -2353,7 +2353,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "💭", label: "Multiple Meanings", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "💭", title: "Multiple Meanings", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t7_inst", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], correctIndex: 0, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "hard",
@@ -2361,7 +2361,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🎭", label: "Word 'Present'", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "🎭", title: "Word 'Present'", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t8_inst", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "hard",
@@ -2369,7 +2369,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🎯", label: "Word 'Set'", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "🎯", title: "Word 'Set'", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t9_inst", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
     difficulty: "hard",
@@ -2385,7 +2385,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t11_title",
     infoText: "t11_text",
-    svg: { type: "word-display", words: ["bio", "geo", "photo"], color: "#06B6D4" },
+    svg: { type: "word-display", word: "roots", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t11_inst", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
     difficulty: "medium",
@@ -2393,7 +2393,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t12_title",
     infoText: "t12_text",
-    svg: { type: "word-display", words: ["un-", "re-", "pre-"], color: "#06B6D4" },
+    svg: { type: "word-display", word: "prefixes", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t12_inst", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
     quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" },
     difficulty: "medium",
@@ -2401,7 +2401,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t13_title",
     infoText: "t13_text",
-    svg: { type: "word-display", words: ["-tion", "-ful", "-ly"], color: "#06B6D4" },
+    svg: { type: "word-display", word: "suffixes", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t13_inst", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { question: "t13_q", choices: ["t13_qa", "t13_qb", "t13_qc", "t13_qd"], answer: "t13_qa" },
     difficulty: "medium",
@@ -2409,7 +2409,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t14_title",
     infoText: "t14_text",
-    svg: { type: "simple-icon", icon: "🎬", label: "Tone & Mood", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "🎬", title: "Tone & Mood", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t14_inst", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { question: "t14_q", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], answer: "t14_qa" },
     difficulty: "hard",
@@ -2417,7 +2417,7 @@ export const CONTEXT_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t15_title",
     infoText: "t15_text",
-    svg: { type: "simple-icon", icon: "🎓", label: "Complete Review", color: "#06B6D4" },
+    svg: { type: "simple-icon", icon: "🎓", title: "Complete Review", color: "#06B6D4" },
     interactive: { type: "gap-fill", sentence: "t15_inst", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
     difficulty: "hard",
@@ -2624,7 +2624,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "💪", label: "Modal Verbs", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "💪", title: "Modal Verbs", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t2_inst", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "easy",
@@ -2642,7 +2642,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "🔗", label: "Compounds", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🔗", title: "Compounds", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t4_inst", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "easy",
@@ -2651,7 +2651,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "💬", label: "Dialogue", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "💬", title: "Dialogue", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t5_inst", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], correctIndex: 0, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "medium",
@@ -2660,7 +2660,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "✏️", label: "Capitals & Commas", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "✏️", title: "Capitals & Commas", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t6_inst", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "medium",
@@ -2678,7 +2678,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🔍", label: "Context Clues", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🔍", title: "Context Clues", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t8_inst", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium",
@@ -2695,7 +2695,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "🎯", label: "Homophones", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🎯", title: "Homophones", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t10_inst", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "hard",
@@ -2703,7 +2703,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t11_title",
     infoText: "t11_text",
-    svg: { type: "word-display", words: ["prefix", "suffix"], color: "#10B981" },
+    svg: { type: "word-display", word: "morphemes", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t11_inst", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" },
     difficulty: "hard",
@@ -2711,7 +2711,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t12_title",
     infoText: "t12_text",
-    svg: { type: "simple-icon", icon: "🎭", label: "Connotation", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🎭", title: "Connotation", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t12_inst", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
     quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" },
     difficulty: "hard",
@@ -2727,7 +2727,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t14_title",
     infoText: "t14_text",
-    svg: { type: "simple-icon", icon: "🌳", label: "Word Families", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🌳", title: "Word Families", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t14_inst", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { question: "t14_q", choices: ["t14_qa", "t14_qb", "t14_qc", "t14_qd"], answer: "t14_qa" },
     difficulty: "hard",
@@ -2735,7 +2735,7 @@ export const BIGTEST4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t15_title",
     infoText: "t15_text",
-    svg: { type: "simple-icon", icon: "🎓", label: "Final Review", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "🎓", title: "Final Review", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t15_inst", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" },
     difficulty: "hard",
