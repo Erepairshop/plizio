@@ -1408,6 +1408,108 @@ export const SATZGLIED_LABELS: Record<string, Record<string, string>> = {
     t7_f1: "Der Hund", t7_f2: "jagt", t7_f3: "die Katze.",
     t7_q: "Welches Satzglied ist 'Der Hund' in diesem Satz?",
     t7_qa: "Das Subjekt", t7_qb: "Das Prädikat", t7_qc: "Das Objekt", t7_qd: "Ein Verb",
+
+    // T8: Akkusativ-Objekt
+    t8_title: "Das Akkusativ-Objekt (Wen oder was?)",
+    t8_text: "Viele Verben brauchen ein Objekt in der vierten Fall (Akkusativ). Wir fragen: Wen oder was? Die Mutter sieht 'die Katze' (Akkusativ).",
+    t8_b1: "Akkusativ = Wen oder was?",
+    t8_b2: "Oft nach Verben wie sehen, kennen, essen.",
+    t8_inst: "Finde das Akkusativ-Objekt (Wen/was?)!",
+    t8_h1: "Frage: Wen oder WAS sieht die Mutter?",
+    t8_h2: "Die Katze ist das Objekt.",
+    t8_sent: "Der Freund trägt ___.",
+    t8_c1: "den Rucksack", t8_c2: "der Rucksack", t8_c3: "des Rucksacks", t8_c4: "dem Rucksack",
+    t8_q: "Welcher Fall ist das Akkusativ-Objekt?",
+    t8_qa: "Der vierte Fall (Akkusativ)", t8_qb: "Der erste Fall (Nominativ)", t8_qc: "Der dritte Fall (Dativ)", t8_qd: "Der zweite Fall (Genitiv)",
+
+    // T9: Dativ-Objekt
+    t9_title: "Das Dativ-Objekt (Wem?)",
+    t9_text: "Einige Verben brauchen ein Objekt im dritten Fall (Dativ). Wir fragen: Wem? Der Lehrer gibt 'dem Schüler' (Dativ) ein Buch.",
+    t9_b1: "Dativ = Wem?",
+    t9_b2: "Verben wie geben, zeigen, helfen, danken.",
+    t9_inst: "Wem wird etwas gegeben? Finde das Dativ-Objekt!",
+    t9_h1: "Frage: Wem hilft Anna?",
+    t9_h2: "Anna hilft dem Bruder.",
+    t9_sent2: "Der Junge hilft ___.",
+    t9_c1: "dem Mädchen", t9_c2: "das Mädchen", t9_c3: "den Mädchen", t9_c4: "der Mädchen",
+    t9_q: "Was ist die richtige Frage für das Dativ-Objekt?",
+    t9_qa: "Wem?", t9_qb: "Wen?", t9_qc: "Was?", t9_qd: "Wessen?",
+
+    // T10: Adverbiale Bestimmung (Wo/Wann/Warum?)
+    t10_title: "Adverbiale Bestimmung",
+    t10_text: "Nicht alle Satzglieder sind Subjekt, Prädikat oder Objekt. Es gibt auch Bestimmungen, die sagen: Wo? Wann? Warum? Die Katze schläft 'im Garten' (Wo?).",
+    t10_b1: "Bestimmungen: Wo? Wann? Warum?",
+    t10_b2: "Sie sind auch Satzglieder.",
+    t10_inst: "Finde die Ortsbestimmung (Wo?)!",
+    t10_h1: "Frage: Wo sitzt der Vogel?",
+    t10_h2: "Der Vogel sitzt AUF DEM BAUM.",
+    t10_w1: "Der Vogel", t10_w2: "sitzt", t10_w3: "auf dem Baum", t10_w4: ".",
+    t10_q: "Welche Frage passt zu 'im Wald'?",
+    t10_qa: "Wo?", t10_qb: "Wann?", t10_qc: "Warum?", t10_qd: "Wen?",
+
+    // T11: Zeitbestimmung (Wann?)
+    t11_title: "Wann passiert es? (Zeitbestimmung)",
+    t11_text: "Zeitbestimmungen sagen uns, WANN etwas passiert. 'Morgens' gehen wir zur Schule. 'Morgens' ist die Zeitbestimmung.",
+    t11_b1: "Zeitbestimmung = Wann?",
+    t11_b2: "Beispiele: morgens, übermorgen, jeden Tag.",
+    t11_inst: "Sortiere: Ortsbestimmung oder Zeitbestimmung?",
+    t11_h1: "Wann = Zeit. Wo = Ort.",
+    t11_h2: "Im Garten = Wo. Morgen = Wann.",
+    t11_bw: "Zeitbestimmung 🕐", t11_bo: "Ortsbestimmung 📍",
+    t11_i1: "morgens", t11_i2: "in der Schule", t11_i3: "jeden Tag", t11_i4: "im Park",
+    t11_q: "Welches ist eine Zeitbestimmung?",
+    t11_qa: "montags", t11_qb: "unter der Brücke", t11_qc: "neben der Tür", t11_qd: "zwischen den Häusern",
+
+    // T12: Grund/Grund-Bestimmung (Warum/Weshalb?)
+    t12_title: "Grund-Bestimmungen (Warum?)",
+    t12_text: "Grund-Bestimmungen sagen, WARUM oder WESHALB etwas passiert. 'Wegen des Regens' bleibt Anna zu Hause. 'Wegen des Regens' ist die Grund-Bestimmung.",
+    t12_b1: "Grund-Bestimmung = Warum/Weshalb?",
+    t12_b2: "Wir fragen: Weshalb bleibt Anna zu Hause?",
+    t12_inst: "Was ist der Grund? Finde die Grund-Bestimmung!",
+    t12_h1: "Frage: Weshalb weint das Baby?",
+    t12_h2: "Das Baby weint aus Hunger.",
+    t12_sent3: "Tim bleibt zu Hause ___.",
+    t12_c1: "weil er krank ist", t12_c2: "neben dem Haus", t12_c3: "mit dem Freund", t12_c4: "morgens um 7 Uhr",
+    t12_q: "Was ist die Grund-Bestimmung in: 'Sie kommt zu spät wegen des Staus.'?",
+    t12_qa: "wegen des Staus", t12_qb: "zu spät", t12_qc: "Sie", t12_qd: "kommt",
+
+    // T13: Mehrere Satzglieder kombinieren
+    t13_title: "Sätze mit mehreren Bestimmungen",
+    t13_text: "In einem Satz können mehrere Satzglieder zusammen vorkommen. Subjekt + Prädikat + Objekt + Ortsbestimmung + Zeitbestimmung = vollständiger Satz!",
+    t13_b1: "Ein Satz kann viele Satzglieder haben.",
+    t13_b2: "Sie ergeben alle zusammen den Sinn.",
+    t13_inst: "Baue den Satz mit allen Teilen zusammen!",
+    t13_h1: "Wer + tut was + wo + wann?",
+    t13_h2: "Die Kinder spielen im Park morgens.",
+    t13_f1: "Die Kinder", t13_f2: "spielen", t13_f3: "im Park", t13_f4: "morgens.",
+    t13_q: "Wie viele Satzglieder hat dieser Satz: 'Der Junge liest ein Buch im Bett.'?",
+    t13_qa: "4 (Subjekt, Prädikat, Objekt, Ort)", t13_qb: "2 (Subjekt, Prädikat)", t13_qc: "3 (Subjekt, Prädikat, Objekt)", t13_qd: "5",
+
+    // T14: Satzglieder in Fragen
+    t14_title: "Satzglieder in Fragen erkennen",
+    t14_text: "Auch in Fragen gibt es Satzglieder! In 'Wann kommt dein Freund?' ist 'dein Freund' das Subjekt und 'Wann' ist eine Zeitbestimmung.",
+    t14_b1: "Satzglieder auch in Fragen erkennbar.",
+    t14_b2: "Das Fragezeichen markiert die Frage.",
+    t14_inst: "Was ist das Objekt in dieser Frage?",
+    t14_h1: "Frage: Wen oder was siehst du?",
+    t14_h2: "Das Objekt ist 'einen Vogel'.",
+    t14_sent4: "Siehst du ___?",
+    t14_c1: "einen Vogel", t14_c2: "du", t14_c3: "siehst", t14_c4: "Fragezeichen",
+    t14_q: "Welches Satzglied ist 'mein Freund' in der Frage: 'Kennst du meinen Freund?'?",
+    t14_qa: "Das Objekt", t14_qb: "Das Subjekt", t14_qc: "Das Prädikat", t14_qd: "Eine Bestimmung",
+
+    // T15: Satzglieder-Meister-Finale
+    t15_title: "Du bist ein Satzglieder-Profi!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Satzglieder: Subjekt, Prädikat, Objekt und Bestimmungen. Du bist bereit, Sätze zu analysieren!",
+    t15_b1: "Alle Satzglieder gelernt.",
+    t15_b2: "Du schaffst jeden Satz!",
+    t15_inst: "Erkenne alle Satzglieder in diesem Satz!",
+    t15_h1: "Wer + tut was + wen/was + wo + wann?",
+    t15_h2: "Das Mädchen malt ein Bild im Zimmer heute Nachmittag.",
+    t15_sent5: "Das Mädchen malt ___ im Klassenzimmer.",
+    t15_c1: "ein schönes Bild", t15_c2: "Mädchen", t15_c3: "im Klassenzimmer", t15_c4: "malt",
+    t15_q: "Wie heißt der Prozess, Satzglieder zu erkennen?",
+    t15_qa: "Satzglieder-Analyse", t15_qb: "Wort-Analyse", t15_qc: "Satz-Analyse", t15_qd: "Grammatik-Spiel",
   }
 };
 
@@ -1528,6 +1630,143 @@ export const SATZGLIED_POOL: PoolTopicDef[] = [
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
   },
+
+  // ── 8. Akkusativ-Objekt (gap-fill) ──────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "Wen oder was?", color: "#DC2626", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Dativ-Objekt (gap-fill) ──────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: "Wem?", color: "#7C3AED", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent2",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Adverbiale Bestimmung (highlight-text) ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "sentence-display", words: ["Der Vogel", "sitzt", "auf dem Baum", "."], highlightIndices: [2], color: "#059669" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [2], // auf dem Baum
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Zeitbestimmung (drag-to-bucket) ─────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "two-groups", left: { items: ["morgens"], bg: "#FEF3C7", border: "#F59E0B" }, right: { items: ["im Park"], bg: "#D1FAE5", border: "#059669" } },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "t", label: "t11_bw" }, { id: "o", label: "t11_bo" }],
+      items: [
+        { text: "t11_i1", bucketId: "t" }, // morgens
+        { text: "t11_i2", bucketId: "o" }, // in der Schule
+        { text: "t11_i3", bucketId: "t" }, // jeden Tag
+        { text: "t11_i4", bucketId: "o" }, // im Park
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Grund-Bestimmung (gap-fill) ─────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [ { text: "Warum?", color: "#DB2777", bg: "#FCE7F3" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent3",
+      choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Mehrere Satzglieder (sentence-build) ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [{ emoji: "👶", label: "Subjekt" }, { emoji: "🏃", label: "Prädikat" }, { emoji: "🏞️", label: "Ort" }] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t13_f1", "t13_f2", "t13_f3", "t13_f4"],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Satzglieder in Fragen (gap-fill) ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Fragetag!", bg: "#DBEAFE" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent4",
+      choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Satzglieder-Meister-Finale (sentence-build) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent5",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i5 — Zeitformeninsel
@@ -1616,6 +1855,111 @@ export const ZEITFORM_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Es ist Präteritum (Erzähl-Vergangenheit).",
     t7_w7_1: "Präsens", t7_w7_2: "Präteritum", t7_w7_3: "Perfekt",
     // Quiz: GENERATOR (praeteritum)
+
+    // T8: Regelmäßige Verben im Präteritum
+    t8_title: "Regelmäßige Verben im Präteritum",
+    t8_text: "Regelmäßige Verben bekommen im Präteritum einfach ein '-te' oder '-ete' vor der Endung. 'spielen' wird zu 'ich spielte'. Das ist einfach!",
+    t8_b1: "Präteritum mit -te/-ete",
+    t8_b2: "machen -> machte, lernen -> lernte",
+    t8_inst: "Finde das richtige Präteritum!",
+    t8_h1: "Denk an die -te Endung.",
+    t8_h2: "Ich spielte Fußball.",
+    t8_sent: "Lisa ___ in der Schule.",
+    t8_c1: "lernte", t8_c2: "lernete", t8_c3: "lerne", t8_c4: "gelernt",
+    t8_q: "Was ist das Präteritum von 'machen'?",
+    t8_qa: "machte", t8_qb: "gemacht", t8_qc: "mache", t8_qd: "machtest",
+
+    // T9: Unregelmäßige Verben im Präteritum
+    t9_title: "Unregelmäßige Verben im Präteritum",
+    t9_text: "Unregelmäßige Verben ändern ihren Stammvokal im Präteritum. 'singen' wird zu 'sang', 'nehmen' wird zu 'nahm'. Du musst diese auswendig lernen!",
+    t9_b1: "Stammvokal ändert sich.",
+    t9_b2: "singen -> sang, fahren -> fuhr",
+    t9_inst: "Verbinde Präsens mit Präteritum!",
+    t9_h1: "Der Vokal ändert sich: singe -> sang",
+    t9_h2: "Das nennt man Ablaut.",
+    t9_l1: "singen", t9_r1: "sang",
+    t9_l2: "nehmen", t9_r2: "nahm",
+    t9_l3: "fahren", t9_r3: "fuhr",
+    t9_l4: "schreiben", t9_r4: "schrieb",
+    t9_q: "Welches ist das Präteritum von 'sprechen'?",
+    t9_qa: "sprach", t9_qb: "sprechte", t9_qc: "gesprochen", t9_qd: "spreche",
+
+    // T10: Präsens und Präteritum mit "sein"
+    t10_title: "'sein' im Präsens und Präteritum",
+    t10_text: "'Sein' ist ganz unregelmäßig! Im Präsens: ich bin, du bist. Im Präteritum: ich war, du warst. Das wichtigste Verb!",
+    t10_b1: "Präsens: bin, bist, ist",
+    t10_b2: "Präteritum: war, warst, waren",
+    t10_inst: "Wähle die richtige Form!",
+    t10_h1: "Im Präteritum: 'war'",
+    t10_h2: "Ich war glücklich.",
+    t10_sent: "Gestern ___ ich krank.",
+    t10_c1: "war", t10_c2: "bin", t10_c3: "werde", t10_c4: "gewesen",
+    t10_q: "Was ist das Präteritum von 'ich bin'?",
+    t10_qa: "ich war", t10_qb: "ich werde", t10_qc: "ich bin gewesen", t10_qd: "ich bist",
+
+    // T11: Hilfsverben im Perfekt (haben/sein)
+    t11_title: "Hilfsverben: haben und sein im Perfekt",
+    t11_text: "Für das Perfekt brauchen wir Hilfsverben. Bei den meisten Verben benutzen wir 'haben': 'Ich habe gespielt.' Bei Bewegungsverben nutzen wir 'sein': 'Ich bin gelaufen.'",
+    t11_b1: "Haben = Normalfall",
+    t11_b2: "Sein = Bewegung oder Zustandsänderung",
+    t11_inst: "Sortiere: haben oder sein?",
+    t11_h1: "Bewegung = sein. Alles andere = haben.",
+    t11_h2: "Ich bin gesprungen (Bewegung!), ich habe gegessen (keine Bewegung).",
+    t11_bh: "haben 🤝", t11_bs: "sein 🏃",
+    t11_i1: "habe gespielt", t11_i2: "bin gelaufen", t11_i3: "habe gegessen", t11_i4: "bin gekommen",
+    t11_q: "Welches Hilfsverb passt? 'Ich ___ gerannt.'",
+    t11_qa: "bin", t11_qb: "habe", t11_qc: "werde", t11_qd: "waren",
+
+    // T12: Partizip II bilden
+    t12_title: "Das Partizip II",
+    t12_text: "Das Partizip II ist die dritte Form des Verbs. Im Perfekt brauchen wir diese Form. 'spielen' -> 'gespielt', 'laufen' -> 'gelaufen'.",
+    t12_b1: "ge- am Anfang, -t oder -en am Ende",
+    t12_b2: "machen -> gemacht, geben -> gegeben",
+    t12_inst: "Finde das Partizip II!",
+    t12_h1: "Denk an 'ge...t' oder 'ge...en'",
+    t12_h2: "Ich habe gemacht.",
+    t12_sent2: "Du hast ___.",
+    t12_c1: "gelacht", t12_c2: "gelache", t12_c3: "lache", t12_c4: "gelachte",
+    t12_q: "Was ist das Partizip II von 'schreiben'?",
+    t12_qa: "geschrieben", t12_qb: "geschreiben", t12_qc: "schreiben", t12_qd: "schreibe",
+
+    // T13: Plusquamperfekt Überblick
+    t13_title: "Das Plusquamperfekt",
+    t13_text: "Das Plusquamperfekt ist die 'Vorvergangenheit'. Wenn zwei Dinge in der Vergangenheit passieren, zeigt Plusquamperfekt, welches zuerst passiert ist. 'Ich hatte gegessen, bevor ich ging.'",
+    t13_b1: "Plusquamperfekt = noch älter!",
+    t13_b2: "Hilfsverb im Präteritum + Partizip II",
+    t13_inst: "Was passierte zuerst?",
+    t13_h1: "Plusquamperfekt = die älteste Vergangenheit.",
+    t13_h2: "Ich hatte gegessen (zuerst), dann ging ich (später).",
+    t13_sent3: "Bevor ich schwimmen ging, ___ ich bereits geduscht.",
+    t13_c1: "hatte", t13_c2: "habe", t13_c3: "werde", t13_c4: "bin",
+    t13_q: "Was ist die 'Vorvergangenheit'?",
+    t13_qa: "Das Plusquamperfekt", t13_qb: "Das Präteritum", t13_qc: "Das Präsens", t13_qd: "Das Perfekt",
+
+    // T14: Alle Zeitformen überblicken
+    t14_title: "Alle Zeitformen im Überblick",
+    t14_text: "Präsens (jetzt) → Perfekt (gerade vorbei) → Präteritum (früher erzählt) → Plusquamperfekt (noch früher). Jede Zeitform hat ihren Platz!",
+    t14_b1: "6 Zeitformen insgesamt.",
+    t14_b2: "Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I, Futur II.",
+    t14_inst: "Ordne die Zeitformen chronologisch!",
+    t14_h1: "Was ist am ältesten? Plusquamperfekt!",
+    t14_h2: "Plusquamperfekt → Präteritum → Perfekt → Präsens → Futur",
+    t14_o1: "Präsens", t14_o2: "Perfekt", t14_o3: "Präteritum",
+    t14_q: "Welche Zeitform beschreibt etwas, das gerade vorbei ist?",
+    t14_qa: "Das Perfekt", t14_qb: "Das Präteritum", t14_qc: "Das Präsens", t14_qd: "Das Plusquamperfekt",
+
+    // T15: Zeit-Meister-Finale
+    t15_title: "Du bist ein Zeit-Profi!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Zeitformen und weißt, wann du sie benutzt. Du bist bereit, zeitlich richtig zu erzählen!",
+    t15_b1: "Alle Zeitformen gelernt.",
+    t15_b2: "Du schaffst jedes Verb!",
+    t15_inst: "Was ist das Präteritum von 'geben'?",
+    t15_h1: "Das ist ein unregelmäßiges Verb.",
+    t15_h2: "geben → gab (Vokalwechsel!)",
+    t15_sent4: "Der Lehrer ___ mir ein Buch.",
+    t15_c1: "gab", t15_c2: "gibt", t15_c3: "gegeben", t15_c4: "gabt",
+    t15_q: "Welche Zeitform zeigt die älteste Vergangenheit?",
+    t15_qa: "Das Plusquamperfekt", t15_qb: "Das Präteritum", t15_qc: "Das Perfekt", t15_qd: "Die Vorzeit",
   }
 };
 
@@ -1828,7 +2172,112 @@ export const VERGANGEN_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Ich habe viel gelernt.",
     t7_o1: "Ich", t7_o2: "habe", t7_o3: "viel", t7_o4: "gelernt.",
     // Quiz: GENERATOR (perfekt)
-  }
+
+    // T8: Schwache Präteritum-Formen
+    t8_title: "Schwache Präteritum-Formen",
+    t8_text: "Schwache (regelmäßige) Verben sind leicht! Sie bekommen einfach ein '-te' oder '-ete'. spielen -> spielte, arbeiten -> arbeitete.",
+    t8_b1: "Präteritum mit -te/-ete",
+    t8_b2: "machen -> machte, öffnen -> öffnete",
+    t8_inst: "Wähle das richtige Präteritum!",
+    t8_h1: "Denk an die -te Endung.",
+    t8_h2: "spielen -> spielte, ich spielte.",
+    t8_sent: "Das Kind ___ die ganze Zeit.",
+    t8_c1: "spielte", t8_c2: "spieltete", t8_c3: "spielt", t8_c4: "gespielt",
+    t8_q: "Was ist das Präteritum von 'arbeiten'?",
+    t8_qa: "arbeitete", t8_qb: "arbeitet", t8_qc: "arbeiti", t8_qd: "gearbeitet",
+
+    // T9: Starke Verben mit Vokalwechsel
+    t9_title: "Starke Verben im Präteritum",
+    t9_text: "Starke (unregelmäßige) Verben sind tricky! Der Vokal wechselt. geben ➔ gab, sprechen ➔ sprach, helfen ➔ half.",
+    t9_b1: "Vokalwechsel (Ablaut).",
+    t9_b2: "Keine zusätzliche Endung bei 'ich'.",
+    t9_inst: "Verbinde Präsens mit Präteritum!",
+    t9_h1: "Der Vokal ändert sich.",
+    t9_h2: "helfen -> half, sprechen -> sprach.",
+    t9_l1: "ich helfe", t9_r1: "ich half",
+    t9_l2: "ich spreche", t9_r2: "ich sprach",
+    t9_l3: "ich trinke", t9_r3: "ich trank",
+    t9_l4: "ich sitze", t9_r4: "ich saß",
+    t9_q: "Was ist das Präteritum von 'geben'?",
+    t9_qa: "gab", t9_qb: "gebte", t9_qc: "gebe", t9_qd: "gegeben",
+
+    // T10: Das Präteritum von 'haben'
+    t10_title: "'haben' im Präteritum",
+    t10_text: "'Haben' ist wichtig! Im Präteritum: ich/du/wir/sie hattest, du hattest, er/sie/es hatte, wir/ihr/sie hatten.",
+    t10_b1: "Präteritum: hatte, hattest, hatte.",
+    t10_b2: "Starkes Verb mit '-tt-' in der Mitte.",
+    t10_inst: "Wähle die richtige Form!",
+    t10_h1: "Das Präteritum von haben: hatte",
+    t10_h2: "Ich hatte einen Bruder.",
+    t10_sent2: "Sie ___ Angst vor dem Sturm.",
+    t10_c1: "hatten", t10_c2: "haben", t10_c3: "hätten", t10_c4: "hättest",
+    t10_q: "Was ist das Präteritum von 'du hast'?",
+    t10_qa: "du hattest", t10_qb: "du hast", t10_qc: "du hätte", t10_qd: "du habest",
+
+    // T11: Perfekt mit Bewegungsverben
+    t11_title: "Perfekt mit 'sein' (Bewegung)",
+    t11_text: "Bewegungsverben brauchen 'sein' im Perfekt. laufen, springen, fahren, fliegen. Das Kind ist gelaufen.",
+    t11_b1: "Bewegung ➔ 'sein' im Perfekt.",
+    t11_b2: "Die Veränderung des Ortes ist das Merkmal.",
+    t11_inst: "Sortiere: haben oder sein im Perfekt?",
+    t11_h1: "Gibt es eine Ortsbewegung?",
+    t11_h2: "laufen (Bewegung) -> sein. essen (Bewegung) -> haben.",
+    t11_bh: "haben", t11_bs: "sein",
+    t11_i1: "gelaufen", t11_i2: "gelacht", t11_i3: "geflogen", t11_i4: "gegessen",
+    t11_q: "Welcher Satz ist korrekt?",
+    t11_qa: "Ich bin gerannt.", t11_qb: "Ich habe gerannt.", t11_qc: "Ich bin gelacht.", t11_qd: "Ich haben geflogen.",
+
+    // T12: Das Perfekt mit 'haben' und 'sein'
+    t12_title: "Haben ODER Sein im Perfekt",
+    t12_text: "Die Regel: 'Sein' für Bewegung und Zustandsänderung. 'Haben' für alles andere. Das ist die wichtigste Regel im Perfekt!",
+    t12_b1: "Bewegung/Veränderung ➔ sein.",
+    t12_b2: "Alles andere ➔ haben.",
+    t12_inst: "Wähle das richtige Hilfsverb!",
+    t12_h1: "Bewegung = sein. Action ohne Bewegung = haben.",
+    t12_h2: "Ich bin zu Hause gelaufen. Ich habe ein Buch gelesen.",
+    t12_sent3: "Der Junge ___ in die Schule gelaufen.",
+    t12_c1: "ist", t12_c2: "hat", t12_c3: "war", t12_c4: "würde",
+    t12_q: "Welcher Satz ist richtig?",
+    t12_qa: "Sie sind gegangen.", t12_qb: "Sie haben gegangen.", t12_qc: "Sie haben gehen.", t12_qd: "Sie sind gehen.",
+
+    // T13: Partizipien schwacher und starker Verben
+    t13_title: "Partizip II: schwach vs. stark",
+    t13_text: "Schwache Verben: ge- + Stamm + -t (gemacht). Starke Verben: ge- + Stamm + -en (gegeben). Der Unterschied ist wichtig!",
+    t13_b1: "Schwach: ge...t (spielen -> gespielt).",
+    t13_b2: "Stark: ge...en (schreiben -> geschrieben).",
+    t13_inst: "Sortiere die Partizipien!",
+    t13_h1: "Endet es auf -t oder -en?",
+    t13_h2: "gemacht (schwach -t), gesprochen (stark -en).",
+    t13_bsw: "Schwache -t", t13_bst: "Starke -en",
+    t13_i1: "gemacht", t13_i2: "geschrieben", t13_i3: "gespielt", t13_i4: "gesungen",
+    t13_q: "Welches ist das Partizip von 'nehmen'?",
+    t13_qa: "genommen", t13_qb: "genommt", t13_qc: "nahm", t13_qd: "nehmte",
+
+    // T14: Komplexe Perfekt-Sätze bauen
+    t14_title: "Perfekt-Sätze bauen",
+    t14_text: "Im Perfekt steht das Partizip ganz am Ende des Satzes! 'Ich habe heute einen guten Film gesehen.' Das ist wichtig für die Wort-Ordnung!",
+    t14_b1: "Hilfsverb (Platz 2) + Partizip am Ende.",
+    t14_b2: "Das Partizip steht immer zuletzt!",
+    t14_inst: "Baue den Perfekt-Satz richtig zusammen!",
+    t14_h1: "Wer -> Hilfsverb -> Rest -> Partizip",
+    t14_h2: "Ich habe eine Pizza gegessen.",
+    t14_f1: "Ich", t14_f2: "habe", t14_f3: "ein Lied", t14_f4: "gesungen.",
+    t14_q: "Was passiert mit dem Partizip im Perfekt-Satz?",
+    t14_qa: "Es steht am Satzende.", t14_qb: "Es steht immer auf Platz 2.", t14_qc: "Es steht nach dem Hilfsverb.", t14_qd: "Es steht am Satzanfang.",
+
+    // T15: Vergangenheit-Meister-Finale
+    t15_title: "Du bist ein Vergangenheits-Meister!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt Präteritum, Perfekt und alle Regeln dazu. Du kannst über deine Vergangenheit erzählen!",
+    t15_b1: "Alle Vergangenheits-Regeln gelernt.",
+    t15_b2: "Du schaffst jede Vergangenheitsform!",
+    t15_inst: "Welches Hilfsverb passt? 'Sie ___ schnell gelaufen.'",
+    t15_h1: "Laufen ist eine Bewegung.",
+    t15_h2: "Bewegung = sein. Also: Sie sind schnell gelaufen.",
+    t15_sent4: "Wir ___ zu Hause gegessen.",
+    t15_c1: "haben", t15_c2: "sind", t15_c3: "waren", t15_c4: "würden",
+    t15_q: "Was ist das Thema der Vergangenheit?",
+    t15_qa: "Wenn etwas vorbei ist", t15_qb: "Wenn etwas jetzt passiert", t15_qc: "Wenn etwas morgen kommt", t15_qd: "Wenn etwas selten passiert",
+  },
 };
 
 export const VERGANGEN_POOL: PoolTopicDef[] = [
@@ -1953,6 +2402,151 @@ export const VERGANGEN_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "perfekt" },
   },
+
+  // ── 8. Schwache Präteritum-Formen (gap-fill) ─────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "spielte", color: "#059669", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Starke Verben im Präteritum (match-pairs) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["helfen", "half"], ["sprechen", "sprach"]], color: "#8B5CF6" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_l1", right: "t9_r1" },
+        { left: "t9_l2", right: "t9_r2" },
+        { left: "t9_l3", right: "t9_r3" },
+        { left: "t9_l4", right: "t9_r4" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. 'haben' im Präteritum (gap-fill) ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "hatte", color: "#B45309", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent2",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Perfekt mit 'sein' (Bewegung) (drag-to-bucket) ────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "two-groups", left: { items: ["gelaufen"], bg: "#D1FAE5", border: "#10B981" }, right: { items: ["gelacht"], bg: "#DBEAFE", border: "#3B82F6" } },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "s", label: "t11_bs" }, { id: "h", label: "t11_bh" }],
+      items: [
+        { text: "t11_i1", bucketId: "h" }, // gelaufen
+        { text: "t11_i2", bucketId: "h" }, // gelacht
+        { text: "t11_i3", bucketId: "s" }, // geflogen
+        { text: "t11_i4", bucketId: "h" }, // gegessen
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Haben und sein im Perfekt (gap-fill) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["haben 🤝"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["sein 🏃"], bg: "#D1FAE5", border: "#10B981" } },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent3",
+      choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Partizip II: schwach vs. stark (drag-to-bucket) ────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "two-groups", left: { items: ["ge...t"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["ge...en"], bg: "#FEE2E2", border: "#DC2626" } },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "sw", label: "t13_bsw" }, { id: "st", label: "t13_bst" }],
+      items: [
+        { text: "t13_i1", bucketId: "sw" }, // gemacht
+        { text: "t13_i2", bucketId: "st" }, // geschrieben
+        { text: "t13_i3", bucketId: "sw" }, // gespielt
+        { text: "t13_i4", bucketId: "st" }, // gesungen
+      ],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Perfekt-Sätze bauen (sentence-build) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["Ich", "habe", "ein Lied", "gesungen", "."], highlightIndices: [4], color: "#7C3AED" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t14_f1", "t14_f2", "t14_f3", "t14_f4"],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Vergangenheits-Meister-Finale (gap-fill) ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Vergangenheits-Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent4",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -2050,6 +2644,109 @@ export const SCHREIB_LABELS: Record<string, Record<string, string>> = {
     t7_o1: "Mein", t7_o2: "Vater", t7_o3: "fährt", t7_o4: "viel.",
     t7_q: "Welches Wort in 'Mein Vater fährt viel.' hat ein stummes h?",
     t7_qa: "fährt", t7_qb: "Vater", t7_qc: "viel", t7_qd: "Mein",
+
+    // T8: ck oder k?
+    t8_title: "ck oder k?",
+    t8_text: "Nach einem kurzen Vokal steht fast immer 'ck'. Wir schreiben 'Glück' und 'Lücke', nicht 'Glük' oder 'Lüke'.",
+    t8_b1: "Kurzer Vokal ➔ ck",
+    t8_b2: "Langer Vokal ➔ einfaches k",
+    t8_inst: "Ergänze ck oder k!",
+    t8_h1: "Das 'u' in Glück ist kurz, also brauchen wir 'ck'.",
+    t8_h2: "Glück, Stück, Glücks",
+    t8_sent: "Ich wünsche dir viel Glü__.",
+    t8_c1: "ck", t8_c2: "k", t8_c3: "kk", t8_c4: "cck",
+    t8_q: "Wie schreiben wir 'Stück'?",
+    t8_qa: "mit ck", t8_qb: "mit k", t8_qc: "mit kk", t8_qd: "mit ck-e",
+
+    // T9: Großschreibung: Nomen
+    t9_title: "Großschreibung",
+    t9_text: "ALLE Nomen (Namenwörter) schreiben wir GROSS! Nicht nur am Satzanfang, sondern überall: Buch, Tisch, Fenster, Freund.",
+    t9_b1: "Nomen = Großbuchstaben",
+    t9_b2: "Artikel (der, die, das) auch groß!",
+    t9_inst: "Welches Wort muss großgeschrieben werden?",
+    t9_h1: "Es ist ein Namenwort - also groß!",
+    t9_h2: "Fenster, Tür, Tisch",
+    t9_sent2: "Der ___ ist grün.",
+    t9_c1: "Baum", t9_c2: "baum", t9_c3: "BAUM", t9_c4: "BauM",
+    t9_q: "Welches Wort ist ein Nomen?",
+    t9_qa: "Katze", t9_qb: "springt", t9_qc: "schnell", t9_qd: "und",
+
+    // T10: Adverben klein geschrieben
+    t10_title: "Verben und Adjektive klein geschrieben",
+    t10_text: "Verben (Tunwörter) und Adjektive (Wiewörter) schreiben wir klein! Nur Nomen werden groß! spielen, schön, leise, schnell.",
+    t10_b1: "Verb ➔ klein: spielen, lachen",
+    t10_b2: "Adjektiv ➔ klein: schön, alt, groß",
+    t10_inst: "Sortiere: Großschreibung oder Kleinschreibung?",
+    t10_h1: "Nomen groß, Verben und Adjektive klein.",
+    t10_h2: "Der schöne Garten, ich spiele",
+    t10_bg: "GROSS (Nomen)", t10_bk: "klein (Verb/Adjektiv)",
+    t10_i1: "Hund", t10_i2: "laufen", t10_i3: "schnell", t10_i4: "Buch",
+    t10_q: "Welches Wort schreiben wir groß?",
+    t10_qa: "Freund", t10_qb: "spielt", t10_qc: "alt", t10_qd: "leise",
+
+    // T11: Doppel-Konsonanten richtig nutzen
+    t11_title: "Doppelkonsonanten und Dehnung",
+    t11_text: "Das ist die Regel: kurzer Vokal ➔ Doppelkonsonant, langer Vokal oder Dehnungs-h ➔ einfach. Rennen hat 'rr' (kurzes e), Fahren hat einfaches 'h'.",
+    t11_b1: "Kurz ➔ doppelt. Lang ➔ einfach.",
+    t11_b2: "rennen (rr), fahren (h)",
+    t11_inst: "Ergänze richtig!",
+    t11_h1: "Das 'e' ist kurz, also doppelt!",
+    t11_h2: "re-nn-en, fa-h-ren",
+    t11_sent3: "Wir ___ schnell nach Hause.",
+    t11_c1: "rennen", t11_c2: "renen", t11_c3: "rennen", t11_c4: "reenen",
+    t11_q: "Welches Wort ist richtig geschrieben?",
+    t11_qa: "Straße", t11_qb: "Strasse", t11_qc: "Strasse", t11_qd: "Strase",
+
+    // T12: Wörter mit -tsch-
+    t12_title: "Das -tsch- in der Mitte",
+    t12_text: "Wörter wie 'putsch', 'umschwung' oder 'rutsch' haben das Laut-Kombination -tsch-. Das ist ein deutscher Trick!",
+    t12_b1: "tsch = Laut-Kombination",
+    t12_b2: "Deutsch, Putsch, Rutsch",
+    t12_inst: "Welches Wort hat ein -tsch-?",
+    t12_h1: "Es klingt wie 'tsch'.",
+    t12_h2: "'Deutsch' hat ein tsch",
+    t12_sent4: "Ich spreche ___.",
+    t12_c1: "Deutsch", t12_c2: "Deutch", t12_c3: "Deustch", t12_c4: "Deusch",
+    t12_q: "Wie schreiben wir 'Deutsch'?",
+    t12_qa: "Deutsch", t12_qb: "Deutch", t12_qc: "Teutsch", t12_qd: "Deustch",
+
+    // T13: Regel-Trainer Rechtschreibung
+    t13_title: "Regeltrainer",
+    t13_text: "Alle Regeln auf einmal! ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu. Das ist die große Rechtschreib-Party!",
+    t13_b1: "Alle Regeln zusammen",
+    t13_b2: "Denk an Merkwörter!",
+    t13_inst: "Bringe die Wörter in die richtige Reihenfolge!",
+    t13_h1: "Nomen groß, Verben klein.",
+    t13_h2: "Der Vogel fliegt über die Wiese.",
+    t13_f1: "Der Vogel", t13_f2: "fliegt", t13_f3: "über", t13_f4: "die Wiese.",
+    t13_q: "Welche Regel brauchst du für 'Vogel'?",
+    t13_qa: "Großschreibung (Nomen)", t13_qb: "ie/ei", t13_qc: "Doppelkonsonant", t13_qd: "qu-Regel",
+
+    // T14: Diktat-Vorbereitung
+    t14_title: "Diktat vorbereiten",
+    t14_text: "Jetzt geht's ums ganze: Kannst du hören und richtig schreiben? ie, ei, Doppelkonsonanten, Groß-Klein, Sonderzeichen - alles!",
+    t14_b1: "Aktiv hören ist wichtig.",
+    t14_b2: "Regeln immer vor Augen!",
+    t14_inst: "Welches Wort ist richtig geschrieben?",
+    t14_h1: "Höre auf die Vokale.",
+    t14_h2: "Biene (langes i = ie), Eis (Diphthong = ei)",
+    t14_sent5: "Die Biene sitzt auf der___.",
+    t14_c1: "Blume", t14_c2: "Blueme", t14_c3: "Blieme", t14_c4: "Bloeme",
+    t14_q: "Was ist bei Diktaten wichtig?",
+    t14_qa: "Aufmerksamkeit und Regeln", t14_qb: "Schnell schreiben", t14_qc: "Viel raten", t14_qd: "Fragen stellen",
+
+    // T15: Rechtschreib-Meister-Finale
+    t15_title: "Du bist ein Rechtschreib-Meister!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt ALLE wichtigen Rechtschreib-Regeln. ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu, ng/nk. Du schaffst jeden Fehler!",
+    t15_b1: "Alle Regeln gelernt!",
+    t15_b2: "Du bist bereit für das Diktat!",
+    t15_inst: "Welches Wort ist falsch geschrieben?",
+    t15_h1: "Suche den Fehler nach den Regeln.",
+    t15_h2: "Vater hat 'v', nicht 'f'!",
+    t15_sent6: "Mein ___ fährt viel Auto.",
+    t15_c1: "Vater", t15_c2: "Fater", t15_c3: "Vather", t15_c4: "Fether",
+    t15_q: "Wie heißt dieser Lernprozess?",
+    t15_qa: "Rechtschreib-Regeln lernen", t15_qb: "Lesen lernen", t15_qc: "Sätze bilden", t15_qd: "Grammatik",
   }
 };
 
@@ -2175,6 +2872,144 @@ export const SCHREIB_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "satzzeichen_k1" }, // Review von K1-K2
   },
+
+  // ── 8. ck oder k? (gap-fill) ──────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "ck", color: "#DC2626", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Großschreibung von Nomen (gap-fill) ────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "AaBb", title: "GROSS!", bg: "#DBEAFE" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent2",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Verben und Adjektive klein (drag-to-bucket) ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "two-groups", left: { items: ["Hund"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["spielen"], bg: "#D1FAE5", border: "#10B981" } },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "g", label: "t10_bg" }, { id: "k", label: "t10_bk" }],
+      items: [
+        { text: "t10_i1", bucketId: "g" }, // Hund
+        { text: "t10_i2", bucketId: "k" }, // laufen
+        { text: "t10_i3", bucketId: "k" }, // schnell
+        { text: "t10_i4", bucketId: "g" }, // Buch
+      ],
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Doppelkonsonanten (gap-fill) ────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "nn vs n", color: "#8B5CF6", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t11_sent3",
+      choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"],
+      correctIndex: 0,
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Wörter mit -tsch- (gap-fill) ────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [ { text: "tsch", color: "#059669", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent4",
+      choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Regel-Trainer (sentence-build) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "📋✍️", title: "Alle Regeln!", bg: "#FEF3C7" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t13_f1", "t13_f2", "t13_f3", "t13_f4"],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Diktat-Vorbereitung (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "🎧📝", title: "Diktat!", bg: "#D1FAE5" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent5",
+      choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Rechtschreib-Meister-Finale (gap-fill) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Rechtschreib-Meister!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent6",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -2200,13 +3035,13 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
 
     // T2: Die wörtliche Rede (Anführungszeichen)
     t2_title: "Die wörtliche Rede",
-    t2_text: "Wenn jemand etwas sagt, benutzen wir Anführungszeichen. Sie umschließen das, was gesprochen wird: „Ich spiele gerne Fußball“, sagt Tim.",
-    t2_b1: "Unten fangen sie an: „",
-    t2_b2: "Oben hören sie auf: “",
+    t2_text: 'Wenn jemand etwas sagt, benutzen wir Anführungszeichen. Sie umschließen das, was gesprochen wird: "Ich spiele gerne Fußball", sagt Tim.',
+    t2_b1: 'Unten fangen sie an: "',
+    t2_b2: 'Oben hören sie auf: "',
     t2_inst: "Finde die Redezeichen im Satz!",
     t2_h1: "Suche die Gänsefüßchen am Anfang und Ende des Gesagten.",
-    t2_h2: "„Hallo“ ist die wörtliche Rede.",
-    t2_w1: "„Hallo“", t2_w2: "ruft", t2_w3: "die", t2_w4: "Mutter", t2_w5: ".",
+    t2_h2: '"Hallo" ist die wörtliche Rede.',
+    t2_w1: '"Hallo"', t2_w2: "ruft", t2_w3: "die", t2_w4: "Mutter", t2_w5: ".",
     // Quiz: MANUAL
     t2_q: "Wo stehen die ersten Anführungszeichen bei der wörtlichen Rede?",
     t2_qa: "Unten vor dem ersten Wort", t2_qb: "Oben nach dem letzten Wort", t2_qc: "Mitten im Wort", t2_qd: "Hinter dem Punkt",
@@ -2215,14 +3050,14 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Der Doppelpunkt",
     t3_text: "Wenn der Begleitsatz am Anfang steht, brauchen wir einen Doppelpunkt (:). Er kündigt an: Jetzt sagt jemand etwas!",
     t3_b1: "Begleitsatz + Doppelpunkt + Rede.",
-    t3_b2: "Beispiel: Tim sagt: „Hallo!“",
+    t3_b2: 'Beispiel: Tim sagt: "Hallo!"',
     t3_inst: "Verbinde den Begleitsatz mit der passenden Rede!",
     t3_h1: "Wer sagt was? Achte auf den Doppelpunkt.",
-    t3_h2: "Mama sagt: -> „Essen ist fertig!“",
-    t3_l1: "Mama sagt:", t3_r1: "„Essen ist fertig!“",
-    t3_l2: "Der Lehrer fragt:", t3_r2: "„Seid ihr bereit?“",
-    t3_l3: "Leo ruft:", t3_r3: "„Tor für uns!“",
-    t3_l4: "Papa flüstert:", t3_r4: "„Schlaf gut.“",
+    t3_h2: 'Mama sagt: -> "Essen ist fertig!"',
+    t3_l1: "Mama sagt:", t3_r1: "\"Essen ist fertig!\"",
+    t3_l2: "Der Lehrer fragt:", t3_r2: "\"Seid ihr bereit?\"",
+    t3_l3: "Leo ruft:", t3_r3: "\"Tor für uns!\"",
+    t3_l4: "Papa flüstert:", t3_r4: "\"Schlaf gut.\"",
     // Quiz: MANUAL
     t3_q: "Welches Zeichen steht nach dem Begleitsatz 'Er sagt'?",
     t3_qa: "Doppelpunkt (:)", t3_qb: "Komma (,)", t3_qc: "Punkt (.)", t3_qd: "Fragezeichen (?)",
@@ -2243,11 +3078,11 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
     // T5: Redezeichen-Check
     t5_title: "Redezeichen-Check",
     t5_text: "Achtung! Bei der wörtlichen Rede müssen die Zeichen an der richtigen Stelle stehen. Erst der Doppelpunkt, dann die Gänsefüßchen unten.",
-    t5_b1: "Reihenfolge: : ➔ „ ➔ “",
+    t5_b1: 'Reihenfolge: : ➔ " ➔ "',
     t5_inst: "Welches Satzzeichen fehlt hier?",
     t5_h1: "Nach 'Er sagt' fehlt der Doppelpunkt.",
     t5_h2: "Wähle den Doppelpunkt (:).",
-    t5_sent_r: "Sie antwortet ___ „Ja, gerne.“",
+    t5_sent_r: 'Sie antwortet ___ "Ja, gerne."',
     t5_cr1: ":", t5_cr2: ",", t5_cr3: ".", t5_cr4: "!",
     // Quiz: MANUAL
     t5_q: "Was umschließt das, was jemand sagt?",
@@ -2269,9 +3104,19 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
     t7_b1: "Satzzeichen geben dem Satz Struktur.",
     t7_inst: "Baue diesen Satz mit wörtlicher Rede richtig zusammen!",
     t7_h1: "Begleitsatz zuerst: Tim sagt:",
-    t7_h2: "Tim sagt: „Ich komme.“",
-    t7_f1: "Tim sagt:", t7_f2: "„Ich", t7_f3: "komme", t7_f4: "baldt.“",
+    t7_h2: 'Tim sagt: "Ich komme."',
+    t7_f1: "Tim sagt:", t7_f2: '"Ich', t7_f3: "komme", t7_f4: 'baldt."',
     // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T8-T15: Manual quiz (no generators) to vary sentences each time
+    t8_title: "Der Punkt", t8_text: "Aussagesätze enden mit Punkt.", t8_inst: "Wo ist der Punkt?", t8_h1: "Am Ende", t8_h2: "Punkt.", t8_sent: "Das Kind spielt___", t8_c1: ".", t8_c2: "?", t8_c3: "!", t8_c4: ",", t8_q: "Satzende?", t8_qa: ".", t8_qb: "?", t8_qc: "!", t8_qd: ",",
+    t9_title: "Das Fragezeichen", t9_text: "Fragen enden mit ?", t9_inst: "Finde die Frage!", t9_h1: "Ist es eine Frage?", t9_h2: "Fragezeichen", t9_sent2: "Wo wohnst du___", t9_c1: "?", t9_c2: ".", t9_c3: "!", t9_c4: ",", t9_q: "Frage-Zeichen?", t9_qa: "?", t9_qb: ".", t9_qc: "!", t9_qd: ",",
+    t10_title: "Das Ausrufezeichen", t10_text: "Gefühle und Befehle enden mit !", t10_inst: "Was ist emotional?", t10_h1: "Starke Gefühle", t10_h2: "Hilfe!", t10_sent3: "Das ist wunderbar___", t10_c1: "!", t10_c2: ".", t10_c3: "?", t10_c4: ",", t10_q: "Gefühl-Zeichen?", t10_qa: "!", t10_qb: ".", t10_qc: "?", t10_qd: ",",
+    t11_title: "Komma in Aufzählungen", t11_text: "Wörter in Listen: A, B, C und D", t11_inst: "Wo sind die Kommas?", t11_h1: "Zwischen Wörtern", t11_h2: "Rot, Blau, Gelb", t11_sent4: "Katzen___ Hunde___ Vögel", t11_c1: ", ,", t11_c2: ". .", t11_c3: "? ?", t11_c4: "! !", t11_q: "Aufzählung trennen?", t11_qa: "Mit Kommas", t11_qb: "Mit Punkten", t11_qc: "Mit ?", t11_qd: "Gar nicht",
+    t12_title: "Wörtliche Rede", t12_text: 'Direkte Rede: "Hallo!" in Anführungszeichen', t12_inst: "Wo sind die Anführungszeichen?", t12_h1: "Um die Worte herum", t12_h2: 'Anna: "Hallo!"', t12_sent5: "Tim sagt___ Komm mit___", t12_c1: ': " ... "', t12_c2: "( ... )", t12_c3: "- ... -", t12_c4: "* ... *", t12_q: "Direkte Rede nutzt?", t12_qa: "Anführungszeichen", t12_qb: "Nur Kommas", t12_qc: "Klammern", t12_qd: "Striche",
+    t13_title: "Komma bei Nebensätzen", t13_text: "Hauptsatz, Nebensatz - Komma dazwischen!", t13_inst: "Setze das Komma!", t13_h1: "Weil/wenn/dass = Komma davor", t13_h2: "Ich lese, weil ich mag es", t13_sent6: "Das Kind weint___ weil es müde ist.", t13_c1: ",", t13_c2: ".", t13_c3: "?", t13_c4: "!", t13_q: "Haupt + Nebensatz?", t13_qa: "Komma trennt", t13_qb: "Punkt trennt", t13_qc: "? trennt", t13_qd: "Gar nicht",
+    t14_title: "Der Apostroph", t14_text: "Apostroph zeigt fehlende Buchstaben: Könnt' (Könntet)", t14_inst: "Wo ist der Apostroph?", t14_h1: "Ein Buchstabe fehlt", t14_h2: "Apostroph markiert das", t14_sent7: "Mama___ Auto ist schön.", t14_c1: "'s", t14_c2: "s'", t14_c3: "'", t14_c4: "s", t14_q: "Apostroph zeigt?", t14_qa: "Fehlende Buchstaben", t14_qb: "Fragen", t14_qc: "Gefühle", t14_qd: "Listen",
+    t15_title: "Satzzeichen-Meister!", t15_text: "Punkt, ?, !, Komma, Anführungszeichen - du kennst alle!", t15_inst: "Setze die Satzzeichen!", t15_h1: "Denk an alle Regeln", t15_h2: "Aussage (.), Frage (?), Gefühl (!)", t15_sent8: "Wie geht es___ Mir geht es gut___ Das freut mich___", t15_c1: "? . !", t15_c2: ". . .", t15_c3: "! ! !", t15_c4: ", , ,", t15_q: "Satzzeichen geben?", t15_qa: "Struktur und Klarheit", t15_qb: "Länge", t15_qc: "Farbe", t15_qd: "Ton",
   }
 };
 
@@ -2298,12 +3143,12 @@ export const ZEICHEN_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "text-bubbles", items: [ { text: "„...“", emoji: "💬", color: "#8B5CF6", bg: "#F3E8FF" } ] },
+    svg: { type: "text-bubbles", items: [ { text: "\"...\"", emoji: "💬", color: "#8B5CF6", bg: "#F3E8FF" } ] },
     bulletKeys: ["t2_b1", "t2_b2"],
     interactive: {
       type: "highlight-text",
       tokens: ["t2_w1", "t2_w2", "t2_w3", "t2_w4", "t2_w5"],
-      correctIndices: [0], // „Hallo“
+      correctIndices: [0], // "Hallo"
       instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2",
     },
     quiz: { question: "t2_q", choices: ["t2_qa","t2_qb","t2_qc","t2_qd"], answer: "t2_qa" },
@@ -2314,7 +3159,7 @@ export const ZEICHEN_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "letter-pairs", pairs: [["Satz:", "„Rede“"]], color: "#10B981" },
+    svg: { type: "letter-pairs", pairs: [["Satz:", "\"Rede\""]], color: "#10B981" },
     bulletKeys: ["t3_b1", "t3_b2"],
     interactive: {
       type: "match-pairs",
@@ -2397,6 +3242,94 @@ export const ZEICHEN_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "satzzeichen_k1" },
   },
+
+  // ── 8. Punkt (gap-fill) ─────────────────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "simple-icon", icon: ".", title: "Punkt", bg: "#DBEAFE" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t8_sent", choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Fragezeichen (gap-fill) ──────────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "?", title: "Frage", bg: "#FEF3C7" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t9_sent2", choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Ausrufezeichen (gap-fill) ───────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "!", title: "Gefühl", bg: "#FEE2E2" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t10_sent3", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Kommas in Aufzählungen (gap-fill) ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "A, B, C", color: "#3B82F6", bg: "#DBEAFE" }] },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t11_sent4", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Wörtliche Rede (gap-fill) ───────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "\"...\"", title: "Rede", bg: "#F3E8FF" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t12_sent5", choices: ["t12_c1", "t12_c2", "t12_c3", "t12_c4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Komma bei Nebensätzen (gap-fill) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "Haupt, Neben", color: "#8B5CF6", bg: "#F3E8FF" }] },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t13_sent6", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Apostroph (gap-fill) ────────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "'", title: "Apostroph", bg: "#D1FAE5" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t14_sent7", choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Satzzeichen-Meister-Finale (gap-fill) ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Zeichen-Meister!", bg: "#FEFCE8" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t15_sent8", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -2471,12 +3404,22 @@ export const EXAM3_LABELS: Record<string, Record<string, string>> = {
     // T7: Satzzeichen (Punkt und Komma)
     t7_title: "Punkt und Komma",
     t7_text: "Satzzeichen sind wichtig für die Ordnung. Vergiss das Komma bei Aufzählungen nicht!",
-    t7_b1: ". ? ! , : „ “",
+    t7_b1: '. ? ! , : " "',
     t7_inst: "Welches Satzzeichen fehlt hier?",
     t7_h1: "Es ist eine Frage. Was kommt ans Ende?",
     t7_h2: "Ein Fragezeichen (?) ist richtig.",
     t7_sent_z: "Kommst du heute zu mir ___",
     t7_cz1: "?", t7_cz2: ".", t7_cz3: "!", t7_cz4: ",",
+
+    // T8-T15: Review topics
+    t8_title: "Adjektive-Steigerung", t8_text: "klein ➔ kleiner ➔ am kleinsten", t8_inst: "Bilde die Steigerung!", t8_h1: "er und am ...sten", t8_h2: "gut -> besser -> am besten", t8_sent8: "Dieser Baum ist ___.", t8_c8_1: "am größten", t8_c8_2: "größer", t8_c8_3: "großest", t8_c8_4: "großes",
+    t9_title: "Verben Präteritum", t9_text: "spielen -> spielte, gehen -> ging", t9_inst: "Wähle Präteritum!", t9_h1: "Vergangenheit erzählt", t9_h2: "ich spielte", t9_sent9: "Der Junge ___ schnell.", t9_c9_1: "rannte", t9_c9_2: "rennt", t9_c9_3: "gerannt", t9_c9_4: "rennen",
+    t10_title: "Satzglieder", t10_text: "Subjekt, Prädikat, Objekt", t10_inst: "Was ist das Subjekt?", t10_h1: "Wer oder was tut es?", t10_h2: "Der Hund (Subjekt) bellt.", t10_sent10: "Die Katze schläft im Garten.", t10_c10_1: "Die Katze", t10_c10_2: "schläft", t10_c10_3: "im Garten", t10_c10_4: ".",
+    t11_title: "Rechtschreibung ie/ei", t11_text: "ie = langes i, ei = ai-Laut", t11_inst: "ie oder ei?", t11_h1: "Hör hin: ist es lang oder kurz?", t11_h2: "Biene (lang) = ie", t11_sent11: "D_se B___ne ist schön.", t11_c11_1: "ie / ie", t11_c11_2: "ei / ei", t11_c11_3: "ie / ei", t11_c11_4: "ei / ie",
+    t12_title: "Perfekt-Sätze", t12_text: "Ich habe gespielt. Sie sind gelaufen.", t12_inst: "Baue den Perfekt-Satz!", t12_h1: "Hilfsverb + Partizip am Ende", t12_h2: "Ich habe ein Buch gelesen.", t12_sent12: "Wir ___ zu Hause ___.", t12_c12_1: "sind / gekommen", t12_c12_2: "haben / gekommen", t12_c12_3: "haben / gehen", t12_c12_4: "bin / gemacht",
+    t13_title: "Doppelkonsonanten", t13_text: "Kurzer Vokal ➔ doppelt! rennen, Tonne", t13_inst: "Ergänze richtig!", t13_h1: "Kurz = doppelt", t13_h2: "re-nn-en", t13_sent13: "Die Schüler ___ zur Schule.", t13_c13_1: "rennen", t13_c13_2: "renen", t13_c13_3: "rennen", t13_c13_4: "reenen",
+    t14_title: "Großschreibung", t14_text: "Nomen sind GROSS! Alle anderen klein.", t14_inst: "Was ist großgeschrieben?", t14_h1: "Nur Nomen groß!", t14_h2: "Der Hund schläft.", t14_sent14: "Die ___ spielen im Park.", t14_c14_1: "Kinder", t14_c14_2: "kinder", t14_c14_3: "KINDER", t14_c14_4: "KinDer",
+    t15_title: "K3-Finale: Alles zusammen!", t15_text: "Du kennst Plural, Verben, Steigerung, Satzglieder, Rechtschreibung und Zeichensetzung!", t15_inst: "Welches Wort ist richtig?", t15_h1: "Denk an alle Regeln.", t15_h2: "Keine einfache Antwort!", t15_sent15: "Die ___ sind ___ und ___.", t15_c15_1: "Kinder / schnell / glücklich", t15_c15_2: "kinder / schneller / glücklich", t15_c15_3: "Kinder / schneller / glücklich", t15_c15_4: "KINDER / Schnell / Glücklich",
   }
 };
 
@@ -2597,6 +3540,94 @@ export const EXAM3_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 8. Adjektive-Steigerung (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-pairs", pairs: [["klein", "kleiner"], ["am kleinsten", ""]], color: "#F59E0B" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 1, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 9. Verben Präteritum (gap-fill) ─────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [{ text: "spielte / ging", color: "#8B5CF6", bg: "#F3E8FF" }] },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "praeteritum" },
+  },
+
+  // ── 10. Satzglieder (highlight-text) ───────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "sentence-display", words: ["Der Hund", "bellt", "laut", "."], highlightIndices: [0], color: "#3B82F6" },
+    bulletKeys: [],
+    interactive: { type: "highlight-text", tokens: ["Die Katze", "schläft", "im Garten", "."], correctIndices: [0], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "nominativ" },
+  },
+
+  // ── 11. Rechtschreibung ie/ei (gap-fill) ───────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "letter-pairs", pairs: [["ie (lang)", "ei (ai-Laut)"], ["Biene", "Eis"]], color: "#10B981" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { question: "t11_q", choices: ["ie", "ei", "i", "e"], answer: "ie" },
+  },
+
+  // ── 12. Perfekt (gap-fill) ──────────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "compound-word", word1: "habe/bin", word2: "gemacht", result: "Perfekt", color: "#8B5CF6" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t12_sent12", choices: ["t12_c12_1", "t12_c12_2", "t12_c12_3", "t12_c12_4"], correctIndex: 0, instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "perfekt" },
+  },
+
+  // ── 13. Doppelkonsonanten (gap-fill) ────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "nn vs n", color: "#DC2626", bg: "#FEE2E2" }] },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t13_sent13", choices: ["t13_c13_1", "t13_c13_2", "t13_c13_3", "t13_c13_4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { question: "t13_q", choices: ["rennen", "renen", "reenen", "renen"], answer: "rennen" },
+  },
+
+  // ── 14. Großschreibung (gap-fill) ───────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "AaBb", title: "GROSS!", bg: "#D1FAE5" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t14_sent14", choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { question: "t14_q", choices: ["Nomen", "Verben", "Adjektive", "Artikel"], answer: "Nomen" },
+  },
+
+  // ── 15. K3-Finale (gap-fill) ────────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "K3-Meister!", bg: "#FEFCE8" },
+    bulletKeys: [],
+    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "plural" },
   },
 ];
 
