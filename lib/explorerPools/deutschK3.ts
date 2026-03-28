@@ -81,6 +81,97 @@ export const PLURAL_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Der Plural ist 'Äpfel'.",
     t7_sent2: "Im Korb liegen viele ___.",
     t7_c2_1: "Äpfel", t7_c2_2: "Apfeln", t7_c2_3: "Äpfeln", t7_c2_4: "Apfels",
+
+    // T8: Spezial: -nen Endung
+    t8_title: "Plural mit -nen",
+    t8_text: "Einige Wörter, die auf einen Konsonant enden, bekommen im Plural die Endung '-nen'. Diese Pluralform ist eher selten. Beispiel: die Freundin ➔ die Freundinnen.",
+    t8_b1: "Seltene Endung: -nen",
+    t8_b2: "Meist bei Wörtern auf -in",
+    t8_inst: "Wähle die richtige Pluralform!",
+    t8_h1: "Achte auf die Endung -nen.",
+    t8_h2: "Die Freundin wird zu Freundinnen.",
+    t8_sent: "Die ___ spielen zusammen.",
+    t8_c1: "Freundinnen", t8_c2: "Freundin", t8_c3: "Freundinen", t8_c4: "Freundinn",
+
+    // T9: Umlaut + Endung
+    t9_title: "Umlaut und Endung kombiniert",
+    t9_text: "Manche Wörter bekommen nicht nur eine Endung, sondern auch einen Umlaut! Aus a wird ä, aus o wird ö, aus u wird ü. der Sohn ➔ die Söhne.",
+    t9_b1: "Umlaut + Endung zusammen",
+    t9_b2: "Mehrere Veränderungen gleichzeitig",
+    t9_inst: "Ordne die Wörter korrekt!",
+    t9_h1: "Der Vokal ändert sich (ä/ö/ü) UND eine Endung kommt dazu.",
+    t9_h2: "Sohn ➔ Söhne, Mutter ➔ Mütter",
+    t9_l1: "der Sohn", t9_r1: "die Söhne",
+    t9_l2: "die Mutter", t9_r2: "die Mütter",
+    t9_l3: "das Loch", t9_r3: "die Löcher",
+    t9_l4: "der Garten", t9_r4: "die Gärten",
+
+    // T10: Plural-Regeln Zusammenfassung
+    t10_title: "Alle Pluralregeln",
+    t10_text: "Lass uns zusammenfassen: Pluralendungen sind -e, -er, -en, -n, -s oder keine. Die Regel hängt vom Wort ab! Lernen statt auswendig lernen.",
+    t10_b1: "Achte auf das einzelne Wort.",
+    t10_b2: "Es gibt viele Regeln!",
+    t10_inst: "Welcher Plural passt zu 'Straße'?",
+    t10_h1: "Das Wort endet auf -e, also...",
+    t10_h2: "Straße ➔ Straßen",
+    t10_sent3: "Auf dieser ___ sind viele Autos.",
+    t10_c3_1: "Straßen", t10_c3_2: "Straße", t10_c3_3: "Straßes", t10_c3_4: "Straßer",
+
+    // T11: Unregelmäßige Plurale
+    t11_title: "Besondere Plurale",
+    t11_text: "Einige Wörter folgen gar nicht den Regeln! Das Kind ➔ die Kinder (ä!), der Mann ➔ die Männer. Diese musst du einfach lernen!",
+    t11_b1: "Unregelmäßige Plurale existieren.",
+    t11_b2: "Auswendig lernen hilft.",
+    t11_inst: "Finde das falsche Plural-Wort!",
+    t11_h1: "Das Kind ➔ die Kinder (nicht Kinds!)",
+    t11_h2: "Der Mann ➔ die Männer (mit Umlaut)",
+    t11_sent4: "Die ___ spielen im Park.",
+    t11_c4_1: "Kinder", t11_c4_2: "Kinds", t11_c4_3: "Kinde", t11_c4_4: "Kindren",
+
+    // T12: Plural und Artikel
+    t12_title: "Plural und Artikel",
+    t12_text: "Im Plural ist der Artikel immer 'die'! Ganz egal ob männlich, weiblich oder sächlich. der Hund ➔ die Hunde, die Katze ➔ die Katzen, das Auto ➔ die Autos!",
+    t12_b1: "Plural-Artikel ist immer 'die'.",
+    t12_b2: "Egal welches Geschlecht vorher.",
+    t12_inst: "Wähle den richtigen Plural-Artikel!",
+    t12_h1: "Der Plural nutzt immer 'die'.",
+    t12_h2: "'die' mit jeder Pluralform!",
+    t12_bn: "Singular-Artikel", t12_ba: "Plural-Artikel",
+    t12_i1: "der", t12_i2: "die", t12_i3: "das", t12_i4: "die",
+
+    // T13: Schreib-Übung Plural
+    t13_title: "Schreib den Plural!",
+    t13_text: "Jetzt darfst du selber schreiben! Nimm ein Nomen aus dem Singular und schreibe den Plural auf. Du kannst die Regeln nutzen, um es zu versuchen!",
+    t13_b1: "Plural-Regeln anwenden.",
+    t13_inst: "Vervollständige den Satz mit der Pluralform!",
+    t13_h1: "Denk an die Endung und den Artikel.",
+    t13_h2: "Der Tisch ➔ Die Tische",
+    t13_sent5: "Im Klassenzimmer sind viele ___.",
+    t13_c5_1: "Tische", t13_c5_2: "Tisch", t13_c5_3: "Tischen", t13_c5_4: "Tische",
+
+    // T14: Fremdwörter im Plural
+    t14_title: "Fremdwörter und Plural",
+    t14_text: "Wörter aus anderen Sprachen bekommen meist ein '-s' im Plural. das Computer ➔ die Computers? Nein! das Komputersystem ➔ die Komputersysteme. Bei Fremdwörtern ist oft -s die Endung.",
+    t14_b1: "Fremdwörter ➔ oft -s",
+    t14_b2: "Computer ➔ Computer oder Computers.",
+    t14_inst: "Finde den richtigen Plural!",
+    t14_h1: "Fremdwörter bekommen oft -s",
+    t14_h2: "Auto ➔ Autos, Pizza ➔ Pizzas",
+    t14_l1: "das Auto", t14_r1: "die Autos",
+    t14_l2: "die Pizza", t14_r2: "die Pizzas",
+    t14_l3: "das Photo", t14_r3: "die Photos",
+    t14_l4: "der Chef", t14_r4: "die Chefs",
+
+    // T15: Plural-Meister-Abschluss
+    t15_title: "Du bist ein Plural-Profi!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst jetzt ALLE Pluralregeln. -e, -er, -en, -s, keine Endung, Umlaute und sogar besondere Plurale! Du schaffst es!",
+    t15_b1: "Alle Pluralregeln gelernt.",
+    t15_b2: "Du bist bereit für jeden Plural!",
+    t15_inst: "Wähle den korrekten Plural!",
+    t15_h1: "Denk an alles, was du gelernt hast.",
+    t15_h2: "Welche Regel passt zu welchem Wort?",
+    t15_sent6: "In der Schule lernen viele ___.",
+    t15_c6_1: "Schüler", t15_c6_2: "Schüle", t15_c6_3: "Schülers", t15_c6_4: "Schülerin",
   }
 };
 
@@ -206,6 +297,152 @@ export const PLURAL_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "plural" },
   },
+
+  // ── 8. Plural mit -nen (gap-fill) ──────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "word-display", word: "Freundinnen", highlightChars: ["n", "n", "e", "n"], color: "#EC4899" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 9. Umlaut + Endung (match-pairs) ───────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["Sohn→Söhne", "ö+e"], ["Mutter→Mütter", "ü+r"]], color: "#8B5CF6" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_l1", right: "t9_r1" },
+        { left: "t9_l2", right: "t9_r2" },
+        { left: "t9_l3", right: "t9_r3" },
+        { left: "t9_l4", right: "t9_r4" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 10. Zusammenfassung Pluralregeln (gap-fill) ───────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "-e, -er, -en, -s", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent3",
+      choices: ["t10_c3_1", "t10_c3_2", "t10_c3_3", "t10_c3_4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 11. Unregelmäßige Plurale (highlight-text) ───────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "simple-icon", icon: "👦👧👨", title: "Besondere Formen", bg: "#FEF3C7" },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t11_sent4",
+      choices: ["t11_c4_1", "t11_c4_2", "t11_c4_3", "t11_c4_4"],
+      correctIndex: 0,
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 12. Plural-Artikel (drag-to-bucket) ────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["der/die/das"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["die (Plural)"], bg: "#FEE2E2", border: "#EF4444" } },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "s", label: "t12_bn" }, { id: "p", label: "t12_ba" }],
+      items: [
+        { text: "t12_i1", bucketId: "s" },
+        { text: "t12_i2", bucketId: "p" },
+        { text: "t12_i3", bucketId: "s" },
+        { text: "t12_i4", bucketId: "p" },
+      ],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 13. Schreib-Übung Plural (gap-fill) ───────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "✏️📝", title: "Schreib!", bg: "#E0F2FE" },
+    bulletKeys: ["t13_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t13_sent5",
+      choices: ["t13_c5_1", "t13_c5_2", "t13_c5_3", "t13_c5_4"],
+      correctIndex: 0,
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 14. Fremdwörter im Plural (match-pairs) ───────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🚗", label: "Auto→Autos" }, { emoji: "🍕", label: "Pizza→Pizzas" }] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t14_l1", right: "t14_r1" },
+        { left: "t14_l2", right: "t14_r2" },
+        { left: "t14_l3", right: "t14_r3" },
+        { left: "t14_l4", right: "t14_r4" },
+      ],
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "plural" },
+  },
+
+  // ── 15. Plural-Profi Abschluss (gap-fill) ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent6",
+      choices: ["t15_c6_1", "t15_c6_2", "t15_c6_3", "t15_c6_4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "plural" },
+  },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i2 — Verbinsel
@@ -288,6 +525,92 @@ export const VERB3_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Welches Wort steht an der zweiten Stelle und ist ein Tunwort?",
     t7_h2: "Das Wort 'scheint' ist das Verb.",
     t7_w1: "Heute", t7_w2: "scheint", t7_w3: "die", t7_w4: "Sonne", t7_w5: ".",
+
+    // T8: Modalverben (mögen, können, müssen, dürfen)
+    t8_title: "Modalverben",
+    t8_text: "Neben normalen Verben gibt es auch Modalverben: mögen, können, müssen, dürfen, sollen, wollen. Sie beschreiben eine Möglichkeit oder Notwendigkeit. Ich kann schwimmen. Du musst lernen.",
+    t8_b1: "Modalverben beschreiben Möglichkeit.",
+    t8_b2: "können, müssen, dürfen, mögen...",
+    t8_inst: "Finde das Modalverb im Satz!",
+    t8_h1: "Welches Wort beschreibt, dass etwas möglich ist?",
+    t8_h2: "'Kann' ist ein Modalverb.",
+    t8_w1: "Ich", t8_w2: "kann", t8_w3: "sehr", t8_w4: "gut", t8_w5: "schwimmen.",
+
+    // T9: Präsens und sein
+    t9_title: "Das Verb 'sein'",
+    t9_text: "Das Verb 'sein' ist unregelmäßig und sehr wichtig! ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind. Es ist ANDERS als andere Verben!",
+    t9_b1: "Sein ist unregelmäßig.",
+    t9_b2: "du BIST (nicht: du seist!)",
+    t9_inst: "Wähle die richtige Form von 'sein'!",
+    t9_h1: "Denk dran: 'du bist' ist anders!",
+    t9_h2: "Er ist Lehrer. Sie ist Freundlich.",
+    t9_sent: "Die Kinder ___ im Garten.",
+    t9_c1: "sind", t9_c2: "seien", t9_c3: "sein", t9_c4: "seid",
+
+    // T10: Präsens und haben
+    t10_title: "Das Verb 'haben'",
+    t10_text: "Auch 'haben' ist unregelmäßig! ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben. Das brauchst du für das Perfekt!",
+    t10_b1: "Haben ist auch unregelmäßig.",
+    t10_b2: "du HAST (nicht: du habst!)",
+    t10_inst: "Bringe die Worte in die richtige Reihenfolge!",
+    t10_h1: "Wer (Der Junge) hat was (einen Ball)?",
+    t10_h2: "Der Junge hat einen Ball.",
+    t10_o1: "Der Junge", t10_o2: "hat", t10_o3: "einen", t10_o4: "Ball.",
+
+    // T11: Reflexive Verben
+    t11_title: "Reflexive Verben",
+    t11_text: "Manche Verben brauchen das Reflexivpronomen 'sich'. sich waschen, sich anziehen, sich kämmen. Das Pronomen ändert sich je nach Person!",
+    t11_b1: "Sich ist das Reflexivpronomen.",
+    t11_b2: "Ich wasche mich, du wäschst dich.",
+    t11_inst: "Finde das reflexive Verb!",
+    t11_h1: "Welches Verb hat 'sich' dabei?",
+    t11_h2: "'sich anziehen' ist reflexiv.",
+    t11_w1: "Der Junge", t11_w2: "zieht", t11_w3: "sich", t11_w4: "an.",
+
+    // T12: Trennbare Verben (Einführung)
+    t12_title: "Trennbare Verben",
+    t12_text: "Einige Verben trennen sich! aufstehen → ich stehe auf, einkaufen → du kaufst ein. Das Präfix (auf-, ein-) geht ans Ende des Satzes!",
+    t12_b1: "Präfix trennt sich vom Verb.",
+    t12_b2: "aufstehen → ich stehe auf.",
+    t12_inst: "Welches Wort passt in die Lücke?",
+    t12_h1: "Das Präfix steht am Ende.",
+    t12_h2: "Die Familie steht um 6 Uhr ___.",
+    t12_sent2: "Die Familie steht um 6 Uhr ___.",
+    t12_c2_1: "auf", t12_c2_2: "auf-stehe", t12_c2_3: "stehe", t12_c2_4: "stehe-auf",
+
+    // T13: Verb-Konjugation Zusammenfassung
+    t13_title: "Verbformen üben",
+    t13_text: "Jetzt kennst du normale Verben, Modalverben, unregelmäßige Verben, reflexive und trennbare Verben! Alle zusammen ergeben eine vollständige Verbkonjugation.",
+    t13_b1: "Es gibt viele Verb-Typen.",
+    t13_b2: "Jeder Typ hat eigene Regeln.",
+    t13_inst: "Verbinde die Person mit der richtigen Verbform!",
+    t13_h1: "Denk an die Endungen für jede Person.",
+    t13_h2: "Ich lerne, du lernst, er lernt.",
+    t13_l1: "ich (spielen)", t13_r1: "spielen",
+    t13_l2: "du (sehen)", t13_r2: "siehst",
+    t13_l3: "er (sprechen)", t13_r3: "spricht",
+    t13_l4: "wir (tanzen)", t13_r4: "tanzen",
+
+    // T14: Verb-Stellung im Satz
+    t14_title: "Verb-Position",
+    t14_text: "Das Verb steht immer an Platz 2 im Aussagesatz, aber in Fragen und Nebensätzen nicht! 'Ich spiele gerne.' (Platz 2), 'Spielst du gerne?' (Platz 1), 'Wenn ich spiele...' (am Ende).",
+    t14_b1: "Aussagesatz: Verb auf Platz 2.",
+    t14_b2: "Frage: Verb auf Platz 1.",
+    t14_inst: "Finde das Verb an der richtigen Stelle!",
+    t14_h1: "Schau auf die Position des Verbs.",
+    t14_h2: "Im Aussagesatz ist Platz 2 normal.",
+    t14_w1: "Gerne", t14_w2: "spielen", t14_w3: "Kinder", t14_w4: ".",
+
+    // T15: Verben-Meister Finale
+    t15_title: "Du bist ein Verben-Profi!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst normale Verben, Modalverben, sein, haben, reflexive und trennbare Verben! Du beherrschst die Verbkonjugation komplett!",
+    t15_b1: "Du beherrschst jetzt Verben!",
+    t15_b2: "Alle Typen und Formen.",
+    t15_inst: "Wähle die richtige Verbform!",
+    t15_h1: "Denk an alles, was du gelernt hast.",
+    t15_h2: "Welche Person? Welche Endung?",
+    t15_sent3: "Wir ___ gerade Deutsch.",
+    t15_c3_1: "lernen", t15_c3_2: "lernest", t15_c3_3: "lernst", t15_c3_4: "lerne",
   }
 };
 
@@ -412,6 +735,141 @@ export const VERB3_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "verben_k3" },
   },
+
+  // ── 8. Modalverben (highlight-text) ───────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "können", emoji: "💪", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5"],
+      correctIndices: [1], // kann
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 9. Sein (gap-fill) ────────────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "compound-word", word1: "ich", word2: "bin", result: "Ich bin hier", color: "#10B981" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 10. Haben (word-order) ───────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🎁", title: "Haben", bg: "#FEE2E2" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "word-order",
+      words: ["t10_o2", "t10_o3", "t10_o4", "t10_o1"],
+      correctOrder: [3, 1, 2, 0], // Der Junge -> hat -> einen -> Ball
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 11. Reflexive Verben (highlight-text) ─────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "sich anziehen", emoji: "👔", color: "#EC4899", bg: "#FCE7F3" } ] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [2], // sich
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 12. Trennbare Verben (gap-fill) ───────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "compound-word", word1: "auf", word2: "stehen", result: "aufstehen→stehe auf", color: "#F59E0B" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent2",
+      choices: ["t12_c2_1", "t12_c2_2", "t12_c2_3", "t12_c2_4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 13. Verb-Konjugation Üben (match-pairs) ───────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "letter-pairs", pairs: [["ich", "e"], ["du", "st"], ["er", "t"]], color: "#8B5CF6" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t13_l1", right: "t13_r1" },
+        { left: "t13_l2", right: "t13_r2" },
+        { left: "t13_l3", right: "t13_r3" },
+        { left: "t13_l4", right: "t13_r4" },
+      ],
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 14. Verb-Position im Satz (sentence-display) ──────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["Gerne", "spielen", "Kinder", "."], highlightIndices: [1], color: "#1D4ED8" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [1], // spielen
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
+
+  // ── 15. Verben-Profi Finale (gap-fill) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Verben-Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent3",
+      choices: ["t15_c3_1", "t15_c3_2", "t15_c3_3", "t15_c3_4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "verben_k3" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -499,6 +957,98 @@ export const STEIGER_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Der Satzanfang (Der) ist groß.",
     t7_h2: "Der Berg ist am höchsten.",
     t7_f1: "Der", t7_f2: "Berg", t7_f3: "ist", t7_f4: "am höchsten.",
+
+    // T8: Adjektive vergleichen
+    t8_title: "Adjektive vergleichen",
+    t8_text: "Mit Steigerung kannst du Dinge vergleichen! Der Berg ist höher als das Haus. Das Flugzeug ist schneller als das Auto.",
+    t8_b1: "Vergleiche zwei Dinge.",
+    t8_b2: "Nutze die 1. Stufe + 'als'.",
+    t8_inst: "Wähle das Adjektiv für den Vergleich!",
+    t8_h1: "Das Haus ist... Was ist größer?",
+    t8_h2: "Das Haus ist größer als die Hütte.",
+    t8_sent8: "Die Stadt ist ___ als das Dorf.",
+    t8_c8_1: "älter", t8_c8_2: "alt", t8_c8_3: "am ältesten", t8_c8_4: "ältern",
+
+    // T9: Umlaute in der Steigerung
+    t9_title: "Umlaute bei Steigerung",
+    t9_text: "Viele Adjektive bekommen Umlaute! alt ➔ älter, groß ➔ größer, warm ➔ wärmer.",
+    t9_b1: "Umlaut bei kurzen Adjektiven.",
+    t9_b2: "a→ä, o→ö, u→ü",
+    t9_inst: "Verbinde die Formen!",
+    t9_h1: "Denk an den Umlaut!",
+    t9_h2: "alt -> älter -> am ältesten",
+    t9_l1: "alt", t9_r1: "älter",
+    t9_l2: "groß", t9_r2: "größer",
+    t9_l3: "warm", t9_r3: "wärmer",
+    t9_l4: "jung", t9_r4: "jünger",
+
+    // T10: Superlativ-Formen
+    t10_title: "Die höchste Stufe",
+    t10_text: "Die 2. Stufe heißt Superlativ. Sie beginnt mit 'am': am schnellsten, am größten, am höchsten!",
+    t10_b1: "Superlativ = höchste Stufe.",
+    t10_b2: "Mit 'am' oder Artikel: der/die/das...",
+    t10_inst: "Wähle die Superlativ-Form!",
+    t10_h1: "Die höchste Stufe beginnt mit 'am'.",
+    t10_h2: "schnell -> am schnellsten",
+    t10_sent10: "Das Flugzeug ist ___.",
+    t10_c10_1: "am schnellsten", t10_c10_2: "schneller", t10_c10_3: "schnell", t10_c10_4: "schnellest",
+
+    // T11: Endungen richtig
+    t11_title: "Endungen der Steigerung",
+    t11_text: "1. Stufe: '-er' (schnell ➔ schneller). 2. Stufe: '-st' oder '-est' (schnell ➔ am schnellsten).",
+    t11_b1: "1. Stufe bekommt -er.",
+    t11_b2: "2. Stufe bekommt -st/-est.",
+    t11_inst: "Ordne die Formen!",
+    t11_h1: "Welche Endung gehört zu welcher Stufe?",
+    t11_h2: "klein, kleiner, am kleinsten",
+    t11_l1: "lang", t11_r1: "länger",
+    t11_l2: "laut", t11_r2: "lauter",
+    t11_l3: "scharf", t11_r3: "schärfer",
+    t11_l4: "blöd", t11_r4: "blöder",
+
+    // T12: Besondere Adjektive
+    t12_title: "Spezial-Adjektive",
+    t12_text: "hoch (nicht hocher!), nah (näher, am nächsten), dunkel, teuer haben Besonderheiten in der Steigerung!",
+    t12_b1: "Manche sind speziell.",
+    t12_b2: "hoch ➔ höher (nicht hocher!)",
+    t12_inst: "Wähle die richtige Form!",
+    t12_h1: "hoch wird zu... höher!",
+    t12_h2: "Der Berg ist hoch, die Kirche ist höher.",
+    t12_sent12: "Der Turm ist ___.",
+    t12_c12_1: "höher", t12_c12_2: "hoher", t12_c12_3: "höchst", t12_c12_4: "am hochsten",
+
+    // T13: Negative Steigerung
+    t13_title: "Weniger große",
+    t13_text: "Es gibt auch 'negative' Steigerungen: weniger groß, am wenigsten groß. Das ist auch Steigerung!",
+    t13_b1: "weniger ist auch Steigerung.",
+    t13_b2: "weniger... am wenigsten",
+    t13_inst: "Wähle den richtigen Vergleich!",
+    t13_h1: "Denk an 'weniger'!",
+    t13_h2: "Mein Zimmer ist weniger groß.",
+    t13_sent13: "Sein Zimmer ist ___ als meins.",
+    t13_c13_1: "weniger groß", t13_c13_2: "größer", t13_c13_3: "am größten", t13_c13_4: "groß",
+
+    // T14: Steigerung in Sätzen
+    t14_title: "Je... desto Sätze",
+    t14_text: "Eine spezielle Regel: 'Je höher du gehst, desto kälter wird es.' Je mit Steigerung, desto mit Steigerung!",
+    t14_b1: "Je ... desto ist eine Regel!",
+    t14_b2: "Beide Teile gesteigert.",
+    t14_inst: "Vervollständige den Satz!",
+    t14_h1: "Je (Steigerung), desto (Steigerung).",
+    t14_h2: "Je wärmer, desto schneller.",
+    t14_sent14: "Je größer der Berg, desto ___ die Luft.",
+    t14_c14_1: "kälter", t14_c14_2: "kalt", t14_c14_3: "am kältesten", t14_c14_4: "kältest",
+
+    // T15: Steigerungs-Profi
+    t15_title: "Du bist ein Steigerungs-Profi!",
+    t15_text: "Herzlichen Glückwunsch! Du kennst die 1. Stufe, die 2. Stufe, Umlaute, Ausnahmen und sogar 'je...desto' Sätze!",
+    t15_b1: "Du beherrschst Steigerung!",
+    t15_b2: "Alle Formen und Regeln!",
+    t15_inst: "Wähle die richtige Steigerung!",
+    t15_h1: "Denk an alles, was du gelernt hast.",
+    t15_h2: "schön, schöner, am schönsten",
+    t15_sent15: "Das ist das ___ Bild im Museum.",
+    t15_c15_1: "am schönsten", t15_c15_2: "schöner", t15_c15_3: "schönsten", t15_c15_4: "schön",
   }
 };
 
