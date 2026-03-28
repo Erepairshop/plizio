@@ -3449,6 +3449,102 @@ export const LESE_LABELS: Record<string, Record<string, string>> = {
     t7_w1: "rot", t7_w2: "gelb", t7_w3: "blau", t7_w4: "grün",
     t7_q: "Wer hat den Ball?",
     t7_qa: "Tim", t7_qb: "Oma", t7_qc: "Leo", t7_qd: "Max",
+
+    // T8: Silben lesen
+    t8_title: "Silben lesen",
+    t8_text: "Wörter bestehen aus Silben. 'Ma-ma' hat 2 Silben, 'Pa-pa' auch. Klatsch jede Silbe einmal!",
+    t8_b1: "Jede Silbe ist ein Klatsch.",
+    t8_b2: "Vokal in jeder Silbe.",
+    t8_inst: "Wie viele Silben hat 'Mama'?",
+    t8_h1: "Klatsche: Ma - ma.",
+    t8_h2: "Es sind 2 Silben.",
+    t8_w1: "1", t8_w2: "2", t8_w3: "3", t8_w4: "4",
+    t8_q: "Wie viele Silben hat 'Schule'?",
+    t8_qa: "2", t8_qb: "1", t8_qc: "3", t8_qd: "4",
+
+    // T9: Wörter mit A
+    t9_title: "Wörter mit A",
+    t9_text: "Der Buchstabe A ist ein Vokal. Viele Wörter beginnen mit A: Auto, Affe, Apfel. Erkennst du sie?",
+    t9_b1: "A ist ein Vokal.",
+    t9_b2: "Auto, Affe, Apfel fangen mit A an.",
+    t9_inst: "Welches Wort fängt mit A an?",
+    t9_h1: "Suche das Wort, das mit dem Laut 'A' beginnt.",
+    t9_h2: "Auto fängt mit A an.",
+    t9_w1: "Auto", t9_w2: "Baum", t9_w3: "Haus", t9_w4: "Maus",
+    t9_q: "Welches dieser Wörter beginnt mit A?",
+    t9_qa: "Apfel", t9_qb: "Ball", t9_qc: "Dose", t9_qd: "Fisch",
+
+    // T10: Wörter mit E
+    t10_title: "Wörter mit E",
+    t10_text: "Das E ist ein Vokal. Ente, Esel, Ei - alle fangen mit E an. Kannst du noch mehr E-Wörter finden?",
+    t10_b1: "E ist ein Vokal.",
+    t10_b2: "Ente, Esel, Ei fangen mit E an.",
+    t10_inst: "Welches Wort fängt mit E an?",
+    t10_h1: "Suche das Wort, das mit dem Laut 'E' beginnt.",
+    t10_h2: "Ente fängt mit E an.",
+    t10_w1: "Ente", t10_w2: "Katze", t10_w3: "Vogel", t10_w4: "Baum",
+    t10_q: "Welches dieser Wörter beginnt mit E?",
+    t10_qa: "Esel", t10_qb: "Fuchs", t10_qc: "Igel", t10_qd: "Wolf",
+
+    // T11: Wörter mit I
+    t11_title: "Wörter mit I",
+    t11_text: "Das I ist ein Vokal. Igel, Insel, Ibus - alle fangen mit I an. Ein langer I-Laut klingt wie 'iiiii'!",
+    t11_b1: "I ist ein Vokal.",
+    t11_b2: "Igel, Insel fangen mit I an.",
+    t11_inst: "Welches Wort fängt mit I an?",
+    t11_h1: "Suche das Wort, das mit dem Laut 'I' beginnt.",
+    t11_h2: "Igel fängt mit I an.",
+    t11_w1: "Igel", t11_w2: "Affe", t11_w3: "Ente", t11_w4: "Baum",
+    t11_q: "Welches dieser Wörter beginnt mit I?",
+    t11_qa: "Insel", t11_qb: "Haus", t11_qc: "Garten", t11_qd: "Maus",
+
+    // T12: Wörter mit O
+    t12_title: "Wörter mit O",
+    t12_text: "Das O ist ein Vokal. Oma, Obst, Ohr - alle fangen mit O an. Kannst du den O-Laut singen?",
+    t12_b1: "O ist ein Vokal.",
+    t12_b2: "Oma, Obst, Ohr fangen mit O an.",
+    t12_inst: "Welches Wort fängt mit O an?",
+    t12_h1: "Suche das Wort, das mit dem Laut 'O' beginnt.",
+    t12_h2: "Oma fängt mit O an.",
+    t12_w1: "Oma", t12_w2: "Papa", t12_w3: "Tante", t12_w4: "Kind",
+    t12_q: "Welches dieser Wörter beginnt mit O?",
+    t12_qa: "Obst", t12_qb: "Apfel", t12_qc: "Banane", t12_qd: "Kirsche",
+
+    // T13: Wörter mit U
+    t13_title: "Wörter mit U",
+    t13_text: "Das U ist ein Vokal. Uhu, Uhr, Und - alles mit U. Der Uhu ist ein Vogel, der nachts fliegt!",
+    t13_b1: "U ist ein Vokal.",
+    t13_b2: "Uhu, Uhr fangen mit U an.",
+    t13_inst: "Welches Wort fängt mit U an?",
+    t13_h1: "Suche das Wort, das mit dem Laut 'U' beginnt.",
+    t13_h2: "Uhr fängt mit U an.",
+    t13_w1: "Uhr", t13_w2: "Hund", t13_w3: "Pferd", t13_w4: "Vogel",
+    t13_q: "Welches dieser Wörter beginnt mit U?",
+    t13_qa: "Uhu", t13_qb: "Elefant", t13_qc: "Affe", t13_qd: "Baer",
+
+    // T14: Kurze Satze lesen
+    t14_title: "Kurze Satze lesen",
+    t14_text: "Jetzt lesen wir ganz einfache Satze: 'Das ist ein Hund.' oder 'Das ist eine Katze.' Kannst du sie lesen?",
+    t14_b1: "Das ist ... - einfacher Satz.",
+    t14_b2: "Wort fur Wort lesen.",
+    t14_inst: "Lies: 'Das ist ein Hund.' Was sehen wir?",
+    t14_h1: "Schau auf das letzte Wort.",
+    t14_h2: "Wir sehen einen Hund.",
+    t14_w1: "eine Katze", t14_w2: "einen Hund", t14_w3: "einen Vogel", t14_w4: "ein Haus",
+    t14_q: "Welcher Satz beginnt richtig?",
+    t14_qa: "Das ist ein Ball.", t14_qb: "das ist ein Ball.", t14_qc: "DAS ist ein Ball.", t14_qd: "das Ist ein Ball.",
+
+    // T15: Worter lesen und erkennen
+    t15_title: "Worter lesen und erkennen",
+    t15_text: "Du bist jetzt ein richtiger Leser! Kannst du diese Worter schnell erkennen und lesen?",
+    t15_b1: "Schnell lesen uben.",
+    t15_b2: "Worter auf einen Blick erkennen.",
+    t15_inst: "Welches Wort bedeutet ein Tier?",
+    t15_h1: "Tiere haben Namen wie Hund, Katze, Vogel.",
+    t15_h2: "Ein Hund ist ein Tier.",
+    t15_w1: "Hund", t15_w2: "Tisch", t15_w3: "Buch", t15_w4: "Ball",
+    t15_q: "Was von diesen ist ein Tier?",
+    t15_qa: "Katze", t15_qb: "Auto", t15_qc: "Tisch", t15_qd: "Buch",
   }
 };
 
@@ -3570,13 +3666,156 @@ export const LESE_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "highlight-text",
-      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], 
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"],
       correctIndices: [2], // blau
       instruction: "t7_inst",
       hint1: "t7_h1",
       hint2: "t7_h2",
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+
+  // ── 8. Silben lesen — tap-count ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-circles", letters: ["Ma", "ma"], color: "#3B82F6" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "👏", count: 2 },
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_w1","t8_w2","t8_w3","t8_w4"], answer: "t8_w2" },
+  },
+
+  // ── 9. Wörter mit A — highlight-text ──────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-circles", letters: ["A"], color: "#EF4444" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t9_w1", "t9_w2", "t9_w3", "t9_w4"],
+      correctIndices: [0], // Auto
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Wörter mit E — highlight-text ─────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "letter-circles", letters: ["E"], color: "#10B981" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [0], // Ente
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Wörter mit I — highlight-text ─────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "letter-circles", letters: ["I"], color: "#F59E0B" },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [0], // Igel
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Wörter mit O — highlight-text ─────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "letter-circles", letters: ["O"], color: "#8B5CF6" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [0], // Oma
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Wörter mit U — highlight-text ─────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "letter-circles", letters: ["U"], color: "#EC4899" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [0], // Uhr
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Kurze Satze lesen — highlight-text ── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "Das ist ein Hund.", emoji: "🐶", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [1], // einen Hund
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Worter lesen und erkennen — highlight-text ── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🐕", label: "Hund" }, { emoji: "📖", label: "Lesen" } ] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [0], // Hund
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
   },
 ];
 
@@ -3660,6 +3899,102 @@ export const EXAM_LABELS: Record<string, Record<string, string>> = {
     t7_w1: "blau", t7_w2: "grün", t7_w3: "rot", t7_w4: "gelb",
     t7_q: "Bist du bereit für K2?",
     t7_qa: "Ja, ich bin bereit!", t7_qb: "Noch nicht", t7_qc: "Was ist K2?", t7_qd: "Vielleicht",
+
+    // T8: Buchstaben erkennen
+    t8_title: "Buchstaben erkennen",
+    t8_text: "A, E, I, O, U sind Vokale. B, C, D... sind Konsonanten. Kannst du sie auseinanderhalten?",
+    t8_b1: "Vokale: A, E, I, O, U.",
+    t8_b2: "Alle anderen sind Konsonanten.",
+    t8_inst: "Welcher Buchstabe ist ein Vokal?",
+    t8_h1: "Vokale sind: A, E, I, O, U.",
+    t8_h2: "E ist ein Vokal.",
+    t8_w1: "B", t8_w2: "E", t8_w3: "K", t8_w4: "T",
+    t8_q: "Welcher dieser Buchstaben ist kein Vokal?",
+    t8_qa: "B", t8_qb: "A", t8_qc: "I", t8_qd: "O",
+
+    // T9: Silben klatschen
+    t9_title: "Silben klatschen",
+    t9_text: "Klatsch jede Silbe eines Wortes einmal! 'To-ma-te' = 3 Klatscher. Probiere 'Buch' - ein Klatscher!",
+    t9_b1: "Buch = 1 Silbe.",
+    t9_b2: "Tomate = 3 Silben.",
+    t9_inst: "Wie viele Silben hat 'Buch'?",
+    t9_h1: "Klatsche: Buch - ein Klatscher.",
+    t9_h2: "Buch hat 1 Silbe.",
+    t9_q: "Wie viele Silben hat 'Fenster'?",
+    t9_qa: "2", t9_qb: "1", t9_qc: "3", t9_qd: "4",
+
+    // T10: Reime finden
+    t10_title: "Reime finden",
+    t10_text: "Reime klingen am Ende gleich. Haus und Maus reimen sich! Hund und Mund reimen sich auch!",
+    t10_b1: "Reime enden gleich.",
+    t10_b2: "Maus-Haus, Hund-Mund.",
+    t10_inst: "Was reimt sich auf 'Ball'?",
+    t10_h1: "Es muss wie '-all' klingen.",
+    t10_h2: "Hall klingt wie Ball.",
+    t10_w1: "Hall", t10_w2: "Maus", t10_w3: "Baum", t10_w4: "Tier",
+    t10_q: "Was reimt sich auf 'Katz'?",
+    t10_qa: "Matz", t10_qb: "Hund", t10_qc: "Vogel", t10_qd: "Baum",
+
+    // T11: Wörter lesen
+    t11_title: "Wörter lesen",
+    t11_text: "Lies diese Wörter langsam: Sonne, Mond, Stern. Jetzt schneller! Sonne, Mond, Stern. Du kannst es!",
+    t11_b1: "Erst langsam, dann schneller.",
+    t11_b2: "Wort für Wort.",
+    t11_inst: "Welches Wort ist 'Stern'?",
+    t11_h1: "Stern fängt mit S an.",
+    t11_h2: "Da steht Stern.",
+    t11_w1: "Sonne", t11_w2: "Mond", t11_w3: "Stern", t11_w4: "Wolke",
+    t11_q: "Welches Wort bedeutet das Gleiche wie die Sonne am Himmel?",
+    t11_qa: "Sonne", t11_qb: "Regen", t11_qc: "Schnee", t11_qd: "Wind",
+
+    // T12: Sätze lesen
+    t12_title: "Satze lesen",
+    t12_text: "Kannst du diese Satze lesen? 'Der Hund bellt.' 'Die Katze schläft.' Lies langsam und Wort fur Wort.",
+    t12_b1: "Wort fur Wort lesen.",
+    t12_b2: "Was passiert im Satz?",
+    t12_inst: "Was macht der Hund im Satz 'Der Hund bellt.'?",
+    t12_h1: "Schau auf das letzte Wort.",
+    t12_h2: "Der Hund bellt.",
+    t12_w1: "schlafen", t12_w2: "bellen", t12_w3: "laufen", t12_w4: "spielen",
+    t12_q: "Was macht die Katze in: 'Die Katze trinkt Milch.'?",
+    t12_qa: "trinkt", t12_qb: "schläft", t12_qc: "läuft", t12_qd: "springt",
+
+    // T13: Artikel bestimmen
+    t13_title: "Artikel bestimmen",
+    t13_text: "Hund, Katze und Kind haben Artikel: der Hund, die Katze, das Kind. Kannst du die Artikel merken?",
+    t13_b1: "der (blau), die (rot), das (grün).",
+    t13_b2: "Jedes Wort hat einen Artikel.",
+    t13_inst: "Welcher Artikel passt zu 'Hund'?",
+    t13_h1: "Der Hund - mannlich.",
+    t13_h2: "Es ist 'der Hund'.",
+    t13_b_der: "der", t13_b_die: "die", t13_b_das: "das",
+    t13_i1: "Hund", t13_i2: "Katze", t13_i3: "Kind", t13_i4: "Blume",
+    t13_q: "Welcher Artikel passt zu 'Sonne'?",
+    t13_qa: "die", t13_qb: "der", t13_qc: "das", t13_qd: "ein",
+
+    // T14: Gross- und Kleinschreibung
+    t14_title: "Gross- und Kleinschreibung",
+    t14_text: "Satze beginnen mit einem Grossbuchstaben. Nomen (Personen, Tiere, Dinge) schreiben wir auch gross!",
+    t14_b1: "Satzanfang gross.",
+    t14_b2: "Nomen gross: Hund, Ball, Schule.",
+    t14_inst: "Welches Wort muss grossgeschrieben werden?",
+    t14_h1: "Nomen schreiben wir gross.",
+    t14_h2: "Hund ist ein Nomen, also gross.",
+    t14_w1: "Hund", t14_w2: "laufen", t14_w3: "schnell", t14_w4: "und",
+    t14_q: "Welches dieser Wörter ist ein Nomen?",
+    t14_qa: "Schule", t14_qb: "lernen", t14_qc: "schön", t14_qd: "aber",
+
+    // T15: Abschlusstest
+    t15_title: "Abschlusstest K1",
+    t15_text: "Du hast alle K1-Themen gelernt: Buchstaben, Silben, Artikel, Reime, Satze. Du bist jetzt ein K1-Champion!",
+    t15_b1: "Buchstaben + Silben + Artikel.",
+    t15_b2: "Reime + Satze + Gross/Klein.",
+    t15_inst: "Welches Wort ist richtig geschrieben?",
+    t15_h1: "Nomen fangen gross an.",
+    t15_h2: "Der Satz fangt gross an.",
+    t15_w1: "Apfel", t15_w2: "apfel", t15_w3: "APFEL", t15_w4: "aPFEL",
+    t15_q: "Was ist ein Vokal?",
+    t15_qa: "A, E, I, O, U", t15_qb: "B, C, D, F", t15_qc: "Alle Buchstaben", t15_qd: "Nur A",
   }
 };
 
@@ -3790,13 +4125,161 @@ export const EXAM_POOL: PoolTopicDef[] = [
     bulletKeys: ["t7_b1"],
     interactive: {
       type: "highlight-text",
-      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"], 
+      tokens: ["t7_w1", "t7_w2", "t7_w3", "t7_w4"],
       correctIndices: [2], // rot
       instruction: "t7_inst",
       hint1: "t7_h1",
       hint2: "t7_h2",
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+
+  // ── 8. Buchstaben erkennen — highlight vokal ─────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-circles", letters: ["A", "E", "I", "O", "U"], color: "#EF4444" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [1], // E
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Silben klatschen — tap-count ──────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: "Buch", emoji: "📖", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "tap-count",
+      tapCount: { emoji: "👏", count: 1 },
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Reime finden — highlight-text ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "letter-pairs", pairs: [["Ball", "Hall"]], color: "#F59E0B" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1", "t10_w2", "t10_w3", "t10_w4"],
+      correctIndices: [0], // Hall
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Wörter lesen — highlight correct word ─── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "icon-grid", items: [ { emoji: "⭐", label: "Stern" }, { emoji: "☀️", label: "Sonne" } ] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [2], // Stern
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Sätze lesen — highlight action ──────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [ { text: "Der Hund bellt.", emoji: "🐶", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [1], // bellen
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Artikel bestimmen — drag-to-bucket ──── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔵", label: "der" }, { emoji: "🔴", label: "die" }, { emoji: "🟢", label: "das" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "der", label: "t13_b_der" }, { id: "die", label: "t13_b_die" }],
+      items: [
+        { text: "t13_i1", bucketId: "der" }, // Hund
+        { text: "t13_i2", bucketId: "die" }, // Katze
+        { text: "t13_i3", bucketId: "das" },  // Kind
+        { text: "t13_i4", bucketId: "die" }, // Blume
+      ],
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Gross- und Kleinschreibung — highlight ── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "Hund", emoji: "🐕", color: "#047857", bg: "#D1FAE5" }, { text: "laufen", emoji: "🏃", color: "#B45309", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [0], // Hund
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Abschlusstest — highlight correct ─────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "K1 Champion!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [0], // Apfel (richtig geschrieben)
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
   },
 ];
 // ─────────────────────────────────────────────────────────────────────────────

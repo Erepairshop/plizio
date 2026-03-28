@@ -1531,6 +1531,7 @@ export const SATZART_LABELS: Record<string, Record<string, string>> = {
     t12_h2: "'Hilf mir!' ist ein Befehl -> Ausrufezeichen.",
     t12_sent: "Schließ bitte die Tür ___",
     t12_c1: "!", t12_c2: "?", t12_c3: ".", t12_c4: ",",
+    t12_i1: "Komm her!", t12_i2: "Kommst du?", t12_i3: "Sei leise!", t12_i4: "Spielst du?",
 
     // T13: Schreib das Gespräch auf
     t13_title: "Dialog richtig schreiben",
@@ -1687,6 +1688,145 @@ export const SATZART_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "satzzeichen_k1" }, // ❤️ GENERATOR HASZNÁLATA
+  },
+
+  // ── 8. Das Komma (gap-fill) ───────────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: ",", emoji: "✋", color: "#7C3AED", bg: "#EDE9FE" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent",
+      choices: ["t8_c1", "t8_c2", "t8_c3", "t8_c4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Richtiges Zeichen (gap-fill) ──────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: ".", emoji: "🔵", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "?", emoji: "❓", color: "#B91C1C", bg: "#FEE2E2" }, { text: "!", emoji: "❗", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t9_b1", "t9_b2", "t9_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 10. Satze verbinden (gap-fill) ────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "letter-pairs", pairs: [["und", "+"], ["aber", "X"]], color: "#10B981" },
+    bulletKeys: ["t10_b1", "t10_b2", "t10_b3"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 11. Satzzeichenmeister (gap-fill) ─────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: ". ? ! ,", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t11_sent",
+      choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"],
+      correctIndex: 0,
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Frage oder Befehl? (drag-to-bucket) ──────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["?"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["!"], bg: "#D1FAE5", border: "#047857" } },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "frage", label: "t12_b1" }, { id: "befehl", label: "t12_b2" }],
+      items: [
+        { text: "t12_i1", bucketId: "befehl" },
+        { text: "t12_i2", bucketId: "frage" },
+        { text: "t12_i3", bucketId: "befehl" },
+        { text: "t12_i4", bucketId: "frage" },
+      ],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 13. Dialog richtig schreiben (highlight-text) ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "icon-grid", items: [ { emoji: "💬", label: "Dialog" }, { emoji: "❓", label: "Frage" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4", "t13_w5", "t13_w6"],
+      correctIndices: [2], // Wie
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Listen mit Kommas (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "letter-pairs", pairs: [["A,B,C", "und D"]], color: "#8B5CF6" },
+    bulletKeys: ["t14_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent",
+      choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
+  },
+
+  // ── 15. Satzzeichen Champion! (gap-fill) ───────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "Champion!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "satzzeichen_k1" },
   },
 ];
 
@@ -2441,6 +2581,142 @@ export const RECHT1_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+
+  // ── 8. Konsonanten verdoppeln — highlight-text ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "letter-circles", letters: ["ll", "ff", "mm"], color: "#7C3AED" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [1], // Kaffee
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Doppelkonsonanten — drag-to-bucket ─────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "two-groups", left: { items: ["ll", "pp", "ff"], bg: "#EDE9FE", border: "#7C3AED" }, right: { items: ["l", "p", "f"], bg: "#F3F4F6", border: "#9CA3AF" } },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "double", label: "t9_bdouble" }, { id: "single", label: "t9_bsingle" }],
+      items: [
+        { text: "t9_i1", bucketId: "double" }, // Apfel
+        { text: "t9_i2", bucketId: "single" }, // Hobel
+        { text: "t9_i3", bucketId: "double" }, // Koffer
+        { text: "t9_i4", bucketId: "single" }, // Ofen
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 10. Vokal hören — gap-fill ───────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "word-display", word: "Linie", highlightChars: ["i"], color: "#3B82F6" },
+    bulletKeys: ["t10_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 11. ck, tz und Doppel kombiniert — highlight-text ─── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "ck", emoji: "🔑", color: "#EF4444", bg: "#FEE2E2" }, { text: "tz", emoji: "⚡", color: "#7C3AED", bg: "#EDE9FE" } ] },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [3], // Sate (NICHT richtig - passt NICHT)
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 12. sp und st am Wortende — highlight-text ────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "letter-circles", letters: ["G", "a", "s", "t"], color: "#10B981" },
+    bulletKeys: ["t12_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [0, 2], // Gast, Nest
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 13. ie oder ei Wiederholung — highlight-text ─────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "letter-pairs", pairs: [["ie", "Biene"], ["ei", "Reifen"]], color: "#F59E0B" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [0], // Biene
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qd" },
+  },
+
+  // ── 14. Regel-Mix — gap-fill ─────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🎮", label: "Spiel" }, { emoji: "⭐", label: "Stern" } ] },
+    bulletKeys: ["t14_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent",
+      choices: ["t14_c1", "t14_c2", "t14_c3", "t14_c4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Rechtschreibungs-Champion — gap-fill ──────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "Champion!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent",
+      choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "nomen_k2" },
   },
 ];
 
