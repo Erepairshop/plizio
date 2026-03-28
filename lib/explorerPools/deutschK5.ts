@@ -232,6 +232,48 @@ export const ADJEKTIV5_POOL: PoolTopicDef[] = [
     svg: { type: "text-bubbles", items: [{ text: "so ... wie", bg: "#DBEAFE", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent_w", choices: ["t8_cw1", "t8_cw2", "t8_cw3", "t8_cw4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [{ text: "äußerst, besonders", bg: "#DBEAFE", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t9_sent", choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🎨", title: "Farben", bg: "#FEE2E2" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t10_l1", right: "t10_r1" }, { left: "t10_l2", right: "t10_r2" }, { left: "t10_l3", right: "t10_r3" }, { left: "t10_l4", right: "t10_r4" }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "sentence-display", words: ["den", "großen", "Mann"], color: "#2563EB" },
+    interactive: { type: "gap-fill", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "↔️", title: "Gegensätze", bg: "#FEE2E2" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t12_l1", right: "t12_r1" }, { left: "t12_l2", right: "t12_r2" }, { left: "t12_l3", right: "t12_r3" }, { left: "t12_l4", right: "t12_r4" }], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "antonyme" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [{ text: "groß, klein, schlank", bg: "#DBEAFE", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t13_sent", choices: ["t13_c1", "t13_c2", "t13_c3", "t13_c4"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "sentence-display", words: ["traurig"], color: "#DC2626" },
+    interactive: { type: "highlight-text", tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4", "t14_w5"], correctIndices: [3], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "steigerung" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "👤", title: "Charakter", bg: "#FEE2E2" },
+    interactive: { type: "physics-slingshot", question: "t15_q", targets: [{ id: "1", text: "t15_t1", isCorrect: true }, { id: "2", text: "t15_t2", isCorrect: true }, { id: "3", text: "t15_t3", isCorrect: false }, { id: "4", text: "t15_t4", isCorrect: false }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "steigerung" }
   }
 ];
 
@@ -355,6 +397,48 @@ export const PRONOMEN_POOL: PoolTopicDef[] = [
     svg: { type: "text-bubbles", items: [{ text: "ihr lernt", bg: "#FEE2E2", color: "#1e293b" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent_v", choices: ["t8_cv1", "t8_cv2", "t8_cv3", "t8_cv4"], correctIndex: 0, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "verben_k3" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [{ text: "Wen? Wem?", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t9_sent_f", choices: ["t9_cf1", "t9_cf2", "t9_cf3", "t9_cf4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Fragen", bg: "#FEE2E2" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t10_l1", right: "t10_r1" }, { left: "t10_l2", right: "t10_r2" }, { left: "t10_l3", right: "t10_r3" }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "ein, kein, welch", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t11_sent_indef", choices: ["t11_c1indef", "t11_c2indef", "t11_c3indef", "t11_c4indef"], correctIndex: 2, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "sentence-display", words: ["seines"], color: "#DC2626" },
+    interactive: { type: "highlight-text", tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4", "t12_w5"], correctIndices: [3], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "genitiv" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "🔄", title: "Gegenseitig", bg: "#FEE2E2" },
+    interactive: { type: "gap-fill", sentence: "t13_sent_recip", choices: ["t13_c1recip", "t13_c2recip", "t13_c3recip", "t13_c4recip"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [{ text: "darin, darauf, darunter", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t14_sent_prep", choices: ["t14_cprep1", "t14_cprep2", "t14_cprep3", "t14_cprep4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "👤", title: "Mix", bg: "#FEE2E2" },
+    interactive: { type: "physics-slingshot", question: "t15_q", targets: [{ id: "1", text: "t15_t1", isCorrect: true }, { id: "2", text: "t15_t2", isCorrect: true }, { id: "3", text: "t15_t3", isCorrect: false }, { id: "4", text: "t15_t4", isCorrect: false }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "nominativ" }
   }
 ];
 
@@ -1309,5 +1393,47 @@ export const EXAM5_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🚀", title: "Final", bg: "#FFFBEB" },
     interactive: { type: "physics-slingshot", question: "t9_q_s", targets: [{ id: "1", text: "t9_t1", isCorrect: true }, { id: "2", text: "t9_t2", isCorrect: false }, { id: "3", text: "t9_t3", isCorrect: false }, { id: "4", text: "t9_t4", isCorrect: false }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [{ text: "Wen? Wem?", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t9_sent_f", choices: ["t9_cf1", "t9_cf2", "t9_cf3", "t9_cf4"], correctIndex: 0, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "easy", infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "❓", title: "Fragen", bg: "#FEE2E2" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t10_l1", right: "t10_r1" }, { left: "t10_l2", right: "t10_r2" }, { left: "t10_l3", right: "t10_r3" }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [{ text: "ein, kein, welch", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t11_sent_indef", choices: ["t11_c1indef", "t11_c2indef", "t11_c3indef", "t11_c4indef"], correctIndex: 2, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t12_title", infoText: "t12_text",
+    svg: { type: "sentence-display", words: ["seines"], color: "#DC2626" },
+    interactive: { type: "highlight-text", tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4", "t12_w5"], correctIndices: [3], instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2" },
+    quiz: { generate: "genitiv" }
+  },
+  {
+    difficulty: "medium", infoTitle: "t13_title", infoText: "t13_text",
+    svg: { type: "simple-icon", icon: "🔄", title: "Gegenseitig", bg: "#FEE2E2" },
+    interactive: { type: "gap-fill", sentence: "t13_sent_recip", choices: ["t13_c1recip", "t13_c2recip", "t13_c3recip", "t13_c4recip"], correctIndex: 0, instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t14_title", infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [{ text: "darin, darauf, darunter", bg: "#FEE2E2", color: "#1e293b" }] },
+    interactive: { type: "gap-fill", sentence: "t14_sent_prep", choices: ["t14_cprep1", "t14_cprep2", "t14_cprep3", "t14_cprep4"], correctIndex: 0, instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
+    quiz: { generate: "nominativ" }
+  },
+  {
+    difficulty: "hard", infoTitle: "t15_title", infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "👤", title: "Mix", bg: "#FEE2E2" },
+    interactive: { type: "physics-slingshot", question: "t15_q", targets: [{ id: "1", text: "t15_t1", isCorrect: true }, { id: "2", text: "t15_t2", isCorrect: true }, { id: "3", text: "t15_t3", isCorrect: false }, { id: "4", text: "t15_t4", isCorrect: false }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
+    quiz: { generate: "nominativ" }
   }
 ];
