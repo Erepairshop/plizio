@@ -623,7 +623,7 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "letter-circles", letters: ["m", "u", "s", "s", "t", "e"], color: "#B45309" },
     interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "praeteritum" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
@@ -647,7 +647,7 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
@@ -677,7 +677,7 @@ export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Könnte", color: "#F59E0B", bg: "#FEF3C7" }] },
     interactive: { type: "gap-fill", sentence: "t14_sent14", choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"], correctIndex: 0, instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "passiv_modal_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
@@ -830,7 +830,7 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "easy",
     svg: { type: "two-groups", left: { items: ["Löwe", "stark"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["Fuchs", "schlau"], bg: "#fdf4ff", border: "#e9d5ff" } },
     interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "steigerung" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
@@ -866,7 +866,7 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Himmel"], bg: "#EFF6FF", border: "#3B82F6" }, right: { items: ["Hölle"], bg: "#FEF2F2", border: "#EF4444" } },
     interactive: { type: "match-pairs", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "antonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
@@ -896,7 +896,7 @@ export const STIL_POOL: PoolTopicDef[] = [
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "word-display", word: "Hassliebe", color: "#B91C1C" },
     interactive: { type: "highlight-text", tokens: ["t14_w14_4"], correctIndices: [0], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "antonyme" }
+    quiz: { generate: "stilmittel_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
@@ -1035,91 +1035,91 @@ export const CAUSAL_COND_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst", hint1: "h1", hint2: "h2" }, // Simpler order for intro
-    quiz: { generate: "werden_passiv" } // Logic check
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "denn", color: "#F59E0B", bg: "#FEF3C7" }, { text: "Pos. 0", color: "#F59E0B", bg: "#FEF3C7" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
     svg: { type: "compound-word", word1: "wegen", word2: "des", result: "wegen+des", color: "#6366F1" },
     interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "genitiv" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "⚖️" },
     interactive: { type: "physics-slingshot", question: "t5_inst", targets: [{ id: "1", text: "t5_ans5", isCorrect: true }, { id: "2", text: "t5_ans5_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "word-display", word: "Falls", color: "#D97706" },
     interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [0], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "easy",
     svg: { type: "article-noun", article: "Bei", articleColor: "#065F46", noun: "Regen" },
     interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "dativ" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "sentence-display", words: ["Grund", "Deshalb", "Folge"], color: "#D97706" },
     interactive: { type: "sentence-build", fragments: ["t9_f9_1", "t9_f9_2", "t9_f9_3", "t9_f9_4"], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Warum?"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wann?"], bg: "#FEF3C7", border: "#D97706" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "k", label: "t10_b10_1" }, { id: "c", label: "t10_b10_2" }], items: [{ text: "t10_i10_1", bucketId: "k" }, { text: "t10_i10_2", bucketId: "c" }, { text: "t10_i10_3", bucketId: "k" }, { text: "t10_i10_4", bucketId: "c" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "kausalsatz_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
     interactive: { type: "physics-slingshot", question: "t13_q13", targets: [{ id: "1", text: "t13_t13_1", isCorrect: true }, { id: "2", text: "t13_t13_2", isCorrect: true }, { id: "3", text: "t13_t13_3", isCorrect: true }, { id: "4", text: "t13_t13_4", isCorrect: false }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Ich komme..."], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wenn ich..."], bg: "#FEF3C7", border: "#D97706" } },
     interactive: { type: "drag-to-bucket", buckets: [{ id: "h", label: "t14_b14_1" }, { id: "n", label: "t14_b14_2" }], items: [{ text: "t14_i14_1", bucketId: "h" }, { text: "t14_i14_2", bucketId: "n" }], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "word-display", word: "sofern", color: "#B45309" },
     interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konditionalsatz_k7" }
   }
 ];
 
@@ -1252,91 +1252,91 @@ export const KONZ_FINAL_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "damit", color: "#B91C1C", bg: "#FEE2E2" }, { text: "Ziel", color: "#B91C1C", bg: "#FEE2E2" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
     svg: { type: "compound-word", word1: "um", word2: "zu", result: "um+zu", color: "#6366F1" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
     svg: { type: "word-display", word: "Trotzdem", color: "#B91C1C" },
     interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "antonyme" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "article-noun", article: "Trotz", articleColor: "#B91C1C", noun: "Wetters" },
     interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "genitiv" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["obwohl"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["trotzdem"], bg: "#FEF2F2", border: "#EF4444" } },
     interactive: { type: "drag-to-bucket", buckets: [{ id: "ob", label: "t6_b6_1" }, { id: "tr", label: "t6_b6_2" }], items: [{ text: "t6_i6_1", bucketId: "ob" }, { text: "t6_i6_2", bucketId: "tr" }], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "👤", label: "Ich" }, { emoji: "👥", label: "Du" }] },
     interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "antonyme" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧲" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "word-display", word: "obgleich", color: "#B91C1C" },
     interactive: { type: "physics-slingshot", question: "t10_h1", targets: [{ id: "1", text: "t10_ans10", isCorrect: true }, { id: "2", text: "t10_ans10_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
     interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: false }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2", "t12_sw12_3", "t12_sw12_4"], correctOrder: [0, 1, 2, 3], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Trotz"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["Wegen"], bg: "#F0FDF4", border: "#22C55E" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "tr", label: "t13_b13_1" }, { id: "we", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "tr" }, { text: "t13_i13_2", bucketId: "we" }, { text: "t13_i13_3", bucketId: "tr" }, { text: "t13_i13_4", bucketId: "we" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "genitiv" }
+    quiz: { generate: "konzessivsatz_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6"], correctIndices: [2], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "finalsatz_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
     interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "genitiv" }
+    quiz: { generate: "finalsatz_k7" }
   }
 ];
 
@@ -1469,91 +1469,91 @@ export const TEMPORAL7_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "word-display", word: "Als", color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "praeteritum" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "easy",
     svg: { type: "text-bubbles", items: [{ text: "immer wenn", color: "#F59E0B", bg: "#FFFBEB" }] },
     interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "steigerung" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
     svg: { type: "compound-word", word1: "bevor", word2: "schlafen", result: "bevor+schlafen", color: "#6366F1" },
     interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "word-display", word: "Nachdem", color: "#D97706" },
     interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "perfekt" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "letter-circles", letters: ["S", "e", "i", "t"], color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "perfekt" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🛑" },
     interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [3], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "sobald", color: "#F59E0B", bg: "#FEF3C7" }] },
     interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "word-display", word: "solange", color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
     interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: true }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "praeteritum" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["Als"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wenn"], bg: "#FEF3C7", border: "#D97706" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t13_b13_1" }, { id: "w", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "a" }, { text: "t13_i13_2", bucketId: "w" }, { text: "t13_i13_3", bucketId: "a" }, { text: "t13_i13_4", bucketId: "w" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "praeteritum" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6", "t14_w14_7", "t14_w14_8"], correctIndices: [3], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "temporalsatz_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
     interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "temporalsatz_k7" }
   }
 ];
 
@@ -1686,91 +1686,91 @@ export const INFINITIV7_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "word-display", word: "zu kommen", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "compound-word", word1: "ein-", word2: "zu-schalten", result: "ein-+zu-schalten", color: "#6366F1" },
     interactive: { type: "highlight-text", tokens: ["t2_w2_1", "t2_w2_2", "t2_w2_3", "t2_w2_4"], correctIndices: [0], instruction: "t2_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "um", color: "#059669", bg: "#DCFCE7" }, { text: "zu", color: "#059669", bg: "#DCFCE7" }] },
     interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "sentence-build", fragments: ["t4_f4_1", "t4_f4_2", "t4_f4_3", "t4_f4_4"], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "easy",
     svg: { type: "word-display", word: "Anstatt", color: "#10B981" },
     interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "📅", label: "planen" }, { emoji: "🧠", label: "vergessen" }] },
     interactive: { type: "match-pairs", pairs: [{ left: "t6_ml6_1", right: "t6_mr6_1" }, { left: "t6_ml6_2", right: "t6_mr6_2" }, { left: "t6_ml6_3", right: "t6_mr6_3" }], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Lust", color: "#059669", bg: "#DCFCE7" }, { text: "Zeit", color: "#059669", bg: "#DCFCE7" }] },
     interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
     interactive: { type: "highlight-text", tokens: ["t8_w8_4", "t8_w8_5", "t8_w8_6"], correctIndices: [0, 1, 2], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🚫" },
     interactive: { type: "physics-slingshot", question: "t9_inst", targets: [{ id: "1", text: "t9_ans9_1", isCorrect: true }, { id: "2", text: "t9_ans9_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "hard",
     svg: { type: "sentence-display", words: ["nicht", "zu", "kommen"], color: "#10B981" },
     interactive: { type: "sentence-build", fragments: ["t10_f10_1", "t10_f10_2", "t10_f10_3", "t10_f10_4"], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
     interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🏹" },
     interactive: { type: "physics-slingshot", question: "t12_q12", targets: [{ id: "1", text: "t12_t12_1", isCorrect: true }, { id: "2", text: "t12_t12_2", isCorrect: true }, { id: "3", text: "t12_t12_3", isCorrect: false }, { id: "4", text: "t12_t12_4", isCorrect: false }], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Zeit haben"], bg: "#DCFCE7", border: "#10B981" }, right: { items: ["wollen"], bg: "#F1F5F9", border: "#64748B" } },
     interactive: { type: "physics-bucket", buckets: [{ id: "z", label: "t13_b13_1" }, { id: "o", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "z" }, { text: "t13_i13_2", bucketId: "o" }, { text: "t13_i13_3", bucketId: "z" }, { text: "t13_i13_4", bucketId: "o" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
     interactive: { type: "physics-stacker", words: ["t14_sw14_1", "t14_sw14_2", "t14_sw14_3"], correctOrder: [0, 1, 2], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "um_zu_k7" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "word-syllables", parts: ["auf", "zu", "stehen"], color: "#6366F1" },
     interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
-    quiz: { generate: "synonyme" }
+    quiz: { generate: "um_zu_k7" }
   }
 ];
 

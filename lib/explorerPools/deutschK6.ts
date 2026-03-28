@@ -1016,55 +1016,55 @@ export const SATZ6_POOL: PoolTopicDef[] = [
     difficulty: "medium", infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "article-noun", article: "Der", articleColor: "#1D4ED8", noun: "Mann", emoji: "👨" },
     interactive: { type: "gap-fill", sentence: "t1_sent_r", choices: ["t1_cr1", "t1_cr2", "t1_cr3", "t1_cr4"], correctIndex: 0, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "article-noun", article: "Die", articleColor: "#B91C1C", noun: "Frau", emoji: "👩" },
     interactive: { type: "gap-fill", sentence: "t2_sent_f", choices: ["t2_cf1", "t2_cf2", "t2_cf3", "t2_cf4"], correctIndex: 0, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "article-noun", article: "Das", articleColor: "#065F46", noun: "Kind", emoji: "👶" },
     interactive: { type: "gap-fill", sentence: "t3_sent_n", choices: ["t3_cn1", "t3_cn2", "t3_cn3", "t3_cn4"], correctIndex: 0, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "text-bubbles", items: [{ text: "denen", color: "#F59E0B", bg: "#FFFBEB" }] },
     interactive: { type: "gap-fill", sentence: "t4_sent_p", choices: ["t4_cp1", "t4_cp2", "t4_cp3", "t4_cp4"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "sentence-display", words: ["weil", "...", "regnet"], color: "#F59E0B" },
     interactive: { type: "word-order", words: ["t5_o1", "t5_o2", "t5_o3", "t5_o4"], correctOrder: [0, 1, 2, 3], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "word-display", word: "da", color: "#F59E0B" },
     interactive: { type: "gap-fill", sentence: "t6_sent_da", choices: ["t6_cda1", "t6_cda2", "t6_cda3", "t6_cda4"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "two-groups", left: { items: ["weil", "Ende"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["denn", "Pos 2"], bg: "#fdf4ff", border: "#e9d5ff" } },
     interactive: { type: "sentence-build", fragments: ["t7_f7_1", "t7_f7_2", "t7_f7_3", "t7_f7_4"], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🏹", title: "Relativ", bg: "#FFFBEB" },
     interactive: { type: "physics-slingshot", question: "t8_q_r", targets: [{ id: "1", text: "t8_t1", isCorrect: true }, { id: "2", text: "t8_t2", isCorrect: true }, { id: "3", text: "t8_t3", isCorrect: false }, { id: "4", text: "t8_t4", isCorrect: false }], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "sentence-display", words: ["Das Buch", ",", "das..."], highlightIndices: [1], color: "#F59E0B" },
     interactive: { type: "highlight-text", tokens: ["t9_w9_1", "t9_w9_2", "t9_w9_3", "t9_w9_4", "t9_w9_5"], correctIndices: [0], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "satzzeichen_k1" }
+    quiz: { generate: "kausalsatz_k6" }
   },
   { difficulty: "medium", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "❓", title: "T10", bg: "#FFFBEB" }, interactive: { type: "gap-fill", sentence: "t10_q", choices: ["t10_c1", "t10_c2"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_c1", "t10_c2"], answer: "t10_c1" } },
   { difficulty: "medium", infoTitle: "t11_title", infoText: "t11_text", svg: { type: "article-noun", article: "Das", articleColor: "#065F46", noun: "Mädchen", emoji: "👧" }, interactive: { type: "gap-fill", sentence: "t11_q", choices: ["t11_c1", "t11_c2"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" }, quiz: { question: "t11_q", choices: ["t11_c1", "t11_c2"], answer: "t11_c1" } },
@@ -1486,19 +1486,19 @@ export const EXAM6_POOL: PoolTopicDef[] = [
     difficulty: "medium", infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "two-groups", left: { items: ["Aktiv"], bg: "#DBEAFE", border: "#1D4ED8" }, right: { items: ["Passiv"], bg: "#FEE2E2", border: "#B91C1C" } },
     interactive: { type: "drag-to-bucket", buckets: [{ id: "a", label: "t1_b1" }, { id: "p", label: "t1_b2" }], items: [{ text: "t1_i1", bucketId: "a" }, { text: "t1_i2", bucketId: "p" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "text-bubbles", items: [{ text: "wäre", color: "#6366F1", bg: "#EEF2FF" }, { text: "hätte", color: "#6366F1", bg: "#EEF2FF" }] },
     interactive: { type: "physics-slingshot", question: "t2_q", targets: [{ id: "1", text: "t2_t1", isCorrect: true }, { id: "2", text: "t2_t2", isCorrect: true }, { id: "3", text: "t2_t3", isCorrect: false }, { id: "4", text: "t2_t4", isCorrect: false }], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "konjunktiv_1" }
+    quiz: { generate: "konjunktiv2_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "sentence-display", words: ["um", "...", "zu"], color: "#10B981" },
     interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "werden_passiv" }
+    quiz: { generate: "passiv_k6" }
   },
   {
     difficulty: "medium", infoTitle: "t4_title", infoText: "t4_text",
@@ -1516,7 +1516,7 @@ export const EXAM6_POOL: PoolTopicDef[] = [
     difficulty: "medium", infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "article-noun", article: "Das", articleColor: "#065F46", noun: "Kind", emoji: "🧒" },
     interactive: { type: "gap-fill", sentence: "t6_sent_r", choices: ["t6_cr1", "t6_cr2", "t6_cr3", "t6_cr4"], correctIndex: 0, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "nominativ" }
+    quiz: { generate: "relativsatz_k6" }
   },
   {
     difficulty: "hard", infoTitle: "t7_title", infoText: "t7_text",
