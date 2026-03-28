@@ -385,6 +385,175 @@ export const LETTER_POOL: PoolTopicDef[] = [
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
   },
+
+  // ── 8. Das Eszett (ß) — highlight Eszett words ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText:  "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "ß", emoji: "🤔", color: "#7C3AED", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t8_b1", "t8_b2", "t8_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1","t8_w2","t8_w3","t8_w4"],  // Straße Wasser Fuß Fuss
+      correctIndices: [0, 2],                        // Straße and Fuß have ß
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Nachlaute erkennen — match-pairs ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText:  "t9_text",
+    svg: {
+      type: "icon-grid",
+      items: [
+        { emoji: "🏠", label: "Haus" },
+        { emoji: "🍞", label: "Brot" },
+        { emoji: "✋", label: "Hand" },
+        { emoji: "☀️", label: "Sonne" },
+      ],
+    },
+    bulletKeys: ["t9_b1", "t9_b2", "t9_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_w1", right: "S" },
+        { left: "t9_w2", right: "T" },
+        { left: "t9_w3", right: "D" },
+        { left: "t9_w4", right: "E" },
+      ],
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Druckschrift und Schreibschrift — highlight text ──── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText:  "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "Print", color: "#1F2937", bg: "#F3F4F6" }, { text: "Script", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t10_b1", "t10_b2", "t10_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t10_w1","t10_w2","t10_w3","t10_w4"],  // Druckschrift Schreibschrift GROSS Klein
+      correctIndices: [0, 3],                            // Druckschrift and Klein
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Der Mitlaut oder Konsonant — drag-to-bucket ────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText:  "t11_text",
+    svg: {
+      type: "two-groups",
+      left:  { items: ["B","C","D"], bg: "#DBEAFE", border: "#3B82F6" },
+      right: { items: ["A","E","U"], bg: "#FEE2E2", border: "#EF4444" },
+    },
+    bulletKeys: ["t11_b1", "t11_b2", "t11_b3"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "cons", label: "Konsonant" }, { id: "vowel", label: "Vokal" }],
+      items: [
+        { text: "t11_w1", bucketId: "cons" },  // B
+        { text: "t11_w2", bucketId: "vowel" }, // E
+        { text: "t11_w3", bucketId: "cons" },  // T
+        { text: "t11_w4", bucketId: "vowel" }, // I
+      ],
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Doppelkonsonanten — highlight text ─────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText:  "t12_text",
+    svg: { type: "text-bubbles", items: [ { text: "tt", color: "#B91C1C", bg: "#FEE2E2" }, { text: "nn", color: "#059669", bg: "#D1FAE5" }, { text: "ll", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t12_b1", "t12_b2", "t12_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1","t12_w2","t12_w3","t12_w4"],  // Bett Essen Ball Beet
+      correctIndices: [0, 1, 2],                        // Bett, Essen, Ball have double consonants
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Lautgruppen am Wortanfang — match-pairs ───────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText:  "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "spr", color: "#7C3AED", bg: "#F3E8FF" }, { text: "str", color: "#0EA5E9", bg: "#F0F9FF" }, { text: "schr", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t13_b1", "t13_b2", "t13_b3"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t13_w1", right: "spr" },
+        { left: "t13_w2", right: "schr" },
+        { left: "t13_w3", right: "str" },
+        { left: "t13_w4", right: "sch" },
+      ],
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Stille Buchstaben (stumme Laute) — highlight text ──── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText:  "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "k", emoji: "🤐", color: "#6366F1", bg: "#E0E7FF" } ] },
+    bulletKeys: ["t14_b1", "t14_b2", "t14_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1","t14_w2","t14_w3","t14_w4"],  // Knabe Knie Knobel Knauf
+      correctIndices: [0, 1, 2, 3],                    // All start with silent k
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Buchstabenrätsel lösen — gap-fill ───────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText:  "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "? = ?", emoji: "🤔", color: "#8B5CF6", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "tap-count",
+      items: ["t15_w1","t15_w2","t15_w3","t15_w4"],  // O A E U
+      targetCount: 1,
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -471,6 +640,95 @@ export const SYLLABLE_LABELS: Record<string, Record<string, string>> = {
     t7_w1: "Schu-le", t7_w2: "Sch-ule", t7_w3: "Schul-e", t7_w4: "S-chule",
     t7_q: "Wie trennt man 'Sonne' richtig?",
     t7_qa: "Son - ne", t7_qb: "So - nne", t7_qc: "Sonn - e", t7_qd: "S - onne",
+
+    t8_title: "Silben betonen",
+    t8_text: "Manche Silben sprechen wir lauter und deutlicher. Das ist die Betonung! Mut-TER — die zweite Silbe ist laut.",
+    t8_b1: "Betonung = lautere Silbe",
+    t8_b2: "Mut-TER: TER ist betont",
+    t8_inst: "Wo ist die Betonung?",
+    t8_h1: "Sprich das Wort laut: Mut-TER.",
+    t8_h2: "Die zweite Silbe TER ist lauter!",
+    t8_w1: "Mut-ter", t8_w2: "Va-ter", t8_w3: "Schwe-ster", t8_w4: "Groß-mutter",
+    t8_q: "Welche Silbe ist in 'VA-ter' betont?",
+    t8_qa: "VA", t8_qb: "ter", t8_qc: "VA-ter", t8_qd: "Beide",
+
+    t9_title: "Silben mit Umlauten",
+    t9_text: "Ä, Ö, Ü sind auch Silbenkönige wie A, E, I, O, U. Hä-schen hat zwei Silben — eine mit Ä!",
+    t9_b1: "Umlaute zählen wie Vokale",
+    t9_b2: "Ä, Ö, Ü = Silbenkönige 👑",
+    t9_inst: "Wie viele Silben hat 'Hä-schen'?",
+    t9_h1: "Zähle die Silbenkönige: Hä (1) und schen (2).",
+    t9_h2: "Das Wort hat 2 Silben!",
+    t9_w1: "Hä-schen", t9_w2: "Lö-we", t9_w3: "Für-ste", t9_w4: "Käschen",
+    t9_q: "Wie viele Silben hat 'Lö-we'?",
+    t9_qa: "2", t9_qb: "1", t9_qc: "3", t9_qd: "4",
+
+    t10_title: "Silben mit Diphtongen",
+    t10_text: "Manchmal sind zwei Vokale zusammen eine Silbe: 'Haus' hat 1 Silbe, 'au' ist ein Diphthong!",
+    t10_b1: "Zwei Vokale können eine Silbe sein",
+    t10_b2: "au, ei, eu, ie = Diphtonge",
+    t10_inst: "Wie viele Silben hat 'Haus'?",
+    t10_h1: "Klatsche 'Haus' — nur einmal!",
+    t10_h2: "au ist zusammen eine Silbe.",
+    t10_w1: "Haus", t10_w2: "Leim", t10_w3: "Bier", t10_w4: "Euro",
+    t10_q: "Welches Wort ist einsilbig?",
+    t10_qa: "Haus", t10_qb: "Ha-us", t10_qc: "Hau-sen", t10_qd: "Haust",
+
+    t11_title: "Silbenklatschen fortgeschritten",
+    t11_text: "Schwierige Wörter klatsche langsam und deutlich! Ele-pho-to-gra-fie hat 5 Silben.",
+    t11_b1: "Langsam sprechen hilft",
+    t11_b2: "Jede Silbe = eine Bewegung",
+    t11_inst: "Wie viele Silben?",
+    t11_h1: "Sprich jede Silbe einzeln.",
+    t11_h2: "Ele-phant: 3, Lokomo-tive: 4",
+    t11_w1: "Ele-phant", t11_w2: "Lo-ko-mo-tive", t11_w3: "Fahr-zeug", t11_w4: "Fahrt",
+    t11_q: "Wie viele Silben hat 'Lokomotive'?",
+    t11_qa: "4", t11_qb: "3", t11_qc: "5", t11_qd: "2",
+
+    t12_title: "Silben versteckte Rätsel",
+    t12_text: "Manche Wörter haben versteckte Silben. Reißverschluss: Reiß-ver-schluss hat 3!",
+    t12_b1: "Schwierige Wörter zeigen alle Silben",
+    t12_b2: "Langsam sprechen offenbart Silben",
+    t12_inst: "Wie viele Silben findest du?",
+    t12_h1: "Sprich: Reißverschluss langsam.",
+    t12_h2: "Reiß-ver-schluss = 3 Silben.",
+    t12_w1: "Reißverschluss", t12_w2: "Obst", t12_w3: "Strom", t12_w4: "Wald",
+    t12_q: "Wie viele Silben hat 'Reißverschluss'?",
+    t12_qa: "3", t12_qb: "2", t12_qc: "4", t12_qd: "1",
+
+    t13_title: "Silbenpause und Rhythmus",
+    t13_text: "Jede Silbe hat einen Rhythmus! Klatsch mit dem Takt: Schok-o-la-de 👏👏👏👏",
+    t13_b1: "Silben haben Rhythmus",
+    t13_b2: "Takt hilft beim Merken",
+    t13_inst: "Finde den Rhythmus!",
+    t13_h1: "Klatsche langsam Scho-ko-la-de.",
+    t13_h2: "Vier Klatscher = vier Silben!",
+    t13_w1: "Schokolade", t13_w2: "Pizza", t13_w3: "Musik", t13_w4: "Rhythmus",
+    t13_q: "Wie viele Klatscher bei 'Schokolade'?",
+    t13_qa: "4", t13_qb: "2", t13_qc: "3", t13_qd: "5",
+
+    t14_title: "Silben am Satzende",
+    t14_text: "Nicht nur Wörter haben Silben! Auch Sätze: 'Das ist schö-ner!' Hier kannst du die Silben deutlich klatschen.",
+    t14_b1: "Sätze enthalten mehrere Silben",
+    t14_b2: "Klatsch im Satz langsam",
+    t14_inst: "Zähle alle Silben im Satz!",
+    t14_h1: "Satz: 'Das ist schö-ner!' — klatsch!",
+    t14_h2: "Das-ist-schö-ner: 4 Klatscher",
+    t14_w1: "Das ist schöner", t14_w2: "Das-ist-gut", t14_w3: "Ich mag dich", t14_w4: "Alle Wörter",
+    t14_q: "Wie viele Silben in 'Ich-mag-dich'?",
+    t14_qa: "3", t14_qb: "2", t14_qc: "4", t14_qd: "1",
+
+    t15_title: "Silben Meister-Challenge",
+    t15_text: "Jetzt bist du ein Silben-Meister! Alle schwierigen Wörter beherrschst du: Vergnügungspark, Fahrradschloss, Regenschauer!",
+    t15_b1: "Du kannst jetzt Silben zählen",
+    t15_b2: "Beliebig lange Wörter sind keine Angst mehr!",
+    t15_b3: "Klatschen hilft immer",
+    t15_inst: "Teste dein Können!",
+    t15_h1: "Klatsche langsam und deutlich.",
+    t15_h2: "Zähle jede Bewegung!",
+    t15_w1: "Vergnügungspark", t15_w2: "Fahrradschloss", t15_w3: "Regenschauer", t15_w4: "Schulranzen",
+    t15_q: "Wie viele Silben hat 'Vergnügungspark'?",
+    t15_qa: "5", t15_qb: "4", t15_qc: "6", t15_qd: "3",
   }
 };
 
@@ -609,6 +867,164 @@ export const SYLLABLE_POOL: PoolTopicDef[] = [
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
   },
+
+  // ── 8. Silben betonen — highlight text ─────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "MUT", color: "#B91C1C", bg: "#FEE2E2" }, { text: "ter", color: "#6B7280", bg: "#F3F4F6" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [0],
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Silben mit Umlauten — highlight-text ─────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [ { text: "Ä", emoji: "🐰", color: "#D97706", bg: "#FEF3C7" }, { text: "Ö", emoji: "🦁", color: "#059669", bg: "#D1FAE5" }, { text: "Ü", emoji: "🐦", color: "#3B82F6", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t9_w1", "t9_w2", "t9_w3", "t9_w4"],
+      correctIndices: [0, 1],
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Silben mit Diphtongen — drag-to-bucket ────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "text-bubbles", items: [ { text: "au", color: "#7C3AED", bg: "#F3E8FF" }, { text: "ei", color: "#0EA5E9", bg: "#F0F9FF" }, { text: "ie", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "one", label: "1 Silbe 👏" }, { id: "many", label: "2+ Silben 👏👏" }],
+      items: [
+        { text: "t10_w1", bucketId: "one" },
+        { text: "t10_w2", bucketId: "one" },
+        { text: "t10_w3", bucketId: "one" },
+        { text: "t10_w4", bucketId: "many" },
+      ],
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Silbenklatschen fortgeschritten — match-pairs ──────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🐘", label: "Ele-phant" }, { emoji: "🚂", label: "Lo-ko-mo-tive" } ] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t11_w1", right: "3" },
+        { left: "t11_w2", right: "4" },
+        { left: "t11_w3", right: "2" },
+        { left: "t11_w4", right: "1" },
+      ],
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Silben versteckte Rätsel — highlight-text ────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "text-bubbles", items: [ { text: "Reiß-ver-schluss", emoji: "🤔", color: "#6366F1", bg: "#E0E7FF" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [0],
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Silbenpause und Rhythmus — tap-count ───────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "👏👏👏👏", color: "#DC2626", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "tap-count",
+      items: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      targetCount: 4,
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Silben am Satzende — drag-to-bucket ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "text-bubbles", items: [ { text: "Das-ist-schö-ner", color: "#059669", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "3", label: "3 Silben" }, { id: "4", label: "4 Silben" }],
+      items: [
+        { text: "t14_w1", bucketId: "4" },
+        { text: "t14_w2", bucketId: "3" },
+        { text: "t14_w3", bucketId: "3" },
+        { text: "t14_w4", bucketId: "3" },
+      ],
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Silben Meister-Challenge — highlight-text ────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "MEISTER!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [0],
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -702,6 +1118,87 @@ export const WORD_LABELS: Record<string, Record<string, string>> = {
     t7_w1: "Hund", t7_w2: "Blork", t7_w3: "Baum", t7_w4: "Haus",
     t7_q: "Welches ist ein echtes Wort?",
     t7_qa: "Sonne", t7_qb: "Rmpf", t7_qc: "Lululu", t7_qd: "Ktz",
+
+    t8_title: "Wort-Familien",
+    t8_text: "Wörter können verwandt sein! Baum, Bäume, Baumhaus — alle gehören zur Familie von 'Baum'.",
+    t8_b1: "Verwandte Wörter haben einen gemeinsamen Wortstamm",
+    t8_b2: "Baum → Bäume, Baumhaus, Baumstamm",
+    t8_inst: "Finde die Wort-Familie!",
+    t8_h1: "Welche Wörter gehören zusammen?",
+    t8_h2: "Baum, Bäume und Baumhaus gehören zusammen!",
+    t8_q: "Welches Wort gehört zur Baum-Familie?",
+    t8_qa: "Baumhaus", t8_qb: "Maus", t8_qc: "Haus", t8_qd: "Auto",
+
+    t9_title: "Gegensätze",
+    t9_text: "Manche Wörter bedeuten das genaue Gegenteil! Groß ist das Gegenteil von klein. Schnell und langsam sind Gegensätze.",
+    t9_b1: "Gegensätze sind Wörter mit entgegengesetzter Bedeutung",
+    t9_b2: "groß ↔ klein,  schnell ↔ langsam",
+    t9_inst: "Finde das Gegenteil!",
+    t9_h1: "Welches Wort bedeutet das Gegenteil?",
+    t9_h2: "Gegenteil von 'groß' ist 'klein'!",
+    t9_q: "Welches Wort ist das Gegenteil von 'heiß'?",
+    t9_qa: "kalt", t9_qb: "warm", t9_qc: "heiß", t9_qd: "eiskalt",
+
+    t10_title: "Wörter nach Länge",
+    t10_text: "Manche Wörter sind kurz: 'Hund', 'Haus'. Andere sind lang: 'Elefant', 'Lokomotive'. Wir können Wörter nach ihrer Länge sortieren!",
+    t10_b1: "Kurze Wörter haben wenige Buchstaben",
+    t10_b2: "Lange Wörter haben viele Buchstaben",
+    t10_inst: "Sortiere nach Wort-Länge!",
+    t10_h1: "Zähle die Buchstaben: 'Hund' = 4, 'Elefant' = 7",
+    t10_h2: "Hund ist kurz, Elefant ist lang.",
+    t10_q: "Welches Wort ist am kürzesten?",
+    t10_qa: "Haus", t10_qb: "Elefant", t10_qc: "Lokomotive", t10_qd: "Auto",
+
+    t11_title: "Anfangsbuchstaben",
+    t11_text: "Viele Wörter können mit dem gleichen Buchstaben anfangen! Baum, Ball, Blume — alle fangen mit B an. Das nennt man 'Alliteration'!",
+    t11_b1: "Worte mit gleichem Anfangslaut heißen 'Alliteration'",
+    t11_b2: "Baum, Ball, Blume → alle beginnen mit B",
+    t11_inst: "Welche Wörter gehören zusammen?",
+    t11_h1: "Schau auf die Anfangsbuchstaben!",
+    t11_h2: "Alle B-Wörter gehören zusammen!",
+    t11_q: "Welches Wort passt zu 'Schmetterling' und 'Schule'?",
+    t11_qa: "Schrank", t11_qb: "Blume", t11_qc: "Mond", t11_qd: "Sonne",
+
+    t12_title: "Gegenstände benennen",
+    t12_text: "Jeder Gegenstand hat einen Namen! Ein Stuhl ist zum Sitzen, ein Tisch zum Essen. Kannst du die Gegenstände richtig benennen?",
+    t12_b1: "Gegenstände haben Namen",
+    t12_b2: "Wir können Gegenstände beschreiben und benennen",
+    t12_inst: "Welcher Name passt?",
+    t12_h1: "Wofür brauchen wir den Gegenstand?",
+    t12_h2: "Ein Stuhl ist zum Sitzen — es ist ein Stuhl!",
+    t12_q: "Worauf sitzt man?",
+    t12_qa: "auf einem Stuhl", t12_qb: "auf einem Tisch", t12_qc: "auf der Straße", t12_qd: "auf dem Dach",
+
+    t13_title: "Wort-Rätsel",
+    t13_text: "'Ich bin groß, habe Äste und Blätter. Im Herbst werden meine Blätter rot und gelb.' Was bin ich? → Ein Baum!",
+    t13_b1: "Rätsel helfen, Wörter besser zu verstehen",
+    t13_b2: "Mit Hinweisen kann man das Wort erraten",
+    t13_inst: "Löse das Rätsel!",
+    t13_h1: "Höre auf die Beschreibung!",
+    t13_h2: "Ein Baum hat Äste und Blätter!",
+    t13_q: "Rätsel: 'Ich bin rund, gelb und süß. Affen mögen mich sehr!' Was bin ich?",
+    t13_qa: "Eine Banane", t13_qb: "Ein Apfel", t13_qc: "Eine Orange", t13_qd: "Eine Erdbeere",
+
+    t14_title: "Nomen und Verben",
+    t14_text: "Wörter können Nomen oder Verben sein! 'Hund' ist ein Nomen (was ist es?). 'Bellen' ist ein Verb (was tut der Hund?). Wir können Wörter sortieren!",
+    t14_b1: "Nomen: Gegenstände, Tiere, Menschen (Wer oder Was?)",
+    t14_b2: "Verben: Handlungen, Tätigkeiten (Was tut es?)",
+    t14_inst: "Ist es ein Nomen oder Verb?",
+    t14_h1: "Frage: 'Was ist das?' oder 'Was tut es?'",
+    t14_h2: "'Katze' = Nomen (Was?), 'laufen' = Verb (Was tut es?)",
+    t14_q: "Welches Wort ist ein Verb?",
+    t14_qa: "spielen", t14_qb: "Tisch", t14_qc: "Baum", t14_qd: "Haus",
+
+    t15_title: "Wort-Meister",
+    t15_text: "Du kennst jetzt alle Wort-Themen! Familien, Gegensätze, Längen, Anfangsbuchstaben — alles beherrschst du! Bist du wirklich ein Wort-Meister?",
+    t15_b1: "Du beherrschst alle Wort-Techniken",
+    t15_b2: "Wort-Wissen ist sehr wichtig für das Lesen!",
+    t15_b3: "Herzlichen Glückwunsch!",
+    t15_inst: "Teste dein ganzes Wort-Wissen!",
+    t15_h1: "Nutze alles, was du gelernt hast!",
+    t15_h2: "Du schaffst es, Wort-Meister!",
+    t15_q: "Welches Wort passt AM BESTEN zu allen Kriterien?",
+    t15_qa: "Blume", t15_qb: "Xyzq", t15_qc: "Bewegung", t15_qd: "Rot",
   }
 };
 
@@ -844,6 +1341,172 @@ export const WORD_POOL: PoolTopicDef[] = [
       hint2: "t7_h2",
     },
     quiz: { question: "t7_q", choices: ["t7_qa","t7_qb","t7_qc","t7_qd"], answer: "t7_qa" },
+  },
+
+  // ── 8. Wort-Familien — match-pairs ───────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "Baum", color: "#047857", bg: "#D1FAE5" }, { text: "Bäume", color: "#047857", bg: "#D1FAE5" }, { text: "Baumhaus", color: "#047857", bg: "#D1FAE5" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "Baum", right: "Familie 🌳" },
+        { left: "Haus", right: "Familie 🏠" },
+        { left: "Kind", right: "Familie 👶" },
+        { left: "Hund", right: "Familie 🐕" },
+      ],
+      instruction: "t8_inst",
+      hint1: "t8_h1",
+      hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa","t8_qb","t8_qc","t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Gegensätze — match-pairs ───────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "two-groups", left: { items: ["groß", "heiß", "schnell"], bg: "#FEE2E2", border: "#EF4444" }, right: { items: ["klein", "kalt", "langsam"], bg: "#DBEAFE", border: "#3B82F6" } },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "groß", right: "klein" },
+        { left: "heiß", right: "kalt" },
+        { left: "schnell", right: "langsam" },
+        { left: "hell", right: "dunkel" },
+      ],
+      instruction: "t9_inst",
+      hint1: "t9_h1",
+      hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. Wörter nach Länge — drag-to-bucket ──────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🔤", label: "Kurz" }, { emoji: "🔤🔤🔤", label: "Mittel" }, { emoji: "🔤🔤🔤🔤🔤", label: "Lang" } ] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "short", label: "Kurz (1-3)" }, { id: "long", label: "Lang (4+)" }],
+      items: [
+        { text: "Haus", bucketId: "short" },
+        { text: "Auto", bucketId: "short" },
+        { text: "Elefant", bucketId: "long" },
+        { text: "Lokomotive", bucketId: "long" },
+      ],
+      instruction: "t10_inst",
+      hint1: "t10_h1",
+      hint2: "t10_h2",
+    },
+    quiz: { question: "t10_q", choices: ["t10_qa","t10_qb","t10_qc","t10_qd"], answer: "t10_qa" },
+  },
+
+  // ── 11. Anfangsbuchstaben — match-pairs ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "text-bubbles", items: [ { text: "B...", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "S...", color: "#059669", bg: "#D1FAE5" }, { text: "K...", color: "#B91C1C", bg: "#FEE2E2" } ] },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "Baum", right: "B-Familie" },
+        { left: "Sonne", right: "S-Familie" },
+        { left: "Katze", right: "K-Familie" },
+        { left: "Blume", right: "B-Familie" },
+      ],
+      instruction: "t11_inst",
+      hint1: "t11_h1",
+      hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Gegenstände benennen — drag-to-bucket ────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "icon-grid", items: [ { emoji: "🪑", label: "zum Sitzen" }, { emoji: "🍽️", label: "zum Essen" }, { emoji: "🛏️", label: "zum Schlafen" } ] },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "tap-count",
+      items: ["Stuhl", "Tisch", "Bett", "Schrank"],
+      targetCount: 3,
+      instruction: "t12_inst",
+      hint1: "t12_h1",
+      hint2: "t12_h2",
+    },
+    quiz: { question: "t12_q", choices: ["t12_qa","t12_qb","t12_qc","t12_qd"], answer: "t12_qa" },
+  },
+
+  // ── 13. Wort-Rätsel — highlight-text ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "?", emoji: "🤔", color: "#8B5CF6", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["Banane", "Apfel", "Orange", "Erdbeere"],
+      correctIndices: [0],
+      instruction: "t13_inst",
+      hint1: "t13_h1",
+      hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. Nomen und Verben — drag-to-bucket ──────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "two-groups", left: { items: ["Katze", "Tisch", "Buch"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["spielen", "laufen", "essen"], bg: "#D1FAE5", border: "#059669" } },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "drag-to-bucket",
+      buckets: [{ id: "nomen", label: "Nomen 📝" }, { id: "verb", label: "Verb 🏃" }],
+      items: [
+        { text: "spielen", bucketId: "verb" },
+        { text: "Tisch", bucketId: "nomen" },
+        { text: "laufen", bucketId: "verb" },
+        { text: "Baum", bucketId: "nomen" },
+      ],
+      instruction: "t14_inst",
+      hint1: "t14_h1",
+      hint2: "t14_h2",
+    },
+    quiz: { question: "t14_q", choices: ["t14_qa","t14_qb","t14_qc","t14_qd"], answer: "t14_qa" },
+  },
+
+  // ── 15. Wort-Meister — highlight-text ───────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "text-bubbles", items: [ { text: "MEISTER!", emoji: "🏆", color: "#F59E0B", bg: "#FEF3C7" } ] },
+    bulletKeys: ["t15_b1", "t15_b2", "t15_b3"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["Blume", "Xyzq", "Bewegung", "Rot"],
+      correctIndices: [0],
+      instruction: "t15_inst",
+      hint1: "t15_h1",
+      hint2: "t15_h2",
+    },
+    quiz: { question: "t15_q", choices: ["t15_qa","t15_qb","t15_qc","t15_qd"], answer: "t15_qa" },
   },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
