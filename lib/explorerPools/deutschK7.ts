@@ -40,7 +40,6 @@ import type { PoolTopicDef } from "./types";
 // LABELS nur "de"!
 // ──────────────────────────────────────────────────────────────────────────────
 
-import type { PoolTopicDef } from "./types";
 
 export const KONJ1_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -134,7 +133,7 @@ export const KONJ1_LABELS: Record<string, Record<string, string>> = {
     t12_title: "Blick in die Zukunft",
     t12_text: "Zukunft im Konjunktiv I: werde + Infinitiv. Beispiel: er werde kommen.",
     t12_inst: "Welche Form beschreibt die Zukunft?",
-    t12_h1: "werde + kommen.", t11_h2: "er werde kommen.",
+    t12_h1: "werde + kommen.", t12_h2: "er werde kommen.",
     t12_q12: "Sie sagt, sie ___ bald ___ .",
     t12_t12_1: "werde reisen", t12_t12_2: "würde reisen", t12_t12_3: "werdet reisen", t12_t12_4: "ist gereist",
 
@@ -168,95 +167,94 @@ export const KONJ1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "word-display", word: "komme", color: "#3B82F6" },
-    interactive: { type: "physics-slingshot", question: "t1_inst", targets: [{ id: "1", text: "t1_w2", isCorrect: true }, { id: "2", text: "t1_w1", isCorrect: false }, { id: "3", text: "t1_w3", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t1_inst", targets: [{ id: "1", text: "t1_w2", isCorrect: true }, { id: "2", text: "t1_w1", isCorrect: false }, { id: "3", text: "t1_w3", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
-    svg: { type: "text-bubbles", items: [{ text: "sei", color: "#3B82F6" }, { text: "seien", color: "#3B82F6" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c1", "t2_c2", "t2_c3", "t2_c4"], correctIndex: 0, instruction: "t2_inst" },
+    svg: { type: "text-bubbles", items: [{ text: "sei", color: "#3B82F6", bg: "#F1F5F9" }, { text: "seien", color: "#3B82F6", bg: "#F1F5F9" }] },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c1", "t2_c2", "t2_c3", "t2_c4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "easy",
     svg: { type: "two-groups", left: { items: ["t3_i3_1"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["t3_i3_2"], bg: "#F1F5F9", border: "#64748B" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "k1", label: "t3_b3_1" }, { id: "ind", label: "t3_b3_2" }], items: [{ text: "t3_i3_1", bucketId: "k1" }, { text: "t3_i3_2", bucketId: "ind" }, { text: "t3_i3_3", bucketId: "k1" }, { text: "t3_i3_4", bucketId: "ind" }], instruction: "t3_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "k1", label: "t3_b3_1" }, { id: "ind", label: "t3_b3_2" }], items: [{ text: "t3_i3_1", bucketId: "k1" }, { text: "t3_i3_2", bucketId: "ind" }, { text: "t3_i3_3", bucketId: "k1" }, { text: "t3_i3_4", bucketId: "ind" }], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "geh-", word2: "-e" },
-    interactive: { type: "word-order", words: ["t4_w4_1", "t4_w4_2"], correctOrder: [0, 1], instruction: "t4_inst" },
+    svg: { type: "compound-word", word1: "geh-", word2: "-e", result: "geh-+-e", color: "#6366F1" },
+    interactive: { type: "word-order", words: ["t4_w4_1", "t4_w4_2"], correctOrder: [0, 1], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🗣️", label: "sagen" }, { emoji: "📰", label: "berichten" }] },
-    interactive: { type: "match-pairs", pairs: [{ left: "t5_ml5", right: "t5_mr5" }, { left: "t5_ml5_2", right: "t5_mr5_2" }], instruction: "t5_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t5_ml5", right: "t5_mr5" }, { left: "t5_ml5_2", right: "t5_mr5_2" }], instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "hard",
     svg: { type: "letter-circles", letters: ["K", "II"], color: "#6366F1" },
-    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst" },
+    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "❓" },
-    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst" },
+    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t8_f8_1", "t8_f8_2", "t8_f8_3", "t8_f8_4"], instruction: "t8_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t8_f8_1", "t8_f8_2", "t8_f8_3", "t8_f8_4"], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "müsse", color: "#3B82F6", bg: "#DBEAFE" }] },
-    interactive: { type: "physics-slingshot", question: "t9_q9", targets: [{ id: "1", text: "t9_t1", isCorrect: true }, { id: "2", text: "t9_t2", isCorrect: false }, { id: "3", text: "t9_t3", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t9_q9", targets: [{ id: "1", text: "t9_t1", isCorrect: true }, { id: "2", text: "t9_t2", isCorrect: false }, { id: "3", text: "t9_t3", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
     svg: { type: "article-noun", article: "Der", articleColor: "#1D4ED8", noun: "Befehl" },
-    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst" },
+    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📜" },
-    interactive: { type: "physics-stacker", words: ["t11_sw11_1", "t11_sw11_2", "t11_sw11_3"], correctOrder: [0, 1, 2], instruction: "t11_inst" },
+    interactive: { type: "physics-stacker", words: ["t11_sw11_1", "t11_sw11_2", "t11_sw11_3"], correctOrder: [0, 1, 2], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "word-display", word: "werde kommen", color: "#3B82F6" },
-    interactive: { type: "physics-slingshot", question: "t12_q12", targets: [{ id: "1", text: "t12_t12_1", isCorrect: true }, { id: "2", text: "t12_t12_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t12_q12", targets: [{ id: "1", text: "t12_t12_1", isCorrect: true }, { id: "2", text: "t12_t12_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6", "t13_w13_7"], correctIndices: [4], instruction: "t13_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6", "t13_w13_7"], correctIndices: [4], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🗞️" },
-    interactive: { type: "gap-fill", sentence: "Ich sage ___ er komme.", choices: [",", ".", "!", "?"], correctIndex: 0, instruction: "t14_inst" },
+    interactive: { type: "gap-fill", sentence: "Ich sage ___ er komme.", choices: [",", ".", "!", "?"], correctIndex: 0, instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { question: "t14_q14", choices: ["t14_ans14", "t14_ans14_2", "t14_ans14_3", "t14_ans14_4"], answer: "t14_ans14" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t15_ml15", right: "t15_mr15" }, { left: "t15_ml15_2", right: "t15_mr15_2" }, { left: "t15_ml15_3", right: "t15_mr15_3" }], instruction: "t15_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t15_ml15", right: "t15_mr15" }, { left: "t15_ml15_2", right: "t15_mr15_2" }, { left: "t15_ml15_3", right: "t15_mr15_3" }], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   }
 ];
-import type { PoolTopicDef } from "./types";
 
 export const PASSIV7_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -384,96 +382,95 @@ export const PASSIV7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "📦" },
-    interactive: { type: "physics-slingshot", question: "t1_q1", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t1_q1", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "werden", color: "#14B8A6", bg: "#F0FDFA" }, { text: "wird", color: "#14B8A6", bg: "#F0FDFA" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "word-display", word: "wurde", color: "#0D9488" },
-    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst" },
+    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
     svg: { type: "text-bubbles", items: [{ text: "ist", color: "#14B8A6", bg: "#F0FDFA" }, { text: "worden", color: "#14B8A6", bg: "#F0FDFA" }] },
-    interactive: { type: "word-order", words: ["t4_w4_1", "t4_w4_2", "t4_w4_3", "t4_w4_4"], correctOrder: [0, 1, 2, 3], instruction: "t4_inst" },
+    interactive: { type: "word-order", words: ["t4_w4_1", "t4_w4_2", "t4_w4_3", "t4_w4_4"], correctOrder: [0, 1, 2, 3], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "letter-circles", letters: ["w", "a", "r"], color: "#0D9488" },
-    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst" },
+    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "physics-stacker", words: ["t6_sw6_1", "t6_sw6_2", "t6_sw6_3", "t6_sw6_4"], correctOrder: [0, 1, 2, 3], instruction: "t6_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "physics-stacker", words: ["t6_sw6_1", "t6_sw6_2", "t6_sw6_3", "t6_sw6_4"], correctOrder: [0, 1, 2, 3], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Person"], bg: "#F0FDFA", border: "#14B8A6" }, right: { items: ["Mittel"], bg: "#F0FDF4", border: "#22C55E" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "v", label: "t7_b7_1" }, { id: "d", label: "t7_b7_2" }], items: [{ text: "t7_i7_1", bucketId: "v" }, { text: "t7_i7_2", bucketId: "d" }, { text: "t7_i7_3", bucketId: "v" }, { text: "t7_i7_4", bucketId: "d" }], instruction: "t7_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "v", label: "t7_b7_1" }, { id: "d", label: "t7_b7_2" }], items: [{ text: "t7_i7_1", bucketId: "v" }, { text: "t7_i7_2", bucketId: "d" }, { text: "t7_i7_3", bucketId: "v" }, { text: "t7_i7_4", bucketId: "d" }], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "dativ" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🌬️", label: "durch" }] },
-    interactive: { type: "match-pairs", pairs: [{ left: "t8_ml8", right: "t8_mr8" }, { left: "t8_ml8_2", right: "t8_mr8_2" }], instruction: "t8_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t8_ml8", right: "t8_mr8" }, { left: "t8_ml8_2", right: "t8_mr8_2" }], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "akkusativ" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t9_f9_1", "t9_f9_2", "t9_f9_3", "t9_f9_4"], instruction: "t9_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t9_f9_1", "t9_f9_2", "t9_f9_3", "t9_f9_4"], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "hard",
     svg: { type: "article-noun", article: "Ihm", articleColor: "#065F46", noun: "Dativ" },
-    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst" },
+    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "dativ" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Es wird...", color: "#0D9488", bg: "#F0FDFA" }] },
-    interactive: { type: "highlight-text", tokens: ["t11_w11_1", "t11_w11_2", "t11_w11_3", "t11_w11_4", "t11_w11_5", "t11_w11_6"], correctIndices: [3, 5], instruction: "t11_inst" },
+    interactive: { type: "highlight-text", tokens: ["t11_w11_1", "t11_w11_2", "t11_w11_3", "t11_w11_4", "t11_w11_5", "t11_w11_6"], correctIndices: [3, 5], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t12_ml12", right: "t12_mr12" }, { left: "t12_ml12_2", right: "t12_mr12_2" }, { left: "t12_ml12_3", right: "t12_mr12_3" }], instruction: "t12_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t12_ml12", right: "t12_mr12" }, { left: "t12_ml12_2", right: "t12_mr12_2" }, { left: "t12_ml12_3", right: "t12_mr12_3" }], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "letter-circles", letters: ["g", "e", "-"], color: "#14B8A6" },
-    interactive: { type: "physics-slingshot", question: "t13_q13", targets: [{ id: "1", text: "t13_t13_1", isCorrect: true }, { id: "2", text: "t13_t13_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t13_q13", targets: [{ id: "1", text: "t13_t13_1", isCorrect: true }, { id: "2", text: "t13_t13_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["Passiv"], bg: "#F0FDFA", border: "#14B8A6" }, right: { items: ["Futur"], bg: "#EFF6FF", border: "#3B82F6" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "pa", label: "t14_b14_1" }, { id: "fu", label: "t14_b14_2" }], items: [{ text: "t14_i14_1", bucketId: "pa" }, { text: "t14_i14_2", bucketId: "fu" }, { text: "t14_i14_3", bucketId: "pa" }, { text: "t14_i14_4", bucketId: "fu" }], instruction: "t14_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "pa", label: "t14_b14_1" }, { id: "fu", label: "t14_b14_2" }], items: [{ text: "t14_i14_1", bucketId: "pa" }, { text: "t14_i14_2", bucketId: "fu" }, { text: "t14_i14_3", bucketId: "pa" }, { text: "t14_i14_4", bucketId: "fu" }], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
-    interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3"], correctOrder: [0, 1, 2], instruction: "t15_inst" },
+    interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3"], correctOrder: [0, 1, 2], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const PASSIV_MODAL_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -600,97 +597,96 @@ export const PASSIV_MODAL_LABELS: Record<string, Record<string, string>> = {
 export const PASSIV_MODAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "compound-word", word1: "Partizip II", word2: "werden" },
-    interactive: { type: "word-order", words: ["t1_w2", "t1_w1"], correctOrder: [0, 1], instruction: "t1_inst" },
+    svg: { type: "compound-word", word1: "Partizip II", word2: "werden", result: "Partizip II+werden", color: "#6366F1" },
+    interactive: { type: "word-order", words: ["t1_w2", "t1_w1"], correctOrder: [0, 1], instruction: "t1_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "muss", color: "#F59E0B", bg: "#FEF3C7" }, { text: "werden", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "word-display", word: "kann ... werden", color: "#D97706" },
-    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst" },
+    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🚭" },
-    interactive: { type: "physics-slingshot", question: "t4_q4", targets: [{ id: "1", text: "t4_t4_1", isCorrect: true }, { id: "2", text: "t4_t4_2", isCorrect: false }, { id: "3", text: "t4_t4_3", isCorrect: false }], instruction: "t4_inst" },
+    interactive: { type: "physics-slingshot", question: "t4_q4", targets: [{ id: "1", text: "t4_t4_1", isCorrect: true }, { id: "2", text: "t4_t4_2", isCorrect: false }, { id: "3", text: "t4_t4_3", isCorrect: false }], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "letter-circles", letters: ["m", "u", "s", "s", "t", "e"], color: "#B45309" },
-    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst" },
+    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
-    interactive: { type: "word-order", words: ["t6_w6_1", "t6_w6_2", "t6_w6_3", "t6_w6_4"], correctOrder: [0, 1, 2, 3], instruction: "t6_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "word-order", words: ["t6_w6_1", "t6_w6_2", "t6_w6_3", "t6_w6_4"], correctOrder: [0, 1, 2, 3], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t7_sw7_1", "t7_sw7_2", "t7_sw7_3"], correctOrder: [0, 1, 2], instruction: "t7_inst" },
+    interactive: { type: "physics-stacker", words: ["t7_sw7_1", "t7_sw7_2", "t7_sw7_3"], correctOrder: [0, 1, 2], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["man lüftet"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["wird gelüftet"], bg: "#FEF3C7", border: "#D97706" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t8_b8_1" }, { id: "p", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "a" }, { text: "t8_i8_2", bucketId: "p" }, { text: "t8_i8_3", bucketId: "a" }, { text: "t8_i8_4", bucketId: "p" }], instruction: "t8_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t8_b8_1" }, { id: "p", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "a" }, { text: "t8_i8_2", bucketId: "p" }, { text: "t8_i8_3", bucketId: "a" }, { text: "t8_i8_4", bucketId: "p" }], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
     svg: { type: "word-display", word: "nicht", color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst" },
+    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "letter-circles", letters: ["z", "u"], color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst" },
+    interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t12_w12_1", "t12_w12_2", "t12_w12_3", "t12_w12_4", "t12_w12_5", "t12_w12_6"], correctIndices: [2], instruction: "t12_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t12_w12_1", "t12_w12_2", "t12_w12_3", "t12_w12_4", "t12_w12_5", "t12_w12_6"], correctIndices: [2], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "⏱️" },
-    interactive: { type: "gap-fill", sentence: "t13_q13", choices: ["t13_ans13", "t13_ans13_2", "t13_ans13_3", "t13_ans13_4"], correctIndex: 0, instruction: "t13_inst" },
+    interactive: { type: "gap-fill", sentence: "t13_q13", choices: ["t13_ans13", "t13_ans13_2", "t13_ans13_3", "t13_ans13_4"], correctIndex: 0, instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Könnte", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "gap-fill", sentence: "t14_sent14", choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"], correctIndex: 0, instruction: "t14_inst" },
+    interactive: { type: "gap-fill", sentence: "t14_sent14", choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"], correctIndex: 0, instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
-    interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3", "t15_sw15_4"], correctOrder: [0, 1, 2, 3], instruction: "t15_inst" },
+    interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3", "t15_sw15_4"], correctOrder: [0, 1, 2, 3], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const STIL_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -820,97 +816,96 @@ export const STIL_LABELS: Record<string, Record<string, string>> = {
 export const STIL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "rhyme-pair", word1: "Fischers", word2: "Fritz" },
-    interactive: { type: "physics-slingshot", question: "t1_inst", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans1_2", isCorrect: false }] },
+    svg: { type: "rhyme-pair", word1: "Fischers", word2: "Fritz", color: "#6366F1" },
+    interactive: { type: "physics-slingshot", question: "t1_inst", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans1_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🐱", label: "Rabenmutter" }, { emoji: "🐍", label: "Warteschlange" }] },
-    interactive: { type: "match-pairs", pairs: [{ left: "t2_ml2_1", right: "t2_mr2_1" }, { left: "t2_ml2_2", right: "t2_mr2_2" }, { left: "t2_ml2_3", right: "t2_mr2_3" }], instruction: "t2_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t2_ml2_1", right: "t2_mr2_1" }, { left: "t2_ml2_2", right: "t2_mr2_2" }, { left: "t2_ml2_3", right: "t2_mr2_3" }], instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "easy",
-    svg: { type: "comparison-table", rows: [["Löwe", "stark"], ["Fuchs", "schlau"]], color: "#EF4444" },
-    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst" },
+    svg: { type: "two-groups", left: { items: ["Löwe", "stark"], bg: "#f0f9ff", border: "#bae6fd" }, right: { items: ["Fuchs", "schlau"], bg: "#fdf4ff", border: "#e9d5ff" } },
+    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "steigerung" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Sonne lacht", color: "#F59E0B", bg: "#FEF3C7" }, { text: "Wind singt", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "physics-bucket", buckets: [{ id: "p", label: "t4_b4_1" }, { id: "r", label: "t4_b4_2" }], items: [{ text: "t4_i4_1", bucketId: "p" }, { text: "t4_i4_2", bucketId: "r" }, { text: "t4_i4_3", bucketId: "p" }, { text: "t4_i4_4", bucketId: "r" }], instruction: "t4_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "p", label: "t4_b4_1" }, { id: "r", label: "t4_b4_2" }], items: [{ text: "t4_i4_1", bucketId: "p" }, { text: "t4_i4_2", bucketId: "r" }, { text: "t4_i4_3", bucketId: "p" }, { text: "t4_i4_4", bucketId: "r" }], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "📈" },
-    interactive: { type: "physics-stacker", words: ["t5_sw5_1", "t5_sw5_2", "t5_sw5_3"], correctOrder: [0, 1, 2], instruction: "t5_inst" },
+    interactive: { type: "physics-stacker", words: ["t5_sw5_1", "t5_sw5_2", "t5_sw5_3"], correctOrder: [0, 1, 2], instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "steigerung" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "❓" },
-    interactive: { type: "physics-slingshot", question: "t6_q6", targets: [{ id: "1", text: "t6_t6_1", isCorrect: true }, { id: "2", text: "t6_t6_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t6_q6", targets: [{ id: "1", text: "t6_t6_1", isCorrect: true }, { id: "2", text: "t6_t6_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_4"], correctIndices: [0, 3], instruction: "t7_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_4"], correctIndices: [0, 3], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst" },
+    interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Himmel"], bg: "#EFF6FF", border: "#3B82F6" }, right: { items: ["Hölle"], bg: "#FEF2F2", border: "#EF4444" } },
-    interactive: { type: "match-pairs", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "antonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
-    svg: { type: "word-syllables", syllables: ["Ku", "ckuck"] },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst" },
+    svg: { type: "word-syllables", parts: ["Ku", "ckuck"], color: "#6366F1" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "✂️" },
-    interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst" },
+    interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "akkusativ" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🕊️", label: "Frieden" }, { emoji: "❤️", label: "Liebe" }] },
-    interactive: { type: "match-pairs", pairs: [{ left: "t12_ml12_1", right: "t12_mr12_1" }, { left: "t12_ml12_2", right: "t12_mr12_2" }, { left: "t12_ml12_3", right: "t12_mr12_3" }], instruction: "t12_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t12_ml12_1", right: "t12_mr12_1" }, { left: "t12_ml12_2", right: "t12_mr12_2" }, { left: "t12_ml12_3", right: "t12_mr12_3" }], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["Euphemismus"], bg: "#F0FDF4", border: "#22C55E" }, right: { items: ["Direkt"], bg: "#FEF2F2", border: "#EF4444" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "e", label: "t13_b13_1" }, { id: "d", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "e" }, { text: "t13_i13_2", bucketId: "d" }, { text: "t13_i13_3", bucketId: "e" }, { text: "t13_i13_4", bucketId: "d" }], instruction: "t13_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "e", label: "t13_b13_1" }, { id: "d", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "e" }, { text: "t13_i13_2", bucketId: "d" }, { text: "t13_i13_3", bucketId: "e" }, { text: "t13_i13_4", bucketId: "d" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "word-display", word: "Hassliebe", color: "#B91C1C" },
-    interactive: { type: "highlight-text", tokens: ["t14_w14_4"], correctIndices: [0], instruction: "t14_inst" },
+    interactive: { type: "highlight-text", tokens: ["t14_w14_4"], correctIndices: [0], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "antonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t15_f15_1", "t15_f15_2", "t15_f15_3", "t15_f15_4"], instruction: "t15_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t15_f15_1", "t15_f15_2", "t15_f15_3", "t15_f15_4"], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const CAUSAL_COND_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1038,97 +1033,96 @@ export const CAUSAL_COND_LABELS: Record<string, Record<string, string>> = {
 export const CAUSAL_COND_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "sentence-display" },
-    interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst" }, // Simpler order for intro
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst", hint1: "h1", hint2: "h2" }, // Simpler order for intro
     quiz: { generate: "passiv" } // Logic check
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "denn", color: "#F59E0B", bg: "#FEF3C7" }, { text: "Pos. 0", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
-    svg: { type: "compound-word", word1: "wegen", word2: "des" },
-    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst" },
+    svg: { type: "compound-word", word1: "wegen", word2: "des", result: "wegen+des", color: "#6366F1" },
+    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "genitiv" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "⚖️" },
-    interactive: { type: "physics-slingshot", question: "t5_inst", targets: [{ id: "1", text: "t5_ans5", isCorrect: true }, { id: "2", text: "t5_ans5_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t5_inst", targets: [{ id: "1", text: "t5_ans5", isCorrect: true }, { id: "2", text: "t5_ans5_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "word-display", word: "Falls", color: "#D97706" },
-    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst" },
+    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [0], instruction: "t7_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [0], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "easy",
     svg: { type: "article-noun", article: "Bei", articleColor: "#065F46", noun: "Regen" },
-    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst" },
+    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "dativ" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
-    svg: { type: "sentence-flow", steps: ["Grund", "Deshalb", "Folge"], color: "#D97706" },
-    interactive: { type: "sentence-build", fragments: ["t9_f9_1", "t9_f9_2", "t9_f9_3", "t9_f9_4"], instruction: "t9_inst" },
+    svg: { type: "sentence-display", words: ["Grund", "Deshalb", "Folge"], color: "#D97706" },
+    interactive: { type: "sentence-build", fragments: ["t9_f9_1", "t9_f9_2", "t9_f9_3", "t9_f9_4"], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Warum?"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wann?"], bg: "#FEF3C7", border: "#D97706" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "k", label: "t10_b10_1" }, { id: "c", label: "t10_b10_2" }], items: [{ text: "t10_i10_1", bucketId: "k" }, { text: "t10_i10_2", bucketId: "c" }, { text: "t10_i10_3", bucketId: "k" }, { text: "t10_i10_4", bucketId: "c" }], instruction: "t10_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "k", label: "t10_b10_1" }, { id: "c", label: "t10_b10_2" }], items: [{ text: "t10_i10_1", bucketId: "k" }, { text: "t10_i10_2", bucketId: "c" }, { text: "t10_i10_3", bucketId: "k" }, { text: "t10_i10_4", bucketId: "c" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst" },
+    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
-    interactive: { type: "physics-slingshot", question: "t13_q13", targets: [{ id: "1", text: "t13_t13_1", isCorrect: true }, { id: "2", text: "t13_t13_2", isCorrect: true }, { id: "3", text: "t13_t13_3", isCorrect: true }, { id: "4", text: "t13_t13_4", isCorrect: false }], instruction: "t13_inst" },
+    interactive: { type: "physics-slingshot", question: "t13_q13", targets: [{ id: "1", text: "t13_t13_1", isCorrect: true }, { id: "2", text: "t13_t13_2", isCorrect: true }, { id: "3", text: "t13_t13_3", isCorrect: true }, { id: "4", text: "t13_t13_4", isCorrect: false }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Ich komme..."], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wenn ich..."], bg: "#FEF3C7", border: "#D97706" } },
-    interactive: { type: "drag-to-bucket", buckets: [{ id: "h", label: "t14_b14_1" }, { id: "n", label: "t14_b14_2" }], items: [{ text: "t14_i14_1", bucketId: "h" }, { text: "t14_i14_2", bucketId: "n" }], instruction: "t14_inst" },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "h", label: "t14_b14_1" }, { id: "n", label: "t14_b14_2" }], items: [{ text: "t14_i14_1", bucketId: "h" }, { text: "t14_i14_2", bucketId: "n" }], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "word-display", word: "sofern", color: "#B45309" },
-    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst" },
+    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const KONZ_FINAL_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1256,97 +1250,96 @@ export const KONZ_FINAL_LABELS: Record<string, Record<string, string>> = {
 export const KONZ_FINAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "sentence-display" },
-    interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "word-order", words: ["t1_sent1"], correctOrder: [0], instruction: "t1_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "damit", color: "#B91C1C", bg: "#FEE2E2" }, { text: "Ziel", color: "#B91C1C", bg: "#FEE2E2" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
-    svg: { type: "compound-word", word1: "um", word2: "zu" },
-    interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst" },
+    svg: { type: "compound-word", word1: "um", word2: "zu", result: "um+zu", color: "#6366F1" },
+    interactive: { type: "sentence-build", fragments: ["t3_f3_1", "t3_f3_2", "t3_f3_3", "t3_f3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
     svg: { type: "word-display", word: "Trotzdem", color: "#B91C1C" },
-    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst" },
+    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "antonyme" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "article-noun", article: "Trotz", articleColor: "#B91C1C", noun: "Wetters" },
-    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst" },
+    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "genitiv" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["obwohl"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["trotzdem"], bg: "#FEF2F2", border: "#EF4444" } },
-    interactive: { type: "drag-to-bucket", buckets: [{ id: "ob", label: "t6_b6_1" }, { id: "tr", label: "t6_b6_2" }], items: [{ text: "t6_i6_1", bucketId: "ob" }, { text: "t6_i6_2", bucketId: "tr" }], instruction: "t6_inst" },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "ob", label: "t6_b6_1" }, { id: "tr", label: "t6_b6_2" }], items: [{ text: "t6_i6_1", bucketId: "ob" }, { text: "t6_i6_2", bucketId: "tr" }], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "👤", label: "Ich" }, { emoji: "👥", label: "Du" }] },
-    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst" },
+    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "antonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t9_ml9_1", right: "t9_mr9_1" }, { left: "t9_ml9_2", right: "t9_mr9_2" }, { left: "t9_ml9_3", right: "t9_mr9_3" }], instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "word-display", word: "obgleich", color: "#B91C1C" },
-    interactive: { type: "physics-slingshot", question: "t10_h1", targets: [{ id: "1", text: "t10_ans10", isCorrect: true }, { id: "2", text: "t10_ans10_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t10_h1", targets: [{ id: "1", text: "t10_ans10", isCorrect: true }, { id: "2", text: "t10_ans10_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
-    interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: false }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst" },
+    interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: false }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2", "t12_sw12_3", "t12_sw12_4"], correctOrder: [0, 1, 2, 3], instruction: "t12_inst" },
+    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2", "t12_sw12_3", "t12_sw12_4"], correctOrder: [0, 1, 2, 3], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Trotz"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["Wegen"], bg: "#F0FDF4", border: "#22C55E" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "tr", label: "t13_b13_1" }, { id: "we", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "tr" }, { text: "t13_i13_2", bucketId: "we" }, { text: "t13_i13_3", bucketId: "tr" }, { text: "t13_i13_4", bucketId: "we" }], instruction: "t13_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "tr", label: "t13_b13_1" }, { id: "we", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "tr" }, { text: "t13_i13_2", bucketId: "we" }, { text: "t13_i13_3", bucketId: "tr" }, { text: "t13_i13_4", bucketId: "we" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "genitiv" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6"], correctIndices: [2], instruction: "t14_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6"], correctIndices: [2], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
-    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst" },
+    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "genitiv" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const TEMPORAL7_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1475,96 +1468,95 @@ export const TEMPORAL7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "word-display", word: "Als", color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst" },
+    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "easy",
     svg: { type: "text-bubbles", items: [{ text: "immer wenn", color: "#F59E0B", bg: "#FFFBEB" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "steigerung" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "medium",
-    svg: { type: "compound-word", word1: "bevor", word2: "schlafen" },
-    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst" },
+    svg: { type: "compound-word", word1: "bevor", word2: "schlafen", result: "bevor+schlafen", color: "#6366F1" },
+    interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "hard",
     svg: { type: "word-display", word: "Nachdem", color: "#D97706" },
-    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst" },
+    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "letter-circles", letters: ["S", "e", "i", "t"], color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst" },
+    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🛑" },
-    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [3], instruction: "t7_inst" },
+    interactive: { type: "highlight-text", tokens: ["t7_w7_1", "t7_w7_2", "t7_w7_3", "t7_w7_4", "t7_w7_5", "t7_w7_6"], correctIndices: [3], instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "nominativ" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "sobald", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst" },
+    interactive: { type: "gap-fill", sentence: "t8_sent8", choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"], correctIndex: 0, instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "word-display", word: "solange", color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst" },
+    interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t10_ml10_1", right: "t10_mr10_1" }, { left: "t10_ml10_2", right: "t10_mr10_2" }, { left: "t10_ml10_3", right: "t10_mr10_3" }], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
-    interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: true }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst" },
+    interactive: { type: "physics-slingshot", question: "t11_q11", targets: [{ id: "1", text: "t11_t11_1", isCorrect: true }, { id: "2", text: "t11_t11_2", isCorrect: true }, { id: "3", text: "t11_t11_3", isCorrect: true }, { id: "4", text: "t11_t11_4", isCorrect: false }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst" },
+    interactive: { type: "physics-stacker", words: ["t12_sw12_1", "t12_sw12_2"], correctOrder: [0, 1], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["Als"], bg: "#FFFBEB", border: "#F59E0B" }, right: { items: ["Wenn"], bg: "#FEF3C7", border: "#D97706" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t13_b13_1" }, { id: "w", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "a" }, { text: "t13_i13_2", bucketId: "w" }, { text: "t13_i13_3", bucketId: "a" }, { text: "t13_i13_4", bucketId: "w" }], instruction: "t13_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "a", label: "t13_b13_1" }, { id: "w", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "a" }, { text: "t13_i13_2", bucketId: "w" }, { text: "t13_i13_3", bucketId: "a" }, { text: "t13_i13_4", bucketId: "w" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6", "t14_w14_7", "t14_w14_8"], correctIndices: [3], instruction: "t14_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t14_w14_1", "t14_w14_2", "t14_w14_3", "t14_w14_4", "t14_w14_5", "t14_w14_6", "t14_w14_7", "t14_w14_8"], correctIndices: [3], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🏆" },
-    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst" },
+    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const INFINITIV7_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1693,96 +1685,95 @@ export const INFINITIV7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
     svg: { type: "word-display", word: "zu kommen", color: "#10B981" },
-    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst" },
+    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
-    svg: { type: "compound-word", word1: "ein-", word2: "zu-schalten" },
-    interactive: { type: "highlight-text", tokens: ["t2_w2_1", "t2_w2_2", "t2_w2_3", "t2_w2_4"], correctIndices: [0], instruction: "t2_inst" },
+    svg: { type: "compound-word", word1: "ein-", word2: "zu-schalten", result: "ein-+zu-schalten", color: "#6366F1" },
+    interactive: { type: "highlight-text", tokens: ["t2_w2_1", "t2_w2_2", "t2_w2_3", "t2_w2_4"], correctIndices: [0], instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "um", color: "#059669", bg: "#DCFCE7" }, { text: "zu", color: "#059669", bg: "#DCFCE7" }] },
-    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst" },
+    interactive: { type: "gap-fill", sentence: "t3_sent3", choices: ["t3_c3_1", "t3_c3_2", "t3_c3_3", "t3_c3_4"], correctIndex: 0, instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "sentence-build", fragments: ["t4_f4_1", "t4_f4_2", "t4_f4_3", "t4_f4_4"], instruction: "t4_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "sentence-build", fragments: ["t4_f4_1", "t4_f4_2", "t4_f4_3", "t4_f4_4"], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "easy",
     svg: { type: "word-display", word: "Anstatt", color: "#10B981" },
-    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst" },
+    interactive: { type: "gap-fill", sentence: "t5_sent5", choices: ["t5_c5_1", "t5_c5_2", "t5_c5_3", "t5_c5_4"], correctIndex: 0, instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "📅", label: "planen" }, { emoji: "🧠", label: "vergessen" }] },
-    interactive: { type: "match-pairs", pairs: [{ left: "t6_ml6_1", right: "t6_mr6_1" }, { left: "t6_ml6_2", right: "t6_mr6_2" }, { left: "t6_ml6_3", right: "t6_mr6_3" }], instruction: "t6_inst" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t6_ml6_1", right: "t6_mr6_1" }, { left: "t6_ml6_2", right: "t6_mr6_2" }, { left: "t6_ml6_3", right: "t6_mr6_3" }], instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "Lust", color: "#059669", bg: "#DCFCE7" }, { text: "Zeit", color: "#059669", bg: "#DCFCE7" }] },
-    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst" },
+    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t8_w8_4", "t8_w8_5", "t8_w8_6"], correctIndices: [0, 1, 2], instruction: "t8_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t8_w8_4", "t8_w8_5", "t8_w8_6"], correctIndices: [0, 1, 2], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🚫" },
-    interactive: { type: "physics-slingshot", question: "t9_inst", targets: [{ id: "1", text: "t9_ans9_1", isCorrect: true }, { id: "2", text: "t9_ans9_2", isCorrect: false }] },
+    interactive: { type: "physics-slingshot", question: "t9_inst", targets: [{ id: "1", text: "t9_ans9_1", isCorrect: true }, { id: "2", text: "t9_ans9_2", isCorrect: false }], instruction: "h1", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "hard",
-    svg: { type: "sentence-flow", steps: ["nicht", "zu", "kommen"], color: "#10B981" },
-    interactive: { type: "sentence-build", fragments: ["t10_f10_1", "t10_f10_2", "t10_f10_3", "t10_f10_4"], instruction: "t10_inst" },
+    svg: { type: "sentence-display", words: ["nicht", "zu", "kommen"], color: "#10B981" },
+    interactive: { type: "sentence-build", fragments: ["t10_f10_1", "t10_f10_2", "t10_f10_3", "t10_f10_4"], instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🏹" },
-    interactive: { type: "physics-slingshot", question: "t12_q12", targets: [{ id: "1", text: "t12_t12_1", isCorrect: true }, { id: "2", text: "t12_t12_2", isCorrect: true }, { id: "3", text: "t12_t12_3", isCorrect: false }, { id: "4", text: "t12_t12_4", isCorrect: false }], instruction: "t12_inst" },
+    interactive: { type: "physics-slingshot", question: "t12_q12", targets: [{ id: "1", text: "t12_t12_1", isCorrect: true }, { id: "2", text: "t12_t12_2", isCorrect: true }, { id: "3", text: "t12_t12_3", isCorrect: false }, { id: "4", text: "t12_t12_4", isCorrect: false }], instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "medium",
     svg: { type: "two-groups", left: { items: ["Zeit haben"], bg: "#DCFCE7", border: "#10B981" }, right: { items: ["wollen"], bg: "#F1F5F9", border: "#64748B" } },
-    interactive: { type: "physics-bucket", buckets: [{ id: "z", label: "t13_b13_1" }, { id: "o", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "z" }, { text: "t13_i13_2", bucketId: "o" }, { text: "t13_i13_3", bucketId: "z" }, { text: "t13_i13_4", bucketId: "o" }], instruction: "t13_inst" },
+    interactive: { type: "physics-bucket", buckets: [{ id: "z", label: "t13_b13_1" }, { id: "o", label: "t13_b13_2" }], items: [{ text: "t13_i13_1", bucketId: "z" }, { text: "t13_i13_2", bucketId: "o" }, { text: "t13_i13_3", bucketId: "z" }, { text: "t13_i13_4", bucketId: "o" }], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t14_sw14_1", "t14_sw14_2", "t14_sw14_3"], correctOrder: [0, 1, 2], instruction: "t14_inst" },
+    interactive: { type: "physics-stacker", words: ["t14_sw14_1", "t14_sw14_2", "t14_sw14_3"], correctOrder: [0, 1, 2], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
-    svg: { type: "word-syllables", syllables: ["auf", "zu", "stehen"] },
-    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst" },
+    svg: { type: "word-syllables", parts: ["auf", "zu", "stehen"], color: "#6366F1" },
+    interactive: { type: "gap-fill", sentence: "t15_sent15", choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"], correctIndex: 0, instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   }
 ];
 
-import type { PoolTopicDef } from "./types";
 
 export const EXAM7_LABELS: Record<string, Record<string, string>> = {
   de: {
@@ -1912,91 +1903,91 @@ export const EXAM7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "hard",
     svg: { type: "word-display", word: "sei / habe", color: "#3B82F6" },
-    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst" },
+    interactive: { type: "gap-fill", sentence: "t1_sent1", choices: ["t1_c1_1", "t1_c1_2", "t1_c1_3", "t1_c1_4"], correctIndex: 0, instruction: "t1_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "konjunktiv2" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "werden", color: "#14B8A6", bg: "#F0FDFA" }] },
-    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst" },
+    interactive: { type: "gap-fill", sentence: "t2_sent2", choices: ["t2_c2_1", "t2_c2_2", "t2_c2_3", "t2_c2_4"], correctIndex: 0, instruction: "t2_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
-    svg: { type: "sentence-flow", steps: ["ist", "ge-", "worden"], color: "#14B8A6" },
-    interactive: { type: "word-order", words: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], correctOrder: [0, 1, 2, 3], instruction: "t3_inst" },
+    svg: { type: "sentence-display", words: ["ist", "ge-", "worden"], color: "#14B8A6" },
+    interactive: { type: "word-order", words: ["t3_w3_1", "t3_w3_2", "t3_w3_3", "t3_w3_4"], correctOrder: [0, 1, 2, 3], instruction: "t3_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "hard",
-    svg: { type: "compound-word", word1: "muss", word2: "werden" },
-    interactive: { type: "physics-slingshot", question: "t4_q4", targets: [{ id: "1", text: "t4_ans4_1", isCorrect: true }, { id: "2", text: "t4_ans4_2", isCorrect: false }], instruction: "t4_inst" },
+    svg: { type: "compound-word", word1: "muss", word2: "werden", result: "muss+werden", color: "#6366F1" },
+    interactive: { type: "physics-slingshot", question: "t4_q4", targets: [{ id: "1", text: "t4_ans4_1", isCorrect: true }, { id: "2", text: "t4_ans4_2", isCorrect: false }], instruction: "t4_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "medium",
     svg: { type: "icon-grid", items: [{ emoji: "🎭", label: "Metapher" }] },
-    interactive: { type: "physics-slingshot", question: "t5_q5", targets: [{ id: "1", text: "t5_t5_1", isCorrect: true }, { id: "2", text: "t5_t5_2", isCorrect: true }, { id: "3", text: "t5_t5_3", isCorrect: false }, { id: "4", text: "t5_t5_4", isCorrect: false }], instruction: "t5_inst" },
+    interactive: { type: "physics-slingshot", question: "t5_q5", targets: [{ id: "1", text: "t5_t5_1", isCorrect: true }, { id: "2", text: "t5_t5_2", isCorrect: true }, { id: "3", text: "t5_t5_3", isCorrect: false }, { id: "4", text: "t5_t5_4", isCorrect: false }], instruction: "t5_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
     svg: { type: "text-bubbles", items: [{ text: "denn", color: "#F59E0B", bg: "#FEF3C7" }] },
-    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst" },
+    interactive: { type: "gap-fill", sentence: "t6_sent6", choices: ["t6_c6_1", "t6_c6_2", "t6_c6_3", "t6_c6_4"], correctIndex: 0, instruction: "t6_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "easy",
     svg: { type: "word-display", word: "Wenn", color: "#D97706" },
-    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst" },
+    interactive: { type: "gap-fill", sentence: "t7_sent7", choices: ["t7_c7_1", "t7_c7_2", "t7_c7_3", "t7_c7_4"], correctIndex: 0, instruction: "t7_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "hard",
     svg: { type: "two-groups", left: { items: ["obwohl"], bg: "#FEE2E2", border: "#B91C1C" }, right: { items: ["trotzdem"], bg: "#FEF2F2", border: "#EF4444" } },
-    interactive: { type: "drag-to-bucket", buckets: [{ id: "ns", label: "t8_b8_1" }, { id: "hs", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "ns" }, { text: "t8_i8_2", bucketId: "hs" }], instruction: "t8_inst" },
+    interactive: { type: "drag-to-bucket", buckets: [{ id: "ns", label: "t8_b8_1" }, { id: "hs", label: "t8_b8_2" }], items: [{ text: "t8_i8_1", bucketId: "ns" }, { text: "t8_i8_2", bucketId: "hs" }], instruction: "t8_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🎯" },
-    interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst" },
+    interactive: { type: "gap-fill", sentence: "t9_sent9", choices: ["t9_c9_1", "t9_c9_2", "t9_c9_3", "t9_c9_4"], correctIndex: 0, instruction: "t9_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "easy",
     svg: { type: "word-display", word: "Als", color: "#F59E0B" },
-    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst" },
+    interactive: { type: "gap-fill", sentence: "t10_sent10", choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"], correctIndex: 0, instruction: "t10_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "praeteritum" }
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🧱" },
-    interactive: { type: "physics-stacker", words: ["t12_sw11_1", "t12_sw11_2"], correctOrder: [0, 1], instruction: "t11_inst" },
+    interactive: { type: "physics-stacker", words: ["t12_sw11_1", "t12_sw11_2"], correctOrder: [0, 1], instruction: "t11_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "perfekt" }
   },
   {
     infoTitle: "t12_title", infoText: "t12_text", difficulty: "medium",
     svg: { type: "word-display", word: "zu sehen", color: "#10B981" },
-    interactive: { type: "gap-fill", sentence: "t12_sent12", choices: ["t12_c12_1", "t12_c12_2", "t12_c12_3", "t12_c12_4"], correctIndex: 0, instruction: "t12_inst" },
+    interactive: { type: "gap-fill", sentence: "t12_sent12", choices: ["t12_c12_1", "t12_c12_2", "t12_c12_3", "t12_c12_4"], correctIndex: 0, instruction: "t12_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "hard",
-    svg: { type: "sentence-display" },
-    interactive: { type: "highlight-text", tokens: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6"], correctIndices: [5], instruction: "t13_inst" },
+    svg: { type: "simple-icon", icon: "📝", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", tokens: ["t13_w13_1", "t13_w13_2", "t13_w13_3", "t13_w13_4", "t13_w13_5", "t13_w13_6"], correctIndices: [5], instruction: "t13_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
     svg: { type: "simple-icon", icon: "🧲" },
-    interactive: { type: "physics-magnet", pairs: [{ left: "t14_ml14_1", right: "t14_mr14_1" }, { left: "t14_ml14_2", right: "t14_mr14_2" }, { left: "t14_ml14_3", right: "t14_mr14_3" }], instruction: "t14_inst" },
+    interactive: { type: "physics-magnet", pairs: [{ left: "t14_ml14_1", right: "t14_mr14_1" }, { left: "t14_ml14_2", right: "t14_mr14_2" }, { left: "t14_ml14_3", right: "t14_mr14_3" }], instruction: "t14_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
     svg: { type: "simple-icon", icon: "🎓" },
-    interactive: { type: "physics-slingshot", question: "t15_q15", targets: [{ id: "1", text: "t15_t15_1", isCorrect: true }, { id: "2", text: "t15_t15_2", isCorrect: false }, { id: "3", text: "t15_t15_3", isCorrect: false }], instruction: "t15_inst" },
+    interactive: { type: "physics-slingshot", question: "t15_q15", targets: [{ id: "1", text: "t15_t15_1", isCorrect: true }, { id: "2", text: "t15_t15_2", isCorrect: false }, { id: "3", text: "t15_t15_3", isCorrect: false }], instruction: "t15_inst", hint1: "h1", hint2: "h2" },
     quiz: { generate: "passiv" }
   }
 ];
