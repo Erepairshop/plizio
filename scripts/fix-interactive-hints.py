@@ -24,7 +24,7 @@ def extract_labels(content):
     return labels
 
 def find_interactive_blocks(content):
-    """Find all interactive blocks with their positions, handling nested structures."""
+    """Find all interactive blocks with their positions, handling nested structures by counting braces."""
     blocks = []
     i = 0
     while True:
@@ -33,20 +33,38 @@ def find_interactive_blocks(content):
         if start == -1:
             break
 
-        # Find matching closing brace
-        brace_count = 0
-        found_start = False
+        # Find matching closing brace by counting braces AND tracking strings
+        brace_count = 1  # We've already opened with 'interactive: {'
+        in_string = False
+        escape_next = False
         end = -1
 
         for j in range(start + len('interactive: {'), len(content)):
             c = content[j]
-            if c == '{':
-                brace_count += 1
-            elif c == '}':
-                if brace_count == 0:
-                    end = j
-                    break
-                brace_count -= 1
+
+            # Handle escape sequences
+            if escape_next:
+                escape_next = False
+                continue
+
+            if c == '\\':
+                escape_next = True
+                continue
+
+            # Track string boundaries
+            if c == '"' and not escape_next:
+                in_string = not in_string
+                continue
+
+            # Only count braces outside of strings
+            if not in_string:
+                if c == '{':
+                    brace_count += 1
+                elif c == '}':
+                    brace_count -= 1
+                    if brace_count == 0:
+                        end = j
+                        break
 
         if end == -1:
             print(f"⚠️  Could not find closing brace for interactive block at position {start}")
@@ -139,10 +157,12 @@ def process_file(filepath):
 
         if new_content != block['content']:
             # Count fields added
-            added_count = new_content.count(',\n') - block['content'].count(',\n')
+            added_count = len(new_content) - len(block['content'])
             if added_count > 0:
-                total_added += added_count
-                print(f"  L{block['line']}: Added {added_count} field(s)")
+                total_added += (new_content.count('instruction:') - block['content'].count('instruction:') +
+                               new_content.count('hint1:') - block['content'].count('hint1:') +
+                               new_content.count('hint2:') - block['content'].count('hint2:'))
+                print(f"  L{block['line']}: Added {added_count} bytes ({total_added} fields total so far)")
 
             # Replace in the full content with offset
             old_start = block['start'] + offset
@@ -153,7 +173,7 @@ def process_file(filepath):
     if total_added > 0:
         with open(filepath, 'w') as f:
             f.write(modified_content)
-        print(f"  ✅ Saved {filepath.name} ({total_added} field(s) added)")
+        print(f"  ✅ Saved {filepath.name}")
     else:
         print(f"  ✅ {filepath.name} is complete")
 
