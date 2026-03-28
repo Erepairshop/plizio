@@ -2128,6 +2128,95 @@ export const RECHT2_LABELS: Record<string, Record<string, string>> = {
     t7_h2: "Die Biene (ie!) fliegt (ie!).",
     t7_f1: "Die", t7_f2: "Biene", t7_f3: "fliegt", t7_f4: "schnell.",
     // Quiz: GENERATOR (nomen_k2)
+
+    // T8: Umlaut - ä, ö, ü
+    t8_title: "Umlaute im Wort",
+    t8_text: "Umlaute sind spezielle Buchstaben: ä, ö, ü. Sie klingen anders und sehen anders aus! Äpfel hat einen Umlaut.",
+    t8_b1: "Umlaute: ä, ö, ü.",
+    t8_b2: "Sie verändern den Klang.",
+    t8_inst: "Finde das Wort mit Umlaut!",
+    t8_h1: "Suche das Wort mit Pünktchen.",
+    t8_h2: "Äpfel, Körbchen, Müller haben Umlaute.",
+    t8_w1: "Äpfel", t8_w2: "Apfel", t8_w3: "Apel", t8_w4: "Appel",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T9: ß oder ss?
+    t9_title: "Das Eszett (ß)",
+    t9_text: "ß ist ein spezieller Buchstabe für das scharfe S. Es heißt 'Eszett'. Nach einem langen Vokal schreiben wir ß, nicht ss.",
+    t9_b1: "ß nach langem Vokal (Straße).",
+    t9_b2: "ss nach kurzem Vokal (Klasse).",
+    t9_inst: "Welches Wort hat 'ß'?",
+    t9_h1: "Das 'a' in Straße ist lang.",
+    t9_h2: "Straße hat ß, Klasse hat ss.",
+    t9_w1: "Straße", t9_w2: "Klasse", t9_w3: "Essen", t9_w4: "Spiel",
+    // Quiz: MANUAL
+    t9_q: "Wann schreiben wir 'ß'?",
+    t9_qa: "Nach langem Vokal", t9_qb: "Nach kurzem Vokal", t9_qc: "Am Wortanfang", t9_qd: "Immer zwischen Vokalen",
+
+    // T10: -ig oder -lich?
+    t10_title: "Wort-Enden: -ig oder -lich?",
+    t10_text: "Manche Adjektive enden auf -ig (mutig, lustig) und manche auf -lich (freundlich, endlich). Das verändert die Bedeutung!",
+    t10_b1: "Adjektive enden auf -ig oder -lich.",
+    t10_inst: "Welche Endung passt?",
+    t10_h1: "Das Wort bedeutet 'voll Mut'.",
+    t10_h2: "mutig = voll von Mut, freundlich = auf freundliche Weise.",
+    t10_sent: "Der Hund ist sehr ___.",
+    t10_c1: "igend", t10_c2: "ig", t10_c3: "lich", t10_c4: "ling",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T11: -isch (Adjektive)
+    t11_title: "Wörter mit -isch",
+    t11_text: "Wenn wir ein Nomen in ein Adjektiv verwandeln, benutzen wir oft -isch. Deutschland wird zu deutsch!",
+    t11_b1: "Nomen + -isch = Adjektiv.",
+    t11_inst: "Welches Wort ist das Adjektiv?",
+    t11_h1: "Das Gegenteil von 'einfach' ist kompliziert.",
+    t11_h2: "England -> englisch. Deutsch -> deutsches Land.",
+    t11_w1: "englisch", t11_w2: "England", t11_w3: "Englisch", t11_w4: "Engländer",
+    // Quiz: MANUAL
+    t11_q: "Welches Nomen passt zu 'italienisch'?",
+    t11_qa: "Italien", t11_qb: "Italiener", t11_qc: "Italien", t11_qd: "Italik",
+
+    // T12: ch am Wort-Anfang
+    t12_title: "Das 'ch' am Anfang",
+    t12_text: "Das 'ch' am Wort-Anfang klingt hart wie in 'Chemie'. Das ist anders als 'ch' in der Mitte wie in 'Macher'.",
+    t12_b1: "ch am Anfang: hart (Chemie, China).",
+    t12_inst: "Welches Wort beginnt mit 'Ch'?",
+    t12_h1: "Hörst du das harte Ch?",
+    t12_h2: "Chemie, China, Charakter beginnen mit Ch.",
+    t12_w1: "Chemie", t12_w2: "Machine", t12_w3: "Macht", t12_w4: "Nacht",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T13: Doppelvokale
+    t13_title: "Doppelvokale (aa, ee, oo)",
+    t13_text: "Wenn ein Vokal verdoppelt wird, ist er lang! Aas, Tee, Boot haben doppelte Vokale.",
+    t13_b1: "Doppelvokal = langer Vokal.",
+    t13_inst: "Finde das Wort mit Doppelvokal!",
+    t13_h1: "Sprich langsam: Teeee, Boooot.",
+    t13_h2: "Tee und Boot haben doppelte Vokale.",
+    t13_w1: "Tee", t13_w2: "Tal", t13_w3: "Tag", t13_w4: "Tau",
+    // Quiz: MANUAL
+    t13_q: "Welches Wort hat einen Doppelvokal?",
+    t13_qa: "Boot", t13_qb: "Ort", t13_qc: "Wald", t13_qd: "Luft",
+
+    // T14: Wort-Ende -heit
+    t14_title: "Die Silbe -heit",
+    t14_text: "Mit -heit können wir Adjektive in Nomen verwandeln. Schön wird Schönheit, schnell wird Schnellheit.",
+    t14_b1: "Adjektiv + -heit = Nomen.",
+    t14_inst: "Welches Wort passt zu 'Wahrheit'?",
+    t14_h1: "Das Gegenteil von Lüge ist Wahrheit.",
+    t14_h2: "Wahr -> Wahrheit. Schön -> Schönheit.",
+    t14_w1: "Wahrheit", t14_w2: "Wahr", t14_w3: "Wahre", t14_w4: "Wahrlich",
+    // Quiz: GENERATOR (nomen_k2)
+
+    // T15: Gemischte Rechtschreibung
+    t15_title: "Der groe Rechtschreib-Mix",
+    t15_text: "Du brauchst alles: ck, tz, ie, ei, Umlaute, Doppelkonsonanten. Das ist die große Prüfung!",
+    t15_b1: "Alle Regeln zusammen.",
+    t15_inst: "Welches Wort ist richtig geschrieben?",
+    t15_h1: "Überlege: Kurzer vagy langer Vokal? Welche Regel?",
+    t15_h2: "Nicht alles ist einfach - aber du kannst es!",
+    t15_w1: "Glück", t15_w2: "Gluk", t15_w3: "Glükk", t15_w4: "Glück",
+    // Quiz: GENERATOR (verben_k2)
   }
 };
 
@@ -2248,6 +2337,136 @@ export const RECHT2_POOL: PoolTopicDef[] = [
       instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2",
     },
     quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 8. Umlaute (highlight-text) ────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "text-bubbles", items: [ { text: "ä", emoji: "🍎", color: "#DC2626", bg: "#FEE2E2" }, { text: "ö", emoji: "🧀", color: "#EA580C", bg: "#FFEDD5" }, { text: "ü", emoji: "🛋️", color: "#7C3AED", bg: "#F3E8FF" } ] },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [0], // Äpfel
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 9. ß oder ss? (gap-fill) ────────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["ß", "ss"]], color: "#0EA5E9" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t9_sent",
+      choices: ["t9_c1", "t9_c2", "t9_c3", "t9_c4"],
+      correctIndex: 0,
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { question: "t9_q", choices: ["t9_qa","t9_qb","t9_qc","t9_qd"], answer: "t9_qa" },
+  },
+
+  // ── 10. -ig oder -lich? (match-pairs) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "two-groups", left: { items: ["-ig"], bg: "#FED7AA", border: "#D97706" }, right: { items: ["-lich"], bg: "#C7D2FE", border: "#4F46E5" } },
+    bulletKeys: ["t10_b1"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 1,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 11. -isch (highlight-text) ─────────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "word-display", word: "englisch", highlightChars: ["-isch"], color: "#10B981" },
+    bulletKeys: ["t11_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t11_w1", "t11_w2", "t11_w3", "t11_w4"],
+      correctIndices: [0], // englisch
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { question: "t11_q", choices: ["t11_qa","t11_qb","t11_qc","t11_qd"], answer: "t11_qa" },
+  },
+
+  // ── 12. Ch am Anfang (drag-to-bucket) ────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "two-groups", left: { items: ["Ch"], bg: "#FCA5A5", border: "#DC2626" }, right: { items: ["ch"], bg: "#86EFAC", border: "#22C55E" } },
+    bulletKeys: ["t12_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t12_w1", "t12_w2", "t12_w3", "t12_w4"],
+      correctIndices: [0], // Chemie
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 13. Doppelvokale (gap-fill) ────────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "aa", color: "#3B82F6", bg: "#DBEAFE" }, { text: "ee", color: "#8B5CF6", bg: "#F3E8FF" }, { text: "oo", color: "#0EA5E9", bg: "#E0F2FE" } ] },
+    bulletKeys: ["t13_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t13_w1", "t13_w2", "t13_w3", "t13_w4"],
+      correctIndices: [0], // Tee
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { question: "t13_q", choices: ["t13_qa","t13_qb","t13_qc","t13_qd"], answer: "t13_qa" },
+  },
+
+  // ── 14. -heit (word-order) ─────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "compound-word", word1: "Schön", word2: "heit", result: "Schönheit", color: "#EC4899" },
+    bulletKeys: ["t14_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t14_w1", "t14_w2", "t14_w3", "t14_w4"],
+      correctIndices: [0], // Wahrheit
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nomen_k2" },
+  },
+
+  // ── 15. Großer Mix (sentence-build) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "icon-grid", items: [{ emoji: "🎓", label: "Prüfung" }, { emoji: "✅", label: "Erfolg" }] },
+    bulletKeys: ["t15_b1"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t15_w1", "t15_w2", "t15_w3", "t15_w4"],
+      correctIndices: [0, 3], // Glück (appears in position 0 and 3 is same, pick 0)
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "verben_k2" },
   },
 ];
 
