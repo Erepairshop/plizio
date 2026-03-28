@@ -32,15 +32,15 @@ interface IslandConfig {
 }
 
 const ISLAND_CONFIG: Record<string, IslandConfig> = {
-  i1: { pool: NOMEN_POOL,    labels: NOMEN_LABELS,    title: "explorer_title", icon: "🏷️", mix: { easy: 2, medium: 2, hard: 1 } },
-  i2: { pool: VERB_POOL,     labels: VERB_LABELS,     title: "explorer_title", icon: "🏃", mix: { easy: 2, medium: 2, hard: 1 } },
-  i3: { pool: ADJEKTIV_POOL, labels: ADJEKTIV_LABELS, title: "explorer_title", icon: "🎨", mix: { easy: 2, medium: 2, hard: 1 } },
-  i4: { pool: SATZART_POOL,  labels: SATZART_LABELS,  title: "explorer_title", icon: "❓", mix: { easy: 2, medium: 2, hard: 1 } },
-  i5: { pool: GROSS_POOL,    labels: GROSS_LABELS,    title: "explorer_title", icon: "🅰️", mix: { easy: 2, medium: 2, hard: 1 } },
-  i6: { pool: RECHT1_POOL,   labels: RECHT1_LABELS,   title: "explorer_title", icon: "✍️", mix: { easy: 2, medium: 2, hard: 1 } },
-  i7: { pool: RECHT2_POOL,   labels: RECHT2_LABELS,   title: "explorer_title", icon: "🔡", mix: { easy: 2, medium: 2, hard: 1 } },
-  i8: { pool: WORTFELD_POOL, labels: WORTFELD_LABELS, title: "explorer_title", icon: "🌍", mix: { easy: 2, medium: 2, hard: 1 } },
-  i9: { pool: EXAM2_POOL,    labels: EXAM2_LABELS,    title: "explorer_title", icon: "🏆", mix: { easy: 2, medium: 2, hard: 1 } },
+  i1: { pool: NOMEN_POOL,    labels: NOMEN_LABELS,    title: "explorer_title", icon: "🏷️" },
+  i2: { pool: VERB_POOL,     labels: VERB_LABELS,     title: "explorer_title", icon: "🏃" },
+  i3: { pool: ADJEKTIV_POOL, labels: ADJEKTIV_LABELS, title: "explorer_title", icon: "🎨" },
+  i4: { pool: SATZART_POOL,  labels: SATZART_LABELS,  title: "explorer_title", icon: "❓" },
+  i5: { pool: GROSS_POOL,    labels: GROSS_LABELS,    title: "explorer_title", icon: "🅰️" },
+  i6: { pool: RECHT1_POOL,   labels: RECHT1_LABELS,   title: "explorer_title", icon: "✍️" },
+  i7: { pool: RECHT2_POOL,   labels: RECHT2_LABELS,   title: "explorer_title", icon: "🔡" },
+  i8: { pool: WORTFELD_POOL, labels: WORTFELD_LABELS, title: "explorer_title", icon: "🌍" },
+  i9: { pool: EXAM2_POOL,    labels: EXAM2_LABELS,    title: "explorer_title", icon: "🏆" },
 };
 
 interface Props {

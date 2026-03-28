@@ -29,15 +29,15 @@ interface IslandConfig {
 }
 
 const ISLAND_CONFIG: Record<string, IslandConfig> = {
-  i1: { pool: ADJEKTIV5_POOL,   labels: ADJEKTIV5_LABELS,   title: "explorer_title", icon: "📊", mix: { easy: 2, medium: 2, hard: 1 } },
-  i2: { pool: PRONOMEN_POOL,    labels: PRONOMEN_LABELS,    title: "explorer_title", icon: "👤", mix: { easy: 2, medium: 2, hard: 1 } },
-  i3: { pool: PRAEP_POOL,       labels: PRAEP_LABELS,       title: "explorer_title", icon: "🔗", mix: { easy: 2, medium: 2, hard: 1 } },
-  i4: { pool: SATZGLIED5_POOL,  labels: SATZGLIED5_LABELS,  title: "explorer_title", icon: "🔬", mix: { easy: 2, medium: 2, hard: 1 } },
-  i5: { pool: ZEICHEN5_POOL,    labels: ZEICHEN5_LABELS,    title: "explorer_title", icon: "📌", mix: { easy: 2, medium: 2, hard: 1 } },
-  i6: { pool: PARTIZIP_POOL,    labels: PARTIZIP_LABELS,    title: "explorer_title", icon: "📜", mix: { easy: 2, medium: 2, hard: 1 } },
-  i7: { pool: PASSIV_POOL,      labels: PASSIV_LABELS,      title: "explorer_title", icon: "🔄", mix: { easy: 2, medium: 2, hard: 1 } },
-  i8: { pool: WORTSCHATZ5_POOL, labels: WORTSCHATZ5_LABELS, title: "explorer_title", icon: "📚", mix: { easy: 2, medium: 2, hard: 1 } },
-  i9: { pool: EXAM5_POOL,       labels: EXAM5_LABELS,       title: "explorer_title", icon: "🌟", mix: { easy: 2, medium: 2, hard: 1 } },
+  i1: { pool: ADJEKTIV5_POOL,   labels: ADJEKTIV5_LABELS,   title: "explorer_title", icon: "📊" },
+  i2: { pool: PRONOMEN_POOL,    labels: PRONOMEN_LABELS,    title: "explorer_title", icon: "👤" },
+  i3: { pool: PRAEP_POOL,       labels: PRAEP_LABELS,       title: "explorer_title", icon: "🔗" },
+  i4: { pool: SATZGLIED5_POOL,  labels: SATZGLIED5_LABELS,  title: "explorer_title", icon: "🔬" },
+  i5: { pool: ZEICHEN5_POOL,    labels: ZEICHEN5_LABELS,    title: "explorer_title", icon: "📌" },
+  i6: { pool: PARTIZIP_POOL,    labels: PARTIZIP_LABELS,    title: "explorer_title", icon: "📜" },
+  i7: { pool: PASSIV_POOL,      labels: PASSIV_LABELS,      title: "explorer_title", icon: "🔄" },
+  i8: { pool: WORTSCHATZ5_POOL, labels: WORTSCHATZ5_LABELS, title: "explorer_title", icon: "📚" },
+  i9: { pool: EXAM5_POOL,       labels: EXAM5_LABELS,       title: "explorer_title", icon: "🌟" },
 };
 
 interface Props {

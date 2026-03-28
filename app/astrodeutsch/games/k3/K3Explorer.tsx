@@ -29,15 +29,15 @@ interface IslandConfig {
 }
 
 const ISLAND_CONFIG: Record<string, IslandConfig> = {
-  i1: { pool: PLURAL_POOL,    labels: PLURAL_LABELS,    title: "explorer_title", icon: "📚", mix: { easy: 2, medium: 2, hard: 1 } },
-  i2: { pool: VERB3_POOL,     labels: VERB3_LABELS,     title: "explorer_title", icon: "⚡", mix: { easy: 2, medium: 2, hard: 1 } },
-  i3: { pool: STEIGER_POOL,   labels: STEIGER_LABELS,   title: "explorer_title", icon: "🎭", mix: { easy: 2, medium: 2, hard: 1 } },
-  i4: { pool: SATZGLIED_POOL, labels: SATZGLIED_LABELS, title: "explorer_title", icon: "🔍", mix: { easy: 2, medium: 2, hard: 1 } },
-  i5: { pool: ZEITFORM_POOL,  labels: ZEITFORM_LABELS,  title: "explorer_title", icon: "⏳", mix: { easy: 2, medium: 2, hard: 1 } },
-  i6: { pool: VERGANGEN_POOL, labels: VERGANGEN_LABELS, title: "explorer_title", icon: "💬", mix: { easy: 2, medium: 2, hard: 1 } },
-  i7: { pool: SCHREIB_POOL,   labels: SCHREIB_LABELS,   title: "explorer_title", icon: "✍️", mix: { easy: 2, medium: 2, hard: 1 } },
-  i8: { pool: ZEICHEN_POOL,   labels: ZEICHEN_LABELS,   title: "explorer_title", icon: "📌", mix: { easy: 2, medium: 2, hard: 1 } },
-  i9: { pool: EXAM3_POOL,     labels: EXAM3_LABELS,     title: "explorer_title", icon: "🌟", mix: { easy: 2, medium: 2, hard: 1 } },
+  i1: { pool: PLURAL_POOL,    labels: PLURAL_LABELS,    title: "explorer_title", icon: "📚" },
+  i2: { pool: VERB3_POOL,     labels: VERB3_LABELS,     title: "explorer_title", icon: "⚡" },
+  i3: { pool: STEIGER_POOL,   labels: STEIGER_LABELS,   title: "explorer_title", icon: "🎭" },
+  i4: { pool: SATZGLIED_POOL, labels: SATZGLIED_LABELS, title: "explorer_title", icon: "🔍" },
+  i5: { pool: ZEITFORM_POOL,  labels: ZEITFORM_LABELS,  title: "explorer_title", icon: "⏳" },
+  i6: { pool: VERGANGEN_POOL, labels: VERGANGEN_LABELS, title: "explorer_title", icon: "💬" },
+  i7: { pool: SCHREIB_POOL,   labels: SCHREIB_LABELS,   title: "explorer_title", icon: "✍️" },
+  i8: { pool: ZEICHEN_POOL,   labels: ZEICHEN_LABELS,   title: "explorer_title", icon: "📌" },
+  i9: { pool: EXAM3_POOL,     labels: EXAM3_LABELS,     title: "explorer_title", icon: "🌟" },
 };
 
 interface Props {
