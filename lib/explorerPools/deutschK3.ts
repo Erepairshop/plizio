@@ -1174,6 +1174,148 @@ export const STEIGER_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "adjektive_gegenteil" },
   },
+
+  // ── 8. Adjektive vergleichen (gap-fill) ───────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "two-groups", left: { items: ["Berg", "Haus"], bg: "#DBEAFE", border: "#3B82F6" }, right: { items: ["höher", "tiefer"], bg: "#FEE2E2", border: "#EF4444" } },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t8_sent8",
+      choices: ["t8_c8_1", "t8_c8_2", "t8_c8_3", "t8_c8_4"],
+      correctIndex: 0,
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 9. Umlaute in Steigerung (match-pairs) ────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "letter-pairs", pairs: [["alt→älter", "ä"], ["groß→größer", "ö"]], color: "#8B5CF6" },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_l1", right: "t9_r1" },
+        { left: "t9_l2", right: "t9_r2" },
+        { left: "t9_l3", right: "t9_r3" },
+        { left: "t9_l4", right: "t9_r4" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 10. Superlativ-Formen (gap-fill) ───────────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🏆", title: "am schnellsten!", bg: "#FEF3C7" },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent10",
+      choices: ["t10_c10_1", "t10_c10_2", "t10_c10_3", "t10_c10_4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 11. Endungen richtig (match-pairs) ──────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "letter-pairs", pairs: [["1. Stufe", "-er"], ["2. Stufe", "-st/-est"]], color: "#10B981" },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t11_l1", right: "t11_r1" },
+        { left: "t11_l2", right: "t11_r2" },
+        { left: "t11_l3", right: "t11_r3" },
+        { left: "t11_l4", right: "t11_r4" },
+      ],
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 12. Besondere Adjektive (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "word-display", word: "hoch→höher", highlightChars: ["h", "ö"], color: "#EC4899" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t12_sent12",
+      choices: ["t12_c12_1", "t12_c12_2", "t12_c12_3", "t12_c12_4"],
+      correctIndex: 0,
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 13. Negative Steigerung (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "text-bubbles", items: [ { text: "weniger groß", color: "#1D4ED8", bg: "#DBEAFE" } ] },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t13_sent13",
+      choices: ["t13_c13_1", "t13_c13_2", "t13_c13_3", "t13_c13_4"],
+      correctIndex: 0,
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 14. Je...desto Sätze (gap-fill) ────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "📈", title: "Je...desto", bg: "#E0F2FE" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent14",
+      choices: ["t14_c14_1", "t14_c14_2", "t14_c14_3", "t14_c14_4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
+
+  // ── 15. Steigerungs-Profi (gap-fill) ───────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent15",
+      choices: ["t15_c15_1", "t15_c15_2", "t15_c15_3", "t15_c15_4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "adjektive_gegenteil" },
+  },
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i4 — Satzgliederinsel

@@ -306,6 +306,142 @@ export const KASUS_POOL: PoolTopicDef[] = [
     },
     quiz: { generate: "akkusativ" },
   },
+
+  // ── 8. Dativ-Einführung (highlight-text) ──────────────────── easy ──
+  {
+    difficulty: "easy",
+    infoTitle: "t8_title",
+    infoText: "t8_text",
+    svg: { type: "article-noun", article: "Dem", articleColor: "#8B5CF6", noun: "Kind", emoji: "👶" },
+    bulletKeys: ["t8_b1", "t8_b2"],
+    interactive: {
+      type: "highlight-text",
+      tokens: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
+      correctIndices: [2], // dem Kind
+      instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2",
+    },
+    quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+  },
+
+  // ── 9. Dativ-Artikel (match-pairs) ───────────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t9_title",
+    infoText: "t9_text",
+    svg: { type: "text-bubbles", items: [{ text: "dem/der/dem", color: "#8B5CF6", bg: "#EDE9FE" }] },
+    bulletKeys: ["t9_b1", "t9_b2"],
+    interactive: {
+      type: "match-pairs",
+      pairs: [
+        { left: "t9_l1", right: "t9_r1" },
+        { left: "t9_l2", right: "t9_r2" },
+        { left: "t9_l3", right: "t9_r3" },
+        { left: "t9_l4", right: "t9_r4" },
+      ],
+      instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 10. 3 Fälle unterscheiden (gap-fill) ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t10_title",
+    infoText: "t10_text",
+    svg: { type: "icon-grid", items: [{ emoji: "1️⃣", label: "Wer?" }, { emoji: "2️⃣", label: "Wen?" }, { emoji: "3️⃣", label: "Wem?" }] },
+    bulletKeys: ["t10_b1", "t10_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t10_sent",
+      choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"],
+      correctIndex: 0,
+      instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 11. Präpositionen mit Dativ (gap-fill) ────────────────── medium ──
+  {
+    difficulty: "medium",
+    infoTitle: "t11_title",
+    infoText: "t11_text",
+    svg: { type: "letter-pairs", pairs: [["mit", "Dativ"], ["zu", "Dativ"], ["nach", "Dativ"]], color: "#10B981" },
+    bulletKeys: ["t11_b1", "t11_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t11_sent2",
+      choices: ["t11_c2_1", "t11_c2_2", "t11_c2_3", "t11_c2_4"],
+      correctIndex: 2,
+      instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 12. Dativ im Satz (sentence-build) ────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t12_title",
+    infoText: "t12_text",
+    svg: { type: "simple-icon", icon: "👤➔👤", title: "Dativ-Objekt", bg: "#E0F2FE" },
+    bulletKeys: ["t12_b1", "t12_b2"],
+    interactive: {
+      type: "sentence-build",
+      fragments: ["t12_f4", "t12_f3", "t12_f1", "t12_f2"],
+      instruction: "t12_inst", hint1: "t12_h1", hint2: "t12_h2",
+    },
+    quiz: { generate: "dativ" },
+  },
+
+  // ── 13. Genitiv-Einführung (gap-fill) ──────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t13_title",
+    infoText: "t13_text",
+    svg: { type: "word-display", word: "Wessen?", highlightChars: ["W", "e", "s", "s", "e", "n"], color: "#EC4899" },
+    bulletKeys: ["t13_b1", "t13_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t13_sent3",
+      choices: ["t13_c3_1", "t13_c3_2", "t13_c3_3", "t13_c3_4"],
+      correctIndex: 0,
+      instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2",
+    },
+    quiz: { generate: "genitiv" },
+  },
+
+  // ── 14. Alle 4 Fälle zusammen (gap-fill) ──────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t14_title",
+    infoText: "t14_text",
+    svg: { type: "simple-icon", icon: "1️⃣2️⃣3️⃣4️⃣", title: "4 Fälle", bg: "#FEFCE8" },
+    bulletKeys: ["t14_b1", "t14_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t14_sent4",
+      choices: ["t14_c4_1", "t14_c4_2", "t14_c4_3", "t14_c4_4"],
+      correctIndex: 0,
+      instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2",
+    },
+    quiz: { generate: "nominativ" },
+  },
+
+  // ── 15. Kasus-Profi (gap-fill) ────────────────────────────── hard ──
+  {
+    difficulty: "hard",
+    infoTitle: "t15_title",
+    infoText: "t15_text",
+    svg: { type: "simple-icon", icon: "🌟⭐✨", title: "Profi!", bg: "#FEFCE8" },
+    bulletKeys: ["t15_b1", "t15_b2"],
+    interactive: {
+      type: "gap-fill",
+      sentence: "t15_sent5",
+      choices: ["t15_c5_1", "t15_c5_2", "t15_c5_3", "t15_c5_4"],
+      correctIndex: 0,
+      instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2",
+    },
+    quiz: { generate: "genitiv" },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
