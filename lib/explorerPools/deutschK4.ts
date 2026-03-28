@@ -190,6 +190,95 @@ export const KASUS_LABELS: Record<string, Record<string, string>> = {
     t7_nom: "Nominativ",
     t7_m1: "den Ball", t7_m2: "den Brief", t7_m3: "der Hund", t7_m4: "das Haus (Akk)",
     // Quiz: GENERATOR (akkusativ)
+
+    // T8: Dativ-Einführung
+    t8_title: "Der Dativ (3. Fall)",
+    t8_text: "Der Dativ ist der 3. Fall. Wir fragen: Wem? Er zeigt an, wer von einer Handlung betroffen ist. Die Artikel: dem (mask./neut.), der (fem.), den+n (Plural).",
+    t8_b1: "Frage: Wem?",
+    t8_b2: "dem Hund, der Katze, dem Kind",
+    t8_inst: "Finde das Dativ-Objekt!",
+    t8_h1: "Frage: Wem gibt er das Buch?",
+    t8_h2: "'dem Kind' ist der Dativ.",
+    t8_w1: "Er", t8_w2: "gibt", t8_w3: "dem Kind", t8_w4: "das Buch",
+    t8_q: "Wie fragen wir nach dem Dativ-Objekt?",
+    t8_qa: "Wem?", t8_qb: "Wen?", t8_qc: "Wer?", t8_qd: "Wessen?",
+
+    // T9: Dativ-Artikel (match-pairs)
+    t9_title: "Dativ-Artikel",
+    t9_text: "Im Dativ verändern sich die Artikel: der Hund → dem Hund, die Katze → der Katze, das Kind → dem Kind, die Bücher → den Büchern. Merke: dem/der/dem/den!",
+    t9_b1: "Maskulin/Neutrum: dem",
+    t9_b2: "Feminin: der — Plural: den+n",
+    t9_inst: "Verbinde Nominativ mit Dativ!",
+    t9_h1: "Achte auf den Artikel: der→dem, die→der, das→dem",
+    t9_h2: "der Hund → dem Hund",
+    t9_l1: "der Hund", t9_r1: "dem Hund",
+    t9_l2: "die Katze", t9_r2: "der Katze",
+    t9_l3: "das Kind", t9_r3: "dem Kind",
+    t9_l4: "die Bücher", t9_r4: "den Büchern",
+
+    // T10: 3 Fälle unterscheiden (gap-fill)
+    t10_title: "Drei Fälle zusammen",
+    t10_text: "Jetzt kennst du drei Fälle: Nominativ (Wer?), Akkusativ (Wen?) und Dativ (Wem?). Übung macht den Meister!",
+    t10_b1: "Nom → Wer?, Akk → Wen?, Dat → Wem?",
+    t10_b2: "der/die/das → den/die/das → dem/der/dem",
+    t10_inst: "Welcher Artikel passt?",
+    t10_h1: "Frage: Wem schenkt sie das Buch?",
+    t10_h2: "Wem? = Dativ → dem Bruder",
+    t10_sent: "Sie schenkt ___ Bruder ein Buch.",
+    t10_c1: "dem", t10_c2: "den", t10_c3: "der", t10_c4: "des",
+
+    // T11: Präpositionen mit Dativ (gap-fill)
+    t11_title: "Präpositionen mit Dativ",
+    t11_text: "Bestimmte Präpositionen verlangen immer den Dativ: mit, nach, seit, von, bei, aus, zu, gegenüber. Merke: Diese Wörter = immer Dativ danach!",
+    t11_b1: "mit, nach, seit, von, bei, aus, zu",
+    t11_b2: "Diese Präpositionen = immer Dativ!",
+    t11_inst: "Welche Dativ-Präposition passt?",
+    t11_h1: "Denk: Welche Präposition passt inhaltlich?",
+    t11_h2: "Er kommt MIT seinem Freund.",
+    t11_c2_1: "nach", t11_c2_2: "für", t11_c2_3: "mit", t11_c2_4: "durch",
+
+    // T12: Dativ im Satz (sentence-build)
+    t12_title: "Dativ im Satz",
+    t12_text: "Ein typischer Satz hat Nominativ (Subjekt), Verb, Dativ-Objekt (Wem?), Akkusativ-Objekt (Wen?). Zum Beispiel: Der Lehrer erklärt dem Schüler den Stoff.",
+    t12_b1: "Subjekt + Verb + Dativ + Akkusativ",
+    t12_b2: "Wem? kommt vor Wen?",
+    t12_inst: "Bringe den Satz in die richtige Reihenfolge!",
+    t12_h1: "Wer? (Nom) zuerst, dann Verb, dann Wem? (Dat), dann Wen? (Akk)",
+    t12_h2: "Die Mutter liest dem Kind das Buch.",
+    t12_f1: "Die Mutter", t12_f2: "liest", t12_f3: "das Buch.", t12_f4: "dem Kind",
+
+    // T13: Genitiv-Einführung (gap-fill)
+    t13_title: "Der Genitiv (2. Fall)",
+    t13_text: "Der Genitiv ist der 2. Fall. Wir fragen: Wessen? Er zeigt Besitz an. Die Artikel: des (mask./neut.+n/s), der (fem./Plural). Zum Beispiel: das Buch des Mannes.",
+    t13_b1: "Frage: Wessen?",
+    t13_b2: "des Mannes, der Frau, des Kindes",
+    t13_inst: "Welcher Genitiv-Artikel passt?",
+    t13_h1: "Wessen Buch ist das? Das Buch des Mannes.",
+    t13_h2: "Maskulin: des ... Feminin: der",
+    t13_sent3: "Das ist das Auto ___ Mannes.",
+    t13_c3_1: "des", t13_c3_2: "dem", t13_c3_3: "den", t13_c3_4: "der",
+
+    // T14: Alle 4 Fälle zusammen (gap-fill)
+    t14_title: "Alle 4 Fälle",
+    t14_text: "Jetzt kennst du alle vier Fälle! Nominativ (Wer?), Akkusativ (Wen?), Dativ (Wem?), Genitiv (Wessen?). Jeder Fall hat seine eigene Frage und Artikel.",
+    t14_b1: "4 Fälle: Nom, Akk, Dat, Gen",
+    t14_b2: "Fragen: Wer? Wen? Wem? Wessen?",
+    t14_inst: "Welcher Artikel ist richtig?",
+    t14_h1: "Frage: Wem bringt er das Geschenk?",
+    t14_h2: "Wem? = Dativ → dem",
+    t14_sent4: "Er bringt ___ Freund ein Geschenk.",
+    t14_c4_1: "dem", t14_c4_2: "der", t14_c4_3: "den", t14_c4_4: "des",
+
+    // T15: Kasus-Profi (gap-fill)
+    t15_title: "Kasus-Profi!",
+    t15_text: "Du beherrschst alle vier Fälle! Ob Nominativ, Akkusativ, Dativ oder Genitiv — du weißt, welcher Artikel wo stehen muss.",
+    t15_b1: "Alle 4 Fälle sicher beherrscht",
+    t15_b2: "Artikel + Fälle = kein Problem!",
+    t15_inst: "Wähle den richtigen Genitiv-Artikel!",
+    t15_h1: "Wessen Hut ist das? = Genitiv",
+    t15_h2: "das Buch des Lehrers",
+    t15_sent5: "Das ist das Buch ___ Lehrers.",
+    t15_c5_1: "des", t15_c5_2: "dem", t15_c5_3: "den", t15_c5_4: "der",
   }
 };
 
@@ -1032,6 +1121,8 @@ export const ZEITFORM4_LABELS: Record<string, Record<string, string>> = {
     t13_h2: "Ich würde gerne..., Wenn ich Zeit hätte...",
     t13_sent2: "Wenn es regnen ___, würde ich zuhause bleiben.",
     t13_ca1: "würde", t13_ca2: "regnete", t13_ca3: "wäre", t13_ca4: "regnet",
+    t13_q: "Was beschreibt der Konjunktiv II?",
+    t13_qa: "Irreale Wünsche und Bedingungen", t13_qb: "Zukünftige Handlungen", t13_qc: "Vergangene Ereignisse", t13_qd: "Fragen",
 
     // T14: Passiv im Präsens
     t14_title: "Passiv (Wird gemacht statt macht)",
@@ -2281,6 +2372,7 @@ export const SATZART4_LABELS: Record<string, Record<string, string>> = {
     t14_h2: "Ich weiß, dass du kommst, weil du versprochen hast, dass du Zeit hast.",
     t14_q: "Wie viele Nebensätze hat dieser Satz?",
     t14_qa: "2", t14_qb: "3", t14_qc: "1", t14_qd: "4",
+    t14_sent: "Ich weiß, ___ du kommst.",
 
     // T15: Du bist ein Satzart-Profi!
     t15_title: "Du bist ein Satzart-Profi!",

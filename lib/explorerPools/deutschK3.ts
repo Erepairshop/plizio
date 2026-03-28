@@ -3230,7 +3230,7 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
     t5_inst: "Welches Satzzeichen fehlt hier?",
     t5_h1: "Nach 'Er sagt' fehlt der Doppelpunkt.",
     t5_h2: "Wähle den Doppelpunkt (:).",
-    t5_sent_r: 'Sie antwortet ___ "Ja, gerne."',
+    t5_sent_r: "Sie antwortet ___ \"Ja, gerne.\"",
     t5_cr1: ":", t5_cr2: ",", t5_cr3: ".", t5_cr4: "!",
     // Quiz: MANUAL
     t5_q: "Was umschließt das, was jemand sagt?",
