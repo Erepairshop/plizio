@@ -39,6 +39,7 @@ import {
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K5Explorer = dynamic(() => import("@/app/astrodeutsch/games/k5/K5Explorer"), { ssr: false });
 
 // ─── Category card config ─────────────────────────────────────────────────────
 const CATEGORY_CONFIG: Record<string, {
@@ -725,7 +726,7 @@ export default function AstroDeutschK5Page() {
           <SpellRace color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={5} onDone={handleMissionDone} />
+          <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>

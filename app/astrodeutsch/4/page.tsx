@@ -25,6 +25,7 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
+const K4Explorer = dynamic(() => import("@/app/astrodeutsch/games/k4/K4Explorer"), { ssr: false });
 import GapFill from "@/app/astrodeutsch/games/GapFill";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -727,7 +728,7 @@ export default function AstroDeutschK4Page() {
           <DeutschVisualGame klasse={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "deutsch-explore" && activeIsland && (
-          <DeutschExplore island={activeIsland} grade={4} onDone={handleMissionDone} />
+          <K4Explorer island={activeIsland} grade={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "gap-fill" && (
           <GapFill color={bgColor} lang={lang} onDone={handleMissionDone} />

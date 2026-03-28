@@ -1410,6 +1410,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
                           items={inter.items.map((item, idx) => ({ id: String(idx), text: L(item.text), bucketId: item.bucketId }))}
                           onComplete={() => handleTopicInteractiveDone(true)}
+                          lang={langCode}
                         />
                       );
                     }
@@ -1422,6 +1423,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       return (
                         <PhysicsMagnetGame
                           pairs={magnetPairs}
+                          lang={langCode}
                           onComplete={() => handleTopicInteractiveDone(true)}
                         />
                       );

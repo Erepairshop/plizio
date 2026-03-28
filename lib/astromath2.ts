@@ -29,7 +29,7 @@ export const G2_CHECKPOINT_MAP: Record<string, string[]> = {
 export const G2_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: ["g2_zahlen100", "g2_stellenwert", "g2_compare", "g2_add_kopf", "g2_sub_kopf", "g2_add_ohne"],
   test2: ["g2_sub_ohne", "g2_add_mit", "g2_sub_mit", "g2_missing_add", "g2_missing"],
-  test3: ["g2_mul_simple", "g2_div_simple", "g2_word_add", "g2_word_sub", "g2_length", "g2_time"],
+  test3: ["g2_mul_simple", "g2_div_simple", "g2_word_add", "g2_word_sub", "g2_length", "g2_clock"],
 };
 
 // ─── Island Definitions ───────────────────────────────────────────────────────
@@ -136,7 +136,7 @@ export const G2_ISLANDS: IslandDef[] = [
     id: "i9",
     name: { en: "Measurement & Word Problems", hu: "Mérés & Szöveges feladatok", de: "Messen & Sachaufgaben", ro: "Măsurare & Probleme" },
     icon: "📏", color: "#E879F9", sortRange: [1, 100],
-    topicKeys: ["g2_word_add", "g2_word_sub", "g2_length", "g2_time", "g2_weights"],
+    topicKeys: ["g2_word_add", "g2_word_sub", "g2_length", "g2_clock", "g2_weight"],
     missions: [
       { id: "m1", category: "explore",   gameType: "g2-measurement", icon: "🔍", label: { en: "Discover Measurement", hu: "Mérések felfedezése",    de: "Messen entdecken",    ro: "Descoperă măsurarea"  } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",            hu: "Csillagpárosítás",       de: "Sternenpaare",        ro: "Perechi stele"        } },

@@ -12,6 +12,8 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 
 import type { DeutschQuestion } from "./deutschCurriculum";
+import { getDeutschQuestions } from "./deutschCurriculum";
+import { getEnglishQuestions } from "./englishCurriculum";
 
 // ─── HILFSFUNKTIONEN ──────────────────────────────────────────────────────────
 
@@ -183,7 +185,20 @@ const SYNONYME: { w: string; syn: string; f1: string; f2: string }[] = [
   { w: "helfen",   syn: "unterstützen", f1: "behindern", f2: "schaden"  },
   { w: "wütend",   syn: "zornig",       f1: "fröhlich",  f2: "ruhig"    },
   { w: "schauen",  syn: "blicken",      f1: "hören",     f2: "riechen"  },
-  // TODO: add more ↓
+  { w: "traurig",  syn: "betrübt",      f1: "fröhlich",  f2: "müde"     },
+  { w: "tapfer",   syn: "mutig",        f1: "feige",     f2: "traurig"  },
+  { w: "gehen",    syn: "laufen",       f1: "sitzen",    f2: "schlafen" },
+  { w: "kaufen",   syn: "erwerben",     f1: "verkaufen", f2: "geben"    },
+  { w: "groß",     syn: "riesig",       f1: "klein",     f2: "kurz"     },
+  { w: "lachen",   syn: "kichern",      f1: "weinen",    f2: "schlafen" },
+  { w: "alt",      syn: "betagt",       f1: "jung",      f2: "neu"      },
+  { w: "falsch",   syn: "unrichtig",    f1: "richtig",   f2: "gut"      },
+  { w: "schwierig",syn: "kompliziert",  f1: "einfach",   f2: "leicht"   },
+  { w: "freundlich",syn: "nett",        f1: "böse",      f2: "traurig"  },
+  { w: "wichtig",  syn: "bedeutsam",    f1: "unwichtig", f2: "klein"    },
+  { w: "sagen",    syn: "mitteilen",    f1: "schweigen", f2: "hören"    },
+  { w: "suchen",   syn: "fahnden",      f1: "finden",    f2: "verlieren"},
+  { w: "springen", syn: "hüpfen",       f1: "fallen",    f2: "liegen"   },
 ];
 
 // ─── K1 EXPANSION: Körperteile (Bodyparts) ─────────────────────────────────
@@ -289,7 +304,20 @@ const ANTONYME: { w: string; ant: string; f1: string; f2: string }[] = [
   { w: "kaufen",    ant: "verkaufen",   f1: "lernen",    f2: "sehen"   },
   { w: "öffnen",    ant: "schließen",   f1: "gehen",     f2: "trinken" },
   { w: "arm",       ant: "reich",       f1: "klein",     f2: "alt"     },
-  // TODO: add more ↓
+  { w: "stark",     ant: "schwach",     f1: "groß",      f2: "hart"    },
+  { w: "schnell",   ant: "langsam",     f1: "laut",      f2: "warm"    },
+  { w: "groß",      ant: "klein",       f1: "lang",      f2: "schwer"  },
+  { w: "jung",      ant: "alt",         f1: "neu",       f2: "frisch"  },
+  { w: "gut",       ant: "schlecht",    f1: "klein",     f2: "langsam" },
+  { w: "geben",     ant: "nehmen",      f1: "kaufen",    f2: "suchen"  },
+  { w: "lieben",    ant: "hassen",      f1: "mögen",     f2: "suchen"  },
+  { w: "kommen",    ant: "gehen",       f1: "laufen",    f2: "springen"},
+  { w: "antworten", ant: "fragen",      f1: "reden",     f2: "hören"   },
+  { w: "winter",    ant: "sommer",      f1: "herbst",    f2: "frühling"},
+  { w: "nördlich",  ant: "südlich",     f1: "östlich",   f2: "westlich"},
+  { w: "anfang",    ant: "ende",        f1: "mitte",     f2: "beginn"  },
+  { w: "drinnen",   ant: "draußen",     f1: "oben",      f2: "unten"   },
+  { w: "ankommen",  ant: "abfahren",    f1: "laufen",    f2: "gehen"   },
 ];
 
 // Kasus-Sätze: satz=Lückentext  kasus=Kasusname  r=richtig  f=Falschoptionen[]
@@ -305,7 +333,22 @@ const KASUS_SAETZE: { satz: string; kasus: string; r: string; f: string[] }[] = 
   { satz: "Er folgt ___ Katze.",            kasus: "Dativ",      r: "der", f: ["die", "das", "den"] },
   { satz: "___ Kind spielt im Garten.",     kasus: "Nominativ",  r: "Das", f: ["Den", "Die", "Des"] },
   { satz: "Das Auto ___ Vaters ist rot.",   kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
-  // TODO: add more ↓
+  // K2-K4 expansion: 14 neue Einträge für mehr Vielfalt
+  { satz: "Ich kaufe ___ Brot.",            kasus: "Akkusativ",  r: "das", f: ["der", "den", "dem"] },
+  { satz: "___ Lehrer erklärt die Aufgabe.",kasus: "Nominativ",  r: "Der", f: ["Den", "Dem", "Das"] },
+  { satz: "Sie spricht mit ___ Mann.",      kasus: "Dativ",      r: "dem", f: ["den", "der", "das"] },
+  { satz: "Das Buch ___ Schülers ist alt.", kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
+  { satz: "___ Katze ist schwarz.",         kasus: "Nominativ",  r: "Die", f: ["Den", "Dem", "Das"] },
+  { satz: "Ich helfe ___ Freund.",          kasus: "Dativ",      r: "dem", f: ["den", "der", "das"] },
+  { satz: "Wir sehen ___ Vogel.",           kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Das Haus ___ Familie ist groß.", kasus: "Genitiv",    r: "der", f: ["den", "dem", "des"] },
+  { satz: "___ Baum ist hoch.",             kasus: "Nominativ",  r: "Der", f: ["Den", "Dem", "Das"] },
+  { satz: "Ich gebe ___ Mädchen ein Buch.", kasus: "Dativ",      r: "dem", f: ["die", "der", "den"] },
+  { satz: "Wir essen ___ Apfel.",           kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Die Tür ___ Hauses ist blau.",   kasus: "Genitiv",    r: "des", f: ["der", "den", "dem"] },
+  { satz: "___ Hose ist rot.",              kasus: "Nominativ",  r: "Die", f: ["Den", "Dem", "Das"] },
+  { satz: "Er liest ___ Brief.",            kasus: "Akkusativ",  r: "den", f: ["der", "dem", "des"] },
+  { satz: "Wir gratulieren ___ Mutter.",    kasus: "Dativ",      r: "der", f: ["die", "den", "das"] },
 ];
 
 // Adjektiv-Gegenteilpaare für K3
@@ -323,7 +366,21 @@ const GEGENTEIL_PAARE: { w: string; g: string; f1: string; f2: string }[] = [
   { w: "schön",   g: "hässlich",  f1: "unschön",  f2: "grau"     },
   { w: "früh",    g: "spät",      f1: "pünktlich",f2: "langsam"  },
   { w: "lang",    g: "kurz",      f1: "eng",      f2: "schmal"   },
-  // TODO: add more ↓
+  // K3-K4 expansion: 13 neue Paare für mehr Vielfalt
+  { w: "hoch",    g: "tief",      f1: "oben",     f2: "unten"    },
+  { w: "dick",    g: "dünn",      f1: "fett",     f2: "mager"    },
+  { w: "oben",    g: "unten",     f1: "über",     f2: "darunter" },
+  { w: "vorne",   g: "hinten",    f1: "links",    f2: "rechts"   },
+  { w: "sauber",  g: "schmutzig", f1: "rein",     f2: "dreckig"  },
+  { w: "neu",     g: "alt",       f1: "jung",     f2: "abgenutzt"},
+  { w: "offen",   g: "geschlossen",f1:"aufs",     f2: "zu"       },
+  { w: "dünn",    g: "dick",      f1: "schlank",  f2: "breit"    },
+  { w: "süß",     g: "sauer",     f1: "bitter",   f2: "würzig"   },
+  { w: "glatt",   g: "rauh",      f1: "eben",     f2: "holprig"  },
+  { w: "arm",     g: "reich",     f1: "dürftig",  f2: "vermögend"},
+  { w: "leicht",  g: "schwer",    f1: "mühelos",  f2: "anstrengend"},
+  { w: "links",   g: "rechts",    f1: "west",     f2: "ost"      },
+  { w: "innen",   g: "außen",     f1: "drinnen",  f2: "draußen"  },
 ];
 
 // Satzzeichen-Templates für K1
@@ -338,6 +395,20 @@ const SATZZEICHEN_TEMPLATES: { satz: string; zz: string; f: string[] }[] = [
   { satz: "Ich bin müde",     zz: ".", f: ["?", "!"] },
   { satz: "Vorsicht",         zz: "!", f: [".", "?"] },
   { satz: "Wann kommst du",   zz: "?", f: [".", "!"] },
+  { satz: "Das Wetter ist toll",     zz: ".", f: ["?", "!"] },
+  { satz: "Gib mir das Buch",        zz: "!", f: [".", "?"] },
+  { satz: "Wer bist du",             zz: "?", f: [".", "!"] },
+  { satz: "Ich gehe nach Hause",     zz: ".", f: ["?", "!"] },
+  { satz: "Feuer",                   zz: "!", f: [".", "?"] },
+  { satz: "Wie alt bist du",         zz: "?", f: [".", "!"] },
+  { satz: "Das Buch ist interessant",zz: ".", f: ["?", "!"] },
+  { satz: "Halt",                    zz: "!", f: [".", "?"] },
+  { satz: "Woher kommst du",         zz: "?", f: [".", "!"] },
+  { satz: "Ich lerne Deutsch",       zz: ".", f: ["?", "!"] },
+  { satz: "Komm her",                zz: "!", f: [".", "?"] },
+  { satz: "Warum weinst du",         zz: "?", f: [".", "!"] },
+  { satz: "Die Katze schläft",       zz: ".", f: ["?", "!"] },
+  { satz: "Lass mich durch",         zz: "!", f: [".", "?"] },
   // TODO: add more ↓
 ];
 
@@ -434,19 +505,54 @@ const KONJ1: { v: string; er: string }[] = [
   { v: "wohnen",   er: "wohne"   },
   { v: "arbeiten", er: "arbeite" },
   { v: "sprechen", er: "spreche" },
-  // TODO: add more ↓
+  { v: "sagen",    er: "sage"    },
+  { v: "denken",   er: "denke"   },
+  { v: "glauben",  er: "glaube"  },
+  { v: "sehen",    er: "sehe"    },
+  { v: "hören",    er: "höre"    },
+  { v: "schreiben",er: "schreibe"},
+  { v: "kaufen",   er: "kaufe"   },
+  { v: "schlafen", er: "schlafe" },
+  { v: "helfen",   er: "helfe"   },
+  { v: "fahren",   er: "fahre"   },
+  { v: "essen",    er: "esse"    },
+  { v: "trinken",  er: "trinke"  },
+  { v: "fragen",   er: "frage"   },
+  { v: "antworten",er: "antworte"},
+  { v: "wissen",   er: "wisse"   },
+  { v: "können",   er: "könne"   },
+  { v: "müssen",   er: "müsse"   },
+  { v: "wollen",   er: "wolle"   },
+  { v: "dürfen",   er: "dürfe"   },
+  { v: "verstehen",er: "verstehe"},
+  { v: "erklären", er: "erkläre" },
+  { v: "nehmen",   er: "nehme"   },
+  { v: "bringen",  er: "bringe"  },
 ];
 
 // Passiv-Sätze für K7
 // aktiv=Ausgangssatz  passiv=richtiges Passiv  f1/f2=Falschformen
 const PASSIV_SAETZE: { aktiv: string; passiv: string; f1: string; f2: string }[] = [
-  { aktiv: "Man öffnet das Fenster.",   passiv: "Das Fenster wird geöffnet.",  f1: "Das Fenster wurde geöffnet.",  f2: "Das Fenster ist geöffnet."  },
-  { aktiv: "Man backt den Kuchen.",     passiv: "Der Kuchen wird gebacken.",   f1: "Der Kuchen wurde gebacken.",   f2: "Der Kuchen ist gebacken."   },
-  { aktiv: "Man renoviert das Haus.",   passiv: "Das Haus wird renoviert.",    f1: "Das Haus wurde renoviert.",    f2: "Das Haus ist renoviert."    },
-  { aktiv: "Man schreibt den Brief.",   passiv: "Der Brief wird geschrieben.", f1: "Der Brief wurde geschrieben.", f2: "Der Brief ist geschrieben." },
-  { aktiv: "Man liest das Buch.",       passiv: "Das Buch wird gelesen.",      f1: "Das Buch wurde gelesen.",      f2: "Das Buch ist gelesen."      },
-  { aktiv: "Man repariert das Auto.",   passiv: "Das Auto wird repariert.",    f1: "Das Auto wurde repariert.",    f2: "Das Auto ist repariert."    },
-  // TODO: add more ↓
+  { aktiv: "Man öffnet das Fenster.",    passiv: "Das Fenster wird geöffnet.",    f1: "Das Fenster wurde geöffnet.",    f2: "Das Fenster ist geöffnet."    },
+  { aktiv: "Man backt den Kuchen.",      passiv: "Der Kuchen wird gebacken.",     f1: "Der Kuchen wurde gebacken.",     f2: "Der Kuchen ist gebacken."     },
+  { aktiv: "Man renoviert das Haus.",    passiv: "Das Haus wird renoviert.",      f1: "Das Haus wurde renoviert.",      f2: "Das Haus ist renoviert."      },
+  { aktiv: "Man schreibt den Brief.",    passiv: "Der Brief wird geschrieben.",   f1: "Der Brief wurde geschrieben.",   f2: "Der Brief ist geschrieben."   },
+  { aktiv: "Man liest das Buch.",        passiv: "Das Buch wird gelesen.",        f1: "Das Buch wurde gelesen.",        f2: "Das Buch ist gelesen."        },
+  { aktiv: "Man repariert das Auto.",    passiv: "Das Auto wird repariert.",      f1: "Das Auto wurde repariert.",      f2: "Das Auto ist repariert."      },
+  { aktiv: "Man singt das Lied.",        passiv: "Das Lied wird gesungen.",       f1: "Das Lied wurde gesungen.",       f2: "Das Lied ist gesungen."       },
+  { aktiv: "Man malt das Bild.",         passiv: "Das Bild wird gemalt.",         f1: "Das Bild wurde gemalt.",         f2: "Das Bild ist gemalt."         },
+  { aktiv: "Man kocht die Suppe.",       passiv: "Die Suppe wird gekocht.",       f1: "Die Suppe wurde gekocht.",       f2: "Die Suppe ist gekocht."       },
+  { aktiv: "Man reinigt das Zimmer.",    passiv: "Das Zimmer wird gereinigt.",    f1: "Das Zimmer wurde gereinigt.",    f2: "Das Zimmer ist gereinigt."    },
+  { aktiv: "Man baut die Brücke.",       passiv: "Die Brücke wird gebaut.",       f1: "Die Brücke wurde gebaut.",       f2: "Die Brücke ist gebaut."       },
+  { aktiv: "Man druckt das Dokument.",   passiv: "Das Dokument wird gedruckt.",   f1: "Das Dokument wurde gedruckt.",   f2: "Das Dokument ist gedruckt."   },
+  { aktiv: "Man pflanzt den Baum.",      passiv: "Der Baum wird gepflanzt.",      f1: "Der Baum wurde gepflanzt.",      f2: "Der Baum ist gepflanzt."      },
+  { aktiv: "Man verkauft das Haus.",     passiv: "Das Haus wird verkauft.",       f1: "Das Haus wurde verkauft.",       f2: "Das Haus ist verkauft."       },
+  { aktiv: "Man untersucht den Patient.",passiv: "Der Patient wird untersucht.",  f1: "Der Patient wurde untersucht.",  f2: "Der Patient ist untersucht."  },
+  { aktiv: "Man erklärt die Aufgabe.",   passiv: "Die Aufgabe wird erklärt.",     f1: "Die Aufgabe wurde erklärt.",     f2: "Die Aufgabe ist erklärt."     },
+  { aktiv: "Man fotografiert das Tier.", passiv: "Das Tier wird fotografiert.",   f1: "Das Tier wurde fotografiert.",   f2: "Das Tier ist fotografiert."   },
+  { aktiv: "Man übersetzt den Text.",    passiv: "Der Text wird übersetzt.",      f1: "Der Text wurde übersetzt.",      f2: "Der Text ist übersetzt."      },
+  { aktiv: "Man organisiert das Fest.",  passiv: "Das Fest wird organisiert.",    f1: "Das Fest wurde organisiert.",    f2: "Das Fest ist organisiert."    },
+  { aktiv: "Man schneidet das Gras.",    passiv: "Das Gras wird geschnitten.",    f1: "Das Gras wurde geschnitten.",    f2: "Das Gras ist geschnitten."    },
 ];
 
 // Nebensatztypen für K8
@@ -458,7 +564,18 @@ const NEBENSATZ_TYPEN: { satz: string; typ: string; f: string[] }[] = [
   { satz: "Er lernte, als er jung war.",       typ: "Temporalsatz",    f: ["Kausalsatz",    "Konditionalsatz","Konzessivsatz"] },
   { satz: "Er lernte, da er Prüfung hatte.",   typ: "Kausalsatz",      f: ["Konzessivsatz", "Temporalsatz", "Finalsatz"]      },
   { satz: "Er lernte, falls es nötig ist.",    typ: "Konditionalsatz", f: ["Kausalsatz",    "Temporalsatz", "Konzessivsatz"]  },
-  // TODO: add more ↓
+  { satz: "Sie sang, während sie kochte.",    typ: "Temporalsatz",    f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Er schrieb, obwohl er müde war.",  typ: "Konzessivsatz",   f: ["Kausalsatz",    "Temporalsatz", "Finalsatz"]       },
+  { satz: "Sie rief an, damit er Bescheid weiß.", typ: "Finalsatz",   f: ["Kausalsatz",    "Konzessivsatz","Temporalsatz"]    },
+  { satz: "Er blieb zu Hause, weil es regnete.", typ: "Kausalsatz",   f: ["Konzessivsatz", "Finalsatz",    "Temporalsatz"]    },
+  { satz: "Wenn es schneit, bleiben wir drin.", typ: "Konditionalsatz",f: ["Kausalsatz",   "Temporalsatz", "Konzessivsatz"]   },
+  { satz: "Er half ihr, nachdem sie fragte.",  typ: "Temporalsatz",   f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Sie las, da sie neugierig war.",    typ: "Kausalsatz",     f: ["Konzessivsatz", "Temporalsatz", "Konditionalsatz"] },
+  { satz: "Er feierte, obwohl er krank war.",  typ: "Konzessivsatz",  f: ["Kausalsatz",    "Finalsatz",    "Temporalsatz"]    },
+  { satz: "Er rannte, damit er den Bus erwischt.", typ: "Finalsatz",  f: ["Kausalsatz",    "Konzessivsatz","Konditionalsatz"] },
+  { satz: "Falls du kommst, freue ich mich.",  typ: "Konditionalsatz",f: ["Kausalsatz",    "Temporalsatz", "Finalsatz"]       },
+  { satz: "Bevor sie schlief, las sie ein Buch.", typ: "Temporalsatz",f: ["Kausalsatz",    "Finalsatz",    "Konzessivsatz"]   },
+  { satz: "Er lachte, weil der Film lustig war.", typ: "Kausalsatz",  f: ["Konzessivsatz", "Finalsatz",    "Konditionalsatz"] },
 ];
 
 // Wortarten-Erkennungslisten (K2) — TODO: füllen
@@ -576,8 +693,17 @@ function genNomenErkennen(): DeutschQuestion {
   const opts = shuffle([pick(NOMEN_WA), pick(VERBEN_WA), pick(ADJ_WA), pick(ANDERE_WA)]);
   // Sicherstellen dass der richtige wirklich ein Nomen ist
   const correct = opts.find((o) => NOMEN_WA.includes(o)) ?? opts[0];
+  // Vary question text to avoid repetition
+  const questions = [
+    `Welches Wort ist ein Nomen?`,
+    `Welches Wort ist ein Substantiv?`,
+    `Das Nomen ist:`,
+    `Welches ist das Nomen?`,
+    `Finde das Nomen:`,
+  ];
+  const questionText = pick(questions);
   return mkMCQ("wortarten_k2", "nomen_k2",
-    "Welches Wort ist ein Nomen?", correct,
+    questionText, correct,
     opts.filter((o) => o !== correct));
 }
 
@@ -585,8 +711,17 @@ function genNomenErkennen(): DeutschQuestion {
 function genVerbErkennen(): DeutschQuestion {
   const opts = shuffle([pick(VERBEN_WA), pick(NOMEN_WA), pick(ADJ_WA), pick(ANDERE_WA)]);
   const correct = opts.find((o) => VERBEN_WA.includes(o)) ?? opts[0];
+  // Vary question text to avoid repetition
+  const questions = [
+    `Welches Wort ist ein Verb?`,
+    `Welches ist das Verb?`,
+    `Das Verb ist:`,
+    `Welches Wort ist ein Tätigkeitswort?`,
+    `Finde das Verb:`,
+  ];
+  const questionText = pick(questions);
   return mkMCQ("wortarten_k2", "verben_k2",
-    "Welches Wort ist ein Verb?", correct,
+    questionText, correct,
     opts.filter((o) => o !== correct));
 }
 
@@ -846,6 +981,87 @@ function genNebensatztyp(): DeutschQuestion {
     `Welcher Nebensatztyp? '${satz}'`, typ, f);
 }
 
+// ─── STATIC CURRICULUM BRIDGE ─────────────────────────────────────────────────
+// Véletlenszerűen választ egy MCQ-t a DeutschTest statikus adatbázisából.
+// Fallback: ha nincs MCQ az adott subtopicban, generált kérdést ad vissza.
+
+function pickFromStatic(grade: number, subtopicIds: string[]): DeutschQuestion {
+  const pool = getDeutschQuestions(grade, subtopicIds, 60);
+  const mcqs = pool.filter(
+    (q): q is Extract<DeutschQuestion, { type: "mcq" }> =>
+      q.type === "mcq" && Array.isArray((q as { options?: unknown }).options) &&
+      ((q as { options: unknown[] }).options).length >= 2
+  );
+  if (mcqs.length === 0) return genArtikel("wortarten", "artikel");
+  return mcqs[Math.floor(Math.random() * mcqs.length)];
+}
+
+/** Bridge: pull a random MCQ from the English static curriculum */
+function pickFromEnglish(grade: number, subtopicIds: string[]): DeutschQuestion {
+  const pool = getEnglishQuestions(grade, subtopicIds, 60);
+  const mcqs = pool.filter(
+    q => q.type === "mcq" && Array.isArray((q as { options?: unknown }).options) &&
+      ((q as { options: unknown[] }).options).length >= 2
+  );
+  if (mcqs.length === 0) return genArtikel("wortarten", "artikel");
+  const q = mcqs[Math.floor(Math.random() * mcqs.length)] as {
+    type: string; question: string; options: (string | number)[]; correct: number;
+  };
+  return {
+    type: "mcq",
+    topic: subtopicIds[0] ?? "english_k1",
+    subtopic: subtopicIds[0] ?? "english_k1",
+    question: q.question,
+    options: q.options,
+    correct: q.correct,
+  } as unknown as DeutschQuestion;
+}
+
+// ─── K5 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genVorgangspassivK5(): DeutschQuestion  { return pickFromStatic(5, ["vorgangspassiv_k5"]); }
+function genPassivPraeteritumK5(): DeutschQuestion { return pickFromStatic(5, ["passiv_praeteritum_k5"]); }
+function genRelativsaetzeK5(): DeutschQuestion   { return pickFromStatic(5, ["relativsaetze_k5"]); }
+function genSynonymeK5(): DeutschQuestion        { return pickFromStatic(5, ["synonyme_k5"]); }
+function genPlusquamperfektK5(): DeutschQuestion { return pickFromStatic(5, ["plusquamperfekt_k5"]); }
+function genKommaNebensatzK5(): DeutschQuestion  { return pickFromStatic(5, ["komma_nebensatz"]); }
+function genPartizipK5(): DeutschQuestion        { return pickFromStatic(5, ["partizip_1_k5", "partizip_2_k5"]); }
+function genPronomenK5(): DeutschQuestion        { return pickFromStatic(5, ["pronomen", "relativpronomen"]); }
+function genAdjektivdeklK5(): DeutschQuestion    { return pickFromStatic(5, ["adjektivdeklination_k5"]); }
+
+// ─── K6 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genPassivK6(): DeutschQuestion          { return pickFromStatic(6, ["passiv"]); }
+function genKonjunktiv2K6(): DeutschQuestion     { return pickFromStatic(6, ["konjunktiv_2", "konjunktiv2_formen_k6", "konjunktiv2_hoeflichkeit_k6"]); }
+function genRelativsatzK6(): DeutschQuestion     { return pickFromStatic(6, ["relativsatz", "erweiterte_relativsaetze_k6"]); }
+function genModalverbenK6(): DeutschQuestion     { return pickFromStatic(6, ["modalverben_k6", "verben_modal_k6"]); }
+function genKausalsatzK6(): DeutschQuestion      { return pickFromStatic(6, ["kausalsatz"]); }
+function genInfinitivZuK6(): DeutschQuestion     { return pickFromStatic(6, ["infinitiv_zu"]); }
+function genRedewendungenK6(): DeutschQuestion   { return pickFromStatic(6, ["redewendungen_k6"]); }
+function genSatzverbindungenK6(): DeutschQuestion { return pickFromStatic(6, ["satzverbindungen_k6", "satzbau_k6"]); }
+
+// ─── K7 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genSeinPassivK7(): DeutschQuestion      { return pickFromStatic(7, ["sein_passiv"]); }
+function genPassivModalK7(): DeutschQuestion     { return pickFromStatic(7, ["passiv_modal"]); }
+function genKausalsatzK7(): DeutschQuestion      { return pickFromStatic(7, ["kausalsatz_k7"]); }
+function genKonditionalsatzK7(): DeutschQuestion { return pickFromStatic(7, ["konditionalsatz_k7"]); }
+function genKonzessivsatzK7(): DeutschQuestion   { return pickFromStatic(7, ["konzessivsatz_k7"]); }
+function genFinalsatzK7(): DeutschQuestion       { return pickFromStatic(7, ["finalsatz_k7"]); }
+function genTemporalsatzK7(): DeutschQuestion    { return pickFromStatic(7, ["temporalsatz_k7"]); }
+function genUmZuK7(): DeutschQuestion            { return pickFromStatic(7, ["um_zu_k7", "statt_ohne_zu_k7"]); }
+function genStilmittelK7(): DeutschQuestion      { return pickFromStatic(7, ["metapher_vergleich", "alliteration_personifikation"]); }
+function genFachspracheK7(): DeutschQuestion     { return pickFromStatic(7, ["fachsprache_k7"]); }
+function genInhaltsangabeK7(): DeutschQuestion   { return pickFromStatic(7, ["inhaltsangabe_k7"]); }
+
+// ─── K8 STATIC BRIDGE GENERATORS ──────────────────────────────────────────────
+function genPartizipialK8(): DeutschQuestion     { return pickFromStatic(8, ["partizipial"]); }
+function genNebensatztypenK8(): DeutschQuestion  { return pickFromStatic(8, ["nebensatztypen"]); }
+function genKonjunktivIK8(): DeutschQuestion     { return pickFromStatic(8, ["konjunktiv_i_k8"]); }
+function genKonjunktivIIK8(): DeutschQuestion    { return pickFromStatic(8, ["konjunktiv_ii_k8"]); }
+function genPassivK8(): DeutschQuestion          { return pickFromStatic(8, ["passiv_bildung_k8", "passiversatz_k8"]); }
+function genStilmittelK8(): DeutschQuestion      { return pickFromStatic(8, ["stilmittel_erkennung_k8", "stilwirkung_k8"]); }
+function genNominalstilK8(): DeutschQuestion     { return pickFromStatic(8, ["nominalstil_umformung_k8"]); }
+function genEroerterungK8(): DeutschQuestion     { return pickFromStatic(8, ["eroerterung", "eroerterung_vertieft_k8"]); }
+function genRegisterK8(): DeutschQuestion        { return pickFromStatic(8, ["register_k8", "fachsprache_k8"]); }
+
 // ─── GENERATOR-MAP ────────────────────────────────────────────────────────────
 // subtopicId → Generator-Funktion
 // Wird in page.tsx mit getDeutschQuestions() kombiniert
@@ -897,6 +1113,79 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   relativsatz_k7:      genRelativsatzK7,
   // K8
   nebensatztypen:      genNebensatztyp,
+
+  // ─── K5 STATIC BRIDGE ────────────────────────────────────────────────────
+  vorgangspassiv_k5:     genVorgangspassivK5,
+  passiv_praeteritum_k5: genPassivPraeteritumK5,
+  relativsaetze_k5:      genRelativsaetzeK5,
+  synonyme_k5:           genSynonymeK5,
+  plusquamperfekt_k5:    genPlusquamperfektK5,
+  komma_nebensatz_k5:    genKommaNebensatzK5,
+  partizip_k5:           genPartizipK5,
+  pronomen_k5:           genPronomenK5,
+  adjektivdekl_k5:       genAdjektivdeklK5,
+
+  // ─── K6 STATIC BRIDGE ────────────────────────────────────────────────────
+  passiv_k6:             genPassivK6,
+  konjunktiv2_k6:        genKonjunktiv2K6,
+  relativsatz_k6:        genRelativsatzK6,
+  modalverben_k6:        genModalverbenK6,
+  kausalsatz_k6:         genKausalsatzK6,
+  infinitiv_zu_k6:       genInfinitivZuK6,
+  redewendungen_k6:      genRedewendungenK6,
+  satzverbindungen_k6:   genSatzverbindungenK6,
+
+  // ─── K7 STATIC BRIDGE ────────────────────────────────────────────────────
+  sein_passiv_k7:        genSeinPassivK7,
+  passiv_modal_k7:       genPassivModalK7,
+  kausalsatz_k7:         genKausalsatzK7,
+  konditionalsatz_k7:    genKonditionalsatzK7,
+  konzessivsatz_k7:      genKonzessivsatzK7,
+  finalsatz_k7:          genFinalsatzK7,
+  temporalsatz_k7:       genTemporalsatzK7,
+  um_zu_k7:              genUmZuK7,
+  stilmittel_k7:         genStilmittelK7,
+  fachsprache_k7:        genFachspracheK7,
+  inhaltsangabe_k7:      genInhaltsangabeK7,
+
+  // ─── K8 STATIC BRIDGE ────────────────────────────────────────────────────
+  partizipial_k8:        genPartizipialK8,
+  nebensatztypen_k8:     genNebensatztypenK8,
+  konjunktiv_i_k8:       genKonjunktivIK8,
+  konjunktiv_ii_k8:      genKonjunktivIIK8,
+  passiv_k8:             genPassivK8,
+  stilmittel_k8:         genStilmittelK8,
+  nominalstil_k8:        genNominalstilK8,
+  eroerterung_k8:        genEroerterungK8,
+  register_k8:           genRegisterK8,
+
+  // ─── K1 ENGLISH BRIDGE ───────────────────────────────────────────────────
+  short_long_vowels_k1:  () => pickFromEnglish(1, ["short_long_vowels_g1"]),
+  digraphs_k1:           () => pickFromEnglish(1, ["digraphs_g1"]),
+  uppercase_k1:          () => pickFromEnglish(1, ["uppercase_lowercase_g1"]),
+  syllables_k1:          () => pickFromEnglish(1, ["syllables_g1"]),
+  blends_k1:             () => pickFromEnglish(1, ["blends_g1"]),
+  rhyming_k1:            () => pickFromEnglish(1, ["rhyming_g1"]),
+  sight_words_k1:        () => pickFromEnglish(1, ["sight_words_g1"]),
+  nouns_k1:              () => pickFromEnglish(1, ["nouns_g1"]),
+  verbs_k1:              () => pickFromEnglish(1, ["verbs_g1"]),
+  articles_k1:           () => pickFromEnglish(1, ["articles_g1"]),
+  compound_words_k1:     () => pickFromEnglish(1, ["compound_words_g1"]),
+  adjectives_k1:         () => pickFromEnglish(1, ["adjectives_g1"]),
+  end_punctuation_k1:    () => pickFromEnglish(1, ["end_punctuation_g1"]),
+  capitalization_k1:     () => pickFromEnglish(1, ["capitalization_g1"]),
+  sentence_vs_not_k1:    () => pickFromEnglish(1, ["sentence_vs_not_g1"]),
+  declarative_k1:        () => pickFromEnglish(1, ["declarative_interrogative_g1"]),
+  imperative_k1:         () => pickFromEnglish(1, ["imperative_exclamatory_g1"]),
+  story_k1:              () => pickFromEnglish(1, ["story_comprehension_g1"]),
+  colors_k1:             () => pickFromEnglish(1, ["colors_g1"]),
+  numbers_words_k1:      () => pickFromEnglish(1, ["numbers_words_g1"]),
+  days_months_k1:        () => pickFromEnglish(1, ["days_months_g1"]),
+  animals_k1:            () => pickFromEnglish(1, ["animals_g1"]),
+  body_parts_k1:         () => pickFromEnglish(1, ["body_parts_g1"]),
+  family_k1:             () => pickFromEnglish(1, ["family_g1"]),
+  food_k1:               () => pickFromEnglish(1, ["food_g1"]),
+  classroom_k1:          () => pickFromEnglish(1, ["classroom_g1"]),
 };
 
 /**

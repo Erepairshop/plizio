@@ -969,10 +969,9 @@ if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */
    - **Szabály:** Új explorer SVG-ben a címkéket/label-eket a React oldalon kell megjeleníteni (az SVG alatti/melletti HTML elemként), NEM az SVG-n belül `<text>` elemmel.
    - Az SVG-ben csak a rajz legyen (állat, növény, diagram) — szöveg nélkül.
    - Ha mégis SVG-n belül kell label → max `fontSize={5}`, és teszteld mentálisan a leghosszabb nyelven (DE/HU).
-16. **Explorer pattern: FishExplorer minta** — Minden ExplorerEngine-alapú explorer a FishExplorer mintát kövesse: **info + 1 kvíz per kör** (nem 4 info kör + 1 kvíz a végén).
-   - R1-R4: `type: "mcq"` + 1 kérdés (tanít, aztán azonnal kérdez)
-   - R5: `type: "mcq"` + 2-3 review kérdés
-   - A `type: "info"` round típust NE használd (az nem kérdez semmit)
+16. **Explorer pattern — 2 architektúra létezik, ne keverd össze:**
+   - **Pool-alapú (AstroDeutsch K1-K8, ÚJ):** `lib/explorerPools/deutschKN.ts` → `DynamicExplorer.tsx` → `KNExplorer.tsx` router → page.tsx bekötés. Ez az ajánlott minta új Deutsch grade-ekhez! Részletek: "ASTRODEUTSCH POOL-ALAPÚ EXPLORER ARCHITEKTÚRA" szekció.
+   - **ExplorerEngine-alapú (AstroBiologie, Sachkunde, RÉGI Deutsch):** `ExplorerEngine.tsx` wrapper, FishExplorer minta: info + 1 kvíz per kör. R1-R4: `type: "mcq"` + 1 kérdés; R5: 2-3 review kérdés. A `type: "info"` NE használd.
 17. **Sonnet agent nagy feladatokra NE** — A Sonnet model lassú és gyakran megakad nagy/összetett feladatoknál (pl. teljes fájl újraírás + SVG modernizálás). Mindig **osszuk kisebb feladatokra** (pl. pattern külön, SVG külön). Haiku gyorsabb és megbízhatóbb egyszerűbb feladatokra.
 18. **Explorer kérdés label kulcsok** — Minden MCQ kérdés label key-jének mind a 4 nyelvben (en/de/hu/ro) léteznie kell a LABELS objektumban. Ellenőrizd mielőtt commitolsz: ha egy key hiányzik egy nyelvből, az a kérdés szöveg helyett a key stringet mutatja.
 19. **SVG fejlesztési stratégia — 2 fázis:**
@@ -2595,6 +2594,157 @@ interface Props {
 
 - 5 kör × 5 szám — tap sorrendben (kicsitől a nagyig)
 - Streak counter 2+-nál jelenik meg
+
+---
+
+## ASTRODEUTSCH POOL-ALAPÚ EXPLORER ARCHITEKTÚRA (K1-K8)
+
+> **Mottó:** "one data file to edit" — a barát csak a pool TS fájlt tölti ki, semmi mást.
+
+### Fájlstruktúra
+
+```
+lib/explorerPools/
+  types.ts              ← PoolTopicDef + SvgConfig típusok
+  deutschK1.ts          ← K1 pool adatok (9 island × POOL + LABELS)
+  deutschK2.ts          ← K2 pool adatok
+  deutschK3.ts          ← K3 pool adatok
+  deutschK4.ts          ← K4 pool adatok (physics interactive típusok is)
+  deutschK5.ts          ← K5 pool adatok
+  deutschK6.ts          ← K6 pool adatok (template, TODO-val)
+  ...
+components/
+  DynamicExplorer.tsx   ← Univerzális motor — pool → 5 random topic per mount
+app/astrodeutsch/games/
+  k1/K1Explorer.tsx     ← Router: island.id → DynamicExplorer
+  k2/K2Explorer.tsx
+  k3/K3Explorer.tsx
+  k4/K4Explorer.tsx
+  k5/K5Explorer.tsx
+  k6/K6Explorer.tsx     ← (még nem kész, K6 template kitöltése után)
+  DeutschExplore.tsx    ← Régi fallback (ha nincs pool az adott islandhez)
+```
+
+### PoolTopicDef típus (types.ts)
+
+```ts
+export interface PoolTopicDef {
+  id: string;
+  title: string;                    // label key
+  svg: SvgConfig;                   // SVG leíró (pure TS data)
+  hint1: string;                    // label key
+  hint2: string;                    // label key — KÖTELEZŐ (ne felejtsd el!)
+  interactive: TopicInteractive;    // interaktív játék
+  quiz:
+    | { question: string; choices: string[]; answer: string }  // manual label keys
+    | { generate: string };          // GENERATORS[key]() hívás mountkor
+}
+```
+
+### SvgConfig típusok (TopicSvgRenderer.tsx rendereli)
+
+| type | Kötelező mezők | Tipikus buktató |
+|------|---------------|-----------------|
+| `two-groups` | `left.items`, `right.items`, `left.border`, `right.border` | `border` mező hiánya! |
+| `text-bubbles` | `items[].text`, `items[].color` | `color` mező hiánya! |
+| `article-noun` | `articleColor` | hiánya → tört render |
+| `letter-circles` | `letters[]` | max 1-2 char/item |
+| `word-card` | `word`, `translation` | — |
+| `sentence-flow` | `parts[]` | — |
+| `image-label` | `image`, `labels[]` | — |
+| `comparison-table` | `rows[]` | — |
+
+### TopicInteractive típusok (19 db)
+
+Egyszerű (K1-K3): `block-drag`, `number-line`, `word-order`, `gap-fill`, `match-pairs`, `highlight-text`, `tap-count`
+
+Közepes (K3-K5): `drag-to-bucket`, `sentence-build`, `label-diagram`, `balance-scale`, `ratio-slider`
+
+Haladó (K4+, physics): `physics-magnet`, `physics-slingshot`, `physics-stacker`, `physics-bucket`
+
+**Physics típusok kötelező mezői (K4+, leggyakoribb hibaforrás):**
+```ts
+// physics-slingshot — NEM items[], hanem:
+{ type: "physics-slingshot", question: "q_key", targets: [{ id: "t1", text: "label_key", isCorrect: true }, ...] }
+
+// physics-magnet — NEM items[], hanem:
+{ type: "physics-magnet", pairs: [{ left: "left_key", right: "right_key" }, ...] }
+
+// physics-stacker — NEM items[], hanem:
+{ type: "physics-stacker", words: ["w1", "w2", "w3"], correctOrder: ["w2", "w1", "w3"] }
+```
+
+### Mixed quiz mode
+
+`quiz: { generate: "generator_key" }` → `DynamicExplorer` mountkor hívja `GENERATORS[key]()` a `lib/deutschGenerators.ts`-ből.
+
+`quiz: { question: "q_key", choices: ["c1","c2","c3","c4"], answer: "c1" }` → manual label keys, mindig működik.
+
+### KNExplorer router minta (K2-K8 azonos)
+
+```tsx
+const ISLAND_CONFIG: Record<string, IslandConfig> = {
+  i1: { pool: NOMEN_POOL, labels: NOMEN_LABELS, title: "explorer_title", icon: "🏷️", mix: { easy: 2, medium: 2, hard: 1 } },
+  // ... i2-i9
+};
+
+export default function K2Explorer({ island, grade, onDone, color, lang }) {
+  const cfg = ISLAND_CONFIG[island.id];
+  if (cfg) return <DynamicExplorer pool={cfg.pool} labels={cfg.labels} ... grade={2} />;
+  return <DeutschExplore island={island} grade={grade} onDone={onDone} />;  // fallback
+}
+```
+
+### Page.tsx bekötés minta
+
+```tsx
+// Import:
+const K5Explorer = dynamic(() => import("@/app/astrodeutsch/games/k5/K5Explorer"), { ssr: false });
+
+// Render (deutsch-explore screen):
+<K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />
+```
+
+### Leggyakoribb hibák a pool fájlokban (barát által)
+
+1. **`hint2` hiánya** — minden topichoz kötelező, nem csak hint1
+2. **`border` hiánya `two-groups`-ban** — bg szín alapján add hozzá
+3. **`color` hiánya `text-bubbles` items-ben** — adj `"#1e293b"` alapértelmezést
+4. **`articleColor` hiánya `article-noun`-ban** — der=#1D4ED8, die=#B91C1C, das=#065F46
+5. **Duplikált `import type { PoolTopicDef }`** — csak egyszer, a fájl elején
+6. **Physics rossz mező nevek** — lásd fenti physics típusok táblázat
+
+### Quiz ismétlés elkerülő rendszer (2026-03-28)
+
+Három rétegű védelem a kérdés ismétlések ellen:
+
+**1. Generator-key dedup** (`lib/explorerUtils.ts` — `deduplicateGenerators`):
+- Ugyanaz a `generate:` kulcs nem kerülhet 2× ugyanabba a sessionbe
+- Ha mégis bekerülne, lecseréli egy másik pool topikra
+
+**2. Question-text dedup** (`components/DynamicExplorer.tsx` — `useMemo` blokk):
+- `resolveQuiz()` után szöveg szinten is ellenőriz
+- Ha ugyanaz a kérdés szöveg kétszer szerepelne → kicseréli pool-ból
+
+**3. Session history** (`lib/explorerUtils.ts` — `getRandomTopicsWithHistory`):
+- `localStorage` kulcs: `plizio_seen_<explorerId>` — utolsó ~10 látott topik title-je (max 2 session)
+- Következő sessionben a "friss" topikokból választ először
+- Fallback: ha nincs elég friss → teljes pool-ból választ
+- `DynamicExplorer` ezt hívja `getRandomTopics` helyett
+
+**Eredmény:** `belső ismétlés: 0` minden poolban, cross-run ismétlés ~2-3 session védelmi ablakkal.
+
+**⚠️ Szabály:** Ha új tantárgyhoz (pl. AstroEnglish, AstroMagyar) is pool-alapú explorert hozol létre, ugyanez a rendszer automatikusan működik — `DynamicExplorer`-t kell használni és az `explorerId` prop egyedi legyen pool-onként.
+
+### Új grade hozzáadása — checklist
+
+```
+□ lib/explorerPools/deutschKN.ts kitöltve (barát)
+□ npx tsc --noEmit → hibák javítása (fenti lista alapján)
+□ app/astrodeutsch/games/kN/KNExplorer.tsx létrehozva (K4/K5 minta)
+□ app/astrodeutsch/N/page.tsx bekötve (K5 minta)
+□ git commit + push (no build)
+```
 
 ---
 
