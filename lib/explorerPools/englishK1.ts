@@ -145,8 +145,6 @@ import type { PoolTopicDef } from "./types";
 // ──────────────────────────────────────────────────────────────────────────────
 
 
-import type { PoolTopicDef } from "./types";
-
 // ─────────────────────────────────────────────────────────────────────────────
 // ISLAND i1 — Phonics Island (🔤, #FF2D78)
 // Topics: short vowels, long vowels, digraphs, ending sounds
