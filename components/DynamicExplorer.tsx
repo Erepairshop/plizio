@@ -12,7 +12,7 @@ import { useMemo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
-import { getRandomTopics } from "@/lib/explorerUtils";
+import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS } from "@/lib/deutschGenerators";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
@@ -84,7 +84,7 @@ export default function DynamicExplorer({
 }: Props) {
   // useMemo with [] → randomised once per mount, different each visit
   const def = useMemo<ExplorerDef>(() => {
-    const selected = getRandomTopics(pool, count, mix);
+    const selected = getRandomTopicsWithHistory(pool, count, explorerId, mix);
 
     // Deduplicate by resolved question TEXT (generator variety is limited,
     // same generator can produce identical question strings in one session).

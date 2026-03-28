@@ -76,3 +76,40 @@ export function getRandomTopics(
   const shuffled = result.sort(() => Math.random() - 0.5);
   return deduplicateGenerators(shuffled, pool);
 }
+
+const SEEN_KEY_PREFIX = "plizio_seen_";
+const SEEN_MAX = 10; // max 10 title stored = 2 sessions worth of history
+
+/**
+ * Like getRandomTopics, but avoids topics shown in the last ~2 sessions.
+ * Uses localStorage to track recently-seen topic titles per explorer.
+ * Falls back to the full pool if there aren't enough fresh topics.
+ *
+ * Call this from DynamicExplorer instead of getRandomTopics.
+ * Selected titles are automatically saved to history.
+ */
+export function getRandomTopicsWithHistory(
+  pool: PoolTopicDef[],
+  count: number,
+  explorerId: string,
+  mix?: { easy: number; medium: number; hard: number }
+): PoolTopicDef[] {
+  let seen: string[] = [];
+  try {
+    seen = JSON.parse(localStorage.getItem(SEEN_KEY_PREFIX + explorerId) || "[]");
+  } catch { seen = []; }
+
+  // Prefer topics not seen recently; fall back to full pool if not enough fresh ones
+  const fresh = pool.filter(t => !seen.includes(t.infoTitle));
+  const sourcePool = fresh.length >= count ? fresh : pool;
+
+  const selected = getRandomTopics(sourcePool, count, mix);
+
+  // Persist the selected titles (newest first, capped at SEEN_MAX)
+  try {
+    const updated = [...selected.map(t => t.infoTitle), ...seen].slice(0, SEEN_MAX);
+    localStorage.setItem(SEEN_KEY_PREFIX + explorerId, JSON.stringify(updated));
+  } catch { /* ignore storage errors (e.g. SSR) */ }
+
+  return selected;
+}
