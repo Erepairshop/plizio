@@ -1,7 +1,7 @@
 'use client';
 
-import { useMemo, type ReactNode } from 'react';
-import { useLoader } from '@react-three/fiber';
+import { useMemo, useRef, type ReactNode } from 'react';
+import { useLoader, useFrame } from '@react-three/fiber';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import type { Bone } from 'three';
@@ -70,13 +70,25 @@ function BoneAttachment({
   spec: AvatarAttachmentSpec;
   children: ReactNode;
 }) {
+  const groupRef = useRef<THREE.Group>(null);
+  const worldPos = useMemo(() => new THREE.Vector3(), []);
+
+  useFrame(() => {
+    if (!groupRef.current) return;
+    bone.updateWorldMatrix(true, false);
+    bone.getWorldPosition(worldPos);
+    groupRef.current.position.set(
+      worldPos.x + spec.position[0],
+      worldPos.y + spec.position[1],
+      worldPos.z + spec.position[2],
+    );
+  });
+
   const scale = asVectorScale(spec.scale);
   return (
-    <primitive object={bone}>
-      <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
-        {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
-      </group>
-    </primitive>
+    <group ref={groupRef} scale={scale} rotation={spec.rotation as [number, number, number]}>
+      {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
+    </group>
   );
 }
 
