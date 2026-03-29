@@ -151,7 +151,7 @@ export const BIO_K7_I2_LABELS: Record<string, Record<string, string>> = {
 
     // T4: Meiose
     t4_title: "Die Meiose",
-    t4_text: "Die Meiose ist eine besondere Zellteilung zur Bildung von Keimzellen (Eizellen und Spermien) with halbem Chromosomensatz.",
+    t4_text: "Die Meiose ist eine besondere Zellteilung zur Bildung von Keimzellen (Eizellen und Spermien) mit halbem Chromosomensatz.",
     t4_h1: "Keimzellenbildung", t4_h2: "Halber Chromosomensatz",
     t4_inst: "Bilde Keimzellen!",
     t4_q: "Wie viele Tochterzellen entstehen am Ende der Meiose?",
@@ -260,7 +260,7 @@ export const BIO_K7_I3_LABELS: Record<string, Record<string, string>> = {
 
     // T3: Chlorophyll
     t3_title: "Das Blattgrün",
-    t3_text: "Chlorophyll ist das Pigment, das in den Thylakoidmembranen der Chloroplasten sitzt és Licht absorbiert.",
+    t3_text: "Chlorophyll ist das Pigment, das in den Thylakoidmembranen der Chloroplasten sitzt und Licht absorbiert.",
     t3_h1: "Blattpigment", t3_h2: "Lichtfalle",
     t3_inst: "Suche das Pigment!",
     t3_q: "In welchem Teil des Chloroplasten sitzt das Chlorophyll?",
@@ -293,7 +293,7 @@ export const BIO_K7_I3_LABELS: Record<string, Record<string, string>> = {
 
     // T8: Spaltöffnungen
     t8_title: "Die Spaltöffnungen (Stomata)",
-    t8_text: "Über winzige Poren an der Blattunterseite nehmen Pflanzen CO2 auf és geben Sauerstoff und Wasserdampf ab.",
+    t8_text: "Über winzige Poren an der Blattunterseite nehmen Pflanzen CO2 auf und geben Sauerstoff und Wasserdampf ab.",
     t8_h1: "Gasaustausch", t8_h2: "Blattporen",
     t8_inst: "Öffne die Stomata!",
   },
@@ -358,7 +358,7 @@ export const BIO_K7_I4_LABELS: Record<string, Record<string, string>> = {
     
     // T1: Zellatmung
     t1_title: "Energie gewinnen",
-    t1_text: "Bei der Zellatmung wird Glukose with Sauerstoff zu CO2 und Wasser abgebaut, um Energie (ATP) zu gewinnen.",
+    t1_text: "Bei der Zellatmung wird Glukose mit Sauerstoff zu CO2 und Wasser abgebaut, um Energie (ATP) zu gewinnen.",
     t1_h1: "ATP-Gewinnung", t1_h2: "Abbauprozess",
     t1_inst: "Veratme den Zucker!",
     t1_q: "In welcher Organelle findet die Zellatmung hauptsächlich statt?",
@@ -374,7 +374,7 @@ export const BIO_K7_I4_LABELS: Record<string, Record<string, string>> = {
 
     // T3: Glykolyse
     t3_title: "Die Glykolyse",
-    t3_text: "Der erste Schritt des Abbaus findet im Zytoplasma statt és braucht keinen Sauerstoff.",
+    t3_text: "Der erste Schritt des Abbaus findet im Zytoplasma statt und braucht keinen Sauerstoff.",
     t3_h1: "Zellplasma", t3_h2: "Zuckerspaltung",
     t3_inst: "Spalte die Glukose!",
     t3_q: "Wo findet die Glykolyse statt?",
@@ -382,7 +382,7 @@ export const BIO_K7_I4_LABELS: Record<string, Record<string, string>> = {
 
     // T4: Zitronensäurezyklus
     t4_title: "Zitronensäurezyklus",
-    t4_text: "Dieser Kreislauf findet in der Matrix der Mitochondrien statt és liefert wichtige Energie-Zwischenspeicher.",
+    t4_text: "Dieser Kreislauf findet in der Matrix der Mitochondrien statt und liefert wichtige Energie-Zwischenspeicher.",
     t4_h1: "Mitochondrien-Matrix", t4_h2: "Krebs-Zyklus",
     t4_inst: "Folge dem Kreis!",
 
@@ -614,7 +614,7 @@ export const BIO_K7_I6_LABELS: Record<string, Record<string, string>> = {
 
     // T5: Destruenten
     t5_title: "Die Müllabfuhr",
-    t5_text: "Pilze und Bakterien zersetzen organisches Material és machen Nährstoffe wieder verfügbar.",
+    t5_text: "Pilze und Bakterien zersetzen organisches Material und machen Nährstoffe wieder verfügbar.",
     t5_h1: "Zersetzung", t5_h2: "Recycling",
     t5_inst: "Zersetze das Laub!",
 
@@ -622,11 +622,11 @@ export const BIO_K7_I6_LABELS: Record<string, Record<string, string>> = {
     t6_title: "Nutznießer",
     t6_text: "Beim Kommensalismus profitiert einer, während es für den anderen egal ist (neutral).",
     t6_h1: "Neutraler Partner", t6_h2: "Einfacher Vorteil",
-    t6_inst: "Folg dem Großen!",
+    t6_inst: "Folge dem Großen!",
 
     // T7: Mykorrhiza
     t7_title: "Pilz & Baum",
-    t7_text: "Pilze an Baumwurzeln helfen bei der Wasseraufnahme és erhalten dafür Zucker vom Baum.",
+    t7_text: "Pilze an Baumwurzeln helfen bei der Wasseraufnahme und erhalten dafür Zucker vom Baum.",
     t7_h1: "Wurzelsymbiose", t7_h2: "Tauschhandel",
     t7_inst: "Tausche Wasser!",
 
@@ -705,7 +705,7 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T2: Lymphozyten
     t2_title: "Lymphozyten",
-    t2_text: "B-Zellen und T-Zellen sind spezialisierte weiße Blutzellen, die gezielt Erreger erkennen és bekämpfen.",
+    t2_text: "B-Zellen und T-Zellen sind spezialisierte weiße Blutzellen, die gezielt Erreger erkennen und bekämpfen.",
     t2_h1: "Spezialkräfte", t2_h2: "Weiße Blutzellen",
     t2_inst: "Aktiviere die Zellen!",
     t2_q: "Welche Zellen produzieren Antikörper?",
@@ -713,7 +713,7 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T3: Antikörper
     t3_title: "Antikörper",
-    t3_text: "Antikörper sind Proteine, die wie Schlüssel zu den Schlössern (Antigenen) der Erreger passen és diese markieren.",
+    t3_text: "Antikörper sind Proteine, die wie Schlüssel zu den Schlössern (Antigenen) der Erreger passen und diese markieren.",
     t3_h1: "Passgenauer Schutz", t3_h2: "Markierung von Feinden",
     t3_inst: "Finde das passende Schloss!",
     t3_q: "Woran binden Antikörper?",
@@ -721,7 +721,7 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T4: Fresszellen (Makrophagen)
     t4_title: "Makrophagen",
-    t4_text: "Makrophagen sind große Fresszellen, die markierte Erreger einfach umschließen és verdauen.",
+    t4_text: "Makrophagen sind große Fresszellen, die markierte Erreger einfach umschließen und verdauen.",
     t4_h1: "Fresszellen", t4_h2: "Aufräumkommando",
     t4_inst: "Friss den Keim!",
 
@@ -733,7 +733,7 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T6: Impfung
     t6_title: "Die Impfung",
-    t6_text: "Eine Impfung trainiert das Immunsystem with abgeschwächten Erregern, ohne die Krankheit auszulösen.",
+    t6_text: "Eine Impfung trainiert das Immunsystem mit abgeschwächten Erregern, ohne die Krankheit auszulösen.",
     t6_h1: "Training", t6_h2: "Vorsorge",
     t6_inst: "Gib die Impfung!",
 
@@ -810,7 +810,7 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
     
     // T1: Das Neuron
     t1_title: "Die Nervenzelle (Neuron)",
-    t1_text: "Das Neuron ist der Baustein des Nervensystems. Es leitet elektrische Signale over weite Strecken weiter.",
+    t1_text: "Das Neuron ist der Baustein des Nervensystems. Es leitet elektrische Signale über weite Strecken weiter.",
     t1_h1: "Informationsleitung", t1_h2: "Zellkörper & Ausläufer",
     t1_inst: "Baue das Neuron!",
     t1_q: "Wie nennt man die Fortsätze, die Signale zum Zellkörper leiten?",
@@ -818,7 +818,7 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
 
     // T2: Das Axon
     t2_title: "Das Axon",
-    t2_text: "Das Axon ist ein langer Fortsatz, der Signale vom Zellkörper wegleitet. Oft ist es with Myelin isoliert.",
+    t2_text: "Das Axon ist ein langer Fortsatz, der Signale vom Zellkörper wegleitet. Oft ist es mit Myelin isoliert.",
     t2_h1: "Datenkabel", t2_h2: "Isolierschicht Myelin",
     t2_inst: "Isoliere das Axon!",
     t2_q: "Was beschleunigt die Signalweiterleitung am Axon?",
@@ -826,15 +826,15 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
 
     // T3: Die Synapse
     t3_title: "Die Synapse",
-    t3_text: "An der Synapse wird das elektrische Signal mithilfe von chemischen Botenstoffen (Neurotransmittern) overtragen.",
-    t3_h1: "Umschaltstelle", t3_h2: "Chemische Overtragung",
+    t3_text: "An der Synapse wird das elektrische Signal mithilfe von chemischen Botenstoffen (Neurotransmittern) übertragen.",
+    t3_h1: "Umschaltstelle", t3_h2: "Chemische Übertragung",
     t3_inst: "Sende Neurotransmitter!",
-    t3_q: "Wie werden Informationen im synaptischen Spalt overtragen?",
+    t3_q: "Wie werden Informationen im synaptischen Spalt übertragen?",
     t3_qa: "Chemisch", t3_qb: "Elektrisch", t3_qc: "Mechanisch", t3_qd: "Optisch",
 
     // T4: Reflexe
     t4_title: "Der Reflex",
-    t4_text: "Ein Reflex ist eine unbewusste, sehr schnelle Reaktion auf einen Reiz, die over das Rückenmark gesteuert wird.",
+    t4_text: "Ein Reflex ist eine unbewusste, sehr schnelle Reaktion auf einen Reiz, die über das Rückenmark gesteuert wird.",
     t4_h1: "Schutzreaktion", t4_h2: "Rückenmark-Steuerung",
     t4_inst: "Reagiere schnell!",
     t4_q: "Was ist ein Beispiel für einen Reflex?",
@@ -842,13 +842,13 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
 
     // T5: Das Gehirn
     t5_title: "Zentralnervensystem",
-    t5_text: "Das Gehirn ist die komplexeste Struktur. Es verarbeitet alle Sinneseindrücke és plant unsere Handlungen.",
+    t5_text: "Das Gehirn ist die komplexeste Struktur. Es verarbeitet alle Sinneseindrücke und plant unsere Handlungen.",
     t5_h1: "Zentrale", t5_h2: "Verarbeitung",
     t5_inst: "Aktiviere die Hirnareale!",
 
     // T6: Neurotransmitter
     t6_title: "Botenstoffe",
-    t6_text: "Stoffe wie Dopamin oder Serotonin beeinflussen unsere Gefühle, Bewegungen és unser Denken.",
+    t6_text: "Stoffe wie Dopamin oder Serotonin beeinflussen unsere Gefühle, Bewegungen und unser Denken.",
     t6_h1: "Glückshormone", t6_h2: "Signalstoffe",
     t6_inst: "Schütte Dopamin aus!",
 
@@ -860,7 +860,7 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
 
     // T8: Das Gedächtnis
     t8_title: "Lernen & Speichern",
-    t8_text: "Durch das Verstärken von Synapsenverbindungen entstehen Erinnerungen és wir lernen dazu.",
+    t8_text: "Durch das Verstärken von Synapsenverbindungen entstehen Erinnerungen und wir lernen dazu.",
     t8_h1: "Vernetzung", t8_h2: "Wiederholung",
     t8_inst: "Verknüpfe die Neuronen!",
   },
@@ -925,15 +925,15 @@ export const BIO_K7_I9_LABELS: Record<string, Record<string, string>> = {
     
     // T1: Natürliche Selektion
     t1_title: "Natürliche Selektion",
-    t1_text: "Individuen, die besser an ihre Umwelt angepasst sind, overleben eher és geben ihre Gene weiter.",
+    t1_text: "Individuen, die besser an ihre Umwelt angepasst sind, überleben eher und geben ihre Gene weiter.",
     t1_h1: "Selektionsvorteil", t1_h2: "Fortpflanzungserfolg",
-    t1_inst: "Wer overlebt?",
+    t1_inst: "Wer überlebt?",
     t1_q: "Wer hat die Theorie der natürlichen Selektion formuliert?",
     t1_qa: "Charles Darwin", t1_qb: "Albert Einstein", t1_qc: "Gregor Mendel", t1_qd: "Isaac Newton",
 
     // T2: Anpassung
     t2_title: "Anpassung (Adaptation)",
-    t2_text: "Durch Mutation und Selektion entstehen Merkmale, die das Overleben in einer bestimmten Umwelt verbessern.",
+    t2_text: "Durch Mutation und Selektion entstehen Merkmale, die das Überleben in einer bestimmten Umwelt verbessern.",
     t2_h1: "Strukturelle Merkmale", t2_h2: "Verhaltensweisen",
     t2_inst: "Finde die Anpassung!",
     t2_q: "Was ist ein Beispiel für eine strukturelle Anpassung?",
@@ -955,11 +955,11 @@ export const BIO_K7_I9_LABELS: Record<string, Record<string, string>> = {
 
     // T5: Fossilien
     t5_title: "Fossilien",
-    t5_text: "Fossilien sind Zeugen der Vergangenheit és zeigen uns, wie sich Lebewesen over Millionen Jahre verändert haben.",
+    t5_text: "Fossilien sind Zeugen der Vergangenheit und zeigen uns, wie sich Lebewesen über Millionen Jahre verändert haben.",
     t5_h1: "Versteinerungen", t5_h2: "Evolutionsbelege",
     t5_inst: "Grabe das Fossil aus!",
     t5_q: "Was beweisen Fossilien?",
-    t5_qa: "Die Veränderung der Arten over Zeit", t5_qb: "Dass früher alles gleich war", t5_qc: "Dass die Erde jung ist", t5_qd: "Nichts",
+    t5_qa: "Die Veränderung der Arten über Zeit", t5_qb: "Dass früher alles gleich war", t5_qc: "Dass die Erde jung ist", t5_qd: "Nichts",
 
     // T6: Variabilität
     t6_title: "Variabilität",
