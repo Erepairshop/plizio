@@ -27,7 +27,7 @@ serve(async (req: Request) => {
       });
     }
 
-    const { messages, system, maxTokens = 200 } = await req.json();
+    const { messages, system, maxTokens = 200, mode = "free" } = await req.json();
 
     if (!messages || !Array.isArray(messages) || messages.length === 0) {
       return new Response(JSON.stringify({ error: "messages array required" }), {
@@ -37,7 +37,10 @@ serve(async (req: Request) => {
     }
 
     // Cap max tokens to prevent abuse
-    const safeMaxTokens = Math.min(maxTokens, 500);
+    const safeMaxTokens = Math.min(
+      maxTokens,
+      mode === "fun-fact" ? 120 : mode === "why" ? 180 : mode === "think" ? 120 : 220,
+    );
 
     const response = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
