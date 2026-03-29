@@ -242,3 +242,51 @@ export const FEUER_K3_POOL: PoolTopicDef[] = [
     difficulty: "medium"
   }
 ];
+
+// ─── Stub pools for missing islands ──────────────────────────────────────────
+
+function mkStub(de: string, en: string, hu: string, ro: string, color: string): { labels: Record<string, Record<string, string>>; pool: PoolTopicDef[] } {
+  const labels = {
+    de: { explorer_title: de, t1_title: de, t1_text: de, t1_q: de+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: de, t1_h1: de, t1_h2: de, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
+    en: { explorer_title: en, t1_title: en, t1_text: en, t1_q: en+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: en, t1_h1: en, t1_h2: en, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
+    hu: { explorer_title: hu, t1_title: hu, t1_text: hu, t1_q: hu+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: hu, t1_h1: hu, t1_h2: hu, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
+    ro: { explorer_title: ro, t1_title: ro, t1_text: ro, t1_q: ro+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: ro, t1_h1: ro, t1_h2: ro, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
+  };
+  const pool: PoolTopicDef[] = [{
+    infoTitle: "t1_title", infoText: "t1_text",
+    svg: { type: "simple-icon", icon: "📚", color },
+    hintKey: "t1_h1",
+    interactive: { type: "match-pairs", pairs: [{ left: "t1_l1", right: "t1_r1" }, { left: "t1_l2", right: "t1_r2" }, { left: "t1_l3", right: "t1_r3" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h1" },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
+    difficulty: "medium" as const,
+  }];
+  return { labels, pool };
+}
+
+const _GETREIDE = mkStub("Getreide & Ernte", "Grain & Harvest", "Gabona & Aratás", "Cereale & Recoltă", "#F59E0B");
+export const GETREIDE_K3_LABELS = _GETREIDE.labels;
+export const GETREIDE_K3_POOL = _GETREIDE.pool;
+
+const _WIESE = mkStub("Wiese & Tiere", "Meadow & Animals", "Rét & Állatok", "Pajiște & Animale", "#10B981");
+export const WIESE_K3_LABELS = _WIESE.labels;
+export const WIESE_K3_POOL = _WIESE.pool;
+
+const _KOERPER = mkStub("Körper & Gesundheit", "Body & Health", "Test & Egészség", "Corp & Sănătate", "#EF4444");
+export const KOERPER_K3_LABELS = _KOERPER.labels;
+export const KOERPER_K3_POOL = _KOERPER.pool;
+
+const _MEDIEN = mkStub("Medien & Kommunikation", "Media & Communication", "Média & Kommunikáció", "Media & Comunicare", "#3B82F6");
+export const MEDIEN_K3_LABELS = _MEDIEN.labels;
+export const MEDIEN_K3_POOL = _MEDIEN.pool;
+
+const _KARTEN = mkStub("Karten & Orientierung", "Maps & Orientation", "Térképek & Tájékozódás", "Hărți & Orientare", "#8B5CF6");
+export const KARTEN_K3_LABELS = _KARTEN.labels;
+export const KARTEN_K3_POOL = _KARTEN.pool;
+
+const _STROM = mkStub("Strom & Energie", "Electricity & Energy", "Áram & Energia", "Electricitate & Energie", "#F59E0B");
+export const STROM_K3_LABELS = _STROM.labels;
+export const STROM_K3_POOL = _STROM.pool;
+
+const _FINALE = mkStub("Großes Finale K3", "Grand Finale K3", "Nagy Finálé K3", "Marea Finală K3", "#FFD700");
+export const FINALE_K3_LABELS = _FINALE.labels;
+export const FINALE_K3_POOL = _FINALE.pool;
