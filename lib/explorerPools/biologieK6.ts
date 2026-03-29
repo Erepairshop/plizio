@@ -76,7 +76,7 @@ export const BIO_K6_I1_LABELS: Record<string, Record<string, string>> = {
 
     // T10: Tausendfüßler
     t10_title: "Tausendfüßler",
-    t10_text: "Tausendfüßler haben einen langgestreckten Körper with vielen Segmenten und jeweils einem oder zwei Beinpaaren pro Segment.",
+    t10_text: "Tausendfüßler haben einen langgestreckten Körper mit vielen Segmenten und jeweils einem oder zwei Beinpaaren pro Segment.",
     t10_h1: "Viele Segmente", t10_h2: "Gliederung",
     t10_inst: "Zähle die Beine!",
   },
@@ -163,7 +163,7 @@ export const BIO_K6_I2_LABELS: Record<string, Record<string, string>> = {
     t2_title: "Die Weinbergschnecke",
     t2_text: "Schnecken bewegen sich auf einem muskulösen Kriechfuß fort. Die Weinbergschnecke hat ein schützendes Gehäuse aus Kalk.",
     t2_h1: "Kriechfuß", t2_h2: "Raspelzunge (Radula)",
-    t2_inst: "Folg der Schleimspur!",
+    t2_inst: "Folge der Schleimspur!",
     t2_q: "Wie heißt das Organ, mit dem Schnecken ihre Nahrung abraspeln?",
     t2_qa: "Raspelzunge (Radula)", t2_qb: "Kiefer", t2_qc: "Mahlzahn", t2_qd: "Schnabel",
 
@@ -317,7 +317,7 @@ export const BIO_K6_I3_LABELS: Record<string, Record<string, string>> = {
 
     // T7: Symbiose (Pilz & Baum)
     t7_title: "Symbiose",
-    t7_text: "Viele Pilze leben in einer Symbiose with Bäumen. Sie tauschen Wasser gegen Zucker aus.",
+    t7_text: "Viele Pilze leben in einer Symbiose mit Bäumen. Sie tauschen Wasser gegen Zucker aus.",
     t7_h1: "Geben und Nehmen", t7_h2: "Zusammenleben",
     t7_inst: "Tausche Stoffe!",
 
@@ -397,7 +397,7 @@ export const BIO_K6_I4_LABELS: Record<string, Record<string, string>> = {
     // T2: See-Zonen
     t2_title: "Zonen eines Sees",
     t2_text: "Ein See hat verschiedene Zonen: Uferzone (Litoral) und Freiwasserzone (Pelagial). Im Uferbereich wachsen viele Pflanzen.",
-    t2_h1: "Ufer and Freiwasser", t2_h2: "Pflanzengürtel",
+    t2_h1: "Ufer und Freiwasser", t2_h2: "Pflanzengürtel",
     t2_inst: "Tauche ab!",
     t2_q: "Wie nennt man die lichtdurchflutete Uferzone eines Sees?",
     t2_qa: "Litoral", t2_qb: "Pelagial", t2_qc: "Tiefenzone", t2_qd: "Sprungschicht",
@@ -555,7 +555,7 @@ export const BIO_K6_I5_LABELS: Record<string, Record<string, string>> = {
 
     // T8: Puls & Belastung
     t8_title: "Puls",
-    t8_text: "Bei Anstrengung muss das Herz schneller schlagen, um die Muskeln with mehr Sauerstoff zu versorgen.",
+    t8_text: "Bei Anstrengung muss das Herz schneller schlagen, um die Muskeln mit mehr Sauerstoff zu versorgen.",
     t8_h1: "Herzschlagfrequenz", t8_h2: "Sport & Puls",
     t8_inst: "Miss den Puls!",
   },
@@ -622,7 +622,7 @@ export const BIO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t1_title: "Arterien & Venen",
     t1_text: "Arterien führen vom Herzen weg (meist sauerstoffreich). Venen führen zum Herzen hin (meist sauerstoffarm).",
     t1_h1: "Vom Herzen weg (A)", t1_h2: "Zum Herzen hin (V)",
-    t1_inst: "Folg der Arterie!",
+    t1_inst: "Folge der Arterie!",
     t1_q: "Welche Gefäße führen das Blut zum Herzen zurück?",
     t1_qa: "Venen", t1_qb: "Arterien", t1_qc: "Kapillaren", t1_qd: "Nerven",
 
@@ -739,13 +739,13 @@ export const BIO_K6_I7_LABELS: Record<string, Record<string, string>> = {
     t1_title: "Der Weg der Luft",
     t1_text: "Durch Nase oder Mund gelangt die Luft über den Kehlkopf und die Luftröhre in die Lunge.",
     t1_h1: "Nasenhöhle", t1_h2: "Luftröhre & Bronchien",
-    t1_inst: "Folg dem Atem!",
+    t1_inst: "Folge dem Atem!",
     t1_q: "Was verhindert, dass Nahrung in die Luftröhre gelangt?",
     t1_qa: "Der Kehldeckel", t1_qb: "Die Zunge", t1_qc: "Die Zähne", t1_qd: "Der Gaumen",
 
     // T2: Die Lunge
     t2_title: "Aufbau der Lunge",
-    t2_text: "Die Luftröhre verzweigt sich in zwei Bronchien, die sich immer feiner verästeln és in den Lungenbläschen enden.",
+    t2_text: "Die Luftröhre verzweigt sich in zwei Bronchien, die sich immer feiner verästeln und in den Lungenbläschen enden.",
     t2_h1: "Bronchialbaum", t2_h2: "Lungenbläschen (Alveolen)",
     t2_inst: "Puste sie auf!",
     t2_q: "Wie nennt man die feinen Verästelungen in der Lunge?",
@@ -753,7 +753,7 @@ export const BIO_K6_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T3: Gasaustausch
     t3_title: "Gasaustausch",
-    t3_text: "In den Lungenbläschen tritt Sauerstoff ins Blut over, während Kohlendioxid aus dem Blut in die Lunge abgegeben wird.",
+    t3_text: "In den Lungenbläschen tritt Sauerstoff ins Blut über, während Kohlendioxid aus dem Blut in die Lunge abgegeben wird.",
     t3_h1: "Sauerstoff rein", t3_h2: "CO2 raus",
     t3_inst: "Tausche die Gase!",
     t3_q: "Wo genau findet der Gasaustausch in der Lunge statt?",
@@ -896,17 +896,17 @@ export const BIO_K6_I8_LABELS: Record<string, Record<string, string>> = {
     t6_title: "Schwangerschaft",
     t6_text: "In der Gebärmutter wächst der Embryo über 9 Monate zum fertigen Baby heran.",
     t6_h1: "9 Monate", t6_h2: "Wachstum im Bauch",
-    t6_inst: "Schau das Ultraschall an!",
+    t6_inst: "Schau dir das Ultraschallbild an!",
 
     // T7: Hormone
     t7_title: "Botenstoffe",
-    t7_text: "Hormone sind chemische Botenstoffe, die über das Blut verteilt werden és Reaktionen im Körper auslösen.",
+    t7_text: "Hormone sind chemische Botenstoffe, die über das Blut verteilt werden und Reaktionen im Körper auslösen.",
     t7_h1: "Chemische Signale", t7_h2: "Drüsen",
     t7_inst: "Sende das Hormon!",
 
     // T8: Verantwortung
     t8_title: "Schutz & Hygiene",
-    t8_text: "Körperpflege und ein verantwortungsvoller Umgang with Sexualität sind wichtig für die Gesundheit.",
+    t8_text: "Körperpflege und ein verantwortungsvoller Umgang mit Sexualität sind wichtig für die Gesundheit.",
     t8_h1: "Hygiene", t8_h2: "Verantwortung",
     t8_inst: "Was ist wichtig?",
   },
@@ -993,7 +993,7 @@ export const BIO_K6_I9_LABELS: Record<string, Record<string, string>> = {
 
     // T4: Gewässer
     t4_title: "Wasser-Review",
-    t4_text: "Süßwasser und Salzwasser sind unterschiedliche Lebensräume with angepassten Bewohnern.",
+    t4_text: "Süßwasser und Salzwasser sind unterschiedliche Lebensräume mit angepassten Bewohnern.",
     t4_h1: "See und Meer", t4_h2: "Plankton",
     t4_inst: "Tauche ein!",
 

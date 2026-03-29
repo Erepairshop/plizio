@@ -391,7 +391,7 @@ export const BIO_K8_I4_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "탯줄", color: "#E74C3C" },
+    svg: { type: "simple-icon", icon: "🍼", color: "#E74C3C" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Die Plazenta versorgt den Embryo mit ___.", choices: ["Nährstoffen", "Abfall", "Licht"], correctIndex: 0 },
     quiz: { generate: "befruchtung" }
   },
@@ -409,7 +409,7 @@ export const BIO_K8_I5_LABELS: Record<string, Record<string, string>> = {
     t1_inst: "Sortiere die Chromosomen!",
     
     t2_title: "Der Vater bestimmt das Geschlecht",
-    t2_text: "Da die Mutter immer ein X-Chromosom weitergibt, bestimmt das Spermium des Vaters (entwoder mit X oder Y) das Geschlecht des Kindes.",
+    t2_text: "Da die Mutter immer ein X-Chromosom weitergibt, bestimmt das Spermium des Vaters (entweder mit X oder Y) das Geschlecht des Kindes.",
     t2_h1: "X oder Y vom Vater", t2_h2: "50/50 Chance",
     t2_inst: "Wer wird es?",
     
@@ -751,7 +751,7 @@ export const BIO_K8_I8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "simple-icon", icon: " equilibrio", color: "#95A5A6" },
+    svg: { type: "simple-icon", icon: "⚖️", color: "#95A5A6" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "Ohne Evolution bleiben Allelfrequenzen ___.", choices: ["konstant", "zufällig", "kleiner"], correctIndex: 0 },
     quiz: { generate: "populationsgenetik" }
   },
@@ -793,7 +793,7 @@ export const BIO_K8_I8_POOL: PoolTopicDef[] = [
   },
 ];
 
-// ─── i9: PHyLOGENIE & NATURSCHUTZ ──────────────────────────────────────
+// ─── i9: PHYLOGENIE & NATURSCHUTZ ──────────────────────────────────────
 
 export const BIO_K8_I9_LABELS: Record<string, Record<string, string>> = {
   de: {
