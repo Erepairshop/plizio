@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Test Limba Română Online – Gratuit pentru Clasa I–VIII | PLIZIO",
+  title: "Teste de Limba Română Online | PLIZIO",
   description:
-    "Test interactiv de limba română pentru clasele I–VIII. Exerciții de alfabet, ortografie, gramatică, lectură și scriere. Gratuit, fără cont!",
+    "Teste interactive de limba română pentru clasele primare și gimnaziale. Exerciții de alfabet, ortografie, gramatică, lectură și scriere. Gratuit, fără cont.",
   keywords: [
     "test limba română online", "test română gratuit", "test limba română clasa 1–8",
     "exerciții limba română", "teste ortografie română", "gramatică română",
@@ -17,10 +17,10 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Test Limba Română Online – Gratuit pentru Clasa I–VIII | PLIZIO",
-    description: "Exersează limba română online gratuit. Fără înregistrare, pentru toate clasele. Începe acum!",
+    title: "Teste de Limba Română Online | PLIZIO",
+    description: "Exersează limba română online gratuit. Clasele disponibile sunt extinse treptat, cu feedback imediat și acces direct din browser.",
     url: "https://plizio.com/teste-romana/",
-    images: [{ url: "/og/teste-romana.png", width: 1200, height: 630 }],
+    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
   },
 };
 

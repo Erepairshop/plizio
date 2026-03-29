@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Test Limba Română – Plizio",
     description: "Test interactiv de limba română pentru clasa I. Exerciții de alfabet, silabe, ortografie, lectură și înțelegere. Verifică-ți cunoștințele!",
-    images: [{ url: "/og/romaniantest.png", width: 1200, height: 630 }],
+    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
   },
 };
 

@@ -1,16 +1,13 @@
 "use client";
 
 import { useEffect } from "react";
-import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { saveLanguage } from "@/lib/language";
 
 export default function HuPage() {
-  const router = useRouter();
-
   useEffect(() => {
     saveLanguage("hu");
-    router.replace("/");
-  }, [router]);
+  }, []);
 
   return (
     <main style={{ background: "#0A0A1A", color: "white", minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
@@ -22,7 +19,21 @@ export default function HuPage() {
           Játssz ingyenes online játékokkal – letöltés és regisztráció nélkül!
           Versenyautós, kvíz, memória, reflex és kalandjátékok bármilyen eszközön.
         </p>
-        <p style={{ marginTop: "1rem", color: "#6b7280" }}>Átirányítás...</p>
+        <Link
+          href="/"
+          style={{
+            display: "inline-flex",
+            marginTop: "1.25rem",
+            padding: "0.85rem 1.2rem",
+            borderRadius: "14px",
+            color: "#0A0A1A",
+            background: "linear-gradient(135deg, #00D4FF, #B44DFF)",
+            fontWeight: 800,
+            textDecoration: "none",
+          }}
+        >
+          Ugrás a főoldalra
+        </Link>
       </div>
     </main>
   );

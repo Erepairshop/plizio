@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "English Test — Free Grammar Quiz Grades 1–8 | Plizio",
     description:
       "Free online English grammar test for grades 1–8. Practice Common Core ELA: parts of speech, sentence structure, spelling, punctuation, vocabulary and more.",
-    images: [{ url: "/og/englishtest.png", width: 1200, height: 630 }],
+    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
   },
 };
 

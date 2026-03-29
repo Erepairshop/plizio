@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Shop - Skins, Hats & Power-ups",
   description:
     "Customize your gaming experience! Buy skins, hats, trails and power-ups in the PLIZIO shop. Earn rewards by playing games and unlock cool items.",
+  robots: { index: false, follow: false },
   keywords: [
     "game shop",
     "game skins",
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     title: "Shop - Skins & Power-ups | PLIZIO",
     description:
       "Customize your experience with skins, hats, trails and power-ups!",
-    url: "https://plizio.com/shop",
+    url: "https://plizio.com/shop/",
   },
   twitter: {
     card: "summary",
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
     description: "Customize your experience with skins, hats, trails and power-ups!",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/shop" },
+  alternates: { canonical: "https://plizio.com/shop/" },
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
