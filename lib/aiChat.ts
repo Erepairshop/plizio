@@ -19,6 +19,8 @@ interface AIChatOptions {
   maxTokens?: number;
   /** Grade/class level (1-8). Adjusts language complexity. */
   grade?: number;
+  /** Tutor intent mode for tighter prompting */
+  mode?: "free" | "why" | "think" | "fun-fact";
 }
 
 const LANG_NAMES: Record<string, string> = {
@@ -64,12 +66,26 @@ function gradeToComplexity(grade?: number, lang?: string): string {
   return "";
 }
 
+function buildModeInstruction(mode: AIChatOptions["mode"], langName: string): string {
+  switch (mode) {
+    case "why":
+      return `Explain why the correct answer is right and why the wrong answer is not. Use ${langName}. Keep it to 2 short sentences and include one tiny example if helpful.`;
+    case "think":
+      return `Respond to the student's idea warmly, then guide them toward the topic in ${langName}. Keep it to 2 short sentences.`;
+    case "fun-fact":
+      return `Give one surprising but age-appropriate fun fact in ${langName}. Keep it to 1-2 short sentences.`;
+    case "free":
+    default:
+      return `Answer the student's question in ${langName} with a direct, age-appropriate explanation. Keep it to 2-3 short sentences.`;
+  }
+}
+
 /**
  * Ask the AI tutor a question about the current topic.
  * Returns the response text, or null on error.
  */
 export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
-  const { question, context, lang, maxTokens = 150, grade } = opts;
+  const { question, context, lang, maxTokens = 150, grade, mode = "free" } = opts;
 
   const langName = LANG_NAMES[lang] || "English";
   const ageRange = gradeToAge(grade);
@@ -77,10 +93,11 @@ export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
 
   const system = [
     `You are a friendly education tutor for children aged ${ageRange}.`,
-    `Answer in ${langName}. Be brief: 2-3 sentences max.`,
+    buildModeInstruction(mode, langName),
     complexity || `Use simple language appropriate for the student's age.`,
-    `If the question is about: ${context}`,
+    `Learning context: ${context}`,
     `Do NOT use markdown formatting. Just plain text.`,
+    `Do not greet. Do not repeat the whole question. Start directly with the explanation.`,
   ].join(" ");
 
   try {
@@ -96,6 +113,7 @@ export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
         "apikey": anonKey,
       },
       body: JSON.stringify({
+        mode,
         system,
         messages: [{ role: "user", content: question }],
         maxTokens,
@@ -138,7 +156,8 @@ export async function askWhyCorrect(opts: {
     question: userMsg,
     context: topic,
     lang,
-    maxTokens: 200,
+    maxTokens: 140,
     grade,
+    mode: "why",
   });
 }

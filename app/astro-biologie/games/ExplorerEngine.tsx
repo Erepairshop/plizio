@@ -472,6 +472,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const [funFactLoading, setFunFactLoading] = useState(false);
   const recognitionRef = useRef<any>(null);
   const autoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const topicAutoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const scoreRef = useRef(0);
   const totalRef = useRef(0);
@@ -479,6 +480,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   // In topic mode rounds[] is empty — use a dummy round to avoid undefined crashes
   const EMPTY_ROUND: RoundDef = { type: "info", infoTitle: "", infoText: "", svg: () => null };
   const currentRound = rounds[round] || EMPTY_ROUND;
+  const currentTopic = topics[topicIdx] || null;
 
   // Shuffle order sequence once per mount
   const shuffledOrders = useMemo(() => {
@@ -529,6 +531,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       setThinkAnswer("");
       setThinkFeedback(null);
       setFunFact(null);
+      setAiResponse(null);
+      setVoiceText("");
     } else {
       onDone?.(scoreRef.current, totalRef.current);
     }
@@ -704,6 +708,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         setTopicIdx(topicIdx + 1);
         setTopicPhase("topic-teach");
         setPhase("topic-teach");
+        setAiResponse(null);
+        setVoiceText("");
+        setFunFact(null);
       } else {
         onDone?.(scoreRef.current, totalRef.current);
       }
@@ -725,26 +732,29 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     if (topicQuizLocked) return;
     setTopicQuizLocked(true);
     setTopicQuizSelected(choice);
+    setAiResponse(null);
     const topic = topics[topicIdx];
     if (!topic) return;
     totalRef.current += 1;
     const isCorrect = choice === topic.quiz.answer;
     if (isCorrect) scoreRef.current += 1;
 
-    // Auto-advance after feedback
-    setTimeout(() => {
-      setTopicQuizSelected(null);
-      setTopicQuizLocked(false);
-      advanceTopicPhase();
-    }, isCorrect ? 1500 : 2500);
+    if (isCorrect) {
+      if (topicAutoAdvanceRef.current) clearTimeout(topicAutoAdvanceRef.current);
+      topicAutoAdvanceRef.current = setTimeout(() => {
+        setTopicQuizSelected(null);
+        setTopicQuizLocked(false);
+        advanceTopicPhase();
+      }, 1500);
+    }
   }, [topicQuizLocked, topics, topicIdx, advanceTopicPhase]);
 
   // ── AI: "Think first" — constructivist question at round start ──────────
   const handleThinkSubmit = useCallback(async (text: string) => {
     if (!text.trim() || aiLoading) return;
     setAiLoading(true);
-    const topicTitle = L(currentRound.infoTitle);
-    const topicText = L(currentRound.infoText);
+    const topicTitle = isTopicMode && currentTopic ? L(currentTopic.infoTitle) : L(currentRound.infoTitle);
+    const topicText = isTopicMode && currentTopic ? L(currentTopic.infoText) : L(currentRound.infoText);
     const result = await askAITutor({
       question: text,
       context: `Grade ${grade || "?"} student. Topic: "${topicTitle}". Correct info: "${topicText}". Respond encouragingly to their guess, then say "Let's find out more!" Keep it to 2 sentences.`,
@@ -759,13 +769,13 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setThinkFeedback(ui.goodThought);
     }
-  }, [aiLoading, currentRound, langCode, speak, L, ui.goodThought]);
+  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.goodThought]);
 
   // ── AI: Fun fact generation (enhanced mode) — 6s timeout ───────────────
   const loadFunFact = useCallback(async () => {
     if (!aiEnhanced || funFactLoading) return;
     setFunFactLoading(true);
-    const topicTitle = L(currentRound.infoTitle);
+    const topicTitle = isTopicMode && currentTopic ? L(currentTopic.infoTitle) : L(currentRound.infoTitle);
     try {
       const timeout = new Promise<null>((resolve) => setTimeout(() => resolve(null), 6000));
       const rng = Math.random().toString(36).slice(2, 6);
@@ -782,15 +792,15 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } catch {
       setFunFactLoading(false);
     }
-  }, [aiEnhanced, funFactLoading, currentRound, langCode, L, grade]);
+  }, [aiEnhanced, funFactLoading, currentRound, currentTopic, isTopicMode, langCode, L, grade]);
 
   // Load fun fact when entering info phase in enhanced mode
   useEffect(() => {
-    if (aiEnhanced && phase === "info") {
+    if (aiEnhanced && (phase === "info" || phase === "topic-teach")) {
       setFunFact(null);
       loadFunFact();
     }
-  }, [round, phase]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [round, phase, topicIdx]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // ── AI: "Why?" after wrong answer ──────────────────────────────────────
   const handleAskWhy = useCallback(async () => {
@@ -822,14 +832,22 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     }
   }, [getCurrentQuestion, selected, aiLoading, currentRound, langCode, speak, L, ui.aiError]);
 
-  // ── AI: Free question (voice or text) ──────────────────────────────────
-  const handleAskFree = useCallback(async (text: string) => {
-    if (!text.trim() || aiLoading) return;
+  const handleTopicAskWhy = useCallback(async () => {
+    const topic = topics[topicIdx];
+    if (!topic || !topicQuizSelected || aiLoading) return;
+
+    if (topicAutoAdvanceRef.current) {
+      clearTimeout(topicAutoAdvanceRef.current);
+      topicAutoAdvanceRef.current = null;
+    }
+    setAiActive(true);
     setAiLoading(true);
     setAiResponse(null);
-    const result = await askAITutor({
-      question: text,
-      context: `Grade ${grade || "?"}: ${L(currentRound.infoTitle)} — ${L(currentRound.infoText)}`,
+    const result = await askWhyCorrect({
+      question: L(topic.quiz.question),
+      wrongAnswer: L(topicQuizSelected),
+      correctAnswer: L(topic.quiz.answer),
+      topic: L(topic.infoTitle),
       lang: langCode,
       grade,
     });
@@ -840,7 +858,29 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setAiResponse(ui.aiError);
     }
-  }, [aiLoading, currentRound, langCode, speak, L, ui.aiError]);
+  }, [topics, topicIdx, topicQuizSelected, aiLoading, langCode, grade, speak, L, ui.aiError]);
+
+  // ── AI: Free question (voice or text) ──────────────────────────────────
+  const handleAskFree = useCallback(async (text: string) => {
+    if (!text.trim() || aiLoading) return;
+    setAiLoading(true);
+    setAiResponse(null);
+    const topicTitle = isTopicMode && currentTopic ? L(currentTopic.infoTitle) : L(currentRound.infoTitle);
+    const topicText = isTopicMode && currentTopic ? L(currentTopic.infoText) : L(currentRound.infoText);
+    const result = await askAITutor({
+      question: text,
+      context: `Grade ${grade || "?"}: ${topicTitle} — ${topicText}`,
+      lang: langCode,
+      grade,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.aiError]);
 
   // ── Voice recognition (STT) ────────────────────────────────────────────
   const toggleVoice = useCallback(() => {
@@ -1085,6 +1125,77 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       ))}
                     </div>
                   )}
+
+                  {aiEnhanced && topicIdx === 0 && (funFact || funFactLoading) && (
+                    <motion.div
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      className="w-full bg-amber-500/10 border border-amber-500/20 rounded-xl p-3"
+                    >
+                      {funFactLoading ? (
+                        <div className="flex items-center gap-2 text-amber-300 text-xs font-medium justify-center">
+                          <Loader2 size={14} className="animate-spin" />
+                          {ui.funFact}...
+                        </div>
+                      ) : (
+                        <div className="flex items-start gap-2 text-sm text-amber-200/90 leading-relaxed">
+                          <span className="font-bold text-amber-400 shrink-0">{ui.funFact}:</span>
+                          <span>{funFact}</span>
+                        </div>
+                      )}
+                    </motion.div>
+                  )}
+
+                  <div className="w-full flex flex-col items-center gap-2 mt-1">
+                    <div className="flex items-center gap-2 w-full">
+                      <button
+                        onClick={toggleVoice}
+                        className={`w-10 h-10 rounded-full flex items-center justify-center transition-all shrink-0 ${
+                          isListening
+                            ? "bg-red-500 text-white animate-pulse"
+                            : "bg-white/10 text-white/60 hover:bg-white/20 hover:text-white"
+                        }`}
+                      >
+                        {isListening ? <MicOff size={18} /> : <Mic size={18} />}
+                      </button>
+                      <input
+                        type="text"
+                        value={voiceText}
+                        onChange={(e) => setVoiceText(e.target.value)}
+                        onKeyDown={(e) => { if (e.key === "Enter") handleAskFree(voiceText); }}
+                        placeholder={isListening ? ui.listening : ui.askAnything}
+                        className="flex-1 bg-white/10 border border-white/20 rounded-xl px-3 py-2.5 text-sm text-white placeholder:text-white/40 focus:outline-none focus:border-purple-500/50"
+                      />
+                      {voiceText.trim() && !aiLoading && (
+                        <button
+                          onClick={() => handleAskFree(voiceText)}
+                          className="w-10 h-10 rounded-full bg-purple-500/30 text-purple-300 flex items-center justify-center hover:bg-purple-500/40 transition-colors shrink-0"
+                        >
+                          <ChevronRight size={18} />
+                        </button>
+                      )}
+                    </div>
+
+                    {aiLoading && (
+                      <div className="flex items-center gap-2 text-purple-300 text-xs font-medium">
+                        <Loader2 size={14} className="animate-spin" />
+                        {ui.thinking}
+                      </div>
+                    )}
+
+                    {aiResponse && (
+                      <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed"
+                      >
+                        <div className="flex items-start gap-2">
+                          <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                          <p>{aiResponse}</p>
+                        </div>
+                      </motion.div>
+                    )}
+                  </div>
 
                   {/* TTS + Continue */}
                   <div className="flex gap-2 w-full">
@@ -1549,6 +1660,66 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       {topicQuizSelected === topics[topicIdx].quiz.answer
                         ? ui.correct
                         : `${ui.wrong} → ${L(topics[topicIdx].quiz.answer)}`}
+                    </motion.div>
+                  )}
+
+                  {topicQuizLocked && topicQuizSelected !== topics[topicIdx].quiz.answer && !aiResponse && !aiLoading && (
+                    <motion.div
+                      initial={{ opacity: 0, scale: 0.9 }}
+                      animate={{ opacity: 1, scale: 1 }}
+                      transition={{ delay: 0.2 }}
+                      className="flex items-center gap-2"
+                    >
+                      <button
+                        onClick={handleTopicAskWhy}
+                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
+                      >
+                        <MessageCircleQuestion size={14} />
+                        {ui.askWhy}
+                      </button>
+                      <button
+                        onClick={() => {
+                          setTopicQuizSelected(null);
+                          setTopicQuizLocked(false);
+                          advanceTopicPhase();
+                        }}
+                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/20 text-white/70 hover:bg-white/20 transition-colors"
+                      >
+                        {ui.next} <ChevronRight size={14} />
+                      </button>
+                    </motion.div>
+                  )}
+
+                  {topicQuizLocked && aiLoading && (
+                    <div className="flex items-center gap-2 text-purple-300 text-xs font-medium">
+                      <Loader2 size={14} className="animate-spin" />
+                      {ui.thinking}
+                    </div>
+                  )}
+
+                  {topicQuizLocked && aiResponse && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      className="w-full flex flex-col items-center gap-3"
+                    >
+                      <div className="w-full bg-purple-500/10 border border-purple-500/20 rounded-xl p-3 text-sm text-white/80 leading-relaxed">
+                        <div className="flex items-start gap-2">
+                          <span className="text-purple-400 text-base mt-0.5">🤖</span>
+                          <p>{aiResponse}</p>
+                        </div>
+                      </div>
+                      <button
+                        onClick={() => {
+                          setAiResponse(null);
+                          setTopicQuizSelected(null);
+                          setTopicQuizLocked(false);
+                          advanceTopicPhase();
+                        }}
+                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/20 text-white/70 hover:bg-white/20 transition-colors"
+                      >
+                        {ui.next} <ChevronRight size={14} />
+                      </button>
                     </motion.div>
                   )}
                 </motion.div>

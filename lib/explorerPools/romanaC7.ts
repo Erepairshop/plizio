@@ -1,51 +1,518 @@
-// lib/explorerPools/romanaC7.ts — AstroRomână Clasa 7 pool stubs
+// lib/explorerPools/romanaC7.ts — AstroRomână Clasa 7
 import type { PoolTopicDef } from "./types";
 
-function mkLabels(ro: string, en: string, hu: string, de: string) {
+function mkLabels(base: Record<string, string>) {
   return {
-    en: { explorer_title: en, t1_title: en, t1_text: en, t1_q: en+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: en, t1_h1: en, t1_h2: en, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
-    hu: { explorer_title: hu, t1_title: hu, t1_text: hu, t1_q: hu+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: hu, t1_h1: hu, t1_h2: hu, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
-    de: { explorer_title: de, t1_title: de, t1_text: de, t1_q: de+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: de, t1_h1: de, t1_h2: de, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
-    ro: { explorer_title: ro, t1_title: ro, t1_text: ro, t1_q: ro+"?", t1_qa: "A", t1_qb: "B", t1_qc: "C", t1_qd: "D", t1_inst: ro, t1_h1: ro, t1_h2: ro, t1_l1: "1", t1_r1: "a", t1_l2: "2", t1_r2: "b", t1_l3: "3", t1_r3: "c" },
+    en: { ...base },
+    hu: { ...base },
+    de: { ...base },
+    ro: { ...base },
   };
 }
 
-function mkPool(color: string): PoolTopicDef[] {
-  return [
-    {
-      infoTitle: "t1_title", infoText: "t1_text",
-      svg: { type: "simple-icon", icon: "📐", color },
-      hintKey: "t1_h1",
-      interactive: { type: "match-pairs", pairs: [{ left: "t1_l1", right: "t1_r1" }, { left: "t1_l2", right: "t1_r2" }, { left: "t1_l3", right: "t1_r3" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-      quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
-      difficulty: "hard",
-    },
-  ];
+function mkPool(topic: PoolTopicDef): PoolTopicDef[] {
+  return [topic];
 }
 
-export const SINT7P_LABELS = mkLabels("Sintaxa propoziției C7", "Sentence Syntax C7", "Mondatszerkezet C7", "Satzsyntax K7");
-export const SINT7P_POOL = mkPool("#B44DFF");
+export const SINT7P_LABELS = mkLabels({
+  explorer_title: "Sintaxa propoziției",
+  t1_title: "Propoziția simplă",
+  t1_text: "Pornim de la subiect și predicat și vedem cum se construiește un enunț clar.",
+  t1_q: "Care este subiectul în enunțul dat?",
+  t1_qa: "Mara",
+  t1_qb: "citește",
+  t1_qc: "carte",
+  t1_qd: "o",
+  t1_inst: "Potrivește noțiunea cu explicația ei.",
+  t1_h1: "Subiectul spune cine face acțiunea.",
+  t1_h2: "Predicatul spune ce face subiectul.",
+  t1_l1: "subiect",
+  t1_r1: "cine?",
+  t1_l2: "predicat",
+  t1_r2: "ce face?",
+  t1_l3: "propoziție simplă",
+  t1_r3: "un singur predicat",
+  t1_l4: "enunț",
+  t1_r4: "unitate de comunicare",
+});
 
-export const SINT7F_LABELS = mkLabels("Sintaxa frazei", "Phrase Syntax", "Mondatfüzér", "Satzkette");
-export const SINT7F_POOL = mkPool("#A78BFA");
+export const SINT7P_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "sentence-display",
+    words: ["Mara", "citește", "o", "carte", "."],
+    highlightIndices: [0, 1],
+    color: "#8B5CF6",
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "match-pairs",
+    pairs: [
+      { left: "t1_l1", right: "t1_r1" },
+      { left: "t1_l2", right: "t1_r2" },
+      { left: "t1_l3", right: "t1_r3" },
+      { left: "t1_l4", right: "t1_r4" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "easy",
+});
 
-export const FIG7_LABELS = mkLabels("Figuri de stil C7", "Figures of Speech C7", "Stílusalakzatok C7", "Stilfiguren K7");
-export const FIG7_POOL = mkPool("#8B5CF6");
+export const SINT7F_LABELS = mkLabels({
+  explorer_title: "Sintaxa frazei",
+  t1_title: "Fraza și raporturile dintre propoziții",
+  t1_text: "În frază, propozițiile se leagă prin coordonare sau subordonare, iar conectorii ne arată legătura.",
+  t1_q: "Care conector introduce de obicei o subordonare?",
+  t1_qa: "pentru că",
+  t1_qb: "și",
+  t1_qc: "dar",
+  t1_qd: "ori",
+  t1_inst: "Așază conectorii în grupa potrivită.",
+  t1_h1: "Coordonarea leagă propoziții de același rang.",
+  t1_h2: "Subordonarea depinde de o propoziție principală.",
+  t1_b1: "coordonare",
+  t1_b2: "subordonare",
+  t1_i1: "și",
+  t1_i2: "dar",
+  t1_i3: "nici",
+  t1_i4: "pentru că",
+  t1_i5: "ca să",
+  t1_i6: "fiindcă",
+});
 
-export const COMT7_LABELS = mkLabels("Textul comentariu", "Commentary Text", "Kommentár szöveg", "Kommentartext");
-export const COMT7_POOL = mkPool("#B44DFF");
+export const SINT7F_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "text-bubbles",
+    items: [
+      { text: "și", color: "#2563EB", bg: "#DBEAFE" },
+      { text: "dar", color: "#059669", bg: "#D1FAE5" },
+      { text: "pentru că", color: "#D97706", bg: "#FEF3C7" },
+      { text: "ca să", color: "#7C3AED", bg: "#F3E8FF" },
+    ],
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "drag-to-bucket",
+    buckets: [
+      { id: "coordonare", label: "t1_b1" },
+      { id: "subordonare", label: "t1_b2" },
+    ],
+    items: [
+      { text: "t1_i1", bucketId: "coordonare" },
+      { text: "t1_i2", bucketId: "coordonare" },
+      { text: "t1_i3", bucketId: "coordonare" },
+      { text: "t1_i4", bucketId: "subordonare" },
+      { text: "t1_i5", bucketId: "subordonare" },
+      { text: "t1_i6", bucketId: "subordonare" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "medium",
+});
 
-export const MORFO7_LABELS = mkLabels("Morfologia C7", "Morphology C7", "Szótan C7", "Morphologie K7");
-export const MORFO7_POOL = mkPool("#A78BFA");
+export const FIG7_LABELS = mkLabels({
+  explorer_title: "Figuri de stil",
+  t1_title: "Comparația și epitetul",
+  t1_text: "Recunoaștem asemănările explicite și însușirile expresive care colorează enunțul.",
+  t1_q: "Care enunț conține o comparație?",
+  t1_qa: "alb ca zăpada",
+  t1_qb: "vânt rece",
+  t1_qc: "copil vesel",
+  t1_qd: "foarte bine",
+  t1_inst: "Potrivește exemplul cu figura de stil.",
+  t1_h1: "Comparația spune clar că două lucruri seamănă.",
+  t1_h2: "Epitetul adaugă o însușire expresivă.",
+  t1_l1: "alb ca zăpada",
+  t1_r1: "comparație",
+  t1_l2: "tare ca piatra",
+  t1_r2: "comparație",
+  t1_l3: "vânt rece",
+  t1_r3: "epitet",
+  t1_l4: "nopți tăcute",
+  t1_r4: "epitet",
+});
 
-export const ORT7_LABELS = mkLabels("Ortografia C7", "Spelling C7", "Helyesírás C7", "Rechtschreibung K7");
-export const ORT7_POOL = mkPool("#8B5CF6");
+export const FIG7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "rhyme-pair",
+    word1: "alb ca zăpada",
+    word2: "vânt rece",
+    color: "#A855F7",
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "match-pairs",
+    pairs: [
+      { left: "t1_l1", right: "t1_r1" },
+      { left: "t1_l2", right: "t1_r2" },
+      { left: "t1_l3", right: "t1_r3" },
+      { left: "t1_l4", right: "t1_r4" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "medium",
+});
 
-export const EPIC7_LABELS = mkLabels("Textul epic C7", "Epic Text C7", "Epikus szöveg C7", "Epischer Text K7");
-export const EPIC7_POOL = mkPool("#B44DFF");
+export const COMT7_LABELS = mkLabels({
+  explorer_title: "Textul comentariu",
+  t1_title: "Planul comentariului",
+  t1_text: "Comentariul bun are o ordine clară: introducere, cuprins și încheiere.",
+  t1_q: "Care este prima parte a unui comentariu?",
+  t1_qa: "introducerea",
+  t1_qb: "cuprinsul",
+  t1_qc: "încheierea",
+  t1_qd: "exemplul",
+  t1_inst: "Așază părțile în ordinea potrivită.",
+  t1_h1: "Începutul prezintă ideea și tema.",
+  t1_h2: "La final vine încheierea.",
+  t1_f1: "introducere",
+  t1_f2: "cuprins",
+  t1_f3: "încheiere",
+});
 
-export const LIRIC7_LABELS = mkLabels("Textul liric C7", "Lyric Text C7", "Lírai szöveg C7", "Lyrischer Text K7");
-export const LIRIC7_POOL = mkPool("#A78BFA");
+export const COMT7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "word-display",
+    word: "introducere - cuprins - încheiere",
+    highlightChars: ["i", "c", "î"],
+    color: "#DB2777",
+    subtitle: "structura comentariului",
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "sentence-build",
+    fragments: ["t1_f1", "t1_f2", "t1_f3"],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "medium",
+});
 
-export const RECAP7_LABELS = mkLabels("Recapitulare C7", "Review C7", "Összefoglalás C7", "Wiederholung C7");
-export const RECAP7_POOL = mkPool("#B44DFF");
+export const MORFO7_LABELS = mkLabels({
+  explorer_title: "Morfologia",
+  t1_title: "Părțile de vorbire flexibile",
+  t1_text: "Grupăm cuvintele după ce exprimă și după felul în care se schimbă în propoziție.",
+  t1_q: "Care cuvânt este numeral?",
+  t1_qa: "doi",
+  t1_qb: "frumos",
+  t1_qc: "scrie",
+  t1_qd: "copil",
+  t1_inst: "Așază cuvintele în grupa potrivită.",
+  t1_h1: "Adjectivul arată o însușire.",
+  t1_h2: "Numeralul arată cantitatea sau ordinea.",
+  t1_b1: "adjective",
+  t1_b2: "numerale",
+  t1_b3: "verbe",
+  t1_i1: "frumos",
+  t1_i2: "harnic",
+  t1_i3: "doi",
+  t1_i4: "al treilea",
+  t1_i5: "merge",
+  t1_i6: "scrie",
+});
+
+export const MORFO7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "icon-grid",
+    items: [
+      { emoji: "🎯", label: "adjectiv" },
+      { emoji: "🔢", label: "numeral" },
+      { emoji: "🏃", label: "verb" },
+      { emoji: "📘", label: "cuvânt" },
+    ],
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "drag-to-bucket",
+    buckets: [
+      { id: "adjective", label: "t1_b1" },
+      { id: "numerale", label: "t1_b2" },
+      { id: "verbe", label: "t1_b3" },
+    ],
+    items: [
+      { text: "t1_i1", bucketId: "adjective" },
+      { text: "t1_i2", bucketId: "adjective" },
+      { text: "t1_i3", bucketId: "numerale" },
+      { text: "t1_i4", bucketId: "numerale" },
+      { text: "t1_i5", bucketId: "verbe" },
+      { text: "t1_i6", bucketId: "verbe" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "medium",
+});
+
+export const ORT7_LABELS = mkLabels({
+  explorer_title: "Ortografia",
+  t1_title: "Scrierea cu cratimă",
+  t1_text: "Alegem forma corectă atunci când un cuvânt se leagă de altul prin cratimă sau prin scriere separată.",
+  t1_q: "Care este forma corectă în enunțul „Maria ___ dus la școală.”?",
+  t1_qa: "s-a",
+  t1_qb: "sa",
+  t1_qc: "să",
+  t1_qd: "saa",
+  t1_inst: "Potrivește forma corectă cu folosirea ei.",
+  t1_h1: "Cratima ajută la scrierea unor forme scurte și legate.",
+  t1_h2: "Forma greșită schimbă sensul enunțului.",
+  t1_l1: "s-a",
+  t1_r1: "verb reflexiv",
+  t1_l2: "sa",
+  t1_r2: "posesiv",
+  t1_l3: "l-a",
+  t1_r3: "pronume + verb",
+  t1_l4: "la",
+  t1_r4: "prepoziție",
+});
+
+export const ORT7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "word-display",
+    word: "s-a / sa / l-a / la",
+    highlightChars: ["-", "a"],
+    color: "#F59E0B",
+    subtitle: "forme care se confundă ușor",
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "match-pairs",
+    pairs: [
+      { left: "t1_l1", right: "t1_r1" },
+      { left: "t1_l2", right: "t1_r2" },
+      { left: "t1_l3", right: "t1_r3" },
+      { left: "t1_l4", right: "t1_r4" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "hard",
+});
+
+export const EPIC7_LABELS = mkLabels({
+  explorer_title: "Textul epic",
+  t1_title: "Elementele textului epic",
+  t1_text: "Recunoaștem naratorul, personajele, timpul și spațiul acțiunii într-un text epic.",
+  t1_q: "Cine spune povestea într-un text epic?",
+  t1_qa: "naratorul",
+  t1_qb: "versul",
+  t1_qc: "epitetul",
+  t1_qd: "ritmul",
+  t1_inst: "Potrivește fiecare element cu explicația lui.",
+  t1_h1: "Naratorul povestește întâmplările.",
+  t1_h2: "Personajele participă la acțiune.",
+  t1_l1: "narator",
+  t1_r1: "spune povestea",
+  t1_l2: "personaje",
+  t1_r2: "participă la acțiune",
+  t1_l3: "timp",
+  t1_r3: "când?",
+  t1_l4: "spațiu",
+  t1_r4: "unde?",
+});
+
+export const EPIC7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "icon-grid",
+    items: [
+      { emoji: "📖", label: "narator" },
+      { emoji: "👧", label: "personaj" },
+      { emoji: "⏰", label: "timp" },
+      { emoji: "🗺️", label: "spațiu" },
+    ],
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "match-pairs",
+    pairs: [
+      { left: "t1_l1", right: "t1_r1" },
+      { left: "t1_l2", right: "t1_r2" },
+      { left: "t1_l3", right: "t1_r3" },
+      { left: "t1_l4", right: "t1_r4" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "medium",
+});
+
+export const LIRIC7_LABELS = mkLabels({
+  explorer_title: "Textul liric",
+  t1_title: "Elementele textului liric",
+  t1_text: "Citim poezia prin vocea eului liric și urmărim versul, strofa și imaginile artistice.",
+  t1_q: "Cum se numește vocea care vorbește în poezie?",
+  t1_qa: "eul liric",
+  t1_qb: "naratorul",
+  t1_qc: "personajul",
+  t1_qd: "autorul",
+  t1_inst: "Potrivește termenul cu explicația lui.",
+  t1_h1: "Eul liric este vocea poeziei.",
+  t1_h2: "Versul și strofa organizează poemul.",
+  t1_l1: "eul liric",
+  t1_r1: "vocea poeziei",
+  t1_l2: "vers",
+  t1_r2: "rând al poeziei",
+  t1_l3: "strofă",
+  t1_r3: "grup de versuri",
+  t1_l4: "imagine artistică",
+  t1_r4: "expresie sugestivă",
+});
+
+export const LIRIC7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "word-display",
+    word: "eul liric",
+    highlightChars: ["e", "u", "l"],
+    color: "#8B5CF6",
+    subtitle: "vocea poeziei",
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "match-pairs",
+    pairs: [
+      { left: "t1_l1", right: "t1_r1" },
+      { left: "t1_l2", right: "t1_r2" },
+      { left: "t1_l3", right: "t1_r3" },
+      { left: "t1_l4", right: "t1_r4" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "hard",
+});
+
+export const RECAP7_LABELS = mkLabels({
+  explorer_title: "Recapitulare",
+  t1_title: "Recapitulare C7",
+  t1_text: "Recunoaștem rapid ce ține de sintaxă, morfologie, stilistică, ortografie și literatură.",
+  t1_q: "La ce domeniu aparține cuvântul „epitet”?",
+  t1_qa: "stilistică",
+  t1_qb: "sintaxă",
+  t1_qc: "ortografie",
+  t1_qd: "morfologie",
+  t1_inst: "Așază noțiunile în grupa corectă.",
+  t1_h1: "Leagă fiecare termen de domeniul lui.",
+  t1_h2: "Gândește-te la lecțiile de peste an.",
+  t1_b1: "sintaxă",
+  t1_b2: "morfologie",
+  t1_b3: "stilistică",
+  t1_b4: "literatură",
+  t1_b5: "ortografie",
+  t1_i1: "subiect",
+  t1_i2: "doi",
+  t1_i3: "epitet",
+  t1_i4: "narator",
+  t1_i5: "s-a",
+  t1_i6: "eul liric",
+  t1_i7: "predicat",
+  t1_i8: "adjectiv",
+});
+
+export const RECAP7_POOL = mkPool({
+  infoTitle: "t1_title",
+  infoText: "t1_text",
+  svg: {
+    type: "text-bubbles",
+    items: [
+      { text: "sintaxă", color: "#2563EB", bg: "#DBEAFE" },
+      { text: "morfologie", color: "#059669", bg: "#D1FAE5" },
+      { text: "stilistică", color: "#D97706", bg: "#FEF3C7" },
+      { text: "literatură", color: "#7C3AED", bg: "#F3E8FF" },
+    ],
+  },
+  hintKey: "t1_h1",
+  interactive: {
+    type: "drag-to-bucket",
+    buckets: [
+      { id: "sintaxa", label: "t1_b1" },
+      { id: "morfologia", label: "t1_b2" },
+      { id: "stilistica", label: "t1_b3" },
+      { id: "literatura", label: "t1_b4" },
+      { id: "ortografie", label: "t1_b5" },
+    ],
+    items: [
+      { text: "t1_i1", bucketId: "sintaxa" },
+      { text: "t1_i2", bucketId: "morfologia" },
+      { text: "t1_i3", bucketId: "stilistica" },
+      { text: "t1_i4", bucketId: "literatura" },
+      { text: "t1_i5", bucketId: "ortografie" },
+      { text: "t1_i6", bucketId: "literatura" },
+      { text: "t1_i7", bucketId: "sintaxa" },
+      { text: "t1_i8", bucketId: "morfologia" },
+    ],
+    instruction: "t1_inst",
+    hint1: "t1_h1",
+    hint2: "t1_h2",
+  },
+  quiz: {
+    question: "t1_q",
+    choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
+    answer: "t1_qa",
+  },
+  difficulty: "hard",
+});
