@@ -405,7 +405,7 @@ export const WASSER_LABELS: Record<string, Record<string, string>> = {
     t6_title: "Lebensraum", t6_text: "Tiere im Wasser.", t6_inst: "Löse die Aufgabe:", t6_h1: "Schau genau hin!", t6_h2: "Du schaffst das!", t6_q: "Wer lebt im See?", t6_qa: "Fisch", t6_qb: "Hase", t6_qc: "Vogel", t6_qd: "Igel",
     t6_w1: "Im", t6_w2: "Teich", t6_w3: "können", t6_w4: "wir", t6_w5: "viele", t6_w6: "Frösche",
     t6_l1: "Forelle", t6_r1: "Bach", t6_l2: "Hai", t6_r2: "Meer", t6_l3: "Frosch", t6_r3: "Teich",
-    t6_sent: "Der Ozean ist riesig és ___.", t6_qa2: "salzig", t6_qb2: "falsch", t6_qc2: "nicht", t6_qd2: "vielleicht",
+    t6_sent: "Der Ozean ist riesig und ___.", t6_qa2: "salzig", t6_qb2: "falsch", t6_qc2: "nicht", t6_qd2: "vielleicht",
     t6_f1: "Viele", t6_f2: "Tiere", t6_f3: "können", t6_f4: "nur", t6_f5: "im", t6_f6: "Wasser",
     t6_tk1: "Korallenriffe", t6_tk2: "sind", t6_tk3: "sehr", t6_tk4: "bunte", t6_tk5: "und", t6_tk6: "artenreiche", t6_tk7: "Lebensräume.", t6_tk8: "",
     t6_bl1: "Süßwasser", t6_bl2: "Salzwasser", t6_i1: "See", t6_i2: "Meer", t6_i3: "Bach", t6_i4: "Ozean",
@@ -979,21 +979,21 @@ export const FINALE2_LABELS: Record<string, Record<string, string>> = {
     t1_f1: "Überall", t1_f2: "in", t1_f3: "unserer", t1_f4: "Heimat", t1_f5: "gibt", t1_f6: "es",
     t1_tk1: "Naturschutz", t1_tk2: "bedeutet", t1_tk3: "die", t1_tk4: "Vielfalt", t1_tk5: "unserer", t1_tk6: "Welt", t1_tk7: "zu", t1_tk8: "bewahren.",
     t1_bl1: "Tier", t1_bl2: "Pflanze", t1_i1: "Reh", t1_i2: "Buche", t1_i3: "Fuchs", t1_i4: "Tanne",
-    t2_title: "Technik", t2_text: "Magnete és Co.", t2_inst: "Löse die Aufgabe:", t2_h1: "Schau genau hin!", t2_h2: "Du schaffst das!", t2_q: "Was zieht Eisen an?", t2_qa: "Magnet", t2_qb: "Holz", t2_qc: "Gummi", t2_qd: "Stein",
+    t2_title: "Technik", t2_text: "Magnete und Co.", t2_inst: "Löse die Aufgabe:", t2_h1: "Schau genau hin!", t2_h2: "Du schaffst das!", t2_q: "Was zieht Eisen an?", t2_qa: "Magnet", t2_qb: "Holz", t2_qc: "Gummi", t2_qd: "Stein",
     t2_w1: "Magnete", t2_w2: "sind", t2_w3: "faszinierende", t2_w4: "Werkzeuge", t2_w5: "in", t2_w6: "unserem",
     t2_l1: "Kompass", t2_r1: "Richtung", t2_l2: "Uhr", t2_r2: "Zeit", t2_l3: "Magnet", t2_r3: "Kraft",
     t2_sent: "Technik hilft im ___.", t2_qa2: "Alltag", t2_qb2: "falsch", t2_qc2: "nicht", t2_qd2: "vielleicht",
     t2_f1: "Wir", t2_f2: "haben", t2_f3: "spannende", t2_f4: "Experimente", t2_f5: "im", t2_f6: "Unterricht",
     t2_tk1: "Technik", t2_tk2: "versteht", t2_tk3: "man", t2_tk4: "am", t2_tk5: "besten", t2_tk6: "wenn", t2_tk7: "man", t2_tk8: "sie",
     t2_bl1: "Magnet", t2_bl2: "Uhr", t2_i1: "Nordpol", t2_i2: "Zeiger", t2_i3: "Anziehung", t2_i4: "Minute",
-    t3_title: "Zeit", t3_text: "Uhren és Kalender.", t3_inst: "Löse die Aufgabe:", t3_h1: "Schau genau hin!", t3_h2: "Du schaffst das!", t3_q: "Wieviele Monate?", t3_qa: "12", t3_qb: "10", t3_qc: "7", t3_qd: "5",
+    t3_title: "Zeit", t3_text: "Uhren und Kalender.", t3_inst: "Löse die Aufgabe:", t3_h1: "Schau genau hin!", t3_h2: "Du schaffst das!", t3_q: "Wieviele Monate?", t3_qa: "12", t3_qb: "10", t3_qc: "7", t3_qd: "5",
     t3_w1: "Zeit", t3_w2: "vergeht", t3_w3: "immer", t3_w4: "gleich", t3_w5: "schnell", t3_w6: "und",
     t3_l1: "Woche", t3_r1: "7 Tage", t3_l2: "Monat", t3_r2: "30 Tage", t3_l3: "Jahr", t3_r3: "12 Monate",
     t3_sent: "Ein Tag hat 24 ___.", t3_qa2: "Stunden", t3_qb2: "falsch", t3_qc2: "nicht", t3_qd2: "vielleicht",
     t3_f1: "Wir", t3_f2: "können", t3_f3: "die", t3_f4: "Zeit", t3_f5: "auf", t3_f6: "verschiedene",
     t3_tk1: "Kalender", t3_tk2: "zeigen", t3_tk3: "uns", t3_tk4: "alle", t3_tk5: "wichtigen", t3_tk6: "Tage", t3_tk7: "im", t3_tk8: "Lauf",
     t3_bl1: "Kurz", t3_bl2: "Lang", t3_i1: "Sekunde", t3_i2: "Monat", t3_i3: "Minute", t3_i4: "Jahr",
-    t4_title: "Tiere", t4_text: "Haus- és Waldtiere.", t4_inst: "Löse die Aufgabe:", t4_h1: "Schau genau hin!", t4_h2: "Du schaffst das!", t4_q: "Wer lebt im Wald?", t4_qa: "Reh", t4_qb: "Hund", t4_qc: "Katze", t4_qd: "Goldfisch",
+    t4_title: "Tiere", t4_text: "Haus- und Waldtiere.", t4_inst: "Löse die Aufgabe:", t4_h1: "Schau genau hin!", t4_h2: "Du schaffst das!", t4_q: "Wer lebt im Wald?", t4_qa: "Reh", t4_qb: "Hund", t4_qc: "Katze", t4_qd: "Goldfisch",
     t4_w1: "Ob", t4_w2: "Hund", t4_w3: "oder", t4_w4: "Fuchs", t4_w5: "alle", t4_w6: "Tiere",
     t4_l1: "Hund", t4_r1: "Haus", t4_l2: "Reh", t4_r2: "Wald", t4_l3: "Fisch", t4_r3: "Wasser",
     t4_sent: "Tiere brauchen unseren ___.", t4_qa2: "Respekt", t4_qb2: "falsch", t4_qc2: "nicht", t4_qd2: "vielleicht",
@@ -1089,4 +1089,3 @@ export const FINALE2_POOL: PoolTopicDef[] = [
     difficulty: "easy"
   }
 ];
-

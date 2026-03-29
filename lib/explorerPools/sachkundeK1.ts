@@ -502,56 +502,56 @@ export const SACHKUNDE_K1_FAMILIE_LABELS: Record<string, Record<string, string>>
 export const SACHKUNDE_K1_FAMILIE_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Eltern", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "t1_sent", choices: ["t1_qa2", "t1_qb2", "t1_qc2", "t1_qd2"], correctIndex: 0 },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Geschwister", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "t2_sent", choices: ["t2_qa2", "t2_qb2", "t2_qc2", "t2_qd2"], correctIndex: 0 },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Großeltern", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "t3_sent", choices: ["t3_qa2", "t3_qb2", "t3_qc2", "t3_qd2"], correctIndex: 0 },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Zuhause", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "t4_sent", choices: ["t4_qa2", "t4_qb2", "t4_qc2", "t4_qd2"], correctIndex: 0 },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Gefühle", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "t5_sent", choices: ["t5_qa2", "t5_qb2", "t5_qc2", "t5_qd2"], correctIndex: 0 },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Freunde", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "t6_sent", choices: ["t6_qa2", "t6_qb2", "t6_qc2", "t6_qd2"], correctIndex: 0 },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Hobbys", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "t7_sent", choices: ["t7_qa2", "t7_qb2", "t7_qc2", "t7_qd2"], correctIndex: 0 },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Familie", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "t8_sent", choices: ["t8_qa2", "t8_qb2", "t8_qc2", "t8_qd2"], correctIndex: 0 },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "easy"
@@ -575,56 +575,56 @@ export const SACHKUNDE_K1_VERKEHR_LABELS: Record<string, Record<string, string>>
 export const SACHKUNDE_K1_VERKEHR_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Ampel", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "t1_sent", choices: ["t1_qa2", "t1_qb2", "t1_qc2", "t1_qd2"], correctIndex: 0 },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Zebrastreifen", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "t2_sent", choices: ["t2_qa2", "t2_qb2", "t2_qc2", "t2_qd2"], correctIndex: 0 },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Fahrrad", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "t3_sent", choices: ["t3_qa2", "t3_qb2", "t3_qc2", "t3_qd2"], correctIndex: 0 },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Helm", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "t4_sent", choices: ["t4_qa2", "t4_qb2", "t4_qc2", "t4_qd2"], correctIndex: 0 },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Auto", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "t5_sent", choices: ["t5_qa2", "t5_qb2", "t5_qc2", "t5_qd2"], correctIndex: 0 },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Bus", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "t6_sent", choices: ["t6_qa2", "t6_qb2", "t6_qc2", "t6_qd2"], correctIndex: 0 },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Schilder", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "t7_sent", choices: ["t7_qa2", "t7_qb2", "t7_qc2", "t7_qd2"], correctIndex: 0 },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Verkehr", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "t8_sent", choices: ["t8_qa2", "t8_qb2", "t8_qc2", "t8_qd2"], correctIndex: 0 },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "easy"
@@ -648,56 +648,56 @@ export const SACHKUNDE_K1_MATERIAL_LABELS: Record<string, Record<string, string>
 export const SACHKUNDE_K1_MATERIAL_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Papier", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "t1_sent", choices: ["t1_qa2", "t1_qb2", "t1_qc2", "t1_qd2"], correctIndex: 0 },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Glas", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "t2_sent", choices: ["t2_qa2", "t2_qb2", "t2_qc2", "t2_qd2"], correctIndex: 0 },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Plastik", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "t3_sent", choices: ["t3_qa2", "t3_qb2", "t3_qc2", "t3_qd2"], correctIndex: 0 },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Bio-Müll", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "t4_sent", choices: ["t4_qa2", "t4_qb2", "t4_qc2", "t4_qd2"], correctIndex: 0 },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Restmüll", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "t5_sent", choices: ["t5_qa2", "t5_qb2", "t5_qc2", "t5_qd2"], correctIndex: 0 },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Sortieren", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "t6_sent", choices: ["t6_qa2", "t6_qb2", "t6_qc2", "t6_qd2"], correctIndex: 0 },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Sparen", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "t7_sent", choices: ["t7_qa2", "t7_qb2", "t7_qc2", "t7_qd2"], correctIndex: 0 },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "easy"
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Müll-Check", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "t8_sent", choices: ["t8_qa2", "t8_qb2", "t8_qc2", "t8_qd2"], correctIndex: 0 },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "easy"
@@ -721,56 +721,56 @@ export const SACHKUNDE_K1_WISSEN_LABELS: Record<string, Record<string, string>> 
 export const SACHKUNDE_K1_WISSEN_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Tiere", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "t1_sent", choices: ["t1_qa2", "t1_qb2", "t1_qc2", "t1_qd2"], correctIndex: 0 },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Pflanzen", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "t2_sent", choices: ["t2_qa2", "t2_qb2", "t2_qc2", "t2_qd2"], correctIndex: 0 },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Wetter", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "t3_sent", choices: ["t3_qa2", "t3_qb2", "t3_qc2", "t3_qd2"], correctIndex: 0 },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Körper", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "t4_sent", choices: ["t4_qa2", "t4_qb2", "t4_qc2", "t4_qd2"], correctIndex: 0 },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Sinne", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "t5_sent", choices: ["t5_qa2", "t5_qb2", "t5_qc2", "t5_qd2"], correctIndex: 0 },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Gesundheit", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "t6_sent", choices: ["t6_qa2", "t6_qb2", "t6_qc2", "t6_qd2"], correctIndex: 0 },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Sicherheit", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "t7_sent", choices: ["t7_qa2", "t7_qb2", "t7_qc2", "t7_qd2"], correctIndex: 0 },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "medium"
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Natur", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "t8_sent", choices: ["t8_qa2", "t8_qb2", "t8_qc2", "t8_qd2"], correctIndex: 0 },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
@@ -794,56 +794,56 @@ export const SACHKUNDE_K1_DIPLOM_LABELS: Record<string, Record<string, string>> 
 export const SACHKUNDE_K1_DIPLOM_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Schnecke", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "t1_sent", choices: ["t1_qa2", "t1_qb2", "t1_qc2", "t1_qd2"], correctIndex: 0 },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Löwenzahn", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "t2_sent", choices: ["t2_qa2", "t2_qb2", "t2_qc2", "t2_qd2"], correctIndex: 0 },
     quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Schnee", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "t3_sent", choices: ["t3_qa2", "t3_qb2", "t3_qc2", "t3_qd2"], correctIndex: 0 },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Großeltern", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "t4_sent", choices: ["t4_qa2", "t4_qb2", "t4_qc2", "t4_qd2"], correctIndex: 0 },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Helm", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "t5_sent", choices: ["t5_qa2", "t5_qb2", "t5_qc2", "t5_qd2"], correctIndex: 0 },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Papier", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "t6_sent", choices: ["t6_qa2", "t6_qb2", "t6_qc2", "t6_qd2"], correctIndex: 0 },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Ohren", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "t7_sent", choices: ["t7_qa2", "t7_qb2", "t7_qc2", "t7_qd2"], correctIndex: 0 },
     quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" },
     difficulty: "hard"
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "word-display", word: "Thema", color: "#9C27B0" },
+    svg: { type: "word-display", word: "Honig", color: "#9C27B0" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "t8_sent", choices: ["t8_qa2", "t8_qb2", "t8_qc2", "t8_qd2"], correctIndex: 0 },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "hard"
