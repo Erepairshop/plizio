@@ -151,6 +151,74 @@ const TEACHER_LABEL: Record<Lang, string> = { DE: 'Lehrerin', EN: 'Teacher', HU:
 const WRITING_LABEL: Record<Lang, string> = { DE: 'Lehrerin schreibt...', EN: 'Teacher is writing...', HU: 'A tanár ír...', RO: 'Profesorul scrie...' };
 const STUDENT_FALLBACK: Record<Lang, string> = { DE: 'Schüler', EN: 'Student', HU: 'Tanuló', RO: 'Elev' };
 const DATE_LOCALE: Record<Lang, string> = { DE: 'de-DE', EN: 'en-US', HU: 'hu-HU', RO: 'ro-RO' };
+const DIAGNOSIS_LABEL: Record<Lang, string> = { DE: 'Diagnose', EN: 'Diagnosis', HU: 'Diagnózis', RO: 'Diagnostic' };
+const NEXT_STEP_LABEL: Record<Lang, string> = { DE: 'Nächster Schritt', EN: 'Next step', HU: 'Következő lépés', RO: 'Pasul următor' };
+
+const DIAGNOSIS: Record<
+  Lang,
+  {
+    excellent: { summary: string; next: string };
+    good: { summary: string; next: string };
+    improve: { summary: string; next: string };
+  }
+> = {
+  DE: {
+    excellent: {
+      summary: 'Sehr sicher gearbeitet. Die Grundlagen sitzen und du löst Aufgaben schon mit hoher Genauigkeit.',
+      next: 'Wiederhole nur die wenigen Fehler und gehe danach zu schwierigeren Aufgaben oder einem neuen Thema weiter.',
+    },
+    good: {
+      summary: 'Solide Leistung. Das Verständnis ist da, aber bei Genauigkeit und Routine gibt es noch kleine Lücken.',
+      next: 'Wiederhole die fehlerhaften Aufgabentypen noch einmal langsam und achte besonders auf unsichere Stellen.',
+    },
+    improve: {
+      summary: 'Die Grundlagen sind noch nicht stabil. Mehrere Fehler zeigen, dass wichtige Regeln oder Muster noch nicht sicher sitzen.',
+      next: 'Gehe zuerst zurück zu einfacheren Übungen, kläre die Grundregel und mache danach einen kürzeren Test erneut.',
+    },
+  },
+  EN: {
+    excellent: {
+      summary: 'Very secure work. The foundations are in place and you are solving tasks with strong accuracy.',
+      next: 'Review the few mistakes you made, then move on to harder practice or a new topic.',
+    },
+    good: {
+      summary: 'Solid performance. The understanding is there, but accuracy and consistency still need some practice.',
+      next: 'Repeat the task types you missed more slowly and focus on the places where you hesitated.',
+    },
+    improve: {
+      summary: 'The foundations are not stable yet. Several mistakes suggest that key rules or patterns still need reinforcement.',
+      next: 'Go back to easier practice first, review the core rule, and then retake a shorter test.',
+    },
+  },
+  HU: {
+    excellent: {
+      summary: 'Nagyon biztos munka. Az alapok rendben vannak, és nagy pontossággal oldod meg a feladatokat.',
+      next: 'Nézd át a kevés hibát, aztán mehetsz nehezebb feladatokra vagy egy új témára.',
+    },
+    good: {
+      summary: 'Stabil teljesítmény. A megértés látszik, de a pontosságon és a rutinen még lehet javítani.',
+      next: 'Ismételd át lassabban az elrontott feladattípusokat, és figyelj külön azokra a részekre, ahol bizonytalan voltál.',
+    },
+    improve: {
+      summary: 'Az alapok még nem elég stabilak. Több hiba arra utal, hogy néhány fontos szabály vagy minta még nem rögzült.',
+      next: 'Menj vissza az egyszerűbb gyakorláshoz, tisztázd az alapszabályt, és utána írj újra egy rövidebb tesztet.',
+    },
+  },
+  RO: {
+    excellent: {
+      summary: 'Ai lucrat foarte sigur. Bazele sunt bine fixate și rezolvi sarcinile cu multă precizie.',
+      next: 'Recitește puținele greșeli, apoi treci la exerciții mai dificile sau la un subiect nou.',
+    },
+    good: {
+      summary: 'Rezultat solid. Înțelegerea există, dar mai ai nevoie de puțină precizie și rutină.',
+      next: 'Repetă mai lent tipurile de exerciții greșite și fii atent la locurile unde ai ezitat.',
+    },
+    improve: {
+      summary: 'Bazele nu sunt încă stabile. Mai multe greșeli arată că unele reguli sau modele importante nu sunt încă fixate.',
+      next: 'Revino mai întâi la exercițiile mai ușoare, clarifică regula de bază, apoi refă un test mai scurt.',
+    },
+  },
+};
 
 function getMessage(percentage: number, playerName: string, lang: Lang): string {
   const seed = Math.floor(Date.now() / 10000) % 7;
@@ -172,6 +240,12 @@ function getNoteValue(percentage: number): number {
 function getNoteColor(note: number): string {
   const colors: Record<number, string> = { 1: '#16a34a', 2: '#2563eb', 3: '#d97706', 4: '#ea580c', 5: '#dc2626', 6: '#7c3aed' };
   return colors[note] || '#374151';
+}
+
+function getDiagnosis(percentage: number, lang: Lang) {
+  if (percentage >= 85) return DIAGNOSIS[lang].excellent;
+  if (percentage >= 55) return DIAGNOSIS[lang].good;
+  return DIAGNOSIS[lang].improve;
 }
 
 const SmileGood = () => (
@@ -235,6 +309,7 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
   const lang = getLang(countryCode);
   const name = playerName || STUDENT_FALLBACK[lang];
   const message = getMessage(percentage, name, lang);
+  const diagnosis = getDiagnosis(percentage, lang);
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
@@ -392,6 +467,19 @@ export function InlineTeacherNote({ playerName, percentage, countryCode }: { pla
                 >
                   {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
+                <motion.div
+                  initial={{ opacity: 0, y: 6 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.7 + firstDuration + secondDuration + 0.85, duration: 0.35 }}
+                  style={{ marginTop: 10, paddingTop: 8, borderTop: '1px dashed rgba(148, 163, 184, 0.45)' }}
+                >
+                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#475569', marginBottom: 2 }}>
+                    <strong>{DIAGNOSIS_LABEL[lang]}:</strong> {diagnosis.summary}
+                  </p>
+                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#475569' }}>
+                    <strong>{NEXT_STEP_LABEL[lang]}:</strong> {diagnosis.next}
+                  </p>
+                </motion.div>
               </div>
             </div>
           </motion.div>
@@ -407,6 +495,7 @@ export default function TeacherNote({ visible, playerName, percentage, countryCo
   const lang = getLang(countryCode);
   const name = playerName || STUDENT_FALLBACK[lang];
   const message = getMessage(percentage, name, lang);
+  const diagnosis = getDiagnosis(percentage, lang);
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
@@ -472,6 +561,19 @@ export default function TeacherNote({ visible, playerName, percentage, countryCo
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 15, color: '#6b7280', marginTop: 6 }}>
                   {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
+                <motion.div
+                  initial={{ opacity: 0, y: 6 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 1.9, duration: 0.35 }}
+                  style={{ marginTop: 10, paddingTop: 8, borderTop: '1px dashed rgba(148, 163, 184, 0.45)' }}
+                >
+                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: '#475569', marginBottom: 2 }}>
+                    <strong>{DIAGNOSIS_LABEL[lang]}:</strong> {diagnosis.summary}
+                  </p>
+                  <p style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: '#475569' }}>
+                    <strong>{NEXT_STEP_LABEL[lang]}:</strong> {diagnosis.next}
+                  </p>
+                </motion.div>
               </div>
             </div>
           </div>
