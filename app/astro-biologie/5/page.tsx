@@ -821,8 +821,7 @@ export default function AstroBiologieK5Page() {
   );
 
   const explorerScreens = [
-    "fish-explorer", "reptile-explorer", "mammal-explorer", "plant-explorer", "flower-explorer",
-    "skeleton-explorer", "bodysystem-explorer", "sense-explorer", "nutrition-explorer",
+    "bio-explore",
   ];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>
