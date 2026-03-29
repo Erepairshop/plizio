@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "Deutsch Test Online – Kostenlos für Klasse 1–8 | PLIZIO",
     description: "Übe Deutsch für jede Klasse kostenlos online. Keine Anmeldung, sofort im Browser starten.",
     url: "https://plizio.com/deutsch-test/",
-    images: [{ url: "/og/deutsch-test.png", width: 1200, height: 630 }],
+    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
   },
 };
 
@@ -80,10 +80,10 @@ export default function DeutschTestHubPage() {
             <span style={{ color: "#00FF88" }}>Kostenlos für Klasse 1–8</span>
           </h1>
           <p className="text-white/65 text-base leading-relaxed mb-4">
-            TODO: Haupt-Intro-Text für die Hub-Seite. Hier wird der Deutsch Test für Klasse 1–8 beschrieben.
+            Der kostenlose Deutsch Test von PLIZIO hilft Schülerinnen und Schülern der Klassen 1 bis 8 beim Üben von Grammatik, Rechtschreibung, Satzbau und Leseverstehen. Alle Übungen laufen direkt im Browser, geben sofort Feedback und eignen sich für Hausaufgaben, Wiederholung und gezielte Vorbereitung auf Klassenarbeiten.
           </p>
           <p className="text-white/65 text-sm leading-relaxed">
-            TODO: Zweiter Absatz – für Eltern und Lehrer.
+            Eltern und Lehrkräfte können den Deutsch Test nutzen, um Lernstände schnell einzuschätzen und passende Themen zum Weiterüben zu finden. Die Aufgaben orientieren sich an den typischen Anforderungen der jeweiligen Klassenstufe und lassen sich beliebig oft wiederholen.
           </p>
           <a
             href="/deutschtest"
@@ -133,10 +133,10 @@ export default function DeutschTestHubPage() {
             Warum Online Deutsch Tests wichtig sind
           </h2>
           <div className="space-y-4 text-white/65 text-sm leading-relaxed">
-            <p>TODO: Absatz 1 – Warum regelmäßiges Üben wichtig ist.</p>
-            <p>TODO: Absatz 2 – Vorteile von Online-Tests gegenüber Arbeitsblättern.</p>
-            <p>TODO: Absatz 3 – Kostenlos, ohne Registrierung, für alle zugänglich.</p>
-            <p>TODO: Absatz 4 – Für alle Geräte optimiert, spielerische Aufmachung.</p>
+            <p>Regelmäßiges Deutsch-Üben verbessert nicht nur Rechtschreibung und Grammatik, sondern auch das sichere Verstehen von Aufgabenstellungen und Texten. Gerade vor Klassenarbeiten hilft häufiges Wiederholen dabei, Regeln dauerhaft zu festigen.</p>
+            <p>Online-Tests bieten gegenüber Arbeitsblättern einen klaren Vorteil: Die Rückmeldung kommt sofort. Kinder sehen direkt, was richtig oder falsch war, und können schwierige Themen unmittelbar erneut üben.</p>
+            <p>Der PLIZIO Deutsch Test ist kostenlos und ohne Anmeldung nutzbar. Dadurch können Kinder zu Hause, in der Schule oder unterwegs schnell starten, ohne Hürden oder zusätzliche Software.</p>
+            <p>Alle Tests sind für Smartphone, Tablet und Computer optimiert. Das macht das Üben flexibler und motivierender, besonders wenn kurze Lernphasen in den Alltag eingebaut werden sollen.</p>
           </div>
         </section>
 
@@ -151,11 +151,11 @@ export default function DeutschTestHubPage() {
           <div className="space-y-3 text-sm text-white/65 leading-relaxed">
             <p>
               <strong className="text-white">Grundschule (Klasse 1–4):</strong>{" "}
-              TODO: Themenübersicht Grundschule.
+              Buchstaben und Silben, Rechtschreibung, Groß- und Kleinschreibung, Wortarten, Satzglieder, Zeitformen, Leseverständnis und erste Aufsatzformen.
             </p>
             <p>
               <strong className="text-white">Weiterführende Schule (Klasse 5–8):</strong>{" "}
-              TODO: Themenübersicht Sekundarstufe.
+              Grammatik und Zeichensetzung, Textanalyse, Stilmittel, Erörterung, literarische Texte, Lyrik, Sprachgebrauch und differenziertes Schreiben.
             </p>
           </div>
         </section>
@@ -167,10 +167,10 @@ export default function DeutschTestHubPage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {[
-              { icon: "📅", tip: "TODO: Tipp 1" },
-              { icon: "🎯", tip: "TODO: Tipp 2" },
-              { icon: "🔄", tip: "TODO: Tipp 3" },
-              { icon: "📊", tip: "TODO: Tipp 4" },
+              { icon: "📅", tip: "Übe lieber regelmäßig in kurzen Einheiten als selten in langen Sitzungen. Schon 10 bis 15 Minuten pro Tag können viel bewirken." },
+              { icon: "🎯", tip: "Konzentriere dich gezielt auf die Themen, bei denen du zuletzt Fehler gemacht hast. So nutzt du die Übungszeit am effektivsten." },
+              { icon: "🔄", tip: "Wiederhole Tests nach einigen Tagen erneut. Erst durch Wiederholung wird aus kurzfristigem Wissen ein sicher beherrschtes Thema." },
+              { icon: "📊", tip: "Achte auf deine Ergebnisse und erkenne Muster. Wenn ähnliche Fehler öfter vorkommen, lohnt sich ein kurzer Regel-Check vor dem nächsten Test." },
             ].map((item, i) => (
               <div
                 key={i}

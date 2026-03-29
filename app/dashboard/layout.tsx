@@ -4,10 +4,11 @@ export const metadata: Metadata = {
   title: "Dashboard - Statistics & Progress",
   description:
     "Track your gaming progress and statistics on PLIZIO. View milestones, streaks, high scores and achievements across all games.",
+  robots: { index: false, follow: false },
   openGraph: {
     title: "Dashboard - Statistics & Progress | PLIZIO",
     description: "View your gaming statistics, milestones and achievements.",
-    url: "https://plizio.com/dashboard",
+    url: "https://plizio.com/dashboard/",
   },
   twitter: {
     card: "summary",
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     description: "Track your gaming progress and achievements on PLIZIO.",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/dashboard" },
+  alternates: { canonical: "https://plizio.com/dashboard/" },
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {

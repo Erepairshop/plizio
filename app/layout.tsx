@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://plizio.com",
+    canonical: "https://plizio.com/",
     languages: {
       hu: "https://plizio.com/hu/",
       de: "https://plizio.com/de/",

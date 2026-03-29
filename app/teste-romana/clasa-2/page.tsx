@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: meta.title,
     description: meta.desc,
     url: "https://plizio.com/teste-romana/clasa-2/",
-    images: [{ url: "/og/romana-clasa-2.png", width: 1200, height: 630 }],
+    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
   },
 };
 

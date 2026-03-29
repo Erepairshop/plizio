@@ -1,8 +1,8 @@
 const jsonLdWebPage = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  name: "Test Limba Română Online – Gratuit pentru Clasa I–VIII",
-  description: "Test interactiv de limba română pentru clasa I–VIII. Toate temele din curriculum. Fără înregistrare, începe imediat.",
+  name: "Teste de Limba Română Online",
+  description: "Teste interactive de limba română pentru clasele disponibile din ciclul primar și gimnazial. Fără înregistrare, direct în browser.",
   url: "https://plizio.com/teste-romana/",
   breadcrumb: {
     "@type": "BreadcrumbList",
@@ -14,14 +14,14 @@ const jsonLdWebPage = {
 };
 
 const GRADES = [
-  { n: 1, age: "6–7", summary: "Alfabetul, silabe, sunete, citire și scriere" },
-  { n: 2, age: "7–8", summary: "Ortografie, părți de vorbire, propoziția, text narativ" },
-  { n: 3, age: "8–9", summary: "Substantiv, verb, adjectiv, propoziție dezvoltată" },
-  { n: 4, age: "9–10", summary: "Analiză gramaticală, compunere, ortografie avansată" },
-  { n: 5, age: "10–11", summary: "Morfologie, fonetică, lexic, sintaxă" },
-  { n: 6, age: "11–12", summary: "Morfologie avansată, text literar, stilistică" },
-  { n: 7, age: "12–13", summary: "Sintaxă avansată, figuri de stil, comentariu literar" },
-  { n: 8, age: "13–14", summary: "Evaluare națională, sintaxă și morfologie completă" },
+  { n: 1, age: "6–7", summary: "Alfabetul, silabe, sunete, citire și scriere", available: false },
+  { n: 2, age: "7–8", summary: "Ortografie, părți de vorbire, propoziția, text narativ", available: true },
+  { n: 3, age: "8–9", summary: "Substantiv, verb, adjectiv, propoziție dezvoltată", available: false },
+  { n: 4, age: "9–10", summary: "Analiză gramaticală, compunere, ortografie avansată", available: false },
+  { n: 5, age: "10–11", summary: "Morfologie, fonetică, lexic, sintaxă", available: false },
+  { n: 6, age: "11–12", summary: "Morfologie avansată, text literar, stilistică", available: false },
+  { n: 7, age: "12–13", summary: "Sintaxă avansată, figuri de stil, comentariu literar", available: false },
+  { n: 8, age: "13–14", summary: "Evaluare națională, sintaxă și morfologie completă", available: false },
 ];
 
 export default function TestLimbaRomanaHubPage() {
@@ -44,17 +44,17 @@ export default function TestLimbaRomanaHubPage() {
             className="inline-block px-3 py-1 rounded-full text-xs font-bold mb-3"
             style={{ background: "rgba(59,130,246,0.1)", color: "#3B82F6", border: "1px solid rgba(59,130,246,0.25)" }}
           >
-            Clasa I–VIII · Gratuit · Fără cont
+            Exerciții online · Gratuit · Fără cont
           </div>
           <h1 className="text-3xl sm:text-4xl font-black mb-4 leading-tight">
-            Test Limba Română Online –{" "}
-            <span style={{ color: "#00FF88" }}>Gratuit pentru Clasa I–VIII</span>
+            Teste de Limba Română –{" "}
+            <span style={{ color: "#00FF88" }}>Online și gratuite</span>
           </h1>
           <p className="text-white/65 text-base leading-relaxed mb-4">
-            Plizio oferă teste interactive de limba română pentru toate clasele de la I la VIII. Exersează ortografia, gramatica, lectura și scriera pe care o vei întâlni la școală, direct în browser, fără a fi nevoie de înregistrare.
+            Plizio oferă teste interactive de limba română pentru clasele disponibile din ciclul primar și gimnazial. Exersează ortografia, gramatica, lectura și scrierea direct în browser, fără înregistrare și cu feedback imediat.
           </p>
           <p className="text-white/65 text-sm leading-relaxed">
-            Testele sunt structurate după programele școlare oficiale și oferă feedback imediat. Antrenează-te zilnic și vei vedea cum se îmbunătățesc competențele tale în limba română!
+            Noi clase și seturi de exerciții sunt adăugate treptat. Poți începe imediat cu nivelurile deja publicate și reveni periodic pentru conținut nou.
           </p>
           <a
             href="/romaniantest"
@@ -75,25 +75,49 @@ export default function TestLimbaRomanaHubPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {GRADES.map((g) => (
-              <a
-                key={g.n}
-                href={`/teste-romana/clasa-${g.n}/`}
-                className="flex items-start gap-3 p-4 rounded-2xl group transition-all hover:scale-[1.01]"
-                style={{ background: "#12122A", border: "1px solid rgba(255,255,255,0.07)" }}
-              >
-                <div
-                  className="w-10 h-10 rounded-xl flex items-center justify-center font-black text-lg flex-shrink-0"
-                  style={{ background: "rgba(59,130,246,0.12)", color: "#3B82F6" }}
+              g.available ? (
+                <a
+                  key={g.n}
+                  href={`/teste-romana/clasa-${g.n}/`}
+                  className="flex items-start gap-3 p-4 rounded-2xl group transition-all hover:scale-[1.01]"
+                  style={{ background: "#12122A", border: "1px solid rgba(255,255,255,0.07)" }}
                 >
-                  {g.n}
-                </div>
-                <div>
-                  <div className="font-black text-white text-sm group-hover:text-[#3B82F6] transition-colors">
-                    Test Limba Română Clasa {g.n}
+                  <div
+                    className="w-10 h-10 rounded-xl flex items-center justify-center font-black text-lg flex-shrink-0"
+                    style={{ background: "rgba(59,130,246,0.12)", color: "#3B82F6" }}
+                  >
+                    {g.n}
                   </div>
-                  <div className="text-white/40 text-xs mt-0.5">Vârstă {g.age} · {g.summary}</div>
+                  <div>
+                    <div className="font-black text-white text-sm group-hover:text-[#3B82F6] transition-colors">
+                      Test Limba Română Clasa {g.n}
+                    </div>
+                    <div className="text-white/40 text-xs mt-0.5">Vârstă {g.age} · {g.summary}</div>
+                  </div>
+                </a>
+              ) : (
+                <div
+                  key={g.n}
+                  className="flex items-start gap-3 p-4 rounded-2xl opacity-70"
+                  style={{ background: "#12122A", border: "1px solid rgba(255,255,255,0.05)" }}
+                >
+                  <div
+                    className="w-10 h-10 rounded-xl flex items-center justify-center font-black text-lg flex-shrink-0"
+                    style={{ background: "rgba(255,255,255,0.06)", color: "rgba(255,255,255,0.55)" }}
+                  >
+                    {g.n}
+                  </div>
+                  <div>
+                    <div className="font-black text-white/80 text-sm">
+                      Test Limba Română Clasa {g.n}
+                    </div>
+                    <div className="text-white/40 text-xs mt-0.5">{g.summary}</div>
+                    <div className="text-[11px] font-bold mt-2" style={{ color: "#FFD700" }}>
+                      Disponibil în curând
+                    </div>
+                  </div>
                 </div>
-              </a>
+              )
             ))}
           </div>
         </section>
@@ -165,7 +189,7 @@ export default function TestLimbaRomanaHubPage() {
         <section className="mb-10">
           <h2 className="text-xl font-black mb-4 text-white/80">Alege direct clasa</h2>
           <div className="flex flex-wrap gap-2">
-            {GRADES.map((g) => (
+            {GRADES.filter((g) => g.available).map((g) => (
               <a
                 key={g.n}
                 href={`/teste-romana/clasa-${g.n}/`}

@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     title: "Free Math Test for Kids Grade 1-8 | PLIZIO",
     description:
       "Practice real school math — test yourself with grade-appropriate questions in your own language! Supports English, German, Hungarian & Romanian curricula.",
-    url: "https://plizio.com/mathtest",
+    url: "https://plizio.com/mathtest/",
   },
   twitter: {
     card: "summary_large_image",
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     description: "Grade 1–8 math tests with real school curriculum. Free, no signup!",
     images: ["/icon-512.png"],
   },
-  alternates: { canonical: "https://plizio.com/mathtest" },
+  alternates: { canonical: "https://plizio.com/mathtest/" },
 };
 
 const jsonLd = {
@@ -83,7 +83,7 @@ const jsonLd = {
   name: "Math Test",
   description:
     "Free online math test for kids in grades 1-8. Practice with real school curriculum questions in English, German, Hungarian, and Romanian.",
-  url: "https://plizio.com/mathtest",
+  url: "https://plizio.com/mathtest/",
   genre: ["Educational", "Quiz", "Math"],
   educationalLevel: ["Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7", "Grade 8"],
   inLanguage: ["en", "de", "hu", "ro"],
