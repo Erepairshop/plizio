@@ -58,7 +58,7 @@ export const BIO_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "wirbeltiere_fish" }
   },
   {
@@ -159,7 +159,7 @@ export const BIO_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ReptileAnatomySvg", bg: "#FEF3C7" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "wirbeltiere_reptile" }
   },
   {
@@ -260,7 +260,7 @@ export const BIO_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "MammalAnatomySvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "wirbeltiere_mammal" }
   },
   {
@@ -361,7 +361,7 @@ export const BIO_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "PlantAnatomySvg", bg: "#ECFDF5" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "pflanzen_plant_parts" }
   },
   {
@@ -385,7 +385,7 @@ export const BIO_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🔬", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" }
   },
   {
@@ -462,7 +462,7 @@ export const BIO_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "FlowerPartsSvg", bg: "#FFF1F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 4 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 4 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "pflanzen_flower_structure" }
   },
   {
@@ -563,7 +563,7 @@ export const BIO_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "SkeletonSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "koerper_skeleton" }
   },
   {
@@ -664,7 +664,7 @@ export const BIO_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "HeartSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "koerper_body_systems" }
   },
   {
@@ -688,7 +688,7 @@ export const BIO_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🥤", color: "#FACC15" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" }
   },
   {
@@ -765,7 +765,7 @@ export const BIO_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "EyeSvg", bg: "#F0F9FF" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "sinnesorgane_eye" }
   },
   {
@@ -789,7 +789,7 @@ export const BIO_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "✋", color: "#FDBA74" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "sinnesorgane_skin_sense" }
   },
   {
@@ -872,7 +872,7 @@ export const BIO_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "NutritionPyramidSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "ernaehrung_healthy_diet" }
   },
   {
@@ -890,7 +890,7 @@ export const BIO_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "⚡", color: "#FACC15" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔍", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "ernaehrung_nutrients" }
   },
   {
