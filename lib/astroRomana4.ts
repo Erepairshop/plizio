@@ -50,7 +50,7 @@ export const C4_ISLANDS: IslandDef[] = [
     topicKeys: ["morfologie_c4/verb_timpuri_c4", "sintaxa_c4/alte_parti_c4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare verb",      en: "Verb Explorer",    hu: "Ige felfedező",     de: "Verb erkunden"   } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",        en: "Orbit Quiz",       hu: "Orbit kvíz",        de: "Orbit-Quiz"      } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",    en: "Star Match",       hu: "Csillag párosítás", de: "Sterne zuordnen" } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",        en: "Speed Round",      hu: "Gyors kör",         de: "Speedrunde"      } },
     ],
     svgX: 80, svgY: 440,
@@ -74,7 +74,7 @@ export const C4_ISLANDS: IslandDef[] = [
     topicKeys: ["morfologie_c4/pronume_personal_c4", "morfologie_c4/pronume_posesiv_c4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare pronume",    en: "Pronoun Explorer",  hu: "Névmás felfedező",   de: "Pronomen erkunden" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",         en: "Orbit Quiz",        hu: "Orbit kvíz",         de: "Orbit-Quiz"        } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",        hu: "Csillag párosítás", de: "Sterne zuordnen" } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",         en: "Speed Round",       hu: "Gyors kör",          de: "Speedrunde"        } },
     ],
     svgX: 90, svgY: 270,
@@ -98,7 +98,7 @@ export const C4_ISLANDS: IslandDef[] = [
     topicKeys: ["ortografie_c4/cratima_avansata_c4", "ortografie_c4/punctuatie_c4", "ortografie_c4/scrierea_corecta_c4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare ortografie",  en: "Spelling Explorer",   hu: "Helyesírás felfedező", de: "Rechtschreibung erkunden" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",          en: "Orbit Quiz",          hu: "Orbit kvíz",           de: "Orbit-Quiz"               } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",      en: "Star Match",          hu: "Csillag párosítás", de: "Sterne zuordnen"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",         en: "Black Hole",          hu: "Fekete lyuk",          de: "Schwarzes Loch"           } },
     ],
     svgX: 100, svgY: 125,
@@ -122,8 +122,8 @@ export const C4_ISLANDS: IslandDef[] = [
     topicKeys: ["text_c4/rezumat_c4", "text_c4/text_narativ_c4", "text_c4/scrisoarea_c4"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare compunere",  en: "Writing Explorer",  hu: "Fogalmazás felfedező", de: "Schreiben erkunden" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",         en: "Orbit Quiz",        hu: "Orbit kvíz",           de: "Orbit-Quiz"         } },
-      { id: "m3", category: "challenge", gameType: "gravity-sort",   icon: "🌀", label: { ro: "Sortare gravitațională", en: "Gravity Sort",   hu: "Gravitáció sorrend",   de: "Gravitations-Sort"  } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",      en: "Star Match",        hu: "Csillag párosítás",  de: "Sterne zuordnen"   } },
+      { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",         en: "Black Hole",        hu: "Fekete lyuk",        de: "Schwarzes Loch"    } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -138,7 +138,7 @@ export const C4_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Quiz final",        en: "Final Quiz",    hu: "Záró kvíz",        de: "Abschluss-Quiz" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",      en: "Orbit Quiz",    hu: "Orbit kvíz",       de: "Orbit-Quiz"     } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",  en: "Star Match",    hu: "Csillag párosítás", de: "Sterne zuordnen" } },
       { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",     en: "Black Hole",    hu: "Fekete lyuk",      de: "Schwarzes Loch" } },
     ],
     svgX: 190, svgY: -90,
