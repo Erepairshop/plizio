@@ -81,7 +81,7 @@ export const WALD_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Borkenkäfer", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -116,7 +116,7 @@ export const WALD_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Wald-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -202,7 +202,7 @@ export const FEUER_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Notruf 112", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -237,7 +237,7 @@ export const FEUER_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Brandschutz", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -323,7 +323,7 @@ export const GETREIDE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Weizen", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -358,7 +358,7 @@ export const GETREIDE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Getreide-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -444,7 +444,7 @@ export const WIESE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Schmetterling", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -479,7 +479,7 @@ export const WIESE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Wiesen-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -565,7 +565,7 @@ export const KOERPER_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Die Gelenke", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -600,7 +600,7 @@ export const KOERPER_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Körper-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -686,7 +686,7 @@ export const MEDIEN_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Internet-Regeln", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -721,7 +721,7 @@ export const MEDIEN_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Medien-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -807,7 +807,7 @@ export const KARTEN_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Maßstab", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -842,7 +842,7 @@ export const KARTEN_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Karten-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -928,7 +928,7 @@ export const STROM_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Isolatoren", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -963,7 +963,7 @@ export const STROM_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Strom-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
@@ -1049,7 +1049,7 @@ export const FINALE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "word-display", word: "Getreide-Review", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4", "t3_w5", "t3_w6", "t3_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
     difficulty: "medium"
   },
@@ -1084,7 +1084,7 @@ export const FINALE_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "word-display", word: "Experten-Check", color: "#4CAF50" },
-    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"].filter(x=>x!==""), correctOrder: [0,1,2,3,4,5,6].slice(0, topic.w.length) },
+    interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
     difficulty: "medium"
   }
