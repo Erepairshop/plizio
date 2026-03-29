@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useEffect, useState, useMemo } from 'react';
+import { useRef, useEffect, useState, useMemo, Suspense } from 'react';
 import { Canvas, useFrame, useLoader } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
@@ -353,6 +353,7 @@ export default function AvatarCompanion({
             target={[0, 0.5, 0]}
           />
         )}
+        <Suspense fallback={null}>
         <RobotCharacter
           mood={mood}
           isWalking={isWalking}
@@ -373,6 +374,7 @@ export default function AvatarCompanion({
           activeTrail={activeTrail}
           activeHair={activeHair}
         />
+        </Suspense>
       </Canvas>
     </div>
   );
