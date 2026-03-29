@@ -13,8 +13,24 @@ import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
-import { GENERATORS } from "@/lib/deutschGenerators";
+import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
+import { K5_Generators } from "@/lib/biologieGenerators";
+import { K6_Generators } from "@/lib/biologieGenerators6";
 import TopicSvgRenderer from "./TopicSvgRenderer";
+
+const BIO_GENERATORS: Record<string, () => any> = {};
+// Flatten K5_Generators for easy access: "category_subtopic"
+Object.entries(K5_Generators).forEach(([cat, subs]) => {
+  Object.entries(subs).forEach(([sub, gen]) => {
+    BIO_GENERATORS[`${cat}_${sub}`] = gen;
+  });
+});
+// Flatten K6_Generators
+Object.entries(K6_Generators).forEach(([cat, subs]) => {
+  Object.entries(subs).forEach(([sub, gen]) => {
+    BIO_GENERATORS[`${cat}_${sub}`] = gen;
+  });
+});
 
 interface Props {
   /** Pool of topic definitions — typically 6-15 items */
@@ -51,19 +67,21 @@ interface Props {
 function resolveQuiz(p: PoolTopicDef): { question: string; choices: string[]; answer: string } {
   const q = p.quiz;
   if ("generate" in q) {
-    const gen = GENERATORS[q.generate];
+    const gen = DEUTSCH_GENERATORS[q.generate] || BIO_GENERATORS[q.generate];
     if (gen) {
       const result = gen();
-      if (result.type === "mcq") {
+      // Handle array result
+      const qObj = Array.isArray(result) ? result[Math.floor(Math.random() * result.length)] : result;
+      if (qObj && qObj.type === "mcq") {
         return {
-          question: result.question,
-          choices:  result.options,
-          answer:   result.options[result.correct],
+          question: qObj.question,
+          choices:  qObj.options,
+          answer:   qObj.options[qObj.correct],
         };
       }
     }
     // fallback if generator key unknown
-    return { question: "?", choices: ["?", "?", "?", "?"], answer: "?" };
+    return { question: `? (${q.generate})`, choices: ["?", "?", "?", "?"], answer: "?" };
   }
   return q;
 }
@@ -112,7 +130,7 @@ export default function DynamicExplorer({
     const topics: TopicDef[] = deduped.map(({ p, quiz }) => ({
       infoTitle:   p.infoTitle,
       infoText:    p.infoText,
-      svg:         () => <TopicSvgRenderer config={p.svg} />,
+      svg:         () => <TopicSvgRenderer config={p.svg} lang={lang} />,
       bulletKeys:  p.bulletKeys,
       hintKey:     p.hintKey,
       interactive: p.interactive,

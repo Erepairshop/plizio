@@ -26,7 +26,7 @@
 //   { type: "two-groups",
 //       left:  { label: "label_key", items: ["label_key",...], bg: "#DBEAFE", border: "#3B82F6" },
 //       right: { label: "label_key", items: ["label_key",...], bg: "#FEF3C7", border: "#F59E0B" } }
-//   { type: "sentence-display", parts: ["label_key", "label_key", ...] }
+//   { type: "sentence-display", fragments: ["label_key", "label_key", ...] }
 //   { type: "word-display", words: ["label_key", ...] }
 //   { type: "simple-icon", icon: "📝", label: "label_key", color: "#3B82F6" }
 //   { type: "icon-grid", items: [{ icon: "📝", label: "label_key" }, ...] }
@@ -42,8 +42,8 @@
 //   { type: "gap-fill", sentence: "label_key", choices: ["label_key",...], correctIndex: 0, instruction: "label_key", hint1: "label_key", hint2: "label_key" }
 //   { type: "match-pairs", pairs: [{ left: "label_key", right: "label_key" }, ...] }
 //   { type: "drag-to-bucket", items: ["label_key",...], buckets: [{ label: "label_key", accepts: ["label_key",...] }, ...] }
-//   { type: "highlight-text", sentence: "label_key", targets: ["label_key",...], instruction: "label_key" }
-//   { type: "sentence-build", parts: ["label_key",...], correctOrder: [0,1,2,...] }
+//   { type: "highlight-text", tokens: ["label_key"], correctIndices: [0], instruction: "label_key" }
+//   { type: "sentence-build", fragments: ["label_key",...], correctOrder: [0,1,2,...] }
 //
 // ─────────────────────────────────────────────────────────────────────────────
 // QUIZ CONFIG:
@@ -240,15 +240,6 @@ export const PRONOUN_LABELS: Record<string, Record<string, string>> = {
     t15_qb: "The teacher who everyone respects is leaving.",
     t15_qc: "The teacher whose everyone respects is leaving.",
     t15_qd: "The teacher which everyone respects is leaving.",
-  },
-  hu: {
-    explorer_title: "Névmás-bolygó",
-  },
-  de: {
-    explorer_title: "Pronomen-Planet",
-  },
-  ro: {
-    explorer_title: "Planeta pronumelor",
   },
 };
 
@@ -550,15 +541,6 @@ export const MODAL_LABELS: Record<string, Record<string, string>> = {
     t15_qc: "She will be arrive at 6 PM tomorrow.",
     t15_qd: "She will be arriving at 6 PM yesterday.",
   },
-  hu: {
-    explorer_title: "Módbeli ige-hold",
-  },
-  de: {
-    explorer_title: "Modal-Mond",
-  },
-  ro: {
-    explorer_title: "Luna modalelor",
-  },
 };
 
 export const MODAL_POOL: PoolTopicDef[] = [
@@ -858,15 +840,6 @@ export const ADJECTIVE4_LABELS: Record<string, Record<string, string>> = {
     t15_qb: "She wore a beautiful, elegant red dress quickly.",
     t15_qc: "She wore a beautiful elegant red dress.",
     t15_qd: "She wore a red elegant beautiful dress fast.",
-  },
-  hu: {
-    explorer_title: "Melléknév-pályán",
-  },
-  de: {
-    explorer_title: "Adjektiv-Orbit",
-  },
-  ro: {
-    explorer_title: "Orbita adjectivelor",
   },
 };
 
@@ -1168,15 +1141,6 @@ export const SENTENCE4_LABELS: Record<string, Record<string, string>> = {
     t15_qc: "I save money every month because I love to travel I want to see the world.",
     t15_qd: "Love to travel save money every month.",
   },
-  hu: {
-    explorer_title: "Mondat-szupernóva",
-  },
-  de: {
-    explorer_title: "Satz-Supernova",
-  },
-  ro: {
-    explorer_title: "Supernova propozițiilor",
-  },
 };
 
 export const SENTENCE4_POOL: PoolTopicDef[] = [
@@ -1476,9 +1440,6 @@ export const SPEECH4_LABELS: Record<string, Record<string, string>> = {
     t15_qc: "Sarah asked that I would help her.",
     t15_qd: "Sarah told if I would help her.",
   },
-  hu: { explorer_title: "Egyenes beszéd spirál" },
-  de: { explorer_title: "Rede-Spirale" },
-  ro: { explorer_title: "Spirala vorbirii directe" },
 };
 
 export const SPEECH4_POOL: PoolTopicDef[] = [
@@ -1672,15 +1633,6 @@ export const CAPITAL_LABELS: Record<string, Record<string, string>> = {
     t15_qb: "After class i told my friend maya \"lets go to the park on saturday july 15.\"",
     t15_qc: "After class, I told my friend Maya \"Let's go to the park on Saturday, July 15.\"",
     t15_qd: "After class, I told my friend Maya, \"Let's go to the park on Saturday July 15.\"",
-  },
-  hu: {
-    explorer_title: "Nagybetű-kráter",
-  },
-  de: {
-    explorer_title: "Großschreibungs-Krater",
-  },
-  ro: {
-    explorer_title: "Craterul majusculelor",
   },
 };
 
@@ -1980,15 +1932,6 @@ export const SYNONYM_LABELS: Record<string, Record<string, string>> = {
     t15_qb: "Her heart was pure like gold.",
     t15_qc: "Her heart, pure as gold.",
     t15_qd: "Her pure heart was gold.",
-  },
-  hu: {
-    explorer_title: "Szinonima égbolt",
-  },
-  de: {
-    explorer_title: "Synonym-Himmel",
-  },
-  ro: {
-    explorer_title: "Cerul sinonimelor",
   },
 };
 
@@ -2290,15 +2233,6 @@ export const CONTEXT_LABELS: Record<string, Record<string, string>> = {
     t15_qc: "lazy",
     t15_qd: "smart",
   },
-  hu: {
-    explorer_title: "Kontextus-üstökös",
-  },
-  de: {
-    explorer_title: "Kontext-Komet",
-  },
-  ro: {
-    explorer_title: "Cometa contextului",
-  },
 };
 
 export const CONTEXT_POOL: PoolTopicDef[] = [
@@ -2598,15 +2532,6 @@ export const BIGTEST4_LABELS: Record<string, Record<string, string>> = {
     t15_qb: "Although the weather was cold they went outside because they're determined.",
     t15_qc: "Although the weather was cold, they went outside because their determined.",
     t15_qd: "Although, the weather was cold, they went outside because they're determined.",
-  },
-  hu: {
-    explorer_title: "Nagy Próba",
-  },
-  de: {
-    explorer_title: "Große Prüfung",
-  },
-  ro: {
-    explorer_title: "Marea probă",
   },
 };
 

@@ -26,16 +26,10 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import ArthropodExplorer from "@/app/astro-biologie/games/ArthropodExplorer";
-import MolluskExplorer from "@/app/astro-biologie/games/MolluskExplorer";
-import ForestExplorer from "@/app/astro-biologie/games/ForestExplorer";
-import WaterExplorer from "@/app/astro-biologie/games/WaterExplorer";
-import HeartExplorer from "@/app/astro-biologie/games/HeartExplorer";
-import CirculationExplorer from "@/app/astro-biologie/games/CirculationExplorer";
-import RespirationExplorer from "@/app/astro-biologie/games/RespirationExplorer";
-import PubertyExplorer from "@/app/astro-biologie/games/PubertyExplorer";
+import BioK6Explorer from "@/app/astro-biologie/games/k6/BioK6Explorer";
 import {
   BIO_K6_ISLANDS as K6_ISLANDS, BIO_K6_CHECKPOINT_MAP as K6_CHECKPOINT_MAP,
+  BIO_K6_CHECKPOINT_TOPICS as K6_CHECKPOINT_TOPICS,
   type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadBioK6Progress as loadK6Progress, saveBioK6Progress as saveK6Progress,
   type BioK6Progress,
@@ -105,14 +99,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
-  | "arthropod-explorer"
-  | "mollusk-explorer"
-  | "forest-explorer"
-  | "water-explorer"
-  | "heart-explorer"
-  | "circulation-explorer"
-  | "respiration-explorer"
-  | "puberty-explorer"
+  | "bio-explore"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -510,7 +497,7 @@ export default function AstroBiologieK6Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation"].includes(mission.gameType);
+    const isExplorer = mission.gameType === "bio-explore";
 
     if (isExplorer) {
       setQuestions([]);
@@ -833,38 +820,15 @@ export default function AstroBiologieK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "arthropod-explorer" && (
-          <ArthropodExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "bio-explore" && activeIsland && (
+          <BioK6Explorer islandId={activeIsland.id} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "mollusk-explorer" && (
-          <MolluskExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "forest-explorer" && (
-          <ForestExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "water-explorer" && (
-          <WaterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "heart-explorer" && (
-          <HeartExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "circulation-explorer" && (
-          <CirculationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "respiration-explorer" && (
-          <RespirationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "puberty-explorer" && (
-          <PubertyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-
       </div>
     </div>
   );
 
   const explorerScreens = [
-    "arthropod-explorer", "mollusk-explorer", "forest-explorer", "water-explorer",
-    "heart-explorer", "circulation-explorer", "respiration-explorer", "puberty-explorer",
+    "bio-explore",
   ];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
     <>

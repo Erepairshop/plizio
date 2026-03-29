@@ -98,6 +98,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "o4-complex-sentences-explorer" | "o4-word-formation-explorer" | "o4-spelling-mastery-explorer"
   | "o4-composition-explorer" | "o4-grammar-review-explorer" | "o4-review-explorer"
   | "en2-noun-explorer" | "en2-verb-explorer" | "en2-adjective-explorer" | "en2-sentence-explorer"
+  | "bio-explore"
   | "en2-vowel-explorer" | "en2-prefix-explorer" | "en2-meaning-explorer" | "en2-grammar-review-explorer" | "en2-big-test-explorer"
   | "en3-plural-explorer" | "en3-tense-explorer" | "en3-adverb-explorer" | "en3-subject-explorer"
   | "en3-quotation-explorer" | "en3-prefix-k3-explorer" | "en3-word-family-explorer" | "en3-vocab-explorer" | "en3-big-test-explorer"
