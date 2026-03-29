@@ -1,7 +1,7 @@
 "use client";
 
 // ─── ROMANIAN VISUAL GENERATORS ─────────────────────────────────────────────
-// Generates visual/interactive question data for Romanian Clasa I test.
+// Generates visual/interactive question data for Romanian tests across classes.
 // Reuses deutsch-visual components: FehlerFinden, SatzOrdnen, LueckenText
 //
 // These generators produce TestQuestion-like objects that the LanguageTestEngine
@@ -385,7 +385,13 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Găsește greșeala 🔍",
     printLabel: "Găsește greșeala",
     component: FehlerFinden,
-    subtopicIds: ["m_bp_c1", "a_i_c1", "cratima_c1", "scrierea_corecta_c1", "litera_mare_c1"],
+    subtopicIds: [
+      "m_bp_c1", "a_i_c1", "cratima_c1", "scrierea_corecta_c1", "litera_mare_c1",
+      "a_i_reguli_c2", "sa_s_a_c2", "ia_i_a_c2", "sau_s_au_c2", "punctuatie_c2",
+      "cratima_c3",
+      "majuscule_c4", "cratima_avansata_c4", "punctuatie_c4", "scrierea_corecta_c4",
+      "a_i_c5", "semne_diacritice_c5", "scrierea_compuselor_c5", "cratima_forme_c5",
+    ],
     generate: (count) => {
       return genFehlerFinden(count).map(item => ({
         type: "ro-fehler-finden",
@@ -415,7 +421,13 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Ordonează cuvintele ✏️",
     printLabel: "Ordonează cuvintele",
     component: SatzOrdnen,
-    subtopicIds: ["ordine_cuvinte_c1", "propozitie_tip_c1"],
+    subtopicIds: [
+      "ordine_cuvinte_c1", "propozitie_tip_c1",
+      "subiect_predicat_c2", "tipuri_prop_c2", "dialog_oral_c2",
+      "propozitie_dezv_c3",
+      "subiect_predicat_c4", "fraza_propozitii_c4",
+      "coordonare_c5", "moduri_expunere_c5",
+    ],
     generate: (count) => {
       return genOrdineCuvinte(count).map(item => ({
         type: "ro-satz-ordnen",
@@ -446,7 +458,13 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Completează ✏️",
     printLabel: "Completează",
     component: LueckenText,
-    subtopicIds: ["vocale_c1", "grupuri_ce_ci_c1", "grupuri_ge_gi_c1", "grupuri_che_chi_c1", "despartire_c1"],
+    subtopicIds: [
+      "vocale_c1", "grupuri_ce_ci_c1", "grupuri_ge_gi_c1", "grupuri_che_chi_c1", "despartire_c1",
+      "a_i_reguli_c2", "sa_s_a_c2", "ia_i_a_c2", "sau_s_au_c2",
+      "cratima_c3",
+      "majuscule_c4", "cratima_avansata_c4", "despartire_avansata_c4", "scrierea_corecta_c4",
+      "a_i_c5", "semne_diacritice_c5", "scrierea_compuselor_c5", "cratima_forme_c5",
+    ],
     generate: (count) => {
       return genLueckenText(count).map(item => ({
         type: "ro-luecken-text",
@@ -476,7 +494,14 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Ordonează povestea 📋",
     printLabel: "Ordonează povestea",
     component: GeschichteSortieren,
-    subtopicIds: ["propozitie_tip_c1", "ordine_cuvinte_c1", "sinonime_c1", "antonime_c1", "intelegere_c3", "idee_principala_c3"],
+    subtopicIds: [
+      "propozitie_tip_c1", "ordine_cuvinte_c1", "sinonime_c1", "antonime_c1",
+      "narativ_c2", "personaje_actiuni_c2", "succesiune_c2",
+      "intelegere_c3", "idee_principala_c3",
+      "rezumat_c4", "text_narativ_c4", "intelegere_text_c4",
+      "genuri_literare_c5", "moduri_expunere_c5", "personaje_caracterizare_c5",
+      "genuri_c6", "moduri_expunere_c6", "personaje_c6",
+    ],
     generate: (count) => {
       return genIstorieSortiere(count).map(item => ({
         type: "ro-geschichte-sortieren",
@@ -505,7 +530,14 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Familia cuvintelor 🌳",
     printLabel: "Familia cuvintelor",
     component: WortfamilienBaum,
-    subtopicIds: ["familii_c1", "familia_cuvintelor_c3", "sinonime_c3", "antonime_c3"],
+    subtopicIds: [
+      "familii_c1", "familia_cuvintelor_c3", "sinonime_c3", "antonime_c3",
+      "sinonime_antonime_c4", "campuri_semantice_c4", "derivare_compunere_c4",
+      "polisemia_c5", "omonimia_c5", "paronimia_c5", "locutiuni_c5",
+      "polisemie_c6", "derivare_c6", "locutiuni_c6", "campuri_semantice_c6",
+      "vocabular_familie_lexicala", "vocabular_mijloace",
+      "figuri_stil", "stil_vocabular",
+    ],
     generate: (count) => {
       return genFamilieCuvinte(count).map(item => ({
         type: "ro-wortfamilien-baum",
@@ -539,7 +571,16 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Sortează cuvintele 🏷️",
     printLabel: "Sortează cuvintele",
     component: WortartenSortieren,
-    subtopicIds: ["singular_plural_c1", "gen_subst_c3", "numar_subst_c3", "conjugare_c3", "acord_adj_c3", "adj_propozitie_c3"],
+    subtopicIds: [
+      "singular_plural_c1",
+      "substantiv_c2", "verb_c2", "adjectiv_c2",
+      "gen_subst_c3", "numar_subst_c3", "conjugare_c3", "acord_adj_c3", "adj_propozitie_c3",
+      "substantiv_c4", "adjectiv_c4", "verb_timpuri_c4", "alte_parti_c4",
+      "declinarea_c5", "genul_substantivelor_c5", "pronume_interogativ_c5", "pronume_nehotarat_c5", "pronume_relativ_c5",
+      "declinare_c6", "personale_c6", "demonstrative_c6", "posesive_c6", "reflexive_c6",
+      "adjectiv_clasificare", "adjectiv_functii", "numeral_cardinal", "numeral_ordinal",
+      "substantiv_gen_numar", "morfologie_recapitulare", "membri_propozitie",
+    ],
     generate: (count) => {
       return pickN(SORTARE_CUVINTE_POOL, count).map(item => ({
         type: "ro-wortarten-sortieren",
@@ -568,7 +609,14 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Timpuri verbale ⏰",
     printLabel: "Timpuri verbale",
     component: ZeitformenZuordnen,
-    subtopicIds: ["timp_verb_c3", "conjugare_c3", "persoana_nr_c3"],
+    subtopicIds: [
+      "timp_verb_c3", "conjugare_c3", "persoana_nr_c3",
+      "verb_timpuri_c4",
+      "perfectul_simplu_c5", "mai_mult_ca_perfect_c5", "acordul_predicat_c5",
+      "timpuri_literare_c6", "neregulata_c6", "acord_c6",
+      "verb_indicativ", "verb_conjunctiv", "verb_conditional_imperativ",
+      "verb_forme_avansate", "morfologie_recapitulare",
+    ],
     generate: (count) => {
       return pickN(TIMPURI_POOL, count).map(item => ({
         type: "ro-zeitformen-zuordnen",
@@ -596,7 +644,14 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Genul substantivului 🔤",
     printLabel: "Genul substantivului",
     component: GenusSortierung,
-    subtopicIds: ["gen_subst_c3", "numar_subst_c3", "singular_plural_c1"],
+    subtopicIds: [
+      "gen_subst_c3", "numar_subst_c3", "singular_plural_c1",
+      "substantiv_c2",
+      "substantiv_c4",
+      "genul_substantivelor_c5", "declinarea_c5",
+      "declinare_c6",
+      "substantiv_gen_numar",
+    ],
     generate: (count) => {
       return pickN(GEN_SORT_POOL, count).map(item => ({
         type: "ro-genus-sortierung",
@@ -624,7 +679,16 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Propoziție amestecată ✏️",
     printLabel: "Propoziție amestecată",
     component: SatzOrdnen,
-    subtopicIds: ["ordine_cuvinte_c1", "propozitie_tip_c1", "intelegere_c3", "idee_principala_c3", "sinonime_c3"],
+    subtopicIds: [
+      "ordine_cuvinte_c1", "propozitie_tip_c1",
+      "subiect_predicat_c2", "tipuri_prop_c2",
+      "intelegere_c3", "idee_principala_c3", "sinonime_c3",
+      "rezumat_c4", "text_narativ_c4", "scrisoarea_c4",
+      "genuri_literare_c5", "moduri_expunere_c5",
+      "genuri_c6", "moduri_expunere_c6",
+      "text_roman_nuvela", "text_liric_c7",
+      "comentariu_literar", "text_literar_genuri",
+    ],
     generate: (count) => {
       return pickN(ORDINE_AVANSATA, count).map(sentence => {
         const words = sentence.split(" ");
@@ -658,7 +722,13 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
     label: "Cratimă corectă ✍️",
     printLabel: "Cratimă corectă",
     component: FehlerFinden,
-    subtopicIds: ["cratima_c1", "scrierea_corecta_c1", "cratima_c3"],
+    subtopicIds: [
+      "cratima_c1", "scrierea_corecta_c1",
+      "sa_s_a_c2", "ia_i_a_c2", "sau_s_au_c2",
+      "cratima_c3",
+      "cratima_avansata_c4", "scrierea_corecta_c4",
+      "cratima_forme_c5", "scrierea_compuselor_c5",
+    ],
     generate: (count) => {
       return pickN(CRATIMA_FEHLER, count).map(item => ({
         type: "ro-cratima-finden",
