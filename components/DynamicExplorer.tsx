@@ -15,11 +15,18 @@ import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
+import { K6_Generators } from "@/lib/biologieGenerators6";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
 const BIO_GENERATORS: Record<string, () => any> = {};
 // Flatten K5_Generators for easy access: "category_subtopic"
 Object.entries(K5_Generators).forEach(([cat, subs]) => {
+  Object.entries(subs).forEach(([sub, gen]) => {
+    BIO_GENERATORS[`${cat}_${sub}`] = gen;
+  });
+});
+// Flatten K6_Generators
+Object.entries(K6_Generators).forEach(([cat, subs]) => {
   Object.entries(subs).forEach(([sub, gen]) => {
     BIO_GENERATORS[`${cat}_${sub}`] = gen;
   });
