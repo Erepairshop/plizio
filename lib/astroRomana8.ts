@@ -38,7 +38,7 @@ export const C8_ISLANDS: IslandDef[] = [
     topicKeys: ["morfologie_c8/verb_forme_avansate", "morfologie_c8/pronume_cazuri", "morfologie_c8/articol_definit_nedefinit", "morfologie_c8/substantiv_gen_numar"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare morfologie",  en: "Morphology Explore",  hu: "Morfológia felfedező",  de: "Morphologie erkunden"  } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",          en: "Orbit Quiz",          hu: "Bolygó kvíz",           de: "Planeten-Quiz"         } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",      en: "Star Match",          hu: "Csillag párosítás",  de: "Sterne zuordnen"      } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",          en: "Speed Round",         hu: "Gyors kör",             de: "Schnellrunde"          } },
     ],
     svgX: 160, svgY: 530,
@@ -62,7 +62,7 @@ export const C8_ISLANDS: IslandDef[] = [
     topicKeys: ["sintaxa_c8/subordonare_recapitulare", "morfologie_c8/morfologie_recapitulare"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare recapitulare", en: "Review Explore",   hu: "Összefoglalás felfedező", de: "Wiederholung erkunden" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",           en: "Orbit Quiz",       hu: "Bolygó kvíz",            de: "Planeten-Quiz"         } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",       en: "Star Match",       hu: "Csillag párosítás",  de: "Sterne zuordnen"      } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",           en: "Speed Round",      hu: "Gyors kör",              de: "Schnellrunde"          } },
     ],
     svgX: 240, svgY: 360,
@@ -86,7 +86,7 @@ export const C8_ISLANDS: IslandDef[] = [
     topicKeys: ["text_literatura_c8/texturi_nonliterare", "text_literatura_c8/stil_vocabular"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare text non-lit.",  en: "Non-Lit. Explore",  hu: "Nem irodalmi felfedező", de: "Nichtlit. erkunden" } },
-      { id: "m2", category: "build",     gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",             en: "Black Hole",        hu: "Fekete lyuk",            de: "Schwarzes Loch"     } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",         en: "Star Match",        hu: "Csillag párosítás",  de: "Sterne zuordnen"    } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",             en: "Speed Round",       hu: "Gyors kör",              de: "Schnellrunde"       } },
     ],
     svgX: 220, svgY: 195,
@@ -98,7 +98,7 @@ export const C8_ISLANDS: IslandDef[] = [
     topicKeys: ["text_literatura_c8/comentariu_literar", "text_literatura_c8/figuri_stil"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare argumentare",   en: "Argument Explore",   hu: "Érvelés felfedező",   de: "Argumentation erkunden" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",            en: "Orbit Quiz",         hu: "Bolygó kvíz",         de: "Planeten-Quiz"          } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",        en: "Star Match",         hu: "Csillag párosítás",  de: "Sterne zuordnen"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",            en: "Black Hole",         hu: "Fekete lyuk",         de: "Schwarzes Loch"         } },
     ],
     svgX: 100, svgY: 125,
@@ -122,7 +122,7 @@ export const C8_ISLANDS: IslandDef[] = [
     topicKeys: ["text_literatura_c8/comentariu_literar", "text_literatura_c8/stil_vocabular", "sintaxa_c8/analiza_sintactica"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare compunere",  en: "Composition Explore", hu: "Fogalmazás felfedező", de: "Aufsatz erkunden"     } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",        en: "Orbit Quiz",          hu: "Bolygó kvíz",          de: "Planeten-Quiz"        } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",    en: "Star Match",          hu: "Csillag párosítás",  de: "Sterne zuordnen"     } },
       { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",        en: "Black Hole",          hu: "Fekete lyuk",          de: "Schwarzes Loch"       } },
     ],
     svgX: 80, svgY: -20,
@@ -138,7 +138,7 @@ export const C8_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Simulare examen",   en: "Exam Simulation",   hu: "Vizsga szimuláció",  de: "Prüfungssimulation"  } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",     en: "Orbit Quiz",        hu: "Bolygó kvíz",        de: "Planeten-Quiz"       } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele", en: "Star Match",        hu: "Csillag párosítás",  de: "Sterne zuordnen"     } },
       { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă finală",     en: "Final Round",       hu: "Döntő kör",          de: "Finale Runde"        } },
     ],
     svgX: 190, svgY: -90,

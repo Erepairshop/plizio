@@ -325,7 +325,7 @@ export const C1_ISLANDS: IslandDef[] = [
     topicKeys: ["alfabet_c1/vocale_c1", "silabe_c1/despartire_c1", "propozitia_c1/punctuatie_c1", "cuvantul_c1/antonime_c1"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Recapitulare mare",   en: "Big Review",         hu: "Nagy áttekintés",    de: "Große Überprüfung" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz final",          en: "Final Quiz",         hu: "Záró kvíz",          de: "Final Quiz"        } },
+      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",         hu: "Csillag párosítás", de: "Sterne verbinden" } },
       { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră finală", en: "Black Hole Final",   hu: "Záró fekete lyuk",   de: "Schwarzes Loch"    } },
     ],
     svgX: 190, svgY: -90,
