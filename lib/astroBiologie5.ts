@@ -45,7 +45,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🐟", color: "#4CAF50", sortRange: [1, 10],
     topicKeys: ["fish", "amphibian"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "fish-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -141,7 +141,7 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     icon: "🍎", color: "#9C27B0", sortRange: [1, 10],
     topicKeys: ["nutrients", "digestive_system", "digestive_organs", "healthy_diet"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "nutrition-explorer", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
+      { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz", icon: "🚀", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
@@ -309,4 +309,6 @@ export function generateMatchPairsBioK5(questions: MathQuestion[]): MatchPair[] 
     left: q.question,
     right: String(q.correctAnswer),
   }));
+}
+;
 }
