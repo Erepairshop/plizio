@@ -472,6 +472,14 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         langOnly: "ro",
       },
       {
+        id: "romaniantest",
+        icon: PenLine,
+        nameKey: "romaniantest",
+        color: "#3B82F6",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-cyan-500/20",
+        langOnly: "ro",
+      },
+      {
         id: "astro-biologie",
         icon: Leaf,
         nameKey: "astro-biologie",
