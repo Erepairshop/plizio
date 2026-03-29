@@ -379,8 +379,8 @@ function incrementPlayCount(id: string): void {
 
 function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
-  const t = def.labels[langCode] || def.labels.en;
-  const tDe = def.labels.de;
+  const t = def.labels[langCode] || def.labels.ro || def.labels.en || {};
+  const tFallback = def.labels.ro || def.labels.en || def.labels.de || {};
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
@@ -626,7 +626,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   );
 
   // Label lookup helper
-  const L = (key: string) => t[key] || (tDe && tDe[key]) || key;
+  const L = (key: string) => t[key] || tFallback[key] || key;
 
   // TTS speak helper — tries to pick the best available voice
   const speak = useCallback((text: string) => {
