@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useEffect, useState, useMemo } from 'react';
+import { useRef, useEffect, useState, useMemo, type ReactNode } from 'react';
 import { Canvas, useFrame, useLoader } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
@@ -10,6 +10,14 @@ import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
 import type { HairDef } from '@/lib/hair';
+import {
+  type AvatarAttachmentSpec,
+  getCapeAttachmentSpec,
+  getGlassesAttachmentSpec,
+  getHairAttachmentSpec,
+  getHatAttachmentSpec,
+  getTrailAttachmentSpec,
+} from '@/lib/avatarAttachments';
 import { type AvatarGender, getAvatarScale } from '@/lib/gender';
 
 export interface AvatarCompanionProps {
@@ -42,41 +50,354 @@ export interface AvatarCompanionProps {
   orbitControls?: boolean;
 }
 
-// ── Mood → GLB animation mapping ──────────────────────────
-const MOOD_ANIM: Record<string, string> = {
-  idle: 'Short_Breathe_and_Look_Around',
-  focused: 'Talk_Passionately',
-  happy: 'Happy_jump_f',
-  disappointed: 'falling_down',
-  victory: 'Cheer_with_Both_Hands',
-  surprised: 'Dont_You_Dare',
-  confused: 'Thoughtful_Walk',
-  laughing: 'Motivational_Cheer',
-  wave: 'Wave_One_Hand',
-  dance: 'Stand_Clap_and_Sit_Down',
-  spin: 'Cheer_with_Both_Hands',
+type AvatarAnimKey =
+  | 'idle'
+  | 'focused'
+  | 'happy'
+  | 'disappointed'
+  | 'victory'
+  | 'surprised'
+  | 'confused'
+  | 'laughing'
+  | 'wave'
+  | 'dance'
+  | 'spin'
+  | 'ambient';
+
+// Prefer semantically matching clips, but allow fallback selection if the GLB changes later.
+const ANIM_CANDIDATES: Record<AvatarAnimKey, string[]> = {
+  idle: ['Short_Breathe_and_Look_Around', 'Thoughtful_Walk', 'Talk_Passionately'],
+  focused: ['Talk_Passionately', 'Short_Breathe_and_Look_Around', 'Thoughtful_Walk'],
+  happy: ['Happy_jump_f', 'Motivational_Cheer', 'Cheer_with_Both_Hands'],
+  disappointed: ['falling_down', 'Thoughtful_Walk', 'Short_Breathe_and_Look_Around'],
+  victory: ['Cheer_with_Both_Hands', 'Motivational_Cheer', 'Happy_jump_f'],
+  surprised: ['Dont_You_Dare', 'Wave_One_Hand', 'Short_Breathe_and_Look_Around'],
+  confused: ['Thoughtful_Walk', 'Short_Breathe_and_Look_Around', 'Talk_Passionately'],
+  laughing: ['Motivational_Cheer', 'Cheer_with_Both_Hands', 'Happy_jump_f'],
+  wave: ['Wave_One_Hand', 'Motivational_Cheer', 'Cheer_with_Both_Hands'],
+  dance: ['Stand_Clap_and_Sit_Down', 'Motivational_Cheer', 'Happy_jump_f'],
+  spin: ['Cheer_with_Both_Hands', 'Stand_Clap_and_Sit_Down', 'Motivational_Cheer'],
+  ambient: ['Wave_One_Hand', 'Motivational_Cheer', 'Short_Breathe_and_Look_Around', 'Talk_Passionately'],
 };
 
 const WALK_ANIM = 'Walking';
 const RUN_ANIM = 'Running';
 const FADE_DURATION = 0.5;
+const IDLE_TRICK_REACTIONS: AvatarAnimKey[] = ['wave', 'dance', 'spin', 'laughing', 'surprised'];
+
+function pickFirstExistingClip(actions: Record<string, THREE.AnimationAction>, candidates: string[]) {
+  return candidates.find((name) => Boolean(actions[name])) || '';
+}
 
 // ── GLB hat loader ──────────────────────────────────────────
-function HatAttachment({ headBone }: { headBone: THREE.Bone }) {
-  const gltf = useLoader(GLTFLoader, '/models/tester_cap.glb');
-  const hatScene = useMemo(() => {
-    const clone = gltf.scene.clone(true);
-    clone.scale.setScalar(1);
-    clone.position.set(0, 0.1, 0);
-    return clone;
-  }, [gltf]);
+function AttachmentBoneGroup({
+  bone,
+  spec,
+  children,
+}: {
+  bone: THREE.Bone;
+  spec: AvatarAttachmentSpec;
+  children: ReactNode;
+}) {
+  const groupRef = useRef<THREE.Group>(null);
 
   useEffect(() => {
-    headBone.add(hatScene);
-    return () => { headBone.remove(hatScene); };
-  }, [headBone, hatScene]);
+    const group = groupRef.current;
+    if (!group) return;
+    bone.add(group);
+    return () => { bone.remove(group); };
+  }, [bone]);
 
-  return null;
+  return (
+    <group
+      ref={groupRef}
+      position={spec.position}
+      rotation={spec.rotation}
+      scale={spec.scale}
+    >
+      {children}
+    </group>
+  );
+}
+
+function GLBAttachment({ spec, bone }: { spec: AvatarAttachmentSpec; bone: THREE.Bone }) {
+  const gltf = useLoader(GLTFLoader, spec.assetPath!);
+  const attachmentScene = useMemo(() => {
+    const clone = gltf.scene.clone(true);
+    clone.traverse((child) => {
+      if (!(child as THREE.Mesh).isMesh) return;
+      const mesh = child as THREE.Mesh;
+      const material = mesh.material as THREE.MeshStandardMaterial;
+      if (!material?.isMeshStandardMaterial) return;
+      const next = material.clone();
+      if (spec.color) next.color.set(spec.color);
+      if (spec.emissive) {
+        next.emissive.set(spec.emissive);
+        next.emissiveIntensity = spec.emissiveIntensity ?? 0.2;
+      }
+      mesh.material = next;
+    });
+    return clone;
+  }, [gltf, spec.color, spec.emissive, spec.emissiveIntensity]);
+
+  return (
+    <AttachmentBoneGroup bone={bone} spec={spec}>
+      <primitive object={attachmentScene} />
+    </AttachmentBoneGroup>
+  );
+}
+
+function glowMaterial(color: string, emissive?: string, emissiveIntensity = 0.2) {
+  return (
+    <meshStandardMaterial
+      color={color}
+      emissive={emissive || color}
+      emissiveIntensity={emissive ? emissiveIntensity : emissiveIntensity * 0.35}
+      roughness={0.55}
+      metalness={0.2}
+    />
+  );
+}
+
+function ProceduralAttachment({ spec, bone }: { spec: AvatarAttachmentSpec; bone: THREE.Bone }) {
+  const color = spec.color || '#ffffff';
+  const secondaryColor = spec.secondaryColor || '#ffffff';
+  const emissive = spec.emissive || color;
+  const emissiveIntensity = spec.emissiveIntensity ?? 0.2;
+
+  let content: ReactNode = null;
+
+  if (spec.slot === 'hat') {
+    switch (spec.variant) {
+      case 'halo':
+        content = (
+          <mesh rotation={[Math.PI / 2, 0, 0]}>
+            <torusGeometry args={[0.2, 0.03, 12, 32]} />
+            {glowMaterial(color, emissive, emissiveIntensity)}
+          </mesh>
+        );
+        break;
+      case 'horns':
+        content = (
+          <>
+            <mesh position={[-0.11, 0.02, 0]} rotation={[0.2, 0, 0.35]}>
+              <coneGeometry args={[0.05, 0.18, 10]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+            <mesh position={[0.11, 0.02, 0]} rotation={[0.2, 0, -0.35]}>
+              <coneGeometry args={[0.05, 0.18, 10]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+          </>
+        );
+        break;
+      case 'antenna':
+        content = (
+          <>
+            <mesh position={[0, 0.07, 0]}>
+              <cylinderGeometry args={[0.012, 0.012, 0.22, 8]} />
+              {glowMaterial('#9aa4b2', '#9aa4b2', 0.08)}
+            </mesh>
+            <mesh position={[0, 0.2, 0]}>
+              <sphereGeometry args={[0.045, 12, 12]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+          </>
+        );
+        break;
+      case 'bunnyears':
+        content = (
+          <>
+            <mesh position={[-0.09, 0.16, 0]} rotation={[0, 0, -0.18]}>
+              <capsuleGeometry args={[0.04, 0.22, 6, 10]} />
+              {glowMaterial(color, emissive, emissiveIntensity * 0.5)}
+            </mesh>
+            <mesh position={[0.09, 0.16, 0]} rotation={[0, 0, 0.18]}>
+              <capsuleGeometry args={[0.04, 0.22, 6, 10]} />
+              {glowMaterial(color, emissive, emissiveIntensity * 0.5)}
+            </mesh>
+          </>
+        );
+        break;
+      case 'wizard':
+        content = (
+          <>
+            <mesh position={[0, 0.04, 0]}>
+              <cylinderGeometry args={[0.18, 0.24, 0.08, 20]} />
+              {glowMaterial(color, emissive, emissiveIntensity * 0.3)}
+            </mesh>
+            <mesh position={[0, 0.23, 0]}>
+              <coneGeometry args={[0.17, 0.34, 20]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+          </>
+        );
+        break;
+      case 'helmet':
+      case 'viking':
+      case 'ninja':
+        content = (
+          <mesh position={[0, 0.02, 0.01]}>
+            <sphereGeometry args={[0.22, 18, 14, 0, Math.PI * 2, 0, Math.PI * 0.62]} />
+            {glowMaterial(color, emissive, emissiveIntensity * 0.4)}
+          </mesh>
+        );
+        break;
+      case 'crown':
+      default:
+        content = (
+          <>
+            <mesh position={[0, 0.04, 0]}>
+              <cylinderGeometry args={[0.18, 0.2, 0.12, 20]} />
+              {glowMaterial(color, emissive, emissiveIntensity * 0.55)}
+            </mesh>
+            <mesh position={[-0.11, 0.14, 0]}>
+              <coneGeometry args={[0.03, 0.1, 8]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+            <mesh position={[0, 0.16, 0]}>
+              <coneGeometry args={[0.035, 0.12, 8]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+            <mesh position={[0.11, 0.14, 0]}>
+              <coneGeometry args={[0.03, 0.1, 8]} />
+              {glowMaterial(color, emissive, emissiveIntensity)}
+            </mesh>
+          </>
+        );
+        break;
+    }
+  } else if (spec.slot === 'glasses') {
+    switch (spec.variant) {
+      case 'monocle':
+        content = (
+          <>
+            <mesh position={[0.08, 0, 0]}>
+              <torusGeometry args={[0.07, 0.012, 10, 24]} />
+              {glowMaterial(color, color, 0.05)}
+            </mesh>
+            <mesh position={[0.08, 0, 0.01]}>
+              <circleGeometry args={[0.055, 24]} />
+              {glowMaterial(secondaryColor, emissive, emissiveIntensity)}
+            </mesh>
+          </>
+        );
+        break;
+      case 'visor':
+        content = (
+          <>
+            <mesh>
+              <boxGeometry args={[0.42, 0.13, 0.04]} />
+              {glowMaterial(secondaryColor, emissive, emissiveIntensity)}
+            </mesh>
+            <mesh position={[0, 0, -0.016]}>
+              <boxGeometry args={[0.46, 0.03, 0.02]} />
+              {glowMaterial(color, color, 0.1)}
+            </mesh>
+          </>
+        );
+        break;
+      default:
+        content = (
+          <>
+            <mesh position={[-0.1, 0, 0]}>
+              <torusGeometry args={[0.07, 0.012, 10, 24]} />
+              {glowMaterial(color, color, 0.05)}
+            </mesh>
+            <mesh position={[0.1, 0, 0]}>
+              <torusGeometry args={[0.07, 0.012, 10, 24]} />
+              {glowMaterial(color, color, 0.05)}
+            </mesh>
+            <mesh position={[0, 0, -0.01]}>
+              <boxGeometry args={[0.08, 0.015, 0.015]} />
+              {glowMaterial(color, color, 0.05)}
+            </mesh>
+            <mesh position={[-0.1, 0, 0.01]}>
+              <circleGeometry args={[0.055, 24]} />
+              {glowMaterial(secondaryColor, emissive, emissiveIntensity * 0.7)}
+            </mesh>
+            <mesh position={[0.1, 0, 0.01]}>
+              <circleGeometry args={[0.055, 24]} />
+              {glowMaterial(secondaryColor, emissive, emissiveIntensity * 0.7)}
+            </mesh>
+          </>
+        );
+        break;
+    }
+  } else if (spec.slot === 'cape') {
+    if (spec.variant === 'angel' || spec.variant === 'demon') {
+      const wingColor = spec.variant === 'angel' ? '#f8fafc' : color;
+      content = (
+        <>
+          <mesh position={[-0.16, -0.05, -0.04]} rotation={[0.1, 0, 0.25]}>
+            <boxGeometry args={[0.12, 0.34, 0.02]} />
+            {glowMaterial(wingColor, emissive, emissiveIntensity * 0.6)}
+          </mesh>
+          <mesh position={[0.16, -0.05, -0.04]} rotation={[0.1, 0, -0.25]}>
+            <boxGeometry args={[0.12, 0.34, 0.02]} />
+            {glowMaterial(wingColor, emissive, emissiveIntensity * 0.6)}
+          </mesh>
+        </>
+      );
+    } else {
+      content = (
+        <mesh position={[0, -0.24, -0.03]} rotation={[0.08, 0, 0]}>
+          <boxGeometry args={[0.34, 0.54, 0.03]} />
+          {glowMaterial(color, emissive, emissiveIntensity)}
+        </mesh>
+      );
+    }
+  } else if (spec.slot === 'trail') {
+    const orbPositions: Array<[number, number, number]> = [
+      [0, 0, 0],
+      [0.1, -0.05, -0.08],
+      [-0.1, -0.1, -0.16],
+      [0.06, -0.16, -0.24],
+    ];
+    content = (
+      <>
+        {orbPositions.map((pos, index) => (
+          <mesh key={index} position={pos}>
+            <sphereGeometry args={[0.05 - index * 0.008, 12, 12]} />
+            {glowMaterial(color, emissive, emissiveIntensity)}
+          </mesh>
+        ))}
+      </>
+    );
+  } else if (spec.slot === 'hair') {
+    content = (
+      <>
+        <mesh position={[0, 0.02, -0.02]}>
+          <sphereGeometry args={[0.22, 18, 14, 0, Math.PI * 2, 0, Math.PI * 0.58]} />
+          {glowMaterial(color, color, 0.05)}
+        </mesh>
+        <mesh position={[0, 0.06, -0.14]}>
+          <boxGeometry args={[0.22, 0.12, 0.09]} />
+          {glowMaterial(secondaryColor, color, 0.04)}
+        </mesh>
+      </>
+    );
+  }
+
+  if (!content) return null;
+
+  return (
+    <AttachmentBoneGroup bone={bone} spec={spec}>
+      {content}
+    </AttachmentBoneGroup>
+  );
+}
+
+function AvatarAttachment({
+  spec,
+  bone,
+}: {
+  spec: AvatarAttachmentSpec | null;
+  bone: THREE.Bone | null;
+}) {
+  if (!spec || !bone) return null;
+  if (spec.assetPath) return <GLBAttachment spec={spec} bone={bone} />;
+  return <ProceduralAttachment spec={spec} bone={bone} />;
 }
 
 // ── MAIN 3D CHARACTER (GLB-based) ───────────────────────────
@@ -86,7 +407,11 @@ function RobotCharacter({
   facing,
   jumpTrigger,
   activeSkin,
+  activeCape,
+  activeGlasses,
   activeHat,
+  activeTrail,
+  activeHair,
 }: AvatarCompanionProps) {
   const gltf = useLoader(GLTFLoader, '/models/avatar_optimized.glb');
 
@@ -98,8 +423,8 @@ function RobotCharacter({
   const isWalkingRef = useRef(isWalking);
   const facingRef = useRef(facing);
   const jumpTimerRef = useRef(-1);
-  const reactionMoodRef = useRef<string>('idle');
   const reactionDurationRef = useRef(0.6);
+  const ambientTimerRef = useRef(4 + Math.random() * 5);
 
   // Clone scene so multiple instances don't conflict
   const scene = useMemo(() => {
@@ -126,16 +451,21 @@ function RobotCharacter({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [gltf, activeSkin?.id, activeSkin?.bodyColor]);
 
-  // Find Head bone for hat attachment
-  const headBone = useMemo(() => {
-    let found: THREE.Bone | null = null;
+  const bones = useMemo(() => {
+    const found: Record<string, THREE.Bone> = {};
     scene.traverse((child) => {
-      if ((child as THREE.Bone).isBone && child.name === 'Head') {
-        found = child as THREE.Bone;
+      if ((child as THREE.Bone).isBone) {
+        found[child.name] = child as THREE.Bone;
       }
     });
     return found;
   }, [scene]);
+
+  const hatSpec = useMemo(() => getHatAttachmentSpec(activeHat || null), [activeHat]);
+  const glassesSpec = useMemo(() => getGlassesAttachmentSpec(activeGlasses || null), [activeGlasses]);
+  const capeSpec = useMemo(() => getCapeAttachmentSpec(activeCape || null), [activeCape]);
+  const trailSpec = useMemo(() => getTrailAttachmentSpec(activeTrail || null), [activeTrail]);
+  const hairSpec = useMemo(() => getHairAttachmentSpec(activeHair || null), [activeHair]);
 
   // Setup animation mixer and actions
   useEffect(() => {
@@ -150,7 +480,7 @@ function RobotCharacter({
     actionsRef.current = actions;
 
     // Start idle animation
-    const idleClip = MOOD_ANIM.idle;
+    const idleClip = pickFirstExistingClip(actions, ANIM_CANDIDATES.idle);
     if (actions[idleClip]) {
       actions[idleClip].reset().play();
       currentActionRef.current = idleClip;
@@ -182,6 +512,11 @@ function RobotCharacter({
     currentActionRef.current = clipName;
   };
 
+  const playMoodClip = (animKey: AvatarAnimKey, loop = true) => {
+    const clipName = pickFirstExistingClip(actionsRef.current, ANIM_CANDIDATES[animKey]);
+    if (clipName) fadeToAction(clipName, loop);
+  };
+
   // Sync mood changes
   useEffect(() => { moodRef.current = mood; }, [mood]);
   useEffect(() => { isWalkingRef.current = isWalking; }, [isWalking]);
@@ -189,18 +524,17 @@ function RobotCharacter({
 
   // Handle mood → animation
   useEffect(() => {
-    if (isWalkingRef.current) return; // walking overrides mood
-    const clip = MOOD_ANIM[mood] || MOOD_ANIM.idle;
-    fadeToAction(clip, true);
+    if (isWalkingRef.current || jumpTimerRef.current >= 0) return;
+    playMoodClip(mood);
   }, [mood]);
 
   // Handle walking state
   useEffect(() => {
     if (isWalking) {
-      fadeToAction(WALK_ANIM, true);
+      const walkClip = actionsRef.current[WALK_ANIM] ? WALK_ANIM : RUN_ANIM;
+      if (actionsRef.current[walkClip]) fadeToAction(walkClip, true);
     } else {
-      const clip = MOOD_ANIM[moodRef.current] || MOOD_ANIM.idle;
-      fadeToAction(clip, true);
+      playMoodClip(moodRef.current);
     }
   }, [isWalking]);
 
@@ -208,11 +542,9 @@ function RobotCharacter({
   useEffect(() => {
     if (jumpTrigger?.reaction) {
       jumpTimerRef.current = 0;
-      reactionMoodRef.current = jumpTrigger.reaction;
       reactionDurationRef.current = ['wave', 'dance', 'spin'].includes(jumpTrigger.reaction) ? 1.4 : 0.6;
-
-      const clip = MOOD_ANIM[jumpTrigger.reaction] || MOOD_ANIM.happy;
-      fadeToAction(clip, false);
+      ambientTimerRef.current = 7 + Math.random() * 5;
+      playMoodClip(jumpTrigger.reaction, false);
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [jumpTrigger?.timestamp]);
@@ -231,11 +563,23 @@ function RobotCharacter({
         jumpTimerRef.current = -1;
         // Return to idle or walking
         if (isWalkingRef.current) {
-          fadeToAction(WALK_ANIM, true);
+          const walkClip = actionsRef.current[WALK_ANIM] ? WALK_ANIM : RUN_ANIM;
+          if (actionsRef.current[walkClip]) fadeToAction(walkClip, true);
         } else {
-          const clip = MOOD_ANIM[moodRef.current] || MOOD_ANIM.idle;
-          fadeToAction(clip, true);
+          playMoodClip(moodRef.current);
         }
+      }
+    }
+
+    // Give the robot occasional personality when it is just hanging around.
+    if (!isWalkingRef.current && jumpTimerRef.current < 0) {
+      ambientTimerRef.current -= delta;
+      if (ambientTimerRef.current <= 0) {
+        ambientTimerRef.current = 8 + Math.random() * 8;
+        const ambientReaction = IDLE_TRICK_REACTIONS[Math.floor(Math.random() * IDLE_TRICK_REACTIONS.length)];
+        reactionDurationRef.current = ['wave', 'dance', 'spin'].includes(ambientReaction) ? 1.4 : 0.6;
+        jumpTimerRef.current = 0;
+        playMoodClip(ambientReaction, false);
       }
     }
 
@@ -258,7 +602,11 @@ function RobotCharacter({
   return (
     <group ref={groupRef} position={[0, -1.85, 0]} scale={0.85}>
       <primitive object={scene} />
-      {activeHat && headBone && <HatAttachment headBone={headBone} />}
+      <AvatarAttachment spec={hairSpec} bone={hairSpec ? bones[hairSpec.anchor] || null : null} />
+      <AvatarAttachment spec={hatSpec} bone={hatSpec ? bones[hatSpec.anchor] || null : null} />
+      <AvatarAttachment spec={glassesSpec} bone={glassesSpec ? bones[glassesSpec.anchor] || null : null} />
+      <AvatarAttachment spec={capeSpec} bone={capeSpec ? bones[capeSpec.anchor] || null : null} />
+      <AvatarAttachment spec={trailSpec} bone={trailSpec ? bones[trailSpec.anchor] || null : null} />
     </group>
   );
 }
