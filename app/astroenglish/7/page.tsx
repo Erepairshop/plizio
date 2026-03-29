@@ -39,15 +39,7 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
-import GrammarK7Explorer from "@/app/astroenglish/games/k7/GrammarK7Explorer";
-import SentenceK7Explorer from "@/app/astroenglish/games/k7/SentenceK7Explorer";
-import TenseVoiceExplorer from "@/app/astroenglish/games/k7/TenseVoiceExplorer";
-import PunctuationK7Explorer from "@/app/astroenglish/games/k7/PunctuationK7Explorer";
-import FigurativeK7Explorer from "@/app/astroenglish/games/k7/FigurativeK7Explorer";
-import AcademicK7Explorer from "@/app/astroenglish/games/k7/AcademicK7Explorer";
-import ArgumentExplorer from "@/app/astroenglish/games/k7/ArgumentExplorer";
-import ClauseK7Explorer from "@/app/astroenglish/games/k7/ClauseK7Explorer";
-import VerbalExplorer from "@/app/astroenglish/games/k7/VerbalExplorer";
+import K7Explorer from "@/app/astroenglish/games/k7/K7Explorer";
 import { K7_ISLAND_SVGS } from "@/app/astroenglish/islands-k7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -130,15 +122,7 @@ type Screen =
   | "tense-explorer"
   | "memory-pair"
   | "pronunciation"
-  | "en7-grammar-explorer"
-  | "en7-sentence-explorer"
-  | "en7-tense-voice-explorer"
-  | "en7-punctuation-explorer"
-  | "en7-figurative-explorer"
-  | "en7-academic-explorer"
-  | "en7-argument-explorer"
-  | "en7-clause-explorer"
-  | "en7-verbal-explorer"
+  | "english-k7-explore"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -849,7 +833,7 @@ export default function AstroEnglishK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en7-grammar-explorer", "en7-sentence-explorer", "en7-tense-voice-explorer", "en7-punctuation-explorer", "en7-figurative-explorer", "en7-academic-explorer", "en7-argument-explorer", "en7-clause-explorer", "en7-verbal-explorer"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k7-explore"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -1208,38 +1192,14 @@ export default function AstroEnglishK7Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK7(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
-        {screen === "en7-grammar-explorer" && (
-          <GrammarK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-sentence-explorer" && (
-          <SentenceK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-tense-voice-explorer" && (
-          <TenseVoiceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-punctuation-explorer" && (
-          <PunctuationK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-figurative-explorer" && (
-          <FigurativeK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-academic-explorer" && (
-          <AcademicK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-argument-explorer" && (
-          <ArgumentExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-clause-explorer" && (
-          <ClauseK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en7-verbal-explorer" && (
-          <VerbalExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "english-k7-explore" && activeIsland && (
+          <K7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en7-grammar-explorer", "en7-sentence-explorer", "en7-tense-voice-explorer", "en7-punctuation-explorer", "en7-figurative-explorer", "en7-academic-explorer", "en7-argument-explorer", "en7-clause-explorer", "en7-verbal-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k7-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

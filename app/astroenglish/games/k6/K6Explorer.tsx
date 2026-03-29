@@ -6,15 +6,15 @@ import DynamicExplorer from "@/components/DynamicExplorer";
 import type { IslandDef } from "@/lib/astromath";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import {
-  PRONOUN6_POOL,   PRONOUN6_LABELS,
-  PRECISION_POOL,  PRECISION_LABELS,
-  SENTENCE6_POOL,  SENTENCE6_LABELS,
-  CLAUSE_POOL,     CLAUSE_LABELS,
-  WORDBUILDER_POOL, WORDBUILDER_LABELS,
-  VOCAB6_POOL,     VOCAB6_LABELS,
-  ACADEMIC_POOL,   ACADEMIC_LABELS,
-  PUNCT6_POOL,     PUNCT6_LABELS,
-  RHETORIC_POOL,   RHETORIC_LABELS,
+  MODAL_MASTERY_POOL,         MODAL_MASTERY_LABELS,
+  PASSIVE_POWER_POOL,         PASSIVE_POWER_LABELS,
+  COMPLEX_CITADEL_POOL,       COMPLEX_CITADEL_LABELS,
+  RELATIVE_REFUGE_POOL,       RELATIVE_REFUGE_LABELS,
+  PREPOSITION_PLAZA_POOL,     PREPOSITION_PLAZA_LABELS,
+  PHRASAL_VERBS_VALLEY_POOL,  PHRASAL_VERBS_VALLEY_LABELS,
+  ADVANCED_VOCABULARY_POOL,   ADVANCED_VOCABULARY_LABELS,
+  MIXED_GRAMMAR_POOL,         MIXED_GRAMMAR_LABELS,
+  BIGTEST6_POOL,              BIGTEST6_LABELS,
 } from "@/lib/explorerPools/englishK6";
 
 interface IslandConfig {
@@ -26,23 +26,23 @@ interface IslandConfig {
 }
 
 const ISLAND_CONFIG: Record<string, IslandConfig> = {
-  i1: { pool: PRONOUN6_POOL,    labels: PRONOUN6_LABELS,    title: "explorer_title", icon: "🎯",
+  i1: { pool: MODAL_MASTERY_POOL,        labels: MODAL_MASTERY_LABELS,        title: "explorer_title", icon: "🔮",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i2: { pool: PRECISION_POOL,   labels: PRECISION_LABELS,   title: "explorer_title", icon: "🔍",
+  i2: { pool: PASSIVE_POWER_POOL,        labels: PASSIVE_POWER_LABELS,        title: "explorer_title", icon: "⚡",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i3: { pool: SENTENCE6_POOL,   labels: SENTENCE6_LABELS,   title: "explorer_title", icon: "📝",
+  i3: { pool: COMPLEX_CITADEL_POOL,      labels: COMPLEX_CITADEL_LABELS,      title: "explorer_title", icon: "🏰",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i4: { pool: CLAUSE_POOL,      labels: CLAUSE_LABELS,      title: "explorer_title", icon: "🔗",
+  i4: { pool: RELATIVE_REFUGE_POOL,      labels: RELATIVE_REFUGE_LABELS,      title: "explorer_title", icon: "🔗",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i5: { pool: WORDBUILDER_POOL, labels: WORDBUILDER_LABELS, title: "explorer_title", icon: "🧩",
+  i5: { pool: PREPOSITION_PLAZA_POOL,    labels: PREPOSITION_PLAZA_LABELS,    title: "explorer_title", icon: "📍",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i6: { pool: VOCAB6_POOL,      labels: VOCAB6_LABELS,      title: "explorer_title", icon: "📚",
+  i6: { pool: PHRASAL_VERBS_VALLEY_POOL, labels: PHRASAL_VERBS_VALLEY_LABELS, title: "explorer_title", icon: "🌿",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i7: { pool: ACADEMIC_POOL,    labels: ACADEMIC_LABELS,    title: "explorer_title", icon: "🎓",
+  i7: { pool: ADVANCED_VOCABULARY_POOL,  labels: ADVANCED_VOCABULARY_LABELS,  title: "explorer_title", icon: "📚",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i8: { pool: PUNCT6_POOL,      labels: PUNCT6_LABELS,      title: "explorer_title", icon: "✏️",
+  i8: { pool: MIXED_GRAMMAR_POOL,        labels: MIXED_GRAMMAR_LABELS,        title: "explorer_title", icon: "🎯",
         mix: { easy: 2, medium: 2, hard: 1 } },
-  i9: { pool: RHETORIC_POOL,    labels: RHETORIC_LABELS,    title: "explorer_title", icon: "🗣️",
+  i9: { pool: BIGTEST6_POOL,             labels: BIGTEST6_LABELS,             title: "explorer_title", icon: "🏆",
         mix: { easy: 2, medium: 2, hard: 1 } },
 };
 
