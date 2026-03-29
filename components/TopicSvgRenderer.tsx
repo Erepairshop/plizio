@@ -4,13 +4,33 @@
 // Add new cases here when a new SvgConfig type is needed.
 
 import type { SvgConfig } from "@/lib/explorerPools/types";
+import * as BioSvgs from "@/app/astro-biologie/svg";
 
 interface Props {
   config: SvgConfig;
+  lang?: string;
 }
 
-export default function TopicSvgRenderer({ config }: Props) {
+export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
   switch (config.type) {
+
+    // ── Biology specific diagrams from the shared library ────────────
+    case "biologie-diagram": {
+      const { name, color, bg } = config;
+      const SvgComp = (BioSvgs as any)[name];
+      if (!SvgComp) return (
+        <svg width="100%" viewBox="0 0 240 140">
+          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
+        </svg>
+      );
+      return (
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+             style={{ backgroundColor: bg ?? "transparent" }}>
+          <SvgComp lang={lang} color={color} />
+        </div>
+      );
+    }
 
     // ── Row of colored circles with letters ──────────────────────────
     case "letter-circles": {

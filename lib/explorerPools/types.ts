@@ -87,6 +87,13 @@ export type SvgConfig =
       color: string;
       subtitle?: string;
     }
+  /** Biology-specific illustration from the SVG library */
+  | {
+      type: "biologie-diagram";
+      name: string; // matches export name in @/app/astro-biologie/svg
+      color?: string;
+      bg?: string;
+    }
   /** One large emoji with optional title — simple fallback */
   | {
       type: "simple-icon";
