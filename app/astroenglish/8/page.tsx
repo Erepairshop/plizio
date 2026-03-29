@@ -39,15 +39,7 @@ import ReadingCompExplorer from "@/app/astroenglish/games/ReadingCompExplorer";
 import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
-import VerbalK8Explorer from "@/app/astroenglish/games/k8/VerbalK8Explorer";
-import PhraseExplorer from "@/app/astroenglish/games/k8/PhraseExplorer";
-import VoiceMoodExplorer from "@/app/astroenglish/games/k8/VoiceMoodExplorer";
-import WritingExplorer from "@/app/astroenglish/games/k8/WritingExplorer";
-import LiteratureExplorer from "@/app/astroenglish/games/k8/LiteratureExplorer";
-import StyleExplorer from "@/app/astroenglish/games/k8/StyleExplorer";
-import RegisterExplorer from "@/app/astroenglish/games/k8/RegisterExplorer";
-import PunctuationK8Explorer from "@/app/astroenglish/games/k8/PunctuationK8Explorer";
-import EtymologyExplorer from "@/app/astroenglish/games/k8/EtymologyExplorer";
+import K8Explorer from "@/app/astroenglish/games/k8/K8Explorer";
 import { K8_ISLAND_SVGS } from "@/app/astroenglish/islands-k8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -130,15 +122,7 @@ type Screen =
   | "tense-explorer"
   | "memory-pair"
   | "pronunciation"
-  | "en8-verbal-explorer"
-  | "en8-phrase-explorer"
-  | "en8-voice-mood-explorer"
-  | "en8-writing-explorer"
-  | "en8-literature-explorer"
-  | "en8-style-explorer"
-  | "en8-register-explorer"
-  | "en8-punctuation-explorer"
-  | "en8-etymology-explorer"
+  | "english-k8-explore"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -844,7 +828,7 @@ export default function AstroEnglishK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en8-verbal-explorer", "en8-phrase-explorer", "en8-voice-mood-explorer", "en8-writing-explorer", "en8-literature-explorer", "en8-style-explorer", "en8-register-explorer", "en8-punctuation-explorer", "en8-etymology-explorer"].includes(mission.gameType);
+    const isExplorer = ["fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k8-explore"].includes(mission.gameType);
     if (isExplorer) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -1203,38 +1187,14 @@ export default function AstroEnglishK8Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK8(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
-        {screen === "en8-verbal-explorer" && (
-          <VerbalK8Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-phrase-explorer" && (
-          <PhraseExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-voice-mood-explorer" && (
-          <VoiceMoodExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-writing-explorer" && (
-          <WritingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-literature-explorer" && (
-          <LiteratureExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-style-explorer" && (
-          <StyleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-register-explorer" && (
-          <RegisterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-punctuation-explorer" && (
-          <PunctuationK8Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "en8-etymology-explorer" && (
-          <EtymologyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "english-k8-explore" && activeIsland && (
+          <K8Explorer island={activeIsland} grade={8} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "en8-verbal-explorer", "en8-phrase-explorer", "en8-voice-mood-explorer", "en8-writing-explorer", "en8-literature-explorer", "en8-style-explorer", "en8-register-explorer", "en8-punctuation-explorer", "en8-etymology-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k8-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

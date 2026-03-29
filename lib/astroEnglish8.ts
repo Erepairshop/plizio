@@ -40,7 +40,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🚢", color: "#E879F9", sortRange: [1, 20],
     topicKeys: ["verbals_g8", "participial_modifiers_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-verbal-explorer" as any,  icon: "🪐", label: { en: "Match Verbal Types",    hu: "Párosítsd az igeneev típusokat",      de: "Verbaltypen zuordnen",     ro: "Potrivește tipuri verbale"      } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Match Verbal Types",    hu: "Párosítsd az igeneev típusokat",      de: "Verbaltypen zuordnen",     ro: "Potrivește tipuri verbale"      } },
       { id: "m2", category: "build",     gameType: "sentence-builder" as any,  icon: "📝", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
@@ -52,7 +52,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🗺️", color: "#3B82F6", sortRange: [1, 20],
     topicKeys: ["absolute_phrases_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-phrase-explorer" as any,  icon: "🪐", label: { en: "Build with Phrases",    hu: "Építs abszolút szintagmával",   de: "Mit Phrasen bauen",     ro: "Construiți cu fraze"        } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Build with Phrases",    hu: "Építs abszolút szintagmával",   de: "Mit Phrasen bauen",     ro: "Construiți cu fraze"        } },
       { id: "m2", category: "build",     gameType: "fill-gap" as any,  icon: "✏️", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
@@ -64,7 +64,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🎭", color: "#10B981", sortRange: [1, 20],
     topicKeys: ["active_passive_g8", "subjunctive_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-voice-mood-explorer" as any,  icon: "🪐", label: { en: "Fill Voice/Mood",      hu: "Töltsd ki a hangot/módot",       de: "Stimme/Modus ausfüllen",      ro: "Completează diateza/mod"          } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Fill Voice/Mood",      hu: "Töltsd ki a hangot/módot",       de: "Stimme/Modus ausfüllen",      ro: "Completează diateza/mod"          } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🪨", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
@@ -76,7 +76,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "✍️", color: "#F59E0B", sortRange: [1, 20],
     topicKeys: ["argumentative_g8", "informational_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-writing-explorer" as any,  icon: "🪐", label: { en: "Build Argumentative",   hu: "Építs érvelő mondatokat",        de: "Argumentative bauen",    ro: "Construiți argumente"      } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Build Argumentative",   hu: "Építs érvelő mondatokat",        de: "Argumentative bauen",    ro: "Construiți argumente"      } },
       { id: "m2", category: "build",     gameType: "grammar-match" as any,  icon: "🔗", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
@@ -88,7 +88,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "📚", color: "#6366F1", sortRange: [1, 20],
     topicKeys: ["point_of_view_g8", "genres_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-literature-explorer" as any, icon: "🪐", label: { en: "Sort Point of View", hu: "Rendezd a nézőpont szerint",    de: "Perspektive sortieren",  ro: "Sortează perspectivă"      } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any, icon: "🪐", label: { en: "Sort Point of View", hu: "Rendezd a nézőpont szerint",    de: "Perspektive sortieren",  ro: "Sortează perspectivă"      } },
       { id: "m2", category: "build",     gameType: "word-sort" as any,  icon: "📊", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
@@ -100,7 +100,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🎨", color: "#FF2D78", sortRange: [1, 20],
     topicKeys: ["allusion_irony_g8", "theme_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-style-explorer" as any,  icon: "🪐", label: { en: "Match Literary Devices",  hu: "Párosítsd az irodalmi eszközöket",     de: "Literarische Mittel zuordnen", ro: "Potrivește dispozitive literare"      } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Match Literary Devices",  hu: "Párosítsd az irodalmi eszközöket",     de: "Literarische Mittel zuordnen", ro: "Potrivește dispozitive literare"      } },
       { id: "m2", category: "build",     gameType: "category-rush" as any, icon: "🏃", label: { en: "Gravity Sort",    hu: "Gravitációs rendezés", de: "Schwerkraft-Sortierung", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",  icon: "🪨", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
@@ -112,7 +112,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "📋", color: "#00D4FF", sortRange: [1, 20],
     topicKeys: ["formal_register_g8", "academic_vs_conv_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-register-explorer" as any,  icon: "🪐", label: { en: "Sort Formal/Conversational",  hu: "Rendezd: formális/társalgás",   de: "Formal/Umgangssprache sortieren",   ro: "Sortează: formal/conversație"     } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Sort Formal/Conversational",  hu: "Rendezd: formális/társalgás",   de: "Formal/Umgangssprache sortieren",   ro: "Sortează: formal/conversație"     } },
       { id: "m2", category: "build",     gameType: "spell-race" as any,  icon: "🏁", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
@@ -124,7 +124,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "✒️", color: "#FF6B6B", sortRange: [1, 20],
     topicKeys: ["ellipsis_g8", "dashes_g8", "commas_complex_g8"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-punctuation-explorer" as any, icon: "🪐", label: { en: "Fill Complex Punctuation", hu: "Töltsd ki az összetett jeleket",   de: "Komplexe Satzzeichen einfügen", ro: "Completează punctuație complexă" } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any, icon: "🪐", label: { en: "Fill Complex Punctuation", hu: "Töltsd ki az összetett jeleket",   de: "Komplexe Satzzeichen einfügen", ro: "Completează punctuație complexă" } },
       { id: "m2", category: "build",     gameType: "gravity-sort",  icon: "🌪️", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",    hu: "Fekete lyuk",       de: "Schwarzes Loch",  ro: "Gaură neagra"      } },
     ],
@@ -138,7 +138,7 @@ export const K8_ISLANDS: IslandDef[] = [
       "greek_latin_adv_g8", "figurative_adv_g8", "word_nuances_g8",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "en8-etymology-explorer" as any,  icon: "🪐", label: { en: "Match Greek/Latin Roots",     hu: "Párosítsd a görög/latin gyökereket",        de: "Griechisch/Lateinische Wurzeln zuordnen",      ro: "Potrivește rădăcini grecești/latine"        } },
+      { id: "m1", category: "explore",   gameType: "english-k8-explore" as any,  icon: "🪐", label: { en: "Match Greek/Latin Roots",     hu: "Párosítsd a görög/latin gyökereket",        de: "Griechisch/Lateinische Wurzeln zuordnen",      ro: "Potrivește rădăcini grecești/latine"        } },
       { id: "m2", category: "build",     gameType: "speed-round",  icon: "⚡", label: { en: "Star Match",     hu: "Csillag párosítás", de: "Stern-Match",     ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "star-match", icon: "⭐", label: { en: "Speed Round",    hu: "Villámkör",        de: "Blitzrunde",      ro: "Rundă rapidá"      } },
     ],
