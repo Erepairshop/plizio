@@ -339,6 +339,8 @@ interface Props {
   onClose?: () => void;
 }
 
+type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+
 // ─────────────────────────────────────────────────────────────────────────────
 // Helpers
 // ─────────────────────────────────────────────────────────────────────────────
@@ -354,10 +356,10 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Common UI labels (not content-specific)
 const UI_LABELS: Record<string, Record<string, string>> = {
-  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check", welcomeHi: "Hey", welcomeTopics: "Today we'll explore:", welcomeGo: "Let's go! →" },
-  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen", welcomeHi: "Hallo", welcomeTopics: "Heute lernen wir:", welcomeGo: "Los geht's! →" },
-  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés", welcomeHi: "Szia", welcomeTopics: "Ma ezeket fedezzük fel:", welcomeGo: "Rajt! →" },
-  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică", welcomeHi: "Salut", welcomeTopics: "Azi vom explora:", welcomeGo: "Să începem! →" },
+  en: { gotIt: "Got it! →", next: "Next", finish: "Finish", correct: "Correct! ✓", wrong: "Not quite!", orderInProgress: "Keep going!", orderDone: "Perfect! ✓", askWhy: "Why?", askAnything: "Ask anything...", listening: "Listening...", thinking: "Thinking...", aiError: "Couldn't get an answer. Try again!", whatDoYouThink: "What do you think?", funFact: "Fun fact", shareThought: "Share your thought...", letsFind: "Let's find out! →", goodThought: "Interesting thought!", tapToCount: "Tap each one to count!", counted: "counted", great: "Great!", thereAre: "There are", objects: "objects!", whichMore: "Which group has MORE?", leftHas: "Left has", rightHas: "Right has", isMore: "is more!", isEqual: "They are equal!", tapReveal: "Tap to see the answer", wellDone: "Well done!", typeAnswer: "Type your answer...", check: "Check", welcomeHi: "Hey", welcomeTopics: "Today we'll explore:", welcomeGo: "Let's go! →", simpler: "Simpler", example: "Example", similar: "Similar one" },
+  de: { gotIt: "Verstanden! →", next: "Weiter", finish: "Fertig", correct: "Richtig! ✓", wrong: "Nicht ganz!", orderInProgress: "Weiter so!", orderDone: "Perfekt! ✓", askWhy: "Warum?", askAnything: "Frag etwas...", listening: "Hört zu...", thinking: "Denkt nach...", aiError: "Keine Antwort möglich. Versuch nochmal!", whatDoYouThink: "Was denkst du?", funFact: "Wusstest du?", shareThought: "Teile deine Idee...", letsFind: "Lass uns herausfinden! →", goodThought: "Interessanter Gedanke!", tapToCount: "Tippe auf jedes, um zu zählen!", counted: "gezählt", great: "Super!", thereAre: "Es gibt", objects: "Stück!", whichMore: "Welche Gruppe hat MEHR?", leftHas: "Links hat", rightHas: "Rechts hat", isMore: "ist mehr!", isEqual: "Sie sind gleich!", tapReveal: "Tippe für die Antwort", wellDone: "Toll gemacht!", typeAnswer: "Antwort eingeben...", check: "Prüfen", welcomeHi: "Hallo", welcomeTopics: "Heute lernen wir:", welcomeGo: "Los geht's! →", simpler: "Einfacher", example: "Beispiel", similar: "Ähnlich" },
+  hu: { gotIt: "Értem! →", next: "Tovább", finish: "Kész", correct: "Helyes! ✓", wrong: "Nem egészen!", orderInProgress: "Folytasd!", orderDone: "Tökéletes! ✓", askWhy: "Miért?", askAnything: "Kérdezz bármit...", listening: "Hallgatom...", thinking: "Gondolkodom...", aiError: "Nem sikerült válaszolni. Próbáld újra!", whatDoYouThink: "Mit gondolsz?", funFact: "Tudtad?", shareThought: "Oszd meg a gondolatod...", letsFind: "Derítsük ki! →", goodThought: "Érdekes gondolat!", tapToCount: "Koppints mindegyikre a számoláshoz!", counted: "megszámolva", great: "Szuper!", thereAre: "Összesen", objects: "van!", whichMore: "Melyik csoportban van TÖBB?", leftHas: "Bal oldalon", rightHas: "Jobb oldalon", isMore: "a több!", isEqual: "Egyenlőek!", tapReveal: "Koppints a válaszhoz", wellDone: "Ügyes!", typeAnswer: "Írd be a válaszod...", check: "Ellenőrzés", welcomeHi: "Szia", welcomeTopics: "Ma ezeket fedezzük fel:", welcomeGo: "Rajt! →", simpler: "Egyszerűbben", example: "Példával", similar: "Hasonló" },
+  ro: { gotIt: "Înțeles! →", next: "Următorul", finish: "Gata", correct: "Corect! ✓", wrong: "Nu tocmai!", orderInProgress: "Continuă!", orderDone: "Perfect! ✓", askWhy: "De ce?", askAnything: "Întreabă orice...", listening: "Ascult...", thinking: "Mă gândesc...", aiError: "Nu am putut răspunde. Încearcă din nou!", whatDoYouThink: "Ce crezi?", funFact: "Știai că?", shareThought: "Împărtășește gândul tău...", letsFind: "Hai să aflăm! →", goodThought: "Gând interesant!", tapToCount: "Atinge fiecare pentru a număra!", counted: "numărate", great: "Super!", thereAre: "Sunt", objects: "obiecte!", whichMore: "Care grup are MAI MULTE?", leftHas: "Stânga are", rightHas: "Dreapta are", isMore: "este mai mult!", isEqual: "Sunt egale!", tapReveal: "Atinge pentru răspuns", wellDone: "Bravo!", typeAnswer: "Scrie răspunsul...", check: "Verifică", welcomeHi: "Salut", welcomeTopics: "Azi vom explora:", welcomeGo: "Să începem! →", simpler: "Mai simplu", example: "Exemplu", similar: "Una similară" },
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -377,6 +379,22 @@ function incrementPlayCount(id: string): void {
   try { localStorage.setItem(`explorer_plays_${id}`, String(getPlayCount(id) + 1)); } catch { /* */ }
 }
 
+function deriveSubject(explorerId?: string): AISubject {
+  const path = typeof window !== "undefined" ? window.location.pathname.toLowerCase() : "";
+  const source = `${explorerId || ""} ${path}`.toLowerCase();
+
+  if (source.includes("astroromana") || source.includes("romana_")) return "romana";
+  if (source.includes("astrodeutsch") || source.includes("deutsch_")) return "deutsch";
+  if (source.includes("astroenglish") || source.includes("english_")) return "english";
+  if (source.includes("astromagyar") || source.includes("magyar_")) return "magyar";
+  if (source.includes("astromath") || source.includes("math_")) return "math";
+  if (source.includes("astro-biologie") || source.includes("bio_")) return "biologie";
+  if (source.includes("astro-sachkunde") || source.includes("sachkunde_")) return "sachkunde";
+  if (source.includes("astro-physik") || source.includes("physik")) return "physik";
+
+  return "general";
+}
+
 function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.ro || def.labels.en || {};
@@ -384,6 +402,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
+  const aiSubject = useMemo(() => deriveSubject(explorerId), [explorerId]);
 
   // AI enhanced mode — activates on 2nd+ play
   const [aiEnhanced] = useState(() => explorerId ? getPlayCount(explorerId) >= 1 : false);
@@ -761,6 +780,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       lang: langCode,
       maxTokens: 100,
       grade,
+      subject: aiSubject,
+      mode: "think",
     });
     setAiLoading(false);
     if (result) {
@@ -769,7 +790,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setThinkFeedback(ui.goodThought);
     }
-  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.goodThought]);
+  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.goodThought, aiSubject]);
 
   // ── AI: Fun fact generation (enhanced mode) — 6s timeout ───────────────
   const loadFunFact = useCallback(async () => {
@@ -785,6 +806,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         lang: langCode,
         maxTokens: 100,
         grade,
+        subject: aiSubject,
+        mode: "fun-fact",
       });
       const result = await Promise.race([request, timeout]);
       setFunFactLoading(false);
@@ -792,7 +815,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } catch {
       setFunFactLoading(false);
     }
-  }, [aiEnhanced, funFactLoading, currentRound, currentTopic, isTopicMode, langCode, L, grade]);
+  }, [aiEnhanced, funFactLoading, currentRound, currentTopic, isTopicMode, langCode, L, grade, aiSubject]);
 
   // Load fun fact when entering info phase in enhanced mode
   useEffect(() => {
@@ -822,6 +845,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       topic: L(currentRound.infoTitle),
       lang: langCode,
       grade,
+      subject: aiSubject,
     });
     setAiLoading(false);
     if (result) {
@@ -830,7 +854,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setAiResponse(ui.aiError);
     }
-  }, [getCurrentQuestion, selected, aiLoading, currentRound, langCode, speak, L, ui.aiError]);
+  }, [getCurrentQuestion, selected, aiLoading, currentRound, langCode, speak, L, ui.aiError, grade, aiSubject]);
 
   const handleTopicAskWhy = useCallback(async () => {
     const topic = topics[topicIdx];
@@ -850,6 +874,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       topic: L(topic.infoTitle),
       lang: langCode,
       grade,
+      subject: aiSubject,
     });
     setAiLoading(false);
     if (result) {
@@ -858,7 +883,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setAiResponse(ui.aiError);
     }
-  }, [topics, topicIdx, topicQuizSelected, aiLoading, langCode, grade, speak, L, ui.aiError]);
+  }, [topics, topicIdx, topicQuizSelected, aiLoading, langCode, grade, speak, L, ui.aiError, aiSubject]);
 
   // ── AI: Free question (voice or text) ──────────────────────────────────
   const handleAskFree = useCallback(async (text: string) => {
@@ -872,6 +897,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       context: `Grade ${grade || "?"}: ${topicTitle} — ${topicText}`,
       lang: langCode,
       grade,
+      subject: aiSubject,
+      mode: "free",
     });
     setAiLoading(false);
     if (result) {
@@ -880,7 +907,81 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     } else {
       setAiResponse(ui.aiError);
     }
-  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.aiError]);
+  }, [aiLoading, currentRound, currentTopic, isTopicMode, langCode, speak, L, grade, ui.aiError, aiSubject]);
+
+  const handleExplainSimpler = useCallback(async () => {
+    const topicTitle = isTopicMode && currentTopic ? L(currentTopic.infoTitle) : L(currentRound.infoTitle);
+    const topicText = isTopicMode && currentTopic ? L(currentTopic.infoText) : L(currentRound.infoText);
+    if (!topicTitle || !topicText || aiLoading) return;
+
+    setAiLoading(true);
+    setAiResponse(null);
+    const result = await askAITutor({
+      question: `Explain this more simply: ${topicText}`,
+      context: `Grade ${grade || "?"}: ${topicTitle} — ${topicText}`,
+      lang: langCode,
+      grade,
+      subject: aiSubject,
+      mode: "simpler",
+      maxTokens: 120,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [currentRound, currentTopic, isTopicMode, aiLoading, langCode, grade, aiSubject, L, speak, ui.aiError]);
+
+  const handleGiveExample = useCallback(async () => {
+    const topicTitle = isTopicMode && currentTopic ? L(currentTopic.infoTitle) : L(currentRound.infoTitle);
+    const topicText = isTopicMode && currentTopic ? L(currentTopic.infoText) : L(currentRound.infoText);
+    if (!topicTitle || !topicText || aiLoading) return;
+
+    setAiLoading(true);
+    setAiResponse(null);
+    const result = await askAITutor({
+      question: `Give one short example for this topic: ${topicText}`,
+      context: `Grade ${grade || "?"}: ${topicTitle} — ${topicText}`,
+      lang: langCode,
+      grade,
+      subject: aiSubject,
+      mode: "example",
+      maxTokens: 120,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [currentRound, currentTopic, isTopicMode, aiLoading, langCode, grade, aiSubject, L, speak, ui.aiError]);
+
+  const handleAskSimilar = useCallback(async () => {
+    const topic = isTopicMode ? currentTopic : null;
+    if (!topic || !topicQuizSelected || aiLoading) return;
+
+    setAiLoading(true);
+    setAiResponse(null);
+    const result = await askAITutor({
+      question: `Make one similar practice question to this. Original question: ${L(topic.quiz.question)}. Correct answer: ${L(topic.quiz.answer)}.`,
+      context: `Grade ${grade || "?"}: ${L(topic.infoTitle)} — ${L(topic.infoText)}`,
+      lang: langCode,
+      grade,
+      subject: aiSubject,
+      mode: "similar",
+      maxTokens: 140,
+    });
+    setAiLoading(false);
+    if (result) {
+      setAiResponse(result);
+      speak(result);
+    } else {
+      setAiResponse(ui.aiError);
+    }
+  }, [currentTopic, topicQuizSelected, aiLoading, langCode, grade, aiSubject, L, speak, ui.aiError, isTopicMode]);
 
   // ── Voice recognition (STT) ────────────────────────────────────────────
   const toggleVoice = useCallback(() => {
@@ -1125,6 +1226,21 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       ))}
                     </div>
                   )}
+
+                  <div className="w-full flex flex-wrap gap-2 justify-center">
+                    <button
+                      onClick={handleExplainSimpler}
+                      className="px-3 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/15 text-white/75 hover:bg-white/15 transition-colors"
+                    >
+                      {ui.simpler}
+                    </button>
+                    <button
+                      onClick={handleGiveExample}
+                      className="px-3 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/15 text-white/75 hover:bg-white/15 transition-colors"
+                    >
+                      {ui.example}
+                    </button>
+                  </div>
 
                   {aiEnhanced && topicIdx === 0 && (funFact || funFactLoading) && (
                     <motion.div
@@ -1668,7 +1784,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       initial={{ opacity: 0, scale: 0.9 }}
                       animate={{ opacity: 1, scale: 1 }}
                       transition={{ delay: 0.2 }}
-                      className="flex items-center gap-2"
+                      className="flex items-center gap-2 flex-wrap justify-center"
                     >
                       <button
                         onClick={handleTopicAskWhy}
@@ -1676,6 +1792,12 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       >
                         <MessageCircleQuestion size={14} />
                         {ui.askWhy}
+                      </button>
+                      <button
+                        onClick={handleAskSimilar}
+                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-sky-500/20 border border-sky-500/30 text-sky-300 hover:bg-sky-500/30 transition-colors"
+                      >
+                        {ui.similar}
                       </button>
                       <button
                         onClick={() => {
