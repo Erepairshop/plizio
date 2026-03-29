@@ -57,19 +57,20 @@ export function getHatAttachmentSpec(hat: HatDef | null): AvatarAttachmentSpec |
     bunnyears: 'bunnyears',
   };
   const useCapTestModel = ['cap', 'snapback'].includes(hat.type);
+  const useTopHatModel = ['tophat', 'fedora'].includes(hat.type);
   return {
     id: hat.id,
     slot: 'hat',
     anchor: 'Head',
-    position: [0, 0, 0],
+    position: useTopHatModel ? [0, 0.18, 0] : [0, 0, 0],
     rotation: [0, 0, 0],
-    scale: 1,
+    scale: useTopHatModel ? 0.115 : 1,
     variant: variantMap[hat.type] || 'crown',
     color: hat.color,
     secondaryColor: hat.color,
     emissive: hat.emissive,
     emissiveIntensity: hat.emissiveIntensity,
-    assetPath: useCapTestModel ? '/models/tester_cap.glb' : undefined,
+    assetPath: useTopHatModel ? '/models/hat.glb' : useCapTestModel ? '/models/tester_cap.glb' : undefined,
   };
 }
 
