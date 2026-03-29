@@ -215,7 +215,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-human-body-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🔭",
         category: "explore",
         label: {
@@ -268,7 +268,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-mammals-birds-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "⭐",
         category: "explore",
         label: {
@@ -321,7 +321,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-reptiles-insects-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🕳️",
         category: "explore",
         label: {
@@ -374,7 +374,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-ecosystem-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🔭",
         category: "explore",
         label: {
@@ -427,7 +427,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-weather-climate-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🕳️",
         category: "explore",
         label: {
@@ -480,7 +480,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-earth-water-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "⭐",
         category: "explore",
         label: {
@@ -533,7 +533,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-energy-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🔭",
         category: "explore",
         label: {
@@ -586,7 +586,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-maps-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "🕳️",
         category: "explore",
         label: {
@@ -639,7 +639,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     missions: [
       {
         id: "m1",
-        gameType: "k4-grand-finale-explorer",
+        gameType: "sachkunde-k4-explore",
         icon: "⭐",
         category: "explore",
         label: {

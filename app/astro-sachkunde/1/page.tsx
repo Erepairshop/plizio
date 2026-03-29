@@ -25,15 +25,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import BodyExplorer from "@/app/astro-sachkunde/games/BodyExplorer";
-import AnimalExplorer from "@/app/astro-sachkunde/games/AnimalExplorer";
-import NatureExplorer from "@/app/astro-sachkunde/games/NatureExplorer";
-import WeatherExplorer from "@/app/astro-sachkunde/games/WeatherExplorer";
-import FamilyExplorer from "@/app/astro-sachkunde/games/FamilyExplorer";
-import TrafficExplorer from "@/app/astro-sachkunde/games/TrafficExplorer";
-import RecyclingExplorer from "@/app/astro-sachkunde/games/RecyclingExplorer";
-import NatureReviewExplorer from "@/app/astro-sachkunde/games/NatureReviewExplorer";
-import SachkundeReviewExplorer from "@/app/astro-sachkunde/games/SachkundeReviewExplorer";
+import K1Explorer from "@/app/astro-sachkunde/games/K1Explorer";
 import {
   SK_G1_ISLANDS, SK_G1_CHECKPOINT_MAP, SK_G1_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadSKG1Progress, saveSKG1Progress, type SachkundeG1Progress,
@@ -127,15 +119,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "body-explorer"
-  | "animal-explorer"
-  | "nature-explorer"
-  | "weather-explorer"
-  | "family-explorer"
-  | "traffic-explorer"
-  | "recycling-explorer"
-  | "nature-review-explorer"
-  | "sachkunde-review-explorer"
+  | "sachkunde-k1-explore"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -520,7 +504,7 @@ export default function AstroSachkundeG1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "sachkunde-k1-explore"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -834,20 +818,9 @@ export default function AstroSachkundeG1Page() {
     </div>
   );
 
-  // ─── EXPLORER SCREENS (self-contained, no questions needed) ─────────────────
-  const EXPLORER_SCREENS = ["body-explorer", "animal-explorer", "nature-explorer", "weather-explorer", "family-explorer", "traffic-explorer", "recycling-explorer", "nature-review-explorer", "sachkunde-review-explorer"];
-  if (EXPLORER_SCREENS.includes(screen)) return (
-    <>
-      {screen === "body-explorer" && <BodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "animal-explorer" && <AnimalExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "nature-explorer" && <NatureExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "weather-explorer" && <WeatherExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "family-explorer" && <FamilyExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "traffic-explorer" && <TrafficExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "recycling-explorer" && <RecyclingExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "nature-review-explorer" && <NatureReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-      {screen === "sachkunde-review-explorer" && <SachkundeReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone}/>}
-    </>
+  // ─── EXPLORER SCREENS (pool-based K1Explorer) ────────────────────────────────
+  if (screen === "sachkunde-k1-explore" && activeIsland) return (
+    <K1Explorer island={activeIsland} grade={1} color={bgColor} lang={lang} onDone={handleMissionDone}/>
   );
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz"].includes(screen)) return (

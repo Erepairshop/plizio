@@ -25,15 +25,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import HealthyBodyExplorer from "@/app/astro-sachkunde/games/k2/HealthyBodyExplorer";
-import HabitatExplorer from "@/app/astro-sachkunde/games/k2/HabitatsExplorer";
-import WildAnimalExplorer from "@/app/astro-sachkunde/games/k2/WildAnimalsExplorer";
-import PlantExplorer from "@/app/astro-sachkunde/games/k2/PlantsExplorer";
-import WaterExplorer from "@/app/astro-sachkunde/games/k2/WaterExplorer";
-import JobsExplorer from "@/app/astro-sachkunde/games/k2/JobsCommunityExplorer";
-import SafetyExplorer from "@/app/astro-sachkunde/games/k2/SafetyFirstAidExplorer";
-import ScienceExplorer from "@/app/astro-sachkunde/games/k2/ScienceExperimentsExplorer";
-import GrandReviewK2Explorer from "@/app/astro-sachkunde/games/k2/GrandReviewExplorer";
+import K2Explorer from "@/app/astro-sachkunde/games/K2Explorer";
 import {
   SK_G2_ISLANDS, CHECKPOINT_G2_MAP, CHECKPOINT_G2_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadSKG2Progress, saveSKG2Progress, type SachkundeProgress,
@@ -127,15 +119,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "k2-healthy-body-explorer"
-  | "k2-habitat-explorer"
-  | "k2-wild-animal-explorer"
-  | "k2-plant-explorer"
-  | "k2-water-explorer"
-  | "k2-jobs-explorer"
-  | "k2-safety-explorer"
-  | "k2-science-explorer"
-  | "k2-grand-review-explorer"
+  | "sachkunde-k2-explore"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -520,7 +504,7 @@ export default function AstroSachkundeG2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "sachkunde-k2-explore"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -830,39 +814,14 @@ export default function AstroSachkundeG2Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "k2-healthy-body-explorer" && (
-          <HealthyBodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-habitat-explorer" && (
-          <HabitatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-wild-animal-explorer" && (
-          <WildAnimalExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-plant-explorer" && (
-          <PlantExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-water-explorer" && (
-          <WaterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-jobs-explorer" && (
-          <JobsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-safety-explorer" && (
-          <SafetyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-science-explorer" && (
-          <ScienceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "k2-grand-review-explorer" && (
-          <GrandReviewK2Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "sachkunde-k2-explore" && activeIsland && (
+          <K2Explorer island={activeIsland} grade={2} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  const explorerScreens = ["k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", "sachkunde-k2-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

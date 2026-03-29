@@ -47,7 +47,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "👤", color: "#FF6B9D", sortRange: [1, 10],
     topicKeys: ["körperteile", "sinnesorgane", "gesundheit_hygiene"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "body-explorer",   icon: "🔍", label: { en: "Discover Body Parts",  hu: "Testrészek felfedezése",  de: "Körperteile entdecken",      ro: "Descoperă părți corpului"   } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Body Parts",  hu: "Testrészek felfedezése",  de: "Körperteile entdecken",      ro: "Descoperă părți corpului"   } },
       { id: "m2", category: "build",     gameType: "star-match",   icon: "⭐", label: { en: "Sense Quiz",          hu: "Érzékek kvíz",             de: "Sinnesquiz",                ro: "Quiz simțuri"              } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Health Challenge",   hu: "Egészség kihívás",         de: "Gesundheits-Herausforderung", ro: "Provocare sănătate"         } },
     ],
@@ -59,7 +59,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🐾", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["haustiere", "wilde_tiere", "tierlaute"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "animal-explorer",   icon: "🔍", label: { en: "Discover Animals",    hu: "Állatok felfedezése",      de: "Tiere entdecken",            ro: "Descoperă animale"         } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Animals",    hu: "Állatok felfedezése",      de: "Tiere entdecken",            ro: "Descoperă animale"         } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { en: "Animal Sorting",     hu: "Állatok rendezése",        de: "Tiere sortieren",            ro: "Sortează animale"          } },
       { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "⚡", label: { en: "Sound Challenge",    hu: "Hangok kihívása",          de: "Tierlaut-Herausforderung",   ro: "Provocare sunete"          } },
     ],
@@ -71,7 +71,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🌿", color: "#95E1D3", sortRange: [1, 10],
     topicKeys: ["jahreszeiten_natur", "bäume", "blueten_fruechte"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "nature-explorer",   icon: "🔍", label: { en: "Discover Nature",    hu: "Természet felfedezése",    de: "Natur entdecken",            ro: "Descoperă natură"          } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Nature",    hu: "Természet felfedezése",    de: "Natur entdecken",            ro: "Descoperă natură"          } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",   icon: "🚀", label: { en: "Tree & Flower Quiz", hu: "Fa és virág kvíz",         de: "Baum- & Blütenquiz",        ro: "Quiz arbore și floare"     } },
       { id: "m3", category: "challenge", gameType: "star-match",   icon: "⭐", label: { en: "Season Challenge",   hu: "Évszak kihívás",           de: "Jahreszeiten-Herausforderung", ro: "Provocare anotimpuri"       } },
     ],
@@ -83,7 +83,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "☁️", color: "#F7DC6F", sortRange: [1, 10],
     topicKeys: ["wetter", "jahreszeiten_detail", "monate_tage"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "weather-explorer", icon: "🔍", label: { en: "Weather Explorer",   hu: "Időjárás feltáró",         de: "Wetter-Erkunder",            ro: "Explorator vreme"          } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore", icon: "🔍", label: { en: "Weather Explorer",   hu: "Időjárás feltáró",         de: "Wetter-Erkunder",            ro: "Explorator vreme"          } },
       { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { en: "Calendar Quiz",      hu: "Naptár kvíz",              de: "Kalenderquiz",              ro: "Quiz calendar"             } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Weather Battle",    hu: "Időjárás csata",           de: "Wetter-Kampf",              ro: "Bătălie vreme"             } },
     ],
@@ -95,7 +95,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🏠", color: "#BB8FCE", sortRange: [1, 10],
     topicKeys: ["familie", "zuhause", "regeln_verhalten"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "family-explorer",   icon: "🔍", label: { en: "Family Explorer",    hu: "Család feltárása",         de: "Familie entdecken",          ro: "Descoperă familie"         } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Family Explorer",    hu: "Család feltárása",         de: "Familie entdecken",          ro: "Descoperă familie"         } },
       { id: "m2", category: "build",     gameType: "black-hole",   icon: "🕳️", label: { en: "Home Quiz",         hu: "Otthon kvíz",              de: "Zuhause-Quiz",              ro: "Quiz casă"                 } },
       { id: "m3", category: "challenge", gameType: "star-match",   icon: "⭐", label: { en: "Rules Challenge",   hu: "Szabályok kihívása",       de: "Regeln-Herausforderung",     ro: "Provocare reguli"          } },
     ],
@@ -107,7 +107,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🚦", color: "#F0B27A", sortRange: [1, 10],
     topicKeys: ["verkehrsmittel", "verkehrsregeln", "sicherheit"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "traffic-explorer",   icon: "🔍", label: { en: "Discover Transport",  hu: "Közlekedés felfedezése",   de: "Verkehrsmittel entdecken",   ro: "Descoperă transport"       } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Transport",  hu: "Közlekedés felfedezése",   de: "Verkehrsmittel entdecken",   ro: "Descoperă transport"       } },
       { id: "m2", category: "build",     gameType: "star-match",   icon: "⭐", label: { en: "Safety Quiz",       hu: "Biztonság kvíz",           de: "Sicherheitsquiz",           ro: "Quiz siguranță"            } },
       { id: "m3", category: "challenge", gameType: "black-hole",   icon: "🕳️", label: { en: "Rules Challenge",   hu: "Forgalmi szabályok",       de: "Verkehrsregeln-Herausforderung", ro: "Provocare reguli trafic"    } },
     ],
@@ -119,7 +119,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "♻️", color: "#76D7C4", sortRange: [1, 10],
     topicKeys: ["materialien", "mülltrennung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "recycling-explorer",   icon: "🔍", label: { en: "Material Explorer",   hu: "Anyagok feltárása",        de: "Materialien entdecken",      ro: "Descoperă materiale"       } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Material Explorer",   hu: "Anyagok feltárása",        de: "Materialien entdecken",      ro: "Descoperă materiale"       } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { en: "Waste Sorting",      hu: "Hulladékrendezés",         de: "Müll sortieren",            ro: "Sortare gunoi"             } },
       { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "⚡", label: { en: "Recycling Quest",   hu: "Újrahasznosítás küldetés",  de: "Recycling-Quest",           ro: "Misiune reciclare"         } },
     ],
@@ -131,7 +131,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🌳", color: "#85C1E9", sortRange: [1, 10],
     topicKeys: ["jahreszeiten_natur", "wilde_tiere", "bäume"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "nature-review-explorer",   icon: "🔍", label: { en: "Nature Quiz",       hu: "Természet kvíz",           de: "Natur-Quiz",                ro: "Quiz natură"               } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Nature Quiz",       hu: "Természet kvíz",           de: "Natur-Quiz",                ro: "Quiz natură"               } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",   icon: "🚀", label: { en: "Animal Sort",      hu: "Állatok rendezése",        de: "Tiere sortieren",            ro: "Sortare animale"           } },
       { id: "m3", category: "challenge", gameType: "black-hole",   icon: "🕳️", label: { en: "Forest Match",      hu: "Erdő párosítás",           de: "Wald-Paare",                ro: "Perechi pădure"            } },
     ],
@@ -143,7 +143,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     icon: "🏆", color: "#F1948A", sortRange: [1, 10],
     topicKeys: ["körperteile", "haustiere", "wetter", "verkehrsmittel"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "sachkunde-review-explorer",   icon: "🔍", label: { en: "Grand Quiz",        hu: "Nagy kvíz",                de: "Großes Quiz",               ro: "Quiz Mare"                 } },
+      { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Grand Quiz",        hu: "Nagy kvíz",                de: "Großes Quiz",               ro: "Quiz Mare"                 } },
       { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { en: "Master Challenge",  hu: "Mester kihívás",           de: "Meister-Herausforderung",   ro: "Provocare maestru"         } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Final Match",       hu: "Végső párosítás",          de: "Abschließendes Pairing",    ro: "Pereche finală"            } },
     ],

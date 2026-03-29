@@ -170,7 +170,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "phonics-island" | "letter-land" | "word-world" | "sentence-shore" | "reading-comp"
   | "grammar-gulf" | "story-summit" | "blend-bay" | "compound-cape" | "action-cove"
   | "picture-word" | "memory-pair"
-  | "deutsch-explore";
+  | "deutsch-explore"
+  | "sachkunde-k1-explore" | "sachkunde-k2-explore" | "sachkunde-k3-explore" | "sachkunde-k4-explore";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
