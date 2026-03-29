@@ -20,9 +20,7 @@ interface AIChatOptions {
   /** Grade/class level (1-8). Adjusts language complexity. */
   grade?: number;
   /** Tutor intent mode for tighter prompting */
-  mode?: "free" | "why" | "think" | "fun-fact" | "simpler" | "example" | "similar";
-  /** Subject area for subject-aware tutoring */
-  subject?: "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+  mode?: "free" | "why" | "think" | "fun-fact";
 }
 
 const LANG_NAMES: Record<string, string> = {
@@ -76,36 +74,9 @@ function buildModeInstruction(mode: AIChatOptions["mode"], langName: string): st
       return `Respond to the student's idea warmly, then guide them toward the topic in ${langName}. Keep it to 2 short sentences.`;
     case "fun-fact":
       return `Give one surprising but age-appropriate fun fact in ${langName}. Keep it to 1-2 short sentences.`;
-    case "simpler":
-      return `Explain the same idea more simply in ${langName}. Use very short sentences and one easy clue. Keep it to 2 short sentences.`;
-    case "example":
-      return `Give one short, clear example in ${langName} that helps the student understand the topic. Keep it to 1-2 short sentences.`;
-    case "similar":
-      return `Give one short similar practice question in ${langName}, then on a new sentence give the correct answer very briefly. Keep it to 2 short sentences total.`;
     case "free":
     default:
       return `Answer the student's question in ${langName} with a direct, age-appropriate explanation. Keep it to 2-3 short sentences.`;
-  }
-}
-
-function buildSubjectInstruction(subject: AIChatOptions["subject"], langName: string): string {
-  switch (subject) {
-    case "math":
-      return `This is a mathematics tutoring context. Focus on step-by-step reasoning, exactness, and checking the operation.`;
-    case "deutsch":
-    case "romana":
-    case "english":
-    case "magyar":
-      return `This is a language-learning context. Focus on grammar rules, meaning, usage, and short examples in ${langName}.`;
-    case "biologie":
-      return `This is a biology learning context. Explain terms clearly and concretely, with simple real-world examples.`;
-    case "sachkunde":
-      return `This is a Sachkunde/world-knowledge context. Keep explanations concrete, practical, and child-friendly.`;
-    case "physik":
-      return `This is a physics learning context. Focus on clear concepts, cause and effect, and simple examples.`;
-    case "general":
-    default:
-      return `Stay within the current school subject and explain only what helps with this task.`;
   }
 }
 
@@ -114,7 +85,7 @@ function buildSubjectInstruction(subject: AIChatOptions["subject"], langName: st
  * Returns the response text, or null on error.
  */
 export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
-  const { question, context, lang, maxTokens = 150, grade, mode = "free", subject = "general" } = opts;
+  const { question, context, lang, maxTokens = 150, grade, mode = "free" } = opts;
 
   const langName = LANG_NAMES[lang] || "English";
   const ageRange = gradeToAge(grade);
@@ -123,7 +94,6 @@ export async function askAITutor(opts: AIChatOptions): Promise<string | null> {
   const system = [
     `You are a friendly education tutor for children aged ${ageRange}.`,
     buildModeInstruction(mode, langName),
-    buildSubjectInstruction(subject, langName),
     complexity || `Use simple language appropriate for the student's age.`,
     `Learning context: ${context}`,
     `Do NOT use markdown formatting. Just plain text.`,
@@ -171,9 +141,8 @@ export async function askWhyCorrect(opts: {
   topic: string;
   lang: string;
   grade?: number;
-  subject?: AIChatOptions["subject"];
 }): Promise<string | null> {
-  const { question, wrongAnswer, correctAnswer, topic, lang, grade, subject } = opts;
+  const { question, wrongAnswer, correctAnswer, topic, lang, grade } = opts;
 
   const userMsg = lang === "hu"
     ? `A kérdés: "${question}". Én "${wrongAnswer}"-t válaszoltam, de a helyes válasz "${correctAnswer}". Miért?`
@@ -190,6 +159,5 @@ export async function askWhyCorrect(opts: {
     maxTokens: 140,
     grade,
     mode: "why",
-    subject,
   });
 }
