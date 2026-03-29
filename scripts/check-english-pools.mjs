@@ -186,8 +186,10 @@ for (const file of files) {
     const ln = i + 1;
     const trim = line.trim();
 
-    // Placeholder szövegek
-    if (trim.match(/"(TODO|FILL|PLACEHOLDER|TBD|xxx|YOUR_TEXT_HERE)"/i)) {
+    // Placeholder szövegek (csak uppercase vagy egyértelmű placeholder szavak)
+    // "fill" lowercase kizárva — valódi angol szó (pl. refill, fill in)
+    if (trim.match(/"(TODO|PLACEHOLDER|TBD|YOUR_TEXT_HERE)"/i) ||
+        trim.match(/"(FILL|XXX)"/)) {  // csak nagybetűs FILL/XXX a placeholder
       errors.push(`  L${ln}: [CONTENT] Placeholder szöveg maradt: ${trim.substring(0, 60)}`);
     }
 
