@@ -36,7 +36,7 @@ import { CapeMesh, TrailMesh } from '@/components/avatar/CapeMesh';
 
 type BoneMap = Partial<Record<AvatarAttachmentBone, Bone>>;
 
-function asVectorScale(scale: number | [number, number, number]) {
+function asVectorScale(scale: number | [number, number, number]): [number, number, number] {
   return Array.isArray(scale) ? scale : [scale, scale, scale];
 }
 
@@ -73,7 +73,7 @@ function BoneAttachment({
   const scale = asVectorScale(spec.scale);
   return (
     <primitive object={bone}>
-      <group position={spec.position} rotation={spec.rotation} scale={scale}>
+      <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
         {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
       </group>
     </primitive>
@@ -249,12 +249,12 @@ function DualBoneAccessory({
   return (
     <>
       <primitive object={leftBone}>
-        <group position={spec.position} rotation={spec.rotation} scale={scale}>
+        <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
           {children}
         </group>
       </primitive>
       <primitive object={rightBone}>
-        <group position={spec.position} rotation={spec.rotation} scale={scale}>
+        <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
           {children}
         </group>
       </primitive>
