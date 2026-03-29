@@ -310,5 +310,3 @@ export function generateMatchPairsBioK5(questions: MathQuestion[]): MatchPair[] 
     right: String(q.correctAnswer),
   }));
 }
-;
-}
