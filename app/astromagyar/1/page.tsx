@@ -599,6 +599,7 @@ export default function AstroMagyarO1Page() {
             island={activeIsland}
             grade={1}
             onDone={(s, t) => handleMissionSuccess(s, t)}
+            lang={lang}
           />
         </div>
       )}

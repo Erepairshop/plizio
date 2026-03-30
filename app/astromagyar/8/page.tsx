@@ -24,7 +24,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O8Explorer from "@/app/astromagyar/games/o8/O8Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -518,10 +518,11 @@ export default function AstroMagyar8Page() {
   // Lang explore
   if (screen === "lang-explore" && activeIsland) {
     return (
-      <LangExplore
+      <O8Explorer
         island={activeIsland}
         grade={8}
         onDone={(s, t) => handleMissionComplete(s, t)}
+        lang={lang}
       />
     );
   }

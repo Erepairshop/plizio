@@ -24,7 +24,7 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O6Explorer from "@/app/astromagyar/games/o6/O6Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -477,7 +477,7 @@ export default function O6Page() {
           {screen === "gravity-sort" && activeIsland && <GravitySort sortRange={activeIsland.sortRange} color={activeIsland.color} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "star-match" && <StarMatch questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={activeIsland?.color || "#FF2D78"} onDone={(s, t) => handleAfterMission(s)} />}
-          {screen === "lang-explore" && activeIsland && <LangExplore island={activeIsland} grade={6} onDone={(s, t) => handleAfterMission(s)} />}
+          {screen === "lang-explore" && activeIsland && <O6Explorer island={activeIsland} grade={6} lang={lang} onDone={(s, t) => handleAfterMission(s)} />}
         </div>
       )}
 

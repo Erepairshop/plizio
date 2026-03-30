@@ -568,6 +568,7 @@ export default function AstroMagyar2() {
             island={activeIsland}
             grade={2}
             onDone={(s, t) => handleMissionComplete(s, t)}
+            lang={lang}
           />
         </div>
       )}

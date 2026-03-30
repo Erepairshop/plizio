@@ -22,7 +22,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O5Explorer from "@/app/astromagyar/games/o5/O5Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -588,10 +588,11 @@ export default function AstroMagyarO5Page() {
       {screen === "lang-explore" && activeIsland && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
-          <LangExplore
+          <O5Explorer
             island={activeIsland}
             grade={5}
             onDone={(s, t) => handleMissionSuccess(s, t)}
+            lang={lang}
           />
         </div>
       )}

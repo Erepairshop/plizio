@@ -23,7 +23,7 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O4Explorer from "@/app/astromagyar/games/o4/O4Explorer";
 import {
   O4_ISLANDS, O4_CHECKPOINT_MAP, O4_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO4Progress, saveO4Progress, type O4Progress,
@@ -575,10 +575,11 @@ export default function AstroMagyarO4Page() {
       {screen === "lang-explore" && activeIsland && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
-          <LangExplore
+          <O4Explorer
             island={activeIsland}
             grade={4}
             onDone={(s, t) => handleMissionSuccess(s, t)}
+            lang={lang}
           />
         </div>
       )}

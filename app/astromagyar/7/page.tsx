@@ -22,7 +22,7 @@ import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
-import LangExplore from "@/app/astromagyar/games/LangExplore";
+import O7Explorer from "@/app/astromagyar/games/o7/O7Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -543,10 +543,11 @@ export default function AstroMagyarO7Page() {
       )}
 
       {screen === "lang-explore" && activeIsland && (
-        <LangExplore
+        <O7Explorer
           island={activeIsland}
           grade={7}
           onDone={(s, t) => handleMissionSuccess(s, t)}
+          lang={lang}
         />
       )}
 
