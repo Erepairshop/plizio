@@ -95,7 +95,7 @@ export const WALD_K3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "word-display", word: "Der Förster", color: "#4CAF50" },
-    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1", "t5_tk2", "t5_tk3", "t5_tk4", "t5_tk5", "t5_tk6", "t5_tk7", "t5_tk8"].filter(x => x !== ""), correctIndices: [1] },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1", "t5_tk2", "t5_tk3", "t5_tk4", "t5_tk5", "t5_tk6", "t5_tk7", "t5_tk8"].filter(x => x !== ""), correctIndices: [0, 3] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "medium"
   },
@@ -256,7 +256,7 @@ function mkStub(de: string, en: string, hu: string, ro: string, color: string): 
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "📚", color },
     hintKey: "t1_h1",
-    interactive: { type: "match-pairs", pairs: [{ left: "t1_l1", right: "t1_r1" }, { left: "t1_l2", right: "t1_r2" }, { left: "t1_l3", right: "t1_r3" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h1" },
+    interactive: { type: "match-pairs", pairs: [{ left: "t1_l1", right: "t1_r1" }, { left: "t1_l2", right: "t1_r2" }, { left: "t1_l3", right: "t1_r3" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
     difficulty: "medium" as const,
   }];

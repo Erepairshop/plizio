@@ -95,7 +95,7 @@ export const VERKEHR_K4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "word-display", word: "Der tote Winkel", color: "#4CAF50" },
-    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [0] },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [1] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "hard"
   },
@@ -390,7 +390,7 @@ export const POLITIK_K4_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Aufgabe", t3_bl2: "Privat", t3_i1: "Kanalbau", t3_i2: "Einkaufen", t3_i3: "Spielplatz", t3_i4: "Fernsehen",
     t4_title: "Steuern", t4_text: "Wie alles bezahlt wird.", t4_inst: "Löse die Aufgabe:", t4_h1: "Schau genau hin!", t4_h2: "Denk nach!", t4_q: "Woher bekommt die Gemeinde Geld?", t4_qa: "Steuern", t4_qb: "Geschenke", t4_qc: "Lotto", t4_qd: "Finden",
     t4_w1: "Wer", t4_w2: "arbeitet", t4_w3: "muss", t4_w4: "einen", t4_w5: "Teil", t4_w6: "abgeben.", t4_w7: "",
-    t4_l1: "Gewerbe", t4_r1: "Steuer", t4_l2: "Hund", t4_r2: "Steuer", t4_l3: "Grund", t4_r3: "Steuer",
+    t4_l1: "Gewerbesteuer", t4_r1: "Firma", t4_l2: "Hundesteuer", t4_r2: "Haustier", t4_l3: "Grundsteuer", t4_r3: "Haus",
     t4_sent: "Alle Bürger tragen zum ___ bei.", t4_qa2: "Gemeinwohl", t4_qb2: "falsch", t4_qc2: "nicht", t4_qd2: "vielleicht",
     t4_f1: "Mit", t4_f2: "Steuern", t4_f3: "finanziert", t4_f4: "der", t4_f5: "Staat", t4_f6: "wichtige", t4_f7: "Aufgaben.",
     t4_tk1: "Hundesteuer", t4_tk2: "muss", t4_tk3: "jeder", t4_tk4: "Hundebesitzer", t4_tk5: "jährlich", t4_tk6: "bezahlen.", t4_tk7: "", t4_tk8: "",
@@ -458,7 +458,7 @@ export const POLITIK_K4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "word-display", word: "Demokratie", color: "#4CAF50" },
-    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [1] },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [4] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "hard"
   },
@@ -821,7 +821,7 @@ export const EUROPA_K4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "word-display", word: "Der Euro", color: "#4CAF50" },
-    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [1] },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4","t5_tk5","t5_tk6","t5_tk7","t5_tk8"].filter(x=>x!==""), correctIndices: [2] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
     difficulty: "hard"
   },
