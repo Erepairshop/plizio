@@ -72,11 +72,16 @@ function BoneAttachment({
 }) {
   const groupRef = useRef<THREE.Group>(null);
   const worldPos = useMemo(() => new THREE.Vector3(), []);
+  const logged = useRef(false);
 
   useFrame(() => {
     if (!groupRef.current) return;
     bone.updateWorldMatrix(true, false);
     bone.getWorldPosition(worldPos);
+    if (!logged.current) {
+      console.log('[BoneAttachment] bone:', bone.name, 'worldPos:', worldPos.toArray(), 'spec.pos:', spec.position);
+      logged.current = true;
+    }
     groupRef.current.position.set(
       worldPos.x + spec.position[0],
       worldPos.y + spec.position[1],
