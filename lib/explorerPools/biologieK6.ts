@@ -824,7 +824,7 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🧹", color: "#64748B" },
     interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["Flimmerhärchen", "Schleim", "Staub", "reinigen"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "respiration" }
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
@@ -836,7 +836,7 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🚭", color: "#EF4444" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "Rauchen schädigt die ___.", choices: ["Lunge", "Nase", "Hand", "Frisur"], correctIndex: 0 },
-    quiz: { generate: "respiration" }
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
