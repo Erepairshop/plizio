@@ -10,6 +10,8 @@ export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
     t1_text: "Fische entnehmen den Sauerstoff direkt aus dem Wasser mithilfe ihrer Kiemen.",
     t1_h1: "Sauerstoff aus dem Wasser", t1_h2: "Kiemen statt Lungen",
     t1_inst: "Wo atmet der Fisch?",
+    t1_q: "Womit atmen Fische?",
+    t1_qa: "Mit Kiemen", t1_qb: "Mit Lungen", t1_qc: "Durch die Haut", t1_qd: "Durch Mundatmung",
     t2_title: "Schuppen & Schleim",
     t2_text: "Die Haut der Fische ist mit Schuppen bedeckt und von einer Schleimschicht überzogen, um den Widerstand im Wasser zu verringern.",
     t2_h1: "Glitschige Schicht", t2_h2: "Schutz vor Parasiten",
@@ -58,8 +60,8 @@ export const BIO_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "wirbeltiere_fish" }
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Fische atmen mit ihren ___.", choices: ["Kiemen", "Lungen", "Nase", "Haut"], correctIndex: 0 },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
@@ -113,7 +115,7 @@ export const BIO_I2_LABELS: Record<string, Record<string, string>> = {
     t1_title: "Der Schuppenpanzer",
     t1_text: "Reptilien haben eine trockene Haut mit Hornschuppen, die sie vor Austrocknung schützt.",
     t1_h1: "Trocken und fest", t1_h2: "Schutz an Land",
-    t1_inst: "Was ist typisch?",
+    t1_inst: "Reptilien-Haut!",
     t1_q: "Wie ist die Haut der Reptilien?",
     t1_qa: "Trocken und schuppig", t1_qb: "Feucht und nackt", t1_qc: "Rissig", t1_qd: "Schleimig",
     t2_title: "Vogelfedern",
@@ -159,8 +161,8 @@ export const BIO_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ReptileAnatomySvg", bg: "#FEF3C7" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "wirbeltiere_reptile" }
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Reptilien haben eine ___ Haut mit Hornschuppen.", choices: ["trockene", "feuchte", "glatte", "schleimige"], correctIndex: 0 },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",

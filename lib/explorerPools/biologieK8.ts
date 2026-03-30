@@ -25,7 +25,9 @@ export const BIO_K8_I1_LABELS: Record<string, Record<string, string>> = {
     t4_title: "Chromosomen",
     t4_text: "Chromosomen sind die Träger der Erbinformation und werden während der Zellteilung sichtbar.",
     t4_h1: "Verpackte DNA", t4_h2: "Transportform",
-    t4_inst: "Finde das Chromosom!",
+    t4_inst: "Paare die Begriffe!",
+    t4_q: "Wie viele Chromosomen hat eine menschliche Körperzelle?",
+    t4_qa: "46", t4_qb: "23", t4_qc: "92", t4_qd: "48",
 
     t5_title: "Replikation",
     t5_text: "Bei der DNA-Replikation wird die DNA identisch verdoppelt, eine Voraussetzung für die Zellteilung.",
@@ -71,8 +73,8 @@ export const BIO_K8_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "biologie-diagram", name: "MitosisSvg" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 46 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "dna_struktur" }
+    interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Chromosomen", right: "Verpackte DNA"}, {left: "46", right: "Mensch (diploid)"}, {left: "Mitose", right: "Sichtbar"}] },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",

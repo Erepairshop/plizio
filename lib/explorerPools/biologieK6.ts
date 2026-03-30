@@ -565,7 +565,7 @@ export const BIO_K6_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "BloodCellsSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Rote Zellen", right: "Sauerstoff"}, {left: "Weiße Zellen", right: "Abwehr"}, {left: "Plasma", right: "Flüssigkeit"}] },
     quiz: { generate: "blood_blood_components" }
   },
   {
@@ -589,7 +589,7 @@ export const BIO_K6_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "biologie-diagram", name: "HeartSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Das Herz schlägt in Ruhe ___ mal pro Minute.", choices: ["60–80 Mal", "10–20 Mal", "200 Mal", "500 Mal"], correctIndex: 0 },
     quiz: { generate: "blood_heart" }
   },
   {
@@ -700,13 +700,13 @@ export const BIO_K6_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🩺", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb"], answer: "t4_qa" }
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Der Blutdruck wird am ___ gemessen.", choices: ["Arm", "Bein", "Kopf", "Rücken"], correctIndex: 0 },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "➰", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Die ___ ist die größte Schlagader des Körpers.", choices: ["Aorta", "Vene", "Kapillare", "Lymphe"], correctIndex: 0 },
     quiz: { generate: "blood_circulation" }
   },
   {
@@ -916,7 +916,7 @@ export const BIO_K6_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "📈", color: "#F59E0B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Die Veränderungen in der Pubertät werden durch ___ gesteuert.", choices: ["Hormone", "Nahrung", "Sport", "Schlaf"], correctIndex: 0 },
     quiz: { generate: "pubertaet_hormones" }
   },
   {
@@ -934,7 +934,7 @@ export const BIO_K6_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🗓️", color: "#EC4899" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 28 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Der Menstruationszyklus dauert etwa ___ Tage.", choices: ["28 Tage", "7 Tage", "365 Tage", "90 Tage"], correctIndex: 0 },
     quiz: { generate: "pubertaet_female_repro" }
   },
   {
@@ -1057,7 +1057,7 @@ export const BIO_K6_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🫁", color: "#F87171" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Lunge", right: "Gasaustausch"}, {left: "Zwerchfell", right: "Atempumpe"}, {left: "CO2", right: "Ausatmen"}] },
     quiz: { generate: "lungs_respiration" }
   },
   {
