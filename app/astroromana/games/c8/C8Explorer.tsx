@@ -48,6 +48,7 @@ export default function C8Explorer({ island, grade: _grade, onDone, color = "#E8
     <DynamicExplorer
       pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
       count={5} explorerId={`romana_c8_${island.id}`}
+      subject="romana"
       color={color} lang={lang} grade={8}
       onDone={onDone}
     />

@@ -45,6 +45,7 @@ export default function BioK7Explorer({ islandId, color, lang, onDone, onClose }
       title={title}
       icon={icon}
       explorerId={`bio_k7_${islandId}`}
+      subject="biologie"
       color={color}
       lang={lang}
       grade={7}

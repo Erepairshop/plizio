@@ -333,6 +333,8 @@ interface Props {
   lang?: string;
   /** Unique ID for tracking play count (e.g. "bio_k5_fish"). If provided, enables AI enhanced mode on 2nd+ play. */
   explorerId?: string;
+  /** Optional explicit subject override for AI tutor behavior. */
+  subject?: AISubject;
   /** Grade level (1-8). Adjusts AI language complexity for the student's age. */
   grade?: number;
   onDone?: (score: number, total: number) => void;
@@ -395,14 +397,14 @@ function deriveSubject(explorerId?: string): AISubject {
   return "general";
 }
 
-function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, grade }: Props) {
+function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", explorerId, subject, grade }: Props) {
   const langCode = lang || "en";
   const t = def.labels[langCode] || def.labels.ro || def.labels.en || {};
   const tFallback = def.labels.ro || def.labels.en || def.labels.de || {};
   const ui = UI_LABELS[langCode] || UI_LABELS.en;
   const rounds = def.rounds;
   const totalRounds = rounds.length;
-  const aiSubject = useMemo(() => deriveSubject(explorerId), [explorerId]);
+  const aiSubject = useMemo(() => subject || deriveSubject(explorerId), [explorerId, subject]);
 
   // AI enhanced mode — activates on 2nd+ play
   const [aiEnhanced] = useState(() => explorerId ? getPlayCount(explorerId) >= 1 : false);

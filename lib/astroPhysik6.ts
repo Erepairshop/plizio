@@ -47,7 +47,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "⚙️", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["lever", "pulley", "inclined_plane"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-machines-explorer",      icon: "🔭", label: { en: "Discover Machines",    hu: "Gépek felfedezése",       de: "Maschinen entdecken",      ro: "Descoperă mașini"         } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Machines",    hu: "Gépek felfedezése",       de: "Maschinen entdecken",      ro: "Descoperă mașini"         } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Machines Match",       hu: "Gépek párosítása",        de: "Maschinen-Paare",          ro: "Perechi mașini"           } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Machines Challenge",   hu: "Gépek kihívása",          de: "Maschinen-Herausforderung",ro: "Provocare mașini"         } },
     ],
@@ -59,7 +59,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "🔩", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["wheel_axle", "screw"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-wheel-explorer",        icon: "🔭", label: { en: "Discover Wheel",       hu: "Kerék felfedezése",       de: "Rad entdecken",            ro: "Descoperă roată"          } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Wheel",       hu: "Kerék felfedezése",       de: "Rad entdecken",            ro: "Descoperă roată"          } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Wheel Sort",          hu: "Kerék rendezése",         de: "Rad sortieren",            ro: "Sortează roată"           } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Wheel Quiz",          hu: "Kerék kvíz",              de: "Radquiz",                  ro: "Quiz roată"               } },
     ],
@@ -71,7 +71,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "💨", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["pressure_basics", "liquid_pressure", "atmospheric_pressure"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-pressure-explorer",     icon: "🔭", label: { en: "Discover Pressure",    hu: "Nyomás felfedezése",      de: "Druck entdecken",          ro: "Descoperă presiune"       } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Pressure",    hu: "Nyomás felfedezése",      de: "Druck entdecken",          ro: "Descoperă presiune"       } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Pressure Quiz",       hu: "Nyomás kvíz",             de: "Druckquiz",                ro: "Quiz presiune"            } },
       { id: "m3", category: "challenge", gameType: "star-match",                 icon: "⭐", label: { en: "Pressure Match",      hu: "Nyomás párosítása",       de: "Druck-Paare",              ro: "Perechi presiune"         } },
     ],
@@ -83,7 +83,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "🚢", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["hydraulics", "buoyancy"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-hydraulics-explorer",   icon: "🔭", label: { en: "Discover Hydraulics",  hu: "Hidraulika felfedezése",  de: "Hydraulik entdecken",      ro: "Descoperă hidraulică"     } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Hydraulics",  hu: "Hidraulika felfedezése",  de: "Hydraulik entdecken",      ro: "Descoperă hidraulică"     } },
       { id: "m2", category: "build",     gameType: "black-hole",                 icon: "🕳️", label: { en: "Hydraulics Quiz",    hu: "Hidraulika kvíz",         de: "Hydraulikquiz",            ro: "Quiz hidraulică"          } },
       { id: "m3", category: "challenge", gameType: "star-match",                 icon: "⭐", label: { en: "Buoyancy Match",      hu: "Felhajtóerő párosítása",  de: "Auftrieb-Paare",           ro: "Perechi flotabilitate"    } },
     ],
@@ -95,7 +95,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "🔌", color: "#8B5CF6", sortRange: [1, 10],
     topicKeys: ["series_circuits", "parallel_circuits"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-circuits-explorer",     icon: "🔭", label: { en: "Discover Circuits",    hu: "Áramkörök felfedezése",   de: "Stromkreise entdecken",    ro: "Descoperă circuite"       } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Circuits",    hu: "Áramkörök felfedezése",   de: "Stromkreise entdecken",    ro: "Descoperă circuite"       } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Circuits Sort",       hu: "Áramkörök rendezése",     de: "Stromkreise sortieren",    ro: "Sortează circuite"        } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Circuits Quiz",       hu: "Áramkörök kvíz",          de: "Stromkreisquiz",           ro: "Quiz circuite"            } },
     ],
@@ -107,7 +107,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "⚡", color: "#FF6B35", sortRange: [1, 10],
     topicKeys: ["current_voltage", "resistance", "electrical_safety"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-current-explorer",      icon: "🔭", label: { en: "Discover Current",     hu: "Áram felfedezése",        de: "Strom entdecken",          ro: "Descoperă curent"         } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Current",     hu: "Áram felfedezése",        de: "Strom entdecken",          ro: "Descoperă curent"         } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Current Match",       hu: "Áram párosítása",         de: "Strom-Paare",              ro: "Perechi curent"           } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Safety Challenge",    hu: "Biztonság kihívása",      de: "Sicherheits-Herausforderung",ro: "Provocare siguranță"      } },
     ],
@@ -119,7 +119,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "⚖️", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["density_basics", "floating_sinking", "density_calculation", "archimedes"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-density-explorer",      icon: "🔭", label: { en: "Discover Density",     hu: "Sűrűség felfedezése",     de: "Dichte entdecken",         ro: "Descoperă densitate"      } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Density",     hu: "Sűrűség felfedezése",     de: "Dichte entdecken",         ro: "Descoperă densitate"      } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Density Sort",        hu: "Sűrűség rendezése",       de: "Dichte sortieren",         ro: "Sortează densitate"       } },
       { id: "m3", category: "challenge", gameType: "star-match",                 icon: "⭐", label: { en: "Archimedes Match",    hu: "Arkhimédész párosítása",  de: "Archimedes-Paare",         ro: "Perechi Arhimede"         } },
     ],
@@ -131,7 +131,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "🏭", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["energy_chains", "efficiency", "power_plants", "renewable_energy", "fossil_fuels"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-energytransfer-explorer", icon: "🔭", label: { en: "Discover Energy Transfer", hu: "Energiaátvitel felfedezése", de: "Energieübertragung entdecken", ro: "Descoperă transfer energie" } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Energy Transfer", hu: "Energiaátvitel felfedezése", de: "Energieübertragung entdecken", ro: "Descoperă transfer energie" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Energy Transfer Quiz", hu: "Energiaátvitel kvíz",       de: "Energieübertragungsquiz",  ro: "Quiz transfer energie"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Efficiency Challenge", hu: "Hatékonyság kihívása",     de: "Effizienz-Herausforderung", ro: "Provocare eficiență"     } },
     ],
@@ -143,7 +143,7 @@ export const PHYSIK_K6_ISLANDS: IslandDef[] = [
     icon: "🌊", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["wave_properties", "sound_properties", "ultrasound"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk6-waves-explorer",        icon: "🔭", label: { en: "Discover Waves",       hu: "Hullámok felfedezése",    de: "Wellen entdecken",         ro: "Descoperă unde"           } },
+      { id: "m1", category: "explore",   gameType: "pk6-explorer",               icon: "🔭", label: { en: "Discover Waves",       hu: "Hullámok felfedezése",    de: "Wellen entdecken",         ro: "Descoperă unde"           } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Wave Match",          hu: "Hullámok párosítása",     de: "Wellen-Paare",             ro: "Perechi unde"             } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",               icon: "🌪️", label: { en: "Final Sort",         hu: "Végső rendezés",          de: "Abschlusssortierung",      ro: "Sortare finală"           } },
     ],

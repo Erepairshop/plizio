@@ -45,6 +45,7 @@ export default function K1Explorer({ island, grade, onDone, color = "#4ECDC4", l
       count={5}
       mix={{ easy: 2, medium: 2, hard: 1 }}
       explorerId={`sachkunde_k1_${island.id}`}
+      subject="sachkunde"
       color={color}
       lang={lang}
       grade={grade}

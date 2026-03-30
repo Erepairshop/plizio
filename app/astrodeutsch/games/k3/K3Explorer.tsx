@@ -56,6 +56,7 @@ export default function K3Explorer({ island, grade, onDone, color = "#10B981", l
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5} mix={cfg.mix}
         explorerId={`deutsch_k3_${island.id}`}
+        subject="deutsch"
         color={color} lang={lang} grade={3}
         onDone={onDone}
       />

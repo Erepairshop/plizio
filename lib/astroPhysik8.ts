@@ -47,7 +47,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "⚡", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["ohm_law", "resistance_calc"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-ohm-explorer",        icon: "🔭", label: { en: "Discover Ohm's Law",  hu: "Ohm-törvény felfedezése", de: "Ohmsches Gesetz entdecken",   ro: "Descoperă legea lui Ohm"    } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Ohm's Law",  hu: "Ohm-törvény felfedezése", de: "Ohmsches Gesetz entdecken",   ro: "Descoperă legea lui Ohm"    } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Ohm Match",            hu: "Ohm párosítása",          de: "Ohm-Paare",                   ro: "Perechi Ohm"                } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Resistance Challenge", hu: "Ellenállás kihívása",      de: "Widerstands-Herausforderung", ro: "Provocare rezistență"       } },
     ],
@@ -59,7 +59,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "💡", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["electric_power", "electric_energy"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-power-explorer",      icon: "🔭", label: { en: "Discover Power",       hu: "Teljesítmény felfedezése", de: "Leistung entdecken",         ro: "Descoperă putere"           } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Power",       hu: "Teljesítmény felfedezése", de: "Leistung entdecken",         ro: "Descoperă putere"           } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Power Sort",          hu: "Teljesítmény rendezése",   de: "Leistung sortieren",        ro: "Sortează putere"            } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",              icon: "🚀", label: { en: "Energy Quiz",         hu: "Energia kvíz",            de: "Energiequiz",               ro: "Quiz energie"               } },
     ],
@@ -71,7 +71,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "🔬", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["semiconductors"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-semiconductor-explorer", icon: "🔭", label: { en: "Discover Semiconductors", hu: "Félvezetők felfedezése",   de: "Halbleiter entdecken",      ro: "Descoperă semiconductori"  } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Semiconductors", hu: "Félvezetők felfedezése",   de: "Halbleiter entdecken",      ro: "Descoperă semiconductori"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",              icon: "🚀", label: { en: "Semiconductor Quiz",   hu: "Félvezeték kvíz",         de: "Halbleiter-Quiz",           ro: "Quiz semiconductori"        } },
       { id: "m3", category: "challenge", gameType: "star-match",              icon: "⭐", label: { en: "Diode Match",         hu: "Dióda párosítása",        de: "Dioden-Paare",              ro: "Perechi diodă"              } },
     ],
@@ -83,7 +83,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "🧲", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["electromagnets", "electromagnetic_induction"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-electromagnetic-explorer", icon: "🔭", label: { en: "Discover EM",         hu: "EM felfedezése",          de: "EM entdecken",              ro: "Descoperă EM"               } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover EM",         hu: "EM felfedezése",          de: "EM entdecken",              ro: "Descoperă EM"               } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "EM Match",            hu: "EM párosítása",           de: "EM-Paare",                  ro: "Perechi EM"                 } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Induction Challenge", hu: "Indukció kihívása",        de: "Induktions-Herausforderung", ro: "Provocare inducție"         } },
     ],
@@ -95,7 +95,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "⚙️", color: "#8B5CF6", sortRange: [1, 10],
     topicKeys: ["generators", "transformers", "electric_motors"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-generators-explorer",  icon: "🔭", label: { en: "Discover Machines",   hu: "Gépek felfedezése",       de: "Maschinen entdecken",       ro: "Descoperă mașini"           } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Machines",   hu: "Gépek felfedezése",       de: "Maschinen entdecken",       ro: "Descoperă mașini"           } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Power Devices Sort", hu: "Eszközök rendezése",       de: "Geräte sortieren",          ro: "Sortează dispozitive"       } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",              icon: "🚀", label: { en: "Transformer Quiz",   hu: "Transzformátor kvíz",     de: "Transformator-Quiz",        ro: "Quiz transformator"         } },
     ],
@@ -107,7 +107,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "☢️", color: "#FF6B35", sortRange: [1, 10],
     topicKeys: ["atomic_structure", "radioactivity", "half_life"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-atomic-explorer",     icon: "🔭", label: { en: "Discover Atoms",      hu: "Atomok felfedezése",      de: "Atome entdecken",           ro: "Descoperă atomi"            } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Atoms",      hu: "Atomok felfedezése",      de: "Atome entdecken",           ro: "Descoperă atomi"            } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Particle Match",     hu: "Részecskék párosítása",    de: "Teilchen-Paare",            ro: "Perechi particule"          } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Decay Challenge",     hu: "Bomlás kihívása",         de: "Zerfall-Herausforderung",   ro: "Provocare dezintegrare"    } },
     ],
@@ -119,7 +119,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "🏭", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["nuclear_energy", "nuclear_power"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-nuclear-explorer",    icon: "🔭", label: { en: "Discover Nuclear",    hu: "Atommag felfedezése",     de: "Kern entdecken",            ro: "Descoperă nuclear"          } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Nuclear",    hu: "Atommag felfedezése",     de: "Kern entdecken",            ro: "Descoperă nuclear"          } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Fission Sort",       hu: "Hasadás rendezése",       de: "Spaltung sortieren",        ro: "Sortează fisiune"           } },
       { id: "m3", category: "challenge", gameType: "star-match",              icon: "⭐", label: { en: "Nuclear Match",      hu: "Atommag párosítása",      de: "Kern-Paare",                ro: "Perechi nucleare"           } },
     ],
@@ -131,7 +131,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "🌌", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["special_relativity", "photoelectric_effect", "wave_particle", "quantum_basics"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-modern-explorer",     icon: "🔭", label: { en: "Discover Modern",     hu: "Modern felfedezése",      de: "Moderne entdecken",         ro: "Descoperă modernă"          } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Modern",     hu: "Modern felfedezése",      de: "Moderne entdecken",         ro: "Descoperă modernă"          } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",              icon: "🚀", label: { en: "Quantum Quiz",        hu: "Kvantum kvíz",            de: "Quanten-Quiz",              ro: "Quiz cuantic"               } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Relativity Challenge", hu: "Relativitás kihívása",     de: "Relativitäts-Herausforderung", ro: "Provocare relativitate"     } },
     ],
@@ -143,7 +143,7 @@ export const PHYSIK_K8_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["renewable_sources", "solar_energy", "wind_energy", "energy_efficiency", "electromagnetic_waves"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk8-environment-explorer", icon: "🔭", label: { en: "Discover Renewable",   hu: "Megújuló felfedezése",     de: "Erneuerbar entdecken",      ro: "Descoperă regenerabile"     } },
+      { id: "m1", category: "explore",   gameType: "pk8-explorer",            icon: "🔭", label: { en: "Discover Renewable",   hu: "Megújuló felfedezése",     de: "Erneuerbar entdecken",      ro: "Descoperă regenerabile"     } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Energy Match",        hu: "Energia párosítása",      de: "Energie-Paare",             ro: "Perechi energie"            } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",            icon: "🌪️", label: { en: "Final Sort",         hu: "Végső rendezés",          de: "Abschlusssortierung",       ro: "Sortare finală"             } },
     ],

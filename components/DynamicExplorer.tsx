@@ -23,6 +23,8 @@ import { K7_GENERATOR_MAP } from "@/lib/physikCurriculum7";
 import { K8_GENERATOR_MAP } from "@/lib/physikCurriculum8";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
+type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+
 const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_SEED_ONLY_KEYS = new Set([
@@ -79,6 +81,8 @@ interface Props {
   mix?: { easy: number; medium: number; hard: number };
   /** Unique ID for progress tracking */
   explorerId: string;
+  /** Explicit AI tutor subject override */
+  subject?: ExplorerSubject;
   /** Accent color */
   color?: string;
   /** Language code */
@@ -132,6 +136,7 @@ export default function DynamicExplorer({
   count = 5,
   mix,
   explorerId,
+  subject,
   color = "#4ECDC4",
   lang = "de",
   grade = 1,
@@ -182,6 +187,7 @@ export default function DynamicExplorer({
       def={def}
       grade={grade}
       explorerId={explorerId}
+      subject={subject}
       color={color}
       lang={lang}
       onDone={onDone}

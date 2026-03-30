@@ -47,7 +47,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🏎️", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["speed_velocity", "acceleration"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-speed-explorer",         icon: "🔭", label: { en: "Discover Speed",       hu: "Sebesség felfedezése",      de: "Geschwindigkeit entdecken", ro: "Descoperă viteză"        } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Speed",       hu: "Sebesség felfedezése",      de: "Geschwindigkeit entdecken", ro: "Descoperă viteză"        } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Speed Match",          hu: "Sebesség párosítása",      de: "Geschwindigkeits-Paare",    ro: "Perechi viteză"          } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Speed Challenge",     hu: "Sebesség kihívása",        de: "Geschwindigkeits-Challenge", ro: "Provocare viteză"        } },
     ],
@@ -59,7 +59,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🍎", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["newton_first", "newton_second", "newton_third"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-newton-explorer",        icon: "🔭", label: { en: "Discover Newton",       hu: "Newton törvényei",         de: "Newton entdecken",         ro: "Descoperă Newton"         } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Newton",       hu: "Newton törvényei",         de: "Newton entdecken",         ro: "Descoperă Newton"         } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Forces Sort",         hu: "Erők rendezése",           de: "Kräfte sortieren",         ro: "Sortează forțe"          } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Newton Quiz",         hu: "Newton kvíz",              de: "Newton-Quiz",              ro: "Quiz Newton"             } },
     ],
@@ -71,7 +71,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "💪", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["work", "power"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-work-explorer",          icon: "🔭", label: { en: "Discover Work",        hu: "Munka felfedezése",        de: "Arbeit entdecken",         ro: "Descoperă lucru"         } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Work",        hu: "Munka felfedezése",        de: "Arbeit entdecken",         ro: "Descoperă lucru"         } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Work Quiz",           hu: "Munka kvíz",               de: "Arbeitsquiz",              ro: "Quiz lucru"              } },
       { id: "m3", category: "challenge", gameType: "star-match",                 icon: "⭐", label: { en: "Power Match",         hu: "Teljesítmény párosítása",  de: "Leistungs-Paare",          ro: "Perechi putere"          } },
     ],
@@ -83,7 +83,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🔋", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["kinetic_energy_calc", "potential_energy_calc", "mechanical_advantage"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-energycalc-explorer",   icon: "🔭", label: { en: "Discover Energy Calc", hu: "Energiaszámítás felfedezése", de: "Energieberechnung entdecken", ro: "Descoperă calcul energie" } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Energy Calc", hu: "Energiaszámítás felfedezése", de: "Energieberechnung entdecken", ro: "Descoperă calcul energie" } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Energy Match",        hu: "Energia párosítása",       de: "Energie-Paare",            ro: "Perechi energie"         } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Energy Challenge",    hu: "Energia kihívása",         de: "Energie-Challenge",        ro: "Provocare energie"        } },
     ],
@@ -95,7 +95,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🔍", color: "#8B5CF6", sortRange: [1, 10],
     topicKeys: ["lenses_convex", "lenses_concave", "image_formation"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-lenses-explorer",        icon: "🔭", label: { en: "Discover Lenses",      hu: "Lencsék felfedezése",      de: "Linsen entdecken",         ro: "Descoperă lentile"       } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Lenses",      hu: "Lencsék felfedezése",      de: "Linsen entdecken",         ro: "Descoperă lentile"       } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Optics Sort",         hu: "Optika rendezése",         de: "Optik sortieren",          ro: "Sortează optică"         } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Lenses Quiz",        hu: "Lencsék kvíz",             de: "Linsen-Quiz",              ro: "Quiz lentile"            } },
     ],
@@ -107,7 +107,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "👁️", color: "#FF6B35", sortRange: [1, 10],
     topicKeys: ["eye_optics", "optical_instruments"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-eye-explorer",           icon: "🔭", label: { en: "Discover Eye",        hu: "Szem felfedezése",         de: "Auge entdecken",           ro: "Descoperă ochi"          } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Eye",        hu: "Szem felfedezése",         de: "Auge entdecken",           ro: "Descoperă ochi"          } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Instrument Match",    hu: "Eszköz párosítása",        de: "Instrument-Paare",         ro: "Perechi instrument"      } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Eye Challenge",      hu: "Szem kihívása",            de: "Augen-Challenge",          ro: "Provocare ochi"          } },
     ],
@@ -119,7 +119,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🌡️", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["thermal_expansion", "specific_heat", "phase_changes", "heat_engines"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-thermo-explorer",        icon: "🔭", label: { en: "Discover Thermo",      hu: "Termodinamika felfedezése", de: "Thermodynamik entdecken",  ro: "Descoperă termodynamică" } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Thermo",      hu: "Termodinamika felfedezése", de: "Thermodynamik entdecken",  ro: "Descoperă termodynamică" } },
       { id: "m2", category: "build",     gameType: "gravity-sort",               icon: "🌪️", label: { en: "Heat Sort",          hu: "Hő rendezése",             de: "Wärme sortieren",          ro: "Sortează căldură"        } },
       { id: "m3", category: "challenge", gameType: "star-match",                 icon: "⭐", label: { en: "Thermo Match",       hu: "Termodinamika párosítása", de: "Thermodynamik-Paare",      ro: "Perechi termodynamică"   } },
     ],
@@ -131,7 +131,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🌊", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["wave_equation", "electromagnetic_spectrum", "infrared_uv", "wave_interference"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-waves-explorer",         icon: "🔭", label: { en: "Discover Waves",       hu: "Hullámok felfedezése",     de: "Wellen entdecken",         ro: "Descoperă unde"          } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Waves",       hu: "Hullámok felfedezése",     de: "Wellen entdecken",         ro: "Descoperă unde"          } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",                 icon: "🚀", label: { en: "Wave Quiz",          hu: "Hullám kvíz",              de: "Wellen-Quiz",              ro: "Quiz undă"               } },
       { id: "m3", category: "challenge", gameType: "black-hole",                 icon: "🕳️", label: { en: "Spectrum Challenge",  hu: "Spektrum kihívása",        de: "Spektrum-Challenge",       ro: "Provocare spectru"       } },
     ],
@@ -143,7 +143,7 @@ export const PHYSIK_K7_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["gravity_universal", "solar_system", "orbits", "seasons_tides", "space_exploration"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk7-space-explorer",         icon: "🔭", label: { en: "Discover Space",       hu: "Űr felfedezése",           de: "Weltall entdecken",        ro: "Descoperă spațiu"        } },
+      { id: "m1", category: "explore",   gameType: "pk7-explorer",               icon: "🔭", label: { en: "Discover Space",       hu: "Űr felfedezése",           de: "Weltall entdecken",        ro: "Descoperă spațiu"        } },
       { id: "m2", category: "build",     gameType: "star-match",                 icon: "⭐", label: { en: "Space Match",         hu: "Űr párosítása",            de: "Weltall-Paare",            ro: "Perechi spațiu"          } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",               icon: "🌪️", label: { en: "Final Sort",         hu: "Végső rendezés",           de: "Abschlusssortierung",      ro: "Sortare finală"          } },
     ],

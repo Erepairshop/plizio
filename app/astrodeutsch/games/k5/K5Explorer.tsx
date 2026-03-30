@@ -56,6 +56,7 @@ export default function K5Explorer({ island, grade, onDone, color = "#6366F1", l
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5} mix={cfg.mix}
         explorerId={`deutsch_k5_${island.id}`}
+        subject="deutsch"
         color={color} lang={lang} grade={5}
         onDone={onDone}
       />

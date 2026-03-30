@@ -26,15 +26,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import OhmExplorer from "@/app/astro-physik/games/k8/OhmExplorer";
-import PowerExplorer from "@/app/astro-physik/games/k8/PowerExplorer";
-import SemiconductorExplorer from "@/app/astro-physik/games/k8/SemiconductorExplorer";
-import ElectromagneticExplorer from "@/app/astro-physik/games/k8/ElectromagneticExplorer";
-import GeneratorsExplorer from "@/app/astro-physik/games/k8/GeneratorsExplorer";
-import AtomicExplorer from "@/app/astro-physik/games/k8/AtomicExplorer";
-import NuclearExplorer from "@/app/astro-physik/games/k8/NuclearExplorer";
-import ModernExplorer from "@/app/astro-physik/games/k8/ModernExplorer";
-import EnvironmentExplorer from "@/app/astro-physik/games/k8/EnvironmentExplorer";
+import K8Explorer from "@/app/astro-physik/games/k8/K8Explorer";
 import {
   PHYSIK_K8_ISLANDS as ISLANDS, PHYSIK_K8_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K8_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
   type PhysikK8Progress as Progress, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -131,15 +123,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "pk8-ohm-explorer"
-  | "pk8-power-explorer"
-  | "pk8-semiconductor-explorer"
-  | "pk8-electromagnetic-explorer"
-  | "pk8-generators-explorer"
-  | "pk8-atomic-explorer"
-  | "pk8-nuclear-explorer"
-  | "pk8-modern-explorer"
-  | "pk8-environment-explorer"
+  | "pk8-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -517,7 +501,7 @@ export default function AstroPhysikK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk8-ohm-explorer", "pk8-power-explorer", "pk8-semiconductor-explorer", "pk8-electromagnetic-explorer", "pk8-generators-explorer", "pk8-atomic-explorer", "pk8-nuclear-explorer", "pk8-modern-explorer", "pk8-environment-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk8-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -827,38 +811,14 @@ export default function AstroPhysikK8Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "pk8-ohm-explorer" && (
-          <OhmExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-power-explorer" && (
-          <PowerExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-semiconductor-explorer" && (
-          <SemiconductorExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-electromagnetic-explorer" && (
-          <ElectromagneticExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-generators-explorer" && (
-          <GeneratorsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-atomic-explorer" && (
-          <AtomicExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-nuclear-explorer" && (
-          <NuclearExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-modern-explorer" && (
-          <ModernExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk8-environment-explorer" && (
-          <EnvironmentExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "pk8-explorer" && activeIsland && (
+          <K8Explorer island={activeIsland} grade={8} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  const explorerScreens = ["pk8-ohm-explorer", "pk8-power-explorer", "pk8-semiconductor-explorer", "pk8-electromagnetic-explorer", "pk8-generators-explorer", "pk8-atomic-explorer", "pk8-nuclear-explorer", "pk8-modern-explorer", "pk8-environment-explorer"];
+  const explorerScreens = ["pk8-explorer"];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}

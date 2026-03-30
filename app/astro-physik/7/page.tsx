@@ -26,15 +26,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import SpeedExplorer from "@/app/astro-physik/games/k7/SpeedExplorer";
-import NewtonExplorer from "@/app/astro-physik/games/k7/NewtonExplorer";
-import WorkExplorer from "@/app/astro-physik/games/k7/WorkExplorer";
-import EnergyCalcExplorer from "@/app/astro-physik/games/k7/EnergyCalcExplorer";
-import LensesExplorer from "@/app/astro-physik/games/k7/LensesExplorer";
-import EyeExplorer from "@/app/astro-physik/games/k7/EyeExplorer";
-import ThermoExplorer from "@/app/astro-physik/games/k7/ThermoExplorer";
-import WavesK7Explorer from "@/app/astro-physik/games/k7/WavesK7Explorer";
-import SpaceExplorer from "@/app/astro-physik/games/k7/SpaceExplorer";
+import K7Explorer from "@/app/astro-physik/games/k7/K7Explorer";
 import {
   PHYSIK_K7_ISLANDS as ISLANDS, PHYSIK_K7_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K7_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
   type PhysikK7Progress as Progress, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -131,15 +123,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "pk7-speed-explorer"
-  | "pk7-newton-explorer"
-  | "pk7-work-explorer"
-  | "pk7-energycalc-explorer"
-  | "pk7-lenses-explorer"
-  | "pk7-eye-explorer"
-  | "pk7-thermo-explorer"
-  | "pk7-waves-explorer"
-  | "pk7-space-explorer"
+  | "pk7-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -517,7 +501,7 @@ export default function AstroPhysikK7Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk7-speed-explorer", "pk7-newton-explorer", "pk7-work-explorer", "pk7-energycalc-explorer", "pk7-lenses-explorer", "pk7-eye-explorer", "pk7-thermo-explorer", "pk7-waves-explorer", "pk7-space-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk7-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -827,38 +811,14 @@ export default function AstroPhysikK7Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "pk7-speed-explorer" && (
-          <SpeedExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-newton-explorer" && (
-          <NewtonExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-work-explorer" && (
-          <WorkExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-energycalc-explorer" && (
-          <EnergyCalcExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-lenses-explorer" && (
-          <LensesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-eye-explorer" && (
-          <EyeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-thermo-explorer" && (
-          <ThermoExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-waves-explorer" && (
-          <WavesK7Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk7-space-explorer" && (
-          <SpaceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "pk7-explorer" && activeIsland && (
+          <K7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  const explorerScreens = ["pk7-speed-explorer", "pk7-newton-explorer", "pk7-work-explorer", "pk7-energycalc-explorer", "pk7-lenses-explorer", "pk7-eye-explorer", "pk7-thermo-explorer", "pk7-waves-explorer", "pk7-space-explorer"];
+  const explorerScreens = ["pk7-explorer"];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
