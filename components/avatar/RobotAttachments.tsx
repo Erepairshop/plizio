@@ -72,21 +72,27 @@ function BoneAttachment({
 }) {
   const groupRef = useRef<THREE.Group>(null);
   const worldPos = useMemo(() => new THREE.Vector3(), []);
-  const logged = useRef(false);
+  const targetPos = useMemo(() => new THREE.Vector3(), []);
 
   useFrame(() => {
     if (!groupRef.current) return;
     bone.updateWorldMatrix(true, false);
     bone.getWorldPosition(worldPos);
-    if (!logged.current) {
-      console.log('[BoneAttachment] bone:', bone.name, 'worldPos:', worldPos.toArray(), 'spec.pos:', spec.position);
-      logged.current = true;
-    }
-    groupRef.current.position.set(
+
+    // Target = bone world pos + spec offset (both in world space)
+    targetPos.set(
       worldPos.x + spec.position[0],
       worldPos.y + spec.position[1],
       worldPos.z + spec.position[2],
     );
+
+    // Convert world-space target to parent's local space before assigning
+    const parent = groupRef.current.parent;
+    if (parent) {
+      parent.updateWorldMatrix(true, false);
+      parent.worldToLocal(targetPos);
+    }
+    groupRef.current.position.copy(targetPos);
   });
 
   const scale = asVectorScale(spec.scale);
