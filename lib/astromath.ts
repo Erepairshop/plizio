@@ -113,7 +113,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "en8-verbal-explorer" | "en8-phrase-explorer" | "en8-voice-mood-explorer" | "en8-writing-explorer"
   | "en8-literature-explorer" | "en8-style-explorer" | "en8-register-explorer" | "en8-punctuation-explorer" | "en8-etymology-explorer"
   | "pk5-forces-explorer" | "pk5-gravity-explorer" | "pk5-measurement-explorer" | "pk5-energy-explorer" | "pk5-conversion-explorer"
-  | "pk5-heat-explorer" | "pk5-light-explorer" | "pk5-sound-explorer" | "pk5-magnetism-explorer"
+  | "pk5-heat-explorer" | "pk5-light-explorer" | "pk5-sound-explorer" | "pk5-magnetism-explorer" | "pk5-explorer"
   | "pk6-machines-explorer" | "pk6-wheel-explorer" | "pk6-pressure-explorer" | "pk6-hydraulics-explorer" | "pk6-circuits-explorer"
   | "pk6-current-explorer" | "pk6-density-explorer" | "pk6-energytransfer-explorer" | "pk6-waves-explorer"
   | "pk7-speed-explorer" | "pk7-newton-explorer" | "pk7-work-explorer" | "pk7-energycalc-explorer" | "pk7-lenses-explorer"

@@ -47,7 +47,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "💪", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["push_pull", "friction"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-forces-explorer",     icon: "🔭", label: { en: "Discover Forces",     hu: "Erők felfedezése",        de: "Kräfte entdecken",         ro: "Descoperă forțe"        } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Forces",     hu: "Erők felfedezése",        de: "Kräfte entdecken",         ro: "Descoperă forțe"        } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Forces Match",        hu: "Erők párosítása",         de: "Kraft-Paare",              ro: "Perechi forțe"          } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Forces Challenge",    hu: "Erők kihívása",           de: "Kraft-Herausforderung",    ro: "Provocare forțe"        } },
     ],
@@ -59,7 +59,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["gravity", "weight_mass", "air_resistance"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-gravity-explorer",    icon: "🔭", label: { en: "Discover Gravity",    hu: "Gravitáció felfedezése",   de: "Schwerkraft entdecken",    ro: "Descoperă gravitație"   } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Gravity",    hu: "Gravitáció felfedezése",   de: "Schwerkraft entdecken",    ro: "Descoperă gravitație"   } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Weight Sort",        hu: "Súly rendezése",          de: "Gewicht sortieren",        ro: "Sortează greutate"      } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",              icon: "🚀", label: { en: "Weight Quiz",         hu: "Súly kvíz",               de: "Gewichtsquiz",             ro: "Quiz greutate"          } },
     ],
@@ -71,7 +71,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "📏", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["force_measurement"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-measurement-explorer", icon: "🔭", label: { en: "Discover Measuring",  hu: "Mérés felfedezése",       de: "Messung entdecken",        ro: "Descoperă măsurare"     } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Measuring",  hu: "Mérés felfedezése",       de: "Messung entdecken",        ro: "Descoperă măsurare"     } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",              icon: "🚀", label: { en: "Measurement Quiz",    hu: "Mérés kvíz",              de: "Messungsquiz",             ro: "Quiz măsurare"          } },
       { id: "m3", category: "challenge", gameType: "star-match",              icon: "⭐", label: { en: "Measure Match",       hu: "Mérés párosítása",        de: "Messungs-Paare",           ro: "Perechi măsurare"       } },
     ],
@@ -83,7 +83,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "⚡", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["energy_forms", "kinetic_energy", "potential_energy"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-energy-explorer",     icon: "🔭", label: { en: "Discover Energy",     hu: "Energia felfedezése",     de: "Energie entdecken",        ro: "Descoperă energie"      } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Energy",     hu: "Energia felfedezése",     de: "Energie entdecken",        ro: "Descoperă energie"      } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Energy Match",        hu: "Energia párosítása",      de: "Energie-Paare",            ro: "Perechi energie"        } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Energy Challenge",    hu: "Energia kihívása",        de: "Energie-Herausforderung",  ro: "Provocare energie"      } },
     ],
@@ -95,7 +95,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "🔄", color: "#8B5CF6", sortRange: [1, 10],
     topicKeys: ["energy_conversion", "energy_conservation"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-conversion-explorer", icon: "🔭", label: { en: "Discover Conversion",  hu: "Átalakulás felfedezése",  de: "Umwandlung entdecken",     ro: "Descoperă conversie"    } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Conversion",  hu: "Átalakulás felfedezése",  de: "Umwandlung entdecken",     ro: "Descoperă conversie"    } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Energy Sort",        hu: "Energia rendezése",       de: "Energie sortieren",        ro: "Sortează energie"       } },
       { id: "m3", category: "challenge", gameType: "orbit-quiz",              icon: "🚀", label: { en: "Conversion Quiz",     hu: "Átalakulás kvíz",         de: "Umwandlungsquiz",          ro: "Quiz conversie"         } },
     ],
@@ -107,7 +107,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "🌡️", color: "#FF6B35", sortRange: [1, 10],
     topicKeys: ["temperature", "heat_transfer", "states_of_matter", "melting_boiling"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-heat-explorer",       icon: "🔭", label: { en: "Discover Heat",       hu: "Hő felfedezése",          de: "Wärme entdecken",          ro: "Descoperă căldură"      } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Heat",       hu: "Hő felfedezése",          de: "Wärme entdecken",          ro: "Descoperă căldură"      } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Heat Match",          hu: "Hő párosítása",           de: "Wärme-Paare",              ro: "Perechi căldură"        } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Heat Challenge",      hu: "Hő kihívása",             de: "Wärme-Herausforderung",    ro: "Provocare căldură"      } },
     ],
@@ -119,7 +119,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "💡", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["light_sources", "shadows", "reflection", "refraction", "colors_spectrum"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-light-explorer",      icon: "🔭", label: { en: "Discover Light",      hu: "Fény felfedezése",        de: "Licht entdecken",          ro: "Descoperă lumină"       } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Light",      hu: "Fény felfedezése",        de: "Licht entdecken",          ro: "Descoperă lumină"       } },
       { id: "m2", category: "build",     gameType: "gravity-sort",            icon: "🌪️", label: { en: "Light Sort",         hu: "Fény rendezése",          de: "Licht sortieren",          ro: "Sortează lumină"        } },
       { id: "m3", category: "challenge", gameType: "star-match",              icon: "⭐", label: { en: "Optics Match",        hu: "Optika párosítása",       de: "Optik-Paare",              ro: "Perechi optică"         } },
     ],
@@ -131,7 +131,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "🔊", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["sound_waves", "pitch_volume", "echo", "speed_of_sound"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-sound-explorer",      icon: "🔭", label: { en: "Discover Sound",      hu: "Hang felfedezése",        de: "Schall entdecken",         ro: "Descoperă sunet"        } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Sound",      hu: "Hang felfedezése",        de: "Schall entdecken",         ro: "Descoperă sunet"        } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",              icon: "🚀", label: { en: "Sound Quiz",          hu: "Hang kvíz",               de: "Schallquiz",               ro: "Quiz sunet"             } },
       { id: "m3", category: "challenge", gameType: "black-hole",              icon: "🕳️", label: { en: "Sound Challenge",     hu: "Hang kihívása",           de: "Schall-Herausforderung",   ro: "Provocare sunet"        } },
     ],
@@ -143,7 +143,7 @@ export const PHYSIK_K5_ISLANDS: IslandDef[] = [
     icon: "🧲", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["magnets", "magnetic_field", "static_electricity", "simple_circuits"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pk5-magnetism-explorer",  icon: "🔭", label: { en: "Discover Magnetism",  hu: "Mágnesesség felfedezése", de: "Magnetismus entdecken",    ro: "Descoperă magnetism"    } },
+      { id: "m1", category: "explore",   gameType: "pk5-explorer",            icon: "🔭", label: { en: "Discover Magnetism",  hu: "Mágnesesség felfedezése", de: "Magnetismus entdecken",    ro: "Descoperă magnetism"    } },
       { id: "m2", category: "build",     gameType: "star-match",              icon: "⭐", label: { en: "Magnetic Match",      hu: "Mágneses párosítás",      de: "Magnet-Paare",             ro: "Perechi magnetic"       } },
       { id: "m3", category: "challenge", gameType: "gravity-sort",            icon: "🌪️", label: { en: "Final Sort",         hu: "Végső rendezés",          de: "Abschlusssortierung",      ro: "Sortare finală"         } },
     ],

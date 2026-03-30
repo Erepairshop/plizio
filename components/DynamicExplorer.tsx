@@ -16,9 +16,33 @@ import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
 import { K6_Generators } from "@/lib/biologieGenerators6";
+import "@/lib/physikRegistration";
+import { K5_GENERATOR_MAP } from "@/lib/physikCurriculum5";
+import { K6_GENERATOR_MAP } from "@/lib/physikCurriculum6";
+import { K7_GENERATOR_MAP } from "@/lib/physikCurriculum7";
+import { K8_GENERATOR_MAP } from "@/lib/physikCurriculum8";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
-const BIO_GENERATORS: Record<string, () => any> = {};
+const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const PHYSIK_SEED_ONLY_KEYS = new Set([
+  "sound_waves",
+  "sound_waves_typing",
+  "pitch_volume",
+  "pitch_volume_typing",
+  "echo",
+  "echo_typing",
+  "speed_of_sound",
+  "speed_of_sound_typing",
+  "magnets",
+  "magnets_typing",
+  "magnetic_field",
+  "magnetic_field_typing",
+  "static_electricity",
+  "static_electricity_typing",
+  "simple_circuits",
+  "simple_circuits_typing",
+]);
 // Flatten K5_Generators for easy access: "category_subtopic"
 Object.entries(K5_Generators).forEach(([cat, subs]) => {
   Object.entries(subs).forEach(([sub, gen]) => {
@@ -29,6 +53,15 @@ Object.entries(K5_Generators).forEach(([cat, subs]) => {
 // Keys are used directly: "arthropods", "insects", "blood_components", etc.
 Object.entries(K6_Generators).forEach(([key, gen]) => {
   BIO_GENERATORS[key] = gen as () => any;
+});
+
+[K5_GENERATOR_MAP, K6_GENERATOR_MAP, K7_GENERATOR_MAP, K8_GENERATOR_MAP].forEach((gradeMap) => {
+  Object.entries(gradeMap).forEach(([theme, subs]) => {
+    Object.entries(subs).forEach(([sub, gen]) => {
+      PHYSIK_GENERATORS[sub] = gen;
+      PHYSIK_GENERATORS[`${theme}_${sub}`] = gen;
+    });
+  });
 });
 
 interface Props {
@@ -63,15 +96,21 @@ interface Props {
  *   (ExplorerEngine's L() falls back to the key itself when not found in labels,
  *    so passing actual text works transparently)
  */
-function resolveQuiz(p: PoolTopicDef): { question: string; choices: string[]; answer: string } {
+function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices: string[]; answer: string } {
   const q = p.quiz;
   if ("generate" in q) {
-    const gen = DEUTSCH_GENERATORS[q.generate] || BIO_GENERATORS[q.generate];
+    const gen = (DEUTSCH_GENERATORS[q.generate] || BIO_GENERATORS[q.generate] || PHYSIK_GENERATORS[q.generate]) as
+      | ((...args: any[]) => any)
+      | undefined;
     if (gen) {
-      const result = gen();
-      // Handle array result
-      const qObj = Array.isArray(result) ? result[Math.floor(Math.random() * result.length)] : result;
-      if (qObj && qObj.type === "mcq") {
+      const seed = Math.floor(Math.random() * 1000000);
+      const result = PHYSIK_SEED_ONLY_KEYS.has(q.generate)
+        ? gen(seed)
+        : gen(lang, seed);
+      const pool = Array.isArray(result) ? result : [result];
+      const mcqs = pool.filter((item) => item && item.type === "mcq" && Array.isArray(item.options));
+      const qObj = mcqs[Math.floor(Math.random() * Math.max(mcqs.length, 1))];
+      if (qObj) {
         return {
           question: qObj.question,
           choices:  qObj.options,
@@ -108,12 +147,12 @@ export default function DynamicExplorer({
     const usedTitles = new Set(selected.map(p => p.infoTitle));
     const usedQuestions = new Set<string>();
     const deduped = selected.map(p => {
-      const quiz = resolveQuiz(p);
+      const quiz = resolveQuiz(p, lang);
       if (usedQuestions.has(quiz.question)) {
         // Try to find a replacement from pool with a unique question text
         const replacement = pool
           .filter(t => !usedTitles.has(t.infoTitle))
-          .map(t => ({ t, quiz: resolveQuiz(t) }))
+          .map(t => ({ t, quiz: resolveQuiz(t, lang) }))
           .find(({ quiz: rq }) => !usedQuestions.has(rq.question));
         if (replacement) {
           usedTitles.delete(p.infoTitle);
