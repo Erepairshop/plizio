@@ -105,16 +105,34 @@ function AttachmentBoneGroup({
     const group = groupRef.current;
     if (!group) return;
     bone.add(group);
+
+    // spec.position and spec.scale are in world-space units.
+    // Since bone.add() puts the group in bone-local space, we must divide
+    // by the bone's effective world scale to get the correct local values.
+    bone.updateWorldMatrix(true, false);
+    const boneWorldScale = new THREE.Vector3();
+    bone.matrixWorld.decompose(new THREE.Vector3(), new THREE.Quaternion(), boneWorldScale);
+
+    const sx = boneWorldScale.x || 1;
+    const sy = boneWorldScale.y || 1;
+    const sz = boneWorldScale.z || 1;
+
+    const pos = spec.position as [number, number, number];
+    group.position.set(pos[0] / sx, pos[1] / sy, pos[2] / sz);
+
+    const scaleVal = Array.isArray(spec.scale)
+      ? (spec.scale as [number, number, number])
+      : [spec.scale as number, spec.scale as number, spec.scale as number];
+    group.scale.set(scaleVal[0] / sx, scaleVal[1] / sy, scaleVal[2] / sz);
+
+    const rot = spec.rotation as [number, number, number];
+    group.rotation.set(rot[0], rot[1], rot[2]);
+
     return () => { bone.remove(group); };
-  }, [bone]);
+  }, [bone, spec]);
 
   return (
-    <group
-      ref={groupRef}
-      position={spec.position}
-      rotation={spec.rotation}
-      scale={spec.scale}
-    >
+    <group ref={groupRef}>
       {children}
     </group>
   );
