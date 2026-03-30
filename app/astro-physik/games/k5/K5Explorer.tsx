@@ -51,6 +51,7 @@ export default function K5Explorer({ island, grade, onDone, color = "#6366F1", l
         icon={cfg.icon}
         count={5}
         explorerId={`physik_k5_${island.id}`}
+        subject="physik"
         color={color}
         lang={lang}
         grade={grade}

@@ -67,6 +67,7 @@ export default function K6Explorer({ island, grade, onDone, color = "#00D4FF", l
         count={5}
         mix={cfg.mix}
         explorerId={`english_k6_${island.id}`}
+        subject="english"
         color={color}
         lang={lang}
         grade={grade}

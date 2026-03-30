@@ -48,6 +48,7 @@ export default function C3Explorer({ island, grade: _grade, onDone, color = "#10
     <DynamicExplorer
       pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
       count={5} explorerId={`romana_c3_${island.id}`}
+      subject="romana"
       color={color} lang={lang} grade={3}
       onDone={onDone}
     />

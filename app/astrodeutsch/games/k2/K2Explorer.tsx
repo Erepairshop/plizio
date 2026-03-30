@@ -64,6 +64,7 @@ export default function K2Explorer({ island, grade, onDone, color = "#0096C7", l
         count={5}
         mix={cfg.mix}
         explorerId={`deutsch_k2_${island.id}`}
+        subject="deutsch"
         color={color}
         lang={lang}
         grade={2}

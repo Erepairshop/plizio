@@ -56,6 +56,7 @@ export default function K4Explorer({ island, grade, onDone, color = "#F59E0B", l
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5} mix={cfg.mix}
         explorerId={`deutsch_k4_${island.id}`}
+        subject="deutsch"
         color={color} lang={lang} grade={4}
         onDone={onDone}
       />

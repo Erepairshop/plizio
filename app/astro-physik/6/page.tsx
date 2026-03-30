@@ -26,15 +26,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import MachinesExplorer from "@/app/astro-physik/games/k6/MachinesExplorer";
-import WheelExplorer from "@/app/astro-physik/games/k6/WheelExplorer";
-import PressureExplorer from "@/app/astro-physik/games/k6/PressureExplorer";
-import HydraulicsExplorer from "@/app/astro-physik/games/k6/HydraulicsExplorer";
-import CircuitsExplorer from "@/app/astro-physik/games/k6/CircuitsExplorer";
-import CurrentExplorer from "@/app/astro-physik/games/k6/CurrentExplorer";
-import DensityExplorer from "@/app/astro-physik/games/k6/DensityExplorer";
-import EnergyTransferExplorer from "@/app/astro-physik/games/k6/EnergyTransferExplorer";
-import WavesExplorer from "@/app/astro-physik/games/k6/WavesExplorer";
+import K6Explorer from "@/app/astro-physik/games/k6/K6Explorer";
 import {
   PHYSIK_K6_ISLANDS as ISLANDS, PHYSIK_K6_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K6_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
   type PhysikK6Progress as Progress, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -131,15 +123,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "pk6-machines-explorer"
-  | "pk6-wheel-explorer"
-  | "pk6-pressure-explorer"
-  | "pk6-hydraulics-explorer"
-  | "pk6-circuits-explorer"
-  | "pk6-current-explorer"
-  | "pk6-density-explorer"
-  | "pk6-energytransfer-explorer"
-  | "pk6-waves-explorer"
+  | "pk6-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -517,7 +501,7 @@ export default function AstroPhysikK6Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk6-machines-explorer", "pk6-wheel-explorer", "pk6-pressure-explorer", "pk6-hydraulics-explorer", "pk6-circuits-explorer", "pk6-current-explorer", "pk6-density-explorer", "pk6-energytransfer-explorer", "pk6-waves-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk6-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -827,38 +811,14 @@ export default function AstroPhysikK6Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "pk6-machines-explorer" && (
-          <MachinesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-wheel-explorer" && (
-          <WheelExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-pressure-explorer" && (
-          <PressureExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-hydraulics-explorer" && (
-          <HydraulicsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-circuits-explorer" && (
-          <CircuitsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-current-explorer" && (
-          <CurrentExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-density-explorer" && (
-          <DensityExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-energytransfer-explorer" && (
-          <EnergyTransferExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk6-waves-explorer" && (
-          <WavesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "pk6-explorer" && activeIsland && (
+          <K6Explorer island={activeIsland} grade={6} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  const explorerScreens = ["pk6-machines-explorer", "pk6-wheel-explorer", "pk6-pressure-explorer", "pk6-hydraulics-explorer", "pk6-circuits-explorer", "pk6-current-explorer", "pk6-density-explorer", "pk6-energytransfer-explorer", "pk6-waves-explorer"];
+  const explorerScreens = ["pk6-explorer"];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}

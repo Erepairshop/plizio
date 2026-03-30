@@ -48,6 +48,7 @@ export default function C1Explorer({ island, grade: _grade, onDone, color = "#FF
     <DynamicExplorer
       pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
       count={5} explorerId={`romana_c1_${island.id}`}
+      subject="romana"
       color={color} lang={lang} grade={1}
       onDone={onDone}
     />

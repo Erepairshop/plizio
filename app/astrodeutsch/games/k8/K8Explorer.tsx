@@ -55,6 +55,7 @@ export default function K8Explorer({ island, grade, onDone, color = "#E879F9", l
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5}
         explorerId={`deutsch_k8_${island.id}`}
+        subject="deutsch"
         color={color} lang={lang} grade={8}
         onDone={onDone}
       />

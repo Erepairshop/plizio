@@ -55,6 +55,7 @@ export default function K7Explorer({ island, grade, onDone, color = "#B44DFF", l
         pool={cfg.pool} labels={cfg.labels} title={cfg.title} icon={cfg.icon}
         count={5}
         explorerId={`deutsch_k7_${island.id}`}
+        subject="deutsch"
         color={color} lang={lang} grade={7}
         onDone={onDone}
       />

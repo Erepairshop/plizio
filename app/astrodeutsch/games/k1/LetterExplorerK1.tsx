@@ -25,6 +25,7 @@ const LetterExplorerK1 = memo(function LetterExplorerK1({
       count={5}
       mix={{ easy: 2, medium: 2, hard: 1 }}
       explorerId="deutsch_k1_letter"
+      subject="deutsch"
       color={color}
       lang={lang}
       grade={1}
