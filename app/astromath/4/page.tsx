@@ -194,7 +194,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
 }) {
+  const { lang } = useLang();
   const pathD = buildSmoothPath(G4_ISLANDS);
+  const checkpointLabel = doneOrUnlockedLabel(lang);
 
   return (
     <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
@@ -249,7 +251,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               {done ? "✅" : unlocked ? "🚀" : "🔒"}
             </text>
             <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>
-              {done ? "Fertig!" : unlocked ? "Test!" : "Test"}
+              {done ? checkpointLabel.done : unlocked ? checkpointLabel.ready : checkpointLabel.locked}
             </text>
           </g>
         );
@@ -319,7 +321,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && (
               <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
                 fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
-                {total > 0 ? `${total}/9 ⭐` : island.name.de.split(" ")[0]}
+                {total > 0 ? `${total}/9 ⭐` : (island.name[lang as Lang] ?? island.name.en).split(" ")[0]}
               </text>
             )}
           </g>
@@ -327,6 +329,13 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       })}
     </svg>
   );
+}
+
+function doneOrUnlockedLabel(lang: string): { done: string; ready: string; locked: string } {
+  if (lang === "hu") return { done: "Kész!", ready: "Teszt!", locked: "Teszt" };
+  if (lang === "de") return { done: "Fertig!", ready: "Test!", locked: "Test" };
+  if (lang === "ro") return { done: "Gata!", ready: "Test!", locked: "Test" };
+  return { done: "Done!", ready: "Test!", locked: "Test" };
 }
 
 // ─── Mission Done screen ───────────────────────────────────────────────────────
