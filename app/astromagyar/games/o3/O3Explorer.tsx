@@ -1,30 +1,20 @@
 "use client";
-// O3Explorer.tsx — router: island.id → specific ExplorerEngine component
-import dynamic from "next/dynamic";
+
+import DynamicExplorer from "@/components/DynamicExplorer";
 import LangExplore from "../LangExplore";
-import type { IslandDef } from "@/lib/astroMagyar";
-
-const VerbTensesExplorer      = dynamic(() => import("./VerbTensesExplorer"),      { ssr: false });
-const NounDeclensionExplorer  = dynamic(() => import("./NounDeclensionExplorer"),  { ssr: false });
-const CompoundWordsO3Explorer = dynamic(() => import("./CompoundWordsO3Explorer"), { ssr: false });
-const TextCompO3Explorer      = dynamic(() => import("./TextCompO3Explorer"),      { ssr: false });
-const IdiomsExplorer          = dynamic(() => import("./IdiomsExplorer"),          { ssr: false });
-const SpellingO3Explorer      = dynamic(() => import("./SpellingO3Explorer"),      { ssr: false });
-const CompositionO3Explorer   = dynamic(() => import("./CompositionO3Explorer"),   { ssr: false });
-const SentenceAnalysisO3Explorer = dynamic(() => import("./SentenceAnalysisO3Explorer"), { ssr: false });
-const ReviewO3Explorer        = dynamic(() => import("./ReviewO3Explorer"),        { ssr: false });
-
-const ISLAND_MAP: Record<string, React.ComponentType<any>> = {
-  i1: VerbTensesExplorer,
-  i2: NounDeclensionExplorer,
-  i3: CompoundWordsO3Explorer,
-  i4: TextCompO3Explorer,
-  i5: IdiomsExplorer,
-  i6: SpellingO3Explorer,
-  i7: CompositionO3Explorer,
-  i8: SentenceAnalysisO3Explorer,
-  i9: ReviewO3Explorer,
-};
+import type { IslandDef } from "@/lib/astroMagyar3";
+import type { PoolTopicDef } from "@/lib/explorerPools/types";
+import {
+  MAGYAR_O3_I1_LABELS, MAGYAR_O3_I1_POOL,
+  MAGYAR_O3_I2_LABELS, MAGYAR_O3_I2_POOL,
+  MAGYAR_O3_I3_LABELS, MAGYAR_O3_I3_POOL,
+  MAGYAR_O3_I4_LABELS, MAGYAR_O3_I4_POOL,
+  MAGYAR_O3_I5_LABELS, MAGYAR_O3_I5_POOL,
+  MAGYAR_O3_I6_LABELS, MAGYAR_O3_I6_POOL,
+  MAGYAR_O3_I7_LABELS, MAGYAR_O3_I7_POOL,
+  MAGYAR_O3_I8_LABELS, MAGYAR_O3_I8_POOL,
+  MAGYAR_O3_I9_LABELS, MAGYAR_O3_I9_POOL,
+} from "@/lib/explorerPools/magyarO3";
 
 interface Props {
   island: IslandDef;
@@ -33,8 +23,55 @@ interface Props {
   lang?: string;
 }
 
+interface IslandConfig {
+  pool: PoolTopicDef[];
+  labels: Record<string, Record<string, string>>;
+  title: string;
+  icon: string;
+}
+
+const O3_ISLAND_CONFIG: Record<string, IslandConfig> = {
+  i1: { pool: MAGYAR_O3_I1_POOL, labels: MAGYAR_O3_I1_LABELS, title: "explorer_title", icon: "📖" },
+  i2: { pool: MAGYAR_O3_I2_POOL, labels: MAGYAR_O3_I2_LABELS, title: "explorer_title", icon: "🔗" },
+  i3: { pool: MAGYAR_O3_I3_POOL, labels: MAGYAR_O3_I3_LABELS, title: "explorer_title", icon: "📝" },
+  i4: { pool: MAGYAR_O3_I4_POOL, labels: MAGYAR_O3_I4_LABELS, title: "explorer_title", icon: "💬" },
+  i5: { pool: MAGYAR_O3_I5_POOL, labels: MAGYAR_O3_I5_LABELS, title: "explorer_title", icon: "🎭" },
+  i6: { pool: MAGYAR_O3_I6_POOL, labels: MAGYAR_O3_I6_LABELS, title: "explorer_title", icon: "✏️" },
+  i7: { pool: MAGYAR_O3_I7_POOL, labels: MAGYAR_O3_I7_LABELS, title: "explorer_title", icon: "📜" },
+  i8: { pool: MAGYAR_O3_I8_POOL, labels: MAGYAR_O3_I8_LABELS, title: "explorer_title", icon: "🔍" },
+  i9: { pool: MAGYAR_O3_I9_POOL, labels: MAGYAR_O3_I9_LABELS, title: "explorer_title", icon: "🌟" },
+};
+
+function withHungarianFallback(labels: Record<string, Record<string, string>>): Record<string, Record<string, string>> {
+  const hu = labels.hu ?? labels.en ?? labels.de ?? labels.ro ?? {};
+  return {
+    hu,
+    en: labels.en ?? hu,
+    de: labels.de ?? hu,
+    ro: labels.ro ?? hu,
+  };
+}
+
 export default function O3Explorer({ island, grade, onDone, lang = "hu" }: Props) {
-  const Component = ISLAND_MAP[island.id];
-  if (Component) return <Component onDone={onDone} lang={lang} />;
-  return <LangExplore island={island} grade={grade} onDone={onDone} />;
+  const cfg = O3_ISLAND_CONFIG[island.id];
+  if (!cfg) {
+    return <LangExplore island={island} grade={grade} onDone={onDone} />;
+  }
+
+  return (
+    <DynamicExplorer
+      key={`${island.id}:${lang}`}
+      pool={cfg.pool}
+      labels={withHungarianFallback(cfg.labels)}
+      title={cfg.title}
+      icon={cfg.icon}
+      count={5}
+      explorerId={`astromagyar_o3_${island.id}`}
+      subject="magyar"
+      color={island.color}
+      lang={lang}
+      grade={grade}
+      onDone={onDone}
+    />
+  );
 }
