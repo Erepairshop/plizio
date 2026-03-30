@@ -314,7 +314,7 @@ function TimeEchoContent() {
   const myName = getUsername() || "You";
 
   // State
-  const [save, setSave] = useState({ currentLevel: 1, completedLevels: [] });
+  const [save, setSave] = useState<{ currentLevel: number; completedLevels: number[] }>({ currentLevel: 1, completedLevels: [] });
   const [screen, setScreen] = useState<Screen>("expedition");
   const [activeLevel, setActiveLevel] = useState(1);
   const [phase, setPhase] = useState<Phase>("recording");
