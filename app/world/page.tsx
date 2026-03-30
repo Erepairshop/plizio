@@ -54,12 +54,14 @@ const STATIC_STARS = Array.from({ length: 40 }, (_, i) => ({
 }));
 
 const GAME_NAMES: Record<string, string> = {
-  numberpath: "Number Path", minisudoku: "Mini Sudoku",
+  numberpath: "Number Path", pathbuilder: "Path Builder", topicsort: "Topic Sort", minisudoku: "Mini Sudoku",
   memoryflash: "Memory Flash", spotdiff: "Spot Diff",
   reflexrush: "Reflex Rush", quickpick: "Quick Pick",
   kodex: "Kodex", wordscramble: "Word Scramble",
   mathtest: "Math Test", numberrush: "Number Rush",
   pipeflow: "Pipe Flow",
+  deductiongrid: "Deduction Grid",
+  deductiongrid2: "Galactic Deduction",
   patternforge: "Pattern Forge",
 };
 

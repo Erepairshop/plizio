@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, Mountain, Star, Info, ChevronDown, ChevronUp, GitBranch, type LucideIcon } from "lucide-react";
+import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, Mountain, Star, Info, ChevronDown, ChevronUp, GitBranch, Grid3x3, Navigation, Shuffle, Rocket, type LucideIcon } from "lucide-react";
 import { getCards, getRarityConfig, removeCardsByRarity, type GameCard, type CardRarity } from "@/lib/cards";
 import { addSpecialCards, getSpecialCardCount } from "@/lib/specialCards";
 import { useLang } from "@/components/LanguageProvider";
@@ -165,37 +165,37 @@ const GAME_NAMES: Record<Language, Record<string, string>> = {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Napi Kihívás", skyclimb: "Sky Climb", mathtest: "Matekteszt",
     wordscramble: "Szókeverő", spotdiff: "Különbségkereső", numberrush: "Számroham",
-    milliomos: "Milliomos", racetrack: "Versenyút", citydrive: "Városvezetés", pipeflow: "Csőáramlás",
+    milliomos: "Milliomos", racetrack: "Versenyút", citydrive: "Városvezetés", numberpath: "Számút", pathbuilder: "Útvonalépítő", topicsort: "Témarendező", pipeflow: "Csőáramlás", deductiongrid: "Dedukciós rács", deductiongrid2: "Galaktikus Dedukció",
   },
   de: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Tägliche Challenge", skyclimb: "Sky Climb", mathtest: "Mathetest",
     wordscramble: "Wortmix", spotdiff: "Unterschiede suchen", numberrush: "Nummernrausch",
-    milliomos: "Milliomos", racetrack: "Rennstrecke", citydrive: "Stadtfahrt", pipeflow: "Rohrfluss",
+    milliomos: "Milliomos", racetrack: "Rennstrecke", citydrive: "Stadtfahrt", numberpath: "Zahlenpfad", pathbuilder: "Pfadbauer", topicsort: "Themen-Sortierung", pipeflow: "Rohrfluss", deductiongrid: "Deduktionsraster", deductiongrid2: "Galaktische Deduktion",
   },
   en: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Daily Challenge", skyclimb: "Sky Climb", mathtest: "Math Test",
     wordscramble: "Word Scramble", spotdiff: "Spot the Diff", numberrush: "Number Rush",
-    milliomos: "Milliomos", racetrack: "Racetrack", citydrive: "City Drive", pipeflow: "Pipe Flow",
+    milliomos: "Milliomos", racetrack: "Racetrack", citydrive: "City Drive", numberpath: "Number Path", pathbuilder: "Path Builder", topicsort: "Topic Sort", pipeflow: "Pipe Flow", deductiongrid: "Deduction Grid", deductiongrid2: "Galactic Deduction",
   },
   ro: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Provocarea zilnică", skyclimb: "Sky Climb", mathtest: "Test Mate",
     wordscramble: "Anagramă", spotdiff: "Găsește Diferența", numberrush: "Avalanșă de Numere",
-    milliomos: "Milliomos", racetrack: "Circuit", citydrive: "Condus prin oraș", pipeflow: "Fluxul Conductelor",
+    milliomos: "Milliomos", racetrack: "Circuit", citydrive: "Condus prin oraș", numberpath: "Calea Numerelor", pathbuilder: "Constructor de Trasee", topicsort: "Sortare teme", pipeflow: "Fluxul Conductelor", deductiongrid: "Grilă de deducție", deductiongrid2: "Deducție Galactică",
   },
 };
 
 // ─── Static maps ──────────────────────────────────────
 const GAME_ICONS: Record<string, LucideIcon> = {
   quickpick: Crosshair, reflexgrid: Zap, memoryflash: Brain,
-  daily: Calendar, skyclimb: Mountain, pipeflow: GitBranch,
+  daily: Calendar, skyclimb: Mountain, numberpath: Grid3x3, pathbuilder: Navigation, topicsort: Shuffle, pipeflow: GitBranch, deductiongrid: Grid3x3, deductiongrid2: Rocket,
 };
 
 const GAME_COLORS: Record<string, string> = {
   quickpick: "#FF2D78", reflexgrid: "#00D4FF", memoryflash: "#B44DFF",
-  daily: "#FFD700", skyclimb: "#00FF88", mathtest: "#FF8C00", pipeflow: "#22C55E",
+  daily: "#FFD700", skyclimb: "#00FF88", mathtest: "#FF8C00", numberpath: "#00FF88", pathbuilder: "#2DD4BF", topicsort: "#14B8A6", pipeflow: "#22C55E", deductiongrid: "#8B5CF6", deductiongrid2: "#6366F1",
   wordscramble: "#00CED1", spotdiff: "#FF69B4", numberrush: "#7FFF00",
   milliomos: "#FFD700", racetrack: "#FF4500", citydrive: "#1E90FF",
 };
