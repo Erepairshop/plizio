@@ -2,6 +2,7 @@
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
 import K8Explorer from "@/app/astrokemia/games/k8/K8Explorer";
+import { useLang } from "@/components/LanguageProvider";
 import {
   KEMIA_K8_CHECKPOINT_MAP,
   KEMIA_K8_ISLANDS,
@@ -19,11 +20,21 @@ import {
 } from "@/lib/astroKemia8";
 
 export default function AstroKemiaGrade8Page() {
+  const { lang } = useLang();
+  const subtitle =
+    lang === "hu"
+      ? "Organikus és energia"
+      : lang === "ro"
+      ? "Organic și energie"
+      : lang === "en"
+      ? "Organic & Energy"
+      : "Organik & Energie";
+
   return (
     <AstroKemiaGradeGame
       grade={8}
       title="AstroKemia"
-      subtitle="Klasse 8 bündelt organische Chemie, Energie, Technikbezug und moderne Anwendungen als kompletter AstroKemia-Endpfad."
+      subtitle={subtitle}
       gameId="astrokemia"
       routeBase="/astrokemia"
       accentColor="#F97316"

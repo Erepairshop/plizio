@@ -1,146 +1,238 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Home, FlaskConical, Atom, Beaker, Orbit } from "lucide-react";
+import { Home } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { useState, useEffect } from "react";
 import { loadKemiaK5Progress } from "@/lib/astroKemia5";
 import { loadKemiaK6Progress } from "@/lib/astroKemia6";
 import { loadKemiaK7Progress } from "@/lib/astroKemia7";
 import { loadKemiaK8Progress } from "@/lib/astroKemia8";
 
-const UI = {
+const STARS = Array.from({ length: 60 }, (_, i) => ({
+  id: i,
+  x: (i * 37 + 13) % 100,
+  y: (i * 53 + 7) % 100,
+  size: (i % 3) * 0.7 + 0.5,
+  dur: 2 + (i % 5) * 0.6,
+  delay: (i % 7) * 0.4,
+}));
+
+function Starfield() {
+  return (
+    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {STARS.map((s) => (
+        <motion.div
+          key={s.id}
+          className="absolute rounded-full bg-white"
+          style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
+          animate={{ opacity: [0.1, 0.9, 0.1] }}
+          transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }}
+        />
+      ))}
+    </div>
+  );
+}
+
+function PlanetK5({ size = 52 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 100 100" fill="none">
+      <circle cx="50" cy="50" r="48" fill="#10B981" opacity="0.9" />
+      <circle cx="50" cy="50" r="45" fill="url(#chemGrad5)" />
+      <circle cx="34" cy="38" r="9" fill="#6EE7B7" opacity="0.55" />
+      <circle cx="66" cy="42" r="6" fill="#A7F3D0" opacity="0.45" />
+      <path d="M 28 68 Q 50 76 72 66" stroke="#D1FAE5" strokeWidth="2" fill="none" opacity="0.45" />
+      <defs>
+        <radialGradient id="chemGrad5" cx="35%" cy="35%">
+          <stop offset="0%" stopColor="#6EE7B7" />
+          <stop offset="100%" stopColor="#10B981" />
+        </radialGradient>
+      </defs>
+    </svg>
+  );
+}
+
+function PlanetK6({ size = 52 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 100 100" fill="none">
+      <circle cx="50" cy="50" r="48" fill="#3B82F6" opacity="0.9" />
+      <circle cx="50" cy="50" r="45" fill="url(#chemGrad6)" />
+      <ellipse cx="50" cy="50" rx="36" ry="15" fill="none" stroke="#93C5FD" strokeWidth="2" opacity="0.6" />
+      <circle cx="39" cy="35" r="5" fill="#DBEAFE" opacity="0.65" />
+      <circle cx="64" cy="60" r="4" fill="#BFDBFE" opacity="0.55" />
+      <defs>
+        <radialGradient id="chemGrad6" cx="40%" cy="40%">
+          <stop offset="0%" stopColor="#93C5FD" />
+          <stop offset="100%" stopColor="#3B82F6" />
+        </radialGradient>
+      </defs>
+    </svg>
+  );
+}
+
+function PlanetK7({ size = 52 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 100 100" fill="none">
+      <circle cx="50" cy="50" r="48" fill="#8B5CF6" opacity="0.9" />
+      <circle cx="50" cy="50" r="45" fill="url(#chemGrad7)" />
+      <path d="M 26 52 L 74 52" stroke="#C4B5FD" strokeWidth="2" opacity="0.55" />
+      <path d="M 50 26 L 50 74" stroke="#DDD6FE" strokeWidth="2" opacity="0.45" />
+      <circle cx="36" cy="36" r="5" fill="#EDE9FE" opacity="0.65" />
+      <circle cx="67" cy="67" r="5" fill="#DDD6FE" opacity="0.5" />
+      <defs>
+        <radialGradient id="chemGrad7" cx="35%" cy="35%">
+          <stop offset="0%" stopColor="#C4B5FD" />
+          <stop offset="100%" stopColor="#8B5CF6" />
+        </radialGradient>
+      </defs>
+    </svg>
+  );
+}
+
+function PlanetK8({ size = 52 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 100 100" fill="none">
+      <circle cx="50" cy="50" r="48" fill="#F97316" opacity="0.92" />
+      <circle cx="50" cy="50" r="45" fill="url(#chemGrad8)" />
+      <circle cx="50" cy="50" r="31" fill="none" stroke="#FDBA74" strokeWidth="2" opacity="0.55" />
+      <path d="M 33 65 Q 50 54 67 65" stroke="#FFEDD5" strokeWidth="2" fill="none" opacity="0.45" />
+      <circle cx="38" cy="37" r="6" fill="#FED7AA" opacity="0.6" />
+      <defs>
+        <radialGradient id="chemGrad8" cx="35%" cy="35%">
+          <stop offset="0%" stopColor="#FDBA74" />
+          <stop offset="100%" stopColor="#F97316" />
+        </radialGradient>
+      </defs>
+    </svg>
+  );
+}
+
+const GRADES = [
+  { grade: 5, Planet: PlanetK5, color: "#10B981", glow: "rgba(16,185,129,0.5)", emoji: "⚗️", route: "/astrokemia/5" },
+  { grade: 6, Planet: PlanetK6, color: "#3B82F6", glow: "rgba(59,130,246,0.5)", emoji: "⚛️", route: "/astrokemia/6" },
+  { grade: 7, Planet: PlanetK7, color: "#8B5CF6", glow: "rgba(139,92,246,0.5)", emoji: "🧪", route: "/astrokemia/7" },
+  { grade: 8, Planet: PlanetK8, color: "#F97316", glow: "rgba(249,115,22,0.5)", emoji: "🧬", route: "/astrokemia/8" },
+] as const;
+
+const T = {
   en: {
     title: "AstroKemia",
-    subtitle: "Chemistry islands from matter to molecules.",
+    subtitle: "Explore Chemistry in Space!",
     grade: "Grade",
-    islands: "islands complete",
-    k5: "Matter & Particles",
-    k6: "Atoms & Separation",
-    k7: "Reactions & Bonds",
-    k8: "Organic & Energy",
+    topics: "islands",
   },
   hu: {
     title: "AstroKemia",
-    subtitle: "Kémiai szigetek az anyagoktól a molekulákig.",
+    subtitle: "Fedezd fel a kémiát az űrben!",
     grade: "Osztály",
-    islands: "kész sziget",
-    k5: "Anyagok és részecskék",
-    k6: "Atomok és szétválasztás",
-    k7: "Reakciók és kötések",
-    k8: "Organikus és energia",
+    topics: "sziget",
   },
   de: {
     title: "AstroKemia",
-    subtitle: "Chemie-Inseln von Stoffen bis Molekülen.",
+    subtitle: "Entdecke Chemie im Weltraum!",
     grade: "Klasse",
-    islands: "Inseln geschafft",
-    k5: "Stoffe & Teilchen",
-    k6: "Atome & Trennmethoden",
-    k7: "Reaktionen & Bindungen",
-    k8: "Organik & Energie",
+    topics: "Inseln",
   },
   ro: {
     title: "AstroKemia",
-    subtitle: "Insule de chimie de la substanțe la molecule.",
+    subtitle: "Explorează Chimia în Spațiu!",
     grade: "Clasa",
-    islands: "insule finalizate",
-    k5: "Substanțe și particule",
-    k6: "Atomi și separare",
-    k7: "Reacții și legături",
-    k8: "Organic și energie",
+    topics: "insule",
   },
 } as const;
 
-const GRADES = [
-  { grade: 5, route: "/astrokemia/5", color: "#10B981", icon: FlaskConical },
-  { grade: 6, route: "/astrokemia/6", color: "#3B82F6", icon: Atom },
-  { grade: 7, route: "/astrokemia/7", color: "#8B5CF6", icon: Beaker },
-  { grade: 8, route: "/astrokemia/8", color: "#F97316", icon: Orbit },
-] as const;
-
-const STARS = Array.from({ length: 56 }, (_, i) => ({
-  id: i,
-  x: (i * 29 + 11) % 100,
-  y: (i * 47 + 19) % 100,
-  size: (i % 3) + 1,
-  delay: (i % 8) * 0.35,
-  duration: 2.5 + (i % 4) * 0.7,
-}));
+const SUBTITLES = {
+  5: { en: "Matter & Particles", hu: "Anyagok és részecskék", de: "Stoffe & Teilchen", ro: "Substanțe și particule" },
+  6: { en: "Atoms & Separation", hu: "Atomok és szétválasztás", de: "Atome & Trennmethoden", ro: "Atomi și separare" },
+  7: { en: "Reactions & Bonds", hu: "Reakciók és kötések", de: "Reaktionen & Bindungen", ro: "Reacții și legături" },
+  8: { en: "Organic & Energy", hu: "Organikus és energia", de: "Organik & Energie", ro: "Organic și energie" },
+} as const;
 
 export default function AstroKemiaPage() {
   const { lang } = useLang();
   const router = useRouter();
-  const t = UI[(lang as keyof typeof UI) ?? "en"] ?? UI.en;
+  const t = T[lang as keyof typeof T] ?? T.en;
 
-  const [progress, setProgress] = useState({ 5: 0, 6: 0, 7: 0, 8: 0 });
+  const [k5Done, setK5Done] = useState(0);
+  const [k6Done, setK6Done] = useState(0);
+  const [k7Done, setK7Done] = useState(0);
+  const [k8Done, setK8Done] = useState(0);
 
   useEffect(() => {
-    setProgress({
-      5: loadKemiaK5Progress().completedIslands.length,
-      6: loadKemiaK6Progress().completedIslands.length,
-      7: loadKemiaK7Progress().completedIslands.length,
-      8: loadKemiaK8Progress().completedIslands.length,
-    });
+    setK5Done(loadKemiaK5Progress().completedIslands.length);
+    setK6Done(loadKemiaK6Progress().completedIslands.length);
+    setK7Done(loadKemiaK7Progress().completedIslands.length);
+    setK8Done(loadKemiaK8Progress().completedIslands.length);
   }, []);
 
   return (
-    <div className="relative min-h-screen overflow-hidden bg-[#050b0a] text-white">
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(16,185,129,0.22),transparent_40%),radial-gradient(circle_at_bottom_right,rgba(59,130,246,0.14),transparent_35%)]" />
-      <div className="absolute inset-0">
-        {STARS.map((star) => (
-          <motion.div
-            key={star.id}
-            className="absolute rounded-full bg-white"
-            style={{ left: `${star.x}%`, top: `${star.y}%`, width: star.size, height: star.size }}
-            animate={{ opacity: [0.1, 0.9, 0.1] }}
-            transition={{ duration: star.duration, delay: star.delay, repeat: Infinity, ease: "easeInOut" }}
-          />
-        ))}
+    <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
+      <Starfield />
+
+      <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-3">
+        <button
+          onClick={() => router.push("/")}
+          className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors"
+        >
+          <Home size={16} />
+        </button>
+        <div className="text-center">
+          <h1 className="text-2xl font-black text-white tracking-wide">⚗️ {t.title}</h1>
+          <p className="text-[11px] text-white/45 font-medium uppercase tracking-widest mt-0.5">{t.subtitle}</p>
+        </div>
+        <div className="w-9" />
       </div>
 
-      <div className="relative z-10 mx-auto max-w-5xl px-4 pb-10 pt-5">
-        <div className="mb-8 flex items-center justify-between">
-          <button
-            onClick={() => router.push("/")}
-            className="flex h-10 w-10 items-center justify-center rounded-full border border-white/15 bg-white/5 text-white/75 transition hover:bg-white/10"
-          >
-            <Home size={16} />
-          </button>
-          <div className="text-center">
-            <h1 className="text-3xl font-black tracking-tight text-white">⚗️ {t.title}</h1>
-            <p className="mt-1 text-xs uppercase tracking-[0.28em] text-white/45">{t.subtitle}</p>
-          </div>
-          <div className="w-10" />
-        </div>
-
-        <div className="grid gap-4 md:grid-cols-2">
-          {GRADES.map((entry, index) => {
-            const Icon = entry.icon;
-            const subtitleKey = `k${entry.grade}` as const;
+      <div className="relative z-10 flex-1 px-4 pb-6 mt-2">
+        <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
+          {GRADES.map((g) => {
+            const progress = g.grade === 5 ? k5Done : g.grade === 6 ? k6Done : g.grade === 7 ? k7Done : k8Done;
+            const subtitle = SUBTITLES[g.grade as keyof typeof SUBTITLES][lang as keyof typeof SUBTITLES[5]] || SUBTITLES[g.grade as keyof typeof SUBTITLES].en;
 
             return (
               <motion.button
-                key={entry.grade}
-                onClick={() => router.push(entry.route)}
-                initial={{ opacity: 0, y: 28 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.45, delay: index * 0.06 }}
-                className="group relative overflow-hidden rounded-[32px] border border-white/10 bg-white/[0.04] p-6 text-left shadow-[0_30px_80px_rgba(0,0,0,0.24)] transition hover:bg-white/[0.06]"
+                key={g.grade}
+                onClick={() => router.push(g.route)}
+                className="relative rounded-3xl p-5 flex flex-col items-center gap-3 overflow-hidden"
+                style={{
+                  background: `radial-gradient(ellipse at 50% 0%, ${g.color}22 0%, rgba(255,255,255,0.04) 100%)`,
+                  border: `1.5px solid ${g.color}55`,
+                }}
+                whileTap={{ scale: 0.96 }}
               >
-                <div className="absolute inset-0 opacity-70" style={{ background: `radial-gradient(circle at top right, ${entry.color}33, transparent 45%)` }} />
-                <div className="relative z-10">
-                  <div className="mb-5 inline-flex h-14 w-14 items-center justify-center rounded-2xl" style={{ backgroundColor: `${entry.color}22`, color: entry.color }}>
-                    <Icon size={28} />
+                <motion.div
+                  className="w-16 h-16 rounded-full flex items-center justify-center relative"
+                  style={{
+                    background: `radial-gradient(circle, ${g.color}22, transparent)`,
+                    boxShadow: `0 0 20px ${g.glow}`,
+                  }}
+                  animate={{ boxShadow: [`0 0 14px ${g.glow}`, `0 0 28px ${g.glow}`, `0 0 14px ${g.glow}`] }}
+                  transition={{ duration: 2.5, repeat: Infinity }}
+                >
+                  <g.Planet size={52} />
+                </motion.div>
+
+                <div className="text-center">
+                  <div className="font-black text-sm" style={{ color: g.color }}>
+                    {t.grade} {g.grade}
                   </div>
-                  <p className="text-xs uppercase tracking-[0.28em] text-white/40">
-                    {t.grade} {entry.grade}
-                  </p>
-                  <h2 className="mt-1 text-2xl font-bold">{t[subtitleKey]}</h2>
-                  <p className="mt-4 text-sm text-white/60">
-                    {progress[entry.grade]}/9 {t.islands}
-                  </p>
+                  <div className="text-[10px] font-bold mt-0.5" style={{ color: `${g.color}CC` }}>
+                    {g.emoji} {subtitle}
+                  </div>
+                  <div className="text-[10px] text-white/40 mt-0.5 font-medium">
+                    {progress}/9 {t.topics}
+                  </div>
+                </div>
+
+                <div className="w-full h-1 bg-white/10 rounded-full overflow-hidden">
+                  <motion.div
+                    className="h-full rounded-full"
+                    style={{ background: g.color }}
+                    initial={{ width: 0 }}
+                    animate={{ width: `${(progress / 9) * 100}%` }}
+                    transition={{ duration: 0.8, ease: "easeOut" }}
+                  />
                 </div>
               </motion.button>
             );

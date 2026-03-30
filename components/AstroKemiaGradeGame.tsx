@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { ArrowLeft, CheckCircle2, FlaskConical, Home, Lock, Sparkles, Trophy } from "lucide-react";
@@ -83,6 +83,261 @@ const UI = {
   },
 } as const;
 
+const GRADE_LABELS = {
+  en: "Chemistry",
+  hu: "Kémia",
+  de: "Chemie",
+  ro: "Chimie",
+} as const;
+
+const CHECKPOINT_LABELS = {
+  en: ["Lab Check", "Reaction Check", "Final Check"],
+  hu: ["Lab Check", "Reaction Check", "Final Check"],
+  de: ["Labor-Check", "Reaktions-Check", "Final-Check"],
+  ro: ["Lab Check", "Reaction Check", "Final Check"],
+} as const;
+
+const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
+  id: i,
+  x: (i * 37 + 13) % 100,
+  y: (i * 53 + 7) % 100,
+  size: (i % 4) * 0.6 + 0.3,
+  dur: 1.8 + (i % 6) * 0.5,
+  delay: (i % 9) * 0.35,
+}));
+
+const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
+  id: i,
+  startX: 15 + i * 22,
+  dur: 3.5 + i * 1.2,
+  delay: 4 + i * 5,
+}));
+
+const MAP_W = 320;
+const MAP_H = 860;
+const MAP_VB_OFFSET = 220;
+const CP_POS: Record<string, { x: number; y: number }> = {
+  test1: { x: 155, y: 295 },
+  test2: { x: 155, y: 50 },
+  test3: { x: 155, y: -165 },
+};
+
+function Starfield() {
+  return (
+    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {STAR_DATA.map((s) => (
+        <motion.div
+          key={s.id}
+          className="absolute rounded-full bg-white"
+          style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
+          animate={{ opacity: [0.08, 0.9, 0.08] }}
+          transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }}
+        />
+      ))}
+      {SHOOT_DATA.map((s) => (
+        <motion.div
+          key={`shoot-${s.id}`}
+          className="absolute h-px rounded-full"
+          style={{
+            left: `${s.startX}%`,
+            top: `${10 + s.id * 18}%`,
+            width: 60,
+            background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent)",
+            rotate: -25,
+          }}
+          animate={{ x: [0, 180], opacity: [0, 1, 0] }}
+          transition={{ duration: 0.8, delay: s.delay, repeat: Infinity, repeatDelay: s.dur, ease: "easeIn" }}
+        />
+      ))}
+      <div
+        className="absolute"
+        style={{
+          left: "10%",
+          top: "20%",
+          width: 200,
+          height: 200,
+          background: "radial-gradient(ellipse, rgba(16,185,129,0.10) 0%, transparent 70%)",
+          borderRadius: "50%",
+        }}
+      />
+      <div
+        className="absolute"
+        style={{
+          left: "55%",
+          top: "55%",
+          width: 160,
+          height: 160,
+          background: "radial-gradient(ellipse, rgba(59,130,246,0.08) 0%, transparent 70%)",
+          borderRadius: "50%",
+        }}
+      />
+      <div
+        className="absolute"
+        style={{
+          left: "64%",
+          top: "18%",
+          width: 120,
+          height: 120,
+          background: "radial-gradient(circle, rgba(168,85,247,0.10) 0%, transparent 72%)",
+          borderRadius: "50%",
+        }}
+      />
+    </div>
+  );
+}
+
+function buildSmoothPath(islands: IslandDef[]): string {
+  const pts = islands.map((i) => ({ x: i.svgX, y: i.svgY }));
+  if (pts.length < 2) return "";
+  let d = `M ${pts[0].x},${pts[0].y}`;
+  for (let i = 0; i < pts.length - 1; i++) {
+    const cx = (pts[i].x + pts[i + 1].x) / 2;
+    const cy = (pts[i].y + pts[i + 1].y) / 2;
+    d += ` Q ${pts[i].x},${pts[i].y} ${cx},${cy}`;
+  }
+  d += ` Q ${pts[pts.length - 2].x},${pts[pts.length - 2].y} ${pts[pts.length - 1].x},${pts[pts.length - 1].y}`;
+  return d;
+}
+
+function IslandMapSVG({
+  islands,
+  checkpointIds,
+  progress,
+  langCode,
+  onIsland,
+  onCheckpoint,
+  isIslandUnlocked,
+  isCheckpointUnlocked,
+  isCheckpointDone,
+  islandTotalStars,
+}: {
+  islands: IslandDef[];
+  checkpointIds: string[];
+  progress: AstroKemiaProgress;
+  langCode: Lang;
+  onIsland: (island: IslandDef) => void;
+  onCheckpoint: (testId: string) => void;
+  isIslandUnlocked: (progress: AstroKemiaProgress, islandId: string) => boolean;
+  isCheckpointUnlocked: (progress: AstroKemiaProgress, testId: string) => boolean;
+  isCheckpointDone: (progress: AstroKemiaProgress, testId: string) => boolean;
+  islandTotalStars: (progress: AstroKemiaProgress, islandId: string) => number;
+}) {
+  const pathD = buildSmoothPath(islands);
+
+  return (
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+      <defs>
+        <filter id="pathGlowChem" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="3" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <radialGradient id="nebulaChem1" cx="30%" cy="60%" r="50%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#10B981" stopOpacity="0" />
+        </radialGradient>
+        <radialGradient id="nebulaChem2" cx="70%" cy="30%" r="40%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.09" />
+          <stop offset="100%" stopColor="#3B82F6" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+
+      <ellipse cx={100} cy={350} rx={160} ry={200} fill="url(#nebulaChem1)" />
+      <ellipse cx={220} cy={100} rx={130} ry={160} fill="url(#nebulaChem2)" />
+
+      <path d={pathD} fill="none" stroke="rgba(16,185,129,0.25)" strokeWidth={8} filter="url(#pathGlowChem)" strokeLinecap="round" />
+      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2.5} strokeDasharray="10 7" strokeLinecap="round" />
+
+      {islands.slice(0, -1).map((island, i) => {
+        const next = islands[i + 1];
+        const mx = (island.svgX + next.svgX) / 2;
+        const my = (island.svgY + next.svgY) / 2;
+        return <circle key={i} cx={mx} cy={my} r={2} fill="rgba(255,255,255,0.18)" />;
+      })}
+
+      {checkpointIds.map((testId) => {
+        const pos = CP_POS[testId];
+        if (!pos) return null;
+        const unlocked = isCheckpointUnlocked(progress, testId);
+        const done = isCheckpointDone(progress, testId);
+        const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
+        const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
+        return (
+          <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)} style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
+            {unlocked && !done && (
+              <>
+                <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1} opacity={0.3} strokeDasharray="4 3" />
+                <circle cx={pos.x} cy={pos.y} r={28} fill="none" stroke={color} strokeWidth={0.8} opacity={0.14} />
+              </>
+            )}
+            <rect x={pos.x - 54} y={pos.y - 18} width={108} height={36} rx={18} fill={fillAlpha} stroke={color} strokeWidth={done ? 1.5 : 2} />
+            <text x={pos.x - 35} y={pos.y + 5} textAnchor="middle" fontSize={13}>{done ? "🧪" : unlocked ? "⚗️" : "🔒"}</text>
+            <text x={pos.x + 10} y={pos.y + 1} textAnchor="middle" fontSize={8.5} fontWeight="bold" fill={color}>
+              {(CHECKPOINT_LABELS[langCode] ?? CHECKPOINT_LABELS.en)[Math.max(Number(testId.replace("test", "")) - 1, 0)]}
+            </text>
+            <text x={pos.x + 10} y={pos.y + 11} textAnchor="middle" fontSize={7.5} fontWeight="bold" fill={color} opacity={0.85}>
+              {done ? "✓" : unlocked ? "GO" : "LOCK"}
+            </text>
+          </g>
+        );
+      })}
+
+      {islands.map((island, idx) => {
+        const unlocked = isIslandUnlocked(progress, island.id);
+        const done = progress.completedIslands.includes(island.id);
+        const total = islandTotalStars(progress, island.id);
+        return (
+          <g key={island.id} onClick={() => unlocked && onIsland(island)} style={{ cursor: unlocked ? "pointer" : "default" }}>
+            {unlocked && !done && (
+              <>
+                <circle cx={island.svgX} cy={island.svgY} r={40} fill={island.color} opacity={0.08} />
+                <circle cx={island.svgX} cy={island.svgY} r={30} fill="none" stroke={island.color} strokeOpacity={0.18} strokeWidth={1.2} />
+                <circle cx={island.svgX + 18} cy={island.svgY - 16} r={2.8} fill={island.color} fillOpacity={0.4} />
+                <circle cx={island.svgX - 16} cy={island.svgY + 14} r={2.2} fill="#ffffff" fillOpacity={0.28} />
+              </>
+            )}
+            {done && <circle cx={island.svgX} cy={island.svgY} r={36} fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5} strokeDasharray="5 3" />}
+            {unlocked ? (
+              <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20} opacity={done ? 0.85 : 1}>{island.icon}</text>
+            ) : (
+              <>
+                <circle cx={island.svgX} cy={island.svgY} r={24} fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" strokeWidth={1.5} opacity={0.35} />
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
+              </>
+            )}
+            {!unlocked && <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9} fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>}
+            {done && (
+              <g>
+                <circle cx={island.svgX + 22} cy={island.svgY - 20} r={11} fill="#FFD700" />
+                <text x={island.svgX + 22} y={island.svgY - 15} textAnchor="middle" fontSize={11} fill="#000" fontWeight="bold">✓</text>
+              </g>
+            )}
+            {unlocked && !done && (
+              <g>
+                {island.missions.map((m, mi) => {
+                  const mdone = progress.completedMissions.includes(`${island.id}_${m.id}`);
+                  return <circle key={mi} cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4} fill={mdone ? island.color : "rgba(255,255,255,0.08)"} stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />;
+                })}
+              </g>
+            )}
+            {unlocked && (
+              <text
+                x={island.svgX}
+                y={island.svgY + 48}
+                textAnchor="middle"
+                fontSize={9}
+                fontWeight="bold"
+                fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}
+              >
+                {total > 0 ? `${total}/9 ⭐` : island.name[langCode].split(" ")[0]}
+              </text>
+            )}
+          </g>
+        );
+      })}
+    </svg>
+  );
+}
+
 function scoreToStars(score: number, total: number): number {
   if (total <= 0) return 1;
   const pct = score / total;
@@ -158,16 +413,6 @@ export default function AstroKemiaGradeGame({
   useEffect(() => {
     setProgress(loadProgress());
   }, [loadProgress]);
-
-  const checkpointStates = useMemo(
-    () =>
-      Object.keys(checkpointMap).map((id) => ({
-        id,
-        unlocked: isCheckpointUnlocked(progress, id),
-        done: isCheckpointDone(progress, id),
-      })),
-    [checkpointMap, isCheckpointDone, isCheckpointUnlocked, progress]
-  );
 
   const openIsland = useCallback((island: IslandDef) => {
     setActiveIsland(island);
@@ -303,100 +548,66 @@ export default function AstroKemiaGradeGame({
 
   if (screen === "island-map") {
     return (
-      <Shell>
-        <div className="mb-6 rounded-[32px] border border-white/10 bg-white/[0.04] p-6 shadow-[0_24px_90px_rgba(0,0,0,0.28)]">
-          <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-emerald-300/20 bg-emerald-400/10 px-3 py-1 text-xs uppercase tracking-[0.25em] text-emerald-200/80">
-            <FlaskConical size={14} />
-            {t.grade} {grade}
+      <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
+        <Starfield />
+        <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
+          <button
+            onClick={() => router.push(routeBase)}
+            className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors"
+          >
+            <ArrowLeft size={18} />
+          </button>
+          <div className="text-center">
+            <h1 className="text-lg font-black text-white">🪐 {t.grade} {grade}</h1>
+            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">
+              {GRADE_LABELS[langCode]} · {title}
+            </p>
           </div>
-          <h1 className="text-3xl font-black tracking-tight">{title}</h1>
-          <p className="mt-2 max-w-2xl text-sm text-white/65">{subtitle}</p>
-          <p className="mt-4 text-sm text-white/55">
-            {progress.completedIslands.length}/{islands.length} {t.islands} {t.completed}
-          </p>
+          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/60 text-xs font-bold">
+            {progress.completedIslands.length}/{islands.length}
+          </div>
         </div>
-
-        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-          {islands.map((island) => {
-            const unlocked = isIslandUnlocked(progress, island.id);
-            const completed = progress.completedIslands.includes(island.id);
-            const stars = islandTotalStars(progress, island.id);
-
-            return (
-              <motion.div
-                key={island.id}
-                initial={{ opacity: 0, y: 24 }}
-                animate={{ opacity: 1, y: 0 }}
-                className="rounded-[28px] border border-white/10 bg-white/[0.05] p-5"
-                style={{ boxShadow: `0 0 0 1px ${island.color}22, 0 24px 60px rgba(0,0,0,0.18)` }}
-              >
-                <div className="mb-4 flex items-start justify-between gap-3">
-                  <div>
-                    <div className="mb-2 inline-flex h-12 w-12 items-center justify-center rounded-2xl text-xl" style={{ backgroundColor: `${island.color}22` }}>
-                      {island.icon}
-                    </div>
-                    <h2 className="text-lg font-bold">{island.name[langCode]}</h2>
-                    <p className="mt-1 text-xs uppercase tracking-[0.24em] text-white/40">
-                      {island.id.toUpperCase()} · {island.topicKeys.length} {t.topics}
-                    </p>
-                  </div>
-                  <span className={`rounded-full px-3 py-1 text-xs font-semibold ${unlocked ? "bg-emerald-400/15 text-emerald-200" : "bg-white/10 text-white/45"}`}>
-                    {unlocked ? t.unlocked : t.locked}
-                  </span>
-                </div>
-
-                <div className="mb-4 flex flex-wrap gap-2">
-                  {island.topicKeys.map((topicKey) => (
-                    <span key={topicKey} className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/70">
-                      {topicLabels[topicKey]?.[langCode] ?? topicKey}
-                    </span>
-                  ))}
-                </div>
-
-                <div className="mb-4 flex items-center justify-between text-sm text-white/60">
-                  <span className="inline-flex items-center gap-1">
-                    <Trophy size={14} />
-                    {stars}/9
-                  </span>
-                  <span className="inline-flex items-center gap-1">
-                    {completed ? <CheckCircle2 size={14} className="text-emerald-300" /> : <Sparkles size={14} />}
-                    {completed ? t.completed : ""}
-                  </span>
-                </div>
-
-                <button
-                  onClick={() => openIsland(island)}
-                  disabled={!unlocked}
-                  className="w-full rounded-2xl px-4 py-3 text-sm font-semibold transition disabled:cursor-not-allowed disabled:opacity-40"
-                  style={{ backgroundColor: unlocked ? island.color : "#1f2937", color: "white" }}
-                >
-                  {unlocked ? t.start : t.locked}
-                </button>
-              </motion.div>
-            );
-          })}
+        <div className="relative z-10 px-4 mb-2 flex-shrink-0">
+          <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
+            <motion.div
+              className="h-full rounded-full"
+              style={{ background: `linear-gradient(90deg, ${accentColor}, #00FF88)` }}
+              initial={{ width: 0 }}
+              animate={{ width: `${(progress.completedIslands.length / islands.length) * 100}%` }}
+              transition={{ duration: 0.8 }}
+            />
+          </div>
         </div>
-
-        <div className="mt-8 grid gap-4 md:grid-cols-3">
-          {checkpointStates.map((checkpoint) => (
-            <div key={checkpoint.id} className="rounded-[24px] border border-white/10 bg-white/[0.04] p-5">
-              <p className="text-xs uppercase tracking-[0.24em] text-white/40">
-                {t.checkpoint} {checkpoint.id.replace("test", "")}
-              </p>
-              <p className="mt-2 text-sm text-white/65">
-                {checkpoint.done ? t.checkpointDone : checkpoint.unlocked ? t.checkpointReady : t.locked}
-              </p>
-              <button
-                onClick={() => startCheckpoint(checkpoint.id)}
-                disabled={!checkpoint.unlocked || checkpoint.done}
-                className="mt-4 w-full rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-semibold text-white transition disabled:cursor-not-allowed disabled:opacity-40"
-              >
-                {checkpoint.done ? t.checkpointDone : t.start}
-              </button>
+        <div className="relative z-10 px-4 mb-2 flex-shrink-0">
+          <div className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-center">
+            <div className="inline-flex items-center gap-2 rounded-full border border-emerald-300/20 bg-emerald-400/10 px-3 py-1 text-[10px] uppercase tracking-[0.25em] text-emerald-200/80">
+              <FlaskConical size={12} />
+              {subtitle}
             </div>
-          ))}
+            <div className="mt-2 flex items-center justify-center gap-2 text-[11px] text-white/45">
+              <span>⚗️</span>
+              <span>🧪</span>
+              <span>⚛️</span>
+            </div>
+          </div>
         </div>
-      </Shell>
+        <div className="relative z-10 flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => { el.scrollTop = el.scrollHeight; }, 100); }}>
+          <div className="px-2 pb-8">
+            <IslandMapSVG
+              islands={islands}
+              checkpointIds={Object.keys(checkpointMap)}
+              progress={progress}
+              langCode={langCode}
+              onIsland={openIsland}
+              onCheckpoint={startCheckpoint}
+              isIslandUnlocked={isIslandUnlocked}
+              isCheckpointUnlocked={isCheckpointUnlocked}
+              isCheckpointDone={isCheckpointDone}
+              islandTotalStars={islandTotalStars}
+            />
+          </div>
+        </div>
+      </div>
     );
   }
 

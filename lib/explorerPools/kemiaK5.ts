@@ -21,12 +21,19 @@ interface ChemTopic {
   quiz: PoolTopicDef["quiz"];
 }
 
-const makeIslandLabels = (topics: ChemTopic[]): Record<string, Record<string, string>> =>
-  Object.fromEntries(
-    topics.flatMap((topic) =>
-      Object.entries(topic.labels).map(([key, value]) => [`${topic.id}_${key}`, value] as const)
-    )
-  );
+const makeIslandLabels = (topics: ChemTopic[]): Record<string, Record<string, string>> => {
+  const labels: Record<Lang, Record<string, string>> = { de: {}, en: {}, hu: {}, ro: {} };
+
+  topics.forEach((topic) => {
+    Object.entries(topic.labels).forEach(([key, value]) => {
+      (Object.keys(labels) as Lang[]).forEach((lang) => {
+        labels[lang][`${topic.id}_${key}`] = value[lang];
+      });
+    });
+  });
+
+  return labels;
+};
 
 const makePool = (topics: ChemTopic[]): PoolTopicDef[] =>
   topics.map((topic) => ({

@@ -623,7 +623,7 @@ export default function AstroPhysikK6Page() {
               initial={{ width: 0 }} animate={{ width: `${(totalDone / 9) * 100}%` }} transition={{ duration: 0.8 }} />
           </div>
         </div>
-        <div className="relative z-10 flex-1 overflow-y-auto">
+        <div className="relative z-10 flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => { el.scrollTop = el.scrollHeight; }, 100); }}>
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
               <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />

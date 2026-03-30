@@ -2,6 +2,7 @@
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
 import K6Explorer from "@/app/astrokemia/games/k6/K6Explorer";
+import { useLang } from "@/components/LanguageProvider";
 import {
   KEMIA_K6_CHECKPOINT_MAP,
   KEMIA_K6_ISLANDS,
@@ -19,11 +20,21 @@ import {
 } from "@/lib/astroKemia6";
 
 export default function AstroKemiaGrade6Page() {
+  const { lang } = useLang();
+  const subtitle =
+    lang === "hu"
+      ? "Atomok és szétválasztás"
+      : lang === "ro"
+      ? "Atomi și separare"
+      : lang === "en"
+      ? "Atoms & Separation"
+      : "Atome & Trennmethoden";
+
   return (
     <AstroKemiaGradeGame
       grade={6}
       title="AstroKemia"
-      subtitle="Klasse 6 vertieft Atome, Verbindungen, Reaktionen, Säuren/Basen und Umweltchemie als kompletter Inselpfad."
+      subtitle={subtitle}
       gameId="astrokemia"
       routeBase="/astrokemia"
       accentColor="#3B82F6"

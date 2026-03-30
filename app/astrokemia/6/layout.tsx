@@ -4,6 +4,12 @@ export const metadata: Metadata = {
   title: "AstroKemia Klasse 6 – Atome & Trennmethoden | Plizio",
   description: "Chemie Klasse 6 mit Stofftrennung, Atomen, Elementen, Reaktionen und ersten Formelsystemen.",
   alternates: { canonical: "https://plizio.com/astrokemia/6/" },
+  openGraph: {
+    title: "AstroKemia Klasse 6 – Atome & Trennmethoden | Plizio",
+    description: "Chemie Klasse 6 mit Stofftrennung, Atomen, Elementen, Reaktionen und ersten Formelsystemen.",
+    url: "https://plizio.com/astrokemia/6/",
+    type: "website",
+  },
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {

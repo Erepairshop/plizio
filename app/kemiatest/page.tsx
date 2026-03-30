@@ -5,8 +5,10 @@ import { K5_CURRICULUM, getK5Questions, calculateKemiaMark } from "@/lib/kemiaCu
 import { K6_CURRICULUM, getK6Questions } from "@/lib/kemiaCurriculum6";
 import { K7_CURRICULUM, getK7Questions } from "@/lib/kemiaCurriculum7";
 import { K8_CURRICULUM, getK8Questions } from "@/lib/kemiaCurriculum8";
+import { asCurriculumThemes } from "@/lib/kemiaCurriculumShared";
 import "@/lib/kemiaRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { KEMIA_VISUAL_TYPES } from "@/lib/kemiaVisualGenerators";
 
 const KEMIA_CHARS = ["⚗️", "🧪", "⚛️", "🧬", "💧", "🔥", "🫧", "🔬", "🧫", "🧱", "🌡️", "🔋", "🌍", "☣️"];
 const KEMIA_COLORS = [
@@ -43,11 +45,12 @@ const KEMIA_CONFIG: LanguageTestEngineConfig = {
   calculateMark: (pct) => calculateKemiaMark(pct),
 
   curriculum: {
-    5: K5_CURRICULUM as any,
-    6: K6_CURRICULUM as any,
-    7: K7_CURRICULUM as any,
-    8: K8_CURRICULUM as any,
+    5: asCurriculumThemes(K5_CURRICULUM),
+    6: asCurriculumThemes(K6_CURRICULUM),
+    7: asCurriculumThemes(K7_CURRICULUM),
+    8: asCurriculumThemes(K8_CURRICULUM),
   },
+  visualTypes: KEMIA_VISUAL_TYPES,
 
   getQuestions: (grade, subtopicIds, count) => {
     if (grade === 5) return getK5Questions(subtopicIds, count);

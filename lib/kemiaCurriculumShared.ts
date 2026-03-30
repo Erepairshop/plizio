@@ -148,5 +148,16 @@ export function calculateKemiaMark(pct: number): TestGradeMark {
 }
 
 export function asCurriculumThemes(themes: KemiaTheme[]): CurriculumTheme[] {
-  return themes as unknown as CurriculumTheme[];
+  return themes.map((theme) => ({
+    id: theme.id,
+    name: theme.name,
+    icon: theme.icon,
+    color: theme.color,
+    subtopics: theme.subtopics.map((subtopic) => ({
+      id: subtopic.id,
+      name: subtopic.name.de ?? subtopic.name.en ?? subtopic.name.hu ?? subtopic.name.ro ?? subtopic.id,
+      questions: subtopic.questions,
+      hasGenerator: subtopic.hasGenerator,
+    })),
+  }));
 }
