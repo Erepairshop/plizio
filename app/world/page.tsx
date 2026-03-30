@@ -59,6 +59,7 @@ const GAME_NAMES: Record<string, string> = {
   reflexrush: "Reflex Rush", quickpick: "Quick Pick",
   kodex: "Kodex", wordscramble: "Word Scramble",
   mathtest: "Math Test", numberrush: "Number Rush",
+  pipeflow: "Pipe Flow",
   patternforge: "Pattern Forge",
 };
 

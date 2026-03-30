@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -97,6 +97,7 @@ const TRANSLATIONS = {
       sequencerush: "Sequence Rush",
       wordhunt: "Word Hunt",
       numberpath: "Number Path",
+      pipeflow: "Pipe Flow",
       minisudoku: "Mini Sudoku",
       lightout: "Lights Out",
       numbermerge: "Number Merge",
@@ -153,6 +154,7 @@ const TRANSLATIONS = {
       sequencerush: "Szekvencia Roham",
       wordhunt: "Szóvadász",
       numberpath: "Számút",
+      pipeflow: "Csőáramlás",
       minisudoku: "Mini Sudoku",
       lightout: "Lámpaoltás",
       numbermerge: "Számösszevonás",
@@ -209,6 +211,7 @@ const TRANSLATIONS = {
       sequencerush: "Sequenz Rush",
       wordhunt: "Wortjagd",
       numberpath: "Zahlenpfad",
+      pipeflow: "Rohrfluss",
       minisudoku: "Mini Sudoku",
       lightout: "Licht Aus",
       numbermerge: "Zahlenfusion",
@@ -265,6 +268,7 @@ const TRANSLATIONS = {
       sequencerush: "Sequence Rush",
       wordhunt: "Vânătoare de Cuvinte",
       numberpath: "Calea Numerelor",
+      pipeflow: "Fluxul Conductelor",
       minisudoku: "Mini Sudoku",
       lightout: "Stinge Lumina",
       numbermerge: "Fuziune Numerică",
@@ -552,6 +556,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-green-500/20 to-teal-500/20",
       },
       {
+        id: "pipeflow",
+        icon: GitBranch,
+        nameKey: "pipeflow",
+        color: "#22C55E",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-lime-500/20",
+      },
+      {
         id: "minisudoku",
         icon: Puzzle,
         nameKey: "minisudoku",
@@ -697,7 +708,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", astrokemia: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", biologietest: "brain", physiktest: "brain", kemiatest: "brain",
-  numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
+  numberpath: "logic", pipeflow: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };
 

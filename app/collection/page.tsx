@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, Mountain, Star, Info, ChevronDown, ChevronUp, type LucideIcon } from "lucide-react";
+import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, Mountain, Star, Info, ChevronDown, ChevronUp, GitBranch, type LucideIcon } from "lucide-react";
 import { getCards, getRarityConfig, removeCardsByRarity, type GameCard, type CardRarity } from "@/lib/cards";
 import { addSpecialCards, getSpecialCardCount } from "@/lib/specialCards";
 import { useLang } from "@/components/LanguageProvider";
@@ -65,7 +65,7 @@ const T: Record<Language, {
       bronze: "70% alatt",
     },
     legendaryTitle: "Hol szerezhető legendás kártya?",
-    legendaryDesc: "Reflex Rush (10. szint) · Number Rush (10. szint) · Matekteszt · Milliomos · Szókeverő · Különbségkereső · Quick Pick",
+    legendaryDesc: "Reflex Rush (10. szint) · Number Rush (10. szint) · Pipe Flow (10. szint) · Matekteszt · Milliomos · Szókeverő · Különbségkereső · Quick Pick",
     starsTitle: "Csillagok (⭐)",
     starsDesc: "Mérföldkövek teljesítésekor, megosztásokért, kártyák beváltásával szerezhető. A boltban skinek és egyebek vásárolhatók érte.",
     milestonesTitle: "Mérföldkövek — jutalmak",
@@ -91,7 +91,7 @@ const T: Record<Language, {
       bronze: "Unter 70%",
     },
     legendaryTitle: "Wo gibt es Legendär-Karten?",
-    legendaryDesc: "Reflex Rush (Level 10) · Number Rush (Level 10) · Mathetest · Milliomos · Wortmix · Unterschiede suchen · Quick Pick",
+    legendaryDesc: "Reflex Rush (Level 10) · Number Rush (Level 10) · Pipe Flow (Level 10) · Mathetest · Milliomos · Wortmix · Unterschiede suchen · Quick Pick",
     starsTitle: "Sterne (⭐)",
     starsDesc: "Verdient durch Meilensteine, Teilen und Karten einlösen. Im Shop für Skins und mehr verwendbar.",
     milestonesTitle: "Meilensteine — Belohnungen",
@@ -117,7 +117,7 @@ const T: Record<Language, {
       bronze: "Below 70%",
     },
     legendaryTitle: "Where can you get legendary cards?",
-    legendaryDesc: "Reflex Rush (level 10) · Number Rush (level 10) · Math Test · Milliomos · Word Scramble · Spot the Diff · Quick Pick",
+    legendaryDesc: "Reflex Rush (level 10) · Number Rush (level 10) · Pipe Flow (level 10) · Math Test · Milliomos · Word Scramble · Spot the Diff · Quick Pick",
     starsTitle: "Stars (⭐)",
     starsDesc: "Earned through milestones, sharing, and redeeming cards. Use them in the shop to buy skins and more.",
     milestonesTitle: "Milestones — rewards",
@@ -143,7 +143,7 @@ const T: Record<Language, {
       bronze: "Sub 70%",
     },
     legendaryTitle: "Unde poți obține cărți legendare?",
-    legendaryDesc: "Reflex Rush (nivelul 10) · Number Rush (nivelul 10) · Test Mate · Milliomos · Anagramă · Găsește Diferența · Quick Pick",
+    legendaryDesc: "Reflex Rush (nivelul 10) · Number Rush (nivelul 10) · Pipe Flow (nivelul 10) · Test Mate · Milliomos · Anagramă · Găsește Diferența · Quick Pick",
     starsTitle: "Stele (⭐)",
     starsDesc: "Câștigate prin jaloane, distribuire și schimbul de cărți. Folosite în magazin pentru skinuri și altele.",
     milestonesTitle: "Jaloane — recompense",
@@ -165,37 +165,37 @@ const GAME_NAMES: Record<Language, Record<string, string>> = {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Napi Kihívás", skyclimb: "Sky Climb", mathtest: "Matekteszt",
     wordscramble: "Szókeverő", spotdiff: "Különbségkereső", numberrush: "Számroham",
-    milliomos: "Milliomos", racetrack: "Versenyút", citydrive: "Városvezetés",
+    milliomos: "Milliomos", racetrack: "Versenyút", citydrive: "Városvezetés", pipeflow: "Csőáramlás",
   },
   de: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Tägliche Challenge", skyclimb: "Sky Climb", mathtest: "Mathetest",
     wordscramble: "Wortmix", spotdiff: "Unterschiede suchen", numberrush: "Nummernrausch",
-    milliomos: "Milliomos", racetrack: "Rennstrecke", citydrive: "Stadtfahrt",
+    milliomos: "Milliomos", racetrack: "Rennstrecke", citydrive: "Stadtfahrt", pipeflow: "Rohrfluss",
   },
   en: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Daily Challenge", skyclimb: "Sky Climb", mathtest: "Math Test",
     wordscramble: "Word Scramble", spotdiff: "Spot the Diff", numberrush: "Number Rush",
-    milliomos: "Milliomos", racetrack: "Racetrack", citydrive: "City Drive",
+    milliomos: "Milliomos", racetrack: "Racetrack", citydrive: "City Drive", pipeflow: "Pipe Flow",
   },
   ro: {
     quickpick: "Quick Pick", reflexgrid: "Reflex Grid", memoryflash: "Memory Flash",
     daily: "Provocarea zilnică", skyclimb: "Sky Climb", mathtest: "Test Mate",
     wordscramble: "Anagramă", spotdiff: "Găsește Diferența", numberrush: "Avalanșă de Numere",
-    milliomos: "Milliomos", racetrack: "Circuit", citydrive: "Condus prin oraș",
+    milliomos: "Milliomos", racetrack: "Circuit", citydrive: "Condus prin oraș", pipeflow: "Fluxul Conductelor",
   },
 };
 
 // ─── Static maps ──────────────────────────────────────
 const GAME_ICONS: Record<string, LucideIcon> = {
   quickpick: Crosshair, reflexgrid: Zap, memoryflash: Brain,
-  daily: Calendar, skyclimb: Mountain,
+  daily: Calendar, skyclimb: Mountain, pipeflow: GitBranch,
 };
 
 const GAME_COLORS: Record<string, string> = {
   quickpick: "#FF2D78", reflexgrid: "#00D4FF", memoryflash: "#B44DFF",
-  daily: "#FFD700", skyclimb: "#00FF88", mathtest: "#FF8C00",
+  daily: "#FFD700", skyclimb: "#00FF88", mathtest: "#FF8C00", pipeflow: "#22C55E",
   wordscramble: "#00CED1", spotdiff: "#FF69B4", numberrush: "#7FFF00",
   milliomos: "#FFD700", racetrack: "#FF4500", citydrive: "#1E90FF",
 };

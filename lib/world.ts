@@ -12,7 +12,7 @@ export interface WorldProgress {
 }
 
 export const WORLD_ZONES: WorldZone[] = [
-  { id: "mountain", name: "Hegyvidék", emoji: "🏔️", games: ["numberpath", "minisudoku"], color: "#64748b", glow: "rgba(100,116,139,0.4)" },
+  { id: "mountain", name: "Hegyvidék", emoji: "🏔️", games: ["numberpath", "pipeflow", "minisudoku"], color: "#64748b", glow: "rgba(100,116,139,0.4)" },
   { id: "ocean",    name: "Óceán",     emoji: "🌊", games: ["memoryflash", "spotdiff"],   color: "#0ea5e9", glow: "rgba(14,165,233,0.4)" },
   { id: "city",     name: "Város",     emoji: "🏙️", games: ["reflexrush", "quickpick"],   color: "#a855f7", glow: "rgba(168,85,247,0.4)" },
   { id: "forest",   name: "Erdő",      emoji: "🌲", games: ["kodex", "wordscramble"],     color: "#22c55e", glow: "rgba(34,197,94,0.4)"  },
