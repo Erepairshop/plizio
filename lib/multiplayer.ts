@@ -55,7 +55,7 @@ export type GameType =
   | "reflexrush" | "numberrush" | "sequencerush"
   | "wordhunt"
   | "numberpath" | "pathbuilder" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush"
-  | "pipeflow" | "deductiongrid" | "deductiongrid2"
+  | "pipeflow" | "deductiongrid" | "deductiongrid2" | "timeecho"
   | "airhockey";
 
 // Games that will be added later (page.tsx multi integration pending):
@@ -80,11 +80,12 @@ export const GAME_LABELS: Record<GameType, string> = {
   pipeflow: "Pipe Flow",
   deductiongrid: "Deduction Grid",
   deductiongrid2: "Galactic Deduction",
+  timeecho: "Time Echo",
   airhockey: "Air Hockey",
 };
 
 // Games that have level-based difficulty
-export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush", "sequencerush", "wordhunt", "numberpath", "pathbuilder", "minisudoku", "wordscramble", "skyclimb", "lightout", "numbermerge", "nonogram", "mazerush", "pipeflow", "deductiongrid", "deductiongrid2"]);
+export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush", "sequencerush", "wordhunt", "numberpath", "pathbuilder", "minisudoku", "wordscramble", "skyclimb", "lightout", "numbermerge", "nonogram", "mazerush", "pipeflow", "deductiongrid", "deductiongrid2", "timeecho"]);
 
 // Difficulty → level mapping
 export const DIFFICULTY_LEVEL: Record<Difficulty, number> = {

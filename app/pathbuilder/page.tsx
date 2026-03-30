@@ -692,7 +692,7 @@ function PathBuilderPage() {
         <AvatarCompanion {...avatarProps} fixed />
         <MilestonePopup key={milestoneKey} />
 
-        <div className="flex flex-col min-h-screen pb-24">
+        <div className="flex flex-col min-h-screen pb-16 sm:pb-24">
           {/* Header */}
           <div className="flex items-center justify-between p-4 pt-6">
             <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
@@ -708,7 +708,7 @@ function PathBuilderPage() {
           <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
 
           {/* Progress bar */}
-          <div className="px-6 mb-8">
+          <div className="px-4 sm:px-6 mb-6 sm:mb-8">
             <div className="flex justify-between text-xs text-white/40 mb-1">
               <span>{t.progress}</span>
               <span>{save.completedLevels.length}/10 {t.levelsOf}</span>
@@ -725,7 +725,7 @@ function PathBuilderPage() {
           </div>
 
           {/* Level list */}
-          <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+          <div className="px-4 flex flex-col gap-2.5 sm:gap-3 max-w-sm mx-auto w-full">
             {LEVELS.map((lvl, i) => {
               const done    = save.completedLevels.includes(lvl.level);
               const current = lvl.level === save.currentLevel;
@@ -737,7 +737,7 @@ function PathBuilderPage() {
                   initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: i * 0.04 }}
-                  className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                className={`flex items-center gap-3 p-3 sm:p-4 rounded-2xl border transition-all ${
                     done    ? "bg-[#001a08] border-[#00FF8840]"
                     : current && isBoss ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
                     : current ? "bg-[#001a08] border-[#00FF88] shadow-[0_0_20px_#00FF8833]"
@@ -786,7 +786,7 @@ function PathBuilderPage() {
           </div>
 
           {save.completedLevels.length === 10 && (
-            <div className="px-4 mt-6 max-w-sm mx-auto w-full">
+          <div className="px-4 mt-5 sm:mt-6 max-w-sm mx-auto w-full">
               <button
                 onClick={() => { const f = { currentLevel: 1, completedLevels: [] }; setSave(f); writeSave(f); }}
                 className="w-full py-3 rounded-xl text-sm font-bold text-white/60 bg-white/5 border border-white/10"
@@ -954,14 +954,14 @@ function PathBuilderPage() {
   if (screen === "levelComplete") {
     const cfg = cfgRef.current;
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center px-6 bg-[#0A0A1A]">
+      <div className="min-h-screen flex flex-col items-center justify-center px-4 sm:px-6 bg-[#0A0A1A]">
         <motion.div
-          className="w-full max-w-sm rounded-2xl p-6 bg-[#12122A]"
+          className="w-full max-w-sm rounded-2xl p-5 sm:p-6 bg-[#12122A]"
           style={{ border: cfg.level === 10 ? "1px solid #B44DFF44" : "1px solid #00FF8844" }}
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
         >
           <div className="text-center mb-4">
-            <div className="text-4xl mb-2">{cfg.level === 10 ? "🏆" : "✅"}</div>
+            <div className="text-3xl sm:text-4xl mb-2">{cfg.level === 10 ? "🏆" : "✅"}</div>
             <h2 className={`text-xl font-black ${cfg.level === 10 ? "text-[#B44DFF]" : "text-[#00FF88]"}`}>
               {cfg.level === 10 ? t.bossDone : t.levelDone}
             </h2>
@@ -1000,9 +1000,9 @@ function PathBuilderPage() {
   if (screen === "levelFailed") {
     const cfg = cfgRef.current;
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center px-6 bg-[#0A0A1A]">
+      <div className="min-h-screen flex flex-col items-center justify-center px-4 sm:px-6 bg-[#0A0A1A]">
         <motion.div
-          className="w-full max-w-sm rounded-2xl p-6 bg-[#12122A] border border-[#FF2D7844]"
+          className="w-full max-w-sm rounded-2xl p-5 sm:p-6 bg-[#12122A] border border-[#FF2D7844]"
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
         >
           <div className="text-center mb-4">

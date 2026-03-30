@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState, Suspense } from "react";
 import Link from "next/link";
+import { useRouter, useSearchParams } from "next/navigation";
 import { motion } from "framer-motion";
 import { ChevronRight, Check, GitBranch, HelpCircle, Home, Lock, RotateCcw } from "lucide-react";
 import MilestonePopup from "@/components/MilestonePopup";
@@ -16,10 +17,16 @@ import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
+import { submitScore, submitMixRoundScore, pollMixRound, abandonMatch } from "@/lib/multiplayer";
+import MultiplayerResult from "@/components/MultiplayerResult";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import { getUsername } from "@/lib/username";
+import { supabase } from "@/lib/supabase/client";
 
 type Side = "top" | "right" | "bottom" | "left";
 type PieceKind = "source" | "sink" | "straight" | "corner";
-type Screen = "expedition" | "playing" | "reward" | "levelComplete";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "multi-waiting" | "multi-result";
 type AvatarMood = "idle" | "focused" | "happy" | "victory" | "surprised" | "confused" | "laughing" | "disappointed";
 
 const SIDE_ORDER: Side[] = ["top", "right", "bottom", "left"];
@@ -381,11 +388,22 @@ function analyzeFlow(tiles: PipeTile[], gridSize: number) {
   };
 }
 
+function countRequiredRotations(tiles: PipeTile[]) {
+  return tiles.reduce((sum, tile) => sum + normalizedRotation(tile.solutionRotation - tile.rotation), 0);
+}
+
 function calcRarity(rotations: number, par: number, level: number): CardRarity {
   if (level === 10) return "legendary";
-  if (rotations <= par * 0.75) return "gold";
-  if (rotations <= par) return "silver";
+  if (rotations <= par) return "gold";
+  if (rotations <= par + Math.max(2, Math.ceil(par * 0.35))) return "silver";
   return "bronze";
+}
+
+function calcScore(rotations: number, par: number, hintsUsed: number) {
+  const total = Math.max(12, par * 2);
+  const extraRotations = Math.max(0, rotations - par);
+  const score = Math.max(1, total - extraRotations * 2 - hintsUsed * 2);
+  return { score, total };
 }
 
 function PipeTileView({
@@ -446,18 +464,34 @@ function PipeTileView({
 function PipeFlowPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
+  const isMultiplayer = !!matchId;
+  const isMix = !!mixround;
+  const myName = getUsername() || "You";
 
   const [save, setSave] = useState<LOSave>({ currentLevel: 1, completedLevels: [] });
   const [screen, setScreen] = useState<Screen>("expedition");
   const [activeLevel, setActiveLevel] = useState(1);
   const [tiles, setTiles] = useState<PipeTile[]>([]);
   const [moves, setMoves] = useState(0);
+  const [targetMoves, setTargetMoves] = useState(0);
   const [connectedCount, setConnectedCount] = useState(0);
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [milestoneKey, setMilestoneKey] = useState(0);
   const [hintedTile, setHintedTile] = useState<number | null>(null);
   const [hintsLeft, setHintsLeft] = useState(0);
   const [showHelp, setShowHelp] = useState(false);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
 
   const [avatarGender, setAvatarGender] = useState<AvatarGender>("girl");
   const [avatarSkin, setAvatarSkin] = useState(() => getSkinDef("default"));
@@ -479,6 +513,8 @@ function PipeFlowPage() {
   const hintTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const avatarTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const cfgRef = useRef<PipeLevel>(LEVELS[0]);
+  const targetMovesRef = useRef(0);
+  const autoStartRef = useRef(false);
 
   useEffect(() => {
     saveRef.current = save;
@@ -498,6 +534,14 @@ function PipeFlowPage() {
     const hatId = getActiveHat(); setAvatarHat(hatId ? getHatDef(hatId) : null);
     const trailId = getActiveTrail(); setAvatarTrail(trailId ? getTrailDef(trailId) : null);
   }, []);
+
+  useEffect(() => {
+    if (!isMultiplayer || !matchId || autoStartRef.current) return;
+    autoStartRef.current = true;
+    const parsed = parseInt(urlLevel || "0", 10);
+    const levelNum = Number.isFinite(parsed) && parsed > 0 ? Math.min(LEVELS.length, Math.max(1, parsed)) : Math.min(LEVELS.length, Math.max(1, saveRef.current.currentLevel || 1));
+    startLevel(levelNum);
+  }, [isMultiplayer, matchId, urlLevel]);
 
   const avatarProps = {
     gender: avatarGender, activeSkin: avatarSkin, activeFace: avatarFace,
@@ -528,10 +572,13 @@ function PipeFlowPage() {
     setHintsLeft(cfg.level >= 3 ? 1 : 0);
     triggerAvatar("focused", 3500);
 
-    const rng = seededRng(`pipeflow-${levelNum}-${Date.now()}`);
+    const rng = seed ? seededRng(`pipeflow-${seed}-${levelNum}`) : seededRng(`pipeflow-${levelNum}-${Date.now()}`);
     const newTiles = generatePuzzle(cfg, rng);
+    const optimalRotations = countRequiredRotations(newTiles);
     tilesRef.current = newTiles;
+    targetMovesRef.current = optimalRotations;
     setTiles(newTiles);
+    setTargetMoves(optimalRotations);
     setConnectedCount(analyzeFlow(newTiles, cfg.gridSize).connectedCount);
     gameActiveRef.current = true;
   }
@@ -539,19 +586,33 @@ function PipeFlowPage() {
   function handleWin(finalMoves: number) {
     stopGame();
     const cfg = cfgRef.current;
-    const rarity = calcRarity(finalMoves, cfg.parMoves, cfg.level);
+    const par = targetMovesRef.current || cfg.parMoves;
+    const hintsUsed = cfg.level >= 3 ? Math.max(0, 1 - hintsLeft) : 0;
+    const rarity = calcRarity(finalMoves, par, cfg.level);
+    const { score, total } = calcScore(finalMoves, par, hintsUsed);
     saveCard({
       id: generateCardId(),
       game: "pipeflow",
       rarity,
-      score: Math.max(1, cfg.parMoves * 2 - finalMoves),
-      total: cfg.parMoves * 2,
+      score,
+      total,
       date: new Date().toISOString(),
     });
     window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
     incrementTotalGames();
     triggerAvatar(cfg.level === 10 ? "victory" : "happy", 2500, cfg.level === 10 ? "victory" : "happy");
+
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      setScoreSubmitted(true);
+      setMyFinalScore(score);
+      if (isMix) {
+        submitMixRoundScore(matchId, score, playerNum === "1").then(() => setScreen("multi-waiting"));
+      } else {
+        submitScore(matchId, score, playerNum === "1").then(() => setScreen("multi-waiting"));
+      }
+      return;
+    }
 
     const currentSave = saveRef.current;
     const nextSave: LOSave = {
@@ -585,6 +646,45 @@ function PipeFlowPage() {
     if (hintTimerRef.current) clearTimeout(hintTimerRef.current);
     hintTimerRef.current = setTimeout(() => setHintedTile(null), 3000);
   }
+
+  useEffect(() => {
+    if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
+
+    const checkMatch = async () => {
+      if (isMix) {
+        const result = await pollMixRound(matchId, parseInt(mixround || "1", 10), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
+          setScreen("multi-result");
+          return true;
+        }
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
+        }
+        return false;
+      }
+
+      const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+      if (!data) return false;
+      const oppDone = isP1 ? data.player2_done : data.player1_done;
+      const oppScore = isP1 ? data.player2_score : data.player1_score;
+      const myScore = isP1 ? data.player1_score : data.player2_score;
+      if (oppDone && oppScore !== null && myScore !== null) {
+        setMyFinalScore(myScore);
+        setOppFinalScore(oppScore);
+        setScreen("multi-result");
+        return true;
+      }
+      return false;
+    };
+
+    checkMatch();
+    const interval = setInterval(async () => { if (await checkMatch()) clearInterval(interval); }, 2000);
+    return () => clearInterval(interval);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
 
   const cfg = LEVELS[activeLevel - 1];
   const progressCount = save.completedLevels.length;
@@ -668,7 +768,7 @@ function PipeFlowPage() {
                         <div className="font-bold text-sm">
                           {boss && <span className="text-yellow-400">🏆 {t.boss}</span>} {t.levelLabel} {lvl.level}
                         </div>
-                        <div className="text-white/60 text-[10px]">{lvl.gridSize}×{lvl.gridSize} · {t.par} {lvl.parMoves}</div>
+                        <div className="text-white/60 text-[10px]">{lvl.gridSize}×{lvl.gridSize}</div>
                       </div>
                       {completed && <span className="ml-auto text-[#22C55E]/60 text-xs font-bold">{t.done}</span>}
                     </div>
@@ -709,7 +809,7 @@ function PipeFlowPage() {
           </button>
           <div className="flex items-center gap-4 text-xs font-bold">
             <div className="text-white/80">{t.levelLabel} {activeLevel}</div>
-            <div><span className="text-[#22C55E]">{moves}</span><span className="text-white/60">/{cfg.parMoves} {t.rotation}</span></div>
+            <div><span className="text-[#22C55E]">{moves}</span><span className="text-white/60">/{targetMoves || cfg.parMoves} {t.rotation}</span></div>
             <div className="text-white/70">{solutionState.connectedCount}/{tiles.length} {t.connected}</div>
           </div>
           <button
@@ -761,8 +861,59 @@ function PipeFlowPage() {
           >
             <RotateCcw size={12} /> {t.retry}
           </motion.button>
+          {isMultiplayer && (
+            <motion.button
+              onClick={() => setShowExitConfirm(true)}
+              className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/70 text-xs font-bold"
+              whileTap={{ scale: 0.95 }}
+            >
+              Leave
+            </motion.button>
+          )}
         </div>
+
+        {isMultiplayer && matchId && <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />}
+        <MultiplayerExitConfirm
+          open={showExitConfirm}
+          onStay={() => setShowExitConfirm(false)}
+          onLeave={async () => {
+            if (matchId) await abandonMatch(matchId);
+            router.push("/multiplayer");
+          }}
+        />
       </main>
+    );
+  }
+
+  if (screen === "multi-waiting") {
+    return (
+      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-6">
+        <motion.div
+          className="w-full max-w-sm rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 text-center shadow-2xl"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+        >
+          <div className="text-xs uppercase tracking-[0.35em] text-[#22C55E] font-black mb-3">
+            {t.levelLabel} {activeLevel}
+          </div>
+          <div className="text-3xl font-black text-white">{t.progress}</div>
+          <p className="mt-3 text-white/65 text-sm">
+            {opponentName} is still playing.
+          </p>
+        </motion.div>
+      </main>
+    );
+  }
+
+  if (screen === "multi-result" && myFinalScore !== null && oppFinalScore !== null) {
+    return (
+      <MultiplayerResult
+        myScore={myFinalScore}
+        oppScore={oppFinalScore}
+        myName={myName}
+        oppName={opponentName}
+        onContinue={() => router.push("/multiplayer")}
+      />
     );
   }
 
@@ -771,8 +922,8 @@ function PipeFlowPage() {
       <RewardReveal
         rarity={earnedCard}
         game="pipeflow"
-        score={Math.max(1, cfg.parMoves * 2 - moves)}
-        total={cfg.parMoves * 2}
+        score={calcScore(moves, targetMoves || cfg.parMoves, cfg.level >= 3 ? Math.max(0, 1 - hintsLeft) : 0).score}
+        total={calcScore(moves, targetMoves || cfg.parMoves, cfg.level >= 3 ? Math.max(0, 1 - hintsLeft) : 0).total}
         onDone={() => {
           setScreen("levelComplete");
           setMilestoneKey(k => k + 1);

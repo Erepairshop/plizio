@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, Search, Hash, Shuffle, Crown, Calculator, GitBranch, Grid3x3, Rocket, type LucideIcon } from "lucide-react";
+import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, Search, Hash, Shuffle, Crown, Calculator, GitBranch, Grid3x3, Rocket, Timer, type LucideIcon } from "lucide-react";
 import { type CardRarity, getRarityConfig } from "@/lib/cards";
 import Confetti from "@/components/Confetti";
 
@@ -26,6 +26,7 @@ const GAME_ICONS: Record<string, LucideIcon> = {
   pipeflow: GitBranch,
   deductiongrid: Grid3x3,
   deductiongrid2: Rocket,
+  timeecho: Timer,
   wordscramble: Shuffle,
   milliomos: Crown,
   mathtest: Calculator,
@@ -43,6 +44,7 @@ const GAME_COLORS: Record<string, string> = {
   pipeflow: "#22C55E",
   deductiongrid: "#8B5CF6",
   deductiongrid2: "#6366F1",
+  timeecho: "#00FFFF",
   wordscramble: "#34D399",
   milliomos: "#FFD700",
   mathtest: "#FFD700",

@@ -62,6 +62,7 @@ const GAME_NAMES: Record<string, string> = {
   pipeflow: "Pipe Flow",
   deductiongrid: "Deduction Grid",
   deductiongrid2: "Galactic Deduction",
+  timeecho: "Time Echo",
   patternforge: "Pattern Forge",
 };
 

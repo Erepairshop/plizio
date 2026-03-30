@@ -425,7 +425,7 @@ function TopicSortPage() {
     return (
       <div className="min-h-screen bg-[#090A14] text-white">
         <MilestonePopup key={milestoneKey} />
-        <div className="flex flex-col min-h-screen pb-24">
+        <div className="flex flex-col min-h-screen pb-16 sm:pb-24">
           <div className="flex items-center justify-between p-4 pt-6">
             <Link href="/" className="flex items-center gap-2 text-white/60">
               <Home size={20} />
@@ -440,7 +440,7 @@ function TopicSortPage() {
 
           <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
 
-          <div className="px-6 mb-8">
+          <div className="px-4 sm:px-6 mb-6 sm:mb-8">
             <div className="flex justify-between text-xs text-white/40 mb-1">
               <span>{t.progress}</span>
               <span>{save.completedLevels.length}/10 {t.levelsOf}</span>
@@ -456,7 +456,7 @@ function TopicSortPage() {
             </div>
           </div>
 
-          <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+          <div className="px-4 flex flex-col gap-2.5 sm:gap-3 max-w-sm mx-auto w-full">
             {LEVELS.map((lvl, i) => {
               const done = save.completedLevels.includes(lvl.level);
               const current = lvl.level === save.currentLevel;
@@ -468,14 +468,14 @@ function TopicSortPage() {
                   initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: i * 0.04 }}
-                  className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                className={`flex items-center gap-3 p-3 sm:p-4 rounded-2xl border transition-all ${
                     done ? "bg-[#001f1a] border-[#2DD4BF40]"
                     : current && isBoss ? "bg-[#12091d] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
                     : current ? "bg-[#001f1a] border-[#2DD4BF] shadow-[0_0_20px_#2DD4BF33]"
                     : "bg-[#0f1122] border-white/10 opacity-60"
                   }`}
                 >
-                  <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
+                  <div className={`w-11 h-11 sm:w-12 sm:h-12 rounded-xl flex items-center justify-center text-lg sm:text-xl font-black flex-shrink-0 ${
                     done ? "bg-[#2DD4BF20] text-[#2DD4BF]"
                     : current && isBoss ? "bg-[#B44DFF20] text-[#B44DFF]"
                     : current ? "bg-[#2DD4BF20] text-[#2DD4BF]"
@@ -491,7 +491,7 @@ function TopicSortPage() {
                       </span>
                       {done && <span className="text-[#2DD4BF] text-xs">{t.done}</span>}
                     </div>
-                    <div className="text-white/40 text-xs mt-0.5 flex gap-3">
+                    <div className="text-white/40 text-[11px] mt-0.5 flex gap-2 sm:gap-3">
                       <span>{lvl.items.length} cards</span>
                       <span>3 groups</span>
                     </div>
@@ -515,7 +515,7 @@ function TopicSortPage() {
           </div>
 
           {save.completedLevels.length === 10 && (
-            <div className="px-4 mt-6 max-w-sm mx-auto w-full">
+            <div className="px-4 mt-5 sm:mt-6 max-w-sm mx-auto w-full">
               <button
                 onClick={() => {
                   const fresh = { currentLevel: 1, completedLevels: [] };
@@ -566,7 +566,7 @@ function TopicSortPage() {
           {feedback && <p className="text-xs text-[#FF7AA2] mt-1">{feedback}</p>}
         </div>
 
-        <div className="px-4 pb-4 grid grid-cols-1 md:grid-cols-3 gap-3">
+        <div className="px-4 pb-3 grid grid-cols-1 md:grid-cols-3 gap-2.5 sm:gap-3">
           {categories.map((cat) => {
             const placed = level.items.filter((item) => placements[item.id] === cat.id);
             return (
@@ -603,7 +603,7 @@ function TopicSortPage() {
         </div>
 
         <div className="flex-1 px-4 pb-3">
-          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+          <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3 sm:gap-3">
             {remainingItems.map((item) => {
               const active = selectedItem === item.id;
               return (
@@ -657,15 +657,15 @@ function TopicSortPage() {
   if (screen === "levelComplete") {
     const levelInfo = LEVELS[activeLevel - 1];
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center px-6 bg-[#090A14] text-white">
+      <div className="min-h-screen flex flex-col items-center justify-center px-4 sm:px-6 bg-[#090A14] text-white">
         <motion.div
-          className="w-full max-w-sm rounded-2xl p-6 bg-[#121426] border"
+          className="w-full max-w-sm rounded-2xl p-5 sm:p-6 bg-[#121426] border"
           style={{ borderColor: levelInfo.level === 10 ? "#B44DFF44" : "#2DD4BF44" }}
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
         >
           <div className="text-center mb-4">
-            <div className="text-4xl mb-2">{levelInfo.level === 10 ? "🏆" : "✅"}</div>
+            <div className="text-3xl sm:text-4xl mb-2">{levelInfo.level === 10 ? "🏆" : "✅"}</div>
             <h2 className={`text-xl font-black ${levelInfo.level === 10 ? "text-[#B44DFF]" : "text-[#2DD4BF]"}`}>
               {levelInfo.level === 10 ? t.bossDone : t.levelDone}
             </h2>

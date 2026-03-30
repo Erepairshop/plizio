@@ -56,7 +56,7 @@ const GAME_PROGRESS_KEYS = [
   "numberpath_expedition_v1", "ws_expedition_v1", "lightout_expedition_v1",
   "nonogram_expedition_v1", "numbermerge_expedition_v1", "mazerush_expedition_v1",
   "pipeflow_expedition_v1", "pathbuilder_expedition_v1", "topicsort_expedition_v1",
-  "deductiongrid_expedition_v1", "deductiongrid2_expedition_v1",
+  "deductiongrid_expedition_v1", "deductiongrid2_expedition_v1", "timeecho_expedition_v1",
   // Special
   "citydrive_save", "plizio_life_v1", "plizio_world_progress",
   // Room

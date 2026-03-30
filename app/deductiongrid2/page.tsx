@@ -458,9 +458,9 @@ function DeductionGrid2Page() {
 
   if (screen === "multi-waiting") {
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-5 py-6">
+      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-4 py-5 sm:px-5 sm:py-6">
         <motion.div
-          className="w-full max-w-[560px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 text-center shadow-2xl"
+          className="w-full max-w-[560px] rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 sm:p-6 text-center shadow-2xl"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
         >
@@ -490,9 +490,9 @@ function DeductionGrid2Page() {
 
   if (screen === "levelComplete") {
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-5 py-6">
+      <main className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-4 py-5 sm:px-5 sm:py-6">
         <motion.div
-          className="w-full max-w-[560px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 shadow-2xl"
+          className="w-full max-w-[560px] rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 sm:p-6 shadow-2xl"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
         >
@@ -505,8 +505,8 @@ function DeductionGrid2Page() {
             </div>
           </div>
           <div className="text-center">
-            <div className="text-5xl mb-3">{currentLevel.badge}</div>
-            <h2 className="text-3xl font-black">{activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}</h2>
+            <div className="text-4xl sm:text-5xl mb-3">{currentLevel.badge}</div>
+            <h2 className="text-2xl sm:text-3xl font-black">{activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}</h2>
             <p className="text-white/65 mt-2">{currentLevel.title}</p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <button
@@ -534,7 +534,7 @@ function DeductionGrid2Page() {
   if (screen === "playing") {
     const showWrong = feedback === t.wrong;
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white px-5 py-5">
+      <main className="min-h-screen bg-[#0A0A1A] text-white px-4 py-4 sm:px-5 sm:py-5">
         <div className="mx-auto w-full max-w-[980px]">
           <div className="flex items-center justify-between gap-3 mb-4">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
@@ -543,19 +543,19 @@ function DeductionGrid2Page() {
             <div className="text-xs uppercase tracking-[0.3em] text-[#6366F1] font-black">{currentLevel.title}</div>
           </div>
 
-          <div className="grid gap-5 lg:grid-cols-[1.25fr_0.85fr]">
+          <div className="grid gap-4 sm:gap-5 lg:grid-cols-[1.25fr_0.85fr]">
             <motion.section
-              className="rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 shadow-2xl"
+              className="rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-4 sm:p-5 shadow-2xl"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <div>
                   <div className="text-xs uppercase tracking-[0.35em] text-white/40 font-black">{t.levelLabel} {currentLevel.level}/{LEVELS.length}</div>
-                  <h1 className="mt-2 text-2xl sm:text-3xl font-black">{t.title}</h1>
-                  <p className="mt-2 text-white/65 text-sm">{t.subtitle}</p>
+                  <h1 className="mt-2 text-xl sm:text-3xl font-black">{t.title}</h1>
+                  <p className="mt-2 text-white/65 text-xs sm:text-sm">{t.subtitle}</p>
                 </div>
-                <div className="text-4xl">{currentLevel.badge}</div>
+                <div className="text-3xl sm:text-4xl">{currentLevel.badge}</div>
               </div>
 
               <div className="mb-4 rounded-2xl border border-[#6366F1]/15 bg-[#6366F1]/8 p-4 text-sm text-white/75 leading-relaxed">
@@ -567,16 +567,16 @@ function DeductionGrid2Page() {
                 <span>{t.progress}</span>
               </div>
 
-              <div className="grid gap-2 overflow-x-auto pb-2" style={{ gridTemplateColumns: `minmax(110px, auto) repeat(${currentLevel.columns.length}, minmax(0, 1fr))` }}>
+              <div className="grid gap-1.5 sm:gap-2 overflow-x-auto pb-2" style={{ gridTemplateColumns: `minmax(88px, auto) repeat(${currentLevel.columns.length}, minmax(64px, 1fr))` }}>
                 <div />
                 {currentLevel.columns.map((col) => (
-                  <div key={col} className="px-3 py-2 rounded-xl bg-white/5 border border-white/10 text-center text-[10px] font-black uppercase tracking-[0.15em] text-white/75 flex items-center justify-center min-w-[80px]">
+                  <div key={col} className="px-2 py-2 rounded-xl bg-white/5 border border-white/10 text-center text-[9px] sm:text-[10px] font-black uppercase tracking-[0.08em] sm:tracking-[0.15em] text-white/75 flex items-center justify-center min-w-[64px]">
                     {col}
                   </div>
                 ))}
                 {currentLevel.rows.map((row, rowIndex) => (
                   <div key={row} className="contents">
-                    <div className="px-3 py-3 rounded-xl bg-white/5 border border-white/10 text-sm font-bold text-white/90 flex items-center justify-center text-center">
+                    <div className="px-2 py-3 rounded-xl bg-white/5 border border-white/10 text-xs sm:text-sm font-bold text-white/90 flex items-center justify-center text-center">
                       {row}
                     </div>
                     {currentLevel.columns.map((col, colIndex) => {
@@ -590,7 +590,7 @@ function DeductionGrid2Page() {
                           whileTap={{ scale: 0.97 }}
                           onClick={() => chooseCell(rowIndex, colIndex)}
                           className={[
-                            "min-h-[68px] min-w-[80px] rounded-xl border text-lg font-black transition-all",
+                            "min-h-[58px] sm:min-h-[68px] min-w-[64px] rounded-xl border text-base sm:text-lg font-black transition-all",
                             selected
                               ? "bg-[#6366F1]/20 border-[#6366F1]/60 text-white shadow-[0_0_30px_rgba(99,102,241,0.15)]"
                               : "bg-white/4 border-white/10 text-white/40 hover:bg-white/8 hover:border-white/20",
@@ -634,7 +634,7 @@ function DeductionGrid2Page() {
             </motion.section>
 
             <motion.aside
-              className="rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 shadow-2xl"
+              className="rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-4 sm:p-5 shadow-2xl"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
             >
@@ -663,7 +663,7 @@ function DeductionGrid2Page() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0A0A1A] text-white px-5 py-6">
+      <main className="min-h-screen bg-[#0A0A1A] text-white px-4 py-5 sm:px-5 sm:py-6">
       <div className="mx-auto w-full max-w-[980px]">
         <div className="flex items-center justify-between gap-3 mb-4">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
@@ -672,11 +672,11 @@ function DeductionGrid2Page() {
           <div className="text-xs uppercase tracking-[0.35em] text-[#6366F1] font-black">{t.title}</div>
         </div>
 
-        <div className="rounded-[32px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 shadow-2xl">
+        <div className="rounded-[24px] sm:rounded-[32px] border border-white/10 bg-white/5 backdrop-blur-xl p-4 sm:p-6 shadow-2xl">
           <div className="flex items-center gap-3 text-[#C4B5FD] font-black text-sm uppercase tracking-[0.3em]">
             <Rocket size={18} /> {t.title}
           </div>
-          <h1 className="mt-4 text-3xl sm:text-4xl font-black">{t.subtitle}</h1>
+          <h1 className="mt-4 text-2xl sm:text-4xl font-black">{t.subtitle}</h1>
           <p className="mt-3 text-white/65 max-w-2xl">{t.solvePrompt}</p>
           <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {LEVELS.map((level) => {
