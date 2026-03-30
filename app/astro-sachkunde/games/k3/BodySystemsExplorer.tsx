@@ -222,7 +222,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Tooth Development", t4_text: "When we are babies, we have no teeth. Later, our first teeth appear, which are then replaced.",
     t4_b1: "A child's first teeth are called baby teeth.", t4_b2: "These teeth later become loose and fall out.", t4_b3: "They are replaced by strong, permanent adult teeth.",
     t4_inst: "Find and select the names of the TWO types of teeth in the sentence!",
-    t4_tok1: "In", t4_tok2: "childhood,", t4_tok3: "baby-teeth", t4_tok4: "fall", t4_tok5: "out,", t4_tok6: "and", t4_tok7: "adult-teeth", t4_tok8: "grow", t4_tok9: "in.",
+    t4_tok1: "In", t4_tok2: "childhood,", t4_tok3: "baby-teeth", t4_tok4: "fall", t4_tok5: "out,", t4_tok6: "and", t4_tok7: "then", t4_tok8: "adult-teeth", t4_tok9: "replace.",
     t4_q: "What do we call the teeth that fall out during childhood?",
     t4_q_a: "Baby teeth", t4_q_b: "Adult teeth", t4_q_c: "Water teeth", t4_q_d: "Iron teeth",
 
@@ -262,7 +262,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Zahnentwicklung", t4_text: "Als Babys haben wir noch keine Zähne. Später kommen die ersten Zähne, die dann ausgetauscht werden.",
     t4_b1: "Die ersten Zähne von Kindern nennt man Milchzähne.", t4_b2: "Diese Zähne fangen später an zu wackeln und fallen aus.", t4_b3: "Sie werden durch starke, bleibende Zähne ersetzt.",
     t4_inst: "Finde und markiere die Namen der ZWEI Zahnarten im Satz!",
-    t4_tok1: "In", t4_tok2: "der", t4_tok3: "Kindheit", t4_tok4: "fallen", t4_tok5: "Milchzähne", t4_tok6: "aus", t4_tok7: "und", t4_tok8: "bleibende-Zähne", t4_tok9: "wachsen.",
+    t4_tok1: "Erst", t4_tok2: "kommen", t4_tok3: "Milchzähne,", t4_tok4: "später", t4_tok5: "dann", t4_tok6: "wachsen", t4_tok7: "auch", t4_tok8: "bleibende-Zähne", t4_tok9: "hervor.",
     t4_q: "Wie nennen wir die Zähne, die in der Kindheit ausfallen?",
     t4_q_a: "Milchzähne", t4_q_b: "Erwachsenenzähne", t4_q_c: "Wasserzähne", t4_q_d: "Eisenzähne",
 
@@ -302,7 +302,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t4_title: "Dezvoltarea dinților", t4_text: "Când suntem bebeluși, nu avem dinți. Apoi apar primii dinți, care mai târziu sunt schimbați.",
     t4_b1: "Primii dinți ai copiilor se numesc dinți de lapte.", t4_b2: "Mai târziu, acești dinți se mișcă și cad.", t4_b3: "Ei sunt înlocuiți de dinți definitivi, puternici.",
     t4_inst: "Găsește și marchează în propoziție numele celor DOUĂ tipuri de dinți!",
-    t4_tok1: "În", t4_tok2: "copilărie,", t4_tok3: "dinții-de-lapte", t4_tok4: "cad", t4_tok5: "și", t4_tok6: "cresc", t4_tok7: "dinții-definitivi", t4_tok8: "în", t4_tok9: "loc.",
+    t4_tok1: "În", t4_tok2: "copilărie,", t4_tok3: "dinții-de-lapte", t4_tok4: "cad", t4_tok5: "și", t4_tok6: "cresc", t4_tok7: "apoi", t4_tok8: "dinții-definitivi", t4_tok9: "noi.",
     t4_q: "Cum se numesc dinții care cad în timpul copilăriei?",
     t4_q_a: "Dinți de lapte", t4_q_b: "Dinți definitivi", t4_q_c: "Dinți de apă", t4_q_d: "Dinți de fier",
 
