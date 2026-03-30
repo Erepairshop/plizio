@@ -293,8 +293,19 @@ export type TopicInteractive =
     }
   | {
       type: "physics-bucket";
+      // Standard format:
       buckets: { id: string; label: string }[];  // label keys
       items: { text: string; bucketId: string }[]; // label keys
+      instruction: string;
+      hint1: string;
+      hint2: string;
+    }
+  | {
+      type: "physics-bucket";
+      // Simplified format (bucket1/bucket2 + string items):
+      bucket1: string;    // label key for bucket 1
+      bucket2: string;    // label key for bucket 2
+      items: string[];    // item label keys (2+2 split: first half → b1, second half → b2)
       instruction: string;
       hint1: string;
       hint2: string;
@@ -1656,10 +1667,19 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-bucket") {
+                      const resolvedBuckets = "buckets" in inter
+                        ? inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))
+                        : [{ id: "b1", label: L(inter.bucket1) }, { id: "b2", label: L(inter.bucket2) }];
+                      const half = Math.ceil(inter.items.length / 2);
+                      const resolvedItems = inter.items.map((item, idx) =>
+                        typeof item === "string"
+                          ? { id: String(idx), text: L(item), bucketId: idx < half ? "b1" : "b2" }
+                          : { id: String(idx), text: L((item as { text: string; bucketId: string }).text), bucketId: (item as { text: string; bucketId: string }).bucketId }
+                      );
                       return (
                         <PhysicsDropGame
-                          buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
-                          items={inter.items.map((item, idx) => ({ id: String(idx), text: L(item.text), bucketId: item.bucketId }))}
+                          buckets={resolvedBuckets}
+                          items={resolvedItems}
                           onComplete={() => handleTopicInteractiveDone(true)}
                           lang={langCode}
                         />
