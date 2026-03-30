@@ -39,10 +39,6 @@
   <url><loc>https://plizio.com/room/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://plizio.com/world/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://plizio.com/multiplayer/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://plizio.com/dashboard/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://plizio.com/collection/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://plizio.com/shop/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://plizio.com/profile/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
   <!-- Legal / utility -->
   <url><loc>https://plizio.com/impressum/</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>

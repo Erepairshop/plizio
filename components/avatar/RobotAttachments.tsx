@@ -36,7 +36,7 @@ import { CapeMesh, TrailMesh } from '@/components/avatar/CapeMesh';
 
 type BoneMap = Partial<Record<AvatarAttachmentBone, Bone>>;
 
-function asVectorScale(scale: number | [number, number, number]) {
+function asVectorScale(scale: number | [number, number, number]): [number, number, number] {
   return Array.isArray(scale) ? scale : [scale, scale, scale];
 }
 
@@ -71,9 +71,11 @@ function BoneAttachment({
   children: ReactNode;
 }) {
   const scale = asVectorScale(spec.scale);
+  const pos: [number, number, number] = [spec.position[0], spec.position[1], spec.position[2]];
+  const rot: [number, number, number] = [spec.rotation[0], spec.rotation[1], spec.rotation[2]];
   return (
     <primitive object={bone}>
-      <group position={spec.position} rotation={spec.rotation} scale={scale}>
+      <group position={pos} rotation={rot} scale={scale}>
         {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
       </group>
     </primitive>
@@ -246,15 +248,17 @@ function DualBoneAccessory({
   children: ReactNode;
 }) {
   const scale = asVectorScale(spec.scale);
+  const pos: [number, number, number] = [spec.position[0], spec.position[1], spec.position[2]];
+  const rot: [number, number, number] = [spec.rotation[0], spec.rotation[1], spec.rotation[2]];
   return (
     <>
       <primitive object={leftBone}>
-        <group position={spec.position} rotation={spec.rotation} scale={scale}>
+        <group position={pos} rotation={rot} scale={scale}>
           {children}
         </group>
       </primitive>
       <primitive object={rightBone}>
-        <group position={spec.position} rotation={spec.rotation} scale={scale}>
+        <group position={pos} rotation={rot} scale={scale}>
           {children}
         </group>
       </primitive>
