@@ -321,6 +321,13 @@ export type TopicInteractive =
       instruction: string;
       hint1: string;
       hint2: string;
+    }
+  | {
+      type: "lang-mcq";
+      topic: string;          // topic path for language question generation
+      instruction?: string;
+      hint1?: string;
+      hint2?: string;
     };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -717,7 +724,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       setPhase("topic-interact");
       // Auto-TTS: read the interactive instruction
       const inter = topics[topicIdx]?.interactive;
-      if (inter) setTimeout(() => speak(L(inter.instruction)), 400);
+      if (inter) setTimeout(() => speak(L(inter.instruction ?? "")), 400);
     } else if (topicPhase === "topic-interact") {
       setTopicPhase("topic-quiz");
       setPhase("topic-quiz");
@@ -1350,7 +1357,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                     <span className="text-lg">🎮</span>
                     <span className="text-xs font-bold uppercase tracking-wider text-white/50">{L(topics[topicIdx].infoTitle)}</span>
                     <button
-                      onClick={() => speak(L(topics[topicIdx].interactive.instruction))}
+                      onClick={() => speak(L(topics[topicIdx].interactive.instruction ?? ""))}
                       className="w-7 h-7 rounded-full bg-white/10 flex items-center justify-center text-white/50 hover:text-white hover:bg-white/20 transition-colors shrink-0"
                     >
                       <Volume2 size={14} />
