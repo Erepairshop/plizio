@@ -86,20 +86,20 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ArthropodGroupsSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "arthropods_arthropods" }
+    interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "glied", label: "Gliederfüßer"}, {id: "kein", label: "Kein Gliederfüßer"}], items: [{text: "Biene", bucketId: "glied"}, {text: "Regenwurm", bucketId: "kein"}, {text: "Spinne", bucketId: "glied"}, {text: "Schnecke", bucketId: "kein"}] },
+    quiz: { generate: "arthropods" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "InsectAnatomySvg", bg: "#F0FDF4" },
     interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Kopf", "Brust", "Hinterleib", "sechs", "Beine"], correctIndices: [0, 1, 2, 3, 4] },
-    quiz: { generate: "arthropods_insects" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "biologie-diagram", name: "SpiderAnatomySvg", bg: "#F8FAFC" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "Spinnen haben ___ Beine.", choices: ["acht", "sechs", "zehn", "vier"], correctIndex: 0 },
-    quiz: { generate: "arthropods_spiders" }
+    quiz: { generate: "spiders" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
@@ -111,7 +111,7 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🦋", color: "#A855F7" },
     interactive: { type: "physics-stacker", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "arthropods_metamorphosis" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
@@ -129,19 +129,19 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🐝", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Königin", right: "Eierlegen"}, {left: "Drohnen", right: "Männchen"}, {left: "Arbeiterin", right: "Sammeln"}] },
-    quiz: { generate: "arthropods_insects" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "simple-icon", icon: "🕸️", color: "#CBD5E1" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 4 }, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "arthropods_spiders" }
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Spinnenseide", right: "Klebrig"}, {left: "Netz", right: "Falle"}, {left: "Spindrüse", right: "Produktion"}] },
+    quiz: { generate: "spiders" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text",
     svg: { type: "simple-icon", icon: "🐛", color: "#16A34A" },
     interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Segment", right: "Körperring"}, {left: "Beine", right: "viele"}, {left: "Schutz", right: "Giftklauen"}] },
-    quiz: { generate: "arthropods_arthropods" }
+    quiz: { generate: "arthropods" }
   }
 ];
 
@@ -215,7 +215,7 @@ export const BIO_K6_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "MolluskAnatomySvg", bg: "#F0F9FF" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 3 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "mollusks_mollusks" }
   },
   {
@@ -454,7 +454,7 @@ export const BIO_K6_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "LakeZonesSvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 3 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "ecology_freshwater" }
   },
   {

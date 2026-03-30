@@ -25,11 +25,10 @@ Object.entries(K5_Generators).forEach(([cat, subs]) => {
     BIO_GENERATORS[`${cat}_${sub}`] = gen;
   });
 });
-// Flatten K6_Generators
-Object.entries(K6_Generators).forEach(([cat, subs]) => {
-  Object.entries(subs).forEach(([sub, gen]) => {
-    BIO_GENERATORS[`${cat}_${sub}`] = gen;
-  });
+// Register K6_Generators directly (flat structure, not nested like K5)
+// Keys are used directly: "arthropods", "insects", "blood_components", etc.
+Object.entries(K6_Generators).forEach(([key, gen]) => {
+  BIO_GENERATORS[key] = gen as () => any;
 });
 
 interface Props {

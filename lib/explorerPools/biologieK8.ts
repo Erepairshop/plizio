@@ -112,6 +112,8 @@ export const BIO_K8_I2_LABELS: Record<string, Record<string, string>> = {
     t1_text: "Mutationen sind zufällige, sprunghafte Veränderungen im Erbgut. Sie sind der Motor der Evolution.",
     t1_h1: "Zufällige Änderungen", t1_h2: "Motor der Evolution",
     t1_inst: "Verändere die DNA!",
+    t1_q: "Mutationen sind der Motor der ___.",
+    t1_qa: "Evolution", t1_qb: "Zellteilung", t1_qc: "Photosynthese",
     
     t2_title: "Arten von Mutationen",
     t2_text: "Man unterscheidet Genmutationen (ein Gen), Chromosomenmutationen (Struktur) und Genommutationen (Anzahl).",
@@ -132,6 +134,8 @@ export const BIO_K8_I2_LABELS: Record<string, Record<string, string>> = {
     t5_text: "CRISPR/Cas9 ist eine revolutionäre Genschere, mit der DNA gezielt geschnitten und verändert werden kann.",
     t5_h1: "Genschere", t5_h2: "Gezielte Bearbeitung",
     t5_inst: "Schneide das Gen!",
+    t5_q: "Was ist CRISPR/Cas9?",
+    t5_qa: "Eine Genschere", t5_qb: "Ein Virus", t5_qc: "Ein Protein", t5_qd: "Ein Chromosom",
     
     t6_title: "Transgene Organismen",
     t6_text: "Einem transgenen Organismus wurde artfremde DNA künstlich eingefügt, um bestimmte Eigenschaften zu erzielen.",
@@ -154,7 +158,7 @@ export const BIO_K8_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🎲", color: "#95A5A6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💥", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Mutationen sind der Motor der ___.", choices: ["Evolution", "Zellteilung", "Photosynthese"], correctIndex: 0 },
     quiz: { generate: "mutation" }
   },
   {
@@ -178,7 +182,7 @@ export const BIO_K8_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "✂️", color: "#C0392B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "✂️", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "CRISPR/Cas9 wird als biologische ___ bezeichnet.", choices: ["Genschere", "Nadel", "Pinzette", "Lupe"], correctIndex: 0 },
     quiz: { generate: "genetische_technik" }
   },
   {
@@ -259,7 +263,7 @@ export const BIO_K8_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "👑", color: "#F1C40F" },
-    interactive: { type: "match-pairs", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", pairs: [{left: "Hypophyse", right: "Wachstum"}, {left: "Hypophyse", right: "Andere Drüsen"}] },
+    interactive: { type: "match-pairs", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", pairs: [{left: "Hypophyse", right: "Meisterdrüse"}, {left: "Hypothalamus", right: "Übergeordnet"}, {left: "STH", right: "Wachstumshormon"}] },
     quiz: { generate: "endokrine_druesen" }
   },
   {
@@ -352,7 +356,7 @@ export const BIO_K8_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "➗", color: "#9B59B6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 23 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Diploid (2n)", right: "Körperzelle"}, {left: "Haploid (n)", right: "Keimzelle"}, {left: "Meiose", right: "Halbiert Chromosomenzahl"}] },
     quiz: { generate: "gametogenese" }
   },
   {
@@ -364,13 +368,13 @@ export const BIO_K8_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "♀️", color: "#E91E63" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🥚", count: 1 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
+    interactive: { type: "match-pairs", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", pairs: [{left: "Oogenese", right: "Eizellbildung"}, {left: "Eierstock", right: "Ort der Bildung"}, {left: "1 Eizelle", right: "Pro Meiose"}] },
     quiz: { generate: "gametogenese" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "💕", color: "#F39C12" },
-    interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Spermium (n)", right: "Zygote (2n)"}, {left: "Eizelle (n)", right: "Zygote (2n)"}] },
+    interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Spermium", right: "Haploid (n)"}, {left: "Eizelle", right: "Haploid (n) + nährstoffreich"}, {left: "Zygote", right: "Diploid (2n)"}] },
     quiz: { generate: "befruchtung" }
   },
   {
@@ -475,13 +479,13 @@ export const BIO_K8_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "💊", color: "#9B59B6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🥚", count: 0 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Die Pille verhindert den Eisprung durch ___.", choices: ["Hormone", "Barriere", "Temperatur"], correctIndex: 0 },
     quiz: { generate: "contraception" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🛡️", color: "#27AE60" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🦠", count: 0 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Kondom", right: "Barrieremethode"}, {left: "Pille", right: "Hormonmethode"}, {left: "Kondom+Pille", right: "Doppelschutz"}] },
     quiz: { generate: "contraception" }
   },
   {
@@ -574,7 +578,7 @@ export const BIO_K8_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🌿", color: "#2ECC71" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🐛", count: 0 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "match-pairs", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", pairs: [{left: "Grüne Gentechnik", right: "Pflanzenzüchtung"}, {left: "Herbizidresistenz", right: "Schädlingsschutz"}, {left: "Goldener Reis", right: "Mehr Vitamin A"}] },
     quiz: { generate: "biotech_anwendungen" }
   },
   {
@@ -685,7 +689,7 @@ export const BIO_K8_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🧘", color: "#9B59B6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔥", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "Der Grundumsatz ist die Energie, die der Körper ___ benötigt.", choices: ["in Ruhe", "beim Sport", "beim Schlafen"], correctIndex: 0 },
     quiz: { generate: "integration" }
   },
   {
@@ -778,7 +782,7 @@ export const BIO_K8_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🏞️", color: "#2980B9" },
-    interactive: { type: "tap-count", tapCount: { emoji: "⛰️", count: 1 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Allopatrisch", right: "Geografische Trennung"}, {left: "Fluss / Gebirge", right: "Isolationsbarriere"}, {left: "Getrennte Populationen", right: "Unabhängige Evolution"}] },
     quiz: { generate: "artbildung" }
   },
   {
