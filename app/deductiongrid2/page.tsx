@@ -3,7 +3,8 @@
 import { useEffect, useRef, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion } from "framer-motion";
-import { Check, Rocket, HelpCircle, RotateCcw } from "lucide-react";
+import { Check, Rocket, HelpCircle, Home, RotateCcw } from "lucide-react";
+import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { GameShellExpedition, GameShellLevelComplete } from "@/components/GameShell";
 import { incrementTotalGames } from "@/lib/milestones";
