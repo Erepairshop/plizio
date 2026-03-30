@@ -1,12 +1,11 @@
 "use client";
 
 import { useEffect, useRef, useState, Suspense } from "react";
-import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion } from "framer-motion";
-import { ChevronRight, Check, Grid3x3, HelpCircle, Home, RotateCcw } from "lucide-react";
+import { Check, Grid3x3, HelpCircle, RotateCcw } from "lucide-react";
 import RewardReveal from "@/components/RewardReveal";
-import MilestonePopup from "@/components/MilestonePopup";
+import { GameShellExpedition, GameShellLevelComplete } from "@/components/GameShell";
 import { incrementTotalGames } from "@/lib/milestones";
 import { useLang } from "@/components/LanguageProvider";
 import { submitScore, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
@@ -554,44 +553,20 @@ function DeductionGridPage() {
 
   if (screen === "levelComplete") {
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-5 py-6">
-        <motion.div
-          className="w-full max-w-[560px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 shadow-2xl"
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-        >
-          <div className="flex items-center justify-between mb-4">
-            <Link href="/" className="inline-flex items-center gap-2 text-white/65 text-sm font-semibold">
-              <Home size={15} /> {t.home}
-            </Link>
-            <div className="text-xs uppercase tracking-[0.35em] text-[#8B5CF6] font-black">
-              {activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}
-            </div>
-          </div>
-          <div className="text-center">
-            <div className="text-5xl mb-3">{currentLevel.badge}</div>
-            <h2 className="text-3xl font-black">{activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}</h2>
-            <p className="text-white/65 mt-2">{currentLevel.title}</p>
-            <div className="mt-6 flex flex-wrap justify-center gap-3">
-              <button
-                onClick={goBackToMap}
-                className="px-5 py-3 rounded-xl bg-white/5 border border-white/10 text-white/85 text-sm font-bold"
-              >
-                {t.expeditionMap}
-              </button>
-              {activeLevel < LEVELS.length && (
-                <button
-                  onClick={() => startLevel(activeLevel + 1)}
-                  className="px-5 py-3 rounded-xl bg-[#8B5CF6]/15 border border-[#8B5CF6]/35 text-[#C4B5FD] text-sm font-bold flex items-center gap-1"
-                >
-                  {t.nextLevel} <ChevronRight size={14} />
-                </button>
-              )}
-            </div>
-          </div>
-          <MilestonePopup key={milestoneKey} />
-        </motion.div>
-      </main>
+      <GameShellLevelComplete
+        homeLabel={t.home}
+        heading={activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}
+        title={currentLevel.title}
+        expeditionMapLabel={t.expeditionMap}
+        nextLevelLabel={t.nextLevel}
+        accentClassName="bg-[#8B5CF6]/15 border border-[#8B5CF6]/35 text-[#C4B5FD]"
+        accentTextClassName="text-[#8B5CF6]"
+        badge={currentLevel.badge}
+        showNext={activeLevel < LEVELS.length}
+        onBackToMap={goBackToMap}
+        onNextLevel={() => startLevel(activeLevel + 1)}
+        milestoneKey={milestoneKey}
+      />
     );
   }
 
@@ -727,52 +702,27 @@ function DeductionGridPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0A0A1A] text-white px-5 py-6">
-      <div className="mx-auto w-full max-w-[980px]">
-        <div className="flex items-center justify-between gap-3 mb-4">
-          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
-            <Home size={16} /> {t.home}
-          </Link>
-          <div className="text-xs uppercase tracking-[0.35em] text-[#8B5CF6] font-black">{t.title}</div>
-        </div>
-
-        <div className="rounded-[32px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 shadow-2xl">
-          <div className="flex items-center gap-3 text-[#C4B5FD] font-black text-sm uppercase tracking-[0.3em]">
-            <Grid3x3 size={18} /> {t.title}
-          </div>
-          <h1 className="mt-4 text-3xl sm:text-4xl font-black">{t.subtitle}</h1>
-          <p className="mt-3 text-white/65 max-w-2xl">{t.solvePrompt}</p>
-          <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {LEVELS.map((level) => {
-              const unlocked = isUnlocked(level.level);
-              const completed = completedSet.has(level.level);
-              return (
-                <button
-                  key={level.level}
-                  type="button"
-                  onClick={() => unlocked && startLevel(level.level)}
-                  className={[
-                    "text-left rounded-2xl border p-4 transition-all",
-                    unlocked
-                      ? "bg-white/5 border-white/10 hover:border-[#8B5CF6]/40 hover:bg-[#8B5CF6]/10"
-                      : "bg-white/5 border-white/5 opacity-45 cursor-not-allowed",
-                  ].join(" ")}
-                >
-                  <div className="flex items-center justify-between gap-2">
-                    <div className="text-2xl">{level.badge}</div>
-                    <div className="text-xs uppercase tracking-[0.25em] text-white/45 font-black">
-                    {completed ? t.completed : unlocked ? t.current : t.locked}
-                  </div>
-                </div>
-                <div className="mt-3 text-lg font-black">{level.title}</div>
-                  <div className="mt-1 text-sm text-white/55">{t.levelLabel} {level.level}</div>
-                </button>
-              );
-            })}
-          </div>
-        </div>
-      </div>
-    </main>
+    <GameShellExpedition
+      homeLabel={t.home}
+      title={t.title}
+      subtitle={t.subtitle}
+      prompt={t.solvePrompt}
+      accentClassName="border-[#8B5CF6]/40"
+      accentTextClassName="text-[#C4B5FD]"
+      icon={Grid3x3}
+      levels={LEVELS.map((level) => ({
+        id: level.level,
+        badge: level.badge,
+        title: level.title,
+        unlocked: isUnlocked(level.level),
+        completed: completedSet.has(level.level),
+      }))}
+      currentLabel={t.current}
+      completedLabel={t.completed}
+      lockedLabel={t.locked}
+      levelLabel={t.levelLabel}
+      onStartLevel={startLevel}
+    />
   );
 }
 
