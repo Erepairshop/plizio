@@ -18,6 +18,25 @@ const PHYSIK_COLORS = [
   "rgba(79,70,229,0.10)",
 ];
 
+function calculatePhysikCountryMark(pct: number, country: string) {
+  if (country === "AT" || country === "HU") {
+    if (pct >= 87) return { note: 1, label: "Sehr gut", color: "#FFD700", emoji: "🌟" };
+    if (pct >= 73) return { note: 2, label: "Gut", color: "#00FF88", emoji: "😊" };
+    if (pct >= 57) return { note: 3, label: "Befriedigend", color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 40) return { note: 4, label: "Genügend", color: "#FF6B00", emoji: "😅" };
+    return { note: 5, label: "Nicht genügend", color: "#FF4444", emoji: "😟" };
+  }
+  if (country === "CH") {
+    if (pct >= 92) return { note: 6, label: "Sehr gut", color: "#FFD700", emoji: "🌟" };
+    if (pct >= 81) return { note: 5, label: "Gut", color: "#00FF88", emoji: "😊" };
+    if (pct >= 67) return { note: 4, label: "Genügend", color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 50) return { note: 3, label: "Schwach", color: "#FF6B00", emoji: "😅" };
+    if (pct >= 30) return { note: 2, label: "Sehr schwach", color: "#FF4444", emoji: "😟" };
+    return { note: 1, label: "Unbrauchbar", color: "#FF2D78", emoji: "😢" };
+  }
+  return calculatePhysikMark(pct);
+}
+
 const PHYSIK_CONFIG: LanguageTestEngineConfig = {
   gameId: "physiktest",
   title: "PHYSIK TEST",
@@ -41,7 +60,7 @@ const PHYSIK_CONFIG: LanguageTestEngineConfig = {
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
     { code: "HU", flag: "🇭🇺", label: "Magyarország", sub: "1–5 osztályzat" },
   ],
-  calculateMark: (pct) => calculatePhysikMark(pct),
+  calculateMark: (pct, country) => calculatePhysikCountryMark(pct, country),
 
   curriculum: {
     5: K5_CURRICULUM,

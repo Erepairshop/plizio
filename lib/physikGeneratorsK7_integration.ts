@@ -23,8 +23,52 @@ import { K7_EARTH_SPACE_GENERATORS } from "./physikGeneratorsK7_earthspace";
 import { K7_WAVES_GENERATORS } from "./physikGeneratorsK7_waves";
 import { K7_MAGNETISM_GENERATORS } from "./physikGeneratorsK7_magnetism";
 
-// ─── TEMPORARY GENERATORS FOR MISSING SUBTOPICS ────────────────────────────
-// These are placeholder implementations - to be replaced with full generators
+function q4(de: string, en: string, hu: string, ro: string, lang = "en"): string {
+  const map: Record<string, string> = { de, en, hu, ro };
+  return map[lang] || en;
+}
+
+function mulberry32(seed: number): () => number {
+  return () => {
+    seed |= 0;
+    seed = (seed + 0x6d2b79f5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) | 0;
+    return (((t ^ (t >>> 14)) >>> 0) / 4294967296);
+  };
+}
+
+function shuffle<T>(arr: T[], rng: () => number): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function createMCQ(
+  topic: string,
+  subtopic: string,
+  question: string,
+  correct: string,
+  wrong: string[],
+  rng: () => number
+): CurriculumQuestion {
+  const options = shuffle([correct, ...wrong.slice(0, 3)], rng);
+  return { type: "mcq", topic, subtopic, question, options, correct: options.indexOf(correct) };
+}
+
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): CurriculumQuestion {
+  return { type: "typing", topic, subtopic, question, answer };
+}
+
+// ─── FALLBACK / TARGETED GENERATORS ────────────────────────────────────────
 
 function createPlaceholder(subtopicId: string): (lang?: string, seed?: number) => CurriculumQuestion[] {
   return (lang = "en", seed = 0) => [
@@ -37,6 +81,196 @@ function createPlaceholder(subtopicId: string): (lang?: string, seed?: number) =
       subtopic: subtopicId,
     },
   ];
+}
+
+function buildAccelerationQuestions(lang = "en", seed = 0): CurriculumQuestion[] {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 4; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "acceleration",
+        q4("Beschleunigung Definition?", "Acceleration definition?", "Gyorsulás definíciója?", "Accelerație definiție?", lang),
+        q4("Geschwindigkeitsänderung pro Zeit: a = Δv / Δt", "Change in velocity per time: a = Δv / Δt", "A sebesség időegység alatti változása: a = Δv / Δt", "Schimbarea vitezei în timp: a = Δv / Δt", lang),
+        [
+          q4("Weg pro Zeit: v = s / t", "Distance per time: v = s / t", "Út per idő: v = s / t", "Distanță per timp: v = s / t", lang),
+          q4("Kraft pro Masse ohne Bewegungsänderung", "Force per mass without motion change", "Erő per tömeg mozgásváltozás nélkül", "Forță pe masă fără schimbare de mișcare", lang),
+          q4("Energie pro Zeit", "Energy per time", "Energia per idő", "Energie pe timp", lang),
+        ],
+        rng
+      ));
+    }
+    for (let i = 0; i < 3; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "acceleration",
+        q4("Einheit der Beschleunigung?", "Unit of acceleration?", "A gyorsulás mértékegysége?", "Unitatea accelerației?", lang),
+        "m/s²",
+        ["m/s", "N", "J"],
+        rng
+      ));
+    }
+    for (let i = 0; i < 3; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "acceleration",
+        q4("Freier Fall nahe der Erde?", "Free fall near Earth?", "Szabad esés a Föld közelében?", "Cădere liberă aproape de Pământ?", lang),
+        q4("Beschleunigung etwa 9,81 m/s² nach unten", "Acceleration is about 9.81 m/s² downward", "A gyorsulás kb. 9,81 m/s² lefelé", "Accelerația este de aproximativ 9,81 m/s² în jos", lang),
+        [
+          q4("Geschwindigkeit bleibt immer null", "Velocity always stays zero", "A sebesség mindig nulla marad", "Viteza rămâne mereu zero", lang),
+          q4("Beschleunigung hängt nur von der Masse ab", "Acceleration depends only on mass", "A gyorsulás csak a tömegtől függ", "Accelerația depinde doar de masă", lang),
+          q4("Es gibt keine Beschleunigung", "There is no acceleration", "Nincs gyorsulás", "Nu există accelerație", lang),
+        ],
+        rng
+      ));
+    }
+    questions.push(createTyping(
+      "forces",
+      "acceleration",
+      q4("Formel für die mittlere Beschleunigung?", "Formula for average acceleration?", "Az átlagos gyorsulás képlete?", "Formula pentru accelerația medie?", lang),
+      [q4("a = Δv / Δt; also Geschwindigkeitsänderung durch Zeitänderung", "a = Δv / Δt; change in velocity divided by change in time", "a = Δv / Δt; a sebességváltozás osztva az időváltozással", "a = Δv / Δt; schimbarea vitezei împărțită la schimbarea timpului", lang)]
+    ));
+    questions.push(createTyping(
+      "forces",
+      "acceleration",
+      q4("Was bedeutet negative Beschleunigung?", "What does negative acceleration mean?", "Mit jelent a negatív gyorsulás?", "Ce înseamnă accelerație negativă?", lang),
+      [q4("Sie wirkt der gewählten positiven Richtung entgegen; oft Verlangsamung", "It acts opposite to the chosen positive direction; often a slowing down", "A választott pozitív iránnyal ellentétesen hat; gyakran lassulás", "Acționează opus direcției pozitive alese; adesea înseamnă încetinire", lang)]
+    ));
+    questions.push(createTyping(
+      "forces",
+      "acceleration",
+      q4("Gleichmäßig beschleunigte Bewegung?", "Uniformly accelerated motion?", "Egyenletesen gyorsuló mozgás?", "Mișcare uniform accelerată?", lang),
+      [q4("Die Beschleunigung ist konstant; die Geschwindigkeit ändert sich in gleichen Zeiten gleich stark", "Acceleration is constant; velocity changes by equal amounts in equal time intervals", "A gyorsulás állandó; a sebesség egyenlő időközök alatt egyenlő mértékben változik", "Accelerația este constantă; viteza se schimbă la fel în intervale de timp egale", lang)]
+    ));
+    return questions;
+}
+
+function buildNewtonSecondQuestions(lang = "en", seed = 0): CurriculumQuestion[] {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 5; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "newton_second",
+        q4("Newtons zweites Gesetz?", "Newton's second law?", "Newton második törvénye?", "A doua lege a lui Newton?", lang),
+        q4("F = m · a", "F = m · a", "F = m · a", "F = m · a", lang),
+        ["F = m / a", "F = v / t", "F = E / s"],
+        rng
+      ));
+    }
+    for (let i = 0; i < 3; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "newton_second",
+        q4("Was passiert bei gleicher Kraft und größerer Masse?", "What happens with the same force and a larger mass?", "Mi történik azonos erőnél nagyobb tömeg esetén?", "Ce se întâmplă la aceeași forță și masă mai mare?", lang),
+        q4("Die Beschleunigung wird kleiner", "The acceleration becomes smaller", "A gyorsulás kisebb lesz", "Accelerația devine mai mică", lang),
+        [
+          q4("Die Beschleunigung wird größer", "The acceleration becomes larger", "A gyorsulás nagyobb lesz", "Accelerația devine mai mare", lang),
+          q4("Die Kraft verschwindet", "The force disappears", "Az erő eltűnik", "Forța dispare", lang),
+          q4("Es ändert sich nichts", "Nothing changes", "Semmi sem változik", "Nu se schimbă nimic", lang),
+        ],
+        rng
+      ));
+    }
+    for (let i = 0; i < 2; i++) {
+      questions.push(createMCQ(
+        "forces",
+        "newton_second",
+        q4("1 Newton bedeutet?", "1 Newton means?", "Mit jelent 1 newton?", "Ce înseamnă 1 newton?", lang),
+        q4("Kraft, die 1 kg mit 1 m/s² beschleunigt", "Force that accelerates 1 kg by 1 m/s²", "Olyan erő, amely 1 kg tömeget 1 m/s² gyorsulással gyorsít", "Forța care accelerează 1 kg cu 1 m/s²", lang),
+        [
+          q4("Energie für 1 Sekunde", "Energy for 1 second", "Energia 1 másodpercre", "Energie pentru 1 secundă", lang),
+          q4("Geschwindigkeit von 1 m/s", "A speed of 1 m/s", "1 m/s sebesség", "O viteză de 1 m/s", lang),
+          q4("Arbeit von 1 Joule", "Work of 1 joule", "1 joule munka", "Lucru de 1 joule", lang),
+        ],
+        rng
+      ));
+    }
+    questions.push(createTyping(
+      "forces",
+      "newton_second",
+      q4("Erkläre F = m · a kurz.", "Explain F = m · a briefly.", "Magyarázd el röviden az F = m · a összefüggést.", "Explică pe scurt relația F = m · a.", lang),
+      [q4("Die Beschleunigung wächst mit der Kraft und sinkt bei größerer Masse", "Acceleration increases with force and decreases with larger mass", "A gyorsulás nő az erővel és csökken nagyobb tömeg esetén", "Accelerația crește cu forța și scade la o masă mai mare", lang)]
+    ));
+    questions.push(createTyping(
+      "forces",
+      "newton_second",
+      q4("Welche Einheit hat die Kraft?", "Which unit does force have?", "Mi az erő mértékegysége?", "Care este unitatea forței?", lang),
+      [q4("Newton; 1 N = 1 kg · m/s²", "Newton; 1 N = 1 kg · m/s²", "Newton; 1 N = 1 kg · m/s²", "Newton; 1 N = 1 kg · m/s²", lang)]
+    ));
+    questions.push(createTyping(
+      "forces",
+      "newton_second",
+      q4("Was zeigt das zweite Newtonsche Gesetz über Ursache und Wirkung?", "What does Newton's second law show about cause and effect?", "Mit mutat Newton második törvénye az okról és a következményről?", "Ce arată a doua lege a lui Newton despre cauză și efect?", lang),
+      [q4("Die resultierende Kraft ist die Ursache einer Beschleunigung", "The net force is the cause of an acceleration", "Az eredő erő okozza a gyorsulást", "Forța rezultantă este cauza unei accelerații", lang)]
+    ));
+    return questions;
+}
+
+function buildHeatEnginesQuestions(lang = "en", seed = 0): CurriculumQuestion[] {
+    const rng = mulberry32(seed);
+    const questions: CurriculumQuestion[] = [];
+    for (let i = 0; i < 4; i++) {
+      questions.push(createMCQ(
+        "thermodynamics",
+        "heat_engines",
+        q4("Was macht eine Wärmekraftmaschine?", "What does a heat engine do?", "Mit csinál egy hőerőgép?", "Ce face un motor termic?", lang),
+        q4("Sie wandelt Wärmeenergie teilweise in mechanische Arbeit um", "It converts part of thermal energy into mechanical work", "A hőenergiát részben mechanikai munkává alakítja", "Transformă o parte din energia termică în lucru mecanic", lang),
+        [
+          q4("Sie erzeugt Wärme aus dem Nichts", "It creates heat from nothing", "A semmiből termel hőt", "Creează căldură din nimic", lang),
+          q4("Sie speichert nur elektrische Ladung", "It only stores electric charge", "Csak elektromos töltést tárol", "Stochează doar sarcină electrică", lang),
+          q4("Sie misst nur Temperatur", "It only measures temperature", "Csak hőmérsékletet mér", "Măsoară doar temperatura", lang),
+        ],
+        rng
+      ));
+    }
+    for (let i = 0; i < 3; i++) {
+      questions.push(createMCQ(
+        "thermodynamics",
+        "heat_engines",
+        q4("Warum braucht eine Wärmekraftmaschine eine heiße und eine kalte Seite?", "Why does a heat engine need a hot side and a cold side?", "Miért kell egy hőerőgéphez meleg és hideg oldal?", "De ce are nevoie un motor termic de o parte caldă și una rece?", lang),
+        q4("Damit Wärme fließen kann und ein Teil davon in Arbeit umgewandelt wird", "So heat can flow and part of it can be converted into work", "Hogy a hő áramolhasson, és egy része munkává alakuljon", "Pentru ca căldura să poată curge și o parte să fie transformată în lucru", lang),
+        [
+          q4("Damit die Masse größer wird", "So the mass becomes larger", "Hogy nőjön a tömeg", "Ca masa să devină mai mare", lang),
+          q4("Damit keine Energie erhalten bleibt", "So energy is not conserved", "Hogy ne maradjon meg az energia", "Ca energia să nu se conserve", lang),
+          q4("Damit kein Druck entsteht", "So no pressure is created", "Hogy ne jöjjön létre nyomás", "Ca să nu apară presiune", lang),
+        ],
+        rng
+      ));
+    }
+    for (let i = 0; i < 3; i++) {
+      questions.push(createMCQ(
+        "thermodynamics",
+        "heat_engines",
+        q4("Wirkungsgrad einer realen Wärmekraftmaschine?", "Efficiency of a real heat engine?", "Valós hőerőgép hatásfoka?", "Randamentul unui motor termic real?", lang),
+        q4("Er ist immer kleiner als 100 %", "It is always less than 100%", "Mindig 100% alatti", "Este întotdeauna mai mic de 100%", lang),
+        [
+          q4("Er ist immer genau 100 %", "It is always exactly 100%", "Mindig pontosan 100%", "Este întotdeauna exact 100%", lang),
+          q4("Er kann ohne Verluste unendlich groß sein", "It can be infinitely large without losses", "Veszteség nélkül végtelen lehet", "Poate fi infinit fără pierderi", lang),
+          q4("Er hängt nur von der Farbe der Maschine ab", "It depends only on the color of the machine", "Csak a gép színétől függ", "Depinde doar de culoarea mașinii", lang),
+        ],
+        rng
+      ));
+    }
+    questions.push(createTyping(
+      "thermodynamics",
+      "heat_engines",
+      q4("Nenne ein Beispiel für eine Wärmekraftmaschine.", "Name one example of a heat engine.", "Mondj egy példát hőerőgépre.", "Dă un exemplu de motor termic.", lang),
+      [q4("Verbrennungsmotor, Dampfmaschine oder Dampfturbine", "Combustion engine, steam engine or steam turbine", "Belső égésű motor, gőzgép vagy gőzturbina", "Motor cu ardere internă, mașină cu abur sau turbină cu abur", lang)]
+    ));
+    questions.push(createTyping(
+      "thermodynamics",
+      "heat_engines",
+      q4("Warum ist der Wirkungsgrad nie 100 %?", "Why is efficiency never 100%?", "Miért nem 100% a hatásfok?", "De ce randamentul nu este niciodată 100%?", lang),
+      [q4("Weil immer ein Teil der Wärme an die kältere Umgebung abgegeben werden muss", "Because part of the heat must always be released to the colder surroundings", "Mert a hő egy részét mindig le kell adni a hidegebb környezetnek", "Pentru că o parte din căldură trebuie mereu cedată mediului mai rece", lang)]
+    ));
+    questions.push(createTyping(
+      "thermodynamics",
+      "heat_engines",
+      q4("Welche Energieumwandlung ist typisch?", "Which energy conversion is typical?", "Melyik energiaátalakulás a jellemző?", "Ce transformare de energie este tipică?", lang),
+      [q4("Wärmeenergie zu mechanischer Arbeit", "Thermal energy into mechanical work", "Hőenergia mechanikai munkává", "Energie termică în lucru mecanic", lang)]
+    ));
+    return questions;
 }
 
 // ─── BUILD UNIFIED GENERATOR MAP (NESTED STRUCTURE) ─────────────────────────
@@ -63,14 +297,14 @@ const K7_GENERATOR_MAP: PhysikGeneratorMap = {
 // Speed function covers kinematics (speed and acceleration)
 K7_GENERATOR_MAP.mechanics["speed_velocity"] = K7_FORCES_GENERATORS.speed || createPlaceholder("speed_velocity");
 K7_GENERATOR_MAP.mechanics["speed_velocity_typing"] = K7_FORCES_GENERATORS.speed_typing || createPlaceholder("speed_velocity_typing");
-K7_GENERATOR_MAP.mechanics["acceleration"] = K7_FORCES_GENERATORS.speed || createPlaceholder("acceleration");
-K7_GENERATOR_MAP.mechanics["acceleration_typing"] = K7_FORCES_GENERATORS.speed_typing || createPlaceholder("acceleration_typing");
+K7_GENERATOR_MAP.mechanics["acceleration"] = (lang = "en", seed = 0) => buildAccelerationQuestions(lang, seed).filter((q) => q.type === "mcq");
+K7_GENERATOR_MAP.mechanics["acceleration_typing"] = (lang = "en", seed = 0) => buildAccelerationQuestions(lang, seed).filter((q) => q.type === "typing");
 
 // Newton's laws
 K7_GENERATOR_MAP.mechanics["newton_first"] = K7_FORCES_GENERATORS.newton || createPlaceholder("newton_first");
 K7_GENERATOR_MAP.mechanics["newton_first_typing"] = K7_FORCES_GENERATORS.newton_typing || createPlaceholder("newton_first_typing");
-K7_GENERATOR_MAP.mechanics["newton_second"] = (K7_FORCES_GENERATORS.friction || K7_FORCES_GENERATORS.newton) || createPlaceholder("newton_second");
-K7_GENERATOR_MAP.mechanics["newton_second_typing"] = (K7_FORCES_GENERATORS.friction_typing || K7_FORCES_GENERATORS.newton_typing) || createPlaceholder("newton_second_typing");
+K7_GENERATOR_MAP.mechanics["newton_second"] = (lang = "en", seed = 0) => buildNewtonSecondQuestions(lang, seed).filter((q) => q.type === "mcq");
+K7_GENERATOR_MAP.mechanics["newton_second_typing"] = (lang = "en", seed = 0) => buildNewtonSecondQuestions(lang, seed).filter((q) => q.type === "typing");
 K7_GENERATOR_MAP.mechanics["newton_third"] = K7_FORCES_GENERATORS.newton || createPlaceholder("newton_third");
 K7_GENERATOR_MAP.mechanics["newton_third_typing"] = K7_FORCES_GENERATORS.newton_typing || createPlaceholder("newton_third_typing");
 
@@ -105,8 +339,8 @@ K7_GENERATOR_MAP.thermal["specific_heat"] = (K7_THERMO_GENERATORS.specific_heat?
 K7_GENERATOR_MAP.thermal["specific_heat_typing"] = (K7_THERMO_GENERATORS.specific_heat?._typing) || createPlaceholder("specific_heat_typing");
 K7_GENERATOR_MAP.thermal["phase_changes"] = (K7_THERMO_GENERATORS.states?.combined) || createPlaceholder("phase_changes");
 K7_GENERATOR_MAP.thermal["phase_changes_typing"] = (K7_THERMO_GENERATORS.states?._typing) || createPlaceholder("phase_changes_typing");
-K7_GENERATOR_MAP.thermal["heat_engines"] = (K7_THERMO_GENERATORS.heat_transfer?.combined) || createPlaceholder("heat_engines");
-K7_GENERATOR_MAP.thermal["heat_engines_typing"] = (K7_THERMO_GENERATORS.heat_transfer?._typing) || createPlaceholder("heat_engines_typing");
+K7_GENERATOR_MAP.thermal["heat_engines"] = (lang = "en", seed = 0) => buildHeatEnginesQuestions(lang, seed).filter((q) => q.type === "mcq");
+K7_GENERATOR_MAP.thermal["heat_engines_typing"] = (lang = "en", seed = 0) => buildHeatEnginesQuestions(lang, seed).filter((q) => q.type === "typing");
 
 // MAGNETISM (K7_MAGNETISM_GENERATORS — nested format with .combined and ._typing)
 K7_GENERATOR_MAP.magnetism["magnetic_basics"] = (K7_MAGNETISM_GENERATORS.basics?.combined) || createPlaceholder("magnetic_basics");

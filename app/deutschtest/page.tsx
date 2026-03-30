@@ -170,6 +170,19 @@ interface TestQuestion {
   epochenCorrect?: number;
 }
 
+type LocalizedName = string | Record<string, string> | undefined | null;
+
+function resolveLocalizedName(value: LocalizedName, countryCode?: string): string {
+  if (!value) return "";
+  if (typeof value === "string") return value;
+  const lang =
+    countryCode === "HU" ? "hu" :
+    countryCode === "RO" ? "ro" :
+    countryCode === "DE" || countryCode === "AT" || countryCode === "CH" ? "de" :
+    "en";
+  return value[lang] ?? value.de ?? value.en ?? value.hu ?? value.ro ?? Object.values(value)[0] ?? "";
+}
+
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -1614,7 +1627,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                               {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                             </div>
                             <span className="flex-1 flex items-center gap-1 flex-wrap">
-                              <span>{sub.name}</span>
+                              <span>{resolveLocalizedName(sub.name as LocalizedName, country)}</span>
                               {(configVisualSubtopicMap.get(sub.id) ?? []).map(vt => {
                                 // Extract trailing emoji from label (e.g. "Sentence Builder ✏️" → "✏️")
                                 const emoji = vt.label.match(/[\p{Emoji}\p{Emoji_Presentation}\p{Extended_Pictographic}]\uFE0F?$/u)?.[0];
