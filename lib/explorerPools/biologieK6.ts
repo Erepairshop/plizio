@@ -805,8 +805,8 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🫁", color: "#F87171" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "respiration" }
+    interactive: { type: "tap-count", tapCount: { emoji: "🫁", count: 2 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
