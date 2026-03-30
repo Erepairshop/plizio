@@ -601,7 +601,7 @@ export default function AstroKemiaGradeGame({
             </div>
           </div>
         </div>
-        <div className="relative z-10 flex-1 overflow-y-auto" ref={attachAutoScrollToBottom}>
+        <div className="relative z-10 flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="px-2 pb-8">
             <IslandMapSVG
               islands={islands}

@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
+import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
@@ -258,7 +259,7 @@ export default function AstroMagyar8Page() {
           </button>
           <div className="w-8" />
         </div>
-        <div className="flex-1 flex flex-col items-center px-4 py-6 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => { el.scrollTop = el.scrollHeight; }, 100); }}>
+        <div className="flex-1 min-h-0 flex flex-col items-center px-4 py-6 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <motion.h1 className="text-3xl font-black text-white mb-2" initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }}>
             {O8_LABEL[lang as keyof typeof O8_LABEL] || O8_LABEL.en}
           </motion.h1>

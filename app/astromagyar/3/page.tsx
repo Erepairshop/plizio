@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
+import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
@@ -408,7 +409,7 @@ export default function AstroMagyarO3Page() {
           <div className="flex items-center justify-center px-4 py-4">
             <h1 className="text-xl font-black text-white">{O3_LABEL[lang] || O3_LABEL.en}</h1>
           </div>
-          <div className="flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => el.scrollTop = el.scrollHeight, 100); }}>
+          <div className="flex-1 min-h-0 overflow-y-auto" ref={attachAutoScrollToBottom}>
             <div className="max-w-sm mx-auto px-2">
               <IslandMapSVG progress={progress}
                 onIsland={handleIslandSelect}
