@@ -449,49 +449,49 @@ export const BIO_K6_I4_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🌊", color: "#3B82F6" },
     interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "suess", label: "Süßwasser"}, {id: "salz", label: "Salzwasser"}], items: [{text: "See", bucketId: "suess"}, {text: "Ozean", bucketId: "salz"}, {text: "Fluss", bucketId: "suess"}, {text: "Meer", bucketId: "salz"}] },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "LakeZonesSvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 3 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "ecology_freshwater" }
+    interactive: { type: "match-pairs", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", pairs: [{left: "Litoral", right: "Uferzone"}, {left: "Pelagial", right: "Freiwasser"}, {left: "Pflanzen", right: "Ufer"}] },
+    quiz: { generate: "freshwater" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🦠", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", pairs: [{left: "Phyto", right: "Pflanzlich"}, {left: "Zoo", right: "Tierisch"}, {left: "Licht", right: "Energie"}] },
-    quiz: { generate: "ecology_water_organisms" }
+    quiz: { generate: "water_organisms" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🐟", color: "#0EA5E9" },
     interactive: { type: "highlight-text", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", tokens: ["Stromlinienform", "Flossen", "Widerstand", "Wasser"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_water_organisms" }
+    quiz: { generate: "water_organisms" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🦈", color: "#64748B" },
     interactive: { type: "physics-stacker", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["Algen", "Krebse", "Hering", "Hai"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🕯️", color: "#FACC15" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "In der Tiefsee ist es ___.", choices: ["dunkel", "hell", "warm", "bunt"], correctIndex: 0 },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🪸", color: "#FB7185" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "ecology_saltwater" }
+    interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Koralle", right: "Polyp"}, {left: "Riff", right: "Lebensraum"}, {left: "Bedrohung", right: "Erwärmung"}] },
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🚮", color: "#EF4444" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Plastik", "Schutz", "Lebensraum", "Wasser"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_freshwater" }
+    quiz: { generate: "freshwater" }
   }
 ];
 
