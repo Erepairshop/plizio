@@ -35,12 +35,14 @@ export default function K7Explorer({ island, grade, onDone, color = "#8B5CF6", l
 }) {
   const cfg = POOL_CONFIG[island.id as keyof typeof POOL_CONFIG];
   if (!cfg) return null;
+  const langCode = (["de", "en", "hu", "ro"].includes(lang) ? lang : "de") as "de" | "en" | "hu" | "ro";
+  const title = island.name[langCode] ?? island.name.en;
 
   return (
     <DynamicExplorer
       pool={cfg.pool}
       labels={cfg.labels}
-      title="explorer_title"
+      title={title}
       icon={cfg.icon}
       count={5}
       explorerId={`kemia_k7_${island.id}`}

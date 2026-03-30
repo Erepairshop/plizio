@@ -86,12 +86,20 @@ function buildPool(islandId: string, topics: TopicSpec[]): PoolTopicDef[] {
 }
 
 function buildIsland(island: IslandSpec) {
-  const labels: Record<string, L4> = {
-    explorer_title: island.title,
+  const labels: Record<Lang, Record<string, string>> = {
+    de: { explorer_title: island.title.de },
+    en: { explorer_title: island.title.en },
+    hu: { explorer_title: island.title.hu },
+    ro: { explorer_title: island.title.ro },
   };
 
   island.topics.forEach((topic, idx) => {
-    Object.assign(labels, buildTopicLabels(island.id, idx + 1, topic));
+    for (const [key, value] of Object.entries(buildTopicLabels(island.id, idx + 1, topic))) {
+      labels.de[key] = value.de;
+      labels.en[key] = value.en;
+      labels.hu[key] = value.hu;
+      labels.ro[key] = value.ro;
+    }
   });
 
   return {

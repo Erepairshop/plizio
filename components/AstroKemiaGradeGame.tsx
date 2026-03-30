@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { ArrowLeft, CheckCircle2, FlaskConical, Home, Lock, Sparkles, Trophy } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, generateCardId, saveCard, type CardRarity } from "@/lib/cards";
@@ -92,9 +93,16 @@ const GRADE_LABELS = {
 
 const CHECKPOINT_LABELS = {
   en: ["Lab Check", "Reaction Check", "Final Check"],
-  hu: ["Lab Check", "Reaction Check", "Final Check"],
+  hu: ["Labor Check", "Reakció Check", "Final Check"],
   de: ["Labor-Check", "Reaktions-Check", "Final-Check"],
-  ro: ["Lab Check", "Reaction Check", "Final Check"],
+  ro: ["Verificare lab", "Verificare reacții", "Verificare finală"],
+} as const;
+
+const CHECKPOINT_STATUS = {
+  en: { ready: "GO", locked: "LOCK" },
+  hu: { ready: "MEHET", locked: "ZÁRT" },
+  de: { ready: "LOS", locked: "ZU" },
+  ro: { ready: "START", locked: "BLOCAT" },
 } as const;
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
@@ -261,6 +269,8 @@ function IslandMapSVG({
         const done = isCheckpointDone(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
+        const labelColor = done ? "#ECFFF5" : unlocked ? "#FFF4C2" : "rgba(255,255,255,0.72)";
+        const statusColor = done ? "#D8FFE8" : unlocked ? "#FFE89A" : "rgba(255,255,255,0.84)";
         return (
           <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)} style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
             {unlocked && !done && (
@@ -271,11 +281,11 @@ function IslandMapSVG({
             )}
             <rect x={pos.x - 54} y={pos.y - 18} width={108} height={36} rx={18} fill={fillAlpha} stroke={color} strokeWidth={done ? 1.5 : 2} />
             <text x={pos.x - 35} y={pos.y + 5} textAnchor="middle" fontSize={13}>{done ? "🧪" : unlocked ? "⚗️" : "🔒"}</text>
-            <text x={pos.x + 10} y={pos.y + 1} textAnchor="middle" fontSize={8.5} fontWeight="bold" fill={color}>
+            <text x={pos.x + 10} y={pos.y + 1} textAnchor="middle" fontSize={8.5} fontWeight="bold" fill={labelColor}>
               {(CHECKPOINT_LABELS[langCode] ?? CHECKPOINT_LABELS.en)[Math.max(Number(testId.replace("test", "")) - 1, 0)]}
             </text>
-            <text x={pos.x + 10} y={pos.y + 11} textAnchor="middle" fontSize={7.5} fontWeight="bold" fill={color} opacity={0.85}>
-              {done ? "✓" : unlocked ? "GO" : "LOCK"}
+            <text x={pos.x + 10} y={pos.y + 11} textAnchor="middle" fontSize={7.5} fontWeight="bold" fill={statusColor} opacity={0.96}>
+              {done ? "✓" : unlocked ? CHECKPOINT_STATUS[langCode].ready : CHECKPOINT_STATUS[langCode].locked}
             </text>
           </g>
         );
@@ -304,7 +314,7 @@ function IslandMapSVG({
                 <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
               </>
             )}
-            {!unlocked && <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9} fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>}
+            {!unlocked && <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9} fill="rgba(255,255,255,0.48)" fontWeight="bold">{idx + 1}</text>}
             {done && (
               <g>
                 <circle cx={island.svgX + 22} cy={island.svgY - 20} r={11} fill="#FFD700" />
@@ -326,7 +336,7 @@ function IslandMapSVG({
                 textAnchor="middle"
                 fontSize={9}
                 fontWeight="bold"
-                fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}
+                fill={total === 9 ? "#FFE27A" : total > 0 ? "#F5F8FF" : "rgba(255,255,255,0.72)"}
               >
                 {total > 0 ? `${total}/9 ⭐` : island.name[langCode].split(" ")[0]}
               </text>
@@ -559,11 +569,11 @@ export default function AstroKemiaGradeGame({
           </button>
           <div className="text-center">
             <h1 className="text-lg font-black text-white">🪐 {t.grade} {grade}</h1>
-            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">
+            <p className="text-[10px] text-white/72 font-medium uppercase tracking-widest">
               {GRADE_LABELS[langCode]} · {title}
             </p>
           </div>
-          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/60 text-xs font-bold">
+          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/78 text-xs font-bold">
             {progress.completedIslands.length}/{islands.length}
           </div>
         </div>
@@ -584,14 +594,14 @@ export default function AstroKemiaGradeGame({
               <FlaskConical size={12} />
               {subtitle}
             </div>
-            <div className="mt-2 flex items-center justify-center gap-2 text-[11px] text-white/45">
+            <div className="mt-2 flex items-center justify-center gap-2 text-[11px] text-white/60">
               <span>⚗️</span>
               <span>🧪</span>
               <span>⚛️</span>
             </div>
           </div>
         </div>
-        <div className="relative z-10 flex-1 overflow-y-auto" ref={(el) => { if (el) setTimeout(() => { el.scrollTop = el.scrollHeight; }, 100); }}>
+        <div className="relative z-10 flex-1 overflow-y-auto" ref={attachAutoScrollToBottom}>
           <div className="px-2 pb-8">
             <IslandMapSVG
               islands={islands}
@@ -619,10 +629,10 @@ export default function AstroKemiaGradeGame({
             {activeIsland.icon}
           </div>
           <h1 className="text-3xl font-black">{activeIsland.name[langCode]}</h1>
-          <p className="mt-2 text-sm text-white/60">{t.chooseMission}</p>
+          <p className="mt-2 text-sm text-white/72">{t.chooseMission}</p>
           <div className="mt-4 flex flex-wrap gap-2">
             {activeIsland.topicKeys.map((topicKey) => (
-              <span key={topicKey} className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/70">
+              <span key={topicKey} className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/82">
                 {topicLabels[topicKey]?.[langCode] ?? topicKey}
               </span>
             ))}
@@ -640,9 +650,9 @@ export default function AstroKemiaGradeGame({
               >
                 <div className="mb-3 flex items-center justify-between">
                   <div className="text-2xl">{mission.icon}</div>
-                  {done ? <CheckCircle2 size={18} className="text-emerald-300" /> : <Lock size={18} className="text-white/25" />}
+                  {done ? <CheckCircle2 size={18} className="text-emerald-300" /> : <Lock size={18} className="text-white/45" />}
                 </div>
-                <div className="text-sm uppercase tracking-[0.24em] text-white/35">{mission.id.toUpperCase()}</div>
+                <div className="text-sm uppercase tracking-[0.24em] text-white/55">{mission.id.toUpperCase()}</div>
                 <h2 className="mt-2 text-lg font-bold">{mission.label[langCode]}</h2>
               </button>
             );

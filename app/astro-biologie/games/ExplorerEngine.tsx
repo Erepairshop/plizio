@@ -408,7 +408,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const aiSubject = useMemo(() => subject || deriveSubject(explorerId), [explorerId, subject]);
 
   // AI enhanced mode — activates on 2nd+ play
-  const [aiEnhanced] = useState(() => explorerId ? getPlayCount(explorerId) >= 1 : false);
+  const [aiEnhanced] = useState(() => subject === "chemie" || (explorerId ? getPlayCount(explorerId) >= 1 : false));
   const playCountTracked = useRef(false);
 
   // Track play count on mount
