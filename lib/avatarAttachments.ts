@@ -62,7 +62,7 @@ export function getHatAttachmentSpec(hat: HatDef | null): AvatarAttachmentSpec |
     id: hat.id,
     slot: 'hat',
     anchor: 'Head',
-    position: useTopHatModel ? [0, 0.28, 0] : [0, 0, 0],
+    position: useTopHatModel ? [0, 0.47, 0] : [0, 0, 0],
     rotation: [0, 0, 0],
     scale: useTopHatModel ? 0.22 : 1,
     variant: variantMap[hat.type] || 'crown',
